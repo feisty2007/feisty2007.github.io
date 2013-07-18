@@ -32,7 +32,7 @@ Jekyll bootstrap建立的站点，自动利用[Disqus](https://disqus.com/)建�
 
 我们这里利用“[分享道](http://shareto.com.cn/share.html)”来实现这个功能。
 
-具体是在_includes/themes/twitter/post.html文件里面的
+具体是在'_includes/themes/twitter/post.html'文件里面的
 
 	content
 
