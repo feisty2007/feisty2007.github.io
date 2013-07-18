@@ -14,11 +14,10 @@ tagline:
     
     记录 : 生物 =)
     
-     数据 :
-      名字 : 某某人
-      email : [camark@sina.cn](mailto:camark@sina.cn)
-      微博 : [提子的碎碎念](http://weibo.com/516132346)
-      百度博客 : [某高地](http://hi.baidu.com/camark]
+     名字 : camark
+     email: [camark@sina.cn](mailto:camark@sina.cn)
+     微博 : [提子的碎碎念](http://weibo.com/516132346)
+     博客 : [Ubuntu高地](http://hi.baidu.com/camark]
 
 上面的数据，随时清除，无需保留！
     
