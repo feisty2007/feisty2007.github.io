@@ -12,12 +12,11 @@ tagline:
 
 在 `脑部记忆` 更新一下我的数据:
     
-    记录 : 生物 =)
-    
+     记录 : 生物 =)
      名字 : camark
      email: camark@sina.cn
      微博 : 提子的碎碎念 (http://weibo.com/516132346)
-     博客 : Ubuntu高地 (http://hi.baidu.com/camark]
+     博客 : Ubuntu高地 (http://hi.baidu.com/camark)
 
 上面的数据，随时清除，无需保留！
     
