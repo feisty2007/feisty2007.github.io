@@ -34,7 +34,7 @@ Jekyll bootstrap建立的站点，自动利用[Disqus](https://disqus.com/)建�
 
 具体是在_includes/themes/twitter/post.html文件里面的
 
-	{{ content }}
+	content
 
 下面添加下面内容，twitter对应于你现在的theme名称：
 
