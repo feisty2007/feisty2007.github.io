@@ -12,6 +12,7 @@ tagline:
 
 在 `脑部记忆` 更新一下我的数据:
     
+<<<<<<< HEAD
     记录 : 生物 =)
     
      数据 :
@@ -19,6 +20,14 @@ tagline:
       email : [camark@sina.cn](mailto:camark@sina.cn)
       微博 : [提子的碎碎念](http://weibo.com/516132346)
       百度博客 : [某高地](http://hi.baidu.com/camark)
+=======
+     记录 : 生物 =)
+     
+     名字 : camark
+     email: camark@sina.cn
+     微博 : 提子的碎碎念 (http://weibo.com/516132346)
+     博客 : Ubuntu高地 (http://hi.baidu.com/camark)
+>>>>>>> 49dcf6bd5b461a98e2ba02ad9779a8d1df378736
 
 上面的数据，随时清除，无需保留！
     
@@ -34,6 +43,6 @@ tagline:
 
 ## To-Do
 
-无论如何，生活还是要继续，爱你所爱，扯爱之淡，如此而已！
+无论如何，生活还是要继续，爱你所爱，扯我之淡，如此而已！
 
 

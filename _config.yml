@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : feisty2007
     livefyre :
       site_id : 123
     intensedebate :
