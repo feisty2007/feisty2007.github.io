@@ -22,7 +22,7 @@ tags: [Github,blog]
 
 ###3、完成
 
-等待几分钟，这段时间里面github会自动编译你的上传，然后在浏览器里面打开username.github.com，你的Github就魔法般的出现了。
+等待几分钟，这段时间里面github会自动编译你的上传，然后在浏览器里面输入username.github.com，你的Github博客就魔法般的出现了。
 
 ###更多阅读
 
