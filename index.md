@@ -18,7 +18,6 @@ tagline:
      email: camark@sina.cn
      微博 : 提子的碎碎念 (http://weibo.com/516132346)
      博客 : Ubuntu高地 (http://hi.baidu.com/camark)
->>>>>>> 49dcf6bd5b461a98e2ba02ad9779a8d1df378736
 
 上面的数据，随时清除，无需保留！
     
