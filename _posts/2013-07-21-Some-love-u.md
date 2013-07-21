@@ -2,7 +2,7 @@
 layout: post
 title: "爱"
 description: "爱不爱，你自己早就知道！"
-category: 生活
+category: life
 tags: [感情]
 ---
 {% include JB/setup %}

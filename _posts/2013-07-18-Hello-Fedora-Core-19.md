@@ -2,7 +2,7 @@
 layout: post
 title: "Fedora Core 19边走边写"
 description: "每一个人都期待一个新的旅程，这次从Fedora core 19开始！"
-category: Blog 
+category: blog 
 tags: [Fedora Core，Linux]
 ---
 {% include JB/setup %}
