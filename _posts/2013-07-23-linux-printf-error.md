@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "隐式声明与内建函数 ‘printf’ 不兼容"
+title: "隐式声明与内建函数printf不兼容"
 description: "why and how to do"
 category: blog 
 tags: [linux,c]
