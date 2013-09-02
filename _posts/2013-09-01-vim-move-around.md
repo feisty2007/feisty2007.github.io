@@ -3,7 +3,7 @@ layout: post
 title: "VIM移动（vim系列之一）"
 description: ""
 category: blog 
-tags: [vim]
+tags: [vim,byte of vim]
 ---
 {% include JB/setup %}
 
