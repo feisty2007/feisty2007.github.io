@@ -71,7 +71,10 @@ zo和zc默认代表a'lternate between o'pening and c'losing a folder.
 
 #####part2.txt
 
-	step 4 is eventually what gets you moving, but Steps 2 and 3 		are equally mportant. As Abraham Lincoln once said "If I had 		eight hours to chop down a tree, I'd spend six hours 		sharpening my axe." And to get to this stage,
+	step 4 is eventually what gets you moving, but Steps 2 and 3 		
+	are equally mportant. As Abraham Lincoln once said "If I had 		
+	eight hours to chop down a tree, I'd spend six hours sharpening my axe." 
+	And to get to this stage,
 	you need
 	to do Step 1 which boils down to one thing - It's all in the mind.
 	That's why
