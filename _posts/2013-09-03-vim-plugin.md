@@ -122,4 +122,152 @@ vimrc和gvimrc文件可以包含任何vim命令。下面是我的vimrc文件的�
 通常情况下，vimrc文件的配置通常可以反映出你使用vim的时间。
 
 ###全局插件
+
+全局插件用来提供全局性/通用性的功能。
+
+全局插件可以存放在2个地方：
+
+1、$VIMRUNTIME/plugin 来存储vim的官方插件。
+2、安装你下载的插件，你可以使用自己的目录：
+	* $HOME/.vim/plugin(Linux/BSD/Mac OS X)
+	* %HOME%/vimfiles/plugin/ (Windows)
+	* 查看 :help runtimepath来查看特定平台的插件目录信息
+
+下面来看如何使用插件。
+
+一个特别有用的插件是 Ansuman Mohanty编写的highlight_current_line.vim插件，顾名思义就是高亮显示当前行的一个插件。下载最新版本，然后放到上面的目录里面。
+
+现在，重启vim，打开一个文件，你就看到效果了。
+
+如果你不喜欢，删除那个文件，然后重启就可以了。
+
+同样，我们可以把前面章节的related.vim和capitalize.vim文件放到插件目录里面，就不用每次都用source命令来载入了。你编写的任何插件都可以放到那个目录下面。
+
+###文件类型插件
+
+文件类型插件是针对某一种特定类型的文件。譬如C语言有自己的缩进格式、代码高亮甚至错误显示。
+
+####使用文件类型插件
+
+下面我们来尝试一个XML类型的插件。Xml是一个格式文档语言。譬如，你有下面一段文字：
+	
+	Iron Gods
+	---------
+	Ashok Banker's next book immediately following the Ramayana 	is said to
+	be a novel tentatively titled "Iron Gods" scheduled to be published in
+	2007. A contemporary novel, it is an epic hard science fiction story
+		about a war between the gods of different faiths. Weary of the
+		constant infighting between religious sects and their deities, God
+		(aka Allah, Yahweh, brahman, or whatever one chooses to call the
+		Supreme Deity) wishes to destroy creation altogether.
+		A representation of prophets and holy warriors led by Ganesa, the
+		elephant-headed Hindu deity, randomly picks a sample of mortals, five
+		of whom are the main protagonists of the book--an American Catholic,
+		an Indian Hindu, a Pakistani Muslim, a Japanese Buddhist, and a
+	Japanese Shinto follower. The mortal sampling, called a 'Palimpsest'
+		is ferried aboard a vast Dyson's Sphere artifact termed The Jewel,
+	which is built around the sun itself, contains retransplanted cities
+	and landscapes brought from multiple parallel Earths and is the size
+		of 12,000 Earths. It is also a spaceship travelling to the end of
+		creation, where the Palimpsest is to present itself before God to
+		plead clemency for all creation.
+	Meanwhile, it is upto the five protagonists, aided by Ganesa and a few
+	concerned individuals, including Lucifer Morningstar, Ali Abu Tarab,
+	King David and his son Solomon, and others, to bring about peace among
+	the myriad warring faiths. The question is whether or not they can do
+	so before the audience with God, and if they can do so peacefully--for
+		pressure is mounting to wage one final War of Wars to end all war
+		itself.
+		(Excerpt taken from
+	http://en.wikipedia.org/w/index.php?title=Ashok_Banker&oldid=86219280
+		under the GNU Free Documentation License)
+
+如果以XML格式来书写：
+
+	<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+	<article>
+
+		<articleinfo>
+			<author><firstname>Wikipedia Contributors</firstname></author>
+			<title>Iron Gods</title>
+		</articleinfo>
+		<para>
+			Ashok Banker's next book immediately following the Ramayana is
+			said to be a novel tentatively titled "Iron Gods" scheduled to
+			be published in 2007. A contemporary novel, it is an epic hard
+			science fiction story about a war between the gods of
+			different faiths. Weary of the constant infighting between
+			religious sects and their deities, God (aka Allah, Yahweh,
+			brahman, or whatever one chooses to call the Supreme Deity)
+			wishes to destroy creation altogether.
+		</para>
+		<para>
+			A representation of prophets and holy warriors led by Ganesa,
+			the elephant-headed Hindu deity, randomly picks a sample of
+			mortals, five of whom are the main protagonists of the
+			book--an American Catholic, an Indian Hindu, a Pakistani
+			Muslim, a Japanese Buddhist, and a Japanese Shinto follower.
+			The mortal sampling, called a 'Palimpsest' is ferried aboard a
+			vast Dyson's Sphere artifact termed The Jewel, which is built
+			around the sun itself, contains retransplanted cities and
+			andscapes brought from multiple parallel Earths and is the
+			landscapes brought from multiple parallel Earths and is the
+			size of 12,000 Earths. It is also a spaceship travelling to
+			the end of creation, where the Palimpsest is to present itself
+			before God to plead clemency for all creation.
+		</para>
+		<para>
+			Meanwhile, it is upto the five protagonists, aided by Ganesa
+			and a few concerned individuals, including Lucifer
+			Morningstar, Ali Abu Tarab, King David and his son Solomon,
+			and others, to bring about peace among the myriad warring
+			faiths. The question is whether or not they can do so before
+			the audience with God, and if they can do so peacefully--for
+			pressure is mounting to wage one final War of Wars to end all
+			war itself.
+		</para>
+		<sidebar>
+			<para>
+				(Excerpt taken from
+				http://en.wikipedia.org/w/index.php?title=Ashok_Banker&amp;oldid=86219280
+				under the GNU Free Documentation License)
+			</para>
+		</sidebar>
+	</article>
+
+可以看到XML格式的文档相当严谨。这意味可以轻松把xml文件转化为其它格式的文档，如PDF等可打印的格式。XML不好的一面是编写非常困难。
+
+我们来看一下文件类型插件如何帮助编写XML文档的人。
+1、首先把xmledit插件下载，然后放到 ~/.vim/ftpplugin/目录。
+2、添加下面一行到vimrc里面：
+	
+	autocmd BufNewFile,BufRead *.xml source ~/.vim/ftplugin/xml.vim
+
+特征注意根据操作系统来确定ftplugin目录的正确位置。	
+3、打开vim，然后编辑一个名字为test.xml的文件。
+
+4、输入<article
+
+5、现在输入>,看一下xmledit插件如何帮你自动填写article的闭合。差不多应该是这样：
+
+	<article></article>
+6、现在输入另外一个>，看xmledit如何帮助你输入更多的符号。文件应该看起来这样：
+	
+	<article>
+	
+	</article>
+
+7、你应该看到光标也缩进到了正确的位置，你可以按照文档结构来输入更多的文字。
+
+8、重复上面的步骤，直到输入完毕。
+
+一个XML插件能够让你编写XML更容易，这正是文件类型插件的设计目标。
+
+####编写一个文件类型插件
+
+
+
+	
+	
 	
