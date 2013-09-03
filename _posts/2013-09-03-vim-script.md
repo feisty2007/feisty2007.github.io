@@ -1,11 +1,4 @@
----
-layout: post
-title: "vim脚本"
-description: ""
-category: blog 
-tags: [vim,byte of vim]
----
-{% include JB/setup %}
+vim 脚本
 
 ###介绍
 
@@ -332,6 +325,111 @@ vim支持数组和字典。你可以利用他们来建立复杂的程序。
 现在就可以使用“\\c“快捷键来调用我们的脚本功能了。
 
 如果你的脚本出现运行错误，你可以使用v:errmsg来查看最后的出错信息
+
+###使用外部语言
+
+许多人并不喜欢学习vim script，而是更倾向于使用他们已经学会的语言，来为vim编写插件。
+vim支持Pytho、Perl、Ruby等许多语言。
+
+在这一节，我们用Python来编写一个简单的插件，其它语言也能达到同样的功效。
+
+正如前面所说，如果你对Python，向你推荐我的另外一个书：byte of Python。
+
+首先，我们测试了一下vim是否支持Python：
+
+    :echo has("python")
+    
+如果返回1，我们就可以继续了。如果没有，就需要安装一下。
+
+假设您要编写一篇博客,通常情况下人们总是希望自己的博客能吸引更多的人阅读，而
+搜索引擎通常可以做到这一点。
+所以，如果你加入了一个关键词 （譬如“ C V 拉曼 ”，著名的印度物理学家，诺贝尔奖得主），就可以通过关键词来让更多的人从搜索引擎找到你的博客。例如，如果人们开始寻找 ' c v 拉曼 '，他们可能还搜索
+拉曼效应，他们就可能找到你的博客文章。
+
+怎么找到关键词呢？很简单，用Yahoo!搜索。
+
+首先，我们来看Python怎么找到当前行，然后再当前行加入关键词！
+
+    " Vim plugin for looking up popular search queries related
+    "       to the current line
+    " Last Updated: 2008-11-21 Fri 08:36 AM IST
+    " Maintainer: www.swaroopch.com/contact/
+    " License: www.opensource.org/licenses/bsd-license.php
+    " Make sure we run only once
+    if exists("loaded_related")
+        finish
+    endif    
+    let loaded_related = 1
+    
+    " Look up Yahoo Search and show results to the user
+    function Related()
+        python <<EOF
+            import vim
+            print 'Length of the current line is', len(vim.current.line
+        EOF
+    endfunction
+
+主要的架构和vimscipt的架构差不多。
+
+主要的区别在于<<EOF和EOF中间的Python代码，Python解释器会运行这些代码，并把执行结果传送回vim。其它语言也是类似的。
+
+现在你可以打开vim，运行一下，跟vimscipt的结果是一样的。
+
+
+现在，我们完成工作的核心部分。Yahoo提高了一个Web服务，可以使用Python来调用。
+
+    " Vim plugin for looking up popular search queries related
+    " to the current line
+    " Last Updated: 2008-11-21 Fri 08:36 AM IST
+    " Maintainer: www.swaroopch.com/contact/
+    " License: www.opensource.org/licenses/bsd-license.php
+    " Make sure we run only once
+    if exists("loaded_related")
+        finish
+    endif
+    let loaded_related = 1
+    " Look up Yahoo Search and show results to the user
+    function Related()
+    python <<EOF
+    import vim
+    from yahoo.search.web import RelatedSuggestion
+    search = RelatedSuggestion(app_id='vimsearch', query=vim.current.line)
+    results = search.parse_results()
+    msg = 'Related popular searches are:\n'
+    i = 1
+    for result in results:
+        msg += '%d. %s\n' % (i, result)
+        i += 1
+    print msg
+    EOF
+    endfunction
+
+特别注意，这个脚本以vim的当前行文本作为目标，我们可以输入任何内容。
+
+1、运行:source related.vim
+
+2、输入c v raman
+
+3、运行:call Related()
+
+4、输出应该类似于下面：
+
+     Related popular searches are:
+     1. raman effect
+     2. c v raman india
+     3. raman research institute
+     4. chandrasekhara venkata raman
+     
+
+###总结
+
+我们已经如何使用vim内置脚本语言和其它脚本语言，他们为vim提供了无限的可扩展性！
+
+请多细节，请查看:help eval, :help python-commands, :help perl-using 和 :help ruby-commands。
+
+
+
+
 
 
 
