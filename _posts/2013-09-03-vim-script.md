@@ -1,4 +1,11 @@
-vim 脚本
+---
+layout: post
+title: "vim脚本"
+description: ""
+category: blog 
+tags: [vim,byte of vim]
+---
+{% include JB/setup %}
 
 ###介绍
 
