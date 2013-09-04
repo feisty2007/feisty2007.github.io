@@ -266,6 +266,217 @@ vimrc和gvimrc文件可以包含任何vim命令。下面是我的vimrc文件的�
 
 ####编写一个文件类型插件
 
+让我们尝试自己编写一个文件类型插件。
+
+在前面的xmledit插件里面，你可能看到每一个xml文件都几乎有一个相同的开头。如果让vim自动插入这个标准开头呢？
+
+先看一下我们的xml插件的标准开头的格式：
+
+	<?xml version="1.0"?>
+	<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+          "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+所以，我们可以编写一个xmlheader.vim插件，让每新建一个xml文件，就会在开头插入上面的内容。首先，在~/.vmimrc文件里面插入一行：
+
+	autocmd BufNewFile *.xml source ~/.vim/ftplugin/xmlheader.vim
+
+现在我们要做的就是让xmlheader.vim插入上面2行：
+
+	" Vim plugin to add XML header information to a new XML file
+	call setline(1, '<?xml version="1.0"?>')
+	call setline(2, '<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML
+		V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">')	
+
+OK。现在重启Vim，然后输入:e test.xml(test.xml必须为新建文件)，就会看到这个文件的开头自动插入了我们的标准开头。
+
+
+####语法高亮
+
+前面我们已经看过一个XML文件，如果在编写xml的时候，不同的标签用不同的颜色表示，无疑我们就很容易看出语法错误。在vim里面，如果我们使用:set filetype=docbkxml，vim就会调用$VIMRUNTIME/syntax/docbkxml.vim.在这个文件里面定义了每一个xml标签所对应的的颜色。在vim里面有很多针对特定文件类型的语法定义文件。
+
+#####使用语法高亮插件
+
+实践一下。我们下载一个mkd.vim文件，这个一个markdown类型文件的语法定义插件。markdown是一种文本文件，它根据文件特征很容易转化成为HTML文件。
+
+1、在vim里面打开一个名为“new_markdown.txt”的文件。
+
+2、运行:set syntax=mkd
+
+3、输入下面的内容：
+
+	# Bengaluru
+    
+	The name **Bangalore** is an anglicised version of the city's name in
+	    the Kannada language, Bengaluru.
+	    
+	    > A popular anecdote (although one contradicted by historical
+	> evidence) recounts that the 11th-century Hoysala king Veera
+	Ballala
+	> II, while on a hunting expedition, lost his way in the forest.
+	Tired
+	> and hungry, he came across a poor old woman who served him boiled
+	    > beans. The grateful king named the place _"benda kaal-ooru"_
+	    > (literally, "town of boiled beans"), which was eventually
+	    > colloquialised to "Bengaluru".
+	    
+	    ***
+	    
+	    (This information has been retrieved from
+	[Wikipedia](http://en.wikipedia.org/wiki/Bangalore) under the GNU Free
+	    Documentation License.)
+
+4、你会看到所有Markdown里面的分段和关键词都高亮显示了。
+
+#####编写一个语法高亮插件
+
+现在我们尝试编写一个AniFormat格式的文件。
+
+语法高亮插件一般涉及2个问题：找到需要高亮的词语和这些词语如何显示。
+
+譬如，我们需要寻找<b>any word</b>这样的语句，然后把b里面的内容进行黑体（bold）显示。怎么做呢？首先定义一个寻找模式（需要定义模式名称），然后根据模式来定义显示：
+
+	:syntax match ourBold /<b>.*<\/b>/
+	:highlight default ourBold term=bold cterm=bold gui=bold
+
+第一行，我们定义了一个正则表达式，然后把匹配结果定义为一个名称"ourBold".
+第二行定义如何高亮显示这个匹配。“default”表示可以在别的主题里面进行重新定义，ourBold是我们的名称，后面3个分别对应vim的三种运行环境：黑白终端、彩色终端和GUI窗口模式。
+
+如何解决关键词的大小写问题呢？譬如我们可能习惯把“todo”写成“TODO”，可以这样：
+
+	:syntax keyword ourTodo TODO FIXME XXX
+	:hi def link ourTodo Todo
+
+首先我们定义ourTodo有几个词语构成-TODO FIXME XXX等，然后把ourTodo链接到vim已经定义的Todo高亮模式。在vim里面有很多Todo这样已经预定义的关键词显示定义。
+
+下面，我们定义一个<code>...</code>的高亮显示：
+
+	:syn region amiCode excludenl start=/\[code\]/ end=/\[\/code\]/
+	:hi def link amiCode Identifier
+
+首先，我们定义了一个以code开始（start）和（end）的一个区域，然后把这个区域链接到Identifier预定义。
+
+下面，我们来定义其它部分：
+
+	" Vim syntax file for AmiFormat
+	" Language: AmiFormat
+	" Version: 1
+	" Last Change: 2006-12-28 Thu
+	" Maintainer: www.swaroopch.com/contact/
+	" License: www.opensource.org/licenses/bsd-license.php
+	" Reference: http://orangoo.com/labs/AmiNation/AmiFormat/
+
+	"""""""""" Initial Checks """"""""""""""""""""""""""""""""""""""""""""
+	" To be compatible with Vim 5.8. See `:help 44.12`
+	if version < 600
+	    syntax clear
+	elseif exists("b:current_syntax")
+	    " Quit when a (custom) syntax file was already loaded
+	    finish
+	endif
+	"""""""""" Patterns """"""""""""""""""""""""""""""""""""""""""""""""""
+	" Emphasis
+	syn match amiItalic /<i>.\{-}<\/i>/
+	syn match amiBold /<b>.\{-}<\/b>/
+	" Todo
+	syn keyword amiTodo TODO FIXME XXX
+	" Headings
+	syn match amiHeading /^h[1-6]\.\s\+.\{-}$/
+	" Lists
+	syn match amiList /^\s*\*\s\+/
+	syn match amiList /^\s*\d\+\.\s\+/
+	" Classes
+	syn match amiClass /^\s*%(\w\+).*%/
+	syn match amiClass /^\s*%{.*}.*%/
+	" Code
+	syn region amiCode excludenl start=/\[code\]/ end=/\[\/code\]/
+	" HTML
+	syn region amiEscape excludenl start=/\[escape\]/ end=/\[\/escape\]/
+	" Link
+	syn match amiLink /".\{-}":(.\{-})/
+	" Image
+	syn match amiImage /!.\{-}(.\{-})!/
+	"""""""""" Highlighting """"""""""""""""""""""""""""""""""""""""""""""
+	hi def amiItalic term=italic cterm=italic gui=italic
+	hi def amiBold term=bold cterm=bold gui=bold
+
+	hi def link amiHeading Title
+	hi def link amiTodo Todo
+	hi def link amiList PreProc
+	hi def link amiClass Statement
+	hi def link amiCode Identifier
+	hi def link amiEscape Comment
+	hi def link amiLink String
+	hi def link amiImage String
+	"""""""""" Finish """"""""""""""""""""""""
+	" Set syntax name
+	let b:current_syntax = "amifmt"
+
+学习更多的vim语法高亮，可以参考:
+
++ :help syntax
++ :help usr_44.txt
++ :help group-name
++ :help pattern-overview
++ :help mysyntaxfile
++ :help new-filetype
+
+###语言编译器插件
+
+编译器插件一般用来编译不同编程语言编写的文件。它特别适用于把纯文本文件转换为特定格式语言，譬如把Markdown格式文件转换为HTML格式。
+
+我们看一下如何使用Python编译器插件（准确来说是解释器插件）
+
+1、下载compiler/python.vim到~/.vim/compiler目录。
+
+2、在~/.vimrc里面添加：
+	
+	autocmd BufNewFile,BufRead *.py compiler python
+
+3、重新启动vim，然后编辑名为test.py的文件，文件内容如下：
+
+	#!python
+	print 'Hello World'
+
+4、运行:make，会看到输出。
+
+5、我们来手工制造一个错误，把第二行改为：
+	
+	pritn 'Hello World'
+
+现在运行:make，就会出现错误提示，并且vim会自动把光标移动到错误行。
+
+6、运行:clist来查看所有错误。
+
+7、修正一个错误以后，可以运行:cnext跳转到下一个错误行。
+
+如果你打开compiler/python.vim文件，你会发现非常简单，就2行，一行是“makeprg”来定义如何make，另外一行errorformat来定义如何显示编译错误。
+
+查看:help write-compiler-plugin 和 :help quickfix，会看到更显现的内容。
+
+###家庭作业
+
+为了提高你的插件编写水平，下面有一个很有趣的作业：
+
+	编写一个插件来删除重复行和空白行。
+
+你可以使用vimscript或者其它语言。
+
+另外一个：
+
+	编写一个插件来提取当前单词，并且查找相关单词。
+
+###禁用插件
+
+如果你因为某个插件，导致vim崩溃，你可以使用-u参数来选择初始化插件。
+
+譬如，你可以使用vim -u NONE，让vim以无插件方式运行。使用vim -u your-script-vim.vim来让vim只加载你需要的插件。这对于调试插件特别有用。
+
+查看:help -u and :help starting获得更多细节。
+
+###总结
+
+上面我们讨论了如何使用和编写vim插件，现在我们就有了vim插件的一些基本概念，并且可以试着编写一些让我们生活更轻松的插件了。
+
 
 
 	
