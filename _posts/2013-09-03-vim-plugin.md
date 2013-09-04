@@ -180,7 +180,7 @@ vimrc和gvimrc文件可以包含任何vim命令。下面是我的vimrc文件的�
 		so before the audience with God, and if they can do so peacefully--for
 		pressure is mounting to wage one final War of Wars to end all war
 		itself.
-		
+
 		(Excerpt taken from
 		http://en.wikipedia.org/w/index.php?title=Ashok_Banker&oldid=86219280
 		under the GNU Free Documentation License)
@@ -414,8 +414,13 @@ OK。现在重启Vim，然后输入:e test.xml(test.xml必须为新建文件)，
 学习更多的vim语法高亮，可以参考:
 
 1 :help syntax
+
 2 :help usr_44.txt
+
 3 :help group-name
+
 4 :help pattern-overview
+
 5 :help mysyntaxfile
+
 6 :help new-filetype
