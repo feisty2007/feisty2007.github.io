@@ -184,8 +184,7 @@ vimrc和gvimrc文件可以包含任何vim命令。下面是我的vimrc文件的�
 
 如果以XML格式来书写：
 
-	<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
-"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+	<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 	<article>
 
 		<articleinfo>
@@ -247,9 +246,9 @@ vimrc和gvimrc文件可以包含任何vim命令。下面是我的vimrc文件的�
 特征注意根据操作系统来确定ftplugin目录的正确位置。	
 3、打开vim，然后编辑一个名字为test.xml的文件。
 
-4、输入<article
+4、输入"<"+"article"
 
-5、现在输入>,看一下xmledit插件如何帮你自动填写article的闭合。差不多应该是这样：
+5、现在输入">",看一下xmledit插件如何帮你自动填写article的闭合。差不多应该是这样：
 
 	<article></article>
 6、现在输入另外一个>，看xmledit如何帮助你输入更多的符号。文件应该看起来这样：
@@ -333,7 +332,7 @@ OK。现在重启Vim，然后输入:e test.xml(test.xml必须为新建文件)，
 
 语法高亮插件一般涉及2个问题：找到需要高亮的词语和这些词语如何显示。
 
-譬如，我们需要寻找<b>any word</b>这样的语句，然后把b里面的内容进行黑体（bold）显示。怎么做呢？首先定义一个寻找模式（需要定义模式名称），然后根据模式来定义显示：
+譬如，我们需要寻找"<b>any word</b>这样的语句，然后把b里面的内容进行黑体（bold）显示。怎么做呢？首先定义一个寻找模式（需要定义模式名称），然后根据模式来定义显示：
 
 	:syntax match ourBold /<b>.*<\/b>/
 	:highlight default ourBold term=bold cterm=bold gui=bold
@@ -413,72 +412,9 @@ OK。现在重启Vim，然后输入:e test.xml(test.xml必须为新建文件)，
 
 学习更多的vim语法高亮，可以参考:
 
-+ :help syntax
-+ :help usr_44.txt
-+ :help group-name
-+ :help pattern-overview
-+ :help mysyntaxfile
-+ :help new-filetype
-
-###语言编译器插件
-
-编译器插件一般用来编译不同编程语言编写的文件。它特别适用于把纯文本文件转换为特定格式语言，譬如把Markdown格式文件转换为HTML格式。
-
-我们看一下如何使用Python编译器插件（准确来说是解释器插件）
-
-1、下载compiler/python.vim到~/.vim/compiler目录。
-
-2、在~/.vimrc里面添加：
-	
-	autocmd BufNewFile,BufRead *.py compiler python
-
-3、重新启动vim，然后编辑名为test.py的文件，文件内容如下：
-
-	#!python
-	print 'Hello World'
-
-4、运行:make，会看到输出。
-
-5、我们来手工制造一个错误，把第二行改为：
-	
-	pritn 'Hello World'
-
-现在运行:make，就会出现错误提示，并且vim会自动把光标移动到错误行。
-
-6、运行:clist来查看所有错误。
-
-7、修正一个错误以后，可以运行:cnext跳转到下一个错误行。
-
-如果你打开compiler/python.vim文件，你会发现非常简单，就2行，一行是“makeprg”来定义如何make，另外一行errorformat来定义如何显示编译错误。
-
-查看:help write-compiler-plugin 和 :help quickfix，会看到更显现的内容。
-
-###家庭作业
-
-为了提高你的插件编写水平，下面有一个很有趣的作业：
-
-	编写一个插件来删除重复行和空白行。
-
-你可以使用vimscript或者其它语言。
-
-另外一个：
-
-	编写一个插件来提取当前单词，并且查找相关单词。
-
-###禁用插件
-
-如果你因为某个插件，导致vim崩溃，你可以使用-u参数来选择初始化插件。
-
-譬如，你可以使用vim -u NONE，让vim以无插件方式运行。使用vim -u your-script-vim.vim来让vim只加载你需要的插件。这对于调试插件特别有用。
-
-查看:help -u and :help starting获得更多细节。
-
-###总结
-
-上面我们讨论了如何使用和编写vim插件，现在我们就有了vim插件的一些基本概念，并且可以试着编写一些让我们生活更轻松的插件了。
-
-
-
-	
-	
-	
+1 :help syntax
+2 :help usr_44.txt
+3 :help group-name
+4 :help pattern-overview
+5 :help mysyntaxfile
+6 :help new-filetype
