@@ -153,33 +153,36 @@ vimrc和gvimrc文件可以包含任何vim命令。下面是我的vimrc文件的�
 	
 	Iron Gods
 	---------
-	Ashok Banker's next book immediately following the Ramayana 	is said to
-	be a novel tentatively titled "Iron Gods" scheduled to be published in
-	2007. A contemporary novel, it is an epic hard science fiction story
+		Ashok Banker's next book immediately following the Ramayana 	
+		is said to be a novel tentatively titled "Iron Gods" scheduled to be published in
+		2007. A contemporary novel, it is an epic hard science fiction story
 		about a war between the gods of different faiths. Weary of the
 		constant infighting between religious sects and their deities, God
 		(aka Allah, Yahweh, brahman, or whatever one chooses to call the
 		Supreme Deity) wishes to destroy creation altogether.
+
 		A representation of prophets and holy warriors led by Ganesa, the
 		elephant-headed Hindu deity, randomly picks a sample of mortals, five
 		of whom are the main protagonists of the book--an American Catholic,
 		an Indian Hindu, a Pakistani Muslim, a Japanese Buddhist, and a
-	Japanese Shinto follower. The mortal sampling, called a 'Palimpsest'
+		Japanese Shinto follower. The mortal sampling, called a 'Palimpsest'
 		is ferried aboard a vast Dyson's Sphere artifact termed The Jewel,
-	which is built around the sun itself, contains retransplanted cities
-	and landscapes brought from multiple parallel Earths and is the size
+		which is built around the sun itself, contains retransplanted cities
+		and landscapes brought from multiple parallel Earths and is the size
 		of 12,000 Earths. It is also a spaceship travelling to the end of
 		creation, where the Palimpsest is to present itself before God to
 		plead clemency for all creation.
-	Meanwhile, it is upto the five protagonists, aided by Ganesa and a few
-	concerned individuals, including Lucifer Morningstar, Ali Abu Tarab,
-	King David and his son Solomon, and others, to bring about peace among
-	the myriad warring faiths. The question is whether or not they can do
-	so before the audience with God, and if they can do so peacefully--for
+
+		Meanwhile, it is upto the five protagonists, aided by Ganesa and a few
+		concerned individuals, including Lucifer Morningstar, Ali Abu Tarab,
+		King David and his son Solomon, and others, to bring about peace among
+		the myriad warring faiths. The question is whether or not they can do
+		so before the audience with God, and if they can do so peacefully--for
 		pressure is mounting to wage one final War of Wars to end all war
 		itself.
+		
 		(Excerpt taken from
-	http://en.wikipedia.org/w/index.php?title=Ashok_Banker&oldid=86219280
+		http://en.wikipedia.org/w/index.php?title=Ashok_Banker&oldid=86219280
 		under the GNU Free Documentation License)
 
 如果以XML格式来书写：
@@ -309,11 +312,9 @@ OK。现在重启Vim，然后输入:e test.xml(test.xml必须为新建文件)，
 	    the Kannada language, Bengaluru.
 	    
 	    > A popular anecdote (although one contradicted by historical
-	> evidence) recounts that the 11th-century Hoysala king Veera
-	Ballala
-	> II, while on a hunting expedition, lost his way in the forest.
-	Tired
-	> and hungry, he came across a poor old woman who served him boiled
+		> evidence) recounts that the 11th-century Hoysala king Veera Ballala
+		> II, while on a hunting expedition, lost his way in the forest.Tired
+		> and hungry, he came across a poor old woman who served him boiled
 	    > beans. The grateful king named the place _"benda kaal-ooru"_
 	    > (literally, "town of boiled beans"), which was eventually
 	    > colloquialised to "Bengaluru".
@@ -321,7 +322,7 @@ OK。现在重启Vim，然后输入:e test.xml(test.xml必须为新建文件)，
 	    ***
 	    
 	    (This information has been retrieved from
-	[Wikipedia](http://en.wikipedia.org/wiki/Bangalore) under the GNU Free
+		[Wikipedia](http://en.wikipedia.org/wiki/Bangalore) under the GNU Free
 	    Documentation License.)
 
 4、你会看到所有Markdown里面的分段和关键词都高亮显示了。
@@ -332,7 +333,7 @@ OK。现在重启Vim，然后输入:e test.xml(test.xml必须为新建文件)，
 
 语法高亮插件一般涉及2个问题：找到需要高亮的词语和这些词语如何显示。
 
-譬如，我们需要寻找"<b>any word</b>这样的语句，然后把b里面的内容进行黑体（bold）显示。怎么做呢？首先定义一个寻找模式（需要定义模式名称），然后根据模式来定义显示：
+譬如，我们需要寻找以"b“作为开始和结束的语句，然后把b里面的内容进行黑体（bold）显示。怎么做呢？首先定义一个寻找模式（需要定义模式名称），然后根据模式来定义显示：
 
 	:syntax match ourBold /<b>.*<\/b>/
 	:highlight default ourBold term=bold cterm=bold gui=bold
@@ -347,7 +348,7 @@ OK。现在重启Vim，然后输入:e test.xml(test.xml必须为新建文件)，
 
 首先我们定义ourTodo有几个词语构成-TODO FIXME XXX等，然后把ourTodo链接到vim已经定义的Todo高亮模式。在vim里面有很多Todo这样已经预定义的关键词显示定义。
 
-下面，我们定义一个<code>...</code>的高亮显示：
+下面，我们定义一个以code开始和结束的语句的高亮显示：
 
 	:syn region amiCode excludenl start=/\[code\]/ end=/\[\/code\]/
 	:hi def link amiCode Identifier
