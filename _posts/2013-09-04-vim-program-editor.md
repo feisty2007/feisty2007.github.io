@@ -203,10 +203,10 @@ vim默认使用第一个提示，可以使用ctrl-n或者ctrl-p来选择。
 结果如下：
 
 	def test():
-    """
-    Just say Hi
-    """
-    print 'Hello World'
+	    """
+	    Just say Hi
+	    """
+	    print 'Hello World'
 
 
 ####自建代码片段
@@ -355,22 +355,19 @@ vim IDE更详细的解说，可以参阅：
 
 我的实现大体如下：
 
-	" Add the following lines to your ~/.vimrc to enable online
-	documentation
-	" Inspiration:
-	http://vim.wikia.com/wiki/Online_documentation_for_word_under_cursor
+	" Add the following lines to your ~/.vimrc to enable online documentation
+	" Inspiration: http://vim.wikia.com/wiki/Online_documentation_for_word_under_cursor
 	function Browser()
 	    if has("win32") || has("win64")
-	let s:browser = "C:\\Program Files\\Mozilla Firefox\\firefox.exe
-	-new-tab"
+			let s:browser = "C:\\Program Files\\Mozilla Firefox\\firefox.exe -new-tab"
 	    elseif has("win32unix") " Cygwin
-	let s:browser = "'/cygdrive/c/Program\ Files/Mozilla\
-	Firefox/firefox.exe' -new-tab"
+			let s:browser = "'/cygdrive/c/Program\ Files/Mozilla\Firefox/firefox.exe' -new-tab"
 	    elseif has("mac") || has("macunix") || has("unix")
 	        let s:browser = "firefox -new-tab"
 	    endif
 	    return s:browser
 	endfunction
+
 	function Run(command)
 	    if has("win32") || has("win64")
 	        let s:startCommand = "!start"
@@ -389,8 +386,9 @@ vim IDE更详细的解说，可以参阅：
 		s:endCommand
 		    " echo s:cmd
 		    execute s:cmd
-		endfunction
-		function OnlineDoc()
+	endfunction
+
+	function OnlineDoc()
 		    if &filetype == "viki"
 		        " Dictionary
 		let s:urlTemplate = "http://dictionary.reference.com/browse/<name>"
@@ -409,6 +407,7 @@ vim IDE更详细的解说，可以参阅：
 		let s:url = substitute(s:urlTemplate, '<name>', s:wordUnderCursor, 'g')
 		    call Run(Browser() . " " . s:url)
 	endfunction
+	
 	noremap <silent> <M-d> :call OnlineDoc()<CR>
 	inoremap <silent> <M-d> <Esc>:call OnlineDoc()<CR>a
 
