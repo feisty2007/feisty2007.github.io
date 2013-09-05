@@ -377,37 +377,36 @@ vim IDE更详细的解说，可以参阅：
 	        let s:endCommand = ""
 	    elseif has("unix") || has("win32unix")
 	        let s:startCommand = "!"
-		  let s:endCommand = "&"
+		  	let s:endCommand = "&"
 		    else
 		        echo "Don't know how to handle this OS!"
 		        finish
 		    endif
+
 		let s:cmd = "silent " . s:startCommand . " " . a:command . " " .
 		s:endCommand
-		    " echo s:cmd
-		    execute s:cmd
+		" echo s:cmd
+		execute s:cmd
 	endfunction
 
 	function OnlineDoc()
 		    if &filetype == "viki"
 		        " Dictionary
-		let s:urlTemplate = "http://dictionary.reference.com/browse/<name>"
+				let s:urlTemplate = "http://dictionary.reference.com/browse/<name>"
 		    elseif &filetype == "perl"
-		let s:urlTemplate = "http://perldoc.perl.org/functions/<name>.html"
+				let s:urlTemplate = "http://perldoc.perl.org/functions/<name>.html"
 		    elseif &filetype == "python"
-		let s:urlTemplate =
-		"http://www.google.com/search?q=<name>&domains=docs.python.org&sitesearch=docs.python.org
+				let s:urlTemplate =	"http://www.google.com/search?q=<name>&domains=docs.python.org&sitesearch=docs.ython.org"
 		    elseif &filetype == "ruby"
-		let s:urlTemplate = "http://www.ruby-doc.org/core/classes/<name>.html"
+				let s:urlTemplate = "http://www.ruby-doc.org/core/classes/<name>.html"
 		    elseif &filetype == "vim"
-		let s:urlTemplate =
-		"http://vimdoc.sourceforge.net/search.php?search=<name>&docs=help"
+				let s:urlTemplate =	"http://vimdoc.sourceforge.net/search.php?search=<name>&docs=help"
 		    endif
-		    let s:wordUnderCursor = expand("<cword>")
-		let s:url = substitute(s:urlTemplate, '<name>', s:wordUnderCursor, 'g')
+		    	let s:wordUnderCursor = expand("<cword>")
+				let s:url = substitute(s:urlTemplate, '<name>', s:wordUnderCursor, 'g')
 		    call Run(Browser() . " " . s:url)
 	endfunction
-	
+
 	noremap <silent> <M-d> :call OnlineDoc()<CR>
 	inoremap <silent> <M-d> <Esc>:call OnlineDoc()<CR>a
 
