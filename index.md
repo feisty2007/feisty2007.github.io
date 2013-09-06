@@ -19,7 +19,6 @@ tagline:
      微博 : 提子的碎碎念 (http://weibo.com/516132346)
      博客 : Ubuntu高地 (http://hi.baidu.com/camark)
 
-上面的数据，随时清除，无需保留！
     
 ## 闲言碎语
 
@@ -28,7 +27,11 @@ tagline:
   {% for post in site.categories.blog limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
+    <li><a href="{{BASE_PATH}}/archive.html">全部存档</a></li>
 </ul>
+
+
+
 
 ## To-Do
 
