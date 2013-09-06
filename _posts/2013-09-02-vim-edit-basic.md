@@ -68,13 +68,12 @@ pwd是"print working directory"的缩写。
 
 同普通桌面（譬如windows，KDE）不同，vim使用不同的术语：
 
-普通桌面	vim         操作键
-
-cut           delete        d
-
-copy        yank          y
-
-paste       paste         p
+<table border=1>
+<tr><td>普通桌面</td><td>vim</td><td>操作键</td></tr>
+<tr><td>cut</td><td>delete</td><td>d</td></tr>
+<tr><td>copy</td><td>yank</td><td>y</td></tr>
+<tr><td>paste</td><td>paste</td><td>p</td></tr>
+</table>
 
 在普通情况下，"cut"（剪切）文本的意思是删除当前文本然后把它保存到剪贴板里面。
 在vim里面，cut意味着从文件的buffer里面删除文本，然后把它保存到vim的"寄存器"里面。
@@ -103,11 +102,17 @@ Paste（粘贴），vim的意义同普通桌面相同。
 
 命令分2部分。
 
-操作       对象
-
-delete   一个字符
-
-d             1
+<table border=1>
+   <tr>
+      <td>操作</td><td>对象</td>
+   </tr>
+   <tr>
+      <td>delete</td><td>一个字符</td>
+   </tr>
+   <tr>
+      <td>d</td><td>1</td>
+   </tr>
+</table>
 
 所以，我们输入`d1`就可以了。
 
@@ -118,11 +123,18 @@ d             1
 'the'单词出现了2次，如何改正呢？
 
 使用下面的命令：
-操作       对象
 
-Delete   单词
-
-d        w
+<table border=1>
+   <tr>
+      <td>操作</td><td>对象</td>
+   </tr>
+   <tr>
+      <td>delete</td><td>单词</td>
+   </tr>
+   <tr>
+      <td>d</td><td>w</td>
+   </tr>
+</table>
 
 所以，我们输入'dw'就可以了，沃！是不是非常的简单优美？
 优美之处在于可以通过不同的组合就可以完成不同的操作。
@@ -145,9 +157,17 @@ d        w
 
 现在，我们看下如何进行vim式的拷贝-》yank？
 
-操作      目标
-yank    当前段
-y       ap
+<table border=1>
+   <tr>
+      <td>操作</td><td>对象</td>
+   </tr>
+   <tr>
+      <td>yank</td><td>当前段</td>
+   </tr>
+   <tr>
+      <td>y</td><td>ap</td>
+   </tr>
+</table>
 
 OK，vim会拷贝当前段落。
 
