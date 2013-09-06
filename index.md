@@ -23,16 +23,15 @@ tagline:
     
 ## 闲言碎语
 
-列表
 
 <ul class="posts">
-  {% for post in site.categories.blog %}
+  {% for post in site.categories.blog limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
 ## To-Do
 
-无论如何，生活还是要继续，爱你所爱，扯我之淡，如此而已！
+乐观的心态，愉快的生活，共勉！
 
 
