@@ -3,7 +3,7 @@ layout: post
 title: "vim 第一步"
 description: ""
 category: blog
-tags: [vim,byte of blog]
+tags: [vim,byte of vim]
 ---
 {% include JB/setup %}
 
