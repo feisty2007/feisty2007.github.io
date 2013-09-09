@@ -28,43 +28,61 @@ vim的与众不同之处在于`简单易用`,而且功能强大。
 注意：
 	不要在于这些vim命令的细节，这里就是介绍用途，不是介绍为什么，这是后面章节的内容。
 
-问题，Vim
+<table>
+   <tr>
+      <td>怎么把光标往下移动7行</td>
+      <td>7j</td>
+   </tr>
+   <tr>
+      <td>在当前文件里面搜索光标当前单词 </td>
+      <td>*</td>
+   </tr>
+   <tr>
+      <td>在50-100行内查找替换</td>
+      <td>:50,100s/old/new/g</td>
+   </tr>
+   <tr>
+      <td>在一个窗口内查看文件的不同部分</td>
+      <td>运行:sp，分割窗口</td>
+   </tr>
+   <tr>
+      <td>打开光标处的文件</td>
+      <td>gf</td>
+   </tr>
+   <tr>
+      <td>切换显示搭配 </td>
+      <td>:colorscheme desert</td>
+   </tr>
+   <tr>
+      <td>如何重新打开一个文件组合</td>
+      <td>运行:mksession ~/last_sesssion.vim。下次打开vim的时候，使用vim -S ~/last.session.vim。</td>
+   </tr>
+   <tr>
+      <td>代码高亮</td>
+      <td>运行:syntax on。如果vim不能识别文件类型，可以自己设定 :set filetype=wikipedia.</td>
+   </tr>
+   <tr>
+      <td>如果你希望只查看文本的一部分，而其它的“折叠”起来。</td>
+      <td>运行:set foldmethod=indent。</td>
+   </tr>
+   <tr>
+      <td>标签里面打开多个文件</td>
+      <td>运行:tabedit 文件名，使用Ctrl-PgUp/Ctrl-PgDn来回切换。</td>
+   </tr>
+   <tr>
+      <td>如何快速提示常用单词</td>
+      <td>使用Ctrl-n来查看当前单词的完成列表，这个列表基于当前文档的内容。</td>
+   </tr>
+   <tr>
+      <td>如何只拷贝文件每一行的前10个字符？</td>
+      <td>按下Ctrl-v，选择文本，然后拷贝所选的行和列。</td>
+   </tr>
+   <tr>
+      <td>如果你收到一个全部都是大写的文档，如何转化为小写？</td>
+      <td>使用下面的vim命令：:for i in range(0,line('$')) : call setline(i,tolower(getline(i))) :endfor</td>
+   </tr>
+</table>
 
-怎么把光标往下移动7行 7j
-
-删除一个“单词” dw
-
-在当前文件里面搜索光标当前单词 *
-
-在50-100行内查找替换 :50,100s/old/new/g
-
-在一个窗口内查看文件的不同部分 运行:sp，分割窗口
-
-打开光标处的文件 gf
-
-切换显示搭配 :colorscheme desert
-
-自定义快捷键，用ctrl-s保存文件 运行nmap<c-s> :w<CR>
-
-如何重新打开一个文件组合 运行:mksession ~/last_sesssion.vim。下次打开vim的时候，使用vim -S ~/last.session.vim。
-
-代码高亮 运行:syntax on。如果vim不能识别文件类型，可以自己设定 :set filetype=wikipedia.
-
-如果你希望只查看文本的一部分，而其它的“折叠”起来。 运行:set foldmethod=indent。
-
-标签里面打开多个文件 运行:tabedit 文件名，使用Ctrl-PgUp/Ctrl-PgDn来回切换。
-
-如何快速提示常用单词 使用Ctrl-n来查看当前单词的完成列表，这个列表基于当前文档的内容。
-
-如何只拷贝文件每一行的前10个字符？ 按下Ctrl-v，选择文本，然后拷贝所选的行和列。
-
-如果你收到一个全部都是大写的文档，如何转化为小写？
-
-使用下面的vim命令：
-
-:for i in range(0,line('$'))
-:	call setline(i,tolower(getline(i)))
-:endfor
 
 在这些例子里面，已经见识vim的力量。在其它编辑器里面，实现同样的功能非常困难。另外，vim的功能也非常容易理解。
 
