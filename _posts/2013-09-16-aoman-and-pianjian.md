@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "有些人的傲慢，我的偏见""
+title: "有些人的傲慢，我的偏见"
 description: ""
-category: 感情
+category: life
 tags: [感情]
 ---
 {% include JB/setup %}
