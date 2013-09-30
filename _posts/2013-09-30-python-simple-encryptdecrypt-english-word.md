@@ -99,6 +99,21 @@ tags: [ python,加解密]
 	    e2=decrypt_word(e1)
 	    print e2
 
+###一个反转字符串的函数
+
+	def reverse(a):
+	    if len(a)==1:
+	        return a[0]
+	    else:
+	        return a[-1]+reverse(a[0:-1])
+
+
+	if __name__ == '__main__':
+	    a='abcdefghijlmn'
+	    print reverse(a)
+
+
+
 ###后记
 
 来自《Hacking Secret Clipers with Python》第一章的例子。
