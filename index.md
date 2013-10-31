@@ -35,6 +35,9 @@ Email: [camark@sina.cn](mailto:camark@sina.cn)
 
 博客 : [Ubuntu高地](http://hi.baidu.com/camark)
 
+微信平台: 
+
+<img src="/assets/images/weixin.jpg" width="215" height="215" />
     
 <br/>
 
