@@ -9,9 +9,9 @@ tags: [节日]
 
 时间过得真快，2013的圣诞节又来到了。
 
-![MerryXmas](/assets/images/MerryXmas1.jpg]
+![MerryXmas](/assets/images/MerryXmas1.jpg)
 
-![MerryXmas](/assets/images/MerryXmas2.jpg]
+![MerryXmas](/assets/images/MerryXmas2.jpg)
 
 今年从Wow里面走了出来，从7月份开始跑步，现在减肥了大约15公斤。
 
