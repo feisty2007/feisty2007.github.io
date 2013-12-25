@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAK Derby 初体验"
+title: "JAVA Derby 初体验"
 description: ""
 category: blog 
 tags: [Java,Derby]
