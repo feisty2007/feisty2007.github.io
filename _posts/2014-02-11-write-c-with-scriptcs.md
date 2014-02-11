@@ -3,7 +3,7 @@ layout: post
 title: "ScirptCS：简化C#的执行"
 description: ""
 category: Blog 
-tags: [Windows,Net,C#]
+tags: [Windows,Net,C#,scriptcs]
 ---
 {% include JB/setup %}
 
