@@ -5,7 +5,6 @@ description: "如果你是大象，如何平衡。。"
 category: life
 tags: [Wow,life]
 ---
-{% include JB/setup %}
 
 暴雪，著名的游戏公司，一直以“平衡”作为公司的卖点，从经典的星际到War3，还是Wow，这个公司一直在为游戏的平衡性努力，定期的发布补丁，让游戏的某个种族不至于太强或者太弱。
 

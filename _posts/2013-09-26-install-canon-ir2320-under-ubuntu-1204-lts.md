@@ -6,8 +6,6 @@ description: ""
 category: blog
 tags: [ubuntu,iR2320]
 ---
-{% include JB/setup %}
-
 
 ###下载驱动
 

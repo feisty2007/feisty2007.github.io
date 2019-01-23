@@ -5,7 +5,6 @@ description: ""
 category: life 
 tags: [节日]
 ---
-{% include JB/setup %}
 
 时间过得真快，2013的圣诞节又来到了。
 

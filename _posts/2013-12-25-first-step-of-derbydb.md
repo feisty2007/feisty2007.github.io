@@ -5,9 +5,6 @@ description: ""
 category: blog 
 tags: [Java,Derby]
 ---
-{% include JB/setup %}
-
-
 
 
 ####前提

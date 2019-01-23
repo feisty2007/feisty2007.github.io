@@ -5,7 +5,6 @@ description: ""
 category: life 
 tags: [虚拟货币,比特币]
 ---
-{% include JB/setup %}
 
 ![比特币](/assets/images/bytecoin.jpg)
 #### 缘起

@@ -5,7 +5,7 @@ description: "每一个人都期待一个新的旅程，这次从Fedora core 19�
 category: blog 
 tags: [Fedora Core,Linux]
 ---
-{% include JB/setup %}
+
 
 ###闲言碎语
 

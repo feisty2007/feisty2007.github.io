@@ -5,7 +5,6 @@ description: ""
 category: Document 
 tags: [markdown]
 ---
-{% include JB/setup %}
 
 
 **NOTE:** This is Simplelified  Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to [Markdown: Syntax][eng-doc].

@@ -5,7 +5,6 @@ description: ""
 category: sport
 tags: [减肥,健身]
 ---
-{% include JB/setup %}
 
 根据这个[帖子](http://tieba.baidu.com/p/2510156504?see_lz=1)的内容摘录，谢谢原作者！
 

@@ -5,7 +5,6 @@ description: ""
 category: blog
 tags: [vim,byte of vim]
 ---
-{% include JB/setup %}
 
 ###打开vim
 

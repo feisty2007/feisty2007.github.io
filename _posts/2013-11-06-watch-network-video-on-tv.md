@@ -5,7 +5,6 @@ description: ""
 category: life
 tags: []
 ---
-{% include JB/setup %}
 
 ![TV](/assets/images/pi.jpg)
 #### 用电视看网络视频，其实是特别惬意的一件事情。

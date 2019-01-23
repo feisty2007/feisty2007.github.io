@@ -5,7 +5,6 @@ description: ""
 category: blog 
 tags: [awk]
 ---
-{% include JB/setup %}
 
 ###简介
 

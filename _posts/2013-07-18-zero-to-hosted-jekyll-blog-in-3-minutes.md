@@ -5,7 +5,7 @@ description: "利用现成模版，如何快速建立Blog"
 category: blog
 tags: [Github,blog]
 ---
-{% include JB/setup %}
+
 
 ###1、建立一个新的Gibhub代码库
 

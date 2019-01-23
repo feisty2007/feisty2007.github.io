@@ -5,7 +5,6 @@ description: "vim编辑的一些基础知识"
 category: blog
 tags: [vim,byte of vim]
 ---
-{% include JB/setup %}
 
 ###介绍
 

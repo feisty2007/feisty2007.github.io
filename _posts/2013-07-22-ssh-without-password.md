@@ -5,7 +5,6 @@ description: "利用ssh-keygen产生远程登陆秘钥"
 category: blog 
 tags: [ssh]
 ---
-{% include JB/setup %}
 
 ###产生本地秘钥文件
 

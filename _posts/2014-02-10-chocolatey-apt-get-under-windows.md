@@ -5,7 +5,6 @@ description: ""
 category: Blog 
 tags: [Windows,Chocolatey]
 ---
-{% include JB/setup %}
 
 Chocolatey是一个软件包管理工具，类似于Ubuntu下面的`apt-get`,不过是运行在Windows环境下面。
 

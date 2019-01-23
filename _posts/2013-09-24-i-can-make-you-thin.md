@@ -5,7 +5,6 @@ description: ""
 category: sport 
 tags: [减肥]
 ---
-{% include JB/setup %}
 
 你准备好去体验一种全新的生活了吗？ 
 

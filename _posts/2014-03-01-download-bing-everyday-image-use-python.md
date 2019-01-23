@@ -5,7 +5,6 @@ description: "Download Bing EveryDay Image use python"
 category: Blog 
 tags: [Python,Bing]
 ---
-{% include JB/setup %}
 
 Bing的背景非常优美，估计地球人都知道了。
 

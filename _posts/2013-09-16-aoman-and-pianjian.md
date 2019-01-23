@@ -5,7 +5,6 @@ description: ""
 category: life
 tags: [感情]
 ---
-{% include JB/setup %}
 
 ###美好的教育
 

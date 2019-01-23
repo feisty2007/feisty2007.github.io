@@ -5,7 +5,6 @@ description: "包括快速进入命令行"
 category: blog
 tags: [soft,context menu,自编软件]
 ---
-{% include JB/setup %}
 
 ###Send Manager
 

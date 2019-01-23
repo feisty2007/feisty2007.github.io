@@ -5,7 +5,6 @@ description: ""
 category: life 
 tags: [做菜]
 ---
-{% include JB/setup %}
 
 ![豆腐](/assets/images/Shanxidoufu.jpg)
 ####材料

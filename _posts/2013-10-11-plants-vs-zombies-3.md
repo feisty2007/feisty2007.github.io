@@ -5,7 +5,6 @@ description: ""
 category: Game
 tags: [Game,植物大战僵尸2]
 ---
-{% include JB/setup %}
 
 ####神秘埃及
 

@@ -5,7 +5,6 @@ description: "几个方法，让你的Github Blog更专业 "
 category: blog 
 tags: [Github,blog]
 ---
-{% include JB/setup %}
 
 ###前提
 

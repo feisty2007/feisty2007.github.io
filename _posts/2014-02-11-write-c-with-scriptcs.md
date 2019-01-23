@@ -5,7 +5,6 @@ description: ""
 category: Blog 
 tags: [Windows,Net,C#,scriptcs]
 ---
-{% include JB/setup %}
 
 ####它是什么
 

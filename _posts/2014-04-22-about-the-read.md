@@ -5,7 +5,6 @@ description: "about reading"
 category: read 
 tags: [读书记录]
 ---
-{% include JB/setup %}
 
 ##### 2014-4-22
 

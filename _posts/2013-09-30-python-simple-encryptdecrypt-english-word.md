@@ -5,7 +5,6 @@ description: ""
 category: blog
 tags: [ python,加解密]
 ---
-{% include JB/setup %}
 
 ###原理
 

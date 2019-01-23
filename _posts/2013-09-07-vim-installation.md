@@ -5,7 +5,6 @@ description: ""
 category: blog 
 tags: [vim,byte of vim]
 ---
-{% include JB/setup %}
 
 我们来看下如何安装Vim。
 
