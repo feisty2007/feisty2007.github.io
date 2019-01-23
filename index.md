@@ -7,8 +7,6 @@ tagline:
 
 听任庭前花开花落,坐看天上云卷云舒.
 
-一个人懒到连自家院子的落叶都不扫！成天坐在那儿看天上的云彩！无所事事！
-
 <br/>
 
 ## 闲言碎语
@@ -33,7 +31,6 @@ Email: [camark@sina.cn](mailto:camark@sina.cn)
 
 微博 : [提子的碎碎念](http://weibo.com/516132346)
 
-博客 : [Ubuntu高地](http://hi.baidu.com/camark)
 
 微信平台: 
 
