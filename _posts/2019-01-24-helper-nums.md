@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "写给程序员的裁员防身指南"
 crawlertitle: "写给程序员的裁员防身指南"
 summary: "写给程序员的裁员防身指南"

@@ -30,6 +30,7 @@ target_file_name = today + "-" + file_title + ".md"
 
 with open(target_file_name,'w') as f:
 	f.write("---"+os.linesep);
+	f.write("layout: post"+os.linesep);
 	f.write("title: \""+title+"\""+os.linesep);
 	f.write("crawlertitle: \""+crawlertitle+"\""+os.linesep);
 	f.write("summary: \""+summary+"\""+os.linesep);
