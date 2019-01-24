@@ -41,4 +41,5 @@ with open(target_file_name,'w') as f:
 	f.write("---"+os.linesep);
 
 print("write "+target_file_name+" ok!")
+os.system("typora "+target_file_name)
 
