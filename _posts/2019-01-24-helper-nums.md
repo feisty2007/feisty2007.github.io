@@ -4,7 +4,7 @@ crawlertitle: "写给程序员的裁员防身指南"
 summary: "写给程序员的裁员防身指南"
 date: 2019-01-24 14:40:48.870385
 categories: ""
-tags: "助手"
+tags: "职业生涯"
 author: "feisty2007"
 ---
 
