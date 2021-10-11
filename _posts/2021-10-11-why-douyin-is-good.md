@@ -2,11 +2,11 @@
 
 layout: post
 
-title: "why-douyin-is-good"
+title: "抖音为什么那么火？"
 
 crawlertitle: "why-douyin-is-good"
 
-summary: "why-douyin-is-good"
+summary: "抖音为什么那么火？"
 
 date: 2021-10-11 16:35:04.710490
 
