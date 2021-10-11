@@ -10,4 +10,4 @@ tags: [ 工具 ]
 
 点开“工具”-》“选项”，然后如下操作：
 
-![foxmail](/assets/images/foxmail-name-corrent.jpg/)
+![foxmail](/assets/images/foxmail-name-corrent.jpg)
