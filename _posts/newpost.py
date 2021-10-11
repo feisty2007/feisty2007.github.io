@@ -8,17 +8,20 @@ import os
 
 now=datetime.now()
 
-title = raw_input("title:")
-crawlertitle = raw_input("crawlertitle:")
+title = input("title:")
+crawlertitle = input("crawlertitle:")
 if crawlertitle=='':
 	crawlertitle = title
-summary = raw_input("summary:")
 
-categories = raw_input("category(Blog):")
+summary = input("summary:")
+if summary == '':
+	summary = title
+
+categories = input("category(Blog):")
 if categories=='':
 	crawertitle = 'Blog'
 
-tags = raw_input("tags:")
+tags = input("tags:")
 if tags == '':
 	tags = '心情'
 author = "feisty2007"
