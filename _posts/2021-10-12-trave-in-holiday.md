@@ -1,12 +1,8 @@
 ---
-layout: post
-title: "假期出游"
-crawlertitle: "假期出游"
+layout:	post
+title:	"假期出游"
 description: "假期出游"
 summary: "假期出游"
-categories: 心情
-tags: [心情]
-author: "feisty2007"
 ---
 
 ![](/assets/images/41b98c2f-8ba5-490e-b69b-1145367c9134.jpg)
