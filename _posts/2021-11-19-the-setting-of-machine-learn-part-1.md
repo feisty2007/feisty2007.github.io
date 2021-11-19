@@ -45,8 +45,10 @@ author:   "feisty2007"
 ###### 1- 临时使用,安装 numpy
 	pip install numpy
 	pip install -i https://pypi.tuna.tsinghua.edu.cn/simple numpy
-###### *2- 永久使用 
+	
+###### 2- 永久使用 
 	pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+	
 ###### 3. 所需第三方模块的安装和配置
 
 0. 安装 虚拟环境的支撑 
