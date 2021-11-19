@@ -11,10 +11,6 @@ author:   "feisty2007"
 ---
 
 
-##  ML 开发环境的搭建
-
----
-
 ### 0. 语言环境 - Python 3.9.0
 #### 0. Download
 
