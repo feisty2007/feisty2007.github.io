@@ -34,6 +34,7 @@ author:   "feisty2007"
 
 ##### 1. 配国内镜像 -- 清华大学的镜像
 	https://mirrors.tuna.tsinghua.edu.cn/pypi/
+	
 帮助: https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
 
 步骤:
