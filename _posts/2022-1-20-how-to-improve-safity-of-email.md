@@ -10,7 +10,7 @@ tags: [软件]
 author:   "feisty2007"
 ---
 
-Firefox Monitor会提供这方面的帮助！
+Firefox Monitor会提供这方面的帮助，解决网络风险！
 
 ### Firefox Monitor
 
