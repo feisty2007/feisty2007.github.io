@@ -10,7 +10,7 @@ tags: [软件]
 author:   "feisty2007"
 ---
 
-Firefox Monitor会提供这方面的帮助，解决网络风险！
+Firefox Monitor会提供这方面的帮助，解决网络风险问题，提高安全性！
 
 ### Firefox Monitor
 
@@ -54,5 +54,5 @@ Monitor会自动发送确认邮件给邮箱，点击一下就可以！
 
 ### 最后
 
-互联网是一个开发空间，Firefox Monitor根据大数据来帮助大家提高Email邮箱安全性，希望大家有空试用！
+互联网是一个开放空间，Firefox Monitor根据大数据来帮助大家提高Email邮箱安全性，希望大家有空试用！
 
