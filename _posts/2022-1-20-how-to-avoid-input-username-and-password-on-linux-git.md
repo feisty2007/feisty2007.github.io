@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Linux系统使用git，如何避免每次都需要输入用户名和秘密"
-crawlertitle: "Linux系统使用git，如何避免每次都需要输入用户名和秘密"
-description:  "Linux系统使用git，如何避免每次都需要输入用户名和秘密"
-summary:  "Linux系统使用git，如何避免每次都需要输入用户名和秘密"
+title:    "Linux系统使用git，如何避免每次都需要输入用户名和密码"
+crawlertitle: "Linux系统使用git，如何避免每次都需要输入用户名和密码"
+description:  "Linux系统使用git，如何避免每次都需要输入用户名和密码"
+summary:  "Linux系统使用git，如何避免每次都需要输入用户名和密码"
 date: 2022-1-20 11:35:19
 categories:   软件
 tags: [软件]
@@ -57,6 +57,6 @@ pub是公钥文件，你需要拷贝其内容到github上面。
 
 ### 测试一下
 
-你会发现，现在无需密码，就可以进行推送密码了
+你会发现，现在无需密码，就可以推送代码了
 
 

@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "怎样提供Eamil地址的安全性？"
-crawlertitle: "怎样提供Eamil地址的安全性？"
-description:  "怎样提供Eamil地址的安全性？"
-summary:  "怎样提供Eamil地址的安全性？"
+title:    "怎样提供Eamil邮箱的安全性？"
+crawlertitle: "怎样提供Eamil邮箱的安全性？"
+description:  "怎样提供Eamil邮箱的安全性？"
+summary:  "怎样提供Eamil邮箱的安全性？"
 date: 2022-1-20 10:12:52
 categories:   软件
 tags: [软件]
@@ -55,4 +55,8 @@ Monitor会自动发送确认邮件给邮箱，点击一下就可以！
 ### 最后
 
 互联网是一个开放空间，Firefox Monitor根据大数据来帮助大家提高Email邮箱安全性，希望大家有空试用！
+
+### 号外
+
+如果你不希望邮箱地址泄露，同样可以使用Firefox Relay服务器生成一个临时邮箱，用于收取那些验证码和临时注册等用途！
 
