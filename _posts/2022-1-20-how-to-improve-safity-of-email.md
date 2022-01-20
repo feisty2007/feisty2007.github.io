@@ -20,11 +20,11 @@ Firefox是著名的上网浏览器。为了提供更安全的网络环境，它�
 
 ### 如何使用
 
-####注册Firefox账号
+#### 注册Firefox账号
 
 首先需要注册一个Firefox在线账号，来管理邮件地址。
 
-####进入monitor
+#### 进入monitor
 
 进入monitor网页，需要登陆：
 
