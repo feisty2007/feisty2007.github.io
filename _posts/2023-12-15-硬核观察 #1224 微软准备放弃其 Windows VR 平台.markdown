@@ -7,10 +7,10 @@ tags:	[linuxcn,VR,AI,iPhone,安卓]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/23/164740eyszjkznlnknbkib.jpg)
+![](/Asserts/Images/album/202312/23/164740eyszjkznlnknbkib.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/23/164751bnq46l5zqlqcqc6o.png)
+![](/Asserts/Images/album/202312/23/164751bnq46l5zqlqcqc6o.png)
 
 
 ### #1 微软准备放弃其 Windows VR 平台
@@ -38,7 +38,7 @@ Windows Mixed Reality 是微软为 Windows PC 构建 VR 生态系统的一次尝
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/23/164810ucc63t6inv1ov0pa.png)
+![](/Asserts/Images/album/202312/23/164810ucc63t6inv1ov0pa.png)
 
 
 ### #2 苹果公司想让 AI 直接运行在 iPhone 本地
@@ -66,7 +66,7 @@ Windows Mixed Reality 是微软为 Windows PC 构建 VR 生态系统的一次尝
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/23/165043vucckz56duh66cbb.png)
+![](/Asserts/Images/album/202312/23/165043vucckz56duh66cbb.png)
 
 
 ### #3 Android 15 将可以告诉何时该更换电池

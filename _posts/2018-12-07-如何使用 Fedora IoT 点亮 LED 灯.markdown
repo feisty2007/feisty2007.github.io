@@ -7,7 +7,7 @@ tags:	[linuxcn,IoT,LED]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/25/002456eqq5cypt46lqayhs.jpg)
+![](/Asserts/Images/album/201812/25/002456eqq5cypt46lqayhs.jpg)
 
 
 如果你喜欢 Fedora、容器，而且有一块树莓派，那么这三者结合操控 LED 会怎么样？本文介绍的是 Fedora IoT，将展示如何在树莓派上安装预览镜像。还将学习如何与 GPIO 交互以点亮 LED。
@@ -19,7 +19,7 @@ tags:	[linuxcn,IoT,LED]
 Fedora IoT 是当前 Fedora 项目的目标之一，计划成为一个完整的 Fedora 版本。Fedora IoT 将是一个在 ARM（目前仅限 aarch64）设备上（例如树莓派），以及 x86\_64 架构上运行的系统。
 
 
-![](/Asserts/Images//attachment/album/201812/25/002429tsmzqg7ssf1qqsgj.jpg)
+![](/Asserts/Images/album/201812/25/002429tsmzqg7ssf1qqsgj.jpg)
 
 
 Fedora IoT 基于 OSTree 开发，就像 [Fedora Silverblue](https://teamsilverblue.org/) 和以往的 [Atomic Host](https://www.projectatomic.io/)。
@@ -217,7 +217,7 @@ $ gpioset -b -s 5 --mode=time gpiochip0 21=1
 另一个有用的命令是 `gpioget`。 它可以获得引脚的状态（高或低），可用于检测按钮和开关。
 
 
-![](/Asserts/Images//attachment/album/201812/25/002446l3qaak1sunx21us2.jpg)
+![](/Asserts/Images/album/201812/25/002446l3qaak1sunx21us2.jpg)
 
 
 ### 总结

@@ -15,7 +15,7 @@ tags:	[linuxcn,CI,CD]
 > 
 
 
-![在OpenDev上，掌握CI/CD](/Asserts/Images//attachment/album/201809/17/231756smmq0up0b0m88s90.png)
+![在OpenDev上，掌握CI/CD](/Asserts/Images/album/201809/17/231756smmq0up0b0m88s90.png)
 
 
 在 2017 年启动后，OpenDev 大会现在已是一个年度活动。在去年 9 月的首届活动上，会议的重点是边缘计算。今年的活动，于 5 月 22 - 23 日举行，会议的重点是持续集成和持续发布 (CI/CD)，并与 OpenStack 峰会一起在温哥华举行。

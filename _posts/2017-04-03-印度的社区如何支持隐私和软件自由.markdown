@@ -7,7 +7,7 @@ tags:	[linuxcn,社区,自由,隐私]
 ---
 
 
-![How communities in India support privacy and software freedom](/Asserts/Images//attachment/album/201704/14/164955cne3hjoaapog6dfl.png "How communities in India support privacy and software freedom")
+![How communities in India support privacy and software freedom](/Asserts/Images/album/201704/14/164955cne3hjoaapog6dfl.png "How communities in India support privacy and software freedom")
 
 
 印度的自由和开源社区，特别是 Mozilla 和 Wikimedia 社区，它们正在引领两个独特的全球性活动，以提高隐私保护及支持自由软件。

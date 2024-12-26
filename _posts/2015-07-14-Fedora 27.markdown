@@ -7,7 +7,7 @@ tags:	[linuxcn,发行版,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/21/204629aj3t5z5lalittc4t.png)
+![](/Asserts/Images/album/201406/21/204629aj3t5z5lalittc4t.png)
 
 
 ### 简介
@@ -154,7 +154,7 @@ Fedora 官方支持 x86、x86-64 以及 PowerPC 处理器，游戏机方面，Fe
 Fedora版本命名规则：第n版与第n+1版有继承关系，但与第n+2版没有相同继承关系。
 
 
-![](/Asserts/Images//attachment/album/201712/14/150658irniesz554kjmjbe.png)
+![](/Asserts/Images/album/201712/14/150658irniesz554kjmjbe.png)
 
 
 #### 版本列表

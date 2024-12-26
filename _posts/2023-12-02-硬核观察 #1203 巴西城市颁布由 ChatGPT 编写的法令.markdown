@@ -7,10 +7,10 @@ tags:	[linuxcn,Servo,AI,法律]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/02/172355gnwi9z9ltf999nib.jpg)
+![](/Asserts/Images/album/202312/02/172355gnwi9z9ltf999nib.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/02/172404zt7ffltfkzzfmvm7.png)
+![](/Asserts/Images/album/202312/02/172404zt7ffltfkzzfmvm7.png)
 
 
 ### #1 巴西城市颁布由 ChatGPT 编写的法令
@@ -35,7 +35,7 @@ tags:	[linuxcn,Servo,AI,法律]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/02/172425gjnrotjqqtljirve.png)
+![](/Asserts/Images/album/202312/02/172425gjnrotjqqtljirve.png)
 
 
 ### #2 研究人员量化生成人工智能图像的碳足迹
@@ -60,7 +60,7 @@ Hugging Face 和卡内基梅隆大学的研究人员发现，使用人工智能�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/02/172442kleb98tseasstdi8.png)
+![](/Asserts/Images/album/202312/02/172442kleb98tseasstdi8.png)
 
 
 ### #3 Servo 浏览器引擎继续走嵌入式友好之路

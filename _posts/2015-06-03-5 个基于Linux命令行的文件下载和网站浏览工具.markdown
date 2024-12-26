@@ -10,7 +10,7 @@ tags:	[linuxcn,wget,curl,elinks,w3m]
 Linux命令行是GNU/Linux中最神奇迷人的部分，它是非常强大的工具。命令行本身功能多样，多种内建或者第三方的命令行应用使得Linux变得更加健壮和强大。Linux Shell支持多种不同类型的网络应用，无论是BT下载软件，专用下载器或者互联网冲浪。
 
 
-![命令行互联网工具](/Asserts/Images//attachment/album/201505/31/225420f2iz5px4g659q6qx.jpg)
+![命令行互联网工具](/Asserts/Images/album/201505/31/225420f2iz5px4g659q6qx.jpg)
 
 
 *5个命令行互联网工具*
@@ -54,7 +54,7 @@ rTorrent是基于文本，用C++编写，追求高性能的Torrent客户端。�
 
 ```
 
-![命令行torrent下载器](/Asserts/Images//attachment/album/201505/31/225421tlzct2nu1hhvh1nl.jpg)
+![命令行torrent下载器](/Asserts/Images/album/201505/31/225421tlzct2nu1hhvh1nl.jpg)
 
 
 *rTorrent命令行工具*
@@ -138,7 +138,7 @@ Wget是GNU项目的一部分，名字由World Wide Web (WWW)衍生而来。Wget�
 Wget是一个很棒的工具，它允许在资源有限的机器上自定义或者过滤下载。这是镜像一个网站(Yahoo.com)的wget下载截图。
 
 
-![Wget 下载文件](/Asserts/Images//attachment/album/201505/31/225422dg79cg9k9kscwqlg.jpg)
+![Wget 下载文件](/Asserts/Images/album/201505/31/225422dg79cg9k9kscwqlg.jpg)
 
 
 *Wget 命令行文件下载*
@@ -185,13 +185,13 @@ cURL的基本使用方法
 
 ```
 
-![Curl 下载](/Asserts/Images//attachment/album/201505/31/225423j0nz6nxusvana9lg.jpg)
+![Curl 下载](/Asserts/Images/album/201505/31/225423j0nz6nxusvana9lg.jpg)
 
 
 *Curl 下载*
 
 
-![Curl 下载数据](/Asserts/Images//attachment/album/201505/31/225423spsu8zn8dhsgugf4.jpg)
+![Curl 下载数据](/Asserts/Images/album/201505/31/225423spsu8zn8dhsgugf4.jpg)
 
 
 *Curl 下载*
@@ -235,7 +235,7 @@ W3m在大部分Linux发行版中也是默认可用的。如果不可用的话可
 
 ```
 
-![命令行浏览器](/Asserts/Images//attachment/album/201505/31/225423wpozw2p22fpmxpxd.jpg)
+![命令行浏览器](/Asserts/Images/album/201505/31/225423wpozw2p22fpmxpxd.jpg)
 
 
 *基于文本的web浏览器w3m*
@@ -279,7 +279,7 @@ Elinks的基本使用方法
 
 ```
 
-![命令行互联网浏览](/Asserts/Images//attachment/album/201505/31/225424wkuksxz84dgsu6ju.jpg)
+![命令行互联网浏览](/Asserts/Images/album/201505/31/225424wkuksxz84dgsu6ju.jpg)
 
 
 *Elinks命令行浏览互联网*

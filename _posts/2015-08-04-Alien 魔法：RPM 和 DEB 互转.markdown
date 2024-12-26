@@ -10,7 +10,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 正如我确信，你们一定知道Linux下的多种软件安装方式：使用发行版所提供的包管理系统（[aptitude，yum，或者zypper](http://www.tecmint.com/linux-package-management/)，还可以举很多例子），从源码编译（尽管现在很少用了，但在Linux发展早期却是唯一可用的方法），或者使用各自的低级工具dpkg用于.deb，以及rpm用于.rpm，预编译包，如此这般。
 
 
-![Convert RPM to DEB and DEB to RPM](/Asserts/Images//attachment/album/201508/31/104518y660t6ggg4g0g14n.png)
+![Convert RPM to DEB and DEB to RPM](/Asserts/Images/album/201508/31/104518y660t6ggg4g0g14n.png)
 
 
 *使用Alien将RPM转换成DEB以及将DEB转换成RPM*
@@ -80,7 +80,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 对于本次测试，我们选择了date工具，它提供了一系列日期和时间工具用于处理大量金融数据。我们将下载.deb包到我们的CentOS 7机器中，将它转换成.rpm并安装：
 
 
-![Check CentOS Version](/Asserts/Images//attachment/album/201508/31/104519xaor8xkaghsaypgk.png)
+![Check CentOS Version](/Asserts/Images/album/201508/31/104519xaor8xkaghsaypgk.png)
 
 
 检查CentOS版本
@@ -94,7 +94,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 
 ```
 
-![Convert .deb to .rpm package in Linux](/Asserts/Images//attachment/album/201508/31/104520pb6o22boocmdlolr.png)
+![Convert .deb to .rpm package in Linux](/Asserts/Images/album/201508/31/104520pb6o22boocmdlolr.png)
 
 
 *在Linux中将.deb转换成.rpm*
@@ -112,7 +112,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 
 ```
 
-![Install RPM Package](/Asserts/Images//attachment/album/201508/31/104521q72wccborsro7w73.png)
+![Install RPM Package](/Asserts/Images/album/201508/31/104521q72wccborsro7w73.png)
 
 
 *安装RPM包*
@@ -139,7 +139,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 它会打开你的默认文本编辑器。请转到`%files`章节并删除涉及到错误信息中提到的目录的行，然后保存文件并退出：
 
 
-![Convert .deb to Alien Version](/Asserts/Images//attachment/album/201508/31/104521czr1o8i6888386zl.png)
+![Convert .deb to Alien Version](/Asserts/Images/album/201508/31/104521czr1o8i6888386zl.png)
 
 
 *转换.deb到Alien版*
@@ -154,7 +154,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 
 ```
 
-![Build RPM Package](/Asserts/Images//attachment/album/201508/31/104522xba5dd2i9b5b29r9.png)
+![Build RPM Package](/Asserts/Images/album/201508/31/104522xba5dd2i9b5b29r9.png)
 
 
 *构建RPM包*
@@ -170,7 +170,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 
 ```
 
-![Install Build RPM Package](/Asserts/Images//attachment/album/201508/31/104522y9bbsa17u7gj6bab.png)
+![Install Build RPM Package](/Asserts/Images/album/201508/31/104522y9bbsa17u7gj6bab.png)
 
 
 *安装构建RPM包*
@@ -185,7 +185,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 
 ```
 
-![Verify Installed RPM Package](/Asserts/Images//attachment/album/201508/31/104523m66lcrfccfruvr00.png)
+![Verify Installed RPM Package](/Asserts/Images/album/201508/31/104523m66lcrfccfruvr00.png)
 
 
 *验证安装的RPM包*
@@ -204,7 +204,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 
 ```
 
-![Check Shell and Debian OS Version](/Asserts/Images//attachment/album/201508/31/104525ph2lb8k8bkypk7hu.png)
+![Check Shell and Debian OS Version](/Asserts/Images/album/201508/31/104525ph2lb8k8bkypk7hu.png)
 
 
 *检查Shell和Debian操作系统版本*
@@ -220,7 +220,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 你可以安全地无视关于签名丢失的信息：
 
 
-![Convert .rpm to .deb Package](/Asserts/Images//attachment/album/201508/31/104527bxcbf7i5ywx5yihb.png)
+![Convert .rpm to .deb Package](/Asserts/Images/album/201508/31/104527bxcbf7i5ywx5yihb.png)
 
 
 *将.rpm转换成.deb包*
@@ -235,7 +235,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 
 ```
 
-![Install RPM Converted Deb Package](/Asserts/Images//attachment/album/201508/31/104527jem8q1jrpxjiqptl.png)
+![Install RPM Converted Deb Package](/Asserts/Images/album/201508/31/104527jem8q1jrpxjiqptl.png)
 
 
 *安装RPM转换来的Deb包*
@@ -250,7 +250,7 @@ tags:	[linuxcn,Alien,RPM,DEB]
 
 ```
 
-![Confirm Installed Zsh Package](/Asserts/Images//attachment/album/201508/31/104527iiywm1ew8rjw09s1.png)
+![Confirm Installed Zsh Package](/Asserts/Images/album/201508/31/104527iiywm1ew8rjw09s1.png)
 
 
 *确认安装的Zsh包*

@@ -7,10 +7,10 @@ tags:	[linuxcn,游戏,CPU,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/23/170523s8cztn8wkkk5wc6k.jpg)
+![](/Asserts/Images/album/202211/23/170523s8cztn8wkkk5wc6k.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/23/170535elob15ravab5nala.jpg)
+![](/Asserts/Images/album/202211/23/170535elob15ravab5nala.jpg)
 
 
 ### 六年后，微软称 WSL 达到一般可用
@@ -35,7 +35,7 @@ tags:	[linuxcn,游戏,CPU,WSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/23/170545cun8zs7mh3fvsm53.jpg)
+![](/Asserts/Images/album/202211/23/170545cun8zs7mh3fvsm53.jpg)
 
 
 ### 游戏玩家已达 32 亿
@@ -60,7 +60,7 @@ Newzoo 的最新全球游戏市场报告显示，今年全球玩游戏的人数�
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/23/170601m7dhdrkmtiti6p76.jpg)
+![](/Asserts/Images/album/202211/23/170601m7dhdrkmtiti6p76.jpg)
 
 
 ### 英特尔将在第四代至强处理器提供可选的按需服务

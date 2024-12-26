@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux 桌面,主题]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/21/172213ts2x6e1g4lwatv54.jpg)
+![](/Asserts/Images/album/202204/21/172213ts2x6e1g4lwatv54.jpg)
 
 
 
@@ -48,13 +48,13 @@ Twister UI 是一套用于 [Linux Mint](https://www.debugpoint.com/2021/11/linux
 #### 它的外观（截图）
 
 
-![Twister UI – macOS Theme](/Asserts/Images//attachment/album/202204/21/172221joadoztgtzsgtcfd.jpg)
+![Twister UI – macOS Theme](/Asserts/Images/album/202204/21/172221joadoztgtzsgtcfd.jpg)
 
 
-![Twister UI – Windows XP Theme](/Asserts/Images//attachment/album/202204/21/172221u3okn8v82dv0nsnv.jpg)
+![Twister UI – Windows XP Theme](/Asserts/Images/album/202204/21/172221u3okn8v82dv0nsnv.jpg)
 
 
-![native Twister OS theme](/Asserts/Images//attachment/album/202204/21/172221mjdkkmij9i9zjrj9.jpg)
+![native Twister OS theme](/Asserts/Images/album/202204/21/172221mjdkkmij9i9zjrj9.jpg)
 
 
 #### Twister UI 软件包的内容
@@ -92,7 +92,7 @@ Twister UI 是一套用于 [Linux Mint](https://www.debugpoint.com/2021/11/linux
 下载完毕后，打开下载的文件夹，你应该看到一个扩展名为 `.run` 的文件（如下图所示）。
 
 
-![Give the execute permission to the run file](/Asserts/Images//attachment/album/202204/21/172221b07ogqqgfmllqzne.jpg)
+![Give the execute permission to the run file](/Asserts/Images/album/202204/21/172221b07ogqqgfmllqzne.jpg)
 
 
 改变该文件的权限，使其可执行。然后通过终端运行它。
@@ -101,7 +101,7 @@ Twister UI 是一套用于 [Linux Mint](https://www.debugpoint.com/2021/11/linux
 该脚本需要管理员密码，所以在要求时就提供这个密码。在你开始安装之前，请确保你有稳定的网络连接，以便随时下载其他软件包。
 
 
-![Starting the installation script](/Asserts/Images//attachment/album/202204/21/172221scl0ra55v552caaf.jpg)
+![Starting the installation script](/Asserts/Images/album/202204/21/172221scl0ra55v552caaf.jpg)
 
 
 下载和安装需要一些时间。这取决于你的网速，可能需要 15 到 20 分钟左右。
@@ -129,7 +129,7 @@ Twister UI 是一套用于 [Linux Mint](https://www.debugpoint.com/2021/11/linux
 现在你应该在桌面上看到一个 “ThemeTwister” 图标，打开该应用。这个应用为你提供了改变主题的选项，如下图所示。
 
 
-![Changing theme using ThemeTwister tool](/Asserts/Images//attachment/album/202204/21/172222qaziuol6dt4188dl.jpg)
+![Changing theme using ThemeTwister tool](/Asserts/Images/album/202204/21/172222qaziuol6dt4188dl.jpg)
 
 
 选择一个主题并点击相应的按钮。每次你改变或应用一个主题时，该脚本都会要求你注销。所以在改变主题之前，请确保你关闭所有的程序。
@@ -162,7 +162,7 @@ sh /usr/share/ThemeSwitcher/uninstall.sh
 该定制对桌面性能影响不大。当我在 Linux Mint Xfce 版的空闲模式下运行一到两项定制时，它消耗了大约 740MB 的内存，CPU 大约 2% 到 3%。这本身就令人印象深刻。使用它的唯一代价是额外的磁盘空间。
 
 
-![Resource Usage in Linux Mint with Twister UI](/Asserts/Images//attachment/album/202204/21/172222qq88c5485jc5ogvq.jpg)
+![Resource Usage in Linux Mint with Twister UI](/Asserts/Images/album/202204/21/172222qq88c5485jc5ogvq.jpg)
 
 
 主题切换器非常好，完美地改变了主题，没有意外和错误。

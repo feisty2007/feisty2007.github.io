@@ -7,7 +7,7 @@ tags:	[linuxcn,绘图,数学]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/25/140338su2fju6016t5q2tz.jpg)
+![](/Asserts/Images/album/202102/25/140338su2fju6016t5q2tz.jpg)
 
 
 Plots 是一款图形绘图应用，它可以轻松实现数学公式的可视化。你可以用它来绘制任意三角函数、双曲函数、指数函数和对数函数的和与积。
@@ -22,19 +22,19 @@ Plots 是一款图形绘图应用，它可以轻松实现数学公式的可视�
 Plots 是用 Python 编写的，它使用 [OpenGL](https://www.opengl.org/) 来利用现代硬件。它使用 GTK 3，因此可以很好地与 GNOME 桌面集成。
 
 
-![](/Asserts/Images//attachment/album/202102/25/140348joyulfknyfxunzii.png)
+![](/Asserts/Images/album/202102/25/140348joyulfknyfxunzii.png)
 
 
 使用 Plots 非常直白。要添加一个新的方程，点击加号。点击垃圾箱图标可以删除方程。还可以选择撤销和重做。你也可以放大和缩小。
 
 
-![](/Asserts/Images//attachment/album/202102/25/140349s32i6rz3ck1fftss.png)
+![](/Asserts/Images/album/202102/25/140349s32i6rz3ck1fftss.png)
 
 
 你输入方程的文本框是友好的。菜单中有一个“帮助”选项可以访问文档。你可以在这里找到关于如何编写各种数学符号的有用提示。你也可以复制粘贴方程。
 
 
-![](/Asserts/Images//attachment/album/202102/25/140350j3z02l900e2cyh7a.png)
+![](/Asserts/Images/album/202102/25/140350j3z02l900e2cyh7a.png)
 
 
 在深色模式下，侧栏公式区域变成了深色，但主绘图区域仍然是白色。我相信这也许是这样设计的。
@@ -43,7 +43,7 @@ Plots 是用 Python 编写的，它使用 [OpenGL](https://www.opengl.org/) 来�
 你可以使用多个函数，并将它们全部绘制在一张图中：
 
 
-![](/Asserts/Images//attachment/album/202102/25/140352s0jpsjyal3zhw999.png)
+![](/Asserts/Images/album/202102/25/140352s0jpsjyal3zhw999.png)
 
 
 我发现它在尝试粘贴一些它无法理解的方程时崩溃了。如果你写了一些它不能理解的东西，或者与现有的方程冲突，所有图形都会消失，去掉不正确的方程就会恢复图形。

@@ -10,7 +10,7 @@ tags:	[linuxcn,watch,重复]
 服务器管理员需要维护系统并保持更新和安全。每天需要运行大量的指令。有些系统进程会记录日志。这些日志不断更新。为了检查这些更新，需要重复地执行命令。比如，为了读取一个日志文件需要使用head、tail、cat等命令。这些命令需要重复地执行。而watch命令可以用于定期地执行一个命令。
 
 
-![](/Asserts/Images//attachment/album/201507/05/222526uus5925dpb555xyr.jpg)
+![](/Asserts/Images/album/201507/05/222526uus5925dpb555xyr.jpg)
 
 
 ### Watch 命令
@@ -40,7 +40,7 @@ watch tail /var/log/messages
 
 ```
 
-![tail messages](/Asserts/Images//attachment/album/201507/05/222531dlij1jff48rrcasa.png)
+![tail messages](/Asserts/Images/album/201507/05/222531dlij1jff48rrcasa.png)
 
 
 按指定的时间间隔监测磁盘的使用率。
@@ -52,7 +52,7 @@ watch df -h
 
 ```
 
-![df -h](/Asserts/Images//attachment/album/201507/05/222532en4m39mm3j029pgp.png)
+![df -h](/Asserts/Images/album/201507/05/222532en4m39mm3j029pgp.png)
 
 
 对磁盘管理员而言，关注高I/O等待导致的磁盘操作尤其是mysql事务是很重要的。
@@ -64,7 +64,7 @@ watch mysqladmin processlist
 
 ```
 
-![processlist](/Asserts/Images//attachment/album/201507/05/222532q2ipcghizkhejbe2.png)
+![processlist](/Asserts/Images/album/201507/05/222532q2ipcghizkhejbe2.png)
 
 
 监测服务器负载和运行时间。
@@ -76,7 +76,7 @@ watch uptime
 
 ```
 
-![uptime](/Asserts/Images//attachment/album/201507/05/222533anujurflz34xljtx.png)
+![uptime](/Asserts/Images/album/201507/05/222533anujurflz34xljtx.png)
 
 
 监测exim给用户发送通知的队列大小。
@@ -88,7 +88,7 @@ watch exim -bpc
 
 ```
 
-![exim -bpc](/Asserts/Images//attachment/album/201507/05/222533qqzhh2xjaxzx753i.png)
+![exim -bpc](/Asserts/Images/album/201507/05/222533qqzhh2xjaxzx753i.png)
 
 
 ### 1) 指定延迟
@@ -109,7 +109,7 @@ watch -n 5 date
 
 ```
 
-![date 5 seconds](/Asserts/Images//attachment/album/201507/05/222534wdn75q76050b27qc.png)
+![date 5 seconds](/Asserts/Images/album/201507/05/222534wdn75q76050b27qc.png)
 
 
 ### 2) 连续输出比较
@@ -136,13 +136,13 @@ watch -n 15 -d date
 第一次执行date的输出会被记录，15秒后会重复运行命令。
 
 
-![Difference A](/Asserts/Images//attachment/album/201507/05/222534eq5gi5lzleel4iel.png)
+![Difference A](/Asserts/Images/album/201507/05/222534eq5gi5lzleel4iel.png)
 
 
 在下一次执行时，可以看到输出除了被高亮的秒数从14到29之外其他的都一样。
 
 
-![Difference A](/Asserts/Images//attachment/album/201507/05/222534x29d7mm2kcqypkwe.png)
+![Difference A](/Asserts/Images/album/201507/05/222534x29d7mm2kcqypkwe.png)
 
 
 例子 2，让我们来体验一下两个连续的“uptime”命令输出的不同。
@@ -154,13 +154,13 @@ watch -n 20 -d uptime
 
 ```
 
-![uptime](/Asserts/Images//attachment/album/201507/05/222533anujurflz34xljtx.png)
+![uptime](/Asserts/Images/album/201507/05/222533anujurflz34xljtx.png)
 
 
 现在列出了时间和3个负载快照之间的不同。
 
 
-![10b](/Asserts/Images//attachment/album/201507/05/222535gttvhlaffogk3kkz.png)
+![10b](/Asserts/Images/album/201507/05/222535gttvhlaffogk3kkz.png)
 
 
 ### 3) 不带标题输出
@@ -184,7 +184,7 @@ watch -t date
 
 ```
 
-![watch without title](/Asserts/Images//attachment/album/201507/05/222535fvv68ffrsvn8bc3y.png)
+![watch without title](/Asserts/Images/album/201507/05/222535fvv68ffrsvn8bc3y.png)
 
 
 ### Watch 帮助
@@ -199,7 +199,7 @@ watch -h [--help]
 
 ```
 
-![watch help](/Asserts/Images//attachment/album/201507/05/222536ud631kovem9mkd1d.png)
+![watch help](/Asserts/Images/album/201507/05/222536ud631kovem9mkd1d.png)
 
 
 ### Watch 版本
@@ -214,7 +214,7 @@ watch -v [--version]
 
 ```
 
-![version](/Asserts/Images//attachment/album/201507/05/222536zp1uocco1mabxaec.png)
+![version](/Asserts/Images/album/201507/05/222536zp1uocco1mabxaec.png)
 
 
 **不足**

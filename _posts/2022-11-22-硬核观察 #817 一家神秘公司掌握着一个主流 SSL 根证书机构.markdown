@@ -7,10 +7,10 @@ tags:	[linuxcn,CA,Copilot,NSA]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/11/165344jhmy3ydmkqggdmdx.jpg)
+![](/Asserts/Images/album/202211/11/165344jhmy3ydmkqggdmdx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/11/165353ywa0z8kzoerkiowb.jpg)
+![](/Asserts/Images/album/202211/11/165353ywa0z8kzoerkiowb.jpg)
 
 
 ### 一家神秘公司掌握着一个主流 SSL 根证书机构
@@ -35,7 +35,7 @@ tags:	[linuxcn,CA,Copilot,NSA]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/11/165406n4s00un000i0zpvj.jpg)
+![](/Asserts/Images/album/202211/11/165406n4s00un000i0zpvj.jpg)
 
 
 ### GitHub 实验 “Hey, GitHub!” 语音编程
@@ -60,7 +60,7 @@ GitHub Next 团队宣布了一项新的实验：“Hey, GitHub!”，允许与 C
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/11/165414uyaj1j7ukkbs7yah.jpg)
+![](/Asserts/Images/album/202211/11/165414uyaj1j7ukkbs7yah.jpg)
 
 
 ### 美国国家安全局敦促各组织转向内存安全编程语言

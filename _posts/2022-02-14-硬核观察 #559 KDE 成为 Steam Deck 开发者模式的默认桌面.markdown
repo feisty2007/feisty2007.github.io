@@ -7,10 +7,10 @@ tags:	[linuxcn,KDE,C语言,大型机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/26/205727o83br8ir43z8zufr.jpg)
+![](/Asserts/Images/album/202202/26/205727o83br8ir43z8zufr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/26/205742eubjqkuikzkojvsb.jpg)
+![](/Asserts/Images/album/202202/26/205742eubjqkuikzkojvsb.jpg)
 
 
 ### KDE 成为 Steam Deck 开发者模式的默认桌面
@@ -27,7 +27,7 @@ Steam Deck 已经发货，[KDE Plasma](https://pointieststick.com/2022/02/25/thi
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/26/205750xr45v8pn354pe57r.jpg)
+![](/Asserts/Images/album/202202/26/205750xr45v8pn354pe57r.jpg)
 
 
 ### Linux 内核准备采用现代 C 语言标准
@@ -44,7 +44,7 @@ Linux 内核仍然采用的是 1989 版的 C 语言标准，它已有三十多�
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/26/205812gli2scpp8d95o3z5.jpg)
+![](/Asserts/Images/album/202202/26/205812gli2scpp8d95o3z5.jpg)
 
 
 ### 富士通准备停止其大型机和 UNIX 业务

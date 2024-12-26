@@ -15,7 +15,7 @@ tags:	[linuxcn,终端,视频]
 > 
 
 
-![](/Asserts/Images//attachment/album/201901/04/094842dm9jhmg99meolcqm.png)
+![](/Asserts/Images/album/201901/04/094842dm9jhmg99meolcqm.png)
 
 
 我们即将结束为期 24 天的 Linux 命令行玩具日历。希望你一直在看，如果没有，请回到[这里](https://opensource.com/article/18/12/linux-toy-boxes)开始，自己试试。你会发现 Linux 终端有很多游戏，消遣和奇怪的东西。
@@ -71,7 +71,7 @@ $ mplayer -really-quiet -vo caca fireplace.mp4
 这就完成了！
 
 
-![](/Asserts/Images//attachment/album/201901/04/094914tv4ke83ellhlaymk.gif)
+![](/Asserts/Images/album/201901/04/094914tv4ke83ellhlaymk.gif)
 
 
 你有特别喜欢的命令行小玩具需要我介绍的吗？提交今年的建议有点晚了，但我们仍然希望在新的一年里有一些很酷的命令行玩具。请在下面的评论中告诉我，我会查看的。让我知道你对今天的玩具有何看法。

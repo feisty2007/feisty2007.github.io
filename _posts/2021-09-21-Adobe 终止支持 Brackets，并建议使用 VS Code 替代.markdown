@@ -15,7 +15,7 @@ tags:	[linuxcn,Brackets,VSCode]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/14/092533kyu04x0urotnzx2j.jpg)
+![](/Asserts/Images/album/202109/14/092533kyu04x0urotnzx2j.jpg)
 
 
 Brackets 是一个令人印象深刻的现代开源代码编辑器，可用于 Windows、macOS 和 Linux。
@@ -30,7 +30,7 @@ Adobe 以一个社区引导的项目的形式创建了它，来帮助 Web 开发
 ### 为什么 Adobe 停用了 Brackets？
 
 
-![](/Asserts/Images//attachment/album/202109/14/092533jxgfhvy6jc0k7gl7.png)
+![](/Asserts/Images/album/202109/14/092533jxgfhvy6jc0k7gl7.png)
 
 
 看起来可能是 Adobe 与微软的合作关系促使他们拔掉了这个社区项目的插头。
@@ -39,7 +39,7 @@ Adobe 以一个社区引导的项目的形式创建了它，来帮助 Web 开发
 因此，他们建议用户迁移到微软的 Visual Studio Code 编辑器。
 
 
-![](/Asserts/Images//attachment/album/202109/14/092534q93728oywc8olo2l.png)
+![](/Asserts/Images/album/202109/14/092534q93728oywc8olo2l.png)
 
 
 这是 Brackets 项目中止后 GitHub 的原始页面上的内容。
@@ -60,7 +60,7 @@ Adobe 以一个社区引导的项目的形式创建了它，来帮助 Web 开发
 ### Brackets 将继续以没有 Adobe 的复刻出现
 
 
-![](/Asserts/Images//attachment/album/202109/14/092535p611aaomkq1htjku.png)
+![](/Asserts/Images/album/202109/14/092535p611aaomkq1htjku.png)
 
 
 尽管 Adobe 已经停止了这个项目，但 [原网站](https://brackets.io) 仍然存在，以维持这个项目的复刻。

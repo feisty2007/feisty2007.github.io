@@ -16,7 +16,7 @@ Google Calendar 是时下最流行的网页应用程序之一。用户可以通�
 在这个教程中，我会展示**如何利用 gcalcli 和 Conky 将 Google Calendar 融入 Linux 桌面**
 
 
-**[![](/Asserts/Images//attachment/album/201402/12/220326aq63mqcizywr93wq.jpg)](http://www.flickr.com/photos/xmodulo/11216377436/)**
+**[![](/Asserts/Images/album/201402/12/220326aq63mqcizywr93wq.jpg)](http://www.flickr.com/photos/xmodulo/11216377436/)**
 
 
 ### 在 Linux 安装 gcalcli
@@ -69,7 +69,7 @@ $ gcalcli agenda
 该命令会输出如下的一个 URL 。
 
 
-[![](/Asserts/Images//attachment/album/201402/12/220329zxh3r3qlzuyuuxq7.jpg)](http://www.flickr.com/photos/xmodulo/11216331146/)
+[![](/Asserts/Images/album/201402/12/220329zxh3r3qlzuyuuxq7.jpg)](http://www.flickr.com/photos/xmodulo/11216331146/)
 
 
 同时这个命令也会弹出一个指向该 URL 的浏览器窗口。如果因为一些原因，你的浏览器没有反应，你可以手动复制粘贴这个 URL 到你的浏览器中。
@@ -78,7 +78,7 @@ $ gcalcli agenda
 如果你还没有登录你的 Google 帐号，你得先登录。然后你会看到下面要求你许可 gcalcli 管理 Google Calendar 的信息。点击“Accept”即可。
 
 
-[![](/Asserts/Images//attachment/album/201402/12/220331zy2l9zod849ldu9s.jpg)](http://www.flickr.com/photos/xmodulo/11216308465/)
+[![](/Asserts/Images/album/201402/12/220331zy2l9zod849ldu9s.jpg)](http://www.flickr.com/photos/xmodulo/11216308465/)
 
 
 ### 支持 Google Calendar API
@@ -96,7 +96,7 @@ $ gcalcli agenda
 现在转到“APIs & auth”下的“Registered apps”那里，去注册 gcalcli app。点击最顶端的“Registered app”按钮。
 
 
-[![](/Asserts/Images//attachment/album/201402/12/22033384z2abog4jsjw5eg.jpg)](http://www.flickr.com/photos/xmodulo/11216363656/)
+[![](/Asserts/Images/album/201402/12/22033384z2abog4jsjw5eg.jpg)](http://www.flickr.com/photos/xmodulo/11216363656/)
 
 
 填写 app 的名字（如，“My Gcalcli”），然后选择“ Native ”作为平台。点击“Registered”按钮。
@@ -105,7 +105,7 @@ $ gcalcli agenda
 这一步会生成并显示 OAuth 用户的 ID 和密码。另外关于上面提示的“You have not set up your product name（您没有设置您的产品名称）”，你可以忽略掉。
 
 
-[![](/Asserts/Images//attachment/album/201402/12/220336n9aphahlkauc6hkz.jpg)](http://www.flickr.com/photos/xmodulo/11216593546/)
+[![](/Asserts/Images/album/201402/12/220336n9aphahlkauc6hkz.jpg)](http://www.flickr.com/photos/xmodulo/11216593546/)
 
 
 OAuth的认证结果将会保存在 ～/.gcalcli\_oauth 文本文件中。
@@ -141,7 +141,7 @@ $ gcalcli list
 $ gcalcli agenda
 
 
-[![](/Asserts/Images//attachment/album/201402/12/220338c47pp4io14ez14mi.jpg)](http://www.flickr.com/photos/xmodulo/11216465043/)
+[![](/Asserts/Images/album/201402/12/220338c47pp4io14ez14mi.jpg)](http://www.flickr.com/photos/xmodulo/11216465043/)
 
 
 ### 将 gcalcli 与 Conky 结合

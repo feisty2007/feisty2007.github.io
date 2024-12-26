@@ -16,7 +16,7 @@ tags:	[linuxcn,Quagga,路由器]
 教程中，我们主要参考如下拓扑。
 
 
-![](/Asserts/Images//attachment/album/201509/04/173911o1e7oo1d9m1coao8.jpg)
+![](/Asserts/Images/album/201509/04/173911o1e7oo1d9m1coao8.jpg)
 
 
 服务供应商A和B希望在他们之间建立一个IPv6的BGP对等体。他们的IPv6地址和AS信息如下所示。
@@ -321,7 +321,7 @@ router-a# show bgp ipv6 neighbors <neighbor-IPv6-address> routes
 
 ```
 
-![](/Asserts/Images//attachment/album/201509/04/173914ea9umab6x0bzbpbr.jpg)
+![](/Asserts/Images/album/201509/04/173914ea9umab6x0bzbpbr.jpg)
 
 
 ### 步骤 2： 过滤IPv6前缀
@@ -337,7 +337,7 @@ router-a# show bgp ipv6 neighbors <neighbor-IPv6-address> routes
 我们将根据需要过滤的前缀，来使用路由器的前缀列表和路由映射。
 
 
-![](/Asserts/Images//attachment/album/201509/04/173914lxqhqv7vznp2wllv.jpg)
+![](/Asserts/Images/album/201509/04/173914lxqhqv7vznp2wllv.jpg)
 
 
 #### 为路由B修改通告的前缀
@@ -359,7 +359,7 @@ router-b(config-router-af)# network 2001:DB8:2::/64
 我们将路由A上验证了所有的前缀都获得到了。
 
 
-![](/Asserts/Images//attachment/album/201509/04/173916aqr7rd8sf70o37fs.jpg)
+![](/Asserts/Images/album/201509/04/173916aqr7rd8sf70o37fs.jpg)
 
 
 太好了！我们在路由A上收到了所有的前缀，那么我们可以更进一步创建前缀列表和路由映射来过滤这些前缀。
@@ -413,7 +413,7 @@ router-a(config-router-af)# neighbor 2001:DB8:3::2 route-map FILTER-IPV6-RMAP in
 现在我们在路由A上再查看一边获得到的路由，我们应该只能看见两个被允许的前缀了。
 
 
-![](/Asserts/Images//attachment/album/201509/04/173916dobocuovowbvbcuw.jpg)
+![](/Asserts/Images/album/201509/04/173916dobocuovowbvbcuw.jpg)
 
 
 **注意**： 你可能需要重置BGP会话来刷新路由表。
@@ -431,7 +431,7 @@ router-a# clear bgp ipv6 *
 我汇总了两个路由的配置，并做成了一张清晰的图片以便阅读。
 
 
-![](/Asserts/Images//attachment/album/201509/04/173917kwv7fq0cfcv2n0nx.jpg)
+![](/Asserts/Images/album/201509/04/173917kwv7fq0cfcv2n0nx.jpg)
 
 
 ### 总结

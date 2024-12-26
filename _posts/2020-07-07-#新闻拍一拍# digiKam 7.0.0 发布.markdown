@@ -7,7 +7,7 @@ tags:	[linuxcn,digiKam]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/27/083511a4x7p7x2m3pi4dvz.jpg)
+![](/Asserts/Images/album/202007/27/083511a4x7p7x2m3pi4dvz.jpg)
 
 
 #### digiKam 7.0.0 发布

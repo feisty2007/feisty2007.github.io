@@ -16,16 +16,16 @@ CenterIM 是一个在线通讯工具，它的特别之处在于它的界面和�
 除了普通的在线通讯的功能外，它可以完全抛开鼠标，使用很多快捷键来操控。当然了，您不必担心记忆那些快捷键会学习曲线复杂，它会在屏幕底部随时提示各种操作。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201111/21/153210mmnpm8pm20m90i27.jpg](/Asserts/Images//attachment/album/201111/21/153210mmnpm8pm20m90i27.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201111/21/153210mmnpm8pm20m90i27.jpg](/Asserts/Images/album/201111/21/153210mmnpm8pm20m90i27.jpg)
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201111/21/1535129ka49z8nqswdexqu.png](/Asserts/Images//attachment/album/201111/21/1535129ka49z8nqswdexqu.png)
+![https://img.linux.net.cn/Asserts/Images/album/201111/21/1535129ka49z8nqswdexqu.png](/Asserts/Images/album/201111/21/1535129ka49z8nqswdexqu.png)
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201111/21/153514xc3ryn9s9zbn2ycy.png](/Asserts/Images//attachment/album/201111/21/153514xc3ryn9s9zbn2ycy.png)
+![https://img.linux.net.cn/Asserts/Images/album/201111/21/153514xc3ryn9s9zbn2ycy.png](/Asserts/Images/album/201111/21/153514xc3ryn9s9zbn2ycy.png)
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201111/21/1535167eerdrnl7xx27wrg.png](/Asserts/Images//attachment/album/201111/21/1535167eerdrnl7xx27wrg.png)
+![https://img.linux.net.cn/Asserts/Images/album/201111/21/1535167eerdrnl7xx27wrg.png](/Asserts/Images/album/201111/21/1535167eerdrnl7xx27wrg.png)
 
 
 最开始我们可能会因为新鲜感而使用它，不过随着新鲜感的消失，您会发现您会真的喜欢上它的。

@@ -67,7 +67,7 @@ sudo dpkg -i teamviewer_linux*.deb; sudo apt-get -f install
 去试试吧！
 
 
-![](/Asserts/Images//attachment/album/201312/13/150236icrep7017veio00r.png)
+![](/Asserts/Images/album/201312/13/150236icrep7017veio00r.png)
 
 
 如果上述的命令不能成功运行的话，那么就去 TeamViewer [下载页面来下载](http://www.teamviewer.com/en/download/linux.aspx).

@@ -7,7 +7,7 @@ tags:	[linuxcn,GIMP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201912/01/214500n2f4c7wxfoa8bfgg.jpg)
+![](/Asserts/Images/album/201912/01/214500n2f4c7wxfoa8bfgg.jpg)
 
 
 GIMP（GNU Image Manipulation Program 的缩写）是自由开源的图像处理软件。它有很多的功能，从简单的图像编辑，到复杂的滤镜、脚本，甚至是动画，它是流行的商业同类软件的一款很好的替代品。
@@ -36,7 +36,7 @@ sudo dnf install gimp
 ### 加载图像
 
 
-![](/Asserts/Images//attachment/album/201912/01/214501z4zzv59ve5nklewl.png)
+![](/Asserts/Images/album/201912/01/214501z4zzv59ve5nklewl.png)
 
 
 为加载图像，转到“<ruby> 文件 <rt>  File </rt></ruby> -> <ruby> 打开 <rt>  Open </rt></ruby>”，然后选择你的文件并选择你的图像文件。
@@ -51,7 +51,7 @@ sudo dnf install gimp
 让我们假使我们需要缩小 Fedora 30 背景图像到它当前大小的 75%。为此，选择“<ruby> 图像 <rt>  Image </rt></ruby> -> <ruby> 比例 <rt>  Scale </rt></ruby>”，然后在比例对话框上，在单位下拉列表中选择“<ruby> 百分比 <rt>  percentage </rt></ruby>”。接下来，输入 “75” 作为宽度或高度，然后按 Tab 键。默认情况下，其它尺寸将自动地调整大小，以相应地与更改的尺寸保持纵横比。现在，保存其它选项不变，并按比例。
 
 
-![](/Asserts/Images//attachment/album/201912/01/214501mpv1x33myauolyll.png)
+![](/Asserts/Images/album/201912/01/214501mpv1x33myauolyll.png)
 
 
 该图像缩小到其原始尺寸的 75%。
@@ -66,7 +66,7 @@ sudo dnf install gimp
 让我们假使我们需要旋转图像 90°。在应用一次 90° 顺时针旋转和水平翻转后，我们的图像将看起来像这样：
 
 
-![](/Asserts/Images//attachment/album/201912/01/214502dnm95p9oqjcpjnnz.png)
+![](/Asserts/Images/album/201912/01/214502dnm95p9oqjcpjnnz.png)
 
 
 ### 添加文本
@@ -78,7 +78,7 @@ sudo dnf install gimp
 当你编辑文本时，你可能注意到，文本对话框有字体自定义选项，包括字体系列、字体大小等等。
 
 
-![](/Asserts/Images//attachment/album/201912/01/214503p9gwwgkk113653ow.png)
+![](/Asserts/Images/album/201912/01/214503p9gwwgkk113653ow.png)
 
 
 ### 保存和导出

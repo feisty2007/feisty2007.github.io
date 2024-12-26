@@ -7,7 +7,7 @@ tags:	[linuxcn,应用]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/05/132504xx09az5i4ip0pel5.jpg)
+![](/Asserts/Images/album/202207/05/132504xx09az5i4ip0pel5.jpg)
 
 
 
@@ -42,7 +42,7 @@ sudo apt install gnome-tweaks
 
 ```
 
-![GNOME Tweaks Tool](/Asserts/Images//attachment/album/202207/05/132641c3u81mzz3urmfycm.jpg)
+![GNOME Tweaks Tool](/Asserts/Images/album/202207/05/132641c3u81mzz3urmfycm.jpg)
 
 
 ### 2、Steam
@@ -60,7 +60,7 @@ sudo apt install steam
 
 ```
 
-![Steam Client](/Asserts/Images//attachment/album/202207/05/132700ed0aakss3use9i99.jpg)
+![Steam Client](/Asserts/Images/album/202207/05/132700ed0aakss3use9i99.jpg)
 
 
 ### 3、Peek
@@ -78,7 +78,7 @@ sudo apt install peek
 
 ```
 
-![Peek](/Asserts/Images//attachment/album/202207/05/132713w51c5lo1ccc5qfop.jpg)
+![Peek](/Asserts/Images/album/202207/05/132713w51c5lo1ccc5qfop.jpg)
 
 
 ### 4、新立得
@@ -96,7 +96,7 @@ sudo apt install synaptic
 
 ```
 
-![Synaptic Package Manager](/Asserts/Images//attachment/album/202207/05/132508v85ajczmx8pl8akp.jpg)
+![Synaptic Package Manager](/Asserts/Images/album/202207/05/132508v85ajczmx8pl8akp.jpg)
 
 
 ### 5、GDebi
@@ -132,7 +132,7 @@ sudo apt install geary
 
 ```
 
-![Geary](/Asserts/Images//attachment/album/202207/05/132509kvfdfq66cvq51qfz.png)
+![Geary](/Asserts/Images/album/202207/05/132509kvfdfq66cvq51qfz.png)
 
 
 ### 7. 谷歌 Chrome 浏览器
@@ -173,7 +173,7 @@ sudo apt install kdenlive
 
 ```
 
-![Kdenlive Video Editor](/Asserts/Images//attachment/album/202207/05/132741wwkl4qn6hs96v9ru.jpg)
+![Kdenlive Video Editor](/Asserts/Images/album/202207/05/132741wwkl4qn6hs96v9ru.jpg)
 
 
 ### 9. Spectacle
@@ -197,7 +197,7 @@ sudo apt install kde-spectacle
 
 ```
 
-![Spectacle Screenshot tool](/Asserts/Images//attachment/album/202207/05/132757s6gfzkhz433owp0f.jpg)
+![Spectacle Screenshot tool](/Asserts/Images/album/202207/05/132757s6gfzkhz433owp0f.jpg)
 
 
 ### 10. VLC 媒体播放器
@@ -218,7 +218,7 @@ sudo apt install vlc
 
 ```
 
-![VLC Media Player](/Asserts/Images//attachment/album/202207/05/132509qw81pumm79ff89um.jpg)
+![VLC Media Player](/Asserts/Images/album/202207/05/132509qw81pumm79ff89um.jpg)
 
 
 ### 结语

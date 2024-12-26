@@ -15,7 +15,7 @@ tags:	[linuxcn,iCal,日历,终端]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/18/161418rsp7x2evo6zl766v.jpg "Calendar close up snapshot")
+![](/Asserts/Images/album/202204/18/161418rsp7x2evo6zl766v.jpg "Calendar close up snapshot")
 
 
 我是一个 [KDE 用户](https://opensource.com/article/17/5/7-cool-kde-tweaks-will-improve-your-life)，多年来我一直在 Plasma 桌面上进行着看似无尽的探索。如果你在公开场合问我，我可能会声称自己对我每天使用的桌面了如指掌。但实际上，我只是刚刚触及到表面而已。似乎每天我都能学到一个新的 KDE 技巧，让我的生活变得更轻松或更有趣，我最新的发现是 `konsolekalendar` 命令，它让你从终端查看和管理 iCal 日历。
@@ -30,7 +30,7 @@ Akonadi 项目是一个底层 KDE 框架，帮助 Plasma 桌面跟踪所有的�
 如果你正在运行 KDE 的 Plasma 桌面，那么你已经安装了 Kontact 套件。
 
 
-![Kontact UI](/Asserts/Images//attachment/album/202204/18/161429yz84an34z95cu3il.jpg "Kontact UI")
+![Kontact UI](/Asserts/Images/album/202204/18/161429yz84an34z95cu3il.jpg "Kontact UI")
 
 
 你也安装好了 Akonadi 和它的工具，所以你所需要的基于终端的日历完成了!

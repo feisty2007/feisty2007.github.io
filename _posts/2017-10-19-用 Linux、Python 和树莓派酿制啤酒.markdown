@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派,啤酒]
 > 
 
 
-![Brewing beer with Linux, Python, and Raspberry Pi](/Asserts/Images//attachment/album/201710/08/213019kf6388tfx16chbgf.png "Brewing beer with Linux, Python, and Raspberry Pi")
+![Brewing beer with Linux, Python, and Raspberry Pi](/Asserts/Images/album/201710/08/213019kf6388tfx16chbgf.png "Brewing beer with Linux, Python, and Raspberry Pi")
 
 
 大约十年前我开始酿制自制啤酒，和许多自己酿酒的人一样，我开始在厨房制造提纯啤酒。这需要一些设备并且做出来后确实是好的啤酒，最终，我用一个放入了所有大麦的大贮藏罐作为我的麦芽浆桶。几年之后我一次酿制过 5 加仑啤酒，但是酿制 10 加仑时也会花费同样的时间和效用（只是容器比之前大些），之前我就是这么做的。容量提升到 10 加仑之后，我偶然看到了 [StrangeBrew Elsinore](http://dougedey.github.io/SB_Elsinore_Server/) ，我意识到我真正需要的是将整个酿酒过程转换成全电子化的，用树莓派来运行它。
@@ -46,7 +46,7 @@ tags:	[linuxcn,树莓派,啤酒]
 * 一个来容纳这些配件的电路盒子
 
 
-![Brew system](/Asserts/Images//attachment/album/201710/08/213024gubeee9zap3w9tfp.png "Brew system")
+![Brew system](/Asserts/Images/album/201710/08/213024gubeee9zap3w9tfp.png "Brew system")
 
 
 *酿酒系统 (photo by Christopher Aedo. [CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)*
@@ -58,7 +58,7 @@ tags:	[linuxcn,树莓派,啤酒]
 一个重要的事情需要注意，固态继电器（SSR）信号电压，许多教程建议使用一个 12 伏的固态继电器来关闭电路，树莓派的 GPIO 针插口只支持 3 伏输出电压，然而，必须购买继电器将电压变为 3 伏。
 
 
-![Inkbird SSR](/Asserts/Images//attachment/album/201710/08/213027lvwmxhsk9emebmsx.png "Inkbird SSR")
+![Inkbird SSR](/Asserts/Images/album/201710/08/213027lvwmxhsk9emebmsx.png "Inkbird SSR")
 
 
 *Inkbird SSR (photo by Christopher Aedo. [CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)*
@@ -82,7 +82,7 @@ tags:	[linuxcn,树莓派,啤酒]
 这个照片来自“概念”版，最终生产系统应该有两个以上的固态继电器，以便 240v 的电路两个针脚能够切换，另外我将通过软件来切换泵的开关。现在通过盒子前面的物理开关控制它们，但是也很容易用继电器控制它们。
 
 
-![Control box](/Asserts/Images//attachment/album/201710/08/213029kwtzw45viv1wuuu7.png "Control box")
+![Control box](/Asserts/Images/album/201710/08/213029kwtzw45viv1wuuu7.png "Control box")
 
 
 *控制盒子 (photo by Christopher Aedo. [CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)*
@@ -112,7 +112,7 @@ tags:	[linuxcn,树莓派,啤酒]
 在启动的时候，CraftbeerPI 引导用户通过一个设置过程来发现温度探针是否可用，并且让你指定哪个 GPIO 总线扩展器指针来管理树莓派上哪个配件。
 
 
-![CraftBeerPi](/Asserts/Images//attachment/album/201710/08/213030exw3k977r67qqdjk.png "CraftBeerPi")
+![CraftBeerPi](/Asserts/Images/album/201710/08/213030exw3k977r67qqdjk.png "CraftBeerPi")
 
 
 *CraftBeerPi (photo by Christopher Aedo. [CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)*
@@ -124,7 +124,7 @@ tags:	[linuxcn,树莓派,啤酒]
 CraftBeerPI 的用户友好性鼓舞我设置了另一个控制器来运行“发酵室”。就我来说，那是一个二手冰箱，我用了 50 美元加上放在里面的 25 美元的加热器。CraftBeerPI 很容易控制电器元件的冷热，你也能够设置多个温度阶段。举个例子，这个图表显示我最近做的 IPA 进程的发酵温度。发酵室发酵麦芽汁在 67F° 的温度下需要 4 天，然后每 12 小时上升一度直到温度到达 72F°。剩下两天温度保持不变是为了双乙酰生成。之后 5 天温度降到 65F°，这段时间是让啤酒变“干”，最后啤酒发酵温度直接降到 38F°。CraftBeerPI 可以加入各个阶段，让软件管理发酵更加容易。
 
 
-![SIPA fermentation profile](/Asserts/Images//attachment/album/201710/08/213030gwnumn7t2hg2tn7w.png "SIPA fermentation profile")
+![SIPA fermentation profile](/Asserts/Images/album/201710/08/213030gwnumn7t2hg2tn7w.png "SIPA fermentation profile")
 
 
 *SIPA 发酵设置 (photo by Christopher Aedo. [CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)*
@@ -136,7 +136,7 @@ CraftBeerPI 的用户友好性鼓舞我设置了另一个控制器来运行“�
 像这样的一些项目，构想并计划改进和增加组件是很容易，不过，我很高兴今天经历过的事情。我用这种装置酿造了很多啤酒，每次都能达到预期的麦芽汁比率，而且啤酒一直都很美味。我的最重要的消费者 —— 就是我！很高兴我可以随时饮用。
 
 
-![Homebrew on tap](/Asserts/Images//attachment/album/201710/08/213031fqwahexxs88ejw98.png "Homebrew on tap")
+![Homebrew on tap](/Asserts/Images/album/201710/08/213031fqwahexxs88ejw98.png "Homebrew on tap")
 
 
 *随时饮用 (photo by Christopher Aedo. [CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)*

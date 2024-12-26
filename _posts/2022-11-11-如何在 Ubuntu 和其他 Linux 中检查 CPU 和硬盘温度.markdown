@@ -7,7 +7,7 @@ tags:	[linuxcn,温度]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/07/151624auhj011bqnzk9qfu.jpg)
+![](/Asserts/Images/album/202211/07/151624auhj011bqnzk9qfu.jpg)
 
 
 
@@ -61,7 +61,7 @@ sudo hddtemp
 
 ```
 
-![HDD or SSD Temperature from terminal](/Asserts/Images//attachment/album/202211/07/151709dammktput8wg4o8p.png)
+![HDD or SSD Temperature from terminal](/Asserts/Images/album/202211/07/151709dammktput8wg4o8p.png)
 
 
 *来自终端的 HDD 或 SSD 温度*
@@ -91,7 +91,7 @@ sensors
 
 ```
 
-![using sensors](/Asserts/Images//attachment/album/202211/07/151626puuq7iiirqtzz7i4.png)
+![using sensors](/Asserts/Images/album/202211/07/151626puuq7iiirqtzz7i4.png)
 
 
 *使用传感器*
@@ -136,7 +136,7 @@ pacman -S psensor
 正如你在下面的截图中所见，它通过漂亮的图表让你可以很好地了解 CPU、GPU 和 HDD 的所有重要温度。使用它的首选项，你可以根据需要对其进行调整。这个轻量级的程序在很多情况下都会很有帮助。
 
 
-![psensor running](/Asserts/Images//attachment/album/202211/07/151721odev7ev3vd578zfv.jpg)
+![psensor running](/Asserts/Images/album/202211/07/151721odev7ev3vd578zfv.jpg)
 
 
 *psensor 运行*

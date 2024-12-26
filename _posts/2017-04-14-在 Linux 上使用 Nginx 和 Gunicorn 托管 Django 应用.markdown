@@ -7,7 +7,7 @@ tags:	[linuxcn,Django,Gunicorn]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/15/163522an5lbtgga4lcx6gt.png)
+![](/Asserts/Images/album/201704/15/163522an5lbtgga4lcx6gt.png)
 
 
 ### 介绍

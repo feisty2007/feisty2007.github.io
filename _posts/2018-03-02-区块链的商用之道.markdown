@@ -7,7 +7,7 @@ tags:	[linuxcn,区块链]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/08/112016w8a2cawc1c88h48h.jpg)
+![](/Asserts/Images/album/201803/08/112016w8a2cawc1c88h48h.jpg)
 
 
 区块链之所以被称之为一种“颠覆性”的新兴技术，因为尽管其成名于比特币，但未来区块链的用武之地将远远超过加密货币。区块链的分布式共享账本这一技术本质能够在商业网络中使更多的参与方得以更加广泛的参与，并为商业网络或行业业务带来更低的沟通或整合成本，以及更高的业务效率。可以预见，区块链作为一个独立的技术板块，会在商业领域得到广泛应用。
@@ -90,7 +90,7 @@ Linux 基金会于 2015 年 12 月启动了名为“超级账本”（Hyperledge
 想学习区块链知识的同学可以参加由 华章书院、智链 ChainNova 主办，Linux 中国协办的[第3届《洞见区块链·深度探索区块链》技术沙龙](http://www.huodongxing.com/event/5429319192800)。
 
 
-![](/Asserts/Images//attachment/album/201803/08/112100kdbrjd3nx5rsbrn1.jpg)
+![](/Asserts/Images/album/201803/08/112100kdbrjd3nx5rsbrn1.jpg)
 
 
 时间： 2018 年 3 月 18 日 13:00 ～ 17:30 。
@@ -105,4 +105,4 @@ Linux 基金会于 2015 年 12 月启动了名为“超级账本”（Hyperledge
 [点此报名](http://www.huodongxing.com/event/5429319192800)，或扫描二维码报名。
 
 
-![](/Asserts/Images//attachment/album/201803/08/111524haqebml0q033mqq6.png)
+![](/Asserts/Images/album/201803/08/111524haqebml0q033mqq6.png)

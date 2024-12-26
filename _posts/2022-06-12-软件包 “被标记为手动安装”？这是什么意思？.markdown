@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/05/154517uqnqdfi79yqidi79.jpg)
+![](/Asserts/Images/album/202206/05/154517uqnqdfi79yqidi79.jpg)
 
 
 如果你使用 `apt` 命令在终端中安装软件包，你将看到各种输出。
@@ -40,37 +40,37 @@ package_name set to manually installed
 由于主 VLC 包依赖于许多其他包，因此这些包会自动安装。
 
 
-![installing vlc with apt ubuntu](/Asserts/Images//attachment/album/202206/05/154519drr0ufpauzfzmhdr.png)
+![installing vlc with apt ubuntu](/Asserts/Images/album/202206/05/154519drr0ufpauzfzmhdr.png)
 
 
 如果你检查名称中包含 `vlc` 的 [已安装软件包列表](https://itsfoss.com/list-installed-packages-ubuntu/)，你会看到除了 VLC，其余都标记为“自动”。这表明这些软件包是（跟着 vlc）自动安装的，当 VLC 被卸载时，它们将使用 `apt autoremove` 命令自动删除。
 
 
-![list installed packages vlc ubuntu](/Asserts/Images//attachment/album/202206/05/154520fihw24233hgnr8pr.png)
+![list installed packages vlc ubuntu](/Asserts/Images/album/202206/05/154520fihw24233hgnr8pr.png)
 
 
 现在假设你出于某种原因考虑安装 `vlc-plugin-base`。如果你在其上运行 `apt install` 命令，系统会告诉你该软件包已安装。同时，它将标记从自动更改为手动，因为系统认为在尝试手动安装表明你明确需要此 `vlc-plugin-base`。
 
 
-![package set manually](/Asserts/Images//attachment/album/202206/05/154520np0a3bz0ynjn5jha.png)
+![package set manually](/Asserts/Images/album/202206/05/154520np0a3bz0ynjn5jha.png)
 
 
 可以看到它的状态已经从 `[installed,automatic]` 变成了 `[installed]`。
 
 
-![listing installed packages with vlc](/Asserts/Images//attachment/album/202206/05/154520r16zzrc9kcryihyk.png)
+![listing installed packages with vlc](/Asserts/Images/album/202206/05/154520r16zzrc9kcryihyk.png)
 
 
 现在，让我删除 VLC 并运行 `autoremove` 命令。你可以看到 `vlc-plugin-base` 不在要删除的软件包列表中。
 
 
-![autoremove vlc ubuntu](/Asserts/Images//attachment/album/202206/05/154520b6qupdgwvw0xcir6.png)
+![autoremove vlc ubuntu](/Asserts/Images/album/202206/05/154520b6qupdgwvw0xcir6.png)
 
 
 再次检查已安装软件包的列表。`vlc-plugin-base` 仍然安装在系统上。
 
 
-![listing installed packages after removing vlc](/Asserts/Images//attachment/album/202206/05/154521af9i0iooonnilid8.png)
+![listing installed packages after removing vlc](/Asserts/Images/album/202206/05/154521af9i0iooonnilid8.png)
 
 
 你可以在这里看到另外两个与 VLC 相关的包。这些是 `vlc-plugin-base` 包的依赖项，这就是为什么它们也存在于系统上但标记为 `automatic` 的原因。
@@ -91,7 +91,7 @@ sudo apt-mark auto package_name
 
 ```
 
-![set package to automatic](/Asserts/Images//attachment/album/202206/05/154521vkjj4rszj1z1kqjj.png)
+![set package to automatic](/Asserts/Images/album/202206/05/154521vkjj4rszj1z1kqjj.png)
 
 
 ### 结论

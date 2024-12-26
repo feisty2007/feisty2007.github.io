@@ -7,13 +7,13 @@ tags:	[linuxcn,Windows,AI,勒索软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/31/171432xfcrjy09wiocojyq.jpg)
+![](/Asserts/Images/album/202110/31/171432xfcrjy09wiocojyq.jpg)
 
 
 ### Linux 发行版在性能测试中击败 Windows 11
 
 
-![](/Asserts/Images//attachment/album/202110/31/171443e81mw0dgwjsg7j18.jpg)
+![](/Asserts/Images/album/202110/31/171443e81mw0dgwjsg7j18.jpg)
 
 
 Phoronix 本周进行了一些有趣的 [性能测试](https://www.phoronix.com/scan.php?page=article&item=11900k-windows11-clear&num=1)。所有 44 项测试的几何平均值显示，在当前这一代英特尔平台上，Linux 明显领先于 Windows 11。在这个系统上，Ubuntu / Arch / Fedora 总体上比 Windows 11 Pro 快 11% 左右。Clear Linux 比 Windows 11 快约 18%，总体上比其他 Linux 发行版的性能高约 5%。Clear Linux 获得了 33 项的第一，Windows 11 Pro 获得 3 项第一。
@@ -30,7 +30,7 @@ Phoronix 本周进行了一些有趣的 [性能测试](https://www.phoronix.com/
 ### NASA 希望人工帮助改善火星车的人工智能
 
 
-![](/Asserts/Images//attachment/album/202110/31/171502ggekbp1s0ooup2gp.jpg)
+![](/Asserts/Images/album/202110/31/171502ggekbp1s0ooup2gp.jpg)
 
 
 NASA 呼吁任何有兴趣的人为其火星车的机器学习算法 [做出贡献](https://mars.nasa.gov/news/9063/you-can-help-train-nasas-rovers-to-better-explore-mars/)，以帮助毅力号火星车四处游走。你所需要做的就是看一些图片并标记地质特征。毅力号有增强的人工智能，以帮助它避开障碍物。它有 23 个摄像头，可以从火星上捕捉到大量的视觉数据，但它必须依靠人类操作员来解释其中大部分图像，从而改善其人工智能水平。
@@ -47,7 +47,7 @@ NASA 呼吁任何有兴趣的人为其火星车的机器学习算法 [做出贡�
 ### Hive 勒索软件已经准备加密 Linux 和 FreeBSD
 
 
-![](/Asserts/Images//attachment/album/202110/31/171519midzcifqfn3p8idf.jpg)
+![](/Asserts/Images/album/202110/31/171519midzcifqfn3p8idf.jpg)
 
 
 Hive 勒索软件团伙自 2021 年6月以来袭击了 30 多个组织，现在针对 Linux 和 FreeBSD 开发了 [新的恶意软件变种](https://www.bleepingcomputer.com/news/security/hive-ransomware-now-encrypts-linux-and-freebsd-systems/) 来加密这些系统。不过，ESET 发现，Hive 的新加密器尚在开发中，仍缺乏功能，并且存在一些 bug。相比之下，Hive 的 Windows 勒索软件具有更多功能。

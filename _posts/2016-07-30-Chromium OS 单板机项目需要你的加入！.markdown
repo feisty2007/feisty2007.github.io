@@ -10,7 +10,7 @@ tags:	[linuxcn,Chromium OS,树莓派,单板机]
 Chromium OS for SBCs（<ruby> 单板机 <rp>  （ </rp> <rt>  Single-Board Computers </rt> <rp>  ） </rp></ruby>）项目正在招募新成员以继续发展。
 
 
-![](/Asserts/Images//attachment/album/201607/13/102730qht14jr2hkshkhd1.jpg)
+![](/Asserts/Images/album/201607/13/102730qht14jr2hkshkhd1.jpg)
 
 
 该项目的志愿者们为我们奉献了一个精心调制的开源 [Chromium OS 的单板机移植版](http://www.chromiumosforsbc.org/)，支持树莓派 2 和树莓派 3 以及一些其它的单板机。他们已经完成了目标，但是这并不是项目的终点。

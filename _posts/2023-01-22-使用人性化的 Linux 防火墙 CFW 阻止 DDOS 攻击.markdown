@@ -15,7 +15,7 @@ tags:	[linuxcn,防火墙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/04/180411e6sc9csem77kz3kl.jpg)
+![](/Asserts/Images/album/202301/04/180411e6sc9csem77kz3kl.jpg)
 
 
 ### 概括

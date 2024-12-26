@@ -7,7 +7,7 @@ tags:	[linuxcn,Silverblue]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/20/165451xa7xog752xh20x1a.jpg)
+![](/Asserts/Images/album/202109/20/165451xa7xog752xh20x1a.jpg)
 
 
 这篇文章将教你如何使用 `rpm-ostree` 数据库及其子命令检查更新、检查更改的软件包和阅读更新日志。

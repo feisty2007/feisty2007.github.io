@@ -15,7 +15,7 @@ tags:	[linuxcn,ImageMagick]
 > 
 
 
-![](/Asserts/Images//attachment/album/201805/06/180657ij3mrhg33ggj33il.png)
+![](/Asserts/Images/album/201805/06/180657ij3mrhg33ggj33il.png)
 
 
 在我先前的[ImageMagick 入门：使用命令行来编辑图片](/article-8851-1.html) 文章中，我展示了如何使用 ImageMagick 的菜单栏进行图片的编辑和变换风格。在这篇续文里，我将向你展示使用这个开源的图像编辑器来查看图片的另外方法。
@@ -33,7 +33,7 @@ convert DSC_0027.JPG -edge 3 -negate edge3+negate.jpg
 
 ```
 
-![在图片上使用 `edge` 和 `negate` 选项](/Asserts/Images//attachment/album/201805/06/180657pjjn3ccjsj3ii3bi.jpg "Using the edge and negate options on an image.")
+![在图片上使用 `edge` 和 `negate` 选项](/Asserts/Images/album/201805/06/180657pjjn3ccjsj3ii3bi.jpg "Using the edge and negate options on an image.")
 
 
 *使用`edge` 和 `negate` 选项前后的图片对比*

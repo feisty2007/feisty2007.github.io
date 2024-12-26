@@ -15,7 +15,7 @@ tags:	[linuxcn,终端,Xfce]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/11/172416vfk5zbaa7hz7f7oo.jpg)
+![](/Asserts/Images/album/202204/11/172416vfk5zbaa7hz7f7oo.jpg)
 
 
 作为几乎在所有采用 Xfce 的发行版上流行的终端模拟器，Xfce Terminal 刚刚由新的维护者（及新的版本计划）发布了它的第一次重大升级。
@@ -60,7 +60,7 @@ Xfce Terminal 1.0.0 的一些新特性包括：
 最后，Xfce Terminal 也成为首批支持新的 Xfce 快捷键编辑器的应用之一。因此，用户不再需要潜心研究配置文件，而是有了一个可以使用的简单 UI。
 
 
-![](/Asserts/Images//attachment/album/202204/11/172416x3gi3t3656ah3zc5.png)
+![](/Asserts/Images/album/202204/11/172416x3gi3t3656ah3zc5.png)
 
 
 有了这么多新的定制选项，我相信很多人都会对一个只是包含这些的版本感到满意。但是！开发者设法加入了更多令人兴奋的新功能，其中下一个是改进的命令行参数。

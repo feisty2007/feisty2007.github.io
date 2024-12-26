@@ -15,7 +15,7 @@ tags:	[linuxcn,gdb,调试]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/05/203701ss8onfvpsnvnsnn5.jpg)
+![](/Asserts/Images/album/201912/05/203701ss8onfvpsnvnsnn5.jpg)
 
 
 [GNU 调试器](https://www.gnu.org/software/gdb/)（`gdb`）是一种宝贵的工具，可用于在开发程序时检查正在运行的进程并解决问题。

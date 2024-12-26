@@ -15,7 +15,7 @@ tags:	[linuxcn,JavaScript,前端]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/18/205233kz0sqwdwwvrwp2ss.jpg "Computer screen with files or windows open")
+![](/Asserts/Images/album/202107/18/205233kz0sqwdwwvrwp2ss.jpg "Computer screen with files or windows open")
 
 
 大约十年前，JavaScript 社区开始见证一场 JavaScript 框架的激战。在本文中，我将介绍其中最著名的一些框架。值得注意的是，这些都是开源的 JavaScript 项目，这意味着你可以在 [开源许可证](https://opensource.com/article/17/9/open-source-licensing) 下自由地使用它们，甚至为它们的源代码和社区做出贡献。
@@ -54,13 +54,13 @@ tags:	[linuxcn,JavaScript,前端]
 为了说明情况，下面是每个框架的 NPM 包下载量的公开数据，感谢 [npm trends](https://www.npmtrends.com/angular-vs-react-vs-vue-vs-meteor-vs-backbone)。
 
 
-![Framework downloads graph](/Asserts/Images//attachment/album/202107/18/205305u6kkzeo6rtobesee.png "Framework downloads graph")
+![Framework downloads graph](/Asserts/Images/album/202107/18/205305u6kkzeo6rtobesee.png "Framework downloads graph")
 
 
 ### ReactJS
 
 
-![React page](/Asserts/Images//attachment/album/202107/18/205305qsmic6yejem88cyj.jpg "React page")
+![React page](/Asserts/Images/album/202107/18/205305qsmic6yejem88cyj.jpg "React page")
 
 
 [ReactJS](https://reactjs.org) 是由 Facebook 研发的，它虽然在 Angular 之后发布，但明显是当今 JavaScript 框架的领导者。React 引入了一个虚拟 DOM 的概念，这是一个抽象副本，开发者能在框架内仅使用他们想要的 ReactJS 功能，而无需重写整个项目。此外，React 项目活跃的开源社区无疑成为增长背后的主力军。下面是一些 React 的主要优势：
@@ -78,7 +78,7 @@ tags:	[linuxcn,JavaScript,前端]
 更令人惊讶的是 ReactJS 开发者的工作机会，正如在下面 Stackoverflow 所做的研究中看到的，嘿，你可以从事开源项目并获得报酬。这很酷！
 
 
-![React jobs page](/Asserts/Images//attachment/album/202107/18/205305qgwgig3r9yee9dex.jpg "React jobs page")
+![React jobs page](/Asserts/Images/album/202107/18/205305qgwgig3r9yee9dex.jpg "React jobs page")
 
 
 *Stackoverflow 的研究显示了对 ReactJS 开发者的巨大需求——[来源：2017 年开发者招聘趋势——Stackoverflow 博客](https://stackoverflow.blog/2017/03/09/developer-hiring-trends-2017)*
@@ -87,13 +87,13 @@ tags:	[linuxcn,JavaScript,前端]
 [ReactJS 的 GitHub](https://github.com/facebook/react) 目前显示超过 13,000 次提交和 1,377 位贡献者。它是一个在 MIT 许可证下的开源项目。
 
 
-![React GitHub page](/Asserts/Images//attachment/album/202107/18/205306dhhu41thvlvdllpz.jpg "React GitHub page")
+![React GitHub page](/Asserts/Images/album/202107/18/205306dhhu41thvlvdllpz.jpg "React GitHub page")
 
 
 ### Angular
 
 
-![Angular homepage](/Asserts/Images//attachment/album/202107/18/205306dhec5l7d1gf4z6e8.jpg "Angular homepage")
+![Angular homepage](/Asserts/Images/album/202107/18/205306dhec5l7d1gf4z6e8.jpg "Angular homepage")
 
 
 就开发者数量来说，也许 React 是现在最领先的 JavaScript 框架，但是 [Angular](https://angular.io) 紧随其后。事实上，开源开发者和初创公司更乐于选择 React，而较大的公司往往更喜欢 Angular（下面列出了一些例子）。主要原因是，虽然 Angular 可能更复杂，但它的统一性和一致性适用于大型项目。例如，在我整个职业生涯中一直研究 Angular 和 React，我观察到大公司通常认为 Angular 严格的结构是一种优势。下面是 Angular 的另外一些关键优势：
@@ -110,19 +110,19 @@ tags:	[linuxcn,JavaScript,前端]
 截止到撰写本文，[Angular 的 GitHub](https://github.com/angular/angular) 页面显示 17,781 次提交和 1,133 位贡献者。它也是一个遵循 MIT 许可证的开源项目，因此你可以自由地在你的项目或贡献中使用。
 
 
-![Angular GitHub page](/Asserts/Images//attachment/album/202107/18/205306ye76eu6x5oejndnz.jpg "Angular GitHub page")
+![Angular GitHub page](/Asserts/Images/album/202107/18/205306ye76eu6x5oejndnz.jpg "Angular GitHub page")
 
 
 ### VueJS
 
 
-![Vue JS page](/Asserts/Images//attachment/album/202107/18/205307nyf5j5a6ddfyw4d3.jpg "Vue JS page")
+![Vue JS page](/Asserts/Images/album/202107/18/205307nyf5j5a6ddfyw4d3.jpg "Vue JS page")
 
 
 [VueJS](https://vuejs.org) 是一个非常有趣的框架。它是 JavaScript 框架领域的新来者，但是在过去几年里它的受欢迎程度显著增加。VueJS 由 [尤雨溪](https://www.freecodecamp.org/news/between-the-wires-an-interview-with-vue-js-creator-evan-you-e383cbf57cc4/) 创建，他是曾参与过 Angular 项目的谷歌工程师。该框架现在变得如此受欢迎，以至于许多前端工程师更喜欢 VueJS 而不是其他 JavaScript 框架。下图描述了该框架随着时间的推移获得关注的速度。
 
 
-![Vue JS popularity graph](/Asserts/Images//attachment/album/202107/18/205307v4zcnuu3c49zxxnn.jpg "Vue JS popularity graph")
+![Vue JS popularity graph](/Asserts/Images/album/202107/18/205307v4zcnuu3c49zxxnn.jpg "Vue JS popularity graph")
 
 
 这里有一些 VueJS 的主要优点：
@@ -136,13 +136,13 @@ tags:	[linuxcn,JavaScript,前端]
 [VueJS 的 GitHub](https://github.com/vuejs/vue) 显示该项目有 3,099 次提交和 239 位贡献者。
 
 
-![Vue JS GitHub page](/Asserts/Images//attachment/album/202107/18/205307gzm2d0hhq2us6uss.jpg "Vue JS GitHub page")
+![Vue JS GitHub page](/Asserts/Images/album/202107/18/205307gzm2d0hhq2us6uss.jpg "Vue JS GitHub page")
 
 
 ### MeteorJS
 
 
-![Meteor page](/Asserts/Images//attachment/album/202107/18/205307b1u6110uggg0ggxj.jpg "Meteor Page")
+![Meteor page](/Asserts/Images/album/202107/18/205307b1u6110uggg0ggxj.jpg "Meteor Page")
 
 
 [MeteorJS](https://www.meteor.com) 是一个自由开源的 [同构框架](https://en.wikipedia.org/wiki/Isomorphic_JavaScript)，这意味着它和 NodeJS 一样，同时运行客户端和服务器的 JavaScript。Meteor 能够和任何其他流行的前端框架一起使用，如 Angular、React、Vue、Svelte 等。
@@ -151,7 +151,7 @@ tags:	[linuxcn,JavaScript,前端]
 Meteor 被高通、马自达和宜家等多家公司以及如 Dispatch 和 Rocket.Chat 等多个应用程序使用。[您可以其在官方网站上查看更多案例](https://www.meteor.com/showcase)。
 
 
-![Meteor case study](/Asserts/Images//attachment/album/202107/18/205308zsh99a09jc2c9lvk.jpg "Meteor case study")
+![Meteor case study](/Asserts/Images/album/202107/18/205308zsh99a09jc2c9lvk.jpg "Meteor case study")
 
 
 Meteor 的一些主要功能包括：
@@ -165,13 +165,13 @@ Meteor 的一些主要功能包括：
 截止到目前，[Meteor 的 GitHub](https://github.com/meteor/meteor) 显示 22，804 次提交和 428 位贡献者。这对于开源项目来说相当多了。
 
 
-![Meteor GitHub page](/Asserts/Images//attachment/album/202107/18/205308e393z2odevp7v1kd.jpg "Meteor GitHub page")
+![Meteor GitHub page](/Asserts/Images/album/202107/18/205308e393z2odevp7v1kd.jpg "Meteor GitHub page")
 
 
 ### EmberJS
 
 
-![EmberJS page](/Asserts/Images//attachment/album/202107/18/205308glhrukl66rujs2l3.jpg "EmberJS page")
+![EmberJS page](/Asserts/Images/album/202107/18/205308glhrukl66rujs2l3.jpg "EmberJS page")
 
 
 [EmberJS](https://emberjs.com) 是一个基于 [模型-视图-视图模型（MVVM）](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) 模式的开源 JavaScript 框架。如果你从来没有听说过 EmberJS，你肯定会惊讶于有多少公司在使用它。Apple Music、Square、Discourse、Groupon、LinkedIn、Twitch、Nordstorm 和 Chipotle 都将 EmberJS 作为公司的技术栈之一。你可以通过查询 [EmberJS 的官方页面](https://emberjs.com/ember-users) 来发掘所有使用 EmberJS 的应用和客户。
@@ -187,13 +187,13 @@ Ember 虽然和我们讨论过的其他框架有类似的好处，但这里有�
 正如所期待的那样，作为一个被许多应用程序使用的框架，[Ember 的 GitHub](https://github.com/emberjs) 页面显示该项目拥有 19,808 次提交和 785 位贡献者。这是一个巨大的数字！
 
 
-![EmberJS GitHub page](/Asserts/Images//attachment/album/202107/18/205309fj77ci3hmzhpl1zp.jpg "EmberJS GitHub page")
+![EmberJS GitHub page](/Asserts/Images/album/202107/18/205309fj77ci3hmzhpl1zp.jpg "EmberJS GitHub page")
 
 
 ### KnockoutJS
 
 
-![KnockoutJS page](/Asserts/Images//attachment/album/202107/18/205309zpf2d2d22kmd8zst.jpg "KnockoutJS page")
+![KnockoutJS page](/Asserts/Images/album/202107/18/205309zpf2d2d22kmd8zst.jpg "KnockoutJS page")
 
 
 [KnockoutJS](https://knockoutjs.com) 是一个独立开源的 JavaScript 框架，采用 [模板-视图-视图模型（MVVM）](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) 模式与模板。尽管与 Angular、React 或 Vue 相比，听说过这个框架的人可能比较少，这个项目在开发者社区仍然相当活跃，并且有以下功能：
@@ -207,13 +207,13 @@ Ember 虽然和我们讨论过的其他框架有类似的好处，但这里有�
 [Knockout 的 GitHub](https://github.com/knockout/knockout) 页面显示约有 1,766 次提交和 81 位贡献者。与其他框架相比，这些数据并不重要，但是该项目仍然在积极维护中。
 
 
-![Knockout GitHub page](/Asserts/Images//attachment/album/202107/18/205309dt6x5ni4cm4ivs4c.jpg "Knockout GitHub page")
+![Knockout GitHub page](/Asserts/Images/album/202107/18/205309dt6x5ni4cm4ivs4c.jpg "Knockout GitHub page")
 
 
 ### BackboneJS
 
 
-![BackboneJS page](/Asserts/Images//attachment/album/202107/18/205309u966gz76p2kv3r7k.jpg "BackboneJS page")
+![BackboneJS page](/Asserts/Images/album/202107/18/205309u966gz76p2kv3r7k.jpg "BackboneJS page")
 
 
 [BackboneJS](https://backbonejs.org) 是一个具有 RESTful JSON 接口，基于<ruby> 模型-视图-主持人 <rt>  Model-View-Presenter </rt></ruby>（MVP）设计范式的轻量级 JavaScript 框架。
@@ -225,13 +225,13 @@ Ember 虽然和我们讨论过的其他框架有类似的好处，但这里有�
 [BackboneJS 的 GitHub](https://github.com/jashkenas/backbone) 页面显示有 3,386 次提交和 289 位贡献者。
 
 
-![BackboneJS GitHub page](/Asserts/Images//attachment/album/202107/18/205310sfybkginbf6z252z.jpg "BackboneJS GitHub page")
+![BackboneJS GitHub page](/Asserts/Images/album/202107/18/205310sfybkginbf6z252z.jpg "BackboneJS GitHub page")
 
 
 ### Svelte
 
 
-![Svelte page](/Asserts/Images//attachment/album/202107/18/205310jz88ambctz7pxwnb.jpg "Svelte page")
+![Svelte page](/Asserts/Images/album/202107/18/205310jz88ambctz7pxwnb.jpg "Svelte page")
 
 
 [Svelte](https://svelte.dev) 是一个开源的 JavaScript 框架，它生成操作 DOM 的代码，而不是包含框架引用。在构建时而非运行时将应用程序转换为 JavaScript 的过程，在某些情况下可能会带来轻微的性能提升。
@@ -240,13 +240,13 @@ Ember 虽然和我们讨论过的其他框架有类似的好处，但这里有�
 [Svelte 的 GitHub](https://github.com/sveltejs/svelte) 页面显示，截止到本文撰写为止，该项目有 5,729 次提交和 296 位贡献者。
 
 
-![Svelte GitHub page](/Asserts/Images//attachment/album/202107/18/205310khvxxpahv1xaxxex.jpg "Svelte GitHub page")
+![Svelte GitHub page](/Asserts/Images/album/202107/18/205310khvxxpahv1xaxxex.jpg "Svelte GitHub page")
 
 
 ### AureliaJS
 
 
-![Aurelia page](/Asserts/Images//attachment/album/202107/18/205311cn6d6lu6n6560mn5.jpg "Aurelia page")
+![Aurelia page](/Asserts/Images/album/202107/18/205311cn6d6lu6n6560mn5.jpg "Aurelia page")
 
 
 最后我们介绍一下 [Aurelia](https://aurelia.io)。Aurelia 是一个前端 JavaScript 框架，是一个现代 JavaScript 模块的集合。Aurelia 有以下有趣的功能：
@@ -260,7 +260,7 @@ Ember 虽然和我们讨论过的其他框架有类似的好处，但这里有�
 [Aurelia 的 GitHub](https://github.com/aurelia/framework) 页面显示，截止到撰写本文为止该项目有 788 次提交和 96 位贡献者。
 
 
-![Aurelia GitHub page](/Asserts/Images//attachment/album/202107/18/205311ocpkvd4zv8hrr5f1.jpg "Aurelia GitHub page")
+![Aurelia GitHub page](/Asserts/Images/album/202107/18/205311ocpkvd4zv8hrr5f1.jpg "Aurelia GitHub page")
 
 
 这就是我在查看 JavaScript 框架世界时发现的新内容。我错过了其他有趣的框架吗？欢迎在评论区分享你的想法。

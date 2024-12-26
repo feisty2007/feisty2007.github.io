@@ -7,7 +7,7 @@ tags:	[linuxcn,安全,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/17/164737vjnlopdzlrkybbcm.jpg)
+![](/Asserts/Images/album/201512/17/164737vjnlopdzlrkybbcm.jpg)
 
 
 ### 目标受众

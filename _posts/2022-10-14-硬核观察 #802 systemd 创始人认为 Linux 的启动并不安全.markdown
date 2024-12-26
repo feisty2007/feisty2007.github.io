@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,网络,C 语言]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/27/195419oysp3yj866txp3l5.jpg)
+![](/Asserts/Images/album/202210/27/195419oysp3yj866txp3l5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/27/195427dlmo7xbbxz44if4b.jpg)
+![](/Asserts/Images/album/202210/27/195427dlmo7xbbxz44if4b.jpg)
 
 
 ### systemd 创始人认为 Linux 的启动并不安全
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,网络,C 语言]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/27/195437k9yax56731y5aa4y.jpg)
+![](/Asserts/Images/album/202210/27/195437k9yax56731y5aa4y.jpg)
 
 
 ### Linux 内核开始为 800 Gbps 网络做准备
@@ -60,7 +60,7 @@ IEEE 已经发布了 800Gbps 网络的标准，而英伟达正在开发 800Gbps 
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/27/195450kb11mii9sqpz6519.jpg)
+![](/Asserts/Images/album/202210/27/195450kb11mii9sqpz6519.jpg)
 
 
 ### Fedora 40 正在为迁移到更现代的 C 语言标准做准备

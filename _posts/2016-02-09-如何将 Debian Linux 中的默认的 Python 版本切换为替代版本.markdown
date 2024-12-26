@@ -7,7 +7,7 @@ tags:	[linuxcn,python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201602/02/200935ozyiiydviid2igyq.jpg)
+![](/Asserts/Images/album/201602/02/200935ozyiiydviid2igyq.jpg)
 
 
 当你安装 Debian Linux 时，安装过程有可能同时为你提供多个可用的 Python 版本，因此系统中会存在多个 Python 的可执行二进制文件。你可以按照以下方法使用 `ls` 命令来查看你的系统中都有那些 Python 的二进制文件可供使用。
@@ -116,7 +116,7 @@ Python 3.4.2
 
 ```
 
-![](/Asserts/Images//attachment/album/201602/02/200957z4622lp83l3z0kmr.png)
+![](/Asserts/Images/album/201602/02/200957z4622lp83l3z0kmr.png)
 
 
 

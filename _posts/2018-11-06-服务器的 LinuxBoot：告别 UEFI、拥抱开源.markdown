@@ -32,7 +32,7 @@ Google、Facebook、[Horizon Computing Solutions](http://www.horizon-computing.c
 ### LinuxBoot 超越 UEFI 的优势
 
 
-![LinuxBoot vs UEFI](/Asserts/Images//attachment/album/201811/20/222027o6lrh88h8g9z2ap8.png)
+![LinuxBoot vs UEFI](/Asserts/Images/album/201811/20/222027o6lrh88h8g9z2ap8.png)
 
 
 下面是一些 LinuxBoot 超越 UEFI 的主要优势：

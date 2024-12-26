@@ -7,7 +7,7 @@ tags:	[linuxcn,SSH,OpenSSH]
 ---
 
 
-![](/Asserts/Images//attachment/album/201601/17/210924tcfprpye35p3ascf.jpg)
+![](/Asserts/Images/album/201601/17/210924tcfprpye35p3ascf.jpg)
 
 
 作为系统管理员，你计划在 Linux 上使用 OpenSSH，完成日常工作的自动化，比如文件传输、备份数据库转储文件到另一台服务器等。为实现该目标，你需要从主机 A 能自动登录到主机 B。自动登录也就是说，要在 shell 脚本中使用ssh，而无需要输入任何密码。

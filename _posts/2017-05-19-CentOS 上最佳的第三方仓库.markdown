@@ -7,7 +7,7 @@ tags:	[linuxcn,RHEL,EPEL,CentOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/15/170703c9g69974koqgr565.png)
+![](/Asserts/Images/album/201705/15/170703c9g69974koqgr565.png)
 
 
 

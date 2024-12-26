@@ -34,7 +34,7 @@ SoC 制造商添加了支持 CPU 和其他芯片的代码后，便会将该内�
 ### 将来
 
 
-![](/Asserts/Images//attachment/album/201911/27/085706ec16q899q5uzflj9.png)
+![](/Asserts/Images/album/201911/27/085706ec16q899q5uzflj9.png)
 
 
 去年，谷歌宣布[计划](https://lwn.net/Articles/771974/)解决此问题。今年，他们在 2019 Linux Plumbers Conference 上展示了他们取得的进展。

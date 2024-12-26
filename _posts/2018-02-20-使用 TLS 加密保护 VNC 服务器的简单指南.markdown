@@ -7,7 +7,7 @@ tags:	[linuxcn,VNC,TLS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/10/225325rqxd5dk3334zi2hx.jpg)
+![](/Asserts/Images/album/201802/10/225325rqxd5dk3334zi2hx.jpg)
 
 
 在本教程中，我们将学习安装 VNC 服务器并使用 TLS 加密保护 VNC 会话。
@@ -161,7 +161,7 @@ PIDFile=/home/vncuser/.vnc/%H%i.pid
 你将被要求输入密码来访问 VNC（如果使用其他用户，而不是上述用户）。
 
 
-![secure vnc server](/Asserts/Images//attachment/album/201802/10/225350ru74izoba4xb3fru.png)
+![secure vnc server](/Asserts/Images/album/201802/10/225350ru74izoba4xb3fru.png)
 
 
 现在，我们可以使用客户机上的 VNC 浏览器访问服务器，使用以下命令以安全连接启动 vnc 浏览器：
@@ -176,7 +176,7 @@ PIDFile=/home/vncuser/.vnc/%H%i.pid
 这里，192.168.1.45 是 VNC 服务器的 IP 地址。
 
 
-![secure vnc server](/Asserts/Images//attachment/album/201802/10/225355u07ozq7lehqaolj6.png)
+![secure vnc server](/Asserts/Images/album/201802/10/225355u07ozq7lehqaolj6.png)
 
 
 输入密码，我们可以远程访问服务器，并且也是 TLS 加密的。

@@ -21,7 +21,7 @@ tags:	[linuxcn,主题]
 在 [Pop OS 主题](https://itsfoss.com/pop-icon-gtk-theme-ubuntu/)套件之后，Xenlism 是另一个让我对它的外观感到震惊的主题。
 
 
-![Xenlism GTK theme for Ubuntu and Other Linux](/Asserts/Images//attachment/album/201807/27/204733oor8qhod0d5cd1kc.jpg)
+![Xenlism GTK theme for Ubuntu and Other Linux](/Asserts/Images/album/201807/27/204733oor8qhod0d5cd1kc.jpg)
 
 
 Xenlism GTK 主题基于 Arc 主题，其得益于许多主题的灵感。GTK 主题提供类似于 macOS 的 Windows 按钮，我既不特别喜欢，也没有特别不喜欢。GTK 主题采用扁平、简约的布局，我喜欢这样。
@@ -30,7 +30,7 @@ Xenlism GTK 主题基于 Arc 主题，其得益于许多主题的灵感。GTK �
 Xenlism 套件中有两个图标主题。Xenlism Wildfire 是以前的，已经进入我们的[最佳图标主题](https://itsfoss.com/best-icon-themes-ubuntu-16-04/)列表。
 
 
-![Beautiful Xenlism Wildfire theme for Ubuntu and Other Linux](/Asserts/Images//attachment/album/201807/27/204734tkolb7jdygxbcvdc.jpg)
+![Beautiful Xenlism Wildfire theme for Ubuntu and Other Linux](/Asserts/Images/album/201807/27/204734tkolb7jdygxbcvdc.jpg)
 
 
 *Xenlism Wildfire 图标*
@@ -39,7 +39,7 @@ Xenlism 套件中有两个图标主题。Xenlism Wildfire 是以前的，已经�
 Xenlsim Storm 是一个相对较新的图标主题，但同样美观。
 
 
-![Beautiful Xenlism Storm theme for Ubuntu and Other Linux](/Asserts/Images//attachment/album/201807/27/204735rfnbsmslsiinnb0n.jpg)
+![Beautiful Xenlism Storm theme for Ubuntu and Other Linux](/Asserts/Images/album/201807/27/204735rfnbsmslsiinnb0n.jpg)
 
 
 *Xenlism Storm 图标*

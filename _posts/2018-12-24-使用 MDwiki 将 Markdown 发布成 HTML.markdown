@@ -15,13 +15,13 @@ tags:	[linuxcn,Markdown,MDwiki]
 > 
 
 
-![](/Asserts/Images//attachment/album/201812/01/220902kk0zo9hk0ky9k9zt.jpg)
+![](/Asserts/Images/album/201812/01/220902kk0zo9hk0ky9k9zt.jpg)
 
 
 有很多理由喜欢 Markdown，这是一门简单的语言，有易于学习的语法，它可以与任何文本编辑器一起使用。使用像 [Pandoc](https://pandoc.org/) 这样的工具，你可以将 Markdown 文本转换为[各种流行格式](https://opensource.com/downloads/pandoc-cheat-sheet)，包括 HTML。你还可以在 Web 服务器中自动执行转换过程。由 TimoDörr 创建的名为 [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) 的 HTML5 和 JavaScript 应用可以将一堆 Markdown 文件在浏览器请求它们时转换为网站。MDwiki 网站包含一个操作指南和其他信息可帮助你入门：
 
 
-![MDwiki site getting started](/Asserts/Images//attachment/album/201812/01/220906kbymvumjv990jymp.png "MDwiki site getting started")
+![MDwiki site getting started](/Asserts/Images/album/201812/01/220906kbymvumjv990jymp.png "MDwiki site getting started")
 
 
 *Mdwiki 网站的样子。*
@@ -30,7 +30,7 @@ tags:	[linuxcn,Markdown,MDwiki]
 在 Web 服务器内部，基本的 MDwiki 站点如下所示：
 
 
-![MDwiki site inside web server](/Asserts/Images//attachment/album/201812/01/220907v9v21t2qq629tzkn.png "MDwiki site inside web server")
+![MDwiki site inside web server](/Asserts/Images/album/201812/01/220907v9v21t2qq629tzkn.png "MDwiki site inside web server")
 
 
 *该站点的 web 服务器文件夹的样子*
@@ -54,7 +54,7 @@ MDwiki 还支持 “gimmick”，它增加了如嵌入 YouTube 视频和显示�
 MDwiki 的默认配色方案并非适用于所有项目，但你可以将其替换为从 [Bootswatch.com](https://bootswatch.com/) 下载的其他主题。为此，只需在编辑器中打开 MDwiki HTML 文件，找到 `extlib/css/bootstrap-3.0.0.min.css`，然后插入下载的 Bootswatch 主题。还有一个 MDwiki gimmick，让用户在浏览器中载入 MDwiki 后，选择 Bootswatch 主题来替换默认值。我经常与有视力障碍的用户一起工作，他们倾向于喜欢高对比度的主题，在深色背景上使用白色文字。
 
 
-![MDwiki screen with Bootswatch Superhero theme](/Asserts/Images//attachment/album/201812/01/220911hx09198yx335xf0i.png "MDwiki screen with Bootswatch Superhero theme")
+![MDwiki screen with Bootswatch Superhero theme](/Asserts/Images/album/201812/01/220911hx09198yx335xf0i.png "MDwiki screen with Bootswatch Superhero theme")
 
 
 *MDwiki 页面使用 Bootswatch Superhero 主题*
@@ -77,7 +77,7 @@ MDwiki、Markdown 文件和静态图像可以用于许多目的。但是，你�
 MDwiki 生成的站点结果如下所示：
 
 
-![](/Asserts/Images//attachment/album/201812/01/220912tkn2tk2ktd22s8vx.png)
+![](/Asserts/Images/album/201812/01/220912tkn2tk2ktd22s8vx.png)
 
 
 简而言之，MDwiki 是一个出色的小应用，可以很好地实现其目的。

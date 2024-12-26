@@ -7,7 +7,7 @@ tags:	[linuxcn,Lua,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/08/170454p0tf2a6znfn2kzkf.jpg)
+![](/Asserts/Images/album/202306/08/170454p0tf2a6znfn2kzkf.jpg)
 
 
 

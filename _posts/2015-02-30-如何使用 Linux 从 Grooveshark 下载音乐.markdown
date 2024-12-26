@@ -15,7 +15,7 @@ tags:	[linuxcn,下载,音乐,Grooveshark,Groovesquid]
 > 
 
 
-![](/Asserts/Images//attachment/album/201502/15/163059vdst06cb6fzjllsl.jpg)
+![](/Asserts/Images/album/201502/15/163059vdst06cb6fzjllsl.jpg)
 
 
 **Grooveshark 对于喜欢音乐的人来说是一个不错的在线平台，同时有多种从上面下载音乐的方法。Groovesquid 是众多允许用户从 Grooveshark 上下载音乐的应用之一，并且是支持多平台的。**
@@ -49,16 +49,16 @@ tags:	[linuxcn,下载,音乐,Grooveshark,Groovesquid]
 下载完 Jar 文件后，你所需要做的是将其权限修改为可执行，然后让 Java 来完成剩下的工作。
 
 
-![](/Asserts/Images//attachment/album/201502/15/163100qujtmjer9vzk9b5a.jpg)
+![](/Asserts/Images/album/201502/15/163100qujtmjer9vzk9b5a.jpg)
 
 
-![](/Asserts/Images//attachment/album/201502/15/163101jq115pqq4c7l5r77.jpg)
+![](/Asserts/Images/album/201502/15/163101jq115pqq4c7l5r77.jpg)
 
 
-![](/Asserts/Images//attachment/album/201502/15/163101gtppt9h68pohzaqt.jpg)
+![](/Asserts/Images/album/201502/15/163101gtppt9h68pohzaqt.jpg)
 
 
-![](/Asserts/Images//attachment/album/201502/15/163102pvtboy3ybpopsa06.jpg)
+![](/Asserts/Images/album/201502/15/163102pvtboy3ybpopsa06.jpg)
 
 
 via: <http://news.softpedia.com/news/How-to-Download-Music-from-Grooveshark-with-a-Linux-OS-468268.shtml>

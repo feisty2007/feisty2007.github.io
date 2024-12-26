@@ -15,7 +15,7 @@ tags:	[linuxcn,Chroot,Jail]
 > 
 
 
-![](/Asserts/Images//attachment/album/201405/22/231304gl1211mttz1sjk1a.jpg)
+![](/Asserts/Images/album/201405/22/231304gl1211mttz1sjk1a.jpg)
 
 
 在 Linux和类 Unix 系统下每一个进程/命令的当前工作目录称之为进程/命令的根目录（译注：译者以为此处有误，实际上没有进行过chroot的进程，其根目录是系统的根目录，而不是其工作目录）。你可以使用 chroot 命令改变一个命令的根目录，这最终将会改变当前运行的进程及其子进程的根目录。
@@ -247,7 +247,7 @@ $ exit
 上述会话样例如下：
 
 
-[![Animated gif 01: Linux / Unix: Bash Chroot ls Command Demo](/Asserts/Images//attachment/album/201405/22/231306b9smfdf3u1ofjbm3.gif)](http://www.cyberciti.biz/faq/?attachment_id=28148)
+[![Animated gif 01: Linux / Unix: Bash Chroot ls Command Demo](/Asserts/Images/album/201405/22/231306b9smfdf3u1ofjbm3.gif)](http://www.cyberciti.biz/faq/?attachment_id=28148)
 
 
 Gif 动画01: Linux / Unix: Bash Chroot ls 命令演示
@@ -319,7 +319,7 @@ mount -o bind /dev/shm $d/dev/shm
 mount -o bind /proc $d/proc
 
 # 挂载软件RAID /dev/md0
-mount /dev/md0 $d/Asserts/Images/
+mount /dev/md0 $d/data
 
 # Chroot 到我们新建的 jail 中。这将允许我们修复引导装载系统(bootloader)，或者在所有文件被/dev/null吞噬之前抓取数据。
 chroot $d

@@ -7,7 +7,7 @@ tags:	[linuxcn,Linus,SQLite]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/25/121329bkoh0h802sq080k5.jpg)
+![](/Asserts/Images/album/202005/25/121329bkoh0h802sq080k5.jpg)
 
 
 #### Linus Torvalds 升级主力电脑，15 年来首次不用英特尔处理器

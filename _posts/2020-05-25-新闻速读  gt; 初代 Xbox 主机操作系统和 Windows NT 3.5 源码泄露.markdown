@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,Xbox,OceanBase]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/22/132619ail3kwynd33id8un.jpg)
+![](/Asserts/Images/album/202005/22/132619ail3kwynd33id8un.jpg)
 
 
 #### 初代 Xbox 主机操作系统和 Windows NT 3.5 源码泄露

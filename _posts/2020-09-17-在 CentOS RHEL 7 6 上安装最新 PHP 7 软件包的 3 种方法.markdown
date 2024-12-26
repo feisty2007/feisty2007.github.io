@@ -7,7 +7,7 @@ tags:	[linuxcn,PHP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/14/235431i92iqjj2we0vegyj.jpg)
+![](/Asserts/Images/album/202009/14/235431i92iqjj2we0vegyj.jpg)
 
 
 PHP 是最流行的开源通用脚本语言，被广泛用于 Web 开发。它是 LAMP 栈应用程序套件的一部分，用于创建动态网站。流行的 CMS 应用程序 WordPress，Joomla 和 Drupal 都是用 PHP 语言开发的。这些应用程序的安装和配置都需要 PHP 7。PHP 7 可以更快地加载你的 Web 应用程序，并消耗更少的服务器资源。

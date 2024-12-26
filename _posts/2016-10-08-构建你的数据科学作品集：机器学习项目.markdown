@@ -9,7 +9,7 @@ tags:	[linuxcn,大数据,数据科学,预测]
 
 
 > 
-> 这是[这个系列](https://www.dataquest.io/blog/Asserts/Images/-science-portfolio-project/)发布的第三篇关于如何构建数据<ruby> 科学作品集 <rp>  （ </rp> <rt>  Data Science Portfolio </rt> <rp>  ） </rp></ruby>的文章。如果你喜欢这个系列并且想继续关注，你可以在订阅页面的底部找到[链接](https://www.dataquest.io/blog/Asserts/Images/-science-portfolio-machine-learning/#email-signup)。
+> 这是[这个系列](https://www.dataquest.io/blog/data-science-portfolio-project/)发布的第三篇关于如何构建数据<ruby> 科学作品集 <rp>  （ </rp> <rt>  Data Science Portfolio </rt> <rp>  ） </rp></ruby>的文章。如果你喜欢这个系列并且想继续关注，你可以在订阅页面的底部找到[链接](https://www.dataquest.io/blog/data-science-portfolio-machine-learning/#email-signup)。
 > 
 > 
 > 
@@ -18,7 +18,7 @@ tags:	[linuxcn,大数据,数据科学,预测]
 数据科学公司在决定雇佣时越来越关注你在数据科学方面的<ruby> 作品集 <rp>  （ </rp> <rt>  Portfolio </rt> <rp>  ） </rp></ruby>。这其中的一个原因是，这样的作品集是判断某人的实际技能的最好的方法。好消息是构建这样的作品集完全要看你自己。只要你在这方面付出了努力，你一定可以取得让这些公司钦佩的作品集。
 
 
-![](/Asserts/Images//attachment/album/201610/28/102139w8yn68zmpl7ipzn8.jpg)
+![](/Asserts/Images/album/201610/28/102139w8yn68zmpl7ipzn8.jpg)
 
 
 构建高质量的作品集的第一步就是知道需要什么技能。公司想要在数据科学方面拥有的、他们希望你能够运用的主要技能有：
@@ -31,13 +31,13 @@ tags:	[linuxcn,大数据,数据科学,预测]
 * 动机和主动性
 
 
-任何好的作品集都由多个项目表现出来，其中每个都能够表现出以上一到两点。这是本系列的第三篇，本系列我们主要讲包括如何打造面面俱到的数据科学作品集。在这一篇中，我们主要涵盖了如何构建组成你的作品集的第二个项目，以及如何创建一个端对端的机器学习项目。在最后，我们将拥有一个展示你的数据推理能力和技术能力的项目。如果你想看一下的话，[这里](https://github.com/Asserts/Images/questio/loan-prediction)有一个完整的例子。
+任何好的作品集都由多个项目表现出来，其中每个都能够表现出以上一到两点。这是本系列的第三篇，本系列我们主要讲包括如何打造面面俱到的数据科学作品集。在这一篇中，我们主要涵盖了如何构建组成你的作品集的第二个项目，以及如何创建一个端对端的机器学习项目。在最后，我们将拥有一个展示你的数据推理能力和技术能力的项目。如果你想看一下的话，[这里](https://github.com/dataquestio/loan-prediction)有一个完整的例子。
 
 
 ### 一个端到端的项目
 
 
-作为一个数据科学家，有时候你会拿到一个数据集并被问如何[用它来讲故事](https://www.dataquest.io/blog/Asserts/Images/-science-portfolio-project/)。在这个时候，沟通就是非常重要的，你需要用它来完成这个事情。像我们在前一篇文章中用过的，类似 Jupyter notebook 这样的工具，将对你非常有帮助。在这里你能找到一些可以用的报告或者总结文档。
+作为一个数据科学家，有时候你会拿到一个数据集并被问如何[用它来讲故事](https://www.dataquest.io/blog/data-science-portfolio-project/)。在这个时候，沟通就是非常重要的，你需要用它来完成这个事情。像我们在前一篇文章中用过的，类似 Jupyter notebook 这样的工具，将对你非常有帮助。在这里你能找到一些可以用的报告或者总结文档。
 
 
 不管怎样，有时候你会被要求创建一个具有操作价值的项目。具有操作价值的项目将直接影响到公司的日常业务，它会使用不止一次，经常是许多人使用。这个任务可能像这样 “创建一个算法来预测周转率”或者“创建一个模型来自动对我们的文章打标签”。在这种情况下，技术能力比讲故事更重要。你必须能够得到一个数据集，并且理解它，然后创建脚本处理该数据。这个脚本要运行的很快，占用系统资源很小。通常它可能要运行很多次，脚本的可使用性也很重要，并不仅仅是一个演示版。可使用性是指整合进操作流程，并且甚至是是面向用户的。
@@ -56,7 +56,7 @@ tags:	[linuxcn,大数据,数据科学,预测]
 为了有效的创建这种类型的项目，我们可能需要处理多个文件。强烈推荐使用 [Atom](https://atom.io/) 这样的文本编辑器或者 [PyCharm](https://www.jetbrains.com/pycharm/) 这样的 IDE。这些工具允许你在文件间跳转，编辑不同类型的文件，例如 markdown 文件，Python 文件，和 csv 文件等等。结构化你的项目还利于版本控制，并上传一个类似 [Github](https://github.com/) 这样的协作开发工具上也很有用。
 
 
-![](/Asserts/Images//attachment/album/201610/28/100707fwx12ctoj9lp654v.png)
+![](/Asserts/Images/album/201610/28/100707fwx12ctoj9lp654v.png)
 
 
 *Github 上的这个项目*
@@ -68,7 +68,7 @@ tags:	[linuxcn,大数据,数据科学,预测]
 ### 找到好的数据集
 
 
-为一个端到端的作品集项目的找到好的数据集很难。在内存和性能的限制下，数据集需要尽量的大。它还需要是实际有用的。例如，[这个数据集](https://collegescorecard.ed.gov/Asserts/Images//)，它包含有美国院校的录取标准、毕业率以及毕业以后的收入，是个很好的可以讲故事的数据集。但是，不管你如何看待这个数据，很显然它不适合创建端到端的项目。比如，你能告诉人们他们去了这些大学以后的未来收入，但是这个快速检索却并不足够呈现出你的技术能力。你还能找出院校的招生标准和更高的收入相关，但是这更像是常理而不是你的技术结论。
+为一个端到端的作品集项目的找到好的数据集很难。在内存和性能的限制下，数据集需要尽量的大。它还需要是实际有用的。例如，[这个数据集](https://collegescorecard.ed.gov/data/)，它包含有美国院校的录取标准、毕业率以及毕业以后的收入，是个很好的可以讲故事的数据集。但是，不管你如何看待这个数据，很显然它不适合创建端到端的项目。比如，你能告诉人们他们去了这些大学以后的未来收入，但是这个快速检索却并不足够呈现出你的技术能力。你还能找出院校的招生标准和更高的收入相关，但是这更像是常理而不是你的技术结论。
 
 
 这里还有内存和性能约束的问题，比如你有几千兆的数据，而且当你需要找到一些差异时，就需要对数据集一遍遍运行算法。
@@ -80,7 +80,7 @@ tags:	[linuxcn,大数据,数据科学,预测]
 一些找到数据集的好地方：
 
 
-* [/r/Asserts/Images/sets](https://reddit.com/r/Asserts/Images/sets) – 有上百的有趣数据的 subreddit（Reddit 是国外一个社交新闻站点，subreddit 指该论坛下的各不同版块）。
+* [/r/datasets](https://reddit.com/r/datasets) – 有上百的有趣数据的 subreddit（Reddit 是国外一个社交新闻站点，subreddit 指该论坛下的各不同版块）。
 * [Google Public Datasets](https://cloud.google.com/bigquery/public-data/#usa-names) – 通过 Google BigQuery 使用的公开数据集。
 * [Awesome datasets](https://github.com/caesar0301/awesome-public-datasets) – 一个数据集列表，放在 Github 上。
 
@@ -88,7 +88,7 @@ tags:	[linuxcn,大数据,数据科学,预测]
 当你查看这些数据集时，想一下人们想要在这些数据集中得到什么答案，哪怕这些问题只想过一次（“房价是如何与标准普尔 500 指数关联的?”），或者更进一步（“你能预测股市吗?”）。这里的关键是更进一步地找出问题，并且用相同的代码在不同输入（不同的数据）上运行多次。
 
 
-对于本文的目标，我们来看一下 <ruby> 房利美 <rp>  （ </rp> <rt>  Fannie Mae </rt> <rp>  ） </rp></ruby>[贷款数据](http://www.fanniemae.com/portal/funding-the-market/Asserts/Images//loan-performance-data.html)。房利美是一家在美国的政府赞助的企业抵押贷款公司，它从其他银行购买按揭贷款，然后捆绑这些贷款为贷款证券来转卖它们。这使得贷款机构可以提供更多的抵押贷款，在市场上创造更多的流动性。这在理论上会带来更多的住房和更好的贷款期限。从借款人的角度来说，它们大体上差不多，话虽这样说。
+对于本文的目标，我们来看一下 <ruby> 房利美 <rp>  （ </rp> <rt>  Fannie Mae </rt> <rp>  ） </rp></ruby>[贷款数据](http://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html)。房利美是一家在美国的政府赞助的企业抵押贷款公司，它从其他银行购买按揭贷款，然后捆绑这些贷款为贷款证券来转卖它们。这使得贷款机构可以提供更多的抵押贷款，在市场上创造更多的流动性。这在理论上会带来更多的住房和更好的贷款期限。从借款人的角度来说，它们大体上差不多，话虽这样说。
 
 
 房利美发布了两种类型的数据 – 它获得的贷款的数据，和贷款偿还情况的数据。在理想的情况下，有人向贷款人借钱，然后还款直到还清。不管怎样，有些人多次不还，从而丧失了抵押品赎回权。抵押品赎回权是指没钱还了被银行把房子给收走了。房利美会追踪谁没还钱，并且哪个贷款需要收回抵押的房屋（取消赎回权）。每个季度会发布此数据，发布的是滞后一年的数据。当前可用是 2015 年第一季度数据。
@@ -97,7 +97,7 @@ tags:	[linuxcn,大数据,数据科学,预测]
 “贷款数据”是由房利美发布的贷款发放的数据，它包含借款人的信息、信用评分，和他们的家庭贷款信息。“执行数据”，贷款发放后的每一个季度公布，包含借贷人的还款信息和是否丧失抵押品赎回权的状态，一个“贷款数据”的“执行数据”可能有十几行。可以这样理解，“贷款数据”告诉你房利美所控制的贷款，“执行数据”包含该贷款一系列的状态更新。其中一个状态更新可以告诉我们一笔贷款在某个季度被取消赎回权了。
 
 
-![](/Asserts/Images//attachment/album/201610/28/100856wgsknycgcksccpsc.jpg)
+![](/Asserts/Images/album/201610/28/100856wgsknycgcksccpsc.jpg)
 
 
 *一个没有及时还贷的房子就这样的被卖了*
@@ -157,7 +157,7 @@ tags:	[linuxcn,大数据,数据科学,预测]
 在开始编码之前，花些时间真正理解数据是值得的。这对于操作性项目优为重要，因为我们没有交互式探索数据，将很难察觉到细微的差别，除非我们在前期发现他们。在这种情况下，第一个步骤是阅读房利美站点的资料：
 
 
-* [概述](http://www.fanniemae.com/portal/funding-the-market/Asserts/Images//loan-performance-data.html)
+* [概述](http://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html)
 * [有用的术语表](https://loanperformancedata.fanniemae.com/lppub-docs/lppub_glossary.pdf)
 * [常见问答](https://loanperformancedata.fanniemae.com/lppub-docs/lppub_faq.pdf)
 * [贷款和执行文件中的列](https://loanperformancedata.fanniemae.com/lppub-docs/lppub_file_layout.pdf)
@@ -238,10 +238,10 @@ processed
 
 ```
 
-[这里](https://github.com/Asserts/Images/questio/loan-prediction/blob/master/.gitignore)是该项目的一个关于 .gitignore 文件的例子。
+[这里](https://github.com/dataquestio/loan-prediction/blob/master/.gitignore)是该项目的一个关于 .gitignore 文件的例子。
 
 
-再次，我们需要创建 `README.md` 文件，它将帮助人们理解该项目。后缀 .md 表示这个文件采用 markdown 格式。Markdown 使你能够写纯文本文件，同时还可以添加你想要的神奇的格式。[这里](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)是关于 markdown 的导引。如果你上传一个叫 `README.md` 的文件至 Github，Github 会自动处理该 markdown，同时展示给浏览该项目的人。例子在[这里](https://github.com/Asserts/Images/questio/loan-prediction)。
+再次，我们需要创建 `README.md` 文件，它将帮助人们理解该项目。后缀 .md 表示这个文件采用 markdown 格式。Markdown 使你能够写纯文本文件，同时还可以添加你想要的神奇的格式。[这里](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)是关于 markdown 的导引。如果你上传一个叫 `README.md` 的文件至 Github，Github 会自动处理该 markdown，同时展示给浏览该项目的人。例子在[这里](https://github.com/dataquestio/loan-prediction)。
 
 
 至此，我们仅需在 `README.md` 文件中添加简单的描述：
@@ -252,7 +252,7 @@ processed
 Loan Prediction
 -----------------------
 
-Predict whether or not loans acquired by Fannie Mae will go into foreclosure.  Fannie Mae acquires loans from other lenders as a way of inducing them to lend more.  Fannie Mae releases data on the loans it has acquired and their performance afterwards [here](http://www.fanniemae.com/portal/funding-the-market/Asserts/Images//loan-performance-data.html).
+Predict whether or not loans acquired by Fannie Mae will go into foreclosure.  Fannie Mae acquires loans from other lenders as a way of inducing them to lend more.  Fannie Mae releases data on the loans it has acquired and their performance afterwards [here](http://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html).
 
 ```
 
@@ -270,7 +270,7 @@ scipy
 
 ```
 
-以上几个是在 python 数据分析任务中最常用到的库。可以认为我们将会用到大部分这些库。[这里](https://github.com/Asserts/Images/questio/loan-prediction/blob/master/requirements.txt)是该项目 `requirements.txt` 文件的一个例子。
+以上几个是在 python 数据分析任务中最常用到的库。可以认为我们将会用到大部分这些库。[这里](https://github.com/dataquestio/loan-prediction/blob/master/requirements.txt)是该项目 `requirements.txt` 文件的一个例子。
 
 
 创建 `requirements.txt` 文件之后，你应该安装这些包了。我们将会使用 python3。如果你没有安装 python，你应该考虑使用 [Anaconda](https://www.continuum.io/downloads)，它是一个 python 安装程序，同时安装了上面列出的所有包。
@@ -338,7 +338,7 @@ CV_FOLDS = 3
 
 ```
 
-把路径设置在 `settings.py` 中使它们放在一个集中的地方，同时使其修改更加的容易。当在多个文件中用到相同的变量时，你想改变它的话，把他们放在一个地方比分散放在每一个文件时更加容易。[这里的](https://github.com/Asserts/Images/questio/loan-prediction/blob/master/settings.py)是一个这个工程的示例 `settings.py` 文件
+把路径设置在 `settings.py` 中使它们放在一个集中的地方，同时使其修改更加的容易。当在多个文件中用到相同的变量时，你想改变它的话，把他们放在一个地方比分散放在每一个文件时更加容易。[这里的](https://github.com/dataquestio/loan-prediction/blob/master/settings.py)是一个这个工程的示例 `settings.py` 文件
 
 
 第二步是创建一个文件名为 `assemble.py`，它将所有的数据分为 2 个文件。当我们运行 `Python assemble.py`，我们在处理数据文件的目录会获得 2 个数据文件。
@@ -483,7 +483,7 @@ if __name__ == "__main__":
 我们现在拥有了一个漂亮的，划分过的 `assemble.py` 文件，它很容易执行，也容易建立。通过像这样把问题分解为一块一块的，我们构建工程就会变的容易许多。不用一个可以做所有工作的凌乱脚本，我们定义的数据将会在多个脚本间传递，同时使脚本间完全的彼此隔离。当你正在一个大的项目中工作时，这样做是一个好的想法，因为这样可以更加容易修改其中的某一部分而不会引起其他项目中不关联部分产生预料之外的结果。
 
 
-一旦我们完成 `assemble.py` 脚本文件，我们可以运行 `python assemble.py` 命令。你可以[在这里](https://github.com/Asserts/Images/questio/loan-prediction/blob/master/assemble.py)查看完整的 `assemble.py` 文件。
+一旦我们完成 `assemble.py` 脚本文件，我们可以运行 `python assemble.py` 命令。你可以[在这里](https://github.com/dataquestio/loan-prediction/blob/master/assemble.py)查看完整的 `assemble.py` 文件。
 
 
 这将会在 `processed` 目录下产生 2 个文件：
@@ -518,7 +518,7 @@ loan-prediction
 下面是我认为贷款数据和执行数据的关系：
 
 
-![](/Asserts/Images//attachment/album/201610/28/101352pqj44fnouqvo45nx.jpg)
+![](/Asserts/Images/album/201610/28/101352pqj44fnouqvo45nx.jpg)
 
 
 在上面的表格中，贷款数据中的每一行数据都关联到执行数据中的多行数据。在执行数据中，在取消赎回权的时候 `foreclosure_date` 就会出现在该季度，而之前它是空的。一些贷款还没有被取消赎回权，所以与执行数据中的贷款数据有关的行在 `foreclosure_date` 列都是空格。
@@ -620,7 +620,7 @@ def get_performance_summary_value(loan_id, key, counts):
 我们有几个列是文本类型的，看起来对于机器学习算法来说并不是很有用。然而，它们实际上是分类变量，其中有很多不同的类别代码，例如 `R`，`S` 等等. 我们可以把这些类别标签转换为数值：
 
 
-![](/Asserts/Images//attachment/album/201610/28/101451p3xmfd34fyfq0xf5.jpg)
+![](/Asserts/Images/album/201610/28/101451p3xmfd34fyfq0xf5.jpg)
 
 
 通过这种方法转换的列我们可以应用到机器学习算法中。
@@ -629,7 +629,7 @@ def get_performance_summary_value(loan_id, key, counts):
 还有一些包含日期的列 (`first_payment_date` 和 `origination_date`）。我们可以将这些日期放到两个列中：
 
 
-![](/Asserts/Images//attachment/album/201610/28/101502gn0icuiiziiug5ez.jpg)
+![](/Asserts/Images/album/201610/28/101502gn0icuiiziiug5ez.jpg)
 
 
 在下面的代码中，我们将转换贷款数据。我们将定义一个函数如下：
@@ -716,7 +716,7 @@ if __name__ == "__main__":
 
 ```
 
-修改完成以后，确保运行 `python annotate.py` 来生成 `train.csv` 文件。 你可以在[这里](https://github.com/Asserts/Images/questio/loan-prediction/blob/master/annotate.py)找到完整的 `annotate.py` 文件。
+修改完成以后，确保运行 `python annotate.py` 来生成 `train.csv` 文件。 你可以在[这里](https://github.com/dataquestio/loan-prediction/blob/master/annotate.py)找到完整的 `annotate.py` 文件。
 
 
 现在文件夹看起来应该像这样：
@@ -777,7 +777,7 @@ Name: foreclosure_status, dtype: int64
 所以我们将定义一个漏报率，就是模型预测没有取消赎回权但是实际上取消了，这个数除以总的取消赎回权数。这是“缺失的”实际取消赎回权百分比的模型。下面看这个图表：
 
 
-![](/Asserts/Images//attachment/album/201610/28/101602npfaaa3rjh2fjfos.jpg)
+![](/Asserts/Images/album/201610/28/101602npfaaa3rjh2fjfos.jpg)
 
 
 通过上面的图表，有 1 个贷款预测不会取消赎回权，但是实际上取消了。如果我们将这个数除以实际取消赎回权的总数 2，我们将得到漏报率 50%。 我们将使用这个误差标准，因此我们可以评估一下模型的行为。
@@ -906,7 +906,7 @@ if __name__ == "__main__":
 一旦你添加完代码，你可以运行 `python predict.py` 来产生预测结果。运行结果向我们展示漏报率为 `.26`，这意味着我们没能预测 `26%` 的取消贷款。这是一个好的开始，但仍有很多改善的地方！
 
 
-你可以在[这里](https://github.com/Asserts/Images/questio/loan-prediction/blob/master/predict.py)找到完整的 `predict.py` 文件。
+你可以在[这里](https://github.com/dataquestio/loan-prediction/blob/master/predict.py)找到完整的 `predict.py` 文件。
 
 
 你的文件树现在看起来像下面这样：
@@ -952,13 +952,13 @@ loan-prediction
 	+ 扩展项目的下一步计划
 
 
-[这里](https://github.com/Asserts/Images/questio/loan-prediction/blob/master/README.md) 是这个项目的一个 `README.md` 样例。
+[这里](https://github.com/dataquestio/loan-prediction/blob/master/README.md) 是这个项目的一个 `README.md` 样例。
 
 
 ### 下一步
 
 
-恭喜你完成了端到端的机器学习项目！你可以在[这里](https://github.com/Asserts/Images/questio/loan-prediction)找到一个完整的示例项目。一旦你完成了项目，把它上传到 [Github](https://www.github.com/) 是一个不错的主意，这样其他人也可以看到你的文件夹的部分项目。
+恭喜你完成了端到端的机器学习项目！你可以在[这里](https://github.com/dataquestio/loan-prediction)找到一个完整的示例项目。一旦你完成了项目，把它上传到 [Github](https://www.github.com/) 是一个不错的主意，这样其他人也可以看到你的文件夹的部分项目。
 
 
 这里仍有一些留待探索数据的角度。总的来说，我们可以把它们分割为 3 类： 扩展这个项目并使它更加精确，发现其他可以预测的列，并探索数据。这是其中一些想法：
@@ -987,7 +987,7 @@ loan-prediction
 如果你喜欢这篇文章，或许你也会喜欢阅读“构建你的数据科学作品集”系列的其他文章：
 
 
-* [用数据讲故事](https://www.dataquest.io/blog/Asserts/Images/-science-portfolio-project/)
+* [用数据讲故事](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * [如何搭建一个数据科学博客](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
 * [构建一个可以帮你找到工作的数据科学作品集的关键](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
 * [找到数据科学用的数据集的 17 个地方](https://www.dataquest.io/blog/free-datasets-for-projects)
@@ -998,7 +998,7 @@ loan-prediction
 ---
 
 
-via: <https://www.dataquest.io/blog/Asserts/Images/-science-portfolio-machine-learning/>
+via: <https://www.dataquest.io/blog/data-science-portfolio-machine-learning/>
 
 
 作者：[Vik Paruchuri](https://www.dataquest.io/blog) 译者：[kokialoves](https://github.com/kokialoves), [zky001](https://github.com/zky001), [vim-kakali](https://github.com/vim-kakali), [cposture](https://github.com/cposture), [ideas4u](https://github.com/ideas4u) 校对：[wxy](https://github.com/wxy)

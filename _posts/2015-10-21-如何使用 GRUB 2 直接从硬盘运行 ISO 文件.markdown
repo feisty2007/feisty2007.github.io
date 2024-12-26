@@ -7,7 +7,7 @@ tags:	[linuxcn,grub,iso,启动]
 ---
 
 
-![](/Asserts/Images//attachment/album/201510/18/094435clq6dy8jsvceze6l.png)
+![](/Asserts/Images/album/201510/18/094435clq6dy8jsvceze6l.png)
 
 
 大多数 Linux 发行版都会提供一个可以从 USB 启动的 live 环境，以便用户无需安装即可测试系统。我们可以用它来评测这个发行版或仅仅是当成一个一次性系统，并且很容易将这些文件复制到一个 U 盘上，在某些情况下，我们可能需要经常运行同一个或不同的 ISO 镜像。GRUB 2 可以配置成直接从启动菜单运行一个 live 环境，而不需要烧录这些 ISO 到硬盘或 USB 设备。
@@ -22,7 +22,7 @@ tags:	[linuxcn,grub,iso,启动]
 当镜像下载完后，我们应该通过 MD5 校验检查它的完整性。这会输出一大串数字与字母合成的序列。
 
 
-![](/Asserts/Images//attachment/album/201510/18/094435jfzdcd1otefsdj1o.png)
+![](/Asserts/Images/album/201510/18/094435jfzdcd1otefsdj1o.png)
 
 
 将这个序列与下载页提供的 MD5 校验码进行比较，两者应该完全相同。
@@ -49,7 +49,7 @@ ISO 镜像文件包含了整个系统。我们要做的仅仅是告诉 GRUB 2 �
 
 ```
 
-![](/Asserts/Images//attachment/album/201510/18/094436h1yhby1hhxyozfh8.png)
+![](/Asserts/Images/album/201510/18/094436h1yhby1hhxyozfh8.png)
 
 
 
@@ -64,7 +64,7 @@ initrd (loop)/casper/initrd.lz
 
 ```
 
-![](/Asserts/Images//attachment/album/201510/18/094436m1k6oicxcod5w6iw.png)
+![](/Asserts/Images/album/201510/18/094436m1k6oicxcod5w6iw.png)
 
 
 ### 分析上述代码
@@ -127,13 +127,13 @@ sudo update-grub
 
 ```
 
-![](/Asserts/Images//attachment/album/201510/18/094436h5zl1nvplhlommm7.png)
+![](/Asserts/Images/album/201510/18/094436h5zl1nvplhlommm7.png)
 
 
 当重启系统后，应该可以看见一个新的、并且允许我们启动刚刚配置的 ISO 镜像的 GRUB 条目：
 
 
-![](/Asserts/Images//attachment/album/201510/18/094437n49lir14269ab692.png)
+![](/Asserts/Images/album/201510/18/094437n49lir14269ab692.png)
 
 
 选择这个新条目就允许我们像从 DVD 或 U 盘中启动一个 live 环境一样。

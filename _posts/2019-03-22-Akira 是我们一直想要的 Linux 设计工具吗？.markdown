@@ -28,7 +28,7 @@ tags:	[linuxcn,设计,软件,Inkscape,GIMP]
 ### 如果它还不存在，为什么会发起 Kickstarter 活动？
 
 
-![](/Asserts/Images//attachment/album/201903/11/151916jy8z22l6j7xi823c.jpg)
+![](/Asserts/Images/album/201903/11/151916jy8z22l6j7xi823c.jpg)
 
 
 Kickstarter 活动的目的是收集资金，以便雇用开发人员，并花几个月的时间开发，以使 Akira 成为可能。
@@ -43,7 +43,7 @@ Kickstarter 活动的目的是收集资金，以便雇用开发人员，并花�
 ### Akira：更多细节
 
 
-![Akira prototype interface](/Asserts/Images//attachment/album/201903/11/151918uteeg1ectesecfoe.png)
+![Akira prototype interface](/Asserts/Images/album/201903/11/151918uteeg1ectesecfoe.png)
 
 
 *图片来源：Kickstarter*

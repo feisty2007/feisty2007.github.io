@@ -15,7 +15,7 @@ tags:	[linuxcn,Node.js]
 > 
 
 
-![](/Asserts/Images//attachment/album/202103/15/233658i99wxvzin13o5319.png "Tools illustration")
+![](/Asserts/Images/album/202103/15/233658i99wxvzin13o5319.png "Tools illustration")
 
 
 我最近在 [StackOverflow](https://insights.stackoverflow.com/survey/2019#technology-_-other-frameworks-libraries-and-tools) 上读到了一项调查，该调查称超过 49％ 的开发人员在其项目中使用了 Node.js。这结果对我来说并不意外。

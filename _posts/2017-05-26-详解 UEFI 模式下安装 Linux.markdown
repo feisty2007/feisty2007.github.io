@@ -15,7 +15,7 @@ tags:	[linuxcn,UEFI,BIOS,GRUB]
 > 
 
 
-![](/Asserts/Images//attachment/album/201705/05/232225rsydrjnujbcsdmdn.jpg)
+![](/Asserts/Images/album/201705/05/232225rsydrjnujbcsdmdn.jpg)
 
 
 ### 引言

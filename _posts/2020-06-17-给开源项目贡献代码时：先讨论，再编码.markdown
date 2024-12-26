@@ -7,7 +7,7 @@ tags:	[linuxcn,开发]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/16/160043oqnpi69m23b93zz3.jpg)
+![](/Asserts/Images/album/202006/16/160043oqnpi69m23b93zz3.jpg)
 
 
 我所参与的开源项目遵循的是一种这样的理念，我把它描述为 “先讨论，再编码”。我认为一般来说这是开发软件的好方法，我想花一点时间来谈谈这种方法的好处。 

@@ -25,9 +25,9 @@ excerpt: 这个词最初是起源于软件开发中，指的是一种开发软�
 fromurl: https://opensource.com/resources/what-open-source
 id: 8624
 islctt: true
-largepic: /Asserts/Images//attachment/album/201706/20/142759bzhmwgmrxrhhurai.png
+largepic: /Asserts/Images/album/201706/20/142759bzhmwgmrxrhhurai.png
 permalink: /article-8624-1.html
-pic: /Asserts/Images//attachment/album/201706/20/142759bzhmwgmrxrhhurai.png.thumb.jpg
+pic: /Asserts/Images/album/201706/20/142759bzhmwgmrxrhhurai.png.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -41,7 +41,7 @@ translator: alim0x
 updated: '2017-06-20 14:27:57'
 ---
 
-![](/Asserts/Images//attachment/album/201706/20/142759bzhmwgmrxrhhurai.png)
+![](/Asserts/Images/album/201706/20/142759bzhmwgmrxrhhurai.png)
 
 
 “<ruby> 开源 <rt>  open source </rt></ruby>”这个词，指的是事物规划为可以公开访问的，因此人们可以修改并分享。

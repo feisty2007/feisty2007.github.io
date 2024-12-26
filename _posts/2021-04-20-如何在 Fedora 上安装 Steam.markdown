@@ -7,7 +7,7 @@ tags:	[linuxcn,Steam]
 ---
 
 
-![](/Asserts/Images//attachment/album/202104/16/090703cg4t5npnseskhxhv.jpg)
+![](/Asserts/Images/album/202104/16/090703cg4t5npnseskhxhv.jpg)
 
 
 Steam 对 Linux 游戏玩家来说是最好的东西了。由于 Steam，你可以在 Linux 上玩成百上千的游戏。
@@ -16,7 +16,7 @@ Steam 对 Linux 游戏玩家来说是最好的东西了。由于 Steam，你可�
 如果你还不知道，Steam 是最流行的 PC 游戏平台。2013 年，它开始可以在 Linux 使用。[Steam 最新的 Proton 项目](https://itsfoss.com/steam-play-proton/) 允许你在 Linux 上玩为 Windows 平台创建的游戏。这让 Linux 游戏库增强了许多倍。
 
 
-![](/Asserts/Images//attachment/album/202104/16/090713q4k3d4b3q0zk0z90.jpg)
+![](/Asserts/Images/album/202104/16/090713q4k3d4b3q0zk0z90.jpg)
 
 
 Steam 提供了一个桌面客户端，你可以用它从 Steam 商店下载或购买游戏，然后安装并玩它。
@@ -58,7 +58,7 @@ sudo dnf install steam
 
 ```
 
-![Install Steam via command line](/Asserts/Images//attachment/album/202104/16/090715vn65cvcs4zc8vs46.png)
+![Install Steam via command line](/Asserts/Images/album/202104/16/090715vn65cvcs4zc8vs46.png)
 
 
 输入密码后按 `Y` 接受。安装完毕后，打开 Steam，玩一些游戏。
@@ -70,19 +70,19 @@ sudo dnf install steam
 你可以从软件中心 [启用 Fedora 上的第三方仓库](https://itsfoss.com/fedora-third-party-repos/)。打开软件中心并点击菜单。
 
 
-![](/Asserts/Images//attachment/album/202104/16/090717i3iiy80p1133iq2q.png)
+![](/Asserts/Images/album/202104/16/090717i3iiy80p1133iq2q.png)
 
 
 在 “软件仓库” 窗口中，你会看到顶部有一个 “第三方软件仓库”。点击 “安装” 按钮。当提示你输入密码时，就完成了。
 
 
-![](/Asserts/Images//attachment/album/202104/16/090718xsxuw6mazyog0wu0.png)
+![](/Asserts/Images/album/202104/16/090718xsxuw6mazyog0wu0.png)
 
 
 安装了 Steam 的 RPM Fusion 仓库后，更新你系统的软件缓存（如果需要），并在软件中心搜索 Steam。
 
 
-![Steam in GNOME Software Center](/Asserts/Images//attachment/album/202104/16/090719bkcpwg1bbzukzu11.jpg)
+![Steam in GNOME Software Center](/Asserts/Images/album/202104/16/090719bkcpwg1bbzukzu11.jpg)
 
 
 安装完成后，打开 GNOME 软件中心，搜索 Steam。找到 Steam 页面后，点击安装。当被问及密码时，输入你的密码就可以了。
@@ -97,7 +97,7 @@ sudo dnf install steam
 Steam 也可以作为 Flatpak 使用。Fedora 上默认安装 Flatpak。在使用该方法安装 Steam 之前，我们必须安装 Flathub 仓库。
 
 
-![Install Flathub](/Asserts/Images//attachment/album/202104/16/090721h2vcc42n3m9nvgiv.jpg)
+![Install Flathub](/Asserts/Images/album/202104/16/090721h2vcc42n3m9nvgiv.jpg)
 
 
 首先，在浏览器中打开 [Flatpak 网站](https://www.flatpak.org/setup/Fedora/)。现在，点击标有 “Flathub repository file” 的蓝色按钮。浏览器会询问你是否要在 GNOME 软件中心打开该文件。点击确定。在 GNOME 软件中心打开后，点击安装按钮。系统会提示你输入密码。
@@ -115,13 +115,13 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 安装好 Flathub 仓库后，你需要做的就是在 GNOME 软件中心搜索 Steam。找到后，安装它，你就可以开始玩了。
 
 
-![Fedora Repo Select](/Asserts/Images//attachment/album/202104/16/090722ohpqoiiqaquuir9o.jpg)
+![Fedora Repo Select](/Asserts/Images/album/202104/16/090722ohpqoiiqaquuir9o.jpg)
 
 
 Flathub 版本的 Steam 也有几个附加组件可以安装。其中包括一个 DOS 兼容工具和几个 [Vulkan](https://developer.nvidia.com/vulkan) 和 Proton 工具。
 
 
-![](/Asserts/Images//attachment/album/202104/16/090723jl5l6y2jdpxf5dl5.jpg)
+![](/Asserts/Images/album/202104/16/090723jl5l6y2jdpxf5dl5.jpg)
 
 
 我想这应该可以帮助你在 Fedora 上使用 Steam。享受你的游戏 :smiley:

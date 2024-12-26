@@ -7,7 +7,7 @@ tags:	[linuxcn,邮件服务器,Dovecot,IMAP,Postfix]
 ---
 
 
-![Dovecot email](/Asserts/Images//attachment/album/201612/30/163706dtz1d4e4jg4g2i8j.jpg "Dovecot email")
+![Dovecot email](/Asserts/Images/album/201612/30/163706dtz1d4e4jg4g2i8j.jpg "Dovecot email")
 
 
 本教程的第 2 部分将介绍如何使用 Dovecot 将邮件从 Postfix 服务器移动到用户的收件箱。
@@ -264,7 +264,7 @@ Connection closed by foreign host
 图 1 中的屏幕截图显示了我局域网上另一台主机上的图形邮件客户端中的邮件。
 
 
-![thunderbird mail](/Asserts/Images//attachment/album/201612/30/163707tijjuxip7da74bxm.png "thunderbird mail")
+![thunderbird mail](/Asserts/Images/album/201612/30/163707tijjuxip7da74bxm.png "thunderbird mail")
 
 
 *图 1： Thunderbird mail*

@@ -10,7 +10,7 @@ tags:	[linuxcn,Unvanquished,Linux,免费,游戏,开源,科幻,策略,射击]
 **Unvanquished，一款免费的、开源的并将实时策略元素和未来科幻设定相结合的第一人称视角的射击游戏，已经发布了它的第22次更新。事实上，版本号是22.1。**
 
 
-![](/Asserts/Images//attachment/album/201312/25/212553bl3bkllkbss0y7sp.jpg)
+![](/Asserts/Images/album/201312/25/212553bl3bkllkbss0y7sp.jpg)
 
 
 即便Unvanquished仍处在内部测试阶段，但开发者们已经添加了很多新特性，使得这款游戏的可玩性更强。
@@ -19,7 +19,7 @@ tags:	[linuxcn,Unvanquished,Linux,免费,游戏,开源,科幻,策略,射击]
 Unvanquished的内部测试版22. 1已经发布了一些改变。包括引擎，游戏设置，一个新地图，一个已有地图的新版本， 还有更多。
 
 
-![](/Asserts/Images//attachment/album/201312/25/212556qbn3zs4v6qolsl3h.jpg)
+![](/Asserts/Images/album/201312/25/212556qbn3zs4v6qolsl3h.jpg)
 
 
 Snowstation是集成在这款游戏中的新地图。据开发者透露，它拥有一个简单的设计，必要的环路和用来形成这个环路的一部分的雪地场景。

@@ -7,7 +7,7 @@ tags:	[linuxcn,USB,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/10/092346thez6zth6lv6tt5z.jpg)
+![](/Asserts/Images/album/201712/10/092346thez6zth6lv6tt5z.jpg)
 
 
 为了保护数据不被泄漏，我们使用软件和硬件防火墙来限制外部未经授权的访问，但是数据泄露也可能发生在内部。 为了消除这种可能性，机构会限制和监测访问互联网，同时禁用 USB 存储设备。

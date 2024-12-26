@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/05/132420lppzypd5fzvhz1dy.jpg)
+![](/Asserts/Images/album/202308/05/132420lppzypd5fzvhz1dy.jpg)
 
 
 Kubernetes 是一个开源容器编排平台，已成为大规模管理容器化应用的首选解决方案。虽然 Kubernetes 提供了强大的命令行工具来管理集群，但有时可视化界面可以使监控和管理部署变得更加容易。Kubernetes 仪表板是一个基于 Web 的用户界面，可让你可视化 Kubernetes 集群并与之交互。
@@ -45,7 +45,7 @@ $ ./get_helm.sh
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/05/132634jkxyu30q7e5f4yag.jpg)
+![](/Asserts/Images/album/202308/05/132634jkxyu30q7e5f4yag.jpg)
 
 
 #### 2）添加 Kubernetes 仪表板 Helm 仓库
@@ -61,7 +61,7 @@ $ helm repo list
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/05/132647y2ujt0weyw2wzyw0.jpg)
+![](/Asserts/Images/album/202308/05/132647y2ujt0weyw2wzyw0.jpg)
 
 
 #### 3）安装 Kubernetes 仪表板
@@ -76,7 +76,7 @@ $ helm upgrade --install kubernetes-dashboard kubernetes-dashboard/kubernetes-da
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/05/132701x38u3xfh8rr9bf12.jpg)
+![](/Asserts/Images/album/202308/05/132701x38u3xfh8rr9bf12.jpg)
 
 
 上面的输出确认仪表板已部署在 `Kubernetes-dashboard` 命名空间中。因此，要访问仪表板，请运行：
@@ -88,7 +88,7 @@ $ kubectl -n kubernetes-dashboard port-forward svc/kubernetes-dashboard-nginx-co
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/05/132718jwzb95iippcwlp6h.jpg)
+![](/Asserts/Images/album/202308/05/132718jwzb95iippcwlp6h.jpg)
 
 
 现在，打开运行上述命令的系统的 Web 浏览器，输入以下 URL：
@@ -100,13 +100,13 @@ https://localhost:8443
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/05/132730qjqkxmnzeekkxq7x.jpg)
+![](/Asserts/Images/album/202308/05/132730qjqkxmnzeekkxq7x.jpg)
 
 
 点击“<ruby> 接受风险并继续 <rt>  Accept the Risk and Continue </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202308/05/132744mveh1zb5vhgx50wb.jpg)
+![](/Asserts/Images/album/202308/05/132744mveh1zb5vhgx50wb.jpg)
 
 
 正如你在上面看到的，我们需要一个令牌才能登录。因此，让我们在下一步中生成所需的令牌。
@@ -166,13 +166,13 @@ $ kubectl -n kube-system  create token admin-user
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/05/132804eojycd99cdjjzicy.jpg)
+![](/Asserts/Images/album/202308/05/132804eojycd99cdjjzicy.jpg)
 
 
 复制此令牌并返回浏览器，将其粘贴到“<ruby> 输入令牌 <rt>  Enter token </rt></ruby>”字段中，如下所示：
 
 
-![](/Asserts/Images//attachment/album/202308/05/132812khmmk9qzm8ffh39c.jpg)
+![](/Asserts/Images/album/202308/05/132812khmmk9qzm8ffh39c.jpg)
 
 
 点击“<ruby> 登录 <rt>  Login </rt></ruby>”。
@@ -184,7 +184,7 @@ $ kubectl -n kube-system  create token admin-user
 当我们点击上面的“登录”时，我们将看到以下仪表板：
 
 
-![](/Asserts/Images//attachment/album/202308/05/132838vrp3epbp0hobphpo.jpg)
+![](/Asserts/Images/album/202308/05/132838vrp3epbp0hobphpo.jpg)
 
 
 太好了，你现在已登录 Kubernetes 仪表板。以下是一些需要探索的关键特性和功能：

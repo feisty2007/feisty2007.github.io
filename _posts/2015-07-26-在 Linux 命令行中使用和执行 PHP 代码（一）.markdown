@@ -10,7 +10,7 @@ tags:	[linuxcn,PHP,命令行]
 PHP是一个开源服务器端脚本语言，最初这三个字母代表的是“Personal Home Page”，而现在则代表的是“PHP：Hypertext Preprocessor”，它是个递归首字母缩写。它是一个跨平台脚本语言，深受C、C++和Java的影响。
 
 
-![Run PHP Codes in Linux Command Line](/Asserts/Images//attachment/album/201507/28/002201zbxnhk6hns97o1h4.jpg)
+![Run PHP Codes in Linux Command Line](/Asserts/Images/album/201507/28/002201zbxnhk6hns97o1h4.jpg)
 
 
 *在 Linux 命令行中运行 PHP 代码*
@@ -47,7 +47,7 @@ PHP是HTML的嵌入脚本，它便于开发人员快速写出动态生成的页�
 然后，将浏览器访问 <http://127.0.0.1/infophp.php> ，这将会在网络浏览器中打开该文件。
 
 
-![Check PHP Info](/Asserts/Images//attachment/album/201507/28/002201qb70avd7h07hhp00.png)
+![Check PHP Info](/Asserts/Images/album/201507/28/002201qb70avd7h07hhp00.png)
 
 
 *检查PHP信息*
@@ -62,7 +62,7 @@ PHP是HTML的嵌入脚本，它便于开发人员快速写出动态生成的页�
 
 ```
 
-![Check PHP info from Commandline](/Asserts/Images//attachment/album/201507/28/002202himv1tlv2i0tmmvq.png)
+![Check PHP info from Commandline](/Asserts/Images/album/201507/28/002202himv1tlv2i0tmmvq.png)
 
 
 *从命令行检查PHP信息*
@@ -77,7 +77,7 @@ PHP是HTML的嵌入脚本，它便于开发人员快速写出动态生成的页�
 
 ```
 
-![Check All PHP Info](/Asserts/Images//attachment/album/201507/28/002202wmxa0bndd44hh0ku.png)
+![Check All PHP Info](/Asserts/Images/album/201507/28/002202wmxa0bndd44hh0ku.png)
 
 
 *检查所有PHP信息*
@@ -95,7 +95,7 @@ PHP是HTML的嵌入脚本，它便于开发人员快速写出动态生成的页�
 
 ```
 
-![PHP Debugging Tool](/Asserts/Images//attachment/album/201507/28/002203sv7s6snt66c434ag.png)
+![PHP Debugging Tool](/Asserts/Images/album/201507/28/002203sv7s6snt66c434ag.png)
 
 
 *PHP调试工具*
@@ -134,7 +134,7 @@ php > exit
 输入 ‘exit‘ 或者按下 ‘ctrl+c‘ 来关闭PHP交互模式。
 
 
-![Enable PHP Interactive Mode](/Asserts/Images//attachment/album/201507/28/002203p21ncdzdhgrxywg5.png)
+![Enable PHP Interactive Mode](/Asserts/Images/album/201507/28/002203p21ncdzdhgrxywg5.png)
 
 
 *启用PHP交互模式*
@@ -265,7 +265,7 @@ php > var_dump (addition(9,3.3));
 
 ```
 
-![Create PHP Functions](/Asserts/Images//attachment/album/201507/28/002204c8gxngcmzbs6s6aq.png)
+![Create PHP Functions](/Asserts/Images/album/201507/28/002204c8gxngcmzbs6s6aq.png)
 
 
 *创建PHP函数*
@@ -301,7 +301,7 @@ php { return $a + $b;
 这里是一个样例，在该样例的输出结果中返回了正确的数据类型。
 
 
-![PHP Functions](/Asserts/Images//attachment/album/201507/28/002204bfvaqizj0iqvf5na.png)
+![PHP Functions](/Asserts/Images/album/201507/28/002204bfvaqizj0iqvf5na.png)
 
 
 *PHP函数*

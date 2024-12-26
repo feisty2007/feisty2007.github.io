@@ -7,7 +7,7 @@ tags:	[linuxcn,时区,时钟]
 ---
 
 
-![date-time](/Asserts/Images//attachment/album/201502/01/103304x8fweirf0ze8k0b3.jpg)
+![date-time](/Asserts/Images/album/201502/01/103304x8fweirf0ze8k0b3.jpg)
 
 
 **无论我是要在醒来时发个关于澳大利亚的 Chromebook 销售已经售罄的推特，还是要记着和Ohso的半个开发商山姆陈进行Skype通话，我大脑都需要同时工作在多个时区下。**
@@ -22,7 +22,7 @@ tags:	[linuxcn,时区,时钟]
 **它的名字就是我们标题上提到的那个。**
 
 
-![](/Asserts/Images//attachment/album/201502/01/103305gnadtvvmdhtu1z9a.jpg)
+![](/Asserts/Images/album/201502/01/103305gnadtvvmdhtu1z9a.jpg)
 
 
 ### 添加世界时钟到Ubuntu日期/时间小应用
@@ -52,7 +52,7 @@ Unity中默认的日期-时间指示器提供了添加并查看多个时区的�
 **GNOME Shell**的可扩展特性可以看到有许多世界时钟选项可用，可以用它的默认时间表填补左边的空白，我个人喜欢‘[多个时钟](https://extensions.gnome.org/extension/605/multiclock/)’。对于**Cinnamon**桌面而言也是一样的，它的‘面板小部件’仓库有丰富的可选部件，如超级顺滑的“**世界时钟日历**”。
 
 
-![World Clock Calendar in Cinnamon 2.4](/Asserts/Images//attachment/album/201502/01/103307bwmsbp4b9d9wkika.jpg)
+![World Clock Calendar in Cinnamon 2.4](/Asserts/Images/album/201502/01/103307bwmsbp4b9d9wkika.jpg)
 
 
 *Cinnamon 2.4中的世界时钟日历*

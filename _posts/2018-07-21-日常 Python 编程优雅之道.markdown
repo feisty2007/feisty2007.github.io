@@ -15,7 +15,7 @@ tags:	[linuxcn,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/22/144349jn000yv7w5m7nk9v.jpg)
+![](/Asserts/Images/album/201807/22/144349jn000yv7w5m7nk9v.jpg)
 
 
 Python 提供了一组独特的工具和语言特性来使你的代码更加优雅、可读和直观。为正确的问题选择合适的工具，你的代码将更易于维护。在本文中，我们将研究其中的三个工具：魔术方法、迭代器和生成器，以及方法魔术。
@@ -107,7 +107,7 @@ class Money:
 
 ```
 
-当我们将两个实例加在一起时，我们得到以第一个定义的货币符号所表示的结果。所有的转换都是在底层无缝完成的。如果我们想的话，我们也可以为减法实现 `__sub__`，为乘法实现 `__mul__` 等等。阅读[模拟数字类型](https://docs.python.org/3/reference/Asserts/Images/model.html#emulating-numeric-types)或[魔术方法指南](https://rszalski.github.io/magicmethods/)来获得更多信息。
+当我们将两个实例加在一起时，我们得到以第一个定义的货币符号所表示的结果。所有的转换都是在底层无缝完成的。如果我们想的话，我们也可以为减法实现 `__sub__`，为乘法实现 `__mul__` 等等。阅读[模拟数字类型](https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types)或[魔术方法指南](https://rszalski.github.io/magicmethods/)来获得更多信息。
 
 
 我们学习到 `__add__` 映射到内置运算符 `+`。其他魔术方法可以映射到像 `[]` 这样的符号。例如，在字典中通过索引或键来获得一项，其实是使用了 `__getitem__` 方法：
@@ -263,7 +263,7 @@ class Server:
 `yield` 关键字到底是什么？在定义生成器函数时使用 yield。这有点像 `return`，虽然 `return` 在返回值后退出函数，但 `yield` 会暂停执行直到下次调用它。这允许你的生成器的功能在它恢复之前保持状态。查看 [yield 的文档](https://docs.python.org/3/reference/expressions.html#yieldexpr)以了解更多信息。使用生成器，我们不必通过记住我们的位置来手动维护状态。生成器只知道两件事：它现在需要做什么以及计算下一个项目需要做什么。一旦我们到达执行点，即 `yield` 不再被调用，我们就知道停止迭代。
 
 
-这是因为一些内置的 Python 魔法。在 [Python 关于 `__iter__()` 的文档](https://docs.python.org/3/reference/Asserts/Images/model.html#object.__iter__)中我们可以看到，如果 `__iter__()` 是作为一个生成器实现的，它将自动返回一个迭代器对象，该对象提供 `__iter__()` 和 `__next__()` 方法。阅读这篇很棒的文章，深入了解[迭代器，可迭代对象和生成器](http://nvie.com/posts/iterators-vs-generators/)。
+这是因为一些内置的 Python 魔法。在 [Python 关于 `__iter__()` 的文档](https://docs.python.org/3/reference/datamodel.html#object.__iter__)中我们可以看到，如果 `__iter__()` 是作为一个生成器实现的，它将自动返回一个迭代器对象，该对象提供 `__iter__()` 和 `__next__()` 方法。阅读这篇很棒的文章，深入了解[迭代器，可迭代对象和生成器](http://nvie.com/posts/iterators-vs-generators/)。
 
 
 ### 方法魔法

@@ -15,7 +15,7 @@ tags:	[linuxcn,开源]
 > 
 
 
-![](/Asserts/Images//attachment/album/201908/04/232059iqumpunhqymcqn44.png)
+![](/Asserts/Images/album/201908/04/232059iqumpunhqymcqn44.png)
 
 
 在本期开源新闻综述中，我们分享了 Facebook 开源了两种算法来查找有害内容，Apple 在数据传输项目中的新角色以及你应该知道的更多新闻。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Ledger,财务]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/13/124053qclqspp9ps2tp3q4.jpg)
+![](/Asserts/Images/album/201807/13/124053qclqspp9ps2tp3q4.jpg)
 
 
 自 2005 年搬到加拿大以来，我使用 [Ledger CLI](http://www.ledger-cli.org/) 来跟踪我的财务状况。我喜欢纯文本的方式，它支持虚拟信封意味着我可以同时将我的银行帐户余额和我的虚拟分配到不同的目录下。以下是我们如何使用这些虚拟信封分别管理我们的财务状况。

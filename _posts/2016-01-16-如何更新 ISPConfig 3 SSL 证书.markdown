@@ -14,7 +14,7 @@ tags:	[linuxcn,SSL]
 * 用 ISPConfig updater 更新 SSL 证书
 
 
-![](/Asserts/Images//attachment/album/201601/15/063937wjrozr22i804u4qa.png)
+![](/Asserts/Images/album/201601/15/063937wjrozr22i804u4qa.png)
 
 
 我将从用手工的方法更新 SSL 证书开始。

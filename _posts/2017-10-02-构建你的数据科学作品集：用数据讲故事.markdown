@@ -7,12 +7,12 @@ tags:	[linuxcn,数据科学]
 ---
 
 
-![](/Asserts/Images//attachment/album/201710/22/205831m4we17ipgm7e66us.jpg)
+![](/Asserts/Images/album/201710/22/205831m4we17ipgm7e66us.jpg)
 
 
 
 > 
-> 这是如何建立<ruby> 数据科学作品集 <rt>  Data Science Portfolio </rt></ruby>系列文章中的第一篇。如果你喜欢这篇文章并且想知道此系列的下一篇文章何时发表，你可以[在页面底部订阅](https://www.dataquest.io/blog/Asserts/Images/-science-portfolio-project/#email-signup)。
+> 这是如何建立<ruby> 数据科学作品集 <rt>  Data Science Portfolio </rt></ruby>系列文章中的第一篇。如果你喜欢这篇文章并且想知道此系列的下一篇文章何时发表，你可以[在页面底部订阅](https://www.dataquest.io/blog/data-science-portfolio-project/#email-signup)。
 > 
 > 
 > 
@@ -69,7 +69,7 @@ tags:	[linuxcn,数据科学]
 
 
 * [Data.gov](https://www.data.gov/) - 包含了政府数据。
-* [/r/Asserts/Images/sets](https://reddit.com/r/Asserts/Images/sets) – 一个有着上百个有趣数据集的 reddit 板块。
+* [/r/datasets](https://reddit.com/r/datasets) – 一个有着上百个有趣数据集的 reddit 板块。
 * [Awesome datasets](https://github.com/caesar0301/awesome-public-datasets) – 一个数据集的列表，位于 Github 上。
 * [17 个找到数据集的地方](https://www.dataquest.io/blog/free-datasets-for-projects/) – 这篇博文列出了 17 个数据集，每个都包含了示例数据集。
 
@@ -77,7 +77,7 @@ tags:	[linuxcn,数据科学]
 真实世界中的数据科学，你经常无法找到可以浏览的合适的单个数据集。你可能需要聚合多个独立的数据源，或者做数量庞大的数据清理。如果该主题非常吸引你，这是值得这样做的，并且也能更好的展示你的技能。
 
 
-关于这篇文章的主题，我们将使用纽约市公立学校的数据，我们可以在[这里](https://Asserts/Images/.cityofnewyork.us/Asserts/Images/?cat=education)找到它。
+关于这篇文章的主题，我们将使用纽约市公立学校的数据，我们可以在[这里](https://data.cityofnewyork.us/data?cat=education)找到它。
 
 
 ### 选择主题
@@ -92,7 +92,7 @@ tags:	[linuxcn,数据科学]
 因为由关于 SAT 分数对于美国中某些种族群体是不公平的，所以对纽约市这个数据做分析能够对 SAT 的公平性有些许帮助。
 
 
-我们在[这里](https://Asserts/Images/.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4)有 SAT 成绩的数据集，并且在[这里](https://Asserts/Images/.cityofnewyork.us/Education/DOE-High-School-Directory-2014-2015/n3p6-zve2)有包含了每所高中的信息的数据集。这些将构成我们的工程的基础，但是我们将加入更多的信息来创建有趣的分析。
+我们在[这里](https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4)有 SAT 成绩的数据集，并且在[这里](https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2014-2015/n3p6-zve2)有包含了每所高中的信息的数据集。这些将构成我们的工程的基础，但是我们将加入更多的信息来创建有趣的分析。
 
 
 ### 补充数据
@@ -107,15 +107,15 @@ tags:	[linuxcn,数据科学]
 这些是我们将会用到的所有数据集：
 
 
-* [学校 SAT 成绩](https://Asserts/Images/.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4) – 纽约市每所高中的 SAT 成绩。
-* [学校出勤情况](https://Asserts/Images/.cityofnewyork.us/Education/School-Attendance-and-Enrollment-Statistics-by-Dis/7z8d-msnt) – 纽约市每所学校的出勤信息。
-* [数学成绩](https://Asserts/Images/.cityofnewyork.us/Education/NYS-Math-Test-Results-By-Grade-2006-2011-School-Le/jufi-gzgp) – 纽约市每所学校的数学成绩。
-* [班级规模](https://Asserts/Images/.cityofnewyork.us/Education/2010-2011-Class-Size-School-level-detail/urz7-pzb3) - 纽约市每所学校课堂人数信息。
-* [AP 成绩](https://Asserts/Images/.cityofnewyork.us/Education/AP-College-Board-2010-School-Level-Results/itfs-ms3e) - 高阶位考试，在美国，通过 AP 测试就能获得大学学分。
-* [毕业去向](https://Asserts/Images/.cityofnewyork.us/Education/Graduation-Outcomes-Classes-Of-2005-2010-School-Le/vh2h-md7a) – 由百分之几的学生毕业了，和其它去向信息。
-* [人口统计](https://Asserts/Images/.cityofnewyork.us/Education/School-Demographics-and-Accountability-Snapshot-20/ihfw-zy9j) – 每个学校的人口统计信息。
-* [学校问卷](https://Asserts/Images/.cityofnewyork.us/Education/NYC-School-Survey-2011/mnz3-dyi8) – 学校的家长、教师，学生的问卷。
-* [学校分布地图](https://Asserts/Images/.cityofnewyork.us/Education/School-Districts/r8nu-ymqj) – 包含学校的区域布局信息，因此我们能将它们在地图上标出。
+* [学校 SAT 成绩](https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4) – 纽约市每所高中的 SAT 成绩。
+* [学校出勤情况](https://data.cityofnewyork.us/Education/School-Attendance-and-Enrollment-Statistics-by-Dis/7z8d-msnt) – 纽约市每所学校的出勤信息。
+* [数学成绩](https://data.cityofnewyork.us/Education/NYS-Math-Test-Results-By-Grade-2006-2011-School-Le/jufi-gzgp) – 纽约市每所学校的数学成绩。
+* [班级规模](https://data.cityofnewyork.us/Education/2010-2011-Class-Size-School-level-detail/urz7-pzb3) - 纽约市每所学校课堂人数信息。
+* [AP 成绩](https://data.cityofnewyork.us/Education/AP-College-Board-2010-School-Level-Results/itfs-ms3e) - 高阶位考试，在美国，通过 AP 测试就能获得大学学分。
+* [毕业去向](https://data.cityofnewyork.us/Education/Graduation-Outcomes-Classes-Of-2005-2010-School-Le/vh2h-md7a) – 由百分之几的学生毕业了，和其它去向信息。
+* [人口统计](https://data.cityofnewyork.us/Education/School-Demographics-and-Accountability-Snapshot-20/ihfw-zy9j) – 每个学校的人口统计信息。
+* [学校问卷](https://data.cityofnewyork.us/Education/NYC-School-Survey-2011/mnz3-dyi8) – 学校的家长、教师，学生的问卷。
+* [学校分布地图](https://data.cityofnewyork.us/Education/School-Districts/r8nu-ymqj) – 包含学校的区域布局信息，因此我们能将它们在地图上标出。
 
 
 （LCTT 译注：高阶位考试（AP）是美国和加拿大的一个由大学委员会创建的计划，该计划为高中学生提供大学水平的课程和考试。 美国学院和大学可以授予在考试中获得高分的学生的就学和课程学分。）
@@ -168,7 +168,7 @@ for f in files:
 
 ```
 
-一旦我们将数据读入，我们就可以使用 DataFrames 的 [head](https://www.dataquest.io/blog/Asserts/Images/-science-portfolio-project/) 方法打印每个 DataFrame 的前五行。
+一旦我们将数据读入，我们就可以使用 DataFrames 的 [head](https://www.dataquest.io/blog/data-science-portfolio-project/) 方法打印每个 DataFrame 的前五行。
 
 
 In [103]:
@@ -585,7 +585,7 @@ Out[16]:
 我们可以通过查看数据文件夹中伴随问卷数据下载下来的文件来解决这个问题。它告诉我们们数据中重要的部分是哪些：
 
 
-![](/Asserts/Images//attachment/album/201710/22/210107mcffn6xt88xfxxtu.png)
+![](/Asserts/Images/album/201710/22/210107mcffn6xt88xfxxtu.png)
 
 
 我们可以去除 `survey` 数据集中多余的列：
@@ -1272,7 +1272,7 @@ schools_map
 Out[82]:
 
 
-![](/Asserts/Images//attachment/album/201710/22/210109yzwnyr56y9wn18nb.png)
+![](/Asserts/Images/album/201710/22/210109yzwnyr56y9wn18nb.png)
 
 
 这个地图十分有用，但是不容易查看纽约哪里学校最多。因此，我们将用热力图来代替它：
@@ -1293,7 +1293,7 @@ schools_heatmap
 Out[84]:
 
 
-![](/Asserts/Images//attachment/album/201710/22/210112ujzoji0x0qtthqmb.png)
+![](/Asserts/Images/album/201710/22/210112ujzoji0x0qtthqmb.png)
 
 
 ### 区域级别映射
@@ -1351,7 +1351,7 @@ show_district_map("sat_score")
 Out[85]:
 
 
-![](/Asserts/Images//attachment/album/201710/22/210114q8h887kp6h1a0f0d.png)
+![](/Asserts/Images/album/201710/22/210114q8h887kp6h1a0f0d.png)
 
 
 ### 挖掘注册学生数与SAT分数
@@ -1384,7 +1384,7 @@ Out[87]:
 
 ```
 
-![](/Asserts/Images//attachment/album/201710/22/205221xdmq42xybbyxxcjg.jpg)
+![](/Asserts/Images/album/201710/22/205221xdmq42xybbyxxcjg.jpg)
 
 
 如你所见，底下角注册人数较低的部分有个较低 SAT 成绩的聚集。这个集群以外，SAT 成绩与全部注册人数只有轻微正相关。这个画出的关联显示了意想不到的图形.
@@ -1450,7 +1450,7 @@ Out[89]:
 
 ```
 
-![](/Asserts/Images//attachment/album/201710/22/205251usn0lysp8lnnt8ml.jpg)
+![](/Asserts/Images/album/201710/22/205251usn0lysp8lnnt8ml.jpg)
 
 
 看起来这里有一组学校有着高的 `ell_percentage` 值并且有着低的 SAT 成绩。我们可以在学区层面调查这个关系，通过找出每个学区英语学习者所占的比例，并且查看是否与我们的学区层面的 SAT 地图所匹配：
@@ -1468,7 +1468,7 @@ show_district_map("ell_percent")
 Out[90]:
 
 
-![](/Asserts/Images//attachment/album/201710/22/210116ggxdlddgh88dhcll.png)
+![](/Asserts/Images/album/201710/22/210116ggxdlddgh88dhcll.png)
 
 
 我们可通过两个区域层面地图来查看，一个低 ELL（English-language）学习者比例的地区更倾向有高 SAT 成绩，反之亦然。
@@ -1498,7 +1498,7 @@ Out[91]:
 
 ```
 
-![](/Asserts/Images//attachment/album/201710/22/205319o3o3ofl6xknayyyj.jpg)
+![](/Asserts/Images/album/201710/22/205319o3o3ofl6xknayyyj.jpg)
 
 
 惊人的是，关联最大的两个因子是 `N_p` 和 `N_s`，它们分别是家长和学生回应的问卷。都与注册人数有着强关联，所以很可能偏离了 `ell_learner`。此外指标关联最强的就是 `saf_t_11`，这是学生、家长和老师对学校安全程度的感知。这说明了，越安全的学校，更能让学生在环境里安心学习。然而其它因子，像互动、交流和学术水平都与 SAT 分数无关，这也许表明了纽约在问卷中问了不理想的问题或者想错了因子（如果他们的目的是提高 SAT 分数的话）。
@@ -1528,7 +1528,7 @@ Out[92]:
 
 ```
 
-![](/Asserts/Images//attachment/album/201710/22/205344iiah3s2gyh0n4i8i.jpg)
+![](/Asserts/Images/album/201710/22/205344iiah3s2gyh0n4i8i.jpg)
 
 
 看起来更高比例的白种和亚洲学生与更高的 SAT 分数有关联，而更高比例的黑人和西班牙裔与更低的 SAT 分数有关联。对于西班牙学生，这可能因为近年的移民还是英语学习者的事实。我们可以标出学区层面的西班牙裔的比例并观察联系。
@@ -1546,7 +1546,7 @@ show_district_map("hispanic_per")
 Out[93]:
 
 
-![](/Asserts/Images//attachment/album/201710/22/210118co5xdtccihtcoid6.png)
+![](/Asserts/Images/album/201710/22/210118co5xdtccihtcoid6.png)
 
 
 看起来这里与英语学习者比例有关联，但是有必要对这种和其它种族在 SAT 分数上的差异进行挖掘。
@@ -1576,7 +1576,7 @@ Out[94]:
 
 ```
 
-![](/Asserts/Images//attachment/album/201710/22/205412svzwa7rt17w9a1v7.jpg)
+![](/Asserts/Images/album/201710/22/205412svzwa7rt17w9a1v7.jpg)
 
 
 为了挖掘更多的关联性，我们可以制作一个 `female_per` 和 `sat_score` 的散点图：
@@ -1600,7 +1600,7 @@ Out[95]:
 
 ```
 
-![](/Asserts/Images//attachment/album/201710/22/205435dvevmflfnmf2dn1d.jpg)
+![](/Asserts/Images/album/201710/22/205435dvevmflfnmf2dn1d.jpg)
 
 
 看起来这里有一个高女生比例、高 SAT 成绩的簇（右上角）（LCTT 译注：此处散点图并未有如此迹象，可能数据图有误）。我们可以获取簇中学校的名字：
@@ -1660,7 +1660,7 @@ Out[98]:
 
 ```
 
-![](/Asserts/Images//attachment/album/201710/22/205510gvev33irla3efirf.jpg)
+![](/Asserts/Images/album/201710/22/205510gvev33irla3efirf.jpg)
 
 
 看起来它们之间确实有着很强的关联。有趣的是右上角高 SAT 分数的学校有着高的 AP 测试通过比例：
@@ -1725,7 +1725,7 @@ Name: School Name, dtype: object
 ---
 
 
-via: <https://www.dataquest.io/blog/Asserts/Images/-science-portfolio-project/>
+via: <https://www.dataquest.io/blog/data-science-portfolio-project/>
 
 
 作者：[Vik Paruchuri](http://twitter.com/vikparuchuri)  译者：[Yoo-4x] 校对：[wxy](https://github.com/wxy)

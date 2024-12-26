@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/19/145310cwrqiaapk8qwiaqr.jpg)
+![](/Asserts/Images/album/202306/19/145310cwrqiaapk8qwiaqr.jpg)
 
 
 如果你正在找寻适合你的系统的完美发行版，那么选择基于 Ubuntu 的发行版的可能性非常高。
@@ -28,7 +28,7 @@ tags:	[linuxcn,Ubuntu]
 ### 1、Ubuntu 官方衍生版
 
 
-![budgie desktop screenshot 2022](/Asserts/Images//attachment/album/202306/19/145347unwp6xizuxwc69ff.png)
+![budgie desktop screenshot 2022](/Asserts/Images/album/202306/19/145347unwp6xizuxwc69ff.png)
 
 
 如果你不喜欢 Ubuntu 官方提供的 GNOME 桌面环境，你可以尝试官方衍生版，它们在 Ubuntu 的基础上提供了不同的桌面环境。
@@ -74,7 +74,7 @@ tags:	[linuxcn,Ubuntu]
 ### 2、Linux Mint
 
 
-![linux mint 21 home](/Asserts/Images//attachment/album/202306/19/145348m1clpzjiprldxkvj.jpg)
+![linux mint 21 home](/Asserts/Images/album/202306/19/145348m1clpzjiprldxkvj.jpg)
 
 
 Linux Mint 的主要特点：
@@ -107,7 +107,7 @@ Linux Mint 包括了基本必备的应用软件，包括办公套件和满足多
 ### 3、Pop!\_OS
 
 
-![pop os screenshot 2022](/Asserts/Images//attachment/album/202306/19/145348vhps6hch2x55iipi.png)
+![pop os screenshot 2022](/Asserts/Images/album/202306/19/145348vhps6hch2x55iipi.png)
 
 
 Pop!\_OS 的主要特点：
@@ -139,7 +139,7 @@ Pop!\_OS 定期更新 Linux 内核包，在本文撰写时运行 Linux 内核 5.
 ### 4、KDE Neon
 
 
-![kde neon screenshot 2022](/Asserts/Images//attachment/album/202306/19/145349tn0en4n1d3rrvh1x.png)
+![kde neon screenshot 2022](/Asserts/Images/album/202306/19/145349tn0en4n1d3rrvh1x.png)
 
 
 KDE Neon 的主要特点：
@@ -172,7 +172,7 @@ KDE Neon 的主要特点：
 ### 5、elementaryOS
 
 
-![elementaryos screenshot 2022](/Asserts/Images//attachment/album/202306/19/145349muox00xvzix4vvqi.png)
+![elementaryos screenshot 2022](/Asserts/Images/album/202306/19/145349muox00xvzix4vvqi.png)
 
 
 elementaryOS 的主要特点：
@@ -203,7 +203,7 @@ elementaryOS 的主要特点：
 ### 6、Zorin OS
 
 
-![zorin os home screenshot](/Asserts/Images//attachment/album/202306/19/145350iel4ym4ya6068eaa.png)
+![zorin os home screenshot](/Asserts/Images/album/202306/19/145350iel4ym4ya6068eaa.png)
 
 
 Zorin OS 的主要特点：
@@ -231,7 +231,7 @@ Zorin OS 是另一个基于 Ubuntu 的发行版，为用户提供了精心打磨
 ### 7、Linux Lite
 
 
-![linux lite](/Asserts/Images//attachment/album/202306/19/145351xdd02ng2pgdz02bo.png)
+![linux lite](/Asserts/Images/album/202306/19/145351xdd02ng2pgdz02bo.png)
 
 
 Linux Lite 的主要特点：
@@ -259,7 +259,7 @@ Linux Lite 的主要特点：
 ### 8、Voyager
 
 
-![voyager linux](/Asserts/Images//attachment/album/202306/19/145351jttbizzzbti88bxh.png)
+![voyager linux](/Asserts/Images/album/202306/19/145351jttbizzzbti88bxh.png)
 
 
 Voyager 的主要特点：
@@ -292,7 +292,7 @@ Voyager 提供了一个定制外观，带给用户古老而有格调的 Linux �
 ### 9、Feren OS
 
 
-![feren os screenshot 2022](/Asserts/Images//attachment/album/202306/19/145352n3xn1wbn0na9tby9.png)
+![feren os screenshot 2022](/Asserts/Images/album/202306/19/145352n3xn1wbn0na9tby9.png)
 
 
 Feren OS 的主要特点：
@@ -320,7 +320,7 @@ Feren OS 的主要特点：
 ### 10、LXLE
 
 
-![lxle screenshot 2022](/Asserts/Images//attachment/album/202306/19/145353ywdurtqrzteu62zr.png)
+![lxle screenshot 2022](/Asserts/Images/album/202306/19/145353ywdurtqrzteu62zr.png)
 
 
 LXLE 的主要特点：
@@ -350,7 +350,7 @@ LXLE 是基于 Lubuntu 的，因此你可以想象到它的内存占用会很轻
 ### 11、UbuntuDDE Remix
 
 
-![ubuntudde remix](/Asserts/Images//attachment/album/202306/19/145442mllmqt909id8q45z.jpg)
+![ubuntudde remix](/Asserts/Images/album/202306/19/145442mllmqt909id8q45z.jpg)
 
 
 UbuntuDDE Remix 的主要特点：

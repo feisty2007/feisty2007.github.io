@@ -15,7 +15,7 @@ tags:	[linuxcn,zip]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/14/144901jd8d9m161m1q8dm0.jpg)
+![](/Asserts/Images/album/202302/14/144901jd8d9m161m1q8dm0.jpg)
 
 
 这篇文章是 [Linux 命令](https://www.debugpoint.com/category/linux-commands)学习系列的一部分。
@@ -113,7 +113,7 @@ adding: file3.mp3 (deflated 13%)
 
 ```
 
-![Linux 中基本压缩命令的输出](/Asserts/Images//attachment/album/202302/14/144907zza6qlo0la2ttgmo.jpg)
+![Linux 中基本压缩命令的输出](/Asserts/Images/album/202302/14/144907zza6qlo0la2ttgmo.jpg)
 
 
 这里你应该记住几个要点。

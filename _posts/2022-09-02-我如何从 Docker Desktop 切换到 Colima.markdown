@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/29/095328wj3ypm34pyyy3rrp.jpg)
+![](/Asserts/Images/album/202209/29/095328wj3ypm34pyyy3rrp.jpg)
 
 
 
@@ -39,7 +39,7 @@ Colima 要求安装 Docker 或 [Podman](https://opensource.com/article/22/2/star
 Docker 默认随 Docker Desktop for macOS 一起安装，但它也可以作为独立命令使用。如果你想要 100% 纯 Colima，你可以卸载 Docker Desktop for macOS，并独立安装和配置 Docker 客户端。[完整的安装说明可以在 DDEV 文档站点上找到](https://ddev.readthedocs.io/en/stable/users/docker_installation/#macos-installation-colima)。
 
 
-![容器技术栈图片](/Asserts/Images//attachment/album/202209/29/095334gvd6hh27uxkwj6zy.png)
+![容器技术栈图片](/Asserts/Images/album/202209/29/095334gvd6hh27uxkwj6zy.png)
 
 
 *容器技术栈图片 图片来源：（Mike Anello，CC BY-SA 4.0）*

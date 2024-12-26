@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包,安装]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/14/222157feyljytzazss7es9.jpg)
+![](/Asserts/Images/album/201810/14/222157feyljytzazss7es9.jpg)
 
 
 我们知道，如果想要在 Linux 中安装软件包，可以使用软件包管理器来进行安装。由于系统管理员需要频繁用到软件包管理器，所以它是 Linux 当中的一个重要工具。

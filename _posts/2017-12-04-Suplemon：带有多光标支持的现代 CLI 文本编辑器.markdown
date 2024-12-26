@@ -7,7 +7,7 @@ tags:	[linuxcn,编辑器,suplemon]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/12/145414by3qq9c0qq6cwq6y.jpg)
+![](/Asserts/Images/album/201712/12/145414by3qq9c0qq6cwq6y.jpg)
 
 
 Suplemon 是一个 CLI 中的现代文本编辑器，它模拟 [Sublime Text](https://linoxide.com/tools/install-sublime-text-editor-linux/) 的多光标行为和其它特性。它是轻量级的，非常易于使用，就像 Nano 一样。
@@ -19,7 +19,7 @@ Suplemon 是一个 CLI 中的现代文本编辑器，它模拟 [Sublime Text](ht
 你可以在其[官方仓库](https://github.com/richrd/suplemon/)中找到有用的信息和源代码。
 
 
-![](/Asserts/Images//attachment/album/201712/12/145300apahtbzdei3ird7a.gif)
+![](/Asserts/Images/album/201712/12/145300apahtbzdei3ird7a.gif)
 
 
 ### 功能
@@ -72,7 +72,7 @@ $ suplemon
 你将看到如下：
 
 
-![suplemon new file](/Asserts/Images//attachment/album/201712/12/145301nm2z0avr2t55i2lo.png)
+![suplemon new file](/Asserts/Images/album/201712/12/145301nm2z0avr2t55i2lo.png)
 
 
 #### 打开一个或多个文件

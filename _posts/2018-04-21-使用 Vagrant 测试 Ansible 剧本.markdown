@@ -7,13 +7,13 @@ tags:	[linuxcn,Ansible,Vagrant]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/01/092418voo2vvvnzsns3rxp.jpg)
+![](/Asserts/Images/album/201804/01/092418voo2vvvnzsns3rxp.jpg)
 
 
 我使用 Ansible 来自动部署站点 ([LinuxJobs.fr](https://www.linuxjobs.fr)、[Journal du hacker](https://www.journalduhacker.net)) 与应用 ([Feed2toot](https://gitlab.com/chaica/feed2toot)、[Feed2tweet](https://gitlab.com/chaica/feed2tweet))。在本文中将会讲述我是如何配置以实现在本地测试 Ansbile <ruby> 剧本 <rt>  playbook </rt></ruby>的。
 
 
-![ansible](/Asserts/Images//attachment/album/201804/01/092426hvzfqq7om3frd3pf.png)
+![ansible](/Asserts/Images/album/201804/01/092426hvzfqq7om3frd3pf.png)
 
 
 ### 为何要测试 Ansible 剧本
@@ -45,7 +45,7 @@ tags:	[linuxcn,Ansible,Vagrant]
 首先，你需要 Virtualbox。若你使用的是 [Debian](https://www.debian.org) 发行版，[这个链接](https://wiki.debian.org/VirtualBox) 描述了安装的方法，可以从 Debian 仓库中安装，也可以通过官网来安装。
 
 
-[![](/Asserts/Images//attachment/album/201804/01/092427uk1obl1letujazex.png)](https://www.virtualbox.org/)
+[![](/Asserts/Images/album/201804/01/092427uk1obl1letujazex.png)](https://www.virtualbox.org/)
 
 
 其次，你需要 Vagrant。为什么要 Vagrant？因为它是介于开发环境和虚拟机之间的中间件，它允许通过编程的方式重复操作，而且可以很方便地将你的部署环境与虚拟机连接起来。通过下面命令可以安装 Vagrant：
@@ -57,7 +57,7 @@ tags:	[linuxcn,Ansible,Vagrant]
 
 ```
 
-[![](/Asserts/Images//attachment/album/201804/01/092427dxu0samsh3md3sho.png)](https://www.vagrantup.com/)
+[![](/Asserts/Images/album/201804/01/092427dxu0samsh3md3sho.png)](https://www.vagrantup.com/)
 
 
 ### 设置 Vagrant

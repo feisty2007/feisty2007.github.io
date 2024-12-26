@@ -15,19 +15,19 @@ tags:	[linuxcn,加密,分区,Windows]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/22/144133k6n9xsnnt46t0z94.jpg)
+![](/Asserts/Images/album/202111/22/144133k6n9xsnnt46t0z94.jpg)
 
 
 你可以轻松地从 Linux 中访问 Windows 文件。没有什么高科技的东西。只要进入文件管理器，点击通常位于“<ruby> 其他位置 <rt>  Other Locations </rt></ruby>”标签下的 Windows 分区。
 
 
-![Mounting Windows partition through the file manager in Linux desktop](/Asserts/Images//attachment/album/202111/22/144146t9qo6pytmpqdpu2t.png)
+![Mounting Windows partition through the file manager in Linux desktop](/Asserts/Images/album/202111/22/144146t9qo6pytmpqdpu2t.png)
 
 
 对于 BitLocker 加密的 Windows 分区来说，这个过程也不是太复杂。只是当你试图挂载 Windows 分区时，它会要求你输入密码。
 
 
-![Password required for encrypted Windows drive mount in Linux](/Asserts/Images//attachment/album/202111/22/144147a3u888k89c88oes8.png)
+![Password required for encrypted Windows drive mount in Linux](/Asserts/Images/album/202111/22/144147a3u888k89c88oes8.png)
 
 
 这是能工作的。在我的情况中，我输入了 48 位 BitLocker 恢复密码，它解密了 Windows 分区，并在带有 GNOME 40 的 Ubuntu 21.10 中毫无问题地挂载了它。
@@ -42,7 +42,7 @@ tags:	[linuxcn,加密,分区,Windows]
 输入恢复密码，你会看到 Windows 分区和它的文件现在可以访问。勾选“<ruby> 记住密码 <rt>  Remember Password </rt></ruby>”框也是为了进一步使用而节省时间。
 
 
-![Encrypted Windows partition now mounted in Linux](/Asserts/Images//attachment/album/202111/22/144147hb5zs8kjuu5uv5pj.png)
+![Encrypted Windows partition now mounted in Linux](/Asserts/Images/album/202111/22/144147hb5zs8kjuu5uv5pj.png)
 
 
 如果上述方法对你不起作用，或者你不熟悉命令行，还有一个替代方法。
@@ -78,7 +78,7 @@ sudo apt install dislocker
 
 ```
 
-![Installing Dislocker in Ubuntu](/Asserts/Images//attachment/album/202111/22/144148y36p9e9ztz699l9u.png)
+![Installing Dislocker in Ubuntu](/Asserts/Images/album/202111/22/144148y36p9e9ztz699l9u.png)
 
 
 #### 步骤 2：创建挂载点
@@ -100,7 +100,7 @@ sudo mkdir -p /media/windows-mount
 
 ```
 
-![Creating mount points for dislocker](/Asserts/Images//attachment/album/202111/22/144148v100x4xd0bvidzre.png)
+![Creating mount points for dislocker](/Asserts/Images/album/202111/22/144148v100x4xd0bvidzre.png)
 
 
 #### 步骤 3：获取需要解密的分区信息
@@ -109,7 +109,7 @@ sudo mkdir -p /media/windows-mount
 你需要 Windows 分区的名称。你可以使用文件资源管理器或像 Gparted 这样的 GUI 工具。
 
 
-![Get the partition name](/Asserts/Images//attachment/album/202111/22/144148c5dmmedf16ef9m5t.png)
+![Get the partition name](/Asserts/Images/album/202111/22/144148c5dmmedf16ef9m5t.png)
 
 
 在我的例子中，Windows 分区是 `/dev/nvme0n1p3`。对你的系统来说，这将是不同的。你也可以使用命令行来达到这个目的。
@@ -154,13 +154,13 @@ sudo mount -o loop /media/decrypt/dislocker-file /media/windows-mount
 
 ```
 
-![](/Asserts/Images//attachment/album/202111/22/144149mye8qve8hirmxqjv.png)
+![](/Asserts/Images/album/202111/22/144149mye8qve8hirmxqjv.png)
 
 
 完成了。你的 BitLocker 加密的 Windows 分区已经被解密并挂载到 Linux 中。你也可以从文件资源管理器中访问它。
 
 
-![Mounting Dislocker decrypted Windows partition with file manager](/Asserts/Images//attachment/album/202111/22/144149lqqvg3gvgk5r44sd.png)
+![Mounting Dislocker decrypted Windows partition with file manager](/Asserts/Images/album/202111/22/144149lqqvg3gvgk5r44sd.png)
 
 
 #### 文件系统类型错误的故障排除提示

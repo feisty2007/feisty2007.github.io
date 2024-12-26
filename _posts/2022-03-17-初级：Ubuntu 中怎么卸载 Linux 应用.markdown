@@ -7,7 +7,7 @@ tags:	[linuxcn,应用,删除]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/26/151617chxhdszd0lcpcpkz.jpg)
+![](/Asserts/Images/album/202203/26/151617chxhdszd0lcpcpkz.jpg)
 
 
 不再使用某个应用程序了？删除它吧。
@@ -36,25 +36,25 @@ tags:	[linuxcn,应用,删除]
 在左侧栏或者菜单中找到 Ubuntu <ruby> 软件中心 <rt>  Software Center </rt></ruby>，打开它。
 
 
-![](/Asserts/Images//attachment/album/202203/26/151627pp0p0kupla5uazap.jpg)
+![](/Asserts/Images/album/202203/26/151627pp0p0kupla5uazap.jpg)
 
 
 在 <ruby> 已安装 <rt>  Installed </rt></ruby> 栏中列出了已安装的应用。
 
 
-![](/Asserts/Images//attachment/album/202203/26/151628hzqzqqnhj9wnn9v6.png)
+![](/Asserts/Images/album/202203/26/151628hzqzqqnhj9wnn9v6.png)
 
 
 如果你要找的应用不在 <ruby> 已安装 <rt>  Installed </rt></ruby> 栏中，可以使用搜索查找应用。
 
 
-![](/Asserts/Images//attachment/album/202203/26/151630jkkn4paga2w4okna.png)
+![](/Asserts/Images/album/202203/26/151630jkkn4paga2w4okna.png)
 
 
 打开已经安装的应用，有一个 <ruby> 移除 <rt>  Remove </rt></ruby> 选项，点击它。
 
 
-![](/Asserts/Images//attachment/album/202203/26/151632ms6vfljr2szv3j3e.png)
+![](/Asserts/Images/album/202203/26/151632ms6vfljr2szv3j3e.png)
 
 
 这会请求输入账户密码，输入后应用会在几秒内删除。
@@ -81,7 +81,7 @@ sudo apt remove program_name
 待删除的应用不会立刻被删除。你需要确认。当询问你的确认时，请输入回车或者按下 `Y`：
 
 
-![](/Asserts/Images//attachment/album/202203/26/151633wr3o2ljv3lzvgev1.png)
+![](/Asserts/Images/album/202203/26/151633wr3o2ljv3lzvgev1.png)
 
 
 请在命令行中输入准确的包的名字，不然会出现 “[不能找到软件包的错误](https://itsfoss.com/unable-to-locate-package-error-ubuntu/)” 错误 。
@@ -96,7 +96,7 @@ sudo apt remove program_name
 找到要卸载的应用名称，输入完整的应用名称然后卸载。
 
 
-![](/Asserts/Images//attachment/album/202203/26/151634xoa8b8zoixr86oga.png)
+![](/Asserts/Images/album/202203/26/151634xoa8b8zoixr86oga.png)
 
 
 如果不知道具体的应用名称或者开头字母，你可以 [列出 Ubuntu 中所有已安装的包](https://itsfoss.com/list-installed-packages-ubuntu/) ，然后查找符合你记忆的应用名称。
@@ -111,7 +111,7 @@ apt list --installed | grep -i my
 
 ```
 
-![](/Asserts/Images//attachment/album/202203/26/151636ecbxwfmimkmw80im.png)
+![](/Asserts/Images/album/202203/26/151636ecbxwfmimkmw80im.png)
 
 
 这非常酷炫对不对？在 Ubuntu 中使用卸载命令时请注意应用名。
@@ -156,7 +156,7 @@ snap list
 
 ```
 
-![](/Asserts/Images//attachment/album/202203/26/151637a55agc4z2mgc2cad.png)
+![](/Asserts/Images/album/202203/26/151637a55agc4z2mgc2cad.png)
 
 
 选择你想要卸载的应用，然后卸载，这不会要求你确认是否删除。

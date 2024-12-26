@@ -7,7 +7,7 @@ tags:	[linuxcn,Mint,升级]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/01/170956n81yky0l8vbvy1n8.jpg)
+![](/Asserts/Images/album/202205/01/170956n81yky0l8vbvy1n8.jpg)
 
 
 
@@ -56,7 +56,7 @@ Linux Mint 团队 [宣布](https://www.debugpoint.com/2022/04/linux-mint-21-anno
 当我们通过命令 `mintupgrade` 运行这个 Mint 升级工具时，这个图形用户界面程序友好的欢迎屏幕是一个很好的起点，它开启了升级过程，然后它自己开始进行一系列的检查。
 
 
-![Starting the upgrade process](/Asserts/Images//attachment/album/202205/01/171003s6lxxw1jwxjd4h4x.jpg)
+![Starting the upgrade process](/Asserts/Images/album/202205/01/171003s6lxxw1jwxjd4h4x.jpg)
 
 
 除此之外，当它在你的系统中发现一些问题时，它会停下来并给你足够的细节。当你点击“修复”后，它就可以再次恢复进程。
@@ -68,25 +68,25 @@ Linux Mint 团队 [宣布](https://www.debugpoint.com/2022/04/linux-mint-21-anno
 在我们的测试过程中，该工具在我们的测试系统中发现了以下错误，只需点击一下就能修复它们。
 
 
-![Apt Cache check](/Asserts/Images//attachment/album/202205/01/171003pvoy8vycz605xs45.jpg)
+![Apt Cache check](/Asserts/Images/album/202205/01/171003pvoy8vycz605xs45.jpg)
 
 
-![Mint Upgrade detects that system snapshots are not present](/Asserts/Images//attachment/album/202205/01/171003vzvk76j86vrr0drv.jpg)
+![Mint Upgrade detects that system snapshots are not present](/Asserts/Images/album/202205/01/171003vzvk76j86vrr0drv.jpg)
 
 
-![Check for Orphan Packages](/Asserts/Images//attachment/album/202205/01/171004qessejq1qe66ex63.jpg)
+![Check for Orphan Packages](/Asserts/Images/album/202205/01/171004qessejq1qe66ex63.jpg)
 
 
-![Status before upgrade](/Asserts/Images//attachment/album/202205/01/171004mc87c8d9i1i8dnol.jpg)
+![Status before upgrade](/Asserts/Images/album/202205/01/171004mc87c8d9i1i8dnol.jpg)
 
 
-![Mint Upgrade can detect the packages that require a downgrade](/Asserts/Images//attachment/album/202205/01/171004a8sydx1xzca65xa8.jpg)
+![Mint Upgrade can detect the packages that require a downgrade](/Asserts/Images/album/202205/01/171004a8sydx1xzca65xa8.jpg)
 
 
 最后，我们成功地将一个测试系统从 LMDE 4 升级到 LMDE 5。
 
 
-![Upgrade Complete](/Asserts/Images//attachment/album/202205/01/171004s4c818i481o1x4iq.jpg)
+![Upgrade Complete](/Asserts/Images/album/202205/01/171004s4c818i481o1x4iq.jpg)
 
 
 #### 如何获得这个升级工具

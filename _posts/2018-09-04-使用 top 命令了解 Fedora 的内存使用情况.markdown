@@ -7,7 +7,7 @@ tags:	[linuxcn,top,内存]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/26/101505mz8fqz2wfv2wzfvk.jpg)
+![](/Asserts/Images/album/201809/26/101505mz8fqz2wfv2wzfvk.jpg)
 
 
 如果你使用过 `top` 命令来查看 Fedora 系统中的内存使用情况，你可能会惊讶，看起来消耗的数量比系统可用的内存更多。下面会详细介绍内存使用情况以及如何理解这些数据。
@@ -40,7 +40,7 @@ tags:	[linuxcn,top,内存]
 如果你还没有使用过 `top` 命令，可以打开终端直接执行查看。使用 `Shift + M` 可以按照内存使用量来进行排序。下图是在 Fedora Workstation 中执行的结果，在你的机器上显示的结果可能会略有不同：
 
 
-![](/Asserts/Images//attachment/album/201809/26/101505xhxpby0whgpvcvig.png)
+![](/Asserts/Images/album/201809/26/101505xhxpby0whgpvcvig.png)
 
 
 主要通过以下三列来查看内存使用情况：`VIRT`、`RES` 和 `SHR`。目前以 KB 为单位显示相关数值。

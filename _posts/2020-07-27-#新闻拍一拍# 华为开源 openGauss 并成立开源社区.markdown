@@ -7,7 +7,7 @@ tags:	[linuxcn,华为,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/02/115715zfhlkciwm975ol5y.jpg)
+![](/Asserts/Images/album/202007/02/115715zfhlkciwm975ol5y.jpg)
 
 
 #### 华为开源 openGauss 并成立开源社区

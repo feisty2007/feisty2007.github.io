@@ -15,7 +15,7 @@ tags:	[linuxcn,连接符]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/05/203411z02qdm2s2qn0k2z2.png)
+![](/Asserts/Images/album/201903/05/203411z02qdm2s2qn0k2z2.png)
 
 
 在我们探究大多数链式 Bash 命令中出现的所有的杂项符号（`&`、`|`、`;`、`>`、`<`、`{`、`[`、`(`、`)`、`]`、`}` 等等）的任务中，[我们一直在仔细研究 & 符号](/article-10587-1.html)。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Ultramarine]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/04/105359gb6jupu9jj5ubza5.jpg)
+![](/Asserts/Images/album/202301/04/105359gb6jupu9jj5ubza5.jpg)
 
 
 
@@ -57,7 +57,7 @@ sudo dnf config-manager --add-repo https://terra.fyralabs.com/terra.repo
 在上述变化的基础上，Ultramarine Linux 37 首次引入了 KDE Plasma 作为官方版本。KDE Plasma 特色版带来了含有 Latte Dock 和 Lightly Qt 主题的 Pop OS 风格外观。
 
 
-![Ultramarine Linux 37 具有独特的 Pop OS 风格的 KDE Plasma 主题](/Asserts/Images//attachment/album/202301/04/105406xzssu8qxs2s5fsuf.jpg)
+![Ultramarine Linux 37 具有独特的 Pop OS 风格的 KDE Plasma 主题](/Asserts/Images/album/202301/04/105406xzssu8qxs2s5fsuf.jpg)
 
 
 Ultramarine Linux 37 也放弃了 Cutefish 桌面，因为它目前正处于 [混乱的开发状态，没有可见的路线图](https://www.debugpoint.com/cutefish-development-restarts/)。这是该团队的一个很好的决定，因为打包一个已经停止的项目是没有意义的。

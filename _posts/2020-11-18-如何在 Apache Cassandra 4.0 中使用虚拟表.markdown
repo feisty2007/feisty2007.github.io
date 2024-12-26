@@ -15,7 +15,7 @@ tags:	[linuxcn,Cassandra]
 > 
 
 
-![](/Asserts/Images//attachment/album/202011/04/234511kpmv6dzac6fjmr65.jpg)
+![](/Asserts/Images/album/202011/04/234511kpmv6dzac6fjmr65.jpg)
 
 
 在最近的发布的 [Apache Cassandra 4.0 测试版](https://cassandra.apache.org/download/)中的[众多新增功能](https://www.instaclustr.com/apache-cassandra-4-0-beta-released/)中，<ruby> 虚拟表 <rt>  virtual table </rt></ruby>是一个值得关注的功能。
@@ -33,7 +33,7 @@ tags:	[linuxcn,Cassandra]
 Cassandra 4.0 创建了两个新的<ruby> 键空间 <rt>  keyspace </rt></ruby>来帮助用户利用虚拟表：`system_views` 和 `system_virtual_schema`。`system_views` 键空间包含了用户查询的所有有价值的信息，有用地存储在一些表中。`system_virtual_schema` 键空间，顾名思义，存储了这些虚拟表的所有必要的模式信息。
 
 
-![system_views and system_virtual_schema keyspaces and tables](/Asserts/Images//attachment/album/202011/04/234540q4mqxbamq7tt8p8g.png "system_views and system_virtual_schema keyspaces and tables")
+![system_views and system_virtual_schema keyspaces and tables](/Asserts/Images/album/202011/04/234540q4mqxbamq7tt8p8g.png "system_views and system_virtual_schema keyspaces and tables")
 
 
 重要的是要明白，每个虚拟表的范围仅限于其节点。任何虚拟表查询都将返回的数据，只对其协调器的节点有效，而不管一致性如何。为了简化这一要求，已经在几个驱动中添加了支持，以便在这些查询中指定协调器节点 （Python、DataStax Java 和其他驱动现在提供了这种支持）。
@@ -42,7 +42,7 @@ Cassandra 4.0 创建了两个新的<ruby> 键空间 <rt>  keyspace </rt></ruby>�
 为了说明这一点，请查看这个 `sstable_tasks` 虚拟表。这个虚拟表显示了对 [SSTables](https://cassandra.apache.org/doc/latest/architecture/storage_engine.html#sstables) 的所有操作，包括压实、清理、升级等。
 
 
-![Querying the sstable_tasks virtual table](/Asserts/Images//attachment/album/202011/04/234546yzjjmb0j5ueevevb.png "Querying the sstable_tasks virtual table")
+![Querying the sstable_tasks virtual table](/Asserts/Images/album/202011/04/234546yzjjmb0j5ueevevb.png "Querying the sstable_tasks virtual table")
 
 
 如果用户在以前的 Cassandra 版本中运行 `nodetool compactionstats`，则会显示相同类型的信息。 在这里，这个查询发现该节点当前有一个活动的压缩。它还显示了它的进度以及它的键空间和表。得益于虚拟表，用户可以快速收集这些信息，并同样有效地获得正确诊断集群健康状况所需的能力。

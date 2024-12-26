@@ -16,25 +16,25 @@ Linux 的一大优势就是有各种在开源许可证下的小应用程序可�
 [Alarm Clock](http://alarm-clock.pseudoberries.com/)　功能众多的闹钟，可以显示在您的 GNOME 面板上。
 
 
-![](/Asserts/Images//attachment/album/201309/02/0035330y448kp1sgzgi5d3.png)
+![](/Asserts/Images/album/201309/02/0035330y448kp1sgzgi5d3.png)
 
 
 [intclock](http://users.skynet.be/Peter.Verthez/projects/intclock/)　国际时间的时钟。
 
 
-![](/Asserts/Images//attachment/album/201309/02/00363225fh20s8x14r756j.png)
+![](/Asserts/Images/album/201309/02/00363225fh20s8x14r756j.png)
 
 
 [Wakeup](https://launchpad.net/wakeup)　定时唤醒功能和特定语音的时钟。
 
 
-![](/Asserts/Images//attachment/album/201309/02/003756nsssyn8qxzyi5axr.png)
+![](/Asserts/Images/album/201309/02/003756nsssyn8qxzyi5axr.png)
 
 
 [FoxClocks](http://www.stemhaus.com/firefox/foxclocks/)　可以显示在状态条上的世界时钟
 
 
-![](/Asserts/Images//attachment/album/201309/02/0041314go999qszf929tbz.png)
+![](/Asserts/Images/album/201309/02/0041314go999qszf929tbz.png)
 
 
 ![](https://img.linux.net.cn/xwb/images/bgimg/icon_logo.png) 已同步至 [linux的微博](http://weibo.com/1772191555/A7yipCXos)

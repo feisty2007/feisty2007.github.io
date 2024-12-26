@@ -7,7 +7,7 @@ tags:	[linuxcn,DLNA,投屏]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/09/105914jtdf11egqu6p15tu.jpg)
+![](/Asserts/Images/album/202203/09/105914jtdf11egqu6p15tu.jpg)
 
 
 
@@ -201,7 +201,7 @@ dlna play -d http://192.168.3.118:1528/ http://192.168.3.117:9999/cgi-bin/screen
 稍等片刻，视频就会出现在电视上了。投屏效果如下：
 
 
-![](/Asserts/Images//attachment/album/202203/09/105924fhgh0z00k0930sc9.jpg)
+![](/Asserts/Images/album/202203/09/105924fhgh0z00k0930sc9.jpg)
 
 
 

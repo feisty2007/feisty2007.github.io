@@ -7,7 +7,7 @@ tags:	[linuxcn,开源药品]
 ---
 
 
-![](/Asserts/Images//attachment/album/201602/27/215140r0mhxkhavgjuxhlx.png)
+![](/Asserts/Images/album/201602/27/215140r0mhxkhavgjuxhlx.png)
 
 
 关于寨卡病毒，最主要的问题就是我们对于它了解的太少了。这意味着我们需要尽快对它作出很多研究。

@@ -7,7 +7,7 @@ tags:	[linuxcn,curl,malloc]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/16/115559adfoyopxdy6v95oc.jpg)
+![](/Asserts/Images/album/201709/16/115559adfoyopxdy6v95oc.jpg)
 
 
 今天我在 libcurl 内部又做了[一个小改动](https://github.com/curl/curl/commit/cbae73e1dd95946597ea74ccb580c30f78e3fa73)，使其做更少的 malloc。这一次，泛型链表函数被转换成更少的 malloc (这才是链表函数应有的方式，真的)。

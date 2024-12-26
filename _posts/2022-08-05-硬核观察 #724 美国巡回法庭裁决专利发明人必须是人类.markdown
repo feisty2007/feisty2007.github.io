@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,专利,CPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/10/145220a6cfi3f06ckefet3.jpg)
+![](/Asserts/Images/album/202208/10/145220a6cfi3f06ckefet3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/10/145230dj0q4qahina00r0q.jpg)
+![](/Asserts/Images/album/202208/10/145230dj0q4qahina00r0q.jpg)
 
 
 ### 美国巡回法庭裁决专利发明人必须是人类
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,专利,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/10/145239dvavvaihgvwgmvvh.jpg)
+![](/Asserts/Images/album/202208/10/145239dvavvaihgvwgmvvh.jpg)
 
 
 ### Meta 的 AI 聊天机器人已经被玩坏
@@ -60,7 +60,7 @@ Meta 上周五公布了它的 AI 聊天机器人 BlenderBot 3，和微软在 201
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/10/145254anhbfxoon7hzxfjo.jpg)
+![](/Asserts/Images/album/202208/10/145254anhbfxoon7hzxfjo.jpg)
 
 
 ### 英特尔“坚不可摧”的 SGX 再次被攻破

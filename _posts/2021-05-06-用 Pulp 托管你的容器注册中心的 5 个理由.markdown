@@ -15,7 +15,7 @@ tags:	[linuxcn,容器,注册中心]
 > 
 
 
-![](/Asserts/Images//attachment/album/202105/21/091220vpckb2yywo2eq12y.jpg "Containers for shipping overseas")
+![](/Asserts/Images/album/202105/21/091220vpckb2yywo2eq12y.jpg "Containers for shipping overseas")
 
 
 Linux 容器极大地简化了软件发布。将一个应用程序与它运行所需的一切打包的能力有助于提高环境的稳定性和可重复性。

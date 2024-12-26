@@ -7,7 +7,7 @@ tags:	[linuxcn,man]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/09/231716f6ehhv6u9sueuts4.jpg)
+![](/Asserts/Images/album/202310/09/231716f6ehhv6u9sueuts4.jpg)
 
 
 
@@ -35,7 +35,7 @@ tags:	[linuxcn,man]
 当然，这不仅是 pacman，所有命令都是这样。
 
 
-![](/Asserts/Images//attachment/album/202310/09/231740x9oeyy99ifeafmdo.png)
+![](/Asserts/Images/album/202310/09/231740x9oeyy99ifeafmdo.png)
 
 
 这让我感到困惑，因为我以前从未遇到过无法使用 `man` 命令的情况。
@@ -72,7 +72,7 @@ sudo pacman -S man-db
 
 ```
 
-![](/Asserts/Images//attachment/album/202310/09/231740cw5g7v3t7l8787ow.png)
+![](/Asserts/Images/album/202310/09/231740cw5g7v3t7l8787ow.png)
 
 
 对于 Ubuntu 和 Debian，请使用：
@@ -120,7 +120,7 @@ sudo mandb
 它将在不同位置查找手册页并构建缓存，以便你可以快速访问手册页。
 
 
-![](/Asserts/Images//attachment/album/202310/09/231740h1rltlx44p4tr81t.png)
+![](/Asserts/Images/album/202310/09/231740h1rltlx44p4tr81t.png)
 
 
 完成后，我就可以像往常一样使用 `man` 命令。

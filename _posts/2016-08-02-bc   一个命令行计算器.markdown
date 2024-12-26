@@ -7,7 +7,7 @@ tags:	[linuxcn,bc,命令,计算器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201608/06/182300kcj29vz3qmpjs9xm.jpg)
+![](/Asserts/Images/album/201608/06/182300kcj29vz3qmpjs9xm.jpg)
 
 
 假如你在一个图形桌面环境中需要一个计算器时，你可能只需要一路进行点击便可以找到一个计算器。例如，Fedora 工作站中就已经包含了一个名为 `Calculator` 的工具。它有着几种不同的操作模式，例如，你可以进行复杂的数学运算或者金融运算。但是，你知道吗，命令行也提供了一个与之相似的名为 `bc` 的工具？

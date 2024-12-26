@@ -10,7 +10,7 @@ tags:	[linuxcn,Node.JS]
 如果你要在Ubuntu 15.04上安装Node.js的话，这篇教程对你来说肯定很重要。Node.js从本质上来说就是一个运行在服务端上的封装好了输入输出流的javascript程序。Node.js巧妙的使用单线程的事件循环来处理高吞吐量和非阻塞IO。同时它也是一个提供了通过操作系统读写文件和网络操作功能的平台层。所以这篇文章将展示在Ubuntu 15.04 server上不同的安装Node.Js的方式。
 
 
-![](/Asserts/Images//attachment/album/201507/05/233616rf2861f2qqkr1qli.jpg)
+![](/Asserts/Images/album/201507/05/233616rf2861f2qqkr1qli.jpg)
 
 
 ### 安装Node.JS 的方法
@@ -63,7 +63,7 @@ root@ubuntu-15:~# tar zxvf node-v0.12.4.tar.gz
 现在我们进入源代码的目录，然后运行.configure文件
 
 
-![NodeJS Configure](/Asserts/Images//attachment/album/201507/05/233620ojdeix8wriooehmi.png)
+![NodeJS Configure](/Asserts/Images/album/201507/05/233620ojdeix8wriooehmi.png)
 
 
 
@@ -89,7 +89,7 @@ v0.12.4
 
 ```
 
-![Node.Js Test](/Asserts/Images//attachment/album/201507/05/233621qty6vzv3ufhttmjf.png)
+![Node.Js Test](/Asserts/Images/album/201507/05/233621qty6vzv3ufhttmjf.png)
 
 
 创建一个以.js为扩展名的文件然后用Node的命令运行
@@ -167,7 +167,7 @@ root@ubuntu-15:~# apt-get install nodejs
 
 ```
 
-![NodeJS Install](/Asserts/Images//attachment/album/201507/05/233622jtdaxzxdl0zjhhbs.png)
+![NodeJS Install](/Asserts/Images/album/201507/05/233622jtdaxzxdl0zjhhbs.png)
 
 
 #### 步骤3: 安装一些必备的工具
@@ -258,7 +258,7 @@ pipes: null,
 以下是可以在REPL下使用的命令列表
 
 
-![REPL Manual](/Asserts/Images//attachment/album/201507/05/233623jk6dcv6mtxjt63j0.png)
+![REPL Manual](/Asserts/Images/album/201507/05/233623jk6dcv6mtxjt63j0.png)
 
 
 #### 使用NodeJS的包管理器
@@ -273,7 +273,7 @@ root@ubuntu-15:~# npm init
 
 ```
 
-![NPM starting](/Asserts/Images//attachment/album/201507/05/233624q9admhyhy9gilamz.png)
+![NPM starting](/Asserts/Images/album/201507/05/233624q9admhyhy9gilamz.png)
 
 
 ### 3) 从Github远程库安装Node.JS
@@ -301,7 +301,7 @@ root@ubuntu-15:~# cd node/
 
 ```
 
-![Git Clone NodeJS](/Asserts/Images//attachment/album/201507/05/233625jd44t0dd4dr1jf8y.png)
+![Git Clone NodeJS](/Asserts/Images/album/201507/05/233625jd44t0dd4dr1jf8y.png)
 
 
 clone仓库之后，通过运行.config命令来编译生成完整的安装包。
@@ -313,7 +313,7 @@ root@ubuntu-15:~# ./configure
 
 ```
 
-![Configure Node](/Asserts/Images//attachment/album/201507/05/233625i38fz8xf8n92sxlp.png)
+![Configure Node](/Asserts/Images/album/201507/05/233625i38fz8xf8n92sxlp.png)
 
 
 运行make install命令之后耐心等待几分钟，程序将会安装好Node.JS。
@@ -368,7 +368,7 @@ root@ubuntu-15:~# curl https://raw.githubusercontent.com/creationix/nvm/v0.16.1/
 
 ```
 
-![NVM Curl](/Asserts/Images//attachment/album/201507/05/233626mu3y7uu33zung7x0.png)
+![NVM Curl](/Asserts/Images/album/201507/05/233626mu3y7uu33zung7x0.png)
 
 
 #### 步骤2: 修改Home环境
@@ -393,7 +393,7 @@ root@ubuntu-15:~# nvm alias default 0.12.4
 
 ```
 
-![NVM Default](/Asserts/Images//attachment/album/201507/05/233627kmti78dz5mip1pii.png)
+![NVM Default](/Asserts/Images/album/201507/05/233627kmti78dz5mip1pii.png)
 
 
 #### 步骤3: 使用NVM
@@ -402,7 +402,7 @@ root@ubuntu-15:~# nvm alias default 0.12.4
 我们已经通过NVM成功的安装了Node.JS，所以我们现在可以使用各种有用的命令。
 
 
-![NVM Manual](/Asserts/Images//attachment/album/201507/05/233627na52hkapktpakp55.png)
+![NVM Manual](/Asserts/Images/album/201507/05/233627na52hkapktpakp55.png)
 
 
 ### 总结

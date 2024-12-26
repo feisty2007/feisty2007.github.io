@@ -7,7 +7,7 @@ tags:	[linuxcn,Ansible]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/22/134813ljp54nphdoucnldd.jpg)
+![](/Asserts/Images/album/201802/22/134813ljp54nphdoucnldd.jpg)
 
 
 **我想使用 Ansible 工具创建 Amazon EC2 密钥对。不想使用 AWS CLI 来创建。可以使用 Ansible 来创建 AWS ec2 密钥吗？**
@@ -216,7 +216,7 @@ $ ansible-playbook -i hosts ec2.key.yml
 
 ```
 
-![](/Asserts/Images//attachment/album/201802/22/134816pd989drucghpzg8c.jpg)
+![](/Asserts/Images/album/201802/22/134816pd989drucghpzg8c.jpg)
 
 
 最后你应该有一个名为 `aws.nixcraft.pem 私钥，该私钥可以和 AWS EC2 一起使用。使用 [cat 命令](https://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-cat-command-examples/ "See Linux/Unix cat command examples for more info")查看你的密钥：
@@ -249,7 +249,7 @@ $ ansible-playbook -v -i hosts ec2.key.yml
 
 ```
 
-![](/Asserts/Images//attachment/album/201802/22/134816lzu6iy99q7u9ndiu.jpg)
+![](/Asserts/Images/album/201802/22/134816lzu6iy99q7u9ndiu.jpg)
 
 
 ### 我该如何删除一个密钥？

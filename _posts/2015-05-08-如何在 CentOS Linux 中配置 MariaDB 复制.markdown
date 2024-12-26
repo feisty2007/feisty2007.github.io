@@ -25,13 +25,13 @@ tags:	[linuxcn,Mariadb,数据库复制,主从]
 **故障解决方案** : 假如你建立有主节点->从节点1->从节点2->从节点3的复制结构。你可以为主节点写脚本监控，如果主节点出故障了，脚本可以快速的将从节点1切换为新的主节点，这样复制结构变成了主节点->从节点1->从节点2，你的应用可以继续工作而不会停机。
 
 
-![](/Asserts/Images//attachment/album/201505/22/130103gzr8t9iuus1vshw1.jpg)
+![](/Asserts/Images/album/201505/22/130103gzr8t9iuus1vshw1.jpg)
 
 
 ### 复制的简单图解示范
 
 
-![mysql 复制原理](/Asserts/Images//attachment/album/201505/22/130107jzfatvl4uclzcytt.png)
+![mysql 复制原理](/Asserts/Images/album/201505/22/130107jzfatvl4uclzcytt.png)
 
 
 开始之前，你应该知道什么是**二进制日志文件**以及 Ibdata1。
@@ -300,7 +300,7 @@ server_id=1
 输出如下:
 
 
-![mariadb 配置主节点](/Asserts/Images//attachment/album/201505/22/130108yld2d6hmt2iditts.png)
+![mariadb 配置主节点](/Asserts/Images/album/201505/22/130108yld2d6hmt2iditts.png)
 
 
 然后重启 MariaDB:
@@ -455,7 +455,7 @@ MASTER_CONNECT_RETRY=10;
 
 ```
 
-![mariadb 启用复制](/Asserts/Images//attachment/album/201505/22/130108g8474sk8oiwymmnk.png)
+![mariadb 启用复制](/Asserts/Images/album/201505/22/130108g8474sk8oiwymmnk.png)
 
 
 其中:

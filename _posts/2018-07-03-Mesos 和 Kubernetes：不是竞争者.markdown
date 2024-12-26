@@ -15,7 +15,7 @@ tags:	[linuxcn,Mesos,Kubernetes,容器]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/13/121145qs151ol13s2f4os8.jpg)
+![](/Asserts/Images/album/201807/13/121145qs151ol13s2f4os8.jpg)
 
 
 Mesos 的起源可以追溯到 2009 年，当时，Ben Hindman 还是加州大学伯克利分校研究并行编程的博士生。他们在 128 核的芯片上做大规模的并行计算，以尝试去解决多个问题，比如怎么让软件和库在这些芯片上运行更高效。他与同学们讨论能否借鉴并行处理和多线程的思想，并将它们应用到集群管理上。

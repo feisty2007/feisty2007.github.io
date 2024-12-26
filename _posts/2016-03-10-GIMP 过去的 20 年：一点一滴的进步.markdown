@@ -7,7 +7,7 @@ tags:	[linuxcn,GIMP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201603/20/210453ttwwsllulh6tx2lh.png)
+![](/Asserts/Images/album/201603/20/210453ttwwsllulh6tx2lh.png)
 
 
 [GIMP](https://gimp.org/)（<ruby> GNU 图像处理程序 <rp>  （ </rp> <rt>  GNU Image Manipulation Program </rt> <rp>  ） </rp></ruby>）—— 一流的开源自由的图像处理程序。加州大学伯克利分校的 Peter Mattis 和 Spencer Kimball 早在 1995 年的时候开始了该程序的开发。到了 1997 年，该程序成为了 [GNU Project](http://www.gnu.org/) 官方的一部分，并正式更名为 GIMP。时至今日，GIMP 已经成为了最好的图像编辑器之一，并有经常有 “GIMP vs Photoshop” 之争。
@@ -60,7 +60,7 @@ GIMP 是为各种图像编辑操作提供一个直观的图形界面而设计的
 ### 1996 年，GIMP 0.54 版
 
 
-![](/Asserts/Images//attachment/album/201603/20/210605tztzyyvrvc3accvw.png)
+![](/Asserts/Images/album/201603/20/210605tztzyyvrvc3accvw.png)
 
 
 GIMP 0.54 版需要具备 X11 显示、X-server 以及 Motif 1.2 组件，支持 8 位、15 位、16 位和 24 位的颜色深度和灰度，支持 GIF、JPEG、PNG、TIFF 和 XPM 图像格式。
@@ -78,7 +78,7 @@ GIMP 0.54 版可以在 Linux、HP-UX、Solaris 和 SGI IRIX 中运行。
 ### 1997 年，GIMP 0.60 版
 
 
-![](/Asserts/Images//attachment/album/201603/20/210607v2qqc818q02iccrq.gif)
+![](/Asserts/Images/album/201603/20/210607v2qqc818q02iccrq.gif)
 
 
 这只是一个开发版本，并非面向用户发布的。GIMP 有了新的工具包——GDK（GIMP Drawing Kit，GIMP 绘图工具）和 GTK（GIMP Toolkit，GIMP 工具包），并弃用 Motif。GIMP 工具包随后也发展成为了 GTK+ 跨平台的微件工具包。新特性：
@@ -94,7 +94,7 @@ GIMP 0.54 版可以在 Linux、HP-UX、Solaris 和 SGI IRIX 中运行。
 ### 1997 年，GIMP 0.99 版
 
 
-![](/Asserts/Images//attachment/album/201603/20/210609wctu9z2hz81he124.png)
+![](/Asserts/Images/album/201603/20/210609wctu9z2hz81he124.png)
 
 
 从 0.99 版本开始，GIMP 有了宏脚本的支持。GTK 及 GDK 功能增强版正式更名为 GTK+。其他更新：
@@ -108,7 +108,7 @@ GIMP 0.54 版可以在 Linux、HP-UX、Solaris 和 SGI IRIX 中运行。
 ### 1998 年，GIMP 1.0 版
 
 
-![](/Asserts/Images//attachment/album/201603/20/210611s2fnakf1qj2j2a29.gif)
+![](/Asserts/Images/album/201603/20/210611s2fnakf1qj2j2a29.gif)
 
 
 GIMP 和 GTK+ 开始分为两个不同的项目。GIMP 官网进行重构，包含新教程、组件和文档。新特性：
@@ -144,7 +144,7 @@ GIMP 和 GTK+ 开始分为两个不同的项目。GIMP 官网进行重构，包�
 ### 2004 年，GIMP 2.0 版
 
 
-![](/Asserts/Images//attachment/album/201603/20/210623jzmjm8wggyycjj2c.png)
+![](/Asserts/Images/album/201603/20/210623jzmjm8wggyycjj2c.png)
 
 
 重大更新 – 更新 GTK+ 2.x toolkit.
@@ -153,7 +153,7 @@ GIMP 和 GTK+ 开始分为两个不同的项目。GIMP 官网进行重构，包�
 ### 2004 年，GIMP 2.2 版
 
 
-![](/Asserts/Images//attachment/album/201603/20/210627zg0oszxfg0xo35x7.png)
+![](/Asserts/Images/album/201603/20/210627zg0oszxfg0xo35x7.png)
 
 
 修复大量 Bug 并支持图像拖拽
@@ -162,7 +162,7 @@ GIMP 和 GTK+ 开始分为两个不同的项目。GIMP 官网进行重构，包�
 ### 2007 年，GIMP 2.4 版
 
 
-![](/Asserts/Images//attachment/album/201603/20/210638ymfddtd5xfcdje3t.png)
+![](/Asserts/Images/album/201603/20/210638ymfddtd5xfcdje3t.png)
 
 
 新特性：
@@ -188,7 +188,7 @@ GIMP 和 GTK+ 开始分为两个不同的项目。GIMP 官网进行重构，包�
 ### 2012 年，GIMP 2.8 版
 
 
-![](/Asserts/Images//attachment/album/201603/20/210652q6zsb865052tb6uw.png)
+![](/Asserts/Images/album/201603/20/210652q6zsb865052tb6uw.png)
 
 
 新特性：

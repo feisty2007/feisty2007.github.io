@@ -19,7 +19,7 @@ Linux Lite 是[适合 Windows 用户的最佳 Linux 发行版](https://itsfoss.c
 ### Linux Lite 5.0：关键变更
 
 
-![](/Asserts/Images//attachment/album/202006/06/065508vx37wksyz2y8hys3.jpg)
+![](/Asserts/Images/album/202006/06/065508vx37wksyz2y8hys3.jpg)
 
 
 即使 Linux Lite 从 2.x 就开始支持 UEFI，但他们总是默认发布非 UEFI 的。
@@ -34,7 +34,7 @@ Linux Lite 是[适合 Windows 用户的最佳 Linux 发行版](https://itsfoss.c
 Linux Lite 5.0 支持开箱即用的 UEFI。但是，他们建议禁用[安全启动](https://en.wikipedia.org/wiki/Hardware_restriction#Secure_boot)，即使该功能可以工作。
 
 
-![](/Asserts/Images//attachment/album/202006/06/065554crzns4wezklfiilf.png)
+![](/Asserts/Images/album/202006/06/065554crzns4wezklfiilf.png)
 
 
 你可以看看他们的[论坛文章](https://www.linuxliteos.com/forums/uefi-secure-boot/)，以了解更多信息。此外，你还可以在新的内置**帮助手册**中找到有关此的更多信息。
@@ -49,7 +49,7 @@ Linux Lite 5.0 支持开箱即用的 UEFI。但是，他们建议禁用[安全�
 在[发布公告](https://www.linuxliteos.com/forums/release-announcements/linux-lite-5-0-final-released/)中，他们在变更日志中提到了它，并提供了截图：
 
 
-![](/Asserts/Images//attachment/album/202006/06/065645xbymuorr23ryveuy.png)
+![](/Asserts/Images/album/202006/06/065645xbymuorr23ryveuy.png)
 
 
 #### GUFW 防火墙替换为 firewalld
@@ -58,7 +58,7 @@ Linux Lite 5.0 支持开箱即用的 UEFI。但是，他们建议禁用[安全�
 你可能已经读过[在 Linux 上使用 GUFW 设置防火墙](https://itsfoss.com/set-up-firewall-gufw/)，但从 Linux Lite 5.0 开始，它已由 [firewalld](https://firewalld.org/) 取代。
 
 
-![](/Asserts/Images//attachment/album/202006/06/065749gsxv3tszjx7zj749.jpg)
+![](/Asserts/Images/album/202006/06/065749gsxv3tszjx7zj749.jpg)
 
 
 似乎 [GUFW](http://gufw.org/) 不能像 firewalld 那样配置。因此，他们决定替换它。
@@ -70,7 +70,7 @@ Linux Lite 5.0 支持开箱即用的 UEFI。但是，他们建议禁用[安全�
 #### 新的 Whisker 菜单
 
 
-![](/Asserts/Images//attachment/album/202006/06/065856wwavizt4k7goj9wv.jpg)
+![](/Asserts/Images/album/202006/06/065856wwavizt4k7goj9wv.jpg)
 
 
 [Whisker 菜单](https://gottcode.org/xfce4-whiskermenu-plugin/)已更新至最新可用的软件包（v2.4.4）。 除了更新之外，你还可以注意到**安装更新**现在被固定在收藏夹。
@@ -79,7 +79,7 @@ Linux Lite 5.0 支持开箱即用的 UEFI。但是，他们建议禁用[安全�
 #### HiDPI 设置
 
 
-![](/Asserts/Images//attachment/album/202006/06/065949ajarb1c0j5ycegqa.png)
+![](/Asserts/Images/album/202006/06/065949ajarb1c0j5ycegqa.png)
 
 
 如果需要，你会发现从**设置菜单**中设置 HiDPI 非常容易。
@@ -91,7 +91,7 @@ Linux Lite 5.0 支持开箱即用的 UEFI。但是，他们建议禁用[安全�
 在 Linux Lite 5.0 中，你还将注意到添加了 [XFCE 屏幕保护程序](https://docs.xfce.org/apps/screensaver/start)，默认情况下它处于禁用状态。
 
 
-![](/Asserts/Images//attachment/album/202006/06/070055c7wd3w31tpat3pt2.jpg)
+![](/Asserts/Images/album/202006/06/070055c7wd3w31tpat3pt2.jpg)
 
 
 这是一个简单的补充，对于一直想要屏幕保护程序并能够对其进行调整的用户而言，这将很有用。

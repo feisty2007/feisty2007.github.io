@@ -7,7 +7,7 @@ tags:	[linuxcn,rtop,监控]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/13/064343i0tpzn5npn5ccpc0.jpg)
+![](/Asserts/Images/album/201702/13/064343i0tpzn5npn5ccpc0.jpg)
 
 
 [rtop](http://www.rtop-monitor.org/) 是一个基于 SSH 的直接的交互式[远程系统监控工具](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)，它收集并显示重要的系统性能指标，如 CPU、磁盘、内存和网络指标。
@@ -46,7 +46,7 @@ $ go get github.com/rapidloop/rtop
 命令完成后 rtop 可执行程序会保存在 $GOPATH/bin 或者 $GOBIN 中。
 
 
-![Build rtop in Linux](/Asserts/Images//attachment/album/201702/13/064357w94x9jjtxl1rbruk.png)
+![Build rtop in Linux](/Asserts/Images/album/201702/13/064357w94x9jjtxl1rbruk.png)
 
 
 *在 Linux 中构建 rtop*
@@ -93,7 +93,7 @@ $ $GOBIN/rtop aaronkilik@10.42.0.1
 
 ```
 
-![rtop - Monitor Remote Linux Server](/Asserts/Images//attachment/album/201702/13/064358r5vx5cuzdvb5cebu.png)
+![rtop - Monitor Remote Linux Server](/Asserts/Images/album/201702/13/064358r5vx5cuzdvb5cebu.png)
 
 
 *rtop – 监控远程 Linux 主机*

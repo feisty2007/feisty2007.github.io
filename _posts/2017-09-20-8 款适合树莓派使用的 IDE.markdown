@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派,IDE]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/20/112256xei2qtqgez2cd8gc.jpg)
+![](/Asserts/Images/album/201709/20/112256xei2qtqgez2cd8gc.jpg)
 
 
 树莓派是一种微型的单板电脑（SBC），已经在学校的计算机科学教学中掀起了一场革命，但同样，它也给软件开发者带来了福音。目前，树莓派获得的知名度远远超出了它原本的目标市场，而且正在应用于机器人项目中。
@@ -25,7 +25,7 @@ tags:	[linuxcn,树莓派,IDE]
 在不久的将来，一个提高了技术规格的型号将会到来，为嵌入式系统发烧友、研究员、爱好者和工程师们用其开发多种功能的实时应用提供一个稳健的平台。
 
 
-![](/Asserts/Images//attachment/album/201709/20/112259amzpkp404znrh2je.jpg)
+![](/Asserts/Images/album/201709/20/112259amzpkp404znrh2je.jpg)
 
 
 *图 1 ：树莓派*
@@ -61,7 +61,7 @@ IDE 的用户界面与文字处理程序相似，在工具栏提供颜色编码�
 #### BlueJ
 
 
-![](/Asserts/Images//attachment/album/201709/20/112300axmq7794p6z8ow4q.jpg)
+![](/Asserts/Images/album/201709/20/112300axmq7794p6z8ow4q.jpg)
 
 
 *图 2 ：BlueJ 的 GUI 界面*
@@ -88,7 +88,7 @@ BlueJ 提供一种学习面向对象的编程概念的高效的方式，图形�
 #### Geany IDE
 
 
-![](/Asserts/Images//attachment/album/201709/20/112302qoqowoatggnkg2ga.jpg)
+![](/Asserts/Images/album/201709/20/112302qoqowoatggnkg2ga.jpg)
 
 
 *图 3 ： Geany IDE 的 GUI 界面*
@@ -113,7 +113,7 @@ Geany IDE 使用了 Scintilla 和 GTK+ 的集成开发环境支持，被认为�
 #### Adafruit WebIDE
 
 
-![](/Asserts/Images//attachment/album/201709/20/112303t5o7zoc36o9ezoff.jpg)
+![](/Asserts/Images/album/201709/20/112303t5o7zoc36o9ezoff.jpg)
 
 
 *图 4 ：Adafruit WebIDE 的 GUI 界面*
@@ -136,7 +136,7 @@ Adafruit IDE 允许开发者把代码放在 GIT 仓库，这样就可以通过 G
 #### AlgoIDE
 
 
-![](/Asserts/Images//attachment/album/201709/20/112305uhtzn6cojzolhs0f.jpg)
+![](/Asserts/Images/album/201709/20/112305uhtzn6cojzolhs0f.jpg)
 
 
 *图 5 ：AlgoIDE 的 GUI 界面*
@@ -163,7 +163,7 @@ AlgoIDE 支持多种类型的语言如 C、C++、Python、Java、Smalltalk、Obj
 #### Ninja IDE
 
 
-![](/Asserts/Images//attachment/album/201709/20/112306xxrodlrcmxsmd9oo.jpg)
+![](/Asserts/Images/album/201709/20/112306xxrodlrcmxsmd9oo.jpg)
 
 
 图 6 ：Ninja IDE 的 GUI 界面
@@ -190,7 +190,7 @@ Ninja IDE 是非常轻量级的，并能执行多种功能如文件处理、代�
 #### Lazarus IDE
 
 
-![](/Asserts/Images//attachment/album/201709/20/112308s88kynt5di7n7ook.jpg)
+![](/Asserts/Images/album/201709/20/112308s88kynt5di7n7ook.jpg)
 
 
 图 7 ：Lazarus IDE 的 GUI 界面
@@ -217,7 +217,7 @@ Lazarus IDE 是由 Cliff Baeseman、Shane Miller 和 Michael A. Hess 于 1999 �
 #### Codeblock IDE
 
 
-![](/Asserts/Images//attachment/album/201709/20/112310d4f4ddlpzpptccqh.jpg)
+![](/Asserts/Images/album/201709/20/112310d4f4ddlpzpptccqh.jpg)
 
 
 *图 8 ： Codeblock IDE 界面*
@@ -244,7 +244,7 @@ Codeblock IDE 高度智能并且可以支持多种功能，如语法高亮、代
 #### Greenfoot IDE
 
 
-![](/Asserts/Images//attachment/album/201709/20/112312corsinfor0xn0eha.jpg)
+![](/Asserts/Images/album/201709/20/112312corsinfor0xn0eha.jpg)
 
 
 *图 9 ： Greenfoot IDE 界面*

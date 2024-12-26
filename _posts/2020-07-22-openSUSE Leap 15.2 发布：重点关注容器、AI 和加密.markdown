@@ -7,7 +7,7 @@ tags:	[linuxcn,openSUSE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/16/230428vklhwrzllll2eu82.jpg)
+![](/Asserts/Images/album/202007/16/230428vklhwrzllll2eu82.jpg)
 
 
 [openSUSE](https://www.opensuse.org/) Leap 15.2 最终带来了一些有用的变化和改进。
@@ -22,7 +22,7 @@ tags:	[linuxcn,openSUSE]
 ### openSUSE Leap 15.2：关键变化
 
 
-![](/Asserts/Images//attachment/album/202007/16/230312r6h6avhylxkxa4j8.png)
+![](/Asserts/Images/album/202007/16/230312r6h6avhylxkxa4j8.png)
 
 
 总体而言，openSUSE Leap 15.2 发行版涉及安全更新、新的主要软件包、bug 修复以及其他改进。
@@ -61,7 +61,7 @@ tags:	[linuxcn,openSUSE]
 #### 引入实时内核
 
 
-![](/Asserts/Images//attachment/album/202007/16/230458epyjiyf1dok1y0yc.png)
+![](/Asserts/Images/album/202007/16/230458epyjiyf1dok1y0yc.png)
 
 
 在 openSUSE Leap 15.2 中，将引入实时内核来管理[微处理器](https://en.wikipedia.org/wiki/Microprocessor)的时序，以有效处理时间关键的事件。
@@ -90,7 +90,7 @@ tags:	[linuxcn,openSUSE]
 #### 更新的 openSUSE 安装程序
 
 
-![](/Asserts/Images//attachment/album/202007/16/230548g3exefsvxfqffmxh.png)
+![](/Asserts/Images/album/202007/16/230548g3exefsvxfqffmxh.png)
 
 
 openSUSE 的安装程序已经非常不错。但是，在最新的 Leap 15.2 版本中，它们添加了更多信息，兼容从右至左语言（如阿拉伯语）以及一些小的更改，从而在安装时更容易选择。
@@ -108,7 +108,7 @@ openSUSE 的安装程序已经非常不错。但是，在最新的 Leap 15.2 版
 #### 桌面环境改进
 
 
-![](/Asserts/Images//attachment/album/202007/16/230604b32032g63nv5trdz.png)
+![](/Asserts/Images/album/202007/16/230604b32032g63nv5trdz.png)
 
 
 可用的桌面环境已更新为最新版本，包括 [KDE Plasma 5.18 LTS](https://itsfoss.com/kde-plasma-5-18-release/) 和 [GNOME 3.34](https://itsfoss.com/gnome-3-34-release/)。

@@ -7,7 +7,7 @@ tags:	[linuxcn,安装,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/16/225749u8hbmbr1r88nhm1k.png)
+![](/Asserts/Images/album/201806/16/225749u8hbmbr1r88nhm1k.png)
 
 
 出于某种原因，你可能需要在将软件包安装到你的 Linux 系统之前对其进行测试。如果是这样，你很幸运！今天，我将向你展示如何在 Linux 中使用 **Nix** 包管理器来实现。Nix 包管理器的一个显著特性是它允许用户测试软件包而无需先安装它们。当你想要临时使用特定的程序时，这会很有帮助。

@@ -7,7 +7,7 @@ tags:	[linuxcn,FreeIPA]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/05/160246m3vu7phhy7eyuo7j.png)
+![](/Asserts/Images/album/202305/05/160246m3vu7phhy7eyuo7j.png)
 
 
 你是否正在寻找有关如何在 Linux 上安装 FreeIPA 服务器的简单指南？
@@ -133,16 +133,16 @@ $ sudo ipa-server-install
 上述命令的输出如下所示：
 
 
-![](/Asserts/Images//attachment/album/202305/05/160518qihozk3cio397ssg.jpg)
+![](/Asserts/Images/album/202305/05/160518qihozk3cio397ssg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/05/160525s20i0nyzhi7sae78.jpg)
+![](/Asserts/Images/album/202305/05/160525s20i0nyzhi7sae78.jpg)
 
 
 在上面的窗口中输入 “yes” 后，需要一些时间来配置你的 FreeIPA 服务器，设置成功后，我们将得到下面的输出：
 
 
-![](/Asserts/Images//attachment/album/202305/05/160532czv95zvwavaki3ts.jpg)
+![](/Asserts/Images/album/202305/05/160532czv95zvwavaki3ts.jpg)
 
 
 以上输出确认 FreeIPA 已成功安装。
@@ -199,7 +199,7 @@ $ klist
 以上命令的输出：
 
 
-![](/Asserts/Images//attachment/album/202305/05/160543zzifmnusfsl05uqh.jpg)
+![](/Asserts/Images/album/202305/05/160543zzifmnusfsl05uqh.jpg)
 
 
 完美，上面的输出确认管理员获得了令牌。现在，尝试访问 FreeIPA Web 控制台，在网络浏览器上输入以下 URL：
@@ -223,19 +223,19 @@ https://<Server-IPAddress>/ipa/ui
 使用我们在安装过程中指定的用户名 `admin` 和密码。
 
 
-![](/Asserts/Images//attachment/album/202305/05/160553qnz0ibslqstmhhzr.jpg)
+![](/Asserts/Images/album/202305/05/160553qnz0ibslqstmhhzr.jpg)
 
 
 对于 FreeIPA Web 控制台，使用自签名 SSL 证书，这就是我们看到此窗口的原因，因此单击“<ruby> 接受风险并继续 <rt>  Accept the Risk and Continue </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202305/05/160601j4kltzoofyftfbl0.jpg)
+![](/Asserts/Images/album/202305/05/160601j4kltzoofyftfbl0.jpg)
 
 
 输入凭据后，单击“<ruby> 登录 <rt>  Log in </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202305/05/160610bj3luggvg377gnhg.jpg)
+![](/Asserts/Images/album/202305/05/160610bj3luggvg377gnhg.jpg)
 
 
 这证实我们已在 RHEL 8/Rocky Linux 8 / AlmaLinux8 上成功设置 FreeIPA。

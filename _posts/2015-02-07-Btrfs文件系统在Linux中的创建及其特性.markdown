@@ -13,7 +13,7 @@ tags:	[linuxcn,Btrfs,文件系统]
 你应该注意到，Btrfs才刚刚发布稳定版，所以强烈推荐你使用最新版的内核以避免可能出现的问题和漏洞。
 
 
-![](/Asserts/Images//attachment/album/201502/28/203046wqhqmlnnkj0m3npn.jpg)
+![](/Asserts/Images/album/201502/28/203046wqhqmlnnkj0m3npn.jpg)
 
 
 ### Btrfs特性
@@ -60,7 +60,7 @@ tags:	[linuxcn,Btrfs,文件系统]
 然后，你就可以使用mount命令将它挂载到你想要的任何位置。
 
 
-![btrfs-convert](/Asserts/Images//attachment/album/201502/28/203051iadmyml74bhzhvq4.jpg)
+![btrfs-convert](/Asserts/Images/album/201502/28/203051iadmyml74bhzhvq4.jpg)
 
 
 ### 转换根分区
@@ -91,7 +91,7 @@ tags:	[linuxcn,Btrfs,文件系统]
 
 ```
 
-![btrfs-root-convert](/Asserts/Images//attachment/album/201502/28/203053u1ohw2b2rcehegcc.jpg)
+![btrfs-root-convert](/Asserts/Images/album/201502/28/203053u1ohw2b2rcehegcc.jpg)
 
 
 现在来编辑fstab，并根据blkid输出的结果来修改当前“/”文件系统的UUID，并将它的文件系统类型修改为btrfs，修改后的行如下：

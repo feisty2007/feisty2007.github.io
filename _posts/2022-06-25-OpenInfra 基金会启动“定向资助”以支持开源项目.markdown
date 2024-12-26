@@ -7,7 +7,7 @@ tags:	[linuxcn,开源基金会]
 ---
 
 
-![OpenInfra](/Asserts/Images//attachment/album/202206/14/085751mlv2v4pgt13zpldl.png)
+![OpenInfra](/Asserts/Images/album/202206/14/085751mlv2v4pgt13zpldl.png)
 
 
 OpenInfra 基金会的前身为 OpenStack 基金会，几年前它将范围扩展到其旗舰项目之外，于是改了名字。2022 年 6 月 7 日，它宣布了一种有趣的新方式，让企业资助基金会内的开源项目。一般来说，开源基金会的企业成员通过支付会员费来支持该组织，然后基金会按照他们认为合适的方式分发这些费用。OpenInfra 基金会现在推出了一种新的“定向资助”模式，允许成员将他们的资金直接用于项目。

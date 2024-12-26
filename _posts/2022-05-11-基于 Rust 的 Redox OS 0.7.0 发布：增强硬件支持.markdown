@@ -15,7 +15,7 @@ tags:	[linuxcn,Redox OS]
 > 
 
 
-![Redox OS](/Asserts/Images//attachment/album/202205/02/103249mypcycyopyddi9hs.jpg)
+![Redox OS](/Asserts/Images/album/202205/02/103249mypcycyopyddi9hs.jpg)
 
 
 每年的这个时候，我们都会继续观察报道 Ubuntu 和基于它的发行版的新版本，但是今天不一样。

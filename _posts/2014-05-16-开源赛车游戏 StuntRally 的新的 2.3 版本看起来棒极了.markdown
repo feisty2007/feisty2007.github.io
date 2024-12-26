@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏,StuntRally]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/19/223502bgawg684nminihbz.jpg)
+![](/Asserts/Images/album/201405/19/223502bgawg684nminihbz.jpg)
 
 
 StuntRally是一个有着多达150条特色赛道和大量汽车模型的免费赛车游戏，它刚刚发布了最新的2.3版本，新版本的画质有了很大的提高。

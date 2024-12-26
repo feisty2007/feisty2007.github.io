@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,固件,BIOS,DOOM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/05/194746vkl7kxzr1x37r3ke.jpg)
+![](/Asserts/Images/album/202206/05/194746vkl7kxzr1x37r3ke.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/05/194754p1ewhwvzuuocv9zh.jpg)
+![](/Asserts/Images/album/202206/05/194754p1ewhwvzuuocv9zh.jpg)
 
 
 ### Doom 游戏被移植到 BIOS 中运行
@@ -35,7 +35,7 @@ Coreboot 是一个自由开源的 BIOS 实现，支持许多被称为“载荷�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/05/194805kw5xdidj3cstf5jd.jpg)
+![](/Asserts/Images/album/202206/05/194805kw5xdidj3cstf5jd.jpg)
 
 
 ### UNISOC 固件中的一个关键缺陷可阻断通讯
@@ -60,7 +60,7 @@ Coreboot 是一个自由开源的 BIOS 实现，支持许多被称为“载荷�
 > 
 
 
- ![](/Asserts/Images//attachment/album/202206/05/194840rwgg6s1gl5iwo3io.jpg)
+ ![](/Asserts/Images/album/202206/05/194840rwgg6s1gl5iwo3io.jpg)
 
 
 ### 谷歌助手正在失去基于位置的提醒

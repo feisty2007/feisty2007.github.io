@@ -18,7 +18,7 @@ tags:	[linuxcn,内存,监测]
 当涉及到Linux系统性能优化的时候，物理内存是一个最重要的因素。自然的，Linux提供了丰富的选择来监测珍贵的内存资源的使用情况。不同的工具，在监测粒度（例如：全系统范围，每个进程，每个用户），接口方式（例如：图形用户界面，命令行，ncurses）或者运行模式（交互模式，批量处理模式）上都不尽相同。
 
 
-![](/Asserts/Images//attachment/album/201502/06/092459ic9k4ksm9hn1b2j8.png)
+![](/Asserts/Images/album/201502/06/092459ic9k4ksm9hn1b2j8.png)
 
 
 下面是一个可供选择的，但并不全面的图形或命令行工具列表，这些工具用来检查Linux平台中已用和可用的内存。
@@ -36,7 +36,7 @@ $ cat /proc/meminfo
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092502qjxtynix94tt199a.jpg)
+![](/Asserts/Images/album/201502/06/092502qjxtynix94tt199a.jpg)
 
 
 ### 2. atop
@@ -51,7 +51,7 @@ $ sudo atop
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092511ds9nkhjpkv9ppk2s.jpg)
+![](/Asserts/Images/album/201502/06/092511ds9nkhjpkv9ppk2s.jpg)
 
 
 ### 3. free
@@ -66,7 +66,7 @@ $ free -h
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092513edvwwew63zwlsq4o.jpg)
+![](/Asserts/Images/album/201502/06/092513edvwwew63zwlsq4o.jpg)
 
 
 ### 4. GNOME System Monitor
@@ -81,7 +81,7 @@ $ gnome-system-monitor
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092516poxwnxjjhij6hvnx.jpg)
+![](/Asserts/Images/album/201502/06/092516poxwnxjjhij6hvnx.jpg)
 
 
 ### 5. htop
@@ -96,7 +96,7 @@ $ htop
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092523seyt0zqtty8t8eqy.jpg)
+![](/Asserts/Images/album/201502/06/092523seyt0zqtty8t8eqy.jpg)
 
 
 ### 6. KDE System Monitor
@@ -111,7 +111,7 @@ $ ksysguard
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092527q9enljx6tzl0j5cx.jpg)
+![](/Asserts/Images/album/201502/06/092527q9enljx6tzl0j5cx.jpg)
 
 
 ### 7. memstat
@@ -126,7 +126,7 @@ $ memstat -p <PID>
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092530bm4j68886lmntlu6.jpg)
+![](/Asserts/Images/album/201502/06/092530bm4j68886lmntlu6.jpg)
 
 
 ### 8. nmon
@@ -141,7 +141,7 @@ $ nmon
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092533r9yvg8v7vkjvpjv8.jpg)
+![](/Asserts/Images/album/201502/06/092533r9yvg8v7vkjvpjv8.jpg)
 
 
 ### 9. ps
@@ -156,7 +156,7 @@ $ ps aux --sort -rss
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092537vxt4i0tgyxyxad4z.jpg)
+![](/Asserts/Images/album/201502/06/092537vxt4i0tgyxyxad4z.jpg)
 
 
 ### 10. smem
@@ -171,7 +171,7 @@ $ sudo smem --pie name -c "pss"
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092539b0ikkfuvtuu2og2f.jpg)
+![](/Asserts/Images/album/201502/06/092539b0ikkfuvtuu2og2f.jpg)
 
 
 ### 11. top
@@ -180,7 +180,7 @@ $ sudo smem --pie name -c "pss"
 top命令提供了一个运行中进程的实时视图，以及特定进程的各种资源使用统计信息。与内存相关的信息包括 %MEM (内存使用率), VIRT (虚拟内存使用总量), SWAP (换出的虚拟内存使用量), CODE (分配给代码执行的物理内存数量), DATA (分配给非执行的数据的物理内存数量), RES (物理内存使用总量; CODE+DATA), 和 SHR (有可能与其他进程共享的内存数量)。你能够基于内存使用情况或者大小对进程列表进行排序。
 
 
-![](/Asserts/Images//attachment/album/201502/06/092543dgwjudpzgd5uj2pt.jpg)
+![](/Asserts/Images/album/201502/06/092543dgwjudpzgd5uj2pt.jpg)
 
 
 ### 12. vmstat
@@ -195,7 +195,7 @@ $ vmstat -s
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/06/092552ys866sjojjz6smh6.jpg)
+![](/Asserts/Images/album/201502/06/092552ys866sjojjz6smh6.jpg)
 
 
 

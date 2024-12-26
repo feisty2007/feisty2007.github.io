@@ -7,7 +7,7 @@ tags:	[linuxcn,Wire]
 ---
 
 
-![](/Asserts/Images//attachment/album/201611/08/101545s8plpwfmy8hd8wvh.jpeg)
+![](/Asserts/Images/album/201611/08/101545s8plpwfmy8hd8wvh.jpeg)
 
 
 回到大约两年前，一些曾开发 [Skype](https://www.skype.com/en/) 的开发人员发行了一个漂亮的新聊天应用个程序：[Wire](https://wire.com/)。当我说它漂亮的时候，只是谈论它的“外貌”。Wire 具有一个许多其他聊天应用程序所没有的整洁优美的“外貌”，但这并不是它最大的卖点。
@@ -67,7 +67,7 @@ Wire 有一个 64 位系统可使用的 .deb 客户端。如果你有一台 [32 
 这是 Wire 的默认界面，看起来像 [elementary OS Loki](https://itsfoss.com/tag/elementary-os-loki/):
 
 
-![](/Asserts/Images//attachment/album/201611/08/101614uo2woz4qzymfg2w5.jpeg)
+![](/Asserts/Images/album/201611/08/101614uo2woz4qzymfg2w5.jpeg)
 
 
 你看，他们甚至还弄了一个机器人：）

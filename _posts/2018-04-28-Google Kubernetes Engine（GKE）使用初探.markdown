@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,GKE,k8s]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/15/095240l1oiz1oo1t14vjig.jpg)
+![](/Asserts/Images/album/201804/15/095240l1oiz1oo1t14vjig.jpg)
 
 
 ### 概述
@@ -55,7 +55,7 @@ Google Cloud SDK 是 访问 GCP（Google Cloud Platform）平台各种资源的�
 #### 3. 到 Google Cloud Platform 控制台建一个 k8s 集群，记住名称
 
 
-![](/Asserts/Images//attachment/album/201804/15/095255zryhrknfhfjqu5fd.png) 
+![](/Asserts/Images/album/201804/15/095255zryhrknfhfjqu5fd.png) 
 
 
 #### 4. 安装 gcloud kubectl 组件

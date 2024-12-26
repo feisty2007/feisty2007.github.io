@@ -7,10 +7,10 @@ tags:	[linuxcn,UEFI,AI,蛋白质,GB18030]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/29/104752sxsw4xudwux1z9wu.jpg)
+![](/Asserts/Images/album/202207/29/104752sxsw4xudwux1z9wu.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/29/104812ptpk8xdxx9edddzd.jpg)
+![](/Asserts/Images/album/202207/29/104812ptpk8xdxx9edddzd.jpg)
 
 
 ### UEFI 攻击对我们来说是几乎是不可见的
@@ -35,7 +35,7 @@ tags:	[linuxcn,UEFI,AI,蛋白质,GB18030]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/29/104827jhd8bbq5hh527d26.jpg)
+![](/Asserts/Images/album/202207/29/104827jhd8bbq5hh527d26.jpg)
 
 
 ### DeepMind 发布几乎所有已知蛋白质的预测结构
@@ -60,7 +60,7 @@ tags:	[linuxcn,UEFI,AI,蛋白质,GB18030]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/29/104845x8omsftbu8pkkzkn.jpg)
+![](/Asserts/Images/album/202207/29/104845x8omsftbu8pkkzkn.jpg)
 
 
 ### 新版 GB18030 字符集标准发布

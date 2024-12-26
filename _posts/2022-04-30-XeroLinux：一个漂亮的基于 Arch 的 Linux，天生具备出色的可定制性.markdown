@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch,XeroLinux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/02/102130wl7d50v1zpti7s25.jpg)
+![](/Asserts/Images/album/202204/02/102130wl7d50v1zpti7s25.jpg)
 
 
 Arch Linux 是那些希望对他们的操作系统有更多控制权的 Linux 用户的一个流行选择。
@@ -28,7 +28,7 @@ Arch Linux 是那些希望对他们的操作系统有更多控制权的 Linux �
 ### XeroLinux：又一个基于 Arch 的发行版
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202llkppm0jkksk0ijk.jpg)
+![](/Asserts/Images/album/202204/02/102202llkppm0jkksk0ijk.jpg)
 
 
 [XeroLinux](https://xerolinux.xyz/) 是 Steve（又名 [TechXero](https://twitter.com/TechXero)）的个人项目，旨在提供一个“华丽”的 Arch Linux 版本。
@@ -49,7 +49,7 @@ XeroLinux 使用 [Calamares 安装程序](https://calamares.io/) 来让你轻松
 虽然安装体验与流行的 Linux 发行版相似，但你可以在安装时选择图形驱动程序、特定的 Linux 内核和工具。
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202e8j8vysjsr684nin.png)
+![](/Asserts/Images/album/202204/02/102202e8j8vysjsr684nin.png)
 
 
 你可以安装 System76 的电源管理驱动，并启用对 Nvidia Optimus Manager 的支持，为你的笔记本电脑切换显卡。有趣！
@@ -61,7 +61,7 @@ XeroLinux 使用 [Calamares 安装程序](https://calamares.io/) 来让你轻松
 考虑到你可以以选择的形式设置所有基本选项，你在安装后没有太多可担心的。
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202fcag6hoqi5acjngw.png)
+![](/Asserts/Images/album/202204/02/102202fcag6hoqi5acjngw.png)
 
 
 当你选择了需要的东西，只需重新启动并开始使用桌面。
@@ -76,7 +76,7 @@ XeroLinux 的开箱即用的体验令人印象深刻。桌面的整体外观和�
 它还支持全局菜单，使应用程序窗口看起来更干净，为 macOS 用户切换到 Linux 提供了舒适的体验。
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202im3mi39vg5tvvfhf.jpg)
+![](/Asserts/Images/album/202204/02/102202im3mi39vg5tvvfhf.jpg)
 
 
 通过所有预装的应用，你可以轻松地安装新的软件，卸载现有的工具并进行各种操作。
@@ -91,19 +91,19 @@ XeroLinux 的开箱即用的体验令人印象深刻。桌面的整体外观和�
 如果你不喜欢 Yakuake 终端仿真器，请参考我们的 [终端仿真器列表](https://itsfoss.com/linux-terminal-emulators/)，找到它的替代品。
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202o889t29m99b9b2du.jpg)
+![](/Asserts/Images/album/202204/02/102202o889t29m99b9b2du.jpg)
 
 
 另外不要忘了，你会得到一个定制的锁屏（登录屏），看起来很不错!
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202f41dohhjzc8df8dd.jpg)
+![](/Asserts/Images/album/202204/02/102202f41dohhjzc8df8dd.jpg)
 
 
 当你启动系统时，你还会注意到一个 **XeroLinux 配置工具**。它可以让你快速执行一些基本任务，比如检查 NVIDIA 显卡、安装 KVM/QEMU、禁用自动启动、安装 KDE 窗口平铺，以及其他一些配置，如下图所示。
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202v5kcs5gjh64g6g89.jpg)
+![](/Asserts/Images/album/202204/02/102202v5kcs5gjh64g6g89.jpg)
 
 
 ### 可定制性
@@ -118,13 +118,13 @@ XeroLinux 在其主版本中采用了 KDE 桌面环境。因此，你自然会�
 除此之外，你还可以看到 [Latte Dock](https://github.com/KDE/latte-dock)，你可以根据自己的喜好进行定制和调整。
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202mff7gfc59ofacmz9.png)
+![](/Asserts/Images/album/202204/02/102202mff7gfc59ofacmz9.png)
 
 
 有几个定制停靠区的选项，确保你仔细调整设置，以免看起来很奇怪。
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202c9ygvm0gv1gom79o.jpg)
+![](/Asserts/Images/album/202204/02/102202c9ygvm0gv1gom79o.jpg)
 
 
 此外，你会得到 [Kvantum Manager](https://store.kde.org/p/1005410/)，可以帮助你安装外部主题。
@@ -163,7 +163,7 @@ XFCE 版是为旧系统量身定做的（或者如果你需要节省系统资源
 以下是其 KDE 版本的资源使用情况：
 
 
-![](/Asserts/Images//attachment/album/202204/02/102202jtl10lls8hs193jr.png)
+![](/Asserts/Images/album/202204/02/102202jtl10lls8hs193jr.png)
 
 
 使用它的 XFCE 变体时，你可能会注意到较低的资源使用率。

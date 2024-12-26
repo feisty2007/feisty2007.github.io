@@ -10,7 +10,7 @@ tags:	[linuxcn,视频,图片,ffmpeg]
 你曾想过从一个视频文件中提取图片吗？在Linux下就可以，在这个教程中我将使用ffmpeg来从视频中获取图片。
 
 
-![](/Asserts/Images//attachment/album/201406/26/234008x5bi50xw4tceb05r.jpg)
+![](/Asserts/Images/album/201406/26/234008x5bi50xw4tceb05r.jpg)
 
 
 ### 什么是ffmpeg？What is ffmpeg?

@@ -7,7 +7,7 @@ tags:	[linuxcn,代码,示例]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/18/231616z1hhcerhrk3wzwkr.jpg)
+![](/Asserts/Images/album/202107/18/231616z1hhcerhrk3wzwkr.jpg)
 
 
 当编写程序时，我花费了大量时间在编写好的示例上。我从未见过有人写过关于如何写出好的示例，所以我就写了一下如何写出一份好的示例。

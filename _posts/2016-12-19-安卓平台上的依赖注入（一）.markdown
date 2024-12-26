@@ -7,7 +7,7 @@ tags:	[linuxcn,Java]
 ---
 
 
-![](/Asserts/Images//attachment/album/201612/26/204426ezi9djn59j9jiizn.jpg)
+![](/Asserts/Images/album/201612/26/204426ezi9djn59j9jiizn.jpg)
 
 
 刚开始学习软件工程的时候，我们经常会碰到像这样的事情：

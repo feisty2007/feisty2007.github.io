@@ -7,7 +7,7 @@ tags:	[linuxcn,KVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/25/155857v1e939ckoj3eaxe3.jpg)
+![](/Asserts/Images/album/202305/25/155857v1e939ckoj3eaxe3.jpg)
 
 
 
@@ -50,7 +50,7 @@ $ cat /proc/cpuinfo | egrep "vmx|svm"
 从以下输出中，你可以看到我们的系统启用了英特尔硬件虚拟化：
 
 
-![](/Asserts/Images//attachment/album/202305/25/160235mterwfxif5eezrrx.jpg)
+![](/Asserts/Images/album/202305/25/160235mterwfxif5eezrrx.jpg)
 
 
 ### 2、在 Rocky Linux 9 / AlmaLinux 9 上安装 KVM
@@ -65,7 +65,7 @@ $ sudo dnf install qemu-kvm virt-manager libvirt virt-install virt-viewer virt-t
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/25/160242b3dyjj3xc3d8s2h5.jpg)
+![](/Asserts/Images/album/202305/25/160242b3dyjj3xc3d8s2h5.jpg)
 
 
 安装完成后，运行以下命令检查是否已加载所需的 KVM 模块。
@@ -80,7 +80,7 @@ $ lsmod | grep kvm
 你应该得到以下输出以确认已加载必要的模块：
 
 
-![](/Asserts/Images//attachment/album/202305/25/160249fojj180t7asyyy6o.jpg)
+![](/Asserts/Images/album/202305/25/160249fojj180t7asyyy6o.jpg)
 
 
 ### 3、启动并启用 libvirtd 守护进程
@@ -116,7 +116,7 @@ $ sudo systemctl status libvirtd
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/25/160256t7vsaj7dlgppygop.jpg)
+![](/Asserts/Images/album/202305/25/160256t7vsaj7dlgppygop.jpg)
 
 
 ### 4、设置桥接接口
@@ -137,7 +137,7 @@ $ sudo nmcli connection show
 从输出来看，`ens160` 是活动的网络接口，请务必注意你的情况下的接口，因为你将一路使用它。
 
 
-![](/Asserts/Images//attachment/album/202305/25/160304jkfynx9d9xys39y3.jpg)
+![](/Asserts/Images/album/202305/25/160304jkfynx9d9xys39y3.jpg)
 
 
 要开始创建网桥，首先，使用以下语法用其 UUID 删除连接：
@@ -161,7 +161,7 @@ $ sudo nmcli connection delete 19e98123-9a84-30a6-bc59-a7134446bb26
 你将收到连接已成功删除的确认信息。
 
 
-![](/Asserts/Images//attachment/album/202305/25/160315n1uf7r7si8fi67sm.jpg)
+![](/Asserts/Images/album/202305/25/160315n1uf7r7si8fi67sm.jpg)
 
 
 在继续进行之前，最好准备好以下详细信息：
@@ -192,7 +192,7 @@ $ sudo nmcli connection add type bridge autoconnect yes con-name br1 ifname br1
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/25/160324tbvbin1ainv7ku1z.jpg)
+![](/Asserts/Images/album/202305/25/160324tbvbin1ainv7ku1z.jpg)
 
 
 在接下来的步骤中，你将通过指定 IP 子网、网关和 DNS 值来修改网桥。
@@ -252,7 +252,7 @@ $ sudo nmcli connection modify br1 ipv4.dns 8.8.8.8 +ipv4.dns 8.8.4.4
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/25/160339zcc2vhcc2h61kzxx.jpg)
+![](/Asserts/Images/album/202305/25/160339zcc2vhcc2h61kzxx.jpg)
 
 
 此后，使用以下命令添加网桥从属设备：
@@ -276,7 +276,7 @@ $ sudo nmcli connection add type bridge-slave autoconnect yes con-name ens160 if
 你将收到以下确认信息，表明已成功添加网桥从属设备。请记住，桥接从属设备是你的网络接口或适配器。
 
 
-![](/Asserts/Images//attachment/album/202305/25/160349a4hzz16xzzqq1mx0.jpg)
+![](/Asserts/Images/album/202305/25/160349a4hzz16xzzqq1mx0.jpg)
 
 
 要确认网桥已创建，请运行以下命令：
@@ -291,7 +291,7 @@ $ sudo nmcli connection show
 从输出中，你可以看到列出了网桥接口。
 
 
-![](/Asserts/Images//attachment/album/202305/25/160401o83frylp6rohplot.jpg)
+![](/Asserts/Images/album/202305/25/160401o83frylp6rohplot.jpg)
 
 
 激要活它，请运行以下命令：
@@ -303,7 +303,7 @@ $ sudo nmcli connection up br1
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/25/160410eqa68k8la88igrws.jpg)
+![](/Asserts/Images/album/202305/25/160410eqa68k8la88igrws.jpg)
 
 
 此外，你可以使用 `ip addr` 命令验证：
@@ -315,7 +315,7 @@ $ ip addr | grep br1
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/25/160419b0r9rxd7v1ozydze.jpg)
+![](/Asserts/Images/album/202305/25/160419b0r9rxd7v1ozydze.jpg)
 
 
 最后，编辑网桥配置文件。
@@ -375,16 +375,16 @@ $ virt-install \
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/25/160430tslv6t61s2wlulxs.jpg)
+![](/Asserts/Images/album/202305/25/160430tslv6t61s2wlulxs.jpg)
 
 
 执行该命令后，将启动图形屏幕会话，并开始安装客户操作系统。
 
 
-![](/Asserts/Images//attachment/album/202305/25/160439bb6fdggaf60dbr88.jpg)
+![](/Asserts/Images/album/202305/25/160439bb6fdggaf60dbr88.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/25/160452snhizitui7v0ivwp.jpg)
+![](/Asserts/Images/album/202305/25/160452snhizitui7v0ivwp.jpg)
 
 
 ### 总结

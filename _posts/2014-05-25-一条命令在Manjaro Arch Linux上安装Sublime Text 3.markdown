@@ -10,7 +10,7 @@ tags:	[linuxcn,Sublime Text,Arch Linux]
 [Sublime Text 3](http://www.sublimetext.com/3)目前还处于beta测试状态，目前最新的版本为Build 3059。 这个教程中我们将通过AUR安装Sublime Text 3 build 3059。
 
 
-![](/Asserts/Images//attachment/album/201405/23/140713qs0jssqk707o31h1.png)
+![](/Asserts/Images/album/201405/23/140713qs0jssqk707o31h1.png)
 
 
 打开终端并运行下列命令, 选择是否(Y/N)继续安装（这里选择Y）。
@@ -22,7 +22,7 @@ sudo yaourt -S sublime-text-dev
 
 ```
 
-![](/Asserts/Images//attachment/album/201405/23/140715hgl1lcebt2s34ugl.png)
+![](/Asserts/Images/album/201405/23/140715hgl1lcebt2s34ugl.png)
 
 
 
@@ -49,7 +49,7 @@ Total Installed Size: 16.02 MiB
 
 ```
 
-![](/Asserts/Images//attachment/album/201405/23/140717g17ldii31f6i286i.png)
+![](/Asserts/Images/album/201405/23/140717g17ldii31f6i286i.png)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,编程,DNS,专利]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/23/150140tniu1p1sirpinbvi.jpg)
+![](/Asserts/Images/album/202005/23/150140tniu1p1sirpinbvi.jpg)
 
 
 #### Twitter CEO：自动化会甚至会对编程工作构成威胁

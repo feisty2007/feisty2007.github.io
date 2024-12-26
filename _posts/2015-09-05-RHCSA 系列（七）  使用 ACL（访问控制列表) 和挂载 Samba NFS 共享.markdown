@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCSA,ACL]
 在上一篇文章([RHCSA 系列（六）](/article-6257-1.html))中，我们解释了如何使用 parted 和 ssm 来设置和配置本地系统存储。
 
 
-![配置 ACL 及挂载 NFS/Samba 共享](/Asserts/Images//attachment/album/201509/21/231058m9l58njobd5vbn6b.png)
+![配置 ACL 及挂载 NFS/Samba 共享](/Asserts/Images/album/201509/21/231058m9l58njobd5vbn6b.png)
 
 
 *RHCSA 系列: 配置 ACL 及挂载 NFS/Samba 共享 – Part 7*
@@ -80,7 +80,7 @@ tags:	[linuxcn,RHCSA,ACL]
 
 ```
 
-![检验用户](/Asserts/Images//attachment/album/201509/21/231059ucaeooip6o5sop51.png)
+![检验用户](/Asserts/Images/album/201509/21/231059ucaeooip6o5sop51.png)
 
 
 *检验用户*
@@ -120,7 +120,7 @@ $ echo "My name is Gabriel Canepa" >> /mnt/playground/testfile.txt
 
 ```
 
-![管理用户的权限](/Asserts/Images//attachment/album/201509/21/231100zudukugmjjultdz1.png)
+![管理用户的权限](/Asserts/Images/album/201509/21/231100zudukugmjjultdz1.png)
 
 
 *管理用户的权限*
@@ -159,7 +159,7 @@ $ echo "My name is Gabriel Canepa" >> /mnt/playground/testfile.txt
 
 ```
 
-![检查文件的 ACL](/Asserts/Images//attachment/album/201509/21/231102hwyypa0h3uv7e7ei.png)
+![检查文件的 ACL](/Asserts/Images/album/201509/21/231102hwyypa0h3uv7e7ei.png)
 
 
 *检查文件的 ACL*
@@ -177,7 +177,7 @@ $ echo "My name is Gabriel Canepa" >> /mnt/playground/testfile.txt
 上面的 ACL 将允许不在属组中的用户对目录 /mnt/playground 中的内容有读权限。请注意观察这次更改前后 `getfacl /mnt/playground` 的输出结果的不同：
 
 
-![在 Linux 中设定默认 ACL](/Asserts/Images//attachment/album/201509/21/231105cs7v7g7vszzsdydc.png)
+![在 Linux 中设定默认 ACL](/Asserts/Images/album/201509/21/231105cs7v7g7vszzsdydc.png)
 
 
 *在 Linux 中设定默认 ACL*
@@ -210,7 +210,7 @@ $ echo "My name is Gabriel Canepa" >> /mnt/playground/testfile.txt
 则你将得到一个在 192.168.0.10 上可用的 NFS 共享的列表：
 
 
-![检查可用的 NFS 共享](/Asserts/Images//attachment/album/201509/21/231106ie1464672828de77.png)
+![检查可用的 NFS 共享](/Asserts/Images/album/201509/21/231106ie1464672828de77.png)
 
 
 *检查可用的 NFS 共享*
@@ -277,7 +277,7 @@ Samba 代表一个特别的工具，使得在由 \*nix 和 Windows 机器组成�
 
 ```
 
-![检查 Samba 共享](/Asserts/Images//attachment/album/201509/21/231107mslk4vjiv4vfvto1.png)
+![检查 Samba 共享](/Asserts/Images/album/201509/21/231107mslk4vjiv4vfvto1.png)
 
 
 *检查 Samba 共享*

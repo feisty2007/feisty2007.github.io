@@ -7,10 +7,10 @@ tags:	[linuxcn,Atom,GitHub,OpenAI,地图]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/16/170329xk9udzq2xzpg92wt.jpg)
+![](/Asserts/Images/album/202212/16/170329xk9udzq2xzpg92wt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/16/170338vnwz7ri55vmfnwa0.jpg)
+![](/Asserts/Images/album/202212/16/170338vnwz7ri55vmfnwa0.jpg)
 
 
 ### Atom 编辑器项目进入只读归档模式
@@ -35,7 +35,7 @@ tags:	[linuxcn,Atom,GitHub,OpenAI,地图]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/16/170348mzh0hcs3hnnphnrs.jpg)
+![](/Asserts/Images/album/202212/16/170348mzh0hcs3hnnphnrs.jpg)
 
 
 ### OpenAI 预计到 2024 年收入将达到 10 亿美元
@@ -60,7 +60,7 @@ tags:	[linuxcn,Atom,GitHub,OpenAI,地图]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/16/170359psf9s889mqha977f.jpg)
+![](/Asserts/Images/album/202212/16/170359psf9s889mqha977f.jpg)
 
 
 ### Meta、微软、AWS 等合作构建开放地图数据

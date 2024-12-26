@@ -7,7 +7,7 @@ tags:	[linuxcn,时间,安全,Manjaro]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/14/103756tm4utq74roq6v4ii.jpg)
+![](/Asserts/Images/album/202009/14/103756tm4utq74roq6v4ii.jpg)
 
 
 #### UNIX 时间突破 16 亿秒

@@ -7,7 +7,7 @@ tags:	[linuxcn,Swift]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/24/074710vxuzxsf3gromxuxo.jpg)
+![](/Asserts/Images/album/202009/24/074710vxuzxsf3gromxuxo.jpg)
 
 
 #### 停摆一年后，Linux Journal 宣布再次归来

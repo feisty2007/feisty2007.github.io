@@ -7,7 +7,7 @@ tags:	[linuxcn,zlib]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/12/095552ndjee050i099j0j6.jpg)
+![](/Asserts/Images/album/202107/12/095552ndjee050i099j0j6.jpg)
 
 
 [Zlib](https://zlib.net/) 是一个用于数据压缩的开源库。

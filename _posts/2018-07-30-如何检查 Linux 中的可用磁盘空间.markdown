@@ -15,7 +15,7 @@ tags:	[linuxcn,磁盘]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/23/143741g3v54ph5nrqvs34s.jpg)
+![](/Asserts/Images/album/201807/23/143741g3v54ph5nrqvs34s.jpg)
 
 
 跟踪磁盘利用率信息是系统管理员（和其他人）的日常待办事项列表之一。Linux 有一些内置的使用程序来帮助提供这些信息。
@@ -33,7 +33,7 @@ tags:	[linuxcn,磁盘]
 `df -a` 显示文件系统的完整磁盘使用情况，即使 Available（可用） 字段为 0。
 
 
-![](/Asserts/Images//attachment/album/201807/23/143803xj0q3jt711u86lbj.png)
+![](/Asserts/Images/album/201807/23/143803xj0q3jt711u86lbj.png)
 
 
 `df -T` 显示磁盘使用情况以及每个块的文件系统类型（例如，xfs、ext2、ext3、btrfs 等）。
@@ -42,7 +42,7 @@ tags:	[linuxcn,磁盘]
 `df -i` 显示已使用和未使用的 inode。
 
 
-![](/Asserts/Images//attachment/album/201807/23/143811kct2ozb2oboiie9t.png)
+![](/Asserts/Images/album/201807/23/143811kct2ozb2oboiie9t.png)
 
 
 ### du
@@ -60,7 +60,7 @@ tags:	[linuxcn,磁盘]
 `du -s` 提供特定文件或目录使用的总磁盘空间。
 
 
-![](/Asserts/Images//attachment/album/201807/23/143816i5ogql8bjzoou85o.png)
+![](/Asserts/Images/album/201807/23/143816i5ogql8bjzoou85o.png)
 
 
 ### ls -al
@@ -69,7 +69,7 @@ tags:	[linuxcn,磁盘]
 `ls -al` 列出了特定目录的全部内容及大小。
 
 
-![](/Asserts/Images//attachment/album/201807/23/143818vrh5i4q24iwp48ze.png)
+![](/Asserts/Images/album/201807/23/143818vrh5i4q24iwp48ze.png)
 
 
 ### stat
@@ -78,7 +78,7 @@ tags:	[linuxcn,磁盘]
 `stat <文件/目录>`显示文件/目录或文件系统的大小和其他统计信息。
 
 
-![](/Asserts/Images//attachment/album/201807/23/143823q003ksmdkzw8443g.png)
+![](/Asserts/Images/album/201807/23/143823q003ksmdkzw8443g.png)
 
 
 ### fdisk -l
@@ -87,7 +87,7 @@ tags:	[linuxcn,磁盘]
 `fdisk -l` 显示磁盘大小以及磁盘分区信息。
 
 
-![](/Asserts/Images//attachment/album/201807/23/143831s1n8wxw0dneal49j.png)
+![](/Asserts/Images/album/201807/23/143831s1n8wxw0dneal49j.png)
 
 
 这些是用于检查 Linux 文件空间的大多数内置实用程序。有许多类似的工具，如 [Disks](https://wiki.gnome.org/Apps/Disks)（GUI 工具），[Ncdu](https://dev.yorhel.nl/ncdu) 等，它们也显示磁盘空间的利用率。你有你最喜欢的工具而它不在这个列表上吗？请在评论中分享。

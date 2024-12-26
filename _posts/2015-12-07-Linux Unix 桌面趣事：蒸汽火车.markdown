@@ -37,7 +37,7 @@ $ sl
 
 ```
 
-![Fig.01: Run steam locomotive across the screen if you type "sl" instead of "ls"](/Asserts/Images//attachment/album/201512/25/145906yagt84326fzii83t.png)
+![Fig.01: Run steam locomotive across the screen if you type "sl" instead of "ls"](/Asserts/Images/album/201512/25/145906yagt84326fzii83t.png)
 
 
 *图01: 如果你把 “ls” 输入成 “sl” ，蒸汽火车会穿过你的屏幕。*

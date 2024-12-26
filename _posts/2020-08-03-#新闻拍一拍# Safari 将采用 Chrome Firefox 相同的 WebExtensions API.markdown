@@ -7,7 +7,7 @@ tags:	[linuxcn,浏览器,npm,苹果]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/29/083053jfxbmionznj2cnk0.jpg)
+![](/Asserts/Images/album/202008/29/083053jfxbmionznj2cnk0.jpg)
 
 
 #### Safari 将采用 Chrome/Firefox 相同的 WebExtensions API

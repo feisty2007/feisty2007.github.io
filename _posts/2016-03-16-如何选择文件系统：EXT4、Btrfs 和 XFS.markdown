@@ -7,7 +7,7 @@ tags:	[linuxcn,文件系统,EXT4,Btrfs,XFS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201603/09/105057apy6dlybkikld9kt.jpg)
+![](/Asserts/Images/album/201603/09/105057apy6dlybkikld9kt.jpg)
 
 
 老实说，人们最不曾思考的问题之一是他们的个人电脑中使用了什么文件系统。Windows 和 Mac OS X 用户更没有理由去考虑，因为对于他们的操作系统，只有一种选择，那就是 NTFS 和 HFS+。相反，对于 Linux 系统而言，有很多种文件系统可以选择，现在默认的是广泛采用的 ext4。然而，现在也有改用一种称为 btrfs 文件系统的趋势。那是什么使得 btrfs 更优秀，其它的文件系统又是什么，什么时候我们又能看到 Linux 发行版作出改变呢？

@@ -16,7 +16,7 @@ tags:	[linuxcn,ARChon,Android]
 应用借助这种运行环境时的性能并不是很好。同样，由于它是官方运行环境的非官方二次开发包，而且运行在Google的Chrome OS之外，因此一些如摄像头和喇叭等系统内置设备可能需要通过打补丁获得或者根本不支持。
 
 
-![](/Asserts/Images//attachment/album/201505/31/195732i6odbdxb17gjajdd.jpg)
+![](/Asserts/Images/album/201505/31/195732i6odbdxb17gjajdd.jpg)
 
 
 ### 安装Chrome
@@ -38,7 +38,7 @@ $ sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /
 
 ```
 
-![Adding google source list](/Asserts/Images//attachment/album/201505/31/000501zdca4ss9scjc9yjj.png)
+![Adding google source list](/Asserts/Images/album/201505/31/000501zdca4ss9scjc9yjj.png)
 
 
 添加完软件源列表后，使用下列命令更新本地的软件库索引。
@@ -59,7 +59,7 @@ $ sudo apt-get install google-chrome-unstable
 
 ```
 
-![Installing Google chrome unstable](/Asserts/Images//attachment/album/201505/31/000502zoyyvu0rzqiqvyq5.png)
+![Installing Google chrome unstable](/Asserts/Images/album/201505/31/000502zoyyvu0rzqiqvyq5.png)
 
 
 ### 安装Archon运行时环境
@@ -89,7 +89,7 @@ $ wget https://github.com/vladikoff/chromeos-apk/releases/download/v3.0.0/ARChon
 
 ```
 
-![Downloading ARChon](/Asserts/Images//attachment/album/201505/31/000503viw1i9pu3d3udwdi.png)
+![Downloading ARChon](/Asserts/Images/album/201505/31/000503viw1i9pu3d3udwdi.png)
 
 
 
@@ -131,7 +131,7 @@ $ npm install -g chromeos-apk@latest
 
 ```
 
-![chromeos apk installation](/Asserts/Images//attachment/album/201505/31/000503yzjjl33slgw3mns2.png)
+![chromeos apk installation](/Asserts/Images/album/201505/31/000503yzjjl33slgw3mns2.png)
 
 
 取决于系统配置，可能需要以sudo权限运行后一条命令。

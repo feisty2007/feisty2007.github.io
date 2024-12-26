@@ -7,7 +7,7 @@ tags:	[linuxcn,Windows,Linux,ESR]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/29/110622ueg3gepbsgr3f8rj.jpg)
+![](/Asserts/Images/album/202009/29/110622ueg3gepbsgr3f8rj.jpg)
 
 
 近日，著名开源领袖、写出《大教堂与集市》的 ESR（Eric S. Raymond）[撰文](http://esr.ibiblio.org/?p=8764)指出，微软的 Windows 可能最后会切换到 Linux 内核，成为一个保留 Windows 界面的 Linux。微软目前的主要收入来源于其云服务，而操作系统业务对微软来说，所能贡献的利润比例会越来越少。Windows 将来可能是运行于 Linux 内核之上的一个桌面环境和一个越来越薄的 Windows 兼容层 —— 以兼容原有的 Windows 二进制程序。

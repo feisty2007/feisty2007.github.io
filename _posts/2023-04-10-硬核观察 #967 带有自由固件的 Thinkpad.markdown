@@ -7,10 +7,10 @@ tags:	[linuxcn,自由固件,Twitter,量子通讯]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/10/191951ajpkf5h2ef6pq6e2.jpg)
+![](/Asserts/Images/album/202304/10/191951ajpkf5h2ef6pq6e2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/10/192001tvoqqcoc3cna33xn.jpg)
+![](/Asserts/Images/album/202304/10/192001tvoqqcoc3cna33xn.jpg)
 
 
 ### 带有自由固件的 Thinkpad
@@ -35,7 +35,7 @@ tags:	[linuxcn,自由固件,Twitter,量子通讯]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/10/192012w12ulsqcha6wmqcs.jpg)
+![](/Asserts/Images/album/202304/10/192012w12ulsqcha6wmqcs.jpg)
 
 
 ### Twitter 开源的代码被发现“安全漏洞”
@@ -60,7 +60,7 @@ Twitter 开源的推荐代码被安全专家发现一个 ‘影子封杀” 漏�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/10/192026txkb17lzabxz7m0l.jpg)
+![](/Asserts/Images/album/202304/10/192026txkb17lzabxz7m0l.jpg)
 
 
 ### 使用钻石延长量子网络通讯距离

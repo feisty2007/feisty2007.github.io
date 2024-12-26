@@ -10,7 +10,7 @@ tags:	[linuxcn,Ubuntu,Android,锁频应用程序]
 经过八个月的开发，Canonical 放出了 Ubuntu 风格的 Android 锁频应用程序。虽然现在 Canonical 正在紧张的筹资 Ubuntu Edge 项目。不过他们没有忘记了这个应用程序。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201308/12/22470882r62kv8dr2n1j22.jpg](/Asserts/Images//attachment/album/201308/12/22470882r62kv8dr2n1j22.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201308/12/22470882r62kv8dr2n1j22.jpg](/Asserts/Images/album/201308/12/22470882r62kv8dr2n1j22.jpg)
 
 
 这个是 XDA 开发论坛单独开发的 Android 应用程序，不是为了 Ubuntu Edge 打前奏的实验程序。所以大家可以放心的使用。

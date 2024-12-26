@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,Linux,内核,Thunderbird]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/10/085010pfoqpqzrqqrrth27.jpg)
+![](/Asserts/Images/album/202302/10/085010pfoqpqzrqqrrth27.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/10/085027s6l1mxemfrxtegjz.jpg)
+![](/Asserts/Images/album/202302/10/085027s6l1mxemfrxtegjz.jpg)
 
 
 ### GNU Coreutils 的 Rust 实现正变得非常强大
@@ -35,7 +35,7 @@ tags:	[linuxcn,Rust,Linux,内核,Thunderbird]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/10/085036m4a6dk7h6767w74i.jpg)
+![](/Asserts/Images/album/202302/10/085036m4a6dk7h6767w74i.jpg)
 
 
 ### Linux 6.1 被选为 LTS 长期支持内核
@@ -60,7 +60,7 @@ tags:	[linuxcn,Rust,Linux,内核,Thunderbird]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/10/085049v9tbbjhcthbuh11w.jpg)
+![](/Asserts/Images/album/202302/10/085049v9tbbjhcthbuh11w.jpg)
 
 
 ### Thunderbird 正在经历一次从头开始的大规模重修

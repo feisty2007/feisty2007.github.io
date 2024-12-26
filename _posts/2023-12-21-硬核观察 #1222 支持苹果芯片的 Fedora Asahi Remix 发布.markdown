@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果芯片,数字化,Play 商店]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/21/074226fvm960mvkv6mymn9.jpg)
+![](/Asserts/Images/album/202312/21/074226fvm960mvkv6mymn9.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/21/074239ipe5aq22e3022y51.png)
+![](/Asserts/Images/album/202312/21/074239ipe5aq22e3022y51.png)
 
 
 ### #1 支持苹果芯片的 Fedora Asahi Remix 发布
@@ -38,7 +38,7 @@ tags:	[linuxcn,苹果芯片,数字化,Play 商店]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/21/074255vl0nbhnttcc06vtt.png)
+![](/Asserts/Images/album/202312/21/074255vl0nbhnttcc06vtt.png)
 
 
 ### #2 英国司法部计划将 1 亿份历史遗嘱数字化然后销毁
@@ -66,7 +66,7 @@ tags:	[linuxcn,苹果芯片,数字化,Play 商店]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/21/074314n9fikwb4vr3wsksw.png)
+![](/Asserts/Images/album/202312/21/074314n9fikwb4vr3wsksw.png)
 
 
 ### #3 谷歌 Play 商店准备推出远程卸载应用程序功能

@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch,man]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/08/121323qpu0z08oililii2e.jpg)
+![](/Asserts/Images/album/201904/08/121323qpu0z08oililii2e.jpg)
 
 
 现在上网已经很方便了，但技术上会有限制。看到技术的发展，我很惊讶，但与此同时，各种地方也都会出现衰退。
@@ -118,13 +118,13 @@ $ awman Search-Term
 $ awman installation
 ```
 
-![](/Asserts/Images//attachment/album/201904/08/121329qmtz7mkdt6tdukby.png)
+![](/Asserts/Images/album/201904/08/121329qmtz7mkdt6tdukby.png)
 
 
 详细页面的截屏：
 
 
-![](/Asserts/Images//attachment/album/201904/08/121331usoc8ww1b8hb0vw8.png)
+![](/Asserts/Images/album/201904/08/121331usoc8ww1b8hb0vw8.png)
 
 
 ### 在标题和描述中搜索给定的字符串
@@ -197,7 +197,7 @@ $ awman -w AUR helper
 $ awman --web AUR helper
 ```
 
-![](/Asserts/Images//attachment/album/201904/08/121332n18u1nrxnuuunrcv.png)
+![](/Asserts/Images/album/201904/08/121332n18u1nrxnuuunrcv.png)
 
 
 ### 以其他语言搜索
@@ -248,7 +248,7 @@ ukrainian
 $ awman -l chinesesim deepin
 ```
 
-![](/Asserts/Images//attachment/album/201904/08/121334vpkgagb596hh5x0i.png)
+![](/Asserts/Images/album/201904/08/121334vpkgagb596hh5x0i.png)
 
 
 

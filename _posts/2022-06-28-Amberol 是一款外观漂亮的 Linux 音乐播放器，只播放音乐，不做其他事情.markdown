@@ -7,7 +7,7 @@ tags:	[linuxcn,音乐播放器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/12/155846b0sbsvtt1et70ttf.jpg)
+![](/Asserts/Images/album/202206/12/155846b0sbsvtt1et70ttf.jpg)
 
 
 虽然音乐世界被流媒体服务所主导，但这并没有阻止开发者为桌面电脑创建音乐播放器。
@@ -16,7 +16,7 @@ tags:	[linuxcn,音乐播放器]
 最近，我发现了一个外观漂亮的新的 Linux 桌面音乐播放器。它名为 Amberol，我被它的美丽所震撼。
 
 
-![amberol music player interface](/Asserts/Images//attachment/album/202206/12/155854d7jtu047itxpup7m.png)
+![amberol music player interface](/Asserts/Images/album/202206/12/155854d7jtu047itxpup7m.png)
 
 
 看起来不错，不是吗？让我们仔细看看它。
@@ -43,7 +43,7 @@ Amberol 和大多数新的 GNOME 应用一样，是用 Rust 和 GTK 编写的。
 它有一个自适应的用户界面，可以根据你正在播放的专辑颜色来改变颜色。渐变效果给了它一个现代、时尚的外观，肯定会成为你的 Linux <ruby> 美化 <rt>  Ricing </rt></ruby>截图的一部分。
 
 
-![amberol music player](/Asserts/Images//attachment/album/202206/12/155854jdu7d1nha171n01l.png)
+![amberol music player](/Asserts/Images/album/202206/12/155854jdu7d1nha171n01l.png)
 
 
 由于其 UI 没有传统的手柄和菜单，它给应用一个统一的外观。
@@ -55,7 +55,7 @@ Amberol 和大多数新的 GNOME 应用一样，是用 Rust 和 GTK 编写的。
 它会从你添加的文件夹中的文件自动生成一个播放列表，显示在左手边的侧边栏。
 
 
-![amberol playlist](/Asserts/Images//attachment/album/202206/12/155854vsvfo3s2cidousw9.png)
+![amberol playlist](/Asserts/Images/album/202206/12/155854vsvfo3s2cidousw9.png)
 
 
 你可以在左上角看到整个播放列表将播放多长时间的音乐。点击“勾选”符号，你可以选择歌曲，并从播放列表中删除它们。
@@ -64,7 +64,7 @@ Amberol 和大多数新的 GNOME 应用一样，是用 Rust 和 GTK 编写的。
 如果你愿意，可以隐藏播放列表的侧边栏。
 
 
-![amberol without playlist](/Asserts/Images//attachment/album/202206/12/155855zpd2pm7aayo4dpy7.png)
+![amberol without playlist](/Asserts/Images/album/202206/12/155855zpd2pm7aayo4dpy7.png)
 
 
 #### 音乐播放选项
@@ -76,13 +76,13 @@ Amberol 和大多数新的 GNOME 应用一样，是用 Rust 和 GTK 编写的。
 Amberol 为你提供了一些播放音乐的选项。你可以打开随机播放功能，按随机顺序播放音乐。你也可以单曲循环，直到你厌倦它。
 
 
-![amberol music playing options](/Asserts/Images//attachment/album/202206/12/155855cuu6xfuj5njax5u6.png)
+![amberol music playing options](/Asserts/Images/album/202206/12/155855cuu6xfuj5njax5u6.png)
 
 
 底部的汉堡菜单让你可以选择添加文件或文件夹，并显示可用的键盘快捷方式。
 
 
-![amberol keyboard shortcuts](/Asserts/Images//attachment/album/202206/12/155856vdfxvbrm9pppqvmx.png)
+![amberol keyboard shortcuts](/Asserts/Images/album/202206/12/155856vdfxvbrm9pppqvmx.png)
 
 
 你也可以从这里禁用 UI 颜色变化以配合专辑封面。
@@ -109,7 +109,7 @@ flatpak install flathub io.bassi.Amberol
 第一次运行时，它会要求你添加音乐文件或文件夹。你也可以拖放文件播放。
 
 
-![amberol first run](/Asserts/Images//attachment/album/202206/12/155856wtm8sf69y8wm81jy.png)
+![amberol first run](/Asserts/Images/album/202206/12/155856wtm8sf69y8wm81jy.png)
 
 
 ### 总结

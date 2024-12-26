@@ -23,7 +23,7 @@ tags:	[linuxcn,视频会议]
 ### Jitsi Meet：免费使用的开源视频会议服务
 
 
-![](/Asserts/Images//attachment/album/202008/03/204505jqf2ffaq4o4qo22b.png)
+![](/Asserts/Images/album/202008/03/204505jqf2ffaq4o4qo22b.png)
 
 
 Jitsi Meet 是开源语音、视频会议和即时消息服务 [Jitsi](https://jitsi.org/) 集合的一部分。
@@ -44,7 +44,7 @@ Jitsi Meet 是开源语音、视频会议和即时消息服务 [Jitsi](https://j
 ### Jitsi Meet 的功能
 
 
-![](/Asserts/Images//attachment/album/202008/03/204514lq7cnnnackzzkd5y.jpg)
+![](/Asserts/Images/album/202008/03/204514lq7cnnnackzzkd5y.jpg)
 
 
 Jitsi Meet 简单但功能丰富。这是你将获得的功能：
@@ -70,7 +70,7 @@ Jitsi Meet 简单但功能丰富。这是你将获得的功能：
 * Jitsi 可选的桌面版本
 
 
-![](/Asserts/Images//attachment/album/202008/03/204537ig92p99g3pgggvzg.png)
+![](/Asserts/Images/album/202008/03/204537ig92p99g3pgggvzg.png)
 
 
 出于显而易见的原因，你在移动应用上只能找到较少的功能。
@@ -85,7 +85,7 @@ Jitsi Meet 简单但功能丰富。这是你将获得的功能：
 ### 如何使用 Jitsi Meet？
 
 
-![](/Asserts/Images//attachment/album/202008/03/204551cmc3scf82f8zum4l.png)
+![](/Asserts/Images/album/202008/03/204551cmc3scf82f8zum4l.png)
 
 
 要使它在 Linux 上运行，你不需要做任何其他事情。你只需要前往它的[官方 Jitsi Meet 实例](https://meet.jit.si/)，然后输入会议名称即可创建或加入。
@@ -94,19 +94,19 @@ Jitsi Meet 简单但功能丰富。这是你将获得的功能：
 如果您使用的是基于 Electron的应用程序，则完全一样。 使用桌面应用程序时的外观如下：
 
 
-![](/Asserts/Images//attachment/album/202008/03/204645kpej0ni2h02vb4it.png)
+![](/Asserts/Images/album/202008/03/204645kpej0ni2h02vb4it.png)
 
 
 如你在上面的截图中所见，你还可以找到你最近使用的会议室的列表，这样就不必再次输入或创建会议室。
 
 
-![](/Asserts/Images//attachment/album/202008/03/204718y39wkl5t3kl3kmk4.png)
+![](/Asserts/Images/album/202008/03/204718y39wkl5t3kl3kmk4.png)
 
 
 如果你要创建它，那么最好使用唯一的名称，并且如果你不需要其他任何人意外加入，那么还应为其添加密码保护。
 
 
-![](/Asserts/Images//attachment/album/202008/03/204741xihdbqi5hclhb32i.png)
+![](/Asserts/Images/album/202008/03/204741xihdbqi5hclhb32i.png)
 
 
 如果你要参加其他人的会议，只需询问会议名称或会议链接即可使用台式机或智能手机轻松加入。

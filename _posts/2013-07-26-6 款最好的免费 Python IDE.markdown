@@ -26,48 +26,48 @@ tags:	[linuxcn,免费,Python,IDE]
 -----------------------------------------------------------------------
 
 
-[![](/Asserts/Images//attachment/album/201307/28/124946lmlyuqdylb8yt5qt.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/28/124946lmlyuqdylb8yt5qt.png)
+[![](/Asserts/Images/album/201307/28/124946lmlyuqdylb8yt5qt.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/28/124946lmlyuqdylb8yt5qt.png)
 
 
 **[Spyder](http://code.google.com/p/spyderlib/)**
 -------------------------------------------------
 
 
-[![](/Asserts/Images//attachment/album/201307/28/125109rfmjhrbamm6rz2fo.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/28/125109rfmjhrbamm6rz2fo.png)
+[![](/Asserts/Images/album/201307/28/125109rfmjhrbamm6rz2fo.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/28/125109rfmjhrbamm6rz2fo.png)
 
 
 **[IEP](http://www.iep-project.org/) 跨平台的 Python IDE**
 ------------------------------------------------------
 
 
-[![](/Asserts/Images//attachment/album/201307/28/125232qn5vd42oxdnpvpdn.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/28/125232qn5vd42oxdnpvpdn.png)
+[![](/Asserts/Images/album/201307/28/125232qn5vd42oxdnpvpdn.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/28/125232qn5vd42oxdnpvpdn.png)
 
 
 **[PTK](http://pythontoolkit.sourceforge.net/)**
 ------------------------------------------------
 
 
-[![](/Asserts/Images//attachment/album/201307/28/125325622hglx29gndqnl2.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/28/125325622hglx29gndqnl2.png)
+[![](/Asserts/Images/album/201307/28/125325622hglx29gndqnl2.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/28/125325622hglx29gndqnl2.png)
 
 
 **[Code::Blocks](http://www.codeblocks.org/) 具有很高的可扩展性和全方位可配置的 IDE**
 --------------------------------------------------------------------
 
 
-[![](/Asserts/Images//attachment/album/201307/28/125439hfl0jjfgnk9e1111.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/28/125439hfl0jjfgnk9e1111.png)
+[![](/Asserts/Images/album/201307/28/125439hfl0jjfgnk9e1111.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/28/125439hfl0jjfgnk9e1111.png)
 
 
 **[Anjuta](http://www.anjuta.org/) GNOME 下多功能开发环境**
 ---------------------------------------------------
 
 
-[![](/Asserts/Images//attachment/album/201307/28/125523v9ivlfpg44vizv1g.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/28/125523v9ivlfpg44vizv1g.png)
+[![](/Asserts/Images/album/201307/28/125523v9ivlfpg44vizv1g.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/28/125523v9ivlfpg44vizv1g.png)
 
 
 原文：<http://www.linuxlinks.com/article/20130726165454564/PythonIDE.html>

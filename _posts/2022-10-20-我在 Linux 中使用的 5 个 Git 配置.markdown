@@ -15,7 +15,7 @@ tags:	[linuxcn,Git]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/11/162338c314ls57bg51hd45.jpg)
+![](/Asserts/Images/album/202210/11/162338c314ls57bg51hd45.jpg)
 
 
 在 Linux 中设置 Git 十分简单，但为了获得完美的配置，我做了以下五件事：

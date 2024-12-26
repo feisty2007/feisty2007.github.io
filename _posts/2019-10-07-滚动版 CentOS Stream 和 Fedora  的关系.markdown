@@ -7,7 +7,7 @@ tags:	[linuxcn,RHEL,CentOS,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/02/093523xigcv6mx7ximcmzc.jpg)
+![](/Asserts/Images/album/201910/02/093523xigcv6mx7ximcmzc.jpg)
 
 
 *一封来自 Fedora 项目负责人办公室的信件：*
@@ -22,7 +22,7 @@ tags:	[linuxcn,RHEL,CentOS,Fedora]
 首先，不用担心。整体有一些变化，但是一切都变得更好。
 
 
-![](/Asserts/Images//attachment/album/201910/02/093405qx085a0pu535dui5.jpg)
+![](/Asserts/Images/album/201910/02/093405qx085a0pu535dui5.jpg)
 
 
 如果你一直在关注 RHEL 领导者关于 Fedora、CentOS 和 RHEL 之间关系的会议讨论，那么你就听说过 “<ruby> <a href="https://www.youtube.com/watch?v=1JmgOkEznjw">  彭罗斯三角 </a> <rt>  Penrose Triangle </rt></ruby>”。形状就像 M. C. Escher 绘图中的形状：在现实生活中这是不可能的！

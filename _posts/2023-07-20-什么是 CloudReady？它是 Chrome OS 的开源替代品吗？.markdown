@@ -7,7 +7,7 @@ tags:	[linuxcn,Chrome OS,CloudReady]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/11/143146jtnntsf97x9039x9.jpg)
+![](/Asserts/Images/album/202307/11/143146jtnntsf97x9039x9.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,Chrome OS,CloudReady]
 ### 谁应该尝试 CloudReady？
 
 
-![CloudReady](/Asserts/Images//attachment/album/202307/11/143326dzjj44w04c9cyzci.jpg)
+![CloudReady](/Asserts/Images/album/202307/11/143326dzjj44w04c9cyzci.jpg)
 
 
 CloudReady 主要是面向那些能够从使用类 Chromebook 设备中获益，但是已经在硬件设备上进行了投入的机构。下面是我想到的一些例子：
@@ -77,7 +77,7 @@ CloudReady 主要是面向那些能够从使用类 Chromebook 设备中获益，
 当我试图从<ruby> 应用抽屉 <rt>  app drawer </rt></ruby> 启动 Play Store 时，它在浏览器中打开了谷歌 Play Store 的网页。这真是个坏消息。然而得益于 CloudReady 是基于“<ruby> 面向网络 <rt> </rt> web focused</ruby>”的操作系统的，我的 Chromium 浏览器扩展运行良好。
 
 
-![A screenshot of the app drawer in CloudReady with the Google Play Store app icon  along with Chrome Extensions as “Apps”](/Asserts/Images//attachment/album/202307/11/143338vpaiw1rlia00ywyc.jpg)
+![A screenshot of the app drawer in CloudReady with the Google Play Store app icon  along with Chrome Extensions as “Apps”](/Asserts/Images/album/202307/11/143338vpaiw1rlia00ywyc.jpg)
 
 
 所以如果你想通过 CloudReady 把自己的旧笔记本变成一个非触屏的平板，那你就不太走运了。
@@ -104,7 +104,7 @@ CloudReady 为你提供一种安装基于 Chromium OS，企业用户也可以通
 ### 获取 CloudReady
 
 
-![CloudReady screenshot](/Asserts/Images//attachment/album/202307/11/143347meb4meuwglglp8yu.jpg)
+![CloudReady screenshot](/Asserts/Images/album/202307/11/143347meb4meuwglglp8yu.jpg)
 
 
 **CloudReady 提供三个版本：家庭版（免费）、教育版（付费）和企业版（付费）**。如果你想先体验一下 CloudReady，那就选家庭版。
@@ -141,7 +141,7 @@ Neverware 同时提供一个 RAW 文件，你可以用 [任何基于 Chromium �
 如果你想要在旧电脑上使用 CloudReady，但是它缺少安卓运行时这点让你失望了，也许你可以试试 [Ubuntu Web](https://ubuntu-web.org/)。
 
 
-![A screenshot of Ubuntu Web](/Asserts/Images//attachment/album/202307/11/143222p2evoo5zxomughev.jpg)
+![A screenshot of Ubuntu Web](/Asserts/Images/album/202307/11/143222p2evoo5zxomughev.jpg)
 
 
 正如其名称所示，Ubuntu Web 是面向寻找 Chrome OS 替代品的人群的 Linux 发行版。

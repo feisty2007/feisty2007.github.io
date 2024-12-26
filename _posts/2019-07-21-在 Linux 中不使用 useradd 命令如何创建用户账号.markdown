@@ -7,7 +7,7 @@ tags:	[linuxcn,用户]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/28/200732enjn6u0mrr61nz62.jpg)
+![](/Asserts/Images/album/201907/28/200732enjn6u0mrr61nz62.jpg)
 
 
 Linux 中有三个命令可以用来创建用户账号。你尝试过在 Linux 中手动创建用户吗？我的意思是不使用上面说的三个命令。

@@ -7,7 +7,7 @@ tags:	[linuxcn,dig,ping]
 ---
 
 
-![](/Asserts/Images//attachment/album/201912/03/000402c0ekkgku1f011kzt.jpg)
+![](/Asserts/Images/album/201912/03/000402c0ekkgku1f011kzt.jpg)
 
 
 本教程介绍了如何在 Linux 终端验证域名或计算机名的 IP 地址。本教程将允许你一次检查多个域。你可能已经使用过这些命令来验证信息。但是，我们将教你如何有效使用这些命令在 Linux 终端中识别多个域的 IP 地址信息。

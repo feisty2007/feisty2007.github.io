@@ -7,10 +7,10 @@ tags:	[linuxcn,NTP,KDE,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/09/183427w2obdfsvolzvlq5d.jpg)
+![](/Asserts/Images/album/202210/09/183427w2obdfsvolzvlq5d.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/09/183433qnw9uizk88fgznwi.jpg)
+![](/Asserts/Images/album/202210/09/183433qnw9uizk88fgznwi.jpg)
 
 
 ### NTP 协议面临无人维护的境地
@@ -35,7 +35,7 @@ NTP 是互联网的关键组成部分，几乎所有设备都运行 NTP 来保�
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/09/183444zagj24pzgqjupctt.jpg)
+![](/Asserts/Images/album/202210/09/183444zagj24pzgqjupctt.jpg)
 
 
 ### Plasma 5.27 将是 Plasma 5 系列的最后一个功能版本
@@ -60,7 +60,7 @@ NTP 是互联网的关键组成部分，几乎所有设备都运行 NTP 来保�
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/09/183457d19u9fzgh91hsuht.jpg)
+![](/Asserts/Images/album/202210/09/183457d19u9fzgh91hsuht.jpg)
 
 
 ### Rust 成立新的团队来制定官方编码风格

@@ -7,7 +7,7 @@ tags:	[linuxcn,Erlang]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/21/091525veepemab9kbb9msw.jpg)
+![](/Asserts/Images/album/201904/21/091525veepemab9kbb9msw.jpg)
 
 
 ### Breaking News

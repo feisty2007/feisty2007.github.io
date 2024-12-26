@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,开发者,Windows,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/26/172205jeslfh5fdijmihlt.jpg)
+![](/Asserts/Images/album/202212/26/172205jeslfh5fdijmihlt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/26/172214jof1s6lrzi1li1f1.png)
+![](/Asserts/Images/album/202212/26/172214jof1s6lrzi1li1f1.png)
 
 
 ### 调查发现使用 Linux 的开发者比使用 MacOS 的更多
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,开发者,Windows,Firefox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/26/172226d9y43484m6x3hxa1.jpg)
+![](/Asserts/Images/album/202212/26/172226d9y43484m6x3hxa1.jpg)
 
 
 ### Firefox 修复了一个 18 年前首次在 1.0 中报告的错误
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,开发者,Windows,Firefox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/26/172243jvzky6hoi6yfziqk.jpg)
+![](/Asserts/Images/album/202212/26/172243jvzky6hoi6yfziqk.jpg)
 
 
 ### 被修补的 Windows 漏洞实际上更危险

@@ -7,7 +7,7 @@ tags:	[linuxcn,Gentoo]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/03/142406n5k61kq3xddmu8mk.jpg)
+![](/Asserts/Images/album/202401/03/142406n5k61kq3xddmu8mk.jpg)
 
 
 
@@ -30,19 +30,19 @@ Debian 有 deb 软件包，Fedora 有 RPM 软件包。甚至 Arch Linux 也提�
 是的，你没看错。这就是围绕编译和 Gentoo 产生了如此多的表情包的原因。
 
 
-![A blend of Gentoo and dad joke](/Asserts/Images//attachment/album/202401/03/142449upg62zr2ipvri3ur.png)
+![A blend of Gentoo and dad joke](/Asserts/Images/album/202401/03/142449upg62zr2ipvri3ur.png)
 
 
 从源代码编译软件的问题意味着它将需要更多的计算能力。当你编译软件时，你的 CPU 将非常繁忙。
 
 
-![](/Asserts/Images//attachment/album/202401/03/142450fb7hphemnakp7gyt.png)
+![](/Asserts/Images/album/202401/03/142450fb7hphemnakp7gyt.png)
 
 
 当然，编译一个软件需要一些时间。
 
 
-![Image source: r/linuxmemes](/Asserts/Images//attachment/album/202401/03/142520q3xv285zywvbxbb3.jpg)
+![Image source: r/linuxmemes](/Asserts/Images/album/202401/03/142520q3xv285zywvbxbb3.jpg)
 
 
 ### 现在你可以在 Gentoo 中“安装”软件包而不是编译它们
@@ -63,7 +63,7 @@ Gentoo 的包管理器 Portage 多年来一直支持二进制包。只是没有�
 我知道你对在 Gentoo 中使用二进制包有很多疑问。查看 [Gentoo 的官方公告](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)，其中包含详细内容。
 
 
-![](/Asserts/Images//attachment/album/202401/03/142451xf7eaznwpn7g52ah.png)
+![](/Asserts/Images/album/202401/03/142451xf7eaznwpn7g52ah.png)
 
 
 ### 基于源代码的安装不会消失
@@ -75,7 +75,7 @@ Gentoo 的包管理器 Portage 多年来一直支持二进制包。只是没有�
 编译每一个包有其好处。软件针对其运行的系统进行了优化。这就是 Gentoo 用户所夸耀的性能提升。
 
 
-![](/Asserts/Images//attachment/album/202401/03/142452um3gggdmydofrvxy.png)
+![](/Asserts/Images/album/202401/03/142452um3gggdmydofrvxy.png)
 
 
 由于系统资源有限，低端计算机需要更长的编译时间，但它也可以通过为机器构建每个软件来获得性能优化。如果你问我的话，这有点像第 22 条军规的情况。

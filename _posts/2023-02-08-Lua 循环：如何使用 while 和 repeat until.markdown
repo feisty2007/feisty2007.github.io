@@ -7,7 +7,7 @@ tags:	[linuxcn,Lua,循环]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/25/152802hoi4khxzm3izpejh.jpg)
+![](/Asserts/Images/album/202302/25/152802hoi4khxzm3izpejh.jpg)
 
 
 

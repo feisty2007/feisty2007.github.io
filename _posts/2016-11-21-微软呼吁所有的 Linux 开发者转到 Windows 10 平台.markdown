@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201611/29/003526nz7eoo11ebr6e35d.png)
+![](/Asserts/Images/album/201611/29/003526nz7eoo11ebr6e35d.png)
 
 
 微软终于承认了开源世界的潜力，尤其是对 Linux 而言，所以，微软正在尝试以各种方式来在开源领域开疆辟土。 

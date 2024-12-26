@@ -15,7 +15,7 @@ tags:	[linuxcn,Bottles,Windows,虚拟环境]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/19/154515zeh5iixzaklhc35l.png)
+![](/Asserts/Images/album/202202/19/154515zeh5iixzaklhc35l.png)
 
 
 你可以 [使用 Wine 在 Linux 上安装 Windows 应用程序](https://itsfoss.com/use-windows-applications-linux/)，但它并不适用所有的应用程序。此外，它还需要你手动配置东西。那么，有什么简单的选择呢？
@@ -47,7 +47,7 @@ tags:	[linuxcn,Bottles,Windows,虚拟环境]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/19/154516ikllxak554z49kck.png)
+![](/Asserts/Images/album/202202/19/154516ikllxak554z49kck.png)
 
 
 简单来说，这些一键式安装程序会自动安装软件，而不需要你手动调整什么。这类似于 [Lutris](https://lutris.net/) 帮助游戏玩家安装一个需要大量调整的游戏。
@@ -65,7 +65,7 @@ tags:	[linuxcn,Bottles,Windows,虚拟环境]
 为了展示可用的安装程序，他们在其官方网站上推出了一个 [应用商店](https://usebottles.com/appstore/)。它包含了所有可用安装程序的列表和必要的信息，如依赖性、配置和支持的架构。用户可以期待更多有用的功能，如评论功能很快就会到来。
 
 
-![](/Asserts/Images//attachment/album/202202/19/154517by59resoy15g1eer.png)
+![](/Asserts/Images/album/202202/19/154517by59resoy15g1eer.png)
 
 
 需要注意的一点是，并不是所有的安装程序都能完美无缺地工作。因此，开发者引入了一种叫做“等级”的东西，指的是安装的程序的顺利工作的程度。分级范围从铜级到白金级，与 Wine 的兼容性评级方式非常相似。
@@ -80,7 +80,7 @@ tags:	[linuxcn,Bottles,Windows,虚拟环境]
 拥有多个“瓶子”的用户现在可以使用全新的搜索功能来寻找特定的“瓶子”。请注意，它在默认情况下是隐藏的，如果你至少安装了 10 个“瓶子”，就会自动启用。
 
 
-![](/Asserts/Images//attachment/album/202202/19/154518sgd7whwwai1pv0ah.png)
+![](/Asserts/Images/album/202202/19/154518sgd7whwwai1pv0ah.png)
 
 
 我觉得，作为搜索栏的基本功能应该已经实现了，总比没有强！

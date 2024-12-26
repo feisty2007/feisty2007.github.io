@@ -7,7 +7,7 @@ tags:	[linuxcn,ImageMagick]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/19/155829valiu5lulmhuuhiz.jpg)
+![](/Asserts/Images/album/202211/19/155829valiu5lulmhuuhiz.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,ImageMagick]
 使用 [Skanlite](https://opensource.com/article/22/2/scan-documents-skanlite-linux-kde) 进行扫描很容易，但很耗时。然而，当我完成后，我发现有些页面不是很平整。
 
 
-![A page of text, including a table of contents and a glossary, that is crooked and distorted](/Asserts/Images//attachment/album/202211/19/155831dgyuw6cmq4uzk6gd.png)
+![A page of text, including a table of contents and a glossary, that is crooked and distorted](/Asserts/Images/album/202211/19/155831dgyuw6cmq4uzk6gd.png)
 
 
 在打印中，这称为配准问题，这意味着打印内容的位置在页面上的方向不正确。
@@ -57,7 +57,7 @@ $ convert page_0052.webp -deskew25% fix_0052.webp
 结果如下：
 
 
-![The same page of text, now with the text properly aligned](/Asserts/Images//attachment/album/202211/19/155831a9s7dszm2srfdk37.png)
+![The same page of text, now with the text properly aligned](/Asserts/Images/album/202211/19/155831a9s7dszm2srfdk37.png)
 
 
 修复了！将其应用于文档的剩余 55 页以修复倾斜的页面，而对已经笔直的页面不做任何事情。换句话说，由于我的阈值设置，在不需要调整的页面上运行此命令是安全的。
@@ -94,7 +94,7 @@ convert fix_0052.webp -gravity Center -crop 950x2450+0+0 crop_0052.webp
 这是校正和裁剪的图像：
 
 
-![The same page of text, with the previous fixes applied and crooked white margins around the page cropped out.](/Asserts/Images//attachment/album/202211/19/155831va5izzgtlazticif.png)
+![The same page of text, with the previous fixes applied and crooked white margins around the page cropped out.](/Asserts/Images/album/202211/19/155831va5izzgtlazticif.png)
 
 
 ### 使用开源批量编辑图像

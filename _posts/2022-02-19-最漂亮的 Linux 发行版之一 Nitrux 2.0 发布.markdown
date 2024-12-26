@@ -15,7 +15,7 @@ tags:	[linuxcn,Nitrux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/03/134719jkk774r78nmm6iwm.png)
+![](/Asserts/Images/album/202202/03/134719jkk774r78nmm6iwm.png)
 
 
 Nitrux Linux 轻松成为了 [最漂亮的 Linux 发行版](https://itsfoss.com/beautiful-linux-distributions/) 之一。
@@ -39,7 +39,7 @@ Nitrux Linux 轻松成为了 [最漂亮的 Linux 发行版](https://itsfoss.com/
 ### XanMod 内核 5.16.3
 
 
-![](/Asserts/Images//attachment/album/202202/03/134721md1e18eectifcf55.png)
+![](/Asserts/Images/album/202202/03/134721md1e18eectifcf55.png)
 
 
 XanMod 内核是为新一代硬件量身定做的，以获得尽可能好的桌面体验。
@@ -63,7 +63,7 @@ XanMod 内核是为新一代硬件量身定做的，以获得尽可能好的桌�
 布局仍然与以前的版本相似，但有一些位置的调整，比如将应用程序菜单添加到<ruby> 基座 <rt>  dock </rt></ruby>中，应用程序菜单是 Launchpad Plasma（感谢 [adhe](https://www.pling.com/u/adhe/)）。
 
 
-![](/Asserts/Images//attachment/album/202202/03/134721md1e18eectifcf55.png)
+![](/Asserts/Images/album/202202/03/134721md1e18eectifcf55.png)
 
 
 此外，你应会发现窗口装饰有了改进，所有窗口现在默认都是无边框的。你可以在外观设置下的窗口装饰选项中选择禁用无边框窗口模式。

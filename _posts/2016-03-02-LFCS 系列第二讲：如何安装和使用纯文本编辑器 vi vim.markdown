@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS,vi,vim,编辑器]
 几个月前， Linux 基金会发起了 LFCS （<ruby> Linux 基金会认证系统管理员 <rp>  （ </rp> <rt>  Linux Foundation Certified System administrator </rt> <rp>  ） </rp></ruby>）认证，以帮助世界各地的人来验证他们能够在 Linux 系统上做基本的中级系统管理任务：如系统支持、第一手的故障诊断和处理、以及何时向上游支持团队提出问题的智能决策。
 
 
-![Learning VI Editor in Linux](/Asserts/Images//attachment/album/201603/29/053546aftwkut8h2uvhb2f.png)
+![Learning VI Editor in Linux](/Asserts/Images/album/201603/29/053546aftwkut8h2uvhb2f.png)
 
 
 *在 Linux 中学习 vi 编辑器*
@@ -60,7 +60,7 @@ vi 是为 Unix 而生的第一个全屏文本编辑器。它的设计小巧简�
 此外，vi 有着非常丰富的内置帮助手册，程序打开后就可以通过 `:help` 命令来查看。这个内置帮助手册比 vi/vim 的 man 页面包含了更多信息。
 
 
-![vi Man Pages](/Asserts/Images//attachment/album/201603/29/053547pjeg7wb5qwtzc0rc.png)
+![vi Man Pages](/Asserts/Images/album/201603/29/053547pjeg7wb5qwtzc0rc.png)
 
 
 *vi Man 页面*
@@ -72,7 +72,7 @@ vi 是为 Unix 而生的第一个全屏文本编辑器。它的设计小巧简�
 可以通过在命令提示符下输入 vi 来启动。
 
 
-![Start vi Editor](/Asserts/Images//attachment/album/201603/29/053547utc985cm8c8n52nm.png)
+![Start vi Editor](/Asserts/Images/album/201603/29/053547utc985cm8c8n52nm.png)
 
 
 *使用 vi 编辑器*
@@ -99,7 +99,7 @@ vi 是为 Unix 而生的第一个全屏文本编辑器。它的设计小巧简�
 3. 在<ruby> 文本输入 <rp>  （ </rp> <rt>  insert </rt> <rp>  ） </rp></ruby>模式（通常在命令模式下使用字母 `i` 进入这个模式）中，我们可以随意输入文本。大多数的键入将以文本形式输出到屏幕（一个重要的例外是`Esc`键，它将退出文本编辑模式并回到命令模式）。
 
 
-![vi Insert Mode](/Asserts/Images//attachment/album/201603/29/053548zzn3t0oq01qtfq1a.png)
+![vi Insert Mode](/Asserts/Images/album/201603/29/053548zzn3t0oq01qtfq1a.png)
 
 
 *vi 文本插入模式*
@@ -174,7 +174,7 @@ vi 是为 Unix 而生的第一个全屏文本编辑器。它的设计小巧简�
 
 ```
 
-![vi Editor Options](/Asserts/Images//attachment/album/201603/29/053548fbvu7v4ertee4ep4.png)
+![vi Editor Options](/Asserts/Images/album/201603/29/053548fbvu7v4ertee4ep4.png)
 
 
 *vi编辑器选项*
@@ -201,7 +201,7 @@ a) 在行内查找。`f` 命令在当前行查找指定字符，并将光标移�
 比如，以下是在命令模式按下 `f4` 之后的结果。
 
 
-![Search String in Vi](/Asserts/Images//attachment/album/201603/29/053548r3ceopcooec9ojkj.png)
+![Search String in Vi](/Asserts/Images/album/201603/29/053548r3ceopcooec9ojkj.png)
 
 
 *在 vi 中查找字符*
@@ -210,7 +210,7 @@ a) 在行内查找。`f` 命令在当前行查找指定字符，并将光标移�
 b) 在整个文件内查找。使用 `/` 命令，紧接着需要查找的单词或短语。这个查找可以通过使用 `n` 命令或者 `N` 重复查找上一个查找的字符串。以下是在命令模式键入 `/Jane` 的查找结果。
 
 
-![Vi Search String in File](/Asserts/Images//attachment/album/201603/29/053549r7ge0opbzpadbbdo.png)
+![Vi Search String in File](/Asserts/Images/album/201603/29/053549r7ge0opbzpadbbdo.png)
 
 
 *在 vi 中查找字符*
@@ -228,7 +228,7 @@ c) vi 通过使用命令来完成多行或者整个文件的替换操作（类�
 **注意**：冒号位于命令的最前面。
 
 
-![Vi Search and Replace](/Asserts/Images//attachment/album/201603/29/053549avni9nwn993ondir.png)
+![Vi Search and Replace](/Asserts/Images/album/201603/29/053549avni9nwn993ondir.png)
 
 
 *vi 的查找和替换*
@@ -249,7 +249,7 @@ c) vi 通过使用命令来完成多行或者整个文件的替换操作（类�
 将旧文本替换为新文本前，vi/vim 会向我们显示以下信息：
 
 
-![Replace String in Vi](/Asserts/Images//attachment/album/201603/29/053550azrb7tbuuu7brub5.png)
+![Replace String in Vi](/Asserts/Images/album/201603/29/053550azrb7tbuuu7brub5.png)
 
 
 *vi 中替换字符串*
@@ -290,7 +290,7 @@ a) `:buffers` 命令会显示当前正在编辑的文件列表
 
 ```
 
-![Edit Multiple Files](/Asserts/Images//attachment/album/201603/29/053550mluqcbuqataceicf.png)
+![Edit Multiple Files](/Asserts/Images/album/201603/29/053550mluqcbuqataceicf.png)
 
 
 *编辑多个文件*

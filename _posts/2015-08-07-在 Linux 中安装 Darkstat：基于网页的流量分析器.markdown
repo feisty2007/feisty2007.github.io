@@ -10,7 +10,7 @@ tags:	[linuxcn,Darkstat,监控]
 Darkstat是一个简易的，基于网页的流量分析程序。它可以在主流的操作系统如Linux、Solaris、MAC、AIX上工作。它以守护进程的形式持续工作在后台，不断地嗅探网络数据，以简单易懂的形式展现在它的网页上。它可以为主机生成流量报告，识别特定的主机上哪些端口是打开的，它兼容IPv6。让我们看下如何在Linux中安装和配置它。
 
 
-![](/Asserts/Images//attachment/album/201508/15/180718tzwd0cdvsca90wlt.png)
+![](/Asserts/Images/album/201508/15/180718tzwd0cdvsca90wlt.png)
 
 
 ### 在Linux中安装配置Darkstat
@@ -55,7 +55,7 @@ sudo gedit /etc/darkstat/init.cfg
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/15/180720jgg7oave1m1aemod.png)
+![](/Asserts/Images/album/201508/15/180720jgg7oave1m1aemod.png)
 
 
 *编辑 Darkstat*
@@ -76,7 +76,7 @@ sudo /etc/init.d/darkstat start
 
 ```
 
-![Restarting Darkstat](/Asserts/Images//attachment/album/201508/15/180720tku3jk1n17kh066o.png)
+![Restarting Darkstat](/Asserts/Images/album/201508/15/180720tku3jk1n17kh066o.png)
 
 
 你可以用下面的命令来在开机时启动Darkstat：
@@ -91,7 +91,7 @@ chkconfig darkstat on
 打开浏览器并打开**http://localhost:666**，它会显示Darkstat的网页界面。使用这个工具来分析你的网络流量。
 
 
-![Darkstat](/Asserts/Images//attachment/album/201508/15/180721c26w9yykzg27oyhk.png)
+![Darkstat](/Asserts/Images/album/201508/15/180721c26w9yykzg27oyhk.png)
 
 
 ### 总结

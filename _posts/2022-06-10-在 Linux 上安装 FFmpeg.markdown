@@ -7,7 +7,7 @@ tags:	[linuxcn,FFmpeg]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/16/103329av0zoz5m5o9ootz5.jpg)
+![](/Asserts/Images/album/202206/16/103329av0zoz5m5o9ootz5.jpg)
 
 
 
@@ -101,7 +101,7 @@ ffmpeg --version
 
 ```
 
-![FFmpeg installed in Ubuntu Linux](/Asserts/Images//attachment/album/202206/16/103459h3qireqeytrzr71r.jpg)
+![FFmpeg installed in Ubuntu Linux](/Asserts/Images/album/202206/16/103459h3qireqeytrzr71r.jpg)
 
 
 ### 示例：FFmpeg 的基本操作
@@ -177,7 +177,7 @@ D..... = 支持解码
 
 ```
 
-![FFmpeg Codec list](/Asserts/Images//attachment/album/202206/16/103337srzes8eodoez1wls.jpg)
+![FFmpeg Codec list](/Asserts/Images/album/202206/16/103337srzes8eodoez1wls.jpg)
 
 
 #### 显示所有编码器

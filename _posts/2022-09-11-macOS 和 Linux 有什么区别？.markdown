@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,macOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/08/164354illke77oz64k4smf.jpg)
+![](/Asserts/Images/album/202209/08/164354illke77oz64k4smf.jpg)
 
 
 我们经常对比 [Linux 和 Windows](https://itsfoss.com/linux-better-than-windows/)，那 macOS 和 Linux 有什么区别呢？
@@ -73,7 +73,7 @@ macOS 利用了 Unix 组件，而 Linux 是作为 Unix 的替代品而构建的�
 ### 代码库：闭源与开源
 
 
-![open source proprietary illustration](/Asserts/Images//attachment/album/202209/08/164416v6k6jp0nnlejsppd.jpg)
+![open source proprietary illustration](/Asserts/Images/album/202209/08/164416v6k6jp0nnlejsppd.jpg)
 
 
 macOS 是一个闭源的操作系统，意味着你无法看到完整的操作系统源码。
@@ -124,7 +124,7 @@ macOS 专为台式机和笔记本电脑使用而设计。它非常适合于 **�
 macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率的壁纸、图标，这在视觉上很有吸引力。
 
 
-![macOS Monterey](/Asserts/Images//attachment/album/202209/08/164416mfodztnmanamqiac.jpg)
+![macOS Monterey](/Asserts/Images/album/202209/08/164416mfodztnmanamqiac.jpg)
 
 
 你可以期待在整个平台上获得轻松和无缝的体验。
@@ -133,7 +133,7 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 使用 Linux，你可以获得同样令人愉悦且易于使用的用户界面。
 
 
-![Zorin OS 16 Pro](/Asserts/Images//attachment/album/202209/08/164416ogsbqd3dbegeqbg3.png)
+![Zorin OS 16 Pro](/Asserts/Images/album/202209/08/164416ogsbqd3dbegeqbg3.png)
 
 
 **不幸的是**，用户体验随着不同发行版所安装的桌面环境而不同。
@@ -145,13 +145,13 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 例如，如果你使用 **Pop!\_OS、Ubuntu、Zorin OS 或者 elementary OS** ，你将获得超棒的体验。
 
 
-![Pop!_OS 22.04 LTS](/Asserts/Images//attachment/album/202209/08/164417nlv8msmqlsszatpx.png)
+![Pop!_OS 22.04 LTS](/Asserts/Images/album/202209/08/164417nlv8msmqlsszatpx.png)
 
 
 如果你使用类似于 MX Linux 或者其他的发行版，用户体验可能无法与 macOS 相提并论。
 
 
-![MX Linux](/Asserts/Images//attachment/album/202209/08/164417cxtuh1c0m1qxtcqn.jpg)
+![MX Linux](/Asserts/Images/album/202209/08/164417cxtuh1c0m1qxtcqn.jpg)
 
 
 总的来说，Linux 的开箱即用体验是不一致的，但如果你知道自己在做什么，它就足够了。
@@ -163,7 +163,7 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 ### 可定制性
 
 
-![customizability](/Asserts/Images//attachment/album/202209/08/164417oedcppxn6hxj2tob.jpg)
+![customizability](/Asserts/Images/album/202209/08/164417oedcppxn6hxj2tob.jpg)
 
 
 如果你想要一个可以让你对它的各个方面进行改动的操作系统，那 macOS 不适合你。
@@ -184,7 +184,7 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 ### 运行硬件要求
 
 
-![hardware illustration](/Asserts/Images//attachment/album/202209/08/164418zww9wml1l2p2on91.jpg)
+![hardware illustration](/Asserts/Images/album/202209/08/164418zww9wml1l2p2on91.jpg)
 
 
 硬件是 macOS 遭受“重创”的地方。
@@ -217,7 +217,7 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 是的，你可能必须购买这些应用程序。但是，与某些订阅选项不同的是，你可以通过 macOS 获得一次性购买选项。
 
 
-![Final Cut Pro on macOS](/Asserts/Images//attachment/album/202209/08/164419mqq46ze0c6333ekf.jpg)
+![Final Cut Pro on macOS](/Asserts/Images/album/202209/08/164419mqq46ze0c6333ekf.jpg)
 
 
 对于想要设计、编辑视频、编辑照片并拥有创意的用户，如果你不介意投资的话，macOS 的软件套件应该是一个不错的选择。
@@ -235,13 +235,13 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 对于 Linux 平台，你可以使用 **很棒的自由及开源软件** 来替代一些仅限于 macOS 的应用程序。除非你喜欢或有使用 macOS 特定应用程序的经验，否则你应该不会在使用适用于 Linux 的软件方面遇到问题。
 
 
-![kdenlive editor](/Asserts/Images//attachment/album/202209/08/164419fv8w84vng0pw2lnh.jpg)
+![kdenlive editor](/Asserts/Images/album/202209/08/164419fv8w84vng0pw2lnh.jpg)
 
 
 原生应用的体验基于你使用的 Linux 发行版。
 
 
-![Planner (To-do list app for Linux)](/Asserts/Images//attachment/album/202209/08/164420pziipw9uui3zuq5u.png)
+![Planner (To-do list app for Linux)](/Asserts/Images/album/202209/08/164420pziipw9uui3zuq5u.png)
 
 
 它可能不像 macOS 那样完美，但如果你不是专业级的视频、图形编辑人员，应该没有任何问题。
@@ -250,7 +250,7 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 ### 在 Linux 和 macOS 上游戏
 
 
-![gaming illustration](/Asserts/Images//attachment/album/202209/08/164420e4f14qd1n11z4cj6.jpg)
+![gaming illustration](/Asserts/Images/album/202209/08/164420e4f14qd1n11z4cj6.jpg)
 
 
 虽然苹果公司在使其新的 M1/M2 芯片尽可能强大方面取得了不错的进展，但 macOS 目前对游戏的支持很差。
@@ -277,7 +277,7 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 ### 软件包管理
 
 
-![package manager illustration new](/Asserts/Images//attachment/album/202209/08/164420hdxzwxaqaep00xxt.jpg)
+![package manager illustration new](/Asserts/Images/album/202209/08/164420hdxzwxaqaep00xxt.jpg)
 
 
 软件包管理器能够让你很快地找到、安装或卸载你的操作系统中的软件。
@@ -298,7 +298,7 @@ macOS 提供了 **令人愉悦的用户界面**。细致的动画和高分辨率
 ### 系统升级
 
 
-![software update illustration](/Asserts/Images//attachment/album/202209/08/164420vj8qxttuq09t9ryx.jpg)
+![software update illustration](/Asserts/Images/album/202209/08/164420vj8qxttuq09t9ryx.jpg)
 
 
 苹果公司不会发布其操作系统更新的具体计划。

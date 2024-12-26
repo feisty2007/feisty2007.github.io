@@ -7,7 +7,7 @@ tags:	[linuxcn,USB,启动盘]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/20/232656q7qc9vc9r6hn6bz9.jpg)
+![](/Asserts/Images/album/202209/20/232656q7qc9vc9r6hn6bz9.jpg)
 
 
 Rufus 一个用来创建启动盘的开源工具。它可以按照你的需求进行调整，用起来很简单。不仅用起来很方便，而且制作启动盘的速度也出奇的快。
@@ -34,7 +34,7 @@ Rufus 一个用来创建启动盘的开源工具。它可以按照你的需求�
 #### 1、balenaEtcher
 
 
-![balena etcher 2022](/Asserts/Images//attachment/album/202209/20/232721swgr4cwnnea44gaw.png)
+![balena etcher 2022](/Asserts/Images/album/202209/20/232721swgr4cwnnea44gaw.png)
 
 
 balenaEtcher（或 Etcher）对于多平台（Windows、 MacOS）用户是一个很好的选择，也包括 Linux 用户。
@@ -60,7 +60,7 @@ balenaEtcher（或 Etcher）对于多平台（Windows、 MacOS）用户是一个
 #### 2、Fedora Media Writer
 
 
-![fedora media writer](/Asserts/Images//attachment/album/202209/20/232721yjfrfxqfz8jjbst9.png)
+![fedora media writer](/Asserts/Images/album/202209/20/232721yjfrfxqfz8jjbst9.png)
 
 
 Fedora Media Writer 是专门用来帮助用户创建 Fedora Linux 启动盘的软件。如果你还没有 ISO 文件，它还能为你下载 ISO。
@@ -86,7 +86,7 @@ Fedora Media Writer 是专门用来帮助用户创建 Fedora Linux 启动盘的�
 #### 3、Startup Disk Creator
 
 
-![startup disk creator](/Asserts/Images//attachment/album/202209/20/232721timitiphxsxytjzj.png)
+![startup disk creator](/Asserts/Images/album/202209/20/232721timitiphxsxytjzj.png)
 
 
 如果你使用的是 Ubuntu 系统，在系统上已经预装了一个 U 盘启动盘制作软件，即 Startup Disk Creator。
@@ -101,7 +101,7 @@ Fedora Media Writer 是专门用来帮助用户创建 Fedora Linux 启动盘的�
 #### 4、SUSE Studio Imagewriter
 
 
-![imagewriter suse](/Asserts/Images//attachment/album/202209/20/232721e4zbhnt8lf3ln1r4.png)
+![imagewriter suse](/Asserts/Images/album/202209/20/232721e4zbhnt8lf3ln1r4.png)
 
 
 SUSE Studio Imagewriter 是一个简单的启动盘制作软件。
@@ -121,7 +121,7 @@ SUSE Studio Imagewriter 是一个简单的启动盘制作软件。
 #### 5、UNetbootin
 
 
-![unetbootin](/Asserts/Images//attachment/album/202209/20/232722eodd6stfnd9q4nof.png)
+![unetbootin](/Asserts/Images/album/202209/20/232722eodd6stfnd9q4nof.png)
 
 
 UNetbootin 是一个支持 Linux、Windows 和 macOS 的 U 盘启动制作软件。有少量的几个可以调整的选项，比如你可以查看所有可用的驱动器，还可以选择一个发行版来自动下载 ISO 文件。
@@ -141,7 +141,7 @@ UNetbootin 是一个支持 Linux、Windows 和 macOS 的 U 盘启动制作软件
 #### 6、Ventoy
 
 
-![ventoy screenshot 2022](/Asserts/Images//attachment/album/202209/20/232722io22d246d5xf5od2.png)
+![ventoy screenshot 2022](/Asserts/Images/album/202209/20/232722io22d246d5xf5od2.png)
 
 
 Ventoy 是一个有趣的 USB 启动盘解决方案，你只需要复制粘贴镜像文件到 U 盘即可。

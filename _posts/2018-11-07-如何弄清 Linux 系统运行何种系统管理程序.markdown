@@ -7,7 +7,7 @@ tags:	[linuxcn,初始化]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/13/003654a6ytyyyomtl62ydy.jpg)
+![](/Asserts/Images/album/201811/13/003654a6ytyyyomtl62ydy.jpg)
 
 
 虽然我们经常听到<ruby> 系统管理器 <rt>  System Manager </rt></ruby>这词，但很少有人深究其确切意义。现在我们将向你展示其区别。

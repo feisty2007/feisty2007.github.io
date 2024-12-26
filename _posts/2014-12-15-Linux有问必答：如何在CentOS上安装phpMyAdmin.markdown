@@ -18,7 +18,7 @@ tags:	[linuxcn,phpMyAdmin]
 phpMyAdmin是一款以PHP为基础，基于Web的MySQL/MariaDB数据库管理工具。虽然已经存在着一些诸如[Adminer](http://xmodulo.com/set-web-based-database-management-system-adminer.html)的轻量级数据库管理工具, 但是phpMyAdmin还是更加广泛应用于网站管理员之中来进行各种MySQL/MariaDB的管理任务。它支持几乎所有MySQL数据库／表的相关操作，比如浏览、创建、复制、删除、重命名、更改，还有MySQL用户/权限管理和数据库导入/导出。以下就是**如何在CentOS 6或7上安装phpMyAdmin**。
 
 
-![](/Asserts/Images//attachment/album/201412/25/105616takjivihinhipzmy.jpg)
+![](/Asserts/Images/album/201412/25/105616takjivihinhipzmy.jpg)
 
 
 ### 前提
@@ -195,13 +195,13 @@ $ sudo service httpd restart
 测试phpMyAdmin是否设置成功，访问这个页面：http://<web-server-ip-addresss>/phpmyadmin
 
 
-![](/Asserts/Images//attachment/album/201412/25/105620ud2pex6zfm2mmopf.jpg)
+![](/Asserts/Images/album/201412/25/105620ud2pex6zfm2mmopf.jpg)
 
 
 你应该能通过Web界面来记录下任何MySQL用户(比如root)和管理MySQL/MariaDB的数据库/表。
 
 
-![](/Asserts/Images//attachment/album/201412/25/105622slmakqel8lqm0hkl.jpg)
+![](/Asserts/Images/album/201412/25/105622slmakqel8lqm0hkl.jpg)
 
 
 ### 疑难解答

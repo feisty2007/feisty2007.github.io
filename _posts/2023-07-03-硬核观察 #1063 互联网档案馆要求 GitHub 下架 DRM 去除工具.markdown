@@ -7,10 +7,10 @@ tags:	[linuxcn,DRM,AI,GTK]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/15/173917iwcl3w5klduc6wuk.jpg)
+![](/Asserts/Images/album/202307/15/173917iwcl3w5klduc6wuk.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/15/173928nek908w1ku933z1t.jpg)
+![](/Asserts/Images/album/202307/15/173928nek908w1ku933z1t.jpg)
 
 
 ### 互联网档案馆要求 GitHub 下架 DRM 去除工具
@@ -35,7 +35,7 @@ tags:	[linuxcn,DRM,AI,GTK]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/15/173942hv6z5iwnew5nwjnc.jpg)
+![](/Asserts/Images/album/202307/15/173942hv6z5iwnew5nwjnc.jpg)
 
 
 ### Meta 公司将发布 LLaMA 的商业版本
@@ -60,7 +60,7 @@ LLaMA 是 Meta 开源的大型语言模型（LLM），于今年 2 月公开发�
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/15/174007t5vc8l84cyycuy8c.jpg)
+![](/Asserts/Images/album/202307/15/174007t5vc8l84cyycuy8c.jpg)
 
 
 ### GTK 对 macOS 的支持将降到“尽力而为”的状态

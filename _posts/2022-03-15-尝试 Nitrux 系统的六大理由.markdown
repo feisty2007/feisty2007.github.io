@@ -15,7 +15,7 @@ tags:	[linuxcn,]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/15/111857mcdazjyyiahiyk3a.jpg)
+![](/Asserts/Images/album/202203/15/111857mcdazjyyiahiyk3a.jpg)
 
 
 Nitrux 系统也许算不上 Linux 的主流发行版本之一，但它绝对是一款极其独特的产品。
@@ -39,7 +39,7 @@ Nitrux 系统也许算不上 Linux 的主流发行版本之一，但它绝对是
 ### 1、Nitrux 不再基于 Ubuntu
 
 
-![](/Asserts/Images//attachment/album/202203/15/111858sklj2jek4fkffv1x.png)
+![](/Asserts/Images/album/202203/15/111858sklj2jek4fkffv1x.png)
 
 
 人们一般都会推荐基于 Ubuntu 的 Linux 发行版本，来满足日常所需。
@@ -63,7 +63,7 @@ Nitrux 系统也许算不上 Linux 的主流发行版本之一，但它绝对是
 ### 2、专注 AppImage
 
 
-![](/Asserts/Images//attachment/album/202203/15/111858lgjcwwg7g3a86c7j.png)
+![](/Asserts/Images/album/202203/15/111858lgjcwwg7g3a86c7j.png)
 
 
 [AppImage](https://itsfoss.com/use-appimage-linux/) 是一个通用的打包系统，这种软件包不需要任何依赖。你不需要在 Linux 上安装任何软件包管理器或者依赖包，就可以直接运行 AppImage 应用。
@@ -81,7 +81,7 @@ NX 软件中心是一个 GUI 程序，用户可以通过使用 Mauikit（该软�
 ### 3、基于 KDE 桌面环境的发行版
 
 
-![](/Asserts/Images//attachment/album/202203/15/111859sinjnnd7wpcjwzgk.png)
+![](/Asserts/Images/album/202203/15/111859sinjnnd7wpcjwzgk.png)
 
 
 Nitrux 操作系统是 [搭载 KDE 桌面环境中最好的 Linux 发行版](https://itsfoss.com/best-kde-distributions/) 之一。 如果你不喜欢 GNOME 或者其他开箱即用的桌面环境（DE），KDE 会是一个不错的选择。
@@ -96,7 +96,7 @@ Nitrux 操作系统是 [搭载 KDE 桌面环境中最好的 Linux 发行版](htt
 ### 4、独特的用户体验
 
 
-![](/Asserts/Images//attachment/album/202203/15/111901zvooqavdddglxgwx.png)
+![](/Asserts/Images/album/202203/15/111901zvooqavdddglxgwx.png)
 
 
 Nitrux 的用户体验结合了最好的 KDE 桌面环境与 Qt 技术，并对这些进行了调整，为你带来全新的用户体验。
@@ -111,7 +111,7 @@ Nitrux 的用户体验结合了最好的 KDE 桌面环境与 Qt 技术，并对�
 ### 5、Maui Shell
 
 
-![](/Asserts/Images//attachment/album/202203/15/111902t8l60f510m5imvc8.png)
+![](/Asserts/Images/album/202203/15/111902t8l60f510m5imvc8.png)
 
 
 [Maui Shell](https://news.itsfoss.com/maui-shell-unveiled/) 是 Nitrux 用户体验的亮点之一。近来，Maui Shell 得到了进一步的完善，将这些呈现在了桌面端和移动端的融合界面上。
@@ -126,7 +126,7 @@ Nitrux 的用户体验结合了最好的 KDE 桌面环境与 Qt 技术，并对�
 ### 6、Xanmod 内核
 
 
-![](/Asserts/Images//attachment/album/202203/15/111903undh6k2z26n8adfo.png)
+![](/Asserts/Images/album/202203/15/111903undh6k2z26n8adfo.png)
 
 
 [Xanmod 内核](https://xanmod.org/) 是一个定制的主线 Linux 内核版本，对性能进行了适当的调整，附加了一些其他功能。有了它，你的桌面体验一定能得到大幅提升。

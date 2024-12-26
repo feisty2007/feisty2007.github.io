@@ -7,7 +7,7 @@ tags:	[linuxcn,终端]
 ---
 
 
-![Retro Terminal in Linux](/Asserts/Images//attachment/album/201511/18/150218h6zi9ii2i50k0k9k.jpg)
+![Retro Terminal in Linux](/Asserts/Images/album/201511/18/150218h6zi9ii2i50k0k9k.jpg)
 
 
 你有怀旧情节？那就试试 **安装复古终端应用** [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) 来一瞥过去的时光吧。顾名思义，`cool-retro-term` 是一个兼具酷炫和怀旧的终端。
@@ -22,13 +22,13 @@ tags:	[linuxcn,终端]
 下面是不同外观下 `cool-retro-term` 的一些截图：
 
 
-![Retro Terminal](/Asserts/Images//attachment/album/201511/18/150224uywndz244di4gf4p.jpg)
+![Retro Terminal](/Asserts/Images/album/201511/18/150224uywndz244di4gf4p.jpg)
 
 
-![Retro Terminal Linux](/Asserts/Images//attachment/album/201511/18/150235d1cqt8htftxeutws.jpg)
+![Retro Terminal Linux](/Asserts/Images/album/201511/18/150235d1cqt8htftxeutws.jpg)
 
 
-![Vintage Terminal](/Asserts/Images//attachment/album/201511/18/150240eoeiriretqicjaej.jpg)
+![Vintage Terminal](/Asserts/Images/album/201511/18/150240eoeiriretqicjaej.jpg)
 
 
 ### 在基于 Ubuntu 的 Linux 发行版本下安装 cool-retro-term

@@ -7,7 +7,7 @@ tags:	[linuxcn,Android,Anbox]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/21/110527cqvgk8fhz6uv7fnk.jpg)
+![](/Asserts/Images/album/201704/21/110527cqvgk8fhz6uv7fnk.jpg)
 
 
 Anbox 以基于容器的方式，在像 Ubuntu 这样的常规的 GNU Linux 系统上启动一个完整的 Android 系统。

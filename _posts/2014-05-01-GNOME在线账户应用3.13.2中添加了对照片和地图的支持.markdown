@@ -7,7 +7,7 @@ tags:	[linuxcn,Gnome]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/31/145739s82x8x27x5hzw0w2.jpg)
+![](/Asserts/Images/album/201405/31/145739s82x8x27x5hzw0w2.jpg)
 
 
 **GNOME开发者宣布最新版的GNOME在线账户（3.13.2）现已发布，并带来数个新特性。**

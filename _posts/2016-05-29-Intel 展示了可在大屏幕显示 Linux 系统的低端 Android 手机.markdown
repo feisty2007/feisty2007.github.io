@@ -7,7 +7,7 @@ tags:	[linuxcn,手机,android]
 ---
 
 
-![](/Asserts/Images//attachment/album/201605/28/092547m7j3jappuxpexsex.jpg)
+![](/Asserts/Images/album/201605/28/092547m7j3jappuxpexsex.jpg)
 
 
 在世界移动大会 **MWC16** 上 Intel 展示了称之为“大屏体验”的一款的 Android 智能手机，它在插入一个外部显示后运行了一个完整的 Linux 桌面。

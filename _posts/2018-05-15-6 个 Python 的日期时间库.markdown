@@ -15,7 +15,7 @@ tags:	[linuxcn,时间,日期,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/201805/22/161301ewwz66h6y8hkngmk.jpg)
+![](/Asserts/Images/album/201805/22/161301ewwz66h6y8hkngmk.jpg)
 
 
 *这篇文章是与 [Jeff Triplett](https://opensource.com/users/jefftriplett) 一起合写的。*

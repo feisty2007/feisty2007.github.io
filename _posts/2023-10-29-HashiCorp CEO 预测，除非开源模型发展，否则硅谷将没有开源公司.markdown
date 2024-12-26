@@ -7,7 +7,7 @@ tags:	[linuxcn,HashiCorp,开源,Terraform]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/23/100619d754xnee4kksw7sr.jpg)
+![](/Asserts/Images/album/202310/23/100619d754xnee4kksw7sr.jpg)
 
 
 

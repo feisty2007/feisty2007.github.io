@@ -15,7 +15,7 @@ tags:	[linuxcn,笔记本电脑]
 > 
 
 
-![starfighter](/Asserts/Images//attachment/album/202207/06/144049yj7mma4ca7m5mz77.jpg)
+![starfighter](/Asserts/Images/album/202207/06/144049yj7mma4ca7m5mz77.jpg)
 
 
 我们已经有许多来自星空实验室、TUXEDO 等制造商的 Linux 专用笔记本电脑。

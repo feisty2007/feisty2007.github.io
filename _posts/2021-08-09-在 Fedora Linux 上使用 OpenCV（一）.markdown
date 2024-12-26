@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenCV]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/19/113328csmx7nsubsxpmmf3.jpg)
+![](/Asserts/Images/album/202108/19/113328csmx7nsubsxpmmf3.jpg)
 
 
 *封面图片选自[文森特·梵高](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)的《星空》，公共领域，通过维基共享资源发布*
@@ -81,7 +81,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 
 ```
-$ cp /usr/share/opencv4/samples/Asserts/Images//starry_night.jpg .
+$ cp /usr/share/opencv4/samples/data/starry_night.jpg .
 $ python starry_night.py
 
 ```
@@ -103,7 +103,7 @@ if k == ord("s"):
 
 ```
 
-![](/Asserts/Images//attachment/album/202108/19/113329y37i3rzk7rne5klq.png)
+![](/Asserts/Images/album/202108/19/113329y37i3rzk7rne5klq.png)
 
 
 通过在 `cv.imread` 函数中添加参数 `0`，对图像进行灰度处理，如下所示。
@@ -115,7 +115,7 @@ img = cv.imread(cv.samples.findFile("starry_night.jpg"),0)
 
 ```
 
-![](/Asserts/Images//attachment/album/202108/19/113331e0d8e9j107h072h6.png)
+![](/Asserts/Images/album/202108/19/113331e0d8e9j107h072h6.png)
 
 
 这些是一些可以用于 `cv.imread` 函数的第二个参数的替代值：
@@ -178,7 +178,7 @@ plt.show()
 
 ```
 
-![](/Asserts/Images//attachment/album/202108/19/113332bws6w0lg8syacpg0.png)
+![](/Asserts/Images/album/202108/19/113332bws6w0lg8syacpg0.png)
 
 
 #### 发生了什么？
@@ -193,7 +193,7 @@ plt.imshow(img,cmap='gray')
 
 ```
 
-![](/Asserts/Images//attachment/album/202108/19/113333bhccqchhhg46ixxd.png)
+![](/Asserts/Images/album/202108/19/113333bhccqchhhg46ixxd.png)
 
 
 这个问题在以彩色模式打开图片时也会发生，因为 Matplotlib 期望图片为 RGB（红、绿、蓝）格式，而 OpenCV 则以 BGR（蓝、绿、红）格式存储图片。为了正确显示，你需要将 BGR 图像的通道反转。
@@ -213,7 +213,7 @@ plt.show()
 
 ```
 
-![](/Asserts/Images//attachment/album/202108/19/113334iu75nne6deo65o15.png)
+![](/Asserts/Images/album/202108/19/113334iu75nne6deo65o15.png)
 
 
 #### 分割和合并颜色通道
@@ -245,7 +245,7 @@ plt.show()
 
 ```
 
-![](/Asserts/Images//attachment/album/202108/19/113335bxb8qobrq3t8p8zz.png)
+![](/Asserts/Images/album/202108/19/113335bxb8qobrq3t8p8zz.png)
 
 
 * `cv2.split`：将一个多通道数组分割成几个单通道数组。
@@ -272,7 +272,7 @@ plt.show()
 
 ```
 
-![](/Asserts/Images//attachment/album/202108/19/113336z969zuuuz6tke6dd.png)
+![](/Asserts/Images/album/202108/19/113336z969zuuuz6tke6dd.png)
 
 
 ### 更多信息

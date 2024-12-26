@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Django,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/12/224251lbb2vtrfhbq3bb0b.jpg)
+![](/Asserts/Images/album/201809/12/224251lbb2vtrfhbq3bb0b.jpg)
 
 
 Docker 是一个开源项目，为开发人员和系统管理员提供了一个开放平台，可以将应用程序构建、打包为一个轻量级容器，并在任何地方运行。Docker 会在软件容器中自动部署应用程序。
@@ -62,7 +62,7 @@ sudo add-apt-repository \
    stable"
 ```
 
-[![安装 Docker-ce](/Asserts/Images//attachment/album/201809/12/224259ns0hkmf0gny9zbdg.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/1.png)
+[![安装 Docker-ce](/Asserts/Images/album/201809/12/224259ns0hkmf0gny9zbdg.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/1.png)
 
 
 更新仓库并安装 docker-ce。
@@ -92,7 +92,7 @@ useradd -m -s /bin/bash omar
 usermod -a -G docker omar
 ```
 
-[![启动 Docker](/Asserts/Images//attachment/album/201809/12/224301hx2ttu88u20t2vv7.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/2.png)
+[![启动 Docker](/Asserts/Images/album/201809/12/224301hx2ttu88u20t2vv7.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/2.png)
 
 
 以 `omar` 用户身份登录并运行 `docker` 命令，如下所示。
@@ -107,7 +107,7 @@ docker run hello-world
 确保你能从 Docker 获得 hello-world 消息。
 
 
-[![检查 Docker 安装](/Asserts/Images//attachment/album/201809/12/224303a42mfmv0l722vvsy.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/3.png)
+[![检查 Docker 安装](/Asserts/Images/album/201809/12/224303a42mfmv0l722vvsy.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/3.png)
 
 
 Docker-ce 安装已经完成。
@@ -142,7 +142,7 @@ docker-compose version
 确保你安装的是最新版本的 docker-compose 1.21。
 
 
-[![安装 Docker-compose](/Asserts/Images//attachment/album/201809/12/224304sfv8739py9fxz9z1.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/4.png)
+[![安装 Docker-compose](/Asserts/Images/album/201809/12/224304sfv8739py9fxz9z1.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/4.png)
 
 
 已安装支持 compose 文件版本 3 的 `docker-compose` 最新版本。
@@ -345,7 +345,7 @@ version: '3'
 使用这个 `docker-compose` 文件脚本，我们将创建三个服务。使用 alpine Linux 版的 PostgreSQL 创建名为 `db` 的数据库服务，再次使用 alpine Linux 版的 Nginx 创建 `nginx` 服务，并使用从 Dockerfile 生成的自定义 docker 镜像创建我们的 python Django 容器。
 
 
-[![配置项目环境](/Asserts/Images//attachment/album/201809/12/224306xwwngh3hcj3hjx63.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/5.png)
+[![配置项目环境](/Asserts/Images/album/201809/12/224306xwwngh3hcj3hjx63.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/5.png)
 
 
 #### 配置 Django 项目
@@ -410,7 +410,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 保存并退出。
 
 
-[![配置 Django 项目](/Asserts/Images//attachment/album/201809/12/224308p889db0480mvvhvv.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/6.png)
+[![配置 Django 项目](/Asserts/Images/album/201809/12/224308p889db0480mvvhvv.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/6.png)
 
 
 现在我们准备在 docker 容器下构建和运行 Django 项目。
@@ -438,7 +438,7 @@ cd ~/guide01/
 docker-compose build
 ```
 
-[![运行 docker 镜像](/Asserts/Images//attachment/album/201809/12/224309y7e5m7rsv1ws8ep8.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/7.png)
+[![运行 docker 镜像](/Asserts/Images/album/201809/12/224309y7e5m7rsv1ws8ep8.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/7.png)
 
 
 启动 `docker-compose` 脚本中的所有服务。
@@ -452,7 +452,7 @@ docker-compose up -d
 等待几分钟让 Docker 构建我们的 Python 镜像并下载 nginx 和 postgresql docker 镜像。
 
 
-[![使用 docker-compose 构建镜像](/Asserts/Images//attachment/album/201809/12/224310j1i9h4f0116xv2bp.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/8.png)
+[![使用 docker-compose 构建镜像](/Asserts/Images/album/201809/12/224310j1i9h4f0116xv2bp.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/8.png)
 
 
 完成后，使用以下命令检查运行容器并在系统上列出 docker 镜像。
@@ -467,7 +467,7 @@ docker-compose images
 现在，你将在系统上运行三个容器，列出 Docker 镜像，如下所示。
 
 
-[![docke-compose ps 命令](/Asserts/Images//attachment/album/201809/12/224312bk776vllj8p8ojw4.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/9.png)
+[![docke-compose ps 命令](/Asserts/Images/album/201809/12/224312bk776vllj8p8ojw4.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/9.png)
 
 
 我们的 Python Django 应用程序现在在 docker 容器内运行，并且已经创建了为我们服务的 docker 镜像。
@@ -482,7 +482,7 @@ docker-compose images
 现在你将看到默认的 Django 主页。
 
 
-[![默认 Django 项目主页](/Asserts/Images//attachment/album/201809/12/224313il5btwplmjojlzo9.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/10.png)
+[![默认 Django 项目主页](/Asserts/Images/album/201809/12/224313il5btwplmjojlzo9.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/10.png)
 
 
 接下来，通过在 URL 上添加 `/admin` 路径来测试管理页面。
@@ -496,7 +496,7 @@ http://ovh01:8000/admin/
 然后你将会看到 Django 管理登录页面。
 
 
-[![Django administration](/Asserts/Images//attachment/album/201809/12/224314itr60vi6liqixisc.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/11.png)
+[![Django administration](/Asserts/Images/album/201809/12/224314itr60vi6liqixisc.png)](https://www.howtoforge.com/images/docker_guide_dockerizing_python_django_application/big/11.png)
 
 
 Docker 化 Python Django 应用程序已成功完成。

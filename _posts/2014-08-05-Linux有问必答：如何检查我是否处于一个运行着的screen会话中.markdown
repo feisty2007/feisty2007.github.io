@@ -38,7 +38,7 @@ tags:	[linuxcn,Linux,screen,会话,Linux有问必答]
 事实上，一个更为可靠的检查你是否处于一个screen会话中的方法，是按“Ctrl-a”+“Ctrl-t”。如果你处于screen会话中，终端会在底部显示时间信息。
 
 
-![](/Asserts/Images//attachment/album/201408/13/225135mplslkllbtko1699.jpg)
+![](/Asserts/Images/album/201408/13/225135mplslkllbtko1699.jpg)
 
 
 

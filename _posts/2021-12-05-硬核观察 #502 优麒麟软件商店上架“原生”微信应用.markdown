@@ -7,10 +7,10 @@ tags:	[linuxcn,微信,密码,备份]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/31/130106r7rcsg27ggzwz6zw.jpg)
+![](/Asserts/Images/album/202112/31/130106r7rcsg27ggzwz6zw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/31/130115s3174sbb329b18aa.jpg)
+![](/Asserts/Images/album/202112/31/130115s3174sbb329b18aa.jpg)
 
 
 ### 优麒麟软件商店上架“原生”微信应用
@@ -27,7 +27,7 @@ tags:	[linuxcn,微信,密码,备份]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/31/130126q2rnptcdrcoko7ao.jpg)
+![](/Asserts/Images/album/202112/31/130126q2rnptcdrcoko7ao.jpg)
 
 
 ### 将密码存储在浏览器中是个糟糕的主意
@@ -44,7 +44,7 @@ tags:	[linuxcn,微信,密码,备份]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/31/130145yisecaj96769o379.jpg)
+![](/Asserts/Images/album/202112/31/130145yisecaj96769o379.jpg)
 
 
 ### 因备份错误，日本京都大学丢失 77TB 的研究数据

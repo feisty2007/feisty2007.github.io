@@ -7,7 +7,7 @@ tags:	[linuxcn,dict,字典]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/08/152653jojqqmv7x7wxzox7.jpg)
+![](/Asserts/Images/album/202303/08/152653jojqqmv7x7wxzox7.jpg)
 
 
 

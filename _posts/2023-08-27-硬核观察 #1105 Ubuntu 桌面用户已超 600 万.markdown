@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,Gitlab,《星际公民》]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/26/193347zc6ue9w2eg6z9yww.jpg)
+![](/Asserts/Images/album/202308/26/193347zc6ue9w2eg6z9yww.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/26/193400igftagdtzdfzvtje.jpg)
+![](/Asserts/Images/album/202308/26/193400igftagdtzdfzvtje.jpg)
 
 
 ### Ubuntu 桌面用户已超 600 万
@@ -35,7 +35,7 @@ Canonical 公布了一系列 Ubuntu 桌面数据：其桌面用户已超过 600 
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/26/193411k3izpyqqowpblfuy.jpg)
+![](/Asserts/Images/album/202308/26/193411k3izpyqqowpblfuy.jpg)
 
 
 ### Gitlab 将支持跨实例订阅和合并请求
@@ -60,7 +60,7 @@ ActivityPub 是一个 W3C 标准，其最知名的实现是 Mastodon 以及 Lemm
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/26/193425wkdjds6bkkmvdskj.jpg)
+![](/Asserts/Images/album/202308/26/193425wkdjds6bkkmvdskj.jpg)
 
 
 ### 开放游戏《星际公民》众筹突破六亿美元

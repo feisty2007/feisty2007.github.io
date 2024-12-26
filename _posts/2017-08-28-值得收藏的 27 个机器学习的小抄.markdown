@@ -7,7 +7,7 @@ tags:	[linuxcn,机器学习,ML]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/05/110932z0qn5opx5yoq6f5j.jpg)
+![](/Asserts/Images/album/201708/05/110932z0qn5opx5yoq6f5j.jpg)
 
 
 <ruby> 机器学习 <rp>  （ </rp> <rt>  Machine Learning </rt> <rp>  ） </rp></ruby>有很多方面，当我开始研究学习它时，我发现了各种各样的“小抄”，它们简明地列出了给定主题的关键知识点。最终，我汇集了超过 20 篇的机器学习相关的小抄，其中一些我经常会翻阅，而另一些我也获益匪浅。这篇文章里面包含了我在网上找到的 27 个小抄，如果你发现我有所遗漏的话，请告诉我。
@@ -31,7 +31,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <http://www.asimovinstitute.org/neural-network-zoo/>
 
 
-![](/Asserts/Images//attachment/album/201708/05/110955wh2v4ja5xvxjzzjj.png)
+![](/Asserts/Images/album/201708/05/110955wh2v4ja5xvxjzzjj.png)
 
 
 *神经网络公园*
@@ -43,7 +43,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet>
 
 
-![](/Asserts/Images//attachment/album/201708/05/111005haemeumnuuchhcne.png)
+![](/Asserts/Images/album/201708/05/111005haemeumnuuchhcne.png)
 
 
 *用于微软 Azure 机器学习工作室的机器学习算法*
@@ -55,7 +55,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/>
 
 
-![](/Asserts/Images//attachment/album/201708/05/111008vxxe3eiz5xp8xhqe.png)
+![](/Asserts/Images/album/201708/05/111008vxxe3eiz5xp8xhqe.png)
 
 
 *SAS：我应该使用哪个机器学习算法？*
@@ -67,7 +67,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/>
 
 
-![](/Asserts/Images//attachment/album/201708/05/111014evvx0fojcrpvv412.png)
+![](/Asserts/Images/album/201708/05/111014evvx0fojcrpvv412.png)
 
 
 *机器学习算法指引*
@@ -76,7 +76,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： [http://thinkbigdata.in/best-known-machine-learning-algorithms-infographic/](http://thinkbigdata.in/best-known-machine-learning-algorithms-infographic/?utm_source=datafloq&utm_medium=ref&utm_campaign=datafloq)
 
 
-![](/Asserts/Images//attachment/album/201708/05/111020a82locjacyj5aqk2.jpg) 
+![](/Asserts/Images/album/201708/05/111020a82locjacyj5aqk2.jpg) 
 
 
 *已知的机器学习算法哪个最好？*
@@ -88,7 +88,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend>
 
 
-![](/Asserts/Images//attachment/album/201708/05/111030mdz5521ydrxqryxz.jpg)
+![](/Asserts/Images/album/201708/05/111030mdz5521ydrxqryxz.jpg)
 
 
 ### Python
@@ -103,22 +103,22 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/>
 
 
-![](/Asserts/Images//attachment/album/201708/05/111041bb1ccmi7gzsbmtp7.png)
+![](/Asserts/Images/album/201708/05/111041bb1ccmi7gzsbmtp7.png)
 
 
 #### **Python 基础**
 
 
-来源： <http://Asserts/Images/sciencefree.com/python.pdf>
+来源： <http://datasciencefree.com/python.pdf>
 
 
-![](/Asserts/Images//attachment/album/201708/05/111050xf6ji7bmxef0696z.png)
+![](/Asserts/Images/album/201708/05/111050xf6ji7bmxef0696z.png)
 
 
 来源： <https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA>
 
 
-![](/Asserts/Images//attachment/album/201708/05/112253a141artffkkk1a2d.png)
+![](/Asserts/Images/album/201708/05/112253a141artffkkk1a2d.png)
 
 
 #### Numpy
@@ -127,46 +127,46 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://www.dataquest.io/blog/numpy-cheat-sheet/>
 
 
-![](/Asserts/Images//attachment/album/201708/05/112302bc790hdxy11rcpdr.png)
+![](/Asserts/Images/album/201708/05/112302bc790hdxy11rcpdr.png)
 
 
-来源： <http://Asserts/Images/sciencefree.com/numpy.pdf>
+来源： <http://datasciencefree.com/numpy.pdf>
 
 
-![](/Asserts/Images//attachment/album/201708/05/112311tnfpuirfukgkx6ho.png)
+![](/Asserts/Images/album/201708/05/112311tnfpuirfukgkx6ho.png)
 
 
 来源： <https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE>
 
 
-![](/Asserts/Images//attachment/album/201708/05/112329nf5fteevysgmam95.png)
+![](/Asserts/Images/album/201708/05/112329nf5fteevysgmam95.png)
 
 
-来源： <https://github.com/donnemartin/Asserts/Images/-science-ipython-notebooks/blob/master/numpy/numpy.ipynb>
+来源： <https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb>
 
 
-![](/Asserts/Images//attachment/album/201708/05/112336ylotetzlrlcgsrlz.png)
+![](/Asserts/Images/album/201708/05/112336ylotetzlrlcgsrlz.png)
 
 
 #### Pandas
 
 
-来源： <http://Asserts/Images/sciencefree.com/pandas.pdf>
+来源： <http://datasciencefree.com/pandas.pdf>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131133zzk34v3ddks98d45.png)
+![](/Asserts/Images/album/201708/05/131133zzk34v3ddks98d45.png)
 
 
 来源： <https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131138kwe5ffb05p3hmmog.png)
+![](/Asserts/Images/album/201708/05/131138kwe5ffb05p3hmmog.png)
 
 
-来源： <https://github.com/donnemartin/Asserts/Images/-science-ipython-notebooks/blob/master/pandas/pandas.ipynb>
+来源： <https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131145zvmmlhcgh6ljmgyh.png)
+![](/Asserts/Images/album/201708/05/131145zvmmlhcgh6ljmgyh.png)
 
 
 #### Matplotlib
@@ -175,13 +175,13 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131154ygendu0v3gv1ewue.png)
+![](/Asserts/Images/album/201708/05/131154ygendu0v3gv1ewue.png)
 
 
-来源： <https://github.com/donnemartin/Asserts/Images/-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb>
+来源： <https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131159a26b71s798btr67f.png)
+![](/Asserts/Images/album/201708/05/131159a26b71s798btr67f.png)
 
 
 #### Scikit Learn
@@ -190,19 +190,19 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A1Jk>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131207b3razsosvha9aczz.png)
+![](/Asserts/Images/album/201708/05/131207b3razsosvha9aczz.png)
 
 
 来源： <http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131222d9o9w8hytc7imspw.png)
+![](/Asserts/Images/album/201708/05/131222d9o9w8hytc7imspw.png)
 
 
 来源： <https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learning.ipynb>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131230x05s3uii4arzwbk9.png)
+![](/Asserts/Images/album/201708/05/131230x05s3uii4arzwbk9.png)
 
 
 #### Tensorflow
@@ -211,7 +211,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/1_Introduction/basic_operations.ipynb>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131236skpzk1gl5lsq366s.png)
+![](/Asserts/Images/album/201708/05/131236skpzk1gl5lsq366s.png)
 
 
 #### Pytorch
@@ -220,7 +220,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://github.com/bfortuner/pytorch-cheatsheet>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131240txpab77z1mpaazt7.png)
+![](/Asserts/Images/album/201708/05/131240txpab77z1mpaazt7.png)
 
 
 ### 数学
@@ -235,7 +235,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <http://www.wzchen.com/s/probability_cheatsheet.pdf>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131255ltnrazkimaqq88ts.png)
+![](/Asserts/Images/album/201708/05/131255ltnrazkimaqq88ts.png)
 
 
 *概率小抄 2.0*
@@ -247,7 +247,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131308zgm3gox3acaaygoz.png)
+![](/Asserts/Images/album/201708/05/131308zgm3gox3acaaygoz.png)
 
 
 *四页内解释线性代数*
@@ -259,7 +259,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131315hdrku1zfif62szir.png)
+![](/Asserts/Images/album/201708/05/131315hdrku1zfif62szir.png)
 
 
 *统计学小抄*
@@ -271,7 +271,7 @@ tags:	[linuxcn,机器学习,ML]
 来源： <http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N>
 
 
-![](/Asserts/Images//attachment/album/201708/05/131329rxy2xgo4bg248y4y.png)
+![](/Asserts/Images/album/201708/05/131329rxy2xgo4bg248y4y.png)
 
 
 *微积分小抄*

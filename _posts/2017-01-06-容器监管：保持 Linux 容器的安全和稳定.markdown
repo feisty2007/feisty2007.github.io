@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Docker,Anchore]
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/25/124735zc661syy3eeweqa6.jpg)
+![](/Asserts/Images/album/201701/25/124735zc661syy3eeweqa6.jpg)
 
 
 Linux 容器正在改变 IT 从业者的工作方式。相比于庞大、沉重的虚拟机，一些组织发现把他们的应用部署在容器中更有效，可以提供更快的速度，更加密集，提升他们操作的敏捷性。

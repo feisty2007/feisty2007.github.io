@@ -15,7 +15,7 @@ tags:	[linuxcn,IoT,IIoT]
 > 
 
 
-![IDG Worldwide](/Asserts/Images//attachment/album/201906/30/115018x02hv104ao7p40xp.jpg)
+![IDG Worldwide](/Asserts/Images/album/201906/30/115018x02hv104ao7p40xp.jpg)
 
 
 为了扩展自己的物联网安全管理产品，思科计划收购 Sentryo，这是一家总部位于法国的公司，Sentryo 为工业物联网提供异常检测和实时威胁检测。

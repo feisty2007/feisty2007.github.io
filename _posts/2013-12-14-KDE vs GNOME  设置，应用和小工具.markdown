@@ -10,7 +10,7 @@ tags:	[linuxcn,KDE,GNOME,桌面,小工具,扩展,应用]
 当提到桌面环境时，对你来说选择一个合适的可能是个值得深思的个人问题。在这篇文章中，我会比较Gnome和KDE这两种最为流行的Linux桌面环境之间的不同之处，也会通过对比它们的优缺点来探究每一种桌面环境所能提供的功能。
 
 
-![](/Asserts/Images//attachment/album/201312/14/222001dzbotooeyylkoaoa.png)
+![](/Asserts/Images/album/201312/14/222001dzbotooeyylkoaoa.png)
 
 
 ### 第一印象

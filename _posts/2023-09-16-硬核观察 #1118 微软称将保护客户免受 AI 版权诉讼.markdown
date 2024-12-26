@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Bcachefs,TPM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/08/160442jqu3id77d1b6wked.jpg)
+![](/Asserts/Images/album/202309/08/160442jqu3id77d1b6wked.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/08/160452g3dw090d93kktdpt.jpg)
+![](/Asserts/Images/album/202309/08/160452g3dw090d93kktdpt.jpg)
 
 
 ### 微软称将保护客户免受 AI 版权诉讼
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,Bcachefs,TPM]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/08/160502fsi5wbmxmus5u515.jpg)
+![](/Asserts/Images/album/202309/08/160502fsi5wbmxmus5u515.jpg)
 
 
 ### Bcachefs 合并再生波折
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,Bcachefs,TPM]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/08/160515pg63g5gu2rxwu7gt.jpg)
+![](/Asserts/Images/album/202309/08/160515pg63g5gu2rxwu7gt.jpg)
 
 
 ### Ubuntu 新增 TPM 支持的全磁盘加密功能

@@ -7,7 +7,7 @@ tags:	[linuxcn,Linus Torvalds]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/09/203933dxz84v3gjj3h1x8j.jpg)
+![](/Asserts/Images/album/201512/09/203933dxz84v3gjj3h1x8j.jpg)
 
 
 Linus 上个月骂了一个 Linux 开发者，原因是他向 kernel 提交了一份不安全的代码。

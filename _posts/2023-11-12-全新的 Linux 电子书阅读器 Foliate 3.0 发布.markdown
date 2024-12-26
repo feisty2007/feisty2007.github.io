@@ -7,7 +7,7 @@ tags:	[linuxcn,Foliate,电子书]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/18/113642mf8bft5rmo7io5ux.png)
+![](/Asserts/Images/album/202311/18/113642mf8bft5rmo7io5ux.png)
 
 
 
@@ -30,7 +30,7 @@ Foliate 作为 [Linux 上最佳的电子书阅读器](https://itsfoss.com/best-e
 ### ? Foliate 3.0：新增了什么？
 
 
-![](/Asserts/Images//attachment/album/202311/18/113744pndqihhbn6tvb6w9.png)
+![](/Asserts/Images/album/202311/18/113744pndqihhbn6tvb6w9.png)
 
 
 在 3.0 版本中，**Foliate 进行了彻底的重构**，采用了 [GTK 4](https://blog.gtk.org/2020/12/16/gtk-4-0/)、[Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/) 等现代平台库。开发者预示，我们可以期待一个焕然一新的界面和比以前更出色的性能。
@@ -50,7 +50,7 @@ Foliate 作为 [Linux 上最佳的电子书阅读器](https://itsfoss.com/best-e
 #### 用户界面全新升级
 
 
-![](/Asserts/Images//attachment/album/202311/18/113746m7ppzp1hach71nz1.png)
+![](/Asserts/Images/album/202311/18/113746m7ppzp1hach71nz1.png)
 
 
 如你所见，Foliate 的主要变化在于其用户界面。它现在采用了**全新的布局**，把图书库和电子书阅读器都整合到一个窗口中。
@@ -59,7 +59,7 @@ Foliate 作为 [Linux 上最佳的电子书阅读器](https://itsfoss.com/best-e
 还有一个**新的侧边栏**，在这里你可以找到一些重要的功能，如目录、注释和书签。
 
 
-![](/Asserts/Images//attachment/album/202311/18/113746rn3fr71k7krgro09.png)
+![](/Asserts/Images/album/202311/18/113746rn3fr71k7krgro09.png)
 
 
 在顶部，你可以看到**一个方便的搜索栏**，让你可以在书中搜索特定的词或句子，同时有一个“<ruby> 图书库 <rt>  Library </rt></ruby>”按钮可以帮助你回到你的电子书库。
@@ -94,7 +94,7 @@ Foliate 作为 [Linux 上最佳的电子书阅读器](https://itsfoss.com/best-e
 #### 优化的用户体验
 
 
-![](/Asserts/Images//attachment/album/202311/18/113754gveqxc0tltxqvglc.png)
+![](/Asserts/Images/album/202311/18/113754gveqxc0tltxqvglc.png)
 
 
 除了用户界面的优化，Foliate 3.0 还引入了一些**非常酷的用户体验改进**。

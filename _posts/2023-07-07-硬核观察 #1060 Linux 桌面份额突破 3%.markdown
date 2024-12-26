@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,Windows,亚马逊]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/12/173601hsaqy8sebyer0aey.jpg)
+![](/Asserts/Images/album/202307/12/173601hsaqy8sebyer0aey.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/12/173610dlfhtdelcwzdtgct.jpg)
+![](/Asserts/Images/album/202307/12/173610dlfhtdelcwzdtgct.jpg)
 
 
 ### Linux 桌面份额突破 3%
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,Windows,亚马逊]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/12/173627k0nfsxkfcge7eesf.jpg)
+![](/Asserts/Images/album/202307/12/173627k0nfsxkfcge7eesf.jpg)
 
 
 ### Windows 95、98 和 NT 4.0 等可再次获得在线更新
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,Windows,亚马逊]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/12/173644yhc71xnaeh6x6356.jpg)
+![](/Asserts/Images/album/202307/12/173644yhc71xnaeh6x6356.jpg)
 
 
 ### 亚马逊称自己不是“超大在线平台”以规避欧盟规则

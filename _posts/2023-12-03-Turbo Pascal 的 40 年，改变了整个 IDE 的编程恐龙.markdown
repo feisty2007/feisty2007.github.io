@@ -7,7 +7,7 @@ tags:	[linuxcn,IDE,Pascal]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/05/192646jakv8ovvke0adeaa.png)
+![](/Asserts/Images/album/202312/05/192646jakv8ovvke0adeaa.png)
 
 
 

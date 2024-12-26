@@ -7,7 +7,7 @@ tags:	[linuxcn,GitLab]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/08/113049el2dx242c4mwm40k.jpg)
+![](/Asserts/Images/album/202308/08/113049el2dx242c4mwm40k.jpg)
 
 
 GitLab 是一个开源平台，提供了强大且功能丰富的解决方案，用于管理仓库、问题、CI/CD 管道等。如果你是 Ubuntu 22.04 或 20.04 用户，并且想要设置自己的 [GitLab](https://about.gitlab.com/) 实例来简化你的 DevOps 工作流程，那么你来对地方了。
@@ -64,13 +64,13 @@ $ sudo apt install -y curl openssh-server ca-certificates postfix
 在 postfix 安装过程中，会出现一个配置窗口。选择 “Internet Site”并输入服务器的主机名作为邮件服务器名称。这将允许 GitLab 发送电子邮件通知。
 
 
-![](/Asserts/Images//attachment/album/202308/08/113315wpmqepeqlt9wg00e.jpg)
+![](/Asserts/Images/album/202308/08/113315wpmqepeqlt9wg00e.jpg)
 
 
 选择 “Internet Site”，然后选择 “OK”。
 
 
-![](/Asserts/Images//attachment/album/202308/08/113329pl11qt1ed17e8d9n.jpg)
+![](/Asserts/Images/album/202308/08/113329pl11qt1ed17e8d9n.jpg)
 
 
 检查系统的主机名并选择 “OK”。
@@ -88,7 +88,7 @@ $ curl -sS https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/scr
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/08/113342reg5uqxdoxd0f9d9.jpg)
+![](/Asserts/Images/album/202308/08/113342reg5uqxdoxd0f9d9.jpg)
 
 
 ### 4、安装 Gitlab
@@ -106,10 +106,10 @@ $ sudo EXTERNAL_URL="http://gitlab.linuxtechi.net" apt install gitlab-ce
 上述命令成功执行后，我们将得到如下输出。
 
 
-![](/Asserts/Images//attachment/album/202308/08/113400llqmmw55tllwy55w.jpg)
+![](/Asserts/Images/album/202308/08/113400llqmmw55tllwy55w.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/08/113414n5egejzo0wesjbbs.jpg)
+![](/Asserts/Images/album/202308/08/113414n5egejzo0wesjbbs.jpg)
 
 
 上面的输出确认 GitLab 已成功安装。gitlab web 界面的用户名是 root，密码存储在 `/etc/gitlab/initial_root_password`。
@@ -141,13 +141,13 @@ http://<Server-IP-Address-or-Hostname>
 * 密码：从 `/etc/gitlab/initial_root_password` 获取密码
 
 
-![](/Asserts/Images//attachment/album/202308/08/113430dwg8gh388fp0w81p.jpg)
+![](/Asserts/Images/album/202308/08/113430dwg8gh388fp0w81p.jpg)
 
 
 点击“<ruby> 登录 <rt>  Sign in </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202308/08/113452ach16rhr866i0q1m.jpg)
+![](/Asserts/Images/album/202308/08/113452ach16rhr866i0q1m.jpg)
 
 
 很好，上面确认我们已经成功登录 Gitlab Web 界面。
@@ -193,7 +193,7 @@ $ sudo openssl req -new -key /etc/gitlab/ssl/gitlab.linuxtechi.net.key -out /etc
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/08/113509c4ba94a4yj29fa9l.jpg)
+![](/Asserts/Images/album/202308/08/113509c4ba94a4yj29fa9l.jpg)
 
 
 从密钥中删除密码串，依次执行以下命令：
@@ -256,7 +256,7 @@ $ sudo gitlab-ctl reconfigure
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/08/113523fsw47nugk7pl37nm.jpg)
+![](/Asserts/Images/album/202308/08/113523fsw47nugk7pl37nm.jpg)
 
 
 成功执行上述命令后，你的 GitLab 界面应该可以通过 HTTPS 协议访问，在我的例子中，URL 为：`https://gitlab.linuxtechi.net/`
@@ -265,7 +265,7 @@ $ sudo gitlab-ctl reconfigure
 当你第一次访问它时，它会说你的连接不安全，点击“接受风险并继续”。
 
 
-![](/Asserts/Images//attachment/album/202308/08/113538ikwkirbmxfzubmou.jpg)
+![](/Asserts/Images/album/202308/08/113538ikwkirbmxfzubmou.jpg)
 
 
 ### 结论

@@ -7,7 +7,7 @@ tags:	[linuxcn,屏幕]
 ---
 
 
-![](/Asserts/Images//attachment/album/202011/09/103848pw8lhrtsl6rs36ut.png)
+![](/Asserts/Images/album/202011/09/103848pw8lhrtsl6rs36ut.png)
 
 
 在终端上工作时，通常会发现终端屏幕上显示了太多的命令及其输出。
@@ -31,7 +31,7 @@ clear
 `clear` 命令无需选项。就是这么简单，但是你还需要了解其他一些内容。
 
 
-![](/Asserts/Images//attachment/album/202011/09/103850zgez6eik5a1f6r5f.gif)
+![](/Asserts/Images/album/202011/09/103850zgez6eik5a1f6r5f.gif)
 
 
 `clear` 命令和其他清除屏幕的方法可能取决于你使用的终端模拟器。终端模拟器是用于访问 Linux Shell（命令行）的终端应用。

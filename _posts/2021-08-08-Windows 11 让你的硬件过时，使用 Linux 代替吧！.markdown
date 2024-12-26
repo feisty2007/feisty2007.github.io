@@ -15,7 +15,7 @@ tags:	[linuxcn,Windows]
 > 
 
 
-![](/Asserts/Images//attachment/album/202108/01/204807c2gbvakh81gmvpvk.png)
+![](/Asserts/Images/album/202108/01/204807c2gbvakh81gmvpvk.png)
 
 
 Windows 11 终于来了，我们并不完全对此感到兴奋，它给许多电脑用户带来了困扰。
@@ -42,7 +42,7 @@ Windows 11 终于来了，我们并不完全对此感到兴奋，它给许多电
 * 720P 分辨率显示器
 
 
-![](/Asserts/Images//attachment/album/202108/01/204809seyuxdike6sdsukx.png)
+![](/Asserts/Images/album/202108/01/204809seyuxdike6sdsukx.png)
 
 
 你可以在 [微软官方网站](https://www.microsoft.com/en-us/windows/windows-11) 下载“电脑健康状况检查”应用检查你的系统是否符合条件。
@@ -66,7 +66,7 @@ Windows 11 终于来了，我们并不完全对此感到兴奋，它给许多电
 ### Windows 11 安装需要网络连接
 
 
-![](/Asserts/Images//attachment/album/202108/01/204811yqqqc58q01oqj8jc.png)
+![](/Asserts/Images/album/202108/01/204811yqqqc58q01oqj8jc.png)
 
 
 虽然我们不太清楚，但根据其系统要求规范，Windows 11 安装过程中将要求用户有可连通的互联网连接。
@@ -81,7 +81,7 @@ Windows 11 终于来了，我们并不完全对此感到兴奋，它给许多电
 ### 没有 32 位支持
 
 
-![](/Asserts/Images//attachment/album/202108/01/204813ut5qdmy91qa5ymay.png)
+![](/Asserts/Images/album/202108/01/204813ut5qdmy91qa5ymay.png)
 
 
 Windows 10 确实是支持 32 位系统的，但是 Windows 11 终结了相关支持。

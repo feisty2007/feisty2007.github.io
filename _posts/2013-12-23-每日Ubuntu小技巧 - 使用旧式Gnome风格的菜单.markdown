@@ -49,7 +49,7 @@ sudo apt-get update && sudo apt-get install classicmenu-indicator
 安装完成后，在Unity Dash中启动。它叫Classic Menu Indicator。当你启动它的时候，它会自动的嵌入顶部面板，如下图。
 
 
-![](/Asserts/Images//attachment/album/201312/14/204515wx7trh0d6xerdodr.png)
+![](/Asserts/Images/album/201312/14/204515wx7trh0d6xerdodr.png)
 
 
 就是这样，使用并享受吧！

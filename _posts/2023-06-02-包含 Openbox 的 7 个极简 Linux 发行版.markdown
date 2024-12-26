@@ -7,7 +7,7 @@ tags:	[linuxcn,Openbox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/23/093305fnn7pxxywryez6yc.jpg)
+![](/Asserts/Images/album/202306/23/093305fnn7pxxywryez6yc.jpg)
 
 
 [Openbox](http://openbox.org/wiki/Main_Page) 是一款适用于 Linux 的轻量级、可配置的窗口堆叠式管理器。它支持许多标准，适用于任何桌面环境。
@@ -28,7 +28,7 @@ tags:	[linuxcn,Openbox]
 ### 1、Archcraft
 
 
-![archcraft live media with neofetch open in terminal](/Asserts/Images//attachment/album/202306/23/093358f0z08b0c8apgkksk.png)
+![archcraft live media with neofetch open in terminal](/Asserts/Images/album/202306/23/093358f0z08b0c8apgkksk.png)
 
 
 如果你想体验 Openbox 窗口管理器，Archcraft 是一个不错的选择。不像其他发行版，Openbox 是这个发行版的默认桌面环境，所以你可以期待它的表现优秀。
@@ -54,7 +54,7 @@ tags:	[linuxcn,Openbox]
 ### 2、ArcolinuxB Openbox
 
 
-![arcolinuxb openbox live media with neofetch open in terminal](/Asserts/Images//attachment/album/202306/23/093358cylo7ys5lrsnjkmr.png)
+![arcolinuxb openbox live media with neofetch open in terminal](/Asserts/Images/album/202306/23/093358cylo7ys5lrsnjkmr.png)
 
 
 如果你想学习 Arch（Arcolinux 项目的主要目标），ArcolinuxB Openbox 是一个非常优秀的 Linux 桌面发行版。
@@ -77,7 +77,7 @@ tags:	[linuxcn,Openbox]
 ### 3、AV Linux MX Edition
 
 
-![av linux live media with neofetch open in terminal](/Asserts/Images//attachment/album/202306/23/093359lwbpk08g3lgux8l0.png)
+![av linux live media with neofetch open in terminal](/Asserts/Images/album/202306/23/093359lwbpk08g3lgux8l0.png)
 
 
 AV Linux MX Edition 是基于 MX Linux 的一个版本，使用 Openbox 作为窗口管理器。
@@ -100,7 +100,7 @@ AV Linux MX Edition 是基于 MX Linux 的一个版本，使用 Openbox 作为�
 ### 4、Bunsenlabs Linux
 
 
-![bunsenlabs live media with neofetch open in terminal](/Asserts/Images//attachment/album/202306/23/093359qxupx57td944p3x6.png)
+![bunsenlabs live media with neofetch open in terminal](/Asserts/Images/album/202306/23/093359qxupx57td944p3x6.png)
 
 
 BunsenLabs Linux 是一个基于 Debian 的发行版，提供了一个轻量且易于定制的 Openbox 桌面环境。该项目是 [CrunchBang Linux](https://en.wikipedia.org/wiki/CrunchBang_Linux) 的分支。
@@ -123,7 +123,7 @@ BunsenLabs Linux 是一个基于 Debian 的发行版，提供了一个轻量且�
 ### 5、Crunchbang++
 
 
-![crunchbangplusplus live media with neofetch open in terminal](/Asserts/Images//attachment/album/202306/23/093400dijwfizuc9wpew29.png)
+![crunchbangplusplus live media with neofetch open in terminal](/Asserts/Images/album/202306/23/093400dijwfizuc9wpew29.png)
 
 
 正如其名字所示，Crunchbang++ 是 Crunchbang 的一个分支，并尽量保持与原版接近。
@@ -146,7 +146,7 @@ Crunchbang++ 是一个极简且轻量级的发行版。它可能会让一些用�
 ### 6、Mabox Linux
 
 
-![mabox linux live media with neofetch open in terminal](/Asserts/Images//attachment/album/202306/23/093400cekshe0aesb3qkek.png)
+![mabox linux live media with neofetch open in terminal](/Asserts/Images/album/202306/23/093400cekshe0aesb3qkek.png)
 
 
 Mabox Linux 是一个基于 Manjaro 的现代发行版，专注于定制化或 <ruby> 美化 <rt>  ricing </rt></ruby>。
@@ -169,7 +169,7 @@ Mabox Linux 是一个基于 Manjaro 的现代发行版，专注于定制化或 <
 ### 7、Sparky Linux Openbox
 
 
-![sparky linux openbox live media with neofetch open in terminal](/Asserts/Images//attachment/album/202306/23/093401agmc5xmx08880666.png)
+![sparky linux openbox live media with neofetch open in terminal](/Asserts/Images/album/202306/23/093401agmc5xmx08880666.png)
 
 
 Sparky Linux 是一个基于 Debian 的 Linux 发行版，也提供 Openbox 作为另一种桌面环境选择。

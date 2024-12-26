@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,Firefox,路由器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/30/173638mh3kjwjx3569b03x.jpg)
+![](/Asserts/Images/album/202206/30/173638mh3kjwjx3569b03x.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/30/173649mm99bkdw37z97ebk.jpg)
+![](/Asserts/Images/album/202206/30/173649mm99bkdw37z97ebk.jpg)
 
 
 ### 不值得使用 -O3 来编译 Linux 内核
@@ -35,7 +35,7 @@ tags:	[linuxcn,内核,Firefox,路由器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/30/173659gyymhlqmdcmvydmh.jpg)
+![](/Asserts/Images/album/202206/30/173659gyymhlqmdcmvydmh.jpg)
 
 
 ### Firefox 102 现在可以自动删除 URL 中的跟踪器
@@ -60,7 +60,7 @@ tags:	[linuxcn,内核,Firefox,路由器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/30/173711eknx9n7eqgqelqfx.jpg)
+![](/Asserts/Images/album/202206/30/173711eknx9n7eqgqelqfx.jpg)
 
 
 ### 欧美大范围的路由器受到了新的、异常复杂的恶意软件的攻击

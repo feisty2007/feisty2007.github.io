@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,并行,协程,游戏]
 ---
 
 
- ![](/Asserts/Images//attachment/album/201609/20/152441d6zf0gfh0kivkfym.jpg)
+ ![](/Asserts/Images/album/201609/20/152441d6zf0gfh0kivkfym.jpg)
 
 
 
@@ -21,13 +21,13 @@ tags:	[linuxcn,Python,并行,协程,游戏]
 * 代码戳[这里](https://github.com/7WebPages/snakepit-game)
 
 
-[![](/Asserts/Images//attachment/album/201609/20/152543iw8yqfmyzw0ze90b.gif)](https://github.com/7WebPages/snakepit-game)
+[![](/Asserts/Images/album/201609/20/152543iw8yqfmyzw0ze90b.gif)](https://github.com/7WebPages/snakepit-game)
 
 
 ### 4、制作一个完整的游戏
 
 
-![](/Asserts/Images//attachment/album/201609/20/152546h2rxum7diizxymdi.gif)
+![](/Asserts/Images/album/201609/20/152546h2rxum7diizxymdi.gif)
 
 
 #### 4.1 工程概览
@@ -39,7 +39,7 @@ tags:	[linuxcn,Python,并行,协程,游戏]
 * [server.py](https://github.com/7WebPages/snakepit-game/blob/master/server.py) - 处理主游戏循环和连接。
 * [game.py](https://github.com/7WebPages/snakepit-game/blob/master/game.py) - 主要的 `Game` 类。实现游戏的逻辑和游戏的大部分通信协议。
 * [player.py](https://github.com/7WebPages/snakepit-game/blob/master/player.py) - `Player` 类，包括每一个独立玩家的数据和蛇的展现。这个类负责获取玩家的输入并相应地移动蛇。
-* [datatypes.py](https://github.com/7WebPages/snakepit-game/blob/master/Asserts/Images/types.py) - 基本数据结构。
+* [datatypes.py](https://github.com/7WebPages/snakepit-game/blob/master/datatypes.py) - 基本数据结构。
 * [settings.py](https://github.com/7WebPages/snakepit-game/blob/master/settings.py) - 游戏设置，在注释中有相关的说明。
 * [index.html](https://github.com/7WebPages/snakepit-game/blob/master/index.html) - 客户端所有的 html 和 javascript代码都放在一个文件中。
 

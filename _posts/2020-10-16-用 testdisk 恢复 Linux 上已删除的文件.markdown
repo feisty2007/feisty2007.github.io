@@ -15,7 +15,7 @@ tags:	[linuxcn,testdisk,删除]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/02/003801ijb4e4lqrzqeanjz.jpg)
+![](/Asserts/Images/album/202010/02/003801ijb4e4lqrzqeanjz.jpg)
 
 
 当你在 Linux 系统上删除一个文件时，它不一定会永远消失，特别是当你最近才刚刚删除了它的时候。

@@ -7,7 +7,7 @@ tags:	[linuxcn,PID,进程]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/13/185715w7awbfirhr7bb4i8.jpg)
+![](/Asserts/Images/album/201802/13/185715w7awbfirhr7bb4i8.jpg)
 
 
 每个人都知道 PID，究竟什么是 PID？为什么你想要 PID？你打算用 PID 做什么？你脑子里有同样的问题吗？如果是这样，你就找对地方了解这些细节了。

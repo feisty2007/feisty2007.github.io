@@ -7,10 +7,10 @@ tags:	[linuxcn,加密,键帽,宇航服]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/09/182909sfohf0ghf33q1odf.jpg)
+![](/Asserts/Images/album/202310/09/182909sfohf0ghf33q1odf.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/09/182922zd5wptn0n7u5wn9n.jpg)
+![](/Asserts/Images/album/202310/09/182922zd5wptn0n7u5wn9n.jpg)
 
 
 ### 谷歌开源了一个键帽形键盘，摇头输入
@@ -39,7 +39,7 @@ tags:	[linuxcn,加密,键帽,宇航服]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/09/182940fftfwcsbqspawfse.jpg)
+![](/Asserts/Images/album/202310/09/182940fftfwcsbqspawfse.jpg)
 
 
 ### 密码学家悬赏寻找 5 个 NIST 椭圆曲线丢失的种子
@@ -76,7 +76,7 @@ D09E8800291CB85396CC6717393284AAA0DA64BA
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/09/182954jo5jjdgt4d3ojozg.jpg)
+![](/Asserts/Images/album/202310/09/182954jo5jjdgt4d3ojozg.jpg)
 
 
 ### Prada 将为美国国家航空航天局设计新登月服

@@ -7,7 +7,7 @@ tags:	[linuxcn,Markdown,Remarkable]
 ---
 
 
-![](/Asserts/Images//attachment/album/201409/02/212700fiihhhy877i7ny1h.png)
+![](/Asserts/Images/album/201409/02/212700fiihhhy877i7ny1h.png)
 
 
 [Remarkable](http://remarkableapp.net/)是一个全新，免费，功能齐全的Linux发行版Markdown编辑器。它拥有许多特性，比如：在线预览，这让你的Markdown编辑变得更加容易。它是一个轻量级的编辑器，而且它还有一个简洁的用户界面(UI)。
@@ -26,7 +26,7 @@ tags:	[linuxcn,Markdown,Remarkable]
 * 键盘快捷键
 
 
-![](/Asserts/Images//attachment/album/201409/02/212702wus2fwm77y6uuu97.png)
+![](/Asserts/Images/album/201409/02/212702wus2fwm77y6uuu97.png)
 
 
 你可以观看[这部YouTube视频](https://www.youtube.com/watch?v=UpjAIcXti9s)（请自备梯子:-]）了解Linux下的Remakable。

@@ -7,7 +7,7 @@ tags:	[linuxcn,SSH,SFTP,FTPS,FTP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201703/26/185327duo2meczee4erguc.jpg)
+![](/Asserts/Images/album/201703/26/185327duo2meczee4erguc.jpg)
 
 
 <ruby> SSH 文件传输协议 <rt>  SSH File transfer protocol </rt></ruby>（SFTP）也称为<ruby> 通过安全套接层的文件传输协议 <rt>  File Transfer protocol via Secure Socket Layer </rt></ruby>， 以及 FTPS 都是最常见的安全 FTP 通信技术，用于通过 TCP 协议将计算机文件从一个主机传输到另一个主机。SFTP 和 FTPS 都提供高级别文件传输安全保护，通过强大的算法（如 AES 和 Triple DES）来加密传输的数据。

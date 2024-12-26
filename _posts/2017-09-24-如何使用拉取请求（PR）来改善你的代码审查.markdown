@@ -15,7 +15,7 @@ tags:	[linuxcn,PR,拉取请求,GitHub]
 > 
 
 
-![Measure](/Asserts/Images//attachment/album/201709/10/145704nfxpb1k1z9hkfumf.jpg)
+![Measure](/Asserts/Images/album/201709/10/145704nfxpb1k1z9hkfumf.jpg)
 
 
 如果你不是每天编写代码，你可能不知道软件开发人员日常面临的一些问题。

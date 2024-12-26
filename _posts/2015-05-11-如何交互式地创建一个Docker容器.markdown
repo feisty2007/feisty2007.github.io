@@ -13,7 +13,7 @@ tags:	[linuxcn,Docker,容器]
 Docker技术为IT界带来了巨大的改变，它使得云服务可以用来共享应用和工作流程自动化，使得应用可以用组件快速组合，消除了开发、品质保证、产品环境间的摩擦。在这篇文章中，我们将会建立CentOS环境，然后用Apache网络服务器提供一个网站服务。
 
 
-![](/Asserts/Images//attachment/album/201505/21/155734nowa22j60evvab0j.jpeg)
+![](/Asserts/Images/album/201505/21/155734nowa22j60evvab0j.jpeg)
 
 
 这是一个快速且容易的教程，讨论我们怎样使用交互的shell，以交互的方式来创建一个容器。
@@ -31,7 +31,7 @@ Docker首先会尝试从本地取得并运行所需的镜像，如果在本地�
 
 ```
 
-![Downloading Fedora Base Image](/Asserts/Images//attachment/album/201505/21/155748cd6wkfknvk5xphsk.png)
+![Downloading Fedora Base Image](/Asserts/Images/album/201505/21/155748cd6wkfknvk5xphsk.png)
 
 
 ### 2.安装Apache网络服务器
@@ -46,7 +46,7 @@ Docker首先会尝试从本地取得并运行所需的镜像，如果在本地�
 
 ```
 
-![Installing httpd](/Asserts/Images//attachment/album/201505/21/155749y41zlre1meysa7f4.png)
+![Installing httpd](/Asserts/Images/album/201505/21/155749y41zlre1meysa7f4.png)
 
 
 
@@ -55,7 +55,7 @@ Docker首先会尝试从本地取得并运行所需的镜像，如果在本地�
 
 ```
 
-![Installing httpd](/Asserts/Images//attachment/album/201505/21/155749y41zlre1meysa7f4.png)
+![Installing httpd](/Asserts/Images/album/201505/21/155749y41zlre1meysa7f4.png)
 
 
 退出容器的 tty。
@@ -79,7 +79,7 @@ Docker首先会尝试从本地取得并运行所需的镜像，如果在本地�
 
 ```
 
-![Docker Running Container](/Asserts/Images//attachment/album/201505/21/155750t2lofzildfwuijnz.png)
+![Docker Running Container](/Asserts/Images/album/201505/21/155750t2lofzildfwuijnz.png)
 
 
 然后，我们会保存这些改变为一个新的镜像，请运行以下命令。
@@ -91,7 +91,7 @@ Docker首先会尝试从本地取得并运行所需的镜像，如果在本地�
 
 ```
 
-![committing fedora httpd](/Asserts/Images//attachment/album/201505/21/155750uu5e808zs5dudu5u.png)
+![committing fedora httpd](/Asserts/Images/album/201505/21/155750uu5e808zs5dudu5u.png)
 
 
 这里，修改已经通过使用容器ID保存起来了，镜像名字叫fedora-httpd。为了确认新的镜像是否在运行，我们将运行以下命令。
@@ -103,7 +103,7 @@ Docker首先会尝试从本地取得并运行所需的镜像，如果在本地�
 
 ```
 
-![view docker images](/Asserts/Images//attachment/album/201505/21/155750rnkz3mk83kfvkghb.png)
+![view docker images](/Asserts/Images/album/201505/21/155750rnkz3mk83kfvkghb.png)
 
 
 ### 4. 添加内容到新的镜像
@@ -132,7 +132,7 @@ CMD [ "-D", "FOREGROUND" ]
 
 ```
 
-![configuring Dockerfile](/Asserts/Images//attachment/album/201505/21/155751t8p3mx22gnmddx77.png)
+![configuring Dockerfile](/Asserts/Images/album/201505/21/155751t8p3mx22gnmddx77.png)
 
 
 这里，上述的Dockerfile中，放在mysite.tar里的网页内容会自动解压到/tmp/文件夹里。然后，整个站点会被移动到Apache的网页根目录/var/www/html/，命令expose 80会打开80端口，这样网站就能正常访问了。其次，入口点放在了/usr/sbin/https里面，保证Apache服务器能够执行。
@@ -150,7 +150,7 @@ CMD [ "-D", "FOREGROUND" ]
 
 ```
 
-![Building mysite Image](/Asserts/Images//attachment/album/201505/21/155751kr3qjrpejjkepqpz.png)
+![Building mysite Image](/Asserts/Images/album/201505/21/155751kr3qjrpejjkepqpz.png)
 
 
 建立好我们的新容器后，我们需要要用下面的命令来运行容器。
@@ -162,7 +162,7 @@ CMD [ "-D", "FOREGROUND" ]
 
 ```
 
-![Running mysite Container](/Asserts/Images//attachment/album/201505/21/155752bcfkumrecu9zu9zc.png)
+![Running mysite Container](/Asserts/Images/album/201505/21/155752bcfkumrecu9zu9zc.png)
 
 
 ### 总结

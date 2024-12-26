@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,发行版,Ultimate Edition]
 ---
 
 
-![](/Asserts/Images//attachment/album/201404/16/104014n88y5d96y4akwauv.jpg)
+![](/Asserts/Images/album/201404/16/104014n88y5d96y4akwauv.jpg)
 
 
 **基于 Ubuntu 13.04（Raring Ringtail）的 Linux 发行版 Ultimate Edition 3.9 已经发布并可供下载。**

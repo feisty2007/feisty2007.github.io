@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏,成就系统]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/28/130203fbp933w71r7b2zg9.jpg)
+![](/Asserts/Images/album/202212/28/130203fbp933w71r7b2zg9.jpg)
 
 
 

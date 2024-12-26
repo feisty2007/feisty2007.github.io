@@ -7,7 +7,7 @@ tags:	[linuxcn,cheat,示例,命令]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/01/231203rvk8wttnt3kvtitt.jpeg)
+![](/Asserts/Images/album/201801/01/231203rvk8wttnt3kvtitt.jpeg)
 
 
 我们中的许多人经常查看  [man 页面](https://www.2daygeek.com/linux-color-man-pages-configuration-less-most-command/) 来了解命令开关（选项），它会显示有关命令语法、说明、细节和可用的选项，但它没有任何实际的例子。因此，在组合成一个我们需要的完整命令时会遇到一些麻烦。

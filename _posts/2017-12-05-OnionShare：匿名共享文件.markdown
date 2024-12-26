@@ -7,7 +7,7 @@ tags:	[linuxcn,Tor,隐私]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/26/182529sfrrddfthxheehhn.jpg)
+![](/Asserts/Images/album/201712/26/182529sfrrddfthxheehhn.jpg)
 
 
 在这个数字世界中，我们通过互联网使用 Dropbox、Mega、Google Drive 等不同云存储分享我们的媒体、文档和重要文件。但是每个云存储都有两个主要问题，一个是大小和另一个安全。习惯 Bit Torrent 之后，大小已经不是问题了，但安全性仍旧是。
@@ -22,13 +22,13 @@ tags:	[linuxcn,Tor,隐私]
 首先下载 [OnionShare](https://onionshare.org/) 和 [Tor浏览器](https://www.torproject.org/projects/torbrowser.html.en)。下载后安装它们。
 
 
-[![install onionshare and tor browser](/Asserts/Images//attachment/album/201712/26/182530v1t2tcn4a1hchwcc.png)](http://www.theitstuff.com/wp-content/uploads/2017/12/Icons.png)
+[![install onionshare and tor browser](/Asserts/Images/album/201712/26/182530v1t2tcn4a1hchwcc.png)](http://www.theitstuff.com/wp-content/uploads/2017/12/Icons.png)
 
 
 现在从开始菜单打开 OnionShare
 
 
-[![onionshare share files anonymously](/Asserts/Images//attachment/album/201712/26/182530nd0bztjjcdbdzezt.png)](http://www.theitstuff.com/wp-content/uploads/2017/12/Onion-Share.png)
+[![onionshare share files anonymously](/Asserts/Images/album/201712/26/182530nd0bztjjcdbdzezt.png)](http://www.theitstuff.com/wp-content/uploads/2017/12/Onion-Share.png)
 
 
 点击添加并添加一个文件/文件夹共享。
@@ -37,13 +37,13 @@ tags:	[linuxcn,Tor,隐私]
 点击开始分享。它会产生一个 .onion 网址，你可以与你的收件人分享这个网址。
 
 
-[![share file with onionshare anonymously](/Asserts/Images//attachment/album/201712/26/182531r02052b2bzajmx2m.png)](http://www.theitstuff.com/wp-content/uploads/2017/12/With-Link.png)
+[![share file with onionshare anonymously](/Asserts/Images/album/201712/26/182531r02052b2bzajmx2m.png)](http://www.theitstuff.com/wp-content/uploads/2017/12/With-Link.png)
 
 
 从 URL 下载文件，复制 URL 并打开 Tor 浏览器并粘贴。打开 URL 并下载文件/文件夹。
 
 
-[![receive file with onionshare anonymously](/Asserts/Images//attachment/album/201712/26/182532id6p4yf44fa6478y.png)](http://www.theitstuff.com/wp-content/uploads/2017/12/Tor.png)
+[![receive file with onionshare anonymously](/Asserts/Images/album/201712/26/182532id6p4yf44fa6478y.png)](http://www.theitstuff.com/wp-content/uploads/2017/12/Tor.png)
 
 
 ### OnionShare 的起源

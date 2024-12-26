@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenOffice,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/10/143846kry5mmrmlll3bgql.jpg)
+![](/Asserts/Images/album/202308/10/143846kry5mmrmlll3bgql.jpg)
 
 
 
@@ -33,7 +33,7 @@ LibreOffice 与 OpenOffice 是两个流行的微软办公套件的 [开源替代
 ### LibreOffice vs. OpenOffice：起源
 
 
-![](/Asserts/Images//attachment/album/202308/10/143907qsdiywwssv64hqpz.jpg)
+![](/Asserts/Images/album/202308/10/143907qsdiywwssv64hqpz.jpg)
 
 
 OpenOffice 是由 <ruby> 昇阳微系统 <rt>  Sun Microsystems </rt></ruby> 开发的项目。它是（他们最初收购的）与微软办公套件竞争的 StarOffice 的开源版本。
@@ -102,7 +102,7 @@ LibreOffice 和 Apache OpenOffice 都能够打开包括微软的 DOCX、PPT 等�
 **对于 Linux**，LibreOffice 在官方软件库中可用，并在软件中心和软件包管理器中列出。因此，你只需点击几下即可在 Linux 系统上安装它。
 
 
-![libreoffice software center](/Asserts/Images//attachment/album/202308/10/143907blv6lll05avs65s0.png)
+![libreoffice software center](/Asserts/Images/album/202308/10/143907blv6lll05avs65s0.png)
 
 
 不幸的是，OpenOffice 的安装过程比较麻烦。它不在软件库中，软件中心中也找不到它。而且，如果你已经预先安装了 LibreOffice，则在尝试安装 OpenOffice 之前必须先删除任何痕迹（以避免安装冲突）。
@@ -111,7 +111,7 @@ LibreOffice 和 Apache OpenOffice 都能够打开包括微软的 DOCX、PPT 等�
 你需要从其网站下载官方软件包（根据你的 Linux 发行版），然后解压缩，并使用一些命令来[在 Linux 上安装 OpenOffice](https://itsfoss.com/install-openoffice-ubuntu-linux/)。
 
 
-![openoffice debs linux](/Asserts/Images//attachment/album/202308/10/143908dv6gtvawytfqva6f.png)
+![openoffice debs linux](/Asserts/Images/album/202308/10/143908dv6gtvawytfqva6f.png)
 
 
 **对于 Windows 和 macOS**，安装非常简单，你只需 [下载安装包](https://www.libreoffice.org/download/download/)，然后按照屏幕上的指示进行操作即可。
@@ -132,25 +132,25 @@ LibreOffice 和 Apache OpenOffice 都能够打开包括微软的 DOCX、PPT 等�
 LibreOffice 提供了一个令人愉悦的用户界面，与现代标准相融合。LibreOffice 在大多数现代硬件上看起来都很好，不论你使用的是 2K 显示器还是 4K 显示器。
 
 
-![libreoffice home 1](/Asserts/Images//attachment/album/202308/10/143908vgvkjd9mykjgytmm.png)
+![libreoffice home 1](/Asserts/Images/album/202308/10/143908vgvkjd9mykjgytmm.png)
 
 
 你可以从主启动器快速访问所有工具，这是一种良好的体验。Writer、Calc 和其他程序提供了一个易于使用且看起来井然有序的界面。
 
 
-![libreoffice writer](/Asserts/Images//attachment/album/202308/10/143909y2tlggdq0iglyjpq.png)
+![libreoffice writer](/Asserts/Images/album/202308/10/143909y2tlggdq0iglyjpq.png)
 
 
 Apache OpenOffice 提供的是一个过时的用户界面。因此，如果你正在寻找一个现代化的开源办公套件，LibreOffice 是首选。
 
 
-![openoffice home](/Asserts/Images//attachment/album/202308/10/143910jx788kpmge792fw2.png)
+![openoffice home](/Asserts/Images/album/202308/10/143910jx788kpmge792fw2.png)
 
 
 当然，一些用户喜欢经典的用户界面，因为他们对此很熟悉，并且在旧硬件上的使用受到限制。
 
 
-![openoffice writer](/Asserts/Images//attachment/album/202308/10/143911ydtfhgi33h22ighz.png)
+![openoffice writer](/Asserts/Images/album/202308/10/143911ydtfhgi33h22ighz.png)
 
 
 换句话说，OpenOffice 仍然可用，但对于大多数现代用户来说可能不是一种直观的体验。
@@ -185,7 +185,7 @@ Apache OpenOffice 提供的是一个过时的用户界面。因此，如果你�
 ### 文件格式兼容性
 
 
-![](/Asserts/Images//attachment/album/202308/10/143912oy9khkkd1dfdk4af.jpg)
+![](/Asserts/Images/album/202308/10/143912oy9khkkd1dfdk4af.jpg)
 
 
 OpenOffice 支持几乎与 LibreOffice 相同的文件扩展名。
@@ -212,7 +212,7 @@ OpenOffice 支持几乎与 LibreOffice 相同的文件扩展名。
 ### 更新
 
 
-![](/Asserts/Images//attachment/album/202308/10/143912bdvg88othbqhavtg.jpg)
+![](/Asserts/Images/album/202308/10/143912bdvg88othbqhavtg.jpg)
 
 
 为了提高你使用该程序的效率并获得增强的性能、新功能和安全修复，建议选择定期获得更新的软件工具。
@@ -230,7 +230,7 @@ LibreOffice 的开发活动更加活跃，频繁修复错误/进行小型更新�
 ### 企业支持和在线协作选项
 
 
-![](/Asserts/Images//attachment/album/202308/10/143912xcthr176hv5hcwvk.jpg)
+![](/Asserts/Images/album/202308/10/143912xcthr176hv5hcwvk.jpg)
 
 
 有了 [Collabora Office](https://www.collaboraoffice.com/)，你可以获得企业支持，并能够在工作场所使用 LibreOffice。通过 [Collabora Online](https://www.collaboraoffice.com/collabora-online/)，你还可以在服务器上部署 LibreOffice 以实现协作工作空间。

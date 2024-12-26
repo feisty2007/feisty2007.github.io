@@ -10,7 +10,7 @@ tags:	[linuxcn,命令,shell]
 我们在Linux上工作时，每个人都会遇到需要查找shell命令的帮助信息的时候。 尽管内置的帮助像man pages、whatis命令有所助益， 但man pages的输出非常冗长， 除非是个有linux经验的人，不然从大量的man pages中获取帮助信息是非常困难的，而whatis命令的输出很少超过一行， 这对初学者来说是不够的。
 
 
-![Explain Shell Commands in Linux Shell](/Asserts/Images//attachment/album/201508/08/225304ov78vvv47yz776zg.jpg)
+![Explain Shell Commands in Linux Shell](/Asserts/Images/album/201508/08/225304ov78vvv47yz776zg.jpg)
 
 
 *在Linux Shell中解释Shell命令*
@@ -97,7 +97,7 @@ $ explain 'du -h'
 
 ```
 
-![Get Help on du Command](/Asserts/Images//attachment/album/201508/08/225305j6l3bs8m3smff83s.png)
+![Get Help on du Command](/Asserts/Images/album/201508/08/225305j6l3bs8m3smff83s.png)
 
 
 *获得du命令的帮助*
@@ -112,7 +112,7 @@ $ explain 'tar -zxvf'
 
 ```
 
-![Tar Command Help](/Asserts/Images//attachment/album/201508/08/225307vd5rd48dpko4pizi.png)
+![Tar Command Help](/Asserts/Images/album/201508/08/225307vd5rd48dpko4pizi.png)
 
 
 *Tar命令帮助*
@@ -140,7 +140,7 @@ Command: whereis
 
 ```
 
-![Whatis Whereis Commands Help](/Asserts/Images//attachment/album/201508/08/225309xask5plqv6vm1mnl.png)
+![Whatis Whereis Commands Help](/Asserts/Images/album/201508/08/225309xask5plqv6vm1mnl.png)
 
 
 *Whatis/Whereis命令的帮助*
@@ -158,7 +158,7 @@ $ explain 'ls -l | grep -i Desktop'
 
 ```
 
-![Get Help on Multiple Commands](/Asserts/Images//attachment/album/201508/08/225311t9lb1w62hl9x9jzl.png)
+![Get Help on Multiple Commands](/Asserts/Images/album/201508/08/225311t9lb1w62hl9x9jzl.png)
 
 
 *获取多条命令的帮助*

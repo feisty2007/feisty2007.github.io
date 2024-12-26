@@ -7,10 +7,10 @@ tags:	[linuxcn,Slackware,黑客,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/20/201534eaqwwn0eaeu6ww0n.jpg)
+![](/Asserts/Images/album/202307/20/201534eaqwwn0eaeu6ww0n.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/20/201544riwd6ztqdn6w6d81.jpg)
+![](/Asserts/Images/album/202307/20/201544riwd6ztqdn6w6d81.jpg)
 
 
 ### 现存最古老的发行版 Slackware 已经 30 岁了
@@ -35,7 +35,7 @@ tags:	[linuxcn,Slackware,黑客,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/20/201557qriojn6orbgnnnlj.jpg)
+![](/Asserts/Images/album/202307/20/201557qriojn6orbgnnnlj.jpg)
 
 
 ### 黑客之王凯文·米特尼克去世
@@ -60,7 +60,7 @@ tags:	[linuxcn,Slackware,黑客,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/20/201612pb0wjspfkz2bvb0q.jpg)
+![](/Asserts/Images/album/202307/20/201612pb0wjspfkz2bvb0q.jpg)
 
 
 ### 苹果正在开发自己的人工智能大模型

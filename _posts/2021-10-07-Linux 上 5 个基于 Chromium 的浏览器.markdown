@@ -15,7 +15,7 @@ tags:	[linuxcn,浏览器,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/07/131604zyqqiy2ghxc1kg9i.png)
+![](/Asserts/Images/album/202110/07/131604zyqqiy2ghxc1kg9i.png)
 
 
 想摆脱谷歌？想为你的 Linux 系统寻找可能比谷歌浏览器（和类似的）更好的浏览器？
@@ -63,7 +63,7 @@ tags:	[linuxcn,浏览器,Chrome]
 ### 1、UnGoogled Chromium
 
 
-![](/Asserts/Images//attachment/album/202110/07/131605wgygnlqf4x6z8f7v.png)
+![](/Asserts/Images/album/202110/07/131605wgygnlqf4x6z8f7v.png)
 
 
 特点：
@@ -94,7 +94,7 @@ tags:	[linuxcn,浏览器,Chrome]
 ### 2、Brave
 
 
-![](/Asserts/Images//attachment/album/202110/07/131607jqp9z90aqwxxhjsp.png)
+![](/Asserts/Images/album/202110/07/131607jqp9z90aqwxxhjsp.png)
 
 
 特点：
@@ -116,7 +116,7 @@ tags:	[linuxcn,浏览器,Chrome]
 ### 3、Edge
 
 
-![](/Asserts/Images//attachment/album/202110/07/131609mp1yyy3555z0p5nq.png)
+![](/Asserts/Images/album/202110/07/131609mp1yyy3555z0p5nq.png)
 
 
 特点：
@@ -142,7 +142,7 @@ tags:	[linuxcn,浏览器,Chrome]
 ### 4、Vivaldi
 
 
-![](/Asserts/Images//attachment/album/202110/07/131611tb5ki54jnrgu6uw4.png)
+![](/Asserts/Images/album/202110/07/131611tb5ki54jnrgu6uw4.png)
 
 
 特点：
@@ -174,7 +174,7 @@ tags:	[linuxcn,浏览器,Chrome]
 ### 5、Opera
 
 
-![](/Asserts/Images//attachment/album/202110/07/131613olt3m85d58eeq8qt.png)
+![](/Asserts/Images/album/202110/07/131613olt3m85d58eeq8qt.png)
 
 
 特点：

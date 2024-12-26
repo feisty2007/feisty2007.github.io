@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,命令]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/19/095932xc64xw7cwqlolale.jpg)
+![](/Asserts/Images/album/202003/19/095932xc64xw7cwqlolale.jpg)
 
 
 **很好地**使用 Linux 意味着了解有哪些命令以及它们可以为你执行的功能。

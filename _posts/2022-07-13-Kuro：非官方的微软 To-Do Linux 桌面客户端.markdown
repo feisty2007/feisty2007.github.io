@@ -7,7 +7,7 @@ tags:	[linuxcn,To-Do,代办事项]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/05/151405wsp6k55rrzdkk6dl.jpg)
+![](/Asserts/Images/album/202207/05/151405wsp6k55rrzdkk6dl.jpg)
 
 
 
@@ -39,7 +39,7 @@ Kuro 派上用场了。
 ### Kuro：非官方的开源微软 To-Do 应用
 
 
-![kuro todo](/Asserts/Images//attachment/album/202207/05/151406gcoh2ylukkolyx2q.png)
+![kuro todo](/Asserts/Images/album/202207/05/151406gcoh2ylukkolyx2q.png)
 
 
 Kuro 是一个非官方的开源应用，它为你提供了微软 To-Do 在 Linux 上的桌面体验和一些额外的功能。
@@ -48,7 +48,7 @@ Kuro 是一个非官方的开源应用，它为你提供了微软 To-Do 在 Linu
 它是 Ao 的一个分叉，Ao 是一个开源项目，逐渐成为它的解决方案。不幸的是，它不再积极维护了。所以，我遇到了一个似乎可以工作的新复刻。
 
 
-![kuro todo options](/Asserts/Images//attachment/album/202207/05/151407jnneyvldnx83ddot.png)
+![kuro todo options](/Asserts/Images/album/202207/05/151407jnneyvldnx83ddot.png)
 
 
 Kuro 提供了一些额外的功能，可以让你在应用中切换主题，启用全局快捷方式等。
@@ -60,7 +60,7 @@ Kuro 提供了一些额外的功能，可以让你在应用中切换主题，启
 ### Kuro 的功能
 
 
-![kuro todo 1](/Asserts/Images//attachment/album/202207/05/151407ra7kufycug7oc7cg.png)
+![kuro todo 1](/Asserts/Images/album/202207/05/151407ra7kufycug7oc7cg.png)
 
 
 如果你倾向于使用微软的服务（如 Outlook），它的 To-Do 应用应该是组织你的任务的一个完美选择。你甚至可以标记电子邮件以创建任务。
@@ -78,7 +78,7 @@ Kuro 提供了一些额外的功能，可以让你在应用中切换主题，启
 * 根据需要定制字体大小。
 
 
-![kuro todo settings](/Asserts/Images//attachment/album/202207/05/151407cwz8r1rpibwar868.png)
+![kuro todo settings](/Asserts/Images/album/202207/05/151407cwz8r1rpibwar868.png)
 
 
 除了一些功能外，你还可以进入某些设置来启用/禁用电子邮件通知、删除前确认等，对待办事项应用体验的进行更多的控制。

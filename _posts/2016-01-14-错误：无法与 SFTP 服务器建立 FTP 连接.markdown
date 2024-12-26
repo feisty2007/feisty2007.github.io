@@ -24,7 +24,7 @@ tags:	[linuxcn,FTP,SFTP]
 > 
 
 
-![FileZilla Cannot establish FTP connection to an SFTP server](/Asserts/Images//attachment/album/201601/13/094223vvavxzhtmthq80xk.jpg)
+![FileZilla Cannot establish FTP connection to an SFTP server](/Asserts/Images/album/201601/13/094223vvavxzhtmthq80xk.jpg)
 
 
 ### 原因
@@ -45,13 +45,13 @@ tags:	[linuxcn,FTP,SFTP]
 在 FileZilla 菜单中，进入 **文件->站点管理**。
 
 
-![FileZilla Site Manager](/Asserts/Images//attachment/album/201601/13/094224wva4rt64t2dtqhov.jpg)
+![FileZilla Site Manager](/Asserts/Images/album/201601/13/094224wva4rt64t2dtqhov.jpg)
 
 
 在站点管理中，进入通用选项并选择 SFTP 协议。同样填上主机、端口号、用户密码等。
 
 
-![Cannot establish FTP connection to an SFTP server](/Asserts/Images//attachment/album/201601/13/094225ohkbmvhubjzppbua.png)
+![Cannot establish FTP connection to an SFTP server](/Asserts/Images/album/201601/13/094225ohkbmvhubjzppbua.png)
 
 
 我希望你从这里可以开始工作了。

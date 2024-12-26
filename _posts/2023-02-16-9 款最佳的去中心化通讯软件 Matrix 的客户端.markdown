@@ -7,7 +7,7 @@ tags:	[linuxcn,Matrix,去中心化]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/06/163855x1rdxojvn1ohh00v.jpg)
+![](/Asserts/Images/album/202302/06/163855x1rdxojvn1ohh00v.jpg)
 
 
 Matrix 是一套开放的网络标准，专用于去中心化实时加密通讯。
@@ -72,7 +72,7 @@ Matrix 是一套开放的网络标准，专用于去中心化实时加密通讯�
 #### 1、Element
 
 
-![element](/Asserts/Images//attachment/album/202302/06/163903n3sh3nhswqkz244h.jpg)
+![element](/Asserts/Images/album/202302/06/163903n3sh3nhswqkz244h.jpg)
 
 
 [Element](https://itsfoss.com/element/) 是最佳的 Slack 开源替代品之一。它可以用于个人通讯，也能用于群组聊天。
@@ -114,7 +114,7 @@ Matrix 是一套开放的网络标准，专用于去中心化实时加密通讯�
 #### 2、Rocket.Chat
 
 
-![rocket chat](/Asserts/Images//attachment/album/202302/06/163903xf29aa996fyyy23f.jpg)
+![rocket chat](/Asserts/Images/album/202302/06/163903xf29aa996fyyy23f.jpg)
 
 
 [Rocket.Chat](https://itsfoss.com/rocket-chat/) 是另一个 Slack 替代品，我们更喜欢把它当成团队内部的通讯工具。
@@ -140,7 +140,7 @@ Matrix 是一套开放的网络标准，专用于去中心化实时加密通讯�
 #### 3、NeoChat
 
 
-![neochat](/Asserts/Images//attachment/album/202302/06/163903skig3dnnzic8ytak.png)
+![neochat](/Asserts/Images/album/202302/06/163903skig3dnnzic8ytak.png)
 
 
 NeoChat 是一个简单的 Matrix 客户端，目前在 KDE 社区的管理下积极开发。
@@ -174,7 +174,7 @@ NeoChat 是一个简单的 Matrix 客户端，目前在 KDE 社区的管理下�
 #### 4、FluffyChat
 
 
-![fluffychat](/Asserts/Images//attachment/album/202302/06/163904cw22w4ks7kp5mnht.png)
+![fluffychat](/Asserts/Images/album/202302/06/163904cw22w4ks7kp5mnht.png)
 
 
 FluffyChat 在用户体验方面，是一个美观（可爱）的 Matrix 客户端。
@@ -200,7 +200,7 @@ Linux 用户可以从 Snap 商店或 Flathub 安装它。它并不提供 Windows
 #### 5、Fractal
 
 
-![fractal](/Asserts/Images//attachment/album/202302/06/163904h0x1zbg1b0e50k5g.png)
+![fractal](/Asserts/Images/album/202302/06/163904h0x1zbg1b0e50k5g.png)
 
 
 Fractal 是一款用于 GNOME 桌面的 Matrix 聊天客户端，使用 Rust 编写。正如其描述所说，它的界面经过优化，适合大型团队的协作。
@@ -223,7 +223,7 @@ Fractal 是一款用于 GNOME 桌面的 Matrix 聊天客户端，使用 Rust 编
 #### 6、Hydrogen Web（实验性）
 
 
-![hydrogen](/Asserts/Images//attachment/album/202302/06/163904d2vja537oo5u9eoj.png)
+![hydrogen](/Asserts/Images/album/202302/06/163904d2vja537oo5u9eoj.png)
 
 
 在找其它的精简的（专注性能）Matrix 客户端吗？
@@ -266,7 +266,7 @@ Hydrogen 聊天客户端提供轻量级体验、离线功能，并有着广泛�
 #### 8、Gomuks（基于命令行）
 
 
-![gomuks](/Asserts/Images//attachment/album/202302/06/163905bz7yk4k41y0pg1vz.png)
+![gomuks](/Asserts/Images/album/202302/06/163905bz7yk4k41y0pg1vz.png)
 
 
 想试试用 Go 写的终端 Matrix 客户端？
@@ -289,7 +289,7 @@ Hydrogen 聊天客户端提供轻量级体验、离线功能，并有着广泛�
 #### 9、Syphon（Alpha 版）
 
 
-![syphon](/Asserts/Images//attachment/album/202302/06/163905zho1pinnh17dbhbq.jpg)
+![syphon](/Asserts/Images/album/202302/06/163905zho1pinnh17dbhbq.jpg)
 
 
 我们通常会避免列出仍处于早期开发的程序。但是，Syphon 作为一个手机专用的 Matrix 客户端，是一个有趣的选择。

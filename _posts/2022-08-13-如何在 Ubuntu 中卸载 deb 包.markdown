@@ -7,7 +7,7 @@ tags:	[linuxcn,apt,deb]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/01/180906afaqifcsqqsfsxyq.jpg)
+![](/Asserts/Images/album/202208/01/180906afaqifcsqqsfsxyq.jpg)
 
 
 [从 .deb 文件安装应用](https://itsfoss.com/install-deb-files-ubuntu/) 非常简单。双击它，它会在软件中心中打开，然后从那里安装它。
@@ -46,19 +46,19 @@ Ubuntu 有软件中心 GUI 应用，允许搜索、安装和删除应用。
 搜索时，软件中心可能不会显示已安装的应用。
 
 
-![Searching for installed applications may not show any results in Ubuntu Software Center](/Asserts/Images//attachment/album/202208/01/180927dejleni4nlmuxiui.png)
+![Searching for installed applications may not show any results in Ubuntu Software Center](/Asserts/Images/album/202208/01/180927dejleni4nlmuxiui.png)
 
 
 但是，如果向下滚动，你仍可能在“已安装”部分下找到它。外部应用通常不带徽标显示。
 
 
-![Some installed applications can be found in the ‘installed’ tab of the Software Center](/Asserts/Images//attachment/album/202208/01/181108cbnzu7my5fl4imqx.png)
+![Some installed applications can be found in the ‘installed’ tab of the Software Center](/Asserts/Images/album/202208/01/181108cbnzu7my5fl4imqx.png)
 
 
 如果找到它，你可以通过单击“垃圾桶”图标或“删除”按钮来删除该应用。
 
 
-![Removing applications from the Ubuntu software center](/Asserts/Images//attachment/album/202208/01/181641dum4hesbfhe5e55o.jpg)
+![Removing applications from the Ubuntu software center](/Asserts/Images/album/202208/01/181641dum4hesbfhe5e55o.jpg)
 
 
 **一句话：检查是否可以从软件中心删除应用。**
@@ -91,7 +91,7 @@ apt list --installed | grep -i chrome
 在某些情况下，你可能会得到多个结果。
 
 
-![check if google chrome installed in ubuntu](/Asserts/Images//attachment/album/202208/01/180928wxkzzarxss2xjtsz.png)
+![check if google chrome installed in ubuntu](/Asserts/Images/album/202208/01/180928wxkzzarxss2xjtsz.png)
 
 
 如果你不确定这些软件包的作用，你可以随时通过以下方式获取它们的详细信息：
@@ -115,7 +115,7 @@ sudo apt remove exact_package_name
 你还可以使用 `apt-get remove` 或 `dpkg uninstall` 命令来删除。
 
 
-![Removing applications installed via .deb files using the apt command](/Asserts/Images//attachment/album/202208/01/180929veyrxe2eyxtfvprh.png)
+![Removing applications installed via .deb files using the apt command](/Asserts/Images/album/202208/01/180929veyrxe2eyxtfvprh.png)
 
 
 #### 方法 3：使用 Synaptic 包管理器删除 deb 应用
@@ -139,7 +139,7 @@ sudo apt install synaptic
 打开 Synaptic 并搜索包名称。查找标记为绿色的已安装软件包。右键单击它们，然后单击“标记为删除”。之后点击应用。
 
 
-![Removing Deb packages using Synaptic package manager](/Asserts/Images//attachment/album/202208/01/181657f2uoah8nigewun3e.jpg)
+![Removing Deb packages using Synaptic package manager](/Asserts/Images/album/202208/01/181657f2uoah8nigewun3e.jpg)
 
 
 ### 对你有帮助吗？

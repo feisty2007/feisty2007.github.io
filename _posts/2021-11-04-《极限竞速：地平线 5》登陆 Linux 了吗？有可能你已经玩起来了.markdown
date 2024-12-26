@@ -15,7 +15,7 @@ tags:	[linuxcn,游戏,Steam]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/13/115411d3gqygmk202f9wyy.jpg)
+![](/Asserts/Images/album/202111/13/115411d3gqygmk202f9wyy.jpg)
 
 
 《极限竞速：地平线 5》是一款新的赛车电子游戏，由 Playground Games 开发，Xbox 游戏工作室发行。
@@ -65,7 +65,7 @@ Jeremy Soller（System76 的工程师）分享了一条推特，可以看到他�
 > 正式发布后，你们今晚就能玩了
 > 
 > 
-> ![](/Asserts/Images//attachment/album/202111/13/115447spm01um079t1j6dg.jpg)
+> ![](/Asserts/Images/album/202111/13/115447spm01um079t1j6dg.jpg)
 > 
 > 
 > -- Jeremy Soller（@jeremy\_soller）[2021 年 11 月 10 日](https://twitter.com/jeremy_soller/status/1458568707798536200?ref_src=twsrc%5Etfw)
@@ -82,7 +82,7 @@ Jeremy Soller（System76 的工程师）分享了一条推特，可以看到他�
 > 对于一个 5 天前发布的游戏来说，Linux 的表现还不错 \o/ < 插入它运行的样子 gif>
 > 
 > 
-> ![](/Asserts/Images//attachment/album/202111/13/115454xojhllgyy30j4hhp.jpg)
+> ![](/Asserts/Images/album/202111/13/115454xojhllgyy30j4hhp.jpg)
 > 
 > 
 > -- GloriousEggroll（@GloriousEggroll）[2021 年 11 月 11 日](https://twitter.com/GloriousEggroll/status/1458590821075361794?ref_src=twsrc%5Etfw)

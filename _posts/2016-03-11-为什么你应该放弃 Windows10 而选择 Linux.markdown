@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,Windows 10]
 自从 Windows10 出来以后，各种媒体都报道过它的隐藏间谍功能。ZDNet 列出了一些放弃 Windows10 的理由。
 
 
-![](/Asserts/Images//attachment/album/201603/19/123550tz5tttn5t5yz7l57.jpg)
+![](/Asserts/Images/album/201603/19/123550tz5tttn5t5yz7l57.jpg)
 
 
 SJVN 在 ZDNet 的报告：

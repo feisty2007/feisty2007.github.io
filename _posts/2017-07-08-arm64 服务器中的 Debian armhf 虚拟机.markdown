@@ -7,7 +7,7 @@ tags:	[linuxcn,arm64,armhf]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/03/234237ijzz96p617j6buff.jpg)
+![](/Asserts/Images/album/201707/03/234237ijzz96p617j6buff.jpg)
 
 
 在 Collabora 公司，我们所做的许多工作之一就是为客户构建包括 32 位和 64 位 ARM 系统在内的各种架构的 [Debian](https://debian.org/) 衍生版。就像 Debian 做的那样，我们的 [OBS](http://openbuildservice.org/) 系统建立在原生系统而不是仿真器上。

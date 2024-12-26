@@ -7,10 +7,10 @@ tags:	[linuxcn,量子计算,RSA,ChatGPT,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/05/162418cu48f0qmxzlwym68.jpg)
+![](/Asserts/Images/album/202301/05/162418cu48f0qmxzlwym68.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/05/162425dxi7utu8njtj4zu8.jpg)
+![](/Asserts/Images/album/202301/05/162425dxi7utu8njtj4zu8.jpg)
 
 
 ### 2048 位 RSA 密码可能被现有量子计算机破解
@@ -35,7 +35,7 @@ Peter Shor 早在上世纪 90 年代就发现用量子计算机进行大数的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/05/162439j1pffgfgffpppozp.jpg)
+![](/Asserts/Images/album/202301/05/162439j1pffgfgffpppozp.jpg)
 
 
 ### 微软考虑在必应搜索引擎中加入 ChatGPT
@@ -60,7 +60,7 @@ Peter Shor 早在上世纪 90 年代就发现用量子计算机进行大数的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/05/162508qykp0n3vkk0yqkv0.jpg)
+![](/Asserts/Images/album/202301/05/162508qykp0n3vkk0yqkv0.jpg)
 
 
 ### 纽约禁止学生和教师使用 ChatGPT

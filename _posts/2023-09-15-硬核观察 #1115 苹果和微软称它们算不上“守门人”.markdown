@@ -7,10 +7,10 @@ tags:	[linuxcn,守门人,云计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/05/171030k80mmr9cj199dc6u.jpg)
+![](/Asserts/Images/album/202309/05/171030k80mmr9cj199dc6u.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/05/171039zfc8b2rsqnb48zcc.jpg)
+![](/Asserts/Images/album/202309/05/171039zfc8b2rsqnb48zcc.jpg)
 
 
 ### 苹果和微软称它们算不上“守门人”
@@ -35,7 +35,7 @@ tags:	[linuxcn,守门人,云计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/05/171051xa2wpp88qxh1tssp.jpg)
+![](/Asserts/Images/album/202309/05/171051xa2wpp88qxh1tssp.jpg)
 
 
 ### AWS 关闭其第一代计算和网络基础设施
@@ -60,7 +60,7 @@ AWS CTO 在其个人博客中透露，最后一个 EC2-Classic 实例已于 8 �
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/05/171109pok19j791g9oal0n.jpg)
+![](/Asserts/Images/album/202309/05/171109pok19j791g9oal0n.jpg)
 
 
 ### 加拿大监狱将技术限制在上世纪 90 年代

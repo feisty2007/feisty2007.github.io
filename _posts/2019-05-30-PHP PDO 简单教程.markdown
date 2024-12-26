@@ -7,7 +7,7 @@ tags:	[linuxcn,PHP,PDO]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/26/104631lriqriqrrusyyy22.jpg)
+![](/Asserts/Images/album/201905/26/104631lriqriqrrusyyy22.jpg)
 
 
 大约 80% 的 Web 应用程序由 PHP 提供支持。类似地，SQL 也是如此。PHP 5.5 版本之前，我们有用于访问 MySQL 数据库的 mysql\_ 命令，但由于安全性不足，它们最终被弃用。

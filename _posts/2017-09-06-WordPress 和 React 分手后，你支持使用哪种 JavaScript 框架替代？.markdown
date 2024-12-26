@@ -7,7 +7,7 @@ tags:	[linuxcn,WordPress,React]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/18/130121lzzdydkl1mpmdrgp.jpg)
+![](/Asserts/Images/album/201709/18/130121lzzdydkl1mpmdrgp.jpg)
 
 
 WordPress 和 ReactJS 分道扬镳了，WordPress 的共同创始人 Matt Mullenweg 在其博客中[宣布](https://ma.tt/2017/09/on-react-and-wordpress/)了这一消息。

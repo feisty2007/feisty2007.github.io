@@ -15,7 +15,7 @@ tags:	[linuxcn,cd,导航,文件系统]
 > 
 
 
-![](/Asserts/Images//attachment/album/202005/22/114058yrzlx94rz9lbx974.jpg)
+![](/Asserts/Images/album/202005/22/114058yrzlx94rz9lbx974.jpg)
 
 
 无论你是在文件系统中四处查看、寻找文件还是尝试进入重要目录，Linux 都可以提供很多帮助。在本文中，我们将介绍一些技巧，使你可以在文件系统中移动，查找和使用所需的命令也更加轻松。

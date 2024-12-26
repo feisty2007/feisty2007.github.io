@@ -15,7 +15,7 @@ tags:	[linuxcn,HTTPie]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/12/102919ry1ute1y9h991ftz.jpg)
+![](/Asserts/Images/album/201909/12/102919ry1ute1y9h991ftz.jpg)
 
 
 [HTTPie](https://httpie.org/) 是一个非常易用、易于升级的 HTTP 客户端。它的发音为 “aitch-tee-tee-pie” 并以 `http` 命令运行，它是一个用 Python 编写的来用于访问 Web 的命令行工具。

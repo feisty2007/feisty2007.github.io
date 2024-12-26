@@ -7,7 +7,7 @@ tags:	[linuxcn,Ansible,训练营]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/19/091028ez1ha6svqhtt8bsa.jpg)
+![](/Asserts/Images/album/202107/19/091028ez1ha6svqhtt8bsa.jpg)
 
 
 Ansible 作为企业运维领域的必备工具，成为各企业招募运维工程师的必备技能。而对于每一个运维工程师来说，学习 Ansible 可以大大节省时间，提升你的工作效率，降低你的工作时间，一本万利。
@@ -70,16 +70,16 @@ Bestony，Linux 中国核心合伙人，多年运维工程师，曾就职于网�
 ### 训练营部分 PPT 预览
 
 
-![训练营部分 PPT 预览 1](/Asserts/Images//attachment/album/202107/19/090127x1m6xr1sm6rf1mss.png)
+![训练营部分 PPT 预览 1](/Asserts/Images/album/202107/19/090127x1m6xr1sm6rf1mss.png)
 
 
-![训练营部分 PPT 预览 2](/Asserts/Images//attachment/album/202107/19/090141rtuz9txbtyst99ie.jpg)
+![训练营部分 PPT 预览 2](/Asserts/Images/album/202107/19/090141rtuz9txbtyst99ie.jpg)
 
 
-![训练营部分 PPT 预览 3](/Asserts/Images//attachment/album/202107/19/090149l5wc3lksmj3ggwge.jpg)
+![训练营部分 PPT 预览 3](/Asserts/Images/album/202107/19/090149l5wc3lksmj3ggwge.jpg)
 
 
-![训练营部分 PPT 预览 4](/Asserts/Images//attachment/album/202107/19/090158qrvrc30qrgzqr0sz.png)
+![训练营部分 PPT 预览 4](/Asserts/Images/album/202107/19/090158qrvrc30qrgzqr0sz.png)
 
 
 那么，晚上 20:30 见？

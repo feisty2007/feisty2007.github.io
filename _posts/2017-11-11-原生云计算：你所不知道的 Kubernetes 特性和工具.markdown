@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,OCI]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/16/014700ukj3k7llk71kkjpk.jpg)
+![](/Asserts/Images/album/201711/16/014700ukj3k7llk71kkjpk.jpg)
 
 
 

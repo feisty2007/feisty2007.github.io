@@ -7,7 +7,7 @@ tags:	[linuxcn,chattr,删除]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/26/214225t7lmohxomo4c34kd.jpg)
+![](/Asserts/Images/album/201804/26/214225t7lmohxomo4c34kd.jpg)
 
 
 有时，我会不小心的按下 `SHIFT+DELETE`来删除我的文件数据。是的，我是个笨蛋，没有再次确认下我实际准备要删除的东西。而且我太笨或者说太懒，没有备份我的文件数据。结果呢？数据丢失了！在一瞬间就丢失了。

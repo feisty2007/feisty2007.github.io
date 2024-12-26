@@ -7,7 +7,7 @@ tags:	[linuxcn,华为,数学,BIOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/03/093609r4iwwgafgzwrxiey.jpg)
+![](/Asserts/Images/album/202007/03/093609r4iwwgafgzwrxiey.jpg)
 
 
 #### 华为正式开源数据虚拟化引擎 openLooKeng

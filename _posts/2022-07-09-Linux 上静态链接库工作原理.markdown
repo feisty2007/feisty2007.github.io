@@ -7,7 +7,7 @@ tags:	[linuxcn,编译,静态链接]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/12/120441y0q5a5abfyjyy7ug.jpg)
+![](/Asserts/Images/album/202207/12/120441y0q5a5abfyjyy7ug.jpg)
 
 
 

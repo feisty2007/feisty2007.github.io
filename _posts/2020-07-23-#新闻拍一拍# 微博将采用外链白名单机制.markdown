@@ -7,7 +7,7 @@ tags:	[linuxcn,微博,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/09/145229qighyffysidrfszt.jpg)
+![](/Asserts/Images/album/202007/09/145229qighyffysidrfszt.jpg)
 
 
 #### 微博将采用外链白名单机制

@@ -7,7 +7,7 @@ tags:	[linuxcn,文件服务,http]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/07/132239bg55eg55gy88oxoh.png)
+![](/Asserts/Images/album/201811/07/132239bg55eg55gy88oxoh.png)
 
 
 如今，我有很多方法来通过 Web 浏览器为局域网中的其他系统提供单个文件或整个目录的访问。我在我的 Ubuntu 测试机上测试了这些方法，它们如下面描述的那样运行正常。如果你想知道如何在类 Unix 操作系统中通过 HTTP 轻松快速地提供文件和文件夹的访问服务，以下方法之一肯定会有所帮助。
@@ -71,7 +71,7 @@ $ ruby -run -ehttpd . -p8000
 现在你可以使用 URL 从任何远程系统访问此文件夹的内容 - `http:// <ip-address>:8000`。
 
 
-![](/Asserts/Images//attachment/album/201811/07/132240lubbb99l3g9gyyur.png)
+![](/Asserts/Images/album/201811/07/132240lubbb99l3g9gyyur.png)
 
 
 要停止共享，请按 `CTRL+C`。
@@ -116,7 +116,7 @@ Hit CTRL-C to stop the server
 现在你可以使用 URL 从任何远程系统访问此文件夹的内容 - `http:// <ip-address>:8000`。
 
 
-![](/Asserts/Images//attachment/album/201811/07/132243nfoy04q0q4k1qzz1.png)
+![](/Asserts/Images/album/201811/07/132243nfoy04q0q4k1qzz1.png)
 
 
 要停止共享，请按 `CTRL+C`。

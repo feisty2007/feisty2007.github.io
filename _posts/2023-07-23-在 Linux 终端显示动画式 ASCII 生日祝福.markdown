@@ -7,7 +7,7 @@ tags:	[linuxcn,生日,ASCII 艺术]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/13/162413kvclclvgvhj8qqbz.jpg)
+![](/Asserts/Images/album/202307/13/162413kvclclvgvhj8qqbz.jpg)
 
 
 
@@ -89,10 +89,10 @@ python3 PyBirthdayWish.py
 这将要求你按下 `F11` 键，然后按回车键进入全屏模式，然后播放动画。
 
 
-![](/Asserts/Images//attachment/album/202307/13/162515r8emeo8izzeh8doo.png)
+![](/Asserts/Images/album/202307/13/162515r8emeo8izzeh8doo.png)
 
 
-![](/Asserts/Images//attachment/album/202307/13/162516wmqbr0a6w14c6rxr.png)
+![](/Asserts/Images/album/202307/13/162516wmqbr0a6w14c6rxr.png)
 
 
 这里还有音乐，但这里没有展示。
@@ -107,13 +107,13 @@ python3 PyBirthdayWish.py
 在上述程序中，有三个用于动画的 Python 文件。它们是 `example`（默认）、`art` 和 `artwithstars`。你可以打开这三个文件来了解其内容。
 
 
-![arts 目录的内容，其中包含默认和用户创建的 art 文件](/Asserts/Images//attachment/album/202307/13/162516rf0fzqdcf009hfrx.png)
+![arts 目录的内容，其中包含默认和用户创建的 art 文件](/Asserts/Images/album/202307/13/162516rf0fzqdcf009hfrx.png)
 
 
 现在，如果你想使用 `artwithstars` 文件代替默认的 `example` 文件，在 [任何可用的文本编辑器](https://itsfoss.com/command-line-text-editors-linux/) 中打开 `config.py`，将 `arts` 的条目替换为所需的名称，然后保存，如下面的截图所示：
 
 
-![在配置文件中将动画设计文件更改为 "art with stars"](/Asserts/Images//attachment/album/202307/13/162517xz2pddghuyp5yn4b.png)
+![在配置文件中将动画设计文件更改为 "art with stars"](/Asserts/Images/album/202307/13/162517xz2pddghuyp5yn4b.png)
 
 
 之后，在 `PyBirthdayWish` 目录中运行：
@@ -140,7 +140,7 @@ python3 PyBirthdayWish.py
 现在，用你选择的文本编辑器打开设计 art 文件。将文件中的文字替换为你需要的内容。最好使用符号 `| _ \ /` 等来创建文本和设计。你可以使用一个 [在线工具将文字转换为 ASCII 艺术](https://patorjk.com:443/software/taag/#p=display&f=Big&t=Friend)。
 
 
-![复制了一个现有的设计文件，并添加了一个新的文字 "Friend"](/Asserts/Images//attachment/album/202307/13/162517so44o9hld8llrl49.png)
+![复制了一个现有的设计文件，并添加了一个新的文字 "Friend"](/Asserts/Images/album/202307/13/162517so44o9hld8llrl49.png)
 
 
 
@@ -154,7 +154,7 @@ python3 PyBirthdayWish.py
 编辑完成后保存文件。现在，打开 `config.py` 并将 art 文件更改为你的文件，以显示你所做的更改。
 
 
-![在配置文件中更改设计文件以反映我们所做的更改](/Asserts/Images//attachment/album/202307/13/162518g760971sqmq0zdm0.png)
+![在配置文件中更改设计文件以反映我们所做的更改](/Asserts/Images/album/202307/13/162518g760971sqmq0zdm0.png)
 
 
 现在你可以运行程序，以获得你所需的文字出现在动画中：
@@ -183,13 +183,13 @@ python3 PyBirthdayWish.py
 将你的音乐文件复制到克隆的目录中。
 
 
-![自定义的音乐文件被复制到克隆的目录中](/Asserts/Images//attachment/album/202307/13/162518i64qvqqv9scy9qm5.png)
+![自定义的音乐文件被复制到克隆的目录中](/Asserts/Images/album/202307/13/162518i64qvqqv9scy9qm5.png)
 
 
 编辑 `config.py` 文件以添加新的音乐，如下面的截图所示：
 
 
-![在配置文件中添加自定义音乐文件以在动画中播放](/Asserts/Images//attachment/album/202307/13/162519eb04pfdx66zgfibb.png)
+![在配置文件中添加自定义音乐文件以在动画中播放](/Asserts/Images/album/202307/13/162519eb04pfdx66zgfibb.png)
 
 
 完成！现在，如果执行运行命令 `python3 PyBirthdayWish.py`，自定义音乐将与动画一起播放。
@@ -228,7 +228,7 @@ pyinstaller --noconfirm --onefile --console --icon "icon.ico" --no-embed-manifes
 它将在 `PyBirthdayWish/dist` 目录下创建一个名为 `PyBirthdayWish` 的可执行文件。
 
 
-![程序创建的自定义可执行文件在文件管理器中显示](/Asserts/Images//attachment/album/202307/13/162520baszqvd0mfdiqqql.png)
+![程序创建的自定义可执行文件在文件管理器中显示](/Asserts/Images/album/202307/13/162520baszqvd0mfdiqqql.png)
 
 
 将此可执行文件复制并发送给任何想查看它的人。他们可以使用以下命令执行它：

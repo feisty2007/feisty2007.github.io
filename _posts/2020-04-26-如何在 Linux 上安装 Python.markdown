@@ -15,7 +15,7 @@ tags:	[linuxcn,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202004/21/094500u63lnlgukgnjb0t0.jpg)
+![](/Asserts/Images/album/202004/21/094500u63lnlgukgnjb0t0.jpg)
 
 
 [Python](https://www.python.org/) 现在是[最流行](http://pypl.github.io/PYPL.html)、最常用的编程语言。Python 的简单语法和较低的学习曲线使其成为初学者和专业开发人员的终极选择。Python 还是一种非常通用的编程语言。从 Web 开发到人工智能，它几乎在除了移动开发的所有地方都有使用。

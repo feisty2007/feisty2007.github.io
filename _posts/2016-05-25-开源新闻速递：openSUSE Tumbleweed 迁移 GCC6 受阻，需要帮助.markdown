@@ -16,13 +16,13 @@ openSUSE 的滚动发行版 Tumbleweed 正在将其默认编译器换成 GCC 6 �
 另外，大家还记得 openSUSE 上一个著名的版本号变化么，[从 13.2 一下跳到了 42.1](/article-4143-1.html) ，而其下一个版本，openSUSE Leap 42.2 [也进入了开发阶段](https://lists.opensuse.org/opensuse-factory/2016-05/msg00372.html)，准备公测了。预计 42.2 将在 11 月的第一个星期发布。
 
 
-![](/Asserts/Images//attachment/album/201605/25/085157f2zcyltlm01oo2u1.jpg)
+![](/Asserts/Images/album/201605/25/085157f2zcyltlm01oo2u1.jpg)
 
 
 经过了漫长的等待，Ubuntu 的爱好者们终于可以为自己的笔记本或台式机购买 [Ubuntu 的官方贴纸](http://www.unixstickers.com/ubuntu)了。[Unixstickers.com](http://unixstickers.com/) 在 5 月 24 号宣布，在合作伙伴 Canonical 的赞助下，现在可以提供带有 Ubuntu LOGO 的贴纸了。当然现在只能提供贴纸，后续应该还会生产带有 Ubuntu 图标的 T 恤和杯子。
 
 
-![](/Asserts/Images//attachment/album/201605/25/090104tyn6kw70q0jv7xbq.jpg)
+![](/Asserts/Images/album/201605/25/090104tyn6kw70q0jv7xbq.jpg)
 
 
 ### 版本更迭

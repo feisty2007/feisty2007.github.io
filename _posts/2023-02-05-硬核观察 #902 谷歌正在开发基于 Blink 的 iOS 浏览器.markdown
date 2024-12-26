@@ -7,10 +7,10 @@ tags:	[linuxcn,Chrome,谷歌,AI,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/04/191957rjfkqavfc5kwgqo5.jpg)
+![](/Asserts/Images/album/202302/04/191957rjfkqavfc5kwgqo5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/04/192007k74jiik22kmjdm3m.jpg)
+![](/Asserts/Images/album/202302/04/192007k74jiik22kmjdm3m.jpg)
 
 
 ### 谷歌正在开发基于 Blink 的 iOS 浏览器
@@ -35,7 +35,7 @@ tags:	[linuxcn,Chrome,谷歌,AI,开源]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/04/192018e5ye0azo5y730c7o.jpg)
+![](/Asserts/Images/album/202302/04/192018e5ye0azo5y730c7o.jpg)
 
 
 ### 谷歌将在下周披露挑战 ChatGPT 的 AI 工具
@@ -60,7 +60,7 @@ tags:	[linuxcn,Chrome,谷歌,AI,开源]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/04/192108o55mncxfownnrmpn.jpg)
+![](/Asserts/Images/album/202302/04/192108o55mncxfownnrmpn.jpg)
 
 
 ### GitHub CEO 认为开源开发者应被豁免于欧盟的《人工智能法案》

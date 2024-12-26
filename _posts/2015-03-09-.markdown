@@ -163,9 +163,9 @@ excerpt: 愉（xin）快（sai）的开学季又来了，你准备好迎接新�
 fromurl: ''
 id: 4975
 islctt: false
-largepic: /Asserts/Images//attachment/album/201503/02/165544phdddsr6rkerd396.jpg
+largepic: /Asserts/Images/album/201503/02/165544phdddsr6rkerd396.jpg
 permalink: /article-4975-1.html
-pic: /Asserts/Images//attachment/album/201503/02/165544phdddsr6rkerd396.jpg.thumb.jpg
+pic: /Asserts/Images/album/201503/02/165544phdddsr6rkerd396.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -182,7 +182,7 @@ translator: ''
 updated: '2015-03-02 17:25:00'
 ---
 
-![](/Asserts/Images//attachment/album/201503/02/165544phdddsr6rkerd396.jpg)
+![](/Asserts/Images/album/201503/02/165544phdddsr6rkerd396.jpg)
 
 
 愉（xin）快（sai）的开学季又来了，你准备好迎接新的挑战了吗？在这里，我们为大家准备了6本学习Linux的干货书籍作为开学礼。即日起，关注@Linux中国 @图灵教育 转发此微博就有机会获赠以下图书，活动时间：2015年3月2日-3月9日。带着新书，满血复活吧。
@@ -203,7 +203,7 @@ updated: '2015-03-02 17:25:00'
 1、《Linux shell脚本编程入门》
 
 
-**![](/Asserts/Images//attachment/album/201503/02/165753nf828qqvaa45qt44.jpg)**
+**![](/Asserts/Images/album/201503/02/165753nf828qqvaa45qt44.jpg)**
 
 
 图书介绍：
@@ -222,7 +222,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 2、《Linux就是这个范儿》
 
 
-![](/Asserts/Images//attachment/album/201501/20/130132j1z1fwmf491mhtkt.jpg)
+![](/Asserts/Images/album/201501/20/130132j1z1fwmf491mhtkt.jpg)
 
 
 图书介绍：
@@ -242,7 +242,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 3、《ARM Linux内核源码剖析》
 
 
-![](/Asserts/Images//attachment/album/201503/02/170231wo831affz8uy38h6.jpg)
+![](/Asserts/Images/album/201503/02/170231wo831affz8uy38h6.jpg)
 
 
 图书介绍：
@@ -261,7 +261,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 4、《Linux系统架构和应用技巧》
 
 
-![](/Asserts/Images//attachment/album/201503/02/170732e3em37ey7ebr24v3.jpg)
+![](/Asserts/Images/album/201503/02/170732e3em37ey7ebr24v3.jpg)
 
 
 图书介绍：
@@ -280,7 +280,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 5、《跟阿铭学Linux》
 
 
-![](/Asserts/Images//attachment/album/201501/20/125841uo13rje1xox22mmm.jpg)
+![](/Asserts/Images/album/201501/20/125841uo13rje1xox22mmm.jpg)
 
 
 图书介绍：
@@ -298,7 +298,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 6、《只是为了好玩》
 
 
-![](/Asserts/Images//attachment/album/201503/02/171322guiglywywogkkuig.jpg)
+![](/Asserts/Images/album/201503/02/171322guiglywywogkkuig.jpg)
 
 
 图书介绍：

@@ -15,7 +15,7 @@ tags:	[linuxcn,exa,ls,目录]
 > 
 
 
-![](/Asserts/Images//attachment/album/202103/26/101726h008fn6tttn4g6gt.jpg "bash logo on green background")
+![](/Asserts/Images/album/202103/26/101726h008fn6tttn4g6gt.jpg "bash logo on green background")
 
 
 我们生活在一个繁忙的世界里，当我们需要查找文件和数据时，使用 `ls` 命令可以节省时间和精力。但如果不经过大量调整，默认的 `ls` 输出并不十分舒心。当有一个 exa 替代方案时，为什么要花时间眯着眼睛看黑白文字呢？
@@ -48,7 +48,7 @@ $ dnf install exa
 你可以使用 `exa` 来跟踪某个 Git 仓库中新增的文件。
 
 
-![Tracking Git files with exa](/Asserts/Images//attachment/album/202103/26/101751cqw4iv3zt4qwww74.png "Tracking Git files with exa")
+![Tracking Git files with exa](/Asserts/Images/album/202103/26/101751cqw4iv3zt4qwww74.png "Tracking Git files with exa")
 
 
 #### 树形结构
@@ -57,13 +57,13 @@ $ dnf install exa
 这是 `exa` 的基本树形结构。`--level` 的值决定了列表的深度，这里设置为 2。如果你想列出更多的子目录和文件，请增加 `--level` 的值。
 
 
-![exa's default tree structure](/Asserts/Images//attachment/album/202103/26/101751smisaiiu73wqjwiw.png "exa's default tree structure")
+![exa's default tree structure](/Asserts/Images/album/202103/26/101751smisaiiu73wqjwiw.png "exa's default tree structure")
 
 
 这个树包含了每个文件的很多元数据。
 
 
-![Metadata in exa's tree structure](/Asserts/Images//attachment/album/202103/26/101752lr2zqepcqp022lkk.png "Metadata in exa's tree structure")
+![Metadata in exa's tree structure](/Asserts/Images/album/202103/26/101752lr2zqepcqp022lkk.png "Metadata in exa's tree structure")
 
 
 #### 配色方案
@@ -78,7 +78,7 @@ $ dnf install exa
 当你使用 `exa` 探索 xattrs（扩展的文件属性）时，`--extended` 会显示所有的 xattrs。
 
 
-![xattrs in exa](/Asserts/Images//attachment/album/202103/26/101752tjp2m14e42g7vjdm.png "xattrs in exa")
+![xattrs in exa](/Asserts/Images/album/202103/26/101752tjp2m14e42g7vjdm.png "xattrs in exa")
 
 
 #### 符号链接
@@ -87,7 +87,7 @@ $ dnf install exa
 `exa` 能识别符号链接，也能指出实际的文件。
 
 
-![symlinks in exa](/Asserts/Images//attachment/album/202103/26/101753q2zzx6xh03vqvt32.png "symlinks in exa")
+![symlinks in exa](/Asserts/Images/album/202103/26/101753q2zzx6xh03vqvt32.png "symlinks in exa")
 
 
 #### 递归
@@ -96,7 +96,7 @@ $ dnf install exa
 当你想递归当前目录下所有目录的列表时，`exa` 能进行递归。
 
 
-![recurse in exa](/Asserts/Images//attachment/album/202103/26/101753ltaahate7vh8tthw.png "recurse in exa")
+![recurse in exa](/Asserts/Images/album/202103/26/101753ltaahate7vh8tthw.png "recurse in exa")
 
 
 ### 总结

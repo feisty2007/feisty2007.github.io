@@ -7,7 +7,7 @@ tags:	[linuxcn,日志,journalctl,systemd]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/10/072955z20ipg8vlpvdt1jq.jpg)
+![](/Asserts/Images/album/202302/10/072955z20ipg8vlpvdt1jq.jpg)
 
 
 
@@ -45,10 +45,10 @@ systemd 的 journald 守护进程在每次启动时都会收集日志。这意�
 比如说：
 
 
-![日志文件位置的截图-1](/Asserts/Images//attachment/album/202302/10/073113v2ejbxxwxwuq0jg0.jpg)
+![日志文件位置的截图-1](/Asserts/Images/album/202302/10/073113v2ejbxxwxwuq0jg0.jpg)
 
 
-![日志文件位置的截图-2](/Asserts/Images//attachment/album/202302/10/073121c4dhtrs3tdndhmtr.jpg)
+![日志文件位置的截图-2](/Asserts/Images/album/202302/10/073121c4dhtrs3tdndhmtr.jpg)
 
 
 另外，请记住，根据系统配置，运行时日志文件被存储在 `/run/log/journal/`。而这些在每次启动时都会被删除。
@@ -75,7 +75,7 @@ journalctl --disk-usage
 这应该为你提供系统中的日志文件实际使用的数量。
 
 
-![journalctl 磁盘使用命令](/Asserts/Images//attachment/album/202302/10/073129pgc4a44m9pmg33mv.jpg)
+![journalctl 磁盘使用命令](/Asserts/Images/album/202302/10/073129pgc4a44m9pmg33mv.jpg)
 
 
 如果你有一个图形化的桌面环境，你可以打开文件管理器，浏览路径 `/var/log/journal`，并检查属性。
@@ -117,13 +117,13 @@ sudo journalctl --vacuum-time=1s
 上面这组命令会删除所有存档的日志文件，直到最后一秒。这有效地清除了一切。因此，在运行该命令时要小心。
 
 
-![日志清理-例子](/Asserts/Images//attachment/album/202302/10/073140ddbaaqa1ovrdvvjq.jpg)
+![日志清理-例子](/Asserts/Images/album/202302/10/073140ddbaaqa1ovrdvvjq.jpg)
 
 
 清理完毕后：
 
 
-![清理后--日志的占用空间](/Asserts/Images//attachment/album/202302/10/073148ugif7obej3zz7zi7.jpg)
+![清理后--日志的占用空间](/Asserts/Images/album/202302/10/073148ugif7obej3zz7zi7.jpg)
 
 
 你也可以根据你的需要在 `--vacuum-time` 的数字后面提供以下后缀：
@@ -224,7 +224,7 @@ journalctl --verify
 
 ```
 
-![验证日志文件](/Asserts/Images//attachment/album/202302/10/073205wmvvtfwk2k90twjm.png)
+![验证日志文件](/Asserts/Images/album/202302/10/073205wmvvtfwk2k90twjm.png)
 
 
 ### 总结

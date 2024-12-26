@@ -15,7 +15,7 @@ tags:	[linuxcn,YouTube]
 > 
 
 
-![tube downloader](/Asserts/Images//attachment/album/202306/17/195458fsh113nnp9nnbhcf.png)
+![tube downloader](/Asserts/Images/album/202306/17/195458fsh113nnp9nnbhcf.png)
 
 
 找到了你想要保存以供离线使用的 YouTube 视频，同时又想不选择他们的付费计划？
@@ -35,7 +35,7 @@ tags:	[linuxcn,YouTube]
 ### Tube Downloader：概述 ⭐
 
 
-![a screenshot of tube downloader](/Asserts/Images//attachment/album/202306/17/195459v1rzypeikpmypgo1.jpg)
+![a screenshot of tube downloader](/Asserts/Images/album/202306/17/195459v1rzypeikpmypgo1.jpg)
 
 
 **Tube Downloader 主要使用 C# 编写，是一个跨平台的开源工具**，可让你轻松直接从 YouTube 下载视频。
@@ -47,7 +47,7 @@ tags:	[linuxcn,YouTube]
 当你启动应用时，“<ruby> 添加下载 <rt>  Add Download </rt></ruby>”按钮会显示一个友好的问候语。单击它以添加 YouTube 视频 URL，然后单击“<ruby> 验证 <rt>  Validate </rt></ruby>”。
 
 
-![a screenshot of adding a new youtube video for download on tube downloader](/Asserts/Images//attachment/album/202306/17/195459lk8ys5y0ldydy55z.jpg)
+![a screenshot of adding a new youtube video for download on tube downloader](/Asserts/Images/album/202306/17/195459lk8ys5y0ldydy55z.jpg)
 
 
 当你这样做时，你将看到用于选择文件格式、质量、字幕、保存位置等的选项。
@@ -64,7 +64,7 @@ tags:	[linuxcn,YouTube]
 单击“<ruby> 下载 <rt>  Download </rt></ruby>”开始下载视频。
 
 
-![a screenshot of the download options on tube downloader](/Asserts/Images//attachment/album/202306/17/195459dc8syf3ycz9z9zas.jpg)
+![a screenshot of the download options on tube downloader](/Asserts/Images/album/202306/17/195459dc8syf3ycz9z9zas.jpg)
 
 
 你会在主页面上看到下载进度，你可以在其中看到视频的标题以及 URL 和下载速度。
@@ -73,7 +73,7 @@ tags:	[linuxcn,YouTube]
 此外，Tube Downloader 在下载完成时显示通知； 但是当我测试它时，它有点不稳定。
 
 
-![a screenshot of the downloads list on tube downloader](/Asserts/Images//attachment/album/202306/17/195459qssaroga1167sagg.jpg)
+![a screenshot of the downloads list on tube downloader](/Asserts/Images/album/202306/17/195459qssaroga1167sagg.jpg)
 
 
 那不是全部。Tube Downloader 也有一些不错的自定义选项，例如：
@@ -88,7 +88,7 @@ tags:	[linuxcn,YouTube]
 * 停止/重试所有下载并清除所有排队的下载。
 
 
-![a screenshot of the preferences menu of tube downloader](/Asserts/Images//attachment/album/202306/17/195459z88rhzhb70mw7ad9.jpg)
+![a screenshot of the preferences menu of tube downloader](/Asserts/Images/album/202306/17/195459z88rhzhb70mw7ad9.jpg)
 
 
 这些可以从功能区菜单下的“<ruby> 首选项 <rt>  Preferences </rt></ruby>”访问。

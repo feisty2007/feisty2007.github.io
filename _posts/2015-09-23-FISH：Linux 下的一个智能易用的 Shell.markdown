@@ -10,7 +10,7 @@ tags:	[linuxcn,shell,fish]
 FISH（friendly interactive shell）是一个用户友好的命令行 shell，主要是用来进行交互式使用。shell 就是一个用来执行其他程序的程序。
 
 
-![](/Asserts/Images//attachment/album/201509/07/234649tmnx0ntfzff8tsl8.png)
+![](/Asserts/Images/album/201509/07/234649tmnx0ntfzff8tsl8.png)
 
 
 ### FISH 特性
@@ -22,7 +22,7 @@ FISH（friendly interactive shell）是一个用户友好的命令行 shell，�
 fish 会根据你的历史输入和补完来提供命令建议，就像一个网络浏览器一样。注意了，就是Netscape Navigator 4.0!
 
 
-![](/Asserts/Images//attachment/album/201509/07/234731dhzpb2xbjpa9bep9.gif)
+![](/Asserts/Images/album/201509/07/234731dhzpb2xbjpa9bep9.gif)
 
 
 #### 漂亮的VGA 色彩

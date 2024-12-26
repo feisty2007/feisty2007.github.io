@@ -21,7 +21,7 @@ tags:	[linuxcn,快捷键,Ubuntu]
 > 
 
 
-![Ubuntu keyboard shortcuts](/Asserts/Images//attachment/album/201809/27/102730xmdzgckpcpyddadn.jpg)
+![Ubuntu keyboard shortcuts](/Asserts/Images/album/201809/27/102730xmdzgckpcpyddadn.jpg)
 
 
 ### 实用的 Ubuntu 快捷键
@@ -51,7 +51,7 @@ tags:	[linuxcn,快捷键,Ubuntu]
 #### 2、 Ctrl+Alt+T：打开 Ubuntu 终端窗口
 
 
-![Ubuntu Terminal Shortcut](/Asserts/Images//attachment/album/201809/27/102731k9fvz2izwawtnaa6.jpg)
+![Ubuntu Terminal Shortcut](/Asserts/Images/album/201809/27/102731k9fvz2izwawtnaa6.jpg)
 
 
 *使用 Ctrl+alt+T 来打开终端窗口*
@@ -137,7 +137,7 @@ tags:	[linuxcn,快捷键,Ubuntu]
 GNOME 中有一个通知栏，您可以在其中查看系统和应用程序活动的通知，这里也有一个日历。
 
 
-![Notification Tray Ubuntu 18.04 GNOME](/Asserts/Images//attachment/album/201809/27/102731qwr06pyv0zj0ipin.jpg)
+![Notification Tray Ubuntu 18.04 GNOME](/Asserts/Images/album/201809/27/102731qwr06pyv0zj0ipin.jpg)
 
 
 *通知栏*
@@ -164,7 +164,7 @@ GNOME 中有一个通知栏，您可以在其中查看系统和应用程序活�
 这适用于高级用户。 如果要运行快速命令，而不是打开终端并在其中运行命令，则可以使用 `Alt+F2` 运行控制台。
 
 
-![Alt+F2 to run commands in Ubuntu](/Asserts/Images//attachment/album/201809/27/102731hsrcwvcok6ninwvq.jpg)
+![Alt+F2 to run commands in Ubuntu](/Asserts/Images/album/201809/27/102731hsrcwvcok6ninwvq.jpg)
 
 
 *控制台*
@@ -188,7 +188,7 @@ GNOME 中有一个通知栏，您可以在其中查看系统和应用程序活�
 #### 12、 Ctrl+Alt+箭头：切换工作区
 
 
-![Workspace switching](/Asserts/Images//attachment/album/201809/27/102732vmmooloo3gspgpgm.png)
+![Workspace switching](/Asserts/Images/album/201809/27/102732vmmooloo3gspgpgm.png)
 
 
 *切换工作区*
@@ -203,7 +203,7 @@ GNOME 中有一个通知栏，您可以在其中查看系统和应用程序活�
 不！在 Linux 中使用著名的快捷键 `Ctrl+Alt+Del` 并不会像在 Windows 中一样打开任务管理器（除非您使用自定义快捷键）。
 
 
-![Log Out Ubuntu](/Asserts/Images//attachment/album/201809/27/102732wvyyvlxvdnoliond.jpg)
+![Log Out Ubuntu](/Asserts/Images/album/201809/27/102732wvyyvlxvdnoliond.jpg)
 
 
 *注销*
@@ -221,7 +221,7 @@ GNOME 中有一个通知栏，您可以在其中查看系统和应用程序活�
 转到“设置->设备->键盘”，您将在这里看到系统的所有键盘快捷键。向下滚动到底部，您将看到“自定义快捷方式”选项。
 
 
-![Add custom keyboard shortcut in Ubuntu](/Asserts/Images//attachment/album/201809/27/102732qxdngub252uvnd21.jpg)
+![Add custom keyboard shortcut in Ubuntu](/Asserts/Images/album/201809/27/102732qxdngub252uvnd21.jpg)
 
 
 您需要提供易于识别的快捷键名称、使用快捷键时运行的命令，以及您自定义的按键组合。

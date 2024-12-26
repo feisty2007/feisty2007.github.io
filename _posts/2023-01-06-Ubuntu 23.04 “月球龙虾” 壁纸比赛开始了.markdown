@@ -7,7 +7,7 @@ tags:	[linuxcn,壁纸,Ubuntu]
 ---
 
 
-![早期提交的 Ubuntu 23.04 官方壁纸之一](/Asserts/Images//attachment/album/202301/16/102840sx57e5p35e9n7i77.jpg)
+![早期提交的 Ubuntu 23.04 官方壁纸之一](/Asserts/Images/album/202301/16/102840sx57e5p35e9n7i77.jpg)
 
 
 
@@ -39,7 +39,7 @@ Ubuntu 23.04 “<ruby> 月球龙虾 <rt>  Lunar Lobster </rt></ruby>” 版本�
 提交截止日期为 2023 年 2 月 6 日，最终获胜者将在 2023 年 2 月 18 日社区投票后公布。
 
 
-![](/Asserts/Images//attachment/album/202301/16/102834x2f5bqv7q77fzvuv.jpg)
+![](/Asserts/Images/album/202301/16/102834x2f5bqv7q77fzvuv.jpg)
 
 
 ### 如何提交？

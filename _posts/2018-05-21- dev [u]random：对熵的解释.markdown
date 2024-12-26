@@ -7,7 +7,7 @@ tags:	[linuxcn,随机数]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/31/100548t7ueq7ssu8ss78pp.jpg)
+![](/Asserts/Images/album/201805/31/100548t7ueq7ssu8ss78pp.jpg)
 
 
 ### 熵

@@ -13,7 +13,7 @@ RAID 即廉价磁盘冗余阵列，其高可用性和可靠性适用于大规模
 创建 RAID 最少应使用2个连接到 RAID 控制器的磁盘组成，来构成逻辑卷，可以根据定义的 RAID 级别将更多的驱动器添加到一个阵列中。不使用物理硬件创建的 RAID 被称为软件 RAID。软件 RAID 也叫做穷人 RAID。
 
 
-![Setup RAID0 in Linux](/Asserts/Images//attachment/album/201508/24/222802kx000602thjwxthu.jpg)
+![Setup RAID0 in Linux](/Asserts/Images/album/201508/24/222802kx000602thjwxthu.jpg)
 
 
 *在 Linux 中创建 RAID0*
@@ -76,7 +76,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![install mdadm in linux](/Asserts/Images//attachment/album/201508/24/222803t18vzbvv8g0bb89m.png)
+![install mdadm in linux](/Asserts/Images/album/201508/24/222803t18vzbvv8g0bb89m.png)
 
 
 *安装 mdadm 工具*
@@ -94,7 +94,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Check Hard Drives in Linux](/Asserts/Images//attachment/album/201508/24/222803rq0qe0rwe3n22wkw.png)
+![Check Hard Drives in Linux](/Asserts/Images/album/201508/24/222803rq0qe0rwe3n22wkw.png)
 
 
 *检查硬盘*
@@ -109,7 +109,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Check RAID Devices in Linux](/Asserts/Images//attachment/album/201508/24/222804ulntnhzxylob0b0t.png)
+![Check RAID Devices in Linux](/Asserts/Images/album/201508/24/222804ulntnhzxylob0b0t.png)
 
 
 *检查 RAID 设备*
@@ -140,7 +140,7 @@ IP 地址    :  192.168.0.225
 * 然后，按`P` 来显示创建好的分区。
 
 
-![Create Partitions in Linux](/Asserts/Images//attachment/album/201508/24/222806zse644qqf46d79y6.png)
+![Create Partitions in Linux](/Asserts/Images/album/201508/24/222806zse644qqf46d79y6.png)
 
 
 *创建分区*
@@ -156,7 +156,7 @@ IP 地址    :  192.168.0.225
 * 使用`w`保存更改。
 
 
-![Create RAID Partitions](/Asserts/Images//attachment/album/201508/24/222809j0hzhtq1huykhecw.png)
+![Create RAID Partitions](/Asserts/Images/album/201508/24/222809j0hzhtq1huykhecw.png)
 
 
 *在 Linux 上创建 RAID 分区*
@@ -175,7 +175,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Verify RAID Partitions](/Asserts/Images//attachment/album/201508/24/222811w6uql6ez699he6c7.png)
+![Verify RAID Partitions](/Asserts/Images/album/201508/24/222811w6uql6ez699he6c7.png)
 
 
 *验证 RAID 分区*
@@ -208,7 +208,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Verify RAID Level](/Asserts/Images//attachment/album/201508/24/222811wvx8y222xnz2prww.png)
+![Verify RAID Level](/Asserts/Images/album/201508/24/222811wvx8y222xnz2prww.png)
 
 
 *查看 RAID 级别*
@@ -220,7 +220,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Verify RAID Device](/Asserts/Images//attachment/album/201508/24/222813n6p4hf6m9jpwpepz.png)
+![Verify RAID Device](/Asserts/Images/album/201508/24/222813n6p4hf6m9jpwpepz.png)
 
 
 *查看 RAID 设备*
@@ -232,7 +232,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Verify RAID Array](/Asserts/Images//attachment/album/201508/24/222815q1llml1slwhbhqrb.png)
+![Verify RAID Array](/Asserts/Images/album/201508/24/222815q1llml1slwhbhqrb.png)
 
 
 *查看 RAID 阵列*
@@ -250,7 +250,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Create ext4 Filesystem in Linux](/Asserts/Images//attachment/album/201508/24/222817tyj74d56fqdpk72e.png)
+![Create ext4 Filesystem in Linux](/Asserts/Images/album/201508/24/222817tyj74d56fqdpk72e.png)
 
 
 *创建 ext4 文件系统*
@@ -287,7 +287,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Verify Mount Device](/Asserts/Images//attachment/album/201508/24/222822coztobq68wpzf6qp.png)
+![Verify Mount Device](/Asserts/Images/album/201508/24/222822coztobq68wpzf6qp.png)
 
 
 *验证挂载的设备*
@@ -311,7 +311,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Add Device to Fstab](/Asserts/Images//attachment/album/201508/24/222823tj0od78qedw59o9s.png)
+![Add Device to Fstab](/Asserts/Images/album/201508/24/222823tj0od78qedw59o9s.png)
 
 
 *添加设备到 fstab 文件中*
@@ -326,7 +326,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Check Errors in Fstab](/Asserts/Images//attachment/album/201508/24/222825n644vx4pfd4x62rr.png)
+![Check Errors in Fstab](/Asserts/Images/album/201508/24/222825n644vx4pfd4x62rr.png)
 
 
 *检查 fstab 文件是否有误*
@@ -346,7 +346,7 @@ IP 地址    :  192.168.0.225
 
 ```
 
-![Save RAID Configurations](/Asserts/Images//attachment/album/201508/24/222826atiiobykt9jy8yxt.png)
+![Save RAID Configurations](/Asserts/Images/album/201508/24/222826atiiobykt9jy8yxt.png)
 
 
 *保存 RAID 配置*

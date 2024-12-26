@@ -18,7 +18,7 @@ tags:	[linuxcn,MySQL,数据库]
 为了能通过命令行创建一个MySQL数据库，你可以使用mysql命令行客户端。下面是通过mysql命令行客户端创建和安装MySQL的步骤。
 
 
-![](/Asserts/Images//attachment/album/201410/10/212344tncurh7ihy6460c0.png)
+![](/Asserts/Images/album/201410/10/212344tncurh7ihy6460c0.png)
 
 
 ### 第一步：安装MySQL客户端
@@ -69,7 +69,7 @@ $ mysql -u root -p
 你将需要输入MySQL服务器的密码，如果认证成功，MySQL提示将会出现。
 
 
-![](/Asserts/Images//attachment/album/201410/10/211622amqev8cqxxx4010m.jpg)
+![](/Asserts/Images/album/201410/10/211622amqev8cqxxx4010m.jpg)
 
 
 ### 第三步：创建一个MySQL数据库
@@ -87,7 +87,7 @@ mysql> CREATE DATABASE IF NOT EXISTS xmodulo_DB;
 
 ```
 
-![](/Asserts/Images//attachment/album/201410/10/212350dgw5pgyhrg6rgygn.jpg)
+![](/Asserts/Images/album/201410/10/212350dgw5pgyhrg6rgygn.jpg)
 
 
 ### 第四步：创建一个数据库表
@@ -132,7 +132,7 @@ PRIMARY KEY ( 'post_id' )
 
 ```
 
-![](/Asserts/Images//attachment/album/201410/10/212352xhzy7nnqjgyjst7n.jpg)
+![](/Asserts/Images/album/201410/10/212352xhzy7nnqjgyjst7n.jpg)
 
 
 ### 第五步：创建一个用户，并授予权限
@@ -177,7 +177,7 @@ mysql> SELECT * FROM posts_tbl;
 
 ```
 
-![](/Asserts/Images//attachment/album/201410/10/212354by9tdzi3fwn3jtdd.jpg)
+![](/Asserts/Images/album/201410/10/212354by9tdzi3fwn3jtdd.jpg)
 
 
 注意：MySQL会在我们先前定义的地方自动插入适当的默认值(比如，'isEnabled'和'date')。

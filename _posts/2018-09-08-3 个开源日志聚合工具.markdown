@@ -15,7 +15,7 @@ tags:	[linuxcn,日志,聚合]
 > 
 
 
-![](/Asserts/Images//attachment/album/201809/26/232224t11dhbcya8aijhsh.jpg)
+![](/Asserts/Images/album/201809/26/232224t11dhbcya8aijhsh.jpg)
 
 
 <ruby> 指标聚合 <rt>  metrics aggregation </rt></ruby>与<ruby> 日志聚合 <rt>  log aggregation </rt></ruby>有何不同？日志不能包括指标吗？日志聚合系统不能做与指标聚合系统相同的事情吗？

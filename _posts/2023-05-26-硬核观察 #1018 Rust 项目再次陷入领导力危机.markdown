@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,英伟达,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/31/140352yzpztc7v1izxrz8l.jpg)
+![](/Asserts/Images/album/202305/31/140352yzpztc7v1izxrz8l.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/31/140401qwqqeqmsa55hu7mm.jpg)
+![](/Asserts/Images/album/202305/31/140401qwqqeqmsa55hu7mm.jpg)
 
 
 ### Rust 项目再次陷入领导力危机
@@ -35,7 +35,7 @@ tags:	[linuxcn,Rust,英伟达,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/31/140417nj72s0yhbj0ehjbf.jpg)
+![](/Asserts/Images/album/202305/31/140417nj72s0yhbj0ehjbf.jpg)
 
 
 ### 英伟达成为第一家万亿芯片公司
@@ -60,7 +60,7 @@ tags:	[linuxcn,Rust,英伟达,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/31/140434bqaoqhuo7v113h5h.jpg)
+![](/Asserts/Images/album/202305/31/140434bqaoqhuo7v113h5h.jpg)
 
 
 ### ChatGPT 为律师编写的法庭文件杜撰了六个不存在的案例

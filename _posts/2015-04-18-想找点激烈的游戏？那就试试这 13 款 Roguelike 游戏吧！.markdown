@@ -28,7 +28,7 @@ Roguelike 的准确定义并不存在，但这类游戏通常具有下面的特�
 ### Dungeon Crawl Stone Soup
 
 
-![](/Asserts/Images//attachment/album/201504/04/183124a6h6arh02l26yxpy.png)
+![](/Asserts/Images/album/201504/04/183124a6h6arh02l26yxpy.png)
 
 
 Dungeon Crawl Stone Soup 是一个开源的，单用户角色扮演类的 roguelike 游戏，玩家要在遍布危险而充满敌意的怪兽的地下城中进行探险和寻找宝藏，并在任务中拯救传说中的神秘 Zot 宝珠。
@@ -58,7 +58,7 @@ Dungeon Crawl 有着超棒且深层次的战术游戏环节，创新的魔法和
 ### Dwarf Fortress
 
 
-![](/Asserts/Images//attachment/album/201504/04/183127v0p0456e0nmnr0lp.png)
+![](/Asserts/Images/album/201504/04/183127v0p0456e0nmnr0lp.png)
 
 
 Dwarf Fortress 是一个单人魔幻游戏，与 NetHack 类似。你可以在一个随机生成的持久的世界中，控制一个矮人哨兵或一个冒险者。
@@ -100,7 +100,7 @@ Dwarf Fortress 是一个单人魔幻游戏，与 NetHack 类似。你可以在�
 ### Ancient Domains of Mystery
 
 
-![](/Asserts/Images//attachment/album/201504/04/183129gnog9not3lggaso3.png)
+![](/Asserts/Images/album/201504/04/183129gnog9not3lggaso3.png)
 
 
 Ancient Domains of Mystery (ADOM) 是一个 rogue-like 游戏，从 1994 年至今一直在不断开发。
@@ -131,7 +131,7 @@ Ancient Domains of Mystery (ADOM) 是一个 rogue-like 游戏，从 1994 年至�
 ### Tales of Maj’Eyal (ToME)
 
 
-![](/Asserts/Images//attachment/album/201504/04/183205sa8m8jxbugiuubou.png)
+![](/Asserts/Images/album/201504/04/183205sa8m8jxbugiuubou.png)
 
 
 Tales of Maj’Eyal (ToME) (注：中文译名为 马基埃亚尔的传说) 是一个免费、开源的 roguelike 角色扮演游戏，包含特色的战术回合制战役和先进角色构建。它作为运行在 T-Engine 4.0 中的一个模块而被创造。
@@ -162,7 +162,7 @@ Tales of Maj’Eyal (ToME) (注：中文译名为 马基埃亚尔的传说) 是�
 ### Cataclysm Dark Days Ahead
 
 
-![](/Asserts/Images//attachment/album/201504/04/183208illnjjazel3j3axn.png)
+![](/Asserts/Images/album/201504/04/183208illnjjazel3j3axn.png)
 
 
 Cataclysm 是一个开源的 “后末世” roguelike 游戏，背景设定在由怪兽和僵尸带来的毁灭性的瘟疫后虚构的新英格兰(New England) 乡村。它是 Whale 开发的原有 Cataclysm 的继续，拓展了更多新的生物，建筑，游戏机制和其他特点。
@@ -204,7 +204,7 @@ Cataclysm 是一个开源的 “后末世” roguelike 游戏，背景设定在�
 ### Goblin Hack
 
 
-![](/Asserts/Images//attachment/album/201504/04/183221dhwiojw8fe7900wo.png)
+![](/Asserts/Images/album/201504/04/183221dhwiojw8fe7900wo.png)
 
 
 Goblin Hack 是一个开源 roguelike 游戏，基于 OpenGL 的平滑滚动的ASCII 图形界面。这个游戏受 NetHack 外观的启发，但更加快速且使用更少的按键。
@@ -232,7 +232,7 @@ Goblin Hack 有一个简洁的界面，在今天这个过度强调渲染的游�
 ### SLASH'EM
 
 
-![](/Asserts/Images//attachment/album/201504/04/183224ckiy2wsxoj705x0e.png)
+![](/Asserts/Images/album/201504/04/183224ckiy2wsxoj705x0e.png)
 
 
 Super Lotsa Added Stuff Hack - Extended Magic (SLASH'EM) 是一个角色扮演游戏，在其中你控制一个单独的角色。SLASH'EM 是 NetHack 的一个变种。它拥有一个和 Rogue、ADOM、Anghand 及 NetHack 相似的界面和游戏玩法。你通过键盘来控制角色的动作，以一个俯视的视角来查看这个世界。
@@ -256,7 +256,7 @@ Super Lotsa Added Stuff Hack - Extended Magic (SLASH'EM) 是一个角色扮演�
 ### NetHack
 
 
-![](/Asserts/Images//attachment/album/201504/04/183227gbbvxbzzajneo07k.jpg)
+![](/Asserts/Images/album/201504/04/183227gbbvxbzzajneo07k.jpg)
 
 
 NetHack 是一个极简，但又非常吸引人的具有地下城与龙风格的冒险游戏。“net”元素指的是它的发展已经根据网络进行了调整，“hack”元素指的是角色扮演游戏的一种类型，以乱砍、猛砍著称，着眼于战斗。
@@ -286,7 +286,7 @@ NetHack 是一个极简，但又非常吸引人的具有地下城与龙风格的
 ### Ascii Sector
 
 
-![](/Asserts/Images//attachment/album/201504/04/183228gztj827ygcvg8gq7.png)
+![](/Asserts/Images/album/201504/04/183228gztj827ygcvg8gq7.png)
 
 
 Ascii Sector 是一个免费的太空战斗/探险/交易游戏，它基于经典的电脑游戏 `Wing Commander: Privateer`，后者由 Origine Systems 公司于 1993 年发布。
@@ -319,7 +319,7 @@ Ascii Sector 是一个免费的太空战斗/探险/交易游戏，它基于经�
 ### Angband
 
 
-![](/Asserts/Images//attachment/album/201504/04/183229e4fp5p4yuy0oaoqc.png)
+![](/Asserts/Images/album/201504/04/183229e4fp5p4yuy0oaoqc.png)
 
 
 Angband 是一个免费、单用户、使用 ASCII 字符图形化的地下城探险游戏，在其中你将以一个冒险者的角色探索一个深深的地下城，与怪兽战斗，获得你能取得的最好武器，准备着与黑暗之主 Morgoth 的最后决战。从上世纪九十年代开始，它一直在持续地开发着。
@@ -348,7 +348,7 @@ Angband 沿袭了 Rogue 和 NetHack 的风格路线。它由 Moria 和 Umoria �
 ### UnNetHack
 
 
-![](/Asserts/Images//attachment/album/201504/04/183231lfcue7f22idy7g5j.png)
+![](/Asserts/Images/album/201504/04/183231lfcue7f22idy7g5j.png)
 
 
 UnNetHack 是 NetHack 的一个分支版本。NetHack 最开始于 1987 年发行，并且许多游戏玩家认为它是计算机世界所能提供的最好游戏体验的游戏之一。
@@ -368,7 +368,7 @@ UnNetHack 是 NetHack 的一个分支版本。NetHack 最开始于 1987 年发�
 ### Hydra Slayer
 
 
-![](/Asserts/Images//attachment/album/201504/04/183238turvck9u5rnkzdac.png)
+![](/Asserts/Images/album/201504/04/183238turvck9u5rnkzdac.png)
 
 
 Hydra Slayer 是一个专注于杀死九头蛇的开源 Roguelike 游戏。它受到了希腊神话、地下城探险、MathRL seven day roguelike ，和一些关于勇者杀死多头野兽的数字谜题等启发。
@@ -401,7 +401,7 @@ Hydra Slayer 是一个专注于杀死九头蛇的开源 Roguelike 游戏。它�
 ### Brogue
 
 
-![](/Asserts/Images//attachment/album/201504/04/183246gya2gf712y4y011i.png)
+![](/Asserts/Images/album/201504/04/183246gya2gf712y4y011i.png)
 
 
 Brogue 是一个开源的 Roguelike 游戏，它可以运行在 Mac OS X, Windows, Linux, iOS 和 Android 等平台下。

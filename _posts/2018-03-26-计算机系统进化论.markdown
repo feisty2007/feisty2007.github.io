@@ -7,7 +7,7 @@ tags:	[linuxcn,进化,计算机]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/31/231305y77hkhjgkb7ggk5w.jpg)
+![](/Asserts/Images/album/201803/31/231305y77hkhjgkb7ggk5w.jpg)
 
 
 纵观现代计算机的历史，从与系统的交互方式方面，可以划分为数个进化阶段。而我更倾向于将之归类为以下几个阶段：

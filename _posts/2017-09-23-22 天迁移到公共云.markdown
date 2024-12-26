@@ -7,7 +7,7 @@ tags:	[linuxcn,迁移,公有云]
 ---
 
 
-![A public cloud migration in 22 days](/Asserts/Images//attachment/album/201709/28/232428f411b7qcyosn5oby.jpg)
+![A public cloud migration in 22 days](/Asserts/Images/album/201709/28/232428f411b7qcyosn5oby.jpg)
 
 
 

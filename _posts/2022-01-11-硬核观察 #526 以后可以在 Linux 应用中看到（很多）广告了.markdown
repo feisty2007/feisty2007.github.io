@@ -7,10 +7,10 @@ tags:	[linuxcn,广告,NPM,固件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/24/174531dg0fzgfcrbdb6hcn.jpg)
+![](/Asserts/Images/album/202201/24/174531dg0fzgfcrbdb6hcn.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/24/174550zad0o7kccdw7ubcj.jpg)
+![](/Asserts/Images/album/202201/24/174550zad0o7kccdw7ubcj.jpg)
 
 
 ### 以后可以在 Linux 应用中看到（很多）广告了
@@ -27,7 +27,7 @@ Qt 宣布支持客户端应用程序中的广告，应用程序开发人员现�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/24/174559jmm2sq8yey2y5kwd.png)
+![](/Asserts/Images/album/202201/24/174559jmm2sq8yey2y5kwd.png)
 
 
 ### 自毁代码库的作者要求恢复其发布到 NPM 的能力
@@ -44,7 +44,7 @@ Faker.js 的原作者在 [自毁](/article-14167-1.html) 了其两个重要的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/24/174620sdj1ycilcuuhcyih.jpg)
+![](/Asserts/Images/album/202201/24/174620sdj1ycilcuuhcyih.jpg)
 
 
 ### Linux 供应商固件服务考虑为老旧设备提供开源固件

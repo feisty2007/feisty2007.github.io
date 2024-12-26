@@ -7,10 +7,10 @@ tags:	[linuxcn,Edge,硬盘,芯片]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/13/153131egoeocg96tcnfoxl.jpg)
+![](/Asserts/Images/album/202306/13/153131egoeocg96tcnfoxl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/13/153144kf3v9p2p3qpwffcj.jpg)
+![](/Asserts/Images/album/202306/13/153144kf3v9p2p3qpwffcj.jpg)
 
 
 ### 西数 NAS 硬盘因三年老化警告引发用户恐慌和愤怒
@@ -35,7 +35,7 @@ tags:	[linuxcn,Edge,硬盘,芯片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/13/153159prihmmkc71ior7lk.jpg)
+![](/Asserts/Images/album/202306/13/153159prihmmkc71ior7lk.jpg)
 
 
 ### 英特尔演示新的芯片背面供电技术
@@ -60,7 +60,7 @@ tags:	[linuxcn,Edge,硬盘,芯片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/13/153225ut848vrzrvuk7fn4.jpg)
+![](/Asserts/Images/album/202306/13/153225ut848vrzrvuk7fn4.jpg)
 
 
 ### Edge 会将你在线观看的图片发送到微软

@@ -7,7 +7,7 @@ tags:	[linuxcn,Synfig Studio]
 ---
 
 
-![](/Asserts/Images//attachment/album/201505/27/135027e58vi11vy1iiycvq.jpg)
+![](/Asserts/Images/album/201505/27/135027e58vi11vy1iiycvq.jpg)
 
 
 \**现在可以下载 Synfig Studio 这个自由、开源的2D动画软件的全新版本了。 \**

@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/11/195107k31cazj212xa7di2.jpg)
+![](/Asserts/Images/album/202305/11/195107k31cazj212xa7di2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/11/195118wog5uou61msg6ouo.jpg)
+![](/Asserts/Images/album/202305/11/195118wog5uou61msg6ouo.jpg)
 
 
 ### Roblox 不但不支持 Linux，还屏蔽了 Wine
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/11/195133exacmbs2hxrzlhaa.jpg)
+![](/Asserts/Images/album/202305/11/195133exacmbs2hxrzlhaa.jpg)
 
 
 ### 谷歌宣布其下一代大语言模型 PaLM 2
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/11/195149zq9eibtt9ztmnndg.jpg)
+![](/Asserts/Images/album/202305/11/195149zq9eibtt9ztmnndg.jpg)
 
 
 ### Meta 开源多感官人工智能模型

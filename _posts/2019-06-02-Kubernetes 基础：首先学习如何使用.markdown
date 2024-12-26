@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes]
 > 
 
 
-![Truck steering wheel and dash](/Asserts/Images//attachment/album/201906/30/141021y2qa1pz16yh0dx1o.jpg "Truck steering wheel and dash")
+![Truck steering wheel and dash](/Asserts/Images/album/201906/30/141021y2qa1pz16yh0dx1o.jpg "Truck steering wheel and dash")
 
 
 在本系列的前两篇文章中，我解释了为何 Kubernetes [像翻斗车](/article-11011-1.html)，并且想要理解像 [Kubernetes](https://opensource.com/resources/what-is-kubernetes)（和翻斗车，起重机等）这样优雅、专业工具总是有[学习曲线](/article-11026-1.html)的。本文是下一步：学习如何驾驶。
@@ -33,7 +33,7 @@ API 是 Kubernetes 的引擎和变速器。像翻斗车的方向盘、离合器�
 首先，Kubernetes 遵循定义状态和实际状态的原则。
 
 
-![Defined state and actual state](/Asserts/Images//attachment/album/201906/30/141023yfx9znjwzfx3tjct.png "Defined state and actual state")
+![Defined state and actual state](/Asserts/Images/album/201906/30/141023yfx9znjwzfx3tjct.png "Defined state and actual state")
 
 
 人类（开发人员/系统管理员/运维人员）使用他们提交给 Kubernetes API 的 YAML/JSON 文件指定定义的状态。然后，Kubernetes 使用控制器来分析 YAML/JSON 中定义的新状态与集群中的实际状态之间的差异。
@@ -48,7 +48,7 @@ API 是 Kubernetes 的引擎和变速器。像翻斗车的方向盘、离合器�
 接下来，你需要了解可以在 Kubernetes 中指定的原语。
 
 
-![Kubernetes primitives](/Asserts/Images//attachment/album/201906/30/141026kh2d1cz51oh1vh14.png "Kubernetes primatives")
+![Kubernetes primitives](/Asserts/Images/album/201906/30/141026kh2d1cz51oh1vh14.png "Kubernetes primatives")
 
 
 这些原语不仅仅有 Pod，还有<ruby> 部署 <rt>  Deployment </rt></ruby>、<ruby> 持久化卷声明 <rt>  Persistent Volume Claim </rt></ruby>、<ruby> 服务 <rt>  Service </rt></ruby>，<ruby> 路由 <rt>  route </rt></ruby>等。使用支持 Kubernetes 的平台 [OpenShift](https://www.openshift.com/)，你可以添加<ruby> 构建 <rt>  build </rt></ruby>和 BuildConfig。你大概需要一天左右的时间来了解这些原语。你可以在你的用例变得更加复杂时再深入了解。
@@ -60,7 +60,7 @@ API 是 Kubernetes 的引擎和变速器。像翻斗车的方向盘、离合器�
 最后，考虑这该如何映射到你在传统 IT 环境中的操作。
 
 
-![Mapping developer-native to traditional IT environments](/Asserts/Images//attachment/album/201906/30/141032s211270rysr1yl1e.png "Mapping developer-native to traditional IT environments")
+![Mapping developer-native to traditional IT environments](/Asserts/Images/album/201906/30/141032s211270rysr1yl1e.png "Mapping developer-native to traditional IT environments")
 
 
 尽管是一个技术问题，但用户一直在尝试解决业务问题。从历史上看，我们使用诸如<ruby> 剧本 <rt>  playbook </rt></ruby>之类的东西将业务逻辑与单一语言的 IT 系统绑定起来。对于运维人员来说，这很不错，但是当你尝试将其扩展到开发人员时，它会变得更加繁琐。

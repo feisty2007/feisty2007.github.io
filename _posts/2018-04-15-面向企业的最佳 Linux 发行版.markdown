@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,RHEL,SLES]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/17/095110szjo7ddjnog2c22o.jpg)
+![](/Asserts/Images/album/201804/17/095110szjo7ddjnog2c22o.jpg)
 
 
 在这篇文章中，我将分享企业环境下顶级的 Linux 发行版。其中一些发行版用于服务器和云环境以及桌面任务。所有这些可选的 Linux 具有的一个共同点是它们都是企业级 Linux 发行版 —— 所以你可以期待更高程度的功能性，当然还有支持程度。

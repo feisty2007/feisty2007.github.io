@@ -7,7 +7,7 @@ tags:	[linuxcn,密码,凭证]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/07/081750rx207a5nhaa4qv40.jpg)
+![](/Asserts/Images/album/201706/07/081750rx207a5nhaa4qv40.jpg)
 
 
 mimipenguin 是一个免费、开源、简单但是强大的 shell/python 脚本，用来从当前 Linux 桌面用户转储登录凭证（用户名和密码），并且已在不同的 Linux 发行版中测试过。
@@ -71,7 +71,7 @@ Even mimikatz requires administrator
 
 ```
 
-![Dump Login Passwords in Linux](/Asserts/Images//attachment/album/201706/07/081856hei2hruiwnbbwz8j.png)
+![Dump Login Passwords in Linux](/Asserts/Images/album/201706/07/081856hei2hruiwnbbwz8j.png)
 
 
 *在 Linux 中转储登录密码*

@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust,JetBrains]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/21/105704plqhnljnw255huaw.jpg)
+![](/Asserts/Images/album/202309/21/105704plqhnljnw255huaw.jpg)
 
 
 
@@ -38,7 +38,7 @@ tags:	[linuxcn,Rust,JetBrains]
 ### RustRover：可以期待什么？
 
 
-![](/Asserts/Images//attachment/album/202309/21/105717u71gwykgyowwm47y.png)
+![](/Asserts/Images/album/202309/21/105717u71gwykgyowwm47y.png)
 
 
 

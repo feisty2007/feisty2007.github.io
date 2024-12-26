@@ -10,7 +10,7 @@ tags:	[linuxcn,Jenkins]
 Jenkins 是从 Hudson 项目衍生出来的自动化服务器。Jenkins 是一个基于服务器的应用程序，运行在 Java servlet 容器中，它支持包括 Git、SVN 以及 Mercurial 在内的多种 SCM（<ruby> 源码控制工具 <rp>  （ </rp> <rt>  Source Control Management </rt> <rp>  ） </rp></ruby>）。Jenkins 提供了上百种插件帮助你的项目实现自动化。Jenkins 由 Kohsuke Kawaguchi 开发，在 2011 年使用 MIT 协议发布了第一个发行版，它是个自由软件。
 
 
-![](/Asserts/Images//attachment/album/201705/08/082705awkyywiddmllikiz.jpg)
+![](/Asserts/Images/album/201705/08/082705awkyywiddmllikiz.jpg)
 
 
 在这篇指南中，我会向你介绍如何在 Ubuntu 16.04 中安装最新版本的 Jenkins。我们会用自己的域名运行 Jenkins，在 apache web 服务器中安装和配置 Jenkins，而且支持反向代理。
@@ -69,7 +69,7 @@ java -version
 你会看到安装到服务器上的 Java 版本。
 
 
-![在 Ubuntu 16.04 上安装 Java OpenJDK 7](/Asserts/Images//attachment/album/201705/08/082935ycvptkobpap1kczp.png)
+![在 Ubuntu 16.04 上安装 Java OpenJDK 7](/Asserts/Images/album/201705/08/082935ycvptkobpap1kczp.png)
 
 
 ### 第二步 - 安装 Jenkins
@@ -119,7 +119,7 @@ netstat -plntu
 Jenkins 已经安装好了并运行在 8080 端口。
 
 
-![已经将 Jenkins 安装到 8080 端口](/Asserts/Images//attachment/album/201705/08/082936nz9x3tp3t5lt3tlp.png)
+![已经将 Jenkins 安装到 8080 端口](/Asserts/Images/album/201705/08/082936nz9x3tp3t5lt3tlp.png)
 
 
 ### 第三步 - 为 Jenkins 安装和配置 Apache 作为反向代理
@@ -207,7 +207,7 @@ netstat -plntu
 
 ```
 
-![检查 Apache 和 Jenkins 是否在运行](/Asserts/Images//attachment/album/201705/08/082936kflul7x2apz24fyg.png)
+![检查 Apache 和 Jenkins 是否在运行](/Asserts/Images/album/201705/08/082936kflul7x2apz24fyg.png)
 
 
 ### 第四步 - 配置 Jenkins
@@ -226,43 +226,43 @@ a1789d1561bf413c938122c599cf65c9
 
 ```
 
-![获取 Jenkins 管理员密码](/Asserts/Images//attachment/album/201705/08/082937w15csssj5irjas1k.png)
+![获取 Jenkins 管理员密码](/Asserts/Images/album/201705/08/082937w15csssj5irjas1k.png)
 
 
 将结果粘贴到密码框然后点击 Continue。
 
 
-![安装和配置 Jenkins](/Asserts/Images//attachment/album/201705/08/082937kqa85rqfq8g057m4.png)
+![安装和配置 Jenkins](/Asserts/Images/album/201705/08/082937kqa85rqfq8g057m4.png)
 
 
 现在为了后面能比较好的使用，我们需要在 Jenkins 中安装一些插件。选择 Install Suggested Plugin，点击它。
 
 
-![安装 Jenkins 插件](/Asserts/Images//attachment/album/201705/08/082937suee44ve39nugzxz.png)
+![安装 Jenkins 插件](/Asserts/Images/album/201705/08/082937suee44ve39nugzxz.png)
 
 
 Jenkins 插件安装过程：
 
 
-![Jenkins 安装完插件](/Asserts/Images//attachment/album/201705/08/082938w8tuwj49vjvjhwjw.png)
+![Jenkins 安装完插件](/Asserts/Images/album/201705/08/082938w8tuwj49vjvjhwjw.png)
 
 
 安装完插件后，我们需要创建一个新的管理员密码。输入你的管理员用户名、密码、电子邮件等，然后点击 ‘Save and Finish’。
 
 
-![创建 Jenkins 管理员账户](/Asserts/Images//attachment/album/201705/08/082938xgup9kw27zdrrgku.png)
+![创建 Jenkins 管理员账户](/Asserts/Images/album/201705/08/082938xgup9kw27zdrrgku.png)
 
 
 点击 start 开始使用 Jenkins。你会被重定向到 Jenkins 管理员面板。
 
 
-![重定向到管理员面板](/Asserts/Images//attachment/album/201705/08/082938i2pwpd5m715t1kdt.png)
+![重定向到管理员面板](/Asserts/Images/album/201705/08/082938i2pwpd5m715t1kdt.png)
 
 
 成功完成 Jenkins 安装和配置。
 
 
-![Jenkins 管理员面板](/Asserts/Images//attachment/album/201705/08/082939lllbnfo6q8zimdiq.png)
+![Jenkins 管理员面板](/Asserts/Images/album/201705/08/082939lllbnfo6q8zimdiq.png)
 
 
 ### 第五步 - Jenkins 安全
@@ -271,13 +271,13 @@ Jenkins 插件安装过程：
 在 Jenkins 管理员面板，我们需要为 Jenkins 配置标准的安全，点击 ‘Manage Jenkins’ 和 ‘Configure Global Security’。
 
 
-![Jenkins 全局安全设置](/Asserts/Images//attachment/album/201705/08/082939i0pfgt28v9opu3zg.png)
+![Jenkins 全局安全设置](/Asserts/Images/album/201705/08/082939i0pfgt28v9opu3zg.png)
 
 
 Jenkins 在 ‘Access Control’ 部分提供了多种认证方法。为了能够控制所有的用户权限，我选择了 ‘Matrix-based Security’。在复选框 ‘User/Group’ 中启用 admin 用户。通过勾选所有选项给 admin 所有权限，给 anonymous 只读权限。现在点击 ‘Save’。
 
 
-![配置 Jenkins 权限](/Asserts/Images//attachment/album/201705/08/082940imizr93mamzqqy5f.png)
+![配置 Jenkins 权限](/Asserts/Images/album/201705/08/082940imizr93mamzqqy5f.png)
 
 
 你会被重定向到面板，如果出现了登录选项，只需输入你的管理员账户和密码。
@@ -292,13 +292,13 @@ Jenkins 在 ‘Access Control’ 部分提供了多种认证方法。为了能�
 在 Jenkins 管理员面板上，点击 ‘Create New Job’。
 
 
-![在 Jenkins 中创建新的任务](/Asserts/Images//attachment/album/201705/08/082940cuvm06ut2mcv4t7s.png)
+![在 Jenkins 中创建新的任务](/Asserts/Images/album/201705/08/082940cuvm06ut2mcv4t7s.png)
 
 
 输入任务的名称，在这里我输入 ‘Checking System’，选择 Freestyle Project 然后点击 OK。
 
 
-![配置 Jenkins 任务](/Asserts/Images//attachment/album/201705/08/082940qzb6ggxb33686tt1.png)
+![配置 Jenkins 任务](/Asserts/Images/album/201705/08/082940qzb6ggxb33686tt1.png)
 
 
 进入 Build 标签页。在 Add build step，选择选项 Execute shell。
@@ -316,7 +316,7 @@ top -b -n 1 | head -n 5
 点击 Save。
 
 
-![启动 Jenkins 任务](/Asserts/Images//attachment/album/201705/08/082941lbtzihp8cfnfjxpu.png)
+![启动 Jenkins 任务](/Asserts/Images/album/201705/08/082941lbtzihp8cfnfjxpu.png)
 
 
 现在你是在任务 ‘Project checking system’ 的任务页。点击 Build Now 执行任务 ‘checking system’。
@@ -328,7 +328,7 @@ top -b -n 1 | head -n 5
 下面是 Jenkins 任务执行的结果。
 
 
-![构建和运行 Jenkins 任务](/Asserts/Images//attachment/album/201705/08/082941f32l7yefw35yyooj.png)
+![构建和运行 Jenkins 任务](/Asserts/Images/album/201705/08/082941f32l7yefw35yyooj.png)
 
 
 到这里就介绍完了在 Ubuntu 16.04 中用 Apache web 服务器安装 Jenkins 的内容。

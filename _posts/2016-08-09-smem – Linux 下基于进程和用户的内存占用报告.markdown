@@ -13,7 +13,7 @@ Linux 系统的内存管理工作中，内存使用情况的监控是十分重�
 Smem 是一款命令行下的内存使用情况报告工具，它能够给用户提供 Linux 系统下的内存使用的多种报告。和其它传统的内存报告工具不同的是，它有个独特的功能，可以报告 PSS（<ruby> 按比例占用大小 <rp>  （ </rp> <rt>  Proportional Set Size </rt> <rp>  ） </rp></ruby>），这种内存使用量表示方法对于那些在虚拟内存中的应用和库更有意义。
 
 
-![](/Asserts/Images//attachment/album/201608/14/093234hpdr9hvdchhch9fh.jpg)
+![](/Asserts/Images/album/201608/14/093234hpdr9hvdchhch9fh.jpg)
 
 
 已有的传统工具会将目光主要集中于读取 RSS（<ruby> 实际占用大小 <rp>  （ </rp> <rt>  Resident Set Size </rt> <rp>  ） </rp></ruby>），这种方法是以物理内存方案来衡量使用情况的标准方法，但是往往高估了应用程序的内存的使用情况。
@@ -493,7 +493,7 @@ $ sudo smem --userfilter="root" --bar pid -c"pss rss"
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/14/093339fhgshgikomlmgsmm.png)
+![](/Asserts/Images/album/201608/14/093339fhgshgikomlmgsmm.png)
 
 
 *Linux Memory Usage in PSS and RSS Values*
@@ -511,7 +511,7 @@ $ sudo smem --userfilter="root" --pie name -s pss
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/14/093340hg8zrsxwgg9sw3m2.png)
+![](/Asserts/Images/album/201608/14/093340hg8zrsxwgg9sw3m2.png)
 
 
 *Linux Memory Consumption by Processes*

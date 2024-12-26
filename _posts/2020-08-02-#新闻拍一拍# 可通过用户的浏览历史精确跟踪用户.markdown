@@ -7,7 +7,7 @@ tags:	[linuxcn,隐私,TLS,BGP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/31/094141vy44ihwdldu6690i.jpg)
+![](/Asserts/Images/album/202008/31/094141vy44ihwdldu6690i.jpg)
 
 
 #### 可通过用户的浏览历史精确跟踪用户

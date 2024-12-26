@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,芯片,多因素认证]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/19/192626ombuehxzep8xoraw.jpg)
+![](/Asserts/Images/album/202211/19/192626ombuehxzep8xoraw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/19/192638nmj9vg3gjguj24uk.jpg)
+![](/Asserts/Images/album/202211/19/192638nmj9vg3gjguj24uk.jpg)
 
 
 ### Meta 公司最新的大型语言模型仅在网上生存了三天
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,芯片,多因素认证]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/19/192654oji0ivs3mmfvlyqo.jpg)
+![](/Asserts/Images/album/202211/19/192654oji0ivs3mmfvlyqo.jpg)
 
 
 ### 中国在全球顶级芯片峰会上发表的论文数超越美国
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,芯片,多因素认证]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/19/192707iid1gdntyr0ds8zg.jpg)
+![](/Asserts/Images/album/202211/19/192707iid1gdntyr0ds8zg.jpg)
 
 
 ### 对多因素认证的攻击正在增加

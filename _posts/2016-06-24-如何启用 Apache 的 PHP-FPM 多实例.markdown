@@ -25,7 +25,7 @@ PHP-FPM 作为 FastCGI 进程管理器而广为熟知，它是 PHP FastCGI 实�
 在本文中，我将要讨论的是，在运行 CPanel 11.52 及 EA3 （EasyApache）的 CentOS 7 服务器上，于 Nginx 和 Apache 之上安装 PHP-FPM，以及如何来通过 CPanel 管理这些安装好的多个 PHP-FPM 实例。
 
 
-![](/Asserts/Images//attachment/album/201606/08/085850qnxrxrxzrrxsn2gf.jpg)
+![](/Asserts/Images/album/201606/08/085850qnxrxrxzrrxsn2gf.jpg)
 
 
 在我们开始安装前， 先看看安装的先决条件。
@@ -115,7 +115,7 @@ Waiting for “httpd” to restart gracefully …waiting for “httpd” to init
 我选择了 PHP 54 作为我服务器上的默认 PHP-FPM 版本。
 
 
-![confirm-php-fpm](/Asserts/Images//attachment/album/201606/08/085750z6brezhx2xd28p2b.png)
+![confirm-php-fpm](/Asserts/Images/album/201606/08/085750z6brezhx2xd28p2b.png)
 
 
 虽然服务器配置了 PHP-FPM 54，但是我们可以通过 CPanel 为各个独立的域名修改 PHP-FPM 实例。
@@ -133,25 +133,25 @@ Waiting for “httpd” to restart gracefully …waiting for “httpd” to init
  
 
 
-![nginxicon1](/Asserts/Images//attachment/album/201606/08/085750yrdddzjc388u964p.png)
+![nginxicon1](/Asserts/Images/album/201606/08/085750yrdddzjc388u964p.png)
 
 
 现在，你可以根据需要为选中的主域配置 web 服务器（这里，我已经选择了主域 saheetha.com）。我已经继续通过自动化配置选项来进行了，因为我不需要添加任何手动设置。
 
 
-![nginx_auto_proxy](/Asserts/Images//attachment/album/201606/08/085751qggq2epeg5848pgh.png)
+![nginx_auto_proxy](/Asserts/Images/album/201606/08/085751qggq2epeg5848pgh.png)
 
 
 当 Nginx 配置完后，你可以在这里为你的域名选择 PHP-FPM 实例。
 
 
-![php-fpm1](/Asserts/Images//attachment/album/201606/08/085752y1oh3ombwc9babdl.png)
+![php-fpm1](/Asserts/Images/album/201606/08/085752y1oh3ombwc9babdl.png)
 
 
-![php54](/Asserts/Images//attachment/album/201606/08/085753vrrn9nnb92y8i6xx.png)
+![php54](/Asserts/Images/album/201606/08/085753vrrn9nnb92y8i6xx.png)
 
 
-![php55](/Asserts/Images//attachment/album/201606/08/085753oe6l5fvfa6kqrf6m.png)
+![php55](/Asserts/Images/album/201606/08/085753oe6l5fvfa6kqrf6m.png)
 
 
 就像你在截图中所看到的，我服务器上的默认 PHP-FPM 是**PHP 54**，而我正要将我的域名的 PHP-FPM 实例单独修改成 **PHP 55**。当你为你的域修改 PHP-FPM 后，你可以通过访问 **phpinfo** 页面来确认。

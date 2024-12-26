@@ -7,10 +7,10 @@ tags:	[linuxcn,DDoS,Photoshop,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/15/195356vbfeo0fff6ktzb3f.jpg)
+![](/Asserts/Images/album/202206/15/195356vbfeo0fff6ktzb3f.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/15/195405v9qy116mlyv9eg1l.jpg)
+![](/Asserts/Images/album/202206/15/195405v9qy116mlyv9eg1l.jpg)
 
 
 ### Cloudflare 为客户免费阻击了有史以来最大的 HTTPS DDoS 攻击
@@ -35,7 +35,7 @@ tags:	[linuxcn,DDoS,Photoshop,Firefox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/15/195422nslvws9s99v8l8zs.jpg)
+![](/Asserts/Images/album/202206/15/195422nslvws9s99v8l8zs.jpg)
 
 
 ### Adobe 准备推出免费版的 Photoshop
@@ -60,7 +60,7 @@ tags:	[linuxcn,DDoS,Photoshop,Firefox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/15/195438ddyvinnf33gn8dn3.jpg)
+![](/Asserts/Images/album/202206/15/195438ddyvinnf33gn8dn3.jpg)
 
 
 ### Firefox 默认启用 Cookie 全面保护功能

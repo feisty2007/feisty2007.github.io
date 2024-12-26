@@ -7,7 +7,7 @@ tags:	[linuxcn,RSS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/28/140112c761cazfcocf6ogd.jpg)
+![](/Asserts/Images/album/202309/28/140112c761cazfcocf6ogd.jpg)
 
 
 
@@ -30,7 +30,7 @@ NewsFlash 3.0 升级后，应用有许多重要的改进。
 ### ? NewsFlash 3.0：有什么新内容？
 
 
-![](/Asserts/Images//attachment/album/202309/28/140149kswdc6lwlflcmid7.jpg)
+![](/Asserts/Images/album/202309/28/140149kswdc6lwlflcmid7.jpg)
 
 
 NewsFlash 具有**调整后的界面布局**，并使用 libadwaita 1.4 的“分割视图”和“工具栏视图”。
@@ -63,7 +63,7 @@ NewsFlash 具有**调整后的界面布局**，并使用 libadwaita 1.4 的“�
 #### 改进的缩略图
 
 
-![](/Asserts/Images//attachment/album/202309/28/140149pie093rwsjwzbuwj.jpg)
+![](/Asserts/Images/album/202309/28/140149pie093rwsjwzbuwj.jpg)
 
 
 NewsFlash 中添加了**启发式进程**，它现在可以根据订阅源中的文章生成缩略图。
@@ -84,7 +84,7 @@ NewsFlash 中添加了**启发式进程**，它现在可以根据订阅源中的
 #### 图像查看器
 
 
-![](/Asserts/Images//attachment/album/202309/28/140149yigggdwijs3jgejz.jpg)
+![](/Asserts/Images/album/202309/28/140149yigggdwijs3jgejz.jpg)
 
 
 使用 NewsFlash 3.0，你现在可以单击文章中的图像，在**专用图像查看窗口**中查看它们。同样用于显示文章的图像附件。

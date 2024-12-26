@@ -25,7 +25,7 @@ Dyer建议感兴趣的用户等待下一代的Elementary OS桌面的beta版本�
 现在，我们只能望梅止渴了。
 
 
-![Vocal Beta 在 Elementary OS中 (图: Dyer)](/Asserts/Images//attachment/album/201407/13/201202q53lunl3l1sp5elp.png)
+![Vocal Beta 在 Elementary OS中 (图: Dyer)](/Asserts/Images/album/201407/13/201202q53lunl3l1sp5elp.png)
 
 
 Vocal Beta 在 Elementary OS中(图: Dyer)

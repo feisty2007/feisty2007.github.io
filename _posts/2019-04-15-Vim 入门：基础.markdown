@@ -15,13 +15,13 @@ tags:	[linuxcn,vim,vi]
 > 
 
 
-![](/Asserts/Images//attachment/album/201904/20/104238gvg444k5tbm4gqt5.jpg)
+![](/Asserts/Images/album/201904/20/104238gvg444k5tbm4gqt5.jpg)
 
 
 我还清晰地记得我第一次接触 Vim 的时候。那时我还是一名大学生，计算机学院的机房里都装着 Ubuntu 系统。尽管我在上大学前也曾接触过不同的 Linux 发行版（比如 RHEL —— Red Hat 在百思买出售它的 CD），但这却是我第一次要在日常中频繁使用 Linux 系统，因为我的课程要求我这样做。当我开始使用 Linux 时，正如我的前辈和将来的后继者们一样，我感觉自己像是一名“真正的程序员”了。
 
 
-![Real Programmers comic](/Asserts/Images//attachment/album/201904/20/104307h6o5ntn9h225onn0.jpg "Real Programmers comic")
+![Real Programmers comic](/Asserts/Images/album/201904/20/104307h6o5ntn9h225onn0.jpg "Real Programmers comic")
 
 
 *真正的程序员，来自 [xkcd](https://xkcd.com/378/)*
@@ -45,7 +45,7 @@ tags:	[linuxcn,vim,vi]
 打开终端窗口后，输入 `ls` 命令列出当前目录下的内容。然后，输入 `mkdir Tutorial` 命令创建一个名为 `Tutorial` 的新目录。通过输入 `cd Tutorial` 来进入该目录。
 
 
-![Create a folder](/Asserts/Images//attachment/album/201904/20/104312nbyok8arxho0bnok.jpg "Create a folder")
+![Create a folder](/Asserts/Images/album/201904/20/104312nbyok8arxho0bnok.jpg "Create a folder")
 
 
 这就是全部的准备工作。现在是时候转到有趣的部分了——开始使用 Vim。
@@ -89,7 +89,7 @@ Vim 也有其他模式，例如可视模式、选择模式和命令模式。不�
 现在，有趣的事情发生了。输入 `:` （冒号键）并接着 `q!` （完整命令：`:q!`）。你的屏幕将显示如下：
 
 
-![Editing Vim](/Asserts/Images//attachment/album/201904/20/104313nxbiqx37yq3kk5qx.jpg "Editing Vim")
+![Editing Vim](/Asserts/Images/album/201904/20/104313nxbiqx37yq3kk5qx.jpg "Editing Vim")
 
 
 在正常模式下输入冒号会将 Vim 切换到命令行模式，执行 `:q!` 命令将退出 Vim 编辑器而不进行保存。换句话说，你放弃了所有的更改。你也可以使用 `ZQ` 命令；选择你认为更方便的选项。
@@ -107,7 +107,7 @@ Vim 也有其他模式，例如可视模式、选择模式和命令模式。不�
 在左下角，你将看到 `-- INSERT --`，这标志着你这处于插入模式。
 
 
-![Vim insert mode](/Asserts/Images//attachment/album/201904/20/104315z2klgi2lwlbvthgg.jpg "Vim insert mode")
+![Vim insert mode](/Asserts/Images/album/201904/20/104315z2klgi2lwlbvthgg.jpg "Vim insert mode")
 
 
 写一些 Java 代码。你可以写任何你想写的，不过这也有一份你可以参照的例子。你的屏幕将显示如下：
@@ -142,7 +142,7 @@ public class HelloWorld {
 瞧！你现在可以在每一行的左侧看到行号。
 
 
-![Showing Line Numbers](/Asserts/Images//attachment/album/201904/20/104319ow29q27wwzs00s0y.jpg "Showing Line Numbers")
+![Showing Line Numbers](/Asserts/Images/album/201904/20/104319ow29q27wwzs00s0y.jpg "Showing Line Numbers")
 
 
 好，你也许会说，“这确实很酷，不过我该怎么跳到某一行呢？”再一次的，确认你正处于正常模式。接着输入 `:<LINE_NUMBER>`，在这里 `<LINE_NUMBER>` 是你想去的那一行的行数。按下回车键来试着移动到第二行。
@@ -156,7 +156,7 @@ public class HelloWorld {
 现在，跳到第三行。
 
 
-![Jump to line 3](/Asserts/Images//attachment/album/201904/20/104322x033zctfxff9ff2z.jpg "Jump to line 3")
+![Jump to line 3](/Asserts/Images/album/201904/20/104322x033zctfxff9ff2z.jpg "Jump to line 3")
 
 
 但是，假如你正在处理一个一千多行的文件，而你正想到文件底部。这该怎么办呢？确认你正处于正常模式，接着输入 `:$` 并按下回车。
@@ -168,7 +168,7 @@ public class HelloWorld {
 现在，你知道如何在行间跳跃了，作为补充，我们来学一下如何移动到一行的行尾。确认你正处于有文本内容的一行，如第三行，接着输入 `$`。
 
 
-![Go to the last character](/Asserts/Images//attachment/album/201904/20/104325w6poo9hhj9x6ozi9.jpg "Go to the last character")
+![Go to the last character](/Asserts/Images/album/201904/20/104325w6poo9hhj9x6ozi9.jpg "Go to the last character")
 
 
 你现在来到这行的最后一个字节了。在此示例中，高亮左大括号以显示光标移动到的位置，右大括号被高亮是因为它是高亮的左大括号的匹配字符。
@@ -186,25 +186,25 @@ public class HelloWorld {
 来到第三行，这里的代码是 `public static void main(String[] args) {`。双击 `d` 键，没错，就是 `dd`。如果你成功做到了，你将会看到，第三行消失了，剩下的所有行都向上移动了一行。（例如，第四行变成了第三行）。
 
 
-![Deleting A Line](/Asserts/Images//attachment/album/201904/20/104329i0oripvlg8wz8lk7.jpg "Deleting A Line")
+![Deleting A Line](/Asserts/Images/album/201904/20/104329i0oripvlg8wz8lk7.jpg "Deleting A Line")
 
 
 这就是<ruby> 删除 <rt>  delete </rt></ruby>命令。不要担心，键入 `u`，你会发现这一行又回来了。喔，这就是<ruby> 撤销 <rt>  undo </rt></ruby>命令。
 
 
-![Undoing a change in Vim](/Asserts/Images//attachment/album/201904/20/104332o8nnv8qlqqlnelim.jpg "Undoing a change in Vim")
+![Undoing a change in Vim](/Asserts/Images/album/201904/20/104332o8nnv8qlqqlnelim.jpg "Undoing a change in Vim")
 
 
 下一课是学习如何复制和粘贴文本，但首先，你需要学习如何在 Vim 中突出显示文本。按下 `v` 并向左右移动光标来选择或反选文本。当你向其他人展示代码并希望标识你想让他们注意到的代码时，这个功能也非常有用。
 
 
-![Highlighting text in Vim](/Asserts/Images//attachment/album/201904/20/104335ol7u6u61uprm7bmr.jpg "Highlighting text in Vim")
+![Highlighting text in Vim](/Asserts/Images/album/201904/20/104335ol7u6u61uprm7bmr.jpg "Highlighting text in Vim")
 
 
 来到第四行，这里的代码是 `System.out.println("Hello, Opensource");`。高亮这一行的所有内容。好了吗？当第四行的内容处于高亮时，按下 `y`。这就叫做<ruby> 复制 <rt>  yank </rt></ruby>模式，文本将会被复制到剪贴板上。接下来，输入 `o` 来创建新的一行。注意，这将让你进入插入模式。通过按 `Esc` 退出插入模式，然后按下 `p`，代表<ruby> 粘贴 <rt>  paste </rt></ruby>。这将把复制的文本从第三行粘贴到第四行。
 
 
-![Pasting in Vim](/Asserts/Images//attachment/album/201904/20/104338li1hb4qmyeq46d2h.jpg "Pasting in Vim")
+![Pasting in Vim](/Asserts/Images/album/201904/20/104338li1hb4qmyeq46d2h.jpg "Pasting in Vim")
 
 
 作为练习，请重复这些步骤，但也要修改新创建的行中的文字。此外，请确保这些行对齐工整。
@@ -230,7 +230,7 @@ public class HelloWorld {
 Vim 的搜索功能非常有用。通过 `Esc` 键来进入命令模式，然后输入冒号 `:`，我们可以通过输入 `/<SEARCH_KEYWORD>` 来搜索关键词， `<SEARCH_KEYWORD>` 指你希望搜索的字符串。在这里，我们搜索关键字符串 `Hello`。在下面的图示中没有显示冒号，但这是必须输入的。
 
 
-![Searching in Vim](/Asserts/Images//attachment/album/201904/20/104340tlsr8a33l2zr2zdl.jpg "Searching in Vim")
+![Searching in Vim](/Asserts/Images/album/201904/20/104340tlsr8a33l2zr2zdl.jpg "Searching in Vim")
 
 
 但是，一个关键字可以出现不止一次，而这可能不是你想要的那一个。那么，如何找到下一个匹配项呢？只需按 `n` 键即可，这代表<ruby> 下一个 <rt>  next </rt></ruby>。执行此操作时，请确保你没有处于插入模式！
@@ -251,7 +251,7 @@ Vim 的搜索功能非常有用。通过 `Esc` 键来进入命令模式，然后
 在命令模式中，输入 `:split HelloWorld.java`，来看看发生了什么。
 
 
-![Split mode in Vim](/Asserts/Images//attachment/album/201904/20/104345e9e9ucep9o9cruo4.jpg "Split mode in Vim")
+![Split mode in Vim](/Asserts/Images/album/201904/20/104345e9e9ucep9o9cruo4.jpg "Split mode in Vim")
 
 
 Wow！快看！ `split` 命令将控制台窗口水平分割成了两个部分，上面是 `HelloWorld.java`，下面是 `GoodBye.java`。该怎么能在窗口之间切换呢？ 按住 `Control` 键（在 Mac 上）或 `Ctrl` 键（在 PC 上），然后按下 `ww` (即双击 `w` 键)。
@@ -260,7 +260,7 @@ Wow！快看！ `split` 命令将控制台窗口水平分割成了两个部分�
 作为最后一个练习，尝试通过复制和粘贴 `HelloWorld.java` 来编辑 `GoodBye.java` 以匹配下面屏幕上的内容。
 
 
-![Modify GoodBye.java file in Split Mode](/Asserts/Images//attachment/album/201904/20/104349vqbzq47gnzq4x99u.jpg "Modify GoodBye.java file in Split Mode")
+![Modify GoodBye.java file in Split Mode](/Asserts/Images/album/201904/20/104349vqbzq47gnzq4x99u.jpg "Modify GoodBye.java file in Split Mode")
 
 
 保存两份文件，成功！

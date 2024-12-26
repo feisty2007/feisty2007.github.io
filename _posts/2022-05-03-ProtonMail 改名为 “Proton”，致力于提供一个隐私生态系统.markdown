@@ -15,7 +15,7 @@ tags:	[linuxcn,ProtonMail]
 > 
 
 
-![proton](/Asserts/Images//attachment/album/202205/30/094455ml57lnqlqqbxbllb.jpg)
+![proton](/Asserts/Images/album/202205/30/094455ml57lnqlqqbxbllb.jpg)
 
 
 [ProtonMail](https://itsfoss.com/recommends/protonmai) 将自己重新命名为 “Proton”，以将其所有产品囊括在统一的品牌下。
@@ -49,13 +49,13 @@ Proton 将拥有一个新的统一平台（新网站），你可以在其中访�
 不仅限于名称/品牌，整体的强调色和现有的用户体验，也将受到影响。
 
 
-![](/Asserts/Images//attachment/album/202205/30/094455wo0pl3bzl3b3537l.jpg)
+![](/Asserts/Images/album/202205/30/094455wo0pl3bzl3b3537l.jpg)
 
 
 现在，你只需一次付费订阅即可获得全部服务，而不必单独升级 VPN 和邮件。这也意味着，经过这次改变，高级订阅的价格变得更加实惠了。
 
 
-![](/Asserts/Images//attachment/album/202205/30/094455ebcbe1a6syspbpic.jpg)
+![](/Asserts/Images/album/202205/30/094455ebcbe1a6syspbpic.jpg)
 
 
 总体而言，让 “Proton” 成为隐私生态系统，是为了吸引更多对技术细节不感兴趣的用户来了解它是如何运作的。
@@ -73,13 +73,13 @@ Proton 将拥有一个新的统一平台（新网站），你可以在其中访�
 你可以期待有一个焕然一新的用户界面，包括新的品牌和新的网站。
 
 
-![proton](/Asserts/Images//attachment/album/202205/30/094456hdend4gpjpp77j1e.png)
+![proton](/Asserts/Images/album/202205/30/094456hdend4gpjpp77j1e.png)
 
 
 除此之外，Proton 还提到它改进了服务之间的集成，以获得更好的用户体验。
 
 
-![](/Asserts/Images//attachment/album/202205/30/094456k6hwmw29m52mi2ng.png)
+![](/Asserts/Images/album/202205/30/094456k6hwmw29m52mi2ng.png)
 
 
 如果你已经在使用 ProtonMail，你可能知道，他们正在主动建议现有用户激活 “@proton.me” 帐户，这也是本次更改的一部分。

@@ -7,10 +7,10 @@ tags:	[linuxcn,加密货币,exFAT,隐私]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/16/200824e9r6hg10h83019sj.jpg)
+![](/Asserts/Images/album/202204/16/200824e9r6hg10h83019sj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/16/200841e7ddf7nt9spu1rd9.jpg)
+![](/Asserts/Images/album/202204/16/200841e7ddf7nt9spu1rd9.jpg)
 
 
 ### 超过三分之一美国员工希望以加密货币方式接收工资
@@ -27,7 +27,7 @@ tags:	[linuxcn,加密货币,exFAT,隐私]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/16/200852m309qg3fj3q3z402.jpg)
+![](/Asserts/Images/album/202204/16/200852m309qg3fj3q3z402.jpg)
 
 
 ### Linux exFAT 性能提升 73%
@@ -44,7 +44,7 @@ tags:	[linuxcn,加密货币,exFAT,隐私]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/16/200910frkijjwuvbrtawkj.jpg)
+![](/Asserts/Images/album/202204/16/200910frkijjwuvbrtawkj.jpg)
 
 
 ### Facebook 将在 2022 年因苹果的政策损失 130 亿美元

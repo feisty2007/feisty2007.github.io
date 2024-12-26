@@ -7,7 +7,7 @@ tags:	[linuxcn,调试,调试器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/17/211733w083ii0mgwnyyi0d.jpg)
+![](/Asserts/Images/album/201704/17/211733w083ii0mgwnyyi0d.jpg)
 
 
 这是调试器工作原理系列文章的第一篇，我不确定这个系列会有多少篇文章，会涉及多少话题，但我仍会从这篇基础开始。

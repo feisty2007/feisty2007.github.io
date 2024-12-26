@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,安全]
 ---
 
 
-![OpenBSD logo](/Asserts/Images//attachment/album/201707/09/065441s17rj4etrjujukdj.jpg)
+![OpenBSD logo](/Asserts/Images/album/201707/09/065441s17rj4etrjujukdj.jpg)
 
 
 在 OpenBSD 的测试快照中加入了一个新的功能，每次当 OpenBSD 用户重启或升级计算机时都会创建一个独特的内核。

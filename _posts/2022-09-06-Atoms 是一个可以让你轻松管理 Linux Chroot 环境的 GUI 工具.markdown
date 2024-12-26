@@ -7,7 +7,7 @@ tags:	[linuxcn,chroot]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/30/113748nxg0zps10q58q5wr.jpg)
+![](/Asserts/Images/album/202209/30/113748nxg0zps10q58q5wr.jpg)
 
 
 chroot 环境为你在 Linux 中进行测试提供了隔离。你无需费心创建虚拟机。相反，如果你想测试应用或其他东西，请创建一个允许你选择不同根目录的 chroot 环境。
@@ -25,7 +25,7 @@ chroot 有它的好处，这就是为什么它是为各种用户（尤其是系�
 ### Atoms：管理 Linux Chroot 的 GUI
 
 
-![atoms](/Asserts/Images//attachment/album/202209/30/113824uz0ya5tabh2b2hh3.png)
+![atoms](/Asserts/Images/album/202209/30/113824uz0ya5tabh2b2hh3.png)
 
 
 Atoms 是一个 GUI 工具，它可以方便地创建和管理 Linux chroot 环境。
@@ -43,7 +43,7 @@ Atoms 是一个 GUI 工具，它可以方便地创建和管理 Linux chroot 环�
 ### Atoms 的特性
 
 
-![atoms options](/Asserts/Images//attachment/album/202209/30/113825bpadwo2e07xzto9p.png)
+![atoms options](/Asserts/Images/album/202209/30/113825bpadwo2e07xzto9p.png)
 
 
 Atoms 是一个简单的 GUI 程序，可让你为多个受支持的 Linux 发行版创建 chroot 环境。
@@ -64,25 +64,25 @@ Atoms 是一个简单的 GUI 程序，可让你为多个受支持的 Linux 发�
 你所要做的就是为该 atom 命名，然后从可用选项列表中选择 Linux 发行版（Ubuntu 作为上面截图中的选择）。它会在几分钟内下载镜像并为你设置 chroot 环境，如下所示。
 
 
-![atom config](/Asserts/Images//attachment/album/202209/30/113826u8p5oi8hazsle5jh.png)
+![atom config](/Asserts/Images/album/202209/30/113826u8p5oi8hazsle5jh.png)
 
 
 完成后，你可以访问选项启动控制台以管理 chroot 环境，或自定义/删除它。
 
 
-![atoms option](/Asserts/Images//attachment/album/202209/30/113826eoh4oai734lzt447.png)
+![atoms option](/Asserts/Images/album/202209/30/113826eoh4oai734lzt447.png)
 
 
 要访问控制台，请转到另一个选项卡菜单。非常顺滑的体验，并且运行良好，至少对于我测试过的 Ubuntu 而言。
 
 
-![atoms console](/Asserts/Images//attachment/album/202209/30/113827co8pdqqm15sr5msq.png)
+![atoms console](/Asserts/Images/album/202209/30/113827co8pdqqm15sr5msq.png)
 
 
 此外，你可以分离控制台以将其作为单独的窗口进行访问。
 
 
-![atoms detach console](/Asserts/Images//attachment/album/202209/30/113828assrh3ljtlr44m16.png)
+![atoms detach console](/Asserts/Images/album/202209/30/113828assrh3ljtlr44m16.png)
 
 
 ### 在 Linux 上安装 Atom

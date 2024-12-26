@@ -10,7 +10,7 @@ tags:	[linuxcn,FTP,sFTP]
 [sFTP（安全文件传输程序）](http://www.tecmint.com/sftp-command-examples/)是一种安全的交互式文件传输程序，其工作方式与 FTP（文件传输协议）类似。 然而，sFTP 比 FTP 更安全；它通过加密 SSH 传输处理所有操作。
 
 
-![](/Asserts/Images//attachment/album/201703/01/143358dg2eao7t1pzpko00.jpg)
+![](/Asserts/Images/album/201703/01/143358dg2eao7t1pzpko00.jpg)
 
 
 它可以配置使用几个有用的 SSH 功能，如[公钥认证](/article-6901-1.html)和压缩。 它连接并登录到指定的远程机器，然后切换到交互式命令模式，在该模式下用户可以执行各种命令。
@@ -46,7 +46,7 @@ sftp> mkdir uploads     #create a new directory
 
 ```
 
-![Run sFTP Commands on Remote Linux](/Asserts/Images//attachment/album/201703/01/143410x80h1i00l18z81ip.png)
+![Run sFTP Commands on Remote Linux](/Asserts/Images/album/201703/01/143410x80h1i00l18z81ip.png)
 
 
 * Linux 主机上运行 sFTP 命令\*
@@ -69,7 +69,7 @@ sftp> put -r Tecmint.com-articles
 
 ```
 
-![Upload Directory using SFTP](/Asserts/Images//attachment/album/201703/01/143410f7555bz5jm03czn5.png)
+![Upload Directory using SFTP](/Asserts/Images/album/201703/01/143410f7555bz5jm03czn5.png)
 
 
 *使用 sFTP 上传文件夹*
@@ -96,7 +96,7 @@ sftp> get -r fstools-0.0
 
 ```
 
-![Download Directory using sFTP](/Asserts/Images//attachment/album/201703/01/143410yp70jjzwp2t9792w.png)
+![Download Directory using sFTP](/Asserts/Images/album/201703/01/143410yp70jjzwp2t9792w.png)
 
 
 *使用 sFTP 下载目录*

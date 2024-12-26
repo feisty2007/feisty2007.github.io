@@ -7,7 +7,7 @@ tags:	[linuxcn,文档]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/23/100615quu385qf83bu3p35.jpg)
+![](/Asserts/Images/album/202212/23/100615quu385qf83bu3p35.jpg)
 
 
 
@@ -93,7 +93,7 @@ most Linux distributions. Check your graphical package manager and search for Aw
 例子中的 HTML 文档没有与之关联的样式表，所以浏览器中会显示所有的段落。
 
 
-![Image of html in black text.](/Asserts/Images//attachment/album/202212/23/100623uxiiyqi2siwylzix.png)
+![Image of html in black text.](/Asserts/Images/album/202212/23/100623uxiiyqi2siwylzix.png)
 
 
 我们可在文档中添加一些简单的样式来为 <ruby> 读者 <rt>  reader </rt></ruby>、<ruby> 专家 <rt>  expert </rt></ruby> 或者 <ruby> 初学者 <rt>  novice </rt></ruby> 突出任何元素。为了使不同的文本更容易区分，让我们把读者类的背景颜色设置成米白色，专家类的字体颜色设置为深红色，初学者的字体颜色则设置为深蓝色。
@@ -136,7 +136,7 @@ color: darkblue;
 当你在浏览器中查看这个网页时，这些样式有助于突出这两个段落。安装指导的所有段落都有一个米白色背景，因为他们都有 <ruby> 读者 <rt>  reader </rt></ruby> 这个类。第一个段落的字体是深红色的，这是由 <ruby> 专家 <rt>  expert </rt></ruby> 这个类定义的。第二个段落的字体是深蓝色的，则是由 <ruby> 初学者 <rt>  novice </rt></ruby> 这个类定义的。
 
 
-![Image of html in red and black text.](/Asserts/Images//attachment/album/202212/23/100623zdhggyg05lifiqdy.png)
+![Image of html in red and black text.](/Asserts/Images/album/202212/23/100623zdhggyg05lifiqdy.png)
 
 
 ### 添加 JavaScript 控件
@@ -241,19 +241,19 @@ manager and search for AwesomeProject to install it.</p>
 有了这些设置，用户可以在网页上选择他们想看的文本。
 
 
-![Image of window that allows you to select between novice and expert text.](/Asserts/Images//attachment/album/202212/23/100623d1sppx1b58d5h6o1.png)
+![Image of window that allows you to select between novice and expert text.](/Asserts/Images/album/202212/23/100623d1sppx1b58d5h6o1.png)
 
 
 点击任何一个按钮都将只显示用户想要阅读的文本。例如，如果你点击了 “<ruby> 阅读初学者内容 <rt>  view novice text </rt></ruby>” 按钮，你就只会看到蓝色段落。
 
 
-![Image showing blue text when you press the novice button.](/Asserts/Images//attachment/album/202212/23/100623r96nt4e6i05teq5n.png)
+![Image showing blue text when you press the novice button.](/Asserts/Images/album/202212/23/100623r96nt4e6i05teq5n.png)
 
 
 点击 “<ruby> 阅读专家内容 <rt>  view expert text </rt></ruby>” 按钮，就会隐藏初学者文本，只显示红色的专家文本。
 
 
-![Image of red text after the expert button is clicked.](/Asserts/Images//attachment/album/202212/23/100623ep3ebb66kkyzraem.png)
+![Image of red text after the expert button is clicked.](/Asserts/Images/album/202212/23/100623ep3ebb66kkyzraem.png)
 
 
 ### 将此扩展到你的文档

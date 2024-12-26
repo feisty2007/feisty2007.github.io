@@ -7,7 +7,7 @@ tags:	[linuxcn,窗口管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202001/13/212936hsk572f4jrsj2jsh.jpg)
+![](/Asserts/Images/album/202001/13/212936hsk572f4jrsj2jsh.jpg)
 
 
 当我开始在个人计算机上使用 Linux 时，首先令我兴奋的就是轻巧的窗口管理器，这主要是因为当时我的笔记本电脑只有有 32MB 的内存，其它的都运行不了了。
@@ -37,7 +37,7 @@ tags:	[linuxcn,窗口管理器]
 PaperWM 的主要想法是将所有窗口排成一行，这实际上与传统的平铺窗口管理器大不相同，在传统的平铺窗口管理器中，你可以按任意方式平铺窗口。这是我写这篇博客时在几个窗口之间切换/调整大小的 gif 图像（有一个浏览器和两个终端窗口）：
 
 
-![](/Asserts/Images//attachment/album/202001/13/213028tt78epw18h258w12.gif)
+![](/Asserts/Images/album/202001/13/213028tt78epw18h258w12.gif)
 
 
 PaperWM 的 Github README 链接了此视频：<http://10gui.com/video/>，它描述为一个类似的”线性窗口管理器“。

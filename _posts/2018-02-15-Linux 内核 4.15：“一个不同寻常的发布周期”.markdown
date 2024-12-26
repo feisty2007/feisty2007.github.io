@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核,KPTI]
 ---
 
 
-![Linux](/Asserts/Images//attachment/album/201802/10/095011cuxjqpmf7pyxkvh3.png "Linux")
+![Linux](/Asserts/Images/album/201802/10/095011cuxjqpmf7pyxkvh3.png "Linux")
 
 
 

@@ -7,10 +7,10 @@ tags:	[linuxcn,USB,黑客工具,Copilot,量子计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/21/190133jp4kh5sp3qeeyauh.jpg)
+![](/Asserts/Images/album/202208/21/190133jp4kh5sp3qeeyauh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/21/190145ol7n9ev4bxe76z5l.jpg)
+![](/Asserts/Images/album/202208/21/190145ol7n9ev4bxe76z5l.jpg)
 
 
 ### 新的 USB “橡皮鸭子”比以前更危险
@@ -35,7 +35,7 @@ USB “橡皮鸭子”看起来就像一个普通的 U 盘。但把它插入电�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/21/190159jz2nnnq4ffx23vfg.jpg)
+![](/Asserts/Images/album/202208/21/190159jz2nnnq4ffx23vfg.jpg)
 
 
 ### Copilot 将使计算机教育的编程练习变得毫无意义
@@ -60,7 +60,7 @@ USB “橡皮鸭子”看起来就像一个普通的 U 盘。但把它插入电�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/21/190213akiw6pekww222qq6.jpg)
+![](/Asserts/Images/album/202208/21/190213akiw6pekww222qq6.jpg)
 
 
 ### 新的后量子密码学算法将于 2024 成为标准

@@ -7,10 +7,10 @@ tags:	[linuxcn,SUSE,特斯拉,OpenAI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/18/113415cwiiyog6iz75575i.jpg)
+![](/Asserts/Images/album/202308/18/113415cwiiyog6iz75575i.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/18/113424khdgdcgkhvpzvwo0.jpg)
+![](/Asserts/Images/album/202308/18/113424khdgdcgkhvpzvwo0.jpg)
 
 
 ### SUSE 将退市，被其最大股东私有化
@@ -35,7 +35,7 @@ tags:	[linuxcn,SUSE,特斯拉,OpenAI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/18/113437pblei33rxiz69j3x.jpg)
+![](/Asserts/Images/album/202308/18/113437pblei33rxiz69j3x.jpg)
 
 
 ### 廉价版特斯拉汽车用软件锁定了续航里程
@@ -60,7 +60,7 @@ tags:	[linuxcn,SUSE,特斯拉,OpenAI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/18/113451datslssaax7jaooo.jpg)
+![](/Asserts/Images/album/202308/18/113451datslssaax7jaooo.jpg)
 
 
 ### 《纽约时报》考虑对 OpenAI 采取法律行动

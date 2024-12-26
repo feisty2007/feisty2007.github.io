@@ -7,7 +7,7 @@ tags:	[linuxcn,Homebrew,brew]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/09/090614sptwo73z73f7fw7u.jpg)
+![](/Asserts/Images/album/202112/09/090614sptwo73z73f7fw7u.jpg)
 
 
 Homebrew（家酿），也被称为 Brew，是一个主要为 macOS 创建的命令行包管理器。
@@ -64,7 +64,7 @@ sudo apt-get install build-essential procps curl file git
 
 ```
 
-![Iinstall dependencies for Homebrew in Ubuntu/Debian](/Asserts/Images//attachment/album/202112/09/090620wou7fktsevo2fntd.png)
+![Iinstall dependencies for Homebrew in Ubuntu/Debian](/Asserts/Images/album/202112/09/090620wou7fktsevo2fntd.png)
 
 
 对于其他发行版，请使用你的包管理器并安装这些依赖项。
@@ -88,13 +88,13 @@ sudo apt-get install build-essential procps curl file git
 当要求输入回车键时，请按下回车。
 
 
-![Installing Homebrew on Ubuntu](/Asserts/Images//attachment/album/202112/09/090620wl63mhoxxhywiyqr.png)
+![Installing Homebrew on Ubuntu](/Asserts/Images/album/202112/09/090620wl63mhoxxhywiyqr.png)
 
 
 在脚本最后，它建议运行几个命令，将其添加到 `PATH` 变量中。Homebrew 实际上是安装在你的主目录中，然后软链接到 `/usr/local` 目录中。
 
 
-![Run the suggested command under Next steps to add Homebrew to PATh variable](/Asserts/Images//attachment/album/202112/09/090621p12c1vjvsv2vzovz.png)
+![Run the suggested command under Next steps to add Homebrew to PATh variable](/Asserts/Images/album/202112/09/090621p12c1vjvsv2vzovz.png)
 
 
 你可以 [在终端方便地复制和粘贴](https://itsfoss.com/copy-paste-linux-terminal/)。只要选择它所建议的命令，按 `Ctrl+Shift+C` 复制，按 `Ctrl+Shift+V` 粘贴。
@@ -118,7 +118,7 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 ```
 
-![Adding brew commands to the PATH](/Asserts/Images//attachment/album/202112/09/090621as5lrr2m7zlrodpx.png)
+![Adding brew commands to the PATH](/Asserts/Images/album/202112/09/090621as5lrr2m7zlrodpx.png)
 
 
 #### 步骤 3：验证 brew 的安装
@@ -199,7 +199,7 @@ brew autoremove
 在下一张截图中，我只用 `brew` 安装了两个软件包，但它也显示了这些软件包的依赖关系。即使在移除软件包后，依赖关系仍然存在。`autoremove` 终于把它们删除了。
 
 
-![Listing and removing brew apckages](/Asserts/Images//attachment/album/202112/09/090621cwwe2evtsnj68tv8.png)
+![Listing and removing brew apckages](/Asserts/Images/album/202112/09/090621cwwe2evtsnj68tv8.png)
 
 
 还有很多 `brew` 命令选项，但这不在本教程的范围内。你可以随时 [翻阅它的文档](https://docs.brew.sh/Manpage) 并进一步探索。
@@ -223,13 +223,13 @@ brew autoremove
 你会被要求输入 `Y` 键来确认删除。
 
 
-![Removing Homebrew from Linux](/Asserts/Images//attachment/album/202112/09/090621ry044mh0ukyht3gj.png)
+![Removing Homebrew from Linux](/Asserts/Images/album/202112/09/090621ry044mh0ukyht3gj.png)
 
 
 当 Homebrew 的卸载完成后，它会列出它所遗留的文件和目录：
 
 
-![Remaining files after Homebrew removal](/Asserts/Images//attachment/album/202112/09/090622mh1h1dhavo7zvshd.png)
+![Remaining files after Homebrew removal](/Asserts/Images/album/202112/09/090622mh1h1dhavo7zvshd.png)
 
 
 让你自己去删除这些文件和目录。

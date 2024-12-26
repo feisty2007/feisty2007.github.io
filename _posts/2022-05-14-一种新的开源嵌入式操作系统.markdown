@@ -15,7 +15,7 @@ tags:	[linuxcn,嵌入式,RT-Thread,RT-Thread Smart]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/06/131909kdb7f966j22qf7o9.jpg "An intersection of pipes.")
+![](/Asserts/Images/album/202205/06/131909kdb7f966j22qf7o9.jpg "An intersection of pipes.")
 
 
 目前对 [嵌入式操作系统](https://opensource.com/article/20/6/open-source-rtos) 有巨大的需求，你建立的操作系统最好是开源的。[RT-Thread](https://www.rt-thread.io/) 项目的研发团队花了两年时间，研发出了该项目的最新成果：RT-Thread Smart。这是一款微内核的操作系统，主要针对中高端的处理器，如具有内存管理单元（MMU）的 RISC-V 或 Arm Cortex-A，为嵌入式领域的所有行业提供了一个具有竞争力的、基于 POSIX 的软件平台。
@@ -33,7 +33,7 @@ RT-Thread Smart 是一款专业的、高性能的微内核操作系统，用于�
 RT-Thread Smart 通过 MMU 和系统调用将系统分割为内核模式和用户模式，并为每种模式区分了地址空间（一个 32 位系统可以提供 4G 地址空间）。
 
 
-![RT-Thread Smart 架构](/Asserts/Images//attachment/album/202205/06/131929b6v8hbzh87v86siv.png "RT-Thread Smart architecture")
+![RT-Thread Smart 架构](/Asserts/Images/album/202205/06/131929b6v8hbzh87v86siv.png "RT-Thread Smart architecture")
 
 
 （RT-Thread, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)）

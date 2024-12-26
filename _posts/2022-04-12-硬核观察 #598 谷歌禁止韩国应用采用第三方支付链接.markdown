@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌商店,大型机,BIOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/06/164111n4f744u4egcaxshe.jpg)
+![](/Asserts/Images/album/202204/06/164111n4f744u4egcaxshe.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/06/164120ehhvqzvy7pxkzqxx.jpg)
+![](/Asserts/Images/album/202204/06/164120ehhvqzvy7pxkzqxx.jpg)
 
 
 ### 谷歌禁止韩国应用采用第三方支付链接
@@ -27,7 +27,7 @@ tags:	[linuxcn,谷歌商店,大型机,BIOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/06/164130t4r3xewwxcrdxrww.jpg)
+![](/Asserts/Images/album/202204/06/164130t4r3xewwxcrdxrww.jpg)
 
 
 ### IBM 发布了最新的大型机 z16
@@ -44,7 +44,7 @@ tags:	[linuxcn,谷歌商店,大型机,BIOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/06/164145cmgxe9z09gnaz02m.jpg)
+![](/Asserts/Images/album/202204/06/164145cmgxe9z09gnaz02m.jpg)
 
 
 ### Fedora 开发团队正考虑放弃对非 UEFI BIOS 的支持

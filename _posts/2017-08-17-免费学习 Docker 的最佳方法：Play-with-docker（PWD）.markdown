@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/22/141737c0buuo823dfyzxoz.jpg)
+![](/Asserts/Images/album/201708/22/141737c0buuo823dfyzxoz.jpg)
 
 
 去年在柏林的分布式系统峰会上，Docker 的负责人 [Marcos Nils](https://www.twitter.com/marcosnils) 和 [Jonathan Leibiusky](https://www.twitter.com/xetorthio) 宣称已经开始研究浏览器内置 Docker 的方案，帮助人们学习 Docker。 几天后，[Play-with-docker](http://play-with-docker.com/)（PWD）就诞生了。
@@ -38,7 +38,7 @@ PWD 像是一个 Docker 游乐场，用户在几秒钟内就可以运行 Docker 
 随着 PWD 成功的成长，社区开始问他们是否可以使用 PWD 来运行自己的 Docker 研讨会和培训。 因此，对项目进行的第一次改进之一就是创建 [PWD Docker Machine 驱动](https://github.com/play-with-docker/docker-machine-driver-pwd/releases/tag/v0.0.5)，从而用户可以通过自己喜爱的终端轻松创建管理 PWD 主机，包括使用 SSH 相关命令的选项。 下面是它的工作原理：
 
 
-![Play With Docker](/Asserts/Images//attachment/album/201708/22/141830o5beyvabi2i161w2.gif)
+![Play With Docker](/Asserts/Images/album/201708/22/141830o5beyvabi2i161w2.gif)
 
 
 #### 2、 支持文件上传
@@ -47,7 +47,7 @@ PWD 像是一个 Docker 游乐场，用户在几秒钟内就可以运行 Docker 
 Marcos 和 Jonathan 还带来了另一个炫酷的功能就是可以在 PWD 实例中通过拖放文件的方式将 Dockerfile 直接上传到 PWD 窗口。
 
 
-![](/Asserts/Images//attachment/album/201708/22/141838yg4jvqggv4vddvcg.gif)
+![](/Asserts/Images/album/201708/22/141838yg4jvqggv4vddvcg.gif)
 
 
 #### 3、 模板会话
@@ -56,7 +56,7 @@ Marcos 和 Jonathan 还带来了另一个炫酷的功能就是可以在 PWD 实�
 除了文件上传之外，PWD 还有一个功能，可以使用预定义的模板在几秒钟内启动 5 个节点的群集。
 
 
-![Play with Docker](/Asserts/Images//attachment/album/201708/22/141901xw8q5mqu07m1r8wb.gif)
+![Play with Docker](/Asserts/Images/album/201708/22/141901xw8q5mqu07m1r8wb.gif)
 
 
 #### 4、 一键使用 Docker 展示你的应用程序
@@ -65,7 +65,7 @@ Marcos 和 Jonathan 还带来了另一个炫酷的功能就是可以在 PWD 实�
 PWD 附带的另一个很酷的功能是它的内嵌按钮，你可以在你的站点中使用它来设置 PWD 环境，并快速部署一个构建好的堆栈，另外还有一个 [chrome 扩展](https://chrome.google.com/webstore/detail/play-with-docker/kibbhpioncdhmamhflnnmfonadknnoan) ，可以将 “Try in PWD” 按钮添加 DockerHub 最流行的镜像中。 以下是扩展程序的一个简短演示：
 
 
-![Play with Docker](/Asserts/Images//attachment/album/201708/22/141902r7794c409jbk0c7m.gif)
+![Play with Docker](/Asserts/Images/album/201708/22/141902r7794c409jbk0c7m.gif)
 
 
 ### PWD 培训站点

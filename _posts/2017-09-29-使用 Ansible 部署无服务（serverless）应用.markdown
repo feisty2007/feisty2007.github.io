@@ -15,7 +15,7 @@ tags:	[linuxcn,serverless,无服务,Ansible]
 > 
 
 
-![](/Asserts/Images//attachment/album/201709/05/223609d2d6dxaevxo2466a.jpg)
+![](/Asserts/Images/album/201709/05/223609d2d6dxaevxo2466a.jpg)
 
 
 [Ansible](https://www.ansible.com/) 被设计为实际工作中的最简化的部署工具。这意味着它不是一个完整的编程语言。你需要编写定义任务的 YAML 模板，并列出任何需要自动完成的任务。

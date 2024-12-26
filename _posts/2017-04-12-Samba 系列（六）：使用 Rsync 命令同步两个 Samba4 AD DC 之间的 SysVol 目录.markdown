@@ -7,7 +7,7 @@ tags:	[linuxcn,Samba]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/08/102924a87i7t2do373z77f.jpg)
+![](/Asserts/Images/album/201704/08/102924a87i7t2do373z77f.jpg)
 
 
 这篇文章讲的是在两个 **Samba4 活动目录域控制器**之间，通过一些强大的 Linux 工具来完成 SysVol 的复制操作，比如 [Rsync 数据同步工具](http://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)，[Cron 任务调度进程](http://www.tecmint.com/11-cron-scheduling-task-examples-in-linux/)和 [SSH 协议](http://www.tecmint.com/5-best-practices-to-secure-and-protect-ssh-server/)。
@@ -73,7 +73,7 @@ pool ntp.ubuntu.com
 
 ```
 
-![Configure NTP for Samba4](/Asserts/Images//attachment/album/201704/08/103221g0z6aph1v4x7wm0m.png)
+![Configure NTP for Samba4](/Asserts/Images/album/201704/08/103221g0z6aph1v4x7wm0m.png)
 
 
 *Samba4 配置 NTP 服务*
@@ -99,7 +99,7 @@ ntpsigndsocket /var/lib/samba/ntp_signd/
 
 ```
 
-![Synchronize NTP Time with Samba4 AD](/Asserts/Images//attachment/album/201704/08/103221fuebr7rrtgbnsmve.png)
+![Synchronize NTP Time with Samba4 AD](/Asserts/Images/album/201704/08/103221fuebr7rrtgbnsmve.png)
 
 
 *与 Samba4 AD 同步 NTP 时间*
@@ -138,7 +138,7 @@ ntpsigndsocket /var/lib/samba/ntp_signd/
 
 ```
 
-![Generate SSH Key on Samba4 DC](/Asserts/Images//attachment/album/201704/08/103222syu0h29525bw5259.png)
+![Generate SSH Key on Samba4 DC](/Asserts/Images/album/201704/08/103222syu0h29525bw5259.png)
 
 
 *在 Samba4 DC 服务器上生成 SSH 密钥*
@@ -162,7 +162,7 @@ ntpsigndsocket /var/lib/samba/ntp_signd/
 
 ```
 
-![Samba4 AD DC SysVol Replication](/Asserts/Images//attachment/album/201704/08/103223jvshyuhxsybdxa8n.png)
+![Samba4 AD DC SysVol Replication](/Asserts/Images/album/201704/08/103223jvshyuhxsybdxa8n.png)
 
 
 *Samba4 AD DC SysVol 复制*
@@ -180,7 +180,7 @@ ntpsigndsocket /var/lib/samba/ntp_signd/
 
 ```
 
-![Verify Samba4 DC SysVol Replication](/Asserts/Images//attachment/album/201704/08/103224mz6m7c69u8kzu78x.png)
+![Verify Samba4 DC SysVol Replication](/Asserts/Images/album/201704/08/103224mz6m7c69u8kzu78x.png)
 
 
 *验证 Samba4 DC SysVol 复制结果是否正常*
@@ -214,7 +214,7 @@ ntpsigndsocket /var/lib/samba/ntp_signd/
 
 ```
 
-![Fix SysVol ACL Permissions](/Asserts/Images//attachment/album/201704/08/103224e0qzixgqqim3xaik.png)
+![Fix SysVol ACL Permissions](/Asserts/Images/album/201704/08/103224e0qzixgqqim3xaik.png)
 
 
 *修复 SysVol ACL 权限问题*
@@ -223,13 +223,13 @@ ntpsigndsocket /var/lib/samba/ntp_signd/
 11、如果第一个 **Samba4 AD DC** 的 **FSMO** 角色，即“PDC 模拟器”不可用，你可以强制 **Microsoft Windows** 系统上的**组策略管理控制台**只连接到第二个域控制器，通过选择更改域控制器选项和手动选择目标机器，如下图所示。
 
 
-![Change Samba4 Domain Controller](/Asserts/Images//attachment/album/201704/08/103225tb99bfkdcjjrfijk.png)
+![Change Samba4 Domain Controller](/Asserts/Images/album/201704/08/103225tb99bfkdcjjrfijk.png)
 
 
 *更改 Samba4 域控制器*
 
 
-![Select Samba4 Domain Controller](/Asserts/Images//attachment/album/201704/08/103225c4wu3uxz0cux11ux.png)
+![Select Samba4 Domain Controller](/Asserts/Images/album/201704/08/103225c4wu3uxz0cux11ux.png)
 
 
 *选择 Samba4 域控制器*

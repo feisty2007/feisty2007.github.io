@@ -7,7 +7,7 @@ tags:	[linuxcn,词典]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/22/120052z1e0bg1ynyanors2.jpg)
+![](/Asserts/Images/album/202301/22/120052z1e0bg1ynyanors2.jpg)
 
 
 
@@ -36,7 +36,7 @@ tags:	[linuxcn,词典]
 Wordbook 应用还可以使用 [eSpeak](https://espeak.sourceforge.net/) – 一个自由开源的语音合成器来发音。
 
 
-![Wordbook - 英译英词典应用](/Asserts/Images//attachment/album/202301/22/120117adi2ehgh0b7db77y.jpg)
+![Wordbook - 英译英词典应用](/Asserts/Images/album/202301/22/120117adi2ehgh0b7db77y.jpg)
 
 
 然而，在第一次运行时，它需要一次性上网，以下载离线数据。仅此而已。其他值得注意的功能包括实时搜索、双击搜索和带有 HTML 标记的自定义定义。

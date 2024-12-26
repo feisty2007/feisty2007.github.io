@@ -15,7 +15,7 @@ tags:	[linuxcn,键盘,自动化]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/30/111130s7ffji6cmb7rkcfx.jpg "Linux keys on the keyboard for a desktop computer")
+![](/Asserts/Images/album/202104/30/111130s7ffji6cmb7rkcfx.jpg "Linux keys on the keyboard for a desktop computer")
 
 
 [AutoKey](https://github.com/autokey/autokey) 是一个开源的 Linux 桌面自动化工具，一旦它成为你工作流程的一部分，你就会想，如何没有它，那该怎么办。它可以成为一种提高生产率的变革性工具，或者仅仅是减少与打字有关的身体压力的一种方式。
@@ -60,7 +60,7 @@ autokey-gtk -c
 AutoKey 提供了一些预设配置的示例。你可能希望在熟悉 UI 时将他们留作备用，但是可以根据需要删除它们。
 
 
-![AutoKey 用户界面](/Asserts/Images//attachment/album/202104/30/111205r73r3nn3wxar33nx.png "AutoKey UI")
+![AutoKey 用户界面](/Asserts/Images/album/202104/30/111205r73r3nn3wxar33nx.png "AutoKey UI")
 
 
 左侧窗格包含一个文件夹式的短语和脚本的层次结构。“<ruby> 短语 <rt>  Phrases </rt></ruby>” 代表要让 AutoKey 输入的文本。“<ruby> 脚本 <rt>  Scripts </rt></ruby>” 是动态的、程序化的等效项，可以使用 Python 编写，并且获得与键盘击键发送到活动窗口基本相同的结果。
@@ -72,7 +72,7 @@ AutoKey 提供了一些预设配置的示例。你可能希望在熟悉 UI 时�
 对配置满意后，你可能希望在登录时自动运行 AutoKey，这样就不必每次都启动它。你可以通过在 “<ruby> 首选项 <rt>  Preferences </rt></ruby>”菜单（“<ruby> 编辑 -&gt; 首选项 <rt>  Edit -&gt; Preferences” </rt></ruby>”）中勾选 “<ruby> 登录时自动启动 AutoKey <rt>  Automatically start AutoKey at login </rt></ruby>”进行配置。
 
 
-![登录时自动启动 AutoKey](/Asserts/Images//attachment/album/202104/30/111205wpjo49ophu724tt2.png "Automatically start AutoKey at login")
+![登录时自动启动 AutoKey](/Asserts/Images/album/202104/30/111205wpjo49ophu724tt2.png "Automatically start AutoKey at login")
 
 
 ### 使用 AutoKey 纠正常见的打字排版错误
@@ -96,7 +96,7 @@ AutoKey 提供了一些预设配置的示例。你可能希望在熟悉 UI 时�
 在弹出的对话框中，单击 “<ruby> 添加 <rt>  Add </rt></ruby>” 按钮，然后将 “gerp” 添加为新的缩写。勾选 “<ruby> 删除键入的缩写 <rt>  Remove typed abbreviation </rt></ruby>”；此选项让 AutoKey 将任何键入 “gerp” 一词的替换为 “grep”。请不要勾选“<ruby> 在键入单词的一部分时触发 <rt>  Trigger when typed as part of a word </rt></ruby>”，这样，如果你键入包含 “grep”的单词（例如 “fingerprint”），就不会尝试将其转换为 “fingreprint”。仅当将 “grep” 作为独立的单词键入时，此功能才有效。
 
 
-![在 AutoKey 中设置缩写](/Asserts/Images//attachment/album/202104/30/111206en1zhspvlnbjghlh.png "Set abbreviation in AutoKey")
+![在 AutoKey 中设置缩写](/Asserts/Images/album/202104/30/111206en1zhspvlnbjghlh.png "Set abbreviation in AutoKey")
 
 
 ### 限制对特定应用程序的更正
@@ -116,7 +116,7 @@ AutoKey 提供了一些预设配置的示例。你可能希望在熟悉 UI 时�
 这将自动填充窗口过滤器，可能的窗口类值为 `gnome-terminal-server.Gnome-terminal`。这足够了，因此单击 “OK”。
 
 
-![AutoKey 窗口过滤器](/Asserts/Images//attachment/album/202104/30/111206emyyozpeyy59coyc.png "AutoKey Window Filter")
+![AutoKey 窗口过滤器](/Asserts/Images/album/202104/30/111206emyyozpeyy59coyc.png "AutoKey Window Filter")
 
 
 ### 保存并测试

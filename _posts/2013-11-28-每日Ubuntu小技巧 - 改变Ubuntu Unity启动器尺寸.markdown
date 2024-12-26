@@ -25,19 +25,19 @@ Ubuntu启动器是Ubuntu Unity桌面的关键部分。启动器是一个布满�
 下面开始调整大小，点击右上角的齿轮按钮弹出菜单条，点击系统设置（System Settings...），如下图。
 
 
-![](/Asserts/Images//attachment/album/201311/11/201550pmzdyfyn69a7yn7s.png)
+![](/Asserts/Images/album/201311/11/201550pmzdyfyn69a7yn7s.png)
 
 
 接下来，选择 外观（Appearance）
 
 
-![](/Asserts/Images//attachment/album/201311/11/201551k5p4pzr444puifap.png)
+![](/Asserts/Images/album/201311/11/201551k5p4pzr444puifap.png)
 
 
 最后，使用滚动条来调整（增大\减小）启动器的图标尺寸。
 
 
-![](/Asserts/Images//attachment/album/201311/11/201551ojlulfrrwus4rqkg.png)
+![](/Asserts/Images/album/201311/11/201551ojlulfrrwus4rqkg.png)
 
 
 这个改变会被自动应用。记住，如果你想要继续作用默认尺寸，移动到48.

@@ -7,16 +7,16 @@ tags:	[linuxcn,Rust,.NET,挖矿]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/21/185801g4zg2vldevvoebgm.jpg)
+![](/Asserts/Images/album/202202/21/185801g4zg2vldevvoebgm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/21/185832icx21yyt6q3q77tt.jpg)
+![](/Asserts/Images/album/202202/21/185832icx21yyt6q3q77tt.jpg)
 
 
 ### Rust 不仅安全，而且至少节能 50%
 
 
-全球数据中心每年消耗约 [200 兆瓦时](https://www.iea.org/Asserts/Images/-and-statistics/charts/global-data-centre-energy-demand-by-data-centre-type-2010-2022)，大约占全球能源消耗的 1%。几年前 [有一项研究](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)，用 27 种不同的编程语言实现了 10 个基准问题，测量了其执行时间、能源消耗和峰值内存使用。C 和 Rust 在能源效率方面明显优于其他语言。事实上，它们的效率大约比 Java 高 50%，比 Python 高 98%。C 和 Rust 更有效率，这并不奇怪。令人震惊的是差异的大小。保守估计，广泛采用 C 和 Rust 可以减少 [50% 的计算能耗](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/)。
+全球数据中心每年消耗约 [200 兆瓦时](https://www.iea.org/data-and-statistics/charts/global-data-centre-energy-demand-by-data-centre-type-2010-2022)，大约占全球能源消耗的 1%。几年前 [有一项研究](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)，用 27 种不同的编程语言实现了 10 个基准问题，测量了其执行时间、能源消耗和峰值内存使用。C 和 Rust 在能源效率方面明显优于其他语言。事实上，它们的效率大约比 Java 高 50%，比 Python 高 98%。C 和 Rust 更有效率，这并不奇怪。令人震惊的是差异的大小。保守估计，广泛采用 C 和 Rust 可以减少 [50% 的计算能耗](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/)。
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,Rust,.NET,挖矿]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/21/185847oc41foofdeet5de8.jpg)
+![](/Asserts/Images/album/202202/21/185847oc41foofdeet5de8.jpg)
 
 
 ### .NET 发布二十周年
@@ -44,7 +44,7 @@ tags:	[linuxcn,Rust,.NET,挖矿]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/21/185903hoqox7fbpoq8sfvf.jpg)
+![](/Asserts/Images/album/202202/21/185903hoqox7fbpoq8sfvf.jpg)
 
 
 ### 英特尔公布其第一款“矿卡”细节

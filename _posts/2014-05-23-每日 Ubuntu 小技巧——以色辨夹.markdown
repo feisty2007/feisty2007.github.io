@@ -64,7 +64,7 @@ sudo apt-get update && sudo apt-get remove folder-color
 使用愉快！
 
 
-![](/Asserts/Images//attachment/album/201405/28/231851r3cizfvwp43ivkio.png)
+![](/Asserts/Images/album/201405/28/231851r3cizfvwp43ivkio.png)
 
 
 

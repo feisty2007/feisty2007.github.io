@@ -19,7 +19,7 @@ tags:	[linuxcn,十六进制]
 ### 5 个最好的十六进制编辑器
 
 
-![Best Hex Editors for Linux](/Asserts/Images//attachment/album/201903/13/110800o593krpnkn5jl5h5.jpg)
+![Best Hex Editors for Linux](/Asserts/Images/album/201903/13/110800o593krpnkn5jl5h5.jpg)
 
 
 **注意：**这里提到的十六进制编辑器没有特定的排名顺序。
@@ -28,7 +28,7 @@ tags:	[linuxcn,十六进制]
 #### 1、Bless Hex Editor
 
 
-![bless hex editor](/Asserts/Images//attachment/album/201903/13/110802x9khhfvkhxsssjes.jpg)
+![bless hex editor](/Asserts/Images/album/201903/13/110802x9khhfvkhxsssjes.jpg)
 
 
 **主要特点：**
@@ -53,7 +53,7 @@ Bless 是 Linux 上最流行的十六进制编辑器之一。你可以在应用�
 #### 2、GNOME Hex Editor
 
 
-![gnome hex editor](/Asserts/Images//attachment/album/201903/13/110804juktzm9jmufhl2zi.jpg)
+![gnome hex editor](/Asserts/Images/album/201903/13/110804juktzm9jmufhl2zi.jpg)
 
 
 **主要特点：**
@@ -75,7 +75,7 @@ Bless 是 Linux 上最流行的十六进制编辑器之一。你可以在应用�
 #### 3、Okteta
 
 
-![okteta](/Asserts/Images//attachment/album/201903/13/110806d6zyh9x9a9nxyxn6.jpg)
+![okteta](/Asserts/Images/album/201903/13/110806d6zyh9x9a9nxyxn6.jpg)
 
 
 **主要特点：**
@@ -99,7 +99,7 @@ Okteta 是一个简单的十六进制编辑器，没有那么奇特的功能。�
 #### 4、wxHexEditor
 
 
-![wxhexeditor](/Asserts/Images//attachment/album/201903/13/110807ssrdfoizpivittfz.jpg)
+![wxhexeditor](/Asserts/Images/album/201903/13/110807ssrdfoizpivittfz.jpg)
 
 
 **主要特点：**
@@ -123,7 +123,7 @@ Okteta 是一个简单的十六进制编辑器，没有那么奇特的功能。�
 #### 5、Hexedit (命令行工具)
 
 
-![hexedit](/Asserts/Images//attachment/album/201903/13/110810k5jyctcdbjrc3bj3.jpg)
+![hexedit](/Asserts/Images/album/201903/13/110810k5jyctcdbjrc3bj3.jpg)
 
 
 **主要特点：**
@@ -168,10 +168,10 @@ sudo apt install hexedit
 上图：
 
 
-![](/Asserts/Images//attachment/album/201903/13/110814oz1yp1ty8bytyvh2.png)
+![](/Asserts/Images/album/201903/13/110814oz1yp1ty8bytyvh2.png)
 
 
-![](/Asserts/Images//attachment/album/201903/13/110815ows1ygsh3iynaqnz.png)
+![](/Asserts/Images/album/201903/13/110815ows1ygsh3iynaqnz.png)
 
 
 它不仅支持各种 Linux 发行版，还支持 MacOS、FreeBSD、Windows，请自行去其[项目页](https://github.com/sharkdp/hexyl)选用，

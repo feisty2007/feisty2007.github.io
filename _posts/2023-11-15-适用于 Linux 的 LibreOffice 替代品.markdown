@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/30/080855bo0k9rdtpkssi0px.png)
+![](/Asserts/Images/album/202311/30/080855bo0k9rdtpkssi0px.png)
 
 
 
@@ -62,7 +62,7 @@ LibreOffice 是一个出色的开源文档套件。它预装在许多 Linux 发�
 ### 2、Apache OpenOffice
 
 
-![](/Asserts/Images//attachment/album/202311/30/081024f0yu6e3n8izvju3g.png)
+![](/Asserts/Images/album/202311/30/081024f0yu6e3n8izvju3g.png)
 
 
 LibreOffice 分支自 [Apache OpenOffice](https://www.openoffice.org/)。
@@ -96,7 +96,7 @@ OpenOffice 不像 LibreOffice 那样得到积极维护，但你可以期待每�
 ### 3、CryptPad
 
 
-![](/Asserts/Images//attachment/album/202311/30/080928m1zaf68o6g18ux5g.png)
+![](/Asserts/Images/album/202311/30/080928m1zaf68o6g18ux5g.png)
 
 
 [CryptPad](https://cryptpad.org/) 是一款仅在线使用的开源协作套件，可作为 LibreOffice 的替代品满足基本需求。他们还在改进支持文档/演示文稿的功能，就像谷歌文档一样。
@@ -123,7 +123,7 @@ OpenOffice 不像 LibreOffice 那样得到积极维护，但你可以期待每�
 ### 4、SoftMaker FreeOffice（非自由和开源软件）
 
 
-![](/Asserts/Images//attachment/album/202311/30/081037eupjjaprf5u3fr3r.png)
+![](/Asserts/Images/album/202311/30/081037eupjjaprf5u3fr3r.png)
 
 
 SoftMaker 的 [FreeOffice](https://www.freeoffice.com/en/) 是一个适用于 Linux 和其他平台的专有文档套件。
@@ -150,7 +150,7 @@ SoftMaker 的 [FreeOffice](https://www.freeoffice.com/en/) 是一个适用于 Li
 ### 5、WPS Office（非自由/开源软件）
 
 
-![](/Asserts/Images//attachment/album/202311/30/080929hjjaky9tjvujs1a3.png)
+![](/Asserts/Images/album/202311/30/080929hjjaky9tjvujs1a3.png)
 
 
 WPS Office 对 Windows 用户而言很流行，它也适用于 Linux。
@@ -181,7 +181,7 @@ WPS Office 对 Windows 用户而言很流行，它也适用于 Linux。
 ### 6、Calligra
 
 
-![](/Asserts/Images//attachment/album/202311/30/080930b6s1gpzp654c2zdp.png)
+![](/Asserts/Images/album/202311/30/080930b6s1gpzp654c2zdp.png)
 
 
 [Calligra](https://calligra.org/) 是一个 KDE 办公套件。它可能不如 LibreOffice 功能丰富，但它是一个更简单的替代方案。

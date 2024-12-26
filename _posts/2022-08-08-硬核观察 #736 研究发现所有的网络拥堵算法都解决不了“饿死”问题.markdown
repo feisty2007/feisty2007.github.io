@@ -7,10 +7,10 @@ tags:	[linuxcn,跟踪,TikTok,拥塞控制]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/22/183904m11op76uzm66wu46.jpg)
+![](/Asserts/Images/album/202208/22/183904m11op76uzm66wu46.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/22/183904yggalapczpa6fg82.jpg)
+![](/Asserts/Images/album/202208/22/183904yggalapczpa6fg82.jpg)
 
 
 ### 研究发现所有的网络拥塞控制算法都可能是非常不公平的
@@ -35,7 +35,7 @@ tags:	[linuxcn,跟踪,TikTok,拥塞控制]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/22/183913yfc0r07cumctc0le.jpg)
+![](/Asserts/Images/album/202208/22/183913yfc0r07cumctc0le.jpg)
 
 
 ### TikTok 否认内置浏览器记录用户输入
@@ -60,7 +60,7 @@ tags:	[linuxcn,跟踪,TikTok,拥塞控制]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/22/183927f37exo2n2ft7tnto.jpg)
+![](/Asserts/Images/album/202208/22/183927f37exo2n2ft7tnto.jpg)
 
 
 ### 美国绝大部分雇主正在跟踪员工的生产力

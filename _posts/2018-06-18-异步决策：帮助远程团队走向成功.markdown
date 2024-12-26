@@ -15,7 +15,7 @@ tags:	[linuxcn,决策]
 > 
 
 
-![](/Asserts/Images//attachment/album/201806/03/171213hlgf9fz879w8k9xl.png)
+![](/Asserts/Images/album/201806/03/171213hlgf9fz879w8k9xl.png)
 
 
 异步决策能够让地理和文化上分散的软件团队更有效率地做出决策。本文就将讨论一下实现异步决策所需要的一些原则和工具。

@@ -7,7 +7,7 @@ tags:	[linuxcn,文件,删除,Shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/24/151307gi7yvhtpoybdb6pk.jpg)
+![](/Asserts/Images/album/201406/24/151307gi7yvhtpoybdb6pk.jpg)
 
 
 我是一名Linux新用户。现在我需要清理一个下载目录中的文件，其实我就是想从～/Download/文件夹删去除了以下格式的文件外所以其它文件：

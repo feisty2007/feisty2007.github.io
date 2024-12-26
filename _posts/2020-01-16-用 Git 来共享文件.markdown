@@ -15,7 +15,7 @@ tags:	[linuxcn,Git]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/10/113645qb2ufvuu2ttimugv.png)
+![](/Asserts/Images/album/202001/10/113645qb2ufvuu2ttimugv.png)
 
 
 [Git](https://git-scm.com/) 是一个少有的能将如此多的现代计算封装到一个程序之中的应用程序，它可以用作许多其他应用程序的计算引擎。虽然它以跟踪软件开发中的源代码更改而闻名，但它还有许多其他用途，可以让你的生活更轻松、更有条理。在这个 Git 系列中，我们将分享七种鲜为人知的使用 Git 的方法。
@@ -69,19 +69,19 @@ SparkleShare 可以使用你能访问的任何 Git 存储库进行存储，因�
 首先，在托管服务中找到创建新项目或存储库的按钮，单击它以开始。然后逐步完成存储库的创建过程，为存储库提供名称、隐私级别（存储库通常默认为公共），以及是否使用 `README` 文件初始化存储库。无论你是否需要个 `README` 文件，请初始化建立一个。使用一个文件来创建存储库不是绝对必要的，但是它会强制 Git 主机实例化存储库中的 `master` 分支，这有助于确保前端应用程序（例如 SparkleShare）具有要提交并推送的分支。即使文件是几乎空的 `README` 文件，也可以用来查看该文件以确认你已连接成功。
 
 
-![Creating a Git repository](/Asserts/Images//attachment/album/202001/10/113823cmb5wm5z871fjdoe.jpg "Creating a Git repository")
+![Creating a Git repository](/Asserts/Images/album/202001/10/113823cmb5wm5z871fjdoe.jpg "Creating a Git repository")
 
 
 创建存储库后，获取其用于 SSH 克隆的 URL。就像从 Git 项目获得其 URL 一样，你也可以获取此 URL：导航至存储库页面并查找 “Clone” 按钮或字段。
 
 
-![Cloning a URL on GitHub](/Asserts/Images//attachment/album/202001/10/113825pwdydttne70rjruy.jpg "Cloning a URL on GitHub")
+![Cloning a URL on GitHub](/Asserts/Images/album/202001/10/113825pwdydttne70rjruy.jpg "Cloning a URL on GitHub")
 
 
 *GitHub 的克隆 URL。*
 
 
-![Cloning a URL on GitLab](/Asserts/Images//attachment/album/202001/10/113826a9ue0ee8csbebkar.jpg "Cloning a URL on GitLab")
+![Cloning a URL on GitLab](/Asserts/Images/album/202001/10/113826a9ue0ee8csbebkar.jpg "Cloning a URL on GitLab")
 
 
 *GitLab 的克隆 URL。*
@@ -147,7 +147,7 @@ $ dazzle create sparkly
 下一个屏幕提示你选择主机类型。如果你使用的是 GitLab、GitHub、Planio 或 Bitbucket，则可以选择一个适当的。否则，请选择“自己的服务器”。
 
 
-![Choosing a Sparkleshare host](/Asserts/Images//attachment/album/202001/10/113828t1yvjjgsqg126uju.jpg "Choosing a Sparkleshare host")
+![Choosing a Sparkleshare host](/Asserts/Images/album/202001/10/113828t1yvjjgsqg126uju.jpg "Choosing a Sparkleshare host")
 
 
 在此屏幕底部，你必须输入 SSH 的克隆 URL。如果你是自托管的 Git，则地址类似于 `<ssh://username@example.com>`，而远程路径是为此目的而创建的 Git 存储库的绝对路径。
@@ -162,7 +162,7 @@ $ dazzle create sparkly
 SparkleShare 首次尝试连接到主机时会失败，因为你尚未将 SparkleShare 客户端 ID（特定于 SparkleShare 应用程序的 SSH 密钥）复制到 Git 主机。这是预料之中的，所以不要取消该过程。将 SparkleShare 设置窗口保持打开状态，并从系统任务栏中的 SparkleShare 图标处获取客户端 ID。然后将客户端 ID 复制到剪贴板，以便可以将其添加到 Git 主机。
 
 
-![Getting the client ID from Sparkleshare](/Asserts/Images//attachment/album/202001/10/113829b6sfd5bxnlfre1fx.jpg "Getting the client ID from Sparkleshare")
+![Getting the client ID from Sparkleshare](/Asserts/Images/album/202001/10/113829b6sfd5bxnlfre1fx.jpg "Getting the client ID from Sparkleshare")
 
 
 #### 将你的客户端 ID 添加到托管的 Git 帐户
@@ -171,7 +171,7 @@ SparkleShare 首次尝试连接到主机时会失败，因为你尚未将 Sparkl
 除了较小的 UI 差异外，在任何托管服务上添加 SSH 密钥（所有客户端 ID 都是这样）的过程基本上是相同的。在你的 Git 主机的 Web 仪表板中，导航到你的用户设置，然后找到 “SSH 密钥”类别。单击“添加新密钥”按钮（或类似按钮），然后粘贴你的 SparkleShare 客户端 ID 的内容。
 
 
-![Adding an SSH key](/Asserts/Images//attachment/album/202001/10/113832skvkcyjgz11gklcc.jpg "Adding an SSH key")
+![Adding an SSH key](/Asserts/Images/album/202001/10/113832skvkcyjgz11gklcc.jpg "Adding an SSH key")
 
 
 保存密钥。如果你希望其他人（例如协作者或家庭成员）能够访问同一存储库，则他们必须向你提供其 SparkleShare 客户端 ID，以便你可以将其添加到帐户中。
@@ -203,13 +203,13 @@ $ dazzle link
 将客户端 ID 添加到 Git 主机后，在 SparkleShare 窗口中单击“重试”按钮以完成设置。克隆存储库完成后，你可以关闭 SparkleShare 设置窗口，并在你的家目录中找到一个新的 `SparkleShare` 文件夹。如果你设置了带有托管服务的 Git 存储库，并选择包括 `README` 文件或许可证文件，则可以在 SparkleShare 目录中看到它们。
 
 
-![Sparkleshare file manager](/Asserts/Images//attachment/album/202001/10/113834wdjmljld2cd2djl0.jpg "Sparkleshare file manager")
+![Sparkleshare file manager](/Asserts/Images/album/202001/10/113834wdjmljld2cd2djl0.jpg "Sparkleshare file manager")
 
 
 此外，有一些隐藏目录，你可以通过在文件管理器中显示隐藏目录来查看。
 
 
-![Showing hidden files in GNOME](/Asserts/Images//attachment/album/202001/10/113837xnvay9nyzy4wwyi4.jpg "Showing hidden files in GNOME")
+![Showing hidden files in GNOME](/Asserts/Images/album/202001/10/113837xnvay9nyzy4wwyi4.jpg "Showing hidden files in GNOME")
 
 
 使用 SparkleShare 的方式与使用计算机上任何目录的方式相同：将文件放入其中。每当将文件或目录放入 SparkleShare 文件夹时，它都会在后台复制到你的 Git 存储库。

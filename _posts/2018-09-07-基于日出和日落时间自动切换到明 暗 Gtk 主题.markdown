@@ -7,13 +7,13 @@ tags:	[linuxcn,主题]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/02/223426x8mw8f71f64jjfif.jpg)
+![](/Asserts/Images/album/201809/02/223426x8mw8f71f64jjfif.jpg)
 
 
 如果你在寻找一种基于日出和日落时间自动更改 Gtk 主题的简单方法，请尝试一下 [AutomaThemely](https://github.com/C2N14/AutomaThemely)。
 
 
-![](/Asserts/Images//attachment/album/201809/02/223131vngygzc55jccfyg8.png)
+![](/Asserts/Images/album/201809/02/223131vngygzc55jccfyg8.png)
 
 
 AutomaThemely 是一个 Python 程序，它可以根据光亮和黑暗时间自动更改 Gnome 主题，如果你想在夜间使用黑暗的 Gtk 主题并在白天使用明亮的 Gtk 主题，那么它非常有用。
@@ -25,7 +25,7 @@ AutomaThemely 是一个 Python 程序，它可以根据光亮和黑暗时间自�
 除了自动更改 Gtk3 主题外，**AutomaThemely 还可以自动切换 Atom 编辑器和 VSCode 的明暗主题，以及 Atom 编辑器的明暗语法高亮。**这显然也是基于一天中的时间完成的。
 
 
-![](/Asserts/Images//attachment/album/201809/02/223139j7tdmhqyhfyfdjdn.png)
+![](/Asserts/Images/album/201809/02/223139j7tdmhqyhfyfdjdn.png)
 
 
 *AutomaThemely Atom 和 VSCode 主题/语法设置*
@@ -75,7 +75,7 @@ automathemely
 使用 AutomaThemely 有点反直觉。你将在菜单中看到 AutomaThemely 图标，但单击它不会打开任何窗口/GUI。如果你使用支持列表跳转/快捷列表的 Gnome 或其他基于 Gnome 的桌面，你可以右键单击菜单中的 AutomaThemely 图标（或者你可以将其固定为 Dash/dock 并在那里右键单击它）并选择 Manage Settings 启动GUI：
 
 
-![](/Asserts/Images//attachment/album/201809/02/223148dd3dfennjjp2pdnh.png)
+![](/Asserts/Images/album/201809/02/223148dd3dfennjjp2pdnh.png)
 
 
 你还可以使用以下命令从命令行启动 AutomaThemely GUI：

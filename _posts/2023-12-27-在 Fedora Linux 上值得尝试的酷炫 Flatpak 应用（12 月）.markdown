@@ -7,7 +7,7 @@ tags:	[linuxcn,Flatpak]
 ---
 
 
-![Daimar Steiner 摄](/Asserts/Images//attachment/album/202312/10/174017x1hvhu5jhutyvyjc.jpg)
+![Daimar Steiner 摄](/Asserts/Images/album/202312/10/174017x1hvhu5jhutyvyjc.jpg)
 
 
 本文介绍了 Flathub 中可用的项目以及安装说明。
@@ -44,7 +44,7 @@ Live Captions 需要良好的硬件才能正常运行，但不需要专业的 GP
 该项目被标记为安全，因为它不需要特殊许可：
 
 
-![](/Asserts/Images//attachment/album/202312/10/174017vq5yj4okxcc9xcfj.png)
+![](/Asserts/Images/album/202312/10/174017vq5yj4okxcc9xcfj.png)
 
 
 你可以通过单击网站上的安装按钮或手动使用以下命令来安装 “Live Caption”：
@@ -74,7 +74,7 @@ flatpak install flathub net.sapples.LiveCaptions
 请注意，该项目被标记为“潜在不安全”，因为它可以访问你的文件系统：
 
 
-![](/Asserts/Images//attachment/album/202312/10/174017o5yqdlpndcoil56o.png)
+![](/Asserts/Images/album/202312/10/174017o5yqdlpndcoil56o.png)
 
 
 你可以通过单击网站上的安装按钮或手动使用以下命令来安装 “Pencil2D”：
@@ -107,7 +107,7 @@ flatpak install flathub org.pencil2d.Pencil2D
 请注意，该项目被标记为“潜在不安全”，因为它可以访问你的主文件夹：
 
 
-![](/Asserts/Images//attachment/album/202312/10/174017jx23ff1c0w2oc22f.png)
+![](/Asserts/Images/album/202312/10/174017jx23ff1c0w2oc22f.png)
 
 
 你可以通过单击网站上的安装按钮或手动使用以下命令来安装 “Frog”：
@@ -131,7 +131,7 @@ flatpak install flathub com.github.tenderowl.frog
 请注意，该项目被标记为“潜在不安全”，因为它可以访问你的文件系统：
 
 
-![](/Asserts/Images//attachment/album/202312/10/174018po8hcs4h11wkqzw1.png)
+![](/Asserts/Images/album/202312/10/174018po8hcs4h11wkqzw1.png)
 
 
 你可以通过单击网站上的安装按钮或使用以下命令手动安装 “PDF Arranger”：

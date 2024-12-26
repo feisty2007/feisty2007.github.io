@@ -7,13 +7,13 @@ tags:	[linuxcn,复制,WSL,勒索]
 ---
 
 
-![](/Asserts/Images//attachment/album/202104/22/204026rhiiq22ank265sie.jpg)
+![](/Asserts/Images/album/202104/22/204026rhiiq22ank265sie.jpg)
 
 
 ### 人们真正从 Stack Overflow 复制和粘贴的频率是多少？
 
 
-![](/Asserts/Images//attachment/album/202104/22/204123l7lt4rltl55arrj5.jpg)
+![](/Asserts/Images/album/202104/22/204123l7lt4rltl55arrj5.jpg)
 
 
 Stack Overflow 的灵感来自于其创始人对那些把编码问题的答案放在付费墙后面的网站的失望。因此，也一直有一种调侃说程序员从 Stack Overflow 网站上复制代码。现在，Stack Overflow 花了两周时间对在他们网站上按下 Ctrl-C 的行为进行[统计](https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/)。其中有些结果让人意外：
@@ -28,7 +28,7 @@ Stack Overflow 的灵感来自于其创始人对那些把编码问题的答案�
 ### WSL2 已提供对 GUI 应用程序的初步支持
 
 
-![](/Asserts/Images//attachment/album/202104/22/204122s7g7lrlm0pr7letl.jpg)
+![](/Asserts/Images/album/202104/22/204122s7g7lrlm0pr7letl.jpg)
 
 
 微软给这一功能起了一个名字叫 [WSLg](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)。这意味着我们不仅可以借助 WSL 来执行命令行程序，也能够在 Windows 10 上更好地运行跨平台的 Linux GUI 应用。对于开发者来说，这也方便了他们在 Linux 环境中对相关程序进行测试。WSL 上的 Linux GUI 应用程序，还提供了对音频 / 麦克风的开箱即用支持，以及对 GPU 加速的 3D 图形支持。
@@ -40,7 +40,7 @@ Stack Overflow 的灵感来自于其创始人对那些把编码问题的答案�
 ### 勒索软件组织向苹果勒索五千万美元
 
 
-![](/Asserts/Images//attachment/album/202104/22/204125o1ellifogotliot8.jpg)
+![](/Asserts/Images/album/202104/22/204125o1ellifogotliot8.jpg)
 
 
 为苹果公司代工 MacBooks 等产品的广达电脑公司遭到了勒索软件 REvil 的攻击，攻击者窃取了该公司现有和未来产品的工程制造图纸，索要五千万美元赎金。广达拒绝了这一要求，REvil 组织现在[将勒索目标对准了苹果公司](https://www.theverge.com/2021/4/21/22396283/apple-schematics-leak-ransomware-quanta-supplier-leak)，要求苹果在五月一日前支付五千万美元。它已公开的产品图纸是苹果刚刚宣布的新款 iMac。

@@ -7,7 +7,7 @@ tags:	[linuxcn,备份,同步,FreeFileSync]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/08/060245nbh3tj5tlhjtenx5.png)
+![](/Asserts/Images/album/201706/08/060245nbh3tj5tlhjtenx5.png)
 
 
 FreeFileSync 是一个自由、开源以及跨平台的文件夹对比及同步软件，它可以帮助你同步 Linux、Windows 和 Mac OS 中的文件和文件夹。
@@ -123,7 +123,7 @@ Comment:   Folder Comparison and Synchronization
 当你设置完成之后，点击 OK 创建。
 
 
-![Create Desktop Launcher](/Asserts/Images//attachment/album/201706/08/060254dox95899b88ibpx4.png)
+![Create Desktop Launcher](/Asserts/Images/album/201706/08/060254dox95899b88ibpx4.png)
 
 
 *创建桌面启动器*
@@ -144,7 +144,7 @@ $ ./FreeFileSync
 在 Ubuntu 中，在 Unity Dash 中搜索 FreeFileSync，然而在 Linux Mint 中，在 System Menu 中搜索，并点击 FreeFileSync 图标打开。
 
 
-![FreeFileSync ](/Asserts/Images//attachment/album/201706/08/060256lsszsaxoops7xs6a.png)
+![FreeFileSync ](/Asserts/Images/album/201706/08/060256lsszsaxoops7xs6a.png)
 
 
 *FreeFileSync*
@@ -166,7 +166,7 @@ Destination Folder: /media/aaronkilik/J_CPRA_X86F/scripts
 要比较文件时间以及两个文件夹的大小（默认设置），只要点击比较按钮。
 
 
-![Compare Two Folders in Linux](/Asserts/Images//attachment/album/201706/08/060257irjz7zrdri2rajmd.png)
+![Compare Two Folders in Linux](/Asserts/Images/album/201706/08/060257irjz7zrdri2rajmd.png)
 
 
 *在 Linux 中比较两个文件夹*
@@ -175,7 +175,7 @@ Destination Folder: /media/aaronkilik/J_CPRA_X86F/scripts
 通过下面的界面，可以在两个文件夹中按 `F6` 来更改要比较的内容：文件时间和大小、内容或文件大小。请注意，你选择的每个选项的含义也包括在内。
 
 
-![File Comparison Settings](/Asserts/Images//attachment/album/201706/08/060258lx2xawya32h2rx43.png)
+![File Comparison Settings](/Asserts/Images/album/201706/08/060258lx2xawya32h2rx43.png)
 
 
 *文件比较设置*
@@ -194,19 +194,19 @@ Destination Folder: /media/aaronkilik/Data/Tecmint
 
 ```
 
-![Compare and Synchronize Two Folders](/Asserts/Images//attachment/album/201706/08/060259vv74w8h9rv9v7hzr.png)
+![Compare and Synchronize Two Folders](/Asserts/Images/album/201706/08/060259vv74w8h9rv9v7hzr.png)
 
 
 *比较以及同步两个文件夹*
 
 
-![Start File Synchronization](/Asserts/Images//attachment/album/201706/08/060302ndisjesjkcukujce.png)
+![Start File Synchronization](/Asserts/Images/album/201706/08/060302ndisjesjkcukujce.png)
 
 
 *开始文件同步*
 
 
-![File Synchronization Completed](/Asserts/Images//attachment/album/201706/08/060303u33w7fzs7uvrrssg.png)
+![File Synchronization Completed](/Asserts/Images/album/201706/08/060303u33w7fzs7uvrrssg.png)
 
 
 *文件同步完成*
@@ -215,7 +215,7 @@ Destination Folder: /media/aaronkilik/Data/Tecmint
 在下面的界面中按下 `F8` 设置默认同步选项：two way、mirror、update 或 custom。每个选项的意义不言自明。
 
 
-![File Synchronization Settings](/Asserts/Images//attachment/album/201706/08/060304vjkjj8jupzjppjqy.png)
+![File Synchronization Settings](/Asserts/Images/album/201706/08/060304vjkjj8jupzjppjqy.png)
 
 
 *文件同步设置*

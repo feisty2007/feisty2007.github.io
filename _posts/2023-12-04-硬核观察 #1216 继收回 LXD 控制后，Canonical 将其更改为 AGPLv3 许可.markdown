@@ -7,10 +7,10 @@ tags:	[linuxcn,恶意软件,LXD,ActivityPub]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/15/100907w2azwlmbmmzqmtr2.jpg)
+![](/Asserts/Images/album/202312/15/100907w2azwlmbmmzqmtr2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/15/100920djdle98e9qkw62qu.png)
+![](/Asserts/Images/album/202312/15/100920djdle98e9qkw62qu.png)
 
 
 ### #1 继收回 LXD 控制后，Canonical 将其更改为 AGPLv3 许可
@@ -38,7 +38,7 @@ tags:	[linuxcn,恶意软件,LXD,ActivityPub]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/15/100945mwj7qzllaa7elaa2.png)
+![](/Asserts/Images/album/202312/15/100945mwj7qzllaa7elaa2.png)
 
 
 ### #2 Threads 开始测试 ActivityPub 整合
@@ -66,7 +66,7 @@ tags:	[linuxcn,恶意软件,LXD,ActivityPub]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/15/101003h113v8jvwlehjj3k.png)
+![](/Asserts/Images/album/202312/15/101003h113v8jvwlehjj3k.png)
 
 
 ### #3 恶意软件组织使用内存安全语言编写恶意软件
@@ -100,4 +100,4 @@ DLang 是过去几年来西方安全机构认可的新型内存安全语言之�
 * openSUSE [徽标大赛](/article-16450-1.html) 结束并选出获奖者：
 
 
-![](/Asserts/Images//attachment/album/202312/15/101109j6999k5mq9dkqe3b.png)
+![](/Asserts/Images/album/202312/15/101109j6999k5mq9dkqe3b.png)

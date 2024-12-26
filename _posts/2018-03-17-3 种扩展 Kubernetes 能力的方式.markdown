@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/27/104158hfucxmazdauauczy.png)
+![](/Asserts/Images/album/201803/27/104158hfucxmazdauauczy.png)
 
 
 Google 的工程总监 Chen Goldberg 在最近的奥斯汀 [KubeCon 和 CloudNativeCon](http://events17.linuxfoundation.org/events/kubecon-and-cloudnativecon-north-america)上说，Kubernetes 的扩展能力是它的秘密武器。

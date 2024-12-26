@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,ChatGPT,Copilot]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/29/162551dm3ti73vdovmjvbk.jpg)
+![](/Asserts/Images/album/202301/29/162551dm3ti73vdovmjvbk.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/29/162601r7vawpdrasfrp7sv.jpg)
+![](/Asserts/Images/album/202301/29/162601r7vawpdrasfrp7sv.jpg)
 
 
 ### 谷歌裁掉了很多重要的开源开发者
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,ChatGPT,Copilot]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/29/162637ntruo0jwttfssxz2.jpg)
+![](/Asserts/Images/album/202301/29/162637ntruo0jwttfssxz2.jpg)
 
 
 ### 沃顿商学院的副教授要求学生使用 ChatGPT
@@ -60,7 +60,7 @@ tags:	[linuxcn,谷歌,ChatGPT,Copilot]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/29/162706l6jfaayjby2f2aea.jpg)
+![](/Asserts/Images/album/202301/29/162706l6jfaayjby2f2aea.jpg)
 
 
 ### GitHub 质疑对 Copilot 滥用开源代码的指控

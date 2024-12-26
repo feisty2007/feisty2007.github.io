@@ -10,7 +10,7 @@ tags:	[linuxcn,广告,Revive,Adserver]
 Revive Adserver是一个自由开源的广告管理系统，能使出版商，广告平台和广告商在网页、应用、视频上投放并管理广告的系统。Revive Adserver以前叫做OpenX Source，遵循GNU通用公共授权协议。它集广告管理、网站定位、地理定位和一个用于数据收集的跟踪系统于一体。能使网站站长管理内部的、付费的以及第三方来源的广告，如谷歌的AdSense。本教程中，将会教会你在Ubuntu 15.04或CentOS 7安装并运行Revive Adserver。
 
 
-![](/Asserts/Images//attachment/album/201602/11/205919p645kkp4wm0hffwu.png)
+![](/Asserts/Images/album/201602/11/205919p645kkp4wm0hffwu.png)
 
 
 ### 1. 安装LAMP
@@ -130,7 +130,7 @@ Thanks for using MariaDB!
 
 ```
 
-![Configuring MariaDB](/Asserts/Images//attachment/album/201602/11/205923ivqgqhhtqwql6hq6.png)
+![Configuring MariaDB](/Asserts/Images/album/201602/11/205923ivqgqhhtqwql6hq6.png)
 
 
 ### 4. 创建新的数据库
@@ -158,7 +158,7 @@ Thanks for using MariaDB!
 
 ```
 
-![Creating Mariadb Revive Database](/Asserts/Images//attachment/album/201602/11/205925qr2awbzdxxpkbfta.png)
+![Creating Mariadb Revive Database](/Asserts/Images/album/201602/11/205925qr2awbzdxxpkbfta.png)
 
 
 ### 5. 下载Revive Adserver
@@ -238,7 +238,7 @@ CustomLog /var/log/apache2/reviveads.linoxide.com-access_log common
 
 ```
 
-![Configuring Apache2 Ubuntu](/Asserts/Images//attachment/album/201602/11/205926mh7q03wa6a13w8zi.png)
+![Configuring Apache2 Ubuntu](/Asserts/Images/album/201602/11/205926mh7q03wa6a13w8zi.png)
 
 
 保存并退出，重启Apache Web服务：
@@ -282,7 +282,7 @@ CustomLog /var/log/httpd/reviveads.linoxide.com-access_log common
 
 ```
 
-![Configuring httpd Centos](/Asserts/Images//attachment/album/201602/11/205926w04zw0a7sj0xa4sj.png)
+![Configuring httpd Centos](/Asserts/Images/album/201602/11/205926w04zw0a7sj0xa4sj.png)
 
 
 保存并退出，重启Apache Web服务：
@@ -354,7 +354,7 @@ success
 在下一页中，我们要输入数据库信息以便把Revive Adserver和MariaDB数据库服务连接起来。要输入之前设置的数据库名称，用户名以及密码。在本教程中，我们分别输入数据库名称为revivedb，用户名为reviveuser，密码为Pa$$worD123,并且令主机名为localhost，点击continue继续。
 
 
-![Configuring Revive Adserver](/Asserts/Images//attachment/album/201602/11/205927t5n1fd08itthtdtd.png)
+![Configuring Revive Adserver](/Asserts/Images/album/201602/11/205927t5n1fd08itthtdtd.png)
 
 
 输入要填的信息，如：管理员用户名，密码和邮箱。可以以这些信息登录Adserver的控制界面。然后跳到最后一页，可以看到Revive Adserver已经安装成功了。

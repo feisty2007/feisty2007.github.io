@@ -7,7 +7,7 @@ tags:	[linuxcn,气候,OCW]
 ---
 
 
-![Explore climate data with open source tools](/Asserts/Images//attachment/album/201703/29/170238doebe08cvn50oni0.png "Explore climate data with open source tools")
+![Explore climate data with open source tools](/Asserts/Images/album/201703/29/170238doebe08cvn50oni0.png "Explore climate data with open source tools")
 
 
 如今你看地球上的任何地方，都可以找到天气变化的证据，每个月，无论是事实还是数据都在向我们诠释一点 —— 全球变暖。
@@ -37,7 +37,7 @@ Open Climate Workbench （缩写 OCW） 开发该软件，对来自 [<ruby> 地�
 **用户名：vagrant，密码：vagrant。**
 
 
-![Regional Climate Model Evaluation System Data Plot](/Asserts/Images//attachment/album/201703/29/170239iz8js8hy2uokuleu.png "Regional Climate Model Evaluation System Data Plot")
+![Regional Climate Model Evaluation System Data Plot](/Asserts/Images/album/201703/29/170239iz8js8hy2uokuleu.png "Regional Climate Model Evaluation System Data Plot")
 
 
 *RCMES 数据样图*

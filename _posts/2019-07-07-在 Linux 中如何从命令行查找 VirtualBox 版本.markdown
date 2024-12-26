@@ -7,7 +7,7 @@ tags:	[linuxcn,VirtualBox]
 ---
 
 
-![FInd Virtualbox version from commandline In Linux](/Asserts/Images//attachment/album/201907/14/150821ufgf8hd4jleoxepl.png)
+![FInd Virtualbox version from commandline In Linux](/Asserts/Images/album/201907/14/150821ufgf8hd4jleoxepl.png)
 
 
 我使用 Oracle VirtualBox 和 [KVM](https://www.ostechnix.com/setup-headless-virtualization-server-using-kvm-ubuntu/) 虚拟化程序[测试不同的 Linux 操作系统](https://www.ostechnix.com/test-100-linux-and-unix-operating-systems-online-for-free/)。虽然我偶尔使用 KVM，但 Virtualbox 始终是我的首选。不是因为我不喜欢 KVM，而是因为我只是习惯了 VirtualBox。当在我的 Ubuntu 无头服务器上使用 [Virtualbox](https://www.ostechnix.com/install-oracle-virtualbox-ubuntu-16-04-headless-server/) 时，我需要知道 VirtualBox 的版本。如果它有 GUI，我可以进入 Virtualbox -> About -> Help 轻松找到它。但我的是没有 GUI 的 Ubuntu 服务器。如果你想知道如何在 Linux 中从命令行查找 VirtualBox 版本，可以采用以下几种方法。
@@ -32,7 +32,7 @@ $ vboxmanage --version
 5.2.18_Ubuntur123745
 ```
 
-![](/Asserts/Images//attachment/album/201907/14/150822esgd1wmn5d9n89q1.png)
+![](/Asserts/Images/album/201907/14/150822esgd1wmn5d9n89q1.png)
 
 
 *在 Linux 中从命令行查找 Virtualbox 版本*

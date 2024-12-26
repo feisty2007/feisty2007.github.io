@@ -7,7 +7,7 @@ tags:	[linuxcn,FOAF,Facebook]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/10/112053vbi9icvy6xxuv6h9.jpg)
+![](/Asserts/Images/album/202212/10/112053vbi9icvy6xxuv6h9.jpg)
 
 
 

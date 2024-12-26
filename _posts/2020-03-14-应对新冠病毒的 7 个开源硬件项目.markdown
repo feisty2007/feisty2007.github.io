@@ -15,7 +15,7 @@ tags:	[linuxcn,开源硬件,新冠病毒]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/29/103909f50gm91z22twuv23.jpg)
+![](/Asserts/Images/album/202003/29/103909f50gm91z22twuv23.jpg)
 
 
 开源[硬件](https://opensource.com/resources/what-open-hardware)运动长期以来一直主张维修权的重要性，完全拥有所购买的技术，并能够像音乐一样重新组合和复制部件。因此，在这个充满挑战的时期内，开源硬件为由冠状病毒大流行引起的一些问题提供了一些答案。
@@ -99,7 +99,7 @@ Tyson 明白情况的紧迫性和严重性。使用合同的这种选择并不�
 [Opentrons](https://opentrons.com/) 的开源实验室自动化平台由一套开源硬件、经过验证的实验室器具、消耗品、试剂和工作站组成。Opentrons 表示，其产品可以“在下订单后几天内每天自动进行多达 2400 个测试”的系统，可以极大地帮助提高[新冠病毒测试规模](https://blog.opentrons.com/testing-for-covid-19-with-opentrons/)。它计划在 7 月 1 日之前提升到多达 100 万个测试样本。
 
 
-![Opentrons roadmap graphic](/Asserts/Images//attachment/album/202003/29/103949in4g7ota2rmne24r.png "Opentrons roadmap graphic")
+![Opentrons roadmap graphic](/Asserts/Images/album/202003/29/103949in4g7ota2rmne24r.png "Opentrons roadmap graphic")
 
 
 *来自 Opentrons [网站](https://blog.opentrons.com/testing-for-covid-19-with-opentrons/)，版权所有*
@@ -120,7 +120,7 @@ Chai 的 [Open qPCR](https://www.chaibio.com/openqpcr) 设备使用[聚合酶链
 [OpenPCR](https://openpcr.org/) 是 Chai Open qPCR 的创建者 Josh Perfetto 和 Jessie Ho 的 PCR 测试设备套件。与他们的前一个项目相比，这更像是一种 DIY 开源设备，但它具有相同的使用场景：使用环境测试来识别野外冠状病毒。正如该项目页面所指出的那样，“能够检测这些病原体的传统实时 PCR 设备通常花费超过 30,000 美元，而且不适合在现场使用。”由于 OpenPCR 是用户构建的工具包，并且在 [GPLv3.0 许可证](https://github.com/jperfetto/OpenPCR/blob/master/license.txt)下共享，因此该设备旨在使分子诊断的访问大众化。
 
 
-![OpenPCR](/Asserts/Images//attachment/album/202003/29/104012j62suq78ppvqg6qs.png "OpenPCR")
+![OpenPCR](/Asserts/Images/album/202003/29/104012j62suq78ppvqg6qs.png "OpenPCR")
 
 
 *来自 OpenPCR [网站](https://openpcr.org/)，版权所有*
@@ -135,7 +135,7 @@ Chai 的 [Open qPCR](https://www.chaibio.com/openqpcr) 设备使用[聚合酶链
 Gaudi Labs 的 [PocketPCR](http://gaudi.ch/PocketPCR/) 热循环仪可通过升高和降低小试管中液体的温度来激活生物反应。它可以通过简单的 USB 电源适配器供电，该适配器可以绑定到设备上，也可以单独使用，不使用计算机或智能手机时可使用预设参数。
 
 
-![PocketPCR](/Asserts/Images//attachment/album/202003/29/104045ke901kk3nrq1n7qr.png "PocketPCR")
+![PocketPCR](/Asserts/Images/album/202003/29/104045ke901kk3nrq1n7qr.png "PocketPCR")
 
 
 *来自 PocketPCR [网站](http://gaudi.ch/PocketPCR/)，版权所有*
@@ -150,7 +150,7 @@ Gaudi Labs 的 [PocketPCR](http://gaudi.ch/PocketPCR/) 热循环仪可通过升�
 [Open Lung 低资源呼吸机](https://gitlab.com/TrevorSmale/low-resource-ambu-bag-ventilor)是一种快速部署的呼吸机，它以[气囊阀罩](https://en.wikipedia.org/wiki/Bag_valve_mask)（BVM）（也称为 Ambu 气囊）为核心组件。Ambu 气囊已批量生产，经过认证，体积小，机械简单，并且适用于侵入性导管和口罩。 Open Lung 呼吸机使用微电子技术来感测和控制气压和流量，以实现半自主运行。
 
 
-![Open Lung ventilator](/Asserts/Images//attachment/album/202003/29/104107oofbp4oboibff3vk.png "Open Lung ventilator")
+![Open Lung ventilator](/Asserts/Images/album/202003/29/104107oofbp4oboibff3vk.png "Open Lung ventilator")
 
 
 *Open Lung，[GitLab](https://gitlab.com/TrevorSmale/low-resource-ambu-bag-ventilor/-/blob/master/images/CONCEPT_1_MECH.png)*
@@ -171,7 +171,7 @@ Gaudi Labs 的 [PocketPCR](http://gaudi.ch/PocketPCR/) 热循环仪可通过升�
 [Folding at Home](https://foldingathome.org/) 是一个分布式计算项目，用于模拟蛋白质动力学，包括蛋白质折叠的过程以及与多种疾病有关的蛋白质运动。这是一个面向公民科学家、研究人员和志愿者的行动呼吁，类似于退役的 [SETI@Home 项目](https://setiathome.ssl.berkeley.edu/)使用家中的计算机来运行解码计算。如果你是具备强大计算机硬件功能的技术人员，那么这个项目适合你。
 
 
-![Markov state model](/Asserts/Images//attachment/album/202003/29/104121wy8vvqc55crjbrv8.png "Markov state model")
+![Markov state model](/Asserts/Images/album/202003/29/104121wy8vvqc55crjbrv8.png "Markov state model")
 
 
 *Vincent Voelz，CC BY-SA 3.0*
@@ -205,7 +205,7 @@ Folding at Home 项目使用马尔可夫状态模型（如上所示）来建模�
 正如我和同事 Steven Abadie 在 [OSHdata 2020 报告](https://oshdata.com/2020-report)中所写的那样，开源硬件运动是全球性运动。参与该认证项目的个人和组织遍布全球 35 个国家地区和每个半球。
 
 
-![Open source hardware map](/Asserts/Images//attachment/album/202003/29/104136eezii9q5axi8y76y.png "Open source hardware map")
+![Open source hardware map](/Asserts/Images/album/202003/29/104136eezii9q5axi8y76y.png "Open source hardware map")
 
 
 *OSHdata，CC BY-SA 4.0 国际版*

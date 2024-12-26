@@ -15,7 +15,7 @@ tags:	[linuxcn,CMake,make,Autotools]
 > 
 
 
-![](/Asserts/Images//attachment/album/202105/24/183520grnp3821rmmpg1ug.jpg "Someone wearing a hardhat and carrying code ")
+![](/Asserts/Images/album/202105/24/183520grnp3821rmmpg1ug.jpg "Someone wearing a hardhat and carrying code ")
 
 
 在我以前的文章 [Autotools 入门](https://opensource.com/article/19/7/introduction-gnu-autotools) 一文中，我说明了如何使用 Autotools 来管理和打包代码。这是一个强大且通用的平台，可轻松集成到许多打包系统中，包括 RPM、APT、[pkgsrc](https://opensource.com/article/19/11/pkgsrc-netbsd-linux) 等等。它的语法和结构可能会令人困惑，但幸运的是，我们还有其他选择，开源的 [CMake](http://cmake.org) 就是其中一个。
@@ -344,7 +344,7 @@ CMake 的交互模式是一种用于配置安装环境的友好而有用的方�
 为了调用这个交互式的 CMake，使用 `ccmake` 命令，在这个简单的项目里没有太多的东西。但是对于像 [Rosegarden](https://opensource.com/article/18/3/make-sweet-music-digital-audio-workstation-rosegarden) 这样的大型项目，这将非常有用。
 
 
-![Rosegarden](/Asserts/Images//attachment/album/202105/24/183540nflz4ftd1gflfu77.jpg "Rosegarden")
+![Rosegarden](/Asserts/Images/album/202105/24/183540nflz4ftd1gflfu77.jpg "Rosegarden")
 
 
 ### CMake 的更多知识

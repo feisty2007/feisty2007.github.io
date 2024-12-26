@@ -15,7 +15,7 @@ tags:	[linuxcn,Exchange,群件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/29/141404pesw8xgh8oohwhjh.jpg "Working on a team, busy worklife")
+![](/Asserts/Images/album/202109/29/141404pesw8xgh8oohwhjh.jpg "Working on a team, busy worklife")
 
 
 多年来，微软 Exchange 作为一个平台牢牢统治着群件环境。然而，在 2020 年末，一个奥地利的开源软件开发商推出了 [grommunio](https://grommunio.com/en/)，这是一个群件服务器和客户端，其外观和感觉让 Exchange 和 Outlook 用户感到很熟悉。
@@ -42,7 +42,7 @@ grmmunio 项目可以很好地替代 Exchange。开发者以与微软相同的�
 除了现代群件的所有标准功能外，grommunio 还提供聊天、视频会议和文件同步功能。它为企业实现了大规模的全面整合，具有极高的性能。对于开源的推动者来说，这是一个简单的选择，对于系统管理员来说，这是一个强大的选择。因为 grommunio 的目标是整合而不是重新发明，所以所有的组件都是标准的开源工具。
 
 
-![Screenshot of grommunio meeting space](/Asserts/Images//attachment/album/202109/29/141414b6abaz3e6zgnc3g2.png "grommunio meeting space")
+![Screenshot of grommunio meeting space](/Asserts/Images/album/202109/29/141414b6abaz3e6zgnc3g2.png "grommunio meeting space")
 
 
 *用于高级视频会议的 Jitsi 集成（Markus Feilner, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -51,7 +51,7 @@ grmmunio 项目可以很好地替代 Exchange。开发者以与微软相同的�
 在 grommunio 会议功能的背后是 [Jitsi](https://opensource.com/article/20/5/open-source-video-conferencing)，它以熟悉的用户界面顺利地集成到 grommunio 的用户界面中。完全集成和集中管理的聊天功能是基于 [Mattermost](https://opensource.com/education/16/3/mattermost-open-source-chat)。
 
 
-![Screenshot of grommunio's town square for chat](/Asserts/Images//attachment/album/202109/29/141414nq2317pfkx3jqjz4.png "grommunio's town square for chat")
+![Screenshot of grommunio's town square for chat](/Asserts/Images/album/202109/29/141414nq2317pfkx3jqjz4.png "grommunio's town square for chat")
 
 
 *用于聊天的 Mattermost（Markus Feilner，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -60,7 +60,7 @@ grmmunio 项目可以很好地替代 Exchange。开发者以与微软相同的�
 [ownCloud](https://owncloud.com/) 承诺提供企业级的文件共享和同步，在点击“文件”按钮后开始。
 
 
-![Screenshot of grommunio file sharing space](/Asserts/Images//attachment/album/202109/29/141415a1mpe9o5lb17ml27.png "Owncloud for file synchronization and exchange")
+![Screenshot of grommunio file sharing space](/Asserts/Images/album/202109/29/141415a1mpe9o5lb17ml27.png "Owncloud for file synchronization and exchange")
 
 
 *用于文件同步和交换的 ownCloud（Markus Feilner，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -69,7 +69,7 @@ grmmunio 项目可以很好地替代 Exchange。开发者以与微软相同的�
 grommunio 项目有一个强大的管理界面，包括角色、域和组织管理、预测性监测和自助服务门户。基于 shell 的向导指导管理员完成安装和从微软 Exchange 迁移数据。开发团队正在不断努力，以实现更好的整合和更集中的管理，并随之为管理员提供更好的工作流程。
 
 
-![Screenshot of grommunio dashboards](/Asserts/Images//attachment/album/202109/29/141415z0b0rz5fcb75bl9s.png "Screenshot of grommunio dashboards")
+![Screenshot of grommunio dashboards](/Asserts/Images/album/202109/29/141415z0b0rz5fcb75bl9s.png "Screenshot of grommunio dashboards")
 
 
 *grommunio 的管理界面（Markus Feilner, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

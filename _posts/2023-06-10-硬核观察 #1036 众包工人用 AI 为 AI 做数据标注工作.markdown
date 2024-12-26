@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,FreeBSD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/18/204639tp9byzkqu93byzrb.jpg)
+![](/Asserts/Images/album/202306/18/204639tp9byzkqu93byzrb.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/18/204655r9crd9g9fzgddrxr.jpg)
+![](/Asserts/Images/album/202306/18/204655r9crd9g9fzgddrxr.jpg)
 
 
 ### 众包工人用 AI 为 AI 做数据标注工作
@@ -35,7 +35,7 @@ AI 模型是建立在人类劳动的基础之上的，高质量的数据标注�
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/18/204707cmua25ia8287ppw5.jpg)
+![](/Asserts/Images/album/202306/18/204707cmua25ia8287ppw5.jpg)
 
 
 ### FreeBSD 本月庆祝其三十岁生日
@@ -60,7 +60,7 @@ AI 模型是建立在人类劳动的基础之上的，高质量的数据标注�
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/18/204725q6zpwyeapewlmvl6.jpg)
+![](/Asserts/Images/album/202306/18/204725q6zpwyeapewlmvl6.jpg)
 
 
 ### GPT-4 生成的商业计划书更受投资者青睐

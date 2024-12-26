@@ -15,7 +15,7 @@ tags:	[linuxcn,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/09/084627sf3qgfv0g9ms9mmf.jpg)
+![](/Asserts/Images/album/202211/09/084627sf3qgfv0g9ms9mmf.jpg)
 
 
 Python 3.11 于 2022 年 10 月 25 日发布，并声称比之前的 [Python 3.10](https://www.debugpoint.com/install-python-3-10-ubuntu/) 版本快 10% - 60%。
@@ -80,7 +80,7 @@ sudo apt install python3.11
 
 ```
 
-![在 Ubuntu 22.04 LTS 中安装 Python 3.11](/Asserts/Images//attachment/album/202211/09/084635sg7go00h6cotcgi7.jpg)
+![在 Ubuntu 22.04 LTS 中安装 Python 3.11](/Asserts/Images/album/202211/09/084635sg7go00h6cotcgi7.jpg)
 
 
 ### 设置默认的 Python 版本
@@ -151,7 +151,7 @@ sudo update-alternatives --config python3
 
 ```
 
-![设置默认的 Python 版本为 3.11](/Asserts/Images//attachment/album/202211/09/084642h7bv6ftesb5kcmbk.jpg)
+![设置默认的 Python 版本为 3.11](/Asserts/Images/album/202211/09/084642h7bv6ftesb5kcmbk.jpg)
 
 
 现在你可以开始在你当前的 Ubuntu 版本中使用最新的 Python 来进行工作/学习了。你可以使用上述命令切换到库存版本，并随时改变版本。

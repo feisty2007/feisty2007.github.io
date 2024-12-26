@@ -15,7 +15,7 @@ tags:	[linuxcn,useradd]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/06/225733hv1u7f4z4vbt8u5x.jpg)
+![](/Asserts/Images/album/202001/06/225733hv1u7f4z4vbt8u5x.jpg)
 
 
 任何计算机系统中，添加用户都是最重要的事之一；本文着重介绍如何在 Linux 系统中添加用户。

@@ -7,7 +7,7 @@ tags:	[linuxcn,gpg,加密,解密]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/06/235030pafawqxu58jl6yn6.jpg)
+![](/Asserts/Images/album/201712/06/235030pafawqxu58jl6yn6.jpg)
 
 
 目标：使用 GPG 加密文件

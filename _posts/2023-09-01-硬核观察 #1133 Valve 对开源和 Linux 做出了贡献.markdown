@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,Valve,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/23/183813inraslzlava66vst.jpg)
+![](/Asserts/Images/album/202309/23/183813inraslzlava66vst.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/23/183834evwq4k5j9mv8whw0.jpg)
+![](/Asserts/Images/album/202309/23/183834evwq4k5j9mv8whw0.jpg)
 
 
 ### Valve 对开源和 Linux 做出了贡献
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,Valve,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/23/183919hw1eap1lllcdeq2m.jpg)
+![](/Asserts/Images/album/202309/23/183919hw1eap1lllcdeq2m.jpg)
 
 
 ### 中国人工智能大模型数量约占全球数量 40%
@@ -60,7 +60,7 @@ tags:	[linuxcn,谷歌,Valve,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/23/183941u667agdggtr5ap7g.jpg)
+![](/Asserts/Images/album/202309/23/183941u667agdggtr5ap7g.jpg)
 
 
 ### DuckDuckGo CEO 说摆脱谷歌“需要很多步”

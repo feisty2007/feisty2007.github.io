@@ -15,7 +15,7 @@ tags:	[linuxcn,虚拟机,VirtualBox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/27/104215te6xpq2e2vvxprjs.jpg "Person programming on a laptop on a building")
+![](/Asserts/Images/album/202210/27/104215te6xpq2e2vvxprjs.jpg "Person programming on a laptop on a building")
 
 
 VirtualBox 能让任何人都可以轻松安装 Linux 虚拟机。你不需要有使用命令行的经验，就可以自己安装一个简单的 Linux 虚拟机。在虚拟机方面，我精通很多东西，但这篇文章将向新手展示如何安装一个 Linux 虚拟机。此外，这篇文章还概述了如何使用开源虚拟机管理程序 [VirtualBox](https://www.virtualbox.org/) ，来运行以及安装一个测试目的的 Linux 系统。
@@ -67,13 +67,13 @@ VirtualBox 能让任何人都可以轻松安装 Linux 虚拟机。你不需要�
 现在，打开 VirtualBox，然后单击黄色的“<ruby> 新建 <rt>  New </rt></ruby>”按钮：
 
 
-![VirtualBox New VM](/Asserts/Images//attachment/album/202210/27/104336yvl6az48k1avzrk4.png "VirtualBox New VM")
+![VirtualBox New VM](/Asserts/Images/album/202210/27/104336yvl6az48k1avzrk4.png "VirtualBox New VM")
 
 
 接下来，配置客体操作系统允许使用多少内存：
 
 
-![Set VM memory size](/Asserts/Images//attachment/album/202210/27/104336tkb66990m9o94ebc.png "Set VM memory size")
+![Set VM memory size](/Asserts/Images/album/202210/27/104336tkb66990m9o94ebc.png "Set VM memory size")
 
 
 我的建议是：**不要吝啬分配给客体操作系统使用的内存！**当客体操作系统的内存不足时，客体系统将开始从随机存取存储器（RAM）向硬盘驱动器进行内存分页，这样会极大地恶化系统的性能和响应能力。如果底层的主机系统开始分页，你很可能不会注意到。对于具有图形化桌面环境的 Linux 工作站系统，我建议至少分配 4GB 内存。
@@ -82,19 +82,19 @@ VirtualBox 能让任何人都可以轻松安装 Linux 虚拟机。你不需要�
 接下来，创建虚拟磁盘：
 
 
-![Create virtual hard disk](/Asserts/Images//attachment/album/202210/27/104337royye5r4e7nw65yw.png "Create virtual hard disk")
+![Create virtual hard disk](/Asserts/Images/album/202210/27/104337royye5r4e7nw65yw.png "Create virtual hard disk")
 
 
 虚拟磁盘的格式选择默认的选项 “VDI（VirtualBox 磁盘镜像）” 就可以了：
 
 
-![Selecting hard disk file type](/Asserts/Images//attachment/album/202210/27/104337ohzsh9as93zsxqlx.png "Selecting hard disk file type")
+![Selecting hard disk file type](/Asserts/Images/album/202210/27/104337ohzsh9as93zsxqlx.png "Selecting hard disk file type")
 
 
 在以下的窗口中，我建议选择“<ruby> 动态分配 <rt>  dynamically allocated </rt></ruby>”，因为这允许你在之后增加虚拟磁盘的大小。如果你选择了“<ruby> 固定大小 <rt>  fixed size </rt></ruby>”，磁盘的速度可能会更快，但你将无法修改虚拟磁盘的大小了：
 
 
-![Dynamically allocating hard disk](/Asserts/Images//attachment/album/202210/27/104338wbq8mr4ocqqqlbb5.png "Dynamically allocating hard disk")
+![Dynamically allocating hard disk](/Asserts/Images/album/202210/27/104338wbq8mr4ocqqqlbb5.png "Dynamically allocating hard disk")
 
 
 建议你使用附带有逻辑卷管理器（LVM）的 Linux 发行版，这样你就可以先创建一个较小的硬盘。如果之后你的客体系统的空间快用完了，你可以按需增加磁盘的大小。
@@ -108,13 +108,13 @@ VirtualBox 能让任何人都可以轻松安装 Linux 虚拟机。你不需要�
 > 
 
 
-![Setting hard disk size](/Asserts/Images//attachment/album/202210/27/104338bms2azh5efa0kh0z.png "Setting hard disk size")
+![Setting hard disk size](/Asserts/Images/album/202210/27/104338bms2azh5efa0kh0z.png "Setting hard disk size")
 
 
 创建好硬盘驱动器后，从 VirtualBox 主窗口的列表中选择新创建的虚拟机，然后单击“<ruby> 设置 <rt>  Settings </rt></ruby>”。在设置菜单中，点击“<ruby> 系统 <rt>  System </rt></ruby>”，然后选择“<ruby> 处理器 <rt>  Processor </rt></ruby>”标签。默认情况下，VirtualBox 只向客体系统分配一个 CPU 内核。在现代多核 CPU 计算机上，分配至少两个内核是没有任何问题的，这能显著地加快客体系统的速度：
 
 
-![Assigning cores to guest system](/Asserts/Images//attachment/album/202210/27/104338czsasuu8fjfjjjaj.png "Assigning cores to guest system")
+![Assigning cores to guest system](/Asserts/Images/album/202210/27/104338czsasuu8fjfjjjaj.png "Assigning cores to guest system")
 
 
 #### 设置网络适配器
@@ -123,7 +123,7 @@ VirtualBox 能让任何人都可以轻松安装 Linux 虚拟机。你不需要�
 接下来，要处理的是网络设置。默认情况下， VirtualBox 会创建一个 NAT 连接，这对于大多数情况来说，是没有问题、不用做其他更改的：
 
 
-![Network settings](/Asserts/Images//attachment/album/202210/27/104339seme990ero5wjc55.png "Network settings")
+![Network settings](/Asserts/Images/album/202210/27/104339seme990ero5wjc55.png "Network settings")
 
 
 你也可以创建多个网络适配器。以下是网络适配器最常见的类型：
@@ -143,7 +143,7 @@ VirtualBox 能让任何人都可以轻松安装 Linux 虚拟机。你不需要�
 在设置菜单中，点击“<ruby> 存储 <rt>  Storage </rt></ruby>”，然后选择虚拟光盘驱动器。单击右侧的 “光盘”图标，然后点击“<ruby> 选择一个磁盘文件…… <rt>  Choose a disk file… </rt></ruby>”，然后分配你想要安装的、已下载的 Linux 发行版镜像：
 
 
-![Assigning OS image](/Asserts/Images//attachment/album/202210/27/104340kcbooc2cofjicmrf.png "Assigning OS image")
+![Assigning OS image](/Asserts/Images/album/202210/27/104340kcbooc2cofjicmrf.png "Assigning OS image")
 
 
 ### 安装 Linux
@@ -152,7 +152,7 @@ VirtualBox 能让任何人都可以轻松安装 Linux 虚拟机。你不需要�
 现在，就已经配置好了虚拟机。右上角关闭“<ruby> 设置 <rt>  Settings </rt></ruby>”菜单，返回主窗口。点击“绿色箭头”（即“开始”按钮）。虚拟机将从虚拟光盘驱动器启动，你将发现你已经进入到 Linux 发行版的安装程序中：
 
 
-![VirtualBox Fedora installer](/Asserts/Images//attachment/album/202210/27/104341deieys6c5i5sqs1g.png "VirtualBox Fedora installer")
+![VirtualBox Fedora installer](/Asserts/Images/album/202210/27/104341deieys6c5i5sqs1g.png "VirtualBox Fedora installer")
 
 
 #### 设置分区
@@ -161,7 +161,7 @@ VirtualBox 能让任何人都可以轻松安装 Linux 虚拟机。你不需要�
 安装程序将在安装过程中要求你提供分区信息。选择“<ruby> 自定义 <rt>  Custom </rt></ruby>”：
 
 
-![Selecting Custom partition configuration](/Asserts/Images//attachment/album/202210/27/104342dpppm0prnxnjnnrb.png "Selecting Custom partition configuration")
+![Selecting Custom partition configuration](/Asserts/Images/album/202210/27/104342dpppm0prnxnjnnrb.png "Selecting Custom partition configuration")
 
 
 
@@ -178,7 +178,7 @@ Fedora 33 及之后更高的版本提供了一个 [zram 分区](https://fedorapr
 为了简单，我们只添加以下两个<ruby> 挂载点 <rt>  Mount Point </rt></ruby>：
 
 
-![Adding mount points](/Asserts/Images//attachment/album/202210/27/104342cf5lkghd7effl71z.png "Adding mount points")
+![Adding mount points](/Asserts/Images/album/202210/27/104342cf5lkghd7effl71z.png "Adding mount points")
 
 
 保存更改，接下来我们继续安装。
@@ -199,13 +199,13 @@ Fedora 33 及之后更高的版本提供了一个 [zram 分区](https://fedorapr
 点击顶部菜单栏的“<ruby> 设备 <rt>  Devices </rt></ruby>”，然后选择“<ruby> 插入增强功能的 CD 镜像…… <rt>  Insert Guest Additions CD image... </rt></ruby>”，来安装 VirtualBox 增强功能：
 
 
-![Selecting Guest Additions CD image](/Asserts/Images//attachment/album/202210/27/104342scdlwctftfwq77fa.png "Selecting Guest Additions CD image")
+![Selecting Guest Additions CD image](/Asserts/Images/album/202210/27/104342scdlwctftfwq77fa.png "Selecting Guest Additions CD image")
 
 
 在大多数 Linux 发行版上，带有增强功能的 CD 镜像会自动挂载，并且能够在文件管理器中找到。Fedora 会问你是否要运行安装脚本。单击“<ruby> 运行 <rt>  Run </rt></ruby>”，并授予该安装进程 root 权限：
 
 
-![Enabling Guest Additions autorun](/Asserts/Images//attachment/album/202210/27/104343yxpywypuju5cewx3.png "Enabling Guest Additions autorun")
+![Enabling Guest Additions autorun](/Asserts/Images/album/202210/27/104343yxpywypuju5cewx3.png "Enabling Guest Additions autorun")
 
 
 安装完成后，需要重新启动系统。
@@ -217,7 +217,7 @@ Fedora 33 及之后更高的版本提供了一个 [zram 分区](https://fedorapr
 我在之前给 Fedora 虚拟机分配了 8GB 硬盘空间，是一个愚蠢的决定，因为 Fedora 很快就会告警空间不足：
 
 
-![Fedora hard disk running out of space](/Asserts/Images//attachment/album/202210/27/104344a42trk568n4att6v.png "Fedora hard disk running out of space")
+![Fedora hard disk running out of space](/Asserts/Images/album/202210/27/104344a42trk568n4att6v.png "Fedora hard disk running out of space")
 
 
 正如我提到的，Fedora 官网建议安装时分配 20GB 的磁盘空间。因为 8GB 是 Fedora 33 安装启动就需要的最少空间。没有安装其他软件（除了 VirtualBox 增强功能）的一个新安装的系统就几乎占用了整个 8GB 的可用空间。这时候，不要打开 GNOME 软件中心或任何其他可能从互联网下载文件的东西。
@@ -241,37 +241,37 @@ VBoxManage.exe modifyhd "C:\Users\StephanA\VirtualBox VMs\Fedora_33\Fedora_33.vd
 然后启动虚拟机，并打开“<ruby> 磁盘 <rt>  Disks </rt></ruby>”工具。你可以看到你刚刚新创建且未分配的可用空间。选择“<ruby> 可用空间 <rt>  Free Space </rt></ruby>”，然后单击 “+” 按钮：
 
 
-![Free space before adding](/Asserts/Images//attachment/album/202210/27/104345zm148cae1bvz8448.png "Free space before adding")
+![Free space before adding](/Asserts/Images/album/202210/27/104345zm148cae1bvz8448.png "Free space before adding")
 
 
 现在，创建一个新的分区。选择你要使用的可用空间的大小：
 
 
-![Creating a new partition and setting size](/Asserts/Images//attachment/album/202210/27/104345b9h8mylhym8jgnnn.png "Creating a new partition and setting size")
+![Creating a new partition and setting size](/Asserts/Images/album/202210/27/104345b9h8mylhym8jgnnn.png "Creating a new partition and setting size")
 
 
 如果你不想在新分区上创建文件系统或任何其他内容，请选择“<ruby> 其他 <rt>  Other </rt></ruby>”：
 
 
-![Selecting "other" for partition volume type](/Asserts/Images//attachment/album/202210/27/104345nld3i66gylizy8lv.png "Selecting \"other\" for partition volume type")
+![Selecting "other" for partition volume type](/Asserts/Images/album/202210/27/104345nld3i66gylizy8lv.png "Selecting \"other\" for partition volume type")
 
 
 选择“<ruby> 无文件系统 <rt>  No Filesystem </rt></ruby>”：
 
 
-![Setting "No filesystem" on new partition](/Asserts/Images//attachment/album/202210/27/104346stb7etvqnwe5rqbq.png "Setting \"No filesystem\" on new partition")
+![Setting "No filesystem" on new partition](/Asserts/Images/album/202210/27/104346stb7etvqnwe5rqbq.png "Setting \"No filesystem\" on new partition")
 
 
 现在，磁盘空间应该如下图所示：
 
 
-![VirtualBox after adding new partition](/Asserts/Images//attachment/album/202210/27/104346zu2wfqpzfupqlfwb.png "VirtualBox after adding new partition")
+![VirtualBox after adding new partition](/Asserts/Images/album/202210/27/104346zu2wfqpzfupqlfwb.png "VirtualBox after adding new partition")
 
 
 虚拟机有了一个新的分区设备：`/dev/sda3`。通过输入 `vgscan` ，来检查你的 LVM 卷组，找到 `fedora_localhost_live` 这一 LVM 卷组 ：
 
 
-![Checking LVM volume group by typing vgscan:](/Asserts/Images//attachment/album/202210/27/104347cug8umvvu88zkge8.png "Checking LVM volume group by typing vgscan:")
+![Checking LVM volume group by typing vgscan:](/Asserts/Images/album/202210/27/104347cug8umvvu88zkge8.png "Checking LVM volume group by typing vgscan:")
 
 
 现在，已经万事俱备了。在新分区 `/dev/sda3` 中扩展卷组 `fedora_localhost_live`：
@@ -283,13 +283,13 @@ vgextend fedora_localhost-live /dev/sda3
 
 ```
 
-![vgextend command output](/Asserts/Images//attachment/album/202210/27/104347pf2og1zfpe1voxvt.png "vgextend command output")
+![vgextend command output](/Asserts/Images/album/202210/27/104347pf2og1zfpe1voxvt.png "vgextend command output")
 
 
 由于卷组比逻辑卷大，你可以增加逻辑卷的大小。命令 `vgdisplay` 显示了共有 951 个可用的物理扩展（PE）：
 
 
-![vgdisplay command output](/Asserts/Images//attachment/album/202210/27/104348bi42r2wiiwvwuvfv.png "vgdisplay command output")
+![vgdisplay command output](/Asserts/Images/album/202210/27/104348bi42r2wiiwvwuvfv.png "vgdisplay command output")
 
 
 将逻辑卷增加 951 个物理扩展：
@@ -301,7 +301,7 @@ lvextend -l+951 /dev/mapper/fedora_localhost--live-root
 
 ```
 
-![lvextend command output](/Asserts/Images//attachment/album/202210/27/104348twf4nwnpydw4zyll.png "lvextend command output")
+![lvextend command output](/Asserts/Images/album/202210/27/104348twf4nwnpydw4zyll.png "lvextend command output")
 
 
 在增加了逻辑卷后，最后一件事就是调整文件系统的大小：
@@ -313,7 +313,7 @@ resize2fs /dev/mapper/fedora_localhost--live-root
 
 ```
 
-![resize2fs command output](/Asserts/Images//attachment/album/202210/27/104349vj089s8jb11giaiy.png "resize2fs command output")
+![resize2fs command output](/Asserts/Images/album/202210/27/104349vj089s8jb11giaiy.png "resize2fs command output")
 
 
 这样磁盘空间就增加完成了！检查“<ruby> 磁盘使用分析器 <rt>  Disk Usage Analyzer </rt></ruby>”，你就可以看到扩展空间已经可用于文件系统了。

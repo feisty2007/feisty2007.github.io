@@ -7,10 +7,10 @@ tags:	[linuxcn,Twitter,软件,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/24/103741ewa773nq6t6wylly.jpg)
+![](/Asserts/Images/album/202301/24/103741ewa773nq6t6wylly.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/24/103804wgmphumbqom3mcmi.jpg)
+![](/Asserts/Images/album/202301/24/103804wgmphumbqom3mcmi.jpg)
 
 
 ### Twitter 修改开发者协议明确禁止第三方客户端
@@ -35,7 +35,7 @@ tags:	[linuxcn,Twitter,软件,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/24/103820e9awh97q7k11hdwk.jpg)
+![](/Asserts/Images/album/202301/24/103820e9awh97q7k11hdwk.jpg)
 
 
 ### 因软件故障，7000 盏灯连续亮了 17 个月
@@ -60,7 +60,7 @@ tags:	[linuxcn,Twitter,软件,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/24/103838qkzmxz757mckzx7r.jpg)
+![](/Asserts/Images/album/202301/24/103838qkzmxz757mckzx7r.jpg)
 
 
 ### 用 AI 检测 AI 撰写的文字

@@ -15,7 +15,7 @@ tags:	[linuxcn,Conda,Ansible]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/18/123838m1bcmke570kl6kzm.jpg)
+![](/Asserts/Images/album/201909/18/123838m1bcmke570kl6kzm.jpg)
 
 
 如果你是一名使用 MacOS 并涉及到 Ansible 管理的 Python 开发人员，你可能希望使用 Conda 包管理器将 Ansible 的工作内容与核心操作系统和其他本地项目分开。

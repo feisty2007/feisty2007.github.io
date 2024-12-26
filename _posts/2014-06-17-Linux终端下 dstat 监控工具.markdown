@@ -83,7 +83,7 @@ ArchLinux系统：
 dstat的基本用法就是输入dstat命令，输出如下：
 
 
-![](/Asserts/Images//attachment/album/201406/17/224823h9y178x8jyro8uy3.png)
+![](/Asserts/Images/album/201406/17/224823h9y178x8jyro8uy3.png)
 
 
 这是默认输出显示的信息：

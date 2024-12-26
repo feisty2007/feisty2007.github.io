@@ -10,7 +10,7 @@ tags:	[linuxcn,Samba,共享]
 如今，无论在家里或者是办公场所，不同的电脑之间共享文件夹已不是什么新鲜事了。在这种趋势下，现代操作系统通过网络文件系统的方式使得电脑间数据的交换变得简单而透明。如果您工作的环境中既有微软的Windows又有Linux，那么，一个共享文件及目录的方式便是通过一个跨平台网络文件共享协议：SMB/CIFS。Windows原生的支持SMB/CIFS，Linux也通过开源的软件Samba实现了SMB/CIFS协议。
 
 
-![](/Asserts/Images//attachment/album/201505/31/234240s70t2t00o6ft03t0.png)
+![](/Asserts/Images/album/201505/31/234240s70t2t00o6ft03t0.png)
 
 
 在这篇文章中，我们将展示**如何使用Samba共享文件夹**。我们使用的Linux平台是**Fedora或CentOS**。这篇文章分为四部分。首先，我们在Fedora/CentOS环境下安装Samba。接着，我们讨论如何调整SELinux和防火墙配置以允许Samba的文件共享。最后我们介绍如何使用Samba来共享文件夹。
@@ -112,7 +112,7 @@ $ sudo restorecon -R -v /shared
 
 ```
 
-![](/Asserts/Images//attachment/album/201505/31/234307t070bs7x73310c77.jpg)
+![](/Asserts/Images/album/201505/31/234307t070bs7x73310c77.jpg)
 
 
 为了通过Samba共享在我们home文件夹内的文件夹，我们必须在SELinux中开启共享home文件夹的选项，该选项默认被关闭。下面的命令能达到该效果。如果您并未共享您的home文件夹，那么您可以跳过该步骤。
@@ -221,7 +221,7 @@ $ sudo passwd sambaguest
 
 ```
 
-![](/Asserts/Images//attachment/album/201505/31/234310c7xjlcidfoxyafyj.jpg)
+![](/Asserts/Images/album/201505/31/234310c7xjlcidfoxyafyj.jpg)
 
 
 在创建一个新用户后，使用smbpasswd命令添加Samba用户。当这个命令询问一个密码时，您可以键入一个与其用户密码不同的密码。
@@ -243,7 +243,7 @@ $ sudo systemctl start smb.service
 $ sudo systemctl is-active smb
 ```
 
-![](/Asserts/Images//attachment/album/201505/31/234312f5i9rexureimh9uw.jpg)
+![](/Asserts/Images/album/201505/31/234312f5i9rexureimh9uw.jpg)
 
 
 使用下面的命令来查看Samba中共享的文件夹列表。
@@ -255,13 +255,13 @@ $ smbclient -U sambaguest -L localhost
 
 ```
 
-![](/Asserts/Images//attachment/album/201505/31/234313x3mn3v3du5mfdgwn.jpg)
+![](/Asserts/Images/album/201505/31/234313x3mn3v3du5mfdgwn.jpg)
 
 
 接下来是在Thunar文件管理器中访问Samba共享文件夹以及对file1进行拷贝复制的截图。注意，Samba的共享内容可以通过在Thunar中通过 `smb://<samba-server-IP-address>/myshare` 这个地址来访问。
 
 
-![](/Asserts/Images//attachment/album/201505/31/234314j333o9bzbubbzbck.jpg)
+![](/Asserts/Images/album/201505/31/234314j333o9bzbubbzbck.jpg)
 
 
 

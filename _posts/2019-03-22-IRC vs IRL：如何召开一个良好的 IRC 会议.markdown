@@ -15,7 +15,7 @@ tags:	[linuxcn,IRC,会议]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/31/121323dabb00rictnniadb.jpg)
+![](/Asserts/Images/album/201903/31/121323dabb00rictnniadb.jpg)
 
 
 开展任何形式的会议都是门艺术。很多人已经学会了开展面对面会议和电话会议，但是 [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat)（IRC）会议因其特殊的性质有别于“<ruby> 现实 <rt>  in real life </rt></ruby>”（IRL） 会议。本文将会分享 IRC 这种会议形式的优势和劣势，以及帮你更有效地领导 IRC 会议的小技巧。

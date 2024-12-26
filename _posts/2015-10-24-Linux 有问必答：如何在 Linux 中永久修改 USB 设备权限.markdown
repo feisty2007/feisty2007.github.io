@@ -26,13 +26,13 @@ tags:	[linuxcn,USB,udev]
 > 
 
 
-![](/Asserts/Images//attachment/album/201510/21/221907buuu7yy6ebay7r9b.png)
+![](/Asserts/Images/album/201510/21/221907buuu7yy6ebay7r9b.png)
 
 
 当你在运行一个会读取或者写入USB设备的进程时，进程的用户/组必须有权限这么做才行。当然你可以手动用`chmod`命令改变 USB 设备的权限，但是手动的权限改变只是暂时的。USB 设备会在下次重启时恢复它的默认权限。
 
 
-![](/Asserts/Images//attachment/album/201510/21/221921ukoi2kjbzm8irnom.jpg)
+![](/Asserts/Images/album/201510/21/221921ukoi2kjbzm8irnom.jpg)
 
 
 作为一个永久的方式，你可以创建一个基于 udev 的 USB 权限规则，它可以根据你的选择分配任何权限模式。下面是该如何做。
@@ -47,7 +47,7 @@ $ lsusb -vvv
 
 ```
 
-![](/Asserts/Images//attachment/album/201510/21/221927xf9d70089b0idzbb.jpg)
+![](/Asserts/Images/album/201510/21/221927xf9d70089b0idzbb.jpg)
 
 
 上面`lsusb`的输出中，找出你的 USB 设备，并找出"idVendor"和"idProduct"字段。本例中,我们的结果是`idVendor (0x067b)`和 `idProduct (0x2303)`
@@ -88,7 +88,7 @@ $ sudo udevadm control --reload
 接着验证下 USB 设备的权限。
 
 
-![](/Asserts/Images//attachment/album/201510/21/221928zdfdryz1tud01mfd.jpg)
+![](/Asserts/Images/album/201510/21/221928zdfdryz1tud01mfd.jpg)
 
 
 

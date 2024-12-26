@@ -13,7 +13,7 @@ Xen 是一个直接运行在硬件上的虚拟机监视器，这意味着你必�
 整个安装过程使用 Debian Jessie（Debian 的测试发行版）作为宿主机操作系统（也称作 [Dom0](http://wiki.xen.org/wiki/Dom0)）。Jessie 并不是唯一的选择 —— Xen 的支持是内建在 Linux 内核中的，[许多 Linux 发行版](http://wiki.xen.org/wiki/Dom0_Kernels_for_Xen) 都包含支持 Xen 的内核。
 
 
-![](/Asserts/Images//attachment/album/201502/28/214042a7zal5l76zdq1ja7.png)
+![](/Asserts/Images/album/201502/28/214042a7zal5l76zdq1ja7.png)
 
 
 ### 找点废旧的硬件
@@ -65,7 +65,7 @@ $ sudo dd if=debian-jessie-DI-b2-amd64-netinst.iso of=/dev/sdc
 最好是使用有线网络，而不是 WIFI。如果因为固件或者驱动的原因导致 WIFI 不能连接，你将无法完成下面的步骤。
 
 
-![](/Asserts/Images//attachment/album/201502/28/214047c5dqwgpdvgde6of7.jpg)
+![](/Asserts/Images/album/201502/28/214047c5dqwgpdvgde6of7.jpg)
 
 
 ### 硬盘分区
@@ -89,7 +89,7 @@ $ sudo dd if=debian-jessie-DI-b2-amd64-netinst.iso of=/dev/sdc
 当选择安装软件时，选择安装一个 SSH 服务器，不要安装桌面环境如 Gnome。
 
 
-![](/Asserts/Images//attachment/album/201502/28/214052krvzc7caw5wah6a7.jpg)
+![](/Asserts/Images/album/201502/28/214052krvzc7caw5wah6a7.jpg)
 
 
 安装一个图形桌面需要安装成百上千的包 —— 这些额外的工作可以稍后再进行。如果你遇到问题了，等待图形桌面的安装会浪费很多时间。同时，没有桌面组件，系统的启动可以更快一些 —— 只需要几十秒而不是几分钟。整个安装过程会需要重启几次，因此这样做可以节省不少时间。
@@ -174,7 +174,7 @@ $ sudo dd if=debian-jessie-DI-b2-amd64-netinst.iso of=/dev/sdc
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/28/214054wz2zwtdzw3wwdfkb.jpg)
+![](/Asserts/Images/album/201502/28/214054wz2zwtdzw3wwdfkb.jpg)
 
 
 在这个例子中，我们有一块网卡名称为 eth0。我们准备修改配置文件（/etc/network/interfaces）将 eth0 作为桥接设备。
@@ -251,7 +251,7 @@ bridge_ports eth0
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/28/214056j5i874588zv85sa7.jpg)
+![](/Asserts/Images/album/201502/28/214056j5i874588zv85sa7.jpg)
 
 
 你现在安装好了 Jessie 系统。不过此时 Xen 还没有安装。下面我们开始安装 Xen。
@@ -275,7 +275,7 @@ bridge_ports eth0
 当 GRUB 界面出现时，你可以看到列出的额外的启动选项。
 
 
-![](/Asserts/Images//attachment/album/201502/28/214101fkcscssa1gl95pze.jpg)
+![](/Asserts/Images/album/201502/28/214101fkcscssa1gl95pze.jpg)
 
 
 第一个选项会在 5 秒钟内自动启动（在 /etc/default/grub 的 GRUB\_TIMEOUT 这行设置），因此这点时间可来不及喝咖啡。
@@ -302,7 +302,7 @@ Xen 虚拟机监视器带有一个管理 Xen 的命令行程序叫做 xl，可�
 将会显示很多关于 Xen 主机的信息。
 
 
-![](/Asserts/Images//attachment/album/201502/28/214106picg8zcoldo51z8p.jpg)
+![](/Asserts/Images/album/201502/28/214106picg8zcoldo51z8p.jpg)
 
 
 查看已有 Xen 虚拟机的列表：
@@ -314,7 +314,7 @@ Xen 虚拟机监视器带有一个管理 Xen 的命令行程序叫做 xl，可�
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/28/214109s5eolz77lhl3smgx.jpg)
+![](/Asserts/Images/album/201502/28/214109s5eolz77lhl3smgx.jpg)
 
 
 这里显示了一个主机的列表。因为没有创建任何的 Xen 客户机，唯一的条目是 Domain-0，即你安装的 Debian 系统。

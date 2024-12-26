@@ -15,7 +15,7 @@ tags:	[linuxcn,VFS,文件系统]
 > 
 
 
-![](/Asserts/Images//attachment/album/201905/22/000042mnqey57e7fpqam25.jpg)
+![](/Asserts/Images/album/201905/22/000042mnqey57e7fpqam25.jpg)
 
 
 什么是文件系统？根据早期的 Linux 贡献者和作家 [Robert Love](https://www.pearson.com/us/higher-education/program/Love-Linux-Kernel-Development-3rd-Edition/PGM202532.html) 所说，“文件系统是一个遵循特定结构的数据的分层存储。” 不过，这种描述也同样适用于 VFAT（<ruby> 虚拟文件分配表 <rt>  Virtual File Allocation Table </rt></ruby>）、Git 和[Cassandra](http://cassandra.apache.org/)（一种 [NoSQL 数据库](https://en.wikipedia.org/wiki/NoSQL)）。那么如何区别文件系统呢？
@@ -27,7 +27,7 @@ tags:	[linuxcn,VFS,文件系统]
 Linux 内核要求文件系统必须是实体，它还必须在持久对象上实现 `open()`、`read()` 和 `write()` 方法，并且这些实体需要有与之关联的名字。从 [面向对象编程](http://lwn.net/Articles/444910/) 的角度来看，内核将通用文件系统视为一个抽象接口，这三大函数是“虚拟”的，没有默认定义。因此，内核的默认文件系统实现被称为虚拟文件系统（VFS）。
 
 
-![](/Asserts/Images//attachment/album/201905/22/000121yromuxmaoj0ulocr.png "Console")
+![](/Asserts/Images/album/201905/22/000121yromuxmaoj0ulocr.png "Console")
 
 
 *如果我们能够 `open()`、`read()` 和 `write()`，它就是一个文件，如这个主控台会话所示。*
@@ -45,7 +45,7 @@ VFS 是著名的类 Unix 系统中 “一切皆文件” 概念的基础。让�
 下图大致说明了用户空间如何访问通常挂载在 Linux 系统上的各种类型文件系统。像管道、dmesg 和 POSIX 时钟这样的结构在此图中未显示，它们也实现了 `struct file_operations`，而且其访问也要通过 VFS 层。
 
 
-![How userspace accesses various types of filesystems](/Asserts/Images//attachment/album/201905/22/000131kd3ao1dpmds9vfzz.png "How userspace accesses various types of filesystems")
+![How userspace accesses various types of filesystems](/Asserts/Images/album/201905/22/000131kd3ao1dpmds9vfzz.png "How userspace accesses various types of filesystems")
 
 
 VFS 是个“垫片层”，位于系统调用和特定 `file_operations` 的实现（如 ext4 和 procfs）之间。然后，`file_operations` 函数可以与特定于设备的驱动程序或内存访问器进行通信。tmpfs、devtmpfs 和 cgroup 不使用 `file_operations` 而是直接访问内存。
@@ -60,7 +60,7 @@ VFS 的存在促进了代码重用，因为与文件系统相关的基本方法�
 找出系统中存在的 VFS 的简单方法是键入 `mount | grep -v sd | grep -v :/`，在大多数计算机上，它将列出所有未驻留在磁盘上，同时也不是 NFS 的已挂载文件系统。其中一个列出的 VFS 挂载肯定是 `/tmp`，对吧？
 
 
-![Man with shocked expression](/Asserts/Images//attachment/album/201905/22/000133l29nckqi73q7e7c3.jpg "Man with shocked expression")
+![Man with shocked expression](/Asserts/Images/album/201905/22/000133l29nckqi73q7e7c3.jpg "Man with shocked expression")
 
 
 *谁都知道把 /tmp 放在物理存储设备上简直是疯了！图片：<https://tinyurl.com/ybomxyfo>*
@@ -84,7 +84,7 @@ VFS 的存在促进了代码重用，因为与文件系统相关的基本方法�
 procfs 为用户空间提供了内核及其控制的进程的瞬时状态的快照。在 `/proc` 中，内核发布有关其提供的设施的信息，如中断、虚拟内存和调度程序。此外，`/proc/sys` 是存放可以通过 [sysctl 命令](http://man7.org/linux/man-pages/man8/sysctl.8.html)配置的设置的地方，可供用户空间访问。单个进程的状态和统计信息在 `/proc/<PID>` 目录中报告。
 
 
-![Console](/Asserts/Images//attachment/album/201905/22/000137wrbqohssrsssczy7.png "Console")
+![Console](/Asserts/Images/album/201905/22/000137wrbqohssrsssczy7.png "Console")
 
 
 */proc/meminfo 是一个空文件，但仍包含有价值的信息。*
@@ -93,7 +93,7 @@ procfs 为用户空间提供了内核及其控制的进程的瞬时状态的快�
 `/proc` 文件的行为说明了 VFS 可以与磁盘上的文件系统不同。一方面，`/proc/meminfo` 包含了可由命令 `free` 展现出来的信息。另一方面，它还是空的！怎么会这样？这种情况让人联想起康奈尔大学物理学家 N. David Mermin 在 1985 年写的一篇名为《[没有人看见月亮的情况吗？](http://www-f1.ijs.si/%7Eramsak/km1/mermin.moon.pdf)现实和量子理论》。事实是当进程从 `/proc` 请求数据时内核再收集有关内存的统计信息，而且当没有人查看它时，`/proc` 中的文件实际上没有任何内容。正如 [Mermin 所说](https://en.wikiquote.org/wiki/David_Mermin)，“这是一个基本的量子学说，一般来说，测量不会揭示被测属性的预先存在的价值。”（关于月球的问题的答案留作练习。）
 
 
-![Full moon](/Asserts/Images//attachment/album/201905/22/000142apaxqz5tblyloxlb.jpg "Full moon")
+![Full moon](/Asserts/Images/album/201905/22/000142apaxqz5tblyloxlb.jpg "Full moon")
 
 
 *当没有进程访问它们时，/proc 中的文件为空。（[来源](https://commons.wikimedia.org/wiki/Moon#/media/File:Full_Moon_Luc_Viatour.jpg)）*
@@ -102,7 +102,7 @@ procfs 为用户空间提供了内核及其控制的进程的瞬时状态的快�
 procfs 的空文件是有道理的，因为那里可用的信息是动态的。sysfs 的情况则不同。让我们比较一下 `/proc` 与 `/sys` 中不为空的文件数量。
 
 
-![](/Asserts/Images//attachment/album/201905/22/000143aoelodhm8h8od3dd.png)
+![](/Asserts/Images/album/201905/22/000143aoelodhm8h8od3dd.png)
 
 
 procfs 只有一个不为空的文件，即导出的内核配置，这是一个例外，因为每次启动只需要生成一次。另一方面，`/sys` 有许多更大一些的文件，其中大多数由一页内存组成。通常，sysfs 文件只包含一个数字或字符串，与通过读取 `/proc/meminfo` 等文件生成的信息表格形成鲜明对比。
@@ -114,7 +114,7 @@ sysfs 的目的是将内核称为 “kobject” 的可读写属性公开给用�
 内核的稳定 ABI 限制了 `/sys` 中可能出现的内容，而不是任何给定时刻实际存在的内容。列出 sysfs 中文件的权限可以了解如何设置或读取设备、模块、文件系统等的可配置、可调参数。逻辑上强调 procfs 也是内核稳定 ABI 的一部分的结论，尽管内核的[文档](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/ABI/stable)没有明确说明。
 
 
-![Console](/Asserts/Images//attachment/album/201905/22/000148dg53m59ytjklfa0e.png "Console")
+![Console](/Asserts/Images/album/201905/22/000148dg53m59ytjklfa0e.png "Console")
 
 
 *sysfs 中的文件确切地描述了实体的每个属性，并且可以是可读的、可写的，或两者兼而有之。文件中的“0”表示 SSD 不可移动的存储设备。*
@@ -132,7 +132,7 @@ sysfs 的目的是将内核称为 “kobject” 的可读写属性公开给用�
 要了解 VFS 在正在运行中的系统上的工作情况，请尝试使用简单的 [vfscount](https://github.com/iovisor/bcc/blob/master/tools/vfscount_example.txt) 或 [vfsstat](https://github.com/iovisor/bcc/blob/master/tools/vfsstat.py) 脚本，这可以看到每秒都会发生数十次对 `vfs_open()` 及其相关的调用。
 
 
-![Console - vfsstat.py](/Asserts/Images//attachment/album/201905/22/000149kufkpp5mgyufkgao.png "Console - vfsstat.py")
+![Console - vfsstat.py](/Asserts/Images/album/201905/22/000149kufkpp5mgyufkgao.png "Console - vfsstat.py")
 
 
 *vfsstat.py 是一个带有嵌入式 C 片段的 Python 脚本，它只是计数 VFS 函数调用。*
@@ -141,7 +141,7 @@ sysfs 的目的是将内核称为 “kobject” 的可读写属性公开给用�
 作为一个不太重要的例子，让我们看一下在运行的系统上插入 USB 记忆棒时 sysfs 中会发生什么。
 
 
-![Console when USB is inserted](/Asserts/Images//attachment/album/201905/22/000158t9cbs20dy9gdjwj8.png "Console when USB is inserted")
+![Console when USB is inserted](/Asserts/Images/album/201905/22/000158t9cbs20dy9gdjwj8.png "Console when USB is inserted")
 
 
 *用 eBPF 观察插入 USB 记忆棒时 /sys 中会发生什么，简单的和复杂的例子。*
@@ -165,7 +165,7 @@ sysfs 的目的是将内核称为 “kobject” 的可读写属性公开给用�
 然而，狂热爱好者会听说许多物联网和嵌入式设备，如路由器、恒温器和汽车现在都运行着 Linux。许多这些设备几乎完全没有用户界面，并且没有办法干净地让它们“解除启动”。想一想启动电池耗尽的汽车，其中[运行 Linux 的主机设备](https://wiki.automotivelinux.org/_media/eg-rhsa/agl_referencehardwarespec_v0.1.0_20171018.pdf) 的电源会不断加电断电。当引擎最终开始运行时，系统如何在没有长时间 fsck 的情况下启动呢？答案是嵌入式设备依赖于[只读根文件系统](https://elinux.org/images/1/1f/Read-only_rootfs.pdf)（简称 ro-rootfs）。
 
 
-![Photograph of a console](/Asserts/Images//attachment/album/201905/22/000216e4oafh6dgdf6aohe.jpg "Photograph of a console")
+![Photograph of a console](/Asserts/Images/album/201905/22/000216e4oafh6dgdf6aohe.jpg "Photograph of a console")
 
 
 *ro-rootfs 是嵌入式系统不经常需要 fsck 的原因。 来源：<https://tinyurl.com/yxoauoub>*
@@ -186,7 +186,7 @@ ro-rootfs 提供了许多优点，虽然这些优点不如耐用性那么显然�
 根据叠加挂载和绑定挂载的描述，没有人会对 [Linux 容器](https://coreos.com/os/docs/latest/kernel-modules.html) 中大量使用它们感到惊讶。让我们通过运行 bcc 的 `mountsnoop` 工具监视当使用 [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) 启动容器时会发生什么：
 
 
-![Console - system-nspawn invocation](/Asserts/Images//attachment/album/201905/22/000217ko24h1ltzilnvce3.png "Console - system-nspawn invocation")
+![Console - system-nspawn invocation](/Asserts/Images/album/201905/22/000217ko24h1ltzilnvce3.png "Console - system-nspawn invocation")
 
 
 *在 mountsnoop.py 运行的同时，system-nspawn 调用启动容器。*
@@ -195,7 +195,7 @@ ro-rootfs 提供了许多优点，虽然这些优点不如耐用性那么显然�
 让我们看看发生了什么：
 
 
-![Console - Running mountsnoop](/Asserts/Images//attachment/album/201905/22/000225r35lrsnrsy7la0ac.png "Console - Running mountsnoop")
+![Console - Running mountsnoop](/Asserts/Images/album/201905/22/000225r35lrsnrsy7la0ac.png "Console - Running mountsnoop")
 
 
 *在容器 “启动” 期间运行 `mountsnoop` 可以看到容器运行时很大程度上依赖于绑定挂载。（仅显示冗长输出的开头）*

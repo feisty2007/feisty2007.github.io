@@ -7,7 +7,7 @@ tags:	[linuxcn,黑客,网络安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/29/233311sgk6h0qqiv60gk2g.png)
+![](/Asserts/Images/album/201910/29/233311sgk6h0qqiv60gk2g.png)
 
 
 是的，这是年终摘要文章之一。这是一篇很长的文章，因为就网络安全新闻来说，2019 年就是一场灾难，每周都会有一个或多个重大事件发生。

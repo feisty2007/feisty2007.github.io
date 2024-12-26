@@ -7,7 +7,7 @@ tags:	[linuxcn,find,xargs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/17/121131sprgtzy5gvtzyzv5.jpg)
+![](/Asserts/Images/album/201910/17/121131sprgtzy5gvtzyzv5.jpg)
 
 
 `find` 是日常工具箱中功能强大、灵活的命令行程序之一。它如它名字所暗示的：查找符合你指定条件的文件和目录。借助 `-exec` 或 `-delete` 之类的参数，你可以让它对找到的文件进行操作。

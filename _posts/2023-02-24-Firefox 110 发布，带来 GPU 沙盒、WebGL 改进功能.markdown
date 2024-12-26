@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/24/111701hj7a7jwyjx0a77c5.jpg)
+![](/Asserts/Images/album/202302/24/111701hj7a7jwyjx0a77c5.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,Firefox]
 总的来说，新的功能和错误修复很少，特别是对 Linux 来说。下面是一个快速点评。
 
 
-![Firefox 110 Running in Linux](/Asserts/Images//attachment/album/202302/24/111655qgz6jn2i8876i7lj.jpg)
+![Firefox 110 Running in Linux](/Asserts/Images/album/202302/24/111655qgz6jn2i8876i7lj.jpg)
 
 
 ### Firefox 110 的最佳新功能

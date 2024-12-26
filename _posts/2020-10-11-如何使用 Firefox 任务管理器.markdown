@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/11/103209cc1l7ktc7asacjhe.jpg)
+![](/Asserts/Images/album/202010/11/103209cc1l7ktc7asacjhe.jpg)
 
 
 
@@ -42,7 +42,7 @@ Firefox 在 Linux 用户中很受欢迎。它是几个 Linux 发行版上的默�
 有了 Firefox 任务管理器，你就可以列出所有消耗系统资源的标签页、跟踪器和附加组件。
 
 
-![](/Asserts/Images//attachment/album/202010/11/103226s7lszsyi5mzc8cgh.png)
+![](/Asserts/Images/album/202010/11/103226s7lszsyi5mzc8cgh.png)
 
 
 正如你在上面的截图中所看到的，你会看到标签页的名称、类型（标签或附加组件）、能源影响和消耗的内存。
@@ -60,19 +60,19 @@ Firefox 在 Linux 用户中很受欢迎。它是几个 Linux 发行版上的默�
 要快速启动 Firefox 任务管理器，可以在地址栏中输入 `about:performance`，如下图所示。
 
 
-![Quickly access task manager in Firefox](/Asserts/Images//attachment/album/202010/11/103230bsuoppv6o390kfo9.jpg)
+![Quickly access task manager in Firefox](/Asserts/Images/album/202010/11/103230bsuoppv6o390kfo9.jpg)
 
 
 另外，你也可以点击“菜单”图标，然后进入“更多”选项，如下截图所示。
 
 
-![Accessing task manager in Firefox](/Asserts/Images//attachment/album/202010/11/103238wjrhrhhavfvt5vwr.jpg)
+![Accessing task manager in Firefox](/Asserts/Images/album/202010/11/103238wjrhrhhavfvt5vwr.jpg)
 
 
 接下来，你会发现选择“任务管理器”的选项，只需点击它就行。
 
 
-![](/Asserts/Images//attachment/album/202010/11/103242sq5p42z5zp4cizgx.jpg)
+![](/Asserts/Images/album/202010/11/103242sq5p42z5zp4cizgx.jpg)
 
 
 #### 使用 Firefox 任务管理器
@@ -81,7 +81,7 @@ Firefox 在 Linux 用户中很受欢迎。它是几个 Linux 发行版上的默�
 到这后，你可以检查资源的使用情况，展开标签页来查看跟踪器和它的使用情况，也可以选择关闭标签，如下截图高亮所示。
 
 
-![](/Asserts/Images//attachment/album/202010/11/103249q2sfs28ato1skkkd.png)
+![](/Asserts/Images/album/202010/11/103249q2sfs28ato1skkkd.png)
 
 
 以下是你应该知道的：

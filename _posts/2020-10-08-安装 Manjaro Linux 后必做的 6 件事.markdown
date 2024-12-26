@@ -19,7 +19,7 @@ tags:	[linuxcn,Manjaro]
 ### 推荐在安装完 Manjaro Linux 后去做的事
 
 
-![](/Asserts/Images//attachment/album/202010/15/205625mnmkzucued3ux3zf.jpg)
+![](/Asserts/Images/album/202010/15/205625mnmkzucued3ux3zf.jpg)
 
 
 我使用的是 Xfce 版的 Manjaro，但这些步骤也适用于 [Manjaro](https://manjaro.org) 的其它桌面环境版本。
@@ -40,7 +40,7 @@ sudo pacman-mirrors --fasttrack
 
 ```
 
-![](/Asserts/Images//attachment/album/202010/15/205641eco99z8e6oxknoaf.png)
+![](/Asserts/Images/album/202010/15/205641eco99z8e6oxknoaf.png)
 
 
 #### 2、更新系统
@@ -58,7 +58,7 @@ sudo pacman -Syu
 
 ```
 
-![](/Asserts/Images//attachment/album/202010/15/205714nc7m145n7qg0le4c.png)
+![](/Asserts/Images/album/202010/15/205714nc7m145n7qg0le4c.png)
 
 
 #### 3、启用 AUR、Snap 以及 Flatpak 支持
@@ -73,7 +73,7 @@ sudo pacman -Syu
 作为可选项，你可以直接在 Pacman 图形化软件包管理器中启用对 [Snap](https://itsfoss.com/use-snap-packages-ubuntu-16-04/) 以及 [Flatpak](https://itsfoss.com/flatpak-guide/) 的支持。
 
 
-![](/Asserts/Images//attachment/album/202010/15/205732rlxxioz2xldf59yv.png)
+![](/Asserts/Images/album/202010/15/205732rlxxioz2xldf59yv.png)
 
 
 #### 启用 TRIM（仅 SSD）
@@ -91,7 +91,7 @@ sudo systemctl enable fstrim.timer
 
 ```
 
-![](/Asserts/Images//attachment/album/202010/15/205746pj8z2rghhgghg1h8.png)
+![](/Asserts/Images/album/202010/15/205746pj8z2rghhgghg1h8.png)
 
 
 #### 5、安装内核（高级用户）
@@ -121,7 +121,7 @@ sudo mhwd-kernel -i linux58
 
 ```
 
-![](/Asserts/Images//attachment/album/202010/15/205814xvtvlpeihrtvbu0c.png)
+![](/Asserts/Images/album/202010/15/205814xvtvlpeihrtvbu0c.png)
 
 
 #### 6、安装微软 TrueType 字体（如果需要）
@@ -133,7 +133,7 @@ sudo mhwd-kernel -i linux58
 如果你也需要使用微软字体，可以从 [AUR](https://itsfoss.com/aur-arch-linux/) 中取得这个[软件包](https://aur.archlinux.org/packages/ttf-ms-fonts)。如果你想要在命令行中管理 AUR 软件包，可以选择安装一个 [AUR 助手](https://itsfoss.com/best-aur-helpers/)。
 
 
-![](/Asserts/Images//attachment/album/202010/15/205838b0mbbi193orz3bpi.png)
+![](/Asserts/Images/album/202010/15/205838b0mbbi193orz3bpi.png)
 
 
 ### 结论

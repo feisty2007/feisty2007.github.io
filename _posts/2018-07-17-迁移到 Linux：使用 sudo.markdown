@@ -15,7 +15,7 @@ tags:	[linuxcn,迁移,sudo]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/09/180426anjij9nn8tjni7w7.jpg)
+![](/Asserts/Images/album/201807/09/180426anjij9nn8tjni7w7.jpg)
 
 
 本文是我们关于迁移到 Linux 的系列文章的第五篇。如果你错过了之前的那些，你可以在这里赶上：

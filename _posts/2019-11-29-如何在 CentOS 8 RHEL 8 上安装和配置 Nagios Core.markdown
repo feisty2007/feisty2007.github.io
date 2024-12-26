@@ -10,7 +10,7 @@ tags:	[linuxcn,Nagios]
 Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设备，例如网络设备和网络中的服务器。它支持 Linux 和 Windows，并提供了直观的 Web 界面，可让你轻松监控网络资源。经过专业配置后，它可以在服务器或网络设备下线或者故障时向你发出邮件警报。在本文中，我们说明了如何在 RHEL 8/CentOS 8 上安装和配置 Nagios Core。
 
 
-![Install-Nagios-Core-RHEL8-CentOS8](/Asserts/Images//attachment/album/201911/13/230150f6q98q96b6ppflqm.jpg)
+![Install-Nagios-Core-RHEL8-CentOS8](/Asserts/Images/album/201911/13/230150f6q98q96b6ppflqm.jpg)
 
 
 ### Nagios Core 的先决条件
@@ -38,7 +38,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # dnf install httpd mariadb-server php-mysqlnd php-fpm
 ```
 
-![Install-LAMP-stack-CentOS8](/Asserts/Images//attachment/album/201911/13/230153m2b7ejzvf7ii7hki.jpg)
+![Install-LAMP-stack-CentOS8](/Asserts/Images/album/201911/13/230153m2b7ejzvf7ii7hki.jpg)
 
 
 你需要确保 Apache Web 服务器已启动并正在运行。为此，请使用以下命令启用并启动 Apache 服务器：
@@ -50,7 +50,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # systemctl enable httpd
 ```
 
-![Start-enable-httpd-centos8](/Asserts/Images//attachment/album/201911/13/230154iudeuvekvvjeckmu.jpg)
+![Start-enable-httpd-centos8](/Asserts/Images/album/201911/13/230154iudeuvekvvjeckmu.jpg)
 
 
 检查 Apache 服务器运行状态：
@@ -61,7 +61,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # systemctl status httpd
 ```
 
-![Check-status-httpd-centos8](/Asserts/Images//attachment/album/201911/13/230157jpcejdlbgjs8ebee.jpg)
+![Check-status-httpd-centos8](/Asserts/Images/album/201911/13/230157jpcejdlbgjs8ebee.jpg)
 
 
 接下来，我们需要启用并启动 MariaDB 服务器，运行以下命令：
@@ -73,7 +73,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # systemctl enable mariadb
 ```
 
-![Start-enable-MariaDB-CentOS8](/Asserts/Images//attachment/album/201911/13/230200wmkkhrgggr5m3bmr.jpg)
+![Start-enable-MariaDB-CentOS8](/Asserts/Images/album/201911/13/230200wmkkhrgggr5m3bmr.jpg)
 
 
 要检查 MariaDB 状态，请运行：
@@ -84,7 +84,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # systemctl status mariadb
 ```
 
-![Check-MariaDB-status-CentOS8](/Asserts/Images//attachment/album/201911/13/230201b5tpood5yjz4upp4.jpg)
+![Check-MariaDB-status-CentOS8](/Asserts/Images/album/201911/13/230201b5tpood5yjz4upp4.jpg)
 
 
 另外，你可能会考虑加强或保护服务器，使其不容易受到未经授权的访问。要保护服务器，请运行以下命令：
@@ -98,7 +98,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 确保为你的 MySQL 实例设置一个强密码。对于后续提示，请输入 “Y” 并按回车。
 
 
-![Secure-MySQL-server-CentOS8](/Asserts/Images//attachment/album/201911/13/230204gdgw5gwk54k3wkgd.jpg)
+![Secure-MySQL-server-CentOS8](/Asserts/Images/album/201911/13/230204gdgw5gwk54k3wkgd.jpg)
 
 
 ### 步骤 2：安装必需的软件包
@@ -112,7 +112,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # dnf install gcc glibc glibc-common wget gd gd-devel perl postfix
 ```
 
-![Install-requisite-packages-CentOS8](/Asserts/Images//attachment/album/201911/13/230207z126a3ow1aiowzh6.jpg)
+![Install-requisite-packages-CentOS8](/Asserts/Images/album/201911/13/230207z126a3ow1aiowzh6.jpg)
 
 
 ### 步骤 3：创建 Nagios 用户帐户
@@ -127,7 +127,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # passwd nagios
 ```
 
-![Create-new-user-for-Nagios](/Asserts/Images//attachment/album/201911/13/230208engfz01gsgnsg32y.jpg)
+![Create-new-user-for-Nagios](/Asserts/Images/album/201911/13/230208engfz01gsgnsg32y.jpg)
 
 
 现在，我们需要为 Nagios 创建一个组，并将 Nagios 用户添加到该组中。
@@ -154,7 +154,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # usermod -aG nagiosxi apache
 ```
 
-![Add-Nagios-group-user](/Asserts/Images//attachment/album/201911/13/230209w3lu0ex64p1945vl.jpg)
+![Add-Nagios-group-user](/Asserts/Images/album/201911/13/230209w3lu0ex64p1945vl.jpg)
 
 
 ### 步骤 4：下载并安装 Nagios Core
@@ -179,7 +179,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # wget https://assets.nagios.com/downloads/nagioscore/releases/nagios-4.4.5.tar.gz
 ```
 
-![Download-Nagios-CentOS8](/Asserts/Images//attachment/album/201911/13/230211uqt0r2i8geizuti2.jpg)
+![Download-Nagios-CentOS8](/Asserts/Images/album/201911/13/230211uqt0r2i8geizuti2.jpg)
 
 
 下载完 tarball 文件后，使用以下命令将其解压缩：
@@ -235,7 +235,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # htpasswd -c /usr/local/nagios/etc/htpasswd.users nagiosadmin
 ```
 
-![Configure-Apache-webserver-authentication-CentOS8](/Asserts/Images//attachment/album/201911/13/230213n2uszxt99623tclu.jpg)
+![Configure-Apache-webserver-authentication-CentOS8](/Asserts/Images/album/201911/13/230213n2uszxt99623tclu.jpg)
 
 
 系统将提示你输入 `nagiosadmin` 用户的密码。输入并按要求确认密码。在本教程结束时，你将使用该用户登录 Nagios。
@@ -290,7 +290,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
-![Verify-Nagios-settings-CentOS8](/Asserts/Images//attachment/album/201911/13/230216t0hvokvmtv5ctcn7.jpg)
+![Verify-Nagios-settings-CentOS8](/Asserts/Images/album/201911/13/230216t0hvokvmtv5ctcn7.jpg)
 
 
 接下来，启动 Nagios 并验证其状态：
@@ -302,7 +302,7 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 # systemctl status nagios
 ```
 
-![Start-check-status-Nagios-CentOS8](/Asserts/Images//attachment/album/201911/13/230218ry6ty5dytkkdytw3.jpg)
+![Start-check-status-Nagios-CentOS8](/Asserts/Images/album/201911/13/230218ry6ty5dytkkdytw3.jpg)
 
 
 如果系统中有防火墙，那么使用以下命令允许 ”80“ 端口：
@@ -322,13 +322,13 @@ Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设�
 这将出现一个弹出窗口，提示输入我们在步骤 5 创建的用户名和密码。输入凭据并点击“Sign In”。
 
 
-![Access-Nagios-via-web-browser-CentOS8](/Asserts/Images//attachment/album/201911/13/230220oq9jz74qic6uzruw.jpg)
+![Access-Nagios-via-web-browser-CentOS8](/Asserts/Images/album/201911/13/230220oq9jz74qic6uzruw.jpg)
 
 
 这将引导你到 Nagios 面板，如下所示：
 
 
-![Nagios-dashboard-CentOS8](/Asserts/Images//attachment/album/201911/13/230225finsj8ggtygj0ji6.jpg)
+![Nagios-dashboard-CentOS8](/Asserts/Images/album/201911/13/230225finsj8ggtygj0ji6.jpg)
 
 
 我们终于成功地在 CentOS 8 / RHEL 8 上安装和配置了 Nagios Core。欢迎你的反馈。

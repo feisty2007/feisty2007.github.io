@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora,systemd]
 ---
 
 
-![Fedora](/Asserts/Images//attachment/album/201511/23/155719df886pl67n5p877l.jpg)
+![Fedora](/Asserts/Images/album/201511/23/155719df886pl67n5p877l.jpg)
 
 
 来自 Redhat 的 Fedora 平台和程序经理 Jan Kurik 宣布了一个功能建议，这是给目前已经进入了开发周期的 Fedora 24 的第一份功能建议。

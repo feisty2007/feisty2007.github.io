@@ -7,7 +7,7 @@ tags:	[linuxcn,Matrix]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/30/145910y979e9x7x4er8s93.jpg)
+![](/Asserts/Images/album/202401/30/145910y979e9x7x4er8s93.jpg)
 
 
 
@@ -30,7 +30,7 @@ Fractal 是目前 [最好的 Matrix 客户端](https://itsfoss.com/best-matrix-c
 ### ? Fractal 6：有什么新内容？
 
 
-![](/Asserts/Images//attachment/album/202401/30/145937scwsr378xjm3c6yr.png)
+![](/Asserts/Images/album/202401/30/145937scwsr378xjm3c6yr.png)
 
 
 乍一看，你可能没有发现任何重大变化。然而，底层有许多重要的变化。
@@ -39,7 +39,7 @@ Fractal 是目前 [最好的 Matrix 客户端](https://itsfoss.com/best-matrix-c
 以通知设置为例，它们已得到更新，现在用户可以设置全局和每个房间的通知。还有一个选项可以选择获取特定关键字的通知。
 
 
-![](/Asserts/Images//attachment/album/202401/30/145938dklw9yfwyw95dwwx.png)
+![](/Asserts/Images/album/202401/30/145938dklw9yfwyw95dwwx.png)
 
 
 **对于加密房间**，用户可以轻松访问媒体历史记录，以查找以前上传的照片和视频。现在，当你输入标识符或 URI 时，“*加入房间*” 对话框会显示有用的预览。
@@ -51,7 +51,7 @@ Fractal 是目前 [最好的 Matrix 客户端](https://itsfoss.com/best-matrix-c
 房间成员现在拥有**一个外观整洁的个人资料页面**，可用于查看有关个人资料的简短简介、踢/禁止等审核选项，甚至可以忽略他们；这样你就看不到他们发送的任何消息或邀请。
 
 
-![](/Asserts/Images//attachment/album/202401/30/145938hk9vuxnpqrdwudzb.png)
+![](/Asserts/Images/album/202401/30/145938hk9vuxnpqrdwudzb.png)
 
 
 因此，用户现在可以**从帐户设置页面轻松管理他们的“忽略用户”列表**，可以通过单击个人资料图标附近的齿轮图标来访问该页面。

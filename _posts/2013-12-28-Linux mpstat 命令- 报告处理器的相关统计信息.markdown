@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,mpstat,命令,处理器,教程,技巧]
 现在的计算机一般都使用着多处理器或四核单处理器。在服务器端，更多的处理器或核心意味着更强的能力，但另一方面，应用程序也需要更高的能耗。你还可能遇到过这样的场景：当你的cpu利用率很高时你却感觉自己根本没有运行任何程序。以上种种情况，在Linux系统上，你可以使用 **mpstate** 来监控这样的活动。 
 
 
-![](/Asserts/Images//attachment/album/201312/30/0939420l8v2vkmrrzwkjuw.png)
+![](/Asserts/Images/album/201312/30/0939420l8v2vkmrrzwkjuw.png)
 
 
 ### 什么是mpstat

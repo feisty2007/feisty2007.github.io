@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派,Node-RED]
 > 
 
 
-![No coding required: Node-RED on a Raspberry Pi](/Asserts/Images//attachment/album/201707/19/103328du7i87dznfheebag.jpg "No coding required: Node-RED on a Raspberry Pi")
+![No coding required: Node-RED on a Raspberry Pi](/Asserts/Images/album/201707/19/103328du7i87dznfheebag.jpg "No coding required: Node-RED on a Raspberry Pi")
 
 
 Node-RED 是一个编程工具，可让你使用基于浏览器的编辑器快速连接硬件设备。它具有大量的节点，可以以拖放的方式构建流程，这大大减少了开发时间。[Node-RED](https://nodered.org/) 与树莓派的 Raspian Jessie 一起安装，你还可以独立下载 Node-RED。
@@ -27,13 +27,13 @@ Node-RED 是一个编程工具，可让你使用基于浏览器的编辑器快�
 无论你是连接 USB 加密狗还是开发板，树莓派的连接接口都是通过 USB 端口的。在本教程中，我将一块 [SIM900](http://m2msupport.net/m2msupport/simcom-sim900-gprs-2g-module/) 开发板通过一根 USB 转串行电缆连接到树莓派。
 
 
-![](/Asserts/Images//attachment/album/201707/19/103440h111of23m9ym3wic.jpg)
+![](/Asserts/Images/album/201707/19/103440h111of23m9ym3wic.jpg)
 
 
 第一步是检查 SIM900 开发板是否连接到树莓派上。
 
 
-![Checking that the SIM900 development board is connected](/Asserts/Images//attachment/album/201707/19/103330secjmimks4lctlpa.png "Checking that the SIM900 development board is connected")
+![Checking that the SIM900 development board is connected](/Asserts/Images/album/201707/19/103330secjmimks4lctlpa.png "Checking that the SIM900 development board is connected")
 
 
 USB 转串行适配器在这里被显示为连接到树莓派的 USB 设备之一。
@@ -42,7 +42,7 @@ USB 转串行适配器在这里被显示为连接到树莓派的 USB 设备之�
 接下来，检查 SIM900 连接的 USB 端口号。
 
 
-![Checking the SIM900 board's USB port number](/Asserts/Images//attachment/album/201707/19/103330dvsfoqrmvbgmdbz1.png "Checking the SIM900 board's USB port number")
+![Checking the SIM900 board's USB port number](/Asserts/Images/album/201707/19/103330dvsfoqrmvbgmdbz1.png "Checking the SIM900 board's USB port number")
 
 
 在最后一行，你可以看到 SIM900 板（通过 USB 转串行转换器连接）连接到了树莓派上的 **ttyUSB0**。现在我们准备开始使用 Node-RED。
@@ -51,7 +51,7 @@ USB 转串行适配器在这里被显示为连接到树莓派的 USB 设备之�
 在树莓派上启动 Node-RED。
 
 
-![​​​​Launching Node-RED in Raspberry Pi](/Asserts/Images//attachment/album/201707/19/103331snpf5ap8r2jnvgrp.png "​​​​Launching Node-RED in Raspberry Pi")
+![​​​​Launching Node-RED in Raspberry Pi](/Asserts/Images/album/201707/19/103331snpf5ap8r2jnvgrp.png "​​​​Launching Node-RED in Raspberry Pi")
 
 
 下载[示例流图](http://m2msupport.net/m2msupport/wp-content/themes/admired/Node-RED/modem_commands)并将其导入到 Node-RED 中。请注意，流文件是该图形 UI 的 JSON 表示形式。
@@ -60,7 +60,7 @@ USB 转串行适配器在这里被显示为连接到树莓派的 USB 设备之�
 在 Node-RED 中，导入的流图应该看上去像这样：
 
 
-![The imported flow in Node-RED](/Asserts/Images//attachment/album/201707/19/103331yam7i259pphohp3h.png "The imported flow in Node-RED")
+![The imported flow in Node-RED](/Asserts/Images/album/201707/19/103331yam7i259pphohp3h.png "The imported flow in Node-RED")
 
 
 注入节点设置 [AT 命令](http://m2msupport.net/m2msupport/software-and-at-commands-for-m2m-modules/)需要查询调制解调器。**添加换行** 功能节点会在注入节点传递过来的 AT 命令后面附加 **\r\n**。**添加换行** 的输出然后被连接到**串行输出**节点，它将数据写入串行端口。来自调制解调器的 AT 命令的响应通过 **串行输入** 节点读取，该节点将响应输出到 **调试** 窗口。确认串行端口号和端口速度在 **串行输入** 和 **串行输出** 节点中的配置。

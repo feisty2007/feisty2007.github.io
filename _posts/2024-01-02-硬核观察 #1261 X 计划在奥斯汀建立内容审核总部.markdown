@@ -7,10 +7,10 @@ tags:	[linuxcn,审核,AI,收音机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/29/152303vtlcplpqoiz7ku1g.jpg)
+![](/Asserts/Images/album/202401/29/152303vtlcplpqoiz7ku1g.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/29/152316qq79cdqdpts7nsbc.png)
+![](/Asserts/Images/album/202401/29/152316qq79cdqdpts7nsbc.png)
 
 
 ### #1 X 计划在奥斯汀建立内容审核总部
@@ -38,7 +38,7 @@ tags:	[linuxcn,审核,AI,收音机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/29/152336jjd503fd58dfjjqz.png)
+![](/Asserts/Images/album/202401/29/152336jjd503fd58dfjjqz.png)
 
 
 ### #2 利用 AI 来优化 Python 代码的性能
@@ -69,7 +69,7 @@ tags:	[linuxcn,审核,AI,收音机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/29/152356kp16hd8ixdibhx4f.png)
+![](/Asserts/Images/album/202401/29/152356kp16hd8ixdibhx4f.png)
 
 
 ### #3 美国汽车行业试图取消调幅收音机

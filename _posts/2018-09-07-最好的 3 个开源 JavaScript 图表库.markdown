@@ -15,7 +15,7 @@ tags:	[linuxcn,图表,JavaScript]
 > 
 
 
-![](/Asserts/Images//attachment/album/201809/24/075456lvopy2hhmrhljlov.jpg)
+![](/Asserts/Images/album/201809/24/075456lvopy2hhmrhljlov.jpg)
 
 
 对于数据可视化和制作精美网站来说，图表和图形很重要。视觉上的展示让分析大块数据及传递信息变得更简单。JavaScript 图表库能让数据以极好的、易于理解的和交互的方式进行可视化，还能够优化你的网站设计。
@@ -98,7 +98,7 @@ new Chart(document.getElementById("bar-chart"), {
 代码的执行结果如下。
 
 
-![](/Asserts/Images//attachment/album/201809/24/075457snd8exjnmm08lnnk.png)
+![](/Asserts/Images/album/201809/24/075457snd8exjnmm08lnnk.png)
 
 
 ### 2、 Chartist.js
@@ -196,7 +196,7 @@ new Chart(document.getElementById("bar-chart"), {
 代码的执行结果如下。
 
 
-![](/Asserts/Images//attachment/album/201809/24/075457m7j1v8807k1k8pof.png)
+![](/Asserts/Images/album/201809/24/075457m7j1v8807k1k8pof.png)
 
 
 ### 3、 D3.js
@@ -264,7 +264,7 @@ new Chart(document.getElementById("bar-chart"), {
 代码的执行结果如下。
 
 
-![](/Asserts/Images//attachment/album/201809/24/075457lgpg7gessuuepe42.png)
+![](/Asserts/Images/album/201809/24/075457lgpg7gessuuepe42.png)
 
 
 ### 总结

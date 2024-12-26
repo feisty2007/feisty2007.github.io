@@ -7,7 +7,7 @@ tags:	[linuxcn,JavaScript,浏览器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/16/145522tybcmb2kukgxutcp.jpg)
+![](/Asserts/Images/album/202209/16/145522tybcmb2kukgxutcp.jpg)
 
 
 一个名为 GNU LibreJS 的 Firefox 浏览器扩展程序旨在自动阻止非自由软件的大型 JavaScript 脚本。与 NoScript 相比，GNU LibreJS 的操作也类似。主要的区别特征之一是 NoScript 在默认情况下会阻止大多数 JavaScript 脚本，而 GNU LibreJS 针对的非自由软件的大型 JavaScript 脚本。

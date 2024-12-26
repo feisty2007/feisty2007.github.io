@@ -7,7 +7,7 @@ tags:	[linuxcn,Ansible]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/21/191741dusvu6jujm764i7s.jpg)
+![](/Asserts/Images/album/201906/21/191741dusvu6jujm764i7s.jpg)
 
 
 Ansible 是世界上最受欢迎的自动化引擎之一。它能让你自动化几乎任何事情，从本地系统的设置到大量的平台和应用。它是跨平台的，因此你可以将其用于各种操作系统。请继续阅读以获取有关如何在 Fedora 中获取最新 Ansible，以及它的一些更改和改进，以及如何使用它。

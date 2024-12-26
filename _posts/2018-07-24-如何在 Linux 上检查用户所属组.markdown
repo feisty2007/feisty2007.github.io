@@ -7,7 +7,7 @@ tags:	[linuxcn,group]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/20/120503zwzhfk70kbddfrwq.jpg)
+![](/Asserts/Images/album/201807/20/120503zwzhfk70kbddfrwq.jpg)
 
 
 将用户添加到现有组是 Linux 管理员的常规活动之一。这是一些在大环境中工作的管理员的日常活动。

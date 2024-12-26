@@ -67,7 +67,7 @@ $ xsnow
 示例输出:
 
 
-![](/Asserts/Images//attachment/album/201512/25/144759v3z84b28bmdhkhmk.jpg)
+![](/Asserts/Images/album/201512/25/144759v3z84b28bmdhkhmk.jpg)
 
 
 *图01: 在 Linux 和 Unix 桌面中显示雪花*

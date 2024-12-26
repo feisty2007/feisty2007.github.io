@@ -7,7 +7,7 @@ tags:	[linuxcn,文件同步]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/20/210937s96kbwwycd71ciiu.jpg)
+![](/Asserts/Images/album/202312/20/210937s96kbwwycd71ciiu.jpg)
 
 
 
@@ -41,7 +41,7 @@ Celeste，一个简单的 GUI 同步客户端，支持多个云提供商。
 ### 适用于 Linux 的基于 Rust 的同步客户端
 
 
-![](/Asserts/Images//attachment/album/202312/20/211007w2w9iqzgr1vvqffg.png)
+![](/Asserts/Images/album/202312/20/211007w2w9iqzgr1vvqffg.png)
 
 
 Celeste 是一款用 Rust 编写的应用，可确保你获得快速的体验。它在底层利用 rclone 来可靠地将数据与云同步。
@@ -62,19 +62,19 @@ Celeste 仅支持双向同步，目前没有其他同步方式。
 默认选项包括：**Google Drive、Dropbox、Proton Drive、pCloud、ownCloud、** 和 **Nextcloud**。
 
 
-![](/Asserts/Images//attachment/album/202312/20/211007eju2bndmizme0uhh.png)
+![](/Asserts/Images/album/202312/20/211007eju2bndmizme0uhh.png)
 
 
 你可以自定义该工具的服务器名称，然后点击“<ruby> 登录 <rt>  Log in </rt></ruby>”开始授权过程。pCloud 的情况如下：
 
 
-![](/Asserts/Images//attachment/album/202312/20/211007cz1ae29429s20p9k.png)
+![](/Asserts/Images/album/202312/20/211007cz1ae29429s20p9k.png)
 
 
 当你授权应用访问云文件，它会提示你设置本地文件夹和云之间的同步。
 
 
-![](/Asserts/Images//attachment/album/202312/20/211008u76lmwz88ofwquyw.png)
+![](/Asserts/Images/album/202312/20/211008u76lmwz88ofwquyw.png)
 
 
 如果还没有正斜杠（`/`） 符号，那么只需输入它即可，它应该开始以下拉样式列出你拥有的远程文件夹。
@@ -91,7 +91,7 @@ Celeste 仅支持双向同步，目前没有其他同步方式。
 **此同步过程定期发生。** 我没有找到强制启动或停止同步的方法。如果此应用的未来版本中提供类似的选项，它应该会有所帮助。
 
 
-![](/Asserts/Images//attachment/album/202312/20/211008v1s7l3zj8mc1r1yc.png)
+![](/Asserts/Images/album/202312/20/211008v1s7l3zj8mc1r1yc.png)
 
 
 在大多数情况下，每当本地/远程中发生文件更改时，同步都会确保你能够尽快访问最新的更改。
@@ -103,7 +103,7 @@ Celeste 仅支持双向同步，目前没有其他同步方式。
 不幸的是，如果云提供商的令牌过期，该应用不能很好地处理错误，并且你必须重新授权和重新同步。
 
 
-![](/Asserts/Images//attachment/album/202312/20/211009lrzti99iiviodoej.png)
+![](/Asserts/Images/album/202312/20/211009lrzti99iiviodoej.png)
 
 
 它会显示错误，但没有使用 GUI 刷新令牌的选项。我不想尝试命令行方式，因为这违背了 GUI 工具的目的。

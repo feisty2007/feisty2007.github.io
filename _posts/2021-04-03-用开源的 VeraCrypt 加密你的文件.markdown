@@ -15,7 +15,7 @@ tags:	[linuxcn,加密,VeraCrypt]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/17/110244p1g4tbpnw00tqwq3.jpg "Lock")
+![](/Asserts/Images/album/202104/17/110244p1g4tbpnw00tqwq3.jpg "Lock")
 
 
 许多年前，有一个名为 [TrueCrypt](https://en.wikipedia.org/wiki/TrueCrypt) 的加密软件。它的源码是可以得到的，尽管没有任何人声称曾对它进行过审计或贡献过。它的作者是（至今仍是）匿名的。不过，它是跨平台的，易于使用，而且真的非常有用。
@@ -45,7 +45,7 @@ TrueCrypt 最终关闭了，但一个名为 VeraCrypt 的替代项目迅速兴�
 如果你刚接触 VeraCrypt，你必须先创建一个 VeraCrypt 加密卷（否则，你没有任何东西可以解密）。在 VeraCrypt 窗口中，点击左侧的 “Create Volume” 按钮。
 
 
-![Creating a volume with VeraCrypt](/Asserts/Images//attachment/album/202104/17/105635uterc6r6pez1vi1w.jpg "Creating a volume with VeraCrypt")
+![Creating a volume with VeraCrypt](/Asserts/Images/album/202104/17/105635uterc6r6pez1vi1w.jpg "Creating a volume with VeraCrypt")
 
 
 在出现的 VeraCrypt 的卷创建向导窗口中，选择要创建一个加密文件容器还是要加密整个驱动器或分区。向导将为你的数据创建一个保险库，所以请按照提示进行操作。
@@ -81,7 +81,7 @@ TrueCrypt 最终关闭了，但一个名为 VeraCrypt 的替代项目迅速兴�
 为了保证你的数据安全，当你不需要打开 VeraCrypt 卷时，关闭它是很重要的。这样可以保证数据的安全，不被人窥视，且不被人趁机犯罪。
 
 
-![Mounting a VeraCrypt volume](/Asserts/Images//attachment/album/202104/17/105636nn1u6o69o9tc16uc.jpg "Mounting a VeraCrypt volume")
+![Mounting a VeraCrypt volume](/Asserts/Images/album/202104/17/105636nn1u6o69o9tc16uc.jpg "Mounting a VeraCrypt volume")
 
 
 关闭 VeraCrypt 容器和打开容器一样简单。在 VeraCrypt 窗口中选择列出的卷，然后点击 “Dismount”。你就不能访问保险库中的文件了，其他人也不会再有访问权。

@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/22/083753hzcx8kxvux8d7ckg.jpg)
+![](/Asserts/Images/album/201803/22/083753hzcx8kxvux8d7ckg.jpg)
 
 
 什么是容器？你需要它们吗？为什么？在这篇文章中，我们会回答这些基本问题。

@@ -7,13 +7,13 @@ tags:	[linuxcn,inkscape]
 ---
 
 
-![inkscape-gettingstarted](/Asserts/Images//attachment/album/201612/31/133127r4nr0r1c4hpf4cgp.png)
+![inkscape-gettingstarted](/Asserts/Images/album/201612/31/133127r4nr0r1c4hpf4cgp.png)
 
 
 Inkscape 是一个流行的、功能齐全、自由而开源的矢量[图形编辑器](https://inkscape.org/)，它已经在 Fedora 官方仓库中。它特别适合创作 [SVG 格式](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)的矢量图形。Inkscape 非常适于创建和操作图片和插图，以及创建图表和用户界面设计。
 
 
-![cyberscoty-landscape-800px](/Asserts/Images//attachment/album/201612/31/133127sioxrleepceervix.png)
+![cyberscoty-landscape-800px](/Asserts/Images/album/201612/31/133127sioxrleepceervix.png)
 
 
 *使用 inkscape 创建的[风车景色](https://openclipart.org/detail/185885/windmill-in-landscape)的插图*
@@ -22,7 +22,7 @@ Inkscape 是一个流行的、功能齐全、自由而开源的矢量[图形编�
 [其官方网站的截图页](https://inkscape.org/en/about/screenshots/)上有一些很好的例子，说明 Inkscape 可以做些什么。<ruby> Fedora 杂志 <rt>  Fedora Magazine </rt></ruby>上的大多数精选图片也是使用 Inkscape 创建的，包括最近的精选图片：
 
 
-![communty](/Asserts/Images//attachment/album/201612/31/133128wt62z5g5aramhgei.png)
+![communty](/Asserts/Images/album/201612/31/133128wt62z5g5aramhgei.png)
 
 
 *Fedora 杂志最近使用 Inkscape 创建的精选图片*
@@ -34,7 +34,7 @@ Inkscape 是一个流行的、功能齐全、自由而开源的矢量[图形编�
 **Inkscape 已经[在 Fedora 官方仓库中了](https://apps.fedoraproject.org/packages/inkscape)，因此可以非常简单地在 Fedora Workstation 上使用 Software 这个应用来安装它：**
 
 
-![inkscape-gnome-software](/Asserts/Images//attachment/album/201612/31/133129frrwz1xo1l1vvwrv.png)
+![inkscape-gnome-software](/Asserts/Images/album/201612/31/133129frrwz1xo1l1vvwrv.png)
 
 
 另外，如果你习惯用命令行，你可以使用 `dnf` 命令来安装：
@@ -52,7 +52,7 @@ sudo dnf install inkscape
 当第一次打开程序时，你会看到一个空白页面，并且有一组不同的工具栏。对于初学者，最重要的三个工具栏是：Toolbar、Tools Control Bar、 Colour Palette：
 
 
-![inkscape_window](/Asserts/Images//attachment/album/201612/31/133129ow8x4dd17kk1wqqq.png)
+![inkscape_window](/Asserts/Images/album/201612/31/133129ow8x4dd17kk1wqqq.png)
 
 
 **Toolbar**提供了创建绘图的所有基本工具，包括以下工具：
@@ -69,7 +69,7 @@ sudo dnf install inkscape
 **Colour Palette** 提供了一种设置当前选定对象的颜色的快速方式。 **Tools Control Bar** 提供了工具栏中当前选定工具的所有设置。每次选择新工具时，Tools Control Bar 会变成该工具的相应设置：
 
 
-![](/Asserts/Images//attachment/album/201612/31/133130ifyhgoiuyl5rglwa.gif)
+![](/Asserts/Images/album/201612/31/133130ifyhgoiuyl5rglwa.gif)
 
 
 ### 绘图
@@ -81,7 +81,7 @@ sudo dnf install inkscape
 你可能会注意到你画的星星看起来很像一个三角形。要更改它，请使用 **Tools Control Bar** 中的 **Corners** 选项，再添加几个点。 最后，当你完成后，在星星仍被选中的状态下，从 **Palette**（调色板）中选择一种颜色来改变星星的颜色：
 
 
-![inkscape-drawastar](/Asserts/Images//attachment/album/201612/31/133130d1313xx6c7n613w6.gif)
+![inkscape-drawastar](/Asserts/Images/album/201612/31/133130d1313xx6c7n613w6.gif)
 
 
 接下来，可以在 Toolbar 中实验一些其他形状工具，如矩形工具，螺旋工具和圆形工具。通过不同的设置，每个工具都可以创建一些独特的图形。
@@ -96,7 +96,7 @@ sudo dnf install inkscape
 选择形状后，你还可以使用尺寸句柄调整图形大小。此外，如果你单击所选的图形，尺寸句柄将转变为旋转模式，并允许你旋转图形：
 
 
-![inkscape-movingshapes](/Asserts/Images//attachment/album/201612/31/133130rmv1m99m3p6dq6w1.gif)
+![inkscape-movingshapes](/Asserts/Images/album/201612/31/133130rmv1m99m3p6dq6w1.gif)
 
 
 

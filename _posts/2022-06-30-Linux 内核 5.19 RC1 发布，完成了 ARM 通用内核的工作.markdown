@@ -7,7 +7,7 @@ tags:	[linuxcn,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/10/100401b0t82bd0ww0o2tgn.jpg)
+![](/Asserts/Images/album/202206/10/100401b0t82bd0ww0o2tgn.jpg)
 
 
 
@@ -54,7 +54,7 @@ tags:	[linuxcn,内核]
 终于，主线 Linux 内核能够 [支持 ARM 多平台](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ecf0aa5317b0ad6bb015128a5b763c954fd58708) 了。在 Linus 的 RC1 开场白中可以看到，这是该版本中的巨大改变！从 Linux 3.7 开始，跨越了十多年的工作，这是多么漫长的过程。
 
 
-![Linux 内核 5.19 Rc1 发布公告提到了 ARM 变化](/Asserts/Images//attachment/album/202206/10/100404m66ihd6tdcg2z2ci.jpg)
+![Linux 内核 5.19 Rc1 发布公告提到了 ARM 变化](/Asserts/Images/album/202206/10/100404m66ihd6tdcg2z2ci.jpg)
 
 
 #### 图形和存储升级

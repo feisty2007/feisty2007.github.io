@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,容器,网络]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/11/220025axeurt8duqlequks.jpeg)
+![](/Asserts/Images/album/201809/11/220025axeurt8duqlequks.jpeg)
 
 
 最近我一直在研究 Kubernetes 网络。我注意到一件事情就是，虽然关于如何设置 Kubernetes 网络的文章很多，也写得很不错，但是却没有看到关于如何去运维 Kubernetes 网络的文章、以及如何完全确保它不会给你造成生产事故。

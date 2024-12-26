@@ -7,7 +7,7 @@ tags:	[linuxcn,youtube-dl,视频]
 ---
 
 
-![](/Asserts/Images//attachment/album/201510/27/001920mu5bkgbg5u97o5hu.jpg)
+![](/Asserts/Images/album/201510/27/001920mu5bkgbg5u97o5hu.jpg)
 
 
 我知道你已经看过[如何下载 YouTube 视频](http://itsfoss.com/download-youtube-videos-ubuntu/)。但那些工具大部分都采用图形用户界面的方式。我会向你展示如何通过终端使用 youtube-dl 下载 YouTube 视频。

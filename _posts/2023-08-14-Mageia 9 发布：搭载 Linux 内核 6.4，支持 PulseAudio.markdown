@@ -7,7 +7,7 @@ tags:	[linuxcn,Mageia]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/31/102028gdbb8esobnofbovk.png)
+![](/Asserts/Images/album/202308/31/102028gdbb8esobnofbovk.png)
 
 
 
@@ -33,7 +33,7 @@ Mageia 最初是 [Mandriva Linux](https://en.wikipedia.org/wiki/Mandriva_Linux) 
 ### ? Mageia 9：新亮点是什么？
 
 
-![](/Asserts/Images//attachment/album/202308/31/102029le5wn9f5e1ztgzes.png)
+![](/Asserts/Images/album/202308/31/102029le5wn9f5e1ztgzes.png)
 
 
 由最新发布的 [Linux 内核 6.4](https://news.itsfoss.com/linux-kernel-6-4/) 驱动的 Mageia 9，与前一个版本相比，有了大量的提升。
@@ -89,7 +89,7 @@ Mageia 9 特色之一是它丰富的应用策略，所有这些应用都已经�
 ### 桌面环境升级
 
 
-![](/Asserts/Images//attachment/album/202308/31/102030gnonfv774azs7abf.png)
+![](/Asserts/Images/album/202308/31/102030gnonfv774azs7abf.png)
 
 
 首先，由于 Mageia 的默认桌面是 KDE Plasma，让我们先从这个开始。

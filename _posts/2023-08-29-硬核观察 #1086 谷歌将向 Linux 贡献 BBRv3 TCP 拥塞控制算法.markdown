@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,声音,Twitter]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/07/172545ovm0vbvyrcxyxerj.jpg)
+![](/Asserts/Images/album/202308/07/172545ovm0vbvyrcxyxerj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/07/172558hqtmjuz6pmwj4smj.jpg)
+![](/Asserts/Images/album/202308/07/172558hqtmjuz6pmwj4smj.jpg)
 
 
 ### 谷歌将向 Linux 贡献 BBRv3 TCP 拥塞控制算法
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,声音,Twitter]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/07/172611i6ee878e605sj67y.jpg)
+![](/Asserts/Images/album/202308/07/172611i6ee878e605sj67y.jpg)
 
 
 ### 通过麦克风窃取按键数据的新型攻击准确率高达 95%
@@ -60,7 +60,7 @@ tags:	[linuxcn,谷歌,声音,Twitter]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/07/172627d1nn6ln5q61qiz3n.jpg)
+![](/Asserts/Images/album/202308/07/172627d1nn6ln5q61qiz3n.jpg)
 
 
 ### Twitter/X 又抢夺了 @music 账号

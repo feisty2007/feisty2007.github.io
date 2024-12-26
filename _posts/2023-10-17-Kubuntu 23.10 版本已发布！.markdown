@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Kubuntu,Ubuntu 23.10]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/14/104118g6gqg1cp81gitqg5.jpg)
+![](/Asserts/Images/album/202310/14/104118g6gqg1cp81gitqg5.jpg)
 
 
 
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ubuntu,Kubuntu,Ubuntu 23.10]
 ### Kubuntu 23.10：有什么新特性？
 
 
-![](/Asserts/Images//attachment/album/202310/14/104201dmdt1fmfj25pntd4.jpg)
+![](/Asserts/Images/album/202310/14/104201dmdt1fmfj25pntd4.jpg)
 
 
 这个版本的亮点包括：
@@ -58,7 +58,7 @@ tags:	[linuxcn,Ubuntu,Kubuntu,Ubuntu 23.10]
 这是因为它是 [KDE Plasma 6](https://news.itsfoss.com/kde-plasma-6-dev/) 升级（计划在 *2024 年 2 月* 进行）前的最后一个版本。所以，你不会看到 KDE Plasma 5.28 的发布。
 
 
-![](/Asserts/Images//attachment/album/202310/14/104202vdmg4t3zld4awy4o.png)
+![](/Asserts/Images/album/202310/14/104202vdmg4t3zld4awy4o.png)
 
 
 在 KDE Plasma 5.27.8，做了许多显著的问题修复以及改进，包括对混合睡眠的支持、利用 Plasma <ruby> 系统监视器 <rt>  System Monitor </rt></ruby> 对多 GPU 配置中的英伟达 GPU 的监控。
@@ -67,7 +67,7 @@ tags:	[linuxcn,Ubuntu,Kubuntu,Ubuntu 23.10]
 也优化了 KRunner 在 X11 上的性能，系统设置中的关键词搜索更加高效。
 
 
-![](/Asserts/Images//attachment/album/202310/14/104202t9z93fr4br40v3es.png)
+![](/Asserts/Images/album/202310/14/104202t9z93fr4br40v3es.png)
 
 
 对于 Kubuntu 的软件中心 “<ruby> 发现 <rt>  Discover </rt></ruby>” 应用，改进了一些 Flatpak 错误的处理方式，你将享受更佳的用户体验。
@@ -93,7 +93,7 @@ Linux 内核 6.5 带来了硬件兼容性的改进，以及对英特尔 Arc 图�
 #### 应用程序更新
 
 
-![](/Asserts/Images//attachment/album/202310/14/104203t0qje2e2kevjj3q8.jpg)
+![](/Asserts/Images/album/202310/14/104203t0qje2e2kevjj3q8.jpg)
 
 
 Kubuntu 为你预装了最新版 [Firefox 118](https://news.itsfoss.com/firefox-118-release/)，你可以试用其内建的翻译功能（LCTT 译注：不支持中文）。

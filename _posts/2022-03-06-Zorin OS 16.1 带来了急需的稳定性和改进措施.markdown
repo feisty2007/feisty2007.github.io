@@ -21,7 +21,7 @@ Zorin OS 之所以受欢迎，是因为它为 Windows 用户的 Linux 之旅提�
 自 [Zorin OS 16](https://www.debugpoint.com/2021/12/zorin-os-16-lite-review-xfce/) 以来，经过近两个月的时间，这第一个小版本现在可以供已经在运行 16.0 版本的用户下载和升级了。
 
 
-![Zorin OS 16.1 Desktop](/Asserts/Images//attachment/album/202203/17/113528bjonjblyepcsokb9.jpg)
+![Zorin OS 16.1 Desktop](/Asserts/Images/album/202203/17/113528bjonjblyepcsokb9.jpg)
 
 
 ### Zorin OS 16.1 - 新内容

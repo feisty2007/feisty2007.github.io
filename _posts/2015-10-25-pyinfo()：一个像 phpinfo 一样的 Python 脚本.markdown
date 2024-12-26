@@ -7,7 +7,7 @@ tags:	[linuxcn,python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201510/16/000334en7p54ggks870bgh.gif)
+![](/Asserts/Images/album/201510/16/000334en7p54ggks870bgh.gif)
 
 
 作为一个热衷于 php 的家伙，我已经习惯了使用 `phpinfo()` 函数来让我轻松访问 php.ini 里的配置和加载的模块等信息。当然我也想要使用一个不存在的 `pyinfo()` 函数，但没有成功。按下 CTRL-E，google 一下是否有人实现了它？

@@ -7,7 +7,7 @@ tags:	[linuxcn,Penpot]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/17/143544u59tzeqplyhpt08h.jpg)
+![](/Asserts/Images/album/202302/17/143544u59tzeqplyhpt08h.jpg)
 
 
 
@@ -36,7 +36,7 @@ tags:	[linuxcn,Penpot]
 Penpot 现在不仅仅是提供了一个设计师特定元素的视觉列表，如属性、颜色和排版，而是将代码输出直接整合到设计工作区（就像 Web 浏览器中的开发者工具）。设计师和开发人员共享设计和前端开发的相同空间，以他们需要的任何格式获得规格。
 
 
-![Image of the current Penpot interface](/Asserts/Images//attachment/album/202302/17/143621pffakxkypxp3fhwl.jpg)
+![Image of the current Penpot interface](/Asserts/Images/album/202302/17/143621pffakxkypxp3fhwl.jpg)
 
 
 ### 内存解锁

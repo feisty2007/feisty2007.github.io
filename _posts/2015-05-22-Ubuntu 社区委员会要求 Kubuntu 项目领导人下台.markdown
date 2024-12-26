@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubuntu]
 > 
 
 
-![](/Asserts/Images//attachment/album/201505/29/062541fpgwgvyug3pgpzp1.jpg)
+![](/Asserts/Images/album/201505/29/062541fpgwgvyug3pgpzp1.jpg)
 
 
 **这一切刚刚发生。一名Debian开发者以及Kubuntu委员会成员 Scott Kitterman 决定公开一些电子邮件，邮件披露了Ubuntu 社区委员会成员要求 Jonathan Riddell 从 Kubuntu 项目领导人位置退出的过程。**

@@ -7,7 +7,7 @@ tags:	[linuxcn,Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202103/18/111916ljidnfwwsxec1fqf.jpg)
+![](/Asserts/Images/album/202103/18/111916ljidnfwwsxec1fqf.jpg)
 
 
 Linux Mint 无疑是 [最适合初学者的 Linux 发行版之一](https://itsfoss.com/best-linux-beginners/)。尤其是对于刚刚迈向 Linux 世界的 Windows 用户来说，更是如此。
@@ -22,7 +22,7 @@ Linux Mint 无疑是 [最适合初学者的 Linux 发行版之一](https://itsfo
 它给了你三个选择：Cinnamon、MATE 和 Xfce。不知道该如何选择吗？我将在本文中帮你解决这个问题。
 
 
-![](/Asserts/Images//attachment/album/202103/18/111714bzzubu4il0s7h7ah.png)
+![](/Asserts/Images/album/202103/18/111714bzzubu4il0s7h7ah.png)
 
 
 如果你是个 Linux 的绝对新手，对上面的东西一无所知，我建议你了解一下 [什么是 Linux 桌面环境](https://itsfoss.com/what-is-desktop-environment/)。如果你能再多花点时间，请阅读这篇关于 [什么是 Linux，以及为什么有这么多看起来相似的 Linux 操作系统](https://itsfoss.com/what-is-linux/) 的优秀解释。
@@ -34,7 +34,7 @@ Linux Mint 无疑是 [最适合初学者的 Linux 发行版之一](https://itsfo
 ### 你应该选择哪个 Linux Mint 版本？
 
 
-![](/Asserts/Images//attachment/album/202103/18/111714zzimv8q1siijjmq1.jpg)
+![](/Asserts/Images/album/202103/18/111714zzimv8q1siijjmq1.jpg)
 
 
 简单来说，可供选择的有以下几种：
@@ -60,7 +60,7 @@ Cinnamon 桌面是由 Linux Mint 团队开发的，显然它是 Linux Mint 的�
 很多 Linux 用户喜欢 Cinnamon，就是因为它有像 Windows 7 一样的界面。
 
 
-![Linux Mint Cinnamon desktop](/Asserts/Images//attachment/album/202103/18/111715jch07v0ohococ279.jpg)
+![Linux Mint Cinnamon desktop](/Asserts/Images/album/202103/18/111715jch07v0ohococ279.jpg)
 
 
 ##### 性能和相应能力
@@ -72,7 +72,7 @@ Cinnamon 桌面的性能比过去的版本有所提高，但如果没有固态�
 为了获得最佳的用户体验，应该考虑双核 CPU，最低 4GB 内存。
 
 
-![Linux Mint 20 Cinnamon idle system stats](/Asserts/Images//attachment/album/202103/18/111715gdkwim7773wkkm67.png)
+![Linux Mint 20 Cinnamon idle system stats](/Asserts/Images/album/202103/18/111715gdkwim7773wkkm67.png)
 
 
 ##### 优势
@@ -101,7 +101,7 @@ Cinnamon 桌面的性能比过去的版本有所提高，但如果没有固态�
 在我看来，到目前为止，MATE 桌面的最佳实现是 [Ubuntu MATE](https://itsfoss.com/ubuntu-mate-20-04-review/)。在 Linux Mint 中，你会得到一个定制版的 MATE 桌面，它符合 Cinnamon 美学，而不是传统的 GNOME 2 设定。
 
 
-![Screenshot of Linux Mint MATE desktop](/Asserts/Images//attachment/album/202103/18/111716dendgdvlwpczglel.jpg)
+![Screenshot of Linux Mint MATE desktop](/Asserts/Images/album/202103/18/111716dendgdvlwpczglel.jpg)
 
 
 ##### 性能和响应能力
@@ -113,7 +113,7 @@ MATE 桌面以轻薄著称，这一点毋庸置疑。与 Cinnamon 桌面相比�
 虽然感觉没有 Xfce 那么敏捷（在我看来），但不至于影响用户体验。内存消耗在 500MB 以下起步，这对于功能丰富的桌面环境来说是令人印象深刻的。
 
 
-![Linux Mint 20 MATE idle system stats](/Asserts/Images//attachment/album/202103/18/111716s8z6icswo2o6vsik.png)
+![Linux Mint 20 MATE idle system stats](/Asserts/Images/album/202103/18/111716s8z6icswo2o6vsik.png)
 
 
 ##### 优势
@@ -141,7 +141,7 @@ Xfce 项目始于 1996 年，受到了 UNIX 的 [通用桌面环境（CDE）](ht
 Linux Mint 提供了一个精致的 Xfce 桌面，但即使是黑暗主题也无法与 Cinnamon 桌面的美感相比。
 
 
-![Linux Mint 20 Xfce desktop](/Asserts/Images//attachment/album/202103/18/111717rrakj0kzzziaamri.jpg)
+![Linux Mint 20 Xfce desktop](/Asserts/Images/album/202103/18/111717rrakj0kzzziaamri.jpg)
 
 
 ##### 性能和响应能力
@@ -156,7 +156,7 @@ Xfce 是 Linux Mint 提供的最精简的桌面环境。通过点击开始菜单
 在第一次开机时，内存的使用情况与 MATE 桌面类似，但并不尽如人意。如果你的电脑没有配备 SSD，Xfce 桌面环境可以让你的系统复活。
 
 
-![Linux Mint 20 Xfce idle system stats](/Asserts/Images//attachment/album/202103/18/111718so4jm4xmpp8j4wpp.png)
+![Linux Mint 20 Xfce idle system stats](/Asserts/Images/album/202103/18/111718so4jm4xmpp8j4wpp.png)
 
 
 ##### 优势

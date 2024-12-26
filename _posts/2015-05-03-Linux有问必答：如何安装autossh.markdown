@@ -21,7 +21,7 @@ tags:	[linuxcn,autossh,ssh]
 只要你建立[反向SSH隧道](http://xmodulo.com/access-linux-server-behind-nat-reverse-ssh-tunnel.html)或者[挂载基于SSH的远程文件夹](http://xmodulo.com/how-to-mount-remote-directory-over-ssh-on-linux.html)，autossh迟早会派上用场。基本上只要需要维持SSH会话，autossh肯定是有用的。
 
 
-![](/Asserts/Images//attachment/album/201505/17/215215bc3pbceqljuqehue.jpg)
+![](/Asserts/Images/album/201505/17/215215bc3pbceqljuqehue.jpg)
 
 
 下面有许多linux发行版autossh的安装方法。

@@ -15,7 +15,7 @@ tags:	[linuxcn,lspci,硬件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/17/091425l7c8au5c865x7q68.jpg "computer screen ")
+![](/Asserts/Images/album/202109/17/091425l7c8au5c865x7q68.jpg "computer screen ")
 
 
 当你在个人电脑或服务器上运行 Linux 时，有时需要识别该系统中的硬件。`lspci` 命令用于显示连接到 PCI 总线的所有设备，从而满足上述需求。该命令由 [pciutils](https://mj.ucw.cz/sw/pciutils/) 包提供，可用于各种基于 Linux 和 BSD 的操作系统。

@@ -7,10 +7,10 @@ tags:	[linuxcn,elementary,OS,IT,数据迁移]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/11/103040meegwewm268e2jx8.jpg)
+![](/Asserts/Images/album/202203/11/103040meegwewm268e2jx8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/11/102737fhshdfj8837uurnb.jpg)
+![](/Asserts/Images/album/202203/11/102737fhshdfj8837uurnb.jpg)
 
 
 ### elementary OS 开发商面临瓦解
@@ -27,7 +27,7 @@ tags:	[linuxcn,elementary,OS,IT,数据迁移]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/11/103050h3pym7hh3dbhnkbh.jpg)
+![](/Asserts/Images/album/202203/11/103050h3pym7hh3dbhnkbh.jpg)
 
 
 ### 70% 的 IT 从业者想离开这个行业
@@ -44,7 +44,7 @@ Gartner 的 [研究人员发现](https://www.theregister.com/2022/03/09/gartner_
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/11/103113ilti7ckzlhk25nkq.jpg)
+![](/Asserts/Images/album/202203/11/103113ilti7ckzlhk25nkq.jpg)
 
 
 ### 谷歌宣布将推动个人数据在不同平台迁移

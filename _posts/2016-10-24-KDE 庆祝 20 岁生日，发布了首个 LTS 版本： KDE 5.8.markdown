@@ -13,7 +13,7 @@ tags:	[linuxcn,KDE,桌面环境]
 经过几个月的开发和几个版本的迭代，KDE 5.8 带着若干新功能闪亮登场，取代了之前的 5.7 系列——虽然 5.7 才于 9 月 13 日发布了其第五个维护版本。KDE 5.8 是一个长期支持版本（LTS），它会一直支持到 2018 年。
 
 
-![](/Asserts/Images//attachment/album/201610/06/102155dnwnvg5kvjna74ks.jpg)
+![](/Asserts/Images/album/201610/06/102155dnwnvg5kvjna74ks.jpg)
 
 
 “**今天，KDE 发布了其旗舰产品 Plasma 的首个 LTS 版本**”，[公告](https://www.kde.org/announcements/plasma-5.8.0.php)中称，“这标志着它的开发人员和设计师们认为它已经可以推荐给普罗大众了。如果你以前体验过 KDE，但是由于种种原因弃之而去，那么现在是你该重新考虑回来的时候了。Plasma 是一个初看简单，实则强大的桌面环境！”
@@ -36,7 +36,7 @@ tags:	[linuxcn,KDE,桌面环境]
 #### 桌面小工具
 
 
-![](/Asserts/Images//attachment/album/201610/06/104538mdhts6hofstegztd.jpg)
+![](/Asserts/Images/album/201610/06/104538mdhts6hofstegztd.jpg)
 
 
 *桌面小工具*
@@ -48,7 +48,7 @@ tags:	[linuxcn,KDE,桌面环境]
 #### 各种新鲜热辣的装饰素材
 
 
-![](/Asserts/Images//attachment/album/201610/06/104435hndnwn000ywdkrni.jpg)
+![](/Asserts/Images/album/201610/06/104435hndnwn000ywdkrni.jpg)
 
 
 *各种新鲜热辣的装饰素材*
@@ -60,7 +60,7 @@ tags:	[linuxcn,KDE,桌面环境]
 #### 桌面搜索
 
 
-![](/Asserts/Images//attachment/album/201610/06/104359bjb2knjv0zv7rrzt.jpg)
+![](/Asserts/Images/album/201610/06/104359bjb2knjv0zv7rrzt.jpg)
 
 
 *桌面搜索*
@@ -72,7 +72,7 @@ Plasma 可以让你在桌面上搜索应用、文件夹、音乐、视频、文�
 #### 统一的外观
 
 
-![](/Asserts/Images//attachment/album/201610/06/104318uzppy3y5t1kyj2hj.jpg)
+![](/Asserts/Images/album/201610/06/104318uzppy3y5t1kyj2hj.jpg)
 
 
 *统一的外观*
@@ -84,7 +84,7 @@ Plasma 的默认 Breeze 主题将各种可视组件的外观打造为一致的�
 #### 与手机集成
 
 
-![](/Asserts/Images//attachment/album/201610/06/104951qm24rr6mwx2xrzvz.jpg)
+![](/Asserts/Images/album/201610/06/104951qm24rr6mwx2xrzvz.jpg)
 
 
 *与手机集成*
@@ -96,7 +96,7 @@ Plasma 的默认 Breeze 主题将各种可视组件的外观打造为一致的�
 #### 无尽的定制可能性
 
 
-![](/Asserts/Images//attachment/album/201610/06/105203bobajamogqy7g36u.jpg)
+![](/Asserts/Images/album/201610/06/105203bobajamogqy7g36u.jpg)
 
 
 *无尽的定制可能性*
@@ -114,7 +114,7 @@ KDE 完美打造了从开机到关机的整个过程、支持从右向左文字�
 #### 从启动到关机的一致体验
 
 
-![](/Asserts/Images//attachment/album/201610/06/105636l35hugdg2ud7693z.jpg)
+![](/Asserts/Images/album/201610/06/105636l35hugdg2ud7693z.jpg)
 
 
 *从启动到关机的一致体验*
@@ -126,7 +126,7 @@ KDE 完美打造了从开机到关机的整个过程、支持从右向左文字�
 #### 支持从右向左的语言
 
 
-![](/Asserts/Images//attachment/album/201610/06/110638l88l831d8l2lc963.jpg)
+![](/Asserts/Images/album/201610/06/110638l88l831d8l2lc963.jpg)
 
 
 *支持从右向左的语言*
@@ -138,7 +138,7 @@ KDE 完美打造了从开机到关机的整个过程、支持从右向左文字�
 #### 改进的应用
 
 
-![](/Asserts/Images//attachment/album/201610/06/111335z7kksegv6p6madvo.png)
+![](/Asserts/Images/album/201610/06/111335z7kksegv6p6madvo.png)
 
 
 *媒体播放器的上下文菜单*
@@ -153,7 +153,7 @@ KDE 完美打造了从开机到关机的整个过程、支持从右向左文字�
 #### 简化的全局快捷键
 
 
-![](/Asserts/Images//attachment/album/201610/06/112940s0yka8fe0ftff7ia.jpg)
+![](/Asserts/Images/album/201610/06/112940s0yka8fe0ftff7ia.jpg)
 
 
 *全局快捷键设置*
@@ -168,7 +168,7 @@ KDE 完美打造了从开机到关机的整个过程、支持从右向左文字�
 #### 其他改进
 
 
-![](/Asserts/Images//attachment/album/201610/06/113150q2mssy9smtvvs93v.jpg)
+![](/Asserts/Images/album/201610/06/113150q2mssy9smtvvs93v.jpg)
 
 
 *Plasma Discover 的新界面*
@@ -189,7 +189,7 @@ Plasma 的窗口管理器 KWin 现在通过 llvmpipe 进行<ruby> 合成 <rp>  �
 #### Wayland 支持
 
 
-![](/Asserts/Images//attachment/album/201610/06/114732zpp57kn4ni873nz3.jpg)
+![](/Asserts/Images/album/201610/06/114732zpp57kn4ni873nz3.jpg)
 
 
 *Wayland 之上的 Plasma 现在支持 GTK+*
@@ -253,7 +253,7 @@ Plasma 的窗口管理器 KWin 现在通过 llvmpipe 进行<ruby> 合成 <rp>  �
 在此沙龙上，我们还会宣布成立 KDE 中国用户组 China KUG，您将成为 China KUG 的第一批成员。
 
 
-![](/Asserts/Images//attachment/album/201609/28/211044i570h1np0r1phzmd.jpg)
+![](/Asserts/Images/album/201609/28/211044i570h1np0r1phzmd.jpg)
 
 
 *KDE 20 周年纪念沙龙*
@@ -262,7 +262,7 @@ Plasma 的窗口管理器 KWin 现在通过 llvmpipe 进行<ruby> 合成 <rp>  �
 来吧！和我们一起吃蛋糕、合影，分享 KDE 体会，还有机会获取 iSOFTLinux V4.0 U 盘、KDE 二十周年 T 恤等多种奖品。我们在这里真诚期待每一个 KDE 爱好者及开源软件爱好者的到来！
 
 
-![](/Asserts/Images//attachment/album/201609/28/211056fqpl4zs4t44zwbbk.jpg)
+![](/Asserts/Images/album/201609/28/211056fqpl4zs4t44zwbbk.jpg)
 
 
 *KDE 20 周年纪念专属定制限量 T 恤*

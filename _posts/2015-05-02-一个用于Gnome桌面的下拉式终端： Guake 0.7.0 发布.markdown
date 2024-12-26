@@ -100,7 +100,7 @@ $ guake
 看起来非常漂亮，尤其是透明背景。滑下来...滑上去...滑下来...滑上去...执行命令，打开另一个标签，执行命令，滑上去...滑下来...（作者已沉迷其中）
 
 
-![Guake Terminal in Action](/Asserts/Images//attachment/album/201505/25/222042zdbirbcf2zr1td2z.png)
+![Guake Terminal in Action](/Asserts/Images/album/201505/25/222042zdbirbcf2zr1td2z.png)
 
 
 *Guake实战*
@@ -118,7 +118,7 @@ $ guake --preferences
 
 ```
 
-![Guake Terminal Properties](/Asserts/Images//attachment/album/201505/25/222043f5pejpa95xhj8x85.png)
+![Guake Terminal Properties](/Asserts/Images/album/201505/25/222043f5pejpa95xhj8x85.png)
 
 
 *Guake终端配置*
@@ -127,7 +127,7 @@ $ guake --preferences
 设置滚动
 
 
-![Guake Scrolling Settings](/Asserts/Images//attachment/album/201505/25/222045l464iirh111er1i3.png)
+![Guake Scrolling Settings](/Asserts/Images/album/201505/25/222045l464iirh111er1i3.png)
 
 
 *Guake滚动配置*
@@ -136,7 +136,7 @@ $ guake --preferences
 外观设置 - 在这里您可以修改文字颜色和背景色以及透明度。
 
 
-![Appearance Properties](/Asserts/Images//attachment/album/201505/25/222048ma3exiar5srnsxe7.png)
+![Appearance Properties](/Asserts/Images/album/201505/25/222048ma3exiar5srnsxe7.png)
 
 
 *外观设置*
@@ -145,7 +145,7 @@ $ guake --preferences
 键盘快捷键 - 在这里您可以修改Guake显示的开关快捷键。
 
 
-![Keyboard Shortcuts](/Asserts/Images//attachment/album/201505/25/222050mizmpvjjhm4mhvz4.png)
+![Keyboard Shortcuts](/Asserts/Images/album/201505/25/222050mizmpvjjhm4mhvz4.png)
 
 
 *键盘快捷键*
@@ -154,7 +154,7 @@ $ guake --preferences
 兼容性设置 - 基本上不必设置它。
 
 
-![Compatibility Setting](/Asserts/Images//attachment/album/201505/25/222051psa8pz347n4zj6pp.png)
+![Compatibility Setting](/Asserts/Images/album/201505/25/222051psa8pz347n4zj6pp.png)
 
 
 *兼容性设置*

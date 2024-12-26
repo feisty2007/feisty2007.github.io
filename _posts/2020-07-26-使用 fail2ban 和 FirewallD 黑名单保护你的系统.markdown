@@ -7,7 +7,7 @@ tags:	[linuxcn,防火墙,fail2ban,FirewallD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/15/124648wugu6bzpw7q5zg72.png)
+![](/Asserts/Images/album/202007/15/124648wugu6bzpw7q5zg72.png)
 
 
 如果你运行的服务器有面向公众的 SSH 访问，你可能遇到过恶意登录尝试。本文介绍了如何使用两个实用程序来防止入侵者进入我们的系统。
@@ -257,7 +257,7 @@ ipdeny_tmp_dir=$(mktemp -d -t blacklist-XXXXXXXXXX)
 pushd $ipdeny_tmp_dir
 
 # Download the latest network addresses by country file
-curl -LO http://www.ipdeny.com/ipblocks/Asserts/Images//countries/all-zones.tar.gz
+curl -LO http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz
 tar xf all-zones.tar.gz
 
 # For updates, remove the ipset blacklist and recreate

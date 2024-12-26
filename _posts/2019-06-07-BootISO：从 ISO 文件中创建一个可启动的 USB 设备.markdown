@@ -7,7 +7,7 @@ tags:	[linuxcn,ISO,USB,启动]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/16/110109qq0b7atyaped3ij2.jpg)
+![](/Asserts/Images/album/201906/16/110109qq0b7atyaped3ij2.jpg)
 
 
 为了安装操作系统，我们中的大多数人（包括我）经常从 ISO 文件中创建一个可启动的 USB 设备。为达到这个目的，在 Linux 中有很多自由可用的应用程序。甚至在过去我们写了几篇介绍这种实用程序的文章。

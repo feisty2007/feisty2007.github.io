@@ -7,7 +7,7 @@ tags:	[linuxcn,Wayland,Arch Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/08/090159qe0jkbtj5z55bbeq.jpg)
+![](/Asserts/Images/album/202309/08/090159qe0jkbtj5z55bbeq.jpg)
 
 
 
@@ -156,13 +156,13 @@ reboot
 重启后，在登录屏幕上，你应该可以看到 Wayland 的选项。选择并登录 KDE Plasma 的 Wayland 会话。
 
 
-![Plasma Wayland 会话登录界面](/Asserts/Images//attachment/album/202309/08/090345nazzxq56qcah8u67.jpg)
+![Plasma Wayland 会话登录界面](/Asserts/Images/album/202309/08/090345nazzxq56qcah8u67.jpg)
 
 
 你还能通过查看 `$XDG_SESSION_TYPE` 变量来 [核实你是否在运行 Wayland](https://www.debugpoint.com/check-wayland-or-xorg/)。
 
 
-![Arch Linux 中运行的 KDE Plasma 与 Wayland](/Asserts/Images//attachment/album/202309/08/090356zab87wbkz8kzkcx4.jpg)
+![Arch Linux 中运行的 KDE Plasma 与 Wayland](/Asserts/Images/album/202309/08/090356zab87wbkz8kzkcx4.jpg)
 
 
 如果你希望强制让 Firefox 以 Wayland 运行，那么就在 `/etc/environment` 中添加以下行。
@@ -186,7 +186,7 @@ source /etc/environment
 打开 Firefox，进入 `about:support` 页面来校验 “Window protocol” 的值。你也可以通过在终端中运行 `xlsclients` 来查看哪些外部应用正在运行在 Wayland 下。
 
 
-![在 Arch 和 KDE Plasma 下 Firefox 使用的是 xwayland](/Asserts/Images//attachment/album/202309/08/090405l3vbbcdb2dddd10j.jpg)
+![在 Arch 和 KDE Plasma 下 Firefox 使用的是 xwayland](/Asserts/Images/album/202309/08/090405l3vbbcdb2dddd10j.jpg)
 
 
 至此，你已经完成了在 Arch Linux 中使用 Wayland 安装配置 KDE Plasma 的全部步骤。
@@ -204,7 +204,7 @@ source /etc/environment
 其次，鼠标指针的变化行为有点奇怪。它无法适時地从指针状态切换到操作手柄状态（详见下图）。
 
 
-![](/Asserts/Images//attachment/album/202309/08/090215gnfvaenqpesznvrq.gif)
+![](/Asserts/Images/album/202309/08/090215gnfvaenqpesznvrq.gif)
 
 
 最后，当从待机/屏幕关闭状态恢复在线时（在没有安装客户机插件的 VirtualBox 中），KWin 会崩溃。虽然这可能只是虚拟机特有的现象，但仍然需要进行硬重启才能返回到桌面。
@@ -282,7 +282,7 @@ reboot
 在登录界面，你能看到 “GNOME (Wayland)” 选项。选择并登录到 GNOME 的 Wayland 会话中，以进入 Arch Linux。
 
 
-![在 Arch Linux 中运行的带有 Wayland 的 GNOME](/Asserts/Images//attachment/album/202309/08/090416jdnkwnvfuks16n4c.jpg)
+![在 Arch Linux 中运行的带有 Wayland 的 GNOME](/Asserts/Images/album/202309/08/090416jdnkwnvfuks16n4c.jpg)
 
 
 #### GNOME 的性能
@@ -294,7 +294,7 @@ reboot
 此外，Firefox 是在 GNOME 上直接在 Wayland 上运行，而不是使用 xwayland 包装器。
 
 
-![在 GNOME 中的 Firefox 使用 Wayland](/Asserts/Images//attachment/album/202309/08/090422mnmyi9yiomigyr90.jpg)
+![在 GNOME 中的 Firefox 使用 Wayland](/Asserts/Images/album/202309/08/090422mnmyi9yiomigyr90.jpg)
 
 
 ### 解决常见 Wayland 问题

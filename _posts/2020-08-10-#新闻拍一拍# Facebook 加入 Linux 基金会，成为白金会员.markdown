@@ -7,7 +7,7 @@ tags:	[linuxcn,Facebook]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/15/074148mnkezk0kznrkeyhr.jpg)
+![](/Asserts/Images/album/202008/15/074148mnkezk0kznrkeyhr.jpg)
 
 
 #### Facebook 加入 Linux 基金会，成为白金会员

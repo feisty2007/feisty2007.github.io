@@ -15,7 +15,7 @@ tags:	[linuxcn,模块,内核]
 > 
 
 
-![](/Asserts/Images//attachment/album/201806/16/112027iau92bydbyxuf7mn.png)
+![](/Asserts/Images/album/201806/16/112027iau92bydbyxuf7mn.png)
 
 
 本文来自 Manning 出版的 [Linux in Action](https://www.manning.com/books/linux-in-action?a_aid=bootstrap-it&amp;a_bid=4ca15fc9&amp;chan=opensource) 的第 15 章。
@@ -30,7 +30,7 @@ Linux 使用内核模块管理硬件外设。 我们来看看它是如何工作�
 为了在稳定性和可用性之间达成有效的平衡，Linux 将内核隔离，但是允许您通过可加载内核模块 (LKM) 实时添加特定的功能。如下图所示，您可以将模块视为软件的一部分，它告诉内核在哪里找到一个设备以及如何使用它。反过来，内核使设备对用户和进程可用，并监视其操作。
 
 
-![Kernel modules](/Asserts/Images//attachment/album/201806/16/112041o02hso1bs2h2177z.png "Kernel modules")
+![Kernel modules](/Asserts/Images/album/201806/16/112041o02hso1bs2h2177z.png "Kernel modules")
 
 
 *内核模块充当设备和 Linux 内核之间的转换器。*

@@ -7,7 +7,7 @@ tags:	[linuxcn,GNOME,扩展]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/13/234738ugdr1h1zg1zyrzia.png)
+![](/Asserts/Images/album/201902/13/234738ugdr1h1zg1zyrzia.png)
 
 
 Fedora 工作站的默认桌面 GNOME Shell，因其极简、整洁的用户界面而闻名，并深受许多用户的喜爱。它还以可使用扩展添加到 stock 界面的能力而闻名。在本文中，我们将介绍 GNOME Shell 的 3 个简单且有用的扩展。这三个扩展为你的桌面提供了更多的行为，可以完成你可能每天都会做的简单任务。
@@ -19,13 +19,13 @@ Fedora 工作站的默认桌面 GNOME Shell，因其极简、整洁的用户界�
 安装 GNOME Shell 扩展的最快捷、最简单的方法是使用“软件”应用。有关详细信息，请查看 Magazine [以前的文章](https://fedoramagazine.org/install-extensions-via-software-application/)：
 
 
-![](/Asserts/Images//attachment/album/201902/13/234739guapco7aop2d8p5w.jpg)
+![](/Asserts/Images/album/201902/13/234739guapco7aop2d8p5w.jpg)
 
 
 ### 可移动驱动器菜单
 
 
-![](/Asserts/Images//attachment/album/201902/13/234739opzjotgnczehjen9.jpg)
+![](/Asserts/Images/album/201902/13/234739opzjotgnczehjen9.jpg)
 
 
 *Fedora 29 中的 Removable Drive Menu 扩展*
@@ -34,7 +34,7 @@ Fedora 工作站的默认桌面 GNOME Shell，因其极简、整洁的用户界�
 首先是 [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) 扩展。如果你的计算机中有可移动驱动器，它是一个可在系统托盘中添加一个 widget 的简单工具。它可以使你轻松打开可移动驱动器中的文件，或者快速方便地弹出驱动器以安全移除设备。
 
 
-![](/Asserts/Images//attachment/album/201902/13/234740ziqit8j2jiyygy23.png)
+![](/Asserts/Images/album/201902/13/234740ziqit8j2jiyygy23.png)
 
 
 *软件应用中的 Removable Drive Menu*
@@ -43,13 +43,13 @@ Fedora 工作站的默认桌面 GNOME Shell，因其极简、整洁的用户界�
 ### 扩展之扩展
 
 
-![](/Asserts/Images//attachment/album/201902/13/234741l5syuzzz5ztuu2h5.jpg)
+![](/Asserts/Images/album/201902/13/234741l5syuzzz5ztuu2h5.jpg)
 
 
 如果你一直在安装和尝试新扩展，那么 [Extensions](https://extensions.gnome.org/extension/1036/extensions/) 扩展非常有用。它提供了所有已安装扩展的列表，允许你启用或禁用它们。此外，如果该扩展有设置，那么可以快速打开每个扩展的设置对话框。
 
 
-![](/Asserts/Images//attachment/album/201902/13/234741nbodtbggvxtszibm.png)
+![](/Asserts/Images/album/201902/13/234741nbodtbggvxtszibm.png)
 
 
 *软件中的 Extensions 扩展*
@@ -58,13 +58,13 @@ Fedora 工作站的默认桌面 GNOME Shell，因其极简、整洁的用户界�
 ### 无用的时钟移动
 
 
-![](/Asserts/Images//attachment/album/201902/13/234742ibeh8jtftncnbmcb.jpg)
+![](/Asserts/Images/album/201902/13/234742ibeh8jtftncnbmcb.jpg)
 
 
 最后的是列表中最简单的扩展。[Frippery Move Clock](https://extensions.gnome.org/extension/2/move-clock/)，只是将时钟位置从顶部栏的中心向右移动，位于状态区旁边。
 
 
-![](/Asserts/Images//attachment/album/201902/13/234743jx9x5ay30xz90fj6.png)
+![](/Asserts/Images/album/201902/13/234743jx9x5ay30xz90fj6.png)
 
 
 

@@ -15,7 +15,7 @@ tags:	[linuxcn,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/18/141845o3xd7dq7hq9dd9qx.png)
+![](/Asserts/Images/album/202202/18/141845o3xd7dq7hq9dd9qx.png)
 
 
 Fedora 35 是一个令人印象深刻的 Linux 发行版，在这个版本中首次推出了 GNOME 41 并引入了一个新的 KDE 变体。
@@ -42,7 +42,7 @@ Fedora 35 支持几个 Linux 游戏。然而，如果你需要使用 Proton 或 
 所以，Nobara 项目旨在提供一个非官方的衍生版，为其添加用户友好的修复，使其成为 Linux 玩家的理想选择。
 
 
-![](/Asserts/Images//attachment/album/202202/18/141846z6rolflukjve64uw.jpg)
+![](/Asserts/Images/album/202202/18/141846z6rolflukjve64uw.jpg)
 
 
 #### 对于 Fedora 35 的小白用户

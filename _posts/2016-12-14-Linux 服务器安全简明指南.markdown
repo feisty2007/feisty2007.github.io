@@ -10,7 +10,7 @@ tags:	[linuxcn,服务器,安全,防火墙]
 现在让我们强化你的服务器以防止未授权访问。
 
 
-![](/Asserts/Images//attachment/album/201612/30/001143d53jv5fzqcpx3338.jpg)
+![](/Asserts/Images/album/201612/30/001143d53jv5fzqcpx3338.jpg)
 
 
 ### 经常升级系统

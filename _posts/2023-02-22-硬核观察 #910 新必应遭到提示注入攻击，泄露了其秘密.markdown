@@ -7,10 +7,10 @@ tags:	[linuxcn,KDE,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/12/154709kuss7y1x11txkdxx.jpg)
+![](/Asserts/Images/album/202302/12/154709kuss7y1x11txkdxx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/12/154720d6beadb2a6yt3v66.jpg)
+![](/Asserts/Images/album/202302/12/154720d6beadb2a6yt3v66.jpg)
 
 
 ### 新必应遭到提示注入攻击，泄露了其秘密
@@ -35,7 +35,7 @@ tags:	[linuxcn,KDE,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/12/154733js3ol32vzm03u3vu.jpg)
+![](/Asserts/Images/album/202302/12/154733js3ol32vzm03u3vu.jpg)
 
 
 ### 谷歌的人工智能聊天机器人犯错后，其股价下跌千亿美元
@@ -60,7 +60,7 @@ tags:	[linuxcn,KDE,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/12/154752xcldcq4g74rlrxor.jpg)
+![](/Asserts/Images/album/202302/12/154752xcldcq4g74rlrxor.jpg)
 
 
 ### 有史以来最好的 Plasma 5 版本 5.27 即将发布

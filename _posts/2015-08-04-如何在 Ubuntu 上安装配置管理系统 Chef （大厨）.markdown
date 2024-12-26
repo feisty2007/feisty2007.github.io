@@ -13,7 +13,7 @@ tags:	[linuxcn,Chef,配置管理]
 下面是我们将要在本篇中要设置和配置Chef的主要组件。
 
 
-![](/Asserts/Images//attachment/album/201508/10/105503sh2ihhvha00kmymg.png)
+![](/Asserts/Images/album/201508/10/105503sh2ihhvha00kmymg.png)
 
 
 ### 安装Chef的要求和版本
@@ -155,7 +155,7 @@ root@ubuntu-14-chef:~# chef-server-ctl reconfigure
 我们可以使用localhost或它的域名来访问网页控制台，并用已经创建的管理员登录
 
 
-![chef amanage](/Asserts/Images//attachment/album/201508/10/105504uh2d1gdgbzaw1bpd.png)
+![chef amanage](/Asserts/Images/album/201508/10/105504uh2d1gdgbzaw1bpd.png)
 
 
 #### 1) Chef Manage创建新的组织
@@ -164,7 +164,7 @@ root@ubuntu-14-chef:~# chef-server-ctl reconfigure
 你或许被要求创建新的组织，或者也可以接受其他组织的邀请。如下所示，使用缩写和全名来创建一个新的组织。
 
 
-![Create Org](/Asserts/Images//attachment/album/201508/10/105505u55y37954w5z48t4.png)
+![Create Org](/Asserts/Images/album/201508/10/105505u55y37954w5z48t4.png)
 
 
 #### 2) 用命令行创建新的组织
@@ -205,13 +205,13 @@ root@ubuntu-14-chef:~# chef-server-ctl org-create blogs Linoxide Blogs Inc. --as
 在工作站的网页控制台中下载并保存入门套件，它用于与服务端协同工作
 
 
-![Starter Kit](/Asserts/Images//attachment/album/201508/10/105506lvejbqj4et7n7v9t.png)
+![Starter Kit](/Asserts/Images/album/201508/10/105506lvejbqj4et7n7v9t.png)
 
 
 #### 3) 下载套件后，点击"Proceed"
 
 
-![starter kit](/Asserts/Images//attachment/album/201508/10/105506ss48jdiq4si9qx58.png)
+![starter kit](/Asserts/Images/album/201508/10/105506ss48jdiq4si9qx58.png)
 
 
 ### 用于工作站的Chef开发套件设置
@@ -226,7 +226,7 @@ Chef开发套件是一款包含开发chef所需的所有工具的软件包。它
 我们可以从它的官网链接中下载开发包，并选择操作系统来下载chef开发包。
 
 
-![Chef DK](/Asserts/Images//attachment/album/201508/10/105507kibpgnnpbnxrngit.png)
+![Chef DK](/Asserts/Images/album/201508/10/105507kibpgnnpbnxrngit.png)
 
 
 复制链接并用wget下载

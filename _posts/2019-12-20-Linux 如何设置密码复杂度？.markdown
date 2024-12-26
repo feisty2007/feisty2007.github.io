@@ -7,7 +7,7 @@ tags:	[linuxcn,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/201912/23/231829jr5huwjufjhxxwrz.jpg)
+![](/Asserts/Images/album/201912/23/231829jr5huwjufjhxxwrz.jpg)
 
 
 对于 Linux 系统管理员来说，用户管理是最重要的事之一。这涉及到很多因素，实现强密码策略是用户管理的其中一个方面。移步后面的 URL 查看如何 [在 Linux 上生成一个强密码](https://www.2daygeek.com/5-ways-to-generate-a-random-strong-password-in-linux-terminal/)。它会限制系统未授权的用户的访问。

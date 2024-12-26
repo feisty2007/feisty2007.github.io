@@ -7,7 +7,7 @@ tags:	[linuxcn,文件,目录]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/30/122009vy33l5tmr0t0itiz.jpg)
+![](/Asserts/Images/album/201904/30/122009vy33l5tmr0t0itiz.jpg)
 
 
 在之前的该系列的部分中，[你学习了有关目录](/article-10066-1.html)和[访问目录](/article-10399-1.html)[的权限](/article-10370-1.html)是如何工作的。你在这些文章中学习的大多数内容都可应用于文件，除了如何让一个文件变成可执行文件。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Ubuntu 23.10]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/13/095752pfbbxdci1xoqcfb1.jpg)
+![](/Asserts/Images/album/202310/13/095752pfbbxdci1xoqcfb1.jpg)
 
 
 
@@ -44,7 +44,7 @@ tags:	[linuxcn,Ubuntu,Ubuntu 23.10]
 ### ⭐ Ubuntu 23.10：新版调整了什么？
 
 
-![](/Asserts/Images//attachment/album/202310/13/095826lstclmrxdcpd0e1d.png)
+![](/Asserts/Images/album/202310/13/095826lstclmrxdcpd0e1d.png)
 
 
 即使这是一个非 LTS 发布，但是 **Ubuntu 23.10 却包含了许多有趣的新特性和升级**。
@@ -64,7 +64,7 @@ tags:	[linuxcn,Ubuntu,Ubuntu 23.10]
 ### 更新升级的安装程序
 
 
-![](/Asserts/Images//attachment/album/202310/13/095826cz2qv2ovo8vv8p60.png)
+![](/Asserts/Images/album/202310/13/095826cz2qv2ovo8vv8p60.png)
 
 
 首先，Ubuntu 23.10 的安装程序 **开始实验性地支持两大重要功能** ：
@@ -87,7 +87,7 @@ tags:	[linuxcn,Ubuntu,Ubuntu 23.10]
 ### 受限的非特权用户命名空间
 
 
-![](/Asserts/Images//attachment/album/202310/13/095827dygg312bg44go4qg.png)
+![](/Asserts/Images/album/202310/13/095827dygg312bg44go4qg.png)
 
 
 Ubuntu 23.10 首次推出一项新的安全功能。它限制了内核的 “非特权用户命名空间” 特性，这有助于应用程序创建更安全的沙箱环境。
@@ -105,7 +105,7 @@ Ubuntu 23.10 首次推出一项新的安全功能。它限制了内核的 “非
 ### GNOME 45
 
 
-![](/Asserts/Images//attachment/album/202310/13/095827yv2mdq6i00vizc52.png)
+![](/Asserts/Images/album/202310/13/095827yv2mdq6i00vizc52.png)
 
 
 Ubuntu 23.10 提供了最新发布的 [GNOME 45](/article-16215-1.html) 桌面环境，它包括了 **优化过的系统设置应用**、**更新的核心应用**，并 **新增了两个应用**，名为 <ruby> <a href="/article-15887-1.html">  放大镜 </a> <rt>  Loupe </rt></ruby> 和 <ruby> <a href="/article-15789-1.html">  快照 </a> <rt>  Snapshot </rt></ruby>。
@@ -117,7 +117,7 @@ Ubuntu 23.10 提供了最新发布的 [GNOME 45](/article-16215-1.html) 桌面�
 ### 新的壁纸
 
 
-![](/Asserts/Images//attachment/album/202310/13/095828ajrnbo8v8dx7bnpv.png)
+![](/Asserts/Images/album/202310/13/095828ajrnbo8v8dx7bnpv.png)
 
 
 Ubuntu 23.10 版本发布，也不忘继续传统，**推出了全新的壁纸** ，这些壁纸主题都与其代号保持一致。所有壁纸看起来都非常不错，这些都是从几个月前举行的 Mantic Minotaur [壁纸比赛](https://discourse.ubuntu.com/t/mantic-minotaur-23-10-wallpaper-competition/37235) 中被选中的。
@@ -137,7 +137,7 @@ Ubuntu 23.10 版本发布，也不忘继续传统，**推出了全新的壁纸**
 ### 基于 Flutter 的应用商店
 
 
-![](/Asserts/Images//attachment/album/202310/13/095828mexx3y85eeeo76e6.png)
+![](/Asserts/Images/album/202310/13/095828mexx3y85eeeo76e6.png)
 
 
 得益于在 Ubuntu 23.10 上推出了 **全新的 [基于 Flutter 的商店](https://news.itsfoss.com/ubuntu-23-10-ubuntu-store/)** ，Canonical 推将 Ubuntu 各种元素 Flutter 化的努力见到了效果。这个新商店拥有 **更新的布局**、**全新的应用视图** ，以及 **更好的搜索功能**。
@@ -149,7 +149,7 @@ Ubuntu 23.10 版本发布，也不忘继续传统，**推出了全新的壁纸**
 ### Linux 内核 6.5
 
 
-![](/Asserts/Images//attachment/album/202310/13/095829nm8j78sdoglzmts1.png)
+![](/Asserts/Images/album/202310/13/095829nm8j78sdoglzmts1.png)
 
 
 首先，让我们来了解下让一切变为可能的原动力。Ubuntu 23.10 版本采用了相对更新的 [Linux 内核 6.5](https://news.itsfoss.com/linux-kernel-6-5-release/)。

@@ -27,19 +27,19 @@ VirtualBox对虚拟机支持几种不同的网络方式，其中一种是NAT网�
 在VirtualBox中选择你想要访问的虚拟机，打开虚拟机的“设置”。点击左侧的“网络”菜单，点击网络适配选项的“高级”。
 
 
-![](/Asserts/Images//attachment/album/201412/02/114444syq7h72lch7vyk2d.jpg)
+![](/Asserts/Images/album/201412/02/114444syq7h72lch7vyk2d.jpg)
 
 
 点击“端口转发”按钮
 
 
-![](/Asserts/Images//attachment/album/201412/02/114447cr9kzmjkje99pk3k.jpg)
+![](/Asserts/Images/album/201412/02/114447cr9kzmjkje99pk3k.jpg)
 
 
 你会看到一个配置端口转发规则的窗口。点击右上角的“添加”图标。
 
 
-![](/Asserts/Images//attachment/album/201412/02/114449m9y5lc999clc9lcc.jpg)
+![](/Asserts/Images/album/201412/02/114449m9y5lc999clc9lcc.jpg)
 
 
 就会看到像下面那样的转发规则。
@@ -53,7 +53,7 @@ VirtualBox对虚拟机支持几种不同的网络方式，其中一种是NAT网�
 * **Guest Port**: 22 (SSH 端口)
 
 
-![](/Asserts/Images//attachment/album/201412/02/114451csbxtu0xlbttvlv8.png)
+![](/Asserts/Images/album/201412/02/114451csbxtu0xlbttvlv8.png)
 
 
 端口转发的规则会自动在你启动虚拟机的时候启用。为了验证。可以在你启用虚拟机后检查端口2222是否被VirtualBox开启了。
@@ -65,7 +65,7 @@ $ sudo netstat -nap | grep 2222
 
 ```
 
-![](/Asserts/Images//attachment/album/201412/02/114453q8n48oiig3ivrizo.jpg)
+![](/Asserts/Images/album/201412/02/114453q8n48oiig3ivrizo.jpg)
 
 
 现在端口转发可以使用了，你可以用下面的命令SSH到虚拟机。
@@ -104,7 +104,7 @@ $ VBoxManage modifyvm "centos7" --natpf1 "SSH,tcp,127.0.0.1,2222,10.0.2.15,22"
 
 ```
 
-![](/Asserts/Images//attachment/album/201412/02/114455b8378d2hdhudaavd.jpg)
+![](/Asserts/Images/album/201412/02/114455b8378d2hdhudaavd.jpg)
 
 
 

@@ -19,7 +19,7 @@ tags:	[linuxcn,树莓派]
 ### 树莓派 400 概观
 
 
-![](/Asserts/Images//attachment/album/202011/05/191936ugoe51gr50rgge6u.jpg)
+![](/Asserts/Images/album/202011/05/191936ugoe51gr50rgge6u.jpg)
 
 
 它是基于树莓派 4 的（带有 4GB 内存），并已调整附加了冷却器。它采用四核处理器，速度比以往更快。
@@ -54,7 +54,7 @@ tags:	[linuxcn,树莓派]
 * 最大尺寸 286 毫米 × 122 毫米 × 23 毫米
 
 
-![](/Asserts/Images//attachment/album/202011/05/191940yblizfqqqbsa4h4y.jpg)
+![](/Asserts/Images/album/202011/05/191940yblizfqqqbsa4h4y.jpg)
 
 
 ### 定价与供应

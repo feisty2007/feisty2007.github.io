@@ -7,7 +7,7 @@ tags:	[linuxcn,IPsec]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/15/225414k7rz2sh5596rlz3s.jpg)
+![](/Asserts/Images/album/201808/15/225414k7rz2sh5596rlz3s.jpg)
 
 
 嗨！和去年一样，今年我又参加了 [netdev 会议](https://www.netdevconf.org/0x12/)。（[这里](https://jvns.ca/categories/netdev/)是我上一年所做的笔记）。

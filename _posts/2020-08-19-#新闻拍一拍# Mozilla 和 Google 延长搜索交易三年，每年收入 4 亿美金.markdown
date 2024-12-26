@@ -7,7 +7,7 @@ tags:	[linuxcn,Mozilla]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/13/164327p7aj7vaystkgzabj.jpg)
+![](/Asserts/Images/album/202008/13/164327p7aj7vaystkgzabj.jpg)
 
 
 #### Mozilla 和 Google 延长搜索交易三年，每年收入 4 亿美金

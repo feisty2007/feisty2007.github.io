@@ -15,7 +15,7 @@ tags:	[linuxcn,Tails]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/09/104755mug130mz0ouu9gxq.jpg)
+![](/Asserts/Images/album/202205/09/104755mug130mz0ouu9gxq.jpg)
 
 
 Tails 是一个流行的 Linux 发行版，它专注于保护人们免受审查和监视，是 [注重隐私的 Linux 发行版](https://itsfoss.com/privacy-focused-linux-distributions/) 之一。
@@ -39,7 +39,7 @@ Tails 5.0 是最新的版本，它基于 Debian 11（Bullseye）构建。因此�
 #### 增加了 Kleopatra 工具
 
 
-![](/Asserts/Images//attachment/album/202205/09/104755ccjzioon3zaph4ss.png)
+![](/Asserts/Images/album/202205/09/104755ccjzioon3zaph4ss.png)
 
 
 Kleopatra 是 [GnuPG](https://www.gnupg.org/) 的一个图形界面，它用于加密文本和文件。在 Tails 5.0 中，Kleopatra 取代了 OpenPGP 小程序 和 Seahorse 工具。
@@ -60,7 +60,7 @@ Kleopatra 只在一个软件包中就完成了这一切。并且，相对而言�
 #### 对活动概览的改进
 
 
-![](/Asserts/Images//attachment/album/202205/09/104756do4oooxkdqdvqxve.png)
+![](/Asserts/Images/album/202205/09/104756do4oooxkdqdvqxve.png)
 
 
 在 Tails 5.0 中，你可以使用活动概览来访问你的窗口和应用程序。你只需点击屏幕左上角的“<ruby> 活动 <rt>  Activities </rt></ruby>”按钮或按下键盘上的<ruby> 超级 <rt>  Super </rt></ruby>键（LCTT 译注：在某些键盘上是 WIN 键）即可。

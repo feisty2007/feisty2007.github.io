@@ -7,10 +7,10 @@ tags:	[linuxcn,Linus Torvalds,摩尔定律,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/28/170144pc18hlnyr1ffnn89.jpg)
+![](/Asserts/Images/album/202209/28/170144pc18hlnyr1ffnn89.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/28/170157zoradw0rtzrss5dd.jpg)
+![](/Asserts/Images/album/202209/28/170157zoradw0rtzrss5dd.jpg)
 
 
 ### Linus Torvalds 获颁英特尔首个终身创新成就奖
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linus Torvalds,摩尔定律,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/28/170211p42tvvaaqafmafm4.jpg)
+![](/Asserts/Images/album/202209/28/170211p42tvvaaqafmafm4.jpg)
 
 
 ### 英特尔认为摩尔定律仍旧有效
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linus Torvalds,摩尔定律,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/28/170227cz5xxf0htfjki0ax.jpg)
+![](/Asserts/Images/album/202209/28/170227cz5xxf0htfjki0ax.jpg)
 
 
 ### Rust for Linux v10 补丁发布，预计合并到 Linux 6.1

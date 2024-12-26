@@ -27,7 +27,7 @@ tags:	[linuxcn,手册,免费,下载,Linux,Debian]
 什么是Debian？安装方法、二进制包的结构、软件包的结构、稳定软件库、性能和apt-get命令、配置和编程、通过ADSL连接、数据库、编译内核、RAID和LVM、图形化桌面、创建Debian包等，全部涵盖在了《The Debian Administrator’s Handbook, Debian Wheezy from Discovery to Mastery》的498页内容中。
 
 
-![](/Asserts/Images//attachment/album/201401/21/095502mugznz22rc6onu5w.png)
+![](/Asserts/Images/album/201401/21/095502mugznz22rc6onu5w.png)
 
 
 《The Debian Administrator’s Handbook, Debian Wheezy from Discovery to Mastery》可以免费下载（498页，[PDF](http://debian-handbook.info/download/stable/debian-handbook.pdf)，[EPUB](http://debian-handbook.info/download/stable/debian-handbook.epub)，[MOBI](http://debian-handbook.info/download/stable/debian-handbook.mobi)）。

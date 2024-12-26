@@ -7,10 +7,10 @@ tags:	[linuxcn,英伟达,Android,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/12/164424rb06zhk9m86tw4kw.jpg)
+![](/Asserts/Images/album/202205/12/164424rb06zhk9m86tw4kw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/12/164438umet7dud7mecmlye.jpg)
+![](/Asserts/Images/album/202205/12/164438umet7dud7mecmlye.jpg)
 
 
 ### 英伟达开源 Linux GPU 内核驱动
@@ -38,7 +38,7 @@ tags:	[linuxcn,英伟达,Android,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/12/164451khssl4d2sdhtzd44.jpg)
+![](/Asserts/Images/album/202205/12/164451khssl4d2sdhtzd44.jpg)
 
 
 ### 谷歌公开发布 Android 13 测试版
@@ -63,7 +63,7 @@ tags:	[linuxcn,英伟达,Android,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/12/164559bv8u3usug8gufk41.jpg)
+![](/Asserts/Images/album/202205/12/164559bv8u3usug8gufk41.jpg)
 
 
 ### 微软的 Linux 发行版 CBL-Mariner 发布 2.0 版本

@@ -7,10 +7,10 @@ tags:	[linuxcn,NetBSD,演员,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/12/183554wt03mh13699yyyty.jpg)
+![](/Asserts/Images/album/202311/12/183554wt03mh13699yyyty.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/12/183610lliklks3rwzjgryi.png)
+![](/Asserts/Images/album/202311/12/183610lliklks3rwzjgryi.png)
 
 
 ### 开发了四年的 NetBSD 10 接近发布
@@ -35,7 +35,7 @@ NetBSD 10 自 2019 年底开始开发，测试版已经发布了一年，而现�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/12/183633p8odlx9lb99bxv0x.png)
+![](/Asserts/Images/album/202311/12/183633p8odlx9lb99bxv0x.png)
 
 
 ### 好莱坞演员获得了人工智能保护措施
@@ -60,7 +60,7 @@ NetBSD 10 自 2019 年底开始开发，测试版已经发布了一年，而现�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/12/183653km7qu3ycuuj33ku2.png)
+![](/Asserts/Images/album/202311/12/183653km7qu3ycuuj33ku2.png)
 
 
 ### 美议员提案禁止使用与中国有关的区块链技术

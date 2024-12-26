@@ -15,7 +15,7 @@ tags:	[linuxcn,布道师]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/25/090825y2fss1oesohbslf2.jpg "Teamwork starts with communication ")
+![](/Asserts/Images/album/202304/25/090825y2fss1oesohbslf2.jpg "Teamwork starts with communication ")
 
 
 当人们得知我是位（专注于 [syslog-ng](https://www.syslog-ng.com/) 和 [sudo](https://www.sudo.ws/) 的）开源布道师的时候，他们经常问我为 Linux 世界中如此知名的软件“代言”是什么感觉。我的回答非常简短：非常棒！

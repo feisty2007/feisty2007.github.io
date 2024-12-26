@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows,iOS,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/11/191737gb1szsmbnzdmddam.jpg)
+![](/Asserts/Images/album/202311/11/191737gb1szsmbnzdmddam.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/11/191839dyjqstegzgrag7qx.png)
+![](/Asserts/Images/album/202311/11/191839dyjqstegzgrag7qx.png)
 
 
 ### 40 年前，微软宣布 Windows 开发计划
@@ -35,7 +35,7 @@ tags:	[linuxcn,Windows,iOS,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/11/191914wn888sb41khu8bqq.png)
+![](/Asserts/Images/album/202311/11/191914wn888sb41khu8bqq.png)
 
 
 ### 苹果公司为在 iOS 上侧载应用做准备
@@ -60,7 +60,7 @@ iOS 17.2 有了一个新的公共框架，名为 “托管应用分发”。通�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/11/191932usc7s9a7omosdqq7.png)
+![](/Asserts/Images/album/202311/11/191932usc7s9a7omosdqq7.png)
 
 
 ### 微软禁止内部使用 OpenAI 的 ChatGPT

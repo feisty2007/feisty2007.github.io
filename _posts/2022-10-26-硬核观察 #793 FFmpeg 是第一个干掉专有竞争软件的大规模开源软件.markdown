@@ -7,10 +7,10 @@ tags:	[linuxcn,FFmpeg,Windows 95,比特币]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/18/163333ctaljeqetltmet9m.jpg)
+![](/Asserts/Images/album/202210/18/163333ctaljeqetltmet9m.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/18/163339upz6cbs0sf55b75c.jpg)
+![](/Asserts/Images/album/202210/18/163339upz6cbs0sf55b75c.jpg)
 
 
 ### FFmpeg 是第一个干掉专有竞争软件的大规模开源软件
@@ -35,7 +35,7 @@ FFmpeg 被描述为多媒体的瑞士军刀。它集成了数百个视频、音�
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/18/163351h4ryjjr3yym444uu.gif)
+![](/Asserts/Images/album/202210/18/163351h4ryjjr3yym444uu.gif)
 
 
 ### Electron 上运行的 Windows 95 发布新版本
@@ -60,7 +60,7 @@ FFmpeg 被描述为多媒体的瑞士军刀。它集成了数百个视频、音�
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/18/163410dmosb4m5lnclofur.jpg)
+![](/Asserts/Images/album/202210/18/163410dmosb4m5lnclofur.jpg)
 
 
 ### 比特币网络花了一个半小时才产生了一个区块

@@ -7,7 +7,7 @@ tags:	[linuxcn,CAD,FreeCAD]
 ---
 
 
-![FreeCAD 3D Modeling Software](/Asserts/Images//attachment/album/201712/19/073013pbmhmek4yqzc4zwh.png)
+![FreeCAD 3D Modeling Software](/Asserts/Images/album/201712/19/073013pbmhmek4yqzc4zwh.png)
 
 
 [FreeCAD](http://www.freecadweb.org/) 是一个基于 OpenCasCade 的跨平台机械工程和产品设计工具。作为参数化 3D 建模工具，它可以与 PLM、CAx、CAE、MCAD 和 CAD 协同工作，并且可以使用大量高级扩展和自定义选项扩展其功能。
@@ -16,7 +16,7 @@ tags:	[linuxcn,CAD,FreeCAD]
 它有基于 Qt 的简约用户界面，具有可切换的面板、布局、工具栏、大量的 Python API 以及符合 Open Inventor 的 3D 场景表示模型（感谢 Coin 3D 库）。
 
 
-[![FreeCAD 3D Software](/Asserts/Images//attachment/album/201712/19/073013goswmwxe0ppe15xa.png)](https://www.fossmint.com/wp-content/uploads/2017/12/FreeCAD-3D-Software.png)
+[![FreeCAD 3D Software](/Asserts/Images/album/201712/19/073013goswmwxe0ppe15xa.png)](https://www.fossmint.com/wp-content/uploads/2017/12/FreeCAD-3D-Software.png)
 
 
 *FreeCAD 3D 软件*

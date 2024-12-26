@@ -7,7 +7,7 @@ tags:	[linuxcn,蚂蚁金服,SOFA]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/22/214517mmghhmoocslshgp2.jpg)
+![](/Asserts/Images/album/201907/22/214517mmghhmoocslshgp2.jpg)
 
 
 蚂蚁金服的 SOFAStack 作为一个成功地将企业私有项目转化为开源核心模式的知名案例，我们之前对背后的思考和推动力做过专题分析，但是具体这件事是如何在蚂蚁金服内部发生的、是如何实操的，有很多读者向我们表示非常感兴趣，而我觉得这也是其它技术公司所正在探索和思考的方向。
@@ -16,7 +16,7 @@ tags:	[linuxcn,蚂蚁金服,SOFA]
 因此，上个月底，老王在参加上海举办的 KubeCon 2019 时，遇到了蚂蚁金服 SOFA 团队的余淮，他目前在蚂蚁金服中间件团队服务与框架组具体负责开发框架与 SOFAStack 的开源工作。于是，参会之余，我和余淮就 SOFA 开源的实操方面进行了深入的沟通，现将谈话所得整理给大家。
 
 
-![余淮（左）和老王（右）在 KubeCon 2019](/Asserts/Images//attachment/album/201907/22/212902qqy22y92mkq93bw8.jpg)
+![余淮（左）和老王（右）在 KubeCon 2019](/Asserts/Images/album/201907/22/212902qqy22y92mkq93bw8.jpg)
 
 
 ### SOFA 与开源
@@ -130,7 +130,7 @@ SOFAStack 开源至今社区已经有 120 多位贡献者共建社区，也有�
 要说我对哪个国内开源项目研究的最深入，那非 SOFAStack 莫属。自从 SOFAStack 开源以来，我先后和杨冰、鲁直从 SOFA 开源的思想、战略层面进行过深入沟通，而这次，我希望可以从战术上，从实操层面分享他们在 SOFA 开源方面的经验给广大的开源社区和开源企业。
 
 
-![](/Asserts/Images//attachment/album/201907/22/215406xrvbra33hrqn3r3t.png)
+![](/Asserts/Images/album/201907/22/215406xrvbra33hrqn3r3t.png)
 
 
 

@@ -13,7 +13,7 @@ tags:	[linuxcn,ELRepo,仓库,RHEL,CentOS]
 在本文中，我们将讨论如何启用 [ELRepo]( https://www.elrepo.org) 仓库，该软件源包含文件系统驱动以及网络摄像头驱动程序等等（支持显卡、网卡、声音设备甚至[新内核](/article-8310-1.html)）
 
 
-![](/Asserts/Images//attachment/album/201703/22/224029jcxzz7g1i0cvg11i.jpg)
+![](/Asserts/Images/album/201703/22/224029jcxzz7g1i0cvg11i.jpg)
 
 
 ### 在 Enterprise Linux 中启用 ELRepo
@@ -97,7 +97,7 @@ tags:	[linuxcn,ELRepo,仓库,RHEL,CentOS]
 下面的图片说明了第一个例子：
 
 
-![List ELRepo Available Packages](/Asserts/Images//attachment/album/201703/22/224101aljl29jnnzbl4lst.png)
+![List ELRepo Available Packages](/Asserts/Images/album/201703/22/224101aljl29jnnzbl4lst.png)
 
 
 *列出 ELRepo 可用的软件包*

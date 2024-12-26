@@ -7,7 +7,7 @@ tags:	[linuxcn,Swift,编程语言]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/23/093649o0qkph2li5flz5qi.jpg)
+![](/Asserts/Images/album/201512/23/093649o0qkph2li5flz5qi.jpg)
 
 
 是的，你知道的，苹果编程语言 Swift 已经开源了。其实我们并不应该感到意外，因为[在六个月以前苹果就已经宣布了这个消息](http://itsfoss.com/apple-open-sources-swift-programming-language-linux/)。

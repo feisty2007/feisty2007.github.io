@@ -15,7 +15,7 @@ tags:	[linuxcn,COSMIC]
 > 
 
 
-![System 76 将不会发布 Pop!_OS 22.10 Linux 发行版：这就是为什么！](/Asserts/Images//attachment/album/202210/08/143915vpfvlqmqfumvqqvb.png)
+![System 76 将不会发布 Pop!_OS 22.10 Linux 发行版：这就是为什么！](/Asserts/Images/album/202210/08/143915vpfvlqmqfumvqqvb.png)
 
 
 Pop!\_OS 是一个基于 Ubuntu 的 Linux 发行版，它提供了一个精心设计的用户体验以及强大的软件套件。
@@ -33,7 +33,7 @@ Pop!\_OS 是一个基于 Ubuntu 的 Linux 发行版，它提供了一个精心�
 **如果你不知道的话**，这是我们对 Pop!\_OS 的 COSMIC 桌面环境的旧报道，以供说明：
 
 
-![](/Asserts/Images//attachment/album/202210/08/143916muu4u54z5ut8rtut.png)
+![](/Asserts/Images/album/202210/08/143916muu4u54z5ut8rtut.png)
 
 
 
@@ -76,7 +76,7 @@ Michael 提到：
 ### COSMIC 桌面环境
 
 
-![pop os cosmic 桌面环境早期构建](/Asserts/Images//attachment/album/202210/08/143916rszfuk78p636m1sf.png)
+![pop os cosmic 桌面环境早期构建](/Asserts/Images/album/202210/08/143916rszfuk78p636m1sf.png)
 
 
 看到 COSMIC 桌面环境的更多发展会很有趣。上次我们尝试它（或看到演示）时，用户会对它感到兴奋，即使它们只是刚刚开始。
@@ -91,7 +91,7 @@ Michael 提到：
 我们曾经介绍过 COSMIC 桌面环境的早期预览构建，你可以在这里查看：
 
 
-![](/Asserts/Images//attachment/album/202210/08/143917z66zezmmesxe4q6v.png)
+![](/Asserts/Images/album/202210/08/143917z66zezmmesxe4q6v.png)
 
 
 

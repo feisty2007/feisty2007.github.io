@@ -7,7 +7,7 @@ tags:	[linuxcn,Vim,Vi]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/08/191332xx3uhxhek3kk0g3f.png)
+![](/Asserts/Images/album/201802/08/191332xx3uhxhek3kk0g3f.png)
 
 
 VI 编辑器是一个基于命令行的、功能强大的文本编辑器，最早为 Unix 系统开发，后来也被移植到许多的 Unix 和 Linux 发行版上。

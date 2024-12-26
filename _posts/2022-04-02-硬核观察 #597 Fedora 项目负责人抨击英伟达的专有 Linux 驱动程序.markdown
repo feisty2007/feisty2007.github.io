@@ -7,10 +7,10 @@ tags:	[linuxcn,英伟达,NFT,Go]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/05/194335g9fjaikcg9bc7u74.jpg)
+![](/Asserts/Images/album/202204/05/194335g9fjaikcg9bc7u74.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/05/194347o26cy27kbh4643hz.jpg)
+![](/Asserts/Images/album/202204/05/194347o26cy27kbh4643hz.jpg)
 
 
 ### Fedora 项目负责人抨击英伟达的专有 Linux 驱动程序
@@ -27,7 +27,7 @@ tags:	[linuxcn,英伟达,NFT,Go]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/05/194359ydmsmcdljp5caeie.jpg)
+![](/Asserts/Images/album/202204/05/194359ydmsmcdljp5caeie.jpg)
 
 
 ### 英国政府让皇家铸币厂铸造 NFT
@@ -44,7 +44,7 @@ tags:	[linuxcn,英伟达,NFT,Go]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/05/194440c4lznwrwddrd1d8d.jpg)
+![](/Asserts/Images/album/202204/05/194440c4lznwrwddrd1d8d.jpg)
 
 
 ### 谷歌要求每项 Go 语言变化都要有两名员工审查

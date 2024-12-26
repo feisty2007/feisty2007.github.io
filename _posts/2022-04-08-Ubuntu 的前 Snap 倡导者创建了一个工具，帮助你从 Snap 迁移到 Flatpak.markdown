@@ -15,7 +15,7 @@ tags:	[linuxcn,Flatpak,Snap]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/17/071613rgs1jfasxlkjejes.png)
+![](/Asserts/Images/album/202204/17/071613rgs1jfasxlkjejes.png)
 
 
 不喜欢使用 Snap？
@@ -64,7 +64,7 @@ Unsnap 是一个开源工具，由 Canonical 的前 Snap 倡导者 **Alan Pope**
 ### 如何测试 Unsnap？
 
 
-![](/Asserts/Images//attachment/album/202204/17/071614ck794ys0llk43wu7.png)
+![](/Asserts/Images/album/202204/17/071614ck794ys0llk43wu7.png)
 
 
 看了上面的截图，你可能对它的实现方式有了一个模糊的概念。你也可以参考它的 [GitHub 页面](https://github.com/popey/unsnap) 了解最新信息。
@@ -130,13 +130,13 @@ cd unsnap
 
 ```
 
-![](/Asserts/Images//attachment/album/202204/17/071614ck794ys0llk43wu7.png)
+![](/Asserts/Images/album/202204/17/071614ck794ys0llk43wu7.png)
 
 
 如果你想要不使用自动选项进行控制，你可以发现生成的脚本驻留在一个日志目录内，如下图所示：
 
 
-![](/Asserts/Images//attachment/album/202204/17/071614pai4aaat4a4c4ax4.png)
+![](/Asserts/Images/album/202204/17/071614pai4aaat4a4c4ax4.png)
 
 
 下面是你应该遵循的脚本的执行顺序：
@@ -153,7 +153,7 @@ cd unsnap
 在我的例子中，我已经设置了 Flatpak，所以我继续运行备份脚本，然后安装 Flatpak 软件包，如此循环。下面是它看起来的样子：
 
 
-![](/Asserts/Images//attachment/album/202204/17/071615yykb3w0bb7y2xgwx.png)
+![](/Asserts/Images/album/202204/17/071615yykb3w0bb7y2xgwx.png)
 
 
 你应该记住，这个工具正在积极开发中，可能不会像预期那样工作。所以，你如果依赖众多的 Snap 应用，你应该在虚拟机或测试机上试验使用该工具，并等待该工具随着稳定版本的推出而改进。

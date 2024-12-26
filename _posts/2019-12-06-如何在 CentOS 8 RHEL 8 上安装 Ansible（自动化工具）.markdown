@@ -10,7 +10,7 @@ tags:	[linuxcn,Ansible]
 Ansible 是给 Linux 系统管理员使用的出色自动化工具。它是一种开源配置工具，能让系统管理员可以从一个中心节点（即 Ansible 服务器）管理数百台服务器。将 Ansible 与 Puppet、Chef 和 Salt 等类似工具进行比较时，它是首选的配置工具，因为它不需要任何代理，并且可以工作在 SSH 和 python 上。
 
 
-![](/Asserts/Images//attachment/album/201912/01/223012czkxt6dhku6snhxn.jpg)
+![](/Asserts/Images/album/201912/01/223012czkxt6dhku6snhxn.jpg)
 
 
 在本教程中，我们将学习如何在 CentOS 8 和 RHEL 8 系统上安装和使用 Ansble。
@@ -45,7 +45,7 @@ Ansible 包不在 CentOS 8 默认的软件包仓库中。因此，我们需要�
 上面命令的输出：
 
 
-![dnf-install-ansible-centos8](/Asserts/Images//attachment/album/201912/01/223311mst7fkd7zdzbal1k.png)
+![dnf-install-ansible-centos8](/Asserts/Images/album/201912/01/223311mst7fkd7zdzbal1k.png)
 
 
 成功安装 Ansible 后，运行以下命令验证它的版本：
@@ -56,7 +56,7 @@ Ansible 包不在 CentOS 8 默认的软件包仓库中。因此，我们需要�
 [root@linuxtechi ~]$ sudo ansible --version
 ```
 
-![Ansible-version-CentOS8](/Asserts/Images//attachment/album/201912/01/223217dcl38elkc3sy8338.png)
+![Ansible-version-CentOS8](/Asserts/Images/album/201912/01/223217dcl38elkc3sy8338.png)
 
 
 上面的输出确认在 CentOS 8 上安装完成。
@@ -124,7 +124,7 @@ Python 3.6.8
 输出：
 
 
-![Ansible-Install-pip3-centos8](/Asserts/Images//attachment/album/201912/01/223225qkdkahlad2wwihww.png)
+![Ansible-Install-pip3-centos8](/Asserts/Images/album/201912/01/223225qkdkahlad2wwihww.png)
 
 
 上面的输出确认 Ansible 已成功使用 `pip3` 安装。让我们看下如何使用 Ansible。
@@ -186,7 +186,7 @@ Python 3.6.8
 输出：
 
 
-![ansible-ping-module-centos8](/Asserts/Images//attachment/album/201912/01/223237o7i9j03gjim39emh.png)
+![ansible-ping-module-centos8](/Asserts/Images/album/201912/01/223237o7i9j03gjim39emh.png)
 
 
 让我们使用 Ansible shell 命令检查每个客户端的内核版本：

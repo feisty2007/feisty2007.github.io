@@ -7,7 +7,7 @@ tags:	[linuxcn,Thunar,Xfce,文件管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/26/165038pu8c3b8ct42i2jt3.jpg)
+![](/Asserts/Images/album/202308/26/165038pu8c3b8ct42i2jt3.jpg)
 
 
 
@@ -96,7 +96,7 @@ Thunar 是 Xfce 桌面环境的默认文件管理器，它实现了轻量级与�
 * 勾选 “<ruby> 启动时还原标签 <rt>  Restore tabs on startup </rt></ruby>” 选项
 
 
-![](/Asserts/Images//attachment/album/202308/26/165217vzjyof8k136y1ofi.png)
+![](/Asserts/Images/album/202308/26/165217vzjyof8k136y1ofi.png)
 
 
 ### 3、为文件或文件夹添加徽章
@@ -115,13 +115,13 @@ Thunar 是 Xfce 桌面环境的默认文件管理器，它实现了轻量级与�
 * 进入 “<ruby> 徽章 <rt>  Emblem </rt></ruby>” 标签页，为选定项选择一个或多个徽章
 
 
-![](/Asserts/Images//attachment/album/202308/26/165218sonwqujnjqu4w4uy.png)
+![](/Asserts/Images/album/202308/26/165218sonwqujnjqu4w4uy.png)
 
 
 我添加徽章后的样子就像这样：
 
 
-![](/Asserts/Images//attachment/album/202308/26/165218qgbzlbrdgqjl5gl7.png)
+![](/Asserts/Images/album/202308/26/165218qgbzlbrdgqjl5gl7.png)
 
 
 ### 4、使用突出颜色高亮文件/文件夹
@@ -149,7 +149,7 @@ Thunar 是 Xfce 桌面环境的默认文件管理器，它实现了轻量级与�
 * 接着，选择你想要的颜色，它会展示结果。如果满意，点击 “<ruby> 应用 <rt>  Apply </rt></ruby>” 按钮，不满意就通过 “<ruby> 重置 <rt>  Reset </rt></ruby>” 按钮恢复默认设置。
 
 
-![](/Asserts/Images//attachment/album/202308/26/165219qqsklq9l1wgdt9f4.png)
+![](/Asserts/Images/album/202308/26/165219qqsklq9l1wgdt9f4.png)
 
 
 ### 5、探索 Thunar 插件
@@ -167,7 +167,7 @@ Thunar 是 Xfce 桌面环境的默认文件管理器，它实现了轻量级与�
 在这里，我将向你展示如何添加一个归档插件，让你可直接在右键菜单中创建和解压归档文件：
 
 
-![](/Asserts/Images//attachment/album/202308/26/165220be01sx00ygeg0159.png)
+![](/Asserts/Images/album/202308/26/165220be01sx00ygeg0159.png)
 
 
 在 Ubuntu 中安装 Thunar 归档插件，可以使用以下命令：
@@ -218,7 +218,7 @@ sudo pacman -S thunar-archive-plugin
 * 移动文件很简单，只需选中它们，并拖动到另一侧窗格中（即你已打开的目标位置）。
 
 
-![移动文件](/Asserts/Images//attachment/album/202308/26/165129bnmm9fwsd34vpqmv.gif)
+![移动文件](/Asserts/Images/album/202308/26/165129bnmm9fwsd34vpqmv.gif)
 
 
 #### 复制文件
@@ -232,7 +232,7 @@ sudo pacman -S thunar-archive-plugin
 * 选中需要复制的文件，然后按下 `Ctrl` 键，将它们拖到第二窗格中，释放鼠标后再放开 `Ctrl` 键。
 
 
-![复制文件](/Asserts/Images//attachment/album/202308/26/165140dnt2t8uftprufttx.gif)
+![复制文件](/Asserts/Images/album/202308/26/165140dnt2t8uftprufttx.gif)
 
 
 如果你仔细看，会发现在移动文件时，鼠标指针呈现一个箭头 “↗”，而在复制文件时，它会显示一个加号 “➕”。
@@ -250,7 +250,7 @@ sudo pacman -S thunar-archive-plugin
 首先，点击 “编辑” 菜单，你会找到一个 “<ruby> 配置自定义操作 <rt>  configure custom actions </rt></ruby>” 的选项，这是倒数第二个：
 
 
-![](/Asserts/Images//attachment/album/202308/26/165220azz7d7wuwjluowp7.png)
+![](/Asserts/Images/album/202308/26/165220azz7d7wuwjluowp7.png)
 
 
 如你所见，所有可用的操作都在列表中显示。
@@ -259,7 +259,7 @@ sudo pacman -S thunar-archive-plugin
 要添加操作，点击加号 “➕” 按钮，你会看到多个选项：
 
 
-![](/Asserts/Images//attachment/album/202308/26/165220iwg5llnlhl66a3ll.png)
+![](/Asserts/Images/album/202308/26/165220iwg5llnlhl66a3ll.png)
 
 
 这些选项包括：
@@ -277,7 +277,7 @@ sudo pacman -S thunar-archive-plugin
 例如，如果一个动作只应在所选文件是文本文件时才显示，那么你就需要勾选 “文本文件Text Files” 选项：
 
 
-![](/Asserts/Images//attachment/album/202308/26/165221yql0xn7zzskzquws.png)
+![](/Asserts/Images/album/202308/26/165221yql0xn7zzskzquws.png)
 
 
 接下来，我要向你展示如何设置一个以 root 身份打开 Thunar 的自定义动作。
@@ -311,13 +311,13 @@ sudo pacman -S thunar-archive-plugin
 完成后，数据区域会如下所示：
 
 
-![](/Asserts/Images//attachment/album/202308/26/165222d1zv17gmx1pvjqvi.png)
+![](/Asserts/Images/album/202308/26/165222d1zv17gmx1pvjqvi.png)
 
 
 看一下最后的结果：
 
 
-![以 root 身份打开 Thunar](/Asserts/Images//attachment/album/202308/26/165201w7essk1i417i77ua.gif)
+![以 root 身份打开 Thunar](/Asserts/Images/album/202308/26/165201w7essk1i417i77ua.gif)
 
 
 看起来很酷，对吧？
@@ -341,7 +341,7 @@ sudo pacman -S thunar-archive-plugin
 * 若选择包含：框全部都要勾选
 
 
-![](/Asserts/Images//attachment/album/202308/26/165222ixj4zah66141jt4h.png)
+![](/Asserts/Images/album/202308/26/165222ixj4zah66141jt4h.png)
 
 
 #### 直接查找文件
@@ -371,7 +371,7 @@ sudo apt install catfish
 * 若选择包含：仅勾选 “目录”。
 
 
-![](/Asserts/Images//attachment/album/202308/26/165222tzucn88tt7gt8a87.png)
+![](/Asserts/Images/album/202308/26/165222tzucn88tt7gt8a87.png)
 
 
 #### 一键安装多个图像转换的自定义操作
@@ -456,7 +456,7 @@ uca-apply update
 这样你就会看到系统中增加了多种新的自定义操作：
 
 
-![](/Asserts/Images//attachment/album/202308/26/165222ubn8873rxbs7fbbd.jpg)
+![](/Asserts/Images/album/202308/26/165222ubn8873rxbs7fbbd.jpg)
 
 
 如果你觉得这些太多了，你也可以通过选择它并点击减号按钮来去除不需要的操作。

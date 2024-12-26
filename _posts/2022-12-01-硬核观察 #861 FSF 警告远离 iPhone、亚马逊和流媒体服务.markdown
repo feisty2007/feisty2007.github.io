@@ -7,10 +7,10 @@ tags:	[linuxcn,FSF,记事本,漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/25/174904qjxaoegeto7g3j4z.jpg)
+![](/Asserts/Images/album/202212/25/174904qjxaoegeto7g3j4z.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/25/174914dv9gy088z8n01c05.jpg)
+![](/Asserts/Images/album/202212/25/174914dv9gy088z8n01c05.jpg)
 
 
 ### FSF 警告远离 iPhone、亚马逊和流媒体服务
@@ -35,7 +35,7 @@ tags:	[linuxcn,FSF,记事本,漏洞]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/25/174924o7mtbj2j1p20fptc.jpg)
+![](/Asserts/Images/album/202212/25/174924o7mtbj2j1p20fptc.jpg)
 
 
 ### 微软员工意外爆料 Windows 11 的记事本将有标签页
@@ -60,7 +60,7 @@ tags:	[linuxcn,FSF,记事本,漏洞]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/25/174939vpo23op5p2z295mi.jpg)
+![](/Asserts/Images/album/202212/25/174939vpo23op5p2z295mi.jpg)
 
 
 ### 惊现 10 级内核漏洞，但多数 IT 管理员不用惊慌

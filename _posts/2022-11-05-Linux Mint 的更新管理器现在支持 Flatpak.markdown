@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux Mint]
 > 
 
 
-![Linux Mint's Update Manager Now Supports Flatpak](/Asserts/Images//attachment/album/202211/16/090150jwoolucc6zywynsy.png)
+![Linux Mint's Update Manager Now Supports Flatpak](/Asserts/Images/album/202211/16/090150jwoolucc6zywynsy.png)
 
 
 Linux Mint 的更新管理器是该发行版的一个重要组成部分，它使新用户可以获得更为方便简易的体验。
@@ -30,7 +30,7 @@ Linux Mint 的更新管理器是该发行版的一个重要组成部分，它使
 ### ⭐ 更新管理器中支持 Flatpak
 
 
-![linux mint 21 flatpak support in update manager](/Asserts/Images//attachment/album/202211/16/090150oddvdclecqttqbjl.png)
+![linux mint 21 flatpak support in update manager](/Asserts/Images/album/202211/16/090150oddvdclecqttqbjl.png)
 
 
 是的，你没看错。这终于实现了。
@@ -57,7 +57,7 @@ Flatpak 支持已被添加到更新管理器中，用户只需单击几下就能
 ### 对角栏的改进
 
 
-![linux mint 21 updated corner bar](/Asserts/Images//attachment/album/202211/16/090151w869d6ibdt89t246.png)
+![linux mint 21 updated corner bar](/Asserts/Images/album/202211/16/090151w869d6ibdt89t246.png)
 
 
 Linux Mint 21 中的 <ruby> 角栏 <rt>  Corner Bar </rt></ruby> 添加了两项新特性：
@@ -70,7 +70,7 @@ Linux Mint 21 中的 <ruby> 角栏 <rt>  Corner Bar </rt></ruby> 添加了两项
 ### Nemo 的更新
 
 
-![linux mint 21 updated nemo file manager](/Asserts/Images//attachment/album/202211/16/090151vg9e922o194djd19.png)
+![linux mint 21 updated nemo file manager](/Asserts/Images/album/202211/16/090151vg9e922o194djd19.png)
 
 
 Nemo 文件管理器做了一些调整；现在，当文件被选中时，只会高亮显示文件名，而不是图标和文件名。

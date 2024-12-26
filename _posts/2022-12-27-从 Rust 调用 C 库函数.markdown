@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust,C 语言]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/16/110147q4kk0qoqe0e3m6bb.jpg)
+![](/Asserts/Images/album/202212/16/110147q4kk0qoqe0e3m6bb.jpg)
 
 
 

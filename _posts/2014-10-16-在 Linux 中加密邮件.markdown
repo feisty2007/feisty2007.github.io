@@ -7,7 +7,7 @@ tags:	[linuxcn,PGP,GPG,邮件,加密]
 ---
 
 
-![](/Asserts/Images//attachment/album/201410/30/000310nonhbw14424z441u.png)
+![](/Asserts/Images/album/201410/30/000310nonhbw14424z441u.png)
 
 
  
@@ -61,7 +61,7 @@ tags:	[linuxcn,PGP,GPG,邮件,加密]
 Seahorse是GnuPG对应的GNOME图形化前端，KGpg是KDE图形化的GnuPG工具。
 
 
-![Kgpg provides a nice GUI for creating and managing your encryption keys.](/Asserts/Images//attachment/album/201410/30/000437a2xasjkiasba7aka.png)
+![Kgpg provides a nice GUI for creating and managing your encryption keys.](/Asserts/Images/album/201410/30/000437a2xasjkiasba7aka.png)
 
 
 *Kgpg为了创建了管理加密秘钥提供了一个很好的GUI界面．*

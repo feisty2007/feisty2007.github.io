@@ -7,10 +7,10 @@ tags:	[linuxcn,JPEG-XL,VMware,WireGuard]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/30/162907l78nf8trngvi54w8.jpg)
+![](/Asserts/Images/album/202210/30/162907l78nf8trngvi54w8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/30/162919pg22lnefcf69c9nz.jpg)
+![](/Asserts/Images/album/202210/30/162919pg22lnefcf69c9nz.jpg)
 
 
 ### Chrome 准备废弃刚刚标准化的 JPEG-XL 图像格式
@@ -35,7 +35,7 @@ JPEG-XL 作为一种免版税的下一代有损/无损图像格式，其性能�
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/30/162935hf7q00dssu2fi0kx.jpg)
+![](/Asserts/Images/album/202210/30/162935hf7q00dssu2fi0kx.jpg)
 
 
 ### VMware 为过期版本修补了一个高危漏洞
@@ -60,7 +60,7 @@ VMware 修补了一个影响其 VMware Cloud Foundation 和 NSX Manager 产品�
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/30/162947s01nt7n5utcvnsyz.jpg)
+![](/Asserts/Images/album/202210/30/162947s01nt7n5utcvnsyz.jpg)
 
 
 ### FreeBSD 再次引入 WireGuard

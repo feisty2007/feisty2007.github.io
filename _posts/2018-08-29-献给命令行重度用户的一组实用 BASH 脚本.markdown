@@ -7,7 +7,7 @@ tags:	[linuxcn,脚本,终端]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/21/183528lbt05gbhctg0ocmc.jpg)
+![](/Asserts/Images/album/201808/21/183528lbt05gbhctg0ocmc.jpg)
 
 
 今天，我偶然发现了一组适用于命令行重度用户的实用 BASH 脚本，这些脚本被称为 **Bash-Snippets**，它们对于那些整天都与终端打交道的人来说可能会很有帮助。想要查看你居住地的天气情况？它为你做了。想知道股票价格？你可以运行显示股票当前详细信息的脚本。觉得无聊？你可以看一些 YouTube 视频。这些全部在命令行中完成，你无需安装任何严重消耗内存的 GUI 应用程序。
@@ -210,7 +210,7 @@ $ weather
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201808/21/183600kk5w3mjkey5k8bzw.png)
+![](/Asserts/Images/album/201808/21/183600kk5w3mjkey5k8bzw.png)
 
 
 正如你在上面屏幕截图中看到的那样，它提供了 3 天的天气预报。不使用任何参数的话，它将根据你的 IP 地址显示天气详细信息。你还可以显示特定城市或国家/地区的天气详情，如下所示：
@@ -232,7 +232,7 @@ $ weather moon
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201808/21/183602f33fru7bjw0b0xs3.png)
+![](/Asserts/Images/album/201808/21/183602f33fru7bjw0b0xs3.png)
 
 
 #### 4、 Crypt – 加解密文件
@@ -437,7 +437,7 @@ $ ytview Ed Sheeran
 从列表中选择要播放的视频。所选内容将在你的默认媒体播放器中播放。
 
 
-![](/Asserts/Images//attachment/album/201808/21/183603t15pzyx0zy3ycsix.png)
+![](/Asserts/Images/album/201808/21/183603t15pzyx0zy3ycsix.png)
 
 
 要查看艺术家的近期视频，你可以使用：
@@ -498,7 +498,7 @@ $ qrify convert this text into qr code
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201808/21/183605pv7tza7rc9v2geev.png)
+![](/Asserts/Images/album/201808/21/183605pv7tza7rc9v2geev.png)
 
 
 很酷，不是吗？
@@ -518,7 +518,7 @@ $ qrify convert this text into qr code
 $ cryptocurrency
 ```
 
-![](/Asserts/Images//attachment/album/201808/21/183606lna21meebarsnnss.png)
+![](/Asserts/Images/album/201808/21/183606lna21meebarsnnss.png)
 
 
 #### 14、 Lyrics
@@ -535,7 +535,7 @@ $ cryptocurrency
 $ lyrics -a michael jackson -s who is it
 ```
 
-![](/Asserts/Images//attachment/album/201808/21/183607vt9jiyhhz6ouhtpw.png)
+![](/Asserts/Images/album/201808/21/183607vt9jiyhhz6ouhtpw.png)
 
 
 #### 15、 Meme
@@ -564,7 +564,7 @@ Enter the text for the second line: MEME
 厌倦了解决复杂的数学问题？你来对了。Newton 脚本将执行数值计算，乃至于符号数学解析。
 
 
-![](/Asserts/Images//attachment/album/201808/21/183608dmz5tn2m4eec24c7.png)
+![](/Asserts/Images/album/201808/21/183608dmz5tn2m4eec24c7.png)
 
 
 #### 17、 Siteciphers
@@ -578,7 +578,7 @@ Enter the text for the second line: MEME
 $ siteciphers google.com
 ```
 
-![](/Asserts/Images//attachment/album/201808/21/183609t83h55h3r2j526hz.png)
+![](/Asserts/Images/album/201808/21/183609t83h55h3r2j526hz.png)
 
 
 #### 18、 Todo

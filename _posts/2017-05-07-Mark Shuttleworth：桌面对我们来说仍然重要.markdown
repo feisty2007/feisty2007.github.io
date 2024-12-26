@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Canonical]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/10/091820y10cz100r93ur03h.jpg)
+![](/Asserts/Images/album/201705/10/091820y10cz100r93ur03h.jpg)
 
 
 在波士顿刚刚召开的 OpenStack Summit 2017 大会上， Ubuntu 的母公司 Canonical 的 CEO Mark Shuttleworth 谈及了 Ubuntu 在桌面、云计算和物联网等方面将来的计划。

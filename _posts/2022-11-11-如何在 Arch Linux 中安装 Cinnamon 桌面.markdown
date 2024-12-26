@@ -7,7 +7,7 @@ tags:	[linuxcn,Cinnamon]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/30/112417w4nrt4cii4hiidti.jpg)
+![](/Asserts/Images/album/202211/30/112417w4nrt4cii4hiidti.jpg)
 
 
 
@@ -100,7 +100,7 @@ systemctl enable NetworkManager
 当我第一次登录基本的 Cinnamon 桌面时，它看起来非常平淡。所以它需要一些定制。
 
 
-![Arch 中的 Cinnamon 桌面（配置前）](/Asserts/Images//attachment/album/202211/30/112615hd6ycm2ddc2fdpcw.jpg)
+![Arch 中的 Cinnamon 桌面（配置前）](/Asserts/Images/album/202211/30/112615hd6ycm2ddc2fdpcw.jpg)
 
 
 打开终端并安装一些重要的软件包，例如声音驱动、浏览器等。这将确保安装正确的字体和其他项目。
@@ -136,13 +136,13 @@ yay -S numix-themes
 当你重新登录时，打开主题应用并按照以下更改窗口边框、图标、控件和桌面。
 
 
-![本指南的主题更改](/Asserts/Images//attachment/album/202211/30/112420lz0ydee2ajnsojaj.jpg)
+![本指南的主题更改](/Asserts/Images/album/202211/30/112420lz0ydee2ajnsojaj.jpg)
 
 
 你也可以在第二个选项卡（添加/删除）中下载其他主题。
 
 
-![其他主题供你下载](/Asserts/Images//attachment/album/202211/30/112420wsdsdo1e05zze16o.jpg)
+![其他主题供你下载](/Asserts/Images/album/202211/30/112420wsdsdo1e05zze16o.jpg)
 
 
 将默认的 GNOME 壁纸（Cinnamon 附带）更改为你喜欢的内容。本指南使用来自 [cinnamon-look.org](https://www.cinnamon-look.org/browse/cat/) 的 Cinnamon 徽标壁纸。
@@ -151,10 +151,10 @@ yay -S numix-themes
 如果一切顺利，你的桌面应该如下所示。
 
 
-![Arch Linux 中的 Cinnamon 桌面](/Asserts/Images//attachment/album/202211/30/112420ai9zpxcui0d2bmnw.jpg)
+![Arch Linux 中的 Cinnamon 桌面](/Asserts/Images/album/202211/30/112420ai9zpxcui0d2bmnw.jpg)
 
 
-![在 Arch Linux 中运行的 Cinnamon 桌面](/Asserts/Images//attachment/album/202211/30/112420yzbiaz4ebs6g3eg6.jpg)
+![在 Arch Linux 中运行的 Cinnamon 桌面](/Asserts/Images/album/202211/30/112420yzbiaz4ebs6g3eg6.jpg)
 
 
 因此，在 Arch Linux 中安装和配置 Cinnamon 桌面的基本步骤到此结束。你可能想要添加其他设置，例如桌面小程序等。

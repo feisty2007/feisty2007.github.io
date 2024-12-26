@@ -7,7 +7,7 @@ tags:	[linuxcn,跟踪]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/14/174956mb745lssk2fg4clg.jpg "Analytics illustration")
+![](/Asserts/Images/album/201910/14/174956mb745lssk2fg4clg.jpg "Analytics illustration")
 
 
 Google Analytics （GA）这个最流行的用户活动追踪工具我们或多或少都听说过甚至使用过，但它的用途并不仅仅限于对页面访问的追踪。作为一个既实用又流行的工具，它已经受到了广泛的欢迎，因此我们将要在下文中介绍如何在各种 Angular 和 React 单页应用中使用 Google Analytics。

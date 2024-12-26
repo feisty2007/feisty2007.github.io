@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,计算器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/17/212236jkctltljj0cllxbe.jpg)
+![](/Asserts/Images/album/202010/17/212236jkctltljj0cllxbe.jpg)
 
 
 微软不再是 Linux 或开源社区的敌人。不管你信不信，Windows 的制造商现在是一个盟友。我知道这很令人震惊，但完全是事实。多亏了 WSL，Linux 现在已经内置于 Windows 中，而微软也有几款应用可供 Linux 使用。

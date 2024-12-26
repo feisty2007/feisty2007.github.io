@@ -19,7 +19,7 @@ tags:	[linuxcn,脚本,调试]
 因此，在 Linux 系列中这篇介绍 Shell 脚本调试， 我们将看看如何启用 Shell 脚本调试，然后在之后的系列中解释不同的 Shell 脚本调试模式以及如何使用它们。
 
 
-![](/Asserts/Images//attachment/album/201612/11/123710ekugnqneekklrbn6.jpg)
+![](/Asserts/Images/album/201612/11/123710ekugnqneekklrbn6.jpg)
 
 
 ### 如何开始写一个脚本

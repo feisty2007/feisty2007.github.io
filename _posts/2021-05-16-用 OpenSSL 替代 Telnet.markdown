@@ -15,7 +15,7 @@ tags:	[linuxcn,telnet,OpenSSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202105/11/115934cggzmq8rm8suaqlq.png "Lock")
+![](/Asserts/Images/album/202105/11/115934cggzmq8rm8suaqlq.png "Lock")
 
 
 [telnet](https://www.redhat.com/sysadmin/telnet-netcat-troubleshooting) 命令是最受欢迎的网络故障排除工具之一，从系统管理员到网络爱好者都可以使用。在网络计算的早期，`telnet` 被用来连接到一个远程系统。你可以用 `telnet` 访问一个远程系统的端口，登录并在该主机上运行命令。

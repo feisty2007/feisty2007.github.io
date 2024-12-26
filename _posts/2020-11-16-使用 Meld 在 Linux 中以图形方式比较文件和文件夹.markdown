@@ -7,7 +7,7 @@ tags:	[linuxcn,diff,比较]
 ---
 
 
-![](/Asserts/Images//attachment/album/202011/28/145914mr5zcl2wnns8rj5j.jpg)
+![](/Asserts/Images/album/202011/28/145914mr5zcl2wnns8rj5j.jpg)
 
 
 如何比较两个相似的文件来检查差异？答案显而易见，就是[使用 Linux 中的 diff 命令](https://linuxhandbook.com/diff-command/)。
@@ -19,7 +19,7 @@ tags:	[linuxcn,diff,比较]
 以这个 `diff` 命令的输出为例：
 
 
-![](/Asserts/Images//attachment/album/202011/28/150137anmhkwoqpqd2cfnc.png)
+![](/Asserts/Images/album/202011/28/150137anmhkwoqpqd2cfnc.png)
 
 
 这里肯定涉及到一个学习曲线。然而，如果你使用的是桌面 Linux，你可以使用 [GUI](https://itsfoss.com/gui-cli-tui/) 应用来轻松比较两个文件是否有任何差异。
@@ -34,19 +34,19 @@ tags:	[linuxcn,diff,比较]
 通过 [Meld](https://meldmerge.org)，你可以将两个文件并排比较。不仅如此，你还可以对文件进行相应的修改。这是你在大多数情况下想做的事情，对吗？
 
 
-![File Comparison](/Asserts/Images//attachment/album/202011/28/145956hp3qpa52ypudtw95.png)
+![File Comparison](/Asserts/Images/album/202011/28/145956hp3qpa52ypudtw95.png)
 
 
 Meld 还能够比较目录，并显示哪些文件是不同的。它还会显示而文件是新的或是缺失的。
 
 
-![Directory Comparison](/Asserts/Images//attachment/album/202011/28/150003ovv6gs6iwyzzygsd.png)
+![Directory Comparison](/Asserts/Images/album/202011/28/150003ovv6gs6iwyzzygsd.png)
 
 
 你也可以使用 Meld 进行三向比较。
 
 
-![Three Way File Comparison](/Asserts/Images//attachment/album/202011/28/150010saxeegieehleo2cm.png)
+![Three Way File Comparison](/Asserts/Images/album/202011/28/150010saxeegieehleo2cm.png)
 
 
 图形化的并排比较在很多情况下都有帮助。如果你是开发人员，你可以用它来了解代码补丁。Meld 还支持版本控制系统，如 Git、[Mercurial](https://www.mercurial-scm.org/)、[Subversion](https://subversion.apache.org/) 等。
@@ -55,7 +55,7 @@ Meld 还能够比较目录，并显示哪些文件是不同的。它还会显示
 ### Meld 的功能
 
 
-![](/Asserts/Images//attachment/album/202011/28/150014rj3vhvl9vijhmj9i.png)
+![](/Asserts/Images/album/202011/28/150014rj3vhvl9vijhmj9i.png)
 
 
 开源的 Meld 工具具有以下主要功能：
@@ -84,7 +84,7 @@ Meld 是一个流行的应用程序，它在大多数 Linux 发行版的官方�
 检查你的发行版的软件中心，看看 Meld 是否可用。
 
 
-![Meld In Ubuntu Software Center](/Asserts/Images//attachment/album/202011/28/150023psh63wgsrgug1ue2.png)
+![Meld In Ubuntu Software Center](/Asserts/Images/album/202011/28/150023psh63wgsrgug1ue2.png)
 
 
 另外，你也可以使用你的发行版的命令行包管理器来安装 Meld。在 [Ubuntu 上，它可以在 Universe 仓库中找到](https://itsfoss.com/ubuntu-repositories/)，并且可以[使用 apt 命令安装](https://itsfoss.com/apt-command-guide/)：

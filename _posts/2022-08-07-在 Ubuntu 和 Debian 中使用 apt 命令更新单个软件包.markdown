@@ -7,7 +7,7 @@ tags:	[linuxcn,apt]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/04/165705li66yephvx464ivt.jpg)
+![](/Asserts/Images/album/202208/04/165705li66yephvx464ivt.jpg)
 
 
 如何 [在命令行中更新你的 Ubuntu 系统](https://itsfoss.com/update-ubuntu/)？你可以使用 `apt update`（刷新包缓存）和 `apt upgrade` 命令。
@@ -79,7 +79,7 @@ sudo apt install --only-upgrade package_name
 这不是最适合 Ubuntu 服务器用户的示例，但你仍然可以在下面的截图中看到我如何只升级了七个可升级包中的一个。
 
 
-![Update only a single package in Ubuntu](/Asserts/Images//attachment/album/202208/04/165850avvqzv41ukw1f7wu.jpg)
+![Update only a single package in Ubuntu](/Asserts/Images/album/202208/04/165850avvqzv41ukw1f7wu.jpg)
 
 
 ### 仅升级选定的软件包
@@ -97,7 +97,7 @@ sudo apt install --only-upgrade package1 package2 package3
 这是一个例子。
 
 
-![Upgrade selected packages in Ubuntu](/Asserts/Images//attachment/album/202208/04/170010i4hge0gmi03mce4h.jpg)
+![Upgrade selected packages in Ubuntu](/Asserts/Images/album/202208/04/170010i4hge0gmi03mce4h.jpg)
 
 
 ### 总结

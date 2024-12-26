@@ -7,7 +7,7 @@ tags:	[linuxcn,iftop,nethogs,vnstat]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/03/161319bf9oqn99gnggeggg.jpeg)
+![](/Asserts/Images/album/201711/03/161319bf9oqn99gnggeggg.jpeg)
 
 
 *用 iftop、Nethogs 和 vnstat 了解更多关于你的网络连接。*
@@ -56,7 +56,7 @@ $ sudo iftop -i wlan0
 * `q` 退出程序。
 
 
-![text display](/Asserts/Images//attachment/album/201711/03/161404vwjt127p1uot0j7f.png "text display")
+![text display](/Asserts/Images/album/201711/03/161404vwjt127p1uot0j7f.png "text display")
 
 
 *图 1：文本显示是可读的和可组织的。*
@@ -205,7 +205,7 @@ $ vnstati -s -i wlx7cdd90a0a1c2 -o vnstat.png
 
 ```
 
-![vnstati](/Asserts/Images//attachment/album/201711/03/161404n9zda0t4jt9mg0vf.png "vnstati")
+![vnstati](/Asserts/Images/album/201711/03/161404n9zda0t4jt9mg0vf.png "vnstati")
 
 
 *图 2：你可以使用 vnstati 创建简单的彩色图表。*

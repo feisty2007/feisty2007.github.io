@@ -7,7 +7,7 @@ tags:	[linuxcn,水族箱]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/06/104101r2sfkrf27ozfqffq.png)
+![](/Asserts/Images/album/202311/06/104101r2sfkrf27ozfqffq.png)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,水族箱]
 Asciiquarium 为 Linux 终端提供了以 ASCII 格式构建的简单的水族馆动画效果。
 
 
-![](/Asserts/Images//attachment/album/202311/06/104209lct0ic84lfi7l7r4.png)
+![](/Asserts/Images/album/202311/06/104209lct0ic84lfi7l7r4.png)
 
 
 看起来有趣吗？我们一起进一步了解。
@@ -113,7 +113,7 @@ sudo apt update
 > 
 
 
-![安装 Perl 依赖包](/Asserts/Images//attachment/album/202311/06/104210urm8m4r85mmz2pu8.png)
+![安装 Perl 依赖包](/Asserts/Images/album/202311/06/104210urm8m4r85mmz2pu8.png)
 
 
 要运行二进制文件，你需要从 CPAN 中安装 Animation 和 Curses 模块。
@@ -137,7 +137,7 @@ cpan Term::Animation
 
 ```
 
-![Animation 模块安装](/Asserts/Images//attachment/album/202311/06/104210xms8zujqjsj21q19.png)
+![Animation 模块安装](/Asserts/Images/album/202311/06/104210xms8zujqjsj21q19.png)
 
 
 该操作会要求你做一些配置，只需选取默认值即可。全部设置好后，来下载 Asciiquarium 的发布版。
@@ -154,7 +154,7 @@ cpan Term::Animation
 解压文件，你会得到一个名为 Asciiquarium 的文件，接下来，让它具有执行权限。
 
 
-![赋予 Asciiquarium 执行权限](/Asserts/Images//attachment/album/202311/06/104211d5tfhcuyc9x36lzc.png)
+![赋予 Asciiquarium 执行权限](/Asserts/Images/album/202311/06/104211d5tfhcuyc9x36lzc.png)
 
 
 如果你需要通过命令行来完成，只需打开终端，并用 [chmod 命令](https://linuxhandbook.com/chmod-command/)赋予执行权限。
@@ -184,7 +184,7 @@ chmod +x asciiquarium
 Asciiquarium 使用起来非常简单，它不设任何命令行选项。只需运行 `asciiquarium`，你就能在终端中看到水族馆的动画效果。
 
 
-![Asciiquarium 动画效果](/Asserts/Images//attachment/album/202311/06/104209lct0ic84lfi7l7r4.png)
+![Asciiquarium 动画效果](/Asserts/Images/album/202311/06/104209lct0ic84lfi7l7r4.png)
 
 
 程序还提供了几个热键支持。
@@ -227,7 +227,7 @@ asciiquarium | lolcat
 
 ```
 
-![Asciiquarium Lolcat 效果](/Asserts/Images//attachment/album/202311/06/104211f4oyakg2ozpzy2lo.png)
+![Asciiquarium Lolcat 效果](/Asserts/Images/album/202311/06/104211f4oyakg2ozpzy2lo.png)
 
 
 如果你还需要更多的动画效果，可以适当调节 `lolcat` 的参数，例如：
@@ -240,7 +240,7 @@ asciiquarium | lolcat -p 200
 
 ```
 
-![Asciiquarium 和 lolcat 的效果调整](/Asserts/Images//attachment/album/202311/06/104211cvwddww8810aatd0.gif)
+![Asciiquarium 和 lolcat 的效果调整](/Asserts/Images/album/202311/06/104211cvwddww8810aatd0.gif)
 
 
 这样操作会产生各种不同的颜色效果。
@@ -256,7 +256,7 @@ asciiquarium | lolcat -i -p 200
 
 ```
 
-![颜色反转效果](/Asserts/Images//attachment/album/202311/06/104212ph7f0zdmdhdagamf.png)
+![颜色反转效果](/Asserts/Images/album/202311/06/104212ph7f0zdmdhdagamf.png)
 
 
 ### 赠品：XFishTank（让你的桌面诠释海底世界）
@@ -289,7 +289,7 @@ xfishtank -b 100 -f 15
 
 ```
 
-![Xfishtank 效果展示](/Asserts/Images//attachment/album/202311/06/104212p24iu99ygkzfkzy9.png)
+![Xfishtank 效果展示](/Asserts/Images/album/202311/06/104212p24iu99ygkzfkzy9.png)
 
 
 ### 结语

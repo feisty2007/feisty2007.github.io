@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,芯片,安卓]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/07/201423ckucbbxmzz6uuz4z.jpg)
+![](/Asserts/Images/album/202310/07/201423ckucbbxmzz6uuz4z.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/07/201436m4eor7gzppci19gp.jpg)
+![](/Asserts/Images/album/202310/07/201436m4eor7gzppci19gp.jpg)
 
 
 ### OpenAI 正在考虑自己制造 AI 芯片
@@ -35,7 +35,7 @@ OpenAI 正在评估潜在收购目标，考虑自己制造 AI 芯片。OpenAI �
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/07/201447pt7tf011btlsdfbs.jpg)
+![](/Asserts/Images/album/202310/07/201447pt7tf011btlsdfbs.jpg)
 
 
 ### 联想推出安卓 PC
@@ -60,7 +60,7 @@ OpenAI 正在评估潜在收购目标，考虑自己制造 AI 芯片。OpenAI �
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/07/201516aej0nhaejenrr6aq.jpg)
+![](/Asserts/Images/album/202310/07/201516aej0nhaejenrr6aq.jpg)
 
 
 ### 盖蒂图片公司打造尊重版权的人工智能工具

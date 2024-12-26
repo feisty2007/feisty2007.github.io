@@ -7,10 +7,10 @@ tags:	[linuxcn,卫星,AI,AR]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/06/192303dzokm3o4cnllubgu.jpg)
+![](/Asserts/Images/album/202306/06/192303dzokm3o4cnllubgu.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/06/192313kb6bwvqqzav5qz8v.jpg)
+![](/Asserts/Images/album/202306/06/192313kb6bwvqqzav5qz8v.jpg)
 
 
 ### 美国发射了一颗供黑客们攻击的卫星
@@ -35,7 +35,7 @@ tags:	[linuxcn,卫星,AI,AR]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/06/192324dh7q88p7q80cftn8.jpg)
+![](/Asserts/Images/album/202306/06/192324dh7q88p7q80cftn8.jpg)
 
 
 ### Stack Overflow 允许 AI 生成的内容，版主们罢工抗议
@@ -60,7 +60,7 @@ tags:	[linuxcn,卫星,AI,AR]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/06/192339atfz3indxv43to3a.jpg)
+![](/Asserts/Images/album/202306/06/192339atfz3indxv43to3a.jpg)
 
 
 ### 苹果发布其头戴式设备 Vision Pro

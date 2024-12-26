@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行,嘲讽]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/06/191238m2h0l5qqi23u23um.jpg)
+![](/Asserts/Images/album/201903/06/191238m2h0l5qqi23u23um.jpg)
 
 
 这是一个非常有趣的脚本，每当用户在终端输入错误的命令时，它都会嘲讽用户。
@@ -115,7 +115,7 @@ $ unam -a
 $ pin 2daygeek.com
 ```
 
-![](/Asserts/Images//attachment/album/201903/06/191248polt4q9oqktyql2c.png)
+![](/Asserts/Images/album/201903/06/191248polt4q9oqktyql2c.png)
 
 
 如果你想附加你自己的短语，则导航到以下文件并更新它。你可以在 `messages` 部分中添加短语。

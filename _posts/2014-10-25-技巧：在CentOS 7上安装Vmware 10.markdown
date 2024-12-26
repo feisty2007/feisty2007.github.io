@@ -103,7 +103,7 @@ rm -fr vmnet-only
 **8 – 启动vmware并体验。**
 
 
-![](/Asserts/Images//attachment/album/201410/15/222550bb323z90bzy927yy.png)
+![](/Asserts/Images/album/201410/15/222550bb323z90bzy927yy.png)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,Edge]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/11/164600uv7yrbe7gtkxi4xg.jpg)
+![](/Asserts/Images/album/201911/11/164600uv7yrbe7gtkxi4xg.jpg)
 
 
 
@@ -39,7 +39,7 @@ tags:	[linuxcn,Edge]
 在其年度开发商大会 [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) 中，[关于 Edge 浏览器的演讲](https://myignite.techcommunity.microsoft.com/sessions/79341?source=sessions)中提到了它未来将进入 Linux 中。
 
 
-![微软确认 Edge 未来将进入 Linux 中](/Asserts/Images//attachment/album/201911/11/164757wk894wznusaog4dk.jpg)
+![微软确认 Edge 未来将进入 Linux 中](/Asserts/Images/album/201911/11/164757wk894wznusaog4dk.jpg)
 
 
 新的 Edge 浏览器将于 2020 年 1 月 15 日发布，但我认为 Linux 版本会推迟。

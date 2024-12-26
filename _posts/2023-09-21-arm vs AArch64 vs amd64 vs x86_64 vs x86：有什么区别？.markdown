@@ -7,7 +7,7 @@ tags:	[linuxcn,架构,CPU,ISA]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/25/092727ilaax5z7dexxhxop.jpg)
+![](/Asserts/Images/album/202309/25/092727ilaax5z7dexxhxop.jpg)
 
 
 

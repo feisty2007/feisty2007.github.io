@@ -13,11 +13,11 @@ Pdf 文档是我们在使用计算机的时候经常遇到的文档，它具有�
 uPdf 非常特别，初始界面非常的面向对象，在工具不可用的时候，都是灰掉的。看下面的界面截图，最开始的时候，只有一个图标是可以使用的——“Open”图标。在打开了一个文档以后，其他的编辑工具才可以继续使用。
 
 
-![](/Asserts/Images//attachment/album/201209/18/140636hcsrhlcftrscgfr3.png)
+![](/Asserts/Images/album/201209/18/140636hcsrhlcftrscgfr3.png)
 
 
-[![](/Asserts/Images//attachment/album/201404/18/005058z7stqtmuw3lnmlio.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201404/18/005058z7stqtmuw3lnmlio.png)
+[![](/Asserts/Images/album/201404/18/005058z7stqtmuw3lnmlio.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201404/18/005058z7stqtmuw3lnmlio.png)
 
 
 uPdf 中的各项功能大家一般只要看看图标就能明白个差不多，如同其他工具一样，只要适当使用，我们都可以很快的就了解它。
@@ -26,14 +26,14 @@ uPdf 中的各项功能大家一般只要看看图标就能明白个差不多，
 uPdf 有一个特别的小功能（**page insertion** ），可以合并两个 pdf 文件，将一个 pdf 文件插入到另一个 pdf 文件中，这非常方面我们在有类似需求的时候使用。
 
 
-![](/Asserts/Images//attachment/album/201209/18/140639j6ebqnruuu0tuurx.png)
+![](/Asserts/Images/album/201209/18/140639j6ebqnruuu0tuurx.png)
 
 
 当然了，日常的放大缩小旋转什么的就是很普遍的功能了。
 
 
-[![](/Asserts/Images//attachment/album/201209/18/140642epwma2a4mg22patm.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201209/18/140642epwma2a4mg22patm.png)
+[![](/Asserts/Images/album/201209/18/140642epwma2a4mg22patm.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201209/18/140642epwma2a4mg22patm.png)
 
 
 我们可以很简单的安装 uPdf 到我们的 Ubuntu 上，只要在终端中输入如下命令即可：

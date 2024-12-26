@@ -7,7 +7,7 @@ tags:	[linuxcn,温度]
 ---
 
 
-![](/Asserts/Images//attachment/album/201506/23/234719y9wqlm8ww27wo55h.png)
+![](/Asserts/Images/album/201506/23/234719y9wqlm8ww27wo55h.png)
 
 
 夏天到了，笔记本过热是最近一个常见的问题。监控硬件温度或许可以帮助你诊断笔记本为什么会过热。本篇中，我们会**了解如何在Ubuntu中检查CPU的温度**。
@@ -85,7 +85,7 @@ sudo apt-get install psensor
 安装完成后，在Unity Dash中运行程序。第一次运行时，你应该配置Psensor该监控什么状态。
 
 
-![](/Asserts/Images//attachment/album/201506/23/234720sgi4oj6z7jyjt7gy.jpg)
+![](/Asserts/Images/album/201506/23/234720sgi4oj6z7jyjt7gy.jpg)
 
 
 ### 在面板显示温度
@@ -94,13 +94,13 @@ sudo apt-get install psensor
 如果你想要在面板中显示温度，进入**Sensor Preferences**:
 
 
-![](/Asserts/Images//attachment/album/201506/23/234721raf5xjtuasuukhqu.jpg)
+![](/Asserts/Images/album/201506/23/234721raf5xjtuasuukhqu.jpg)
 
 
 在 **Application Indicator** 菜单下，选择你想要显示温度的组件并勾上 **Display sensor in the label** 选项。
 
 
-![](/Asserts/Images//attachment/album/201506/23/234723wccmmbomehr91btb.jpg)
+![](/Asserts/Images/album/201506/23/234723wccmmbomehr91btb.jpg)
 
 
 ### 每次启动启动Psensor
@@ -109,7 +109,7 @@ sudo apt-get install psensor
 进入 **Preferences->Startup** 并选择 **Launch on session startup** 使每次启动时启动Psensor。
 
 
-![](/Asserts/Images//attachment/album/201506/23/234723skznw6slnkrs4u84.jpg)
+![](/Asserts/Images/album/201506/23/234723skznw6slnkrs4u84.jpg)
 
 
 就是这样。你所要做的就是在这里监控CPU温度。你可以时刻注意并帮助你找出使计算机过热的进程。

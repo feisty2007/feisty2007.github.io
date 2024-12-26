@@ -7,10 +7,10 @@ tags:	[linuxcn,远程工作,OpenAI,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/02/190617wlysncc53z3xsc83.jpg)
+![](/Asserts/Images/album/202303/02/190617wlysncc53z3xsc83.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/02/190627k7qq4cgq9r97araq.jpg)
+![](/Asserts/Images/album/202303/02/190627k7qq4cgq9r97araq.jpg)
 
 
 ### OpenAI 低价倾销 ChatGPT API
@@ -35,7 +35,7 @@ OpenAI 向开发者释放了它的 ChatGPT 和 Whisper 模型，他们现在可�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/02/190645q8odlpgrcj8oglfj.jpg)
+![](/Asserts/Images/album/202303/02/190645q8odlpgrcj8oglfj.jpg)
 
 
 ### Fedora 38 仍将支持帧缓存 X11 和 NIS+
@@ -60,7 +60,7 @@ Fedora 38 原计划准备放弃对一些老旧技术的支持，但由于无法�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/02/190755k55jtax4oiqprprc.jpg)
+![](/Asserts/Images/album/202303/02/190755k55jtax4oiqprprc.jpg)
 
 
 ### 近 40% 的软件工程师只愿意远程工作

@@ -10,13 +10,13 @@ tags:	[linuxcn,Ubuntu,应用软件]
 一个运行在 Ubuntu 下的笔记应用 Springseed 已经发布，界面非常的让人喜欢，功能也很不错。大家一起来试试吧。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/28/233925rr7zcq414574196o.png](/Asserts/Images//attachment/album/201307/28/233925rr7zcq414574196o.png)
+![https://img.linux.net.cn/Asserts/Images/album/201307/28/233925rr7zcq414574196o.png](/Asserts/Images/album/201307/28/233925rr7zcq414574196o.png)
 
 
 运行界面：
 
 
-![springseed note taking app](/Asserts/Images//attachment/album/201307/28/233639ubiotznobioqaqyb.jpg "springseed note taking app")
+![springseed note taking app](/Asserts/Images/album/201307/28/233639ubiotznobioqaqyb.jpg "springseed note taking app")
 
 
 [Springseed](http://getspringseed.com/) 是 Jono Cooper 和 Michael Harker 一起开发的。是一个使用非常简单的，轻量级的笔记工具，它是用 Javascript 编写的。已经放到各大开源共享网站和代码托管基地了。他们的口号是：**Simply awesome note taking**
@@ -33,7 +33,7 @@ tags:	[linuxcn,Ubuntu,应用软件]
 [Markdown 支持](http://daringfireball.net/projects/markdown/)，纯文本和简单的格式
 
 
-![](/Asserts/Images//attachment/album/201307/28/23364010g22a10zam5zb4i.png)
+![](/Asserts/Images/album/201307/28/23364010g22a10zam5zb4i.png)
 
 
 目前发现的小 Bug：

@@ -7,7 +7,7 @@ tags:	[linuxcn,Ardour]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/18/211518rnvb1btht22avfoa.jpg)
+![](/Asserts/Images/album/202312/18/211518rnvb1btht22avfoa.jpg)
 
 
 
@@ -27,7 +27,7 @@ Ardor 是数字音频工作站（DAW）用户中非常流行的开源选择，�
 ### ? Ardour 8.2：有什么新变化？
 
 
-![](/Asserts/Images//attachment/album/202312/18/211545ms2roe4oobip844m.png)
+![](/Asserts/Images/album/202312/18/211545ms2roe4oobip844m.png)
 
 
 开发人员表示，此次更新“没有什么惊人之处”，它的目的是完成支持新 [Novation](https://novationmusic.com/) 设备的待定工作、修复一些错误和进行一些改进。
@@ -53,7 +53,7 @@ Ardor 是数字音频工作站（DAW）用户中非常流行的开源选择，�
 #### 对 Novation 设备的支持
 
 
-![](/Asserts/Images//attachment/album/202312/18/211548ode7bh072eibzj8e.png)
+![](/Asserts/Images/album/202312/18/211548ode7bh072eibzj8e.png)
 
 
 Ardour 8.2 版本还完成了对所有当前一代（MK3）Novation [Launchpad 系列](https://novationmusic.com/categories/midi-controllers/grid) 设备的支持。这包括 **Launchpad X**、**Mini** 和 **Pro**。

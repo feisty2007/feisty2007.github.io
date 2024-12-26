@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenSSL,Apache]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/01/220254cao1abzt8bm3wmao.jpg)
+![](/Asserts/Images/album/201702/01/220254cao1abzt8bm3wmao.jpg)
 
 
 

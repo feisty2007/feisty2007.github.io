@@ -7,10 +7,10 @@ tags:	[linuxcn,KDE,AlmaLinux,Evernote]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/17/155147wll3lmtmdmtw382d.jpg)
+![](/Asserts/Images/album/202211/17/155147wll3lmtmdmtw382d.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/17/155157rbbtbbm4tgbbslvs.jpg)
+![](/Asserts/Images/album/202211/17/155157rbbtbbm4tgbbslvs.jpg)
 
 
 ### Evernote 被出售
@@ -35,7 +35,7 @@ tags:	[linuxcn,KDE,AlmaLinux,Evernote]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/17/155205z8giiqlylwwjq5dg.jpg)
+![](/Asserts/Images/album/202211/17/155205z8giiqlylwwjq5dg.jpg)
 
 
 ### AlmaLinux 9.1 紧随 RHEL 9.1 发布
@@ -60,7 +60,7 @@ tags:	[linuxcn,KDE,AlmaLinux,Evernote]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/17/155218nutudug8htectthd.jpg)
+![](/Asserts/Images/album/202211/17/155218nutudug8htectthd.jpg)
 
 
 ### KDE 宣布新的社区目标：可访问性、环境可持续性、自动化

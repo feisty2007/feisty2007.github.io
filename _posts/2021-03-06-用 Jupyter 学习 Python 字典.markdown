@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,Jupyter,字典]
 > 
 
 
-![](/Asserts/Images//attachment/album/202103/26/094720i58u5qxx3l4qsssx.jpg "Hands on a keyboard with a Python book ")
+![](/Asserts/Images/album/202103/26/094720i58u5qxx3l4qsssx.jpg "Hands on a keyboard with a Python book ")
 
 
 字典是 Python 编程语言使用的数据结构。一个 Python 字典由多个键值对组成；每个键值对将键映射到其关联的值上。
@@ -40,7 +40,7 @@ tags:	[linuxcn,Python,Jupyter,字典]
 2. 选择 “New Notebook”，点击 “Python 3”。
 
 
-![新建 Jupyter 笔记本](/Asserts/Images//attachment/album/202103/26/094801rl4pik51nd34qz5l.png "Create Jupyter notebook")
+![新建 Jupyter 笔记本](/Asserts/Images/album/202103/26/094801rl4pik51nd34qz5l.png "Create Jupyter notebook")
 
 
 开始时，新建的笔记本是无标题的，你可以将其重命名为任何名称。我为我的笔记本取名为 “[OpenSource.com](http://OpenSource.com) Data Dictionary Tutorial”。
@@ -70,7 +70,7 @@ one_line = {a: 1, b: 2}
 
 ```
 
-![定义字典键值对的代码](/Asserts/Images//attachment/album/202103/26/094801k6jqezjqaozqwwzs.png "Code for defining key-value pairs in the dictionary")
+![定义字典键值对的代码](/Asserts/Images/album/202103/26/094801k6jqezjqaozqwwzs.png "Code for defining key-value pairs in the dictionary")
 
 
 这段代码让字典将特定键与其各自的值关联起来。字典按名称存储数据，从而可以更快地查询。
@@ -82,7 +82,7 @@ one_line = {a: 1, b: 2}
 现在你想查询指定的字典值；在上述例子中，字典值指特定学生的成绩。首先，点击 “Insert” 后选择 “Insert Cell Below”。
 
 
-![在 Jupyter 插入新建单元格](/Asserts/Images//attachment/album/202103/26/094801xdfp9f4wee4uf4de.png "Inserting a new cell in Jupyter")
+![在 Jupyter 插入新建单元格](/Asserts/Images/album/202103/26/094801xdfp9f4wee4uf4de.png "Inserting a new cell in Jupyter")
 
 
 在新单元格中，定义字典中的键与值。
@@ -104,7 +104,7 @@ print(grades["Kelsey"])
 
 ```
 
-![查询特定值的代码](/Asserts/Images//attachment/album/202103/26/094802my6m8070sky861lx.png "Code to look for a specific value")
+![查询特定值的代码](/Asserts/Images/album/202103/26/094802my6m8070sky861lx.png "Code to look for a specific value")
 
 
 当你查询 Kelsey 的成绩（也就是你想要查询的值）时，如果你用的是 macOS，只需要同时按 `Shift+Return` 键。
@@ -134,7 +134,7 @@ print(grades)
 
 ```
 
-![更新键的代码](/Asserts/Images//attachment/album/202103/26/094802rg6ci3culko3ligg.png "Code for updating a key")
+![更新键的代码](/Asserts/Images/album/202103/26/094802rg6ci3culko3ligg.png "Code for updating a key")
 
 
 单元格下方输出带有 Finley 更新成绩的字典。
@@ -158,7 +158,7 @@ print(grades)
 
 ```
 
-![添加新键](/Asserts/Images//attachment/album/202103/26/094802q4fk427lbekv4ukx.png "Add a new key")
+![添加新键](/Asserts/Images/album/202103/26/094802q4fk427lbekv4ukx.png "Add a new key")
 
 
 所有的键值对输出在单元格下方。
@@ -167,7 +167,7 @@ print(grades)
 ### 使用字典
 
 
-请记住，键与值可以是任意数据类型，但它们很少是<ruby> <a href="https://www.datacamp.com/community/tutorials/Asserts/Images/-structures-python">  扩展数据类型 </a> <rt>  non-primitive types </rt></ruby>。此外，字典不能以指定的顺序存储、组织里面的数据。如果你想要数据有序，最好使用 Python 列表，而非字典。
+请记住，键与值可以是任意数据类型，但它们很少是<ruby> <a href="https://www.datacamp.com/community/tutorials/data-structures-python">  扩展数据类型 </a> <rt>  non-primitive types </rt></ruby>。此外，字典不能以指定的顺序存储、组织里面的数据。如果你想要数据有序，最好使用 Python 列表，而非字典。
 
 
 如果你考虑使用字典，首先要确认你的数据结构是否是合适的，例如像电话簿的结构。如果不是，列表、元组、树或者其他数据结构可能是更好的选择。

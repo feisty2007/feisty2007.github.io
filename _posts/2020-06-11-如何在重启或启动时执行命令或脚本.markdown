@@ -7,7 +7,7 @@ tags:	[linuxcn,启动]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/04/091837g664qu0y206aqoo9.jpg)
+![](/Asserts/Images/album/202006/04/091837g664qu0y206aqoo9.jpg)
 
 
 众所周知 Linux 可以在启动时添加服务。例如，如果要在[启动时添加](https://www.2daygeek.com/enable-disable-services-on-boot-linux-chkconfig-systemctl-command/) Apache Httpd 服务，你可以在 `chkconfig` 和 `systemctl` 命令的帮助下完成此操作。

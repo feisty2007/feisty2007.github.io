@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,磁盘,分区,GParted,安装,使用,教程,技巧]
 **GParted可能是Linux平台上最重要的应用程序之一了，并且它也是最有用最易识别的软件之一。**
 
 
- ![](/Asserts/Images//attachment/album/201310/14/204956cx2jghjj2gj84qhs.jpg)
+ ![](/Asserts/Images/album/201310/14/204956cx2jghjj2gj84qhs.jpg)
 
 
 不能把GParted作为一个单独的应用程序来讨论。公平的说，它本是采用GTK+开发的GNU Parted的前端程序。但是由于开发人员做了许多工作，使得它的功能已经不仅仅只是给这个复杂而难用的软件提供一个简单的图形界面了。
@@ -82,16 +82,16 @@ GParted能够修改以下文件系统：btrfs, crypt / LUKS, ext2, ext3, ext4, f
 此外，GParted也得到了UEFI安全启动的支持，能够在任何具有此功能的PC电脑上流畅运行。
 
 
- ![](/Asserts/Images//attachment/album/201310/14/204956cx2jghjj2gj84qhs.jpg)
+ ![](/Asserts/Images/album/201310/14/204956cx2jghjj2gj84qhs.jpg)
 
 
-![](/Asserts/Images//attachment/album/201310/14/2049581f1qegb3n2qfepbb.jpg)
+![](/Asserts/Images/album/201310/14/2049581f1qegb3n2qfepbb.jpg)
 
 
- ![](/Asserts/Images//attachment/album/201310/14/205004t6fsh9mh0h89q0xu.jpg)
+ ![](/Asserts/Images/album/201310/14/205004t6fsh9mh0h89q0xu.jpg)
 
 
- ![](/Asserts/Images//attachment/album/201310/14/20500771ul10uj7v21p2dw.jpg)
+ ![](/Asserts/Images/album/201310/14/20500771ul10uj7v21p2dw.jpg)
 
 
 ### **总结**

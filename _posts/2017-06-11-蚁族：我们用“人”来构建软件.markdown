@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画]
 ---
 
 
-![Coding From Anthill](/Asserts/Images//attachment/album/201706/25/184147ofjkpitwpokx7wpa.png)
+![Coding From Anthill](/Asserts/Images/album/201706/25/184147ofjkpitwpokx7wpa.png)
 
 
 用过 Java 的同学大多都用过或听说过 Ant，它是用来构建 Java 项目的一个工具。

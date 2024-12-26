@@ -7,7 +7,7 @@ tags:	[linuxcn,TCP/IP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/18/092858qwtovsgvldaglvsa.jpg)
+![](/Asserts/Images/album/202006/18/092858qwtovsgvldaglvsa.jpg)
 
 
 #### Ripple20 漏洞影响数亿设备

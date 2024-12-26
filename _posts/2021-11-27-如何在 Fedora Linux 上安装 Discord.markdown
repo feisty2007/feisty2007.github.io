@@ -7,7 +7,7 @@ tags:	[linuxcn,Discord]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/27/115501g3oiuirvzk4nvu3k.jpg)
+![](/Asserts/Images/album/202111/27/115501g3oiuirvzk4nvu3k.jpg)
 
 
 [Discord](https://discord.com/) 是一个流行的消息收发应用，可用于文字和语音信息传递。
@@ -74,19 +74,19 @@ sudo dnf install discord
 
 ```
 
-![Installing Discord using DNF](/Asserts/Images//attachment/album/202111/27/115509j7lklake7bavrlwh.png)
+![Installing Discord using DNF](/Asserts/Images/album/202111/27/115509j7lklake7bavrlwh.png)
 
 
 如果被要求导入 GPG 密钥，只要按 `Y` 就可以授权了。
 
 
-![Authorize GPG key](/Asserts/Images//attachment/album/202111/27/115509jaj23hvw2vwkhnal.png)
+![Authorize GPG key](/Asserts/Images/album/202111/27/115509jaj23hvw2vwkhnal.png)
 
 
 这就完成了！现在你可以从应用菜单中启动 Discord。你的登录页面将看起来像这样：
 
 
-![Launch Discord application](/Asserts/Images//attachment/album/202111/27/115510g5pux8putqvsplww.png)
+![Launch Discord application](/Asserts/Images/album/202111/27/115510g5pux8putqvsplww.png)
 
 
 #### 通过 DNF 删除 Discord
@@ -128,7 +128,7 @@ flatpak install discord
 
 ```
 
-![Install Discord via Flatpak](/Asserts/Images//attachment/album/202111/27/115510i00o2c35zcqh2hea.png)
+![Install Discord via Flatpak](/Asserts/Images/album/202111/27/115510i00o2c35zcqh2hea.png)
 
 
 如果你想删除 Discord，那么只需运行：

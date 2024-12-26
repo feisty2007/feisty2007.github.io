@@ -52,31 +52,31 @@ sudo apt-get install multisystem
 MultiSystem 安装完成后，可以插入你的USB，并通过Unity Dash或者菜单运行MultiSystem。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102128op4sdepdvs2scnmv.png)
+![](/Asserts/Images/album/201501/19/102128op4sdepdvs2scnmv.png)
 
 
 第一次启动时，MultiSystem界面看起来会像下面这样。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102129jg2iscwzigw2zc4i.png)
+![](/Asserts/Images/album/201501/19/102129jg2iscwzigw2zc4i.png)
 
 
 选择USB设备，点击**确认**按钮。如果你看到下面的错误窗口，不必担心，它说的是USB设备没有标签。点击OK让MultiSystem自动设置标签。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102130argxkgdptagkugak.png)
+![](/Asserts/Images/album/201501/19/102130argxkgdptagkugak.png)
 
 
 那么，拔出/重新插入USB，再次运行MultiSystem。选择USB盘，再次点击确认。现在，你被要求确认在USB中安装Grub2.点击OK继续。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102132oqxhjdb1x8zz0xjr.png)
+![](/Asserts/Images/album/201501/19/102132oqxhjdb1x8zz0xjr.png)
 
 
 最终，你会高兴地看到MultiSystem的界面。现在，时候创建多启动USB盘。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102134xt000p2z0typyhy0.png)
+![](/Asserts/Images/album/201501/19/102134xt000p2z0typyhy0.png)
 
 
 ### 使用
@@ -85,13 +85,13 @@ MultiSystem 安装完成后，可以插入你的USB，并通过Unity Dash或者�
 MultiSystem非常容易使用。将ISO文件拖入MultiSystem窗口中。如果不行的话，点击底部的**cd 按钮**来选择ISO文件。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102135k1b47zkczc149ba4.png)
+![](/Asserts/Images/album/201501/19/102135k1b47zkczc149ba4.png)
 
 
 现在，MultiSystem会从ISO中拷贝文件，并让USB可启动。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102138egocu4csocgjgqgi.png)
+![](/Asserts/Images/album/201501/19/102138egocu4csocgjgqgi.png)
 
 
 相似地，你可以在你的USB中加入任意多的发行版。我这次加入了两个Linux发行版：CentOS 6.5和Android。
@@ -100,13 +100,13 @@ MultiSystem非常容易使用。将ISO文件拖入MultiSystem窗口中。如果�
 加完ISO文件后，你会在MultiSystem的主窗口中看到可启动的发行版列表了。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102141jnjqqqq2tnntukla.png)
+![](/Asserts/Images/album/201501/19/102141jnjqqqq2tnntukla.png)
 
 
 就是这样。我们的多启动USB盘就可以使用了。重启系统，并在BIOS中设置USB优先启动。选择你想要安装的发行版并开始安装系统。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102142ljsazzbbccusb551.png)
+![](/Asserts/Images/album/201501/19/102142ljsazzbbccusb551.png)
 
 
 此外，MultiSystem含有一些其它的选项：
@@ -123,13 +123,13 @@ MultiSystem非常容易使用。将ISO文件拖入MultiSystem窗口中。如果�
 这些额外选项可以在MultiSystem的**菜单**标签里面看到。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102145d8pispek10rgegok.png)
+![](/Asserts/Images/album/201501/19/102145d8pispek10rgegok.png)
 
 
 同样，你也可以在Ubuntu中使用QEMU或者Oracle VirtualBox测试多启动USB盘。
 
 
-![](/Asserts/Images//attachment/album/201501/19/102148nkkssssaqvsv5paw.png)
+![](/Asserts/Images/album/201501/19/102148nkkssssaqvsv5paw.png)
 
 
 MultiSystem工具是我测试到现在最棒和最有用的一款工具。这款工具对那些想要在他们的机器上安装多个系统的人是非常有用的。在你外出的时候，你不必再携带CD/DVD袋了。只要买一个16GB或者32GB的USB就行，并下载所有你想要的系统，随心所欲的安装系统即可。

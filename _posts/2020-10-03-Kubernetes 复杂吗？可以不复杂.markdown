@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,UCloud]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/28/200700hbfeyxzil4en8n43.jpg)
+![](/Asserts/Images/album/202010/28/200700hbfeyxzil4en8n43.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,Kubernetes,UCloud]
 在 2019 年的一个关于容器技术的一个调查数据中，有 40% 的受访者表示计划采用容器。然而，据 UCloud 产品经理张鹏波透露说，在他们接触的用户当中，曾经在两年前表示有兴趣迁移到容器的用户，两年过去了，这些用户很多依旧“计划采用”容器服务。
 
 
-![](/Asserts/Images//attachment/album/202010/28/200936vksziwc3rc424rp5.png)
+![](/Asserts/Images/album/202010/28/200936vksziwc3rc424rp5.png)
 
 
 这让我好奇其中发生了什么。让我们一起来探寻一下其中的症结，以及是否可以将复杂的 Kubernetes变得不复杂。
@@ -36,7 +36,7 @@ tags:	[linuxcn,Kubernetes,UCloud]
 容器拥有很多优点，包括不可变环境、轻量级、快速启动等优势；而容器编排系统又在此基础上更进一步，提供了更加强大的功能，包括自动部署、快速扩容、故障自愈等等。
 
 
-![](/Asserts/Images//attachment/album/202010/28/201037chni9mlhqs9frqt9.jpg)
+![](/Asserts/Images/album/202010/28/201037chni9mlhqs9frqt9.jpg)
 
 
 然而，在这一系列令人神往的优势和功能背后，Kubernetes 也相应的引入了更多的复杂性。这些复杂性体现在多个方面，比如说：
@@ -88,13 +88,13 @@ UCloud 产品经理张鹏波说：
 首先，Kubernetes 里面哪些功能是会经常会用到的，比如 Deployment 控制多副本容器组的管理， Job 控制任务型容器组，Service 做服务发现，PVC可以用来抽象使用块存储以及文件存储。这是 Kubernetes 最核心的一些功能。UCloud 在设计 Cube 的时候，希望将这些功能全部保留。这意味着整个 Cube 是基于 Kubernetes 来实现的。把这些复杂性全部屏蔽掉，用户不需要维护 Kubernetes 集群，不需要操心 Kubernetes 网络方案，而是由 Cube 提供一个最优网络方案，把容器的网络和虚拟机的网络扁平化。
 
 
-![](/Asserts/Images//attachment/album/202010/28/201227q0jiqn60jt60ld5q.jpg)
+![](/Asserts/Images/album/202010/28/201227q0jiqn60jt60ld5q.jpg)
 
 
 其次，把业务迁移到 Kubernetes 的时候，把单体业务变成分布式业务、微服务的时候，用户一定需要考虑容器日志的统一收集、统一管理的问题。在 Cube 里面自动完成了日志的采集工作，集成了日志管理工作。另外，对容器环境的监控也是同样的道理，统一在 Cube 中完成。
 
 
-![](/Asserts/Images//attachment/album/202010/28/201251m3n10nauu16z0nq6.jpg)
+![](/Asserts/Images/album/202010/28/201251m3n10nauu16z0nq6.jpg)
 
 
 当把这些产品全部集成到 Cube 里以后，Cube 是一个什么样的产品形态呢？
@@ -115,7 +115,7 @@ UCloud 产品经理张鹏波说：
 让我们横向对比一下，用户使用 Kubernetes 和 Cube 的流程上会有哪些区别。
 
 
-![](/Asserts/Images//attachment/album/202010/28/201356n6vo6ry6g2a5fvao.jpg)
+![](/Asserts/Images/album/202010/28/201356n6vo6ry6g2a5fvao.jpg)
 
 
 左边是 Kubernetes，用户要把业务迁移到 Kubernetes，大概要经过这几个步骤：

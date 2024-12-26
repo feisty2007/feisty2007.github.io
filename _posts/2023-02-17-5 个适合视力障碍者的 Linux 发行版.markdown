@@ -7,7 +7,7 @@ tags:	[linuxcn,视障,无障碍性,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/08/233736xssinjunsujjcacs.jpg)
+![](/Asserts/Images/album/202302/08/233736xssinjunsujjcacs.jpg)
 
 
 
@@ -76,7 +76,7 @@ tags:	[linuxcn,视障,无障碍性,发行版]
 ### 1、Accessible-Coconut（AC）
 
 
-![Accessible-Coconut 的主屏幕截图，带有蓝色壁纸和椰子图标](/Asserts/Images//attachment/album/202302/08/233743ju0u8h02ljhsszht.jpg)
+![Accessible-Coconut 的主屏幕截图，带有蓝色壁纸和椰子图标](/Asserts/Images/album/202302/08/233743ju0u8h02ljhsszht.jpg)
 
 
 [Accessible-Coconut](https://zendalona.com/accessible-coconut/) 是一个基于 Ubuntu MATE 的、由社区开发的 Linux 操作系统。
@@ -128,7 +128,7 @@ Vojtux 是一个基于 Fedora 的非官方发行版，由一位盲人软件工�
 ### 3、Trisquel
 
 
-![Trisquel 的屏幕截图，其墙纸显示为绿色的山和太空](/Asserts/Images//attachment/album/202302/08/233743tzmo95u112um6t2z.jpg)
+![Trisquel 的屏幕截图，其墙纸显示为绿色的山和太空](/Asserts/Images/album/202302/08/233743tzmo95u112um6t2z.jpg)
 
 
 Trisquel 是一个基于 Ubuntu 的 Linux 发行版，采用 Linux-libre 内核。它是为家庭、办公室和教育机构定制的。
@@ -151,7 +151,7 @@ Trisquel 是一个基于 Ubuntu 的 Linux 发行版，采用 Linux-libre 内核�
 ### 4、Ubuntu MATE
 
 
-![Ubuntu MATE 截图，欢迎屏幕提供了各种选项，以获得良好的开机体验](/Asserts/Images//attachment/album/202302/08/233744lopz6jwpxqngxjzp.jpg)
+![Ubuntu MATE 截图，欢迎屏幕提供了各种选项，以获得良好的开机体验](/Asserts/Images/album/202302/08/233744lopz6jwpxqngxjzp.jpg)
 
 
 如果你想使用主流发行版，[Ubuntu MATE](https://ubuntu-mate.org) 将很适合喜欢传统桌面用户体验的用户。
@@ -171,7 +171,7 @@ Trisquel 是一个基于 Ubuntu 的 Linux 发行版，采用 Linux-libre 内核�
 ### 5、Fedora Workstation
 
 
-![Fedora 37 屏幕截图，带有绿草、岩石冒充的建筑的油漆风格的壁纸，中间有一条河](/Asserts/Images//attachment/album/202302/08/233744hyll7h82ee872u3e.png)
+![Fedora 37 屏幕截图，带有绿草、岩石冒充的建筑的油漆风格的壁纸，中间有一条河](/Asserts/Images/album/202302/08/233744hyll7h82ee872u3e.png)
 
 
 [Fedora Workstation](https://getfedora.org/en/workstation/) 是想要体验 GNOME 桌面环境的用户的最佳选择。

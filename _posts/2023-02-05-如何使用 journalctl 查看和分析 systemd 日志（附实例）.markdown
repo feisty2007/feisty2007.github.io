@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/16/085250d5ngtogo2fjjn8o2.jpg)
+![](/Asserts/Images/album/202302/16/085250d5ngtogo2fjjn8o2.jpg)
 
 
 
@@ -74,7 +74,7 @@ journald 以二进制格式存储日志。它们被保存在这个路径下的�
 例如，在下面的路径中，有一个目录包含了迄今为止的所有系统日志。
 
 
-![journalctl log file path](/Asserts/Images//attachment/album/202302/16/085624f7tesrmwwteyteme.jpg)
+![journalctl log file path](/Asserts/Images/album/202302/16/085624f7tesrmwwteyteme.jpg)
 
 
 不要使用 `cat` 命令，也不要使用 `nano` 或 `vi` 来打开这些文件。它们（是二进制的），无法正常显示。
@@ -95,7 +95,7 @@ journalctl
 
 ```
 
-![journalctl](/Asserts/Images//attachment/album/202302/16/085631r6caqam285i81an1.jpg)
+![journalctl](/Asserts/Images/album/202302/16/085631r6caqam285i81an1.jpg)
 
 
 该命令提供了所有应用程序和进程的日志条目，包括错误、警告等。它显示的列表中，最旧的日志在顶部，当前的日志在底部。你需要不断按回车键来逐行滚动浏览。你也可以使用 `PAGE UP` 和 `PAGE DOWN` 键来滚动。按 `q` 键可以退出这个视图。
@@ -113,7 +113,7 @@ journalctl --utc
 
 ```
 
-![journalctl --utc](/Asserts/Images//attachment/album/202302/16/085639zkkbf3c33hztsv3p.jpg)
+![journalctl --utc](/Asserts/Images/album/202302/16/085639zkkbf3c33hztsv3p.jpg)
 
 
 #### 如何在日志中只查看错误、警告等信息
@@ -131,7 +131,7 @@ journalctl -p 0
 
 ```
 
-![journalctl -p 0](/Asserts/Images//attachment/album/202302/16/085650h3bkt6qc6bz16kh3.jpg)
+![journalctl -p 0](/Asserts/Images/album/202302/16/085650h3bkt6qc6bz16kh3.jpg)
 
 
 错误代码：
@@ -174,7 +174,7 @@ journalctl --list-boots
 
 ```
 
-![journalctl list-boots](/Asserts/Images//attachment/album/202302/16/085702i5bqnzkqqk5c5hk5.jpg)
+![journalctl list-boots](/Asserts/Images/album/202302/16/085702i5bqnzkqqk5c5hk5.jpg)
 
 
 * 第一个数字显示的是 journald 的唯一的启动跟踪号码，你可以在下一个命令中使用它来分析该特定的启动。
@@ -197,7 +197,7 @@ journalctl -b 8bab42c7e82440f886a3f041a7c95b98
 
 ```
 
-![journalctl -b 45](/Asserts/Images//attachment/album/202302/16/085712tf7mekc9izym4cyh.jpg)
+![journalctl -b 45](/Asserts/Images/album/202302/16/085712tf7mekc9izym4cyh.jpg)
 
 
 你也可以使用 `-x` 选项，在显示屏上添加 systemd 错误信息的解释。在某些情况下，这是个救命稻草。
@@ -209,7 +209,7 @@ journalctl -xb -p 3
 
 ```
 
-![journalctl -xb](/Asserts/Images//attachment/album/202302/16/085721x1ep6410v011h403.jpg)
+![journalctl -xb](/Asserts/Images/album/202302/16/085721x1ep6410v011h403.jpg)
 
 
 #### 如何查看某一特定时间、日期的日志记录
@@ -248,7 +248,7 @@ journalctl --since 09:00 --until "1 hour ago"
 
 ```
 
-![journalctl --since 09:00 --until](/Asserts/Images//attachment/album/202302/16/085733cjgfsfskzvknlf6f.jpg)
+![journalctl --since 09:00 --until](/Asserts/Images/album/202302/16/085733cjgfsfskzvknlf6f.jpg)
 
 
 你也可以将上述内容与错误级别开关结合起来。
@@ -278,7 +278,7 @@ journalctl -u NetworkManager.service
 
 ```
 
-![journalctl NetworkManager service](/Asserts/Images//attachment/album/202302/16/085744qllx96oummlg3x0a.jpg)
+![journalctl NetworkManager service](/Asserts/Images/album/202302/16/085744qllx96oummlg3x0a.jpg)
 
 
 如果你不知道服务名称，可以使用下面的命令来列出系统中的 systemd 服务。
@@ -311,7 +311,7 @@ journalctl _UID=1000 --since today
 
 ```
 
-![journalctl _UID](/Asserts/Images//attachment/album/202302/16/085755rgnlnahueulijfcn.jpg)
+![journalctl _UID](/Asserts/Images/album/202302/16/085755rgnlnahueulijfcn.jpg)
 
 
 同样地，使用 `_GID` 选项也可以查到用户组的情况。
@@ -329,7 +329,7 @@ journalctl /usr/bin/gnome-shell --since today
 
 ```
 
-![journalctl gnome-shell](/Asserts/Images//attachment/album/202302/16/085803f9deadg66cx8dxhm.jpg)
+![journalctl gnome-shell](/Asserts/Images/album/202302/16/085803f9deadg66cx8dxhm.jpg)
 
 
 ### 结束语

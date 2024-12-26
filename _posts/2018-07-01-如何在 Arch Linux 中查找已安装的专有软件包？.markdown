@@ -7,7 +7,7 @@ tags:	[linuxcn,专有软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/10/080816o0dnrwvfrfdsdvxv.jpg)
+![](/Asserts/Images/album/201807/10/080816o0dnrwvfrfdsdvxv.jpg)
 
 
 你是狂热的自由软件支持者吗？你目前在使用任何基于 Arch 的 Linux 发行版吗？我有一个小小的提示送给你！现在，你可以轻松地在 Arch Linux 及其变体（如 Antergos、Manjaro Linux 等）中找到已安装的专有软件包。你无需在已安装软件包的网站中参考其许可细节，也无需使用任何其它外部工具来查明软件包是自由的还是专有的。（LCTT 译注：其实下面还是借助了一个外部程序）
@@ -104,7 +104,7 @@ Save list to file? (Y/n)
 
 ```
 
-![](/Asserts/Images//attachment/album/201807/10/080818k88t8g88o83vq1t1.png)
+![](/Asserts/Images/album/201807/10/080818k88t8g88o83vq1t1.png)
 
 
 如你所见，我的系统中有 47 个专有软件包。就像我说的那样，我们可以将它保存到文件中稍后查看。为此，当提示你将列表保存在文件时，请按 `y`。然后按 `y` 接受默认值，或按 `n` 以你喜欢的格式和位置来保存它。

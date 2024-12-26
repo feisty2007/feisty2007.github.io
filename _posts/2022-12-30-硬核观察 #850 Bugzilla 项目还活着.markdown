@@ -7,10 +7,10 @@ tags:	[linuxcn,Bugzilla,AI,谷歌,甲骨文]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/14/181853o3herb2e2w2f2a5o.jpg)
+![](/Asserts/Images/album/202212/14/181853o3herb2e2w2f2a5o.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/14/181904c23oo0yshwms03zw.jpg)
+![](/Asserts/Images/album/202212/14/181904c23oo0yshwms03zw.jpg)
 
 
 ### Bugzilla 项目还活着
@@ -35,7 +35,7 @@ Bugzilla 是一个基于 Web 的错误跟踪系统和测试工具，最初是在
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/14/181913rdn0drwnn27qzdqd.jpg)
+![](/Asserts/Images/album/202212/14/181913rdn0drwnn27qzdqd.jpg)
 
 
 ### 谷歌称在 AI 聊天技术上进展太快会有声誉风险
@@ -60,7 +60,7 @@ Bugzilla 是一个基于 Web 的错误跟踪系统和测试工具，最初是在
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/14/181926mcp2p2kf9i2cpeik.jpg)
+![](/Asserts/Images/album/202212/14/181926mcp2p2kf9i2cpeik.jpg)
 
 
 ### 埃里森称甲骨文云绝不宕机

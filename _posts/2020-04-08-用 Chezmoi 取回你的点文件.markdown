@@ -7,7 +7,7 @@ tags:	[linuxcn,点文件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202004/14/183618dwkhe4ehx1kthxvw.jpg)
+![](/Asserts/Images/album/202004/14/183618dwkhe4ehx1kthxvw.jpg)
 
 
 在 Linux 中，点文件是隐藏的文本文件，从 Bash、Git 到 i3 或 VSCode 等更复杂的许多应用程序，都用它存储配置设置。

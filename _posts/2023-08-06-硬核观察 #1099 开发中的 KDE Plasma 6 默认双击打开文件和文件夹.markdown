@@ -7,10 +7,10 @@ tags:	[linuxcn,KDE,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/20/154253cmz3326i183ipik2.jpg)
+![](/Asserts/Images/album/202308/20/154253cmz3326i183ipik2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/20/154303ay0g8b0y4jehbhc0.jpg)
+![](/Asserts/Images/album/202308/20/154303ay0g8b0y4jehbhc0.jpg)
 
 
 ### 开发中的 KDE Plasma 6 默认双击打开文件和文件夹
@@ -35,7 +35,7 @@ KDE 开发人员说，正在开发中的 KDE Plasma 6 默认单击选择文件�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/20/154316yaab11a1i6wibmbq.jpg)
+![](/Asserts/Images/album/202308/20/154316yaab11a1i6wibmbq.jpg)
 
 
 ### 美国法官裁定人工智能制品不受版权保护
@@ -60,7 +60,7 @@ KDE 开发人员说，正在开发中的 KDE Plasma 6 默认单击选择文件�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/20/154338e9d8syjjxxxaa0xl.jpg)
+![](/Asserts/Images/album/202308/20/154338e9d8syjjxxxaa0xl.jpg)
 
 
 ### 一些美国学校现在开始讲授 ChatGPT 和人工智能

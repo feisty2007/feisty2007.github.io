@@ -7,7 +7,7 @@ tags:	[linuxcn,Steam Music,Steam]
 ---
 
 
-![](/Asserts/Images//attachment/album/201412/29/213652wzz6l4f3uhli4ato.jpg)
+![](/Asserts/Images/album/201412/29/213652wzz6l4f3uhli4ato.jpg)
 
 
 **‘音乐让人们走到一起’ 麦当娜曾这样唱道。但是Steam的新音乐播放器特性能否很好的混搭小资与叛逆？**
@@ -25,7 +25,7 @@ tags:	[linuxcn,Steam Music,Steam]
 ### 使用Steam Music音乐播放器
 
 
-![Music in Big Picture Mode](/Asserts/Images//attachment/album/201412/29/213653hnmr3wywbrfbt3ke.jpg)
+![Music in Big Picture Mode](/Asserts/Images/album/201412/29/213653hnmr3wywbrfbt3ke.jpg)
 
 
 *大图模式*
@@ -73,7 +73,7 @@ Valve说他们“*……计划增加更多的功能以便用户能以新的方�
 * 点击‘**Start Scanning**’
 
 
-![](/Asserts/Images//attachment/album/201412/29/213655izmn00tn6ytooin0.jpg)
+![](/Asserts/Images/album/201412/29/213655izmn00tn6ytooin0.jpg)
 
 
 你还可以在这个对话框中调整其他设置，包括‘scan at start’。如果你经常添加新音乐而且很容易忘记手动启动扫描，请标记此项。你还可以选择当路径变化时是否显示提示，设置默认的音量，还能调整当你打开一个应用软件或语音聊天时的播放状态的改变。
@@ -82,25 +82,25 @@ Valve说他们“*……计划增加更多的功能以便用户能以新的方�
 一旦你的音乐源成功的被添加并扫描后，你就可以通过主客户端的**Library > Music**区域浏览你的音乐了。
 
 
-![](/Asserts/Images//attachment/album/201412/29/213656sce77m1nnfoc8nje.jpg)
+![](/Asserts/Images/album/201412/29/213656sce77m1nnfoc8nje.jpg)
 
 
 Steam Music会默认的将音乐按照专辑进行分组。若想按照乐队名进行浏览，你需要点击‘Albums’然后从下拉菜单中选择‘Artists’。
 
 
-![](/Asserts/Images//attachment/album/201412/29/213657luummazccj6udm4a.jpg)
+![](/Asserts/Images/album/201412/29/213657luummazccj6udm4a.jpg)
 
 
 Steam Music是一个以‘队列’方式工作的系统。你可以通过双击浏览器里的音乐或右键单击并选择‘Add to Queue’来把音乐添加到播放队列里。
 
 
-![](/Asserts/Images//attachment/album/201412/29/213659hhhfdaxzpl6tpdlt.jpg)
+![](/Asserts/Images/album/201412/29/213659hhhfdaxzpl6tpdlt.jpg)
 
 
 若想**启动桌面播放器**请点击右上角的音符图标或通过**View > Music Player**菜单。
 
 
-![](/Asserts/Images//attachment/album/201412/29/213700ltw59twelzv5s8wx.jpg)
+![](/Asserts/Images/album/201412/29/213700ltw59twelzv5s8wx.jpg)
 
 
 

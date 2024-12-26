@@ -21,7 +21,7 @@ tags:	[linuxcn,rename,改名]
 当你想要重命名多个文件的时候，rename 工具或许是最简单、最安全和最强大的命令行工具。这个rename命令实际上是一个Perl脚本，它预安装在所有的现在Linux发行版上。
 
 
-![](/Asserts/Images//attachment/album/201502/18/152445ou3z7duhwo75751u.png)
+![](/Asserts/Images/album/201502/18/152445ou3z7duhwo75751u.png)
 
 
 下面是重命名命令的基本语法。
@@ -84,7 +84,7 @@ $ rename 's/\.jpeg$/\.jpg/' *.jpeg
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/18/152449qgyweeip0nmy0ntb.jpg)
+![](/Asserts/Images/album/201502/18/152449qgyweeip0nmy0ntb.jpg)
 
 
 ### 更改文件名模式

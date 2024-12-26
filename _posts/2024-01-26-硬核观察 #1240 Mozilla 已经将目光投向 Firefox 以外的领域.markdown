@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,GitHub,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/08/172923x5r7fgq4dfrr4go7.jpg)
+![](/Asserts/Images/album/202401/08/172923x5r7fgq4dfrr4go7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/08/172948u818lof7q28lff76.png)
+![](/Asserts/Images/album/202401/08/172948u818lof7q28lff76.png)
 
 
 ### #1 Mozilla 已经将目光投向 Firefox 以外的领域
@@ -38,7 +38,7 @@ tags:	[linuxcn,Firefox,GitHub,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/08/173007rxhk4wxefpwixwux.png)
+![](/Asserts/Images/album/202401/08/173007rxhk4wxefpwixwux.png)
 
 
 ### #2 PyPy 项目转移到 GitHub
@@ -66,7 +66,7 @@ PyPy 项目是 Python 语言的实现之一，但运行速度快了约四倍。�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/08/173024ka6794zq7als99da.png)
+![](/Asserts/Images/album/202401/08/173024ka6794zq7als99da.png)
 
 
 ### #3 随着人工智能的崛起，Web3 已不再受青睐

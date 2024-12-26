@@ -7,7 +7,7 @@ tags:	[linuxcn,CoreOS]
 ---
 
 
-![Fedora CoreOS入门](/Asserts/Images//attachment/album/202012/11/231842hdcc44victtxz7gk.jpg)
+![Fedora CoreOS入门](/Asserts/Images/album/202012/11/231842hdcc44victtxz7gk.jpg)
 
 
 现在被称为 DevOps 时代，操作系统的关注度似乎比工具要低一些。然而，这并不意味着操作系统没有创新。（编辑注：基于 Linux 内核的众多发行版所提供的多样化产品就是一个很好的例子）。[Fedora CoreOS](https://getfedora.org/coreos/) 就对这个 DevOps 时代的操作系统应该是什么样有着独特的理念。

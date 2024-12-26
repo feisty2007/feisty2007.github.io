@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,数据科学,SciPy]
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/04/212915ms7jsjgj94gg6giy.jpg)
+![](/Asserts/Images/album/201810/04/212915ms7jsjgj94gg6giy.jpg)
 
 
 Python 的许多特性，比如开发效率、代码可读性、速度等使之成为了数据科学爱好者的首选编程语言。对于想要升级应用程序功能的数据科学家和机器学习专家来说，Python 通常是最好的选择（比如，Andrey Bulezyuk 使用 Python 语言创造了一个优秀的[机器学习应用程序](https://www.liveedu.tv/andreybu/REaxr-machine-learning-model-python-sklearn-kera/oPGdP-machine-learning-model-python-sklearn-kera/)）。
@@ -258,7 +258,7 @@ plt.show()
 柱状图如下：
 
 
-![](/Asserts/Images//attachment/album/201810/04/212928otd6eid9t7d116ei.png)
+![](/Asserts/Images/album/201810/04/212928otd6eid9t7d116ei.png)
 
 
 下面是这个例子的完整代码：
@@ -286,7 +286,7 @@ plt.show()
 ### 总结
 
 
-Python 编程语言非常擅长数据处理和准备，但是在科学数据分析和建模方面就没有那么优秀了。幸好有这些用于[数据科学](https://www.liveedu.tv/guides/Asserts/Images/-science/)的顶级 Python 框架填补了这一空缺，从而你能够进行复杂的数学计算以及创建复杂模型，进而让数据变得更有意义。
+Python 编程语言非常擅长数据处理和准备，但是在科学数据分析和建模方面就没有那么优秀了。幸好有这些用于[数据科学](https://www.liveedu.tv/guides/data-science/)的顶级 Python 框架填补了这一空缺，从而你能够进行复杂的数学计算以及创建复杂模型，进而让数据变得更有意义。
 
 
 你还知道其它的 Python 数据挖掘库吗？你的使用经验是什么样的？请在下面的评论中和我们分享。

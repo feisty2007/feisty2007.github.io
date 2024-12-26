@@ -13,7 +13,7 @@ tags:	[linuxcn,dpkg,apt,Aptitude,Synaptic,rpm,yum,dnf,Pacman,Zypper,Portage]
 在 Linux 中，包管理器非常重要，知道如何使用多种包管理器可以让你像一个高手一样活得很舒适，从在仓库下载软件、安装软件，到更新软件、处理依赖和删除软件是非常重要的，这也是Linux 系统管理的一个重要部分。
 
 
-![](/Asserts/Images//attachment/album/201609/10/160004d45rozmyo04ddtd4.png)
+![](/Asserts/Images/album/201609/10/160004d45rozmyo04ddtd4.png)
 
 
 *最好的Linux包管理器*

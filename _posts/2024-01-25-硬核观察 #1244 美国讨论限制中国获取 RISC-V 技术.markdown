@@ -7,10 +7,10 @@ tags:	[linuxcn,RISC-V,云服务,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/12/184319mh0hl0a4wxil8g8z.jpg)
+![](/Asserts/Images/album/202401/12/184319mh0hl0a4wxil8g8z.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/12/184456qo3jtwx8tkzrjhgl.png)
+![](/Asserts/Images/album/202401/12/184456qo3jtwx8tkzrjhgl.png)
 
 
 ### #1 美国讨论限制中国获取 RISC-V 技术
@@ -38,7 +38,7 @@ tags:	[linuxcn,RISC-V,云服务,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/12/184514on1i0d5ilyqzcmwm.png)
+![](/Asserts/Images/album/202401/12/184514on1i0d5ilyqzcmwm.png)
 
 
 ### #2 谷歌取消迁出其云服务的费用
@@ -66,7 +66,7 @@ tags:	[linuxcn,RISC-V,云服务,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/12/184531zhfw2e4v4t4c2455.png)
+![](/Asserts/Images/album/202401/12/184531zhfw2e4v4t4c2455.png)
 
 
 ### #3 Linux 内核 6.8 遭遇“可怕的性能回归”

@@ -13,7 +13,7 @@ tags:	[linuxcn,Fabric,远程,ssh,自动化]
 在这篇教程中，我们将会一步一步地向你介绍如何使用 fabric 来帮助你更好得管理多台服务器。
 
 
-![](/Asserts/Images//attachment/album/201608/22/095534qd5ykcxcnc6ggcnr.jpg)
+![](/Asserts/Images/album/201608/22/095534qd5ykcxcnc6ggcnr.jpg)
 
 
 *使用 Fabric 来自动化地管理 Linux 任务*
@@ -140,7 +140,7 @@ def hello():
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/22/095537nq4azgv8vfzto6qz.gif)
+![](/Asserts/Images/album/201608/22/095537nq4azgv8vfzto6qz.gif)
 
 
 *Fabric 工具使用说明*
@@ -170,7 +170,7 @@ def uptime():
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/22/095538upgzukph6kphgozq.gif)
+![](/Asserts/Images/album/201608/22/095538upgzukph6kphgozq.gif)
 
 
 *Fabric: 检查系统运行时间*
@@ -231,7 +231,7 @@ def echo():
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/22/095541xrusmsooroprozu4.gif)
+![](/Asserts/Images/album/201608/22/095541xrusmsooroprozu4.gif)
 
 
 *fabric: 自动在远程 Linux 机器上执行任务*
@@ -262,7 +262,7 @@ def disk_space():
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/22/095545t5rcq7zc5cfwcszy.gif)
+![](/Asserts/Images/album/201608/22/095545t5rcq7zc5cfwcszy.gif)
 
 
 *Fabric：自动在多台服务器上执行任务*

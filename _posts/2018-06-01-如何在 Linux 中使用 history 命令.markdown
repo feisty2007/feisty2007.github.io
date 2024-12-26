@@ -15,7 +15,7 @@ tags:	[linuxcn,历史,history]
 > 
 
 
-![](/Asserts/Images//attachment/album/201806/26/082437dzz94xnhe95huhxh.jpg)
+![](/Asserts/Images/album/201806/26/082437dzz94xnhe95huhxh.jpg)
 
 
 随着我在终端中花费越来越多的时间，我感觉就像在不断地寻找新的命令，以使我的日常任务更加高效。GNU 的 `history` 命令是一个真正改变我日常工作的命令。

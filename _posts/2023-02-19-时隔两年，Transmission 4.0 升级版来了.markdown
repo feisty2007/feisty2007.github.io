@@ -15,7 +15,7 @@ tags:	[linuxcn,BitTorrent,Transmission]
 > 
 
 
-![时隔两年，Transmission 4.0升级版来了](/Asserts/Images//attachment/album/202302/23/142948bjo0jzoiqjdpxami.png)
+![时隔两年，Transmission 4.0升级版来了](/Asserts/Images/album/202302/23/142948bjo0jzoiqjdpxami.png)
 
 
 BitTorrent 是一种流行的 HTTP 的替代方式，用于在互联网上分享或下载文件。你可能知道，有许多各具特色的 BitTorrent 客户端。

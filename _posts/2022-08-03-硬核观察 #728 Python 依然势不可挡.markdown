@@ -7,10 +7,10 @@ tags:	[linuxcn,安全,Python,星链]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/14/205038bk8c2313x722x7z0.jpg)
+![](/Asserts/Images/album/202208/14/205038bk8c2313x722x7z0.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/14/205048t4qlx61w6qi2g77m.jpg)
+![](/Asserts/Images/album/202208/14/205048t4qlx61w6qi2g77m.jpg)
 
 
 ### Python 依然势不可挡
@@ -35,7 +35,7 @@ tags:	[linuxcn,安全,Python,星链]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/14/205104gqeaelnrlaxywq4v.jpg)
+![](/Asserts/Images/album/202208/14/205104gqeaelnrlaxywq4v.jpg)
 
 
 ### 针对星链终端的攻击已经开始了
@@ -60,7 +60,7 @@ tags:	[linuxcn,安全,Python,星链]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/14/205120h9ca6j06xj0q9qz1.jpg)
+![](/Asserts/Images/album/202208/14/205120h9ca6j06xj0q9qz1.jpg)
 
 
 ### 微软在 2021 年度的漏洞赏金支付上超过了谷歌

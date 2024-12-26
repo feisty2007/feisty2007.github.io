@@ -25,7 +25,7 @@ tags:	[linuxcn,Linux,内核]
 让我们开始吧！
 
 
-![](/Asserts/Images//attachment/album/201509/11/092508gz45l78glkmkgzp2.png)
+![](/Asserts/Images/album/201509/11/092508gz45l78glkmkgzp2.png)
 
 
 （题图来自：adafruit.com）

@@ -13,7 +13,7 @@ tags:	[linuxcn,进程]
 <ruby> 进程 <rp>  （ </rp> <rt>  process </rt> <rp>  ） </rp></ruby>是指正在执行的程序；是程序正在运行的一个实例。它由程序指令，和从文件、其它程序中读取的数据或系统用户的输入组成。
 
 
-![](/Asserts/Images//attachment/album/201704/27/092959k4otxq1ffn5pqcn9.jpg)
+![](/Asserts/Images/album/201704/27/092959k4otxq1ffn5pqcn9.jpg)
 
 
 ### 进程的类型
@@ -32,7 +32,7 @@ tags:	[linuxcn,进程]
 这是后台进程的特殊类型，它们在系统启动时启动，并作为服务一直运行；它们不会死亡。它们自发地作为系统任务启动（作为服务运行）。但是，它们能被用户通过 init 进程控制。
 
 
- [![Linux 进程状态](/Asserts/Images//attachment/album/201704/27/093035wd0ly8pppjc0fo8o.png)](http://www.tecmint.com/wp-content/uploads/2017/03/ProcessState.png) 
+ [![Linux 进程状态](/Asserts/Images/album/201704/27/093035wd0ly8pppjc0fo8o.png)](http://www.tecmint.com/wp-content/uploads/2017/03/ProcessState.png) 
 
 
 *Linux 进程状态*
@@ -87,7 +87,7 @@ init 进程的进程 ID 总是为 1。它是所有孤儿进程的收养父母。
 
 ```
 
-![查找 Linux 进程 ID](/Asserts/Images//attachment/album/201704/27/093035lfx9l4zhhf6xelyx.png)
+![查找 Linux 进程 ID](/Asserts/Images/album/201704/27/093035lfx9l4zhhf6xelyx.png)
 
 
 *查找 Linux 进程 ID*
@@ -103,7 +103,7 @@ $ echo $PPID
 
 ```
 
-![查找 Linux 父进程 ID](/Asserts/Images//attachment/album/201704/27/093035qz92snskbzi2d3ed.png)
+![查找 Linux 父进程 ID](/Asserts/Images/album/201704/27/093035qz92snskbzi2d3ed.png)
 
 
 *查找 Linux 父进程 ID*
@@ -121,7 +121,7 @@ $ echo $PPID
 
 ```
 
-![启动 Linux 交互进程](/Asserts/Images//attachment/album/201704/27/093036n3fss8efrh7edfdr.png)
+![启动 Linux 交互进程](/Asserts/Images/album/201704/27/093036n3fss8efrh7edfdr.png)
 
 
 *启动 Linux 交互进程*
@@ -140,7 +140,7 @@ $ echo $PPID
 
 ```
 
-![在后台启动 Linux 进程](/Asserts/Images//attachment/album/201704/27/093036yzo2fnei5ici9oii.png)
+![在后台启动 Linux 进程](/Asserts/Images/album/201704/27/093036yzo2fnei5ici9oii.png)
 
 
 *在后台启动 Linux 进程*
@@ -175,7 +175,7 @@ $ echo $PPID
 
 ```
 
-![Linux 后台进程任务](/Asserts/Images//attachment/album/201704/27/093036lhy8xqnf5yzffyyy.png)
+![Linux 后台进程任务](/Asserts/Images/album/201704/27/093036lhy8xqnf5yzffyyy.png)
 
 
 *Linux 后台进程任务*
@@ -215,7 +215,7 @@ $ echo $PPID
 
 ```
 
-![列出 Linux 活跃进程](/Asserts/Images//attachment/album/201704/27/093037fg0vsxpivovwxk0u.png)
+![列出 Linux 活跃进程](/Asserts/Images/album/201704/27/093037fg0vsxpivovwxk0u.png)
 
 
 *列出 Linux 活跃进程*
@@ -233,7 +233,7 @@ top 是一个强大的工具，它能给你提供 运行系统的动态实时视
 
 ```
 
-![列出 Linux 正在运行的程序](/Asserts/Images//attachment/album/201704/27/093037zssr5b6tqnqnx6c2.png)
+![列出 Linux 正在运行的程序](/Asserts/Images/album/201704/27/093037zssr5b6tqnqnx6c2.png)
 
 
 *列出 Linux 正在运行的程序*
@@ -254,7 +254,7 @@ glances 是一个相对比较新的系统监控工具，它有一些比较高级
 
 ```
 
-![Glances - Linux 进程监控](/Asserts/Images//attachment/album/201704/27/093038zt91ht6xg9o2fgmo.png)
+![Glances - Linux 进程监控](/Asserts/Images/album/201704/27/093038zt91ht6xg9o2fgmo.png)
 
 
 *Glances – Linux 进程监控*
@@ -287,7 +287,7 @@ $ pgrep -u tecmint glances
 
 ```
 
-![控制 Linux 进程](/Asserts/Images//attachment/album/201704/27/093038u3hxhdtwzj8iz38j.png)
+![控制 Linux 进程](/Asserts/Images/album/201704/27/093038u3hxhdtwzj8iz38j.png)
 
 
 *控制 Linux 进程*
@@ -315,7 +315,7 @@ $ kill -l
 
 ```
 
-![列出所有 Linux 信号](/Asserts/Images//attachment/album/201704/27/093038dn9ll1v2xs4cln7c.png)
+![列出所有 Linux 信号](/Asserts/Images/album/201704/27/093038dn9ll1v2xs4cln7c.png)
 
 
 *列出所有 Linux 信号*
@@ -377,7 +377,7 @@ $ top
 
 ```
 
-![列出 Linux 正在运行的进程](/Asserts/Images//attachment/album/201704/27/093037zssr5b6tqnqnx6c2.png)
+![列出 Linux 正在运行的进程](/Asserts/Images/album/201704/27/093037zssr5b6tqnqnx6c2.png)
 
 
 *列出 Linux 正在运行的进程*

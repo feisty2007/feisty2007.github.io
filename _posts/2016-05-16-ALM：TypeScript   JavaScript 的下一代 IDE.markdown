@@ -13,7 +13,7 @@ TypeScript 是一种由微软开发的自由开源的编程语言。它是 JavaS
 如果你使用 TypeScript 开发项目，那么现在有个新的软件可以帮助到你。
 
 
-![](/Asserts/Images//attachment/album/201605/29/210354ahejoqrb17qgpqrq.jpg)
+![](/Asserts/Images/album/201605/29/210354ahejoqrb17qgpqrq.jpg)
 
 
 [ALM](http://alm.tools/) 宣称它是“TypeScript 的下一代 IDE”，这款专为 TypeScript 设计的编辑器将会使得编程更快捷，JavaScript 开发者可以首先使用类似的 TypeScript 进行开发，然后再编译成浏览器所支持的 JavaScript 语言。
@@ -51,7 +51,7 @@ ALM 的开发者 Basarat Ali Syed 给这个 IDE 中打包了很多功能，包�
 你可以看看 Syed 放到文档站的动画 Gif：
 
 
-![ALM IDE's multi-panel feature](/Asserts/Images//attachment/album/201605/29/210508b84gf5z8gacftd8g.gif "ALM IDE's multi-panel feature")
+![ALM IDE's multi-panel feature](/Asserts/Images/album/201605/29/210508b84gf5z8gacftd8g.gif "ALM IDE's multi-panel feature")
 
 
 你可以[在 GitHub 上找到该项目](https://github.com/alm-tools/alm)，别忘记了 star 它！

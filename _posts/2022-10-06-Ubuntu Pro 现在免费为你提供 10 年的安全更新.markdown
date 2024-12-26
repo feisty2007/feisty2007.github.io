@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu Pro,Ubuntu,LTS]
 > 
 
 
-![Ubuntu Pro 现在免费为你提供 10 年的安全更新](/Asserts/Images//attachment/album/202210/09/163622tdzzorkfakr41f4g.jpg)
+![Ubuntu Pro 现在免费为你提供 10 年的安全更新](/Asserts/Images/album/202210/09/163622tdzzorkfakr41f4g.jpg)
 
 
 Canonical 为 Ubuntu Pro 引入了一个免费计价层，该层针对个人使用和小规模部署。
@@ -51,7 +51,7 @@ Canonical 为 Ubuntu Pro 引入了一个免费计价层，该层针对个人使�
 与标准发行版相比，Ubuntu Pro 的主要优势在于不断提供安全补丁。
 
 
-![ubuntu pro 好处](/Asserts/Images//attachment/album/202210/09/163622x0jjaaotj5kqj980.png)
+![ubuntu pro 好处](/Asserts/Images/album/202210/09/163622x0jjaaotj5kqj980.png)
 
 
 **对于希望系统稳定而又不会丢失安全更新的用户来说，这是一个难以置信的好消息。**

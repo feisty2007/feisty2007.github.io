@@ -7,7 +7,7 @@ tags:	[linuxcn,Linus Torvalds]
 ---
 
 
-![linus torvalds](/Asserts/Images//attachment/album/201607/18/010121ge36sddzvzvodsa3.jpg)
+![linus torvalds](/Asserts/Images/album/201607/18/010121ge36sddzvzvodsa3.jpg)
 
 
 *1999 年 8 月 10 日，加利福尼亚州圣何塞市，在 LinuxWorld Show 上 Linus Torvalds 在一个坐满 Linux 爱好者的礼堂中发表了一篇演讲。图片来自：James Niccolai*

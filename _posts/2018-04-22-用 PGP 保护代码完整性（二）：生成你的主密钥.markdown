@@ -7,7 +7,7 @@ tags:	[linuxcn,PGP,GPG]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/09/081224rr6791g97zo62917.png)
+![](/Asserts/Images/album/201804/09/081224rr6791g97zo62917.png)
 
 
 在本系列文章中，我们将深度探讨如何使用 PGP 以及为工作于自由软件项目的开发者提供实用指南。在前一篇文章中，我们介绍了[基本工具和概念](/article-9524-1.html)。在本文中，我们将展示如何生成和保护你的 PGP 主密钥。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Checksec,二进制]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/18/095702dzvm482460vnrv6y.jpg)
+![](/Asserts/Images/album/202211/18/095702dzvm482460vnrv6y.jpg)
 
 
 编译源代码会生成一个二进制文件（LCTT 译注：即 `.o` 文件）。在编译期间，你可以向 `gcc` 编译器提供 <ruby> 标志 <rt>  flags </rt></ruby>，以启用或禁用二进制文件的某些属性，这些属性与安全性相关。

@@ -7,7 +7,7 @@ tags:	[linuxcn,开源社区,数据科学]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/19/155043lcx6bxqw5ci5gpgi.jpg)
+![](/Asserts/Images/album/202303/19/155043lcx6bxqw5ci5gpgi.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,开源社区,数据科学]
 在数据分析的黄金时代，开源社区也不能免俗。大家都热衷于将一些华丽的数字放到演示幻灯片上，但如果你掌握了正确的分析方法，这些信息可以为你带来更大的价值。
 
 
-或许你认为作为一名 [数据科学家](https://enterprisersproject.com/article/2022/9/Asserts/Images/-scientist-day-life?intcmp=7013a000002qLH8AAM)，我会告诉你数据分析和自动化能为你的社区决策提供信息。但实际上，情况恰恰相反。利用数据分析来构建你现有的开源社区知识，吸收其他的知识，并发现潜在的偏见和没有思考过的观点。你或许是实施社区活动的专家，而你那些同事则是代码方面的专家。当你们每个人都在自己的知识背景下将信息可视化时，你们都可以从这些信息中受益。
+或许你认为作为一名 [数据科学家](https://enterprisersproject.com/article/2022/9/data-scientist-day-life?intcmp=7013a000002qLH8AAM)，我会告诉你数据分析和自动化能为你的社区决策提供信息。但实际上，情况恰恰相反。利用数据分析来构建你现有的开源社区知识，吸收其他的知识，并发现潜在的偏见和没有思考过的观点。你或许是实施社区活动的专家，而你那些同事则是代码方面的专家。当你们每个人都在自己的知识背景下将信息可视化时，你们都可以从这些信息中受益。
 
 
 让我们来面对现实吧。每个人都有一千零一件事情要做，而且总感觉一天的时间永远不够用。如果需要几个小时才能得到你的社区的答案，你就不可能有足够的精力去解决这些事情。但是，花时间创建一个全面发展的可视化项目，可以帮助你时刻掌握你所关心的社区的不同方面，这就将你从精疲力尽中解放了出来。
@@ -48,7 +48,7 @@ tags:	[linuxcn,开源社区,数据科学]
 这些观点并非非此即彼，而是相互关联的。适当的框架将有助于创造一个更深思熟虑的衡量标准。
 
 
-![数据科学和机器学习的工作流程](/Asserts/Images//attachment/album/202303/19/155046qymgn8wmdt9c8dyy.jpg)
+![数据科学和机器学习的工作流程](/Asserts/Images/album/202303/19/155046qymgn8wmdt9c8dyy.jpg)
 
 
 当人们谈论通用的数据科学或机器学习工作时，通常会描述这样的工作流程。我将重点关注第一步，即编写问题和度量标准，并简要提及第二步。从数据科学的角度来看，这个演示可以被视为这个步骤的一个案例研究。这一步有时会被忽视，但你的分析的实际价值始于此。你不能一天醒来就知道要看什么。从理解你想知道什么和你所拥有的数据开始，逐步实现更加深度的数据分析。
@@ -69,7 +69,7 @@ tags:	[linuxcn,开源社区,数据科学]
 #### 场景 2：社区活动的影响测量
 
 
-![目标和影响](/Asserts/Images//attachment/album/202303/19/155046wjjds6gy3eczdxyj.png)
+![目标和影响](/Asserts/Images/album/202303/19/155046wjjds6gy3eczdxyj.png)
 
 
 针对聚会、会议或其他任何社区外联活动，你如何看待你的影响力和目标？这两个步骤实际上互相影响。一旦你确定了活动的目标，就要确定可以用什么来检测效果。这些信息有助于设定活动的目标。在活动开始时，很容易陷入模糊的计划而非具体的计划的陷阱中。
@@ -78,7 +78,7 @@ tags:	[linuxcn,开源社区,数据科学]
 #### 场景3：形成新的影响分析区
 
 
-![新的分析区](/Asserts/Images//attachment/album/202303/19/155047ah36y98q6qh95z8y.png)
+![新的分析区](/Asserts/Images/album/202303/19/155047ah36y98q6qh95z8y.png)
 
 
 当你从头开始进行数据分析时，就会出现这种情况。前面的例子是这个工作流程的不同部分。这个工作流程是一个不断发展的循环；你可以随时进行改进或扩展。基于这个概念，以下是你应该经历的必要步骤。在本文的后面，将会有三个不同的例子，展示这种方法在现实世界中的应用。
@@ -160,7 +160,7 @@ tags:	[linuxcn,开源社区,数据科学]
 **数据：** GitHub 上的首次贡献随时间推移的数据（议题、PR、评论等）。
 
 
-![每季度首次贡献图表](/Asserts/Images//attachment/album/202303/19/155047itbnmj8jpu9z0ptb.png)
+![每季度首次贡献图表](/Asserts/Images/album/202303/19/155047itbnmj8jpu9z0ptb.png)
 
 
 **可视化：** 按季度划分的首次贡献条形图。
@@ -169,7 +169,7 @@ tags:	[linuxcn,开源社区,数据科学]
 **潜在的意义：** 在你与其他社区成员交谈后，进一步检查按季度细分的信息，以及贡献者是否为重复贡献者或仅仅是路过。你可以看到人们进来的时候在做什么，以及这是否能告诉你他们是否会留下来。
 
 
-![每季度路过贡献图标](/Asserts/Images//attachment/album/202303/19/155048zs17077ryyy58llv.png)
+![每季度路过贡献图标](/Asserts/Images/album/202303/19/155048zs17077ryyy58llv.png)
 
 
 **从这些信息中了解到的可以采取的行动。**
@@ -192,7 +192,7 @@ tags:	[linuxcn,开源社区,数据科学]
 **数据：** GitHub 的贡献数据。
 
 
-![贡献者类型随时间变化的图表](/Asserts/Images//attachment/album/202303/19/155051ekq45jzhybjtqtrd.png)
+![贡献者类型随时间变化的图表](/Asserts/Images/album/202303/19/155051ekq45jzhybjtqtrd.png)
 
 
 **可视化：** “贡献总额：按路过和重复贡献者的贡献进行细分。”
@@ -241,7 +241,7 @@ tags:	[linuxcn,开源社区,数据科学]
 ---
 
 
-via: <https://opensource.com/article/22/12/Asserts/Images/-scientists-guide-open-source-community-analysis>
+via: <https://opensource.com/article/22/12/data-scientists-guide-open-source-community-analysis>
 
 
 作者：[Cali Dolfi](https://opensource.com/users/cdolfi) 选题：[lkxed](https://github.com/lkxed) 译者：[Chao-zhi](https://github.com/Chao-zhi) 校对：[wxy](https://github.com/wxy)

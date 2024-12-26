@@ -7,7 +7,7 @@ tags:	[linuxcn,PPA,Ubuntu,Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/02/063342gzimvg26s75ctzu6.jpeg)
+![](/Asserts/Images/album/201406/02/063342gzimvg26s75ctzu6.jpeg)
 
 
 一名It’s FOSS的普通读者Chetan Jain今天联系了我，并询问道：我要怎样修复Ubuntu 14.04中无法添加PPA源的错误。Chetan在尝试安装[TLP (一个用于减少过热发生的电源管理工具)](http://itsfoss.com/solve-overheating-issue-battery-life-ubuntu-1304/)的时候遇到了这个错误：

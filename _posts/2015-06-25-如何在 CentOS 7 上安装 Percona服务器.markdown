@@ -13,7 +13,7 @@ tags:	[linuxcn,Percona,MySQL]
 在下文中将介绍在CentOS 7上 Percona 服务器的安装，以及备份当前数据，配置的步骤和如何恢复备份。
 
 
-![](/Asserts/Images//attachment/album/201506/22/174147stvqqasq7lp70avx.jpg)
+![](/Asserts/Images/album/201506/22/174147stvqqasq7lp70avx.jpg)
 
 
 ### 1.什么是Percona，为什么使用它

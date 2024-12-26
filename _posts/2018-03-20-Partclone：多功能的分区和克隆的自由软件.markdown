@@ -7,7 +7,7 @@ tags:	[linuxcn,分区,Partclone]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/10/090516nhli68552dv8zn2z.png)
+![](/Asserts/Images/album/201803/10/090516nhli68552dv8zn2z.png)
 
 
 [Partclone](https://partclone.org/) 是由 Clonezilla 的开发者们开发的用于创建和克隆分区镜像的自由开源软件。实际上，Partclone 是 Clonezilla 所基于的工具之一。

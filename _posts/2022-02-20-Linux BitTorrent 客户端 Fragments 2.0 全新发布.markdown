@@ -15,7 +15,7 @@ tags:	[linuxcn,Fragments,BitTorrent]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/08/104308dbtgrgimcx6xbj4i.png)
+![](/Asserts/Images/album/202202/08/104308dbtgrgimcx6xbj4i.png)
 
 
 Fragments 是 [Linux 上最好的 BitTorrent 客户端之一](https://itsfoss.com/best-torrent-ubuntu/)。
@@ -33,7 +33,7 @@ Fragments 是 [Linux 上最好的 BitTorrent 客户端之一](https://itsfoss.co
 ### Fragments 2.0 的新变化
 
 
-![](/Asserts/Images//attachment/album/202202/08/104309sz55thd0oq939crt.png)
+![](/Asserts/Images/album/202202/08/104309sz55thd0oq939crt.png)
 
 
 最近，Gnome 应用程序的生态系统经历了一些大规模的变化。在这个变化的最前沿是向 Gtk4 和 [Libadwaita](https://adrienplazas.com/blog/2021/03/31/introducing-libadwaita.html) 的过渡。不幸的是，这种变化并不小，许多应用程序需要从头开始重建，以支持这些新标准。
@@ -55,7 +55,7 @@ Fragments 是 [Linux 上最好的 BitTorrent 客户端之一](https://itsfoss.co
 #### 一个新的用户界面
 
 
-![](/Asserts/Images//attachment/album/202202/08/104310fvg19qrb9b8jtggv.png)
+![](/Asserts/Images/album/202202/08/104310fvg19qrb9b8jtggv.png)
 
 
 Fragments 2.0 现在有一个基于 Libadwaita 的新 UI。补充一句，Libadwaita 是 GTK4 对 Gnome 应用程序的一个扩展。它有几个优点，最明显的是在所有 Gnome 应用程序中具有一致的外观。
@@ -82,13 +82,13 @@ Fragments 2.0 现在有一个基于 Libadwaita 的新 UI。补充一句，Libadw
 #### 新的首选项对话框
 
 
-![](/Asserts/Images//attachment/album/202202/08/104311cttxzzor2ivb1obp.png)
+![](/Asserts/Images/album/202202/08/104311cttxzzor2ivb1obp.png)
 
 
 最后，Fragments 2.0 引入了几个经常要求的设置选项。在这些选项中，我认为最重要的是能够改变尚未完全下载的种子的默认文件夹。
 
 
-![](/Asserts/Images//attachment/album/202202/08/104312q6cuvp6vjzppb0z1.png)
+![](/Asserts/Images/album/202202/08/104312q6cuvp6vjzppb0z1.png)
 
 
 虽然仍然不像它的一些替代品那样可以定制，但这些新增功能可以帮助你调整设置以适应你的要求。
@@ -119,7 +119,7 @@ Fragments 2.0 现在有一个基于 Libadwaita 的新 UI。补充一句，Libadw
 #### 其他改进措施
 
 
-![](/Asserts/Images//attachment/album/202202/08/104313jta9pds8v338f4hv.png)
+![](/Asserts/Images/album/202202/08/104313jta9pds8v338f4hv.png)
 
 
 除了所有这些大的变化之外，还有一些错误的修复和一些新的能力。

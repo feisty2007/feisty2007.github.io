@@ -13,7 +13,7 @@ tags:	[linuxcn,Cinnamon,Linux Mint]
  [Linux Mint 发布了其新 LTS 版本的第一个更新 17.1](http://blog.linuxmint.com/?p=2688) ，它的易用 shell 的最新版本将是该发行版的重中之重。
 
 
-![New Wallpaper Slideshow Feature](/Asserts/Images//attachment/album/201411/05/131245oft8a8yfh8i8otm9.jpg)
+![New Wallpaper Slideshow Feature](/Asserts/Images/album/201411/05/131245oft8a8yfh8i8otm9.jpg)
 
 
 \*新的墙纸幻灯片功能 \*
@@ -38,7 +38,7 @@ Cinnamon 2.4 带来了大量受欢迎的功能，包括改进了波兰语支持�
 * 增加了“提醒与隐私”设置面板
 
 
-![Some say Nemo is the best file manager for Linux](/Asserts/Images//attachment/album/201411/05/131247ge97p97pzexu7ps4.jpg)
+![Some say Nemo is the best file manager for Linux](/Asserts/Images/album/201411/05/131247ge97p97pzexu7ps4.jpg)
 
 
 *有些人说 Nemo 是 Linux 上最好的文件管理器*

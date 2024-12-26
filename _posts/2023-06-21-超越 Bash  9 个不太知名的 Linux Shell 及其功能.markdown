@@ -7,7 +7,7 @@ tags:	[linuxcn,Shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/02/175710r3c8shssf5qss2tf.jpg)
+![](/Asserts/Images/album/202306/02/175710r3c8shssf5qss2tf.jpg)
 
 
 
@@ -36,7 +36,7 @@ Shell 通过解释命令为 Linux 和类 Unix 系统提供了一个接口，充�
 Fish 是一个智能的、用户友好的命令行 Shell，主要适用于类 Unix 操作系统。
 
 
-![Fish Shell](/Asserts/Images//attachment/album/202306/02/175829los0vkn2ytoexrq4.png)
+![Fish Shell](/Asserts/Images/album/202306/02/175829los0vkn2ytoexrq4.png)
 
 
 Fish Shell 的特点：
@@ -84,7 +84,7 @@ sudo apt install fish
 Nushell（Nu）是一种新型的 Shell，可以在 Linux、macOS、Windows、BSD 等系统上使用。它的哲学和灵感来自于类似于 [PowerShell](https://itsfoss.com/microsoft-open-sources-powershell/)、函数式编程语言和现代 [CLI](https://itsfoss.com/gui-cli-tui/) 工具等项目。
 
 
-![Nushell](/Asserts/Images//attachment/album/202306/02/175830kpf3fb5bjyb35bb3.png)
+![Nushell](/Asserts/Images/album/202306/02/175830kpf3fb5bjyb35bb3.png)
 
 
 Nushell 的特点：
@@ -128,7 +128,7 @@ brew install nushell
 该项目的创建者将 **Dune** 描述为海滩上的一个 “贝壳”。Dune 是一个快速、实用且美观的 Shell，提供了一些特殊的元编程功能，比如引用。
 
 
-![Dune Shell](/Asserts/Images//attachment/album/202306/02/175830pq2z4wdo0wj0itjr.png)
+![Dune Shell](/Asserts/Images/album/202306/02/175830pq2z4wdo0wj0itjr.png)
 
 
 Dune Shell 的特点：
@@ -179,7 +179,7 @@ dunesh
 Xonsh 是一个用 Python 编写的，跨平台 Shell 和命令提示符。它结合了 Python 和 Bash Shell，用户可以直接在 Shell 中运行 Python 命令。甚至可以结合使用 Python 和 Shell 命令。
 
 
-![Xonsh shell](/Asserts/Images//attachment/album/202306/02/175830nmo0ijzjwm7wz8o9.png)
+![Xonsh shell](/Asserts/Images/album/202306/02/175830nmo0ijzjwm7wz8o9.png)
 
 
 如果你想了解更多，请阅读我们的 Xonsh 文章：
@@ -232,7 +232,7 @@ Xonsh 还提供了一个 AppImage 包，可以从它们的下载页面下载。�
 Hilbish 是一个可扩展 Shell，可通过 Lua 编程语言进行定制。该 Shell 面向普通用户和高级用户。
 
 
-![Hilbish shell](/Asserts/Images//attachment/album/202306/02/175831yile4ee6zfzw656e.png)
+![Hilbish shell](/Asserts/Images/album/202306/02/175831yile4ee6zfzw656e.png)
 
 
 Hilbish 的特点：
@@ -296,7 +296,7 @@ sudo task install
 Elvish 是一种丰富的编程语言和多功能交互式 Shell。它可以在 Linux、Mac 和 Windows 上运行。即使版本 v1.0 尚未发布，它已经适合大多数日常交互使用。
 
 
-![Elvish shell](/Asserts/Images//attachment/album/202306/02/175831tqvtctowqwvoldni.png)
+![Elvish shell](/Asserts/Images/album/202306/02/175831tqvtctowqwvoldni.png)
 
 
 Elvish 的特点：
@@ -350,7 +350,7 @@ sudo pacman -S elvish
 它旨在成为现代 Shell 的更强大、更稳健的替代品，同时尊重 Unix shell 在过去半个世纪中建立的惯例。
 
 
-![](/Asserts/Images//attachment/album/202306/02/175832n7wvgzwjg9qzw587.png)
+![](/Asserts/Images/album/202306/02/175832n7wvgzwjg9qzw587.png)
 
 
 Oh Shell 的特点：
@@ -413,7 +413,7 @@ oh
 Solidity 是一个带有轻量级会话记录和远程编译器支持的交互式 Shell。当你更改指示/语言时，它会自动获取匹配的远程编译器。
 
 
-![](/Asserts/Images//attachment/album/202306/02/175833ss0msssz48pm0u5m.png)
+![](/Asserts/Images/album/202306/02/175833ss0msssz48pm0u5m.png)
 
 
 Solidity 的特点：
@@ -458,7 +458,7 @@ npm install -g solidity-shell
 Yash（Yet another shell）是一个遵循 POSIX 标准的命令行 Shell，使用 C99（ISO/IEC 9899:1999）编写。它具有适用于日常交互和脚本使用的功能。
 
 
-![](/Asserts/Images//attachment/album/202306/02/175833yqjo8o4skxkjkqqk.png)
+![](/Asserts/Images/album/202306/02/175833yqjo8o4skxkjkqqk.png)
 
 
 Yash Shell 的特点：

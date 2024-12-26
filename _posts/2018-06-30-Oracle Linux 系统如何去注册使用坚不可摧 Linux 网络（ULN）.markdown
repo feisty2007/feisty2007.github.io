@@ -7,7 +7,7 @@ tags:	[linuxcn,Oracle,ULN]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/18/230317ts9jixj6dfn382fl.jpg)
+![](/Asserts/Images/album/201806/18/230317ts9jixj6dfn382fl.jpg)
 
 
 大多数人都知道 RHEL 的订阅 ，但是知道 Oracle 订阅及细节的人却很少。
@@ -46,19 +46,19 @@ ULN 的告警提示工具会周期性地使用 ULN 进行检查，当有更新�
 请访问 [linux.oracle.com](https://linux.oracle.com/register)：
 
 
-![](/Asserts/Images//attachment/album/201806/18/230345exiy09edjdkkzzpf.png)
+![](/Asserts/Images/album/201806/18/230345exiy09edjdkkzzpf.png)
 
 
 如果你已经有一个 SSO 帐户，请点击 “Sign On”。
 
 
-![](/Asserts/Images//attachment/album/201806/18/230346zoeqehereejyyypj.png)
+![](/Asserts/Images/album/201806/18/230346zoeqehereejyyypj.png)
 
 
 如果你没有帐户，点击 “Create New Single Signon Account” 然后按屏幕上的要求去创建一个帐户。
 
 
-![](/Asserts/Images//attachment/album/201806/18/230347kukpboxkq91x6wbo.png)
+![](/Asserts/Images/album/201806/18/230347kukpboxkq91x6wbo.png)
 
 
 验证你的电子邮件地址以完成帐户设置。
@@ -67,7 +67,7 @@ ULN 的告警提示工具会周期性地使用 ULN 进行检查，当有更新�
 使用你的 SSO 帐户的用户名和密码去登入。在 “Create New ULN User” 页面上，输入你的 CSI 然后点击 “Create New User”。
 
 
-![](/Asserts/Images//attachment/album/201806/18/230347yzt6oa0eeo6s9f6o.png)
+![](/Asserts/Images/album/201806/18/230347yzt6oa0eeo6s9f6o.png)
 
 
 **注意：**
@@ -338,19 +338,19 @@ repolist: 40,966
 另外，你也可以在 ULN 网站上查看到相同的信息。转到 `System` 标签页去查看已注册的系统列表。
 
 
-![](/Asserts/Images//attachment/album/201806/18/230348w7msk4sqz587ezbz.png)
+![](/Asserts/Images/album/201806/18/230348w7msk4sqz587ezbz.png)
 
 
 去查看已经启用的仓库列表。转到 `System` 标签页，然后点击相应的系统。另外，你也能够看到系统勘误及可用更新。
 
 
-![](/Asserts/Images//attachment/album/201806/18/230349nlcllo0d044emot0.png)
+![](/Asserts/Images/album/201806/18/230349nlcllo0d044emot0.png)
 
 
 去管理订阅的频道。转到 `System` 标签页，然后点击有关的 `system name`，最后点击 `Manage Subscriptions`。
 
 
-![](/Asserts/Images//attachment/album/201806/18/230349twcf49slqw1zss0c.png)
+![](/Asserts/Images/album/201806/18/230349twcf49slqw1zss0c.png)
 
 
 

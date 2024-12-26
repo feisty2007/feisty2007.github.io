@@ -7,7 +7,7 @@ tags:	[linuxcn,手机,iOS,安卓]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/15/122023naiwasw8098w5tii.jpg)
+![](/Asserts/Images/album/202005/15/122023naiwasw8098w5tii.jpg)
 
 
 #### Ubuntu Touch OTA-12 正式发布，提供完整 Unity8 使用体验

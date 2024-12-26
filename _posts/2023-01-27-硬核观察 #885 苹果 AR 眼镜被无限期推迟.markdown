@@ -7,10 +7,10 @@ tags:	[linuxcn,AR,安全漏洞,Windows]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/18/173610t5u5zrsrszpre1sw.jpg)
+![](/Asserts/Images/album/202301/18/173610t5u5zrsrszpre1sw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/18/173619fi6qiq1filivi4ff.jpg)
+![](/Asserts/Images/album/202301/18/173619fi6qiq1filivi4ff.jpg)
 
 
 ### 苹果 AR 眼镜被无限期推迟
@@ -35,7 +35,7 @@ tags:	[linuxcn,AR,安全漏洞,Windows]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/18/173628jlkuugamitpmgu0x.jpg)
+![](/Asserts/Images/album/202301/18/173628jlkuugamitpmgu0x.jpg)
 
 
 ### 数千 Sophos 防火墙存在严重漏洞
@@ -60,7 +60,7 @@ tags:	[linuxcn,AR,安全漏洞,Windows]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/18/173640n0qndl7qal2zq9c7.jpg)
+![](/Asserts/Images/album/202301/18/173640n0qndl7qal2zq9c7.jpg)
 
 
 ### Windows 专业版也将默认禁止访客访问

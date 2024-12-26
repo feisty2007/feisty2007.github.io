@@ -7,7 +7,7 @@ tags:	[linuxcn,RAID]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/22/232055die9qzzho3stqzz9.jpg)
+![](/Asserts/Images/album/201702/22/232055die9qzzho3stqzz9.jpg)
 
 
 ### 设置 Linux RAID 1

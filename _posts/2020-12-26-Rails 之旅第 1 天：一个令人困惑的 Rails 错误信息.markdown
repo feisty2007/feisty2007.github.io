@@ -7,7 +7,7 @@ tags:	[linuxcn,Rails,Ruby]
 ---
 
 
-![](/Asserts/Images//attachment/album/202012/04/080957f0p4piqz52bypqb5.jpg)
+![](/Asserts/Images/album/202012/04/080957f0p4piqz52bypqb5.jpg)
 
 
 今天，我开始了一个 Recurse Center 的班次学习！我认识了一些人，并开始了一个小小的有趣的 Rails 项目。我想我今天不会谈太多关于这个项目的实际内容，但这里有一些关于 Rails 一天的快速笔记。

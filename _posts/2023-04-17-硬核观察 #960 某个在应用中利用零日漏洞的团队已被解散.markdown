@@ -7,10 +7,10 @@ tags:	[linuxcn,漏洞,LISP,Tor]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/03/182609vxxrm6bb8bs21rzu.jpg)
+![](/Asserts/Images/album/202304/03/182609vxxrm6bb8bs21rzu.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/03/182616r25yo5iyw5uqzamy.jpg)
+![](/Asserts/Images/album/202304/03/182616r25yo5iyw5uqzamy.jpg)
 
 
 ### 某个在应用中利用零日漏洞的团队已被解散
@@ -35,7 +35,7 @@ tags:	[linuxcn,漏洞,LISP,Tor]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/03/182626b9pixplya24l9m9y.jpg)
+![](/Asserts/Images/album/202304/03/182626b9pixplya24l9m9y.jpg)
 
 
 ### 上古的 LISP 机系统软件 v100 恢复成功
@@ -60,7 +60,7 @@ tags:	[linuxcn,漏洞,LISP,Tor]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/03/182638j8p8b9hyup9vzply.jpg)
+![](/Asserts/Images/album/202304/03/182638j8p8b9hyup9vzply.jpg)
 
 
 ### Tor 合作推出的新浏览器不使用洋葱网络

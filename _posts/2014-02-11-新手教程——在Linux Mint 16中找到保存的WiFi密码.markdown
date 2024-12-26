@@ -19,19 +19,19 @@ tags:	[linuxcn,Linux,Mint,WiFi,密码,教程,技巧]
 找到保存的 WiFi 密码，其实过程非常简单。点击 Menu 输入network。在其中选择**Network Connections**。
 
 
-![](/Asserts/Images//attachment/album/201402/12/214910xoyerl6xler7oc44.jpeg)
+![](/Asserts/Images/album/201402/12/214910xoyerl6xler7oc44.jpeg)
 
 
 在 Network Connections 中，你可以看到所有你最近链接过的 WiFi 网络。选择你想要知道密码的一个，点击**Edit**。
 
 
-![](/Asserts/Images//attachment/album/201402/12/214911s9yanm83gaa8gsws.png)
+![](/Asserts/Images/album/201402/12/214911s9yanm83gaa8gsws.png)
 
 
 在 **Wi-Fi Security** 选项卡下，选中 **Show password** 来显示密码。
 
 
-![](/Asserts/Images//attachment/album/201402/12/214913muuzyo5m6r5rd2c3.png)
+![](/Asserts/Images/album/201402/12/214913muuzyo5m6r5rd2c3.png)
 
 
 通过以上步骤，你就可以得到保存的 WiFi 密码。你也可以通过类似的步骤[在 Ubuntu 中获取保存的 WiFi 密码](http://itsfoss.com/how-to-find-saved-wireless-wifi-passwords-ubuntu/)。希望这篇文章能够帮到你。

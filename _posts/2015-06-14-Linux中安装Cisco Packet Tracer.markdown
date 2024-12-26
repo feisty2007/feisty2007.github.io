@@ -7,7 +7,7 @@ tags:	[linuxcn,Cisco]
 ---
 
 
-![](/Asserts/Images//attachment/album/201506/06/082727ntejeztadmcatzhm.png)
+![](/Asserts/Images/album/201506/06/082727ntejeztadmcatzhm.png)
 
 
 ### Cisco Packet tracer是什么？
@@ -45,7 +45,7 @@ tags:	[linuxcn,Cisco]
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082727icb3n22z8pj7jl65.png)
+![](/Asserts/Images/album/201506/06/082727icb3n22z8pj7jl65.png)
 
 
 ### 步骤 1： 首先，我们需要下载Cisco Packet Tracer。
@@ -63,7 +63,7 @@ tags:	[linuxcn,Cisco]
 [下载Cisco Packet Tracer 6.1.1](https://www.dropbox.com/s/5evz8gyqqvq3o3v/Cisco%20Packet%20Tracer%206.1.1%20Linux.tar.gz?dl=0)
 
 
-![](/Asserts/Images//attachment/album/201506/06/082728h6imd8qqglf8hk8l.png)
+![](/Asserts/Images/album/201506/06/082728h6imd8qqglf8hk8l.png)
 
 
 ### 步骤 2： 安装Java：
@@ -81,7 +81,7 @@ tags:	[linuxcn,Cisco]
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082728g8yuuouicoouzouc.png)
+![](/Asserts/Images/album/201506/06/082728g8yuuouicoouzouc.png)
 
 
 （或者）
@@ -142,7 +142,7 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082728pu22cd42zdd22cuu.png)
+![](/Asserts/Images/album/201506/06/082728pu22cd42zdd22cuu.png)
 
 
 ### 步骤 3： 启用32位架构支持：
@@ -158,7 +158,7 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082729k3a9l7m9kzmlaadf.png)
+![](/Asserts/Images/album/201506/06/082729k3a9l7m9kzmlaadf.png)
 
 
 
@@ -169,7 +169,7 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082729jtdmmww6z3bwe65h.png)
+![](/Asserts/Images/album/201506/06/082729jtdmmww6z3bwe65h.png)
 
 
 ### 步骤 4： 解压并安装软件包：
@@ -185,7 +185,7 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082729lx26ekz75bw5bnsu.png)
+![](/Asserts/Images/album/201506/06/082729lx26ekz75bw5bnsu.png)
 
 
 导航到解压后的目录
@@ -206,10 +206,10 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082729kcot4x049z0x4g5t.png)
+![](/Asserts/Images/album/201506/06/082729kcot4x049z0x4g5t.png)
 
 
-![](/Asserts/Images//attachment/album/201506/06/082730eoxuzndjnxdcn0ex.png)
+![](/Asserts/Images/album/201506/06/082730eoxuzndjnxdcn0ex.png)
 
 
 要使用Packet Tracer工作，我们需要设置环境，Cisco已经提供了环境脚本，我们需要以root用户来运行该脚本以设置环境变量。
@@ -221,7 +221,7 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082731thj2ouqhihiphpth.png)
+![](/Asserts/Images/album/201506/06/082731thj2ouqhihiphpth.png)
 
 
 安装到此结束。接下来，我们需要为Packet Tracer创建桌面图标。
@@ -238,7 +238,7 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/082731r228cxuuhnuhyuuu.png)
+![](/Asserts/Images/album/201506/06/082731r228cxuuhnuhyuuu.png)
 
 
 使用vim编辑器或你喜爱的那个编辑器来添加以下内容到文件。
@@ -261,7 +261,7 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 使用wq!来保存并退出vim。
 
 
-![](/Asserts/Images//attachment/album/201506/06/082731y6vpdilm0xal6mjv.png)
+![](/Asserts/Images/album/201506/06/082731y6vpdilm0xal6mjv.png)
 
 
 ### 步骤 5： 运行Packet Tracer
@@ -276,10 +276,10 @@ export PATH=$PATH:/usr/java/jre1.8.0_31/bin
 好了，我们已经成功将Packet Tracer安装到Linux中。上述安装步骤适用于所有基于Debian的Linux发行版。
 
 
-![](/Asserts/Images//attachment/album/201506/06/082732unuhnggknxkdckxd.png)
+![](/Asserts/Images/album/201506/06/082732unuhnggknxkdckxd.png)
 
 
-![](/Asserts/Images//attachment/album/201506/06/082735pdou6zqnn666gqja.png)
+![](/Asserts/Images/album/201506/06/082735pdou6zqnn666gqja.png)
 
 
 ### 资源

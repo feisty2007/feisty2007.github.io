@@ -7,7 +7,7 @@ tags:	[linuxcn,TDF]
 ---
 
 
-![](/Asserts/Images//attachment/album/201506/18/111200qmog974iiddagahh.jpg)
+![](/Asserts/Images/album/201506/18/111200qmog974iiddagahh.jpg)
 
 
 The Document Foundation (TDF)郑重地发布了2014年度报告，你可以点击这里下载: [http://tdf.io/report2014](https://wiki.documentfoundation.org/File:TDF2014AnnualReport.pdf) (3.2 MB PDF)。高清质量的可以点击这里下载 [http://tdf.io/report2014hq](https://wiki.documentfoundation.org/File:TDF2014AnnualReportHQ.pdf) (15.9 MB PDF)。

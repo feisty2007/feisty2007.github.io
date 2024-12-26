@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,AI,超算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/22/181157h5r69f6y5plflr6b.jpg)
+![](/Asserts/Images/album/202307/22/181157h5r69f6y5plflr6b.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/22/181209wc19flg13wbbwgk3.jpg)
+![](/Asserts/Images/album/202307/22/181209wc19flg13wbbwgk3.jpg)
 
 
 ### 社区批评 Meta 滥用“开源”来称呼其新大语言模型
@@ -35,7 +35,7 @@ Meta AI 宣称：“Llama 2 是我们的下一代开源 LLM，可用于研究和
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/22/181222fpp7hisx367kjmpm.jpg)
+![](/Asserts/Images/album/202307/22/181222fpp7hisx367kjmpm.jpg)
 
 
 ### 人工智能公司承诺将为人工智能生成内容打上水印
@@ -60,7 +60,7 @@ OpenAI、Alphabet、Meta、亚马逊和微软等七家主要的美国人工智�
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/22/181243wzcz83bktctnazaa.jpg)
+![](/Asserts/Images/album/202307/22/181243wzcz83bktctnazaa.jpg)
 
 
 ### Cerebras 推出人工智能超级计算机网络

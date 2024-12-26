@@ -10,7 +10,7 @@ tags:	[linuxcn,PHP,WordPress,Ghost,安全漏洞]
 *建议用户马上更新可用的补丁*
 
 
-![WordPress validating pingback’s post URL](/Asserts/Images//attachment/album/201503/15/235034mrjkfjxflx9rzqkk.jpg)
+![WordPress validating pingback’s post URL](/Asserts/Images/album/201503/15/235034mrjkfjxflx9rzqkk.jpg)
 
 
 **这个漏洞之前由Qualys的安全研究员发现，并取了绰号叫[Ghost](1)，可以利用WordPress或其他PHP应用来攻击网站服务器。**

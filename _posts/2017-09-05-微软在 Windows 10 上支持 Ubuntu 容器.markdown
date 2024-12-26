@@ -7,7 +7,7 @@ tags:	[linuxcn,Windows,Canonical]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/17/093451xdx2e77nrh6bbe67.png)
+![](/Asserts/Images/album/201709/17/093451xdx2e77nrh6bbe67.png)
 
 
 Canonical 的 Dustin Kirkland 宣布该公司最近与微软合作让 Ubuntu 容器可以运行在带有 Hyper-V 隔离的 Windows 系统上。

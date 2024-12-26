@@ -10,7 +10,7 @@ tags:	[linuxcn,shell]
 在Linux或类Unix系统中，每个用户和进程都运行在一个特定环境中。这个环境包含了变量、设置、别名、函数以及更多的东西。下面是对Shell环境下一些常用命令的简单介绍，包括每个命令如何使用的例子，以及在命令行下设定你自己的环境来提高效率。
 
 
-![](/Asserts/Images//attachment/album/201503/29/221909al9hdmdo0sltclh8.jpg)
+![](/Asserts/Images/album/201503/29/221909al9hdmdo0sltclh8.jpg)
 
 
 ### 找出你当前的shell
@@ -38,7 +38,7 @@ echo "$0"
 输出范例：
 
 
-[![图1: Finding out your shell name](/Asserts/Images//attachment/album/201503/29/221934vlrrgxgwggieczrc.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/finding-your-shell-like-a-pro/)
+[![图1: Finding out your shell name](/Asserts/Images/album/201503/29/221934vlrrgxgwggieczrc.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/finding-your-shell-like-a-pro/)
 
 
 *图1：找出当前的shell*
@@ -62,7 +62,7 @@ type -a bash
 输出范例：
 
 
-[![Fig.02: Finding out your shell path](/Asserts/Images//attachment/album/201503/29/221937o727t3p73ct6zw0p.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/finding-and-verifying-shell-path/)
+[![Fig.02: Finding out your shell path](/Asserts/Images/album/201503/29/221937o727t3p73ct6zw0p.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/finding-and-verifying-shell-path/)
 
 
 *图2：找出shell的路径*
@@ -132,7 +132,7 @@ echo "$SHLVL"
 示例输出：
 
 
-[![Fig. 03: Bash shell nesting level (subshell numbers)](/Asserts/Images//attachment/album/201503/29/221938z9aczas9ysoyua3e.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/a-nested-shell-level-command/)
+[![Fig. 03: Bash shell nesting level (subshell numbers)](/Asserts/Images/album/201503/29/221938z9aczas9ysoyua3e.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/a-nested-shell-level-command/)
 
 
 *图3：Bash shell嵌套层级（子shell数目）*
@@ -205,7 +205,7 @@ OLDPWD=/Users/vivek
 下面是bash shell里一些常见变量的列表：
 
 
-![Fig.04: Common bash environment variables](/Asserts/Images//attachment/album/201503/29/221946wd52y52y5yxy52d2.jpg)
+![Fig.04: Common bash environment variables](/Asserts/Images/album/201503/29/221946wd52y52y5yxy52d2.jpg)
 
 
 *图4：常见bash环境变量*
@@ -370,7 +370,7 @@ ls -l ~/.bash* ~/.profile /etc/bash* /etc/profile
 示例输出：
 
 
-[![Fig.05: List all bash environment configuration files](/Asserts/Images//attachment/album/201503/29/221947gwam5wdqphm5mp1w.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/list-bash-enviroment-variables/)
+[![Fig.05: List all bash environment configuration files](/Asserts/Images/album/201503/29/221947gwam5wdqphm5mp1w.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/list-bash-enviroment-variables/)
 
 
 *图5：列出bash的所有配置文件*
@@ -415,7 +415,7 @@ sudo vim /etc/bashrc
 下面的"bash初始化文件"流程图应该有些帮助：
 
 
-![](/Asserts/Images//attachment/album/201503/29/221949w5kouu69ocee5kvo.jpg)
+![](/Asserts/Images/album/201503/29/221949w5kouu69ocee5kvo.jpg)
 
 
 根据账户设定的默认shell，你的用户配置或系统配置可能是下面其中一种：
@@ -539,7 +539,7 @@ history 20
 示例输出：
 
 
-[![Fig.06: View session history in the bash shell using history command](/Asserts/Images//attachment/album/201503/29/221950x3788tqafrldrclu.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/history-outputs/)
+[![Fig.06: View session history in the bash shell using history command](/Asserts/Images/album/201503/29/221950x3788tqafrldrclu.jpg)](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/attachment/history-outputs/)
 
 
 *图6：在bash shell中使用history命令查看会话历史*

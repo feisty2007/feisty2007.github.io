@@ -7,10 +7,10 @@ tags:	[linuxcn,Docker,AI,勒索软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/16/182437qo3orsgmsgr0qg0x.jpg)
+![](/Asserts/Images/album/202303/16/182437qo3orsgmsgr0qg0x.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/16/182446f7hhhjvuhhhlq1zt.jpg)
+![](/Asserts/Images/album/202303/16/182446f7hhhjvuhhhlq1zt.jpg)
 
 
 ### Docker Hub 将删除所有没有付钱的开源组织的镜像
@@ -35,7 +35,7 @@ Docker 要求以“组织”名义开设账号的用户升级到付费的团队�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/16/182456rmcxqetyyzycu2a9.jpg)
+![](/Asserts/Images/album/202303/16/182456rmcxqetyyzycu2a9.jpg)
 
 
 ### AI 棋手刺激人类棋手进步
@@ -60,7 +60,7 @@ Docker 要求以“组织”名义开设账号的用户升级到付费的团队�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/16/182509bz2hf7gwfr227m2p.jpg)
+![](/Asserts/Images/album/202303/16/182509bz2hf7gwfr227m2p.jpg)
 
 
 ### 勒索软件攻击已进入一个令人发指的新阶段

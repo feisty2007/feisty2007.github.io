@@ -7,7 +7,7 @@ tags:	[linuxcn,lftp]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/24/212144zq1cldcoqrcl1eqe.jpg)
+![](/Asserts/Images/album/201802/24/212144zq1cldcoqrcl1eqe.jpg)
 
 
 `lftp` 是一个文件传输程序。它可以用于复杂的 FTP、 HTTP/HTTPS 和其他连接。如果指定了站点 URL，那么 `lftp` 将连接到该站点，否则会使用 `open` 命令建立连接。它是所有 Linux/Unix 命令行用户的必备工具。我目前写了一些关于 [Linux 下超快命令行下载加速器](https://www.cyberciti.biz/tips/download-accelerator-for-linux-command-line-tools.html)，比如 Axel 和 prozilla。`lftp` 是另一个能做相同的事，但有更多功能的工具。`lftp` 可以处理几种文件访问方式：

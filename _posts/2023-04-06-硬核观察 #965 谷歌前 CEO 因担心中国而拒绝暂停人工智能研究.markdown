@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,汽车]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/08/191310bmuouiefrui01bz5.jpg)
+![](/Asserts/Images/album/202304/08/191310bmuouiefrui01bz5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/08/191333lcibkss98c8b8899.jpg)
+![](/Asserts/Images/album/202304/08/191333lcibkss98c8b8899.jpg)
 
 
 ### 谷歌前 CEO 因担心中国而拒绝暂停人工智能研究
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,汽车]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/08/191344l17cf9g69eh08981.jpg)
+![](/Asserts/Images/album/202304/08/191344l17cf9g69eh08981.jpg)
 
 
 ### 软件工程师因在 ChatGPT 上粘贴专有代码而被捕
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,汽车]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/08/191357trs9sd2fjszfemzu.jpg)
+![](/Asserts/Images/album/202304/08/191357trs9sd2fjszfemzu.jpg)
 
 
 ### 窃贼通过汽车总线注入攻击来偷车

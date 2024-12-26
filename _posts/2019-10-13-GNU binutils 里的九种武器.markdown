@@ -15,7 +15,7 @@ tags:	[linuxcn,二进制]
 > 
 
 
-![](/Asserts/Images//attachment/album/201910/10/115409g9nkdm2omutduw7u.jpg)
+![](/Asserts/Images/album/201910/10/115409g9nkdm2omutduw7u.jpg)
 
 
 想象一下，在无法访问软件的源代码时，但仍然能够理解软件的实现方式，在其中找到漏洞，并且更厉害的是还能修复错误。所有这些都是在只有二进制文件时做到的。这听起来就像是超能力，对吧？

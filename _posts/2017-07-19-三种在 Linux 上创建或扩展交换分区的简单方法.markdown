@@ -7,7 +7,7 @@ tags:	[linuxcn,内存,交换分区]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/16/101746jyzcscciwlh7lv5d.jpg)
+![](/Asserts/Images/album/201707/16/101746jyzcscciwlh7lv5d.jpg)
 
 
 用户可以在任何 Linux 操作系统的安装过程中或者是其它必要的时候创建交换空间。如果你在安装 Linux 的时候忘记了创建或是你想要再增加交换分区的空间，你随时都可以再创建或增加。

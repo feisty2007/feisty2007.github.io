@@ -7,7 +7,7 @@ tags:	[linuxcn,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/27/230446qhytdigtz2t6kfn0.jpg)
+![](/Asserts/Images/album/201707/27/230446qhytdigtz2t6kfn0.jpg)
 
 
 **Linus Torvalds** 发布了 **Linux 内核 4.12**。你可以从**[这里](https://mintguide.org/engine/dude/index/leech_out.php?a%3AaHR0cDovL2tlcm5lbC51YnVudHUuY29tL35rZXJuZWwtcHBhL21haW5saW5lL3Y0LjEyLw%3D%3D)**直接下载相关的 **deb** 包来安装。或者，继续阅读本文，按下面的步骤安装新内核。

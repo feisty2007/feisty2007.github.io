@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Debian]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/02/230706mpahrwpwjjm2jkpu.jpg)
+![](/Asserts/Images/album/202109/02/230706mpahrwpwjjm2jkpu.jpg)
 
 
 在 Debian 和 Ubuntu 系统中，你都可以 [使用 apt-get 命令](https://itsfoss.com/apt-get-linux-guide/) 来管理应用。你也可以在这两个发行版中安装 DEB 安装包。很多时候，你会在这两个发行版中发现同样的包安装命令。
@@ -28,7 +28,7 @@ Linux 发行版虽然有数百个，但其中只有少数是从零开始的独�
 Ubuntu 源自 Debian。这意味着 Ubuntu 使用与 Debian 相同的 APT 包管理系统，并共享来自 Debian 库中的大量包和库。它建立在 Debian 基础架构上。
 
 
-![Ubuntu uses Debian as base](/Asserts/Images//attachment/album/202109/02/230831qjp07kxj0p0x7vuv.png)
+![Ubuntu uses Debian as base](/Asserts/Images/album/202109/02/230831qjp07kxj0p0x7vuv.png)
 
 
 这就是大多数“衍生”发行版所做的。它们使用相同的包管理器，并与基础发行版共享包。但它们也做了一些改变，添加了一些自己的包。这就是 Ubuntu 和 Debian 的不同之处，尽管它是从 Debian 衍生而来的。
@@ -46,7 +46,7 @@ Ubuntu 源自 Debian。这意味着 Ubuntu 使用与 Debian 相同的 APT 包管
 让我逐一讨论这些因素来比较 Ubuntu 和 Debian。请记住，有些比较适用于桌面版本，而有些比较适用于服务器版本。
 
 
-![](/Asserts/Images//attachment/album/202109/02/230831i53ac53oyk7x5aqx.png)
+![](/Asserts/Images/album/202109/02/230831i53ac53oyk7x5aqx.png)
 
 
 #### 1、发布周期
@@ -76,7 +76,7 @@ Ubuntu 有两种发布版本：LTS（长期支持）和常规版本。[Ubuntu LT
 #### 2、软件更新
 
 
-![](/Asserts/Images//attachment/album/202109/02/230832m7rmrvxeax4v4qri.png)
+![](/Asserts/Images/album/202109/02/230832m7rmrvxeax4v4qri.png)
 
 
 Debian 更关注稳定性，这意味着它并不总是使用最新版本的软件。例如，最新的 Debian 11 用的 GNOME 版本为 3.38，并不是最新版的 GNOME 3.40。
@@ -100,7 +100,7 @@ Ubuntu LTS 版本也关注稳定性。但是它们通常拥有较新版本的常
 Debian 和 Ubuntu 都拥有一个巨大的软件仓库。然而，[Ubuntu 还有 PPA](https://itsfoss.com/ppa-guide/)（<ruby> 个人软件包存档 <rt>  Personal Package Archive </rt></ruby>）。通过 PPA，安装更新版本的软件或者获取最新版本的软件都将会变的更容易。
 
 
-![](/Asserts/Images//attachment/album/202109/02/230834vq3slmjcpcl1p53l.jpg)
+![](/Asserts/Images/album/202109/02/230834vq3slmjcpcl1p53l.jpg)
 
 
 你可以在 Debian 中尝试使用 PPA，但是体验并不好。大多数时候你都会遇到问题。
@@ -130,7 +130,7 @@ Ubuntu 可以在 64 位的 x86 和 ARM 平台上使用。它不再提供 32 位�
 有一个单独的包含固件的非自由镜像，但它是隐藏的，如果你不知道，你可能会大吃一惊。
 
 
-![Getting non-free firmware is a pain in Debian](/Asserts/Images//attachment/album/202109/02/230834b4k2r09rk00rrp0k.png)
+![Getting non-free firmware is a pain in Debian](/Asserts/Images/album/202109/02/230834b4k2r09rk00rrp0k.png)
 
 
 Ubuntu 在默认提供的镜像中包含专有驱动程序和固件时要宽容的多。
@@ -139,7 +139,7 @@ Ubuntu 在默认提供的镜像中包含专有驱动程序和固件时要宽容�
 此外，Debian 安装程序看起来很旧，而 Ubuntu 安装程序看起来就比较现代化。Ubuntu 安装程序还可以识别磁盘上其它已安装的操作系统，并为你提供将 Ubuntu 与现有操作系统一起安装的选项（双引导）。但我在测试时并没有注意到 Debian 有此选项。
 
 
-![Installing Ubuntu is smoother](/Asserts/Images//attachment/album/202109/02/230835jubk6kkh6ogk4j6h.png)
+![Installing Ubuntu is smoother](/Asserts/Images/album/202109/02/230835jubk6kkh6ogk4j6h.png)
 
 
 #### 6、开箱即用的硬件支持
@@ -163,7 +163,7 @@ Ubuntu 默认使用定制的 GNOME 桌面环境。你可以在其上安装 [其�
 Debian 也默认安装了 GNOME 桌面。但是它会让你在安装的过程中选择你要安装的桌面环境。
 
 
-![](/Asserts/Images//attachment/album/202109/02/230837v8p1dln8zwypanud.png)
+![](/Asserts/Images/album/202109/02/230837v8p1dln8zwypanud.png)
 
 
 你还可以从其网站获取 [特定桌面环境的 ISO 镜像](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)。

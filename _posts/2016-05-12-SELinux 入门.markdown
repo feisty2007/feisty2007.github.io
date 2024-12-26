@@ -7,7 +7,7 @@ tags:	[linuxcn,SELinux,安全,AppArmor]
 ---
 
 
-![](/Asserts/Images//attachment/album/201605/09/114709nmpn3rn000ky1m0m.jpg)
+![](/Asserts/Images/album/201605/09/114709nmpn3rn000ky1m0m.jpg)
 
 
 回到 Kernel 2.6 时代，那时候引入了一个新的安全系统，用以提供访问控制安全策略的机制。这个系统就是 [Security Enhanced Linux (SELinux)](http://selinuxproject.org/page/Main_Page)，它是由[美国国家安全局（NSA）](https://www.nsa.gov/research/selinux/)贡献的，它为 Linux 内核子系统引入了一个健壮的<ruby> 强制控制访问 <rp>  （ </rp> <rt>  Mandatory Access Control </rt> <rp>  ） </rp></ruby>架构。
@@ -60,7 +60,7 @@ SELinux 有三个模式（可以由用户设置）。这些模式将规定 SELin
 * <ruby> Disabled <rp>  （ </rp> <rt>  禁用 </rt> <rp>  ） </rp></ruby>— 完全禁用 SELinux
 
 
-![](/Asserts/Images//attachment/album/201605/09/114726f6rphbs6krt4o4hr.png)
+![](/Asserts/Images/album/201605/09/114726f6rphbs6krt4o4hr.png)
 
 
 *图 1：getenforce 命令显示 SELinux 的状态是 Enforcing 启用状态。*
@@ -81,7 +81,7 @@ SELinux 有三个模式（可以由用户设置）。这些模式将规定 SELin
 4. 执行 `getenforce` 确定模式已经正确设置（图 2）
 
 
-![](/Asserts/Images//attachment/album/201605/09/114726efnh5hztvph5hhhl.png)
+![](/Asserts/Images/album/201605/09/114726efnh5hztvph5hhhl.png)
 
 
 *图 2：设置 SELinux 模式为 Enforcing。*
@@ -96,7 +96,7 @@ SELinux 有三个模式（可以由用户设置）。这些模式将规定 SELin
 4. 执行 `getenforce` 确定模式已经正确设置（图 3）
 
 
-![](/Asserts/Images//attachment/album/201605/09/114727e22fgab546grung6.png)
+![](/Asserts/Images/album/201605/09/114727e22fgab546grung6.png)
 
 
 *图 3：设置 SELinux 模式为 Permissive。*
@@ -157,7 +157,7 @@ sestatus -v
 你可以看到像图 4 那样的输出。
 
 
-![](/Asserts/Images//attachment/album/201605/09/114728a379999n525vall9.png)
+![](/Asserts/Images/album/201605/09/114728a379999n525vall9.png)
 
 
 *图 4：sestatus -v 命令的输出。*

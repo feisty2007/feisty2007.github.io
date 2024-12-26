@@ -7,7 +7,7 @@ tags:	[linuxcn,android,Linux核心,Linux基金会,Linux领袖]
 ---
 
 
-[![](/Asserts/Images//attachment/album/201309/23/150814r727ea1zzr1am71m.png "gtape")](https://img.linux.net.cn/Asserts/Images//attachment/album/201309/23/150814r727ea1zzr1am71m.png)
+[![](/Asserts/Images/album/201309/23/150814r727ea1zzr1am71m.png "gtape")](https://img.linux.net.cn/Asserts/Images/album/201309/23/150814r727ea1zzr1am71m.png)
 
 
 曾经，就在不久以前，那时Google家的[Android还并非Linux](http://www.zdnet.com/blog/open-source/googles-android-fork-defended-debated-dissected-again/7067)……
@@ -19,7 +19,7 @@ tags:	[linuxcn,android,Linux核心,Linux基金会,Linux领袖]
 Linux基金会的年度Linux贡献率调查显示，去年，各大移动厂商对Linux内核的贡献比例一共只占到了4.4%，而今年，这个数字已经达到了11%。
 
 
- [![](/Asserts/Images//attachment/album/201309/23/150814n3su6zneuqhnz3uu.png "Linux ")](http://www.wired.com/wiredenterprise/wp-content/uploads/2013/09/infographic.png)
+ [![](/Asserts/Images/album/201309/23/150814n3su6zneuqhnz3uu.png "Linux ")](http://www.wired.com/wiredenterprise/wp-content/uploads/2013/09/infographic.png)
 
 
 在Linux的贡献者排名中，Google 2009年的时候还只排在第19位，今年已经从第10位上升到第8。前三名的公司依次是：红帽(Red Hat)、因特尔(Intel)和德州仪器(Texas Instruments)。

@@ -7,7 +7,7 @@ tags:	[linuxcn,VSCode,Atom]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/01/231806jk4mky6gjmrw4mgm.png)
+![](/Asserts/Images/album/202111/01/231806jk4mky6gjmrw4mgm.png)
 
 
 如今，找到一个 [好的开源代码编辑器](https://itsfoss.com/best-modern-open-source-code-editors-for-linux/) 并不难，随便选择一个就可以了。
@@ -28,7 +28,7 @@ VS Code 和 Atom 现在都属于微软，因为 Atom 的原开发者 GitHub 现�
 ### VS Code
 
 
-![VS Code 的用户界面与拥挤的项目界面](/Asserts/Images//attachment/album/202111/01/231812onun5juacaxjuyxt.png)
+![VS Code 的用户界面与拥挤的项目界面](/Asserts/Images/album/202111/01/231812onun5juacaxjuyxt.png)
 
 
 [VS Code](https://code.visualstudio.com/) 是开源的现代编辑器之一。它的用户群爆炸性地增长，因为它具有类似 IDE 的功能，但仍然保持相对较轻的资源占用。
@@ -59,7 +59,7 @@ Atom
 ----
 
 
-![Atom 编辑器的用户界面](/Asserts/Images//attachment/album/202111/01/231813o76i0qih0ot7ixsw.png)
+![Atom 编辑器的用户界面](/Asserts/Images/album/202111/01/231813o76i0qih0ot7ixsw.png)
 
 
 [GitHub 的 Atom](https://atom.io/) 是另一个自由开源的代码编辑器，可用于 Linux、macOS 和 Windows。Atom 是一个使用 JavaScript 通过 Electron 制作的桌面应用程序，用于轻松开发软件包。

@@ -84,7 +84,7 @@ Webmail无疑是任何邮件服务器必不可少的一部分。虽然本地邮�
 在 管理面板> 域> 增加域 页面设置有效的域。建议服务器 IP 是本地服务器，如 127.0.0.1。基于服务器配置，RainLoop 可以配置使用 IMAP/IMAPS 或 SMTP/SMTPS。并且，确认‘使用短登录表单’复选框已勾选。
 
 
-![](/Asserts/Images//attachment/album/201404/02/151244a6i5odiz6ioid16i.jpg)
+![](/Asserts/Images/album/201404/02/151244a6i5odiz6ioid16i.jpg)
 
 
 使用‘测试连接’按钮验证设置。
@@ -108,7 +108,7 @@ mysqlexit;
 现在这个功能可以通过管理面板>联系人页面启用。
 
 
-![](/Asserts/Images//attachment/album/201404/02/151247cerryzdd0zd7x4u3.jpg)
+![](/Asserts/Images/album/201404/02/151247cerryzdd0zd7x4u3.jpg)
 
 
 再来一次，使用‘测试’按钮检查设置。
@@ -132,13 +132,13 @@ mysqlexit;
 接下来，去允许 RainLoop 使用 poppassd，从 管理面板> 软件包 页面安装 RainLoop 插件 poppassd。
 
 
-![](/Asserts/Images//attachment/album/201404/02/151249nke4wax4ack5zggw.jpg)
+![](/Asserts/Images/album/201404/02/151249nke4wax4ack5zggw.jpg)
 
 
 最后，poppassd 插件可以从 管理面板> 插件页面启用。
 
 
-![](/Asserts/Images//attachment/album/201404/02/151253jbl2tcv9l99bfiwz.jpg)
+![](/Asserts/Images/album/201404/02/151253jbl2tcv9l99bfiwz.jpg)
 
 
 现在所有参数已设置，用户可以从他们提供的凭证登录，如截图所示。
@@ -149,7 +149,7 @@ mysqlexit;
 * pass: password
 
 
-![](/Asserts/Images//attachment/album/201404/02/151254qu3ul0860c80lu6q.jpg)
+![](/Asserts/Images/album/201404/02/151254qu3ul0860c80lu6q.jpg)
 
 
 希望这篇文章能帮助到你。

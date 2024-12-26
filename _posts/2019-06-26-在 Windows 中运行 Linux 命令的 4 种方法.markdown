@@ -33,7 +33,7 @@ tags:	[linuxcn,Windows,WSL]
 ### 在 Windows 中使用 Linux 命令
 
 
-![](/Asserts/Images//attachment/album/201906/04/093809hlz2tblfzt7mbwwl.jpg)
+![](/Asserts/Images/album/201906/04/093809hlz2tblfzt7mbwwl.jpg)
 
 
 作为一个热心的 Linux 用户和推广者，我希望看到越来越多的人使用“真正的” Linux，但我知道有时候，这不是优先考虑的问题。如果你只是想练习 Linux 来通过考试，可以使用这些方法之一在 Windows 上运行 Bash 命令。
@@ -48,13 +48,13 @@ tags:	[linuxcn,Windows,WSL]
 此 WSL 也称为 Bash on Windows，它作为一个常规的 Windows 应用运行，并提供了一个命令行模式的 Linux 发行版。不要害怕命令行模式，因为你的目的是运行 Linux 命令。这就是你所需要的。
 
 
-![Ubuntu Linux inside Windows](/Asserts/Images//attachment/album/201906/04/093824cbqqnuxwxw2bujdv.jpg)
+![Ubuntu Linux inside Windows](/Asserts/Images/album/201906/04/093824cbqqnuxwxw2bujdv.jpg)
 
 
 你可以在 Windows 应用商店中找到一些流行的 Linux 发行版，如 Ubuntu、Kali Linux、openSUSE 等。你只需像任何其他 Windows 应用一样下载和安装它。安装后，你可以运行所需的所有 Linux 命令。
 
 
-![Linux distributions in Windows 10 Store](/Asserts/Images//attachment/album/201906/04/093827s4ftvv96cgfcxzx3.jpg)
+![Linux distributions in Windows 10 Store](/Asserts/Images/album/201906/04/093827s4ftvv96cgfcxzx3.jpg)
 
 
 请参考教程：[在 Windows 上安装 Linux bash shell](https://itsfoss.com/install-bash-on-windows/)。
@@ -72,7 +72,7 @@ tags:	[linuxcn,Windows,WSL]
 Git Bash 为 Git 命令行提供了仿真层。除了 Git 命令，Git Bash 还支持许多 Bash 程序，如 `ssh`、`scp`、`cat`、`find` 等。
 
 
-![Git Bash](/Asserts/Images//attachment/album/201906/04/093827fdzpf94zpa4zff2f.png)
+![Git Bash](/Asserts/Images/album/201906/04/093827fdzpf94zpa4zff2f.png)
 
 
 换句话说，你可以使用 Git Bash 运行许多常见的 Linux/Bash 命令。
@@ -93,7 +93,7 @@ Git Bash 为 Git 命令行提供了仿真层。除了 Git 命令，Git Bash 还�
 二十年来，Windows 用户使用 Cygwin 来运行和练习 Linux/Bash 命令。十多年前，我甚至用 Cygwin 来学习 Linux 命令。
 
 
-![Cygwin](/Asserts/Images//attachment/album/201906/04/093828rf30f7f1hccch9p7.jpg)
+![Cygwin](/Asserts/Images/album/201906/04/093828rf30f7f1hccch9p7.jpg)
 
 
 你可以从下面的官方网站下载 Cygwin。我还建议你参考这个 [Cygwin 备忘录](http://www.voxforge.org/home/docs/cygwin-cheat-sheet)来开始使用。
@@ -111,7 +111,7 @@ Git Bash 为 Git 命令行提供了仿真层。除了 Git 命令，Git Bash 还�
 这种方法要求你的系统有大的内存，至少 4GB ，但如果你有超过 8GB 的内存那么更好。这里的好处是你可以真实地使用桌面 Linux。如果你喜欢这个界面，那么你可能会在以后决定[切换到 Linux](https://itsfoss.com/reasons-switch-linux-windows-xp/)。
 
 
-![Ubuntu Running in Virtual Machine Inside Windows](/Asserts/Images//attachment/album/201906/04/093829uonfnkniktn0jttt.jpg)
+![Ubuntu Running in Virtual Machine Inside Windows](/Asserts/Images/album/201906/04/093829uonfnkniktn0jttt.jpg)
 
 
 有两种流行的工具可在 Windows 上创建虚拟机，它们是 Oracle VirtualBox 和 VMware Workstation Player。你可以使用两者中的任何一个。就个人而言，我更喜欢 VirtualBox。

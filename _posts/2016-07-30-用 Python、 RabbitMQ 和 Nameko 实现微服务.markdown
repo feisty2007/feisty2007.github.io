@@ -7,7 +7,7 @@ tags:	[linuxcn,微服务,Nameko]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/17/164459b44yymryj4lby4yd.jpg)
+![](/Asserts/Images/album/201607/17/164459b44yymryj4lby4yd.jpg)
 
 
 
@@ -58,7 +58,7 @@ tags:	[linuxcn,微服务,Nameko]
 #### 场景描述
 
 
-![](/Asserts/Images//attachment/album/201607/17/164533rqf9duf9ymu9ho4w.png)
+![](/Asserts/Images/album/201607/17/164533rqf9duf9ymu9ho4w.png)
 
 
 ### 用代码说话
@@ -93,7 +93,7 @@ docker run -d --hostname my-rabbit --name some-rabbit -p 15672:15672 -p 5672:567
 在浏览器中访问 <http://localhost:15672> ，如果能够使用 guest:guest 验证信息登录 RabbitMQ 的控制面板，说明它已经在你的开发环境中运行起来了。
 
 
-![](/Asserts/Images//attachment/album/201607/17/164533km4xtu88qnqkqu48.png)
+![](/Asserts/Images/album/201607/17/164533km4xtu88qnqkqu48.png)
 
 
 #### 服务环境
@@ -359,7 +359,7 @@ app.run(debug=True)
 然后访问 <http://localhost:5000/apidocs/index.html> 这个 url，就可以看到 Flasgger 的界面了，利用它可以进行 API 的交互并可以发布任务到队列以供服务进行消费。
 
 
-![](/Asserts/Images//attachment/album/201607/17/164534o2b9o5zdemrornzg.png)
+![](/Asserts/Images/album/201607/17/164534o2b9o5zdemrornzg.png)
 
 
 

@@ -15,7 +15,7 @@ tags:	[linuxcn,Ansible,日历]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/18/221110wk9kd9ewrde11zxx.jpg)
+![](/Asserts/Images/album/202010/18/221110wk9kd9ewrde11zxx.jpg)
 
 
 “随时”是执行自动化工作流的好时机吗？出于不同的原因，答案可能是否定的。
@@ -27,7 +27,7 @@ tags:	[linuxcn,Ansible,日历]
 在某些情况下，可能存在一个正在进行的计划维护窗口。或者，可能有大型事件即将来临、一个关键的业务时间、或者假期（你或许不想在星期五晚上进行更改）。
 
 
-![Street scene with a large calendar and people walking](/Asserts/Images//attachment/album/202010/18/221143fw24mm4e174z1wlp.jpg "Street scene with a large calendar and people walking")
+![Street scene with a large calendar and people walking](/Asserts/Images/album/202010/18/221143fw24mm4e174z1wlp.jpg "Street scene with a large calendar and people walking")
 
 
 无论出于什么原因，你都希望将此信息发送到你的自动化平台，以防止在特定时间段内执行周期性或临时任务。用变更管理的行话，我说的是当变更活动不应该发生时，指定封锁窗口。
@@ -60,7 +60,7 @@ Ansible 实际会给出 `ansible_date_time`，将其传递给 `calendar` 模块�
 如果你的日历是这样的：
 
 
-![Google Calendar screenshot](/Asserts/Images//attachment/album/202010/18/221150jupznzhuu5fk5k9a.png "Google Calendar screenshot")
+![Google Calendar screenshot](/Asserts/Images/album/202010/18/221150jupznzhuu5fk5k9a.png "Google Calendar screenshot")
 
 
 那么这个任务的输出就会指明这个时间段被占用的事实 （`busy: true`）：

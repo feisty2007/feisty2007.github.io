@@ -13,7 +13,7 @@ tags:	[linuxcn,网络]
 在这篇文章中，我会介绍在 Ubuntu 或者其他 Linux 发行版中重启网络的几种方法，你可以根据自身需要选择对应的方法。这些方法基本分为两类：
 
 
-![Ubuntu Restart Network](/Asserts/Images//attachment/album/201905/01/232221k60oq2d7guzuu82u.png)
+![Ubuntu Restart Network](/Asserts/Images/album/201905/01/232221k60oq2d7guzuu82u.png)
 
 
 ### 通过命令行方式重启网络
@@ -112,7 +112,7 @@ nmtui
 打开如下菜单：
 
 
-![nmtui Menu](/Asserts/Images//attachment/album/201905/01/232042duy2ebfymumu5hqu.png)
+![nmtui Menu](/Asserts/Images/album/201905/01/232042duy2ebfymumu5hqu.png)
 
 
 注意：在 nmtui 中，可以通过 `up` 和 `down` 方向键选择选项。
@@ -121,55 +121,55 @@ nmtui
 选择 “Activate a connection”：
 
 
-![nmtui Menu Select "Activate a connection"](/Asserts/Images//attachment/album/201905/01/232045w0ckccy3kuluyly4.png)
+![nmtui Menu Select "Activate a connection"](/Asserts/Images/album/201905/01/232045w0ckccy3kuluyly4.png)
 
 
 按下回车键，打开 “connections” 菜单。
 
 
-![nmtui Connections Menu](/Asserts/Images//attachment/album/201905/01/232046p19mks93mkjlnjum.png)
+![nmtui Connections Menu](/Asserts/Images/album/201905/01/232046p19mks93mkjlnjum.png)
 
 
 接下来，选择前面带星号（\*）的网络。在这个例子中，就是 MGEO72。
 
 
-![Select your connection in the nmtui connections menu.](/Asserts/Images//attachment/album/201905/01/232048yzwxdagdj3ahvivn.png)
+![Select your connection in the nmtui connections menu.](/Asserts/Images/album/201905/01/232048yzwxdagdj3ahvivn.png)
 
 
 按下回车键。 这就将“停用”你的网络连接。
 
 
-![nmtui Connections Menu with no active connection](/Asserts/Images//attachment/album/201905/01/232050xr6yrokjkqb9qvua.png)
+![nmtui Connections Menu with no active connection](/Asserts/Images/album/201905/01/232050xr6yrokjkqb9qvua.png)
 
 
 选择你要连接的网络：
 
 
-![Select the connection you want in the nmtui connections menu.](/Asserts/Images//attachment/album/201905/01/232053z27eec6d675sd31x.png)
+![Select the connection you want in the nmtui connections menu.](/Asserts/Images/album/201905/01/232053z27eec6d675sd31x.png)
 
 
 按下回车键。这样就重新激活了所选择的网络连接。
 
 
-![nmtui Connections Menu](/Asserts/Images//attachment/album/201905/01/232054knr2tktc29nnkl4z.png)
+![nmtui Connections Menu](/Asserts/Images/album/201905/01/232054knr2tktc29nnkl4z.png)
 
 
 按下 `Tab` 键两次，选择 “Back”：
 
 
-![Select "Back" in the nmtui connections menu.](/Asserts/Images//attachment/album/201905/01/232056rndjb2szj1o77jwg.png)
+![Select "Back" in the nmtui connections menu.](/Asserts/Images/album/201905/01/232056rndjb2szj1o77jwg.png)
 
 
 按下回车键，回到 nmtui 的主菜单。
 
 
-![nmtui Main Menu](/Asserts/Images//attachment/album/201905/01/232058mlj4y4oxji0konok.png)
+![nmtui Main Menu](/Asserts/Images/album/201905/01/232058mlj4y4oxji0konok.png)
 
 
 选择 “Quit” ：
 
 
-![nmtui Quit Main Menu](/Asserts/Images//attachment/album/201905/01/232100auszwtzmtx76667x.png)
+![nmtui Quit Main Menu](/Asserts/Images/album/201905/01/232100auszwtzmtx76667x.png)
 
 
 退出该界面，返回到命令行终端。
@@ -193,7 +193,7 @@ NM 小程序是 [NetworkManager](https://wiki.gnome.org/Projects/NetworkManager)
 接下来，点击该图标（也可以点击音量图标或电池图标）。打开菜单。选择 “Turn Off” 关闭网络。
 
 
-![Restart network in Ubuntu](/Asserts/Images//attachment/album/201905/01/232102agaf6luf4l4caaxw.jpg)
+![Restart network in Ubuntu](/Asserts/Images/album/201905/01/232102agaf6luf4l4caaxw.jpg)
 
 
 网络图标会在状态栏中消失，这表示你已经成功关闭网络了。
@@ -202,7 +202,7 @@ NM 小程序是 [NetworkManager](https://wiki.gnome.org/Projects/NetworkManager)
 再次点击系统托盘重新打开菜单，选择 “Turn On”，重新开启网络。
 
 
-![Restarting network in Ubuntu](/Asserts/Images//attachment/album/201905/01/232105gggw0ywwp8nddbud.jpg)
+![Restarting network in Ubuntu](/Asserts/Images/album/201905/01/232105gggw0ywwp8nddbud.jpg)
 
 
 恭喜！你现在已经重启你的网络了。
@@ -220,7 +220,7 @@ Ubuntu 没有可以直接 “刷新 WiFi 网络” 的选项，它有点隐蔽�
 你需要再次打开配置菜单，然后点击 “Select Network” 。
 
 
-![Refresh wifi network list in Ubuntu](/Asserts/Images//attachment/album/201905/01/232106qvw92r7sqwwtzp9p.jpg)
+![Refresh wifi network list in Ubuntu](/Asserts/Images/album/201905/01/232106qvw92r7sqwwtzp9p.jpg)
 
 
 选择对应的网络修改你的 WiFi 连接。
@@ -229,7 +229,7 @@ Ubuntu 没有可以直接 “刷新 WiFi 网络” 的选项，它有点隐蔽�
 你无法马上看到可用的无线网络列表。打开网络列表之后，大概需要 5 秒才会显示其它可用的无线网络。
 
 
-![Select another wifi network in Ubuntu](/Asserts/Images//attachment/album/201905/01/232109oz8sz1uuo6rovvou.jpg)
+![Select another wifi network in Ubuntu](/Asserts/Images/album/201905/01/232109oz8sz1uuo6rovvou.jpg)
 
 
 等待大概 5 秒钟，看到其他可用的网络。

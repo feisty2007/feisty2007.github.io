@@ -7,7 +7,7 @@ tags:	[linuxcn,NixOS,Nix]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/22/082116ket5ed87padptmbw.jpg)
+![](/Asserts/Images/album/202310/22/082116ket5ed87padptmbw.jpg)
 
 
 
@@ -69,7 +69,7 @@ sh <(curl -L https://nixos.org/nix/install) --daemon
 执行上述命令后，需要输入 `y` 键并按回车键：
 
 
-![](/Asserts/Images//attachment/album/202310/22/082143da0fndc0ego334d7.png)
+![](/Asserts/Images/album/202310/22/082143da0fndc0ego334d7.png)
 
 
 完成后，关闭当前终端，因为它不会在当前终端会话上运行。
@@ -108,7 +108,7 @@ sh <(curl -L https://nixos.org/nix/install) --no-daemon
 在这里，你可以添加一些额外的关键字以获得更好的搜索结果。例如，在这里，我搜索 “Firefox browser”：
 
 
-![](/Asserts/Images//attachment/album/202310/22/082144vouku3as3qdgyy5o.png)
+![](/Asserts/Images/album/202310/22/082144vouku3as3qdgyy5o.png)
 
 
 我上面提到的最后一步（“复制命令”）什么也不做，只是为你提供了一个用于安装的命令。
@@ -135,7 +135,7 @@ nix-env -q
 
 ```
 
-![](/Asserts/Images//attachment/album/202310/22/082144tcomo9e5bqa4rn6o.png)
+![](/Asserts/Images/album/202310/22/082144tcomo9e5bqa4rn6o.png)
 
 
 ### 使用包而不安装它们
@@ -168,7 +168,7 @@ nix-shell -p neofetch
 
 ```
 
-![](/Asserts/Images//attachment/album/202310/22/082144ivyevv9unexcuxc1.png)
+![](/Asserts/Images/album/202310/22/082144ivyevv9unexcuxc1.png)
 
 
 要退出 Shell，你所要做的就是执行 `exit` 命令：
@@ -204,7 +204,7 @@ nix-env --upgrade --dry-run
 
 ```
 
-![](/Asserts/Images//attachment/album/202310/22/082146xg5gllqoigbgtuqx.png)
+![](/Asserts/Images/album/202310/22/082146xg5gllqoigbgtuqx.png)
 
 
 就我而言，Firefox 浏览器已经过时，需要更新！
@@ -249,7 +249,7 @@ nix-env --uninstall firefox
 
 ```
 
-![](/Asserts/Images//attachment/album/202310/22/082146e5n7nkp1l5tnl55p.png)
+![](/Asserts/Images/album/202310/22/082146e5n7nkp1l5tnl55p.png)
 
 
 ### 通过 NixOS 释放其全部潜力

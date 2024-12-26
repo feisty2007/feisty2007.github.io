@@ -15,7 +15,7 @@ tags:	[linuxcn,VirtualBox]
 > 
 
 
-![](/Asserts/Images//attachment/album/201908/30/072113uzitwinnt9betilt.jpg)
+![](/Asserts/Images/album/201908/30/072113uzitwinnt9betilt.jpg)
 
 
 Oracle 公司的自由开源产品 [VirtualBox](https://www.virtualbox.org) 是一款出色的虚拟化工具，专门用于桌面操作系统。与另一款虚拟化工具 [Linux 上的 VMWare Workstation](https://itsfoss.com/install-vmware-player-ubuntu-1310/) 相比起来，我更喜欢它。
@@ -30,7 +30,7 @@ Oracle 公司的自由开源产品 [VirtualBox](https://www.virtualbox.org) 是�
 你也可以用 VirtualBox 在你当前的 Linux 系统中安装别的 Linux 发行版。事实上，这就是我用它的原因。如果我听说了一个不错的 Linux 发行版，我会在虚拟机上测试它，而不是安装在真实的系统上。当你想要在安装之前尝试一下别的发行版时，用虚拟机会很方便。
 
 
-![Linux installed inside Linux using VirtualBox](/Asserts/Images//attachment/album/201908/30/072130kbmodg4aimlorlyr.png)
+![Linux installed inside Linux using VirtualBox](/Asserts/Images/album/201908/30/072130kbmodg4aimlorlyr.png)
 
 
 *安装在 Ubuntu 18.04 内的 Ubuntu 18.10*
@@ -57,7 +57,7 @@ Oracle 公司的自由开源产品 [VirtualBox](https://www.virtualbox.org) 是�
 在 Ubuntu 上下载 VirtualBox 最简单的方法可能是从软件中心查找并下载。
 
 
-![VirtualBox in Ubuntu Software Center](/Asserts/Images//attachment/album/201908/30/072131ch9j0c880jhjw738.jpg)
+![VirtualBox in Ubuntu Software Center](/Asserts/Images/album/201908/30/072131ch9j0c880jhjw738.jpg)
 
 
 *VirtualBox 在 Ubuntu 软件中心提供*
@@ -92,7 +92,7 @@ sudo apt install virtualbox
 Oracle 为 VirtiualBox 版本提供了开箱即用的二进制文件。如果查看其下载页面，你将看到为 Ubuntu 和其他发行版下载 deb 安装程序的选项。
 
 
-![VirtualBox Linux Download](/Asserts/Images//attachment/album/201908/30/072133lry2zkcs8ggj22mf.jpg)
+![VirtualBox Linux Download](/Asserts/Images/album/201908/30/072133lry2zkcs8ggj22mf.jpg)
 
 
 你只需要下载 deb 文件并双击它即可安装。就是这么简单。
@@ -168,7 +168,7 @@ sudo apt update && sudo apt install virtualbox-6.0
 **提示**：一个好方法是输入 `sudo apt install virtualbox-` 并点击 `tab` 键以查看可用于安装的各种 VirtualBox 版本，然后通过补全命令来选择其中一个版本。
 
 
-![Install VirtualBox via terminal](/Asserts/Images//attachment/album/201908/30/072134ayk88mgmk8772882.png)
+![Install VirtualBox via terminal](/Asserts/Images/album/201908/30/072134ayk88mgmk8772882.png)
 
 
 ### 如何从 Ubuntu 中删除 VirtualBox

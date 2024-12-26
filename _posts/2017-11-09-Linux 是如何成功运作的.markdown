@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,社区]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/07/233825v5wswwdztqo2wssz.jpg)
+![](/Asserts/Images/album/201711/07/233825v5wswwdztqo2wssz.jpg)
 
 
 
@@ -39,7 +39,7 @@ tags:	[linuxcn,Linux,社区]
 在 [Linux 基金会的最新报道](https://www.linux.com/publications/linux-kernel-development-how-fast-it-going-who-doing-it-what-they-are-doing-and-who-5)中，让我们看看在过去一年中那些最活跃的 Linux 贡献者，以及他们所在的企业[像](/article-8220-1.html)[“海龟”一样](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)高高叠起。
 
 
-![linux companies](/Asserts/Images//attachment/album/201711/07/233835bp1gwypyp60yn0p2.jpg)
+![linux companies](/Asserts/Images/album/201711/07/233835bp1gwypyp60yn0p2.jpg)
 
 
 这些企业花费大量的资金来雇佣开发者去为自由软件做贡献，并且每个企业都从这些投资中得到了回报。由于存在企业对 Linux 过度影响的潜在可能，导致一些人对引领 Linux 开发的 Linux 基金会[表示不满](https://www.datamation.com/open-source/the-linux-foundation-and-the-uneasy-alliance.html)。在像微软这样曾经的开源界宿敌的企业挥舞着钞票进入 Linux 基金会之后，这些批评言论正变得越来越响亮。
@@ -100,7 +100,7 @@ Foster 这样写到，“他们甚至享受当前的工作并且觉得他们的�
 Foster 通过 USB 子系统的邮件列表（在 2013 年到 2015 年之间）说明了这种相互作用，用深色线条描绘了公司之间更多的电子邮件交互：
 
 
-![linux kernel](/Asserts/Images//attachment/album/201711/07/233837kvxgvnignxt0cczv.jpg)
+![linux kernel](/Asserts/Images/album/201711/07/233837kvxgvnignxt0cczv.jpg)
 
 
 在价格讨论中一些公司明显的来往可能会引起反垄断机构的注意，但在 Linux 大陆中，这只是简单的商业行为。结果导致为所有各方在自由市场相互竞争中得到一个更好的操作系统。

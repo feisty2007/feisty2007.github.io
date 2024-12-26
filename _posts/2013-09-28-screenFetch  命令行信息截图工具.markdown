@@ -67,7 +67,7 @@ $ ./screenfetch-dev
 输出示例：
 
 
-[![sk@sk: ~-screenfetch-3.1.0_008](/Asserts/Images//attachment/album/201309/12/213241tndd7ze8z88ndl4z.png)](https://img.linux.net.cn/Asserts/Images//attachment/album/201309/12/213241tndd7ze8z88ndl4z.png)
+[![sk@sk: ~-screenfetch-3.1.0_008](/Asserts/Images/album/201309/12/213241tndd7ze8z88ndl4z.png)](https://img.linux.net.cn/Asserts/Images/album/201309/12/213241tndd7ze8z88ndl4z.png)
 
 
 ### **通过git库安装**

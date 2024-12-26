@@ -7,10 +7,10 @@ tags:	[linuxcn,树莓派,GPU,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/13/172717kqj4qwpn4hnnxypq.jpg)
+![](/Asserts/Images/album/202311/13/172717kqj4qwpn4hnnxypq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/13/172727lg7rhz0h0eejd01g.png)
+![](/Asserts/Images/album/202311/13/172727lg7rhz0h0eejd01g.png)
 
 
 ### 等不及官方发布，创客制作了自己的树莓派 CM5
@@ -35,7 +35,7 @@ tags:	[linuxcn,树莓派,GPU,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/13/172743zzvzvziufu4bilw2.png)
+![](/Asserts/Images/album/202311/13/172743zzvzvziufu4bilw2.png)
 
 
 ### 10 万块闲置的挖矿 GPU 被出租给人工智能负载
@@ -60,7 +60,7 @@ tags:	[linuxcn,树莓派,GPU,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/13/172800y8fheg6foy112qhx.png)
+![](/Asserts/Images/album/202311/13/172800y8fheg6foy112qhx.png)
 
 
 ### 隐藏在 Python 混淆软件工具中的高入侵性后门

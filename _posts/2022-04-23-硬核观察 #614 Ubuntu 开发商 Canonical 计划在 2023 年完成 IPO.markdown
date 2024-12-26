@@ -7,10 +7,10 @@ tags:	[linuxcn,Canonical,Cookie,UEFI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/22/115519o4l6662l9nv9sco3.jpg)
+![](/Asserts/Images/album/202204/22/115519o4l6662l9nv9sco3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/22/115528ugujabegj49fe49l.jpg)
+![](/Asserts/Images/album/202204/22/115528ugujabegj49fe49l.jpg)
 
 
 ### Ubuntu 开发商 Canonical 计划在 2023 年完成 IPO
@@ -27,7 +27,7 @@ tags:	[linuxcn,Canonical,Cookie,UEFI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/22/115545s4q4bzybyqjw027q.jpg)
+![](/Asserts/Images/album/202204/22/115545s4q4bzybyqjw027q.jpg)
 
 
 ### 被罚 1.5 亿欧元后，谷歌宣布启用全新 Cookie 通知
@@ -44,7 +44,7 @@ tags:	[linuxcn,Canonical,Cookie,UEFI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/22/115610h5pibooweee1l0z8.jpg)
+![](/Asserts/Images/album/202204/22/115610h5pibooweee1l0z8.jpg)
 
 
 ### 超过 100 万台联想笔记本电脑的 UEFI 可被植入恶意软件

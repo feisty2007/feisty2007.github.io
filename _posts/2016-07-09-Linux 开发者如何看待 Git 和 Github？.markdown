@@ -7,7 +7,7 @@ tags:	[linuxcn,Git,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/12/131208h5ccluy9o55g5coh.jpg)
+![](/Asserts/Images/album/201607/12/131208h5ccluy9o55g5coh.jpg)
 
 
 Git 和 Github 在 Linux 开发者中有很高的知名度。但是开发者如何看待它们呢？另外，Github 是不是真的和 Git 是一个意思？一个 Linux reddit 用户最近问到了这个问题，并且得到了很有意思的答案。

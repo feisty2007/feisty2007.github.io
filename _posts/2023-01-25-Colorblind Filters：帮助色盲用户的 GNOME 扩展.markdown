@@ -7,7 +7,7 @@ tags:	[linuxcn,色盲,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/21/122942m49s8o25s9ai6szs.jpg)
+![](/Asserts/Images/album/202301/21/122942m49s8o25s9ai6szs.jpg)
 
 
 
@@ -76,13 +76,13 @@ flatpak install com.mattjakeman.ExtensionManager
 从应用菜单中打开扩展管理器。搜索 “colorblind”。并安装该扩展（见下图）。
 
 
-![安装扩展](/Asserts/Images//attachment/album/202301/21/123036v1f3fa5f4k431777.jpg)
+![安装扩展](/Asserts/Images/album/202301/21/123036v1f3fa5f4k431777.jpg)
 
 
 安装后，你可以在系统托盘上看到一个小眼睛图标。你可以点击它来启用预定义的颜色过滤器。
 
 
-![Colorblind Filters 扩展托盘图标](/Asserts/Images//attachment/album/202301/21/123046q6nem88en7mz8v84.jpg)
+![Colorblind Filters 扩展托盘图标](/Asserts/Images/album/202301/21/123046q6nem88en7mz8v84.jpg)
 
 
 右键点击眼睛图标以获得更多设置。这个扩展带来了色盲集合、模拟和额外选项的所有必要定制。目前有以下选项：
@@ -98,7 +98,7 @@ flatpak install com.mattjakeman.ExtensionManager
 	+ 颜色反转
 
 
-![Colorblind Filters - 选项](/Asserts/Images//attachment/album/202301/21/123053xkfrnrlvznrkwbs7.jpg)
+![Colorblind Filters - 选项](/Asserts/Images/album/202301/21/123053xkfrnrlvznrkwbs7.jpg)
 
 
 使用最适合你的眼睛的那个。

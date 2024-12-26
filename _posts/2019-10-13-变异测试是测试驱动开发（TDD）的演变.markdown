@@ -15,7 +15,7 @@ tags:	[linuxcn,TDD,DevOps]
 > 
 
 
-![](/Asserts/Images//attachment/album/201910/17/094428dhrrjgbm2pmhpj4j.jpg)
+![](/Asserts/Images/album/201910/17/094428dhrrjgbm2pmhpj4j.jpg)
 
 
 在 “[故障是无懈可击的开发运维中的一个特点](https://opensource.com/article/19/7/failure-feature-blameless-devops)”，我讨论了故障在通过征求反馈来交付优质产品的过程中所起到的重要作用。敏捷 DevOps 团队就是用故障来指导他们并推动开发进程的。<ruby> <a href="https://en.wikipedia.org/wiki/Test-driven_development">  测试驱动开发 </a> <rt>  Test-driven development </rt></ruby>（TDD）是任何敏捷 DevOps 团队评估产品交付的[必要条件](https://www.merriam-webster.com/dictionary/conditio%20sine%20qua%20non)。以故障为中心的 TDD 方法仅在与可量化的测试配合使用时才有效。
@@ -27,7 +27,7 @@ TDD 方法仿照大自然是如何运作的以及自然界在进化博弈中是�
 ### 自然选择
 
 
-![查尔斯·达尔文](/Asserts/Images//attachment/album/201910/17/094438gjezm25m6f2rgb25.png "Charles Darwin")
+![查尔斯·达尔文](/Asserts/Images/album/201910/17/094438gjezm25m6f2rgb25.png "Charles Darwin")
 
 
 1859 年，<ruby> <a href="https://en.wikipedia.org/wiki/Charles_Darwin">  查尔斯·达尔文 </a> <rt>  Charles Darwin </rt></ruby>在他的《<ruby> <a href="https://en.wikipedia.org/wiki/On_the_Origin_of_Species">  物种起源 </a> <rt>  On the Origin of Species </rt></ruby>》一书中提出了进化论学说。达尔文的论点是，自然变异是由生物个体的自发突变和环境压力共同造成的。环境压力淘汰了适应性较差的生物体，而有利于其他适应性强的生物的发展。每个生物体的染色体都会发生变异，而这些自发的变异会携带给下一代（后代）。然后在自然选择下测试新出现的变异性 —— 当下存在的环境压力是由变异性的环境条件所导致的。
@@ -36,7 +36,7 @@ TDD 方法仿照大自然是如何运作的以及自然界在进化博弈中是�
 这张简图说明了调整适应环境条件的过程。
 
 
-![环境压力对鱼类的影响](/Asserts/Images//attachment/album/201910/17/094440q0ohrzho59x4oh15.png "Environmental pressures on fish")
+![环境压力对鱼类的影响](/Asserts/Images/album/201910/17/094440q0ohrzho59x4oh15.png "Environmental pressures on fish")
 
 
 *图1. 不同的环境压力导致自然选择下的不同结果。图片截图来源于[理查德·道金斯的一个视频](https://www.youtube.com/watch?v=MgK5Rf7qFaU)。*
@@ -204,7 +204,7 @@ dotnet test
 运行单元测试，会输出以下内容：
 
 
-![单元测试失败后xUnit的输出结果](/Asserts/Images//attachment/album/201910/17/094442vf2l2rqbhc6bb280.png "xUnit output after the unit test run fails")
+![单元测试失败后xUnit的输出结果](/Asserts/Images/album/201910/17/094442vf2l2rqbhc6bb280.png "xUnit output after the unit test run fails")
 
 
 *图2. 单元测试失败后 xUnit 的输出结果*
@@ -253,7 +253,7 @@ return bestGuess;
 该循环（迭代）将 `bestGuess` 值集中到设想的解决方案。现在，你精心设计的单元测试通过了！
 
 
-![单元测试通过了](/Asserts/Images//attachment/album/201910/17/094443l0wtz56i5f7t0ipn.png "Unit test successful")
+![单元测试通过了](/Asserts/Images/album/201910/17/094443l0wtz56i5f7t0ipn.png "Unit test successful")
 
 
 *图 3. 单元测试通过了。*
@@ -274,7 +274,7 @@ return bestGuess;
 为了测试这一点，你可以测试几种情况。 首先，在迭代多次尝试计算 25 的平方根时，要逐步细化观察结果：
 
 
-![25 平方根的迭代编码](/Asserts/Images//attachment/album/201910/17/094445go9kriizoivjojza.png "Code iterating for the square root of 25")
+![25 平方根的迭代编码](/Asserts/Images/album/201910/17/094445go9kriizoivjojza.png "Code iterating for the square root of 25")
 
 
 *图 4. 通过迭代来计算 25 的平方根。*
@@ -286,7 +286,7 @@ return bestGuess;
 直接来吧。回到测试中来，这次以一百万开始：
 
 
-![逐步求精法](/Asserts/Images//attachment/album/201910/17/094456jgu1ie11ee1uuw0j.png "Stepwise refinement")
+![逐步求精法](/Asserts/Images/album/201910/17/094456jgu1ie11ee1uuw0j.png "Stepwise refinement")
 
 
 *图 5. 在计算 25 的平方根时，运用逐步求精法，以 100 万作为 bestGuess 的初始值。*

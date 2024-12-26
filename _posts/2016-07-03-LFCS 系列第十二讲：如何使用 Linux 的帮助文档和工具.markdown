@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS]
 由于 2016 年 2 月 2 号开始启用了新的 LFCS 考试要求, 我们在 [LFCS 系列](/article-7161-1.html)系列添加了一些必要的内容。为了考试的需要，我们强烈建议你看一下[LFCE 系列](http://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/)。
 
 
-![](/Asserts/Images//attachment/album/201607/25/095541on1h8wsdutnwn8ru.png)
+![](/Asserts/Images/album/201607/25/095541on1h8wsdutnwn8ru.png)
 
 
 *LFCS: 了解 Linux 的帮助文档和工具*
@@ -55,7 +55,7 @@ man 手册是 manual 手册的缩写，就是其名字所揭示的那样：一�
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/25/095541p277x5ty7ihufb67.png)
+![](/Asserts/Images/album/201607/25/095541p277x5ty7ihufb67.png)
 
 
 *在Linux中比较两个文本文件*
@@ -76,7 +76,7 @@ man 手册是 manual 手册的缩写，就是其名字所揭示的那样：一�
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/25/095542par66q955uu656ui.png)
+![](/Asserts/Images/album/201607/25/095542par66q955uu656ui.png)
 
 
 *比较并列出两个文件的不同*
@@ -121,7 +121,7 @@ man 手册是 manual 手册的缩写，就是其名字所揭示的那样：一�
 请注意`lorem.txt`文件中`Lorem` 都已经替换为 `Tecmint`，并且原文件 `lorem.txt` 被保存为`lorem.txt.orig`。
 
 
-![](/Asserts/Images//attachment/album/201607/25/095542si4s5z2a542g59rr.png)
+![](/Asserts/Images/album/201607/25/095542si4s5z2a542g59rr.png)
 
 
 *替换文件中的文本*
@@ -157,7 +157,7 @@ man 手册是 manual 手册的缩写，就是其名字所揭示的那样：一�
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/25/095543nddiud7rzi2f3ed2.png)
+![](/Asserts/Images/album/201607/25/095543nddiud7rzi2f3ed2.png)
 
 
 *使用 ls 列出目录*
@@ -187,7 +187,7 @@ man 手册是 manual 手册的缩写，就是其名字所揭示的那样：一�
 因为 coreutils 包含了每个系统中都有的基本文件、shell 和文本处理工具，你自然可以从 coreutils 的 info 文档中得到它们的详细介绍。
 
 
-![](/Asserts/Images//attachment/album/201607/25/095543xzr5k57jx7fx7ke9.png)
+![](/Asserts/Images/album/201607/25/095543xzr5k57jx7fx7ke9.png)
 
 
 *Info Coreutils*

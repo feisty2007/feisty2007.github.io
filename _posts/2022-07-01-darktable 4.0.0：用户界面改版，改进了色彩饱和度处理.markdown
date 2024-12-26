@@ -15,7 +15,7 @@ tags:	[linuxcn,darktable]
 > 
 
 
-![darktable](/Asserts/Images//attachment/album/202207/07/144639otro3xcf8qqsq335.jpg)
+![darktable](/Asserts/Images/album/202207/07/144639otro3xcf8qqsq335.jpg)
 
 
 最近，作为其 3.8.x 系列的升级版，darktable 开发人员公布了新的稳定版。
@@ -53,7 +53,7 @@ tags:	[linuxcn,darktable]
 #### 完善的用户界面
 
 
-![darktable](/Asserts/Images//attachment/album/202207/07/144640w7sny19odpiwetzs.jpg)
+![darktable](/Asserts/Images/album/202207/07/144640w7sny19odpiwetzs.jpg)
 
 
 用户界面已经进行了改造以改善外观/感觉。首先能看到的是其默认主题改为了 “优雅灰”。
@@ -77,7 +77,7 @@ tags:	[linuxcn,darktable]
 #### 改进了色彩饱和度处理
 
 
-![darktable](/Asserts/Images//attachment/album/202207/07/144640cf4zmm3dtjtvq3h4.jpg)
+![darktable](/Asserts/Images/album/202207/07/144640cf4zmm3dtjtvq3h4.jpg)
 
 
 Filmic v6（一种新的色彩学）的加入有助于获得更多的饱和度，特别是对于蓝天。

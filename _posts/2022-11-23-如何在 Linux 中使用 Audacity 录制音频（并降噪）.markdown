@@ -7,7 +7,7 @@ tags:	[linuxcn,Audacity,音频]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/24/114858g6vpfg3gfglvxnp4.jpg)
+![](/Asserts/Images/album/202211/24/114858g6vpfg3gfglvxnp4.jpg)
 
 
 [Audacity](https://github.com/audacity/audacity) 是一个自由开源的跨平台 [音频编辑器](https://itsfoss.com/best-audio-editors-linux/)。专业人士使用它是因为它提供的功能仅需安装很小的软件包。
@@ -67,13 +67,13 @@ sudo pacman -Syu audacity
 安装 Audacity 后，从应用程序菜单打开它或从终端启动它。你会看到这样的界面：
 
 
-![Audacity Interface](/Asserts/Images//attachment/album/202211/24/114957bc79kqqqwwaazmew.png)
+![Audacity Interface](/Asserts/Images/album/202211/24/114957bc79kqqqwwaazmew.png)
 
 
 单击“录制”按钮（红点）即可轻松开始录制。完成后，单击“ 停止”按钮（方形图标）来结束录制。你还可以预览录制的波形，如下所示：
 
 
-![record audio with audacity](/Asserts/Images//attachment/album/202211/24/114957xe8fexufrl8hh56o.png)
+![record audio with audacity](/Asserts/Images/album/202211/24/114957xe8fexufrl8hh56o.png)
 
 
 然后，你可以通过单击“播放”按钮（绿色图标）检查录制的内容。
@@ -97,7 +97,7 @@ Audacity 还有另一个很棒的功能，你可以使用它来减少录制音�
 在录制音频的波形上，选择你认为是背景噪声的部分。
 
 
-![Background noise](/Asserts/Images//attachment/album/202211/24/114958t5q2h191s9eq2oqd.png)
+![Background noise](/Asserts/Images/album/202211/24/114958t5q2h191s9eq2oqd.png)
 
 
 选择噪声部分后，从顶部文件菜单中转到 “<ruby> 效果 <rt>  Effects </rt></ruby> → <ruby> 降低噪音 <rt>  Noise Reduction </rt></ruby>”。
@@ -106,7 +106,7 @@ Audacity 还有另一个很棒的功能，你可以使用它来减少录制音�
 它会像这样打开一个弹出窗口。单击此处的 “<ruby> 获取噪音配置文件 <rt>  Get Noise Profile </rt></ruby>”。
 
 
-![Noise Reduction Effect Popup Window](/Asserts/Images//attachment/album/202211/24/114958hcqhoohbjno0hpbn.png)
+![Noise Reduction Effect Popup Window](/Asserts/Images/album/202211/24/114958hcqhoohbjno0hpbn.png)
 
 
 现在，你已经设置了噪声配置文件。现在，你必须使用它来减少录音中的噪声。
@@ -124,7 +124,7 @@ Audacity 还有另一个很棒的功能，你可以使用它来减少录制音�
 只需按下 “OK” 按钮，即可将降噪效果应用到录音中，并反映在波形上，如下所示：
 
 
-![Audio Waveform after Noise Reduction](/Asserts/Images//attachment/album/202211/24/114958aplrrwciqi76j8i8.png)
+![Audio Waveform after Noise Reduction](/Asserts/Images/album/202211/24/114958aplrrwciqi76j8i8.png)
 
 
 现在，相较而言，录制的音频将具有更少的噪声。你可以在选择 “<ruby> 降低噪音 <rt>  Noise Reduction </rt></ruby>” 效果时微调噪声过滤。

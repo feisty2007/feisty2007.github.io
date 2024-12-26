@@ -15,7 +15,7 @@ tags:	[linuxcn,Oracle Linux,RHEL]
 > 
 
 
-![This is the last release for this branch](/Asserts/Images//attachment/album/201410/02/212706ike3ezpk9szkpbb8.jpg)
+![This is the last release for this branch](/Asserts/Images/album/201410/02/212706ike3ezpk9szkpbb8.jpg)
 
 
 这是这个分支的最后一个版本更新（随同 RHEL 5.11的落幕，CentOS 和 Oracle Linux 的5.x 系列也纷纷释出该系列的最后版本）。

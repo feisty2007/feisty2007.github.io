@@ -7,7 +7,7 @@ tags:	[linuxcn,Manjaro,ARM]
 ---
 
 
-![](/Asserts/Images//attachment/album/201603/20/203742wqdc3afe9dlh30lg.jpg)
+![](/Asserts/Images/album/201603/20/203742wqdc3afe9dlh30lg.jpg)
 
 
 最近，Manjaro 的开发者为 ARM 处理器发布了一个 [alpha 版本](https://manjaro.github.io/Manjaro-ARM-launched/)。这是这个基于 Archlinux 的发行版的一大进步，在此之前，它只能在 32 位或者 64 位的个人电脑上运行。

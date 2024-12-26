@@ -7,7 +7,7 @@ tags:	[linuxcn,gThumb,digiKam,Shotwell,KPhotoAlbum,Darktable]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/14/193012l7jxro7q9x7axrz6.jpg)
+![](/Asserts/Images/album/201606/14/193012l7jxro7q9x7axrz6.jpg)
 
 
 通常谈及 Linux 上的应用程序时，我们有很多选择，但有时候选择的余地却很小。
@@ -25,7 +25,7 @@ tags:	[linuxcn,gThumb,digiKam,Shotwell,KPhotoAlbum,Darktable]
 ### [gThumb](https://wiki.gnome.org/Apps/gthumb)
 
 
-![](/Asserts/Images//attachment/album/201606/14/193025kava77pvribaz95s.jpg)
+![](/Asserts/Images/album/201606/14/193025kava77pvribaz95s.jpg)
 
 
 *gThumb 图像编辑器*
@@ -55,7 +55,7 @@ sudo apt-get install gthumb
 ### [digiKam](https://www.digikam.org/)
 
 
-![](/Asserts/Images//attachment/album/201606/14/193036uelealhaguyg2leu.png)
+![](/Asserts/Images/album/201606/14/193036uelealhaguyg2leu.png)
 
 
 *digiKam*
@@ -85,7 +85,7 @@ sudo apt-get install digikam
 ### [Shotwell](https://wiki.gnome.org/Apps/Shotwell)
 
 
-![](/Asserts/Images//attachment/album/201606/14/193103k1t8utgjj5fk1zah.png)
+![](/Asserts/Images/album/201606/14/193103k1t8utgjj5fk1zah.png)
 
 
 *Shotwell*
@@ -115,7 +115,7 @@ sudo apt-get install shotwell
 ### [KPhotoAlbum](https://www.kphotoalbum.org/)
 
 
-![](/Asserts/Images//attachment/album/201606/14/193117uyxk96xkrqbsqq4k.png)
+![](/Asserts/Images/album/201606/14/193117uyxk96xkrqbsqq4k.png)
 
 
 *KPhotoAlbum*
@@ -147,7 +147,7 @@ sudo apt-get install kphotoalbum
 ### [Darktable](http://www.darktable.org/)
 
 
-![](/Asserts/Images//attachment/album/201606/14/193129wxtqcw9qcoctq9w9.png)
+![](/Asserts/Images/album/201606/14/193129wxtqcw9qcoctq9w9.png)
 
 
 *Darktable*

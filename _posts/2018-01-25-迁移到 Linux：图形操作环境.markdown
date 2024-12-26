@@ -7,7 +7,7 @@ tags:	[linuxcn,迁移]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/29/233159rij9anj6hhiih0ri.jpg)
+![](/Asserts/Images/album/201801/29/233159rij9anj6hhiih0ri.jpg)
 
 
 
@@ -39,7 +39,7 @@ tags:	[linuxcn,迁移]
 Elementary OS 发行版提供了和 Mac 系统风格很接近的界面。它的默认图形环境被称作 Pantheon，是一款很适合 Mac 用户过渡使用的图形环境。这款图形界面发行版的屏幕底部有一个停靠栏，专为极简者使用而设计。为了保持简约的风格，很多默认的应用程序甚至都不会有自己的菜单。相反，它们的按钮和控件在应用程序的标题栏上（图 1）。
 
 
-![Elementary OS](/Asserts/Images//attachment/album/201801/29/233200wv5joc7g4tvtpb4v.png "Elementary OS")
+![Elementary OS](/Asserts/Images/album/201801/29/233200wv5joc7g4tvtpb4v.png "Elementary OS")
 
 
 *图 1： Elementary OS Pantheon.*
@@ -54,7 +54,7 @@ Ubuntu 发行版提供的一个默认的图形界面，也和 Mac 相似。Ubunt
 ChaletOS 亦步亦趋模仿 Windows 界面，可以帮助 Windows 用户轻松的过渡到 Linux。ChaletOS 使用的图形环境是 Xfce（图 2）。在屏幕的左下角有一个开始（主）菜单和搜索栏。屏幕的右下角是一个桌面图标和一些通知信息。这看起来和 Windows 非常像，乍一看，可能都会以为桌面跑的是 Windows。
 
 
-![ChaletOS](/Asserts/Images//attachment/album/201801/29/233202k11pjqyygx6dmhgs.png)
+![ChaletOS](/Asserts/Images/album/201801/29/233202k11pjqyygx6dmhgs.png)
 
 
 *图 2： ChaletOS with Xfce.*
@@ -69,7 +69,7 @@ Zorin OS 发行版同样尝试模仿 Windows。 Zorin OS 使用的 Gnome 的改�
 Gnome 桌面（图 3）是最常用的图形环境之一。许多发行版将 Gnome 作为默认的图形环境。Gnome 并不打算模仿 Windows 或是 MacOS，而是以其自身的优雅和易用为目标。
 
 
-![](/Asserts/Images//attachment/album/201801/29/233205g5k8rpxaha138ttx.png)
+![](/Asserts/Images/album/201801/29/233205g5k8rpxaha138ttx.png)
 
 
 *图 3：openSUSE with Gnome.*
@@ -84,7 +84,7 @@ MATE 图形环境直接模仿于 Gnome 2，在它的屏幕顶部有一个用作�
 KDE plasma 围绕组件界面而构建，组件可以安装在桌面或是面板上（图 4）。
 
 
-![KDE Plasma](/Asserts/Images//attachment/album/201801/29/233208p59qikss9s22ei65.png "KDE Plasma")
+![KDE Plasma](/Asserts/Images/album/201801/29/233208p59qikss9s22ei65.png "KDE Plasma")
 
 
 *图 4: 安装了 KDE Plasma 的 Kubuntu 操作系统。*
@@ -147,7 +147,7 @@ Linux 的鼠标通常和 Windows 与 MacOS 的工作方式有所差异。在 Win
 为帮你起步，这里列举了一点可能成为 Linux 系统使用的替代程序。
 
 
-![](/Asserts/Images//attachment/album/201801/29/233211licpwzsy5pcqtwxw.png)
+![](/Asserts/Images/album/201801/29/233211licpwzsy5pcqtwxw.png)
 
 
 请注意，Linux 提供了大量的满足你需求的选择，这张表里列举的一点也不完整。

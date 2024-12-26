@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/08/160126z6pyyg7t7iiagzzz.png)
+![](/Asserts/Images/album/202311/08/160126z6pyyg7t7iiagzzz.png)
 
 
 
@@ -30,7 +30,7 @@ Fedora 是众多 Ubuntu 替代品中的热门选择，或者还可以说，用�
 ### ? Fedora 39 版本更新：都有哪些新内容？
 
 
-![](/Asserts/Images//attachment/album/202311/08/160148sup4uu0n8zullepb.png)
+![](/Asserts/Images/album/202311/08/160148sup4uu0n8zullepb.png)
 
 
 得益于稳健强大的 [Linux 内核 6.5](https://news.itsfoss.com/linux-kernel-6-5-release/)，Fedora 39 的发布包含了众多值得关注的新功能。其中一些关键的亮点包括：
@@ -45,7 +45,7 @@ Fedora 是众多 Ubuntu 替代品中的热门选择，或者还可以说，用�
 #### 安装程序的升级
 
 
-![](/Asserts/Images//attachment/album/202311/08/160149ucrsi6h36urcsrzc.png)
+![](/Asserts/Images/album/202311/08/160149ucrsi6h36urcsrzc.png)
 
 
 尽管安装程序并未更换，我们在全新安装 Fedora 时，会看到 **一个新的欢迎屏幕**。在更新后的 Fedora 38 ISO 中，你可能已经注意到了这一点。
@@ -63,7 +63,7 @@ Fedora 是众多 Ubuntu 替代品中的热门选择，或者还可以说，用�
 #### GNOME 45
 
 
-![](/Asserts/Images//attachment/album/202311/08/160149v07z80oj37oqe0ja.png)
+![](/Asserts/Images/album/202311/08/160149v07z80oj37oqe0ja.png)
 
 
 Fedora 39 引入了最近发布的 [GNOME 45](https://news.itsfoss.com/gnome-45-release/)。对于此次更新，我是期待已久。
@@ -92,7 +92,7 @@ Fedora 39 引入了最近发布的 [GNOME 45](https://news.itsfoss.com/gnome-45-
 #### 应用/包的更新情况
 
 
-![](/Asserts/Images//attachment/album/202311/08/160150sql4z2uoul4l3uf2.png)
+![](/Asserts/Images/album/202311/08/160150sql4z2uoul4l3uf2.png)
 
 
 Fedora 39 同样更新了一套应用程序和软件包。主要的更新包括：
@@ -110,7 +110,7 @@ Fedora 39 同样更新了一套应用程序和软件包。主要的更新包括�
 #### Fedora Onyx 的介绍
 
 
-![](/Asserts/Images//attachment/album/202311/08/160150gqnbd0qsz5fgl6u5.png)
+![](/Asserts/Images/album/202311/08/160150gqnbd0qsz5fgl6u5.png)
 
 
 今年早些时候，Fedora 的不可变版本阵容迎来了一个新成员，叫做 “[Fedora Onyx](https://news.itsfoss.com/fedora-onyx-official/)”。

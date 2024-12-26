@@ -7,7 +7,7 @@ tags:	[linuxcn,awk,sed]
 ---
 
 
-![](/Asserts/Images//attachment/album/201601/13/140855yv1qv3qvwc9qvcce.jpg)
+![](/Asserts/Images/album/201601/13/140855yv1qv3qvwc9qvcce.jpg)
 
 
 *图片来源: Shutterstock*
@@ -69,7 +69,7 @@ awk '{ if (!seen[$0]) print $0; seen[$0]++ }’
 awk 是完成这项工作的完美工具。不过，我相信很多管理员--特别是新管理员会转而使用 [Bash](http://www.infoworld.com/article/2613338/linux/linux-how-to-script-a-bash-crash-course.html) 或 Python 来完成这一任务，因为对 awk 的知识和对它的能力的了解看起来随着时间而慢慢被人淡忘。我认为这是标志着一个问题，由于对之前的解决方案缺乏了解，那些已经解决了几十年的问题又突然出现了。
 
 
-shell、grep、sed 和 awk 是 Unix 的基础。如果你不能非常轻松的使用它们，你将会被自己束缚住，因为它们构成了通过命令行和脚本与 Unix 系统交互的基础。学习这些工具如何工作最好的方法之一就是观察真实的例子和实验，你可以在各种 Unix 衍生系统的初始化系统中找到很多，但在 Linux 发行版中它们已经被 [systemd](http://www.infoworld.com/article/2608798/Asserts/Images/-center/systemd--harbinger-of-the-linux-apocalypse.html) 取代了。
+shell、grep、sed 和 awk 是 Unix 的基础。如果你不能非常轻松的使用它们，你将会被自己束缚住，因为它们构成了通过命令行和脚本与 Unix 系统交互的基础。学习这些工具如何工作最好的方法之一就是观察真实的例子和实验，你可以在各种 Unix 衍生系统的初始化系统中找到很多，但在 Linux 发行版中它们已经被 [systemd](http://www.infoworld.com/article/2608798/data-center/systemd--harbinger-of-the-linux-apocalypse.html) 取代了。
 
 
 数以百万计的 Unix 管理员了解 Shell 脚本和 Unix 工具如何读、写、修改和用在初始化脚本上。不同系统的初始化脚本有很大不同，甚至是不同的 Linux 发行版也不同。但是它们都源自 sh，而且它们都用像 sed、awk 还有 grep 这样的核心的命令行工具。

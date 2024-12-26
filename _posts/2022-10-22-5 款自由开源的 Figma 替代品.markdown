@@ -7,7 +7,7 @@ tags:	[linuxcn,Figma]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/02/222037sejf1j6z6jupcz6g.jpg)
+![](/Asserts/Images/album/202210/02/222037sejf1j6z6jupcz6g.jpg)
 
 
 Figma 是一个流行的界面设计工具。你可以免费开始使用，也可以选择高级订阅计划以供进阶使用。
@@ -50,7 +50,7 @@ Penpot 很快被公认为可靠的免费和开源 Figma 替代品。
 Penpot 的独特之处在于它使用 SVG 作为其原生格式，这很罕见，但也为设计师提供了巨大的好处。
 
 
-![penpot screenshot](/Asserts/Images//attachment/album/202210/02/222040v4f8o8mdoz2fbkfo.jpg)
+![penpot screenshot](/Asserts/Images/album/202210/02/222040v4f8o8mdoz2fbkfo.jpg)
 
 
 你可以期待具有 Figma 的基本功能，因为开发人员提到该工具的原始灵感是 Figma，他们旨在提供熟悉的用户体验，而不给你的设计冒险增加障碍。
@@ -138,7 +138,7 @@ Plasmic 是用于构建网页的卓越设计工具。如果你使用 Figma 进�
 ### 4、Wireflow
 
 
-![wireflow userflow](/Asserts/Images//attachment/album/202210/02/222040k3nmisum6im5zdmm.jpg)
+![wireflow userflow](/Asserts/Images/album/202210/02/222040k3nmisum6im5zdmm.jpg)
 
 
 **主要亮点：**
@@ -169,7 +169,7 @@ Wireflow 作为用户流原型工具是一个有趣的产品，它完全免费�
 ### 5、Akira UX
 
 
-![akira ux 2020](/Asserts/Images//attachment/album/202210/02/222041z936rr30684njorw.png)
+![akira ux 2020](/Asserts/Images/album/202210/02/222041z936rr30684njorw.png)
 
 
 **主要亮点：**

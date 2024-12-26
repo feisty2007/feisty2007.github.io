@@ -27,7 +27,7 @@ fatal error: x264.h: No such file or directory
 [x264](http://www.videolan.org/developers/x264.html)是GNU GPL授权的H.264/MPEG-4 AVC编码库。x264库被广泛用于视频编码/转码程序比如Avidemux、[FFmpeg](http://ask.xmodulo.com/compile-ffmpeg-centos-fedora-rhel.html)、 [HandBrake](http://xmodulo.com/how-to-install-handbrake-on-linux.html)、 OpenShot、 MEncode等等。
 
 
-![](/Asserts/Images//attachment/album/201504/04/232431xbd6x22h6dklqkth.jpg)
+![](/Asserts/Images/album/201504/04/232431xbd6x22h6dklqkth.jpg)
 
 
 要解决这个问题，你需要安装x264的开发库文件。你可以如下做。
@@ -158,7 +158,7 @@ $ sudo ldconfig
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/04/232438ebo7g71jbeitkmt0.jpg)
+![](/Asserts/Images/album/201504/04/232438ebo7g71jbeitkmt0.jpg)
 
 
 

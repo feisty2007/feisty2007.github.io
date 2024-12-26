@@ -10,7 +10,7 @@ tags:	[linuxcn,snort,IDS,入侵检测]
 对于网络安全而言入侵检测是一件非常重要的事。入侵检测系统（IDS）用于检测网络中非法与恶意的请求。Snort是一款知名的开源的入侵检测系统。其 Web界面（Snorby）可以用于更好地分析警告。Snort使用iptables/pf防火墙来作为入侵检测系统。本篇中，我们会安装并配置一个开源的入侵检测系统snort。
 
 
-![](/Asserts/Images//attachment/album/201509/02/151041uh7tc80xcqszccqe.jpg)
+![](/Asserts/Images/album/201509/02/151041uh7tc80xcqszccqe.jpg)
 
 
 ### Snort 安装
@@ -22,7 +22,7 @@ tags:	[linuxcn,snort,IDS,入侵检测]
 snort所使用的数据采集库（DAQ）用于一个调用包捕获库的抽象层。这个在snort上就有。下载过程如下截图所示。
 
 
-![downloading_daq](/Asserts/Images//attachment/album/201509/02/151043oghfgthfzihuzkhz.png)
+![downloading_daq](/Asserts/Images/album/201509/02/151043oghfgthfzihuzkhz.png)
 
 
 解压并运行./configure、make、make install来安装DAQ。然而，DAQ要求其他的工具，因此，./configure脚本会生成下面的错误。
@@ -31,46 +31,46 @@ snort所使用的数据采集库（DAQ）用于一个调用包捕获库的抽象
 flex和bison错误
 
 
-![flexandbison_error](/Asserts/Images//attachment/album/201509/02/151044x378scchjc8hon00.png)
+![flexandbison_error](/Asserts/Images/album/201509/02/151044x378scchjc8hon00.png)
 
 
 libpcap错误
 
 
-![libpcap error](/Asserts/Images//attachment/album/201509/02/151044uvt4v4mmq4qwyjxz.png)
+![libpcap error](/Asserts/Images/album/201509/02/151044uvt4v4mmq4qwyjxz.png)
 
 
 因此在安装DAQ之前先安装flex/bison和libcap。
 
 
-![install_flex](/Asserts/Images//attachment/album/201509/02/151045woeaaebqdeoroeaw.png)
+![install_flex](/Asserts/Images/album/201509/02/151045woeaaebqdeoroeaw.png)
 
 
 如下所示安装libpcap开发库
 
 
-![libpcap-dev installation](/Asserts/Images//attachment/album/201509/02/151046u4rrvgjhhgr5rjr8.png)
+![libpcap-dev installation](/Asserts/Images/album/201509/02/151046u4rrvgjhhgr5rjr8.png)
 
 
 安装完必要的工具后，再次运行./configure脚本，将会显示下面的输出。
 
 
-![without_error_configure](/Asserts/Images//attachment/album/201509/02/151046kfy57iz59ziwwokz.png)
+![without_error_configure](/Asserts/Images/album/201509/02/151046kfy57iz59ziwwokz.png)
 
 
 make和make install 命令的结果如下所示。
 
 
-![make install](/Asserts/Images//attachment/album/201509/02/151047oc3jjsvmjxbia3ws.png)
+![make install](/Asserts/Images/album/201509/02/151047oc3jjsvmjxbia3ws.png)
 
 
-![make](/Asserts/Images//attachment/album/201509/02/151047laa8ayvh3vawqiqo.png)
+![make](/Asserts/Images/album/201509/02/151047laa8ayvh3vawqiqo.png)
 
 
 成功安装DAQ之后，我们现在安装snort。如下图使用wget下载它。
 
 
-![downloading_snort](/Asserts/Images//attachment/album/201509/02/151048d01qeqxilz8xw8qq.png)
+![downloading_snort](/Asserts/Images/album/201509/02/151048d01qeqxilz8xw8qq.png)
 
 
 使用下面的命令解压安装包。
@@ -82,7 +82,7 @@ make和make install 命令的结果如下所示。
 
 ```
 
-![snort_extraction](/Asserts/Images//attachment/album/201509/02/151049zag9kuyaeofvboia.png)
+![snort_extraction](/Asserts/Images/album/201509/02/151049zag9kuyaeofvboia.png)
 
 
 创建安装目录并在脚本中设置prefix参数。同样也建议启用包性能监控（PPM）的sourcefire标志。
@@ -96,7 +96,7 @@ make和make install 命令的结果如下所示。
 
 ```
 
-![snort_installation](/Asserts/Images//attachment/album/201509/02/151050x7juhpv7zqqrrjhh.png)
+![snort_installation](/Asserts/Images/album/201509/02/151050x7juhpv7zqqrrjhh.png)
 
 
 配置脚本会由于缺少libpcre-dev、libdumbnet-dev 和zlib开发库而报错。
@@ -105,19 +105,19 @@ make和make install 命令的结果如下所示。
 配置脚本由于缺少libpcre库报错。
 
 
-![pcre-error](/Asserts/Images//attachment/album/201509/02/151051zjb7sjqz3bjzmo27.png)
+![pcre-error](/Asserts/Images/album/201509/02/151051zjb7sjqz3bjzmo27.png)
 
 
 配置脚本由于缺少dnet（libdumbnet）库而报错。
 
 
-![libdnt error](/Asserts/Images//attachment/album/201509/02/151051bkvkqdvkvkahkip0.png)
+![libdnt error](/Asserts/Images/album/201509/02/151051bkvkqdvkvkahkip0.png)
 
 
 配置脚本由于缺少zlib库而报错
 
 
-![zlib error](/Asserts/Images//attachment/album/201509/02/151052g3tztyn495sh6n4i.png)
+![zlib error](/Asserts/Images/album/201509/02/151052g3tztyn495sh6n4i.png)
 
 
 如下所示，安装所有需要的开发库。
@@ -129,7 +129,7 @@ make和make install 命令的结果如下所示。
 
 ```
 
-![libpcre3-dev install](/Asserts/Images//attachment/album/201509/02/151052wmiu8i50dqtp7ezb.png)
+![libpcre3-dev install](/Asserts/Images/album/201509/02/151052wmiu8i50dqtp7ezb.png)
 
 
 
@@ -138,7 +138,7 @@ make和make install 命令的结果如下所示。
 
 ```
 
-![libdumnet-dev installation](/Asserts/Images//attachment/album/201509/02/151052l3zv9ojoo7zo31it.png)
+![libdumnet-dev installation](/Asserts/Images/album/201509/02/151052l3zv9ojoo7zo31it.png)
 
 
 
@@ -147,7 +147,7 @@ make和make install 命令的结果如下所示。
 
 ```
 
-![zlibg-dev installation](/Asserts/Images//attachment/album/201509/02/151053hs1dgnnnk3fzbw3b.png)
+![zlibg-dev installation](/Asserts/Images/album/201509/02/151053hs1dgnnnk3fzbw3b.png)
 
 
 安装完snort需要的库之后，再次运行配置脚本就不会报错了。
@@ -162,7 +162,7 @@ make和make install 命令的结果如下所示。
 
 ```
 
-![make snort](/Asserts/Images//attachment/album/201509/02/151054r3henrs708frnv6s.png)
+![make snort](/Asserts/Images/album/201509/02/151054r3henrs708frnv6s.png)
 
 
 
@@ -171,19 +171,19 @@ make和make install 命令的结果如下所示。
 
 ```
 
-![make install snort](/Asserts/Images//attachment/album/201509/02/151054oxbrar9w78watt7x.png)
+![make install snort](/Asserts/Images/album/201509/02/151054oxbrar9w78watt7x.png)
 
 
 最后，从/usr/local/snort/bin中运行snort。现在它对eth0的所有流量都处在promisc模式（包转储模式）。
 
 
-![snort running](/Asserts/Images//attachment/album/201509/02/151055lnd7r6kdwk86wmy8.png)
+![snort running](/Asserts/Images/album/201509/02/151055lnd7r6kdwk86wmy8.png)
 
 
 如下图所示snort转储流量。
 
 
-![traffic](/Asserts/Images//attachment/album/201509/02/151056mrl8olsjhnjtxgnh.png)
+![traffic](/Asserts/Images/album/201509/02/151056mrl8olsjhnjtxgnh.png)
 
 
 #### Snort的规则和配置
@@ -234,13 +234,13 @@ echo "---DONE---"
 改变脚本中的snort源目录路径并运行。下面是成功的输出。
 
 
-![running script](/Asserts/Images//attachment/album/201509/02/151057vhvjntoiqko9osv4.png)
+![running script](/Asserts/Images/album/201509/02/151057vhvjntoiqko9osv4.png)
 
 
 上面的脚本从snort源中复制下面的文件和文件夹到/etc/snort配置文件中
 
 
-![files copied](/Asserts/Images//attachment/album/201509/02/151057ssbf8btsttutskdx.png)
+![files copied](/Asserts/Images/album/201509/02/151057ssbf8btsttutskdx.png)
 
 
 snort的配置非常复杂，要让IDS能正常工作需要进行下面必要的修改。
@@ -263,7 +263,7 @@ ipvar EXTERNAL_NET !$HOME_NET   # WAN side
 
 ```
 
-![veriable set](/Asserts/Images//attachment/album/201509/02/151057x3853ll43z8l2532.png)
+![veriable set](/Asserts/Images/album/201509/02/151057x3853ll43z8l2532.png)
 
 
 
@@ -276,7 +276,7 @@ var BLACK_LIST_PATH /etc/snort/rules        #  Must scan
 
 ```
 
-![main path](/Asserts/Images//attachment/album/201509/02/151058a3jlqdk4vk3elhi6.png)
+![main path](/Asserts/Images/album/201509/02/151058a3jlqdk4vk3elhi6.png)
 
 
 
@@ -288,16 +288,16 @@ include $RULE_PATH/local.rules   # file for custom rules
 移除ftp.rules、exploit.rules前面的注释符号(#)。
 
 
-![path rules](/Asserts/Images//attachment/album/201509/02/151059fepyx4z1e74jh81e.png)
+![path rules](/Asserts/Images/album/201509/02/151059fepyx4z1e74jh81e.png)
 
 
 现在[下载社区规则](https://www.snort.org/downloads/community/community-rules.tar.gz)并解压到/etc/snort/rules。启用snort.conf中的社区及紧急威胁规则。
 
 
-![wget_rules](/Asserts/Images//attachment/album/201509/02/151059jlddq9adz2bz9u28.png)
+![wget_rules](/Asserts/Images/album/201509/02/151059jlddq9adz2bz9u28.png)
 
 
-![community rules](/Asserts/Images//attachment/album/201509/02/151059xx0k8nbyqb1feyjz.png)
+![community rules](/Asserts/Images/album/201509/02/151059xx0k8nbyqb1feyjz.png)
 
 
 进行了上面的更改后，运行下面的命令来检验配置文件。
@@ -309,7 +309,7 @@ include $RULE_PATH/local.rules   # file for custom rules
 
 ```
 
-![snort running](/Asserts/Images//attachment/album/201509/02/151100qrddrt6gg6kxxml4.png)
+![snort running](/Asserts/Images/album/201509/02/151100qrddrt6gg6kxxml4.png)
 
 
 ### 总结

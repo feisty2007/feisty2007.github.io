@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/03/224510gfpbdwbdvbmverbg.jpg)
+![](/Asserts/Images/album/202401/03/224510gfpbdwbdvbmverbg.jpg)
 
 
 
@@ -72,7 +72,7 @@ docker -v
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/03/224537c58e85lc5aear1ki.png)
+![](/Asserts/Images/album/202401/03/224537c58e85lc5aear1ki.png)
 
 
 如你所见，它给了我 Docker 24.0.5。
@@ -197,7 +197,7 @@ docker -v
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/03/224537zmozl44mjhtjr069.png)
+![](/Asserts/Images/album/202401/03/224537zmozl44mjhtjr069.png)
 
 
 测试安装的另一个方法是在 Docker 中使用 “Hello World” 镜像。
@@ -224,13 +224,13 @@ sudo docker run hello-world
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/03/224538r2tddfunnaaau6zn.png)
+![](/Asserts/Images/album/202401/03/224538r2tddfunnaaau6zn.png)
 
 
 某些用户在执行上述命令时可能会收到错误消息“无法连接到 Docker 守护进程”：
 
 
-![](/Asserts/Images//attachment/album/202401/03/224538tnwvx234nv2vo554.png)
+![](/Asserts/Images/album/202401/03/224538tnwvx234nv2vo554.png)
 
 
 在这种情况下，**重新启动系统**并再次尝试安装 Docker Hello World 镜像，它将正常工作。
@@ -245,7 +245,7 @@ sudo docker run hello-world
 如果你尝试在不使用 sudo 的情况下使用 Docker，则会出现错误：
 
 
-![](/Asserts/Images//attachment/album/202401/03/224538pex5b58wggegsc5b.png)
+![](/Asserts/Images/album/202401/03/224538pex5b58wggegsc5b.png)
 
 
 好吧，在本节中，我将向你展示如何在没有 sudo 的情况下使用 Docker。
@@ -291,7 +291,7 @@ sudo usermod -aG docker <用户名>
 就是这样！从现在开始，你可以使用 `docker` 命令而不需要 sudo，就像我运行 Docker Hello World 镜像一样：
 
 
-![](/Asserts/Images//attachment/album/202401/03/224538ppv7jqvlz5v75qrf.png)
+![](/Asserts/Images/album/202401/03/224538ppv7jqvlz5v75qrf.png)
 
 
 就这样吧。

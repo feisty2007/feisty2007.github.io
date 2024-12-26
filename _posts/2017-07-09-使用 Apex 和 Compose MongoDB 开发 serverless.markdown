@@ -7,7 +7,7 @@ tags:	[linuxcn,Go,Lambda,FaaS,MongoDB]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/18/194802yb63zpb2s2pa0g3s.jpg)
+![](/Asserts/Images/album/201707/18/194802yb63zpb2s2pa0g3s.jpg)
 
 
 Apex 是一个将开发和部署 AWS Lambda 函数的过程打包了的工具。它提供了一个本地命令行工具来创建安全上下文、部署函数，甚至追踪云端日志。由于 AWS Lambda 服务将函数看成独立的单元，Apex 提供了一个框架层将一系列函数作为一个项目。另外，它将服务拓展到不仅仅是 Java，Javascript 和 Ptyhon 语言，甚至包括 Go 语言。
@@ -49,13 +49,13 @@ apex init
 
 ```
 
-![apexInit](/Asserts/Images//attachment/album/201707/18/194809kkc66c69c6fo39lc.png)
+![apexInit](/Asserts/Images/album/201707/18/194809kkc66c69c6fo39lc.png)
 
 
 这步会配置好一些必须的安全策略，并且将项目名字附在函数名后，因为 Lambda 使用扁平化的命名空间。同时它也会创建一些配置文件和默认的 “Hello World" 风格的 Javascript 函数的 functions 目录。
 
 
-![tree](/Asserts/Images//attachment/album/201707/18/194810pnuwlpcjq6wp16jl.png)
+![tree](/Asserts/Images/album/201707/18/194810pnuwlpcjq6wp16jl.png)
 
 
 Apex/Lambda 一个非常友好的特性是创建函数非常直观。创建一个以你函数名为名的新目录，然后在其中创建项目。如果想要使用 Go 语言，你可以创建一个叫 `simpleGo` 的目录然后在其中创建一个小型的 `main` 函数：
@@ -92,13 +92,13 @@ func main() {
 Node 是 Lambda 所支持的运行环境，Apex 使用 NodeJS shim 来调用由上述程序产生的二进制文件。它将 `event` 传入二进制文件的 STDIN，将从二进制返回的 STDOUT 作为 `value`。通过 STDERR 来显示日志。`apex.HandleFunc` 用来为你管理所有的管道。事实上在 Unix 惯例里这是一个非常简单的解决方案。你甚至可以通过在本地命令行执行 `go run main.go` 来测试它。
 
 
-![goRun](/Asserts/Images//attachment/album/201707/18/194811rhtftfac9ae2navh.png)
+![goRun](/Asserts/Images/album/201707/18/194811rhtftfac9ae2navh.png)
 
 
 通过 Apex 向云端部署稍显琐碎：
 
 
-![apexDeploy](/Asserts/Images//attachment/album/201707/18/194812ssusx7bwun2lrr5m.png)
+![apexDeploy](/Asserts/Images/album/201707/18/194812ssusx7bwun2lrr5m.png)
 
 
 注意，这将会对你的函数指定命名空间，控制版本，甚至为其他多开发环境如 `staging` 和 `production`配置`env`。
@@ -107,13 +107,13 @@ Node 是 Lambda 所支持的运行环境，Apex 使用 NodeJS shim 来调用由�
 通过 `apex invoke` 在云端执行也比较琐碎：
 
 
-![apexInvoke](/Asserts/Images//attachment/album/201707/18/194812vebo8ojm6zz8o82j.png)
+![apexInvoke](/Asserts/Images/album/201707/18/194812vebo8ojm6zz8o82j.png)
 
 
 当然我们也可以追踪一些日志：
 
 
-![apexLog](/Asserts/Images//attachment/album/201707/18/194813vsoyowvhs79i9twf.png)
+![apexLog](/Asserts/Images/album/201707/18/194813vsoyowvhs79i9twf.png)
 
 
 这些是从 AWS CloudWatch 返回的结果。它们都在 AWS 的 UI 中可见，但是当在另一个终端参照此结果来署它会更快。
@@ -125,13 +125,13 @@ Node 是 Lambda 所支持的运行环境，Apex 使用 NodeJS shim 来调用由�
 来看看它内部到底部署了什么很具有指导性。Apex 将 shim 和所有需要用来运行函数的东西打包起来。另外，它会提前做好配置如入口与安全条例：
 
 
-![lambdaConfig](/Asserts/Images//attachment/album/201707/18/194814buvuaurrjt676czu.png)
+![lambdaConfig](/Asserts/Images/album/201707/18/194814buvuaurrjt676czu.png)
 
 
 Lambda 服务实际上接受一个包含所有依赖的 zip 压缩包，它会被部署到服务器来执行指定的函数。我们可以使用 `apex build <functionName>` 在本地创建一个压缩包用来在以后解压以探索。
 
 
-![apexBuild](/Asserts/Images//attachment/album/201707/18/194816bxenb7t942lixhww.png)
+![apexBuild](/Asserts/Images/album/201707/18/194816bxenb7t942lixhww.png)
 
 
 这里的 `_apex_index.js handle` 函数是原始的入口。它会配置好一些环境变量然后进入 `index.js`。
@@ -207,13 +207,13 @@ func main() {
 发布部署，我们可以通过使用正确类型的事件来模拟调用了一个 API：
 
 
-![apexMgo](/Asserts/Images//attachment/album/201707/18/194817fbyw9eobu0ergbyr.png)
+![apexMgo](/Asserts/Images/album/201707/18/194817fbyw9eobu0ergbyr.png)
 
 
 最终结果是 `insert` 到在 [Compose 之上 的 MongoDB](https://www.compose.com/articles/composes-new-primetime-mongodb/) 中。
 
 
-![composeDeploy](/Asserts/Images//attachment/album/201707/18/194818g4o05zuv0zw4hhap.png)
+![composeDeploy](/Asserts/Images/album/201707/18/194818g4o05zuv0zw4hhap.png)
 
 
 ### 还有更多……

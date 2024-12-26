@@ -7,7 +7,7 @@ tags:	[linuxcn,hwinfo,python-hwinfo]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/25/193747izu851ummun555wu.jpg)
+![](/Asserts/Images/album/201801/25/193747izu851ummun555wu.jpg)
 
 
 到目前为止，我们已经介绍了大部分获取 Linux 系统硬件信息和配置的工具，不过也有许多命令可用于相同目的。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Unix]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/17/170055yst2s94aslim9hbe.jpg)
+![](/Asserts/Images/album/201808/17/170055yst2s94aslim9hbe.jpg)
 
 
 最近我在用我编写的各种工具做更多 UNIX 下的事情，我遇到了两个有趣的问题。这些都不是 “bug”，而是我没想到的行为。

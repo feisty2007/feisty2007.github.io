@@ -7,7 +7,7 @@ tags:	[linuxcn,重启,关机]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/31/205455k6w9oawuwpbifku9.png)
+![](/Asserts/Images/album/201810/31/205455k6w9oawuwpbifku9.png)
 
 
 在 Linux 管理员的日程当中，有很多需要执行的任务，其中就有系统的重启和关闭。

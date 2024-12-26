@@ -13,7 +13,7 @@ tags:	[linuxcn,Linux,发行版]
 ### Linux 是什么？
 
 
-![](/Asserts/Images//attachment/album/201703/09/221735iz2ipq5zrjuuo8hi.jpg)
+![](/Asserts/Images/album/201703/09/221735iz2ipq5zrjuuo8hi.jpg)
 
 
 简单来说， Linux 是一个类 Unix 的开源操作系统。
@@ -34,7 +34,7 @@ tags:	[linuxcn,Linux,发行版]
 它是基于 Linux 内核的一个操作系统。它带有用户可以使用的软件集合。更多的，它还包含系统管理包。目前有许多 Linux 发行版。因为我们不能数清目前所有的 Linux 发行版，所以我们来看一下一些有名的版本： Ubuntu、Fedora、Opensuse、Red hat Linux 和 Debian 等是几个非常受欢迎的 Linux 发行版。
 
 
-![](/Asserts/Images//attachment/album/201703/09/221602tlm5awppelrlylmt.jpg)
+![](/Asserts/Images/album/201703/09/221602tlm5awppelrlylmt.jpg)
 
 
 *Ubuntu， 一个非常受欢迎的 Linux 发行版和第三受欢迎的操作系统*

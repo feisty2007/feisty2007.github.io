@@ -7,10 +7,10 @@ tags:	[linuxcn,Reddit,API,域名]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/16/182644jplqzcxl73l23ha2.jpg)
+![](/Asserts/Images/album/202306/16/182644jplqzcxl73l23ha2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/16/182655zd3dl0nlngn8cnss.jpg)
+![](/Asserts/Images/album/202306/16/182655zd3dl0nlngn8cnss.jpg)
 
 
 ### Reddit 威胁换掉继续抗议的子区管理员
@@ -35,7 +35,7 @@ tags:	[linuxcn,Reddit,API,域名]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/16/182710vrz51kmbrzb2bepg.jpg)
+![](/Asserts/Images/album/202306/16/182710vrz51kmbrzb2bepg.jpg)
 
 
 ### YouTube 通知其开源替代品 Invidious 关闭
@@ -60,7 +60,7 @@ Invidious 是 YouTube 的一个开源 “替代前端”，允许用户在没有
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/16/182726luaj5b4z59w48vw4.jpg)
+![](/Asserts/Images/album/202306/16/182726luaj5b4z59w48vw4.jpg)
 
 
 ### Alphabet 出售了谷歌域名产品

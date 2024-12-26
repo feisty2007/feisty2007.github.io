@@ -16,7 +16,7 @@ Let's Encrypt 项目是由<ruby> 互联网安全研究小组 <rp>  （ </rp> <rt
 至于为什么 Let's Encrypt 让我们如此激动，以及 HTTPS 协议如何保护我们的通讯请参考[浅谈 HTTPS 和 SSL/TLS 协议的背景与基础](/article-5175-1.html)。
 
 
-![Let's Encrypt](/Asserts/Images//attachment/album/201511/11/083937alelmdbkrmweezwt.jpg)
+![Let's Encrypt](/Asserts/Images/album/201511/11/083937alelmdbkrmweezwt.jpg)
 
 
 （题图来自：muylinux.com）

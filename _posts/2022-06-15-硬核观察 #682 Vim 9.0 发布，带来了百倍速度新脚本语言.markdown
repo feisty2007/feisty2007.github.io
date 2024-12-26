@@ -7,10 +7,10 @@ tags:	[linuxcn,Vim,深度伪造,Asahi]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/29/181921mc8247548c577v32.jpg)
+![](/Asserts/Images/album/202206/29/181921mc8247548c577v32.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/29/181930vyymfvpfpyyfyeug.png)
+![](/Asserts/Images/album/202206/29/181930vyymfvpfpyyfyeug.png)
 
 
 ### Vim 9.0 发布，带来了百倍速度新脚本语言
@@ -35,7 +35,7 @@ Vim 迎来了两年来的首个重大更新，在这个版本中除了若干变�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/29/181939vn2rmqo6uqiz9cos.jpg)
+![](/Asserts/Images/album/202206/29/181939vn2rmqo6uqiz9cos.jpg)
 
 
 ### 有人正在使用深度伪造来申请远程工作
@@ -60,7 +60,7 @@ Vim 迎来了两年来的首个重大更新，在这个版本中除了若干变�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/29/182018blo9xjz409x99o99.jpg)
+![](/Asserts/Images/album/202206/29/182018blo9xjz409x99o99.jpg)
 
 
 ### Asahi Linux 开始着手为 M2 带来 Linux 支持

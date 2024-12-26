@@ -7,7 +7,7 @@ tags:	[linuxcn,ChatOps]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/05/092837ab3y8zft3hhv02hr.jpg)
+![](/Asserts/Images/album/202304/05/092837ab3y8zft3hhv02hr.jpg)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,NeoVim,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/18/160357g9mrmohow8wm68iw.jpg)
+![](/Asserts/Images/album/202301/18/160357g9mrmohow8wm68iw.jpg)
 
 
 Vim 很不错，但 NeoVim 更新一些，甚至更棒。Vim 和 NeoVim 都是基于终端的文本编辑器，具有类似的功能。
@@ -25,7 +25,7 @@ Vim 很不错，但 NeoVim 更新一些，甚至更棒。Vim 和 NeoVim 都是�
 ### 1、Neovide
 
 
-![neovide](/Asserts/Images//attachment/album/202301/18/160410e3cbjtwt8vdjtwl3.png)
+![neovide](/Asserts/Images/album/202301/18/160410e3cbjtwt8vdjtwl3.png)
 
 
 主要特点：
@@ -47,7 +47,7 @@ Vim 很不错，但 NeoVim 更新一些，甚至更棒。Vim 和 NeoVim 都是�
 而我在使用 Neovide 时最喜欢的地方是它拥有一个动画光标和平滑滚动。你看一看这个就明白了：
 
 
-![](/Asserts/Images//attachment/album/202301/18/160411ifjyjh6szjfh6pdj.gif)
+![](/Asserts/Images/album/202301/18/160411ifjyjh6szjfh6pdj.gif)
 
 
 看起来很酷。对吗？
@@ -56,7 +56,7 @@ Vim 很不错，但 NeoVim 更新一些，甚至更棒。Vim 和 NeoVim 都是�
 ### 2、Neovim Qt
 
 
-![neovim Qt](/Asserts/Images//attachment/album/202301/18/160411xjrkoowdoxvik8zk.png)
+![neovim Qt](/Asserts/Images/album/202301/18/160411xjrkoowdoxvik8zk.png)
 
 
 主要特点：
@@ -88,7 +88,7 @@ Vim 很不错，但 NeoVim 更新一些，甚至更棒。Vim 和 NeoVim 都是�
 ### 3、Uivonim
 
 
-![uivonim](/Asserts/Images//attachment/album/202301/18/160411da8dxxdlajaazs8b.png)
+![uivonim](/Asserts/Images/album/202301/18/160411da8dxxdlajaazs8b.png)
 
 
 主要特点：
@@ -109,7 +109,7 @@ Vim 很不错，但 NeoVim 更新一些，甚至更棒。Vim 和 NeoVim 都是�
 ### 4、FVim
 
 
-![fvim](/Asserts/Images//attachment/album/202301/18/160412dmymvb9muuuwuwrz.png)
+![fvim](/Asserts/Images/album/202301/18/160412dmymvb9muuuwuwrz.png)
 
 
 主要特点：
@@ -130,7 +130,7 @@ Vim 很不错，但 NeoVim 更新一些，甚至更棒。Vim 和 NeoVim 都是�
 ### 5、Goneovim
 
 
-![goneovim](/Asserts/Images//attachment/album/202301/18/160412alwmmfaallmsutbz.png)
+![goneovim](/Asserts/Images/album/202301/18/160412alwmmfaallmsutbz.png)
 
 
 主要特点：

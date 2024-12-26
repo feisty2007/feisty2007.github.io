@@ -50,7 +50,7 @@ tags:	[linuxcn,Ubuntu,Snowlinux,Cinnamon,MATE]
 　　Snowlinux 4 以ISO DVD 发布有 32 位和 64 位两种。100% 兼容 Ubuntu，支持期到2014年1月。
 
 
-![](/Asserts/Images//attachment/album/201306/04/20304571d8lz7az7td7agj.jpg)
+![](/Asserts/Images/album/201306/04/20304571d8lz7az7td7agj.jpg)
 
 
 **下载地址：**

@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/21/154425baqqjmpftz7t7qt7.jpg)
+![](/Asserts/Images/album/202208/21/154425baqqjmpftz7t7qt7.jpg)
 
 
 有几十个基于 Ubuntu 的发行版可用。从 [面向初学者的发行版](https://itsfoss.com/best-linux-beginners/) 到 [漂亮的发行版](https://itsfoss.com/beautiful-linux-distributions/)，Ubuntu 主导着 Linux 桌面空间。
@@ -28,7 +28,7 @@ tags:	[linuxcn,Fedora]
 ### 1、Fedora 定制版
 
 
-![screenshot fedora cinnamon](/Asserts/Images//attachment/album/202208/21/154434zb3xdjoj9xzbyyzo.jpg)
+![screenshot fedora cinnamon](/Asserts/Images/album/202208/21/154434zb3xdjoj9xzbyyzo.jpg)
 
 
 Fedora 有很多<ruby> 定制版 <rt>  spin </rt></ruby>，但没有 Ubuntu 那么多。
@@ -54,7 +54,7 @@ Fedora 有很多<ruby> 定制版 <rt>  spin </rt></ruby>，但没有 Ubuntu 那�
 ### 2、Nobara
 
 
-![nobara](/Asserts/Images//attachment/album/202208/21/154434gu72w3b3w333rcm7.png)
+![nobara](/Asserts/Images/album/202208/21/154434gu72w3b3w333rcm7.png)
 
 
 当你在找 [游戏发行版](https://itsfoss.com/linux-gaming-distributions/) 时，列表将由 Debian 和 Arch 衍生产品占据主导地位。因此，如果你正在寻找基于 Fedora 且具有相同效果的游戏发行版，那么 [Nobara](https://nobaraproject.org/) 就是你所需要的。
@@ -69,7 +69,7 @@ Nobara 是由 Proton GE 的维护者制作的游戏发行版，他也是 Lutris 
 ### 3、Ultramarine
 
 
-![ultramarine](/Asserts/Images//attachment/album/202208/21/154435pizd9sp99ghzzuhu.png)
+![ultramarine](/Asserts/Images/album/202208/21/154435pizd9sp99ghzzuhu.png)
 
 
 基于 Fedora 的发行版，开箱即用，适用于普通用户，它就是 [Ultramarine](https://ultramarine-linux.org/)！
@@ -87,7 +87,7 @@ Ultramarine 预装了一堆工具，包括 Flathub、RPM fusion 和该发行版�
 ### 4、RisiOS
 
 
-![risios](/Asserts/Images//attachment/album/202208/21/154436qcng3li4046gmccl.png)
+![risios](/Asserts/Images/album/202208/21/154436qcng3li4046gmccl.png)
 
 
 “一个支持 Web 应用的 Fedora。”
@@ -108,7 +108,7 @@ RisiOS 还为你提供与 Linux Mint 相同的 Web 应用管理器，而且非�
 ### 5、Qubes OS
 
 
-![Qubes Os](/Asserts/Images//attachment/album/202208/21/154436tqq84qnl3kk08evq.jpg)
+![Qubes Os](/Asserts/Images/album/202208/21/154436tqq84qnl3kk08evq.jpg)
 
 
 [Qubes OS](https://www.qubes-os.org/) 是一个有趣的 Linux 发行版，它让你可以自由选择要用作基础的操作系统。它也提供了一个 Fedora 模板，并且他们会定期维护它。
@@ -123,7 +123,7 @@ RisiOS 还为你提供与 Linux Mint 相同的 Web 应用管理器，而且非�
 ### 6、Berry Linux
 
 
-![berry linux](/Asserts/Images//attachment/album/202208/21/154436x8dl3lgctdmcdk56.png)
+![berry linux](/Asserts/Images/album/202208/21/154436x8dl3lgctdmcdk56.png)
 
 
 [Berry Linux](https://berry-lab.net/eberry.html) 是一个简单的基于 Fedora 的发行版，你可以直接从 CD 或任何其他介质启动。它支持自动硬件检测，并且似乎定期维护。
@@ -135,7 +135,7 @@ Berry Linux 提供对英语和日语的支持。它预装了一些媒体播放�
 ### 7、ClearOS
 
 
-![clear os community edition](/Asserts/Images//attachment/album/202208/21/154437jk1429zykjewwzvb.png)
+![clear os community edition](/Asserts/Images/album/202208/21/154437jk1429zykjewwzvb.png)
 
 
 它不是 [来自 Intel 的 Clear Linux 项目](https://itsfoss.com/clear-linux/)，尽管听起来很相似。

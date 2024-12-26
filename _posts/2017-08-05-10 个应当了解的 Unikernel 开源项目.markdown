@@ -7,7 +7,7 @@ tags:	[linuxcn,unikernel]
 ---
 
 
-![unikernels](/Asserts/Images//attachment/album/201708/11/160806zswm82ucu6ww8k60.jpg "unikernels")
+![unikernels](/Asserts/Images/album/201708/11/160806zswm82ucu6ww8k60.jpg "unikernels")
 
 
 

@@ -18,7 +18,7 @@ tags:	[linuxcn,KDE,KDE Plasma]
  
 
 
-![KDE Plasma 5](/Asserts/Images//attachment/album/201409/25/135508jetst70lc2sq0juf.jpg)*KDE Plasma 5*
+![KDE Plasma 5](/Asserts/Images/album/201409/25/135508jetst70lc2sq0juf.jpg)*KDE Plasma 5*
 ### Plasma 5的第二个bug修复版本发布，已可下载
 
 

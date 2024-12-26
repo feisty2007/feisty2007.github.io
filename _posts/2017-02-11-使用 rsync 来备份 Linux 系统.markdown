@@ -30,7 +30,7 @@ tags:	[linuxcn,备份,rsync]
 所以备份是我数据长期安全的必要保障。
 
 
-![](/Asserts/Images//attachment/album/201702/24/162631j7hcqn32ilq9plai.jpg)
+![](/Asserts/Images/album/201702/24/162631j7hcqn32ilq9plai.jpg)
 
 
 ### 备份软件选择

@@ -7,7 +7,7 @@ tags:	[linuxcn,CPU,微码]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/06/091348soze2zyzv5wfrvro.jpg)
+![](/Asserts/Images/album/201803/06/091348soze2zyzv5wfrvro.jpg)
 
 
 如果你是一个 Linux 系统管理方面的新手，如何在 Linux 上使用命令行方式去安装或者更新 Intel/AMD CPU 的微码固件呢？
@@ -31,7 +31,7 @@ tags:	[linuxcn,CPU,微码]
 输出如下：
 
 
-[![Verify microcode update on a CentOS RHEL Fedora Ubuntu Debian Linux](/Asserts/Images//attachment/album/201803/06/091354g0vtvobkvrkuxbvb.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Verify-microcode-update-on-a-CentOS-RHEL-Fedora-Ubuntu-Debian-Linux.jpg)
+[![Verify microcode update on a CentOS RHEL Fedora Ubuntu Debian Linux](/Asserts/Images/album/201803/06/091354g0vtvobkvrkuxbvb.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Verify-microcode-update-on-a-CentOS-RHEL-Fedora-Ubuntu-Debian-Linux.jpg)
 
 
 请注意，你的 CPU 在这里完全有可能出现没有可用的微码更新的情况。如果是这种情况，它的输出可能是如下这样的：
@@ -85,7 +85,7 @@ $ sudo apt-get install intel-microcode
 示例输出如下：
 
 
-[![How to install Intel microcode firmware Linux](/Asserts/Images//attachment/album/201803/06/091356kez6ashd8esws464.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/How-to-install-Intel-microcode-firmware-Linux.jpg)
+[![How to install Intel microcode firmware Linux](/Asserts/Images/album/201803/06/091356kez6ashd8esws464.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/How-to-install-Intel-microcode-firmware-Linux.jpg)
 
 
 你 [必须重启服务器以激活微码](https://www.cyberciti.biz/faq/howto-reboot-linux/) 更新：

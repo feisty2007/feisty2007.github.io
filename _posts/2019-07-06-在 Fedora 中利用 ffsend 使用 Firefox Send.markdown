@@ -7,7 +7,7 @@ tags:	[linuxcn,ffsend]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/01/125114fxkxirjjmjz7uxxv.png)
+![](/Asserts/Images/album/201907/01/125114fxkxirjjmjz7uxxv.png)
 
 
 `ffsend` 是 Firefox Send 的命令行客户端。本文将展示 Firefox Send 和 `ffsend` 如何工作。还会详细介绍如何在 Fedora 中安装和使用它。

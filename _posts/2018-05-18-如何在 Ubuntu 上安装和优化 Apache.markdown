@@ -7,7 +7,7 @@ tags:	[linuxcn,Apache]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/25/103013e2pkoalbrkk2t2rz.jpg)
+![](/Asserts/Images/album/201805/25/103013e2pkoalbrkk2t2rz.jpg)
 
 
 这是我们的 LAMP 系列教程的开始：如何在 Ubuntu 上安装 Apache web 服务器。
@@ -88,7 +88,7 @@ systemctl status apache2
 
 ```
 
-[![check if apache is running](/Asserts/Images//attachment/album/201805/25/103025dogk7qugjoqgeggd.jpg)](https://thishosting.rocks/wp-content/uploads/2018/01/apache-running.jpg)
+[![check if apache is running](/Asserts/Images/album/201805/25/103025dogk7qugjoqgeggd.jpg)](https://thishosting.rocks/wp-content/uploads/2018/01/apache-running.jpg)
 
 
 并且你可以检查你正在使用的版本：
@@ -221,7 +221,7 @@ nano /etc/apache2/mods-enabled/evasive.conf
 取消注释所有行（即删除 `#`），根据你的要求进行配置。如果你不知道要编辑什么，你可以保持原样。
 
 
-[![mod_evasive](/Asserts/Images//attachment/album/201805/25/103026p252ibido5vcjiow.jpg)](https://thishosting.rocks/wp-content/uploads/2018/01/mod_evasive.jpg)
+[![mod_evasive](/Asserts/Images/album/201805/25/103026p252ibido5vcjiow.jpg)](https://thishosting.rocks/wp-content/uploads/2018/01/mod_evasive.jpg)
 
 
 创建一个日志文件：

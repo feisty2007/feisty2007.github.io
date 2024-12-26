@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Nvidia,驱动]
 ---
 
 
-![Ubuntu Gamers are on the rise -and so is demand for the latest drivers](/Asserts/Images//attachment/album/201508/15/012411r3qfer352fzcuffq.jpg)
+![Ubuntu Gamers are on the rise -and so is demand for the latest drivers](/Asserts/Images/album/201508/15/012411r3qfer352fzcuffq.jpg)
 
 
 *Ubuntu 上的游戏玩家在增长——因而需要最新版驱动*
@@ -28,7 +28,7 @@ Ubuntu 开发者正在考虑构建一个全新的'官方' PPA，以便为桌面�
 ### 为什么需要该项目？
 
 
-![Ubuntu provides drivers – but they’re not the latest](/Asserts/Images//attachment/album/201508/15/012412zpse3z4si3dy1b13.jpg)
+![Ubuntu provides drivers – but they’re not the latest](/Asserts/Images/album/201508/15/012412zpse3z4si3dy1b13.jpg)
 
 
 *Ubuntu 提供了驱动——但是它们不是最新的*

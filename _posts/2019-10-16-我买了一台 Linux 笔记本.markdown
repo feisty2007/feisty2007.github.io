@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,笔记本]
 > 
 
 
-![](/Asserts/Images//attachment/album/201910/08/133924vnmbklqh5jkshkmj.jpg)
+![](/Asserts/Images/album/201910/08/133924vnmbklqh5jkshkmj.jpg)
 
 
 最近，我开始使用我买的 Linux 笔记本计算机 Tuxedo Book BC1507。十年前，如果有人告诉我，十年后我可以从 [System76](https://system76.com/)、[Slimbook](https://slimbook.es/en/) 和 [Tuxedo](https://www.tuxedocomputers.com/) 等公司购买到高质量的“企鹅就绪”的笔记本电脑。我可能会发笑。好吧，现在我也在笑，但是很开心！
@@ -51,7 +51,7 @@ Tuxedo 可以按需构建每台计算机，只需选择基本模型并浏览下�
 付款完成后仅六个工作日，完好包装的计算机就十分安全地到达了我家。打开计算机包装并解锁电池后，我准备好开始浪了。
 
 
-![Tuxedo Book BC1507](/Asserts/Images//attachment/album/201910/08/134049x7m8vlvfqmxl8x38.jpg "Tuxedo Book BC1507")
+![Tuxedo Book BC1507](/Asserts/Images/album/201910/08/134049x7m8vlvfqmxl8x38.jpg "Tuxedo Book BC1507")
 
 
 *我的（物理）桌面上的新玩具。*

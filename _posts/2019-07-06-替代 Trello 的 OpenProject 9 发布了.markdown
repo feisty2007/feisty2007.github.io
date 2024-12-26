@@ -7,7 +7,7 @@ tags:	[linuxcn,项目管理,OpenProject]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/06/130201r9g70u01uuvvvvu7.jpg)
+![](/Asserts/Images/album/201907/06/130201r9g70u01uuvvvvu7.jpg)
 
 
 [OpenProject](https://www.openproject.org/) 是一个开源项目协作管理软件。它是 [Trello](https://trello.com/) 和 [Jira](https://www.atlassian.com/software/jira) 等专有方案的替代品。
@@ -34,7 +34,7 @@ OpenProject 9 的重点是新的面板视图，包列表视图和工作模板。
 #### Scrum 和敏捷面板
 
 
-![](/Asserts/Images//attachment/album/201907/06/130313eirn4mhqdn74q4dv.jpg)
+![](/Asserts/Images/album/201907/06/130313eirn4mhqdn74q4dv.jpg)
 
 
 对于企业云版，有了一个新的 [scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) 和[敏捷](https://en.wikipedia.org/wiki/Agile_software_development)面板视图。你还可以[看板风格](https://en.wikipedia.org/wiki/Kanban)方式展示你的工作，从而更轻松地支持你的敏捷和 scrum 团队。
@@ -46,7 +46,7 @@ OpenProject 9 的重点是新的面板视图，包列表视图和工作模板。
 #### 工作包模板
 
 
-![Work Package Template](/Asserts/Images//attachment/album/201907/06/130314s96umq9t8dmt666s.jpg)
+![Work Package Template](/Asserts/Images/album/201907/06/130314s96umq9t8dmt666s.jpg)
 
 
 你不必为每个独立的工作包从头开始创建所有内容。而是，你只需保留一个模板，这样你就可以在需要创建新工作包时使用它。这将节省大量时间。
@@ -55,7 +55,7 @@ OpenProject 9 的重点是新的面板视图，包列表视图和工作模板。
 #### 新的工作包列表视图
 
 
-![Work Package View](/Asserts/Images//attachment/album/201907/06/130317n8ggg5hc35tg227c.jpg)
+![Work Package View](/Asserts/Images/album/201907/06/130317n8ggg5hc35tg227c.jpg)
 
 
 在工作包列表中，有一个微小的新增功能，可让你查看特定工作的已分配人员的头像。

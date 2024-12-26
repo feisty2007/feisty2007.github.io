@@ -7,10 +7,10 @@ tags:	[linuxcn,卫星,GPL,2FA]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/28/171329eppaoa1ar3aparra.jpg)
+![](/Asserts/Images/album/202112/28/171329eppaoa1ar3aparra.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/28/171340jqt22njowt0nj6p3.jpg)
+![](/Asserts/Images/album/202112/28/171340jqt22njowt0nj6p3.jpg)
 
 
 ### 马斯克的星链卫星两次导致中国空间站紧急规避
@@ -27,7 +27,7 @@ tags:	[linuxcn,卫星,GPL,2FA]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/28/171356zr7u99uukk9t7jz7.jpg)
+![](/Asserts/Images/album/202112/28/171356zr7u99uukk9t7jz7.jpg)
 
 
 ### 意大利法院认定开源软件许可证的可执行性
@@ -44,7 +44,7 @@ tags:	[linuxcn,卫星,GPL,2FA]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/28/171410saz7acw3laeqyoa4.jpg)
+![](/Asserts/Images/album/202112/28/171410saz7acw3laeqyoa4.jpg)
 
 
 ### 研究发现 1200 多个能够拦截 2FA 的钓鱼工具包

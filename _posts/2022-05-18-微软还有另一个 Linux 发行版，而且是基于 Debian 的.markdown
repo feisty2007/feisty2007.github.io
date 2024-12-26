@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,微软]
 > 
 
 
-![微软 Debian](/Asserts/Images//attachment/album/202205/17/102259n8zk8no33j3qk7gg.jpg)
+![微软 Debian](/Asserts/Images/album/202205/17/102259n8zk8no33j3qk7gg.jpg)
 
 
 微软在其大量的项目中利用了 Linux。近年来，你一定读过很多关于 WSL（或 WSL2）和微软制作的 Linux 发行版（即 **CBL Mariner**）的消息。
@@ -41,7 +41,7 @@ tags:	[linuxcn,Linux,微软]
 ### CBL-Delridge：一个基于 Debian 的 Linux 发行版
 
 
-![](/Asserts/Images//attachment/album/202205/17/102300b5usy7ky5y7k276s.png)
+![](/Asserts/Images/album/202205/17/102300b5usy7ky5y7k276s.png)
 
 
 微软维护着一个基于 Debian 的发行版，它被用来支持 Azure 的“<ruby> 云端外壳 <rt>  Cloud Shell </rt></ruby>”。它的名字是 “CBL-Delridge”。
@@ -62,7 +62,7 @@ tags:	[linuxcn,Linux,微软]
 有趣的是，微软在 2020 年发布了这个供内部使用的发行版（根据 Hayden 维护的 [微软的开源举措的非官方时间表](https://github.com/sirredbeard/microsoft-opensource)），而我们在 2022 年才知道了它。
 
 
-![](/Asserts/Images//attachment/album/202205/17/102300tc33vtwjn22vo8uj.png)
+![](/Asserts/Images/album/202205/17/102300tc33vtwjn22vo8uj.png)
 
 
 CBL-Delridge 也采用了同样的版本号 10（巧合），代号为 “Quinault”。解析一下这个名字，ZDNet 指出，Delridge 是西雅图西部的一个区，而 Quinault 指的是华盛顿州奥林匹克国家公园的一个山谷。

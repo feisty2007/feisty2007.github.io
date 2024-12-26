@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/02/125833qdxbb2vgd0x7ccx4.jpg)
+![](/Asserts/Images/album/202310/02/125833qdxbb2vgd0x7ccx4.jpg)
 
 
 
@@ -60,7 +60,7 @@ tags:	[linuxcn,树莓派]
 ### ? 树莓派 5 的关键参数
 
 
-![](/Asserts/Images//attachment/album/202310/02/130005nlmkramesrf76e31.jpg)
+![](/Asserts/Images/album/202310/02/130005nlmkramesrf76e31.jpg)
 
 
 那么，你可能对树莓派 5 的硬件配置感到好奇。
@@ -106,7 +106,7 @@ tags:	[linuxcn,树莓派]
 ### 树莓派 5 配件 ?
 
 
-![树莓派 5 官方配件外壳](/Asserts/Images//attachment/album/202310/02/130006d4m37llg3hmf73o4.jpg)
+![树莓派 5 官方配件外壳](/Asserts/Images/album/202310/02/130006d4m37llg3hmf73o4.jpg)
 
 
 一如既往，树莓派 5 与各种官方配件一同发布。

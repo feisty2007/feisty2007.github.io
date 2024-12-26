@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu MATE,Ubuntu 23.10,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/19/160226cp45xfznfzw2xjj0.jpg)
+![](/Asserts/Images/album/202310/19/160226cp45xfznfzw2xjj0.jpg)
 
 
 
@@ -41,7 +41,7 @@ tags:	[linuxcn,Ubuntu MATE,Ubuntu 23.10,Ubuntu]
 ### Ubuntu MATE 23.10：有什么新功能？
 
 
-![](/Asserts/Images//attachment/album/202310/19/160302pia1le1berkyy0nq.jpg)
+![](/Asserts/Images/album/202310/19/160302pia1le1berkyy0nq.jpg)
 
 
 Ubuntu MATE 23.10 受益于 [Ubuntu 23.10](https://news.itsfoss.com/ubuntu-23-10/) 推出的所有好东西。
@@ -74,7 +74,7 @@ Ubuntu MATE 23.10 受益于 [Ubuntu 23.10](https://news.itsfoss.com/ubuntu-23-10
 #### 额外的人工智能生成的壁纸
 
 
-![](/Asserts/Images//attachment/album/202310/19/160303h4p4vs2qv4jv4mq4.jpg)
+![](/Asserts/Images/album/202310/19/160303h4p4vs2qv4jv4mq4.jpg)
 
 
 虽然你已经可以从 [Ubuntu 23.10 更新合集](https://ubuntu.com/blog/into-the-labyrinth) 中下载一些有趣的壁纸，但在这里你还能获得额外的壁纸（如上面的截图所示）。
@@ -100,7 +100,7 @@ Simon Butcher 是使用前沿的 Diffusion 模型制作这款壁纸的人，他�
 当然，[Linux 内核 6.5](https://news.itsfoss.com/linux-kernel-6-5-release/) 还能为硬件带来更好的兼容性、新代组件和其他改进。
 
 
-![](/Asserts/Images//attachment/album/202310/19/160303ghkhlln62h9ng7g3.jpg)
+![](/Asserts/Images/album/202310/19/160303ghkhlln62h9ng7g3.jpg)
 
 
 #### 其他改进

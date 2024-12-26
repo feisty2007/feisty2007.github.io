@@ -15,7 +15,7 @@ tags:	[linuxcn,UI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202102/18/123715oomfuuz94ioi41ii.jpg "Digital images of a computer desktop")
+![](/Asserts/Images/album/202102/18/123715oomfuuz94ioi41ii.jpg "Digital images of a computer desktop")
 
 
 为应用程序创建良好的用户体验（UX）是一项艰巨的任务，尤其是在开发嵌入式应用程序时。今天，有两种图形用户界面（GUI）工具通常用于开发嵌入式软件：它们要么涉及复杂的技术，要么非常昂贵。
@@ -42,7 +42,7 @@ tags:	[linuxcn,UI]
 对于我们的 PoC，我们想创建一个家用电器应用程序来控制温度和其他东西，并在 Linux ARM 设备上运行。
 
 
-![Home appliance application to control thermostat](/Asserts/Images//attachment/album/202102/18/123754nxtt51tgtg21jht5.png "Home appliance application to control thermostat")
+![Home appliance application to control thermostat](/Asserts/Images/album/202102/18/123754nxtt51tgtg21jht5.png "Home appliance application to control thermostat")
 
 
 我们想为树莓派开发我们的应用程序，所以我们使用 Android 的 [ConstraintLayout](https://codelabs.developers.google.com/codelabs/constraint-layout/index.html#0) 来构建 848x480（树莓派的分辨率）的固定屏幕大小的 UI，不过你可以用其他布局构建响应性 UI。
@@ -91,7 +91,7 @@ TextView 元素用于向用户显示一些数据，比如建筑物内的温度�
 首先，我们使用 [VSCode 插件](https://medium.com/totalcross-community/totalcross-plugin-for-vscode-4f45da146a0a) 创建了一个空的 TotalCross 项目。接下来，我们保存了 `drawable` 文件夹中的图像副本和 `xml` 文件夹中的 Android XML 文件副本，这两个文件夹都位于 `resources` 文件夹中：
 
 
-![Home Appliance file structure](/Asserts/Images//attachment/album/202102/18/123754n22li8268d82s882.png "Home Appliance file structure")
+![Home Appliance file structure](/Asserts/Images/album/202102/18/123754n22li8268d82s882.png "Home Appliance file structure")
 
 
 为了使用 TotalCross 模拟器运行 XML 文件，我们添加了一个名为 KnowCode 的新 TotalCross API 和一个主窗口来加载 XML。下面的代码使用 API 加载和呈现 XML：
@@ -109,7 +109,7 @@ public void initUI() {
 就这样！只需两个命令，我们就可以使用 TotalCross 运行 Android XML 文件。以下是 XML 如何在 TotalCross 的模拟器上执行：
 
 
-![TotalCross simulator running temperature application](/Asserts/Images//attachment/album/202102/18/123755zcjpqmjj7v4o7dol.png "TotalCross simulator running temperature application")
+![TotalCross simulator running temperature application](/Asserts/Images/album/202102/18/123755zcjpqmjj7v4o7dol.png "TotalCross simulator running temperature application")
 
 
 完成这个 PoC 还有两件事要做：添加一些事件来提供用户交互，并在树莓派上运行它。
@@ -156,7 +156,7 @@ plus.addPressListener(new PressListener() {
 下面是应用程序的演示：
 
 
-![Application demo](/Asserts/Images//attachment/album/202102/18/123755iasg8auh22sk2d11.gif "Application demo")
+![Application demo](/Asserts/Images/album/202102/18/123755iasg8auh22sk2d11.gif "Application demo")
 
 
 在本例中，该应用程序仅为 Linux ARM 打包，但同一应用程序可以作为 Linux 桌面应用程序运行，在Android 设备 、Windows、windows CE 甚至 iOS 上运行。

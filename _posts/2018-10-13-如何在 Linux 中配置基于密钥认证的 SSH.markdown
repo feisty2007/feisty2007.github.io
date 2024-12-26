@@ -7,7 +7,7 @@ tags:	[linuxcn,ssh,密钥,认证]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/05/215314od06rzi6e2dsvi0v.jpg)
+![](/Asserts/Images/album/201810/05/215314od06rzi6e2dsvi0v.jpg)
 
 
 ### 什么是基于 SSH 密钥的认证？

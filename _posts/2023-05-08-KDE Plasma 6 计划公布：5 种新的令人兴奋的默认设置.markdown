@@ -15,7 +15,7 @@ tags:	[linuxcn,KDE]
 > 
 
 
-![KDE Plasma 6](/Asserts/Images//attachment/album/202305/17/154033xxgu5y841cau5a1a.jpg)
+![KDE Plasma 6](/Asserts/Images/album/202305/17/154033xxgu5y841cau5a1a.jpg)
 
 
 [KDE Plasma 5.27](https://news.itsfoss.com/kde-plasma-5-27-release/) 是一个值得关注的版本，它标志着 5.x 系列的终结。
@@ -69,7 +69,7 @@ X11 会话不会消失。因此，Linux 发行版仍然可以覆盖这个默认�
 #### 3、默认采用浮动面板
 
 
-![KDE floating panel](/Asserts/Images//attachment/album/202305/17/154033p3n129t21fwwzct1.jpg)
+![KDE floating panel](/Asserts/Images/album/202305/17/154033p3n129t21fwwzct1.jpg)
 
 
 尽管 Windows 11 最初从 KDE 复制了（或许是灵感来自于）浮动面板，但浮动面板在 KDE Plasma 中是可选的特性。
@@ -84,7 +84,7 @@ X11 会话不会消失。因此，Linux 发行版仍然可以覆盖这个默认�
 为了帮助你更好地区分和识别活动窗口，你将会发现工作窗口的标题栏区域使用你设置的强调色装饰。
 
 
-![kde tinted accent colored header area](/Asserts/Images//attachment/album/202305/17/154033c3e1ejld3d4l224z.jpg)
+![kde tinted accent colored header area](/Asserts/Images/album/202305/17/154033c3e1ejld3d4l224z.jpg)
 
 
 这样，窗口就会有一些微妙的视觉差异，告诉你哪个窗口是活动窗口。
@@ -102,7 +102,7 @@ X11 会话不会消失。因此，Linux 发行版仍然可以覆盖这个默认�
 这是它的样子：
 
 
-![kde plasma 6 task switcher with thumbnail and icons](/Asserts/Images//attachment/album/202305/17/154033ccyopm00hzys5ey5.jpg)
+![kde plasma 6 task switcher with thumbnail and icons](/Asserts/Images/album/202305/17/154033ccyopm00hzys5ey5.jpg)
 
 
 此外，[Nate 的博客文章](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/?ref=news.itsfoss.com) 上列出了许多其他应该有助于增强 KDE Plasma 6 体验的内容，比如：

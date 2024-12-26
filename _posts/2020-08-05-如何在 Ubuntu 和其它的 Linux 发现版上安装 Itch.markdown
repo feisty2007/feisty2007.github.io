@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/18/100214bx880jp1me4e8ipe.png)
+![](/Asserts/Images/album/202008/18/100214bx880jp1me4e8ipe.png)
 
 
 [Itch](https://itch.io/?ac=ywUpyBMGXvG) 是独立数字创造者的平台，主要专注于独立游戏。它最初是一个托管、销售和下载独立视频游戏的网站。但是现在，Itch 也提供书籍、漫画、工具、棋类游戏、原声带等来自独立创造者的数字内容。
@@ -46,19 +46,19 @@ Itch 提供一个名称为 itch-setup 的安装器。你可以从它的下载网
 在你下载安装文件后，在其上面右击并给予它可执行权限。
 
 
-![](/Asserts/Images//attachment/album/202008/18/100140omracc84adid3u94.png)
+![](/Asserts/Images/album/202008/18/100140omracc84adid3u94.png)
 
 
 现在在这个安装文件上通过双击来运行。它将下载 Itch 的最新版本。
 
 
-![](/Asserts/Images//attachment/album/202008/18/100148def4wffvv4vx4uvz.jpg)
+![](/Asserts/Images/album/202008/18/100148def4wffvv4vx4uvz.jpg)
 
 
 实际花费的时间取决于你的网速。几分钟后，你应该会看到这个屏幕，要求你登录你的 Itch 账号。
 
 
-![](/Asserts/Images//attachment/album/202008/18/100205u2xol4bfbcaj788z.jpg)
+![](/Asserts/Images/album/202008/18/100205u2xol4bfbcaj788z.jpg)
 
 
 在你登录后，你可以浏览游戏和其它的内容，并下载/购买它们。

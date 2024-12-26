@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCSA]
 在这篇文章中，我们将回顾如何在 RHEL7 中安装，更新和删除软件包。我们还将介绍如何使用 cron 进行任务自动化，并完成如何查找和监控系统日志文件，以及为什么这些技能是系统管理员必备技能。
 
 
-![Yum Package Management Cron Jobs Log Monitoring Linux](/Asserts/Images//attachment/album/201509/26/101408vnyuyxy1bj0iybwg.jpg)
+![Yum Package Management Cron Jobs Log Monitoring Linux](/Asserts/Images/album/201509/26/101408vnyuyxy1bj0iybwg.jpg)
 
 
 *RHCSA: Yum包管理、任务计划和系统监控 – Part 10*
@@ -82,7 +82,7 @@ package\_name(s) 需要是至少一个真实的软件包名
 
 ```
 
-![Search Package Information](/Asserts/Images//attachment/album/201509/26/101408riqqnm76ukunf2fd.png)
+![Search Package Information](/Asserts/Images/album/201509/26/101408riqqnm76ukunf2fd.png)
 
 
 *搜索包信息*
@@ -100,7 +100,7 @@ package\_name(s) 需要是至少一个真实的软件包名
 上述命令将返回可以更新的所有已安装的软件包。在下图所示的例子中，只有 rhel-7-server-rpms 有可用更新：
 
 
-![Check For Package Updates](/Asserts/Images//attachment/album/201509/26/101409q77t8pmp6a2f8ee7.png)
+![Check For Package Updates](/Asserts/Images/album/201509/26/101409q77t8pmp6a2f8ee7.png)
 
 
 *检查包更新*
@@ -127,7 +127,7 @@ package\_name(s) 需要是至少一个真实的软件包名
 
 ```
 
-![Find Package Belongs to Which Package](/Asserts/Images//attachment/album/201509/26/101409ipwo14tfwvfjphtp.png)
+![Find Package Belongs to Which Package](/Asserts/Images/album/201509/26/101409ipwo14tfwvfjphtp.png)
 
 
 *查找文件属于哪个包*
@@ -169,7 +169,7 @@ rpm 的另一个典型的使用方法是列出所有安装的软件包，
 
 ```
 
-![Query All RPM Packages](/Asserts/Images//attachment/album/201509/26/101410ln6w2e2ydma6wx0y.png)
+![Query All RPM Packages](/Asserts/Images/album/201509/26/101410ln6w2e2ydma6wx0y.png)
 
 
 *查询所有包*
@@ -190,7 +190,7 @@ Linux 和 UNIX 类操作系统包括一个称为 Cron 的工具，允许你周�
 crontab 文件（可以通过键入 `crontab -e`并按 Enter 键创建）的格式如下：
 
 
-![Crontab Entries](/Asserts/Images//attachment/album/201509/26/101410tgo6mx3llbxm53bo.png)
+![Crontab Entries](/Asserts/Images/album/201509/26/101410tgo6mx3llbxm53bo.png)
 
 
 *crontab条目*
@@ -217,7 +217,7 @@ crontab 文件（可以通过键入 `crontab -e`并按 Enter 键创建）的格�
 
 ```
 
-![Check All Cron Jobs](/Asserts/Images//attachment/album/201509/26/101411tdpp11ai1l7ladrm.png)
+![Check All Cron Jobs](/Asserts/Images/album/201509/26/101411tdpp11ai1l7ladrm.png)
 
 
 *检查所有cron任务*
@@ -301,7 +301,7 @@ crontab 文件（可以通过键入 `crontab -e`并按 Enter 键创建）的格�
 
 ```
 
-![Linux Log Files Location](/Asserts/Images//attachment/album/201509/26/101411kxl112p0q114q10d.png)
+![Linux Log Files Location](/Asserts/Images/album/201509/26/101411kxl112p0q114q10d.png)
 
 
 *Linux 日志的位置*

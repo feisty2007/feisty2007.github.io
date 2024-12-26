@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果,火星,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/26/174027mcr3yrvvuzlyrnwr.jpg)
+![](/Asserts/Images/album/202401/26/174027mcr3yrvvuzlyrnwr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/26/174042k702c2qozooewvq2.png)
+![](/Asserts/Images/album/202401/26/174042k702c2qozooewvq2.png)
 
 
 ### #1 苹果公布第三方应用商店的详细规则
@@ -38,7 +38,7 @@ iPhone 的应用程序生态系统即将经历自 2008 年苹果应用程序商�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/26/174102ds2a24qi6wqj3hvb.png)
+![](/Asserts/Images/album/202401/26/174102ds2a24qi6wqj3hvb.png)
 
 
 ### #2 NASA 的机智号火星直升机任务结束
@@ -66,7 +66,7 @@ iPhone 的应用程序生态系统即将经历自 2008 年苹果应用程序商�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/26/174119czj7p8pi8mix1zlz.png)
+![](/Asserts/Images/album/202401/26/174119czj7p8pi8mix1zlz.png)
 
 
 ### #3 谷歌云为 Hugging Face 开发者免费提供 AI 算力

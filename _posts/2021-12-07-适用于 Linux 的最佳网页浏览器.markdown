@@ -27,7 +27,7 @@ tags:	[linuxcn,浏览器]
 ### Linux 上的顶级网页浏览器
 
 
-![](/Asserts/Images//attachment/album/202112/12/150802ba8l8j48mgi4jzau.png)
+![](/Asserts/Images/album/202112/12/150802ba8l8j48mgi4jzau.png)
 
 
 每个浏览器都有其独特之处。而且，对于 Linux 平台，也有一些有趣的独家选择。
@@ -50,7 +50,7 @@ tags:	[linuxcn,浏览器]
 ### 1、Vivaldi
 
 
-![](/Asserts/Images//attachment/album/202112/12/150804b6b63v7n0b3nv130.png)
+![](/Asserts/Images/album/202112/12/150804b6b63v7n0b3nv130.png)
 
 
 **优点**
@@ -97,7 +97,7 @@ Vivaldi 提供了 **.deb** 和 **.rpm** 两种软件包，让你可以直接在 
 ### 2、Mozilla Firefox
 
 
-![](/Asserts/Images//attachment/album/202112/12/150806sc22aiccw86iq7hl.png)
+![](/Asserts/Images/album/202112/12/150806sc22aiccw86iq7hl.png)
 
 
 **优点**
@@ -139,7 +139,7 @@ sudo apt install firefox
 ### 3、Chromium
 
 
-![](/Asserts/Images//attachment/album/202112/12/150807q9l7m4h927nhnhjh.png)
+![](/Asserts/Images/album/202112/12/150807q9l7m4h927nhnhjh.png)
 
 
 **优点**
@@ -173,7 +173,7 @@ sudo apt install firefox
 ### 4、谷歌 Chrome
 
 
-![](/Asserts/Images//attachment/album/202112/12/150808mji3vrl3iglpp9hr.png)
+![](/Asserts/Images/album/202112/12/150808mji3vrl3iglpp9hr.png)
 
 
 **优点**
@@ -209,7 +209,7 @@ Chrome 浏览器提供 Deb 和 RPM 包，可以让你在任何基于 Ubuntu 或 
 ### 5、Brave
 
 
-![](/Asserts/Images//attachment/album/202112/12/150809iwav63kpke51qps6.jpg)
+![](/Asserts/Images/album/202112/12/150809iwav63kpke51qps6.jpg)
 
 
 **优点**
@@ -252,7 +252,7 @@ Chrome 浏览器提供 Deb 和 RPM 包，可以让你在任何基于 Ubuntu 或 
 ### 6、Opera
 
 
-![](/Asserts/Images//attachment/album/202112/12/150810hcbh9qvfsgivgfzq.png)
+![](/Asserts/Images/album/202112/12/150810hcbh9qvfsgivgfzq.png)
 
 
 **优点**
@@ -292,7 +292,7 @@ Opera 为 Linux 提供了 Deb 包。你只需前往其官方网站下载并安�
 ### 7、微软 Edge
 
 
-![](/Asserts/Images//attachment/album/202112/12/150811tkowyzy4qsnwypwo.png)
+![](/Asserts/Images/album/202112/12/150811tkowyzy4qsnwypwo.png)
 
 
 **优点**
@@ -337,7 +337,7 @@ Opera 为 Linux 提供了 Deb 包。你只需前往其官方网站下载并安�
 ### 8、GNOME Web（Epiphany）
 
 
-![](/Asserts/Images//attachment/album/202112/12/150812e9np1hhf1aabnanq.png)
+![](/Asserts/Images/album/202112/12/150812e9np1hhf1aabnanq.png)
 
 
 **优点**
@@ -369,7 +369,7 @@ Opera 为 Linux 提供了 Deb 包。你只需前往其官方网站下载并安�
 ### 9、Falkon
 
 
-![](/Asserts/Images//attachment/album/202112/12/150813qb6cq6w41dj19bka.png)
+![](/Asserts/Images/album/202112/12/150813qb6cq6w41dj19bka.png)
 
 
 **优点**
@@ -394,7 +394,7 @@ Opera 为 Linux 提供了 Deb 包。你只需前往其官方网站下载并安�
 ### 10、Nyxt
 
 
-![](/Asserts/Images//attachment/album/202112/12/150815pyd47cwlvsy8dqsv.png)
+![](/Asserts/Images/album/202112/12/150815pyd47cwlvsy8dqsv.png)
 
 
 **优点**

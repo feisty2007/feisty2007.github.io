@@ -7,10 +7,10 @@ tags:	[linuxcn,电子书,AI,i386]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/20/080322bo43odthzubk7ois.jpg)
+![](/Asserts/Images/album/202312/20/080322bo43odthzubk7ois.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/20/080335a5t5i5ttht7b454m.png)
+![](/Asserts/Images/album/202312/20/080335a5t5i5ttht7b454m.png)
 
 
 ### #1 Debian 将停止支持 32 位 x86
@@ -38,7 +38,7 @@ Debian 发行团队宣布，将在不久的将来停止对 i386 的支持。但�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/20/080413yrrub5fvvyg5xvuu.png)
+![](/Asserts/Images/album/202312/20/080413yrrub5fvvyg5xvuu.png)
 
 
 ### #2 互联网档案馆称数字借阅是合理使用而非侵犯版权
@@ -66,7 +66,7 @@ Debian 发行团队宣布，将在不久的将来停止对 i386 的支持。但�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/20/080540imyvva9t9k8njn89.png)
+![](/Asserts/Images/album/202312/20/080540imyvva9t9k8njn89.png)
 
 
 ### #3 德勤期待人工智能帮助避免未来大规模裁员

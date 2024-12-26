@@ -10,7 +10,7 @@ tags:	[linuxcn,systemd,BlackArch]
 ### 支持 Python 3 的 systemd 233 发布，同时有 70 多个改进与 Bug 修复
 
 
-![](/Asserts/Images//attachment/album/201703/08/212153pwlww9yr22zrhwla.jpg)
+![](/Asserts/Images/album/201703/08/212153pwlww9yr22zrhwla.jpg)
 
 
 Lennart Poettering 3 月 1 日[宣布](https://lists.freedesktop.org/archives/systemd-devel/2017-March/038419.html)，基于 Linux 操作系统的采用开源技术的 systemd 233 init 系统已普遍可用。
@@ -25,7 +25,7 @@ systemd 233 将很快进入各个发行版。它有很多改进，如果想确�
 3 月 6 日，针对 CentOS 7 系列操作系统的用户，发布了一个重要的 Linux 核心安全补丁，以解决最近发现的 4 个漏洞。
 
 
-这 4 个漏洞分别是： [CVE-2016-8630](https://www.redhat.com/security/Asserts/Images//cve/CVE-2016-8630.html)， [CVE-2016-8655](https://www.redhat.com/security/Asserts/Images//cve/CVE-2016-8655.html),[CVE-2016-9083](https://www.redhat.com/security/Asserts/Images//cve/CVE-2016-9083.html)，[CVE-2016-9084](https://www.redhat.com/security/Asserts/Images//cve/CVE-2016-9084.html)。
+这 4 个漏洞分别是： [CVE-2016-8630](https://www.redhat.com/security/data/cve/CVE-2016-8630.html)， [CVE-2016-8655](https://www.redhat.com/security/data/cve/CVE-2016-8655.html),[CVE-2016-9083](https://www.redhat.com/security/data/cve/CVE-2016-9083.html)，[CVE-2016-9084](https://www.redhat.com/security/data/cve/CVE-2016-9084.html)。
 
 
 CentOS 7 系列操作系统的所有用户都应尽快更新到新核心版本。该问题还影响到 Red Hat Enterprise Linux Desktop 7，Red Hat Enterprise Linux HPC Node 7，Red Hat Enterprise Linux Server 7，Red Hat Enterprise Linux Server TUS 7.3，以及 Red Hat Enterprise Linux Workstation 7 等系统的用户。

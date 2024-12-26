@@ -7,7 +7,7 @@ tags:	[linuxcn,LMDE,Linux Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/13/132621gz9v9c49k349ebe4.jpg)
+![](/Asserts/Images/album/202204/13/132621gz9v9c49k349ebe4.jpg)
 
 
 
@@ -58,7 +58,7 @@ LMDE 使用的一款修改版的 Debian 安装器。它不是 Calamares 。普�
 #### 第一印象
 
 
-![Linux Mint Debian Edition 5  Desktop](/Asserts/Images//attachment/album/202204/13/132630q56j5tomrm8b5om6.jpg)
+![Linux Mint Debian Edition 5  Desktop](/Asserts/Images/album/202204/13/132630q56j5tomrm8b5om6.jpg)
 
 
 如果你熟悉 Linux Mint 早期的 Cinnamon 桌面，那么你不会在这个 Debian 版本中找到什么不同。它们是一样的。如果你是第一次使用 Linux Mint 的 Cinnamon 桌面环境，那么在你完成你的安装后，你会看到一个漂亮而干净的桌面。
@@ -114,7 +114,7 @@ Linux Mint（不仅仅是 Debian 版本）的优势之一是它的预装的应�
 在空闲状态下，它消耗 750 MB 的内存和 2% 的 CPU 。
 
 
-![Performance During the light workload](/Asserts/Images//attachment/album/202204/13/132630yjj1vs0omdfv9zx5.jpg)
+![Performance During the light workload](/Asserts/Images/album/202204/13/132630yjj1vs0omdfv9zx5.jpg)
 
 
 接下来，我使用下面的任务让它完成繁重的工作负载：
@@ -131,7 +131,7 @@ Linux Mint（不仅仅是 Debian 版本）的优势之一是它的预装的应�
 在上述的工作负载中，它消耗了大约 1.5 GB 的内存和 14% 的 CPU 。显然，大部分的资源都被 Firefox 消耗了。
 
 
-![Performance During heavy workload](/Asserts/Images//attachment/album/202204/13/132630dmk6ymycy2ykhy5y.jpg)
+![Performance During heavy workload](/Asserts/Images/album/202204/13/132630dmk6ymycy2ykhy5y.jpg)
 
 
 在我看来，这是一个完美的指标，而且对旧硬件进行了很好的优化分配。上述指标是在物理机系统上测量的。

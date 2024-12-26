@@ -7,7 +7,7 @@ tags:	[linuxcn,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/12/143653xak3qhqn6znmhslh.jpg)
+![](/Asserts/Images/album/201905/12/143653xak3qhqn6znmhslh.jpg)
 
 
 作为全球头号浏览器，谷歌浏览器不断发展，谷歌一直在寻求提高所有平台的可用性，安全性和性能的方法。最近，谷歌开始研究一项新功能，该功能将阻止网站接管 Chromium 中的后退按钮。

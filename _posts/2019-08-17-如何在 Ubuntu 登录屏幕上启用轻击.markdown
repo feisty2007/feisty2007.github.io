@@ -30,7 +30,7 @@ tags:	[linuxcn,轻击,点击]
 ### 在 Ubuntu 登录屏幕上启用轻击
 
 
-![](/Asserts/Images//attachment/album/201908/03/112054nx9j2ayl99y12y5a.jpg)
+![](/Asserts/Images/album/201908/03/112054nx9j2ayl99y12y5a.jpg)
 
 
 你必须在这里使用终端和一些命令。我希望你能够适应。

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,jQuery,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/21/182720teoe933awmife9wh.jpg)
+![](/Asserts/Images/album/202205/21/182720teoe933awmife9wh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/21/182729elsb0uof5s9talos.jpg)
+![](/Asserts/Images/album/202205/21/182729elsb0uof5s9talos.jpg)
 
 
 ### 谷歌的人工智能 PaLM 能够懂你的玩笑
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,jQuery,Ubuntu]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/21/182743ctqmbsbux4xqoumm.jpg)
+![](/Asserts/Images/album/202205/21/182743ctqmbsbux4xqoumm.jpg)
 
 
 ### 英国政府网站 GOV.UK 移除 jQuery 以改进性能
@@ -60,7 +60,7 @@ jQuery 诞生于 15 年前，是最广泛使用的 JS 库之一，数据显示 2
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/21/182759kqznsygxvxzfl49p.jpg)
+![](/Asserts/Images/album/202205/21/182759kqznsygxvxzfl49p.jpg)
 
 
 ### Ubuntu 正在努力集成微软的 Azure AD

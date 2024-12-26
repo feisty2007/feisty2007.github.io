@@ -7,7 +7,7 @@ tags:	[linuxcn,编程,表情符]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/07/141230yv2s53itmiw45ots.jpg)
+![](/Asserts/Images/album/202304/07/141230yv2s53itmiw45ots.jpg)
 
 
 
@@ -55,7 +55,7 @@ $ wget https://github.com/emojicode/emojicode/releases/download/v1.0-beta.2/Emoj
 Emojicode 的安装过程提供了有用的反馈。
 
 
-![The emojicode installation procedure provides useful feedback along the way.](/Asserts/Images//attachment/album/202304/07/141304mo66ec077m780kxa.jpg)
+![The emojicode installation procedure provides useful feedback along the way.](/Asserts/Images/album/202304/07/141304mo66ec077m780kxa.jpg)
 
 
 现在，你已经安装好了，是时候开始编写代码了！

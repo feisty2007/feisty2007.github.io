@@ -7,7 +7,7 @@ tags:	[linuxcn,Wine]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/27/203126n528251218r251tj.jpg)
+![](/Asserts/Images/album/201807/27/203126n528251218r251tj.jpg)
 
 
 Wine（一种 Linux 上的程序，不是你喝的葡萄酒）是在类 Unix 操作系统上运行 Windows 程序的一个自由开源的兼容层。创建于 1993 年，借助它你可以在 Linux 和 macOS 操作系统上运行很多 Windows 程序，虽然有时可能还需要做一些小修改。现在，Wine 项目已经发布了 3.0 版本，这个版本兼容 Android 设备。
@@ -52,25 +52,25 @@ Wine 只是一个兼容层，而不是一个全功能的仿真器，因此，你
 1、 打开你手机上的设置，然后选择安全选项。
 
 
-![wine-android-security](/Asserts/Images//attachment/album/201807/27/203127orx496bwud9597dl.png "wine-android-security")
+![wine-android-security](/Asserts/Images/album/201807/27/203127orx496bwud9597dl.png "wine-android-security")
 
 
 2、 向下拉并点击 “Unknown Sources” 的开关。
 
 
-![wine-android-unknown-sources](/Asserts/Images//attachment/album/201807/27/203133e1jgzacyag1aaggg.jpg "wine-android-unknown-sources")
+![wine-android-unknown-sources](/Asserts/Images/album/201807/27/203133e1jgzacyag1aaggg.jpg "wine-android-unknown-sources")
 
 
 3、 接受风险警告。
 
 
-![wine-android-unknown-sources-warning](/Asserts/Images//attachment/album/201807/27/203136a5q2xjlibl72kspc.png "wine-android-unknown-sources-warning")
+![wine-android-unknown-sources-warning](/Asserts/Images/album/201807/27/203136a5q2xjlibl72kspc.png "wine-android-unknown-sources-warning")
 
 
 4、 打开 [Wine 安装站点](https://dl.winehq.org/wine-builds/android/)，并点选列表中的第一个选择框。下载将自动开始。
 
 
-![wine-android-download-button](/Asserts/Images//attachment/album/201807/27/203138xwx8j838003666y6.png "wine-android-download-button")
+![wine-android-download-button](/Asserts/Images/album/201807/27/203138xwx8j838003666y6.png "wine-android-download-button")
 
 
 5、 下载完成后，从下载目录中打开它，或者下拉通知菜单并点击这里的已完成的下载。
@@ -79,19 +79,19 @@ Wine 只是一个兼容层，而不是一个全功能的仿真器，因此，你
 6、 开始安装程序。它将提示你它需要访问和记录音频，并去修改、删除、和读取你的 SD 卡。你也可为程序中使用的一些 App 授予访问音频的权利。
 
 
-![wine-android-app-access](/Asserts/Images//attachment/album/201807/27/203143bkkh99l111a96jgt.jpg "wine-android-app-access")
+![wine-android-app-access](/Asserts/Images/album/201807/27/203143bkkh99l111a96jgt.jpg "wine-android-app-access")
 
 
 7、 安装完成后，点击程序图标去打开它。
 
 
-![wine-android-icon-small](/Asserts/Images//attachment/album/201807/27/203145b6u3i29nghh2f4ni.jpg "wine-android-icon-small")
+![wine-android-icon-small](/Asserts/Images/album/201807/27/203145b6u3i29nghh2f4ni.jpg "wine-android-icon-small")
 
 
 当你打开 Wine 后，它模仿的是 Windows 7 的桌面。
 
 
-![wine-android-desktop](/Asserts/Images//attachment/album/201807/27/203148w3vudpnokbo866yb.png "wine-android-desktop")
+![wine-android-desktop](/Asserts/Images/album/201807/27/203148w3vudpnokbo866yb.png "wine-android-desktop")
 
 
 Wine 有一个缺点是，你得有一个外接键盘去进行输入。如果你在一个小屏幕上运行它，并且触摸非常小的按钮很困难，你也可以使用一个外接鼠标。
@@ -100,7 +100,7 @@ Wine 有一个缺点是，你得有一个外接键盘去进行输入。如果你
 你可以通过触摸 “开始” 按钮去打开两个菜单 —— “控制面板”和“运行”。
 
 
-![wine-android-start-button](/Asserts/Images//attachment/album/201807/27/203151e1a6w969k624kk6g.png "wine-android-start-button")
+![wine-android-start-button](/Asserts/Images/album/201807/27/203151e1a6w969k624kk6g.png "wine-android-start-button")
 
 
 ### 使用 Wine 来工作
@@ -112,7 +112,7 @@ Wine 有一个缺点是，你得有一个外接键盘去进行输入。如果你
 使用 “运行”，你可以打开一个对话框去运行命令。例如，通过输入 `iexplore` 来启动 “Internet Explorer”。
 
 
-![wine-android-run](/Asserts/Images//attachment/album/201807/27/203153us1zgl14s4afd4co.png "wine-android-run")
+![wine-android-run](/Asserts/Images/album/201807/27/203153us1zgl14s4afd4co.png "wine-android-run")
 
 
 ### 在 Wine 中安装程序

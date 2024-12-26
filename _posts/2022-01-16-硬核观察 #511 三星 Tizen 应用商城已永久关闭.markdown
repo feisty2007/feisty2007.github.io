@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,Python,Tizen]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/09/180745jood56e566t66z4t.jpg)
+![](/Asserts/Images/album/202201/09/180745jood56e566t66z4t.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/09/180758fs6616vtf08dwunz.jpg)
+![](/Asserts/Images/album/202201/09/180758fs6616vtf08dwunz.jpg)
 
 
 ### 三星 Tizen 应用商城已永久关闭
@@ -27,7 +27,7 @@ tags:	[linuxcn,内核,Python,Tizen]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/09/180807zaa7fsc5n4c7nsg8.jpg)
+![](/Asserts/Images/album/202201/09/180807zaa7fsc5n4c7nsg8.jpg)
 
 
 ### TIOBE 宣布年度最佳编程语言是 Python
@@ -44,7 +44,7 @@ TIOBE 发布公告宣布了这一消息，该奖项被授予在一年内获得�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/09/180824p6j6cqgpdwdcjjoz.jpg)
+![](/Asserts/Images/album/202201/09/180824p6j6cqgpdwdcjjoz.jpg)
 
 
 ### “快速内核头文件”项目 V2 进一步将构建速度提高了 88%

@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,桌面]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/13/103642ugkq5az15ppkqg1o.jpg)
+![](/Asserts/Images/album/202206/13/103642ugkq5az15ppkqg1o.jpg)
 
 
 最近，The Register 的 Liam Proven 写了一篇关于 [最恼人的桌面 Linux 发行版](/article-14678-1.html) 的文章。他启发我写了这篇文章。

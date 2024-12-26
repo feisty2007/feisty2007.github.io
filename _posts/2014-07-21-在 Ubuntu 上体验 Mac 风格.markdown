@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Mac,Zukimac]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/21/135829vcjwqefrdyj8ufc8.jpeg)
+![](/Asserts/Images/album/201407/21/135829vcjwqefrdyj8ufc8.jpeg)
 
 
 虽然 Ubuntu Unity 本身已经是一款很漂亮的桌面了，但世界各地还是有很人被 Mac OS X 的外观所震撼。如果您恰好是其中之一，要获得 Mac OS X 一样外观体验，是不需要丢掉 Ubuntu 的，相反，您可以对它来个美化改造，**使 Ubuntu 14.04 看起来就像 Mac OS X**。
@@ -27,7 +27,7 @@ tags:	[linuxcn,Ubuntu,Mac,Zukimac]
 就这些操作。Zukimac 提供了一些基本的 Mac OS 系统的外观和视窗感觉。下面是带有默认的 OS X Maveric 壁纸的外观。
 
 
-![Make Ubuntu 14.04 look like Mac OS X](/Asserts/Images//attachment/album/201407/21/135830nm4grmmg3wk50g50.jpeg)
+![Make Ubuntu 14.04 look like Mac OS X](/Asserts/Images/album/201407/21/135830nm4grmmg3wk50g50.jpeg)
 
 
 ### Ubuntu 14.04 中获得更多 Mac 体验

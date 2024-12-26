@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/201510/15/230711a38c36kbkb6to242.jpg)
+![](/Asserts/Images/album/201510/15/230711a38c36kbkb6to242.jpg)
 
 
 <ruby> 树莓派 <rp>  （ </rp> <rt>  Raspberry Pi </rt> <rp>  ） </rp></ruby>是 Raspberry Pi Foundation 推出的迷你电脑，它只有信用卡大小，但可以完成一台普通 PC 能完成的大部分工作，并且价格很便宜，是电脑爱好者的不二选择，如果你是一名 Linuxer 更应该拥有一台这样的迷你电脑。
@@ -35,13 +35,13 @@ Raspberry Pi 到底能拿来做什么呢？它的玩法多的数不清了，因�
 下面是几张引用文章内的图：
 
 
-![](/Asserts/Images//attachment/album/201305/31/100902rmu4rm3uemxruw55.jpg)
+![](/Asserts/Images/album/201305/31/100902rmu4rm3uemxruw55.jpg)
 
 
-![](/Asserts/Images//attachment/album/201305/31/100904mgrbvrgafragqcfj.jpg)
+![](/Asserts/Images/album/201305/31/100904mgrbvrgafragqcfj.jpg)
 
 
-![](/Asserts/Images//attachment/album/201311/07/230232hzveaaihvovvbbl8.jpg)
+![](/Asserts/Images/album/201311/07/230232hzveaaihvovvbbl8.jpg)
 
 
 ### 操作系统的选择
@@ -327,7 +327,7 @@ $ vncviewer address:port
 然后输入密码就可以了
 
 
-![小屏幕显示](/Asserts/Images//attachment/album/201510/15/232811muvzziuutsrzvuz2.png)
+![小屏幕显示](/Asserts/Images/album/201510/15/232811muvzziuutsrzvuz2.png)
 
 
 现在我们看见这个不是全屏的，但是可以在启动 vncserver 的时候增加参数，来指定分辨率：
@@ -342,7 +342,7 @@ $ vcnserver -geometry 1920x1000
 这下就全屏了
 
 
-![全屏](/Asserts/Images//attachment/album/201510/15/232811u2lm290omldlel12.png)
+![全屏](/Asserts/Images/album/201510/15/232811u2lm290omldlel12.png)
 
 
 ### 其它用途
@@ -386,13 +386,13 @@ tmux attach
 下面几张图，是笔者在学校折腾的时候拍的：
 
 
-![](/Asserts/Images//attachment/album/201510/15/232812aszabccsqyppspar.jpg)
+![](/Asserts/Images/album/201510/15/232812aszabccsqyppspar.jpg)
 
 
-![](/Asserts/Images//attachment/album/201510/15/232812yjsu5nkjub4u4d6n.jpg)
+![](/Asserts/Images/album/201510/15/232812yjsu5nkjub4u4d6n.jpg)
 
 
-![](/Asserts/Images//attachment/album/201510/15/232813w8e86oazo66b5065.jpg)
+![](/Asserts/Images/album/201510/15/232813w8e86oazo66b5065.jpg)
 
 
 ### 参考资料

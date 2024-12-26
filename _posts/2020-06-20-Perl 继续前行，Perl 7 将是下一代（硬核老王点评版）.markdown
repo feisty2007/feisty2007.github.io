@@ -7,7 +7,7 @@ tags:	[linuxcn,Perl]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/25/222345bm22b7uvsb2vb636.jpg)
+![](/Asserts/Images/album/202006/25/222345bm22b7uvsb2vb636.jpg)
 
 
 近日[召开的 Perl 大会是在云端举办的](https://perlconference.us/tpc-2020-cloud/)，在会上 Sawyer X 宣布 Perl 有了新的前进计划。Perl 7 的开发工作已经在进行中，但不会有代码或语法上的巨大变化。它是默认带有现代行为的 Perl 5，将为以后更大的变化奠定基础。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Ansible,配置管理,IT自动化]
 ---
 
 
-![](/Asserts/Images//attachment/album/201411/13/160434wtgc5zv1ggh10qki.png)
+![](/Asserts/Images/album/201411/13/160434wtgc5zv1ggh10qki.png)
 
 
 今天我来谈谈 ansible，一个由 Python 编写的强大的配置管理解决方案。尽管市面上已经有很多可供选择的配置管理解决方案，但他们各有优劣，而 ansible 的特点就在于它的简洁。让 ansible 在主流的配置管理系统中与众不同的一点便是，它并不需要你在想要配置的每个节点上安装自己的组件。同时提供的一个优点在于，如果需要的话，你可以在不止一个地方控制你的整个基础架构。最后一点是它的正确性，或许这里有些争议，但是我认为在大多数时候这仍然可以作为它的一个优点。说得足够多了，让我们来着手在 RHEL/CentOS 和基于 Debian/Ubuntu 的系统中安装和配置 Ansible。
@@ -526,7 +526,7 @@ PLAY RECAP ********************************************************************
       git: repo=https://github.com/ConradIrwin/showterm.io dest=/root/showterm
     - name: Initdb
       command: service postgresql initdb
-               creates=/var/lib/pgsql/Asserts/Images//postgresql.conf
+               creates=/var/lib/pgsql/data/postgresql.conf
 
     - name: Start PostgreSQL and enable at boot
       service: name=postgresql
@@ -555,7 +555,7 @@ PLAY RECAP ********************************************************************
   remote_user: root
   tasks:
     - name: database.yml
-      template: src=database.yml dest=/root/showterm/config/Asserts/Images/base.yml
+      template: src=database.yml dest=/root/showterm/config/database.yml
 - hosts: showtermServers
   remote_user: root
   tasks:

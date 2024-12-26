@@ -7,7 +7,7 @@ tags:	[linuxcn,发行版,版本]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/28/224918l0adwv0a6vfii1sn.jpg)
+![](/Asserts/Images/album/201804/28/224918l0adwv0a6vfii1sn.jpg)
 
 
 如果你加入了一家新公司，要为开发团队安装所需的软件并重启服务，这个时候首先要弄清楚它们运行在什么发行版以及哪个版本的系统上，你才能正确完成后续的工作。作为系统管理员，充分了解系统信息是首要的任务。

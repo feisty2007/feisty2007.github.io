@@ -7,7 +7,7 @@ tags:	[linuxcn,字幕]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/19/105843wbyojjof4yypyo6b.jpg)
+![](/Asserts/Images/album/202302/19/105843wbyojjof4yypyo6b.jpg)
 
 
 
@@ -72,7 +72,7 @@ $ fuzzpak LiveCaptions
 当 Live Captions 首次启动时，你会看到一个配置页面：
 
 
-![preferences in Live Captions.](/Asserts/Images//attachment/album/202302/19/105924bdacjawgykzjyllk.jpg)
+![preferences in Live Captions.](/Asserts/Images/album/202302/19/105924bdacjawgykzjyllk.jpg)
 
 
 你可以设置字体、字体大小、颜色等。默认情况下，Live Captions 不是完全确定的文本会以更深的颜色呈现（LCTT 校注：因为有些语音识别结果不能确保完全正确）。如果你使用实时字幕是为了方便，这可能没有必要，但如果你听不到视频的声音，那么知道哪些文本可能不正确是有用的。

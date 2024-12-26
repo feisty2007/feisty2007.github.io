@@ -7,7 +7,7 @@ tags:	[linuxcn,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/14/152648rb7ucwgbcyg7w2qu.jpg)
+![](/Asserts/Images/album/202006/14/152648rb7ucwgbcyg7w2qu.jpg)
 
 
 #### 微软预计两个月内发布首款 Android 手机

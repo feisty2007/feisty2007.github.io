@@ -7,7 +7,7 @@ tags:	[linuxcn,SSD,btrfs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201510/15/230357ybnq0nw0bjyjni9i.jpg)
+![](/Asserts/Images/album/201510/15/230357ybnq0nw0bjyjni9i.jpg)
 
 
 ### 优化挂载参数

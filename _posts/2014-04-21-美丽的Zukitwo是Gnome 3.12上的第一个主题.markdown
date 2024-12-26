@@ -7,7 +7,7 @@ tags:	[linuxcn,Gnome,主题]
 ---
 
 
-![](/Asserts/Images//attachment/album/201404/16/104412htfmzml287q72l2y.jpg)
+![](/Asserts/Images/album/201404/16/104412htfmzml287q72l2y.jpg)
 
 
 **Zukitwo是一个为Gnome 3.12 设计的美丽主题，它利用了GTK2引擎Murrine和GTK2 pixbuf引擎，目前的版本是2014.03.29。**

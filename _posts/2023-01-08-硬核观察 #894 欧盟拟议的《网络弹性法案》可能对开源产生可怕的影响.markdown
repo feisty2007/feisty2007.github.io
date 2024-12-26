@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,勒索,FreeBSD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/27/183526m9m3f07vcua0vmvu.jpg)
+![](/Asserts/Images/album/202301/27/183526m9m3f07vcua0vmvu.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/27/183533yx2s7wswduux7y46.jpg)
+![](/Asserts/Images/album/202301/27/183533yx2s7wswduux7y46.jpg)
 
 
 ### 欧盟拟议的《网络弹性法案》可能对开源产生可怕的影响
@@ -35,7 +35,7 @@ tags:	[linuxcn,开源,勒索,FreeBSD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/27/183600y44xhdg2vccczvhv.jpg)
+![](/Asserts/Images/album/202301/27/183600y44xhdg2vccczvhv.jpg)
 
 
 ### 美国联邦调查局黑掉了勒索团伙
@@ -60,7 +60,7 @@ tags:	[linuxcn,开源,勒索,FreeBSD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/27/183619eqbhuq7uaanuab77.jpg)
+![](/Asserts/Images/album/202301/27/183619eqbhuq7uaanuab77.jpg)
 
 
 ### 2022 年 FreeBSD 没有达到筹款目标

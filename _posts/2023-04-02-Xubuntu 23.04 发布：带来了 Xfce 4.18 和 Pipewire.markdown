@@ -7,7 +7,7 @@ tags:	[linuxcn,Xubuntu,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/27/065436gwacpb44ycebctde.jpg)
+![](/Asserts/Images/album/202304/27/065436gwacpb44ycebctde.jpg)
 
 
 
@@ -38,7 +38,7 @@ Xubuntu 是最受欢迎的 Ubuntu 风味版之一，提供了极简版的 Xfce �
 ### ? Xubuntu 23.04：有什么新内容？
 
 
-![Xubuntu 23.04 的 neofetch 输出截图](/Asserts/Images//attachment/album/202304/27/065514zdxnisjxnp9xnpps.png)
+![Xubuntu 23.04 的 neofetch 输出截图](/Asserts/Images/album/202304/27/065514zdxnisjxnp9xnpps.png)
 
 
 它基于 Ubuntu 23.04 “<ruby> 月球龙虾 <rt>  Lunar Lobster </rt></ruby>”，这是一个包含许多重要更新的版本。值得注意的亮点包括以下内容：
@@ -61,7 +61,7 @@ Xubuntu 是最受欢迎的 Ubuntu 风味版之一，提供了极简版的 Xfce �
 #### 桌面环境升级
 
 
-![Xubuntu 23.04 上关于 xfce 应用程序的截图](/Asserts/Images//attachment/album/202304/27/065515xsz2xk2229xvzquq.png)
+![Xubuntu 23.04 上关于 xfce 应用程序的截图](/Asserts/Images/album/202304/27/065515xsz2xk2229xvzquq.png)
 
 
 在这个版本中，你会注意到最重要的变化是加入了 Xfce 4.18，它带来了许多新的改进，使其比前代产品更加完善。

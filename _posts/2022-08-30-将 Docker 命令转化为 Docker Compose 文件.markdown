@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/27/150501vw3eqx2xkexemmkc.jpg)
+![](/Asserts/Images/album/202208/27/150501vw3eqx2xkexemmkc.jpg)
 
 
 
@@ -100,7 +100,7 @@ services:
 
 ```
 
-![Convert Docker Run Commands Into Docker-Compose Files With Composerize](/Asserts/Images//attachment/album/202208/27/150610mh2g9xf2w9f952f0.png)
+![Convert Docker Run Commands Into Docker-Compose Files With Composerize](/Asserts/Images/album/202208/27/150610mh2g9xf2w9f952f0.png)
 
 
 现在在你的 `docker-compose.yml` 文件中复制上面几行。就这么简单！
@@ -112,7 +112,7 @@ services:
 进入 <https://www.composerize.com/>，将 `docker run` 命令粘贴到框中，你就会立即得到 `docker-compose.yml` 文件！
 
 
-![Turn Docker Run Commands Into Docker-compose Files Using Composerize](/Asserts/Images//attachment/album/202208/27/150611wws7rk5ekrzokksz.png)
+![Turn Docker Run Commands Into Docker-compose Files Using Composerize](/Asserts/Images/album/202208/27/150611wws7rk5ekrzokksz.png)
 
 
 将命令转换为 Docker Compose 文件后，到你保存 `docker-compose.yml` 文件的位置，运行以下命令来启动 Docker 应用：

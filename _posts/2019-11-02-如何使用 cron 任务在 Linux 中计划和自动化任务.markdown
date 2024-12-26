@@ -10,7 +10,7 @@ tags:	[linuxcn,cron]
 有时，你可能需要定期或以预定的时间间隔执行任务。这些任务包括备份数据库、更新系统、执行定期重新引导等。这些任务称为 “cron 任务”。cron 任务用于“自动执行的任务”，它有助于简化重复的、有时是乏味的任务的执行。cron 是一个守护进程，可让你安排这些任务，然后按指定的时间间隔执行这些任务。在本教程中，你将学习如何使用 cron 来安排任务。
 
 
-![](/Asserts/Images//attachment/album/201911/13/221859va2t4gg0amlgza00.jpg)
+![](/Asserts/Images/album/201911/13/221859va2t4gg0amlgza00.jpg)
 
 
 ### crontab 文件
@@ -25,7 +25,7 @@ crontab 即 “cron table”，是一个简单的文本文件，其中包含指�
 这些通常由需要 root 特权的 Linux 服务及关键应用程序使用。系统 crontab 文件位于 `/etc/crontab` 中，并且只能由 root 用户访问和编辑。通常用于配置系统范围的守护进程。`crontab` 文件的看起来类似如下所示：
 
 
-![etc-crontab-linux](/Asserts/Images//attachment/album/201911/13/221926siiz8jl9hzj1n001.png)
+![etc-crontab-linux](/Asserts/Images/album/201911/13/221926siiz8jl9hzj1n001.png)
 
 
 2）用户创建的 crontab 文件
@@ -304,7 +304,7 @@ m h d moy dow /path/to/script
 作为 Linux 用户，你可以控制谁有权使用 `crontab` 命令。可以使用 `/etc/cron.deny` 和 `/etc/cron.allow` 文件来控制。默认情况下，只有一个 `/etc/cron.deny` 文件，并且不包含任何条目。要限制用户使用 `crontab` 实用程序，只需将用户的用户名添加到该文件中即可。当用户添加到该文件中，并且该用户尝试运行 `crontab` 命令时，他/她将遇到以下错误。
 
 
-![restricted-cron-user](/Asserts/Images//attachment/album/201911/13/221926c78xq9bfub5nqbf5.png)
+![restricted-cron-user](/Asserts/Images/album/201911/13/221926c78xq9bfub5nqbf5.png)
 
 
 要允许用户继续使用 `crontab` 实用程序，只需从 `/etc/cron.deny` 文件中删除用户名即可。
@@ -346,7 +346,7 @@ cron 日志存储在 `/var/log/cron` 文件中。要查看 cron 日志，请运�
 # cat /var/log/cron
 ```
 
-![view-cron-log-files-linux](/Asserts/Images//attachment/album/201911/13/221927eqm44hmcoht41zcq.png)
+![view-cron-log-files-linux](/Asserts/Images/album/201911/13/221927eqm44hmcoht41zcq.png)
 
 
 要实时查看日志，请使用 `tail` 命令，如下所示：
@@ -357,7 +357,7 @@ cron 日志存储在 `/var/log/cron` 文件中。要查看 cron 日志，请运�
 # tail -f /var/log/cron
 ```
 
-![view-live-cron-logs](/Asserts/Images//attachment/album/201911/13/221927bxvexvjeewkp8lzv.png)
+![view-live-cron-logs](/Asserts/Images/album/201911/13/221927bxvexvjeewkp8lzv.png)
 
 
 ### 总结

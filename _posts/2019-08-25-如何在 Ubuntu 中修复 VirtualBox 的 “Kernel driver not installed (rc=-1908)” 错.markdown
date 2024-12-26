@@ -7,7 +7,7 @@ tags:	[linuxcn,Virtualbox]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/30/073055amfn5ihxzicuiew3.jpg)
+![](/Asserts/Images/album/201908/30/073055amfn5ihxzicuiew3.jpg)
 
 
 我使用 Oracle VirtualBox 来测试各种 Linux 和 Unix 发行版。到目前为止，我已经在 VirtualBox 中测试了上百个虚拟机。今天，我在我的 Ubuntu 18.04 桌面上启动了 Ubuntu 18.04 服务器版虚拟机，我收到了以下错误。
@@ -26,7 +26,7 @@ as root.
 where: suplibOsInit what: 3 VERR_VM_DRIVER_NOT_INSTALLED (-1908) - The support driver is not installed. On linux, open returned ENOENT.
 ```
 
-![](/Asserts/Images//attachment/album/201908/30/073109gi5icjrtrtahtrj0.png)
+![](/Asserts/Images/album/201908/30/073109gi5icjrtrtahtrj0.png)
 
 
 *Ubuntu 中的 “Kernel driver not installed (rc=-1908)” 错误*
@@ -49,7 +49,7 @@ Interface:
 IMachine {85cd948e-a71f-4289-281e-0ca7ad48cd89}
 ```
 
-![](/Asserts/Images//attachment/album/201908/30/073110qnbkel88kjevvmlz.png)
+![](/Asserts/Images/album/201908/30/073110qnbkel88kjevvmlz.png)
 
 
 *启动期间虚拟机意外终止，退出代码为 1（0x1）*

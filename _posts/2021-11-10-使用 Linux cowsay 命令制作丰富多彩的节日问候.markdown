@@ -15,7 +15,7 @@ tags:	[linuxcn,cowsay]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/12/101540nq1nut3gzkzz1qus.jpg "Pumpkins painted for Day of the Dead")
+![](/Asserts/Images/album/202111/12/101540nq1nut3gzkzz1qus.jpg "Pumpkins painted for Day of the Dead")
 
 
 你可能听说过这样一个小程序：它能接受输入信息（比如你通过键盘输入的消息），并输出一张引用了输入消息的牛的图像。这个小程序被称为 `cowsay`，之前我们已经 [介绍](https://opensource.com/article/18/12/linux-toy-cowsay) 过了。
@@ -71,7 +71,7 @@ $ cowsay -f beetlejuice "Happy Day of the Dead!"
 
 ```
 
-![ASCII display of Beetlejuice via cowsay](/Asserts/Images//attachment/album/202111/12/101550f36433zeeaq757qe.png)
+![ASCII display of Beetlejuice via cowsay](/Asserts/Images/album/202111/12/101550f36433zeeaq757qe.png)
 
 
 *“甲壳虫汁”祝你亡灵节快乐 (CC BY-SA 4.0)*

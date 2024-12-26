@@ -7,7 +7,7 @@ tags:	[linuxcn,lnav]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/18/101616eio2v80m1v34ol2o.jpg)
+![](/Asserts/Images/album/202301/18/101616eio2v80m1v34ol2o.jpg)
 
 
 
@@ -55,7 +55,7 @@ tags:	[linuxcn,lnav]
 * 显示的日志中任何单词的 Tab 补全！!
 
 
-![lnav 在 ubuntu 中运行](/Asserts/Images//attachment/album/202301/18/101701z6w652nr663ne66p.png)
+![lnav 在 ubuntu 中运行](/Asserts/Images/album/202301/18/101701z6w652nr663ne66p.png)
 
 
 要查看上述功能的截图和了解更多信息，请访问 [本页面](http://lnav.org/features/) 。
@@ -146,7 +146,7 @@ lnav -t /var/log/syslog
 * `-n`：不使用 curses UI 运行（无头模式）。
 
 
-![lnav 在 Ubuntu 22.04 中运行](/Asserts/Images//attachment/album/202301/18/101718zmm5m02zat7momr0.jpg)
+![lnav 在 Ubuntu 22.04 中运行](/Asserts/Images/album/202301/18/101718zmm5m02zat7momr0.jpg)
 
 
 要进一步阅读和探索，请访问 [官方文档](https://docs.lnav.org/en/latest/intro.html)。

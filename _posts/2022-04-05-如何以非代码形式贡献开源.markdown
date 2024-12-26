@@ -15,7 +15,7 @@ tags:	[linuxcn,开源,贡献]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/26/190136sd2nmv19m5vn905m.jpg)
+![](/Asserts/Images/album/202204/26/190136sd2nmv19m5vn905m.jpg)
 
 
 你是如何参与开源贡献的呢？我们组织了一个投票，结果如下：

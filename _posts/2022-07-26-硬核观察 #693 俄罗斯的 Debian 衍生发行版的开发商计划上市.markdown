@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,RISC-V]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/10/200421lq00lsbrzyrss6f5.jpg)
+![](/Asserts/Images/album/202207/10/200421lq00lsbrzyrss6f5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/10/200429cbcjw77qrrrl1za8.jpg)
+![](/Asserts/Images/album/202207/10/200429cbcjw77qrrrl1za8.jpg)
 
 
 ### 俄罗斯的 Debian 衍生发行版的开发商计划上市
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,RISC-V]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/10/200438rw46y6n64agm0336.jpg)
+![](/Asserts/Images/album/202207/10/200438rw46y6n64agm0336.jpg)
 
 
 ### KDE Plasma 5.26 有望使用 C++20 进行开发
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,RISC-V]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/10/200452dmennn82wxb6wn8b.jpg)
+![](/Asserts/Images/album/202207/10/200452dmennn82wxb6wn8b.jpg)
 
 
 ### RISC-V 仅用 12 年达成百亿核心里程碑

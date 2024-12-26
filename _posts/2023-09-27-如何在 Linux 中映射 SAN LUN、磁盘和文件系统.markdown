@@ -7,7 +7,7 @@ tags:	[linuxcn,LUN,SAN]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/03/091608o1ggrda4gnca98dl.jpg)
+![](/Asserts/Images/album/202309/03/091608o1ggrda4gnca98dl.jpg)
 
 
 对于某些需求，你可能需要找到映射到逻辑单元号（LUN）和文件系统（FS）的块设备，以进行文件系统扩展或灾难恢复（DR）活动。
@@ -67,7 +67,7 @@ sh block_device_mapping_with_LUN_FS.sh
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/03/092112n856hjxzo8s6fd5x.jpg)
+![](/Asserts/Images/album/202309/03/092112n856hjxzo8s6fd5x.jpg)
 
 
 **注意：** 在上面的输出中，设备 `sda` 不会显示任何 LUN 信息，因为它是从 VMWare 端添加的虚拟磁盘，没有任何 LUN。其他 3 个磁盘是从存储映射的，这就是我们能够看到 LUN 信息的原因。
@@ -94,7 +94,7 @@ sda --> /opt
 sda --> /tmp
 sda --> /var
 sda --> /home
-sdb --> /Asserts/Images/ -->      0x3600d0230000000000e1140463955737c
+sdb --> /data -->      0x3600d0230000000000e1140463955737c
 sdc --> /app -->      0x3600d0230000000000e114046395577cd
 sdd --> /backup -->      0x3600d0230000000000e11404639558cc5
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,脚本,参数]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/27/092854nrvazffgzfnqaxfw.png)
+![](/Asserts/Images/album/201810/27/092854nrvazffgzfnqaxfw.png)
 
 
 你编写或维护过有意义的 bash 脚本吗？如果回答是，那么你可能希望它们以标准且健壮的方式接收命令行参数。Fedora 最近得到了[一个很好的附加组件](https://argbash.readthedocs.io/)，它可以帮助你生成更好的脚本。不用担心，它不会花费你很多时间或精力。

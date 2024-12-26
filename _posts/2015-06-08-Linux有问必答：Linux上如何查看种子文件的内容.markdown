@@ -18,7 +18,7 @@ tags:	[linuxcn,BitTorrent]
 torrent文件（也就是扩展名为**.torrent**的文件）是BitTorrent元数据文件，里面存储了BitTorrent客户端用来从BitTorrent点对点网络下载共享文件的信息（如，追踪器URL、文件列表、大小、校验和、创建日期等）。在单个torrent文件里面，可以列出一个或多个文件用于共享。
 
 
-![](/Asserts/Images//attachment/album/201506/07/082251p294kjabaururbab.png)
+![](/Asserts/Images/album/201506/07/082251p294kjabaururbab.png)
 
 
 torrent文件内容由BEncode编码为BitTorrent数据序列化格式，因此，要查看torrent文件的内容，你需要相应的解码器。
@@ -79,7 +79,7 @@ $ dumptorrent <torrent-file>
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/07/082254zauahloqbguak3hh.jpg)
+![](/Asserts/Images/album/201506/07/082254zauahloqbguak3hh.jpg)
 
 
 要查看torrent的完整内容，请添加“-v”选项。它会打印更多关于torrent的详细信息，包括信息散列、片长度、创建日期、创建者，以及完整的声明列表。
@@ -91,7 +91,7 @@ $ dumptorrent -v <torrent-file>
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/07/082256fzeqayk0pqqqe2ya.jpg)
+![](/Asserts/Images/album/201506/07/082256fzeqayk0pqqqe2ya.jpg)
 
 
 

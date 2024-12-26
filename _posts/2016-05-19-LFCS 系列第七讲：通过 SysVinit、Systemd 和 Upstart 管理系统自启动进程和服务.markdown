@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS,SysVinit,Systemd,Upstart]
 几个月前， Linux 基金会宣布 LFCS (Linux 基金会认证系统管理员) 认证诞生了，这个令人兴奋的新计划定位于让来自全球各地的初级到中级的 Linux 系统管理员得到认证。这其中包括维护已经在运行的系统和服务的能力、第一手的问题查找和分析能力、以及决定何时向开发团队提交问题的能力。
 
 
-![Linux Foundation Certified Sysadmin – Part 7](/Asserts/Images//attachment/album/201605/19/220703znvejpnejn93vp67.png)
+![Linux Foundation Certified Sysadmin – Part 7](/Asserts/Images/album/201605/19/220703znvejpnejn93vp67.png)
 
 
 *第七讲： Linux 基金会认证系统管理员*
@@ -33,7 +33,7 @@ tags:	[linuxcn,LFCS,SysVinit,Systemd,Upstart]
 Linux 系统的启动程序包括多个阶段，每个阶段由一个不同的图示块表示。下面的图示简要总结了启动过程以及所有包括的主要组件。
 
 
-![Linux Boot Process](/Asserts/Images//attachment/album/201605/19/220704vq89jz89hi79mqm1.png)
+![Linux Boot Process](/Asserts/Images/album/201605/19/220704vq89jz89hi79mqm1.png)
 
 
 *Linux 启动过程*
@@ -68,7 +68,7 @@ MBR 是位于 BIOS 设置中标记为可启动磁盘上的第一个扇区，大�
 
 ```
 
-![Backup MBR in Linux](/Asserts/Images//attachment/album/201605/19/220706dqzkk0hg99p90zhg.png)
+![Backup MBR in Linux](/Asserts/Images/album/201605/19/220706dqzkk0hg99p90zhg.png)
 
 
 *在 Linux 中备份 MBR*
@@ -83,7 +83,7 @@ MBR 是位于 BIOS 设置中标记为可启动磁盘上的第一个扇区，大�
 
 ```
 
-![Restore MBR in Linux](/Asserts/Images//attachment/album/201605/19/220708qh26the8c820e270.png)
+![Restore MBR in Linux](/Asserts/Images/album/201605/19/220708qh26the8c820e270.png)
 
 
 *在 Linux 中恢复 MBR*
@@ -123,7 +123,7 @@ MBR 是位于 BIOS 设置中标记为可启动磁盘上的第一个扇区，大�
 init 和 systemd 都是管理其它守护进程的守护进程（后台进程），它们总是最先启动（系统引导时），最后结束（系统关闭时）。
 
 
-![Systemd and Init](/Asserts/Images//attachment/album/201605/19/220710s7dekedg5y5odeys.png)
+![Systemd and Init](/Asserts/Images/album/201605/19/220710s7dekedg5y5odeys.png)
 
 
 *Systemd 和 Init*
@@ -190,7 +190,7 @@ id:2:initdefault:
 最后一个命令会重启系统，并使它在下一次引导时进入指定的运行等级，并会执行保存在 /etc/rc[runlevel].d 目录中的脚本以决定应该启动什么服务、不应该启动什么服务。例如，在下面的系统中运行等级 2。
 
 
-![Change Runlevels in Linux](/Asserts/Images//attachment/album/201605/19/220717k99keazaefmaa9sr.jpg)
+![Change Runlevels in Linux](/Asserts/Images/album/201605/19/220717k99keazaefmaa9sr.jpg)
 
 
 *在 Linux 中更改运行等级*
@@ -216,7 +216,7 @@ id:2:initdefault:
 
 ```
 
-![Listing Runlevel Configuration](/Asserts/Images//attachment/album/201605/19/220718e0ziipbi0p08vwoi.png)
+![Listing Runlevel Configuration](/Asserts/Images/album/201605/19/220718e0ziipbi0p08vwoi.png)
 
 
 *列出运行等级配置*
@@ -248,7 +248,7 @@ id:2:initdefault:
 
 ```
 
-![在 Linux 中启用/停用服务Enable Disable Services in Linux](/Asserts/Images//attachment/album/201605/19/220720yi9b3yfi8mkq8sy8.png)
+![在 Linux 中启用/停用服务Enable Disable Services in Linux](/Asserts/Images/album/201605/19/220720yi9b3yfi8mkq8sy8.png)
 
 
 *启用/停用服务*
@@ -272,7 +272,7 @@ id:2:initdefault:
 
 ```
 
-![查看运行中服务的运行等级Check Runlevel of Service Running](/Asserts/Images//attachment/album/201605/19/220723kkwn3antwgwgihph.png)
+![查看运行中服务的运行等级Check Runlevel of Service Running](/Asserts/Images/album/201605/19/220723kkwn3antwgwgihph.png)
 
 
 *查看运行中服务的运行等级*
@@ -285,7 +285,7 @@ id:2:initdefault:
 
 ```
 
-![Sysv 运行等级配置SysV Runlevel Config](/Asserts/Images//attachment/album/201605/19/220727xenennd8x0nom838.png)
+![Sysv 运行等级配置SysV Runlevel Config](/Asserts/Images/album/201605/19/220727xenennd8x0nom838.png)
 
 
 *Sysv 运行等级配置*
@@ -301,7 +301,7 @@ id:2:initdefault:
 
 ```
 
-![验证服务运行等级Verify Service Runlevel](/Asserts/Images//attachment/album/201605/19/220731voz9eughblhu3hhz.png)
+![验证服务运行等级Verify Service Runlevel](/Asserts/Images/album/201605/19/220731voz9eughblhu3hhz.png)
 
 
 *验证服务运行等级*
@@ -328,7 +328,7 @@ systemd 是另外一个被多种主流 Linux 发行版采用的服务和系统�
 
 ```
 
-![在 Linux 中查看运行中的进程Check All Running Processes in Linux](/Asserts/Images//attachment/album/201605/19/220738ljodjop7t3d39924.png)
+![在 Linux 中查看运行中的进程Check All Running Processes in Linux](/Asserts/Images/album/201605/19/220738ljodjop7t3d39924.png)
 
 
 *查看运行中的进程*
@@ -358,7 +358,7 @@ LOAD 一列显示了单元（UNIT 列，显示服务或者由 systemd 维护的�
 
 ```
 
-![查看 Linux 服务状态Check Linux Service Status](/Asserts/Images//attachment/album/201605/19/220741u2qzr2dgp1y012pp.png)
+![查看 Linux 服务状态Check Linux Service Status](/Asserts/Images/album/201605/19/220741u2qzr2dgp1y012pp.png)
 
 
 *查看服务状态*
@@ -383,7 +383,7 @@ LOAD 一列显示了单元（UNIT 列，显示服务或者由 systemd 维护的�
 
 ```
 
-![启动停止服务](/Asserts/Images//attachment/album/201605/19/220752nolmn6lblbz2l96o.jpg)
+![启动停止服务](/Asserts/Images/album/201605/19/220752nolmn6lblbz2l96o.jpg)
 
 
 *启动停止服务*
@@ -405,7 +405,7 @@ LOAD 一列显示了单元（UNIT 列，显示服务或者由 systemd 维护的�
 启用或停用某服务随系统启动包括在 /etc/systemd/system/multi-user.target.wants 目录添加或者删除符号链接。
 
 
-![启用或停用服务](/Asserts/Images//attachment/album/201605/19/220803gv0y99jy0w8j05lw.jpg)
+![启用或停用服务](/Asserts/Images/album/201605/19/220803gv0y99jy0w8j05lw.jpg)
 
 
 *启用或停用服务*

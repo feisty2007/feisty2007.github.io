@@ -7,7 +7,7 @@ tags:	[linuxcn,TypeScript,AngularJS,JavaScript]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/02/093750mfzzqy3hdzd8ylhy.jpg)
+![](/Asserts/Images/album/201609/02/093750mfzzqy3hdzd8ylhy.jpg)
 
 
 微软终于发布了 TypeScript 2.0 的第一个 RC 版本。TypeScript 是一个简化版的 JavaScript 语言，被大量用于各种 Web 项目，包括下面提到的著名的 AngularJS 框架。

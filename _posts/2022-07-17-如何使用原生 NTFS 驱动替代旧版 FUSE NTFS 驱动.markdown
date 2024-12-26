@@ -7,7 +7,7 @@ tags:	[linuxcn,NTFS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/09/142852nbho3cvozegvbwhh.jpg)
+![](/Asserts/Images/album/202207/09/142852nbho3cvozegvbwhh.jpg)
 
 
 
@@ -36,7 +36,7 @@ tags:	[linuxcn,NTFS]
 * 支持文件和文件夹的权限管理。
 
 
-![使用 ntfs3 驱动替换 ntfs-3g 挂载 windows NTFS 分区](/Asserts/Images//attachment/album/202207/09/142412x9wzig3limxmm9lm.jpg)
+![使用 ntfs3 驱动替换 ntfs-3g 挂载 windows NTFS 分区](/Asserts/Images/album/202207/09/142412x9wzig3limxmm9lm.jpg)
 
 
 ### 如何使用 NTFS3 驱动挂载 NTFS 卷
@@ -89,14 +89,14 @@ tags:	[linuxcn,NTFS]
 
 
 ```
-UUID=**** /Asserts/Images/ ntfs3 iocharset=utf8,umask=0,prealloc 0 0
+UUID=**** /data ntfs3 iocharset=utf8,umask=0,prealloc 0 0
 
 ```
 
 其中 `UUID=****` 是指定卷（分区）的 UUID。使用 `UUID` 的好处在于它们与磁盘挂载顺序无关。如果你在 BIOS 中改变了你的存储设备顺序，或是重新拔插了存储设备，或是一些 BIOS 可能会随机地改变存储设备的顺序，那么用 `UUID` 来表示指定卷（分区）会更有效。可以使用 `blkid` 命令查看 `UUID` 。
 
 
-`/Asserts/Images/` 是挂载位置。本示例的位置是 `/Asserts/Images/`，你需要提前创建这个文件夹。
+`/data` 是挂载位置。本示例的位置是 `/data`，你需要提前创建这个文件夹。
 
 
 后面的选项都是挂载参数，参见后文介绍。

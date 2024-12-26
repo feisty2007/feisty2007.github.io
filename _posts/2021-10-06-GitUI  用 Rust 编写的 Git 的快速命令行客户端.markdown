@@ -7,7 +7,7 @@ tags:	[linuxcn,Git]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/26/111605achvngqr6ix6vv0p.jpg)
+![](/Asserts/Images/album/202110/26/111605achvngqr6ix6vv0p.jpg)
 
 
 [基本的 Git 命令](https://itsfoss.com/basic-git-commands-cheat-sheet/) 对于通常的克隆、添加、提交推送已经足够好了。
@@ -67,7 +67,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ```
 
-![Installing Rust on Linux](/Asserts/Images//attachment/album/202110/26/111616fygydi5uwwiyyrnr.png)
+![Installing Rust on Linux](/Asserts/Images/album/202110/26/111616fygydi5uwwiyyrnr.png)
 
 
 当你被要求选择时，请选择选项 1。当脚本完成安装后，用这个命令正确设置配置：
@@ -91,7 +91,7 @@ cargo install gitui
 然后你就可以使用 GitUI了，只需在终端输入 `gitui` 就可以运行了。我做了一些示例文件来测试 Git 和 GitUI。
 
 
-![Starting gitui on terminal](/Asserts/Images//attachment/album/202110/26/111617b8l00of2zay9egoy.png)
+![Starting gitui on terminal](/Asserts/Images/album/202110/26/111617b8l00of2zay9egoy.png)
 
 
 值得一提的是，这个界面有一个快速而直观的纯键盘控制。一切都很简单，只需输入正确的字母即可将文件暂存、提交、分支或推送到 git 仓库中。
@@ -100,7 +100,7 @@ cargo install gitui
 真正让我兴奋的是，你不仅可以做之前的四个动作，还可以**编辑**每个文件，**拉取**它，**追溯** 它，在其中**导航**等等，这一切都无需退出界面。 很棒，不是吗？
 
 
-![More functions inside the interface](/Asserts/Images//attachment/album/202110/26/111617ioe13ez64fsv764s.png)
+![More functions inside the interface](/Asserts/Images/album/202110/26/111617ioe13ez64fsv764s.png)
 
 
 祝贺你! 现在你知道了如何安装 GitUI 以及它在你的终端中的样子。

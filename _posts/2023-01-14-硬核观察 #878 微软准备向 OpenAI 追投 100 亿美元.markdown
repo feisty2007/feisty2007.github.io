@@ -7,10 +7,10 @@ tags:	[linuxcn,OpenAI,Mastodon,苹果]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/11/182244dsilmusxl8sxe5te.jpg)
+![](/Asserts/Images/album/202301/11/182244dsilmusxl8sxe5te.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/11/182252qulazhfdg8uwu8a8.jpg)
+![](/Asserts/Images/album/202301/11/182252qulazhfdg8uwu8a8.jpg)
 
 
 ### 微软准备向 OpenAI 追投 100 亿美元
@@ -35,7 +35,7 @@ OpenAI 开发了聊天机器人原型 ChatGPT 和文本图像创作工具 DALL-E
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/11/182301mux6oypauc8xc6uf.jpg)
+![](/Asserts/Images/album/202301/11/182301mux6oypauc8xc6uf.jpg)
 
 
 ### Mastodon 用户活跃度下降三成
@@ -46,7 +46,7 @@ OpenAI 开发了聊天机器人原型 ChatGPT 和文本图像创作工具 DALL-E
 
 
 > 
-> **[消息来源：卫报](https://www.theguardian.com/news/Asserts/Images/blog/2023/jan/08/elon-musk-drove-more-than-a-million-people-to-mastodon-but-many-arent-sticking-around)**
+> **[消息来源：卫报](https://www.theguardian.com/news/datablog/2023/jan/08/elon-musk-drove-more-than-a-million-people-to-mastodon-but-many-arent-sticking-around)**
 > 
 > 
 > 
@@ -60,7 +60,7 @@ OpenAI 开发了聊天机器人原型 ChatGPT 和文本图像创作工具 DALL-E
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/11/182313wcoyuazkuojgrcu6.jpg)
+![](/Asserts/Images/album/202301/11/182313wcoyuazkuojgrcu6.jpg)
 
 
 ### 苹果应用商店的开发者迄今已赚取了 3200 亿美元

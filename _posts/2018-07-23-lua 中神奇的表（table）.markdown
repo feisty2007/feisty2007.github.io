@@ -7,7 +7,7 @@ tags:	[linuxcn,lua]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/05/155958zjef7jp7jpdafy6m.jpg)
+![](/Asserts/Images/album/201807/05/155958zjef7jp7jpdafy6m.jpg)
 
 
 最近在尝试配置 awesome WM，因此粗略地学习了一下 lua 。 在学习过程中，我完全被<ruby> 表 <rp>  （ </rp> <rt>  表 </rt> <rp>  ） </rp></ruby>在 lua 中的应用所镇住了。

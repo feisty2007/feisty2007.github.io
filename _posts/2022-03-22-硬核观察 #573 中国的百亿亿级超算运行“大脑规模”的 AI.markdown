@@ -7,10 +7,10 @@ tags:	[linuxcn,超算,a.out,视频流]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/12/203647sl5wwylhlwplol6l.jpg)
+![](/Asserts/Images/album/202203/12/203647sl5wwylhlwplol6l.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/12/144841v8j79l955jjdkpb6.jpg)
+![](/Asserts/Images/album/202203/12/144841v8j79l955jjdkpb6.jpg)
 
 
 ### 中国的百亿亿级超算运行“大脑规模”的 AI
@@ -27,7 +27,7 @@ tags:	[linuxcn,超算,a.out,视频流]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/12/144903go7n505grujhggnv.jpg)
+![](/Asserts/Images/album/202203/12/144903go7n505grujhggnv.jpg)
 
 
 ### BAT 共同创建新视频流标准
@@ -44,7 +44,7 @@ tags:	[linuxcn,超算,a.out,视频流]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/12/144922adpdygce0q6q0d56.jpg)
+![](/Asserts/Images/album/202203/12/144922adpdygce0q6q0d56.jpg)
 
 
 ### a.out 二进制格式迈出彻底废弃的最后一步

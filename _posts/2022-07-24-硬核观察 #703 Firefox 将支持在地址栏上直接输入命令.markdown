@@ -7,10 +7,10 @@ tags:	[linuxcn,微软,Firefox,IDC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/20/181716v43ii7377n7363j7.jpg)
+![](/Asserts/Images/album/202207/20/181716v43ii7377n7363j7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/20/181724bfz470cef89f9eee.jpg)
+![](/Asserts/Images/album/202207/20/181724bfz470cef89f9eee.jpg)
 
 
 ### Firefox 将支持在地址栏上直接输入命令
@@ -35,7 +35,7 @@ Firefox 浏览器即将引入名为 “Quick Actions” 的功能。用户可以
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/20/181737t3kkkmbxqbbbkmk5.jpg)
+![](/Asserts/Images/album/202207/20/181737t3kkkmbxqbbbkmk5.jpg)
 
 
 ### 微软再次调整销售开源软件的商店政策
@@ -60,7 +60,7 @@ Firefox 浏览器即将引入名为 “Quick Actions” 的功能。用户可以
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/20/181749mtaj0ges80tgdztj.jpg)
+![](/Asserts/Images/album/202207/20/181749mtaj0ges80tgdztj.jpg)
 
 
 ### 谷歌和甲骨文的云服务因英国高温天气而下线

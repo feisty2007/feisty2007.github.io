@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核,戴文]
 ---
 
 
-![](/Asserts/Images//attachment/album/201404/07/225004ekp4w9c744cyws0g.jpg)
+![](/Asserts/Images/album/201404/07/225004ekp4w9c744cyws0g.jpg)
 
 
 欢迎来到下一篇Linux内核文章。在本篇里，我们将讨论输入/输出端口。

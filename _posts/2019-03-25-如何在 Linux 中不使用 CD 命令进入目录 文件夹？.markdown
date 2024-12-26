@@ -7,7 +7,7 @@ tags:	[linuxcn,目录,shopt]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/31/215922psyl6azycg666dzd.jpg)
+![](/Asserts/Images/album/201903/31/215922psyl6azycg666dzd.jpg)
 
 
 众所周知，如果没有 `cd` 命令，我们无法 Linux 中切换目录。这个没错，但我们有一个名为 `shopt` 的 Linux 内置命令能帮助我们解决这个问题。
@@ -88,7 +88,7 @@ $ pwd
 /home/daygeek/Documents/daygeek
 ```
 
-![](/Asserts/Images//attachment/album/201903/31/220026dcmridinkmrcpmiz.jpg)
+![](/Asserts/Images/album/201903/31/220026dcmridinkmrcpmiz.jpg)
 
 
 是的，它正如预期的那样正常工作。
@@ -97,7 +97,7 @@ $ pwd
 而且，它在 fish shell 中工作正常，而无需对 `.bashrc` 进行任何更改。
 
 
-![](/Asserts/Images//attachment/album/201903/31/220038v1qmmdk5ev59q51o.jpg)
+![](/Asserts/Images/album/201903/31/220038v1qmmdk5ev59q51o.jpg)
 
 
 如果要暂时执行此操作，请使用以下命令（设置或取消设置）。重启系统时，它将消失。

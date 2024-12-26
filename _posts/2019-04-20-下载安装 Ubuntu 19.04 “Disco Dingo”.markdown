@@ -28,7 +28,7 @@ Ubuntu 19.04 “Disco Dingo” 已经发布，可以下载了。虽然我们已�
 但是，对于希望在计算机上安装最新版本的用户，可以尝试一下。
 
 
-![](/Asserts/Images//attachment/album/201904/29/180332njh6usdzre4v3p7e.jpg)
+![](/Asserts/Images/album/201904/29/180332njh6usdzre4v3p7e.jpg)
 
 
 #### Ubuntu 19.04 对 NVIDIA GPU 用户是个不错的更新
@@ -65,7 +65,7 @@ Martin Wimpress（来自 Canonical）在 Ubuntu MATE 19.04（Ubuntu 版本之一
 现在再次运行更新管理器时，你应该会看到 Ubuntu 19.04。
 
 
-![](/Asserts/Images//attachment/album/201904/29/180334if62yfr361ay2frv.jpg)
+![](/Asserts/Images/album/201904/29/180334if62yfr361ay2frv.jpg)
 
 
 #### 从 Ubuntu 18.04 升级到 19.04

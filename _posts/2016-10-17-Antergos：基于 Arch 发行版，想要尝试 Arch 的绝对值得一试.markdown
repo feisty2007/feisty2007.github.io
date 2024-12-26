@@ -16,7 +16,7 @@ tags:	[linuxcn,Arch Linux,Antergos]
 Antergos 是一个滚动式更新的发行版，基于 Arch Linux 提供桌面环境，是集现代化、高雅和高效率于一体的操作系统。想要挑战一下安装 Arch Linux 的用户，都可以先试一试 Antergos。
 
 
-![](/Asserts/Images//attachment/album/201610/15/222952tckavv922kevp4e8.jpg)
+![](/Asserts/Images/album/201610/15/222952tckavv922kevp4e8.jpg)
 
 
 由于是滚动式更新，当上游发布更新，你的整个系统 (包括系统组件和你已安装的应用) 就会升级到最新的滚动版本，仅仅稍微延期一点时间以确保系统的稳定。
@@ -49,13 +49,13 @@ Antergos 项目最初名字是 Cinnarch，并且只提供一个桌面环境。�
 使用 Antergos 安装介质来启动电脑。成功启动到 Live ISO 之后，你会看到与下图相似的界面。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223003au99rl9j1f6ila9k.png)
+![](/Asserts/Images/album/201610/15/223003au99rl9j1f6ila9k.png)
 
 
 点击 Install It 按钮开始 Angergos 的安装过程。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223005rw8huwu0wczjxr3z.png)
+![](/Asserts/Images/album/201610/15/223005rw8huwu0wczjxr3z.png)
 
 
 #### 选择语系
@@ -64,7 +64,7 @@ Antergos 项目最初名字是 Cinnarch，并且只提供一个桌面环境。�
 Antergos 的易于使用的图形安装器非常不错。此处选择你需要选用的语系并点击 Next 按钮继续下一步。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223007mogo40oug7j5q1o3.png)
+![](/Asserts/Images/album/201610/15/223007mogo40oug7j5q1o3.png)
 
 
 #### 系统检测
@@ -73,7 +73,7 @@ Antergos 的易于使用的图形安装器非常不错。此处选择你需要�
 请确保你有足够的磁盘空间，连接好电源以及连接到网络，点击 Next 按钮继续下一步。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223009z9ms4o657sstjx4u.png)
+![](/Asserts/Images/album/201610/15/223009z9ms4o657sstjx4u.png)
 
 
 #### 选择地点
@@ -82,7 +82,7 @@ Antergos 的易于使用的图形安装器非常不错。此处选择你需要�
 选择地点可以帮助决定系统所使用的本地化信息（locale）。通常是选择你所属的国家即可。这里有一个基于你选择的语言的位置的简短列表。点击 Next 按钮继续下一步。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223012h4t6tx00w0phhhb6.png)
+![](/Asserts/Images/album/201610/15/223012h4t6tx00w0phhhb6.png)
 
 
 #### 选择时区
@@ -91,7 +91,7 @@ Antergos 的易于使用的图形安装器非常不错。此处选择你需要�
 选择使用的时区，然后点击 Next 按钮继续下一步。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223015nq11n5pk1qcsqcl3.png)
+![](/Asserts/Images/album/201610/15/223015nq11n5pk1qcsqcl3.png)
 
 
 #### 选择键盘布局
@@ -100,7 +100,7 @@ Antergos 的易于使用的图形安装器非常不错。此处选择你需要�
 选择你选用的键盘布局，然后点击 Next 按钮继续下一步。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223017sypcp21nc1rcincl.png)
+![](/Asserts/Images/album/201610/15/223017sypcp21nc1rcincl.png)
 
 
 #### 选择桌面环境
@@ -109,7 +109,7 @@ Antergos 的易于使用的图形安装器非常不错。此处选择你需要�
 Antergos 提供了多个选择（包括 Cinnamon、Gnome、KDE、MATE、Openbox 和 Xfce），根据你的喜好进行选择即可。然后点击 Next 按钮继续下一步。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223019eneudwwmm6zuufdy.png)
+![](/Asserts/Images/album/201610/15/223019eneudwwmm6zuufdy.png)
 
 
 #### Gnome – 特性选择
@@ -118,7 +118,7 @@ Antergos 提供了多个选择（包括 Cinnamon、Gnome、KDE、MATE、Openbox 
 这里我选择了默认的 Gnome 桌面环境，此处你可以选择需要额外安装的软件以及正确的驱动程序。然后点击 Next 按钮继续下一步。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223022bihvwou9xhqfqih9.png)
+![](/Asserts/Images/album/201610/15/223022bihvwou9xhqfqih9.png)
 
 
 #### 安装类型
@@ -127,7 +127,7 @@ Antergos 提供了多个选择（包括 Cinnamon、Gnome、KDE、MATE、Openbox 
 初次安装可以选择第一个选项（ Erase disk and install Antergos ）。然后点击 Next 按钮继续下一步。（LCTT 译注，但是要注意这个选项会擦除你的整个硬盘数据，如果你是全新安装，则可以使用该选项。）
 
 
-![](/Asserts/Images//attachment/album/201610/15/223024l7yoffoj06jkkxod.png)
+![](/Asserts/Images/album/201610/15/223024l7yoffoj06jkkxod.png)
 
 
 #### 自动安装模式
@@ -144,7 +144,7 @@ Antergos 提供了多个选择（包括 Cinnamon、Gnome、KDE、MATE、Openbox 
 > 
 
 
-![](/Asserts/Images//attachment/album/201610/15/223028cdubrazfj4tbdndf.png)
+![](/Asserts/Images/album/201610/15/223028cdubrazfj4tbdndf.png)
 
 
 #### 安装设置综述
@@ -153,7 +153,7 @@ Antergos 提供了多个选择（包括 Cinnamon、Gnome、KDE、MATE、Openbox 
 确认最后的安装设置概览，如地点、时区、键盘布局、桌面环境和特性，然后点击 Next 按钮继续下一步。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223033wnrb2zp6v2bii7nv.png)
+![](/Asserts/Images/album/201610/15/223033wnrb2zp6v2bii7nv.png)
 
 
 #### 创建你的用户名
@@ -170,7 +170,7 @@ Antergos 提供了多个选择（包括 Cinnamon、Gnome、KDE、MATE、Openbox 
 * 选择“登录系统需要密码”
 
 
-![](/Asserts/Images//attachment/album/201610/15/223035bet6ak8629y6lkty.png)
+![](/Asserts/Images/album/201610/15/223035bet6ak8629y6lkty.png)
 
 
 #### 安装进程
@@ -179,7 +179,7 @@ Antergos 提供了多个选择（包括 Cinnamon、Gnome、KDE、MATE、Openbox 
 此时就是等待 Antergos 安装完成。安装好之后，移除安装介质在点击“立刻重启”按钮。
 
 
-![](/Asserts/Images//attachment/album/201610/15/223038qlpbdgpeb6llpd6p.png)
+![](/Asserts/Images/album/201610/15/223038qlpbdgpeb6llpd6p.png)
 
 
 #### 输入用户名和密码
@@ -188,13 +188,13 @@ Antergos 提供了多个选择（包括 Cinnamon、Gnome、KDE、MATE、Openbox 
 这是欢迎界面，输入密码即可登录：
 
 
-![](/Asserts/Images//attachment/album/201610/15/223046g7alpl9ezpv5w1me.png)
+![](/Asserts/Images/album/201610/15/223046g7alpl9ezpv5w1me.png)
 
 
 发行信息截图：
 
 
-![](/Asserts/Images//attachment/album/201610/15/223055njsj1h9yzvv07oyn.png)
+![](/Asserts/Images/album/201610/15/223055njsj1h9yzvv07oyn.png)
 
 
 我们还会提供了一些列循序渐进的 Linux 系统管理的相关文章。如果本文对你有用，请花费几分钟分享你得想法到评论区。

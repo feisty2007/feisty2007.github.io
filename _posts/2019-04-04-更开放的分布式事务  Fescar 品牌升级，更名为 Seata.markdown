@@ -7,7 +7,7 @@ tags:	[linuxcn,分布式,事务,Seata]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/08/113807oeer5e960fse9p66.jpg)
+![](/Asserts/Images/album/201904/08/113807oeer5e960fse9p66.jpg)
 
 
 Thanks, Fescar ️
@@ -49,7 +49,7 @@ Hello, Seata ?
 项目地址：<https://github.com/seata/seata>
 
 
-![](/Asserts/Images//attachment/album/201904/08/115159rbsh0b0r02nrss2j.jpeg)
+![](/Asserts/Images/album/201904/08/115159rbsh0b0r02nrss2j.jpeg)
 
 
 *Hello Seata!*
@@ -70,7 +70,7 @@ Seata 目前产生于阿里巴巴和蚂蚁金服的业务需求，而市场上�
 欢迎对分布式事务有热情的开发者们加入社区的共建中来，为 Seata 带来更多的想象空间。
 
 
-![](/Asserts/Images//attachment/album/201904/08/113948aqxxz8fk3qxrrkfz.jpg)
+![](/Asserts/Images/album/201904/08/113948aqxxz8fk3qxrrkfz.jpg)
 
 
 关于蚂蚁金融科技开源，点击“[此处](https://tech.antfin.com/open-source?chInfo=zx)”可了解更多。

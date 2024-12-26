@@ -7,7 +7,7 @@ tags:	[linuxcn,ASCII]
 ---
 
 
-![](/Asserts/Images//attachment/album/202106/06/210732m5oo91ao9ws33757.png)
+![](/Asserts/Images/album/202106/06/210732m5oo91ao9ws33757.png)
 
 
 想在 Linux 终端中做一些有趣的事情吗？把一张普通的图片转换成 ASCII 艺术怎么样？
@@ -19,7 +19,7 @@ tags:	[linuxcn,ASCII]
 你可能见过有人 [以 ASCII 格式显示他们发行版的标志](https://itsfoss.com/display-linux-logo-in-ascii/)，像这样：
 
 
-![](/Asserts/Images//attachment/album/202106/06/210807utc21z7so2gcvvq1.png)
+![](/Asserts/Images/album/202106/06/210807utc21z7so2gcvvq1.png)
 
 
 这很酷，对吗？把一张普通的图片转换成 ASCII 艺术怎么样？这就是在这篇文章中要探讨的问题。
@@ -34,7 +34,7 @@ tags:	[linuxcn,ASCII]
 你可能认不出我，但下面的图片中的 ASCII 版就是我。那是我的 8 位头像。
 
 
-![](/Asserts/Images//attachment/album/202106/06/210807a58im8u86mm98xtj.png)
+![](/Asserts/Images/album/202106/06/210807a58im8u86mm98xtj.png)
 
 
 该工具支持以下格式的输入图像：
@@ -86,7 +86,7 @@ ascii-image-converter path_to_image
 这是我的个人资料照片转换成 ASCII 格式。我把我的原始照片放在这里供大家参考。
 
 
-![](/Asserts/Images//attachment/album/202106/06/210808ywceh2ztyy30ymyn.png)
+![](/Asserts/Images/album/202106/06/210808ywceh2ztyy30ymyn.png)
 
 
 你也可以转换成彩色的 ASCII。
@@ -98,7 +98,7 @@ ascii-image-converter -C path_to_image
 
 ```
 
-![](/Asserts/Images//attachment/album/202106/06/210809zb1gmopdoapyb1rj.png)
+![](/Asserts/Images/album/202106/06/210809zb1gmopdoapyb1rj.png)
 
 
 你可以通过提供它们的路径将多个图像转换为 ASCII。它将在终端显示器上一个接一个地打印 ASCII 版本。

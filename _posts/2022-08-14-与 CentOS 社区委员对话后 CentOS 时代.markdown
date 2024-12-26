@@ -34,7 +34,7 @@ tags:	[linuxcn,CentOS Stream,CentOS,开源朗读者]
 现场翻译：璐璐，文字翻译：家驹，文字整理：老王
 
 
-![](/Asserts/Images//attachment/album/202208/13/175956e1wup8p8psscusg9.png)
+![](/Asserts/Images/album/202208/13/175956e1wup8p8psscusg9.png)
 
 
 以下是本次访问内容：

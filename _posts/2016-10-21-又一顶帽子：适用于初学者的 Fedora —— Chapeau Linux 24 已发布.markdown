@@ -7,7 +7,7 @@ tags:	[linuxcn,Chapeau,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201610/23/232518rlx62dfdlw9fjj9d.jpg)
+![](/Asserts/Images/album/201610/23/232518rlx62dfdlw9fjj9d.jpg)
 
 
 [Chapeau](http://chapeaulinux.org/) 是专注于初学者的[一个基于 Fedora 的 Linux 发行版](https://itsfoss.com/best-fedora-linux-distributions/)。 Chapeau Linux 最近发布了新的 24 版本。
@@ -43,7 +43,7 @@ Chapeau 24 的特性几乎和 Fedora 24 提供的特性一样。它仍然运行�
 * Linux 4.7 内核
 
 
-![](/Asserts/Images//attachment/album/201610/23/232715jw31r0hvfbs21yu3.jpg)![](/Asserts/Images//attachment/album/201610/23/232715lsj1gogsgolzpkme.jpg)
+![](/Asserts/Images/album/201610/23/232715jw31r0hvfbs21yu3.jpg)![](/Asserts/Images/album/201610/23/232715lsj1gogsgolzpkme.jpg)
 
 
 ### 应该使用 CHAPEAU 24 吗？

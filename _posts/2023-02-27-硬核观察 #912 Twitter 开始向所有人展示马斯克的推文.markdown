@@ -7,10 +7,10 @@ tags:	[linuxcn,Twitter,ChatGPT,播客]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/14/175739tfqgplpx7wx46fr7.jpg)
+![](/Asserts/Images/album/202302/14/175739tfqgplpx7wx46fr7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/14/175751tshhyx0331x0xxfw.jpg)
+![](/Asserts/Images/album/202302/14/175751tshhyx0331x0xxfw.jpg)
 
 
 ### Twitter 开始向所有人展示马斯克的推文
@@ -35,7 +35,7 @@ tags:	[linuxcn,Twitter,ChatGPT,播客]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/14/175800tl726czgpiicwlp5.jpg)
+![](/Asserts/Images/album/202302/14/175800tl726czgpiicwlp5.jpg)
 
 
 ### ChatGPT 的技术原型是谷歌发明和开源的
@@ -60,7 +60,7 @@ tags:	[linuxcn,Twitter,ChatGPT,播客]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/14/175816yle2vgtkzfz62lww.jpg)
+![](/Asserts/Images/album/202302/14/175816yle2vgtkzfz62lww.jpg)
 
 
 ### 播客失去了优势

@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/201605/08/213509ptwtsdllg2lkgkzs.jpg)
+![](/Asserts/Images/album/201605/08/213509ptwtsdllg2lkgkzs.jpg)
 
 
 **我能在 Linux 上玩游戏吗 ？**
@@ -70,7 +70,7 @@ tags:	[linuxcn,Linux,游戏]
 #### Steam
 
 
-![](/Asserts/Images//attachment/album/201605/08/213511syzvtjygvt4tvv4t.jpg)
+![](/Asserts/Images/album/201605/08/213511syzvtjygvt4tvv4t.jpg)
 
 
 “[Steam](http://store.steampowered.com/) 是一个游戏的分发平台。就如同 Kindle 是电子书的分发平台， iTunes 是音乐的分发平台一样， Steam 也具有那样的功能。它提供购买和安装游戏，玩多人游戏以及在它的平台上关注其他游戏的选项。其上的游戏被 [DRM](https://en.wikipedia.org/wiki/Digital_rights_management) 所保护。”
@@ -130,7 +130,7 @@ GOG.com 与 Steam 不同的是前者仅提供没有 DRM 保护的游戏以及电
 ### 2. 如何在 Linux 上玩 Windows 的游戏 ？
 
 
-![](/Asserts/Images//attachment/album/201605/08/213514k602x3004x3vl4jf.png)
+![](/Asserts/Images/album/201605/08/213514k602x3004x3vl4jf.png)
 
 
 到现在为止，我们一直在讨论 Linux 的原生游戏。但是并没有很多 Linux 上的原生游戏，或者更准确地说，火的不要不要的游戏大多不支持 Linux，但是都支持 Windows PC 。所以，如何在 Linux 上玩 Windows 的游戏？
@@ -163,7 +163,7 @@ PlayOnLinux 也基于 Wine 但是执行程序的方式略有不同。它有着�
 ### 3. 网页游戏
 
 
-![](/Asserts/Images//attachment/album/201605/08/213519gg8zbfmjmzz22j2g.jpg)
+![](/Asserts/Images/album/201605/08/213519gg8zbfmjmzz22j2g.jpg)
 
 
 不必说你也应该知道有非常多的基于网页的游戏，这些游戏都可以在任何操作系统里运行，无论是 Windows ，Linux ，还是 OS X 。大多数让人上瘾的手机游戏，比如[帝国之战](http://empire.goodgamestudios.com/)就有官方的网页版。
@@ -175,7 +175,7 @@ PlayOnLinux 也基于 Wine 但是执行程序的方式略有不同。它有着�
 ### 4. 终端游戏
 
 
-![](/Asserts/Images//attachment/album/201605/08/213521bwdejdup3rdjddmm.jpg)
+![](/Asserts/Images/album/201605/08/213521bwdejdup3rdjddmm.jpg)
 
 
 使用 Linux 的一个附加优势就是可以使用命令行终端玩游戏。我知道这不是最好的玩游戏的方法，但是在终端里玩[贪吃蛇](http://itsfoss.com/nsnake-play-classic-snake-game-linux-terminal/)或者 [2048](http://itsfoss.com/play-2048-linux-terminal/) 很有趣。在[这个博客](http://itsfoss.com/play-2048-linux-terminal/)中有一些好玩的的终端游戏。你可以浏览并安装你喜欢的游戏。

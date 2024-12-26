@@ -7,7 +7,7 @@ tags:	[linuxcn,函数式]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/31/224849a7ek4iuqw9dm0urq.png)
+![](/Asserts/Images/album/201808/31/224849a7ek4iuqw9dm0urq.png)
 
 
 作者巧妙地指出了函数式编程<ruby> 不可变 <rp>  （ </rp> <rt>  immultable </rt> <rp>  ） </rp></ruby>的特点。当你需要改变一个对象的属性的时候……嗯，销毁了再创建一个就是了。

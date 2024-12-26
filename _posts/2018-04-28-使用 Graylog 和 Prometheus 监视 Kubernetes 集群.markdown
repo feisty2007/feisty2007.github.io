@@ -16,7 +16,7 @@ tags:	[linuxcn,Kubernetes,监控]
 在本文中，我将使用 [Graylog](https://www.graylog.org/) （用于日志）和 [Prometheus](https://prometheus.io/) （用于指标）去打造一个 Kubernetes 集群的监视解决方案。当然了，这不仅是将三个东西连接起来那么简单，实现上，最终结果看起来应该如题图所示：
 
 
-![](/Asserts/Images//attachment/album/201804/10/182842hu1toaq9hhh9uiou.png)
+![](/Asserts/Images/album/201804/10/182842hu1toaq9hhh9uiou.png)
 
 
 正如你所了解的，Kubernetes 不是一件东西 —— 它由主控节点、工作节点、网络连接、配置管理等等组成。同样，Graylog 是一个配角（apache2、mongodb、等等），Prometheus 也一样（telegraf、grafana 等等）。在部署中连接这些点看起来似乎有些让人恐惧，但是使用合适的工具将不会那么困难。
@@ -61,13 +61,13 @@ conjure-up
 
 ```
 
-![](/Asserts/Images//attachment/album/201804/10/182843maff6hdyra0dvynh.png)
+![](/Asserts/Images/album/201804/10/182843maff6hdyra0dvynh.png)
 
 
 你将发现有一个 spell 列表。选择 CDK 然后按下回车。
 
 
-![](/Asserts/Images//attachment/album/201804/10/182845usw9ecvz7whw27iz.png)
+![](/Asserts/Images/album/201804/10/182845usw9ecvz7whw27iz.png)
 
 
 这个时候，你将看到 CDK spell 可用的附加组件。我们感兴趣的是 Graylog 和 Prometheus，因此选择这两个，然后点击 “Continue”。
@@ -76,7 +76,7 @@ conjure-up
 它将引导你选择各种云，以决定你的集群部署的地方。之后，你将看到一些部署的后续步骤，接下来是回顾屏幕，让你再次确认部署内容：
 
 
-![](/Asserts/Images//attachment/album/201804/10/182847tx4eejggyajjv4lj.png)
+![](/Asserts/Images/album/201804/10/182847tx4eejggyajjv4lj.png)
 
 
 除了典型的 K8s 相关的应用程序（etcd、flannel、load-balancer、master 以及 workers）之外，你将看到我们选择的日志和指标相关的额外应用程序。
@@ -106,7 +106,7 @@ Prometheus 栈包含如下：
 部署工作将花费一些时间，它将部署你的机器和配置你的云。完成后，`conjure-up` 将展示一个摘要屏幕，它包含一些链接，你可以用你的终端去浏览各种感兴趣的内容：
 
 
-![](/Asserts/Images//attachment/album/201804/10/182850uey066v50ve8yr76.png)
+![](/Asserts/Images/album/201804/10/182850uey066v50ve8yr76.png)
 
 
 #### 浏览日志
@@ -136,13 +136,13 @@ juju run-action --wait graylog/0 show-admin-password
 登入后，顶部的 “Sources” 选项卡可以看到从 K8s 的 master 和 workers 中收集日志的概述：
 
 
-![](/Asserts/Images//attachment/album/201804/10/182852tndrjllrchnlldlq.png)
+![](/Asserts/Images/album/201804/10/182852tndrjllrchnlldlq.png)
 
 
 通过点击 “System / Inputs” 选项卡深入这些日志，选择 “Show received messages” 查看 filebeat 的输入：
 
 
-![](/Asserts/Images//attachment/album/201804/10/182855ct0nq01etaz98m4q.png)
+![](/Asserts/Images/album/201804/10/182855ct0nq01etaz98m4q.png)
 
 
 在这里，你可以应用各种过滤或者设置 Graylog 仪表板去帮助识别大多数比较重要的事件。查看 [Graylog Dashboard](http://docs.graylog.org/en/2.3/pages/dashboards.html) 文档，可以了解如何定制你的视图的详细资料。
@@ -169,13 +169,13 @@ juju run-action --wait grafana/0 get-admin-password
 在浏览器中输入 `http://<your-grafana-ip>:3000`，输入管理员用户（admin）和密码（<your-grafana-password>）登入。成功登入后，点击 “Home” 下拉框，选取 “Kubernetes Metrics (via Prometheus)” 去查看集群指标仪表板：
 
 
-![](/Asserts/Images//attachment/album/201804/10/182905saa152wjwjsztvtl.png)
+![](/Asserts/Images/album/201804/10/182905saa152wjwjsztvtl.png)
 
 
 我们也可以通过下拉框切换到 “Node Metrics (via Telegraf) ” 去查看 K8s 主机的系统指标。
 
 
-![](/Asserts/Images//attachment/album/201804/10/182908brzrnbd9k3qnjdjz.png)
+![](/Asserts/Images/album/201804/10/182908brzrnbd9k3qnjdjz.png)
 
 
 ### 另一种方法

@@ -10,13 +10,13 @@ tags:	[linuxcn,Docker,Kubernetes]
 如果你的运维团队在使用 Docker 和 Kubernetes，那么建议开发上采用相同或相似的技术。这将减少不兼容性和可移植性问题的数量，并使每个人都会认识到应用程序容器是开发和运维团队的共同责任。
 
 
-![](/Asserts/Images//attachment/album/201709/07/114634gfl4anlnlnnqh6wx.jpg)
+![](/Asserts/Images/album/201709/07/114634gfl4anlnlnnqh6wx.jpg)
 
 
 这篇博客文章介绍了 Kubernetes 在开发模式中的用法，它的灵感来自于一个视频教程，你可以在“[无痛 Docker 教程](http://painlessdocker.com/)”中找到它。
 
 
-![](/Asserts/Images//attachment/album/201709/07/114634vqju644r19iv94j4.jpg)
+![](/Asserts/Images/album/201709/07/114634vqju644r19iv94j4.jpg)
 
 
 Minikube 是一个允许开发人员在本地使用和运行 Kubernetes 集群的工具，从而使开发人员的生活变得轻松。
@@ -40,7 +40,7 @@ DISTRIB_DESCRIPTION=”Linux Mint 18.1 Serena”
 
 ```
 
-![](/Asserts/Images//attachment/album/201709/07/114635xsd4mmt2md5zp8g9.png)
+![](/Asserts/Images/album/201709/07/114635xsd4mmt2md5zp8g9.png)
 
 
 ### 先决条件

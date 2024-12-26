@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,清理]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/30/123825r2vri1kv0rc2f7xh.jpg)
+![](/Asserts/Images/album/202209/30/123825r2vri1kv0rc2f7xh.jpg)
 
 
 
@@ -45,7 +45,7 @@ du -sh /var/cache/apt/archives
 
 ```
 
-![](/Asserts/Images//attachment/album/202209/30/124344v4bel4mslbvzbde9.png)
+![](/Asserts/Images/album/202209/30/124344v4bel4mslbvzbde9.png)
 
 
 如果你的 Ubuntu 系统已经安装了很久的话，你将看到这个数字非常大。运行以下命令来清理 Apt 缓存。
@@ -72,7 +72,7 @@ sudo apt-get autoremove --purge
 
 ```
 
-![Autoremove Purge](/Asserts/Images//attachment/album/202209/30/124355cj8ie9jzh778or8r.png)
+![Autoremove Purge](/Asserts/Images/album/202209/30/124355cj8ie9jzh778or8r.png)
 
 
 #### 3、删除旧的应用程序和软件包
@@ -93,7 +93,7 @@ history | grep "apt-get install"
 
 ```
 
-![List of apt installed app – History](/Asserts/Images//attachment/album/202209/30/124407z8nn4w60ri6ygwu5.png)
+![List of apt installed app – History](/Asserts/Images/album/202209/30/124407z8nn4w60ri6ygwu5.png)
 
 
 你将得到最近安装的应用程序列表：
@@ -138,7 +138,7 @@ sudo apt install bleachbit
 安装后，打开 BleachBit，并运行扫描。它会向你显示浏览器占用的所有缓存文件、临时文件、垃圾等，你只需单击一个按钮即可清理它。
 
 
-![](/Asserts/Images//attachment/album/202209/30/124414akyk09hq9g0e4x88.png)
+![](/Asserts/Images/album/202209/30/124414akyk09hq9g0e4x88.png)
 
 
 ### 附送技巧
@@ -206,7 +206,7 @@ find /home -type f -exec du -h {} + | sort -hr | head -20
 例如，运行以下命令，你会得到根目录 `/` 中的前 20 个大文件。现在你可以查看大文件，并使用文件管理器手动删除它们。请注意删除文件时要非常小心。尽量不要涉及 `/home` 目录以外的任何内容。
 
 
-![Find Large files in Linux](/Asserts/Images//attachment/album/202209/30/124424r09untu4uumcx9k3.png)
+![Find Large files in Linux](/Asserts/Images/album/202209/30/124424r09untu4uumcx9k3.png)
 
 
 ### 总结

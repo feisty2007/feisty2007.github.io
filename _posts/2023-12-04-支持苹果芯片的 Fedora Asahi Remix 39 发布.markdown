@@ -7,7 +7,7 @@ tags:	[linuxcn,苹果芯片]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/22/144616gowqbsetb4jbqatw.jpg)
+![](/Asserts/Images/album/202312/22/144616gowqbsetb4jbqatw.jpg)
 
 
 早在 8 月份，我们 [宣布](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/) Fedora Linux 很快就会在<ruby> 苹果芯片 <rt>  Apple Silicon </rt></ruby> Mac 上可用。我们在 Flock 上推出了 [Fedora Asahi Remix](https://fedora-asahi-remix.org/)。这个发行版与 [Fedora Asahi SIG](https://fedoraproject.org/wiki/SIGs/Asahi) 和 [Asahi Linux](https://asahilinux.org/) 项目密切合作开发的。

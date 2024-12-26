@@ -7,7 +7,7 @@ tags:	[linuxcn,Copilot]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/23/100112lms67c7e8mow8sv6.jpg)
+![](/Asserts/Images/album/202210/23/100112lms67c7e8mow8sv6.jpg)
 
 
 

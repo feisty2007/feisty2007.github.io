@@ -7,7 +7,7 @@ tags:	[linuxcn,Bash,脚本]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/30/101441k82y3n33j5jijn2e.jpg)
+![](/Asserts/Images/album/202112/30/101441k82y3n33j5jijn2e.jpg)
 
 
 如标题所示，本文将涵盖面向初学者的 Bash Shell 脚本知识。虽然本文没有回顾 Bash 的历史，但是有很多资源能够便于读者了解相关内容，读者也可以直接访问 <https://www.gnu.org/software/bash/> 上的 GNU 项目。我们会从了解一些非常基本的概念开始，然后再将相关知识综合起来。

@@ -7,7 +7,7 @@ tags:	[linuxcn,GitHub,DNS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/09/165851b7yv8bkcv7jwm8ww.jpeg)
+![](/Asserts/Images/album/201709/09/165851b7yv8bkcv7jwm8ww.jpeg)
 
 
 在 GitHub，我们最近从头改进了 DNS。这包括了我们[如何与外部 DNS 提供商交互](https://githubengineering.com/enabling-split-authority-dns-with-octodns/)以及我们如何在内部向我们的主机提供记录。为此，我们必须设计和构建一个新的 DNS 基础设施，它可以随着 GitHub 的增长扩展并跨越多个数据中心。
@@ -25,7 +25,7 @@ tags:	[linuxcn,GitHub,DNS]
 ### 实现
 
 
-![](/Asserts/Images//attachment/album/201709/09/165355t81eey1yz08afztw.png)
+![](/Asserts/Images/album/201709/09/165355t81eey1yz08afztw.png)
 
 
 为了构建这个系统，我们确定了三类主机：<ruby> 缓存主机 <rt>  cache </rt></ruby>、<ruby> 边缘主机 <rt>  edge </rt></ruby>和<ruby> 权威主机 <rt>  authority </rt></ruby>。缓存主机作为<ruby> 递归解析器 <rt>  recursive resolver </rt></ruby>和 DNS “路由器” 缓存来自边缘层的响应。边缘层运行 DNS 权威守护程序，用于响应缓存层对 DNS <ruby> 区域 <rt>  zone </rt></ruby>的请求，其被配置为来自权威层的<ruby> 区域传输 <rt>  zone transfer </rt></ruby>。权威层作为隐藏的 DNS <ruby> 主服务器 <rt>  master </rt></ruby>，作为 DNS 数据的规范来源，为来自边缘主机的<ruby> 区域传输 <rt>  zone transfer </rt></ruby>提供服务，并提供用于创建、修改或删除记录的 HTTP API。
@@ -43,7 +43,7 @@ tags:	[linuxcn,GitHub,DNS]
 ### 可运维性
 
 
-![](/Asserts/Images//attachment/album/201709/09/165406u3zedc4ll34ppdm4.png)
+![](/Asserts/Images/album/201709/09/165406u3zedc4ll34ppdm4.png)
 
 
 迁移到更现代的 DNS 基础设施的巨大好处是可观察性。我们的旧 DNS 系统几乎没有指标，只有有限的日志。决定使用哪些 DNS 服务器的一个重要因素是它们所产生的指标的广度和深度。我们最终用 [Unbound](https://unbound.net/) 作为缓存主机，[NSD](https://www.nlnetlabs.nl/projects/nsd/) 作为边缘主机，[PowerDNS](https://powerdns.com/) 作为权威主机，所有这些都已在比 GitHub 大得多的 DNS 基础架构中得到了证实。

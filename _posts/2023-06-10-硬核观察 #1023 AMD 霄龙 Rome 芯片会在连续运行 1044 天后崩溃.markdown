@@ -7,10 +7,10 @@ tags:	[linuxcn,CPU,GitHub,打字错误]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/05/193338qp1inmumj1om89am.jpg)
+![](/Asserts/Images/album/202306/05/193338qp1inmumj1om89am.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/05/193350oh31fm0ro5fl131h.jpg)
+![](/Asserts/Images/album/202306/05/193350oh31fm0ro5fl131h.jpg)
 
 
 ### AMD 霄龙 Rome 芯片会在连续运行 1044 天后崩溃
@@ -35,7 +35,7 @@ tags:	[linuxcn,CPU,GitHub,打字错误]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/05/193403pwxsyvx57e4v72bb.jpg)
+![](/Asserts/Images/album/202306/05/193403pwxsyvx57e4v72bb.jpg)
 
 
 ### AWS 正在关闭其在 GitHub 上的文档仓库
@@ -60,7 +60,7 @@ tags:	[linuxcn,CPU,GitHub,打字错误]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/05/193418cqppiyr5zfolbr4l.jpg)
+![](/Asserts/Images/album/202306/05/193418cqppiyr5zfolbr4l.jpg)
 
 
 ### 一个打字错误导致了 Azure 停止服务十小时

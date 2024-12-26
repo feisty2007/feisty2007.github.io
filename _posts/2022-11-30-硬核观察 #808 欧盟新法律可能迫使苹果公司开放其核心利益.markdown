@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果,浏览器,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/02/150307vk8t2jpv92vp931p.jpg)
+![](/Asserts/Images/album/202211/02/150307vk8t2jpv92vp931p.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/02/150320vmx4b7m2vxn7q8gd.jpg)
+![](/Asserts/Images/album/202211/02/150320vmx4b7m2vxn7q8gd.jpg)
 
 
 ### 欧盟新法律可能迫使苹果公司开放其核心利益
@@ -35,7 +35,7 @@ tags:	[linuxcn,苹果,浏览器,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/02/150330pmpaismuaudwkzzd.jpg)
+![](/Asserts/Images/album/202211/02/150330pmpaismuaudwkzzd.jpg)
 
 
 ### Mozilla 公布它的 Manifest V3 扩展方案
@@ -60,7 +60,7 @@ Manifest V3（MV3）是 Chrome 的新扩展规范，Chrome 将从明年 1 月开
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/02/150344otvu7uhh7h4t9aug.jpg)
+![](/Asserts/Images/album/202211/02/150344otvu7uhh7h4t9aug.jpg)
 
 
 ### Meta 宣称其 AI 音频编解码器提供 10 倍于 MP3 的压缩率

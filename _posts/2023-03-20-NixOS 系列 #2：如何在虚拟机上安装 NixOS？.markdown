@@ -7,7 +7,7 @@ tags:	[linuxcn,NixOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/14/154007dt8ucpf8co9o9otf.jpg)
+![](/Asserts/Images/album/202303/14/154007dt8ucpf8co9o9otf.jpg)
 
 
 如果你可以在任何 Linux 发行版上使用 Nix 包管理器，为什么还要安装 NixOS？
@@ -69,7 +69,7 @@ sudo apt install virtualbox
 当然，也有最小化 ISO，但我建议使用两者之一（GNOME 和 KDE）：
 
 
-![下载 NixOS ISO 文件](/Asserts/Images//attachment/album/202303/14/154018embsmm7pbb0oe70w.png)
+![下载 NixOS ISO 文件](/Asserts/Images/album/202303/14/154018embsmm7pbb0oe70w.png)
 
 
 对于本教程，我将使用 GNOME。
@@ -87,7 +87,7 @@ sudo apt install virtualbox
 打开 VirtualBox 并单击 “<ruby> 新建 <rt>  New </rt></ruby>” 按钮添加新的虚拟机：
 
 
-![截图显示了如何点击新建按钮来添加新的虚拟机](/Asserts/Images//attachment/album/202303/14/154018pg1bg82ub771gklb.png)
+![截图显示了如何点击新建按钮来添加新的虚拟机](/Asserts/Images/album/202303/14/154018pg1bg82ub771gklb.png)
 
 
 它将打开一个提示，要求你添加有关要添加的虚拟机的信息。
@@ -102,7 +102,7 @@ sudo apt install virtualbox
 * 并在版本选择 “<ruby> 其它 Linux（64 位） <rt>  Other Linux (64-bit) </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202303/14/154019m9z4395wr7o4xuwo.png)
+![](/Asserts/Images/album/202303/14/154019m9z4395wr7o4xuwo.png)
 
 
 选择所有内容后，单击 “<ruby> 下一步 <rt>  Next </rt></ruby>” 按钮。
@@ -114,13 +114,13 @@ sudo apt install virtualbox
 虽然 NixOS 没有提到官方要求，但我建议你为此安装至少拥有 **4GB RAM**、**2-4 个处理器内核**和 **30GB 空间**：
 
 
-![选择 NixOS 虚拟机的硬件](/Asserts/Images//attachment/album/202303/14/154020yc4ko954c54kka9p.png)
+![选择 NixOS 虚拟机的硬件](/Asserts/Images/album/202303/14/154020yc4ko954c54kka9p.png)
 
 
 最后，它会显示你为此虚拟机所做选择的摘要：
 
 
-![NixOS 虚拟机 安装摘要](/Asserts/Images//attachment/album/202303/14/154020faatpyn2eraaouh8.png)
+![NixOS 虚拟机 安装摘要](/Asserts/Images/album/202303/14/154020faatpyn2eraaouh8.png)
 
 
 如果一切正常，请单击 “<ruby> 完成 <rt>  Finish </rt></ruby>” 按钮，它将为你创建一个 NixOS 虚拟机。
@@ -135,7 +135,7 @@ sudo apt install virtualbox
 选择 “NixOS” 虚拟机并单击“开始”按钮：
 
 
-![开始 NixOS 虚拟机](/Asserts/Images//attachment/album/202303/14/154020cv68gox88wgz8o6o.png)
+![开始 NixOS 虚拟机](/Asserts/Images/album/202303/14/154020cv68gox88wgz8o6o.png)
 
 
 它将启动 NixOS <ruby> 立付桌面环境 <rt>  Live Desktop </rt></ruby>，以便你可以试用 Linux 发行版。
@@ -147,7 +147,7 @@ sudo apt install virtualbox
 启动进入 NixOS 后，安装程序将启动并要求你设置安装程序的首选语言：
 
 
-![选择安装时的首选语言](/Asserts/Images//attachment/album/202303/14/154021vmrh8qqbbpi7h7ix.png)
+![选择安装时的首选语言](/Asserts/Images/album/202303/14/154021vmrh8qqbbpi7h7ix.png)
 
 
 ##### 选择地区和时区
@@ -162,7 +162,7 @@ sudo apt install virtualbox
 当然，你可以根据需要进行更改，但对于大多数用户而言，选定的选项就可以正常工作：
 
 
-![选择地区和时区](/Asserts/Images//attachment/album/202303/14/154022tyc2n6xn26rhj16g.png)
+![选择地区和时区](/Asserts/Images/album/202303/14/154022tyc2n6xn26rhj16g.png)
 
 
 ##### 选择键盘布局
@@ -174,7 +174,7 @@ sudo apt install virtualbox
 如果你要进行其他操作，则可以在继续之前测试你的键盘配置。
 
 
-![选择键盘格式](/Asserts/Images//attachment/album/202303/14/154022ifatn5tht1nca1a8.png)
+![选择键盘格式](/Asserts/Images/album/202303/14/154022ifatn5tht1nca1a8.png)
 
 
 之后，系统会要求你创建一个用户并为该用户设置密码。
@@ -183,7 +183,7 @@ sudo apt install virtualbox
 你可以选择为虚拟机保留一个强密码或任何随机密码。
 
 
-![创建用户](/Asserts/Images//attachment/album/202303/14/154023px2xx2q72zn22x1o.png)
+![创建用户](/Asserts/Images/album/202303/14/154023px2xx2q72zn22x1o.png)
 
 
 ##### 选择你喜欢的桌面环境
@@ -201,7 +201,7 @@ sudo apt install virtualbox
 * LXQt
 
 
-![选择桌面环境](/Asserts/Images//attachment/album/202303/14/154023vjaeddamdazk9evo.png)
+![选择桌面环境](/Asserts/Images/album/202303/14/154023vjaeddamdazk9evo.png)
 
 
 ##### 在 NixOS 上使用非自由软件
@@ -213,7 +213,7 @@ NixOS 遵循与 Fedora 类似的方法，你必须选择是否需要非自由软
 我建议你启用非自由包：
 
 
-![启用非自由软件包](/Asserts/Images//attachment/album/202303/14/154024py154o8qkxapekrg.png)
+![启用非自由软件包](/Asserts/Images/album/202303/14/154024py154o8qkxapekrg.png)
 
 
 ##### 分区部分
@@ -222,13 +222,13 @@ NixOS 遵循与 Fedora 类似的方法，你必须选择是否需要非自由软
 由于这是一个虚拟机指南，我建议你使用自动对磁盘进行分区的 “<ruby> 擦除磁盘 <rt>  Erase disk </rt></ruby>” 选项！
 
 
-![自动分区](/Asserts/Images//attachment/album/202303/14/154024r927b834b6kx8988.png)
+![自动分区](/Asserts/Images/album/202303/14/154024r927b834b6kx8988.png)
 
 
 完成后，它将为你提供你所做选择的摘要：
 
 
-![安装选择摘要](/Asserts/Images//attachment/album/202303/14/154024wpv622fn4wp9zkef.png)
+![安装选择摘要](/Asserts/Images/album/202303/14/154024wpv622fn4wp9zkef.png)
 
 
 如果一切正常，请单击 “<ruby> 安装 <rt>  Install </rt></ruby>” 按钮，它将开始安装。
@@ -252,7 +252,7 @@ NixOS 遵循与 Fedora 类似的方法，你必须选择是否需要非自由软
 要关闭虚拟机，请从“<ruby> 文件 <rt>  File </rt></ruby>”菜单中选择 “<ruby> 关闭 <rt>  Close </rt></ruby>” 选项，然后选择 “<ruby> 关闭虚拟机电源 <rt>  Power off the machine </rt></ruby>” 选项：
 
 
-![](/Asserts/Images//attachment/album/202303/14/154025fn8aq9l55ci4gl46.png)
+![](/Asserts/Images/album/202303/14/154025fn8aq9l55ci4gl46.png)
 
 
 ##### 更改 VirtualBox 中的启动顺序
@@ -261,7 +261,7 @@ NixOS 遵循与 Fedora 类似的方法，你必须选择是否需要非自由软
 要更改 NixOS 虚拟机 中的启动顺序，请打开该虚拟机的设置：
 
 
-![](/Asserts/Images//attachment/album/202303/14/154025elgevguuubmi4be7.png)
+![](/Asserts/Images/album/202303/14/154025elgevguuubmi4be7.png)
 
 
 在设置中，选择 “<ruby> 系统 <rt>  System </rt></ruby>”，你将找到启动顺序。
@@ -270,7 +270,7 @@ NixOS 遵循与 Fedora 类似的方法，你必须选择是否需要非自由软
 在这里，选择 “<ruby> 硬盘 <rt>  Hard Disk </rt></ruby>” 并使用选项旁边的**向上箭头**图标并将其设为启动的第一个选项：
 
 
-![改变启动顺序](/Asserts/Images//attachment/album/202303/14/154025sd6kk24ombkudboh.gif)
+![改变启动顺序](/Asserts/Images/album/202303/14/154025sd6kk24ombkudboh.gif)
 
 
 按下 “<ruby> 确定 <rt>  OK </rt></ruby>”，它将保存你所做的更改。
@@ -285,13 +285,13 @@ NixOS 遵循与 Fedora 类似的方法，你必须选择是否需要非自由软
 现在，启动你的 NixOS 虚拟机，你将看到一个 GRUB 屏幕：
 
 
-![NixOS grub](/Asserts/Images//attachment/album/202303/14/154026k2e2pzuw302inky2.png)
+![NixOS grub](/Asserts/Images/album/202303/14/154026k2e2pzuw302inky2.png)
 
 
 选择默认选项，它将带你进入带有 GNOME 桌面的全新 NixOS 安装。
 
 
-![运行 NixOS](/Asserts/Images//attachment/album/202303/14/154026z3oktc7mzma0a4kn.png)
+![运行 NixOS](/Asserts/Images/album/202303/14/154026z3oktc7mzma0a4kn.png)
 
 
 就是这些了！**请继续探索 NixOS！**

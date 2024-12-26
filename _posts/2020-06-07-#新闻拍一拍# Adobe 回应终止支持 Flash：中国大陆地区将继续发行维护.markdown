@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Chrome,Flash]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/20/084922zv90r9i0fc0d6scf.jpg)
+![](/Asserts/Images/album/202006/20/084922zv90r9i0fc0d6scf.jpg)
 
 
 #### Adobe 回应终止支持 Flash：中国大陆地区将继续发行维护

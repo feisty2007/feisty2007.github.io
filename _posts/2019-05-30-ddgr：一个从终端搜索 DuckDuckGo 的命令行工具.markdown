@@ -7,7 +7,7 @@ tags:	[linuxcn,DuckDuckGo,ddgr]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/29/224249rxxnkk8q523pku22.jpg)
+![](/Asserts/Images/album/201905/29/224249rxxnkk8q523pku22.jpg)
 
 
 在 Linux 中，Bash 技巧非常棒，它使 Linux 中的一切成为可能。
@@ -161,7 +161,7 @@ $ packer -S ddgr
 $ ddgr
 ```
 
-![](/Asserts/Images//attachment/album/201905/29/224628haazlafyyvnc3gzo.png)
+![](/Asserts/Images/album/201905/29/224628haazlafyyvnc3gzo.png)
 
 
 ### 如何使用 ddgr 进行搜索
@@ -178,13 +178,13 @@ $ ddgr
 $ ddgr 2daygeek
 ```
 
-![](/Asserts/Images//attachment/album/201905/29/224638wcl2ctvbe66ezg3k.png)
+![](/Asserts/Images/album/201905/29/224638wcl2ctvbe66ezg3k.png)
 
 
 从 omniprompt：
 
 
-![](/Asserts/Images//attachment/album/201905/29/224657cp0991z0n9o99koj.png)
+![](/Asserts/Images/album/201905/29/224657cp0991z0n9o99koj.png)
 
 
 ### Omniprompt 快捷方式
@@ -193,7 +193,7 @@ $ ddgr 2daygeek
 输入 `?` 以获得 omniprompt，它将显示关键字列表和进一步使用 `ddgr` 的快捷方式。
 
 
-![](/Asserts/Images//attachment/album/201905/29/224721atg4e8wggtrwburm.png)
+![](/Asserts/Images/album/201905/29/224721atg4e8wggtrwburm.png)
 
 
 ### 如何移动下一页、上一页和第一页
@@ -207,7 +207,7 @@ $ ddgr 2daygeek
 * `f`： 跳转到第一页
 
 
-![](/Asserts/Images//attachment/album/201905/29/224730qat0xu7jbdaaxdr3.png)
+![](/Asserts/Images/album/201905/29/224730qat0xu7jbdaaxdr3.png)
 
 
 ### 如何启动新搜索
@@ -224,7 +224,7 @@ $ ddgr 2daygeek
 ddgr (? for help) d magesh maruthmuthu
 ```
 
-![](/Asserts/Images//attachment/album/201905/29/224741qg9of29e8m9x9g0t.png)
+![](/Asserts/Images/album/201905/29/224741qg9of29e8m9x9g0t.png)
 
 
 ### 在搜索结果中显示完整的 URL
@@ -238,7 +238,7 @@ ddgr (? for help) d magesh maruthmuthu
 $ ddgr -n 5 -x 2daygeek
 ```
 
-![](/Asserts/Images//attachment/album/201905/29/224806nu9goqddruidt9ga.png)
+![](/Asserts/Images/album/201905/29/224806nu9goqddruidt9ga.png)
 
 
 ### 限制搜索结果
@@ -252,7 +252,7 @@ $ ddgr -n 5 -x 2daygeek
 $ ddgr -n 5 2daygeek
 ```
 
-![](/Asserts/Images//attachment/album/201905/29/224823uxh7rnjbb6raa2rd.png)
+![](/Asserts/Images/album/201905/29/224823uxh7rnjbb6raa2rd.png)
 
 
 ### 网站特定搜索
@@ -266,7 +266,7 @@ $ ddgr -n 5 2daygeek
 $ ddgr -n 5 --site 2daygeek "package manager"
 ```
 
-![](/Asserts/Images//attachment/album/201905/29/224836drzlil5vldjvmpuq.png)
+![](/Asserts/Images/album/201905/29/224836drzlil5vldjvmpuq.png)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,WiFi]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/24/185145fcas1rje3f8pr8sa.jpg)
+![](/Asserts/Images/album/202209/24/185145fcas1rje3f8pr8sa.jpg)
 
 
 
@@ -47,7 +47,7 @@ iwctl
 
 ```
 
-![iwctl 提示符](/Asserts/Images//attachment/album/202209/24/185148fm3wr64j36k6x6il.jpg)
+![iwctl 提示符](/Asserts/Images/album/202209/24/185148fm3wr64j36k6x6il.jpg)
 
 
 如果找不到该命令，那么需要从 [此处](https://www.archlinux.org/packages/?name=iwd) 下载安装包。
@@ -104,7 +104,7 @@ device list
 
 ```
 
-![iwctl – 设备列表](/Asserts/Images//attachment/album/202209/24/185149r1a02veoxn8vlc2a.jpg)
+![iwctl – 设备列表](/Asserts/Images/album/202209/24/185149r1a02veoxn8vlc2a.jpg)
 
 
 要**获取 WiFi 网络列表**，请运行以下命令。在以下命令和所有其他命令中将 `wlan0` 替换为你的设备名称。
@@ -116,7 +116,7 @@ station wlan0 get-networks
 
 ```
 
-![iwctl – 可用网络](/Asserts/Images//attachment/album/202209/24/185149yl9y9ps1gsyqhq2p.jpg)
+![iwctl – 可用网络](/Asserts/Images/album/202209/24/185149yl9y9ps1gsyqhq2p.jpg)
 
 
 该命令为你提供具有安全类型和信号强度的可用 WiFi 网络列表。
@@ -137,7 +137,7 @@ station wlan0 connect
 出现提示时输入你的 WiFi 密码。
 
 
-![使用 iwctl 连接到 WiFi](/Asserts/Images//attachment/album/202209/24/185149ulmtcc5kf6qqs5t7.jpg)
+![使用 iwctl 连接到 WiFi](/Asserts/Images/album/202209/24/185149ulmtcc5kf6qqs5t7.jpg)
 
 
 如果一切顺利，你现在可以连接到互联网。

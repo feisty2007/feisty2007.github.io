@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,市场份额]
 > 
 
 
-![](/Asserts/Images//attachment/album/201711/08/215822fxu3iix3uep6xuuq.jpg)
+![](/Asserts/Images/album/201711/08/215822fxu3iix3uep6xuuq.jpg)
 
 
 有一些传闻说，Linux 桌面版的市场占有率从通常的 1.5% - 3% 翻了一番，达到 5%。那些报道是基于 [NetMarketShare](https://www.netmarketshare.com/) 的桌面操作系统分析报告而来的，据其显示，在七月份，Linux 桌面版的市场占有率从 2.5% 飙升，在九月份几乎达到 5%。但对 Linux 爱好者来说，很不幸，它并不是真的。
@@ -54,7 +54,7 @@ StatCounter 也有自己的方法。它使用 “[在全球超过 200 万个站�
 对于更精确的，以美国为对象的操作系统和浏览器数量，我更喜欢使用联邦政府的 [数字分析计划（DAP）](https://www.digitalgov.gov/services/dap/)。
 
 
-与其它的不同， DAP 的数字来自在过去的 90 天访问过 [400 个美国政府行政机构域名](https://analytics.usa.gov/Asserts/Images//live/second-level-domains.csv) 的数十亿访问者。那里有 [大概 5000 个网站](https://analytics.usa.gov/Asserts/Images//live/sites.csv)，并且包含每个内阁部门。 DAP 从一个谷歌分析帐户中得到原始数据。 DAP [开源了它在这个网站上显示其数据的代码](https://github.com/GSA/analytics.usa.gov) 以及它的 [数据收集代码](https://github.com/18F/analytics-reporter)。最重要的是，与其它的不同，你可以以 [JSON](http://json.org/) 格式下载它的数据，这样你就可以自己分析原始数据了。
+与其它的不同， DAP 的数字来自在过去的 90 天访问过 [400 个美国政府行政机构域名](https://analytics.usa.gov/data/live/second-level-domains.csv) 的数十亿访问者。那里有 [大概 5000 个网站](https://analytics.usa.gov/data/live/sites.csv)，并且包含每个内阁部门。 DAP 从一个谷歌分析帐户中得到原始数据。 DAP [开源了它在这个网站上显示其数据的代码](https://github.com/GSA/analytics.usa.gov) 以及它的 [数据收集代码](https://github.com/18F/analytics-reporter)。最重要的是，与其它的不同，你可以以 [JSON](http://json.org/) 格式下载它的数据，这样你就可以自己分析原始数据了。
 
 
 在 [美国分析](https://analytics.usa.gov/) 网站上，它汇总了 DAP 的数据，你可以找到 Linux 桌面版，和往常一样，它仍以 1.5% 列在 “其它” 中。Windows 仍然是高达 45.9%，接下来是 Apple iOS，占 25.5%，Android 占 18.6%，而 macOS 占 8.5%。

@@ -18,7 +18,7 @@ tags:	[linuxcn,Ubuntu Unity,Ubuntu]
 Ubuntu Unity 是 Ubuntu 的一个非官方版本，提供了 Unity 桌面环境。Unity 桌面环境是由 Canonical 在十年前创建的，而后在 Ubuntu 18.04 “Bionic Beaver” 发布后被 [放弃了](https://ubuntu.com/blog/growing-ubuntu-for-cloud-and-iot-rather-than-phone-and-convergence)，Ubuntu 转而使用了 GNOME 桌面。随着 Ubuntu 22.04 LTS 的发布，Ubuntu Unity 的小团队发布了 Ubuntu Unity 22.04 LTS Linux 发行版。
 
 
-![Nice and Clean Ubuntu Unity 22.04 LTS](/Asserts/Images//attachment/album/202204/27/113448hvb1iovd73v3bj7l.jpg)
+![Nice and Clean Ubuntu Unity 22.04 LTS](/Asserts/Images/album/202204/27/113448hvb1iovd73v3bj7l.jpg)
 
 
 ### Ubuntu Unity 22.04 LTS - 新功能
@@ -30,13 +30,13 @@ Ubuntu Unity 是 Ubuntu 的一个非官方版本，提供了 Unity 桌面环境�
 此外，在此版本中自然有 Unity 桌面的主要魅力所在，即搜索应用的全局 HUD 和所有应用都有的全局菜单。也许，很多人喜欢 Unity 就是因为它的全局 HUD（通过 `META` 键启动），这是一个搜索、启动或做任何事情的单一入口点。
 
 
-![Global HUD in Ubuntu Unity 22.04](/Asserts/Images//attachment/album/202204/27/113448u7yvkrftfkprko06.jpg)
+![Global HUD in Ubuntu Unity 22.04](/Asserts/Images/album/202204/27/113448u7yvkrftfkprko06.jpg)
 
 
 它基本上就像是 KDE Plasma 中的 [KRunner](https://www.debugpoint.com/2021/12/kde-plasma-hidden-feature/)。另外，它的全局菜单使应用看起来更漂亮，并节省了宝贵的屏幕空间。而且，该团队还为 Unity 桌面带来了定制的 Yaru 主题，有浅深两款。
 
 
-![Global Menu in Ubuntu 22.04 with LibreOffice Calc](/Asserts/Images//attachment/album/202204/27/113449bco33bj3cip9ccif.jpg)
+![Global Menu in Ubuntu 22.04 with LibreOffice Calc](/Asserts/Images/album/202204/27/113449bco33bj3cip9ccif.jpg)
 
 
 除此之外，应用列表也有些不同，与基本的 Ubuntu GNOME 版本相比，它提供了各种基本用途的应用。比如，它用 Nemo 文件管理器代替了 GNOME 中的 “文件”，以及来自 MATE 桌面软件包的 Pluma 文本编辑器。
@@ -57,7 +57,7 @@ Ubuntu Unity 是 Ubuntu 的一个非官方版本，提供了 Unity 桌面环境�
 最后，在这个版本中，以官方吉祥物 Jammy Jellyfish 为特色的一组迷人的墙纸为整个 Unity 桌面体验增色不少。
 
 
-![Unity Tweak Tool](/Asserts/Images//attachment/album/202204/27/113449b1ji881v4v8tjcyc.jpg)
+![Unity Tweak Tool](/Asserts/Images/album/202204/27/113449b1ji881v4v8tjcyc.jpg)
 
 
 ### 总结和下载

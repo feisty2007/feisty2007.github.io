@@ -15,7 +15,7 @@ tags:	[linuxcn,语言,locale]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/13/223937s17qtqz931grud89.jpg)
+![](/Asserts/Images/album/202203/13/223937s17qtqz931grud89.jpg)
 
 
 事实上，我一直在写西班牙语的文章。如果你没有访问过它并且/或你是一个讲西班牙语的人，请访问 [It's FOSS en Español](https://es.itsfoss.com/) 并查看所有西班牙语的 Linux 内容。
@@ -87,7 +87,7 @@ sudo dpkg-reconfigure locales
 当你运行之前的命令，你应该在终端看到下面的页面：
 
 
-![sudo dpkg reconfigure locales](/Asserts/Images//attachment/album/202203/13/223944kfhxblxa1ih3b8vv.png)
+![sudo dpkg reconfigure locales](/Asserts/Images/album/202203/13/223944kfhxblxa1ih3b8vv.png)
 
 
 在这里，你应该**使用向上和向下的箭头移动**直到你到达所需的语言。在我的例子中，我想要西班牙语，更具体地说，是墨西哥西班牙语，因为我是墨西哥人。
@@ -99,13 +99,13 @@ sudo dpkg-reconfigure locales
 找到你的语言后，**按空格键来标记**，然后**回车**。
 
 
-![Selecting your language](/Asserts/Images//attachment/album/202203/13/223944uk6y7dk9hicek7m0.png)
+![Selecting your language](/Asserts/Images/album/202203/13/223944uk6y7dk9hicek7m0.png)
 
 
 最后，在最后一个窗口中，通过使用箭头键移动到该语言并按下**回车键**，选择该新语言作为你的默认语言。
 
 
-![Setting new language as default](/Asserts/Images//attachment/album/202203/13/223944ul2qcevy2iivhzkl.png)
+![Setting new language as default](/Asserts/Images/album/202203/13/223944ul2qcevy2iivhzkl.png)
 
 
 完成后，你应该在你的终端看到这样的信息：

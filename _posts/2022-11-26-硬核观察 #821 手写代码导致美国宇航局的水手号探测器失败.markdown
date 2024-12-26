@@ -7,10 +7,10 @@ tags:	[linuxcn,代码,安卓,深度伪造]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/15/164648rncea6ga6are4knk.jpg)
+![](/Asserts/Images/album/202211/15/164648rncea6ga6are4knk.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/15/164732p28iz73781e726h6.jpg)
+![](/Asserts/Images/album/202211/15/164732p28iz73781e726h6.jpg)
 
 
 ### 手写代码导致美国宇航局的水手号探测器失败
@@ -35,7 +35,7 @@ tags:	[linuxcn,代码,安卓,深度伪造]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/15/164658hqsu4a9du8uaqw0i.jpg)
+![](/Asserts/Images/album/202211/15/164658hqsu4a9du8uaqw0i.jpg)
 
 
 ### 一个简单的安卓锁屏漏洞获得了 7 万美元
@@ -60,7 +60,7 @@ tags:	[linuxcn,代码,安卓,深度伪造]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/15/164715on222a2x0za20bu2.jpg)
+![](/Asserts/Images/album/202211/15/164715on222a2x0za20bu2.jpg)
 
 
 ### 英特尔推出深度伪造实时检测工具

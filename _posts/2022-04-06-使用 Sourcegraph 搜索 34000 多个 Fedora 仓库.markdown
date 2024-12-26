@@ -7,7 +7,7 @@ tags:	[linuxcn,Sourcegraph,代码搜索,软件仓库]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/05/151255yuq9zem6euei5ui5.jpg)
+![](/Asserts/Images/album/202204/05/151255yuq9zem6euei5ui5.jpg)
 
 
 在 2021 年 10 月，一个 Fedora Linux 用户 [问了一个关于许可的问题](https://lists.fedoraproject.org/archives/list/legal@lists.fedoraproject.org/thread/CBCJHOSP36YXQKCVGWVL5MXU64LZ6NZA/)。Fedora 项目负责人 Matthew Miller [回复道](https://lists.fedoraproject.org/archives/list/legal@lists.fedoraproject.org/message/LTIQS2PX33FSCEIAPJS62UZXVPDT5JPB/)：“我不能快速地检查（这个问题），因为我们没有一个完整的、庞大的、可搜索的存储库来检索 Fedora 中所有软件包。”
@@ -31,7 +31,7 @@ Fedora 社区现在可以在他们的开源代码世界中尽情搜索 —— �
 在使用 Sourcegraph [Web 应用](https://sourcegraph.com/search?q=context:global+repo:%5Esrc.fedoraproject.org/&patternType=regexp) 时，你需要先输入初始字符串 `repo:^src.fedoraprojects.org`，然后再开始查询。这个 [Web 应用](https://sourcegraph.com/search?q=context:global+repo:%5Esrc.fedoraproject.org/&patternType=regexp) 链接中包括了上面的初始字符串，点击这个链接后，搜索界面如下图所示：
 
 
-![Sourcegraph Web 应用界面](/Asserts/Images//attachment/album/202204/05/151330xhtmqmt09bd7ymv0.png)
+![Sourcegraph Web 应用界面](/Asserts/Images/album/202204/05/151330xhtmqmt09bd7ymv0.png)
 
 
 下面我将提供几个使用 Web 应用程序进行搜索的例子，大家可能会对它们感兴趣。
@@ -49,7 +49,7 @@ repo:^src.fedoraproject.org/ lang:"RPM Spec" License: ^.*apache|bsd|gpl|lgpl|mit
 
 ```
 
-![许可证搜索](/Asserts/Images//attachment/album/202204/05/151331eqyncmqz88h0it3u.png)
+![许可证搜索](/Asserts/Images/album/202204/05/151331eqyncmqz88h0it3u.png)
 
 
 
@@ -72,7 +72,7 @@ repo:^src.fedoraproject.org/ "TODO"
 
 ```
 
-![搜索 TODO](/Asserts/Images//attachment/album/202204/05/151332oopo65asyouyt0ds.png)
+![搜索 TODO](/Asserts/Images/album/202204/05/151332oopo65asyouyt0ds.png)
 
 
 
@@ -95,7 +95,7 @@ repo:^src.fedoraproject.org/ (?:ftp)://[A-Za-z0-9-]{0,63}(.[A-Za-z0-9-]{0,63})+(
 
 ```
 
-![搜索协议](/Asserts/Images//attachment/album/202204/05/151333kbbs444rvsw4f9nc.png)
+![搜索协议](/Asserts/Images/album/202204/05/151333kbbs444rvsw4f9nc.png)
 
 
 
@@ -118,7 +118,7 @@ repo:^src.fedoraproject.org/ org.apache.logging.log4j 2.((0|1|2|3|4|5|6|7|8|9|10
 
 ```
 
-![搜索 log4j](/Asserts/Images//attachment/album/202204/05/151333w7oh2szkxzwz2uhd.png)
+![搜索 log4j](/Asserts/Images/album/202204/05/151333w7oh2szkxzwz2uhd.png)
 
 
 
@@ -144,7 +144,7 @@ src search -json 'repo:^src.fedoraproject.org/ lang:"RPM Spec" License: ^.*apach
 #### 输出 JSON
 
 
-![输出 JSON](/Asserts/Images//attachment/album/202204/05/151334m2i3ajj6e6gs8t62.png)
+![输出 JSON](/Asserts/Images/album/202204/05/151334m2i3ajj6e6gs8t62.png)
 
 
 

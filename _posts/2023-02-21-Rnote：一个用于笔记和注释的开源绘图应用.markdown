@@ -24,7 +24,7 @@ Rnote 就是这样一个有用的应用，它可以让你做手写笔记并对�
 ### Rnote: 基于矢量的绘图应用，用于绘制草图和手写笔记
 
 
-![rnote screenshot](/Asserts/Images//attachment/album/202302/16/135734x2mejqr24l525tz2.png)
+![rnote screenshot](/Asserts/Images/album/202302/16/135734x2mejqr24l525tz2.png)
 
 
 Rnote 是一个用 Rust 和 GTK 4 编写的令人印象深刻的开源应用。
@@ -39,7 +39,7 @@ Rnote 是一个用 Rust 和 GTK 4 编写的令人印象深刻的开源应用。
 ### Rnote 的特点
 
 
-![rnote settings](/Asserts/Images//attachment/album/202302/16/135734s7qio30o0iktfg98.png)
+![rnote settings](/Asserts/Images/album/202302/16/135734s7qio30o0iktfg98.png)
 
 
 [Rnote](https://rnote.flxzt.net) 是一个简洁而有很多功能的绘图/记事应用程序。一些功能包括：
@@ -79,7 +79,7 @@ Rnote 是一个用 Rust 和 GTK 4 编写的令人印象深刻的开源应用。
 你还可以调整自动保存启动的时间间隔，这在各种使用情况下应该很方便。
 
 
-![rnote screenshot 1](/Asserts/Images//attachment/album/202302/16/135734arpazxpas5wrqcra.png)
+![rnote screenshot 1](/Asserts/Images/album/202302/16/135734arpazxpas5wrqcra.png)
 
 
 ### 在 Linux 上安装 Rnote

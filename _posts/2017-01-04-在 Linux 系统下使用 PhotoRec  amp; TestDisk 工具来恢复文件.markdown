@@ -16,7 +16,7 @@ tags:	[linuxcn,TestDisk,删除,恢复]
 如果你有一个合适的工具和相关的专业知识，你就可以[从电脑中恢复已丢失的文件](/article-7974-1.html)。然而，随着你存储的文件越来越多，删除的文件将会被覆盖，你可能只能恢复最近删除的文件了。
 
 
-![](/Asserts/Images//attachment/album/201701/16/215115lbbjzrhsjxbzfows.jpg)
+![](/Asserts/Images/album/201701/16/215115lbbjzrhsjxbzfows.jpg)
 
 
 在这篇文章中，我们将阐明如何在 Linux 系统中使用 **TestDisk** 来恢复硬盘上已删除或丢失的文件，它是非常优秀的修复工具，随一款免费的叫做 **PhotoRec** 的工具发布。
@@ -64,7 +64,7 @@ $ sudo photorec /dev/sda3
 你将会看到下面的交互界面：
 
 
-![PhotoRec Data Recovery Tool for Linux](/Asserts/Images//attachment/album/201701/16/215122hn7lufcoo4lofexs.png)
+![PhotoRec Data Recovery Tool for Linux](/Asserts/Images/album/201701/16/215122hn7lufcoo4lofexs.png)
 
 
 *Linux 系统 PhotoRec 数据恢复工具*
@@ -76,7 +76,7 @@ $ sudo photorec /dev/sda3
 你将看到下面的界面：
 
 
-![Select Partition to Proceed File Recovery](/Asserts/Images//attachment/album/201701/16/215122ifo0puub0o5uzazb.png)
+![Select Partition to Proceed File Recovery](/Asserts/Images/album/201701/16/215122ifo0puub0o5uzazb.png)
 
 
 *选择分区进行文件恢复*
@@ -85,7 +85,7 @@ $ sudo photorec /dev/sda3
 选择 `[Options]` 来查看可用的恢复选项，如下图所示：
 
 
-![Linux File Recovery Options](/Asserts/Images//attachment/album/201701/16/215124boucxkiv0rcqcozr.png)
+![Linux File Recovery Options](/Asserts/Images/album/201701/16/215124boucxkiv0rcqcozr.png)
 
 
 *Linux 系统文件恢复选项*
@@ -100,7 +100,7 @@ $ sudo photorec /dev/sda3
 例如，我想恢复所有系统中丢失的 `.mov` 类型的文件：
 
 
-![Specify Recovery File Type](/Asserts/Images//attachment/album/201701/16/215125xbj0b0bjmqgvz00s.png)
+![Specify Recovery File Type](/Asserts/Images/album/201701/16/215125xbj0b0bjmqgvz00s.png)
 
 
 *指定恢复文件类型*
@@ -109,7 +109,7 @@ $ sudo photorec /dev/sda3
 按 `b` 键保存设置，之后你应该看到如下图所示信息。单击回车键返回（或者按 `Q` 键），再按 `Q` 键返回到主界面。
 
 
-![Save File Recovery Settings](/Asserts/Images//attachment/album/201701/16/215125uiffvlb7plllvlie.png)
+![Save File Recovery Settings](/Asserts/Images/album/201701/16/215125uiffvlb7plllvlie.png)
 
 
 *保存文件恢复设置*
@@ -118,7 +118,7 @@ $ sudo photorec /dev/sda3
 现在选择 `[Search]` 开始文件恢复。在下图中，选择存储文件分区的文件系统类型，然后按回车键。
 
 
-![Select Filesystem to Recover Deleted Files](/Asserts/Images//attachment/album/201701/16/215127n9mdzj0mm09006u0.png)
+![Select Filesystem to Recover Deleted Files](/Asserts/Images/album/201701/16/215127n9mdzj0mm09006u0.png)
 
 
 *选择文件系统类型来恢复删除的文件*
@@ -127,7 +127,7 @@ $ sudo photorec /dev/sda3
 下一步，如下图所示，选择是仅对空闲空间还是整个分区进行分析。注意选择整个分区将会让操作过程变得更长更慢。选择合适的选项后，按回车键继续。
 
 
-![Choose Filesystem to Analyze](/Asserts/Images//attachment/album/201701/16/215127nie1ttinhmv6jivb.png)
+![Choose Filesystem to Analyze](/Asserts/Images/album/201701/16/215127nie1ttinhmv6jivb.png)
 
 
 *选择文件系统进行分析*
@@ -139,7 +139,7 @@ $ sudo photorec /dev/sda3
 按向左箭头返回到根分区下。
 
 
-![Select Directory to Save Recovered Files](/Asserts/Images//attachment/album/201701/16/215129pmtfm9nznm6k8ms6.png)
+![Select Directory to Save Recovered Files](/Asserts/Images/album/201701/16/215129pmtfm9nznm6k8ms6.png)
 
 
 *选择要保存恢复文件的目录*
@@ -151,7 +151,7 @@ $ sudo photorec /dev/sda3
 **注意**：在恢复的过程中，你的系统会变得很慢，很可能会卡住一段时间，请耐心等待直至恢复完成。
 
 
-![Recovering Deleted Files in Linux](/Asserts/Images//attachment/album/201701/16/215130lmff9qdd3dch2c7z.png)
+![Recovering Deleted Files in Linux](/Asserts/Images/album/201701/16/215130lmff9qdd3dch2c7z.png)
 
 
 *在 Linux 系统中恢复已删除的文件*
@@ -160,7 +160,7 @@ $ sudo photorec /dev/sda3
 最后， **Photorec** 工具将会显示出已恢复文件的数量及保存的路径。
 
 
-![Linux File Recovery Summary](/Asserts/Images//attachment/album/201701/16/215130caquld9mkmwum7mk.png)
+![Linux File Recovery Summary](/Asserts/Images/album/201701/16/215130caquld9mkmwum7mk.png)
 
 
 *Linux 文件恢复情况汇总*
@@ -194,7 +194,7 @@ $ gksudo nautilus
 作者简介：
 
 
-![](/Asserts/Images//attachment/album/201701/16/215132hxt55xxtno77zv94.jpg)
+![](/Asserts/Images/album/201701/16/215132hxt55xxtno77zv94.jpg)
 
 
 Aaron Kili 是一个 Linux 系统及 F.O.S.S 爱好者，即将成为一名系统管理员及 Web 开发人员，他现在是 TecMint 网站的内容创建者，他喜欢使用电脑来工作，并且他坚信分享知识是一种美德。

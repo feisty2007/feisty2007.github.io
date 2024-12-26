@@ -76,16 +76,16 @@ root@vps124229 [/opt/gitblit]# java -jar gitblit.jar --baseFolder data
 2015-01-10 09:16:54 [INFO ] Using JCE Unlimited Strength Jurisdiction Policy files
 2015-01-10 09:16:54 [INFO ] Setting up HTTPS transport on port 8443
 2015-01-10 09:16:54 [INFO ]    certificate alias = localhost
-2015-01-10 09:16:54 [INFO ]    keyStorePath   = /opt/gitblit/Asserts/Images//serverKeyStore.jks
-2015-01-10 09:16:54 [INFO ]    trustStorePath = /opt/gitblit/Asserts/Images//serverTrustStore.jks
-2015-01-10 09:16:54 [INFO ]    crlPath        = /opt/gitblit/Asserts/Images//certs/caRevocationList.crl
+2015-01-10 09:16:54 [INFO ]    keyStorePath   = /opt/gitblit/data/serverKeyStore.jks
+2015-01-10 09:16:54 [INFO ]    trustStorePath = /opt/gitblit/data/serverTrustStore.jks
+2015-01-10 09:16:54 [INFO ]    crlPath        = /opt/gitblit/data/certs/caRevocationList.crl
 2015-01-10 09:16:54 [INFO ] Shutdown Monitor listening on port 8081
 2015-01-10 09:16:54 [INFO ] jetty-9.2.3.v20140905
 2015-01-10 09:16:55 [INFO ] NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
 2015-01-10 09:16:55 [INFO ] 
 2015-01-10 09:16:55 [INFO ] ----[com.gitblit.manager.IRuntimeManager]----
-2015-01-10 09:16:55 [INFO ] Basefolder  : /opt/gitblit/Asserts/Images/
-2015-01-10 09:16:55 [INFO ] Settings    : /opt/gitblit/Asserts/Images//gitblit.properties
+2015-01-10 09:16:55 [INFO ] Basefolder  : /opt/gitblit/data
+2015-01-10 09:16:55 [INFO ] Settings    : /opt/gitblit/data/gitblit.properties
 2015-01-10 09:16:55 [INFO ] JVM timezone: America/Montreal (EST -0500)
 2015-01-10 09:16:55 [INFO ] App timezone: America/Montreal (EST -0500)
 2015-01-10 09:16:55 [INFO ] JVM locale  : en_US
@@ -98,16 +98,16 @@ root@vps124229 [/opt/gitblit]# java -jar gitblit.jar --baseFolder data
 2015-01-10 09:16:55 [WARN ] Mail service disabled.
 2015-01-10 09:16:55 [INFO ] 
 2015-01-10 09:16:55 [INFO ] ----[com.gitblit.manager.IUserManager]----
-2015-01-10 09:16:55 [INFO ] ConfigUserService(/opt/gitblit/Asserts/Images//users.conf)
+2015-01-10 09:16:55 [INFO ] ConfigUserService(/opt/gitblit/data/users.conf)
 2015-01-10 09:16:55 [INFO ] 
 2015-01-10 09:16:55 [INFO ] ----[com.gitblit.manager.IAuthenticationManager]----
 2015-01-10 09:16:55 [INFO ] External authentication disabled.
 2015-01-10 09:16:55 [INFO ] 
 2015-01-10 09:16:55 [INFO ] ----    [com.gitblit.transport.ssh.IPublicKeyManager]----
-2015-01-10 09:16:55 [INFO ] FileKeyManager (/opt/gitblit/Asserts/Images//ssh)
+2015-01-10 09:16:55 [INFO ] FileKeyManager (/opt/gitblit/data/ssh)
 2015-01-10 09:16:55 [INFO ] 
 2015-01-10 09:16:55 [INFO ] ----[com.gitblit.manager.IRepositoryManager]----
-2015-01-10 09:16:55 [INFO ] Repositories folder : /opt/gitblit/Asserts/Images//git
+2015-01-10 09:16:55 [INFO ] Repositories folder : /opt/gitblit/data/git
 2015-01-10 09:16:55 [INFO ] Identifying repositories...
 2015-01-10 09:16:55 [INFO ] 0 repositories identified with calculated folder sizes in 11 msecs
 2015-01-10 09:16:55 [INFO ] Lucene will process indexed branches every 2 minutes.
@@ -140,19 +140,19 @@ root@vps124229 [/opt/gitblit]# java -jar gitblit.jar --baseFolder data
 打开浏览器，依据你的配置进入**http://localhost:8080** 或者 **https://localhost:8443**。 输入默认的管理员授权：**admin / admin** 并点击**Login** 按钮
 
 
-![snapshot2](/Asserts/Images//attachment/album/201503/22/220909qqee2ydg33wgyjhw.png)
+![snapshot2](/Asserts/Images/album/201503/22/220909qqee2ydg33wgyjhw.png)
 
 
 ### 添加用户：
 
 
-![snapshot1](/Asserts/Images//attachment/album/201503/22/220910n9sfd1f11priudtt.png)
+![snapshot1](/Asserts/Images/album/201503/22/220910n9sfd1f11priudtt.png)
 
 
 ### 添加仓库：
 
 
-![snapshot3](/Asserts/Images//attachment/album/201503/22/220914u20v6fzu1s0168s1.png)
+![snapshot3](/Asserts/Images/album/201503/22/220914u20v6fzu1s0168s1.png)
 
 
 ### 用命令行创建新的仓库：

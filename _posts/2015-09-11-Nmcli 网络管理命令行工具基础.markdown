@@ -7,7 +7,7 @@ tags:	[linuxcn,nmcli]
 ---
 
 
-![](/Asserts/Images//attachment/album/201509/17/105759s9i4i9wpkyw8ip09.jpg)
+![](/Asserts/Images/album/201509/17/105759s9i4i9wpkyw8ip09.jpg)
 
 
 ### 介绍
@@ -60,7 +60,7 @@ tags:	[linuxcn,nmcli]
 **示例输出：**
 
 
-![](/Asserts/Images//attachment/album/201509/17/105801w5ppjse4gpp8q2wp.png)
+![](/Asserts/Images/album/201509/17/105801w5ppjse4gpp8q2wp.png)
 
 
 #### 得到路由配置
@@ -94,7 +94,7 @@ default via 192.168.1.1 dev eno16777736 proto static metric 100
 输出像traceroute，但是更加完整。
 
 
-![](/Asserts/Images//attachment/album/201509/17/105802rls9dmr97ggqm3qm.png)
+![](/Asserts/Images/album/201509/17/105802rls9dmr97ggqm3qm.png)
 
 
 ### nmcli 工具
@@ -116,7 +116,7 @@ default via 192.168.1.1 dev eno16777736 proto static metric 100
 
 ```
 
-![](/Asserts/Images//attachment/album/201509/17/105802yfaass94qukuqkk4.png)
+![](/Asserts/Images/album/201509/17/105802yfaass94qukuqkk4.png)
 
 
 #### 得到特定连接的详情
@@ -131,7 +131,7 @@ default via 192.168.1.1 dev eno16777736 proto static metric 100
 **示例输出：**
 
 
-![](/Asserts/Images//attachment/album/201509/17/105802upxvxpfxepvl0psl.png)
+![](/Asserts/Images/album/201509/17/105802upxvxpfxepvl0psl.png)
 
 
 #### 得到网络设备状态
@@ -222,7 +222,7 @@ Connection 'static' (8e69d847-03d7-47c7-8623-bb112f5cc842) successfully added.
 
 ```
 
-![](/Asserts/Images//attachment/album/201509/17/105803yg4zwfi70m7fgi00.png)
+![](/Asserts/Images/album/201509/17/105803yg4zwfi70m7fgi00.png)
 
 
 #### 添加DNS设置到静态连接中
@@ -263,7 +263,7 @@ Connection 'static' (8e69d847-03d7-47c7-8623-bb112f5cc842) successfully added.
 
 ```
 
-![](/Asserts/Images//attachment/album/201509/17/105804p999fmwnlddk6dsn.png)
+![](/Asserts/Images/album/201509/17/105804p999fmwnlddk6dsn.png)
 
 
 你会看见，设置生效了。

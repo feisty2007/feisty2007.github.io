@@ -10,7 +10,7 @@ tags:	[linuxcn,单元测试]
 在这篇文章中，我们将介绍单元测试的布尔断言方法 `assertTrue` 和 `assertFalse` 与身份断言 `assertIs` 之间的区别。
 
 
-![](/Asserts/Images//attachment/album/201610/30/215451lzjhnhy8qquumq8n.jpg)
+![](/Asserts/Images/album/201610/30/215451lzjhnhy8qquumq8n.jpg)
 
 
 ### 定义

@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE,小部件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/30/225133j5bvbvb5bzdgg4gn.jpg)
+![](/Asserts/Images/album/202310/30/225133j5bvbvb5bzdgg4gn.jpg)
 
 
 
@@ -65,7 +65,7 @@ Plasma 小部件 API 已随着即将发布的版本进行了修改。而且，�
 你可以在 “[Plasma 6 扩展](https://store.kde.org/browse?cat=705&ord=latest)” 下找到与 Plasma 6 兼容的小部件。在撰写本文时，只能看到列出了两个第三方小部件。
 
 
-![](/Asserts/Images//attachment/album/202310/30/225207ucy9rcrxr0wyryrr.jpg)
+![](/Asserts/Images/album/202310/30/225207ucy9rcrxr0wyryrr.jpg)
 
 
 因此，当你喜欢的小部件被移植到 KDE Plasma 6 并由相关开发者上传后，你就会发现它们的踪迹。

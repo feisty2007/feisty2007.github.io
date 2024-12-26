@@ -7,10 +7,10 @@ tags:	[linuxcn,OpenOffice,龙芯,恶意应用]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/01/165408byw6tzoiywpdy6wc.jpg)
+![](/Asserts/Images/album/202209/01/165408byw6tzoiywpdy6wc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/01/165415wqpblmaz3ovaj3d3.jpg)
+![](/Asserts/Images/album/202209/01/165415wqpblmaz3ovaj3d3.jpg)
 
 
 ### Apache OpenOffice 下载量超过 3.33 亿次，主要是 Windows 用户
@@ -35,7 +35,7 @@ tags:	[linuxcn,OpenOffice,龙芯,恶意应用]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/01/165429s5aa50sfqqhtrysw.jpg)
+![](/Asserts/Images/album/202209/01/165429s5aa50sfqqhtrysw.jpg)
 
 
 ### QEMU 7.1 发布，支持 LoongArch 64 位架构
@@ -60,7 +60,7 @@ QEMU 7.1 在开源 Linux 虚拟化堆栈中发挥着重要作用。在最新的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/01/165449offsll5u53xduf55.jpg)
+![](/Asserts/Images/album/202209/01/165449offsll5u53xduf55.jpg)
 
 
 ### 恶意应用伪装成谷歌翻译桌面应用来挖矿

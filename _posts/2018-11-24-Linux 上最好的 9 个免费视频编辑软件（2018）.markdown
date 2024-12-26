@@ -15,7 +15,7 @@ tags:	[linuxcn,视频编辑]
 > 
 
 
-![Linux 上最好的视频编辑器](/Asserts/Images//attachment/album/201811/02/204345u32noteb8n128ook.png)
+![Linux 上最好的视频编辑器](/Asserts/Images/album/201811/02/204345u32noteb8n128ook.png)
 
 
 我们曾经在一篇短文中讨论过 [Linux 上最好的照片管理应用](https://itsfoss.com/linux-photo-management-software/)，[Linux 上最好的代码编辑器](https://itsfoss.com/best-modern-open-source-code-editors-for-linux/)。今天我们将讨论 **Linux 上最好的视频编辑软件**。
@@ -51,7 +51,7 @@ tags:	[linuxcn,视频编辑]
 ### 1、 Kdenlive
 
 
-![Kdenlive - Ubuntu 上的免费视频编辑器](/Asserts/Images//attachment/album/201811/02/204346cz44445pg454e3f4.jpg)
+![Kdenlive - Ubuntu 上的免费视频编辑器](/Asserts/Images/album/201811/02/204346cz44445pg454e3f4.jpg)
 
 
 [Kdenlive](https://kdenlive.org/) 是 [KDE](https://www.kde.org/) 上的一个自由且[开源](https://itsfoss.com/tag/open-source/)的视频编辑软件，支持双视频监控、多轨时间线、剪辑列表、自定义布局、基本效果，以及基本过渡效果。
@@ -109,7 +109,7 @@ sudo apt install kdenlive
 ### 2、 OpenShot
 
 
-![Openshot - ubuntu 上的免费视频编辑器](/Asserts/Images//attachment/album/201811/02/204347tno7ojnq9z9qjq7f.jpg)
+![Openshot - ubuntu 上的免费视频编辑器](/Asserts/Images/album/201811/02/204347tno7ojnq9z9qjq7f.jpg)
 
 
 [OpenShot](http://www.openshot.org/) 是 Linux 上的另一个多用途视频编辑器。OpenShot 可以帮助你创建具有过渡和效果的视频。你还可以调整声音大小。当然，它支持大多数格式和编解码器。
@@ -174,7 +174,7 @@ sudo apt install openshot
 ### 3、 Shotcut
 
 
-![Shotcut Linux 视频编辑器](/Asserts/Images//attachment/album/201811/02/204349kbzimpje6u6je2wf.jpg)
+![Shotcut Linux 视频编辑器](/Asserts/Images/album/201811/02/204349kbzimpje6u6je2wf.jpg)
 
 
 [Shotcut](https://www.shotcut.org/) 是 Linux 上的另一个编辑器，可以和 Kdenlive 与 OpenShot 归为同一联盟。虽然它确实与上面讨论的其他两个软件有类似的功能，但 Shotcut 更先进的地方是支持 4K 视频。
@@ -229,7 +229,7 @@ Shotcut 以 [Snap](https://itsfoss.com/use-snap-packages-ubuntu-16-04/) 格式�
 ### 4、 Flowblade
 
 
-![Flowblade ubuntu 上的视频编辑器](/Asserts/Images//attachment/album/201811/02/204350k71e99njyd7kkov1.jpg)
+![Flowblade ubuntu 上的视频编辑器](/Asserts/Images/album/201811/02/204350k71e99njyd7kkov1.jpg)
 
 
 [Flowblade](http://jliljebl.github.io/flowblade/) 是 Linux 上的一个多轨非线性视频编辑器。与上面讨论的一样，这也是一个自由开源的软件。它具有时尚和现代化的用户界面。
@@ -289,7 +289,7 @@ sudo apt install flowblade
 ### 5、 Lightworks
 
 
-![Lightworks 运行在 ubuntu 16.04](/Asserts/Images//attachment/album/201811/02/204351udkc8guc82du78lw.jpg)
+![Lightworks 运行在 ubuntu 16.04](/Asserts/Images/album/201811/02/204351udkc8guc82du78lw.jpg)
 
 
 如果你在寻找一个具有更多特性的视频编辑器，这就是你想要的。[Lightworks](https://www.lwks.com/) 是一个跨平台的专业视频编辑器，可以在 Linux、Mac OS X 以及 Windows上使用。
@@ -349,7 +349,7 @@ Lightworks 为 Debian 和基于 Ubuntu 的 Linux 提供了 DEB 安装包，为�
 ### 6、 Blender
 
 
-![Blender 运行在 Ubuntu 16.04](/Asserts/Images//attachment/album/201811/02/204352a640yhq4a9l30aa4.jpg)
+![Blender 运行在 Ubuntu 16.04](/Asserts/Images/album/201811/02/204352a640yhq4a9l30aa4.jpg)
 
 
 [Blender](https://www.blender.org/) 是一个专业的，工业级的开源跨平台视频编辑器。它在制作 3D 作品的工具当中较为流行。Blender 已被用于制作多部好莱坞电影，包括蜘蛛侠系列。
@@ -393,7 +393,7 @@ Blender 的最新版本可以从[下载页面](https://www.blender.org/download/
 ### 7、 Cinelerra
 
 
-![Cinelerra Linux 上的视频编辑器](/Asserts/Images//attachment/album/201811/02/204354a274mr7aywcym7c4.jpg)
+![Cinelerra Linux 上的视频编辑器](/Asserts/Images/album/201811/02/204354a274mr7aywcym7c4.jpg)
 
 
 [Cinelerra](http://cinelerra.org/) 从 1998 年发布以来，已被下载超过 500 万次。它是 2003 年第一个在 64 位系统上提供非线性编辑的视频编辑器。当时它是 Linux 用户的首选视频编辑器，但随后一些开发人员丢弃了此项目，它也随之失去了光彩。
@@ -438,7 +438,7 @@ Cinelerra 特性：
 ### 8、 DaVinci Resolve
 
 
-![DaVinci Resolve 视频编辑器](/Asserts/Images//attachment/album/201811/02/204355t4vgiesbsgivjv4o.jpg)
+![DaVinci Resolve 视频编辑器](/Asserts/Images/album/201811/02/204355t4vgiesbsgivjv4o.jpg)
 
 
 如果你想要好莱坞级别的视频编辑器，那就用好莱坞正在使用的专业工具。来自 Blackmagic 公司的 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) 就是专业人士用于编辑电影和电视节目的专业工具。
@@ -488,7 +488,7 @@ DaVinci Resolve 特性：
 ### 9、 VidCutter
 
 
-![VidCutter Linux 上的视频编辑器](/Asserts/Images//attachment/album/201811/02/204356skf1ofwuakfuvata.jpg)
+![VidCutter Linux 上的视频编辑器](/Asserts/Images/album/201811/02/204356skf1ofwuakfuvata.jpg)
 
 
 不像这篇文章讨论的其他视频编辑器，[VidCutter](https://itsfoss.com/vidcutter-video-editor-linux/) 非常简单。除了分割和合并视频之外，它没有其他太多功能。但有时你正好需要 VidCutter 提供的这些功能。

@@ -7,10 +7,10 @@ tags:	[linuxcn,操作系统,汽车,CPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/14/171620w88tgvbdkbidkvki.jpg)
+![](/Asserts/Images/album/202203/14/171620w88tgvbdkbidkvki.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/14/171701m11wtsuwfuaxjut1.jpg)
+![](/Asserts/Images/album/202203/14/171701m11wtsuwfuaxjut1.jpg)
 
 
 ### 号称“首个中文编写的操作系统”被质疑
@@ -30,7 +30,7 @@ tags:	[linuxcn,操作系统,汽车,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/14/171720eosf66n6hsu49u1u.jpg)
+![](/Asserts/Images/album/202203/14/171720eosf66n6hsu49u1u.jpg)
 
 
 ### 福特计划销售缺少部分芯片的 SUV
@@ -47,7 +47,7 @@ tags:	[linuxcn,操作系统,汽车,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/14/171853mn1l2a3rug2a7u2g.jpg)
+![](/Asserts/Images/album/202203/14/171853mn1l2a3rug2a7u2g.jpg)
 
 
 ### 因为最近的“幽灵”漏洞，原定的 Linux 5.17 发布延迟了

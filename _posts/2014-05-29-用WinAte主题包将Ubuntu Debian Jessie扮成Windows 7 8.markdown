@@ -7,7 +7,7 @@ tags:	[linuxcn,WinAte,主题,Windows]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/26/125739alclbc2bzcevbrlj.jpg)
+![](/Asserts/Images/album/201405/26/125739alclbc2bzcevbrlj.jpg)
 
 
 **WinAte最近刚刚发布一个更新，这个主题包能够将你的Ubuntu/Debian变得看起来像Windows 7/Windows 8。** （译注，虽然很多人对将好好的Linux扮成Windows不以为然，不过未尝不是一个有趣的体验？）

@@ -21,7 +21,7 @@ tags:	[linuxcn,图像编辑器]
 ### PhotoFlare：一个简单的图像编辑器
 
 
-![](/Asserts/Images//attachment/album/202008/21/233828npoopm43suckztpt.jpg)
+![](/Asserts/Images/album/202008/21/233828npoopm43suckztpt.jpg)
 
 
 Photoflare 是一个在简单易用的界面里提供了基本的图像编辑功能的编辑器。
@@ -42,7 +42,7 @@ Photoflare 是一个在简单易用的界面里提供了基本的图像编辑功
 批处理编辑选项可让你同时为多张图片调整大小、转换文件格式和添加滤镜。
 
 
-![Batch Editing Feature in Photoflare | Photo Credit: Photoflare website](/Asserts/Images//attachment/album/202008/21/233806a8u8urp9ujj6y9zp.png)
+![Batch Editing Feature in Photoflare | Photo Credit: Photoflare website](/Asserts/Images/album/202008/21/233806a8u8urp9ujj6y9zp.png)
 
 
 ### Photoflare 的功能
@@ -65,7 +65,7 @@ Photoflare 是一个在简单易用的界面里提供了基本的图像编辑功
 ### 在 Linux 上安装 Photflare
 
 
-![](/Asserts/Images//attachment/album/202008/21/233811cjuu7pdbye2uoqaq.png)
+![](/Asserts/Images/album/202008/21/233811cjuu7pdbye2uoqaq.png)
 
 
 在 Photoflare 的网站上，你可以找到定价以及每月订阅的选项。但是，该应用是开源的，它的[源码可在 GitHub 上找到](https://github.com/PhotoFlare/photoflare)。

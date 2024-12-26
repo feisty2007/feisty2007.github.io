@@ -7,7 +7,7 @@ tags:	[linuxcn,密码,RHEL,CentOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/15/094404hqqjna63c3rqhjnl.jpg)
+![](/Asserts/Images/album/201702/15/094404hqqjna63c3rqhjnl.jpg)
 
 
 ### 介绍

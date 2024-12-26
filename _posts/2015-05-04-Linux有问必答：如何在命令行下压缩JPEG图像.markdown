@@ -132,7 +132,7 @@ photo.jpg 2048x1536 24bit N ICC JFIF  [OK] 882178 --> 301780 bytes (65.79%), opt
 在牺牲质量的基础上，将会得到一个更小的图片。
 
 
-![](/Asserts/Images//attachment/album/201505/13/064505nhr131eqv3v3047p.jpg)
+![](/Asserts/Images/album/201505/13/064505nhr131eqv3v3047p.jpg)
 
 
 ### 一次压缩多张JPEG图像

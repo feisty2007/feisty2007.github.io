@@ -15,7 +15,7 @@ tags:	[linuxcn,Lumina]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/23/070658vtgg3wkrpg5g36rs.jpg)
+![](/Asserts/Images/album/201912/23/070658vtgg3wkrpg5g36rs.jpg)
 
 
 多年来，有一个名为 PC-BSD 的基于 FreeBSD 的桌面操作系统（OS）。它旨在作为一个常规使用的系统，因此值得注意，因为 BSD 主要用于服务器。大多数时候，PC-BSD 默认带 KDE 桌面，但是 KDE 越来越依赖于 Linux 特定的技术，因此 PC-BSD 越来越从 KDE 迁离。PC-BSD 变成了 [Trident](https://project-trident.org/)，它的默认桌面是 [Lumina](https://lumina-desktop.org/)，它是一组小部件，它们使用与 KDE 相同的基于 Qt 的工具包，运行在 Fluxbox 窗口管理器上。
@@ -30,13 +30,13 @@ tags:	[linuxcn,Lumina]
 在 GDM 中：
 
 
-![Selecting your desktop in GDM](/Asserts/Images//attachment/album/201912/23/070722llb9m1xm2lsguunx.jpg "Selecting your desktop in GDM")
+![Selecting your desktop in GDM](/Asserts/Images/album/201912/23/070722llb9m1xm2lsguunx.jpg "Selecting your desktop in GDM")
 
 
 在 SDDM 中：
 
 
-![Selecting your desktop in KDM](/Asserts/Images//attachment/album/201912/23/070722rtp4riotq4ktwokn.jpg "Selecting your desktop in KDM")
+![Selecting your desktop in KDM](/Asserts/Images/album/201912/23/070722rtp4riotq4ktwokn.jpg "Selecting your desktop in KDM")
 
 
 ### Lumina 桌面
@@ -48,7 +48,7 @@ Lumina 提供了一个简单而轻巧的桌面环境。屏幕底部有一个面�
 除了这个基本的桌面结构外，Lumina 还有自定义文件管理器、PDF 查看器，截图工具、媒体播放器、文本编辑器和存档工具。还有一个配置程序可以帮助你自定义 Lumina 桌面，并且右键单击桌面可以找到更多配置选项。
 
 
-![Lumina desktop running on Project Trident](/Asserts/Images//attachment/album/201912/23/070723x5nzvn4tnffu4ub7.jpg "Lumina desktop running on Project Trident")
+![Lumina desktop running on Project Trident](/Asserts/Images/album/201912/23/070723x5nzvn4tnffu4ub7.jpg "Lumina desktop running on Project Trident")
 
 
 Lumina 与几个 Linux 轻量级桌面非常相似，尤其是 LXQT，不同之处在于 Lumina 完全不依赖于基于 Linux 的桌面框架（例如 ConsoleKit、PolicyKit、D-Bus 或 systemd）。对于你而言，这是否具有优势取决于所运行的操作系统。毕竟，如果你运行的是可以访问这些功能的 Linux，那么使用不使用这些特性的桌面可能就没有多大意义，还会减少功能。如果你运行的是 BSD，那么在 Fluxbox 中运行 Lumina 部件意味着你不必从 ports 安装 Linux 兼容库。

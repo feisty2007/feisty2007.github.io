@@ -10,7 +10,7 @@ tags:	[linuxcn,Postfix]
 这里是一些我每天用的命令，当然，其他的email管理员也会使用，因此我写下来，以防我忘记。
 
 
-![](/Asserts/Images//attachment/album/201412/21/231809l59o99glc5tc5plz.png)
+![](/Asserts/Images/album/201412/21/231809l59o99glc5tc5plz.png)
 
 
 列出/打印当前邮件队列

@@ -7,10 +7,10 @@ tags:	[linuxcn,GPT-4,Twitter,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/02/182829oddzzpetwett3nzm.jpg)
+![](/Asserts/Images/album/202302/02/182829oddzzpetwett3nzm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/02/182839h3ifauyvbuqbvqbf.jpg)
+![](/Asserts/Images/album/202302/02/182839h3ifauyvbuqbvqbf.jpg)
 
 
 ### 微软准备将 GPT-4 接入到必应搜索引擎
@@ -35,7 +35,7 @@ tags:	[linuxcn,GPT-4,Twitter,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/02/182849eotcqkcj3qzdfyk3.jpg)
+![](/Asserts/Images/album/202302/02/182849eotcqkcj3qzdfyk3.jpg)
 
 
 ### Twitter API 将不再提供免费访问
@@ -63,7 +63,7 @@ Twitter 宣布，从 2 月 9 日开始它的 API 将不再支持免费访问，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/02/182908p7zo88tsf27of9os.jpg)
+![](/Asserts/Images/album/202302/02/182908p7zo88tsf27of9os.jpg)
 
 
 ### AI 图像合成模型会“记忆”一点点训练图像

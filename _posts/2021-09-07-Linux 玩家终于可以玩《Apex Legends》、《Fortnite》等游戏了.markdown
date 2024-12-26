@@ -15,7 +15,7 @@ tags:	[linuxcn,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/25/164557unaqpwqxua7q8sha.png)
+![](/Asserts/Images/album/202109/25/164557unaqpwqxua7q8sha.png)
 
 
 Linux 玩家们，这可是个大新闻啊！

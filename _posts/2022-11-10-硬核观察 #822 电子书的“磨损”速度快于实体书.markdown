@@ -7,10 +7,10 @@ tags:	[linuxcn,电子书,超算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/16/172717v1vtwp3ko1wwd1p1.jpg)
+![](/Asserts/Images/album/202211/16/172717v1vtwp3ko1wwd1p1.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/16/172726jfa4ykfzxf9k3ft4.jpg)
+![](/Asserts/Images/album/202211/16/172726jfa4ykfzxf9k3ft4.jpg)
 
 
 ### 电子书的“磨损”速度快于实体书
@@ -35,7 +35,7 @@ tags:	[linuxcn,电子书,超算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/16/172822gmvh4uhu4b1wmb9w.jpg)
+![](/Asserts/Images/album/202211/16/172822gmvh4uhu4b1wmb9w.jpg)
 
 
 ### 16 台晶圆级芯片计算机集群组成千万核超算
@@ -60,7 +60,7 @@ tags:	[linuxcn,电子书,超算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/16/172835f1x7oxe4n2nt71z1.jpg)
+![](/Asserts/Images/album/202211/16/172835f1x7oxe4n2nt71z1.jpg)
 
 
 ### 美国的 Frontier 超算继续占据 TOP500 榜首

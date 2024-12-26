@@ -7,7 +7,7 @@ tags:	[linuxcn,WAF,ModSecurity]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/16/092516o1kqhzphvhh4h1hl.jpg)
+![](/Asserts/Images/album/202312/16/092516o1kqhzphvhh4h1hl.jpg)
 
 
 

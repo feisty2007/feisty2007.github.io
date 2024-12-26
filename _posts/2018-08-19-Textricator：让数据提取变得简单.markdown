@@ -15,7 +15,7 @@ tags:	[linuxcn,数据,PDF,提取]
 > 
 
 
-![](/Asserts/Images//attachment/album/201808/04/200410qckjc5jtdfc9d0gd.png)
+![](/Asserts/Images/album/201808/04/200410qckjc5jtdfc9d0gd.png)
 
 
 你可能知道这种感觉：你请求得到数据并得到积极的响应，只打开电子邮件并发现一大堆附加的 PDF。数据——中断。

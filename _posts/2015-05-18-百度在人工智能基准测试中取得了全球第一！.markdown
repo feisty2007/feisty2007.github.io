@@ -7,7 +7,7 @@ tags:	[linuxcn,百度,超算,人工智能]
 ---
 
 
-![](/Asserts/Images//attachment/album/201505/12/211656v8m8wxybppyzjuxb.jpg)
+![](/Asserts/Images/album/201505/12/211656v8m8wxybppyzjuxb.jpg)
 
 
 据《华尔街日报》报道，百度公司发布消息称，它取得了近来备受关注的人工智能基准测试的全球最好成绩。这归功于百度研发的秘密武器： Minwa 超级计算机。

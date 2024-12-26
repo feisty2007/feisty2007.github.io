@@ -15,7 +15,7 @@ tags:	[linuxcn,并行,Parallel]
 > 
 
 
-![](/Asserts/Images//attachment/album/201806/06/101823qlborkn96moromor.jpg)
+![](/Asserts/Images/album/201806/06/101823qlborkn96moromor.jpg)
 
 
 你是否有过这种感觉，你的主机运行速度没有预期的那么快？我也曾经有过这种感觉，直到我发现了 GNU Parallel。

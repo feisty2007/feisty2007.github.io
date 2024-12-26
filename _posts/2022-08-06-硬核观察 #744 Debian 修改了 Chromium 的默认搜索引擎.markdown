@@ -7,10 +7,10 @@ tags:	[linuxcn,Chromium,AI,Web3]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/30/210537lbrj0odqdio8vzbt.jpg)
+![](/Asserts/Images/album/202208/30/210537lbrj0odqdio8vzbt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/30/210547z0xmxebl8i4u8euu.jpg)
+![](/Asserts/Images/album/202208/30/210547z0xmxebl8i4u8euu.jpg)
 
 
 ### Debian 修改了 Chromium 的默认搜索引擎
@@ -35,7 +35,7 @@ tags:	[linuxcn,Chromium,AI,Web3]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/30/210557fzgwamyvx1f552vx.jpg)
+![](/Asserts/Images/album/202208/30/210557fzgwamyvx1f552vx.jpg)
 
 
 ### 法国用 AI 发现未申报的私人游泳池，开出千万欧元账单
@@ -60,7 +60,7 @@ tags:	[linuxcn,Chromium,AI,Web3]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/30/210614roqa0lqw4oq4llg0.jpg)
+![](/Asserts/Images/album/202208/30/210614roqa0lqw4oq4llg0.jpg)
 
 
 ### Web3 DNS 供应商可能失去其域名

@@ -7,7 +7,7 @@ tags:	[linuxcn,登录,OTP,Yubikey]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/24/134303a0p8zidc8lar81pn.png)
+![](/Asserts/Images/album/201812/24/134303a0p8zidc8lar81pn.png)
 
 
 ### 介绍

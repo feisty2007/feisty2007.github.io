@@ -15,7 +15,7 @@ tags:	[linuxcn,root,文件管理器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/23/153249mpaa3as3slq3n3ou.jpg)
+![](/Asserts/Images/album/202210/23/153249mpaa3as3slq3n3ou.jpg)
 
 
 在 Windows 中，你通常可以在右键单击上下文菜单中以“以管理员身份打开”的方式打开文件或文件夹。
@@ -33,7 +33,7 @@ tags:	[linuxcn,root,文件管理器]
 例如，KDE Plasma 的默认文件管理器（Dolphin）最近 [添加了此功能](https://www.debugpoint.com/dolphin-root-access/)，因此当需要 root 权限时，它会通过 PolicyKit KDE Agent（polkit）窗口询问你，如下所示。
 
 
-![使用 Polkit 实现 KIO 后的 Dolphin root 访问权限](/Asserts/Images//attachment/album/202210/23/153249kq3q4ck5gpv33ptv.jpg)
+![使用 Polkit 实现 KIO 后的 Dolphin root 访问权限](/Asserts/Images/album/202210/23/153249kq3q4ck5gpv33ptv.jpg)
 
 
 而不是相反的方式。比如，你想在文件管理器中通过 root 打开/执行一些东西时，你不能使用 `sudo dolphin` 以 root 权限运行文件管理器本身。
@@ -64,13 +64,13 @@ admin:///
 * 现在，从这里开始，无论你做什么，它都是管理员或 root。
 
 
-![以管理员身份输入位置地址](/Asserts/Images//attachment/album/202210/23/153249rgd2a2jbdkmmgxff.jpg)
+![以管理员身份输入位置地址](/Asserts/Images/album/202210/23/153249rgd2a2jbdkmmgxff.jpg)
 
 
-![输入管理员密码](/Asserts/Images//attachment/album/202210/23/153250igellxnqx0lnlxlm.jpg)
+![输入管理员密码](/Asserts/Images/album/202210/23/153250igellxnqx0lnlxlm.jpg)
 
 
-![以 root 身份打开 GNOME 文件应用](/Asserts/Images//attachment/album/202210/23/153250dst2ksukzkevtt2h.jpg)
+![以 root 身份打开 GNOME 文件应用](/Asserts/Images/album/202210/23/153250dst2ksukzkevtt2h.jpg)
 
 
 但是，与往常一样，请小心你作为管理员所做的事情。在你以 root 身份验证自己之后，通常很容易忘记。

@@ -7,7 +7,7 @@ tags:	[linuxcn,bash,脚本]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/14/150056qniv8u75vo7qmouz.jpg)
+![](/Asserts/Images/album/201805/14/150056qniv8u75vo7qmouz.jpg)
 
 
 有个简单实用的技巧可以让你的 bash 脚本更稳健 -- 确保总是执行必要的收尾工作，哪怕是在发生异常的时候。要做到这一点，秘诀就是 bash 提供的一个叫做 EXIT 的伪信号，你可以 [trap](http://www.gnu.org/software/bash/manual/bashref.html#index-trap) 它，当脚本因为任何原因退出时，相应的命令或函数就会执行。我们来看看它是如何工作的。

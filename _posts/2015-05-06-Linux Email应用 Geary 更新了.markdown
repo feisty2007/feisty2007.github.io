@@ -10,7 +10,7 @@ tags:	[linuxcn,Geary,email]
 **Geary，Linux上流行的桌面email客户端，更新到版本0.10了 — 并且有了很多新的功能。**
 
 
-![elementary OS上运行的旧版本的Geary](/Asserts/Images//attachment/album/201505/26/153649dywk3qasqudjbkn9.jpg)
+![elementary OS上运行的旧版本的Geary](/Asserts/Images/album/201505/26/153649dywk3qasqudjbkn9.jpg)
 
 
 *elementary OS上运行的旧版本的Geary*
@@ -57,7 +57,7 @@ Yorba建议所有这个客户端的用户都升级到这个发行版。
 ### 在Ubuntu 14.04, 14.10 & 15.04安装Geary 0.10
 
 
-![](/Asserts/Images//attachment/album/201505/26/153650ywtkk05tq65yvkz1.jpg)
+![](/Asserts/Images/album/201505/26/153650ywtkk05tq65yvkz1.jpg)
 
 
 Yorba的最新版本可以从GNOME的Git账户下载可编译的源代码。但说实话：这不是有点麻烦吗？
@@ -86,7 +86,7 @@ sudo apt-get update && sudo apt-get install geary
 在输入最后一条命令并敲击回车键后会提示输入你的密码。输入密码让安装完成。
 
 
-![](/Asserts/Images//attachment/album/201505/26/153650dsjhtr4ra4nlsaa1.png)
+![](/Asserts/Images/album/201505/26/153650dsjhtr4ra4nlsaa1.png)
 
 
 完成后，打开你的桌面环境应用启动面板并查找‘Geary’图标。点击它，添加你的账户并查看[通过信息高速公路下载了什么](https://www.youtube.com/watch?v=rxM8C71GB8w)，开始使用简单的图形界面吧。

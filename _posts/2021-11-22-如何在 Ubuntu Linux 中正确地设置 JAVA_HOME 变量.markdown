@@ -7,7 +7,7 @@ tags:	[linuxcn,JAVA_HOME,Java]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/05/122020qr5pys4p851sf1zs.jpg)
+![](/Asserts/Images/album/202111/05/122020qr5pys4p851sf1zs.jpg)
 
 
 如果你 [在 Ubuntu 上运行 Java 程序](https://itsfoss.com/run-java-program-ubuntu/) ，使用 Eclipse、[Maven](https://maven.apache.org/) 或 Netbeans 等等，你将需要将 `JAVA_HOME` 环境变量设置为正确的路径。否则，你的系统将会向你控诉 “java\_home 环境变量没有设置”。
@@ -39,13 +39,13 @@ javac --version
 上面的命令将核查 Java 编译器的版本。如果已经安装了 Java 编译器，它将显示 Java 版本：
 
 
-![Java Compiler is installed](/Asserts/Images//attachment/album/202111/05/122030h1rrrrgu1e1iwwyu.png)
+![Java Compiler is installed](/Asserts/Images/album/202111/05/122030h1rrrrgu1e1iwwyu.png)
 
 
 如果上面的命令显示像这样未找到 `javac` 命令的错误信息，你得先安装 JDK ：
 
 
-![Java Compiler is not installed](/Asserts/Images//attachment/album/202111/05/122032eml7apli9zfh0sbh.png)
+![Java Compiler is not installed](/Asserts/Images/album/202111/05/122032eml7apli9zfh0sbh.png)
 
 
 如果在你的系统上并没有安装 Java 编译器，使用这条命令来安装 Java 开发工具包 （JDK）：
@@ -81,7 +81,7 @@ which javac
 在这里的问题是，它给出的位置实际上是一个 [符号链接](https://linuxhandbook.com/symbolic-link-linux/) 。你将需要按照下图执行几次：
 
 
-![](/Asserts/Images//attachment/album/202111/05/122033acijqffqnqdz70j8.png)
+![](/Asserts/Images/album/202111/05/122033acijqffqnqdz70j8.png)
 
 
 最简单的方法是直接使用下面这条命令跟随符号链接来以获取实际的可执行文件：
@@ -120,7 +120,7 @@ echo $JAVA_HOME
 
 ```
 
-![](/Asserts/Images//attachment/album/202111/05/122035biq3fdoffdafzo6r.png)
+![](/Asserts/Images/album/202111/05/122035biq3fdoffdafzo6r.png)
 
 
 尝试在同一个终端中运行你的 Java 程序或工程，并查看它是否工作。
@@ -168,7 +168,7 @@ tail -3 ~/.bashrc
 这里是上面的三个命令的全部的输出：
 
 
-![](/Asserts/Images//attachment/album/202111/05/122036bfook1kj4zkj6848.png)
+![](/Asserts/Images/album/202111/05/122036bfook1kj4zkj6848.png)
 
 
 现在，即使你退出会话或重新启动系统，`JAVA_HOME` 环境变量都仍将设置为你所具体指定的值。这就是你所想要的，对吧？

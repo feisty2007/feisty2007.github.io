@@ -7,7 +7,7 @@ tags:	[linuxcn,Redmine,Bugzilla,Trac,Mantis]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/11/112634fvvpwv1tqqp1op2z.png)
+![](/Asserts/Images/album/201606/11/112634fvvpwv1tqqp1op2z.png)
 
 
 生活充满了bug。
@@ -34,7 +34,7 @@ Redmine的设置相当灵活，支持多种数据库后端和几十种语言，�
 如果你想试一试，一个[在线演示](http://demo.redmine.org/)可提供使用。Redmine采用[GPL版本2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)许可证；开源代码可以在工程的[svn仓库](https://svn.redmine.org/redmine)或在[GitHub](https://github.com/redmine/redmine)镜像上找到。
 
 
-![](/Asserts/Images//attachment/album/201606/11/112635szpl56jzollnp5j2.png)
+![](/Asserts/Images/album/201606/11/112635szpl56jzollnp5j2.png)
 
 
 ### Bugzilla
@@ -49,7 +49,7 @@ Redmine的设置相当灵活，支持多种数据库后端和几十种语言，�
 Bugzilla采用[Mozilla公共许可证](https://en.wikipedia.org/wiki/Mozilla_Public_License)，你可以读取他们的[未来路线图](https://www.bugzilla.org/status/roadmap.html)还有在官网尝试一个[示例服务](https://landfill.bugzilla.org/)
 
 
-![](/Asserts/Images//attachment/album/201606/11/112636xhobilio0tmlj0hv.png)
+![](/Asserts/Images/album/201606/11/112636xhobilio0tmlj0hv.png)
 
 
 ### Trac
@@ -64,7 +64,7 @@ Bugzilla采用[Mozilla公共许可证](https://en.wikipedia.org/wiki/Mozilla_Pub
 Trac以[改进的BSD许可协议](http://trac.edgewall.org/wiki/TracLicense)开源，虽然更老的版本发布在GPL下。你可以在一个[自托管仓库](http://trac.edgewall.org/browser)预览Trac的源码或者查看他们的[路线图](http://trac.edgewall.org/wiki/TracRoadmap)对未来的规划。
 
 
-![](/Asserts/Images//attachment/album/201606/11/112636d0ffs3h6thbpyp0t.png)
+![](/Asserts/Images/album/201606/11/112636d0ffs3h6thbpyp0t.png)
 
 
 ### Mantis
@@ -76,7 +76,7 @@ Trac以[改进的BSD许可协议](http://trac.edgewall.org/wiki/TracLicense)开�
 Mantis使用[GPL版本2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)开源许可证书；你可以在[GitHub](https://github.com/mantisbt/mantisbt)浏览他的源代码或查看自托管[路线图](https://www.mantisbt.org/bugs/roadmap_page.php?project=mantisbt&version=1.3.x)对未来的规划。一个示例，你可以查看他们的内部[漏洞跟踪](https://www.mantisbt.org/bugs/my_view_page.php)。
 
 
-![](/Asserts/Images//attachment/album/201606/11/112637bmec3ezx4q4l9j2t.png)
+![](/Asserts/Images/album/201606/11/112637bmec3ezx4q4l9j2t.png)
 
 
 正如我们指出的，这四个不是唯一的选项。想要探索更多？[Apache Bloodhound](https://issues.apache.org/bloodhound/)，[Fossil](http://fossil-scm.org/index.html/doc/trunk/www/index.wiki)，[The Bug Genie](http://www.thebuggenie.com/)，还有很多可替换品都有自己的忠实追随者，每个都有不同的优点和缺点。另外，一些工具在我们[项目管理](https://opensource.com/business/15/1/top-project-management-tools-2015)摘要有问题跟踪功能。所以，哪个是你首选的跟踪和碾压bug的工具？

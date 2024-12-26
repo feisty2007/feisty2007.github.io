@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,free,命令,内存,技巧,教程]
 系统管理员必须维护他们服务器的健康运行。其中一个重要的部分就是内存。当服务器内存使用率过高时，它会降低服务器的性能。Linux有一个称为 **free** 的工具，来监控内存使用率。
 
 
-![](/Asserts/Images//attachment/album/201401/05/2234093zuu33yc4vb3ucsz.png)
+![](/Asserts/Images/album/201401/05/2234093zuu33yc4vb3ucsz.png)
 
 
 ### free 命令是什么
@@ -31,7 +31,7 @@ $ free
 
 ```
 
-![free默认视图](/Asserts/Images//attachment/album/201401/05/223421dzdttdgkzldawkaa.png)
+![free默认视图](/Asserts/Images/album/201401/05/223421dzdttdgkzldawkaa.png)
 
 
 从上面的截图我们看到：
@@ -88,7 +88,7 @@ $ free -m
 
 ```
 
-![free命令以MB为单位](/Asserts/Images//attachment/album/201401/05/223422qm5qt5aonpvjaa2t.png)
+![free命令以MB为单位](/Asserts/Images/album/201401/05/223422qm5qt5aonpvjaa2t.png)
 
 
 这个技巧同样适用于**-b, -k, -g** 以及 **–tera** 选项。
@@ -106,7 +106,7 @@ $ free -h
 
 ```
 
-![人类可读的free](/Asserts/Images//attachment/album/201401/05/22342336drrgervanamzvm.png)
+![人类可读的free](/Asserts/Images/album/201401/05/22342336drrgervanamzvm.png)
 
 
 如我们一起看到的，在1,0数字后这里是**G(GB)**字母。当数字并没有达到GB时，free足够聪明来知道并在每个数字后面跟上合适的单位。后面的**M** - 数字929告诉我们它有929MB(译注: 原文为929 number tell us its 969 Megabytes，这里应该为输入错误)。
@@ -124,7 +124,7 @@ $ free -hs 3
 
 ```
 
-![间隔3s显示free](/Asserts/Images//attachment/album/201401/05/223425odu9o79opxez9sao.png)
+![间隔3s显示free](/Asserts/Images/album/201401/05/223425odu9o79opxez9sao.png)
 
 
 ### 显示高低内存利用率
@@ -139,7 +139,7 @@ $ free -l
 
 ```
 
-![Free 的 低-高 统计](/Asserts/Images//attachment/album/201401/05/2234264hnynn1wh0cc12xc.png)
+![Free 的 低-高 统计](/Asserts/Images/album/201401/05/2234264hnynn1wh0cc12xc.png)
 
 
 ### 显示 Linux 全部内存
@@ -154,7 +154,7 @@ $ free -t
 
 ```
 
-![free命令带总计内存](/Asserts/Images//attachment/album/201401/05/2234274c2m848e56vv6pu8.png)
+![free命令带总计内存](/Asserts/Images/album/201401/05/2234274c2m848e56vv6pu8.png)
 
 
 ### 总结

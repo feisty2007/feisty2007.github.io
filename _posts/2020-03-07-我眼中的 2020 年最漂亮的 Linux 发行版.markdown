@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202003/28/103619o7gog737dg7fi9ii.jpg)
+![](/Asserts/Images/album/202003/28/103619o7gog737dg7fi9ii.jpg)
 
 
 以我的观点，每个人都该有一个 Linux 发行版，不管他们喜欢的是哪种，或者想用来做什么。
@@ -34,7 +34,7 @@ tags:	[linuxcn,Linux,发行版]
 #### 1、elementary OS
 
 
-![](/Asserts/Images//attachment/album/202003/28/103957pckekaa2c22acm5k.png)
+![](/Asserts/Images/album/202003/28/103957pckekaa2c22acm5k.png)
 
 
 首先踏上 T 台的 elementary OS 是最漂亮的 Linux 发行版（如果非得说的话，可以是“之一”）。它靠着一种类似 macOS 的外观，而为 Linux 用户提供了出色的体验。如果你已经适应了 macOS，那么你在使用 elementary OS 时就不会有任何不适感。
@@ -52,7 +52,7 @@ tags:	[linuxcn,Linux,发行版]
 #### 2、深度 Linux
 
 
-![](/Asserts/Images//attachment/album/202003/28/103959w7o3laniud6zdhvb.jpg)
+![](/Asserts/Images/album/202003/28/103959w7o3laniud6zdhvb.jpg)
 
 
 深度 Linux（或许现在该叫统信 UOS？）是另外一个漂亮的 Linux 发行版，它起源于 Debian 的稳定版分支。对于某些人来说，其动画效果（外观和感受）可能有点过度了，虽然它看起来很漂亮。
@@ -70,7 +70,7 @@ tags:	[linuxcn,Linux,发行版]
 #### 3、Pop!\_OS
 
 
-![](/Asserts/Images//attachment/album/202003/28/104000rwusnzbdh7cmbad7.jpg)
+![](/Asserts/Images/album/202003/28/104000rwusnzbdh7cmbad7.jpg)
 
 
 Pop!\_OS 在提供了纯净的 [GNOME](https://www.gnome.org/) 体验的同事，也成功地在 Ubuntu 之上打造出了一个出色的用户界面。
@@ -88,7 +88,7 @@ Pop!\_OS 在提供了纯净的 [GNOME](https://www.gnome.org/) 体验的同事�
 #### 4、Manjaro Linux
 
 
-![](/Asserts/Images//attachment/album/202003/28/104002f22kqk4su0qg2i8m.jpg)
+![](/Asserts/Images/album/202003/28/104002f22kqk4su0qg2i8m.jpg)
 
 
 Manjaro Linux 是一个基于 [Arch](https://en.wikipedia.org/wiki/Arch) 的 Linux 发行版。虽然[安装 Arch Linux](https://itsfoss.com/install-arch-linux/) 是一件稍微复杂的工作，而 Manjaro 则提供了一种更舒适、更流畅的 Arch 体验。
@@ -106,7 +106,7 @@ Manjaro Linux 是一个基于 [Arch](https://en.wikipedia.org/wiki/Arch) 的 Lin
 #### 5、KDE Neon
 
 
-![](/Asserts/Images//attachment/album/202003/28/104004otyhthbiwv5nmpwp.jpg)
+![](/Asserts/Images/album/202003/28/104004otyhthbiwv5nmpwp.jpg)
 
 
 [KDE Neon](https://itsfoss.com/kde-neon-unveiled/) 是为那些想要采用简化的设计方案而仍可以得到丰富体验的用户所准备的。
@@ -127,7 +127,7 @@ KDE Neon 给予你最新的、最好的 KDE Plasma 桌面及 KDE 应用程序。
 #### 6、Zorin OS
 
 
-![](/Asserts/Images//attachment/album/202003/28/104008xtrz4jjot8r4oxfu.jpg)
+![](/Asserts/Images/album/202003/28/104008xtrz4jjot8r4oxfu.jpg)
 
 
 毫无疑问，Zorin OS 是一款令人印象深刻的 Linux 发行版，它努力提供了良好的用户体验，即便是它的精简版也是如此。
@@ -149,7 +149,7 @@ KDE Neon 给予你最新的、最好的 KDE Plasma 桌面及 KDE 应用程序。
 #### 7、Nitrux OS
 
 
-![](/Asserts/Images//attachment/album/202003/28/104011dgeox6d2hf6cghv6.jpg)
+![](/Asserts/Images/album/202003/28/104011dgeox6d2hf6cghv6.jpg)
 
 
 [Nitrux OS](https://itsfoss.com/nitrux-linux-overview/) 在 Linux 发行版里算是个另类，它某种程度上基于 Ubuntu，但是不完全基于 Ubuntu 。
@@ -177,7 +177,7 @@ Nitrux 鼓励使用 [AppImage](https://itsfoss.com/use-appimage-linux/) 应用�
 #### 赠品：eXtern OS (处于‘停滞’开发阶段)
 
 
-![](/Asserts/Images//attachment/album/202003/28/104012tiiasdicyv7du1yi.png)
+![](/Asserts/Images/album/202003/28/104012tiiasdicyv7du1yi.png)
 
 
 如果你想尝试一个实验性的 Linux 发行版，extern OS 是非常漂亮的。

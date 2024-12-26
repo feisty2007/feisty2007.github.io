@@ -7,7 +7,7 @@ tags:	[linuxcn,GRUB,主题]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/29/114710py8bi78opi2t7oop.jpg)
+![](/Asserts/Images/album/202208/29/114710py8bi78opi2t7oop.jpg)
 
 
 
@@ -86,7 +86,7 @@ GRUB 主题的一个重要的贡献者是 **Pling** 网站。但是，Pling 中�
 在主题主页，单击 <ruby> 文件 <rt>  Files </rt></ruby> 标签页。你将会在图像预览的下方找到这个标签页。单击文件链接来下载它。
 
 
-![Download GRUB Theme From Pling](/Asserts/Images//attachment/album/202208/29/114727duysyczelkezfu5l.png)
+![Download GRUB Theme From Pling](/Asserts/Images/album/202208/29/114727duysyczelkezfu5l.png)
 
 
 转到下载位置并提取存档文件：
@@ -187,7 +187,7 @@ GRUB_GFXMODE=1280x800
 
 ```
 
-![Enter Theme Txt File Path And Background Image Resolution](/Asserts/Images//attachment/album/202208/29/114728lwmzaljjofm2mt8l.png)
+![Enter Theme Txt File Path And Background Image Resolution](/Asserts/Images/album/202208/29/114728lwmzaljjofm2mt8l.png)
 
 
 再强调一次，如果这些代码行不存在，简单地添加它们。按下 `CTRL+O` 组合键 和 `CTRL+X` 组合键（LCTT 校注：这是 nano 中的快捷键，如果你使用 Vi/Vim，请使用相应的快捷键）来保持更改并关闭文件。
@@ -224,7 +224,7 @@ done
 
 ```
 
-![Update GRUB](/Asserts/Images//attachment/album/202208/29/114728lon3fa6iai5fozoa.png)
+![Update GRUB](/Asserts/Images/album/202208/29/114728lon3fa6iai5fozoa.png)
 
 
 如果你是在基于 RPM 的系统上（例如 Fedora），运行下面的命令来更新 GRUB ：
@@ -242,13 +242,13 @@ $ sudo grub2-mkconfig -o /boot/grub2/grub.cfg instead
 这是我的 Ubuntu 22.04 LTS 桌面的默认 GRUB 菜单。
 
 
-![Ubuntu Default Grub Menu](/Asserts/Images//attachment/album/202208/29/114729f03t4ioxt6z06sob.png)
+![Ubuntu Default Grub Menu](/Asserts/Images/album/202208/29/114729f03t4ioxt6z06sob.png)
 
 
 这是更新后的带有复古主题的 GRUB 菜单。
 
 
-![Updated GRUB Menu With Descent Theme](/Asserts/Images//attachment/album/202208/29/114730ltuv419vv7qv1wws.png)
+![Updated GRUB Menu With Descent Theme](/Asserts/Images/album/202208/29/114730ltuv419vv7qv1wws.png)
 
 
 很酷，是吧？
@@ -341,19 +341,19 @@ $ sudo ./install.sh
 选择你喜欢的 GRUB 主题背景（例如 tela）。
 
 
-![Choose GRUB Theme Background](/Asserts/Images//attachment/album/202208/29/114730thygoalstyaswsta.png)
+![Choose GRUB Theme Background](/Asserts/Images/album/202208/29/114730thygoalstyaswsta.png)
 
 
 选择图标样式：
 
 
-![Choose Icon Style](/Asserts/Images//attachment/album/202208/29/114731kuz33vhhihhsvuvh.png)
+![Choose Icon Style](/Asserts/Images/album/202208/29/114731kuz33vhhihhsvuvh.png)
 
 
 选择你的显示分辨率。
 
 
-![Choose Display Resolution](/Asserts/Images//attachment/album/202208/29/114732t7h0q7e5haq86lzv.png)
+![Choose Display Resolution](/Asserts/Images/album/202208/29/114732t7h0q7e5haq86lzv.png)
 
 
 现在选择将会安装和应用的 GRUB 主题。
@@ -390,13 +390,13 @@ done
 
 ```
 
-![Install Tela Modern Grub Theme](/Asserts/Images//attachment/album/202208/29/114733lfuyjbjfx7f4ujab.png)
+![Install Tela Modern Grub Theme](/Asserts/Images/album/202208/29/114733lfuyjbjfx7f4ujab.png)
 
 
 重新启动你的系统来查看更改。
 
 
-![Tela GRUB Theme](/Asserts/Images//attachment/album/202208/29/114734jl7zxee7bj3c7lbj.png)
+![Tela GRUB Theme](/Asserts/Images/album/202208/29/114734jl7zxee7bj3c7lbj.png)
 
 
 这是一个漂亮的 GRUB 主题，前所未见。
@@ -426,7 +426,7 @@ $ sudo ./install.sh -b -t whitesur
 重新启动你的系统来查看更改。
 
 
-![Whitesur GRUB Theme](/Asserts/Images//attachment/album/202208/29/114735zw2riu8f18522f1q.png)
+![Whitesur GRUB Theme](/Asserts/Images/album/202208/29/114735zw2riu8f18522f1q.png)
 
 
 ##### 移除 GRUB 主题

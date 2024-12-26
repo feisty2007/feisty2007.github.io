@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,Codium]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/17/100909py38rj0tqxlyrq0t.jpg)
+![](/Asserts/Images/album/202211/17/100909py38rj0tqxlyrq0t.jpg)
 
 
 
@@ -75,7 +75,7 @@ $ sudo apt install python3.10-venv
 点击“<ruby> 文件 <rt>  File </rt></ruby>”菜单，选择“<ruby> 首选项 <rt>  Preferences </rt></ruby>”，然后选择“<ruby> 扩展 <rt>  Extensions </rt></ruby>”。在“<ruby> 扩展 <rt>  Extensions </rt></ruby>”面板中，搜索 Python IntelliSense 扩展。
 
 
-![VS Code 和 Codium 都有一个扩展管理器，它会在页面左侧打开，允许你安装附加模块](/Asserts/Images//attachment/album/202211/17/100932lzbgu5frgf5gtwzd.jpg)
+![VS Code 和 Codium 都有一个扩展管理器，它会在页面左侧打开，允许你安装附加模块](/Asserts/Images/album/202211/17/100932lzbgu5frgf5gtwzd.jpg)
 
 
 你已经在 Codium 中设置了 Python。剩下的就是把它用起来。

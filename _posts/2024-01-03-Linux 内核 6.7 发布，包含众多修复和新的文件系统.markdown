@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/10/160848zkf7awqrclul7m7f.jpg)
+![](/Asserts/Images/album/202401/10/160848zkf7awqrclul7m7f.jpg)
 
 
 
@@ -56,7 +56,7 @@ Linus Torvalds 在 [公告](https://lore.kernel.org/lkml/CAHk-=widprp4XoHUcsDe7e
 #### 英特尔的优化
 
 
-![](/Asserts/Images//attachment/album/202401/10/160929e8z016ic3cpc3a3e.png)
+![](/Asserts/Images/album/202401/10/160929e8z016ic3cpc3a3e.png)
 
 
 首先要讲的是英特尔的 [Meteor Lake](https://en.wikipedia.org/wiki/Meteor_Lake) 处理器。**Linux 内核 6.7 对于英特尔 Meteor Lake 图形提供了原生支持**。在此之前，此项支持还处在 *实验性* 阶段。但现在，你可以在装备有第一代 [Core Ultra](https://www.intel.com/content/www/us/en/products/details/processors/core-ultra.html) 处理器的笔记本上全面享受到它的优势了。
@@ -74,7 +74,7 @@ Linus Torvalds 在 [公告](https://lore.kernel.org/lkml/CAHk-=widprp4XoHUcsDe7e
 #### 增强的 RISC-V 支持
 
 
-![](/Asserts/Images//attachment/album/202401/10/160930ldzqmmu92d9x0rvc.png)
+![](/Asserts/Images/album/202401/10/160930ldzqmmu92d9x0rvc.png)
 
 
 RISC-V 的一大亮点是 **引入了软件阴影调用堆栈**，这旨在保护 CPU 架构免受意外和恶意操作的影响。
@@ -104,7 +104,7 @@ AMD 的 **无缝启动功能已经扩展到支持 Display Core Next 3.0 及以�
 #### 众多存储功能的升级
 
 
-![](/Asserts/Images//attachment/album/202401/10/160931ephd5h1vh1op9ahh.png)
+![](/Asserts/Images/album/202401/10/160931ephd5h1vh1op9ahh.png)
 
 
 我们终于在 Linux 内核 6.7 中迎来了 [Bcachefs](https://bcachefs.org/) 文件系统的引入。如果你对它不熟悉，简单来说，它是一种**写时复制（COW）文件系统**，其重点放在可靠性和稳健表现上。

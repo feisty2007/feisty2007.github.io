@@ -7,7 +7,7 @@ tags:	[linuxcn,视频编辑器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/28/214627yrxlchozeffsyzpf.jpg)
+![](/Asserts/Images/album/201902/28/214627yrxlchozeffsyzpf.jpg)
 
 
 [Olive](https://www.olivevideoeditor.org/) 是一个正在开发的新的开源视频编辑器。这个非线性视频编辑器旨在提供高端专业视频编辑软件的免费替代品。目标高么？我认为是的。
@@ -22,7 +22,7 @@ tags:	[linuxcn,视频编辑器]
 爱好者级和专业级的视频编辑之间的这种差距促使 Olive 的开发人员启动了这个项目。
 
 
-![Olive Video Editor](/Asserts/Images//attachment/album/201902/28/214647tuqi416884qu434x.jpg)
+![Olive Video Editor](/Asserts/Images/album/201902/28/214647tuqi416884qu434x.jpg)
 
 
 *Olive 视频编辑器界面*

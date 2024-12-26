@@ -7,7 +7,7 @@ tags:	[linuxcn,数据库,Calcite]
 ---
 
 
-![Calcite](/Asserts/Images//attachment/album/201704/04/063524fq4v4dvrqn4vmrsj.jpg "Calcite ")
+![Calcite](/Asserts/Images/album/201704/04/063524fq4v4dvrqn4vmrsj.jpg "Calcite ")
 
 
 Calcite 是一个数据框架，它允许你创建自定义数据库功能，微软开发者 Atri Sharma 在 Apache 2016 年 11 月 14-16 日在西班牙塞维利亚举行的 Big Data Europe 中对此进行了讲演。

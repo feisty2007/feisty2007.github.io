@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派,Kubernetes]
 > 
 
 
-![](/Asserts/Images//attachment/album/201705/11/074122ejzzylj8pllnflw8.jpg)
+![](/Asserts/Images/album/201705/11/074122ejzzylj8pllnflw8.jpg)
 
 
 当我开始对 [ARM](https://en.wikipedia.org/wiki/ARM_architecture)设备，特别是 Raspberry Pi 感兴趣时，我的第一个项目是一个 OpenVPN 服务器。

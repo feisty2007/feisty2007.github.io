@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE,Kubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/03/233812h11u1b18p8j0u8ct.jpg)
+![](/Asserts/Images/album/202209/03/233812h11u1b18p8j0u8ct.jpg)
 
 
 KDE 开发人员现在启用了流行的向后移植 PPA，并对 KDE Plasma 5.25 进行了必要的更新，你现在可以将其安装在 Kubuntu 22.04 Jammy Jellyfish 中。下面是方法。
@@ -49,7 +49,7 @@ sudo add-apt-repository ppa:kubuntu-ppa/backports-extra
 
 ```
 
-![Upgrade Kubuntu 22.04 with KDE Plasma 5.25](/Asserts/Images//attachment/album/202209/03/233926dwoyygs509oo90ro.jpg)
+![Upgrade Kubuntu 22.04 with KDE Plasma 5.25](/Asserts/Images/album/202209/03/233926dwoyygs509oo90ro.jpg)
 
 
 现在，通过运行以下命令刷新包列表。然后验证 5.25 包是否可用。
@@ -67,7 +67,7 @@ apt list --upgradable | grep 5.25
 
 ```
 
-![KDE Plasma 5.25 packages are available now](/Asserts/Images//attachment/album/202209/03/233936y5411z40p0048j04.jpg)
+![KDE Plasma 5.25 packages are available now](/Asserts/Images/album/202209/03/233936y5411z40p0048j04.jpg)
 
 
 最后，运行最后一个命令来启动升级。
@@ -88,7 +88,7 @@ sudo apt full-upgrade
 重启后，你应该会在 Kubuntu 22.04 LTS 中看到新的 KDE Plasma 5.25。
 
 
-![KDE Plasma 5.25 in Kubuntu 22.04 LTS](/Asserts/Images//attachment/album/202209/03/233942crr7mxsratcsre6h.jpg)
+![KDE Plasma 5.25 in Kubuntu 22.04 LTS](/Asserts/Images/album/202209/03/233942crr7mxsratcsre6h.jpg)
 
 
 ### 其他向后移植 PPA

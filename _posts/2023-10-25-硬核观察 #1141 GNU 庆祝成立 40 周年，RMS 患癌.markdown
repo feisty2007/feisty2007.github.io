@@ -7,10 +7,10 @@ tags:	[linuxcn,GNU,Python,Snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/01/180818ugr5qgqn1hj6jrfn.jpg)
+![](/Asserts/Images/album/202310/01/180818ugr5qgqn1hj6jrfn.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/01/180718le4e4ucm81eespop.jpg)
+![](/Asserts/Images/album/202310/01/180718le4e4ucm81eespop.jpg)
 
 
 ### GNU 庆祝成立 40 周年，RMS 患癌
@@ -35,7 +35,7 @@ tags:	[linuxcn,GNU,Python,Snap]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/01/180837jmlcv61l12bt0xxt.jpg)
+![](/Asserts/Images/album/202310/01/180837jmlcv61l12bt0xxt.jpg)
 
 
 ### 微软解释在云中提供 Python in Excel 的原因
@@ -60,7 +60,7 @@ tags:	[linuxcn,GNU,Python,Snap]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/01/180851fh76m7375reudmro.jpg)
+![](/Asserts/Images/album/202310/01/180851fh76m7375reudmro.jpg)
 
 
 ### Canonical 的 Snap 商店暂停上传

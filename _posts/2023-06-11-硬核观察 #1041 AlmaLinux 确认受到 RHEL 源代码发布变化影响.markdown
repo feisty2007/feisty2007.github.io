@@ -7,10 +7,10 @@ tags:	[linuxcn,RHEL,AI,E3]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/23/191852hglog9eegeeiht9e.jpg)
+![](/Asserts/Images/album/202306/23/191852hglog9eegeeiht9e.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/23/191905dmjamapx2ja4kxla.jpg)
+![](/Asserts/Images/album/202306/23/191905dmjamapx2ja4kxla.jpg)
 
 
 ### AlmaLinux 确认受到 RHEL 源代码发布变化影响
@@ -35,7 +35,7 @@ tags:	[linuxcn,RHEL,AI,E3]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/23/191918j8996hl2npnjlh27.jpg)
+![](/Asserts/Images/album/202306/23/191918j8996hl2npnjlh27.jpg)
 
 
 ### 哈佛给计算机学生们配备了一位聊天机器人老师
@@ -60,7 +60,7 @@ tags:	[linuxcn,RHEL,AI,E3]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/23/191935g9yt34c11dycd99v.jpg)
+![](/Asserts/Images/album/202306/23/191935g9yt34c11dycd99v.jpg)
 
 
 ### E3 或许再也不会举办

@@ -7,7 +7,7 @@ tags:	[linuxcn,xrandr,分辨率]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/20/153223rhk5n2irohakh8oq.jpg)
+![](/Asserts/Images/album/201801/20/153223rhk5n2irohakh8oq.jpg)
 
 
 像许多笔记本用户一样，我经常将笔记本插入到不同的显示器上（桌面上有多台显示器，演示时有投影机等）。运行 `xrandr` 命令或点击界面非常繁琐，编写脚本也不是很好。

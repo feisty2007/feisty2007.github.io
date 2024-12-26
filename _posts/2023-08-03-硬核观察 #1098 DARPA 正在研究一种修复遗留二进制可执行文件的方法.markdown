@@ -7,10 +7,10 @@ tags:	[linuxcn,反编译,量子计算,固态硬盘]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/19/170411m6tif4mmkbmkzmdm.jpg)
+![](/Asserts/Images/album/202308/19/170411m6tif4mmkbmkzmdm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/19/170423bryttn80ttvbv4ap.jpg)
+![](/Asserts/Images/album/202308/19/170423bryttn80ttvbv4ap.jpg)
 
 
 ### DARPA 正在研究一种修复遗留二进制可执行文件的方法
@@ -35,7 +35,7 @@ tags:	[linuxcn,反编译,量子计算,固态硬盘]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/19/170444a83uqtq3nq0tq8uq.jpg)
+![](/Asserts/Images/album/202308/19/170444a83uqtq3nq0tq8uq.jpg)
 
 
 ### 谷歌发布首个量子弹性 FIDO2 密钥实现
@@ -60,7 +60,7 @@ FIDO2 是快速身份在线认证标准的第二个主要版本，FIDO2 密钥�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/19/170607ehnq3j2qy3nipqjh.jpg)
+![](/Asserts/Images/album/202308/19/170607ehnq3j2qy3nipqjh.jpg)
 
 
 ### 硬盘可能比固态硬盘更环保

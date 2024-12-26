@@ -7,10 +7,10 @@ tags:	[linuxcn,Mastodon,Linux,DDoS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/29/204440z6w675xgcxrw75rw.jpg)
+![](/Asserts/Images/album/202204/29/204440z6w675xgcxrw75rw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/29/204449y3uq3ngn3azp004l.jpg)
+![](/Asserts/Images/album/202204/29/204449y3uq3ngn3azp004l.jpg)
 
 
 ### 欧盟加入 Mastodon 社交网络
@@ -35,7 +35,7 @@ tags:	[linuxcn,Mastodon,Linux,DDoS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/29/204501piq4rx2xidj49434.jpg)
+![](/Asserts/Images/album/202204/29/204501piq4rx2xidj49434.jpg)
 
 
 ### Fedora 正在简化 Linux 图形处理
@@ -60,7 +60,7 @@ Fedora 发行版的开发团队计划改变 Linux 图形处理方式，如果顺
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/29/204521jk2ekvpk8pvkbdvz.jpg)
+![](/Asserts/Images/album/202204/29/204521jk2ekvpk8pvkbdvz.jpg)
 
 
 ### Cloudflare 检测到有史以来最大的 DDoS 容量攻击之一

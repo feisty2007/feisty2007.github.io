@@ -7,10 +7,10 @@ tags:	[linuxcn,2022,网卡,Wine]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/02/190629mrqc1rqcx11laq6a.jpg)
+![](/Asserts/Images/album/202201/02/190629mrqc1rqcx11laq6a.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/02/190641bdwzodqi8d0u0i0w.jpg)
+![](/Asserts/Images/album/202201/02/190641bdwzodqi8d0u0i0w.jpg)
 
 
 ### 微软 Exchange 服务器出现 “2022 年错误”
@@ -27,7 +27,7 @@ tags:	[linuxcn,2022,网卡,Wine]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/02/190926mwlxw5ytyhzxww1n.jpg)
+![](/Asserts/Images/album/202201/02/190926mwlxw5ytyhzxww1n.jpg)
 
 
 ### Nvidia 称其智能网卡速度已经超过了存储的世界纪录
@@ -44,7 +44,7 @@ Nvidia 的智能网卡配置的 [Bluefield](https://www.theregister.com/2021/12/
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/02/191007b9ebbx1i21hw1bqz.jpg)
+![](/Asserts/Images/album/202201/02/191007b9ebbx1i21hw1bqz.jpg)
 
 
 ### Haiku 可以通过 Wine 运行 Windows 应用程序

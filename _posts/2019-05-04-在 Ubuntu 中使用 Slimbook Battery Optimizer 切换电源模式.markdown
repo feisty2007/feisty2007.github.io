@@ -30,7 +30,7 @@ tags:	[linuxcn,电源,电池]
 这个程序叫 Slimbook Battery。它是一个常驻顶栏的指示器小程序，使得你可以快速切换电源模式。
 
 
-![Slimbook Battery Mode Ubuntu](/Asserts/Images//attachment/album/201905/25/101349katxob9x5oobb5tb.jpg)
+![Slimbook Battery Mode Ubuntu](/Asserts/Images/album/201905/25/101349katxob9x5oobb5tb.jpg)
 
 
 你可能在 Windows 中见过类似的程序。Slimbook Battery 和它们一样，提供了类似的电源计划：
@@ -44,7 +44,7 @@ tags:	[linuxcn,电源,电池]
 你可以在高级模式中配置这些模式：
 
 
-![配置多种多样的电源模式](/Asserts/Images//attachment/album/201905/25/101350rlkelgsjji1491nl.jpg)
+![配置多种多样的电源模式](/Asserts/Images/album/201905/25/101350rlkelgsjji1491nl.jpg)
 
 
 如果你觉得你把设置调乱了，你可以用“恢复默认设置”的按钮还原它。
@@ -53,7 +53,7 @@ tags:	[linuxcn,电源,电池]
 你也可以修改像程序自启或默认电源模式这样的通用设置。
 
 
-![Slimbook Battery 通用设置](/Asserts/Images//attachment/album/201905/25/101351o9hj3j6ezm6nl0y9.jpg)
+![Slimbook Battery 通用设置](/Asserts/Images/album/201905/25/101351o9hj3j6ezm6nl0y9.jpg)
 
 
 Slimbook 有专门为多种电源管理参数提供的页面。如果你希望自己配置，请参照 [此页](https://slimbook.es/en/tutoriales/aplicaciones-slimbook/398-slimbook-battery-3-application-for-optimize-battery-of-your-laptop)。
@@ -81,13 +81,13 @@ sudo apt install slimbookbattery
 安装好之后，在菜单中搜索 Slimbook Battery：
 
 
-![启动 Slimbook Battery Optimizer](/Asserts/Images//attachment/album/201905/25/101351tb7mbqfmsju7zusb.jpg)
+![启动 Slimbook Battery Optimizer](/Asserts/Images/album/201905/25/101351tb7mbqfmsju7zusb.jpg)
 
 
 在你点击它之后，你会发现它出现在了顶栏。你可以在这里选择你希望使用的电源模式。
 
 
-![Slimbook Battery 电源模式](/Asserts/Images//attachment/album/201905/25/101349katxob9x5oobb5tb.jpg)
+![Slimbook Battery 电源模式](/Asserts/Images/album/201905/25/101349katxob9x5oobb5tb.jpg)
 
 
 #### 卸载 Slimbook Battery

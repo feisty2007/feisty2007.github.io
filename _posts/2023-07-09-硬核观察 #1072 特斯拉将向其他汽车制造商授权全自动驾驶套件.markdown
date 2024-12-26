@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果,特斯拉,RISC-V]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/24/102758n36atmt36ahz3zs3.jpg)
+![](/Asserts/Images/album/202307/24/102758n36atmt36ahz3zs3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/24/102812ksv3wzlmai36i6oi.jpg)
+![](/Asserts/Images/album/202307/24/102812ksv3wzlmai36i6oi.jpg)
 
 
 ### 特斯拉将向其他汽车制造商授权全自动驾驶套件
@@ -35,7 +35,7 @@ tags:	[linuxcn,苹果,特斯拉,RISC-V]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/24/102823wk1kke77z9zmkqv1.jpg)
+![](/Asserts/Images/album/202307/24/102823wk1kke77z9zmkqv1.jpg)
 
 
 ### 俄罗斯禁止官员们使用苹果手机
@@ -60,7 +60,7 @@ tags:	[linuxcn,苹果,特斯拉,RISC-V]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/24/102842bne0z76uaey8guak.jpg)
+![](/Asserts/Images/album/202307/24/102842bne0z76uaey8guak.jpg)
 
 
 ### RISC-V 现已晋升为 Debian 官方架构

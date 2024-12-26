@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows 95,网络攻击,AI 编程]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/27/192334r14mubszsb1s56ts.jpg)
+![](/Asserts/Images/album/202212/27/192334r14mubszsb1s56ts.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/27/192341bbfwykbu3bgzxkgk.jpg)
+![](/Asserts/Images/album/202212/27/192341bbfwykbu3bgzxkgk.jpg)
 
 
 ### Windows 95 为确保《模拟城市》运行专门做了规避
@@ -35,7 +35,7 @@ tags:	[linuxcn,Windows 95,网络攻击,AI 编程]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/27/192411f8csmcn89smn82s5.jpg)
+![](/Asserts/Images/album/202212/27/192411f8csmcn89smn82s5.jpg)
 
 
 ### 苏黎世保险公司说，网络攻击将变得“不可保”
@@ -60,7 +60,7 @@ tags:	[linuxcn,Windows 95,网络攻击,AI 编程]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/27/192349h1zuf18ijiqa8aue.jpg)
+![](/Asserts/Images/album/202212/27/192349h1zuf18ijiqa8aue.jpg)
 
 
 ### AI 帮助编写的代码更容易出现错误

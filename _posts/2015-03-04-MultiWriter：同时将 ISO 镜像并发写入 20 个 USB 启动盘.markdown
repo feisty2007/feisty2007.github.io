@@ -16,7 +16,7 @@ tags:	[linuxcn,ISO,USB,MultiWriter]
 ### 问题 > 解决
 
 
-![GNOME MultiWriter in action](/Asserts/Images//attachment/album/201503/12/160848jh44ryurrzr32gzt.jpg)
+![GNOME MultiWriter in action](/Asserts/Images/album/201503/12/160848jh44ryurrzr32gzt.jpg)
 
 
 *GNOME MultiWriter 在运行当中*
@@ -40,7 +40,7 @@ Richard Hughes，一个 GNOME 开发者，也面临着类似的困境。他要�
 ### 用例和安装
 
 
-![The app can be installed on Ubuntu](/Asserts/Images//attachment/album/201503/12/160849kfr12e72drrdn2d5.jpg)
+![The app can be installed on Ubuntu](/Asserts/Images/album/201503/12/160849kfr12e72drrdn2d5.jpg)
 
 
 *该应用程序可以在 Ubuntu 上安装*

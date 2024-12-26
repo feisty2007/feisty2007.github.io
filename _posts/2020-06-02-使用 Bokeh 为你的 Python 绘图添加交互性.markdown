@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,绘图]
 > 
 
 
-![](/Asserts/Images//attachment/album/202006/18/164708zz7tjxz7m7ax5lt3.jpg)
+![](/Asserts/Images/album/202006/18/164708zz7tjxz7m7ax5lt3.jpg)
 
 
 在这一系列文章中，我通过在每个 Python 绘图库中制作相同的多条形绘图，来研究不同 Python 绘图库的特性。这次我重点介绍的是 [Bokeh](https://bokeh.org/)（读作 “BOE-kay”）。
@@ -24,7 +24,7 @@ tags:	[linuxcn,Python,绘图]
 Bokeh 中的绘图比[其它一些绘图库](/article-12327-1.html)要复杂一些，但付出的额外努力是有回报的。Bokeh 的设计既允许你在 Web 上创建自己的交互式绘图，又能让你详细控制交互性如何工作。我将通过给我在这个系列中一直使用的多条形图添加工具提示来展示这一点。它绘制了 1966 年到 2020 年之间英国选举结果的数据。
 
 
-![](/Asserts/Images//attachment/album/202006/18/164745tbgswq11b3qqqito.png "A zoomed-in view on the plot")
+![](/Asserts/Images/album/202006/18/164745tbgswq11b3qqqito.png "A zoomed-in view on the plot")
 
 
 *绘图的放大视图（©2019 年 [Anvil](https://anvil.works/blog/plotting-in-bokeh)）*
@@ -199,7 +199,7 @@ Bokeh 图表上数据的可视化形式被称为“<ruby> 字形 <rt>  glyphs </
 这将绘图写入一个 HTML 文件，并在默认的 Web 浏览器中打开它。如下结果：
 
 
-![](/Asserts/Images//attachment/album/202006/18/164747njmjfybwkbb9jlgv.png "A multi-bar plot in Bokeh")
+![](/Asserts/Images/album/202006/18/164747njmjfybwkbb9jlgv.png "A multi-bar plot in Bokeh")
 
 
 *Bokeh 中的多条形绘图（©2019年[Anvil](https://anvil.works/blog/plotting-in-bokeh)）*
@@ -208,7 +208,7 @@ Bokeh 图表上数据的可视化形式被称为“<ruby> 字形 <rt>  glyphs </
 它已经有了一些互动功能，比如盒子缩放。
 
 
-![](/Asserts/Images//attachment/album/202006/18/164826c8yyefswvspee6v6.gif "Bokeh's built-in box zoom")
+![](/Asserts/Images/album/202006/18/164826c8yyefswvspee6v6.gif "Bokeh's built-in box zoom")
 
 
 *Bokeh 内置的盒子缩放（©2019[Anvil](https://anvil.works/blog/plotting-in-bokeh)）*
@@ -239,7 +239,7 @@ Bokeh 图表上数据的可视化形式被称为“<ruby> 字形 <rt>  glyphs </
 下面是结果：
 
 
-![](/Asserts/Images//attachment/album/202006/18/164835yihiiitmiiwu5tpl.gif "The election graph, now with tooltips")
+![](/Asserts/Images/album/202006/18/164835yihiiitmiiwu5tpl.gif "The election graph, now with tooltips")
 
 
 *选举图，现在带有工具提示（© 2019 [Anvil](https://anvil.works/blog/plotting-in-bokeh)）*

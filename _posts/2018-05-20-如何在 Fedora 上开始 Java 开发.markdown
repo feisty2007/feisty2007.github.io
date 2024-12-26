@@ -7,7 +7,7 @@ tags:	[linuxcn,Java]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/13/075645epzn1bt0y1pn8huu.jpg)
+![](/Asserts/Images/album/201805/13/075645epzn1bt0y1pn8huu.jpg)
 
 
 Java 是世界上最流行的编程语言之一。它广泛用于开发物联网设备、Android 程序、Web 和企业应用。本文将提供使用 [OpenJDK](http://openjdk.java.net/) 安装和配置工作站的指南。

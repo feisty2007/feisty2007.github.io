@@ -7,7 +7,7 @@ tags:	[linuxcn,内存,脚本]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/23/085446setqkshf5zk0tn2x.jpg)
+![](/Asserts/Images/album/201906/23/085446setqkshf5zk0tn2x.jpg)
 
 
 目前市场上有许多开源监控工具可用于监控 Linux 系统的性能。当系统达到指定的阈值限制时，它可以发送电子邮件警报。它可以监视 CPU 利用率、内存利用率、交换利用率、磁盘空间利用率等所有内容。

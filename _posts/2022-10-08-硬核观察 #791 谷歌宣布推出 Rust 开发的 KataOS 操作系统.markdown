@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,KataOS,单板计算机,emoji]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/16/190542eh88kh2qth94ihtc.jpg)
+![](/Asserts/Images/album/202210/16/190542eh88kh2qth94ihtc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/16/190630hr6smwwmpc3r3mka.png)
+![](/Asserts/Images/album/202210/16/190630hr6smwwmpc3r3mka.png)
 
 
 ### 谷歌宣布推出 Rust 开发的 KataOS 操作系统
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,KataOS,单板计算机,emoji]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/16/190553pq15n69f71n55ax3.jpg)
+![](/Asserts/Images/album/202210/16/190553pq15n69f71n55ax3.jpg)
 
 
 ### 谷歌搜索 emoji 相关词汇时会报错
@@ -60,7 +60,7 @@ tags:	[linuxcn,谷歌,KataOS,单板计算机,emoji]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/16/190641sn26i4r62a9vqhfq.jpg)
+![](/Asserts/Images/album/202210/16/190641sn26i4r62a9vqhfq.jpg)
 
 
 ### Pine64 宣布了一款不到 10 美元的 Linux 单板计算机

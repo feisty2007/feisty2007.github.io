@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画,ServerLess,NOSQL]
 ---
 
 
-![The Codeless Developer](/Asserts/Images//attachment/album/201709/29/141755mqsppxpp7qoqwktp.png)
+![The Codeless Developer](/Asserts/Images/album/201709/29/141755mqsppxpp7qoqwktp.png)
 
 
 互联网世界新概念层出不穷，往往今天流行的概念和技术，明天就被取代和推翻。比如说，以前大家都说什么<ruby> 服务器 <rt>  Server </rt></ruby>、<ruby> SQL 数据库 <rt>  SQL Database </rt></ruby>和<ruby> 前端 <rt>  Frontend </rt></ruby>，而现在已经开始流行 ServerLess、No-SQL 了。

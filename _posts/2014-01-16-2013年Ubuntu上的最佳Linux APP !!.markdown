@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Linux,APP,Geary,Birdie,Springseed,Unity,Intel,显卡驱动
 ---
 
 
-![2013 – What A Year, Right?](/Asserts/Images//attachment/album/201401/02/2057340oqgyjy9ozpp9qtg.jpg)
+![2013 – What A Year, Right?](/Asserts/Images/album/201401/02/2057340oqgyjy9ozpp9qtg.jpg)
 
 
 *2013 －　怎样的一年呢？*
@@ -31,7 +31,7 @@ tags:	[linuxcn,Ubuntu,Linux,APP,Geary,Birdie,Springseed,Unity,Intel,显卡驱动
 ### Geary
 
 
-![](/Asserts/Images//attachment/album/201401/02/205736p4mbkb88z7takk7h.png)
+![](/Asserts/Images/album/201401/02/205736p4mbkb88z7takk7h.png)
 
 
 2013见证了Yorba，那个Geary背后的非营利组织，尝试通过群众募集来保证Geary的未来，却[募集失败了](http://www.omgubuntu.co.uk/2013/04/geary-fundraiser-fails-at-half-way-mark)。这可能会让这个APP终结；好多APP并没有展现它们真正的潜能，却只能淹没在历史的尘埃中。庆幸的是，Geary依然还在！
@@ -49,7 +49,7 @@ tags:	[linuxcn,Ubuntu,Linux,APP,Geary,Birdie,Springseed,Unity,Intel,显卡驱动
 ### Birdie 推特APP
 
 
-![](/Asserts/Images//attachment/album/201401/02/2057392nclnpnk1n5zilnh.jpg)
+![](/Asserts/Images/album/201401/02/2057392nclnpnk1n5zilnh.jpg)
 
 
 在Linux平台上的推特APP总有些异常。虽然有大量的推特APP，但很少能像在其他操作系统的专有APP那样运行稳定。而当**Birdie**在今年的三月份发布时，一切都改变了。一年过去了,我们亲眼看到它的成长，从起初不稳定,怨声载道地‘小鸡’成长为一个真正成熟和自信的应用程序。
@@ -64,7 +64,7 @@ tags:	[linuxcn,Ubuntu,Linux,APP,Geary,Birdie,Springseed,Unity,Intel,显卡驱动
 ### Springseed
 
 
-![](/Asserts/Images//attachment/album/201401/02/205740651mij1unq6a5ryj.jpg)
+![](/Asserts/Images/album/201401/02/205740651mij1unq6a5ryj.jpg)
 
 
 对笔记使用者来说，2013年笔记工具的选择可不少 --从 GNOME下的*Bijiben*（译注：笔记本！）到强大的*Nitro*。但是对于我来说，小工具*Springseed*更引起了我的关注。
@@ -82,7 +82,7 @@ Springseed是一款免费而且开源的软件，能从官方项目网站中直�
 ### Unity Tweak Tool
 
 
-![](/Asserts/Images//attachment/album/201401/02/205742rce5urcsgrhzgnnr.png)
+![](/Asserts/Images/album/201401/02/205742rce5urcsgrhzgnnr.png)
 
 
 自从年初发布第一个版本，*Unity Tweak Tool*已成为’*必备*’的APP之一，使那些提供Ubuntu后安装建议的人无言以对。用自行设置和定制化工具，可[轻而易举](http://www.thefreedictionary.com/doddle)的量身定制符合自己习惯的 Unity 体验。
@@ -97,7 +97,7 @@ Springseed是一款免费而且开源的软件，能从官方项目网站中直�
 ### Intel 显卡驱动安装程序
 
 
-![](/Asserts/Images//attachment/album/201401/02/205744cr2c8g1rzc7g88a8.png)
+![](/Asserts/Images/album/201401/02/205744cr2c8g1rzc7g88a8.png)
 
 
 Intel （尤其是 Intel的*开源技术中心*）使得用今年发布的 Intel 显卡驱动管理程序，使得在Linux下安装最新最好的Intel显卡驱动更加方便。程序能为用户实现自动检测，下载和安装，你只需要轻点几下鼠标和一点点耐心。
@@ -112,7 +112,7 @@ Intel （尤其是 Intel的*开源技术中心*）使得用今年发布的 Intel
 ### Ubuntu SDK
 
 
-![](/Asserts/Images//attachment/album/201401/02/205746w2cclh27rl3abdab.jpg)
+![](/Asserts/Images/album/201401/02/205746w2cclh27rl3abdab.jpg)
 
 
 这是一个独具一格且重要的选择。今年发布的Ubuntu SDK具备了Ubuntu开发者在手机和平板电脑为 Ubuntu Touch 开发APP 所需的一切。
@@ -127,7 +127,7 @@ Intel （尤其是 Intel的*开源技术中心*）使得用今年发布的 Intel
 ### VoD Enablement App
 
 
-![](/Asserts/Images//attachment/album/201401/02/20574702g8zuwj2ggfxga8.jpg)
+![](/Asserts/Images/album/201401/02/20574702g8zuwj2ggfxga8.jpg)
 
 
 这个条目与其说是一个APP,还不如说作为一个黑客的智慧结晶。无论如何，幸亏有聪明的Erich Hoover，让Netflix，LoveFilm和其他许多基于Silverlight视频流的站点现在首次能在Ubuntu下*轻松*的观看 －　当然，尽管是非正式的！
@@ -151,7 +151,7 @@ Intel （尤其是 Intel的*开源技术中心*）使得用今年发布的 Intel
 ### Lightworks for Linux
 
 
-![](/Asserts/Images//attachment/album/201401/02/20574870m22rolchzo077o.jpg)
+![](/Asserts/Images/album/201401/02/20574870m22rolchzo077o.jpg)
 
 
 Lightworks颇富盛名，奇特而又卓越：有许多特色，强大的功能，面向专业人士，对于多数桌用户来说是不可或缺的利器。无可否认拥有这个APP多么让人震惊啊（常用于编辑一些奥斯卡获奖电影和知名唱片）。
@@ -169,7 +169,7 @@ Lightworks颇富盛名，奇特而又卓越：有许多特色，强大的功能�
 ### GNOME Music 预览
 
 
-![](/Asserts/Images//attachment/album/201401/02/205750unvrq1kjzjxckn7m.jpg)
+![](/Asserts/Images/album/201401/02/205750unvrq1kjzjxckn7m.jpg)
 
 
 好吧，好吧：这还没竣工呢。事实上，如果你没有运行高度不稳定的GNOME PPAs，你甚至不可能在Ubuntu下用这个。

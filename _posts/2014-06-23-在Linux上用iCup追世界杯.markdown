@@ -7,7 +7,7 @@ tags:	[linuxcn,世界杯,iCup]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/22/112037kuu59nzn7k77eoe1.png)
+![](/Asserts/Images/album/201406/22/112037kuu59nzn7k77eoe1.png)
 
 
 嗨，Linux 极客们，

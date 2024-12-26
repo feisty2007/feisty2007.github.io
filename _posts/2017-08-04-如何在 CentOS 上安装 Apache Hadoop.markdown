@@ -7,7 +7,7 @@ tags:	[linuxcn,Hadoop]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/13/210401f4ttrztmdrn7rxey.jpg)
+![](/Asserts/Images/album/201708/13/210401f4ttrztmdrn7rxey.jpg)
 
 
 Apache Hadoop 软件库是一个框架，它允许使用简单的编程模型在计算机集群上对大型数据集进行分布式处理。Apache™ Hadoop® 是可靠、可扩展、分布式计算的开源软件。
@@ -243,7 +243,7 @@ cd /home/hadoop/hadoop/etc/hadoop
 
 <property>
   <name>dfs.data.dir</name>
-    <value>file:///home/hadoop/hadoopdata/hdfs/Asserts/Images/node</value>
+    <value>file:///home/hadoop/hadoopdata/hdfs/datanode</value>
 </property>
 </configuration>
 
@@ -323,7 +323,7 @@ jps
 现在，你可以在浏览器中访问 Hadoop 服务：http://your-ip-address:8088/ 。
 
 
-[![hadoop](/Asserts/Images//attachment/album/201708/13/210539pb8fkxvzybmmhxjx.png)](http://www.unixmen.com/wp-content/uploads/2015/06/hadoop.png)
+[![hadoop](/Asserts/Images/album/201708/13/210539pb8fkxvzybmmhxjx.png)](http://www.unixmen.com/wp-content/uploads/2015/06/hadoop.png)
 
 
 谢谢阅读！！！

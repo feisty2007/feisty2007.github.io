@@ -15,7 +15,7 @@ tags:	[linuxcn,5G]
 > 
 
 
-![FCC](/Asserts/Images//attachment/album/202106/27/103059gjees1zo1le6833e.jpg)
+![FCC](/Asserts/Images/album/202106/27/103059gjees1zo1le6833e.jpg)
 
 
 随着 5G 的发展，为了完全实现它的服务，显然需要更多的频谱来，FCC 显然对此当成重中之重。

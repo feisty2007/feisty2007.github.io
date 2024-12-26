@@ -24,7 +24,7 @@ tags:	[linuxcn,电子邮件,Email]
 ### ElectronMail：Tutanota 和 ProtonMail 的桌面客户端
 
 
-![Electron Mail About](/Asserts/Images//attachment/album/201907/21/200603jedbowmssb6ausub.jpg)
+![Electron Mail About](/Asserts/Images/album/201907/21/200603jedbowmssb6ausub.jpg)
 
 
 [ElectronMail](https://github.com/vladimiry/ElectronMail) 可以简单地视作 ProtonMail 和 Tutanota 的电子邮件客户端。它使用三大技术构建：[Electron](https://electronjs.org/)、[TypeScript](http://www.typescriptlang.org/) 和 [Angular](https://angular.io/)。它包括以下功能：
@@ -62,7 +62,7 @@ ElectronMail 目前是 MIT 许可证。
 对于所有其他 Linux 发行版，你可以[下载](https://github.com/vladimiry/ElectronMail/releases) `.deb` 或 `.rpm` 文件。
 
 
-![Electron Mail Inbox](/Asserts/Images//attachment/album/201907/21/200604tlxe3v4lplsxlclg.jpg)
+![Electron Mail Inbox](/Asserts/Images/album/201907/21/200604tlxe3v4lplsxlclg.jpg)
 
 
 你也可以[下载](https://github.com/vladimiry/ElectronMail/releases)用于 Windows 中的 `.exe` 安装程序或用于 macOS 的 `.dmg` 文件。甚至还有给 FreeBSD 用的文件。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch,Linux,安装,发行版]
 ---
 
 
-![How to install Arch Linux](/Asserts/Images//attachment/album/201712/25/102347o3eceaeca1j9x1zl.png)
+![How to install Arch Linux](/Asserts/Images/album/201712/25/102347o3eceaeca1j9x1zl.png)
 
 
 
@@ -86,7 +86,7 @@ dd bs=4M if=/path/to/archlinux.iso of=/dev/sdx status=progress && sync
 一旦你选择了它，你会看到这样一个选项：
 
 
-![Arch Linux](/Asserts/Images//attachment/album/201712/25/102349b7keeap433ae5e3j.jpg)
+![Arch Linux](/Asserts/Images/album/201712/25/102349b7keeap433ae5e3j.jpg)
 
 
 选择“Boot Arch Linux (x86\_64)”。经过各种系统检查后，Arch Linux 会启动到 root 用户的命令行界面。
@@ -119,7 +119,7 @@ fdisk /dev/sda
 用相同的方法为 `home` 和交换分区创建两个分区，按 `w` 来保存修改并退出。
 
 
-![root partition](/Asserts/Images//attachment/album/201712/25/102350n8f4okn6cucpphfo.png)
+![root partition](/Asserts/Images/album/201712/25/102350n8f4okn6cucpphfo.png)
 
 
 #### 第四步：创建文件系统
@@ -318,7 +318,7 @@ ip link
 
 ```
 
-![](/Asserts/Images//attachment/album/201712/25/102351czseb6ge6eepe63z.png)
+![](/Asserts/Images/album/201712/25/102351czseb6ge6eepe63z.png)
 
 
 在我的电脑上，端口名是 `enp0s3`。

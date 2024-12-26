@@ -22,7 +22,7 @@ Francisco Villarroel是Pacifica图标主题的主要开发者和设计者。他�
 Pacifica图标主题依赖elementary图标主题，当然默认的gnome和hicolor图标主题可以在任何 Gnome-based linux发行版中找到。因此，如果你有需求，Pacifica 图标主题也可以在你的桌面环境或linux发行版上工作。
 
 
-![Review image](/Asserts/Images//attachment/album/201309/29/1415218uzrpbsraoyazlr7.png)
+![Review image](/Asserts/Images/album/201309/29/1415218uzrpbsraoyazlr7.png)
 
 
 让我们开始在Arch Linux 和Ubuntu上安装这个精美的图标主题。首先，这是Ubuntu 12.04 LTS用户使用的安装指令：

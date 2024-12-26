@@ -15,7 +15,7 @@ tags:	[linuxcn,Audacity]
 > 
 
 
-![Audacity 3.2 Released With VST3 Plugins and Apple Silicon Support](/Asserts/Images//attachment/album/202209/28/092218zrp7xrq54eape7r2.jpg)
+![Audacity 3.2 Released With VST3 Plugins and Apple Silicon Support](/Asserts/Images/album/202209/28/092218zrp7xrq54eape7r2.jpg)
 
 
 Audacity 3.2 来了，这是这个最流行的自由开源音频编辑和录制工具之一的小版本更新。
@@ -54,7 +54,7 @@ Audacity 3.2 来了，这是这个最流行的自由开源音频编辑和录制�
 ### 新的效果按钮
 
 
-![audacity 3.2 effects button](/Asserts/Images//attachment/album/202209/28/092219yjpj0srbwmmuw55j.gif)
+![audacity 3.2 effects button](/Asserts/Images/album/202209/28/092219yjpj0srbwmmuw55j.gif)
 
 
 Audacity 的界面中添加了一个专用的实时效果按钮，使用户可以轻松地即时下载和应用效果。
@@ -72,7 +72,7 @@ Audacity 3.2 还引入了对 VST3 插件的支持，这使用户能够利用 VST
 ### 将音频上传到云端
 
 
-![audacity 3.2 share audio button](/Asserts/Images//attachment/album/202209/28/092220qkxvm35gk5fzfvf3.png)
+![audacity 3.2 share audio button](/Asserts/Images/album/202209/28/092220qkxvm35gk5fzfvf3.png)
 
 
 在 Audacity 中加入的另一个令人兴奋的功能是，可以选择直接从应用程序中分享音频到 Audacity 的新云音频平台 [audio.com](https://audio.com/)。

@@ -7,7 +7,7 @@ tags:	[linuxcn,文档,文档标记语言,MarkDown]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/07/225101z4leseqq9zbhn3hh.jpg)
+![](/Asserts/Images/album/202308/07/225101z4leseqq9zbhn3hh.jpg)
 
 
 

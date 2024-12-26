@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,内核,邮件列表]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/01/200520vts43d5466tyt5fh.jpg)
+![](/Asserts/Images/album/202208/01/200520vts43d5466tyt5fh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/01/200532brahhgy4r4zmj8ip.jpg)
+![](/Asserts/Images/album/202208/01/200532brahhgy4r4zmj8ip.jpg)
 
 
 ### Linus 在 Macbook 上发布了 Linux 内核 5.19
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,内核,邮件列表]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/01/200544oo9h326e6w6is6u9.jpg)
+![](/Asserts/Images/album/202208/01/200544oo9h326e6w6is6u9.jpg)
 
 
 ### Linux 内核不过 520
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,内核,邮件列表]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/01/200654tax48nximqizvbn4.jpg)
+![](/Asserts/Images/album/202208/01/200654tax48nximqizvbn4.jpg)
 
 
 ### Python 开发者讨论从邮件列表转移到论坛

@@ -7,7 +7,7 @@ tags:	[linuxcn,输入,统计]
 ---
 
 
-![](/Asserts/Images//attachment/album/201410/25/211341q101qs51jxpp4881.png)
+![](/Asserts/Images/album/201410/25/211341q101qs51jxpp4881.png)
 
 
 如果，你像我这样，是个对统计数据有着狂热癖好的人，那么你必须在你的计算机上安装这个小应用：[WhatPulse](http://whatpulse.org/ref/833872/)
@@ -66,7 +66,7 @@ tags:	[linuxcn,输入,统计]
 要启用网络测量，你也需要**libpcap**包来允许WhatPulse挂钩到网络通信。如果WhatPulse找不到libpcap，它会运行，但不会显示任何网络统计数据。
 
 
-![](/Asserts/Images//attachment/album/201410/25/211346qeg10sslq4v31e9g.png)
+![](/Asserts/Images/album/201410/25/211346qeg10sslq4v31e9g.png)
 
 
 ### 使用应用程序

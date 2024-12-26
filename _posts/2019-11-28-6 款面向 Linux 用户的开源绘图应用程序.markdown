@@ -19,7 +19,7 @@ tags:	[linuxcn,绘图]
 ### 开源绘图 & 绘制应用程序
 
 
-![](/Asserts/Images//attachment/album/201911/09/081317j5msq7a33s4w4xx4.png)
+![](/Asserts/Images/album/201911/09/081317j5msq7a33s4w4xx4.png)
 
 
 **注意:** 该列表没有特别的排名顺序。
@@ -28,7 +28,7 @@ tags:	[linuxcn,绘图]
 #### 1、Pinta
 
 
-![](/Asserts/Images//attachment/album/201911/09/081320yy2z5h2wruy83rzu.png)
+![](/Asserts/Images/album/201911/09/081320yy2z5h2wruy83rzu.png)
 
 
 主要亮点：
@@ -68,7 +68,7 @@ sudo apt install pinta
 #### 2、Krita
 
 
-![](/Asserts/Images//attachment/album/201911/09/081321y10w1vai1bybvcam.png)
+![](/Asserts/Images/album/201911/09/081321y10w1vai1bybvcam.png)
 
 
 主要亮点：
@@ -110,7 +110,7 @@ sudo apt install krita
 #### 3、Tux Paint
 
 
-![](/Asserts/Images//attachment/album/201911/09/081324tggornocegm7hey5.jpg)
+![](/Asserts/Images/album/201911/09/081324tggornocegm7hey5.jpg)
 
 
 主要亮点：
@@ -139,7 +139,7 @@ sudo apt install tuxpaint
 #### 4、Drawpile
 
 
-![](/Asserts/Images//attachment/album/201911/09/081326wkshly2zczccmkey.png)
+![](/Asserts/Images/album/201911/09/081326wkshly2zczccmkey.png)
 
 
 主要亮点：
@@ -169,7 +169,7 @@ Drawpile 是一个有趣的开源绘图应用程序，在该程序中，你可�
 #### 5、MyPaint
 
 
-![](/Asserts/Images//attachment/album/201911/09/081329ey8tj5b5bym85m8m.png)
+![](/Asserts/Images/album/201911/09/081329ey8tj5b5bym85m8m.png)
 
 
 主要亮点：
@@ -203,7 +203,7 @@ sudo apt install mypaint
 #### 6、KolourPaint
 
 
-![](/Asserts/Images//attachment/album/201911/09/081330j02ml0mu20tlt00f.png)
+![](/Asserts/Images/album/201911/09/081330j02ml0mu20tlt00f.png)
 
 
 主要亮点：

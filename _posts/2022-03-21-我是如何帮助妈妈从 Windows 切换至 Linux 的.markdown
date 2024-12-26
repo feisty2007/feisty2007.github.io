@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/29/103155z5khz7z05fl7mz7l.jpg "Red Lego Heart")
+![](/Asserts/Images/album/202203/29/103155z5khz7z05fl7mz7l.jpg "Red Lego Heart")
 
 
 
@@ -58,7 +58,7 @@ tags:	[linuxcn,Linux]
 当妈妈知道我要一次性解决她所有的问题时，她非常开心。但她不知道的是，她将成为一项为期一年的科学实验的关键部分，这个实验叫做：“妈妈能学会使用 Linux 吗？”
 
 
-![Cowsay "Can Mom Survive Linux?"](/Asserts/Images//attachment/album/202203/29/103205m9189d4chck381ge.png "Cowsay \"Can Mom Survive Linux?\"")
+![Cowsay "Can Mom Survive Linux?"](/Asserts/Images/album/202203/29/103205m9189d4chck381ge.png "Cowsay \"Can Mom Survive Linux?\"")
 
 
 （图源 Tomasz Waraksa，遵从[<ruby> 署名-相同方式共享 4.0 国际协议 <rt>  CC BY-SA 4.0 </rt></ruby>](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -72,7 +72,7 @@ tags:	[linuxcn,Linux]
 * 我感觉它很轻量、简单，对妈妈来说足够保守。完全没有 macOS Big Sur 上的花里胡哨！
 
 
-![Zorin OS desktop](/Asserts/Images//attachment/album/202203/29/103206wzk3w4h7pcul37a3.png "Zorin OS desktop")
+![Zorin OS desktop](/Asserts/Images/album/202203/29/103206wzk3w4h7pcul37a3.png "Zorin OS desktop")
 
 
 （图源 Tomasz Waraksa，遵从[<ruby> 署名-相同方式共享 4.0 国际协议 <rt>  CC BY-SA 4.0 </rt></ruby>](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -105,7 +105,7 @@ tags:	[linuxcn,Linux]
 一个小时后，系统和应用全部安装完成，妈妈的 Zorin OS 已准备就绪。
 
 
-![Zorin OS home folder](/Asserts/Images//attachment/album/202203/29/103206bjl8qd243444zd8j.png "Zorin OS home folder")
+![Zorin OS home folder](/Asserts/Images/album/202203/29/103206bjl8qd243444zd8j.png "Zorin OS home folder")
 
 
 （图源 Tomasz Waraksa，遵从[<ruby> 署名-相同方式共享 4.0 国际协议 <rt>  CC BY-SA 4.0 </rt></ruby>](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -128,7 +128,7 @@ tags:	[linuxcn,Linux]
 这样操作之后，我就可以通过安全的 ssh 连接访问到妈妈的笔记本电脑。我可以通过 shell 进行定期维护，而妈妈甚至不会注意到任何事情。这是因为 Linux 完成更新后通常 *不需要* 重新启动。真是一个奇迹啊！简直不可能的事，它是怎么做到的呢？
 
 
-![Updating software remotely](/Asserts/Images//attachment/album/202203/29/103207h36b3fjppptj2crt.png "Updating software remotely")
+![Updating software remotely](/Asserts/Images/album/202203/29/103207h36b3fjppptj2crt.png "Updating software remotely")
 
 
 （图源 Tomasz Waraksa，遵从[<ruby> 署名-相同方式共享 4.0 国际协议 <rt>  CC BY-SA 4.0 </rt></ruby>](https://creativecommons.org/licenses/by-sa/4.0/)）

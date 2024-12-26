@@ -7,7 +7,7 @@ tags:	[linuxcn,VxFX]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/17/095154jxqizcscc3xjuzrl.jpg)
+![](/Asserts/Images/album/202309/17/095154jxqizcscc3xjuzrl.jpg)
 
 
 扩展 VxFX 文件系统是 Linux/Unix 管理员的一项日常任务，可以通过以下文章中描述的几个步骤在线完成此任务：
@@ -31,10 +31,10 @@ tags:	[linuxcn,VxFX]
 
 
 ```
-# df -hP /Asserts/Images/
+# df -hP /data
 
 Filesystem                  Size  Used Avail Use% Mounted on
-/dev/vx/dsk/testdg/testvol  9.0G  8.4G 0.6G  95%  /Asserts/Images/
+/dev/vx/dsk/testdg/testvol  9.0G  8.4G 0.6G  95%  /data
 
 ```
 
@@ -140,7 +140,7 @@ vxdisksetup -i sdf
 上面的命令将磁盘 `sdf` 带到 Veritas 卷管理器（VxVM），并且磁盘状态现在更改为 `online`。
 
 
-![](/Asserts/Images//attachment/album/202309/17/095225ffh9ss4encczrejz.jpg)
+![](/Asserts/Images/album/202309/17/095225ffh9ss4encczrejz.jpg)
 
 
 ### 步骤 6：将磁盘添加到 VxVM 中的磁盘组（DG）
@@ -221,15 +221,15 @@ vxresize -b -g testdg testvol +5g
 ### 步骤 9：检查扩展 VxFS 文件系统
 
 
-最后，使用 `df` 命令检查 `/Asserts/Images/` 的扩展 VxFS：
+最后，使用 `df` 命令检查 `/data` 的扩展 VxFS：
 
 
 
 ```
-# df -hP /Asserts/Images/
+# df -hP /data
 
 Filesystem                  Size  Used Avail Use% Mounted on
-/dev/vx/dsk/testdg/testvol  14G   8.4G 5.6G  68%  /Asserts/Images/
+/dev/vx/dsk/testdg/testvol  14G   8.4G 5.6G  68%  /data
 
 ```
 

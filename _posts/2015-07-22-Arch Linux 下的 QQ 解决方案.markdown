@@ -37,7 +37,7 @@ Linux 上面玩 QQ 一直都是一个问题。Wine 算是一个解决方案，�
 * `winetricks` 是一个 `script` ，可以用来下载和安装各种在 Wine 运行时需要的部分 DLL 和框架。如 `.NET` ， `Visual C++ runtime library` 或微软和其他公司的闭源程序，使用 `winetricks` 你可以快速安装某些常用的Windows程序。
 
 
-![](/Asserts/Images//attachment/album/201507/25/215658qp61r2p5058kgrzp.png)
+![](/Asserts/Images/album/201507/25/215658qp61r2p5058kgrzp.png)
 
 
 ### 步骤
@@ -98,13 +98,13 @@ $ ./winetricks-zh
 **注意**:若你觉得 `安装QQ` 这一步安装 `mono` 、`gecko` 太慢，如下图：
 
 
-![installmono](/Asserts/Images//attachment/album/201507/25/215713zwz52gt5tzv1td5j.png)
+![installmono](/Asserts/Images/album/201507/25/215713zwz52gt5tzv1td5j.png)
 
 
-![installingmono](/Asserts/Images//attachment/album/201507/25/215713jdfvhd5iqzdchyva.png)
+![installingmono](/Asserts/Images/album/201507/25/215713jdfvhd5iqzdchyva.png)
 
 
-![installgecko](/Asserts/Images//attachment/album/201507/25/215713ze7e0xdikfddyd2x.png)
+![installgecko](/Asserts/Images/album/201507/25/215713ze7e0xdikfddyd2x.png)
 
 
 根据配图我们可以知道 `mono` 是 `.NET` 需要的包，而 `gecko` 则是 `HTML` 需要的包，并且 wine 也更建议我们使用我们发行版中的 `mono`， `gecko` 包，这有两个好处，一是更加符合自己的发行版，二是不用为每个 `PREFIEX` 单独安装，因此可以尝试以下操作，其他发行版仅供参考：

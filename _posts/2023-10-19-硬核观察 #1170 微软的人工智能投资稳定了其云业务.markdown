@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Wi-Fi,Wayland]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/30/073646qjvtj8xzjk8grxkt.jpg)
+![](/Asserts/Images/album/202310/30/073646qjvtj8xzjk8grxkt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/30/073651wuvwdr68rkvvg84c.jpg)
+![](/Asserts/Images/album/202310/30/073651wuvwdr68rkvvg84c.jpg)
 
 
 ### 微软的人工智能投资稳定了其云业务
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,Wi-Fi,Wayland]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/30/073706do7kk6hb6zeje7h6.jpg)
+![](/Asserts/Images/album/202310/30/073706do7kk6hb6zeje7h6.jpg)
 
 
 ### 苹果推出了三年的私人 Wi-Fi 一直未能隐藏地址
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,Wi-Fi,Wayland]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/30/073724r9dmsods3z99s4rs.jpg)
+![](/Asserts/Images/album/202310/30/073724r9dmsods3z99s4rs.jpg)
 
 
 ### Linux Mint 将获得 Wayland 试验性支持

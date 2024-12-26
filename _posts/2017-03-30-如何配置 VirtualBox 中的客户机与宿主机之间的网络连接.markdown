@@ -10,7 +10,7 @@ tags:	[linuxcn,VirtualBox,虚拟机]
 当你在 [VirtualBox 虚拟机软件](http://www.tecmint.com/install-virtualbox-on-redhat-centos-fedora/) 中安装了各种操作系统时，你可能需要实现宿主机与虚拟机之间的相互访问。
 
 
-![](/Asserts/Images//attachment/album/201703/01/133958rqdfccfaqi5f9ktq.jpg)
+![](/Asserts/Images/album/201703/01/133958rqdfccfaqi5f9ktq.jpg)
 
 
 在这篇文章中，我们将会以最简单明了的方式来说明如何配置客户机与 Linux 宿主机的网络，以实现两者相互访问或者让客户机连接到外网。（LCTT 译注：客户机指 Oracle VirtualBox 虚拟机软件中安装的操作系统，如本文中用到的 CentOS 7 和 Ubuntu 16.10 。宿主机就是你自己的笔记本电脑或台式机，注意这篇文章中作者的宿主机上安装的操作系统是 Linux Mint 18 ，而不是我们平时使用的 Windows 系统。）
@@ -45,7 +45,7 @@ tags:	[linuxcn,VirtualBox,虚拟机]
 打开文件->首选项配置，或者使用组合键 `Ctrl + G` ：
 
 
-![Virtualbox Preferences Window](/Asserts/Images//attachment/album/201703/01/134026pdd1ztlxlcqrrrm1.png)
+![Virtualbox Preferences Window](/Asserts/Images/album/201703/01/134026pdd1ztlxlcqrrrm1.png)
 
 
 *Virtualbox 首选项界面*
@@ -54,7 +54,7 @@ tags:	[linuxcn,VirtualBox,虚拟机]
 在下图中有两个选项，单击并选择<ruby> 仅主机 <rp>  （ </rp> <rt>  Host-only </rt> <rp>  ） </rp></ruby>网络。然后使用右侧的 `+` 按钮来添加一个新的仅主机网络。
 
 
-![Set Guest Network](/Asserts/Images//attachment/album/201703/01/134026uapr2c40f0woaob8.png)
+![Set Guest Network](/Asserts/Images/album/201703/01/134026uapr2c40f0woaob8.png)
 
 
 *设置客户机网络*
@@ -72,7 +72,7 @@ tags:	[linuxcn,VirtualBox,虚拟机]
 注意：下图中的 IPv4 地址就是你的宿主机的 IP 地址。
 
 
-![Host Network Details](/Asserts/Images//attachment/album/201703/01/134027a97utfuzolymyxuy.png)
+![Host Network Details](/Asserts/Images/album/201703/01/134027a97utfuzolymyxuy.png)
 
 
 *宿主机网络信息*
@@ -84,7 +84,7 @@ tags:	[linuxcn,VirtualBox,虚拟机]
 在下面的设置所有网络界面单击 OK 按钮来保存修改的配置。
 
 
-![Set Guest Static IP aAddress](/Asserts/Images//attachment/album/201703/01/134027efe11lsfetcfyte1.png)
+![Set Guest Static IP aAddress](/Asserts/Images/album/201703/01/134027efe11lsfetcfyte1.png)
 
 
 *为客户机设置静态 IP 地址*
@@ -99,7 +99,7 @@ tags:	[linuxcn,VirtualBox,虚拟机]
 回到 VirtualBox 管理器界面，选择客户机，比如 Ubuntu 16.10 Server 或者 CentOS 7 ，然后单击设置菜单。
 
 
-![Configure VM Settings](/Asserts/Images//attachment/album/201703/01/134028pii4niiexnwntwuw.png)
+![Configure VM Settings](/Asserts/Images/album/201703/01/134028pii4niiexnwntwuw.png)
 
 
 *配置客户机网络设置*
@@ -119,7 +119,7 @@ tags:	[linuxcn,VirtualBox,虚拟机]
 如下图所示，单击 OK 来保存设置：
 
 
-![Enable Network Adapter for Guest VM](/Asserts/Images//attachment/album/201703/01/134028dzxeeqedg7a4dgg6.png)
+![Enable Network Adapter for Guest VM](/Asserts/Images/album/201703/01/134028dzxeeqedg7a4dgg6.png)
 
 
 *启用客户机网络*
@@ -135,7 +135,7 @@ tags:	[linuxcn,VirtualBox,虚拟机]
 2. 在连接方式选项：选择 NAT 方式。
 
 
-![Enable Network Adapter for VM](/Asserts/Images//attachment/album/201703/01/134029guxbecc9cmbxkmjr.png)
+![Enable Network Adapter for VM](/Asserts/Images/album/201703/01/134029guxbecc9cmbxkmjr.png)
 
 
 为客户机启用网络连接
@@ -153,7 +153,7 @@ $ ip add
 
 ```
 
-![Configure Static IP Address for VM](/Asserts/Images//attachment/album/201703/01/134029r6fe5hooo4t11spp.png)
+![Configure Static IP Address for VM](/Asserts/Images/album/201703/01/134029r6fe5hooo4t11spp.png)
 
 
 *为客户机配置静态 IP 地址*
@@ -280,7 +280,7 @@ $ who
 
 ```
 
-![Connect Guest VM using SSH](/Asserts/Images//attachment/album/201703/01/134030dsscy5e0sumiycyy.png)
+![Connect Guest VM using SSH](/Asserts/Images/album/201703/01/134030dsscy5e0sumiycyy.png)
 
 
 *使用 SSH 工具连接客户机*

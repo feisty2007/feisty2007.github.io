@@ -7,7 +7,7 @@ tags:	[linuxcn,SDS,软件定义存储]
 ---
 
 
-![Software defined Storage](/Asserts/Images//attachment/album/201706/06/153319xy8kyg6blkreodt6.jpg "Software Defined Storage")
+![Software defined Storage](/Asserts/Images/album/201706/06/153319xy8kyg6blkreodt6.jpg "Software Defined Storage")
 
 
 

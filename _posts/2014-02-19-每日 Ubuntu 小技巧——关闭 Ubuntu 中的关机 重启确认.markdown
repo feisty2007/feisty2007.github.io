@@ -63,7 +63,7 @@ gsettings set com.canonical.indicator.session suppress-logout-restart-shutdown f
 
 ```
 
-![](/Asserts/Images//attachment/album/201402/26/192331pm7957w6yy00yvv9.png)
+![](/Asserts/Images/album/201402/26/192331pm7957w6yy00yvv9.png)
 
 
  

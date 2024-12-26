@@ -15,7 +15,7 @@ tags:	[linuxcn,elementary OS]
 > 
 
 
-![elementary OS 6 ODIN Desktop](/Asserts/Images//attachment/album/202204/09/133806mwel9xe6i9nh6la9.jpg)
+![elementary OS 6 ODIN Desktop](/Asserts/Images/album/202204/09/133806mwel9xe6i9nh6la9.jpg)
 
 
 早在十年前，当 elementary OS 首次发布时，它率先带领 Linux 桌面领域迈出了新的一步。Cassidy 有一个愿景，从那时只有开发者和贡献者在使用的 Linux 桌面，到全世界用户都能够使用它。它的 Pantheon 桌面是最好的桌面之一，从一开始就是为美学和生产力而设计的。

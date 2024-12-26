@@ -7,7 +7,7 @@ tags:	[linuxcn,桌面环境,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201912/31/110051vfaepxfs4dd4cays.jpg)
+![](/Asserts/Images/album/201912/31/110051vfaepxfs4dd4cays.jpg)
 
 
 Fedora 中有 40 多种桌面环境（DE）。每种桌面环境都有自己的优点和缺点。通常，根据功能、外观和其它品质，选择桌面是一件非常个人的偏好。但有时，你选择的桌面环境还会受到硬件限制。

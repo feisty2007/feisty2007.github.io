@@ -10,7 +10,7 @@ tags:	[linuxcn,openBSD,PC-BSD,TrueOS]
 ### 今日关注
 
 
-![](/Asserts/Images//attachment/album/201609/02/091335u3rspsaz6q0a8q93.jpg)
+![](/Asserts/Images/album/201609/02/091335u3rspsaz6q0a8q93.jpg)
 
 
 昨晚 OpenBSD 团队宣布 OpenBSD 6.0 [正式发布](http://undeadly.org/cgi?action=article&sid=20160901090415)了！
@@ -33,7 +33,7 @@ tags:	[linuxcn,openBSD,PC-BSD,TrueOS]
 OpenBSD 6.0 的形象就是这张看起来有些恐怖的水彩画，想必大家能从其中看出那只胖胖的刺豚的样子：
 
 
-![](/Asserts/Images//attachment/album/201609/02/093111fhwl8b6jmhbbz8y5.jpg)
+![](/Asserts/Images/album/201609/02/093111fhwl8b6jmhbbz8y5.jpg)
 
 
 这个版本的主要更新有：
@@ -52,19 +52,19 @@ OpenBSD 6.0 的形象就是这张看起来有些恐怖的水彩画，想必大�
 除了 OpenBSD 6.0 发布之外，BSD 家族的另外一位重要成员 PC-BSD 今天也宣布了一个重要新闻：首先，PC-BSD 改名了，现在叫 [TrueOS](https://www.trueos.org/2016/09/01/pc-bsd-evolves-into-trueos/)；并且它改为滚动发布模式了。按照开发者的说法，“TrueOS 结合了滚动发行版的便利和引导环境的保险技术，系统将稳定而更新及时。”
 
 
-![PC-BSD 改名了，现在叫 TrueOS](/Asserts/Images//attachment/album/201609/02/093033dmy0dtxf07szjjj7.jpg)
+![PC-BSD 改名了，现在叫 TrueOS](/Asserts/Images/album/201609/02/093033dmy0dtxf07szjjj7.jpg)
 
 
 ### 图文摘要
 
 
-![](/Asserts/Images//attachment/album/201609/02/092033mcgcfzoibbeaqebc.jpg)
+![](/Asserts/Images/album/201609/02/092033mcgcfzoibbeaqebc.jpg)
 
 
 *基于 Android-x86 的 Remix OS 3.0 [发布](http://support.jide.com/hc/en-us/articles/218097127--Remix-OS-for-PC-Update-3-0-203)了维护版本 203。支持在 32 位 UEFI 上安装了。*
 
 
-![](/Asserts/Images//attachment/album/201609/02/092407xvsvsilrzp3ownwp.jpg)
+![](/Asserts/Images/album/201609/02/092407xvsvsilrzp3ownwp.jpg)
 
 
 *昨天我们[报道](/article-7736-1.html)过 TheSSS 19.0 发布，与之同时[发布](http://4mlinux-releases.blogspot.ro/2016/09/4mlinux-190-stable-released.html)的还有其上游版本 4MLinux 19.0。*

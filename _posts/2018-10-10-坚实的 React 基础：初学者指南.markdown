@@ -7,7 +7,7 @@ tags:	[linuxcn,React]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/28/104728nzehe82q5h9b8fqj.png)
+![](/Asserts/Images/album/201810/28/104728nzehe82q5h9b8fqj.png)
 
 
 在过去的几个月里，我一直在使用 React 和 React-Native。我已经发布了两个作为产品的应用， [Kiven Aa](https://kivenaa.com/)（React）和 [Pollen Chat](https://play.google.com/store/apps/details?id=com.pollenchat.android)（React Native）。当我开始学习 React 时，我找了一些不仅仅是教我如何用 React 写应用的东西（一个博客，一个视频，一个课程，等等），我也想让它帮我做好面试准备。
@@ -45,7 +45,7 @@ React 应用由组件组成，数量繁多且互相嵌套。你或许会问：�
 让我们看看下面的计算器，当你尝试计算 2 + 2 = 4 -1 = 3（简单的数学题）时，你会在 Google 上看到这个计算器。
 
 
-![](/Asserts/Images//attachment/album/201810/28/104744a002jj0m8gwkxw2m.png)
+![](/Asserts/Images/album/201810/28/104744a002jj0m8gwkxw2m.png)
 
 
 *红色标记表示组件*
@@ -173,7 +173,7 @@ ReactDOM.render(<Hello name="rajat"/>, document.getElementById('root'));
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/28/104630blf1tp07171zt1h4.gif)
+![](/Asserts/Images/album/201810/28/104630blf1tp07171zt1h4.gif)
 
 
 *具有内部状态的 React 组件*
@@ -245,7 +245,7 @@ class Counter extends React.Component {
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/28/104806ilinyzkkd5v88n4m.png)
+![](/Asserts/Images/album/201810/28/104806ilinyzkkd5v88n4m.png)
 
 
 *基于类的组件具有可选属性 “state”。*
@@ -276,7 +276,7 @@ JSX 是 JavaScript Extended 的缩写，它是一种编写 React 组件的方法
 React 接着会计算它如何在展示给用户的 UI 的内存中有效地模仿这个树。此过程称为 [reconciliation](https://reactjs.org/docs/reconciliation.html)。完成计算后，React 会对屏幕上的真正 UI 进行更改。
 
 
-![](/Asserts/Images//attachment/album/201810/28/104817g6jgbjnwagfnze0r.png)
+![](/Asserts/Images/album/201810/28/104817g6jgbjnwagfnze0r.png)
 
 
 *React 如何将你的 JSX 转化为描述应用 UI 的树。*
@@ -285,7 +285,7 @@ React 接着会计算它如何在展示给用户的 UI 的内存中有效地模�
 你可以使用 [Babel 的在线 REPL](https://babeljs.io/repl) 查看当你写一些 JSX 的时候，React 的真正输出。
 
 
-![](/Asserts/Images//attachment/album/201810/28/104830m4184mdrdh48888t.png)
+![](/Asserts/Images/album/201810/28/104830m4184mdrdh48888t.png)
 
 
 *使用Babel REPL 转换 JSX 为普通 JavaScript*

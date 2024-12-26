@@ -29,13 +29,13 @@ browser-mpris2 也支持 Firefox，但因为通过 `about:debugging` 加载扩�
 以下是在使用 Gnome Shell 的 Ubuntu 18.04 并装有 Chromium 浏览器的[媒体播放器指示器](https://extensions.gnome.org/extension/55/media-player-indicator/)的截图，其中显示了有关当前正在播放的 YouTube 视频的信息及其控件（播放/暂停，停止和查找）：
 
 
-[![](/Asserts/Images//attachment/album/201810/12/224247k2255srr5kzwcmuq.png)](https://extensions.gnome.org/extension/55/media-player-indicator/)
+[![](/Asserts/Images/album/201810/12/224247k2255srr5kzwcmuq.png)](https://extensions.gnome.org/extension/55/media-player-indicator/)
 
 
 在 Linux Mint 19 Cinnamon 中使用其默认声音 applet 和 Chromium 浏览器的截图：
 
 
-![](/Asserts/Images//attachment/album/201810/12/224302u2xj7q8qohrk01oo.png)
+![](/Asserts/Images/album/201810/12/224302u2xj7q8qohrk01oo.png)
 
 
 ### 如何为 Google Chrom/Chromium安装 browser-mpris2
@@ -67,7 +67,7 @@ sudo install browser-mpris2/native/chrome-mpris2 /usr/local/bin/
 3、 在基于 Chrome/Chromium 的 Web 浏览器中加载此扩展。
 
 
-![](/Asserts/Images//attachment/album/201810/12/224312dcarrqqqymg3nwat.png)
+![](/Asserts/Images/album/201810/12/224312dcarrqqqymg3nwat.png)
 
 
 打开 Goog​​le Chrome、Chromium、Opera 或 Vivaldi 浏览器，进入 Extensions 页面（在 URL 栏中输入 `chrome://extensions`），在屏幕右上角切换到“开发者模式”。然后选择 “Load Unpacked” 并选择 chrome-mpris2 目录（确保没有选择子文件夹）。

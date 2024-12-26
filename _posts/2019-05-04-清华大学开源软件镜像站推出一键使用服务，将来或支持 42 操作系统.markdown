@@ -7,7 +7,7 @@ tags:	[linuxcn,镜像,TUNA]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/01/173714gr1cboxa9sxf1owx.jpg)
+![](/Asserts/Images/album/201905/01/173714gr1cboxa9sxf1owx.jpg)
 
 
 [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/) 是国内著名的开源软件镜像站，在去年某个节日推出了“一键使用 TUNA”服务，并发布了一篇热情洋溢的[公告](https://mirrors.tuna.tsinghua.edu.cn/news/oh-my-tuna/)，特此将此[服务](https://tuna.moe/oh-my-tuna)及公告分享给大家： XD

@@ -24,7 +24,7 @@ ZDNet曾经报道过使用数量最多的Linux发行版本，不过现在桌面�
 > [更多消息](http://www.zdnet.com/the-five-most-popular-end-user-linux-distributions-7000030058/http://www.zdnet.com/the-five-most-popular-end-user-linux-distributions-7000030058/)
 > 
 > 
-> ![](/Asserts/Images//attachment/album/201407/09/222116zfjfijoii8cc6fbp.jpg)
+> ![](/Asserts/Images/album/201407/09/222116zfjfijoii8cc6fbp.jpg)
 > 
 > 
 > Image credit: [ZDNet](http://www.zdnet.com/the-five-most-popular-end-user-linux-distributions-7000030058/http://www.zdnet.com/the-five-most-popular-end-user-linux-distributions-7000030058/)

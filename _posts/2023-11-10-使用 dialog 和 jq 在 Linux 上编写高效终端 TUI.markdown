@@ -7,7 +7,7 @@ tags:	[linuxcn,TUI,jq,dialog]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/18/071418mc44bs42keebfe1c.png)
+![](/Asserts/Images/album/202311/18/071418mc44bs42keebfe1c.png)
 
 
 ### 为何选择文字用户界面（TUI）？
@@ -105,7 +105,7 @@ dialog --clear --checklist "Favorite programming languages:" 10 30 7\
 
 ```
 
-![](/Asserts/Images//attachment/album/202311/18/071514x77uf8703an1307f.png)
+![](/Asserts/Images/album/202311/18/071514x77uf8703an1307f.png)
 
 
 我们通过这条命令向 `dialog` 下达了几个指令：
@@ -266,7 +266,7 @@ esac
 
 ```
 
-![](/Asserts/Images//attachment/album/202311/18/071515zwwg76rzjgbqgbz3.png)
+![](/Asserts/Images/album/202311/18/071515zwwg76rzjgbqgbz3.png)
 
 
 你从代码中可以看出，`dialog` 预期的是位置参数，并且允许你在变量中捕获用户的回应。这实际上使其成为编写文本用户界面的 Bash 扩展。

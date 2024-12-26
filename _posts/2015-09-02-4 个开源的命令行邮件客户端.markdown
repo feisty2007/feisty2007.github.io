@@ -7,7 +7,7 @@ tags:	[linuxcn,邮件,Mutt,Alpine]
 ---
 
 
-![](/Asserts/Images//attachment/album/201509/07/233040e6nunp1ujbt51u28.png)
+![](/Asserts/Images/album/201509/07/233040e6nunp1ujbt51u28.png)
 
 
 无论你承认与否，email并没有消亡。对那些对命令行至死不渝的 Linux 高级用户而言，离开 shell 转而使用传统的桌面或网页版邮件客户端并不适应。归根结底，命令行最善于处理文件，特别是文本文件，能使效率倍增。

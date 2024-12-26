@@ -15,7 +15,7 @@ tags:	[linuxcn,more,less]
 > 
 
 
-![](/Asserts/Images//attachment/album/201902/12/200602ci4sw6jj5r6vvo7j.jpg)
+![](/Asserts/Images/album/201902/12/200602ci4sw6jj5r6vvo7j.jpg)
 
 
 Linux 下有很多实用工具可以让你在终端界面查看文本文件。其中一个就是 [more](https://en.wikipedia.org/wiki/More_(command))。
@@ -46,7 +46,7 @@ $ more <filename>
 $ more jekyll-article.md
 ```
 
-![](/Asserts/Images//attachment/album/201902/12/200605qhljjl1t0yfavy44.png)
+![](/Asserts/Images/album/201902/12/200605qhljjl1t0yfavy44.png)
 
 
 使用空格键可以向下翻页，输入 `q` 可以退出。
@@ -60,7 +60,7 @@ $ more jekyll-article.md
 /terminal
 ```
 
-![](/Asserts/Images//attachment/album/201902/12/200609pu62gjq2j928j7h7.png)
+![](/Asserts/Images/album/201902/12/200609pu62gjq2j928j7h7.png)
 
 
 搜索的内容是区分大小写的，所以输入 `/terminal` 跟 `/Terminal` 会出现不同的结果。
@@ -80,7 +80,7 @@ $ more jekyll-article.md
 $ ls | more
 ```
 
-![](/Asserts/Images//attachment/album/201902/12/200613o1hxn0ih00c10ld1.png)
+![](/Asserts/Images/album/201902/12/200613o1hxn0ih00c10ld1.png)
 
 
 你可以组合 `more` 和 `grep` 命令，从而实现在多个文件中找到指定的文本。下面是我在多篇文章的源文件中查找 “productivity” 的例子。
@@ -91,7 +91,7 @@ $ ls | more
 $ grep ‘productivity’ core.md Dict.md lctt2014.md lctt2016.md lctt2018.md README.md | more
 ```
 
-![](/Asserts/Images//attachment/album/201902/12/200627svpwypo4e0w5w1hl.png)
+![](/Asserts/Images/album/201902/12/200627svpwypo4e0w5w1hl.png)
 
 
 另外一个可以和 `more` 组合的实用工具是 `ps`（列出你系统上正在运行的进程）。当你的系统上运行了很多的进程，你现在想要查看他们的时候，这个组合将会派上用场。例如你想找到一个你需要杀死的进程，只需输入下面的命令：
@@ -105,7 +105,7 @@ $ ps -u scott | more
 注意用你的用户名替换掉 “scott”。
 
 
-![](/Asserts/Images//attachment/album/201902/12/200635ur462km0gk3pfpt7.png)
+![](/Asserts/Images/album/201902/12/200635ur462km0gk3pfpt7.png)
 
 
 就像我文章开篇提到的， `more` 很容易使用。尽管不如它的双胞胎兄弟 `less` 那般灵活，但是仍然值得了解一下。

@@ -7,7 +7,7 @@ tags:	[linuxcn,模拟器,DOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/14/142608nsoov2vory2nipiv.jpg)
+![](/Asserts/Images/album/202302/14/142608nsoov2vory2nipiv.jpg)
 
 
 
@@ -81,7 +81,7 @@ dosbox
 键入 `exit` 暂时关闭 DOSBox。
 
 
-![DOSBox first time run](/Asserts/Images//attachment/album/202302/14/142701zbx3cfc3sbk3xay3.jpg)
+![DOSBox first time run](/Asserts/Images/album/202302/14/142701zbx3cfc3sbk3xay3.jpg)
 
 
 配置文件为你提供了几个调整设置的选项。在 Ubuntu 中，该文件创建在 `~/.dosbox/dosbox-[version].conf`。
@@ -145,7 +145,7 @@ mkdir dosbox
 例如，我下载了游戏 “马里奥和路易吉（1994）”。我在 `dosbox` 文件夹中创建了一个名为 `mario` 的文件夹，并将游戏文件放进去。
 
 
-![Keep the game in a separate folder](/Asserts/Images//attachment/album/202302/14/142711jvc401r3fq4w33f7.jpg)
+![Keep the game in a separate folder](/Asserts/Images/album/202302/14/142711jvc401r3fq4w33f7.jpg)
 
 
 现在从终端启动 dosbox：
@@ -184,10 +184,10 @@ mario
 
 ```
 
-![Running the game](/Asserts/Images//attachment/album/202302/14/142720t2g6hsttrsjg9qh2.jpg)
+![Running the game](/Asserts/Images/album/202302/14/142720t2g6hsttrsjg9qh2.jpg)
 
 
-![Mario running in DOSBox in Ubuntu](/Asserts/Images//attachment/album/202302/14/142736jy263cy66yg4ypk6.jpg)
+![Mario running in DOSBox in Ubuntu](/Asserts/Images/album/202302/14/142736jy263cy66yg4ypk6.jpg)
 
 
 ### 键盘或控制器映射
@@ -205,7 +205,7 @@ dosbox -startmapper
 它将显示以下界面，每个键上都标记有事件。你可以点开任何一个键，根据自己的习惯进行更改。
 
 
-![DOSBox keyboard and controller mapping](/Asserts/Images//attachment/album/202302/14/142758app4w68777wr8rrw.jpg)
+![DOSBox keyboard and controller mapping](/Asserts/Images/album/202302/14/142758app4w68777wr8rrw.jpg)
 
 
 ### 结论

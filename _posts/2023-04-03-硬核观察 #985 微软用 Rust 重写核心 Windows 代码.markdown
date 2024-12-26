@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,WiFi,认证器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/28/191054oj5o3yso3e3e3230.jpg)
+![](/Asserts/Images/album/202304/28/191054oj5o3yso3e3e3230.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/28/191103pmirh20rgqvqcgri.jpg)
+![](/Asserts/Images/album/202304/28/191103pmirh20rgqvqcgri.jpg)
 
 
 ### 微软用 Rust 重写核心 Windows 代码
@@ -35,7 +35,7 @@ tags:	[linuxcn,Rust,WiFi,认证器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/28/191115pjvc58jnl7n7iiv6.jpg)
+![](/Asserts/Images/album/202304/28/191115pjvc58jnl7n7iiv6.jpg)
 
 
 ### 基于区块链来共享空闲的 WiFi 接入点
@@ -60,7 +60,7 @@ tags:	[linuxcn,Rust,WiFi,认证器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/28/191130kmwhsc7uu3w1rpmu.jpg)
+![](/Asserts/Images/album/202304/28/191130kmwhsc7uu3w1rpmu.jpg)
 
 
 ### 谷歌计划在认证器中加入端对端加密功能

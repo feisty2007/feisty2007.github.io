@@ -13,7 +13,7 @@ tags:	[linuxcn,Gnome,openSUSE]
 我现在将做一个 Gnome 的实验。为这个发行版搭载一个全新的桌面环境，看看它怎么样。我们最近在 CentOS 上做了一些类似的事情，但是得到了出乎预料的结果。愿幸运之神庇佑我们。现在开始动手。
 
 
-![](/Asserts/Images//attachment/album/201704/12/122305zvvsaizacjfsnscc.jpg)
+![](/Asserts/Images/album/201704/12/122305zvvsaizacjfsnscc.jpg)
 
 
 ### 安装 Gnome 桌面
@@ -22,7 +22,7 @@ tags:	[linuxcn,Gnome,openSUSE]
 你可以通过使用 YaST > Software Management 中的 Patterns 标签来安装新的桌面环境。可以安装 Gnome、 Xfce、 LXQt、 MATE 以及其它桌面环境。这是一个非常简单的过程，需要大概 900M 的磁盘空间。没有遇到错误，也没有警告。
 
 
-![Patterns, Gnome](/Asserts/Images//attachment/album/201704/12/122332da8azyyy25uxyp55.png)
+![Patterns, Gnome](/Asserts/Images/album/201704/12/122332da8azyyy25uxyp55.png)
 
 
 #### Gnome 的美化工作
@@ -34,10 +34,10 @@ tags:	[linuxcn,Gnome,openSUSE]
 对于“餐后甜点”，你可以开启 Gnome Tweak Tool，然后添加一些窗口按钮。最重要的，要安装最最重要的、救命的插件 - [Dash to Dock](http://www.dedoimedo.com/computers/gnome-3-dash.html)，因为这之后你就可以像人类一样工作，而不用恼怒于那个名为 Activities 的效率低下。“饭后消食”，就是调整一些新的图标，这简直易如反掌。这个工作最终耗时 42 分 12 秒。明白了吗？42.2 分钟。天啊！这是巧合吗！
 
 
-![Gnome 1](/Asserts/Images//attachment/album/201704/12/122333ufqcxnfc9bixqq7k.jpg)
+![Gnome 1](/Asserts/Images/album/201704/12/122333ufqcxnfc9bixqq7k.jpg)
 
 
-![Gnome 2](/Asserts/Images//attachment/album/201704/12/122333r08wgmd0wvqbwtcg.jpg)
+![Gnome 2](/Asserts/Images/album/201704/12/122333r08wgmd0wvqbwtcg.jpg)
 
 
 #### 别的定制和增强
@@ -46,10 +46,10 @@ tags:	[linuxcn,Gnome,openSUSE]
 我实际上在 Gnome 中使用了 Breeze 窗口装饰，而且工作地挺好。这比你尝试去个性化 Plasma 要好的多。看哭了，这个界面看起来如此阴暗而压抑。
 
 
-![Gnome 3](/Asserts/Images//attachment/album/201704/12/122334ymwrt73xwad4pypm.jpg)
+![Gnome 3](/Asserts/Images/album/201704/12/122334ymwrt73xwad4pypm.jpg)
 
 
-![Gnome 4](/Asserts/Images//attachment/album/201704/12/122334jit5ooi8isqtnmii.jpg)
+![Gnome 4](/Asserts/Images/album/201704/12/122334jit5ooi8isqtnmii.jpg)
 
 
 #### 智能手机支持
@@ -58,7 +58,7 @@ tags:	[linuxcn,Gnome,openSUSE]
 比 Plasma 好太多了 - [iPhone](http://www.dedoimedo.com/computers/iphone-6-after-six-months.html) 和 [Ubuntu Phone](http://www.dedoimedo.com/computers/ubuntu-phone-sep-2016.html) 都可以正常的识别和挂载。这个提醒了我 CentOS 7.2 的 [KDE](http://www.dedoimedo.com/computers/lenovo-g50-centos-kde.html) 和 [Gnome](http://www.dedoimedo.com/computers/lenovo-g50-centos-gnome.html) 的行为也是差异而不一致的，所以这肯定跨越了特定平台的界限。桌面环境有这个通病。
 
 
-![Ubuntu Phone](/Asserts/Images//attachment/album/201704/12/122334w09o0as5odp9d490.jpg)
+![Ubuntu Phone](/Asserts/Images/album/201704/12/122334w09o0as5odp9d490.jpg)
 
 
 一个显著的 bug 是你需要时常清理图标的缓存，否则你会在文件管理器里面看到老的图标。关于这个问题，我很快会有一篇文章来说明。
@@ -70,7 +70,7 @@ tags:	[linuxcn,Gnome,openSUSE]
 不幸的是，Gnome 出现了和 Plasma 相同的问题。缺少依赖软件包。没有 H.264 编码，意味着你不可以看 99% 你需要看的东西。这就像是，一个月没有网。
 
 
-![Failed codecs setup](/Asserts/Images//attachment/album/201704/12/122335b06okj0o7o67wfpx.png)
+![Failed codecs setup](/Asserts/Images/album/201704/12/122335b06okj0o7o67wfpx.png)
 
 
 #### 资源利用
@@ -79,7 +79,7 @@ tags:	[linuxcn,Gnome,openSUSE]
 Gnome 版本比 Plasma 更快，即使关掉窗口合成器，也忽略 KWin 崩溃以及反应迟缓也是这样。CPU 的利用率在 2-3%，内存使用率徘徊在 900M。我觉得我的配置应该处于中等水平。
 
 
-![Resources](/Asserts/Images//attachment/album/201704/12/122335chj5b6oxnf0hge0j.jpg)
+![Resources](/Asserts/Images/album/201704/12/122335chj5b6oxnf0hge0j.jpg)
 
 
 #### 电池消耗
@@ -88,7 +88,7 @@ Gnome 版本比 Plasma 更快，即使关掉窗口合成器，也忽略 KWin 崩
 实际上 Gnome 的电池损耗比 Plasma 严重。我不确定是为什么。但是即使屏幕亮度调低到 50%，Leap Gnome 只能让我的 G50 续航大约 2.5 小时。我没有深究电池消耗在什么地方，但是它确实消耗得很快。
 
 
-![Battery usage](/Asserts/Images//attachment/album/201704/12/122335jxx3eym022ntwqqi.jpg)
+![Battery usage](/Asserts/Images/album/201704/12/122335jxx3eym022ntwqqi.jpg)
 
 
 #### 奇怪的问题
@@ -97,7 +97,7 @@ Gnome 版本比 Plasma 更快，即使关掉窗口合成器，也忽略 KWin 崩
 Gnome 也有一些小毛病和错误。比如说，桌面不停地请求无线网络的密码，可能是我的 Gnome 没有很好地处理 KWallet 或者别的什么。此外，在我注销 Plasma 会话之后，KWin 进程仍然在运行，消耗了 100% 的 CPU 直到我杀死这个进程。当然，这不是 Gnome 的锅，真是一件丢人的事。
 
 
-![KWin leftover](/Asserts/Images//attachment/album/201704/12/122336pyk83ymrz8158zp1.jpg)
+![KWin leftover](/Asserts/Images/album/201704/12/122336pyk83ymrz8158zp1.jpg)
 
 
 #### 硬件支持
@@ -106,10 +106,10 @@ Gnome 也有一些小毛病和错误。比如说，桌面不停地请求无线�
 挂起和恢复，一切顺利。我至今没有在 Gnome 版本中体验过断网。网络摄像头同样工作。总之，硬件支持貌似相当好。蓝牙也正常工作。也许我们应该标注它是联网的。机智~
 
 
-![Webcam](/Asserts/Images//attachment/album/201704/12/122336blj0xdldj3w9330n.jpg)
+![Webcam](/Asserts/Images/album/201704/12/122336blj0xdldj3w9330n.jpg)
 
 
-![Bluetooth works](/Asserts/Images//attachment/album/201704/12/122336qm7sbddbzjnjnzfr.png)
+![Bluetooth works](/Asserts/Images/album/201704/12/122336qm7sbddbzjnjnzfr.png)
 
 
 #### 网络

@@ -13,7 +13,7 @@ Knotter 是一个可以制作出漂亮花纹格子图案的软件。可以用来
 官方网站：<http://www.knotdraw.org/>
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201211/01/1340486oov9kkfjjk81t46.png](/Asserts/Images//attachment/album/201211/01/1340486oov9kkfjjk81t46.png)
+![https://img.linux.net.cn/Asserts/Images/album/201211/01/1340486oov9kkfjjk81t46.png](/Asserts/Images/album/201211/01/1340486oov9kkfjjk81t46.png)
 
 
 下载地址：<http://sourceforge.net/projects/knotter/files/>

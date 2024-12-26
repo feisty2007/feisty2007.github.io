@@ -22,7 +22,7 @@ tags:	[linuxcn,树莓派]
 ### Pi Zero 与 Pi Zero W 之间的主要不同点
 
 
-![](/Asserts/Images//attachment/album/202109/19/091435kpggggr0rgm4m5kj.png)
+![](/Asserts/Images/album/202109/19/091435kpggggr0rgm4m5kj.png)
 
 
 树莓派 Zero 是以在只有 A+ 板一半的大小上提供尽可能多的功能为目标。
@@ -51,7 +51,7 @@ tags:	[linuxcn,树莓派]
 ### 树莓派 Zero 和 Zero W 的规格
 
 
-![Raspberry Pi Zero W](/Asserts/Images//attachment/album/202109/19/091435v663bmb4p6pmu167.png)
+![Raspberry Pi Zero W](/Asserts/Images/album/202109/19/091435v663bmb4p6pmu167.png)
 
 
 [树莓派 Zero 和 Zero W 的规格](https://itsfoss.com/raspberry-pi-zero-w/) 几乎是一样的。
@@ -69,7 +69,7 @@ tags:	[linuxcn,树莓派]
 ### 树莓派 Zero 系列值不值得买？
 
 
-![Raspberry Pi Zero](/Asserts/Images//attachment/album/202109/19/091436a7w25077b2207571.png)
+![Raspberry Pi Zero](/Asserts/Images/album/202109/19/091436a7w25077b2207571.png)
 
 
 树莓派 Zero 是一种很受人们喜欢的单片机形式，即使你有很多树莓派 Zero 的替代品，树莓派 Zero 仍然是最推荐的选择。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Tor,代理]
 ---
 
 
-![](/Asserts/Images//attachment/album/201601/03/183650meu2pvil6epoj6rf.jpg)
+![](/Asserts/Images/album/201601/03/183650meu2pvil6epoj6rf.jpg)
 
 
 你可以通过不同的 Tor 工具来使用 Tor 服务，如 Tor 浏览器、Foxyproxy 和其它东西，像 wget 和 aria2 这样的下载管理器不能直接使用 Tor socks 开始匿名下载，因此我们需要一些工具来将 Tor socks 转换成 http 代理，这样就能用它来下载了。

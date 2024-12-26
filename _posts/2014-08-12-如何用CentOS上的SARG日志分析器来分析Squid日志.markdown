@@ -7,7 +7,7 @@ tags:	[linuxcn,CentOS,Squid]
 ---
 
 
-![](/Asserts/Images//attachment/album/201408/14/162237f7og5j6ch5m7lcco.png)
+![](/Asserts/Images/album/201408/14/162237f7og5j6ch5m7lcco.png)
 
 
 [上一节教程](http://xmodulo.com/2014/06/squid-transparent-web-proxy-centos-rhel.html)中，我们展示了如何在CentOS上使用Squid配置透明代理。Squid提供了很多有用的特性，但是分析一个原始Squid日志文件并不直接。比如，你如何分析下面Squid日志中的时间戳和数字？

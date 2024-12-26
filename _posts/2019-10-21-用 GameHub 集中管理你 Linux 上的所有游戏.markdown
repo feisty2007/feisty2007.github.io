@@ -13,7 +13,7 @@ tags:	[linuxcn,游戏,GameHub]
 GameHub 是为 Linux 发行版设计的一个桌面应用，它能让你“集中管理你的所有游戏”。这听起来很有趣，是不是？下面让我来具体说明一下。
 
 
-![](/Asserts/Images//attachment/album/201910/27/000309ippisos4osgpwsss.png)
+![](/Asserts/Images/album/201910/27/000309ippisos4osgpwsss.png)
 
 
 ### 集中管理不同平台 Linux 游戏的 GameHub
@@ -25,7 +25,7 @@ GameHub 是为 Linux 发行版设计的一个桌面应用，它能让你“集�
 #### Steam、GOG & Humble Bundle 支持
 
 
-![](/Asserts/Images//attachment/album/201910/27/000317qlfqr5fuzsvyjbr1.png)
+![](/Asserts/Images/album/201910/27/000317qlfqr5fuzsvyjbr1.png)
 
 
 它支持 Steam、[GOG](https://www.gog.com/) 和 [Humble Bundle](https://www.humblebundle.com/monthly?partner=itsfoss) 账户整合。你可以登录你的 GameHub 账号，从而在你的库管理器中管理所有游戏。
@@ -37,7 +37,7 @@ GameHub 是为 Linux 发行版设计的一个桌面应用，它能让你“集�
 #### 支持原生游戏
 
 
-![](/Asserts/Images//attachment/album/201910/27/000505juudl833dkcabrdu.png)
+![](/Asserts/Images/album/201910/27/000505juudl833dkcabrdu.png)
 
 
 [有很多网站专门推荐 Linux 游戏，并支持下载](https://itsfoss.com/download-linux-games/)。你可以通过下载安装包，或者添加可执行文件，从而管理原生游戏。
@@ -58,7 +58,7 @@ GameHub 是为 Linux 发行版设计的一个桌面应用，它能让你“集�
 #### 用户界面
 
 
-![Gamehub 界面选项](/Asserts/Images//attachment/album/201910/27/000334qk168kv8ddhs1651.png)
+![Gamehub 界面选项](/Asserts/Images/album/201910/27/000334qk168kv8ddhs1651.png)
 
 
 当然，用户体验很重要。因此，探究下用户界面都有些什么，也很有必要。
@@ -79,7 +79,7 @@ GameHub 是为 Linux 发行版设计的一个桌面应用，它能让你“集�
 因为它需要获取你的游戏信息（或元数据），也意味着它需要一个数据源。你可以看到下图列出的所有数据源。
 
 
-![Data Providers Gamehub](/Asserts/Images//attachment/album/201910/27/000340h4l33oskpalld4ql.png)
+![Data Providers Gamehub](/Asserts/Images/album/201910/27/000340h4l33oskpalld4ql.png)
 
 
 这里你什么也不用做 —— 但如果你使用的是 steam 之外的其他平台，你需要为 [IDGB 生成一个 API 密钥](https://www.igdb.com/api)。
@@ -91,7 +91,7 @@ GameHub 是为 Linux 发行版设计的一个桌面应用，它能让你“集�
 #### 兼容性选项
 
 
-![](/Asserts/Images//attachment/album/201910/27/000345xq04r6ag2qy40r62.png)
+![](/Asserts/Images/album/201910/27/000345xq04r6ag2qy40r62.png)
 
 
 你有不支持在 Linux 上运行的游戏吗？
@@ -106,7 +106,7 @@ GameHub 是为 Linux 发行版设计的一个桌面应用，它能让你“集�
 ### GameHub: 如何安装它呢？
 
 
-![](/Asserts/Images//attachment/album/201910/27/000346xggt64tuxuraqtup.jpg)
+![](/Asserts/Images/album/201910/27/000346xggt64tuxuraqtup.jpg)
 
 
 首先，你可以直接在软件中心或者应用商店内搜索。 它在 “Pop!\_Shop” 之下。所以，它在绝大多数官方源中都能找到。
@@ -143,7 +143,7 @@ sudo apt install com.github.tkashkin.gamehub
 对于 Steam，你需要在 Linux 发行版上安装 Steam 客户端。一旦安装完成，你可以轻松将账号中的游戏导入 GameHub。
 
 
-![](/Asserts/Images//attachment/album/201910/27/000348qt4pzsgpolbaa4bm.png)
+![](/Asserts/Images/album/201910/27/000348qt4pzsgpolbaa4bm.png)
 
 
 对于 GOG & Humble Bundle，登录后，就能直接在 GameHub 上管理游戏了。
@@ -158,7 +158,7 @@ sudo apt install com.github.tkashkin.gamehub
 对于 Steam 游戏，它会自动启动 Steam 客户端，从而下载/安装游戏（我希望之后安装游戏，可以不用启动 Steam！）
 
 
-![](/Asserts/Images//attachment/album/201910/27/000351p8trtkzt7ttct2rs.png)
+![](/Asserts/Images/album/201910/27/000351p8trtkzt7ttct2rs.png)
 
 
 但对于 GOG/Humble Bundle，登录后就能直接、下载安装游戏。必要的话，对于那些不支持在 Linux 上运行的游戏，你可以使用兼容工具。

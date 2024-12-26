@@ -7,10 +7,10 @@ tags:	[linuxcn,Solaris,三星手机,Qt]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/04/203237wfofo9ooud5gz9tz.jpg)
+![](/Asserts/Images/album/202203/04/203237wfofo9ooud5gz9tz.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/04/203257ffdm98yccx8ucdp9.jpg)
+![](/Asserts/Images/album/202203/04/203257ffdm98yccx8ucdp9.jpg)
 
 
 ### 甲骨文发布持续更新的免费 Solaris
@@ -27,7 +27,7 @@ tags:	[linuxcn,Solaris,三星手机,Qt]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/04/203315o3km9kfvkvlck6mb.jpg)
+![](/Asserts/Images/album/202203/04/203315o3km9kfvkvlck6mb.jpg)
 
 
 ### 三星正在降低上万个流行应用程序的性能
@@ -44,7 +44,7 @@ tags:	[linuxcn,Solaris,三星手机,Qt]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/04/203335dayhhhaq2on2bj7h.jpg)
+![](/Asserts/Images/album/202203/04/203335dayhhhaq2on2bj7h.jpg)
 
 
 ### 纯商业的 Qt 5.15.3 LTS 现在开源了

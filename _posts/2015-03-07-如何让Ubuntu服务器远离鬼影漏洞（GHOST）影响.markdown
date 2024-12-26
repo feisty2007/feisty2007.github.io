@@ -13,7 +13,7 @@ tags:	[linuxcn,GHOST,安全漏洞]
 鬼影漏洞可在版本在glibc-2.18之前的Linux系统上被利用。也就是说没有打过补丁的版本2.2到2.17都是有风险的。
 
 
-![](/Asserts/Images//attachment/album/201503/26/150802cavgbdgbdbm9eq8b.jpg)
+![](/Asserts/Images/album/201503/26/150802cavgbdgbdbm9eq8b.jpg)
 
 
 ### 检查系统漏洞

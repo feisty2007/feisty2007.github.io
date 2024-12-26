@@ -15,7 +15,7 @@ tags:	[linuxcn,Ansible]
 > 
 
 
-![](/Asserts/Images//attachment/album/202103/31/233904oo7q68eo2njfmf8o.jpg "Tips and gears turning")
+![](/Asserts/Images/album/202103/31/233904oo7q68eo2njfmf8o.jpg "Tips and gears turning")
 
 
 如果你讨厌执行重复性的任务，那么我有一个提议给你，去学习 [Ansible](https://www.ansible.com/)!

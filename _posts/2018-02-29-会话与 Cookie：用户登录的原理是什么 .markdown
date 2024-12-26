@@ -7,13 +7,13 @@ tags:	[linuxcn,会话,登录,cookie]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/21/115419r2ix9xosmaqminbx.jpg)
+![](/Asserts/Images/album/201802/21/115419r2ix9xosmaqminbx.jpg)
 
 
 Facebook、 Gmail、 Twitter 是我们每天都会用的网站（LCTT 译注：才不是呢）。它们的共同点在于都需要你登录进去后才能做进一步的操作。只有你通过认证并登录后才能在 twitter 发推，在 Facebook 上评论，以及在 Gmail上处理电子邮件。
 
 
-[![gmail, facebook login page](/Asserts/Images//attachment/album/201802/21/115432ezu3wuucuuupsdt3.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/Untitled-design-1.jpg)
+[![gmail, facebook login page](/Asserts/Images/album/201802/21/115432ezu3wuucuuupsdt3.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/Untitled-design-1.jpg)
 
 
 那么登录的原理是什么？网站是如何认证的？它怎么知道是哪个用户从哪儿登录进来的？下面我们来对这些问题进行一一解答。
@@ -37,7 +37,7 @@ Facebook、 Gmail、 Twitter 是我们每天都会用的网站（LCTT 译注：�
 服务器在用户名和密码都正确的情况下会初始化一个会话。会话的定义很复杂，你可以把它理解为“关系的开始”。
 
 
-[![session beginning of a relationship or partnership](/Asserts/Images//attachment/album/201802/21/115432xboligovi3ylyrlg.png)](http://www.theitstuff.com/wp-content/uploads/2017/10/pasted-image-0-9.png)
+[![session beginning of a relationship or partnership](/Asserts/Images/album/201802/21/115432xboligovi3ylyrlg.png)](http://www.theitstuff.com/wp-content/uploads/2017/10/pasted-image-0-9.png)
 
 
 认证通过后，服务器就开始跟你展开一段关系了。由于服务器不能象我们人类一样看东西，它会在我们的浏览器中设置一个 cookie 来将我们的关系从其他人与服务器的关系标识出来。
@@ -49,7 +49,7 @@ Facebook、 Gmail、 Twitter 是我们每天都会用的网站（LCTT 译注：�
 cookie 是网站在你的浏览器中存储的一小段数据。你应该已经见过他们了。
 
 
-[![theitstuff official facebook page cookies](/Asserts/Images//attachment/album/201802/21/115433rxip79d1957z0bk1.png)](http://www.theitstuff.com/wp-content/uploads/2017/10/pasted-image-0-1-4.png)
+[![theitstuff official facebook page cookies](/Asserts/Images/album/201802/21/115433rxip79d1957z0bk1.png)](http://www.theitstuff.com/wp-content/uploads/2017/10/pasted-image-0-1-4.png)
 
 
 当你登录后，服务器为你创建一段关系或者说一个会话，然后将唯一标识这个会话的会话 id 以 cookie 的形式存储在你的浏览器中。
@@ -64,7 +64,7 @@ cookie 是网站在你的浏览器中存储的一小段数据。你应该已经�
 当你登录后，会产生一个包含会话 id 的 cookie。这样，这个会话 id 就被赋予了那个输入正确用户名和密码的人了。
 
 
-[![facebook cookies in web browser](/Asserts/Images//attachment/album/201802/21/115433jpxxfhxlz02fbcrv.png)](http://www.theitstuff.com/wp-content/uploads/2017/10/pasted-image-0-2-3-e1508926255472.png)
+[![facebook cookies in web browser](/Asserts/Images/album/201802/21/115433jpxxfhxlz02fbcrv.png)](http://www.theitstuff.com/wp-content/uploads/2017/10/pasted-image-0-2-3-e1508926255472.png)
 
 
 也就是说，会话 id 被赋予给了拥有这个账户的人了。之后，所有在网站上产生的行为，服务器都能通过他们的会话 id 来判断是由谁发起的。
@@ -76,7 +76,7 @@ cookie 是网站在你的浏览器中存储的一小段数据。你应该已经�
 会话有一定的时间限制。这一点与现实生活中不一样，现实生活中的关系可以在不见面的情况下持续很长一段时间，而会话具有时间限制。你必须要不断地通过一些动作来告诉服务器你还在线。否则的话，服务器会关掉这个会话，而你会被登出。
 
 
-[![websites keep me logged in option](/Asserts/Images//attachment/album/201802/21/115434bwn14z1wudgptrgo.png)](http://www.theitstuff.com/wp-content/uploads/2017/10/pasted-image-0-3-3-e1508926314117.png)
+[![websites keep me logged in option](/Asserts/Images/album/201802/21/115434bwn14z1wudgptrgo.png)](http://www.theitstuff.com/wp-content/uploads/2017/10/pasted-image-0-3-3-e1508926314117.png)
 
 
 不过在某些网站上可以启用“保持登录”功能，这样服务器会将另一个唯一变量以 cookie 的形式保存到我们的浏览器中。这个唯一变量会通过与服务器上的变量进行对比来实现自动登录。若有人盗取了这个唯一标识（我们称之为 cookie stealing），他们就能访问你的账户了。

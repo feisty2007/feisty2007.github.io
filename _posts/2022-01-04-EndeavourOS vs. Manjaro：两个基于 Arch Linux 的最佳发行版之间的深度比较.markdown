@@ -19,7 +19,7 @@ tags:	[linuxcn,Manjaro,Arch]
 所以让我们来看看这两个的区别。为什么你要选择其中一个而不是另一个？
 
 
-![](/Asserts/Images//attachment/album/202201/16/080812qg9j2fgjp2g9pif0.png)
+![](/Asserts/Images/album/202201/16/080812qg9j2fgjp2g9pif0.png)
 
 
 ### 桌面变体
@@ -80,7 +80,7 @@ EndeavourOS 启动后，它的欢迎屏幕将为你提供一些选项。
 这些选项用来管理分区、安装社区版本、更新镜像和启动安装程序。
 
 
-![EndeavourOS 安装程序上的选项列表](/Asserts/Images//attachment/album/202201/16/080813bwj2efnjdfwf2cnm.jpg)
+![EndeavourOS 安装程序上的选项列表](/Asserts/Images/album/202201/16/080813bwj2efnjdfwf2cnm.jpg)
 
 
 有两个选项用于安装：
@@ -119,7 +119,7 @@ EndeavourOS 安装程序中的无障碍工具列表如下：
 #### Manjaro 的安装
 
 
-![](/Asserts/Images//attachment/album/202201/16/080813sgimwmo0bmpx0zhi.png)
+![](/Asserts/Images/album/202201/16/080813sgimwmo0bmpx0zhi.png)
 
 
 当你第一次启动 Manjaro 时，你会看到一个 GRUB 菜单，有以下选项：
@@ -133,7 +133,7 @@ EndeavourOS 安装程序中的无障碍工具列表如下：
 除了 Manjaro 开发人员对 Calameres 安装程序所做的品牌和操作系统特定的改变之外，原版 Calameres 安装程序和你在 Manjaro 上的没有什么区别。
 
 
-![](/Asserts/Images//attachment/album/202201/16/080813oa82e5xx53slkx0n.png)
+![](/Asserts/Images/album/202201/16/080813oa82e5xx53slkx0n.png)
 
 
 
@@ -219,7 +219,7 @@ Manjaro 和 EndeavourOS 的欢迎屏幕上都有一个选项，如果你喜欢�
 安全更新则是通过 Manjaro 所谓的 “快速跟踪” 直接推送到公共软件包库，以更快地解决问题。
 
 
-![Manjaro 测试 Arch Linux 软件包的稳定性](/Asserts/Images//attachment/album/202201/16/080814cf8f59krr7fk6kmq.png)
+![Manjaro 测试 Arch Linux 软件包的稳定性](/Asserts/Images/album/202201/16/080814cf8f59krr7fk6kmq.png)
 
 
 这种测试软件包的方法可以确保不会因为某某被修改而出现意外的软件包损坏。
@@ -264,7 +264,7 @@ EndeavourOS 让你有机会学习 Arch，而无需同时学习 EFI、驱动搜�
 它可以一次性设置好所有东西，让你有时间按照自己的节奏学习 Arch Linux 的内部工作。
 
 
-![EndeavourOS 的强制 neofetch 截图](/Asserts/Images//attachment/album/202201/16/080814onrnnhvp4qkrzktr.jpg)
+![EndeavourOS 的强制 neofetch 截图](/Asserts/Images/album/202201/16/080814onrnnhvp4qkrzktr.jpg)
 
 
 #### Manjaro
@@ -282,7 +282,7 @@ EndeavourOS 让你有机会学习 Arch，而无需同时学习 EFI、驱动搜�
 它为你安装了一些应用程序，如音频播放器、GUI 防火墙（gufw）、GIMP、HP 设备管理器、电子邮件客户端（thunderbird）、视频播放器（vlc）、办公套件（onlyoffic 桌面版）。
 
 
-![Manjaro 的强制 neftech 截图](/Asserts/Images//attachment/album/202201/16/080814fwg8aaodger98fqq.jpg)
+![Manjaro 的强制 neftech 截图](/Asserts/Images/album/202201/16/080814fwg8aaodger98fqq.jpg)
 
 
 ### 我应该使用哪个？

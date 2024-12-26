@@ -7,7 +7,7 @@ tags:	[linuxcn,grub]
 ---
 
 
-![](/Asserts/Images//attachment/album/201912/29/110155d51bhogs5ezp5p71.png)
+![](/Asserts/Images/album/201912/29/110155d51bhogs5ezp5p71.png)
 
 
 在这篇文章中，你将学习在 Ubuntu 或任何其它 Linux 发行版上更新 grub 。你也将学习一个或两个关于更新这个 grub 过程如何工作的事情。
@@ -92,7 +92,7 @@ grub 的一部分安装在 MBR/ESP 分区上。grub 的剩余部分保留在 Lin
 它也使用 [os-prober](https://packages.debian.org/sid/utils/os-prober) 为其它操作系统查找所有磁盘分区。如果找到其它操作系统，它添加它们到 grub 菜单。
 
 
-![Representational image of Grub Menu](/Asserts/Images//attachment/album/201912/29/110215yzk01gtzmt6rn1nz.png)
+![Representational image of Grub Menu](/Asserts/Images/album/201912/29/110215yzk01gtzmt6rn1nz.png)
 
 
 ### 为什么你需要更新 grub ？
@@ -116,7 +116,7 @@ grub 的一部分安装在 MBR/ESP 分区上。grub 的剩余部分保留在 Lin
 现在，在这种情况中，在 Ubuntu 18.04 上的 grub 需要更新，以便它能够看到 [MX Linux](https://mxlinux.org/) 。
 
 
-![](/Asserts/Images//attachment/album/201912/29/110215pp3pajbpn9ea3999.png)
+![](/Asserts/Images/album/201912/29/110215pp3pajbpn9ea3999.png)
 
 
 如上图所示，当我更新 grub 时，它在 18.04 上找到很多安装的 Linux 内核, 以及在不同的分区上 Ubntu 19.10 和 MX Linux 。

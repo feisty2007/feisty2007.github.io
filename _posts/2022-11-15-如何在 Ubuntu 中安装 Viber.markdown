@@ -7,7 +7,7 @@ tags:	[linuxcn,Viber]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/02/161951egly6ylguc6g0w5g.jpg)
+![](/Asserts/Images/album/202211/02/161951egly6ylguc6g0w5g.jpg)
 
 
 
@@ -106,7 +106,7 @@ sudo dnf localinstall viber.rpm
 设置完成后，在 Linux 桌面上打开应用。你应该会看到如下页面。
 
 
-![Viber 在 Linux 中运行](/Asserts/Images//attachment/album/202211/02/161956fy8y492998t8t222.jpg)
+![Viber 在 Linux 中运行](/Asserts/Images/album/202211/02/161956fy8y492998t8t222.jpg)
 
 
 从你的手机应用扫描二维码，你应该可以在 Linux 桌面上使用 Viber。

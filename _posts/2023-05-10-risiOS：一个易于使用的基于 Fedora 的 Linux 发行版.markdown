@@ -15,7 +15,7 @@ tags:	[linuxcn,Fedora]
 > 
 
 
-![risios](/Asserts/Images//attachment/album/202305/18/223854kz2zfrtptm1k8itr.jpg)
+![risios](/Asserts/Images/album/202305/18/223854kz2zfrtptm1k8itr.jpg)
 
 
 我们已经介绍了大量基于 Arch 和 Ubuntu 的发行版。
@@ -30,7 +30,7 @@ tags:	[linuxcn,Fedora]
 ### risiOS：概述 ⭐
 
 
-![risios homescreen](/Asserts/Images//attachment/album/202305/18/223922qahqzqcggqvgsgha.jpg)
+![risios homescreen](/Asserts/Images/album/202305/18/223922qahqzqcggqvgsgha.jpg)
 
 
 与 Fedora 相比，你不应该期望有很大的变化。
@@ -75,7 +75,7 @@ tags:	[linuxcn,Fedora]
 通过后，你会注意到 “risiWelcome” 应用弹出窗口。
 
 
-![risios welcome app](/Asserts/Images//attachment/album/202305/18/223922higsc51c5cgpigs0.jpg)
+![risios welcome app](/Asserts/Images/album/202305/18/223922higsc51c5cgpigs0.jpg)
 
 
 它列出了你只需单击一下即可执行的所有重要操作。
@@ -84,7 +84,7 @@ tags:	[linuxcn,Fedora]
 为了实现这一目标，该发行版依赖于其特色之一 “risiScripts”。
 
 
-![risios flathub setup](/Asserts/Images//attachment/album/202305/18/223923wyzt76ds38778738.jpg)
+![risios flathub setup](/Asserts/Images/album/202305/18/223923wyzt76ds38778738.jpg)
 
 
 因此，每当你单击一个操作来设置 Flathub 或 RPMFusion 时，它都会提示你运行脚本。随着你的继续，这个过程变得自动化，你可以毫不费力地实现你的目标。
@@ -93,7 +93,7 @@ tags:	[linuxcn,Fedora]
 同样，你可以向下滚动以探索其他选项，例如使用 “risiTweaks” 调整用户体验：
 
 
-![risitweaks](/Asserts/Images//attachment/album/202305/18/223923gtcvnnrz83nzi8y5.jpg)
+![risitweaks](/Asserts/Images/album/202305/18/223923gtcvnnrz83nzi8y5.jpg)
 
 
 你可以使用此应用控制要自定义的内容，包括动画设置、强调色、主题调整、字体、背景徽标定制等。
@@ -102,7 +102,7 @@ tags:	[linuxcn,Fedora]
 正如你所注意到的，risiOS 内置了一些 [GNOME 扩展](https://itsfoss.com/best-gnome-extensions/?ref=news.itsfoss.com)。你可以在此处使用相同的应用禁用或配置它们。
 
 
-![risios](/Asserts/Images//attachment/album/202305/18/223924m8tp1ut1kwlout8o.jpg)
+![risios](/Asserts/Images/album/202305/18/223924m8tp1ut1kwlout8o.jpg)
 
 
 如果你探索 risiScript 菜单，你会找到安装程序来帮助你安装 Brave、Edge、Chrome、Opera 或 Vivaldi 浏览器。
@@ -130,7 +130,7 @@ tags:	[linuxcn,Fedora]
 然而，Linux Mint 中的 “Web 应用”对于用户是个不错选择，可以将网站作为应用运行，并可以在其发行版中默认使用相同应用。
 
 
-![risios web apps](/Asserts/Images//attachment/album/202305/18/223924ztifydd4vu4zfidd.jpg)
+![risios web apps](/Asserts/Images/album/202305/18/223924ztifydd4vu4zfidd.jpg)
 
 
 对于坚持使用网络应用，并且主要使用云来完成所有任务的用户来说，这是一个很好的补充。

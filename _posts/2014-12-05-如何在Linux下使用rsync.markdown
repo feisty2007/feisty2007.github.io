@@ -10,7 +10,7 @@ tags:	[linuxcn,rsync,同步,备份]
 对于各种组织和公司，数据对他们是最重要的，即使对于电子商务，数据也是同样重要的。Rsync是一款通过网络备份重要数据的工具/软件。它同样是一个在类Unix和Window系统上通过网络在系统间同步文件夹和文件的网络协议。Rsync可以复制或者显示目录并复制文件。Rsync默认监听TCP 873端口，通过远程shell如rsh和ssh复制文件。Rsync必须在远程和本地系统上都安装。
 
 
-![](/Asserts/Images//attachment/album/201412/22/210533trkxnngnzr3jxxxh.jpg)
+![](/Asserts/Images/album/201412/22/210533trkxnngnzr3jxxxh.jpg)
 
 
 rsync的主要好处是：
@@ -159,7 +159,7 @@ rsync命令可以用来备份linux。
 ```
 vi /usr/local/sbin/bkpscript
 
-rsync -avz -e ‘ssh -p2093′ /home/test/ root@192.168.1.150:/oracle/Asserts/Images//
+rsync -avz -e ‘ssh -p2093′ /home/test/ root@192.168.1.150:/oracle/data/
 
 ```
 

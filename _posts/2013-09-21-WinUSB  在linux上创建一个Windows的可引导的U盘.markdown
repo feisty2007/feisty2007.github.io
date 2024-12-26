@@ -79,13 +79,13 @@ $ sudo winusb --install Desktop/SETHO/Win7.iso /dev/sdd1
 **Dash > WinUSB**
 
 
- ![](/Asserts/Images//attachment/album/201309/18/2346275t5ihf95criho59t.png)
+ ![](/Asserts/Images/album/201309/18/2346275t5ihf95criho59t.png)
 
 
 启动之后,选择.iso文件和设备,点击安装即可.
 
 
- ![](/Asserts/Images//attachment/album/201309/18/234644goihp3yzs8qyiupu.png)
+ ![](/Asserts/Images/album/201309/18/234644goihp3yzs8qyiupu.png)
 
 
  

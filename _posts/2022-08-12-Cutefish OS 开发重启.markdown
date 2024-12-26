@@ -7,7 +7,7 @@ tags:	[linuxcn,CutefishOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/13/123818nek1wzveuzx1iuv6.jpg)
+![](/Asserts/Images/album/202208/13/123818nek1wzveuzx1iuv6.jpg)
 
 
 经过了一个月，可能是在讨论、会谈和对话之后，Cutefish OS 正式重启了开发。
@@ -30,7 +30,7 @@ tags:	[linuxcn,CutefishOS]
 不仅如此，该团队还简要介绍了这个项目的路线图。
 
 
-![Cutefish OS - 应用程序菜单](/Asserts/Images//attachment/album/202208/13/123904u00z1wyvcyyyn6yw.jpg)
+![Cutefish OS - 应用程序菜单](/Asserts/Images/album/202208/13/123904u00z1wyvcyyyn6yw.jpg)
 
 
 ### Cutefish OS 的开发：即将到来的里程碑
@@ -48,7 +48,7 @@ tags:	[linuxcn,CutefishOS]
 不仅如此，还有一种可能性，即用 openEuler Linux 开发新的 Cutefish 桌面定制版。[openEuler Linux](https://www.openeuler.org/en/) 是华为为商业和企业用途而创建的一个发行版。
 
 
-![当前 Cutefish 操作系统计划](/Asserts/Images//attachment/album/202208/13/123910ktihsmv3qisdscid.jpg)
+![当前 Cutefish 操作系统计划](/Asserts/Images/album/202208/13/123910ktihsmv3qisdscid.jpg)
 
 
 （LCTT 译注：但是从 GitHub 仓库来看，最近并没有任何实质动作。）

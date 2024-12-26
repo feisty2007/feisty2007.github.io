@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenStack,SDN,OpenContrail]
 ---
 
 
-![OpenContrail](/Asserts/Images//attachment/album/201704/22/204556hae7r9e9cce4ltpo.jpg "OpenContrail")
+![OpenContrail](/Asserts/Images/album/201704/22/204556hae7r9e9cce4ltpo.jpg "OpenContrail")
 
 
 整个 2016 年，软件定义网络（SDN）迅速发展，开源和云计算领域的众多参与者正帮助其获得增长。结合这一趋势，用在 OpenStack 云计算平台上的流行的 SDN 平台 [OpenContrail](https://www.globenewswire.com/Tracker?data=brZ3aJVRyVHeFOyzJ1Dl4DMY3CsSV7XcYkwRyOcrw4rDHplSItUqHxXtWfs18mLsa8_bPzeN2EgZXWcQU8vchg==) 正成为许多管理员需要具备的技能的重要工具。

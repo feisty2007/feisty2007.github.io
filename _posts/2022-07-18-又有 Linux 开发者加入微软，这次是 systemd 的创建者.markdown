@@ -15,7 +15,7 @@ tags:	[linuxcn,微软,开源]
 > 
 
 
-![microsoft](/Asserts/Images//attachment/album/202207/08/091020hh3h5wl7gz755353.jpg)
+![microsoft](/Asserts/Images/album/202207/08/091020hh3h5wl7gz755353.jpg)
 
 
 出于某种原因，微软在开源和 Linux 方面总是受到关注。

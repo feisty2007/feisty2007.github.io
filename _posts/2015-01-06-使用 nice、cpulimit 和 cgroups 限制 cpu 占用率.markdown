@@ -7,7 +7,7 @@ tags:	[linuxcn,CPU,nice,cpulimit,cgroups]
 ---
 
 
-![](/Asserts/Images//attachment/album/201501/25/224321eg56vddot1wdzvov.jpg)
+![](/Asserts/Images/album/201501/25/224321eg56vddot1wdzvov.jpg)
 
 
 Linux内核是一名了不起的马戏表演者，它在进程和系统资源间小心地玩着杂耍，并保持系统的正常运转。 同时，内核也很公正：它将资源公平地分配给各个进程。
@@ -57,7 +57,7 @@ Linux内核是一名了不起的马戏表演者，它在进程和系统资源间
 现在，使用top命令就可以看到matho-primes进程榨干了你所有的cpu资源。
 
 
-![](/Asserts/Images//attachment/album/201501/25/224432u113ygwrtys1ds12.jpg)
+![](/Asserts/Images/album/201501/25/224432u113ygwrtys1ds12.jpg)
 
 
 好了，接下来（按q键）退出 top 并杀掉 matho-primes 进程（使用 fg 命令将进程切换到前台，再按 CTRL+C）
@@ -82,7 +82,7 @@ matho-primes 0 9999999999 > /dev/null &
 再运行top命令。
 
 
-![](/Asserts/Images//attachment/album/201501/25/224459x99wukb9kgdpj9uu.jpg)
+![](/Asserts/Images/album/201501/25/224459x99wukb9kgdpj9uu.jpg)
 
 
 看到没，正常运行的进程（nice值为0）获得了更多的cpu运行时间，相反的，用nice命令运行的进程占用的cpu时间会较少（nice值为10）。
@@ -140,7 +140,7 @@ cpulimit -l 50 matho-primes 0 9999999999 > /dev/null &
 
 ```
 
-![](/Asserts/Images//attachment/album/201501/25/224539p4u8bmsu69856w8m.jpg)
+![](/Asserts/Images/album/201501/25/224539p4u8bmsu69856w8m.jpg)
 
 
 从上面的例子可以看出 matho-primes 只使用了50%的 cpu 资源，剩余的 cpu 时间都在 idle。
@@ -210,7 +210,7 @@ sudo cgexec -g cpu:cpulimited /usr/local/bin/matho-primes 0 9999999999 > /dev/nu
 打开 top 可以看到，matho-primes 进程占用了所有的 cpu 资源。
 
 
-![](/Asserts/Images//attachment/album/201501/25/224623nkp7j6u7w7epo42p.jpg)
+![](/Asserts/Images/album/201501/25/224623nkp7j6u7w7epo42p.jpg)
 
 
 因为只有一个进程在系统中运行，不管将其放到哪个控制组中启动，它都会尽可能多的使用cpu资源。cpu 资源限制只有在两个进程争夺cpu资源时才会生效。
@@ -228,7 +228,7 @@ sudo cgexec -g cpu:lesscpulimited /usr/local/bin/matho-primes 0 9999999999 > /de
 再打开 top 就可以看到，cpu.shares 值大的控制组会得到更多的 cpu 运行时间。
 
 
-![](/Asserts/Images//attachment/album/201501/25/224712ho8jmk687mo804oz.jpg)
+![](/Asserts/Images/album/201501/25/224712ho8jmk687mo804oz.jpg)
 
 
 现在，我们再在 cpulimited 控制组中增加一个 matho-primes 进程：
@@ -240,7 +240,7 @@ sudo cgexec -g cpu:cpulimited /usr/local/bin/matho-primes 0 9999999999 > /dev/nu
 
 ```
 
-![](/Asserts/Images//attachment/album/201501/25/224740l99cq3pttm49bqi3.jpg)
+![](/Asserts/Images/album/201501/25/224740l99cq3pttm49bqi3.jpg)
 
 
 看到没，两个控制组的 cpu 的占用率比例仍然为2：1。其中，cpulimited 控制组中的两个 matho-primes 进程获得的cpu 时间基本相当，而另一组中的 matho-primes 进程显然获得了更多的运行时间。
@@ -255,7 +255,7 @@ sudo cgexec -g cpu:cpulimited /usr/local/bin/matho-primes 0 9999999999 > /dev/nu
 监控cpu占用率最为简单的方法是什么？[Scout](https://scoutapp.com/) 工具能够监控能够自动监控进程的cpu使用率和内存使用情况。
 
 
-![](/Asserts/Images//attachment/album/201501/25/224802h6grhmdg6deyr56y.png)
+![](/Asserts/Images/album/201501/25/224802h6grhmdg6deyr56y.png)
 
 
 [Scout](https://scoutapp.com/)的触发器（trigger）功能还可以设定 cpu 和内存的使用门限，超出门限时会自动产生报警。
@@ -267,7 +267,7 @@ sudo cgexec -g cpu:cpulimited /usr/local/bin/matho-primes 0 9999999999 > /dev/nu
 ### 总结
 
 
-![](/Asserts/Images//attachment/album/201501/25/224827cos4jilfkio6qm6q.png)
+![](/Asserts/Images/album/201501/25/224827cos4jilfkio6qm6q.png)
 
 
 计算机的系统资源是非常宝贵的。上面介绍的这3个工具能够帮助大家有效地管理系统资源，特别是cpu资源：

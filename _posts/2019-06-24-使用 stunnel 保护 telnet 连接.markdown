@@ -7,7 +7,7 @@ tags:	[linuxcn,telnet,stunnel]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/06/134640cuu5x9ni09y696my.jpg)
+![](/Asserts/Images/album/201906/06/134640cuu5x9ni09y696my.jpg)
 
 
 Telnet 是一种客户端-服务端协议，通过 TCP 的 23 端口连接到远程服务器。Telnet 并不加密数据，因此它被认为是不安全的，因为数据是以明文形式发送的，所以密码很容易被嗅探。但是，仍有老旧系统需要使用它。这就是用到 **stunnel** 的地方。

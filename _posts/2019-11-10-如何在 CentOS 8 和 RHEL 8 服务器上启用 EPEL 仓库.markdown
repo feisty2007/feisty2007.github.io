@@ -13,7 +13,7 @@ EPEL 代表 “Extra Packages for Enterprise Linux”，它是一个自由开源
 在本文中，我们将演示如何在 CentOS 8 和 RHEL 8 服务器上启用和使用 EPEL 存储库。
 
 
-![](/Asserts/Images//attachment/album/201911/04/113307wz4y3lnczzlxzn2j.jpg)
+![](/Asserts/Images/album/201911/04/113307wz4y3lnczzlxzn2j.jpg)
 
 
 ### EPEL 仓库的先决条件
@@ -38,7 +38,7 @@ EPEL 代表 “Extra Packages for Enterprise Linux”，它是一个自由开源
 上面命令的输出将如下所示，
 
 
-![dnf-install-epel-repo-rehl8](/Asserts/Images//attachment/album/201911/04/113341ya77n77oldl9dj27.jpg)
+![dnf-install-epel-repo-rehl8](/Asserts/Images/album/201911/04/113341ya77n77oldl9dj27.jpg)
 
 
 EPEL rpm 包成功安装后，它将自动启用并配置其 yum/dnf 仓库。运行以下 `dnf` 或 `yum` 命令，以验证是否启用了 EPEL 仓库，
@@ -51,7 +51,7 @@ EPEL rpm 包成功安装后，它将自动启用并配置其 yum/dnf 仓库。�
 [root@linuxtechi ~]# dnf repolist epel -v
 ```
 
-![epel-repolist-rhel8](/Asserts/Images//attachment/album/201911/04/113342udtr1md1yrmcrmcc.jpg)
+![epel-repolist-rhel8](/Asserts/Images/album/201911/04/113342udtr1md1yrmcrmcc.jpg)
 
 
 ### 在 CentOS 8.x 服务器上安装并启用 EPEL 仓库
@@ -147,7 +147,7 @@ zvbi-fonts.noarch                     0.2.35-9.el8           epel
 上面命令的输出类似下面这样，
 
 
-![epel-repo-search-package-centos8](/Asserts/Images//attachment/album/201911/04/114339ouy3zbwbzh66r1ky.jpg)
+![epel-repo-search-package-centos8](/Asserts/Images/album/201911/04/114339ouy3zbwbzh66r1ky.jpg)
 
 
 ### 从 EPEL 仓库安装软件包

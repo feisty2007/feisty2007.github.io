@@ -7,7 +7,7 @@ tags:	[linuxcn,文件管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/24/161333mssnim76ssugskie.jpg)
+![](/Asserts/Images/album/202212/24/161333mssnim76ssugskie.jpg)
 
 
 
@@ -42,7 +42,7 @@ $ sudo apt install pcmanfm
 
 ```
 
-![Image of the PCMan file manager.](/Asserts/Images//attachment/album/202212/24/161434znhu1rq6ryguk9ze.jpg)
+![Image of the PCMan file manager.](/Asserts/Images/album/202212/24/161434znhu1rq6ryguk9ze.jpg)
 
 
 不必用 PCManFM 替换你的桌面文件管理器，但某些发行版认为当你安装“第三方”文件管理器时，你会希望它优先于默认的文件管理器。根据你使用的桌面，有不同的方法来设置默认文件管理器。通常，它位于 <ruby> 系统设置 <rt>  System Settings </rt></ruby> 下的 <ruby> 默认应用 <rt>  Default Applications </rt></ruby> 中。
@@ -78,7 +78,7 @@ PCManFM 也使用选项卡。如果你以前从未使用过选项卡式文件管
 PCManFM 界面的另一个不错的功能是它能够将一个窗口分成两个面板。每个面板实际上都是一个选项卡，但每个面板只占窗口的一半。
 
 
-![Image of dual panels in PCMan.png](/Asserts/Images//attachment/album/202212/24/161441f2giwswct7e47b0z.jpg)
+![Image of dual panels in PCMan.png](/Asserts/Images/album/202212/24/161441f2giwswct7e47b0z.jpg)
 
 
 这使得从一个面板拖到另一个面板就像将文件拖到文件夹中一样简单自然。我发现它对于比较文件夹的内容也很有用。

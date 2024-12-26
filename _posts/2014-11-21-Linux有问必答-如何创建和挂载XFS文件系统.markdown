@@ -24,7 +24,7 @@ XFS有许多独特的性能提升功能使他从众多文件系统中脱颖而�
 如果你想要创建和挂载XFS文件系统到你的Linux平台，下面是相关的操作命令。
 
 
-![](/Asserts/Images//attachment/album/201411/17/225710gafplouavecovmpl.jpg)
+![](/Asserts/Images/album/201411/17/225710gafplouavecovmpl.jpg)
 
 
 ### 安装 XFS系统工具集
@@ -72,7 +72,7 @@ $ sudo fdisk /dev/sdb
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/17/225756wjuu5hajiz5dwisu.jpg)
+![](/Asserts/Images/album/201411/17/225756wjuu5hajiz5dwisu.jpg)
 
 
 假设此创建的分区叫/dev/sdb1。
@@ -87,7 +87,7 @@ $ sudo mkfs.xfs -f /dev/sdb1
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/17/225801ibbvz88m42z7pq7z.jpg)
+![](/Asserts/Images/album/201411/17/225801ibbvz88m42z7pq7z.jpg)
 
 
 至此你已经准备好格式化后分区来挂载。假设/storage是XFS本地挂载点。使用下述命令挂载：
@@ -108,7 +108,7 @@ $ df -Th /storage
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/17/225803wrdvz8qrdlu5ruqt.png)
+![](/Asserts/Images/album/201411/17/225803wrdvz8qrdlu5ruqt.png)
 
 
 如果你想要启动时自动挂载XFS分区在/storage上，加入下列行到/etc/fstab：

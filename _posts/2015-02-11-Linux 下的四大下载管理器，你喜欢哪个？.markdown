@@ -19,7 +19,7 @@ tags:	[linuxcn,下载,uGet,DownThemAll!]
 如同很多其他的Linux应用一样，uGet把体积轻巧和功能全面作为宣传亮点。它能处理多线程下载，支持过滤器，还能与任何网络浏览器进行整合。它从当初的UrlGet开始，如今已经经过了十年。它还能在Windows上运行。
 
 
-![uGet is actually very full-featured, with a lot of the kind of functions that advanced torrent clients use](/Asserts/Images//attachment/album/201502/20/222849gqyrosdvxvkmqqxk.png)
+![uGet is actually very full-featured, with a lot of the kind of functions that advanced torrent clients use](/Asserts/Images/album/201502/20/222849gqyrosdvxvkmqqxk.png)
 
 
 *uGet的功能其实非常全面，有很多先进的BT下载客户端所拥有的功能*
@@ -64,7 +64,7 @@ uGet让我们想起了许多BT下载客户端的界面：有着活跃、结束�
 KDE自家的下载管理器貌似原本是设计成与KDE的网页浏览器 Konqueror 一同工作的。它带来了我们这次测试中所期待的功能：多下载控制和对下载完成的文件计算校验和的能力。
 
 
-![You need to manually activate the ability to keep an eye on the clipboard for links](/Asserts/Images//attachment/album/201502/20/222852fjx2xcbpfoto5poj.png)
+![You need to manually activate the ability to keep an eye on the clipboard for links](/Asserts/Images/album/201502/20/222852fjx2xcbpfoto5poj.png)
 
 
 *你需要手动激活查看剪贴板中下载链接的功能*
@@ -109,7 +109,7 @@ KGet并没有真正的给予用户比大多数主流浏览器内置下载管理�
 经由Firefox的附属组件进入Linux的DownThemAll从某种程度上可以说是跨平台。这让它只能通过Firefox使用，然而作为世界上最流行的浏览器之一，它这更加紧凑的集成也许正是某些人对下载管理器所期望的。
 
 
-![There are actually a whole lot of options available for DownThemAll! that make it very flexible](/Asserts/Images//attachment/album/201502/20/222856rfradnbnfrn7dd33.png)
+![There are actually a whole lot of options available for DownThemAll! that make it very flexible](/Asserts/Images/album/201502/20/222856rfradnbnfrn7dd33.png)
 
 
 *其实在DownThemALL！上有很多选项可以设置，这让它非常的灵活*
@@ -154,7 +154,7 @@ DownThemAll!是很优秀的，如果你使用Firefox你也许就不再需要用�
 Steadyflow很容易在Ubuntu和一些基于Debian的发行版中获得，获取它的方式可能受到了一些制约，但它在某些圈子里一直被认为是你能得到的任何发行版里最好的管理器。它能查找剪贴板里的URL，使用GNOME的预设代理，还有许多其他的功能。
 
 
-![The settings in Steady flow are extremely limiting and somewhat difficult to access](/Asserts/Images//attachment/album/201502/20/222915w1m1i6s2t8gnbg1b.png)
+![The settings in Steady flow are extremely limiting and somewhat difficult to access](/Asserts/Images/album/201502/20/222915w1m1i6s2t8gnbg1b.png)
 
 
 *Steady flow里的设置非常少，而且有点难以使用。*

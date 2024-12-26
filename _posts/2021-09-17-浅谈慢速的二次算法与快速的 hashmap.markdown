@@ -7,7 +7,7 @@ tags:	[linuxcn,hashmap]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/15/094524s7dlcq74ksqazyyc.jpg)
+![](/Asserts/Images/album/202109/15/094524s7dlcq74ksqazyyc.jpg)
 
 
 大家好！昨天我与一位朋友聊天，他正在准备编程面试，并试图学习一些算法基础知识。

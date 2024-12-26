@@ -15,7 +15,7 @@ tags:	[linuxcn,Unity]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/04/113114x15r1rq321pwk2pz.png)
+![](/Asserts/Images/album/202212/04/113114x15r1rq321pwk2pz.png)
 
 
 Unity Desktop 是由 Canonical 构建的经典桌面环境，它从 2010 年到 2017 年是 Ubuntu 的一部分，但为了支持 GNOME 而放弃。
@@ -47,7 +47,7 @@ Unity 7.6 的发布标志着大量改进的到来。
 ### 在 Arch Linux 上试用 Unity 7.6
 
 
-![unity on arch linux](/Asserts/Images//attachment/album/202212/04/113115fh8i92nn85i1vnsn.jpg)
+![unity on arch linux](/Asserts/Images/album/202212/04/113115fh8i92nn85i1vnsn.jpg)
 
 
 首先，你必须确保你已经安装了 Arch Linux。

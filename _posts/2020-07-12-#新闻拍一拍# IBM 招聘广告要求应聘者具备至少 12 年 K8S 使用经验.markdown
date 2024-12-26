@@ -7,7 +7,7 @@ tags:	[linuxcn,IBM,ARM,Nano]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/14/175144nc58y5j0ecxygcgr.jpg)
+![](/Asserts/Images/album/202007/14/175144nc58y5j0ecxygcgr.jpg)
 
 
 #### IBM 招聘广告要求应聘者具备至少 12 年 K8S 使用经验

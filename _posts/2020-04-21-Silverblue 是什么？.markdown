@@ -7,7 +7,7 @@ tags:	[linuxcn,Silverblue]
 ---
 
 
-![](/Asserts/Images//attachment/album/202004/26/215121o03zsyfiri22qu32.jpg)
+![](/Asserts/Images/album/202004/26/215121o03zsyfiri22qu32.jpg)
 
 
 Fedora Silverblue 在 Fedora 世界内外越来越受欢迎。因此，根据社区的反馈，以下是关于这个项目的一些有趣问题的答案。如果你有任何其他与 Silverblue 相关的问题，请在评论区留言，我们会在未来的文章中回答。

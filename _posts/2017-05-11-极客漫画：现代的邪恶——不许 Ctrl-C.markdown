@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画]
 ---
 
 
-![The Modern Evil](/Asserts/Images//attachment/album/201705/17/105129dulndas0sanjjssa.png)
+![The Modern Evil](/Asserts/Images/album/201705/17/105129dulndas0sanjjssa.png)
 
 
 在页面上，Control-C 的作用是复制，当一个页面禁用了 Control-C 时……这得是多邪恶？！

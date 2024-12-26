@@ -15,7 +15,7 @@ tags:	[linuxcn,Steam,Epic,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/19/234509j829tpku5bd2285r.png)
+![](/Asserts/Images/album/202203/19/234509j829tpku5bd2285r.png)
 
 
 Steam Deck 在加强对 Linux 平台的游戏支持方面做出了有力推动。

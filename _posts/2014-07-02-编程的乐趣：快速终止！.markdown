@@ -7,7 +7,7 @@ tags:	[linuxcn,编程,JAVA,Heisenbugs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/28/173756ubb1z2d1d3fs1tlt.jpg)  
+![](/Asserts/Images/album/201407/28/173756ubb1z2d1d3fs1tlt.jpg)  
 当软件出现问题的时候，它应该以一种很容易引起注意的方式马上终止。这种“快速终止”的方式值得借鉴，我们会在这期专栏里谈谈这个重要的概念。
 
 

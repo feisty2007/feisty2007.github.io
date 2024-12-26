@@ -13,7 +13,7 @@ tags:	[linuxcn,Linux Mint]
 截止到写这篇文章时，在 Linux Mint 网站上还没有发布官方通告，估计 Clement Lefebvre 正在等待所有的镜像同步之后才会发布吧，这可能需要一天之久。不过，[Cinnamon](https://www.linuxmint.com/rel_sarah_cinnamon_whatsnew.php) 和 [MATE](https://www.linuxmint.com/rel_sarah_mate_whatsnew.php) 的发布备注已经有了。
 
 
-![](/Asserts/Images//attachment/album/201606/29/084813fjh227h2h9k2m1g2.jpg)
+![](/Asserts/Images/album/201606/29/084813fjh227h2h9k2m1g2.jpg)
 
 
 ### 基于 Ubuntu 16.04 LTS ，使用 Arc GTK 主题
@@ -28,7 +28,7 @@ Linux Mint 18 Cinnamon 分支以最新的 Cinnamon 3.0 桌面环境构建，辅�
 此外，还有一些底层的改进，比如高分辨率支持、 X-Apps、为 Linux Mint 新设计的应用（Xed、 Xviewer、 Xreader、Xplayer 和 Pix）、MDM 2.0 登录管理器、对多数应用的 GTK3 支持，以及 Gufw 图形化防火墙配置工具。
 
 
-![](/Asserts/Images//attachment/album/201606/29/084813wppyess5ggui8pyp.jpg)
+![](/Asserts/Images/album/201606/29/084813wppyess5ggui8pyp.jpg)
 
 
 而 Linux Mint 18 MATE 分支则以 MATE 1.14 桌面环境构建，也有类似于 Cinnamon 分支一样的改进。

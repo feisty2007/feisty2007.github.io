@@ -7,7 +7,7 @@ tags:	[linuxcn,RedHat,Docker,容器,Fedora,hypervisors]
 ---
 
 
-![](/Asserts/Images//attachment/album/201310/05/212930807m78ge0zwvw38b.jpg)
+![](/Asserts/Images/album/201310/05/212930807m78ge0zwvw38b.jpg)
 
 
 **Red Hat与开源项目Docker容器技术开发人员组成合作团队，提供一个虚拟机管理器技术(hypervisors)的替代方案。**

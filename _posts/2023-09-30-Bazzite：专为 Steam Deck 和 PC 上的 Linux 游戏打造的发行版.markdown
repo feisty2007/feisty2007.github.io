@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏,Steam Deck]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/30/150801h5w6wyf7s6s56ynq.jpg)
+![](/Asserts/Images/album/202309/30/150801h5w6wyf7s6s56ynq.jpg)
 
 
 
@@ -33,7 +33,7 @@ Bazzite 是一个新推出的基于 Fedora 的发行版，它是为 **Linux 桌�
 ### ⭐ Bazzite：概述
 
 
-![](/Asserts/Images//attachment/album/202309/28/231044xlf5ou80pooyl9e0.png)
+![](/Asserts/Images/album/202309/28/231044xlf5ou80pooyl9e0.png)
 
 
 Bazzite 基于最新发布的 [Fedora 38](https://news.itsfoss.com/fedora-38-release/)，使用的是 [Universal Blue](https://github.com/ublue-os/main) —— Fedora 的一个 OCI 基础镜像。它提供了扩展硬件支持，如 **微软 Surface 设备**，并预先安装了关键驱动。
@@ -71,25 +71,25 @@ Bazzite 默认使用的是 [KDE Plasma 5.27](https://news.itsfoss.com/kde-plasma
 在设置发行版用于游戏时，我使用了 “Bazzite Portal” 应用，它引导我走过了一些重要的配置步骤。如果你需要，此处你也可以安装 [Open Razer](https://github.com/openrazer/openrazer)。
 
 
-![](/Asserts/Images//attachment/album/202309/28/231045wscb11obcilckbo8.png)
+![](/Asserts/Images/album/202309/28/231045wscb11obcilckbo8.png)
 
 
 首先，它设置了 Bazzite Arch，它是一个自定义的 Arch Linux OCI，运行在 Distrobox 中，支持 [Steam](https://store.steampowered.com/)、[Lutris](https://lutris.net/) 等在其内运行游戏。
 
 
-![](/Asserts/Images//attachment/album/202309/28/231046lkqmzcu4n3a2om6u.png)
+![](/Asserts/Images/album/202309/28/231046lkqmzcu4n3a2om6u.png)
 
 
 在配置了一些其他选项之后，开始了应用程序的安装，呈现了许多包含各种类别的特定用例的最热门应用。
 
 
-![](/Asserts/Images//attachment/album/202309/28/231047f5h4jqzfjif2izvj.png)
+![](/Asserts/Images/album/202309/28/231047f5h4jqzfjif2izvj.png)
 
 
 完成设置之后，你就拥有了一款专为游戏设计的操作系统 ?
 
 
-![在 Bazzite 上运行的 Lutris 和 Steam](/Asserts/Images//attachment/album/202309/28/231048r9uluqhia9q0ycih.png)
+![在 Bazzite 上运行的 Lutris 和 Steam](/Asserts/Images/album/202309/28/231048r9uluqhia9q0ycih.png)
 
 
 最近，通过一个更新，Bazzite 新增了两款预装应用：
@@ -99,7 +99,7 @@ Bazzite 默认使用的是 [KDE Plasma 5.27](https://news.itsfoss.com/kde-plasma
 * [Discover Overlay](https://github.com/trigg/Discover)（一个用于 Discord overlay 的应用）
 
 
-![带有系统监视器应用的 Bazzite GNOME 版本](/Asserts/Images//attachment/album/202309/28/231048rq1df1b3p31dustr.jpg)
+![带有系统监视器应用的 Bazzite GNOME 版本](/Asserts/Images/album/202309/28/231048rq1df1b3p31dustr.jpg)
 
 
 这里还有我跳过的一些其他配置选项。

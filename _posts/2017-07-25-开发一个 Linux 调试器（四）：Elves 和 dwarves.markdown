@@ -7,7 +7,7 @@ tags:	[linuxcn,调试器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/24/143821f1phescz20gc8thf.jpg)
+![](/Asserts/Images/album/201707/24/143821f1phescz20gc8thf.jpg)
 
 
 到目前为止，你已经偶尔听到了关于 dwarves、调试信息、一种无需解析就可以理解源码方式。今天我们会详细介绍源码级的调试信息，作为本指南后面部分使用它的准备。

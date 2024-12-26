@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/28/215431k8cpcr4cpc4ckb9k.jpg)
+![](/Asserts/Images/album/201805/28/215431k8cpcr4cpc4ckb9k.jpg)
 
 
 目前有很多方法可以在开启用户会话时启动软件。

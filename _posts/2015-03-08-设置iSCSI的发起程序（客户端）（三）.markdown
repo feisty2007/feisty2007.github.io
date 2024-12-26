@@ -10,7 +10,7 @@ tags:	[linuxcn,iSCSI]
 **iSCSI** 发起程序是一种用于同 iSCSI 目标器认证并访问服务器上共享的LUN的客户端。我们可以在本地挂载的硬盘上部署任何操作系统，只需要安装一个包来与目标器验证。
 
 
-![Client Initiator Setup](/Asserts/Images//attachment/album/201503/02/154151v44622ul96luucl9.jpg)
+![Client Initiator Setup](/Asserts/Images/album/201503/02/154151v44622ul96luucl9.jpg)
 
 
 *初始器客户端设置*
@@ -82,7 +82,7 @@ iscsi-initiator-utils-devel.x86_64 : Development files for iscsi-initiator-utils
 
 ```
 
-![man iscsiadm](/Asserts/Images//attachment/album/201503/02/154204nxtfllt3drnonor7.jpg)
+![man iscsiadm](/Asserts/Images/album/201503/02/154204nxtfllt3drnonor7.jpg)
 
 
 *man iscsiadm*
@@ -106,7 +106,7 @@ iscsi-initiator-utils-devel.x86_64 : Development files for iscsi-initiator-utils
 
 ```
 
-![Discover Target](/Asserts/Images//attachment/album/201503/02/154206vozyobzo00d3wi3m.jpg)
+![Discover Target](/Asserts/Images/album/201503/02/154206vozyobzo00d3wi3m.jpg)
 
 
 *发现服务器*
@@ -121,7 +121,7 @@ iscsi-initiator-utils-devel.x86_64 : Development files for iscsi-initiator-utils
 
 ```
 
-![Login To Target Server](/Asserts/Images//attachment/album/201503/02/154207v5pttaxkpx5qxpx5.jpg)
+![Login To Target Server](/Asserts/Images/album/201503/02/154207v5pttaxkpx5qxpx5.jpg)
 
 
 *登录到服务器*
@@ -136,7 +136,7 @@ iscsi-initiator-utils-devel.x86_64 : Development files for iscsi-initiator-utils
 
 ```
 
-![Logout from Target Server](/Asserts/Images//attachment/album/201503/02/154208bjq1azngflqvnxat.jpg)
+![Logout from Target Server](/Asserts/Images/album/201503/02/154208bjq1azngflqvnxat.jpg)
 
 
 *登出服务器*
@@ -151,7 +151,7 @@ iscsi-initiator-utils-devel.x86_64 : Development files for iscsi-initiator-utils
 
 ```
 
-![List Node](/Asserts/Images//attachment/album/201503/02/154208f0h7kxp8z40p0g4l.jpg)
+![List Node](/Asserts/Images/album/201503/02/154208f0h7kxp8z40p0g4l.jpg)
 
 
 *列出节点*
@@ -200,7 +200,7 @@ iface.linklocal_autocfg = <empty>
 
 ```
 
-![List Disks](/Asserts/Images//attachment/album/201503/02/154210ckdm2kzsmovdepet.jpg)
+![List Disks](/Asserts/Images/album/201503/02/154210ckdm2kzsmovdepet.jpg)
 
 
 列出磁盘
@@ -215,7 +215,7 @@ iface.linklocal_autocfg = <empty>
 
 ```
 
-![Create New Partition](/Asserts/Images//attachment/album/201503/02/154212j0dgsg027x2gw9fd.jpg)
+![Create New Partition](/Asserts/Images/album/201503/02/154212j0dgsg027x2gw9fd.jpg)
 
 
 *创建新分区*
@@ -233,7 +233,7 @@ iface.linklocal_autocfg = <empty>
 
 ```
 
-![Format New Partition](/Asserts/Images//attachment/album/201503/02/154213u9yprpzjvjsvycr9.jpg)
+![Format New Partition](/Asserts/Images/album/201503/02/154213u9yprpzjvjsvycr9.jpg)
 
 
 *格式化新分区*
@@ -250,7 +250,7 @@ iface.linklocal_autocfg = <empty>
 
 ```
 
-![Mount New Partition](/Asserts/Images//attachment/album/201503/02/154214ydsqd55hhfnhdnpj.jpg)
+![Mount New Partition](/Asserts/Images/album/201503/02/154214ydsqd55hhfnhdnpj.jpg)
 
 
 *挂载新分区*
@@ -269,7 +269,7 @@ iface.linklocal_autocfg = <empty>
 * **-h** – 以易读的方式显示大小
 
 
-![List New Partition](/Asserts/Images//attachment/album/201503/02/154215kj3qzs9sc1ocqse3.jpg)
+![List New Partition](/Asserts/Images/album/201503/02/154215kj3qzs9sc1ocqse3.jpg)
 
 
 *列出新分区*
@@ -296,7 +296,7 @@ iface.linklocal_autocfg = <empty>
 **注意：** 在fstab中使用\_netdev，说明这是一个网络设备。
 
 
-![Auto Mount Partition](/Asserts/Images//attachment/album/201503/02/154216jz900ecyf0yzu6t0.jpg)
+![Auto Mount Partition](/Asserts/Images/album/201503/02/154216jz900ecyf0yzu6t0.jpg)
 
 
 *自动挂载分区*
@@ -315,7 +315,7 @@ iface.linklocal_autocfg = <empty>
 * **-v** – 冗余模式
 
 
-![Verify fstab Entries](/Asserts/Images//attachment/album/201503/02/154217yh0ifeh0zeohfkfp.jpg)
+![Verify fstab Entries](/Asserts/Images/album/201503/02/154217yh0ifeh0zeohfkfp.jpg)
 
 
 *验证fstab文件*

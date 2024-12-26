@@ -49,7 +49,7 @@ cd ~/Downloads
 
 ```
 
-![](/Asserts/Images//attachment/album/201402/27/130859g8xd8wm7p5uhvdui.png)
+![](/Asserts/Images/album/201402/27/130859g8xd8wm7p5uhvdui.png)
 
 
 然后运行下面的命令来提取下载文件中的.tar.gz文件。
@@ -76,7 +76,7 @@ sudo dpkg -i LibreOffice_*/DEBS/*.deb
 接下来，进入 Unity Dash 并启动 LibreOffice。以上就是指导你在 Ubuntu 中手动安装 LibreOffice 的方法。
 
 
-![](/Asserts/Images//attachment/album/201402/27/130900g2e80n8i4850e8r2.png)
+![](/Asserts/Images/album/201402/27/130900g2e80n8i4850e8r2.png)
 
 
 如果在 Ubuntu 中手动安装 LibreOffice，很有可能每次有版本更新和安全更新时你必须手动更新。

@@ -7,7 +7,7 @@ tags:	[linuxcn,AUR,Paru]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/01/224300e5sire0nczj55sc8.jpg)
+![](/Asserts/Images/album/202312/01/224300e5sire0nczj55sc8.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,AUR,Paru]
 ### ? Paru 2.0: 有什么新变化？
 
 
-![](/Asserts/Images//attachment/album/202312/01/224326gbobirmbubf6zbrb.png)
+![](/Asserts/Images/album/202312/01/224326gbobirmbubf6zbrb.png)
 
 
 Paru 2.0 版本是一次重大更新，目标是带来一些主要的改变，尤其是为了满足高级用户的需求。

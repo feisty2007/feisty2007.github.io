@@ -7,10 +7,10 @@ tags:	[linuxcn,ChromeOS,Arm,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/03/180209swcclcmlfcttfogm.jpg)
+![](/Asserts/Images/album/202308/03/180209swcclcmlfcttfogm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/03/180221n8r292s11ee9e1co.jpg)
+![](/Asserts/Images/album/202308/03/180221n8r292s11ee9e1co.jpg)
 
 
 ### ChromeOS 将分离浏览器和操作系统
@@ -35,7 +35,7 @@ tags:	[linuxcn,ChromeOS,Arm,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/03/180238z9o44b8ko6oo6f2b.jpg)
+![](/Asserts/Images/album/202308/03/180238z9o44b8ko6oo6f2b.jpg)
 
 
 ### 40% 基于 Arm 的服务器部署在中国
@@ -60,7 +60,7 @@ tags:	[linuxcn,ChromeOS,Arm,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/03/180305ebz0uslnans0qbgl.jpg)
+![](/Asserts/Images/album/202308/03/180305ebz0uslnans0qbgl.jpg)
 
 
 ### Meta 开源从文本中创建音乐的人工智能工具

@@ -13,7 +13,7 @@ Linux 用户又有一个木马需要苦恼了，就像以往一样，这些坏�
 发现了这件事的 Dr.Web 的安全研究人员说，木马似乎是通过<ruby> 破壳漏洞 <rp>  （ </rp> <rt>  Shellshock </rt> <rp>  ） </rp></ruby>感染的这些 Linux 机器——现在仍然有很多设备没有补上这个漏洞。
 
 
-![](/Asserts/Images//attachment/album/201609/17/200421kbihtjm4r43vidil.png)
+![](/Asserts/Images/album/201609/17/200421kbihtjm4r43vidil.png)
 
 
 该木马被命名为 [Linux.DDoS.93](http://vms.drweb.com/virus/?_is=1&i=8598428)，它首要会修改 /var/run/dhcpclient-eth0.pid 这个文件，并通过它在计算机启动时运行。如果该文件不存在，就会自己创建一个。

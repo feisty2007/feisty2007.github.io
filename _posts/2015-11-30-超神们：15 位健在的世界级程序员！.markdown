@@ -16,7 +16,7 @@ tags:	[linuxcn,程序员]
 虽然这很难客观评价，不过在这个话题确实是开发者们津津乐道的。ITworld 深入程序员社区，避开四溅的争执口水，试图找出可能存在的所谓共识。事实证明，屈指可数的某些名字经常是讨论的焦点。
 
 
-![](/Asserts/Images//attachment/album/201511/24/020058lffr5xk9son375s5.jpg)
+![](/Asserts/Images/album/201511/24/020058lffr5xk9son375s5.jpg)
 
 
 *图片来源： [tom\_bullock CC BY 2.0](https://www.flickr.com/photos/tombullock/15713223772)*
@@ -28,7 +28,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 玛格丽特·汉密尔顿 <rp>  （ </rp> <rt>  Margaret Hamilton </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201511/24/020059wah98rq71p797ia7.jpg)
+![](/Asserts/Images/album/201511/24/020059wah98rq71p797ia7.jpg)
 
 
 *图片来源： [NASA](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_in_action.jpg)*
@@ -63,7 +63,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 唐纳德·克努斯 <rp>  （ </rp> <rt>  Donald Knuth </rt> <rp>  ） </rp></ruby>，即 高德纳
 
 
-![](/Asserts/Images//attachment/album/201511/24/020059w1vi6f6826p69928.jpg)
+![](/Asserts/Images/album/201511/24/020059w1vi6f6826p69928.jpg)
 
 
 *图片来源： [vonguard CC BY-SA 2.0](https://www.flickr.com/photos/44451574@N00/5347112697)*
@@ -95,7 +95,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 肯·汤普逊 <rp>  （ </rp> <rt>  Ken Thompson </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201511/24/020059gwsntkks76ps0q98.jpg)
+![](/Asserts/Images/album/201511/24/020059gwsntkks76ps0q98.jpg)
 
 
 *图片来源： [Association for Computing Machinery](http://amturing.acm.org/photo/thompson_4588371.cfm)*
@@ -124,7 +124,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 理查德·斯托曼 <rp>  （ </rp> <rt>  Richard Stallman </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201511/24/020059yz9hgwlizdykgkg2.jpg)
+![](/Asserts/Images/album/201511/24/020059yz9hgwlizdykgkg2.jpg)
 
 
 *图片来源： [Jiel Beaumadier CC BY-SA 3.0](http://commons.wikimedia.org/wiki/File:Jielbeaumadier_richard_stallman_2010.jpg)*
@@ -159,7 +159,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 安德斯·海尔斯伯格 <rp>  （ </rp> <rt>  Anders Hejlsberg </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201511/24/020059fpeuxkb9z5sm9cmx.jpg)
+![](/Asserts/Images/album/201511/24/020059fpeuxkb9z5sm9cmx.jpg)
 
 
 *图片来源： [D.Begley CC BY 2.0](https://www.flickr.com/photos/begley/2979906130)*
@@ -188,7 +188,7 @@ tags:	[linuxcn,程序员]
 ### Doug Cutting
 
 
-![](/Asserts/Images//attachment/album/201511/24/020059qj7cu02ejtu8u8e7.jpg)
+![](/Asserts/Images/album/201511/24/020059qj7cu02ejtu8u8e7.jpg)
 
 
 *图片来源： [vonguard CC BY-SA 2.0](https://www.flickr.com/photos/vonguard/4076389963/)*
@@ -217,7 +217,7 @@ tags:	[linuxcn,程序员]
 ### Sanjay Ghemawat
 
 
-![](/Asserts/Images//attachment/album/201511/24/020100s3oqllitt46ptzq3.jpg)
+![](/Asserts/Images/album/201511/24/020100s3oqllitt46ptzq3.jpg)
 
 
 *图片来源： [Association for Computing Machinery](http://awards.acm.org/award_winners/ghemawat_1482280.cfm)*
@@ -243,7 +243,7 @@ tags:	[linuxcn,程序员]
 ### Jeff Dean
 
 
-![](/Asserts/Images//attachment/album/201511/24/020100ucrcul0fhfhpf4r7.jpg)
+![](/Asserts/Images/album/201511/24/020100ucrcul0fhfhpf4r7.jpg)
 
 
 *图片来源： [Google](http://research.google.com/people/jeff/index.html)*
@@ -272,7 +272,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 林纳斯·托瓦兹 <rp>  （ </rp> <rt>  Linus Torvalds </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201511/24/020100enqggz4d1teprrot.jpg)
+![](/Asserts/Images/album/201511/24/020100enqggz4d1teprrot.jpg)
 
 
 *图片来源： [Krd CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:LinuxCon_Europe_Linus_Torvalds_05.jpg)*
@@ -304,7 +304,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 约翰·卡马克 <rp>  （ </rp> <rt>  John Carmack </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201511/24/020100x472q16vvv2v6a76.jpg)
+![](/Asserts/Images/album/201511/24/020100x472q16vvv2v6a76.jpg)
 
 
 *图片来源： [QuakeCon CC BY 2.0](https://www.flickr.com/photos/quakecon/9434713998)*
@@ -339,7 +339,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 法布里斯·贝拉 <rp>  （ </rp> <rt>  Fabrice Bellard </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201511/24/020100fz35577asktias55.jpg)
+![](/Asserts/Images/album/201511/24/020100fz35577asktias55.jpg)
 
 
 *图片来源： [Duff](http://dufoli.wordpress.com/2007/06/23/ammmmaaaazing-night/)*
@@ -374,7 +374,7 @@ tags:	[linuxcn,程序员]
 ### Jon Skeet
 
 
-![](/Asserts/Images//attachment/album/201511/24/020100u37obt9or4grd8zi.jpg)
+![](/Asserts/Images/album/201511/24/020100u37obt9or4grd8zi.jpg)
 
 
 *图片来源： [Craig Murphy CC BY 2.0](https://www.flickr.com/photos/craigmurphy/4325516497)*
@@ -406,7 +406,7 @@ tags:	[linuxcn,程序员]
 ### <ruby> 亚当·安捷罗 <rp>  （ </rp> <rt>  Adam D'Angelo </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201511/24/020101dm7myfhjhmk7j81s.jpg)
+![](/Asserts/Images/album/201511/24/020101dm7myfhjhmk7j81s.jpg)
 
 
 *图片来源： [Philip Neustrom CC BY 2.0](https://www.flickr.com/photos/philipn/5326344032)*
@@ -435,7 +435,7 @@ tags:	[linuxcn,程序员]
 ### Petr Mitrechev
 
 
-![](/Asserts/Images//attachment/album/201511/24/020101ijsssl0ss17jb7bz.jpg)
+![](/Asserts/Images/album/201511/24/020101ijsssl0ss17jb7bz.jpg)
 
 
 *图片来源： [Facebook](https://www.facebook.com/hackercup/photos/a.329665040399024.91563.133954286636768/553381194694073/?type=1)*
@@ -461,7 +461,7 @@ tags:	[linuxcn,程序员]
 ### Gennady Korotkevich
 
 
-![](/Asserts/Images//attachment/album/201511/24/020101e1gqfcjfsfzvgg91.jpg)
+![](/Asserts/Images/album/201511/24/020101e1gqfcjfsfzvgg91.jpg)
 
 
 *图片来源： [Ishandutta2007 CC BY-SA 3.0](http://commons.wikimedia.org/wiki/File:Gennady_Korot.jpg)*

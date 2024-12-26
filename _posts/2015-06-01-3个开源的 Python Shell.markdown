@@ -16,7 +16,7 @@ Python是一个非常实用，而且流行的计算机编程语言。使用一�
 ### bpython
 
 
-![](/Asserts/Images//attachment/album/201506/18/115026cn520xxngdoy5d5d.png)
+![](/Asserts/Images/album/201506/18/115026cn520xxngdoy5d5d.png)
 
 
 对于Linux，BSD，OS X和Windows来说，bpython是一个不错的Python解释器的界面。
@@ -50,7 +50,7 @@ bpython并不追求创造任何新的或者开创性的东西。相反，它聚�
 ### IPython
 
 
-![](/Asserts/Images//attachment/album/201506/18/115036qyy48nv4nx8xx6v6.png)
+![](/Asserts/Images/album/201506/18/115036qyy48nv4nx8xx6v6.png)
 
 
 IPython是Python shell的一个交互加强版。她提供了一个丰富的工具集合，帮助你交互式地充分利用Python。
@@ -78,7 +78,7 @@ IPython可以用来取代标准的Python shell，也可以与标准Python科学�
 ### DreamPie
 
 
-![](/Asserts/Images//attachment/album/201506/18/115040ac103en58neqylel.png)
+![](/Asserts/Images/album/201506/18/115040ac103en58neqylel.png)
 
 
 DreamPie是一个为可靠性和趣味性设计的Python shell。

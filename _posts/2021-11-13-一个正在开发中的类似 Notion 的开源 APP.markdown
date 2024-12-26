@@ -15,7 +15,7 @@ tags:	[linuxcn,生产力,Notion]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/23/162933pedqtdm73tk7tp49.jpg)
+![](/Asserts/Images/album/202111/23/162933pedqtdm73tk7tp49.jpg)
 
 
 Notion 是深受团队和个人欢迎的生产力应用之一，而现在我们似乎有希望获得一个有前途的开源替代品。
@@ -33,13 +33,13 @@ Notion 是深受团队和个人欢迎的生产力应用之一，而现在我们�
 这就是 AppFlowy。
 
 
-![](/Asserts/Images//attachment/album/202111/23/162421he83atti25ya8zxr.png)
+![](/Asserts/Images/album/202111/23/162421he83atti25ya8zxr.png)
 
 
 ### 什么是 AppFlowy
 
 
-![Source: AppFlowy.io](/Asserts/Images//attachment/album/202111/23/162422n2ex16ujxk6escwe.png)
+![Source: AppFlowy.io](/Asserts/Images/album/202111/23/162422n2ex16ujxk6escwe.png)
 
 
 AppFlowy 和 Notion 非常相像，但有一个巨大的区别，那就是它是 100% 开源的。

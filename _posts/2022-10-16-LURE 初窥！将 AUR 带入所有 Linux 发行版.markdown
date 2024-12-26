@@ -15,7 +15,7 @@ tags:	[linuxcn,AUR,LURE]
 > 
 
 
-![LURE 是一个新的开源项目，它希望成为所有发行版的 AUR！](/Asserts/Images//attachment/album/202210/18/104605rkuwfzbanj4jjnag.jpg)
+![LURE 是一个新的开源项目，它希望成为所有发行版的 AUR！](/Asserts/Images/album/202210/18/104605rkuwfzbanj4jjnag.jpg)
 
 
 AUR（<ruby> Arch 用户仓库 <rt>  Arch User Repository </rt></ruby>）是一个由社区驱动的基于 Arch 的 Linux 的发行版仓库。
@@ -58,7 +58,7 @@ AUR（<ruby> Arch 用户仓库 <rt>  Arch User Repository </rt></ruby>）是一�
 ### 已经有这样的项目了？
 
 
-![lure 添加仓库](/Asserts/Images//attachment/album/202210/18/104606pjzjjjf90rncmiff.png)
+![lure 添加仓库](/Asserts/Images/album/202210/18/104606pjzjjjf90rncmiff.png)
 
 
 **没有。**
@@ -118,13 +118,13 @@ LURE 是一个雄心勃勃的想法，可以在你选择的任何发行版上工
 因此，如果它在其仓库（或任何其添加的仓库）中没有找到一个包，它就会转到系统的默认仓库，并从那里安装它。就像我用 `lure` 命令在我的系统上安装/移除 `neofetch` 一样。
 
 
-![lure neofetch remove](/Asserts/Images//attachment/album/202210/18/104606hs3dvvvzf7sppba0.png)
+![lure neofetch remove](/Asserts/Images/album/202210/18/104606hs3dvvvzf7sppba0.png)
 
 
 虽然该项目处于早期开发阶段，但它为各种发行版提供了 [二进制包](https://gitea.arsenm.dev/Arsen6331/lure/releases/tag/v0.0.2)，以让你安装和测试它们。
 
 
-![](/Asserts/Images//attachment/album/202210/18/104606li6orupmrafxo122.jpg)
+![](/Asserts/Images/album/202210/18/104606li6orupmrafxo122.jpg)
 
 
 目前，它的仓库包括一个来自创建者自己的项目。但你可以尝试添加一个仓库并构建/安装东西。
@@ -133,7 +133,7 @@ LURE 是一个雄心勃勃的想法，可以在你选择的任何发行版上工
 为了方便起见，我试着在它的仓库中安装软件包。
 
 
-![](/Asserts/Images//attachment/album/202210/18/104606b7th007d3eq71bpt.png)
+![](/Asserts/Images/album/202210/18/104606b7th007d3eq71bpt.png)
 
 
 命令看起来像这样：

@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/24/130703iznp8p53dbd1kktz.jpg)
+![](/Asserts/Images/album/202109/24/130703iznp8p53dbd1kktz.jpg)
 
 
 现在 GNOME 41 稳定版终于发布了。
@@ -45,7 +45,7 @@ GNOME 41 并没有给你带来任何新的视觉感受，但是一些有用的�
 #### GNOME 41 软件的上下文板块
 
 
-![](/Asserts/Images//attachment/album/202109/24/130803rrybu5tb1uudb2f8.png)
+![](/Asserts/Images/album/202109/24/130803rrybu5tb1uudb2f8.png)
 
 
 每个版本中，用户都期待着对 GNOME “<ruby> 软件 <rt>  Software </rt></ruby>”的改进。
@@ -60,7 +60,7 @@ GNOME 41 并没有给你带来任何新的视觉感受，但是一些有用的�
 就像 [Apps for GNOME](https://news.itsfoss.com/apps-for-gnome-portal/) 门户网站一样，“软件”的应用程序屏幕包括了更多的细节，以尽可能地告知用户，而不需要参考项目页面或其网站。
 
 
-![](/Asserts/Images//attachment/album/202109/24/130804b6fx1kf6jk33esfx.png)
+![](/Asserts/Images/album/202109/24/130804b6fx1kf6jk33esfx.png)
 
 
 换句话说，这些添加到应用程序页面的上下文板块，提供了有关设备支持、安全/许可、年龄等级、下载的大小、项目等信息。
@@ -75,7 +75,7 @@ GNOME 41 并没有给你带来任何新的视觉感受，但是一些有用的�
 #### 新的多任务选项
 
 
-![](/Asserts/Images//attachment/album/202109/24/130805ck784ezlts9tknxw.png)
+![](/Asserts/Images/album/202109/24/130805ck784ezlts9tknxw.png)
 
 
 GNOME 41 打造了新的多任务设置以帮助你改善工作流程。
@@ -103,13 +103,13 @@ GNOME 41 打造了新的多任务设置以帮助你改善工作流程。
 #### 节电设置
 
 
-![](/Asserts/Images//attachment/album/202109/24/130806awsibbzi5gwwzos3.png)
+![](/Asserts/Images/album/202109/24/130806awsibbzi5gwwzos3.png)
 
 
 在 GNOME 41 中，现在有一个有效节省电力的性能调整。这对于笔记本用户手动调整其性能，或者当一个应用程序要求切换模式以节省电力时，是非常有用的。
 
 
-![](/Asserts/Images//attachment/album/202109/24/130807fgn34d48ijq3sjh2.png)
+![](/Asserts/Images/album/202109/24/130807fgn34d48ijq3sjh2.png)
 
 
 #### GNOME “日历”的改进
@@ -130,7 +130,7 @@ GNOME “<ruby> 日历 <rt>  Calendar </rt></ruby>”现在可以打开 ICS 文�
 #### GNOME 连接应用
 
 
-![](/Asserts/Images//attachment/album/202109/24/130808klsttl6ltg6lnn6l.png)
+![](/Asserts/Images/album/202109/24/130808klsttl6ltg6lnn6l.png)
 
 
 添加了一个新的“<ruby> 连接 <rt>  Connections </rt></ruby>”应用程序，可以连接到远程计算机，不管是什么平台。
@@ -157,7 +157,7 @@ GNOME “<ruby> 日历 <rt>  Calendar </rt></ruby>”现在可以打开 ICS 文�
 #### GNOME Web / Epiphany 的改进
 
 
-![](/Asserts/Images//attachment/album/202109/24/130809kz3xptnz4natdn73.png)
+![](/Asserts/Images/album/202109/24/130809kz3xptnz4natdn73.png)
 
 
 GNOME Web（即 Epiphany 浏览器）最近进行了很多很棒的改进。

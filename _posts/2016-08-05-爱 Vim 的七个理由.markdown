@@ -7,7 +7,7 @@ tags:	[linuxcn,编辑器,vi,vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/201608/29/154210iyeioo2oigoiysyz.png)
+![](/Asserts/Images/album/201608/29/154210iyeioo2oigoiysyz.png)
 
 
 当我刚刚开始用 vi 文本编辑器的时候，我憎恨它！我认为这是有史以来设计上最痛苦和反人类的编辑器。但我还是决定我必须学会它，因为如果你使用的是 Unix，vi 无处不在并且是唯一一个保证你可以使用的编辑器。在 1998 年是如此，但是直到今天 vi 也仍然是可用的，现有的几乎每个发行版中，vi 基本上都是基础安装的一部分。

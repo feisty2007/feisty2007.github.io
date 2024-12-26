@@ -13,7 +13,7 @@ Shinken 是一个用 Python 实现的开源的主机和网络监控框架，并�
 在这篇教程中，我将会描述如何从源代码编译安装 Shinken 和向监视系统中添加一台 Linux 主机。我将会以 Ubuntu 16.04 Xenial Xerus 操作系统来作为 Shinken 服务器和所监控的主机。
 
 
-![](/Asserts/Images//attachment/album/201609/29/140952shznhaobz60bhbbs.jpg)
+![](/Asserts/Images/album/201609/29/140952shznhaobz60bhbbs.jpg)
 
 
 ### 第一步 安装 Shinken 服务器
@@ -107,7 +107,7 @@ shinken install webui2
 
 ```
 
-![](/Asserts/Images//attachment/album/201609/29/141001k1izj7u2pjaq11hj.png)
+![](/Asserts/Images/album/201609/29/141001k1izj7u2pjaq11hj.png)
 
 
 至此 webui2 已经安装好，但是我们还需要安装 MongoDB 和用 `pip` 来安装另一个 Python 软件包。在 root 下运行如下命令：
@@ -357,31 +357,31 @@ http://192.168.1.120:7767
 用管理员用户和密码登录（你在 admin.cfg 文件中设置的）
 
 
-![](/Asserts/Images//attachment/album/201609/29/141002woi9333360eer34l.png)
+![](/Asserts/Images/album/201609/29/141002woi9333360eer34l.png)
 
 
 Webui2 中的 Shinken 面板：
 
 
-![](/Asserts/Images//attachment/album/201609/29/141002qz56xdvv8cclt3kx.png)
+![](/Asserts/Images/album/201609/29/141002qz56xdvv8cclt3kx.png)
 
 
 我们的两个服务器正在被 Shinken 监控：
 
 
-![](/Asserts/Images//attachment/album/201609/29/141002zaa3hecc6wizewac.png)
+![](/Asserts/Images/album/201609/29/141002zaa3hecc6wizewac.png)
 
 
 列出所有被 linux-snmp 监控的服务：
 
 
-![](/Asserts/Images//attachment/album/201609/29/141002b4ks4sl7e8p8dq73.png)
+![](/Asserts/Images/album/201609/29/141002b4ks4sl7e8p8dq73.png)
 
 
 所有主机和服务的状态信息：
 
 
-![](/Asserts/Images//attachment/album/201609/29/141003byd6omy6nqt26oq0.png)
+![](/Asserts/Images/album/201609/29/141003byd6omy6nqt26oq0.png)
 
 
 ### 第6步 Shinken 的常见问题

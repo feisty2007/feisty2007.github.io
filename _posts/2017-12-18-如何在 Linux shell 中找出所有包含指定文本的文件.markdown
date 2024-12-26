@@ -7,7 +7,7 @@ tags:	[linuxcn,find,grep]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/16/002633n0oujua76do30drd.jpg)
+![](/Asserts/Images/album/201712/16/002633n0oujua76do30drd.jpg)
 
 
 **目标：**本文提供一些关于如何搜索出指定目录或整个文件系统中那些包含指定单词或字符串的文件。

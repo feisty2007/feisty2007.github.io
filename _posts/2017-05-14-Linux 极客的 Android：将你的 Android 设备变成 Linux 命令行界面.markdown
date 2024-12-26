@@ -7,7 +7,7 @@ tags:	[linuxcn,Android]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/22/164759ciyitpt3p9jpi39q.jpg)
+![](/Asserts/Images/album/201705/22/164759ciyitpt3p9jpi39q.jpg)
 
 
 不管你是一位命令行大师，还是只是不想让你的朋友和家人使用你的 Android 设备，那就看下 T-UI Launcher 这个程序。Unix/Linux 用户一定会喜欢这个。
@@ -34,7 +34,7 @@ T-UI Launcher 是一个免费的轻量级 Android 程序，具有类似 Linux �
 安装完成后，第一次启动时你会看到一个快速指南。阅读完成之后，你可以如下面那样使用简单的命令开始使用了。
 
 
-![T-UI Commandline Help Guide](/Asserts/Images//attachment/album/201705/22/164806v2y3d1byd1yzz3dz.jpg)
+![T-UI Commandline Help Guide](/Asserts/Images/album/201705/22/164806v2y3d1byd1yzz3dz.jpg)
 
 
 *T-UI 命令行帮助指南*
@@ -51,7 +51,7 @@ $ Chrome     ### 启动 chrome
 
 ```
 
-![T-UI Commandline Usage](/Asserts/Images//attachment/album/201705/22/164807nzwzwz5oabw7ju5a.jpg)
+![T-UI Commandline Usage](/Asserts/Images/album/201705/22/164807nzwzwz5oabw7ju5a.jpg)
 
 
 *T-UI 命令行使用*
@@ -66,7 +66,7 @@ $ status
 
 ```
 
-![Android Phone Status](/Asserts/Images//attachment/album/201705/22/164807ujonxg2gcd9oh9cz.jpg)
+![Android Phone Status](/Asserts/Images/album/201705/22/164807ujonxg2gcd9oh9cz.jpg)
 
 
 *Android 电话状态*

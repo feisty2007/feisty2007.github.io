@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,许可证]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/01/161922y1hk0z5hcmrrm216.jpg)
+![](/Asserts/Images/album/202401/01/161922y1hk0z5hcmrrm216.jpg)
 
 
 

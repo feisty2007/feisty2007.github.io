@@ -7,7 +7,7 @@ tags:	[linuxcn,命令,危险]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/05/233039u88lsya3y2il7ll2.jpg)
+![](/Asserts/Images/album/201801/05/233039u88lsya3y2il7ll2.jpg)
 
 
 **当然，除非你想干掉你的机器。**

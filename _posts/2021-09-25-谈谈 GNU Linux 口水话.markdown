@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,GNU/Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/12/103402owj6cgah1lncx1w7.png)
+![](/Asserts/Images/album/202109/12/103402owj6cgah1lncx1w7.png)
 
 
 
@@ -49,7 +49,7 @@ tags:	[linuxcn,Linux,GNU/Linux]
 ### 到底什么是口水话？
 
 
-![](/Asserts/Images//attachment/album/202109/12/103403wa4gwzjac74j4zj2.png)
+![](/Asserts/Images/album/202109/12/103403wa4gwzjac74j4zj2.png)
 
 
 你是否注意到，我使用了“Copypasta”（LCTT 译注：译者选择翻译为“口水话”，或许有更贴合中文的译法，请大家指正）这个术语。它与<ruby> 意大利面 <rt>  pasta </rt></ruby>毫无关系。

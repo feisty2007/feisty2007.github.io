@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,手机应用]
 ---
 
 
-![Guide to Linux](/Asserts/Images//attachment/album/201711/23/223543k8vaw6i2rfeafwy4.png "Guide to Linux")
+![Guide to Linux](/Asserts/Images/album/201711/23/223543k8vaw6i2rfeafwy4.png "Guide to Linux")
 
 
 
@@ -85,7 +85,7 @@ tags:	[linuxcn,Linux,手机应用]
 从主窗口中（图 1），你可以获取四个易于访问的功能。
 
 
-![Guide to Linux main window](/Asserts/Images//attachment/album/201711/23/223543abnp4ybqzumiim4b.jpg "Guide to Linux main window")
+![Guide to Linux main window](/Asserts/Images/album/201711/23/223543abnp4ybqzumiim4b.jpg "Guide to Linux main window")
 
 
 *图 1： The Guide to Linux 主窗口。[已获授权](https://www.linux.com/licenses/category/used-permission)*
@@ -100,7 +100,7 @@ tags:	[linuxcn,Linux,手机应用]
 让我们从这个应用教程的最 “新手友好” 的功能开始。打开“Tutorial”功能，然后，将看到该教程的欢迎部分，“Linux 操作系统介绍”（图 2）。
 
 
-![The Tutorial](/Asserts/Images//attachment/album/201711/23/223544klh20ll219g25h69.jpg "The Tutorial")
+![The Tutorial](/Asserts/Images/album/201711/23/223544klh20ll219g25h69.jpg "The Tutorial")
 
 
 *图 2：教程开始。[已获授权](https://www.linux.com/licenses/category/used-permission)*
@@ -109,7 +109,7 @@ tags:	[linuxcn,Linux,手机应用]
 如果你轻触 “汉堡包菜单” （左上角的三个横线），显示了内容列表（图 3），因此，你可以在教程中选择任何一个可用部分。
 
 
-![Tutorial TOC](/Asserts/Images//attachment/album/201711/23/223544k7ztt49oxx44l94r.jpg "Tutorial TOC")
+![Tutorial TOC](/Asserts/Images/album/201711/23/223544k7ztt49oxx44l94r.jpg "Tutorial TOC")
 
 
 *图 3：教程的内容列表。[已获授权](https://www.linux.com/licenses/category/used-permission)*
@@ -133,7 +133,7 @@ tags:	[linuxcn,Linux,手机应用]
 读完之后，你可以轻触向右的箭头（在屏幕底部）或轻触 “汉堡包菜单” ，然后从侧边栏中选择你想去学习的其它命令。（图 4）
 
 
-![Commands](/Asserts/Images//attachment/album/201711/23/223545x51z7ipmwp33fpqm.jpg "Commands")
+![Commands](/Asserts/Images/album/201711/23/223545x51z7ipmwp33fpqm.jpg "Commands")
 
 
 *图 4：命令侧边栏允许你去查看列出的命令。[已获授权](https://www.linux.com/licenses/category/used-permission)*
@@ -151,7 +151,7 @@ tags:	[linuxcn,Linux,手机应用]
 你可以打开内容列表的侧边栏，然后打开包含 shell 脚本教程的任意部分（图 5）。
 
 
-![Shell Script](/Asserts/Images//attachment/album/201711/23/223546wsynfson8osga71o.jpg "Shell Script")
+![Shell Script](/Asserts/Images/album/201711/23/223546wsynfson8osga71o.jpg "Shell Script")
 
 
 *图 5：Shell 脚本节看上去很熟悉。[已获授权](https://www.linux.com/licenses/category/used-permission)*
@@ -169,7 +169,7 @@ tags:	[linuxcn,Linux,手机应用]
 在 Chromebook 上，不管怎么操作，它都是正常的（图 6）。可以说，它可以一直很好地工作在一个只读操作系统中（因此，你不能用它进行真正的工作或创建新文件）。
 
 
-![Permission denied](/Asserts/Images//attachment/album/201711/23/223546opizu8xaxpwpv82k.jpg "Permission denied")
+![Permission denied](/Asserts/Images/album/201711/23/223546opizu8xaxpwpv82k.jpg "Permission denied")
 
 
 *图 6： 可以完美地（可以这么说）用一个终端模拟器去工作。[已获授权](https://www.linux.com/licenses/category/used-permission)*

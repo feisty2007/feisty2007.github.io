@@ -15,7 +15,7 @@ tags:	[linuxcn,Mercurial,版本控制]
 > 
 
 
-![](/Asserts/Images//attachment/album/201904/26/082021jd2hensehh1wosx9.jpg)
+![](/Asserts/Images/album/201904/26/082021jd2hensehh1wosx9.jpg)
 
 
 [Mercurial](https://www.mercurial-scm.org/) 是一个用 Python 编写的分布式版本控制系统。因为它是用高级语言编写的，所以你可以用 Python 函数编写一个 Mercurial 扩展。

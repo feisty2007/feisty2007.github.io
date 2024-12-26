@@ -10,7 +10,7 @@ tags:	[linuxcn,VirtualBox]
 我们很高兴的宣布，Oracle VM VirtualBox 5.0 发布了！
 
 
-![](/Asserts/Images//attachment/album/201507/10/212742mqwct7e4zgacbv5t.jpg)
+![](/Asserts/Images/album/201507/10/212742mqwct7e4zgacbv5t.jpg)
 
 
 此版本包含了重大改进和大量的增强及错误修复，具体可详见官方的[发布公告](https://www.oracle.com/corporate/pressrelease/oracle-vm-virtualbox-5-070915.html)。Oracle VM VirtualBox 5.0 中的全部功能的说明请参见[这里[PDF]](http://www.oracle.com/us/technologies/virtualization/oraclevm/oracle-vm-virtualbox-ds-1655169.pdf)。
@@ -43,7 +43,7 @@ Oracle VM VirtualBox 能够为软件的有效执行而提供半虚拟化接口�
 Oracle VM VirtualBox 5.0 可以在 XTS 模式（128 位或 256 位）下使用 AES 算法来加密虚拟磁盘镜像；因为 DEK 存储在虚拟机配置文件中，所以加密功能的引入带来了在启动虚拟机之前输入密码的安全功能。
 
 
-![](/Asserts/Images//attachment/album/201507/10/211111vn3883zasenv9aes.png) 
+![](/Asserts/Images/album/201507/10/211111vn3883zasenv9aes.png) 
 
 
 #### 无界面启动和可分离启动选项
@@ -52,7 +52,7 @@ Oracle VM VirtualBox 5.0 可以在 XTS 模式（128 位或 256 位）下使用 A
 Oracle VM VirtualBox 现在支持在后台启动虚拟机，分离的前端进程可以关闭，而虚拟机会继续运行。
 
 
-![](/Asserts/Images//attachment/album/201507/10/211129hnf7dp7dnfdne74e.png) 
+![](/Asserts/Images/album/201507/10/211129hnf7dp7dnfdne74e.png) 
 
 
 更多的 GUI 改进：
@@ -74,7 +74,7 @@ Oracle VM VirtualBox 现在支持在后台启动虚拟机，分离的前端进�
 ### 下载
 
 
-[![](/Asserts/Images//attachment/album/201507/10/212746rpwc8z0g35bbcpxw.png)](https://www.virtualbox.org/wiki/Downloads)
+[![](/Asserts/Images/album/201507/10/212746rpwc8z0g35bbcpxw.png)](https://www.virtualbox.org/wiki/Downloads)
 
 
 * **VirtualBox 软件包。**这些二进制的发布许可协议是 GPL v2

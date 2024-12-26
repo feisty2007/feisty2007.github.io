@@ -7,7 +7,7 @@ tags:	[linuxcn,LUKS,分区,加密]
 ---
 
 
-![](/asserts/album/201507/30/160241xsk363bwsm8s1sz3.png)
+![](/Asserts/Images/album/201507/30/160241xsk363bwsm8s1sz3.png)
 
 
 LUKS(linux unified key setup)是一个对磁盘分区进行加密的工具，算法貌似有叫做“双鱼算法”（具体是什么，我忘了……） 命令：

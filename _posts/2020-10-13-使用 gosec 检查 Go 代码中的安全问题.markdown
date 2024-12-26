@@ -15,7 +15,7 @@ tags:	[linuxcn,Golang,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/04/125129bh4qxxsyqpvqjtx4.jpg)
+![](/Asserts/Images/album/202010/04/125129bh4qxxsyqpvqjtx4.jpg)
 
 
 [Go 语言](https://golang.org/)写的代码越来越常见，尤其是在容器、Kubernetes 或云生态相关的开发中。Docker 是最早采用 Golang 的项目之一，随后是 Kubernetes，之后大量的新项目在众多编程语言中选择了 Go。
@@ -433,7 +433,7 @@ $
              "confidence": "HIGH",
              "cwe": {
                  "ID": "242",
-                 "URL": "https://cwe.mitre.org/Asserts/Images//definitions/242.html"
+                 "URL": "https://cwe.mitre.org/data/definitions/242.html"
              },
              "rule_id": "G103",
              "details": "Use of unsafe calls should be audited",

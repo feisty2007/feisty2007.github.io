@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora,模块化]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/26/155921x1ju12dpxi0mz4aj.jpg)
+![](/Asserts/Images/album/201901/26/155921x1ju12dpxi0mz4aj.jpg)
 
 
 ### 什么是模块化

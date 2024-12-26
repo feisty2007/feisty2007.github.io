@@ -7,7 +7,7 @@ tags:	[linuxcn,Xorg,Wayland]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/05/102913nmpm4pzka6b6aar1.jpg)
+![](/Asserts/Images/album/202211/05/102913nmpm4pzka6b6aar1.jpg)
 
 
 
@@ -51,7 +51,7 @@ echo $XDG_SESSION_TYPE
 
 ```
 
-![此命令可以为你提供有关 Xorg 或 Wayland 的详细信息](/Asserts/Images//attachment/album/202211/05/102932buz2r6rb6obu7c62.jpg)
+![此命令可以为你提供有关 Xorg 或 Wayland 的详细信息](/Asserts/Images/album/202211/05/102932buz2r6rb6obu7c62.jpg)
 
 
 这很简单。但是，还有其他方法。
@@ -69,7 +69,7 @@ echo $XDG_SESSION_TYPE
 例如，在 GNOME 设置中，你可以在 “<ruby> 窗口子系统 <rt>  Windowing system </rt></ruby>” 下找到它，如下图所示：
 
 
-![在 GNOME 设置中可以找到它](/Asserts/Images//attachment/album/202211/05/102932g7jib9jvgqrcgwwb.jpg)
+![在 GNOME 设置中可以找到它](/Asserts/Images/album/202211/05/102932g7jib9jvgqrcgwwb.jpg)
 
 
 #### 使用会话值
@@ -96,7 +96,7 @@ loginctl show-session c2 -p Type
 
 ```
 
-![使用 loginctl 查找](/Asserts/Images//attachment/album/202211/05/102932hf2gmyakecvqqc0s.jpg)
+![使用 loginctl 查找](/Asserts/Images/album/202211/05/102932hf2gmyakecvqqc0s.jpg)
 
 
 ### 总结

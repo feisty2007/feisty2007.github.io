@@ -15,7 +15,7 @@ tags:	[linuxcn,elementary OS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/07/085713izkxhbarixtkdryg.jpg)
+![](/Asserts/Images/album/202205/07/085713izkxhbarixtkdryg.jpg)
 
 
 ### elementary OS 7 公告

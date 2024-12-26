@@ -32,7 +32,7 @@ Pear 8 Alpha 1
 * [Pear Linux 8 Alpha 1 (ISO) 64-bit[iso]](http://sourceforge.net/projects/peardevbuild/files/pearos8-alpha1-64.iso/download) [985 MB]
 
 
-![](/Asserts/Images//attachment/album/201307/29/000311nwwk74tzvgaw4tn0.png)
+![](/Asserts/Images/album/201307/29/000311nwwk74tzvgaw4tn0.png)
 
 
 ![](https://img.linux.net.cn/xwb/images/bgimg/icon_logo.png) 已同步至 [linux的微博](http://weibo.com/1772191555)

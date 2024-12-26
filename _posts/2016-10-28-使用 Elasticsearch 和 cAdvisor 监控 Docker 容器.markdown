@@ -21,7 +21,7 @@ tags:	[linuxcn,Docker,容器,监控]
 这个问题的答案是“很不容易”。
 
 
-![](/Asserts/Images//attachment/album/201610/05/211233tabbmh8bjt5jjpw5.png)
+![](/Asserts/Images/album/201610/05/211233tabbmh8bjt5jjpw5.png)
 
 
 你需要监控下面的参数：
@@ -138,7 +138,7 @@ cAdvisor 有两个比较酷的特性：
 * [DigitalOcean API Token](https://cloud.digitalocean.com/settings/api/tokens/new): 让 docker 机器按照你的意思来启动节点。
 
 
-![](/Asserts/Images//attachment/album/201610/05/211255f31k8ir3t81p4w3n.png)
+![](/Asserts/Images/album/201610/05/211255f31k8ir3t81p4w3n.png)
 
 
 ### 创建集群的脚本
@@ -249,7 +249,7 @@ chmod +x create-cluster.sh
 最后集群部署好了。
 
 
-![](/Asserts/Images//attachment/album/201610/05/211258k1j9q19nj6p5u716.png)
+![](/Asserts/Images/album/201610/05/211258k1j9q19nj6p5u716.png)
 
 
 现在为了验证 Swarm 模式集群已经正常运行，我们可以通过 ssh 登录进 master：
@@ -325,7 +325,7 @@ docker network create monitoring -d overlay
 
 ```
 docker service create --network=monitoring \
-  --mount type=volume,target=/usr/share/elasticsearch/Asserts/Images/ \
+  --mount type=volume,target=/usr/share/elasticsearch/data \
   --constraint node.hostname==worker1 \
   --name elasticsearch elasticsearch:2.4.0
 
@@ -364,7 +364,7 @@ docker-machine ip master1
 所有项目都应该是绿色：
 
 
-![](/Asserts/Images//attachment/album/201610/05/211300g6m67fwcp3fndx5m.png)
+![](/Asserts/Images/album/201610/05/211300g6m67fwcp3fndx5m.png)
 
 
 让我们接下来开始收集数据！
@@ -439,7 +439,7 @@ docker exec $(docker ps | grep cadvisor | awk '{print $1}' | head -1) curl -XPUT
 你现在可以使用 Kibana 来创建一份美观的报表了。但是不要着急，我为你们建了一份报表和一些图形界面来方便你们入门。
 
 
-![](/Asserts/Images//attachment/album/201610/05/211302zopaa394j1pnoa43.png)
+![](/Asserts/Images/album/201610/05/211302zopaa394j1pnoa43.png)
 
 
 访问 Kibana 界面 => Setting => Objects => Import，然后选择包含以下内容的 JSON 文件，就可以导入我的配置信息了：

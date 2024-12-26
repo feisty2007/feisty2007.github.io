@@ -7,7 +7,7 @@ tags:	[linuxcn,亮度]
 ---
 
 
-![](/Asserts/Images//attachment/album/201505/21/151950qpvfzu6a64taa99b.jpg)
+![](/Asserts/Images/album/201505/21/151950qpvfzu6a64taa99b.jpg)
 
 
 在[解决亮度控制在Ubuntu和Linux Mint下不工作的问题](http://itsfoss.com/fix-brightness-ubuntu-1310/)这篇教程里，一些用户提到虽然问题已经得到解决，但是**Ubuntu无法记住亮度设置**，同样的情况在Linux Mint下也会发生。每次开机或从睡眠状态下唤醒，亮度会恢复至最大值或最小值。我知道这种情况很烦。不过幸好我们有很简单的方法来解决**Ubuntu和Linux Mint下的亮度问题**。

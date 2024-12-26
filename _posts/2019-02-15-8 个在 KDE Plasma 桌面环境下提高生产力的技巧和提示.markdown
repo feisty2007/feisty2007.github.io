@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/25/231618ce3pja3jxbtvqpap.jpg)
+![](/Asserts/Images/album/201902/25/231618ce3pja3jxbtvqpap.jpg)
 
 
 众所周知，KDE 的 Plasma 是 Linux 下最强大的桌面环境之一。它是高度可定制的，并且看起来也很棒。当你完成所有的配置工作后，你才能体会到它的所有特性。
@@ -31,7 +31,7 @@ tags:	[linuxcn,KDE]
 ### 2、KRunner
 
 
-![KDE Plasma KRunner](/Asserts/Images//attachment/album/201902/25/231621go6jk66nv0nofjn0.jpg "KDE Plasma KRunner")
+![KDE Plasma KRunner](/Asserts/Images/album/201902/25/231621go6jk66nv0nofjn0.jpg "KDE Plasma KRunner")
 
 
 KRunner 是 Plasma 桌面中一个经常受到赞誉的特性。大部分人习惯于穿过层层的应用启动菜单来找到想要启动的程序。当你使用 KRunner 时就不需要这么做。
@@ -43,7 +43,7 @@ KRunner 是 Plasma 桌面中一个经常受到赞誉的特性。大部分人习�
 ### 3、跳转列表
 
 
-![KDE Plasma 的跳转列表](/Asserts/Images//attachment/album/201902/25/231624y11czrpi772lxlxc.jpg "KDE Plasma Jump Lists")
+![KDE Plasma 的跳转列表](/Asserts/Images/album/201902/25/231624y11czrpi772lxlxc.jpg "KDE Plasma Jump Lists")
 
 
 跳转列表功能是最近才被添加进 Plasma 桌面的。它允许你在启动应用时直接跳转至特定的区域或特性部分。
@@ -55,7 +55,7 @@ KRunner 是 Plasma 桌面中一个经常受到赞誉的特性。大部分人习�
 ### 4、KDE Connect
 
 
-![KDE Connect Android 客户端菜单](/Asserts/Images//attachment/album/201902/25/231625gw4vj7dhsfhf578r.jpg "KDE Connect Menu Android")
+![KDE Connect Android 客户端菜单](/Asserts/Images/album/201902/25/231625gw4vj7dhsfhf578r.jpg "KDE Connect Menu Android")
 
 
 如果你有一个安卓手机，那么 [KDE Connect](https://www.maketecheasier.com/send-receive-sms-linux-kde-connect/) 会为你提供大量帮助。它可以将你的手机连接至你的桌面，由此你可以在两台设备间无缝地共享。
@@ -70,7 +70,7 @@ KDE Connect 也允许你在手机和电脑间发送文件或共享网页。你�
 ### 5、Plasma Vaults
 
 
-![KDE Plasma Vault](/Asserts/Images//attachment/album/201902/25/231626hd2frdlk42mrd8nr.jpg "KDE Plasma Vault")
+![KDE Plasma Vault](/Asserts/Images/album/201902/25/231626hd2frdlk42mrd8nr.jpg "KDE Plasma Vault")
 
 
 Plasma Vaults 是 Plasma 桌面的另一个新功能。它的 KDE 为加密文件和文件夹提供的简单解决方案。如果你不使用加密文件，此项功能不会为你节省时间。如果你使用，Vaults 是一个更简单的途径。
@@ -82,7 +82,7 @@ Plasma Vaults 允许你以无 root 权限的普通用户创建加密目录，并
 ### 6、Pager 控件
 
 
-![KDE Plasma Pager](/Asserts/Images//attachment/album/201902/25/231629mzf4abz4b81a9is1.jpg "KDE Plasma Pager")
+![KDE Plasma Pager](/Asserts/Images/album/201902/25/231629mzf4abz4b81a9is1.jpg "KDE Plasma Pager")
 
 
 配置你的桌面的 pager 控件。它允许你轻松地切换至另三个附加工作区，带来更大的屏幕空间。
@@ -94,7 +94,7 @@ Plasma Vaults 允许你以无 root 权限的普通用户创建加密目录，并
 ### 7、创建一个 Dock
 
 
-![KDE Plasma Dock](/Asserts/Images//attachment/album/201902/25/231631qilx0zicp2pve33f.jpg "KDE Plasma Dock")
+![KDE Plasma Dock](/Asserts/Images/album/201902/25/231631qilx0zicp2pve33f.jpg "KDE Plasma Dock")
 
 
 Plasma 以其灵活性和可配置性出名，同时也是它的优势。如果你有常用的程序，你可以考虑将常用程序设置为 OS X 风格的 dock。你能够通过单击启动，而不必深入菜单或输入它们的名字。
@@ -103,7 +103,7 @@ Plasma 以其灵活性和可配置性出名，同时也是它的优势。如果�
 ### 8、为 Dolphin 添加文件树
 
 
-![Plasma Dolphin 目录](/Asserts/Images//attachment/album/201902/25/231639i96fx79x79xz2kf9.jpg "Plasma Dolphin Directory")
+![Plasma Dolphin 目录](/Asserts/Images/album/201902/25/231639i96fx79x79xz2kf9.jpg "Plasma Dolphin Directory")
 
 
 通过目录树来浏览文件夹会更加简单。Dolphin 作为 Plasma 的默认文件管理器，具有在文件夹窗口一侧，以树的形式展示目录列表的内置功能。

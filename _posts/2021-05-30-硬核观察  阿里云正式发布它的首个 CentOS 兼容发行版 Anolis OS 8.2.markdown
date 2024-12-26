@@ -7,13 +7,13 @@ tags:	[linuxcn,CentOS,Anolis,eBPF,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202105/12/180839hiftltrhvzz3221i.jpg)
+![](/Asserts/Images/album/202105/12/180839hiftltrhvzz3221i.jpg)
 
 
 ### 阿里云正式发布它的首个 CentOS 兼容发行版 Anolis OS 8.2
 
 
-![](/Asserts/Images//attachment/album/202105/12/180856u0da0wtiw3y9jvsz.jpg)
+![](/Asserts/Images/album/202105/12/180856u0da0wtiw3y9jvsz.jpg)
 
 
 在红帽宣布“停更” CentOS Linux 后，引来了技术圈的颇多争议，国内外涌现出多款 CentOS 8 的替代发行版，并已在日前陆续发布。
@@ -33,7 +33,7 @@ tags:	[linuxcn,CentOS,Anolis,eBPF,微软]
 ### 微软要将 Linux 工具 eBPF 引入 Windows 10
 
 
-![](/Asserts/Images//attachment/album/202105/12/180919j2pbssyqgi2nyk7i.jpg)
+![](/Asserts/Images/album/202105/12/180919j2pbssyqgi2nyk7i.jpg)
 
 
 eBPF 是一项重要的性能观测和调优技术，最初来自于 BSD 的一个防火墙程序 BPF，后在 Linux 系统上衍生为扩展 BPF，即 eBPF。eBPF 对于网络过滤、分析和管理非常有用，但它的工作[远不止这些](https://www.zdnet.com/article/porting-linuxs-ebpf-to-windows-10-and-windows-server/)。eBPF 也被用于系统调用过滤和进程上下文跟踪。它已经成为编程跟踪、系统剖析以及收集和汇总低级自定义指标的一把瑞士军刀。在更高层次上，eBPF 已经成为安全程序的基础。
@@ -53,7 +53,7 @@ eBPF 是一项重要的性能观测和调优技术，最初来自于 BSD 的一�
 ### 微软将威胁和漏洞管理能力引入 Linux
 
 
-![](/Asserts/Images//attachment/album/202105/12/180935ijlnpnptyzwzlggp.jpg)
+![](/Asserts/Images/album/202105/12/180935ijlnpnptyzwzlggp.jpg)
 
 
 微软正在使 IT 专业人员能够使用该公司的端点防御产品对 Linux 设备的安全进行监控。微软的威胁和漏洞管理（TVM）可用于 Windows 和 Windows 服务器，现在也在公开预览中[支持](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/secure-configuration-assessment-for-macos-and-linux-now-in/ba-p/2320517) macOS 和 Linux。TVM 允许用户审查应用程序漏洞和整个 Linux 系统的潜在错误配置，并补救任何受影响的管理和非管理设备。目前，用户可以利用这一功能在 macOS 和 Linux 中发现、优先处理和补救 30 多个已知的不安全配置。今年夏天晚些时候，TVM 也将支持 Android 和 iOS。

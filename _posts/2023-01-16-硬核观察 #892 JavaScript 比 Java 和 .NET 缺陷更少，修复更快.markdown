@@ -7,10 +7,10 @@ tags:	[linuxcn,Office,JavaScript,元宇宙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/25/075117uh3gbef8ehn3a88v.jpg)
+![](/Asserts/Images/album/202301/25/075117uh3gbef8ehn3a88v.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/25/075132ol555kg752l25wgl.jpg)
+![](/Asserts/Images/album/202301/25/075132ol555kg752l25wgl.jpg)
 
 
 ### JavaScript 比 Java 和 .NET 缺陷更少，修复更快
@@ -35,7 +35,7 @@ tags:	[linuxcn,Office,JavaScript,元宇宙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/25/075141npgpepxd6bbjbkua.jpg)
+![](/Asserts/Images/album/202301/25/075141npgpepxd6bbjbkua.jpg)
 
 
 ### 微软通过补丁检查过期的 Office 套件
@@ -60,7 +60,7 @@ tags:	[linuxcn,Office,JavaScript,元宇宙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/25/075200fkelivddz7mmxwji.jpg)
+![](/Asserts/Images/album/202301/25/075200fkelivddz7mmxwji.jpg)
 
 
 ### Linux 基金会发起新的“开放元宇宙基金会”

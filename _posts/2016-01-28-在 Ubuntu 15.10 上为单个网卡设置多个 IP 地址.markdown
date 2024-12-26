@@ -13,7 +13,7 @@ tags:	[linuxcn,ip]
 这个方法也适用于 Debian 以及它的衍生版本。
 
 
-![](/Asserts/Images//attachment/album/201601/05/223804s9mmmz1f22917qvk.jpg)
+![](/Asserts/Images/album/201601/05/223804s9mmmz1f22917qvk.jpg)
 
 
 ### 临时添加 IP 地址

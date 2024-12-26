@@ -7,13 +7,13 @@ tags:	[linuxcn,云计算,UCloud]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/13/115623vegyyo8y85427gea.jpg)
+![](/Asserts/Images/album/201906/13/115623vegyyo8y85427gea.jpg)
 
 
 前段时间，笔者参加了 UCloud 在京举办的 TIC 2019 大会，适逢 UCloud 实验室负责人叶理灯的演讲结束，就容器计算方面和他进行了短暂沟通。叶理灯是国内在云计算方面有深入研究和实践的资深专家，我觉得他的一些观点和看法值得分享给大家了解。
 
 
-![](/Asserts/Images//attachment/album/201906/13/110618qrztdunuzt6n4zww.jpg)
+![](/Asserts/Images/album/201906/13/110618qrztdunuzt6n4zww.jpg)
 
 
 *叶理灯，UCloud实验室负责人*

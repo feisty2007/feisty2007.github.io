@@ -7,7 +7,7 @@ tags:	[linuxcn,Elasticsearch,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/28/084223a6c1tzffc1gnca7f.jpg)
+![](/Asserts/Images/album/202007/28/084223a6c1tzffc1gnca7f.jpg)
 
 
 #### Meow 攻击自动删除不安全的 Elasticsearch 数据库

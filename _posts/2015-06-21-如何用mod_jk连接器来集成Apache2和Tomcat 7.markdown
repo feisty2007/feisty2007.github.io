@@ -13,7 +13,7 @@ Apache是最流行的web服务器，它通常用来接收客户端的请求并�
 在本篇中，我们会列出Apache的特性以及我们该如何用mod\_jk连接器来集成Tomcat 7和Tomcat 8。
 
 
-![](/Asserts/Images//attachment/album/201506/08/235733m0mdzosfom0i5zkf.png)
+![](/Asserts/Images/album/201506/08/235733m0mdzosfom0i5zkf.png)
 
 
 ### Apache的特性

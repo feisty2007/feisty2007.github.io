@@ -66,7 +66,7 @@ $ perl /usr/local/bin/asciiquarium
 
 ```
 
-![Fig.01: ASCII Aquarium](/Asserts/Images//attachment/album/201512/25/152912u4yng3yg4ggr3z3e.png)
+![Fig.01: ASCII Aquarium](/Asserts/Images/album/201512/25/152912u4yng3yg4ggr3z3e.png)
 
 
 *ASCII 水族箱*

@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/12/010750vk5tkm5ipkxxi59v.png)
+![](/Asserts/Images/album/201711/12/010750vk5tkm5ipkxxi59v.png)
 
 
 关于生产力的话题总是让人充满兴趣的。
@@ -71,13 +71,13 @@ tags:	[linuxcn,命令行]
 亮色的：
 
 
-[![sobole.zsh-theme](/Asserts/Images//attachment/album/201711/12/010801wbcyg01ayi2qjb0m.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lz_uthoR--/c_limit,f_auto,fl_progressive,q_auto,w_880/https://raw.githubusercontent.com/sobolevn/sobole-zsh-theme/master/showcases/env-and-user.png)
+[![sobole.zsh-theme](/Asserts/Images/album/201711/12/010801wbcyg01ayi2qjb0m.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lz_uthoR--/c_limit,f_auto,fl_progressive,q_auto,w_880/https://raw.githubusercontent.com/sobolevn/sobole-zsh-theme/master/showcases/env-and-user.png)
 
 
 以及暗色的：
 
 
-[![sobole.zsh-theme](/Asserts/Images//attachment/album/201711/12/010802eyryor5apmsbt3m6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4o6hZwL9--/c_limit,f_auto,fl_progressive,q_auto,w_880/https://raw.githubusercontent.com/sobolevn/sobole-zsh-theme/master/showcases/dark-mode.png)
+[![sobole.zsh-theme](/Asserts/Images/album/201711/12/010802eyryor5apmsbt3m6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4o6hZwL9--/c_limit,f_auto,fl_progressive,q_auto,w_880/https://raw.githubusercontent.com/sobolevn/sobole-zsh-theme/master/showcases/dark-mode.png)
 
 
 你得到了另外 +15% 的提升，以及一个看起来很漂亮的主题。
@@ -123,7 +123,7 @@ tags:	[linuxcn,命令行]
 你也或许希望缺省展示隐藏文件。因此，我使用 [`exa`](https://github.com/ogham/exa) 来替代标准的 `ls`。为什么呢？因为它缺省启用了很多的东西：
 
 
-[![exa](/Asserts/Images//attachment/album/201711/12/010808pz0d222j277770j3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n_YCO9Hj--/c_limit,f_auto,fl_progressive,q_auto,w_880/https://raw.githubusercontent.com/ogham/exa/master/screenshots.png)
+[![exa](/Asserts/Images/album/201711/12/010808pz0d222j277770j3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n_YCO9Hj--/c_limit,f_auto,fl_progressive,q_auto,w_880/https://raw.githubusercontent.com/ogham/exa/master/screenshots.png)
 
 
 要显示文件内容，我使用标准的 `cat`，或者，如果我希望看到语法高亮，我使用一个定制的别名：
@@ -160,7 +160,7 @@ alias c='pygmentize -O style=borland -f console256 -g'
 这里确实有这样一个工具。它叫做 `fzf`：
 
 
-![fzf](/Asserts/Images//attachment/album/201711/12/004508bhx4ll28gzzgnyvv.png)
+![fzf](/Asserts/Images/album/201711/12/004508bhx4ll28gzzgnyvv.png)
 
 
 它可以被用于任何模糊查询，而不仅是在命令行历史中，但它需要 [一些配置](https://github.com/sobolevn/dotfiles/blob/master/shell/.external#L19)。

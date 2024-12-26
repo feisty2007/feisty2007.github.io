@@ -15,7 +15,7 @@ tags:	[linuxcn,专利,许可证]
 > 
 
 
-![](/Asserts/Images//attachment/album/201708/16/175128su68huz76c7o1uu9.jpg)
+![](/Asserts/Images/album/201708/16/175128su68huz76c7o1uu9.jpg)
 
 
 ### 哪里有压迫，哪里就有反抗

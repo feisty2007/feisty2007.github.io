@@ -7,10 +7,10 @@ tags:	[linuxcn,黑客,Flash,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/15/175755bpzt733h6c9ilicc.jpg)
+![](/Asserts/Images/album/202401/15/175755bpzt733h6c9ilicc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/15/175911fvdov8fdpkapaqd8.png)
+![](/Asserts/Images/album/202401/15/175911fvdov8fdpkapaqd8.png)
 
 
 ### #1 联网的扭矩扳手也能被入侵
@@ -38,7 +38,7 @@ tags:	[linuxcn,黑客,Flash,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/15/175813b03y3li5k0cy50lk.png)
+![](/Asserts/Images/album/202401/15/175813b03y3li5k0cy50lk.png)
 
 
 ### #2 Git 项目考虑使用 Rust 代码开发
@@ -66,7 +66,7 @@ tags:	[linuxcn,黑客,Flash,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/15/175835lgbgr6hpge0nbnhb.png)
+![](/Asserts/Images/album/202401/15/175835lgbgr6hpge0nbnhb.png)
 
 
 ### #3 开源社区在 2024 年仍在继续支持 Flash 播放器

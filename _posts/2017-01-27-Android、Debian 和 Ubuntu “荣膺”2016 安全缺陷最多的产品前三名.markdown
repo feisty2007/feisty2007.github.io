@@ -7,13 +7,13 @@ tags:	[linuxcn,安全,缺陷]
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/05/011411t8lmtjo7vdhnhvvl.jpg)
+![](/Asserts/Images/album/201701/05/011411t8lmtjo7vdhnhvvl.jpg)
 
 
 [据 CVE Details 的数据显示](https://www.cvedetails.com/top-50-products.php?year=2016)，Android、Debian Linux 和 Ubuntu Linux 是 2016 年出现安全缺陷最多的三个产品。[CVE Details](https://www.cvedetails.com/) 是一个收集和存储软件安全缺陷方面的在线数据库。
 
 
-![](/Asserts/Images//attachment/album/201701/05/003636gsnegppn5ntwesm5.jpg)
+![](/Asserts/Images/album/201701/05/003636gsnegppn5ntwesm5.jpg)
 
 
 *2016 年安全缺陷榜单*
@@ -25,7 +25,7 @@ tags:	[linuxcn,安全,缺陷]
 “冠军” [Android 的安全缺陷](https://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)包括了最近大家比较关注的 DoS 缺陷以及内存破坏缺陷，而且，DoS 缺陷数量从 2015 的 56 个跃升至 104 个，而内存破坏缺陷则从 46 个降至 38 个。 Android 中还有 99 个缺陷是关于信息泄露的，而在一年前才发现了 19 个；权限提升缺陷则令人吃惊的从 2015 年的 17 个剧增至 250 个。
 
 
-![](/Asserts/Images//attachment/album/201701/05/005345j9wucjpc2aijiiu7.jpg)
+![](/Asserts/Images/album/201701/05/005345j9wucjpc2aijiiu7.jpg)
 
 
 *Android 的缺陷*
@@ -40,7 +40,7 @@ tags:	[linuxcn,安全,缺陷]
 如果根据厂商来比较，谷歌的产品缺陷最多，有 695 个，而 Debian 和 Canonical 以 319 和 278 分列二、三名。
 
 
-![](/Asserts/Images//attachment/album/201701/05/010303dfvng2l62eyil884.jpg)
+![](/Asserts/Images/album/201701/05/010303dfvng2l62eyil884.jpg)
 
 
 *厂商缺陷排行榜*

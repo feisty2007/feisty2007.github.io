@@ -7,10 +7,10 @@ tags:	[linuxcn,ChatGPT,Edge,谷歌云]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/27/191221os4afi0tf9z0zeag.jpg)
+![](/Asserts/Images/album/202304/27/191221os4afi0tf9z0zeag.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/27/191229ro8wlzaldzdl585f.jpg)
+![](/Asserts/Images/album/202304/27/191229ro8wlzaldzdl585f.jpg)
 
 
 ### ChatGPT 允许禁用聊天历史，但仍会保留 30 天
@@ -35,7 +35,7 @@ tags:	[linuxcn,ChatGPT,Edge,谷歌云]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/27/191239p8ytlk7l49vtkooy.jpg)
+![](/Asserts/Images/album/202304/27/191239p8ytlk7l49vtkooy.jpg)
 
 
 ### Edge 将用户访问的每一个网址发送给必应
@@ -60,7 +60,7 @@ tags:	[linuxcn,ChatGPT,Edge,谷歌云]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/27/191253hwplszbnyxw9xujh.jpg)
+![](/Asserts/Images/album/202304/27/191253hwplszbnyxw9xujh.jpg)
 
 
 ### 谷歌云计算业务首次盈利

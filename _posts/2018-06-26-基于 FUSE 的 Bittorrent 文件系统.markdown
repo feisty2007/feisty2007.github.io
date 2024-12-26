@@ -7,7 +7,7 @@ tags:	[linuxcn,BTFS,Bittorrent]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/08/073727d0blkrxr005qkvxc.png)
+![](/Asserts/Images/album/201806/08/073727d0blkrxr005qkvxc.png)
 
 
 Bittorrent 已经存在了很长时间，它可以从互联网上共享和下载数据。市场上有大量的 GUI 和 CLI 的 Bittorrent 客户端。有时，你不能坐下来等待你的下载完成。你可能想要立即观看内容。这就是 **BTFS** 这个不起眼的文件系统派上用场的地方。使用 BTFS，你可以将种子文件或磁力链接挂载为目录，然后在文件树中作为只读目录。这些文件的内容将在程序读取时按需下载。由于 BTFS 在 FUSE 之上运行，因此不需要干预 Linux 内核。
@@ -79,7 +79,7 @@ $ btfs video.torrent mnt
 
 ```
 
-![](/Asserts/Images//attachment/album/201806/08/073727kqbnx4rq6rg4u83r.png)
+![](/Asserts/Images/album/201806/08/073727kqbnx4rq6rg4u83r.png)
 
 
 cd 到目录：
@@ -103,7 +103,7 @@ $ vlc <path-to-video.mp4>
 给 BTFS 一些时间来找到并获取网站 tracker。一旦加载了真实数据，BTFS 将不再需要 tracker。
 
 
-![](/Asserts/Images//attachment/album/201806/08/073729snquq6g2unwm2fgz.png)
+![](/Asserts/Images/album/201806/08/073729snquq6g2unwm2fgz.png)
 
 
 要卸载 BTFS 文件系统，只需运行以下命令：

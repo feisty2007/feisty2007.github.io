@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,iPhone,挖矿]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/17/192716mggs2tarjwclgihr.jpg)
+![](/Asserts/Images/album/202205/17/192716mggs2tarjwclgihr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/17/192728dyt6lb3bgogsa9ja.jpg)
+![](/Asserts/Images/album/202205/17/192728dyt6lb3bgogsa9ja.jpg)
 
 
 ### AI 能通过 X 射线成像识别人的种族
@@ -35,7 +35,7 @@ MIT 和哈佛医学院的研究人员们意外的发现，经过训练读取 X �
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/17/192741bzytja888rerf8j5.jpg)
+![](/Asserts/Images/album/202205/17/192741bzytja888rerf8j5.jpg)
 
 
 ### 研究人员设计出 iPhone 关闭时仍能运行的恶意软件
@@ -60,7 +60,7 @@ iPhone 在关闭时并没有完全关机。设备内部的芯片继续在低功�
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/17/192755f0ocjbc083ybyv04.jpg)
+![](/Asserts/Images/album/202205/17/192755f0ocjbc083ybyv04.jpg)
 
 
 ### 英伟达显卡的挖矿限制被破解，但游戏玩家无需担心

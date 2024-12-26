@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画]
 ---
 
 
-![chown - chmod](/Asserts/Images//attachment/album/201706/03/231724btq9t8sxhty2p12f.png)
+![chown - chmod](/Asserts/Images/album/201706/03/231724btq9t8sxhty2p12f.png)
 
 
 `chown` ：Linux 中用来改变某个文件的属主的命令，如漫画中所示，将某个“资源”（门）的访问权限给予别人。

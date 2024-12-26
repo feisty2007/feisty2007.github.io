@@ -7,7 +7,7 @@ tags:	[linuxcn,Bash,注释,现场文档]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/19/113658dld7b9987xa89l99.jpg)
+![](/Asserts/Images/album/202310/19/113658dld7b9987xa89l99.jpg)
 
 
 
@@ -61,7 +61,7 @@ echo "Hello, World!"
 执行时，注释将被忽略，当我执行上面的命令时，它看起来像这样：
 
 
-![](/Asserts/Images//attachment/album/202310/19/113726gw754x4v79jws4al.png)
+![](/Asserts/Images/album/202310/19/113726gw754x4v79jws4al.png)
 
 
 
@@ -96,7 +96,7 @@ echo "Hello, World!" #Prints hello world
 
 ```
 
-![](/Asserts/Images//attachment/album/202310/19/113726w6ig6u896aara8er.png)
+![](/Asserts/Images/album/202310/19/113726w6ig6u896aara8er.png)
 
 
 ### Bash 中的多行注释
@@ -176,7 +176,7 @@ echo "GOODBYE"
 当你执行上面的脚本时，它应该只打印 `GOODBYE`。
 
 
-![](/Asserts/Images//attachment/album/202310/19/113727fuuqjuvj7vwjjvm7.png)
+![](/Asserts/Images/album/202310/19/113727fuuqjuvj7vwjjvm7.png)
 
 
 #### 3、现场文档
@@ -227,7 +227,7 @@ echo "Hello, World!"
 当我执行上面的脚本时，它给出了以下输出：
 
 
-![](/Asserts/Images//attachment/album/202310/19/113728w887lssls0j0yaml.png)
+![](/Asserts/Images/album/202310/19/113728w887lssls0j0yaml.png)
 
 
 正如你所看到的，它忽略了从 `<<COMMENT` 到 `COMMENT` 的所有内容。

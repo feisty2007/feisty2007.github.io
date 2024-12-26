@@ -15,7 +15,7 @@ tags:	[linuxcn,Autotools,make]
 > 
 
 
-![](/Asserts/Images//attachment/album/201908/13/094739ahql50gx9x10y157.jpg)
+![](/Asserts/Images/album/201908/13/094739ahql50gx9x10y157.jpg)
 
 
 你有没有下载过流行的软件项目的源代码，要求你输入几乎是仪式般的 `./configure; make && make install` 命令序列来构建和安装它？如果是这样，你已经使用过 [GNU Autotools](https://www.gnu.org/software/automake/faq/autotools-faq.html) 了。如果你曾经研究过这样的项目所附带的一些文件，你可能会对这种构建系统的显而易见的复杂性感到害怕。

@@ -7,7 +7,7 @@ tags:	[linuxcn,字体]
 ---
 
 
-![](/Asserts/Images//attachment/album/202012/30/065754mx4363qxabe8y9z0.jpg)
+![](/Asserts/Images/album/202012/30/065754mx4363qxabe8y9z0.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,字体]
 ### Font Manager：一个帮助管理字体的开源应用
 
 
-![](/Asserts/Images//attachment/album/202012/30/065802uagfmpgfxzcplaga.png)
+![](/Asserts/Images/album/202012/30/065802uagfmpgfxzcplaga.png)
 
 
 Font Manager（这就是应用的字面名称）是一个专门帮助你管理字体的应用。
@@ -39,7 +39,7 @@ Font Manager（这就是应用的字面名称）是一个专门帮助你管理�
 ### Font Manager 的功能
 
 
-![](/Asserts/Images//attachment/album/202012/30/065803y9ixvig7ez3mpe0c.jpg)
+![](/Asserts/Images/album/202012/30/065803y9ixvig7ez3mpe0c.jpg)
 
 
 * 可以添加字体
@@ -53,7 +53,7 @@ Font Manager（这就是应用的字面名称）是一个专门帮助你管理�
 * 获取关于字体族中可用字符的详细信息、许可证、字体大小、供应商、文件类型、间距、宽度和样式
 
 
-![](/Asserts/Images//attachment/album/202012/30/065804vo091010mm0lojsz.png)
+![](/Asserts/Images/album/202012/30/065804vo091010mm0lojsz.png)
 
 
 总的来说，你可以轻松安装或删除字体。但是，当你管理字体时，你会得到很多帮助，如上面的截图所示。

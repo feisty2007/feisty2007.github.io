@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/22/185643c5k5zff5ibkcqdru.jpg)
+![](/Asserts/Images/album/201512/22/185643c5k5zff5ibkcqdru.jpg)
 
 
 在开源和 Linux 方面，2015年的微软有许多惊人的举动！让我们来盘点一下这一年来微软都做了些什么。

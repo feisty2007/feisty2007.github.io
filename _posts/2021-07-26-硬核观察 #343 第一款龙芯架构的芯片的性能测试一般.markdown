@@ -7,13 +7,13 @@ tags:	[linuxcn,龙芯,防火墙,供应链]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/25/082500rbxhyghrb7bogzrh.jpg)
+![](/Asserts/Images/album/202107/25/082500rbxhyghrb7bogzrh.jpg)
 
 
 ### 第一款龙芯架构的芯片的性能测试一般
 
 
-![](/Asserts/Images//attachment/album/202107/25/082512wgbhpfbj8vckvjcg.jpg)
+![](/Asserts/Images/album/202107/25/082512wgbhpfbj8vckvjcg.jpg)
 
 
 本周发布的龙芯 3A5000 是第一款龙芯架构的芯片，四核，时钟速度高达 2.3~2.5GHz。据称龙芯 3A5000 的性能比之前基于 MIPS 的芯片提高了 50%，同时功耗更低。
@@ -33,7 +33,7 @@ tags:	[linuxcn,龙芯,防火墙,供应链]
 ### Linux 防火墙 Firewalld 十年后发布了 1.0
 
 
-![](/Asserts/Images//attachment/album/202107/25/082547qnptv03vhkxyuzj8.jpg)
+![](/Asserts/Images/album/202107/25/082547qnptv03vhkxyuzj8.jpg)
 
 
 [Firewalld](https://github.com/firewalld/firewalld/releases/tag/v1.0.0) 是红帽公司十年前开始的，用于通过 Netfilter 管理 Linux 的防火墙功能。在首次发布十年半之后，[发布](https://www.phoronix.com/scan.php?page=news_item&px=Firewalld-1.0-Coming)了 Firewalld 1.0。
@@ -53,7 +53,7 @@ Firewalld 1.0 带来了一些突破性的变化，包括放弃对 Python 2 的�
 ### GitHub 提高了 Go 模块的供应链安全性
 
 
-![](/Asserts/Images//attachment/album/202107/25/082730n9w52nakwlak07tc.jpg)
+![](/Asserts/Images/album/202107/25/082730n9w52nakwlak07tc.jpg)
 
 
 GitHub 宣布对基于 Go 编程语言的模块进行了一系列[供应链安全升级](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/)。Go 现在是该平台上最流行的编程语言之一。根据 2020 年 [Go 开发者调查](https://blog.golang.org/survey2020-results)，76% 的受访者表示，Go 现在已经以某种形式在企业中使用，96% 的受访者表示这些模块被用于包管理。

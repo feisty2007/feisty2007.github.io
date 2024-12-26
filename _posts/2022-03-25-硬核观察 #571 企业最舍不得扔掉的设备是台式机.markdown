@@ -7,10 +7,10 @@ tags:	[linuxcn,Azure,台式机,DDoS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/10/185458q6ifbh96ngcl5xbl.jpg)
+![](/Asserts/Images/album/202203/10/185458q6ifbh96ngcl5xbl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/10/185521x4whdwz5jpjp4pj5.jpg)
+![](/Asserts/Images/album/202203/10/185521x4whdwz5jpjp4pj5.jpg)
 
 
 ### 企业最舍不得扔掉的设备是台式机
@@ -27,7 +27,7 @@ tags:	[linuxcn,Azure,台式机,DDoS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/10/185508eyjwjfz3dryqo8ry.jpg)
+![](/Asserts/Images/album/202203/10/185508eyjwjfz3dryqo8ry.jpg)
 
 
 ### 能放大 40 亿倍流量的 DDoS 攻击
@@ -44,7 +44,7 @@ DDoS 放大攻击非常受网络罪犯的欢迎，它可以大幅减少发动攻
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/10/185656owm6wlg4thl4ztlb.jpg)
+![](/Asserts/Images/album/202203/10/185656owm6wlg4thl4ztlb.jpg)
 
 
 ### Azure 在公有云采用方面领先于 AWS

@@ -16,7 +16,7 @@ tags:	[linuxcn,IBM,Ubuntu,LinuxONE]
 LinuxONE 被 IBM 称作‘游戏改变者’，它‘释放了 Linux 的商业潜力’。
 
 
-![](/Asserts/Images//attachment/album/201508/23/220828vzmwm3cc6y064b68.jpg)
+![](/Asserts/Images/album/201508/23/220828vzmwm3cc6y064b68.jpg)
 
 
 *很快你就可以在你的 IBM 大型机上安装 Ubuntu Linux orange 啦*

@@ -7,7 +7,7 @@ tags:	[linuxcn,Kali]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/05/143507x6i0sbd02ok0gteo.png)
+![](/Asserts/Images/album/201811/05/143507x6i0sbd02ok0gteo.png)
 
 
 Kali Linux 在渗透测试和白帽子方面是业界领先的 Linux 发行版。默认情况下，该发行版附带了大量入侵和渗透的工具和软件，并且在全世界都得到了广泛认可。即使在那些甚至可能不知道 Linux 是什么的 Windows 用户中也是如此。
@@ -22,7 +22,7 @@ Kali Linux 在渗透测试和白帽子方面是业界领先的 Linux 发行版�
 ### Kali Linux 不适合初学者
 
 
-![](/Asserts/Images//attachment/album/201811/05/143454zhurywzc6vkclrh4.png)
+![](/Asserts/Images/album/201811/05/143454zhurywzc6vkclrh4.png)
 
 
 *Kali Linux 默认 GNOME 桌面*
@@ -43,7 +43,7 @@ Kali Linux 主要面向想要运行渗透测试套件的专家或想要学习成
 ### 它会让你被黑客攻击
 
 
-![](/Asserts/Images//attachment/album/201811/05/143522d6kn8jik7o6bba6k.png)
+![](/Asserts/Images/album/201811/05/143522d6kn8jik7o6bba6k.png)
 
 
 *Kali Linux 入侵和测试工具*
@@ -97,7 +97,7 @@ deb-src http://http.kali.org/kali kali-rolling main contrib non-free
 ### 不要安装 Kali Linux
 
 
-![](/Asserts/Images//attachment/album/201811/05/143536z7eq1q72k1t99b31.png)
+![](/Asserts/Images/album/201811/05/143536z7eq1q72k1t99b31.png)
 
 
 *使用 Kali Linux 在 fosspost.org 上运行 wpscan*

@@ -25,13 +25,13 @@ Nathive是一个libre软件图像编辑器，类似于 Adobe Photoshop、Corel P
 ### 屏幕截图
 
 
-![](/Asserts/Images//attachment/album/201412/11/205525fb5dh0gh66mgdf5i.png)
+![](/Asserts/Images/album/201412/11/205525fb5dh0gh66mgdf5i.png)
 
 
-![](/Asserts/Images//attachment/album/201412/11/205528qwsvj4zyvz2j3aey.png)
+![](/Asserts/Images/album/201412/11/205528qwsvj4zyvz2j3aey.png)
 
 
-![](/Asserts/Images//attachment/album/201412/11/205533jej58mwf6jrr6ldj.png)
+![](/Asserts/Images/album/201412/11/205533jej58mwf6jrr6ldj.png)
 
 
 

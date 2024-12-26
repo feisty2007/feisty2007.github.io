@@ -13,7 +13,7 @@ tags:	[linuxcn,RAID]
 在这里，我们将看到如何扩展现有的阵列或 RAID 组。例如，如果我们在阵列中使用2个磁盘形成一个 raid 1 集合，在某些情况，如果该组中需要更多的空间，就可以使用 mdadm -grow 命令来扩展阵列大小，只需要将一个磁盘加入到现有的阵列中即可。在说完扩展（添加磁盘到现有的阵列中）后，我们将看看如何从阵列中删除故障的磁盘。
 
 
-![Grow Raid Array in Linux](/Asserts/Images//attachment/album/201508/31/222753ilrflallzk1khmrr.jpg)
+![Grow Raid Array in Linux](/Asserts/Images/album/201508/31/222753ilrflallzk1khmrr.jpg)
 
 
 *扩展 RAID 阵列和删除故障的磁盘*
@@ -73,7 +73,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Check Existing Raid Array](/Asserts/Images//attachment/album/201508/31/222755j444r3ur5u6wee8f.png)
+![Check Existing Raid Array](/Asserts/Images/album/201508/31/222755j444r3ur5u6wee8f.png)
 
 
 *检查现有的 RAID 阵列*
@@ -106,7 +106,7 @@ IP地址      :   192.168.0.230
 * 使用`w`保存更改。
 
 
-![Create New Partition in Linux](/Asserts/Images//attachment/album/201508/31/222757jdbq3aoxzeeodcad.png)
+![Create New Partition in Linux](/Asserts/Images/album/201508/31/222757jdbq3aoxzeeodcad.png)
 
 
 *为 sdd 创建新的分区*
@@ -121,7 +121,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Confirm sdd Partition](/Asserts/Images//attachment/album/201508/31/222800j5qwydcv5qvpqkpv.png)
+![Confirm sdd Partition](/Asserts/Images/album/201508/31/222800j5qwydcv5qvpqkpv.png)
 
 
 *确认 sdd 分区*
@@ -136,7 +136,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Check Raid on sdd Partition](/Asserts/Images//attachment/album/201508/31/222800t57ygvagdu1cnl1y.png)
+![Check Raid on sdd Partition](/Asserts/Images/album/201508/31/222800t57ygvagdu1cnl1y.png)
 
 
 *在 sdd 分区中检查 RAID*
@@ -154,7 +154,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Add Disk To Raid-Array](/Asserts/Images//attachment/album/201508/31/222801x2igbt646eijgzh2.png)
+![Add Disk To Raid-Array](/Asserts/Images/album/201508/31/222801x2igbt646eijgzh2.png)
 
 
 *添加磁盘到 RAID 阵列*
@@ -169,7 +169,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Confirm Disk Added to Raid](/Asserts/Images//attachment/album/201508/31/222803kw7hhfc5r7g1833r.png)
+![Confirm Disk Added to Raid](/Asserts/Images/album/201508/31/222803kw7hhfc5r7g1833r.png)
 
 
 *确认将新磁盘添加到 RAID 中*
@@ -187,7 +187,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Grow Raid Array](/Asserts/Images//attachment/album/201508/31/222805p9z626ig912i211i.png)
+![Grow Raid Array](/Asserts/Images/album/201508/31/222805p9z626ig912i211i.png)
 
 
 *扩展 Raid 阵列*
@@ -202,7 +202,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Confirm Raid Array](/Asserts/Images//attachment/album/201508/31/222808e9er2ed2j2a39wa7.png)
+![Confirm Raid Array](/Asserts/Images/album/201508/31/222808e9er2ed2j2a39wa7.png)
 
 
 *确认 Raid 阵列*
@@ -230,7 +230,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Disk Fail in Raid Array](/Asserts/Images//attachment/album/201508/31/222811wrs1rk84xkzt5r4k.png)
+![Disk Fail in Raid Array](/Asserts/Images/album/201508/31/222811wrs1rk84xkzt5r4k.png)
 
 
 *在 RAID 阵列中模拟磁盘故障*
@@ -248,7 +248,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Remove Disk in Raid Array](/Asserts/Images//attachment/album/201508/31/222812skwrbkvu1yvk9pyy.png)
+![Remove Disk in Raid Array](/Asserts/Images/album/201508/31/222812skwrbkvu1yvk9pyy.png)
 
 
 *在 Raid 阵列中删除磁盘*
@@ -264,7 +264,7 @@ IP地址      :   192.168.0.230
 
 ```
 
-![Grow Disks in Raid Array](/Asserts/Images//attachment/album/201508/31/222814sxz2vrlxu1pwxusu.png)
+![Grow Disks in Raid Array](/Asserts/Images/album/201508/31/222814sxz2vrlxu1pwxusu.png)
 
 
 *在 RAID 阵列扩展磁盘*

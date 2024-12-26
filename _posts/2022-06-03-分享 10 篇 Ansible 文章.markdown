@@ -15,7 +15,7 @@ tags:	[linuxcn,Ansible]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/21/111840akw4bjd13dh8ayky.jpg "gears and lightbulb to represent innovation")
+![](/Asserts/Images/album/202206/21/111840akw4bjd13dh8ayky.jpg "gears and lightbulb to represent innovation")
 
 
 我希望能够激发刚刚接触 Ansible 的初学者的兴趣。这里有一系列总结文章，我已将其包括在内，以供你随意后续查阅。

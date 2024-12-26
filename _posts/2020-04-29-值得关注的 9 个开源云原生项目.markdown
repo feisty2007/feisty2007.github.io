@@ -15,7 +15,7 @@ tags:	[linuxcn,容器,云原生]
 > 
 
 
-![](/Asserts/Images//attachment/album/202004/21/222735oa1wib1wgypoiwpp.jpg)
+![](/Asserts/Images/album/202004/21/222735oa1wib1wgypoiwpp.jpg)
 
 
 随着用容器来开发应用的实践变得流行，[云原生应用](https://opensource.com/article/18/7/what-are-cloud-native-apps)也在增长。云原生应用的定义为：
@@ -41,7 +41,7 @@ tags:	[linuxcn,容器,云原生]
 尽管这些技术各有各自独特的历史，但它们之间却相辅相成，在短时间内实现了云原生应用和工具的惊人的指数级增长。这个[云原生计算基金会（CNCF）](https://www.cncf.io)信息图呈现了当今云原生应用生态的规模和广度。
 
 
-![Cloud-Native Computing Foundation applications ecosystem](/Asserts/Images//attachment/album/202004/21/223008fcjtssc4zt8cb4j9.jpg "Cloud-Native Computing Foundation applications ecosystem")
+![Cloud-Native Computing Foundation applications ecosystem](/Asserts/Images/album/202004/21/223008fcjtssc4zt8cb4j9.jpg "Cloud-Native Computing Foundation applications ecosystem")
 
 
 *云原生计算基金会项目*
@@ -56,7 +56,7 @@ tags:	[linuxcn,容器,云原生]
 通常除了围绕云原生应用建立社区之外，CNCF 还帮助项目围绕其云原生应用建立结构化管理。CNCF 创建了成熟等级的概念（沙箱级、孵化级或毕业级），分别与下图中的“创新者”、“早期采用者”和“早期大量应用”相对应。
 
 
-![CNCF project maturity levels](/Asserts/Images//attachment/album/202004/21/223027f5rz5sfrrxrmxc36.jpg "CNCF project maturity levels")
+![CNCF project maturity levels](/Asserts/Images/album/202004/21/223027f5rz5sfrrxrmxc36.jpg "CNCF project maturity levels")
 
 
 *CNCF 项目成熟等级*
@@ -171,7 +171,7 @@ Docker Swarm 和 Mesosphere Marathon 也是容器编排引擎，但是可以肯�
 Prometheus 是 2012 年在 SoundCloud 上构建的一个开源的系统监控和告警工具。之后，许多公司和组织都采用了 Prometheus，并且该项目拥有非常活跃的开发者和用户群体。现在，它已经成为一个独立的开源项目，独立于公司之外进行维护。
 
 
-![Prometheus’ architecture](/Asserts/Images//attachment/album/202004/21/223038gdpdaqpx6yoea1ex.jpg "Prometheus’ architecture")
+![Prometheus’ architecture](/Asserts/Images/album/202004/21/223038gdpdaqpx6yoea1ex.jpg "Prometheus’ architecture")
 
 
 *Prometheus 的架构*

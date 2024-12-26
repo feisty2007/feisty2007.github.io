@@ -7,7 +7,7 @@ tags:	[linuxcn,家长控制,VPN]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/11/102818a3slld31lxoallrg.jpg)
+![](/Asserts/Images/album/202005/11/102818a3slld31lxoallrg.jpg)
 
 
 #### elementaryOS 5.1.4 可以限制自己的使用时间

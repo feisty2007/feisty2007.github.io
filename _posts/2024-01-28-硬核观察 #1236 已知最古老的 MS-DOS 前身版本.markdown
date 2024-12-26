@@ -7,10 +7,10 @@ tags:	[linuxcn,MS-DOS,CPU,RHEL,DVD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/04/203001pflbli1ubtbfifll.jpg)
+![](/Asserts/Images/album/202401/04/203001pflbli1ubtbfifll.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/04/203011m132dccl666ru6ju.png)
+![](/Asserts/Images/album/202401/04/203011m132dccl666ru6ju.png)
 
 
 ### #1 已知最古老的 MS-DOS 前身版本
@@ -38,7 +38,7 @@ tags:	[linuxcn,MS-DOS,CPU,RHEL,DVD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/04/203026bgrlb4rg0vkgx99k.png)
+![](/Asserts/Images/album/202401/04/203026bgrlb4rg0vkgx99k.png)
 
 
 ### #2 RHEL 10 将要求硬件支持 x86-64-v3，以支持更新的 CPU 特性
@@ -66,7 +66,7 @@ tags:	[linuxcn,MS-DOS,CPU,RHEL,DVD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/04/203051e6d2qdv55oeioxd0.png)
+![](/Asserts/Images/album/202401/04/203051e6d2qdv55oeioxd0.png)
 
 
 ### #3 DVD 复苏以防止电影消失

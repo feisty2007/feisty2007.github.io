@@ -7,10 +7,10 @@ tags:	[linuxcn,游戏,AI,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/22/171749y70cfa43993tllz0.jpg)
+![](/Asserts/Images/album/202209/22/171749y70cfa43993tllz0.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/22/171757buxf9w89m8blmizk.jpg)
+![](/Asserts/Images/album/202209/22/171757buxf9w89m8blmizk.jpg)
 
 
 ### 史上最贵开发的游戏《星际公民》已筹集五亿美元
@@ -35,7 +35,7 @@ tags:	[linuxcn,游戏,AI,WSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/22/171815u0xddkd3e7qxjkqb.jpg)
+![](/Asserts/Images/album/202209/22/171815u0xddkd3e7qxjkqb.jpg)
 
 
 ### 图片网站禁止上传 AI 生成的图像
@@ -60,7 +60,7 @@ tags:	[linuxcn,游戏,AI,WSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/22/171829fqnfkq4u7ur0z8qc.jpg)
+![](/Asserts/Images/album/202209/22/171829fqnfkq4u7ur0z8qc.jpg)
 
 
 ### 微软将 systemd 引入 WSL

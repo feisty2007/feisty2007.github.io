@@ -18,7 +18,7 @@ tags:	[linuxcn,深度,绿盟,Deepin]
 > 
 
 
-![](/Asserts/Images//attachment/album/201410/15/234149yjoajwwwj0cm0wd8.png)
+![](/Asserts/Images/album/201410/15/234149yjoajwwwj0cm0wd8.png)
 
 
 本次交易背景：

@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,维基百科]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/04/105347blb65kiubqpykqpa.jpg)
+![](/Asserts/Images/album/202007/04/105347blb65kiubqpykqpa.jpg)
 
 
 #### 微软推出 Pylance，改善 VS Code 中的 Python 体验

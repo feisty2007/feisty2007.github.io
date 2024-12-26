@@ -7,13 +7,13 @@ tags:	[linuxcn,编程语言,Linux,波音]
 ---
 
 
-![](/Asserts/Images//attachment/album/202105/24/222416w2ado7rg287q7825.jpg)
+![](/Asserts/Images/album/202105/24/222416w2ado7rg287q7825.jpg)
 
 
 ### Python 之父对 Rust、Go、Julia 和 TypeScript 的看法
 
 
-![](/Asserts/Images//attachment/album/202105/24/222432sc5957j2tcxretzs.jpg)
+![](/Asserts/Images/album/202105/24/222432sc5957j2tcxretzs.jpg)
 
 
 Python 之父 Guido 在最近一次[新采访](https://www.youtube.com/watch?v=aYbNh3NS7jA)中分享了他对其它编程语言的看法，其中有些很有趣：
@@ -36,7 +36,7 @@ Python 之父 Guido 在最近一次[新采访](https://www.youtube.com/watch?v=a
 ### Linux 5.13-rc3 发布，主要是撤销明大的提交
 
 
-![](/Asserts/Images//attachment/album/202105/24/222457rnlb6gqneou48bna.jpg)
+![](/Asserts/Images/album/202105/24/222457rnlb6gqneou48bna.jpg)
 
 
 Linus Torvalds 如期发布了 Linux 5.13-rc3 内核。他 [说](https://lore.kernel.org/lkml/CAHk-=wiUwtRp+jjCMd9x8O90iD_YHVBQzJoKCsT9e06L7qob3Q@mail.gmail.com/T/#u)，“这是一个非常平静的 RC3 周，至少在纯提交数量上，这是我们在 5.x 系列中最小的 RC3。”
@@ -56,7 +56,7 @@ Linux 5.13-rc3 最主要的工作是，撤销了明尼苏达大学研究人员�
 ### 安全研究人员艰难攻破了波音 747 的机上娱乐系统
 
 
-![](/Asserts/Images//attachment/album/202105/24/222526c26nnrbqgg2zni76.jpg)
+![](/Asserts/Images/album/202105/24/222526c26nnrbqgg2zni76.jpg)
 
 
 信息安全公司 PTP 的研究人员在[利用](https://www.theregister.com/2021/05/21/boeing_747_ife_windows_nt4_shell_access/)了一个可追溯到 1999 年的漏洞后，在一架波音 747 客机的机上娱乐系统上建立了一个持久的 shell。[PTP 说](https://www.pentestpartners.com/security-blog/getting-a-persistent-shell-on-a-747-ife/)，“攻破它比我们预期的要困难得多，主要是因为这个机上娱乐系统已经有 25 年的历史了，缺少许多我们认为在最近的系统上理所当然的功能。”该系统是如此古老，其管理服务器运行在 Windows NT4 SP3 上。许多现代工具和技术都不起作用，甚至连 Kali Linux 的前身 Backtrack 也没有成功。最终，研究人员使用 Metasploit 的 TFTP 服务器模块进入机器，获得了命令行访问权，并从那里获得了管理密码的哈希值并将其破解。

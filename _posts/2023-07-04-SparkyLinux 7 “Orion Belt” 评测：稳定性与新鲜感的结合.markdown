@@ -7,7 +7,7 @@ tags:	[linuxcn,SparkyLinux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/07/071756oh146361967g94y9.jpg)
+![](/Asserts/Images/album/202307/07/071756oh146361967g94y9.jpg)
 
 
 
@@ -39,7 +39,7 @@ SparkyLinux 7 的核心是 Debian 12 “Bookworm”，为稳定性和可靠性�
 此版本默认由 Linux 内核 6.1 LTS 提供支持。但是，如果你更喜欢前沿的主线内核，那么你可以在不稳定的仓库中获取 6.3 和 5.15 LTS。
 
 
-![SparkyLinux 7 Xfce 桌面](/Asserts/Images//attachment/album/202307/07/071858vxg8vt27t2e8t7m7.jpg)
+![SparkyLinux 7 Xfce 桌面](/Asserts/Images/album/202307/07/071858vxg8vt27t2e8t7m7.jpg)
 
 
 #### 增强的应用和软件
@@ -60,7 +60,7 @@ SparkyLinux 的旗舰产品 Xfce 桌面版本为 4.18，这是这款轻量级桌
 那么，关于这个版本的更新就到这里了。我们来看看性能吧。
 
 
-![APTUS Appcenter for SparkyLinux](/Asserts/Images//attachment/album/202307/07/071908bshlsccbsgcwv2i6.jpg)
+![APTUS Appcenter for SparkyLinux](/Asserts/Images/album/202307/07/071908bshlsccbsgcwv2i6.jpg)
 
 
 #### 安装和性能
@@ -81,7 +81,7 @@ SparkyLinux 的旗舰产品 Xfce 桌面版本为 4.18，这是这款轻量级桌
 所以，总的来说，我相信它运行得相当好，但考虑到 Xfce 桌面，内存消耗似乎有点高。
 
 
-![SparkyLinux 7 性能](/Asserts/Images//attachment/album/202307/07/071916jrw0b30wa770zapa.jpg)
+![SparkyLinux 7 性能](/Asserts/Images/album/202307/07/071916jrw0b30wa770zapa.jpg)
 
 
 ### 总结

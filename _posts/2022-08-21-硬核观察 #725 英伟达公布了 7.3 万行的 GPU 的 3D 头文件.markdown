@@ -7,10 +7,10 @@ tags:	[linuxcn,英伟达,龙芯,论文]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/11/205708v6sezfvwstofg6g1.jpg)
+![](/Asserts/Images/album/202208/11/205708v6sezfvwstofg6g1.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/11/205721oillwi9z1a0klk0f.jpg)
+![](/Asserts/Images/album/202208/11/205721oillwi9z1a0klk0f.jpg)
 
 
 ### 英伟达公布了 7.3 万行的 GPU 的 3D 头文件
@@ -35,7 +35,7 @@ tags:	[linuxcn,英伟达,龙芯,论文]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/11/205730vn1lxpsgk8uwsx8s.jpg)
+![](/Asserts/Images/album/202208/11/205730vn1lxpsgk8uwsx8s.jpg)
 
 
 ### LibreOffice 添加龙芯架构支持
@@ -60,7 +60,7 @@ tags:	[linuxcn,英伟达,龙芯,论文]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/11/205748f2q26zm688za2q7k.jpg)
+![](/Asserts/Images/album/202208/11/205748f2q26zm688za2q7k.jpg)
 
 
 ### 中国论文三大指标跃居世界第一

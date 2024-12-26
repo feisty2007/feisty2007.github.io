@@ -7,7 +7,7 @@ tags:	[linuxcn,Flutter]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/06/115835fdjlxmd55mxew1nn.jpg)
+![](/Asserts/Images/album/202112/06/115835fdjlxmd55mxew1nn.jpg)
 
 
 谷歌的 UI 工具包 Flutter 在创建移动、网页和桌面的跨平台应用程序方面越来越受欢迎。
@@ -40,7 +40,7 @@ sudo snap install flutter --classic
 你会在你的终端上看到类似这样的东西：
 
 
-![](/Asserts/Images//attachment/album/202112/06/115908c0guz15670d06d6x.png)
+![](/Asserts/Images/album/202112/06/115908c0guz15670d06d6x.png)
 
 
 一旦安装完成，就是验证它的时候了。不仅仅是 Flutter 的安装，还要验证 Flutter 正常运行所需满足的每一个依赖关系。
@@ -61,13 +61,13 @@ Flutter doctor
 这个过程开始看起来像这样：
 
 
-![](/Asserts/Images//attachment/album/202112/06/115909pjh5fiivvxi5vcfi.png)
+![](/Asserts/Images/album/202112/06/115909pjh5fiivvxi5vcfi.png)
 
 
 而它完成时像这样：
 
 
-![](/Asserts/Images//attachment/album/202112/06/115910der0s2p332p2n0j1.png)
+![](/Asserts/Images/album/202112/06/115910der0s2p332p2n0j1.png)
 
 
 正如你所看到的，我们需要 Android Studio 来工作。所以让我们来安装它。我们该怎么做呢？用 Snap [在 Linux 上安装 Android Studio](https://itsfoss.com/install-android-studio-ubuntu-linux/) 也是毫不费力的。
@@ -85,49 +85,49 @@ sudo snap install android-studio --classic
 
 ```
 
-![](/Asserts/Images//attachment/album/202112/06/115911oket1ntw0bsfsbfq.png)
+![](/Asserts/Images/album/202112/06/115911oket1ntw0bsfsbfq.png)
 
 
 安装完毕后，从我们的操作系统菜单中打开 Android Studio。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115912igijeqg1pgdy4yoy.jpg)
+![](/Asserts/Images/album/202112/06/115912igijeqg1pgdy4yoy.jpg)
 
 
 就快完成了。现在是配置 Android Studio 的时候了。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115913k0ofnntswfnfnkno.png)
+![](/Asserts/Images/album/202112/06/115913k0ofnntswfnfnkno.png)
 
 
 点击下一步，如果你不想让事情复杂化，就选择“<ruby> 标准 <rt>  standard </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115914asshz8cahdan0yh4.png)
+![](/Asserts/Images/album/202112/06/115914asshz8cahdan0yh4.png)
 
 
 选择你喜欢的主题（我喜欢“<ruby> 暗色 <rt>  Darcula </rt></ruby>”的）。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115915w44g54cl7nyfuklz.png)
+![](/Asserts/Images/album/202112/06/115915w44g54cl7nyfuklz.png)
 
 
 确认一切正常，然后点击“<ruby> 下一步 <rt>  Next </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115917i7fwrcfxcxzffq2x.png)
+![](/Asserts/Images/album/202112/06/115917i7fwrcfxcxzffq2x.png)
 
 
 最后，点击“<ruby> 完成 <rt>  Finish </rt></ruby>”按钮。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115918ex78nrr9yyz4lygi.png)
+![](/Asserts/Images/album/202112/06/115918ex78nrr9yyz4lygi.png)
 
 
 然后等待，直到下载完成。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115920rexuef3soxfbu3cu.png)
+![](/Asserts/Images/album/202112/06/115920rexuef3soxfbu3cu.png)
 
 
 ### 创建一个 Hello World Flutter 应用样本
@@ -136,7 +136,7 @@ sudo snap install android-studio --classic
 在 Android Studio 中，进入项目，选择“<ruby> 新建 Flutter 项目 <rt>  New Flutter Project </rt></ruby>”。Flutter SDK 路径会默认设置。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115921w4hockzas77ocxc4.png)
+![](/Asserts/Images/album/202112/06/115921w4hockzas77ocxc4.png)
 
 
 在这里，神奇的事情开始出现了，这是你设置你的项目名称的地方，在这个例子中，它将被称为 “hello\_world”。
@@ -145,13 +145,13 @@ sudo snap install android-studio --classic
 让我们选择三个可用的平台。**Android、iOS 和 Web**。最后，点击“<ruby> 完成 <rt>  Finish </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115922tmauzq7h71lhku7a.png)
+![](/Asserts/Images/album/202112/06/115922tmauzq7h71lhku7a.png)
 
 
 项目中的主文件位于 `lib/main.dart`，如下图所示：
 
 
-![](/Asserts/Images//attachment/album/202112/06/115925g25vmr5drd5rrar2.png)
+![](/Asserts/Images/album/202112/06/115925g25vmr5drd5rrar2.png)
 
 
 选定后，擦除文件中包含的所有内容，并将其改为本示例代码：
@@ -192,13 +192,13 @@ class MyApp extends StatelessWidget {
 最后，选择 “Chome Web” 设备，并点击“<ruby> 运行 <rt>  Run </rt></ruby>”按钮，如下图所示；并看到神奇的效果！
 
 
-![](/Asserts/Images//attachment/album/202112/06/115927nm9n4wtyzgqh6mv6.png)
+![](/Asserts/Images/album/202112/06/115927nm9n4wtyzgqh6mv6.png)
 
 
 你可以如此快速地创建一个 Flutter 项目，真是不可思议。跟你的 Hello World 项目打个招呼吧。
 
 
-![](/Asserts/Images//attachment/album/202112/06/115927c2k8uv05guph8fth.png)
+![](/Asserts/Images/album/202112/06/115927c2k8uv05guph8fth.png)
 
 
 ### 最后...

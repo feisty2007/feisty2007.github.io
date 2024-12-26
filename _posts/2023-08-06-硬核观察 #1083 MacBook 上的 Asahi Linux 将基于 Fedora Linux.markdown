@@ -7,10 +7,10 @@ tags:	[linuxcn,Asahi Linux,systemd,电话]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/04/183438pf6z3ss8jesw46s8.jpg)
+![](/Asserts/Images/album/202308/04/183438pf6z3ss8jesw46s8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/04/183449xa8y8k2ye8iey0ik.jpg)
+![](/Asserts/Images/album/202308/04/183449xa8y8k2ye8iey0ik.jpg)
 
 
 ### MacBook 上的 Asahi Linux 将基于 Fedora Linux
@@ -35,7 +35,7 @@ Asahi Linux 旨在将 Linux 移植到使用 M1、M2 等苹果硅芯片的 Mac �
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/04/183507pxsddrfrtdase5jr.jpg)
+![](/Asserts/Images/album/202308/04/183507pxsddrfrtdase5jr.jpg)
 
 
 ### systemd 提供加快重启速度的软重启功能
@@ -60,7 +60,7 @@ systemd v254 将在秋季正式发布，在此版本中将带来更快的系统�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/04/183522kqi0f0ef5l0xere0.jpg)
+![](/Asserts/Images/album/202308/04/183522kqi0f0ef5l0xere0.jpg)
 
 
 ### 跨国自动诈骗电话公司被处罚 3 亿美元

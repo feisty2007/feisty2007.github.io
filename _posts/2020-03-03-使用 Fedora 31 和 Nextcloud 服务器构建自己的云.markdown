@@ -7,7 +7,7 @@ tags:	[linuxcn,Nextcloud]
 ---
 
 
-![](/Asserts/Images//attachment/album/202003/06/093246ehccgz6dgec0votz.png)
+![](/Asserts/Images/album/202003/06/093246ehccgz6dgec0votz.png)
 
 
 [Nextcloud](https://nextcloud.com/) 是用于跨多个设备存储和同步数据的软件套件。你可以从 [https://github.com/nextcloud/server](https://github.com/nextcloud/server#nextcloud-server-) 了解有关 Nextcloud 服务器的更多特性信息。
@@ -174,7 +174,7 @@ Thanks for using MariaDB!
 
 
 ```
-# mkdir /var/www/html/nextcloud/Asserts/Images/
+# mkdir /var/www/html/nextcloud/data
 # chown -R apache:apache /var/www/html/nextcloud
 ```
 
@@ -185,9 +185,9 @@ SELinux 必须配置为可与 Nextcloud 一起使用。基本命令如下所示�
 ```
 # semanage fcontext -a -t httpd_sys_rw_content_t '/var/www/html/nextcloud/config(/.*)?'
 # semanage fcontext -a -t httpd_sys_rw_content_t '/var/www/html/nextcloud/apps(/.*)?'
-# semanage fcontext -a -t httpd_sys_rw_content_t '/var/www/html/nextcloud/Asserts/Images/(/.*)?'
+# semanage fcontext -a -t httpd_sys_rw_content_t '/var/www/html/nextcloud/data(/.*)?'
 # semanage fcontext -a -t httpd_sys_rw_content_t '/var/www/html/nextcloud/.user.ini'
-# semanage fcontext -a -t httpd_sys_rw_content_t '/var/www/html/nextcloud/3rdparty/aws/aws-sdk-php/src/Asserts/Images//logs(/.*)?'
+# semanage fcontext -a -t httpd_sys_rw_content_t '/var/www/html/nextcloud/3rdparty/aws/aws-sdk-php/src/data/logs(/.*)?'
 # restorecon -Rv '/var/www/html/nextcloud/'
 ```
 
@@ -203,7 +203,7 @@ SELinux 必须配置为可与 Nextcloud 一起使用。基本命令如下所示�
 在你喜欢的浏览器中，访问 <http://your_server_ip/nextcloud> 并输入字段：
 
 
-![](/Asserts/Images//attachment/album/202003/06/093247exjcju42exjnit1h.png)
+![](/Asserts/Images/album/202003/06/093247exjcju42exjnit1h.png)
 
 
 #### 使用命令行
@@ -214,7 +214,7 @@ SELinux 必须配置为可与 Nextcloud 一起使用。基本命令如下所示�
 
 
 ```
-# sudo -u apache php occ maintenance:install --data-dir /var/www/html/nextcloud/Asserts/Images// --database "mysql" --database-name "nextcloud" --database-user "nc_admin" --database-pass "DB_SeCuRe_PaSsWoRd" --admin-user "admin" --admin-pass "Admin_SeCuRe_PaSsWoRd"
+# sudo -u apache php occ maintenance:install --data-dir /var/www/html/nextcloud/data/ --database "mysql" --database-name "nextcloud" --database-user "nc_admin" --database-pass "DB_SeCuRe_PaSsWoRd" --admin-user "admin" --admin-pass "Admin_SeCuRe_PaSsWoRd"
 ```
 
 ### 最后几点

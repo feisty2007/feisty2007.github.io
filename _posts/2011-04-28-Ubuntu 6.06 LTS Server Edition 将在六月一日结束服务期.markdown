@@ -20,13 +20,13 @@ tags:	[linuxcn,Ubuntu 6.06 LTS,停止,服务,支持]
 
 
 
-![](/Asserts/Images//attachment/portal/201104/26/091319wzcbadcw971szjdg.jpg)
+![](/Asserts/Images/portal/201104/26/091319wzcbadcw971szjdg.jpg)
 
 
   
   
   
- ![](/Asserts/Images//attachment/portal/201104/26/09131947xqqonxqq7sxcln.png) 该贴已经同步到 [DeadFire的微博](http://api.t.sina.com.cn/1676913724/statuses/9640499175)
+ ![](/Asserts/Images/portal/201104/26/09131947xqqonxqq7sxcln.png) 该贴已经同步到 [DeadFire的微博](http://api.t.sina.com.cn/1676913724/statuses/9640499175)
 
 
  
@@ -37,5 +37,5 @@ tags:	[linuxcn,Ubuntu 6.06 LTS,停止,服务,支持]
 
 
 
-![](/Asserts/Images//attachment/portal/201104/26/09131947xqqonxqq7sxcln.png) 已同步至 [wxy的微博](http://api.t.sina.com.cn/1747813575/statuses/9642261721)
+![](/Asserts/Images/portal/201104/26/09131947xqqonxqq7sxcln.png) 已同步至 [wxy的微博](http://api.t.sina.com.cn/1747813575/statuses/9642261721)
 ![](http://linux.cn/xwb/images/bgimg/icon_logo.png) 已同步至 [wxy的微博](http://api.t.sina.com.cn/1747813575/statuses/9653024705)

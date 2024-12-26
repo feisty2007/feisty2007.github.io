@@ -13,7 +13,7 @@ tags:	[linuxcn,systemd,chroot,systemd-nspawn]
 想必在各大发行版中的用户对 chroot 都不陌生，而且我猜想 Gentoo 用户要时不时的使用它。
 
 
-![](/Asserts/Images//attachment/album/201501/16/092003t2uj2ofoct2mg1e0.jpg)
+![](/Asserts/Images/album/201501/16/092003t2uj2ofoct2mg1e0.jpg)
 
 
 ### chroot 面临的挑战

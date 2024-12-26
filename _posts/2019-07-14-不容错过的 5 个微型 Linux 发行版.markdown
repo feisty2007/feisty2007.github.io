@@ -15,7 +15,7 @@ tags:	[linuxcn,发行版]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/01/123700uva8cagcqywwj8jv.jpg)
+![](/Asserts/Images/album/201907/01/123700uva8cagcqywwj8jv.jpg)
 
 
 可供日常使用的 Linux 发行版比比皆是，不过其中有一些发行版常常被我们忽视，因为它们实在是太小了。但这些微型 Linux 发行版其实是一种非常强大的创新：使用一套完整的操作系统驱动一台只有不到 1 GB 存储空间和 512 MB 内存的计算机，真的是终极的黑客作风。
@@ -35,7 +35,7 @@ tags:	[linuxcn,发行版]
 ### Tiny Core
 
 
-![Tiny Core Linux](/Asserts/Images//attachment/album/201907/01/123801c9p9u2wdwnncz22j.jpg "Tiny Core Linux")
+![Tiny Core Linux](/Asserts/Images/album/201907/01/123801c9p9u2wdwnncz22j.jpg "Tiny Core Linux")
 
 
 [Tiny Core Linux](http://tinycorelinux.net/) 小得近乎不可思议：终端版本只有 11 MB，图形界面版本只有 16 MB。我翻了一下之前收集的旧 U盘，最小的一个是 128 MB 的，也有 Tiny Core 镜像文件的八倍之大呢。
@@ -59,7 +59,7 @@ Tiny Core 默认包括只包括了基本的操作系统，你需要通过以太�
 你只需要点击屏幕底部启动栏上的 **Apps** 图标下载 **tc-install** 或者 **tc-install-GUI** 应用，就可以轻松安装 Tiny Core了。
 
 
-![Tiny Core installer](/Asserts/Images//attachment/album/201907/01/123802uybribm8ymov4ibm.png "Tiny Core installer")
+![Tiny Core installer](/Asserts/Images/album/201907/01/123802uybribm8ymov4ibm.png "Tiny Core installer")
 
 
 安装 Tiny Core 有几种不同的方式。你可以把它安装在一个格式化为 Linux 驱动器的 U盘里（这要求你的电脑支持使用 USB 驱动启动。大多数现代电脑都支持，但是在老一些的电脑上不太常见），或者安装在微软 FAT 文件系统的 U 盘里（这对于大多数不支持从 USB 驱动启动的电脑来说非常管用），或者甚至安装在一个现有 Linux 分区的一个文件夹里。
@@ -92,7 +92,7 @@ Tiny Core 非常适合性能不佳的老爷机、用来通过网络启动的镜�
 ### SliTaz
 
 
-![SliTaz Linux](/Asserts/Images//attachment/album/201907/01/123803l78ubs8kzkzlkuxx.jpg "SliTaz Linux")
+![SliTaz Linux](/Asserts/Images/album/201907/01/123803l78ubs8kzkzlkuxx.jpg "SliTaz Linux")
 
 
 [SliTaz Linux](http://www.slitaz.org/en/) 的镜像文件有大约 51 MB 大小，差不多是 Tiny Core 的四倍，但是包含一整套出色的驱动程序和应用程序。事实上，如果事先不知道的话，你可能会以为是通过一个 1 GB 的 Ubuntu 镜像启动的，因为能想到的任何一个基本启动镜像应该有的东西都在这儿：文本编辑器、网页浏览器、绘画工具、表格工具等等。
@@ -119,7 +119,7 @@ Tiny Core 非常适合性能不佳的老爷机、用来通过网络启动的镜�
 将 SliTaz 安装在 U 盘或者硬盘上需要通过 **TazPanel** 这个应用程序来实现。它会引导你对硬盘进行需要的分区，然后将 SliTaz 安装在你选择的地方。
 
 
-![SliTaz installer](/Asserts/Images//attachment/album/201907/01/123806b4747nzscej4o4ai.jpg "SliTaz installer")
+![SliTaz installer](/Asserts/Images/album/201907/01/123806b4747nzscej4o4ai.jpg "SliTaz installer")
 
 
 #### 应用程序
@@ -152,7 +152,7 @@ SliTaz 是一个快速而小巧的 Linux 发行版，并且非常容易上手（
 ### Porteus
 
 
-![Porteus Linux](/Asserts/Images//attachment/album/201907/01/123809w1zq4v66e0bwkgbk.jpg "Porteus Linux")
+![Porteus Linux](/Asserts/Images/album/201907/01/123809w1zq4v66e0bwkgbk.jpg "Porteus Linux")
 
 
 [Porteus](http://www.porteus.org/) 提供了不同的桌面环境可供选择，最小的镜像文件大约在 270 MB 左右，最大的有 350 MB。它是微型 Linux 中镜像文件最大的一个，但是这些额外的空间都被用来确保一个非常顺畅的 Linux 桌面环境的体验，以至于你很可能会忘了自己是在使用一个 live 版本。如果将 Porteus 安装到 SSD 或者是在启动的时候加载到内存里的话，你就会得到一个如此天衣无缝地顺畅的环境，以至于不会相信你的操作系统所占用的空间只有不到半个 CD-ROM 的大小。
@@ -167,7 +167,7 @@ Porteus 的基础镜像文件相对来说比较小，因此被称为是“微型
 可以在 [离你最近的 Porteus 镜像网站](http://porteus.org/porteus-mirrors.txt) 上下载 Porteus，并且从 MATE、LXQT、LXDE、OpenBox、XFCE、Cinnamon 或者 KDE 里选择自己喜欢的桌面环境。如果没有特殊偏好，MATE 或者是 KDE 桌面都是不错的选择，他们可以提供熟悉的桌面环境体验，并且镜像文件又不至于太大。
 
 
-![Porteus installer](/Asserts/Images//attachment/album/201907/01/123816o0jyrxbu00ss0nr0.png "Porteus installer")
+![Porteus installer](/Asserts/Images/album/201907/01/123816o0jyrxbu00ss0nr0.png "Porteus installer")
 
 
 你可以根据 [官方的安装指南](http://www.porteus.org/component/content/article/26-tutorials/general-info-tutorials/114-official-porteus-installation-guide.html) 将 Porteus 安装到一个 U盘 或者是内部硬盘里。这两种方式非常相似，都会使用一个不可变的压缩根文件系统。这是一种稳定的、受限制的文件系统，会根据你的使用被修改。你所做的变更和安装的应用程序在重启的时候都会被加载到内存里，从而还原你关机前的使用环境。
@@ -188,7 +188,7 @@ Porteus 可以提供完整的 Linux 使用体验，却只使用了正常 Linux �
 ### Bodhi Linux
 
 
-![Bodhi Linux](/Asserts/Images//attachment/album/201907/01/123818pcsysksmcectgy13.jpg "Bodhi Linux")
+![Bodhi Linux](/Asserts/Images/album/201907/01/123818pcsysksmcectgy13.jpg "Bodhi Linux")
 
 
 [Bodhi Linux](https://www.bodhilinux.com/) 的 ISO 镜像文件有 740 MB 大小，初看之下并不是很“微型”，不过一旦安装完成之后，你就会惊讶于它是多么微型了。Bodhi 在 512 MB 大小的内存上也可以顺畅运行，并且它的桌面环境看起来就像是来自未来一样。Bodhi 使用的是 [Enlightenment](https://www.enlightenment.org/) 桌面，这是一个精心制作的优美的用户界面，小巧而强悍。
@@ -206,7 +206,7 @@ Porteus 可以提供完整的 Linux 使用体验，却只使用了正常 Linux �
 Bodhi 安装器可以在 **设置** 页面的 **应用程序** 菜单里找到。安装程序用的是 **Ubiquity**，所以整个过程和安装 Ubuntu 是一样的。如果你没有安装过 Ubuntu 也不必担心，因为这是最好安装的发行版之一了。
 
 
-![Bodhi installer](/Asserts/Images//attachment/album/201907/01/123821yf6c0xkuf07rfnxq.jpg "Bodhi installer")
+![Bodhi installer](/Asserts/Images/album/201907/01/123821yf6c0xkuf07rfnxq.jpg "Bodhi installer")
 
 
 #### 应用程序
@@ -224,7 +224,7 @@ Bodhi Linux 相比一个标准的 Ubuntu 来说要小不少，但是相比其它
 ### Puppy Linux
 
 
-![Puppy Linux](/Asserts/Images//attachment/album/201907/01/123823qblrl4ogijgv9vlf.jpg "Puppy Linux")
+![Puppy Linux](/Asserts/Images/album/201907/01/123823qblrl4ogijgv9vlf.jpg "Puppy Linux")
 
 
 早在 Tiny Core、SliTaz、[AntiX](https://antixlinux.com/) 或者是 Porteus 诞生之前，就已经有 [Puppy Linux](http://puppylinux.com/) 了。作为最早的微型 Linux 发行版之一，Puppy 已经历经了十五年风霜，并且无论是对于老爷机还是新用户来说始终都是一个可靠的、可启动的操作系统。
@@ -242,7 +242,7 @@ Puppy 几乎有 300 MB 大小，并且在我测试的 1 GB 内存的机器上并
 [下载 Puppy Linux](http://puppylinux.com/index.html#download)，然后通过 `dd` 或 [Etcher](https://www.balena.io/etcher/) 写入 U 盘，或者是刻录到 CD 或者 DVD 里，然后重启。
 
 
-![Puppy installer](/Asserts/Images//attachment/album/201907/01/123825hh111s47l3wovlky.jpg "Puppy installer")
+![Puppy installer](/Asserts/Images/album/201907/01/123825hh111s47l3wovlky.jpg "Puppy installer")
 
 
 Puppy 几乎可以安装在支持任何一种数据格式的载体上。你可以在顶部启动栏里找到 **Puppy Installer** 安装程序，这个程序负责安装 Puppy 以及 Puppy 的应用程序。
@@ -266,7 +266,7 @@ Puppy 是最早的微型 Linux。尽管它已经不是最微型的了，却是�
 ### 附赠：Silverblue
 
 
-![SilverBlue, not tiny, but tiny-adjacent](/Asserts/Images//attachment/album/201907/01/123827iorc0oooggj45rcj.jpg "SilverBlue, not tiny, but tiny-adjacent")
+![SilverBlue, not tiny, but tiny-adjacent](/Asserts/Images/album/201907/01/123827iorc0oooggj45rcj.jpg "SilverBlue, not tiny, but tiny-adjacent")
 
 
 微型 Linux 这个概念是随着时间不断变化的。很久以前，微型 Linux 发行版意味着需要下载到 CD-R 里，从光驱启动，然后将修改写入外部媒介中。后来，你可以从 U 盘启动它，并且有专门用来记录永久修改的空间。现在的微型 Linux 不仅支持上面两种方法，还可以被直接安装在内部驱动或者文件夹里。
@@ -290,7 +290,7 @@ Puppy 是最早的微型 Linux。尽管它已经不是最微型的了，却是�
 启动到 Silverblue 之后，使用 [Anaconda](https://fedoraproject.org/wiki/Anaconda)（标准的、友好的 Fedora 安装器）将它安装在一个内部硬盘里。
 
 
-![Anaconda installer](/Asserts/Images//attachment/album/201907/01/123829ieo7yyoboy7ouuf5.jpg "Anaconda installer")
+![Anaconda installer](/Asserts/Images/album/201907/01/123829ieo7yyoboy7ouuf5.jpg "Anaconda installer")
 
 
 #### 应用程序

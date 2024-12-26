@@ -10,7 +10,7 @@ tags:	[linuxcn,Thunderbird]
 <ruby> 雷鸟 <rp>  （ </rp> <rt>  Thunderbird </rt> <rp>  ） </rp></ruby>是一个开源自由的跨平台的基于 web 的电子邮件、新闻和聊天客户端应用程序，其旨在用于管理多个电子邮件帐户和新闻源。
 
 
-![Install Thunderbird in Linux](/Asserts/Images//attachment/album/201702/03/000949fx5o9vi9ix4tiqo5.png)
+![Install Thunderbird in Linux](/Asserts/Images/album/201702/03/000949fx5o9vi9ix4tiqo5.png)
 
 
 在 2016 年 12 月 28 日，Mozilla 团队宣布 Thunderbird 45.6.0 的发布。这个新版本带有如下功能：

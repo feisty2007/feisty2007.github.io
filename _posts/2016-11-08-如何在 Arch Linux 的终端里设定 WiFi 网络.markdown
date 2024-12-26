@@ -7,7 +7,7 @@ tags:	[linuxcn,WiFi]
 ---
 
 
-![How To Setup A WiFi In Arch Linux Using Terminal](/Asserts/Images//attachment/album/201611/09/070520vow2jp725rr7zvvq.jpg)
+![How To Setup A WiFi In Arch Linux Using Terminal](/Asserts/Images/album/201611/09/070520vow2jp725rr7zvvq.jpg)
 
 
 如果你使用的是其他 Linux 发行版 而不是 Arch CLI，那么可能会不习惯在终端里设置 WiFi。尽管整个过程有点简单，不过我还是要讲一下。在这篇文章里，我将带领新手们通过一步步的设置向导，把你们的 Arch Linux 接入到你的 WiFi 网络里。
@@ -79,7 +79,7 @@ lspci -k
 这条命令是用来检查内核是否加载了你的无线网卡驱动。输出必须是像这样的：
 
 
-![](/Asserts/Images//attachment/album/201611/09/070520rhzzzv7ozn52yhgx.png)
+![](/Asserts/Images/album/201611/09/070520rhzzzv7ozn52yhgx.png)
 
 
 如果内核没有加载驱动，你就必须使用有线连接来安装一下。这里是 Linux 无线网络的官方维基页面：<https://wireless.wiki.kernel.org/>。
@@ -101,11 +101,11 @@ lspci -k
 2. 选择你的网络
 
 
-![wifi-menu to setup wifi in arch](/Asserts/Images//attachment/album/201611/09/070521jzlfn8u38nbh9bnn.png)
+![wifi-menu to setup wifi in arch](/Asserts/Images/album/201611/09/070521jzlfn8u38nbh9bnn.png)
 3. 输入正确的密码并等待
 
 
-![wifi-menu setup wifi password in arch](/Asserts/Images//attachment/album/201611/09/070521nt1l3k4zf7l34uj3.png)
+![wifi-menu setup wifi password in arch](/Asserts/Images/album/201611/09/070521nt1l3k4zf7l34uj3.png)
 
 
 如果没有连接失败的信息，你可以用下面的命令确认下：
@@ -129,7 +129,7 @@ ping -c 3 www.google.com
 1. 首先第一件事，你必须要知道网络接口的名字，通常会是 `wlan0` 或 `wlp2s0`，但是也有很多例外。要确认你自己的网络接口，输入 `iwconfig` 命令并记下来。
 
 
-[![scan wifi networks in arch linux cli](/Asserts/Images//attachment/album/201611/09/070521cyz0gm1mie4m3zml.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/scan-wifi-networks-in-arch-linux-cli_orig.png)
+[![scan wifi networks in arch linux cli](/Asserts/Images/album/201611/09/070521cyz0gm1mie4m3zml.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/scan-wifi-networks-in-arch-linux-cli_orig.png)
 2. 运行命令:
 
 
@@ -151,7 +151,7 @@ cp /etc/netctl/examples/wireless-wpa /etc/netctl/your_profile
 4. 你可以用这个命令来查看配置文件内容: `cat /etc/netctl/your_profile`
 
 
-![view network profile in arch linux](/Asserts/Images//attachment/album/201611/09/070521ddjflkxgsgjrkgd4.png)
+![view network profile in arch linux](/Asserts/Images/album/201611/09/070521ddjflkxgsgjrkgd4.png)
 5. 用 `vi` 或者 `nano` 编辑你的配置文件的下面几个部分：
 
 
@@ -176,7 +176,7 @@ nano /etc/netctl/your_profile
 如果你不知道怎么用 `nano`，打开文件后，编辑要修改的地方，完了按 `ctrl+o`，然后回车，然后按 `ctrl+x`。
 
 
-![edit network profile in arch](/Asserts/Images//attachment/album/201611/09/070522t70dz75ptdp3x22l.png)
+![edit network profile in arch](/Asserts/Images/album/201611/09/070522t70dz75ptdp3x22l.png)
 
 
 ### 运行 netctl
@@ -203,7 +203,7 @@ ping -c 3 www.google.com
 
 ```
 
-输出看上去像这样： ![check internet connection in arch linux](/Asserts/Images//attachment/album/201611/09/070522nytojdxwaxxxauyt.png)
+输出看上去像这样： ![check internet connection in arch linux](/Asserts/Images/album/201611/09/070522nytojdxwaxxxauyt.png)
 4. 最后，你必须运行下面的命令：`netctl enable your_profile`。 
 
 

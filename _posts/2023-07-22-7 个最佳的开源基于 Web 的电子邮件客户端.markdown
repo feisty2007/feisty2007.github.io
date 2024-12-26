@@ -7,7 +7,7 @@ tags:	[linuxcn,电子邮件,Webmail]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/17/134939av491mgn4ddzh4c1.jpg)
+![](/Asserts/Images/album/202307/17/134939av491mgn4ddzh4c1.jpg)
 
 
 电子邮件服务将会一直存在，即便去中心化技术会接管互联网。
@@ -22,7 +22,7 @@ tags:	[linuxcn,电子邮件,Webmail]
 ### 为什么应该自托管电子邮件服务？
 
 
-![best opensource web based email clients 1](/Asserts/Images//attachment/album/202307/17/135027i5665rrstrr5s58t.png)
+![best opensource web based email clients 1](/Asserts/Images/album/202307/17/135027i5665rrstrr5s58t.png)
 
 
 自托管一个可用作基于 Web 的电子邮件客户端或与电子邮件应用程序同步的服务，这不是点击一下就完成的过程。
@@ -50,7 +50,7 @@ tags:	[linuxcn,电子邮件,Webmail]
 ### 1、Roundcube
 
 
-![Roundcube 截图](/Asserts/Images//attachment/album/202307/17/135027k090mmgdxrppdqg9.png)
+![Roundcube 截图](/Asserts/Images/album/202307/17/135027k090mmgdxrppdqg9.png)
 
 
 主要亮点：
@@ -83,7 +83,7 @@ Roundcube 是一款流行的基于 PHP 的 Webmail 软件，提供简单的用�
 ### 2、Cypht
 
 
-![Cypht 收件箱界面](/Asserts/Images//attachment/album/202307/17/135028klzvvvdevzcpocyt.png)
+![Cypht 收件箱界面](/Asserts/Images/album/202307/17/135028klzvvvdevzcpocyt.png)
 
 
 主要亮点：
@@ -113,7 +113,7 @@ Cypht 是一种不错的 Webmail 解决方案，提供多个电子邮件帐户�
 ### 3、Squirrelmail
 
 
-![Squirrelmail](/Asserts/Images//attachment/album/202307/17/135028i2pd22qq2dym2yzk.jpg)
+![Squirrelmail](/Asserts/Images/album/202307/17/135028i2pd22qq2dym2yzk.jpg)
 
 
 主要亮点：
@@ -144,7 +144,7 @@ Squirrelmail 是一款经典的基于 PHP 的、支持 IMAP 和 SMTP 协议的 W
 ### 4、Rainloop
 
 
-![Rainloop](/Asserts/Images//attachment/album/202307/17/135029z5ow9t6671t7kc7a.png)
+![Rainloop](/Asserts/Images/album/202307/17/135029z5ow9t6671t7kc7a.png)
 
 
 主要亮点：
@@ -175,7 +175,7 @@ Rainloop 是一款简单的电子邮件解决方案，支持 IMAP 和 SMTP 协�
 ### 5、Horde
 
 
-![Horde 截图](/Asserts/Images//attachment/album/202307/17/135029aq733q7ok3a9kerr.png)
+![Horde 截图](/Asserts/Images/album/202307/17/135029aq733q7ok3a9kerr.png)
 
 
 主要亮点：
@@ -205,7 +205,7 @@ Horde 是一款开源的群件 Webmail 软件，预装于各种 Web 服务器托
 ### 6、SOGo
 
 
-![SOGo](/Asserts/Images//attachment/album/202307/17/135030es331n4jjyjnm9sn.png)
+![SOGo](/Asserts/Images/album/202307/17/135030es331n4jjyjnm9sn.png)
 
 
 主要亮点：
@@ -239,7 +239,7 @@ SOGo 是一款现代化的开源解决方案，采用了谷歌的 Material Desig
 ### 7、Afterlogic WebMail Lite
 
 
-![Afterlogic Webmail](/Asserts/Images//attachment/album/202307/17/135031wvf4vv3m4cm7mszg.jpg)
+![Afterlogic Webmail](/Asserts/Images/album/202307/17/135031wvf4vv3m4cm7mszg.jpg)
 
 
 主要亮点：
@@ -288,7 +288,7 @@ Afterlogic WebMail Lite 是一个有趣的开源 Webmail，支持插件。
 虽然它应该在上面的列表中占据一席之地，但是在用 Python 3 重写完成之前，[Mailpile](https://www.mailpile.is) 的开发已经停止。
 
 
-![Mailpile](/Asserts/Images//attachment/album/202307/17/135031e9l9l3e9nslffdd9.png)
+![Mailpile](/Asserts/Images/album/202307/17/135031e9l9l3e9nslffdd9.png)
 
 
 Mailpile 是一款快速且现代化的开源 Webmail，具备加密和隐私功能。
@@ -297,7 +297,7 @@ Mailpile 是一款快速且现代化的开源 Webmail，具备加密和隐私功
 #### Cuttlefish
 
 
-![Cuttlefish](/Asserts/Images//attachment/album/202307/17/135032f56wdevs2hy5uu5e.png)
+![Cuttlefish](/Asserts/Images/album/202307/17/135032f56wdevs2hy5uu5e.png)
 
 
 [Cuttlefish](https://cuttlefish.io) 是一个自由开源的交易性电子邮件服务。它旨在成为 [SendGrid](https://sendgrid.com) 等专有服务的替代品。

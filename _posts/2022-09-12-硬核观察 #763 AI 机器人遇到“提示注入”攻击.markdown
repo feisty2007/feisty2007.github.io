@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,RISC-V,Craigslist]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/18/195603ojx5dxv1dzvig4zj.jpg)
+![](/Asserts/Images/album/202209/18/195603ojx5dxv1dzvig4zj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/18/195615sd0n07ki00kmczzl.jpg)
+![](/Asserts/Images/album/202209/18/195615sd0n07ki00kmczzl.jpg)
 
 
 ### AI 机器人遇到“提示注入”攻击
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,RISC-V,Craigslist]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/18/195628l41i2r44fx2cemni.jpg)
+![](/Asserts/Images/album/202209/18/195628l41i2r44fx2cemni.jpg)
 
 
 ### Ubuntu 支持更多来自中国的 RISC-V 板卡
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,RISC-V,Craigslist]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/18/195643sj22rnffz3nrr5s5.png)
+![](/Asserts/Images/album/202209/18/195643sj22rnffz3nrr5s5.png)
 
 
 ### Craigslist 的界面和 25 年前一样

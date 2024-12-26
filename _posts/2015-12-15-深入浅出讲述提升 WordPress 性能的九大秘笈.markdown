@@ -30,7 +30,7 @@ WordPress 的吸引力源于其简单性，无论是对于最终用户还是安�
 * 配置 NGINX 支持 WordPress 多站点
 
 
-![深入浅出讲述提升 WordPress 性能的九大秘笈](/Asserts/Images//attachment/album/201512/21/185659seueice60zn5n5c6.jpg)
+![深入浅出讲述提升 WordPress 性能的九大秘笈](/Asserts/Images/album/201512/21/185659seueice60zn5n5c6.jpg)
 
 
  

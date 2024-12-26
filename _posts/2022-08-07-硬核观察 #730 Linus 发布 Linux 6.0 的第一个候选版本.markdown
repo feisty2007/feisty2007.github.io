@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,消防,安卓]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/16/185104ytmppkmuku6mprml.jpg)
+![](/Asserts/Images/album/202208/16/185104ytmppkmuku6mprml.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/16/185114zjgtg5ne422csg2f.jpg)
+![](/Asserts/Images/album/202208/16/185114zjgtg5ne422csg2f.jpg)
 
 
 ### Linus 发布 Linux 6.0 的第一个候选版本
@@ -35,7 +35,7 @@ Linus Torvalds 说主版本的变化并不意味着这个版本有什么根本�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/16/185124k2rzybt2spp57s1t.jpg)
+![](/Asserts/Images/album/202208/16/185124k2rzybt2spp57s1t.jpg)
 
 
 ### AI 可以使未来的消防员免于致命的燃爆
@@ -60,7 +60,7 @@ Linus Torvalds 说主版本的变化并不意味着这个版本有什么根本�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/16/185138np7a99cvd9d7actc.jpg)
+![](/Asserts/Images/album/202208/16/185138np7a99cvd9d7actc.jpg)
 
 
 ### 谷歌发布 Android 13，源代码已发布到 AOSP

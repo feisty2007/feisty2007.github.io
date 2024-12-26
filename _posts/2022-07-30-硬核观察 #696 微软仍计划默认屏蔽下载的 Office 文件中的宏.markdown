@@ -7,10 +7,10 @@ tags:	[linuxcn,Office,2FA,计算机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/13/140018xtetuegxtd8kry51.jpg)
+![](/Asserts/Images/album/202207/13/140018xtetuegxtd8kry51.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/13/140026awzin9infhiqpspr.jpg)
+![](/Asserts/Images/album/202207/13/140026awzin9infhiqpspr.jpg)
 
 
 ### 微软仍计划默认屏蔽下载的 Office 文件中的宏
@@ -35,7 +35,7 @@ tags:	[linuxcn,Office,2FA,计算机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/13/140055gipj7k9ibjzooodk.jpg)
+![](/Asserts/Images/album/202207/13/140055gipj7k9ibjzooodk.jpg)
 
 
 ### PyPI 将向关键项目赠送 4000 个安全密钥
@@ -60,7 +60,7 @@ PyPI 由 Python 软件基金会（PSF）管理，是 Python 开发人员获得�
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/13/140038why4ytkstwdrryss.jpg)
+![](/Asserts/Images/album/202207/13/140038why4ytkstwdrryss.jpg)
 
 
 ### 美国企业领导人敦促加强计算机科学教育

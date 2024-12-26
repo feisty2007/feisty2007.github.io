@@ -13,7 +13,7 @@ tags:	[linuxcn,sshpass,ssh]
 如果你想自动在 SSH 登录提示符中提供**密码**和**用户名**怎么办？这时 **sshpass** 就可以帮到你了。
 
 
-![](/Asserts/Images//attachment/album/201701/03/160301cyn181nn2mf2ur1w.png)
+![](/Asserts/Images/album/201701/03/160301cyn181nn2mf2ur1w.png)
 
 
 sshpass 是一个简单、轻量级的命令行工具，通过它我们能够向命令提示符本身提供密码（非交互式密码验证），这样就可以通过 [cron 调度器](/article-7513-1.html)执行自动化的 shell 脚本进行备份。
@@ -104,7 +104,7 @@ $ sshpass -p 'my_pass_here' ssh aaronkilik@10.42.0.1 'df -h'
 **重要提示**：此处，在命令行中提供了密码，这是不安全的，不建议使用此选项。
 
 
-![sshpass - Linux Remote Login via SSH](/Asserts/Images//attachment/album/201701/03/160315v5apy2anynznaj09.png)
+![sshpass - Linux Remote Login via SSH](/Asserts/Images/album/201701/03/160315v5apy2anynznaj09.png)
 
 
 *sshpass – 使用 SSH 远程登录 Linux*
@@ -121,7 +121,7 @@ $ sshpass -e ssh aaronkilik@10.42.0.1 'df -h'
 
 ```
 
-![sshpass - Hide Password in Prompt](/Asserts/Images//attachment/album/201701/03/160322gt60xp2pouvg27wp.png)
+![sshpass - Hide Password in Prompt](/Asserts/Images/album/201701/03/160322gt60xp2pouvg27wp.png)
 
 
 *sshpass – 在终端中隐藏密码*
@@ -157,7 +157,7 @@ $ sshpass -f password_filename ssh aaronkilik@10.42.0.1 'df -h'
 
 ```
 
-![sshpass - Supply Password File to Login](/Asserts/Images//attachment/album/201701/03/160323e1twv1r1jpjxoo1r.png)
+![sshpass - Supply Password File to Login](/Asserts/Images/album/201701/03/160323e1twv1r1jpjxoo1r.png)
 
 
 *sshpass – 在登录时提供密码文件*
@@ -171,7 +171,7 @@ $ sshpass -f password_filename ssh aaronkilik@10.42.0.1 'df -h'
 ------- Transfer Files Using SCP ------- 
 $ scp -r /var/www/html/example.com --rsh="sshpass -p 'my_pass_here' ssh -l aaronkilik" 10.42.0.1:/var/www/html
 ------- Backup or Sync Files Using Rsync -------
-$ rsync --rsh="sshpass -p 'my_pass_here' ssh -l aaronkilik" 10.42.0.1:/Asserts/Images//backup/ /backup/
+$ rsync --rsh="sshpass -p 'my_pass_here' ssh -l aaronkilik" 10.42.0.1:/data/backup/ /backup/
 
 ```
 

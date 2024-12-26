@@ -7,10 +7,10 @@ tags:	[linuxcn,安卓,传真机,OpenSSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/03/051744r5wsj9zn2sep522w.jpg)
+![](/Asserts/Images/album/202211/03/051744r5wsj9zn2sep522w.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/03/051756lps9cmeyqjpecicm.jpg)
+![](/Asserts/Images/album/202211/03/051756lps9cmeyqjpecicm.jpg)
 
 
 ### 安卓占所有操作系统份额的 40% 以上
@@ -35,7 +35,7 @@ Statcounter 是一个网站分析服务，在 150 万个网站上安装了跟踪
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/03/051814daias8r8z2l98al8.jpg)
+![](/Asserts/Images/album/202211/03/051814daias8r8z2l98al8.jpg)
 
 
 ### 英国准备立法废除传真机
@@ -60,7 +60,7 @@ Statcounter 是一个网站分析服务，在 150 万个网站上安装了跟踪
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/03/051828lh4hmvqnm4imq4vv.jpg)
+![](/Asserts/Images/album/202211/03/051828lh4hmvqnm4imq4vv.jpg)
 
 
 ### OpenSSL 3 漏洞补丁释出，危险程度比预想要轻

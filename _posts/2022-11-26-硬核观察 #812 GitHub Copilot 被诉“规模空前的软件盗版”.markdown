@@ -7,10 +7,10 @@ tags:	[linuxcn,Copilot,Rust,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/06/095200pgql0ws4gl033lat.jpg)
+![](/Asserts/Images/album/202211/06/095200pgql0ws4gl033lat.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/06/095205w9zss5ya5w95oos9.jpg)
+![](/Asserts/Images/album/202211/06/095205w9zss5ya5w95oos9.jpg)
 
 
 ### GitHub Copilot 被诉“规模空前的软件盗版”
@@ -35,7 +35,7 @@ tags:	[linuxcn,Copilot,Rust,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/06/095213bsuu1411u0j4zxsu.jpg)
+![](/Asserts/Images/album/202211/06/095213bsuu1411u0j4zxsu.jpg)
 
 
 ### 经过六年等待，Rust 终于支持通用关联类型了
@@ -60,7 +60,7 @@ tags:	[linuxcn,Copilot,Rust,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/06/095226gpgvopmm6yy486o6.jpg)
+![](/Asserts/Images/album/202211/06/095226gpgvopmm6yy486o6.jpg)
 
 
 ### 谷歌计划建立支持世界上 1000 种最常用的语言的 AI 模型

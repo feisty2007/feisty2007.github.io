@@ -7,7 +7,7 @@ tags:	[linuxcn,Orange Pi,树莓派]
 ---
 
 
-![如何获取并运行 Orange Pi](/Asserts/Images//attachment/album/201703/15/214158kqygd7xy7xicuqi9.jpg "How to get up and running with sweet Orange Pi")
+![如何获取并运行 Orange Pi](/Asserts/Images/album/201703/15/214158kqygd7xy7xicuqi9.jpg "How to get up and running with sweet Orange Pi")
 
 
 随着开源驱动的硬件越来越成为主流，比如 [Arduino](https://en.wikipedia.org/wiki/Arduino) 和 [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)，这些开源硬件的成本不断下降，给那些全新且具有创新性的[物联网](https://en.wikipedia.org/wiki/Internet_of_things)和[STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics)（LCTT译注：STEM 代表<ruby> 科学 <rp>  （ </rp> <rt>  Science </rt> <rp>  ） </rp></ruby>，<ruby> 技术 <rp>  （ </rp> <rt>  Technology </rt> <rp>  ） </rp></ruby>，<ruby> 工程 <rp>  （ </rp> <rt>  Engineering </rt> <rp>  ） </rp></ruby>，<ruby> 数学 <rp>  （ </rp> <rt>  Mathematics </rt> <rp>  ） </rp></ruby>）类软件打开了大门。我对两者都比较感兴趣，始终保持关注，以便能找到一些可以应用到教育产业的创新点，比如课堂教育和我女儿的[机器人小组](https://opensource.com/education/14/3/fighting-unicorns-robotics-team)。当听说 [Orange Pi 比 Raspberry Pi 更优秀](http://sprtechuk.blogspot.com/2015/09/15-computer-orange-pi-pc-is-powerful.html)时，我便开始关注 Orange Pi了。
@@ -43,7 +43,7 @@ Orange Pi 是由 Linux 驱动的单板计算机家族的一员，由[深圳迅�
 订购两周后，Orange Pi 终于邮寄到家了。我拆开后在几分钟内就把设备运行起来了。其实这大部分时间都是在下载操作系统。Orange Pi 能够运行多种操作系统，从Android 到 Debian 系列都可以。我使用了 Orange Pi 粉丝推崇的 [Armbian](https://www.armbian.com/)。由于 Armbian 支持多种基于 ARM 的单板计算机，你需要选择[适合 Orange Pi Zero 的 Armbian 版本](https://www.armbian.com/orange-pi-zero/)。按照 Armbian 用户指南[开始部分](https://docs.armbian.com/User-Guide_Getting-Started/)操作即可以很容易做一个 microSD 镜像，然后插入 microSD 卡并接上网线，将我在 Raspberry Pi 中用的 3A Micro-USB 电源适配器插上供电，最后 SSH 登录上去即可使用了。
 
 
-![Orange Pi interface](/Asserts/Images//attachment/album/201703/15/214159a3beaobzreupriep.png "Orange Pi interface")
+![Orange Pi interface](/Asserts/Images/album/201703/15/214159a3beaobzreupriep.png "Orange Pi interface")
 
 
 *SSH 登录进 Orange Pi Zero*
@@ -52,7 +52,7 @@ Orange Pi 是由 Linux 驱动的单板计算机家族的一员，由[深圳迅�
 通过以太网 SSH 连上后，我可以使用 [nmtui-connect](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Networking_Guide/sec-Networking_Config_Using_nmtui.html) 轻松连上我的无线接入点。然后执行 `apt-get update && apt-get upgrade` 命令，这个命令执行速度比 Raspberry Pi Zero 快，基本接近 [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) 的表现了，其他人也[观察到类似的结果](https://openbenchmarking.org/result/1612154-TA-1603058GA04,1612151-MICK-MICKMAK70,1612095-TA-1603058GA97,1612095-TA-1603058GA50)。虽然 Orange Pi Zero 执行速度可能比不过Raspberry Pi 3，但是我也没有打算用它来计算基因排序或者挖比特币矿。Armbian 会自动调整 root 分区来使用整个 microSD 卡空间，而使用 Raspbian 的时候这是手动且很容易忘记的步骤。最后，和价值 $35 的 Raspberry Pi 3 相比，购买 $12 的 Orange Pi Zero 可以使得三倍多的学生有自己的学习工具，也可以将 Orange Pi Zero 作为礼物分享给三倍数量的朋友。
 
 
-![Orange Pi Form Factor](/Asserts/Images//attachment/album/201703/15/214204ucww7gu46c7pw959.jpg "Orange Pi Form Factor")
+![Orange Pi Form Factor](/Asserts/Images/album/201703/15/214204ucww7gu46c7pw959.jpg "Orange Pi Form Factor")
 
 
 *Orange Pi Zero与 Raspberry Pi 3 尺寸外形的比较*

@@ -29,9 +29,9 @@ excerpt: Fedora 37（和 36）可能不再允许你使用一些流行的编解�
 fromurl: https://news.itsfoss.com/fedora-drops-vaapi-codec/
 id: 15113
 islctt: true
-largepic: /Asserts/Images//attachment/album/202210/07/091549e2zymcpycczhmcpp.png
+largepic: /Asserts/Images/album/202210/07/091549e2zymcpycczhmcpp.png
 permalink: /article-15113-1.html
-pic: /Asserts/Images//attachment/album/202210/07/091549e2zymcpycczhmcpp.png.thumb.jpg
+pic: /Asserts/Images/album/202210/07/091549e2zymcpycczhmcpp.png.thumb.jpg
 related: []
 reviewer: wxy
 selector: lkxed
@@ -54,7 +54,7 @@ updated: '2022-10-07 09:15:49'
 > 
 
 
-![哦，不！?Fedora正在放弃对流行视频编解码器的支持[这里有原因！]](/Asserts/Images//attachment/album/202210/07/091549e2zymcpycczhmcpp.png)
+![哦，不！?Fedora正在放弃对流行视频编解码器的支持[这里有原因！]](/Asserts/Images/album/202210/07/091549e2zymcpycczhmcpp.png)
 
 
 Fedora 是一个流行的 Linux 发行版，迎合了那些希望在他们的工作站（和服务器）上使用最先进技术的用户。
@@ -163,7 +163,7 @@ Flatpak 应用程序可能允许你观看图形加速的视频内容而没有问
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/07/091550f6mz3369dqz6u8od.jpg)
+![](/Asserts/Images/album/202210/07/091550f6mz3369dqz6u8od.jpg)
 
 
 *? 你对 Fedora 的这一变化有什么看法？请在下面的评论中告诉我们你的想法。*

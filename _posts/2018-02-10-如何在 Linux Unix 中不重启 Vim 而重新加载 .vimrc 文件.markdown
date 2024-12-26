@@ -7,7 +7,7 @@ tags:	[linuxcn,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/27/231519ti0ryai29050ra5a.jpg)
+![](/Asserts/Images/album/201802/27/231519ti0ryai29050ra5a.jpg)
 
 
 我是一位新的 Vim 编辑器用户。我通常使用 `:vs ~/.vimrc` 来加载 `~/.vimrc` 配置。而当编辑 `.vimrc` 时，我需要不重启 Vim 会话而重新加载它。在 Linux 或者类 Unix 系统中，如何在编辑 `.vimrc` 后，重新加载它而不用重启 Vim 呢？
@@ -38,7 +38,7 @@ syntax on
 5. 输入下面任一命令重载 `~/.vimrc`：`:so $MYVIMRC` 或者 `:source ~/.vimrc`。
 
 
-[![How to reload .vimrc file without restarting vim](/Asserts/Images//attachment/album/201802/27/231530ejwuuutx32beyggb.jpg)](https://www.cyberciti.biz/media/new/faq/2018/02/How-to-reload-.vimrc-file-without-restarting-vim.jpg)
+[![How to reload .vimrc file without restarting vim](/Asserts/Images/album/201802/27/231530ejwuuutx32beyggb.jpg)](https://www.cyberciti.biz/media/new/faq/2018/02/How-to-reload-.vimrc-file-without-restarting-vim.jpg)
 
 
 *图1：编辑 ~/.vimrc 并在需要时重载它而不用退出 vim，这样你就可以继续编辑程序了*

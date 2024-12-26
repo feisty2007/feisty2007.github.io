@@ -7,7 +7,7 @@ tags:	[linuxcn,密码,登录]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/15/000057ms1oszswwhooiiis.jpg)
+![](/Asserts/Images/album/201806/15/000057ms1oszswwhooiiis.jpg)
 
 
 无密码验证可以让你只输入一个 email 而无需输入密码即可登入系统。这是一种比传统的电子邮件/密码验证方式登入更安全的方法。

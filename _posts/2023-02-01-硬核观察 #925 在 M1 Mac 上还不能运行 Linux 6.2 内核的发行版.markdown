@@ -7,10 +7,10 @@ tags:	[linuxcn,M1,ChatGPT,.NET]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/27/172047hrritjuujs5qeebq.jpg)
+![](/Asserts/Images/album/202302/27/172047hrritjuujs5qeebq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/27/172054xwfuuww38wiier8b.jpg)
+![](/Asserts/Images/album/202302/27/172054xwfuuww38wiier8b.jpg)
 
 
 ### 在 M1 Mac 上还不能运行 Linux 6.2 内核的发行版
@@ -35,7 +35,7 @@ tags:	[linuxcn,M1,ChatGPT,.NET]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/27/172105tg2msz46otozqzqz.jpg)
+![](/Asserts/Images/album/202302/27/172105tg2msz46otozqzqz.jpg)
 
 
 ### 企业已经开始用 ChatGPT 取代员工
@@ -60,7 +60,7 @@ tags:	[linuxcn,M1,ChatGPT,.NET]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/27/172118ajiuw6kjtk5bcw2w.jpg)
+![](/Asserts/Images/album/202302/27/172118ajiuw6kjtk5bcw2w.jpg)
 
 
 ### .NET 8 将加强对 Linux 的支持

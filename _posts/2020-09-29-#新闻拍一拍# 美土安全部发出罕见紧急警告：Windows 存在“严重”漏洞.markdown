@@ -7,7 +7,7 @@ tags:	[linuxcn,Windows,安全,微软,NVIDIA]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/20/110733x5g5bvunpdpzxp5s.jpg)
+![](/Asserts/Images/album/202009/20/110733x5g5bvunpdpzxp5s.jpg)
 
 
 #### 美土安全部发出罕见紧急警告：Windows 存在“严重”漏洞

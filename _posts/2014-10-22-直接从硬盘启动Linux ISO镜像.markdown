@@ -7,7 +7,7 @@ tags:	[linuxcn,ISO,光盘,启动,GRUB2]
 ---
 
 
-![](/Asserts/Images//attachment/album/201410/25/225846ph8s8jghh6prwsnw.png)
+![](/Asserts/Images/album/201410/25/225846ph8s8jghh6prwsnw.png)
 
 
 Linux的GRUB2启动加载器可以直接从硬盘启动Linux ISO文件，可以启动Live CD的 ISO，而不用烧录到光盘来安装Linux到一个硬盘分区，或从USB驱动启动。
@@ -34,7 +34,7 @@ Linux的GRUB2启动加载器可以直接从硬盘启动Linux ISO文件，可以�
 找到内核文件和initrd映像。如果你正在使用Ubuntu ISO文件，你会在casper文件夹中找到这些文件——vmlinuz文件是Linux内核，而initrd文件是initrd映像。后面，你需要知道它们在ISO文件中所处的位置。
 
 
-![](/Asserts/Images//attachment/album/201410/25/225848myz96eelo8j8lr98.png)
+![](/Asserts/Images/album/201410/25/225848myz96eelo8j8lr98.png)
 
 
 ### 检查硬盘分区路径
@@ -55,7 +55,7 @@ sudo fdisk -l
 你将看到一个Linux设备路径列表，你可以自行将它们转成GRUB设备名。例如，在下面的图片中，我们可以看到有个系统分区是/dev/sda1——那么，对于GRUB而言，它就是(hd0,1)。
 
 
-![](/Asserts/Images//attachment/album/201410/25/225849kus93uvb9vx35g38.png)
+![](/Asserts/Images/album/201410/25/225849kus93uvb9vx35g38.png)
 
 
 ### 创建GRUB2启动条目
@@ -79,7 +79,7 @@ sudo gedit /etc/grub.d/40_custom
 除非你已经添加了其它自定义启动条目，否则你应当看到的是一个几乎空的文件。你需要在[注释](http://www.howtogeek.com/118389/how-to-comment-out-and-uncomment-lines-in-a-configuration-file/)行下添加一个或多个ISO启动部分。
 
 
-![](/Asserts/Images//attachment/album/201410/25/225851suzyu3uiiywwvvi3.png)
+![](/Asserts/Images/album/201410/25/225851suzyu3uiiywwvvi3.png)
 
 
 这里为你展示了怎样来从ISO文件启动Ubuntu或基于Ubuntu的发行版，我们在Ubuntu 14.04下作了测试：
@@ -105,7 +105,7 @@ initrd (loop)/casper/initrd.lz
 **重要说明**：不同的Linux版本要求带有不同启动选项的不同的启动条目，GRUB Live ISO多启动项目提供了[用于不同Linux发行版的菜单条目](http://git.marmotte.net/git/glim/tree/grub2)的各种不同类型。你应当为你想要启动的ISO文件调整这些示例菜单条目。你也可以仅仅从网页搜索你想要启动的Linux发行版的名称和发行编号，并附带关键词“在GRUB中从ISO启动”，以获取更多信息。
 
 
-![](/Asserts/Images//attachment/album/201410/25/225853kpsj6fzki3lyhl66.png)
+![](/Asserts/Images/album/201410/25/225853kpsj6fzki3lyhl66.png)
 
 
 如果你想要添加更多ISO启动选项，请为该文件添加额外部分。
@@ -120,7 +120,7 @@ sudo update-grub
 
 ```
 
-![](/Asserts/Images//attachment/album/201410/25/225855kibofwi8orlclhfi.png)
+![](/Asserts/Images/album/201410/25/225855kibofwi8orlclhfi.png)
 
 
 再次启动计算机时，你将看到ISO启动条目，你可以选择它来启动ISO文件。在启动时，你可能需要按Shift键来显示GRUB菜单。

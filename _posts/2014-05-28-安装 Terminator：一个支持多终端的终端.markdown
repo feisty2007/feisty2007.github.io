@@ -10,7 +10,7 @@ tags:	[linuxcn,Terminator,终端]
 Terminator 是一个程序，它可让用户自由地排布多个 GNOME 终端，而不用通过窗口管理器来实现，比较适合需要同时打开多个终端的用户。
 
 
-![](/Asserts/Images//attachment/album/201405/06/233606dqarcivxnnvrqtax.png)
+![](/Asserts/Images/album/201405/06/233606dqarcivxnnvrqtax.png)
 
 
 ### 特性
@@ -33,7 +33,7 @@ Debian/Ubuntu/Linux Mint/ Elementary 系统:
 
 ```
 
-![](/Asserts/Images//attachment/album/201405/06/233609thr7k7erh6xxjnjs.png)
+![](/Asserts/Images/album/201405/06/233609thr7k7erh6xxjnjs.png)
 
 
 \*图 1. Linux Mint 16 上安装 Terminator \*
@@ -48,7 +48,7 @@ Fedora/CentOS 系统:
 
 ```
 
-![](/Asserts/Images//attachment/album/201405/06/233613k5i2zimo4eqri77r.png)
+![](/Asserts/Images/album/201405/06/233613k5i2zimo4eqri77r.png)
 
 
 *图 2. Fedora 20 上安装 Terminator*

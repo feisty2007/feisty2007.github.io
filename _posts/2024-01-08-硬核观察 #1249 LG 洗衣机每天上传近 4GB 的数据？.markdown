@@ -7,10 +7,10 @@ tags:	[linuxcn,openSUSE,挖矿,芯片]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/17/151033xsbfxd4bkfsrfyyx.jpg)
+![](/Asserts/Images/album/202401/17/151033xsbfxd4bkfsrfyyx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/17/151105vo5l5l3owar7o7wo.png)
+![](/Asserts/Images/album/202401/17/151105vo5l5l3owar7o7wo.png)
 
 
 ### #1 LG 洗衣机每天上传近 4GB 的数据？
@@ -38,7 +38,7 @@ tags:	[linuxcn,openSUSE,挖矿,芯片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/17/151127hjumazppcjesje4h.png)
+![](/Asserts/Images/album/202401/17/151127hjumazppcjesje4h.png)
 
 
 ### #2 中国的芯片进口大幅下降，创下历史最大降幅
@@ -66,7 +66,7 @@ tags:	[linuxcn,openSUSE,挖矿,芯片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/17/151201ggzmxi3mwqx33wgi.png)
+![](/Asserts/Images/album/202401/17/151201ggzmxi3mwqx33wgi.png)
 
 
 ### #3 openSUSE Leap 16 将基于 ALP

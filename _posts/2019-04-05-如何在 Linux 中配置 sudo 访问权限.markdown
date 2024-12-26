@@ -7,7 +7,7 @@ tags:	[linuxcn,sudo]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/18/224237bhgeghjzryjrthce.jpg)
+![](/Asserts/Images/album/201904/18/224237bhgeghjzryjrthce.jpg)
 
 
 Linux 系统中 root 用户拥有 Linux 中全部控制权力。Linux 系统中 root 是拥有最高权力的用户，可以在系统中实施任意的行为。

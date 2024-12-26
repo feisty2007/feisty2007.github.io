@@ -7,7 +7,7 @@ tags:	[linuxcn,Java,Edge,DOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/27/113728gss04253293seeer.jpg)
+![](/Asserts/Images/album/202009/27/113728gss04253293seeer.jpg)
 
 
 #### 一个无聊的开发者创造了“DOS 的 Linux 子系统”

@@ -7,7 +7,7 @@ tags:	[linuxcn,MariaDB,数据库,主从复制]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/04/221301ve5vvocwioceiz5t.jpg)
+![](/Asserts/Images/album/201802/04/221301ve5vvocwioceiz5t.jpg)
 
 
 在我们前面的教程中，我们已经学习了 [如何安装和配置 MariaDB](/article-8320-1.html)，也学习了 [管理 MariaDB 的一些基础命令](/article-9306-1.html)。现在我们来学习，如何在 MariaDB 服务器上配置一个主从复制。
@@ -136,7 +136,7 @@ replicate-do-db=important
 
 
 ```
-$ mysql -u root -p < /Asserts/Images// important_backup.sql
+$ mysql -u root -p < /data/ important_backup.sql
 
 ```
 

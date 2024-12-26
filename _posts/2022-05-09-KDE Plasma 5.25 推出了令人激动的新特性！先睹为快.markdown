@@ -15,7 +15,7 @@ tags:	[linuxcn,KDE]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/02/094310ykwk14b3wc4zxk9z.png)
+![](/Asserts/Images/album/202205/02/094310ykwk14b3wc4zxk9z.png)
 
 
 [KDE Plasma 5.24](https://news.itsfoss.com/kde-plasma-5-24-lts-release/) 提供了关于 breeze 主题的更新，并对多任务“概览”界面进行了修改。
@@ -33,7 +33,7 @@ Nate Graham 在一篇博文中着重介绍了一些最为有趣的变化，让�
 #### 有选择地应用全局主题的部分样式
 
 
-![来源： Pointiestick Blog / Nate Graham](/Asserts/Images//attachment/album/202205/02/094310zj51j1yjyjo5fj20.jpg)
+![来源： Pointiestick Blog / Nate Graham](/Asserts/Images/album/202205/02/094310zj51j1yjyjo5fj20.jpg)
 
 
 当你在系统设置里应用一个全局主题时，系统会提示你应用全部的样式或是仅仅应用其中一部分样式。
@@ -63,7 +63,7 @@ Nate Graham 在一篇博文中着重介绍了一些最为有趣的变化，让�
 你可以在这里找到相关选项：
 
 
-![来源： Pointiestick Blog / Nate Graham](/Asserts/Images//attachment/album/202205/02/094311xcbs7uy8i0hza778.jpg)
+![来源： Pointiestick Blog / Nate Graham](/Asserts/Images/album/202205/02/094311xcbs7uy8i0hza778.jpg)
 
 
 所以如果你希望桌面和你的壁纸更为匹配，你无需反复进入设置去调整强调色来做到这一点。这个自动生成的功能将会使这一需求更容易完成。
@@ -78,7 +78,7 @@ Nate Graham 在一篇博文中着重介绍了一些最为有趣的变化，让�
 为了进一步加强个性化的视觉体验， KDE Plasma 5.25 允许你增加基于强调色的个性化配色方案。
 
 
-![来源： Jan Blackquill](/Asserts/Images//attachment/album/202205/02/094311h297839w7clw33v7.png)
+![来源： Jan Blackquill](/Asserts/Images/album/202205/02/094311h297839w7clw33v7.png)
 
 
 你可以自由选择是否使用个性化配色方案。
@@ -105,10 +105,10 @@ Nate Graham 在一篇博文中着重介绍了一些最为有趣的变化，让�
 KDE Discover 修改前和修改后（贡献者：[Taavi Juursalu](https://invent.kde.org/taavi)）
 
 
-![修改前](/Asserts/Images//attachment/album/202205/02/094312pijqpldlisgsayfd.png)
+![修改前](/Asserts/Images/album/202205/02/094312pijqpldlisgsayfd.png)
 
 
-![修改后](/Asserts/Images//attachment/album/202205/02/094313wdv3nnf77ffi3hhh.png)
+![修改后](/Asserts/Images/album/202205/02/094313wdv3nnf77ffi3hhh.png)
 
 
 关于这一变化详情请见 [合并请求](https://invent.kde.org/plasma/discover/-/merge_requests/234) 。

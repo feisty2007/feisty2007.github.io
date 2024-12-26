@@ -36,13 +36,13 @@ $ cat /lib/modules/$(uname -r)/modules.builtin
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/01/232711yq6p65ccibc9cyxp.jpg)
+![](/Asserts/Images/album/201511/01/232711yq6p65ccibc9cyxp.jpg)
 
 
 你也可以用下面的命令来查看有哪些内置模块：
 
 
-![](/Asserts/Images//attachment/album/201511/01/232714azzxxj4lj7mmqltm.jpg)
+![](/Asserts/Images/album/201511/01/232714azzxxj4lj7mmqltm.jpg)
 
 
 ### 找出内置模块参数
@@ -81,7 +81,7 @@ $ cat /sys/module/tcp_cubic/parameters/tcp_friendliness
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/01/232716riqyd474ir934iq4.jpg)
+![](/Asserts/Images/album/201511/01/232716riqyd474ir934iq4.jpg)
 
 
 

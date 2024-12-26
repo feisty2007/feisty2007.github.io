@@ -7,7 +7,7 @@ tags:	[linuxcn,Blender]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/16/155543ys6vz9tu2uzqw97v.jpg)
+![](/Asserts/Images/album/202311/16/155543ys6vz9tu2uzqw97v.jpg)
 
 
 
@@ -30,7 +30,7 @@ Blender 是**一款极受欢迎的开源 3D 计算机图形软件套件**，它�
 ### ? Blender 4.0：有哪些新特性？
 
 
-![](/Asserts/Images//attachment/album/202311/16/155913fve3vk3nek1itkz8.png)
+![](/Asserts/Images/album/202311/16/155913fve3vk3nek1itkz8.png)
 
 
 作为一个重要的版本更新，Blender 4.0 提供了丰富的新功能。然而，我们只针对一些核心的亮点进行介绍：
@@ -52,7 +52,7 @@ Blender 是**一款极受欢迎的开源 3D 计算机图形软件套件**，它�
 #### 用户界面改进
 
 
-![](/Asserts/Images//attachment/album/202311/16/155913twi4qqfqz1ct3t4q.png)
+![](/Asserts/Images/album/202311/16/155913twi4qqfqz1ct3t4q.png)
 
 
 在 Blender 中，最重要且直接面向用户的部分无疑就是它的界面。界面的字体已经改变为 [Inter](https://rsms.me/inter/)，**此举旨在改进应用内的文字可读性**，使它不受显示器大小影响。
@@ -61,7 +61,7 @@ Blender 是**一款极受欢迎的开源 3D 计算机图形软件套件**，它�
 此外，用户还可以通过在常规下拉菜单或者右键菜单上按空格键，使用**新增的搜索功能**。同时，一份调整过的启动画面，使得用户在旧版 Blender 中**迁移保存的设置**变得更为简单。
 
 
-![](/Asserts/Images//attachment/album/202311/16/155914maifz8h7xz6fkh5x.png)
+![](/Asserts/Images/album/202311/16/155914maifz8h7xz6fkh5x.png)
 
 
 我们在文件菜单中添加了一项新的 “<ruby> 增量保存 <rt>  Save Incremental </rt></ruby>”选项。这个选项可以保存当前的 `.blender` 文件，并给文件名添加一个递增的数字。
@@ -70,7 +70,7 @@ Blender 是**一款极受欢迎的开源 3D 计算机图形软件套件**，它�
 #### 光线与阴影链接
 
 
-![](/Asserts/Images//attachment/album/202311/16/155914yph5l73j51apijl3.png)
+![](/Asserts/Images/album/202311/16/155914yph5l73j51apijl3.png)
 
 
 它被开发团队称为最受期待的功能，Blender 4.0 新增了光线与阴影链接功能。这些功能使设计师可以**设置灯光以影响场景中特定的物体**，甚至可**控制哪些物体可以挡住光源**，充当阴影的遮挡体。
@@ -82,7 +82,7 @@ Blender 是**一款极受欢迎的开源 3D 计算机图形软件套件**，它�
 #### 改良的 Principled BSDF
 
 
-![](/Asserts/Images//attachment/album/202311/16/155914ibv4b7167azhuh7d.png)
+![](/Asserts/Images/album/202311/16/155914ibv4b7167azhuh7d.png)
 
 
 Blender 的 [Principled BSDF](https://docs.blender.org/manual/en/4.0/render/shader_nodes/shader/principled.html) 系统在本次更新中进行了大规模的改良，现在此系统提供了**支持更广泛的材料类型，并且工作更加高效**。
@@ -100,13 +100,13 @@ Blender 的 [Principled BSDF](https://docs.blender.org/manual/en/4.0/render/shad
 以下的插图更好地展示了 Principled BSDF 的改善状况：
 
 
-![](/Asserts/Images//attachment/album/202311/16/155914dmu3rolqrr5cti3p.png)
+![](/Asserts/Images/album/202311/16/155914dmu3rolqrr5cti3p.png)
 
 
 #### 绑定优化
 
 
-![](/Asserts/Images//attachment/album/202311/16/155914lnbz35kgb8zgt7nb.png)
+![](/Asserts/Images/album/202311/16/155914lnbz35kgb8zgt7nb.png)
 
 
 Blender 4.0 的特性之一就是为 [Armature](https://docs.blender.org/manual/en/latest/animation/armatures/introduction.html) 骨骼添加了 <ruby> 骨骼集合 <rt>  Bone Collections </rt></ruby>。此设定继承了现有对象物体的实现方式。

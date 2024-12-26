@@ -103,7 +103,7 @@ lnav
 
 ```
 
-![](/Asserts/Images//attachment/album/201512/02/231752xz4aklpb0fisxhss.png)
+![](/Asserts/Images/album/201512/02/231752xz4aklpb0fisxhss.png)
 
 
 如果你想查看特定的日志，那么需要指定路径。如果你想看 CPU 日志，在你的终端里运行下面的命令
@@ -115,7 +115,7 @@ lnav /var/log/cups
 
 ```
 
-![](/Asserts/Images//attachment/album/201512/02/231753f33vmrlrwln5e3vg.png)
+![](/Asserts/Images/album/201512/02/231753f33vmrlrwln5e3vg.png)
 
 
 

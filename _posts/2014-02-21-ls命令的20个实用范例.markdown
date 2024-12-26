@@ -16,7 +16,7 @@ Linux中一个基本命令是ls。没有这个命令，我们会在浏览目录�
 ls命令用于列出文件和目录。默认上，他会列出当前目录的内容。带上参数后，我们可以用ls做更多的事情。这里是一些在日常操作中使用到的ls用法的示例。
 
 
-![](/Asserts/Images//attachment/album/201402/01/1113540n2anaeerrtq222e.png)
+![](/Asserts/Images/album/201402/01/1113540n2anaeerrtq222e.png)
 
 
 #### 1. 不带参数运行ls
@@ -28,7 +28,7 @@ ls命令用于列出文件和目录。默认上，他会列出当前目录的内
 $ ls
 
 
-![](/Asserts/Images//attachment/album/201402/01/111111evt8xe8quvvtqkf3.png)
+![](/Asserts/Images/album/201402/01/111111evt8xe8quvvtqkf3.png)
 
 
 #### 2. 使用长清单模式
@@ -40,7 +40,7 @@ $ ls
 $ ls -l
 
 
-![](/Asserts/Images//attachment/album/201402/01/111113mtxinwv31wh95rmo.png)
+![](/Asserts/Images/album/201402/01/111113mtxinwv31wh95rmo.png)
 
 
 这里是如何读取输出 :
@@ -68,7 +68,7 @@ $ ls -l
 $ ls -lh
 
 
-![](/Asserts/Images//attachment/album/201402/01/111115ea86ynk6attt6zzy.png)
+![](/Asserts/Images/album/201402/01/111115ea86ynk6attt6zzy.png)
 
 
 另外一个可以这么做的参数是**--si**。这个参数和-h参数类似，但是**-si以1000为单位，而-h以1024为单位**。
@@ -77,7 +77,7 @@ $ ls -lh
 $ ls -si
 
 
-![](/Asserts/Images//attachment/album/201402/01/111116kj2qa8nqszkoqkdd.png)
+![](/Asserts/Images/album/201402/01/111116kj2qa8nqszkoqkdd.png)
 
 
 #### 4. 排序文件大小
@@ -89,7 +89,7 @@ $ ls -si
 $ ls -lhS
 
 
-![](/Asserts/Images//attachment/album/201402/01/111118ww4ic0wwccocysmz.png)
+![](/Asserts/Images/album/201402/01/111118ww4ic0wwccocysmz.png)
 
 
 #### 5. 测量大小
@@ -117,7 +117,7 @@ Y = Yottabyte
 $ ls -l --block-size=M
 
 
-![](/Asserts/Images//attachment/album/201402/01/111120ll9qkwlttbakjt4w.png)
+![](/Asserts/Images/album/201402/01/111120ll9qkwlttbakjt4w.png)
 
 
 #### 6. 显示隐藏文件
@@ -129,7 +129,7 @@ $ ls -l --block-size=M
 $ ls -a
 
 
-![](/Asserts/Images//attachment/album/201402/01/111121fiqlbfdbqzzzjbcd.png)
+![](/Asserts/Images/album/201402/01/111121fiqlbfdbqzzzjbcd.png)
 
 
 #### 7. 只列出目录条目
@@ -141,7 +141,7 @@ $ ls -a
 $ ls -d \*/
 
 
-![](/Asserts/Images//attachment/album/201402/01/111122ws2wf1f4ezezbpem.png)
+![](/Asserts/Images/album/201402/01/111122ws2wf1f4ezezbpem.png)
 
 
 #### 8. 不打印所有者信息
@@ -153,7 +153,7 @@ $ ls -d \*/
 $ ls -g
 
 
-![](/Asserts/Images//attachment/album/201402/01/111124md9x22xbaj22yluv.png)
+![](/Asserts/Images/album/201402/01/111124md9x22xbaj22yluv.png)
 
 
 #### 9. 不打印组信息
@@ -165,7 +165,7 @@ $ ls -g
 $ ls -lG
 
 
-![](/Asserts/Images//attachment/album/201402/01/111125i2ncc1ahqzje2332.png)
+![](/Asserts/Images/album/201402/01/111125i2ncc1ahqzje2332.png)
 
 
 #### 10. 打印UID和GID
@@ -177,7 +177,7 @@ $ ls -lG
 $ ls -n
 
 
-![](/Asserts/Images//attachment/album/201402/01/111127tas75anfsnwwagw5.png)
+![](/Asserts/Images/album/201402/01/111127tas75anfsnwwagw5.png)
 
 
 从上面的例子中，我们知道**用户pungki的UID**是100，**GID是1000**，而**root组的GID是0**。
@@ -192,7 +192,7 @@ $ ls -n
 $ ls --color=never
 
 
-![](/Asserts/Images//attachment/album/201402/01/111128ppg6gnt5pnz56nrp.png)
+![](/Asserts/Images/album/201402/01/111128ppg6gnt5pnz56nrp.png)
 
 
 #### 12. 打印每个文件的索引号
@@ -204,7 +204,7 @@ $ ls --color=never
 $ ls -li
 
 
-![](/Asserts/Images//attachment/album/201402/01/111129ep9drj9zj1za3eeb.png)
+![](/Asserts/Images/album/201402/01/111129ep9drj9zj1za3eeb.png)
 
 
 #### 13. 增加 / (斜线) 标记目录
@@ -216,7 +216,7 @@ $ ls -li
 $ ls -p
 
 
-![](/Asserts/Images//attachment/album/201402/01/1111316ze5xjmrpsrxxe8m.png)
+![](/Asserts/Images/album/201402/01/1111316ze5xjmrpsrxxe8m.png)
 
 
 #### 14. 排序时反转顺序
@@ -228,7 +228,7 @@ $ ls -p
 $ ls -r
 
 
-![](/Asserts/Images//attachment/album/201402/01/111132hz2ly4h4e0hwevw4.png)
+![](/Asserts/Images/album/201402/01/111132hz2ly4h4e0hwevw4.png)
 
 
 #### 15. 递归列出子目录
@@ -240,7 +240,7 @@ $ ls -r
 $ ls -R
 
 
-![](/Asserts/Images//attachment/album/201402/01/111133v9em0hhzmavgamai.png)
+![](/Asserts/Images/album/201402/01/111133v9em0hhzmavgamai.png)
 
 
 #### 16. 扩展名排序
@@ -258,7 +258,7 @@ $ ls -lX
 $ ls --sort=extension
 
 
-![](/Asserts/Images//attachment/album/201402/01/111135l7oc8cpem0nvykec.png)
+![](/Asserts/Images/album/201402/01/111135l7oc8cpem0nvykec.png)
 
 
 #### 17. 通过修改时间列出
@@ -270,7 +270,7 @@ $ ls --sort=extension
 $ ls -lt
 
 
-![](/Asserts/Images//attachment/album/201402/01/111136jwttppgssz3jsgew.png)
+![](/Asserts/Images/album/201402/01/111136jwttppgssz3jsgew.png)
 
 
 #### 18. 列出你的主目录
@@ -282,7 +282,7 @@ $ ls -lt
 $ ls ~
 
 
-![](/Asserts/Images//attachment/album/201402/01/111138595ttczvm97dt14d.png)
+![](/Asserts/Images/album/201402/01/111138595ttczvm97dt14d.png)
 
 
 #### 19. 列出父目录
@@ -303,7 +303,7 @@ $ ls ../../
 这回列出**2**层之上的目录内容（译注：可不支持“...”来代表2层之上）。
 
 
-![](/Asserts/Images//attachment/album/201402/01/111139hh0ts8xfro0xthb9.png)
+![](/Asserts/Images/album/201402/01/111139hh0ts8xfro0xthb9.png)
 
 
 #### 20. 打印ls命令版本
@@ -315,7 +315,7 @@ $ ls ../../
 $ ls --version
 
 
-![](/Asserts/Images//attachment/album/201402/01/111140ymgnr7tb3i3dw5zt.png)
+![](/Asserts/Images/album/201402/01/111140ymgnr7tb3i3dw5zt.png)
 
 
 ### 总结

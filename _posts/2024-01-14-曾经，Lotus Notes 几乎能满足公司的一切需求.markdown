@@ -7,7 +7,7 @@ tags:	[linuxcn,Lotus Notes]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/22/144529wt13s8k71t15gxj8.jpg)
+![](/Asserts/Images/album/202401/22/144529wt13s8k71t15gxj8.jpg)
 
 
 

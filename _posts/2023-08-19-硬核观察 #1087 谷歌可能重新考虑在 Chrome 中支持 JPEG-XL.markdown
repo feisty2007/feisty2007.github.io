@@ -7,10 +7,10 @@ tags:	[linuxcn,JPEG-XL,Window Maker,黑客]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/08/171025ongfs1z5hf59grnh.jpg)
+![](/Asserts/Images/album/202308/08/171025ongfs1z5hf59grnh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/08/171037liiann3qfpmqm7of.jpg)
+![](/Asserts/Images/album/202308/08/171037liiann3qfpmqm7of.jpg)
 
 
 ### 谷歌可能重新考虑在 Chrome 中支持 JPEG-XL
@@ -35,7 +35,7 @@ tags:	[linuxcn,JPEG-XL,Window Maker,黑客]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/08/171049ofscvoq69566z6be.jpg)
+![](/Asserts/Images/album/202308/08/171049ofscvoq69566z6be.jpg)
 
 
 ### Window Maker 发布了三年来的首次更新
@@ -60,7 +60,7 @@ tags:	[linuxcn,JPEG-XL,Window Maker,黑客]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/08/171113mmir4d9vipkiibzc.jpg)
+![](/Asserts/Images/album/202308/08/171113mmir4d9vipkiibzc.jpg)
 
 
 ### 间谍软件制造商 LetMeSpy 被黑后关闭

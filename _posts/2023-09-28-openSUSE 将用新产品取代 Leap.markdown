@@ -7,7 +7,7 @@ tags:	[linuxcn,openSUSE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/16/105805yqv5omxmwbmj5amk.jpg)
+![](/Asserts/Images/album/202309/16/105805yqv5omxmwbmj5amk.jpg)
 
 
 

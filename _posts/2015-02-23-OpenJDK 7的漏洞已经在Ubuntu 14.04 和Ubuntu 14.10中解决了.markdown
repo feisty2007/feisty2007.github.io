@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenJDK,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201502/20/212436oqppmu0pe3mqvz55.jpeg)
+![](/Asserts/Images/album/201502/20/212436oqppmu0pe3mqvz55.jpeg)
 
 
 *建议用户尽快升级*

@@ -7,7 +7,7 @@ tags:	[linuxcn,umask]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/21/220211ggfaw4rux2fuvc9y.png)
+![](/Asserts/Images/album/201405/21/220211ggfaw4rux2fuvc9y.png)
 
 
 **这篇教程教将指导 Linux 用户如何永久性地更改其系统的 Umask 值。特别建议全新安装的用户学习（想知道为什么的话，请移步下文）**
@@ -16,7 +16,7 @@ tags:	[linuxcn,umask]
 Umask 是什么？解释下，UMASK 代表用户掩码或用户文件创建掩码，它用于新创建的文件和文件夹，是其默认权限的基础。
 
 
-![](/Asserts/Images//attachment/album/201405/21/220214i3dzx3hx595mdquk.jpg)
+![](/Asserts/Images/album/201405/21/220214i3dzx3hx595mdquk.jpg)
 
 
 上面的意思可以解释成任何基于 Linux 的操作系统为新建文件(包括文件夹)添加默认权限的规则。出于教育目的，下面列出了一些可以用来设置文件权限的八进制值**掩码**：

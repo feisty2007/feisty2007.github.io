@@ -15,7 +15,7 @@ tags:	[linuxcn,监控,嗅探]
 > 
 
 
-![sniffet](/Asserts/Images//attachment/album/202306/14/163851f0j90krnbjkkhks5.jpg)
+![sniffet](/Asserts/Images/album/202306/14/163851f0j90krnbjkkhks5.jpg)
 
 
 嗅探，嗅探，那是什么？ ?
@@ -36,7 +36,7 @@ tags:	[linuxcn,监控,嗅探]
 ### Sniffnet：概述 ⭐
 
 
-![a screenshot of sniffnet running on linux](/Asserts/Images//attachment/album/202306/14/163852p3zbttizxbldagx8.jpg)
+![a screenshot of sniffnet running on linux](/Asserts/Images/album/202306/14/163852p3zbttizxbldagx8.jpg)
 
 
 Sniffnet 是一个**基于 Rust 的**网络监控工具，可让你跟踪通过系统的所有互联网流量。 它提供了一些非常有用的功能，高级用户肯定会喜欢这些功能\*\*。
@@ -48,7 +48,7 @@ Sniffnet 是一个**基于 Rust 的**网络监控工具，可让你跟踪通过�
 完成选择后，单击“火箭”按钮开始。
 
 
-![a screenshot of the network adapter selector on sniffnet](/Asserts/Images//attachment/album/202306/14/163852sv3auf1cmejiy00m.jpg)
+![a screenshot of the network adapter selector on sniffnet](/Asserts/Images/album/202306/14/163852sv3auf1cmejiy00m.jpg)
 
 
 这是概览页的样子。它显示了所有当前的网络连接，以及一个方便的流量图，供你分析流量。
@@ -62,7 +62,7 @@ Sniffnet 是一个**基于 Rust 的**网络监控工具，可让你跟踪通过�
 > 
 
 
-![a screenshot of the overview tab on sniffnet](/Asserts/Images//attachment/album/202306/14/163852lbxvwddg74qdwkkr.jpg)
+![a screenshot of the overview tab on sniffnet](/Asserts/Images/album/202306/14/163852lbxvwddg74qdwkkr.jpg)
 
 
 要更深入地查看你的网络连接，你可以前往“<ruby> 检查 <rt>  Inspect </rt></ruby>”选项卡。
@@ -74,7 +74,7 @@ Sniffnet 是一个**基于 Rust 的**网络监控工具，可让你跟踪通过�
 你可以单击各个连接获得更详细的情况。
 
 
-![a screenshot of the inspect tab on sniffnet](/Asserts/Images//attachment/album/202306/14/163853lsq566hnrwrwg52z.jpg)
+![a screenshot of the inspect tab on sniffnet](/Asserts/Images/album/202306/14/163853lsq566hnrwrwg52z.jpg)
 
 
 #### 如果你想为更具体的目的过滤结果怎么办？
@@ -89,7 +89,7 @@ Sniffnet 是一个**基于 Rust 的**网络监控工具，可让你跟踪通过�
 这是它的样子：
 
 
-![a screenshot of the filter functionality on sniffnet](/Asserts/Images//attachment/album/202306/14/163853uqmzqr4eikeeqr9t.jpg)
+![a screenshot of the filter functionality on sniffnet](/Asserts/Images/album/202306/14/163853uqmzqr4eikeeqr9t.jpg)
 
 
 Sniffnet 还可以向你显示可以以文本格式导出的连接的详细报告。
@@ -98,7 +98,7 @@ Sniffnet 还可以向你显示可以以文本格式导出的连接的详细报�
 只需单击右下角带有页面/向右箭头的徽标即可开始。
 
 
-![a screenshot of the connection report functionality on sniffnet](/Asserts/Images//attachment/album/202306/14/163854gb2boyg40oz0un9w.jpg)
+![a screenshot of the connection report functionality on sniffnet](/Asserts/Images/album/202306/14/163854gb2boyg40oz0un9w.jpg)
 
 
 #### 可定制性如何？
@@ -110,19 +110,19 @@ Sniffnet 还可以向你显示可以以文本格式导出的连接的详细报�
 第一个是“通知”选项卡，它允许你根据可以设置的各种阈值来设置通知的行为。
 
 
-![a screenshot of the notifications settings on sniffnet](/Asserts/Images//attachment/album/202306/14/163854h7v8vs58p1km4ft8.jpg)
+![a screenshot of the notifications settings on sniffnet](/Asserts/Images/album/202306/14/163854h7v8vs58p1km4ft8.jpg)
 
 
 然后是可以通过“<ruby> 样式 <rt>  Style </rt></ruby>”选项卡访问的主题。它提供四种选择，雪人之夜是我的最爱。
 
 
-![a screenshot of the style settings on sniffnet](/Asserts/Images//attachment/album/202306/14/163854uiyg5889ztheece8.jpg)
+![a screenshot of the style settings on sniffnet](/Asserts/Images/album/202306/14/163854uiyg5889ztheece8.jpg)
 
 
 最后，“<ruby> 语言 <rt>  Language </rt></ruby>”选项卡允许你设置你选择的界面语言。
 
 
-![a screenshot of the language settings on sniffnet](/Asserts/Images//attachment/album/202306/14/163855o424pl4a0la0tdty.jpg)
+![a screenshot of the language settings on sniffnet](/Asserts/Images/album/202306/14/163855o424pl4a0la0tdty.jpg)
 
 
 好了，就此结束。

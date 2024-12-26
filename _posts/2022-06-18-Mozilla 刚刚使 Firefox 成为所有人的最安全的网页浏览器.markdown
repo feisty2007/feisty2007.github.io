@@ -15,7 +15,7 @@ tags:	[linuxcn,Firefox,Cookie]
 > 
 
 
-![Mozilla Firefox](/Asserts/Images//attachment/album/202206/18/094854m70ds4txeelmks4z.jpg)
+![Mozilla Firefox](/Asserts/Images/album/202206/18/094854m70ds4txeelmks4z.jpg)
 
 
 Mozilla Firefox 是市面上最安全的开源网页浏览器之一。
@@ -54,7 +54,7 @@ Mozilla Firefox 是市面上最安全的开源网页浏览器之一。
 浏览器将为你访问的每个网站都创建单独的“<ruby> 饼干罐 <rt>  Cookie Jar </rt></ruby>”。（LCTT 译注：Cookie 原意是小饼干。）
 
 
-![](/Asserts/Images//attachment/album/202206/18/094855pz0770wqesb0f0wb.png)
+![](/Asserts/Images/album/202206/18/094855pz0770wqesb0f0wb.png)
 
 
 Mozilla 的博文对此进行了更多解释：

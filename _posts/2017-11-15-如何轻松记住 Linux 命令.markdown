@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行,apropos,history]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/29/152255euutfdffffdzdfyq.jpg)
+![](/Asserts/Images/album/201711/29/152255euutfdffffdzdfyq.jpg)
 
 
 Linux 新手往往对命令行心存畏惧。部分原因是因为需要记忆大量的命令，毕竟掌握命令是高效使用命令行的前提。
@@ -19,7 +19,7 @@ Linux 新手往往对命令行心存畏惧。部分原因是因为需要记忆�
 ### history
 
 
-![Linux Bash History 命令](/Asserts/Images//attachment/album/201711/29/152255dev4li442zvsvnd2.jpg)
+![Linux Bash History 命令](/Asserts/Images/album/201711/29/152255dev4li442zvsvnd2.jpg)
 
 
 首先要介绍的是命令行工具 `history`，它能帮你记住那些你曾经用过的命令。包括应用最广泛的 Bash 在内的大多数 [Linux shell](https://www.maketecheasier.com/alternative-linux-shells/)，都会创建一个历史文件来包含那些你输入过的命令。如果你用的是 Bash，这个历史文件就是 `/home/<username>/.bash_history`。
@@ -40,7 +40,7 @@ apropos "list directory"
 
 ```
 
-![Linux Apropos](/Asserts/Images//attachment/album/201711/29/152255hgfcc0qn50qa6fkd.jpg)
+![Linux Apropos](/Asserts/Images/album/201711/29/152255hgfcc0qn50qa6fkd.jpg)
 
 
 这就搜索出结果了，非常直接。给 “directory” 加上复数后再试一下。
@@ -64,7 +64,7 @@ apropos "match pattern"
 
 ```
 
-![Linux Apropos -a Flag](/Asserts/Images//attachment/album/201711/29/152256pz7wyf550wc6ze6q.jpg)
+![Linux Apropos -a Flag](/Asserts/Images/album/201711/29/152256pz7wyf550wc6ze6q.jpg)
 
 
 你会觉得应该会有一些匹配的内容出现，比如 [grep](https://www.maketecheasier.com/what-is-grep-and-uses/) 对吗? 然而，实际上并没有匹配出任何结果。再说一次，apropos 只会根据字面内容进行搜索。
@@ -88,7 +88,7 @@ apropos "match" -a "pattern"
 ### ZSH
 
 
-![Linux ZSH Autocomplete](/Asserts/Images//attachment/album/201711/29/152256wxfyxe59h49zxyuu.jpg)
+![Linux ZSH Autocomplete](/Asserts/Images/album/201711/29/152256wxfyxe59h49zxyuu.jpg)
 
 
 ZSH 其实并不是用于记忆命令的工具。它其实是一种 shell。你可以用 [ZSH](https://www.maketecheasier.com/understanding-the-different-shell-in-linux-zsh-shell/) 来替代 Bash 作为你的命令行 shell。ZSH 包含了自动纠错机制，能在你输入命令的时候给你予提示。开启该功能后，它会提示你相近的选择。在 ZSH 中你可以像往常一样使用命令行，同时你还能享受到极度安全的网络以及其他一些非常好用的特性。充分利用 ZSH 的最简单方法就是使用 [Oh-My-ZSH](https://github.com/robbyrussell/oh-my-zsh)。
@@ -103,7 +103,7 @@ ZSH 其实并不是用于记忆命令的工具。它其实是一种 shell。你�
 有很多在线的速记表，比如[这个](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/) 可以帮助你快速查询命令。
 
 
-![linux-commandline-cheatsheet](/Asserts/Images//attachment/album/201711/29/152256sojudjxm97odfkvh.gif)
+![linux-commandline-cheatsheet](/Asserts/Images/album/201711/29/152256sojudjxm97odfkvh.gif)
 
 
 为了快速查询，你可以寻找图片格式的速记表，然后将它设置为你的桌面墙纸。

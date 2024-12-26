@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/201707/23/100754bg1rlmgjrii1rx0g.jpg)
+![](/Asserts/Images/album/201707/23/100754bg1rlmgjrii1rx0g.jpg)
 
 
 1998年，我在明尼苏达大学为一个新的 web 团队管理他们的服务器管理组。明尼苏达大学是一个非常大的大学，个个院校拥有接近 6000 名在校大学生。当时学校是用一个上了年纪的大型机系统来做学生的档案管理系统，这种系统已经过时了，所以需要做出改变。
@@ -33,7 +33,7 @@ tags:	[linuxcn,Linux]
 幸运的是，我们并不是孤军奋战。我们联系了 IBM ，在第二年一起开始来搭建这个新的 web 在线注册系统。IBM 负责提供硬件和软件环境来运行这个 web 系统：3 个运行最新的 AIX 系统（类 UNIX 操作系统）、IBM Java 和 IBM WebSphere 平台的 SP 电脑节点，并用一个 IBM 的负载均衡器来实现 3 个节点的负载分流。
 
 
-![AIX network diagram](/Asserts/Images//attachment/album/201707/23/100951xhss1q1rwsfszv11.png "AIX network diagram")
+![AIX network diagram](/Asserts/Images/album/201707/23/100951xhss1q1rwsfszv11.png "AIX network diagram")
 
 
 在经过一年多的开发和测试后，我们的系统终于上线了！但不幸的是失败却接踵而至。
@@ -51,7 +51,7 @@ tags:	[linuxcn,Linux]
 由于不能有效地通过 web 注册，学生只能通过原来的方法来注册：来到登记员的办公室，拿着笔注册，然后再出门。当地报纸也幸灾乐祸地嘲讽道："电脑软件的失败强迫学生只能面对面地注册！"
 
 
-![Negative headlines about web registration crashes](/Asserts/Images//attachment/album/201707/23/100952zetpui29vup8qqra.jpg "Negative headlines about web registration crashes")
+![Negative headlines about web registration crashes](/Asserts/Images/album/201707/23/100952zetpui29vup8qqra.jpg "Negative headlines about web registration crashes")
 
 
 面对失败这个事实，我们尽自己全力在下一个开发周期中来提高软件性能，在之后 6 个月的时间里，我们疯狂地想去增强这套系统的负载能力。尽管增加了更多的代码，调整了多次配置，还是不能支持更多的用户。尽力了，然而面对的还是失败。
@@ -99,10 +99,10 @@ IBM 当时引入了 Linux，给它的 Java 和 WebSphere 平台做了二次开�
 我们的成功是建立在 IBM 已经基于 Linux 做出了它的 Java 和 WebSphere 产品的基础上的。这能让我们在将 web 系统从 AIX 切换到 Linux 上不用做过多的修改适配。两者比起来只有硬件和操作系统改变了，其他系统相关的组件都保持了一致，这些都是保证平台切换成功的基石。
 
 
-![AIX cost diagram](/Asserts/Images//attachment/album/201707/23/100952sdwllm9r1rryylky.png "AIX cost diagram")
+![AIX cost diagram](/Asserts/Images/album/201707/23/100952sdwllm9r1rryylky.png "AIX cost diagram")
 
 
-![Linux cost diagram](/Asserts/Images//attachment/album/201707/23/100953l6mmac4f7vgftm77.png "Linux cost diagram")
+![Linux cost diagram](/Asserts/Images/album/201707/23/100953l6mmac4f7vgftm77.png "Linux cost diagram")
 
 
 3、 **诚实对待风险和回报**

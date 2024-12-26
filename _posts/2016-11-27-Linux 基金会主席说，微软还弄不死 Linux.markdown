@@ -16,7 +16,7 @@ tags:	[linuxcn,微软,Linux基金会]
 对于微软在开源领域的扩张中，业界有各种不同的观点，但就反对者而言，其最终的看法可以归结为微软试图减慢 Linux 的发展速度并最终扼杀它。
 
 
-![](/Asserts/Images//attachment/album/201611/19/105137el3g3dah2asaag6r.jpg)
+![](/Asserts/Images/album/201611/19/105137el3g3dah2asaag6r.jpg)
 
 
 ### Jim 说，没啥阴谋

@@ -117,7 +117,7 @@ plt.savefig('images/plot1.png', format='png')
 所画之图如下：
 
 
-![](/Asserts/Images//attachment/album/201502/11/150459k4h7nbmnjh4ppy2n.jpg)
+![](/Asserts/Images/album/201502/11/150459k4h7nbmnjh4ppy2n.jpg)
 
 
 ### 例2：柱状图
@@ -158,7 +158,7 @@ plt.savefig('images/plot2.png', format='png')
 结果见如下链接：
 
 
-![](/Asserts/Images//attachment/album/201502/11/150504b5l55pqhws4wmfqh.jpg)
+![](/Asserts/Images/album/201502/11/150504b5l55pqhws4wmfqh.jpg)
 
 
 ### 例3：饼状图
@@ -195,7 +195,7 @@ plt.savefig('images/plot3.png', format='png')
 结果如下链接所示：
 
 
-![](/Asserts/Images//attachment/album/201502/11/150506mrr46n694x7ax4m9.jpg)
+![](/Asserts/Images/album/201502/11/150506mrr46n694x7ax4m9.jpg)
 
 
 ### 总结

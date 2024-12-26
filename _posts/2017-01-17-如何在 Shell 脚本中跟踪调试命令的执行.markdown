@@ -10,7 +10,7 @@ tags:	[linuxcn,调试,脚本]
 在 [shell 脚本调试系列](/article-8028-1.html) 中，本文将解释第三种 shell 脚本调试模式，即 shell 跟踪，并查看一些示例来演示它如何工作以及如何使用它。
 
 
-![](/Asserts/Images//attachment/album/201701/15/172501x3lrwwqio266pq29.jpg)
+![](/Asserts/Images/album/201701/15/172501x3lrwwqio266pq29.jpg)
 
 
 本系列的前面部分清晰地阐明了另外两种 shell 脚本调试模式：详细模式和语法检查模式，并用易于理解的例子展示了如何在这些模式下启用 shell 脚本调试。
@@ -63,7 +63,7 @@ $ sudo bash -x sys_info.sh
 
 ```
 
-![Shell Tracing - Show Error in Script](/Asserts/Images//attachment/album/201701/15/172508tobn0iinniy0cave.png)
+![Shell Tracing - Show Error in Script](/Asserts/Images/album/201701/15/172508tobn0iinniy0cave.png)
 
 
 *shell 跟踪 - 显示脚本中的错误*
@@ -84,7 +84,7 @@ $ sudo bash -n sys_info.sh
 
 ```
 
-![Syntax Checking in Script](/Asserts/Images//attachment/album/201701/15/172508topuogicp7zyzuuu.png)
+![Syntax Checking in Script](/Asserts/Images/album/201701/15/172508topuogicp7zyzuuu.png)
 
 
 *脚本中语法检查*
@@ -127,7 +127,7 @@ $ sudo bash -n sys_info.sh
 
 ```
 
-![Perform Syntax Check in Shell Scripts](/Asserts/Images//attachment/album/201701/15/172509xm77ckrcmz21c2r2.png)
+![Perform Syntax Check in Shell Scripts](/Asserts/Images/album/201701/15/172509xm77ckrcmz21c2r2.png)
 
 
 *在 shell 脚本中执行语法检查*
@@ -185,7 +185,7 @@ $ sudo bash -x sys_info.sh
 
 ```
 
-![Trace Shell Script Execution](/Asserts/Images//attachment/album/201701/15/172509y91u9r3uqum9r111.png)
+![Trace Shell Script Execution](/Asserts/Images/album/201701/15/172509y91u9r3uqum9r111.png)
 
 
 *跟踪 shell 脚本执行*
@@ -200,7 +200,7 @@ $ sudo ./sys_info.sh
 
 ```
 
-![Shell Script to Show Date, Time and Uptime](/Asserts/Images//attachment/album/201701/15/172509d69fbzbkk2akfja6.png)
+![Shell Script to Show Date, Time and Uptime](/Asserts/Images/album/201701/15/172509d69fbzbkk2akfja6.png)
 
 
 *用 shell 脚本显示日期、时间和运行时间*
@@ -284,7 +284,7 @@ $ ./sys_info.sh
 
 ```
 
-![Run Shell Script Without Sudo](/Asserts/Images//attachment/album/201701/15/172510gkei69f839yeqe85.png)
+![Run Shell Script Without Sudo](/Asserts/Images/album/201701/15/172510gkei69f839yeqe85.png)
 
 
 **未 sudo 的情况下运行 shell 脚本**
@@ -301,7 +301,7 @@ $ ./sys_info.sh
 作者简介：
 
 
-![](/Asserts/Images//attachment/album/201701/15/172511a1vx5xutrck6vk55.jpg) Aaron Kili 是 Linux 和 F.O.S.S 爱好者，将来的 Linux SysAdmin、web 开 发人员，目前是 TecMint 的内容创作者，他喜欢用电脑工作，并坚信分享知识。
+![](/Asserts/Images/album/201701/15/172511a1vx5xutrck6vk55.jpg) Aaron Kili 是 Linux 和 F.O.S.S 爱好者，将来的 Linux SysAdmin、web 开 发人员，目前是 TecMint 的内容创作者，他喜欢用电脑工作，并坚信分享知识。
 
 
  

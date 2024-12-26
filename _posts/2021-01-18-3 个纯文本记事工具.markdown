@@ -15,7 +15,7 @@ tags:	[linuxcn,笔记,纯文本]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/27/153329o0waw16448hq0avf.jpg "Typewriter with hands")
+![](/Asserts/Images/album/202101/27/153329o0waw16448hq0avf.jpg "Typewriter with hands")
 
 
 在前几年，这个年度系列涵盖了单个的应用。今年，我们除了关注 2021 年的策略外，还将关注一体化解决方案。欢迎来到 2021 年 21 天生产力的第五天。
@@ -30,7 +30,7 @@ tags:	[linuxcn,笔记,纯文本]
 ### Markdown
 
 
-![Markdown](/Asserts/Images//attachment/album/202101/27/153438hgjh6ez9nxjy2xzh.png "Markdown")
+![Markdown](/Asserts/Images/album/202101/27/153438hgjh6ez9nxjy2xzh.png "Markdown")
 
 
 *Markdown （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -48,7 +48,7 @@ tags:	[linuxcn,笔记,纯文本]
 ### AsciiDoc
 
 
-![AsciiDoc](/Asserts/Images//attachment/album/202101/27/153439iegwo9g3z9e82tok.png "AsciiDoc")
+![AsciiDoc](/Asserts/Images/album/202101/27/153439iegwo9g3z9e82tok.png "AsciiDoc")
 
 
 *AsciiDoc （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -63,7 +63,7 @@ AsciiDoc 也有很多工具可以将文本转换为其他格式进行协作。�
 ### Org 模式
 
 
-![ORG-Mode](/Asserts/Images//attachment/album/202101/27/153440nta19mm2r49tkq9m.png "ORG-Mode")
+![ORG-Mode](/Asserts/Images/album/202101/27/153440nta19mm2r49tkq9m.png "ORG-Mode")
 
 
 *ORG-Mode （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

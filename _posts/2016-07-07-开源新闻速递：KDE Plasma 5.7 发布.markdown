@@ -10,13 +10,13 @@ tags:	[linuxcn,Snappy,KDE]
 ### 今日关注
 
 
-![](/Asserts/Images//attachment/album/201607/06/074617ajt3u3owhcc1tu3h.jpg)
+![](/Asserts/Images/album/201607/06/074617ajt3u3owhcc1tu3h.jpg)
 
 
 KDE Plasma 5.7 正式发布！这个版本中有大量的改进，最重要的就是使用了下一代的 Wayland 显示服务器。当你进入 KDE Plasma 5.7 时第一眼看到的变化就是重新打造的登录屏，此外系统托盘区也重新打造了。
 
 
-![](/Asserts/Images//attachment/album/201607/06/074618kdtfm5v9ba4d9u9m.jpg)
+![](/Asserts/Images/album/201607/06/074618kdtfm5v9ba4d9u9m.jpg)
 
 
 许多发行版都使用 KDE 作为默认桌面环境，但是 KDE Plasma 5.7 要进入各个发行版的主仓库还需要一段时间。要想马上体验 KDE Plasma 5.7，你可以使用前 Kubuntu 项目领导人 Jonathan Riddell [推出](http://jriddell.org/2016/07/05/kde-neon-5-7/)的发行版 KDE Neon 5.7。
@@ -25,19 +25,19 @@ KDE Plasma 5.7 正式发布！这个版本中有大量的改进，最重要的�
 ### 图文摘要
 
 
-![](/Asserts/Images//attachment/album/201607/06/071403z22u3xp2rmum26xp.jpg)
+![](/Asserts/Images/album/201607/06/071403z22u3xp2rmum26xp.jpg)
 
 
 *Canonical [宣布](https://developer.ubuntu.com/en/blog/2016/07/04/shaping-universal-snaps/) Snappy sprint 即将在 7 月 18 日 - 22 日于德国海德堡召开，Debian 项目、KDE、MATE、VideoLAN (VLC) 的开发者会出席。报名链接[在此](https://docs.google.com/forms/d/1sBovCdRb8oKCEVvA69mHX2Ty1RPxxrN3REj6RiRaBCs/viewform)。**另外，Snappy 最近刚刚发布了 snapd 2.10，继上个版本完全集成到 elementary OS 0.4 "Loki" 之后，这次又登陆了 Fedora，可以[在 Fedora COPR 仓库中安装使用](http://www.zygoon.pl/2016/07/snapd-2010-released-to-fedora-copr.html)，以及，Snappy 也[出现在了 Arch 主仓库之中](http://www.zygoon.pl/2016/07/snappy-in-arch-moved-to-community-repo.html)。*
 
 
-![](/Asserts/Images//attachment/album/201607/06/072840x1zuujfbo4uwwwvg.jpg)
+![](/Asserts/Images/album/201607/06/072840x1zuujfbo4uwwwvg.jpg)
 
 
 *Network Security Toolkit (NST) 24-7977 发布，它是基于 Fedora 24 的一个发行版，集成了大量安全工具，用于分析和监控网络安全。*
 
 
-![](/Asserts/Images//attachment/album/201607/06/073201x8s8b7cbjyo7jgbr.jpg)
+![](/Asserts/Images/album/201607/06/073201x8s8b7cbjyo7jgbr.jpg)
 
 
 *Debian Edu （即 Skolelinux） 8.0 [发布](https://www.debian.org/News/2016/20160702)，它基于 Debian 8.5 ，是一个面向学校的完整解决方案。*

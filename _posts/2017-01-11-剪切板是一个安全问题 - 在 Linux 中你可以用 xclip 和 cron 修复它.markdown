@@ -7,7 +7,7 @@ tags:	[linuxcn,剪贴板,安全,xclip]
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/26/130300crouoxbhxoob99xw.png)
+![](/Asserts/Images/album/201701/26/130300crouoxbhxoob99xw.png)
 
 
 **更新：我原文推荐的是 xsel，但几个用户报告说它禁用了他们的声音。这对我来说不是问题，但我发现了另一种方式（使用 [xclip](https://github.com/astrand/xclip) ）来实现同样的目标，这样应该就能回避这个问题。文章已更新，切换到了 xclip。**

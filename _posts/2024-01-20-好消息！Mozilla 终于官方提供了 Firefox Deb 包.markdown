@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/26/150752nwf3fimewwilyfii.jpg)
+![](/Asserts/Images/album/202401/26/150752nwf3fimewwilyfii.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,Firefox]
 ### Firefox 的 .deb 包：有何新特性？
 
 
-![](/Asserts/Images//attachment/album/202401/26/150820xrbuoau0k3ebrwzo.png)
+![](/Asserts/Images/album/202401/26/150820xrbuoau0k3ebrwzo.png)
 
 
 这个全新的 Linux 包由 Mozilla 从头打造，为用户带来了**一个原生的 .deb 包**，类似于 Snap 或 Flatpak，直接开箱即用。
@@ -152,7 +152,7 @@ sudo apt update && sudo apt install firefox
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/26/150820njb0bcwmktzkwd9r.png)
+![](/Asserts/Images/album/202401/26/150820njb0bcwmktzkwd9r.png)
 
 
 好了，你此时已经成功在 Linux 系统上安装了 Firefox 的官方 .deb 包！
@@ -161,7 +161,7 @@ sudo apt update && sudo apt install firefox
 这就是我之前提到的最后一步，输入 `Y` 后，安装将会继续进行，完成安装后，Firefox 就能在你的系统上看到了。
 
 
-![](/Asserts/Images//attachment/album/202401/26/150821goodottxredtyadd.png)
+![](/Asserts/Images/album/202401/26/150821goodottxredtyadd.png)
 
 
 另外，Firefox 还有**安装各种的语言包**的方式，我强烈建议你读一下 [官方文档](https://support.mozilla.org/en-US/kb/install-firefox-linux)了解详情。

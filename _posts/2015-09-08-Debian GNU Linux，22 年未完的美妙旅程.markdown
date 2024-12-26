@@ -10,7 +10,7 @@ tags:	[linuxcn,Debian]
 在2015年8月16日， Debian项目组庆祝了 Debian 的22周年纪念日；这也是开源世界历史最悠久、热门的发行版之一。 Debian项目于1993年由Ian Murdock创立。彼时，Slackware 作为最早的 Linux 发行版已经名声在外。
 
 
-![Happy 22nd Birthday to Debian](/Asserts/Images//attachment/album/201509/09/090704oxd0wxccdjlxw5cs.png)
+![Happy 22nd Birthday to Debian](/Asserts/Images/album/201509/09/090704oxd0wxccdjlxw5cs.png)
 
 
 *22岁生日快乐! Debian Linux!*
@@ -19,7 +19,7 @@ tags:	[linuxcn,Debian]
 Ian Ashly Murdock， 一个美国职业软件工程师， 在他还是普渡大学的学生时构想出了 Debian 项目的计划。他把这个项目命名为 Debian 是由于这个名字组合了他彼时女友的名字 Debra Lynn 和他自己的名字 Ian。 他之后和 Lynn 结婚并在2008年1月离婚。
 
 
-![Ian Murdock](/Asserts/Images//attachment/album/201509/09/090704m6ymhjv8a66dm3h0.jpg)
+![Ian Murdock](/Asserts/Images/album/201509/09/090704m6ymhjv8a66dm3h0.jpg)
 
 
 *Debian 创始人:Ian Murdock*
@@ -95,7 +95,7 @@ Debian 是一堆Linux 发行版之母。 举几个例子:
 Debian 是世界上最大的非商业 Linux 发行版。它主要是由C编写的(32.1%)， 一并的还有其他70多种语言。
 
 
-![Debian 开发语言贡献表](/Asserts/Images//attachment/album/201509/09/090705zqn8x6sbjx0bvrl0.png)
+![Debian 开发语言贡献表](/Asserts/Images/album/201509/09/090705zqn8x6sbjx0bvrl0.png)
 
 
 *Debian 开发语言贡献表，图片来源: [Xmodulo](http://xmodulo.com/2013/08/interesting-facts-about-debian-linux.html)*

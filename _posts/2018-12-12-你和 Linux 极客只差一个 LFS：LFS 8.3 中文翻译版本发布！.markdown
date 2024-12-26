@@ -7,7 +7,7 @@ tags:	[linuxcn,LFS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/23/093951rv6hy3d1xhhedvxd.jpg)
+![](/Asserts/Images/album/201704/23/093951rv6hy3d1xhhedvxd.jpg)
 
 
 很多同学都已经学习了 Linux ，可能已经在自己的机器上安装过 Linux，甚至都能搭建个简单的个人博客，也有可能编译部署过邮件服务器之类的软件，可是感觉仍然对 Linux 有点摸不着，颇有隔靴挠痒的感受。

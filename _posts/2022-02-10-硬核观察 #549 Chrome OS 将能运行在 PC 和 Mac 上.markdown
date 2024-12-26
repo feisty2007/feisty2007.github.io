@@ -7,10 +7,10 @@ tags:	[linuxcn,ChromeOS,Android,高性能计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/16/142912uy8egg83u9ym7agi.jpg)
+![](/Asserts/Images/album/202202/16/142912uy8egg83u9ym7agi.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/16/142918j0b06ii8jyb04zy9.jpg)
+![](/Asserts/Images/album/202202/16/142918j0b06ii8jyb04zy9.jpg)
 
 
 ### Chrome OS 将能运行在 PC 和 Mac 上
@@ -27,7 +27,7 @@ tags:	[linuxcn,ChromeOS,Android,高性能计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/16/142926w2rr7278nw1g7gu4.jpg)
+![](/Asserts/Images/album/202202/16/142926w2rr7278nw1g7gu4.jpg)
 
 
 ### Android 13 能在 Pixel 6 手机上运行 Windows 和 Linux
@@ -44,7 +44,7 @@ Google 最近开放测试的 [Android 13](https://www.cnx-software.com/2022/02/1
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/16/142941x9lrdqljxxxxjvl9.jpg)
+![](/Asserts/Images/album/202202/16/142941x9lrdqljxxxxjvl9.jpg)
 
 
 ### 麻省理工为高性能计算机开发了新的编程语言

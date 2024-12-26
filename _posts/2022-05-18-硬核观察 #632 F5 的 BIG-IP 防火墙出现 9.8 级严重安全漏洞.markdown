@@ -7,10 +7,10 @@ tags:	[linuxcn,安全漏洞,勒索攻击,SteamOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/10/191929h0kmdpf2p0wjzd00.jpg)
+![](/Asserts/Images/album/202205/10/191929h0kmdpf2p0wjzd00.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/10/191938x20z5uwsls1h8lrz.jpg)
+![](/Asserts/Images/album/202205/10/191938x20z5uwsls1h8lrz.jpg)
 
 
 ### F5 的 BIG-IP 防火墙出现 9.8 级严重安全漏洞
@@ -35,7 +35,7 @@ tags:	[linuxcn,安全漏洞,勒索攻击,SteamOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/10/191948bp78pip7xip47iip.jpg)
+![](/Asserts/Images/album/202205/10/191948bp78pip7xip47iip.jpg)
 
 
 ### 美国林肯学院因勒索软件攻击而永久关闭
@@ -60,7 +60,7 @@ tags:	[linuxcn,安全漏洞,勒索攻击,SteamOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/10/192000nb62iief4i5f7bbv.jpg)
+![](/Asserts/Images/album/202205/10/192000nb62iief4i5f7bbv.jpg)
 
 
 ### SteamOS 开源分支发布首个版本

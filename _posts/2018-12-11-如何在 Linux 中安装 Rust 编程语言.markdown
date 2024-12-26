@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/29/112734kg41ft1f5o1ffz05.jpg)
+![](/Asserts/Images/album/201812/29/112734kg41ft1f5o1ffz05.jpg)
 
 
 Rust 通常被称为 rust-lang。Rust 是一个由 Mozilla Research 赞助的通用的、多范式、现代的、跨平台和开源系统编程语言。

@@ -7,10 +7,10 @@ tags:	[linuxcn,Photoshop,颜色,Fedora,M1]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/29/192203pvr9ltn47lyn1dzt.jpg)
+![](/Asserts/Images/album/202210/29/192203pvr9ltn47lyn1dzt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/29/192247oc26k4u4jkurczkn.jpg)
+![](/Asserts/Images/album/202210/29/192247oc26k4u4jkurczkn.jpg)
 
 
 ### 你现在需要付费在 Photoshop 中使用某些颜色
@@ -35,7 +35,7 @@ tags:	[linuxcn,Photoshop,颜色,Fedora,M1]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/29/192338mg7qm7rirquttuku.jpg)
+![](/Asserts/Images/album/202210/29/192338mg7qm7rirquttuku.jpg)
 
 
 ### 为修复高危漏洞，Fedora 37 推迟发布
@@ -60,7 +60,7 @@ Fedora Linux 37 的发布日期从原计划的 10 月底推迟到 11 月 15 日�
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/29/192349f4gwasxis4yo5z5i.jpg)
+![](/Asserts/Images/album/202210/29/192349f4gwasxis4yo5z5i.jpg)
 
 
 ### Linux 6.2 主线内核将支持苹果 M1 系列芯片

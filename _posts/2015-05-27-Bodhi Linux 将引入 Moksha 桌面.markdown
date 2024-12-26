@@ -7,7 +7,7 @@ tags:	[linuxcn,Bodhi,Moksha]
 ---
 
 
-![](/Asserts/Images//attachment/album/201505/25/234452uvqgd4g83v6brd83.jpg)
+![](/Asserts/Images/album/201505/25/234452uvqgd4g83v6brd83.jpg)
 
 
 基于Ubuntu的轻量级Linux发行版[Bodhi Linux](http://www.bodhilinux.com/)致力于构建其自家的桌面环境，这个全新桌面环境被称之为Moksha（梵文意为‘完全自由’）。Moksha将替换其原来的[Enlightenment桌面环境](https://www.enlightenment.org/)。

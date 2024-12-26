@@ -7,10 +7,10 @@ tags:	[linuxcn,编程,红帽,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/04/182912jasor2ar2cd7orno.jpg)
+![](/Asserts/Images/album/202306/04/182912jasor2ar2cd7orno.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/04/182924nppl7ejok758p7a7.jpg)
+![](/Asserts/Images/album/202306/04/182924nppl7ejok758p7a7.jpg)
 
 
 ### 这是我们所知的计算机编程的终结
@@ -35,7 +35,7 @@ tags:	[linuxcn,编程,红帽,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/04/182950yg6rr63436h6h63r.jpg)
+![](/Asserts/Images/album/202306/04/182950yg6rr63436h6h63r.jpg)
 
 
 ### 世界上最受欢迎的在线编程课向人工智能寻求帮助
@@ -60,7 +60,7 @@ tags:	[linuxcn,编程,红帽,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/04/183005f0iseu60su6intx0.jpg)
+![](/Asserts/Images/album/202306/04/183005f0iseu60su6intx0.jpg)
 
 
 ### 红帽放弃维护 LibreOffice RPM 包

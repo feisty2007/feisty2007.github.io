@@ -7,7 +7,7 @@ tags:	[linuxcn,emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/21/204550do9qxij89ztwiojw.jpg)
+![](/Asserts/Images/album/201903/21/204550do9qxij89ztwiojw.jpg)
 
 
 [Trần Xuân Trường](https://truongtx.me/about.html) 写的 [tmtxt-dired-async](https://truongtx.me/tmtxt-dired-async.html) 是一个不为人知的 Emacs 包，它可以扩展 dired（Emacs 内置的文件管理器），使之可以异步地运行 `rsync` 和其他命令 (例如压缩、解压缩和下载）。
@@ -22,13 +22,13 @@ tags:	[linuxcn,emacs]
 例如这里将 arduino 1.9 的 beta 存档同步到另一个目录中：
 
 
-![](/Asserts/Images//attachment/album/201903/21/204741q5xxlrx2xz28jh2h.png)
+![](/Asserts/Images/album/201903/21/204741q5xxlrx2xz28jh2h.png)
 
 
 整个进度完成后，底部的窗口会在 5 秒后自动退出。下面是异步解压上面的 arduino 存档后出现的另一个会话：
 
 
-![](/Asserts/Images//attachment/album/201903/21/204744yphj8jdpj8zfdp77.png)
+![](/Asserts/Images/album/201903/21/204744yphj8jdpj8zfdp77.png)
 
 
 这个包进一步增加了我 dired 配置的实用性。

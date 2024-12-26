@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/03/234107htpn7qntr02q6qos.jpg)
+![](/Asserts/Images/album/201802/03/234107htpn7qntr02q6qos.jpg)
 
 
 在我刚开始学习 Kubernetes（大约是一年半以前吧？）时，我真的不明白为什么应该去关注它。

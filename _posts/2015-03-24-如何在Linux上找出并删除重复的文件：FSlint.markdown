@@ -93,7 +93,7 @@ $ fslint-gui
 默认情况下，它会自动选中Duplicate窗格，并以你的家目录作为搜索路径。你要做的就是点击Find按钮，FSlint会自动在你的家目录下找出重复文件列表。
 
 
-![Delete Duplicate files with Fslint](/Asserts/Images//attachment/album/201503/29/201315q2phszph3ip2spsz.png)
+![Delete Duplicate files with Fslint](/Asserts/Images/album/201503/29/201315q2phszph3ip2spsz.png)
 
 
 点击按钮来删除任何你要删除的文件，并且可以双击预览。
@@ -133,7 +133,7 @@ to get a total of the wastage due to duplicates.
 
 ```
 
-![fslint help](/Asserts/Images//attachment/album/201503/29/201317rhoizhd4zozqam80.png)
+![fslint help](/Asserts/Images/album/201503/29/201317rhoizhd4zozqam80.png)
 
 
 

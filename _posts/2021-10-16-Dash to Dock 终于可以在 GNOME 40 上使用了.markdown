@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/21/110240pqgbhgeb0wftoh0a.png)
+![](/Asserts/Images/album/202110/21/110240pqgbhgeb0wftoh0a.png)
 
 
 Dash to Dock 是多年来最 [有用的 GNOME 扩展](https://itsfoss.com/best-gnome-extensions/) 之一。随着 [GNOME 40](https://news.itsfoss.com/gnome-40-release/) 的引入，很多人都没能让这个扩展在它上面工作起来。
@@ -33,7 +33,7 @@ Dash to Dock 是多年来最 [有用的 GNOME 扩展](https://itsfoss.com/best-g
 ### Dash to Dock v70 放弃了对旧的 GNOME Shell 的支持
 
 
-![](/Asserts/Images//attachment/album/202110/21/110241opnfd0tffnvyvizn.jpg)
+![](/Asserts/Images/album/202110/21/110241opnfd0tffnvyvizn.jpg)
 
 
 Dash to Dock v70，对 GNOME 40 和特定的 3.34 版的 GNOME Shell 提供了支持。
@@ -51,7 +51,7 @@ Dash to Dock v70，对 GNOME 40 和特定的 3.34 版的 GNOME Shell 提供了�
 ### 安装 Dash to Dock 的方法
 
 
-![](/Asserts/Images//attachment/album/202110/21/110243prk7zaec954cuzau.png)
+![](/Asserts/Images/album/202110/21/110243prk7zaec954cuzau.png)
 
 
 你可以从 [GNOME 扩展网站](https://extensions.gnome.org/extension/307/dash-to-dock/) 中通过简单的切换按钮来安装这个扩展。如果你是新手，我建议通过我们的 [GNOME 扩展安装指南](https://itsfoss.com/gnome-shell-extensions/) 来开始。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Seahorse,密码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/15/120409ltfmw33c5xpw5bcx.jpg)
+![](/Asserts/Images/album/202110/15/120409ltfmw33c5xpw5bcx.jpg)
 
 
 我们经常倾向于忽视许多默认/预装的应用，尤其是在内置了大量工具和实用程序时。
@@ -27,7 +27,7 @@ tags:	[linuxcn,Seahorse,密码]
 ### Seahorse：GNOME 的密码及加密密钥管理器
 
 
-![](/Asserts/Images//attachment/album/202110/15/120415gso60srj5r3esedj.png)
+![](/Asserts/Images/album/202110/15/120415gso60srj5r3esedj.png)
 
 
 主要来说，Seahorse 是一个预装在 GNOME 桌面的应用，并为其量身定做。
@@ -51,7 +51,7 @@ tags:	[linuxcn,Seahorse,密码]
 虽然你可以很容易地把它作为一个本地（离线）密码管理器，但在处理加密密钥时，你也可以用 Seahorse 做一些事情来加强你的安全管理。
 
 
-![](/Asserts/Images//attachment/album/202110/15/120416m7fj3jjoadrl8kwd.png)
+![](/Asserts/Images/album/202110/15/120416m7fj3jjoadrl8kwd.png)
 
 
 一些关键的亮点是:
@@ -68,7 +68,7 @@ tags:	[linuxcn,Seahorse,密码]
 * 能够查找/复制 VPN 密码
 
 
-![](/Asserts/Images//attachment/album/202110/15/120416vwkpmwm9pfgrkg2c.png)
+![](/Asserts/Images/album/202110/15/120416vwkpmwm9pfgrkg2c.png)
 
 
 ### 在 Linux 中安装 Seahorse
@@ -80,7 +80,7 @@ tags:	[linuxcn,Seahorse,密码]
 在其他情况下，你可以在软件中心搜索到它。根据我的快速测试，它在 KDE、LXQt 和不同的桌面环境下应该可以正常工作。
 
 
-![](/Asserts/Images//attachment/album/202110/15/120417feqe2qushuu0blzz.png)
+![](/Asserts/Images/album/202110/15/120417feqe2qushuu0blzz.png)
 
 
 此外，你可以找到它的 [Flatpak 包](https://www.flathub.org/apps/details/org.gnome.seahorse.Application)。所以，无论你使用的是哪种 Linux 发行版，都可以安装 Seahorse。

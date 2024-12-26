@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,发展]
 **不论从哪种评价指标（程序开发人员数量、更新次数以及每小时变化次数）看,都可看出这个开源的操作系统项目在稳定地成长。**
 
 
-**![The number of developers creating Linux has steadily increased from version 3.0, released July 21, 2011, to version 3.10, released June 30, 2013.](/Asserts/Images//attachment/album/201309/25/1711086c0tooh0iooou70s.png)**
+**![The number of developers creating Linux has steadily increased from version 3.0, released July 21, 2011, to version 3.10, released June 30, 2013.](/Asserts/Images/album/201309/25/1711086c0tooh0iooou70s.png)**
 
 
  （数据来自Linux 基金会; 图表由 Stephen Shankland/CNET 提供）
@@ -28,7 +28,7 @@ tags:	[linuxcn,Linux,发展]
 研究总结指出，“越来越多的开发人员和公司参与到开发过程中，使得变更的速度持续加快，就目前来看，开发速度毫不费力可以达到更快。”
 
 
-![Linux is a mammoth project, and it's getting bigger as it spreads to new hardware. It's grown to nearly 17 million lines of code with version 3.10.](/Asserts/Images//attachment/album/201309/25/171109juqeexfywfdfqseq.png)
+![Linux is a mammoth project, and it's getting bigger as it spreads to new hardware. It's grown to nearly 17 million lines of code with version 3.10.](/Asserts/Images/album/201309/25/171109juqeexfywfdfqseq.png)
 
 
  (数据来自Linux 基金会; 图表由 Stephen Shankland/CNET 提供)
@@ -46,7 +46,7 @@ tags:	[linuxcn,Linux,发展]
 Linux自己本身可能是这样一个广泛分布项目最好的样例。2013年6月30日发行的最新3.10版本内核，接受了来自243家公司的1392个开发人员的更新提交，这一数据超过了2011年7月21日发布3.0版本时的191家公司的1131个开发人员数。
 
 
-![The Linux Foundation listed the top companies that contribute to the Linux kernel.](/Asserts/Images//attachment/album/201309/25/171110aghby4vh3jbpzvln.png) 
+![The Linux Foundation listed the top companies that contribute to the Linux kernel.](/Asserts/Images/album/201309/25/171110aghby4vh3jbpzvln.png) 
 
 
 (来源: Linux 基金会)
@@ -64,7 +64,7 @@ Linux自己本身可能是这样一个广泛分布项目最好的样例。2013�
 报告还指出，“在任何指定的开发周期中，大约1/3的开发人员都是贡献一个补丁。从2.6.11发行版开始，前十个开发人员贡献了30420个更新（占总数的8.4%），前三十个开发人员贡献了超过总数约18%的部分。”
 
 
-![Two years ago, 191 companies contributed to the creation of Linux. Now it's up to 243, though the peak was 298 companies with version 3.6 in September 2012.](/Asserts/Images//attachment/album/201309/25/1711112zdvziz5ffzpatdc.png)
+![Two years ago, 191 companies contributed to the creation of Linux. Now it's up to 243, though the peak was 298 companies with version 3.6 in September 2012.](/Asserts/Images/album/201309/25/1711112zdvziz5ffzpatdc.png)
 
 
  (来源: 数据来自Linux 基金会，图表由 Stephen Shankland/CNET 提供)
@@ -79,7 +79,7 @@ Linux自己本身可能是这样一个广泛分布项目最好的样例。2013�
 就被Linux接受的补丁数目来说，前十名的贡献者为 Red Hat(红帽子)、Intel（因特尔）、Texas Instruments(德州仪器)、Linaro、SUSE、IBM、Samsung(三星)、Google、Vision Engraving System 和 Wolfson Microelectronics。其他的开发者中，移动技术公司包括 Texas Instruments,Samsung,Google和Qualcomm，在去年实现的64位ARM处理器的支持中扮演了重要的角色，而且也使得Google的Andoid团队和其他核心开发人员之间的冲突得到了解决。
 
 
-![With each passing hour, an average of 9 updates were applied to version 3.10 of the Linux kernel.](/Asserts/Images//attachment/album/201309/25/171112htxxbr00r7xtbh7t.png)
+![With each passing hour, an average of 9 updates were applied to version 3.10 of the Linux kernel.](/Asserts/Images/album/201309/25/171112htxxbr00r7xtbh7t.png)
 
 
  (来源: 数据来自Linux 基金会，图表由 Stephen Shankland/CNET 提供)
@@ -94,7 +94,7 @@ Linux自己本身可能是这样一个广泛分布项目最好的样例。2013�
 尽管新的内核大约每两个月诞生一次，还是有一些能够得到2年的长期bug和安全问题的修复，在最近两年中，3.0、3.4和3.10版本被作为主要的商业产品的基础内核版本。
 
 
-![The total number of changes accepted into each version of the Linux kernel continues to grow.](/Asserts/Images//attachment/album/201309/25/171113o99ft7znko0w7p3u.png)
+![The total number of changes accepted into each version of the Linux kernel continues to grow.](/Asserts/Images/album/201309/25/171113o99ft7znko0w7p3u.png)
 
 
  (来源: 数据来自Linux 基金会，图表由 Stephen Shankland/CNET 提供)

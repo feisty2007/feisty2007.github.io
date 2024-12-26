@@ -7,7 +7,7 @@ tags:	[linuxcn,交换分区,swap]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/30/061909cfq48cj311388u3f.jpg)
+![](/Asserts/Images/album/201706/30/061909cfq48cj311388u3f.jpg)
 
 
 几天前我们写了一篇关于在 Linux 中 3 种创建交换文件的方法，它们是常见的方法，但是需要人工操作。

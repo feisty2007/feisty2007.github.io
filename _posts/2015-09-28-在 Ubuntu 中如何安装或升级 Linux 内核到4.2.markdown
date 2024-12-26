@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201509/03/000137xyk4cyoskka030lo.png)
+![](/Asserts/Images/album/201509/03/000137xyk4cyoskka030lo.png)
 
 
 Linux 内核 4.2已经发布了。Linus Torvalds 在 [lkml.org](https://lkml.org/lkml/2015/8/30/96) 上写到:

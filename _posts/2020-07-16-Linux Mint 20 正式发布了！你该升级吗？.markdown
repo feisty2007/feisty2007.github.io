@@ -7,7 +7,7 @@ tags:	[linuxcn,Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/03/083110avnb4rwi0rwzh56r.jpg)
+![](/Asserts/Images/album/202007/03/083110avnb4rwi0rwzh56r.jpg)
 
 
 Linux Mint 20 “Ulyana” 终于发布了，可以下载了。
@@ -47,28 +47,28 @@ Linux Mint 19 基于 Ubuntu 18.04 LTS，而 [Mint 20](/article-12297-1.html) 则
 以下是 Linux Mint 20 Cinnamon 版的一些截图。
 
 
-![Mint 20 Welcome Screen](/Asserts/Images//attachment/album/202007/03/084236yyomwxowocbo9jjc.png)
+![Mint 20 Welcome Screen](/Asserts/Images/album/202007/03/084236yyomwxowocbo9jjc.png)
 
 
-![Mint 20 Color Themes](/Asserts/Images//attachment/album/202007/03/084241x6p7zpl7x1xzhlu9.png)
+![Mint 20 Color Themes](/Asserts/Images/album/202007/03/084241x6p7zpl7x1xzhlu9.png)
 
 
-![Mint 20 Nemo File Manager](/Asserts/Images//attachment/album/202007/03/084244dz7zy9uyuxxu4gb9.png)
+![Mint 20 Nemo File Manager](/Asserts/Images/album/202007/03/084244dz7zy9uyuxxu4gb9.png)
 
 
-![Mint 20 Nemo File Manager Blue Color Theme](/Asserts/Images//attachment/album/202007/03/084247qzn8xj9uiw5q91jl.png)
+![Mint 20 Nemo File Manager Blue Color Theme](/Asserts/Images/album/202007/03/084247qzn8xj9uiw5q91jl.png)
 
 
-![Mint 20 Wallpapers](/Asserts/Images//attachment/album/202007/03/084254kppsdgq1h74h0hwp.png)
+![Mint 20 Wallpapers](/Asserts/Images/album/202007/03/084254kppsdgq1h74h0hwp.png)
 
 
-![Mint 20 Redesigned Gdebi Installer](/Asserts/Images//attachment/album/202007/03/084308d1ops0lg8cbyryo5.png)
+![Mint 20 Redesigned Gdebi Installer](/Asserts/Images/album/202007/03/084308d1ops0lg8cbyryo5.png)
 
 
-![Mint 20 Warpinator Tool for Sharing Files on Local Network](/Asserts/Images//attachment/album/202007/03/084308scwn582t36cogeoq.png)
+![Mint 20 Warpinator Tool for Sharing Files on Local Network](/Asserts/Images/album/202007/03/084308scwn582t36cogeoq.png)
 
 
-![Mint 20 Terminal](/Asserts/Images//attachment/album/202007/03/084312ap1v4z44zei3h3eh.png)
+![Mint 20 Terminal](/Asserts/Images/album/202007/03/084312ap1v4z44zei3h3eh.png)
 
 
 ### 升级到 Linux Mint 20：你需要知道什么？

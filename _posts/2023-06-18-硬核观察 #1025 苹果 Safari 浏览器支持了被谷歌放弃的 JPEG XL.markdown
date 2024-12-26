@@ -7,10 +7,10 @@ tags:	[linuxcn,JPEG XL,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/07/164501ywsznlcl0e2gkgpe.jpg)
+![](/Asserts/Images/album/202306/07/164501ywsznlcl0e2gkgpe.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/07/164512jasca06vm6l56qwq.jpg)
+![](/Asserts/Images/album/202306/07/164512jasca06vm6l56qwq.jpg)
 
 
 ### 苹果 Safari 浏览器支持了被谷歌放弃的 JPEG XL
@@ -35,7 +35,7 @@ tags:	[linuxcn,JPEG XL,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/07/164527x5oyw3qgig3weq8e.jpg)
+![](/Asserts/Images/album/202306/07/164527x5oyw3qgig3weq8e.jpg)
 
 
 ### CNET 修订其人工智能政策并更新过去的文章
@@ -60,7 +60,7 @@ tags:	[linuxcn,JPEG XL,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/07/164547jqgh1jh44btdgua2.jpg)
+![](/Asserts/Images/album/202306/07/164547jqgh1jh44btdgua2.jpg)
 
 
 ### 利用人工智能生成动漫二维码

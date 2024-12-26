@@ -7,7 +7,7 @@ tags:	[linuxcn,DAISY,视觉,盲人]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/19/233559bt5bebqbb5w15xqt.png)
+![](/Asserts/Images/album/201609/19/233559bt5bebqbb5w15xqt.png)
 
 
 *图片: 由Kate Ter Haar提供图片。 opensource.com 后期修饰。 CC BY-SA 2.0*

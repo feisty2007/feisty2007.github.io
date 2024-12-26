@@ -15,7 +15,7 @@ tags:	[linuxcn,RHEL,RHEL 9]
 > 
 
 
-![红帽 9](/Asserts/Images//attachment/album/202205/15/083854uk3liylyhokl5oz2.jpg)
+![红帽 9](/Asserts/Images/album/202205/15/083854uk3liylyhokl5oz2.jpg)
 
 
 红帽企业 Linux（RHEL）无疑是开源企业生态系统中的一个重要角色。

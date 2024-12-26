@@ -7,10 +7,10 @@ tags:	[linuxcn,Twitter,勒索软件,云安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/12/141552bebnc7yr2irlei7l.jpg)
+![](/Asserts/Images/album/202303/12/141552bebnc7yr2irlei7l.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/12/141559y63zk033y76ul6lh.jpg)
+![](/Asserts/Images/album/202303/12/141559y63zk033y76ul6lh.jpg)
 
 
 ### 勒索软件正在从 Windows 转向 Linux
@@ -35,7 +35,7 @@ tags:	[linuxcn,Twitter,勒索软件,云安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/12/141615qpb8b65cccpb0z0m.jpg)
+![](/Asserts/Images/album/202303/12/141615qpb8b65cccpb0z0m.jpg)
 
 
 ### 美国计划制定更多云安全法规
@@ -60,7 +60,7 @@ tags:	[linuxcn,Twitter,勒索软件,云安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/12/141634ucco78qlyk4r847c.jpg)
+![](/Asserts/Images/album/202303/12/141634ucco78qlyk4r847c.jpg)
 
 
 ### Meta 试水开发一个去中心的 Twitter

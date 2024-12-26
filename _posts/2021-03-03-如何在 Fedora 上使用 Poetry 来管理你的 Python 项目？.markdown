@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![Python & Poetry on Fedora](/Asserts/Images//attachment/album/202103/14/065917wquzrh2orvvug4mn.jpg)
+![Python & Poetry on Fedora](/Asserts/Images/album/202103/14/065917wquzrh2orvvug4mn.jpg)
 
 
 Python 开发人员经常创建一个新的虚拟环境来分离项目依赖，然后用 `pip`、`pipenv` 等工具来管理它们。Poetry 是一个简化 Python 中依赖管理和打包的工具。这篇文章将向你展示如何在 Fedora 上使用 Poetry 来管理你的 Python 项目。

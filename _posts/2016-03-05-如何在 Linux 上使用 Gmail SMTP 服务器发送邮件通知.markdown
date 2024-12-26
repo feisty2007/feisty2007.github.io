@@ -10,7 +10,7 @@ tags:	[linuxcn,SMTP,Gmail,邮件]
 假定你想配置一个 Linux 应用，用于从你的服务器或桌面客户端发送邮件信息。邮件信息可能是邮件简报、状态更新（如 [Cachet](http://xmodulo.com/setup-system-status-page.html)）、监控警报（如 [Monit](http://xmodulo.com/server-monitoring-system-monit.html)）、磁盘时间（如 [RAID mdadm](http://xmodulo.com/create-software-raid1-array-mdadm-linux.html)）等等。当你要建立自己的 [邮件发送服务器](http://xmodulo.com/mail-server-ubuntu-debian.html) 传递信息时 ，你可以替代使用一个免费的公共 SMTP 服务器，从而避免遭受维护之苦。
 
 
-![](/Asserts/Images//attachment/album/201603/07/084525trmtmpjrl6pullar.jpg)
+![](/Asserts/Images/album/201603/07/084525trmtmpjrl6pullar.jpg)
 
 
 谷歌的 Gmail 服务就是最可靠的 **免费 SMTP 服务器** 之一。想要从应用中发送邮件通知，你仅需在应用中添加 Gmail 的 SMTP 服务器地址和你的身份凭证即可。
@@ -107,7 +107,7 @@ $ echo "This is an email body." | mutt -s "This is an email subject" alice@yahoo
 
 ```
 
-![](/Asserts/Images//attachment/album/201603/07/084528gz0zrkvaev85re5f.jpg)
+![](/Asserts/Images/album/201603/07/084528gz0zrkvaev85re5f.jpg)
 
 
 使用 Gmail SMTP 服务器意味着邮件将显示是从你 Gmail 账户发出的。换句话说，收件人将视你的 Gmail 地址为发件人地址。如果你想要使用自己的域名作为邮件发送方，你需要使用 Gmail SMTP 转发服务。
@@ -199,7 +199,7 @@ $ sudo systemctl start reboot-task
 从现在起，在每次 VPS 重启时，你将会收到一封通知邮件。
 
 
-![](/Asserts/Images//attachment/album/201603/07/084528jsw3hfarywrase0m.jpg)
+![](/Asserts/Images/album/201603/07/084528jsw3hfarywrase0m.jpg)
 
 
 ### 通过服务器使用监控发送邮件通知
@@ -234,7 +234,7 @@ set alert alice@yahoo.com
 这是一个因为 CPU 负载超载而由 Monit 发送的邮件通知的例子。
 
 
-![](/Asserts/Images//attachment/album/201603/07/084528byux17yuzvzyjkap.jpg)
+![](/Asserts/Images/album/201603/07/084528byux17yuzvzyjkap.jpg)
 
 
 ### 总结

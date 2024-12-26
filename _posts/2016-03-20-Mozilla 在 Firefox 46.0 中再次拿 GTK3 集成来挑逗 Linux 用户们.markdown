@@ -18,7 +18,7 @@ tags:	[linuxcn,Firefox,GTK3]
 在最新的 Firefox 45.0 中，[对 GTK3 的集成再次以失败而告终](http://news.softpedia.com/news/mozilla-firefox-45-0-now-available-for-download-linux-gtk3-integration-disabled-501496.shtml)。而那些勇于尝试的用户可以在 Firefox 46.0 beta 版本中再当回小白鼠了。
 
 
-![](/Asserts/Images//attachment/album/201603/13/173204jgu3213fgx9b78fr.jpg)
+![](/Asserts/Images/album/201603/13/173204jgu3213fgx9b78fr.jpg)
 
 
 是的，你没看错， Mozilla 刚刚放出了即将在 2016/4/19 发布的 Firefox 46.0 的第一个 beta 测试版，支持全平台，包括 GNU/Linux、Mac OS X 和微软 Windows。
@@ -39,7 +39,7 @@ GNU/Linux 系统上的 Mozilla Firefox 的 GTK3 支持是这些日子以来最�
 也许你还不知道为何需要 GTK3 支持，那么我来告诉你。GTK3 集成可以带来更丰富的主题支持、[一些我们之前提到的功能](http://news.softpedia.com/news/mozilla-pushes-firefox-45-into-beta-promises-gtk3-integration-for-linux-again-499729.shtml)、高分辨率组件绘制、更少的 X11 依赖、对输入设备的更好支持等等。
 
 
-![GTK3 集成会带来更丰富的主题支持](/Asserts/Images//attachment/album/201603/13/173206evz0lrb0r5lr5i0b.jpg)
+![GTK3 集成会带来更丰富的主题支持](/Asserts/Images/album/201603/13/173206evz0lrb0r5lr5i0b.jpg)
 
 
 我们查看了 Mozlla Firefox 的 Linux 版本中的 GTK3 集成的进度，并且根据 2016/3/2 Firefox 发布主管和 Debian/Ubuntu 开发者 Sylvestre Ledru 的[说明](https://bugzilla.mozilla.org/show_bug.cgi?id=1186003#c32)来看，GTK3 事实上已经进入了 Firefox 46.0 中了。祝一切顺利吧！

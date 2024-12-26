@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice,Flatpak]
 ---
 
 
-![LibreOffice on Flathub](/Asserts/Images//attachment/album/201712/13/153857yzradgfhgdaitvis.jpg)
+![LibreOffice on Flathub](/Asserts/Images/album/201712/13/153857yzradgfhgdaitvis.jpg)
 
 
 
@@ -57,7 +57,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 这就行了。只需注销并重新登录（以便 Ubuntu Software 刷新其缓存），之后你应该能够通过 Ubuntu Software 看到 Flathub 上的任何 Flatpak 程序了。
 
 
-![](/Asserts/Images//attachment/album/201712/13/153859st5v5s54tslrttcx.png)
+![](/Asserts/Images/album/201712/13/153859st5v5s54tslrttcx.png)
 
 
 *Fedora、Arch 和 Linux Mint 18.3 用户已经安装了 Flatpak，随时可以开箱即用。Mint 甚至预启用了 Flathub remote。*

@@ -7,7 +7,7 @@ tags:	[linuxcn,GIMP,安装]
 ---
 
 
-**![](/Asserts/Images//attachment/album/201409/09/160745spg5lpk7ffgrcgg9.png)**
+**![](/Asserts/Images/album/201409/09/160745spg5lpk7ffgrcgg9.png)**
 
 
 **GIMP是深受欢迎的开源Photoshop替代软件，它的[新版本](http://www.omgubuntu.co.uk/2012/05/gimp-2-8-released)现在可以下载了。**

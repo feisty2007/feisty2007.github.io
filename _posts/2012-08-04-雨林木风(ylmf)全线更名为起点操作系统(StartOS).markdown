@@ -16,4 +16,4 @@ tags:	[linuxcn,雨林木风,更名,起点操作系统,StartOS]
 不过就起点操作系统来说，我们看到新网站做的很不错，希望改名也能带来新的动态，在开源操作系统方面继续发展。
 
 
-![](/Asserts/Images//attachment/album/201208/07/194851x3dxl16oanao9za3.jpg)
+![](/Asserts/Images/album/201208/07/194851x3dxl16oanao9za3.jpg)

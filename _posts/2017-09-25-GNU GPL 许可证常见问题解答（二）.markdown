@@ -7,7 +7,7 @@ tags:	[linuxcn,GPL,许可证]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/03/122923n2n20eonjsq2gh2o.png)
+![](/Asserts/Images/album/201709/03/122923n2n20eonjsq2gh2o.png)
 
 
 本文由高级咨询师薛亮据自由软件基金会（FSF）的[英文原文](https://www.gnu.org/licenses/gpl-faq.html)翻译而成，这篇常见问题解答澄清了在使用 GNU 许可证中遇到许多问题，对于企业和软件开发者在实际应用许可证和解决许可证问题时具有很强的实践指导意义。

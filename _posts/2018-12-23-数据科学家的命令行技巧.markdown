@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行,数据科学]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/13/221149dirhh8vthq2vll9j.png)
+![](/Asserts/Images/album/201812/13/221149dirhh8vthq2vll9j.png)
 
 
 对于许多数据科学家来说，数据操作从始至终就是 Pandas 或 Tidyverse。从理论上讲，这样做没有任何问题。毕竟，这就是这些工具存在的原因。然而，对于像分隔符转换这样的简单任务，这些工具是大材小用了。

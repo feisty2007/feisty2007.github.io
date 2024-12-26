@@ -7,10 +7,10 @@ tags:	[linuxcn,量子计算,AWS,QEMU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/30/151616p96nbsfu2rl3lbdd.jpg)
+![](/Asserts/Images/album/202207/30/151616p96nbsfu2rl3lbdd.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/30/151623hx5e47874qc4qq4t.jpg)
+![](/Asserts/Images/album/202207/30/151623hx5e47874qc4qq4t.jpg)
 
 
 ### 量子计算在 6 分钟内解决了 3854 个变量的宝马优化问题
@@ -35,7 +35,7 @@ tags:	[linuxcn,量子计算,AWS,QEMU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/30/151635xu2bzjlepdzb35n2.jpg)
+![](/Asserts/Images/album/202207/30/151635xu2bzjlepdzb35n2.jpg)
 
 
 ### 亚马逊将关闭其网盘存储服务
@@ -60,7 +60,7 @@ tags:	[linuxcn,量子计算,AWS,QEMU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/30/151649soppe8hr7or1itp7.jpg)
+![](/Asserts/Images/album/202207/30/151649soppe8hr7or1itp7.jpg)
 
 
 ### QEMU 7.1 将带来龙芯架构支持

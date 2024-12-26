@@ -7,7 +7,7 @@ tags:	[linuxcn,记事本,Beaver Notes]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/20/231046ah0ehdhf8x1uqt88.jpg)
+![](/Asserts/Images/album/202309/20/231046ah0ehdhf8x1uqt88.jpg)
 
 
 
@@ -36,7 +36,7 @@ Beaver Notes 是一个**跨平台的开源记事本应用**，它将**笔记数�
 ### Beaver Notes：概况 ⭐
 
 
-![](/Asserts/Images//attachment/album/202309/20/231140x3zeelfte3ean5nr.jpg)
+![](/Asserts/Images/album/202309/20/231140x3zeelfte3ean5nr.jpg)
 
 
 Beaver Notes 使用了 **Vue** 和 **JavaScript** 构建，作为一款以隐私为主导的记事本应用，它提供了简洁而直观的用户界面。
@@ -74,7 +74,7 @@ Beaver Notes 使用了 **Vue** 和 **JavaScript** 构建，作为一款以隐私
 此外还有一个**侧边栏菜单**，其中**列出了创建/编辑新笔记、浏览所有/归档笔记、切换深色模式和设置菜单等重要选项**。
 
 
-![](/Asserts/Images//attachment/album/202309/20/231140p7mzgp1iw3dwhatz.jpg)
+![](/Asserts/Images/album/202309/20/231140p7mzgp1iw3dwhatz.jpg)
 
 
 随后，我尝试了下 **笔记编辑体验**。
@@ -83,7 +83,7 @@ Beaver Notes 使用了 **Vue** 和 **JavaScript** 构建，作为一款以隐私
 如前所述，**Beaver Notes 支持** [Markdown](https://en.wikipedia.org/wiki/Markdown) 格式，而且我发现使用它编辑非常直观，而且它拥有我期待中的所有常用选项。
 
 
-![](/Asserts/Images//attachment/album/202309/20/231140s4uc6ebyxpxnm4uy.jpg)
+![](/Asserts/Images/album/202309/20/231140s4uc6ebyxpxnm4uy.jpg)
 
 
 
@@ -105,13 +105,13 @@ Beaver Notes 使用了 **Vue** 和 **JavaScript** 构建，作为一款以隐私
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/20/231140jr3vo7nlmngsru73.jpg)
+![](/Asserts/Images/album/202309/20/231140jr3vo7nlmngsru73.jpg)
 
 
 另外一个吸引我眼球的功能是 “<ruby> 标题树 <rt>  Headings Tree </rt></ruby>” 特性。这使得在大型的，由多个标题组成的笔记中轻松导航成为可能。
 
 
-![](/Asserts/Images//attachment/album/202309/20/231140xsk4nno0zk3okrw9.jpg)
+![](/Asserts/Images/album/202309/20/231140xsk4nno0zk3okrw9.jpg)
 
 
 Beaver Notes 还有一个 **笔记标签系统**，这让你更有效地管理你的笔记。只需要输入 `#` 和标签名，即可创建新的标签。
@@ -120,13 +120,13 @@ Beaver Notes 还有一个 **笔记标签系统**，这让你更有效地管理�
 之后，你可以通过搜索栏邻近的标签排序菜单，或点击主页上的标签进行排序。
 
 
-![](/Asserts/Images//attachment/album/202309/20/231140x3gsk9ykz1ki849i.jpg)
+![](/Asserts/Images/album/202309/20/231140x3gsk9ykz1ki849i.jpg)
 
 
 你还可以 **归档笔记**。我可以将笔记归档而不是删除它，并以后在侧边栏中的 “<ruby> 归档 <rt>  Archive </rt></ruby>” 选项中查看。
 
 
-![](/Asserts/Images//attachment/album/202309/20/231141eq28cgv5xfxg98ng.jpg)
+![](/Asserts/Images/album/202309/20/231141eq28cgv5xfxg98ng.jpg)
 
 
 那如何改变它的外观配置呢？
@@ -138,13 +138,13 @@ Beaver Notes 还有一个 **笔记标签系统**，这让你更有效地管理�
 在这里还可以对数据导出设置密码，同时也能导入笔记。
 
 
-![](/Asserts/Images//attachment/album/202309/20/231141xq5oqcvo34zmoqnu.jpg)
+![](/Asserts/Images/album/202309/20/231141xq5oqcvo34zmoqnu.jpg)
 
 
 最后，还有 “<ruby> 快捷键 <rt>  Shortcuts </rt></ruby>” 菜单，这里列出了在 Beaver Notes 中可用的所有键盘快捷键。
 
 
-![](/Asserts/Images//attachment/album/202309/20/231141nqfxfkwrnhkwto4m.jpg)
+![](/Asserts/Images/album/202309/20/231141nqfxfkwrnhkwto4m.jpg)
 
 
 在我短暂的使用体验中，Beaver Notes 给我留下了深刻的印象，尤其针对不需要进行云同步的情况，这是一个非常理想的记事本应用。

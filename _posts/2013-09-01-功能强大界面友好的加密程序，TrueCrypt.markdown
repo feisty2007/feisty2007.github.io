@@ -51,55 +51,55 @@ TrueCrypt的 **实时动态加密** ，意指：
 * 选中 Create an encrypted file container然后点击Next
 
 
- ![](/Asserts/Images//attachment/album/201309/26/225457w388s8dgzoywrws1.png)
+ ![](/Asserts/Images/album/201309/26/225457w388s8dgzoywrws1.png)
 
 
 * 选中Standard Truecrypt volume 并点击 Next
 
 
-![](/Asserts/Images//attachment/album/201309/26/225459jllgpm7lgtgol7mn.png)
+![](/Asserts/Images/album/201309/26/225459jllgpm7lgtgol7mn.png)
 
 
 点击Select File，在你认为合适的位置新建目录/条目（例如，在Music目录下建立一个123条目），然后点击Next
 
 
-![](/Asserts/Images//attachment/album/201309/26/2255011m3av2n1v96cg999.png)
+![](/Asserts/Images/album/201309/26/2255011m3av2n1v96cg999.png)
 
 
 * 再次点击Next （此时默认选择的加密算法是AES）
 
 
-![](/Asserts/Images//attachment/album/201309/26/225503r29147gmmor91vow.png)
+![](/Asserts/Images/album/201309/26/225503r29147gmmor91vow.png)
 
 
 * 选择大小（例如要建立一个100MB的文件夹，就在输入框中填入100，后面的复选框选中MB）
 
 
-![](/Asserts/Images//attachment/album/201309/26/225505te2wfesy35dje50y.png)
+![](/Asserts/Images/album/201309/26/225505te2wfesy35dje50y.png)
 
 
 * 设置一个密码
 
 
-![](/Asserts/Images//attachment/album/201309/26/225507kn4kf4ng3rkkkkgr.png)
+![](/Asserts/Images/album/201309/26/225507kn4kf4ng3rkkkkgr.png)
 
 
 * 选择一个文件系统类型（例如Linux Ext4)
 
 
-![](/Asserts/Images//attachment/album/201309/26/225509ofezhnkd6euuaeda.png)
+![](/Asserts/Images/album/201309/26/225509ofezhnkd6euuaeda.png)
 
 
 * 选中I will mount the volume only on Linux（这里请根据实际情况选择）
 
 
-![](/Asserts/Images//attachment/album/201309/26/225510k8ki1wqiewcrdk8z.png)
+![](/Asserts/Images/album/201309/26/225510k8ki1wqiewcrdk8z.png)
 
 
 * 接下来，持续猛烈晃动你的鼠标几秒钟（译者注：该步骤用来生成密钥，晃动越无规律时间越长越好），然后点击Format，最后输入刚才设置的密码，整个加密条目的创建过程就完成了。
 
 
-![](/Asserts/Images//attachment/album/201309/26/225512dhdxca46nhddvvhx.png) 
+![](/Asserts/Images/album/201309/26/225512dhdxca46nhddvvhx.png) 
 
 
 ### **使用**
@@ -111,13 +111,13 @@ TrueCrypt的 **实时动态加密** ，意指：
 接下来，用户就可以把这个加密目录当做一个常规目录正常使用，可以复制图像、重命名文件、双击打开图像等等。
 
 
-[![](/Asserts/Images//attachment/album/201309/26/2255135ti5uvwttuktibqk.png)](https://img.linux.net.cn/Asserts/Images//attachment/album/201309/26/2255135ti5uvwttuktibqk.png)
+[![](/Asserts/Images/album/201309/26/2255135ti5uvwttuktibqk.png)](https://img.linux.net.cn/Asserts/Images/album/201309/26/2255135ti5uvwttuktibqk.png)
 
 
 下图中，点击Dismount按钮，就可以卸载该加密文件夹，卸载后刚才挂载的盘符就不见了，同时里面的文件自然也就禁止访问了。
 
 
-[![](/Asserts/Images//attachment/album/201309/26/225516ssr662crys77fxrx.png)](https://img.linux.net.cn/Asserts/Images//attachment/album/201309/26/225516ssr662crys77fxrx.png)
+[![](/Asserts/Images/album/201309/26/225516ssr662crys77fxrx.png)](https://img.linux.net.cn/Asserts/Images/album/201309/26/225516ssr662crys77fxrx.png)
 
 
  

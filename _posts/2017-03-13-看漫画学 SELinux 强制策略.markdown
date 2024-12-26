@@ -7,7 +7,7 @@ tags:	[linuxcn,安全,SELinux]
 ---
 
 
-![SELinux policy guide](/Asserts/Images//attachment/album/201703/22/062657tmm2pfmt6686punq.png "Your visual how-to guide for SELinux policy enforcement")
+![SELinux policy guide](/Asserts/Images/album/201703/22/062657tmm2pfmt6686punq.png "Your visual how-to guide for SELinux policy enforcement")
 
 
 今年是我们一起庆祝 SELinux 纪念日的第十个年头了（LCTT 译者注：本文发表于 2013 年）。真是太难以置信了！SELinux 最初在 Fedora Core 3 中被引入，随后加入了红帽企业版 Linux 4。从来没有使用过 SELinux 的家伙，你可要好好儿找个理由了……
@@ -34,19 +34,19 @@ SElinux 是一个标签型系统。每一个进程都有一个标签。操作系
 想象一下在一个系统里定义客体的类型为猫和狗。猫（CAT）和狗（DOG）都是<ruby> 进程类型 <rp>  （ </rp> <rt>  process type </rt> <rp>  ） </rp></ruby>。
 
 
-![Image showing a cartoon of a cat and dog.](/Asserts/Images//attachment/album/201703/22/062657hmiddihwztkdhmoi.png)
+![Image showing a cartoon of a cat and dog.](/Asserts/Images/album/201703/22/062657hmiddihwztkdhmoi.png)
 
 
 我们有一类希望能与之交互的客体，我们称之为食物。而我希望能够为食物增加类型：`cat_food` （猫的食物）和 `dog_food`（狗的食物）。
 
 
-![Cartoon Cat eating Cat Food and Dog eating Dog Food](/Asserts/Images//attachment/album/201703/22/062657b0yza0y5n2oy0716.png)
+![Cartoon Cat eating Cat Food and Dog eating Dog Food](/Asserts/Images/album/201703/22/062657b0yza0y5n2oy0716.png)
 
 
 作为一个策略制定者，我可以说一只狗有权限去吃狗粮（`dog_chow`），而一只猫有权限去吃猫粮（`cat_chow`）。在 SELinux 中我可以将这条规则写入策略中。
 
 
-![allow cat cat_chow:food eat; allow dog dog_chow:food eat](/Asserts/Images//attachment/album/201703/22/062658sy57lyjjiwa6sjws.png "SELinux rule")
+![allow cat cat_chow:food eat; allow dog dog_chow:food eat](/Asserts/Images/album/201703/22/062658sy57lyjjiwa6sjws.png "SELinux rule")
 
 
 `allow cat cat_chow:food eat;`
@@ -64,19 +64,19 @@ SElinux 是一个标签型系统。每一个进程都有一个标签。操作系
 有了这些规则，内核会允许猫进程去吃打上猫粮标签 `cat_chow` 的食物，允许狗去吃打上狗粮标签 `dog_chow` 的食物。
 
 
-![Cartoon Cat eating Cat Food and Dog eating Dog Food](/Asserts/Images//attachment/album/201703/22/062658zbbbxmdwebhmab5v.png)
+![Cartoon Cat eating Cat Food and Dog eating Dog Food](/Asserts/Images/album/201703/22/062658zbbbxmdwebhmab5v.png)
 
 
 此外，在 SELinux 系统中，由于禁止是默认规则，这意味着，如果狗进程想要去吃猫粮 `cat_chow`，内核会阻止它。
 
 
-![](/Asserts/Images//attachment/album/201703/22/062658e7gedpn7gg448dab.png)
+![](/Asserts/Images/album/201703/22/062658e7gedpn7gg448dab.png)
 
 
 同理，猫也不允许去接触狗粮。
 
 
-![Cartoon cat not allowed to eat dog fooda](/Asserts/Images//attachment/album/201703/22/062659zpiwk3p9wp757559.png "Cartoon cat not allowed to eat dog fooda")
+![Cartoon cat not allowed to eat dog fooda](/Asserts/Images/album/201703/22/062659zpiwk3p9wp757559.png "Cartoon cat not allowed to eat dog fooda")
 
 
 **现实例子**
@@ -94,7 +94,7 @@ SElinux 是一个标签型系统。每一个进程都有一个标签。操作系
 上面我们定义了狗进程和猫进程，但是如果你有多个狗进程：Fido 和 Spot，而你想要阻止 Fido 去吃 Spot 的狗粮 `dog_chow` 怎么办呢?
 
 
-![SELinux rule](/Asserts/Images//attachment/album/201703/22/062659u3sdkpmni8d40psv.png "SELinux rule")
+![SELinux rule](/Asserts/Images/album/201703/22/062659u3sdkpmni8d40psv.png "SELinux rule")
 
 
 一个解决方式是创建大量的新类型，如 `Fido_dog` 和 `Fido_dog_chow`。但是这很快会变得难以驾驭因为所有的狗都有差不多相同的权限。
@@ -103,13 +103,13 @@ SElinux 是一个标签型系统。每一个进程都有一个标签。操作系
 为了解决这个问题我们发明了一种新的强制形式，叫做<ruby> 多类别安全 <rp>  （ </rp> <rt>  Multi Category Security </rt> <rp>  ） </rp></ruby>（MCS）。在 MCS 中，我们在狗进程和狗粮的标签上增加了另外一部分标签。现在我们将狗进程标记为 `dog:random1(Fido)` 和 `dog:random2(Spot)`。
 
 
-![Cartoon of two dogs fido and spot](/Asserts/Images//attachment/album/201703/22/062700le6ybj3yjij61kz1.png)
+![Cartoon of two dogs fido and spot](/Asserts/Images/album/201703/22/062700le6ybj3yjij61kz1.png)
 
 
 我们将狗粮标记为 `dog_chow:random1(Fido)` 和 `dog_chow:random2(Spot)`。
 
 
-![SELinux rule](/Asserts/Images//attachment/album/201703/22/062700e56zebiqghzbdbxa.png "SELinux rule")
+![SELinux rule](/Asserts/Images/album/201703/22/062700e56zebiqghzbdbxa.png "SELinux rule")
 
 
 MCS 规则声明如果类型强制规则被遵守而且该 MCS 随机标签正确匹配，则访问是允许的，否则就会被拒绝。
@@ -118,19 +118,19 @@ MCS 规则声明如果类型强制规则被遵守而且该 MCS 随机标签正�
 Fido (`dog:random1`) 尝试去吃 `cat_chow:food` 被类型强制拒绝了。
 
 
-![Cartoon of Kernel (Penquin) holding leash to prevent Fido from eating cat food.](/Asserts/Images//attachment/album/201703/22/062700pt7mvvl7uczulmlj.png)
+![Cartoon of Kernel (Penquin) holding leash to prevent Fido from eating cat food.](/Asserts/Images/album/201703/22/062700pt7mvvl7uczulmlj.png)
 
 
 Fido (`dog:random1`) 允许去吃 `dog_chow:random1`。
 
 
-![Cartoon Fido happily eating his dog food](/Asserts/Images//attachment/album/201703/22/062701ejzaozfa69qqfhzq.png)
+![Cartoon Fido happily eating his dog food](/Asserts/Images/album/201703/22/062701ejzaozfa69qqfhzq.png)
 
 
 Fido (`dog:random1`) 去吃 spot(`dog_chow:random2`)的食物被拒绝。
 
 
-![Cartoon of Kernel (Penquin) holding leash to prevent Fido from eating spots dog food.](/Asserts/Images//attachment/album/201703/22/062701qffe6pv6pgeaggkg.png)
+![Cartoon of Kernel (Penquin) holding leash to prevent Fido from eating spots dog food.](/Asserts/Images/album/201703/22/062701qffe6pv6pgeaggkg.png)
 
 
 **现实例子**
@@ -168,7 +168,7 @@ MLS 很像 MCS，除了它在强制策略中增加了支配的概念。MCS 标�
 不讨论不同名字的狗，我们现在来看不同种类。我们现在有一只格雷伊猎犬和一只吉娃娃。
 
 
-![Cartoon of a Greyhound and a Chihuahua](/Asserts/Images//attachment/album/201703/22/062701y4qzp4sqqamxmhwc.png)
+![Cartoon of a Greyhound and a Chihuahua](/Asserts/Images/album/201703/22/062701y4qzp4sqqamxmhwc.png)
 
 
 我们可能想要允许格雷伊猎犬去吃任何狗粮，但是吉娃娃如果尝试去吃格雷伊猎犬的狗粮可能会被呛到。
@@ -177,25 +177,25 @@ MLS 很像 MCS，除了它在强制策略中增加了支配的概念。MCS 标�
 我们把格雷伊猎犬标记为 `dog:Greyhound`，把它的狗粮标记为 `dog_chow:Greyhound`，把吉娃娃标记为 `dog:Chihuahua`，把它的狗粮标记为 `dog_chow:Chihuahua`。
 
 
-![Cartoon of a Greyhound dog food and a Chihuahua dog food.](/Asserts/Images//attachment/album/201703/22/062702bsydx7sv7t5cogd7.png)
+![Cartoon of a Greyhound dog food and a Chihuahua dog food.](/Asserts/Images/album/201703/22/062702bsydx7sv7t5cogd7.png)
 
 
 使用 MLS 策略，我们可以使 MLS 格雷伊猎犬标签支配吉娃娃标签。这意味着 `dog:Greyhound` 允许去吃 `dog_chow:Greyhound` 和 `dog_chow:Chihuahua`。
 
 
-![SELinux rule](/Asserts/Images//attachment/album/201703/22/062702xszf8yzat9ry58zh.png "SELinux rule")
+![SELinux rule](/Asserts/Images/album/201703/22/062702xszf8yzat9ry58zh.png "SELinux rule")
 
 
 但是 `dog:Chihuahua` 不允许去吃 `dog_chow:Greyhound`。
 
 
-![Cartoon of Kernel (Penquin) stopping the Chihahua from eating the greyhound food.  Telling him it would be a big too beefy for him.](/Asserts/Images//attachment/album/201703/22/062702i0yblel8vhlr9qll.png)
+![Cartoon of Kernel (Penquin) stopping the Chihahua from eating the greyhound food.  Telling him it would be a big too beefy for him.](/Asserts/Images/album/201703/22/062702i0yblel8vhlr9qll.png)
 
 
 当然，由于类型强制， `dog:Greyhound` 和 `dog:Chihuahua` 仍然不允许去吃 `cat_chow:Siamese`，即使 MLS 类型 GreyHound 支配 Siamese。
 
 
-![Cartoon of Kernel (Penquin) holding leash to prevent both dogs from eating cat food.](/Asserts/Images//attachment/album/201703/22/062703h07wob27ge204nar.png)
+![Cartoon of Kernel (Penquin) holding leash to prevent both dogs from eating cat food.](/Asserts/Images/album/201703/22/062703h07wob27ge204nar.png)
 
 
 **现实例子**

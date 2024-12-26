@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,AI,OpenAI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/14/180620gv25cczzup9c5bl2.jpg)
+![](/Asserts/Images/album/202308/14/180620gv25cczzup9c5bl2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/14/180631i1llxdol0dnv3emn.jpg)
+![](/Asserts/Images/album/202308/14/180631i1llxdol0dnv3emn.jpg)
 
 
 ### Firefox 在意 Linux 桌面用户吗？
@@ -35,7 +35,7 @@ Firefox 是 “最重要的桌面 Linux 应用程序”，如果不是之一的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/14/180645aaqz00zb6uwwwqra.jpg)
+![](/Asserts/Images/album/202308/14/180645aaqz00zb6uwwwqra.jpg)
 
 
 ### Stack Overflow 拥抱人工智能
@@ -60,7 +60,7 @@ Firefox 是 “最重要的桌面 Linux 应用程序”，如果不是之一的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/14/180701xu3tx9e36plxdpvp.jpg)
+![](/Asserts/Images/album/202308/14/180701xu3tx9e36plxdpvp.jpg)
 
 
 ### OpenAI 每天花掉 70 万美元

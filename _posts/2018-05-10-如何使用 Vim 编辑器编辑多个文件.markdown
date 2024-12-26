@@ -7,7 +7,7 @@ tags:	[linuxcn,Vim,Vi]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/11/092242ho3kzb83ykq3oeo3.png)
+![](/Asserts/Images/album/201805/11/092242ho3kzb83ykq3oeo3.png)
 
 
 有时候，您可能需要修改多个文件，或要将一个文件的内容复制到另一个文件中。在图形用户界面中，您可以在任何图形文本编辑器（如 gedit）中打开文件，并使用 `CTRL + C` 和 `CTRL + V` 复制和粘贴内容。在命令行模式下，您不能使用这种编辑器。不过别担心，只要有 `vim` 编辑器就有办法。在本教程中，我们将学习使用 `vim` 编辑器同时编辑多个文件。相信我，很有意思哒。
@@ -103,7 +103,7 @@ $ vim file1.txt file2.txt
 Vim 将按顺序显示文件的内容。首先显示第一个文件的内容，然后显示第二个文件，依此类推。
 
 
-![](/Asserts/Images//attachment/album/201805/11/092244tzblsjnulu7444fs.png)
+![](/Asserts/Images/album/201805/11/092244tzblsjnulu7444fs.png)
 
 
 ##### 在文件中切换
@@ -118,7 +118,7 @@ Vim 将按顺序显示文件的内容。首先显示第一个文件的内容，�
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092246efi8tflg33mi893e.png)
+![](/Asserts/Images/album/201805/11/092246efi8tflg33mi893e.png)
 
 
 要返回到前一个文件，请键入：
@@ -160,13 +160,13 @@ ZZ
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092247imzyu77li7q7a76z.png)
+![](/Asserts/Images/album/201805/11/092247imzyu77li7q7a76z.png)
 
 
 您将在底部看到加载文件的列表。
 
 
-![](/Asserts/Images//attachment/album/201805/11/092249ebzvit9jlih2li9l.png)
+![](/Asserts/Images/album/201805/11/092249ebzvit9jlih2li9l.png)
 
 
 要切换到下一个文件，请输入 `:buffer`，后跟缓冲区编号。例如，要切换到第一个文件，请键入：
@@ -178,7 +178,7 @@ ZZ
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092250i7iyhalgqwil7gam.png)
+![](/Asserts/Images/album/201805/11/092250i7iyhalgqwil7gam.png)
 
 
 ##### 打开其他文件进行编辑
@@ -196,7 +196,7 @@ ZZ
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092252arlvqvyjll1ryhil.png)
+![](/Asserts/Images/album/201805/11/092252arlvqvyjll1ryhil.png)
 
 
 现在你可以编辑 `file3.txt` 了。
@@ -211,7 +211,7 @@ ZZ
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092254wkm2sbh1mpq1uhm4.png)
+![](/Asserts/Images/album/201805/11/092254wkm2sbh1mpq1uhm4.png)
 
 
 请注意，对于使用 `:e` 打开的文件，您无法使用 `:n` 或 `:N` 进行切换。要切换到另一个文件，请输入 `:buffer`，然后输入文件缓冲区编号。
@@ -258,7 +258,7 @@ line5
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092255yfqfybbwjggzhfwb.png)
+![](/Asserts/Images/album/201805/11/092255yfqfybbwjggzhfwb.png)
 
 
 要保存当前文件中所做的更改，请键入：
@@ -318,7 +318,7 @@ $ vim file2.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092257fcb3msdzfud4uejj.png)
+![](/Asserts/Images/album/201805/11/092257fcb3msdzfud4uejj.png)
 
 
 这里，`r` 代表 “read”。
@@ -342,7 +342,7 @@ unix
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092258eryma12zwereogg2.png)
+![](/Asserts/Images/album/201805/11/092258eryma12zwereogg2.png)
 
 
 要保存当前文件中的更改，请键入：
@@ -379,7 +379,7 @@ $ vim -o file1.txt file2.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092300a4mvdkifffhs7vr4.png)
+![](/Asserts/Images/album/201805/11/092300a4mvdkifffhs7vr4.png)
 
 
 要在窗口之间切换，请按 `CTRL-w w`（即按 `CTRL + w` 并再次按 `w`）。或者，您可以使用以下快捷方式在窗口之间移动：
@@ -398,7 +398,7 @@ $ vim -O file1.txt file2.txt file3.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/11/092302e4onkfgodnf9gzfk.png)
+![](/Asserts/Images/album/201805/11/092302e4onkfgodnf9gzfk.png)
 
 
 要在窗口之间切换，请按 `CTRL-w w`（即按 `CTRL + w` 并再次按 `w`）。或者，使用以下快捷方式在窗口之间移动：

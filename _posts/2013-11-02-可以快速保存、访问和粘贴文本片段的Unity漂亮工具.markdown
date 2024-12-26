@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,Unity,文本,Snippets,安装,使用,技巧,教程]
 **反复键入特定的信息 - 如电子邮件地址或家庭地址，详细的终端命令，及时发送用户喜爱的电视节目的资讯 - 可是件苦差事。**
 
 
-![](/Asserts/Images//attachment/album/201311/21/103520teac1iphawwfahav.jpg)
+![](/Asserts/Images/album/201311/21/103520teac1iphawwfahav.jpg)
 
 
 *Snippets – 方便的访问存储的文本的方法*

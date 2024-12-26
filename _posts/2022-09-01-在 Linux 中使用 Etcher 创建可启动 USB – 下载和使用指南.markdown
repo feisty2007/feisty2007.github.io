@@ -7,7 +7,7 @@ tags:	[linuxcn,USB,启动盘,Etcher]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/11/122946lmd8zzppbrzjcc6d.jpg)
+![](/Asserts/Images/album/202209/11/122946lmd8zzppbrzjcc6d.jpg)
 
 
 
@@ -124,7 +124,7 @@ yay -S balena-etcher
 插入目标 USB 或 SD 卡。浏览并选择 .iso 文件。或者，你也可以通过 URL 直接从互联网拉取它。
 
 
-![Step 1 - Select the file](/Asserts/Images//attachment/album/202209/11/123150nbix4bn1x9sas1f1.jpg)
+![Step 1 - Select the file](/Asserts/Images/album/202209/11/123150nbix4bn1x9sas1f1.jpg)
 
 
 #### 步骤 2：选择目标设备
@@ -136,19 +136,19 @@ yay -S balena-etcher
 通过单击复选框进行选择。并单击“<ruby> 选择 <rt>  Select </rt></ruby>”。
 
 
-![Step 2 - Select Target device](/Asserts/Images//attachment/album/202209/11/123150knj7u7w69ccu6olj.jpg)
+![Step 2 - Select Target device](/Asserts/Images/album/202209/11/123150knj7u7w69ccu6olj.jpg)
 
 
 #### 步骤 3：点击刷写开始创建可启动 USB 或 SD 卡
 
 
-![Step 3 - Start the process](/Asserts/Images//attachment/album/202209/11/123150vmgkt5fczmkom5z1.jpg)
+![Step 3 - Start the process](/Asserts/Images/album/202209/11/123150vmgkt5fczmkom5z1.jpg)
 
 
 等到该过程完成。
 
 
-![Process is complete](/Asserts/Images//attachment/album/202209/11/123150hbxsberiegqllbaz.jpg)
+![Process is complete](/Asserts/Images/album/202209/11/123150hbxsberiegqllbaz.jpg)
 
 
 就是这样。你可以安全地取出 USB 或 SD 卡以供使用。

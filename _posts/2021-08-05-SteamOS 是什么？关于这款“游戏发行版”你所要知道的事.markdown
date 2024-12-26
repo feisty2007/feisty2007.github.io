@@ -7,7 +7,7 @@ tags:	[linuxcn,SteamOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/16/113402ass3smho7sbmo75b.jpg)
+![](/Asserts/Images/album/202108/16/113402ass3smho7sbmo75b.jpg)
 
 
 SteamOS 是一款基于 Linux 的操作系统，旨在提供来自 Steam 自己的游戏商店顺滑的游戏体验。
@@ -25,7 +25,7 @@ SteamOS 是一款基于 Linux 的操作系统，旨在提供来自 Steam 自己�
 SteamOS 是由游戏分发平台 Steam 开发的 Linux 发行版。它并是一款像 Debian、Linux Mint 或者 Ubuntu 那样的泛用型桌面操作系统，即便你确实可以使用桌面功能。默认情况下，SteamOS 的界面类似于游戏机，因为 SteamOS 旨在成为专为 Steam 游戏设备定制的操作系统，如 Steam Machine（已停产）和 Steam Deck。
 
 
-![SteamOS 界面](/Asserts/Images//attachment/album/202108/16/113430kw1uk52we49ppkh0.jpg)
+![SteamOS 界面](/Asserts/Images/album/202108/16/113430kw1uk52we49ppkh0.jpg)
 
 
 你确实也可以在任何 Linux 发行版和其他平台安装 Steam 客户端，但 SteamOS 更是为了提供类似游戏机的体验，方便你玩 Steam 上的游戏。
@@ -40,7 +40,7 @@ SteamOS 是由游戏分发平台 Steam 开发的 Linux 发行版。它并是一�
 SteamOS 的开发团队也相信，SteamOS 基于 Arch Linux 更有利于快速推送更新和优化 Steam Deck。
 
 
-![](/Asserts/Images//attachment/album/202108/16/113431b22qkeeuehbu28pu.jpg)
+![](/Asserts/Images/album/202108/16/113431b22qkeeuehbu28pu.jpg)
 
 
 ### SteamOS 的系统要求
@@ -140,7 +140,7 @@ SteamOS 操作系统是开源的，你可以在 [官方仓库](https://repo.stea
 ### 我能找到内置 SteamOS 的游戏主机吗？
 
 
-![Steam Machine 游戏机，已经停产](/Asserts/Images//attachment/album/202108/16/113431yzt3xa9eabtnbffc.jpg)
+![Steam Machine 游戏机，已经停产](/Asserts/Images/album/202108/16/113431yzt3xa9eabtnbffc.jpg)
 
 
 SteamOS 最初是为 Steam Machine 这款 Steam 自家的 PlayStation/Xbox 风格的游戏机定制的操作系统。2015 年 Steam Machine 发布后并没有在市场上获得成功，最终停产。

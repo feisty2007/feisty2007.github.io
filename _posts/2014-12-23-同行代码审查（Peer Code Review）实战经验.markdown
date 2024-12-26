@@ -25,7 +25,7 @@ tags:	[linuxcn,代码审查,Code Review]
 (LCTT 译注：Code Review中文可以翻译成代码审查,一般由开发待review的代码的成员以外的团队成员来进行这样的工作。由于是专业术语，没有将Code review用中文代替。)
 
 
-![](/Asserts/Images//attachment/album/201412/09/001536y3ri8ov2jpgi82i0.jpg)
+![](/Asserts/Images/album/201412/09/001536y3ri8ov2jpgi82i0.jpg)
 
 
 ### 为什么要做Code review？

@@ -22,7 +22,7 @@ tags:	[linuxcn,编辑器,Helix]
 ### Helix，一个用 Rust 编写的现代文本编辑器
 
 
-![](/Asserts/Images//attachment/album/202106/17/131653xltiz1xmqolm0he8.jpg)
+![](/Asserts/Images/album/202106/17/131653xltiz1xmqolm0he8.jpg)
 
 
 [Helix](https://helix-editor.com/) 是用 Rust 编写的，使用 Tree-sitter 进行语法高亮。开发者声称，它比正则表达式高亮更快，因为 Tree-sitter 像编译器一样将代码解析成语法树，从而给出更多的代码结构信息。

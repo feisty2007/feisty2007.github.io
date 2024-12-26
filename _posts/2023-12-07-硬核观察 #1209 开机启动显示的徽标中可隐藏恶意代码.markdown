@@ -7,10 +7,10 @@ tags:	[linuxcn,启动,UEFI,Gemini]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/08/170249sy5n5vk3953ia5h2.jpg)
+![](/Asserts/Images/album/202312/08/170249sy5n5vk3953ia5h2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/08/170321k2lj0krn4l0n41xe.png)
+![](/Asserts/Images/album/202312/08/170321k2lj0krn4l0n41xe.png)
 
 
 ### #1 开机启动显示的徽标中可隐藏恶意代码
@@ -38,7 +38,7 @@ tags:	[linuxcn,启动,UEFI,Gemini]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/08/170359ra4ockoaoekwmeta.png)
+![](/Asserts/Images/album/202312/08/170359ra4ockoaoekwmeta.png)
 
 
 ### #2 谷歌 Gemini 的早期印象并不好
@@ -66,7 +66,7 @@ tags:	[linuxcn,启动,UEFI,Gemini]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/08/170418jbz4qeggbcgqqk5g.png)
+![](/Asserts/Images/album/202312/08/170418jbz4qeggbcgqqk5g.png)
 
 
 ### #3 Fedora 40 新增直接启动统一内核镜像的功能

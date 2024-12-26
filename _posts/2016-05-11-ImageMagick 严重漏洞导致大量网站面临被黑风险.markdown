@@ -7,7 +7,7 @@ tags:	[linuxcn,ImageMagick,安全,漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/201605/05/152839gra43zzrrlwnuv4l.png)
+![](/Asserts/Images/album/201605/05/152839gra43zzrrlwnuv4l.png)
 
 
 两位俄罗斯的安全研究人员刚刚在著名的图像处理库 ImageMagick 中发现了严重的安全漏洞。ImageMagick 用在大量的网站中，所以这个发现的零日漏洞一举将不计其数的网站暴露在安全攻击面前。

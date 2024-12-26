@@ -33,7 +33,7 @@ Linus Torvalds 前一段时间释出了 Linux Kernel 3.13 作为2014年的开门
 ### 2) System Rescue CD 4.0.0
 
 
-![](/Asserts/Images//attachment/album/201402/04/222556jsmfkzjnmfsjmbjl.jpeg)
+![](/Asserts/Images/album/201402/04/222556jsmfkzjnmfsjmbjl.jpeg)
 
 
 大多数人都会使用 Linux 作为服务器或桌面系统，其实我们还可以把一个 Linux 系统拿来救援一个非 \*nix 系统。

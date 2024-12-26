@@ -15,7 +15,7 @@ tags:	[linuxcn,WIFI,安全,渗透测试]
 > 
 
 
-![](/Asserts/Images//attachment/album/201902/25/000840mmgb6cg3owmm6ubo.jpg)
+![](/Asserts/Images/album/201902/25/000840mmgb6cg3owmm6ubo.jpg)
 
 
 越来越多的设备通过无线传输的方式连接到互联网，以及，大范围可用的 WiFi 接入点为攻击者攻击用户提供了很多机会。通过欺骗用户连接到[虚假的 WiFi 接入点](https://en.wikipedia.org/wiki/Rogue_access_point)，攻击者可以完全控制用户的网络连接，这将使得攻击者可以嗅探和篡改用户的数据包，将用户的连接重定向到一个恶意的网站，并通过网络发起其他的攻击。
@@ -36,7 +36,7 @@ ETF 的框架是用 [Python](https://www.python.org/) 写的，因为这门开�
 ETF 的架构（图 1）分为不同的彼此交互的模块。该框架的设置都写在一个单独的配置文件里。用户可以通过 `ConfigurationManager` 类里的用户界面来验证并修改这些配置。其他模块只能读取这些设置并根据这些设置进行运行。
 
 
-![Evil-Twin Framework Architecture](/Asserts/Images//attachment/album/201902/25/000859jmvb6czbmmjt66vz.png "Evil-Twin Framework Architecture")
+![Evil-Twin Framework Architecture](/Asserts/Images/album/201902/25/000859jmvb6czbmmjt66vz.png "Evil-Twin Framework Architecture")
 
 
 *图 1：Evil-Twin 的框架架构*
@@ -87,7 +87,7 @@ ETF 可以通过多种方式对 WiFi 的网络安全或者终端用户的 WiFi �
 这个场景（图 2）做了两个方面的考虑：<ruby> 解除认证攻击 <rt>  de-authentication attack </rt></ruby>和捕获 WPA 四次握手数据包的可能性。这个场景从一个启用了 WPA/WPA2 的接入点开始，这个接入点有一个已经连上的客户端设备（在本例中是一台智能手机）。目的是通过常规的解除认证攻击（LCTT 译注：类似于 DoS 攻击）来让客户端断开和 WiFi 的网络，然后在客户端尝试重连的时候捕获 WPA 的握手包。重连会在断开连接后马上手动完成。
 
 
-![Scenario for capturing a WPA handshake after a de-authentication attack](/Asserts/Images//attachment/album/201902/25/000903by6sncwau8bw3z4w.png "Scenario for capturing a WPA handshake after a de-authentication attack")
+![Scenario for capturing a WPA handshake after a de-authentication attack](/Asserts/Images/album/201902/25/000903by6sncwau8bw3z4w.png "Scenario for capturing a WPA handshake after a de-authentication attack")
 
 
 *图 2：在解除认证攻击后捕获 WPA 握手包的场景*
@@ -159,7 +159,7 @@ ETF[etf/aircommunicator/airscanner]::> [+] Starting deauthentication attack
 测试场景从一个使用 WEP 协议进行加密的 WiFi 接入点和一台知道其密钥的离线客户端设备开始 —— 为了测试方便，密钥使用了 12345，但它可以是更长且更复杂的密钥。一旦客户端连接到了 WEP 接入点，它会发送一个不必要的 ARP 数据包；这是要捕获和重放的数据包。一旦被捕获的包含 IVs 的数据包数量达到了设置的上限，测试就结束了。
 
 
-![Scenario for capturing a WPA handshake after a de-authentication attack](/Asserts/Images//attachment/album/201902/25/000906yhs3hhgspph5dyho.png "Scenario for capturing a WPA handshake after a de-authentication attack")
+![Scenario for capturing a WPA handshake after a de-authentication attack](/Asserts/Images/album/201902/25/000906yhs3hhgspph5dyho.png "Scenario for capturing a WPA handshake after a de-authentication attack")
 
 
 *图 3：在进行解除认证攻击后捕获 WPA 握手包的场景*
@@ -188,7 +188,7 @@ ETF 使用 Python 的 Scapy 库来进行包嗅探和包注入。为了最大限�
 图 4 中的场景使用相同的 SSID 创建了多个接入点，对于那些可以探测到但是无法接入的 WiFi 网络，这个技术可以发现网络的加密类型。通过启动具有所有安全设置的多个接入点，客户端会自动连接和本地缓存的接入点信息相匹配的接入点。
 
 
-![Scenario for capturing a WPA handshake after a de-authentication attack](/Asserts/Images//attachment/album/201902/25/000909dgvf88bpzhkwbdyd.png "Scenario for capturing a WPA handshake after a de-authentication attack")
+![Scenario for capturing a WPA handshake after a de-authentication attack](/Asserts/Images/album/201902/25/000909dgvf88bpzhkwbdyd.png "Scenario for capturing a WPA handshake after a de-authentication attack")
 
 
 *图 4：在解除认证攻击后捕获 WPA 握手包数据。*

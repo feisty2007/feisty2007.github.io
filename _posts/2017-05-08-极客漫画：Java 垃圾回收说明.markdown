@@ -7,7 +7,7 @@ tags:	[linuxcn,Java,漫画,垃圾回收]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/14/173816yc4inpaxsxjzt4mj.png)
+![](/Asserts/Images/album/201705/14/173816yc4inpaxsxjzt4mj.png)
 
 
 这篇漫画生动的解释了 Java 的垃圾回收机制：什么是垃圾回收（GC）、什么是并行垃圾回收以及什么是垃圾回收的标记清除算法。

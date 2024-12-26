@@ -13,7 +13,7 @@ Compulab公司现在接受MintBox2的订单，它是一个微型的采用无风�
 你可以花599美元从 [Compulab的网站](http://fit-pc.com/web/purchasing/order-mintbox/) 上订购 MintBox2。到九月底在亚马逊上会有现货，预计十月欧洲上市。
 
 
- ![MintBox 2](/Asserts/Images//attachment/album/201309/16/144857tzhlzstzkagatztn.jpg)
+ ![MintBox 2](/Asserts/Images/album/201309/16/144857tzhlzstzkagatztn.jpg)
 
 
 MintBox2的尺寸为7.5 x 6.3 x 1.6英寸 ，重约2.5磅.

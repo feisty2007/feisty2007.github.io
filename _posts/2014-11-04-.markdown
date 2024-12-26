@@ -113,9 +113,9 @@ excerpt: 本书是Linux运维领域公认经典畅销书，运维工程师必备
 fromurl: ''
 id: 4144
 islctt: false
-largepic: /Asserts/Images//attachment/album/201411/02/100206qh1cbijjbvshkcd1.jpg
+largepic: /Asserts/Images/album/201411/02/100206qh1cbijjbvshkcd1.jpg
 permalink: /article-4144-1.html
-pic: /Asserts/Images//attachment/album/201411/02/100206qh1cbijjbvshkcd1.jpg.thumb.jpg
+pic: /Asserts/Images/album/201411/02/100206qh1cbijjbvshkcd1.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -133,7 +133,7 @@ updated: '2014-11-02 10:45:00'
 **Linux运维领域公认经典畅销书，曾被《程序员》杂志和51CTO等权威IT媒体评为10大最具技术影响力的图书和最爱读者喜爱的原创图书，运维工程师必备工具书。**
 
 
-![](/Asserts/Images//attachment/album/201411/02/100206qh1cbijjbvshkcd1.jpg)
+![](/Asserts/Images/album/201411/02/100206qh1cbijjbvshkcd1.jpg)
 
 
  

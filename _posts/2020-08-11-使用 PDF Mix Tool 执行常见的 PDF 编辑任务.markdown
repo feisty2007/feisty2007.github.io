@@ -15,13 +15,13 @@ tags:	[linuxcn,PDF]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/16/203411puozfr91f1pmzg9z.jpg)
+![](/Asserts/Images/album/202008/16/203411puozfr91f1pmzg9z.jpg)
 
 
 ### PDF Mix Tool：一个简单的开源 PDF 编辑工具
 
 
-![](/Asserts/Images//attachment/album/202008/16/203630tytdct4ndzzorcx7.png)
+![](/Asserts/Images/album/202008/16/203630tytdct4ndzzorcx7.png)
 
 
 有[几个可以在 Linux 中使用的 PDF 编辑器](https://itsfoss.com/pdf-editors-linux/)，我通常将它们分为两类：
@@ -40,7 +40,7 @@ tags:	[linuxcn,PDF]
 ### 使用 PDF Mix Tool 在 Linux 中编辑 PDF
 
 
-![](/Asserts/Images//attachment/album/202008/16/204321szcxeo0cvkcc0k9y.png)
+![](/Asserts/Images/album/202008/16/204321szcxeo0cvkcc0k9y.png)
 
 
 PDF Mix Tool 并没有很多功能，但是有一些非常重要的功能。
@@ -49,13 +49,13 @@ PDF Mix Tool 并没有很多功能，但是有一些非常重要的功能。
 #### 合并 PDF 文件
 
 
-![](/Asserts/Images//attachment/album/202008/16/203851su5apmvrvavjm4jm.png)
+![](/Asserts/Images/album/202008/16/203851su5apmvrvavjm4jm.png)
 
 
 你可以轻松合并多个 PDF 文件，同时指定确切的页面。它让你能够调整页面数、旋转，还能使用 “<ruby> 交替混合 <rt>  Alternate mix </rt></ruby>” 反转页面顺序合并。
 
 
-![](/Asserts/Images//attachment/album/202008/16/203949efrmswofbnbz0vmv.png)
+![](/Asserts/Images/album/202008/16/203949efrmswofbnbz0vmv.png)
 
 
 你只需要单击 “<ruby> 添加 PDF 文件 <rt>  Add PDF File </rt></ruby>” 添加文件，然后使用可用的选项对其进行编辑（如上图所示），最后生成编辑的 PDF。
@@ -70,7 +70,7 @@ PDF Mix Tool 并没有很多功能，但是有一些非常重要的功能。
 对于合并文件，你可以参考上面的截图。但是当你选择一个文件时，它看上去像这样：
 
 
-![](/Asserts/Images//attachment/album/202008/16/203957dlm6oaqmztzo24pi.png)
+![](/Asserts/Images/album/202008/16/203957dlm6oaqmztzo24pi.png)
 
 
 你有多种选择，但是要旋转页面，需要选择 “<ruby> 编辑页面布局 <rt>  Edit page layout </rt></ruby>” 选项，如上截图所示。
@@ -85,13 +85,13 @@ PDF Mix Tool 并没有很多功能，但是有一些非常重要的功能。
 但是，如果要添加空白页，你可以选择一个文件进行添加。不只是添加空白页面，还可以删除特定页面。下面的截图圈出了高亮选项：
 
 
-![](/Asserts/Images//attachment/album/202008/16/204103jeblk35e7er433dk.png)
+![](/Asserts/Images/album/202008/16/204103jeblk35e7er433dk.png)
 
 
 #### 从 PDF 文件提取页面
 
 
-![](/Asserts/Images//attachment/album/202008/16/204233skgk2ykis21huki8.png)
+![](/Asserts/Images/album/202008/16/204233skgk2ykis21huki8.png)
 
 
 除了所有其他选项之外，你还可以从给定的 PDF 文件中提取特定页面（或全部）。你还可以为所有提取的页面生成一个新的 PDF 文件，或者为提取的每个页面制作单独的 PDF 文件。在许多场景中，它应该派上用场。
@@ -112,7 +112,7 @@ PDF Mix Tool 并没有很多功能，但是有一些非常重要的功能。
 ### 在 Linux 上安装 PDF Mix Tool
 
 
-![](/Asserts/Images//attachment/album/202008/16/204257snd59z7xxix4s1oj.png)
+![](/Asserts/Images/album/202008/16/204257snd59z7xxix4s1oj.png)
 
 
 PDF Mix Tool 存在于 Snap 和 [Flatpak 软件包](https://flathub.org/apps/details/eu.scarpetta.PDFMixTool)中。这意味着如果发行版支持这任意一种，你都可以在软件管理器中找到它。

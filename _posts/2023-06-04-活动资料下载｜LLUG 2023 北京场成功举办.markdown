@@ -7,7 +7,7 @@ tags:	[linuxcn,LLUG]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/21/142350zspsqdydpzw8jtto.jpg)
+![](/Asserts/Images/album/202306/21/142350zspsqdydpzw8jtto.jpg)
 
 
 
@@ -24,19 +24,19 @@ tags:	[linuxcn,LLUG]
 ### 现场照片
 
 
-![](/Asserts/Images//attachment/album/202306/21/135908zjsrzktlpbuosbpp.jpg)
+![](/Asserts/Images/album/202306/21/135908zjsrzktlpbuosbpp.jpg)
 
 
 *白宦成，Linux 中国技术组组长*
 
 
-![](/Asserts/Images//attachment/album/202306/21/135920kr777xor7cikiyx8.jpg)
+![](/Asserts/Images/album/202306/21/135920kr777xor7cikiyx8.jpg)
 
 
 *张佳，龙蜥社区机密计算 SIG Owner*
 
 
-![](/Asserts/Images//attachment/album/202306/21/135930n8bffpsgug081lsv.jpg)
+![](/Asserts/Images/album/202306/21/135930n8bffpsgug081lsv.jpg)
 
 
 *张永超，龙蜥社区基础设施 SIG Owner*

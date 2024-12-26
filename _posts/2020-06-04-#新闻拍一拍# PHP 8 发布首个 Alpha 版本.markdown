@@ -7,7 +7,7 @@ tags:	[linuxcn,PHP,AMD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/26/103408fy50x0aiu3mk53ez.jpg)
+![](/Asserts/Images/album/202006/26/103408fy50x0aiu3mk53ez.jpg)
 
 
 #### PHP 8 发布首个 Alpha 版本

@@ -15,7 +15,7 @@ tags:	[linuxcn,笔记]
 > 
 
 
-![](/Asserts/Images//attachment/album/201806/30/103554uu5o5uue9zchu394.png)
+![](/Asserts/Images/album/201806/30/103554uu5o5uue9zchu394.png)
 
 
 用 vi 来管理 wiki 来记录你的笔记，这听起来不像是一个符合常规的主意，但当你的日常工作都会用到 vi , 那它是有意义的。

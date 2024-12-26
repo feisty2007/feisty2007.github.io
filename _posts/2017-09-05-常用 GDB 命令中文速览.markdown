@@ -7,7 +7,7 @@ tags:	[linuxcn,gdb,调试]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/24/150421z8qnabqpphbs1a8o.jpg)
+![](/Asserts/Images/album/201709/24/150421z8qnabqpphbs1a8o.jpg)
 
 
 ### 目录

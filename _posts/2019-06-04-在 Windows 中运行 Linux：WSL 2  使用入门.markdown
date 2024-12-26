@@ -7,7 +7,7 @@ tags:	[linuxcn,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/14/104921w7gkmsel0q7kzj0r.jpg)
+![](/Asserts/Images/album/201906/14/104921w7gkmsel0q7kzj0r.jpg)
 
 
 继微软发布了 WSL 2 （Windows Subsystem for Linux 2）之后，前两天正式提供了 WSL2 更新，处于 Insider Fast 通道中的用户可以通过安装 Windows build 18917 更新来体验最新版本的 WSL2。

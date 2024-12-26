@@ -7,7 +7,7 @@ tags:	[linuxcn,Pandas,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/27/163400o6afgegh0nf4nfec.jpg)
+![](/Asserts/Images/album/202301/27/163400o6afgegh0nf4nfec.jpg)
 
 
 

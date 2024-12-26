@@ -15,7 +15,7 @@ tags:	[linuxcn,Ansible,自动化,anacron]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/13/155036tc0c7th906cc96mm.jpg "Woman programming")
+![](/Asserts/Images/album/202110/13/155036tc0c7th906cc96mm.jpg "Woman programming")
 
 
 自动化是伟大的 IT 和 DevOps 理想，但根据我的经验，可能根本不存在什么不方便的东西。有很多次，我为某些任务想出了一个很好的解决方案，我甚至会编写脚本，但我没有让它真正实现自动化，因为在我工作的机器上不存在易于自动化的基础设施。
@@ -70,14 +70,14 @@ tags:	[linuxcn,Ansible,自动化,anacron]
 ### 用 Ansible 复制文件
 
 
-`ansible.buildin.copy` 模块将文件从一个地方复制到另一个地方。为了让它工作，我需要创建一个叫做 `anacrontab` 的文件。它不是 Ansible 剧本，所以我把它放在我的 `~/Ansible/Asserts/Images/` 目录下，那里是我的剧本的支持文件。
+`ansible.buildin.copy` 模块将文件从一个地方复制到另一个地方。为了让它工作，我需要创建一个叫做 `anacrontab` 的文件。它不是 Ansible 剧本，所以我把它放在我的 `~/Ansible/data` 目录下，那里是我的剧本的支持文件。
 
 
 
 ```
   - name: copy anacrontab into place
    ansible.builtin.copy:
-    src: ~/Ansible/Asserts/Images//anacrontab
+    src: ~/Ansible/data/anacrontab
     dest: ~/.local/etc/anacrontab
     mode: '0755'
 

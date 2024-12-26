@@ -7,7 +7,7 @@ tags:	[linuxcn,Java]
 ---
 
 
-![](/Asserts/Images//attachment/album/202004/05/205313e188lsbrbgz9932d.jpg)
+![](/Asserts/Images/album/202004/05/205313e188lsbrbgz9932d.jpg)
 
 
 最近，Oracle 宣布 Java 14（或 Oracle JDK 14）公开可用。如果你想进行最新的实验或者开发的话，那么你可以试试在 Linux 系统上安装 Java 14。

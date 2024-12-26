@@ -24,7 +24,7 @@ R 语言的优点是它的语法非常简练，你可以找到它的很多实际
 本文将介绍包含如何在 Ubuntu 下安装 R 语言，也会介绍在 Linux 下如何运行第一个 R 程序。
 
 
-![](/Asserts/Images//attachment/album/201909/11/115259umnrin57vlrrhixl.jpg)
+![](/Asserts/Images/album/201909/11/115259umnrin57vlrrhixl.jpg)
 
 
 ### 如何在 Ubuntu 上安装 R 语言
@@ -98,7 +98,7 @@ R
 这样会打开交互模式：
 
 
-![R Interactive Mode](/Asserts/Images//attachment/album/201909/11/115303c9i5c3zxw5luwfi3.png)
+![R Interactive Mode](/Asserts/Images/album/201909/11/115303c9i5c3zxw5luwfi3.png)
 
 
 R 语言的控制台与 Python 和 Haskell 的交互模式很类似。你可以输入 R 命令做一些基本的数学运算，例如：
@@ -116,7 +116,7 @@ R 语言的控制台与 Python 和 Haskell 的交互模式很类似。你可以�
 你可以测试绘图：
 
 
-![R Plotting](/Asserts/Images//attachment/album/201909/11/115307gb4wjy3jgmjyokbj.jpg)
+![R Plotting](/Asserts/Images/album/201909/11/115307gb4wjy3jgmjyokbj.jpg)
 
 
 如果想退出可以用 `q()`或按下 `CTRL+c`键。接着你会被提示是否保存工作空间镜像；工作空间是创建变量的环境。
@@ -160,7 +160,7 @@ Rscript hello.r
 结果将会保存到当前工作目录，文件名为 `Rplots.pdf`：
 
 
-![Rplots.pdf](/Asserts/Images//attachment/album/201909/11/115309u0ra26orxl9p5o0t.png)
+![Rplots.pdf](/Asserts/Images/album/201909/11/115309u0ra26orxl9p5o0t.png)
 
 
 小提示：`Rscript` 默认不会加载 `methods` 包。确保在脚本中[显式加载](https://www.dummies.com/programming/r/how-to-install-load-and-unload-packages-in-r/)它。
@@ -181,7 +181,7 @@ Rscript hello.r
 下载后从菜单搜索启动它。程序主界面会弹出如下：
 
 
-![RStudio 主界面](/Asserts/Images//attachment/album/201909/11/115311e66zyyfzdfyfczfa.jpg)
+![RStudio 主界面](/Asserts/Images/album/201909/11/115311e66zyyfzdfyfczfa.jpg)
 
 
 现在可以看到和 R 命令终端一样的工作台。
@@ -190,25 +190,25 @@ Rscript hello.r
 创建一个文件：点击顶栏 “File” 然后选择 “New File > Rscript”（或 `CTRL+Shift+n`）：
 
 
-![RStudio 新建文件](/Asserts/Images//attachment/album/201909/11/115313co2zwcja9166w91c.png)
+![RStudio 新建文件](/Asserts/Images/album/201909/11/115313co2zwcja9166w91c.png)
 
 
 按下 `CTRL+s` 保存文件选择路径和命名：
 
 
-![RStudio 保存文件](/Asserts/Images//attachment/album/201909/11/115314zak1eqmqa664uzhk.png)
+![RStudio 保存文件](/Asserts/Images/album/201909/11/115314zak1eqmqa664uzhk.png)
 
 
 这样做了后，点击 “Session > Set Working Directory > To Source File Location” 修改工作目录为你的脚本路径：
 
 
-![RStudio 工作目录](/Asserts/Images//attachment/album/201909/11/115315yj9f9zzblss499f4.png)
+![RStudio 工作目录](/Asserts/Images/album/201909/11/115315yj9f9zzblss499f4.png)
 
 
 现在一切准备就绪！编写代码然后点击运行。你可以在控制台和图形窗口看到结果：
 
 
-![RStudio 运行](/Asserts/Images//attachment/album/201909/11/115316h7m55ecn6qp6cwwg.jpg)
+![RStudio 运行](/Asserts/Images/album/201909/11/115316h7m55ecn6qp6cwwg.jpg)
 
 
 ### 结束语

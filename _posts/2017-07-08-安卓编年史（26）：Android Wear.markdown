@@ -7,31 +7,31 @@ tags:	[linuxcn,Android,安卓编年史]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/02/113335x4sc6r24s2c6zooc.jpg)
+![](/Asserts/Images/album/201707/02/113335x4sc6r24s2c6zooc.jpg)
 
 
 ### Android Wear
 
 
-![The LG G Watch. One of the first Android Wear devices.](/Asserts/Images//attachment/album/201707/02/113515nxlu6nfplc6pq5e6.png)
+![The LG G Watch. One of the first Android Wear devices.](/Asserts/Images/album/201707/02/113515nxlu6nfplc6pq5e6.png)
 
 
 2014 年 6 月安卓装备上了新元素：智能手表。谷歌在 2014 的 Google I/O 上发布了“[Android Wear](http://arstechnica.com/gadgets/2014/06/android-wear-review/)”，意图在你的手腕上装备一台小电脑。为[一块 1.6 英寸的屏幕](http://arstechnica.com/gadgets/2014/06/reviewing-android-wears-first-watches-sometimes-promising-often-frustrating/)进行设计意味着需要从头构思整个界面，所以谷歌精简了安卓 4.4 KitKat，并创建出了一个小巧的智能手表操作系统。Android Wear 设备不是独立的计算机。它们依赖于运行着配套 Android Wear 应用的安卓智能手机进行连接，认证，以及应用数据获取。
 
 
-![ The typical Android Wear home screen.](/Asserts/Images//attachment/album/201707/02/113516ke0zeeqsxeswe3zm.png)
+![ The typical Android Wear home screen.](/Asserts/Images/album/201707/02/113516ke0zeeqsxeswe3zm.png)
 
 
 Android Wear 智能手表主要是一个通知机器。有了安卓 4.3 及以上版本内建的新 API，任何手机收到的通知都能同时显示在手表上——无需任何应用支持。通知操作按钮也带到了手表上，让用户可以从手表上与通知进行交互。在手表上清除一条通知会同时在手机上将其清除，用户无需拿出另一台设备就可以管理通知消息。每个手表还带有一个语音命令系统和一个麦克风，让用户可以抬腕唤醒手表，说“OK Google”，并发出一条命令。你还可以通过语音回复信息。手表上甚至还有一个装有原生手表应用的应用抽屉。
 
 
-![Three Android Wear screens, showing music on the home screen, the voice command system, and a Google Now traffic card.](/Asserts/Images//attachment/album/201707/02/113517wvzdzfs8pphppp8d.png)
+![Three Android Wear screens, showing music on the home screen, the voice command system, and a Google Now traffic card.](/Asserts/Images/album/201707/02/113517wvzdzfs8pphppp8d.png)
 
 
 主屏幕上显示的自然是时间了，它还允许用户切换无数不同的表盘风格。通知界面采用了卡片风格设计。一个垂直滚动的通知列表会在手表上堆积，包括一些显示天气或交通信息的 Google Now 卡片。向左滑动能够清除一条通知，向右滑动会一次打开一个操作按钮。在主屏幕点击会打开语音命令系统，在哪里你可以激活设置或应用抽屉。除了这些以外最初的 Android Wear 的主屏幕没有多少内容。
 
 
-![The layout of the OS.](/Asserts/Images//attachment/album/201707/02/113518gitcigqat7itxaaw.png)
+![The layout of the OS.](/Asserts/Images/album/201707/02/113518gitcigqat7itxaaw.png)
 
 
 2014 年 Android Wear 设备仅仅发售了 720000 部，从那之后我们就没有从软件或硬件上看到多少发展。时至今日，智能手表的销售[一年不如一年](http://www.businesswire.com/news/home/20161024005145/en/Smartwatch-Market-Declines-51.6-Quarter-Platforms-Vendors)，甚至在 [Apple Watch](http://arstechnica.com/apple/2015/05/review-the-absolutely-optional-apple-watch-and-watch-os-1-0/) 发布后，没人能够真正确定他们想要让小腕上计算机做什么。明显这种情况会持续到 2017 年 Android Wear 2.0 发布。从 Moto 360 给市场带来圆形设备以来，我们还没从硬件厂商那边看到一些新玩意。
@@ -42,7 +42,7 @@ Android Wear 智能手表主要是一个通知机器。有了安卓 4.3 及以�
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/24/162535j8ke2nu4ccvw44g9.jpg)
+![](/Asserts/Images/album/201706/24/162535j8ke2nu4ccvw44g9.jpg)
 
 
 [Ron Amadeo](http://arstechnica.com/author/ronamadeo) / Ron 是 Ars Technica 的评论编缉，专注于安卓系统和谷歌产品。他总是在追寻新鲜事物，还喜欢拆解事物看看它们到底是怎么运作的。[@RonAmadeo](https://twitter.com/RonAmadeo)

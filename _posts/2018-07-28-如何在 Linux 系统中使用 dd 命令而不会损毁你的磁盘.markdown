@@ -15,7 +15,7 @@ tags:	[linuxcn,dd,备份]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/20/213602w7sxazdloluxhooz.jpg)
+![](/Asserts/Images/album/201807/20/213602w7sxazdloluxhooz.jpg)
 
 
 *这篇文章节选自 Manning 出版社出版的图书 [Linux in Action](https://www.manning.com/books/linux-in-action?a_aid=bootstrap-it&a_bid=4ca15fc9&chan=opensource)的第 4 章。*

@@ -7,7 +7,7 @@ tags:	[linuxcn,UNIX,Linux,BSD,Windows]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/23/135029tpr77rrl7fauzz30.jpg)
+![](/Asserts/Images/album/201407/23/135029tpr77rrl7fauzz30.jpg)
 
 
 大多数操作系统可以被划分到两个不同的家族。除了微软的基于Windows NT的操作系统外，几乎所有其他的都可以追溯到Unix。
@@ -28,7 +28,7 @@ Unix在20世纪60年代中晚期诞生于AT&T的贝尔实验室中。最初发�
 Unix还设计了一个单一的文件系统，程序可以通过它互相通讯。这也是[为什么在Linux里说“一切都是文件”](http://www.howtogeek.com/117939/htg-explains-what-everything-is-a-file-means-on-linux/)－包括硬件设备文件，和提供系统信息及其他数据的特殊文件。这也是为什么只有Windows系统中才有磁盘盘符，这是从DOS继承过来的－在其他操作系统中，所有文件都是一个单一目录结构中的一部分。
 
 
-![](/Asserts/Images//attachment/album/201407/23/135030fnsmrq4bryzmgugn.jpg)
+![](/Asserts/Images/album/201407/23/135030fnsmrq4bryzmgugn.jpg)
 
 
 ### 那些从Unix派生出的系统
@@ -49,7 +49,7 @@ Richard Stallman建立GNU项目的目的是为了反对AT&T的Unix软件协议�
 另一组是商用的Unix操作系统。AT&T UNIX，SCO UnixWare，Sun Microsystem Solaris，HP-UX，IBM AIX，SGI IRIX－许多大型企业都希望建立并授权自己版本的Unix。它们如今并不常见，但其中一些仍然存在。
 
 
-![](/Asserts/Images//attachment/album/201407/23/135031yxxiyac5p5icccup.png)
+![](/Asserts/Images/album/201407/23/135031yxxiyac5p5icccup.png)
 
 
 图片致谢: [Wikimedia Commons](http://en.wikipedia.org/wiki/File:Unix_history.svg)
@@ -70,7 +70,7 @@ Windows 3.1，Windows 95，Windows 98，和 Windows ME都是建立在DOS的基�
 当然，微软也不是完全从零开始的。为了维护DOS和旧版本Windows软件的兼容性，Windows NT继承了许多DOS里的设定，比如磁盘盘符，反斜杠区分文件路径，正斜杠作为命令行参数开关。
 
 
-![](/Asserts/Images//attachment/album/201407/23/135033nk5mvqiv5jr5k5nb.jpg)
+![](/Asserts/Images/album/201407/23/135033nk5mvqiv5jr5k5nb.jpg)
 
 
 ### 为什么它影响很大

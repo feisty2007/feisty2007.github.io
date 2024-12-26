@@ -7,10 +7,10 @@ tags:	[linuxcn,安卓,AI,钓鱼]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/11/102403ii21e25x9299oo5i.jpg)
+![](/Asserts/Images/album/202112/11/102403ii21e25x9299oo5i.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/11/102415vmjhgmz9m9w4k8km.jpg)
+![](/Asserts/Images/album/202112/11/102415vmjhgmz9m9w4k8km.jpg)
 
 
 ### 安卓游戏将于 2022 年登陆 Windows
@@ -27,7 +27,7 @@ tags:	[linuxcn,安卓,AI,钓鱼]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/11/102433o3o1yedhrh1k3fzh.jpg)
+![](/Asserts/Images/album/202112/11/102433o3o1yedhrh1k3fzh.jpg)
 
 
 ### 微软借助深度学习查找并修复错误
@@ -44,7 +44,7 @@ tags:	[linuxcn,安卓,AI,钓鱼]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/11/102452iriitl6wm69reei9.jpg)
+![](/Asserts/Images/album/202112/11/102452iriitl6wm69reei9.jpg)
 
 
 ### Edge 浏览器提供防止打错网址而被钓鱼的功能

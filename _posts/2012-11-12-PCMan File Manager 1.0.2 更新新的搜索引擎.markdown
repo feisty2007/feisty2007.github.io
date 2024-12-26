@@ -10,7 +10,7 @@ tags:	[linuxcn,PCMan File Manager,新功能]
 PCMan File Manager 现在已经升级到 1.0.2 版本了。稳定性得到了更加一步的提升。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201211/01/141522x2jxhmtme6uryutu.png](/Asserts/Images//attachment/album/201211/01/141522x2jxhmtme6uryutu.png)
+![https://img.linux.net.cn/Asserts/Images/album/201211/01/141522x2jxhmtme6uryutu.png](/Asserts/Images/album/201211/01/141522x2jxhmtme6uryutu.png)
 
 
 **PCMan File Manager 1.0.2 新功能：**

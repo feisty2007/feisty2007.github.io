@@ -7,10 +7,10 @@ tags:	[linuxcn,Python,USB-C,i486]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/25/192830rzy28s2rw8ouou8t.jpg)
+![](/Asserts/Images/album/202210/25/192830rzy28s2rw8ouou8t.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/25/192839k3xpp3zss06fj6w8.jpg)
+![](/Asserts/Images/album/202210/25/192839k3xpp3zss06fj6w8.jpg)
 
 
 ### Python 3.11 发布：性能大幅提升
@@ -35,7 +35,7 @@ tags:	[linuxcn,Python,USB-C,i486]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/25/192850o1yyhngu2kzjey1h.jpg)
+![](/Asserts/Images/album/202210/25/192850o1yyhngu2kzjey1h.jpg)
 
 
 ### 欧洲理事会正式批准统一 USB-C 法案
@@ -60,7 +60,7 @@ tags:	[linuxcn,Python,USB-C,i486]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/25/192903yzlxl2fbb9w7h9l5.jpg)
+![](/Asserts/Images/album/202210/25/192903yzlxl2fbb9w7h9l5.jpg)
 
 
 ### Linux 考虑淘汰对英特尔 i486 CPU 的支持

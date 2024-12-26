@@ -15,7 +15,7 @@ tags:	[linuxcn,Spark,SQL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/24/093036xaf6kaz1auaf4a7s.jpg)
+![](/Asserts/Images/album/202205/24/093036xaf6kaz1auaf4a7s.jpg)
 
 
 有了 Spark SQL，用户可以编写 SQL 风格的查询。这对于精通结构化查询语言或 SQL 的广大用户群体来说，基本上是很有帮助的。用户也将能够在结构化数据上编写交互式和临时性的查询。Spark SQL 弥补了<ruby> 弹性分布式数据集 <rt>  resilient distributed data sets </rt></ruby>（RDD）和关系表之间的差距。RDD 是 Spark 的基本数据结构。它将数据作为分布式对象存储在适合并行处理的节点集群中。RDD 很适合底层处理，但在运行时很难调试，程序员不能自动推断<ruby> 模式 <rt>  schema </rt></ruby>。另外，RDD 没有内置的优化功能。Spark SQL 提供了<ruby> 数据帧 <rt>  DataFrame </rt></ruby>和数据集来解决这些问题。
@@ -63,7 +63,7 @@ Spark SQL 可以使用现有的 Hive 元存储、SerDes 和 UDF。它可以使�
 Spark 3.x 通过使用运行时数据来迭代改进查询计划和优化，增强了这个过程。前一阶段的运行时统计数据被用来优化后续阶段的查询计划。这里有一个反馈回路，有助于重新规划和重新优化执行计划。
 
 
-![Figure 1: Query planning](/Asserts/Images//attachment/album/202205/24/093039bgv1g1kw54xbk211.jpg)
+![Figure 1: Query planning](/Asserts/Images/album/202205/24/093039bgv1g1kw54xbk211.jpg)
 
 
 #### 自适应查询执行（AQE）
@@ -111,7 +111,7 @@ spark.conf.set(“spark.sql.adaptive.skewJoin.enabled”,true)
 
 ```
 
-![Figure 2: Performance improvement in Spark 3.x (Source: Databricks)](/Asserts/Images//attachment/album/202205/24/093039mz91rb31jiyt3qjc.jpg)
+![Figure 2: Performance improvement in Spark 3.x (Source: Databricks)](/Asserts/Images/album/202205/24/093039mz91rb31jiyt3qjc.jpg)
 
 
 ### 其他改进措施

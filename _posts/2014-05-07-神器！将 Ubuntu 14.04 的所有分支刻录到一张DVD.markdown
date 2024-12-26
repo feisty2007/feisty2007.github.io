@@ -16,7 +16,7 @@ Ubuntu 有基于不同桌面环境的几个官方版本。默认的 Ubuntu 自�
 这就是[Ubuntu AIO(ALL IN ONE)](http://ubuntuaio.wordpress.com/about-us/)出现的原因。该项目是由[Start Ubuntu](https://wiki.ubuntu.com/StartUbuntu)小组部分成员发起的，Ubuntu 的 AIO DVD 可以让你在一张光盘或者一个U盘中尝试 Ubuntu Unity，Lubuntu，Xubuntu，Kubuntu 和 Ubuntu Gnome 等不同版本。
 
 
-![](/Asserts/Images//attachment/album/201405/22/220229he1rnf34c31vrwei.jpg)
+![](/Asserts/Images/album/201405/22/220229he1rnf34c31vrwei.jpg)
 
 
 当然 Ubuntu AIO 也有一些缺点。首先它体积太大了，有将近4.7GB。所以，它不适合于标准的4GB U盘（你得刻录到光盘，或者虚拟光盘）。而且它只有两个版本，第一个是64位版本，包括有 Ubuntu，Kubuntu 和 Ubuntu Gnome，另外一个，则包含有32位版本的 Xubuntu 和 Lubuntu。尽管有缺点，这是一个不错的项目，可以帮助我们选择恰当的 Ubuntu 版本。

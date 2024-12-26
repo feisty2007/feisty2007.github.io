@@ -7,10 +7,10 @@ tags:	[linuxcn,英雄联盟,FSF,Wine]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/26/090433c6fufifwdeooueep.jpg)
+![](/Asserts/Images/album/202301/26/090433c6fufifwdeooueep.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/26/090444lkfk88mpxrn0x9xk.jpg)
+![](/Asserts/Images/album/202301/26/090444lkfk88mpxrn0x9xk.jpg)
 
 
 ### 《英雄联盟》源代码被窃，勒索 1000 万美元
@@ -35,7 +35,7 @@ tags:	[linuxcn,英雄联盟,FSF,Wine]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/26/090501z0ppizqqpyy5q4hj.jpg)
+![](/Asserts/Images/album/202301/26/090501z0ppizqqpyy5q4hj.jpg)
 
 
 ### 自由软件基金会收紧对许可证的审批
@@ -60,7 +60,7 @@ tags:	[linuxcn,英雄联盟,FSF,Wine]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/26/090516mjh6bb4i0f3zopto.jpg)
+![](/Asserts/Images/album/202301/26/090516mjh6bb4i0f3zopto.jpg)
 
 
 ### Wine 8.0 发布，完成 PE 转换

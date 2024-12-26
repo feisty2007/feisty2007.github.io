@@ -7,7 +7,7 @@ tags:	[linuxcn,提词器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/17/121957caladccafgdfjfa7.jpg)
+![](/Asserts/Images/album/202201/17/121957caladccafgdfjfa7.jpg)
 
 
 这些天来，各种各样的人都在创建视频内容。从专业的 YouTubers 到学校教师，创建视频内容已经成为各种工作内容的一部分。
@@ -28,7 +28,7 @@ QPrompt 就是这样一款软件，它可以在 Linux、Windows 和其他平台�
 ### QPrompt：个人提词器软件
 
 
-![](/Asserts/Images//attachment/album/202201/17/122105wwchhq0q0xwqqqff.jpg)
+![](/Asserts/Images/album/202201/17/122105wwchhq0q0xwqqqff.jpg)
 
 
 [QPrompt](https://qprompt.app/) 是一个提词器软件，适用于所有类型的视频创作者。它的主要重点是易用性和快速性能。
@@ -60,7 +60,7 @@ QPrompt 中的 “Q” 提示该应用是使用 Qt 框架制作的。它的用�
 ### 安装 QPrompt
 
 
-![QPrompt running in Ubuntu](/Asserts/Images//attachment/album/202201/17/122105ab1vybrb9l9rrrrc.png)
+![QPrompt running in Ubuntu](/Asserts/Images/album/202201/17/122105ab1vybrb9l9rrrrc.png)
 
 
 QPrompt 是一个自由开源软件，它可以用于 Linux、Windows 和 macOS。也有适用于安卓设备的 APK，但目前还不稳定。

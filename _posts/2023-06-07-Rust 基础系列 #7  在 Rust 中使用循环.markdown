@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/15/164034klkjbf3ibapjbbfk.jpg)
+![](/Asserts/Images/album/202306/15/164034klkjbf3ibapjbbfk.jpg)
 
 
 在 Rust 系列的 [上一篇文章](/article-15896-1.html) 中，我介绍了如何使用 `if` 和 `else` 关键字来处理 Rust 程序的控制流。

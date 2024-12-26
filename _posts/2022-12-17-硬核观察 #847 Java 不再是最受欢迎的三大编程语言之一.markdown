@@ -7,10 +7,10 @@ tags:	[linuxcn,Java,PostScript,浏览器扩展]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/11/154846mpifdtdyiaiest6t.jpg)
+![](/Asserts/Images/album/202212/11/154846mpifdtdyiaiest6t.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/11/154856gkx5q9l9puz4p3nz.png)
+![](/Asserts/Images/album/202212/11/154856gkx5q9l9puz4p3nz.png)
 
 
 ### Java 不再是最受欢迎的三大编程语言之一
@@ -35,7 +35,7 @@ tags:	[linuxcn,Java,PostScript,浏览器扩展]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/11/154907w2p9ltt1jl9gt12l.jpg)
+![](/Asserts/Images/album/202212/11/154907w2p9ltt1jl9gt12l.jpg)
 
 
 ### 谷歌再次推迟淘汰 MV2 扩展
@@ -60,7 +60,7 @@ tags:	[linuxcn,Java,PostScript,浏览器扩展]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/11/154920h0ormjtxolwddfpu.jpg)
+![](/Asserts/Images/album/202212/11/154920h0ormjtxolwddfpu.jpg)
 
 
 ### Adobe 公开发布 PostScript 源代码

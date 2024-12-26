@@ -7,7 +7,7 @@ tags:	[linuxcn,权限]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/16/211924c1psmdn0b8szk19m.jpg)
+![](/Asserts/Images/album/201802/16/211924c1psmdn0b8szk19m.jpg)
 
 
 ### 目标

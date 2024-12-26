@@ -7,7 +7,7 @@ tags:	[linuxcn,DoH,黑莓]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/05/224751ba2m84av8am8e1kv.jpg)
+![](/Asserts/Images/album/202008/05/224751ba2m84av8am8e1kv.jpg)
 
 
 #### 伊朗黑客组织在攻击中利用 DNS-over-HTTPS 协议

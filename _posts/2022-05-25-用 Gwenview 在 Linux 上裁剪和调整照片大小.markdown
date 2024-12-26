@@ -15,7 +15,7 @@ tags:	[linuxcn,Gwenview,照片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/05/221207dtkjbbe1jets7n3u.jpg "Polaroids and palm trees")
+![](/Asserts/Images/album/202205/05/221207dtkjbbe1jets7n3u.jpg "Polaroids and palm trees")
 
 
 一张好的照片可以蕴含很多信息。表面上它表达了你所看到的，但它也讲述了你所经历的。细微之处也能说明很多问题：你在拍照时选择的角度、取景中隐约可见的的东西有多大，以及，相比之下，那些有意识选择忽略的部分。
@@ -60,7 +60,7 @@ Gwenview 通常有两种启动方式。你可以在 Dolphin 中点击图片文�
 无论你如何启动 Gwenview，界面和功能都是一样的：右边有一个工作区，左边有一个面板。
 
 
-![Gwenview](/Asserts/Images//attachment/album/202205/05/221211qb7tj9tibaj7qq8q.jpg "Gwenview")
+![Gwenview](/Asserts/Images/album/202205/05/221211qb7tj9tibaj7qq8q.jpg "Gwenview")
 
 
 （Seth Kenlon [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Photo courtesy [Andrea De Santis](http://unsplash.com/@santesson89)）
@@ -80,7 +80,7 @@ Gwenview 能理解文件系统，所以你可以按键盘上的**右**或**左**
 要离开单张照片视图并查看一个文件夹中的所有图片，请点击顶部工具栏中的“<ruby> 浏览 <rt>  Browse </rt></ruby>”按钮。
 
 
-![Browsing photos in a folder](/Asserts/Images//attachment/album/202205/05/221211nwqdbw2813tw8fh3.jpg "Browsing photos in a folder")
+![Browsing photos in a folder](/Asserts/Images/album/202205/05/221211nwqdbw2813tw8fh3.jpg "Browsing photos in a folder")
 
 
 （Seth Kenlon，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -89,7 +89,7 @@ Gwenview 能理解文件系统，所以你可以按键盘上的**右**或**左**
 你也可以同时拥有两种视图。点击 Gwenview 底部的“<ruby> 缩略图栏 <rt>  Thumbnail Bar </rt></ruby>”按钮，可以以电影胶片的形式看到当前文件夹中的其他图片，而当前选择的照片则在主面板中。
 
 
-![Thumbnail view](/Asserts/Images//attachment/album/202205/05/221211ag2dzp96kppiurvz.jpg "Thumbnail view")
+![Thumbnail view](/Asserts/Images/album/202205/05/221211ag2dzp96kppiurvz.jpg "Thumbnail view")
 
 
 （Seth Kenlon，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -115,7 +115,7 @@ Gwenview 能理解文件系统，所以你可以按键盘上的**右**或**左**
 所有这些工具都在“<ruby> 操作 <rt>  Operations </rt></ruby>”侧面板或“<ruby> 编辑 <rt>  Edit </rt></ruby>”菜单中可用。这些操作具有破坏性，因此在你进行更改后，单击“<ruby> 另存为 <rt>  Save As </rt></ruby>”以保存图像的 *副本*。
 
 
-![Cropping a photo in Gwenview](/Asserts/Images//attachment/album/202205/05/221212q11j2ybxgotvxxxi.jpg "Cropping a photo in Gwenview")
+![Cropping a photo in Gwenview](/Asserts/Images/album/202205/05/221212q11j2ybxgotvxxxi.jpg "Cropping a photo in Gwenview")
 
 
 （Seth Kenlon，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，照片由 [Elise Wilcox](http://unsplash.com/@elise_outside) 提供)

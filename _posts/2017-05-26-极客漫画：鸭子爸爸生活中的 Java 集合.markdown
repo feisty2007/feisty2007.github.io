@@ -7,7 +7,7 @@ tags:	[linuxcn,Java,漫画]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/03/083431bn0z1huuph9eyhh9.png)
+![](/Asserts/Images/album/201705/03/083431bn0z1huuph9eyhh9.png)
 
 
 随着需求不断的增加，数据管理也将变得越发复杂。

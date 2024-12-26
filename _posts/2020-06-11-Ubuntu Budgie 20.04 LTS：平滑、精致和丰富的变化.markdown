@@ -10,7 +10,7 @@ tags:	[linuxcn,]
 正如我们向读者承诺的那样，我们将对 [Ubuntu 20.04 LTS 版本](https://itsfoss.com/download-ubuntu-20-04/)的所有主要特色版进行评测。在这个续篇中，我们将对 Ubuntu Budgie 进行评测。
 
 
-![](/Asserts/Images//attachment/album/202006/27/102946cshkj06yqsrxrry4.png)
+![](/Asserts/Images/album/202006/27/102946cshkj06yqsrxrry4.png)
 
 
 顾名思义，[Ubuntu Budgie](https://ubuntubudgie.org/) 是使用 [Budgie 桌面环境](https://en.wikipedia.org/wiki/Budgie_)的 [Ubuntu 官方特色版](https://itsfoss.com/which-ubuntu-install/)。这个版本是 Ubuntu 家族中较新的一位成员。Ubuntu Budgie 的第一个版本是 16.04，它在 17.04 版本时被接受为官方特色版。
@@ -50,7 +50,7 @@ tags:	[linuxcn,]
 * 更新了 GNOME 的依赖性
 
 
-![](/Asserts/Images//attachment/album/202006/27/102956pdz06qqd20u1q601.jpeg)
+![](/Asserts/Images/album/202006/27/102956pdz06qqd20u1q601.jpeg)
 
 
 Ubuntu Budgie 现在随附了 Budgie 桌面环境的最新版本（10.5.1）。改进包括：
@@ -65,7 +65,7 @@ Ubuntu Budgie 现在随附了 Budgie 桌面环境的最新版本（10.5.1）。�
 Ubuntu Budgie 自带了大量的 Budgie <ruby> 小程序 <rt>  applet </rt></ruby>和<ruby> 微应用 <rt>  min-app </rt></ruby>。它们可以通过 Ubuntu Budgie “欢迎”应用来安装。
 
 
-![](/Asserts/Images//attachment/album/202006/27/103035tjwjjsbx7jbbxbje.png)
+![](/Asserts/Images/album/202006/27/103035tjwjjsbx7jbbxbje.png)
 
 
 * WeatherShow：显示未来五天的天气预报，每 3 小时更新一次
@@ -99,7 +99,7 @@ Ubuntu Budgie 20.04 更新了[系统要求](https://ubuntubudgie.org/downloads/)
 #### 安装的应用
 
 
-![](/Asserts/Images//attachment/album/202006/27/103044gx96rb66ruzc00o9.jpeg)
+![](/Asserts/Images/album/202006/27/103044gx96rb66ruzc00o9.jpeg)
 
 
 Ubuntu Budgie 中默认包含了以下有用的应用程序：
@@ -125,7 +125,7 @@ Ubuntu Budgie 中默认包含了以下有用的应用程序：
 * Celluloid
 
 
-![](/Asserts/Images//attachment/album/202006/27/103301uhdnqohlhhnc8zv8.png)
+![](/Asserts/Images/album/202006/27/103301uhdnqohlhhnc8zv8.png)
 
 
 ### 安装
@@ -140,7 +140,7 @@ Ubuntu Budgie 中默认包含了以下有用的应用程序：
 ### Ubuntu Budgie 20.04 的体验
 
 
-![](/Asserts/Images//attachment/album/202006/27/103319ha09vg7td6d28dbl.jpg)
+![](/Asserts/Images/album/202006/27/103319ha09vg7td6d28dbl.jpg)
 
 
 除了这个安装上的小问题，我使用 Ubuntu Budgie 的体验非常愉快。自 [Ikey](https://itsfoss.com/ikey-doherty-serpent-interview/) 第一次创建 Budgie 桌面以来，Budgie 桌面已经进步了很多，并且已经成为一个非常成熟的选择。Ubuntu Budgie 的目标是“生产一个面向桌面的传统发行版”。它确实做到了极致。他们所做的所有改变都在不断地为他们的产品增添更多的光彩。
@@ -164,7 +164,7 @@ Ubuntu Budgie 是众多官方版本中一个很受欢迎的新版本。Budgie �
 如果你厌倦了当前的桌面环境，想体验一下新的东西，不妨来看看。如果你对当前的环境感到满意，那么就试试 Ubuntu Budgie 的即用 DVD。你可能会喜欢上它。
 
 
-![](/Asserts/Images//attachment/album/202006/27/103328gdj4brdmevklq5gd.png)
+![](/Asserts/Images/album/202006/27/103328gdj4brdmevklq5gd.png)
 
 
 你是否已经尝试过 Ubuntu 20.04 Budgie？你对它的使用体验如何？如果没有用过，你现在使用的是哪个版本的 Ubuntu 20.04？

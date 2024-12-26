@@ -15,7 +15,7 @@ tags:	[linuxcn,短链接,Apache]
 > 
 
 
-![](/Asserts/Images//attachment/album/201809/19/223103exq5ziz5baxbuix1.png)
+![](/Asserts/Images/album/201809/19/223103exq5ziz5baxbuix1.png)
 
 
 很久以前，人们开始在 Twitter 上分享链接。140 个字符的限制意味着 URL 可能消耗一条推文的大部分（或全部），因此人们使用 URL 缩短服务。最终，Twitter 加入了一个内置的 URL 缩短服务（[t.co](http://t.co)）。
@@ -55,7 +55,7 @@ tags:	[linuxcn,短链接,Apache]
 
 ```
     RewriteEngine on
-    RewriteMap shortlinks txt:/Asserts/Images//web/shortlink/links.txt
+    RewriteMap shortlinks txt:/data/web/shortlink/links.txt
     RewriteRule ^/(.+)$ ${shortlinks:$1} [R=temp,L]
 ```
 

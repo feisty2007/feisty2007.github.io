@@ -7,7 +7,7 @@ tags:	[linuxcn,6.828]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/03/225323hpu3rwup1ivwqp4v.jpg)
+![](/Asserts/Images/album/201812/03/225323hpu3rwup1ivwqp4v.jpg)
 
 
 ### 简介

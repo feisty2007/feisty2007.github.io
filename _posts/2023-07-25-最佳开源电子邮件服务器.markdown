@@ -7,7 +7,7 @@ tags:	[linuxcn,电子邮件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/09/191748lhcbs9syshhdszbg.jpg)
+![](/Asserts/Images/album/202307/09/191748lhcbs9syshhdszbg.jpg)
 
 
 
@@ -81,7 +81,7 @@ tags:	[linuxcn,电子邮件]
 ### 2、mailcow
 
 
-![mailcow 用户界面](/Asserts/Images//attachment/album/202307/09/191831t61hohoyvz60hhyd.jpg)
+![mailcow 用户界面](/Asserts/Images/album/202307/09/191831t61hohoyvz60hhyd.jpg)
 
 
 [mailcow](https://mailcow.email/) 是一个邮件服务器套件，其中包含帮助你构建 Web 服务器、管理邮箱等工具。
@@ -110,7 +110,7 @@ mailcow 的 Web 用户界面可让你在一个地方完成所有操作。你可�
 ### 3、Cuttlefish
 
 
-![Cuttlefish](/Asserts/Images//attachment/album/202307/09/191832r14matfztttvmezy.png)
+![Cuttlefish](/Asserts/Images/album/202307/09/191832r14matfztttvmezy.png)
 
 
 想要一个简单的交易性邮件服务器吗？[Cuttlefish](https://cuttlefish.io/) 是一个简单易用的开源邮件服务器。
@@ -135,7 +135,7 @@ mailcow 的 Web 用户界面可让你在一个地方完成所有操作。你可�
 ### 4、Apache James
 
 
-![Apache James](/Asserts/Images//attachment/album/202307/09/191832thuz9ys65xy9uu64.jpg)
+![Apache James](/Asserts/Images/album/202307/09/191832thuz9ys65xy9uu64.jpg)
 
 
 [James](https://james.apache.org/) 是 “Java Apache Mail Enterprise Server” 的缩写。
@@ -180,7 +180,7 @@ mailcow 的 Web 用户界面可让你在一个地方完成所有操作。你可�
 ### 6、Modoboa
 
 
-![](/Asserts/Images//attachment/album/202307/09/191832t804w000mssw2nh0.jpg)
+![](/Asserts/Images/album/202307/09/191832t804w000mssw2nh0.jpg)
 
 
 [Modoboa](https://modoboa.org/en/) 是一个多合一的开源解决方案。
@@ -262,7 +262,7 @@ Maddy 在使用场景上非常受欢迎，它可以用单一实现替代多个�
 ### 10、[Poste.io](http://Poste.io)
 
 
-![Poste.io 邮件服务器](/Asserts/Images//attachment/album/202307/09/191833pkcc16z122qzkb40.png)
+![Poste.io 邮件服务器](/Asserts/Images/album/202307/09/191833pkcc16z122qzkb40.png)
 
 
 [Poste.io](https://poste.io/) 使用了邮件服务器解决方案，如 Haraku、Dovecot 和其他开源组件。从垃圾邮件过滤工具到防病毒引擎，应有尽有。
@@ -300,7 +300,7 @@ Maddy 在使用场景上非常受欢迎，它可以用单一实现替代多个�
 ### 12、Mailu
 
 
-![Mailu 邮件服务器](/Asserts/Images//attachment/album/202307/09/191833zldfwc22dyfc3hkq.png)
+![Mailu 邮件服务器](/Asserts/Images/album/202307/09/191833zldfwc22dyfc3hkq.png)
 
 
 [Mailu](https://mailu.io/2.0/) 是一个基于 Docker 的邮件服务器，可以为你提供最好的服务，同时限制了一些功能。

@@ -7,7 +7,7 @@ tags:	[linuxcn,dhcp,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/02/062337ncbcmjgkp9ltm404.jpg)
+![](/Asserts/Images/album/201806/02/062337ncbcmjgkp9ltm404.jpg)
 
 
 前几天在 `dhcp-client` 中发现并披露了一个严重的安全漏洞。此 DHCP 漏洞会对你的系统和数据造成高风险，尤其是在使用不受信任的网络，如非你拥有的 WiFi 接入点时。

@@ -10,7 +10,7 @@ tags:	[linuxcn,Ubuntu Edge,社交网站]
 　　在 Ubuntu Edge 筹资项目达到一千万美元的时候，Mark Shuttleworth 和大家说：我们正在努力给四万个用户把 Ubuntu Edge 制造出来。
 
 
-![](/Asserts/Images//attachment/album/201308/15/223137457hs52o7shs775k.png)
+![](/Asserts/Images/album/201308/15/223137457hs52o7shs775k.png)
 
 
 　　来自世界各地的爱好者、媒体、社交网站、公司的开发团队已经深深的被 Ubuntu Edge 项目触动。他们共同行动起来，希望能加速推动筹资项目的完成。

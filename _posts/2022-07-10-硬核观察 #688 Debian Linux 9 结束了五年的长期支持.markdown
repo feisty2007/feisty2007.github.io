@@ -7,10 +7,10 @@ tags:	[linuxcn,Debian,勒索软件,硬盘]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/05/172218xe92211h1u9eqa11.jpg)
+![](/Asserts/Images/album/202207/05/172218xe92211h1u9eqa11.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/05/172227n8yf4hdxys6wffo6.jpg)
+![](/Asserts/Images/album/202207/05/172227n8yf4hdxys6wffo6.jpg)
 
 
 ### Debian Linux 9 结束了五年的长期支持
@@ -35,7 +35,7 @@ Debian 长期支持团队近日宣布：Debian Linux 9 系列的五年支持周�
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/05/172255dot3jnn3j1mt9va8.jpg)
+![](/Asserts/Images/album/202207/05/172255dot3jnn3j1mt9va8.jpg)
 
 
 ### 传统数据安全工具大多无法抵御勒索软件攻击
@@ -46,7 +46,7 @@ Debian 长期支持团队近日宣布：Debian Linux 9 系列的五年支持周�
 
 
 > 
-> **[消息来源：Venture Beat](https://venturebeat.com/2022/06/30/Asserts/Images/-security-ransomware/)**
+> **[消息来源：Venture Beat](https://venturebeat.com/2022/06/30/data-security-ransomware/)**
 > 
 > 
 > 
@@ -60,7 +60,7 @@ Debian 长期支持团队近日宣布：Debian Linux 9 系列的五年支持周�
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/05/172309itklgltgnmlsknmf.jpg)
+![](/Asserts/Images/album/202207/05/172309itklgltgnmlsknmf.jpg)
 
 
 ### 西数表示硬盘容量依然很重要

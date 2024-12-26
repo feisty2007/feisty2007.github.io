@@ -7,10 +7,10 @@ tags:	[linuxcn,openKylin,OpenOffice,英特尔]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/23/210322cpevxegbbmf9dcd5.jpg)
+![](/Asserts/Images/album/202207/23/210322cpevxegbbmf9dcd5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/23/210356xk6xsk3kkrx6xuis.jpg)
+![](/Asserts/Images/album/202207/23/210356xk6xsk3kkrx6xuis.jpg)
 
 
 ### openKylin 发布首个体验版，目标“每一行代码都自主创新”
@@ -35,7 +35,7 @@ tags:	[linuxcn,openKylin,OpenOffice,英特尔]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/23/210333e4gzgfkl3g18mqnc.jpg)
+![](/Asserts/Images/album/202207/23/210333e4gzgfkl3g18mqnc.jpg)
 
 
 ### Apache OpenOffice 发布了一个微不足道的更新
@@ -60,7 +60,7 @@ Apache OpenOffice 于 2011 年创建后，几乎停滞不前。从 [OpenOffice.o
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/23/210413p631ozsxyjjgj0yr.jpg)
+![](/Asserts/Images/album/202207/23/210413p631ozsxyjjgj0yr.jpg)
 
 
 ### 英特尔提交了一行改进百倍的图形驱动补丁

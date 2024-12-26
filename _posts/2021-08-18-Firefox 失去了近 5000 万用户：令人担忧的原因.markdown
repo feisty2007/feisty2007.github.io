@@ -15,7 +15,7 @@ tags:	[linuxcn,Firefox,火狐]
 > 
 
 
-![](/Asserts/Images//attachment/album/202108/08/123732tnyiigh6ioywmgff.jpg)
+![](/Asserts/Images/album/202108/08/123732tnyiigh6ioywmgff.jpg)
 
 
 Mozilla 的 Firefox 是基于 Chromium 内核的浏览器的唯一流行替代品。
@@ -33,10 +33,10 @@ Mozilla 的 Firefox 是基于 Chromium 内核的浏览器的唯一流行替代�
 不过，我在 Reddit 上偶然发现了由 [u/nixcraft](https://www.reddit.com/user/nixcraft/) 写的一篇帖子，这篇帖子强调了 Firefox 的用户数从 2018 年来不断下降的原因。
 
 
-而令人惊讶的是，这篇帖子的原始信息来源就是 [Firefox 的公开数据报表](https://Asserts/Images/.firefox.com/dashboard/user-activity)。
+而令人惊讶的是，这篇帖子的原始信息来源就是 [Firefox 的公开数据报表](https://data.firefox.com/dashboard/user-activity)。
 
 
-![](/Asserts/Images//attachment/album/202108/08/123732fcm5km292xu0xwct.png)
+![](/Asserts/Images/album/202108/08/123732fcm5km292xu0xwct.png)
 
 
 根据官方数据统计，在 2018 年底，其报告的（月度）活跃人数达到了 **2.44 亿**。
@@ -109,7 +109,7 @@ Mozilla 的 Firefox 是基于 Chromium 的浏览器的唯一可行的竞争品�
 **但是，待到 Firefox 因为各种使其衰落的因素而彻底消失后，你又该何去何从呢？**
 
 
-![](/Asserts/Images//attachment/album/202108/08/123733s4tmtgtp9zqd09zc.jpg)
+![](/Asserts/Images/album/202108/08/123733s4tmtgtp9zqd09zc.jpg)
 
 
 因此，为了让一切保持平衡，我认为我们应该不断反抗科技巨头的反竞争行为，并且开始使用 Mozilla Firefox（不论是什么身份，甚至是作为备用浏览器）。

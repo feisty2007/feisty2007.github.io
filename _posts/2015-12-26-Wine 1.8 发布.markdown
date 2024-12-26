@@ -7,7 +7,7 @@ tags:	[linuxcn,Wine]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/20/130440d6z6h97et0h6e5cj.png)
+![](/Asserts/Images/album/201512/20/130440d6z6h97et0h6e5cj.png)
 
 
 Wine 团队很高兴的向您宣布，稳定版的 Wine 1.8 现在发布了！

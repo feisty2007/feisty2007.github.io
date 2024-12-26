@@ -15,7 +15,7 @@ tags:	[linuxcn,lshw,硬件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/10/085451qmcb58d9fcev55cf.jpg)
+![](/Asserts/Images/album/202010/10/085451qmcb58d9fcev55cf.jpg)
 
 
 虽然 `lshw` 命令（<ruby> 列出硬件 <rt>  list hardware </rt></ruby>，读作 “ls hardware”）远不是每个人最先学会的 50 个 Linux 命令之一，但它可以提供很多系统硬件的有用信息。

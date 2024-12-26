@@ -7,7 +7,7 @@ tags:	[linuxcn,Chrome,Dock,Elementary OS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201502/27/224147o300a3wxibewbhsh.jpeg)
+![](/Asserts/Images/album/201502/27/224147o300a3wxibewbhsh.jpeg)
 
 
 这篇文章会教你**如何避免在ELemetary OS Freya中出现两个Google Chrome 图标**。
@@ -64,7 +64,7 @@ StartupWMClass=Google-chrome-stable
 看上去像这样：
 
 
-![](/Asserts/Images//attachment/album/201502/27/224151rhltdfhtd1zfpmcq.png)
+![](/Asserts/Images/album/201502/27/224151rhltdfhtd1zfpmcq.png)
 
 
 #### 第四步:

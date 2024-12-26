@@ -7,7 +7,7 @@ tags:	[linuxcn,find,du]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/29/161156csgr8hszh3nk7tjj.jpg)
+![](/Asserts/Images/album/201803/29/161156csgr8hszh3nk7tjj.jpg)
 
 
 当系统的磁盘空间不足时，您可能会使用 `df`、`du` 或 `ncdu` 命令进行检查，但这些命令只会显示当前目录的文件，并不会显示整个系统范围的文件。

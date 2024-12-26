@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/14/095522os6236zrzcgs79e9.jpg)
+![](/Asserts/Images/album/202211/14/095522os6236zrzcgs79e9.jpg)
 
 
 时至今日，世界上已经有成百上千种不同的 Linux 发行版。
@@ -36,7 +36,7 @@ tags:	[linuxcn,Linux,发行版]
 ### 1、NixOS
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095524duob1kvcnzz9ku46.png)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095524duob1kvcnzz9ku46.png)
 
 
 NixOS 最初发布于 2003 年，NixOS 建立在 Nix 包管理器之上。它每年发布两个版本，通常是在 5 月和 11 月。
@@ -67,7 +67,7 @@ NixOS 可能不是一个直接面向新用户或普通用户的发行版。然�
 ### 2、Gentoo Linux
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095526ixkrk1ugju5rczbg.jpg)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095526ixkrk1ugju5rczbg.jpg)
 
 
 Geetoo Linux 是一个主要针对操作系统专家的独立 Linux 发行版。它是为那些希望自由定制、微调和优化操作系统以满足其要求的用户而构建。
@@ -98,7 +98,7 @@ Gentoo 使用 [Portage 包管理器](https://wiki.gentoo.org/wiki/Portage) 来�
 ### 3、Void Linux
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095526y3nonllwwmll9lzu.jpg)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095526y3nonllwwmll9lzu.jpg)
 
 
 Void Linux 是一个 [滚动发布的发行版](https://itsfoss.com/rolling-release/)，使用 X 二进制软件包系统（XBPS）来安装和删除软件。它由前 NetBSD 开发者 Juan Romero Pardines 创建。
@@ -129,7 +129,7 @@ Void Linux 是一个 [滚动发布的发行版](https://itsfoss.com/rolling-rele
 ### 4、Solus Linux
 
 
-![solus budgie 2022](/Asserts/Images//attachment/album/202211/14/095526da5o5tjsgpe276ps.jpg)
+![solus budgie 2022](/Asserts/Images/album/202211/14/095526da5o5tjsgpe276ps.jpg)
 
 
 Solus 的前身是 EvolveOS，它从头开始构建并提供了一些令人兴奋的特性。Solus 的旗舰版本使用自己打造的 Budgie 作为桌面环境。
@@ -159,7 +159,7 @@ Solus 的前身是 EvolveOS，它从头开始构建并提供了一些令人兴�
 ### 5、Mageia
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095527n9dvvzhpjmlfcdhd.jpg)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095527n9dvvzhpjmlfcdhd.jpg)
 
 
 Mageia 始于 2010 年，它是 Mandriva Linux 的一个分支。它的目标是成为稳定且安全的桌面和服务器操作系统。
@@ -187,7 +187,7 @@ Mageia 是一个社区驱动的项目，由非营利组织和贡献者支持。�
 ### 6、Clear Linux
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095528jxztketkkskkef2k.png)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095528jxztketkkskkef2k.png)
 
 
 Clear Linux 是一个由英特尔发布的发行版，主要设计考虑是性能和云服务的使用。
@@ -218,7 +218,7 @@ Clear Linux 是一个由英特尔发布的发行版，主要设计考虑是性�
 ### 7、PCLinuxOS
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095530kgzac0gcu6z85m08.png)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095530kgzac0gcu6z85m08.png)
 
 
 PCLinuxOS 是一个 x86\_64 的 Linux 发行版，使用 APT/RPM 包管理。你可以使用 KDE Plasma、Mate 以及 XFCE 桌面，它同时还提供了更多特性的社区版本的桌面。
@@ -245,7 +245,7 @@ PCLinuxOS 是一个 x86\_64 的 Linux 发行版，使用 APT/RPM 包管理。你
 ### 8、4MLinux
 
 
-![4m linux 2022](/Asserts/Images//attachment/album/202211/14/095530m3llwswe3egpglit.jpg)
+![4m linux 2022](/Asserts/Images/album/202211/14/095530m3llwswe3egpglit.jpg)
 
 
 [4MLinux](https://itsfoss.com/4mlinux-review/) 是一个通用的 Linux 发行版，重点聚焦于下面四个 **“M”**
@@ -278,7 +278,7 @@ PCLinuxOS 是一个 x86\_64 的 Linux 发行版，使用 APT/RPM 包管理。你
 ### 9、Tiny Core Linux
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095531iiaaqhp3clhpg3cl.jpg)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095531iiaaqhp3clhpg3cl.jpg)
 
 
 Tiny Core Linux 专注于使用 BusyBox 和 FLTK 提供一个基础的系统。它不是一个完备的桌面，所以，并不能保证它可以运行于任何系统。
@@ -309,7 +309,7 @@ Tiny Core Linux 专注于使用 BusyBox 和 FLTK 提供一个基础的系统。�
 ### 10、Linux From Scratch（LFS）
 
 
-![Image Credit: Reddit](/Asserts/Images//attachment/album/202211/14/095531wqxajmjn2j9ajnni.png)
+![Image Credit: Reddit](/Asserts/Images/album/202211/14/095531wqxajmjn2j9ajnni.png)
 
 
 Linux From Scratch（LFS）并不是一个系统，而是通过手动构建所有组件来安装 Linux 的一种方法。一旦完成，它提供了一个紧凑、灵活和安全的系统，并且可以很好的理解一个基于 Linux 的操作系统内部是如何工作的。
@@ -337,7 +337,7 @@ Linux From Scratch（LFS）并不是一个系统，而是通过手动构建所�
 ### 11、Slackware
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095532rech3hyll45hzhc9.jpg)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095532rech3hyll45hzhc9.jpg)
 
 
 Slackware 是现今还在维护的最古老的发行版。最初创建于 1993 年，以 Softlanding Linux 系统为基础，随后，许多的 Linux 发行版都是基于 Slackware。
@@ -365,7 +365,7 @@ Slackware 目标是称为最类似于 UNIX 的 Linux 发行版，同时保持简
 ### 12、Alpine Linux
 
 
-![alpine linux xfce 2022](/Asserts/Images//attachment/album/202211/14/095533blh999x4vv4zhf0r.png)
+![alpine linux xfce 2022](/Asserts/Images/album/202211/14/095533blh999x4vv4zhf0r.png)
 
 
 Alpine Linux 是一个社区开发的操作系统，专为路由器、防火墙、VPN、VoIP 盒子和服务器而设计。它是 LEAF 项目的一个分支。
@@ -393,7 +393,7 @@ Alpine Linux 使用 apk-tools 包管理器，最初由 shell 脚本编写，而�
 ### 13、KaOS
 
 
-![Image Credits: Distrowatch](/Asserts/Images//attachment/album/202211/14/095533d369e3v1h3u8h888.png)
+![Image Credits: Distrowatch](/Asserts/Images/album/202211/14/095533d369e3v1h3u8h888.png)
 
 
 KaOS 是一个受到 Arch 启发，从头开始构建的 Linux 发行版。它使用 [pacman 包管理器](https://itsfoss.com/pacman-command/)。它是按照"*一个桌面环境（KDE Plasma），一个工具包（Qt），一个架构（X86\_64）*"的理念构建的。

@@ -7,7 +7,7 @@ tags:	[linuxcn,AVIF]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/16/112647uraz4vkzkkvk1mxa.jpg)
+![](/Asserts/Images/album/202306/16/112647uraz4vkzkkvk1mxa.jpg)
 
 
 
@@ -36,13 +36,13 @@ WebP 是一种相对较新的格式，可以生成尺寸更小、质量更好的
 如果你从网络上下载 AVIF 格式的图像，它不会显示缩略图。
 
 
-![avif image no thumbnail](/Asserts/Images//attachment/album/202306/16/112812duz5mhdhwp5ehhuy.png)
+![avif image no thumbnail](/Asserts/Images/album/202306/16/112812duz5mhdhwp5ehhuy.png)
 
 
 如果你尝试使用默认图像查看器打开它，它很可能会显示“无法识别的图像文件格式”错误。
 
 
-![avif images dont open linux](/Asserts/Images//attachment/album/202306/16/112812whnxamlngtus5zs2.png)
+![avif images dont open linux](/Asserts/Images/album/202306/16/112812whnxamlngtus5zs2.png)
 
 
 那么，解决方案是什么？ 在 Linux 上根本看不了 AVIF 图像吗？
@@ -69,25 +69,25 @@ sudo apt install gthumb
 
 ```
 
-![install gthumb ubuntu](/Asserts/Images//attachment/album/202306/16/112813ixsaz1hq19a89s16.png)
+![install gthumb ubuntu](/Asserts/Images/album/202306/16/112813ixsaz1hq19a89s16.png)
 
 
 安装后，选择一张 AVIF 图像，右键单击它并选择“<ruby> 打开方式 <rt>  Open With </rt></ruby>”选项。在这里，选择 gThumb，将其设为 AVIF 图像的默认值并打开它。
 
 
-![make gthumb default for avif](/Asserts/Images//attachment/album/202306/16/112813gryf7rxcll2klxc8.png)
+![make gthumb default for avif](/Asserts/Images/album/202306/16/112813gryf7rxcll2klxc8.png)
 
 
 gThumb 在打开的图像下以缩略图格式显示同一文件夹中的所有图像。
 
 
-![avif image opened with gthumb in linux](/Asserts/Images//attachment/album/202306/16/112843sma9m9y9fwfawtwy.jpg)
+![avif image opened with gthumb in linux](/Asserts/Images/album/202306/16/112843sma9m9y9fwfawtwy.jpg)
 
 
 使用 gThumb 打开 AVIF 图像后，它们也应该以缩略图显示。
 
 
-![avif image thumbnail](/Asserts/Images//attachment/album/202306/16/112814i110w171jbu5s1j8.png)
+![avif image thumbnail](/Asserts/Images/album/202306/16/112814i110w171jbu5s1j8.png)
 
 
 就是这样。你现在可以在 Linux 桌面上欣赏 AVIF 图像。

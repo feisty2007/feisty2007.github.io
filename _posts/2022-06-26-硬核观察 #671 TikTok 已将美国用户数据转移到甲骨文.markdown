@@ -7,10 +7,10 @@ tags:	[linuxcn,TikTok,安全漏洞,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/18/182413wnh44hizm4hnw4ii.jpg)
+![](/Asserts/Images/album/202206/18/182413wnh44hizm4hnw4ii.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/18/182439zdcoooi66spg9bob.jpg)
+![](/Asserts/Images/album/202206/18/182439zdcoooi66spg9bob.jpg)
 
 
 ### TikTok 已将美国用户数据转移到甲骨文
@@ -35,7 +35,7 @@ TikTok 表示，将 TikTok 的所有美国用户数据存储在美国的甲骨�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/18/182450w00000kuvjzwl0yy.jpg)
+![](/Asserts/Images/album/202206/18/182450w00000kuvjzwl0yy.jpg)
 
 
 ### 思科称不会修复终止支持的 VPN 路由器的零日漏洞
@@ -60,7 +60,7 @@ TikTok 表示，将 TikTok 的所有美国用户数据存储在美国的甲骨�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/18/182506xsnpjesn5nnbjxbs.jpg)
+![](/Asserts/Images/album/202206/18/182506xsnpjesn5nnbjxbs.jpg)
 
 
 ### GNOME 项目得到了微软 FOSS 基金的 10000 美元资助

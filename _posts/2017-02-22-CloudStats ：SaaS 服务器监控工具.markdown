@@ -10,7 +10,7 @@ tags:	[linuxcn,CloudStats]
 [CloudStats](http://www.servermonitoring.me/) 是一个简单而强大的服务器监控和网络监控工具。使用 CloudStats，你可以监控来自世界上任何地方的服务器和网络的所有指标。
 
 
-![](/Asserts/Images//attachment/album/201702/13/063426njba4vqeq9b49sbs.jpg)
+![](/Asserts/Images/album/201702/13/063426njba4vqeq9b49sbs.jpg)
 
 
 最棒的是你不需要有任何特殊的技术技能 - CloudStats 很容易安装在任何数据中心的任何服务器上。
@@ -25,19 +25,19 @@ CloudStats 允许你使用任何操作系统对任何服务器执行服务器监
 这里有几个关于 CloudStats 监控的截图。
 
 
-![CloudStats - Server Overview](/Asserts/Images//attachment/album/201702/13/063447tvtpb2v1uxmt1qr8.png)
+![CloudStats - Server Overview](/Asserts/Images/album/201702/13/063447tvtpb2v1uxmt1qr8.png)
 
 
 *CloudStats – 服务器概览*
 
 
-![CloudStats - Server Monitoring Overview](/Asserts/Images//attachment/album/201702/13/063448pjeljp4iaj66cf8i.png)
+![CloudStats - Server Monitoring Overview](/Asserts/Images/album/201702/13/063448pjeljp4iaj66cf8i.png)
 
 
 *CloudStats – 服务监控概览*
 
 
-![CloudStats - List of Servers for Monitoring](/Asserts/Images//attachment/album/201702/13/063449j23ff8f2zk3nekex.png)
+![CloudStats - List of Servers for Monitoring](/Asserts/Images/album/201702/13/063449j23ff8f2zk3nekex.png)
 
 
 *CloudStats – 监控的服务器列表*

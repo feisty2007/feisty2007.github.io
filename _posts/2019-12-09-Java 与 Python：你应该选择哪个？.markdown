@@ -15,7 +15,7 @@ tags:	[linuxcn,Java,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/16/095025dppnl2lgtykgggkt.jpg)
+![](/Asserts/Images/album/201912/16/095025dppnl2lgtykgggkt.jpg)
 
 
 让我们比较一下世界上两种最受欢迎、最强大的编程语言：Java 和 Python！这两种语言有巨大的社区支持和库来执行几乎任何编程任务，尽管选择编程语言通常取决于开发人员的场景。在比较和对比之后，请投票分享你的观点。
@@ -145,7 +145,7 @@ print("Hello Opensource.com from Java!")
 ### 运行程序
 
 
-![Java vs. Python](/Asserts/Images//attachment/album/201912/16/095053hg3t61o1x441vyrb.png "Java vs. Python")
+![Java vs. Python](/Asserts/Images/album/201912/16/095053hg3t61o1x441vyrb.png "Java vs. Python")
 
 
 要运行 java 程序 `Hello.java`，你需要先编译它，这将创建一个 `Hello.class` 文件。只需运行类名 `java Hello`。对于 Python，只需运行文件 `python3 helloworld.py`。

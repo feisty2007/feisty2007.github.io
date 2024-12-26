@@ -7,7 +7,7 @@ tags:	[linuxcn,文件,权限,chown,chmod]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/14/170711zy6zskat0kj21y2h.jpg)
+![](/Asserts/Images/album/202208/14/170711zy6zskat0kj21y2h.jpg)
 
 
 

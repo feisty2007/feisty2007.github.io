@@ -7,10 +7,10 @@ tags:	[linuxcn,CPU,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/24/122420z54cuc9ym1kcc1sc.jpg)
+![](/Asserts/Images/album/202207/24/122420z54cuc9ym1kcc1sc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/24/122429sllgikbuzabk54ga.jpg)
+![](/Asserts/Images/album/202207/24/122429sllgikbuzabk54ga.jpg)
 
 
 ### Linux x86\_32 架构易受 Retbleed 漏洞影响，但没人关心
@@ -35,7 +35,7 @@ tags:	[linuxcn,CPU,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/24/122444au3gpy539ujmem4l.jpg)
+![](/Asserts/Images/album/202207/24/122444au3gpy539ujmem4l.jpg)
 
 
 ### T2 SDE Linux 发布第一个 AI 超过人类贡献总和的版本
@@ -60,7 +60,7 @@ T2 SDE Linux 发布了 22.6 版本，其公告中称，它不仅仅是一个普�
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/24/122506ampx4kb6y10pzop1.jpg)
+![](/Asserts/Images/album/202207/24/122506ampx4kb6y10pzop1.jpg)
 
 
 ### 荷兰教育部要求学校暂停使用 Chrome

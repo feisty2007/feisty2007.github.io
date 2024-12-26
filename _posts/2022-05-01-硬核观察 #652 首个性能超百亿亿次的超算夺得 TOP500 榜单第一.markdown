@@ -7,10 +7,10 @@ tags:	[linuxcn,超算,TOP500,systemd,勒索软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/30/185702gn52nm0t405o0n0t.jpg)
+![](/Asserts/Images/album/202205/30/185702gn52nm0t405o0n0t.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/30/185710px4wl8p1zt8tj1a1.jpg)
+![](/Asserts/Images/album/202205/30/185710px4wl8p1zt8tj1a1.jpg)
 
 
 ### 首个性能超百亿亿次的超算夺得 TOP500 榜单第一
@@ -35,7 +35,7 @@ tags:	[linuxcn,超算,TOP500,systemd,勒索软件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/30/185726eur1zb26hjzbj417.jpg)
+![](/Asserts/Images/album/202205/30/185726eur1zb26hjzbj417.jpg)
 
 
 ### systemd 带来实验性的 A/B 式镜像更新功能
@@ -60,7 +60,7 @@ ChromeOS 有两个根分区：一个使用的，一个备用的。当前运行�
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/30/185744jfl4dv6v0svv0rzv.jpg)
+![](/Asserts/Images/album/202205/30/185744jfl4dv6v0svv0rzv.jpg)
 
 
 ### 勒索软件攻击让美国一个县回到纸质时代

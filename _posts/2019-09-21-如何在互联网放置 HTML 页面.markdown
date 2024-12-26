@@ -7,7 +7,7 @@ tags:	[linuxcn,网站]
 ---
 
 
-![](/Asserts/Images//attachment/album/201909/22/234957mmzoie1imufsuwea.jpg)
+![](/Asserts/Images/album/201909/22/234957mmzoie1imufsuwea.jpg)
 
 
 我喜欢互联网的一点是在互联网放置静态页面是如此简单。今天有人问我该怎么做，所以我想我会快速地写下来！

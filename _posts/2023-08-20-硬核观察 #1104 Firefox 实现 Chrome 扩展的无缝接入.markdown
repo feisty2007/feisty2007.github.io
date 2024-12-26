@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,AI,盗版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/25/143652grtxl75rrlrv0rlr.jpg)
+![](/Asserts/Images/album/202308/25/143652grtxl75rrlrv0rlr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/25/143701w66frk6k66q1qgty.jpg)
+![](/Asserts/Images/album/202308/25/143701w66frk6k66q1qgty.jpg)
 
 
 ### Firefox 实现 Chrome 扩展的无缝接入
@@ -35,7 +35,7 @@ Mozilla 的 Firefox 浏览器引入了 WebExtensions 系统，使得用户可以
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/25/143715fnct4vczop1bjibx.jpg)
+![](/Asserts/Images/album/202308/25/143715fnct4vczop1bjibx.jpg)
 
 
 ### 人工智能的训练利用了众多作家的盗版作品
@@ -60,7 +60,7 @@ Books3 是一个用于构建人工智能工具的数据集，被 Meta、彭博�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/25/143730gdqa19boppqybp9k.jpg)
+![](/Asserts/Images/album/202308/25/143730gdqa19boppqybp9k.jpg)
 
 
 ### 瘫痪女性通过 AI 技术“重获语言”，全球首例

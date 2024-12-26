@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派]
 > 
 
 
-![](/Asserts/Images//attachment/album/201904/16/180908lvzaen09nzkzx0b8.png)
+![](/Asserts/Images/album/201904/16/180908lvzaen09nzkzx0b8.png)
 
 
 ### 派节快乐！
@@ -42,7 +42,7 @@ tags:	[linuxcn,树莓派]
 * 第 13 天：[如何为树莓派社区做出贡献](/article-10731-1.html)
 
 
-![Pi Day illustration](/Asserts/Images//attachment/album/201904/16/180909do0brau8r780xgrn.jpg "Pi Day illustration")
+![Pi Day illustration](/Asserts/Images/album/201904/16/180909do0brau8r780xgrn.jpg "Pi Day illustration")
 
 
 我将结束本系列，感谢所有关注的人，尤其是那些在过去 14 天里从中学到了东西的人！我还想鼓励大家不断扩展他们对树莓派以及围绕它构建的所有开源（和闭源）技术的了解。

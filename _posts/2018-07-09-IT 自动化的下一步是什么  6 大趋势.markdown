@@ -15,7 +15,7 @@ tags:	[linuxcn,自动化]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/24/003652m2sn0q9n42phujsz.png)
+![](/Asserts/Images/album/201807/24/003652m2sn0q9n42phujsz.png)
 
 
 我们最近讨论了 [推动 IT 自动化的因素](https://enterprisersproject.com/article/2017/12/5-factors-fueling-automation-it-now)，可以看到[当前趋势](https://enterprisersproject.com/article/2017/12/4-trends-watch-it-automation-expands)正在增长，以及那些给刚开始使用自动化部分流程的组织的 [有用的技巧](https://enterprisersproject.com/article/2018/1/getting-started-automation-6-tips) 。
@@ -125,7 +125,7 @@ SolarWinds 公司的 Hubbard 指出，“自动化”一词本身就产生大量
 但是随着各种自动化技术的使用，对这些工具的观点也在不断发展。
 
 
-[DataVision](https://Asserts/Images/vision.com/) 首席运营官 Mark Abolafia 表示：“数据中心环境中存在很多重复性过程，容易出现人为错误，[Ansible](https://opensource.com/tags/ansible) 等技术有助于缓解这些问题。“通过 Ansible ，人们可以为一组操作编写特定的步骤，并输入不同的变量，例如地址等，使过去长时间的过程链实现自动化，而这些过程以前都需要人为触摸和更长的交付时间。”
+[DataVision](https://datavision.com/) 首席运营官 Mark Abolafia 表示：“数据中心环境中存在很多重复性过程，容易出现人为错误，[Ansible](https://opensource.com/tags/ansible) 等技术有助于缓解这些问题。“通过 Ansible ，人们可以为一组操作编写特定的步骤，并输入不同的变量，例如地址等，使过去长时间的过程链实现自动化，而这些过程以前都需要人为触摸和更长的交付时间。”
 
 
 **[想了解更多关于 Ansible 这个方面的知识吗？阅读相关文章：[使用 Ansible 时的成功秘诀](https://opensource.com/article/18/2/tips-success-when-getting-started-ansible?intcmp=701f2000000tjyaAAA)。 ]**

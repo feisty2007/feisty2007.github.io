@@ -7,10 +7,10 @@ tags:	[linuxcn,编程语言,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/11/194808vly0rlwlv2vymxk2.jpg)
+![](/Asserts/Images/album/202309/11/194808vly0rlwlv2vymxk2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/11/194817b181p278accpsx2c.jpg)
+![](/Asserts/Images/album/202309/11/194817b181p278accpsx2c.jpg)
 
 
 ### 人工智能正在大量“喝水”，你的每个问题都会用掉一瓶水
@@ -35,7 +35,7 @@ tags:	[linuxcn,编程语言,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/11/194831hm30goqrq883g33z.jpg)
+![](/Asserts/Images/album/202309/11/194831hm30goqrq883g33z.jpg)
 
 
 ### 2023 年顶级编程语言：Python 和 SQL
@@ -68,7 +68,7 @@ Python 在光谱榜（使用最多的语言）中保持第一，它已成为万�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/11/194843k3aqg6t626re6e2t.jpg)
+![](/Asserts/Images/album/202309/11/194843k3aqg6t626re6e2t.jpg)
 
 
 ### Meta 计划训练与 GPT-4 相当的人工智能模型

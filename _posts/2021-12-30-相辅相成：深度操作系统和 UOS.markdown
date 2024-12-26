@@ -7,7 +7,7 @@ tags:	[linuxcn,深度,UOS,统信]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/08/180144jrk07pheoo0ko7o5.jpg)
+![](/Asserts/Images/album/202112/08/180144jrk07pheoo0ko7o5.jpg)
 
 
 说到中国的 Linux 发行版，大家第一想到的就是<ruby> 深度操作系统 <rp>  （ </rp> <rt>  Deepin Linux </rt> <rp>  ） </rp></ruby>。而谈到最近火热的自主操作系统，相信大家也会想到统信 UOS。这二者背后的关系你又是否知道？

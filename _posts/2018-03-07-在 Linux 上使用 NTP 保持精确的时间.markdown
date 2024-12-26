@@ -7,7 +7,7 @@ tags:	[linuxcn,NTP,时间]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/19/133828fjuejxe4geg4j2eg.jpg)
+![](/Asserts/Images/album/201803/19/133828fjuejxe4geg4j2eg.jpg)
 
 
 如何保持正确的时间，如何使用 NTP 和 systemd 让你的计算机在不滥用时间服务器的前提下保持同步。

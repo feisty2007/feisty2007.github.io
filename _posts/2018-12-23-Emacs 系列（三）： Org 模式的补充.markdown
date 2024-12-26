@@ -7,7 +7,7 @@ tags:	[linuxcn,Org模式]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/09/195006oz8xr841oko616x3.png)
+![](/Asserts/Images/album/201812/09/195006oz8xr841oko616x3.png)
 
 
 这是 [Emacs 和 Org 模式系列](https://changelog.complete.org/archives/tag/emacs2018)的第三篇。

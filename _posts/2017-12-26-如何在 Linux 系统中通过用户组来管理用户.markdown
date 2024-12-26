@@ -7,7 +7,7 @@ tags:	[linuxcn,用户组,ACL,权限]
 ---
 
 
-![groups](/Asserts/Images//attachment/album/201712/05/224222k2uqlslgchuws8uj.jpg)
+![groups](/Asserts/Images/album/201712/05/224222k2uqlslgchuws8uj.jpg)
 
 
 
@@ -92,7 +92,7 @@ addgroup editors
 （LCTT 译注：当你使用 CentOS 等一些 Linux 发行版时，可能系统没有 `addgroup` 这个命令，推荐使用 `groupadd` 命令来替换 `addgroup` 命令以达到同样的效果）
 
 
-![groups](/Asserts/Images//attachment/album/201712/05/224231hdo32xtx3i26qc86.jpg)
+![groups](/Asserts/Images/album/201712/05/224231hdo32xtx3i26qc86.jpg)
 
 
 *图一：我们可以使用刚创建的新用户组了。*

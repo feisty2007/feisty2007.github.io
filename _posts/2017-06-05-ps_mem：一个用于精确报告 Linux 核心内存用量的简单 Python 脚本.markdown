@@ -7,7 +7,7 @@ tags:	[linuxcn,监控,内存,ps_mem]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/26/165617wobmm87558zh2obd.jpg)
+![](/Asserts/Images/album/201706/26/165617wobmm87558zh2obd.jpg)
 
 
 [ps\_mem](https://github.com/pixelb/ps_mem) 是一个可以帮助我们精确获取 Linux 中各个程序核心内存使用情况的简单 python 脚本。虽然在 Linux 上有很多可用于查看内存使用情况的工具，比如 `free`、`vmstat`、`smem`、`top` 等，但这个工具和其它的区别在于其精确显示核心内存使用情况。

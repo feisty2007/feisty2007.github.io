@@ -7,7 +7,7 @@ tags:	[linuxcn,fsck,ext,文件系统]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/16/164437f1c3321d0kg3oil0.jpg)
+![](/Asserts/Images/album/201711/16/164437f1c3321d0kg3oil0.jpg)
 
 
 文件系统是一个在计算机上帮你去管理数据怎么去存储和检索的数据结构。文件系统也可以被视作是磁盘上的物理（或扩展）分区。如果它没有很好地被维护或定期监视，它可能在长期运行中出现各种各样的错误或损坏。

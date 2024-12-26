@@ -15,7 +15,7 @@ tags:	[linuxcn,固件,Debian]
 > 
 
 
-![debian](/Asserts/Images//attachment/album/202207/29/075143o0jogujivuigw05s.jpg)
+![debian](/Asserts/Images/album/202207/29/075143o0jogujivuigw05s.jpg)
 
 
 由于 Debian 的稳定性和新功能之间的平衡，它是最受欢迎的 Linux 发行版之一。

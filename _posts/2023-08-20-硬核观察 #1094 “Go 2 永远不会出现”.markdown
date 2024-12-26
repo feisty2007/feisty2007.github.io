@@ -7,10 +7,10 @@ tags:	[linuxcn,Go,黑客,发电厂]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/15/205351u5lqcqxo3a3scxfi.jpg)
+![](/Asserts/Images/album/202308/15/205351u5lqcqxo3a3scxfi.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/15/205402pmdgmcgj4401k41n.jpg)
+![](/Asserts/Images/album/202308/15/205402pmdgmcgj4401k41n.jpg)
 
 
 ### “Go 2 永远不会出现”
@@ -35,7 +35,7 @@ tags:	[linuxcn,Go,黑客,发电厂]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/15/205416ttrvk7t5jt76r7w2.jpg)
+![](/Asserts/Images/album/202308/15/205416ttrvk7t5jt76r7w2.jpg)
 
 
 ### “诈弹” 毁了 DEF CON 派对之夜
@@ -60,7 +60,7 @@ tags:	[linuxcn,Go,黑客,发电厂]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/15/205433mhih4lemh5555qe4.jpg)
+![](/Asserts/Images/album/202308/15/205433mhih4lemh5555qe4.jpg)
 
 
 ### 微软发现可关闭发电厂的安全漏洞

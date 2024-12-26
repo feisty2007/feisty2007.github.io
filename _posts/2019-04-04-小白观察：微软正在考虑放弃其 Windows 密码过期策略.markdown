@@ -7,7 +7,7 @@ tags:	[linuxcn,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/26/111723f0bmxccckkpmpmh4.jpg)
+![](/Asserts/Images/album/201904/26/111723f0bmxccckkpmpmh4.jpg)
 
 
 ### Quick News
@@ -34,7 +34,7 @@ Godaddy 和 安全公司 Palo Alto Networks 联合，处理了超过 15000 个�
 根据德国媒体 Windows United 报道，在 Windows 2016 上访问新的 Edge 浏览器的官网时，会提醒暂时不支持该系统，并提示目前仅支持 Windows 和 macOS ，由此推断出微软应该很快放出 macOS 下基于 Chrome 内核的 Edge 浏览器。[【Windows United】](https://windowsunited.de/microsoft-edge-chromium-hinweis-deutet-auf-zeitnahen-macos-release-hin/)
 
 
-![](/Asserts/Images//attachment/album/201904/26/112255uju03v3hzhj551v5.jpg)
+![](/Asserts/Images/album/201904/26/112255uju03v3hzhj551v5.jpg)
 
 
 ##### AWS 进入香港云计算市场
@@ -43,7 +43,7 @@ Godaddy 和 安全公司 Palo Alto Networks 联合，处理了超过 15000 个�
 亚马逊在本周四开放了新的 Region —— 香港 ，从今天开始，用户可以使用 AWS 的香港服务。[【ZDNet】](https://www.zdnet.com/article/amazon-aws-enters-the-hong-kong-cloud-market/#ftag=RSSbaffb68)
 
 
-![](/Asserts/Images//attachment/album/201904/19/123826jwwhua7ggqzgxufz.png)
+![](/Asserts/Images/album/201904/19/123826jwwhua7ggqzgxufz.png)
 
 
 

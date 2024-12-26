@@ -7,13 +7,13 @@ tags:	[linuxcn,Kubernetes,LastPass,SolarWinds]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/27/183528wkq1yl5ffekujg1l.jpg)
+![](/Asserts/Images/album/202102/27/183528wkq1yl5ffekujg1l.jpg)
 
 
 ### 微软开源抓出 SolarWinds 黑客的工具代码
 
 
-![](/Asserts/Images//attachment/album/202102/27/183544m3zp9kg500f5f6p9.jpg)
+![](/Asserts/Images/album/202102/27/183544m3zp9kg500f5f6p9.jpg)
 
 
 微软利用 GitHub 的 [CodeQL](https://github.com/github/codeql) 发现其源代码是否在 SolarWinds 供应链攻击中被修改。为了调查 SolarWinds Orion 软件更新中植入的恶意软件，微软开源了其使用的 [CodeQL 查询](https://aka.ms/Solorigate-CodeQL-Queries)。微软使用 CodeQL 查询分析其源代码，确认其源代码中没有与 SolarWinds 事件相关的泄密指标和编码模式。
@@ -28,7 +28,7 @@ CodeQL 是一个语义代码分析引擎，它可以扫描发现代码库中的�
 ### Google 承认 Kubernetes 容器技术太复杂
 
 
-![](/Asserts/Images//attachment/album/202102/27/183604hpudttr139t2hru1.jpg)
+![](/Asserts/Images/album/202102/27/183604hpudttr139t2hru1.jpg)
 
 
 Google 的 GKE 产品负责人[说](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)，尽管有过去六年的进步，Kubernetes 仍然难以置信的复杂，过去一年他们看到很多企业用户拥抱 Kubernetes，但随后就陷入了困境。
@@ -43,7 +43,7 @@ Google 推出了新的 [Autopilo](https://cloud.google.com/kubernetes-engine/doc
 ### LastPass 安卓应用中有 7 个嵌入式追踪器
 
 
-![](/Asserts/Images//attachment/album/202102/27/183614jgkffu3ebfqegz37.jpg)
+![](/Asserts/Images/album/202102/27/183614jgkffu3ebfqegz37.jpg)
 
 
 一份关于著名的密码管理器 LastPass 的[报告显示](https://reports.exodus-privacy.eu.org/en/reports/165465/)，它的 Android 应用中有 7 个追踪器，其中包括来自谷歌的 4 个追踪器，目的是进行分析和崩溃报告。这些追踪器收集到的信息包括正在使用的设备、移动运营商、账户类型、谷歌广告 ID 等。LastPass 表示这些数据用于帮助改进和优化产品，并且用户可以设置关闭。

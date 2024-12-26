@@ -10,7 +10,7 @@ tags:	[linuxcn,SUSE,Zypper]
 Zypper是SUSE Linux中用于安装，升级，卸载，管理仓库、进行各种包查询的命令行接口。本篇将会讨论zypper的几个不同命令的例子。
 
 
-![](/Asserts/Images//attachment/album/201411/10/002955t5x2xz82y802mo2o.png)
+![](/Asserts/Images/album/201411/10/002955t5x2xz82y802mo2o.png)
 
 
 语法：
@@ -96,7 +96,7 @@ linux-xa3t:~ # zypper repos
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/10/002958xzbbsh9xrbijrtda.png)
+![](/Asserts/Images/album/201411/10/002958xzbbsh9xrbijrtda.png)
 
 
 或
@@ -111,7 +111,7 @@ linux-xa3t:~ # zypper lr
 #### 4.1) 以表格的形式列出仓库的URI
 
 
-![](/Asserts/Images//attachment/album/201411/10/002959cexnmqfpmcfhhpt9.png)
+![](/Asserts/Images/album/201411/10/002959cexnmqfpmcfhhpt9.png)
 
 
 #### 4.2) 以优先级列出仓库
@@ -123,7 +123,7 @@ linux-xa3t:~ # zypper lr -p
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/10/003001o89tuy8mjg8f86df.png)
+![](/Asserts/Images/album/201411/10/003001o89tuy8mjg8f86df.png)
 
 
 ### 例子5：刷新仓库

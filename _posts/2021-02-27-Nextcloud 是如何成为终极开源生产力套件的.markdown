@@ -15,7 +15,7 @@ tags:	[linuxcn,Nextcloud]
 > 
 
 
-![](/Asserts/Images//attachment/album/202102/02/121553uhl3pjljjkhj0h8p.jpg "Working on a team, busy worklife")
+![](/Asserts/Images/album/202102/02/121553uhl3pjljjkhj0h8p.jpg "Working on a team, busy worklife")
 
 
 在前几年，这个年度系列涵盖了单个的应用。今年，我们除了关注 2021 年的策略外，还将关注一体化解决方案。欢迎来到 2021 年 21 天生产力的第十一天。
@@ -24,7 +24,7 @@ tags:	[linuxcn,Nextcloud]
 基于 Web 的服务几乎可以在任何地方访问你的数据，它们每小时可以支持数百万用户。不过对于我们中的一些人来说，由于各种原因，运行自己的服务比使用大公司的服务更可取。也许我们的工作是受监管的或有明确安全要求。也许我们有隐私方面的考虑，或者只是喜欢能够自己构建、运行和修复事物。不管是什么情况，[Nextcloud](https://nextcloud.com/) 都可以提供你所需要的大部分服务，但是是在你自己的硬件上。
 
 
-![NextCloud Dashboard displaying service options](/Asserts/Images//attachment/album/202102/02/121635znsnea771easlhfs.jpg)
+![NextCloud Dashboard displaying service options](/Asserts/Images/album/202102/02/121635znsnea771easlhfs.jpg)
 
 
 *Nextcloud 控制面板（Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -36,7 +36,7 @@ tags:	[linuxcn,Nextcloud]
 有几种方法可以安装和运行 Nextcloud。你可以把它安装到裸机服务器上、在 Docker 容器中运行，或者作为虚拟机运行。如果可以考虑，还有一些托管服务将为你运行 Nextcloud。最后，有适用于所有主流操作系统的应用，包括移动应用，以便随时访问。
 
 
-![Nextcloud virtual machine](/Asserts/Images//attachment/album/202102/02/121704me585e858t5k85dz.png "Nextcloud virtual machine")
+![Nextcloud virtual machine](/Asserts/Images/album/202102/02/121704me585e858t5k85dz.png "Nextcloud virtual machine")
 
 
 *Nextcloud 虚拟机（Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -48,7 +48,7 @@ tags:	[linuxcn,Nextcloud]
 Nextcloud “邮件” 是一个非常直白的 IMAP 邮件客户端。虽然 Nextcloud 没有将 IMAP 或 SMTP 服务器作为软件包的一部分，但你可以很容易地在操作系统中添加一个或使用远程服务。“日历”应用是相当标准的，也允许你订阅远程日历。有一个缺点是，远程日历（例如，来自大型云提供商）是只读的，所以你可以查看但不能修改它们。
 
 
-![NextCoud App Interface](/Asserts/Images//attachment/album/202102/02/121857zngqihl6iu7z7kiz.jpg "NextCoud App Interface")
+![NextCoud App Interface](/Asserts/Images/album/202102/02/121857zngqihl6iu7z7kiz.jpg "NextCoud App Interface")
 
 
 *Nextcloud 应用界面 （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -60,7 +60,7 @@ Nextcloud “邮件” 是一个非常直白的 IMAP 邮件客户端。虽然 Ne
 “Deck” 本身就是一个看板应用，将任务以卡片的形式呈现在流程中。如果你喜欢看板流程，它是一个追踪进度的优秀应用。
 
 
-![Taking notes](/Asserts/Images//attachment/album/202102/02/121938j8i8bdzk3fr59b5f.jpg "Taking notes in Nextcloud")
+![Taking notes](/Asserts/Images/album/202102/02/121938j8i8bdzk3fr59b5f.jpg "Taking notes in Nextcloud")
 
 
 *做笔记 （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

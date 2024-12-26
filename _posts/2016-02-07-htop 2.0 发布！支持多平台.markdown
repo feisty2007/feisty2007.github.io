@@ -19,4 +19,4 @@ tags:	[linuxcn,htop]
 * 重新打磨过显示界面，灵感来自 James Hall 的 [vtop](https://github.com/MrRio/vtop)。
 
 
-此外，还有很多优化和错误修正。![](/Asserts/Images//attachment/album/201602/12/213917wm845ijmjj04rmpi.png)
+此外，还有很多优化和错误修正。![](/Asserts/Images/album/201602/12/213917wm845ijmjj04rmpi.png)

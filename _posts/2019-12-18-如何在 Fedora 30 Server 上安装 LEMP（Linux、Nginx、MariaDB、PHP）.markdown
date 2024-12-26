@@ -19,7 +19,7 @@ tags:	[linuxcn,LEMP]
 我假设 [Fedora 30](https://www.linuxtechi.com/fedora-30-workstation-installation-guide/) 已经安装在你的电脑系统上。
 
 
-![](/Asserts/Images//attachment/album/201912/01/103537wil7hd36dhcxdh03.jpg)
+![](/Asserts/Images/album/201912/01/103537wil7hd36dhcxdh03.jpg)
 
 
 LEMP 是一组强大的软件设置集合，它安装在一个 Linux 服务器上以帮助使用流行的开发平台来构建网站，LEMP 是 LAMP 的一个变种，在其中不是 Apache ，而是使用 EngineX（Nginx），此外，使用 MariaDB 代替 MySQL。这篇入门指南是一个安装 Nginx、Maria DB 和 PHP 的独立指南的作品集合。
@@ -110,7 +110,7 @@ success
 打开网页浏览器，输入下面的 URL： http:// 。
 
 
-![Test-Page-HTTP-Server-Fedora-30](/Asserts/Images//attachment/album/201912/01/103342noldg8rjravdja9y.jpg)
+![Test-Page-HTTP-Server-Fedora-30](/Asserts/Images/album/201912/01/103342noldg8rjravdja9y.jpg)
 
 
 上面的屏幕证实 Nginx 已经成功地安装。
@@ -128,7 +128,7 @@ success
 在网页浏览器中输入下面的 URL， http:///info.php
 
 
-![Php-info-page-fedora30](/Asserts/Images//attachment/album/201912/01/103403rm25grq1ckmbb06q.jpg)
+![Php-info-page-fedora30](/Asserts/Images/album/201912/01/103403rm25grq1ckmbb06q.jpg)
 
 
 上面的页面验证 PHP 7.3.5 已经被成功地安装。现在，让我们安装 MariaDB 数据库服务器。
@@ -188,10 +188,10 @@ MariaDB 是 MySQL 数据库的一个极好的替代品，因为它的工作方�
 接下来你将被提示一些问题，仅回答下面展示的问题：
 
 
-![Secure-MariaDB-Installation-Part1](/Asserts/Images//attachment/album/201912/01/103414qgdlw7lch75ggqxy.jpg)
+![Secure-MariaDB-Installation-Part1](/Asserts/Images/album/201912/01/103414qgdlw7lch75ggqxy.jpg)
 
 
-![Secure-MariaDB-Installation-Part2](/Asserts/Images//attachment/album/201912/01/103416uhqsuzsuybgwbjzs.jpg)
+![Secure-MariaDB-Installation-Part2](/Asserts/Images/album/201912/01/103416uhqsuzsuybgwbjzs.jpg)
 
 
 #### 步骤 5) 测试 MariaDB 安装

@@ -7,10 +7,10 @@ tags:	[linuxcn,大型机,SUSE,WordPress]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/22/184759v3khrw5pv7ks3mnp.jpg)
+![](/Asserts/Images/album/202201/22/184759v3khrw5pv7ks3mnp.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/22/184807n0ory6gdusuigt66.jpg)
+![](/Asserts/Images/album/202201/22/184807n0ory6gdusuigt66.jpg)
 
 
 ### 依靠 1988 年的大型机的流程造成了 10 亿英镑的养老金黑洞
@@ -27,7 +27,7 @@ tags:	[linuxcn,大型机,SUSE,WordPress]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/22/184837nqv3k3qkco7uvqzg.jpg)
+![](/Asserts/Images/album/202201/22/184837nqv3k3qkco7uvqzg.jpg)
 
 
 ### SUSE 瞄准后 CentOS 市场，发布 Liberty Linux
@@ -44,7 +44,7 @@ SUSE 突然在其网站上宣布了 [Liberty Linux](https://www.suse.com/c/suse-
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/22/184847jd17qidwi0oa0iaz.png)
+![](/Asserts/Images/album/202201/22/184847jd17qidwi0oa0iaz.png)
 
 
 ### 恶意行为者利用供应链攻击在近百款 WordPress 主题和插件中植入后门

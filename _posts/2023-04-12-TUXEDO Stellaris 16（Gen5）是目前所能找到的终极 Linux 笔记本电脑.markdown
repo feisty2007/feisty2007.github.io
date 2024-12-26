@@ -15,7 +15,7 @@ tags:	[linuxcn,笔记本电脑]
 > 
 
 
-![tuxedo stellar](/Asserts/Images//attachment/album/202304/17/151138qnufxjuxox0hzujc.jpg)
+![tuxedo stellar](/Asserts/Images/album/202304/17/151138qnufxjuxox0hzujc.jpg)
 
 
 TUXEDO 电脑是 Linux 领域的一个著名品牌，它提供了不同价格/性能的可定制的 Linux 笔记本和台式电脑。
@@ -36,7 +36,7 @@ TUXEDO 电脑是 Linux 领域的一个著名品牌，它提供了不同价格/�
 ### TUXEDO Stellaris 16 Gen 5 概览
 
 
-![a photo of the tuxedo stellaris 16 - gen5 laptop](/Asserts/Images//attachment/album/202304/17/151241xo2bjp4xgjlo00gs.jpg)
+![a photo of the tuxedo stellaris 16 - gen5 laptop](/Asserts/Images/album/202304/17/151241xo2bjp4xgjlo00gs.jpg)
 
 
 这款笔记本电脑的主要亮点是，它采用了英伟达最新、最强大的 [RTX40 系列](https://www.nvidia.com/en-us/geforce/laptops/) 笔记本 GPU，提供了强大的图形性能和功能。
@@ -87,7 +87,7 @@ Stellaris 16 - Gen5 笔记本电脑上的高端硬件不仅吸引了游戏玩家
 首先，你可以从 RTX 4060 这种相对平静的 GPU 到疯狂的 RTX 4090 中挑选，其间还有 RTX 4070 和 RTX 4080 可选。
 
 
-![tuxedo stellaris laptop](/Asserts/Images//attachment/album/202304/17/151242qxpd0p5abzxwaoal.jpg)
+![tuxedo stellaris laptop](/Asserts/Images/album/202304/17/151242qxpd0p5abzxwaoal.jpg)
 
 
 然后是键盘选项，你可以选择他们新增加的 [樱桃 MX Ultra-Low Profile](https://www.cherrymx.de/en/cherry-mx/mx-ultra-low-profile/mx-ulp-click.html) 机械键盘，以获得打字时的触觉和听觉感受，或者通常的静音薄膜键盘。

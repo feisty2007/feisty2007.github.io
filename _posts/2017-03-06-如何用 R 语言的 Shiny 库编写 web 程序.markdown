@@ -7,7 +7,7 @@ tags:	[linuxcn,Shiny]
 ---
 
 
-![](/Asserts/Images//attachment/album/201703/04/104753olrdy3rof336yw75.png)
+![](/Asserts/Images/album/201703/04/104753olrdy3rof336yw75.png)
 
 
 我这个月在写一些更加长的文章，所以你们可以在几周后再来看看。本月，我想简要地提下我自己一直在玩的一个很棒的 R 库。

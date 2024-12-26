@@ -7,7 +7,7 @@ tags:	[linuxcn,防火墙,hosts]
 ---
 
 
-![](/Asserts/Images//attachment/album/201403/31/223715yjee4a1yzzise34d.jpg)
+![](/Asserts/Images/album/201403/31/223715yjee4a1yzzise34d.jpg)
 
 
 亲爱的**ubuntu**极客们，

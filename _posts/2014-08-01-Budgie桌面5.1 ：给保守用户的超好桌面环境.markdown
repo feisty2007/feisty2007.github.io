@@ -7,7 +7,7 @@ tags:	[linuxcn,Budgie,Evolve OS,桌面]
 ---
 
 
-![](/Asserts/Images//attachment/album/201408/25/232740gb6p4bjvvii5bdp8.jpg)
+![](/Asserts/Images/album/201408/25/232740gb6p4bjvvii5bdp8.jpg)
 
 
 **Evolve OS的开发者Ikey Doherty，制作了这款叫做Budgie Desktop的新桌面环境并且发布了它的新版本。**

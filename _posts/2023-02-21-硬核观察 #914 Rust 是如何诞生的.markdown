@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,收购,IA64]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/16/191004k08r0tagc9jg5c0c.jpg)
+![](/Asserts/Images/album/202302/16/191004k08r0tagc9jg5c0c.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/16/191004vjjvxx3yjfubjxv4.jpg)
+![](/Asserts/Images/album/202302/16/191004vjjvxx3yjfubjxv4.jpg)
 
 
 ### Rust 是如何诞生的
@@ -35,7 +35,7 @@ tags:	[linuxcn,Rust,收购,IA64]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/16/190828nq3q4c4t5c6813i8.jpg)
+![](/Asserts/Images/album/202302/16/190828nq3q4c4t5c6813i8.jpg)
 
 
 ### Adobe 对 Figma 的收购面临欧盟反垄断调查
@@ -60,7 +60,7 @@ Adobe 提出的 200 亿美元 [收购（#765）](/article-15051-1.html) 设计�
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/16/191004jvw56wspfd5vkfog.jpg)
+![](/Asserts/Images/album/202302/16/191004jvw56wspfd5vkfog.jpg)
 
 
 ### 拯救 Linux 内核的 IA64 支持

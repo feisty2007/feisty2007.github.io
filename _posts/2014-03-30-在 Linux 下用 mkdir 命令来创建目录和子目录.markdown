@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,mkdir,目录]
 了解了用 ls 命令在目录中列出条目后，现在我们要学习在 Linux 系统下创建目录。在 Linux 下，我们可以使用 **mkdir** 命令。Mkdir 是“make directory” 的缩写词。
 
 
-![](/Asserts/Images//attachment/album/201403/19/113731gzar99fddba09uq3.gif)
+![](/Asserts/Images/album/201403/19/113731gzar99fddba09uq3.gif)
 
 
 ### mkdir 是什么呢
@@ -34,7 +34,7 @@ $ mkdir
 默认情况下，不带任何参数运行 mkdir 命令会在当前目录下创建目录。下面是参考示例：
 
 
-![mkdir command](/Asserts/Images//attachment/album/201403/19/113120i9olvlo35ytq8y51.png)
+![mkdir command](/Asserts/Images/album/201403/19/113120i9olvlo35ytq8y51.png)
 
 
 从上图看出，我们创建了名为 **office** 的目录。当我们运行 mkdir 命令时，我们位于 **/home/pungki** 目录。所以这个新目录 office **创建在/home/pungki**目录下。**如果我们使用绝对路径** - 例如：**/usr/local** - , 则 Linux 会在 **/usr/local**目录下创建一个目录。
@@ -43,13 +43,13 @@ $ mkdir
 当 Linux 发现想要创建的目录已经存在, 那么 Linux 会提示我们 Linux 无法创建它。
 
 
-![mkdir directory exist](/Asserts/Images//attachment/album/201403/19/113121x32kn1nz58i3zhn8.png)
+![mkdir directory exist](/Asserts/Images/album/201403/19/113121x32kn1nz58i3zhn8.png)
 
 
 另外一个创建目录的首要条件是， **在想要创建目录的目标路径下你必须具有访问权限**。当你无法取得权限时 mkdir 会报告这个错误。
 
 
-![mkdir permission denied](/Asserts/Images//attachment/album/201403/19/113122n0yd9y4zmmfmuvff.png)
+![mkdir permission denied](/Asserts/Images/album/201403/19/113122n0yd9y4zmmfmuvff.png)
 
 
 ### 创建多个目录
@@ -64,7 +64,7 @@ $ mkdir ubuntu redhat slackware
 
 ```
 
-![create multiple directories](/Asserts/Images//attachment/album/201403/19/113123mti5fi5e550pwth5.png)
+![create multiple directories](/Asserts/Images/album/201403/19/113123mti5fi5e550pwth5.png)
 
 
 ### 添加包含子目录的目录 [译注：递归地创建目录]
@@ -78,7 +78,7 @@ $ mkdir ubuntu redhat slackware
 $ mkdir -p letter/important
 ```
 
-![mkdir sub-directory](/Asserts/Images//attachment/album/201403/19/113125e1k7hc9wgbwqyjuk.png)
+![mkdir sub-directory](/Asserts/Images/album/201403/19/113125e1k7hc9wgbwqyjuk.png)
 
 
 ### 设置访问权限
@@ -95,7 +95,7 @@ $ mkdir -m=r-- letter
 上面的命令会创建一个名为 letter 的目录，同时为**目录所有者、用户组和其他用户**针对该目录赋予**只读权限**
 
 
-![mkdir set privilege](/Asserts/Images//attachment/album/201403/19/113126pwxmqw5xxhiwtaih.png)
+![mkdir set privilege](/Asserts/Images/album/201403/19/113126pwxmqw5xxhiwtaih.png)
 
 
 ### 打印创建目录的过程信息
@@ -109,7 +109,7 @@ $ mkdir -m=r-- letter
 $ mkdir -v ubuntu redhat slackware
 ```
 
-![mkdir verbose](/Asserts/Images//attachment/album/201403/19/113127ar5led790p5u7u0m.png)
+![mkdir verbose](/Asserts/Images/album/201403/19/113127ar5led790p5u7u0m.png)
 
 
 ### 总结

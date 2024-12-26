@@ -22,7 +22,7 @@ tags:	[linuxcn,Linux,whoami,命令,登录,用户,技巧,教程]
 
 ```
 
-![](/Asserts/Images//attachment/album/201312/30/2102291jzc6j2465yis21j.png)
+![](/Asserts/Images/album/201312/30/2102291jzc6j2465yis21j.png)
 
 
 ### Whoami 的参数选项
@@ -37,7 +37,7 @@ tags:	[linuxcn,Linux,whoami,命令,登录,用户,技巧,教程]
 
 ```
 
-![](/Asserts/Images//attachment/album/201312/30/210230txubqourz2buo07k.png)
+![](/Asserts/Images/album/201312/30/210230txubqourz2buo07k.png)
 
 
 下面这选项会输出和 **man whoami** 命令一样的信息
@@ -49,7 +49,7 @@ tags:	[linuxcn,Linux,whoami,命令,登录,用户,技巧,教程]
 
 ```
 
-![](/Asserts/Images//attachment/album/201312/30/2102311dx5oywqyh2woo5c.png)
+![](/Asserts/Images/album/201312/30/2102311dx5oywqyh2woo5c.png)
 
 
 不同的是 **–version** 会显示你系统上 whoami 命令的版本信息
@@ -67,7 +67,7 @@ whoami 命令和 **id -un** 有相同的输出。它们都显示出当前用户�
 
 ```
 
-![](/Asserts/Images//attachment/album/201312/30/210232h6zmz4g4x71j7yxh.png)
+![](/Asserts/Images/album/201312/30/210232h6zmz4g4x71j7yxh.png)
 
 
 ### 结论
@@ -76,7 +76,7 @@ whoami 命令和 **id -un** 有相同的输出。它们都显示出当前用户�
 whoami 命令也用于当你使用 su 命令（切换用户）时, 它能让你确认登录的用户名是否正确。whoami 和 who 命令不相同， who 命令会显示所有已经登录的用户名，而 whoami 不是。当你切换用户时，whoami 命令会显示会话所属的当前用户，而 who 命令会显示你切换前的那个源用户。
 
 
-![](/Asserts/Images//attachment/album/201312/30/210233y672cuwww4dh8x0t.png)
+![](/Asserts/Images/album/201312/30/210233y672cuwww4dh8x0t.png)
 
 
 

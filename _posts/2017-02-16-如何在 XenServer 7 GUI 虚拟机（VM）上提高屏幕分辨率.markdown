@@ -16,7 +16,7 @@ tags:	[linuxcn,XenServer,分辨率,虚拟机]
 如果你想要将 XenServer 虚拟机作为远程桌面，默认的分辨率可能不能满足你的要求。
 
 
-![Default xenserver screen VM resolution](/Asserts/Images//attachment/album/201702/19/195751dv6j6n3g37g7vjj6.png)
+![Default xenserver screen VM resolution](/Asserts/Images/album/201702/19/195751dv6j6n3g37g7vjj6.png)
 
 
 本篇的目标是提高 XenServer 7 GUI 虚拟机（VM）的屏幕分辨率
@@ -114,7 +114,7 @@ std
 
 ```
 
-![increased xenserver screen VM resolution](/Asserts/Images//attachment/album/201702/19/195753wezx1ftk7jfmexx7.png)
+![increased xenserver screen VM resolution](/Asserts/Images/album/201702/19/195753wezx1ftk7jfmexx7.png)
 
 
 

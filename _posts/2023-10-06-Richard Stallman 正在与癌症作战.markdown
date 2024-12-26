@@ -7,7 +7,7 @@ tags:	[linuxcn,RMS,Richard Stallman]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/01/163837j5enqwi9a2h6v22e.jpg)
+![](/Asserts/Images/album/202310/01/163837j5enqwi9a2h6v22e.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,RMS,Richard Stallman]
 在主题演讲中，我们看到 **Richard Stallman 已经没有他标志性的长胡子和长发，外貌发生了变化**。他正在接受化疗以对抗癌症，这就能解释这一切。
 
 
-![Richard Stallman 在 GNU 黑客会议上（比尔，瑞士） | 源自：GNU.org](/Asserts/Images//attachment/album/202310/01/164025ha7fbba03axxxxyp.jpg)
+![Richard Stallman 在 GNU 黑客会议上（比尔，瑞士） | 源自：GNU.org](/Asserts/Images/album/202310/01/164025ha7fbba03axxxxyp.jpg)
 
 
 他对自己的健康状况并没有多做说明，只是说病情是可以控制的，他仍能活很多年。

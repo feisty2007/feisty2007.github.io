@@ -7,7 +7,7 @@ tags:	[linuxcn,Debian]
 ---
 
 
-![MX Linux 19](/Asserts/Images//attachment/album/201910/28/005713x1p1yyzja2tyxjn1.jpg)
+![MX Linux 19](/Asserts/Images/album/201910/28/005713x1p1yyzja2tyxjn1.jpg)
 
 
 MX Linux 18 是我在[最佳 Linux 发行版](/article-11411-1.html)中的主要推荐的发行版之一，特别是当你在考虑 Ubuntu 以外的发行版时。

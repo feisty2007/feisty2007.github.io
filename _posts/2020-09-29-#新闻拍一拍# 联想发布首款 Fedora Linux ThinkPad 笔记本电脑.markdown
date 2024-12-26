@@ -7,7 +7,7 @@ tags:	[linuxcn,联想,Snowden,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/04/083028gepydpc2vcc50dme.jpg)
+![](/Asserts/Images/album/202009/04/083028gepydpc2vcc50dme.jpg)
 
 
 #### 联想发布首款 Fedora Linux ThinkPad 笔记本电脑

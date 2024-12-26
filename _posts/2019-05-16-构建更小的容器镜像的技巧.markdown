@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Dockerfile]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/22/111342rthd3dh2d0ps4d2d.jpg)
+![](/Asserts/Images/album/201905/22/111342rthd3dh2d0ps4d2d.jpg)
 
 
 Linux 容器已经成为一个热门话题，保证容器镜像较小被认为是一个好习惯。本文提供了有关如何构建较小 Fedora 容器镜像的一些技巧。

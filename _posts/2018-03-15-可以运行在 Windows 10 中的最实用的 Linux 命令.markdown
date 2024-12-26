@@ -7,7 +7,7 @@ tags:	[linuxcn,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/26/102949gcbzzbbae5vbc72c.png)
+![](/Asserts/Images/album/201803/26/102949gcbzzbbae5vbc72c.png)
 
 
 在本系列早先的文章中，我们讨论了关于如何在 [Windows 10 上开启 WSL 之旅](https://www.linux.com/blog/learn/2018/2/how-get-started-using-wsl-windows-10) 的内容。作为本系列的最后一篇文章，我们准备探讨一些能在 Windows 10 上广泛使用的 Linux 命令。

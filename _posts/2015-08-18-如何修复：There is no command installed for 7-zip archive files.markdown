@@ -33,7 +33,7 @@ tags:	[linuxcn,7zip]
 错误信息看上去是这样的：
 
 
-![](/Asserts/Images//attachment/album/201508/07/220521g8ha8vhuzjlvvvfu.png)
+![](/Asserts/Images/album/201508/07/220521g8ha8vhuzjlvvvfu.png)
 
 
 ### 原因
@@ -48,7 +48,7 @@ tags:	[linuxcn,7zip]
 要解决该问题也十分简单，在Ubuntu中安装7-Zip包即可。现在，你也许想知道如何在Ubuntu中安装 7Zip吧？好吧，在前面的错误对话框中，如果你右击“Search Command”搜索命令，它会查找可用的 p7zip 包。只要点击“Install”安装，如下图：
 
 
-![](/Asserts/Images//attachment/album/201508/07/220522o25ulaohrowvh5lx.png)
+![](/Asserts/Images/album/201508/07/220522o25ulaohrowvh5lx.png)
 
 
 ### 可选方案：在终端中安装 7Zip

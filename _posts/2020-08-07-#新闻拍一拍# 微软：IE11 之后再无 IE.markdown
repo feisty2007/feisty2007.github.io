@@ -7,7 +7,7 @@ tags:	[linuxcn,IE,Rust,Zorin]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/20/103513lz7gy2qjzqjqoqjw.jpg)
+![](/Asserts/Images/album/202008/20/103513lz7gy2qjzqjqoqjw.jpg)
 
 
 #### 微软：IE11 之后再无 IE

@@ -15,7 +15,7 @@ tags:	[linuxcn,地图,Pandas]
 > 
 
 
-![](/Asserts/Images//attachment/album/202012/20/005146t8voetski8ocm5c2.jpg)
+![](/Asserts/Images/album/202012/20/005146t8voetski8ocm5c2.jpg)
 
 
 对于一个全球旅行司空见惯的世界来说，疾病的传播是一个真正令人担忧的问题。一些组织会跟踪重大的流行病（还有所有普遍的流行病），并将他们的跟踪工作获得的数据公开出来。不过，这些原始的数据对人来说可能很难处理，这就是为什么数据科学如此重要的原因。比如，用 Python 和 Pandas 可视化 COVID-19 在全球范围内的传播路径可能对这些数据的分析有所帮助。
@@ -35,7 +35,7 @@ tags:	[linuxcn,地图,Pandas]
 从下面这个网站上下载最新的 corona 数据（LCTT 译注：2020-12-14 仍可访问，有墙）：
 
 
-* <https://raw.githubusercontent.com/Asserts/Images/sets/covid-19/master/Asserts/Images//countries-aggregated.csv>
+* <https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv>
 
 
 我们之间将这个下载好的数据载入为 Pandas 的 DataFrame。Pandas 提供了一个函数， `read_csv()`，可以直接使用 URL 读取数据，并返回一个 DataFrame 对象，具体如下所示：
@@ -46,7 +46,7 @@ tags:	[linuxcn,地图,Pandas]
 import pycountry
 import plotly.express as px
 import pandas as pd
-URL_DATASET = r'https://raw.githubusercontent.com/Asserts/Images/sets/covid-19/master/Asserts/Images//countries-aggregated.csv'
+URL_DATASET = r'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
 df1 = pd.read_csv(URL_DATASET)
 print(df1.head(3))  # Get first 3 entries in the dataframe
 print(df1.tail(3))  # Get last 3 entries in the dataframe
@@ -56,7 +56,7 @@ print(df1.tail(3))  # Get last 3 entries in the dataframe
 在 Jupyter 上的输出截图：
 
 
-![Jupyter screenshot](/Asserts/Images//attachment/album/202012/20/005202ap39m52pp4z9hams.png "Jupyter screenshot")
+![Jupyter screenshot](/Asserts/Images/album/202012/20/005202ap39m52pp4z9hams.png "Jupyter screenshot")
 
 
 从这个输出可以看到这个 DataFrame（`df1`）包括以下几列数据：
@@ -118,7 +118,7 @@ import pycountry
 import plotly.express as px
 import pandas as pd
 # ----------- Step 1 ------------
-URL_DATASET = r'https://raw.githubusercontent.com/Asserts/Images/sets/covid-19/master/Asserts/Images//countries-aggregated.csv'
+URL_DATASET = r'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
 df1 = pd.read_csv(URL_DATASET)
 # print(df1.head) # Uncomment to see what the dataframe is like
 # ----------- Step 2 ------------

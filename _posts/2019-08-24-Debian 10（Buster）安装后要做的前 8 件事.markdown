@@ -10,7 +10,7 @@ tags:	[linuxcn,Debian]
 Debian 10 的代号是 Buster，它是来自 Debian 家族的最新 LTS 发布版本，并包含大量的特色功能。因此，如果你已经在你的电脑上安装了 Debian 10，并在思考接下来该做什么，那么，请继续阅读这篇文章直到结尾，因为我们为你提供在安装 Debian 10 后要做的前 8 件事。对于还没有安装 Debian 10 的人们，请阅读这篇指南 [图解 Debian 10 (Buster) 安装步骤](/article-11083-1.html)。 让我们继续这篇文章。
 
 
-![](/Asserts/Images//attachment/album/201908/02/140443ytv7rnq5nt5txvz7.jpg)
+![](/Asserts/Images/album/201908/02/140443ytv7rnq5nt5txvz7.jpg)
 
 
 ### 1) 安装和配置 sudo
@@ -59,7 +59,7 @@ root@linuxtechi:~$
 转到系统 **设置** –> **详细说明** –> **日期和时间** ，然后更改为适合你的位置的时区。
 
 
-![](/Asserts/Images//attachment/album/201908/02/140444yk1ee1e87947ess7.jpg)
+![](/Asserts/Images/album/201908/02/140444yk1ee1e87947ess7.jpg)
 
 
 一旦时区被更改，你可以看到时钟中的时间自动更改。
@@ -120,7 +120,7 @@ root@linuxtechi:~$ sudo apt install pepperflashplugin-nonfree -y
 一旦软件包被成功安装，接下来，尝试播放 YouTube 中的视频：
 
 
-![](/Asserts/Images//attachment/album/201908/02/140450wuo1114u4w4i18i3.jpg)
+![](/Asserts/Images/album/201908/02/140450wuo1114u4w4i18i3.jpg)
 
 
 ### 5) 安装软件，如 VLC、Skype、FileZilla 和截图工具
@@ -143,7 +143,7 @@ root@linuxtechi:~$ sudo apt install vlc -y
 在成功安装 VLC 播放器后，尝试播放你喜欢的视频。
 
 
-![](/Asserts/Images//attachment/album/201908/02/140451i4z4lddbtt4t4tnl.jpg)
+![](/Asserts/Images/album/201908/02/140451i4z4lddbtt4t4tnl.jpg)
 
 
 #### 安装 Skype
@@ -168,7 +168,7 @@ root@linuxtechi:~$ sudo apt install ./skypeforlinux-64.deb
 在成功安装 Skype 后，尝试访问它，并输入你的用户名和密码。
 
 
-![](/Asserts/Images//attachment/album/201908/02/140453wi7ohhsa7loxod77.jpg)
+![](/Asserts/Images/album/201908/02/140453wi7ohhsa7loxod77.jpg)
 
 
 #### 安装 Filezilla
@@ -185,7 +185,7 @@ root@linuxtechi:~$ sudo apt install filezilla -y
 一旦 FileZilla 软件包被成功安装，尝试访问它。
 
 
-![](/Asserts/Images//attachment/album/201908/02/140456wkx0fve4zv4q40kq.jpg)
+![](/Asserts/Images/album/201908/02/140456wkx0fve4zv4q40kq.jpg)
 
 
 #### 安装截图工具（flameshot）
@@ -202,7 +202,7 @@ root@linuxtechi:~$ sudo apt install flameshot -y
 **注意：** Shutter 工具在 Debian 10 中已被移除。
 
 
-![](/Asserts/Images//attachment/album/201908/02/140456f78zb0pbp2b497ep.jpg)
+![](/Asserts/Images/album/201908/02/140456f78zb0pbp2b497ep.jpg)
 
 
 ### 6) 启用和启动防火墙
@@ -313,7 +313,7 @@ root@linuxtechi:~$ sudo apt install virtualbox-6.0 -y
 一旦 VirtualBox 软件包被成功安装，尝试访问它，并开始创建虚拟机。
 
 
-![](/Asserts/Images//attachment/album/201908/02/140459qvujrewzr8r4eq1f.jpg)
+![](/Asserts/Images/album/201908/02/140459qvujrewzr8r4eq1f.jpg)
 
 
 ### 8) 安装最新的 AMD 驱动程序

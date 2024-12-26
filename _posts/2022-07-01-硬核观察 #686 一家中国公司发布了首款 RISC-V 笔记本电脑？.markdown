@@ -7,10 +7,10 @@ tags:	[linuxcn,RISC-V,API,Linux Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/03/170208a4v4vs4v7nv38efe.jpg)
+![](/Asserts/Images/album/202207/03/170208a4v4vs4v7nv38efe.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/03/170219m22du11fr2tpjaod.jpg)
+![](/Asserts/Images/album/202207/03/170219m22du11fr2tpjaod.jpg)
 
 
 ### 一家中国公司发布了首款 RISC-V 笔记本电脑？
@@ -35,7 +35,7 @@ tags:	[linuxcn,RISC-V,API,Linux Mint]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/03/170305zr4d89s435ppxy9v.jpg)
+![](/Asserts/Images/album/202207/03/170305zr4d89s435ppxy9v.jpg)
 
 
 ### 谷歌推出“高级 API 安全”服务
@@ -60,7 +60,7 @@ tags:	[linuxcn,RISC-V,API,Linux Mint]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/03/170320rrverz3ozrr7v79p.jpg)
+![](/Asserts/Images/album/202207/03/170320rrverz3ozrr7v79p.jpg)
 
 
 ### Linux Mint 21 不准备用 oomd

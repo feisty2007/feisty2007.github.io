@@ -7,7 +7,7 @@ tags:	[linuxcn,K8S,k3s]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/28/094048yrzlik9oek5rbs5s.jpg)
+![](/Asserts/Images/album/201905/28/094048yrzlik9oek5rbs5s.jpg)
 
 
 Fedora IoT 是一个即将发布的、面向物联网的 Fedora 版本。去年 Fedora Magazine 的《[如何使用 Fedora IoT 点亮 LED 灯](/article-10380-1.html)》一文第一次介绍了它。从那以后，它与 Fedora Silverblue 一起不断改进，以提供针对面向容器的工作流的不可变基础操作系统。

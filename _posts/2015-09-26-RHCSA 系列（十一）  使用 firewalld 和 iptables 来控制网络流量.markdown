@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCSA]
 简单来说，防火墙就是一个基于一系列预先定义的规则（例如流量包的目的地或来源，流量的类型等）的安全系统，它控制着一个网络中的流入和流出流量。
 
 
-![使用 FirewallD 和 Iptables 来控制网络流量](/Asserts/Images//attachment/album/201509/28/231337pjlq2ooljzjlmske.png)
+![使用 FirewallD 和 Iptables 来控制网络流量](/Asserts/Images/album/201509/28/231337pjlq2ooljzjlmske.png)
 
 
 *RHCSA: 使用 FirewallD 和 Iptables 来控制网络流量 – Part 11*
@@ -34,7 +34,7 @@ tags:	[linuxcn,RHCSA]
 
 ```
 
-![检查 FirewallD 的信息](/Asserts/Images//attachment/album/201509/28/231340e4z5twia75zobjn5.png)
+![检查 FirewallD 的信息](/Asserts/Images/album/201509/28/231340e4z5twia75zobjn5.png)
 
 
 *检查 FirewallD 的信息*
@@ -49,7 +49,7 @@ tags:	[linuxcn,RHCSA]
 
 ```
 
-![检查 FirewallD 的状态](/Asserts/Images//attachment/album/201509/28/231341swhg89l96vza9zhv.png)
+![检查 FirewallD 的状态](/Asserts/Images/album/201509/28/231341swhg89l96vza9zhv.png)
 
 
 *检查 FirewallD 的状态*
@@ -80,7 +80,7 @@ tags:	[linuxcn,RHCSA]
 至于配置文件， iptables 服务使用 `/etc/sysconfig/iptables` 文件（假如这个软件包在你的系统中没有被安装，则这个文件将不存在）。在一个被用作集群节点的 RHEL 7 机子上，这个文件看起来是这样：
 
 
-![Iptables 防火墙配置文件](/Asserts/Images//attachment/album/201509/28/231345ef0rqr12bbof1bqz.png)
+![Iptables 防火墙配置文件](/Asserts/Images/album/201509/28/231345ef0rqr12bbof1bqz.png)
 
 
 *Iptables 防火墙配置文件*
@@ -95,7 +95,7 @@ tags:	[linuxcn,RHCSA]
 
 ```
 
-![FirewallD 的配置文件](/Asserts/Images//attachment/album/201509/28/231348qdam2da000202iwi.png)
+![FirewallD 的配置文件](/Asserts/Images/album/201509/28/231348qdam2da000202iwi.png)
 
 
 *FirewallD 的配置文件*
@@ -217,7 +217,7 @@ firewalld 引入的一个变化是区域（zone） （注：翻译参考了 <htt
 
 ```
 
-![列出所有的 Firewalld 区域](/Asserts/Images//attachment/album/201509/28/231350marrrelb7grgaou1.png)
+![列出所有的 Firewalld 区域](/Asserts/Images/album/201509/28/231350marrrelb7grgaou1.png)
 
 
 *列出所有的 Firewalld 区域*
@@ -238,7 +238,7 @@ firewalld 引入的一个变化是区域（zone） （注：翻译参考了 <htt
 
 ```
 
-![列出所有受支持的服务](/Asserts/Images//attachment/album/201509/28/231351luzfvl3vdyqfsf3y.png)
+![列出所有受支持的服务](/Asserts/Images/album/201509/28/231351luzfvl3vdyqfsf3y.png)
 
 
 *列出所有受支持的服务*
@@ -278,7 +278,7 @@ firewalld 引入的一个变化是区域（zone） （注：翻译参考了 <htt
 在下面的图片中，我们可以看到对于外部区域，伪装已被开启，但对于公用区域则没有：
 
 
-![在 firewalld 中查看伪装状态](/Asserts/Images//attachment/album/201509/28/231352hb600zb46ohna22e.png)
+![在 firewalld 中查看伪装状态](/Asserts/Images/album/201509/28/231352hb600zb46ohna22e.png)
 
 
 *查看伪装状态*

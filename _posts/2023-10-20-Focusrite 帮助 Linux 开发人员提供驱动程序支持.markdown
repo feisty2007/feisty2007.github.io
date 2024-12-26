@@ -7,7 +7,7 @@ tags:	[linuxcn,DAW]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/27/231035gjnehjvraytiwtbw.jpg)
+![](/Asserts/Images/album/202310/27/231035gjnehjvraytiwtbw.jpg)
 
 
 
@@ -45,7 +45,7 @@ tags:	[linuxcn,DAW]
 除此之外，他的目标是购买 Focusrite 的播客设备。
 
 
-![](/Asserts/Images//attachment/album/202310/27/231116h2tpl42tv7vtvrz7.jpg)
+![](/Asserts/Images/album/202310/27/231116h2tpl42tv7vtvrz7.jpg)
 
 
 筹款活动取得成功的同时，**也得到了 Focusrite 的关注**，**他们提供了大量资金**来帮助他购买最新的音频接口。

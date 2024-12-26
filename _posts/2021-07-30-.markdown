@@ -26,9 +26,9 @@ excerpt: 近些年来 Rust 语言由于其内存安全性和性能等优势得�
 fromurl: ''
 id: 13555
 islctt: false
-largepic: /Asserts/Images//attachment/album/202107/06/123438wl3c1llssams0aa5.jpg
+largepic: /Asserts/Images/album/202107/06/123438wl3c1llssams0aa5.jpg
 permalink: /article-13555-1.html
-pic: /Asserts/Images//attachment/album/202107/06/123438wl3c1llssams0aa5.jpg.thumb.jpg
+pic: /Asserts/Images/album/202107/06/123438wl3c1llssams0aa5.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -45,7 +45,7 @@ translator: ''
 updated: '2021-07-06 12:34:00'
 ---
 
-![](/Asserts/Images//attachment/album/202107/06/123438wl3c1llssams0aa5.jpg)
+![](/Asserts/Images/album/202107/06/123438wl3c1llssams0aa5.jpg)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,硬盘,fio]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/11/111004tzk6ulvdvvvvvl86.jpg)
+![](/Asserts/Images/album/201808/11/111004tzk6ulvdvvvvvl86.jpg)
 
 
 Fio（Flexible I/O Tester） 是一款由 Jens Axboe 开发的用于测评和压力/硬件验证的[自由开源](https://github.com/axboe/fio)的软件。

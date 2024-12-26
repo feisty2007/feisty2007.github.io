@@ -7,13 +7,13 @@ tags:	[linuxcn,文档]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/04/183907otf606qf4ddc60c1.jpg)
+![](/Asserts/Images/album/201812/04/183907otf606qf4ddc60c1.jpg)
 
 
 手册页（man）是由系统管理员和 IT 技术开发人员写的，更多的是为了作为参考而不是教你如何使用。手册页对于已经熟悉使用 Linux、Unix 和 BSD 操作系统的人来说是非常有用的。如果你仅仅需要知道某个命令或者某个配置文件的格式那么你可以使用手册页，但是手册页对于 Linux 新手来说并没有太大的帮助。想要通过使用手册页来学习一些新东西不是一个好的选择。这里有将提供 30 个学习 Linux 和 Unix 操作系统的最佳在线网页文档。
 
 
-![Dennis Ritchie and Ken Thompson working with UNIX PDP11](/Asserts/Images//attachment/album/201812/04/184005ap6i6j6mkrhuxyhz.jpg "Dennis Ritchie and Ken Thompson working with UNIX PDP11")
+![Dennis Ritchie and Ken Thompson working with UNIX PDP11](/Asserts/Images/album/201812/04/184005ap6i6j6mkrhuxyhz.jpg "Dennis Ritchie and Ken Thompson working with UNIX PDP11")
 
 
 值得一提的是，相对于 Linux，BSD 的手册页更好。
@@ -22,7 +22,7 @@ tags:	[linuxcn,文档]
 ### #1：Red Hat Enterprise Linux（RHEL）
 
 
-![Red hat Enterprise Linux 文档](/Asserts/Images//attachment/album/201812/04/183929mkn4w1tonddwctdw.png "Red hat Enterprise Linux Docs")
+![Red hat Enterprise Linux 文档](/Asserts/Images/album/201812/04/183929mkn4w1tonddwctdw.png "Red hat Enterprise Linux Docs")
 
 
 RHEL 是由红帽公司开发的面向商业市场的 Linux 发行版。红帽的文档是最好的文档之一，涵盖从 RHEL 的基础到一些高级主题比如安全、SELinux、虚拟化、目录服务器、服务器集群、JBOSS 应用程序服务器、高性能计算（HPC）等。红帽的文档已经被翻译成 22 种语言，发布成多页面 HTML、单页面 HTML、PDF、EPUB 等文件格式。好消息同样的文档你可以用于 Centos 和 Scientific Linux（社区企业发行版）。这些文档随操作系统一起下载提供，也就是说当你没有网络的时候，你也可以使用它们。RHEL 的文档**涵盖从安装到配置器群的所有内容**。唯一的缺点是你需要成为付费用户。当然这对于企业公司来说是一件完美的事。
@@ -35,7 +35,7 @@ RHEL 是由红帽公司开发的面向商业市场的 Linux 发行版。红帽�
 #### 关于 CentOS Wiki 和论坛的说明
 
 
-![Centos Linux Wiki](/Asserts/Images//attachment/album/201812/04/183929j2ae92a731e28sfc.png "Centos Linux Wiki, Support, Documents")
+![Centos Linux Wiki](/Asserts/Images/album/201812/04/183929j2ae92a731e28sfc.png "Centos Linux Wiki, Support, Documents")
 
 
 CentOS（<ruby> 社区企业操作系统 <rt>  Community ENTerprise Operating System </rt></ruby>）是由 RHEL 提供的自由源码包免费重建的。它为个人电脑或其它用途提供了可靠的、免费的企业级 Linux。你可以不用付出任何支持和认证费用就可以获得 RHEL 的稳定性。CentOS的 wiki 分为 Howto、技巧等等部分，链接如下：
@@ -48,7 +48,7 @@ CentOS（<ruby> 社区企业操作系统 <rt>  Community ENTerprise Operating Sy
 ### #2：Arch 的 Wiki 和论坛
 
 
-![Arch Linux wiki 和教程](/Asserts/Images//attachment/album/201812/04/183930skv9i7divvqqisin.png "Arch Linux wiki and tutorials ")
+![Arch Linux wiki 和教程](/Asserts/Images/album/201812/04/183930skv9i7divvqqisin.png "Arch Linux wiki and tutorials ")
 
 
 Arch linux 是一个独立开发的 Linux 操作系统，它有基于 wiki 网站形式的非常不错的文档。它是由 Arch 社区的一些用户共同协作开发出来的，并且允许任何用户添加或修改内容。这些文档教程被分为几类比如说优化、软件包管理、系统管理、X window 系统还有获取安装 Arch Linux 等。它的[官方论坛](https://bbs.archlinux.org/)在解决许多问题的时候也非常有用。它有总共 4 万多个注册用户、超过 1 百万个帖子。 该 wiki 包含一些 **其它 Linux 发行版也适用的通用信息**。
@@ -61,7 +61,7 @@ Arch linux 是一个独立开发的 Linux 操作系统，它有基于 wiki 网�
 ### #3：Gentoo Linux Wiki 和论坛
 
 
-![Gentoo Linux 手册和 Wiki](/Asserts/Images//attachment/album/201812/04/183930z4g8anqgmvq13vva.png "Gentoo Linux Handbook and Wiki")
+![Gentoo Linux 手册和 Wiki](/Asserts/Images/album/201812/04/183930z4g8anqgmvq13vva.png "Gentoo Linux Handbook and Wiki")
 
 
 Gentoo Linux 基于 Portage 包管理系统。Gentoo Linux 用户根据它们选择的配置在本地编译源代码。多数 Gentoo Linux 用户都会定制自己独有的程序集。 Gentoo Linux 的文档会给你一些有关 Gentoo Linux 操作系统的说明和一些有关安装、软件包、网络和其它等主要出现的问题的解决方法。Gentoo 有对你来说 **非常有用的论坛**，论坛中有超过 13 万 4 千的用户，总共发了有 5442416 个文章。
@@ -74,7 +74,7 @@ Gentoo Linux 基于 Portage 包管理系统。Gentoo Linux 用户根据它们选
 ### #4：Ubuntu Wiki 和文档
 
 
-![Ubuntu Linux Wiki 和论坛](/Asserts/Images//attachment/album/201812/04/183930wzjf5j3gbfml7hgj.png "Ubuntu Linux Wiki and Forums")
+![Ubuntu Linux Wiki 和论坛](/Asserts/Images/album/201812/04/183930wzjf5j3gbfml7hgj.png "Ubuntu Linux Wiki and Forums")
 
 
 Ubuntu 是领先的台式机和笔记本电脑发行版之一。其官方文档由 Ubuntu 文档工程开发维护。你可以在从官方文档中查看大量的信息，比如如何开始使用 Ubuntu 的教程。最好的是，此处包含的这些信息也可用于基于 Debian 的其它系统。你可能会找到由 Ubuntu 的用户们创建的社区文档，这是一份有关 Ubuntu 的使用教程和技巧等。Ubuntu Linux 有着网络上最大的 Linux 社区的操作系统，它对新用户和有经验的用户均有助益。
@@ -88,7 +88,7 @@ Ubuntu 是领先的台式机和笔记本电脑发行版之一。其官方文档�
 ### #5：IBM Developer Works
 
 
-![IBM: Linux 程序员和系统管理员用到的技术](/Asserts/Images//attachment/album/201812/04/183931p95sayryl4cysyy4.png "IBM: Technical for Linux programmers and system administrators")
+![IBM: Linux 程序员和系统管理员用到的技术](/Asserts/Images/album/201812/04/183931p95sayryl4cysyy4.png "IBM: Technical for Linux programmers and system administrators")
 
 
 IBM Developer Works 为 Linux 程序员和系统管理员提供技术资源，其中包含数以百计的文章、教程和技巧来协助 Linux 程序员的编程工作和应用开发还有系统管理员的日常工作。
@@ -101,7 +101,7 @@ IBM Developer Works 为 Linux 程序员和系统管理员提供技术资源，�
 ### #6：FreeBSD 文档和手册
 
 
-![Freebsd Documentation](/Asserts/Images//attachment/album/201812/04/183931vwso5mw52d1s712b.png "Freebsd Documentation")
+![Freebsd Documentation](/Asserts/Images/album/201812/04/183931vwso5mw52d1s712b.png "Freebsd Documentation")
 
 
 FreeBSD 的手册是由 <ruby> FreeBSD 文档项目 <rt>  FreeBSD Documentation Project </rt></ruby>所创建的，它介绍了 FreeBSD 操作系统的安装、管理和一些日常使用技巧等内容。FreeBSD 的手册页通常比 GNU Linux 的手册页要好一点。FreeBSD **附带有全部最新手册页的文档**。 FreeBSD 手册涵盖任何你想要的内容。手册包含一些通用的 Unix 资料，这些资料同样适用于其它的 Linux 发行版。FreeBSD 官方论坛会在你遇到棘手问题时给予帮助。
@@ -114,7 +114,7 @@ FreeBSD 的手册是由 <ruby> FreeBSD 文档项目 <rt>  FreeBSD Documentation 
 ### #7：Bash Hackers Wiki
 
 
-![Bash Hackers wiki](/Asserts/Images//attachment/album/201812/04/183932d16ccsj4j96c2cbj.png "Bash hackers wiki for bash users")
+![Bash Hackers wiki](/Asserts/Images/album/201812/04/183932d16ccsj4j96c2cbj.png "Bash hackers wiki for bash users")
 
 
 这是一个对于 bash 使用者来说非常好的资源。Bash 使用者的 wiki 是为了归纳所有类型的 GNU Bash 文档。这个项目的动力是为了提供可阅读的文档和资料来避免用户被迫一点一点阅读 Bash 的手册，有时候这是非常麻烦的。Bash Hackers Wiki 分为各个类，比如说脚本和通用资料、如何使用、代码风格、bash 命令格式和其它。
@@ -126,7 +126,7 @@ FreeBSD 的手册是由 <ruby> FreeBSD 文档项目 <rt>  FreeBSD Documentation 
 ### #8：Bash 常见问题
 
 
-![Bash 常见问题：一些有关 GNU/BASH 常见问题的解决方法](/Asserts/Images//attachment/album/201812/04/183932pj5uhlyiqu6luzl1.png "Bash FAQ: Answers to frequently asked questions about GNU/BASH")
+![Bash 常见问题：一些有关 GNU/BASH 常见问题的解决方法](/Asserts/Images/album/201812/04/183932pj5uhlyiqu6luzl1.png "Bash FAQ: Answers to frequently asked questions about GNU/BASH")
 
 
 这是一个为 bash 新手设计的一个 wiki。它收集了 IRC 网络的 #bash 频道里常见问题的解决方法，这些解决方法是由该频道的普通成员提供。当你遇到问题的时候不要忘了在 [BashPitfalls](http://mywiki.wooledge.org/BashPitfalls) 部分检索查找答案。这些常见问题的解决方法可能会倾向于 Bash，或者偏向于最基本的 Bourne Shell，这决定于是谁给出的答案。大多数情况会尽力提供可移植的（Bourne）和高效的（Bash，在适当情况下）的两类答案。
@@ -138,7 +138,7 @@ FreeBSD 的手册是由 <ruby> FreeBSD 文档项目 <rt>  FreeBSD Documentation 
 ### #9: Howtoforge - Linux 教程
 
 
-![Howtoforge](/Asserts/Images//attachment/album/201812/04/183933vgh74ca92c9pj29g.png "Howtoforge tutorials")
+![Howtoforge](/Asserts/Images/album/201812/04/183933vgh74ca92c9pj29g.png "Howtoforge tutorials")
 
 
 博客作者 Falko 在 Howtoforge 上有一些非常不错的东西。这个网站提供了 Linux 关于各种各样主题的教程，比如说其著名的“最佳服务器系列”，网站将主题分为几类，比如说 web 服务器、linux 发行版、DNS 服务器、虚拟化、高可用性、电子邮件和反垃圾邮件、FTP 服务器、编程主题还有一些其它的内容。这个网站也支持德语。
@@ -151,7 +151,7 @@ FreeBSD 的手册是由 <ruby> FreeBSD 文档项目 <rt>  FreeBSD Documentation 
 ### #10：OpenBSD 常见问题和文档
 
 
-![OpenBSD 文档](/Asserts/Images//attachment/album/201812/04/183933uo9we5rdzpdk4kgr.png "OpenBSD Documenation")
+![OpenBSD 文档](/Asserts/Images/album/201812/04/183933uo9we5rdzpdk4kgr.png "OpenBSD Documenation")
 
 
 OpenBSD 是另一个基于 BSD 的类 Unix 计算机操作系统。OpenBSD 是由 NetBSD 项目分支而来。OpenBSD 因高质量的代码和文档、对软件许可协议的坚定立场和强烈关注安全问题而闻名。OpenBSD 的文档分为多个主题类别，比如说安装、包管理、防火墙设置、用户管理、网络、磁盘和磁盘阵列管理等。
@@ -164,7 +164,7 @@ OpenBSD 是另一个基于 BSD 的类 Unix 计算机操作系统。OpenBSD 是�
 ### #11: Calomel - 开源研究和参考文档
 
 
-![开源研究和参考文档](/Asserts/Images//attachment/album/201812/04/183933d1nyyews0a7css1s.png "Open Source Research and Reference Documentation")
+![开源研究和参考文档](/Asserts/Images/album/201812/04/183933d1nyyews0a7css1s.png "Open Source Research and Reference Documentation")
 
 
 这个极好的网站是专门作为开源软件和那些特别专注于 OpenBSD 的软件的文档来使用的。这是最简洁的引导网站之一，专注于高质量的内容。网站内容分为多个类，比如说 DNS、OpenBSD、安全、web 服务器、Samba 文件服务器、各种工具等。
@@ -177,7 +177,7 @@ OpenBSD 是另一个基于 BSD 的类 Unix 计算机操作系统。OpenBSD 是�
 ### #12：Slackware 书籍项目
 
 
-![Slackware Linux 手册和文档](/Asserts/Images//attachment/album/201812/04/183934w76zi1prt8ct9ps7.png "Slackware Linux Book and Documentation ")
+![Slackware Linux 手册和文档](/Asserts/Images/album/201812/04/183934w76zi1prt8ct9ps7.png "Slackware Linux Book and Documentation ")
 
 
 Slackware Linux 是我的第一个 Linux 发行版。Slackware 是基于 Linux 内核的最早的发行版之一，也是当前正在维护的最古老的 Linux 发行版。 这个发行版面向专注于稳定性的高级用户。 Slackware 也是很少有的的“类 Unix” 的 Linux 发行版之一。官方的 Slackware 手册是为了让用户快速开始了解 Slackware 操作系统的使用方法而设计的。 这不是说它将包含发行版的每一个方面，而是为了说明它的实用性和给使用者一些有关系统的基础工作使用方法。手册分为多个主题，比如说安装、网络和系统配置、系统管理、包管理等。
@@ -190,7 +190,7 @@ Slackware Linux 是我的第一个 Linux 发行版。Slackware 是基于 Linux �
 ### #13：Linux 文档项目（TLDP）
 
 
-![Linux 学习网站和文档](/Asserts/Images//attachment/album/201812/04/183934fue8ugjxjx2edej7.png "Linux Learning Site and Documentation ")
+![Linux 学习网站和文档](/Asserts/Images/album/201812/04/183934fue8ugjxjx2edej7.png "Linux Learning Site and Documentation ")
 
 
 <ruby> Linux 文档项目 <rt>  Linux Documentation Project </rt></ruby>旨在给 Linux 操作系统提供自由、高质量文档。网站是由志愿者创建和维护的。网站分为具体主题的帮助、由浅入深的指南等。在此我想推荐一个非常好的[文档](http://tldp.org/LDP/abs/html/index.html)，这个文档既是一个教程也是一个 shell 脚本编程的参考文档，对于新用户来说这个 HOWTO 的[列表](http://tldp.org/HOWTO/HOWTO-INDEX/howtos.html)也是一个不错的开始。
@@ -203,7 +203,7 @@ Slackware Linux 是我的第一个 Linux 发行版。Slackware 是基于 Linux �
 ### #14：Linux Home Networking
 
 
-![Linux Home Networking](/Asserts/Images//attachment/album/201812/04/183935jjq0crdrdzrwblle.png "Linux Home Networking ")
+![Linux Home Networking](/Asserts/Images/album/201812/04/183935jjq0crdrdzrwblle.png "Linux Home Networking ")
 
 
 Linux Home Networking 是学习 linux 的另一个比较好的资源，这个网站包含了 Linux 软件认证考试的内容比如 RHCE，还有一些计算机培训课程。网站包含了许多主题，比如说网络、Samba 文件服务器、无线网络、web 服务器等。
@@ -216,7 +216,7 @@ Linux Home Networking 是学习 linux 的另一个比较好的资源，这个网
 ### #15：Linux Action Show
 
 
-![Linux 播客](/Asserts/Images//attachment/album/201812/04/183936ewwc9cfsa88osfas.png "Linux Podcast ")
+![Linux 播客](/Asserts/Images/album/201812/04/183936ewwc9cfsa88osfas.png "Linux Podcast ")
 
 
 Linux Action Show（LAS) 是一个关于 Linux 的播客。这个网站是由 Bryan Lunduke、Allan Jude 和 Chris Fisher 共同管理的。它包含了 FOSS 的最新消息。网站内容主要是评论一些应用程序和 Linux 发行版。有时候也会发布一些和开源项目著名人物的采访视频。
@@ -229,7 +229,7 @@ Linux Action Show（LAS) 是一个关于 Linux 的播客。这个网站是由 Br
 ### #16：Commandlinefu
 
 
-![Commandlinefu 的最优 Unix / Linux 命令](/Asserts/Images//attachment/album/201812/04/183936byzw9qpidin4vny8.png "The best Unix / Linux Commands ")
+![Commandlinefu 的最优 Unix / Linux 命令](/Asserts/Images/album/201812/04/183936byzw9qpidin4vny8.png "The best Unix / Linux Commands ")
 
 
 Commandlinefu 列出了各种有用或有趣的 shell 命令。这里所有命令都可以评论、讨论和投票（支持或反对）。对于所有 Unix 命令行用户来说是一个极好的资源。不要忘了查看[评选出来的最佳命令](https://www.commandlinefu.com/commands/browse/sort-by-votes)。
@@ -242,7 +242,7 @@ Commandlinefu 列出了各种有用或有趣的 shell 命令。这里所有命�
 ### #17：Debian 管理技巧和资源
 
 
-![Debian Linux 管理: 系统管理员技巧和教程](/Asserts/Images//attachment/album/201812/04/183936dbqss4qvdcgsdqtt.png "Debian Linux Adminstration: Tips and Tutorial For Sys Admin")
+![Debian Linux 管理: 系统管理员技巧和教程](/Asserts/Images/album/201812/04/183936dbqss4qvdcgsdqtt.png "Debian Linux Adminstration: Tips and Tutorial For Sys Admin")
 
 
 这个网站包含一些只和 Debian GNU/Linux 相关的主题、技巧和教程，特别是包含了关于系统管理的有趣和有用的信息。你可以在上面贡献文章、建议和问题。提交了之后不要忘记查看[最佳文章列表](https://www.debian-administration.org/hof)里有没有你的文章。
@@ -255,7 +255,7 @@ Commandlinefu 列出了各种有用或有趣的 shell 命令。这里所有命�
 ### #18: Catonmat - Sed、Awk、Perl 教程
 
 
-![Sed 流编辑器、 Awk 文本处理工具、 Perl 语言教程](/Asserts/Images//attachment/album/201812/04/183937kiyucnn29zbyscbp.png "Sed, Awk, Perl Tutorials")
+![Sed 流编辑器、 Awk 文本处理工具、 Perl 语言教程](/Asserts/Images/album/201812/04/183937kiyucnn29zbyscbp.png "Sed, Awk, Perl Tutorials")
 
 
 这个网站是由博客作者 Peteris Krumins 维护的。主要关注命令行和 Unix 编程主题，比如说 sed 流编辑器、perl 语言、AWK 文本处理工具等。不要忘了查看 [sed 介绍](http://www.catonmat.net/blog/worlds-best-introduction-to-sed/)、sed 含义解释，还有命令行历史的[权威介绍](https://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/)。
@@ -268,7 +268,7 @@ Commandlinefu 列出了各种有用或有趣的 shell 命令。这里所有命�
 ### #19：Debian GNU/Linux 文档和 Wiki
 
 
-![Debian Linux 教程和 Wiki](/Asserts/Images//attachment/album/201812/04/183938l28x2v3888vvt998.png "Debian Linux Tutorials and Wiki")
+![Debian Linux 教程和 Wiki](/Asserts/Images/album/201812/04/183938l28x2v3888vvt998.png "Debian Linux Tutorials and Wiki")
 
 
 Debian 是另外一个 Linux 操作系统，其主要使用的软件以 GNU 许可证发布。Debian 因严格坚持 Unix 和自由软件的理念而闻名，它也是很受欢迎并且有一定影响力的 Linux 发行版本之一。 Ubuntu 等发行版本都是基于 Debian 的。Debian 项目以一种易于访问的形式提供给用户合适的文档。这个网站分为 Wiki、安装指导、常见问题、支持论坛几个模块。
@@ -292,7 +292,7 @@ Linux Sea 这本书提供了比较通俗易懂但充满技术（从最终用户�
 ### #21：O'reilly Commons
 
 
-![免费 Linux / Unix / Php / Javascript / Ubuntu 学习笔记](/Asserts/Images//attachment/album/201812/04/183939mjldianptj5a757f.png "Oreilly Free Linux / Unix / Php / Javascript / Ubuntu Books")
+![免费 Linux / Unix / Php / Javascript / Ubuntu 学习笔记](/Asserts/Images/album/201812/04/183939mjldianptj5a757f.png "Oreilly Free Linux / Unix / Php / Javascript / Ubuntu Books")
 
 
 O'reilly 出版社发布了不少 wiki 格式的文章。这个网站主要是为了给那些喜欢创作、参考、使用、修改、更新和修订来自 O'Reilly 或者其它来源的素材的社区提供资料。这个网站包含关于 Ubuntu、PHP、Spamassassin、Linux 等的免费书籍。
@@ -305,7 +305,7 @@ O'reilly 出版社发布了不少 wiki 格式的文章。这个网站主要是�
 ### #22：Ubuntu 袖珍指南
 
 
-![Ubuntu 新手书籍](/Asserts/Images//attachment/album/201812/04/183940rr99hfa3j3uuioin.png "Ubuntu Book For New Users")
+![Ubuntu 新手书籍](/Asserts/Images/album/201812/04/183940rr99hfa3j3uuioin.png "Ubuntu Book For New Users")
 
 
 这本书的作者是 Keir Thomas。这本指南（或者说是书籍）对于所有 ubuntu 用户来说都值得一读。这本书旨在向用户介绍 Ubuntu 操作系统和其所依赖的理念。你可以从官网下载这本书的 PDF 版本，也可以在亚马逊买印刷版。
@@ -318,7 +318,7 @@ O'reilly 出版社发布了不少 wiki 格式的文章。这个网站主要是�
 ### #23: Linux: Rute User’s Tutorial and Exposition
 
 
-![GNU/LINUX system administration book](/Asserts/Images//attachment/album/201812/04/183941b1ebcbje5bujyrjo.png "GNU/LINUX system administration free book")
+![GNU/LINUX system administration book](/Asserts/Images/album/201812/04/183941b1ebcbje5bujyrjo.png "GNU/LINUX system administration free book")
 
 
 这本书涵盖了 GNU/LINUX 系统管理，主要是对主流的发布版本比如红帽和 Debian 的说明，可以作为新用户的教程和高级管理员的参考。这本书旨在给出 Unix 系统的每个面的简明彻底的解释和实践性的例子。想要全面了解 Linux 的人都不需要再看了 —— 这里没有涉及的内容。
@@ -331,7 +331,7 @@ O'reilly 出版社发布了不少 wiki 格式的文章。这个网站主要是�
 ### #24：高级 Linux 编程
 
 
-![高级 Linux 编程](/Asserts/Images//attachment/album/201812/04/183942rl7bw4x31x1tww4s.png "Download Advanced Linux Programming PDF version")
+![高级 Linux 编程](/Asserts/Images/album/201812/04/183942rl7bw4x31x1tww4s.png "Download Advanced Linux Programming PDF version")
 
 
 这本书是写给那些已经熟悉了 C 语言编程的程序员的。这本书采取一种教程式的方式来讲述大多数在 GNU/Linux 系统应用编程中重要的概念和功能特性。如果你是一个已经对 GNU/Linux 系统编程有一定经验的开发者，或者是对其它类 Unix 系统编程有一定经验的开发者，或者对 GNU/Linux 软件开发有兴趣，或者想要从非 Unix 系统环境转换到 Unix 平台并且已经熟悉了优秀软件的开发原则，那你很适合读这本书。另外，你会发现这本书同样适合于 C 和 C++ 编程。
@@ -344,7 +344,7 @@ O'reilly 出版社发布了不少 wiki 格式的文章。这个网站主要是�
 ### #25: LPI 101 Course Notes
 
 
-![Linux 国际专业协会认证书籍](/Asserts/Images//attachment/album/201812/04/183943y2elobo2jqeelltg.png "Download Linux Professional Institute Certification PDF Book")
+![Linux 国际专业协会认证书籍](/Asserts/Images/album/201812/04/183943y2elobo2jqeelltg.png "Download Linux Professional Institute Certification PDF Book")
 
 
 LPIC 1、2、3 级是用于 Linux 系统管理员认证的。这个网站提供了 LPI 101 和 LPI 102 的测试训练。这些是根据 <ruby> GNU 自由文档协议 <rt>  GNU Free Documentation Licence </rt></ruby>（FDL）发布的。这些课程材料基于 Linux 国际专业协会的 LPI 101 和 102 考试的目标。这个课程是为了提供给你一些必备的 Linux 系统的操作和管理的技能。
@@ -357,7 +357,7 @@ LPIC 1、2、3 级是用于 Linux 系统管理员认证的。这个网站提供�
 ### #26: FLOSS 手册
 
 
-![FLOSS Manuals is a collection of manuals about free and open source software](/Asserts/Images//attachment/album/201812/04/183943tcmoe5rx85nlmnoo.png "Download manuals about free and open source software")
+![FLOSS Manuals is a collection of manuals about free and open source software](/Asserts/Images/album/201812/04/183943tcmoe5rx85nlmnoo.png "Download manuals about free and open source software")
 
 
 FLOSS 手册是一系列关于自由和开源软件以及用于创建它们的工具和使用这些工具的社区的手册。社区的成员包含作者、编辑、设计师、软件开发者、积极分子等。这些手册中说明了怎样安装使用一些自由和开源软件，如何操作（比如设计和维持在线安全）开源软件，这其中也包含如何使用或支持自由软件和格式的自由文化服务手册。你也会发现关于一些像 VLC、 [Linux 视频编辑](//www.cyberciti.biz/faq/top5-linux-video-editing-system-software/)、 Linux、 OLPC / SUGAR、 GRAPHICS 等软件的手册。
@@ -370,7 +370,7 @@ FLOSS 手册是一系列关于自由和开源软件以及用于创建它们的�
 ### #27：Linux 入门包
 
 
-![Linux 入门包](/Asserts/Images//attachment/album/201812/04/183944xzzokpn9kzjstnm5.png "New to Linux? Start Linux starter book [ PDF version ]")
+![Linux 入门包](/Asserts/Images/album/201812/04/183944xzzokpn9kzjstnm5.png "New to Linux? Start Linux starter book [ PDF version ]")
 
 
 刚接触 Linux 这个美好世界？想找一个简单的入门方式？你可以下载一个 130 页的指南来入门。这个指南会向你展示如何在你的个人电脑上安装 Linux，如何浏览桌面，掌握最主流行的 Linux 程序和修复可能出现的问题的方法。

@@ -7,7 +7,7 @@ tags:	[linuxcn,备份,脚本,rsync,expect]
 ---
 
 
-![](/Asserts/Images//attachment/album/201506/25/101502qmc0s2og00rm20q0.png)
+![](/Asserts/Images/album/201506/25/101502qmc0s2og00rm20q0.png)
 
 
 本文我们介绍一个shell脚本，用来使用rsync命令将你本地Linux机器上的文件/目录备份到远程Linux服务器上。使用该脚本会以交互的方式实施备份，你需要提供远程备份服务器的主机名/ip地址和文件夹位置。我们使用一个单独的列表文件，在这个文件中你需要列出要备份的文件/目录。我们添加了两个脚本，**第一个脚本**在每次拷贝完一个文件后询问密码（如果你启用了ssh密钥验证，那么就不会询问密码），而第二个脚本中，则只会提示一次输入密码。
@@ -35,7 +35,7 @@ bckup.txt文件包含了需要备份的文件/目录的详情
 ```
 [root@Fedora21 tmp]# cat /tmp/bckup.txt
 /tmp/oracledb
-/tmp/Asserts/Images/config.txt
+/tmp/dataconfig.txt
 /tmp/docs
 [root@Fedora21 tmp]#
 
@@ -108,7 +108,7 @@ Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added '104.*.*.41' (ECDSA) to the list of known hosts.
 root@104.*.*.41's password:
 DONE
-Copying /tmp/Asserts/Images/config.txt ...
+Copying /tmp/dataconfig.txt ...
 root@104.*.*.41's password:
 DONE
 Copying /tmp/docs ...
@@ -191,7 +191,7 @@ done
 #### 运行第二个带有输出结果的脚本的屏幕截图
 
 
-![](/Asserts/Images//attachment/album/201506/25/101538i78tldd3pclt7l5p.png)
+![](/Asserts/Images/album/201506/25/101538i78tldd3pclt7l5p.png)
 
 
 希望这些脚本对你备份会有帮助！！

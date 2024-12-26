@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果公司,Servo,GPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/08/174319n87ac1xgg2ycxa2x.jpg)
+![](/Asserts/Images/album/202311/08/174319n87ac1xgg2ycxa2x.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/08/174356p6wn2kl8okkwno9n.png)
+![](/Asserts/Images/album/202311/08/174356p6wn2kl8okkwno9n.png)
 
 
 ### 苹果公司暂停开发明年的操作系统，以修复软件错误
@@ -35,7 +35,7 @@ tags:	[linuxcn,苹果公司,Servo,GPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/08/174417c5lf18zmmgmlmryg.png)
+![](/Asserts/Images/album/202311/08/174417c5lf18zmmgmlmryg.png)
 
 
 ### Servo 浏览器引擎获得资金支持 HTML 表格
@@ -60,7 +60,7 @@ tags:	[linuxcn,苹果公司,Servo,GPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/08/174438jhj3035jfjhhsn7f.png)
+![](/Asserts/Images/album/202311/08/174438jhj3035jfjhhsn7f.png)
 
 
 ### 必应聊天的 GPU 不够用了，微软将向甲骨文租用 GPU

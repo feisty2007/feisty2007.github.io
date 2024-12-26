@@ -10,7 +10,7 @@ tags:	[linuxcn,Ubuntu Tweak]
 周鼎，是大家熟悉的 Ubuntu Tweak 软件的创造者和维护者，他前不久宣布该项目从 2016年5月2日开始不再维护。
 
 
-![](/Asserts/Images//attachment/album/201605/05/135258c285hi4hrbi8qbcr.jpg)
+![](/Asserts/Images/album/201605/05/135258c285hi4hrbi8qbcr.jpg)
 
 
 Ubuntu Tweak 是 Ubuntu 上下载量最多的程序之一，它可以让 Ubuntu 用户按照自己的想法来优化 Ubuntu 系统的方方面面。

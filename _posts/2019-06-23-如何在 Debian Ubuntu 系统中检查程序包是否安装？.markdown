@@ -7,7 +7,7 @@ tags:	[linuxcn,安装]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/23/235541yl41p73z5jv78y8p.jpg)
+![](/Asserts/Images/album/201906/23/235541yl41p73z5jv78y8p.jpg)
 
 
 我们近期发布了一篇关于批量程序包安装的文章。在此同时，关于如何获取系统上已安装了的程序包信息，我也做了些调查然后找到了些方法。我会把这些方法分享在我们的网站上，希望能帮助到其他人。

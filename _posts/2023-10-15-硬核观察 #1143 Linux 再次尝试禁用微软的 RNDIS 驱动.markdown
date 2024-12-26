@@ -7,10 +7,10 @@ tags:	[linuxcn,RNDIS,AI,存储]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/03/154451ar6q7668o2kjruou.jpg)
+![](/Asserts/Images/album/202310/03/154451ar6q7668o2kjruou.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/03/154501xyf1syz1ptyys7pt.jpg)
+![](/Asserts/Images/album/202310/03/154501xyf1syz1ptyys7pt.jpg)
 
 
 ### Linux 再次尝试禁用微软的 RNDIS 驱动
@@ -35,7 +35,7 @@ tags:	[linuxcn,RNDIS,AI,存储]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/03/154514xshl00r050sa0jed.jpg)
+![](/Asserts/Images/album/202310/03/154514xshl00r050sa0jed.jpg)
 
 
 ### 微软担心人工智能帮助谷歌扩大搜索优势
@@ -60,7 +60,7 @@ tags:	[linuxcn,RNDIS,AI,存储]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/03/154528ejpr8d48ozvpp488.jpg)
+![](/Asserts/Images/album/202310/03/154528ejpr8d48ozvpp488.jpg)
 
 
 ### 欧洲核子研究中心扩充了超过 1EB 的存储空间

@@ -7,7 +7,7 @@ tags:	[linuxcn,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/02/120332vltxag2gjanx2d6b.jpg)
+![](/Asserts/Images/album/202309/02/120332vltxag2gjanx2d6b.jpg)
 
 
 
@@ -33,7 +33,7 @@ GNOME 45 计划于 **9 月 20 日** 发布，但你已经可以在其 beta 版�
 ### GNOME 45：有哪些新变化？
 
 
-![](/Asserts/Images//attachment/album/202309/02/120359gjdyshjs0ykbnz9w.jpg)
+![](/Asserts/Images/album/202309/02/120359gjdyshjs0ykbnz9w.jpg)
 
 
 主要的亮点包括：
@@ -52,7 +52,7 @@ GNOME 45 计划于 **9 月 20 日** 发布，但你已经可以在其 beta 版�
 #### Nautilus 的改善
 
 
-![当前的 Nautilus 文件管理器（左侧）以及改进后的设计（右侧）](/Asserts/Images//attachment/album/202309/02/120359e2n2wi4lqtq2qnqt.jpg)
+![当前的 Nautilus 文件管理器（左侧）以及改进后的设计（右侧）](/Asserts/Images/album/202309/02/120359e2n2wi4lqtq2qnqt.jpg)
 
 
 在过去，Nautilus 文件管理器没有进行过任何 UI 调整。但是，在 GNOME 45 中，它做了一些微妙的 UI 改版，在侧边栏中你可以看到汉堡菜单。
@@ -73,19 +73,19 @@ GNOME 45 计划于 **9 月 20 日** 发布，但你已经可以在其 beta 版�
 在这里，“<ruby> 隐私 <rt>  Privacy </rt></ruby>”菜单已经改版，选项的展示更加有条理且易于访问。
 
 
-![](/Asserts/Images//attachment/album/202309/02/120400wcvmmz4wjwkd6kdk.png)
+![](/Asserts/Images/album/202309/02/120400wcvmmz4wjwkd6kdk.png)
 
 
 接下来，“<ruby> 关于 <rt>  About </rt></ruby>”区域也进行了调整，以便通过“<ruby> 系统详细信息 <rt>  System Details </rt></ruby>”菜单展示技术信息，如下图所示。
 
 
-![](/Asserts/Images//attachment/album/202309/02/120401ndgb1kffwc1wre2w.png)
+![](/Asserts/Images/album/202309/02/120401ndgb1kffwc1wre2w.png)
 
 
 你需要点击“系统详细信息”来获取关于操作系统和硬件的所有必要技术信息。
 
 
-![](/Asserts/Images//attachment/album/202309/02/120401kt83286b6qzzlnmt.jpg)
+![](/Asserts/Images/album/202309/02/120401kt83286b6qzzlnmt.jpg)
 
 
 另外，为了让 Linux 新手更轻松上手：
@@ -102,7 +102,7 @@ GNOME 45 计划于 **9 月 20 日** 发布，但你已经可以在其 beta 版�
 GNOME 45 使用了全新的 [Loupe 图像查看器](https://news.itsfoss.com/loupe-image-viewer/) 应用，替代了“<ruby> GNOME 之眼 <rt>  Eye of GNOME </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202309/02/120401teg0x3xt1s2t2sqy.png)
+![](/Asserts/Images/album/202309/02/120401teg0x3xt1s2t2sqy.png)
 
 
 除此之外，你还可以期待出现“[Snapshot](https://news.itsfoss.com/gnome-snapshot/)”，这是一个新的摄像应用。它将替代“<ruby> 茄子 <rt>  Cheese </rt></ruby>”并重新命名为“<ruby> 相机 <rt>  Camera </rt></ruby>” 应用。
@@ -117,7 +117,7 @@ GNOME 45 使用了全新的 [Loupe 图像查看器](https://news.itsfoss.com/lou
 虽然 GNOME <ruby> 软件 <rt>  Software </rt></ruby>应用在初始阶段并未呈现出明显的 UI 变化，但它的价值实实在在地提升了。
 
 
-![图片来源：GitLab](/Asserts/Images//attachment/album/202309/02/120401z291pwocbo8gt8pe.png)
+![图片来源：GitLab](/Asserts/Images/album/202309/02/120401z291pwocbo8gt8pe.png)
 
 
 包括以下一些值得注意的变化：
@@ -134,7 +134,7 @@ GNOME 45 使用了全新的 [Loupe 图像查看器](https://news.itsfoss.com/lou
 各种应用都已进行了更新。首先是“<ruby> 地图 <rt>  Maps </rt></ruby>”应用，其中一些微妙的变化包括将缩放按钮从标题栏移动到地图的覆盖层。
 
 
-![](/Asserts/Images//attachment/album/202309/02/120402jrcxxckk91byb4bz.png)
+![](/Asserts/Images/album/202309/02/120402jrcxxckk91byb4bz.png)
 
 
 重构“变更路径”的侧边栏，使其能够适应触摸屏显示器，以及其它一般性的功能。
@@ -143,13 +143,13 @@ GNOME 45 使用了全新的 [Loupe 图像查看器](https://news.itsfoss.com/lou
 接下来是“<ruby> 天气 <rt>  Weather </rt></ruby>”应用，其增大了默认窗口大小以容纳所有温度计小部件。这款应用还可以记住你最后一次设定的窗口大小，便于在你下次打开时，直接展示该大小。
 
 
-![](/Asserts/Images//attachment/album/202309/02/120402u5lec15y8ye65z28.png)
+![](/Asserts/Images/album/202309/02/120402u5lec15y8ye65z28.png)
 
 
 新的“<ruby> 控制台 <rt>  Console </rt></ruby>”应用现在让你可以选择自定义字体，并设有新的设置窗口。
 
 
-![](/Asserts/Images//attachment/album/202309/02/120402z771ce7cp17c10s1.jpg)
+![](/Asserts/Images/album/202309/02/120402z771ce7cp17c10s1.jpg)
 
 
 总的来说，控制台在多项技术层面进一步优化。

@@ -18,7 +18,7 @@ tags:	[linuxcn,MariaDB]
 有时候你需要知道你的数据库版本，比如当你升级你数据库或对已知缺陷打补丁时。这里有几种方法找出MariaDB版本的方法。
 
 
-![](/Asserts/Images//attachment/album/201508/27/231727gqnj0jjfzohfb3ob.png)
+![](/Asserts/Images/album/201508/27/231727gqnj0jjfzohfb3ob.png)
 
 
 ### 方法一
@@ -27,13 +27,13 @@ tags:	[linuxcn,MariaDB]
 第一种找出版本的方法是登录MariaDB服务器，登录之后，你会看到一些MariaDB的版本信息。
 
 
-![](/Asserts/Images//attachment/album/201508/27/231752i5srrz0zx56ktxqq.jpg)
+![](/Asserts/Images/album/201508/27/231752i5srrz0zx56ktxqq.jpg)
 
 
 另一种方法是在登录MariaDB后出现的命令行中输入‘status’命令。输出会显示服务器的版本还有协议版本。
 
 
-![](/Asserts/Images//attachment/album/201508/27/231828hte7525o9i7720ko.jpg)
+![](/Asserts/Images/album/201508/27/231828hte7525o9i7720ko.jpg)
 
 
 ### 方法二
@@ -57,7 +57,7 @@ $ dpkg -l | grep mariadb
 下面的输出说明MariaDB的版本是10.0.17。
 
 
-![](/Asserts/Images//attachment/album/201508/27/231832gvhp1vlt4lzhc1se.jpg)
+![](/Asserts/Images/album/201508/27/231832gvhp1vlt4lzhc1se.jpg)
 
 
 #### Fedora、CentOS或者 RHEL:
@@ -72,7 +72,7 @@ $ rpm -qa | grep mariadb
 下面的输出说明安装的版本是5.5.41。
 
 
-![](/Asserts/Images//attachment/album/201508/27/231833plxspssijz7dzi55.jpg)
+![](/Asserts/Images/album/201508/27/231833plxspssijz7dzi55.jpg)
 
 
 

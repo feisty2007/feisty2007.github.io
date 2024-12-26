@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,开源]
 ---
 
 
-![00 microsoft](/Asserts/Images//attachment/album/201604/19/062342oqmyltgqmlggmlmn.jpg)
+![00 microsoft](/Asserts/Images/album/201604/19/062342oqmyltgqmlggmlmn.jpg)
 
 
 最近，微软在开源方面的动作频频引人注目，但是也许你并不知道微软从2004年就开始参与开源了，而就在那一年，Facebook 和 Ubuntu 才刚刚成立。
@@ -19,7 +19,7 @@ tags:	[linuxcn,微软,开源]
 ### 2004：WiX
 
 
-![01 wix first](/Asserts/Images//attachment/album/201604/19/062342jxxjmbjb3i3m3k3p.jpg)
+![01 wix first](/Asserts/Images/album/201604/19/062342jxxjmbjb3i3m3k3p.jpg)
 
 
 WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该工具集包括编译器、链接器、库工具和反编译器。WiX 的原作者 Rob Mensching 在一篇[文章](http://robmensching.com/blog/posts/2004/4/5/windows-installer-xml-wix-toolset-has-released-as-open-source-on-sourceforge.net/)中写道，“WiX 成为微软以 OSS 认证的许可证发布的第一个项目，采用的许可证是 Common Public License。”
@@ -28,7 +28,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2005：F# 1.0
 
 
-![02 sharp](/Asserts/Images//attachment/album/201604/19/062343kcozciu9jju6o67r.jpg)
+![02 sharp](/Asserts/Images/album/201604/19/062343kcozciu9jju6o67r.jpg)
 
 
 [F#](http://research.microsoft.com/en-us/projects/fsharp/) 是一个微软开发的跨平台、面向对象的编程语言。它在 Apache 2.0 许可证下发布的开源项目。可以运行在 Linux、 Mac OS X、Android、 iOS 和 Windows 下。该项目现在由 F Sharp 软件基金会开发运作。
@@ -37,7 +37,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2006：CodePlex
 
 
-![03 codeplex](/Asserts/Images//attachment/album/201604/19/062343mr4zr4sududid6rp.jpg)
+![03 codeplex](/Asserts/Images/album/201604/19/062343mr4zr4sududid6rp.jpg)
 
 
 [CodePlex](https://www.codeplex.com/) 是微软的自由开源项目的托管网站，这应该是微软首次重要的开源社区尝试。在该公司[发布](https://blogs.msdn.microsoft.com/jamesnewkirk/2006/05/16/codeplex-com-beta/) CodePlex 的 beta 版时，上面已经有了12个项目。现在该网站上已经托管了几百个项目，也支持 Git 版本控制软件。
@@ -46,7 +46,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2006：在 Windows 上支持 PHP
 
 
-![04 php windows](/Asserts/Images//attachment/album/201604/19/062344ucmwqz4t1mnwdk9t.jpg)
+![04 php windows](/Asserts/Images/album/201604/19/062344ucmwqz4t1mnwdk9t.jpg)
 
 
 2003 年，微软和 Zend 公司宣布合作以提升 PHP 在 Windows 服务器上的表现。在[公告](http://news.microsoft.com/2006/10/31/microsoft-and-zend-technologies-announce-technical-collaboration-to-improve-interoperability-of-php-on-the-windows-server-platform/#sm.0001yt87n8qc3e1gz8v1pgcd6dxln)中，微软说该公司为 PHP 在 Windows 服务器平台部署所开发的各种技术改进都会按照 PHP 许可证提交到 PHP 社区，以寻求社区反馈和贡献。
@@ -55,7 +55,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2006：与 Novell 签署有争议的合作
 
 
-![05 novell](/Asserts/Images//attachment/album/201604/19/062344fyfiey900yacyy0t.jpg)
+![05 novell](/Asserts/Images/album/201604/19/062344fyfiey900yacyy0t.jpg)
 
 
 这是一份震动 Linux 世界的[公告](http://money.cnn.com/2006/11/02/technology/microsoft/?postversion=2006110217)。微软和 Novell（SUSE 的拥有者）宣布合作了！虽然这两家公司主要关注在微软和 Novell 之间的互操作性的解决方案上，但是其中的专利条款却像[捅了蚂蜂窝](https://fsfe.org/campaigns/gplv3/tokyo-rms-transcript.en.html#novell-ms)一样。
@@ -64,7 +64,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2007：微软的开源许可证得到了 OSI 认证
 
 
-![06 microsoft license](/Asserts/Images//attachment/album/201604/19/062345w797dxczm6lx1cr0.jpg)
+![06 microsoft license](/Asserts/Images/album/201604/19/062345w797dxczm6lx1cr0.jpg)
 
 
 <ruby> 开源推进联盟 <rp>  （ </rp> <rt>  Open Source Initiative </rt> <rp>  ） </rp></ruby> (OSI) 对微软的开源许可证 Microsoft Public License (Ms-PL) 和 Microsoft Reciprocal License (Ms-RL) 进行了认证。在一篇[文章](https://opensource.org/node/207)中， OSI 写道，“这个决定的通过获得了开源社区大多数人的认可（虽然还有不同意见），这些许可证符合开源定义的10项准则，所以应该通过。”
@@ -76,7 +76,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2007：给 Samba 提供补丁
 
 
-![07 samba](/Asserts/Images//attachment/album/201604/19/062345dr9dg55vw3ul7ovk.jpg)
+![07 samba](/Asserts/Images/album/201604/19/062345dr9dg55vw3ul7ovk.jpg)
 
 
 在欧洲法庭上[败诉](http://www.cnet.com/news/microsoft-finally-yields-to-eu-order/)之后，微软与 Samba 项目之间的长期战争终于结束了。微软和由<ruby> 软件自由法律中心 <rp>  （ </rp> <rt>  Software Freedom Law Center </rt> <rp>  ） </rp></ruby>所创建的非盈利机构<ruby> 协议自由信息基金会 <rp>  （ </rp> <rt>  Protocol Freedom Information Foundation </rt> <rp>  ） </rp></ruby>（[PFIF](https://www.samba.org/samba/PFIF/)）达成了合作，微软移交该协议的文档，以便 Samba 项目可以无缝的与 Windows 配合。
@@ -85,7 +85,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2008：发布互操作性准则
 
 
-![08 interoperable](/Asserts/Images//attachment/album/201604/19/062346y3eeesc9siivi2ba.jpg)
+![08 interoperable](/Asserts/Images/album/201604/19/062346y3eeesc9siivi2ba.jpg)
 
 
 2008年，微软在其业务和与开源公司的合作方式方面做了一些重大举措。在一篇文章中，该公司[说道](https://blogs.msdn.microsoft.com/nickmayhew/2008/02/25/new-interop-principles/)，“微软确立了四个互操作性准则，并将它们应用到主要的商业产品上：1、确保开放连接；2、促进数据的可移植性；3、加强对行业标准的支持；4、在客户和行业的开放合作方面投入更多，包括开源组织。”
@@ -94,7 +94,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2008：向 ADOdb 提交补丁
 
 
-![09 adodb](/Asserts/Images//attachment/album/201604/19/062346pfq9vz7ceq2zf9c9.jpg)
+![09 adodb](/Asserts/Images/album/201604/19/062346pfq9vz7ceq2zf9c9.jpg)
 
 
 微软向 PHP 社区做的第一次贡献是为 [ADOdb](http://adodb.org/dokuwiki/doku.php) 提交补丁，这是 PHP 上的一个流行的数据库抽象层。时任微软平台战略资深总监的 Sam Ramji （现在是 Cloud Foundry 的 CEO）在一篇[文章](http://blogs.technet.com/b/port25/archive/2008/07/25/history-forward.aspx)中写道，“该补丁通过 SQL Server 团队开发的原生驱动为 SQL Server 提供了支持。ADOdb 以 LGPL 和 BSD 许可证授权。这是我们第一次贡献到 PHP 社区项目中，但是绝不会是最后一次。”
@@ -103,7 +103,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2008：开始向 Apache Hadoop HBase 贡献代码
 
 
-![010 hbase](/Asserts/Images//attachment/album/201604/19/062346la2g4eurarrlgg3q.jpg)
+![010 hbase](/Asserts/Images/album/201604/19/062346la2g4eurarrlgg3q.jpg)
 
 
 微软收购了一家旧金山的初创公司 Powerset，他们重度依赖于 Apache Hadoop 的 HBase 项目。 HBase 是一个以 Java 写的开源的、分布式的列数据库。Powerset 赞助了两名 HBase 开发者，而在微软收购之后依旧保持了赞助，并在一篇文章中[写道](http://blogs.technet.com/b/port25/archive/2008/10/14/powerset-team-resumes-hbase-contributions.aspx)，“微软参与并对开源社区做出贡献，这有益于客户、有益于社区，也有益于业务。”
@@ -112,7 +112,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2008：为 Apache 项目贡献代码
 
 
-![011 apache](/Asserts/Images//attachment/album/201604/19/062347gfcag4wiveefa4ae.jpg)
+![011 apache](/Asserts/Images/album/201604/19/062347gfcag4wiveefa4ae.jpg)
 
 
 微软通过[成为](http://blogs.technet.com/b/port25/archive/2008/07/25/history-forward.aspx) <ruby> Apache 软件基金会 <rp>  （ </rp> <rt>  Apache Software Foundation </rt> <rp>  ） </rp></ruby>的白金赞助商而逐渐向开源 Web 服务器 Apache 项目靠拢。同年，微软与 Sourcesense [达成了](http://news.microsoft.com/2008/03/25/microsoft-and-sourcesense-partner-to-contribute-to-open-source-apache-poi-to-support-ecma-office-open-xml-file-formats/#sm.0001yt87n8qc3e1gz8v1pgcd6dxln)合作关系，目标之一是为 Apache 软件基金会的顶级项目 Apache POI 的新版本开发贡献力量。
@@ -121,7 +121,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2009：向 Linux 内核贡献代码
 
 
-![013 linux many](/Asserts/Images//attachment/album/201604/19/062347nxn8zdtd8aretgxa.jpg)
+![013 linux many](/Asserts/Images/album/201604/19/062347nxn8zdtd8aretgxa.jpg)
 
 
 2009年，微软向 Linux 内核[贡献](https://news.microsoft.com/2009/07/20/microsoft-contributes-linux-drivers-to-linux-community/#sm.0001g0cd47zhsdsjzkh2c7hnv8ord)了超过两万行的代码。这些代码大大增强了在 Windows Server 2008 Hyper-V 或 Windows Server 2008 R2 Hyper-V 上运行的 Linux 操作系统虚拟机的性能。这些贡献让微软在一段较短的时间内成为了 Linux 内核排名第一的贡献者。
@@ -130,7 +130,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2011：Node.js 跑在了 Windows 上
 
 
-![012 node](/Asserts/Images//attachment/album/201604/19/062348eusdv3jjjewd71jn.jpg)
+![012 node](/Asserts/Images/album/201604/19/062348eusdv3jjjewd71jn.jpg)
 
 
 微软与 Joyent 公司和 Node.js 的作者 Ryan Dahl 一起将 Node.js 移植到了 Windows。在一篇 2011 年的[文章](https://blogs.msdn.microsoft.com/interoperability/2011/06/23/microsoft-working-with-joyent-and-the-node-community-to-bring-node-js-to-windows/)上，微软的 [Claudio Caldato](https://social.msdn.microsoft.com/profile/Claudio+Caldato) 写道，“我们的首要目标是给 Node 增加一个高性能的 IOCP API，让开发者可以在 Windows 上也获得 同 Node 在其它平台上一样的高性能和可伸缩性，IOCP API 可以让你执行多个并发的异步输入/输出操作。”微软的 Azure 团队也在开发 iisnode ，以便可以在微软的 IIS 服务器上运行 Node.js。
@@ -139,7 +139,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2012：ASP.NET MVC 开源了
 
 
-![014 asp net](/Asserts/Images//attachment/album/201604/19/062348bn2hwv03473b83y8.jpg)
+![014 asp net](/Asserts/Images/album/201604/19/062348bn2hwv03473b83y8.jpg)
 
 
 2012年，该公司在 Apache 2.0 许可证下开源了它的部分 Web 产品体系，包括 ASP.NET MVC、Razor 和 Web API。在一篇[文章](http://weblogs.asp.net/scottgu/asp-net-mvc-web-api-razor-and-open-source)中，微软的 Scott Guthrie 说道，“这样做可以带来更开放的开发模式，社区中的每个人都可以参与，并通过提交代码、修正错误、开发新功能等方式来提交反馈，也可以使用它的最新源代码和测试用例随时构建和测试产品。”如 Scott 所说，这也是第一次微软外部的开发者可以给他们提交补丁和贡献代码，微软的开发团队会审核这些代码，并有可能合并到产品中。
@@ -151,7 +151,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2012：微软成立“微软开放技术公司”
 
 
-![015 ms open](/Asserts/Images//attachment/album/201604/19/062349oqjwltpvapryvp6v.jpg)
+![015 ms open](/Asserts/Images/album/201604/19/062349oqjwltpvapryvp6v.jpg)
 
 
 2012年，微软宣布成立一个全资子公司，<ruby> 微软开放技术公司 <rp>  （ </rp> <rt>  Microsoft Open Technologies, Inc. </rt> <rp>  ） </rp></ruby>，其主要目标是“推动公司在开放性方面的投入，包括互操作性、开放标准和开源”，微软的 Jean Paoli [写道](https://blogs.msdn.microsoft.com/interoperability/2012/04/12/announcing-one-more-way-microsoft-will-engage-with-the-open-source-and-standards-communities/)。
@@ -160,7 +160,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2012：TypeScript
 
 
-![016 typescript](/Asserts/Images//attachment/album/201604/19/062349xogqgqgfsqlpqlrq.jpg)
+![016 typescript](/Asserts/Images/album/201604/19/062349xogqgqgfsqlpqlrq.jpg)
 
 
 [TypeScript](https://www.typescriptlang.org/) 是一个自由开源的编程语言，微软讲该开源项目以 Apache 2.0 许可证下发布。在一篇宣布这个消息的[文章](https://blogs.msdn.microsoft.com/somasegar/2012/10/01/typescript-javascript-development-at-application-scale/)中，微软的 [S.Somasegar](https://social.msdn.microsoft.com/profile/S.Somasegar) 解释道，它是“一个 JavaScript 的超集，将类型检查、静态分析、明确接口，以及最佳的体验共同组成了一门语言及编译器。”
@@ -169,7 +169,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2013：VM Depot
 
 
-![017 vmdepot](/Asserts/Images//attachment/album/201604/19/062350lwoq0yrimzwqdygf.jpg)
+![017 vmdepot](/Asserts/Images/album/201604/19/062350lwoq0yrimzwqdygf.jpg)
 
 
 2013年，上面提到的微软开放技术公司宣布了一个 VM Depot 项目，这是一个由社区驱动的 Linux 和 FreeBSD 虚拟机镜像库，用于微软 Azure。在该项目的公告中， Gianugo Rabellino [写道](http://blogs.technet.com/b/port25/archive/2013/01/09/for-your-oss-image-building-and-sharing-pleasure-meet-vm-depot-from-ms-open-tech.aspx)，“在 VM Depot 中，社区可以构建、部署和分享他们的 Linux 配置、创建定制的开源软件组合、与他人协作、在云上创建新的架构，以充分利用 Windows Azure 平台的开放性和灵活性。”
@@ -178,7 +178,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2014：.NET 开源
 
 
-![018 net](/Asserts/Images//attachment/album/201604/19/062350iww7zssk5h2zw4f0.jpg)
+![018 net](/Asserts/Images/album/201604/19/062350iww7zssk5h2zw4f0.jpg)
 
 
  
@@ -190,7 +190,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2014：向 OpenJDK 贡献代码
 
 
-![019 openjdk](/Asserts/Images//attachment/album/201604/19/062351p4bfinpv94ybbaib.jpg)
+![019 openjdk](/Asserts/Images/album/201604/19/062351p4bfinpv94ybbaib.jpg)
 
 
 2014年，微软开放技术公司向 OpenJDK 的 JDK9 开放团队提交了第一个补丁。[Martin Sawicki](https://msopentech.com/blog/author/marcins@microsoft.com/) 在一篇宣布这次贡献的[文章](https://msopentech.com/blog/2014/10/21/ms-open-techs-first-contribution-openjdk/)中写道，“这些代码的开发是应我们的合作伙伴之请，它可以让 Java 的套接字能够利用 Windows 的 <ruby> TCP 回环快速路径 <rp>  （ </rp> <rt>  TCP Loopback Fast Path </rt> <rp>  ） </rp></ruby>能力，以提升在同一台机器上的套接字之间的通讯速度。”
@@ -199,7 +199,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2014：纳德拉自称爱上 Linux
 
 
-![020 microsoft linux](/Asserts/Images//attachment/album/201604/19/062351zy7rr4c4kz5fck44.jpg)
+![020 microsoft linux](/Asserts/Images/album/201604/19/062351zy7rr4c4kz5fck44.jpg)
 
 
 2014年，微软的新 CEO <ruby> 萨提亚.纳德拉 <rp>  （ </rp> <rt>  Satya Nadella </rt> <rp>  ） </rp></ruby> 宣称“微软爱 Linux”。从勉强同意到技术上认同，这为微软带来了巨大的关注，但是在业界还有不少疑虑。
@@ -208,7 +208,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2015：Debian 来到 Azure
 
 
-![021 debian](/Asserts/Images//attachment/album/201604/19/062351pibibe1r781d8edg.jpg)
+![021 debian](/Asserts/Images/album/201604/19/062351pibibe1r781d8edg.jpg)
 
 
 微软通过与 credativ 合作，将最流行的 Linux 发行版之一的 Debian 带到了它的 Azure 上。在一篇宣布此消息的文章中，Azure 的高级程序经理 [Stephen Zarkos](https://azure.microsoft.com/en-us/blog/author/szark/) [写道](https://azure.microsoft.com/en-us/blog/debian-images-now-available-on-azure/)，“通过此次发布，客户现在可以选择由 credativ 构建的最新的 Debian 7 和 Debian 8 在微软 Azure 中创建基于 Debian 的虚拟机。”
@@ -217,7 +217,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2015：RHEL 来到 Azure
 
 
-![022 red hat](/Asserts/Images//attachment/album/201604/19/062352m6wdzlx6qz6syowq.jpg)
+![022 red hat](/Asserts/Images/album/201604/19/062352m6wdzlx6qz6syowq.jpg)
 
 
 2015年末，微软与 Red Hat 达成合作，将 Red Hat 企业版 Linux（RHEL）带到了它的 Azure 云。这两家公司[决定协同工作](http://www.cio.com/article/3034277/linux/red-hat-enterprise-linux-is-now-available-on-microsoft-azure.html)来“解决企业、ISV 和开发者在跨私有云和公有云的 Red Hat 软件上构建、分发和管理应用的常见需求。”
@@ -226,7 +226,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2015：OpenSSH 来到 Windows
 
 
-![023 openssh](/Asserts/Images//attachment/album/201604/19/062352t35om7st5cudbpjt.jpg)
+![023 openssh](/Asserts/Images/album/201604/19/062352t35om7st5cudbpjt.jpg)
 
 
 超过1/4的 Azure 云服务器运行着 Linux，这些用户需要能够安全地登录进机器来管理它们。微软计划通过 PowerShell 将开源项目 SSH 带到 Windows 上。该公司[说](https://blogs.msdn.microsoft.com/powershell/2015/06/03/looking-forward-microsoft-support-for-secure-shell-ssh/)，他们不仅会将 SSH 支持带到 PowerShell 中，他们也会给 OpenSSH 社区贡献代码。
@@ -235,7 +235,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2016：Ubuntu 来到 Azure
 
 
-![024 ubuntu](/Asserts/Images//attachment/album/201604/19/062353s7a115c8avoo0mox.jpg)
+![024 ubuntu](/Asserts/Images/album/201604/19/062353s7a115c8avoo0mox.jpg)
 
 
 2016年1月，微软和 Canonical 展示了在 Azure 上运行 Ubuntu Linux 的第一个技术预览版。[John Zannos](https://insights.ubuntu.com/author/john-zannos/) 在 Ubuntu [博客](https://insights.ubuntu.com/2016/01/26/microsoft-announces-first-technical-preview-of-azure-stack-with-ubuntu/)上写道，他们贡献了可验证的 Ubuntu 镜像，让开源应用可以很好地运行在 Azure 环境中。在此宣告后，微软现在已经将所有的领先的 Linux 发行版带到了 Azure 云上。
@@ -244,7 +244,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2016：SQL Server for Linux
 
 
-![025 sql](/Asserts/Images//attachment/album/201604/19/062353vwzbd7jldblrr67b.jpg)
+![025 sql](/Asserts/Images/album/201604/19/062353vwzbd7jldblrr67b.jpg)
 
 
  
@@ -256,7 +256,7 @@ WiX 工具集是微软的第一个开源项目，它发布于2004年4月。该�
 ### 2016：Bash on Windows
 
 
-![026 bash windows](/Asserts/Images//attachment/album/201604/19/062354kc9u8c8u6cq3s9kq.jpg)
+![026 bash windows](/Asserts/Images/album/201604/19/062354kc9u8c8u6cq3s9kq.jpg)
 
 
 微软与 Canonical 紧密合作，将最流行的 Linux 命令行工具带到了 Windows 10 上面。微软创建了一个名为 Windows Subsystem for Linux 的技术，可以让 Ubuntu 运行在 Windows 内核上。[Mike Harsh](https://blogs.windows.com/buildingapps/author/mike-harsh/) 在一篇[文章](https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/)中写道，“你现在可以运行 Bash 脚本、类似 sed、awk、grep 的 Linux 命令行工具，甚至你可以直接在 Windows 上试试那些主要用在 Linux 上工具，如 Ruby、Git、Python 等等。”

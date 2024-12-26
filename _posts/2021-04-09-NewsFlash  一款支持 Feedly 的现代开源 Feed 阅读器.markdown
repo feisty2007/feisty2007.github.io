@@ -7,7 +7,7 @@ tags:	[linuxcn,RSS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202104/03/001037r2udx6u6xqu5sqzu.jpg)
+![](/Asserts/Images/album/202104/03/001037r2udx6u6xqu5sqzu.jpg)
 
 
 有些人可能认为 RSS 阅读器已经不再，但它们仍然坚持在这里，特别是当你不想让大科技算法来决定你应该阅读什么的时候。Feed 阅读器可以帮你自助选择阅读来源。
@@ -25,7 +25,7 @@ NewsFlash 恰好是 [FeedReadeer](https://jangernert.github.io/FeedReader/) 的�
 ### NewsFlash: 一款补充网页 RSS 阅读器账户的 Feed 阅读器
 
 
-![](/Asserts/Images//attachment/album/202104/03/001122mpcdncqdv11dndwo.jpg)
+![](/Asserts/Images/album/202104/03/001122mpcdncqdv11dndwo.jpg)
 
 
 请注意，NewsFlash 并不只是针对基于网页的 RSS feed 账户量身定做的，你也可以选择使用本地 RSS feed，而不必在多设备间同步。
@@ -40,7 +40,7 @@ NewsFlash 恰好是 [FeedReadeer](https://jangernert.github.io/FeedReader/) 的�
 ### NewsFlash 功能
 
 
-![](/Asserts/Images//attachment/album/202104/03/001123qaopr64p9jqqr936.jpg)
+![](/Asserts/Images/album/202104/03/001123qaopr64p9jqqr936.jpg)
 
 
 * 支持桌面通知
@@ -60,7 +60,7 @@ NewsFlash 恰好是 [FeedReadeer](https://jangernert.github.io/FeedReader/) 的�
 除上述功能外，当你调整窗口大小时，还可以打开阅读器视图，这是一个细腻的补充功能。
 
 
-![newsflash 截图1](/Asserts/Images//attachment/album/202104/03/001123eh707hxrf8fhhxpf.jpg)
+![newsflash 截图1](/Asserts/Images/album/202104/03/001123eh707hxrf8fhhxpf.jpg)
 
 
 账户重新设置也很容易，这将删除所有本地数据。是的，你可以手动清除缓存并设置到期时间，并为你关注的所有 feed 设置一个用户数据存在本地的到期时间。

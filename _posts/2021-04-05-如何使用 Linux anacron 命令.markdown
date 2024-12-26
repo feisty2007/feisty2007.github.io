@@ -15,7 +15,7 @@ tags:	[linuxcn,anacron,cron]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/06/084133bphrxxeolhoyqr0o.jpg "Command line prompt")
+![](/Asserts/Images/album/202104/06/084133bphrxxeolhoyqr0o.jpg "Command line prompt")
 
 
 在 2021 年，人们有更多的理由喜欢 Linux。在这个系列中，我将分享使用 Linux 的 21 个不同理由。自动化是使用 Linux 的最佳理由之一。

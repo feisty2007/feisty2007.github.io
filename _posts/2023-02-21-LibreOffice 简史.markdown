@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/20/191328egg1odg1gegdgd91.jpg)
+![](/Asserts/Images/album/202302/20/191328egg1odg1gegdgd91.jpg)
 
 
 

@@ -15,7 +15,7 @@ tags:	[linuxcn,归档,压缩]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/10/110019yfqsy4hel2jqhs8h.jpg "Hand putting a Linux file folder into a drawer")
+![](/Asserts/Images/album/202204/10/110019yfqsy4hel2jqhs8h.jpg "Hand putting a Linux file folder into a drawer")
 
 
 当我完成一个项目时，我经常喜欢把为这个项目创建的所有文件放到一个档案中。这不仅可以 [节省空间](https://opensource.com/article/21/11/linux-commands-convert-files)，而且可以让这些文件远离我的视线，防止它们在我使用 [find](https://opensource.com/article/21/9/linux-find-command) 和 [grep](https://opensource.com/article/21/3/grep-cheat-sheet) 搜索我当前想要的文件时作为结果出现。一旦文件被归档，它们就会被你的文件系统视为一个单独的对象，这意味着你不能像浏览普通文件夹那样来浏览它们。你可以把它们解压缩来列出档案的内容，或者打开一个终端，运行适当的归档命令，比如 [tar](https://opensource.com/article/17/7/how-unzip-targz-file) 命令。又或者你可以使用一个像 Ark 这样的应用程序来列出、预览、修改和管理你的档案。
@@ -54,7 +54,7 @@ $ sudo apt install ark
 首先，从你的应用程序菜单中启动 Ark，然后进入“<ruby> 档案 <rt>  Archive </rt></ruby>”菜单，选择“<ruby> 新建 <rt>  New </rt></ruby>”。
 
 
-![用 Ark 创建一个新的档案](/Asserts/Images//attachment/album/202204/10/110030bnqqlkaaanlziall.jpg "Creating a new archive in Ark")
+![用 Ark 创建一个新的档案](/Asserts/Images/album/202204/10/110030bnqqlkaaanlziall.jpg "Creating a new archive in Ark")
 
 
 （图源 Seth Kenlon / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -69,7 +69,7 @@ Ark 不会自动创建空的档案，但在你设置好名称和位置后，只�
 要向即将建立的档案中添加文件，只需将该文件拖入 Ark 窗口即可。
 
 
-![档案中的内容](/Asserts/Images//attachment/album/202204/10/110030xfedf9hnxkfe9yhe.jpg "Items in an archive")
+![档案中的内容](/Asserts/Images/album/202204/10/110030xfedf9hnxkfe9yhe.jpg "Items in an archive")
 
 
 （图源 Seth Kenlon / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -81,7 +81,7 @@ Ark 不会自动创建空的档案，但在你设置好名称和位置后，只�
 要查看你通过压缩文件节省了多少磁盘空间，你可以进入“<ruby> 档案 <rt>  Archive </rt></ruby>”菜单，选择“<ruby> 属性 <rt>  Properties </rt></ruby>”。它会显示出文件在归档前/后的大小，同时还有很多其他有用的元数据。
 
 
-![档案的属性和元数据](/Asserts/Images//attachment/album/202204/10/110031r88zum6lialz7aqm.jpg "Archive properties and metadata")
+![档案的属性和元数据](/Asserts/Images/album/202204/10/110031r88zum6lialz7aqm.jpg "Archive properties and metadata")
 
 
 （图源 Seth Kenlon / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -105,7 +105,7 @@ Ark 可以打开任何档案，就像打开一个普通的文件夹一样。要�
 有时候，你会把一个文件放到一个你不需要的档案中。此时，当你想从档案中删除一个文件时，你可以右键单击该文件并选择“<ruby> 删除 <rt>  Delete </rt></ruby>”。
 
 
-![右键菜单](/Asserts/Images//attachment/album/202204/10/110031uxhn9hhlsnlxhnnh.jpg "Right-click menu")
+![右键菜单](/Asserts/Images/album/202204/10/110031uxhn9hhlsnlxhnnh.jpg "Right-click menu")
 
 
 （图源 Seth Kenlon / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）
@@ -135,7 +135,7 @@ Ark 可以打开任何档案，就像打开一个普通的文件夹一样。要�
 要预览一个文件，在 Ark 中双击它即可。
 
 
-![在 Ark 中预览一个文件](/Asserts/Images//attachment/album/202204/10/110032iza1ep55e0iqbzjq.jpg "Previewing a file in Ark")
+![在 Ark 中预览一个文件](/Asserts/Images/album/202204/10/110032iza1ep55e0iqbzjq.jpg "Previewing a file in Ark")
 
 
 （图源 Seth Kenlon / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）

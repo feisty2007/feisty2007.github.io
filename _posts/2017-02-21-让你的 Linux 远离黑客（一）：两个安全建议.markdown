@@ -7,7 +7,7 @@ tags:	[linuxcn,安全,黑客,SSH]
 ---
 
 
-![Keep hackers out](/Asserts/Images//attachment/album/201702/10/005705tqr7lmj9uyis5auf.jpg "Keep hackers out")
+![Keep hackers out](/Asserts/Images/album/201702/10/005705tqr7lmj9uyis5auf.jpg "Keep hackers out")
 
 
 

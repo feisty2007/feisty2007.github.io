@@ -27,7 +27,7 @@ Purism 自诩为“<ruby> <a href="https://puri.sm/about/social-purpose/">  社�
 ### Librem Mini: Purism 的微型个人电脑
 
 
-![Librem Mini PC](/Asserts/Images//attachment/album/202003/27/111003zoashcc32xjkh3rc.png)
+![Librem Mini PC](/Asserts/Images/album/202003/27/111003zoashcc32xjkh3rc.png)
 
 
 [Purism](https://puri.sm/) 的 [Librem Mini](https://puri.sm/products/librem-mini/) 旨在成为小型、轻便且功能强大的微型个人电脑。
@@ -42,7 +42,7 @@ Purism 自诩为“<ruby> <a href="https://puri.sm/about/social-purpose/">  社�
 ### Librem Mini 的规格
 
 
-![](/Asserts/Images//attachment/album/202003/27/111009bmjdwpecctwpe0x1.png)
+![](/Asserts/Images/album/202003/27/111009bmjdwpecctwpe0x1.png)
 
 
 这是它的规格表：
@@ -81,7 +81,7 @@ Purism 自诩为“<ruby> <a href="https://puri.sm/about/social-purpose/">  社�
 ### 价格和供应
 
 
-![Librem Mini from the back](/Asserts/Images//attachment/album/202003/27/111011yx4wx81oxrv8x44s.png)
+![Librem Mini from the back](/Asserts/Images/album/202003/27/111011yx4wx81oxrv8x44s.png)
 
 
 具有 8 Gigs RAM 和 256 GB SSD 的基本配置将需要花费 $699。而且，如果你想要最强大的配置，其价格轻松就升高到 $3000。

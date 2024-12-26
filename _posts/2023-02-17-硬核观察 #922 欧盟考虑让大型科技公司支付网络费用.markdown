@@ -7,10 +7,10 @@ tags:	[linuxcn,互联网,数字隐私,电子钱包]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/24/142412ojsdz7pbso86suep.jpg)
+![](/Asserts/Images/album/202302/24/142412ojsdz7pbso86suep.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/24/142421m1wtql9z3z3t6zlu.jpg)
+![](/Asserts/Images/album/202302/24/142421m1wtql9z3z3t6zlu.jpg)
 
 
 ### 欧盟考虑让大型科技公司支付网络费用
@@ -35,7 +35,7 @@ tags:	[linuxcn,互联网,数字隐私,电子钱包]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/24/142432o7vjxj9rr7vjv3rp.jpg)
+![](/Asserts/Images/album/202302/24/142432o7vjxj9rr7vjv3rp.jpg)
 
 
 ### Linux 欧洲基金会推出 OpenWallet 基金会
@@ -60,7 +60,7 @@ Linux 基金会不久前成立的 “<ruby> Linux 欧洲基金会 <rt>  Linux Fo
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/24/142445zgxsstxbi5xfiwy9.jpg)
+![](/Asserts/Images/album/202302/24/142445zgxsstxbi5xfiwy9.jpg)
 
 
 ### 谷歌 Play 商店中大多数顶级应用的数据隐私标签都是虚假或误导的
@@ -71,7 +71,7 @@ Mozilla 研究人员发现，在对谷歌 Play 商店中的一些应用程序经
 
 
 > 
-> **[消息来源：Slashdot](https://yro.slashdot.org/story/23/02/23/1359226/Asserts/Images/-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading-mozilla-study-finds)**
+> **[消息来源：Slashdot](https://yro.slashdot.org/story/23/02/23/1359226/data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading-mozilla-study-finds)**
 > 
 > 
 > 

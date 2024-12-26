@@ -15,7 +15,7 @@ tags:	[linuxcn,DockerHub,Docker]
 > 
 
 
-![](/Asserts/Images//attachment/album/201804/16/100714hydmwjmalw6j7c8d.jpg)
+![](/Asserts/Images/album/201804/16/100714hydmwjmalw6j7c8d.jpg)
 
 
 在前面的文章中，我们了解到了基本的 [Docker 术语](https://www.linux.com/blog/intro-to-linux/2017/12/container-basics-terms-you-need-know)，在 Linux 桌面、MacOS 和 Windows上 [如何安装 Docker](/article-9773-1.html)，[如何创建容器镜像](/article-9541-1.html) 并且在系统上运行它们。在本系列的最后一篇文章中，我们将讨论如何使用 DockerHub 中的镜像以及将自己的镜像发布到 DockerHub。
@@ -91,7 +91,7 @@ $ docker search nginx
 
 ```
 
-![](/Asserts/Images//attachment/album/201804/16/101005skzrmrav3x5m5llc.png)
+![](/Asserts/Images/album/201804/16/101005skzrmrav3x5m5llc.png)
 
 
 正如你所看到的，DockerHub 上有很多 Nginx 镜像。为什么？因为任何人都可以发布镜像，各种镜像针对不同的项目进行了优化，因此你可以选择合适的镜像。你只需要为你的需求安装合适的镜像。
@@ -145,7 +145,7 @@ $ docker images
 
 ```
 
-![](/Asserts/Images//attachment/album/201804/16/101107j98rv69sm8v96bss.png)
+![](/Asserts/Images/album/201804/16/101107j98rv69sm8v96bss.png)
 
 
 现在，假设你希望将镜像 `ng` 推送到 DockerHub，首先，我们需要标记该镜像（[了解更多关于标记的信息](https://www.linux.com/blog/intro-to-linux/2017/12/container-basics-terms-you-need-know)）：

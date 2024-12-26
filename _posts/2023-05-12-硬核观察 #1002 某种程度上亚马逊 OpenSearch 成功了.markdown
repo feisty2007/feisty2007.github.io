@@ -7,10 +7,10 @@ tags:	[linuxcn,KDE,AWS,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/15/203011chgsev16georbxhc.jpg)
+![](/Asserts/Images/album/202305/15/203011chgsev16georbxhc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/15/203021weal7qyram3eadqa.jpg)
+![](/Asserts/Images/album/202305/15/203021weal7qyram3eadqa.jpg)
 
 
 ### 某种程度上亚马逊 OpenSearch 成功了
@@ -35,7 +35,7 @@ tags:	[linuxcn,KDE,AWS,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/15/203033saueazunaqlzn214.jpg)
+![](/Asserts/Images/album/202305/15/203033saueazunaqlzn214.jpg)
 
 
 ### KDE Plasma 6 修改默认设置，默认双击打开
@@ -60,7 +60,7 @@ KDE 开发者发布的一篇博文描述了为 Plasma 桌面环境所做的工�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/15/203047c3sxxzdpzk0p8d8b.jpg)
+![](/Asserts/Images/album/202305/15/203047c3sxxzdpzk0p8d8b.jpg)
 
 
 ### 人工智能可以比医生早 3 年预测出胰腺癌

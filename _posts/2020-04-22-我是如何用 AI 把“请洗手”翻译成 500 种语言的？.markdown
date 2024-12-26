@@ -15,7 +15,7 @@ tags:	[linuxcn,翻译,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202004/20/184427f1a2t5z61m5xxo1t.jpg)
+![](/Asserts/Images/album/202004/20/184427f1a2t5z61m5xxo1t.jpg)
 
 
 你可能不知道，目前世界上有 [7117 种语言](https://www.ethnologue.com/guides/how-many-languages)在使用，不是方言，而是在用的语言! 然而，世界上许多数字媒体只能使用几十种语言，而像谷歌翻译这样的翻译平台只支持 100 种左右的语言。这样的现实意味着，由于缺乏及时获取信息的机会，全世界有数十亿人被边缘化。当前的冠状病毒（COVID-19）大流行已经让人痛苦地意识到了这一点，凸显了将健康相关的短语（如“<ruby> 请洗手 <rt>  wash your hands </rt></ruby>”或“保持距离”等）即时、快速翻译成小众语言的必要性。
@@ -36,13 +36,13 @@ SIL 国际公司已经完成了 2000 多种语言的语言工作，目前管理�
 这是相当多语言的数据集。然而，有两个问题需要克服。首先，这个数据包含了大多数语言的数千种样本，这与训练机器翻译模型所使用的数百万个样本形成了鲜明对比。其次，即使文档中包含目标语言中的“请洗手”这个短语，我们也不知道这个短语在周围文本中的确切位置。
 
 
-我们当然可以利用[低资源语言的机器翻译](https://Asserts/Images/dan.io/blog/resources-for-low-resource-machine-translation)中的一些最新技巧，但是需要花费一些时间来调整自动化方法，以快速适应每种语言对中的翻译模型。此外，我们所针对的许多语言都没有现成的的基线，可以用来比较评估指标（例如 [BLEU 评分](https://en.wikipedia.org/wiki/BLEU)）。考虑到对冠状病毒大流行的迫切担忧，我们希望比这更快一点（尽管我们计划在将来再来解决这个问题）。
+我们当然可以利用[低资源语言的机器翻译](https://datadan.io/blog/resources-for-low-resource-machine-translation)中的一些最新技巧，但是需要花费一些时间来调整自动化方法，以快速适应每种语言对中的翻译模型。此外，我们所针对的许多语言都没有现成的的基线，可以用来比较评估指标（例如 [BLEU 评分](https://en.wikipedia.org/wiki/BLEU)）。考虑到对冠状病毒大流行的迫切担忧，我们希望比这更快一点（尽管我们计划在将来再来解决这个问题）。
 
 
 我选择通过在现有的文档中寻找短语本身或短语的组件（如“请洗”或“你的手”）来尝试构建“请洗手”这个短语。为了找到这些成分，我使用 Facebook Research 的[多语言无监督和受监督嵌入（MUSE）](https://github.com/facebookresearch/MUSE)对每个 {英语、目标语言} 对进行了<ruby> 跨语言 <rt>  cross-lingual </rt></ruby>嵌入训练。MUSE 以<ruby> 单语言 <rt>  monolingual </rt></ruby>的单词嵌入作为输入（我使用 [fasttext](https://fasttext.cc/) 来生成这些词），并使用对抗性方法学习了从英语到目标嵌入空间的映射。这个过程的输出是<ruby> 跨语言 <rt>  cross-lingual </rt></ruby>的单词嵌入。
 
 
-![](/Asserts/Images//attachment/album/202004/20/185121p87fx77spuff0gcf.gif)
+![](/Asserts/Images/album/202004/20/185121p87fx77spuff0gcf.gif)
 
 
 一旦产生了跨语言嵌入，我们就可以开始在目标语言文档中寻找短语组件。结果发现，整个文档中清楚地使用了“请洗脸”这个短语以及单独的“手”、“请洗”等词。对于每一种语言，我都通过 n-gram 搜索我预期该短语会出现的地方（根据其在英语的对应版本中的用法）。使用跨语言嵌入法对 n-gram 进行了矢量化处理，并使用各种距离指标与英语短语的矢量化版本进行了比较。在嵌入空间中，与英文短语“最接近”的 n-gram 被确定为与目标语言匹配。
@@ -51,7 +51,7 @@ SIL 国际公司已经完成了 2000 多种语言的语言工作，目前管理�
 最后，将与英语对应的成分短语进行组合，生成目标语言中的“请洗手”短语。这种组合方式再次利用了跨语言嵌入，以确保以合适方式组合组件。例如，如果我们在目标语言中匹配“请洗脚”这个短语，就必须将“脚”对应的 n-gram 替换成“手”对应的 n-gram。下面是<ruby> 伯利兹·克里奥尔 <rt>  Belize Kriol </rt></ruby>英语的一个例子：
 
 
-![](/Asserts/Images//attachment/album/202004/20/185306mn8n48v9lbgcnbnz.gif)
+![](/Asserts/Images/album/202004/20/185306mn8n48v9lbgcnbnz.gif)
 
 
 当然，在这个匹配过程中，会做一些假设，这个过程完全有可能不能产生语法上正确的预测。例如，我假设在大多数语言中，“手”的单词和“脚”的单词都是一个<ruby> 字元 <rt>  token </rt></ruby>长的（字元由空格和标点符号隔开）。当然并非总是如此。这可能会造成类似于“和洗和手你”或类似的瑕疵词条。希望我们可以克服其中的一些局限性，并在未来扩展这个系统，但是，现在，我们选择用图形来强化这个想法。
@@ -141,10 +141,10 @@ SIL 国际公司已经完成了 2000 多种语言的语言工作，目前管理�
 ### 培养你的 AI 技能
 
 
-有很多令人兴奋的 AI 问题，可以给世界带来巨大的影响。如果你想用人工智能解决像上面提到的问题，或者你认为你的企业可能需要开始利用人工智能来做其他事情（供应链优化、推荐、客户服务自动化等），那么不要错过今年 5 月的[AI 课堂培训活动](https://Asserts/Images/dan.io/)。*AI 课堂*是一个沉浸式的、为期三天的虚拟培训活动，适合至少有一定编程经验和数学基础知识的人参加。该培训提供了使用 Python 和开源框架（如 TensorFlow 和 PyTorch）进行现实的 AI 开发的实用基础知识。完成课程后，学员将有信心开始开发和部署自己的 AI 解决方案。
+有很多令人兴奋的 AI 问题，可以给世界带来巨大的影响。如果你想用人工智能解决像上面提到的问题，或者你认为你的企业可能需要开始利用人工智能来做其他事情（供应链优化、推荐、客户服务自动化等），那么不要错过今年 5 月的[AI 课堂培训活动](https://datadan.io/)。*AI 课堂*是一个沉浸式的、为期三天的虚拟培训活动，适合至少有一定编程经验和数学基础知识的人参加。该培训提供了使用 Python 和开源框架（如 TensorFlow 和 PyTorch）进行现实的 AI 开发的实用基础知识。完成课程后，学员将有信心开始开发和部署自己的 AI 解决方案。
 
 
-本文经许可转载自 <https://Asserts/Images/dan.io/blog/wash-your-hands>
+本文经许可转载自 <https://datadan.io/blog/wash-your-hands>
 
 
 
@@ -155,7 +155,7 @@ SIL 国际公司已经完成了 2000 多种语言的语言工作，目前管理�
 via: <https://opensource.com/article/20/4/ai-translation>
 
 
-作者：[Daniel Whitenack](https://opensource.com/users/Asserts/Images/dan) 选题：[lujun9972](https://github.com/lujun9972) 译者：[wxy](https://github.com/wxy) 校对：[wxy](https://github.com/wxy)
+作者：[Daniel Whitenack](https://opensource.com/users/datadan) 选题：[lujun9972](https://github.com/lujun9972) 译者：[wxy](https://github.com/wxy) 校对：[wxy](https://github.com/wxy)
 
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出

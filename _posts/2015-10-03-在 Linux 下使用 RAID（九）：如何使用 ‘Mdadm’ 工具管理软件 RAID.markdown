@@ -10,7 +10,7 @@ tags:	[linuxcn,RAID]
 无论你以前有没有使用 RAID 阵列的经验，以及是否完成了 [此 RAID 系列](/article-6085-1.html) 的所有教程，一旦你在 Linux 中熟悉了 `mdadm --manage` 命令的使用，管理软件 RAID 将不是很复杂的任务。
 
 
-![在 Linux 中使用 mdadm 管理 RAID 设备 - 第9部分](/Asserts/Images//attachment/album/201510/25/201458vaugnvlr7gj5fa5v.png)
+![在 Linux 中使用 mdadm 管理 RAID 设备 - 第9部分](/Asserts/Images/album/201510/25/201458vaugnvlr7gj5fa5v.png)
 
 
 *在 Linux 中使用 mdadm 管理 RAID 设备 - 第9部分*
@@ -43,7 +43,7 @@ tags:	[linuxcn,RAID]
 就会使我们看到 `mdadm --manage` 能够执行哪些任务：
 
 
-![Manage RAID with mdadm Tool](/Asserts/Images//attachment/album/201510/23/231705xffac8m8a1wdwa9z.png)
+![Manage RAID with mdadm Tool](/Asserts/Images/album/201510/23/231705xffac8m8a1wdwa9z.png)
 
 
 *使用 mdadm 工具来管理 RAID*
@@ -91,7 +91,7 @@ tags:	[linuxcn,RAID]
 
 ```
 
-![Add Device to Raid Array](/Asserts/Images//attachment/album/201510/23/231707tq4hp5elzgz5msoh.png)
+![Add Device to Raid Array](/Asserts/Images/album/201510/23/231707tq4hp5elzgz5msoh.png)
 
 
 *添加设备到 Raid 阵列*
@@ -112,7 +112,7 @@ tags:	[linuxcn,RAID]
 请注意在前面的例子中，知道如何添加备用设备来自动更换出现故障的磁盘。在此之后，[恢复和重建 raid 数据](/article-6448-1.html) 就开始了：
 
 
-![Recover and Rebuild Raid Data](/Asserts/Images//attachment/album/201510/23/231708kzclq63u006rtg6q.png)
+![Recover and Rebuild Raid Data](/Asserts/Images/album/201510/23/231708kzclq63u006rtg6q.png)
 
 
 *恢复和重建 raid 数据*
@@ -167,7 +167,7 @@ tags:	[linuxcn,RAID]
 mdadm 能检测到新添加的设备并将其作为备用设备，当添加完成后它会开始重建数据，它也被认为是 RAID 中的活动设备：
 
 
-![Raid Rebuild Status](/Asserts/Images//attachment/album/201510/23/231708v2azltciiahr2ejj.png)
+![Raid Rebuild Status](/Asserts/Images/album/201510/23/231708v2azltciiahr2ejj.png)
 
 
 *重建 Raid 的状态*
@@ -185,7 +185,7 @@ mdadm 能检测到新添加的设备并将其作为备用设备，当添加完�
 
 ```
 
-![Replace Raid Device](/Asserts/Images//attachment/album/201510/23/231708bw2b6k9wvzr9bkrj.png)
+![Replace Raid Device](/Asserts/Images/album/201510/23/231708bw2b6k9wvzr9bkrj.png)
 
 
 *更换 Raid 设备*
@@ -194,7 +194,7 @@ mdadm 能检测到新添加的设备并将其作为备用设备，当添加完�
 这会导致 `--replace` 指定的设备被标记为故障，而 `--with`指定的设备添加到 RAID 中来替代它：
 
 
-![Check Raid Rebuild Status](/Asserts/Images//attachment/album/201510/23/231709h3bh88f8c8dfhnnm.png)
+![Check Raid Rebuild Status](/Asserts/Images/album/201510/23/231709h3bh88f8c8dfhnnm.png)
 
 
 *检查 Raid 重建状态*
@@ -218,7 +218,7 @@ mdadm 能检测到新添加的设备并将其作为备用设备，当添加完�
 
 ```
 
-![Set Permissions on Raid Array](/Asserts/Images//attachment/album/201510/23/231709p7r4r2ehkjhkuk2k.png)
+![Set Permissions on Raid Array](/Asserts/Images/album/201510/23/231709p7r4r2ehkjhkuk2k.png)
 
 
 *在 RAID 阵列上设置权限*
@@ -237,7 +237,7 @@ mdadm 能检测到新添加的设备并将其作为备用设备，当添加完�
 
 ```
 
-![Allow Read Write Permission on Raid](/Asserts/Images//attachment/album/201510/23/231710m88xdcxcf6o8r6ck.png)
+![Allow Read Write Permission on Raid](/Asserts/Images/album/201510/23/231710m88xdcxcf6o8r6ck.png)
 
 
 *配置 Raid 允许读写操作*

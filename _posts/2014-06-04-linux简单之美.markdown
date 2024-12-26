@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,系统调用,汇编]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/24/155116x0fq14fe0f909bde.jpeg)
+![](/Asserts/Images/album/201406/24/155116x0fq14fe0f909bde.jpeg)
 
 
 ### （一）

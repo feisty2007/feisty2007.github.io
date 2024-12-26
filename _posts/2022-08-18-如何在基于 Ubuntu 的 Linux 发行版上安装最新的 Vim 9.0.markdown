@@ -7,7 +7,7 @@ tags:	[linuxcn,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/05/174903f3zu3nqrrnwclwrz.jpg)
+![](/Asserts/Images/album/202208/05/174903f3zu3nqrrnwclwrz.jpg)
 
 
 
@@ -72,7 +72,7 @@ sudo add-apt-repository ppa:jonathonf/vim
 
 ```
 
-![Adding the PPA to get the latest Vim version](/Asserts/Images//attachment/album/202208/05/174905wzusj35h5jyhosoj.png)
+![Adding the PPA to get the latest Vim version](/Asserts/Images/album/202208/05/174905wzusj35h5jyhosoj.png)
 
 
 你不需要在 Ubuntu 上更新软件包缓存，但其他发行版如 Mint 可能仍然需要：
@@ -102,7 +102,7 @@ vim --version
 
 ```
 
-![Checking installed Vim version](/Asserts/Images//attachment/album/202208/05/174906y0j8razlwy0ooaye.png)
+![Checking installed Vim version](/Asserts/Images/album/202208/05/174906y0j8razlwy0ooaye.png)
 
 
 这是一个维护得非常好的 PPA，适用于所有活跃的 Ubuntu 版本。

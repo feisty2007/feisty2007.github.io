@@ -27,7 +27,7 @@ Adobe Photoshop 是一个可用于 Windows 和 macOS 的高级图像编辑和设
 ### 适用于 Linux、Windows 和 macOS 的 Adobe Photoshop 的开源替代品
 
 
-![](/Asserts/Images//attachment/album/201910/17/233850adhmddd1d2dxnkxf.png)
+![](/Asserts/Images/album/201910/17/233850adhmddd1d2dxnkxf.png)
 
 
 最初，我想只关注 Linux 中的 Photoshop 替代品，但为什么要把这个列表局限于 Linux 呢？其他操作系统用户也可使用开源软件。
@@ -45,7 +45,7 @@ Adobe Photoshop 是一个可用于 Windows 和 macOS 的高级图像编辑和设
 #### 1、GIMP：真正的 Photoshop 替代品
 
 
-![](/Asserts/Images//attachment/album/201910/17/233745jcmgnm3yovsq20c3.jpg)
+![](/Asserts/Images/album/201910/17/233745jcmgnm3yovsq20c3.jpg)
 
 
 主要特点：
@@ -71,7 +71,7 @@ Adobe Photoshop 是一个可用于 Windows 和 macOS 的高级图像编辑和设
 #### 2、Krita
 
 
-![](/Asserts/Images//attachment/album/201910/17/233750vbpbcbk4zckpi87p.png)
+![](/Asserts/Images/album/201910/17/233750vbpbcbk4zckpi87p.png)
 
 
 主要特点：
@@ -94,7 +94,7 @@ Adobe Photoshop 是一个可用于 Windows 和 macOS 的高级图像编辑和设
 #### 3、Darktable
 
 
-![](/Asserts/Images//attachment/album/201910/17/233752kvroxleizzjt7xqc.jpg)
+![](/Asserts/Images/album/201910/17/233752kvroxleizzjt7xqc.jpg)
 
 
 主要特点：
@@ -117,7 +117,7 @@ Adobe Photoshop 是一个可用于 Windows 和 macOS 的高级图像编辑和设
 #### 4、Inkscape
 
 
-![](/Asserts/Images//attachment/album/201910/17/233755pexpdzendsvvpomx.jpg)
+![](/Asserts/Images/album/201910/17/233755pexpdzendsvvpomx.jpg)
 
 
 主要特点：

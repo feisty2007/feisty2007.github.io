@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,GitHub,传统媒体,社交媒体]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/31/202522kjrzvzxgytgl5ov0.jpg)
+![](/Asserts/Images/album/202312/31/202522kjrzvzxgytgl5ov0.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/31/202533o7z7d6oehaz6obd6.png)
+![](/Asserts/Images/album/202312/31/202533o7z7d6oehaz6obd6.png)
 
 
 ### #1 GitHub 正式发布 Copilot 编程助手
@@ -38,7 +38,7 @@ GitHub 的 Copilot Chat 聊天机器人功能在 7 月份推出了有限的测�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/31/202547q0a0zymwwwc2rpk0.png)
+![](/Asserts/Images/album/202312/31/202547q0a0zymwwwc2rpk0.png)
 
 
 ### #2 迪士尼、华纳、康卡斯特和派拉蒙等考虑合并
@@ -66,7 +66,7 @@ GitHub 的 Copilot Chat 聊天机器人功能在 7 月份推出了有限的测�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/31/202632uzl5kta3vrzmtzrn.png)
+![](/Asserts/Images/album/202312/31/202632uzl5kta3vrzmtzrn.png)
 
 
 ### #3 人们越来越少在社交媒体上发帖

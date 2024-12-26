@@ -7,7 +7,7 @@ tags:	[linuxcn,稍后阅读]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/17/135134ardrua15ezuv8rd2.jpg)
+![](/Asserts/Images/album/202308/17/135134ardrua15ezuv8rd2.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,稍后阅读]
 ### Omnivore：概览 ⭐
 
 
-![](/Asserts/Images//attachment/album/202308/17/135157kd24px37r607h0x6.jpg)
+![](/Asserts/Images/album/202308/17/135157kd24px37r607h0x6.jpg)
 
 
 它主要由 **HTML** 和 **TypeScript** 驱动，Omnivore **的目标是成为满足你所有阅读需求的一站式解决方案**。
@@ -66,7 +66,7 @@ tags:	[linuxcn,稍后阅读]
 创建账号后，我将一些稍后阅读的文章添加到了它里面，结果就是这个 **组织良好的主页** 。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135158jlp2jl27ffwzzmfj.jpg)
+![](/Asserts/Images/album/202308/17/135158jlp2jl27ffwzzmfj.jpg)
 
 
 它具有一个侧边栏菜单，包括 <ruby> 收件箱 <rt>  Inbox </rt></ruby>、<ruby> 继续阅读 <rt>  Continue Reading </rt></ruby>、<ruby> 稍后阅读 <rt>  Read Later </rt></ruby>、<ruby> 无标签的 <rt>  Unlabeled </rt></ruby> 等分类选项。
@@ -84,7 +84,7 @@ tags:	[linuxcn,稍后阅读]
 一种是 **通过用户菜单** ，你需要点击 “<ruby> 添加链接 <rt>  Add Link </rt></ruby>”，然后在你点击它时弹出的文本框中粘贴 URL。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135158aqmagycuzysa014s.jpg)
+![](/Asserts/Images/album/202308/17/135158aqmagycuzysa014s.jpg)
 
 
 但另一种方法更为直观；它是 **通过浏览器扩展** 完成的。我使用 [Chrome 网上应用店](https://chrome.google.com/webstore/detail/omnivore/blkggjdmcfjdbmmmlfcpplkchpeaiiab/) 的 Omnivore 扩展在 Vivaldi 上进行了测试。
@@ -93,7 +93,7 @@ tags:	[linuxcn,稍后阅读]
 安装后，你只需访问你感兴趣的文章，并点击浏览器扩展栏中显示的 Omnivore 图标。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135159dd50xziaozyyr5i5.jpg)
+![](/Asserts/Images/album/202308/17/135159dd50xziaozyyr5i5.jpg)
 
 
 文章将被添加到你的 Omnivore 账户；你还可以利用可用选项来 **添加注释、标签、编辑标题** 等。
@@ -108,19 +108,19 @@ tags:	[linuxcn,稍后阅读]
 它允许我按标签对它们进行排序。我只需要点击我想要访问的那个。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135159riitzeokozunlkot.jpg)
+![](/Asserts/Images/album/202308/17/135159riitzeokozunlkot.jpg)
 
 
 要创建新标签，点击侧边栏菜单中 “<ruby> 标签 <rt>  Labels </rt></ruby>” 旁边的三点菜单，然后进行编辑。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135200uuut2m6c2zcx67ae.jpg)
+![](/Asserts/Images/album/202308/17/135200uuut2m6c2zcx67ae.jpg)
 
 
 接下来，你可以通过添加标签或修改已有的标签来开始，为它们设置一个名称和颜色。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135200dzipufjootn86nin.jpg)
+![](/Asserts/Images/album/202308/17/135200dzipufjootn86nin.jpg)
 
 
 要将它们分配给现有的文章，将鼠标悬停在一个文章卡片上，进入三点菜单，然后选择 “<ruby> 设置标签 <rt>  Set Labels </rt></ruby>”。
@@ -132,13 +132,13 @@ tags:	[linuxcn,稍后阅读]
 第一个选项是设置文章的标签；第二个选项会打开一个笔记本，让你为特定的文章添加注释。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135200frrj5vorx5jgwvs1.jpg)
+![](/Asserts/Images/album/202308/17/135200frrj5vorx5jgwvs1.jpg)
 
 
 然后有 “<ruby> 编辑信息 <rt>  Edit Info </rt></ruby>” 按钮，该按钮会打开一个编辑窗口，用于编辑已保存文章的关键细节。最后，最后两个按钮用于删除或归档已保存的文章。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135201syyt53y5rcaqyyrc.jpg)
+![](/Asserts/Images/album/202308/17/135201syyt53y5rcaqyyrc.jpg)
 
 
 然后，我转而去检查了 **在 Omnivore 上** 的插件支持。它支持几种不同的插件，允许你从各个地方导出内容。
@@ -150,7 +150,7 @@ tags:	[linuxcn,稍后阅读]
 这种互操作性对我来说总是一个加分项！?
 
 
-![](/Asserts/Images//attachment/album/202308/17/135202ij5fcyezlf5pfeac.jpg)
+![](/Asserts/Images/album/202308/17/135202ij5fcyezlf5pfeac.jpg)
 
 
 而这最后一点对我来说是一个惊喜。
@@ -159,7 +159,7 @@ tags:	[linuxcn,稍后阅读]
 Omnivore **支持创建电子邮件别名**，然后可以用该别名注册各种新闻简报。官方支持来自 [Substack](https://substack.com/)、[beehiv](https://www.beehiiv.com/)、[Axios](https://www.axios.com/) 等的新闻简报。
 
 
-![](/Asserts/Images//attachment/album/202308/17/135203z5i6wipyijlal5la.jpg)
+![](/Asserts/Images/album/202308/17/135203z5i6wipyijlal5la.jpg)
 
 
 但是，结果证明，它也适用于其他新闻简报。我在 **[我们的新闻简报](https://itsfoss.com/newsletter/)** 上进行了测试，它集成得很好！

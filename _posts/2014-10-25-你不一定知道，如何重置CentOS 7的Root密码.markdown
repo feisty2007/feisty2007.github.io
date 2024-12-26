@@ -10,31 +10,31 @@ tags:	[linuxcn,密码,口令,CentOS 7]
 重置Centos 7 Root密码的方式和Centos 6完全不同。让我来展示一下到底如何操作。
 
 
-![](/Asserts/Images//attachment/album/201410/07/194634o9bqtl6nlmff6tin.jpg)
+![](/Asserts/Images/album/201410/07/194634o9bqtl6nlmff6tin.jpg)
 
 
 1 - 在启动grub菜单，选择编辑选项启动
 
 
-![](/Asserts/Images//attachment/album/201410/07/000954z7v2dt7uv2z2rl3u.png)
+![](/Asserts/Images/album/201410/07/000954z7v2dt7uv2z2rl3u.png)
 
 
 2 - 按键盘e键，来进入编辑界面
 
 
-![](/Asserts/Images//attachment/album/201410/07/000955zaja8raka0aq9frd.png)
+![](/Asserts/Images/album/201410/07/000955zaja8raka0aq9frd.png)
 
 
 3 - 找到Linux 16的那一行，将ro改为rw init=/sysroot/bin/sh
 
 
-![](/Asserts/Images//attachment/album/201410/07/000956xg4lbr57dl5gilbg.png)
+![](/Asserts/Images/album/201410/07/000956xg4lbr57dl5gilbg.png)
 
 
 4 - 现在按下 Control+x ，使用单用户模式启动
 
 
-![](/Asserts/Images//attachment/album/201410/07/000958hlbg5o7ss76595js.png)
+![](/Asserts/Images/album/201410/07/000958hlbg5o7ss76595js.png)
 
 
 5 - 现在，可以使用下面的命令访问系统

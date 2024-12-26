@@ -7,7 +7,7 @@ tags:	[linuxcn,Fish Shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/25/183053z4974f7g0077az6i.jpg)
+![](/Asserts/Images/album/202312/25/183053z4974f7g0077az6i.jpg)
 
 
 
@@ -42,7 +42,7 @@ Fish 提供了一系列吸引人的功能，使其具有鲜明优势。这其中
 命令有误？你会发现其被红色高亮。同样的，对于不符合上下文的参数和选项也是如此。
 
 
-![错误高亮为红色](/Asserts/Images//attachment/album/202312/25/183128t2lgdyxgmxh5yj2z.png)
+![错误高亮为红色](/Asserts/Images/album/202312/25/183128t2lgdyxgmxh5yj2z.png)
 
 
 ### 2、自动建议
@@ -51,7 +51,7 @@ Fish 提供了一系列吸引人的功能，使其具有鲜明优势。这其中
 当你输入命令时，Fish Shell 会自动推荐命令，然后你可以按照提示，使用 `Tab` 键进行相应的补全操作。
 
 
-![Fish 自动补全](/Asserts/Images//attachment/album/202312/25/183128lqsutakwdxvwdast.svg)
+![Fish 自动补全](/Asserts/Images/album/202312/25/183128lqsutakwdxvwdast.svg)
 
 
 随着你的输入，建议会以灰色显示，使其更易于识别。如果整条建议都对你的胃口，你可以**按右箭头键来完成整个命令的补全**。
@@ -75,13 +75,13 @@ fish_update_completions
 这会对手册页进行解析。
 
 
-![手册页解析](/Asserts/Images//attachment/album/202312/25/183128kddbib2hi2zhweio.png)
+![手册页解析](/Asserts/Images/album/202312/25/183128kddbib2hi2zhweio.png)
 
 
 现在，如果你输入一个命令，添加连字符作为选项，然后按下 `Tab` 键，就能看到手册页给出的可能选项及其简短描述：
 
 
-![Fish 手册页帮助](/Asserts/Images//attachment/album/202312/25/183129zvhv5e18dqgoq1qr.svg)
+![Fish 手册页帮助](/Asserts/Images/album/202312/25/183129zvhv5e18dqgoq1qr.svg)
 
 
 你可以通过滚动一览这些选项，并在阅读了作用说明后，从弹出的分页器中进行选择。
@@ -108,7 +108,7 @@ abbr -a sch pacman -Ss
 于是，每次我输入 `sch` 并按空格键后，它就会被替换成 `pacman -Ss`。
 
 
-![Fish Shell 缩写](/Asserts/Images//attachment/album/202312/25/183129utofioae4ifkpjte.svg)
+![Fish Shell 缩写](/Asserts/Images/album/202312/25/183129utofioae4ifkpjte.svg)
 
 
 你甚至可以把它写入配置文件，让其成为永久设置。
@@ -143,7 +143,7 @@ help
 就可以在你的网络浏览器上打开帮助页面了。
 
 
-![Fish Shell 网页帮助](/Asserts/Images//attachment/album/202312/25/183130n9g2n01um9rnac98.png)
+![Fish Shell 网页帮助](/Asserts/Images/album/202312/25/183130n9g2n01um9rnac98.png)
 
 
 如今，你可以随时方便地查阅这份详细的文档。
@@ -170,13 +170,13 @@ fish_config
 这会打开你的浏览器，并显示出配置设置。
 
 
-![Fish Shell 基于 Web 的配置](/Asserts/Images//attachment/album/202312/25/183131b584564t84b00asb.png)
+![Fish Shell 基于 Web 的配置](/Asserts/Images/album/202312/25/183131b584564t84b00asb.png)
 
 
 在这里，你可以更改颜色，从现有列表中选择一个不同的提示符等等。
 
 
-![提示符选择](/Asserts/Images//attachment/album/202312/25/183131kw2wer2r37kw7mmf.png)
+![提示符选择](/Asserts/Images/album/202312/25/183131kw2wer2r37kw7mmf.png)
 
 
 通过这种方式来改变配置更方便，对吗？
@@ -191,7 +191,7 @@ fish_config
 例如，如果你位于主目录，并希望切换到 `Downloads` 目录，只需要输入 `Downloads`。输入过程中，它会进一步给出补全建议。
 
 
-![自动 cd](/Asserts/Images//attachment/album/202312/25/183132c7wzz0bgrgjr0idq.svg)
+![自动 cd](/Asserts/Images/album/202312/25/183132c7wzz0bgrgjr0idq.svg)
 
 
 如果你正在某个特定目录中，想要跳转到一个完全不同的路径，则需要使用绝对路径。
@@ -203,13 +203,13 @@ fish_config
 如果你需要在浏览过的目录之间来回切换，没必要输入路径或使用 `cd ..` 等。只要**按 `ALT + ←` 或 `ALT + →`，分别向前和向后移动**就行了。
 
 
-![目录导航](/Asserts/Images//attachment/album/202312/25/183132deb49pp9qya8v9yy.svg)
+![目录导航](/Asserts/Images/album/202312/25/183132deb49pp9qya8v9yy.svg)
 
 
 或者，你可以键入 `cdh` 并按回车，这会呼出一个分页器界面，你可以使用对应的数字来回到你想去的目录。
 
 
-![使用分页器导航](/Asserts/Images//attachment/album/202312/25/183132m1xxx1zeix14111l.svg)
+![使用分页器导航](/Asserts/Images/album/202312/25/183132m1xxx1zeix14111l.svg)
 
 
 ### 9、交互式历史搜索
@@ -221,7 +221,7 @@ fish_config
 这会呼出一个类似于分页器的界面，显示一个搜索提示。输入你想要查找的命令，就能看到搜索结果：
 
 
-![交互式历史搜索](/Asserts/Images//attachment/album/202312/25/183132b8zhhg866h4hhz9t.svg)
+![交互式历史搜索](/Asserts/Images/album/202312/25/183132b8zhhg866h4hhz9t.svg)
 
 
 ### 10、全局变量
@@ -260,7 +260,7 @@ fish -P
 
 ```
 
-![Fish 隐私模式](/Asserts/Images//attachment/album/202312/25/183133j9oe96njtdao9dek.svg)
+![Fish 隐私模式](/Asserts/Images/album/202312/25/183133j9oe96njtdao9dek.svg)
 
 
 工作完成后，通过键入 `exit` 就可以退出隐私模式。

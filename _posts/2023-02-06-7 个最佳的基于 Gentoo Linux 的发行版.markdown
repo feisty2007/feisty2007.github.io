@@ -7,7 +7,7 @@ tags:	[linuxcn,Gentoo]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/08/170807alkcjhljv6veev4h.jpg)
+![](/Asserts/Images/album/202302/08/170807alkcjhljv6veev4h.jpg)
 
 
 
@@ -44,7 +44,7 @@ Gentoo Linux 以其软件包管理器 [Portage](https://wiki.gentoo.org/wiki/Por
 ### 1、Calculate Linux
 
 
-![](/Asserts/Images//attachment/album/202302/08/170824bkooje5wm56f6wim.jpg)
+![](/Asserts/Images/album/202302/08/170824bkooje5wm56f6wim.jpg)
 
 
 [Calculate Linux](https://www.calculate-linux.org) 专注于提供**即开即用、用户友好的体验**。
@@ -59,7 +59,7 @@ Gentoo Linux 以其软件包管理器 [Portage](https://wiki.gentoo.org/wiki/Por
 ### 2、CLIP OS
 
 
-![](/Asserts/Images//attachment/album/202302/08/170824d0002j2ouo4vzdx7.jpg)
+![](/Asserts/Images/album/202302/08/170824d0002j2ouo4vzdx7.jpg)
 
 
 [CLIP OS](https://clip-os.org/en/) 是一个值得关注的基于 Gentoo 的发行版，旨在提供由法国国家网络安全局（ANSSI）建立的安全体验。
@@ -77,7 +77,7 @@ Gentoo Linux 以其软件包管理器 [Portage](https://wiki.gentoo.org/wiki/Por
 ### 3、Funtoo
 
 
-![Funtoo linux livecd](/Asserts/Images//attachment/album/202302/08/170824zgwdqjqgiwxq9kg3.jpg)
+![Funtoo linux livecd](/Asserts/Images/album/202302/08/170824zgwdqjqgiwxq9kg3.jpg)
 
 
 [Funtoo](https://www.funtoo.org/) 是一个基于 Gentoo 的发行版，由 Gentoo Linux 的创造者（前负责人）开发。
@@ -95,7 +95,7 @@ Gentoo Linux 以其软件包管理器 [Portage](https://wiki.gentoo.org/wiki/Por
 ### 4、LiGurOS
 
 
-![ligur os install image building screenshot](/Asserts/Images//attachment/album/202302/08/170824i0qppnoqd6jbxhjl.png)
+![ligur os install image building screenshot](/Asserts/Images/album/202302/08/170824i0qppnoqd6jbxhjl.png)
 
 
 [LiGurOS](https://liguros.gitlab.io) 是 Gentoo 系列操作系统中的又一个选择。它的目的是提供一个**快速而安全的体验**，同时确保 AMD 和英特尔处理器的最新功能能够很好地工作。
@@ -110,7 +110,7 @@ Gentoo Linux 以其软件包管理器 [Portage](https://wiki.gentoo.org/wiki/Por
 ### 5、Pentoo
 
 
-![](/Asserts/Images//attachment/album/202302/08/170824h0na0w1133xe361w.jpg)
+![](/Asserts/Images/album/202302/08/170824h0na0w1133xe361w.jpg)
 
 
 [Pentoo Linux](https://www.pentoo.ch) 是 [用于渗透测试的最佳 Linux 发行版](https://itsfoss.com/linux-hacking-penetration-testing/) 之一。
@@ -122,7 +122,7 @@ Gentoo Linux 以其软件包管理器 [Portage](https://wiki.gentoo.org/wiki/Por
 ### 6、Redcore Linux
 
 
-![record linux screenshot](/Asserts/Images//attachment/album/202302/08/170824ge98aeeeut26hzht.jpg)
+![record linux screenshot](/Asserts/Images/album/202302/08/170824ge98aeeeut26hzht.jpg)
 
 
 [Redcore Linux](https://redcorelinux.org/#hero) 是一个**基于 Gentoo Linux 测试分支**的发行版，有一个加固后的配置文件以获得更好的安全性。
@@ -137,7 +137,7 @@ Gentoo Linux 以其软件包管理器 [Portage](https://wiki.gentoo.org/wiki/Por
 ### 7、Gentoo Studio
 
 
-![gentoo studio screenshot](/Asserts/Images//attachment/album/202302/08/170825v1ibj66bdnog222i.jpg)
+![gentoo studio screenshot](/Asserts/Images/album/202302/08/170825v1ibj66bdnog222i.jpg)
 
 
 [Gentoo Studio](https://gentoostudio.org) 是一个为**实时 Linux 音频制作系统**量身定做的基于 Gentoo Linux 的产品。

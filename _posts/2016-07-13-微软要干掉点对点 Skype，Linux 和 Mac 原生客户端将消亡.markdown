@@ -16,7 +16,7 @@ tags:	[linuxcn,Skype]
 微软并没有向 Mac 和 Linux 用户宣布原生客户端终结的日期，你现在仍然可以下载到这些应用。但是很显然，微软将不会再为这些臃肿的 OS X 和 Linux 原生客户端投入更多金钱和精力。
 
 
-![](/Asserts/Images//attachment/album/201607/23/120820rho361o93b3csssz.jpg)
+![](/Asserts/Images/album/201607/23/120820rho361o93b3csssz.jpg)
 
 
 在 Skype 博客上的[一篇博文](http://blogs.skype.com/2016/07/20/skype-the-journey-weve-been-on/)中，微软提到了它将更关注于“核心平台”，换言之，就是“更新的发布、更轻、更快的在 Windows 10、iPhone、iPad 和 Android 下的应用。”Linux、OS X 下的客户端 （以及旧式 Windows 版本）最终将会被“基于 Web 的原生版本 Skype ”所取代，“得益于最新的 ORTC / WebRTC 技术”，它会运行在浏览器里。

@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS,缓存,BIND,dnsmasq]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/07/224629rpjizuxq1iid8l66.png)
+![](/Asserts/Images/album/201407/07/224629rpjizuxq1iid8l66.png)
 
 
 我在Linux下使用拨号连接上网，频繁的拨号断线造成DNS的问题。我如何在Linux/Unix发行版下使用shell命令清除DNS缓存？

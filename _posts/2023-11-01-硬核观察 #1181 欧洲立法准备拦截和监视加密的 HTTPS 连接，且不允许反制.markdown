@@ -7,10 +7,10 @@ tags:	[linuxcn,HTTPS,MacBook,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/10/151935k7zpexyl0xeoxale.jpg)
+![](/Asserts/Images/album/202311/10/151935k7zpexyl0xeoxale.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/10/151945j3xc08xhnpnh4c3n.png)
+![](/Asserts/Images/album/202311/10/151945j3xc08xhnpnh4c3n.png)
 
 
 ### 欧洲立法准备拦截和监视加密的 HTTPS 连接，且不允许反制
@@ -35,7 +35,7 @@ tags:	[linuxcn,HTTPS,MacBook,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/10/152009hxxaplxlnxdoxltx.png)
+![](/Asserts/Images/album/202311/10/152009hxxaplxlnxdoxltx.png)
 
 
 ### 苹果称 MacBook Pro 上 的 8GB 内存相当于 PC 的 16 GB 内存
@@ -60,7 +60,7 @@ tags:	[linuxcn,HTTPS,MacBook,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/10/152025d88rtxllltr8tzb0.png)
+![](/Asserts/Images/album/202311/10/152025d88rtxllltr8tzb0.png)
 
 
 ### 为了帮你选购更好的产品，Mozilla 推出首个 AI 大模型

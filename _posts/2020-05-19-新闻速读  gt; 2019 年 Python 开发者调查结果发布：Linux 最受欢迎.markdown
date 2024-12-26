@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,Go]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/09/110350a2jlteslml5fsehb.jpg)
+![](/Asserts/Images/album/202005/09/110350a2jlteslml5fsehb.jpg)
 
 
 #### 2019 年 Python 开发者调查结果发布：Linux 最受欢迎

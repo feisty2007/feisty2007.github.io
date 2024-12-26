@@ -15,7 +15,7 @@ tags:	[linuxcn,Kali,ISO]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/17/112659ma1wmdw119zbear4.jpg)
+![](/Asserts/Images/album/202202/17/112659ma1wmdw119zbear4.jpg)
 
 
 2022 年的第一个 Kali Linux 版本来了。
@@ -39,7 +39,7 @@ Kali Linux 在 2021 年做了许多改进，包括 Linux 内核升级、新的�
 #### 主题更新
 
 
-![](/Asserts/Images//attachment/album/202202/17/112659xs2vdo3296cdxjmf.jpg)
+![](/Asserts/Images/album/202202/17/112659xs2vdo3296cdxjmf.jpg)
 
 
 随着最新的升级，你可以看到一些新的桌面、登录和启动屏幕的壁纸。
@@ -51,13 +51,13 @@ Kali Linux 在 2021 年做了许多改进，包括 Linux 内核升级、新的�
 总的来说，通过主题更新、新壁纸和细微的布局变化，你可以期待从 UEFI/BIOS 启动菜单到桌面的统一用户体验。
 
 
-![](/Asserts/Images//attachment/album/202202/17/112700s6642o2zo0tujzui.jpg)
+![](/Asserts/Images/album/202202/17/112700s6642o2zo0tujzui.jpg)
 
 
 浏览器的登录页面也有了视觉上的更新，让你可以访问 Kali 文档和工具，以及通常的搜索功能。
 
 
-![](/Asserts/Images//attachment/album/202202/17/112701uhde5vaxve524888.jpg)
+![](/Asserts/Images/album/202202/17/112701uhde5vaxve524888.jpg)
 
 
 #### 新的 “全都有” ISO

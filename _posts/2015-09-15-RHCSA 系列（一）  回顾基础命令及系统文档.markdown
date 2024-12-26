@@ -10,7 +10,7 @@ tags:	[linuxcn,RHEL,RHCSA]
 RHCSA (红帽认证系统工程师) 是由 RedHat 公司举行的认证考试，这家公司给商业公司提供开源操作系统和软件，除此之外，还为这些企业和机构提供支持、训练以及咨询服务等。
 
 
-![RHCSA Exam Guide](/Asserts/Images//attachment/album/201509/02/124011a8v89dd3ex36mqgs.png)
+![RHCSA Exam Guide](/Asserts/Images/album/201509/02/124011a8v89dd3ex36mqgs.png)
 
 
 *RHCSA 考试准备指南*
@@ -57,7 +57,7 @@ RHCSA 考试(考试编号 EX200)通过后可以获取由 RedHat 公司颁发的�
 在第一章，我们讲解如何在终端或者 Shell 窗口输入和运行正确的命令，并且讲解如何找到、查阅，以及使用系统文档。
 
 
-![RHCSA: Reviewing Essential Linux Commands – Part 1](/Asserts/Images//attachment/album/201509/02/124014ftn7lvzn6f4n7l4m.png)
+![RHCSA: Reviewing Essential Linux Commands – Part 1](/Asserts/Images/album/201509/02/124014ftn7lvzn6f4n7l4m.png)
 
 
 *RHCSA：回顾必会的 Linux 命令 - 第一部分*
@@ -106,7 +106,7 @@ RHCSA 考试(考试编号 EX200)通过后可以获取由 RedHat 公司颁发的�
 type 命令可以帮助我们识别某一个特定的命令是由 shell 内置的还是由一个单独的包提供的。这样的区别在于我们能够在哪里找到更多关于该命令的更多信息。对 shell 内置的命令，我们需要看 shell 的手册页；如果是其他的，我们需要看软件包自己的手册页。
 
 
-![Check Shell built in Commands](/Asserts/Images//attachment/album/201509/02/124015gxidtswsqlzd3l3t.png)
+![Check Shell built in Commands](/Asserts/Images/album/201509/02/124015gxidtswsqlzd3l3t.png)
 
 
 *检查Shell的内置命令*
@@ -122,7 +122,7 @@ type 命令可以帮助我们识别某一个特定的命令是由 shell 内置�
 * [pwd 命令](/article-3422-1.html): 输出当前的工作目录
 
 
-![More Built in Shell Commands](/Asserts/Images//attachment/album/201509/02/124015u7ng7p1k00nz71hn.png)
+![More Built in Shell Commands](/Asserts/Images/album/201509/02/124015u7ng7p1k00nz71hn.png)
 
 
 *其它内置命令*
@@ -168,7 +168,7 @@ type 命令可以帮助我们识别某一个特定的命令是由 shell 内置�
 命令列表会保存在一个叫 `.bash_history` 的文件里。`history` 命令是一个非常有用的用于减少输入次数的工具，特别是进行命令行编辑的时候。默认情况下，bash 保留最后输入的500个命令，不过可以通过修改 HISTSIZE 环境变量来增加:
 
 
-![Linux history Command](/Asserts/Images//attachment/album/201509/02/124016kzp0c1d44qpz2zkn.png)
+![Linux history Command](/Asserts/Images/album/201509/02/124016kzp0c1d44qpz2zkn.png)
 
 
 *Linux history 命令*
@@ -202,7 +202,7 @@ HISTSIZE=1000
 
 ```
 
-![Linux alias Command](/Asserts/Images//attachment/album/201509/02/124016o4dwpw5526patq15.png)
+![Linux alias Command](/Asserts/Images/album/201509/02/124016o4dwpw5526patq15.png)
 
 
 *Linux 别名命令*
@@ -267,7 +267,7 @@ HISTSIZE=1000
 
 ```
 
-![Linux expand Command](/Asserts/Images//attachment/album/201509/02/124016b6kkf2uxzd55uw85.png)
+![Linux expand Command](/Asserts/Images/album/201509/02/124016b6kkf2uxzd55uw85.png)
 
 
 *Linux expand 命令*
@@ -289,7 +289,7 @@ unexpand命令可以实现相反的功能(将空格转为制表符)
 
 ```
 
-![Linux head and tail Command](/Asserts/Images//attachment/album/201509/02/124017p6qzsoqygaxuhqsq.png)
+![Linux head and tail Command](/Asserts/Images/album/201509/02/124017p6qzsoqygaxuhqsq.png)
 
 
 *Linux 的 head 和 tail 命令*
@@ -313,7 +313,7 @@ unexpand命令可以实现相反的功能(将空格转为制表符)
 
 ```
 
-![Merge Files in Linux](/Asserts/Images//attachment/album/201509/02/124017dn3h8rtb822nb134.png)
+![Merge Files in Linux](/Asserts/Images/album/201509/02/124017dn3h8rtb822nb134.png)
 
 
 *Linux 中的 merge 命令*
@@ -331,7 +331,7 @@ unexpand命令可以实现相反的功能(将空格转为制表符)
 
 ```
 
-![Split Files in Linux](/Asserts/Images//attachment/album/201509/02/124018obie3ip8p95zjjfl.png)
+![Split Files in Linux](/Asserts/Images/album/201509/02/124018obie3ip8p95zjjfl.png)
 
 
 *在 Linux 下切割文件*
@@ -362,7 +362,7 @@ cat file2 | tr o O
 cat file2 | tr [a-z] [A-Z]
 ```
 
-![Translate Characters in Linux](/Asserts/Images//attachment/album/201509/02/124018ve3xms3vknuebgfv.png)
+![Translate Characters in Linux](/Asserts/Images/album/201509/02/124018ve3xms3vknuebgfv.png)
 
 
 *在 Linux 中替换字符*
@@ -386,7 +386,7 @@ cat file2 | tr [a-z] [A-Z]
 
 ```
 
-![删除文件中重复的行](/Asserts/Images//attachment/album/201509/02/124019x1eeaaghoowga3l4.png)
+![删除文件中重复的行](/Asserts/Images/album/201509/02/124019x1eeaaghoowga3l4.png)
 
 
 *删除文件中重复的行*
@@ -408,7 +408,7 @@ cat file2 | tr [a-z] [A-Z]
 
 ```
 
-![从文件中提取文本](/Asserts/Images//attachment/album/201509/02/124019qy6tzgtj8zqtziny.png)
+![从文件中提取文本](/Asserts/Images/album/201509/02/124019qy6tzgtj8zqtziny.png)
 
 
 *从文件中提取文本*
@@ -432,7 +432,7 @@ cat file2 | tr [a-z] [A-Z]
 
 ```
 
-![File Reformatting in Linux](/Asserts/Images//attachment/album/201509/02/124020vowjt1ttomtjj2jz.png)
+![File Reformatting in Linux](/Asserts/Images/album/201509/02/124020vowjt1ttomtjj2jz.png)
 
 
 *Linux 文件重新格式化*
@@ -453,7 +453,7 @@ cat file2 | tr [a-z] [A-Z]
 以一个友好的排版方式(3列)输出/etc下的文件，自定义了页眉(通过 -h 选项实现)、行号(-n)。
 
 
-![File Formatting in Linux](/Asserts/Images//attachment/album/201509/02/124021yerg1gq27e1egzo2.png)
+![File Formatting in Linux](/Asserts/Images/album/201509/02/124021yerg1gq27e1egzo2.png)
 
 
 *Linux的文件格式化*

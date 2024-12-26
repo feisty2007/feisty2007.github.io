@@ -7,10 +7,10 @@ tags:	[linuxcn,Objective-C,广告拦截器,英伟达]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/23/183924fgaapio4y9ot94yr.jpg)
+![](/Asserts/Images/album/202311/23/183924fgaapio4y9ot94yr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/23/183955g6a61sha0sfg0b0h.png)
+![](/Asserts/Images/album/202311/23/183955g6a61sha0sfg0b0h.png)
 
 
 ### #1 苹果公司的 Objective-C 似乎已经落幕？
@@ -35,7 +35,7 @@ JetBrains 发布了年度《开发者生态系统状况》报告，其中称苹�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/23/184014sjsjk9gqy9l1nj55.png)
+![](/Asserts/Images/album/202311/23/184014sjsjk9gqy9l1nj55.png)
 
 
 ### #2 谷歌对使用了广告拦截器的浏览器延迟加载 YouTube 视频
@@ -60,7 +60,7 @@ JetBrains 发布了年度《开发者生态系统状况》报告，其中称苹�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/23/184045y8dcb64h80b2d999.png)
+![](/Asserts/Images/album/202311/23/184045y8dcb64h80b2d999.png)
 
 
 ### #3 英伟达第三财季营收增长三倍

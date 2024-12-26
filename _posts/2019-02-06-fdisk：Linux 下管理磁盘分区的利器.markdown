@@ -7,7 +7,7 @@ tags:	[linuxcn,分区,硬盘,fdisk]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/04/180541pqhz7fmows9rphtc.jpg)
+![](/Asserts/Images/album/201902/04/180541pqhz7fmows9rphtc.jpg)
 
 
 一块硬盘可以被划分成一个或多个逻辑磁盘，我们将其称作分区。我们对硬盘进行的划分信息被储存于建立在扇区 0 的分区表（MBR 或 GPT）中。
@@ -51,7 +51,7 @@ Linux 需要至少一个分区来当作根文件系统，所以我们不能在�
 `fdisk` 允许我们在每块硬盘上创建最多四个主分区。它们中的其中一个可以作为扩展分区，并下设多个逻辑分区。1-4 扇区作为主分区被保留，逻辑分区从扇区 5 开始。
 
 
-![](/Asserts/Images//attachment/album/201902/04/180655pj1kd1y157j7jky5.png)
+![](/Asserts/Images/album/201902/04/180655pj1kd1y157j7jky5.png)
 
 
 ### 如何在 Linux 下安装 fdisk？

@@ -7,7 +7,7 @@ tags:	[linuxcn,CentOS 7,RHEL 7]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/27/151948jz881a61rj66up58.png)
+![](/Asserts/Images/album/201504/27/151948jz881a61rj66up58.png)
 
 
 ### 12. 安装 Apache Tomcat
@@ -22,7 +22,7 @@ Tomcat 是由 Apache 设计的用来运行 Java HTTP web 服务器的 servlet �
 
 ```
 
-![安装 Apache Tomcat](/Asserts/Images//attachment/album/201504/28/210634gbaidi24e2zctcee.jpg)
+![安装 Apache Tomcat](/Asserts/Images/album/201504/28/210634gbaidi24e2zctcee.jpg)
 
 
 *安装 Apache Tomcat*
@@ -46,7 +46,7 @@ Tomcat 是由 Apache 设计的用来运行 Java HTTP web 服务器的 servlet �
 
 ```
 
-![查看 tomcat 版本](/Asserts/Images//attachment/album/201504/28/210635ojtqbbw8lr4qgqu4.jpg)
+![查看 tomcat 版本](/Asserts/Images/album/201504/28/210635ojtqbbw8lr4qgqu4.jpg)
 
 
 *查看 tomcat 版本*
@@ -83,7 +83,7 @@ Tomcat 是由 Apache 设计的用来运行 Java HTTP web 服务器的 servlet �
 
 ```
 
-![保护 Tomcat](/Asserts/Images//attachment/album/201504/28/210637utcxicmabiiie7jj.jpg)
+![保护 Tomcat](/Asserts/Images/album/201504/28/210637utcxicmabiiie7jj.jpg)
 
 
 *保护 Tomcat*
@@ -115,7 +115,7 @@ Nmap 网络映射器用来分析网络，通过运行它可以发现网络的映
 
 ```
 
-![安装 Nmap 监视工具](/Asserts/Images//attachment/album/201504/28/210640x5c1k5xk5rsosev2.jpg)
+![安装 Nmap 监视工具](/Asserts/Images/album/201504/28/210640x5c1k5xk5rsosev2.jpg)
 
 
 *安装 Nmap 监视工具*
@@ -145,7 +145,7 @@ Nmap 网络映射器用来分析网络，通过运行它可以发现网络的映
 
 ```
 
-![在防火墙中检查开放端口](/Asserts/Images//attachment/album/201504/28/210640jbgqeysretwtsc86.jpg)
+![在防火墙中检查开放端口](/Asserts/Images/album/201504/28/210640jbgqeysretwtsc86.jpg)
 
 
 *在防火墙中检查开放端口*
@@ -174,7 +174,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![检查 Firewalld 状态](/Asserts/Images//attachment/album/201504/28/210642o0l0y8ad8nqpnp1w.jpg)
+![检查 Firewalld 状态](/Asserts/Images/album/201504/28/210642o0l0y8ad8nqpnp1w.jpg)
 
 
 *检查 Firewalld 状态*
@@ -189,7 +189,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![检查 Firewalld 区域](/Asserts/Images//attachment/album/201504/28/210643q5p3vuwxq5tqvqwy.jpg)
+![检查 Firewalld 区域](/Asserts/Images/album/201504/28/210643q5p3vuwxq5tqvqwy.jpg)
 
 
 *检查 Firewalld 区域*
@@ -204,7 +204,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![检查区域详情](/Asserts/Images//attachment/album/201504/28/210643jc1h5hmqr0gdhxqx.jpg)
+![检查区域详情](/Asserts/Images/album/201504/28/210643jc1h5hmqr0gdhxqx.jpg)
 
 
 *检查区域详情*
@@ -219,7 +219,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![Firewalld 默认区域](/Asserts/Images//attachment/album/201504/28/210644asrtt4u0nsd44tsy.jpg)
+![Firewalld 默认区域](/Asserts/Images/album/201504/28/210644asrtt4u0nsd44tsy.jpg)
 
 
 *Firewalld 默认区域*
@@ -234,7 +234,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![切换 Firewalld 区域](/Asserts/Images//attachment/album/201504/28/210644bvlvqi8ivp3j2ayu.jpg)
+![切换 Firewalld 区域](/Asserts/Images/album/201504/28/210644bvlvqi8ivp3j2ayu.jpg)
 
 
 *切换 Firewalld 区域*
@@ -249,7 +249,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![列出 Firewalld 区域的服务](/Asserts/Images//attachment/album/201504/28/210645onkyzsntakkkgpyq.jpg)
+![列出 Firewalld 区域的服务](/Asserts/Images/album/201504/28/210645onkyzsntakkkgpyq.jpg)
 
 
 *列出 Firewalld 区域的服务*
@@ -265,7 +265,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![添加临时 http 服务](/Asserts/Images//attachment/album/201504/28/210648bhwhhzr33m6qls4a.jpg)
+![添加临时 http 服务](/Asserts/Images/album/201504/28/210648bhwhhzr33m6qls4a.jpg)
 
 
 *添加临时 http 服务*
@@ -283,7 +283,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
  
 
 
-![添加永久 http 服务](/Asserts/Images//attachment/album/201504/28/210648bhwhhzr33m6qls4a.jpg)
+![添加永久 http 服务](/Asserts/Images/album/201504/28/210648bhwhhzr33m6qls4a.jpg)
 
 
 *添加永久 http 服务*
@@ -299,7 +299,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![删除临时 Firewalld 服务](/Asserts/Images//attachment/album/201504/28/210648rpczhpt2h5ggc8c8.jpg)
+![删除临时 Firewalld 服务](/Asserts/Images/album/201504/28/210648rpczhpt2h5ggc8c8.jpg)
 
 
 *删除临时 Firewalld 服务*
@@ -315,7 +315,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![删除永久服务](/Asserts/Images//attachment/album/201504/28/210649nizhfelajep8vq9p.jpg)
+![删除永久服务](/Asserts/Images/album/201504/28/210649nizhfelajep8vq9p.jpg)
 
 
 *删除永久服务*
@@ -331,7 +331,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![打开临时 Firewalld 端口](/Asserts/Images//attachment/album/201504/28/210650e5958dc8f8rz5t5f.jpg)
+![打开临时 Firewalld 端口](/Asserts/Images/album/201504/28/210650e5958dc8f8rz5t5f.jpg)
 
 
 *打开临时端口*
@@ -347,7 +347,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![打开永久 Firewalld 端口](/Asserts/Images//attachment/album/201504/28/210651quuctarriqcbdk7k.jpg)
+![打开永久 Firewalld 端口](/Asserts/Images/album/201504/28/210651quuctarriqcbdk7k.jpg)
 
 
 *打开永久端口*
@@ -363,7 +363,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![移除 Firewalld 临时端口](/Asserts/Images//attachment/album/201504/28/210651f8568w675pqz5dff.jpg)
+![移除 Firewalld 临时端口](/Asserts/Images/album/201504/28/210651f8568w675pqz5dff.jpg)
 
 
 *移除临时端口*
@@ -379,7 +379,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![移除 Firewalld 永久端口](/Asserts/Images//attachment/album/201504/28/210652ayw066hrcnw97e66.jpg)
+![移除 Firewalld 永久端口](/Asserts/Images/album/201504/28/210652ayw066hrcnw97e66.jpg)
 
 
 *移除永久端口*
@@ -396,7 +396,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![在 CentOS 7 中停用 Firewalld](/Asserts/Images//attachment/album/201504/28/210653nxsyq2dl1xezv7ox.jpg)
+![在 CentOS 7 中停用 Firewalld](/Asserts/Images/album/201504/28/210653nxsyq2dl1xezv7ox.jpg)
 
 
 *停用 Firewalld 服务*
@@ -413,7 +413,7 @@ firewalld 是动态管理服务器的防火墙服务。在 CentOS 7 中 Firewall
 
 ```
 
-![在 CentOS 7 中取消 Firewalld](/Asserts/Images//attachment/album/201504/28/210655zg0f4x4ib0xsij0u.jpg)
+![在 CentOS 7 中取消 Firewalld](/Asserts/Images/album/201504/28/210655zg0f4x4ib0xsij0u.jpg)
 
 
 *启用 Firewalld*
@@ -435,7 +435,7 @@ Wget 是从 web 服务器获取(下载)内容的命令行工具。它是你使�
 
 ```
 
-![安装 Wget 工具](/Asserts/Images//attachment/album/201504/28/210656rpt5aul17635z4uu.png)
+![安装 Wget 工具](/Asserts/Images/album/201504/28/210656rpt5aul17635z4uu.png)
 
 
 *安装 Wget 工具*
@@ -460,7 +460,7 @@ Telnet 对于检查远程计算机或主机的监听端口也非常有用。
 
 ```
 
-![Telnet 端口检查](/Asserts/Images//attachment/album/201504/28/210656it715tcmwkkwos4w.png)
+![Telnet 端口检查](/Asserts/Images/album/201504/28/210656it715tcmwkkwos4w.png)
 
 
 *Telnet 端口检查*

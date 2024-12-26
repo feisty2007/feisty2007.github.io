@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Docker]
 ---
 
 
-![docker](/Asserts/Images//attachment/album/201710/20/222828ouudmzdmouzrfmyd.jpg)
+![docker](/Asserts/Images/album/201710/20/222828ouudmzdmouzrfmyd.jpg)
 
 
 在[之前的文章](/article-8932-1.html)中我们提到可以通过容器创建一个我们自定义过的镜像，那么我们是否可以直接通过基础的镜像直接自定义镜像呢？答案当然是可以的，在 Docker 中我们可以从名为 `Dockerfile` 的文件中读取指令并且自动构建镜像。在本文中，将介绍 Dockerfile 的基本语法以及基本知识。
@@ -281,7 +281,7 @@ CMD ["-c"]
 
 
 ```
-VOLUME ["/Asserts/Images/1","/Asserts/Images/2"]
+VOLUME ["/data1","/data2"]
 
 ```
 

@@ -10,7 +10,7 @@ tags:	[linuxcn,漫画,SQL Server]
 ### Linux 版 SQL Server （一）
 
 
-![sql-server-on-linux](/Asserts/Images//attachment/album/201704/05/091930x5e55tkb6t4ft552.png)
+![sql-server-on-linux](/Asserts/Images/album/201704/05/091930x5e55tkb6t4ft552.png)
 
 
 在 Linux 内核之中，大家正在静静的等待进程的创建。每个创建的进程会被分配一个进程 ID （PID）。
@@ -28,7 +28,7 @@ tags:	[linuxcn,漫画,SQL Server]
 ### Linux 版 SQL Server （二）
 
 
-![](/Asserts/Images//attachment/album/201704/05/212828jat0psf0xeodotn6.png)
+![](/Asserts/Images/album/201704/05/212828jat0psf0xeodotn6.png)
 
 
 Clark，嗯，就是那个贪婪的 Linux 版的 SQL Server，它要把 Linux 服务器撑破了，内核已经陷入崩溃了，急切需要重启。

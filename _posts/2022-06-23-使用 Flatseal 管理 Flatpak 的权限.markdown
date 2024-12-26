@@ -7,7 +7,7 @@ tags:	[linuxcn,Flatpak,权限]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/20/151550qkrkpjw4f9dpjo50.jpg)
+![](/Asserts/Images/album/202206/20/151550qkrkpjw4f9dpjo50.jpg)
 
 
 
@@ -51,7 +51,7 @@ Flatseal 是一个 Flatpak 应用，它为你提供了一个友好的用户界�
 它是一个优秀的小程序，每个应用的每个权限部分都有一个易于使用的切换按钮。下面是它的外观（图 1）。
 
 
-![Figure 1 – Flatseal App](/Asserts/Images//attachment/album/202206/20/151558ihellwwjzeibeqbe.jpg)
+![Figure 1 – Flatseal App](/Asserts/Images/album/202206/20/151558ihellwwjzeibeqbe.jpg)
 
 
 ### 你如何使用 Flatseal 来管理 Flatpak 的权限？
@@ -69,7 +69,7 @@ Flatseal 是一个 Flatpak 应用，它为你提供了一个友好的用户界�
 其次，如果你想设置一个适用于你系统中所有 Flatpak 的全局控制，你可以在左上方选择“所有应用”并应用全局设置（图 2）。
 
 
-![Figure 2: Manage Flatpak Permission using Flatseal](/Asserts/Images//attachment/album/202206/20/151559zz5avgkgvm6yf53y.jpg)
+![Figure 2: Manage Flatpak Permission using Flatseal](/Asserts/Images/album/202206/20/151559zz5avgkgvm6yf53y.jpg)
 
 
 这真是超级简单。不是吗？
@@ -84,13 +84,13 @@ Flatseal 是一个 Flatpak 应用，它为你提供了一个友好的用户界�
 在我的系统中，我安装了上述 Flatpak（图 2）。让我们挑选 Telegram 桌面应用。目前，Telegram 桌面没有访问任何主目录或用户文件的权限（图 3）。
 
 
-![Figure 3: Telegram Desktop Flatpak App does not have permission to the home folders](/Asserts/Images//attachment/album/202206/20/151559vlxfftigltollo7e.jpg)
+![Figure 3: Telegram Desktop Flatpak App does not have permission to the home folders](/Asserts/Images/album/202206/20/151559vlxfftigltollo7e.jpg)
 
 
 现在，如果我想允许所有的用户文件和某个特定的文件夹（例如：`/home/Downloads`），你可以通过打开启用开关来给予它。请看下面的图 4。
 
 
-![Figure 4: Permission changed of Telegram Desktop to give access to folders](/Asserts/Images//attachment/album/202206/20/151559jsugouexal03rs3p.jpg)
+![Figure 4: Permission changed of Telegram Desktop to give access to folders](/Asserts/Images/album/202206/20/151559jsugouexal03rs3p.jpg)
 
 
 同样地，你可以启用或禁用你想要的权限。在内部，Flatseal 执行内部的 Flatpak 命令来实现这一点。

@@ -7,7 +7,7 @@ tags:	[linuxcn,termsaver,pv,calendar]
 ---
 
 
-![unknown Linux commands](/Asserts/Images//attachment/album/201712/15/115543pk3buly2bie2k4qe.jpg "unknown Linux commands")
+![unknown Linux commands](/Asserts/Images/album/201712/15/115543pk3buly2bie2k4qe.jpg "unknown Linux commands")
 
 
 
@@ -50,7 +50,7 @@ tags:	[linuxcn,termsaver,pv,calendar]
 
 ```
 
-![Linux commands](/Asserts/Images//attachment/album/201712/15/115543p0m0t7zhmukkht7m.png "Linux commands")
+![Linux commands](/Asserts/Images/album/201712/15/115543p0m0t7zhmukkht7m.png "Linux commands")
 
 
 *图片 1： 星球大战屏保。*
@@ -108,7 +108,7 @@ $ pv -d  3095
   78:/home/carla/.config/chromium/Default/Visited Links:  
   256KiB 0:00:33 [   0 B/s] [<=>                                                      ] 
   ] 
-  85:/home/carla/.con...romium/Default/Asserts/Images/_reduction_proxy_leveldb/LOG:  
+  85:/home/carla/.con...romium/Default/data_reduction_proxy_leveldb/LOG:  
   298 B 0:00:33 [   0 B/s] [<=>                                       ] 
 
 ```

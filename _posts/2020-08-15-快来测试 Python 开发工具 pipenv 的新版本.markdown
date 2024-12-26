@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,pipenv]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/22/104612gfgllhf85mahvm3j.jpg)
+![](/Asserts/Images/album/202008/22/104612gfgllhf85mahvm3j.jpg)
 
 
 [pipenv](https://github.com/pypa/pipenv) 是一个可帮助 Python 开发人员维护具有特定一组依赖关系的隔离虚拟环境，以实现可重新复制的开发和部署环境的工具。它类似于其他编程语言中的工具如 bundler、composer、npm、cargo、yarn 等。

@@ -7,7 +7,7 @@ tags:	[linuxcn,IP,地址]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/14/230206qro19g5o5koz3473.png)
+![](/Asserts/Images/album/201702/14/230206qro19g5o5koz3473.png)
 
 
 **你本地的 IP 地址：** **192.168.1.100**

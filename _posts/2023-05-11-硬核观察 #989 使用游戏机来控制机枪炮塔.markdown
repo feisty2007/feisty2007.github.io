@@ -7,10 +7,10 @@ tags:	[linuxcn,游戏机,OpenAI,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/02/203251e66pyap5kpi65kgk.jpg)
+![](/Asserts/Images/album/202305/02/203251e66pyap5kpi65kgk.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/02/203259m3u3gguxzbx77tk4.jpg)
+![](/Asserts/Images/album/202305/02/203259m3u3gguxzbx77tk4.jpg)
 
 
 ### 使用游戏机来控制机枪炮塔
@@ -35,7 +35,7 @@ tags:	[linuxcn,游戏机,OpenAI,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/02/203311sxvoq333q8jqggdd.jpg)
+![](/Asserts/Images/album/202305/02/203311sxvoq333q8jqggdd.jpg)
 
 
 ### OpenAI 对利用其 API 的开源项目提起诉讼威胁
@@ -60,7 +60,7 @@ tags:	[linuxcn,游戏机,OpenAI,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/02/203327quzxb22rlbqlo5bx.jpg)
+![](/Asserts/Images/album/202305/02/203327quzxb22rlbqlo5bx.jpg)
 
 
 ### AI 教父离开谷歌并警告未来的危险

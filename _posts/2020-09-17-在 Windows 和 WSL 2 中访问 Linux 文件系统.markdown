@@ -7,7 +7,7 @@ tags:	[linuxcn,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/12/194308wlkz488xi6elixvk.jpg)
+![](/Asserts/Images/album/202009/12/194308wlkz488xi6elixvk.jpg)
 
 
 从 [Windows Insiders 预览版 20211](https://blogs.windows.com/windows-insider/2020/09/10/announcing-windows-10-insider-preview-build-20211/) 开始，WSL 2 将提供一个新功能：`wsl --mount`。这个新的参数允许在 WSL 2 中连接和挂载一个物理磁盘，这样你就可以访问 Windows 不支持的文件系统（比如 ext4）。
@@ -46,7 +46,7 @@ wsl --unmount <Diskpath>
 磁盘路径可在 `DeviceID` 栏中找到。通常是以 `\\.\\.\PHYSICALDRIVE*` 的格式。下面是一个将指定硬盘的特定分区挂载到 WSL 中并浏览其文件的例子：
 
 
-![](/Asserts/Images//attachment/album/202009/12/194410cqnggacsgq3v6cd2.png)
+![](/Asserts/Images/album/202009/12/194410cqnggacsgq3v6cd2.png)
 
 
 ### 使用文件资源管理器访问这些文件
@@ -55,7 +55,7 @@ wsl --unmount <Diskpath>
 一旦挂载，也可以通过 Windows 资源管理器访问这些磁盘，通过导航到 `\wsl$`，然后到挂载文件夹。
 
 
-![](/Asserts/Images//attachment/album/202009/12/194411ysaq2ee33o779jac.png)
+![](/Asserts/Images/album/202009/12/194411ysaq2ee33o779jac.png)
 
 
 ### 局限性

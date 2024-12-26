@@ -7,7 +7,7 @@ tags:	[linuxcn,Seafile,文件共享]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/13/141808f7fo7444ozv75z5s.jpg)
+![](/Asserts/Images/album/202204/13/141808f7fo7444ozv75z5s.jpg)
 
 
 首先，什么是 Seafile ？
@@ -131,7 +131,7 @@ sudo certbot
 现在可以来确认我们目前设置的一切都是否正常工作。如果你访问你的站点，你应该看到一个屏幕上写着 `502 Bad Gateway` 字样。
 
 
-![](/Asserts/Images//attachment/album/202204/13/141813y33w8z333wlvvq33.png)
+![](/Asserts/Images/album/202204/13/141813y33w8z333wlvvq33.png)
 
 
 #### 安装 Docker 和 Docker Compose
@@ -164,7 +164,7 @@ sudo docker run --rm hello-world
 如果你完全安装成功，你应该在终端能看到这几行文字：
 
 
-![](/Asserts/Images//attachment/album/202204/13/141814wq574ncenva0v4xx.png)
+![](/Asserts/Images/album/202204/13/141814wq574ncenva0v4xx.png)
 
 
 如果你想避免在 `docker` 命令的开始添加 `sudo` 的话，你可以运行以下的命令将你自己添加到 `docker` 组：
@@ -195,7 +195,7 @@ mkdir ~/seafile-server && cd ~/seafile-server
 
 ```
 
-![](/Asserts/Images//attachment/album/202204/13/141814zscok1w1fxdt7111.png)
+![](/Asserts/Images/album/202204/13/141814zscok1w1fxdt7111.png)
 
 
 转到你创建的目录然后运行以下命令：
@@ -221,7 +221,7 @@ services:
       - MYSQL_ROOT_PASSWORD=password
       - MYSQL_LOG_CONSOLE=true
     volumes:
-      - ./Asserts/Images//mariadb:/var/lib/mysql
+      - ./data/mariadb:/var/lib/mysql
     networks:
       - seafile-net
 
@@ -238,7 +238,7 @@ services:
     ports:
       - "8080:80"
     volumes:
-      - ./Asserts/Images//app:/shared
+      - ./data/app:/shared
     environment:
       - DB_HOST=db
       - DB_ROOT_PASSWD=password
@@ -292,13 +292,13 @@ docker logs seafile
 当完成了，你将会看到如下输出：
 
 
-![](/Asserts/Images//attachment/album/202204/13/141815vbh3rhdyb2hi4qdi.png)
+![](/Asserts/Images/album/202204/13/141815vbh3rhdyb2hi4qdi.png)
 
 
 下一步，你只需要在你的浏览器里键入你设置的 `SEAFILE_SERVER_HOSTNAME` 的地址，然后你应该看到登录屏幕的页面。
 
 
-![](/Asserts/Images//attachment/album/202204/13/141815jkpi1tt1371oz054.jpg)
+![](/Asserts/Images/album/202204/13/141815jkpi1tt1371oz054.jpg)
 
 
 就这样！现在一切功能齐全，准备用客户端来使用。

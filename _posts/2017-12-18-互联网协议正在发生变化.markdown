@@ -7,7 +7,7 @@ tags:	[linuxcn,互联网,Internet]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/17/220929xdziize505c665i0.png)
+![](/Asserts/Images/album/201712/17/220929xdziize505c665i0.png)
 
 
 当上世纪九十年代互联网开始被广泛使用的时候，其大部分的通讯只使用几个协议：IPv4 协议路由这些数据包，TCP 协议转发这些包到连接上，SSL（及后来的 TLS）协议加密连接，DNS 协议命名那些所要连接的主机，而 HTTP 协议是最常用的应用程序协议。
@@ -70,7 +70,7 @@ tags:	[linuxcn,互联网,Internet]
 ### TLS 1.3
 
 
-[TLS 1.3](https://Asserts/Images/tracker.ietf.org/doc/draft-ietf-tls-tls13/) 刚刚通过了标准化的最后流程，并且已经被一些实现所支持。
+[TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13/) 刚刚通过了标准化的最后流程，并且已经被一些实现所支持。
 
 
 不要被它只增加了版本号的名字所欺骗；它实际上是一个新的 TLS 版本，全新打造的 “握手”机制允许应用程序数据从头开始流动（经常被称为 ‘0RTT’）。新的设计依赖于短暂密钥交换，从而排除了静态密钥。
@@ -124,10 +124,10 @@ iQUIC 使用 TLS 1.3 来为会话建立密钥，然后使用它去加密每个�
 ### DOH
 
 
-即将发生的变化是 DOH — [DNS over HTTP](https://Asserts/Images/tracker.ietf.org/wg/doh/about/)。[大量的研究表明，对网络实施政策干预的一个常用手段是通过 DNS 实现的](https://Asserts/Images/tracker.ietf.org/meeting/99/materials/slides-99-maprg-fingerprint-based-detection-of-dns-hijacks-using-ripe-atlas/)（无论是代表网络运营商或者一个更大的权力机构）。
+即将发生的变化是 DOH — [DNS over HTTP](https://datatracker.ietf.org/wg/doh/about/)。[大量的研究表明，对网络实施政策干预的一个常用手段是通过 DNS 实现的](https://datatracker.ietf.org/meeting/99/materials/slides-99-maprg-fingerprint-based-detection-of-dns-hijacks-using-ripe-atlas/)（无论是代表网络运营商或者一个更大的权力机构）。
 
 
-使用加密去规避这种控制已经 [讨论了一段时间了](https://Asserts/Images/tracker.ietf.org/wg/dprive/about/)，但是，它有一个不利条件（至少从某些立场来看）— 它可能与其它通讯区别对待；例如，通过它的端口号被阻止访问。
+使用加密去规避这种控制已经 [讨论了一段时间了](https://datatracker.ietf.org/wg/dprive/about/)，但是，它有一个不利条件（至少从某些立场来看）— 它可能与其它通讯区别对待；例如，通过它的端口号被阻止访问。
 
 
 DOH 将 DNS 通讯搭载在已经建立的 HTTP 连接上，因此，消除了任何的鉴别器。希望阻止访问该 DNS 解析器的网络只能通过阻止对该网站的访问来实现。

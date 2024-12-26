@@ -21,7 +21,7 @@ tags:	[linuxcn,passwd,chage,密码]
 下面是**如何强制用户在下次登录时修改他/她的密码**。
 
 
-![](/Asserts/Images//attachment/album/201510/29/133114zroc75r1hr7oyqqr.jpeg)
+![](/Asserts/Images/album/201510/29/133114zroc75r1hr7oyqqr.jpeg)
 
 
 每个Linux用户都关联这不同的密码相关配置和信息。比如，记录着上次密码更改的日期、最小/最大的修改密码的天数、密码何时过期等等。
@@ -39,7 +39,7 @@ $ sudo chage -l alice
 
 ```
 
-![](/Asserts/Images//attachment/album/201510/29/133123htznf6z3yesedzzi.jpg)
+![](/Asserts/Images/album/201510/29/133123htznf6z3yesedzzi.jpg)
 
 
 ### 强制用户修改密码
@@ -72,13 +72,13 @@ $ sudo passwd -e <user-name>
 现在检查用户的信息，你会发现：
 
 
-![](/Asserts/Images//attachment/album/201510/29/133124fffnkkngnqjn44cr.jpg)
+![](/Asserts/Images/album/201510/29/133124fffnkkngnqjn44cr.jpg)
 
 
 当你再次登录时候，你会被要求修改密码。你会在修改前被要求再验证一次当前密码。
 
 
-![](/Asserts/Images//attachment/album/201510/29/133125td8aldxlqh8cdchc.jpg)
+![](/Asserts/Images/album/201510/29/133125td8aldxlqh8cdchc.jpg)
 
 
 要设置更全面的密码策略（如密码复杂性，防止重复使用），则可以使用PAM。参见[这篇文章](http://xmodulo.com/set-password-policy-linux.html)了解更多详情。

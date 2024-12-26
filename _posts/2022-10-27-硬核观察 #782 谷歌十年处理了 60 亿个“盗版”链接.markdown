@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,钓鱼邮件,机器人]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/07/183144zqb7qzz5abz5fwes.jpg)
+![](/Asserts/Images/album/202210/07/183144zqb7qzz5abz5fwes.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/07/183153g4xiochjxzirhodj.jpg)
+![](/Asserts/Images/album/202210/07/183153g4xiochjxzirhodj.jpg)
 
 
 ### 谷歌十年处理了 60 亿个“盗版”链接
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,钓鱼邮件,机器人]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/07/183203zl9w03qiqu7kzlb7.jpg)
+![](/Asserts/Images/album/202210/07/183203zl9w03qiqu7kzlb7.jpg)
 
 
 ### 19% 的钓鱼邮件绕过微软 Defender
@@ -60,7 +60,7 @@ Avanan 的新研究表明，微软 Defender 的钓鱼邮件漏报率为 18.8%，
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/07/183216mkn6r4dfm6gcenks.jpg)
+![](/Asserts/Images/album/202210/07/183216mkn6r4dfm6gcenks.jpg)
 
 
 ### 波士顿动力公司承诺不将其机器人武器化

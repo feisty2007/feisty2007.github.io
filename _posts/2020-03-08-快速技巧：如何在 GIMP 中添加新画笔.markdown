@@ -19,7 +19,7 @@ tags:	[linuxcn,GIMP]
 ### 如何在 GIMP 中添加画笔
 
 
-![](/Asserts/Images//attachment/album/202003/09/091707ee54f5t6aat4lelf.jpg)
+![](/Asserts/Images/album/202003/09/091707ee54f5t6aat4lelf.jpg)
 
 
 在 GIMP 中安装新画笔需要三个步骤：
@@ -76,13 +76,13 @@ GIMP 画笔通常以 .gbr 和 .gih 文件格式提供。.gbr 文件用于常规�
 选择画笔文件后，在家目录中按下 `Ctrl+h` [查看 Linux 中的隐藏文件](https://itsfoss.com/hide-folders-and-show-hidden-files-in-ubuntu-beginner-trick/)。
 
 
-![Press Ctrl+H to see hidden files in the home directory](/Asserts/Images//attachment/album/202003/09/091525tg03iyw21ln2c431.jpg)
+![Press Ctrl+H to see hidden files in the home directory](/Asserts/Images/album/202003/09/091525tg03iyw21ln2c431.jpg)
 
 
 你应该进入 `.config/GIMP/2.10/brushes` 文件夹（如果你使用的是 GIMP 2.10）。如果使用其他版本，那么应在 `.config/GIMP` 下看到相应文件夹。
 
 
-![Adding New Brushes in GIMP](/Asserts/Images//attachment/album/202003/09/091641rkyfauvqkngp33un.png)
+![Adding New Brushes in GIMP](/Asserts/Images/album/202003/09/091641rkyfauvqkngp33un.png)
 
 
 将画笔文件粘贴到此文件夹中。可选地，你可以通过再次按 `Ctrl+h` 来隐藏隐藏的文件。
@@ -97,13 +97,13 @@ GIMP 将在启动时自动加载画笔。如果已在运行，并且不想关闭
 在 GIMP 的主菜单中找到 “Windows->Dockable Dialogues->Brushes”。
 
 
-![Refresh GIMP Brushes by going go to Windows->Dockable Dialogues-> Brushes](/Asserts/Images//attachment/album/202003/09/091644ep6p7znzkcu67cuu.jpg)
+![Refresh GIMP Brushes by going go to Windows->Dockable Dialogues-> Brushes](/Asserts/Images/album/202003/09/091644ep6p7znzkcu67cuu.jpg)
 
 
 在右侧栏的 Brushes 对话框中找到“refresh”图标。
 
 
-![Refresh GIMP Brushes](/Asserts/Images//attachment/album/202003/09/091646mz7l7zdbr8171nct.jpg)
+![Refresh GIMP Brushes](/Asserts/Images/album/202003/09/091646mz7l7zdbr8171nct.jpg)
 
 
 如果你的画笔没有出现，那么你可以试试重启 GIMP。

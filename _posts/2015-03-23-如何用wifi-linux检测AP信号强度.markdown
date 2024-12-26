@@ -13,7 +13,7 @@ tags:	[linuxcn,wifi]
 我已经在**wifi-linux**上实验了大约两个小时，并且它工作的很好，但是我希望在不久的将来在作者那里看到一些单元测试，因为命令**plot**无法在我的电脑上工作，并且会导致一些问题。
 
 
-![](/Asserts/Images//attachment/album/201503/22/125525r0zi9g0cipsaxicb.png)
+![](/Asserts/Images/album/201503/22/125525r0zi9g0cipsaxicb.png)
 
 
 ### 什么是wifi-linux
@@ -131,19 +131,19 @@ python list_rssi.py
 下面的截图说明wifi-linux在工作了。
 
 
-![wifi-linux to monitor wifi signal strength](/Asserts/Images//attachment/album/201503/22/125530lwrvv6vw0e9ez01j.png)
+![wifi-linux to monitor wifi signal strength](/Asserts/Images/album/201503/22/125530lwrvv6vw0e9ez01j.png)
 
 
 命令**bp**用于像下面那样添加一个断点。
 
 
-![the bp command in wifi-linux](/Asserts/Images//attachment/album/201503/22/125540ls3y4wop84x43l1u.png)
+![the bp command in wifi-linux](/Asserts/Images/album/201503/22/125540ls3y4wop84x43l1u.png)
 
 
 命令**print**可以用于在终端上显示你机器的状态。下面就是一个例子。
 
 
-![the print command](/Asserts/Images//attachment/album/201503/22/125543uzb40h41fw42hjw7.png)
+![the print command](/Asserts/Images/album/201503/22/125543uzb40h41fw42hjw7.png)
 
 
 

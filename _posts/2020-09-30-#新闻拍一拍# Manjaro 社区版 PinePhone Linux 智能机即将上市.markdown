@@ -7,7 +7,7 @@ tags:	[linuxcn,PinePhone,k3s,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/01/111845iznnzjnbna104bc8.jpg)
+![](/Asserts/Images/album/202009/01/111845iznnzjnbna104bc8.jpg)
 
 
 #### Manjaro 社区版 PinePhone Linux 智能机即将上市

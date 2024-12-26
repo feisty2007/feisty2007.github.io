@@ -16,7 +16,7 @@ tags:	[linuxcn,文件系统,SSH,SSHFS]
 在我们进一步安装之前，让我们了解一下 SSHFS 的相关内容，以及它是如何工作的。
 
 
-![](/Asserts/Images//attachment/album/201610/12/095124vr9cmdgilii8rrwr.png)
+![](/Asserts/Images/album/201610/12/095124vr9cmdgilii8rrwr.png)
 
 
 *Sshfs 挂载远程的 Linux 文件系统或者目录*

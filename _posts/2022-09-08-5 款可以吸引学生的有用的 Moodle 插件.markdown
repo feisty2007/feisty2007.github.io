@@ -15,7 +15,7 @@ tags:	[linuxcn,Moodle]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/18/165423pkiq74kwzokqzoq7.jpg "阅读书籍的人和数字拷贝")
+![](/Asserts/Images/album/202209/18/165423pkiq74kwzokqzoq7.jpg "阅读书籍的人和数字拷贝")
 
 
 无论在哪里，优秀的在线学习平台对于教育都非常重要。教师们需要一种途径来开办课堂，学生们需要一个友好的用户界面来促进学习，而管理者也需要一种方法来监控教育系统的有效性。
@@ -33,7 +33,7 @@ Moodle 的独特之处在于它的该可用性，利用第三方解决方案可�
 ### Level up!
 
 
-![Level up Moodle 插件](/Asserts/Images//attachment/album/202209/18/165431d60u3il5aal6c2kd.png "Level up Moodle 插件")
+![Level up Moodle 插件](/Asserts/Images/album/202209/18/165431d60u3il5aal6c2kd.png "Level up Moodle 插件")
 
 
 
@@ -53,7 +53,7 @@ Moodle 的独特之处在于它的该可用性，利用第三方解决方案可�
 ### BigBlueButton
 
 
-![BigBlueButton Moodle 插件](/Asserts/Images//attachment/album/202209/18/165432iqboyfy4xnmyzmyn.png "BigBlueButton Moodle 插件")
+![BigBlueButton Moodle 插件](/Asserts/Images/album/202209/18/165432iqboyfy4xnmyzmyn.png "BigBlueButton Moodle 插件")
 
 
 
@@ -73,7 +73,7 @@ BigBlueButton 让你能够在任何课程中创建多个活动链接、限制你
 ### ONLYOFFICE
 
 
-![ONLYOFFICE Moodle 插件](/Asserts/Images//attachment/album/202209/18/165432hueepqiqe449eepv.png "ONLYOFFICE Moodle 插件")
+![ONLYOFFICE Moodle 插件](/Asserts/Images/album/202209/18/165432hueepqiqe449eepv.png "ONLYOFFICE Moodle 插件")
 
 
 
@@ -93,7 +93,7 @@ BigBlueButton 让你能够在任何课程中创建多个活动链接、限制你
 ### Global Chat
 
 
-![Global Chat Moodle 插件](/Asserts/Images//attachment/album/202209/18/165433z36yzrum3jr2uizq.png "Global Chat Moodle 插件")
+![Global Chat Moodle 插件](/Asserts/Images/album/202209/18/165433z36yzrum3jr2uizq.png "Global Chat Moodle 插件")
 
 
 
@@ -113,7 +113,7 @@ BigBlueButton 让你能够在任何课程中创建多个活动链接、限制你
 ### Custom certificate
 
 
-![Custom certificate Moodle 插件](/Asserts/Images//attachment/album/202209/18/165437f8skrncqcs7h8nnm.png "Custom certificate Moodle 插件")
+![Custom certificate Moodle 插件](/Asserts/Images/album/202209/18/165437f8skrncqcs7h8nnm.png "Custom certificate Moodle 插件")
 
 
 

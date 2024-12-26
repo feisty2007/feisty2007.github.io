@@ -27,7 +27,7 @@ tags:	[linuxcn,LXD]
 12. [调试，及给 LXD 做贡献](/article-8282-1.html)
 
 
-![](/Asserts/Images//attachment/album/201703/09/084700h3yy8gjg8gjgr4cd.jpg)
+![](/Asserts/Images/album/201703/09/084700h3yy8gjg8gjgr4cd.jpg)
 
 
 如果你从一开始就关注了这个系列，你应该已经使用了 LXD 相当长的时间了，并且非常熟悉它的日常操作和功能。

@@ -15,7 +15,7 @@ tags:	[linuxcn,桌面]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/07/125301pfehyxjlo4osix5l.jpg)
+![](/Asserts/Images/album/201912/07/125301pfehyxjlo4osix5l.jpg)
 
 
 在 Mac OS X 之前，有一个奇怪的闭源 Unix 系统，称为 [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)。Sun Microsystems 后来将 NeXTSTEP 的底层设为开放规范，这使其它项目可以创建许多自由开源的 NeXT 库和组件。GNUStep 实现了许多 NeXTSTEP 库，而 [Window Maker](https://www.windowmaker.org/) 实现了其桌面环境。
@@ -30,13 +30,13 @@ Window Maker 非常接近地模仿了 NeXTSTEP 桌面 GUI，并提供了一个�
 要在 GDM 上切换到 Window Maker：
 
 
-![Selecting the Window Maker desktop in GDM](/Asserts/Images//attachment/album/201912/07/125350vi113iees02ei820.jpg "Selecting the Window Maker desktop in GDM")
+![Selecting the Window Maker desktop in GDM](/Asserts/Images/album/201912/07/125350vi113iees02ei820.jpg "Selecting the Window Maker desktop in GDM")
 
 
 在 KDM 上：
 
 
-![Selecting the Window Maker desktop in KDM](/Asserts/Images//attachment/album/201912/07/125352sersqqrfcgejos5e.jpg "Selecting the Window Maker desktop in KDM")
+![Selecting the Window Maker desktop in KDM](/Asserts/Images/album/201912/07/125352sersqqrfcgejos5e.jpg "Selecting the Window Maker desktop in KDM")
 
 
 ### Window Maker 程序坞
@@ -48,7 +48,7 @@ Window Maker 非常接近地模仿了 NeXTSTEP 桌面 GUI，并提供了一个�
 你可以在软件仓库中搜索 “dockapp” 来试用 dockapp。它们常常是网络和系统监控器、音频设置面板、时钟等。这是在 Fedora 上运行的 Window Maker：
 
 
-![Window Maker running on Fedora](/Asserts/Images//attachment/album/201912/07/125355an3k1ev3o3n1pcol.jpg "Window Maker running on Fedora")
+![Window Maker running on Fedora](/Asserts/Images/album/201912/07/125355an3k1ev3o3n1pcol.jpg "Window Maker running on Fedora")
 
 
 ### 应用菜单

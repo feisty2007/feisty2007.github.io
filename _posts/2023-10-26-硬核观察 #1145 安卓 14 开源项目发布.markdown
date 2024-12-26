@@ -7,10 +7,10 @@ tags:	[linuxcn,安卓,Gmail,X.Org]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/05/171513wr2odmmrmzfmfexb.jpg)
+![](/Asserts/Images/album/202310/05/171513wr2odmmrmzfmfexb.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/05/171523a4v7t8p5ofe65526.jpg)
+![](/Asserts/Images/album/202310/05/171523a4v7t8p5ofe65526.jpg)
 
 
 ### 安卓 14 开源项目发布
@@ -35,7 +35,7 @@ tags:	[linuxcn,安卓,Gmail,X.Org]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/05/171532d9d0myx92oa22k2x.jpg)
+![](/Asserts/Images/album/202310/05/171532d9d0myx92oa22k2x.jpg)
 
 
 ### Gmail 向电子邮件添加表情符号反应
@@ -60,7 +60,7 @@ tags:	[linuxcn,安卓,Gmail,X.Org]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/05/171544mk0n3wzxkh1m0jy1.jpg)
+![](/Asserts/Images/album/202310/05/171544mk0n3wzxkh1m0jy1.jpg)
 
 
 ### X.Org 被发现新安全漏洞，可追溯到 1988 年

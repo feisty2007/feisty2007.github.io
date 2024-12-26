@@ -15,7 +15,7 @@ tags:	[linuxcn,开源]
 > 
 
 
-![Weekly news roundup with TV](/Asserts/Images//attachment/album/201909/17/122416ry11111hiy11bt4x.png "Weekly news roundup with TV")
+![Weekly news roundup with TV](/Asserts/Images/album/201909/17/122416ry11111hiy11bt4x.png "Weekly news roundup with TV")
 
 
 在本期我们的开源新闻综述中有 Sandboxie 的开源之路、五角大楼开源计划的进一步变化、好莱坞开源等等！

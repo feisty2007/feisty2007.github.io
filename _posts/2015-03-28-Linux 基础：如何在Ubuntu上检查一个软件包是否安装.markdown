@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包,apt,dpkg,apt-get]
 ---
 
 
-![](/Asserts/Images//attachment/album/201503/30/134439j2j5747yac16y76w.png)
+![](/Asserts/Images/album/201503/30/134439j2j5747yac16y76w.png)
 
 
 如果你正在管理Debian或者Ubuntu服务器，你也许会经常使用**dpkg** 或者 **apt-get**命令。这两个命令用来安装、卸载和更新包。

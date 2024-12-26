@@ -16,7 +16,7 @@ tags:	[linuxcn,auditd,审计,auditctl,aureport]
 我们知道Linux系统上有一个叫 **auditd** 的审计工具。这个工具在大多数Linux操作系统中是默认安装的。那么auditd 是什么？该如何使用呢？下面我们开始介绍。
 
 
-![](/Asserts/Images//attachment/album/201502/18/160818v0spjr4um8l0ld0q.png)
+![](/Asserts/Images/album/201502/18/160818v0spjr4um8l0ld0q.png)
 
 
 ### 什么是auditd？
@@ -25,7 +25,7 @@ tags:	[linuxcn,auditd,审计,auditctl,aureport]
 auditd（或 auditd 守护进程）是Linux审计系统中用户空间的一个组件，其负责将审计记录写入磁盘。
 
 
-![](/Asserts/Images//attachment/album/201502/18/160821b94l34ltx9d7l4tq.png)
+![](/Asserts/Images/album/201502/18/160821b94l34ltx9d7l4tq.png)
 
 
 ### 安装 auditd
@@ -34,7 +34,7 @@ auditd（或 auditd 守护进程）是Linux审计系统中用户空间的一个�
 Ubuntu系统中，我们可以使用 [wajig](http://linoxide.com/tools/wajig-package-management-debian/) 工具或者 **apt-get 工具** 安装auditd。
 
 
-![](/Asserts/Images//attachment/album/201502/18/160822bpwrpaj64qva6q0i.png)
+![](/Asserts/Images/album/201502/18/160822bpwrpaj64qva6q0i.png)
 
 
 按照下面的说明安装auditd，安装完毕后将自动安装以下auditd和相关的工具：
@@ -61,7 +61,7 @@ $ sudo auditctl -l
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/18/160823vk11xklr9r88xl18.png)
+![](/Asserts/Images/album/201502/18/160823vk11xklr9r88xl18.png)
 
 
 以下我们介绍如何给auditd添加审计规则。
@@ -85,7 +85,7 @@ $ sudo auditctl -w /etc/passwd -p rwxa
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/18/160824paz6rx64ttnear8v.png)
+![](/Asserts/Images/album/201502/18/160824paz6rx64ttnear8v.png)
 
 
 **选项 :**
@@ -108,7 +108,7 @@ $ sudo auditctl -w /production/
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/18/160825me5le3eg2qqy2geo.png)
+![](/Asserts/Images/album/201502/18/160825me5le3eg2qqy2geo.png)
 
 
 以上命令将监控对 **/production 目录** 的所有访问。
@@ -117,7 +117,7 @@ $ sudo auditctl -w /production/
 现在，运行 **auditctl -l** 命令即可查看所有已配置的规则。
 
 
-![](/Asserts/Images//attachment/album/201502/18/160825fzwzbvjtvzbwjnhq.png)
+![](/Asserts/Images/album/201502/18/160825fzwzbvjtvzbwjnhq.png)
 
 
 下面开始介绍审计日志。
@@ -206,7 +206,7 @@ $ sudo ausearch -f /etc/passwd
 键入 **man chfn** 可以查看有关chfn更多的信息。
 
 
-![](/Asserts/Images//attachment/album/201502/18/160826btfvfv51ovzw0aw7.png)
+![](/Asserts/Images/album/201502/18/160826btfvfv51ovzw0aw7.png)
 
 
 下面我们看另外一个例子。
@@ -215,13 +215,13 @@ $ sudo ausearch -f /etc/passwd
 我们已经配置auditd去监控目录 /production/ 了。这是个新目录。所以我们用ausearch去查看日志的时候会发现什么都没有。
 
 
-![](/Asserts/Images//attachment/album/201502/18/160828ft4iq65cn9dcl9dp.png)
+![](/Asserts/Images/album/201502/18/160828ft4iq65cn9dcl9dp.png)
 
 
 下一步，使用root账户的ls命令列出 /production/ 下的文件信息。再次使用ausearch后，将会显示一些信息。
 
 
-![](/Asserts/Images//attachment/album/201502/18/160829tnwk55kwsuqqbsrt.png)
+![](/Asserts/Images/album/201502/18/160829tnwk55kwsuqqbsrt.png)
 
 
 
@@ -256,7 +256,7 @@ $ sudo aureport
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/18/160830wvpyempylmyp9liy.png)
+![](/Asserts/Images/album/201502/18/160830wvpyempylmyp9liy.png)
 
 
 如上，报告包含了大多数重要区域的信息。
@@ -274,7 +274,7 @@ $ sudo aureport -au
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/18/160831fpcbh9tt9bh5zhr0.png)
+![](/Asserts/Images/album/201502/18/160831fpcbh9tt9bh5zhr0.png)
 
 
 从上图可以看出，由两个用户在特定的时间授权失败。
@@ -289,7 +289,7 @@ $ sudo aureport -m
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/18/160832hzrcuuruzd0ucy8h.png)
+![](/Asserts/Images/album/201502/18/160832hzrcuuruzd0ucy8h.png)
 
 
 ### Auditd 配置文件
@@ -305,7 +305,7 @@ $ sudo aureport -m
 现在，如果确信这些规则可以正常工作，我们可以将其添加到**/etc/audit/audit.rules**中使得规则永久有效。以下介绍如何将他们添加到/etc/audit/audit.rules中去。
 
 
-![](/Asserts/Images//attachment/album/201502/18/160833svo3xc2u55iomtvh.png)
+![](/Asserts/Images/album/201502/18/160833svo3xc2u55iomtvh.png)
 
 
 **最后，别忘了重启auditd守护程序**
@@ -326,7 +326,7 @@ $ sudo aureport -m
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/18/160834eozjhoms1555jsyq.png)
+![](/Asserts/Images/album/201502/18/160834eozjhoms1555jsyq.png)
 
 
 ### 总结

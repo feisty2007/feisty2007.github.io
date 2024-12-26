@@ -22,7 +22,7 @@ tags:	[linuxcn,XnRetro,图片处理]
 无论你认为这些效果是愚蠢的艺术还是创作的捷径，这些滤镜非常流行，可以帮助那些平实无奇的照片添加个性。
 
 
-![](/Asserts/Images//attachment/album/201506/30/135415oazi88evg2ftzik3.jpg)
+![](/Asserts/Images/album/201506/30/135415oazi88evg2ftzik3.jpg)
 
 
 *XnRetro是一个照片编辑应用*
@@ -42,7 +42,7 @@ tags:	[linuxcn,XnRetro,图片处理]
 * 矩形修剪选项
 
 
-![](/Asserts/Images//attachment/album/201506/30/135416ubia3vbpwixqnwdy.png)
+![](/Asserts/Images/album/201506/30/135416ubia3vbpwixqnwdy.png)
 
 
 *灯光效果调整*

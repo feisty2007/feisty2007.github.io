@@ -7,7 +7,7 @@ tags:	[linuxcn,snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/08/122353t8s8o9ibphdb8ods.png)
+![](/Asserts/Images/album/201606/08/122353t8s8o9ibphdb8ods.png)
 
 
 在 Linux 分发应用不总是那么容易。有各种不同的包格式、基础系统、可用库，随着发行版的一次次发布，所有的这些都让人头疼。然而，现在我们有了更简单的东西：Snap。

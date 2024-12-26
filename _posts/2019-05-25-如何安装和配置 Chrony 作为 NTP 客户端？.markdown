@@ -7,7 +7,7 @@ tags:	[linuxcn,NTP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/06/145607nayfax0vxc3vy73o.jpg)
+![](/Asserts/Images/album/201905/06/145607nayfax0vxc3vy73o.jpg)
 
 
 NTP 服务器和 NTP 客户端可以让我们通过网络来同步时钟。之前，我们已经撰写了一篇关于 [NTP 服务器和 NTP 客户端的安装与配置](/article-10811-1.html) 的文章。

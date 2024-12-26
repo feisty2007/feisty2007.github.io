@@ -25,7 +25,7 @@ tags:	[linuxcn,Arch]
 ### 更容易设置和使用的基于 Arch 的 Linux 发行版
 
 
-![](/Asserts/Images//attachment/album/202102/10/112812sc42txp4eexco44x.jpg)
+![](/Asserts/Images/album/202102/10/112812sc42txp4eexco44x.jpg)
 
 
 请注意，这不是一个排名列表。这些数字只是为了计数的目的。排第二的发行版不应该被认为比排第七的发行版好。
@@ -34,7 +34,7 @@ tags:	[linuxcn,Arch]
 #### 1、Manjaro Linux
 
 
-![](/Asserts/Images//attachment/album/202102/10/112900goxdzuo5tzmkxkqu.jpg)
+![](/Asserts/Images/album/202102/10/112900goxdzuo5tzmkxkqu.jpg)
 
 
 [Manjaro](https://manjaro.org/) 不需要任何介绍。它是几年来最流行的 Linux 发行版之一，它值得拥有。
@@ -55,7 +55,7 @@ Manjaro 也是一个滚动发布的前沿发行版。然而，与 Arch 不同的
 #### 2、ArcoLinux
 
 
-![](/Asserts/Images//attachment/album/202102/10/112901a0lm2660h6lzabv0.png)
+![](/Asserts/Images/album/202102/10/112901a0lm2660h6lzabv0.png)
 
 
 [ArcoLinux](https://arcolinux.com/)（以前称为 ArchMerge）是一个基于 Arch Linux 的发行版。开发团队提供了三种变体。ArcoLinux、ArcoLinuxD 和 ArcoLinuxB。
@@ -76,7 +76,7 @@ ArcoLinux 还提供了各种视频教程，因为它非常注重学习和获取 
 #### 3、Archlabs Linux
 
 
-![](/Asserts/Images//attachment/album/202102/10/112902djv1v1r5bocmj9gk.jpg)
+![](/Asserts/Images/album/202102/10/112902djv1v1r5bocmj9gk.jpg)
 
 
 [ArchLabs Linux](https://itsfoss.com/archlabs-review/) 是一个轻量级的滚动版 Linux 发行版，基于最精简的 Arch Linux，带有 [Openbox](https://en.wikipedia.org/wiki/Openbox) 窗口管理器。[ArchLabs](https://archlabslinux.com/) 在观感设计中受到 [BunsenLabs](https://www.bunsenlabs.org/) 的影响和启发，主要考虑到中级到高级用户的需求。
@@ -85,7 +85,7 @@ ArcoLinux 还提供了各种视频教程，因为它非常注重学习和获取 
 #### 4、Archman Linux
 
 
-![](/Asserts/Images//attachment/album/202102/10/112902dsuongs30nmyaggw.png)
+![](/Asserts/Images/album/202102/10/112902dsuongs30nmyaggw.png)
 
 
 [Archman](https://archman.org/en/) 是一个独立的项目。Arch Linux 发行版对于没有多少 Linux 经验的用户来说通常不是理想的操作系统。要想在最小的挫折感下让事情变得更有意义，必须要有相当的背景知识。Archman Linux 的开发人员正试图改变这种评价。
@@ -97,7 +97,7 @@ Archman 的开发是基于对开发的理解，包括用户反馈和体验组件
 #### 5、EndeavourOS
 
 
-![](/Asserts/Images//attachment/album/202102/10/112903yz3v5gngzhi5irr0.jpg)
+![](/Asserts/Images/album/202102/10/112903yz3v5gngzhi5irr0.jpg)
 
 
 当流行的基于 Arch 的发行版 [Antergos 在 2019 结束](https://itsfoss.com/antergos-linux-discontinued/) 时，它留下了一个友好且非常有用的社区。Antergos 项目结束的原因是因为该系统对于开发人员来说太难维护了。
@@ -112,7 +112,7 @@ Archman 的开发是基于对开发的理解，包括用户反馈和体验组件
 #### 6、RebornOS
 
 
-![](/Asserts/Images//attachment/album/202102/10/112904zutabhc64a14txxh.png)
+![](/Asserts/Images/album/202102/10/112904zutabhc64a14txxh.png)
 
 
 [RebornOS](https://rebornos.org/) 开发人员的目标是将 Linux 的真正威力带给每个人，一个 ISO 提供了 15 个桌面环境可供选择，并提供无限的定制机会。
@@ -127,7 +127,7 @@ RebornOS 还声称支持 [Anbox](https://anbox.io/)，它可以在桌面 Linux �
 #### 7、Chakra Linux
 
 
-![](/Asserts/Images//attachment/album/202102/10/112905y66zk3cwzgx7grkx.png)
+![](/Asserts/Images/album/202102/10/112905y66zk3cwzgx7grkx.png)
 
 
 一个社区开发的 GNU/Linux 发行版，它的亮点在 KDE 和 Qt 技术。[Chakra Linux](https://www.chakralinux.org/) 不在特定日期安排发布，而是使用“半滚动发布”系统。
@@ -142,7 +142,7 @@ RebornOS 还声称支持 [Anbox](https://anbox.io/)，它可以在桌面 Linux �
 #### 8、Artix Linux
 
 
-![Artix Mate Edition](/Asserts/Images//attachment/album/202102/10/112906iu3aa4z5dz3ua313.png)
+![Artix Mate Edition](/Asserts/Images/album/202102/10/112906iu3aa4z5dz3ua313.png)
 
 
 [Artix Linux](https://artixlinux.org/) 也是一个基于 Arch Linux 的滚动发行版，它使用 [OpenRC](https://en.wikipedia.org/wiki/OpenRC)、[runit](https://en.wikipedia.org/wiki/Runit) 或 [s6](https://en.wikipedia.org/wiki/S6_(software)) 作为初始化工具而不是 [systemd](https://en.wikipedia.org/wiki/Systemd)。
@@ -154,7 +154,7 @@ Artix Linux 有自己的软件库，但作为一个基于 `pacman` 的发行版�
 #### 9、BlackArch Linux
 
 
-![](/Asserts/Images//attachment/album/202102/10/112907mdzd64j7dcc27r4y.png)
+![](/Asserts/Images/album/202102/10/112907mdzd64j7dcc27r4y.png)
 
 
 BlackArch 是一个基于 Arch Linux 的 [渗透测试发行版](https://itsfoss.com/linux-hacking-penetration-testing/)，它提供了大量的网络安全工具。它是专门为渗透测试人员和安全研究人员创建的。该软件库包含 2400 多个[黑客和渗透测试工具](https://itsfoss.com/best-kali-linux-tools/) ，可以单独安装，也可以分组安装。BlackArch Linux 兼容现有的 Arch Linux 包。
@@ -172,7 +172,7 @@ Arch 安装程序基本上是 Arch Linux ISO 的一个相对容易使用的基�
 #### Anarchy Installer
 
 
-![](/Asserts/Images//attachment/album/202102/10/112907g0ca4r6e21l2f0a6.jpg)
+![](/Asserts/Images/album/202102/10/112907g0ca4r6e21l2f0a6.jpg)
 
 
 [Anarchy installer](https://anarchyinstaller.org/) 打算为新手和有经验的 Linux 用户提供一种简单而无痛苦的方式来安装 ArchLinux。在需要的时候安装，在需要的地方安装，并且以你想要的方式安装。这就是 Anarchy 的哲学。
@@ -184,7 +184,7 @@ Arch 安装程序基本上是 Arch Linux ISO 的一个相对容易使用的基�
 #### Zen Installer
 
 
-![](/Asserts/Images//attachment/album/202102/10/112908onrg72gwowaldrn8.jpg)
+![](/Asserts/Images/album/202102/10/112908onrg72gwowaldrn8.jpg)
 
 
 [Zen Installer](https://sourceforge.net/projects/revenge-installer/) 为安装 Arch Linux 提供了一个完整的图形（点击式）环境。它支持安装多个桌面环境 、AUR 以及 Arch Linux 的所有功能和灵活性，并且易于图形化安装。

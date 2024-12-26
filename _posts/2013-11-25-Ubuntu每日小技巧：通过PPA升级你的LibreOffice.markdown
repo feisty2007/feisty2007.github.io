@@ -44,7 +44,7 @@ sudo apt-get update && sudo apt-get dist-upgrade
 Windows和Mac OS X用户可以直接在程序套件中升级或者直接从网页中下载。
 
 
-![](/Asserts/Images//attachment/album/201311/14/2332483kbbin3b24qis4qi.png)
+![](/Asserts/Images/album/201311/14/2332483kbbin3b24qis4qi.png)
 
 
 Enjoy!

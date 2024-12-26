@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画,正则表达式]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/14/181853e3ete8ooee11evk7.png)
+![](/Asserts/Images/album/201705/14/181853e3ete8ooee11evk7.png)
 
 
 一个人希望掌握所有的正则表达式，却耗费了大量的时间，不知室外世事变迁，早已换了一个时代。

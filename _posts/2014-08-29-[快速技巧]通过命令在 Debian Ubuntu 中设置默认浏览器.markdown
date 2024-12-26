@@ -7,7 +7,7 @@ tags:	[linuxcn,浏览器]
 ---
 
 
-![img](/Asserts/Images//attachment/album/201408/03/094445s5e57v1ov5vjwj77.jpg)
+![img](/Asserts/Images/album/201408/03/094445s5e57v1ov5vjwj77.jpg)
 
 
 嘿，伙计们！

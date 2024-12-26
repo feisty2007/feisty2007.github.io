@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,Firefox,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/23/122436ajl8z0l2b6x860br.jpg)
+![](/Asserts/Images/album/202209/23/122436ajl8z0l2b6x860br.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/23/122437tvt77l3d6ev66iwt.jpg)
+![](/Asserts/Images/album/202209/23/122437tvt77l3d6ev66iwt.jpg)
 
 
 ### 微软 Azure CTO 称 C/C++ 应该被废弃
@@ -35,7 +35,7 @@ tags:	[linuxcn,Rust,Firefox,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/23/122445rgcipeni22ee322c.jpg)
+![](/Asserts/Images/album/202209/23/122445rgcipeni22ee322c.jpg)
 
 
 ### Mozilla 发布报告指责操作系统与浏览器的锁定
@@ -60,7 +60,7 @@ tags:	[linuxcn,Rust,Firefox,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/23/122500kiljjupwffguzlab.jpg)
+![](/Asserts/Images/album/202209/23/122500kiljjupwffguzlab.jpg)
 
 
 ### 被忽视 15 年的 Python 漏洞导致 35 万项目陷入风险

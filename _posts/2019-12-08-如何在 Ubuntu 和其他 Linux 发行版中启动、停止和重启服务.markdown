@@ -7,7 +7,7 @@ tags:	[linuxcn,服务]
 ---
 
 
-![](/Asserts/Images//attachment/album/201912/28/081645vee5lkult55kituu.jpg)
+![](/Asserts/Images/album/201912/28/081645vee5lkult55kituu.jpg)
 
 
 服务是必不可少的后台进程，它通常随系统启动，并在关机时关闭。如果你是系统管理员，那么你会定期处理服务。如果你是普通桌面用户，你可能会遇到需要重启服务的情况，例如[安装 Barrier 来用于在计算机之间共享鼠标和键盘](https://itsfoss.com/keyboard-mouse-sharing-between-computers/)。或[在使用 ufw 设置防火墙](https://itsfoss.com/set-up-firewall-gufw/)时。
@@ -59,7 +59,7 @@ tags:	[linuxcn,服务]
 systemctl list-unit-files --type service -all
 ```
 
-![systemctl list-unit-files](/Asserts/Images//attachment/album/201912/28/081710jtozi0gb00j9cxob.png)
+![systemctl list-unit-files](/Asserts/Images/album/201912/28/081710jtozi0gb00j9cxob.png)
 
 
 此命令将输出所有服务的状态。服务状态有<ruby> 启用 <rt>  enabled </rt></ruby>、<ruby> 禁用 <rt>  disabled </rt></ruby>、<ruby> 屏蔽 <rt>  masked </rt></ruby>（在取消屏蔽之前处于非活动状态）、<ruby> 静态 <rt>  static </rt></ruby>和<ruby> 已生成 <rt>  generated </rt></ruby>。
@@ -73,7 +73,7 @@ systemctl list-unit-files --type service -all
 sudo systemctl | grep running
 ```
 
-![Display running services systemctl](/Asserts/Images//attachment/album/201912/28/081711eoog3bt2z333348o.jpg)
+![Display running services systemctl](/Asserts/Images/album/201912/28/081711eoog3bt2z333348o.jpg)
 
 
 现在，你知道了如何引用所有不同的服务，你可以开始主动管理它们。
@@ -129,7 +129,7 @@ systemctl status <service-name>
 这将以以下方式输出：
 
 
-![systemctl status](/Asserts/Images//attachment/album/201912/28/081715rgx1maxpramgox4g.jpg)
+![systemctl status](/Asserts/Images/album/201912/28/081715rgx1maxpramgox4g.jpg)
 
 
 这是 systemd 的内容。现在切换到 init。
@@ -152,7 +152,7 @@ init 的命令和 systemd 的一样简单。
 service --status-all
 ```
 
-![service –status-all](/Asserts/Images//attachment/album/201912/28/081716p629oqhw59isg629.png)
+![service –status-all](/Asserts/Images/album/201912/28/081716p629oqhw59isg629.png)
 
 
 前面的 `[ – ]` 代表**禁用**，`[ + ]` 代表**启用**。
@@ -205,7 +205,7 @@ service <service-name> status
 这将以以下方式输出：
 
 
-![service status](/Asserts/Images//attachment/album/201912/28/081717w0j0v0rdbvby0hgy.jpg)
+![service status](/Asserts/Images/album/201912/28/081717w0j0v0rdbvby0hgy.jpg)
 
 
 最重要的是，这将告诉你某项服务是否处于活跃状态（正在运行）。

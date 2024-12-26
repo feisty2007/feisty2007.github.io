@@ -7,7 +7,7 @@ tags:	[linuxcn,即时消息]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/10/101345zj7gfybyee2g9x9e.jpg)
+![](/Asserts/Images/album/202010/10/101345zj7gfybyee2g9x9e.jpg)
 
 
 本文是该系列的第七篇。
@@ -181,7 +181,7 @@ export function getAuthUser() {
 ### Access 页面
 
 
-![access page screenshot](/Asserts/Images//attachment/album/202010/10/102809eh88hzc2mhny5dfj.png)
+![access page screenshot](/Asserts/Images/album/202010/10/102809eh88hzc2mhny5dfj.png)
 
 
 让我们从 `access` 页面开始。 创建一个包含以下内容的文件 `static/pages/access-page.js`：
@@ -343,7 +343,7 @@ export default {
 ### Home 页面
 
 
-![home page screenshot](/Asserts/Images//attachment/album/202010/10/101551p69v9wohvxfvvhvm.png)
+![home page screenshot](/Asserts/Images/album/202010/10/101551p69v9wohvxfvvhvm.png)
 
 
 因此，当用户登录时，将显示 `home` 页。 创建一个具有以下内容的 `static/pages/home-page.js` 文件：
@@ -419,7 +419,7 @@ export function avatar(user) {
 ### 仅开发使用的登录
 
 
-![access page with login form screenshot](/Asserts/Images//attachment/album/202010/10/101625os2hqoeqjrsbr2qr.png)
+![access page with login form screenshot](/Asserts/Images/album/202010/10/101625os2hqoeqjrsbr2qr.png)
 
 
 在上一篇文章中，我们为编写了一个登录代码。让我们在 `access` 页面中为此添加一个表单。 进入 `static/ages/access-page.js`，稍微修改一下。

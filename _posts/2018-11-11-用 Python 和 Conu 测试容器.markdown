@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,测试]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/25/215123sq8nep3nn7ccp13m.jpg)
+![](/Asserts/Images/album/201811/25/215123sq8nep3nn7ccp13m.jpg)
 
 
 越来越多的开发人员使用容器开发和部署他们的应用。这意味着可以轻松地测试容器也变得很重要。[Conu](https://github.com/user-cont/conu) (container utilities 的简写) 是一个 Python 库，让你编写容器测试变得简单。本文向你介绍如何使用它测试容器。

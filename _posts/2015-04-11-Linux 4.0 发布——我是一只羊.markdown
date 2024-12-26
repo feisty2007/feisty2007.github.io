@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/13/225922hlubukzpd9n7k1ab.jpg)
+![](/Asserts/Images/album/201504/13/225922hlubukzpd9n7k1ab.jpg)
 
 
 就在周日，Linus 如期发布了 Linux 4.0，这个版本的代号被称为“**[Hurr durr I'ma sheep](https://imasheep.hurrdurr.org/)**”：

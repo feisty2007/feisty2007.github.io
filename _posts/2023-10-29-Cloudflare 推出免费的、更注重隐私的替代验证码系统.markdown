@@ -7,7 +7,7 @@ tags:	[linuxcn,验证码,CAPTCHA]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/10/104321aioinl13v7i9nz6b.jpg)
+![](/Asserts/Images/album/202310/10/104321aioinl13v7i9nz6b.jpg)
 
 
 
@@ -42,7 +42,7 @@ tags:	[linuxcn,验证码,CAPTCHA]
 现在，所有这些都已被他们的新产品替换。你只需进行一次点击，就可以验证你是人类：
 
 
-![来源：Cloudflare 博客](/Asserts/Images//attachment/album/202310/10/104346jtarcmcn5wambrv5.gif)
+![来源：Cloudflare 博客](/Asserts/Images/album/202310/10/104346jtarcmcn5wambrv5.gif)
 
 
 为了确保隐私保护目标的实现，Cloudflare 作出了以下说明：
@@ -65,7 +65,7 @@ tags:	[linuxcn,验证码,CAPTCHA]
 **有什么更让人兴奋的吗？**
 
 
-![](/Asserts/Images//attachment/album/202310/10/104346zvz3ancqqamvvcgd.jpg)
+![](/Asserts/Images/album/202310/10/104346zvz3ancqqamvvcgd.jpg)
 
 
 所有这些都是免费提供的。任何不使用 Cloudflare 作为防火墙或 CDN 的网站或平台，只需添加**几行代码**，即可选择使用本服务。

@@ -13,7 +13,7 @@ tags:	[linuxcn,容器,模拟器,DOS]
 但首先，来看看题图。
 
 
-![](/Asserts/Images//attachment/album/201803/14/001826vyeufznu6mr0ovz2.png)
+![](/Asserts/Images/album/201803/14/001826vyeufznu6mr0ovz2.png)
 
 
 事实证明这是可能的，但很难。我使用了所有三种主要的 DOS 模拟器（dosbox、qemu 和 dosemu）。我让它们都能在 Docker 容器中运行，但有很多有趣的问题需要解决。

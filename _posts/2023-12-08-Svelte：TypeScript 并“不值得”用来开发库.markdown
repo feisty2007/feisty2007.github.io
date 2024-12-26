@@ -7,7 +7,7 @@ tags:	[linuxcn,TypeScript,JavaScript]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/26/234825lw793i739kft0fj9.jpg)
+![](/Asserts/Images/album/202312/26/234825lw793i739kft0fj9.jpg)
 
 
 TypeScript 的使用率在不断上升，Svelte 的开发者 Rich Harris 解释了为什么反其道而行，从 TypeScript 切换到 JavaScript 和 JSDoc。

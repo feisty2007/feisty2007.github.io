@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,谷歌,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/01/161444ahxfvhkhphkvcddw.jpg)
+![](/Asserts/Images/album/202305/01/161444ahxfvhkhphkvcddw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/01/161454dnbd2sdg1f1hznf5.jpg)
+![](/Asserts/Images/album/202305/01/161454dnbd2sdg1f1hznf5.jpg)
 
 
 ### sudo 和 su 命令正在用 Rust 重写
@@ -35,7 +35,7 @@ tags:	[linuxcn,Rust,谷歌,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/01/161507c1v20e5bs7rsrtvx.jpg)
+![](/Asserts/Images/album/202305/01/161507c1v20e5bs7rsrtvx.jpg)
 
 
 ### 被辞退的 AI 工程师称谷歌拥有更强大的 AI 技术
@@ -60,7 +60,7 @@ tags:	[linuxcn,Rust,谷歌,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/01/161522tpaygiy0ysrvr8pi.jpg)
+![](/Asserts/Images/album/202305/01/161522tpaygiy0ysrvr8pi.jpg)
 
 
 ### 人工智能编码竞赛，OpenAI 系胜出

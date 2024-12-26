@@ -21,7 +21,7 @@ tags:	[linuxcn,systemd,Debian,debianfork,Devuan]
 // 更新： 项目名称正式命名为：[Devuan](https://devuan.org/)。
 
 
-![](/Asserts/Images//attachment/album/201411/29/010211lt44nnckfkzakd4m.png)
+![](/Asserts/Images/album/201411/29/010211lt44nnckfkzakd4m.png)
 
 
 #### 我们是谁？！
@@ -125,7 +125,7 @@ tags:	[linuxcn,systemd,Debian,debianfork,Devuan]
 不是，有很多用户都对 systemd 有意见。
 
 
-有一篇文章是对这个问题的很好的介绍： [Systemd: Linux 世界末日的预兆](http://www.infoworld.com/article/2608798/Asserts/Images/-center/systemd--harbinger-of-the-linux-apocalypse.html)。
+有一篇文章是对这个问题的很好的介绍： [Systemd: Linux 世界末日的预兆](http://www.infoworld.com/article/2608798/data-center/systemd--harbinger-of-the-linux-apocalypse.html)。
 
 
 有个 [boycott systemd](http://boycottsystemd.org/) 网站也有一些相关的资料。那里有个叫做 [uselessd](http://uselessd.darknedgy.net/) 的 “systemd 分支”，有些不错的地方和许多笑点（lulz）。

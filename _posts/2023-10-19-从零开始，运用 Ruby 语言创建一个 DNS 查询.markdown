@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/24/155014kli69j43i021iwwl.jpg)
+![](/Asserts/Images/album/202310/24/155014kli69j43i021iwwl.jpg)
 
 
 大家好！前段时间我写了一篇关于“[如何用 Go 语言建立一个简易的 DNS 解析器](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/)”的帖子。
@@ -176,7 +176,7 @@ b96201000001000000000000076578616d706c6503636f6d0000010001
 （LCTT 译注：<ruby> 硬编码 <rt>  hardcode </rt></ruby> 指在软件实现上，将输出或输入的相关参数（例如：路径、输出的形式或格式）直接以**常量**的方式撰写在源代码中，而非在运行期间由外界指定的设置、资源、数据或格式做出适当回应。）
 
 
-那么：请求头是 12 个字节。那些个 12 字节到底意味着什么呢？如果你在 Wireshark 里看看（亦或者阅读 [RFC-1035](https://Asserts/Images/tracker.ietf.org/doc/html/rfc1035#section-4.1.1)），你就能理解：它是由 6 个 2 字节大小的数字串联在一起组成的。
+那么：请求头是 12 个字节。那些个 12 字节到底意味着什么呢？如果你在 Wireshark 里看看（亦或者阅读 [RFC-1035](https://datatracker.ietf.org/doc/html/rfc1035#section-4.1.1)），你就能理解：它是由 6 个 2 字节大小的数字串联在一起组成的。
 
 
 这六个数字分别对应查询 ID、标志，以及数据包内的问题计数、回答资源记录数、权威名称服务器记录数、附加资源记录数。
@@ -400,7 +400,7 @@ end
 * 而余下的 14 比特是一个整数。这种情况下这个整数是 `12`（`0x0c`），意思是“返回至数据包中的第 12 个字节处，使用在那里找的域名”
 
 
-如果你想阅读更多有关 DNS 域名压缩之类的内容。我找到了相关更容易让你理解这方面内容的文章： [关于 DNS RFC 的释义](https://Asserts/Images/tracker.ietf.org/doc/html/rfc1035#section-4.1.4)。
+如果你想阅读更多有关 DNS 域名压缩之类的内容。我找到了相关更容易让你理解这方面内容的文章： [关于 DNS RFC 的释义](https://datatracker.ietf.org/doc/html/rfc1035#section-4.1.4)。
 
 
 ### 步骤十：实现 DNS 域名压缩

@@ -15,7 +15,7 @@ tags:	[linuxcn,Syncthing]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/05/094211oy2dosttvoaseovk.jpg)
+![](/Asserts/Images/album/202003/05/094211oy2dosttvoaseovk.jpg)
 
 
 通常，我们有 [MEGA](https://itsfoss.com/install-mega-cloud-storage-linux/) 或 Dropbox 之类的云同步解决方案，以便在云上备份我们的文件，同时更易于共享。但是，如果要跨多个设备同步文件而不将其存储在云中怎么办？
@@ -27,7 +27,7 @@ tags:	[linuxcn,Syncthing]
 ### Syncthing：一个跨设备同步文件的开源工具
 
 
-![](/Asserts/Images//attachment/album/202003/05/094231y2ni52wbjnclv2wl.jpg)
+![](/Asserts/Images/album/202003/05/094231y2ni52wbjnclv2wl.jpg)
 
 
 Syncthing 可让你跨多个设备同步文件（包括对 Android 智能手机的支持）。它主要通过 Linux 上的 Web UI 进行工作，但也提供了 GUI（需要单独安装）。
@@ -42,7 +42,7 @@ Syncthing 可让你跨多个设备同步文件（包括对 Android 智能手机�
 如果你想要远程备份文件，那么你可能应该依靠云。
 
 
-![Syncthing GUI](/Asserts/Images//attachment/album/202003/05/094234w9zzb389yfillio4.png)
+![Syncthing GUI](/Asserts/Images/album/202003/05/094234w9zzb389yfillio4.png)
 
 
 考虑到所有因素，Syncthing 可以在很多方面派上用场。从技术上讲，你可以安全、私密地在多个系统上访问重要文件，而不必担心有人监视你的数据。
@@ -69,7 +69,7 @@ Syncthing 确实非常简单且易于理解。即使这样，如果你想使用�
 #### 跨平台支持
 
 
-![Syncthing on Android](/Asserts/Images//attachment/album/202003/05/094236u4fy9yd4xeh54aav.jpg)
+![Syncthing on Android](/Asserts/Images/album/202003/05/094236u4fy9yd4xeh54aav.jpg)
 
 
 作为开源解决方案，它支持 Windows、Linux 和 macOS。
@@ -81,7 +81,7 @@ Syncthing 确实非常简单且易于理解。即使这样，如果你想使用�
 #### 文件版本控制
 
 
-![Syncthing File Versioning](/Asserts/Images//attachment/album/202003/05/094243tr2lke22g8legxoe.jpg)
+![Syncthing File Versioning](/Asserts/Images/album/202003/05/094243tr2lke22g8legxoe.jpg)
 
 
 如果替换或删除了旧文件，那么 Syncthing 会利用各种[文件版本控制方法](https://docs.syncthing.net/users/versioning.html)来存档旧文件。
@@ -114,7 +114,7 @@ Syncthing 确实非常简单且易于理解。即使这样，如果你想使用�
 #### 其他功能
 
 
-![](/Asserts/Images//attachment/album/202003/05/094245fgpryrhr42yj28rr.jpg)
+![](/Asserts/Images/album/202003/05/094245fgpryrhr42yj28rr.jpg)
 
 
 当你探索这个工具时，你会注意到可以同步的文件夹数和可同步的设备数没有限制。

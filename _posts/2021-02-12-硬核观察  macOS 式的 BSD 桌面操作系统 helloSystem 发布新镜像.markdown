@@ -7,13 +7,13 @@ tags:	[linuxcn,BSD,CentOS,Fuchsia]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/15/122949ox77hlcdifdkx6r9.jpg)
+![](/Asserts/Images/album/202102/15/122949ox77hlcdifdkx6r9.jpg)
 
 
 ### macOS 式的 BSD 桌面操作系统 helloSystem 发布新镜像
 
 
-![](/Asserts/Images//attachment/album/202102/15/122952i6u4l6b9s6c6b1as.jpg)
+![](/Asserts/Images/album/202102/15/122952i6u4l6b9s6c6b1as.jpg)
 
 
 helloSystem 的口号是“为创作者提供一个简单、优雅、易用的桌面系统。基于FreeBSD。更少，但更好！” helloSystem 基于 FreeBSD 12.1 系统构建的，它的桌面实用程序是用 PyQt5 编写的。最近它发布了一个新的体验版的 [ISO 镜像](https://github.com/helloSystem/ISO "https://github.com/helloSystem/ISO")，从截图上看，这是一款看起来很舒服的桌面。
@@ -25,7 +25,7 @@ BSD 系列一直在桌面上乏善可陈，不过这款桌面似乎带来了新�
 ### Facebook 员工的 Fedora 桌面开始逐渐换用 CentOS Stream
 
 
-![](/Asserts/Images//attachment/album/202102/15/123011cdld99gdr63dmdgg.jpg)
+![](/Asserts/Images/album/202102/15/123011cdld99gdr63dmdgg.jpg)
 
 
 Facebook 在上周末的 FOSDEM 2021 虚拟会议上[介绍](https://fosdem.org/2021/schedule/event/desktoplinuxmgmtatfacebook/attachments/slides/4523/export/events/attachments/desktoplinuxmgmtatfacebook/slides/4523/FOSDEM_2021_Desktop_Linux_Management_at_Facebook.pdf "https://fosdem.org/2021/schedule/event/desktoplinuxmgmtatfacebook/attachments/slides/4523/export/events/attachments/desktoplinuxmgmtatfacebook/slides/4523/FOSDEM_2021_Desktop_Linux_Management_at_Facebook.pdf")了该公司内部桌面机的情况。
@@ -40,7 +40,7 @@ Facebook 内部在过去曾推荐 Ubuntu LTS 版本给他们的员工，但转�
 ### 谷歌希望可以不经修改直接在 Fuchsia 上运行 Android/Linux 应用程序
 
 
-![](/Asserts/Images//attachment/album/202102/15/123029yvv188nvnv7o9azn.jpg)
+![](/Asserts/Images/album/202102/15/123029yvv188nvnv7o9azn.jpg)
 
 
 谷歌开发并最近开源的 Fuchsia 操作系统不是基于 Linux 底层开发的操作系统。显然，对于一款从头开始构建的操作系统来说，初期最大的问题，就是应用生态匮乏。

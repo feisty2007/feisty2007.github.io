@@ -7,7 +7,7 @@ tags:	[linuxcn,SSH]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/25/102118u33grazpccrvxwdf.jpg)
+![](/Asserts/Images/album/202210/25/102118u33grazpccrvxwdf.jpg)
 
 
 
@@ -38,7 +38,7 @@ SSH 的全称是 “<ruby> 安全的 Shell <rt>  Secure Shell </rt></ruby>”，
 SSH 协议基于<ruby> 客户端-服务器 <rt>  server-client </rt></ruby>（CS）架构。“<ruby> 服务器 <rt>  Server </rt></ruby>”允许“<ruby> 客户端 <rt>  Client </rt></ruby>”通过通信通道进行连接。该信道是经过加密的，信息交换通过 SSH 公私钥进行管理。
 
 
-![Image credit: SSH](/Asserts/Images//attachment/album/202210/25/102121zsucshrqinghb4zw.png)
+![Image credit: SSH](/Asserts/Images/album/202210/25/102121zsucshrqinghb4zw.png)
 
 
 [OpenSSH](https://www.openssh.com/) 是在 Linux、BSD 和 Windows 系统上提供 SSH 功能的最流行的开源工具之一。
@@ -101,7 +101,7 @@ sudo apt install openssh-server
 
 ```
 
-![](/Asserts/Images//attachment/album/202210/25/102122lbaui9ua741m4o76.png)
+![](/Asserts/Images/album/202210/25/102122lbaui9ua741m4o76.png)
 
 
 #### 第二步：检查服务器状态
@@ -128,7 +128,7 @@ sudo systemctl status ssh
 你应该会看到这样的结果，其中 `active` 是高亮的。输入 `q` 退出该页面。
 
 
-![](/Asserts/Images//attachment/album/202210/25/102122pllfzy7yy5y227zl.png)
+![](/Asserts/Images/album/202210/25/102122pllfzy7yy5y227zl.png)
 
 
 如果你的结果中 SSH 服务没有运行，使用这个命令运行它：
@@ -188,7 +188,7 @@ ssh username@address
 如果你 [不知道 IP 地址](https://itsfoss.com/check-ip-address-ubuntu/)，可以在服务器的终端输入 `ip a` 查看结果。应该会看到这样的结果：
 
 
-![Using “ip a” to find the IP address](/Asserts/Images//attachment/album/202210/25/102123p5vv2mmn5l94gz50.png)
+![Using “ip a” to find the IP address](/Asserts/Images/album/202210/25/102123p5vv2mmn5l94gz50.png)
 
 
 可以看到我的 IP 地址是 `192.168.1.111`。让我们使用 `username@address` 格式进行连接。
@@ -203,19 +203,19 @@ ssh team@192.168.1.111
 这是你第一次连接到该 SSH 服务器，它会请求添加主机。输入 `yes` 并回车即可。
 
 
-![First time connecting to the server](/Asserts/Images//attachment/album/202210/25/102124t9vwtwva6hh9p5hq.png)
+![First time connecting to the server](/Asserts/Images/album/202210/25/102124t9vwtwva6hh9p5hq.png)
 
 
 SSH 会立即告诉你该主机已经被永久添加了，并要求你输入指定用户的密码，输入密码并再次按回车即可。
 
 
-![Host added, now type in the password](/Asserts/Images//attachment/album/202210/25/102124xpro252y5s2j22so.png)
+![Host added, now type in the password](/Asserts/Images/album/202210/25/102124xpro252y5s2j22so.png)
 
 
 瞧，你远程登录了你的 Ubuntu 系统！
 
 
-![Connected!](/Asserts/Images//attachment/album/202210/25/102125x3bzyv90j333byx3.png)
+![Connected!](/Asserts/Images/album/202210/25/102125x3bzyv90j333byx3.png)
 
 
 现在，你可以在远程服务器的终端里和寻常一样工作了。
@@ -227,7 +227,7 @@ SSH 会立即告诉你该主机已经被永久添加了，并要求你输入指�
 你只需要输入 `exit` 即可关闭连接，它会立马关闭不需要确认。
 
 
-![Closing the connection with “exit”](/Asserts/Images//attachment/album/202210/25/102126oidf7mxexk0bt6bb.png)
+![Closing the connection with “exit”](/Asserts/Images/album/202210/25/102126oidf7mxexk0bt6bb.png)
 
 
 ### 在 Ubuntu 中关闭并禁止 SSH

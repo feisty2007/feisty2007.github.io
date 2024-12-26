@@ -15,7 +15,7 @@ tags:	[linuxcn,Vim,Cream]
 > 
 
 
-![How to make Vim user-friendly with Cream](/Asserts/Images//attachment/album/201705/25/161055s6ewwhospwflorv6.png "How to make Vim user-friendly with Cream")
+![How to make Vim user-friendly with Cream](/Asserts/Images/album/201705/25/161055s6ewwhospwflorv6.png "How to make Vim user-friendly with Cream")
 
 
 大约 10 年前，我既使用 Emacs 进行文本编辑，也使用 Vim 进行文本编辑。说到底，我的确是一个热衷于 Emacs 的家伙。尽管 Emacs 在我的心里占据了很重要的地位，但我知道， Vim 也不赖。
@@ -42,7 +42,7 @@ tags:	[linuxcn,Vim,Cream]
 安装好 Cream 以后，你可以从应用菜单选择它（比如，**Applications**->**Cream**）或者在程序启动器中输入 `Cream`，从而启动 Cream 。
 
 
-![Cream’s main window](/Asserts/Images//attachment/album/201705/25/161056qipbe79nreitkttd.png "Cream’s main window")
+![Cream’s main window](/Asserts/Images/album/201705/25/161056qipbe79nreitkttd.png "Cream’s main window")
 
 
 ### Cream 的使用
@@ -60,7 +60,7 @@ Cream 并不是仅由菜单驱动。尽管编辑器的功能仅有单击或双�
 Cream 开始运行以后，打开一个文件，或者新建一个文件，然后就可以开始输入了。几个我向他们介绍过 Cream 的人说，虽然 Cream 保留了 Vim 的许多典型风格，但是 Cream 使用起来更加舒服。
 
 
-![Cream add-on for VIM in action](/Asserts/Images//attachment/album/201705/25/161057fvh3v3vo4kkku4zv.png "Cream add-on for VIM in action")
+![Cream add-on for VIM in action](/Asserts/Images/album/201705/25/161057fvh3v3vo4kkku4zv.png "Cream add-on for VIM in action")
 
 
 并不是说 Cream 是 Vim 的简化版，远远不是。事实上， Cream 保留了 Vim 的全部特性，同时，它还有[一系列其他有用的特性](http://cream.sourceforge.net/featurelist.html)。我发现的 Cream 的一些有用的特性包括：

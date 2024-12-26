@@ -7,10 +7,10 @@ tags:	[linuxcn,去中心化,Rust,互联网]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/27/164414vthmaxyff2swcspm.jpg)
+![](/Asserts/Images/album/202206/27/164414vthmaxyff2swcspm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/27/164424qaa3vp53oop5a4pa.jpg)
+![](/Asserts/Images/album/202206/27/164424qaa3vp53oop5a4pa.jpg)
 
 
 ### 互联网之父想要去中心化的互联网，但不要区块链
@@ -35,7 +35,7 @@ tags:	[linuxcn,去中心化,Rust,互联网]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/27/164446zhyyil75iz35jyxz.jpg)
+![](/Asserts/Images/album/202206/27/164446zhyyil75iz35jyxz.jpg)
 
 
 ### Rust 连续第七年成为开发者最喜欢的编程语言
@@ -60,7 +60,7 @@ Stack Overflow 发布了 2022 年的年度开发者调查报告，180 个国家�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/27/164501n11ppvg5vvwyi1y2.jpg)
+![](/Asserts/Images/album/202206/27/164501n11ppvg5vvwyi1y2.jpg)
 
 
 ### 一些互联网史前遗迹仍然活着

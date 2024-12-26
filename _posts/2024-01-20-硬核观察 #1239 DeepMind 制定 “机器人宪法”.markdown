@@ -7,10 +7,10 @@ tags:	[linuxcn,安卓,机器人,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/07/183407g701a03ll2am00m1.jpg)
+![](/Asserts/Images/album/202401/07/183407g701a03ll2am00m1.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/07/183419pvmsymjvzvj9y6z3.png)
+![](/Asserts/Images/album/202401/07/183419pvmsymjvzvj9y6z3.png)
 
 
 ### #1 DeepMind 制定 “机器人宪法”
@@ -38,7 +38,7 @@ DeepMind 机器人团队透露了三项新进展，称它们将帮助机器人�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/07/183438sz3mre9egkngzebr.png)
+![](/Asserts/Images/album/202401/07/183438sz3mre9egkngzebr.png)
 
 
 ### #2 ChatGPT 正试图取代安卓手机上的谷歌助手应用
@@ -66,7 +66,7 @@ DeepMind 机器人团队透露了三项新进展，称它们将帮助机器人�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/07/183454wwcignci2nri88on.png)
+![](/Asserts/Images/album/202401/07/183454wwcignci2nri88on.png)
 
 
 ### #3 《科学》期刊将采用人工智能技术检查图像欺诈行为

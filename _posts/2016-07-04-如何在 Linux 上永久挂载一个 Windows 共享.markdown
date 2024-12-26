@@ -15,7 +15,7 @@ tags:	[linuxcn,文件系统,共享,samba]
 > 
 
 
-![](/Asserts/Images//attachment/album/201607/15/201944lcecu6ue6x792sxa.jpg)
+![](/Asserts/Images/album/201607/15/201944lcecu6ue6x792sxa.jpg)
 
 
 *图片： Jack Wallen*

@@ -35,7 +35,7 @@ Ubuntu 18.04 版本已经发布，并得到各个社区的一致好评，因为 
 2. 安装所需时间取决于您的网络状况和安装的程序。
 
 
-![](/Asserts/Images//attachment/album/201805/27/071719gd2db2ddoddd2d2o.jpg)
+![](/Asserts/Images/album/201805/27/071719gd2db2ddoddd2d2o.jpg)
 
 
 ### zzupdate 是什么？

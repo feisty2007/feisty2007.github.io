@@ -13,7 +13,7 @@ tags:	[linuxcn,Samba]
 这篇文章也包括在加入域的 Linux 机器上如何使用 Samba4 域帐号来访问及挂载共享文件。
 
 
-![](/Asserts/Images//attachment/album/201704/16/102242qyzib8sf080foeez.jpg)
+![](/Asserts/Images/album/201704/16/102242qyzib8sf080foeez.jpg)
 
 
 ### 需求：
@@ -55,7 +55,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-![Create Samba Shared Directory](/Asserts/Images//attachment/album/201704/16/102256rn8nagrln8m5485z.png)
+![Create Samba Shared Directory](/Asserts/Images/album/201704/16/102256rn8nagrln8m5485z.png)
 
 
 *创建 Samba 共享目录*
@@ -81,7 +81,7 @@ read only = no
 
 ```
 
-![Configure Samba Shared Directory](/Asserts/Images//attachment/album/201704/16/102257jkzdsxmxrazsdkms.png)
+![Configure Samba Shared Directory](/Asserts/Images/album/201704/16/102257jkzdsxmxrazsdkms.png)
 
 
 *配置 Samba 共享目录*
@@ -118,7 +118,7 @@ read only = no
 
 ```
 
-![Access Samba Share Directory from Windows](/Asserts/Images//attachment/album/201704/16/102257s010egej07z1y0lo.png)
+![Access Samba Share Directory from Windows](/Asserts/Images/album/201704/16/102257s010egej07z1y0lo.png)
 
 
 *从 Windows 机器访问 Samba 共享目录*
@@ -127,7 +127,7 @@ read only = no
 5、右键单击共享文件，选择属性来设置权限。打开安全选项卡，依次修改域账号和组权限。使用高级选项来调整权限。
 
 
-![Configure Samba Share Directory Permissions](/Asserts/Images//attachment/album/201704/16/102258rg0aakfh30k001hp.png)
+![Configure Samba Share Directory Permissions](/Asserts/Images/album/201704/16/102258rg0aakfh30k001hp.png)
 
 
 *配置 Samba 共享目录权限*
@@ -136,7 +136,7 @@ read only = no
 可参考下面的截图来为指定 Samba AD DC 认证用户设置权限。
 
 
-![Manage Samba Share Directory User Permissions](/Asserts/Images//attachment/album/201704/16/102258v78wk5ouqzeq63qi.png)
+![Manage Samba Share Directory User Permissions](/Asserts/Images/album/201704/16/102258v78wk5ouqzeq63qi.png)
 
 
 *设置 Samba 共享目录用户权限*
@@ -148,19 +148,19 @@ read only = no
 找到共享目录，右键单击你想修改权限的目录，选择属性，打开安全选项卡。你可以在这里修改任何权限，就跟上图的修改共享文件夹权限的方法一样。
 
 
-![Connect to Samba Share Directory Machine](/Asserts/Images//attachment/album/201704/16/102258qtewjbyehuvcmw7m.png)
+![Connect to Samba Share Directory Machine](/Asserts/Images/album/201704/16/102258qtewjbyehuvcmw7m.png)
 
 
 *连接到 Samba 共享目录服务器*
 
 
-![Manage Samba Share Directory Properties](/Asserts/Images//attachment/album/201704/16/102259vjblo5o8mixxlzwl.png)
+![Manage Samba Share Directory Properties](/Asserts/Images/album/201704/16/102259vjblo5o8mixxlzwl.png)
 
 
 *管理 Samba 共享目录属性*
 
 
-![Assign Samba Share Directory Permissions to Users](/Asserts/Images//attachment/album/201704/16/102259pr98vwhjt6spuw51.png)
+![Assign Samba Share Directory Permissions to Users](/Asserts/Images/album/201704/16/102259pr98vwhjt6spuw51.png)
 
 
 *为域用户授予共享目录权限*
@@ -172,7 +172,7 @@ read only = no
 7、要想通过域组策略来挂载 Samba 共享的目录，你得先到一台[已安装了 RSAT 工具](/article-8097-1.html) 的服务器上，打开 AD DC 工具，右键单击域名，选择新建-->共享文件夹。
 
 
-![Map Samba Share Folder](/Asserts/Images//attachment/album/201704/16/102300cnyep2y2ynrqx3zy.png)
+![Map Samba Share Folder](/Asserts/Images/album/201704/16/102300cnyep2y2ynrqx3zy.png)
 
 
 *映射 Samba 共享文件夹*
@@ -181,7 +181,7 @@ read only = no
 8、为共享文件夹添加一个名字，然后输入共享文件夹的网络路径，如下图所示。完成后单击 OK 按钮，你就可以在右侧看到文件夹了。
 
 
-![Set Samba Shared Folder Name Location](/Asserts/Images//attachment/album/201704/16/102300l7ssc4tz6jz30icc.png)
+![Set Samba Shared Folder Name Location](/Asserts/Images/album/201704/16/102300l7ssc4tz6jz30icc.png)
 
 
 *设置 Samba 共享文件夹名称及路径*
@@ -193,7 +193,7 @@ read only = no
 在 GPM 编辑器界面，打开 GPM 编辑器，找到用户配置 --> 首选项 --> Windows 设置，然而右键单击驱动器映射，选择新建 --> 映射驱动。
 
 
-![Map Samba Share Folder in Windows](/Asserts/Images//attachment/album/201704/16/102300iwp0wereefero2ws.png)
+![Map Samba Share Folder in Windows](/Asserts/Images/album/201704/16/102300iwp0wereefero2ws.png)
 
 
 *在 Windows 机器上映射 Samba 共享文件夹*
@@ -202,7 +202,7 @@ read only = no
 10、通过单击右边的三个小点，在新窗口中查询并添加共享目录的网络位置，勾选重新连接复选框，为该目录添加一个标签，选择驱动盘符，然后单击 OK 按钮来保存和应用配置。
 
 
-![Configure Network Location for Samba Share Directory](/Asserts/Images//attachment/album/201704/16/102301l8fyrf291fwy6yz9.png)
+![Configure Network Location for Samba Share Directory](/Asserts/Images/album/201704/16/102301l8fyrf291fwy6yz9.png)
 
 
 *配置 Samba 共享目录的网络位置*
@@ -217,7 +217,7 @@ gpupdate /force
 
 ```
 
-![Apply GPO Changes](/Asserts/Images//attachment/album/201704/16/102301ebefbzrcymhy899b.png)
+![Apply GPO Changes](/Asserts/Images/album/201704/16/102301ebefbzrcymhy899b.png)
 
 
 *应用 GPO 更改*
@@ -229,7 +229,7 @@ gpupdate /force
 如果没有在命令行下强制应用组策略，你网络中的其它客户机需要重启或重新登录系统才可以看到共享目录。
 
 
-![Samba Shared Network Volume on Windows](/Asserts/Images//attachment/album/201704/16/102302nuvkzk1rvjyvt8c1.png)
+![Samba Shared Network Volume on Windows](/Asserts/Images/album/201704/16/102302nuvkzk1rvjyvt8c1.png)
 
 
 *Windows 机器上挂载的 Samba 网络磁盘*
@@ -261,7 +261,7 @@ $ smbclient –L \\adc1 –U%
 
 ```
 
-![List Samba Share Directory in Linux](/Asserts/Images//attachment/album/201704/16/102302uu0e26guggu4guz6.png)
+![List Samba Share Directory in Linux](/Asserts/Images/album/201704/16/102302uu0e26guggu4guz6.png)
 
 
 *在 Linux 机器上列出 Samba 共享目录*
@@ -279,7 +279,7 @@ $ sudo smbclient //adc/share_name -U domain_user
 在命令行下，你可以列出共享目录内容，下载或上传文件到共享目录，或者执行其它操作。使用 `?` 来查询所有可用的 smbclient 命令。
 
 
-![Connect Samba Share Directory in Linux](/Asserts/Images//attachment/album/201704/16/102303ktedd80y4xinatnp.png)
+![Connect Samba Share Directory in Linux](/Asserts/Images/album/201704/16/102303ktedd80y4xinatnp.png)
 
 
 *在 Linux 机器上连接 Samba 共享目录*
@@ -294,7 +294,7 @@ $ sudo mount //adc/share_name /mnt -o username=domain_user
 
 ```
 
-![Mount Samba Share Directory in Linux](/Asserts/Images//attachment/album/201704/16/102303t19i1e5yeeywsbjg.png)
+![Mount Samba Share Directory in Linux](/Asserts/Images/album/201704/16/102303t19i1e5yeeywsbjg.png)
 
 
 *在 Linux 机器上挂载 samba 共享目录*

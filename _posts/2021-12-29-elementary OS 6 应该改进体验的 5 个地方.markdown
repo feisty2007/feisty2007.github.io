@@ -15,7 +15,7 @@ tags:	[linuxcn,elementaryOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/27/114703ibmbzoqmbtdm663n.png)
+![](/Asserts/Images/album/202112/27/114703ibmbzoqmbtdm663n.png)
 
 
 [elementary OS 的 6.1 是最新的版本](https://news.itsfoss.com/elementary-os-6-1-release/)，它做了许多基本的改进，带来了一些新功能。
@@ -42,7 +42,7 @@ tags:	[linuxcn,elementaryOS]
 #### 1、没有内置的 Debian 软件包安装程序
 
 
-![](/Asserts/Images//attachment/album/202112/27/114703i77izd3au7gdgf6s.png)
+![](/Asserts/Images/album/202112/27/114703i77izd3au7gdgf6s.png)
 
 
 它是一个基于 Ubuntu 的发行版，但下载一个 deb 文件后才发现无法安装，还得让你寻找解决方案。
@@ -60,7 +60,7 @@ tags:	[linuxcn,elementaryOS]
 #### 2、Flathub 支持开箱即用
 
 
-![](/Asserts/Images//attachment/album/202112/27/114704lhncppszqpc33nnd.png)
+![](/Asserts/Images/album/202112/27/114704lhncppszqpc33nnd.png)
 
 
 Flatpak 优先的方法使安装软件更加安全和方便。然而，你不能通过 Flathub 安装 Flatpak 应用程序，除非你（使用终端）手动添加了第三方 Flatpak 仓库。
@@ -72,7 +72,7 @@ Flatpak 优先的方法使安装软件更加安全和方便。然而，你不能
 虽然提供第一方的体验，并且让用户能够在需要时启用第三方（Flathub）是件好事，但是否可以做些什么来轻松启用 Flathub 的支持，而无需去终端？（忽略 flatpak 的参考文件）
 
 
-![](/Asserts/Images//attachment/album/202112/27/114705pl1dfz3uzu8zs5lw.png)
+![](/Asserts/Images/album/202112/27/114705pl1dfz3uzu8zs5lw.png)
 
 
 好吧，我认为用一个快速切换开关来启用/禁用开箱即用的 Flathub 支持可以使事情变得更好。
@@ -84,7 +84,7 @@ Flatpak 优先的方法使安装软件更加安全和方便。然而，你不能
 #### 3、最小化按钮
 
 
-![](/Asserts/Images//attachment/album/202112/27/114706y9p25p611625ifzf.png)
+![](/Asserts/Images/album/202112/27/114706y9p25p611625ifzf.png)
 
 
 考虑到 elementary OS 没有像 Pop!\_OS 那样的自动平铺窗口功能，许多应用程序上缺少最小化按钮可能会让人觉得令人不适。
@@ -96,7 +96,7 @@ Flatpak 优先的方法使安装软件更加安全和方便。然而，你不能
 #### 4、没有系统托盘支持
 
 
-![](/Asserts/Images//attachment/album/202112/27/114707rxxpwnk8uuukesin.png)
+![](/Asserts/Images/album/202112/27/114707rxxpwnk8uuukesin.png)
 
 
 根据他们的设计选择，elementary OS 团队认为最好不要有系统托盘的支持（或者是我从 Reddit 的一些帖子中了解到的情况）。
@@ -114,7 +114,7 @@ Flatpak 优先的方法使安装软件更加安全和方便。然而，你不能
 #### 5、一个单独的 NVIDIA ISO
 
 
-![](/Asserts/Images//attachment/album/202112/27/114707urww2bh7xmmlmlrb.png)
+![](/Asserts/Images/album/202112/27/114707urww2bh7xmmlmlrb.png)
 
 
 单独的 NVIDIA ISO（或 Nvidia 显卡安装模式）比通过软件中心安装专有的 Nvidia 驱动程序要方便得多。

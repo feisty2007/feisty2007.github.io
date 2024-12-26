@@ -19,13 +19,13 @@ Nautilus-Open-Terminal 是一个让你随处都可以打开终端的nautilus插�
 如下图所示：
 
 
-![open-terminal-main](/Asserts/Images//attachment/album/201309/16/09560529gsy4511gyoz99y.png)
+![open-terminal-main](/Asserts/Images/album/201309/16/09560529gsy4511gyoz99y.png)
 
 
 现在，当你点击**Open in Terminal**菜单项后，系统将会打开一个终端，以你刚刚右键所点击的目录作为终端的当前目录。
 
 
-![open-terminal-1](/Asserts/Images//attachment/album/201309/16/095606nxxxuf4644n4446u.png) 
+![open-terminal-1](/Asserts/Images/album/201309/16/095606nxxxuf4644n4446u.png) 
 
 
 因此，使用这个插件之后，从GUI到命令行就是如此简单。

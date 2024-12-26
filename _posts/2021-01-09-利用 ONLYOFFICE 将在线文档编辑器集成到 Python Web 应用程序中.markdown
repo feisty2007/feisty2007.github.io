@@ -7,7 +7,7 @@ tags:	[linuxcn,ONLYOFFICE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202101/21/104928pv6l5gcjo8gmzb5l.jpg "Typist composing text in laptop")
+![](/Asserts/Images/album/202101/21/104928pv6l5gcjo8gmzb5l.jpg "Typist composing text in laptop")
 
 
 [ONLYOFFICE](https://www.onlyoffice.com/en/) 是根据 GNU AGPL v.3 许可证条款分发的开源协作办公套件。它包含三个用于文本文档、电子表格和演示文稿的编辑器，并具有以下功能:

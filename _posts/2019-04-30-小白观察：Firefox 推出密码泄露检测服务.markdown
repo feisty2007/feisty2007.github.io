@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/12/095936su7nj6uac484kc6u.png)
+![](/Asserts/Images/album/201904/12/095936su7nj6uac484kc6u.png)
 
 
 ### Big News
@@ -16,7 +16,7 @@ tags:	[linuxcn,Firefox]
 **Firefox 推出密码泄露检测服务**：Firefox 上线了新的服务 Firefox Monitor ，该服务能够查询你的密码是否出现在数据外泄事件中。
 
 
-![](/Asserts/Images//attachment/album/201904/12/101904j8j2cnnj7x8nzq7m.png)
+![](/Asserts/Images/album/201904/12/101904j8j2cnnj7x8nzq7m.png)
 
 
 

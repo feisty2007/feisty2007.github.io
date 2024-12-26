@@ -15,7 +15,7 @@ tags:	[linuxcn,Kodi]
 > 
 
 
-![Kodi 20.0 "Nexus" Update Includes Support for AV1 Video and Steam Deck Controller](/Asserts/Images//attachment/album/202302/02/101748zl120tmx6xu78un5.png)
+![Kodi 20.0 "Nexus" Update Includes Support for AV1 Video and Steam Deck Controller](/Asserts/Images/album/202302/02/101748zl120tmx6xu78un5.png)
 
 
 [Kodi](https://kodi.tv) 是 Kodi 基金会开发的跨平台开源媒体播放器，提供了大量功能。
@@ -42,7 +42,7 @@ tags:	[linuxcn,Kodi]
 * 多个修复和改进
 
 
-![kodi 20 nexus](/Asserts/Images//attachment/album/202302/02/101749zn41c4c3zz4mcn4m.jpg)
+![kodi 20 nexus](/Asserts/Images/album/202302/02/101749zn41c4c3zz4mcn4m.jpg)
 
 
 #### AV1 编解码支持

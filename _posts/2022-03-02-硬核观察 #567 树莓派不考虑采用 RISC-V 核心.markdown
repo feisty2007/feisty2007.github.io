@@ -7,10 +7,10 @@ tags:	[linuxcn,树莓派,RISC-V,开源,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/06/173001ngbf32vpfro6prp8.jpg)
+![](/Asserts/Images/album/202203/06/173001ngbf32vpfro6prp8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/06/173010ok878kj2dfq2ywdw.jpg)
+![](/Asserts/Images/album/202203/06/173010ok878kj2dfq2ywdw.jpg)
 
 
 ### 树莓派不考虑采用 RISC-V 核心
@@ -27,7 +27,7 @@ tags:	[linuxcn,树莓派,RISC-V,开源,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/06/173037tdc4dmq2bftudry4.jpg)
+![](/Asserts/Images/album/202203/06/173037tdc4dmq2bftudry4.jpg)
 
 
 ### Linux 基金会发布“第二次普查”报告
@@ -44,7 +44,7 @@ Linux 基金会与合作方联合进行了自由开源软件库的“<ruby> 第�
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/06/173054wx7ldh99jhpzu9qj.jpg)
+![](/Asserts/Images/album/202203/06/173054wx7ldh99jhpzu9qj.jpg)
 
 
 ### 超过一半的安全漏洞已经存在五年以上了

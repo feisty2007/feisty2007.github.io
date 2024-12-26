@@ -10,9 +10,9 @@ tags:	[linuxcn,]
 fromurl: ''
 id: 2655
 islctt: true
-largepic: /Asserts/Images//attachment/album/201403/08/222851fr94t5t9zr184tt5.png
+largepic: /Asserts/Images/album/201403/08/222851fr94t5t9zr184tt5.png
 permalink: /article-2655-1.html
-pic: /Asserts/Images//attachment/album/201403/08/222851fr94t5t9zr184tt5.png.thumb.jpg
+pic: /Asserts/Images/album/201403/08/222851fr94t5t9zr184tt5.png.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -43,7 +43,7 @@ updated: '2014-03-08 22:28:00'
 如果你选择了它,你的用户名会显示在Unity面板上,如果你没有选择,顶部面板不会显示用户名。
 
 
-![](/Asserts/Images//attachment/album/201403/08/222851fr94t5t9zr184tt5.png)
+![](/Asserts/Images/album/201403/08/222851fr94t5t9zr184tt5.png)
 
 
 这个选项很方便，比如，你想要截一张带有你用户名的桌面截图，你只要单击选项，不久之后你就可以通过禁用它来整理你的Unity面板而不必使用非默认的程序。

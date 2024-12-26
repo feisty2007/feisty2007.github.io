@@ -10,7 +10,7 @@ tags:	[linuxcn,Lighttpd]
 Lighttpd 是一款开源 Web 服务器软件。Lighttpd 安全快速，符合行业标准，适配性强并且针对高配置环境进行了优化。相对于其它的 Web 服务器而言，Lighttpd 占用内存更少；因其对 CPU 占用小和对处理速度的优化而在效率和速度方面从众多 Web 服务器中脱颖而出。而 Lighttpd 诸如 FastCGI、CGI、认证、输出压缩、URL 重写等高级功能更是那些面临性能压力的服务器的福音。
 
 
-![](/Asserts/Images//attachment/album/201607/07/095035jmprwmywkkw1w122.jpg)
+![](/Asserts/Images/album/201607/07/095035jmprwmywkkw1w122.jpg)
 
 
 以下便是我们在运行 Ubuntu 15.04 或 CentOS 7 Linux 发行版的机器上安装 Lighttpd Web 服务器的简要流程。
@@ -47,7 +47,7 @@ Lighttpd 是一款开源 Web 服务器软件。Lighttpd 安全快速，符合行
 
 ```
 
-![Install Lighttpd Centos](/Asserts/Images//attachment/album/201607/07/095043p57wz7d62z7w2qwb.png)
+![Install Lighttpd Centos](/Asserts/Images/album/201607/07/095043p57wz7d62z7w2qwb.png)
 
 
 **Ubuntu 15.04**
@@ -63,7 +63,7 @@ Ubuntu 15.04 官方仓库中包含了 Lighttpd，所以只需更新本地仓库�
 
 ```
 
-![Install lighttpd ubuntu](/Asserts/Images//attachment/album/201607/07/095044lxhuineeubb6tx7n.png)
+![Install lighttpd ubuntu](/Asserts/Images/album/201607/07/095044lxhuineeubb6tx7n.png)
 
 
 #### 从源代码安装 Lighttpd
@@ -186,7 +186,7 @@ success
 在将 80 端口设置为默认端口后，我们就可以直接访问 Lighttpd 的默认欢迎页了。我们需要根据运行 Lighttpd 的设备来设置浏览器的 IP 地址和域名。在本教程中，我们令浏览器访问 <http://lighttpd.linoxide.com/> ，同时将该子域名指向上述 IP 地址。如此一来，我们就可以在浏览器中看到如下的欢迎页面了。
 
 
-![Lighttpd Welcome Page](/Asserts/Images//attachment/album/201607/07/095044uxvy6hk7yqhkkvqv.png)
+![Lighttpd Welcome Page](/Asserts/Images/album/201607/07/095044uxvy6hk7yqhkkvqv.png)
 
 
 此外，我们可以将网站的文件添加到 webroot 目录下，并删除 Lighttpd 的默认索引文件，使我们的静态网站可以在互联网上访问。
@@ -369,7 +369,7 @@ Run `/etc/init.d/lighttpd` force-reload to enable changes
 现在，我们需根据路径 <http://lighttpd.linoxide.com/info.php> 下的 info.php 文件的 IP 地址或域名，来让我们的网页浏览器指向系统上运行的 Lighttpd。如果一切都按照以上说明进行，我们将看到如下图所示的 PHP 页面信息。
 
 
-![phpinfo lighttpd](/Asserts/Images//attachment/album/201607/07/095045uv6pcixzvjsxwvid.png)
+![phpinfo lighttpd](/Asserts/Images/album/201607/07/095045uv6pcixzvjsxwvid.png)
 
 
 ### 总结

@@ -7,7 +7,7 @@ tags:	[linuxcn,网卡,ip]
 ---
 
 
-![](/Asserts/Images//attachment/album/202004/29/214835m1ms3n00s6qbcycz.jpg)
+![](/Asserts/Images/album/202004/29/214835m1ms3n00s6qbcycz.jpg)
 
 
 默认情况下，在设置服务器时你会配置主网络接口。这是每个人所做的构建工作的一部分。有时出于各种原因，你可能需要配置额外的网络接口。

@@ -16,7 +16,7 @@ NetworkManager 可以用于以下类型的连接：Ethernet，VLANS，Bridges，
 可以用命令行工具 nmcli 来控制 NetworkManager。
 
 
-![](/Asserts/Images//attachment/album/201505/08/104619yi1ioj1xrokaxkrx.png)
+![](/Asserts/Images/album/201505/08/104619yi1ioj1xrokaxkrx.png)
 
 
 ### nmcli 用法
@@ -31,7 +31,7 @@ NetworkManager 可以用于以下类型的连接：Ethernet，VLANS，Bridges，
 我们可以通过 TAB 键补全命令，当你忘记这个命令的语法时只需要按下 TAB 就可以看到选项列表。
 
 
-![nmcli tab](/Asserts/Images//attachment/album/201505/08/104640bg3glmtt38uly36t.jpg)
+![nmcli tab](/Asserts/Images/album/201505/08/104640bg3glmtt38uly36t.jpg)
 
 
 使用 nmcli 的一些例子：
@@ -72,7 +72,7 @@ NetworkManager 可以用于以下类型的连接：Ethernet，VLANS，Bridges，
 列出 NetworkManager 识别出的设备列表及他们的状态。
 
 
-![nmcli general](/Asserts/Images//attachment/album/201505/08/104641ii7hckji22211144.jpg)
+![nmcli general](/Asserts/Images/album/201505/08/104641ii7hckji22211144.jpg)
 
 
 ### 启动/停止 网络接口
@@ -147,7 +147,7 @@ NetworkManager 可以用于以下类型的连接：Ethernet，VLANS，Bridges，
 
 ```
 
-![nmcli add static](/Asserts/Images//attachment/album/201505/08/104642xrzr5r49j5o6vv5e.jpg)
+![nmcli add static](/Asserts/Images/album/201505/08/104642xrzr5r49j5o6vv5e.jpg)
 
 
 ### 增加一个使用 DHCP 的新连接

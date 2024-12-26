@@ -7,7 +7,7 @@ tags:	[linuxcn,电子邮件列表,Electron,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/27/080225c9y88k7u3y3g02g9.jpg)
+![](/Asserts/Images/album/202008/27/080225c9y88k7u3y3g02g9.jpg)
 
 
 #### Linux 基金会考虑放弃采用电子邮件列表的 Linux 内核的贡献方式

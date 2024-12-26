@@ -7,7 +7,7 @@ tags:	[linuxcn,FreeBSD,MidnightBSD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202002/06/154114kk2ccfdfk7copmzt.jpg)
+![](/Asserts/Images/album/202002/06/154114kk2ccfdfk7copmzt.jpg)
 
 
 [FreeBSD](https://www.freebsd.org/) 是一个开源操作系统，衍生自著名的 <ruby> <a href="https://en.wikipedia.org/wiki/Berkeley_Software_Distribution">  伯克利软件套件 </a> <rt>  Berkeley Software Distribution </rt></ruby>（BSD）。FreeBSD 的第一个版本发布于 1993 年，并且仍然在继续发展。2007 年左右，Lucas Holt 想要利用 OpenStep（现在是 Cocoa）的 Objective-C 框架、widget 工具包和应用程序开发工具的 [GnuStep](https://en.wikipedia.org/wiki/GNUstep) 实现，来创建一个 FreeBSD 的分支。为此，他开始开发 MidnightBSD 桌面发行版。
@@ -28,7 +28,7 @@ MidnightBSD（以 Lucas 的猫 Midnight 命名）仍然在积极地（尽管缓�
 正如我所提到的，这是一个文本（ncurses）安装过程，因此在这里找不到可以用鼠标点击的地方。相反，你将使用你键盘的 `Tab` 键和箭头键。在你下载[最新的发布版本](http://www.midnightbsd.org/download/)后，将它刻录到一个 CD/DVD 或 USB 驱动器，并启动你的机器（或者在 [VirtualBox](https://www.virtualbox.org/) 中创建一个虚拟机）。安装程序将打开并给你三个选项（图 1）。使用你的键盘的箭头键选择 “Install”，并敲击回车键。
 
 
-![MidnightBSD installer](/Asserts/Images//attachment/album/202002/06/154118jzmprdj1zxrwogdx.jpg "MidnightBSD installer")
+![MidnightBSD installer](/Asserts/Images/album/202002/06/154118jzmprdj1zxrwogdx.jpg "MidnightBSD installer")
 
 
 *图 1: 启动 MidnightBSD 安装程序。*
@@ -48,7 +48,7 @@ MidnightBSD（以 Lucas 的猫 Midnight 命名）仍然在积极地（尽管缓�
 9. 添加用户（图 2）
 
 
-![Adding a user](/Asserts/Images//attachment/album/202002/06/154119puzbzieh20bcze9u.jpg "Adding a user")
+![Adding a user](/Asserts/Images/album/202002/06/154119puzbzieh20bcze9u.jpg "Adding a user")
 
 
 *图 2: 向系统添加一个用户。*
@@ -57,7 +57,7 @@ MidnightBSD（以 Lucas 的猫 Midnight 命名）仍然在积极地（尽管缓�
 在你向系统添加用户后，你将被进入到一个窗口中（图 3），在这里，你可以处理任何你可能忘记配置或你想重新配置的东西。如果你不需要作出任何更改，选择 “Exit”，然后你的配置就会被应用。
 
 
-![Applying your configurations](/Asserts/Images//attachment/album/202002/06/154120fxpq434rjgzk4zqt.jpg "Applying your configurations")
+![Applying your configurations](/Asserts/Images/album/202002/06/154120fxpq434rjgzk4zqt.jpg "Applying your configurations")
 
 
 *图 3: 应用你的配置。*
@@ -113,7 +113,7 @@ exec startxfce4
 保存并关闭这个文件。如果你现在发出命令 `startx`, Xfce 桌面环境将会启动。你应该会感到有点熟悉了吧（图 4）。
 
 
-![ Xfce](/Asserts/Images//attachment/album/202002/06/154121r7z7s42uuuuywzqc.jpg "Xfce")
+![ Xfce](/Asserts/Images/album/202002/06/154121r7z7s42uuuuywzqc.jpg "Xfce")
 
 
 *图 4: Xfce 桌面界面已准备好服务。*
@@ -152,7 +152,7 @@ svnlite co http://svn.midnightbsd.org/svn/mports/trunk mports
 在你完成这些后，你应该看到一个命名为 `~/mports` 的新目录。使用命令 `cd ~/.mports` 更改到这个目录。发出 `ls` 命令，然后你应该看到许多的类别（图 5）。
 
 
-![applications](/Asserts/Images//attachment/album/202002/06/154122h9jr8bdfglvgvvqb.jpg "applications")
+![applications](/Asserts/Images/album/202002/06/154122h9jr8bdfglvgvvqb.jpg "applications")
 
 
 *图 5: mport 现在可用的应用程序类别。*

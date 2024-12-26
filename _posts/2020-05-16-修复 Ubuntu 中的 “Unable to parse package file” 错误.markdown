@@ -37,7 +37,7 @@ E: Unable to parse package file /var/lib/apt/extended_states (1)
 ### 在基于 Ubuntu 和 Debian 的 Linux 发行版中处理 “Unable to parse package file” 错误
 
 
-![](/Asserts/Images//attachment/album/202005/13/162038ovbjb3vhv5hh5fh2.png)
+![](/Asserts/Images/album/202005/13/162038ovbjb3vhv5hh5fh2.png)
 
 
 以下是你需要做的。仔细查看 [Ubuntu](https://ubuntu.com/) 报错文件的名称和路径。

@@ -7,7 +7,7 @@ tags:	[linuxcn,WordPress,LFS,量子计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/03/131500rv5gumu1vzf0nf08.jpg)
+![](/Asserts/Images/album/202009/03/131500rv5gumu1vzf0nf08.jpg)
 
 
 #### 英国正在建造第一台商用量子计算机

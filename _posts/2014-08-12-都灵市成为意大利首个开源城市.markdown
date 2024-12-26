@@ -7,7 +7,7 @@ tags:	[linuxcn,开源城市]
 ---
 
 
-![](/Asserts/Images//attachment/album/201408/13/154311z096mgedhyhypdpm.jpg)
+![](/Asserts/Images/album/201408/13/154311z096mgedhyhypdpm.jpg)
 
 
 都灵当局决定采用开源软件，与 Microsoft 产品划清界限。此举为当地政府节约了大量经费。

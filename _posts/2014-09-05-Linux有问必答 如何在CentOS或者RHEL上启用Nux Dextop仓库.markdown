@@ -18,7 +18,7 @@ tags:	[linuxcn,RPM,Nux Dextop,仓库]
 [Nux Dextop](http://li.nux.ro/download/nux/dextop/)是一个面对CentOS、RHEL、ScientificLinux的含有许多流行的桌面和多媒体相关的包的第三方RPM仓库（比如：Ardour，Shutter等等）。目前，Nux Dextop桌面对CentOS和RHEL 6/7可用。
 
 
-![](/Asserts/Images//attachment/album/201409/23/220317wy5564bf9wev66gv.png)
+![](/Asserts/Images/album/201409/23/220317wy5564bf9wev66gv.png)
 
 
 要在CentOS或者RHEL上启用Nux Dextop，遵循下面的步骤。
@@ -57,7 +57,7 @@ $ yum repolist
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/23/220004j7uyf3oevmfze8ef.jpg)
+![](/Asserts/Images/album/201409/23/220004j7uyf3oevmfze8ef.jpg)
 
 
 ### 对于 Repoforge/RPMforge 用户
@@ -72,7 +72,7 @@ $ sudo vi /etc/yum.repos.d/nux-dextop.repo
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/23/220035z0nadhrgqop0zhrg.jpg)
+![](/Asserts/Images/album/201409/23/220035z0nadhrgqop0zhrg.jpg)
 
 
 无论何时当你从Nux Dextop仓库安装包时，显式地用下面的命令启用仓库。

@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 在本篇文章中，我们将讨论在 RHEL 7 中如何使用传统的工具来设置和配置本地系统存储，并介绍系统存储管理器（也称为 SSM），它将极大地简化上面的任务。
 
 
-![配置和加密系统存储](/Asserts/Images//attachment/album/201509/20/222535dftss9vstvvvz9hv.png)
+![配置和加密系统存储](/Asserts/Images/album/201509/20/222535dftss9vstvvvz9hv.png)
 
 
 *RHCSA: 配置和加密系统存储 – Part 6*
@@ -36,7 +36,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 实施上面的操作的最简单的方法是使用一个安装介质例如一个 RHEL 7 的 DVD 或 USB 安装盘以急救模式启动 RHEL（`Troubleshooting` → `Rescue a Red Hat Enterprise Linux system`），然后当让你选择一个选项来挂载现有的 Linux 安装时，选择“跳过”这个选项，接着你将看到一个命令行提示符，在其中你可以像下图显示的那样开始键入与在一个未被使用的物理设备上创建一个正常的分区时所用的相同的命令。
 
 
-![RHEL 7 急救模式](/Asserts/Images//attachment/album/201509/20/222536ga4rzdrd44clekut.png)
+![RHEL 7 急救模式](/Asserts/Images/album/201509/20/222536ga4rzdrd44clekut.png)
 
 
 *RHEL 7 急救模式*
@@ -54,7 +54,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 其中 `/dev/sdb` 是你将要创建新分区所在的设备；然后键入 `print` 来显示当前设备的分区表：
 
 
-![创建新的分区](/Asserts/Images//attachment/album/201509/20/222537fcm60znwl4ezbep0.png)
+![创建新的分区](/Asserts/Images/album/201509/20/222537fcm60znwl4ezbep0.png)
 
 
 *创建新的分区*
@@ -69,7 +69,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 在下面的例子中，我们将为设备设定一个标记，然后在 `/dev/sdb` 上创建一个主分区 `(p)`，它从设备的 0% 开始，并在 4000MB(4 GB) 处结束。
 
 
-![在 Linux 中设定分区名称](/Asserts/Images//attachment/album/201509/20/222537umuaaa11qas9cams.png)
+![在 Linux 中设定分区名称](/Asserts/Images/album/201509/20/222537umuaaa11qas9cams.png)
 
 
 *标记分区的名称*
@@ -85,7 +85,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 
 ```
 
-![在 Linux 中格式化分区](/Asserts/Images//attachment/album/201509/20/222538w4y4dyy4cbu66dn4.png)
+![在 Linux 中格式化分区](/Asserts/Images/album/201509/20/222538w4y4dyy4cbu66dn4.png)
 
 
 *格式化分区为 XFS 文件系统*
@@ -107,7 +107,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 
 ```
 
-![在 Linux 中移除分区](/Asserts/Images//attachment/album/201509/20/222539sdyyp6axrx06rrjv.png)
+![在 Linux 中移除分区](/Asserts/Images/album/201509/20/222539sdyyp6axrx06rrjv.png)
 
 
 *移除或删除分区*
@@ -122,7 +122,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 简单来说，你会发现下面的示意图对记住 LVM 的基础架构或许有用。
 
 
-![LVM 的基本架构](/Asserts/Images//attachment/album/201509/20/222541fqvz6iodih5u6vzv.png)
+![LVM 的基本架构](/Asserts/Images/album/201509/20/222541fqvz6iodih5u6vzv.png)
 
 
 *LVM 的基本架构*
@@ -147,7 +147,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 
 ```
 
-![创建新分区](/Asserts/Images//attachment/album/201509/20/222542csrwq4trr3el34ls.png)
+![创建新分区](/Asserts/Images/album/201509/20/222542csrwq4trr3el34ls.png)
 
 
 *创建新分区*
@@ -163,7 +163,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 
 ```
 
-![创建两个物理卷](/Asserts/Images//attachment/album/201509/20/222543h899swmaa0eawses.png)
+![创建两个物理卷](/Asserts/Images/album/201509/20/222543h899swmaa0eawses.png)
 
 
 *创建两个物理卷*
@@ -181,7 +181,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 
 ```
 
-![在 Linux 中创建卷组](/Asserts/Images//attachment/album/201509/20/222543t5a5ak905jvati7j.png)
+![在 Linux 中创建卷组](/Asserts/Images/album/201509/20/222543t5a5ak905jvati7j.png)
 
 
 *创建卷组*
@@ -201,7 +201,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 
 ```
 
-![在 LVM 中创建逻辑卷](/Asserts/Images//attachment/album/201509/20/222544d48cggn8mij969my.png)
+![在 LVM 中创建逻辑卷](/Asserts/Images/album/201509/20/222544d48cggn8mij969my.png)
 
 
 *创建逻辑卷*
@@ -289,7 +289,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 
 ```
 
-![检查有关物理卷、卷组或逻辑卷的信息](/Asserts/Images//attachment/album/201509/20/222546da31bc7eajfma367.png)
+![检查有关物理卷、卷组或逻辑卷的信息](/Asserts/Images/album/201509/20/222546da31bc7eajfma367.png)
 
 
 *检查有关物理卷、卷组或逻辑卷的信息*
@@ -310,7 +310,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 再次运行 `ssm list pool`，并记录 tecmint\_vg 中的剩余空间的大小：
 
 
-![查看卷的大小](/Asserts/Images//attachment/album/201509/20/222546cuavk7dkpbzld7dd.png)
+![查看卷的大小](/Asserts/Images/album/201509/20/222546cuavk7dkpbzld7dd.png)
 
 
 *查看卷的大小*
@@ -340,7 +340,7 @@ tags:	[linuxcn,RHCSA,分区,SSM,LVM]
 这个命令将返回一个提示，询问你是否确认删除卷组和它所包含的逻辑卷：
 
 
-![移除逻辑卷和卷组](/Asserts/Images//attachment/album/201509/20/222548i31xxwxwnpnveqq8.png)
+![移除逻辑卷和卷组](/Asserts/Images/album/201509/20/222548i31xxwxwnpnveqq8.png)
 
 
 *移除逻辑卷和卷组*
@@ -386,7 +386,7 @@ SSM 也给系统管理员提供了为新的或现存的卷加密的能力。首�
 在我们的例子中：
 
 
-![找到逻辑卷的 UUID](/Asserts/Images//attachment/album/201509/20/222549wxmfamamqv1gaawx.png)
+![找到逻辑卷的 UUID](/Asserts/Images/album/201509/20/222549wxmfamamqv1gaawx.png)
 
 
 *找到逻辑卷的 UUID*
@@ -420,7 +420,7 @@ homes UUID=92245af6-3f38-4e07-8dd8-787f4690d7ac none
 现在重启（`systemctl reboot`），则你将被要求为每个逻辑卷输入密码。随后，你可以通过检查相应的挂载点来确保挂载操作是否成功：
 
 
-![确保逻辑卷挂载点](/Asserts/Images//attachment/album/201509/20/222550nyirm2umiyeu4mdy.png)
+![确保逻辑卷挂载点](/Asserts/Images/album/201509/20/222550nyirm2umiyeu4mdy.png)
 
 
 *确保逻辑卷挂载点*

@@ -7,7 +7,7 @@ tags:	[linuxcn,sudo]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/28/001927x3ovk9y4cpt95nnk.png)
+![](/Asserts/Images/album/201902/28/001927x3ovk9y4cpt95nnk.png)
 
 
 如你所知，用户可以在 Ubuntu 系统上使用 sudo 权限执行任何管理任务。在 Linux 机器上创建新用户时，他们无法执行任何管理任务，直到你将其加入 `sudo` 组的成员。在这个简短的教程中，我们将介绍如何将普通用户添加到 `sudo` 组以及移除给定的权限，使其成为普通用户。

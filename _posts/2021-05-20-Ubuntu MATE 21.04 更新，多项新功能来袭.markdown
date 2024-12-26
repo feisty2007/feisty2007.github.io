@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu]
 > 
 
 
-![](/Asserts/Images//attachment/album/202105/01/105355ccrggizcqg52zcgc.png)
+![](/Asserts/Images/album/202105/01/105355ccrggizcqg52zcgc.png)
 
 
 自从 18.10 发行版以来，Yaru 一直都是 Ubuntu 的默认用户桌面，今年，Yaru 团队与Canonical Design 和 Ubuntu 桌面团队携手合作，为 Ubuntu MATE 21.04 创建了新的外观界面。
@@ -36,7 +36,7 @@ tags:	[linuxcn,Ubuntu]
 #### Avatana 指示器
 
 
-![](/Asserts/Images//attachment/album/202105/01/105357sl2m263axdzdzdnp.jpg)
+![](/Asserts/Images/album/202105/01/105357sl2m263axdzdzdnp.jpg)
 
 
 这是一个控制面板指示器（也称为系统托盘）的动作、布局和行为的系统。现在，你可以从控制中心更改 Ayatana 指示器的设置。
@@ -83,7 +83,7 @@ LibreOffice 在 MATE 上会有新的默认桌面图标，字体对比度也得�
 #### Mutiny 布局的新变化
 
 
-![应用了深色主题的 Mutiny 布局](/Asserts/Images//attachment/album/202105/01/105357sl2m263axdzdzdnp.jpg)
+![应用了深色主题的 Mutiny 布局](/Asserts/Images/album/202105/01/105357sl2m263axdzdzdnp.jpg)
 
 
 Mutiny 布局模仿了 Unity 的桌面布局。删除了 MATE 软件坞小应用，并且对 Mutiny 布局进行了优化以使用 Plank。Plank 会被系统自动应用主题。这是通过 Mate Tweak 切换到 Mutiny 布局完成的。Plank 的深色和浅色 Yaru 主题都包含在内。

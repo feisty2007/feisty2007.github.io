@@ -15,7 +15,7 @@ tags:	[linuxcn,Manjaro]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/29/135037kg7ka5ksx6ak37pp.png)
+![](/Asserts/Images/album/202212/29/135037kg7ka5ksx6ak37pp.png)
 
 
 Manjaro Linux 是一个基于 Arch Linux 的滚动发布发行版，专注于提供用户友好和无障碍体验。
@@ -30,7 +30,7 @@ Manjaro Linux 是一个基于 Arch Linux 的滚动发布发行版，专注于提
 ### Manjaro 22 “Sikaris” 有什么新内容？
 
 
-![](/Asserts/Images//attachment/album/202212/29/135038vlcmlhob5dhxod9v.png)
+![](/Asserts/Images/album/202212/29/135038vlcmlhob5dhxod9v.png)
 
 
 Sikaris 版本带来了许多改进，一些值得注意的包括：
@@ -54,7 +54,7 @@ Sikaris 版本带来了许多改进，一些值得注意的包括：
 他们还更新了他们的 “<ruby> 布局切换器 <rt>  Layouts Switcher </rt></ruby>” 应用程序，包括各种改进和修复。
 
 
-![](/Asserts/Images//attachment/album/202212/29/135039v42m2524q4m4bb2m.png)
+![](/Asserts/Images/album/202212/29/135039v42m2524q4m4bb2m.png)
 
 
 此外，你可以创建你的动态壁纸并使用 [Gradience](https://github.com/GradienceTeam/Gradience) 来定制你的主题。
@@ -63,7 +63,7 @@ Sikaris 版本带来了许多改进，一些值得注意的包括：
 **对于 Manjaro KDE：** “Sikaris” 版本采用了最新的 Plasma 5.26 桌面环境，具有许多改进，如动画壁纸、新的小工具，以及 Plasma 大屏幕的改进。
 
 
-![](/Asserts/Images//attachment/album/202212/29/135040vi6g2156ihqiy9i3.png)
+![](/Asserts/Images/album/202212/29/135040vi6g2156ihqiy9i3.png)
 
 
 还有一些其它的调整，允许壁纸根据系统的主题来改变。
@@ -81,7 +81,7 @@ Sikaris 版本带来了许多改进，一些值得注意的包括：
 面板也被更新了，允许最大化的应用程序填满面板后面的区域，而且面板的长度现在是以像素而不是百分比计算的。
 
 
-![](/Asserts/Images//attachment/album/202212/29/135041c4m1joiztqqi4qb4.png)
+![](/Asserts/Images/album/202212/29/135041c4m1joiztqqi4qb4.png)
 
 
 此外，“<ruby> 控制中心 <rt>  Control Center </rt></ruby>”现在将所有用于管理系统的桌面模块集中到一个易于使用的窗口。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux 发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/05/143612dml7eizi0vh170v7.jpg)
+![](/Asserts/Images/album/202205/05/143612dml7eizi0vh170v7.jpg)
 
 
 
@@ -53,7 +53,7 @@ tags:	[linuxcn,Linux 发行版]
 #### 1、Fedora 工作站
 
 
-![Fedora 35 Workstation](/Asserts/Images//attachment/album/202205/05/143638xxttws7vbeevxvxv.jpg)
+![Fedora 35 Workstation](/Asserts/Images/album/202205/05/143638xxttws7vbeevxvxv.jpg)
 
 
 在这 10 款 Linux 发行版当中，最优秀的可能就要数 Fedora Linux 了。Fedora 默认的工作站版本精选了一些软件包，为用户带来真正的 GNOME 桌面体验。
@@ -82,7 +82,7 @@ Fedora Linux 支持 Snap 和 Flatpak，使用起来会更加灵活方便。你�
 #### 2、Ubuntu Linux
 
 
-![Ubuntu Desktop is a perfect Linux Distribution for Programmers.](/Asserts/Images//attachment/album/202205/05/143639oeqgc7y67m6j6yby.jpg)
+![Ubuntu Desktop is a perfect Linux Distribution for Programmers.](/Asserts/Images/album/202205/05/143639oeqgc7y67m6j6yby.jpg)
 
 
 在今天，无论是服务器还是个人电脑，使用最为广泛的发行版当属 Ubuntu Linux。Ubuntu 提供长期支持版本，每个长期支持版本官方提供五年的支持（外加五年的维护支持），并且每年为高级用户提供两个短期版本。
@@ -171,7 +171,7 @@ Manjaro Linux 基于 Arch Linux，不过安装起来更容易一些。Manjaro Li
 Pop OS（即 Pop!\_OS）由电脑制造商 System76 针对其系列硬件开发，是一款基于 Ubuntu 的自由开源的发行版。发行周期与 Ubuntu 保持同步，并为用户提供了额外的调整工具和软件包。
 
 
-![Pop OS 21.10 Desktop](/Asserts/Images//attachment/album/202205/05/143639fyr5pt6j5zrj66br.jpg)
+![Pop OS 21.10 Desktop](/Asserts/Images/album/202205/05/143639fyr5pt6j5zrj66br.jpg)
 
 
 Pop OS 基于 Ubuntu，默认支持多种程序语言，所以非常适合程序员使用。Pop OS 的软件中心非常出色，设有开发软件专区，深受计算机科学家和程序员青睐。

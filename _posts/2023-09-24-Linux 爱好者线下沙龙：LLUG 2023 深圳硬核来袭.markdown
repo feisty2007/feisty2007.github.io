@@ -7,7 +7,7 @@ tags:	[linuxcn,LLUG]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/18/151703dr7r1rr1sllmsw3z.jpg)
+![](/Asserts/Images/album/202309/18/151703dr7r1rr1sllmsw3z.jpg)
 
 
 经历过 [6 月北京场](/article-15929-1.html)、[7 月上海场](/article-16052-1.html)，一个月的休整之后，这次 LLUG 来到大陆的南端，美丽的鹏城。
@@ -44,7 +44,7 @@ tags:	[linuxcn,LLUG]
 #### 《简单聊聊 BPF》
 
 
-![](/Asserts/Images//attachment/album/202309/18/145401axxr9mem9bfr5rmf.jpg)
+![](/Asserts/Images/album/202309/18/145401axxr9mem9bfr5rmf.jpg)
 
 
 *Locez，Linux 中国翻译组（LCTT）核心译者、开发者*
@@ -56,7 +56,7 @@ tags:	[linuxcn,LLUG]
 #### 《coolbpf 在阿里云应用实践》
 
 
-![](/Asserts/Images//attachment/album/202309/18/145409g2zz7q6rdrgh3zdg.jpg)
+![](/Asserts/Images/album/202309/18/145409g2zz7q6rdrgh3zdg.jpg)
 
 
 *廖肇燕，龙蜥社区 eBPF 技术探索 SIG Maintainer*
@@ -68,7 +68,7 @@ tags:	[linuxcn,LLUG]
 #### 《如何高效参与开源》
 
 
-![](/Asserts/Images//attachment/album/202309/18/145415gaezeh3hoaezjsee.jpg)
+![](/Asserts/Images/album/202309/18/145415gaezeh3hoaezjsee.jpg)
 
 
 *老王（wxy），Linux 中国技术社区创始人*
@@ -86,7 +86,7 @@ tags:	[linuxcn,LLUG]
 上海场闪电演讲照片
 
 
-![](/Asserts/Images//attachment/album/202309/18/145429qi1bf5bd9b5fy6vb.jpg)![](/Asserts/Images//attachment/album/202309/18/145435ylj6dgw5wd6wj81l.jpg) 
+![](/Asserts/Images/album/202309/18/145429qi1bf5bd9b5fy6vb.jpg)![](/Asserts/Images/album/202309/18/145435ylj6dgw5wd6wj81l.jpg) 
 
 
 ### 活动地点及到达信息
@@ -95,7 +95,7 @@ tags:	[linuxcn,LLUG]
 南山区科苑南路3331号 深圳阿里中心（由于阿里中心需要登记才能进入，请务必填写表单报名。现场直接空降可能是进不来的哦～）
 
 
-![](/Asserts/Images//attachment/album/202309/18/145754hz3j693fuflg6106.jpg)
+![](/Asserts/Images/album/202309/18/145754hz3j693fuflg6106.jpg)
 
 
 抵达方式：

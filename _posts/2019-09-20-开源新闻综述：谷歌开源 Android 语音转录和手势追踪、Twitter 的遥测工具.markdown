@@ -15,7 +15,7 @@ tags:	[linuxcn,语音识别]
 > 
 
 
-![Weekly news roundup with TV](/Asserts/Images//attachment/album/201909/01/105129ynlzk0yvrr66fr6v.png "Weekly news roundup with TV")
+![Weekly news roundup with TV](/Asserts/Images/album/201909/01/105129ynlzk0yvrr66fr6v.png "Weekly news roundup with TV")
 
 
 在本期的开源新闻综述中，我们来看看谷歌发布的两个开源软件、Twitter 的最新可观测性工具、动漫工作室对 Blender 的采用在增多等等新闻！

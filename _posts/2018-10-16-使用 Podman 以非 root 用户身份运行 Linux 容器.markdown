@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/26/082845qyjxxcmccjjm6cn0.jpg)
+![](/Asserts/Images/album/201810/26/082845qyjxxcmccjjm6cn0.jpg)
 
 
 Linux 容器是由 Linux 内核所提供的具有特定隔离功能的进程 —— 包括文件系统、进程和网络的隔离。容器有助于实现可移植性 —— 应用可以在容器镜像中与其依赖项一起分发，并可在几乎任何有容器运行时环境的 Linux 系统上运行。

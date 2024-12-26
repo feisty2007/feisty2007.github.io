@@ -7,7 +7,7 @@ tags:	[linuxcn,Gnoppix,Kali]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/07/142102osbjkjlzknhkhkk7.jpg)
+![](/Asserts/Images/album/202212/07/142102osbjkjlzknhkhkk7.jpg)
 
 
 
@@ -18,7 +18,7 @@ tags:	[linuxcn,Gnoppix,Kali]
 > 
 
 
-![Gnoppix 22.12桌面](/Asserts/Images//attachment/album/202212/07/142102a93tzx6tii2etx1q.jpg)
+![Gnoppix 22.12桌面](/Asserts/Images/album/202212/07/142102a93tzx6tii2etx1q.jpg)
 
 
 作为传统的现场 CD 发行版 Knoppix 项目的继承者，[Gnoppix Linux](https://www.gnoppix.com/) 是专门为渗透测试和反向工程而设计的。它为网页应用安全和数字权利保护进行了优化。除了对安全的关注，Gnoppix 也可以作为一个普通的桌面操作系统使用。它是一个滚动的版本，经常收到更新和新功能。
@@ -42,7 +42,7 @@ Gnoppix 22.12 增加了 GIMP 图像编辑器、Deluge & Transmission、Clapper �
 此外，所有的 GNOME 原生软件包都被升级到了 43.2 版本，同时团队开始着手开发 44 版本，该版本将于 2023 年 2 月发布。
 
 
-![GNOME 43.2 工作区视图](/Asserts/Images//attachment/album/202212/07/142102rfbf0ll64pjpr4np.jpg)
+![GNOME 43.2 工作区视图](/Asserts/Images/album/202212/07/142102rfbf0ll64pjpr4np.jpg)
 
 
 其他关键组件和应用程序包括以下内容：

@@ -13,7 +13,7 @@ tags:	[linuxcn,cp]
 在本篇中，我们会用一个简单的方法在 Linux 中用一个命令来将目录复制到多个文件夹中。
 
 
-![](/Asserts/Images//attachment/album/201612/17/151005k2142h0wv2vahe00.jpg)
+![](/Asserts/Images/album/201612/17/151005k2142h0wv2vahe00.jpg)
 
 
 在 Linux 中，[cp 命令](http://www.tecmint.com/advanced-copy-command-shows-progress-bar-while-copying-files/)常被用于从一个文件夹中复制文件到另一个文件夹中，最简单的语法如下：
@@ -38,7 +38,7 @@ tags:	[linuxcn,cp]
 
 ```
 
-![Copy Files to Multiple Directories](/Asserts/Images//attachment/album/201612/17/151017j3gl2gjewwiez7gg.png)
+![Copy Files to Multiple Directories](/Asserts/Images/album/201612/17/151017j3gl2gjewwiez7gg.png)
 
 
 *复制文件到多个文件夹中*
@@ -64,7 +64,7 @@ tags:	[linuxcn,cp]
 3. `-v` – 启用详细模式来显示更多复制细节。
 
 
-![Copy File to Multiple Locations in Linux](/Asserts/Images//attachment/album/201612/17/151021auuxxnpmo9v95e5n.png)
+![Copy File to Multiple Locations in Linux](/Asserts/Images/album/201612/17/151021auuxxnpmo9v95e5n.png)
 
 
 *在 Linux 中复制文件到多个位置中*
@@ -89,7 +89,7 @@ $ man xargs
 ---
 
 
-![](/Asserts/Images//attachment/album/201612/17/151022hzscclmuuud7juks.jpg)
+![](/Asserts/Images/album/201612/17/151022hzscclmuuud7juks.jpg)
 
 
 作者简介：

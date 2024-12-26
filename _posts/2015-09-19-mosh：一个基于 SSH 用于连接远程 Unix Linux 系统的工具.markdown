@@ -10,7 +10,7 @@ tags:	[linuxcn,Mosh,ssh]
 Mosh 表示<ruby> 移动 Shell <rp>  （ </rp> <rt>  Mobile Shell </rt> <rp>  ） </rp></ruby>，是一个用于从客户端跨互联网连接远程服务器的命令行工具。它能用于 SSH 连接，但是比 Secure Shell 功能更多。它是一个类似于 SSH 而带有更多功能的应用。程序最初由 Keith Winstein 编写，用于类 Unix 的操作系统中，发布于GNU GPL v3协议下。
 
 
-![Mosh Shell SSH Client](/Asserts/Images//attachment/album/201509/21/221904yj1hcj1ccipoyjpw.png)
+![Mosh Shell SSH Client](/Asserts/Images/album/201509/21/221904yj1hcj1ccipoyjpw.png)
 
 
 *Mosh Shell SSH 客户端*
@@ -76,7 +76,7 @@ $ mosh root@192.168.0.150
 
 ```
 
-![Mosh Shell Remote Connection](/Asserts/Images//attachment/album/201509/21/221905etj22azl76w26nrn.png)
+![Mosh Shell Remote Connection](/Asserts/Images/album/201509/21/221905etj22azl76w26nrn.png)
 
 
 *mosh远程连接*
@@ -115,7 +115,7 @@ $ mosh --version
 
 ```
 
-![Check Mosh Version](/Asserts/Images//attachment/album/201509/21/221906ivwcvpv8bfzf68zc.png)
+![Check Mosh Version](/Asserts/Images/album/201509/21/221906ivwcvpv8bfzf68zc.png)
 
 
 *检查mosh版本*
@@ -139,7 +139,7 @@ $ mosh --help
 
 ```
 
-![Mosh Shell Options](/Asserts/Images//attachment/album/201509/21/221907wk1bnje0gld7i1pg.png)
+![Mosh Shell Options](/Asserts/Images/album/201509/21/221907wk1bnje0gld7i1pg.png)
 
 
 *Mosh 选项*

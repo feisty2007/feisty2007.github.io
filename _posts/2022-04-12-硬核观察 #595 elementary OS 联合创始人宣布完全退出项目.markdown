@@ -7,10 +7,10 @@ tags:	[linuxcn,Wi-Fi,Rust,elementary OS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/03/172716wn1n8yuzplbsns4l.jpg)
+![](/Asserts/Images/album/202204/03/172716wn1n8yuzplbsns4l.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/03/172732torz6gauzaeffg7e.jpg)
+![](/Asserts/Images/album/202204/03/172732torz6gauzaeffg7e.jpg)
 
 
 ### elementary OS 联合创始人宣布完全退出项目
@@ -27,7 +27,7 @@ tags:	[linuxcn,Wi-Fi,Rust,elementary OS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/03/172745fc0caannfsnwd0nt.jpg)
+![](/Asserts/Images/album/202204/03/172745fc0caannfsnwd0nt.jpg)
 
 
 ### 蹭网导致四名原住民死亡
@@ -44,7 +44,7 @@ tags:	[linuxcn,Wi-Fi,Rust,elementary OS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/03/172803bzt3rgwl77z7p7p3.jpg)
+![](/Asserts/Images/album/202204/03/172803bzt3rgwl77z7p7p3.jpg)
 
 
 ### 基于 GCC 的 Rust 编译器实现“自举”

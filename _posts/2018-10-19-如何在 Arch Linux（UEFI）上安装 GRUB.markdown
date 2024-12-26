@@ -7,7 +7,7 @@ tags:	[linuxcn,UEFI,GRUB]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/22/221532acfzid5orlqi446r.jpg)
+![](/Asserts/Images/album/201810/22/221532acfzid5orlqi446r.jpg)
 
 
 前段时间，我写了一篇在安装 Windows 后在 Arch Linux 上[如何重新安装 Grub](http://fasterland.net/reinstall-grub-arch-linux.html)的教程。

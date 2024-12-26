@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/202002/02/130233vgf7cfhh3fki7tlf.jpg)
+![](/Asserts/Images/album/202002/02/130233vgf7cfhh3fki7tlf.jpg)
 
 
 “Linux” 小程序是 Linux 中国在 2019 年 2 月（恰恰是去年春节）发布的小程序，该小程序采用众包模式，对著名的 TLDR 项目中的 Linux 命令示例进行了翻译，并通过微信小程序的形式展现。在 2020 年的春节，我们面向更多的 PC 端用户，开放了 Web 版的 Linux 命令查询。Web 版和小程序版数据同步，让你在使用桌面计算机时也可以进行命令查询。
@@ -31,10 +31,10 @@ Linux 中国曾在过去的一年开发和运行了一个中国版 TL;DR 客户�
 在进行项目开发时，先对项目进行了基本的 UI 设计：
 
 
-![主页](/Asserts/Images//attachment/album/202002/02/130234xea0cpn70sneldma.png)
+![主页](/Asserts/Images/album/202002/02/130234xea0cpn70sneldma.png)
 
 
-![详情页](/Asserts/Images//attachment/album/202002/02/130235tsjzejvwj6efswj7.png)
+![详情页](/Asserts/Images/album/202002/02/130235tsjzejvwj6efswj7.png)
 
 
 这里用到的是 [balsamiq](https://balsamiq.com/index.html) 的手绘线框图来完成产品设计，以避免我个人过度追求完美，而让产品延期迟迟不能上线的问题（这样的事情在历史上发生了非常多次）
@@ -92,7 +92,7 @@ yarn serve
 随即，可以在浏览器中访问 localhost:8080 查看项目：
 
 
-![预览](/Asserts/Images//attachment/album/202002/02/130235qg3ehgrlrgjeggrz.png)
+![预览](/Asserts/Images/album/202002/02/130235qg3ehgrlrgjeggrz.png)
 
 
 
@@ -120,13 +120,13 @@ vue add router
 执行过程中，会问你是否需要启用 History Mode，根据需要选取，我使用的是 History Mode。
 
 
-![](/Asserts/Images//attachment/album/202002/02/130236n4x5lrc5x624xxwo.png)
+![](/Asserts/Images/album/202002/02/130236n4x5lrc5x624xxwo.png)
 
 
 设置完成以后，保存并重启 Vue 的开发服务器，你会在预览中看到 Router 添加的 “Home” 和 “About”。
 
 
-![](/Asserts/Images//attachment/album/202002/02/130237teds9efzyx4ncely.png)
+![](/Asserts/Images/album/202002/02/130237teds9efzyx4ncely.png)
 
 
 ### 安装 Vuetify.js
@@ -143,13 +143,13 @@ vue add vuetify
 会问你选择那种预设，直接使用 Default 即可。
 
 
-![](/Asserts/Images//attachment/album/202002/02/130238jgxj68jbjd605dw6.png)
+![](/Asserts/Images/album/202002/02/130238jgxj68jbjd605dw6.png)
 
 
 保存并重启开发服务器，你会看到这样的界面，则说明配置完成。
 
 
-![](/Asserts/Images//attachment/album/202002/02/130238np9lqnoon3p9cci9.png)
+![](/Asserts/Images/album/202002/02/130238np9lqnoon3p9cci9.png)
 
 
 ### 部署测试应用
@@ -161,7 +161,7 @@ vue add vuetify
 这里项目的开发我并没有使用云开发自己的 Web 托管 （因为我们不是按量付费套餐，所以没有办法开启），而是使用了 Now.sh 的，这里就不再过多赘述。
 
 
-![](/Asserts/Images//attachment/album/202002/02/130239eknkl0f9nx0ak8k0.png)
+![](/Asserts/Images/album/202002/02/130239eknkl0f9nx0ak8k0.png)
 
 
 ### 引入云开发 SDK

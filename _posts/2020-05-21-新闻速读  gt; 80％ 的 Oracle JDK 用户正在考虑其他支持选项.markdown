@@ -7,7 +7,7 @@ tags:	[linuxcn,JDK,GCC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/26/115305oew19j3b1b23u3le.jpg)
+![](/Asserts/Images/album/202005/26/115305oew19j3b1b23u3le.jpg)
 
 
 #### 80％ 的 Oracle JDK 用户正在考虑其他支持选项

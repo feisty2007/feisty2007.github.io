@@ -10,7 +10,7 @@ tags:	[linuxcn,存储,iSCSI]
 **iSCSI** 是一种块级别的协议，用于通过TCP/IP网络共享**原始存储设备**，可以用已经存在的IP和以太网如网卡、交换机、路由器等通过iSCSI协议共享和访问存储。iSCSI target是一种由远程iSCSI服务器（target）提供的远程硬盘。
 
 
-![Install iSCSI Target in Linux](/Asserts/Images//attachment/album/201503/02/142405cn0z3sr7bbbu77i3.jpg)
+![Install iSCSI Target in Linux](/Asserts/Images/album/201503/02/142405cn0z3sr7bbbu77i3.jpg)
 
 
 *在Linux中安装iSCSI Target*
@@ -94,7 +94,7 @@ scsi-target-utils.x86_64 : The SCSI target daemon and utility programs
 
 ```
 
-![Install iSCSI Utils](/Asserts/Images//attachment/album/201503/02/142406e4vexvl2aqxayjja.jpg)
+![Install iSCSI Utils](/Asserts/Images/album/201503/02/142406e4vexvl2aqxayjja.jpg)
 
 
 *安装iSCSI工具*
@@ -109,7 +109,7 @@ scsi-target-utils.x86_64 : The SCSI target daemon and utility programs
 
 ```
 
-![List All iSCSI Files](/Asserts/Images//attachment/album/201503/02/142407rkv6v1ev168k12kk.jpg)
+![List All iSCSI Files](/Asserts/Images/album/201503/02/142407rkv6v1ev168k12kk.jpg)
 
 
 *列出所有的iSCSI包里面的文件*
@@ -125,7 +125,7 @@ scsi-target-utils.x86_64 : The SCSI target daemon and utility programs
 
 ```
 
-![Start iSCSI Service](/Asserts/Images//attachment/album/201503/02/142408vl04o120l2cyzz50.jpg)
+![Start iSCSI Service](/Asserts/Images/album/201503/02/142408vl04o120l2cyzz50.jpg)
 
 
 *启动iSCSI服务*
@@ -149,7 +149,7 @@ scsi-target-utils.x86_64 : The SCSI target daemon and utility programs
 
 ```
 
-![Enable iSCSI on Startup](/Asserts/Images//attachment/album/201503/02/142408ddsnl4zdq433aqzl.jpg)
+![Enable iSCSI on Startup](/Asserts/Images/album/201503/02/142408ddsnl4zdq433aqzl.jpg)
 
 
 *开机启动iSCSI*
@@ -173,7 +173,7 @@ scsi-target-utils.x86_64 : The SCSI target daemon and utility programs
 
 ```
 
-![iSCSI Man Pages](/Asserts/Images//attachment/album/201503/02/142409ulsul7w2djtu9fsl.jpg)
+![iSCSI Man Pages](/Asserts/Images/album/201503/02/142409ulsul7w2djtu9fsl.jpg)
 
 
 *iSCSI Man 页面*
@@ -188,7 +188,7 @@ scsi-target-utils.x86_64 : The SCSI target daemon and utility programs
 
 ```
 
-![Find iSCSI Port](/Asserts/Images//attachment/album/201503/02/142410g11xzpx9bdx1zzdr.jpg)
+![Find iSCSI Port](/Asserts/Images/album/201503/02/142410g11xzpx9bdx1zzdr.jpg)
 
 
 *找出iSCSI端口*
@@ -204,13 +204,13 @@ scsi-target-utils.x86_64 : The SCSI target daemon and utility programs
 
 ```
 
-![Open iSCSI Ports](/Asserts/Images//attachment/album/201503/02/142411flaadxtavta4tlzh.jpg)
+![Open iSCSI Ports](/Asserts/Images/album/201503/02/142411flaadxtavta4tlzh.jpg)
 
 
 *打开iSCSI端口*
 
 
-![Add iSCSI Ports to Iptables](/Asserts/Images//attachment/album/201503/02/142412j5xb76t79n6x9n56.jpg)
+![Add iSCSI Ports to Iptables](/Asserts/Images/album/201503/02/142412j5xb76t79n6x9n56.jpg)
 
 
 *添加iSCSI端口到iptable中*
@@ -226,7 +226,7 @@ scsi-target-utils.x86_64 : The SCSI target daemon and utility programs
 
 ```
 
-![Restart iptables](/Asserts/Images//attachment/album/201503/02/142413azw542xmq3rwfek4.jpg)
+![Restart iptables](/Asserts/Images/album/201503/02/142413azw542xmq3rwfek4.jpg)
 
 
 *重启iptable*

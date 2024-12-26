@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/09/154128mctmdkdd0jolyv0k.png)
+![](/Asserts/Images/album/202311/09/154128mctmdkdd0jolyv0k.png)
 
 
 
@@ -59,7 +59,7 @@ sudo pacman -S docker
 输入密码并在询问时按 `Y`。
 
 
-![](/Asserts/Images//attachment/album/202311/09/154156d510mluaho77kog0.png)
+![](/Asserts/Images/album/202311/09/154156d510mluaho77kog0.png)
 
 
 这可能需要一些时间，具体取决于你使用的镜像。
@@ -97,7 +97,7 @@ sudo systemctl enable docker.service
 这样，你就可以开始运行 `docker` 命令了。你不再需要手动启动 Docker 服务。
 
 
-![](/Asserts/Images//attachment/album/202311/09/154156e8ufewhn8m9uanhd.png)
+![](/Asserts/Images/album/202311/09/154156e8ufewhn8m9uanhd.png)
 
 
 #### 步骤 3：将用户添加到 docker 组
@@ -145,7 +145,7 @@ docker run hello-world
 你应该看到类似这样的输出，表明 Docker 成功运行：
 
 
-![](/Asserts/Images//attachment/album/202311/09/154157enosbzo4d494b9ze.png)
+![](/Asserts/Images/album/202311/09/154157enosbzo4d494b9ze.png)
 
 
 恭喜！ 你已经在 Arch Linux 上成功安装了 Docker。
@@ -169,7 +169,7 @@ sudo pacman -S docker-compose
 
 ```
 
-![](/Asserts/Images//attachment/album/202311/09/154158kj8z8omkzyid878m.png)
+![](/Asserts/Images/album/202311/09/154158kj8z8omkzyid878m.png)
 
 
 ### 故障排除技巧

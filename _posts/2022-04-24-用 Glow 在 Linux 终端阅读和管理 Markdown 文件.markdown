@@ -7,7 +7,7 @@ tags:	[linuxcn,Markdown]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/11/151437wdzjaetardciedt1.jpg)
+![](/Asserts/Images/album/202204/11/151437wdzjaetardciedt1.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,Markdown]
 当然可以。但它会原样显示所有的代码来显示原始的 Markdown 文件，而不是显示正确的格式化文本。
 
 
-![Glow renders the Markdown file](/Asserts/Images//attachment/album/202204/11/151453orewek5mb757gj9w.png)
+![Glow renders the Markdown file](/Asserts/Images/album/202204/11/151453orewek5mb757gj9w.png)
 
 
 注意：Glow 不是一个编辑器。你不能用它去编写 Markdown 文本。
@@ -51,7 +51,7 @@ glow markdown_file
 
 ```
 
-![Markdown display with Glow](/Asserts/Images//attachment/album/202204/11/151454gf2ydywey0yye4wx.png)
+![Markdown display with Glow](/Asserts/Images/album/202204/11/151454gf2ydywey0yye4wx.png)
 
 
 这是很不错，但是 Glow 可以做的更好。它有额外的参数打开<ruby> 终端用户界面 <rt>  terminal user interface </rt></ruby>（TUI）模式，并且允许你用它来做更多的事情。
@@ -69,7 +69,7 @@ glow -p markdown_file
 在页面视图中，你可以使用 `less` 命令相同的方法，使用 `/` 键来搜索特定的文本。你可以按下`q` 键退出这个视图。
 
 
-![Pager view similar to the less command](/Asserts/Images//attachment/album/202204/11/151455hads6mzdhqrm6seq.png)
+![Pager view similar to the less command](/Asserts/Images/album/202204/11/151455hads6mzdhqrm6seq.png)
 
 
 不止这些。你可以使用 `-a` 选项，它将查找当前目录及子目录中的所有 Markdown 文件。
@@ -84,13 +84,13 @@ glow -a
 你可以用方向键在屏幕上滚动文件。上下键向上和向下移动，左右键按照页数移动。
 
 
-![With -a option, Glow finds and displays all Markdown files in current directory](/Asserts/Images//attachment/album/202204/11/151456hrf8f1mrrwyuk3mk.png)
+![With -a option, Glow finds and displays all Markdown files in current directory](/Asserts/Images/album/202204/11/151456hrf8f1mrrwyuk3mk.png)
 
 
 你可以查看显示在底部的帮助选项。在这个视图中，查找选项允许你根据文件名查找文件（不是它们的内容）。
 
 
-![You can search files by their name](/Asserts/Images//attachment/album/202204/11/151457pl3w39su93y1cerz.png)
+![You can search files by their name](/Asserts/Images/album/202204/11/151457pl3w39su93y1cerz.png)
 
 
 这里也有标签。当然，你可以通过 `Tab` 键在标签中来回移动。
@@ -102,19 +102,19 @@ glow -a
 你可以按下 `x` 键来移除书签（不是文件）或者按下 `m` 键来添加一个备注。
 
 
-![You can bookmark files by stashing them with s key](/Asserts/Images//attachment/album/202204/11/151458x565js5s6yfcg3uv.png)
+![You can bookmark files by stashing them with s key](/Asserts/Images/album/202204/11/151458x565js5s6yfcg3uv.png)
 
 
 <ruby> 新闻 <rt>  news </rt></ruby>标签显示更新日志和来自 Glow 开发者（们）的其他消息。
 
 
-![The news tab shows messages from the developers](/Asserts/Images//attachment/album/202204/11/151459oaza3vfxjuhaddv9.png)
+![The news tab shows messages from the developers](/Asserts/Images/album/202204/11/151459oaza3vfxjuhaddv9.png)
 
 
 当你已经找到你想找的文件，你可以通过按下回车键来查看它们。因为你在终端用户界面模式，所以你这里会有额外的键盘选项。可以通过按下 `?` 键来显示选项。
 
 
-![You can view keyboard shortcuts by pressing the ? key](/Asserts/Images//attachment/album/202204/11/151500dv6w3vig0rgui1y6.png)
+![You can view keyboard shortcuts by pressing the ? key](/Asserts/Images/album/202204/11/151500dv6w3vig0rgui1y6.png)
 
 
 ### 在 Linux 上安装 Glow

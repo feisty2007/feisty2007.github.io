@@ -7,7 +7,7 @@ tags:	[linuxcn,模块化,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/21/014540v1zgpsss9dqqwipa.jpg)
+![](/Asserts/Images/album/201906/21/014540v1zgpsss9dqqwipa.jpg)
 
 
 <ruby> <a href="https://docs.pagure.org/modularity">  模块化 </a> <rt>  Modularity </rt></ruby>使 Fedora 能够在仓库中提供替代版本的 RPM 软件包。每个 Fedroa 版本可以原生构建不同应用、语言运行时和工具版本的多个版本。

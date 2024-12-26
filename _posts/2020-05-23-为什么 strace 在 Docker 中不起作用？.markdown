@@ -7,7 +7,7 @@ tags:	[linuxcn,strace,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/26/101909a5wsvedzw5svawa2.jpg)
+![](/Asserts/Images/album/202005/26/101909a5wsvedzw5svawa2.jpg)
 
 
 在编辑“容器如何工作”爱好者杂志的能力页面时，我想试着解释一下为什么 `strace` 在 Docker 容器中无法工作。

@@ -7,10 +7,10 @@ tags:	[linuxcn,操作系统,超算,AI,数据泄露]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/25/203900njnxaowasbk0xxfs.jpg)
+![](/Asserts/Images/album/202201/25/203900njnxaowasbk0xxfs.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/25/203910g01stkxitz3elt4k.jpg)
+![](/Asserts/Images/album/202201/25/203910g01stkxitz3elt4k.jpg)
 
 
 ### Meta 正在建造世界上最快的 AI 超算
@@ -27,7 +27,7 @@ Facebook 母公司 Meta [宣布](https://ai.facebook.com/blog/ai-rsc) 它正在�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/25/203920zrgzvr3etusrnkv5.jpg)
+![](/Asserts/Images/album/202201/25/203920zrgzvr3etusrnkv5.jpg)
 
 
 ### 俄罗斯自研操作系统 Phantom OS 预计今年问世
@@ -44,7 +44,7 @@ Facebook 母公司 Meta [宣布](https://ai.facebook.com/blog/ai-rsc) 它正在�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/25/204013jd5kkk854npkget0.jpg)
+![](/Asserts/Images/album/202201/25/204013jd5kkk854npkget0.jpg)
 
 
 ### 去年发生的数据泄漏事件远超历史记录

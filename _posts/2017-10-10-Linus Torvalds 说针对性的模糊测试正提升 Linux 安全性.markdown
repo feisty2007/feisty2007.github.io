@@ -10,7 +10,7 @@ tags:	[linuxcn,测试,内核]
 Linux 4.14 发布候选第五版已经出来。Linus Torvalds 说：“可以去测试了。”
 
 
-![linus-toravlds-linuxcon-toronto.jpg](/Asserts/Images//attachment/album/201710/23/144908tmjc3qpntw11xtpz.jpg)
+![linus-toravlds-linuxcon-toronto.jpg](/Asserts/Images/album/201710/23/144908tmjc3qpntw11xtpz.jpg)
 
 
 随着宣布推出 Linux 内核 4.14 的第五个候选版本，Linus Torvalds 表示<ruby> 模糊测试 <rt>  fuzzing </rt></ruby>正产生一系列稳定的安全更新。

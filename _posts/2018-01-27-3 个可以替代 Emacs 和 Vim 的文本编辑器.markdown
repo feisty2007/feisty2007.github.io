@@ -7,7 +7,7 @@ tags:	[linuxcn,编辑器,Vim,Emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/28/210355ah11eco6vzwbk1h5.png)
+![](/Asserts/Images/album/201801/28/210355ah11eco6vzwbk1h5.png)
 
 
 
@@ -30,7 +30,7 @@ Emacs 和 Vim 的粉丝们，在你们开始编辑器之争之前，请你们理
 ### Geany
 
 
-![用 Geany 编辑一个 LaTeX 文档](/Asserts/Images//attachment/album/201801/28/210408ch76d89g6ybgsdy8.png "Editing a LaTeX document with Geany")
+![用 Geany 编辑一个 LaTeX 文档](/Asserts/Images/album/201801/28/210408ch76d89g6ybgsdy8.png "Editing a LaTeX document with Geany")
 
 
 *你可以用 Geany 编辑 LaTeX 文档*
@@ -48,7 +48,7 @@ Emacs 和 Vim 的粉丝们，在你们开始编辑器之争之前，请你们理
 ### Atom
 
 
-![使用 Atom 编辑网页](/Asserts/Images//attachment/album/201801/28/210410aqgdrruf3nggmxea.png "Editing a webpage with Atom")
+![使用 Atom 编辑网页](/Asserts/Images/album/201801/28/210410aqgdrruf3nggmxea.png "Editing a webpage with Atom")
 
 
 *使用 Atom 编辑网页*
@@ -66,7 +66,7 @@ Atom 的定制功能让其拥有如此的吸引力。如果有一些技术癖好
 ### Xed
 
 
-![使用 Xed 编辑文章](/Asserts/Images//attachment/album/201801/28/210411bu7e5zve56vsu1vn.png "Writing this article in Xed")
+![使用 Xed 编辑文章](/Asserts/Images/album/201801/28/210411bu7e5zve56vsu1vn.png "Writing this article in Xed")
 
 
 *使用 Xed 编辑文章*

@@ -15,7 +15,7 @@ tags:	[linuxcn,桌面环境,Linux 发行版]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/23/152856vwq5071qzhn6n7rj.jpg)
+![](/Asserts/Images/album/202204/23/152856vwq5071qzhn6n7rj.jpg)
 
 
 定制化拓展 Linux 发行版以满足需求是非常有意思的事。无论是 Ubuntu 还是 Fedora ，都有各种各样的工具去定制化 Linux 桌面。
@@ -47,7 +47,7 @@ Zorin OS 最有特点的功能之一是，它可以随意转化，让其看起�
 > 
 
 
-![Zorin OS 16 桌面](/Asserts/Images//attachment/album/202204/23/152915baal3xl9n3il69l1.jpg)
+![Zorin OS 16 桌面](/Asserts/Images/album/202204/23/152915baal3xl9n3il69l1.jpg)
 
 
 #### 2、elementary OS
@@ -73,7 +73,7 @@ elementary OS 最具特色的是它精心设计的应用商店。应用商店提
 > 
 
 
-![elementary OS 6 ODIN 桌面](/Asserts/Images//attachment/album/202204/23/152915ao1zipf1pluhu8cu.jpg)
+![elementary OS 6 ODIN 桌面](/Asserts/Images/album/202204/23/152915ao1zipf1pluhu8cu.jpg)
 
 
 #### 3、深度操作系统
@@ -103,7 +103,7 @@ elementary OS 最具特色的是它精心设计的应用商店。应用商店提
 > 
 
 
-![Deepin 20 桌面](/Asserts/Images//attachment/album/202204/23/152915d5jc05oelhcez5y8.jpg)
+![Deepin 20 桌面](/Asserts/Images/album/202204/23/152915d5jc05oelhcez5y8.jpg)
 
 
 #### 4、CutefishOS
@@ -129,7 +129,7 @@ CutefishOS 底层基于 Qt 和 KDE 框架构建。这个带有 Cutefish 桌面�
 > 
 
 
-![Cutefish OS](/Asserts/Images//attachment/album/202204/23/152915p9nc5psynyl2l955.jpg)
+![Cutefish OS](/Asserts/Images/album/202204/23/152915p9nc5psynyl2l955.jpg)
 
 
 #### 5、Manjaro KDE Plasma 版
@@ -149,7 +149,7 @@ Manjaro KDE 是性能和外观与 Arch Linux 之强大的完美结合。对于 A
 > 
 
 
-![Manjaro KDE Plasma](/Asserts/Images//attachment/album/202204/23/152916tpp6wplhppwbksz6.jpg)
+![Manjaro KDE Plasma](/Asserts/Images/album/202204/23/152916tpp6wplhppwbksz6.jpg)
 
 
 #### 6、Garuda Linux
@@ -172,7 +172,7 @@ Garuda 最主要的优点是支持所有桌面环境 — KDE Plasma、 GNOME、 
 > 
 
 
-![Garuda Linux](/Asserts/Images//attachment/album/202204/23/152916tse53iewpe5etdti.jpg)
+![Garuda Linux](/Asserts/Images/album/202204/23/152916tse53iewpe5etdti.jpg)
 
 
 #### 7、Linux Mint Cinnamon 版
@@ -198,7 +198,7 @@ Linux Mint Cinnamon 版对所有用户都非常友好，特别是第一次使用
 > 
 
 
-![Linux Mint 20 — Cinnamon 版本桌面](/Asserts/Images//attachment/album/202204/23/152916q7b1p76p6bnidylj.png)
+![Linux Mint 20 — Cinnamon 版本桌面](/Asserts/Images/album/202204/23/152916q7b1p76p6bnidylj.png)
 
 
 #### 8、Nitrux OS
@@ -221,7 +221,7 @@ Nitrux OS 的默认外观设计得非常完美，它采用经过改进的 KDE Pl
 > 
 
 
-![Nitrux 2.0 桌面](/Asserts/Images//attachment/album/202204/23/152916ii78ffai7raijz78.jpg)
+![Nitrux 2.0 桌面](/Asserts/Images/album/202204/23/152916ii78ffai7raijz78.jpg)
 
 
 #### 9、优麒麟
@@ -247,7 +247,7 @@ Nitrux OS 的默认外观设计得非常完美，它采用经过改进的 KDE Pl
 > 
 
 
-![优麒麟桌面](/Asserts/Images//attachment/album/202204/23/152916kznfan4rkpkaqdkt.jpg)
+![优麒麟桌面](/Asserts/Images/album/202204/23/152916kznfan4rkpkaqdkt.jpg)
 
 
 #### 10、Pop!\_OS
@@ -270,7 +270,7 @@ Pop!\_OS 的特点是在默认的 GNOME 桌面上带有额外的调整和配置�
 > 
 
 
-![Pop!_OS 21.10 桌面](/Asserts/Images//attachment/album/202204/23/152917as34b8ooztrys4r3.jpg)
+![Pop!_OS 21.10 桌面](/Asserts/Images/album/202204/23/152917as34b8ooztrys4r3.jpg)
 
 
 ### 结语

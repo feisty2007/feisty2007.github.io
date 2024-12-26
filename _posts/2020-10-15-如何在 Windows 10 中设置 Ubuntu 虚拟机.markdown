@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,Windows,Hyper-V]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/03/114551tnlr0guvn0vlnsg0.jpg)
+![](/Asserts/Images/album/202010/03/114551tnlr0guvn0vlnsg0.jpg)
 
 
 如果你想尝试在 Windows 10 中设置一个或多个 Ubuntu 虚拟机进行自己的实验，请按照以下步骤进行。
@@ -37,7 +37,7 @@ Hyper-V 提供了两种创建新虚拟机的方法。老式的方法是通过一
 虽然你可以通过点击“连接”立即开始，但如果你的 Windows 10 主机上有足够的资源，我建议你点击“编辑设置”，以便你可以先进行一些调整。
 
 
-![](/Asserts/Images//attachment/album/202010/03/112217zw8enlyfekwdl570.jpg)
+![](/Asserts/Images/album/202010/03/112217zw8enlyfekwdl570.jpg)
 
 
 *我建议你在第一次运行虚拟机之前编辑一些设置*
@@ -46,7 +46,7 @@ Hyper-V 提供了两种创建新虚拟机的方法。老式的方法是通过一
 从新虚拟机的硬件列表中选择“内存”，然后将分配的 RAM 从其默认值 2048 改为 4096，这应该会带来更好的性能。如果你想要一个固定数量的虚拟内存，你也可以禁用动态内存。你可能还希望将系统磁盘的大小从其默认的 12GB 提升到更多。单击“硬盘驱动器”，然后单击“编辑”，并按照提示操作，直到进行到“扩展”命令那一步。
 
 
-![](/Asserts/Images//attachment/album/202010/03/112747gbpcictiqcioz6uk.jpg)
+![](/Asserts/Images/album/202010/03/112747gbpcictiqcioz6uk.jpg)
 
 
 *根据需要调整分配给你的 Linux 虚拟机的内存*
@@ -76,7 +76,7 @@ Hyper-V 提供了两种创建新虚拟机的方法。老式的方法是通过一
 如果你在“虚拟机连接”窗口中看到这个对话框，你就会知道已经启动了一个增强的会话：
 
 
-![](/Asserts/Images//attachment/album/202010/03/113335lyfsypf8sfaaaa8p.jpg)
+![](/Asserts/Images/album/202010/03/113335lyfsypf8sfaaaa8p.jpg)
 
 
 *将该滑块移至最右侧，以全屏方式运行虚拟机*
@@ -85,7 +85,7 @@ Hyper-V 提供了两种创建新虚拟机的方法。老式的方法是通过一
 滑动开关来选择你的显示分辨率。我喜欢将滑块向右移动，到全屏位置。如果你有多个显示器，并希望虚拟机跨越它们，请选择 “使用所有我的显示器”复选框。单击“连接”继续，打开 Xrdp 登录对话框，如图所示：
 
 
-![](/Asserts/Images//attachment/album/202010/03/113335l7f9ce1ffw3trwf7.jpg)
+![](/Asserts/Images/album/202010/03/113335l7f9ce1ffw3trwf7.jpg)
 
 
 *登录到 Xrdp 以启动增强型 Hyper-V 会话*

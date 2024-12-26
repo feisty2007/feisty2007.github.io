@@ -7,7 +7,7 @@ tags:	[linuxcn,Android,Kotlin,java]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/08/094713pyiwim50n7ttpfyi.jpg)
+![](/Asserts/Images/album/201705/08/094713pyiwim50n7ttpfyi.jpg)
 
 
 
@@ -146,7 +146,7 @@ compileOptions {
 正如我前面提到的，在 Kotlin 下的 lambda 内联函数不增加方法计数，但是如何在 Jack 或者 Retrolambda 下使用它们呢？ 显然，它们不是没成本的，隐藏的成本如下。
 
 
-![](/Asserts/Images//attachment/album/201705/08/094725suvvx65mjy56syjr.png)
+![](/Asserts/Images/album/201705/08/094725suvvx65mjy56syjr.png)
 
 
 *该表展示了使用不同版本的 Retrolambda 和 Jack 编译器生成的方法数量。该比较结果来自 Jake Wharton 的“[探索 Java 的隐藏成本](http://jakewharton.com/exploring-java-hidden-costs/)” 技术讨论之中。*
@@ -281,7 +281,7 @@ class Streams {
 我完全知道我的一些想法是非常有争议的，特别是 Lombok，我也知道，有很多的库，可以使你的生活更轻松。请不要犹豫在评论里分享你的经验。干杯!
 
 
-![](/Asserts/Images//attachment/album/201705/08/094739s1r09y11ig088s9n.png)
+![](/Asserts/Images/album/201705/08/094739s1r09y11ig088s9n.png)
 
 
 

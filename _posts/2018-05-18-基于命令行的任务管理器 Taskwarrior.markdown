@@ -7,7 +7,7 @@ tags:	[linuxcn,todo,Taskwarrior]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/15/104609d5en8uesea8gepn8.jpg)
+![](/Asserts/Images/album/201805/15/104609d5en8uesea8gepn8.jpg)
 
 
 Taskwarrior 是一个灵活的[命令行任务管理程序](https://taskwarrior.org/)，用他们[自己的话说](https://taskwarrior.org/docs/start.html)：

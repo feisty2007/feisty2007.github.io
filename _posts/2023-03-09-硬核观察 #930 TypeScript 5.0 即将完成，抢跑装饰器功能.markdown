@@ -7,10 +7,10 @@ tags:	[linuxcn,TypeScript,GTK3,月球]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/04/173838y1nv18x1vp66fvy4.jpg)
+![](/Asserts/Images/album/202303/04/173838y1nv18x1vp66fvy4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/04/173849d9wd9yyjpd7pxy57.jpg)
+![](/Asserts/Images/album/202303/04/173849d9wd9yyjpd7pxy57.jpg)
 
 
 ### TypeScript 5.0 即将完成，抢跑装饰器功能
@@ -35,7 +35,7 @@ TypeScript 团队已经推出了 5.0 RC，完整版本计划于 3 月 14 日发�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/04/173900manq4z2xt2cxddnx.jpg)
+![](/Asserts/Images/album/202303/04/173900manq4z2xt2cxddnx.jpg)
 
 
 ### GNOME Shell 和 Mutter 合成器已经脱离了 GTK3
@@ -60,7 +60,7 @@ GNOME Shell 现在将只依赖于 GNOME-Desktop-4 / GTK4，X11 显示代码已�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/04/173913p2xpcp5chd6izz2h.jpg)
+![](/Asserts/Images/album/202303/04/173913p2xpcp5chd6izz2h.jpg)
 
 
 ### 欧洲推动设立月球时区

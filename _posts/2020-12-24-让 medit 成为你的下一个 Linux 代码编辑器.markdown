@@ -15,7 +15,7 @@ tags:	[linuxcn,编辑器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202012/21/103921rqtvtsyvyvy5bsq7.jpg)
+![](/Asserts/Images/album/202012/21/103921rqtvtsyvyvy5bsq7.jpg)
 
 
 有了 [XEDIT](/article-12930-1.html)、jEdit、NEdit、[gedit](/article-12933-1.html)，最后还有 [medit](http://mooedit.sourceforge.net/)。
@@ -30,7 +30,7 @@ tags:	[linuxcn,编辑器]
 你可以从 [mooedit.sourceforge.net](https://sourceforge.net/projects/mooedit/files/medit/) 下载 medit。它确认可以在 Linux 和 Windows 上工作。如果你使用的是 Linux，你也可以在你的仓库中找到它。在 Slackware 上，我从 [slackbuilds.org](https://slackbuilds.org/repository/14.2/development/medit) 安装了它。
 
 
-![Medit terminal showing examples of Bash script in editor](/Asserts/Images//attachment/album/202012/21/104035h90bo3ht8qabf3zb.png "Medit terminal showing examples of Bash script in editor")
+![Medit terminal showing examples of Bash script in editor](/Asserts/Images/album/202012/21/104035h90bo3ht8qabf3zb.png "Medit terminal showing examples of Bash script in editor")
 
 
 ### 使用 medit
@@ -51,7 +51,7 @@ medit 宣称自己是一个“为编程和围绕编程”打造的编辑器，�
 不过对于语法高亮，文本会根据每个单词在其结构化语言中扮演的角色而变成彩色。一开始，我对 medit 的一些选择有些沮丧，很多颜色在我的深色背景下太暗，无法辨认，而且我觉得所有重要的元素都不够显眼。如果你不喜欢 medit 选择的方案，这个问题的答案在 **Preferences** 中，你可以更改颜色主题。我把我的颜色改成了 Tango，它呈现出一个日光照射的颜色阵列，在我的深色编辑器背景下非常出色，甚至给在 medit 主题下保持白色的元素添加了颜色。
 
 
-![Medit terminal showing examples of Bash script in editor using Tango color scheme against dark background](/Asserts/Images//attachment/album/202012/21/104035o8imylf8ydmd8ayi.png "Medit terminal showing examples of Bash script in editor using Tango color scheme against dark background")
+![Medit terminal showing examples of Bash script in editor using Tango color scheme against dark background](/Asserts/Images/album/202012/21/104035o8imylf8ydmd8ayi.png "Medit terminal showing examples of Bash script in editor using Tango color scheme against dark background")
 
 
 ### 弹出式 Python 控制台

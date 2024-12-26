@@ -7,7 +7,7 @@ tags:	[linuxcn,cron,anacron]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/08/230239x0dew0x0mbf1x05m.jpg)
+![](/Asserts/Images/album/201706/08/230239x0dew0x0mbf1x05m.jpg)
 
 
 在本篇中，我们会解释 cron 和 anacron，并向你展示如何在 Linux 中设置 anacron。我们也会比较这两个工具。

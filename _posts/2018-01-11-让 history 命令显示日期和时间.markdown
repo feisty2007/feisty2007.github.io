@@ -7,7 +7,7 @@ tags:	[linuxcn,history,历史]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/18/111938vf1fnfzfrofnsrfs.jpg)
+![](/Asserts/Images/album/201801/18/111938vf1fnfzfrofnsrfs.jpg)
 
 
 我们都对 `history` 命令很熟悉。它将终端上 bash 执行过的所有命令存储到 `.bash_history` 文件中，来帮助我们复查用户之前执行过的命令。

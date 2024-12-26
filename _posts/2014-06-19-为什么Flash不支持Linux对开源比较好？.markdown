@@ -15,7 +15,7 @@ tags:	[linuxcn,Flash,Chromium,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/201406/05/090853j7k7wq077dzqtlla.png)
+![](/Asserts/Images/album/201406/05/090853j7k7wq077dzqtlla.png)
 
 
 Flash，这个无处不在的网络媒体框架，很快将不能在linux的[Chromium](http://www.chromium.org/)浏览器中使用了。Chromium是开源版的[Google Chrome](https://www.google.com/intl/en-US/chrome/browser/)浏览器。现在我们要为Linux世界恐慌了吗？答案是根本不用。

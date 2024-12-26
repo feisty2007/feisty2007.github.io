@@ -16,7 +16,7 @@ Copyright (C) 2015 greenbytes GmbH
 最后，这会归并回到官方 Apache 文档，这里只会留下一个到那里的链接。暂时我们还没做到。
 
 
-![](/Asserts/Images//attachment/album/201512/10/004228qw58toeoabwe2dpa.jpg)
+![](/Asserts/Images/album/201512/10/004228qw58toeoabwe2dpa.jpg)
 
 
 ### 源码
@@ -392,7 +392,7 @@ The negotiated protocol: http/1.1
 你可以在 Firefox 浏览器中打开开发者工具，在那里的网络标签页查看 HTTP/2 连接。当你打开了 HTTP/2 并重新刷新 html 页面时，你会看到类似下面的东西：
 
 
-![](/Asserts/Images//attachment/album/201512/10/004340ipppm5kapdmc9m7i.png)
+![](/Asserts/Images/album/201512/10/004340ipppm5kapdmc9m7i.png)
 
 
 在响应头中，你可以看到奇怪的 **X-Firefox-Spdy** 条目中列出了 “h2”。这表示在这个 **https:** 连接中使用了 HTTP/2。
@@ -407,7 +407,7 @@ The negotiated protocol: http/1.1
 如果你打开了一个服务器的页面，可以在 Chrome 中查看那个 net-internals 页面，你可以看到类似下面这样：
 
 
-![](/Asserts/Images//attachment/album/201512/10/004340c6x65tglpc6a5hwo.png)
+![](/Asserts/Images/album/201512/10/004340c6x65tglpc6a5hwo.png)
 
 
 如果你的服务器在上面的列表中，就表示它正在工作。
@@ -419,7 +419,7 @@ The negotiated protocol: http/1.1
 Windows 10 中 Internet Explorer 的继任者 Edge 也支持 HTTP/2。你也可以在开发者工具的网络标签页看到 HTTP/2 协议。
 
 
-![](/Asserts/Images//attachment/album/201512/10/004341nuu5dgqrudm555nw.png)
+![](/Asserts/Images/album/201512/10/004341nuu5dgqrudm555nw.png)
 
 
 #### Safari
@@ -428,7 +428,7 @@ Windows 10 中 Internet Explorer 的继任者 Edge 也支持 HTTP/2。你也可�
 在 Apple 的 Safari 中，打开开发者工具，那里有个网络标签页。重新加载你的服务器上的页面，并在开发者工具中选择显示了加载的那行。如果你启用了在右边显示详细视图，看 **Status** 部分。那里显示了 **HTTP/2.0 200**，像这样：
 
 
-![](/Asserts/Images//attachment/album/201512/10/004341wb7gpjnc7cqnqmnb.png)
+![](/Asserts/Images/album/201512/10/004341wb7gpjnc7cqnqmnb.png)
 
 
 #### 重新协商

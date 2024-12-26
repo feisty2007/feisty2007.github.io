@@ -7,7 +7,7 @@ tags:	[linuxcn,VLC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202001/05/084139mzlt1lfivilnnbkl.jpg)
+![](/Asserts/Images/album/202001/05/084139mzlt1lfivilnnbkl.jpg)
 
 
 一个使用 [VLC 的技巧](https://itsfoss.com/simple-vlc-tips/)是使用 [VLC](https://www.videolan.org/index.html) 播放 YouTube 和其他在线视频。这可以帮助你[观看带有字幕的在线视频](https://itsfoss.com/penguin-subtitle-player/)。
@@ -24,7 +24,7 @@ tags:	[linuxcn,VLC]
 > 
 
 
-![VLC error while playing YouTube videos](/Asserts/Images//attachment/album/202001/05/084212d3b1t43ug0uhg40s.png)
+![VLC error while playing YouTube videos](/Asserts/Images/album/202001/05/084212d3b1t43ug0uhg40s.png)
 
 
 这是因为 Google 不想让你使用任何第三方应用观看 YouTube，因为这样他们就无法正常收集数据。

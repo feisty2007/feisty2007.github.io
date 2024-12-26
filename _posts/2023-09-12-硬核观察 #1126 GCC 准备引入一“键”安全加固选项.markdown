@@ -7,10 +7,10 @@ tags:	[linuxcn,GCC,内核,VR]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/16/161108wphkhcyc6h4lhyd2.jpg)
+![](/Asserts/Images/album/202309/16/161108wphkhcyc6h4lhyd2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/16/161116vg6j6djppy66gpb6.jpg)
+![](/Asserts/Images/album/202309/16/161116vg6j6djppy66gpb6.jpg)
 
 
 ### GCC 准备引入一“键”安全加固选项
@@ -35,7 +35,7 @@ tags:	[linuxcn,GCC,内核,VR]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/16/161130yl2hhi2ul211zfzk.jpg)
+![](/Asserts/Images/album/202309/16/161130yl2hhi2ul211zfzk.jpg)
 
 
 ### 红帽正在研究延迟模块签名验证以加快 Linux 启动时间
@@ -60,7 +60,7 @@ tags:	[linuxcn,GCC,内核,VR]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/16/161143vp6577iijwa7z7si.jpg)
+![](/Asserts/Images/album/202309/16/161143vp6577iijwa7z7si.jpg)
 
 
 ### Meta 的 VR 世界虚拟化身终于有腿了

@@ -7,13 +7,13 @@ tags:	[linuxcn,Linux,图像,安全,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/31/181054joqc6mf7az9rmmmq.jpg)
+![](/Asserts/Images/album/202108/31/181054joqc6mf7az9rmmmq.jpg)
 
 
 ### Torvalds 认为 GPLv2 和公司的参与对 Linux 非常重要
 
 
-![](/Asserts/Images//attachment/album/202108/31/181104qcqpp776apjpeiae.jpg)
+![](/Asserts/Images/album/202108/31/181104qcqpp776apjpeiae.jpg)
 
 
 Linux 创始人 Linus Torvalds 在最近的[一篇采访](https://www.zdnet.com/article/linus-torvalds-on-linuxs-30th-birthday/)中表示，他认为在 1992 年初 Linux 转向使用 GPLv2 许可证特别重要。他回忆说：“这不是最初的许可证，但我相信它是 Linux 变得如此广泛的一个重要原因。”此外，他还认为，“公司的参与是非常重要的，这可能听起来很明显，以至于老套和愚蠢，但开源社区的一些角落对任何商业参与都是相当消极的。”从最早期开始，Linux 就经历了来自大公司的“相当持续的”兴趣。
@@ -30,7 +30,7 @@ Linux 创始人 Linus Torvalds 在最近的[一篇采访](https://www.zdnet.com/
 ### 谷歌使用 AI 生成高保真图像
 
 
-![](/Asserts/Images//attachment/album/202108/31/181123ppq3p1id7vc3qczu.jpg)
+![](/Asserts/Images/album/202108/31/181123ppq3p1id7vc3qczu.jpg)
 
 
 谷歌大脑的研究人员[分享](https://petapixel.com/2021/08/30/googles-new-ai-photo-upscaling-tech-is-jaw-dropping/)了他们在图像超级分辨率方面取得的新突破。通过其 SR3 和 CDM 方法，可以对输入的低分辨率图像生成高分辨率的图像，在提升人像和自然图像上效果良好。他们已经将该模型的性能推到了超分辨率和类条件的 ImageNet 生成基准的最先进水平。
@@ -47,7 +47,7 @@ Linux 创始人 Linus Torvalds 在最近的[一篇采访](https://www.zdnet.com/
 ### 研究发现 40% 的 GitHub Copilot 建议中存在安全漏洞
 
 
-![](/Asserts/Images//attachment/album/202108/31/181140ydadzid2cbv767dl.jpg)
+![](/Asserts/Images/album/202108/31/181140ydadzid2cbv767dl.jpg)
 
 
 研究人员为 Copilot 创建了 89 种不同的场景来推荐代码，产生了 1600 多个程序。研究人员在审查这些程序时[发现](https://www.techradar.com/news/github-autopilot-highly-likely-to-introduce-bugs-and-vulnerabilities-report-claims)，几乎 40% 的程序都有这样或那样的漏洞。由于 Copilot 借鉴了 GitHub 存储库中公开可用的代码，研究人员推测，生成的脆弱代码可能只是系统模仿存储库中的错误代码行为的结果。

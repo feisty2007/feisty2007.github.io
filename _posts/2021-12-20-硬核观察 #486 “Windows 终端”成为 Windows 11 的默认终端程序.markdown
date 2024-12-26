@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows,Log4j,POWER10]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/15/182236bq6pu5rv3q5hh3yh.jpg)
+![](/Asserts/Images/album/202112/15/182236bq6pu5rv3q5hh3yh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/15/182246ergbbrddcf5bsdu9.jpg)
+![](/Asserts/Images/album/202112/15/182246ergbbrddcf5bsdu9.jpg)
 
 
 ### “Windows 终端”成为 Windows 11 的默认终端程序
@@ -27,7 +27,7 @@ tags:	[linuxcn,Windows,Log4j,POWER10]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/15/182257c4i77yzg24577xwu.jpg)
+![](/Asserts/Images/album/202112/15/182257c4i77yzg24577xwu.jpg)
 
 
 ### Log4j 漏洞在 72 小时内发生超 84 万起攻击
@@ -44,7 +44,7 @@ tags:	[linuxcn,Windows,Log4j,POWER10]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/15/182315v0ngm000jj0q7256.jpg)
+![](/Asserts/Images/album/202112/15/182315v0ngm000jj0q7256.jpg)
 
 
 ### IBM POWER10 CPU 对开源不友好

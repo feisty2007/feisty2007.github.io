@@ -7,7 +7,7 @@ tags:	[linuxcn,QQ]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/25/060435upy74uwpb2fdku4p.jpg)
+![](/Asserts/Images/album/201910/25/060435upy74uwpb2fdku4p.jpg)
 
 
 ### BREAKING NEWS!!!
@@ -30,7 +30,7 @@ tags:	[linuxcn,QQ]
 > 
 
 
-![](/Asserts/Images//attachment/album/201910/25/061732mad2sds1sfnd00aq.png)
+![](/Asserts/Images/album/201910/25/061732mad2sds1sfnd00aq.png)
 
 
 在下载安装时，我们继续聊聊 Linux QQ。

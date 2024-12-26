@@ -15,7 +15,7 @@ tags:	[linuxcn,find,查找,locate]
 > 
 
 
-![](/Asserts/Images//attachment/album/201805/09/084416d4oorf4r4o42th7z.jpg)
+![](/Asserts/Images/album/201805/09/084416d4oorf4r4o42th7z.jpg)
 
 
 在 Linux 系统上找到你要找的文件或命令并不难， 有很多种方法可以寻找。

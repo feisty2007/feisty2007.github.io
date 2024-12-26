@@ -7,10 +7,10 @@ tags:	[linuxcn,GNOME,大型机,量子加密]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/31/123108b2taammzjlirloav.jpg)
+![](/Asserts/Images/album/202307/31/123108b2taammzjlirloav.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/31/123117s5rrzfi8dtf5htrh.jpg)
+![](/Asserts/Images/album/202307/31/123117s5rrzfi8dtf5htrh.jpg)
 
 
 ### GNOME 正在开发新的马赛克窗口管理系统
@@ -35,7 +35,7 @@ GNOME 希望能有更强大的窗口管理系统，除了经典的浮动堆叠�
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/31/123134e9bkdc2tb2lg39tb.jpg)
+![](/Asserts/Images/album/202307/31/123134e9bkdc2tb2lg39tb.jpg)
 
 
 ### 目前仍有 10,000 台大型机在使用
@@ -60,7 +60,7 @@ GNOME 希望能有更强大的窗口管理系统，除了经典的浮动堆叠�
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/31/123150zhgib8i5b234n4zb.jpg)
+![](/Asserts/Images/album/202307/31/123150zhgib8i5b234n4zb.jpg)
 
 
 ### 抗量子加密技术还需要数年

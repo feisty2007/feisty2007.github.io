@@ -15,7 +15,7 @@ tags:	[linuxcn,JavaScript]
 > 
 
 
-![](/Asserts/Images//attachment/album/202011/12/010945vezib4p1b1ti6pjt.jpg)
+![](/Asserts/Images/album/202011/12/010945vezib4p1b1ti6pjt.jpg)
 
 
 JavaScript 的卑微起步始于 1995 年，是由当时在 Netscape 通信公司工作的 Brendan Eich [在短短 10 天内创建的](https://en.wikipedia.org/wiki/JavaScript)。从那时起，JavaScript 已经走过了漫长的道路，从一个让网站变得漂亮的工具变成了一种严肃的编程语言。
@@ -27,7 +27,7 @@ JavaScript 的卑微起步始于 1995 年，是由当时在 Netscape 通信公�
 长期以来，HTML、CSS 和 JavaScript 之间的分界并不明确。前端开发主要由 HTML、CSS 和 JavaScript 组成，形成了标准 Web 技术的“[多层蛋糕](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)”。
 
 
-![标准 Web 技术的多层蛋糕](/Asserts/Images//attachment/album/202011/12/011044zaggygpwldcynwfa.png "Layer cake of standard web technologies")
+![标准 Web 技术的多层蛋糕](/Asserts/Images/album/202011/12/011044zaggygpwldcynwfa.png "Layer cake of standard web technologies")
 
 
 *标准网络技术的“[多层蛋糕](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)”（Mozilla 开发者网络，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

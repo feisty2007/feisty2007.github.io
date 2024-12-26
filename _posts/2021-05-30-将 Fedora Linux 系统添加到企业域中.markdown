@@ -7,7 +7,7 @@ tags:	[linuxcn,活动目录]
 ---
 
 
-![](/Asserts/Images//attachment/album/202105/26/120149o01pzllgw119w66l.jpg)
+![](/Asserts/Images/album/202105/26/120149o01pzllgw119w66l.jpg)
 
 
 在企业互联网场景中，一般情况下最广泛使用的基于 Linux 的操作系统是 Red Hat Enterprise Linux（RHEL），它主要用于服务器，但也可以用作工作站。Fedora linux 其实也是工作站系统的一个很好的选择，它提供了许多在企业环境中工作的特性，使管理成为一项简单的任务。
@@ -25,7 +25,7 @@ tags:	[linuxcn,活动目录]
 要加入域网络，你需要域管理员的权限才能添加计算机。可以通过在域凭据上设置特殊权限或代表你对该计算机进行预配置。Fedora Linux 有一个在安装时配置机器的选项，叫做<ruby> 企业登录 <rt>  Enterprise Login </rt></ruby>。如果你的计算机网络自动配置为企业域网络，那么你可以直接使用域凭据登录。
 
 
-![](/Asserts/Images//attachment/album/202105/26/120154yq8an95nfi8zrbx3.png)
+![](/Asserts/Images/album/202105/26/120154yq8an95nfi8zrbx3.png)
 
 
 如果你的配置不是自动的，或者你已经安装了 Fedora Linux，你可以通过以下几个配置步骤加入一个活动目录域：
@@ -39,7 +39,7 @@ tags:	[linuxcn,活动目录]
 运行此命令后，系统将请求允许加入该域中新计算机的用户的凭据。如果进程中没有错误，则机器将成为域的一部分。
 
 
-![](/Asserts/Images//attachment/album/202105/26/120154dzc0j91zm0zwjhjh.png)
+![](/Asserts/Images/album/202105/26/120154dzc0j91zm0zwjhjh.png)
 
 
 现在，此计算机已成为你的域的一部分，你可以：
@@ -68,7 +68,7 @@ Fleet Commander 是一个管理工具，允许你为网络中的所有 Fedora Li
 这意味着，你可以简单地为 GNOME 桌面、Firefox、Chrome、LibreOffice 和其他支持的软件设置任何配置，然后在登录到选定的用户/组/计算机时以细粒度的方式应用该配置。
 
 
-![](/Asserts/Images//attachment/album/202105/26/120154ludxgx4axgdk64uy.png)
+![](/Asserts/Images/album/202105/26/120154ludxgx4axgdk64uy.png)
 
 
 要使用这个工具首先安装 `fleet-commander-admin` 软件包：

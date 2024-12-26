@@ -22,7 +22,7 @@ tags:	[linuxcn,电子商务]
 ### 优秀的开源电商解决方案
 
 
-![](/Asserts/Images//attachment/album/202002/12/131426v66fi476g3j4kkfr.png)
+![](/Asserts/Images/album/202002/12/131426v66fi476g3j4kkfr.png)
 
 
 开源电商解决方案种类繁多，一些缺乏维护的都会被我们忽略掉，以免搭建出来的站点因维护不及时而受到影响。
@@ -34,7 +34,7 @@ tags:	[linuxcn,电子商务]
 #### 1、nopCommerce
 
 
-![](/Asserts/Images//attachment/album/202002/12/131427w1t31h3hcdhatd7k.png)
+![](/Asserts/Images/album/202002/12/131427w1t31h3hcdhatd7k.png)
 
 
 nopCommerce 是基于 [ASP.NET Core](https://en.wikipedia.org/wiki/ASP.NET_Core) 的自由开源的电商解决方案。如果你要找的是基于 PHP 的解决方案，可以跳过这一节了。
@@ -55,7 +55,7 @@ nopCommerce 的管理面板界面具有简洁易用的特点，如果你还使�
 #### 2、OpenCart
 
 
-![](/Asserts/Images//attachment/album/202002/12/131429bj35lg57jcd1f1fl.jpg)
+![](/Asserts/Images/album/202002/12/131429bj35lg57jcd1f1fl.jpg)
 
 
 OpenCart 是一个基于 PHP 的非常流行的电商解决方案，就我个人而言，我曾为一个项目用过它，并且体验非常好，如果不是最好的话。
@@ -73,7 +73,7 @@ OpenCart 不一定是适合所有人的“现代”电商解决方案，但如�
 #### 3、PrestaShop
 
 
-![](/Asserts/Images//attachment/album/202002/12/131431oxtwcfmc7mrkoici.jpg)
+![](/Asserts/Images/album/202002/12/131431oxtwcfmc7mrkoici.jpg)
 
 
 PrestaShop 也是一个可以尝试的开源电商解决方案。
@@ -94,7 +94,7 @@ PrestaShop 的特点就是配置丰富和易于使用，我发现很多其它用
 #### 4、WooCommerce
 
 
-![](/Asserts/Images//attachment/album/202002/12/131432elozblgw8jtbbnbh.jpg)
+![](/Asserts/Images/album/202002/12/131432elozblgw8jtbbnbh.jpg)
 
 
 如果你想用 [WordPress](https://wordpress.org/) 来搭建电商站点，不妨使用 WooCommerce。
@@ -115,7 +115,7 @@ WooCommerce 的灵活性也是一大亮点，在它的线上商店提供了许�
 #### 5、Zen Cart
 
 
-![](/Asserts/Images//attachment/album/202002/12/131433xzzo1waeao38wb51.jpg)
+![](/Asserts/Images/album/202002/12/131433xzzo1waeao38wb51.jpg)
 
 
 这或许是一个稍显古老的电商解决方案，但同时也是最好的开源解决方案之一。如果你喜欢老式风格的模板（主要基于 HTML），而且只需要一些基础性的扩展，那你也可以尝试使用 Zen Cart。
@@ -133,7 +133,7 @@ WooCommerce 的灵活性也是一大亮点，在它的线上商店提供了许�
 #### 6、Magento
 
 
-![Image Credits: Magestore](/Asserts/Images//attachment/album/202002/12/131436dvfhiq0wkfiz0h0g.jpg)
+![Image Credits: Magestore](/Asserts/Images/album/202002/12/131436dvfhiq0wkfiz0h0g.jpg)
 
 
 Magento 是 Abode 旗下的开源电商解决方案，从某种角度来说，可能比 WordPress 表现得更为优秀。
@@ -154,7 +154,7 @@ Magento 完全是作为电商应用程序而生的，因此你会发现它的很
 #### 7、Drupal
 
 
-![Drupal](/Asserts/Images//attachment/album/202002/12/131437lk5a6q1v8qoqhwu7.png)
+![Drupal](/Asserts/Images/album/202002/12/131437lk5a6q1v8qoqhwu7.png)
 
 
 Drupal 是一个适用于创建电商站点的开源 CMS 解决方案。
@@ -172,7 +172,7 @@ Drupal 是一个适用于创建电商站点的开源 CMS 解决方案。
 #### 8、Odoo eCommerce
 
 
-![Odoo Ecommerce Platform](/Asserts/Images//attachment/album/202002/12/131440sr840hkxhz8huhr4.jpg)
+![Odoo Ecommerce Platform](/Asserts/Images/album/202002/12/131440sr840hkxhz8huhr4.jpg)
 
 
 如果你还不知道，Odoo 提供了一套开源商务应用程序。他们还提供了[开源会计软件](https://itsfoss.com/open-source-accounting-software/)和 CRM 解决方案，我们将会在单独的列表中进行介绍。

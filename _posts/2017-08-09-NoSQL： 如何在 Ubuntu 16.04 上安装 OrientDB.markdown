@@ -7,7 +7,7 @@ tags:	[linuxcn,NoSQL,OrientDB]
 ---
 
 
-![OrientDB NoSQL DBMS](/Asserts/Images//attachment/album/201707/31/222237hrpp3jzjn3f3nvpk.png "orientdb")
+![OrientDB NoSQL DBMS](/Asserts/Images/album/201707/31/222237hrpp3jzjn3f3nvpk.png "orientdb")
 
 
 ### 说明 - 非关系型数据库（NoSQL）和 OrientDB

@@ -7,7 +7,7 @@ tags:	[linuxcn,ReactOS,VSCode]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/19/123534mt50mr5z0yjyy55j.jpg)
+![](/Asserts/Images/album/202007/19/123534mt50mr5z0yjyy55j.jpg)
 
 
 #### 替换 Windows 的 ReactOS 终于有钱招全职开发者了

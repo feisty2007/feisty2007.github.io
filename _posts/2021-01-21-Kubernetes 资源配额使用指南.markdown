@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes,配额,限额]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/12/125309xr0kskdrqv33vn4q.jpg "Jars with food inside on a shelf")
+![](/Asserts/Images/album/202101/12/125309xr0kskdrqv33vn4q.jpg "Jars with food inside on a shelf")
 
 
 当 Kubernetes 集群运行过一段时间或者在被开发者大量使用后，[Kubernetes](https://kubernetes.io/) 资源（例如 CPU 和内存）的控制的问题就会显现出来。而在大多情况下只有集群出问题后，我们才会意识到资源控制的重要性。
@@ -55,7 +55,7 @@ Kubernetes 通过 `request` 和 `limit` 两个参数对 CPU 和内存进行限�
 下一张图片解释了配额中 `request` 和 `limit` 的区别：
 
 
-![Requests and limits in Kubernetes resource quotas](/Asserts/Images//attachment/album/202101/12/125323eguvq0lgi9uluux4.png "Requests and limits in Kubernetes resource quotas")
+![Requests and limits in Kubernetes resource quotas](/Asserts/Images/album/202101/12/125323eguvq0lgi9uluux4.png "Requests and limits in Kubernetes resource quotas")
 
 
 下面我们就通过一个例子来说明如何设置资源配额来创建约束，将应用程序限制在某些资源上，它还展示了实现资源配额以获得对 Kubernetes 的控制的有用性。

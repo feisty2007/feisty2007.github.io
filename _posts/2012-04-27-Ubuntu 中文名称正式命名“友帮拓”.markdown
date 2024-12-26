@@ -10,4 +10,4 @@ tags:	[linuxcn,Ubuntu]
 在Ubuntu中文官网上，点击下载<http://www.ubuntu.com.cn/download>，可以看到Ubuntu的中文名称“友帮拓”。感觉怪怪的。
 
 
-![](/Asserts/Images//attachment/album/201204/27/070045dtspua5ppjsu8uvj.png)
+![](/Asserts/Images/album/201204/27/070045dtspua5ppjsu8uvj.png)

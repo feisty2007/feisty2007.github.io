@@ -7,10 +7,10 @@ tags:	[linuxcn,蟑螂,AI,Steam Deck]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/05/155321itbmmt9l90emitmj.jpg)
+![](/Asserts/Images/album/202210/05/155321itbmmt9l90emitmj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/05/155346yws6hklohwnsoo87.jpg)
+![](/Asserts/Images/album/202210/05/155346yws6hklohwnsoo87.jpg)
 
 
 ### 使用 AI 和激光炮塔击杀蟑螂的开源项目
@@ -35,7 +35,7 @@ tags:	[linuxcn,蟑螂,AI,Steam Deck]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/05/155400rs53t2tt2rzux2ta.jpg)
+![](/Asserts/Images/album/202210/05/155400rs53t2tt2rzux2ta.jpg)
 
 
 ### 基于 Linux 的 Steam Deck 掌机出货量逾一百万部
@@ -60,7 +60,7 @@ Valve 的 Linux 掌机 Steam Deck 于今年 2 月 25 日上市，采用预售制
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/05/155416e7yuzv77f1oyu0ze.jpg)
+![](/Asserts/Images/album/202210/05/155416e7yuzv77f1oyu0ze.jpg)
 
 
 ### 美国白宫提出围绕 AI 的自愿安全和透明规则

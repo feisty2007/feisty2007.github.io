@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux中国,通证,LCCN]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/01/001355mk8akaevqd9kkrdv.jpg)
+![](/Asserts/Images/album/201808/01/001355mk8akaevqd9kkrdv.jpg)
 
 
 经过半年的调研、学习和讨论，[Linux 中国](https://linux.cn/)终于迎来了新的时代——通证化的开源社区阶段。根据我们掌握的信息，这可能是中国第一个公开发行通证的技术社区。

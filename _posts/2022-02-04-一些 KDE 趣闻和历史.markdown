@@ -15,7 +15,7 @@ tags:	[linuxcn,KDE]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/23/193047v98lqj2mja9asvmj.jpg)
+![](/Asserts/Images/album/202202/23/193047v98lqj2mja9asvmj.jpg)
 
 
 KDE 有很长的历史。它是如何被构思、发展并成为所有用户群的 “首选” 桌面的赢家的呢？在这篇文章中，我们将介绍一些你可能不知道的 KDE 的趣闻。了解一下也很有趣。
@@ -36,7 +36,7 @@ KDE 是由 [Matthias Ettrich](https://en.wikipedia.org/wiki/Matthias_Ettrich) �
 Matthias 的 KDE 项目正式公告今天 [仍然存在](https://groups.google.com/g/de.comp.os.linux.misc/c/SDbiV3Iat_s/m/zv_D_2ctS8sJ) 在 Google 群组的 de.comp.os.linux.misc（Usenet）上。如下：
 
 
-![KDE 的首个公告](/Asserts/Images//attachment/album/202202/23/193126x2j2xqec8rlaz6a5.jpg)
+![KDE 的首个公告](/Asserts/Images/album/202202/23/193126x2j2xqec8rlaz6a5.jpg)
 
 
 今天，当读到上面的想法，以及他对 KDE 是那么有远见，真有点超现实。就这样，KDE Plasma 今天已经渗透到了所有的设备中：笔记本电脑、台式机、游戏机、手机。这的确很了不起。
@@ -66,7 +66,7 @@ Matthias 的 KDE 项目正式公告今天 [仍然存在](https://groups.google.c
 KDE 1.0 是建立在 Qt 1.0 之上的，主要是用 C++ 编写的。在我看来，它今天看起来仍然令人惊叹。你可以想象一下，在用户界面、用户交互、以及最重要的 —— 为大众提供一个完美的 Linux 桌面方面，这个愿景是多么先进。
 
 
-![K 桌面环境 1.0](/Asserts/Images//attachment/album/202202/23/193126kls4eeq7teqt8ezh.jpg)
+![K 桌面环境 1.0](/Asserts/Images/album/202202/23/193126kls4eeq7teqt8ezh.jpg)
 
 
 #### KDE 2.0
@@ -84,7 +84,7 @@ KDE 1.0 是建立在 Qt 1.0 之上的，主要是用 C++ 编写的。在我看�
 2009 年 7 月 20 日，其开发仓库 SVN 中的源代码抵达了 [第一百万次提交](https://marc.info/?l=kde-commits&m=124811211002267&w=2)。这的确是一个开源项目的里程碑，它为充满希望的未来铺平了道路。
 
 
-![KDE 源代码中的第 100 万次提交片段](/Asserts/Images//attachment/album/202202/23/193126ofy28xlyb0xx03bl.jpg)
+![KDE 源代码中的第 100 万次提交片段](/Asserts/Images/album/202202/23/193126ofy28xlyb0xx03bl.jpg)
 
 
 #### 快进到 Plasma 5.0
@@ -116,7 +116,7 @@ KDE 的官方吉祥物是 <ruby> <a href="https://community.kde.org/Konqi">  康
 > 
 
 
-![Konqi - 官方 KDE 吉祥物](/Asserts/Images//attachment/album/202202/23/193126v5c9twbfqbwc8qxx.jpg)
+![Konqi - 官方 KDE 吉祥物](/Asserts/Images/album/202202/23/193126v5c9twbfqbwc8qxx.jpg)
 
 
 #### KDE 走向更多设备和充满希望的未来的旅程
@@ -131,7 +131,7 @@ Linux 移动设备先锋 Pine64 在 2020 年推出了 [PinePhone KDE 版](https:
 Valve 公司宣布他们的手持游戏机 Steam Deck 采用了 [KDE Plasma](https://www.debugpoint.com/tag/kde-plasma)，运行于 [Arch Linux](https://www.debugpoint.com/tag/arch-linux) 之上。
 
 
-![Slimbook 1](/Asserts/Images//attachment/album/202202/23/193126davh7i5vik1uiahi.jpg)
+![Slimbook 1](/Asserts/Images/album/202202/23/193126davh7i5vik1uiahi.jpg)
 
 
 ### 结语

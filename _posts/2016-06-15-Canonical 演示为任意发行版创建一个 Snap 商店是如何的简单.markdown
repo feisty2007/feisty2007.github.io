@@ -7,7 +7,7 @@ tags:	[linuxcn,snap,flatpak,snappy]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/27/085013exig00r7em82ip8p.jpg)
+![](/Asserts/Images/album/201606/27/085013exig00r7em82ip8p.jpg)
 
 
 Snappy 和 Flatpak 之间的[争吵](/article-7484-1.html)仍在继续中，现在 Canonical 在刚刚发布的 Fedora 24 上演示了创建一个厂商无关的 Snap 商店是多么的简单。
@@ -82,7 +82,7 @@ python store.py
 这样 snap 商店就安装好了，它会监听在默认的 5000 端口上。
 
 
-![Snap 商店监听在 5000 端口上](/Asserts/Images//attachment/album/201606/27/085028qf16evklgp9k66ae.jpg)
+![Snap 商店监听在 5000 端口上](/Asserts/Images/album/201606/27/085028qf16evklgp9k66ae.jpg)
 
 
 #### 客户端
@@ -133,7 +133,7 @@ snap find foobar25
 sudo snap install foobar25
 ```
 
-![使用 snap 去查找软件包](/Asserts/Images//attachment/album/201606/27/085029t63lb02wm0qh3lwm.jpg)
+![使用 snap 去查找软件包](/Asserts/Images/album/201606/27/085029t63lb02wm0qh3lwm.jpg)
 
 
 更多可以看 Dustin 的[原文](http://blog.dustinkirkland.com/2016/06/howto-host-your-own-snap-store.html)或这个[示例商店的说明](https://github.com/noise/snapstore)。

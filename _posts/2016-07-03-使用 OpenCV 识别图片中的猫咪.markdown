@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenCV,计算机视觉]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/21/014359nggjvnaj0zivg5yc.jpg)
+![](/Asserts/Images/album/201607/21/014359nggjvnaj0zivg5yc.jpg)
 
 
 你知道 OpenCV 可以识别在图片中小猫的脸吗？而且是拿来就能用，不需要其它的库之类的。
@@ -25,7 +25,7 @@ tags:	[linuxcn,OpenCV,计算机视觉]
 ### 使用 OpenCV 在图片中检测猫咪
 
 
-如果你查找过 [OpenCV 的代码仓库](https://github.com/Itseez/opencv)，尤其是在 [haarcascades 目录](https://github.com/Itseez/opencv/tree/master/Asserts/Images//haarcascades)里（OpenCV 在这里保存处理它预先训练好的 Haar 分类器，以检测各种物体、身体部位等）， 你会看到这两个文件:
+如果你查找过 [OpenCV 的代码仓库](https://github.com/Itseez/opencv)，尤其是在 [haarcascades 目录](https://github.com/Itseez/opencv/tree/master/data/haarcascades)里（OpenCV 在这里保存处理它预先训练好的 Haar 分类器，以检测各种物体、身体部位等）， 你会看到这两个文件:
 
 
 * haarcascade\_frontalcatface.xml
@@ -157,7 +157,7 @@ $ python cat_detector.py --image images/cat_01.jpg
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/21/014400ze2a5fjnnz5unfbu.jpg)
+![](/Asserts/Images/album/201607/21/014400ze2a5fjnnz5unfbu.jpg)
 
 
 *图 1. 在图片中检测猫脸，甚至是猫咪部分被遮挡了。*
@@ -175,7 +175,7 @@ python cat_detector.py --image images/cat_02.jpg
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/21/014403yfrcjzjvab2vjwwq.jpg)
+![](/Asserts/Images/album/201607/21/014403yfrcjzjvab2vjwwq.jpg)
 
 
 *图 2. 使用 OpenCV 检测猫脸的第二个例子，这次猫脸稍有不同。*
@@ -193,7 +193,7 @@ $ python cat_detector.py --image images/cat_03.jpg
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/21/014405mghqpzu3sskza33u.jpg)
+![](/Asserts/Images/album/201607/21/014405mghqpzu3sskza33u.jpg)
 
 
 *图 3. 使用 OpenCV 和 python 检测猫脸*
@@ -208,7 +208,7 @@ $ python cat_detector.py --image images/cat_04.jpg
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/21/014359nggjvnaj0zivg5yc.jpg)
+![](/Asserts/Images/album/201607/21/014359nggjvnaj0zivg5yc.jpg)
 
 
 *图 4. 在同一张图片中使用 OpenCV 检测多只猫*
@@ -259,7 +259,7 @@ Haar cascades 最大的问题就是如何确定 `detectMultiScale` 方法的参�
 ### 对对象识别感兴趣？并且希望了解更多？
 
 
-![](/Asserts/Images//attachment/album/201607/21/014407ehzc6pffazf9zjn9.jpg)
+![](/Asserts/Images/album/201607/21/014407ehzc6pffazf9zjn9.jpg)
 
 
 *图 5. 在 PyImageSearch Gurus 课程中学习如何构建自定义的对象识别器。*

@@ -7,7 +7,7 @@ tags:	[linuxcn,LUKS,黑话]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/05/230710ioll6lxm11mrtl8l.jpg)
+![](/Asserts/Images/album/202308/05/230710ioll6lxm11mrtl8l.jpg)
 
 
 
@@ -77,7 +77,7 @@ LUKS（<ruby> <a href="https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup?ref
 LUKS 还可以用于创建和运行加密容器。加密容器具有与 LUKS 全盘加密相同的保护级别。LUKS 还提供多种加密算法、多种加密模式和多种哈希函数，有 40 多种可能的组合。
 
 
-![LUKS 结构示意图](/Asserts/Images//attachment/album/202308/05/230751gbddr88rgx887xzg.png)
+![LUKS 结构示意图](/Asserts/Images/album/202308/05/230751gbddr88rgx887xzg.png)
 
 
 任何文件系统都可以进行加密，包括交换分区。加密卷的开头有一个未加密的头部，它允许存储多达 8 个（LUKS1）或 32 个（LUKS2）加密密钥，以及诸如密码类型和密钥大小之类的加密参数。

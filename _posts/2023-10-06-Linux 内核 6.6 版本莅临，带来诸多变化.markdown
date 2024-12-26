@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/31/204603jy3e8ezhtyehn9po.jpg)
+![](/Asserts/Images/album/202310/31/204603jy3e8ezhtyehn9po.jpg)
 
 
 
@@ -53,7 +53,7 @@ Linus Torvalds [表示](https://lkml.iu.edu/hypermail/linux/kernel/2310.3/06370.
 #### 针对英特尔芯片的优化
 
 
-![](/Asserts/Images//attachment/album/202310/31/204634alrzd80mebeztnnp.png)
+![](/Asserts/Images/album/202310/31/204634alrzd80mebeztnnp.png)
 
 
 Linux 内核 6.6 版本新增了对英特尔的**神经处理单元（NPU）的支持**，这样的技术原先被称作通用处理器。
@@ -71,7 +71,7 @@ Linux 内核 6.6 版本新增了对英特尔的**神经处理单元（NPU）的�
 #### 对笔记本的更佳支持
 
 
-![](/Asserts/Images//attachment/album/202310/31/204635nb3btutx6bhmx03e.png)
+![](/Asserts/Images/album/202310/31/204635nb3btutx6bhmx03e.png)
 
 
 **对于惠普笔记本，现在你可以直接在 Linux 中对 BIOS 进行管理了**，这要归功于 “**HP-BIOSCFG**” 驱动的实现。
@@ -89,7 +89,7 @@ Linux 内核 6.6 版本新增了对英特尔的**神经处理单元（NPU）的�
 #### 网络改进
 
 
-![](/Asserts/Images//attachment/album/202310/31/204636x5yq5ndv5spg5gbv.png)
+![](/Asserts/Images/album/202310/31/204636x5yq5ndv5spg5gbv.png)
 
 
 在网络方面，Linux 内核 6.6 版本带来了对如 [Atheros QCA8081](https://www.qualcomm.com/products/internet-of-things/networking/wi-fi-networks/qca8081)、**MediaTek MT7988**、**MediaTek MT7981**，[NXP TJA1120 PHY](https://www.nxp.com/products/interfaces/ethernet-/automotive-ethernet-phys/tja1120-automotive-ethernet-phy-1000base-t1-asil-b-and-tc-10:TJA1120) 等新型硬件的**支持**。
@@ -107,7 +107,7 @@ Linux 内核 6.6 版本新增了对英特尔的**神经处理单元（NPU）的�
 #### AMD 芯片的性能提升
 
 
-![](/Asserts/Images//attachment/album/202310/31/204636mjfmj7zluojsbuob.png)
+![](/Asserts/Images/album/202310/31/204636mjfmj7zluojsbuob.png)
 
 
 随着 Linux 内核 6.6 的发布，AMD 的开发人员推出了**两项尚未正式公开的新技术的支持**。

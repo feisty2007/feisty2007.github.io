@@ -15,7 +15,7 @@ tags:	[linuxcn,2FA,SSH]
 > 
 
 
-![](/Asserts/Images//attachment/album/201811/06/204750irbcwg7egu45e7qp.jpg)
+![](/Asserts/Images/album/201811/06/204750irbcwg7egu45e7qp.jpg)
 
 
 如今，安全比以往更加重要，保护 SSH 服务器是作为系统管理员可以做的最为重要的事情之一。传统地，这意味着禁用密码身份验证而改用 SSH 密钥。无疑这是你首先应该做的，但这并不意味着 SSH 无法变得更加安全。
@@ -255,7 +255,7 @@ Verification code:
 6. 从新应用程序的 “General Settings” 页面顶部获取 API 密钥。你需要 “PRODUCTION API KEY”旁边的眼睛符号来显示密钥。如图：
 
 
-![](/Asserts/Images//attachment/album/201811/06/204801eiomcb42ngo2w8cn.png)
+![](/Asserts/Images/album/201811/06/204801eiomcb42ngo2w8cn.png)
 
 
 在某个安全的地方记下 API 密钥。

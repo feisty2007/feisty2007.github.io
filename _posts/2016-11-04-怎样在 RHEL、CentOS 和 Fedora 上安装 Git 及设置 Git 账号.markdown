@@ -13,7 +13,7 @@ tags:	[linuxcn,Git]
 Git 是一个可以让你追踪软件改动、版本回滚以及创建另外一个版本的目录和文件的软件仓库。
 
 
-![](/Asserts/Images//attachment/album/201611/06/175311hj2ft92r2rvz98fs.jpg)
+![](/Asserts/Images/album/201611/06/175311hj2ft92r2rvz98fs.jpg)
 
 
 Git 主要是用 C 语言来写的，混杂了少量的 Perl 脚本和各种 shell 脚本。它主要在 Linux 内核上运行，并且有以下列举的卓越的性能：
@@ -61,7 +61,7 @@ Git 主要是用 C 语言来写的，混杂了少量的 Perl 脚本和各种 she
 
 ```
 
-![检查 Git 的安装版本](/Asserts/Images//attachment/album/201611/06/175402iyfluoadkogwttue.png)
+![检查 Git 的安装版本](/Asserts/Images/album/201611/06/175402iyfluoadkogwttue.png)
 
 
 *检查 Git 安装的版本*
@@ -96,7 +96,7 @@ Git 主要是用 C 语言来写的，混杂了少量的 Perl 脚本和各种 she
 # git --version
 ```
 
-![检查 Git 的安装版本](/Asserts/Images//attachment/album/201611/06/175405tmn1kw2huwlue0gw.png)
+![检查 Git 的安装版本](/Asserts/Images/album/201611/06/175405tmn1kw2huwlue0gw.png)
 
 
 *检查 Git 的安装版本*
@@ -133,7 +133,7 @@ Git 主要是用 C 语言来写的，混杂了少量的 Perl 脚本和各种 she
 
 ```
 
-![创建 Git 用户账号](/Asserts/Images//attachment/album/201611/06/175406mxyrupe111lzeyss.png)
+![创建 Git 用户账号](/Asserts/Images/album/201611/06/175406mxyrupe111lzeyss.png)
 
 
 *创建 Git 用户账号*
@@ -166,7 +166,7 @@ user.name=username
 user.email= username@some-domian.com
 ```
 
-![在 Linux 设置 Git 用户](/Asserts/Images//attachment/album/201611/06/175406ngcqvrkc7gfr1wwr.png)
+![在 Linux 设置 Git 用户](/Asserts/Images/album/201611/06/175406ngcqvrkc7gfr1wwr.png)
 
 
 *在 Linux 设置 Git 用户*

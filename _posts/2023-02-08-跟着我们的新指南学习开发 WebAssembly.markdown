@@ -7,7 +7,7 @@ tags:	[linuxcn,WebAssembly]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/15/204034uy4t9h6z6o06hj6j.jpg)
+![](/Asserts/Images/album/202302/15/204034uy4t9h6z6o06hj6j.jpg)
 
 
 

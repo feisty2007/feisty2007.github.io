@@ -7,7 +7,7 @@ tags:	[linuxcn,嵌入式,安全]
 ---
 
 
-![Jan Lübbe ](/Asserts/Images//attachment/album/201703/02/011322tsh9l27fnlezqgzn.png "Jan Lübbe ")
+![Jan Lübbe ](/Asserts/Images/album/201703/02/011322tsh9l27fnlezqgzn.png "Jan Lübbe ")
 
 
 *Pengutronix 内核黑客 Jan Lübbe 总结了嵌入式 Linux 中正在不断增长的安全威胁，并在这次欧洲嵌入式 Linux 会议上概述了一个计划，以保持长期设备的安全和功能完整。* [Linux 基金会](https://www.linux.com/licenses/category/linux-foundation)

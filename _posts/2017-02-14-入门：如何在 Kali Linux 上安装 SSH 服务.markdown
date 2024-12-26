@@ -7,7 +7,7 @@ tags:	[linuxcn,SSH]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/14/231723g31tgpl5mjphe131.png)
+![](/Asserts/Images/album/201702/14/231723g31tgpl5mjphe131.png)
 
 
 ### 介绍
@@ -108,7 +108,7 @@ PermitRootLogin yes
 
 ```
 
-![kali linux enable ssh root access](/Asserts/Images//attachment/album/201702/14/231757r233ht4ru3h3niht.jpg)
+![kali linux enable ssh root access](/Asserts/Images/album/201702/14/231757r233ht4ru3h3niht.jpg)
 
 
 对 `/etc/ssh/sshd_config` 进行更改以后，需在以 root 用户登录 SSH 前重启 SSH 服务：

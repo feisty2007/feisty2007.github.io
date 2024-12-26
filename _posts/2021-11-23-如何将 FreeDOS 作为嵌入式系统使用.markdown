@@ -15,7 +15,7 @@ tags:	[linuxcn,FreeDOS,嵌入式]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/24/134734s6zuftzjgtt8herp.jpg "Computer laptop in space")
+![](/Asserts/Images/album/202111/24/134734s6zuftzjgtt8herp.jpg "Computer laptop in space")
 
 
 [FreeDOS 网站](https://www.freedos.org/) 宣称，大多数人使用 FreeDOS 来完成三项主要任务：
@@ -66,7 +66,7 @@ qemu-system-i386 -m 8 -hda tiny.img -cdrom FD13LIVE.iso -boot order=d
 使用 “<ruby> 现场环境模式 <rt>  Live Environment mode </rt></ruby>” 来启动系统，这将为我们提供一个正在运行的 FreeDOS 系统，我们可以使用它来将一个最小化的 FreeDOS 转移到硬盘上。
 
 
-![embedded setup](/Asserts/Images//attachment/album/202111/24/134748ddur1k49tzrj1ruk.png "Boot into the LiveCD environment")
+![embedded setup](/Asserts/Images/album/202111/24/134748ddur1k49tzrj1ruk.png "Boot into the LiveCD environment")
 
 
 *启动到 LiveCD 环境之中（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -75,7 +75,7 @@ qemu-system-i386 -m 8 -hda tiny.img -cdrom FD13LIVE.iso -boot order=d
 我们需要在虚拟硬盘驱动器上为我们的程序创建一个分区。为此，从命令行中运行 `FDISK` 程序。`FDISK` 是 FreeDOS 上的一个标准的 *磁盘分区* 实用程序。使用 `FDISK` 来创建一个单个硬盘驱动器分区，占用整个（2 MB）硬盘驱动器。
 
 
-![embedded setup](/Asserts/Images//attachment/album/202111/24/134748oihhkbbyszibsb8e.png "FDISK, after creating the 2 megabyte partition")
+![embedded setup](/Asserts/Images/album/202111/24/134748oihhkbbyszibsb8e.png "FDISK, after creating the 2 megabyte partition")
 
 
 *FDISK，在创建 2 MB 分区后（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -87,7 +87,7 @@ qemu-system-i386 -m 8 -hda tiny.img -cdrom FD13LIVE.iso -boot order=d
 在重新启动后，你需要在新的硬盘驱动器上创建一个 DOS 文件系统。因为这里只有一个虚拟硬盘，FreeDOS 将识别其为 `C:` 驱动器。你可以使用 `FORMAT` 命令来在 `C:` 驱动器上创建一个 DOS 文件系统。使用 `/S` 选项将把操作系统文件（内核，外加一个 `COMMAND.COM` shell 的副本）转移到新的驱动器上。
 
 
-![embedded setup](/Asserts/Images//attachment/album/202111/24/134748ebaai9w9vinpn09e.png "Format the new drive to create a DOS filesystem")
+![embedded setup](/Asserts/Images/album/202111/24/134748ebaai9w9vinpn09e.png "Format the new drive to create a DOS filesystem")
 
 
 *格式化新的驱动器来创建一个 DOS 文件系统（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）* 你已经创建了硬盘驱动器并将其格式化，现在，你可以安装应用程序，这些应用程序是将会在新安装的嵌入式系统上运行的。
@@ -105,7 +105,7 @@ FreeDOS 1.3 RC4 包含一些有趣的游戏。我喜欢的一个游戏是一个�
 为安装应用程序，在 FreeDOS 1.3 RC4 LiveCD 上，进入 `\PACKAGES\GAMES` 目录。你将在其中看到一个很长的软件包列表，而我们想要的 `SENET.ZIP` 。
 
 
-![embedded setup](/Asserts/Images//attachment/album/202111/24/134748s4caqvbowzvn4ggq.png "A list of game packages from FreeDOS 1.3 RC4")
+![embedded setup](/Asserts/Images/album/202111/24/134748s4caqvbowzvn4ggq.png "A list of game packages from FreeDOS 1.3 RC4")
 
 
 *来自 FreeDOS 1.3 RC4 的一个游戏软件包列表（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -123,7 +123,7 @@ UNZIP SENET.ZIP -d C:\FDOS
 通常，使用 `UNZIP` 来提取 Zip 文件到当前目录中。在命令行结尾的 `-d C:\FDOS` 选项将告诉 `UNZIP` 来提取 Zip 文件到 `C:\FDOS` 目录之中。（`-d` 指的是“目的地”）
 
 
-![embedded setup](/Asserts/Images//attachment/album/202111/24/134749h89nfgt9y9qqyntt.png "Unzipping the Simple Senet game")
+![embedded setup](/Asserts/Images/album/202111/24/134749h89nfgt9y9qqyntt.png "Unzipping the Simple Senet game")
 
 
 *解压缩 Simple Senet 游戏（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -132,7 +132,7 @@ UNZIP SENET.ZIP -d C:\FDOS
 为了让嵌入式系统启动时运行 “Simple Senet” 游戏，我们需要告诉 FreeDOS 来使用 Senet 作为系统的 “shell” 。 默认的 FreeDOS 的 shell 是 `COMMAND.COM` 程序，但是，你可以在 `FDCONFIG.SYS` 内核配置文件中使用 `SHELL=` 指令来定义一个不同的 shell 程序。我们可以使用 FreeDOS 的 Edit 来创建新的 `C:\FDCONFIG.SYS` 文件。
 
 
-![Embedded edit senet](/Asserts/Images//attachment/album/202111/24/134749af8lji8lfcz3jp7n.png "Embedded edit senet")
+![Embedded edit senet](/Asserts/Images/album/202111/24/134749af8lji8lfcz3jp7n.png "Embedded edit senet")
 
 
 *（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -156,7 +156,7 @@ qemu-system-i386 -m 8 -hda tiny.img -boot order=c
 当 FreeDOS 内核启动时，它将读取 `FDCONFIG.SYS` 文件以获取启动参数。然后，它将使用 `SHELL=` 行的定义来运行 shell 。这将自动地运行 “Simple Senet” 游戏。
 
 
-![embedded setup](/Asserts/Images//attachment/album/202111/24/134749ys2znchnc333s307.png "Running Simple Senet as an embedded system")
+![embedded setup](/Asserts/Images/album/202111/24/134749ys2znchnc333s307.png "Running Simple Senet as an embedded system")
 
 
 *作为一个嵌入式系统运行 Simple Senet（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

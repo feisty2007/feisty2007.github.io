@@ -15,7 +15,7 @@ tags:	[linuxcn,终端,命令行提示符]
 > 
 
 
-![Bash prompt tips and tricks](/Asserts/Images//attachment/album/201707/20/214141xon81kq4qm085kk0.png "Bash prompt tips and tricks")
+![Bash prompt tips and tricks](/Asserts/Images/album/201707/20/214141xon81kq4qm085kk0.png "Bash prompt tips and tricks")
 
 
 当你在 Linux 环境下打开一个 Shell 终端时，会看到命令行中出现了类似下面的一个 Bash 提示符：

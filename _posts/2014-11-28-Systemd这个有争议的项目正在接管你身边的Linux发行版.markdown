@@ -7,7 +7,7 @@ tags:	[linuxcn,systemd,sysvinit]
 ---
 
 
-![](/Asserts/Images//attachment/album/201411/30/100852jyzrby2g62bc666c.jpg)
+![](/Asserts/Images/album/201411/30/100852jyzrby2g62bc666c.jpg)
 
 
 Systemd 是目前为止在Linux平台上最有争议的项目之一。它到底有多大的争议？它的争议大到systemd的开发者之一Lennart Poettering 声称有人使用[比特币](http://www.pcworld.com/article/2033715/7-things-you-need-to-know-about-bitcoin.html)雇佣职业杀手要干掉他。但是还是有比较理智的做法的，有一个[抵制systemd网站](http://boycottsystemd.org/)在技术角度上提出了抵制systemd的原因。

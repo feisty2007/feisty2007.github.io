@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派,机器人]
 ---
 
 
-![](/Asserts/Images//attachment/album/201710/08/114802qnyu7knmrfmk5yac.jpg)
+![](/Asserts/Images/album/201710/08/114802qnyu7knmrfmk5yac.jpg)
 
 
 
@@ -21,13 +21,13 @@ tags:	[linuxcn,树莓派,机器人]
 2010 年，作为一个开源概念验证和用于探索 AI 在多传感器、交互式机器人的能力的研究项目，机器人开发商 Francisco Paz 及它在巴塞罗那的 Thecorpora 公司推出了首款 [Qbo](http://linuxdevices.linuxgizmos.com/open-source-robot-is-all-eyes/) “Cue-be-oh” 机器人。在今年 2 月移动世界大会上的预览之后，Thecorpora 把它放到了 Indiegogo 上，与 Arrow 合作推出了第一个批量生产的社交机器人版本。
 
 
-![](/Asserts/Images//attachment/album/201710/08/114803x81yy78rx157rp5y.jpg) 
+![](/Asserts/Images/album/201710/08/114803x81yy78rx157rp5y.jpg) 
 
 
 *Q.bo One 的左侧*
 
 
-![](/Asserts/Images//attachment/album/201710/08/114803sto4bdnlhuonxrad.jpg)
+![](/Asserts/Images/album/201710/08/114803sto4bdnlhuonxrad.jpg)
 
 
 *Q.bo One 的顶部*
@@ -36,7 +36,7 @@ tags:	[linuxcn,树莓派,机器人]
 像原来一样，新的 Q.bo One 有一个带眼睛的球形头（双立体相机）、耳朵（3 个麦克风）和嘴（扬声器），并由 WiFi 和蓝牙控制。 Q.bo One 也同样采用开源 Linux 软件和开放规格硬件。然而，它不是使用基于 Intel Atom 的 Mini-ITX 板，而是在与 Arduino 兼容的主板相连的 Raspberry Pi 3 上运行 Raspbian。
 
 
-![](/Asserts/Images//attachment/album/201710/08/114804uz6ku6kr654hxqzk.jpg)
+![](/Asserts/Images/album/201710/08/114804uz6ku6kr654hxqzk.jpg)
 
 
 *Q.bo One 侧视图*\*
@@ -48,7 +48,7 @@ Q.bo One 于 7 月中旬在 Indiegogo 上架，起价为 369 美元（早期买�
 更专业的机器人工程师和嵌入式开发人员可能会想要使用价值 $99 的只有树莓派和 Qboard PCB 和软件的版本，或者提供没有电路板的机器人套件的 $249 版本。使用此版本，你可以用自己的 Arduino 控制器替换 Qboard，并将树莓派 3 替换为另一个 Linux SBC。该公司列出了 Banana Pi、BeagleBone、Tinker Board 以及[即将退市的 Intel Edison](http://linuxgizmos.com/intel-pulls-the-plug-on-its-joule-edison-and-galileo-boards/)，作为兼容替代品的示例。
 
 
-![](/Asserts/Images//attachment/album/201710/08/114805drpppilsll0z567i.jpg)
+![](/Asserts/Images/album/201710/08/114805drpppilsll0z567i.jpg)
 
 
 *Q.bo One 套件*
@@ -57,13 +57,13 @@ Q.bo One 于 7 月中旬在 Indiegogo 上架，起价为 369 美元（早期买�
 与 2010 年的 Qbo 不同，Q.bo One 除了球面头部之外无法移动，它可以在双重伺服系统的帮助下在底座上旋转，以便跟踪声音和动作。Robotis Dynamixel 舵机同样开源，树莓派基于 [TurtleBot 3](http://linuxgizmos.com/ubuntu-driven-turtlebot-gets-a-major-rev-with-a-pi-or-joule-in-the-drivers-seat/) 机器人工具包，除了左右之外，还可以上下移动。
 
 
-![](/Asserts/Images//attachment/album/201710/08/114805hyi1klkkzh1l41pl.jpg) 
+![](/Asserts/Images/album/201710/08/114805hyi1klkkzh1l41pl.jpg) 
 
 
 *Q.bo One 细节*
 
 
-![](/Asserts/Images//attachment/album/201710/08/114806u9lsndfssuedss2n.jpg)
+![](/Asserts/Images/album/201710/08/114806u9lsndfssuedss2n.jpg)
 
 
 *Qboard 细节*
@@ -72,7 +72,7 @@ Q.bo One 于 7 月中旬在 Indiegogo 上架，起价为 369 美元（早期买�
 Q.bo One 类似于基于 Linux 的 [Jibo](http://linuxgizmos.com/cheery-social-robot-owes-it-all-to-its-inner-linux/) “社交机器人”，它于 2014 年在 Indiegogo 众筹，最后达到 360 万美元。然而，Jibo 还没有出货，[最近的推迟](https://www.slashgear.com/jibo-delayed-to-2017-as-social-robot-hits-more-hurdles-20464725/)迫使它在今年的某个时候发布一个版本。
 
 
-![](/Asserts/Images//attachment/album/201710/08/114807xpbuoby60znucgau.jpg)
+![](/Asserts/Images/album/201710/08/114807xpbuoby60znucgau.jpg)
 
 
 *Q.bo One*
@@ -90,13 +90,13 @@ Q.bo One 自原始版以来添加了一些技巧，例如由 20 个 LED 组成�
 接口和你在树莓派 3 上的一样，它在我们的 [2017 黑客电路板调查](http://linuxgizmos.com/2017-hacker-board-survey-raspberry-pi-still-rules-but-x86-sbcs-make-gains/)中消灭了其他对手。为树莓派 3 的 WiFi 和蓝牙安装了天线。
 
 
-![](/Asserts/Images//attachment/album/201710/08/114808ua1iqicqbangwdm1.jpg) 
+![](/Asserts/Images/album/201710/08/114808ua1iqicqbangwdm1.jpg) 
 
 
 *Q.bo One 软件架构*
 
 
-![](/Asserts/Images//attachment/album/201710/08/114802qnyu7knmrfmk5yac.jpg)
+![](/Asserts/Images/album/201710/08/114802qnyu7knmrfmk5yac.jpg)
 
 
 *Q.bo One 及 Scratch 编程*

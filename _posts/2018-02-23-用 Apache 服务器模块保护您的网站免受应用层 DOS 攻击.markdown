@@ -7,7 +7,7 @@ tags:	[linuxcn,DOS,攻击]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/04/211129wijnojhizpucof8u.jpg)
+![](/Asserts/Images/album/201802/04/211129wijnojhizpucof8u.jpg)
 
 
 有多种可以导致网站下线的攻击方法，比较复杂的方法要涉及数据库和编程方面的技术知识。一个更简单的方法被称为“<ruby> 拒绝服务 <rt>  Denial Of Service </rt></ruby>”（DOS）攻击。这个攻击方法的名字来源于它的意图：使普通客户或网站访问者的正常服务请求被拒绝。

@@ -10,7 +10,7 @@ tags:	[linuxcn,Docker,Apache,镜像]
 在这篇文章中，我们将会学习关于Docker的一些知识，如何使用Docker部署Apache httpd服务，并且共享到Docker Hub上面去。首先，我们学习怎样拉取和使用Docker Hub里面的镜像，然后在一个Fedora 22的镜像上交互式地安装Apache，之后我们将会学习如何用一个Dockerfile文件来以一种更快，更优雅的方式制作一个镜像。最后，我们将我们创建的镜像发布到Docker Hub上，这样以后任何人都可以下载并使用它。
 
 
-![](/Asserts/Images//attachment/album/201507/18/222135wkezye1y1o5zhhia.jpg)
+![](/Asserts/Images/album/201507/18/222135wkezye1y1o5zhhia.jpg)
 
 
 ### 安装并初体验Docker
@@ -101,7 +101,7 @@ dockr run -t busybox /bin/echo "hello world"
 如果Docker不能在你的系统里找到本地的Busybox镜像，她就会自动从Docker Hub里拉取镜像，正如你可以看下如下的快照：
 
 
-![Hello world with Busybox](/Asserts/Images//attachment/album/201507/18/222140i55kyke5p9ph5pk2.png)
+![Hello world with Busybox](/Asserts/Images/album/201507/18/222140i55kyke5p9ph5pk2.png)
 
 
 *Hello world with Busybox*
@@ -158,7 +158,7 @@ docker ps
 
 ```
 
-![listing with docker ps and attaching with docker attach](/Asserts/Images//attachment/album/201507/18/222141ym3qoi88ib0qlk6x.png)
+![listing with docker ps and attaching with docker attach](/Asserts/Images/album/201507/18/222141ym3qoi88ib0qlk6x.png)
 
 
 *使用docker ps列出，并使用docker attach进入一个容器里*
@@ -293,7 +293,7 @@ docker run -p 80:80 -d -t gaiada/apache /etc/httpd/run_apache_foreground
 到目前，你正在你的容器里运行Apache，打开你的浏览器访问该服务，在[http://localhost](http://localhost/)，你将会看到如下Apache默认的页面
 
 
-![Apache default page running from Docker container](/Asserts/Images//attachment/album/201507/18/222142v25gpwhznvv0pl37.png)
+![Apache default page running from Docker container](/Asserts/Images/album/201507/18/222142v25gpwhznvv0pl37.png)
 
 
 *在容器里运行的Apache默认页面*
@@ -368,7 +368,7 @@ docker build -t gaiada/apachedf:0.1 .
 
 ```
 
-![docker build complete](/Asserts/Images//attachment/album/201507/18/222143el2g77alygcld997.png)
+![docker build complete](/Asserts/Images/album/201507/18/222143el2g77alygcld997.png)
 
 
 *docker完成创建*
@@ -407,7 +407,7 @@ docker run -t -p 80:80 gaiada/apachedf
 为了能够在Docker Hub上推送你的镜像，你需要创建一个帐号。访问 <https://hub.docker.com/account/signup/>，填写下面的表格：
 
 
-![Docker Hub signup page](/Asserts/Images//attachment/album/201507/18/222143jf9zcj8cnc7ce1c7.png)
+![Docker Hub signup page](/Asserts/Images/album/201507/18/222143jf9zcj8cnc7ce1c7.png)
 
 
 *Docker Hub 注册页面*
@@ -443,7 +443,7 @@ docker push docker.io/gaiada/apachedf
 你可能会看见像这样的输出，在你的控制台上：
 
 
-![Docker push Apache image complete](/Asserts/Images//attachment/album/201507/18/222144sp083p0xxw0g0t2t.png)
+![Docker push Apache image complete](/Asserts/Images/album/201507/18/222144sp083p0xxw0g0t2t.png)
 
 
 *Docker推送Apache镜像完成*

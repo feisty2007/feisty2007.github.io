@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS,TLS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/03/200139ufsvfoucavors3fr.jpg)
+![](/Asserts/Images/album/202008/03/200139ufsvfoucavors3fr.jpg)
 
 
 现代计算机用来在互联网种查找资源的 [域名系统（DNS）](https://en.wikipedia.org/wiki/Domain_Name_System) 是在 [35 年前](https://tools.ietf.org/html/rfc1035)设计的，没有考虑用户隐私。它会面临安全风险和攻击，例如 [DNS 劫持](https://en.wikipedia.org/wiki/DNS_hijacking)。它还能让 [ISP](https://en.wikipedia.org/wiki/Internet_service_provider) 拦截查询。
@@ -196,7 +196,7 @@ $ nslookup fedoramagazine.org
 你应该会看到你的计算机和配置的 DNS 服务器之间的 TLS 加密交换：
 
 
-![](/Asserts/Images//attachment/album/202008/03/200141wlbeo9m0e1m9loml.png)
+![](/Asserts/Images/album/202008/03/200141wlbeo9m0e1m9loml.png)
 
 
 

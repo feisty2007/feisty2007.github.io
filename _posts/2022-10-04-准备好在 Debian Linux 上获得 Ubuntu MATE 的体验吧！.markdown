@@ -15,7 +15,7 @@ tags:	[linuxcn,MATE,Ubuntu MATE,Debian]
 > 
 
 
-![准备好在 Debian Linux 上获得 Ubuntu MATE 的体验吧！](/Asserts/Images//attachment/album/202210/09/120442obl05b63z5hl6wnh.png)
+![准备好在 Debian Linux 上获得 Ubuntu MATE 的体验吧！](/Asserts/Images/album/202210/09/120442obl05b63z5hl6wnh.png)
 
 
 Ubuntu MATE 的创始人与维护者之一 **Martin Wimpress**，在 Ubuntu MATE 22.10 的测试版发布说明中提到了一些相当有趣的事情。
@@ -33,7 +33,7 @@ Ubuntu MATE 的创始人与维护者之一 **Martin Wimpress**，在 Ubuntu MATE
 ### 将 Ubuntu MATE 的体验带入 Debian 的版本中
 
 
-![](/Asserts/Images//attachment/album/202210/09/120517jynzcndsytpzpccp.jpg)
+![](/Asserts/Images/album/202210/09/120517jynzcndsytpzpccp.jpg)
 
 
 以下是 Martin 提到的内容：
@@ -85,7 +85,7 @@ Debian MATE 在用户中不那么受欢迎并**不足为奇**。主要是因为�
 **那么，我们是否可以期待与 Debian 上是否能和 Ubuntu MATE 22.10（Kinetic Kudu）非常相似？**
 
 
-![ubuntu mate 22.10 hud settings](/Asserts/Images//attachment/album/202210/09/120443vr580tl4vlp0roil.png)
+![ubuntu mate 22.10 hud settings](/Asserts/Images/album/202210/09/120443vr580tl4vlp0roil.png)
 
 
 大概是。但这需要时间。

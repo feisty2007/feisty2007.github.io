@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,软件包]
 ---
 
 
-![openssf-logo](/Asserts/Images//attachment/album/202205/11/155802w54esei0j6s0560j.jpg)
+![openssf-logo](/Asserts/Images/album/202205/11/155802w54esei0j6s0560j.jpg)
 
 
 开源安全基金会（OpenSSF）发布了一个新工具的测试版，它可以对发布到著名开源仓库的所有软件包进行动态分析。软件包分析项目试图通过识别任何恶意行为并警告用户来保护开源软件包，目的是增强对开源软件的信任并加强软件供应链的安全性。

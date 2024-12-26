@@ -38,7 +38,7 @@ Linux 内核开发者并不是以前没有需要遵守的行为准则，但是�
 ### Linus Torvalds 是被迫道歉并且休假的吗？
 
 
-![Linus Torvalds 的道歉](/Asserts/Images//attachment/album/201810/16/122734pipmibdrptydzzi6.jpg)
+![Linus Torvalds 的道歉](/Asserts/Images/album/201810/16/122734pipmibdrptydzzi6.jpg)
 
 
 这个新的行为准则由 Linus Torvalds 和 Greg Kroah-Hartman (仅次于 Torvalds 的二把手）签发。来自 Intel 的 Dan Williams 和来自 Facebook 的 Chris Mason 也是该准则的签署者之一。
@@ -73,7 +73,7 @@ Linux 的行为准则基于[<ruby> 贡献者盟约 <rt>  Contributor Convenant <
 Coraline 对于精英主义的反对立场同样十分鲜明。[<ruby> 精英主义 <rt>  meritocracy </rt></ruby>](https://en.wikipedia.org/wiki/Meritocracy)这个词语源自拉丁文，本意为系统内的进步取决于“精英”，例如智力水平、取得的证书以及教育程度。但[类似 Coraline 的活动家们认为](https://modelviewculture.com/pieces/the-dehumanizing-myth-of-the-meritocracy)唯才是用是个糟糕的体系，因为它只是通过人的智力产出来度量一个人，而并不重视他们的人性。
 
 
-[![croraline meritocracy](/Asserts/Images//attachment/album/201810/16/122734dvg5as6ags6tss3t.jpg)](https://pbs.twimg.com/media/DnTTfi7XoAAdk08.jpg)
+[![croraline meritocracy](/Asserts/Images/album/201810/16/122734dvg5as6ags6tss3t.jpg)](https://pbs.twimg.com/media/DnTTfi7XoAAdk08.jpg)
 
 
 *图片来源：推特用户@nickmon1112*

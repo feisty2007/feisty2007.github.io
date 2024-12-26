@@ -7,7 +7,7 @@ tags:	[linuxcn,AWStats,日志]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/03/063949bt53ex3otbdzxjdx.jpg)
+![](/Asserts/Images/album/201512/03/063949bt53ex3otbdzxjdx.jpg)
 
 
 AWStats 是一个开源的网站分析报告工具，可以生成强大的网站、流媒体、FTP 或邮件服务器的访问统计图。此日志分析器以 CGI 或命令行方式进行工作，并在网页中以图表的形式尽可能的显示你日志中所有的信息。它可以“部分”读取信息文件，以便能够频繁并快速处理大量的日志文件。它支持绝大多数 Web 服务器日志文件格式，包括 Apache，IIS 等。
@@ -108,7 +108,7 @@ sudo /usr/lib/cgi-bin/awstats.pl -config=test.com -update
 输出会是这个样子:
 
 
-![awtstats](/Asserts/Images//attachment/album/201512/03/063950x1vki1ii21011v45.png)
+![awtstats](/Asserts/Images/album/201512/03/063950x1vki1ii21011v45.png)
 
 
 ### 为 Apache 配置 AWStats
@@ -137,7 +137,7 @@ sudo chmod -R 755 /var/www/html/cgi-bin/
 它的页面像下面这样：
 
 
-![awstats_page](/Asserts/Images//attachment/album/201512/03/063950ph7krr1771iwccht.jpg)
+![awstats_page](/Asserts/Images/album/201512/03/063950ph7krr1771iwccht.jpg)
 
 
 ### 设置定时任务来更新日志

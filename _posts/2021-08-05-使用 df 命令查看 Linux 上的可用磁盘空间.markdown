@@ -15,7 +15,7 @@ tags:	[linuxcn,df,磁盘]
 > 
 
 
-![](/Asserts/Images//attachment/album/202108/04/110742netskjccb5vzvujk.jpg "Free disk space")
+![](/Asserts/Images/album/202108/04/110742netskjccb5vzvujk.jpg "Free disk space")
 
 
 磁盘空间已经不像计算机早期那样珍贵，但无论你有多少磁盘空间，总有耗尽的可能。计算机需要一些磁盘空间才能启动运行，所以为了确保你没有在无意间用尽了所有的硬盘空间，偶尔检查一下是非常必要的。在 Linux 终端，你可以用 `df` 命令来做这件事。

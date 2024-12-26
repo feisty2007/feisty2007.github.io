@@ -7,7 +7,7 @@ tags:	[linuxcn,重启,时间]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/06/002508sxtqeyxmetsjgeul.jpg)
+![](/Asserts/Images/album/201802/06/002508sxtqeyxmetsjgeul.jpg)
 
 
 在你的 Linux 或类 UNIX 系统中，你是如何查询系统上次重新启动的日期和时间？怎样显示系统关机的日期和时间？ `last` 命令不仅可以按照时间从近到远的顺序列出该会话的特定用户、终端和主机名，而且还可以列出指定日期和时间登录的用户。输出到终端的每一行都包括用户名、会话终端、主机名、会话开始和结束的时间、会话持续的时间。要查看 Linux 或类 UNIX 系统重启和关机的时间和日期，可以使用下面的命令。
@@ -50,7 +50,7 @@ $ last reboot | less
 示例输出：
 
 
-[![Fig.01: last command in action](/Asserts/Images//attachment/album/201802/06/002526ha8bfu85gahgur5b.jpg)](https://www.cyberciti.biz/tips/wp-content/uploads/2006/04/last-reboot.jpg)
+[![Fig.01: last command in action](/Asserts/Images/album/201802/06/002526ha8bfu85gahgur5b.jpg)](https://www.cyberciti.biz/tips/wp-content/uploads/2006/04/last-reboot.jpg)
 
 
 或者，尝试输入：
@@ -116,7 +116,7 @@ $ last -x shutdown
 示例输出：
 
 
-![Fig.01: How to view last Linux System Reboot Date/Time ](/Asserts/Images//attachment/album/201802/06/002526rvvf9ifl79vzvry9.jpg)
+![Fig.01: How to view last Linux System Reboot Date/Time ](/Asserts/Images/album/201802/06/002526rvvf9ifl79vzvry9.jpg)
 
 
 ### 查看系统正常的运行时间

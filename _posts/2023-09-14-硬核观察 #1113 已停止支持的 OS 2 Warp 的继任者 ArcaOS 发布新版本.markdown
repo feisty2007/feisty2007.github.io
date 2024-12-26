@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,MIPS,OS/2]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/03/152933et9z9keljuz8e8t4.jpg)
+![](/Asserts/Images/album/202309/03/152933et9z9keljuz8e8t4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/03/152946hvtyysea7e4vzjet.jpg)
+![](/Asserts/Images/album/202309/03/152946hvtyysea7e4vzjet.jpg)
 
 
 ### 已停止支持的 OS/2 Warp 的继任者 ArcaOS 发布新版本
@@ -35,7 +35,7 @@ IBM 于 2006 年底停止了对 OS/2 的支持，但许多公司和个人仍在�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/03/153000td3ddkznxdnnnitn.jpg)
+![](/Asserts/Images/album/202309/03/153000td3ddkznxdnnnitn.jpg)
 
 
 ### 人工智能热让安圭拉的 .ai 域名成为数字金矿
@@ -60,7 +60,7 @@ IBM 于 2006 年底停止了对 OS/2 的支持，但许多公司和个人仍在�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/03/153015gk22zk8wwgztszew.jpg)
+![](/Asserts/Images/album/202309/03/153015gk22zk8wwgztszew.jpg)
 
 
 ### 由于 2038 年问题，Debian 放弃 32 位 MIPS 小端架构

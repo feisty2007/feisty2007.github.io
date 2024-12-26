@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/18/090808hlrh41zhfwq8vf8b.jpg)
+![](/Asserts/Images/album/202007/18/090808hlrh41zhfwq8vf8b.jpg)
 
 
 #### 微软推出经典进程监控工具 Procmon 的 Linux 版本

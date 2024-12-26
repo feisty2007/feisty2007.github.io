@@ -15,7 +15,7 @@ tags:	[linuxcn,跟踪,分布式]
 > 
 
 
-![](/Asserts/Images//attachment/album/202103/23/221354lc1eiill7lln4lli.jpg "Computer laptop in space")
+![](/Asserts/Images/album/202103/23/221354lc1eiill7lln4lli.jpg "Computer laptop in space")
 
 
 Grafana 的 [Tempo](https://grafana.com/oss/tempo/) 是出自 Grafana 实验室的一个简单易用、大规模的、分布式的跟踪后端。Tempo 集成了 [Grafana](http://grafana.com/oss/grafana)、[Prometheus](https://prometheus.io/) 以及 [Loki](https://grafana.com/oss/loki/)，并且它只需要对象存储进行操作，因此成本低廉，操作简单。
@@ -36,7 +36,7 @@ Grafana 的 [Tempo](https://grafana.com/oss/tempo/) 是出自 Grafana 实验室�
 接下来是一个分布式跟踪系统生成应用程序甘特图的示例。它使用 Jaeger [HotROD](https://github.com/jaegertracing/jaeger/tree/master/examples/hotrod) 的演示应用生成跟踪，并把它们存到 Grafana 云托管的 Tempo 上。这个图展示了按照服务和功能划分的请求处理时间。
 
 
-![Gantt chart from Grafana Tempo](/Asserts/Images//attachment/album/202103/23/221405whe0hxj2ojjh4eeh.png "Gantt chart from Grafana Tempo")
+![Gantt chart from Grafana Tempo](/Asserts/Images/album/202103/23/221405whe0hxj2ojjh4eeh.png "Gantt chart from Grafana Tempo")
 
 
 ### 减少索引的大小
@@ -69,7 +69,7 @@ Tempo 使用对象存储后端，这是它唯一的依赖。它既可以被用�
 这个例子展示了使用带有请求延迟直方图的范例，其中每个范例数据点都链接到 Tempo 中的一个跟踪。
 
 
-![Using exemplars in Tempo](/Asserts/Images//attachment/album/202103/23/221405umi3ziab6yzp226m.png "Using exemplars in Tempo")
+![Using exemplars in Tempo](/Asserts/Images/album/202103/23/221405umi3ziab6yzp226m.png "Using exemplars in Tempo")
 
 
 ### 元数据一致性
@@ -81,7 +81,7 @@ Tempo 使用对象存储后端，这是它唯一的依赖。它既可以被用�
 下面是一个一致元数据的示例，它可用于Tempo跟踪中查看给定范围的日志。
 
 
-![](/Asserts/Images//attachment/album/202103/23/221406ht5s6etve6335vzk.png)
+![](/Asserts/Images/album/202103/23/221406ht5s6etve6335vzk.png)
 
 
 ### 云原生

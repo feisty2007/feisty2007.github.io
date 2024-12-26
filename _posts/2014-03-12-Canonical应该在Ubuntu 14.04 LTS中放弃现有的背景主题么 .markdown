@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,Ubuntu,LTS,桌面,背景]
 ---
 
 
-![](/Asserts/Images//attachment/album/201403/13/235511nvli1bckidf3rfrb.jpg)
+![](/Asserts/Images/album/201403/13/235511nvli1bckidf3rfrb.jpg)
 
 
 Ubuntu已经使用同一套背景很多年了,但是随着即将到来的Ubuntu 14.04 LTS(Trusty Tahr),它会是更换主题的一个绝佳时机么?

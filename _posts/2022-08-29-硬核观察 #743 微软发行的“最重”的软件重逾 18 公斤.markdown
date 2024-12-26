@@ -7,10 +7,10 @@ tags:	[linuxcn,软件,加密,设备安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/29/164641gqjhphw7cmms52jm.jpg)
+![](/Asserts/Images/album/202208/29/164641gqjhphw7cmms52jm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/29/164647ntovxwrshjnolkfp.jpg)
+![](/Asserts/Images/album/202208/29/164647ntovxwrshjnolkfp.jpg)
 
 
 ### 微软发行的“最重”的软件重逾 18 公斤
@@ -35,7 +35,7 @@ tags:	[linuxcn,软件,加密,设备安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/29/164659q2jdsww1224qzxx2.jpg)
+![](/Asserts/Images/album/202208/29/164659q2jdsww1224qzxx2.jpg)
 
 
 ### 谷歌开源识别各种加密产品漏洞的 Paranoid
@@ -60,7 +60,7 @@ tags:	[linuxcn,软件,加密,设备安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/29/165104rtqbsibcqmfri2lu.jpg)
+![](/Asserts/Images/album/202208/29/165104rtqbsibcqmfri2lu.jpg)
 
 
 ### Ubuntu 22.10 禁用 GNOME 43 中的设备安全提示功能

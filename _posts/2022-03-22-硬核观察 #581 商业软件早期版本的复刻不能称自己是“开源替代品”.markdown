@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,Neo4J,M1,杀毒]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/20/152203ydayzbdyfk85bbf8.jpg)
+![](/Asserts/Images/album/202203/20/152203ydayzbdyfk85bbf8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/20/152213ntfitaufws4e9gge.jpg)
+![](/Asserts/Images/album/202203/20/152213ntfitaufws4e9gge.jpg)
 
 
 ### 商业软件早期版本的复刻不能称自己是“开源替代品”
@@ -27,7 +27,7 @@ Neo4j EE 在 2018 年 5 月放弃了 AGPL 许可证，并采用了一个新的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/20/152257jrqzqz5jsjapqbx2.jpg)
+![](/Asserts/Images/album/202203/20/152257jrqzqz5jsjapqbx2.jpg)
 
 
 ### 运行在 M1 芯片上的 Asahi Linux 发布 alpha 版本
@@ -44,7 +44,7 @@ Asahi Linux 终于宣布了 [alpha 版本](https://asahilinux.org/2022/03/asahi-
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/20/152319x16fz9nz91fzmfkn.jpg)
+![](/Asserts/Images/album/202203/20/152319x16fz9nz91fzmfkn.jpg)
 
 
 ### 微软的杀毒软件将 Office 更新标记为勒索软件

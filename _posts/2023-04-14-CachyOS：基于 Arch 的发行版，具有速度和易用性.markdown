@@ -15,7 +15,7 @@ tags:	[linuxcn,Arch]
 > 
 
 
-![cachyOS](/Asserts/Images//attachment/album/202304/13/155906rnajlnlzqz8kf8z0.jpg)
+![cachyOS](/Asserts/Images/album/202304/13/155906rnajlnlzqz8kf8z0.jpg)
 
 
 Arch Linux 适合于那些想在其系统上使用 Linux 的寻求挑战的高级用户。
@@ -33,7 +33,7 @@ Arch Linux 适合于那些想在其系统上使用 Linux 的寻求挑战的高�
 ### CachyOS 概述
 
 
-![cachyos home with cachyos theme](/Asserts/Images//attachment/album/202304/13/155934icq38pwviyhw4qhb.jpg)
+![cachyos home with cachyos theme](/Asserts/Images/album/202304/13/155934icq38pwviyhw4qhb.jpg)
 
 
 CachyOS 为各种用户量身定制，无论你是专家还是新手。即使它相当新，也可以作为稳定版本使用。
@@ -61,7 +61,7 @@ CachyOS 的一些重要亮点包括：
 CachyOS 看起来像是一个精心打磨过的发行版。当我使用 ISO 启动虚拟机时，我注意到它确实支持英伟达显卡，这是一个很好的开端。
 
 
-![](/Asserts/Images//attachment/album/202304/13/155934as3r3fr3dr73dmdd.jpg)
+![](/Asserts/Images/album/202304/13/155934as3r3fr3dr73dmdd.jpg)
 
 
 然后，使用离线或在线安装过程的方式很有帮助。通过在线安装过程，你可以根据自己的喜好安装桌面环境或窗口管理器。
@@ -70,13 +70,13 @@ CachyOS 看起来像是一个精心打磨过的发行版。当我使用 ISO 启�
 完成后，欢迎屏幕从一开始就提供了所有基本功能。所以，这一点也很好。
 
 
-![cachyos welcome screen](/Asserts/Images//attachment/album/202304/13/155934ymiwbsdxwwdp5idi.jpg)
+![cachyos welcome screen](/Asserts/Images/album/202304/13/155934ymiwbsdxwwdp5idi.jpg)
 
 
 你可以在欢迎屏幕上安装软件包、启用系统特定的设置以及调整应用程序/内核内容。当然，新手不应该做任何他们不知道的事情，但是这些都可以访问是很好的。
 
 
-![cachyos hello welcome screen tweak options](/Asserts/Images//attachment/album/202304/13/155934fp1ulu0upf0y80up.jpg)
+![cachyos hello welcome screen tweak options](/Asserts/Images/album/202304/13/155934fp1ulu0upf0y80up.jpg)
 
 
 我尝试了 CachyOS 的 KDE 版本，它看起来很不错。
@@ -85,19 +85,19 @@ CachyOS 看起来像是一个精心打磨过的发行版。当我使用 ISO 启�
 出于某种原因，主题是 KDE 的默认 Breeze Dark。我希望它可以开箱即用 CachyOS 的自定义主题。
 
 
-![cachyos homescreen with file manager using kde breeze dark theme](/Asserts/Images//attachment/album/202304/13/155935y9u8af19syfzu565.jpg)
+![cachyos homescreen with file manager using kde breeze dark theme](/Asserts/Images/album/202304/13/155935y9u8af19syfzu565.jpg)
 
 
 所以，我不得不前往主题管理器设置并应用 CachyOS 主题，让它看起来独一无二。
 
 
-![](/Asserts/Images//attachment/album/202304/13/155936qtrcptviqt0pqrtr.jpg)
+![](/Asserts/Images/album/202304/13/155936qtrcptviqt0pqrtr.jpg)
 
 
 它使用 Fish shell，打开终端，你就能看到非常出色的外观和感觉。
 
 
-![cachyos fish shell](/Asserts/Images//attachment/album/202304/13/155936i5rrrewawzaewpwe.jpg)
+![cachyos fish shell](/Asserts/Images/album/202304/13/155936i5rrrewawzaewpwe.jpg)
 
 
 性能和安全性增强是其核心。因此，如果你不确定这代表了什么，你可以与其它发行版进行仔细比较。然而，根据一些 Reddit 上的主题，一些用户提到了它提升了 10-20% 的性能。

@@ -10,22 +10,22 @@ tags:	[linuxcn,操作系统,Linux,雷达]
 **一个新的雷达系统已经被送回去升级了**
 
 
-![](/Asserts/Images//attachment/album/201501/09/072036fcssx2vivovsmkzc.jpg)
+![](/Asserts/Images/album/201501/09/072036fcssx2vivovsmkzc.jpg)
 
 
-![](/Asserts/Images//attachment/album/201501/09/072037y747zfc7iad4b4i4.jpg)
+![](/Asserts/Images/album/201501/09/072037y747zfc7iad4b4i4.jpg)
 
 
-![](/Asserts/Images//attachment/album/201501/09/072038cb3zaepfwndzbavt.jpg)
+![](/Asserts/Images/album/201501/09/072038cb3zaepfwndzbavt.jpg)
 
 
-![](/Asserts/Images//attachment/album/201501/09/072039tbobo5896oetroth.jpg)
+![](/Asserts/Images/album/201501/09/072039tbobo5896oetroth.jpg)
 
 
-![](/Asserts/Images//attachment/album/201501/09/072040ylp5upfvpe0p33fx.jpg)
+![](/Asserts/Images/album/201501/09/072040ylp5upfvpe0p33fx.jpg)
 
 
-![](/Asserts/Images//attachment/album/201501/09/072041b86aurzrzv3fu1vf.jpg)
+![](/Asserts/Images/album/201501/09/072041b86aurzrzv3fu1vf.jpg)
 
 
 

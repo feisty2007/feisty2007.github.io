@@ -24,7 +24,7 @@ tags:	[linuxcn,Logseq,笔记,知识图谱]
 这就是 Logseq 出现的地方。
 
 
-![](/Asserts/Images//attachment/album/202202/10/101919antekcn5gxdeky5z.png)
+![](/Asserts/Images/album/202202/10/101919antekcn5gxdeky5z.png)
 
 
 ### Logseq：支持 Markdown & Org 模式的隐私友好知识平台
@@ -45,7 +45,7 @@ Logseq 旨在帮助你组织、创建待办事项清单，并建立一个知识�
 如果你没有设置任何云存储，你可以尝试使用 [Rclone](https://itsfoss.com/use-onedrive-linux-rclone/)、[Insync](https://itsfoss.com/insync-linux-review/)，甚至是 [rsync 命令](https://linuxhandbook.com/rsync-command-examples/)。
 
 
-![](/Asserts/Images//attachment/album/202202/10/101920mzgzggld4ntuz49l.jpg)
+![](/Asserts/Images/album/202202/10/101920mzgzggld4ntuz49l.jpg)
 
 
 Logseq 具备强大的能力，也支持插件来进一步扩展功能。让我强调一些关键的功能来帮助你决定。
@@ -54,7 +54,7 @@ Logseq 具备强大的能力，也支持插件来进一步扩展功能。让我�
 ### Logseq 的功能
 
 
-![](/Asserts/Images//attachment/album/202202/10/101922uxeaktlv8lvd3q8z.jpg)
+![](/Asserts/Images/album/202202/10/101922uxeaktlv8lvd3q8z.jpg)
 
 
 Logseq 提供了一个知识应用平台的所有基本要素。以下是你可以从它那里得到的东西：
@@ -90,7 +90,7 @@ Logseq 提供了一个知识应用平台的所有基本要素。以下是你可�
 你可以随时从插件市场上改变主题，并使用插件增加功能，这应该有助于你为你的工作流程提供个性化的体验。
 
 
-![](/Asserts/Images//attachment/album/202202/10/101924a0womlmyczm9mse9.jpg)
+![](/Asserts/Images/album/202202/10/101924a0womlmyczm9mse9.jpg)
 
 
 我发现它非常容易使用，而且如果你在某个地方卡住了，[文档](https://logseq.github.io/#/page/Contents) 很好地解释了一切。

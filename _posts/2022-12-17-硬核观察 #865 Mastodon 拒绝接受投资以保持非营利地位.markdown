@@ -7,10 +7,10 @@ tags:	[linuxcn,Mastodon,CPU,VR]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/29/185136vwyp7a9xt3s4pfqr.jpg)
+![](/Asserts/Images/album/202212/29/185136vwyp7a9xt3s4pfqr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/29/185146gv7v8qw443cso7dv.jpg)
+![](/Asserts/Images/album/202212/29/185146gv7v8qw443cso7dv.jpg)
 
 
 ### Mastodon 拒绝接受投资以保持非营利地位
@@ -35,7 +35,7 @@ Mastodon 的开发者 Eugen Rochko 说，随着产品的快速增长，他已经
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/29/185159frnn6bxoffro939x.jpg)
+![](/Asserts/Images/album/202212/29/185159frnn6bxoffro939x.jpg)
 
 
 ### Clear Linux 现在可以处理多达 512 个 CPU 核心
@@ -60,7 +60,7 @@ Clear Linux 内核的可处理的 CPU 核心数在几年前被设定为 320，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/29/185215el6qp9l6lpj1ym9t.jpg)
+![](/Asserts/Images/album/202212/29/185215el6qp9l6lpj1ym9t.jpg)
 
 
 ### 2022 年 VR 头盔销量缩水

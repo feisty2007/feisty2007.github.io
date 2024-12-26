@@ -7,7 +7,7 @@ tags:	[linuxcn,Hello World]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/29/143604o5o22os0h20d4lz5.jpg)
+![](/Asserts/Images/album/202308/29/143604o5o22os0h20d4lz5.jpg)
 
 
 今天我在想 —— 当你在 Linux 上运行一个简单的 “Hello World” Python 程序时，发生了什么，就像下面这个？

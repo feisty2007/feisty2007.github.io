@@ -24,7 +24,7 @@ tags:	[linuxcn,Office]
 ### Linux 最好的 MS Office 开源替代软件
 
 
-![Best Microsoft office alternatives for Linux](/Asserts/Images//attachment/album/201802/24/210910ry1c2pcv4vssm6sm.jpg)
+![Best Microsoft office alternatives for Linux](/Asserts/Images/album/201802/24/210910ry1c2pcv4vssm6sm.jpg)
 
 
 在我们看 MS Office 的替代软件之前，我们先来看看在一个像样的办公套件中有一些什么:
@@ -44,7 +44,7 @@ tags:	[linuxcn,Office]
 #### 6. Apache OpenOffice
 
 
-![OpenOffice Logo](/Asserts/Images//attachment/album/201802/24/210911gtytfzfvf6yeefk3.jpg)
+![OpenOffice Logo](/Asserts/Images/album/201802/24/210911gtytfzfvf6yeefk3.jpg)
 
 
 [Apache OpenOffice](http://www.openoffice.org/) 或简单的称为 OpenOffice 有一段名称/所有者变更的历史。 它于 1999 年由 Sun Microsystems 公司开发，后来改名为 OpenOffice，将它作为一个与 MS Office 对抗的自由开源的替代软件。 当 Oracle 在 2010 年收购 Sun 公司后，一年之后便停止开发 OpenOffice。 最后是 Apache 支持它，现在被称为 Apache OpenOffice。
@@ -59,7 +59,7 @@ Apache OpenOffice 可用于多种平台，包括 Linux、Windows、Mac OS X、Un
 #### 5. Feng Office
 
 
-![Feng Office logo](/Asserts/Images//attachment/album/201802/24/210911xlrnglltnuptkmxx.jpg)
+![Feng Office logo](/Asserts/Images/album/201802/24/210911xlrnglltnuptkmxx.jpg)
 
 
 [Feng Office](http://www.fengoffice.com/web/index.php?lang=en) 以前被称为 OpenGoo。 这不是一个常规的办公套件。 它完全专注于在线办公，如 Google 文档一样。 换句话说，这是一个开源[协作平台](https://en.wikipedia.org/wiki/Collaborative_software)。
@@ -71,7 +71,7 @@ Feng Office 不支持桌面使用，因此如果您想在单个 Linux 桌面上�
 #### 4. Siag Office
 
 
-![SIAG Office logo](/Asserts/Images//attachment/album/201802/24/210912f1ltt9uk98kpm1x5.jpg)
+![SIAG Office logo](/Asserts/Images/album/201802/24/210912f1ltt9uk98kpm1x5.jpg)
 
 
 [Siag](http://siag.nu/) 是一个非常轻量级的办公套件，适用于类 Unix 系统，可以在 16MB 的系统上运行。 由于它非常轻便，因此缺少标准办公套件中的许多功能。 但小即是美，不是吗？ 它具有办公套件的所有必要功能，可以在[轻量级 Linux 发行版](https://itsfoss.com/lightweight-linux-beginners/)上“正常工作”。它是 [Damn Small Linux](http://www.damnsmalllinux.org/) 默认安装软件。（LCTT 译注：根据官网，现已不是默认安装软件）
@@ -80,7 +80,7 @@ Feng Office 不支持桌面使用，因此如果您想在单个 Linux 桌面上�
 #### 3. Calligra Suite
 
 
-![Calligra free and Open Source office logo](/Asserts/Images//attachment/album/201802/24/210912f6jeerooe3ylj32r.jpg)
+![Calligra free and Open Source office logo](/Asserts/Images/album/201802/24/210912f6jeerooe3ylj32r.jpg)
 
 
 [Calligra](http://www.calligra.org/)，以前被称为 KOffice，是 KDE 中默认的 Office 套件。 它支持 Mac OS X、Windows、Linux、FreeBSD 系统。 它也曾经推出 Android 版本。 但不幸的是，后续没有继续支持 Android。 它拥有办公套件所需的必要应用程序以及一些额外的应用程序，如用于绘制流程图的 Flow 和用于项目管理的 Plane。
@@ -92,7 +92,7 @@ Calligra 最近的发展产生了相当大的影响，很有可能成为 [LibreO
 #### 2. ONLYOFFICE
 
 
-![ONLYOFFICE is Linux alternative to Microsoft Office](/Asserts/Images//attachment/album/201802/24/210913lhoxoa4m6kmmoadd.png)
+![ONLYOFFICE is Linux alternative to Microsoft Office](/Asserts/Images/album/201802/24/210913lhoxoa4m6kmmoadd.png)
 
 
 [ONLYOFFICE](https://www.onlyoffice.com/) 是办公套件市场上的新玩家，它更专注于协作部分。 企业（甚至个人）可以将其部署到自己的服务器上，以获得类似 Google Docs 之类的协作办公套件。
@@ -104,7 +104,7 @@ Calligra 最近的发展产生了相当大的影响，很有可能成为 [LibreO
 #### 1. LibreOffice
 
 
-![LibreOffice logo](/Asserts/Images//attachment/album/201802/24/210913jmfml8zf2my2xfz8.jpg)
+![LibreOffice logo](/Asserts/Images/album/201802/24/210913jmfml8zf2my2xfz8.jpg)
 
 
 当 Oracle 决定停止 OpenOffice 的开发时，是[文档基金会](http://www.documentfoundation.org/)将其复制分发，这就是我们所熟知的 [Libre-Office](http://www.libreoffice.org/)。从那时起，许多 Linux 发行版都将 OpenOffice 替换为 LibreOffice 作为它们的默认办公应用程序。

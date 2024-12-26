@@ -15,7 +15,7 @@ tags:	[linuxcn,提示符]
 > 
 
 
-![](/Asserts/Images//attachment/album/201901/16/184022d59vyvvkvqaa578v.png)
+![](/Asserts/Images/album/201901/16/184022d59vyvvkvqaa578v.png)
 
 
 欢迎再次来到 Linux 命令行玩具日历的另一篇。如果这是你第一次访问该系列，你甚至可能会问自己什么是命令行玩具？我们对此比较随意：它会是终端上有任何有趣的消遣，对于任何节日主题相关的还有额外的加分。

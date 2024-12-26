@@ -15,7 +15,7 @@ tags:	[linuxcn,WPS,OpenOffice]
 > 
 
 
-![](/Asserts/Images//attachment/album/201502/01/112457h6009933szf5zqq0.jpg)
+![](/Asserts/Images/album/201502/01/112457h6009933szf5zqq0.jpg)
 
 
 Kingsoft Office 是一套办公套件，支持多个平台，包括Windows, Linux, iOS 和 Android。它包含三个组件：Writer（WPS文字）用来文字处理，Presentation（WPS演示）支持幻灯片，Spereadsheets（WPS表格）是电子表格。其使用免费增值模式，其中基础版本是免费使用。比较其他的linux办公套件，如LibreOffice、 OpenOffice，其最大优势在于，Kingsoft Office能最好的兼容微软的Office（译注：版权问题？了解下wps和Office的历史问题，可以得到一些结论）。因此如果你需要在windows和linux平台间交互，Kingsoft office是一个很好的选择。
@@ -54,7 +54,7 @@ $ sudo yum localinstall kingsoft-office-9.1.0.4244-0.1.a12p3.i686.rpm
 基于Red Hat的发行版有多重库支持。如果你要想安装的RPM包是32位的并有32位库依赖（你的系统是64位的），一个很好的解决方法就是使用yum来安装。只要RPM在构建时候已经添加所有依赖关系，yum就可以自动使用yum库解决依赖关系。
 
 
-![](/Asserts/Images//attachment/album/201502/01/112501wi7qo1z4qc01ucq0.jpg)
+![](/Asserts/Images/album/201502/01/112501wi7qo1z4qc01ucq0.jpg)
 
 
 ### Debian, Ubuntu 和 Linux Mint 中安装Kingsoft Office
@@ -82,13 +82,13 @@ $ sudo gdebi kingsoft-office_9.1.0.4244~a12p3_i386.deb
 Ubuntu Unity中:
 
 
-![](/Asserts/Images//attachment/album/201502/01/112503eifs555vb9v5viyv.jpg)
+![](/Asserts/Images/album/201502/01/112503eifs555vb9v5viyv.jpg)
 
 
 GNOME桌面中:
 
 
-![](/Asserts/Images//attachment/album/201502/01/112506byckbptpw408i6kb.jpg)
+![](/Asserts/Images/album/201502/01/112506byckbptpw408i6kb.jpg)
 
 
 不但如此，你也可以在命令行中启动Kingsoft Office。
@@ -103,7 +103,7 @@ $ wps (译注：原文丢失此命令)
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/01/112509d1u0ie8i1ki800dc.jpg)
+![](/Asserts/Images/album/201502/01/112509d1u0ie8i1ki800dc.jpg)
 
 
 启动Presentation（WPS演示），使用这个命令：
@@ -115,7 +115,7 @@ $ wpp
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/01/112512ghk5wekbmie7w2b5.jpg)
+![](/Asserts/Images/album/201502/01/112512ghk5wekbmie7w2b5.jpg)
 
 
 启动Spreadsheets（WPS表格），使用这个命令：
@@ -127,7 +127,7 @@ $ et
 
 ```
 
-![](/Asserts/Images//attachment/album/201502/01/112514s8ad8wozi2v0i404.jpg)
+![](/Asserts/Images/album/201502/01/112514s8ad8wozi2v0i404.jpg)
 
 
 

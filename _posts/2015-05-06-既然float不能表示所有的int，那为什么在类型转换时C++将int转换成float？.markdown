@@ -24,7 +24,7 @@ if (i == f) // 执行某段代码
 编译器会将i转换成float类型，然后比较这两个float的大小，但是float能够表示所有的int吗？为什么没有将int和float转换成double类型进行比较呢？
 
 
-![](/Asserts/Images//attachment/album/201505/11/151113i3lzgnfjk8jkxdwe.jpg)
+![](/Asserts/Images/album/201505/11/151113i3lzgnfjk8jkxdwe.jpg)
 
 
 ### 回答：

@@ -7,7 +7,7 @@ tags:	[linuxcn,USB,启动盘]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/30/094411g182yref81pix2f5.jpg)
+![](/Asserts/Images/album/201811/30/094411g182yref81pix2f5.jpg)
 
 
 如果你想了解 Linux，首先要做的是在你的系统上安装 Linux 系统。
@@ -49,7 +49,7 @@ tags:	[linuxcn,USB,启动盘]
 这个程序在使用上不复杂。首先连接 USB 盘，然后点击下载的 Universal USB Installer。启动后，你可以看到类似于我们的界面。
 
 
-![](/Asserts/Images//attachment/album/201811/30/094420jy0qwep9xffxexxx.png)
+![](/Asserts/Images/album/201811/30/094420jy0qwep9xffxexxx.png)
 
 
 * 步骤 1：选择 Ubuntu 系统。
@@ -57,31 +57,31 @@ tags:	[linuxcn,USB,启动盘]
 * 步骤 3：它默认选择的是 USB 盘，但是要验证一下，接着勾选格式化选项。
 
 
-![](/Asserts/Images//attachment/album/201811/30/094421q6acc3gmadacmjag.png)
+![](/Asserts/Images/album/201811/30/094421q6acc3gmadacmjag.png)
 
 
 当你点击 “Create” 按钮时，它会弹出一个带有警告的窗口。不用担心，只需点击 “Yes” 继续进行此操作即可。
 
 
-![](/Asserts/Images//attachment/album/201811/30/094422b0pj0bnryfryhnmr.png)
+![](/Asserts/Images/album/201811/30/094422b0pj0bnryfryhnmr.png)
 
 
 USB 盘分区正在进行中。
 
 
-![](/Asserts/Images//attachment/album/201811/30/094423idoh70yl4be8bebb.png)
+![](/Asserts/Images/album/201811/30/094423idoh70yl4be8bebb.png)
 
 
 要等待一会儿才能完成。如你您想将它移至后台，你可以点击 “Background” 按钮。
 
 
-![](/Asserts/Images//attachment/album/201811/30/094424wh9n5oohfmdfjdel.png)
+![](/Asserts/Images/album/201811/30/094424wh9n5oohfmdfjdel.png)
 
 
 好了，完成了。
 
 
-![](/Asserts/Images//attachment/album/201811/30/094425jd3lhu8y5d8md535.png)
+![](/Asserts/Images/album/201811/30/094425jd3lhu8y5d8md535.png)
 
 
 现在你可以进行[安装 Ubuntu 系统](https://www.2daygeek.com/how-to-install-ubuntu-16-04/)了。但是，它也提供了一个 live 模式，如果你想在安装之前尝试，那么可以使用它。

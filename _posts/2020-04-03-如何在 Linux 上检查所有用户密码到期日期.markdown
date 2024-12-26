@@ -7,7 +7,7 @@ tags:	[linuxcn,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202004/01/104918dn0n0anhxoia40rc.jpg)
+![](/Asserts/Images/album/202004/01/104918dn0n0anhxoia40rc.jpg)
 
 
 如果你在 [Linux 上启用了密码策略](/article-10698-1.html)。密码必须在到期前进行更改，并且登录到系统时会收到通知。

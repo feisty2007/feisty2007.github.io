@@ -7,7 +7,7 @@ tags:	[linuxcn,Unity]
 ---
 
 
-![](/Asserts/Images//attachment/album/201505/26/155932nbm2gtx1aj7gnt66.jpg)
+![](/Asserts/Images/album/201505/26/155932nbm2gtx1aj7gnt66.jpg)
 
 
 新出现在**Ubuntu 15.04中的一个软件包解决了我对Unity 欢迎屏的微词：像Cinnamon这样的其它Linux桌面会话没有徽章图标。**
@@ -22,7 +22,7 @@ tags:	[linuxcn,Unity]
 例如，你能告诉我们这个是个什么会话呢？
 
 
-![](/Asserts/Images//attachment/album/201505/26/155932plnvjkpank7wyvyn.jpg)
+![](/Asserts/Images/album/201505/26/155932plnvjkpank7wyvyn.jpg)
 
 
 Budgie? 也许是 MATE? 也能是 Cinnamon……我必须点开它才能知道。

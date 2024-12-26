@@ -7,10 +7,10 @@ tags:	[linuxcn,Chrome,Amazon Linux,睡觉]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/27/160043keeegfh38beeb0pg.jpg)
+![](/Asserts/Images/album/202308/27/160043keeegfh38beeb0pg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/27/160053fl5x2s5dl5ddqvnd.jpg)
+![](/Asserts/Images/album/202308/27/160053fl5x2s5dl5ddqvnd.jpg)
 
 
 ### Amazon Linux 2023 仍然没有交付虚拟机镜像
@@ -35,7 +35,7 @@ Amazon Linux 2023 于 3 月 15 日发布时，本应以虚拟机镜像的形式�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/27/160106yym0vcrulbf0crlh.jpg)
+![](/Asserts/Images/album/202308/27/160106yym0vcrulbf0crlh.jpg)
 
 
 ### 科学家发现让人不睡觉的机制
@@ -60,7 +60,7 @@ Amazon Linux 2023 于 3 月 15 日发布时，本应以虚拟机镜像的形式�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/27/160120vyei17nnwsz2w2e1.jpg)
+![](/Asserts/Images/album/202308/27/160120vyei17nnwsz2w2e1.jpg)
 
 
 ### Chrome 无用的阅读模式将有朗读功能

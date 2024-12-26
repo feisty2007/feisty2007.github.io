@@ -7,7 +7,7 @@ tags:	[linuxcn,SPA]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/07/144603n00b0ma2bmlmnx0l.jpg)
+![](/Asserts/Images/album/201807/07/144603n00b0ma2bmlmnx0l.jpg)
 
 
 构建单页面应用（SPA）有许多的框架/库，但是我希望它们能少一些。我有一个解决方案，我想共享给大家。

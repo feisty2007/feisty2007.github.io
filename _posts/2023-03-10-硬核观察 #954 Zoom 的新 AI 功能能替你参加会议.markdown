@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,ARM,恶意应用]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/28/180529ufvquja3v5d3t2f2.jpg)
+![](/Asserts/Images/album/202303/28/180529ufvquja3v5d3t2f2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/28/180537uobooyajob6a6ogr.jpg)
+![](/Asserts/Images/album/202303/28/180537uobooyajob6a6ogr.jpg)
 
 
 ### Zoom 的新 AI 功能能替你参加会议
@@ -35,7 +35,7 @@ Zoom 正在与 OpenAI 合作，通过其 Zoom IQ 人工智能助手为视频会�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/28/180548k2x4z2occhc82l48.jpg)
+![](/Asserts/Images/album/202303/28/180548k2x4z2occhc82l48.jpg)
 
 
 ### 又一家安全机构确认某应用的非谷歌商店版本包含恶意代码
@@ -60,7 +60,7 @@ Zoom 正在与 OpenAI 合作，通过其 Zoom IQ 人工智能助手为视频会�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/28/180601a8ilji44i8ejibrj.jpg)
+![](/Asserts/Images/album/202303/28/180601a8ilji44i8ejibrj.jpg)
 
 
 ### ARM 想要改变芯片授权模式来增加收入

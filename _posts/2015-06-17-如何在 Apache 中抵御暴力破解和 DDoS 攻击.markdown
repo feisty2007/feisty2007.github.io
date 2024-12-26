@@ -16,7 +16,7 @@ mod\_security（一个开源的用于Web应用入侵检测及防护的引擎，�
 mod\_evasive，如它的名字一样，在受攻击时提供避实就虚的功能，它像一个雨伞一样保护Web服务器免受那些威胁。
 
 
-![](/Asserts/Images//attachment/album/201506/16/124952wf6qlqvh7j6p3fh1.jpg)
+![](/Asserts/Images/album/201506/16/124952wf6qlqvh7j6p3fh1.jpg)
 
 
 *安装mod\_security和mod\_evasive来保护Apache*
@@ -55,7 +55,7 @@ mod\_evasive，如它的名字一样，在受攻击时提供避实就虚的功�
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/16/124952kdt7td3jddipwtxi.png)
+![](/Asserts/Images/album/201506/16/124952kdt7td3jddipwtxi.png)
 
 
 *mod\_security + mod\_evasive 配置文件*
@@ -82,7 +82,7 @@ LoadModule security2_module modules/mod_security2.so
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/16/124953xa7zk5851a7lhwo2.png)
+![](/Asserts/Images/album/201506/16/124953xa7zk5851a7lhwo2.png)
 
 
 *验证mod\_security + mod\_evasive模块*
@@ -109,7 +109,7 @@ LoadModule security2_module modules/mod_security2.so
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/16/124953u431p8mmw4px6be3.png)
+![](/Asserts/Images/album/201506/16/124953u431p8mmw4px6be3.png)
 
 
 *检查mod\_security + mod\_evasive模块已加载*
@@ -132,7 +132,7 @@ LoadModule security2_module modules/mod_security2.so
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/16/124954scvy728t8fxczz8n.png)
+![](/Asserts/Images/album/201506/16/124954scvy728t8fxczz8n.png)
 
 
 *下载mod\_security核心规则*
@@ -148,7 +148,7 @@ LoadModule security2_module modules/mod_security2.so
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/16/124954om6kmja7ym67k6z1.png)
+![](/Asserts/Images/album/201506/16/124954om6kmja7ym67k6z1.png)
 
 
 *解压mod\_security核心规则*
@@ -344,7 +344,7 @@ Defaults:apache !requiretty
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/16/124955s4813jp7i4jiqiii.png)
+![](/Asserts/Images/album/201506/16/124955s4813jp7i4jiqiii.png)
 
 
 *添加Apache用户到Sudoers*
@@ -359,7 +359,7 @@ Defaults:apache !requiretty
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/16/124955n73b788ohgi8nmgh.png)
+![](/Asserts/Images/album/201506/16/124955n73b788ohgi8nmgh.png)
 
 
 *为Sudo禁用tty*
@@ -393,7 +393,7 @@ Defaults:apache !requiretty
 我们的测试环境由一个CentOS 7服务器[IP 192.168.0.17]和一个Windows组成，在Windows[IP 192.168.0.103]上我们发起攻击：
 
 
-![](/Asserts/Images//attachment/album/201506/16/124956nhd0idhde2ibiedl.png)
+![](/Asserts/Images/album/201506/16/124956nhd0idhde2ibiedl.png)
 
 
 *确认主机IP地址*
@@ -405,7 +405,7 @@ Defaults:apache !requiretty
 然后攻击者的IP将被防火墙阻挡:
 
 
-![](/Asserts/Images//attachment/album/201506/16/124956ti5ryxxu7ysbyxty.png)
+![](/Asserts/Images/album/201506/16/124956ti5ryxxu7ysbyxty.png)
 
 
 *阻挡攻击者的IP地址*

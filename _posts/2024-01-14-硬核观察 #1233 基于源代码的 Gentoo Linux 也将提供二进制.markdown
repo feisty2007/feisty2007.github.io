@@ -7,10 +7,10 @@ tags:	[linuxcn,Gentoo,超算,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/01/185125rwawwgf9a9oxwpff.jpg)
+![](/Asserts/Images/album/202401/01/185125rwawwgf9a9oxwpff.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/01/185209yvkf9i8r28zweo9k.png)
+![](/Asserts/Images/album/202401/01/185209yvkf9i8r28zweo9k.png)
 
 
 ### #1 基于源代码的 Gentoo Linux 也将提供二进制
@@ -38,7 +38,7 @@ Gentoo Linux 是最著名的基于源代码的 Linux 发行版之一。但最近
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/01/185230q2h2rgtihywtk7ek.png)
+![](/Asserts/Images/album/202401/01/185230q2h2rgtihywtk7ek.png)
 
 
 ### #2 树莓派比 1978 年的 Cray-1 超级计算机快四倍以上
@@ -66,7 +66,7 @@ Gentoo Linux 是最著名的基于源代码的 Linux 发行版之一。但最近
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/01/185243rj3m5fjfnjijf5a0.png)
+![](/Asserts/Images/album/202401/01/185243rj3m5fjfnjijf5a0.png)
 
 
 ### #3 AI 将成为你的同事，或者取代你的职位

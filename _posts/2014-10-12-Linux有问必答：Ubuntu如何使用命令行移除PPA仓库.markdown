@@ -18,7 +18,7 @@ tags:	[linuxcn,apt,Ubuntu,软件库]
 个人软件包档案（PPA）是Ubuntu独有的解决方案，允许独立开发者和贡献者构建、贡献任何定制的软件包来作为通过启动面板的第三方APT仓库。如果你是Ubuntu用户，有可能你已经增加一些流行的第三方PPA仓库到你的Ubuntu系统。如果你需要删除掉已经预先配置好的PPA仓库，下面将教你怎么做。
 
 
-![](/Asserts/Images//attachment/album/201410/06/203205iygu9u7wy0srvofu.png)
+![](/Asserts/Images/album/201410/06/203205iygu9u7wy0srvofu.png)
 
 
 假如你想增加一个叫“ppa:webapps/preview”第三方PPA仓库到你的系统中，如下：

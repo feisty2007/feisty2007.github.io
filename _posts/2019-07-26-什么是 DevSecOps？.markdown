@@ -15,7 +15,7 @@ tags:	[linuxcn,DevSecOps,DevOps]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/15/141713lo98h7zm6m88n96u.jpg)
+![](/Asserts/Images/album/201907/15/141713lo98h7zm6m88n96u.jpg)
 
 
 

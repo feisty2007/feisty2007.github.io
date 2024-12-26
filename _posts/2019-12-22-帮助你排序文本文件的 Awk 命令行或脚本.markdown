@@ -15,7 +15,7 @@ tags:	[linuxcn,awk]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/17/095222q7m5da4h8facvmtv.jpg)
+![](/Asserts/Images/album/201912/17/095222q7m5da4h8facvmtv.jpg)
 
 
 Awk 是个普遍存在的 Unix 命令，用于扫描和处理包含可预测模式的文本。但是，由于它具有函数功能，因此也可以合理地称之为编程语言。

@@ -7,7 +7,7 @@ tags:	[linuxcn,USB]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/30/094927nu106ijzz0iiiwj1.jpg)
+![](/Asserts/Images/album/202208/30/094927nu106ijzz0iiiwj1.jpg)
 
 
 你如何列出 Linux 中的 USB 设备？
@@ -35,7 +35,7 @@ lsusb
 它显示了网络摄像头、蓝牙和以太网端口以及 USB 端口和挂载的 USB 驱动器。
 
 
-![list usb with lsusb command linux](/Asserts/Images//attachment/album/202208/30/094930wejj6vcjyvyjilis.png)
+![list usb with lsusb command linux](/Asserts/Images/album/202208/30/094930wejj6vcjyvyjilis.png)
 
 
 但是理解 `lsusb` 的输出并不容易，当你只想查看和访问已挂载的 USB 驱动器时，你可能不需要那么复杂。
@@ -59,7 +59,7 @@ lsusb
 连接的设备显示在边栏中（此处仅显示 USB 存储设备）。
 
 
-![Nautilus showing connected USB devices](/Asserts/Images//attachment/album/202208/30/094930o6ndrdittnttomzx.png)
+![Nautilus showing connected USB devices](/Asserts/Images/album/202208/30/094930o6ndrdittnttomzx.png)
 
 
 你还可以使用 GNOME “<ruby> 磁盘 <rt>  Disks </rt></ruby>” 或 Gparted 等 GUI 应用来查看、格式化和分区连接到计算机的 USB 存储设备。默认情况下，大多数使用 GNOME 桌面环境的发行版都预装了 GNOME “磁盘”。
@@ -68,7 +68,7 @@ lsusb
 这个应用也可以用作一个非常好的 [分区管理器](https://itsfoss.com/partition-managers-linux/)。
 
 
-![Use GNOME Disks to list mounted USB devices](/Asserts/Images//attachment/album/202208/30/094930p9i9xri9cn99dtid.png)
+![Use GNOME Disks to list mounted USB devices](/Asserts/Images/album/202208/30/094930p9i9xri9cn99dtid.png)
 
 
 图形工具足够了。让我们讨论可用于列出 USB 设备的命令。
@@ -89,7 +89,7 @@ mount | grep media
 
 ```
 
-![](/Asserts/Images//attachment/album/202208/30/094931lde2vsruwpzjesuv.png)
+![](/Asserts/Images/album/202208/30/094931lde2vsruwpzjesuv.png)
 
 
 ### 使用 df 命令
@@ -104,7 +104,7 @@ df -Th | grep media
 
 ```
 
-![Use df command to list mounted USB drives](/Asserts/Images//attachment/album/202208/30/094931d5025u2gnlka22k2.png)
+![Use df command to list mounted USB drives](/Asserts/Images/album/202208/30/094931d5025u2gnlka22k2.png)
 
 
 ### 使用 lsblk 命令
@@ -119,7 +119,7 @@ lsblk | grep media
 
 ```
 
-![Using lsblk to list connected USb devicesUsing blkid to list connected USb devices](/Asserts/Images//attachment/album/202208/30/094931y8q1d8v2ys8tl274.png)
+![Using lsblk to list connected USb devicesUsing blkid to list connected USb devices](/Asserts/Images/album/202208/30/094931y8q1d8v2ys8tl274.png)
 
 
 如果你想知道，也可以使用 `blkid` 命令了解 UUID、标签、块大小等。
@@ -134,7 +134,7 @@ sudo blkid
 
 ```
 
-![Using blkid to list connected USb devices](/Asserts/Images//attachment/album/202208/30/094931y8q1d8v2ys8tl274.png)
+![Using blkid to list connected USb devices](/Asserts/Images/album/202208/30/094931y8q1d8v2ys8tl274.png)
 
 
 ### 使用 fdisk
@@ -149,7 +149,7 @@ sudo fdisk -l
 
 ```
 
-![Use fidsk to list usb devices](/Asserts/Images//attachment/album/202208/30/094932ig4vu49ds111gu36.png)
+![Use fidsk to list usb devices](/Asserts/Images/album/202208/30/094932ig4vu49ds111gu36.png)
 
 
 ### 检查 /proc/mounts
@@ -164,7 +164,7 @@ cat /proc/mounts | grep media
 
 ```
 
-![](/Asserts/Images//attachment/album/202208/30/094932p2sogvggtgzswsga.png)
+![](/Asserts/Images/album/202208/30/094932p2sogvggtgzswsga.png)
 
 
 ### 使用 lsusb 命令显示所有 USB 设备
@@ -188,7 +188,7 @@ lsusb
 如你所见，此命令还显示了我已连接的鼠标和智能手机，这与其他命令（只能列出 USB 存储设备）不同。
 
 
-![](/Asserts/Images//attachment/album/202208/30/094932c2230jsliyior2il.png)
+![](/Asserts/Images/album/202208/30/094932c2230jsliyior2il.png)
 
 
 第二个命令 `usb-devices` 提供了更多详细信息，但未能列出所有设备，如下所示。
@@ -200,7 +200,7 @@ usb-devices
 
 ```
 
-![](/Asserts/Images//attachment/album/202208/30/094933lhlus4ucogha08hi.png)
+![](/Asserts/Images/album/202208/30/094933lhlus4ucogha08hi.png)
 
 
 Greg 还开发了一个名为 [usbview](https://github.com/gregkh/usbview) 的小型 GTK 应用。此应用向你显示连接到计算机的所有 USB 设备的列表。
@@ -212,7 +212,7 @@ Greg 还开发了一个名为 [usbview](https://github.com/gregkh/usbview) 的�
 安装后，你可以从应用菜单启动它。你可以选择任何列出的设备以获取详细信息，如下面的截图所示。
 
 
-![](/Asserts/Images//attachment/album/202208/30/094933ez2m4pr6f22nz8mk.png)
+![](/Asserts/Images/album/202208/30/094933ez2m4pr6f22nz8mk.png)
 
 
 ### 总结

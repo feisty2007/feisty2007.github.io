@@ -7,7 +7,7 @@ tags:	[linuxcn,ARM,开发者,网络安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/07/103639ajfiaw6pvof6w56z.jpg)
+![](/Asserts/Images/album/202009/07/103639ajfiaw6pvof6w56z.jpg)
 
 
 #### ARM 公司新的处理器使驱动器既能存储也能处理数据

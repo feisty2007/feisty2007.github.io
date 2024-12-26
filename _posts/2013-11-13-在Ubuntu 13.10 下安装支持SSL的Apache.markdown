@@ -137,7 +137,7 @@ $ sudo service apache2 restart
 打开浏览器，转到**https://你的测试机IP**。
 
 
- ![](/Asserts/Images//attachment/album/201311/02/190707rmnzorkgktmonhoi.png)
+ ![](/Asserts/Images/album/201311/02/190707rmnzorkgktmonhoi.png)
 
 
 安装完成，尽情享用！

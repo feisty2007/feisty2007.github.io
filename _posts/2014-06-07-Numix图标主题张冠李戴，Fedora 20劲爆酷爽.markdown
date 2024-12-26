@@ -28,7 +28,7 @@ sudo fedy -e numix_themes
 
 ```
 
-![sudo fedy -e numix_themes](/Asserts/Images//attachment/album/201406/27/162026ibjoji97mssobsmb.png)
+![sudo fedy -e numix_themes](/Asserts/Images/album/201406/27/162026ibjoji97mssobsmb.png)
 
 
 ### 安装Gnome优化工具
@@ -43,19 +43,19 @@ sudo yum install gnome-tweak-tool
 启动Gnome优化工具：
 
 
-![Gnome_Tweak_tool_launch](/Asserts/Images//attachment/album/201406/27/162027evinaeevseewwkee.png)
+![Gnome_Tweak_tool_launch](/Asserts/Images/album/201406/27/162027evinaeevseewwkee.png)
 
 
 现在修改外观设置下的所有设置，把他们全都指向Numix吧，就像下面的图表中那样。
 
 
-![Numix_apply_done](/Asserts/Images//attachment/album/201406/27/162028o46eltpbvaja8vnb.png)
+![Numix_apply_done](/Asserts/Images/album/201406/27/162028o46eltpbvaja8vnb.png)
 
 
 你已经搞定了！
 
 
-![Fedora 20 Numix Enock Seth](/Asserts/Images//attachment/album/201406/27/162033b9gyvk2iyz9oz6z2.png)
+![Fedora 20 Numix Enock Seth](/Asserts/Images/album/201406/27/162033b9gyvk2iyz9oz6z2.png)
 
 
 尽情爽吧！

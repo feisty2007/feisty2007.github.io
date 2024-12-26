@@ -7,7 +7,7 @@ tags:	[linuxcn,跟踪器,BPF,eBPF,过滤器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/03/122506xddn6s8b8z1m42mm.jpg)
+![](/Asserts/Images/album/201804/03/122506xddn6s8b8z1m42mm.jpg)
 
 
 *~ [更新于](https://github.com/qmonnet/whirl-offload/commits/gh-pages/_posts/2016-09-01-dive-into-bpf.md) 2017-11-02 ~*
@@ -275,7 +275,7 @@ Sasha Goldshtein 也有一些 [Linux 跟踪研究材料](https://github.com/gold
 Jean-Tiare Le Bigot 的另一篇文章提供了一个详细的（和有指导意义的）[使用 perf 和 eBPF 去设置一个低级的跟踪器](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) 的示例。
 
 
-对于网络相关的 eBPF 使用案例也有几个教程。有一些值得关注的文档，包括一篇 *eBPF 卸载入门指南*，是关于在 [Open NFP](https://open-nfp.org/Asserts/Images/planes-ebpf/technical-papers/) 平台上用 Netronome 操作的。其它的那些，来自 Jesper 的演讲，[XDP 能为其它人做什么](http://netdevconf.org/2.1/session.html?gospodarek)（及其[第二版](https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop)），可能是 XDP 入门的最好的方法之一。
+对于网络相关的 eBPF 使用案例也有几个教程。有一些值得关注的文档，包括一篇 *eBPF 卸载入门指南*，是关于在 [Open NFP](https://open-nfp.org/dataplanes-ebpf/technical-papers/) 平台上用 Netronome 操作的。其它的那些，来自 Jesper 的演讲，[XDP 能为其它人做什么](http://netdevconf.org/2.1/session.html?gospodarek)（及其[第二版](https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop)），可能是 XDP 入门的最好的方法之一。
 
 
 ### 示例

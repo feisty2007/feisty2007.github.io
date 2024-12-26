@@ -15,7 +15,7 @@ tags:	[linuxcn,Markdown]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/27/141244m9os557ss7au6oas.jpg "Typewriter keys in multicolor")
+![](/Asserts/Images/album/202110/27/141244m9os557ss7au6oas.jpg "Typewriter keys in multicolor")
 
 
 几年前，当我开始使用 Jupyter 笔记本时，我接触到了 Markdown 格式。许多作者都知道 Markdown，但这是我不熟悉的一种技能。
@@ -64,7 +64,7 @@ Mark Text 有各种编辑模式，如打字模式、源代码模式和专注模�
 从 Mark Text 窗口左上方的菜单或使用 `Ctrl+S` 保存文件很容易。事实上，Mark Text 的菜单对任何习惯于基本文本编辑器或文字处理器的人来说都是友好和熟悉的。
 
 
-![Mark Text 文件菜单](/Asserts/Images//attachment/album/202110/27/141318ya6p3ppzkq1w83mb.png "Mark Text file menu")
+![Mark Text 文件菜单](/Asserts/Images/album/202110/27/141318ya6p3ppzkq1w83mb.png "Mark Text file menu")
 
 
 我喜欢 Mark Text 用简单的快捷键支持各种格式，包括表格块、图表、行内格式、数学公式块和其他代码块。

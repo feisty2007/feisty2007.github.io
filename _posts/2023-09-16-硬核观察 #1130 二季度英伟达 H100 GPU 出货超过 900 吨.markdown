@@ -7,10 +7,10 @@ tags:	[linuxcn,MariaDB,GPU,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/20/155840kbio48z83482oi4y.jpg)
+![](/Asserts/Images/album/202309/20/155840kbio48z83482oi4y.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/20/160007ve5res9xvu1y9r2p.jpg)
+![](/Asserts/Images/album/202309/20/160007ve5res9xvu1y9r2p.jpg)
 
 
 ### 二季度英伟达 H100 GPU 出货超过 900 吨
@@ -35,7 +35,7 @@ tags:	[linuxcn,MariaDB,GPU,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/20/160019ajdux2e4u1s43wgw.jpg)
+![](/Asserts/Images/album/202309/20/160019ajdux2e4u1s43wgw.jpg)
 
 
 ### MariaDB 公司或被风投收购
@@ -60,7 +60,7 @@ MariaDB 公司于 2022 年 12 月进行了首次公开募股（IPO），获得�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/20/160046inrrrqm333nh8r1f.jpg)
+![](/Asserts/Images/album/202309/20/160046inrrrqm333nh8r1f.jpg)
 
 
 ### AI 编程助手有时候会替你填上别人的密钥

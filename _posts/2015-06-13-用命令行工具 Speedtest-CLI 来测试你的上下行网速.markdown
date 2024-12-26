@@ -94,7 +94,7 @@ $ speedtest_cli.py
 
 ```
 
-![Test Download Upload Speed in Linux](/Asserts/Images//attachment/album/201506/14/101930gfjenbzow073o3ef.png)
+![Test Download Upload Speed in Linux](/Asserts/Images/album/201506/14/101930gfjenbzow073o3ef.png)
 
 
 *在Linux下测试上传下载速度*
@@ -109,7 +109,7 @@ $ speedtest_cli.py --bytes
 
 ```
 
-![Test Internet Speed in Bytes](/Asserts/Images//attachment/album/201506/14/101931ztjikpbkmvmtpb6m.png)
+![Test Internet Speed in Bytes](/Asserts/Images/album/201506/14/101931ztjikpbkmvmtpb6m.png)
 
 
 *测试bytes的速度*
@@ -118,7 +118,7 @@ $ speedtest_cli.py --bytes
 **3. 工具提供一个链接来下载由你的宽带测试结果生成的图片，你可以分享给你的家人朋友。**
 
 
-![Share Internet Speed Results](/Asserts/Images//attachment/album/201506/14/101932hepws4qpbyz9sb72.png)
+![Share Internet Speed Results](/Asserts/Images/album/201506/14/101932hepws4qpbyz9sb72.png)
 
 
 *分享测速结果*
@@ -127,7 +127,7 @@ $ speedtest_cli.py --bytes
 下面的图片就是你通过以上的命令行测速而生成的图片
 
 
-![Speed Test Results](/Asserts/Images//attachment/album/201506/14/101933fscy1ctyjnk9hmn0.png)
+![Speed Test Results](/Asserts/Images/album/201506/14/101933fscy1ctyjnk9hmn0.png)
 
 
 *测速结果*
@@ -142,7 +142,7 @@ $ speedtest_cli.py --simple
 
 ```
 
-![Test Ping Download Upload Speed](/Asserts/Images//attachment/album/201506/14/101935j00lj00mzymhzjhh.png)
+![Test Ping Download Upload Speed](/Asserts/Images/album/201506/14/101935j00lj00mzymhzjhh.png)
 
 
 *测试Ping，上传，下载的速度*
@@ -157,7 +157,7 @@ $ speedtest_cli.py --list
 
 ```
 
-![Check Speedtest.net Servers](/Asserts/Images//attachment/album/201506/14/101936d0pfybbd3isdxkyr.png)
+![Check Speedtest.net Servers](/Asserts/Images/album/201506/14/101936d0pfybbd3isdxkyr.png)
 
 
 *列出Speedtest.net的服务器*
@@ -172,7 +172,7 @@ $ speedtest_cli.py --list | grep -i Mumbai
 
 ```
 
-![Check Nearest Server](/Asserts/Images//attachment/album/201506/14/101937tnvcxvnapvczm882.png)
+![Check Nearest Server](/Asserts/Images/album/201506/14/101937tnvcxvnapvczm882.png)
 
 
 *列出最近的服务器*
@@ -188,7 +188,7 @@ $ speedtest_cli.py --server [5060]              ## 这里使用服务器ID为506
 
 ```
 
-![Test Connection Against Server](/Asserts/Images//attachment/album/201506/14/101939osspxxwimwyu4mun.png)
+![Test Connection Against Server](/Asserts/Images/album/201506/14/101939osspxxwimwyu4mun.png)
 
 
 *对指定的服务器进行测速*
@@ -203,7 +203,7 @@ $ speedtest_cli.py --version
 
 ```
 
-![Check SpeedCli Version](/Asserts/Images//attachment/album/201506/14/101940x5i77p5o2i9num27.png)
+![Check SpeedCli Version](/Asserts/Images/album/201506/14/101940x5i77p5o2i9num27.png)
 
 
 *输出版本号*
@@ -215,7 +215,7 @@ $ speedtest_cli.py --help
 
 ```
 
-![SpeedCli Help](/Asserts/Images//attachment/album/201506/14/101941p14sjbwici4lgwlz.png)
+![SpeedCli Help](/Asserts/Images/album/201506/14/101941p14sjbwici4lgwlz.png)
 
 
 *输出帮助文档*

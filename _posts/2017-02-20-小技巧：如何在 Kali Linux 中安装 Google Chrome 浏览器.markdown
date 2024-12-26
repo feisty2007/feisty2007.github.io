@@ -35,7 +35,7 @@ tags:	[linuxcn,Chrome]
 * `$` - 给定命令以常规权限用户运行
 
 
-![](/Asserts/Images//attachment/album/201702/14/232701gpotypfrrtsy1t4i.jpg)
+![](/Asserts/Images/album/201702/14/232701gpotypfrrtsy1t4i.jpg)
 
 
 ### 步骤说明
@@ -107,7 +107,7 @@ dpkg: dependency problems prevent configuration of google-chrome-stable:
 使用 `gdebi` 命令来安装 Google Chrome 的 debian 包可以解决依赖问题。参阅上文。 
 
 
-![在 Kali Linux 中以普通用户启动 google chrome](/Asserts/Images//attachment/album/201702/14/232723ld9fa4o9fssnkmy5.jpg)
+![在 Kali Linux 中以普通用户启动 google chrome](/Asserts/Images/album/201702/14/232723ld9fa4o9fssnkmy5.jpg)
 
 
 

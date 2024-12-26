@@ -7,7 +7,7 @@ tags:	[linuxcn,youtube-dl]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/27/143909m29a8m8kgkzmmskc.jpg)
+![](/Asserts/Images/album/202102/27/143909m29a8m8kgkzmmskc.jpg)
 
 
 如果你一直在关注我们，可能已经知道 [youtube-dl 项目曾被 GitHub 暂时下架](https://itsfoss.com/youtube-dl-github-takedown/) 以合规。但它现在已经恢复并完全可以访问，可以说它并不是一个非法的工具。
@@ -61,7 +61,7 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 #### 1、AllTube Download
 
 
-![](/Asserts/Images//attachment/album/202102/27/144018ibecoq5wm7fwfcmd.jpg)
+![](/Asserts/Images/album/202102/27/144018ibecoq5wm7fwfcmd.jpg)
 
 
 **主要特点：**
@@ -87,7 +87,7 @@ AllTube 是一个开源的 web GUI，你可以通过 <https://alltubedownload.ne
 #### 2、youtube-dl GUI
 
 
-![](/Asserts/Images//attachment/album/202102/27/144018civmqtttm3qmeqv9.jpg)
+![](/Asserts/Images/album/202102/27/144018civmqtttm3qmeqv9.jpg)
 
 
 **主要特点：**
@@ -113,7 +113,7 @@ AllTube 是一个开源的 web GUI，你可以通过 <https://alltubedownload.ne
 #### 3、Videomass
 
 
-![](/Asserts/Images//attachment/album/202102/27/144018vt8wxgpcecrjdm6x.jpg)
+![](/Asserts/Images/album/202102/27/144018vt8wxgpcecrjdm6x.jpg)
 
 
 **主要特点：**
@@ -131,7 +131,7 @@ AllTube 是一个开源的 web GUI，你可以通过 <https://alltubedownload.ne
 要做到这点，你需要在你的系统上同时安装 youtube-dl 和 ffmpeg。你可以轻松的添加多个 URL 来下载，还可以根据自己的喜好设置输出目录。
 
 
-![](/Asserts/Images//attachment/album/202102/27/144019ktx0h4tkk4hw4utt.jpg)
+![](/Asserts/Images/album/202102/27/144019ktx0h4tkk4hw4utt.jpg)
 
 
 你还可以获得一些高级设置来禁用 youtube-dl，改变文件首选项，以及随着你的探索，还有一些更方便的选项。
@@ -146,7 +146,7 @@ AllTube 是一个开源的 web GUI，你可以通过 <https://alltubedownload.ne
 #### 附送：Haruna Video Player
 
 
-![](/Asserts/Images//attachment/album/202102/27/144020he7444txhq7w7xah.jpg)
+![](/Asserts/Images/album/202102/27/144020he7444txhq7w7xah.jpg)
 
 
 **主要特点：**

@@ -7,13 +7,13 @@ tags:	[linuxcn,Shebang,释伴]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/24/213153for8ck8kv98wl6kp.jpg)
+![](/Asserts/Images/album/201811/24/213153for8ck8kv98wl6kp.jpg)
 
 
 使用 Linux 或者 unix 系统的同学可能都对 `#!` 这个符号并不陌生，但是你真的了解它吗？
 
 
-![](/Asserts/Images//attachment/album/201408/22/110421y6evt7fsvd88pjxd.jpg)
+![](/Asserts/Images/album/201408/22/110421y6evt7fsvd88pjxd.jpg)
 
 
 本文将给你简单介绍一下 Shebang（“`#!`”）这个符号。

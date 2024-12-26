@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201604/20/061058p8a2mzawauadwudu.jpg)
+![](/Asserts/Images/album/201604/20/061058p8a2mzawauadwudu.jpg)
 
 
 * KDE Plasma 5.6 [发布](https://www.kde.org/announcements/plasma-5.6.3.php)了第三个维护版本 5.6.3，本次发布主要是错误修复，包括一个严重的 KWin 崩溃问题。

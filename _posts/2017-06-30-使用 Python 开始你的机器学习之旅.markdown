@@ -15,7 +15,7 @@ tags:	[linuxcn,机器学习,ML,Python]
 > 
 
 
-![Get started with machine learning using Python](/Asserts/Images//attachment/album/201706/07/091219dd15wiwukzlubid0.png "Get started with machine learning using Python")
+![Get started with machine learning using Python](/Asserts/Images/album/201706/07/091219dd15wiwukzlubid0.png "Get started with machine learning using Python")
 
 
 你想知道如何开始机器学习吗？在这篇文章中，我将简要概括一下使用 [Python](https://opensource.com/article/17/2/3-top-machine-learning-libraries-python) 来开始机器学习的一些步骤。Python 是一门流行的开源程序设计语言，也是在人工智能及其它相关科学领域中最常用的语言之一。机器学习简称 ML，是人工智能的一个分支，它是利用算法从数据中进行学习，然后作出预测。机器学习有助于帮助我们预测我们周围的世界。
@@ -79,7 +79,7 @@ tags:	[linuxcn,机器学习,ML,Python]
 ### 探索机器学习
 
 
-对基本的 Python、机器学习技能和 Python 库有了一定理解之后，就可以开始探索机器学习了。接下来，尝试探索一下 Scikit-learn 库。一个不错的教程是 Jake VanderPlas 写的 [Scikit-learn 简介](http://nbviewer.jupyter.org/github/donnemartin/Asserts/Images/-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb)。
+对基本的 Python、机器学习技能和 Python 库有了一定理解之后，就可以开始探索机器学习了。接下来，尝试探索一下 Scikit-learn 库。一个不错的教程是 Jake VanderPlas 写的 [Scikit-learn 简介](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb)。
 
 
 然后，进入中级主题，比如 [K-均值聚类算法简介](https://www.datascience.com/blog/introduction-to-k-means-clustering-algorithm-learn-data-science-tutorials)、线性回归、[决策树](http://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)和逻辑回归。

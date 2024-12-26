@@ -30,7 +30,7 @@ tags:	[linuxcn,安全,黑客,Kali]
 ### 用于黑客渗透测试的 Kali Linux 工具
 
 
-![](/Asserts/Images//attachment/album/201905/15/234125c22rx77mmz9m37zo.jpg)
+![](/Asserts/Images/album/201905/15/234125c22rx77mmz9m37zo.jpg)
 
 
 Kali Linux 预装了几种类型的工具。如果你发现有的工具没有安装，只需下载并进行设置即可。这很简单。
@@ -39,7 +39,7 @@ Kali Linux 预装了几种类型的工具。如果你发现有的工具没有安
 #### 1、Nmap
 
 
-![Nmap](/Asserts/Images//attachment/album/201905/15/234154lua2xtm5mtxwmjbc.jpg)
+![Nmap](/Asserts/Images/album/201905/15/234154lua2xtm5mtxwmjbc.jpg)
 
 
 [Nmap](https://nmap.org/) （即 “<ruby> 网络映射器 <rt>  Network Mapper </rt></ruby>”）是 Kali Linux 上最受欢迎的信息收集工具之一。换句话说，它可以获取有关主机的信息：其 IP 地址、操作系统检测以及网络安全的详细信息（如开放的端口数量及其含义）。
@@ -51,7 +51,7 @@ Kali Linux 预装了几种类型的工具。如果你发现有的工具没有安
 #### 2、Lynis
 
 
-![Lynis](/Asserts/Images//attachment/album/201905/15/234159etw87c5togz71gox.jpg)
+![Lynis](/Asserts/Images/album/201905/15/234159etw87c5togz71gox.jpg)
 
 
 [Lynis](https://cisofy.com/lynis/) 是安全审计、合规性测试和系统强化的强大工具。当然，你也可以将其用于漏洞检测和渗透测试。
@@ -63,7 +63,7 @@ Kali Linux 预装了几种类型的工具。如果你发现有的工具没有安
 #### 3、WPScan
 
 
-![WPScan](/Asserts/Images//attachment/album/201905/15/234205sgqfijtw4gp4nj1q.jpg)
+![WPScan](/Asserts/Images/album/201905/15/234205sgqfijtw4gp4nj1q.jpg)
 
 
 WordPress 是[最好的开源 CMS](https://itsfoss.com/open-source-cms/)之一，而这个工具是最好的免费 WordpPress 安全审计工具。它是免费的，但不是开源的。
@@ -78,7 +78,7 @@ WordPress 是[最好的开源 CMS](https://itsfoss.com/open-source-cms/)之一�
 #### 4、Aircrack-ng
 
 
-![Aircrack-ng](/Asserts/Images//attachment/album/201905/15/234207tsn5m1ajy5oonoa5.jpg)
+![Aircrack-ng](/Asserts/Images/album/201905/15/234207tsn5m1ajy5oonoa5.jpg)
 
 
 [Aircrack-ng](https://www.aircrack-ng.org/) 是评估 WiFi 网络安全性的工具集合。它不仅限于监控和获取信息 —— 还包括破坏网络（WEP、WPA 1 和 WPA 2）的能力。
@@ -90,7 +90,7 @@ WordPress 是[最好的开源 CMS](https://itsfoss.com/open-source-cms/)之一�
 #### 5、Hydra
 
 
-![Hydra](/Asserts/Images//attachment/album/201905/15/234209l9re145z7xeo3evr.jpg)
+![Hydra](/Asserts/Images/album/201905/15/234209l9re145z7xeo3evr.jpg)
 
 
 如果你正在寻找一个有趣的工具来破解登录密码，[Hydra](https://github.com/vanhauser-thc/thc-hydra) 将是 Kali Linux 预装的最好的工具之一。
@@ -102,7 +102,7 @@ WordPress 是[最好的开源 CMS](https://itsfoss.com/open-source-cms/)之一�
 #### 6、Wireshark
 
 
-![Wireshark](/Asserts/Images//attachment/album/201905/15/234212fyyex15seel21sj6.jpg)
+![Wireshark](/Asserts/Images/album/201905/15/234212fyyex15seel21sj6.jpg)
 
 
 [Wireshark](https://www.wireshark.org/) 是 Kali Linux 上最受欢迎的网络分析仪。它也可以归类为用于网络嗅探的最佳 Kali Linux 工具之一。
@@ -114,7 +114,7 @@ WordPress 是[最好的开源 CMS](https://itsfoss.com/open-source-cms/)之一�
 #### 7、Metasploit Framework
 
 
-![Metasploit Framework](/Asserts/Images//attachment/album/201905/15/234214zokxem4848exk2xl.jpg)
+![Metasploit Framework](/Asserts/Images/album/201905/15/234214zokxem4848exk2xl.jpg)
 
 
 [Metsploit Framework](https://github.com/rapid7/metasploit-framework)（MSF）是最常用的渗透测试框架。它提供两个版本：一个开源版，另外一个是其专业版。使用此工具，你可以验证漏洞、测试已知漏洞并执行完整的安全评估。
@@ -126,7 +126,7 @@ WordPress 是[最好的开源 CMS](https://itsfoss.com/open-source-cms/)之一�
 #### 8、Skipfish
 
 
-![Skipfish](/Asserts/Images//attachment/album/201905/15/234215xriizy0o002cumsx.jpg)
+![Skipfish](/Asserts/Images/album/201905/15/234215xriizy0o002cumsx.jpg)
 
 
 与 WPScan 类似，但它不仅仅专注于 WordPress。[Skipfish](https://gitlab.com/kalilinux/packages/skipfish/) 是一个 Web 应用扫描程序，可以为你提供几乎所有类型的 Web 应用程序的洞察信息。它快速且易于使用。此外，它的递归爬取方法使它更好用。
@@ -138,7 +138,7 @@ Skipfish 生成的报告可以用于专业的 Web 应用程序安全评估。
 #### 9、Maltego
 
 
-![Maltego](/Asserts/Images//attachment/album/201905/15/234217twwdt3ne3ted38ny.jpg)
+![Maltego](/Asserts/Images/album/201905/15/234217twwdt3ne3ted38ny.jpg)
 
 
 [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php) 是一种令人印象深刻的数据挖掘工具，用于在线分析信息并连接信息点（如果有的话）。 根据这些信息，它创建了一个有向图，以帮助分析这些数据之间的链接。
@@ -153,7 +153,7 @@ Skipfish 生成的报告可以用于专业的 Web 应用程序安全评估。
 #### 10、Nessus
 
 
-![Nessus](/Asserts/Images//attachment/album/201905/15/234218pv5rorhufug8p8o9.jpg)
+![Nessus](/Asserts/Images/album/201905/15/234218pv5rorhufug8p8o9.jpg)
 
 
 如果你的计算机连接到了网络，Nessus 可以帮助你找到潜在攻击者可能利用的漏洞。当然，如果你是多台连接到网络的计算机的管理员，则可以使用它并保护这些计算机。
@@ -165,7 +165,7 @@ Skipfish 生成的报告可以用于专业的 Web 应用程序安全评估。
 #### 11、Burp Suite Scanner
 
 
-![Burp Suite Scanner](/Asserts/Images//attachment/album/201905/15/234220os4hr7rwss43vxs1.jpg)
+![Burp Suite Scanner](/Asserts/Images/album/201905/15/234220os4hr7rwss43vxs1.jpg)
 
 
 [Burp Suite Scanner](https://portswigger.net/burp) 是一款出色的网络安全分析工具。与其它 Web 应用程序安全扫描程序不同，Burp 提供了 GUI 和一些高级工具。
@@ -180,7 +180,7 @@ Skipfish 生成的报告可以用于专业的 Web 应用程序安全评估。
 #### 12、BeEF
 
 
-![BeEF](/Asserts/Images//attachment/album/201905/15/234221r5raarae5qnrafx0.jpg)
+![BeEF](/Asserts/Images/album/201905/15/234221r5raarae5qnrafx0.jpg)
 
 
 BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></ruby>）是另一个令人印象深刻的工具。它专为渗透测试人员量身定制，用于评估 Web 浏览器的安全性。
@@ -192,7 +192,7 @@ BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></
 #### 13、Apktool
 
 
-![Apktool](/Asserts/Images//attachment/album/201905/15/234223slisododutl5a2u7.jpg)
+![Apktool](/Asserts/Images/album/201905/15/234223slisododutl5a2u7.jpg)
 
 
 [Apktool](https://github.com/iBotPeaches/Apktool) 确实是 Kali Linux 上用于逆向工程 Android 应用程序的流行工具之一。当然，你应该正确利用它 —— 出于教育目的。
@@ -204,7 +204,7 @@ BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></
 #### 14、sqlmap
 
 
-![sqlmap](/Asserts/Images//attachment/album/201905/15/234225qmpj4y77mag7ilg0.jpg)
+![sqlmap](/Asserts/Images/album/201905/15/234225qmpj4y77mag7ilg0.jpg)
 
 
 如果你正在寻找一个开源渗透测试工具 —— [sqlmap](http://sqlmap.org/) 是最好的之一。它可以自动化利用 SQL 注入漏洞的过程，并帮助你接管数据库服务器。
@@ -213,7 +213,7 @@ BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></
 #### 15、John the Ripper
 
 
-![John the Ripper](/Asserts/Images//attachment/album/201905/15/234226oqn3h6d2oqa4odo9.jpg)
+![John the Ripper](/Asserts/Images/album/201905/15/234226oqn3h6d2oqa4odo9.jpg)
 
 
 [John the Ripper](https://github.com/magnumripper/JohnTheRipper) 是 Kali Linux 上流行的密码破解工具。它也是自由开源的。但是，如果你对[社区增强版](https://github.com/magnumripper/JohnTheRipper)不感兴趣，可以用于商业用途的[专业版](https://www.openwall.com/john/pro/)。
@@ -228,13 +228,13 @@ BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></
 如果你还没有安装它，[官方网站](https://www.snort.org/#get-started)提及了安装过程。
 
 
-![Snort](/Asserts/Images//attachment/album/201905/15/235214n8qeq2exha2za1qv.jpg)
+![Snort](/Asserts/Images/album/201905/15/235214n8qeq2exha2za1qv.jpg)
 
 
 #### 17、Autopsy Forensic Browser
 
 
-![Autopsy Forensic Browser](/Asserts/Images//attachment/album/201905/15/234228yb1sxjsi3kvgkroz.jpg)
+![Autopsy Forensic Browser](/Asserts/Images/album/201905/15/234228yb1sxjsi3kvgkroz.jpg)
 
 
 [Autopsy](https://www.sleuthkit.org/autopsy/) 是一个数字取证工具，用于调查计算机上发生的事情。那么，你也可以使用它从 SD 卡恢复图像。它也被执法官员使用。你可以阅读[文档](https://www.sleuthkit.org/autopsy/docs.php)来探索可以用它做什么。
@@ -246,7 +246,7 @@ BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></
 #### 18、King Phisher
 
 
-![King Phisher](/Asserts/Images//attachment/album/201905/15/234230o3szcfcbs0n0kpvn.jpg)
+![King Phisher](/Asserts/Images/album/201905/15/234230o3szcfcbs0n0kpvn.jpg)
 
 
 网络钓鱼攻击现在非常普遍。[King Phisher 工具](https://github.com/securestate/king-phisher)可以通过模拟真实的网络钓鱼攻击来帮助测试和提升用户意识。出于显而易见的原因，在模拟一个组织的服务器内容前，你需要获得许可。
@@ -255,7 +255,7 @@ BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></
 #### 19、Nikto
 
 
-![Nikto](/Asserts/Images//attachment/album/201905/15/234231pol785wduuoagdya.jpg)
+![Nikto](/Asserts/Images/album/201905/15/234231pol785wduuoagdya.jpg)
 
 
 [Nikto](https://gitlab.com/kalilinux/packages/nikto/) 是一款功能强大的 Web 服务器扫描程序 —— 这使其成为最好的 Kali Linux 工具之一。 它会检查存在潜在危险的文件/程序、过时的服务器版本等等。
@@ -264,7 +264,7 @@ BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></
 #### 20、Yersinia
 
 
-![Yersinia](/Asserts/Images//attachment/album/201905/15/234233yzszztg2rzbsig0s.jpg)
+![Yersinia](/Asserts/Images/album/201905/15/234233yzszztg2rzbsig0s.jpg)
 
 
 [Yersinia](https://github.com/tomac/yersinia) 是一个有趣的框架，用于在网络上执行第 2 层攻击（第 2 层是指 [OSI 模型](https://en.wikipedia.org/wiki/OSI_model)的数据链路层）。当然，如果你希望你的网络安全，则必须考虑所有七个层。但是，此工具侧重于第 2 层和各种网络协议，包括 STP、CDP，DTP 等。
@@ -273,7 +273,7 @@ BeEF（<ruby> 浏览器利用框架 <rt>  Browser Exploitation Framework </rt></
 #### 21、Social Engineering Toolkit (SET)
 
 
-![Social Engineering Toolkit (SET)](/Asserts/Images//attachment/album/201905/15/234234itgtttlthkl6satr.jpg)
+![Social Engineering Toolkit (SET)](/Asserts/Images/album/201905/15/234234itgtttlthkl6satr.jpg)
 
 
 如果你正在进行相当严格的渗透测试，那么这应该是你应该检查的最佳工具之一。社交工程是一个大问题，使用 [SET](https://www.trustedsec.com/social-engineer-toolkit-set/) 工具，你可以帮助防止此类攻击。

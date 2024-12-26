@@ -15,7 +15,7 @@ tags:	[linuxcn,Docker Desktop,Docker]
 > 
 
 
-![Docker](/Asserts/Images//attachment/album/202205/12/231004mpr1pbj3g9k4b1cf.jpg)
+![Docker](/Asserts/Images/album/202205/12/231004mpr1pbj3g9k4b1cf.jpg)
 
 
 Docker Desktop 是容器化应用程序的最简单的方法。有了它，你就不需要预先设置平台相关环境。

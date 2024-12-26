@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Mozilla,浏览器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/13/132844wq6zf62zm9zmq46z.jpg)
+![](/Asserts/Images/album/202112/13/132844wq6zf62zm9zmq46z.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/13/132530u7j71ux88nln78jk.jpg)
+![](/Asserts/Images/album/202112/13/132530u7j71ux88nln78jk.jpg)
 
 
 ### 美国军方的一个只有 25% 准确率的 AI 却自信有 90% 的准确率
@@ -27,7 +27,7 @@ tags:	[linuxcn,AI,Mozilla,浏览器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/13/132852j31tnkiw31rkup7w.jpg)
+![](/Asserts/Images/album/202112/13/132852j31tnkiw31rkup7w.jpg)
 
 
 ### Mozilla 2020 财年收入 4.96 亿美元
@@ -44,7 +44,7 @@ tags:	[linuxcn,AI,Mozilla,浏览器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/13/132901zwf2aqpvjjwvvn4q.jpg)
+![](/Asserts/Images/album/202112/13/132901zwf2aqpvjjwvvn4q.jpg)
 
 
 ### IE 浏览器上的谷歌工具栏下线了

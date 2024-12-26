@@ -10,7 +10,7 @@ tags:	[linuxcn,MySQL,MyCLI]
 MyCLI 是一个易于使用的命令行客户端，可用于受欢迎的数据库管理系统 MySQL、MariaDB 和 Percona，支持自动补全和语法高亮。它是使用 `prompt_toolkit` 库写的，需要 Python 2.7、3.3、3.4、3.5 和 3.6 的支持。MyCLI 还支持通过 SSL 安全连接到 MySQL 服务器。
 
 
-![](/Asserts/Images//attachment/album/201706/05/090536ynnzhoqhaoa8doo2.jpg)
+![](/Asserts/Images/album/201706/05/090536ynnzhoqhaoa8doo2.jpg)
 
 
 #### MyCLI 的特性
@@ -98,7 +98,7 @@ $ mycli -u root -h localhost
 对于关键词和 SQL 函数可以进行简单的自动补全：
 
 
-![MySQL Auto Completion](/Asserts/Images//attachment/album/201706/05/090544uony82y705mnyygy.png)
+![MySQL Auto Completion](/Asserts/Images/album/201706/05/090544uony82y705mnyygy.png)
 
 
 *MySQL 自动补全*
@@ -110,7 +110,7 @@ $ mycli -u root -h localhost
 当输入 `FROM` 关键词以后会进行表名称的补全：
 
 
-![MySQL Smart Completion](/Asserts/Images//attachment/album/201706/05/090544bjqkv56hpdqazy5v.png)
+![MySQL Smart Completion](/Asserts/Images/album/201706/05/090544bjqkv56hpdqazy5v.png)
 
 
 *MySQL 智能补全*
@@ -122,7 +122,7 @@ $ mycli -u root -h localhost
 当表的名称设置别名以后，也支持列名称的补全：
 
 
-![MySQL Alias Support](/Asserts/Images//attachment/album/201706/05/090545vyltwalw4acd2aa7.png)
+![MySQL Alias Support](/Asserts/Images/album/201706/05/090545vyltwalw4acd2aa7.png)
 
 
 *MySQL 别名支持*
@@ -134,7 +134,7 @@ $ mycli -u root -h localhost
 支持 MySQL 语法高亮：
 
 
-![MySQL Syntax Highlighting](/Asserts/Images//attachment/album/201706/05/090546x8rddx3fgasx4xl4.png)
+![MySQL Syntax Highlighting](/Asserts/Images/album/201706/05/090546x8rddx3fgasx4xl4.png)
 
 
 *MySQL 语法高亮*
@@ -146,7 +146,7 @@ $ mycli -u root -h localhost
 MySQL 的输出会通过 [`less` 命令](https://www.tecmint.com/linux-more-command-and-less-command-examples/) 进行格式化输出：
 
 
-![MySQL Formatted Output](/Asserts/Images//attachment/album/201706/05/090546ysrcf71syd64mzbf.png)
+![MySQL Formatted Output](/Asserts/Images/album/201706/05/090546ysrcf71syd64mzbf.png)
 
 
 *MySQL 格式化输出*

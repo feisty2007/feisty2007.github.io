@@ -15,7 +15,7 @@ tags:	[linuxcn,HTTPS]
 > 
 
 
-![](/Asserts/Images//attachment/album/201804/23/211532baza1a15yozo60o5.jpg)
+![](/Asserts/Images/album/201804/23/211532baza1a15yozo60o5.jpg)
 
 
 曾几何时，通过证书授权机构搭建基本的 HTTPS 网站需要每年花费数百美元，而且搭建的过程复杂且容易出错。现在我们免费使用 [Let's Encrypt](https://letsencrypt.org)，而且搭建过程也只需要几分钟。
@@ -50,7 +50,7 @@ tags:	[linuxcn,HTTPS]
 当你访问一个 HTTPS 网站时，网站给你的网页浏览器返回了一个数字证书。这个证书说明你的会话被强加密，而且提供了该网站信息，包括组织名称、颁发证书的组织和证书颁发机构名称等。你可以点击网页浏览器地址栏的小锁头来查看这些信息（图 1），也包括了证书本身。
 
 
-![](/Asserts/Images//attachment/album/201804/23/211533f900n5d99900g9lg.png "页面信息")
+![](/Asserts/Images/album/201804/23/211533f900n5d99900g9lg.png "页面信息")
 
 
 *图1: 点击网页浏览器地址栏上的锁头标记查看信息*

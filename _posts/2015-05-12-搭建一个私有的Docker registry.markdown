@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,registry]
 ---
 
 
-![](/Asserts/Images//attachment/album/201505/03/235052rf8iq6i6x1xiz8qo.jpg)
+![](/Asserts/Images/album/201505/03/235052rf8iq6i6x1xiz8qo.jpg)
 
 
 [TL;DR] 这是系列的第二篇文章，这系列讲述了我的公司如何把基础服务从PaaS迁移到Docker上
@@ -70,7 +70,7 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 登录进你的DO账号，选择一个预安装了Docker的镜像文件，创建一个新的Drople。（本文写成时选择的是 Image > Applications > Docker 1.4.1 on 14.04）
 
 
-![](/Asserts/Images//attachment/album/201505/03/235325m6r1k1mom96mqn8m.png)
+![](/Asserts/Images/album/201505/03/235325m6r1k1mom96mqn8m.png)
 
 
 你将会以邮件的方式收到一个根用户凭证。登录进去，然后运行`docker ps`命令来查看系统状态。
@@ -85,13 +85,13 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 登录到我们的AWS账号（如果没有，就申请一个<http://aws.amazon.com/>），在控制台选择S3（Simpole Storage Service）。
 
 
-![](/Asserts/Images//attachment/album/201505/03/235330nzcuztdvxit4z2ki.png)
+![](/Asserts/Images/album/201505/03/235330nzcuztdvxit4z2ki.png)
 
 
 点击 **Create Bucket**，为你的桶输入一个名字（把它记下来，我们一会需要用到它），然后点击**Create**。
 
 
-![](/Asserts/Images//attachment/album/201505/03/235333gph8umin9yc98n9k.png)
+![](/Asserts/Images/album/201505/03/235333gph8umin9yc98n9k.png)
 
 
 OK！我们已经搭建好存储部分了。
@@ -103,7 +103,7 @@ OK！我们已经搭建好存储部分了。
 我们现在将要创建一个新的用户。退回到AWS控制台然后选择IAM（Identity & Access Management)。
 
 
-![](/Asserts/Images//attachment/album/201505/03/235337pht9iif6v2h03uiz.png)
+![](/Asserts/Images/album/201505/03/235337pht9iif6v2h03uiz.png)
 
 
 在dashboard的左边，点击Users。然后选择 **Create New Users**。
@@ -112,7 +112,7 @@ OK！我们已经搭建好存储部分了。
 如图所示：
 
 
-![](/Asserts/Images//attachment/album/201505/03/235339yy3gv263g2vglvv3.png)
+![](/Asserts/Images/album/201505/03/235339yy3gv263g2vglvv3.png)
 
 
 输入一个用户名（例如 docker-registry）然后点击Create。写下（或者下载csv文件）你的Access Key以及Secret Access Key。回到你的用户列表然后选择你刚刚创建的用户。
@@ -121,7 +121,7 @@ OK！我们已经搭建好存储部分了。
 在Permission section下面，点击Attach User Policy。之后在下一屏，选择Custom Policy。
 
 
-![](/Asserts/Images//attachment/album/201505/03/235341g7y717cq2447ywfr.png)
+![](/Asserts/Images/album/201505/03/235341g7y717cq2447ywfr.png)
 
 
 custom policy的内容如下：

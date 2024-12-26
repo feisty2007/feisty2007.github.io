@@ -7,7 +7,7 @@ tags:	[linuxcn,终端,Windows]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/08/224905ftztz439xgwtigvu.jpg)
+![](/Asserts/Images/album/201905/08/224905ftztz439xgwtigvu.jpg)
 
 
 /\*注意：这篇文章没什么实际意义……\*/
@@ -16,13 +16,13 @@ tags:	[linuxcn,终端,Windows]
 就如大家所知，5 月 6 日，微软宣布了新的 Windows 命令行界面 —— Windows Terminal。 无论这一产品本身如何、它的未来将去向何方，至少，它在这两天吸足了眼球。技术媒体争相复制黏贴相关通稿，大量人群涌入[项目的 Github 仓库](https://github.com/microsoft/Terminal)，2 天内点出超过 20000 星标 —— 并于今日成功跃居 Github 趋势榜榜首。
 
 
-![](/Asserts/Images//attachment/album/201905/08/221310xffu7vpng3x3xk3s.jpg)
+![](/Asserts/Images/album/201905/08/221310xffu7vpng3x3xk3s.jpg)
 
 
 在项目宣布、仓库开放的这两天中，截止至发稿时，已经发生了 20 次提交，新增的 issue 有 121 条 —— 这个数字仍然以相当高的速度增长。截止至发稿时间，这些 issue 中有 72 条未被关闭，但剩余的 49 条（主要是问题之类）已经得到处理。作为对比，同样是微软的开源项目，具有接近 50000 星标的 TypeScript 在七天内总共有新 issue 75 条，这个数字比 Terminal 的 121 条少了三分之一。人群的涌入并不是 issue 数量极多的唯一原因：事实上，这个项目目前还处于 alpha 测试的早期阶段，问题多多在所难免。在目前开放的 issue 中，大部分是 bug 报告，其次是特性请求；我们可以注意到，bug 报告以界面 bug 为主（字体渲染问题，颜色问题，等等），而特性请求大多与交互方式相关。
 
 
-![](/Asserts/Images//attachment/album/201905/08/221345xbf3z6d6wzddruwz.jpg)
+![](/Asserts/Images/album/201905/08/221345xbf3z6d6wzddruwz.jpg)
 
 
 *界面 bug：“输入emoji会导致光标位置异常”*
@@ -36,7 +36,7 @@ tags:	[linuxcn,终端,Windows]
 * “为什么我打开编译好的程序，它看起来却和旧的界面差不多？”
 
 
-![](/Asserts/Images//attachment/album/201905/08/221418u7mkm10ghjm5k33v.jpg)
+![](/Asserts/Images/album/201905/08/221418u7mkm10ghjm5k33v.jpg)
 
 
 *(项目组把编译指南放在了明显位置)*
@@ -45,7 +45,7 @@ tags:	[linuxcn,终端,Windows]
 在部分吃瓜群众面对 VS 枯坐时，另一些吃瓜群众决定打开他们的脑洞。已关闭的 issue 中包含了一些特别的提问：提出者想要知道能不能在 Linux / MacOS 中使用这个项目，但被项目组人员告知目前没有将它登陆其他平台的打算。
 
 
-![](/Asserts/Images//attachment/album/201905/08/221457fej12llpec4e2iul.jpg)
+![](/Asserts/Images/album/201905/08/221457fej12llpec4e2iul.jpg)
 
 
 *“功能请求： Linux 支持。拜托了。”*
@@ -54,7 +54,7 @@ tags:	[linuxcn,终端,Windows]
 目前，许多网友对这一项目表示了惊喜和看好。尽管现在到处可以见到“吹爆”式的评论，但如果谈起人民群众，当然不能错过一支永远期待着微软出洋相的互联网力量（当然我们很“惊喜”地发现很多吐槽是中文的）：
 
 
-![](/Asserts/Images//attachment/album/201905/08/221604rrilgav77g1zs1qx.jpg)
+![](/Asserts/Images/album/201905/08/221604rrilgav77g1zs1qx.jpg)
 
 
 *评论总结：巨硬辣鸡！（破音）*
@@ -63,25 +63,25 @@ tags:	[linuxcn,终端,Windows]
 也少不了奇葩：
 
 
-![](/Asserts/Images//attachment/album/201905/08/221808v0k85v1b547ca4d4.jpg)
+![](/Asserts/Images/album/201905/08/221808v0k85v1b547ca4d4.jpg)
 
 
 *（看看下面的 emoji 就能够感受到这条 issue 给广大群众的快乐）*
 
 
-*![](/Asserts/Images//attachment/album/201905/08/221841dbc86956s4pulwzy.jpg)*
+*![](/Asserts/Images/album/201905/08/221841dbc86956s4pulwzy.jpg)*
 
 
 *（我觉得你应该跟开发 LOL 的公司聊聊）*
 
 
-![](/Asserts/Images//attachment/album/201905/08/221859ojx5s1poipyxsqfy.jpg)
+![](/Asserts/Images/album/201905/08/221859ojx5s1poipyxsqfy.jpg)
 
 
 *（我真不想承认我看得懂你的文字）*
 
 
-*![](/Asserts/Images//attachment/album/201905/08/221953j6v6u6k8z64p64kh.jpg)*
+*![](/Asserts/Images/album/201905/08/221953j6v6u6k8z64p64kh.jpg)*
 
 
 *（而这就是在捣乱了）*
@@ -93,7 +93,7 @@ tags:	[linuxcn,终端,Windows]
 如果没有自己试着接触过讨论对象，参加讨论时恐怕难免会有一种云玩家般的心虚感。笔者用亲身经历告诉你，别看讨论热火朝天，想要用上这尚在a测的新终端，事实上并不是那么容易的：无论是自行编译项目还是用现在网上第三方编译的安装包安装，你都需要……嗯，系统更新。
 
 
-![](/Asserts/Images//attachment/album/201905/08/222246yy5iiweq2y5wiyfe.jpg)
+![](/Asserts/Images/album/201905/08/222246yy5iiweq2y5wiyfe.jpg)
 
 
 *“前提条件：你需要 Windows 1903 或以上版本以运行 Windows Terminal.”*

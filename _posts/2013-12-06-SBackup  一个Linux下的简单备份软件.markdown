@@ -42,13 +42,13 @@ sudo apt-get install sbackup
 通过 Dash 或者 Menu 打开 SBackup
 
 
-![](/Asserts/Images//attachment/album/201312/05/230853gbizrr8gojq85iac.jpg)
+![](/Asserts/Images/album/201312/05/230853gbizrr8gojq85iac.jpg)
 
 
 将会看到如下界面
 
 
-![](/Asserts/Images//attachment/album/201312/05/2308551y4tktkpf5kpf0kq.jpg)
+![](/Asserts/Images/album/201312/05/2308551y4tktkpf5kpf0kq.jpg)
 
 
 ### SBackup 配置
@@ -57,25 +57,25 @@ sudo apt-get install sbackup
 最初的 SBackup 没有任何用户自定义的配置文件，只有默认的配置文件。需要注意的是，用户不能删除默认的配置文件。若要创建一个新的配置文件，点击 Tools -> Profile Manager，将看到如下窗口
 
 
-![](/Asserts/Images//attachment/album/201312/05/2308574j4k004c4qjk0p64.jpg)
+![](/Asserts/Images/album/201312/05/2308574j4k004c4qjk0p64.jpg)
 
 
 单击 Add 来创建新配置文件，例子的文件用“sk”来命名
 
 
-![](/Asserts/Images//attachment/album/201312/05/230902jldep6rzrkzriaee.jpg)
+![](/Asserts/Images/album/201312/05/230902jldep6rzrkzriaee.jpg)
 
 
 现在已经创建了新的配置文件。若要设置配置，先选择配置文件，再单击 Edit
 
 
-![](/Asserts/Images//attachment/album/201312/05/2309048xctz6xxwy8ge88u.jpg)
+![](/Asserts/Images/album/201312/05/2309048xctz6xxwy8ge88u.jpg)
 
 
 现在看到 SBackup 的配置文件已经被切换到“sk”
 
 
-![](/Asserts/Images//attachment/album/201312/05/230906tahj96f50th999z9.jpg)
+![](/Asserts/Images/album/201312/05/230906tahj96f50th999z9.jpg)
 
 
 当然，也可以根据不同人的需求来修改默认配置文件
@@ -99,7 +99,7 @@ sudo sbackup-config-gtk
 上面的命令将以 root 权限打开默认配置的 SBackup
 
 
-![](/Asserts/Images//attachment/album/201312/05/230908ityoysroizpzuufk.jpg)
+![](/Asserts/Images/album/201312/05/230908ityoysroizpzuufk.jpg)
 
 
 #### General选项卡
@@ -108,7 +108,7 @@ sudo sbackup-config-gtk
 在 General 选项内，你可以选择多久进行一次完整备份，默认是7天。每7天 SBackup 将会进行一次完整的备份。你也可以选择备份的压缩格式。
 
 
-![](/Asserts/Images//attachment/album/201312/05/23091313ndqkkizb7kvvq9.jpg)
+![](/Asserts/Images/album/201312/05/23091313ndqkkizb7kvvq9.jpg)
 
 
 #### Include选项卡
@@ -117,7 +117,7 @@ sudo sbackup-config-gtk
 这个选项不需要解释太多，你可以添加 SBackup 要备份的文件或目录。这里可以选择备份单独的文件或者完整的目录，我删除了所有的目录仅仅保留了“Resume”
 
 
-![](/Asserts/Images//attachment/album/201312/05/230915vhhx2432bc032r2b.jpg)
+![](/Asserts/Images/album/201312/05/230915vhhx2432bc032r2b.jpg)
 
 
 #### Exclude选项卡
@@ -126,25 +126,25 @@ sudo sbackup-config-gtk
 如同 Include 选项，我们可以选择备份时排除的文档和目录，只需要选择要排除的文档和目录的路径即可。在默认配置下，/media, /var/run/, /var/cache/, /var/spool/ 和 /vat/tmp/ 目录均被排除
 
 
-![](/Asserts/Images//attachment/album/201312/05/230917onna955o8s4r4oo0.jpg)
+![](/Asserts/Images/album/201312/05/230917onna955o8s4r4oo0.jpg)
 
 
 更进一步的是，你可以增加备份时排除文件的类型，像 mp3 和 avi 等等。在默认配置下，mp3, avi, mpeg, mkv, ogg 和 iso 是被排除不被备份的。如果你想备份这些文件，只要选中然后点击 remove。当然，如果要排除其他类型的文件，只需要点击 add 然后增加。
 
 
-![](/Asserts/Images//attachment/album/201312/05/23091990fsr4sf0da9ax88.jpg)
+![](/Asserts/Images/album/201312/05/23091990fsr4sf0da9ax88.jpg)
 
 
 在默认配置下，SBackup 不会备份.gvfs, .thumbnails, .Trash 和 .cache 这些文件夹
 
 
-![](/Asserts/Images//attachment/album/201312/05/230920at3b72gzngy9qq7a.jpg)
+![](/Asserts/Images/album/201312/05/230920at3b72gzngy9qq7a.jpg)
 
 
 同时你也可以在备份时根据文件大小来排除某些文档和文件夹，这里我排除了体积超过100MB 的文档和文件夹。
 
 
-![](/Asserts/Images//attachment/album/201312/05/230928z22lo12ww1iuupwi.jpg)
+![](/Asserts/Images/album/201312/05/230928z22lo12ww1iuupwi.jpg)
 
 
 #### Destination选项卡
@@ -153,7 +153,7 @@ sudo sbackup-config-gtk
 在这里你可以选择备份存放的路径，正如我之前提到的，你可以把备份的文档或文件夹存放在硬盘或者远程的 FTP 或 NAS。这里我将把备份保存在 /home/sk/My Backup 目录下。
 
 
-![](/Asserts/Images//attachment/album/201312/05/230932yzvxyjgf7syp9zbp.jpg)
+![](/Asserts/Images/album/201312/05/230932yzvxyjgf7syp9zbp.jpg)
 
 
 **提示:** 在备份前确认目录有足够的空间保存备份文件
@@ -165,7 +165,7 @@ sudo sbackup-config-gtk
 在这个选项中，你可以设定具体的备份时间。点击 **Simple** 选项，可以按每小时、每日、每周、每月来设置你的计划备份时间。
 
 
-![](/Asserts/Images//attachment/album/201312/05/230933ynuus3eyszf6uufu.jpg)
+![](/Asserts/Images/album/201312/05/230933ynuus3eyszf6uufu.jpg)
 
 
 如果你擅长使用命令行来计划任务，则可以使用 cron 来操作。当你开启每日备份计划时，cron 命令在 **/etc/cron.daily/** 目录中创建计划文件
@@ -192,7 +192,7 @@ lrwxrwxrwx 1 root root 33 Nov  8 15:34 /etc/cron.daily/sbackup -> /usr/share/sba
 在这个选项里，可以删除超过一定时间的备份文件。在默认配置下，超过30天的备份文件将被删除。
 
 
-![](/Asserts/Images//attachment/album/201312/05/2309355yyttxxxvvvtnytx.jpg)
+![](/Asserts/Images/album/201312/05/2309355yyttxxxvvvtnytx.jpg)
 
 
 #### Report选项卡
@@ -201,7 +201,7 @@ lrwxrwxrwx 1 root root 33 Nov  8 15:34 /etc/cron.daily/sbackup -> /usr/share/sba
 Report 是最后一个选项卡，在这里你可以设置接收备份完成通知的邮箱。输入你的邮箱ID、SMTP服务地址、邮箱用户名、密码后，点击 Test mail settings。需要留意的是，在测试邮箱设置前，点击工具栏中的Save Configuration按钮保存你的配置。
 
 
-![](/Asserts/Images//attachment/album/201312/05/230938czz08tg42g8dkwss.jpg)
+![](/Asserts/Images/album/201312/05/230938czz08tg42g8dkwss.jpg)
 
 
 你将在完成测试邮箱设置后看到 “Test Successful” 字样。
@@ -213,13 +213,13 @@ Report 是最后一个选项卡，在这里你可以设置接收备份完成通�
 点击 SBackup 工具栏上的 **Make Backup now button** 按钮立即开始备份。
 
 
-![](/Asserts/Images//attachment/album/201312/05/23093964isosmgiiipmwsz.jpg)
+![](/Asserts/Images/album/201312/05/23093964isosmgiiipmwsz.jpg)
 
 
 弹出一个窗口，点击 Yes 开始创建备份文件。
 
 
-![](/Asserts/Images//attachment/album/201312/05/230940ps13spemdvs3fvds.jpg)
+![](/Asserts/Images/album/201312/05/230940ps13spemdvs3fvds.jpg)
 
 
 现在备份的进程已经在后台开始运行，你可以通过在通知栏上的状态显示来监视备份的进程。
@@ -228,7 +228,7 @@ Report 是最后一个选项卡，在这里你可以设置接收备份完成通�
 完成备份之后，关闭 SBackup ，并且确认备份文件保存在指定的目录。例子中我保存的目录是/home/sk/My Backup。
 
 
-![](/Asserts/Images//attachment/album/201312/05/230945wxta98tajeuhazyz.jpg)
+![](/Asserts/Images/album/201312/05/230945wxta98tajeuhazyz.jpg)
 
 
 ### 恢复文件
@@ -246,7 +246,7 @@ sudo sbackup-restore-gtk
 在 SBackup 的恢复窗口，选择可用的备份日期和快照，在 Restoration Management 面板中选择任意一个要恢复的文件，单击 **restore** 保存到默认位置或者单击 **restore as** 保存到指定的位置。
 
 
-![](/Asserts/Images//attachment/album/201312/05/230946cwg3zxe1uxp69qic.jpg)
+![](/Asserts/Images/album/201312/05/230946cwg3zxe1uxp69qic.jpg)
 
 
 现在文件已经从备份中恢复，就这么简单。

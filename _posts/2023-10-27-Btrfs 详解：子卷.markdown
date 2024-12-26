@@ -7,7 +7,7 @@ tags:	[linuxcn,Btrfs]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/03/111308vdhzh3ddwwjdmyw0.jpg)
+![](/Asserts/Images/album/202310/03/111308vdhzh3ddwwjdmyw0.jpg)
 
 
 这篇文章是《Btrfs 详解》系列文章中的一篇。从 Fedora Linux 33 开始，Btrfs 就是 Fedora Workstation 和 Fedora Silverblue 的默认文件系统。

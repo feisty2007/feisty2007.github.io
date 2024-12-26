@@ -7,10 +7,10 @@ tags:	[linuxcn,DNS,安全启动,USB]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/19/172805weetj2w2wjwj6rwe.jpg)
+![](/Asserts/Images/album/202301/19/172805weetj2w2wjwj6rwe.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/19/172813h72ozuko662v9pu8.jpg)
+![](/Asserts/Images/album/202301/19/172813h72ozuko662v9pu8.jpg)
 
 
 ### 谷歌公共 DNS 服务正在推行大小写混杂查询
@@ -35,7 +35,7 @@ tags:	[linuxcn,DNS,安全启动,USB]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/19/172822vj2j4ed3jy7k2s6y.jpg)
+![](/Asserts/Images/album/202301/19/172822vj2j4ed3jy7k2s6y.jpg)
 
 
 ### 290 款微星主板的安全启动默认被绕过
@@ -60,7 +60,7 @@ tags:	[linuxcn,DNS,安全启动,USB]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/19/172834g3fk3y5xyomomlmk.jpg)
+![](/Asserts/Images/album/202301/19/172834g3fk3y5xyomomlmk.jpg)
 
 
 ### USB4 2.0 规格正式发布，USB-C 可达 120Gbps

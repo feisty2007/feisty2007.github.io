@@ -7,7 +7,7 @@ tags:	[linuxcn,代理,apt]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/15/184447hh8ac86hkycy6jio.jpg)
+![](/Asserts/Images/album/202305/15/184447hh8ac86hkycy6jio.jpg)
 
 
 
@@ -108,7 +108,7 @@ $ sudo apt install net-tools -y
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/15/184633lup6zi6354ghs3v6.jpg)
+![](/Asserts/Images/album/202305/15/184633lup6zi6354ghs3v6.jpg)
 
 
 验证代理服务器日志以确认 `apt` 命令正在使用代理服务器下载包。在代理服务器运行时：
@@ -123,7 +123,7 @@ $ sudo apt install net-tools -y
 这里 `192.168.56.240` 是我们 Ubuntu 机器的 IP 地址。
 
 
-![](/Asserts/Images//attachment/album/202305/15/184639jdhb73rrbd7lbxl5.jpg)
+![](/Asserts/Images/album/202305/15/184639jdhb73rrbd7lbxl5.jpg)
 
 
 完美，上面的输出确认我们的 Ubuntu 系统的 `apt` 命令正在通过代理服务器（192.168.56.102）下载包。
@@ -162,7 +162,7 @@ $ sudo vi /etc/apt/apt.conf.d/proxy.conf
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/15/184647x6epqn10l91aq1pf.jpg)
+![](/Asserts/Images/album/202305/15/184647x6epqn10l91aq1pf.jpg)
 
 
 对于具有用户名和登录详细信息的代理服务器：

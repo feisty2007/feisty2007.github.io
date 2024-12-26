@@ -13,7 +13,7 @@ tags:	[linuxcn,Python,聊天机器人,Slack]
 我们通过搭建你的开发环境, 获得一个 Slack API 的聊天机器人令牌，并用 Pyhon 开发一个简单聊天机器人。
 
 
-![](/Asserts/Images//attachment/album/201610/04/075901vg9gcch17v3ghvg4.png)
+![](/Asserts/Images/album/201610/04/075901vg9gcch17v3ghvg4.png)
 
 
 ### 我们所需的工具
@@ -58,7 +58,7 @@ source starterbot/bin/activate
 你的提示符现在应该看起来如截图：
 
 
-![已经激活的 starterbot 的 virtualenv的命令提示符](/Asserts/Images//attachment/album/201610/04/075915hjmmhg3mgn407ajj.png)
+![已经激活的 starterbot 的 virtualenv的命令提示符](/Asserts/Images/album/201610/04/075915hjmmhg3mgn407ajj.png)
 
 
 这个官方的 slack 客户端 API 帮助库是由 Slack 建立的，它可以通过 Slack 通道发送和接收消息。通过这个 `pip` 命令安装 slackclient 库：
@@ -73,7 +73,7 @@ pip install slackclient
 当 `pip` 命令完成时，你应该看到类似这样的输出，并返回提示符。
 
 
-![在已经激活的 virtualenv 用 pip 安装 slackclient 的输出](/Asserts/Images//attachment/album/201610/04/075916edc4570t15ry811o.png)
+![在已经激活的 virtualenv 用 pip 安装 slackclient 的输出](/Asserts/Images/album/201610/04/075916edc4570t15ry811o.png)
 
 
 我们也需要为我们的 Slack 项目获得一个访问令牌，以便我们的聊天机器人可以用它来连接到 Slack API。
@@ -85,25 +85,25 @@ pip install slackclient
 Slack 允许程序通过一个 [Web API](https://www.fullstackpython.com/application-programming-interfaces.html) 来访问他们的消息传递通道。去这个 [Slack Web API 页面](https://api.slack.com/) 注册建立你自己的 Slack 项目。你也可以登录一个你拥有管理权限的已有账号。
 
 
-![使用 Web API页面的右上角登录按钮](/Asserts/Images//attachment/album/201610/04/075919ubkbh0ddscggvh8g.png)
+![使用 Web API页面的右上角登录按钮](/Asserts/Images/album/201610/04/075919ubkbh0ddscggvh8g.png)
 
 
 登录后你会到达 [聊天机器人用户页面](https://api.slack.com/bot-users)。
 
 
-![定制聊天机器人用户页面](/Asserts/Images//attachment/album/201610/04/075920oosiasao55i6l258.png)
+![定制聊天机器人用户页面](/Asserts/Images/album/201610/04/075920oosiasao55i6l258.png)
 
 
 给你的聊天机器人起名为“starterbot”然后点击 “Add bot integration” 按钮。
 
 
-![添加一个bot integration 并起名为“starterbot”](/Asserts/Images//attachment/album/201610/04/075921uiicc9skl4yzng0i.jpg)
+![添加一个bot integration 并起名为“starterbot”](/Asserts/Images/album/201610/04/075921uiicc9skl4yzng0i.jpg)
 
 
 这个页面将重新加载，你将看到一个新生成的访问令牌。你还可以将标志改成你自己设计的。例如我给的这个“Full Stack Python”标志。
 
 
-![为你的新 Slack 聊天机器人复制和粘贴访问令牌](/Asserts/Images//attachment/album/201610/04/075924ei6rqzoo0li1jz0k.png)
+![为你的新 Slack 聊天机器人复制和粘贴访问令牌](/Asserts/Images/album/201610/04/075924ei6rqzoo0li1jz0k.png)
 
 
 在页面底部点击“Save Integration”按钮。你的聊天机器人现在已经准备好连接 Slack API。
@@ -173,7 +173,7 @@ python print_bot_id.py
 当它运行为我们提供了聊天机器人的 ID 时，脚本会打印出简单的一行输出。
 
 
-![在你的 Slack 项目中用 Python 脚本打印 Slack 聊天机器人的 ID](/Asserts/Images//attachment/album/201610/04/075926oyi5jz3whikq23gd.png)
+![在你的 Slack 项目中用 Python 脚本打印 Slack 聊天机器人的 ID](/Asserts/Images/album/201610/04/075926oyi5jz3whikq23gd.png)
 
 
 复制这个脚本打印出的唯一 ID。并将该 ID 作为一个环境变量 `BOT_ID` 输出。
@@ -346,19 +346,19 @@ if __name__ == "__main__":
 现在我们的代码已经有了，我们可以通过 `python starterbot.py` 来运行我们 StarterBot 的代码了。
 
 
-![当 StarterBot 开始运行而且连接到 API 的输出通道](/Asserts/Images//attachment/album/201610/04/075927mppqceff2jjetfpk.png)
+![当 StarterBot 开始运行而且连接到 API 的输出通道](/Asserts/Images/album/201610/04/075927mppqceff2jjetfpk.png)
 
 
 在 Slack 中创建新通道，并且把 StarterBot 邀请进来，或者把 StarterBot 邀请进一个已经存在的通道中。
 
 
-![在 Slack 界面创建一个新通道并且邀请 StarterBot](/Asserts/Images//attachment/album/201610/04/075928dja2nacjwszccwc2.png)
+![在 Slack 界面创建一个新通道并且邀请 StarterBot](/Asserts/Images/album/201610/04/075928dja2nacjwszccwc2.png)
 
 
 现在在你的通道中给 StarterBot 发命令。
 
 
-![在你的 Slack 通道里给你的 StarterBot 发命令](/Asserts/Images//attachment/album/201610/04/075929wv5ioayzbbvydibx.png)
+![在你的 Slack 通道里给你的 StarterBot 发命令](/Asserts/Images/album/201610/04/075929wv5ioayzbbvydibx.png)
 
 
 如果你从聊天机器人得到的响应中遇见问题，你可能需要做一个修改。正如上面所写的这个教程，其中一行 `AT_BOT = "<@" + BOT_ID + ">:"`，在“@starter”（你给你自己的聊天机器人起的名字）后需要一个冒号。从 `AT_BOT` 字符串后面移除`:`。Slack 似乎需要在`@` 一个人名后加一个冒号，但这好像是有些不协调的。
@@ -373,7 +373,7 @@ if __name__ == "__main__":
 我们能够使用 Slack RTM API 和 Python 完成很多功能。看看通过这些文章你还可以学习到什么：
 
 
-* 附加一个持久的[关系数据库](https://www.fullstackpython.com/Asserts/Images/bases.html) 或者 [NoSQL 后端](https://www.fullstackpython.com/no-sql-datastore.html) 比如 [PostgreSQL](https://www.fullstackpython.com/postgresql.html)、[MySQL](https://www.fullstackpython.com/mysql.html) 或者 [SQLite](https://www.fullstackpython.com/sqlite.html) ，来保存和检索用户数据
+* 附加一个持久的[关系数据库](https://www.fullstackpython.com/databases.html) 或者 [NoSQL 后端](https://www.fullstackpython.com/no-sql-datastore.html) 比如 [PostgreSQL](https://www.fullstackpython.com/postgresql.html)、[MySQL](https://www.fullstackpython.com/mysql.html) 或者 [SQLite](https://www.fullstackpython.com/sqlite.html) ，来保存和检索用户数据
 * 添加另外一个与聊天机器人互动的通道，比如 [短信](https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html) 或者[电话呼叫](https://www.twilio.com/blog/2016/05/add-phone-calling-slack-python.html)
 * [集成其它的 web API](https://www.fullstackpython.com/api-integration.html)，比如 [GitHub](https://developer.github.com/v3/)、[Twilio](https://www.twilio.com/docs) 或者 [api.ai](https://docs.api.ai/)
 

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/01/171835q68f3u9tubbzl4ft.jpg)
+![](/Asserts/Images/album/202312/01/171835q68f3u9tubbzl4ft.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/01/171846eygyfkcevevgifpm.png)
+![](/Asserts/Images/album/202312/01/171846eygyfkcevevgifpm.png)
 
 
 ### #1 北京互联网法院裁决 AI 生成图片拥有版权
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/01/171902alzntwl36ynoynnp.png)
+![](/Asserts/Images/album/202312/01/171902alzntwl36ynoynnp.png)
 
 
 ### #2 DeepMind 新 AI 工具帮助创造出逾 700 种新材料
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/01/171923i99pcr99mroiopcm.png)
+![](/Asserts/Images/album/202312/01/171923i99pcr99mroiopcm.png)
 
 
 ### #3 研究人员通过重复单词迫使 ChatGPT 吐出训练素材

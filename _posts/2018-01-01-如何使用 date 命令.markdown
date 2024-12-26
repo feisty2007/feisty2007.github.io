@@ -7,7 +7,7 @@ tags:	[linuxcn,date,日期,时间]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/08/143129e4bb6m02da6abbhi.jpg)
+![](/Asserts/Images/album/201801/08/143129e4bb6m02da6abbhi.jpg)
 
 
 在本文中, 我们会通过一些案例来演示如何使用 Linux 中的 `date` 命令。`date` 命令可以用户输出/设置系统日期和时间。 `date` 命令很简单, 请参见下面的例子和语法。

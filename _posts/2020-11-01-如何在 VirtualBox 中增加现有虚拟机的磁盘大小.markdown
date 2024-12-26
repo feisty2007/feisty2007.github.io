@@ -25,7 +25,7 @@ tags:	[linuxcn,虚拟机]
 ### 如何扩大 VirtualBox 磁盘大小
 
 
-![](/Asserts/Images//attachment/album/202011/29/111655an3nnynt3qhggmmq.png)
+![](/Asserts/Images/album/202011/29/111655an3nnynt3qhggmmq.png)
 
 
 我将向你展示如何在 VirtualBox 中以图形和命令行（对于 Linux 极客）方式调整磁盘大小。这两种方法都很简单直接。
@@ -40,13 +40,13 @@ VirtualBox 6 增加了一个调整虚拟磁盘大小的图形化选项。你可�
 进入 “File -> Virtual Media Manager”：
 
 
-![](/Asserts/Images//attachment/album/202011/29/111658ktukw88ryq84qu84.png)
+![](/Asserts/Images/album/202011/29/111658ktukw88ryq84qu84.png)
 
 
 在列表中选择一个虚拟机，然后使用 “Size” 滑块或输入你需要的大小值。完成后点击 “Apply”。
 
 
-![](/Asserts/Images//attachment/album/202011/29/111700junb1trr4vn11nvm.png)
+![](/Asserts/Images/album/202011/29/111700junb1trr4vn11nvm.png)
 
 
 请记住，虽然你增加了虚拟磁盘的大小，但**如果你的空间是动态分配的，那么实际的分区大小仍然不变**。
@@ -78,13 +78,13 @@ VBoxManage modifymedium "/path_to_vdi_file" --resize <megabytes>
 > 
 
 
-![](/Asserts/Images//attachment/album/202011/29/111704e13395135qld3u25.png)
+![](/Asserts/Images/album/202011/29/111704e13395135qld3u25.png)
 
 
 如果你不确定虚拟机的保存位置，可以在 VirtualBox 主页面点击 “Files -> Preferences” 或使用键盘快捷键 `Ctrl+G` 找到默认位置。
 
 
-![](/Asserts/Images//attachment/album/202011/29/111739hwoasyawallsvj2s.png)
+![](/Asserts/Images/album/202011/29/111739hwoasyawallsvj2s.png)
 
 
 ### 总结

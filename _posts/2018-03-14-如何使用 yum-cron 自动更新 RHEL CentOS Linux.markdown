@@ -7,7 +7,7 @@ tags:	[linuxcn,yum,更新,cron]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/17/230231vwp0w597g0pgppwz.jpg)
+![](/Asserts/Images/album/201803/17/230231vwp0w597g0pgppwz.jpg)
 
 
 `yum` 命令是 RHEL / CentOS Linux 系统中用来安装和更新软件包的一个工具。我知道如何使用 [yum 命令行](https://www.cyberciti.biz/faq/rhel-centos-fedora-linux-yum-command-howto/) 更新系统，但是我想用 cron 任务自动更新软件包。该如何配置才能使得 `yum` 使用 [cron 自动更新](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses)系统补丁或更新呢？
@@ -28,7 +28,7 @@ $ sudo yum install yum-cron
 
 ```
 
-![](/Asserts/Images//attachment/album/201803/17/230240jgvgee1f00x4zilx.jpg)
+![](/Asserts/Images/album/201803/17/230240jgvgee1f00x4zilx.jpg)
 
 
 使用 CentOS/RHEL 7.x 上的 `systemctl` 启动服务：
@@ -52,7 +52,7 @@ $ sudo service yum-cron start
 
 ```
 
-![](/Asserts/Images//attachment/album/201803/17/230240o11o2ptgpuc22p1z.jpg)
+![](/Asserts/Images/album/201803/17/230240o11o2ptgpuc22p1z.jpg)
 
 
 `yum-cron` 是 `yum` 的一个替代方式。使得 cron 调用 `yum` 变得非常方便。该软件提供了元数据更新、更新检查、下载和安装等功能。`yum-cron` 的各种功能可以使用配置文件配置，而不是输入一堆复杂的命令行参数。

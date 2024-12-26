@@ -24,7 +24,7 @@ tags:	[linuxcn,软驱,软盘]
 你有没有想过为什么许多应用程序中的保存图标看起来像软盘？因为它就是软盘啊！软盘常用于保存数据，因此许多应用程序将其用作保存图标，并且这个传统一直延续至今。
 
 
-![](/Asserts/Images//attachment/album/201907/30/231328oeq6jln6tyszg6gl.png)
+![](/Asserts/Images/album/201907/30/231328oeq6jln6tyszg6gl.png)
 
 
 今天我为什么要说起软盘？因为 Linus Torvalds 在一个 Linux 内核代码的提交里标记软盘的驱动程序为“孤儿”。
@@ -44,7 +44,7 @@ tags:	[linuxcn,软驱,软盘]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/30/231332pg62hgf23w33l79v.png)
+![](/Asserts/Images/album/201907/30/231332pg62hgf23w33l79v.png)
 
 
 ### “孤儿”在 Linux 内核中意味着什么？

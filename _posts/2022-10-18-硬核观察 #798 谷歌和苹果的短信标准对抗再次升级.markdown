@@ -7,10 +7,10 @@ tags:	[linuxcn,短信,苹果,谷歌,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/23/174106z567el7ocpa7e6l2.jpg)
+![](/Asserts/Images/album/202210/23/174106z567el7ocpa7e6l2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/23/174114vchlyyyhtxyhh1zg.jpg)
+![](/Asserts/Images/album/202210/23/174114vchlyyyhtxyhh1zg.jpg)
 
 
 ### 谷歌和苹果的短信标准对抗再次升级
@@ -35,7 +35,7 @@ iPhone 的短信应用 iMessage 不支持现代的 RCS 标准，因此，从 iPh
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/23/174127f5ooa4o888u6m65m.jpg)
+![](/Asserts/Images/album/202210/23/174127f5ooa4o888u6m65m.jpg)
 
 
 ### 开源网络安全监控平台 Zeek 成为 Windows 的一部分
@@ -60,7 +60,7 @@ iPhone 的短信应用 iMessage 不支持现代的 RCS 标准，因此，从 iPh
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/23/174148wii3p71oc9d18dfm.jpg)
+![](/Asserts/Images/album/202210/23/174148wii3p71oc9d18dfm.jpg)
 
 
 ### 苹果宣布下周起更多广告将进入应用商店

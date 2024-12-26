@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,容器]
 ---
 
 
-![Docker Container Talk](/Asserts/Images//attachment/album/201509/22/215304kkr44kmc6c5omkcl.jpg)
+![Docker Container Talk](/Asserts/Images/album/201509/22/215304kkr44kmc6c5omkcl.jpg)
 
 
 **这是 Docker 开发者在 Containercon 上的演讲，谈论将来的容器在安全和实时迁移方面的创新**

@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/04/170549qzsfnygzhtzsn0uo.jpg)
+![](/Asserts/Images/album/202311/04/170549qzsfnygzhtzsn0uo.jpg)
 
 
 
@@ -78,7 +78,7 @@ sudo apt install libreoffice
 你可以随时前往 [LibreOfiice 网站的下载页面](https://www.libreoffice.org/download/download-libreoffice) 下载最新版本的 deb 文件。你还会看到下载较旧但 LTS 稳定版本的选项。
 
 
-![](/Asserts/Images//attachment/album/202311/04/170633n7pqyq5k5v6p8ebl.png)
+![](/Asserts/Images/album/202311/04/170633n7pqyq5k5v6p8ebl.png)
 
 
 我相信你已经 [知道如何从 deb 文件安装应用](https://itsfoss.com/install-deb-files-ubuntu/)。右键单击 deb 文件，选择使用软件中心打开它。进入软件中心后，你可以单击安装按钮进行安装。

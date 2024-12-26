@@ -7,7 +7,7 @@ tags:	[linuxcn,监控,压力测试]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/22/234445t2ozz2p3lp393l7i.jpg)
+![](/Asserts/Images/album/201901/22/234445t2ozz2p3lp393l7i.jpg)
 
 
 一般每个 Linux 管理员都会使用 [lm\_sensors 监控 CPU 温度](https://www.2daygeek.com/view-check-cpu-hard-disk-temperature-linux/)。lm\_sensors （Linux 监控传感器）是一个自由开源程序，它提供了监控温度、电压和风扇的驱动和工具。
@@ -110,13 +110,13 @@ $ sudo pip3 install s-tui
 $ sudo s-tui
 ```
 
-![](/Asserts/Images//attachment/album/201901/22/234458ae1aa2dxhtz1hf61.jpg)
+![](/Asserts/Images/album/201901/22/234458ae1aa2dxhtz1hf61.jpg)
 
 
 默认情况下，它启用硬件监控并选择 “Stress” 选项以对系统执行压力测试。
 
 
-![](/Asserts/Images//attachment/album/201901/22/234502yxo9sxhsx2siow3t.jpg)
+![](/Asserts/Images/album/201901/22/234502yxo9sxhsx2siow3t.jpg)
 
 
 要查看其他选项，请到帮助页面查看。

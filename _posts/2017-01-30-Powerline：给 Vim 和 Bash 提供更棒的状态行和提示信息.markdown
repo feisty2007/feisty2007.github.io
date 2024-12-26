@@ -10,7 +10,7 @@ tags:	[linuxcn,Powerline,命令行,提示符]
 Powerline 是一个极棒的 [Vim 编辑器](http://www.tecmint.com/vi-editor-usage/)的状态行插件，这个插件是使用 Python 开发的，主要用于显示状态行和提示信息，适用于很多软件，比如 bash、zsh、tmux 等等。
 
 
-![](/Asserts/Images//attachment/album/201701/15/002409gmqjx0kzekmfjjpf.jpg)
+![](/Asserts/Images/album/201701/15/002409gmqjx0kzekmfjjpf.jpg)
 
 
 ### 特色
@@ -26,7 +26,7 @@ Powerline 是一个极棒的 [Vim 编辑器](http://www.tecmint.com/vi-editor-us
 ### Powerline 效果截图
 
 
-![Powerline Vim Statuslines](/Asserts/Images//attachment/album/201701/15/002422lpo9p0a5t0ca9az0.png)
+![Powerline Vim Statuslines](/Asserts/Images/album/201701/15/002422lpo9p0a5t0ca9az0.png)
 
 
 *Vim 中 Powerline 状态行效果*
@@ -263,7 +263,7 @@ POWERLINE_BASH_SELECT=1
 然后退出后重新登录，现在 powerline 的状态行应该如下显示了。
 
 
- [![Bash Powerline Statuslines](/Asserts/Images//attachment/album/201701/15/002427eykbcekesc1r1hza.gif)](http://www.tecmint.com/wp-content/uploads/2015/10/Bash-Powerline-Statuslines.gif) 
+ [![Bash Powerline Statuslines](/Asserts/Images/album/201701/15/002427eykbcekesc1r1hza.gif)](http://www.tecmint.com/wp-content/uploads/2015/10/Bash-Powerline-Statuslines.gif) 
 
 
 现在切换目录并注意显示你当前路径的面包屑导航提示的变化。
@@ -289,7 +289,7 @@ set t_Co=256
 然后你打开 vim 后会看到一个新的状态行:
 
 
- [![Vim Powerline Statuslines](/Asserts/Images//attachment/album/201701/15/002430j7syeqfjjnyq9sxy.gif)](http://www.tecmint.com/wp-content/uploads/2015/10/Vim-Powerline-Statuslines.gif) 
+ [![Vim Powerline Statuslines](/Asserts/Images/album/201701/15/002430j7syeqfjjnyq9sxy.gif)](http://www.tecmint.com/wp-content/uploads/2015/10/Vim-Powerline-Statuslines.gif) 
 
 
 ### 总结
@@ -306,7 +306,7 @@ Powerline 可以在某些软件中提供颜色鲜艳、很优美的状态行及�
 作者简介：
 
 
-![](/Asserts/Images//attachment/album/201701/15/002431mdi40insi6j4o48o.png) 我是Ravi Saive，TecMint的作者。一个喜欢分享诀窍和想法的电脑极客及Linux专家。我的大部分服务都运行在开源平台Linux中。关注我的Twitter，Facebook和Google+。
+![](/Asserts/Images/album/201701/15/002431mdi40insi6j4o48o.png) 我是Ravi Saive，TecMint的作者。一个喜欢分享诀窍和想法的电脑极客及Linux专家。我的大部分服务都运行在开源平台Linux中。关注我的Twitter，Facebook和Google+。
 
 
  

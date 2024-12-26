@@ -7,7 +7,7 @@ tags:	[linuxcn,人脸识别]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/11/153438vjp2zncpc74ne2ci.jpg)
+![](/Asserts/Images/album/202204/11/153438vjp2zncpc74ne2ci.jpg)
 
 
 最近，深度操作系统刚刚发布了 20.05，它添加的 [人脸识别功能](/article-14425-1.html) 引来了社区的关注。
@@ -22,7 +22,7 @@ tags:	[linuxcn,人脸识别]
 ### Howdy 是什么？
 
 
-![](/Asserts/Images//attachment/album/202204/11/153453emin6hmrl4eclz8q.png)
+![](/Asserts/Images/album/202204/11/153453emin6hmrl4eclz8q.png)
 
 
 [据该项目的说明](https://github.com/boltgolt/howdy/)：

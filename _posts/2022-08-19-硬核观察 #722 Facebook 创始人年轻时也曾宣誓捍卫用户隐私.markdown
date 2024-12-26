@@ -7,10 +7,10 @@ tags:	[linuxcn,Facebook,Copilot,Reiserfs]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/08/202428cn9fsiffc88in989.jpg)
+![](/Asserts/Images/album/202208/08/202428cn9fsiffc88in989.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/08/202436q1do9w5euepepguv.jpg)
+![](/Asserts/Images/album/202208/08/202436q1do9w5euepepguv.jpg)
 
 
 ### Facebook 创始人年轻时也曾宣誓捍卫用户隐私
@@ -35,7 +35,7 @@ tags:	[linuxcn,Facebook,Copilot,Reiserfs]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/08/202447xe34y3789zf6ye6x.jpg)
+![](/Asserts/Images/album/202208/08/202447xe34y3789zf6ye6x.jpg)
 
 
 ### 研究人员发布可以本地运行的 Copilot 替代品
@@ -60,7 +60,7 @@ GitHub Copilot 是最近几个在 AI 帮助下生成编程代码建议的工具�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/08/202500rsg4gcihdtdfth9o.jpg)
+![](/Asserts/Images/album/202208/08/202500rsg4gcihdtdfth9o.jpg)
 
 
 ### OpenSUSE 考虑移除 Reiserfs 文件系统

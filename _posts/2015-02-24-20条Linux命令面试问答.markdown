@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行,面试]
 ---
 
 
-![](/Asserts/Images//attachment/album/201502/01/110434rzyq6dn6z191rxiz.jpg)
+![](/Asserts/Images/album/201502/01/110434rzyq6dn6z191rxiz.jpg)
 
 
 **问:1 如何查看当前的Linux服务器的运行级别？**

@@ -7,10 +7,10 @@ tags:	[linuxcn,Copilot,NULL,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/10/195849j1eip622tres8ffp.jpg)
+![](/Asserts/Images/album/202212/10/195849j1eip622tres8ffp.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/10/195855f2r2p7bpn68rbp2p.jpg)
+![](/Asserts/Images/album/202212/10/195855f2r2p7bpn68rbp2p.jpg)
 
 
 ### GitHub 推出 Copilot 商业版，为代码建议提供辩护和索赔
@@ -35,7 +35,7 @@ tags:	[linuxcn,Copilot,NULL,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/10/195904rsec2xxyeyduyi8y.jpg)
+![](/Asserts/Images/album/202212/10/195904rsec2xxyeyduyi8y.jpg)
 
 
 ### Chrome 引入节能和节省内存模式
@@ -60,7 +60,7 @@ Chrome 一直被诟病占用内存过高。新的节省内存模式通过将不�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/10/195922yfqkarvabzfw0qqr.jpg)
+![](/Asserts/Images/album/202212/10/195922yfqkarvabzfw0qqr.jpg)
 
 
 ### Dart 语言将提供健全的 NULL 安全

@@ -7,7 +7,7 @@ tags:	[linuxcn,IP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/06/223001q55t4bqttuqkgnpu.jpg)
+![](/Asserts/Images/album/201809/06/223001q55t4bqttuqkgnpu.jpg)
 
 
 Linux 管理员应该意识到这一点，因为这是一项例行任务。很多人想知道为什么我们需要在服务器中添加多个 IP 地址，以及为什么我们需要将它添加到单块网卡中？我说的对吗？

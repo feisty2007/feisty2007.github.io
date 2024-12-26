@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,安全漏洞,鸿蒙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/28/152423fw0ybm5w55mqzbn5.jpg)
+![](/Asserts/Images/album/202207/28/152423fw0ybm5w55mqzbn5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/28/152432ouvy7ddzkrg5zjbb.jpg)
+![](/Asserts/Images/album/202207/28/152432ouvy7ddzkrg5zjbb.jpg)
 
 
 ### 谷歌已经干砸了 267 款硬件
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,安全漏洞,鸿蒙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/28/152443aoz37pqy3x637zp7.jpg)
+![](/Asserts/Images/album/202207/28/152443aoz37pqy3x637zp7.jpg)
 
 
 ### 漏洞披露 15 分钟后黑客就开始扫描
@@ -60,7 +60,7 @@ tags:	[linuxcn,谷歌,安全漏洞,鸿蒙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/28/152457nxprspivvkrjg9io.jpg)
+![](/Asserts/Images/album/202207/28/152457nxprspivvkrjg9io.jpg)
 
 
 ### 华为正式发布 HarmonyOS 3

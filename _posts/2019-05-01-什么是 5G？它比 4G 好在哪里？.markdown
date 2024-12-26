@@ -15,7 +15,7 @@ tags:	[linuxcn,5G,4G]
 > 
 
 
-![Thinkstock](/Asserts/Images//attachment/album/201905/04/142106xaapgq9g9bc99jg6.jpg)
+![Thinkstock](/Asserts/Images/album/201905/04/142106xaapgq9g9bc99jg6.jpg)
 
 
 [5G 无线](https://www.networkworld.com/article/3203489/what-is-5g-wireless-networking-benefits-standards-availability-versus-lte.html) 是一个概括的术语，用来描述一系列更快的无线互联网的标准和技术，理论上比 4G 快了 20 倍并且延迟降低了 120 倍，为物联网的发展和对新的高带宽应用的支持奠定了基础。

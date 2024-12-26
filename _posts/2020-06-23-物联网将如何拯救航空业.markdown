@@ -15,7 +15,7 @@ tags:	[linuxcn,新冠病毒,IoT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202006/30/215810zf4a96aq4xqflxit.jpg)
+![](/Asserts/Images/album/202006/30/215810zf4a96aq4xqflxit.jpg)
 
 
 一家开发传感器来探测飞机上和机场中的爆炸物和其他化学物品的生物技术公司正在和空中客车合作，一同开发一种可以检测已经感染新冠病毒乘客的传感器。

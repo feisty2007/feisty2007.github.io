@@ -7,7 +7,7 @@ tags:	[linuxcn,Ansible]
 ---
 
 
-![](/Asserts/Images//attachment/album/202103/01/225645ree2x6zf756o23x8.jpg)
+![](/Asserts/Images/album/202103/01/225645ree2x6zf756o23x8.jpg)
 
 
 我们已经写了两篇关于 Ansible 的文章，这是第三篇。
@@ -41,7 +41,7 @@ tags:	[linuxcn,Ansible]
 下面这张 Ansible 剧本流程图将告诉你它的详细结构。
 
 
-![](/Asserts/Images//attachment/album/202103/01/225735j6sbgq56rqqpkadk.png)
+![](/Asserts/Images/album/202103/01/225735j6sbgq56rqqpkadk.png)
 
 
 ### 理解 Ansible 剧本的术语
@@ -133,7 +133,7 @@ $ ansible-playbook apache1.yml
 
 ```
 
-![](/Asserts/Images//attachment/album/202103/01/225735j6sbgq56rqqpkadk.png)
+![](/Asserts/Images/album/202103/01/225735j6sbgq56rqqpkadk.png)
 
 
 ### 如何理解 Ansible 中剧本的执行

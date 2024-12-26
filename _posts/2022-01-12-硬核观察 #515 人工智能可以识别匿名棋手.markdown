@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,树莓派,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/13/202740atpswwtnpc14wwwn.jpg)
+![](/Asserts/Images/album/202201/13/202740atpswwtnpc14wwwn.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/13/202747hmibgmyywgggfgeg.jpg)
+![](/Asserts/Images/album/202201/13/202747hmibgmyywgggfgeg.jpg)
 
 
 ### 人工智能可以识别匿名棋手
@@ -27,7 +27,7 @@ tags:	[linuxcn,AI,树莓派,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/13/202805conkkoh6s56fgahq.jpg)
+![](/Asserts/Images/album/202201/13/202805conkkoh6s56fgahq.jpg)
 
 
 ### Ubuntu 桌面版降低硬件门槛
@@ -44,7 +44,7 @@ tags:	[linuxcn,AI,树莓派,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/13/202820i1gnygga8c8kaaa1.jpg)
+![](/Asserts/Images/album/202201/13/202820i1gnygga8c8kaaa1.jpg)
 
 
 ### Chrome 将阻止外部域名访问本地网络

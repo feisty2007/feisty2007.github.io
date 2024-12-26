@@ -16,7 +16,7 @@ tags:	[linuxcn,Opencart,电子商务]
 Opencart是一个免费开源的使用PHP语言编写的电子商务程序，它可以用来架设一个类似于亚马逊和Flipcart的购物车系统。如果你想在线卖你的产品或想在关门时为你的客户提供服务，Opencart就是给你准备的。你可以使用可靠和专业Opencart应用程序建立一个成功的网上商店（网上商家）。
 
 
-![](/Asserts/Images//attachment/album/201506/11/152247jfcdzm76dfcp5v6c.jpg)
+![](/Asserts/Images/album/201506/11/152247jfcdzm76dfcp5v6c.jpg)
 
 
 ### OpenCart 网页面板演示
@@ -214,7 +214,7 @@ GRANT ALL PRIVILEDGES ON opencartdb.* TO 'opencartuser'@'localhost' IDENTIFIED b
 点击“继续”，同意许可证协议。
 
 
-![Accept OpenCart License](/Asserts/Images//attachment/album/201506/11/152249hr6wxf7ygzkhw8fu.png)
+![Accept OpenCart License](/Asserts/Images/album/201506/11/152249hr6wxf7ygzkhw8fu.png)
 
 
 *同意OpenCart许可证*
@@ -227,7 +227,7 @@ GRANT ALL PRIVILEDGES ON opencartdb.* TO 'opencartuser'@'localhost' IDENTIFIED b
 如果在第3和4区域有红色标志突出显示，这意味着你的文件有问题。如果一切正确配置您应该看到所有都是绿色标志（见下面），你可以按“继续”。
 
 
-![Server Requirement Check](/Asserts/Images//attachment/album/201506/11/152252z6oc7q3w3qwqeoiv.png)
+![Server Requirement Check](/Asserts/Images/album/201506/11/152252z6oc7q3w3qwqeoiv.png)
 
 
 *服务器需求检查*
@@ -237,14 +237,14 @@ GRANT ALL PRIVILEDGES ON opencartdb.* TO 'opencartuser'@'localhost' IDENTIFIED b
 另外输入管理员账号的用户名、密码和邮箱地址。注意这些凭证将用于管理员登录到Opencart管理面板，所以保证它的安全。完成后单击继续！
 
 
-![OpenCart Database Details](/Asserts/Images//attachment/album/201506/11/152254bqmewewqge0x2kam.png)
+![OpenCart Database Details](/Asserts/Images/album/201506/11/152254bqmewewqge0x2kam.png)
 
 
 *OpenCart数据库详情*
 4. 下一个屏幕显示的信息如“Installation Complete”和“Ready to Start Selling”。这里还警告说，要记得删除安装目录，所有需要这个目录安装的设置已经完成。
 
 
-![OpenCart Installation Completes](/Asserts/Images//attachment/album/201506/11/152254y4w647cb6nn4jnjl.png)
+![OpenCart Installation Completes](/Asserts/Images/album/201506/11/152254y4w647cb6nn4jnjl.png)
 
 
 *OpenCart安装完成*
@@ -266,21 +266,21 @@ GRANT ALL PRIVILEDGES ON opencartdb.* TO 'opencartuser'@'localhost' IDENTIFIED b
 1. 现在打开浏览器到`http://<web server IP address>/opencart-master/`然后你会看到类似下面的截屏。
 
 
-![OpenCart Product Showcase](/Asserts/Images//attachment/album/201506/11/152256b28d1siefd128e11.jpg)
+![OpenCart Product Showcase](/Asserts/Images/album/201506/11/152256b28d1siefd128e11.jpg)
 
 
 *OpenCart产品示例*
 2. 要登录到Opencart管理面板，你需要浏览`http://<web server IP address>/opencart-master/admin`然后填写之前设置的凭证。
 
 
-![OpenCart Admin Login](/Asserts/Images//attachment/album/201506/11/152257hnh6164owqq1msqy.png)
+![OpenCart Admin Login](/Asserts/Images/album/201506/11/152257hnh6164owqq1msqy.png)
 
 
 *OpenCart管理登录*
 3. 如果全部OK你应该可以看到Opencart的控制台。
 
 
-![OpenCart Dashboard](/Asserts/Images//attachment/album/201506/11/152258q8sk43kmkx4fs448.png)
+![OpenCart Dashboard](/Asserts/Images/album/201506/11/152258q8sk43kmkx4fs448.png)
 
 
 *OpenCart控制台*
@@ -307,7 +307,7 @@ Hostgator是以服务和功能出名的域名注册和虚拟机托管提供商�
 你所要做的就是在购买虚拟机支付时输入优惠码“**TecMint025**”。付款预览截屏优惠码以供参考用。
 
 
-![Hostgator 25% Discount - TecMint025](/Asserts/Images//attachment/album/201506/11/152259c8333sr9j752302x.png)
+![Hostgator 25% Discount - TecMint025](/Asserts/Images/album/201506/11/152259c8333sr9j752302x.png)
 
 
 *[注册 Hostgator](http://secure.hostgator.com/%7Eaffiliat/cgi-bin/affiliates/clickthru.cgi?id=tecmint) (折扣码: TecMint025)*

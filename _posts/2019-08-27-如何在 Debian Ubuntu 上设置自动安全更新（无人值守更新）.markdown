@@ -7,7 +7,7 @@ tags:	[linuxcn,更新]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/21/004920ov42f4jiedx23t23.png)
+![](/Asserts/Images/album/201908/21/004920ov42f4jiedx23t23.png)
 
 
 对于 Linux 管理员来说重要的任务之一是让系统保持最新状态，这可以使得你的系统更加稳健并且可以避免不想要的访问与攻击。

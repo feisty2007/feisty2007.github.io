@@ -15,7 +15,7 @@ tags:	[linuxcn,WebAssembly]
 > 
 
 
-![](/Asserts/Images//attachment/album/202103/30/095907r6ecev48dw0l9w44.jpg "Hello World inked on bread")
+![](/Asserts/Images/album/202103/30/095907r6ecev48dw0l9w44.jpg "Hello World inked on bread")
 
 
 WebAssembly 是一种字节码格式，[几乎所有的浏览器](https://developer.mozilla.org/en-US/docs/WebAssembly#browser_compatibility) 都可以将它编译成其宿主操作系统的机器代码。除了 JavaScript 和 WebGL 之外，WebAssembly 还满足了将应用移植到浏览器中以实现平台独立的需求。作为 C++ 和 Rust 的编译目标，WebAssembly 使 Web 浏览器能够以接近原生的速度执行代码。
@@ -154,7 +154,7 @@ wasm2wat helloworld.wasm -o helloworld_reverse.wat
 在你运行这个例子之前，你可能必须允许 Firefox 从这个目录中访问文件，在地址栏输入 `about:config`，并将 `privacy.file_unique_origin` 设置为 `true`：
 
 
-![Firefox setting](/Asserts/Images//attachment/album/202103/30/095912pamnmaayg1y1nzla.png "Firefox setting")
+![Firefox setting](/Asserts/Images/album/202103/30/095912pamnmaayg1y1nzla.png "Firefox setting")
 
 
 
@@ -168,7 +168,7 @@ wasm2wat helloworld.wasm -o helloworld_reverse.wat
 现在，在 Firefox 中打开 `helloworld.html`，按下 `Ctrl+K` 打开开发者控制台。
 
 
-![Debugger output](/Asserts/Images//attachment/album/202103/30/095912ji88ttpuu4grsd4t.png "Debugger output")
+![Debugger output](/Asserts/Images/album/202103/30/095912ji88ttpuu4grsd4t.png "Debugger output")
 
 
 ### 了解更多

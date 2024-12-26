@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画]
 ---
 
 
-![Arduino Project](/Asserts/Images//attachment/album/201705/08/150018f5zd8ai0frpqhi5a.png)
+![Arduino Project](/Asserts/Images/album/201705/08/150018f5zd8ai0frpqhi5a.png)
 
 
 * 刚刚完成我的第一个 Arduino 项目：一个闪烁的 LED

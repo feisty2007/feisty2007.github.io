@@ -10,7 +10,7 @@ tags:	[linuxcn,Android,Linux]
 **Android (x86)**项目致力于移植Android系统到X86处理器上，使用户可以更容易的在任何电脑上安装Android。他们通过使用android源码，增加补丁来使Android能够在X86处理器，笔记本电脑和平板电脑下工作。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153627c31ze6y1y3ya77a0.jpg) 
+![](/Asserts/Images/album/201408/22/153627c31ze6y1y3ya77a0.jpg) 
 
 
 *在Linux安装Android 4.4 KitKat*
@@ -46,7 +46,7 @@ $ sudo apt-get install virtualbox
 **3.** 要想安装**Android 4.4 kitkat**，首先，你需要启动刚刚下载.iso文件，打开 **VirtualBox**,创建一个新的虚拟机，然后按照下面图片设置：
 
 
-![](/Asserts/Images//attachment/album/201408/22/153641lfhnsv0va4sbhgel.png) 
+![](/Asserts/Images/album/201408/22/153641lfhnsv0va4sbhgel.png) 
 
 
 *创建新的虚拟机*
@@ -55,7 +55,7 @@ $ sudo apt-get install virtualbox
 **4.** 接下来，它会询问你新设备的内存大小，Android 4.4 kikat需要1G内存才能完美运行，但是由于我的电脑只有1G内存，我只能选择512MB。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153645d9txvi9jwttr07jb.png) 
+![](/Asserts/Images/album/201408/22/153645d9txvi9jwttr07jb.png) 
 
 
 *设置内存*
@@ -64,7 +64,7 @@ $ sudo apt-get install virtualbox
 **5.** 选择“现在创建虚拟硬盘”（“Create a virtual hard drive now”）来创建一个新的硬盘。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153701bi90vkghr7jrh5rg.png) 
+![](/Asserts/Images/album/201408/22/153701bi90vkghr7jrh5rg.png) 
 
 
 *创建虚拟硬盘*
@@ -73,13 +73,13 @@ $ sudo apt-get install virtualbox
 **6.** 它现在会询问你新虚拟硬盘的类型，选择**VDI**
 
 
-![](/Asserts/Images//attachment/album/201408/22/153708lz8w8zi8l7esxqyq.png) 
+![](/Asserts/Images/album/201408/22/153708lz8w8zi8l7esxqyq.png) 
 
 
 *选择硬盘驱动类型*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153721v4gzpzq44xpocksb.png) 
+![](/Asserts/Images/album/201408/22/153721v4gzpzq44xpocksb.png) 
 
 
 *选择存储方式*
@@ -88,7 +88,7 @@ $ sudo apt-get install virtualbox
 **7.** 现在设置虚拟硬盘大小，你可以按照你的所需来设置任何大小，但是除了将来安装Apps所用的空间，至少需要**4G**来保证系统正确安装。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153729jmnny0xnz02vmdyd.png) 
+![](/Asserts/Images/album/201408/22/153729jmnny0xnz02vmdyd.png) 
 
 
 *设置虚拟硬盘大小*
@@ -97,7 +97,7 @@ $ sudo apt-get install virtualbox
 **8.** 现在你的新虚拟设备创建好了，可以启动下载的**.iso**文件了，从左边的列表选择创建的虚拟机，点击**设置** -> **存储** ，如下图，选择**android 4.4 kitkat RC2**的镜像文件。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153734nxl2tumhalkwiuga.png)
+![](/Asserts/Images/album/201408/22/153734nxl2tumhalkwiuga.png)
 
 
 *选择Android KitKat ISO*
@@ -106,7 +106,7 @@ $ sudo apt-get install virtualbox
 **9.** 点击**OK**, 打开机器,启动.iso镜像, 选择 “**安装**” 开始在虚拟机上安装系统.
 
 
-![](/Asserts/Images//attachment/album/201408/22/153737c6hckjwi72t62i0k.png) 
+![](/Asserts/Images/album/201408/22/153737c6hckjwi72t62i0k.png) 
 
 
 *选择安装Android Kit Kat*
@@ -115,7 +115,7 @@ $ sudo apt-get install virtualbox
 **10.** 请选择一个分区来安装Android-x86
 
 
-![](/Asserts/Images//attachment/album/201408/22/153739cb1avd3bviivvayb.png) 
+![](/Asserts/Images/album/201408/22/153739cb1avd3bviivvayb.png) 
 
 
 *选择 Partition Drive*
@@ -124,7 +124,7 @@ $ sudo apt-get install virtualbox
 **11.** 如下图，你可以看见cfdisk界面，cfdisk是一个分区工具，我们将要使用它来创建一个新的硬盘分区，用来安装Android 4.4，现在，点击 “**New**”
 
 
-![](/Asserts/Images//attachment/album/201408/22/153742dmh566gjybjbzbub.png) 
+![](/Asserts/Images/album/201408/22/153742dmh566gjybjbzbub.png) 
 
 
 *创建新分区*
@@ -133,7 +133,7 @@ $ sudo apt-get install virtualbox
 **12.** 选择“**Primary**”作为分区类型
 
 
-![](/Asserts/Images//attachment/album/201408/22/153744zn20mo8n9i8ffuzg.png) 
+![](/Asserts/Images/album/201408/22/153744zn20mo8n9i8ffuzg.png) 
 
 
 *选择主分区*
@@ -142,7 +142,7 @@ $ sudo apt-get install virtualbox
 **13.** 接下来，设置分区大小
 
 
-![](/Asserts/Images//attachment/album/201408/22/153747lsohe8mgsmufmw1e.png) 
+![](/Asserts/Images/album/201408/22/153747lsohe8mgsmufmw1e.png) 
 
 
 *设置分区大小*
@@ -151,7 +151,7 @@ $ sudo apt-get install virtualbox
 **14.** 现在我们必须给硬盘创建新的引导使其能够写入新的分区表，点击“**Bootable**”给引导标记新的分区，你不会注意到有任何变化，但是引导标记将会自己给选中分区。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153749g18j88nh1t2h1h1t.png) 
+![](/Asserts/Images/album/201408/22/153749g18j88nh1t2h1h1t.png) 
 
 
 *制作分区引导*
@@ -160,7 +160,7 @@ $ sudo apt-get install virtualbox
 **15.** 完成之后，点击“**Write**”对硬盘写入新的分区。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153755ykkpmtzpchhzpn5d.png) 
+![](/Asserts/Images/album/201408/22/153755ykkpmtzpchhzpn5d.png) 
 
 
 *应用新分区*
@@ -169,7 +169,7 @@ $ sudo apt-get install virtualbox
 **16.** 它会询问你是否确认，输入“**yes**”并点击**Enter**
 
 
-![](/Asserts/Images//attachment/album/201408/22/153757o5zittq42ii1at45.png) 
+![](/Asserts/Images/album/201408/22/153757o5zittq42ii1at45.png) 
 
 
 *确认分区改变*
@@ -178,7 +178,7 @@ $ sudo apt-get install virtualbox
 **17.** 现在我们的新硬盘已经创建，点击 **Quit** 你就可以看来类似下图的显示，选中刚刚创建的用来安装Android 的分区，点击**Enter**
 
 
-![](/Asserts/Images//attachment/album/201408/22/153802f5xdgtyu2yx5uh5h.png) 
+![](/Asserts/Images/album/201408/22/153802f5xdgtyu2yx5uh5h.png) 
 
 
 *选择分区来安装Android*
@@ -187,13 +187,13 @@ $ sudo apt-get install virtualbox
 **18.** 选择“**ext3**”作为硬盘文件系统并格式化
 
 
-![](/Asserts/Images//attachment/album/201408/22/153806po4irqqmmg3o5ifr.png) 
+![](/Asserts/Images/album/201408/22/153806po4irqqmmg3o5ifr.png) 
 
 
 *选择Ext3分区类型*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153808soz6rmktbemb39tl.png) 
+![](/Asserts/Images/album/201408/22/153808soz6rmktbemb39tl.png) 
 
 
 *格式化分区*
@@ -202,7 +202,7 @@ $ sudo apt-get install virtualbox
 **19.** 它将会询问你是否需要安装GRUB启动器，当然选择**Yes**，如果不这样，你将不能启动新系统，所以选择**Yes**并点击**Enter**
 
 
-![](/Asserts/Images//attachment/album/201408/22/153810k48h0fecpgocc8ca.png) 
+![](/Asserts/Images/album/201408/22/153810k48h0fecpgocc8ca.png) 
 
 
 *安装启动加载器 GRUB*
@@ -211,7 +211,7 @@ $ sudo apt-get install virtualbox
 **20.** 最后，它会问你是否设置**/system**分区能写入，选择**yes**，它会在安装完系统后帮助你减少很多麻烦。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153815ec931ngaccm89zru.png) 
+![](/Asserts/Images/album/201408/22/153815ec931ngaccm89zru.png) 
 
 
 *使分区能写入*
@@ -220,7 +220,7 @@ $ sudo apt-get install virtualbox
 **21.** 安装将会开始它的任务，安装器结束工作后，选择重启，在我做测试的时候，“Run-Android x86”不起作用，所以你不得不重启。
 
 
-![](/Asserts/Images//attachment/album/201408/22/153818q1z3yy69ej3zdd6n.png) 
+![](/Asserts/Images/album/201408/22/153818q1z3yy69ej3zdd6n.png) 
 
 
 *Android Kit kat 安装完成*
@@ -229,7 +229,7 @@ $ sudo apt-get install virtualbox
 **22.** 我们已经完成安装**Android 4.4 KitKat RC2**，问题是VirtualBox将会继续加载**.iso**镜像文件而不是从虚拟硬盘驱动启动，所以为了修正这个问题，选择**设置** -> **存储** ->移除iso文件
 
 
-![](/Asserts/Images//attachment/album/201408/22/153823simdhih6dlrw1br6.png) 
+![](/Asserts/Images/album/201408/22/153823simdhih6dlrw1br6.png) 
 
 
 *移除Android Kit Kat 镜像*
@@ -238,13 +238,13 @@ $ sudo apt-get install virtualbox
 **23.** 你可以启动你的虚拟设备，运行你的Android系统了
 
 
-![](/Asserts/Images//attachment/album/201408/22/153827kaa01olp51na15an.png) 
+![](/Asserts/Images/album/201408/22/153827kaa01olp51na15an.png) 
 
 
 *启动Android Kit Kat 系统*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153830mfffiefa7z5k700w.png)
+![](/Asserts/Images/album/201408/22/153830mfffiefa7z5k700w.png)
 
 
 *Android标志界面*
@@ -253,43 +253,43 @@ $ sudo apt-get install virtualbox
 **24.** 使用**Android**之前，你需要完成一个向导来进行配置。你会看见如下屏幕，现在的问题是，鼠标不能在**android 4.4 kitkat**工作，这意味着我们需要展示我们高超的键盘试用技巧了。首先，选择语言，你需要使用键盘**上**键和**下**键，进行到下一步，敲击**右**键移动光标，选择**Enter**
 
 
-![](/Asserts/Images//attachment/album/201408/22/153832dt115atcoszc0qh0.png) 
+![](/Asserts/Images/album/201408/22/153832dt115atcoszc0qh0.png) 
 
 
 *Android 欢迎界面*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153837addtro7i9dviuti9.png) 
+![](/Asserts/Images/album/201408/22/153837addtro7i9dviuti9.png) 
 
 
 *选择WiFi网络*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153839t7o3rrp8s11pbcsb.png) 
+![](/Asserts/Images/album/201408/22/153839t7o3rrp8s11pbcsb.png) 
 
 
 *创建Android Google账户*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153842yrwtwhwhgm7whtwc.png) 
+![](/Asserts/Images/album/201408/22/153842yrwtwhwhgm7whtwc.png) 
 
 
 *注册Google账户*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153845acy51mqc7vi5k4zw.png) 
+![](/Asserts/Images/album/201408/22/153845acy51mqc7vi5k4zw.png) 
 
 
 *设置日期和时间*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153848sjb3bes3j8ovzhhz.png) 
+![](/Asserts/Images/album/201408/22/153848sjb3bes3j8ovzhhz.png) 
 
 
 *输入你的信息*
 
 
-![](/Asserts/Images//attachment/album/201408/22/153855yfdw84z355lj72w2.jpeg)
+![](/Asserts/Images/album/201408/22/153855yfdw84z355lj72w2.jpeg)
 
 
 *Android 4.4 Kit Kat 主界面*

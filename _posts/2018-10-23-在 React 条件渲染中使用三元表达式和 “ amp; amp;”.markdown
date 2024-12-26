@@ -7,7 +7,7 @@ tags:	[linuxcn,React,三元表达式]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/07/211923fcc9p9ghyvpvqgby.jpg)
+![](/Asserts/Images/album/201810/07/211923fcc9p9ghyvpvqgby.jpg)
 
 
 React 组件可以通过多种方式决定渲染内容。你可以使用传统的 `if` 语句或 `switch` 语句。在本文中，我们将探讨一些替代方案。但要注意，如果你不小心，有些方案会带来自己的陷阱。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/11/224116oso9krhjqqoq5qji.jpg)
+![](/Asserts/Images/album/202310/11/224116oso9krhjqqoq5qji.jpg)
 
 
 
@@ -30,7 +30,7 @@ Linux Mint 背后的人们一直在努力推出主要版本，例如 [Linux Mint
 ### Linux Mint 21.2 Edge：可以期待什么？
 
 
-![](/Asserts/Images//attachment/album/202310/11/224122vc9crbdjhjcdclcc.png)
+![](/Asserts/Images/album/202310/11/224122vc9crbdjhjcdclcc.png)
 
 
 Linux Mint 21.2 Edge 采用 [Linux 内核 6.2](https://news.itsfoss.com/linux-kernel-6-2-release/)，**为那些希望运行较新硬件**而不喜欢 [Linux 内核 5.15](https://news.itsfoss.com/linux-kernel-5-15-release/) LTS（常规 Linux Mint 21.2 版本的特性）的用户量身定制。

@@ -18,7 +18,7 @@ tags:	[linuxcn,openSUSE,Windows,WSL]
 正如你所知道的，最新的 Windows 10 版本中含有一个完整的、基于 Ubuntu 的 Bash，开发者们可以在 Windows 桌面中直接运行 Linux 软件或命令。这被称为“Bash on Ubuntu on Windows”——一个啰嗦的名字——现在可以从 Windows 的开始菜单直接访问到了。
 
 
-![](/Asserts/Images//attachment/album/201701/15/234949yp41f7qaafzqa1ff.png)
+![](/Asserts/Images/album/201701/15/234949yp41f7qaafzqa1ff.png)
 
 
 不过，SUSE 的资深产品经理 Hannes Kühnemund 却表示，[以他自己的观点来看](https://www.suse.com/communities/blog/make-windows-green-part-1/)，微软在选择 Linux 发行版时选“错”了——明显应该选 openSUSE 嘛。
@@ -101,7 +101,7 @@ rename bash.ico Ubuntu.ico
 rename Saki-NuoveXT-Apps-suse.ico bash.ico
 ```
 
-![](/Asserts/Images//attachment/album/201701/16/004201d226cxlxx261b374.png)
+![](/Asserts/Images/album/201701/16/004201d226cxlxx261b374.png)
 
 
 *在 Windows 10 中运行 SUSE Linux shell*

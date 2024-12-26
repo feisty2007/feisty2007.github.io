@@ -7,7 +7,7 @@ tags:	[linuxcn,Matrix]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/28/104903vzny14gjuudsy1o0.jpg)
+![](/Asserts/Images/album/202309/28/104903vzny14gjuudsy1o0.jpg)
 
 
 
@@ -57,13 +57,13 @@ Matrix 2.0 旨在关注可用性和性能。
 你还可以选择探索其他支持的 Matrix 客户端，目前 Element X 是 Matrix 2.0 的测试环境。
 
 
-![](/Asserts/Images//attachment/album/202309/28/104928nn0367hfc6o3ybby.jpg)
+![](/Asserts/Images/album/202309/28/104928nn0367hfc6o3ybby.jpg)
 
 
 **Element X** 是我们所知的 [Element 消息应用](https://element.io/) **开发中的后续版本**。它的目标是超越 WhatsApp、iMessage 和 Telegram 等消息应用?。
 
 
-![](/Asserts/Images//attachment/album/202309/28/104928mzxfozrwgmaqfer5.png)
+![](/Asserts/Images/album/202309/28/104928mzxfozrwgmaqfer5.png)
 
 
 Element X 的亮点包括：
@@ -75,7 +75,7 @@ Element X 的亮点包括：
 * 支持位置共享和投票
 
 
-![Element Call integration within Element X](/Asserts/Images//attachment/album/202309/28/104929r66rujmpfnu6zj9j.png)
+![Element Call integration within Element X](/Asserts/Images/album/202309/28/104929r66rujmpfnu6zj9j.png)
 
 
 当然，**这是一个大目标**。根据我使用 Element 应用的经验，它设法提供了良好的体验，但无法取代 WhatsApp/Telegram。

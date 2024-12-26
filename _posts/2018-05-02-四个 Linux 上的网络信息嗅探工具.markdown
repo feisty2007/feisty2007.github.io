@@ -7,7 +7,7 @@ tags:	[linuxcn,嗅探]
 ---
 
 
-![network](/Asserts/Images//attachment/album/201805/30/051915svsqx6cuu1d1ht6t.jpg "network")
+![network](/Asserts/Images/album/201805/30/051915svsqx6cuu1d1ht6t.jpg "network")
 
 
 在计算机网络中，数据是暴露的，因为数据包传输是无法隐藏的，所以让我们来使用 `whois`、`dig`、`nmcli` 和 `nmap` 这四个工具来嗅探网络吧。

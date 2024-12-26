@@ -7,10 +7,10 @@ tags:	[linuxcn,Chrome,密码,systemd]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/29/164827lr1s236iissssahh.jpg)
+![](/Asserts/Images/album/202112/29/164827lr1s236iissssahh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/29/164835ldic66dgiaq6hqic.jpg)
+![](/Asserts/Images/album/202112/29/164835ldic66dgiaq6hqic.jpg)
 
 
 ### 谷歌称其已清楚说明 Chrome 隐身浏览模式不会让用户的在线活动“隐形”
@@ -27,7 +27,7 @@ tags:	[linuxcn,Chrome,密码,systemd]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/29/164901ybziasfbs3ssanas.jpg)
+![](/Asserts/Images/album/202112/29/164901ybziasfbs3ssanas.jpg)
 
 
 ### 
@@ -47,7 +47,7 @@ tags:	[linuxcn,Chrome,密码,systemd]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/29/164936bwc32x9zdxy28bap.jpg)
+![](/Asserts/Images/album/202112/29/164936bwc32x9zdxy28bap.jpg)
 
 
 ### systemd 的代码提交量超过了前几年

@@ -13,7 +13,7 @@ tags:	[linuxcn,RHCE,SMTP]
 下面的图描述了电子邮件从发送者发出直到信息到达接收者收件箱的传递过程。
 
 
-![电子邮件如何工作](/Asserts/Images//attachment/album/201512/06/213226iooi9z5tjhm5noca.png)
+![电子邮件如何工作](/Asserts/Images/album/201512/06/213226iooi9z5tjhm5noca.png)
 
 
 *电子邮件如何工作*
@@ -80,7 +80,7 @@ tags:	[linuxcn,RHCE,SMTP]
 
 ```
 
-![在防火墙中开通邮件服务器端口](/Asserts/Images//attachment/album/201512/06/213227t16qe1egz1q2rhc2.png)
+![在防火墙中开通邮件服务器端口](/Asserts/Images/album/201512/06/213227t16qe1egz1q2rhc2.png)
 
 
 *在防火墙中开通邮件服务器端口*
@@ -129,7 +129,7 @@ mynetworks = 192.168.0.0/24, 127.0.0.0/8
 
 ```
 
-![设置 Postfix SELinux 权限](/Asserts/Images//attachment/album/201512/06/213227nxrgkw0owlwwrwsx.png)
+![设置 Postfix SELinux 权限](/Asserts/Images/album/201512/06/213227nxrgkw0owlwwrwsx.png)
 
 
 *设置 Postfix SELinux 权限*
@@ -173,7 +173,7 @@ mynetworks = 192.168.0.0/24, 127.0.0.0/8
 
 ```
 
-![测试 Postfix 邮件服务器](/Asserts/Images//attachment/album/201512/06/213228vt5sszfoeyfeeyhn.png)
+![测试 Postfix 邮件服务器](/Asserts/Images/album/201512/06/213228vt5sszfoeyfeeyhn.png)
 
 
 *测试 Postfix 邮件服务器*
@@ -189,7 +189,7 @@ mynetworks = 192.168.0.0/24, 127.0.0.0/8
 
 ```
 
-![检查 Postfix 邮件服务器发送](/Asserts/Images//attachment/album/201512/06/213230ffa1kjcaqwqwco5z.png)
+![检查 Postfix 邮件服务器发送](/Asserts/Images/album/201512/06/213230ffa1kjcaqwqwco5z.png)
 
 
 *检查 Postfix 邮件服务器发送*
@@ -204,7 +204,7 @@ mynetworks = 192.168.0.0/24, 127.0.0.0/8
 
 ```
 
-![Postfix 邮件服务器错误处理](/Asserts/Images//attachment/album/201512/06/213232c424fzdii52p3q1q.png)
+![Postfix 邮件服务器错误处理](/Asserts/Images/album/201512/06/213232c424fzdii52p3q1q.png)
 
 
 *Postfix 邮件服务器错误处理*

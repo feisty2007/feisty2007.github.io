@@ -71,9 +71,9 @@ excerpt: 经常有新接触 Linux 的同学问，Linux 从哪里下载啊？这�
 fromurl: ''
 id: 4130
 islctt: false
-largepic: /Asserts/Images//attachment/album/201306/06/130251ttfb7ogcpzkobbwc.jpg
+largepic: /Asserts/Images/album/201306/06/130251ttfb7ogcpzkobbwc.jpg
 permalink: /article-4130-1.html
-pic: /Asserts/Images//attachment/album/201306/06/130251ttfb7ogcpzkobbwc.jpg.thumb.jpg
+pic: /Asserts/Images/album/201306/06/130251ttfb7ogcpzkobbwc.jpg.thumb.jpg
 related:
 - displayorder: 0
   raid: 3237
@@ -117,7 +117,7 @@ updated: '2015-07-22 12:31:00'
 其实，对于新接触 Linux 的人来说，很多人都不知道 “Linux” 原来不是一个！而是有林林总总上千种发行版，甚至你乐意的话，都可以制作发行自己的发行版。而各种不同的发行版也各有特色，还层出不穷的推出新版本。这简直让初学者如置身森林，茫然不知所措~
 
 
-![](/Asserts/Images//attachment/album/201306/06/130251ttfb7ogcpzkobbwc.jpg)
+![](/Asserts/Images/album/201306/06/130251ttfb7ogcpzkobbwc.jpg)
 
 
 所以，这里我整理了一份最新、最热的 Linux 发行版的下载链接，可以让初学者能够快速领略到 Linux 的风采。

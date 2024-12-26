@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/01/144422bfwx1e7fqx1ee11x.jpg)
+![](/Asserts/Images/album/201906/01/144422bfwx1e7fqx1ee11x.jpg)
 
 
 几天前，我们发布了一篇指南，其中涵盖了[开始使用 Docker](https://www.ostechnix.com/getting-started-with-docker/) 时需要了解的几乎所有细节。在该指南中，我们向你展示了如何详细创建和管理 Docker 容器。还有一些可用于管理 Docker 容器的非官方工具。如果你看过我们以前的文章，你可能会看到两个基于 Web 的工具，[Portainer](https://www.ostechnix.com/portainer-an-easiest-way-to-manage-docker/) 和 [PiCluster](https://www.ostechnix.com/picluster-simple-web-based-docker-management-application/)。它们都使得 Docker 管理任务在 Web 浏览器中变得更加容易和简单。今天，我遇到了另一个名为 Dockly 的 Docker 管理工具。
@@ -47,7 +47,7 @@ tags:	[linuxcn,容器,Docker]
 Dockly 将通过 unix 套接字自动连接到你的本机 docker 守护进程，并在终端中显示正在运行的容器列表，如下所示。
 
 
-![](/Asserts/Images//attachment/album/201906/01/144131aogjb505zlor5xlw.png)
+![](/Asserts/Images/album/201906/01/144131aogjb505zlor5xlw.png)
 
 
 *使用 Dockly 管理 Docker 容器*
@@ -88,7 +88,7 @@ Dockly 将通过 unix 套接字自动连接到你的本机 docker 守护进程�
 使用向上/向下箭头选择一个容器，然后按 `i` 以显示所选容器的信息。
 
 
-![](/Asserts/Images//attachment/album/201906/01/144133t3al7atstqnrqad7.png)
+![](/Asserts/Images/album/201906/01/144133t3al7atstqnrqad7.png)
 
 
 *查看容器的信息*
@@ -100,7 +100,7 @@ Dockly 将通过 unix 套接字自动连接到你的本机 docker 守护进程�
 如果你想随时重启容器，只需选择它并按 `r` 即可重新启动。
 
 
-![](/Asserts/Images//attachment/album/201906/01/144135ipsrnhrtd6zstw45.png)
+![](/Asserts/Images/album/201906/01/144135ipsrnhrtd6zstw45.png)
 
 
 *重启 Docker 容器*
@@ -112,7 +112,7 @@ Dockly 将通过 unix 套接字自动连接到你的本机 docker 守护进程�
 如果不再需要容器，我们可以立即停止和/或删除一个或所有容器。为此，请按 `m` 打开菜单。
 
 
-![](/Asserts/Images//attachment/album/201906/01/144137nrv87trcr3tqo972.png)
+![](/Asserts/Images/album/201906/01/144137nrv87trcr3tqo972.png)
 
 
 *停止，删除 Docker 容器和镜像*
@@ -133,7 +133,7 @@ Dockly 将通过 unix 套接字自动连接到你的本机 docker 守护进程�
 如果你有任何疑问，只需按 `h` 即可打开帮助部分。
 
 
-![](/Asserts/Images//attachment/album/201906/01/144138n4xev11yuikmem0v.png)
+![](/Asserts/Images/album/201906/01/144138n4xev11yuikmem0v.png)
 
 
 *Dockly 帮助*

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,密码管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/09/194132l3fflhllizqj3ibl.jpg)
+![](/Asserts/Images/album/202312/09/194132l3fflhllizqj3ibl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/09/194144uirwa1o99yczo0yf.png)
+![](/Asserts/Images/album/202312/09/194144uirwa1o99yczo0yf.png)
 
 
 ### #1 人工智能聊天机器人被用来越狱其它人工智能
@@ -38,7 +38,7 @@ tags:	[linuxcn,AI,密码管理器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/09/194201x2arutbfa8ikzrt3.png)
+![](/Asserts/Images/album/202312/09/194201x2arutbfa8ikzrt3.png)
 
 
 ### #2 几乎所有密码管理器在安卓上会泄露凭证
@@ -66,7 +66,7 @@ tags:	[linuxcn,AI,密码管理器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/09/194243zyuw0shzi80u909w.png)
+![](/Asserts/Images/album/202312/09/194243zyuw0shzi80u909w.png)
 
 
 ### #3 苹果公司发布了可以发挥苹果芯片特性的机器学习框架

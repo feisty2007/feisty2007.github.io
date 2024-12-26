@@ -7,7 +7,7 @@ tags:	[linuxcn,多媒体解码器,多媒体]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/27/112826w7kyg5vddudxwwdg.jpg)
+![](/Asserts/Images/album/202205/27/112826w7kyg5vddudxwwdg.jpg)
 
 
 

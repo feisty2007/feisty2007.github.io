@@ -7,7 +7,7 @@ tags:	[linuxcn,Sunamu,音乐播放器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/17/153701c3blbrgglfx7cfbr.jpg)
+![](/Asserts/Images/album/202208/17/153701c3blbrgglfx7cfbr.jpg)
 
 
 作为一个吸睛的**音乐小部件**（或控制器） —— 这是 Sunamu 唯一专注的事情，它工作得很好。
@@ -25,7 +25,7 @@ Sunamu 是一个有趣的工具。它不是音乐播放器，但可让你显示�
 ### Sunamu：开源音乐控制器
 
 
-![playing music with sunamu](/Asserts/Images//attachment/album/202208/17/153732d5us5dnuztl5olpu.png)
+![playing music with sunamu](/Asserts/Images/album/202208/17/153732d5us5dnuztl5olpu.png)
 
 
 正如你在上面的截图中所注意到的，它看起来是一种显示正在播放的音乐的非常好的方式，带有歌词，同时具有基本的控件。
@@ -52,7 +52,7 @@ Sunamu 支持多种音频平台，包括 Spotify。它还可以检测本地收�
 ### Sunamu 的特点
 
 
-![Sunamu on empty workspace](/Asserts/Images//attachment/album/202208/17/153229jwl4lkl7zfwhkllf.jpg)
+![Sunamu on empty workspace](/Asserts/Images/album/202208/17/153229jwl4lkl7zfwhkllf.jpg)
 
 
 Sunamu 具有一些不错的特性，其中一些是：
@@ -68,7 +68,7 @@ Sunamu 具有一些不错的特性，其中一些是：
 ### 在 Linux 上安装 Sunamu
 
 
-![Disable lyrics in sunamu](/Asserts/Images//attachment/album/202208/17/153236k212u7jiebcl12ef.jpg)
+![Disable lyrics in sunamu](/Asserts/Images/album/202208/17/153236k212u7jiebcl12ef.jpg)
 
 
 它提供 AppImage、deb 和 rpm 包，以便在各种 Linux 发行版中轻松安装。我使用 AppImage 进行测试，并且非常好用。
@@ -104,7 +104,7 @@ sudo dpkg -i sunamu_2.0.0_amd64.deb
 
 ```
 
-![install sunamu in ubuntu](/Asserts/Images//attachment/album/202208/17/153244rcmc0p1h4c160c66.jpg)
+![install sunamu in ubuntu](/Asserts/Images/album/202208/17/153244rcmc0p1h4c160c66.jpg)
 
 
 ### 技巧：调整配置文件
@@ -144,7 +144,7 @@ electron: {
 这是最终配置文件的样子：
 
 
-![modify config file of sunamu](/Asserts/Images//attachment/album/202208/17/153251lt1d79crrtd48jpj.jpg)
+![modify config file of sunamu](/Asserts/Images/album/202208/17/153251lt1d79crrtd48jpj.jpg)
 
 
 ### 总结

@@ -7,7 +7,7 @@ tags:	[linuxcn,Glances]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/30/212820tgdi7iou6dg6qqq2.jpg)
+![](/Asserts/Images/album/202008/30/212820tgdi7iou6dg6qqq2.jpg)
 
 
 Linux 上最常用的[命令行进程监控工具](https://itsfoss.com/linux-system-monitoring-tools/)是 `top` 和它那色彩斑斓、功能丰富的表弟 [htop](https://hisham.hm/htop/)。
@@ -22,7 +22,7 @@ Linux 上最常用的[命令行进程监控工具](https://itsfoss.com/linux-sys
 下面是它的外观。下面截图中的终端已经[用 Pywal 工具美化过，可以根据壁纸自动改变颜色](https://itsfoss.com/pywal/)。
 
 
-![](/Asserts/Images//attachment/album/202008/30/212845k997iv9vzu88hlnl.png)
+![](/Asserts/Images/album/202008/30/212845k997iv9vzu88hlnl.png)
 
 
 你也可以将它集成到像 [Grafana](https://grafana.com/) 这样的工具中，在一个直观的仪表盘中监控统计数据。
@@ -34,7 +34,7 @@ Linux 上最常用的[命令行进程监控工具](https://itsfoss.com/linux-sys
 ### Glances 的功能
 
 
-![Glances Data In Grafana Dashboard](/Asserts/Images//attachment/album/202008/30/213033x6rjhqsgjbk7cyks.jpg)
+![Glances Data In Grafana Dashboard](/Asserts/Images/album/202008/30/213033x6rjhqsgjbk7cyks.jpg)
 
 
 让我们快速浏览一下 Glances 提供的主要功能：
@@ -108,7 +108,7 @@ glances
 你可以立即观察到，它将很多不同的信息整合在一个屏幕上。我喜欢它在顶部显示电脑的公共和私人 IP：
 
 
-![](/Asserts/Images//attachment/album/202008/30/212937p4xg8xuwr9dcoxgo.png)
+![](/Asserts/Images/album/202008/30/212937p4xg8xuwr9dcoxgo.png)
 
 
 Glances 也是交互式的，这意味着你可以在它运行时使用命令与它互动。你可以按 `s` 将传感器显示在屏幕上；按 `k` 将 TCP 连接列表显示在屏幕上；按 `1` 将 CPU 统计扩展到显示单个线程。
@@ -174,7 +174,7 @@ glances -w
 你也可以在本地系统中使用 <http://0.0.0.0:61208/> 或 <https://localhost:61208/> 访问。
 
 
-![](/Asserts/Images//attachment/album/202008/30/212952u5bph462djb6dkph.png)
+![](/Asserts/Images/album/202008/30/212952u5bph462djb6dkph.png)
 
 
 Web 模式也模仿终端的样子。网页版是根据响应式设计原则打造的，即使在手机上也很好看。
@@ -214,7 +214,7 @@ glances --export csv --export-csv-file /tmp/glances.csv
 `/tmp/glances.csv` 是文件的位置。数据以时间序列的形式整齐地填入。
 
 
-![](/Asserts/Images//attachment/album/202008/30/213004w4wy5y0zn500jsif.png)
+![](/Asserts/Images/album/202008/30/213004w4wy5y0zn500jsif.png)
 
 
 你也可以导出到其它大型应用程序，如 [Prometheus](https://prometheus.io/)，以启用条件触发器和通知。
@@ -247,7 +247,7 @@ glances -w --disable-webui
 [REST API](https://github.com/nicolargo/glances/wiki/The-Glances-RESTFULL-JSON-API) 的文档很全面，其响应也很容易与 Web 应用集成。这使得使用类似 [Node-RED](https://nodered.org/) 这样的工具可以很容易地构建一个统一的仪表盘来监控多个服务器。
 
 
-![](/Asserts/Images//attachment/album/202008/30/213021golczzzzssogpvgi.png)
+![](/Asserts/Images/album/202008/30/213021golczzzzssogpvgi.png)
 
 
 Glances 也提供了一个 XML-RPC 服务器，你可以在[这里](https://github.com/nicolargo/glances/wiki)查看文档。

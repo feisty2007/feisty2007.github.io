@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes,CI/CD,Tekton]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/01/180822blxgx0c1k43n4kl4.jpg "Plumbing tubes in many directions")
+![](/Asserts/Images/album/202304/01/180822blxgx0c1k43n4kl4.jpg "Plumbing tubes in many directions")
 
 
 Tekton 是一个用于创建持续集成和持续交付（CI/CD）系统的 Kubernetes 原生开源框架。通过对底层实施细节的抽象，它还可以帮助你在多个云供应商或企业内部系统中进行端到端（构建、测试、部署）应用开发。
@@ -53,7 +53,7 @@ Tekton 是一个 Kubernetes 原生应用。它在 Kubernetes 集群中作为扩�
 ### Tekton 术语
 
 
-![Tekton terminology](/Asserts/Images//attachment/album/202304/01/180852sdach2l5mdl25b4i.png "Tekton terminology")
+![Tekton terminology](/Asserts/Images/album/202304/01/180852sdach2l5mdl25b4i.png "Tekton terminology")
 
 
 * <ruby> 步骤 <rt>  Step </rt></ruby>：是 CI/CD 工作流程中最基本的实体，例如为 Python 网络应用程序运行一些单元测试或编译一个 Java 程序。Tekton 使用容器镜像执行每个步骤。
@@ -61,7 +61,7 @@ Tekton 是一个 Kubernetes 原生应用。它在 Kubernetes 集群中作为扩�
 * <ruby> 流水线 <rt>  Pipelines </rt></ruby>：是按特定顺序排列的任务的集合。Tekton 把所有任务连接成一个 <ruby> 有向无环图 <rt>  directed acyclic graph </rt></ruby>（DAG），并按顺序执行图。换句话说，它创建了一些 Kubernetes 容器荚，并确保每个容器荚按预期成功运行。
 
 
-![Tekton pipelines](/Asserts/Images//attachment/album/202304/01/180852rfll4phhzwztic01.png "Tekton pipelines")
+![Tekton pipelines](/Asserts/Images/album/202304/01/180852rfll4phhzwztic01.png "Tekton pipelines")
 
 
 * <ruby> 流水线运行 <rt>  PipelineRun </rt></ruby>：顾名思义，是一条流水线的具体执行。

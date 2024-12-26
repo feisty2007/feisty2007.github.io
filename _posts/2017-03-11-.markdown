@@ -104,9 +104,9 @@ excerpt: 最坚决推行 Linux 桌面系统项目的城市正在转回 Windows �
 fromurl: http://www.zdnet.com/article/windows-wins-the-desktop-but-linux-takes-the-world/
 id: 8348
 islctt: true
-largepic: /Asserts/Images//attachment/album/201703/28/234957khs4m35meeum46hm.jpg
+largepic: /Asserts/Images/album/201703/28/234957khs4m35meeum46hm.jpg
 permalink: /article-8348-1.html
-pic: /Asserts/Images//attachment/album/201703/28/234957khs4m35meeum46hm.jpg.thumb.jpg
+pic: /Asserts/Images/album/201703/28/234957khs4m35meeum46hm.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -130,7 +130,7 @@ updated: '2017-03-29 08:47:00'
 > 
 
 
-![munich2.jpg](/Asserts/Images//attachment/album/201703/28/234957khs4m35meeum46hm.jpg)
+![munich2.jpg](/Asserts/Images/album/201703/28/234957khs4m35meeum46hm.jpg)
 
 
 

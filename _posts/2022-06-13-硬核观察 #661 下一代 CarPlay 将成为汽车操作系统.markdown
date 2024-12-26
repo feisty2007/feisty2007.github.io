@@ -7,10 +7,10 @@ tags:	[linuxcn,CarPlay,USB-C,MacOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/08/164925qisqc227schqx22d.jpg)
+![](/Asserts/Images/album/202206/08/164925qisqc227schqx22d.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/08/164934ml4462ryffw4mnn4.jpg)
+![](/Asserts/Images/album/202206/08/164934ml4462ryffw4mnn4.jpg)
 
 
 ### 下一代 CarPlay 将成为汽车操作系统
@@ -35,7 +35,7 @@ tags:	[linuxcn,CarPlay,USB-C,MacOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/08/164943p2p0hgkdnp7uu776.jpg)
+![](/Asserts/Images/album/202206/08/164943p2p0hgkdnp7uu776.jpg)
 
 
 ### 欧盟同意采用通用充电器端口
@@ -60,7 +60,7 @@ tags:	[linuxcn,CarPlay,USB-C,MacOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/08/164956sfac3eumafr7qul7.jpg)
+![](/Asserts/Images/album/202206/08/164956sfac3eumafr7qul7.jpg)
 
 
 ### MacOS 将很快默认阻止未知的 USB-C 配件

@@ -7,10 +7,10 @@ tags:	[linuxcn,芯片,FSF,macOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/18/190146z7o9k7ilwtvbpiki.jpg)
+![](/Asserts/Images/album/202112/18/190146z7o9k7ilwtvbpiki.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/18/190203omzj15z4o7u2if9u.jpg)
+![](/Asserts/Images/album/202112/18/190203omzj15z4o7u2if9u.jpg)
 
 
 ### IBM 和三星的新芯片设计可以使手机的电池寿命延长一周
@@ -27,7 +27,7 @@ IBM 和三星 [宣布](https://www.theverge.com/2021/12/14/22834895/ibm-samsung-
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/18/190214yqclhcdcqjejfnd5.jpg)
+![](/Asserts/Images/album/202112/18/190214yqclhcdcqjejfnd5.jpg)
 
 
 ### 自由软件基金会宣布实施新董事会成员协议和道德准则
@@ -44,7 +44,7 @@ FSF 称经过 6 个月的顾问领导的审查提出的这些准则旨在帮助 
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/18/190243s02jo4iooufjvpdm.jpg)
+![](/Asserts/Images/album/202112/18/190243s02jo4iooufjvpdm.jpg)
 
 
 ### 苹果 macOS Monterey 12 性能仅次于 Clear Linux

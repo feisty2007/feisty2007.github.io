@@ -7,7 +7,7 @@ tags:	[linuxcn,安全,Arch]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/24/194257itv2aa72qvkrkbhh.jpg)
+![](/Asserts/Images/album/201901/24/194257itv2aa72qvkrkbhh.jpg)
 
 
 我们必须经常更新我们的系统以减少宕机时间和问题。每月给系统打一次补丁，60 天一次或者最多 90 天一次，这是 Linux 管理员的例行任务之一。这是忙碌的工作计划，我们不能在不到一个月内做到这一点，因为它涉及到多种活动和环境。
@@ -117,7 +117,7 @@ webkit2gtk>=2.22.4-1
 为了交叉检查上述结果，我将测试在 <https://www.archlinux.org/packages/> 列出的一个包以确认漏洞是否仍处于开放状态或已修复。是的，它已经被修复了，并于昨天在社区仓库中发布了更新后的包。
 
 
-![](/Asserts/Images//attachment/album/201901/24/194305vbslc4jsfbfx3cc3.png)
+![](/Asserts/Images/album/201901/24/194305vbslc4jsfbfx3cc3.png)
 
 
 仅打印包名称和其相关的 CVE。

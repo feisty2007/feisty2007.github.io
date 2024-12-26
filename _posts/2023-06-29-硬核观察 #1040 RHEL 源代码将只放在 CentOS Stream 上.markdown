@@ -7,10 +7,10 @@ tags:	[linuxcn,RHEL,Reddit]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/22/224022kzs1s5552almxccp.jpg)
+![](/Asserts/Images/album/202306/22/224022kzs1s5552almxccp.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/22/224035d42eeb4u3b4664bk.jpg)
+![](/Asserts/Images/album/202306/22/224035d42eeb4u3b4664bk.jpg)
 
 
 ### RHEL 源代码将只放在 CentOS Stream 上
@@ -35,7 +35,7 @@ tags:	[linuxcn,RHEL,Reddit]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/22/224047foymkdg606ss0irv.jpg)
+![](/Asserts/Images/album/202306/22/224047foymkdg606ss0irv.jpg)
 
 
 ### Reddit 用户涌入 Lemmy
@@ -60,7 +60,7 @@ tags:	[linuxcn,RHEL,Reddit]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/22/224105bgfgii31yfn6j42n.jpg)
+![](/Asserts/Images/album/202306/22/224105bgfgii31yfn6j42n.jpg)
 
 
 ### C++ 26 标准正在制定中

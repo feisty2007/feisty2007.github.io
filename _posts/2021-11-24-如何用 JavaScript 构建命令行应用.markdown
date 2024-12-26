@@ -15,7 +15,7 @@ tags:	[linuxcn,JavaScript,命令行,参数]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/16/114501u11upndpphhu2uhh.jpg "Javascript code close-up with neon graphic overlay")
+![](/Asserts/Images/album/202111/16/114501u11upndpphhu2uhh.jpg "Javascript code close-up with neon graphic overlay")
 
 
 JavaScript 是一种为 Web 开发的语言，但它的用处已经远远超出了互联网的范畴。由于 Node.js 和 Electron 这样的项目，JavaScript 既是一种通用的脚本语言，也是一种浏览器组件。有专门设计的 JavaScript 库来构建命令行界面。是的，你可以在你的终端中运行 JavaScript。

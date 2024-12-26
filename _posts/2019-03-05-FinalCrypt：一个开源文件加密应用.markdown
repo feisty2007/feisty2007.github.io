@@ -19,7 +19,7 @@ tags:	[linuxcn,FinalCrypt,加密]
 在本文中，我将分享使用此工具的经验。请注意，我不会将它与其他程序进行比较 —— 因此，如果你想要多个程序之间的详细比较，请在评论中告诉我们。
 
 
-![FinalCrypt](/Asserts/Images//attachment/album/201903/05/001912pqkrcgizqbysifvc.png)
+![FinalCrypt](/Asserts/Images/album/201903/05/001912pqkrcgizqbysifvc.png)
 
 
 ### 使用 FinalCrypt 加密文件
@@ -59,19 +59,19 @@ FinalCrypt 使用[一次性密码本](https://en.wikipedia.org/wiki/One-time_pad
 启动后，你将看到（分割的）两栏，一个进行加密/解密，另一个选择 OTP 文件。
 
 
-![Using FinalCrypt for encrypting files in Linux](/Asserts/Images//attachment/album/201903/05/001915fy78iq8o6qdo6bbk.jpg)
+![Using FinalCrypt for encrypting files in Linux](/Asserts/Images/album/201903/05/001915fy78iq8o6qdo6bbk.jpg)
 
 
 首先，你必须生成 OTP 密钥。下面是做法：
 
 
-![finalcrypt otp](/Asserts/Images//attachment/album/201903/05/001920i5u9z59wk51nkxp3.jpg)
+![finalcrypt otp](/Asserts/Images/album/201903/05/001920i5u9z59wk51nkxp3.jpg)
 
 
 请注意你的文件名可以是任何内容 —— 但你需要确保密钥文件的大小大于或等于要加密的文件。我觉得这很荒谬，但事实就是如此。
 
 
-![](/Asserts/Images//attachment/album/201903/05/001923knenstitte5nmvet.jpg)
+![](/Asserts/Images/album/201903/05/001923knenstitte5nmvet.jpg)
 
 
 生成文件后，选择窗口右侧的密钥，然后选择要在窗口左侧加密的文件。
@@ -80,13 +80,13 @@ FinalCrypt 使用[一次性密码本](https://en.wikipedia.org/wiki/One-time_pad
 生成 OTP 后，你会看到高亮显示的校验和、密钥文件大小和有效状态：
 
 
-![](/Asserts/Images//attachment/album/201903/05/001925rjwnw4hpmqmumpuq.jpg)
+![](/Asserts/Images/album/201903/05/001925rjwnw4hpmqmumpuq.jpg)
 
 
 选择之后，你只需要点击 “Encrypt” 来加密这些文件，如果已经加密，那么点击 “Decrypt” 来解密这些文件。
 
 
-![](/Asserts/Images//attachment/album/201903/05/001927ijdpn8jc18jjk8tz.jpg)
+![](/Asserts/Images/album/201903/05/001927ijdpn8jc18jjk8tz.jpg)
 
 
 你还可以在命令行中使用 FinalCrypt 来自动执行加密作业。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox,隐私]
 ---
 
 
-![](/Asserts/Images//attachment/album/201611/26/224212djlk8scqn4lv5zbp.jpg)
+![](/Asserts/Images/album/201611/26/224212djlk8scqn4lv5zbp.jpg)
 
 
 打包在 Firefox Web 浏览器里面的地理位置服务即使浏览器关闭后也会在后台运行。
@@ -57,7 +57,7 @@ MLS 服务除了能够准确地确定您的位置以外，这个服务可以通�
 根据 Mozilla 提供的[信息](https://location.services.mozilla.com/apps)，要启用该服务，您需要打开“设置”菜单（在 Firefox for Android 版本中） -> 打开“隐私”部分 -> 滚动到底部以查看“数据选择”，最后，勾选 Mozilla 位置服务框。
 
 
-![](/Asserts/Images//attachment/album/201611/26/224226j9udundr7vukdp1y.jpg)
+![](/Asserts/Images/album/201611/26/224226j9udundr7vukdp1y.jpg)
 
 
 *Mozilla 定位服务尚未勾选，但 Stumbler 已开启*

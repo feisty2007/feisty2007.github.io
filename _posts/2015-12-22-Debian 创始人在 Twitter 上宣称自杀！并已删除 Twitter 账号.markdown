@@ -15,7 +15,7 @@ tags:	[linuxcn,Debian,Ian Murdock]
 > 
 
 
-![](/Asserts/Images//attachment/album/201512/30/095520llnpppplenuxeipi.jpg)
+![](/Asserts/Images/album/201512/30/095520llnpppplenuxeipi.jpg)
 
 
  

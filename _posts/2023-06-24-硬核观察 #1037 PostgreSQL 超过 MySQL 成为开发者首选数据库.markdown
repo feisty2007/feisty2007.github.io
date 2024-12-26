@@ -7,10 +7,10 @@ tags:	[linuxcn,CPU,PostgreSQL,CentOS Stream]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/19/182012ubutnlzu2bbloap6.jpg)
+![](/Asserts/Images/album/202306/19/182012ubutnlzu2bbloap6.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/19/182022vaooooealev286y6.jpg)
+![](/Asserts/Images/album/202306/19/182022vaooooealev286y6.jpg)
 
 
 ### PostgreSQL 超过 MySQL 成为开发者首选数据库
@@ -35,7 +35,7 @@ Stack Overflow 2023 年 5 月的调查显示，45.55% 的受访者使用 Postgre
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/19/182038dqwywk3dm8zuakch.jpg)
+![](/Asserts/Images/album/202306/19/182038dqwywk3dm8zuakch.jpg)
 
 
 ### 红帽准备开发 CentOS Stream 10
@@ -60,7 +60,7 @@ Stack Overflow 2023 年 5 月的调查显示，45.55% 的受访者使用 Postgre
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/19/182053eybejq53v8ewgmfy.jpg)
+![](/Asserts/Images/album/202306/19/182053eybejq53v8ewgmfy.jpg)
 
 
 ### 英特尔简化其 CPU 品牌组合

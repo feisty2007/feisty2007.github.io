@@ -7,7 +7,7 @@ tags:	[linuxcn,LVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202012/20/100519bj1df01ffhdw831k.jpg)
+![](/Asserts/Images/album/202012/20/100519bj1df01ffhdw831k.jpg)
 
 
 有时需要在系统中添加另一块磁盘。这就是<ruby> 逻辑卷管理 <rt>  Logical Volume Management </rt></ruby>（LVM）的用武之地。LVM 的好处之处在于它相当灵活。有几种方法可以添加一块磁盘。这篇文章介绍了一种方法。

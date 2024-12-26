@@ -22,7 +22,7 @@ Clapper 是一个全新 [Linux 视频播放器](https://itsfoss.com/video-player
 ### Clapper 视频播放器
 
 
-![A screenshot of Clapper video player](/Asserts/Images//attachment/album/202107/31/220701m7l4irz27yby1dbb.png)
+![A screenshot of Clapper video player](/Asserts/Images/album/202107/31/220701m7l4irz27yby1dbb.png)
 
 
 [Clapper 默认开启硬件加速](https://github.com/Rafostar/clapper/wiki/Hardware-acceleration)。它支持英特尔和 AMD 的 GPU，在 Xorg 和 Wayland 上都能工作。
@@ -39,7 +39,7 @@ Clapper 是一个全新 [Linux 视频播放器](https://itsfoss.com/video-player
 * 全屏模式：播放器进入全屏，进度条变大，但它们都会自动隐藏起来
 
 
-![Interface of Clapper video player with preference control and window modes](/Asserts/Images//attachment/album/202107/31/220703uxq4334rqkfh7cql.jpg)
+![Interface of Clapper video player with preference control and window modes](/Asserts/Images/album/202107/31/220703uxq4334rqkfh7cql.jpg)
 
 
 Clapper 也有一个自适应的用户界面，可基于 Linux 的智能手机和平板电脑上使用。因此，如果你有自己的 Pine Phone 或 Librem5，你可以在它上面使用 Clapper。
@@ -57,7 +57,7 @@ Clapper 也有一个自适应的用户界面，可基于 Linux 的智能手机�
 这里的截图中，我正在 Clapper 中播放一个 YouTube 视频。这是一首由一位美丽的歌手和演员唱的优美歌曲。你能猜到这是哪首歌或哪部电影吗？
 
 
-![Clapper playing a video from YouTube](/Asserts/Images//attachment/album/202107/31/220705hy8u8hj4ji4s3cdn.jpg)
+![Clapper playing a video from YouTube](/Asserts/Images/album/202107/31/220705hy8u8hj4ji4s3cdn.jpg)
 
 
 ### 在 Linux 上安装 Clapper

@@ -7,7 +7,7 @@ tags:	[linuxcn,PNG,JPEG,图片,WebP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/04/152157c1f2b2z18iissv31.jpg)
+![](/Asserts/Images/album/201607/04/152157c1f2b2z18iissv31.jpg)
 
 
 
@@ -41,7 +41,7 @@ Google 的目标是让 WebP 成为 web 图片的新标准，但是并没有成�
 > 
 
 
-![](/Asserts/Images//attachment/album/201607/04/152218vdynjxi27d777i0y.png)
+![](/Asserts/Images/album/201607/04/152218vdynjxi27d777i0y.png)
 
 
 *GNOME 图片查看器不支持 WebP 图片*
@@ -77,7 +77,7 @@ sudo apt-get install gthumb
 一旦安装完成，你就可以简单地右键点击 WebP 图片，选择 gThumb 来打开它。你现在应该可以看到如下画面：
 
 
-![](/Asserts/Images//attachment/album/201607/04/152239tg9kw00nvw0qo3ee.jpeg)
+![](/Asserts/Images/album/201607/04/152239tg9kw00nvw0qo3ee.jpeg)
 
 
 *gThumb 中显示的 WebP 图片*
@@ -92,7 +92,7 @@ sudo apt-get install gthumb
 步骤 1：右键点击 WebP 文件选择属性。
 
 
-![](/Asserts/Images//attachment/album/201607/04/152303yjeywg812w18y05i.png)
+![](/Asserts/Images/album/201607/04/152303yjeywg812w18y05i.png)
 
 
 *从右键菜单中选择属性*
@@ -101,7 +101,7 @@ sudo apt-get install gthumb
 步骤 2：转到打开方式标签，选择 gThumb 并点击设置为默认。
 
 
-![](/Asserts/Images//attachment/album/201607/04/152328xu7zm7msflwsw5mw.png)
+![](/Asserts/Images/album/201607/04/152328xu7zm7msflwsw5mw.png)
 
 
 *让 gThumb 成为 Ubuntu 中 WebP 图片的默认应用*
@@ -119,19 +119,19 @@ gThumb 的功能比图片查看器更多。举个例子，你可以做一些简�
 步骤1：打开系统设置
 
 
-![](/Asserts/Images//attachment/album/201607/04/152401zv0r3rckd70d3ggg.jpeg)
+![](/Asserts/Images/album/201607/04/152401zv0r3rckd70d3ggg.jpeg)
 
 
 步骤2：转到<ruby> 详情 <rp>  （ </rp> <rt>  Details </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201607/04/152428me6sepy64bhzfs8p.jpeg)
+![](/Asserts/Images/album/201607/04/152428me6sepy64bhzfs8p.jpeg)
 
 
 步骤3：在这里将 gThumb 设置为图片的默认应用
 
 
-![](/Asserts/Images//attachment/album/201607/04/152531kwiwwwwpg0o5fyoi.png)
+![](/Asserts/Images/album/201607/04/152531kwiwwwwpg0o5fyoi.png)
 
 
 ### Linux 上打开 WebP 文件的替代程序
@@ -224,13 +224,13 @@ XnConvert 是个强大的工具，你可以用它来批量修改图片尺寸。�
 打开 XnConvert 并选择输入文件：
 
 
-![](/Asserts/Images//attachment/album/201607/04/152554h42yze1l4gmexly6.jpeg)
+![](/Asserts/Images/album/201607/04/152554h42yze1l4gmexly6.jpeg)
 
 
 在输出标签，选择你想要的输出格式。选择完后点击转换。
 
 
-![](/Asserts/Images//attachment/album/201607/04/152615owy2swgrbwq3qyu5.jpeg)
+![](/Asserts/Images/album/201607/04/152615owy2swgrbwq3qyu5.jpeg)
 
 
 要将 WebP 图片转换为 PNG，JPEG 或其它你选择的图片格式，这就是你所需要做的一切了。
@@ -245,7 +245,7 @@ XnConvert 是个强大的工具，你可以用它来批量修改图片尺寸。�
 解决这个问题的一个更简单、不那么痛苦的途径是安装一个 Chrome 扩展 Save Image as PNG。有了这个插件，你可以右键点击 WebP 图片并直接存储为 PNG 格式。
 
 
-![](/Asserts/Images//attachment/album/201607/04/152638dipzprgnaknla00z.png)
+![](/Asserts/Images/album/201607/04/152638dipzprgnaknla00z.png)
 
 
 *在 Google Chrome 中将 WebP 图片保存为 PNG 格式*

@@ -17,7 +17,7 @@ tags:	[linuxcn,Nautilus,右键菜单]
 -----------------
 
 
-![gksu-main](/Asserts/Images//attachment/album/201310/06/102247ginc2rcwgsig24cj.png) 
+![gksu-main](/Asserts/Images/album/201310/06/102247ginc2rcwgsig24cj.png) 
 
 
 ### **简短教程**
@@ -29,19 +29,19 @@ Nautilus-Gksu插件在右键菜单中添加了一个有用的选项-- **以管�
 例如，假设你想从nautilus文件管理器中打开root目录。想当然的双击将获取一个错误信息，如：
 
 
-![gksu-1](/Asserts/Images//attachment/album/201310/06/102248nm1ek22k3aa3a2hm.png)
+![gksu-1](/Asserts/Images/album/201310/06/102248nm1ek22k3aa3a2hm.png)
 
 
 但是你安装nautilus gksu插件后，你需要做的是在目录上右击并选择“以管理员身份打开（Open as administrator）”选项。
 
 
-![gksu-2](/Asserts/Images//attachment/album/201310/06/102249vrqrm6l1l3s6r55f.png)
+![gksu-2](/Asserts/Images/album/201310/06/102249vrqrm6l1l3s6r55f.png)
 
 
 一旦你点击了这个选项，你将被提示输入密码。
 
 
-![gksu-3](/Asserts/Images//attachment/album/201310/06/102250407kinzwpz1e76k0.png)
+![gksu-3](/Asserts/Images/album/201310/06/102250407kinzwpz1e76k0.png)
 
 
 只要输入密码就行了。
@@ -80,7 +80,7 @@ E: Unable to locate package nautilus-gksu
 这是帖子的一个截图：
 
 
-![gksu-4](/Asserts/Images//attachment/album/201310/06/1022527jnejln4sdlt0ili.png) 
+![gksu-4](/Asserts/Images/album/201310/06/1022527jnejln4sdlt0ili.png) 
 
 
 阅读完上面的帖子，我使用以下步骤来完成安装：

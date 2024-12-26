@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCE,路由]
 RHCE（Red Hat Certified Engineer，红帽认证工程师）是红帽公司的一个认证，红帽向企业社区贡献开源操作系统和软件，同时它还给公司提供训练、支持和咨询服务。
 
 
-![RHCE 考试准备指南](/Asserts/Images//attachment/album/201510/22/123748megczmyifomw2yto.jpg)
+![RHCE 考试准备指南](/Asserts/Images/album/201510/22/123748megczmyifomw2yto.jpg)
 
 
 *RHCE 考试准备指南*
@@ -44,7 +44,7 @@ RHCE（Red Hat Certified Engineer，红帽认证工程师）是红帽公司的�
 在 RHCE 的第一和第二部分，我们会介绍一些基本的但典型的情形，也就是静态路由原理、包过滤和网络地址转换。
 
 
-![在 RHEL 中设置静态网络路由](/Asserts/Images//attachment/album/201510/22/123749zusdyymdzdzbmtqz.jpg)
+![在 RHEL 中设置静态网络路由](/Asserts/Images/album/201510/22/123749zusdyymdzdzbmtqz.jpg)
 
 
 *RHCE 系列第一部分：设置和测试网络静态路由*
@@ -74,7 +74,7 @@ RHCE（Red Hat Certified Engineer，红帽认证工程师）是红帽公司的�
 该场景可以用下面的示意图表示：
 
 
-![静态路由网络示意图](/Asserts/Images//attachment/album/201510/22/123750fgsyjazjr3shzux5.png)
+![静态路由网络示意图](/Asserts/Images/album/201510/22/123750fgsyjazjr3shzux5.png)
 
 
 *静态路由网络示意图*
@@ -95,7 +95,7 @@ RHCE（Red Hat Certified Engineer，红帽认证工程师）是红帽公司的�
 
 ```
 
-![在 Linux 中检查路由表](/Asserts/Images//attachment/album/201510/22/123751mvm1bttqtfhfvt13.png)
+![在 Linux 中检查路由表](/Asserts/Images/album/201510/22/123751mvm1bttqtfhfvt13.png)
 
 
 *检查当前路由表*
@@ -195,7 +195,7 @@ RHCE（Red Hat Certified Engineer，红帽认证工程师）是红帽公司的�
 
 ```
 
-![显示网络路由表](/Asserts/Images//attachment/album/201510/22/123751znezexl1eddx0j51.png)
+![显示网络路由表](/Asserts/Images/album/201510/22/123751znezexl1eddx0j51.png)
 
 
 *确认网络路由表*
@@ -261,7 +261,7 @@ RHCE（Red Hat Certified Engineer，红帽认证工程师）是红帽公司的�
 tcpdump 日志看起来像下面这样：
 
 
-![检查服务器之间的网络连接](/Asserts/Images//attachment/album/201510/22/123752m3uuqld1cvf4k1qp.png)
+![检查服务器之间的网络连接](/Asserts/Images/album/201510/22/123752m3uuqld1cvf4k1qp.png)
 
 
 *检查服务器之间的网络连接*

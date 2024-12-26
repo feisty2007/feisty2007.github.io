@@ -15,7 +15,7 @@ tags:	[linuxcn,split]
 > 
 
 
-![Marco Verch](/Asserts/Images//attachment/album/201912/16/111204d5pznhjqi7nxbhzw.jpg)
+![Marco Verch](/Asserts/Images/album/201912/16/111204d5pznhjqi7nxbhzw.jpg)
 
 
 Linux 系统提供了一个非常易于使用的命令来分割文件。在将文件上传到限制大小的存储网站或者作为邮件附件之前，你可能需要执行此操作。要将文件分割为多个文件块，只需使用 `split` 命令。

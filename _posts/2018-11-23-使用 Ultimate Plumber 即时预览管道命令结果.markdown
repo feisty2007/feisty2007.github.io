@@ -7,7 +7,7 @@ tags:	[linuxcn,管道]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/08/213411o979dzhooe9eflol.jpg)
+![](/Asserts/Images/album/201811/08/213411o979dzhooe9eflol.jpg)
 
 
 管道命令的作用是将一个命令/程序/进程的输出发送给另一个命令/程序/进程，以便将输出结果进行进一步的处理。我们可以通过使用管道命令把多个命令组合起来，使一个命令的标准输入或输出重定向到另一个命令。两个或多个 Linux 命令之间的竖线字符（`|`）表示在命令之间使用管道命令。管道命令的一般语法如下所示：
@@ -44,7 +44,7 @@ $ lshw |& up
 你会在屏幕顶部看到一个输入框，如下图所示。
 
 
-![](/Asserts/Images//attachment/album/201811/08/212757zhzhv8hnsvemskz9.png)
+![](/Asserts/Images/album/201811/08/212757zhzhv8hnsvemskz9.png)
 
 
 在输入命令的过程中，输入管道符号并回车，就可以立即执行已经输入了的命令。Ultimate Plumber 会在下方的可滚动窗口中即时显示管道命令的输出。在这种状态下，你可以通过 `PgUp`/`PgDn` 键或 `ctrl + ←`/`ctrl + →` 组合键来查看结果。
@@ -69,7 +69,7 @@ grep network -A5 | grep : | cut -d: -f2- | paste - -
 以下是 `up` 命令的一个简单演示：
 
 
-![](/Asserts/Images//attachment/album/201811/08/212758bf2a41b32n3yyra2.gif)
+![](/Asserts/Images/album/201811/08/212758bf2a41b32n3yyra2.gif)
 
 
 ### 安装 Ultimate Plumber

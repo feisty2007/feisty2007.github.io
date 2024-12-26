@@ -7,13 +7,13 @@ tags:	[linuxcn,Turtl,Evernote]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/12/080308mj3m5ffql6613ls6.jpg)
+![](/Asserts/Images/album/201609/12/080308mj3m5ffql6613ls6.jpg)
 
 
 Turtl 是一个安全、开源的 Evernote 替代品，在Linux、Windows、Mac 和 Android 等系统上都能使用。iOS版本仍在开发当中，Firefox 和 Chrome 也有扩展程序可以使用。
 
 
-![](/Asserts/Images//attachment/album/201609/12/075840kob8uznnnz9innbv.png)
+![](/Asserts/Images/album/201609/12/075840kob8uznnnz9innbv.png)
 
 
 这个产品仍在测试阶段，它能够让你把你的笔记（便签编辑器支持 Markdown）、网站书签、密码、文档、图片等单独放在一个隐秘地方。
@@ -22,7 +22,7 @@ Turtl 是一个安全、开源的 Evernote 替代品，在Linux、Windows、Mac 
 笔记可以按模块组织起来，支持嵌套，也可以和其他 Turtl 用户分享。
 
 
-![](/Asserts/Images//attachment/album/201609/12/075901toswuvp9uuwunrsh.png)
+![](/Asserts/Images/album/201609/12/075901toswuvp9uuwunrsh.png)
 
 
 你可以给你的笔记打上标签。Turtl 通过创建时间、最后修改时间或者标签来找你的笔记。
@@ -31,7 +31,7 @@ Turtl 是一个安全、开源的 Evernote 替代品，在Linux、Windows、Mac 
 这个是便签编辑器（文件便签）：
 
 
-![](/Asserts/Images//attachment/album/201609/12/075924wxmzkgfk8gxfddfe.png)
+![](/Asserts/Images/album/201609/12/075924wxmzkgfk8gxfddfe.png)
 
 
 那么安全性如何呢？Turtl 会在保存数据之前加密，使用的是一个加密密钥，而密码并不保存在服务器上。只有你和你想要分享的人能获取数据。你可以从[这里](https://turtl.it/docs/security/)获得更多关于 Turtl 安全和加密的信息。

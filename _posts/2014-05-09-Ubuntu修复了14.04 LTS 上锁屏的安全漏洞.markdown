@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,安全漏洞,修复]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/10/222836bz0x4kzp0zk00x4k.jpg)
+![](/Asserts/Images/album/201405/10/222836bz0x4kzp0zk00x4k.jpg)
 
 
 **Canonical公司已经修补了Ubuntu 14.04 LTS上一个重大的安全漏洞 — 这个漏洞可能让攻击者不需要输入密码而获取一个用户账户。**

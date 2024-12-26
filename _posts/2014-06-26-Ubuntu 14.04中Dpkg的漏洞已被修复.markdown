@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,安全漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/14/231407ml14yo9oywhq8o41.jpg)
+![](/Asserts/Images/album/201406/14/231407ml14yo9oywhq8o41.jpg)
 
 
 **Canonical宣布存在于Ubuntu 14.04 LTS，Ubuntu 13.10，Ubuntu 12.10，Ubuntu 12.04 LTS以及Ubuntu 10.04 LTS操作系统中的dpkg漏洞已经被修复。**

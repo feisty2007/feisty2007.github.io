@@ -7,7 +7,7 @@ tags:	[linuxcn,dd,USB]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/15/104940ucajv4o4zb8934ll.jpg)
+![](/Asserts/Images/album/202109/15/104940ucajv4o4zb8934ll.jpg)
 
 
 有很多的图形化工具可以用来创建<ruby> 临场 <rt>  live </rt></ruby> USB 驱动器。Linux 上的 [Etcher](https://itsfoss.com/install-etcher-linux/) 可能是最受欢迎的。为此，Ubuntu 也开发了自己的启动盘创建工具。
@@ -46,7 +46,7 @@ dd if="./filename.iso" of="/dev/sdb" status="progress" conv="fsync"
 #### 理解 dd 命令
 
 
-![Explanation of the dd command for live USB creation](/Asserts/Images//attachment/album/202109/15/104948y88lpa9kv9pnyja8.png)
+![Explanation of the dd command for live USB creation](/Asserts/Images/album/202109/15/104948y88lpa9kv9pnyja8.png)
 
 
 首先，你输入 `dd`。没错，这就是你要运行的程序的名称。
@@ -110,13 +110,13 @@ dd if="./filename.iso" of="/dev/sdb" status="progress" conv="fsync"
 此路径可能因你的系统而异，你可以使用 `lsblk` 命令确认 USB 磁盘的路径。只需从列表中查找一个看起来像你的 USB 磁盘大小的驱动器，就可以了。
 
 
-![](/Asserts/Images//attachment/album/202109/15/104948vezcp8t2cficeoo8.png)
+![](/Asserts/Images/album/202109/15/104948vezcp8t2cficeoo8.png)
 
 
 如果你更熟悉 GUI 程序，还可以使用 GNOME Disks 等工具找到驱动器的路径。
 
 
-![](/Asserts/Images//attachment/album/202109/15/104950ohbd73pg12hqixde.png)
+![](/Asserts/Images/album/202109/15/104950ohbd73pg12hqixde.png)
 
 
 现在你已经确认了外部驱动器的路径，让我们开始创建临场 USB。
@@ -137,7 +137,7 @@ sudo dd if="./ubuntu-20.04.2.0-desktop-amd64.iso" of="/dev/sdb" status="progress
 之后，让 `dd` 去做剩下的事情，它会在完成后打印一条完成消息：
 
 
-![](/Asserts/Images//attachment/album/202109/15/104951gvnnt5vfvhkcdfvh.png)
+![](/Asserts/Images/album/202109/15/104951gvnnt5vfvhkcdfvh.png)
 
 
 就像这样，你已经在 Linux 终端中使用 `dd` 命令刷写了 ISO 文件！

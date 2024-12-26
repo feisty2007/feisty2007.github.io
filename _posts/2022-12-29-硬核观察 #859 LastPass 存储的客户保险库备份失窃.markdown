@@ -7,10 +7,10 @@ tags:	[linuxcn,LastPass,机器人,广告屏蔽器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/23/172527qyf25zz8mcyezj7m.jpg)
+![](/Asserts/Images/album/202212/23/172527qyf25zz8mcyezj7m.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/23/172542pkd2inci3fyo72yf.jpg)
+![](/Asserts/Images/album/202212/23/172542pkd2inci3fyo72yf.jpg)
 
 
 ### LastPass 存储的客户保险库备份失窃
@@ -35,7 +35,7 @@ LastPass 今天透露，攻击者利用 2022 年 8 月事件中窃取的信息�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/23/172639a0wpryadzgdg6zp7.jpg)
+![](/Asserts/Images/album/202212/23/172639a0wpryadzgdg6zp7.jpg)
 
 
 ### 研究发现应该征收适度的机器人税
@@ -60,7 +60,7 @@ LastPass 今天透露，攻击者利用 2022 年 8 月事件中窃取的信息�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/23/172647d500bef12t1ehefa.jpg)
+![](/Asserts/Images/album/202212/23/172647d500bef12t1ehefa.jpg)
 
 
 ### 连 FBI 都说你应该使用广告屏蔽器

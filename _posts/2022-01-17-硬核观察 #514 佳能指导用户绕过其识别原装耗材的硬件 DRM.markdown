@@ -7,10 +7,10 @@ tags:	[linuxcn,打印机,黑客,勒索软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/12/204731yh6a69oafvpf9hpu.jpg)
+![](/Asserts/Images/album/202201/12/204731yh6a69oafvpf9hpu.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/12/204740xml68ie2ml5gx65l.jpg)
+![](/Asserts/Images/album/202201/12/204740xml68ie2ml5gx65l.jpg)
 
 
 ### 佳能指导用户绕过其识别原装耗材的硬件 DRM
@@ -27,7 +27,7 @@ tags:	[linuxcn,打印机,黑客,勒索软件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/12/204754ifun3urett3tkt7j.jpg)
+![](/Asserts/Images/album/202201/12/204754ifun3urett3tkt7j.jpg)
 
 
 ### 印度黑客组织的恶意程序感染了自己
@@ -44,7 +44,7 @@ tags:	[linuxcn,打印机,黑客,勒索软件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/12/204819fuunwgwgyg6ugjmn.jpg)
+![](/Asserts/Images/album/202201/12/204819fuunwgwgyg6ugjmn.jpg)
 
 
 ### 感染勒索软件后，连锁酒店改用 Chrome OS 操作系统

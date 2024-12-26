@@ -7,7 +7,7 @@ tags:	[linuxcn,Bash,自动化]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/30/181814f4v7ahztuaaxwqwg.jpg)
+![](/Asserts/Images/album/202208/30/181814f4v7ahztuaaxwqwg.jpg)
 
 
 

@@ -7,10 +7,10 @@ tags:	[linuxcn,加密,社交媒体,Rocky Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/15/163354w4450g5crgp3966g.jpg)
+![](/Asserts/Images/album/202205/15/163354w4450g5crgp3966g.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/15/163408rzyfbe5zjkjzkueu.jpg)
+![](/Asserts/Images/album/202205/15/163408rzyfbe5zjkjzkueu.jpg)
 
 
 ### 美国国家安全局表示美国新加密标准没有后门
@@ -35,7 +35,7 @@ tags:	[linuxcn,加密,社交媒体,Rocky Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/15/163420pb9898m6mz7tzwll.jpg)
+![](/Asserts/Images/album/202205/15/163420pb9898m6mz7tzwll.jpg)
 
 
 ### 一些社交平台倡议粉丝可迁移
@@ -60,7 +60,7 @@ tags:	[linuxcn,加密,社交媒体,Rocky Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/15/163433y69qaidzllo5lltq.jpg)
+![](/Asserts/Images/album/202205/15/163433y69qaidzllo5lltq.jpg)
 
 
 ### CentOS 继任者 Rocky Linux 获得 A 轮 2600 万美元融资

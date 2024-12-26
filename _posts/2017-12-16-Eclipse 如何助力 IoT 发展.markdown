@@ -15,7 +15,7 @@ tags:	[linuxcn,IoT,Eclipse]
 > 
 
 
-![How Eclipse is advancing IoT development](/Asserts/Images//attachment/album/201712/11/233019xkql6hj2hsyhadll.png "How Eclipse is advancing IoT development")
+![How Eclipse is advancing IoT development](/Asserts/Images/album/201712/11/233019xkql6hj2hsyhadll.png "How Eclipse is advancing IoT development")
 
 
 图片来源： opensource.com

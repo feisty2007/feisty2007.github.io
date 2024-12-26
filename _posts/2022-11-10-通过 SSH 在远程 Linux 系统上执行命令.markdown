@@ -7,7 +7,7 @@ tags:	[linuxcn,SSH]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/17/163910g9u42ssfcuk9c290.jpg)
+![](/Asserts/Images/album/202211/17/163910g9u42ssfcuk9c290.jpg)
 
 
 
@@ -65,7 +65,7 @@ $ ssh sk@192.168.225.22 uname -a
 示例输出：
 
 
-![通过 SSH 在远程 Linux 系统上执行命令](/Asserts/Images//attachment/album/202211/17/163913a9tuxt1uvxvmmkvg.gif)
+![通过 SSH 在远程 Linux 系统上执行命令](/Asserts/Images/album/202211/17/163913a9tuxt1uvxvmmkvg.gif)
 
 
 看到没？我并没有实际登录到远程系统，但通过 SSH 在远程系统上执行了 `uname` 命令，并在本地系统的终端上显示了输出。
@@ -125,7 +125,7 @@ $ ssh sk@192.168.225.22 "uname -r ; lsb_release -a"
 示例输出：
 
 
-![在 Linux 上通过 SSH 在远程主机上运行多个命令](/Asserts/Images//attachment/album/202211/17/163913kvwqbzpp3ozp2w24.png)
+![在 Linux 上通过 SSH 在远程主机上运行多个命令](/Asserts/Images/album/202211/17/163913kvwqbzpp3ozp2w24.png)
 
 
 正如一位读者在下面的评论部分提到的那样，你应该用引号指定多个命令。如果不使用引号，第一个命令将在远程系统上执行，第二个命令将仅在本地计算机上执行。整个带引号的命令将按预期在远程计算机上运行。
@@ -184,7 +184,7 @@ $ ssh -t sk@192.168.225.22 sudo apt install apache2
 示例输出：
 
 
-![通过 SSH 在远程机器上运行有 Sudo 权限的命令](/Asserts/Images//attachment/album/202211/17/163913rgzg1jmqiwhx1lh5.png)
+![通过 SSH 在远程机器上运行有 Sudo 权限的命令](/Asserts/Images/album/202211/17/163913rgzg1jmqiwhx1lh5.png)
 
 
 注意到了吗？我在上面的命令中使用了 `-t` 标志，我们需要使用它来强制进行伪终端分配。它用于在远程机器上执行任意基于屏幕的程序，这非常有用。例如，在实现菜单服务时。
@@ -313,11 +313,11 @@ $ cat diskusage.txt
 4.0K ./.profile
 4.0K ./.gnupg/private-keys-v1.d
 8.0K ./.gnupg
-76K ./Asserts/Images//image.jpg
-128K ./Asserts/Images//file.pdf
-20K ./Asserts/Images//text.docx
-5.9M ./Asserts/Images//audio.mp3
-6.1M ./Asserts/Images/
+76K ./data/image.jpg
+128K ./data/file.pdf
+20K ./data/text.docx
+5.9M ./data/audio.mp3
+6.1M ./data
 0 ./.sudo_as_admin_successful
 4.0K ./pacman?inline=false
 4.0K ./.bash_logout
@@ -464,7 +464,7 @@ $ sshpass -f mypassword.txt ssh ostechnix@192.168.1.30 uname -a
 
 ```
 
-![通过 SSH 和 sshpass 在远程机器上执行命令](/Asserts/Images//attachment/album/202211/17/163914gmids5kiqqcq10io.png)
+![通过 SSH 和 sshpass 在远程机器上执行命令](/Asserts/Images/album/202211/17/163914gmids5kiqqcq10io.png)
 
 
 ### 总结

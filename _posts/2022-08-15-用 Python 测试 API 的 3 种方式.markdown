@@ -15,7 +15,7 @@ tags:	[linuxcn,API,Python,测试]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/18/180800clp08p82pi838zrs.jpg)
+![](/Asserts/Images/album/202208/18/180800clp08p82pi838zrs.jpg)
 
 
 在这个教程中，你将学到如何对执行 HTTP 请求代码的进行单元测试。也就是说，你将看到用 Python 对 API 进行单元测试的艺术。
@@ -50,7 +50,7 @@ tags:	[linuxcn,API,Python,测试]
 为了更好的解决这个问题，假设你正在创建一个天气状况的应用。这个应用使用第三方天气状况 REST API 来检索一个城市的天气信息。其中一个需求是生成一个简单的 HTML 页面，像下面这个图片：
 
 
-![web page displaying London weather](/Asserts/Images//attachment/album/202208/18/181132ceoyfizljzu94qi0.jpg)
+![web page displaying London weather](/Asserts/Images/album/202208/18/181132ceoyfizljzu94qi0.jpg)
 
 
 *伦敦的天气，OpenWeatherMap。图片是作者自己制作的。*
@@ -62,7 +62,7 @@ tags:	[linuxcn,API,Python,测试]
 *好的，很棒，但是我该怎么用呢？*
 
 
-通过发送一个 `GET` 请求到：`https://api.openweathermap.org/Asserts/Images//2.5/weather?q={city_name}&appid={api_key}&units=metric`，就可以获得你所需要的所有东西。在这个教程中，我会把城市名字设置成一个参数，并确定使用公制单位。
+通过发送一个 `GET` 请求到：`https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={api_key}&units=metric`，就可以获得你所需要的所有东西。在这个教程中，我会把城市名字设置成一个参数，并确定使用公制单位。
 
 
 ### 检索数据
@@ -89,7 +89,7 @@ def find_weather_for(city: str) -> dict:
 
 
 ```
-BASE_URL = "https://api.openweathermap.org/Asserts/Images//2.5/weather"
+BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 API = BASE_URL + "?q={city_name}&amp;appid={api_key}&amp;units=metric"
 
 ```
@@ -526,7 +526,7 @@ interactions:
       User-Agent:
       - python-requests/2.24.0
     method: GET
-    uri: https://api.openweathermap.org/Asserts/Images//2.5/weather?q=London&appid=<YOUR API KEY HERE>&units=metric
+    uri: https://api.openweathermap.org/data/2.5/weather?q=London&appid=<YOUR API KEY HERE>&units=metric
   response:
     body:
       string: '{"coord":{"lon":-0.13,"lat":51.51},"weather":[{"id":800,"main":"Clear","description":"clearsky","icon":"01d"}],"base":"stations","main":{"temp":16.53,"feels_like":15.52,"temp_min":15,"temp_max":17.78,"pressure":1023,"humidity":72},"visibility":10000,"wind":{"speed":2.1,"deg":40},"clouds":{"all":0},"dt":1600420164,"sys":{"type":1,"id":1414,"country":"GB","sunrise":1600407646,"sunset":1600452509},"timezone":3600,"id":2643743,"name":"London","cod":200}'
@@ -548,7 +548,7 @@ interactions:
       Server:
       - openresty
       X-Cache-Key:
-      - /Asserts/Images//2.5/weather?q=london&amp;units=metric
+      - /data/2.5/weather?q=london&amp;units=metric
     status:
       code: 200
       message: OK

@@ -15,7 +15,7 @@ tags:	[linuxcn,awk]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/12/124322vwe3tq3wlw33tw1f.jpg)
+![](/Asserts/Images/album/201912/12/124322vwe3tq3wlw33tw1f.jpg)
 
 
 假设你有一个文本文件，你需要删掉所有重复的行。

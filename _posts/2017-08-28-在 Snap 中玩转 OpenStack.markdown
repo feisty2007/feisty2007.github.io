@@ -7,7 +7,7 @@ tags:	[linuxcn,Snapcraft,snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/28/060748zgz5vzfzggfogf02.png)
+![](/Asserts/Images/album/201708/28/060748zgz5vzfzggfogf02.png)
 
 
 OpenStack 非常复杂，许多社区成员都在努力使 OpenStack 的部署和操作更加容易。其中大部分时间都用来改善相关工具，如：Ansible、Puppet、Kolla、Juju、Triple-O 和 Chef (仅举几例)。但是，如果我们降低一下标准，并且还能使包的体验更加简单，将会怎样呢？

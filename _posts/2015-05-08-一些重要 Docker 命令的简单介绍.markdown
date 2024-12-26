@@ -10,7 +10,7 @@ tags:	[linuxcn,Docker]
 大家好，今天我们来学习一些在你使用 Docker 之前需要了解的重要的 Docker 命令。[Docker](https://www.docker.com/) 是一个开源项目，提供了一个可以打包、装载和运行任何应用的轻量级容器的开放平台。它没有语言支持、框架和打包系统的限制，从小型的家用电脑到高端服务器，在何时何地都可以运行。这使它们可以不依赖于特定软件栈和供应商，像一块块积木一样部署和扩展网络应用、数据库和后端服务。
 
 
-![](/Asserts/Images//attachment/album/201505/14/071619ux287xfzx66799uh.jpg)
+![](/Asserts/Images/album/201505/14/071619ux287xfzx66799uh.jpg)
 
 
 Docker 命令简单易学，也很容易实现或实践。这是一些你运行 Docker 并充分利用它需要知道的简单 Docker 命令。
@@ -37,7 +37,7 @@ Docker 命令简单易学，也很容易实现或实践。这是一些你运行 
 
 ```
 
-![Docker 宿主机](/Asserts/Images//attachment/album/201505/14/071622rvy5zq65mw9xiqg9.png)
+![Docker 宿主机](/Asserts/Images/album/201505/14/071622rvy5zq65mw9xiqg9.png)
 
 
 要拉取一个 docker 镜像，我们需要运行下面的命令。
@@ -49,7 +49,7 @@ Docker 命令简单易学，也很容易实现或实践。这是一些你运行 
 
 ```
 
-![Docker pull 命令](/Asserts/Images//attachment/album/201505/14/071622v46d7wzdz8rr22dn.png)
+![Docker pull 命令](/Asserts/Images/album/201505/14/071622v46d7wzdz8rr22dn.png)
 
 
 我们可以检查本地是否有可用的 Docker 镜像。
@@ -61,7 +61,7 @@ Docker 命令简单易学，也很容易实现或实践。这是一些你运行 
 
 ```
 
-![Docker 镜像](/Asserts/Images//attachment/album/201505/14/071623rbisgsdswaaecn7g.png)
+![Docker 镜像](/Asserts/Images/album/201505/14/071623rbisgsdswaaecn7g.png)
 
 
 ### 2. 运行 Docker 容器
@@ -76,7 +76,7 @@ Docker 命令简单易学，也很容易实现或实践。这是一些你运行 
 
 ```
 
-![Docker Run Shell 命令](/Asserts/Images//attachment/album/201505/14/071624d4u2nn2a528k52nb.png)
+![Docker Run Shell 命令](/Asserts/Images/album/201505/14/071624d4u2nn2a528k52nb.png)
 
 
 从上面的命令中，我们进入了容器并可以通过交互 shell 访问它的内容。我们可以键入 **Ctrl-D** 从shell中退出。
@@ -91,7 +91,7 @@ Docker 命令简单易学，也很容易实现或实践。这是一些你运行 
 
 ```
 
-![后台运行容器](/Asserts/Images//attachment/album/201505/14/071624uyv67elpqjhjhaal.png)
+![后台运行容器](/Asserts/Images/album/201505/14/071624uyv67elpqjhjhaal.png)
 
 
 如果你想进入到一个正在运行的容器，我们可以使用 attach 命令加一个容器 id。可以使用 **docker ps** 命令获取容器 id。
@@ -103,7 +103,7 @@ Docker 命令简单易学，也很容易实现或实践。这是一些你运行 
 
 ```
 
-![进入Docker](/Asserts/Images//attachment/album/201505/14/071624ky2i55yyyl5zw79e.png)
+![进入Docker](/Asserts/Images/album/201505/14/071624ky2i55yyyl5zw79e.png)
 
 
 ### 3. 检查容器运行
@@ -127,7 +127,7 @@ Docker 命令简单易学，也很容易实现或实践。这是一些你运行 
 
 ```
 
-![查看 Docker 容器](/Asserts/Images//attachment/album/201505/14/071625m4lbb0dzb0cbi5jy.png)
+![查看 Docker 容器](/Asserts/Images/album/201505/14/071625m4lbb0dzb0cbi5jy.png)
 
 
 ### 4. 查看容器信息
@@ -142,7 +142,7 @@ Docker 命令简单易学，也很容易实现或实践。这是一些你运行 
 
 ```
 
-![检查Docker](/Asserts/Images//attachment/album/201505/14/071626ll5yy70s9s3bbrr5.png)
+![检查Docker](/Asserts/Images/album/201505/14/071626ll5yy70s9s3bbrr5.png)
 
 
 ### 5. 杀死或删除

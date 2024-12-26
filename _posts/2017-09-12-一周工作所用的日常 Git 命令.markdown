@@ -7,13 +7,13 @@ tags:	[linuxcn,Git,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/05/142738ef9g209isze0fmv2.png)
+![](/Asserts/Images/album/201709/05/142738ef9g209isze0fmv2.png)
 
 
 像大多数新手一样，我一开始是在 StackOverflow 上搜索 Git 命令，然后把答案复制粘贴，并没有真正理解它们究竟做了什么。
 
 
-![](/Asserts/Images//attachment/album/201709/05/142748s4a4ppxo6i96u9hr.png)
+![](/Asserts/Images/album/201709/05/142748s4a4ppxo6i96u9hr.png)
 
 
 *Image credit: [XKCD](https://xkcd.com/1597/)*

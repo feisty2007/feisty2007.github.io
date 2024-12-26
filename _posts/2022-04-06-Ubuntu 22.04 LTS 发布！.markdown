@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu,Ubuntu 22.04 LTS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/22/085312srr5va3j5i5f2g5r.jpg)
+![](/Asserts/Images/album/202204/22/085312srr5va3j5i5f2g5r.jpg)
 
 
 迫不及待地想尝试 Ubuntu 22.04 LTS？那么，它终于可以下载和升级了。（LCTT 译注：升级还要等几天，还存在一些小问题）
@@ -45,7 +45,7 @@ Ubuntu 22.04 是一次主要版本升级，其包括了桌面环境的改进、�
 虽然大多数基于 Ubuntu 的 Linux 发行版提供了设置强调色的功能，但你必须使用 <ruby> <a href="https://itsfoss.com/gnome-tweak-tool/">  GNOME 优化 </a> <rt>  GNOME Tweaks </rt></ruby> 才能做到。
 
 
-![](/Asserts/Images//attachment/album/202204/22/085312ftr6tjpxvx50jdwn.jpg)
+![](/Asserts/Images/album/202204/22/085312ftr6tjpxvx50jdwn.jpg)
 
 
 现在，在 Ubuntu 22.04 中，你可以轻松地设置你所选择的强调色，它会影响到文件夹、通知区和桌面体验的其他元素。
@@ -54,7 +54,7 @@ Ubuntu 22.04 是一次主要版本升级，其包括了桌面环境的改进、�
 #### 2、GNOME 42
 
 
-![](/Asserts/Images//attachment/album/202204/22/085312vuro9n9p0qrronqj.jpg)
+![](/Asserts/Images/album/202204/22/085312vuro9n9p0qrronqj.jpg)
 
 
 期待已久的桌面环境升级来了。虽然 Ubuntu 22.04 的 GNOME 实现并不提供水平停靠区，但会有其它好处加成。
@@ -72,7 +72,7 @@ Ubuntu 22.04 是一次主要版本升级，其包括了桌面环境的改进、�
 #### 3、新的屏幕截图工具
 
 
-![](/Asserts/Images//attachment/album/202204/22/085312d1887fed8rypjzer.jpg)
+![](/Asserts/Images/album/202204/22/085312d1887fed8rypjzer.jpg)
 
 
 与 Ubuntu 20.04 LTS 不同，你不能用 `PrtScrn`（或任何其他指定的快捷键）来直接抓拍全屏图片。
@@ -93,13 +93,13 @@ Ubuntu 22.04 是一次主要版本升级，其包括了桌面环境的改进、�
 感谢 [elementary OS 6](https://news.itsfoss.com/elementary-os-6-features/)，GNOME 42 受到启发，实现了系统级的深色模式，更好地融合在一起以保持一致性。
 
 
-![](/Asserts/Images//attachment/album/202204/22/085313weh2zhenl19hlywz.png)
+![](/Asserts/Images/album/202204/22/085313weh2zhenl19hlywz.png)
 
 
 #### 5、Firefox 变成了 Snap 版本
 
 
-![](/Asserts/Images//attachment/album/202204/22/085313hcijs2m2tmcbmb9s.png)
+![](/Asserts/Images/album/202204/22/085313hcijs2m2tmcbmb9s.png)
 
 
 从 deb 包到 Snap 的过渡已经进行了一段时间了。
@@ -117,7 +117,7 @@ Ubuntu 22.04 是一次主要版本升级，其包括了桌面环境的改进、�
 #### 6、桌面图标出现在底部
 
 
-![](/Asserts/Images//attachment/album/202204/22/085313rtptxz6sxptnnslz.jpg)
+![](/Asserts/Images/album/202204/22/085313rtptxz6sxptnnslz.jpg)
 
 
 默认情况下，桌面图标可以在右上角的区域看到，靠近停靠区。
@@ -135,7 +135,7 @@ Ubuntu 22.04 是一次主要版本升级，其包括了桌面环境的改进、�
 你需要禁用“<ruby> 外观 <rt>  Appearance </rt></ruby>”调整中停靠区设置下的“<ruby> 面板 <rt>  Panel </rt></ruby>”模式，如下图所示：
 
 
-![](/Asserts/Images//attachment/album/202204/22/085313k0hoaaabfy07x07j.jpg)
+![](/Asserts/Images/album/202204/22/085313k0hoaaabfy07x07j.jpg)
 
 
 这将分离出停靠区，并提供现代桌面体验的浮动效果。
@@ -156,7 +156,7 @@ Ubuntu 22.04 是第一个也可用于树莓派的桌面 LTS 版本。
 #### 9、使用 Ubuntu Advantage
 
 
-![](/Asserts/Images//attachment/album/202204/22/085313sgzygi9f0sg7ysh9.jpg)
+![](/Asserts/Images/album/202204/22/085313sgzygi9f0sg7ysh9.jpg)
 
 
 Ubuntu Advantage 是为企业和商家提供的高级订阅，无需重新启动即可获得重要的安全更新。

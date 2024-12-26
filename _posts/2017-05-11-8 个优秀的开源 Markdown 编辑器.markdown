@@ -7,7 +7,7 @@ tags:	[linuxcn,markdown]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/22/222538h6mg27etqq6e76ie.jpg)
+![](/Asserts/Images/album/201705/22/222538h6mg27etqq6e76ie.jpg)
 
 
 ### Markdown
@@ -25,7 +25,7 @@ Markdown 格式语法的主要目标是实现最大的可读性。用户能够�
 ### Remarkable
 
 
-![](/Asserts/Images//attachment/album/201705/22/223204c70674n8wuz60sq7.jpg)
+![](/Asserts/Images/album/201705/22/223204c70674n8wuz60sq7.jpg)
 
 
 让我们从 Remarkable 开始。Remarkable 是一个 apt 软件包的名字，它是一个相当有特色的 Markdown 编辑器 — 它并不支持 Markdown 的全部功能特性，但该有的功能特性都有。它使用和 GitHub Markdown 类似的语法。
@@ -52,7 +52,7 @@ Markdown 格式语法的主要目标是实现最大的可读性。用户能够�
 ### Atom
 
 
-![](/Asserts/Images//attachment/album/201705/22/223330sq0j0fnjnmsq0znm.jpg)
+![](/Asserts/Images/album/201705/22/223330sq0j0fnjnmsq0znm.jpg)
 
 
 毫无疑问， Atom 是一个神话般的文本编辑器。超过 50 个开源包集合在一个微小的内核上，从而构成 Atom 。伴有 Node.js 的支持，以及全套功能特性，Atom 是我最喜欢用来写代码的编辑器。Atom 的特性在[杀手级开源应用](https://www.ossblog.org/top-software/2/)的文章中有更详细介绍，它是如此的强大。但是作为一个 Markdown 编辑器，Atom 还有许多不足之处，它的默认包不支持 Markdown 的特性。例如，正如上图所展示的，它不支持等价渲染。
@@ -70,7 +70,7 @@ Markdown 格式语法的主要目标是实现最大的可读性。用户能够�
 ### Haroopad
 
 
-![](/Asserts/Images//attachment/album/201705/22/223417vcjiczjrpy355p53.jpg)
+![](/Asserts/Images/album/201705/22/223417vcjiczjrpy355p53.jpg)
 
 
 Haroopad 是一个优秀的 Markdown 编辑器，是一个用于创建适宜 Web 的文档的处理器。使用 Haroopad 可以创作各种格式的文档，比如博客文章、幻灯片、演示文稿、报告和电子邮件等。Haroopad 在 Windows、Mac OS X 和 Linux 上均可用。它有 Debian/Ubuntu 的软件包，也有 Windows 和 Mac 的二进制文件。该应用程序使用 node-webkit、CodeMirror，marked，以及 Twitter 的 Bootstrap 。
@@ -135,7 +135,7 @@ Haroo 在韩语中的意思是“一天”。
 ### StackEdit
 
 
-![](/Asserts/Images//attachment/album/201705/22/223447jt1i4azik0w4eb8i.jpg)
+![](/Asserts/Images/album/201705/22/223447jt1i4azik0w4eb8i.jpg)
 
 
 StackEdit 是一个功能齐全的 Markdown 编辑器，基于 PageDown（该 Markdown 库被 Stack Overflow 和其他一些 Stack 交流网站使用）。不同于在这个列表中的其他编辑器，StackEdit 是一个基于 Web 的编辑器。在 Chrome 浏览器上即可使用 StackEdit 。
@@ -162,7 +162,7 @@ StackEdit 是一个功能齐全的 Markdown 编辑器，基于 PageDown（该 Ma
 ### MacDown
 
 
-![](/Asserts/Images//attachment/album/201705/22/223545ezbh49m0b9kzbi98.jpg)
+![](/Asserts/Images/album/201705/22/223545ezbh49m0b9kzbi98.jpg)
 
 
 MacDown 是在这个列表中唯一一个只运行在 macOS 上的全特性编辑器。具体来说，它需要在 OX S 10.8 或更高的版本上才能使用。它在内部使用 Hoedown 将 Markdown 渲染成 HTML，这使得它的特性更加强大。Heodown 是 Sundown 的一个复活复刻。它完全符合标准，无依赖，具有良好的扩展支持和 UTF-8 感知。
@@ -180,7 +180,7 @@ MacDown 基于 Mou，这是专为 Web 开发人员设计的专用解决方案。
 ### ghostwriter
 
 
-![](/Asserts/Images//attachment/album/201705/22/223608iunnnou2w8bbuo1c.jpg)
+![](/Asserts/Images/album/201705/22/223608iunnnou2w8bbuo1c.jpg)
 
 
 ghostwriter 是一个跨平台的、具有美感的、无干扰的 Markdown 编辑器。它内建了 Sundown 处理器支持，还可以自动检测 pandoc、MultiMarkdown、Discount 和 cmark 处理器。它试图成为一个朴实的编辑器。
@@ -201,7 +201,7 @@ ghostwirter 在 Linux 和 Windows 系统上均可用。在 Windows 系统上还�
 ### Abricotine
 
 
-![](/Asserts/Images//attachment/album/201705/22/223649g022sn2xaqffsdp6.jpg)
+![](/Asserts/Images/album/201705/22/223649g022sn2xaqffsdp6.jpg)
 
 
 Abricotine 是一个为桌面构建的、旨在跨平台且开源的 Markdown 编辑器。它在 Linux、OS X 和 Windows 上均可用。
@@ -219,7 +219,7 @@ Abricotine 是一个为桌面构建的、旨在跨平台且开源的 Markdown �
 ### ReText
 
 
-![](/Asserts/Images//attachment/album/201705/22/223720gwxwnw99xmppkkxp.jpg)
+![](/Asserts/Images/album/201705/22/223720gwxwnw99xmppkkxp.jpg)
 
 
 ReText 是一个简单而强大的 Markdown 和 reStructureText 文本编辑器。用户可以控制所有输出的格式。它编辑的文件是纯文本文件，但可以导出为 PDF、HTML 和其他格式的文件。ReText 官方仅支持 Linux 系统。

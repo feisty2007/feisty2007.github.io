@@ -7,7 +7,7 @@ tags:	[linuxcn,SOSReport]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/23/133305accwpsvhk1epsisc.jpg)
+![](/Asserts/Images/album/201905/23/133305accwpsvhk1epsisc.jpg)
 
 
 我们都已经知道 [SOSReport](https://www.2daygeek.com/how-to-create-collect-sosreport-in-linux/)。它用来收集可用于诊断的系统信息。Redhat 的支持服务建议我们在提交案例时提供 SOSReport 来分析当前的系统状态。
@@ -54,7 +54,7 @@ tags:	[linuxcn,SOSReport]
 # curl -Lo ./xsos bit.ly/xsos-direct; chmod +x ./xsos; ./xsos -ya
 ```
 
-![](/Asserts/Images//attachment/album/201905/23/133450t75854qzdunpyrrc.jpg)
+![](/Asserts/Images/album/201905/23/133450t75854qzdunpyrrc.jpg)
 
 
 ### 如何在 Linux 上安装 xsos

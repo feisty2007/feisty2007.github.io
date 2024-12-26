@@ -7,7 +7,7 @@ tags:	[linuxcn,Ncurses]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/30/052558qxq9b12iz8qk8nqh.png)
+![](/Asserts/Images/album/201805/30/052558qxq9b12iz8qk8nqh.png)
 
 
 **GNU Ncurses** 是一个允许用户编写基于文本的用户界面（TUI）的编程库。许多基于文本的游戏都是使用这个库创建的。一个受欢迎的例子是 [PacVim](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/)，这是一款学习 VIM 命令的 CLI 游戏。在这篇简要的指南中，我将解释如何在类 Unix 操作系统中安装 Ncurses 库。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Apache 软件基金会,ASF]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/09/104050dz5x7dyxszxp7ajy.png "Wide open sky and trees")
+![](/Asserts/Images/album/202305/09/104050dz5x7dyxszxp7ajy.png "Wide open sky and trees")
 
 
 作为 <ruby> <a href="https://www.apache.org/">  Apache 软件基金会 </a> <rt>  Apache Software Foundation </rt></ruby>（ASF） 的长期志愿者和导师（以及现任董事会成员）和 Apache 孵化器的副总裁，我很自豪能够提供我对 ASF 运营的独特流程和价值观的见解。

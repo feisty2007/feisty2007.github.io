@@ -7,7 +7,7 @@ tags:	[linuxcn,VS Code,VSCodium]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/23/210544rez2940i0z590669.jpg)
+![](/Asserts/Images/album/202309/23/210544rez2940i0z590669.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,VS Code,VSCodium]
 从外观和功能来看，这两个编辑器是相同的。
 
 
-![VSCodium 与 VS Code 相同](/Asserts/Images//attachment/album/202309/23/210610yaraknw5kipz3d5e.png)
+![VSCodium 与 VS Code 相同](/Asserts/Images/album/202309/23/210610yaraknw5kipz3d5e.png)
 
 
 在 Ubuntu 上安装 VSCodium 有三种方法：
@@ -70,7 +70,7 @@ sudo wget https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/raw/master/pub.gp
 
 ```
 
-![Adding the GPG signature key for VSCodium repository](/Asserts/Images//attachment/album/202309/23/210610soifdjqd3q3m3pz3.png)
+![Adding the GPG signature key for VSCodium repository](/Asserts/Images/album/202309/23/210610soifdjqd3q3m3pz3.png)
 
 
 下一步是将仓库添加到 [你系统的 sources.list 文件](https://itsfoss.com/sources-list-ubuntu/)。这样，你的 Ubuntu 系统就会知道应该从哪里获取包。
@@ -82,7 +82,7 @@ echo 'deb [signed-by=/usr/share/keyrings/vscodium-archive-keyring.asc ] https://
 
 ```
 
-![Adding the VSCodium repo to sources.list](/Asserts/Images//attachment/album/202309/23/210611ojj3jjq67rfbfsqq.png)
+![Adding the VSCodium repo to sources.list](/Asserts/Images/album/202309/23/210611ojj3jjq67rfbfsqq.png)
 
 
 正如你所看到的，该条目中的仓库是由你在其上方添加的密钥签名的。
@@ -109,13 +109,13 @@ sudo apt install codium
 是的，该软件包名为 `codium`，而不是 `vscodium`。
 
 
-![](/Asserts/Images//attachment/album/202309/23/210611mj4jgpq1ffb7b6qj.png)
+![](/Asserts/Images/album/202309/23/210611mj4jgpq1ffb7b6qj.png)
 
 
 很好！ 现在你可以在菜单中查找 “VSCodium” 并从那里启动应用：
 
 
-![](/Asserts/Images//attachment/album/202309/23/210611q6pho6pbmhv1pbvp.png)
+![](/Asserts/Images/album/202309/23/210611q6pho6pbmhv1pbvp.png)
 
 
 现在你可以在 VSCodium 中享受编码的乐趣。
@@ -203,7 +203,7 @@ sudo snap install codium --classic
 等待几秒钟，它会下载 Snap 软件包，然后进行安装。你将在屏幕上看到进度。
 
 
-![](/Asserts/Images//attachment/album/202309/23/210612ht773dkqd6bxz36d.png)
+![](/Asserts/Images/album/202309/23/210612ht773dkqd6bxz36d.png)
 
 
 **你如何 [更新 Snap 版本的 VSCodium](https://itsfoss.com/snap-update/)**？Snap 应用每天自动更新多次。但是，如果应用正在运行，那么不会更新。

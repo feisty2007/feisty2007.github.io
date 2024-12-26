@@ -7,10 +7,10 @@ tags:	[linuxcn,PyTorch,云计算,内存]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/17/185333p3tr2rdaykykx3hn.jpg)
+![](/Asserts/Images/album/202301/17/185333p3tr2rdaykykx3hn.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/17/185342wwz9s3s026gh2shz.jpg)
+![](/Asserts/Images/album/202301/17/185342wwz9s3s026gh2shz.jpg)
 
 
 ### PyTorch 和 Triton 正在打破英伟达 CUDA 的垄断
@@ -35,7 +35,7 @@ tags:	[linuxcn,PyTorch,云计算,内存]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/17/185359qih1na3cia5041x4.jpg)
+![](/Asserts/Images/album/202301/17/185359qih1na3cia5041x4.jpg)
 
 
 ### Basecamp 因巨额账单退出云计算
@@ -60,7 +60,7 @@ Basecamp 的 CTO，也是 Ruby On Rails 的创建者 DHH 介绍了让该公司�
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/17/185407tzpfvicfpq7nhedd.jpg)
+![](/Asserts/Images/album/202301/17/185407tzpfvicfpq7nhedd.jpg)
 
 
 ### 使用了 25 年的笔记本内存规范 SO-DIMM 将被替换

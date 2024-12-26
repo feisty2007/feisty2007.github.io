@@ -15,7 +15,7 @@ tags:	[linuxcn,链接,符号链接]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/13/185626ubb832pphjhlpmly.jpg "Links")
+![](/Asserts/Images/album/202111/13/185626ubb832pphjhlpmly.jpg "Links")
 
 
 UNIX 和 Linux 用户发现链接有很多用途，特别是符号链接。我喜欢使用符号链接的一种方式是管理各种 IT 设备的配置备份。

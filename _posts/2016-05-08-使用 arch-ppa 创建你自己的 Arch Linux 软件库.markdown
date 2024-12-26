@@ -16,7 +16,7 @@ tags:	[linuxcn,软件仓库,Arch Linux,arch-ppa]
 你可以把 arch-ppa 想象成一个 Arch Linux 下的 PPA（<ruby> 个人软件包存档 <rp>  （ </rp> <rt>  Personal Package Archive </rt> <rp>  ） </rp></ruby>），就像 Ubuntu Linux 中常用的各种 PPA 一样。它存放在你自己的本地设备上，也可以放到远程服务器上以便你可以把你的软件包分发给成千上万的 Arch Linux 用户们。
 
 
-![](/Asserts/Images//attachment/album/201605/22/093813qd1gs14oad4dgz0g.jpg)
+![](/Asserts/Images/album/201605/22/093813qd1gs14oad4dgz0g.jpg)
 
 
 ### 因为 AUR 不安全，才有了 arch-ppa

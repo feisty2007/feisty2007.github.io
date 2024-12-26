@@ -15,7 +15,7 @@ tags:	[linuxcn,whereis]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/15/145157dsp3blp6p33646ou.jpg)
+![](/Asserts/Images/album/202301/15/145157dsp3blp6p33646ou.jpg)
 
 
 这篇文章是 [Linux 命令](https://www.debugpoint.com/category/linux-commands) 学习系列的一部分。
@@ -65,7 +65,7 @@ firefox: /usr/bin/firefox /usr/lib64/firefox /etc/firefox /usr/share/man/man1/fi
 
 ```
 
-![Linux 中 whereis 命令的简单例子](/Asserts/Images//attachment/album/202301/15/145205b64cjbza54zpb4ll.jpg)
+![Linux 中 whereis 命令的简单例子](/Asserts/Images/album/202301/15/145205b64cjbza54zpb4ll.jpg)
 
 
 带有选项 `-l` 的命令会显示其搜索的路径列表。比如:

@@ -10,7 +10,7 @@ tags:	[linuxcn,PHP,ionCube Loaders]
 IonCube Loaders是一个PHP中用于加解密的工具，并带有加速页面运行的功能。它也可以保护你的PHP代码不会查看和运行在未授权的计算机上。要使用ionCube编码、加密的PHP文件，需要在web服务器上安装一个叫ionCube Loader的文件，并需要让 PHP 可以访问到，很多 PHP 应用都在用它。它可以在运行时读取并执行编码过后的代码。PHP只需在‘php.ini’中添加一行就可以使用这个loader。
 
 
-![](/Asserts/Images//attachment/album/201510/21/233055hi9wb1mxui9mu9r3.jpg)
+![](/Asserts/Images/album/201510/21/233055hi9wb1mxui9mu9r3.jpg)
 
 
 ### 前提条件
@@ -31,7 +31,7 @@ IonCube Loaders是一个PHP中用于加解密的工具，并带有加速页面�
 
 ```
 
-![download ioncube](/Asserts/Images//attachment/album/201510/21/233122n66rbpdb1tdbpgeb.png)
+![download ioncube](/Asserts/Images/album/201510/21/233122n66rbpdb1tdbpgeb.png)
 
 
 下载完成后用下面的命令解压到“/usr/local/src/"。
@@ -43,7 +43,7 @@ IonCube Loaders是一个PHP中用于加解密的工具，并带有加速页面�
 
 ```
 
-![extracting archive](/Asserts/Images//attachment/album/201510/21/233123ixy4xf3nzjxjddnx.png)
+![extracting archive](/Asserts/Images/album/201510/21/233123ixy4xf3nzjxjddnx.png)
 
 
 解压完成后我们就可以看到所有提供的模块。但是我们只需要我们所安装的PHP版本的对应模块。
@@ -58,7 +58,7 @@ IonCube Loaders是一个PHP中用于加解密的工具，并带有加速页面�
 
 ```
 
-![ioncube modules](/Asserts/Images//attachment/album/201510/21/233123kh5x5h5k3sdhfehm.png)
+![ioncube modules](/Asserts/Images/album/201510/21/233123kh5x5h5k3sdhfehm.png)
 
 
 根据上面的命令我们知道我们安装的是PHP 5.6.4，因此我们需要拷贝合适的模块到PHP模块目录下。
@@ -86,7 +86,7 @@ root@ubuntu-15:/usr/local/src/ioncube# cp ioncube_loader_lin_5.6.so ioncube_load
 
 ```
 
-![ioncube zend extension](/Asserts/Images//attachment/album/201510/21/233124nkidkbm1vv1wkdmk.png)
+![ioncube zend extension](/Asserts/Images/album/201510/21/233124nkidkbm1vv1wkdmk.png)
 
 
 此时我们安装的是nginx，因此我们用下面的命令来重启服务。
@@ -99,7 +99,7 @@ root@ubuntu-15:/usr/local/src/ioncube# cp ioncube_loader_lin_5.6.so ioncube_load
 
 ```
 
-![web services](/Asserts/Images//attachment/album/201510/21/233124zuxx06ucguxx61z0.png)
+![web services](/Asserts/Images/album/201510/21/233124zuxx06ucguxx61z0.png)
 
 
 ### 测试 IonCube Loader
@@ -120,7 +120,7 @@ root@ubuntu-15:/usr/local/src/ioncube# cp ioncube_loader_lin_5.6.so ioncube_load
 你会在最下面的php模块信息里看到下面这段。
 
 
-![php info](/Asserts/Images//attachment/album/201510/21/233125vbcu5c88wf0nkws5.png)
+![php info](/Asserts/Images/album/201510/21/233125vbcu5c88wf0nkws5.png)
 
 
 在终端中运行下面的命令来验证php版本并显示PHP Loader已经启用了。
@@ -132,7 +132,7 @@ root@ubuntu-15:/usr/local/src/ioncube# cp ioncube_loader_lin_5.6.so ioncube_load
 
 ```
 
-![php ioncube loader](/Asserts/Images//attachment/album/201510/21/233125ccebe5kezkcn3kek.png)
+![php ioncube loader](/Asserts/Images/album/201510/21/233125ccebe5kezkcn3kek.png)
 
 
 上面的php版本输出明显地显示了IonCube loader已经成功与PHP集成了。

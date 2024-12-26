@@ -15,7 +15,7 @@ tags:	[linuxcn,elementary OS]
 > 
 
 
-![elementary OS 7 是一个适度的升级，有一些有用的变化](/Asserts/Images//attachment/album/202302/03/171644noopjnzno5z4en2p.jpg)
+![elementary OS 7 是一个适度的升级，有一些有用的变化](/Asserts/Images/album/202302/03/171644noopjnzno5z4en2p.jpg)
 
 
 elementary OS 6.1 是一个令人印象深刻的版本。终于，过去了一年，下一个主要的升级，elementary OS 7 “Horus” 来了。
@@ -40,7 +40,7 @@ elementary OS 6.1 是一个令人印象深刻的版本。终于，过去了一�
 #### 应用中心升级
 
 
-![elementary os 7 appcenter](/Asserts/Images//attachment/album/202302/03/171659g9mmn1vy1dzi6k9w.jpg)
+![elementary os 7 appcenter](/Asserts/Images/album/202302/03/171659g9mmn1vy1dzi6k9w.jpg)
 
 
 在每一次重大的升级中，<ruby> 应用中心 <rt>  AppCenter </rt></ruby>都得到了很大的重视。虽然它已经提供了完美的体验，但它变得越来越好了，更快的性能、更好的调整以适应不同屏幕分辨率或窗口大小。
@@ -49,7 +49,7 @@ elementary OS 6.1 是一个令人印象深刻的版本。终于，过去了一�
 应用的描述是这次的亮点。你可以一次看到应用程序的更多屏幕截图，让你对应用程序有更好的了解。
 
 
-![elementary os 7 appcenter descriptions](/Asserts/Images//attachment/album/202302/03/171700ov92ln2c24gmix6g.png)
+![elementary os 7 appcenter descriptions](/Asserts/Images/album/202302/03/171700ov92ln2c24gmix6g.png)
 
 
 这些图片还包括了图片说明，应该有助于视力有关的残疾用户访问应用程序页面。
@@ -64,7 +64,7 @@ elementary OS 6.1 是一个令人印象深刻的版本。终于，过去了一�
 #### 应用程序更新
 
 
-![elementaryos 7 appcenter app updates](/Asserts/Images//attachment/album/202302/03/171704q78myw2qbkmxrgrm.png)
+![elementaryos 7 appcenter app updates](/Asserts/Images/album/202302/03/171704q78myw2qbkmxrgrm.png)
 
 
 你现在可以选择切换是否要自动更新应用程序。
@@ -88,7 +88,7 @@ elementaryOS 7 应用中心上的应用程序放在其独立的 Flatpak 软件�
 为了告知你这一区别，应用中心会提到一些警告，如 “<ruby> 非策划的 <rt>  Non-Curated </rt></ruby>”，这样你就知道它是来自另一个应用商店。
 
 
-![elementaryos 7 appcenter non-curated app warning](/Asserts/Images//attachment/album/202302/03/171705o8y7d51dwxnd5u95.png)
+![elementaryos 7 appcenter non-curated app warning](/Asserts/Images/album/202302/03/171705o8y7d51dwxnd5u95.png)
 
 
 当你第一次尝试从第三方商店安装一个应用程序时，这样的弹出警告只会出现一次。
@@ -97,7 +97,7 @@ elementaryOS 7 应用中心上的应用程序放在其独立的 Flatpak 软件�
 #### 支持网页应用程序
 
 
-![Elementary os 7 web apps](/Asserts/Images//attachment/album/202302/03/171705pyp15tyxlubtxpxd.png)
+![Elementary os 7 web apps](/Asserts/Images/album/202302/03/171705pyp15tyxlubtxpxd.png)
 
 
 该版本包括 GNOME Web 43，它支持创建网页应用程序，可在应用程序菜单中找到。
@@ -109,7 +109,7 @@ elementaryOS 7 应用中心上的应用程序放在其独立的 Flatpak 软件�
 #### 重新设计的图标
 
 
-![elementaryos new icons](/Asserts/Images//attachment/album/202302/03/171706c717rvo751tt1z77.png)
+![elementaryos new icons](/Asserts/Images/album/202302/03/171706c717rvo751tt1z77.png)
 
 
 elementaryOS 已经被视作最漂亮的 Linux 发行版之一。
@@ -121,7 +121,7 @@ elementaryOS 已经被视作最漂亮的 Linux 发行版之一。
 #### 安装和初次体验
 
 
-![elementary os 7 primary mouse button prompt installation window](/Asserts/Images//attachment/album/202302/03/171707b1l9dxerbdeeieiq.png)
+![elementary os 7 primary mouse button prompt installation window](/Asserts/Images/album/202302/03/171707b1l9dxerbdeeieiq.png)
 
 
 安装体验随着升级而变得更加直接了当。
@@ -133,7 +133,7 @@ elementaryOS 已经被视作最漂亮的 Linux 发行版之一。
 安装程序现在可以提示你选择左键或右键设置为鼠标的主按钮。
 
 
-![elementaryos automatic updates toggle onboarding screen](/Asserts/Images//attachment/album/202302/03/171708ch9qp62vlk2y699z.png)
+![elementaryos automatic updates toggle onboarding screen](/Asserts/Images/album/202302/03/171708ch9qp62vlk2y699z.png)
 
 
 从系统主题偏好到自动更新，你可以在安装后直接配置所有必要的东西。
@@ -142,7 +142,7 @@ elementaryOS 已经被视作最漂亮的 Linux 发行版之一。
 #### 新的音乐多媒体应用程序
 
 
-![elementartyos music 7 app](/Asserts/Images//attachment/album/202302/03/171708v3cq7iif98if998u.jpg)
+![elementartyos music 7 app](/Asserts/Images/album/202302/03/171708v3cq7iif98if998u.jpg)
 
 
 为了提供更好的多媒体体验，该音乐应用程序已经从头开始完全重写，在各种使用情况下都能很好地工作。

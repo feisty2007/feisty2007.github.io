@@ -7,10 +7,10 @@ tags:	[linuxcn,磁盘,ERP,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/07/172916aoo0qyaibzb7iqqk.jpg)
+![](/Asserts/Images/album/202309/07/172916aoo0qyaibzb7iqqk.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/07/172927ccctoctamgaotgst.jpg)
+![](/Asserts/Images/album/202309/07/172927ccctoctamgaotgst.jpg)
 
 
 ### 12 家丰田工厂全部停工的原因是——磁盘满了
@@ -35,7 +35,7 @@ tags:	[linuxcn,磁盘,ERP,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/07/172939yg0kk0cdq3krfcqm.jpg)
+![](/Asserts/Images/album/202309/07/172939yg0kk0cdq3krfcqm.jpg)
 
 
 ### 严重超支的甲骨文 ERP 系统压倒了伯明翰市政府
@@ -60,7 +60,7 @@ tags:	[linuxcn,磁盘,ERP,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/07/172956jsvdzarf1r3n7rfv.jpg)
+![](/Asserts/Images/album/202309/07/172956jsvdzarf1r3n7rfv.jpg)
 
 
 ### 一家 3D AI 初创公司实际上是由人类手动建模

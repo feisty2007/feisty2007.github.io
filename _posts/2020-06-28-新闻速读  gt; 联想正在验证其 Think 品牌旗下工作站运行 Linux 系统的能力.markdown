@@ -7,7 +7,7 @@ tags:	[linuxcn,联想,密码,隐私]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/03/131101i5ug0t11k9kycea8.jpg)
+![](/Asserts/Images/album/202006/03/131101i5ug0t11k9kycea8.jpg)
 
 
 #### 联想正在验证其 Think 品牌旗下工作站运行 Linux 系统的能力

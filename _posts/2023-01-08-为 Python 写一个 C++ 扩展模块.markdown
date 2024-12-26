@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,扩展]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/02/173501o26htajatlpj0lqt.jpg)
+![](/Asserts/Images/album/202301/02/173501o26htajatlpj0lqt.jpg)
 
 
 
@@ -203,7 +203,7 @@ PyObject *MyClass_new(PyTypeObject *type, PyObject *args, PyObject *kwds){
 
 ```
 
-实际的初始化发生在 `MyClass_init` 中，它对应于 Python 中的 [\_\_init\_\_()](https://docs.python.org/3/library/Asserts/Images/classes.html?highlight=__init__) 方法：
+实际的初始化发生在 `MyClass_init` 中，它对应于 Python 中的 [\_\_init\_\_()](https://docs.python.org/3/library/dataclasses.html?highlight=__init__) 方法：
 
 
 
@@ -280,7 +280,7 @@ PyObject* MyClass_addOne(PyObject *self, PyObject *args){
 当然，老式的 [GNU 调试器（GDB）](https://opensource.com/article/21/3/debug-code-gdb) 也可以派上用场。源码中包含了一个 [gdbinit](https://github.com/hANSIc99/PythonCppExtension/blob/main/gdbinit) 文件，定义了一些选项和断点，另外还有一个 [gdb.sh](https://github.com/hANSIc99/PythonCppExtension/blob/main/gdb.sh) 脚本，它会创建一个调试构建并启动一个 GDB 会话：
 
 
-![Gnu 调试器（GDB）对于 Python C 和 C++ 扩展非常有用](/Asserts/Images//attachment/album/202301/02/173519zsbmmmlmfbksttbo.png)
+![Gnu 调试器（GDB）对于 Python C 和 C++ 扩展非常有用](/Asserts/Images/album/202301/02/173519zsbmmmlmfbksttbo.png)
 
 
 GDB 使用脚本文件 [main.py](https://github.com/hANSIc99/PythonCppExtension/blob/main/main.py) 调用 CPython 解释器，它允许你轻松定义你想要使用 Python 扩展模块执行的所有操作。
@@ -337,7 +337,7 @@ int main(int argc, char *argv[], char *envp[])
 使用像 [CodeLLDB](https://github.com/vadimcn/vscode-lldb) 这样的调试器扩展可能是最方便的调试选项。仓库包含了一些 VSCode/VSCodium 的配置文件，用于构建扩展，如 [task.json](https://github.com/hANSIc99/PythonCppExtension/blob/main/.vscode/tasks.json)、[CMake Tools](https://github.com/microsoft/vscode-cmake-tools) 和调用调试器（[launch.json](https://github.com/hANSIc99/PythonCppExtension/blob/main/.vscode/launch.json)）。这种方法结合了前面几种方法的优点：在图形 IDE 中调试，在 Python 脚本文件中定义操作，甚至在解释器提示符中动态定义操作。
 
 
-![VSCodium 有一个集成的调试器。](/Asserts/Images//attachment/album/202301/02/173519c6idmm5m1inmim11.png)
+![VSCodium 有一个集成的调试器。](/Asserts/Images/album/202301/02/173519c6idmm5m1inmim11.png)
 
 
 ### 用 C++ 扩展 Python

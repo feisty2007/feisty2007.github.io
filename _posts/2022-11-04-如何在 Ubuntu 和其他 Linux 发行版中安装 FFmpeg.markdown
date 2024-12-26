@@ -7,7 +7,7 @@ tags:	[linuxcn,FFmpeg]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/19/162251wxt2kaajvvayar8c.jpg)
+![](/Asserts/Images/album/202211/19/162251wxt2kaajvvayar8c.jpg)
 
 
 
@@ -106,7 +106,7 @@ ffmpeg --version
 
 ```
 
-![Ubuntu Linux 中安装的 FFmpeg](/Asserts/Images//attachment/album/202211/19/162301dqqqxqsu2926wtdz.jpg)
+![Ubuntu Linux 中安装的 FFmpeg](/Asserts/Images/album/202211/19/162301dqqqxqsu2926wtdz.jpg)
 
 
 ### 示例：ffmpeg 的基础用法
@@ -182,7 +182,7 @@ D..... = Decoding supported
 
 ```
 
-![FFmpeg 编解码器列表](/Asserts/Images//attachment/album/202211/19/162301xtkdtt0fzkqyjfyp.jpg)
+![FFmpeg 编解码器列表](/Asserts/Images/album/202211/19/162301xtkdtt0fzkqyjfyp.jpg)
 
 
 #### 列出所有编码器

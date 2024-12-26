@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,KDE,加密货币]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/04/164733e2782dsy2b17bjbi.jpg)
+![](/Asserts/Images/album/202201/04/164733e2782dsy2b17bjbi.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/04/164742a9h5ph6d95jhiph1.jpg)
+![](/Asserts/Images/album/202201/04/164742a9h5ph6d95jhiph1.jpg)
 
 
 ### Linux 内核 2021 年成绩总结
@@ -27,7 +27,7 @@ Linux 内核的代码仓库已经有 106 万次提交，来自约 24.3 万个不
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/04/164751rudjlhg305kzru3u.jpg)
+![](/Asserts/Images/album/202201/04/164751rudjlhg305kzru3u.jpg)
 
 
 ### KDE 发布 2022 年路线图
@@ -54,7 +54,7 @@ KDE 2021 年的路线图已经顺利完成，现在发布了新的 [2022 年路�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/04/164838dg68581jygyykyx5.jpg)
+![](/Asserts/Images/album/202201/04/164838dg68581jygyykyx5.jpg)
 
 
 ### Mozilla 创始人臭骂 Mozilla 基金会接受加密货币支付

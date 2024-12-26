@@ -7,7 +7,7 @@ tags:	[linuxcn,Go]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/09/000738div64l4tidkdv6vj.png)
+![](/Asserts/Images/album/201902/09/000738div64l4tidkdv6vj.png)
 
 
 （以下内容是我的硕士论文的摘录，几乎是整个 2.1 章节，向具有 CS 背景的人快速介绍 Go）

@@ -7,7 +7,7 @@ tags:	[linuxcn,Go]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/24/215524k9caxmcp8c3ppa39.jpg)
+![](/Asserts/Images/album/201706/24/215524k9caxmcp8c3ppa39.jpg)
 
 
 我们公司 [Mobile Jazz](http://mobilejazz.com/) 从一个内部试验性项目开始使用 [Go](https://golang.org/)。如公司名暗示的那样，我们是开发移动应用的。
@@ -91,7 +91,7 @@ GORM 的一个主要问题是 Go 的生态系统。作为一个新语言，自�
 ### 开发者工具
 
 
-![](/Asserts/Images//attachment/album/201706/24/215525vf6x2ifni4i2jwwf.jpg)
+![](/Asserts/Images/album/201706/24/215525vf6x2ifni4i2jwwf.jpg)
 
 
 由于 Go 是一门相对新的语言，你或许发现相比其他成熟的语言像 Java，它可用的开发工具并不很好。当我们开始 Bugfender 时，使用任何 IDE 都很困难，似乎没有 IDE 支持 Go。但是在过去的一年中，随着 [IntelliJ](https://plugins.jetbrains.com/plugin/5047-go) 和 [Visual Studio Code Go](https://github.com/Microsoft/vscode-go) 插件的引入，这一切改善了很多。

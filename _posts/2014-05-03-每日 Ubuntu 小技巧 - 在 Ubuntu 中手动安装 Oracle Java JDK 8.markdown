@@ -13,7 +13,7 @@ tags:	[linuxcn,Ubunut,Java]
 这种方法不需要依赖于第三方的源仓库。你只需要从 Oracle 的官方下载页直接下载，然后安装就行。
 
 
-![](/Asserts/Images//attachment/album/201405/13/221944ndsl9yak620kt29y.png)
+![](/Asserts/Images/album/201405/13/221944ndsl9yak620kt29y.png)
 
 
 JDK 8 是一个重要的发行版本，也加入了最新的叫做 Lambda 表达式的新语言功能，此功能可以“把函数用作方法参数，或者代码块当作日期数据使用”。
@@ -37,7 +37,7 @@ JDK 8 是一个重要的发行版本，也加入了最新的叫做 Lambda 表达
 下载文件，保存。在 Ubuntu 系统中 Firefox 浏览器会默认保存到 **~/Downloads** 目录下。
 
 
-![oracle-jdk8-ubuntu ](/Asserts/Images//attachment/album/201405/13/221948negl6igpeebzxzne.png)
+![oracle-jdk8-ubuntu ](/Asserts/Images/album/201405/13/221948negl6igpeebzxzne.png)
 
 
 第二步，打开终端运行如下命令来解压下载的文件。

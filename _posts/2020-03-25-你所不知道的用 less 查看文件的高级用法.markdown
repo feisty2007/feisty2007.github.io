@@ -15,7 +15,7 @@ tags:	[linuxcn,more,less]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/16/152826assmtybsohopo4b7.png)
+![](/Asserts/Images/album/202003/16/152826assmtybsohopo4b7.png)
 
 
 最近，我正在拜读 Scott Nesbitt 的文章《[在 Linux 命令行中使用 less 来查看文本文件](http://opensource.com/article/18/4/using-less-view-text-files-command-line)》，并受到了一些启发，所以我想分享一些使用 `less` 命令的技巧。

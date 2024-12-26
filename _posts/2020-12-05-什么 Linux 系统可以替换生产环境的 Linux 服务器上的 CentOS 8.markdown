@@ -25,7 +25,7 @@ CentOS 是世界上最流行的服务器发行版之一。它是<ruby> 红帽企
 ### 基于 RHEL 的服务器 Linux 发行版，你可以考虑用来取代 CentOS
 
 
-![](/Asserts/Images//attachment/album/202012/15/114910aykqmq8kfknvekv4.png)
+![](/Asserts/Images/album/202012/15/114910aykqmq8kfknvekv4.png)
 
 
 我将从一些正在开发的 RHEL 分支版本开始列举，其唯一目的是取代 CentOS 8。之后，我会列出你可以马上使用的服务器发行版。
@@ -34,7 +34,7 @@ CentOS 是世界上最流行的服务器发行版之一。它是<ruby> 红帽企
 #### Rocky Linux（正在开发中）
 
 
-![](/Asserts/Images//attachment/album/202012/15/114910rjdo3cx35acxx5f5.png)
+![](/Asserts/Images/album/202012/15/114910rjdo3cx35acxx5f5.png)
 
 
 就在红帽宣布计划用滚动发布的 CentOS Stream 取代稳定的 CentOS 8 的同一天，CentOS 的原开发者宣布了一个新项目，为 CentOS 用户提供 RHEL 分支。
@@ -49,7 +49,7 @@ CentOS 是世界上最流行的服务器发行版之一。它是<ruby> 红帽企
 #### Lenix 项目（开发中）
 
 
-![](/Asserts/Images//attachment/album/202012/15/114910d8cehixxy8qe8z3e.png)
+![](/Asserts/Images/album/202012/15/114910d8cehixxy8qe8z3e.png)
 
 
 这是在宣布 CentOS Stream 成为默认版本一天后创建的又一个 RHEL 分支。
@@ -61,7 +61,7 @@ CentOS 是世界上最流行的服务器发行版之一。它是<ruby> 红帽企
 #### Oracle Linux
 
 
-![](/Asserts/Images//attachment/album/202012/15/114910bzxmypf61yvn6mcf.png)
+![](/Asserts/Images/album/202012/15/114910bzxmypf61yvn6mcf.png)
 
 
 这可能是该列表中唯一能以最佳方式使用的 RHEL 分支。不仅可以随时使用，你甚至可以[从现有的 CentOS 安装迁移到 Oracle Linux](https://github.com/oracle/centos2ol)，而无需重新安装。
@@ -79,7 +79,7 @@ Oracle Linux 有两种 Linux 内核可供选择：Oracle Linux 的<ruby> <a href
 #### ClearOS（来自惠普）
 
 
-![](/Asserts/Images//attachment/album/202012/15/114910vt6nyb8yy8mi7l67.jpg)
+![](/Asserts/Images/album/202012/15/114910vt6nyb8yy8mi7l67.jpg)
 
 
 [ClearOS](https://www.clearos.com) 是惠普在其 HPE ProLiant 服务器上提供的。虽然他们的网站上没有明确提到，但 ClearOS 是基于 RHEL 和 CentOS 的。
@@ -94,7 +94,7 @@ Oracle Linux 有两种 Linux 内核可供选择：Oracle Linux 的<ruby> <a href
 #### Springdale Linux（普林斯顿大学的学术项目）
 
 
-![](/Asserts/Images//attachment/album/202012/15/114910k2swws1n505x4sc2.png)
+![](/Asserts/Images/album/202012/15/114910k2swws1n505x4sc2.png)
 
 
 一个由院士维护的红帽分支？这就是 Scientific Linux 吧？但 Scientific Linux 已经死了一年多了。
@@ -115,7 +115,7 @@ Oracle Linux 有两种 Linux 内核可供选择：Oracle Linux 的<ruby> <a href
 #### YunoHost（专门为 Web 服务器定制的）
 
 
-![](/Asserts/Images//attachment/album/202012/15/114910ik5wa5c9accbad65.png)
+![](/Asserts/Images/album/202012/15/114910ik5wa5c9accbad65.png)
 
 
 [YunoHost](https://yunohost.org#/) 是基于 Debian 定制的，目的是为你提供一个托管 Web 服务器的系统。
@@ -130,7 +130,7 @@ YunoHost 还提供了一个基于 Web 的管理界面（灵感来自于 [Webmin]
 #### Debian Linux
 
 
-![](/Asserts/Images//attachment/album/202012/15/114910ajrfb3jccqbujrz4.png)
+![](/Asserts/Images/album/202012/15/114910ajrfb3jccqbujrz4.png)
 
 
 这个通用操作系统提供了一个坚如磐石的服务器发行版。对于那些想要一个稳定系统的人来说，是一个理想的选择。
@@ -142,7 +142,7 @@ YunoHost 还提供了一个基于 Web 的管理界面（灵感来自于 [Webmin]
 #### openSUSE
 
 
-![](/Asserts/Images//attachment/album/202012/15/114911azehtmqbwmownieo.jpg)
+![](/Asserts/Images/album/202012/15/114911azehtmqbwmownieo.jpg)
 
 
 SUSE 是红帽的直接竞争对手之一。他们以 [SUSE Linux Enterprise](https://www.suse.com/download/sles/) 的形式提供企业级产品。他们的开源产品 openSUSE 也相当受欢迎，无论是在桌面还是服务器领域。
@@ -157,7 +157,7 @@ openSUSE 有两种形式：滚动发布的 Tumbleweed 和稳定的点发布版�
 #### Ubuntu
 
 
-![](/Asserts/Images//attachment/album/202012/15/114911id7hoq4qd54kv5oa.jpg)
+![](/Asserts/Images/album/202012/15/114911id7hoq4qd54kv5oa.jpg)
 
 
 [Ubuntu](https://ubuntu.com/download/server) 是世界上最流行的发行版，[在服务器上](https://www.datanyze.com/market-share/operating-systems--443/ubuntu-market-share)和台式机上都是如此。这就是为什么没有 Ubuntu 这份清单就不完整的原因。

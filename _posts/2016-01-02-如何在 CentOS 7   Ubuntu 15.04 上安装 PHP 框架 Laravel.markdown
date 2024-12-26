@@ -10,7 +10,7 @@ tags:	[linuxcn,PHP,Laravel]
 大家好，这篇文章将要讲述如何在 CentOS 7 / Ubuntu 15.04 上安装 Laravel。如果你是一个 PHP Web 的开发者，你并不需要考虑如何在琳琅满目的现代 PHP 框架中选择，Laravel 是最轻松启动和运行的，它省时省力，能让你享受到 web 开发的乐趣。Laravel 信奉着一个普世的开发哲学，通过简单的指导创建出可维护代码是最优先的，你将保持着高速的开发效率，能够随时毫不畏惧更改你的代码来改进现有功能。
 
 
-![](/Asserts/Images//attachment/album/201601/05/222650yc2k7ir5tajkgkic.png)
+![](/Asserts/Images/album/201601/05/222650yc2k7ir5tajkgkic.png)
 
 
 Laravel 安装并不繁琐，你只要跟着本文章一步步操作就能在 CentOS 7 或者 Ubuntu 15 服务器上安装。
@@ -134,7 +134,7 @@ Laravel 安装程序需要完成安装 LAMP 整个环境，需要额外安装 Op
 
 ```
 
-![composer installation](/Asserts/Images//attachment/album/201601/05/222706i5qd2tdxkxh42vqa.png)
+![composer installation](/Asserts/Images/album/201601/05/222706i5qd2tdxkxh42vqa.png)
 
 
 ### 5) 安装 Laravel
@@ -170,7 +170,7 @@ Laravel 安装程序需要完成安装 LAMP 整个环境，需要额外安装 Op
 
 ```
 
-![compose laravel](/Asserts/Images//attachment/album/201601/05/222706wa69walujdhjdalj.png)
+![compose laravel](/Asserts/Images/album/201601/05/222706wa69walujdhjdalj.png)
 
 
 ### 6) 密钥
@@ -196,7 +196,7 @@ Application key [Lf54qK56s3qDh0ywgf9JdRxO2N0oV9qI] set successfully
 
 ```
 
-![Key encryption](/Asserts/Images//attachment/album/201601/05/222707ijwgnbcjn15b1eow.png)
+![Key encryption](/Asserts/Images/album/201601/05/222707ijwgnbcjn15b1eow.png)
 
 
 ### 7) 虚拟主机和所属用户
@@ -265,7 +265,7 @@ DocumentRoot /var/www/laravel/public
 打开浏览器然后输入你配置的 IP 地址或者<ruby> 完整域名 <rp>  （ </rp> <rt>  Fully qualified domain name </rt> <rp>  ） </rp></ruby>你将会看到 Laravel 5 的默认页面。
 
 
-![Laravel Default](/Asserts/Images//attachment/album/201601/05/222707heel2t01l60bbta0.png)
+![Laravel Default](/Asserts/Images/album/201601/05/222707heel2t01l60bbta0.png)
 
 
 ### 总结

@@ -7,7 +7,7 @@ tags:	[linuxcn,rm,回收站,删除]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/19/082815fwwwcsw5600z7zkw.jpg)
+![](/Asserts/Images/album/201809/19/082815fwwwcsw5600z7zkw.jpg)
 
 
 相信每个人都对<ruby> 回收站 <rt>  trashcan </rt></ruby>很熟悉，因为无论是对 Linux 用户，还是 Windows 用户，或者 Mac 用户来说，它都很常见。当你删除一个文件或目录的时候，该文件或目录会被移动到回收站中。

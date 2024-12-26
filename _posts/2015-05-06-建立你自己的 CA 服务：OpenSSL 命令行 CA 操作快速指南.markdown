@@ -13,7 +13,7 @@ tags:	[linuxcn,CA,证书]
 我们将建立我们自己的根 CA，我们将使用根 CA 来生成一个中间 CA 的例子，我们将使用中间 CA 来签署末端用户证书。
 
 
-![](/Asserts/Images//attachment/album/201505/14/002424qm1ntrmmr1m15azf.jpg)
+![](/Asserts/Images/album/201505/14/002424qm1ntrmmr1m15azf.jpg)
 
 
 ### 根 CA

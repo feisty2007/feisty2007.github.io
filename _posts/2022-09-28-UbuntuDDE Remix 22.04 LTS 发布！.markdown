@@ -15,7 +15,7 @@ tags:	[linuxcn,深度,UbuntuDDE]
 > 
 
 
-![UbuntuDDE Remix 22.04 LTS Released!](/Asserts/Images//attachment/album/202209/27/154509cqjpdjp0ue3lp0eo.png)
+![UbuntuDDE Remix 22.04 LTS Released!](/Asserts/Images/album/202209/27/154509cqjpdjp0ue3lp0eo.png)
 
 
 UbuntuDDE Remix 是一个在 Ubuntu 之上集成深度桌面环境（DDE）的发行版。不想尝试深度发行版但喜欢其用户界面的用户可以尝试一下。
@@ -39,7 +39,7 @@ UbuntuDDE Remix 是一个在 Ubuntu 之上集成深度桌面环境（DDE）的�
 ### DDE 全局搜索
 
 
-![ubuntudde remix 22.04 grand search](/Asserts/Images//attachment/album/202209/27/154509c8o7oxosj3kx5xbo.png)
+![ubuntudde remix 22.04 grand search](/Asserts/Images/album/202209/27/154509c8o7oxosj3kx5xbo.png)
 
 
 他们称之为 “DDE 全局搜索”，这是一个快速应用启动器。
@@ -60,7 +60,7 @@ UbuntuDDE Remix 是一个在 Ubuntu 之上集成深度桌面环境（DDE）的�
 ### 重新设计的新安装程序
 
 
-![ubuntudde remix 22.04 installer](/Asserts/Images//attachment/album/202209/27/154510yhxt4vtquv5nxtn1.png)
+![ubuntudde remix 22.04 installer](/Asserts/Images/album/202209/27/154510yhxt4vtquv5nxtn1.png)
 
 
 UbuntuDDE Remix 上的安装程序似乎从 [Qt 安装程序框架](https://doc.qt.io/qtinstallerframework/ifw-overview.html) 的书中吸取了一些经验，在 Calamares 安装程序中提供了基于 Qt 的样式，并有一个非常熟悉的布局，可以毫不费力地安装发行版的所有常规选项。
@@ -69,7 +69,7 @@ UbuntuDDE Remix 上的安装程序似乎从 [Qt 安装程序框架](https://doc.
 ### 新壁纸
 
 
-![ubuntudde remix 22.04 new wallpapers](/Asserts/Images//attachment/album/202209/27/154510q01011s7rbq7dd91.png)
+![ubuntudde remix 22.04 new wallpapers](/Asserts/Images/album/202209/27/154510q01011s7rbq7dd91.png)
 
 
 该版本还包括许多新壁纸供你使用。

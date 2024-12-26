@@ -18,7 +18,7 @@ tags:	[linuxcn,开源软件]
 > 
 
 
-![](/Asserts/Images//attachment/album/201712/16/000842naa44ssa740ab65r.jpg)
+![](/Asserts/Images/album/201712/16/000842naa44ssa740ab65r.jpg)
 
 
 [指责开源软件总是离奇难用已经不是一个新论点了](http://blog.bitquabit.com/2009/06/30/one-which-i-say-open-source-software-sucks/)；这样的论点之前就被很多比我更为雄辩的人提及过，甚至是出自一些人非常推崇开源软件的人士口中。那么为什么我要在这里老调重弹呢？

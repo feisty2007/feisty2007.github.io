@@ -7,7 +7,7 @@ tags:	[linuxcn,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/10/105518qo2z2ff0hshtbd2n.jpg)
+![](/Asserts/Images/album/202205/10/105518qo2z2ff0hshtbd2n.jpg)
 
 
 Inspector 是一个可视化的交互式数据探索软件，能够对海量数据进行分析并提取相关信息，可用于预测性维修、网络安全、控制、机器学习算法分析等。

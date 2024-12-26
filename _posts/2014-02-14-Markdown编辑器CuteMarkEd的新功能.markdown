@@ -7,7 +7,7 @@ tags:	[linuxcn,Markdown,CuteMarkEd,QT,文本,编辑器,HTML,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/201402/12/221101wdkv87g87022s7kg.png)
+![](/Asserts/Images/album/201402/12/221101wdkv87g87022s7kg.png)
 
 
 **CuteMarkEd 0.9.0 是一个基于QT，免费开源带实时HTML预览的markdown编辑器，目前已经释出并已提供下载了。**

@@ -13,7 +13,7 @@ Prey是一款跨平台的开源工具，可以帮助你找回被盗的笔记本�
 Prey占用很小的系统资源；你不会对你的设备运行有任何影响。你也可以配合其他你已经在设备上安装的防盗软件使用。Prey在你的设备与Prey服务器之间采用安全加密的通道进行数据传输。
 
 
-![](/Asserts/Images//attachment/album/201505/09/222242k1bqi6shsb7zzaix.jpg)
+![](/Asserts/Images/album/201505/09/222242k1bqi6shsb7zzaix.jpg)
 
 
 ### 在Ubuntu上安装并配置Prey
@@ -31,10 +31,10 @@ sudo apt-get install prey
 
 ```
 
-![Install Prey](/Asserts/Images//attachment/album/201505/09/222304yng42gnykmn4mpx6.png)
+![Install Prey](/Asserts/Images/album/201505/09/222304yng42gnykmn4mpx6.png)
 
 
-![Install Prey 1](/Asserts/Images//attachment/album/201505/09/222305d1ds61sl444z51dz.png)
+![Install Prey 1](/Asserts/Images/album/201505/09/222305d1ds61sl444z51dz.png)
 
 
 Prey是十分轻巧的软件，只使用了系统几兆的空间，安装完成后，从Application >> Prey启动，之后它会询问你进行相关配置。
@@ -43,49 +43,49 @@ Prey是十分轻巧的软件，只使用了系统几兆的空间，安装完成�
 选择“New User”，如果你是第一次使用的话。
 
 
-![Prey New User](/Asserts/Images//attachment/album/201505/09/222306i83ackqrxaxbyzkw.png)
+![Prey New User](/Asserts/Images/album/201505/09/222306i83ackqrxaxbyzkw.png)
 
 
 第二步实际上就是官网注册的流程。请提供你的用户名，邮箱地址和密码，来申清一个免费的账号。
 
 
-![Register Prey](/Asserts/Images//attachment/album/201505/09/222306g2a0y0yy9qo7j89o.png)
+![Register Prey](/Asserts/Images/album/201505/09/222306g2a0y0yy9qo7j89o.png)
 
 
 点击“Apply”完成，所有工作搞定，现在你的计算机被Prey保护了。
 
 
-![Prey Configuration](/Asserts/Images//attachment/album/201505/09/222307n1181mz1p5pfo3f3.png)
+![Prey Configuration](/Asserts/Images/album/201505/09/222307n1181mz1p5pfo3f3.png)
 
 
 登录你最新建立的[Prey 账号](https://preyproject.com/)，你就应该可以在“Devices”菜单下看见你的设备信息了。
 
 
-![Prey Web Login](/Asserts/Images//attachment/album/201505/09/222308y05kl9k1cl9k88i4.png)
+![Prey Web Login](/Asserts/Images/album/201505/09/222308y05kl9k1cl9k88i4.png)
 
 
 只要你的笔记本或者任何其他设备丢失了，就登录你的Prey网站账号，然后点击“Set Device to Missing”选项修改设备状态为“missing”。
 
 
-![Prey Missing Page](/Asserts/Images//attachment/album/201505/09/222309s591i615a9m66d9h.png)
+![Prey Missing Page](/Asserts/Images/album/201505/09/222309s591i615a9m66d9h.png)
 
 
 从这里选择定时报告，并点击“Yes，my device is missing”。定时报告选项是指一段时间间隔后，软件会更新并发送给你设备的地理位置。它还会从网页界面那发邮件给你，只要设备的状态改变了。
 
 
-![Prey Missing Email](/Asserts/Images//attachment/album/201505/09/222309nt7qx4c81q5yb8v6.png)
+![Prey Missing Email](/Asserts/Images/album/201505/09/222309nt7qx4c81q5yb8v6.png)
 
 
 而一旦被盗的设备接入了互联网，Prey就会马上发送报告给你，包括设备的地理位置和IP地址。
 
 
-![Prey Found Report](/Asserts/Images//attachment/album/201505/09/222310naohrz3oxhra3r7u.png)
+![Prey Found Report](/Asserts/Images/album/201505/09/222310naohrz3oxhra3r7u.png)
 
 
 点击报告链接，你应该会看到设备的地理位置和IP地址。
 
 
-![Prey Final](/Asserts/Images//attachment/album/201505/09/222311lhh3zhyc3jhqulhp.png)
+![Prey Final](/Asserts/Images/album/201505/09/222311lhh3zhyc3jhqulhp.png)
 
 
 Prey有一个明显的不足。它需要你的设备接入互联网才会发送地理位置给你，如果小偷比较聪明，在接入网络前将你的设备磁盘格式化了，那么你就永远不会收到设备被发现的报告了。但是这里仍然是有一个方法克服这个不足，确保添加一个BIOS密码，并且禁用从可移除的设备里启动系统。

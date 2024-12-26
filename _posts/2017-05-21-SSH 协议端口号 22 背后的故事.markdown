@@ -166,7 +166,7 @@ service iptables save
 
 ```
 
-![防火墙开启 SSH 端口可以让我挖隧道去银行](/Asserts/Images//attachment/album/201705/04/161522a4529o95m6i5maaq.png)
+![防火墙开启 SSH 端口可以让我挖隧道去银行](/Asserts/Images/album/201705/04/161522a4529o95m6i5maaq.png)
 
 
 

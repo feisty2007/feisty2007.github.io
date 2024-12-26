@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,慕尼黑,Ubuntu,LiMux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/17/142905xwygvq8kdt36y3bt.jpg)
+![](/Asserts/Images/album/201407/17/142905xwygvq8kdt36y3bt.jpg)
 
 
 **慕尼黑这座城市已经成为了从微软产品转向开源的，最突出的城市管理案例之一，而且Canonical公司和ubuntu为这次变革起了很大的作用。**

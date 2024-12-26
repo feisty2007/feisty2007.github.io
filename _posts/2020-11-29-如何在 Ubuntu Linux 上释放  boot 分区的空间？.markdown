@@ -19,7 +19,7 @@ tags:	[linuxcn,分区,boot]
 ### 如何在 Ubuntu 上释放 /boot 分区的空间
 
 
-![](/Asserts/Images//attachment/album/202011/02/095501aw19x0xb14fxexue.jpg)
+![](/Asserts/Images/album/202011/02/095501aw19x0xb14fxexue.jpg)
 
 
 我建议你仔细阅读这些解决方案，并由此得出最适合你情况的解决方案。解决方案的操作很容易，但是你需要在你的生产力系统上小心的执行这些解决方案。
@@ -49,7 +49,7 @@ sudo apt autoremove
 这里是它应该看起来的样子:
 
 
-![](/Asserts/Images//attachment/album/202011/02/095503y7zp3160n7zoiuw9.jpg)
+![](/Asserts/Images/album/202011/02/095503y7zp3160n7zoiuw9.jpg)
 
 
 你必须按 `Y` 按键来继续。
@@ -79,7 +79,7 @@ uname -r
 [uname 命令通常用于获取 Linux 系统信息](https://linuxhandbook.com/uname/)。在这里，这个命令显示当前正在被使用的 Linux 内核。它看起来应该是这样:
 
 
-![](/Asserts/Images//attachment/album/202011/02/095528dzbz9b9396t9ghtb.jpg)
+![](/Asserts/Images/album/202011/02/095528dzbz9b9396t9ghtb.jpg)
 
 
 现在，你已经知道你当前的 Linux 内核是什么，你必须移除一个不同于这个版本的内核。你应该把它记录在某些地方，以便你不会不知不觉地移除它。
@@ -108,7 +108,7 @@ uname -r
 首先，你需要启动 Stacer ，然后导航到软件包卸载器，如下面屏幕截图所示。
 
 
-![](/Asserts/Images//attachment/album/202011/02/095530e51sjzsp5cqw4ssp.jpg)
+![](/Asserts/Images/album/202011/02/095530e51sjzsp5cqw4ssp.jpg)
 
 
 在这里，搜索 “image” ，你将找到你所拥有的 Linux 内核。你只需要删除旧内核版本的镜像，而不是当前内核的镜像。
@@ -123,7 +123,7 @@ uname -r
 同样的，只需要在软件包列表中搜索 “headers” ，并删除如下显示的旧的 “headers” 版本。
 
 
-![](/Asserts/Images//attachment/album/202011/02/095318mhdv5es3qqqqozao.png)
+![](/Asserts/Images/album/202011/02/095318mhdv5es3qqqqozao.png)
 
 
 作为提醒，你 **不会希望移除 `linux-headers-generic`** 。只关注一下那些与其相关的有版本号的就行。
@@ -150,7 +150,7 @@ ls -l /boot
 它应该看起来像这样:
 
 
-![](/Asserts/Images//attachment/album/202011/02/095437ww33c33u3ssy5quz.png)
+![](/Asserts/Images/album/202011/02/095437ww33c33u3ssy5quz.png)
 
 
 标记为 “old” 的内核，或者不匹配你当前内核版本，都是未使用的内核，你可以删除它们。

@@ -15,7 +15,7 @@ tags:	[linuxcn,VisionFive,RISC-V]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/11/234547psmor78hy78bssju.jpg)
+![](/Asserts/Images/album/202305/11/234547psmor78hy78bssju.jpg)
 
 
 自树莓派和 Arduino 等问世以来，单板计算机（SBC）因其相对紧凑的体积和各种不同的处理能力水平，而受到越来越多创客和爱好者的青睐。
@@ -33,7 +33,7 @@ tags:	[linuxcn,VisionFive,RISC-V]
 由此产生的结果是，其最新旗舰产品赛昉 VisionFive 2 可以运行 Ubuntu。这是一款由 RISC-V 驱动的 SBC，可实现强大的功能，而且还配备了一块 GPU，以支持 3D 任务。
 
 
-![赛昉 VisionFive 2](/Asserts/Images//attachment/album/202305/11/234732hnzqkqnbn36qzsd8.png)
+![赛昉 VisionFive 2](/Asserts/Images/album/202305/11/234732hnzqkqnbn36qzsd8.png)
 
 
 这将为 RISC-V SBC 计算打开新的渠道，用户可以在各种项目中实施它。

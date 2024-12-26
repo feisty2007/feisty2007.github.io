@@ -7,7 +7,7 @@ tags:	[linuxcn,PostgreSQL,数据库]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/12/100311t4k1k8hfmh4df5hh.jpg)
+![](/Asserts/Images/album/202210/12/100311t4k1k8hfmh4df5hh.jpg)
 
 
 
@@ -61,7 +61,7 @@ $ sudo apt install postgresql postgresql-contrib
 ```
 $ sudo /usr/bin/postgresql-setup --initdb
 [sudo] password:
- * Initializing database in '/var/lib/pgsql/Asserts/Images/'
+ * Initializing database in '/var/lib/pgsql/data'
  * Initialized, logs are in /var/lib/pgsql/initdb_postgresql.log
 
 ```
@@ -81,7 +81,7 @@ $ sudo /usr/bin/postgresql-setup --initdb
 
 ```
 $ sudo -u postgres \
-    "initdb -D /var/lib/pgsql/Asserts/Images/ \
+    "initdb -D /var/lib/pgsql/data \
     --locale en_US.UTF-8 --auth md5 --pwprompt"
 
 ```
@@ -166,7 +166,7 @@ exampledb(> wordlist VARCHAR(9) NOT NULL
 
 ```
 
-关键字 `SERIAL` 并不是一个数据类型。`SERIAL` 是 [PostgreSQL 中的一个特殊的标记](https://www.postgresql.org/docs/current/Asserts/Images/type-numeric.html#DATATYPE-SERIAL)，它可以创建一个自动递增的整数字段。关键字 `VARCHAR` 是一个数据类型，表示限制内字符数的可变字符。在此例中，我指定了最多 9 个字符。PostgreSQL 中有很多数据类型，因此请参阅项目文档以获取选项列表。
+关键字 `SERIAL` 并不是一个数据类型。`SERIAL` 是 [PostgreSQL 中的一个特殊的标记](https://www.postgresql.org/docs/current/datatype-numeric.html#DATATYPE-SERIAL)，它可以创建一个自动递增的整数字段。关键字 `VARCHAR` 是一个数据类型，表示限制内字符数的可变字符。在此例中，我指定了最多 9 个字符。PostgreSQL 中有很多数据类型，因此请参阅项目文档以获取选项列表。
 
 
 #### 插入数据

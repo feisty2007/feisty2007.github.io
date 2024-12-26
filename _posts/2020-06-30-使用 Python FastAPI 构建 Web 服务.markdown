@@ -7,7 +7,7 @@ tags:	[linuxcn,FastAPI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/04/105930wr333sx3erz3k2ur.jpg)
+![](/Asserts/Images/album/202006/04/105930wr333sx3erz3k2ur.jpg)
 
 
 [FastAPI](https://fastapi.tiangolo.com/) 是一个使用 Python 编写的 Web 框架，还应用了 Python asyncio 库中最新的优化。本文将会介绍如何搭建基于容器的开发环境，还会展示如何使用 FastAPI 实现一个小型 Web 服务。

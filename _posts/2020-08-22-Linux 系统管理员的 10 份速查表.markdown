@@ -15,7 +15,7 @@ tags:	[linuxcn,速查表]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/05/222202qildlyr1lnqwq0o4.jpg)
+![](/Asserts/Images/album/202008/05/222202qildlyr1lnqwq0o4.jpg)
 
 
 作为一名系统管理员，你做所的不是一件工作，而是**全部**工作，而且往往每一件工作都是随时随地出现，毫无预兆。除非你每天都只做一项任务，否则当需要的时候，你可能并不总是都能将所有的命令和选项都记在脑海里。这就是为什么我喜欢速查表的原因。

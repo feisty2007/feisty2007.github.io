@@ -36,7 +36,7 @@ tags:	[linuxcn,浏览器,Midori]
 ### Midori 网络浏览器的功能
 
 
-![Midori web browser](/Asserts/Images//attachment/album/201903/09/091258elkzi47y771i8z94.jpg)
+![Midori web browser](/Asserts/Images/album/201903/09/091258elkzi47y771i8z94.jpg)
 
 
 以下是 Midori 浏览器的一些主要功能
@@ -51,7 +51,7 @@ tags:	[linuxcn,浏览器,Midori]
 ### 体验 Midori
 
 
-![Midori web browser in Ubuntu 18.04](/Asserts/Images//attachment/album/201903/09/091302asvdq7l7ehl5edfc.jpg)
+![Midori web browser in Ubuntu 18.04](/Asserts/Images/album/201903/09/091302asvdq7l7ehl5edfc.jpg)
 
 
 这几天我一直在使用 Midori。体验基本很好。它支持 HTML5 并能快速渲染网站。广告拦截器也没问题。正如你对任何标准 Web 浏览器所期望的那样，浏览体验挺顺滑。
@@ -81,7 +81,7 @@ Midori 没有像 Chrome 那样吃我的内存，所以这是一个很大的优�
 如果你使用的是 Ubuntu，你可以在软件中心找到 Midori（Snap 版）并从那里安装。
 
 
-![Midori browser is available in Ubuntu Software Center](/Asserts/Images//attachment/album/201903/09/091303q5xgatt8amymr8mh.jpg)
+![Midori browser is available in Ubuntu Software Center](/Asserts/Images/album/201903/09/091303q5xgatt8amymr8mh.jpg)
 
 
 对于其他 Linux 发行版，请确保你[已启用 Snap 支持](https://itsfoss.com/install-snap-linux/)，然后你可以使用以下命令安装 Midori：

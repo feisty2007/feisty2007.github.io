@@ -177,7 +177,7 @@ $ nload em0 em2
 会得到输出：
 
 
-![Fig. 01: nload command in action](/Asserts/Images//attachment/album/201404/18/133553oc7ggu5ho5j75goj.jpg)
+![Fig. 01: nload command in action](/Asserts/Images/album/201404/18/133553oc7ggu5ho5j75goj.jpg)
 
 
 *图01: 使用 nload 命令*
@@ -212,7 +212,7 @@ $ nload -t 500
 输出：
 
 
-![Animated gif 01 - nload command in action](/Asserts/Images//attachment/album/201404/18/133554o1q91yym98zpmamd.gif)
+![Animated gif 01 - nload command in action](/Asserts/Images/album/201404/18/133554o1q91yym98zpmamd.gif)
 
 
 GIF 动画 01 - 使用 nload 命令

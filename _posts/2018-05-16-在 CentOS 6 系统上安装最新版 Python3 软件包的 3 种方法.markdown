@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/26/071008ki1rmqmar1q9yhyr.png)
+![](/Asserts/Images/album/201805/26/071008ki1rmqmar1q9yhyr.png)
 
 
 CentOS 克隆自 RHEL，无需付费即可使用。CentOS 是一个企业级标准的、前沿的操作系统，被超过 90% 的网络主机托管商采用，因为它提供了技术领先的服务器控制面板 cPanel/WHM。

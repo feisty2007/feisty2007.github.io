@@ -7,7 +7,7 @@ tags:	[linuxcn,进程,fork,exec]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/19/113216ou3o0ouab9z01lxx.jpg)
+![](/Asserts/Images/album/201801/19/113216ou3o0ouab9z01lxx.jpg)
 
 
 本文是关于 fork 和 exec 是如何在 Unix 上工作的。你或许已经知道，也有人还不知道。几年前当我了解到这些时，我惊叹不已。

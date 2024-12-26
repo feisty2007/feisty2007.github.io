@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,容器,OCI]
 ---
 
 
-![coreos-oci-open-container-industry-standard](/Asserts/Images//attachment/album/201708/06/112718wbk03mjap9tlisim.jpg)
+![coreos-oci-open-container-industry-standard](/Asserts/Images/album/201708/06/112718wbk03mjap9tlisim.jpg)
 
 
 [CoreOS](https://coreos.com/) 和 [开放容器联盟（OCI）](https://www.opencontainers.org/) 周三（2017 年 7 月 19 日）发布的镜像和运行时标准主要参照了 Docker 的镜像格式技术。

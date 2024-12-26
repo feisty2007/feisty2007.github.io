@@ -7,7 +7,7 @@ tags:	[linuxcn,Plank]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/16/161121nbbncrlxa5s5a5r5.png)
+![](/Asserts/Images/album/201911/16/161121nbbncrlxa5s5a5r5.png)
 
 
 [autoplank](https://github.com/abiosoft/autoplank) 是用 Go 语言编写的小型工具，它为 Plank 扩展坞增加了多显示器支持，而无需创建[多个](https://answers.launchpad.net/plank/+question/204593)扩展坞。
@@ -80,7 +80,7 @@ sudo mv autoplank /usr/local/bin/
 在 elementary OS 中，你可以打开“系统设置”，然后在“应用程序”的“启动”选项卡上，单击窗口左下角的“+”按钮，然后在“键入自定义命令”字段中添加 “/usr/local/bin/autoplank”：
 
 
-![](/Asserts/Images//attachment/album/201911/16/161130sxf5wox5fwcmdnlx.png)
+![](/Asserts/Images/album/201911/16/161130sxf5wox5fwcmdnlx.png)
 
 
 如[此处](https://github.com/abiosoft/autoplank#optional-create-a-service)的解释，使用 `autoplank` 的另一种方法是通过为其创建 systemd 服务。将 systemd 服务用于 autoplank 的优点是，无论它出于何种原因而崩溃，都可以重新启动 `autoplank`。可以使用 systemd 服务或将 `autoplank` 添加到启动应用程序中（但不要同时使用两者）。

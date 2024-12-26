@@ -7,7 +7,7 @@ tags:	[linuxcn,关机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/20/233812o1kd114jzq11lq1l.jpg)
+![](/Asserts/Images/album/202009/20/233812o1kd114jzq11lq1l.jpg)
 
 
 
@@ -130,7 +130,7 @@ sudo xdg-open /etc/systemd/system.conf
 
 ```
 
-![Change Shutdown Time Settings Ubuntu](/Asserts/Images//attachment/album/202009/20/234053lvi1j7d35tzjtjx7.png)
+![Change Shutdown Time Settings Ubuntu](/Asserts/Images/album/202009/20/234053lvi1j7d35tzjtjx7.png)
 
 
 不要忘记**删除 DefaultTimeoutStopSec 前的 `#` 号**。保存文件并重启系统。

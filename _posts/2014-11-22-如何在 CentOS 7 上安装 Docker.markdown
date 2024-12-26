@@ -16,7 +16,7 @@ Docker 是一个开源工具，它可以让创建和管理 **Linux 容器**变�
 Docker 的局限性之一是，它只能用在 **64 位**的操作系统上。
 
 
-![](/Asserts/Images//attachment/album/201411/30/205455ti24vl086694tvs2.jpg)
+![](/Asserts/Images/album/201411/30/205455ti24vl086694tvs2.jpg)
 
 
 在这篇文章中我们将讨论如何在 CentOS 7.x 中安装 docker。
@@ -125,7 +125,7 @@ exit
 **显示当前正在运行容器的列表**
 
 
-![](/Asserts/Images//attachment/album/201411/30/205536tmq6hzl6mq165sqq.png)
+![](/Asserts/Images/album/201411/30/205536tmq6hzl6mq165sqq.png)
 
 
 

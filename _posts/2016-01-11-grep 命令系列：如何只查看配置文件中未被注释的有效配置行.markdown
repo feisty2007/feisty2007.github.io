@@ -13,7 +13,7 @@ tags:	[linuxcn,grep]
 我们可以使用 UNIX/BSD/OS X/Linux 这些操作系统自身提供的 grep，sed，awk，perl或者其他文本处理工具来查看配置文件中的有效配置命令行。
 
 
-![](/Asserts/Images//attachment/album/201601/30/143321m5gfoa1uicniv7dz.jpg)
+![](/Asserts/Images/album/201601/30/143321m5gfoa1uicniv7dz.jpg)
 
 
 ### grep 命令示例——去掉注释
@@ -144,7 +144,7 @@ viewconfig(){
 示例输出:
 
 
-![Fig.01: Unix/Linux Egrep Strip Out Comments Blank Lines](/Asserts/Images//attachment/album/201601/30/143444bovvlitdoqlhukof.jpg)
+![Fig.01: Unix/Linux Egrep Strip Out Comments Blank Lines](/Asserts/Images/album/201601/30/143444bovvlitdoqlhukof.jpg)
 
 
 *图 01: Unix/Linux Egrep 除去注释行和空行*

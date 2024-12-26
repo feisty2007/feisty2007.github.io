@@ -36,7 +36,7 @@ APT 缓存的位置是 `/var/lib/apt/lists/` 目录。缓存哪些仓库元数�
 ### 使用 apt-cache 命令
 
 
-![](/Asserts/Images//attachment/album/202011/04/101417ufwvf1z0wkbk13g0.png)
+![](/Asserts/Images/album/202011/04/101417ufwvf1z0wkbk13g0.png)
 
 
 就像其他 Linux 命令一样，`apt-cache` 也有一些可用的选项，你可以随时参考它的手册页来了解这些选项。
@@ -72,7 +72,7 @@ apt-cache search package_name
 默认情况下，它会在软件包的名称和描述中查找搜索关键词。它按字母顺序显示匹配的软件包及其简短的描述。
 
 
-![](/Asserts/Images//attachment/album/202011/04/101424hlcjicbutebceic0.png)
+![](/Asserts/Images/album/202011/04/101424hlcjicbutebceic0.png)
 
 
 你也可以缩小搜索范围，只在软件包名称中查找搜索词。
@@ -84,13 +84,13 @@ apt-cache search --names-only package_name
 
 ```
 
-![](/Asserts/Images//attachment/album/202011/04/101425fldpnvnvnnpsyjrl.png)
+![](/Asserts/Images/album/202011/04/101425fldpnvnvnnpsyjrl.png)
 
 
 如果你想知道所有匹配软件包的完整细节，你可以使用 `--full` 标志。
 
 
-![](/Asserts/Images//attachment/album/202011/04/101426xuqyq6xy09a0lutr.png)
+![](/Asserts/Images/album/202011/04/101426xuqyq6xy09a0lutr.png)
 
 
 #### 获取详细的包装信息
@@ -105,7 +105,7 @@ apt-cache show package_name
 
 ```
 
-![](/Asserts/Images//attachment/album/202011/04/101434fsuooxv1bxb1vu9c.png)
+![](/Asserts/Images/album/202011/04/101434fsuooxv1bxb1vu9c.png)
 
 
 你可以看到软件包元数据中的所有细节，比如名称、版本、开发者、维护者、仓库、长短描述、软件包大小甚至是校验和。
@@ -129,7 +129,7 @@ apt-cache showpkg package_name
 如果你指定了软件包的名称，它将显示该软件包是否已经安装，在哪个版本的仓库中可用，以及它的优先级。
 
 
-![](/Asserts/Images//attachment/album/202011/04/101438hun17m176sy2m6mi.png)
+![](/Asserts/Images/album/202011/04/101438hun17m176sy2m6mi.png)
 
 
 默认情况下，每个已安装的软件包版本的优先级为 100，未安装的软件包的优先级为 500。同一软件包可能有多个不同优先级的版本。APT 会安装优先级较高的版本，除非安装的版本较新。
@@ -150,13 +150,13 @@ apt-cache depends package
 
 ```
 
-![](/Asserts/Images//attachment/album/202011/04/101439o3zvyjhbmmm2yhcs.png)
+![](/Asserts/Images/album/202011/04/101439o3zvyjhbmmm2yhcs.png)
 
 
 你也可以通过 `apt-cahce` 检查反向依赖关系来检查哪些包是依赖于某个包的。
 
 
-![](/Asserts/Images//attachment/album/202011/04/101440g9p1cpuz5upgo6pm.png)
+![](/Asserts/Images/album/202011/04/101440g9p1cpuz5upgo6pm.png)
 
 
 坦白说，看到 Ansible 这样的 DevOps 工具对 [Cowsay 这样有趣的 Linux 命令](https://itsfoss.com/funny-linux-commands/)有依赖性，我也很惊讶。我想可能是因为在[安装 Ansible](https://linuxhandbook.com/install-ansible-linux/)之后，它会在节点上显示一些信息。
@@ -174,7 +174,7 @@ apt-cache unmet
 
 ```
 
-![](/Asserts/Images//attachment/album/202011/04/101443akol5zvok5zx7pc1.png)
+![](/Asserts/Images/album/202011/04/101443akol5zvok5zx7pc1.png)
 
 
 ### 结论

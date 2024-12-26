@@ -7,7 +7,7 @@ tags:	[linuxcn,僵尸网络,IoT,BrickerBot]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/02/221709kct6bmcbtgygsy5y.jpg)
+![](/Asserts/Images/album/201802/02/221709kct6bmcbtgygsy5y.jpg)
 
 
 

@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,HTTPS,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/04/183054unf9ml4ciozqm49n.jpg)
+![](/Asserts/Images/album/202204/04/183054unf9ml4ciozqm49n.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/04/183105onbzhzaaryasb1mt.jpg)
+![](/Asserts/Images/album/202204/04/183105onbzhzaaryasb1mt.jpg)
 
 
 ### Linux 5.18 再次尝试默认启用 -Werror
@@ -27,7 +27,7 @@ tags:	[linuxcn,内核,HTTPS,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/04/183114syyus1v1aiktkxkq.jpg)
+![](/Asserts/Images/album/202204/04/183114syyus1v1aiktkxkq.jpg)
 
 
 ### 微软开始通过 HTTPS 连接提供 Windows 更新
@@ -44,7 +44,7 @@ tags:	[linuxcn,内核,HTTPS,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/04/183134e1m6h0tn5qqlq3zw.jpg)
+![](/Asserts/Images/album/202204/04/183134e1m6h0tn5qqlq3zw.jpg)
 
 
 ### 基于 Rust 的 Coreutils 实现发布新版本

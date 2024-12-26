@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,容器,镜像]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/13/171633bitrd5imi953bbbi.jpg)
+![](/Asserts/Images/album/202208/13/171633bitrd5imi953bbbi.jpg)
 
 
 
@@ -90,7 +90,7 @@ Status: Downloaded newer image for containrrr/watchtower:latest
 
 ```
 
-![Run Watchtower Docker Container](/Asserts/Images//attachment/album/202208/13/171716usz2e5gs5m47sin4.png)
+![Run Watchtower Docker Container](/Asserts/Images/album/202208/13/171716usz2e5gs5m47sin4.png)
 
 
 ### 使用 Watchtower 自动更新 Docker 容器
@@ -152,7 +152,7 @@ a895f082438a   bitnami/mariadb:10.6        "/opt/bitnami/script…"   20 minutes
 
 ```
 
-![View Running Docker Containers](/Asserts/Images//attachment/album/202208/13/171716cg8gvvtddzgqyx4g.png)
+![View Running Docker Containers](/Asserts/Images/album/202208/13/171716cg8gvvtddzgqyx4g.png)
 
 
 正如你看到的，我们正在运行 `ostechnix-wordpress-1` 和 `ostechnix-mariadb-1` 这两个容器。`ostechnix-mariadb-1` 容器链接到 `ostechnix-wordpress-1` 容器。

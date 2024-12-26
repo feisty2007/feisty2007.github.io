@@ -64,7 +64,7 @@ sh hplip-3.14.3.run
 安装完成之后，请重启你的电脑。
 
 
-![](/Asserts/Images//attachment/album/201404/20/155308pin9vynaan6fyyvb.png)
+![](/Asserts/Images/album/201404/20/155308pin9vynaan6fyyvb.png)
 
 
 

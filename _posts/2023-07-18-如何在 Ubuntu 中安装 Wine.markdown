@@ -7,7 +7,7 @@ tags:	[linuxcn,Wine]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/24/091940obced5d6hj8ozy7p.jpg)
+![](/Asserts/Images/album/202307/24/091940obced5d6hj8ozy7p.jpg)
 
 
 
@@ -59,7 +59,7 @@ tags:	[linuxcn,Wine]
 > 
 
 
-![Wine download and installed size](/Asserts/Images//attachment/album/202307/24/092011dkikj822okk6mj22.png)
+![Wine download and installed size](/Asserts/Images/album/202307/24/092011dkikj822okk6mj22.png)
 
 
 #### 方法 1. 从 Ubuntu 安装 Wine（简单）
@@ -192,7 +192,7 @@ winecfg
 这将创建用于安装 Windows 应用程序的 **虚拟的 C: 驱动器** 。
 
 
-![C: Drive created by winecfg in Home directory](/Asserts/Images//attachment/album/202307/24/092011vmcm0100ates3oc9.png)
+![C: Drive created by winecfg in Home directory](/Asserts/Images/album/202307/24/092011vmcm0100ates3oc9.png)
 
 
 在按照这些步骤时，有时，你可能在文件管理器的邮件菜单中找不到 “<ruby> 使用 Wine Windows 程序加载器打开 <rt>  Open With Wine Windows Program Loader </rt></ruby>” 的选项。
@@ -225,13 +225,13 @@ sudo ln -s /usr/share/doc/wine/examples/wine.desktop /usr/share/applications/
 现在，在该文件上右键单击，并选择“使用 Wine Windows 程序加载器打开”选项：
 
 
-![Open 7zip exe file using Wine WIndows Program Loader in Nemo file manager](/Asserts/Images//attachment/album/202307/24/092012z52epaiyftm7iz5t.png)
+![Open 7zip exe file using Wine WIndows Program Loader in Nemo file manager](/Asserts/Images/album/202307/24/092012z52epaiyftm7iz5t.png)
 
 
 这将提示我们安装该文件。单击 “<ruby> 安装 <rt>  <strong>   Install  </strong> </rt></ruby>” 并让其完成。在完成后，你可以像其它的一些原生应用程序一样打开 7zip 。
 
 
-![Open 7Zip from Ubuntu Activities Overview](/Asserts/Images//attachment/album/202307/24/092043qp9m6app42dfzl2a.jpg)
+![Open 7Zip from Ubuntu Activities Overview](/Asserts/Images/album/202307/24/092043qp9m6app42dfzl2a.jpg)
 
 
 你可以使用 `wine uninstaller` 命令来卸载任意已安装的应用程序。

@@ -15,7 +15,7 @@ tags:	[linuxcn,语音助理]
 > 
 
 
-![An Open-Source Alternative to Google, Alexa, and Siri in Works for Home Assistant Platform](/Asserts/Images//attachment/album/202301/09/140626acnwq48b0nqtvn1w.png)
+![An Open-Source Alternative to Google, Alexa, and Siri in Works for Home Assistant Platform](/Asserts/Images/album/202301/09/140626acnwq48b0nqtvn1w.png)
 
 
 **Home Assistant** 是一个开源的智能家居平台，专注于为用户提供本地控制和隐私。它可以从树莓派或甚至本地服务器上运行。

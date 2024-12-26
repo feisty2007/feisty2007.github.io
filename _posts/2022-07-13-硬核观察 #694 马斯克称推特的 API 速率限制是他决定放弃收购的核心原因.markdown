@@ -7,10 +7,10 @@ tags:	[linuxcn,API,X.org,Kali]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/11/212358vn6lruxoss67s763.jpg)
+![](/Asserts/Images/album/202207/11/212358vn6lruxoss67s763.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/11/212431w04yn4yxkd7qy3gx.jpg)
+![](/Asserts/Images/album/202207/11/212431w04yn4yxkd7qy3gx.jpg)
 
 
 ### 马斯克称推特的 API 速率限制是他决定放弃收购的核心原因
@@ -35,7 +35,7 @@ tags:	[linuxcn,API,X.org,Kali]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/11/212445gddqc9b4di7fjcvt.jpg)
+![](/Asserts/Images/album/202207/11/212445gddqc9b4di7fjcvt.jpg)
 
 
 ### 许多老的 X.Org 组件在本周末有新的发布
@@ -60,7 +60,7 @@ tags:	[linuxcn,API,X.org,Kali]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/11/212520uet2trznuivtrriv.jpg)
+![](/Asserts/Images/album/202207/11/212520uet2trznuivtrriv.jpg)
 
 
 ### Linode 现在提供 Kali Linux 实例

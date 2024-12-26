@@ -15,7 +15,7 @@ tags:	[linuxcn,Rust,Cargo]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/09/104906tdl21k977t8999qt.jpg)
+![](/Asserts/Images/album/202003/09/104906tdl21k977t8999qt.jpg)
 
 
 [Rust](https://www.rust-lang.org/) 是一种现代编程语言，可提供高性能、可靠性和生产力。几年来，它一直被 StackOverflow 调查评为[最受欢迎的语言](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-languages)。

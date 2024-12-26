@@ -86,9 +86,9 @@ excerpt: Linux 和 Unix 属于多任务的操作系统，也就是说一个系�
 fromurl: ''
 id: 2680
 islctt: true
-largepic: /Asserts/Images//attachment/album/201403/13/102928m2z2n364a66vua66.jpg
+largepic: /Asserts/Images/album/201403/13/102928m2z2n364a66vua66.jpg
 permalink: /article-2680-1.html
-pic: /Asserts/Images//attachment/album/201403/13/102928m2z2n364a66vua66.jpg.thumb.jpg
+pic: /Asserts/Images/album/201403/13/102928m2z2n364a66vua66.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -109,7 +109,7 @@ translator: Luoxcat
 updated: '2014-03-13 10:29:00'
 ---
 
-![](/Asserts/Images//attachment/album/201403/13/102928m2z2n364a66vua66.jpg)
+![](/Asserts/Images/album/201403/13/102928m2z2n364a66vua66.jpg)
 
 
 Linux 和 Unix 属于多任务的操作系统，也就是说一个系统在同一时间段内能运行多重任务(进程)。在这个新的博客系列，我将会列出相关的 Linux 和 Unix 作业（job）控制的命令，你可以通过这些命令在 Bash 或 Korn 还有 POSIX shell 下实现执行多重任务。
@@ -142,7 +142,7 @@ Bash / Korn shell，或者是 POSIX shell 提供给了作业控制的环境。
 输出样例：
 
 
-[![](/Asserts/Images//attachment/album/201403/13/102929zi14vzpkp937d1mm.jpg)](http://www.cyberciti.biz/howto/unix-linux-job-control-command-list-for-bash-ksh-shell/attachment/run-xeyes-command-in-background/)
+[![](/Asserts/Images/album/201403/13/102929zi14vzpkp937d1mm.jpg)](http://www.cyberciti.biz/howto/unix-linux-job-control-command-list-for-bash-ksh-shell/attachment/run-xeyes-command-in-background/)
 
 
 *Fig.01: 在后台运行 xeyes 命令*
@@ -238,7 +238,7 @@ kill -s stop PID
 举个例子，启动[ping 命令](http://www.cyberciti.biz/faq/unix-ping-command-examples/)，然后用 Ctrl-Z 键来停止 ping 命令作业：
 
 
-[![](/Asserts/Images//attachment/album/201403/13/102931y9nquzs59x5yyy9y.gif)](http://www.cyberciti.biz/howto/unix-linux-job-control-command-list-for-bash-ksh-shell/attachment/suspend-unix-job-command/)
+[![](/Asserts/Images/album/201403/13/102931y9nquzs59x5yyy9y.gif)](http://www.cyberciti.biz/howto/unix-linux-job-control-command-list-for-bash-ksh-shell/attachment/suspend-unix-job-command/)
 
 
 *Animated gif 01: 挂起 ping 命令作业*

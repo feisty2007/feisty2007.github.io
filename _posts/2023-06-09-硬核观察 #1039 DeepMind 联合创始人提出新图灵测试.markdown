@@ -7,10 +7,10 @@ tags:	[linuxcn,图灵测试,AI,Windows]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/21/171122keejm1e5eh1m6loh.jpg)
+![](/Asserts/Images/album/202306/21/171122keejm1e5eh1m6loh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/21/171134g3e8selj8y2b02b5.jpg)
+![](/Asserts/Images/album/202306/21/171134g3e8selj8y2b02b5.jpg)
 
 
 ### DeepMind 联合创始人提出新图灵测试
@@ -35,7 +35,7 @@ tags:	[linuxcn,图灵测试,AI,Windows]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/21/171150x6xxhu6iqlux6anj.jpg)
+![](/Asserts/Images/album/202306/21/171150x6xxhu6iqlux6anj.jpg)
 
 
 ### OpenAI 准备建立 AI 应用商店
@@ -60,7 +60,7 @@ tags:	[linuxcn,图灵测试,AI,Windows]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/21/171208cuvgkkgwnuokoinn.jpg)
+![](/Asserts/Images/album/202306/21/171208cuvgkkgwnuokoinn.jpg)
 
 
 ### 微软计划淘汰原生的邮件和日历应用引来批评

@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows,NPM,RHEL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/31/165219c7syxaqeaw0ekyix.jpg)
+![](/Asserts/Images/album/202401/31/165219c7syxaqeaw0ekyix.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/31/165231hw1v7zdq72vv7z1t.png)
+![](/Asserts/Images/album/202401/31/165231hw1v7zdq72vv7z1t.png)
 
 
 ### #1 德国铁路公司招聘 Windows for Workgroups 3.11 管理员
@@ -38,7 +38,7 @@ tags:	[linuxcn,Windows,NPM,RHEL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/31/165253rzu0iopk6hoolwuu.png)
+![](/Asserts/Images/album/202401/31/165253rzu0iopk6hoolwuu.png)
 
 
 ### #2 带弹幕的盗版《武林外传》视频被上传到 NPM
@@ -66,7 +66,7 @@ tags:	[linuxcn,Windows,NPM,RHEL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/31/165318vhqbxzbbkxtx0b43.png)
+![](/Asserts/Images/album/202401/31/165318vhqbxzbbkxtx0b43.png)
 
 
 ### #3 由于法律原因，连 CentOS SIG 都无法为 RHEL 制作软件包

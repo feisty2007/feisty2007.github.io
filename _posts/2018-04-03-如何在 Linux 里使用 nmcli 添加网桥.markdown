@@ -7,7 +7,7 @@ tags:	[linuxcn,网桥,nmcli]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/04/202629lts0qcupst05rs3c.jpg)
+![](/Asserts/Images/album/201804/04/202629lts0qcupst05rs3c.jpg)
 
 
 **Q：我正在电脑上使用 Debian Linux 9 “stretch”。 我想用 NetworkManager 来建网桥。但是根本就没有添加 br0的选项。我该如何在 Linux 里使用 nmcli 来为 NetworkManager 创建或者添加网桥呢？**
@@ -41,7 +41,7 @@ tags:	[linuxcn,网桥,nmcli]
 你可以通过 NetworkManager 的 GUI 来了解本机的网络连接：
 
 
-[![Getting Network Info on Linux](/Asserts/Images//attachment/album/201804/04/202642apftivii6bpuuvvp.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Getting-Network-Info-on-Linux.jpg)
+[![Getting Network Info on Linux](/Asserts/Images/album/201804/04/202642apftivii6bpuuvvp.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Getting-Network-Info-on-Linux.jpg)
 
 
 也可以使用如下命令行来查看：
@@ -54,7 +54,7 @@ $ nmcli connection show --active
 
 ```
 
-[![View the connections with nmcli](/Asserts/Images//attachment/album/201804/04/202643cfcvuw5zwz5dcc8h.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/View-the-connections-with-nmcli.jpg)
+[![View the connections with nmcli](/Asserts/Images/album/201804/04/202643cfcvuw5zwz5dcc8h.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/View-the-connections-with-nmcli.jpg)
 
 
 我有一个使用网卡 `eno1` 的 “有线连接”。我的系统还有一个 VPN 接口。我将要创建一个名为 `br0` 的网桥，并连接到 `eno1`。
@@ -71,7 +71,7 @@ $ nmcli connection show
 
 ```
 
-[![Create bridge interface using nmcli on Linux](/Asserts/Images//attachment/album/201804/04/202643isy8ff7yjp88fimj.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Create-bridge-interface-using-nmcli-on-Linux.jpg)
+[![Create bridge interface using nmcli on Linux](/Asserts/Images/album/201804/04/202643isy8ff7yjp88fimj.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Create-bridge-interface-using-nmcli-on-Linux.jpg)
 
 
 你也可以禁用 STP：
@@ -125,7 +125,7 @@ $ ip a s br0
 
 ```
 
-[![Build a network bridge with nmcli on Linux](/Asserts/Images//attachment/album/201804/04/202644cdnng0hv03gdjdsn.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Build-a-network-bridge-with-nmcli-on-Linux.jpg)
+[![Build a network bridge with nmcli on Linux](/Asserts/Images/album/201804/04/202644cdnng0hv03gdjdsn.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Build-a-network-bridge-with-nmcli-on-Linux.jpg)
 
 
 ### 附录: 如何在 KVM 上使用 br0

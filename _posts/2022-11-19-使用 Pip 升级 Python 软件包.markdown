@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,Pip]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/07/153408lqflbw3mwxja3qm4.jpg)
+![](/Asserts/Images/album/202211/07/153408lqflbw3mwxja3qm4.jpg)
 
 
 你上次更新通过 Pip 安装的 Python 软件包是什么时候？大多数用户往往会忘记这些 Python 软件包也需要手动更新，因为仅仅更新系统存储库对于软件包来说是不起作用的。
@@ -40,7 +40,7 @@ pip list --outdated
 
 ```
 
-![outdated packages](/Asserts/Images//attachment/album/202211/07/153410v48318bnb0z4qxap.png)
+![outdated packages](/Asserts/Images/album/202211/07/153410v48318bnb0z4qxap.png)
 
 
 #### 2、升级特定的软件包
@@ -64,7 +64,7 @@ pip install anime-api -U
 
 ```
 
-![update anime api](/Asserts/Images//attachment/album/202211/07/153411w56fs9s0rslzsf63.png)
+![update anime api](/Asserts/Images/album/202211/07/153411w56fs9s0rslzsf63.png)
 
 
 #### 3、将软件包升级到特定的版本
@@ -88,7 +88,7 @@ pip install --upgrade xdg==5.1
 
 ```
 
-![upgrade xdg to specific iteration](/Asserts/Images//attachment/album/202211/07/153411ioeej6hj6k6dhvko.png)
+![upgrade xdg to specific iteration](/Asserts/Images/album/202211/07/153411ioeej6hj6k6dhvko.png)
 
 
 #### 4、使用 Pip 一次性升级所有软件包
@@ -106,7 +106,7 @@ pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1 | xargs -n
 
 ```
 
-![upgrade everything](/Asserts/Images//attachment/album/202211/07/153412m71rz1246h22xavc.png)
+![upgrade everything](/Asserts/Images/album/202211/07/153412m71rz1246h22xavc.png)
 
 
 上面的命令使用了 [xargs](https://linuxhandbook.com/xargs-command/)。首先，会得到所有需要更新的软件包，然后对每个软件包执行 `pip3 install -U` 命令。

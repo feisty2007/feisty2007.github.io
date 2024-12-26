@@ -7,7 +7,7 @@ tags:	[linuxcn,PacVim,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/12/104232uv9l5vv9969vs9jv.png)
+![](/Asserts/Images/album/201806/12/104232uv9l5vv9969vs9jv.png)
 
 
 你好，Vim用户！今天，我偶然发现了一个很酷的程序来提高 Vim 的使用技巧。Vim 是编写和编辑代码的绝佳编辑器。然而，你们中的一些人（包括我）仍在陡峭的学习曲线中挣扎。再也不用了！来看看 **PacVim**，一款可帮助你学习 Vim 命令的命令行游戏。PacVim 的灵感来源于经典游戏 [PacMan](https://en.wikipedia.org/wiki/Pac-Man)，它以一种好玩有趣的方式为你提供了大量的 Vim 命令练习。简而言之，PacVim 是一种深入了解 vim 命令的有趣而自由的方式。请不要将 PacMan 与 [pacman](https://www.ostechnix.com/getting-started-pacman/) （arch Linux 包管理器）混淆。 PacMan 是 20 世纪 80 年代发布的经典流行街机游戏。
@@ -86,13 +86,13 @@ $ pacvim
 以下是我 Ubuntu 18.04 LTS 的示例输出。
 
 
-![](/Asserts/Images//attachment/album/201806/12/104234m10a8uuhxh08kxx5.png)
+![](/Asserts/Images/album/201806/12/104234m10a8uuhxh08kxx5.png)
 
 
 要开始游戏，只需按下回车。
 
 
-![](/Asserts/Images//attachment/album/201806/12/104236e776kmx4kvskx8vm.png)
+![](/Asserts/Images/album/201806/12/104236e776kmx4kvskx8vm.png)
 
 
 现在开始游戏。阅读下一节了解如何玩。

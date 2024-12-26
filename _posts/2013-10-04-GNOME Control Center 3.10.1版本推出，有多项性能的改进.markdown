@@ -10,7 +10,7 @@ tags:	[linuxcn,GNOME,桌面,用户,窗口]
 **GNOME Control Center，是用来配置GNOME桌面环境中桌面功效的主用户窗口应用程序，现在的最新的版本是3.10.1。**
 
 
- ![](/Asserts/Images//attachment/album/201310/26/222320kurxy2zu43jd3ajf.png)
+ ![](/Asserts/Images/album/201310/26/222320kurxy2zu43jd3ajf.png)
 
 
 Gnome Control Center允许用户使用大量的工具应用程序来对他们的系统进行各方面的配置修改。

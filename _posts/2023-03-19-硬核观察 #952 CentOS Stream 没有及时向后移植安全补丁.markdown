@@ -7,10 +7,10 @@ tags:	[linuxcn,CentOS,互联网档案馆,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/26/161655v4yiqmmqegzimgv1.jpg)
+![](/Asserts/Images/album/202303/26/161655v4yiqmmqegzimgv1.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/26/161733iuaizur1crz4rfk1.jpg)
+![](/Asserts/Images/album/202303/26/161733iuaizur1crz4rfk1.jpg)
 
 
 ### CentOS Stream 没有及时向后移植安全补丁
@@ -35,7 +35,7 @@ tags:	[linuxcn,CentOS,互联网档案馆,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/26/161741gummuntczsf1znps.jpg)
+![](/Asserts/Images/album/202303/26/161741gummuntczsf1znps.jpg)
 
 
 ### 互联网档案馆败诉，不能扫描和出借电子书
@@ -60,7 +60,7 @@ tags:	[linuxcn,CentOS,互联网档案馆,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/26/161709is3rsvv33hjq5v43.jpg)
+![](/Asserts/Images/album/202303/26/161709is3rsvv33hjq5v43.jpg)
 
 
 ### 因开源软件缺陷，ChatGPT 出现故障

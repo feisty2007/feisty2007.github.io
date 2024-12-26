@@ -21,7 +21,7 @@ openEuler 的源代码也一同发布了。你在微软旗下的 GitHub 上找�
 它有两个独立的存储库，一个用于存储[源代码](https://gitee.com/openeuler)；另一个作为[软件包的源代码](https://gitee.com/src-openeuler)，存储有助于构建该操作系统的软件包。
 
 
-![](/Asserts/Images//attachment/album/202001/16/105741tdqgzjqg2o2s7mlo.jpg)
+![](/Asserts/Images/album/202001/16/105741tdqgzjqg2o2s7mlo.jpg)
 
 
 openEuler 基础架构团队分享了他们使源代码可用的经验：
@@ -44,7 +44,7 @@ openEuler 基础架构团队分享了他们使源代码可用的经验：
 它是为 ARM64 架构的服务器量身定做的，同时华为声称已经做了一些改变来提高其性能。你可以在[华为开发博客](https://developer.huaweicloud.com/en-us/euleros/euleros-introduction.html)上了解更多。
 
 
-![](/Asserts/Images//attachment/album/202001/16/105745hamtndgugldeniil.jpg)
+![](/Asserts/Images/album/202001/16/105745hamtndgugldeniil.jpg)
 
 
 目前，根据 openEuler 的官方声明，有 50 多名贡献者为 openEuler 贡献了近 600 个提交。
@@ -65,7 +65,7 @@ A-Tune 是一个基于 AI 的操作系统调优软件，iSulad 是一个轻量�
 ### 下载 openEuler
 
 
-![](/Asserts/Images//attachment/album/202001/16/105746zsjqyjv3px1kxbjj.jpg)
+![](/Asserts/Images/album/202001/16/105746zsjqyjv3px1kxbjj.jpg)
 
 
 到目前为止，你找不到它的英文文档，所以你必须等待或选择通过（贡献）[文档](https://gitee.com/openeuler/docs)来帮助他们。

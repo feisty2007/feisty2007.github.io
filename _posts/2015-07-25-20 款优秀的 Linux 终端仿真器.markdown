@@ -10,7 +10,7 @@ tags:	[linuxcn,终端]
 终端仿真器是一款用其它显示架构重现可视终端的计算机程序。换句话说就是终端仿真器能使哑终端看似像一台连接上了服务器的客户机。终端仿真器允许最终用户用文本用户界面和命令行来访问控制台和应用程序。（LCTT 译注：终端仿真器原意指对大型机-哑终端方式的模拟，不过在当今的 Linux 环境中，常指通过远程或本地方式连接的伪终端，俗称“终端”。）
 
 
-![Linux Terminal Emulators](/Asserts/Images//attachment/album/201507/01/232405flrlzsoottdeltln.jpg)
+![Linux Terminal Emulators](/Asserts/Images/album/201507/01/232405flrlzsoottdeltln.jpg)
 
 
 *20款Linux终端仿真器*
@@ -34,7 +34,7 @@ Terminator是一款先进且强大的终端仿真器，它支持多终端窗口�
 * 可以把终端窗口分割成几个虚拟终端并把它们根据需要重新调整尺寸。
 
 
-![Terminator Terminal](/Asserts/Images//attachment/album/201507/01/232436qrv5gu6r0r393wr3.jpg)
+![Terminator Terminal](/Asserts/Images/album/201507/01/232436qrv5gu6r0r393wr3.jpg)
 
 
 *Terminator 终端*
@@ -58,7 +58,7 @@ Tilda是一款漂亮的下拉式终端，基于GTK+，一键单击你就可以�
 * 优秀的嵌入式配色方案。
 
 
-![Tilda Terminal](/Asserts/Images//attachment/album/201507/01/232440vcq316q3c6swmcm3.jpg)
+![Tilda Terminal](/Asserts/Images/album/201507/01/232440vcq316q3c6swmcm3.jpg)
 
 
 *Tilda 终端*
@@ -76,7 +76,7 @@ Guake是一款基于python的下拉式终端，诞生于GNOME桌面环境。一�
 Guake与Yakuaka和Tilda非常相似，不过它是一个集上述二者的优点于一体的基于GTK的程序。Guake完全是用Python和C的片段写成的(全局热键部分)。
 
 
-![Guake Terminal](/Asserts/Images//attachment/album/201507/01/232456es42bmr55s6sybrt.jpg)
+![Guake Terminal](/Asserts/Images/album/201507/01/232456es42bmr55s6sybrt.jpg)
 
 
 *Guake 终端*
@@ -103,7 +103,7 @@ Yakuake从根本上说是一款KDE应用程序，它能非常轻松地安装在K
 * 可定制
 
 
-![Yakuake Terminal](/Asserts/Images//attachment/album/201507/01/232506mwphsxjz7ahapbq6.jpg)
+![Yakuake Terminal](/Asserts/Images/album/201507/01/232506mwphsxjz7ahapbq6.jpg)
 
 
 *Yakuake 终端*
@@ -121,7 +121,7 @@ ROXterm是又一款轻量级终端仿真器，旨在提供与“GNOME终端”�
 然而，它比GNOME终端更加具有可制定性，并且对于那些经常使用终端的高级用户更令人期望。它能和GNOME桌面环境完美结合并在终端中提供像拖拽项目那样的特性。
 
 
-![Roxterm Terminal](/Asserts/Images//attachment/album/201507/01/232518smvu229xqmqwvbxx.jpg)
+![Roxterm Terminal](/Asserts/Images/album/201507/01/232518smvu229xqmqwvbxx.jpg)
 
 
 *Roxterm 终端*
@@ -136,7 +136,7 @@ ROXterm是又一款轻量级终端仿真器，旨在提供与“GNOME终端”�
 Eterm是最轻量级的一款彩色终端仿真器，是作为xterm的替代品而被设计出来。它是以一种自由选择的理念设计的，带来了更强大、灵活、用户自主把控的终端。
 
 
-![Eterm Terminal](/Asserts/Images//attachment/album/201507/01/232526mp0noaldolx4algn.jpg)
+![Eterm Terminal](/Asserts/Images/album/201507/01/232526mp0noaldolx4algn.jpg)
 
 
 *Eterm 终端*
@@ -151,7 +151,7 @@ Eterm是最轻量级的一款彩色终端仿真器，是作为xterm的替代品�
 Rxvt 的意思是扩展虚拟终端，它是一款彩色终端仿真器，是为那些不需要一些诸如Tektronix 4014仿真和toolkit-style可配置性等特性的高级用户而生的xterm替代品。
 
 
-![Rxvt Terminal](/Asserts/Images//attachment/album/201507/01/232537uam8m8s83kxcvv1k.jpg)
+![Rxvt Terminal](/Asserts/Images/album/201507/01/232537uam8m8s83kxcvv1k.jpg)
 
 
 *Rxvt 终端*
@@ -166,7 +166,7 @@ Rxvt 的意思是扩展虚拟终端，它是一款彩色终端仿真器，是为
 Wterm是另一款以rxvt项目为基础的轻量级彩色终端仿真器。它所包含的特性包括设置背景图片、透明度、反向透明度和大量的设置或运行环境选项让它成为一款可高度自定义的终端仿真器。
 
 
-![wterm Terminal](/Asserts/Images//attachment/album/201507/01/232546qrx8pemdez49li23.jpg)
+![wterm Terminal](/Asserts/Images/album/201507/01/232546qrx8pemdez49li23.jpg)
 
 
 *wterm 终端*
@@ -190,7 +190,7 @@ LXTerminal是一款基于VTE的终端仿真器，默认运行于没有任何多�
 * 更改配色方案
 
 
-![lxterminal Terminal](/Asserts/Images//attachment/album/201507/01/232607wbvbpmmsovscbl6y.jpg)
+![lxterminal Terminal](/Asserts/Images/album/201507/01/232607wbvbpmmsovscbl6y.jpg)
 
 
 *lxterminal 终端*
@@ -220,7 +220,7 @@ Konsole是另一款强大的基于KDE的免费终端仿真器，最初由Lars Do
 * 支持导出显示为普通文本和HTML格式
 
 
-![Konsole Terminal](/Asserts/Images//attachment/album/201507/01/232614yzp7qx5qqifpjxww.jpg)
+![Konsole Terminal](/Asserts/Images/album/201507/01/232614yzp7qx5qqifpjxww.jpg)
 
 
 *Konsole 终端*
@@ -235,7 +235,7 @@ Konsole是另一款强大的基于KDE的免费终端仿真器，最初由Lars Do
 TermKit是一款漂亮简洁的终端，其目标是用WebKit渲染引擎在基于应用程序的命令行中构建出GUI视图（LCTT 译注：这个描述比较模糊，请参考截图，或安装一个体验下），WebKit渲染引擎在Google Chrome和Chromium中广泛使用。TermKit起初是为Mac和Windows设计的，但是由于Floby对TermKit 构建了分支，现在你可以将它安装在Linux发行版上并感受TermKit带来的魅力。
 
 
-![TermKit Terminal](/Asserts/Images//attachment/album/201507/01/232619ff21ks182t2f2akf.jpg)
+![TermKit Terminal](/Asserts/Images/album/201507/01/232619ff21ks182t2f2akf.jpg)
 
 
 *TermKit 终端*
@@ -250,7 +250,7 @@ TermKit是一款漂亮简洁的终端，其目标是用WebKit渲染引擎在基�
 st是一款简单的X Window终端。
 
 
-![st terminal](/Asserts/Images//attachment/album/201507/01/232623c6lilow734jwhlli.png)
+![st terminal](/Asserts/Images/album/201507/01/232623c6lilow734jwhlli.png)
 
 
 *st 终端*
@@ -268,7 +268,7 @@ GNOME终端是一款在GNOME桌面环境下自带的终端仿真器，由Havoc P
 Gnome终端支持多配置文件，用户可以为他们的账户创建多个配置文件，每个配置文件能自定义配置选项，如字体、颜色、背景图片、行为习惯等等，并能分别给每个配置文件取名。它也支持鼠标事件、url探测、多标签等。
 
 
-![Gnome Terminal](/Asserts/Images//attachment/album/201507/01/232645ew0d0s80kxg6i06m.jpg)
+![Gnome Terminal](/Asserts/Images/album/201507/01/232645ew0d0s80kxg6i06m.jpg)
 
 
 *Gnome 终端*
@@ -283,7 +283,7 @@ Gnome终端支持多配置文件，用户可以为他们的账户创建多个配
 Final Term是一款漂亮的开源终端仿真器，在这一个单独的界面里蕴藏着一些令人激动的特性和方便的功能。虽然它仍然有待改进，但是它提供了一些重要的特性比如“语义”文本菜单、智能的命令行补全、GUI终端控制、全能的快捷键、彩色支持等等。以下动图抓取并演示了它们的一些特性，点开来看看吧。
 
 
-![FinalTerm Terminal](/Asserts/Images//attachment/album/201507/01/232729duna09hlijyufyn6.gif)
+![FinalTerm Terminal](/Asserts/Images/album/201507/01/232729duna09hlijyufyn6.gif)
 
 
 *FinalTerm 终端*
@@ -313,7 +313,7 @@ Terminology是又一款新的现代化终端仿真器，为Enlightenment桌面�
 Xfce终端是一款轻量级的现代化终端仿真器，它简单易用，为Xfce桌面环境设计。它最新的一个版本有许多新的炫酷特性，比如搜索对话框、标签颜色转换器、像Guake或Yakuake一样的下拉式控制台等等。
 
 
-![Xfce Terminal](/Asserts/Images//attachment/album/201507/01/232738rr26pmna6hxwr2xm.jpg)
+![Xfce Terminal](/Asserts/Images/album/201507/01/232738rr26pmna6hxwr2xm.jpg)
 
 
 *Xfce 终端*
@@ -328,7 +328,7 @@ Xfce终端是一款轻量级的现代化终端仿真器，它简单易用，为X
 xterm应用是一款标准的在X Window系统上的终端仿真器。它保持了对DEC VT102和Tektronix 4014终端的兼容，以支持那些不能直接使用窗口系统的应用。
 
 
-![xterm Terminal](/Asserts/Images//attachment/album/201507/01/232752jyeggf6jdde3ddzf.jpg)
+![xterm Terminal](/Asserts/Images/album/201507/01/232752jyeggf6jdde3ddzf.jpg)
 
 
 *xterm 终端*
@@ -351,7 +351,7 @@ LilyTerm是一款基于libvte的开源终端仿真器，这款不太出名的仿
 * 广泛支持UTF-8
 
 
-![Lilyterm Terminal](/Asserts/Images//attachment/album/201507/01/232758niu91ifx1d6ij69i.jpg)
+![Lilyterm Terminal](/Asserts/Images/album/201507/01/232758niu91ifx1d6ij69i.jpg)
 
 
 *Lilyterm 终端*
@@ -366,7 +366,7 @@ LilyTerm是一款基于libvte的开源终端仿真器，这款不太出名的仿
 Sakura是另一款不知名的Unix风格终端仿真器，是为命令行模式和基于文本的终端程序开发的。Sakura基于GTK和livte，自身特性不多，不过还是有一些自定义选项，比如多标签支持、自定义文本颜色、字体和背景图片、快速命令处理等等。
 
 
-![Sakura Terminal](/Asserts/Images//attachment/album/201507/01/232807ab29j59jbsc1c0ej.jpg)
+![Sakura Terminal](/Asserts/Images/album/201507/01/232807ab29j59jbsc1c0ej.jpg)
 
 
 *Sakura 终端*
@@ -381,7 +381,7 @@ Sakura是另一款不知名的Unix风格终端仿真器，是为命令行模式�
 rxvt-unicode (也称为urxvt) 是另一个高度可定制、轻量级和快速的终端仿真器，支持xft和unicode，由Marc Lehmann开发。它有许多显著特性，比如通过Unicode支持国际化语言，能显示多种字体类型并支持Perl扩展。
 
 
-![rxvt unicode](/Asserts/Images//attachment/album/201507/01/232809oto4tl8uol44e6zt.png)
+![rxvt unicode](/Asserts/Images/album/201507/01/232809oto4tl8uol44e6zt.png)
 
 
 *rxvt unicode*

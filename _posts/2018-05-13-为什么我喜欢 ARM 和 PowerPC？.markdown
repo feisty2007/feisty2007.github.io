@@ -15,7 +15,7 @@ tags:	[linuxcn,ARM,PowerPC]
 > 
 
 
-![](/Asserts/Images//attachment/album/201805/07/225612x088kg5dr5du15rd.jpg)
+![](/Asserts/Images/album/201805/07/225612x088kg5dr5du15rd.jpg)
 
 
 最近我被问起为什么在博客和推特里经常提到 [ARM](https://en.wikipedia.org/wiki/ARM_architecture) 和 [PowerPC](https://en.wikipedia.org/wiki/PowerPC)。我有两个答案：一个是个人原因，另一个是技术上的。

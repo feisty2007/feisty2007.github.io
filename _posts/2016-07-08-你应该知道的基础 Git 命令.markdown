@@ -7,7 +7,7 @@ tags:	[linuxcn,Git]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/07/235601nvdjd85mn7h22hd4.jpg)
+![](/Asserts/Images/album/201607/07/235601nvdjd85mn7h22hd4.jpg)
 
 
 *简介：这个快速指南将向你展示所有的基础 Git 命令以及用法。你可以下载这些命令作为快速参考。*
@@ -80,7 +80,7 @@ git init
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/235652wwwpeez2ddsrje9y.png)
+![](/Asserts/Images/album/201607/07/235652wwwpeez2ddsrje9y.png)
 
 
 这个命令会创建一个新的 Git <ruby> 仓库 <rp>  （ </rp> <rt>  repository </rt> <rp>  ） </rp></ruby>。你的本地仓库由三个 Git 维护的“树”组成。
@@ -119,7 +119,7 @@ git status
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/235750nd1oc41c1x35qt4v.png)
+![](/Asserts/Images/album/201607/07/235750nd1oc41c1x35qt4v.png)
 
 
 正如你看到的，那里已经有一些变化但还没有提交。现在你需要提交这些变化，使用：
@@ -131,7 +131,7 @@ git commit -m "提交信息"
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/235837gnj2jlocjilfjuqq.png)
+![](/Asserts/Images/album/201607/07/235837gnj2jlocjilfjuqq.png)
 
 
 你也可以这么做（首选）：
@@ -182,7 +182,7 @@ git checkout -b mybranch
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/235951pxxg29844wxclg2c.jpg)
+![](/Asserts/Images/album/201607/07/235951pxxg29844wxclg2c.jpg)
 
 
 你可以使用这个命令切换回主分支：
@@ -203,7 +203,7 @@ git branch -d mybranch
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/09/171352cycc99ydy5yyzo7y.jpg)
+![](/Asserts/Images/album/201607/09/171352cycc99ydy5yyzo7y.jpg)
 
 
 除非你将分支推送到远程服务器上，否则该分支对其他人是不可用的，所以只需把它推送上去：

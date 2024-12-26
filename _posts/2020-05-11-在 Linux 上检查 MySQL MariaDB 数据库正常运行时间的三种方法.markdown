@@ -7,7 +7,7 @@ tags:	[linuxcn,MySQL,MariaDB]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/29/211031hqb8qlyddtlrt2fl.jpg)
+![](/Asserts/Images/album/202005/29/211031hqb8qlyddtlrt2fl.jpg)
 
 
 我们都知道在 Linux 中使用 `uptime` 命令的目的。它用于检查 [Linux 系统的正常运行时间](https://www.2daygeek.com/linux-system-server-uptime-check/)以及系统上次启动以来运行的时间。

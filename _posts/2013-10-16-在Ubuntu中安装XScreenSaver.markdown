@@ -25,7 +25,7 @@ tags:	[linuxcn,Linux,Ubuntu,安装,XScreenSaver,技巧,教程]
 打开一个新的终端(ctrl+alt+T)，如图一所示。
 
 
-![](/Asserts/Images//attachment/album/201310/14/105837l53dln5xbjp77l34.png) 
+![](/Asserts/Images/album/201310/14/105837l53dln5xbjp77l34.png) 
 
 
 图一
@@ -34,7 +34,7 @@ tags:	[linuxcn,Linux,Ubuntu,安装,XScreenSaver,技巧,教程]
 在安装一个新的屏幕保护之前我们必须卸载默认屏幕保护，运行 'sudo apt-get remove gnome-screensaver' ，见图二。
 
 
-![](/Asserts/Images//attachment/album/201310/14/105839z8cv2ooi6kkz4o77.png)
+![](/Asserts/Images/album/201310/14/105839z8cv2ooi6kkz4o77.png)
 
 
 图二
@@ -43,19 +43,19 @@ tags:	[linuxcn,Linux,Ubuntu,安装,XScreenSaver,技巧,教程]
 用下列命令安装XScreenSaver和一些附加的屏保包。 sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra
 
 
-![](/Asserts/Images//attachment/album/201310/14/1058425vnjatlttc2c7a45.png)
+![](/Asserts/Images/album/201310/14/1058425vnjatlttc2c7a45.png)
 
 
 图三
 
 
-![](/Asserts/Images//attachment/album/201310/14/105845xyuylj2vr345yiim.png)
+![](/Asserts/Images/album/201310/14/105845xyuylj2vr345yiim.png)
 
 
 图四
 
 
-![](/Asserts/Images//attachment/album/201310/14/105847o969gxppxhp99ceo.png)
+![](/Asserts/Images/album/201310/14/105847o969gxppxhp99ceo.png)
 
 
 图五

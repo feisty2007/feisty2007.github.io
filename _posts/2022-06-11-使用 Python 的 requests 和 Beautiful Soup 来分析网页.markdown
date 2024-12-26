@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,网页]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/28/132859owwf9az49k2oje2o.jpg)
+![](/Asserts/Images/album/202206/28/132859owwf9az49k2oje2o.jpg)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,Windows,终端]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/08/112743fbblple8b81o0xp0.jpg)
+![](/Asserts/Images/album/201905/08/112743fbblple8b81o0xp0.jpg)
 
 
 Windows Terminal 发布以后，立刻引爆了整个技术圈，各种社交媒体上纷纷传播着它的消息，它开源的 GitHub 仓库的星标数一路飙升，迅速成为当日 GitHub 趋势榜的首名，甚至连它 issue 区都挤满了人——以至于项目运营团队紧急出场管理。不过，在我观看了相关的资料和视频以后，感觉并没有那么令人兴奋。
@@ -16,7 +16,7 @@ Windows Terminal 发布以后，立刻引爆了整个技术圈，各种社交媒
 在我看到一时间出现的很多文章，**都视 Windows Terminal 为 Windows 下命令行体验的救世主之后**，我觉得，是时候泼一盆冷水降降温了。
 
 
-![](/Asserts/Images//attachment/album/201905/08/112956p8wnttlgt6t3l1n1.jpg)
+![](/Asserts/Images/album/201905/08/112956p8wnttlgt6t3l1n1.jpg)
 
 
 *Windows Terminal 项目下的讨论*
@@ -28,7 +28,7 @@ Windows Terminal 发布以后，立刻引爆了整个技术圈，各种社交媒
 在泼冷水之前，我想先来介绍一下 Windows Terminal 是什么，以方便你理解我的观点：**Windows Terminal 是一个套在 Windows 操作系统原本的 CMD、Powershell、Windows Subsystem for Linux（WSL）之上的一个界面更加漂亮、功能更加强大的终端工具。**严格来说，**它是套在 CMD 、Powershell 之上的一个终端。**
 
 
-![Windows Terminal 效果图](/Asserts/Images//attachment/album/201905/08/112758vpk0qza2aj0a2tlb.jpg)
+![Windows Terminal 效果图](/Asserts/Images/album/201905/08/112758vpk0qza2aj0a2tlb.jpg)
 
 
 *Powershell on Windows Terminal。图片来源：<https://devblogs.microsoft.com/commandline/introducing-windows-terminal/>*
@@ -57,7 +57,7 @@ Windows Terminal 发布以后，立刻引爆了整个技术圈，各种社交媒
 作为一个终端，Windows Terminal 无疑是合格的，它提供了非常强大的功能，来自微软的强大工程能力也让它能够吸引更多的眼球。
 
 
-![](/Asserts/Images//attachment/album/201905/08/113042t5i16uzk3kv4rp5d.jpg)
+![](/Asserts/Images/album/201905/08/113042t5i16uzk3kv4rp5d.jpg)
 
 
 *Cmder 效果图。图片来源：Cmder 官网*
@@ -66,7 +66,7 @@ Windows Terminal 发布以后，立刻引爆了整个技术圈，各种社交媒
 但是，如果仅仅是一个终端，其实开源社区早已有更多的解决方案，比如 [cmder](https://cmder.net/)、[ConEmu](https://conemu.github.io/)、[Hyper](https://hyper.is/) 等等，这些 Terminal 也足够好看和好用。
 
 
-![ ConEmu 效果图](/Asserts/Images//attachment/album/201905/08/112805ef0mfxbjnsxnjzf8.png)
+![ ConEmu 效果图](/Asserts/Images/album/201905/08/112805ef0mfxbjnsxnjzf8.png)
 
 
 *ConEmu效果图。图片来源：ConEmu 官网*
@@ -99,7 +99,7 @@ WSL 2 所提供的，不过是一个更加简单、更加易用的 Windows 下�
 ### 作为一个开发者，我认为什么才是微软真正应该做的？
 
 
-![Windows Love Linux](/Asserts/Images//attachment/album/201905/08/112805gfqgppemfwgiegjs.jpg)
+![Windows Love Linux](/Asserts/Images/album/201905/08/112805gfqgppemfwgiegjs.jpg)
 
 
 *Windows Love Linux。图片来源：<https://cloudblogs.microsoft.com/windowsserver/2015/05/06/microsoft-loves-linux/>*

@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/08/232851xhh8jy9d87qid4p4.jpg)
+![](/Asserts/Images/album/201405/08/232851xhh8jy9d87qid4p4.jpg)
 
 
 **Canonical公司刚刚发布了第一个Ubuntu14.10（乌托邦独角兽）的每日镜像，而且开发工作也开始了。**

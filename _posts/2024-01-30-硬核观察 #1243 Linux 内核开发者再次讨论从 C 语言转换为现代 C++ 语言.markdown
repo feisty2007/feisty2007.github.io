@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,鼠标,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/11/173020kzh3jffr1ibd33fh.jpg)
+![](/Asserts/Images/album/202401/11/173020kzh3jffr1ibd33fh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/11/173032z9j95jjm7jms797m.png)
+![](/Asserts/Images/album/202401/11/173032z9j95jjm7jms797m.png)
 
 
 ### #1 Linux 内核开发者再次讨论从 C 语言转换为现代 C++ 语言
@@ -38,7 +38,7 @@ Linux 内核主要由 C 代码和汇编代码构成，但 Linux 内核邮件列�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/11/173049p8lycy8rxczf8tm9.png)
+![](/Asserts/Images/album/202401/11/173049p8lycy8rxczf8tm9.png)
 
 
 ### #2 新设备允许用户用舌头滚动屏幕
@@ -66,7 +66,7 @@ Linux 内核主要由 C 代码和汇编代码构成，但 Linux 内核邮件列�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/11/173107s6fz4qwesfkyx6wo.png)
+![](/Asserts/Images/album/202401/11/173107s6fz4qwesfkyx6wo.png)
 
 
 ### #3 Brave Search 现在可以提供 AI 代码搜索

@@ -7,7 +7,7 @@ tags:	[linuxcn,Git]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/16/230138n1j44qiabgplgbw4.jpg)
+![](/Asserts/Images/album/202309/16/230138n1j44qiabgplgbw4.jpg)
 
 
 大家好！今天我和一个朋友讨论 Git 的工作原理，我们感到奇怪，Git 是如何存储你的文件的？我们知道它存储在 `.git` 目录中，但具体到 `.git` 中的哪个位置，各个版本的历史文件又被存储在哪里呢？

@@ -7,7 +7,7 @@ tags:	[linuxcn,Xperience UI,桌面,设计]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/01/071956c3q7umq6kg6kqkqz.jpg)
+![](/Asserts/Images/album/201405/01/071956c3q7umq6kg6kqkqz.jpg)
 
 
 **Xperience UI 是一个基于 Nitrux 发行板的一个界面设计的概念作品，如果其开发能够完成，它将有可能成为当今最漂亮的桌面之一。**
@@ -31,43 +31,43 @@ Nitrux 的开发者们之前因其图标及一些其他设计而闻名，而如�
 即使今后没人会实现这个设计（虽然我们很大把握有人会去折腾），这个设计仍然证明了 Linux 的设计也可以从头到脚都远远超出所有其他的操作系统。
 
 
-![](/Asserts/Images//attachment/album/201405/01/072000zvhjpbwer94ww4ss.jpg)
+![](/Asserts/Images/album/201405/01/072000zvhjpbwer94ww4ss.jpg)
 
 
 桌面
 
 
-![](/Asserts/Images//attachment/album/201405/01/072005fqf4lpzlg0q2a0sz.jpg)
+![](/Asserts/Images/album/201405/01/072005fqf4lpzlg0q2a0sz.jpg)
 
 
 Mini 启动面板 - 应用程序
 
 
-![](/Asserts/Images//attachment/album/201405/01/072009ktdw4rylhz5ac4bw.jpg)
+![](/Asserts/Images/album/201405/01/072009ktdw4rylhz5ac4bw.jpg)
 
 
 Mini 启动面板 - 通知区域
 
 
-![](/Asserts/Images//attachment/album/201405/01/072012vtm6ieey4643yynt.jpg)
+![](/Asserts/Images/album/201405/01/072012vtm6ieey4643yynt.jpg)
 
 
 Mini 启动面板 - 最近的文档
 
 
-![](/Asserts/Images//attachment/album/201405/01/072017b7mbznuawmliaarn.jpg)
+![](/Asserts/Images/album/201405/01/072017b7mbznuawmliaarn.jpg)
 
 
 Mini 启动面板 - 快速设置
 
 
-![](/Asserts/Images//attachment/album/201405/01/072023u5dtonefn3nlnvmp.jpg)
+![](/Asserts/Images/album/201405/01/072023u5dtonefn3nlnvmp.jpg)
 
 
 Mini 启动面板 - 关机
 
 
-![](/Asserts/Images//attachment/album/201405/01/072027ps19reupuxdbezbe.jpg)
+![](/Asserts/Images/album/201405/01/072027ps19reupuxdbezbe.jpg)
 
 
 主面板

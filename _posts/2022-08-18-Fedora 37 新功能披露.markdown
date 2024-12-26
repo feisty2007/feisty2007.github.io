@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora 37,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/26/000924lz0vl82vsq2zf0v7.jpg)
+![](/Asserts/Images/album/202208/26/000924lz0vl82vsq2zf0v7.jpg)
 
 
 
@@ -28,7 +28,7 @@ Fedora 37 的开发工作已经结束，Beta 测试版即将来临。在这个�
 * Fedora 37 最终版计划于 2022 年 10 月 18 日发布。后备日期是 2022 年 10 月 25 日。
 
 
-![Fedora 37 Workstation with GNOME 43](/Asserts/Images//attachment/album/202208/26/000956e3wou3icqptkxwbs.jpg)
+![Fedora 37 Workstation with GNOME 43](/Asserts/Images/album/202208/26/000956e3wou3icqptkxwbs.jpg)
 
 
 ### Fedora 37 的主要新功能

@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/28/172913lzqsmfll8snzblbs.jpg)
+![](/Asserts/Images/album/202208/28/172913lzqsmfll8snzblbs.jpg)
 
 
 
@@ -65,7 +65,7 @@ tags:	[linuxcn,Linux Mint]
 使用 <ruby> 菜单 <rt>  Menu </rt></ruby> -> <ruby> 系统管理 <rt>  Administration </rt></ruby> -> <ruby> 更新管理器 <rt>  Update Manager </rt></ruby> 来启动更新管理器。查看是否有一些可用的软件包更新。如果有可用的更新，先安装所有的软件包更新。
 
 
-![Check for Pending Software Updates](/Asserts/Images//attachment/album/202208/28/172919we5lkyzbryeveklr.png)
+![Check for Pending Software Updates](/Asserts/Images/album/202208/28/172919we5lkyzbryeveklr.png)
 
 
 针对这一步骤，你也可用在终端中使用这一个命令：
@@ -119,25 +119,25 @@ sudo mintupgrade
 这个简单且全面工具将带领你完成升级过程。
 
 
-![Mint Upgrade Tool Home Page](/Asserts/Images//attachment/album/202208/28/172919hw4owm5mrhd5qtdo.png)
+![Mint Upgrade Tool Home Page](/Asserts/Images/album/202208/28/172919hw4owm5mrhd5qtdo.png)
 
 
 在一些初始化的测试后，它将提示进行一次 Timeshift 备份。如果你已经创建了一次备份，你已经准备好下一步了。
 
 
-![Upgrade Tool Prompting No Timeshift Snapshots](/Asserts/Images//attachment/album/202208/28/172919fxohxkx52x23vloh.png)
+![Upgrade Tool Prompting No Timeshift Snapshots](/Asserts/Images/album/202208/28/172919fxohxkx52x23vloh.png)
 
 
 否则，你需要在这里 [创建一个备份](https://itsfoss.com/backup-restore-linux-timeshift/) ，因为这是强制继续的。
 
 
-![Taking Snapshot With Timeshift](/Asserts/Images//attachment/album/202208/28/172920fu0yrfzowtw11599.png)
+![Taking Snapshot With Timeshift](/Asserts/Images/album/202208/28/172920fu0yrfzowtw11599.png)
 
 
 一些 PPA 可能已经适用于 Ubuntu 22.04 ，因此也适用于 Mint 21 。但是，如果 PPA 或存储库不适用于新的版本，它可能会因为依赖关系的打断而影响升级过程。在升级工具中也会同样的提示你。
 
 
-![Kazam PPA Does Not Support Jammy](/Asserts/Images//attachment/album/202208/28/172920oiid3id0xf13747i.png)
+![Kazam PPA Does Not Support Jammy](/Asserts/Images/album/202208/28/172920oiid3id0xf13747i.png)
 
 
 在这里，我将通过 Kazam 其 PPA 来使用其 [最新版本](https://itsfoss.com/kazam-screen-recorder/) 。其 PPA 仅被支持到 Impish ，因为 Linux Mint 21 是基于 Jammy 的，所以它会显示错误。
@@ -146,31 +146,31 @@ sudo mintupgrade
 你可以在升级工具中通过软件源来指定禁用 PPA 的选项。
 
 
-![Disable Unsupported PPAs in Software Sources](/Asserts/Images//attachment/album/202208/28/172920x49dfh6fc645w6dr.png)
+![Disable Unsupported PPAs in Software Sources](/Asserts/Images/album/202208/28/172920x49dfh6fc645w6dr.png)
 
 
 在禁用该 PPA 后，该软件包会变成 “<ruby> 陌生的 <rt>  foreign </rt></ruby>”，因为来自存储库中可用版本会与来自 Mnit 存储库中可用版本不匹配。因此，你需要将软件包降级到存储库中一个可用的版本。
 
 
-![Downgrade Package to Avoid Conflicts](/Asserts/Images//attachment/album/202208/28/172921i6h1nmh5551ooliz.png)
+![Downgrade Package to Avoid Conflicts](/Asserts/Images/album/202208/28/172921i6h1nmh5551ooliz.png)
 
 
 升级工具现在列出需要执行更改。
 
 
-![List Changes That Need to be Done](/Asserts/Images//attachment/album/202208/28/172921sj0s2g18hiai7hc2.png)
+![List Changes That Need to be Done](/Asserts/Images/album/202208/28/172921sj0s2g18hiai7hc2.png)
 
 
 在接受后，该工具将开始下载软件包。
 
 
-![Phase 2 – Simulation and Package Download](/Asserts/Images//attachment/album/202208/28/172921cj3jq0gg3tvbeaf6.png)
+![Phase 2 – Simulation and Package Download](/Asserts/Images/album/202208/28/172921cj3jq0gg3tvbeaf6.png)
 
 
-![Package Downloading](/Asserts/Images//attachment/album/202208/28/172922bekseake1eejenar.png)
+![Package Downloading](/Asserts/Images/album/202208/28/172922bekseake1eejenar.png)
 
 
-![Upgrading Phase](/Asserts/Images//attachment/album/202208/28/172923rmndem5o66on45x5.png)
+![Upgrading Phase](/Asserts/Images/album/202208/28/172923rmndem5o66on45x5.png)
 
 
 它将列出孤立的软件包，这可以被移除。你可以通过按下 <ruby> 修复 <rt>  Fix </rt></ruby> 按钮来移除整个建议的软件包，也可以保留某些软件包。
@@ -182,25 +182,25 @@ sudo mintupgrade
 为保留来自孤立的软件包列表中软件包，你需要从左上角的汉堡菜单转到 <ruby> 首选项 <rt>  Preferences </rt></ruby>。
 
 
-![Selecting Orphan Packages You Want to Keep with Preferences](/Asserts/Images//attachment/album/202208/28/172923j6mc8m7kjstg5m1g.png)
+![Selecting Orphan Packages You Want to Keep with Preferences](/Asserts/Images/album/202208/28/172923j6mc8m7kjstg5m1g.png)
 
 
 在首选项对话框中，你需要转到 “<ruby> 孤立的软件包 <rt>  Orphan Packages </rt></ruby>” 并使用 “+” 符号来通过名称添加软件包。
 
 
-![Specify Name of the Package to Keep](/Asserts/Images//attachment/album/202208/28/172923e44439m44i2e13c1.png)
+![Specify Name of the Package to Keep](/Asserts/Images/album/202208/28/172923e44439m44i2e13c1.png)
 
 
 在完成后，它将继续升级，在一段时间后，将会向你提示一条成功更新的通知。
 
 
-![Upgrade Successful](/Asserts/Images//attachment/album/202208/28/172923jhh2h78o4zhvq98t.png)
+![Upgrade Successful](/Asserts/Images/album/202208/28/172923jhh2h78o4zhvq98t.png)
 
 
 此时，你需要重新启动你的系统。在重新启动后，你将进入到新的 Linux Mint 21 。
 
 
-![Neofetch Output Linux Mint 21](/Asserts/Images//attachment/album/202208/28/172924s0oigydmg0b1mlfa.png)
+![Neofetch Output Linux Mint 21](/Asserts/Images/album/202208/28/172924s0oigydmg0b1mlfa.png)
 
 
 ### 如何升级到 Linux Mint 20
@@ -238,7 +238,7 @@ dpkg --print-architecture
 
 ```
 
-![Mint 20 Upgrade Check Architecture](/Asserts/Images//attachment/album/202208/28/172924oqyhv5fk500nyn9l.jpg)
+![Mint 20 Upgrade Check Architecture](/Asserts/Images/album/202208/28/172924oqyhv5fk500nyn9l.jpg)
 
 
 #### 步骤 2: 通过安装一些可用的更新来更新你的系统
@@ -247,7 +247,7 @@ dpkg --print-architecture
 使用 <ruby> 菜单 <rt>  Menu </rt></ruby> -> <ruby> 系统管理 <rt>  Administration </rt></ruby> -> <ruby> 更新管理器 <rt>  Update Manager </rt></ruby> 来启动更新管理器。查看是否有一些可用的软件包更新。如果有可用的更新，先安装所有的软件包更新。
 
 
-![Check for pending software updates](/Asserts/Images//attachment/album/202208/28/172924au3ugzhzuiyyihu3.jpg)
+![Check for pending software updates](/Asserts/Images/album/202208/28/172924au3ugzhzuiyyihu3.jpg)
 
 
 针对这一步骤，你也可用在终端中使用这一个命令：
@@ -271,7 +271,7 @@ sudo apt update && sudo apt upgrade -y
 这也意味着你应该随时携带一个 Linux Mint 19 实况 USB ，以防在极少数升级失败的情况下，你不能用一台工作的计算机创建 Linux Mint 实况 USB 。
 
 
-![Create a system snapshot in Linux Mint](/Asserts/Images//attachment/album/202208/28/172924v3c3x6cgxzclgcvj.jpg)
+![Create a system snapshot in Linux Mint](/Asserts/Images/album/202208/28/172924v3c3x6cgxzclgcvj.jpg)
 
 
 #### 步骤 4: 在一块外部的磁盘上备份你的文件 [可选，但是建议]
@@ -301,7 +301,7 @@ Timeshift 是一个创建系统快照的好工具，但它却不是一个针对�
 在 <ruby> 软件源 <rt>  Software Sources </rt></ruby> 工具中，禁用附加的存储库、禁用 PPA 。
 
 
-![Disable Ppa Mint Upgrade](/Asserts/Images//attachment/album/202208/28/172924gytorv7kwktrkt4k.jpg)
+![Disable Ppa Mint Upgrade](/Asserts/Images/album/202208/28/172924gytorv7kwktrkt4k.jpg)
 
 
 你也可以在维护标签页中 **降级** ，**移除可用的外部的软件包** 。
@@ -310,7 +310,7 @@ Timeshift 是一个创建系统快照的好工具，但它却不是一个针对�
 例如，我使用一个 PPA 来安装 Shutter 。我在禁用它的 PPA 后，现在该软件包会变成 “<ruby> 陌生的 <rt>  foreign </rt></ruby>”，因为来自存储库中可用版本会与来自 Mnit 存储库中可用版本不匹配。
 
 
-![Foreign Package Linux Mint](/Asserts/Images//attachment/album/202208/28/172924ik6e4fhhwyavnkyv.jpg)
+![Foreign Package Linux Mint](/Asserts/Images/album/202208/28/172924ik6e4fhhwyavnkyv.jpg)
 
 
 #### 步骤 6: 安装升级工具
@@ -349,7 +349,7 @@ mintupgrade check
 这一步骤是非常重要的，有助于准确评估出你的系统是否可以升级到 Mint 20 。
 
 
-![Mint Upgrade Check](/Asserts/Images//attachment/album/202208/28/172924wwk5idnwzmlbhdch.jpg)
+![Mint Upgrade Check](/Asserts/Images/album/202208/28/172924wwk5idnwzmlbhdch.jpg)
 
 
 如果这一步骤中途失败，输入 `mintupgrade restore-sources` 来返回到你原始的 APT 配置。
@@ -373,7 +373,7 @@ mintupgrade download
 
 ```
 
-![Mint 20 Upgrade Download](/Asserts/Images//attachment/album/202208/28/172924prueyub2772jrqpp.jpg)
+![Mint 20 Upgrade Download](/Asserts/Images/album/202208/28/172924prueyub2772jrqpp.jpg)
 
 
 注意，这行命令将把你的操作系统指向 Linux Mint 20 存储库。在使用这行命令后，如果你想降级到 Linux Mint 19.3 ，你仍然可以使用命令 `mintupgrade restore-sources` 来做到。
@@ -394,7 +394,7 @@ mintupgrade upgrade
 给它一些时间来安装新的软件包和升级你的 Mint 到相对较新的版本。在升级过程完成后，它将要求你重新启动。
 
 
-![Linux Mint 20 Upgrade Finish](/Asserts/Images//attachment/album/202208/28/172924dsksx76hyjjrse9r.jpg)
+![Linux Mint 20 Upgrade Finish](/Asserts/Images/album/202208/28/172924dsksx76hyjjrse9r.jpg)
 
 
 #### 享受 Linux Mint 20
@@ -403,7 +403,7 @@ mintupgrade upgrade
 在你重新启动你的系统后，你将看到 Mint 20 欢迎屏幕。享受新的版本。
 
 
-![Welcome To Linux Mint 20](/Asserts/Images//attachment/album/202208/28/172925vfsyfy6xwwd8sfyd.jpg)
+![Welcome To Linux Mint 20](/Asserts/Images/album/202208/28/172925vfsyfy6xwwd8sfyd.jpg)
 
 
 ### 从 Mint 18 升级到 Mint 19
@@ -436,7 +436,7 @@ cat /etc/X11/default-display-manager
 如果结果是 `/usr/sbin/lightdm`，那么你就有 LightDM ，你就可以继续前进了。
 
 
-![LightDM Display Manager in Linux Mint](/Asserts/Images//attachment/album/202208/28/172925o186q5q4s2kfj51u.jpg)
+![LightDM Display Manager in Linux Mint](/Asserts/Images/album/202208/28/172925o186q5q4s2kfj51u.jpg)
 
 
 在另一个方面，如果结果是 `/usr/sbin/mdm`，你需要安装 LightDM ，[切换到 LightDM](https://itsfoss.com/switch-gdm-and-lightdm-in-ubuntu-14-04/) 并移除 MDM 。使用这行命令来安装 LightDM ：

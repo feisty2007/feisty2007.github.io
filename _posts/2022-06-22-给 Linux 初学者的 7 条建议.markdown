@@ -15,7 +15,7 @@ tags:	[linuxcn,初学者]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/15/143733yhdrxhbnhojbxn2a.jpg)
+![](/Asserts/Images/album/202206/15/143733yhdrxhbnhojbxn2a.jpg)
 
 
 对 Linux 的新用户有什么建议？我们请社区的作者们分享了他们初学时的最佳经验。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Podman,GitLab]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/24/093145pkr5rd2qqkmch6xv.jpg)
+![](/Asserts/Images/album/202308/24/093145pkr5rd2qqkmch6xv.jpg)
 
 
 
@@ -24,7 +24,7 @@ GitLab <ruby> 执行器 <rt>  Runner </rt></ruby> 是一个与 GitLab CI/CD 配�
 主要的公共 [GitLab 实例](https://gitlab.com) 提供了许多易于访问的共享执行器，可供你在 CI 流水线中使用。你可以在 GitLab 上仓库的 <ruby> 设置 <rt>  Settings </rt></ruby> -> CI/CD -> <ruby> 执行器 <rt>  Runners </rt></ruby> 中找到共享执行器的列表。
 
 
-![Display available GitLab runners in your repository's settings](/Asserts/Images//attachment/album/202308/24/093215hkkwcwx0ws4hcc6n.png)
+![Display available GitLab runners in your repository's settings](/Asserts/Images/album/202308/24/093215hkkwcwx0ws4hcc6n.png)
 
 
 你可能不想依赖共享执行器，而是选择自己的执行器，原因有很多。例如，控制执行器运行的基础设施以实现额外的安全性和/或隐私、灵活的执行器配置或分配给你的 GitLab 用户帐户的有限 CI 分钟数。
@@ -143,13 +143,13 @@ $ sudo gitlab-runner restart
 验证新的执行器在 GitLab 项目的 <ruby> 设置 <rt>  Settings </rt></ruby> -> CI/CD -> <ruby> 执行器 <rt>  Runners </rt></ruby> 中可见：
 
 
-![Restart the GitLab runner](/Asserts/Images//attachment/album/202308/24/093216z65zpupklzejukeu.png)
+![Restart the GitLab runner](/Asserts/Images/album/202308/24/093216z65zpupklzejukeu.png)
 
 
 接下来，验证你的 CI 流水线正在使用执行器。你的 CI 任务日志将提及正在使用的执行器的名称以及任何其他配置信息，例如 执行器的执行环境的功能标志和容器镜像。
 
 
-![View CI tasklogs to display the runner](/Asserts/Images//attachment/album/202308/24/093216cmjd453j75aj4c7a.png)
+![View CI tasklogs to display the runner](/Asserts/Images/album/202308/24/093216cmjd453j75aj4c7a.png)
 
 
 ### Podman-in-Podman（pipglr）
@@ -244,13 +244,13 @@ $ sudo loginctl enable-linger $(id -u)
 验证你的新执行器在 GitLab 项目的 <ruby> 设置 <rt>  Settings </rt></ruby> -> CI/CD -> <ruby> 执行器 <rt>  Runners </rt></ruby> 中可见：
 
 
-![Verify the new runner is visible](/Asserts/Images//attachment/album/202308/24/093216nhrhr3538h4o2omm.png)
+![Verify the new runner is visible](/Asserts/Images/album/202308/24/093216nhrhr3538h4o2omm.png)
 
 
 最后，验证你的 CI 流水线正在使用你的执行器：
 
 
-![Verify the CI pipeline](/Asserts/Images//attachment/album/202308/24/093216gqhuse4qsilepl64.png)
+![Verify the CI pipeline](/Asserts/Images/album/202308/24/093216gqhuse4qsilepl64.png)
 
 
 ### 总结

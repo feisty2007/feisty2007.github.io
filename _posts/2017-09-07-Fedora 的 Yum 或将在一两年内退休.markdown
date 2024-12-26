@@ -7,7 +7,7 @@ tags:	[linuxcn,DNF,Yum]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/03/114024w0kg9ajhmc04cc16.jpg)
+![](/Asserts/Images/album/201709/03/114024w0kg9ajhmc04cc16.jpg)
 
 
 随着 DNF 软件包管理器在最近的 Fedora 版本里面工作日益工作良好，我们可以预见到 Yum 将在之后的 Fedora 版本中谢幕。

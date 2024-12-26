@@ -22,7 +22,7 @@ tags:	[linuxcn,AppImage]
 “Run once”或者“Integrate and run”。
 
 
-![](/Asserts/Images//attachment/album/201805/18/122930e3crdimggjmmgi03.png)
+![](/Asserts/Images/album/201805/18/122930e3crdimggjmmgi03.png)
 
 
 点击 “Integrate and run”，这个 AppImage 就被复制到 `~/.bin/` （家目录中的隐藏文件夹）并添加到菜单中，然后启动该程序。
@@ -31,7 +31,7 @@ tags:	[linuxcn,AppImage]
 要删除它也很简单，只要您使用的桌面环境支持桌面动作就行。例如，在 Gnome Shell 中，只需右键单击“活动概览”中的应用程序图标，然后选择“Remove from system”：
 
 
-![](/Asserts/Images//attachment/album/201805/18/122945kbbh7om7w09u857v.png)
+![](/Asserts/Images/album/201805/18/122945kbbh7om7w09u857v.png)
 
 
 更新：该应用只初步为 Ubuntu 和 Mint 做了开发，但它最近会提供 Debian、 Netrunner 和 openSUSE 支持。本文首次发布后添加的另一个功能是支持 AppImage 的更新；你在启动器中可以找到 “Update AppImage”。

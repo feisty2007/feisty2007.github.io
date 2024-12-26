@@ -7,10 +7,10 @@ tags:	[linuxcn,IBM,Thunderbird,Windows 11]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/05/104120hrhlxizgdhqllook.jpg)
+![](/Asserts/Images/album/202205/05/104120hrhlxizgdhqllook.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/04/151200hnbdj3wv3yqrxmvr.jpg)
+![](/Asserts/Images/album/202205/04/151200hnbdj3wv3yqrxmvr.jpg)
 
 
 ### 六个月后，PCWorld 仍然认为没必要升级 Windows 11
@@ -35,7 +35,7 @@ tags:	[linuxcn,IBM,Thunderbird,Windows 11]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/04/151219rizdkx2gxa2qxza3.jpg)
+![](/Asserts/Images/album/202205/04/151219rizdkx2gxa2qxza3.jpg)
 
 
 ### Thunderbird 即将推出移动版
@@ -60,7 +60,7 @@ tags:	[linuxcn,IBM,Thunderbird,Windows 11]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/04/151232ifa0wf46ajzw0fw5.jpg)
+![](/Asserts/Images/album/202205/04/151232ifa0wf46ajzw0fw5.jpg)
 
 
 ### IBM 三年来首次对 Power 服务器的 i OS 进行重大更新

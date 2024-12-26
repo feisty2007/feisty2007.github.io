@@ -7,7 +7,7 @@ tags:	[linuxcn,调试器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/26/175338u3rarihzal14s8sg.jpg)
+![](/Asserts/Images/album/201708/26/175338u3rarihzal14s8sg.jpg)
 
 
 在上一部分我们学习了关于 DWARF 的信息，以及它如何被用于读取变量和将被执行的机器码与我们的高级语言的源码联系起来。在这一部分，我们将进入实践，实现一些我们调试器后面会使用的 DWARF 原语。我们也会利用这个机会，使我们的调试器可以在命中一个断点时打印出当前的源码上下文。

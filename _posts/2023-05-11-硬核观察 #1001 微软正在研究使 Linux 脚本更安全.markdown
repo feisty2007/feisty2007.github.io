@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,微软,安全,云服务商]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/14/180343m6n9hyn5hymn9qm8.jpg)
+![](/Asserts/Images/album/202305/14/180343m6n9hyn5hymn9qm8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/14/180353o0b2iiihylns2v2i.jpg)
+![](/Asserts/Images/album/202305/14/180353o0b2iiihylns2v2i.jpg)
 
 
 ### 微软正在研究使 Linux 脚本更安全
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,微软,安全,云服务商]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/14/180405ndveivhehwd0d2d0.jpg)
+![](/Asserts/Images/album/202305/14/180405ndveivhehwd0d2d0.jpg)
 
 
 ### 观点：只有云计算供应商才能做好安全工作
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,微软,安全,云服务商]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/14/180425b8clnqq8frenn6l6.jpg)
+![](/Asserts/Images/album/202305/14/180425b8clnqq8frenn6l6.jpg)
 
 
 ### 裁员时拥有开源和 Linux 技能比较安全

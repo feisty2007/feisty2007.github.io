@@ -7,10 +7,10 @@ tags:	[linuxcn,浏览器,iOS,安全漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/09/195822r6kcbbacb6qa6xf6.jpg)
+![](/Asserts/Images/album/202306/09/195822r6kcbbacb6qa6xf6.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/09/195841emlbamlae87aa6m6.jpg)
+![](/Asserts/Images/album/202306/09/195841emlbamlae87aa6m6.jpg)
 
 
 ### Vivaldi 将伪装成 Edge 以让用户使用必应聊天
@@ -35,7 +35,7 @@ tags:	[linuxcn,浏览器,iOS,安全漏洞]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/09/195902ogg9wgw2zwiiiokz.jpg)
+![](/Asserts/Images/album/202306/09/195902ogg9wgw2zwiiiokz.jpg)
 
 
 ### 邮件网关厂商让用户更换有漏洞的设备而不是打补丁升级
@@ -60,7 +60,7 @@ Barracuda 公司的电子邮件安全网关（ESG）负责扫描所有传入和�
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/09/195918nk4a64mvtgf4a4tz.jpg)
+![](/Asserts/Images/album/202306/09/195918nk4a64mvtgf4a4tz.jpg)
 
 
 ### iOS 17 会自动删除链接的跟踪参数

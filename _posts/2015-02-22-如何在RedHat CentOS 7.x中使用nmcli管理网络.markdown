@@ -13,7 +13,7 @@ tags:	[linuxcn,nmcli,NetworkManager]
 NetworkManager可以由命令行工具**nmcli**控制。
 
 
-![](/Asserts/Images//attachment/album/201502/22/220239kpgjgdipg2np3p32.png)
+![](/Asserts/Images/album/201502/22/220239kpgjgdipg2np3p32.png)
 
 
 ### nmcli的通常用法
@@ -31,7 +31,7 @@ nmcli的通常语法是：
 一件很酷的事情是你可以使用tab键来补全操作，这样你在何时忘记了语法你都可以按下tab来看到可用的选项了。
 
 
-![nmcli tab](/Asserts/Images//attachment/album/201502/22/220243z4qzyhe22gfr4elf.jpg)
+![nmcli tab](/Asserts/Images/album/201502/22/220243z4qzyhe22gfr4elf.jpg)
 
 
 nmcli通常用法的一些例子：
@@ -73,7 +73,7 @@ nmcli通常用法的一些例子：
 显示NetworkManager识别的设备列表和它们当前的状态。
 
 
-![nmcli general](/Asserts/Images//attachment/album/201502/22/220245tysrpteu7ypu0c3t.jpg)
+![nmcli general](/Asserts/Images/album/201502/22/220245tysrpteu7ypu0c3t.jpg)
 
 
 ### 启动/停止网络设备
@@ -148,7 +148,7 @@ nmcli通常用法的一些例子：
 
 ```
 
-![nmcli add static](/Asserts/Images//attachment/album/201502/22/220246b3wcgjuqmgtkqxcu.jpg)
+![nmcli add static](/Asserts/Images/album/201502/22/220246b3wcgjuqmgtkqxcu.jpg)
 
 
 ### 添加一个使用DHCP的连接

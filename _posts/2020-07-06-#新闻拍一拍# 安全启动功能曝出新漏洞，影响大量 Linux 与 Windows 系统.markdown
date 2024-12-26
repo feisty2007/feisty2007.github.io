@@ -7,7 +7,7 @@ tags:	[linuxcn,安全启动]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/31/090843h6voxzxb6edekbez.jpg)
+![](/Asserts/Images/album/202007/31/090843h6voxzxb6edekbez.jpg)
 
 
 #### 安全启动功能曝出新漏洞，影响大量 Linux 与 Windows 系统

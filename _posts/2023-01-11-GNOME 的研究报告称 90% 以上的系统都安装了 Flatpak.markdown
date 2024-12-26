@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME,Flatpak]
 > 
 
 
-![GNOME 的研究报告说，超过 90% 的系统安装了 Flatpak](/Asserts/Images//attachment/album/202301/29/151551o4zomo3001k4yvam.jpg)
+![GNOME 的研究报告说，超过 90% 的系统安装了 Flatpak](/Asserts/Images/album/202301/29/151551o4zomo3001k4yvam.jpg)
 
 
 在 2022 年 8 月，GNOME 开发了 [一个工具](https://news.itsfoss.com/gnome-improve-tool/)，让用户可以匿名提供关于他们的系统配置、扩展和 GNOME 调整的设置。

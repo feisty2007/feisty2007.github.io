@@ -7,7 +7,7 @@ tags:	[linuxcn,Vim,漫画]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/22/095500lrn0rk05n9889cck.png)
+![](/Asserts/Images/album/201812/22/095500lrn0rk05n9889cck.png)
 
 
 “密室逃脱”是近年来流行的益智解密游戏。我们的主人公就进入了这样的一个游戏，然而，发现谜题是——如何退出 Vim！！！

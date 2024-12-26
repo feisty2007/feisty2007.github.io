@@ -18,7 +18,7 @@ tags:	[linuxcn,驱动,ixgbe,内核]
 Intel的10G网卡（比如，82598、 82599、 x540）由ixgbe驱动支持。现代的Linux发行版已经带有了ixgbe驱动，通过可加载模块的方式使用。然而，有些情况你希望在你机器上的自己编译安装ixgbe驱动，比如，你想要体验ixbge驱动的最新特性时。同样，内核默认自带的ixgbe驱动中的一个问题是不允许你自定义驱动的参数。如果你想要一个完全定制的ixgbe驱动（比如 RSS、多队列、中断阈值等等），你需要手动从源码编译ixgbe驱动。
 
 
-![](/Asserts/Images//attachment/album/201503/29/204506bzopz2a2ocypcpcc.png)
+![](/Asserts/Images/album/201503/29/204506bzopz2a2ocypcpcc.png)
 
 
 这里是如何在Ubuntu、Debian或者它们的衍生版中下载安装ixgbe驱动的教程。
@@ -187,7 +187,7 @@ Sep 18 14:48:52 spongebob kernel: [684717.906254] Intel(R) 10 Gigabit PCI Expres
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/29/204512prjh9c96c9hcrhj9.jpg)
+![](/Asserts/Images/album/201503/29/204512prjh9c96c9hcrhj9.jpg)
 
 
 ### 第五步： 安装Ixgbe驱动

@@ -7,7 +7,7 @@ tags:	[linuxcn,Jupyter]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/08/130323myvdvjpgyv8ytdyl.jpg)
+![](/Asserts/Images/album/201907/08/130323myvdvjpgyv8ytdyl.jpg)
 
 
 在过去，神谕和魔法师被认为拥有发现奥秘的力量，国王和统治者们会借助他们预测未来，或者至少是听取一些建议。如今我们生活在一个痴迷于将一切事情量化的社会里，这份工作就交给数据科学家了。
@@ -134,7 +134,7 @@ alias jn='jupyter notebook'
 运行 `jn` 命令之后，你可以通过网络内部的任何一个浏览器访问 `<https://your-fedora-host.com:8888>` （LCTT 译注：请将域名替换为服务器的域名），就可以看到 Jupyter 的用户界面了，需要使用前面设置的密码登录。你可以尝试键入一些 Python 代码和标记文本，看起来会像下面这样：
 
 
-![Jupyter with a simple notebook](/Asserts/Images//attachment/album/201907/08/130327dd9us52t235twd7t.png)
+![Jupyter with a simple notebook](/Asserts/Images/album/201907/08/130327dd9us52t235twd7t.png)
 
 
 除了 IPython 环境，安装过程还会生成一个由 `terminado` 提供的基于 web 的 Unix 终端。有人觉得这很实用，也有人觉得这样不是很安全。你可以在配置文件里禁用这个功能。
@@ -179,7 +179,7 @@ Numpy 是一个针对 C 语言优化过的高级库，用来处理大型的内�
 Matplotlib 是一个用来绘制 2D 和 3D 数据图像的库，在图象注解、标签和叠加层方面都提供了相当不错的支持。
 
 
-![matplotlib pair of graphics showing a cost function searching its optimal value through a gradient descent algorithm](/Asserts/Images//attachment/album/201907/08/130339q2nirlp2214e8lre.png)
+![matplotlib pair of graphics showing a cost function searching its optimal value through a gradient descent algorithm](/Asserts/Images/album/201907/08/130339q2nirlp2214e8lre.png)
 
 
 #### Seaborn
@@ -188,7 +188,7 @@ Matplotlib 是一个用来绘制 2D 和 3D 数据图像的库，在图象注解�
 Seaborn 构建在 Matplotlib 之上，它的绘图功能经过了优化，更加适合数据的统计学研究，比如说可以自动显示所绘制数据的近似回归线或者正态分布曲线。
 
 
-![Linear regression visualised with SeaBorn](/Asserts/Images//attachment/album/201907/08/130342erliee2dlr26ee8m.png)
+![Linear regression visualised with SeaBorn](/Asserts/Images/album/201907/08/130342erliee2dlr26ee8m.png)
 
 
 #### StatsModels
@@ -197,7 +197,7 @@ Seaborn 构建在 Matplotlib 之上，它的绘图功能经过了优化，更加
 [StatsModels](https://www.statsmodels.org/) 为统计学和经济计量学的数据分析问题（例如线形回归和逻辑回归）提供算法支持，同时提供经典的 [时间序列算法](https://www.statsmodels.org/stable/examples/index.html#stats) 家族 ARIMA。
 
 
-![Normalized number of passengers across time \(blue\) and ARIMA-predicted number of passengers \(red\)](/Asserts/Images//attachment/album/201907/08/130345fqs4uch81r8fq5h5.png)
+![Normalized number of passengers across time \(blue\) and ARIMA-predicted number of passengers \(red\)](/Asserts/Images/album/201907/08/130345fqs4uch81r8fq5h5.png)
 
 
 #### Scikit-learn
@@ -240,7 +240,7 @@ $ pip3 install imblearn --user
 机器学习算法拥有强大的预测能力，但并不能够很好地解释为什么做出这样或那样的预测。[SHAP](https://github.com/slundberg/shap) 可以通过分析训练后的模型来解决这个问题。
 
 
-![Where SHAP fits into the data analysis process](/Asserts/Images//attachment/album/201907/08/130348gpufkf0kar3y33z5.png)
+![Where SHAP fits into the data analysis process](/Asserts/Images/album/201907/08/130348gpufkf0kar3y33z5.png)
 
 
 使用 `pip` 安装：

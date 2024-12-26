@@ -7,7 +7,7 @@ tags:	[linuxcn,MATE,Arch Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/21/104424o8p78qj8gp5hqghj.jpg)
+![](/Asserts/Images/album/202302/21/104424o8p78qj8gp5hqghj.jpg)
 
 
 
@@ -80,7 +80,7 @@ sudo pacman -S --needed mate mate-extra ttf-freefont lightdm lightdm-gtk-greeter
 > 
 
 
-![安装 MATE 包](/Asserts/Images//attachment/album/202302/21/104500n7hjt5zvj4jth45v.jpg)
+![安装 MATE 包](/Asserts/Images/album/202302/21/104500n7hjt5zvj4jth45v.jpg)
 
 
 安装应用软件：
@@ -120,7 +120,7 @@ reboot
 现在你可以使用刚刚创建的用户 ID 和密码登录。一个超快速和传统的 MATE 桌面将欢迎你的到来。
 
 
-![Arch Linux 中的 MATE 桌面](/Asserts/Images//attachment/album/202302/21/104510tcnrtars91217cx9.jpg)
+![Arch Linux 中的 MATE 桌面](/Asserts/Images/album/202302/21/104510tcnrtars91217cx9.jpg)
 
 
 我希望本指南能帮助你从头开始创建自己的 Arch Linux 环境，并使用传统的 MATE 桌面。

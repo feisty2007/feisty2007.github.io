@@ -7,10 +7,10 @@ tags:	[linuxcn,Linus Torvalds,AI,Rust,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/10/195947pk2r1kfr9c4442fc.jpg)
+![](/Asserts/Images/album/202312/10/195947pk2r1kfr9c4442fc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/10/200120gsv2h2qs32lmqyhz.png)
+![](/Asserts/Images/album/202312/10/200120gsv2h2qs32lmqyhz.png)
 
 
 ### #1 Linus Torvalds 谈 Rust 和 AI 编程
@@ -41,7 +41,7 @@ tags:	[linuxcn,Linus Torvalds,AI,Rust,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/10/200145vzmbk8ke4nzwfn8l.png)
+![](/Asserts/Images/album/202312/10/200145vzmbk8ke4nzwfn8l.png)
 
 
 ### #2 Meta 用 11 亿张用户照片训练其人工智能图像生成器
@@ -69,7 +69,7 @@ Meta 推出了一项独立的文本到图像人工智能生成器服务 Imagine�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/10/200205yzp7xv007iqps7ie.png)
+![](/Asserts/Images/album/202312/10/200205yzp7xv007iqps7ie.png)
 
 
 ### #3 微软 DHCP 服务器软件被滥用来欺骗 DNS 记录

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,编程语言,工作]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/25/121844ftj322dt00a3oajd.jpg)
+![](/Asserts/Images/album/202207/25/121844ftj322dt00a3oajd.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/25/121856pkrwoqowe21o1zpq.jpg)
+![](/Asserts/Images/album/202207/25/121856pkrwoqowe21o1zpq.jpg)
 
 
 ### 程序员奶爸用 AI 解决婴儿喂奶难题
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,编程语言,工作]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/25/121906cjjfi60ad0amfffm.jpg)
+![](/Asserts/Images/album/202207/25/121906cjjfi60ad0amfffm.jpg)
 
 
 ### 国内 Go 语言爱好者发起新编程语言：凹语言
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,编程语言,工作]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/25/121924ye36vhkl9dadax9u.jpg)
+![](/Asserts/Images/album/202207/25/121924ye36vhkl9dadax9u.jpg)
 
 
 ### 大多数开源开发者都在关注新的工作机会

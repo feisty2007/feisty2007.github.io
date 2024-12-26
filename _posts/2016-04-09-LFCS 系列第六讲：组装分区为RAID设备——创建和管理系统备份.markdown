@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS,RAID,备份]
 Linux 基金会已经发起了一个全新的 LFCS（<ruby> Linux 基金会认证系统管理员 <rp>  （ </rp> <rt>  Linux Foundation Certified Sysadmin </rt> <rp>  ） </rp></ruby>）认证，旨在让来自世界各地的人有机会参加到 LFCS 测试，获得关于有能力在 Linux 系统中执行中级系统管理任务的认证。该认证包括：维护正在运行的系统和服务的能力、全面监控和分析的能力以及何时向上游团队请求支持的决策能力。
 
 
-![Linux Foundation Certified Sysadmin – Part 6](/Asserts/Images//attachment/album/201604/15/222341p4sqojzu2sztehsy.png)
+![Linux Foundation Certified Sysadmin – Part 6](/Asserts/Images/album/201604/15/222341p4sqojzu2sztehsy.png)
 
 
 *LFCS 系列第六讲*
@@ -81,7 +81,7 @@ Linux 基金会已经发起了一个全新的 LFCS（<ruby> Linux 基金会认�
 
 ```
 
-![Creating RAID Array](/Asserts/Images//attachment/album/201604/15/222344q1889bbk5n869592.png)
+![Creating RAID Array](/Asserts/Images/album/201604/15/222344q1889bbk5n869592.png)
 
 
 *创建 RAID 阵列*
@@ -101,7 +101,7 @@ or
 
 ```
 
-![Check RAID Array Status](/Asserts/Images//attachment/album/201604/15/222348pxren45x9z57pzbu.png)
+![Check RAID Array Status](/Asserts/Images/album/201604/15/222348pxren45x9z57pzbu.png)
 
 
 *检查 RAID 阵列的状态*
@@ -125,7 +125,7 @@ or
 
 ```
 
-![Monitor RAID Array](/Asserts/Images//attachment/album/201604/15/222354jdhnm2wyasnzhmv3.png)
+![Monitor RAID Array](/Asserts/Images/album/201604/15/222354jdhnm2wyasnzhmv3.png)
 
 
 *监控 RAID 阵列*
@@ -187,7 +187,7 @@ AUTOSTART=true
 在支持冗余的的 RAID 级别中，在需要时会替换故障的驱动器。当磁盘阵列中的设备出现故障时，仅当存在我们第一次创建阵列时预留的备用设备时，磁盘阵列会将自动启动重建。
 
 
-![Check RAID Faulty Disk](/Asserts/Images//attachment/album/201604/15/222400usjj5mzsxvwvql2n.png)
+![Check RAID Faulty Disk](/Asserts/Images/album/201604/15/222400usjj5mzsxvwvql2n.png)
 
 
 *检查 RAID 故障磁盘*
@@ -237,7 +237,7 @@ MAILADDR root
 说明：此次通知事件和第5步中的例子相关。此处一个设备被标志为错误，并且一个空闲的设备自动地被 mdadm 加入到阵列。我们用完了所有“健康的”空闲设备，因此我们得到了通知。
 
 
-![RAID Monitoring Alerts](/Asserts/Images//attachment/album/201604/15/222403ao1rbkmzdh5iplm9.png)
+![RAID Monitoring Alerts](/Asserts/Images/album/201604/15/222403ao1rbkmzdh5iplm9.png)
 
 
 *RAID 监控通知*
@@ -393,7 +393,7 @@ MAILADDR root
 在这里，-a 递归遍历子目录(如果它们存在的话)，维持符号链接、时间戳、权限以及原本的属主/属组，-v 显示详细过程。
 
 
-![rsync Synchronizing Files](/Asserts/Images//attachment/album/201604/15/222405x8a94kkqyffay9sp.png)
+![rsync Synchronizing Files](/Asserts/Images/album/201604/15/222405x8a94kkqyffay9sp.png)
 
 
 *rsync 同步文件*
@@ -417,7 +417,7 @@ MAILADDR root
 在这里，-h 选项以易读的格式显示文件的大小，-e 标志用于表示一个 ssh 连接。
 
 
-![rsync Synchronize Remote Files](/Asserts/Images//attachment/album/201604/15/222410w0r0bcclcgtgc3cf.png)
+![rsync Synchronize Remote Files](/Asserts/Images/album/201604/15/222410w0r0bcclcgtgc3cf.png)
 
 
 *rsync 同步远程文件*

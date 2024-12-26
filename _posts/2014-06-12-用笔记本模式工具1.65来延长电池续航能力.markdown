@@ -7,7 +7,7 @@ tags:	[linuxcn,笔记本,电池]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/21/223318zvpt6c8bm6ftcttf.jpg)
+![](/Asserts/Images/album/201406/21/223318zvpt6c8bm6ftcttf.jpg)
 
 
 笔记本模式工具是一个Linux电源管理工具包，它可以让用户以多种方式延长笔记本电池续航能力，现在它已经升级到1.65。

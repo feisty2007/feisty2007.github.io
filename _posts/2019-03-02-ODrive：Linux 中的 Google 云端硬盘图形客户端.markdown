@@ -7,7 +7,7 @@ tags:	[linuxcn,Google,云端硬盘]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/20/224606letwoxtwpr7z0axe.png)
+![](/Asserts/Images/album/201903/20/224606letwoxtwpr7z0axe.png)
 
 
 这个我们已经多次讨论过。但是，我还要简要介绍一下它。截至目前，还没有官方的 Google 云端硬盘的 Linux 客户端，我们需要使用非官方客户端。Linux 中有许多集成 Google 云端硬盘的应用。每个应用都提供了一组功能。
@@ -64,61 +64,61 @@ $ ./odrive-0.1.3-x86_64.AppImage
 运行上述命令时，可能会看到下面的窗口。只需按下“下一步”按钮即可进行进一步设置。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225039njkja9g4y9k7uilc.png)
+![](/Asserts/Images/album/201903/20/225039njkja9g4y9k7uilc.png)
 
 
 点击“连接”链接添加 Google 云端硬盘帐户。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225052e606q56992b86k81.png)
+![](/Asserts/Images/album/201903/20/225052e606q56992b86k81.png)
 
 
 输入你要设置 Google 云端硬盘帐户的电子邮箱。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225105hjwwj40rslysgjww.png)
+![](/Asserts/Images/album/201903/20/225105hjwwj40rslysgjww.png)
 
 
 输入邮箱密码。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225116pic4thudc66oiu6q.png)
+![](/Asserts/Images/album/201903/20/225116pic4thudc66oiu6q.png)
 
 
 允许 ODrive 访问你的 Google 帐户。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225126th355hn3p5lshvhd.png)
+![](/Asserts/Images/album/201903/20/225126th355hn3p5lshvhd.png)
 
 
 默认情况下，它将选择文件夹位置。如果你要选择特定文件夹，则可以更改。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225144hzcozodd6ol66f33.png)
+![](/Asserts/Images/album/201903/20/225144hzcozodd6ol66f33.png)
 
 
 最后点击“同步”按钮开始将文件从 Google 下载到本地系统。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225200vkc8pm8bpeun7nzj.png)
+![](/Asserts/Images/album/201903/20/225200vkc8pm8bpeun7nzj.png)
 
 
 同步正在进行中。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225216tgo7suo02zofo2uf.png)
+![](/Asserts/Images/album/201903/20/225216tgo7suo02zofo2uf.png)
 
 
 同步完成后。它会显示所有已下载的文件。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225226l6od616bg757zh57.png)
+![](/Asserts/Images/album/201903/20/225226l6od616bg757zh57.png)
 
 
 我看到所有文件都下载到上述目录中。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225238xyz8er22qpya8y8h.png)
+![](/Asserts/Images/album/201903/20/225238xyz8er22qpya8y8h.png)
 
 
 如果要将本地系统中的任何新文件同步到 Google 。只需从应用菜单启动 “ODrive”，但它不会实际启动应用。它将在后台运行，我们可以使用 `ps` 命令查看。
@@ -129,13 +129,13 @@ $ ./odrive-0.1.3-x86_64.AppImage
 $ ps -df | grep odrive
 ```
 
-![](/Asserts/Images//attachment/album/201903/20/225252v4hfze9sh4h4f9bk.png)
+![](/Asserts/Images/album/201903/20/225252v4hfze9sh4h4f9bk.png)
 
 
 将新文件添加到 Google文件夹后，它会自动开始同步。从通知菜单中也可以看到。是的，我看到一个文件已同步到 Google 中。
 
 
-![](/Asserts/Images//attachment/album/201903/20/225303ghfjhkfrvjvvzjcq.png)
+![](/Asserts/Images/album/201903/20/225303ghfjhkfrvjvvzjcq.png)
 
 
 同步完成后图形界面没有加载，我不确定这个功能。我会向开发者反馈之后，根据他的反馈更新。

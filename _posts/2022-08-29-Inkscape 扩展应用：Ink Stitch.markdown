@@ -7,7 +7,7 @@ tags:	[linuxcn,Inkscape,绣花]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/16/111057e0ol09ja0q6wlnej.jpg)
+![](/Asserts/Images/album/202208/16/111057e0ol09ja0q6wlnej.jpg)
 
 
 Inkscape 是 Fedora 设计团队最喜爱最常用的软件，它的功能可不止于制作精美的矢量图形。矢量图形（也就是 SVG 文件）可以帮助实现更多操作，许多软件也支持这一格式。不过，Inkscape 还有其他功能有待发掘。[本系列](https://fedoramagazine.org/series/make-more/) 第一篇文章介绍了如何 [使用 Inkscape 生成 GCode 文件](https://fedoramagazine.org/make-more-with-inkscape-g-code-tools/)；本篇文章将探索 Inkscape 的另一项扩展功能：用于绣花设计的 [Ink/Stitch](https://inkstitch.org/)。
@@ -34,7 +34,7 @@ Inkscape 是 Fedora 设计团队最喜爱最常用的软件，它的功能可不
 到今天，只剩下一个办法：[Ink/Stitch](https://inkstitch.org/)
 
 
-![The logo of the Ink/Stitch project](/Asserts/Images//attachment/album/202208/16/111101ibxlkejgg6uo1g8x.png)
+![The logo of the Ink/Stitch project](/Asserts/Images/album/202208/16/111101ibxlkejgg6uo1g8x.png)
 
 
 ### 开源与绣花设计
@@ -106,7 +106,7 @@ Ink/Stitch 提供了为 Inkscape 安装插件的功能，用户需首先执行�
 该功能执行后，将会安装来自不同纱线制造商的 70 套色板，以及一套符号库。
 
 
-![Inkscape with the swatches dialogue open, which shows the Madeira Rayon color palette](/Asserts/Images//attachment/album/202208/16/111101hw2zexmbfwbmn8xi.png)
+![Inkscape with the swatches dialogue open, which shows the Madeira Rayon color palette](/Asserts/Images/album/202208/16/111101hw2zexmbfwbmn8xi.png)
 
 
 如果你使用的 Ink/Stitch 是从 Github 下载的 2.0.0 版本，那么下载下来的 ZIP 文件里就包括了色板文件。你只需将其解压到正确的路径：`~/.config/inkscape/palettes/`。如果你需要环形模板，可以点击 [此处](https://inkstitch.org/assets/images/tutorials/templates/hoop-template.svg) 下载，并将其保存到 `~/.config/inkscape/templates` 目录下。
@@ -121,7 +121,7 @@ Ink/Stitch 提供了为 Inkscape 安装插件的功能，用户需首先执行�
 到目前为止，绣花设计最简单也最常用的方法就是使用 Ink/Stitch 的 <ruby> 文字缝制 <rt>  Lettering </rt></ruby> 功能。该功能位于 <ruby> 扩展 <rt>  Extensions </rt></ruby> > Ink/Stitch > <ruby> 文字缝制 <rt>  Lettering </rt></ruby>。绣花文字缝制可不是一件简单事儿，它其实就是所谓的缎面绣字，需要做好特殊的文字设置。
 
 
-![Inkscape with a “Chopin” glyph for satin stitching defined for the Lettering function](/Asserts/Images//attachment/album/202208/16/111102gkbv45xkw54zctkv.png)
+![Inkscape with a “Chopin” glyph for satin stitching defined for the Lettering function](/Asserts/Images/album/202208/16/111102gkbv45xkw54zctkv.png)
 
 
 你可以将路径转换为缎面绣，但是这种方法比使用文字缝制功能还要繁琐许多。多亏了社区的活跃，2021 年 5 月份发布的 Ink/Stitch 2.0 版本预置了更多的字体。2.0 版本还增加了 <ruby> 扩展 <rt>  Extensions </rt></ruby> > Ink/Stitch > <ruby> 字体管理 <rt>  Font Management </rt></ruby> 功能，让用户更方便地管理这些字体。
@@ -130,7 +130,7 @@ Ink/Stitch 提供了为 Inkscape 安装插件的功能，用户需首先执行�
 此外，还有制作字体的功能，但是你需要了解如何使用 Inkscape 设计字体，可在 [此处](https://inkstitch.org/tutorials/font-creation/) 浏览相关英文教程。这里只给出大概的介绍：首先创建一个 SVG 字体，接着将其储存在 JSON 文件中，这样便可以在 Ink/Stitch 字体管理功能中使用。
 
 
-![On the left side the Lettering dialogue and on the right the preview of this settings](/Asserts/Images//attachment/album/202208/16/111103gztn5shtjtwjtn88.png)
+![On the left side the Lettering dialogue and on the right the preview of this settings](/Asserts/Images/album/202208/16/111103gztn5shtjtwjtn88.png)
 
 
 该功能将打开一个对话窗口，你可以把文字输进去，调整字体及其大小，然后即可将输入的文字渲染出来。
@@ -148,13 +148,13 @@ Ink/Stitch 最容易实现的就是绣制区域或者路径。你需要做的只
 接下来，运行 Ink/Stitch 内置模拟器：<ruby> 扩展 <rt>  Extensions </rt></ruby> > Ink/Stitch > <ruby> 可视化并导出 <rt>  Visualise and Export </rt></ruby> > <ruby> 模拟器/实际预览 <rt>  Simulator/Realistic Preview </rt></ruby>。
 
 
-![The new Fedora logo as Stitch Plan Preview](/Asserts/Images//attachment/album/202208/16/111104tzkvnnd4pnojweep.png)
+![The new Fedora logo as Stitch Plan Preview](/Asserts/Images/album/202208/16/111104tzkvnnd4pnojweep.png)
 
 
 注意，模拟器运行时需要占用大量的系统资源，而且启动时间也比较长。其实，以下功能操作起来会更加简便：<ruby> 扩展 <rt>  Extensions </rt></ruby> > Ink/Stitch > <ruby> 可视化并导出 <rt>  Visualise and Export </rt></ruby> > <ruby> 线迹计划预览 <rt>  Stitch Plan Preview </rt></ruby>。该功能会在文件外部对线条进行渲染。
 
 
-![Nicubunu’s Fedora hat icon as embroidery. The angles for the stitches of the head part and the brim are different so that it looks more realistic. The outline is done in Satin stitching](/Asserts/Images//attachment/album/202208/16/111105ax1e9sd1kxlt4q7e.gif)
+![Nicubunu’s Fedora hat icon as embroidery. The angles for the stitches of the head part and the brim are different so that it looks more realistic. The outline is done in Satin stitching](/Asserts/Images/album/202208/16/111105ax1e9sd1kxlt4q7e.gif)
 
 
 ### 简单的缎面及缎面绣
@@ -163,13 +163,13 @@ Ink/Stitch 最容易实现的就是绣制区域或者路径。你需要做的只
 Ink/Stitch 会使用连续的线条（非虚线）将每个笔画转换成之字形或简单的缎面。依照预先设置好的描边宽度，沿着路径绣出线迹。只要路径上没有过多的曲线，使用这一方法就没问题。
 
 
-![Parameter setting dialogue and on the right the Fedora logo shape embroidered as Zig-Zag line](/Asserts/Images//attachment/album/202208/16/111105mkykk9oi44xoubex.png)
+![Parameter setting dialogue and on the right the Fedora logo shape embroidered as Zig-Zag line](/Asserts/Images/album/202208/16/111105mkykk9oi44xoubex.png)
 
 
 这个方法虽然简单，但绝不是最好的选择。最好的选择是使用缎面工具，该功能可以在 <ruby> 扩展 <rt>  Extensions </rt></ruby> > <ruby> 缎面工具 <rt>  Satin Tools </rt></ruby> 找到。其中，转换功能又是重中之重，它可以将路径转换为缎面笔画。
 
 
-![Fedora logo shape as Satin Line embroidery](/Asserts/Images//attachment/album/202208/16/111106d5dc2i7p78apzxzx.png)
+![Fedora logo shape as Satin Line embroidery](/Asserts/Images/album/202208/16/111106d5dc2i7p78apzxzx.png)
 
 
 通过 <ruby> 扩展 <rt>  Extensions </rt></ruby> > <ruby> 缎面工具 <rt>  Satin Tools </rt></ruby> > <ruby> 旋转缎纹路径 <rt>  Flip Satin Column Rails </rt></ruby>，你还可以改变线迹的方向。这样做可以凸显缎面绣的立体感，典型的例子就是泡芙刺绣（一种非常具有立体感的刺绣）。支持这种功能的机器还可以为绣花时产生的多余的连线线迹标记出修剪记号。这些记号正是从 Ink/Stitch 自身符号库里安装得到的符号。
@@ -184,19 +184,19 @@ Ink/Stitch 会使用连续的线条（非虚线）将每个笔画转换成之字
 * **平针**：平针用于边缘装饰，沿直线或曲线缝制出一排短小的线迹，由此组成的一条条虚线就是平针。虚线的尺寸可大可小。
 
 
-![A running stitch – each dashed line will be converted in such one](/Asserts/Images//attachment/album/202208/16/111107sstx3xmo3epmec93.jpg)
+![A running stitch – each dashed line will be converted in such one](/Asserts/Images/album/202208/16/111107sstx3xmo3epmec93.jpg)
 * **豆针**：豆针可用于边缘装饰或添加设计细节。使用平针来回缝制就是豆针，这种缝法会增加线迹的厚度。
 
 
-![Bean Stitches – creating a thicker line](/Asserts/Images//attachment/album/202208/16/111107eifyv4iritriksv7.jpg)
+![Bean Stitches – creating a thicker line](/Asserts/Images/album/202208/16/111107eifyv4iritriksv7.jpg)
 * **手工针**：在该模式下，Ink/Stitch 会将路径的每个节点当作穿针点；这些节点也正是针穿入的位置。
 
 
-![In manual mode – each node will be the needle penetration point](/Asserts/Images//attachment/album/202208/16/111107lw0lqew0pfsa0ac9.png)
+![In manual mode – each node will be the needle penetration point](/Asserts/Images/album/202208/16/111107lw0lqew0pfsa0ac9.png)
 * **E 字针**：E 字针是一种简单但十分好用的绷缝线迹，用于贴花织物。这种线迹多用于婴儿装，因为婴儿的皮肤比较敏感。
 
 
-![E-Stitch mostly used for applications on baby cloths, soft but strong connection](/Asserts/Images//attachment/album/202208/16/111107wpfmje2f2suzgj5f.jpg)
+![E-Stitch mostly used for applications on baby cloths, soft but strong connection](/Asserts/Images/album/202208/16/111107wpfmje2f2suzgj5f.jpg)
 
 
 ### 绣花用线列表

@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果,大型机,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/07/160709o7okwfkiq6zjf5og.jpg)
+![](/Asserts/Images/album/202207/07/160709o7okwfkiq6zjf5og.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/07/160721czqbl2f76sjzsnb6.jpg)
+![](/Asserts/Images/album/202207/07/160721czqbl2f76sjzsnb6.jpg)
 
 
 ### 苹果将发布 Lockdown 模式以抵御间谍软件攻击
@@ -35,7 +35,7 @@ tags:	[linuxcn,苹果,大型机,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/07/160738bpqmligmwmkglqp1.jpg)
+![](/Asserts/Images/album/202207/07/160738bpqmligmwmkglqp1.jpg)
 
 
 ### 亚马逊预览 AI 编程助手 CodeWhisperer
@@ -60,7 +60,7 @@ tags:	[linuxcn,苹果,大型机,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/07/160753qzyk3wehzhccuocw.jpg)
+![](/Asserts/Images/album/202207/07/160753qzyk3wehzhccuocw.jpg)
 
 
 ### 美国联邦快递将关闭数据中心，退役所有大型机

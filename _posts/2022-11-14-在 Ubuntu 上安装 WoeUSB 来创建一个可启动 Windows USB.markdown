@@ -30,7 +30,7 @@ tags:	[linuxcn,USB,Windows]
 ### WoeUSB
 
 
-![install woeusb ubuntu](/Asserts/Images//attachment/album/202211/05/151038m69dowd8w6i6fdfr.png)
+![install woeusb ubuntu](/Asserts/Images/album/202211/05/151038m69dowd8w6i6fdfr.png)
 
 
 WoeUSB 是一个简单的工具，其唯一的目的是 [在 Linux 上创建可启动 Windows USB](https://itsfoss.com/bootable-windows-usb-linux/) 。
@@ -117,13 +117,13 @@ sudo pip3 install WoeUSB-ng
 从 <ruby> 活动概述 <rt>  activity overview </rt></ruby> 或菜单中打开 woeusb-gui 。
 
 
-![woeusb in ubuntu activities overview](/Asserts/Images//attachment/album/202211/05/151038si222jek25j72wy2.png)
+![woeusb in ubuntu activities overview](/Asserts/Images/album/202211/05/151038si222jek25j72wy2.png)
 
 
 在应用程序窗口中，选择下载的 Windows ISO 和所希望的 USB 驱动器，如截屏所示，然后按下 <ruby> 安装 <rt>  Install </rt></ruby> 按钮。
 
 
-![woeusb gui setup](/Asserts/Images//attachment/album/202211/05/151039jwkb8z5ad7mdaqe6.png)
+![woeusb gui setup](/Asserts/Images/album/202211/05/151039jwkb8z5ad7mdaqe6.png)
 
 
 在应用程序中也其它可用的调整，可以通过顶部的菜单栏来访问使用。
@@ -132,13 +132,13 @@ sudo pip3 install WoeUSB-ng
 在按下“安装”按钮后，woeUSB 将开始格式化和复制文件。你需要等待一些时间，因为这里有大约 6 GB 的文件需要复制。
 
 
-![woeusb writing windows iso to the usb drive](/Asserts/Images//attachment/album/202211/05/151039hl5yalsyjqml5jew.png)
+![woeusb writing windows iso to the usb drive](/Asserts/Images/album/202211/05/151039hl5yalsyjqml5jew.png)
 
 
 在复制完成后，WoeUSB 将会提示一个成功的对话框。你现在可以安全地弹出 USB 驱动器，并将其作为一个可启动 USB 驱动器来使用。
 
 
-![woeusb completed writing and gives a success message](/Asserts/Images//attachment/album/202211/05/151039x0nmtte6fftnnpft.png)
+![woeusb completed writing and gives a success message](/Asserts/Images/album/202211/05/151039x0nmtte6fftnnpft.png)
 
 
 ### 方法 2: 从终端中使用 WoeUSB（针对专家）
@@ -159,13 +159,13 @@ sudo woeusb --device <path/to/Windows/ISO> <name/of/the/USB/device> --target-fil
 在这里，`--device` 标识用于擦除 USB 和从零开始创建一个可启动 USB 驱动器。同样，`--target-filesystem` 标识用于设置为 NTFS ，来避免将要复制的文件大小超过 FAT 文件系统的限制。
 
 
-![woeusb commandline](/Asserts/Images//attachment/album/202211/05/151040vfgc66ig1e6xb1j2.png)
+![woeusb commandline](/Asserts/Images/album/202211/05/151040vfgc66ig1e6xb1j2.png)
 
 
 该过程将花费一些时间来完成复制。在完成复制后，它将显示一条成功的信息。
 
 
-![woeusb commandline success message](/Asserts/Images//attachment/album/202211/05/151040qfj9f2z9c2c25pj4.png)
+![woeusb commandline success message](/Asserts/Images/album/202211/05/151040qfj9f2z9c2c25pj4.png)
 
 
 此时，你可以安全地弹出 USB 驱动器，并在其它的个人电脑上将其作为一个 Windows 可启动 USB 来使用。
@@ -192,7 +192,7 @@ sudo apt install wimtools
 现在，通过文件管理器或通过命令行来使它可执行。
 
 
-![make woeusb script executable](/Asserts/Images//attachment/album/202211/05/151041n91lgx6dgl1l88lx.png)
+![make woeusb script executable](/Asserts/Images/album/202211/05/151041n91lgx6dgl1l88lx.png)
 
 
 或者，你可以运行 `chmod +x <path/to/script>` 来使它可执行。现在，运行已下载目录中的 `./woeusb-5.2.4.bash -h` 来获取帮助。
@@ -213,7 +213,7 @@ sudo <path/to/downloaded/script/file> --device <path/to/windows/ISO> <name-of-US
 这将开始将 ISO 写入 USB 驱动器，如下面的截屏所示：
 
 
-![woeusb bash script running without installation](/Asserts/Images//attachment/album/202211/05/151041g9ukvuxmlv9bbd9w.png)
+![woeusb bash script running without installation](/Asserts/Images/album/202211/05/151041g9ukvuxmlv9bbd9w.png)
 
 
 在完成后，你可以安全地弹出 USB 驱动器，并将其作为可启动 USB 使用。

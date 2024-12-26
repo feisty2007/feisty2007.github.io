@@ -15,7 +15,7 @@ tags:	[linuxcn,Java,IDE]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/22/235441wnnorcvo4olasv8o.jpg)
+![](/Asserts/Images/album/202008/22/235441wnnorcvo4olasv8o.jpg)
 
 
 通过简化程序员的工作，[Java](https://opensource.com/resources/java) 框架可以使他们的生活更加轻松。这些框架是为了在各种服务器环境上运行各种应用程序而设计开发的；这包括解析注解、扫描描述符、加载配置以及在 Java 虚拟机（JVM）上启动实际的服务等方面的动态行为。控制这么多的任务需要更多的代码，这就很难降低内存占用、加快新应用的启动时间。无论如何，据 [TIOBE 指数](https://www.tiobe.com/tiobe-index/)，在当今使用的编程语言中 Java 一直排名前三，拥有着 700 万到 1000 万开发者的社区。
@@ -36,7 +36,7 @@ tags:	[linuxcn,Java,IDE]
 在笔记本电脑上安装 BlueJ IDE 后，启动一个新项目，点击<ruby> 项目 <rt>  Project </rt></ruby>菜单中的<ruby> 新项目 <rt>  New Project </rt></ruby>，然后从创建一个<ruby> 新类 <rt>  New Class </rt></ruby>开始编写 Java 代码。生成的示例方法和骨架代码如下所示：
 
 
-![BlueJ IDE screenshot](/Asserts/Images//attachment/album/202008/22/235549gxbh4zo0szvtzxsx.png "BlueJ IDE screenshot")
+![BlueJ IDE screenshot](/Asserts/Images/album/202008/22/235549gxbh4zo0szvtzxsx.png "BlueJ IDE screenshot")
 
 
 BlueJ 不仅为学校的 Java 编程课的教学提供了一个交互式的图形用户界面（GUI），而且可以让开发人员在不编译源代码的情况下调用函数（即对象、方法、参数）。
@@ -51,7 +51,7 @@ BlueJ 不仅为学校的 Java 编程课的教学提供了一个交互式的图�
 [可以在这里下载](https://www.eclipse.org/downloads/)；然后你可以创建一个新的项目或从本地目录导入一个现有的项目。在[本文](https://opensource.com/article/19/10/java-basics)中找到更多 Java 开发技巧。
 
 
-![Eclipse IDE screenshot](/Asserts/Images//attachment/album/202008/22/235606vcjq3h4n0qjilqqw.png "Eclipse IDE screenshot")
+![Eclipse IDE screenshot](/Asserts/Images/album/202008/22/235606vcjq3h4n0qjilqqw.png "Eclipse IDE screenshot")
 
 
 ### IntelliJ IDEA
@@ -63,7 +63,7 @@ BlueJ 不仅为学校的 Java 编程课的教学提供了一个交互式的图�
 IntelliJ IDEA CE 带有一些独特的功能；我特别喜欢它的 API 测试器。例如，如果你用 Java 框架实现了一个 REST API，IntelliJ IDEA CE 允许你通过 Swing GUI 设计器来测试 API 的功能。
 
 
-![IntelliJ IDEA screenshot](/Asserts/Images//attachment/album/202008/22/235634skhtta9tnnhxkrok.png "IntelliJ IDEA screenshot")
+![IntelliJ IDEA screenshot](/Asserts/Images/album/202008/22/235634skhtta9tnnhxkrok.png "IntelliJ IDEA screenshot")
 
 
 IntelliJ IDEA CE 是开源的，但其背后的公司也提供了一个商业的终极版。可以在[这里](https://www.jetbrains.com/idea/features/editions_comparison_matrix.html)找到社区版和终极版之间的更多差异。
@@ -87,7 +87,7 @@ IntelliJ IDEA CE 是开源的，但其背后的公司也提供了一个商业的
 在其[资源库](https://github.com/VSCodium/vscodium#downloadinstall)中有很多下载项。当你运行 Visual Studio Code 时，你可以通过点击左侧活动栏中的“扩展”图标或按下 `Ctrl+Shift+X` 键来添加新的功能和主题。例如，当你在搜索框中输入 “quarkus” 时，就会出现 Visual Studio Code 的 Quarkus 工具，该扩展允许你[在 VS Code 中使用 Quarkus 编写 Java](https://opensource.com/article/20/4/java-quarkus-vs-code)：
 
 
-![VSCodium IDE screenshot](/Asserts/Images//attachment/album/202008/22/235658ea227wtkrngif2cr.png "VSCodium IDE screenshot")
+![VSCodium IDE screenshot](/Asserts/Images/album/202008/22/235658ea227wtkrngif2cr.png "VSCodium IDE screenshot")
 
 
 ### 总结

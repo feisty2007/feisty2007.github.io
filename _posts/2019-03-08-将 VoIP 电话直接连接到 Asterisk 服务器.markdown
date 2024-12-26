@@ -7,7 +7,7 @@ tags:	[linuxcn,VoIP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/15/103133hay6i1cbda2p41ga.jpg)
+![](/Asserts/Images/album/201903/15/103133hay6i1cbda2p41ga.jpg)
 
 
 在我的 [Asterisk](https://www.asterisk.org/) 服务器上正好有张以太网卡。由于我只用了其中一个，因此我决定将我的 VoIP 电话从本地网络交换机换成连接到 Asterisk 服务器。

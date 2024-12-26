@@ -7,7 +7,7 @@ tags:	[linuxcn,RSS,Tickr]
 ---
 
 
-![](/Asserts/Images//attachment/album/201508/23/225106wepsurnnc4sbnniq.jpg)
+![](/Asserts/Images/album/201508/23/225106wepsurnnc4sbnniq.jpg)
 
 
 **最新的！最新的！阅读关于它的一切！**
@@ -40,7 +40,7 @@ Tickr 是一个基于 GTK 的 Linux 桌面新闻速递应用，能够以横条�
 tickr的美在于它的实用性。你可以不断地有新闻滚动在屏幕的底部，然后不时地瞥一眼。
 
 
-![](/Asserts/Images//attachment/album/201508/23/225107t0417mv44qxlvraz.jpg)
+![](/Asserts/Images/album/201508/23/225107t0417mv44qxlvraz.jpg)
 
 
 你不会有“阅读”或“标记所有为已读”的压力。当你看到一些你想读的东西，你只需点击它，将它在Web浏览器中打开。
@@ -49,7 +49,7 @@ tickr的美在于它的实用性。你可以不断地有新闻滚动在屏幕的
 ### 开始设置
 
 
-![](/Asserts/Images//attachment/album/201508/23/225113dmvlwpqpqvovpvtp.jpg)
+![](/Asserts/Images/album/201508/23/225113dmvlwpqpqvovpvtp.jpg)
 
 
 尽管虽然tickr可以从Ubuntu软件中心安装，然而它已经很久没有更新了。当你打开笨拙的不直观的控制面板的时候，没有什么能够比这更让人感觉被遗弃的了。
@@ -94,7 +94,7 @@ tickr的美在于它的实用性。你可以不断地有新闻滚动在屏幕的
 tickr自带的有超过30种不同的资讯列表，从技术博客到主流新闻服务。
 
 
-![](/Asserts/Images//attachment/album/201508/23/225115bmz3gqg3ngf3wcf8.jpg)
+![](/Asserts/Images/album/201508/23/225115bmz3gqg3ngf3wcf8.jpg)
 
 
 你可以选择很多你想在屏幕上显示的新闻提要。如果你想添加自己的资讯，你可以：—

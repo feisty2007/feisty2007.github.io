@@ -15,7 +15,7 @@ tags:	[linuxcn,容器,Podman]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/31/114043y4d0kstx90zpx6o3.jpg "young woman working on a laptop")
+![](/Asserts/Images/album/202107/31/114043y4d0kstx90zpx6o3.jpg "young woman working on a laptop")
 
 
 Fedora CoreOS 是一个自动更新、最小化的基于 [rpm-ostree](http://coreos.github.io/rpm-ostree/) 的操作系统，用于安全地、大规模地运行容器化工作负载。

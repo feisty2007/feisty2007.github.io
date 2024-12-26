@@ -7,7 +7,7 @@ tags:	[linuxcn,NGINX]
 ---
 
 
-![](/Asserts/Images//attachment/album/201508/10/143028a5uwtvjnbag86zv5.png)
+![](/Asserts/Images/album/201508/10/143028a5uwtvjnbag86zv5.png)
 
 
 ### 如何获取你所需要的 NGINX 指标
@@ -129,7 +129,7 @@ NGINX 的状态页面是一种快速查看指标状况的简单方法，但当�
 商业版的 NGINX Plus 通过它的 ngx*http*status\_module 提供了比开源版 NGINX [更多的指标](http://nginx.org/en/docs/http/ngx_http_status_module.html#data)。NGINX Plus 以字节流的方式提供这些额外的指标，提供了关于上游系统和高速缓存的信息。NGINX Plus 也会报告所有的 HTTP 状态码类型（1XX，2XX，3XX，4XX，5XX）的计数。一个 NGINX Plus 状态报告例子[可在此查看](http://demo.nginx.com/status.html)：
 
 
-![NGINX Plus status board](/Asserts/Images//attachment/album/201508/10/143138qrti1hj61w57htit.png)
+![NGINX Plus status board](/Asserts/Images/album/201508/10/143138qrti1hj61w57htit.png)
 
 
 注：NGINX Plus 在状态仪表盘中的“Active”连接的定义和开源 NGINX 通过 stub*status*module 收集的“Active”连接指标略有不同。在 NGINX Plus 指标中，“Active”连接不包括Waiting状态的连接（即“Idle”连接）。

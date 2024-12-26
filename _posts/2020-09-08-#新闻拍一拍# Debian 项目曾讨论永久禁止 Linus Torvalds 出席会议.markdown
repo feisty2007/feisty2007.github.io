@@ -7,7 +7,7 @@ tags:	[linuxcn,Linus,Flash,微博]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/06/122750pmzfxpuui61as6ia.jpg)
+![](/Asserts/Images/album/202009/06/122750pmzfxpuui61as6ia.jpg)
 
 
 #### Debian 项目曾讨论永久禁止 Linus Torvalds 出席会议

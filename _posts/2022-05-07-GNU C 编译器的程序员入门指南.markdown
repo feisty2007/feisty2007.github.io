@@ -7,7 +7,7 @@ tags:	[linuxcn,编译,GCC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/30/111925gbh7yldbolroheqy.jpg)
+![](/Asserts/Images/album/202205/30/111925gbh7yldbolroheqy.jpg)
 
 
 
@@ -152,7 +152,7 @@ $ gcc -v -o hellogcc hellogcc.c
 
 ```
 
-![Compiler flowchart](/Asserts/Images//attachment/album/202205/30/111950jk2j507r2702jj7o.png)
+![Compiler flowchart](/Asserts/Images/album/202205/30/111950jk2j507r2702jj7o.png)
 
 
 ### 手动编译代码

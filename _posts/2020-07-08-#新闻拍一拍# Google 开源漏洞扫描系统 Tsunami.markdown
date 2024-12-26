@@ -7,7 +7,7 @@ tags:	[linuxcn,谷歌,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/16/095931uv2mkmr55m3myz2k.jpg)
+![](/Asserts/Images/album/202007/16/095931uv2mkmr55m3myz2k.jpg)
 
 
 #### Google 开源漏洞扫描系统 Tsunami

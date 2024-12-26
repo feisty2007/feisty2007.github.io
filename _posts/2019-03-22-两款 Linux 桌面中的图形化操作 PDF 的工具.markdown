@@ -15,7 +15,7 @@ tags:	[linuxcn,PDF]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/02/215309cu65dlu3i4djul4j.png)
+![](/Asserts/Images/album/201903/02/215309cu65dlu3i4djul4j.png)
 
 
 由于我谈论和写作了些 PDF 及使用它们的工具的文章，有些人认为我喜欢这种格式。其实我并不是，由于各种原因，我不会深入它。
@@ -47,13 +47,13 @@ tags:	[linuxcn,PDF]
 假设你想从 PDF 中提取页面，也许是作为你书中的样本章节。选择 “File > Add”打开 PDF 文件。
 
 
-![](/Asserts/Images//attachment/album/201903/02/215319kvdft6g35ooff2ud.png)
+![](/Asserts/Images/album/201903/02/215319kvdft6g35ooff2ud.png)
 
 
 要提取第 7 页到第 9 页，请按住 `Ctrl` 并单击选择页面。然后，右键单击并选择 “Export selection”。
 
 
-![](/Asserts/Images//attachment/album/201903/02/215333qrp5rrzu2mvy3z5t.png)
+![](/Asserts/Images/album/201903/02/215333qrp5rrzu2mvy3z5t.png)
 
 
 选择要保存文件的目录，为其命名，然后单击 “Save”。
@@ -65,7 +65,7 @@ tags:	[linuxcn,PDF]
 PDF-Shuffler 有个不好的地方就是添加页面到你正在处理的 PDF 文件末尾。单击并将添加的页面拖动到文件中的所需位置。你一次只能在文件中单击并拖动一个页面。
 
 
-![](/Asserts/Images//attachment/album/201903/02/215346qqv1id11wy141mey.png)
+![](/Asserts/Images/album/201903/02/215346qqv1id11wy141mey.png)
 
 
 ### PDF Chain
@@ -83,7 +83,7 @@ PDF-Shuffler 有个不好的地方就是添加页面到你正在处理的 PDF �
 * 将附件添加到文件
 
 
-![](/Asserts/Images//attachment/album/201903/02/215349t0d8pdap1c8a8ivq.png)
+![](/Asserts/Images/album/201903/02/215349t0d8pdap1c8a8ivq.png)
 
 
 你也可以做得更多。点击 “Tools” 菜单，你可以：

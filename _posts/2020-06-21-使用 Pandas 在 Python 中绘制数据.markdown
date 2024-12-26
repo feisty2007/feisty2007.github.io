@@ -15,10 +15,10 @@ tags:	[linuxcn,Pandas]
 > 
 
 
-![](/Asserts/Images//attachment/album/202006/19/231720ed0jd9s99h9cute7.jpg)
+![](/Asserts/Images/album/202006/19/231720ed0jd9s99h9cute7.jpg)
 
 
-在有关基于 Python 的绘图库的系列文章中，我们将对使用 Pandas 这个非常流行的 Python 数据操作库进行绘图进行概念性的研究。Pandas 是 Python 中的标准工具，用于对进行数据可扩展的转换，它也已成为[从 CSV 和 Excel 格式导入和导出数据](https://anvil.works/docs/Asserts/Images/-tables/csv-and-excel)的流行方法。
+在有关基于 Python 的绘图库的系列文章中，我们将对使用 Pandas 这个非常流行的 Python 数据操作库进行绘图进行概念性的研究。Pandas 是 Python 中的标准工具，用于对进行数据可扩展的转换，它也已成为[从 CSV 和 Excel 格式导入和导出数据](https://anvil.works/docs/data-tables/csv-and-excel)的流行方法。
 
 
 除此之外，它还包含一个非常好的绘图 API。这非常方便，你已将数据存储在 Pandas DataFrame 中，那么为什么不使用相同的库进行绘制呢？
@@ -27,7 +27,7 @@ tags:	[linuxcn,Pandas]
 在本系列中，我们将在每个库中制作相同的多条形柱状图，以便我们可以比较它们的工作方式。我们使用的数据是 1966 年至 2020 年的英国大选结果： 
 
 
-![Matplotlib UK election results](/Asserts/Images//attachment/album/202006/19/231917tz6lbppeolgshe6z.png "Matplotlib UK election results") 
+![Matplotlib UK election results](/Asserts/Images/album/202006/19/231917tz6lbppeolgshe6z.png "Matplotlib UK election results") 
 
 
 ### 自行绘制的数据
@@ -92,7 +92,7 @@ plt.show()
 看起来是这样的：
 
 
-![pandas unstyled data plot](/Asserts/Images//attachment/album/202006/19/231923nyyhil6e9gmlzytw.png "pandas unstyled data plot")
+![pandas unstyled data plot](/Asserts/Images/album/202006/19/231923nyyhil6e9gmlzytw.png "pandas unstyled data plot")
 
 
 看起来很棒，特别是它又这么简单！让我们对它进行样式设置，使其看起来像 [Matplotlib](https://opensource.com/article/20/5/matplotlib-python) 的例子。
@@ -129,7 +129,7 @@ ax.set_title('UK election results')
 这是现在的样子：
 
 
-![pandas styled plot](/Asserts/Images//attachment/album/202006/19/231937jrk33kee4vzu51ud.png "pandas styled plot")
+![pandas styled plot](/Asserts/Images/album/202006/19/231937jrk33kee4vzu51ud.png "pandas styled plot")
 
 
 这与上面的 Matplotlib 版本几乎相同，但是只用了 8 行代码而不是 16 行！我内心的[代码高手](https://en.wikipedia.org/wiki/Code_golf)非常高兴。 

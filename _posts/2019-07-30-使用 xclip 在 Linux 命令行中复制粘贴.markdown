@@ -15,7 +15,7 @@ tags:	[linuxcn,复制,粘贴]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/12/114625cu6ayuvvvm5pgfs4.jpg)
+![](/Asserts/Images/album/201907/12/114625cu6ayuvvvm5pgfs4.jpg)
 
 
 在使用 Linux 桌面工作时，你通常如何复制全部或部分文本？你可能会在文本编辑器中打开文件，选择全部或仅选择要复制的文本，然后将其粘贴到其他位置。

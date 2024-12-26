@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包,Snap,Flatpak]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/17/230943wvgur99cvbpvcec9.jpg)
+![](/Asserts/Images/album/201609/17/230943wvgur99cvbpvcec9.jpg)
 
 
 **对新一代的打包格式开始渗透到 Linux 生态系统中的深入观察**

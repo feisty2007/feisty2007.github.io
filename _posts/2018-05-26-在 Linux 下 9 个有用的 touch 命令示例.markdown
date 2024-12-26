@@ -10,7 +10,7 @@ tags:	[linuxcn,touch]
 `touch` 命令用于创建空文件，也可以更改 Unix 和 Linux 系统上现有文件时间戳。这里所说的更改时间戳意味着更新文件和目录的访问以及修改时间。
 
 
-![](/Asserts/Images//attachment/album/201805/02/124305fz8yyeoz58xedzzd.jpg)
+![](/Asserts/Images/album/201805/02/124305fz8yyeoz58xedzzd.jpg)
 
 
 让我们来看看 `touch` 命令的语法和选项：
@@ -28,7 +28,7 @@ tags:	[linuxcn,touch]
 `touch` 命令中使用的选项：
 
 
-![touch-command-options](/Asserts/Images//attachment/album/201805/02/124334ya7zap22tjwa3ooc.jpg)
+![touch-command-options](/Asserts/Images/album/201805/02/124334ya7zap22tjwa3ooc.jpg)
 
 
 在这篇文章中，我们将介绍 Linux 中 9 个有用的 `touch` 命令示例。
@@ -231,7 +231,7 @@ Change: 2018-03-30 00:06:20.145000000 -0400
 使用 `stat` 命令查看更新访问和修改时间：
 
 
-![stat-command-output-linux](/Asserts/Images//attachment/album/201805/02/124339xke25hm258969lel.jpg)
+![stat-command-output-linux](/Asserts/Images/album/201805/02/124339xke25hm258969lel.jpg)
 
 
 根据日期字符串设置访问和修改时间，在 `touch` 命令中使用 `-d` 选项，然后指定日期字符串，后面跟文件名。如下所示：

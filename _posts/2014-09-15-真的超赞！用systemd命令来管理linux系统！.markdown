@@ -13,7 +13,7 @@ Systemd是一种新的linux系统服务管理器。
 它替换了init系统，能够管理系统的启动过程和一些系统服务，一旦启动起来，就将监管整个系统。在本文中，我们用的是[安装有 systemd 216 版本的centos 7.0](http://linoxide.com/linux-how-to/install-systemd-centos-redhat/)，其最新版本[可以从 freedesktop.org 下载得到](http://www.freedesktop.org/software/systemd/)。
 
 
-![](/Asserts/Images//attachment/album/201409/11/233311balrocncrmapmyo8.jpg)
+![](/Asserts/Images/album/201409/11/233311balrocncrmapmyo8.jpg)
 
 
 因为linux操作系统里出现的这一个新人，PID 1被“systemd”占据了，这能通过**pstree**命令看到。
@@ -25,7 +25,7 @@ Systemd是一种新的linux系统服务管理器。
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233337mszd2lw4lszxj4xd.png)
+![](/Asserts/Images/album/201409/11/233337mszd2lw4lszxj4xd.png)
 
 
 那么现在让我们来探索systemd擅长什么，它又有多大的可能性成为sysVinit的新的替代品。
@@ -49,7 +49,7 @@ sysvinit一次一个串行地启动进程。
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233338p15aubqwqbnwdnn7.png)
+![](/Asserts/Images/album/201409/11/233338p15aubqwqbnwdnn7.png)
 
 
 使用 **time** 参数也能够显示同样的内容。
@@ -61,7 +61,7 @@ sysvinit一次一个串行地启动进程。
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233340vfyawnhxxvzxantf.png)
+![](/Asserts/Images/album/201409/11/233340vfyawnhxxvzxantf.png)
 
 
 如果你想以进程初始化所占用时间排序打印出所有正在运行的单元列表，那么**systemd-analyze**命令可以帮助你完成这个任务。
@@ -73,7 +73,7 @@ sysvinit一次一个串行地启动进程。
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233341wk5eqzed0u9j3ke8.png)
+![](/Asserts/Images/album/201409/11/233341wk5eqzed0u9j3ke8.png)
 
 
 上面的截屏只显示了小部分进程，你可以就像less分页器那样用箭头滚动列表。
@@ -106,7 +106,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233342tr11itbmazqkukki.png)
+![](/Asserts/Images/album/201409/11/233342tr11itbmazqkukki.png)
 
 
 #### 2.2 列出失败的单元
@@ -121,7 +121,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233344aal72f873lzyb1s1.png)
+![](/Asserts/Images/album/201409/11/233344aal72f873lzyb1s1.png)
 
 
 你可以在这篇文章很多地方看到systemctl的用法。
@@ -145,7 +145,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233345skwozs1ugwzubdmz.png)
+![](/Asserts/Images/album/201409/11/233345skwozs1ugwzubdmz.png)
 
 
 #### 3.2 服务状态
@@ -160,7 +160,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233346ehohx44496nzxtqe.png)
+![](/Asserts/Images/album/201409/11/233346ehohx44496nzxtqe.png)
 
 
 #### 3.3 启动一个服务
@@ -178,7 +178,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 对应于**service**命令，这个命令不进行输出。但是毋庸置疑，我们可以通过再次查看这个刚刚被启动的服务的status（状态）来确认他是否被成功地启动了。
 
 
-![](/Asserts/Images//attachment/album/201409/11/233348p0vdg10ghgr4rg2h.png)
+![](/Asserts/Images/album/201409/11/233348p0vdg10ghgr4rg2h.png)
 
 
 #### 3.4 停止一个服务
@@ -193,7 +193,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233349sjvdjvly76fazudl.png)
+![](/Asserts/Images/album/201409/11/233349sjvdjvly76fazudl.png)
 
 
 #### 3.5 重启一个服务
@@ -208,7 +208,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233352h2s8y2wjsq1sb2wy.png)
+![](/Asserts/Images/album/201409/11/233352h2s8y2wjsq1sb2wy.png)
 
 
 #### 3.6 重新加载一个服务
@@ -223,7 +223,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233354agbbn6dbugbn41b6.png)
+![](/Asserts/Images/album/201409/11/233354agbbn6dbugbn41b6.png)
 
 
 虽然上述几个命令的语法是可以工作的，但是官方文档建议我们用下面这种语法形式来运行命令（LCTT 译注，即使用在服务名后面跟上“.service”的完整名称）：
@@ -235,7 +235,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233355cye7s8rx8q04mex4.png)
+![](/Asserts/Images/album/201409/11/233355cye7s8rx8q04mex4.png)
 
 
 ### 4. 管理引导时的服务
@@ -256,7 +256,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233356cy25dr512b55zdp2.png)
+![](/Asserts/Images/album/201409/11/233356cy25dr512b55zdp2.png)
 
 
 #### 4.2 让服务在引导时运行
@@ -271,7 +271,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233357y6i997y0orn98i0u.png)
+![](/Asserts/Images/album/201409/11/233357y6i997y0orn98i0u.png)
 
 
 #### 4.3 取消服务在引导时运行
@@ -286,7 +286,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233358iys3nqrrsrlrqnoc.png)
+![](/Asserts/Images/album/201409/11/233358iys3nqrrsrlrqnoc.png)
 
 
 ### 5. 管理远程系统
@@ -301,7 +301,7 @@ systemctl命令是自systemd出现以来被广泛讨论的命令。你可以通�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233359xo9kv2sv7n1hsblk.png)
+![](/Asserts/Images/album/201409/11/233359xo9kv2sv7n1hsblk.png)
 
 
 ### 6. 管理目标
@@ -351,7 +351,7 @@ sysVinit的runlevels大多是以数字分级的。这里是runlevers在systemd�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233400t8eeg3lbl9d03l6b.png)
+![](/Asserts/Images/album/201409/11/233400t8eeg3lbl9d03l6b.png)
 
 
 #### 6.2 列出当前目标
@@ -366,7 +366,7 @@ sysVinit的runlevels大多是以数字分级的。这里是runlevers在systemd�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233401v1113dvsv3k3d3ud.png)
+![](/Asserts/Images/album/201409/11/233401v1113dvsv3k3d3ud.png)
 
 
 你可以看到“graphical.target”列在此处，这就是我们刚才切换到的目标。现在，让我们切换runlevel到multi-user.target，然后分析下列命令的输出。
@@ -379,7 +379,7 @@ sysVinit的runlevels大多是以数字分级的。这里是runlevers在systemd�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233403xjecdi2fcig3geet.png)
+![](/Asserts/Images/album/201409/11/233403xjecdi2fcig3geet.png)
 
 
 #### 6.3 列出默认目标
@@ -394,7 +394,7 @@ sysVinit的runlevels大多是以数字分级的。这里是runlevers在systemd�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233404w7g5gj7p9slkr5s7.png)
+![](/Asserts/Images/album/201409/11/233404w7g5gj7p9slkr5s7.png)
 
 
 #### 6.4 改变默认目标
@@ -409,7 +409,7 @@ sysVinit的runlevels大多是以数字分级的。这里是runlevers在systemd�
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233405y2okbarwkuikxiya.png)
+![](/Asserts/Images/album/201409/11/233405y2okbarwkuikxiya.png)
 
 
 ### 7. 记录 systemd 的日志
@@ -424,7 +424,7 @@ journald是systemd独有的日志系统，替换了sysVinit中的syslog守护进
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233406mjlg00z0cb7k00g7.png)
+![](/Asserts/Images/album/201409/11/233406mjlg00z0cb7k00g7.png)
 
 
 #### 7.1 查看引导信息
@@ -439,7 +439,7 @@ journald是systemd独有的日志系统，替换了sysVinit中的syslog守护进
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233408djfuvwmbw97yoxoa.png)
+![](/Asserts/Images/album/201409/11/233408djfuvwmbw97yoxoa.png)
 
 
 #### 7.2 即时显示引导日志
@@ -454,7 +454,7 @@ journald是systemd独有的日志系统，替换了sysVinit中的syslog守护进
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233410fklicionmq4irjkr.png)
+![](/Asserts/Images/album/201409/11/233410fklicionmq4irjkr.png)
 
 
 #### 7.3 查看特定服务的日志
@@ -469,7 +469,7 @@ journald是systemd独有的日志系统，替换了sysVinit中的syslog守护进
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233412iz122zvll0dhp9vv.png)
+![](/Asserts/Images/album/201409/11/233412iz122zvll0dhp9vv.png)
 
 
 ### 8. 电源管理
@@ -502,7 +502,7 @@ systemctl命令也可以用来关机，重启或者休眠。
 
 ```
 
-![](/Asserts/Images//attachment/album/201409/11/233414s8sdthl81kl8dash.png)
+![](/Asserts/Images/album/201409/11/233414s8sdthl81kl8dash.png)
 
 
 

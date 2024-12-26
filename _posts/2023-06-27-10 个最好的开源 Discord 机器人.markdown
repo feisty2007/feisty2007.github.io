@@ -7,7 +7,7 @@ tags:	[linuxcn,Discord]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/03/093636d686b2w9vcvxhz6n.jpg)
+![](/Asserts/Images/album/202306/03/093636d686b2w9vcvxhz6n.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,Discord]
 ### 1、MonitoRSS
 
 
-![monitorss](/Asserts/Images//attachment/album/202306/03/093651vtct15t012152181.jpg)
+![monitorss](/Asserts/Images/album/202306/03/093651vtct15t012152181.jpg)
 
 
 亮点：
@@ -59,7 +59,7 @@ tags:	[linuxcn,Discord]
 ### 2、ModMail
 
 
-![ModMail discord](/Asserts/Images//attachment/album/202306/03/093651dzadjscafmlmmnmd.jpg)
+![ModMail discord](/Asserts/Images/album/202306/03/093651dzadjscafmlmmnmd.jpg)
 
 
 亮点：
@@ -80,7 +80,7 @@ tags:	[linuxcn,Discord]
 当你向该机器人发送消息时，ModMail 会创建一个单独的频道。这个频道作为所有管理员、版主和你的共享收件箱。
 
 
-![ModMail bot](/Asserts/Images//attachment/album/202306/03/093652u2h911ad97hifffi.png)
+![ModMail bot](/Asserts/Images/album/202306/03/093652u2h911ad97hifffi.png)
 
 
 它不仅可以轻松发送消息，还可以帮助服务器工作人员轻松地阅读过去的记录、启用自动回复、保存片段、匿名回复等等。其中有些功能是收费的。
@@ -92,7 +92,7 @@ tags:	[linuxcn,Discord]
 ### 3、Red Discord Bot（自行托管）
 
 
-![Red Discord Bot](/Asserts/Images//attachment/album/202306/03/093652uaoi2700to064j78.png)
+![Red Discord Bot](/Asserts/Images/album/202306/03/093652uaoi2700to064j78.png)
 
 
 亮点：
@@ -119,7 +119,7 @@ tags:	[linuxcn,Discord]
 ### 4、Discord Music Bot（自行托管）
 
 
-![Discord Music Bot](/Asserts/Images//attachment/album/202306/03/093653ur67zy9fyfh9957d.png)
+![Discord Music Bot](/Asserts/Images/album/202306/03/093653ur67zy9fyfh9957d.png)
 
 
 亮点：
@@ -141,7 +141,7 @@ tags:	[linuxcn,Discord]
 ### 5、Discord Tickets（自行托管）
 
 
-![Discord Tickets](/Asserts/Images//attachment/album/202306/03/093653gbssssynhvzhvpbp.jpg)
+![Discord Tickets](/Asserts/Images/album/202306/03/093653gbssssynhvzhvpbp.jpg)
 
 
 亮点：
@@ -163,7 +163,7 @@ tags:	[linuxcn,Discord]
 ### 6、EvoBot（自行托管）
 
 
-![EvoBot](/Asserts/Images//attachment/album/202306/03/093654a5z2teel9lxha25w.png)
+![EvoBot](/Asserts/Images/album/202306/03/093654a5z2teel9lxha25w.png)
 
 
 亮点：
@@ -185,7 +185,7 @@ tags:	[linuxcn,Discord]
 ### 7、Atlanta Bot
 
 
-![Atlanta Bot](/Asserts/Images//attachment/album/202306/03/093655rgyl7qsfozrqf7y7.png)
+![Atlanta Bot](/Asserts/Images/album/202306/03/093655rgyl7qsfozrqf7y7.png)
 
 
 亮点：
@@ -209,7 +209,7 @@ tags:	[linuxcn,Discord]
 ### 8、YAGPDB（自行托管）
 
 
-![YAGPDB](/Asserts/Images//attachment/album/202306/03/093656wpxhrragjmxiuwwr.png)
+![YAGPDB](/Asserts/Images/album/202306/03/093656wpxhrragjmxiuwwr.png)
 
 
 亮点：
@@ -233,7 +233,7 @@ tags:	[linuxcn,Discord]
 ### 9、Loritta
 
 
-![Loritta](/Asserts/Images//attachment/album/202306/03/093656rwphov2vplo23vhz.jpg)
+![Loritta](/Asserts/Images/album/202306/03/093656rwphov2vplo23vhz.jpg)
 
 
 亮点：
@@ -259,7 +259,7 @@ tags:	[linuxcn,Discord]
 ### 10、Melijn
 
 
-![Melijn](/Asserts/Images//attachment/album/202306/03/093656p1h791ho0yihr2ww.jpg)
+![Melijn](/Asserts/Images/album/202306/03/093656p1h791ho0yihr2ww.jpg)
 
 
 亮点：

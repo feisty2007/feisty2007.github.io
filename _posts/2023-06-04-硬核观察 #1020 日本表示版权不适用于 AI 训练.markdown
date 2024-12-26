@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,安全,Reddit]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/02/190924xwcjobjyqicx3kzw.jpg)
+![](/Asserts/Images/album/202306/02/190924xwcjobjyqicx3kzw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/02/190939xggrzsftsxvzfrzz.jpg)
+![](/Asserts/Images/album/202306/02/190939xggrzsftsxvzfrzz.jpg)
 
 
 ### 日本表示版权不适用于 AI 训练
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,安全,Reddit]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/02/190953mraotoyye6vzooe0.jpg)
+![](/Asserts/Images/album/202306/02/190953mraotoyye6vzooe0.jpg)
 
 
 ### 荷兰政府网站必须强制遵守 security.txt 标准
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,安全,Reddit]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/02/191007v76ea707u6bk1bbq.jpg)
+![](/Asserts/Images/album/202306/02/191007v76ea707u6bk1bbq.jpg)
 
 
 ### Reddit 也准备对 API 收费，杀死第三方客户端

@@ -7,10 +7,10 @@ tags:	[linuxcn,Twitter,AI,NPM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/31/210553i3z9pzizpupoj8hu.jpg)
+![](/Asserts/Images/album/202303/31/210553i3z9pzizpupoj8hu.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/31/210605vd8gejdz3mpfqfq3.jpg)
+![](/Asserts/Images/album/202303/31/210605vd8gejdz3mpfqfq3.jpg)
 
 
 ### Twitter 要求 GitHub 披露其源代码上传者的身份
@@ -35,7 +35,7 @@ Twitter 上周披露它的部分源代码被人在今年初上传到 GitHub，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/31/210621o4wjd7yowyzjyyp8.jpg)
+![](/Asserts/Images/album/202303/31/210621o4wjd7yowyzjyyp8.jpg)
 
 
 ### 开源聊天机器人在质量评估上能达到 ChatGPT 的九成
@@ -60,7 +60,7 @@ Twitter 上周披露它的部分源代码被人在今年初上传到 GitHub，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/31/210635s10zvamb166mqvig.jpg)
+![](/Asserts/Images/album/202303/31/210635s10zvamb166mqvig.jpg)
 
 
 ### 超过一半的新 NPM 包是 SEO 垃圾包

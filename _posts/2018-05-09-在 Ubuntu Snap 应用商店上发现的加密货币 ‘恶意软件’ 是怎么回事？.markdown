@@ -13,7 +13,7 @@ tags:	[linuxcn,Snap,挖矿]
 ### 在 Snap 应用商店上发现了加密矿工
 
 
-![Crypto Miner Malware on Ubuntu Snap Store](/Asserts/Images//attachment/album/201805/27/172420wm01d161f17s3q7v.jpg)
+![Crypto Miner Malware on Ubuntu Snap Store](/Asserts/Images/album/201805/27/172420wm01d161f17s3q7v.jpg)
 
 
 5 月 11 号，一位名叫 [tarwirdur](https://github.com/tarwirdur) 的用户在 [snapcraft.io repository](https://github.com/canonical-websites/snapcraft.io/issues/651) 开了一个新的工单 ，他提到一个由 Nicolas Tomb 开发，叫做 2048buntu 的 snap 应用包含加密货币矿工。tarwirdur 询问，他怎样才能出于安全的原因而“投诉该应用” 。tarwirdur 后来发表说其它由 Nicolas Tomb 开发的 snap 应用也都包含加密货币矿工。
@@ -93,7 +93,7 @@ Nicolas Tomb 使用的一个辩解是在他上传应用的时候 Snap 应用商�
 #### 一看就不对劲
 
 
-![](/Asserts/Images//attachment/album/201805/27/172421oxxxs7kw2q2v44wm.png)
+![](/Asserts/Images/album/201805/27/172421oxxxs7kw2q2v44wm.png)
 
 
 如我之前说的，我从 Google 快照获取了一个 2048buntu 的页面截图。仅仅看它就会感觉到一些危险的信号。首先，截图中几乎没有真实的描述。它是这样描述的“类似 2048 的游戏。这个游戏用 ubuntu 主题克隆了流行的游戏 2048。”哇，这将会引来容易上当受骗的人。当我读到类似空洞的描述时，我会多考虑下。

@@ -7,10 +7,10 @@ tags:	[linuxcn,Twitter,GIMP,远程工作]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/02/190301xvvv0envnyzaedus.jpg)
+![](/Asserts/Images/album/202307/02/190301xvvv0envnyzaedus.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/02/190311md4s4rrxbjjwramb.jpg)
+![](/Asserts/Images/album/202307/02/190311md4s4rrxbjjwramb.jpg)
 
 
 ### Twitter 限流，新注册用户每天只能阅读 300 条推文
@@ -35,7 +35,7 @@ tags:	[linuxcn,Twitter,GIMP,远程工作]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/02/190325jj6d7m768soj88p8.jpg)
+![](/Asserts/Images/album/202307/02/190325jj6d7m768soj88p8.jpg)
 
 
 ### GIMP 3.0 今年有望发表候选版本
@@ -60,7 +60,7 @@ tags:	[linuxcn,Twitter,GIMP,远程工作]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/02/190343uj5uh5m9rtkak6u5.jpg)
+![](/Asserts/Images/album/202307/02/190343uj5uh5m9rtkak6u5.jpg)
 
 
 ### 远程工作使美国人的生产力下降

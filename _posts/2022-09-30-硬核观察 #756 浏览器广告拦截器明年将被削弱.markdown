@@ -7,10 +7,10 @@ tags:	[linuxcn,浏览器,谷歌,代码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/11/173544w9iijzmpoxogdyx9.jpg)
+![](/Asserts/Images/album/202209/11/173544w9iijzmpoxogdyx9.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/11/173551nien8irhyz8k4xrr.jpg)
+![](/Asserts/Images/album/202209/11/173551nien8irhyz8k4xrr.jpg)
 
 
 ### 浏览器广告拦截器明年将被削弱
@@ -35,7 +35,7 @@ tags:	[linuxcn,浏览器,谷歌,代码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/11/173603gnumn41wu2pnhhux.jpg)
+![](/Asserts/Images/album/202209/11/173603gnumn41wu2pnhhux.jpg)
 
 
 ### 默认搜索引擎设置为谷歌引来反垄断审查
@@ -60,7 +60,7 @@ tags:	[linuxcn,浏览器,谷歌,代码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/11/173618w4nly8tqctlwcdtt.jpg)
+![](/Asserts/Images/album/202209/11/173618w4nly8tqctlwcdtt.jpg)
 
 
 ### 支持者就 Tornado Cash 制裁问题起诉美国财政部

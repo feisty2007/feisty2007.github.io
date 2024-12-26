@@ -13,7 +13,7 @@ tags:	[linuxcn,SSL,CA,证书,openssl]
 我们将设置我们自己的<ruby> 根 CA <rp>  （ </rp> <rt>  root CA </rt> <rp>  ） </rp></ruby>，然后使用根 CA 生成一个示例的中级 CA，并使用中级 CA 签发最终用户证书。
 
 
-![](/Asserts/Images//attachment/album/201510/30/175138m6djbdllr5y7v6r6.jpg)
+![](/Asserts/Images/album/201510/30/175138m6djbdllr5y7v6r6.jpg)
 
 
 ### 根 CA

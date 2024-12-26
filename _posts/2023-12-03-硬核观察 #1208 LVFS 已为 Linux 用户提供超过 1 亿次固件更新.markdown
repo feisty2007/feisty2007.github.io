@@ -7,10 +7,10 @@ tags:	[linuxcn,openSUSE,固件,量子计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/07/181458fg0xu1r2vixpp1rv.jpg)
+![](/Asserts/Images/album/202312/07/181458fg0xu1r2vixpp1rv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/07/181509xaf3tec4tw3hewp8.png)
+![](/Asserts/Images/album/202312/07/181509xaf3tec4tw3hewp8.png)
 
 
 ### #1 LVFS 已为 Linux 用户提供超过 1 亿次固件更新
@@ -35,7 +35,7 @@ Linux 厂商固件服务（LVFS）是与 Linux 固件更新工具 fwupd 搭配�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/07/181546tfiwxuzifzjuhg10.png)
+![](/Asserts/Images/album/202312/07/181546tfiwxuzifzjuhg10.png)
 
 
 ### #2 openSUSE 新徽标投票还剩一周时间
@@ -52,7 +52,7 @@ openSUSE 项目一直在进行品牌重塑，以更好地区分该社区开源�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/07/183432nexqjl5bc2zcv525.jpg)
+![](/Asserts/Images/album/202312/07/183432nexqjl5bc2zcv525.jpg)
 
 
 
@@ -71,7 +71,7 @@ openSUSE 项目一直在进行品牌重塑，以更好地区分该社区开源�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/07/181624zaalaapqao50ah0u.png)
+![](/Asserts/Images/album/202312/07/181624zaalaapqao50ah0u.png)
 
 
 ### #3 “逻辑量子比特”数量突破记录

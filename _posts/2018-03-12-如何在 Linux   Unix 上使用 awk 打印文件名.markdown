@@ -7,7 +7,7 @@ tags:	[linuxcn,awk]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/28/174032agfkbbta4bsfk4tt.jpg)
+![](/Asserts/Images/album/201803/28/174032agfkbbta4bsfk4tt.jpg)
 
 
 Q：我想在 Linux / 类Unix 系统上使用 awk 打印文件名。 如何使用 awk 的 `BEGIN` 特殊模式打印文件名？ 我可以使用 gawk/awk 打印当前输入文件的名称吗？（LCTT 译注：读者最好能有一些 awk 的背景知识，否则阅读本文的时候会有一些困惑）
@@ -39,7 +39,7 @@ awk 'FNR == 1{ print FILENAME } ' /etc/hosts
 
 ```
 
-![](/Asserts/Images//attachment/album/201803/28/174048z2335405iy03f7ly.jpg)
+![](/Asserts/Images/album/201803/28/174048z2335405iy03f7ly.jpg)
 
 
 ### 使用 awk 的 BEGIN 特殊规则打印文件名

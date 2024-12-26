@@ -7,10 +7,10 @@ tags:	[linuxcn,自动驾驶,AI,量子计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/31/131035vzt7jd7appuj7pzz.jpg)
+![](/Asserts/Images/album/202201/31/131035vzt7jd7appuj7pzz.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/31/131044vscscckc62q5tebg.jpg)
+![](/Asserts/Images/album/202201/31/131044vscscckc62q5tebg.jpg)
 
 
 ### 英国提议自动驾驶的汽车事故由汽车制造商承担责任
@@ -27,7 +27,7 @@ tags:	[linuxcn,自动驾驶,AI,量子计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/31/131101v5kr7ek26xbyj77r.jpg)
+![](/Asserts/Images/album/202201/31/131101v5kr7ek26xbyj77r.jpg)
 
 
 ### AlphaZero 创造了不同的国际象棋变体
@@ -44,7 +44,7 @@ tags:	[linuxcn,自动驾驶,AI,量子计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/31/131122ljpctz93ij39f0in.jpg)
+![](/Asserts/Images/album/202201/31/131122ljpctz93ij39f0in.jpg)
 
 
 ### 欧洲首台超 5000 量子比特的量子计算机于德国启动

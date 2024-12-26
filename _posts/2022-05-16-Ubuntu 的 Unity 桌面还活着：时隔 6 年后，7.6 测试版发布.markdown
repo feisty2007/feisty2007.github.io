@@ -15,7 +15,7 @@ tags:	[linuxcn,Unity,Ubuntu Unity]
 > 
 
 
-![Unity 7.6](/Asserts/Images//attachment/album/202205/03/173216whhgjgj3dgglush3.jpg)
+![Unity 7.6](/Asserts/Images/album/202205/03/173216whhgjgj3dgglush3.jpg)
 
 
 怕你兴奋过头了，先提醒一下，Canonical 并没有回归 Unity 桌面的维护。
@@ -53,7 +53,7 @@ tags:	[linuxcn,Unity,Ubuntu Unity]
 #### 用户界面变更
 
 
-![Unity 桌面](/Asserts/Images//attachment/album/202205/03/173216hnnqaul1nda5n15f.jpg)
+![Unity 桌面](/Asserts/Images/album/202205/03/173216hnnqaul1nda5n15f.jpg)
 
 
 Dash 启动器（应用启动器）与 HUD 现已重新设计，拥有更现代、简洁的视觉。
@@ -68,7 +68,7 @@ Dash 启动器（应用启动器）与 HUD 现已重新设计，拥有更现代�
 #### 性能改进
 
 
-![Unity 桌面](/Asserts/Images//attachment/album/202205/03/173217vqeqsuwjlk9wxa1w.png)
+![Unity 桌面](/Asserts/Images/album/202205/03/173217vqeqsuwjlk9wxa1w.png)
 
 
 在最新的更新中，Unity7 的内存使用量更低，同时你也可以注意到，Ubuntu Unity 22.04 的内存使用量明显降低到约 700-800 MB。

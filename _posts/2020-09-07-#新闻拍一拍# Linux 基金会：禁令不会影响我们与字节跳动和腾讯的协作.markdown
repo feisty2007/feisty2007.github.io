@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,Windows,Swift]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/26/110955qsbfshyyb3sfhyzc.jpg)
+![](/Asserts/Images/album/202009/26/110955qsbfshyyb3sfhyzc.jpg)
 
 
 #### Linux 基金会：禁令不会影响我们与字节跳动和腾讯的协作

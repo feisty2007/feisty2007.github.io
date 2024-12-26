@@ -7,7 +7,7 @@ tags:	[linuxcn,语音,STT]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/22/020632mxj5jjzpujxyjyhy.png)
+![](/Asserts/Images/album/201906/22/020632mxj5jjzpujxyjyhy.png)
 
 
 <ruby> 语音文字转换 <rt>  speech-to-text </rt></ruby>（STT）系统就像它名字所蕴含的意思那样，是一种将说出的单词转换为文本文件以供后续用途的方式。
@@ -28,7 +28,7 @@ tags:	[linuxcn,语音,STT]
 #### DeepSpeech 项目
 
 
-![](/Asserts/Images//attachment/album/201906/22/020634a9mxmrc8t8c5xdmt.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 16 open source speech recognition")
+![](/Asserts/Images/album/201906/22/020634a9mxmrc8t8c5xdmt.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 16 open source speech recognition")
 
 
 该项目由 Firefox 浏览器的开发组织 Mozilla 团队开发。它是 100% 的自由开源软件，其名字暗示使用了 TensorFlow 机器学习框架实现去功能。
@@ -60,7 +60,7 @@ npm install deepspeech
 #### Kaldi
 
 
-![](/Asserts/Images//attachment/album/201906/22/020635sy16ij2gcxsyyyjo.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 18 open source speech recognition")
+![](/Asserts/Images/album/201906/22/020635sy16ij2gcxsyyyjo.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 18 open source speech recognition")
 
 
 Kaldi 是一个用 C++ 编写的开源语音识别软件，并且在 Apache 公共许可证下发布。它可以运行在 Windows、macOS 和 Linux 上。它的开发始于 2009。
@@ -78,7 +78,7 @@ Kaldi 超过其他语音识别软件的主要特点是可扩展和模块化。�
 #### Julius
 
 
-![](/Asserts/Images//attachment/album/201906/22/020639lmhy99t1jtsrj7qz.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 20 open source speech recognition")
+![](/Asserts/Images/album/201906/22/020639lmhy99t1jtsrj7qz.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 20 open source speech recognition")
 
 
 它可能是有史以来最古老的语音识别软件之一。它的开发始于 1991 年的京都大学，之后在 2005 年将所有权转移到了一个独立的项目组。
@@ -96,7 +96,7 @@ Julius 的主要特点包括了执行实时 STT 的能力，低内存占用（20
 #### Wav2Letter++
 
 
-![](/Asserts/Images//attachment/album/201906/22/020641f2mh558u8y5mu82h.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 22 open source speech recognition")
+![](/Asserts/Images/album/201906/22/020641f2mh558u8y5mu82h.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 22 open source speech recognition")
 
 
 如果你在寻找一个更加时髦的，那么这款一定适合。Wav2Letter++ 是一款由 Facebook 的 AI 研究团队于 2 个月之前发布的开源语言识别软件。代码在 BSD 许可证下发布。
@@ -114,7 +114,7 @@ Wav2Letter++ 需要你先为所描述的语言建立一个模型来训练算法�
 #### DeepSpeech2
 
 
-![](/Asserts/Images//attachment/album/201906/22/020643yd07u90qzbphdpdp.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 24 open source speech recognition")
+![](/Asserts/Images/album/201906/22/020643yd07u90qzbphdpdp.png "5 Good Open Source Speech Recognition/Speech-to-Text Systems 24 open source speech recognition")
 
 
 中国软件巨头百度的研究人员也在开发他们自己的语音文字转换引擎，叫做“DeepSpeech2”。它是一个端对端的开源引擎，使用“PaddlePaddle”深度学习框架进行英语或汉语的文字转换。代码在 BSD 许可证下发布。

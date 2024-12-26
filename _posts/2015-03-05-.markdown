@@ -106,9 +106,9 @@ excerpt: 前阵子 Windows 10 好像占据了绝大部分头条，甚至在一�
 fromurl: http://ostatic.com/blog/windows-10-versus-linux
 id: 5082
 islctt: true
-largepic: /Asserts/Images//attachment/album/201503/18/221853x9wmtxoid9xmlidl.jpg
+largepic: /Asserts/Images/album/201503/18/221853x9wmtxoid9xmlidl.jpg
 permalink: /article-5082-1.html
-pic: /Asserts/Images//attachment/album/201503/18/221853x9wmtxoid9xmlidl.jpg.thumb.jpg
+pic: /Asserts/Images/album/201503/18/221853x9wmtxoid9xmlidl.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -130,7 +130,7 @@ updated: '2015-03-19 07:11:00'
 前阵子 Windows 10 好像占据了绝大部分头条，甚至在一些Linux圈里也是一样。最具代表性的是 betanews.com 的 Brian Fagioli 说 Windows 10 已经为 Linux 桌面系统敲响了丧钟，Microsoft 如今宣布将为忠实的 Windows 用户免费提供 Windows 10，Steven J. Vaughan-Nichols 说这是一个最新的开源公司，然后 Matt Hartley 比较了 Windows 10 和 Ubuntu，Jesse Smith 从 Linux 用户的视角对 Windows 10 做出评估。
 
 
-![](/Asserts/Images//attachment/album/201503/18/221853x9wmtxoid9xmlidl.jpg)
+![](/Asserts/Images/album/201503/18/221853x9wmtxoid9xmlidl.jpg)
 
 
 **Windows 10**，在 Microsoft [声明](https://news.google.com/news/section?q=microsoft+windows+10+free&ie=UTF-8&oe=UTF-8)说将免费提供给 Windows 7 及以上用户，这件事成为如今大家闲聊的热门话题。在 Linuxland 这里，也没有被忽视。betanews.com 的 Brian Fagioli，一个自封的 Linux 粉丝，如今这样说，“ Windows 10 把门彻底关上了。Linux 桌面元年将永远不会到来，歇歇吧。”[Fagioli解释](http://betanews.com/2015/01/25/windows-10-is-the-final-nail-in-the-coffin-for-the-linux-desktop/)说 Microsoft 倾听了用户的抱怨而且并不只是记录一下，还更好地解决了这些问题。他说 Linux 错失了由 Windows 8 不受欢迎以及巨大失败带来的机会。然后他总结，拜 Windows 10 所赐，处于边缘地带的我们只能接受一个“破碎的梦”。

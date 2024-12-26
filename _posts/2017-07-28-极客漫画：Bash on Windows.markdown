@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,漫画]
 ---
 
 
-![Bash on Windows](/Asserts/Images//attachment/album/201707/04/095610ahb9dz0t65g3b50d.png)
+![Bash on Windows](/Asserts/Images/album/201707/04/095610ahb9dz0t65g3b50d.png)
 
 
 微软发布了 Bash on Windows，旨在吸引开发者使用 Windows 平台。其高级程序经理 Rich Turner [呼吁](/article-7998-1.html) Linux 开发人员放弃 Linux ，转到 Windows 10 上来：“Windows 中的 Linux 子系统将给开发者们提供所有他们在 Linux 开发中必要的工具，而不用丧失 Windows 10 的优势。”

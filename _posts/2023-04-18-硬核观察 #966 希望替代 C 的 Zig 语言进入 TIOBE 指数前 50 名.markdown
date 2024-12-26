@@ -7,10 +7,10 @@ tags:	[linuxcn,编程语言,ChatGPT,Wi-Fi]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/09/191925k5pllpybbtbexazx.jpg)
+![](/Asserts/Images/album/202304/09/191925k5pllpybbtbexazx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/09/191946vm5ifbm5x055kric.jpg)
+![](/Asserts/Images/album/202304/09/191946vm5ifbm5x055kric.jpg)
 
 
 ### 希望替代 C 的 Zig 语言进入 TIOBE 指数前 50 名
@@ -35,7 +35,7 @@ tags:	[linuxcn,编程语言,ChatGPT,Wi-Fi]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/09/192004vmw8yx88mwuqzw98.jpg)
+![](/Asserts/Images/album/202304/09/192004vmw8yx88mwuqzw98.jpg)
 
 
 ### ChatGPT 因撒谎被起诉
@@ -60,7 +60,7 @@ tags:	[linuxcn,编程语言,ChatGPT,Wi-Fi]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/09/192021s836gblzomi3c8io.jpg)
+![](/Asserts/Images/album/202304/09/192021s836gblzomi3c8io.jpg)
 
 
 ### 多款 Wi-Fi 路由器能被 ICMP 嗅探突破安全机制

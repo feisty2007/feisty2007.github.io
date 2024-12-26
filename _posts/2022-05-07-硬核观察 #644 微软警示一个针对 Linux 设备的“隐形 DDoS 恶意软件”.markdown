@@ -7,10 +7,10 @@ tags:	[linuxcn,安全,Rust,加密货币]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/22/181135lowppddrzzv9r3do.jpg)
+![](/Asserts/Images/album/202205/22/181135lowppddrzzv9r3do.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/22/181154iitrbd7b2ddbjcm4.jpg)
+![](/Asserts/Images/album/202205/22/181154iitrbd7b2ddbjcm4.jpg)
 
 
 ### 微软警示一个针对 Linux 设备的“隐形 DDoS 恶意软件”
@@ -35,7 +35,7 @@ tags:	[linuxcn,安全,Rust,加密货币]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/22/181207ay7e7dmlc7cumx7e.jpg)
+![](/Asserts/Images/album/202205/22/181207ay7e7dmlc7cumx7e.jpg)
 
 
 ### 美国政府首次对用加密货币躲避制裁提出刑事指控
@@ -60,7 +60,7 @@ tags:	[linuxcn,安全,Rust,加密货币]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/22/181225qk7wby72jewhb2y3.jpg)
+![](/Asserts/Images/album/202205/22/181225qk7wby72jewhb2y3.jpg)
 
 
 ### Rust 供应链攻击感染云 CI 管道

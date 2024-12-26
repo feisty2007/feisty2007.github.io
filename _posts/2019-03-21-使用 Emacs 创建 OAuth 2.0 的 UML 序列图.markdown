@@ -7,7 +7,7 @@ tags:	[linuxcn,Emacs,UML]
 ---
 
 
-![OAuth 2.0 abstract protocol flow](/Asserts/Images//attachment/album/201903/02/212604g7z11twgd785pupl.png)
+![OAuth 2.0 abstract protocol flow](/Asserts/Images/album/201903/02/212604g7z11twgd785pupl.png)
 
 
 看起来 [OAuth 2.0 框架](https://tools.ietf.org/html/rfc6749) 已经越来越广泛地应用于 web (和 移动) 应用。太棒了！

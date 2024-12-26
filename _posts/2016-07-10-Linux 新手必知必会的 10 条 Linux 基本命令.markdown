@@ -7,7 +7,7 @@ tags:	[linuxcn,命令]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/06/185418x1a7nj4m741kt752.png)
+![](/Asserts/Images/album/201607/06/185418x1a7nj4m741kt752.png)
 
 
 Linux 对我们的生活产生了巨大的冲击。至少你的安卓手机使用的就是 Linux 核心。尽管如此，在第一次开始使用 Linux 时你还是会感到难以下手。因为在 Linux 中，通常需要使用终端命令来取代 Windows 系统中的点击启动图标操作。但是不必担心，这里我们会介绍 10 个 Linux 基本命令来帮助你开启 Linux 神秘之旅。

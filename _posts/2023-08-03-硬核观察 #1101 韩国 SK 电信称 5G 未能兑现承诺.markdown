@@ -7,10 +7,10 @@ tags:	[linuxcn,5G,安卓,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/22/173650cmsserym0e43t418.jpg)
+![](/Asserts/Images/album/202308/22/173650cmsserym0e43t418.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/22/173659fyq2c9la2qfye22a.jpg)
+![](/Asserts/Images/album/202308/22/173659fyq2c9la2qfye22a.jpg)
 
 
 ### 韩国 SK 电信称 5G 未能兑现承诺
@@ -35,7 +35,7 @@ tags:	[linuxcn,5G,安卓,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/22/173710q12c3i1n1kffycd8.jpg)
+![](/Asserts/Images/album/202308/22/173710q12c3i1n1kffycd8.jpg)
 
 
 ### 最新的安卓运行时使安卓应用启动速度提高了 30%
@@ -60,7 +60,7 @@ tags:	[linuxcn,5G,安卓,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/22/173726dyawyodyaoz5kdgw.jpg)
+![](/Asserts/Images/album/202308/22/173726dyawyodyaoz5kdgw.jpg)
 
 
 ### Chrome 会警告用户安装的恶意扩展

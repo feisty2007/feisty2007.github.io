@@ -15,7 +15,7 @@ tags:	[linuxcn,项目管理,敏捷]
 > 
 
 
-![](/Asserts/Images//attachment/album/201809/14/123409ffp336i76r63gtly.png)
+![](/Asserts/Images/album/201809/14/123409ffp336i76r63gtly.png)
 
 
 Opensource.com 以前对流行的开源项目管理工具做过相应的调研。但是今年我们增加了一个特点。本次，我们特别关注支持[敏捷](http://agilemanifesto.org/principles.html)方法的工具，包括相关的实践，如 [Scrum](https://opensource.com/resources/scrum)、Lean 和 <ruby> 看板 <rt>  Kanban </rt></ruby>。
@@ -30,7 +30,7 @@ Opensource.com 以前对流行的开源项目管理工具做过相应的调研�
 ### MyCollab
 
 
-![](/Asserts/Images//attachment/album/201809/14/123410x3gc67keez3tks6c.png)
+![](/Asserts/Images/album/201809/14/123410x3gc67keez3tks6c.png)
 
 
 [MyCollab](https://community.mycollab.com/) 是一套针对中小型企业的三个协作模块套件：项目管理、客户关系管理（CRM）和文档创建和编辑软件。有两个许可证选项：一个商业的“终极”版本，它更快，可以在内部或云中运行；另一个开源的“社区版本”，这个正是我们感兴趣的版本。
@@ -45,7 +45,7 @@ MyCollab 的最新版本是 5.4.10，源代码可在 [GitHub](https://github.com
 ### Odoo
 
 
-![](/Asserts/Images//attachment/album/201809/14/123411ncmrtg4gcqqqqqoz.gif)
+![](/Asserts/Images/album/201809/14/123411ncmrtg4gcqqqqqoz.gif)
 
 
 [Odoo](https://www.odoo.com/) 不仅仅是项目管理软件；它是一个完整的集成商业应用套件，包括会计、人力资源、网站和电子商务、库存、制造、销售管理（CRM）和其它工具。
@@ -60,7 +60,7 @@ MyCollab 的最新版本是 5.4.10，源代码可在 [GitHub](https://github.com
 ### OpenProject
 
 
-![](/Asserts/Images//attachment/album/201809/14/123411zol77yy7lnllnw3n.png)
+![](/Asserts/Images/album/201809/14/123411zol77yy7lnllnw3n.png)
 
 
 [OpenProject](https://www.openproject.org/) 是一个强大的开源项目管理工具，以其易用性和丰富的项目管理和团队协作特性而著称。
@@ -75,7 +75,7 @@ OpenProject 在 GPLv3 下获得许可，其源代码可在[GitHub](https://githu
 ### OrangeScrum
 
 
-![](/Asserts/Images//attachment/album/201809/14/123412wmb9mbz9rssa8ab8.png)
+![](/Asserts/Images/album/201809/14/123412wmb9mbz9rssa8ab8.png)
 
 
 正如从其名称中猜到的，[OrangeScrum](https://www.orangescrum.org/) 支持敏捷方法，特别是使用 Scrum 任务板和看板式工作流视图。它面向较小的组织自由职业者、中介机构和中小型企业。
@@ -90,7 +90,7 @@ OrangeScrum 是基于 GPLv3 授权的，是基于 CakePHP 框架开发。它需�
 ### ]project-open[
 
 
-![](/Asserts/Images//attachment/album/201809/14/123412u4mke2q2i8iqvpt0.png)
+![](/Asserts/Images/album/201809/14/123412u4mke2q2i8iqvpt0.png)
 
 
 []project-open[](http://www.project-open.com/en/list-installers) 是一个双许可证的企业项目管理工具，这意味着其核心是开源的，并且在商业许可的模块中可以使用一些附加特性。根据该项目的社区和企业版本的 [比较](http://www.project-open.com/en/products/editions.html)，开源核心为中小型组织提供了许多特性。
@@ -105,7 +105,7 @@ OrangeScrum 是基于 GPLv3 授权的，是基于 CakePHP 框架开发。它需�
 ### Taiga
 
 
-![](/Asserts/Images//attachment/album/201809/14/123413dlsxo20pxtw3bwmv.jpg)
+![](/Asserts/Images/album/201809/14/123413dlsxo20pxtw3bwmv.jpg)
 
 
 [Taiga](https://taiga.io/) 是一个开源项目管理平台，它专注于 Scrum 和敏捷开发，其特征包括看板、任务、sprints、问题、backlog 和 epics。其他功能包括凭证管理、多项目支持、Wiki 页面和第三方集成。
@@ -123,7 +123,7 @@ Taiga 是在 GNU Affero GPLv3 下授权的，并且软件需要 Nginx、Python �
 ### Tuleap
 
 
-![](/Asserts/Images//attachment/album/201809/14/123413v3e83c75e7lez853.png)
+![](/Asserts/Images/album/201809/14/123413v3e83c75e7lez853.png)
 
 
 [Tuleap](https://www.tuleap.org/) 是一个应用程序生命周期管理（ALM）平台，旨在为每种类型的团队管理项目——小型、中型、大型、瀑布、敏捷或混合型——但是它对敏捷团队的支持是显著的。值得注意的是，它为 Scrum、看板、sprints、任务、报告、持续集成、backlogs 等提供支持.

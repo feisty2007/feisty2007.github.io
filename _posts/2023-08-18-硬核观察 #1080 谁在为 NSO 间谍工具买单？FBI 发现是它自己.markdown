@@ -7,10 +7,10 @@ tags:	[linuxcn,间谍,0day,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/01/064412c2qfqo2rr23mgmu4.jpg)
+![](/Asserts/Images/album/202308/01/064412c2qfqo2rr23mgmu4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/01/064423xmiq4gel84rd98lw.jpg)
+![](/Asserts/Images/album/202308/01/064423xmiq4gel84rd98lw.jpg)
 
 
 ### 谁在为 NSO 间谍工具买单？FBI 发现是它自己
@@ -35,7 +35,7 @@ tags:	[linuxcn,间谍,0day,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/01/064435vkcf4vvfima6343h.jpg)
+![](/Asserts/Images/album/202308/01/064435vkcf4vvfima6343h.jpg)
 
 
 ### 安卓的已知安全漏洞和 0day 一样危险
@@ -60,7 +60,7 @@ tags:	[linuxcn,间谍,0day,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/01/064454rb5ghxl4hib20mgi.jpg)
+![](/Asserts/Images/album/202308/01/064454rb5ghxl4hib20mgi.jpg)
 
 
 ### YouTube 现在用人工智能生成的声音为视频配音

@@ -7,7 +7,7 @@ tags:	[linuxcn,HTTP2]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/30/161811ua7837fa33v738di.png)
+![](/Asserts/Images/album/201709/30/161811ua7837fa33v738di.png)
 
 
 HTTP2 服务器推送会在一个请求中将用户请求的内容及相关内容一次性推送给用户——以避免用户再次发起请求。

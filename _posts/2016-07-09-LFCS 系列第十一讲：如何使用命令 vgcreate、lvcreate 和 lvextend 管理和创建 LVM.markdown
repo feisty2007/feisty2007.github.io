@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS,LVM]
 由于 LFCS 考试中的一些改变已在 2016 年 2 月 2 日生效，我们添加了一些必要的专题到 [LFCS 系列](/article-7161-1.html)。我们也非常推荐备考的同学，同时阅读 [LFCE 系列](http://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/)。
 
 
-![](/Asserts/Images//attachment/album/201607/20/232801y520roewoe2uquro.png)
+![](/Asserts/Images/album/201607/20/232801y520roewoe2uquro.png)
 
 
 *LFCS：管理 LVM 和创建 LVM 分区*
@@ -93,7 +93,7 @@ LVM 的组成结构：
 由于 `vg00` 是由两个 **8 GB** 的磁盘组成的，所以它将会显示成一个 **16 GB** 的硬盘：
 
 
-![](/Asserts/Images//attachment/album/201607/20/232801kjdhvx1e5vv9jzx7.png)
+![](/Asserts/Images/album/201607/20/232801kjdhvx1e5vv9jzx7.png)
 
 
 *LVM 卷组列表*
@@ -142,7 +142,7 @@ LVM 的组成结构：
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/20/232802q49pf2bz9tbg1f24.png)
+![](/Asserts/Images/album/201607/20/232802q49pf2bz9tbg1f24.png)
 
 
 *逻辑卷列表*
@@ -180,7 +180,7 @@ LVM 的组成结构：
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/20/232802asehabhyw1wqsbes.png)
+![](/Asserts/Images/album/201607/20/232802asehabhyw1wqsbes.png)
 
 
 *减小逻辑卷和卷组*
@@ -210,7 +210,7 @@ LVM 的组成结构：
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/20/232803icaaea6dzccpwsbs.png)
+![](/Asserts/Images/album/201607/20/232803icaaea6dzccpwsbs.png)
 
 
 *查看卷组磁盘大小*
@@ -235,7 +235,7 @@ LVM 的组成结构：
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/20/232803d9fil25unsl5ufzz.png)
+![](/Asserts/Images/album/201607/20/232803d9fil25unsl5ufzz.png)
 
 
 *寻找逻辑卷的 UUID*
@@ -271,7 +271,7 @@ UUID=e1929239-5087-44b1-9396-53e09db6eb9e /home/backups ext4    defaults 0 0
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/20/232804te0tozs3t451t0an.png)
+![](/Asserts/Images/album/201607/20/232804te0tozs3t451t0an.png)
 
 
 *挂载逻辑卷*

@@ -7,7 +7,7 @@ tags:	[linuxcn,1024]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/24/111425rb1odpzd3d53dvbk.jpg)
+![](/Asserts/Images/album/202110/24/111425rb1odpzd3d53dvbk.jpg)
 
 
 祝各位程序员们节日快乐！也祝这一天过生日的同学们生日快乐！

@@ -15,7 +15,7 @@ tags:	[linuxcn,流媒体]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/26/233644pb0grbknk4kntgfp.png)
+![](/Asserts/Images/album/202010/26/233644pb0grbknk4kntgfp.png)
 
 
 毋庸置疑，很多用户都喜欢使用流媒体服务来收听自己喜欢的音乐，而不是从商店购买单首音乐或者下载收藏。
@@ -33,7 +33,7 @@ tags:	[linuxcn,流媒体]
 ### MellowPlayer: 集成各种流媒体音乐服务的开源应用
 
 
-![](/Asserts/Images//attachment/album/202010/26/233715k0xhc0zm3tmcmf2t.jpg)
+![](/Asserts/Images/album/202010/26/233715k0xhc0zm3tmcmf2t.jpg)
 
 
 MellowPlayer 是一款自由开源的跨平台桌面应用，它可以让你整合多个流媒体服务，并在一个界面上管理它们。
@@ -66,7 +66,7 @@ MellowPlayer 是一款自由开源的跨平台桌面应用，它可以让你整�
 ### 在 Linux 上安装 MellowPlayer
 
 
-![](/Asserts/Images//attachment/album/202010/26/233535y5cvuycz6c922az3.jpg)
+![](/Asserts/Images/album/202010/26/233535y5cvuycz6c922az3.jpg)
 
 
 MellowPlayer 是以 [Flatpak 包](https://flathub.org/apps/details/com.gitlab.ColinDuquesnoy.MellowPlayer)的形式提供的。我知道这让一些人很失望，但它在 Linux 中只有 Flaptak，Windows 中只有一个可执行文件。如果你不知道，请按照我们的[在 Linux 上使用 Flatpak](https://itsfoss.com/flatpak-guide/) 指南来开始使用。

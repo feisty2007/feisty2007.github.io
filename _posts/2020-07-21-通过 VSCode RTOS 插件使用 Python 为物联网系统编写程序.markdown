@@ -15,7 +15,7 @@ tags:	[linuxcn,RTOS,VSCode]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/29/001132c37u7u5qp284wef2.jpg)
+![](/Asserts/Images/album/202007/29/001132c37u7u5qp284wef2.jpg)
 
 
 物联网（IoT）无处不在，它意味着几乎所有的产品，从冰箱到口袋手表，都可以连网。为了实现这个目标，每个产品都需要拥有一个嵌入式计算机来运行网络栈，有些产品几乎是小的不可思议。这就是嵌入式软件出现的场景：现代科技打造的非常小的计算机，硬编码到硬件芯片，不需要任何板外处理器、内存或者存储盘。
@@ -48,7 +48,7 @@ tags:	[linuxcn,RTOS,VSCode]
 还要安装的是微软提供的通用 VSCode Python 插件。安装方法是点击 “File” 菜单，找到 “Preferences” 子菜单，从中打开 “Extensions” 面板。在扩展中，搜索 “Python”，找到来自微软的 Python 插件。
 
 
-![VSCodium Python plugin](/Asserts/Images//attachment/album/202007/29/001200p669pylwwl2yl991.jpg "VSCodium Python plugin")
+![VSCodium Python plugin](/Asserts/Images/album/202007/29/001200p669pylwwl2yl991.jpg "VSCodium Python plugin")
 
 
 当然，在上述操作之前，你要先正确安装 [VSCodium](http://vscodium.com) 或 [VSCode](https://github.com/microsoft/vscode)。
@@ -63,7 +63,7 @@ tags:	[linuxcn,RTOS,VSCode]
 在扩展中，搜索 “MicroPython”，安装 RT-Thread 插件。
 
 
-![MicroPython plugin for RT-Thread](/Asserts/Images//attachment/album/202007/29/001213ge07s4er31m331zd.jpg "MicroPython plugin for RT-Thread")
+![MicroPython plugin for RT-Thread](/Asserts/Images/album/202007/29/001213ge07s4er31m331zd.jpg "MicroPython plugin for RT-Thread")
 
 
 ### 使用插件
@@ -97,7 +97,7 @@ $ sudo usermod --append --groups dialout tux
 MicroPython 开发的第一步是创建 MicroPython 工程用来编写和运行代码。使用 MicroPython 插件创建工程的方法是，点击左下方的 “Create MicroPython project” 按钮。
 
 
-![Create MicroPython project](/Asserts/Images//attachment/album/202007/29/001216igu4wneuf99qeauq.jpg "Create MicroPython project")
+![Create MicroPython project](/Asserts/Images/album/202007/29/001216igu4wneuf99qeauq.jpg "Create MicroPython project")
 
 
 之后会有一些提示，让你选择创建空白工程还是包含例程的工程。
@@ -115,7 +115,7 @@ MicroPython 开发的第一步是创建 MicroPython 工程用来编写和运行�
 MicroPython 插件提供了许多例程和例库，供学习和调用。获取例程的过程是，激活 MicroPython 之后，VSCodium 左侧按钮条会出现“新建”快捷图标，点击该图标就可以了。点击“文档”快捷图标，会显示例程文件列表；点击“文件夹”快捷图标，会显示例库列表。
 
 
-![MicroPython examples](/Asserts/Images//attachment/album/202007/29/001231iputkobu5fu2mfke.jpg "MicroPython examples")
+![MicroPython examples](/Asserts/Images/album/202007/29/001231iputkobu5fu2mfke.jpg "MicroPython examples")
 
 
 ### 直接在开发板上运行 MicroPython 文件
@@ -124,7 +124,7 @@ MicroPython 插件提供了许多例程和例库，供学习和调用。获取�
 在 VSCodium 中可以通过在开发板上运行单个程序文件，很方便快捷的进行程序调试。快捷键 `Alt+Q` 会触发一个特定的插件，该插件会将当前的 Python 文件上传到开发板内存中。你还可以在当前 Python 文档界面点击右键，然后选择 “Run the MicroPython file directly on the device” 实现同样的功能。
 
 
-![Running code on your device](/Asserts/Images//attachment/album/202007/29/001238c2ghhddrhrthyukh.jpg "Running code on your device")
+![Running code on your device](/Asserts/Images/album/202007/29/001238c2ghhddrhrthyukh.jpg "Running code on your device")
 
 
 如果你需要以不上传代码的方式检查一组代码，可以使用“代码片段”功能。要运行 MicroPython REPL 环境中的代码片段，在编辑器中选中要运行的片段，右键菜单中点击 “Execute the selected MicroPython code on the device” （也可以使用 `Alt+Q` 快捷键）。

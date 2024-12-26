@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu]
 > 
 
 
-![](/Asserts/Images//attachment/album/201804/17/221345uv1pcuz51ivg355g.jpg)
+![](/Asserts/Images/album/201804/17/221345uv1pcuz51ivg355g.jpg)
 
 
 Canonical 将在这个月末的 26 日发布 Ubuntu 18.04 LTS（Bionic Beaver）操作系统。这是一个 LTS 发布版本，大多数 Ubuntu 16.04 LTS（Xenial Xerus）用户应该进行升级。
@@ -27,7 +27,7 @@ Canonical 将在这个月末的 26 日发布 Ubuntu 18.04 LTS（Bionic Beaver）
 Ubuntu 16.04.4 LTS 将会有来自 Ubuntu 17.10（Artful Aardvark）最新的内核和显卡驱动，这和 Ubuntu 16.04 LTS 初次发布相比已经有了很大变化。作为 Ubuntu 16.04 LTS 用户，我想你或许想知道是否值得升级本月底发布的 Ubuntu 18.04 LTS。
 
 
-![Ubuntu 18.04 LTS apps](/Asserts/Images//attachment/album/201804/17/221349nirzqo6iqmze070r.jpg "Ubuntu 18.04 LTS apps")
+![Ubuntu 18.04 LTS apps](/Asserts/Images/album/201804/17/221349nirzqo6iqmze070r.jpg "Ubuntu 18.04 LTS apps")
 
 
 ### 从 Ubuntu 16.04 LTS 到 Ubuntu 18.04 LTS 有何新变化？
@@ -51,7 +51,7 @@ GNOME 桌面环境带来了许多视觉变化。最显眼的一个变化是窗�
 其它许多来自 GNOME 家族的应用都进行了 UI 重大重新设计，这包括 “Ubuntu 软件”、“系统设置”、“磁盘用量分析（Baobab）”、Remmina，并且 “GNOME 日历”现在有了周视图和支持重复事件。那些应用现在大多在其应用菜单中有键盘快捷键弹窗。
 
 
-![Ubuntu 18.04 LTS apps](/Asserts/Images//attachment/album/201804/17/221350ttty0rey4aae02uq.jpg "Ubuntu 18.04 LTS apps")
+![Ubuntu 18.04 LTS apps](/Asserts/Images/album/201804/17/221350ttty0rey4aae02uq.jpg "Ubuntu 18.04 LTS apps")
 
 
 ### Ubuntu 桌面版 32 位镜像没了，Ubuntu GNOME 断篇
@@ -69,4 +69,4 @@ GNOME 桌面环境带来了许多视觉变化。最显眼的一个变化是窗�
 Ubuntu 18.04 LTS （Bionic Beaver）是 Canonical 的第七个长期支持版本，它会得到五年的安全和软件更新支持，直到 2023 年 4 月。最终的 Ubuntu 18.04 LTS 很快就可以下载了，2018 年 4 月 26 日 Ubuntu 16.04 LTS 和 Ubuntu 17.10 用户可以准备升级了。 
 
 
-[![Ubuntu 18.04 LTS apps](/Asserts/Images//attachment/album/201804/17/221350xxp5enaxvlxbo6lo.jpg "Ubuntu 18.04 LTS apps")](https://news-cdn.softpedia.com/images/news2/what-s-new-in-ubuntu-18-04-lts-bionic-beaver-since-ubuntu-16-04-lts-520726-5.jpg "Click to view large image")
+[![Ubuntu 18.04 LTS apps](/Asserts/Images/album/201804/17/221350xxp5enaxvlxbo6lo.jpg "Ubuntu 18.04 LTS apps")](https://news-cdn.softpedia.com/images/news2/what-s-new-in-ubuntu-18-04-lts-bionic-beaver-since-ubuntu-16-04-lts-520726-5.jpg "Click to view large image")

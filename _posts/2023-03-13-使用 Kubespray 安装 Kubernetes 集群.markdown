@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/30/074513iy2it365a3fti2f2.jpg)
+![](/Asserts/Images/album/202303/30/074513iy2it365a3fti2f2.jpg)
 
 
 
@@ -73,7 +73,7 @@ $ ansible --version
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/30/074744tzlklcpn0laclwab.jpg)
+![](/Asserts/Images/album/202303/30/074744tzlklcpn0laclwab.jpg)
 
 
 创建主机清单，运行以下命令，不要忘记替换适合你部署的 IP 地址：
@@ -96,7 +96,7 @@ $ vi inventory/mycluster/hosts.yaml
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/30/074751opbkmajpspomgpcr.jpg)
+![](/Asserts/Images/album/202303/30/074751opbkmajpspomgpcr.jpg)
 
 
 保存并关闭文件。
@@ -115,7 +115,7 @@ cluster_name: linuxtechi.local
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/30/074532u5s22rc84qajqqcj.gif)
+![](/Asserts/Images/album/202303/30/074532u5s22rc84qajqqcj.gif)
 
 
 要启用 Kuberenetes 仪表板和入口控制器等插件，请在文件 `inventory/mycluster/group_vars/k8s_cluster/addons.yml` 中将参数设置为已启用：
@@ -208,7 +208,7 @@ $ ansible-playbook -i inventory/mycluster/hosts.yaml --become --become-user=root
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/30/074819ettkq000l0y3zlyi.jpg)
+![](/Asserts/Images/album/202303/30/074819ettkq000l0y3zlyi.jpg)
 
 
 现在监控部署，可能需要 20 到 30 分钟，具体取决于互联网速度和硬件资源。
@@ -217,7 +217,7 @@ $ ansible-playbook -i inventory/mycluster/hosts.yaml --become --become-user=root
 部署完成后，我们将在屏幕上看到以下输出：
 
 
-![](/Asserts/Images//attachment/album/202303/30/074827jol95oahh7ldzcho.jpg)
+![](/Asserts/Images/album/202303/30/074827jol95oahh7ldzcho.jpg)
 
 
 很好，上面的输出确认部署已成功完成。
@@ -240,7 +240,7 @@ $ sudo su -
 输出：
 
 
-![](/Asserts/Images//attachment/album/202303/30/074834mindtwdtndw9mitk.jpg)
+![](/Asserts/Images/album/202303/30/074834mindtwdtndw9mitk.jpg)
 
 
 完美，上面的输出确认集群中的所有节点都处于就绪状态，并且所有命名空间的 <ruby> 容器荚 <rt>  Pod </rt></ruby> 都已启动并正在运行。这表明我们的 Kubernetes 集群部署成功。
@@ -262,7 +262,7 @@ $ kubectl get svc demo-nginx-kubespray
 以上命令的输出：
 
 
-![](/Asserts/Images//attachment/album/202303/30/074845c9oy794yazykk4b7.jpg)
+![](/Asserts/Images/album/202303/30/074845c9oy794yazykk4b7.jpg)
 
 
 现在尝试使用工作节点的 IP 地址和节点端口（30050）访问此 Nginx 应用。
@@ -280,7 +280,7 @@ $ curl 192.168.1.245:30050
 或者，
 
 
-![](/Asserts/Images//attachment/album/202303/30/074853yv0oc3av6w0doak6.jpg)
+![](/Asserts/Images/album/202303/30/074853yv0oc3av6w0doak6.jpg)
 
 
 完美，这证实了应用可以在我们的集群之外访问。
@@ -356,7 +356,7 @@ $ kubectl -n kube-system  create token admin-user
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/30/074907i0zmlbkh0v0iie30.jpg)
+![](/Asserts/Images/album/202303/30/074907i0zmlbkh0v0iie30.jpg)
 
 
 复制此令牌并将其放在安全的地方，因为我们将使用令牌登录 Kubernetes 仪表板。
@@ -385,13 +385,13 @@ Starting to serve on 127.0.0.1:8001
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/30/074917omylemjvb2rjnv00.jpg)
+![](/Asserts/Images/album/202303/30/074917omylemjvb2rjnv00.jpg)
 
 
 打开系统的网络浏览器，如下设置代理：
 
 
-![](/Asserts/Images//attachment/album/202303/30/074927n92die39ej6gd2aq.jpg)
+![](/Asserts/Images/album/202303/30/074927n92die39ej6gd2aq.jpg)
 
 
 完成代理设置后，将以下网址粘贴到浏览器中：
@@ -403,13 +403,13 @@ http://localhost:8001/api/v1/namespaces/kube-system/services/https:kubernetes-da
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/30/074953cb9z1rb3aabiturl.jpg)
+![](/Asserts/Images/album/202303/30/074953cb9z1rb3aabiturl.jpg)
 
 
 选择令牌登录并粘贴你在上面为管理员用户生成的令牌，然后单击“<ruby> 登录 <rt>  Sign in </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202303/30/075004w1tvevvzrjantji4.jpg)
+![](/Asserts/Images/album/202303/30/075004w1tvevvzrjantji4.jpg)
 
 
 这就是本指南的全部内容，我希望你能从中找到有用的信息。请在下面的评论部分中发表你的疑问和反馈。

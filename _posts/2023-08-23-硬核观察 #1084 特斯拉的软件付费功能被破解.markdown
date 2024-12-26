@@ -7,10 +7,10 @@ tags:	[linuxcn,特斯拉,AI,RISC-V]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/05/164021kksdjsvd6ldgqucg.jpg)
+![](/Asserts/Images/album/202308/05/164021kksdjsvd6ldgqucg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/05/164033uk5ujtryljqgqhlh.jpg)
+![](/Asserts/Images/album/202308/05/164033uk5ujtryljqgqhlh.jpg)
 
 
 ### 特斯拉的软件付费功能被破解
@@ -35,7 +35,7 @@ tags:	[linuxcn,特斯拉,AI,RISC-V]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/05/164047docgggphe717bke6.jpg)
+![](/Asserts/Images/album/202308/05/164047docgggphe717bke6.jpg)
 
 
 ### 阿里巴巴采用特别许可证“开源”其大语言模型通义千问
@@ -60,7 +60,7 @@ tags:	[linuxcn,特斯拉,AI,RISC-V]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/05/164102f3mypxud6pu16q3p.jpg)
+![](/Asserts/Images/album/202308/05/164102f3mypxud6pu16q3p.jpg)
 
 
 ### 高通成立 RISC-V 合资公司

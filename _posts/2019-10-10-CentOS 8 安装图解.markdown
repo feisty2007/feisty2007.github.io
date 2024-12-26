@@ -7,7 +7,7 @@ tags:	[linuxcn,CentOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/09/121153tj05o5t2ee79jl63.png)
+![](/Asserts/Images/album/201910/09/121153tj05o5t2ee79jl63.png)
 
 
 继 RHEL 8 发布之后，CentOS 社区也发布了让人期待已久的 CentOS 8，并发布了两种模式：
@@ -66,7 +66,7 @@ tags:	[linuxcn,CentOS]
 当系统从 CentOS 8 ISO 启动介质启动之后，就可以看到以下这个界面。选择“Install CentOS Linux 8.0”（安装 CentOS Linux 8.0）选项并按回车。
 
 
-![Choose-Install-CentOS8](/Asserts/Images//attachment/album/201910/09/121203kwt4yvjxmnvzrjrp.jpg)
+![Choose-Install-CentOS8](/Asserts/Images/album/201910/09/121203kwt4yvjxmnvzrjrp.jpg)
 
 
 #### 第四步：选择偏好语言
@@ -75,7 +75,7 @@ tags:	[linuxcn,CentOS]
 选择想要在 CentOS 8 **安装过程**中使用的语言，然后继续。
 
 
-![Select-Language-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121203dhfnlfyh8p0ajbqz.jpg)
+![Select-Language-CentOS8-Installation](/Asserts/Images/album/201910/09/121203dhfnlfyh8p0ajbqz.jpg)
 
 
 #### 第五步：准备安装 CentOS 8
@@ -92,7 +92,7 @@ tags:	[linuxcn,CentOS]
 * Kdump
 
 
-![Installation-Summary-CentOS8](/Asserts/Images//attachment/album/201910/09/121204djyz9iwhf7re9nrn.jpg)
+![Installation-Summary-CentOS8](/Asserts/Images/album/201910/09/121204djyz9iwhf7re9nrn.jpg)
 
 
 如上图所示，安装向导已经自动提供了“<ruby> 键盘布局 <rt>  Keyboard </rt></ruby>”、“<ruby> 时间和日期 <rt>  Time &amp; Date </rt></ruby>”、“<ruby> 安装来源 <rt>  Installation Source </rt></ruby>”和“<ruby> 软件选择 <rt>  Software Selection </rt></ruby>”的选项。
@@ -101,13 +101,13 @@ tags:	[linuxcn,CentOS]
 如果你需要修改以上设置，点击对应的图标就可以了。例如修改系统的时间和日期，只需要点击“<ruby> 时间和日期 <rt>  Time &amp; Date </rt></ruby>”，选择正确的时区，然后点击“<ruby> 完成 <rt>  Done </rt></ruby>”即可。
 
 
-![TimeZone-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121204ed2al52p527zbzbp.jpg)
+![TimeZone-CentOS8-Installation](/Asserts/Images/album/201910/09/121204ed2al52p527zbzbp.jpg)
 
 
 在软件选择选项中选择安装的模式。例如“<ruby> 包含图形界面 <rt>  Server with GUI </rt></ruby>”选项会在安装后的系统中提供图形界面，而如果想安装尽可能少的额外软件，可以选择“<ruby> 最小化安装 <rt>  Minimal Install </rt></ruby>”。
 
 
-![Software-Selection-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121205adk7zvsxxfh1av25.jpg)
+![Software-Selection-CentOS8-Installation](/Asserts/Images/album/201910/09/121205adk7zvsxxfh1av25.jpg)
 
 
 这里我们选择“<ruby> 包含图形界面 <rt>  Server with GUI </rt></ruby>”，点击“<ruby> 完成 <rt>  Done </rt></ruby>”。
@@ -119,7 +119,7 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 如果想要在安装过程中对网络进行配置，可以点击“<ruby> 网络与主机名 <rt>  Network &amp; Host Name </rt></ruby>”选项。
 
 
-![Networking-During-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121205com66etz1eql6v2q.jpg)
+![Networking-During-CentOS8-Installation](/Asserts/Images/album/201910/09/121205com66etz1eql6v2q.jpg)
 
 
 如果系统连接到启用了 DHCP 功能的调制解调器上，就会在启动网络接口的时候自动获取一个 IP 地址。如果需要配置静态 IP，点击“<ruby> 配置 <rt>  Configure </rt></ruby>”并指定 IP 的相关信息。除此以外我们还将主机名设置为 “linuxtechi.com”。
@@ -131,7 +131,7 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 最后我们要配置“<ruby> 安装目标 <rt>  Installation Destination </rt></ruby>”，指定 CentOS 8 将要安装到哪一个硬盘，以及相关的分区方式。
 
 
-![Installation-Destination-Custom-CentOS8](/Asserts/Images//attachment/album/201910/09/121206cs7p325477n6wdyp.jpg)
+![Installation-Destination-Custom-CentOS8](/Asserts/Images/album/201910/09/121206cs7p325477n6wdyp.jpg)
 
 
 点击“<ruby> 完成 <rt>  Done </rt></ruby>”。
@@ -153,7 +153,7 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 首先创建 `/boot` 标准分区，设置大小为 2GB，如下图所示：
 
 
-![boot-partition-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121206q9t4oto94am49szt.jpg)
+![boot-partition-CentOS8-Installation](/Asserts/Images/album/201910/09/121206q9t4oto94am49szt.jpg)
 
 
 点击“<ruby> 添加挂载点 <rt>  Add mount point </rt></ruby>”。
@@ -162,13 +162,13 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 再创建第二个分区 `/`，并设置大小为 12GB。点击加号，指定挂载点和分区大小，点击“<ruby> 添加挂载点 <rt>  Add mount point </rt></ruby>”即可。
 
 
-![slash-root-partition-centos8-installation](/Asserts/Images//attachment/album/201910/09/121207oyi4oogd4dcphczd.jpg)
+![slash-root-partition-centos8-installation](/Asserts/Images/album/201910/09/121207oyi4oogd4dcphczd.jpg)
 
 
 然后在页面上将 `/` 分区的分区类型从标准更改为 LVM，并点击“<ruby> 更新设置 <rt>  Update Settings </rt></ruby>”。
 
 
-![Change-Partition-Type-CentOS8](/Asserts/Images//attachment/album/201910/09/121207fyxo93878mi7i7xy.jpg)
+![Change-Partition-Type-CentOS8](/Asserts/Images/album/201910/09/121207fyxo93878mi7i7xy.jpg)
 
 
 如上图所示，安装向导已经自动创建了一个卷组。如果想要更改卷组的名称，只需要点击“<ruby> 卷组 <rt>  Volume Group </rt></ruby>”标签页中的“<ruby> 修改 <rt>  Modify </rt></ruby>”选项。
@@ -177,16 +177,16 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 同样地，创建 `/home` 分区和 `/tmp` 分区，分别将大小设置为 20GB 和 5GB，并设置分区类型为 LVM。
 
 
-![home-partition-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121208q8kzhhuyuz3ui8l8.jpg)
+![home-partition-CentOS8-Installation](/Asserts/Images/album/201910/09/121208q8kzhhuyuz3ui8l8.jpg)
 
 
-![tmp-partition-centos8-installation](/Asserts/Images//attachment/album/201910/09/121208k20ilel7qon2iddq.jpg)
+![tmp-partition-centos8-installation](/Asserts/Images/album/201910/09/121208k20ilel7qon2iddq.jpg)
 
 
 最后创建<ruby> 交换分区 <rt>  Swap Partition </rt></ruby>。
 
 
-![Swap-Partition-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121209lrjngsgiganzttr2.jpg)
+![Swap-Partition-CentOS8-Installation](/Asserts/Images/album/201910/09/121209lrjngsgiganzttr2.jpg)
 
 
 点击“<ruby> 添加挂载点 <rt>  Add mount point </rt></ruby>”。
@@ -195,13 +195,13 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 在完成所有分区设置后，点击“<ruby> 完成 <rt>  Done </rt></ruby>”。
 
 
-![Choose-Done-after-manual-partition-centos8](/Asserts/Images//attachment/album/201910/09/121209u930opgp386p3p9m.jpg)
+![Choose-Done-after-manual-partition-centos8](/Asserts/Images/album/201910/09/121209u930opgp386p3p9m.jpg)
 
 
 在下一个界面，点击“<ruby> 应用更改 <rt>  Accept changes </rt></ruby>”，以上做的更改就会写入到硬盘中。
 
 
-![Accept-changes-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121211uwkri3puh3dhuh8u.jpg)
+![Accept-changes-CentOS8-Installation](/Asserts/Images/album/201910/09/121211uwkri3puh3dhuh8u.jpg)
 
 
 #### 第六步：选择“开始安装”
@@ -210,31 +210,31 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 完成上述的所有更改后，回到先前的安装概览界面，点击“<ruby> 开始安装 <rt>  Begin Installation </rt></ruby>”以开始安装 CentOS 8。
 
 
-![Begin-Installation-CentOS8](/Asserts/Images//attachment/album/201910/09/121211nk6hnlccu2ahc2xw.jpg)
+![Begin-Installation-CentOS8](/Asserts/Images/album/201910/09/121211nk6hnlccu2ahc2xw.jpg)
 
 
 下面这个界面表示安装过程正在进行中。
 
 
-![Installation-progress-centos8](/Asserts/Images//attachment/album/201910/09/121211nt8jejvnjb9xnbht.jpg)
+![Installation-progress-centos8](/Asserts/Images/album/201910/09/121211nt8jejvnjb9xnbht.jpg)
 
 
 要设置 root 用户的口令，只需要点击 “<ruby> root 口令 <rt>  Root Password </rt></ruby>”选项，输入一个口令，然后点击“<ruby> 创建用户 <rt>  User Creation </rt></ruby>”选项创建一个本地用户。
 
 
-![Root-Password-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121212i6b635335of6h3up.jpg)
+![Root-Password-CentOS8-Installation](/Asserts/Images/album/201910/09/121212i6b635335of6h3up.jpg)
 
 
 填写新创建的用户的详细信息。
 
 
-![Local-User-Details-CentOS8](/Asserts/Images//attachment/album/201910/09/121212id94d9k9kju9j0tz.jpg)
+![Local-User-Details-CentOS8](/Asserts/Images/album/201910/09/121212id94d9k9kju9j0tz.jpg)
 
 
 在安装完成后，安装向导会提示重启系统。
 
 
-![CentOS8-Installation-Progress](/Asserts/Images//attachment/album/201910/09/121213zl22jvs619sq6p6w.jpg)
+![CentOS8-Installation-Progress](/Asserts/Images/album/201910/09/121213zl22jvs619sq6p6w.jpg)
 
 
 #### 第七步：完成安装并重启系统
@@ -243,7 +243,7 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 安装完成后要重启系统。只需点击“<ruby> 重启 <rt>  Reboot </rt></ruby>”按钮。
 
 
-![Installation-Completed-CentOS8](/Asserts/Images//attachment/album/201910/09/121213zo84qfefagpr38q2.jpg)
+![Installation-Completed-CentOS8](/Asserts/Images/album/201910/09/121213zo84qfefagpr38q2.jpg)
 
 
 注意：重启完成后，记得要把安装介质断开，并将 BIOS 的启动介质设置为硬盘。
@@ -255,19 +255,19 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 在 GRUB 引导菜单中，选择 CentOS 8 进行启动。
 
 
-![Grub-Boot-CentOS8](/Asserts/Images//attachment/album/201910/09/121213rr1ys3h7r7r57x08.jpg)
+![Grub-Boot-CentOS8](/Asserts/Images/album/201910/09/121213rr1ys3h7r7r57x08.jpg)
 
 
 同意 CentOS 8 的许可证，点击“<ruby> 完成 <rt>  Done </rt></ruby>”。
 
 
-![Accept-License-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121214x4dif5d5g64uu1su.jpg)
+![Accept-License-CentOS8-Installation](/Asserts/Images/album/201910/09/121214x4dif5d5g64uu1su.jpg)
 
 
 在下一个界面，点击“<ruby> 完成配置 <rt>  Finish Configuration </rt></ruby>”。
 
 
-![Finish-Configuration-CentOS8-Installation](/Asserts/Images//attachment/album/201910/09/121214koqwuozbb9brogw8.jpg)
+![Finish-Configuration-CentOS8-Installation](/Asserts/Images/album/201910/09/121214koqwuozbb9brogw8.jpg)
 
 
 #### 第九步：配置完成后登录
@@ -276,19 +276,19 @@ Kdump 功能默认是开启的。尽管这是一个强烈建议开启的功能�
 同意 CentOS 8 的许可证以及完成配置之后，会来到登录界面。
 
 
-![Login-screen-CentOS8](/Asserts/Images//attachment/album/201910/09/121215td78fmhb661ffl17.jpg)
+![Login-screen-CentOS8](/Asserts/Images/album/201910/09/121215td78fmhb661ffl17.jpg)
 
 
 使用刚才创建的用户以及对应的口令登录，按照提示进行操作，就可以看到以下界面。
 
 
-![CentOS8-Ready-Use-Screen](/Asserts/Images//attachment/album/201910/09/121216fi9anhzio4pnnpnp.jpg)
+![CentOS8-Ready-Use-Screen](/Asserts/Images/album/201910/09/121216fi9anhzio4pnnpnp.jpg)
 
 
 点击“<ruby> 开始使用 CentOS Linux <rt>  Start Using CentOS Linux </rt></ruby>”。
 
 
-![Desktop-Screen-CentOS8](/Asserts/Images//attachment/album/201910/09/121216c344z3khvh04kphe.jpg)
+![Desktop-Screen-CentOS8](/Asserts/Images/album/201910/09/121216c344z3khvh04kphe.jpg)
 
 
 以上就是 CentOS 8 的安装过程，至此我们已经完成了 CentOS 8 的安装。

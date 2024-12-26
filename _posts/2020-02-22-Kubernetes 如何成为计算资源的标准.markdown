@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/202002/28/131634mwzyylmv93m4ccws.jpg)
+![](/Asserts/Images/album/202002/28/131634mwzyylmv93m4ccws.jpg)
 
 
 对于原生云生态系统来说，2019 年是改变游戏规则的一年。有大的[并购](https://www.cloudfoundry.org/blog/2019-is-the-year-of-consolidation-why-ibms-deal-with-red-hat-is-a-harbinger-of-things-to-come/)，如 Red Hat Docker 和 Pivotal，并出现其他的玩家，如 Rancher Labs 和 Mirantis。

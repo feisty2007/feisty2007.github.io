@@ -13,7 +13,7 @@ tags:	[linuxcn,sosreport]
 Sosreport在你需要获得redhat的技术支持时需要它。Redhat的支持工程师会要求你服务器上的sosreport来用于故障排除。
 
 
-![](/Asserts/Images//attachment/album/201407/20/175405kijg156u1t4len6g.jpg)
+![](/Asserts/Images/album/201407/20/175405kijg156u1t4len6g.jpg)
 
 
 要运行sosreport，需要安装**sos** 包。sos包是大多是linux的默认安装包中的一部分。如果因为某种原因没有安装，那么运行下面的yum命令来安装**sos 包** :

@@ -7,7 +7,7 @@ tags:	[linuxcn,Opera,TurnKey,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201604/22/213130otltemjdweembemm.png)
+![](/Asserts/Images/album/201604/22/213130otltemjdweembemm.png)
 
 
 * 刚刚发布的 [Opera 38.0.2205.0](https://www.opera.com/developer/) 提供了内置的 VPN 服务，**Opera 成为了第一个内置 VPN 服务的浏览器**。Opera 38 目前还是“开发者版本”，如果你想体验它，需要换掉当前的稳定版 Opera 36 才行。不过该 VPN 服务默认是关闭的，需要打开才能使用，在“设置”/“隐私与安全”/“VPN”部分找到该设置并打开，这样你所有浏览器流量就会通过中转服务器转发到目标网址。目前 VPN 服务器部署在德国、加拿大和美国，并将部署更多。

@@ -16,7 +16,7 @@ DHCP（Dynamic Host Configuration Protocol）是一个网络协议，它使得�
 在这篇指南中，我们会介绍如何在 CentOS/RHEL 和 Fedora 发行版中安装和配置 DHCP 服务。
 
 
-![](/Asserts/Images//attachment/album/201704/10/210212fa0vyfoadmrbtkto.jpg)
+![](/Asserts/Images/album/201704/10/210212fa0vyfoadmrbtkto.jpg)
 
 
 ### 设置测试环境
@@ -220,7 +220,7 @@ ONBOOT=yes
 9、 你也可以在桌面服务器中按照下面的截图（Ubuntu 16.04桌面版）通过 GUI 设置 `Method` 为 `Automatic (DHCP)`。
 
 
-![Set DHCP in Client Network](/Asserts/Images//attachment/album/201704/10/210218s5wt0qwhjqhjw598.png)
+![Set DHCP in Client Network](/Asserts/Images/album/201704/10/210218s5wt0qwhjqhjw598.png)
 
 
 *在客户端网络中设置 DHCP*

@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,ChatGPT,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/18/174057b21xbqua71mfappw.jpg)
+![](/Asserts/Images/album/202309/18/174057b21xbqua71mfappw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/18/174105a2q5nnw1xn8m5j5w.jpg)
+![](/Asserts/Images/album/202309/18/174105a2q5nnw1xn8m5j5w.jpg)
 
 
 ### 有一个软件用了 32 年版本号才变成 6.6
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,ChatGPT,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/18/174115hf22p39246b34bn3.jpg)
+![](/Asserts/Images/album/202309/18/174115hf22p39246b34bn3.jpg)
 
 
 ### 看起来 ChatGPT 不会抢走你的编程工作
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,ChatGPT,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/18/174127afk08bogpfpyvfpa.jpg)
+![](/Asserts/Images/album/202309/18/174127afk08bogpfpyvfpa.jpg)
 
 
 ### AI 专家认为构建出真正反映人类集体自我的 AI 是可能的

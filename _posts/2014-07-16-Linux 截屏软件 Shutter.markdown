@@ -7,7 +7,7 @@ tags:	[linuxcn,Shutter,截屏]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/17/230532app5ln5i54bplzmh.jpg)
+![](/Asserts/Images/album/201407/17/230532app5ln5i54bplzmh.jpg)
 
 
 **[Shutter](https://apps.ubuntu.com/cat/applications/shutter/)，是一款Linux平台下广受欢迎的截屏软件。最近的更新中，该软件修复了若干bug，并且使用了新的应用图标。**
@@ -22,7 +22,7 @@ tags:	[linuxcn,Shutter,截屏]
 最后，这次更新突出了由 Lucas Romero Di Benedetto 精心设计的相机快门式应用图标。
 
 
-![](/Asserts/Images//attachment/album/201407/17/230534bwl5mek192wy4q5m.png)
+![](/Asserts/Images/album/201407/17/230534bwl5mek192wy4q5m.png)
 
 
 ### 在Ubuntu环境下安装Shutter 0.91版本

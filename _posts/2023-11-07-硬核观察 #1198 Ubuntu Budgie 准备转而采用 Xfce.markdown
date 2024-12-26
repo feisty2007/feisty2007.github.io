@@ -7,10 +7,10 @@ tags:	[linuxcn,Budgie,KDE,WayLand,PHP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/27/212419f78o74ploy9lfk54.jpg)
+![](/Asserts/Images/album/202311/27/212419f78o74ploy9lfk54.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/27/212435u92uhzdtgt7ctgee.png)
+![](/Asserts/Images/album/202311/27/212435u92uhzdtgt7ctgee.png)
 
 
 ### #1 Ubuntu Budgie 准备转而采用 Xfce
@@ -35,7 +35,7 @@ tags:	[linuxcn,Budgie,KDE,WayLand,PHP]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/27/212450vmoflmxnvks6vxsm.png)
+![](/Asserts/Images/album/202311/27/212450vmoflmxnvks6vxsm.png)
 
 
 ### #2 KDE Plasma 的 Wayland 支持仅剩一个阻碍
@@ -60,7 +60,7 @@ KDE Plasma 6.0 的功能冻结很快就会到来，Plasma Wayland 支持的三�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/27/212507pjczypoygdc4xtpx.png)
+![](/Asserts/Images/album/202311/27/212507pjczypoygdc4xtpx.png)
 
 
 ### #3 PHP 8.0 生命终结

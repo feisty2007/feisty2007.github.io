@@ -23,7 +23,7 @@ Linux Mint 每两年发布一次主版本（如 Mint 19），每六个月左右�
 ### 使用终端查看 Linux Mint 版本号的方法
 
 
-![](/Asserts/Images//attachment/album/201909/19/103049kgb34obr4sggy06l.png)
+![](/Asserts/Images/album/201909/19/103049kgb34obr4sggy06l.png)
 
 
 我将介绍几种使用非常简单的命令查看 Linux Mint 版本号和代号的方法。 你可以从 “菜单” 中打开终端，或按 `CTRL+ALT+T`（默认热键）打开。
@@ -47,7 +47,7 @@ Linux Mint 19.2 Tina \n \l
 #### 2、hostnamectl
 
 
-![hostnamectl](/Asserts/Images//attachment/album/201909/19/103050nsqsf8jjrl3fi8ld.jpg)
+![hostnamectl](/Asserts/Images/album/201909/19/103050nsqsf8jjrl3fi8ld.jpg)
 
 
 这一个命令（`hostnamectl`）打印的信息几乎与“系统信息”中的信息相同。 你可以看到你的操作系统（带有版本号）以及你的内核版本。
@@ -75,7 +75,7 @@ Codename:    tina
 #### 4、/etc/linuxmint/info
 
 
-![/etc/linuxmint/info](/Asserts/Images//attachment/album/201909/19/103051hn7kpaina2v32k3r.jpg)
+![/etc/linuxmint/info](/Asserts/Images/album/201909/19/103051hn7kpaina2v32k3r.jpg)
 
 
 这不是命令，而是 Linux Mint 系统上的文件。只需使用 `cat` 命令将其内容打印到终端，然后查看你的版本号和代号。
@@ -84,7 +84,7 @@ Codename:    tina
 #### 5、使用 /etc/os-release 命令也可以获取到 Ubuntu 代号
 
 
-![/etc/os-release](/Asserts/Images//attachment/album/201909/19/103054dvablfs9mmvknyg1.jpg)
+![/etc/os-release](/Asserts/Images/album/201909/19/103054dvablfs9mmvknyg1.jpg)
 
 
 Linux Mint 基于 Ubuntu。每个 Linux Mint 版本都基于不同的 Ubuntu 版本。了解你的 Linux Mint 版本所基于的 Ubuntu 版本有助你在必须要使用 Ubuntu 版本号的情况下使用（比如你需要在 [Linux Mint 中安装最新的 Virtual Box](https://itsfoss.com/install-virtualbox-ubuntu/)添加仓库时）。
@@ -129,19 +129,19 @@ DISTRIB_DESCRIPTION="Ubuntu 18.04 LTS"
 打开“菜单” (左下角)，然后转到“偏好设置 > 系统信息”：
 
 
-![Linux Mint 菜单](/Asserts/Images//attachment/album/201909/19/103055vag6cx6ihzc6lihg.jpg)
+![Linux Mint 菜单](/Asserts/Images/album/201909/19/103055vag6cx6ihzc6lihg.jpg)
 
 
 或者，在菜单中，你可以搜索“System Info”：
 
 
-![Menu Search System Info](/Asserts/Images//attachment/album/201909/19/103056ghtppyht0adhiptt.jpg)
+![Menu Search System Info](/Asserts/Images/album/201909/19/103056ghtppyht0adhiptt.jpg)
 
 
 在这里，你可以看到你的操作系统（包括版本号），内核和桌面环境的版本号：
 
 
-![System Info](/Asserts/Images//attachment/album/201909/19/103057gun3aadnrrrrahrn.png)
+![System Info](/Asserts/Images/album/201909/19/103057gun3aadnrrrrahrn.png)
 
 
 ### 总结

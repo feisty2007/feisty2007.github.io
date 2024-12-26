@@ -15,7 +15,7 @@ tags:	[linuxcn,ZorinOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/04/103925ash0ehvrhagtjrs3.png)
+![](/Asserts/Images/album/202202/04/103925ash0ehvrhagtjrs3.png)
 
 
 Zorin OS 16 是 2021 年最令人印象深刻的发行版之一。你或许想先了解一下 [Zorin OS 16](https://news.itsfoss.com/zorin-os-16-features/) 和 [Zorin OS 16 精简版](https://news.itsfoss.com/zorin-os-16-lite-release/) 的信息。
@@ -54,7 +54,7 @@ Zorin OS 16 教育版的重点是以离线为先的学习体验。换句话说�
 #### Minder：将想法和笔记可视化
 
 
-![](/Asserts/Images//attachment/album/202202/04/103926p6ek73gzn7gkdv2k.png)
+![](/Asserts/Images/album/202202/04/103926p6ek73gzn7gkdv2k.png)
 
 
 与 [Obsidian](https://itsfoss.com/obsidian-markdown-editor/) 和 [Logseq](https://itsfoss.com/logseq/) 类似，Minder 是一个更简单有效的思维导图工具，帮助你将笔记和想法可视化，而进行头脑风暴会议。
@@ -63,7 +63,7 @@ Zorin OS 16 教育版的重点是以离线为先的学习体验。换句话说�
 #### Foliate：电子书阅读器
 
 
-![](/Asserts/Images//attachment/album/202202/04/103928m8wbdcf42bf7t7bd.png)
+![](/Asserts/Images/album/202202/04/103928m8wbdcf42bf7t7bd.png)
 
 
 [Foliate](https://itsfoss.com/foliate-ebook-viewer/) 是一个令人印象深刻的 Linux 电子书阅读器应用。它应该能让学生/教师提高阅读体验，也能在需要时提供公共领域书籍的下载。
@@ -72,7 +72,7 @@ Zorin OS 16 教育版的重点是以离线为先的学习体验。换句话说�
 #### OpenBoard：交互式白板
 
 
-![](/Asserts/Images//attachment/album/202202/04/103929uq4i1cueujgv4edq.png)
+![](/Asserts/Images/album/202202/04/103929uq4i1cueujgv4edq.png)
 
 
 我最近报道了 [OpenBoard](/article-14212-1.html)，作为我们的应用亮点之一。它是一个自由开源的白板，应该会让老师和学生也感到有趣。

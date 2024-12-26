@@ -7,7 +7,7 @@ tags:	[linuxcn,kprobes,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/01/200415tacytrrorw9t2yb9.jpg)
+![](/Asserts/Images/album/201712/01/200415tacytrrorw9t2yb9.jpg)
 
 
 ### 介绍

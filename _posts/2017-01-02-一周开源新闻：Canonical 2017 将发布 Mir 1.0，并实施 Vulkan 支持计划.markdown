@@ -10,7 +10,7 @@ tags:	[linuxcn,Ubuntu,Debian]
 ### Canonical: 2017 将发布 Mir 1.0，并实施 Vulkan 支持计划
 
 
-![](/Asserts/Images//attachment/album/201701/22/093411qee2hl1e15h7gg9a.jpg)
+![](/Asserts/Images/album/201701/22/093411qee2hl1e15h7gg9a.jpg)
 
 
 Canonical 最近为他们的 Mir 显示服务器技术发布了“年度回顾”。
@@ -34,7 +34,7 @@ Canonical 最近为他们的 Mir 显示服务器技术发布了“年度回顾�
 ### Canonical 将从 Ubuntu 中移除旧的 Unity 7 Scopes ，Unity 8 将不再支持它们
 
 
-![](/Asserts/Images//attachment/album/201701/22/093412i5usqfwquxfxw4ux.jpg)
+![](/Asserts/Images/album/201701/22/093412i5usqfwquxfxw4ux.jpg)
 
 
 Canonical的 Will Cooke 最近[告知](https://lists.ubuntu.com/archives/ubuntu-desktop/2017-January/004845.html)，公司计划从 Ubuntu Linux 中移除一些老的，不再维护的 Unity 7 Scopes，因为它们可能会威胁到整个操作系统的安全。
@@ -58,7 +58,7 @@ Canonical 的工程师们目前集中精力在下一代 Unity 8 用户界面上�
 ### 忘记 OpenGL 4.2 吧，Intel Haswell GPU 现在 Ubuntu 上支持 OpenGL 4.5
 
 
-![](/Asserts/Images//attachment/album/201701/22/093413q8lmvatiasmnnatm.jpg)
+![](/Asserts/Images/album/201701/22/093413q8lmvatiasmnnatm.jpg)
 
 
 玩家可以通过 Padoka 或 Oibaf PPA 更新到 Mesa 17-git。
@@ -76,7 +76,7 @@ Canonical 的工程师们目前集中精力在下一代 Unity 8 用户界面上�
 ### Fedora 26 Linux 可能发布 LXQt Flavor，不会代替 LXDE Spin
 
 
-![](/Asserts/Images//attachment/album/201701/22/093414m1xvrfjfyvxrlyjz.jpg)
+![](/Asserts/Images/album/201701/22/093414m1xvrfjfyvxrlyjz.jpg)
 
 
 即将于 2017 年 6 月 6 日到来的 Fedora 26 版本有了一点[变化](https://fedoraproject.org/wiki/Changes/LXQt_Spin)，也就是一个围绕轻型的，基于 Qt 的 LXQT 桌面环境而构建的新的 flavor。

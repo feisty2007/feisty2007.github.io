@@ -7,7 +7,7 @@ tags:	[linuxcn,摩尔定律,GPU,CAD,Mozilla]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/22/092643kniet4c41e85455e.jpg)
+![](/Asserts/Images/album/202009/22/092643kniet4c41e85455e.jpg)
 
 
 #### 新的摩尔定律：黄氏定律

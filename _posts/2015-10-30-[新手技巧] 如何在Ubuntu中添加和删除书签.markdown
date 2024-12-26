@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201510/08/081045jie0yg0ed0mso5ty.jpg)
+![](/Asserts/Images/album/201510/08/081045jie0yg0ed0mso5ty.jpg)
 
 
 这是一篇对完全是新手的一篇技巧，我将向你展示如何在Ubuntu文件管理器中添加书签。
@@ -31,7 +31,7 @@ tags:	[linuxcn,Ubuntu]
 当你在Files（Ubuntu中的文件管理器）中时，查看顶部菜单。你会看到书签按钮。点击它你会看到将当前路径保存为书签的选项。
 
 
-![](/Asserts/Images//attachment/album/201510/08/081045tfo2wjo9olw2mkrw.jpg)
+![](/Asserts/Images/album/201510/08/081045tfo2wjo9olw2mkrw.jpg)
 
 
 #### 方法 2:
@@ -43,7 +43,7 @@ tags:	[linuxcn,Ubuntu]
 如你所见，这里左边栏就有一个新添加的Copy目录：
 
 
-![](/Asserts/Images//attachment/album/201510/08/081045avg9bp2h5ht4nzdk.jpg)
+![](/Asserts/Images/album/201510/08/081045avg9bp2h5ht4nzdk.jpg)
 
 
 ### 管理书签
@@ -52,7 +52,7 @@ tags:	[linuxcn,Ubuntu]
 如果你不想要太多的书签或者你错误地添加了一个书签，你可以很简单地删除它。按下Ctrl+B查看所有的书签。现在选择想要删除的书签并点击删除。
 
 
-![](/Asserts/Images//attachment/album/201510/08/081045tkvn2qlcq44mqd9s.png)
+![](/Asserts/Images/album/201510/08/081045tkvn2qlcq44mqd9s.png)
 
 
 这就是在Ubuntu中管理书签需要做的。我知道这对于大多数用户而言很简单，但是这也许多Ubuntu的新手而言或许还有用。

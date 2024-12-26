@@ -7,7 +7,7 @@ tags:	[linuxcn,Btrfs,文件系统]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/11/154616z17eu5uurn31n3th.png)
+![](/Asserts/Images/album/202205/11/154616z17eu5uurn31n3th.png)
 
 
 ### 引言

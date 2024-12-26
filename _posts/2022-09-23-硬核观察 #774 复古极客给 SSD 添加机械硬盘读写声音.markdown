@@ -7,10 +7,10 @@ tags:	[linuxcn,硬盘,AI,验证码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/29/174445zyafkl4ull54zd4l.jpg)
+![](/Asserts/Images/album/202209/29/174445zyafkl4ull54zd4l.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/29/174521vkg4ddadgeff6mca.jpg)
+![](/Asserts/Images/album/202209/29/174521vkg4ddadgeff6mca.jpg)
 
 
 ### 复古极客给 SSD 添加机械硬盘读写声音
@@ -35,7 +35,7 @@ tags:	[linuxcn,硬盘,AI,验证码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/29/174521ckl0hykghar0nkzz.jpg)
+![](/Asserts/Images/album/202209/29/174521ckl0hykghar0nkzz.jpg)
 
 
 ### 黑爵士达斯·维德的声音未来将用 AI 合成
@@ -60,7 +60,7 @@ tags:	[linuxcn,硬盘,AI,验证码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/29/174555lbia6edeip2i1w7a.jpg)
+![](/Asserts/Images/album/202209/29/174555lbia6edeip2i1w7a.jpg)
 
 
 ### Cloudflare 宣布了一个新的“验证码”服务

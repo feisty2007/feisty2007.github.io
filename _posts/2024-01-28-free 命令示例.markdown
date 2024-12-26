@@ -7,7 +7,7 @@ tags:	[linuxcn,free]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/19/221451m4mprm8p2yp4p51q.jpg)
+![](/Asserts/Images/album/202401/19/221451m4mprm8p2yp4p51q.jpg)
 
 
 
@@ -63,7 +63,7 @@ free [选项]
 但是如果执行不带选项的 `free` 命令会怎样呢？ 你可以看到下面的内容：
 
 
-![](/Asserts/Images//attachment/album/202401/19/221530q9m93iiwy1gi9gg1.png)
+![](/Asserts/Images/album/202401/19/221530q9m93iiwy1gi9gg1.png)
 
 
 这里，
@@ -98,7 +98,7 @@ free -h
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/19/221530ro37vo7mu2v7fou1.png)
+![](/Asserts/Images/album/202401/19/221530ro37vo7mu2v7fou1.png)
 
 
 #### 2、连续显示统计数据
@@ -149,7 +149,7 @@ free -c 3
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/19/221530kn4ruirin4zwup4p.gif)
+![](/Asserts/Images/album/202401/19/221530kn4ruirin4zwup4p.gif)
 
 
 默认情况下，它将每秒刷新一次数据，但你可以使用 `-s` 标志来指定间隔时间：
@@ -170,7 +170,7 @@ free -c 3 -s 2
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/19/221530sg1vv6o77ito5anz.gif)
+![](/Asserts/Images/album/202401/19/221530sg1vv6o77ito5anz.gif)
 
 
 #### 4、指定输出数据类型
@@ -210,7 +210,7 @@ free --mega
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/19/221531ukzi0jk0u8u0kp8e.png)
+![](/Asserts/Images/album/202401/19/221531ukzi0jk0u8u0kp8e.png)
 
 
 #### 5、获取物理内存和交换内存的总和
@@ -228,7 +228,7 @@ free -t
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/19/221531tcmzcsuffffggvkh.png)
+![](/Asserts/Images/album/202401/19/221531tcmzcsuffffggvkh.png)
 
 
 ### 练习题 ?‍?

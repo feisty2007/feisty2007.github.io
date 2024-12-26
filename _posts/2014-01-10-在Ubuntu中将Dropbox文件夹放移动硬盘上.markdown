@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,Ubuntu,Dropbox,移动硬盘,技巧]
 几个星期前，我们展示了如何[在Microsoft Windows中移动Dropbox文件夹到一个移动硬盘](http://www.liberiangeek.net/2013/11/daily-windows-tips-move-dropbox-folder-to-external-drive/)。该教程获得一致好评。对于使用Ubuntu操作系统的用户来说同样适用。
 
 
-![](/Asserts/Images//attachment/album/201401/06/150940klapoeekecrnairo.png)
+![](/Asserts/Images/album/201401/06/150940klapoeekecrnairo.png)
 
 
 这个简短的教程将告诉你如何在Ubuntu下轻松地将Dropbox文件夹移动到另一个位置。
@@ -34,43 +34,43 @@ tags:	[linuxcn,Linux,Ubuntu,Dropbox,移动硬盘,技巧]
 插入磁盘后，进入Unity Dash 并搜索Disks。打开它并选择你希望适用的外部驱动器，点击 **Tools –> Format**
 
 
-![](/Asserts/Images//attachment/album/201401/06/150949ei6mr3iw3r3tcy3z.png)
+![](/Asserts/Images/album/201401/06/150949ei6mr3iw3r3tcy3z.png)
 
 
 下一步，格式化驱动器的文件系统为**NTFS**格式。
 
 
-![](/Asserts/Images//attachment/album/201401/06/150951o6kgmmroerrroc0g.png)
+![](/Asserts/Images/album/201401/06/150951o6kgmmroerrroc0g.png)
 
 
 格式化之后，选择 **Tools –> Mount Options**
 
 
-![](/Asserts/Images//attachment/album/201401/06/150953e9e965krnyrk5yif.png)
+![](/Asserts/Images/album/201401/06/150953e9e965krnyrk5yif.png)
 
 
 然后指定相应的选项，如下图所示：安装点（准备将Dropbox的文件夹放到这里），文件系统类型，以及下面的图片中的其他选项。保存它时，你就大功告成了。
 
 
-![](/Asserts/Images//attachment/album/201401/06/150955n1pwhr83wll8xwcq.png)
+![](/Asserts/Images/album/201401/06/150955n1pwhr83wll8xwcq.png)
 
 
 在此之后，退出Dropbox的服务并在默认位置（/home/用户名/Dropbox）删除当前的Dropbox文件夹（译注：在Dropbox完全移动好之前，我不建议你如本文一样删除原来的文件夹，而是将文件夹改名，要不万一出错呢？）。当您再次启动Dropbox的服务时，它会提醒你缺少的文件夹。点击重新链接按钮以指定新的位置（就是你的移动硬盘上的新位置）。
 
 
-![](/Asserts/Images//attachment/album/201401/06/150957okoknkacof3fdfxo.png)
+![](/Asserts/Images/album/201401/06/150957okoknkacof3fdfxo.png)
 
 
 当提示选择安装类型，选择‘**Advanced’**并指定位置安装Dropbox文件夹。
 
 
-![](/Asserts/Images//attachment/album/201401/06/15095915gy5o8tco00ftrr.png)
+![](/Asserts/Images/album/201401/06/15095915gy5o8tco00ftrr.png)
 
 
 设置完毕后，重新启动，如果Dropbox的不会提示你缺少文件夹，那么就成功了。
 
 
-![](/Asserts/Images//attachment/album/201401/06/151001salgal3rl033z13s.png)
+![](/Asserts/Images/album/201401/06/151001salgal3rl033z13s.png)
 
 
 教程就是这样！

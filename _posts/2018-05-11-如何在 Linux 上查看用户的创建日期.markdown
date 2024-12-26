@@ -7,7 +7,7 @@ tags:	[linuxcn,用户]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/10/111549oxsb87ssbt0m04b3.jpg)
+![](/Asserts/Images/album/201805/10/111549oxsb87ssbt0m04b3.jpg)
 
 
 你知道吗，如何在 Linux 系统上查看帐户的创建日期？如果知道，那么有些什么办法。

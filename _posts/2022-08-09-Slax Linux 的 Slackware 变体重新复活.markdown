@@ -15,7 +15,7 @@ tags:	[linuxcn,Slackware,Slax]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/05/194111k1czvyqqv5ur5105.jpg)
+![](/Asserts/Images/album/202208/05/194111k1czvyqqv5ur5105.jpg)
 
 
 Slax 是最有趣的 [轻量级 Linux 发行版](https://itsfoss.com/lightweight-linux-beginners/) 之一。

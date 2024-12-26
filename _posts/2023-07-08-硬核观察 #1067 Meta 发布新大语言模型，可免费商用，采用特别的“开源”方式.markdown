@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,物联网]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/19/191914by45c065s5iemds5.jpg)
+![](/Asserts/Images/album/202307/19/191914by45c065s5iemds5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/19/191926bqbebwo2baobodw2.jpg)
+![](/Asserts/Images/album/202307/19/191926bqbebwo2baobodw2.jpg)
 
 
 ### Meta 发布新大语言模型，可免费商用，采用特别的“开源”方式
@@ -35,7 +35,7 @@ Meta 周二发布了 Llama 2：这是一套经过预训练和微调的基于文�
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/19/191942msyywl0xtr22nxty.jpg)
+![](/Asserts/Images/album/202307/19/191942msyywl0xtr22nxty.jpg)
 
 
 ### 美国启动物联网安全标签计划
@@ -60,7 +60,7 @@ Meta 周二发布了 Llama 2：这是一套经过预训练和微调的基于文�
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/19/191959c9mycqdlz0ixxc0w.jpg)
+![](/Asserts/Images/album/202307/19/191959c9mycqdlz0ixxc0w.jpg)
 
 
 ### 印度大部分外包程序员将在两年内因人工智能而消失

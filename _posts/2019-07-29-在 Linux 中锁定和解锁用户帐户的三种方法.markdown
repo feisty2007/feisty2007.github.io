@@ -7,7 +7,7 @@ tags:	[linuxcn,账号]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/01/170410j3tp77ymda3i9wz7.jpg)
+![](/Asserts/Images/album/201907/01/170410j3tp77ymda3i9wz7.jpg)
 
 
 如果你已经在你的组织中实施了某种密码策略，你无需看这篇文章了。但是在这种情况下，如果你给账户设置了 24 小时的锁定期，你需要手动解锁用户帐户。

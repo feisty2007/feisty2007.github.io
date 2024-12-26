@@ -7,10 +7,10 @@ tags:	[linuxcn,Youtube-DL,AI,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/05/173434a68vdvwdun1b6edw.jpg)
+![](/Asserts/Images/album/202304/05/173434a68vdvwdun1b6edw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/05/173444zz91y59b253jv9v2.jpg)
+![](/Asserts/Images/album/202304/05/173444zz91y59b253jv9v2.jpg)
 
 
 ### 德国法院裁定 Youtube-DL 的托管商败诉
@@ -35,7 +35,7 @@ tags:	[linuxcn,Youtube-DL,AI,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/05/173455cvwwdjjej0v20ddl.jpg)
+![](/Asserts/Images/album/202304/05/173455cvwwdjjej0v20ddl.jpg)
 
 
 ### 斯坦福大学发布人工智能状况报告
@@ -69,7 +69,7 @@ tags:	[linuxcn,Youtube-DL,AI,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/05/173509iuyd53joxyad14yx.jpg)
+![](/Asserts/Images/album/202304/05/173509iuyd53joxyad14yx.jpg)
 
 
 ### 采用通用密码的车库门设备

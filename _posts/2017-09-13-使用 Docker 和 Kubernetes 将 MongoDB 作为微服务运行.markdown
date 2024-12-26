@@ -7,7 +7,7 @@ tags:	[linuxcn,MongoDB,容器,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/14/101344xin8en5887l55ebl.jpg)
+![](/Asserts/Images/album/201709/14/101344xin8en5887l55ebl.jpg)
 
 
 ### 介绍
@@ -59,7 +59,7 @@ tags:	[linuxcn,MongoDB,容器,Kubernetes]
 下图说明了其中一个 pod 以及相关的复制控制器和服务。
 
 
-![](/Asserts/Images//attachment/album/201709/14/101507fcvvovaa2vvet2tx.png)
+![](/Asserts/Images/album/201709/14/101507fcvvovaa2vvet2tx.png)
 
 
 *图 1：MongoDB 副本集成员被配置为 Kubernetes Pod 并作为服务公开*
@@ -69,7 +69,7 @@ tags:	[linuxcn,MongoDB,容器,Kubernetes]
 
 
 * 从核心开始，有一个名为 `mongo-node1` 的容器。`mongo-node1` 包含一个名为 `mongo` 的镜像，这是一个在 [Docker Hub](https://hub.docker.com/_/mongo/) 上托管的一个公开可用的 MongoDB 容器镜像。容器在集群中暴露端口 `27107`。
-* Kubernetes 的数据卷功能用于将连接器中的 `/Asserts/Images//db` 目录映射到名为 `mongo-persistent-storage1` 的永久存储上，这又被映射到在 Google Cloud 中创建的名为 `mongodb-disk1` 的磁盘中。这是 MongoDB 存储其数据的地方，这样它可以在容器重新编排后保留。
+* Kubernetes 的数据卷功能用于将连接器中的 `/data/db` 目录映射到名为 `mongo-persistent-storage1` 的永久存储上，这又被映射到在 Google Cloud 中创建的名为 `mongodb-disk1` 的磁盘中。这是 MongoDB 存储其数据的地方，这样它可以在容器重新编排后保留。
 * 容器保存在一个 pod 中，该 pod 中有标签命名为 `mongo-node`，并提供一个名为 `rod` 的（任意）示例。
 * 配置 `mongo-node1` 复制控制器以确保 `mongo-node1` pod 的单个实例始终运行。
 * 名为 `mongo-svc-a` 的 `负载均衡` 服务给外部开放了一个 IP 地址以及 `27017` 端口，它被映射到容器相同的端口号上。该服务使用选择器来匹配 pod 标签来确定正确的 pod。外部 IP 地址和端口将用于应用程序以及副本集成员之间的通信。每个容器也有本地 IP 地址，但是当容器移动或重新启动时，这些 IP 地址会变化，因此不会用于副本集。
@@ -78,7 +78,7 @@ tags:	[linuxcn,MongoDB,容器,Kubernetes]
 下一个图显示了副本集的第二个成员的配置。
 
 
-![](/Asserts/Images//attachment/album/201709/14/101508u7fi6f22fmipmm6p.png)
+![](/Asserts/Images/album/201709/14/101508u7fi6f22fmipmm6p.png)
 
 
 *图 2：第二个 MongoDB 副本集成员配置为 Kubernetes Pod*
@@ -96,7 +96,7 @@ tags:	[linuxcn,MongoDB,容器,Kubernetes]
 第三个副本成员的配置遵循相同的模式，下图展示了完整的副本集：
 
 
-![](/Asserts/Images//attachment/album/201709/14/101511pnkntw9lkx41llee.png)
+![](/Asserts/Images/album/201709/14/101511pnkntw9lkx41llee.png)
 
 
 *图 3：配置为 Kubernetes 服务的完整副本集成员*
@@ -108,7 +108,7 @@ tags:	[linuxcn,MongoDB,容器,Kubernetes]
 为了在区域内增加冗余，可以创建一个附加的 *headless* 服务。新服务不向外界提供任何功能（甚至不会有 IP 地址），但是它可以让 Kubernetes 通知三个 MongoDB pod 形成一个服务，所以 Kubernetes 会尝试在不同的节点上编排它们。
 
 
-![](/Asserts/Images//attachment/album/201709/14/101513wn3717tfeaezn3tv.png)
+![](/Asserts/Images/album/201709/14/101513wn3717tfeaezn3tv.png)
 
 
 *图 4：避免同一 MongoDB 副本集成员的 Headless 服务*
@@ -126,7 +126,7 @@ tags:	[linuxcn,MongoDB,容器,Kubernetes]
 令人惊奇的是，为了创建在三个区域之间分割的类似的副本集（需要三个集群），几乎不需要改变。每个集群都需要自己的 Kubernetes YAML 文件，该文件仅为该副本集中的一个成员定义了 pod、复制控制器和服务。那么为每个区域创建一个集群，永久存储和 MongoDB 节点是一件很简单的事情。
 
 
-![](/Asserts/Images//attachment/album/201709/14/101515onn41ptoqzwyqw4o.png)
+![](/Asserts/Images/album/201709/14/101515onn41ptoqzwyqw4o.png)
 
 
 *图 5：在多个可用区域上运行的副本集*

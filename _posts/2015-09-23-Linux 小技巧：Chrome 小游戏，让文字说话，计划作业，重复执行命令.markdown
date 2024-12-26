@@ -10,7 +10,7 @@ tags:	[linuxcn,技巧]
 重要的事情说两遍，我完成了一个[Linux提示与彩蛋](http://www.tecmint.com/tag/linux-tricks/)系列，让你的Linux获得更多创造和娱乐。
 
 
-![Linux提示与彩蛋系列](/Asserts/Images//attachment/album/201509/05/173634o33sq3x7f4oaoo0v.png)
+![Linux提示与彩蛋系列](/Asserts/Images/album/201509/05/173634o33sq3x7f4oaoo0v.png)
 
 
 *Linux提示与彩蛋系列*
@@ -28,7 +28,7 @@ tags:	[linuxcn,技巧]
 所以当Internet发生出错，会出现一个这样的界面：
 
 
-![不能连接到互联网](/Asserts/Images//attachment/album/201509/05/173635h3io33rxm811miof.png)
+![不能连接到互联网](/Asserts/Images/album/201509/05/173635h3io33rxm811miof.png)
 
 
 *不能连接到互联网*
@@ -43,7 +43,7 @@ tags:	[linuxcn,技巧]
 使用空格/向上方向键来跳跃。请看下列截图：
 
 
-![Google Chrome中玩游戏](/Asserts/Images//attachment/album/201509/05/173643p1zvlww1wb1ynl9e.gif)
+![Google Chrome中玩游戏](/Asserts/Images/album/201509/05/173643p1zvlww1wb1ynl9e.gif)
 
 
 *Google Chrome中玩游戏*
@@ -155,7 +155,7 @@ Ctrl+D
 
 ```
 
-![Linux中计划任务](/Asserts/Images//attachment/album/201509/05/173644y3lk7hdpj9s9pj9t.png)
+![Linux中计划任务](/Asserts/Images/album/201509/05/173644y3lk7hdpj9s9pj9t.png)
 
 
 *Linux中计划任务*
@@ -170,7 +170,7 @@ $ at -l
 
 ```
 
-![浏览计划任务](/Asserts/Images//attachment/album/201509/05/173644dffasxbb3yk8iibx.png)
+![浏览计划任务](/Asserts/Images/album/201509/05/173644dffasxbb3yk8iibx.png)
 
 
 *浏览计划任务*
@@ -206,7 +206,7 @@ $ date +"%H:%M:%S
 
 ```
 
-![Linux中查看日期和时间](/Asserts/Images//attachment/album/201509/05/173645kpg76tuv61u16pdb.png)
+![Linux中查看日期和时间](/Asserts/Images/album/201509/05/173645kpg76tuv61u16pdb.png)
 
 
 *Linux中查看日期和时间*
@@ -221,7 +221,7 @@ $ watch -n 3 'date +"%H:%M:%S"'
 
 ```
 
-![Linux中watch命令](/Asserts/Images//attachment/album/201509/05/173645rff9msveppe9e930.gif)
+![Linux中watch命令](/Asserts/Images/album/201509/05/173645rff9msveppe9e930.gif)
 
 
 *Linux中watch命令*

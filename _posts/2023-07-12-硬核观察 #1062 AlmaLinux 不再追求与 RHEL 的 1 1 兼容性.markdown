@@ -7,10 +7,10 @@ tags:	[linuxcn,AlmaLinux,AI,电池]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/14/161516vclls60cosc83666.jpg)
+![](/Asserts/Images/album/202307/14/161516vclls60cosc83666.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/14/161528whem7uv1ai1emvvv.jpg)
+![](/Asserts/Images/album/202307/14/161528whem7uv1ai1emvvv.jpg)
 
 
 ### AlmaLinux 不再追求与 RHEL 的 1:1 兼容性
@@ -35,7 +35,7 @@ tags:	[linuxcn,AlmaLinux,AI,电池]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/14/161541i7qr5kqih67w5iqs.jpg)
+![](/Asserts/Images/album/202307/14/161541i7qr5kqih67w5iqs.jpg)
 
 
 ### 好莱坞想要永远免费得到龙套演员的人工智能复制品
@@ -60,7 +60,7 @@ tags:	[linuxcn,AlmaLinux,AI,电池]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/14/161614svv0ygvnhlvhlzza.jpg)
+![](/Asserts/Images/album/202307/14/161614svv0ygvnhlvhlzza.jpg)
 
 
 ### 2027 年欧盟销售的智能手机电池需要可更换

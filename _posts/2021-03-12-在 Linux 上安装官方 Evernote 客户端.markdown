@@ -7,7 +7,7 @@ tags:	[linuxcn,Evernote]
 ---
 
 
-![](/Asserts/Images//attachment/album/202103/12/064741kvenjiev6qvia4ia.jpg)
+![](/Asserts/Images/album/202103/12/064741kvenjiev6qvia4ia.jpg)
 
 
 [Evernote](https://evernote.com/) 是一款流行的笔记应用。它在推出时是一个革命性的产品。从那时起，已经有好几个这样的应用，可以将网络剪报、笔记等保存为笔记本格式。
@@ -36,31 +36,31 @@ tags:	[linuxcn,Evernote]
 向下滚动一点，接受“早期测试计划”的条款和条件。你会看到一个“立即安装”的按钮出现在屏幕上。点击它来下载 DEB 文件。
 
 
-![](/Asserts/Images//attachment/album/202103/12/064557wamtxxmgxcdiagoc.png)
+![](/Asserts/Images/album/202103/12/064557wamtxxmgxcdiagoc.png)
 
 
 要 [从 DEB 文件安装应用](https://itsfoss.com/install-deb-files-ubuntu/)，请双击它。它应该会打开软件中心，并给你选择安装它。
 
 
-![](/Asserts/Images//attachment/album/202103/12/064559obcw2b9m9bpbmm12.png)
+![](/Asserts/Images/album/202103/12/064559obcw2b9m9bpbmm12.png)
 
 
 安装完成后，在系统菜单中搜索 Evernote 并启动它。
 
 
-![](/Asserts/Images//attachment/album/202103/12/064600e8prlel2vzulr550.jpg)
+![](/Asserts/Images/album/202103/12/064600e8prlel2vzulr550.jpg)
 
 
 当你第一次启动应用时，你需要登录到你的 Evernote 账户。
 
 
-![](/Asserts/Images//attachment/album/202103/12/064602rbgrp8pm8811biae.png)
+![](/Asserts/Images/album/202103/12/064602rbgrp8pm8811biae.png)
 
 
 第一次运行会带你进入“主页面”，在这里你可以整理你的笔记本，以便更快速地访问。
 
 
-![](/Asserts/Images//attachment/album/202103/12/064604v7cd5r5uaxtrgxkc.png)
+![](/Asserts/Images/album/202103/12/064604v7cd5r5uaxtrgxkc.png)
 
 
 你现在可以享受在 Linux 上使用 Evernote 了。
@@ -84,7 +84,7 @@ tags:	[linuxcn,Evernote]
 这为你提供了另一个 [Linux 上的笔记应用](https://itsfoss.com/note-taking-apps-linux/)，但它也带来了一个问题。这里没有退出 Evernote 的选项。它只用于打开快速记事应用。
 
 
-![](/Asserts/Images//attachment/album/202103/12/064606kl6l3lopmbossb38.png)
+![](/Asserts/Images/album/202103/12/064606kl6l3lopmbossb38.png)
 
 
 那么，如何退出 Evernote 应用呢？为此，再次打开 Evernote 应用。如果它在后台运行，在菜单中搜索它，并启动它，就像你重新打开它一样。
@@ -93,7 +93,7 @@ tags:	[linuxcn,Evernote]
 当 Evernote 应用在前台运行时，点击 “文件->退出” 来退出 Evernote。
 
 
-![](/Asserts/Images//attachment/album/202103/12/064607nk00qoofkq2pbmb7.png)
+![](/Asserts/Images/album/202103/12/064607nk00qoofkq2pbmb7.png)
 
 
 这一点开发者应该在未来的版本中寻求改进。

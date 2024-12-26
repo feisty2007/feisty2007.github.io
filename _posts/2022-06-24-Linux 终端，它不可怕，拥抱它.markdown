@@ -7,7 +7,7 @@ tags:	[linuxcn,终端,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/17/144213pjobjojcnwbnd4rn.jpg)
+![](/Asserts/Images/album/202206/17/144213pjobjojcnwbnd4rn.jpg)
 
 
 至少，对于熟悉图形界面的新用户来说，我们大多时候都在避免使用 Linux 终端。
@@ -22,7 +22,7 @@ tags:	[linuxcn,终端,Linux]
 ### 1、快速熟悉命令
 
 
-![quick info terminal](/Asserts/Images//attachment/album/202206/17/144218i2l7w4q4d0wx4u2k.png)
+![quick info terminal](/Asserts/Images/album/202206/17/144218i2l7w4q4d0wx4u2k.png)
 
 
 有时，你需要使用某个命令在终端中执行一些操作。当然，你可以在不知道它到底有什么用情况下复制粘贴。
@@ -58,7 +58,7 @@ Linux 终端万岁。
 ### 2、解决问题
 
 
-![troubleshoting illustration](/Asserts/Images//attachment/album/202206/17/144218ebgbrbn6cwn7xfbc.jpg)
+![troubleshoting illustration](/Asserts/Images/album/202206/17/144218ebgbrbn6cwn7xfbc.jpg)
 
 
 当你在互联网上搜索一个问题的解决方法时，通常，解决方案中会包含几个命令。
@@ -81,7 +81,7 @@ Linux 终端万岁。
 ### 3、使用远程服务器愉快工作
 
 
-![remote server illustration](/Asserts/Images//attachment/album/202206/17/144218b2gnglbllgmv2lng.jpg)
+![remote server illustration](/Asserts/Images/album/202206/17/144218b2gnglbllgmv2lng.jpg)
 
 
 最终，你会通过命令行（或终端）访问一个远程服务器并执行各种操作，包括文件传输。
@@ -108,7 +108,7 @@ Linux 终端万岁。
 ### 5、快速
 
 
-![fast illustration](/Asserts/Images//attachment/album/202206/17/144218e9xvx7b9xwndff7z.jpg)
+![fast illustration](/Asserts/Images/album/202206/17/144218e9xvx7b9xwndff7z.jpg)
 
 
 你知道吗？不仅局限于内存使用，使用终端你可以比使用图形界面更快的完成任务。
@@ -141,7 +141,7 @@ Linux 终端万岁。
 ### 8、尝试各种终端模拟器
 
 
-![variety illustration](/Asserts/Images//attachment/album/202206/17/144219tgr9gb341knnetv1.jpg)
+![variety illustration](/Asserts/Images/album/202206/17/144219tgr9gb341knnetv1.jpg)
 
 
 尽管使用 Linux 发行版默认安装的终端模拟器对你来说没有任何困难，你仍然有更多的选择。

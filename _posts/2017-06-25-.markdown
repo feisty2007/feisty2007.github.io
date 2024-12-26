@@ -46,9 +46,9 @@ excerpt: 在 LinuxCon 2017 （北京）即将召开前夕，我们 Linux 中国�
 fromurl: ''
 id: 8594
 islctt: false
-largepic: /Asserts/Images//attachment/album/201706/09/155244eod0bmoi0eemizto.jpg
+largepic: /Asserts/Images/album/201706/09/155244eod0bmoi0eemizto.jpg
 permalink: /article-8594-1.html
-pic: /Asserts/Images//attachment/album/201706/09/155244eod0bmoi0eemizto.jpg.thumb.jpg
+pic: /Asserts/Images/album/201706/09/155244eod0bmoi0eemizto.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -64,7 +64,7 @@ translator: ''
 updated: '2017-06-09 15:53:00'
 ---
 
-![](/Asserts/Images//attachment/album/201706/09/155244eod0bmoi0eemizto.jpg)
+![](/Asserts/Images/album/201706/09/155244eod0bmoi0eemizto.jpg)
 
 
 
@@ -81,7 +81,7 @@ updated: '2017-06-09 15:53:00'
 在这次专访中，Jim 先生回答了几个开源界和互联网领域关注的问题，并披露了一些有趣的消息和数据。
 
 
-![Linux 基金会执行董事 Jim Zemlin](/Asserts/Images//attachment/album/201706/09/155304itv6is0toogd707h.jpg)
+![Linux 基金会执行董事 Jim Zemlin](/Asserts/Images/album/201706/09/155304itv6is0toogd707h.jpg)
 
 
 首先，Jim 先生对 [LinuxCon + ContainerCon + CloudOpen 大会（以下简称 LC3）](https://www.lfasiallc.com/linuxcon-containercon-cloudopen-china)的情况做了介绍： 

@@ -85,15 +85,15 @@ Do you want to continue [Y/n]?
 7. 在安装过程中，你需要同意条款才能继续。选择**OK**。
 
 
-![](/Asserts/Images//attachment/album/201312/15/233141q4ee3hu5q046a75z.png)
+![](/Asserts/Images/album/201312/15/233141q4ee3hu5q046a75z.png)
 8. 然后选择**Yes**继续。
 
 
-![](/Asserts/Images//attachment/album/201312/15/233143t49bixqxakktkp7j.png)
+![](/Asserts/Images/album/201312/15/233143t49bixqxakktkp7j.png)
 9. 现在请等待安装包的下载与自动安装:
 
 
-![](/Asserts/Images//attachment/album/201312/15/233157vdvh4i2gipziv5q0.png)
+![](/Asserts/Images/album/201312/15/233157vdvh4i2gipziv5q0.png)
 10. 安装完成。你可以在终端上查看Java版本:
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,ls]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/13/001317dzxfxxe0k6xlfxu6.jpg)
+![](/Asserts/Images/album/201802/13/001317dzxfxxe0k6xlfxu6.jpg)
 
 
 如何在 Linux 或类 Unix 操作系统上的 bash shell 中打开或关闭文件名称颜色（`ls` 命令颜色）？
@@ -120,7 +120,7 @@ $ ls -G
 示例输出：
 
 
-[![How to enable colorized output for the ls command in Mac OS X Terminal](/Asserts/Images//attachment/album/201802/13/001348tpyyp4f8p4qpip4x.jpg)](https://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
+[![How to enable colorized output for the ls command in Mac OS X Terminal](/Asserts/Images/album/201802/13/001348tpyyp4f8p4qpip4x.jpg)](https://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
 
 
 *如何在 Mac OS X 终端中为 ls 命令启用彩色输出*

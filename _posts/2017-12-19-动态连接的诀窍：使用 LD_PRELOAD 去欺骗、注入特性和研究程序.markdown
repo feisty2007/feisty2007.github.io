@@ -7,7 +7,7 @@ tags:	[linuxcn,分析,安全,注入]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/24/214230mevm8eqvmmqmvvhv.jpg)
+![](/Asserts/Images/album/201712/24/214230mevm8eqvmmqmvvhv.jpg)
 
 
 **本文假设你具备基本的 C 技能**

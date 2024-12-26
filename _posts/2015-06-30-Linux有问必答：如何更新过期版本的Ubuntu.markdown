@@ -33,7 +33,7 @@ E: Some index files failed to download. They have been ignored, or old ones used
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/10/100455jvbe66lhzzl2rgg8.jpg)
+![](/Asserts/Images/album/201506/10/100455jvbe66lhzzl2rgg8.jpg)
 
 
 对于那些还在使用旧版本Ubuntu的用户，Canonical维护了一个old-releases.ubuntu.com的网站，这里包含了结束生命周期的仓库归档。因此，当Canonical对你安装的Ubuntu版本结束支持时，你需要将仓库切换到old-releases.ubuntu.com（除非你在结束生命周期之前想要升级）。

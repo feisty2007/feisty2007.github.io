@@ -42,7 +42,7 @@ OneDrive 无法在 Linux 中作为桌面应用使用。你可以通过网页访�
 ### 在 Linux 中通过 Insync 获得原生 OneDrive 体验
 
 
-![](/Asserts/Images//attachment/album/201910/08/115426ho4nonbbn8nbxgbn.png)
+![](/Asserts/Images/album/201910/08/115426ho4nonbbn8nbxgbn.png)
 
 
 尽管它是一个付费工具，但依赖 OneDrive 的用户或许希望在他们的 Linux 系统中获得同步 OneDrive 的无缝体验。
@@ -60,7 +60,7 @@ OneDrive 无法在 Linux 中作为桌面应用使用。你可以通过网页访�
 安装完成后，只需启动并选择 OneDrive 选项。
 
 
-![](/Asserts/Images//attachment/album/201910/08/115431y5i8lecf0c8w5fe6.png)
+![](/Asserts/Images/album/201910/08/115431y5i8lecf0c8w5fe6.png)
 
 
 另外，要注意的是，你添加的每个 OneDrive 或 Google Drive 帐户都需要单独的许可证。
@@ -69,25 +69,25 @@ OneDrive 无法在 Linux 中作为桌面应用使用。你可以通过网页访�
 现在，在授权 OneDrive 帐户后，你必须选择一个用于同步所有内容的基础文件夹，这是 Insync 3 中的一项新功能。
 
 
-![Insync 3 Base Folder](/Asserts/Images//attachment/album/201910/08/115431mpnsnd1dpnx2r2rn.png)
+![Insync 3 Base Folder](/Asserts/Images/album/201910/08/115431mpnsnd1dpnx2r2rn.png)
 
 
 除此之外，设置完成后，你还可以选择性地同步本地或云端的文件/文件夹。
 
 
-![Insync Selective Sync](/Asserts/Images//attachment/album/201910/08/115436vztr1oi9iciokwpl.png)
+![Insync Selective Sync](/Asserts/Images/album/201910/08/115436vztr1oi9iciokwpl.png)
 
 
 你还可以通过添加自己的规则来自定义同步选项，以忽略/同步所需的文件夹和文件，这完全是可选的。
 
 
-![Insync Customize Sync Preferences](/Asserts/Images//attachment/album/201910/08/115436es2fwjaq3jzx8ljd.png)
+![Insync Customize Sync Preferences](/Asserts/Images/album/201910/08/115436es2fwjaq3jzx8ljd.png)
 
 
 最后，就这样完成了。
 
 
-![Insync 3](/Asserts/Images//attachment/album/201910/08/115437wgsswxllgwwigwle.png)
+![Insync 3](/Asserts/Images/album/201910/08/115437wgsswxllgwwigwle.png)
 
 
 你现在可以在包括带有 Insync 的 Linux 桌面在内的多个平台使用 OneDrive 开始同步文件/文件夹。除了上面所有新功能/更改之外，你还可以在 Insync 上获得更快/更流畅的体验。
@@ -96,7 +96,7 @@ OneDrive 无法在 Linux 中作为桌面应用使用。你可以通过网页访�
 此外，借助 Insync 3，你可以查看同步进度：
 
 
-![](/Asserts/Images//attachment/album/201910/08/115437u7fvbtsw3t3fbt03.png)
+![](/Asserts/Images/album/201910/08/115437u7fvbtsw3t3fbt03.png)
 
 
 ### 总结

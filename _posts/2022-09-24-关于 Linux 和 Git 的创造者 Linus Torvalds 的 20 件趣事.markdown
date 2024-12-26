@@ -15,7 +15,7 @@ tags:	[linuxcn,Linus Torvalds]
 > 
 
 
-![Linus Torvalds，Linux 和 Git 的创造者](/Asserts/Images//attachment/album/202209/23/170142xi8qc1g3w1i8rrsd.png)
+![Linus Torvalds，Linux 和 Git 的创造者](/Asserts/Images/album/202209/23/170142xi8qc1g3w1i8rrsd.png)
 
 
 [Linus Benedict Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)（林纳斯·本纳第克特·托瓦兹），在 1991 年还是一名攻读硕士的芬兰学生时，他开发了一个类 Unix 操作系统。从那时起，它引发了一场革命：今天，它为大多数 Web 服务器、许多嵌入式设备和 [500 强超级计算机](https://itsfoss.com/linux-runs-top-supercomputers/) 中的每一台提供支持。
@@ -51,7 +51,7 @@ Linus Benedict Torvalds 于 1969 年 12 月 28 日出生于赫尔辛基。他来
 由于这是一个不寻常的姓氏，所以世界上只有不到 30 个 Torvalds，而且他们都是亲戚，这是 Linus Torvalds 在他的传记中说的。
 
 
-![年轻的 Linus Torvalds 和他的记者妹妹 Sara Torvalds](/Asserts/Images//attachment/album/202209/23/170142gznamcqolccoaoco.jpg)
+![年轻的 Linus Torvalds 和他的记者妹妹 Sara Torvalds](/Asserts/Images/album/202209/23/170142gznamcqolccoaoco.jpg)
 
 
 #### 3、他的第一台电脑是 Commodore Vic 20
@@ -99,7 +99,7 @@ Linus 认为 Linux 这个名字太自负了。他想把它改成 Freax（基于 
 我应该说他开创了网恋的潮流吗？嗯……不！让我们就此打住 :wink:
 
 
-![Linus Torvalds 和他的妻子 Tove Monni Torvalds](/Asserts/Images//attachment/album/202209/23/170142ou8bescyztesszbk.jpg)
+![Linus Torvalds 和他的妻子 Tove Monni Torvalds](/Asserts/Images/album/202209/23/170142ou8bescyztesszbk.jpg)
 
 
 #### 9、Linus 有一颗以他的名字命名的小行星
@@ -153,7 +153,7 @@ Linus Torvalds 极其 [不喜欢 C++ 编程语言](https://lwn.net/Articles/2494
 Linus Torvalds 喜欢水肺潜水。他甚至创造了一种供水肺潜水员使用的潜水记录工具 [Subsurface](https://subsurface-divelog.org/)。你会惊讶地发现，有时他甚至会在论坛上回答一些普通问题。
 
 
-![穿着潜水装备的 Linus Torvalds](/Asserts/Images//attachment/album/202209/23/170142tejo9eqqfazh8jkh.jpg)
+![穿着潜水装备的 Linus Torvalds](/Asserts/Images/album/202209/23/170142tejo9eqqfazh8jkh.jpg)
 
 
 #### 17、满嘴脏话的 Torvalds 改善了他的行为
@@ -165,7 +165,7 @@ Torvalds 以在 Linux 内核邮件列表中使用 [轻度脏话](https://www.the
 2018 年，[Torvalds 暂时离开了 Linux 内核开发，以改善他的行为](https://itsfoss.com/torvalds-takes-a-break-from-linux/)。这是在他签署有争议的 [Linux 内核开发人员行为准则](https://itsfoss.com/linux-code-of-conduct/) 之前完成的。
 
 
-![Linus Torvalds 对英伟达的中指：去你的！英伟达](/Asserts/Images//attachment/album/202209/23/170142aqtlqpzl2bbqgl2b.jpg)
+![Linus Torvalds 对英伟达的中指：去你的！英伟达](/Asserts/Images/album/202209/23/170142aqtlqpzl2bbqgl2b.jpg)
 
 
 #### 18、他太害羞了，不敢在公共场合讲话
@@ -189,7 +189,7 @@ Linus 于 1997 年移居美国，并与他的妻子 Tove 和他们的三个女�
 很难说 Linus Torvalds 的净资产是多少，或者 Linus Torvalds 的收入是多少，因为这些信息从未公开过。
 
 
-![Tove 和 Linus Torvalds 和他们的女儿 Patricia、Daniela 和 Celeste](/Asserts/Images//attachment/album/202209/23/170143b5rq1ar6rffcrfrn.jpg)
+![Tove 和 Linus Torvalds 和他们的女儿 Patricia、Daniela 和 Celeste](/Asserts/Images/album/202209/23/170143b5rq1ar6rffcrfrn.jpg)
 
 
 如果你有兴趣了解更多有关 Linus Torvalds 早期生活的信息，我建议你阅读他的传记，书名为 《<ruby> <a href="https://www.amazon.com/dp/0066620732?tag=AAWP_PLACEHOLDER_TRACKING_ID">  只是为了好玩 </a> <rt>  Just for Fun </rt></ruby>》。

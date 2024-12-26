@@ -7,10 +7,10 @@ tags:	[linuxcn,固件,英特尔,广告]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/04/192428b0v5kki9iqtt6606.jpg)
+![](/Asserts/Images/album/202206/04/192428b0v5kki9iqtt6606.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/04/192440jwnss63gpswwuewx.jpg)
+![](/Asserts/Images/album/202206/04/192440jwnss63gpswwuewx.jpg)
 
 
 ### 开源固件基金会发布公开信要求英特尔开源 FSP
@@ -35,7 +35,7 @@ tags:	[linuxcn,固件,英特尔,广告]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/04/192502kdfd2zqiiq17tb1w.jpg)
+![](/Asserts/Images/album/202206/04/192502kdfd2zqiiq17tb1w.jpg)
 
 
 ### Zstd 压缩固件的支持提交到 Linux 5.19
@@ -60,7 +60,7 @@ tags:	[linuxcn,固件,英特尔,广告]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/04/192527ckuuldauo5ptoogw.jpg)
+![](/Asserts/Images/album/202206/04/192527ckuuldauo5ptoogw.jpg)
 
 
 ### Facebook 正在开发“隐私安全”广告产品

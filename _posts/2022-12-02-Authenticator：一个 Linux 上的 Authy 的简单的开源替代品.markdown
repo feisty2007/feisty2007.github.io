@@ -16,7 +16,7 @@ Authy 是一款流行的应用，用于存储和管理双因素代码。它是�
 嗯，当然，你不能使用云同步。但是你可以为双因素身份验证码做个备份。记住这点，让我告诉你更多有关 Authenticator 的信息。
 
 
-![authenticator app ft](/Asserts/Images//attachment/album/202212/03/151419b633mfdlf3ybkzfy.png)
+![authenticator app ft](/Asserts/Images/album/202212/03/151419b633mfdlf3ybkzfy.png)
 
 
 ### Authenticator：生成双因素身份验证代码
@@ -28,7 +28,7 @@ Authy 是一款流行的应用，用于存储和管理双因素代码。它是�
 Authenticator 就是这样一款适用于 Linux 的应用，他可让你添加双因素身份验证码。
 
 
-![authenticator ui](/Asserts/Images//attachment/album/202212/03/151419xgewbbetnhqhe2fh.png)
+![authenticator ui](/Asserts/Images/album/202212/03/151419xgewbbetnhqhe2fh.png)
 
 
 它是一个自由开源的应用，具有添加各种支持双因素身份验证的令牌和网站的基本功能。
@@ -37,7 +37,7 @@ Authenticator 就是这样一款适用于 Linux 的应用，他可让你添加�
 ### 身份验证器的特点
 
 
-![authenticator 自动锁定](/Asserts/Images//attachment/album/202212/03/151420h8emjb2z8bt8e2j3.png)
+![authenticator 自动锁定](/Asserts/Images/album/202212/03/151420h8emjb2z8bt8e2j3.png)
 
 
 你获得的一些基本功能包括：
@@ -54,7 +54,7 @@ Authenticator 就是这样一款适用于 Linux 的应用，他可让你添加�
 你可以设置自定义选项，并能够根据服务提供的支持添加自定义的提供者。可以为提供者添加自定义图标，以帮助你区分身份验证代码。
 
 
-![authenticator 自定义提供程序](/Asserts/Images//attachment/album/202212/03/151421mfe98beiqb8yxebe.png)
+![authenticator 自定义提供程序](/Asserts/Images/album/202212/03/151421mfe98beiqb8yxebe.png)
 
 
 在大多数情况下，默认设置应该适用于网站。但是，如果它不起作用，你可能需要与提供者核实确切的详细信息。
@@ -66,7 +66,7 @@ Authenticator 就是这样一款适用于 Linux 的应用，他可让你添加�
 ### 在 Linux 上安装 Authenticator
 
 
-![authenticator 添加新代码](/Asserts/Images//attachment/album/202212/03/151421lyrbd1y4hdkvv4oo.png)
+![authenticator 添加新代码](/Asserts/Images/album/202212/03/151421lyrbd1y4hdkvv4oo.png)
 
 
 Authenticator 以 Flatpak 的形式提供。因此，你可以将它安装在任何 Linux 发行版上。

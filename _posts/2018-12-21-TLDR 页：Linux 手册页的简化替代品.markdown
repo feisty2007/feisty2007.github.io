@@ -7,7 +7,7 @@ tags:	[linuxcn,TLDR,man]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/17/182300hb6i6gkkc4n44ngm.jpg)
+![](/Asserts/Images/album/201812/17/182300hb6i6gkkc4n44ngm.jpg)
 
 
 在终端上使用各种命令执行重要任务是 Linux 桌面体验中不可或缺的一部分。Linux 这个开源操作系统拥有[丰富的命令](https://fossbytes.com/a-z-list-linux-command-line-reference/)，任何用户都无法全部记住所有这些命令。而使事情变得更复杂的是，每个命令都有自己的一组带来丰富的功能的选项。
@@ -25,19 +25,19 @@ TLDR 页的 GitHub 仓库将其描述为简化的、社区驱动的手册页集�
 如果你想比较一下，让我们以 `tar` 命令为例。 通常，手册页的篇幅会超过 1000 行。`tar` 是一个归档实用程序，经常与 `bzip` 或 `gzip` 等压缩方法结合使用。看一下它的手册页：
 
 
-[![tar man page](/Asserts/Images//attachment/album/201812/17/182301yb4vvlotbn2aa21v.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tar-man-page.jpg)
+[![tar man page](/Asserts/Images/album/201812/17/182301yb4vvlotbn2aa21v.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tar-man-page.jpg)
 
 
 而另一方面，TLDR 页面让你只是浏览一下命令，看看它是如何工作的。 `tar` 的 TLDR 页面看起来像这样，并带有一些方便的例子 —— 你可以使用此实用程序完成的最常见任务：
 
 
-[![tar tldr page](/Asserts/Images//attachment/album/201812/17/182302bec0dzlsm68vw8pc.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tar-tldr-page.jpg)
+[![tar tldr page](/Asserts/Images/album/201812/17/182302bec0dzlsm68vw8pc.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tar-tldr-page.jpg)
 
 
 让我们再举一个例子，向你展示 TLDR 页面为 `apt` 提供的内容：
 
 
-[![tldr-page-of-apt](/Asserts/Images//attachment/album/201812/17/182304amrk3y3nkkkkymr7.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tldr-page-of-apt.jpg)
+[![tldr-page-of-apt](/Asserts/Images/album/201812/17/182304amrk3y3nkkkkymr7.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tldr-page-of-apt.jpg)
 
 
 如上，它向你展示了 TLDR 如何工作并使你的生活更轻松，下面让我们告诉你如何在基于 Linux 的操作系统上安装它。
@@ -82,7 +82,7 @@ tldr  --update
 tldr  <commandname> 
 ```
 
-[![tldr kill command](/Asserts/Images//attachment/album/201812/17/182305nfggnzde556wggn1.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tldr-kill-command.jpg)
+[![tldr kill command](/Asserts/Images/album/201812/17/182305nfggnzde556wggn1.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tldr-kill-command.jpg)
 
 
 你还可以运行其[帮助命令](https://github.com/tldr-pages/tldr-node-client)，以查看可与 TLDR 一起使用的各种参数，以获取所需输出。 像往常一样，这个帮助页面也附有例子。
@@ -100,7 +100,7 @@ tldr  <commandname>
 或者，你也可以下载 [iOS](https://itunes.apple.com/us/app/tldt-pages/id1071725095?ls=1&mt=8) 和 [Android](https://play.google.com/store/apps/details?id=io.github.hidroh.tldroid) 应用程序，并随时随地学习新命令。
 
 
-[![tldr app ios](/Asserts/Images//attachment/album/201812/17/182306qvccc9dba292429a.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tldr-app-ios.jpg)
+[![tldr app ios](/Asserts/Images/album/201812/17/182306qvccc9dba292429a.jpg)](https://fossbytes.com/wp-content/uploads/2017/11/tldr-app-ios.jpg)
 
 
 你觉得这个很酷的 Linux 终端技巧很有意思吗？ 请尝试一下，让我们知道您的反馈。

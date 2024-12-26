@@ -7,7 +7,7 @@ tags:	[linuxcn,Flarum,Discourse,论坛]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/04/105900pub1u91b9wdpjuzy.png)
+![](/Asserts/Images/album/202309/04/105900pub1u91b9wdpjuzy.png)
 
 
 
@@ -33,7 +33,7 @@ Flarum 还**具有很高的可扩展性** ，允许进行大量的自定义。
 ### Flarum 概述⭐
 
 
-![](/Asserts/Images//attachment/album/202309/04/105900q3wr4xhp4h3zccxx.png)
+![](/Asserts/Images/album/202309/04/105900q3wr4xhp4h3zccxx.png)
 
 
 Flarum 是**现已中止运营的** [esoTalk](https://github.com/esotalk/esoTalk) 和 [FluxBB](https://github.com/fluxbb/fluxbb) 论坛软件套件的继任者。它以优化和快捷的性能为考量，提供了一整套良好的功能。
@@ -74,7 +74,7 @@ Flarum 主要使用 PHP 编程语言开发。它**由志愿者进行维护和管
 **顶部菜单**具有通常的**搜索栏**，还有**查看草稿**、**通知**、**带有用户名/头像的菜单**以及一些**重要设定**的选项。
 
 
-![](/Asserts/Images//attachment/album/202309/04/105901xvugpuzyu5pt9udt.png)
+![](/Asserts/Images/album/202309/04/105901xvugpuzyu5pt9udt.png)
 
 
 首页还包括一个**侧边栏菜单**，用户可以通过这个开始新的讨论、访问标签，或者查看私有讨论。
@@ -86,31 +86,31 @@ Flarum 主要使用 PHP 编程语言开发。它**由志愿者进行维护和管
 这里有一个让我熟悉的时间线滚动条，我可以用它跳转到帖子中的不同回复。
 
 
-![这是一个多么可爱的小袋鼠！](/Asserts/Images//attachment/album/202309/04/105901nazl3a2zllppsa98.png)
+![这是一个多么可爱的小袋鼠！](/Asserts/Images/album/202309/04/105901nazl3a2zllppsa98.png)
 
 
 然后有一个 “<ruby> 关注 <rt>  Follow </rt></ruby>” 按钮，允许使用者选择**三种独特的设置**。其中一项是默认设置（没有任何通知），另一个是获得帖子通知，最后一个则是忽略某个帖子。
 
 
-![](/Asserts/Images//attachment/album/202309/04/105902a6thbx6jnovyz1h1.png)
+![](/Asserts/Images/album/202309/04/105902a6thbx6jnovyz1h1.png)
 
 
 此后，我关注到用户如何**互动回应某个帖子**，它提供了三种方式，即“<ruby> 回复 <rt>  Reply </rt></ruby>”该帖子，“<ruby> 喜欢 <rt>  Like </rt></ruby>”它或者“<ruby> 标记 <rt>  Flag </rt></ruby>”它并让版主审阅。
 
 
-![](/Asserts/Images//attachment/album/202309/04/105903xtgtmqiztolfyeqc.png)
+![](/Asserts/Images/album/202309/04/105903xtgtmqiztolfyeqc.png)
 
 
 **回帖体验**也很好，编辑器上方会显示实时预览。它还提供了保存回复至草稿、最小化编辑器、全屏编辑以及关闭编辑器等选项。
 
 
-![](/Asserts/Images//attachment/album/202309/04/105903ylt8htsy3tfpyhs9.png)
+![](/Asserts/Images/album/202309/04/105903ylt8htsy3tfpyhs9.png)
 
 
 最后，我查看了**用户设置**，它完整地包括了通常的设置，并对通知提供了精细的控制。它还展示了与我的 Flarum 账户关联的第三方账户。
 
 
-![](/Asserts/Images//attachment/album/202309/04/105903hvz28jpqtzsof33e.png)
+![](/Asserts/Images/album/202309/04/105903hvz28jpqtzsof33e.png)
 
 
 总的来说，Flarum 与广受欢迎的 Discourse 提供了相似的舒适体验，它具有**有益的特性差异，且其技术栈易于安装和管理。**

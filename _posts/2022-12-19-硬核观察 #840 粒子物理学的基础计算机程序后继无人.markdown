@@ -7,10 +7,10 @@ tags:	[linuxcn,粒子物理学,KDE,xrOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/04/162036hzrwx0wpkb0fiktb.jpg)
+![](/Asserts/Images/album/202212/04/162036hzrwx0wpkb0fiktb.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/04/162045j8swtsvt7s8vevmq.jpg)
+![](/Asserts/Images/album/202212/04/162045j8swtsvt7s8vevmq.jpg)
 
 
 ### 粒子物理学的基础计算机程序后继无人
@@ -35,7 +35,7 @@ tags:	[linuxcn,粒子物理学,KDE,xrOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/04/162059qkvnoo7oqaa9ho3t.jpg)
+![](/Asserts/Images/album/202212/04/162059qkvnoo7oqaa9ho3t.jpg)
 
 
 ### KDE 正在开发一个平铺窗口管理器
@@ -60,7 +60,7 @@ KDE Plasma 桌面的窗口管理器 KWin 增加了一个内置的高级平铺系
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/04/162115y6ndknpdjcrbz51s.jpg)
+![](/Asserts/Images/album/202212/04/162115y6ndknpdjcrbz51s.jpg)
 
 
 ### 苹果的 AR/VR 头显操作系统命名为 “xrOS”

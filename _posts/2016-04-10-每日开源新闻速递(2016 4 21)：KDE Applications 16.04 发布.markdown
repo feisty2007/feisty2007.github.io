@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE,Java,MySQL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201604/21/055602iq9zrpezhp0pplqz.jpg)
+![](/Asserts/Images/album/201604/21/055602iq9zrpezhp0pplqz.jpg)
 
 
 * KDE Applications 16.04 [发布](https://www.kde.org/announcements/announce-applications-16.04.0.php)，这是一个主要版本，包含了 KDE Plasma 5 桌面环境中的所有重要应用和功能。其上一个版本是 15.12。这次增加了一个新的应用 Minuet，这是一个音乐教育软件。此外，帮助中心 KHelpCenter、非线编软件 Kdenlive、联系人管理 Kontact 以及很多软件都得到了大量更新。

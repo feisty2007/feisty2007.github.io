@@ -7,7 +7,7 @@ tags:	[linuxcn,Clementine,音乐,播放器,多平台,Amarok]
 ---
 
 
- ![](/Asserts/Images//attachment/album/201310/23/204640pv6vrpmg6devg6de.png)
+ ![](/Asserts/Images/album/201310/23/204640pv6vrpmg6devg6de.png)
 
 
 **Clementine 1.2 是一款多平台音乐播放器，它的创作灵感来源于Amarok 1.4，其主要特点是它能快速搜索和播放音乐，而且其界面易用，这次新发布它带来了一些非常有趣的新特性。**

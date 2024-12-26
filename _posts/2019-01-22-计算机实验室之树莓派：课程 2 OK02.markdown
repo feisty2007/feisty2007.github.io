@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/26/120026xuuxhsb00kqsubkk.jpg)
+![](/Asserts/Images/album/201901/26/120026xuuxhsb00kqsubkk.jpg)
 
 
 OK02 课程构建于 OK01 课程的基础上，通过不停地打开和关闭 OK 或 ACT LED 指示灯来实现闪烁。假设你已经有了 [课程 1：OK01](/article-10458-1.html) 操作系统的代码，它将是这一节课的基础。

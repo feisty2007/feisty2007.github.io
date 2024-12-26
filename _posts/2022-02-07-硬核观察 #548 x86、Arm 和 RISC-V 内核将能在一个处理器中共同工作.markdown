@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,NPM,CPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/15/101528nu5awwxddv6dcr6t.jpg)
+![](/Asserts/Images/album/202202/15/101528nu5awwxddv6dcr6t.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/15/101536qvrnyln9zuqufm77.jpg)
+![](/Asserts/Images/album/202202/15/101536qvrnyln9zuqufm77.jpg)
 
 
 ### x86、Arm 和 RISC-V 内核将能在一个处理器中共同工作
@@ -27,7 +27,7 @@ tags:	[linuxcn,Rust,NPM,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/15/101549xjkildmxch1bbl1m.jpg)
+![](/Asserts/Images/album/202202/15/101549xjkildmxch1bbl1m.jpg)
 
 
 ### 数以千计的 NPM 账户使用过期域名的电子邮件地址
@@ -44,7 +44,7 @@ NPM 是 JavaScript 库的事实存储库，也是互联网上最大的包存储�
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/15/101609qquo8ewvjwq52888.jpg)
+![](/Asserts/Images/album/202202/15/101609qquo8ewvjwq52888.jpg)
 
 
 ### 开发者已经可用 Rust 为 Linux 开发抽象子系统和驱动了

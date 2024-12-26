@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,微软,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/09/165723z4iu5f51f1t5i5il.jpg)
+![](/Asserts/Images/album/202211/09/165723z4iu5f51f1t5i5il.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/09/165748mxqez4armrddcrcj.jpg)
+![](/Asserts/Images/album/202211/09/165748mxqez4armrddcrcj.jpg)
 
 
 ### 微软为 Linux 内核提供了套娃支持
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,微软,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/09/165922htz9k1okdkgpzzxt.jpg)
+![](/Asserts/Images/album/202211/09/165922htz9k1okdkgpzzxt.jpg)
 
 
 ### 能打败顶尖的围棋 AI 却会输给业余选手
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,微软,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/09/165938ni48pzgbcn4rs3n6.jpg)
+![](/Asserts/Images/album/202211/09/165938ni48pzgbcn4rs3n6.jpg)
 
 
 ### Linux 内核中出现一个丑陋的“黑科技”

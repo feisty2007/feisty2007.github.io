@@ -46,7 +46,7 @@ docker安装包在Ubuntu的仓库里面是可用的，所以我们将会使用ap
 
 ```
 
-![Installing Docker](/Asserts/Images//attachment/album/201506/05/221558fhw6fzyv7pqc0zp0.png)
+![Installing Docker](/Asserts/Images/album/201506/05/221558fhw6fzyv7pqc0zp0.png)
 
 
 ### 2. 设定交换内存
@@ -142,7 +142,7 @@ docker安装包在Ubuntu的仓库里面是可用的，所以我们将会使用ap
 
 ```
 
-![Cloning Discourse Docker](/Asserts/Images//attachment/album/201506/05/221559f0kmu5005afjwfta.png)
+![Cloning Discourse Docker](/Asserts/Images/album/201506/05/221559f0kmu5005afjwfta.png)
 
 
 ### 4. 配置Discourse
@@ -187,7 +187,7 @@ DISCOURSE_SMTP_PASSWORD: test123 # (可选)
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/05/221600xjvjcc3e4c2e882m.png)
+![](/Asserts/Images/album/201506/05/221600xjvjcc3e4c2e882m.png)
 
 
 如果你在使用一个1GB的Discourse，设定UNICORN*WORKERS为2，db*shared\_buffers为128MB，这样你会有更多的内存空间。
@@ -208,7 +208,7 @@ DISCOURSE_SMTP_PASSWORD: test123 # (可选)
 
 ```
 
-![Starting Discourse Bootstrap](/Asserts/Images//attachment/album/201506/05/221602dfowaawk37lmad7o.png)
+![Starting Discourse Bootstrap](/Asserts/Images/album/201506/05/221602dfowaawk37lmad7o.png)
 
 
 上述命令可能会花去几分钟时间，会自动配置我们的Discourse环境。然后，该进程完成后，我们需要运行下面的命令启动Discourse App
@@ -220,13 +220,13 @@ DISCOURSE_SMTP_PASSWORD: test123 # (可选)
 
 ```
 
-![Starting Discourse](/Asserts/Images//attachment/album/201506/05/221603wo6lgi77ikobouen.png)
+![Starting Discourse](/Asserts/Images/album/201506/05/221603wo6lgi77ikobouen.png)
 
 
 如果一切都正常，我们就能使用惯用的浏览器来访问我们新鲜出炉的 Discourse 的 Web 界面了： http://ip-address/ 或 http://discourse.linoxide.com/ 。然后，我们就可以创建一个新账号并成为管理员。
 
 
-![](/Asserts/Images//attachment/album/201506/05/221604onvrvz77urzujrvq.png)
+![](/Asserts/Images/album/201506/05/221604onvrvz77urzujrvq.png)
 
 
 ### 维护

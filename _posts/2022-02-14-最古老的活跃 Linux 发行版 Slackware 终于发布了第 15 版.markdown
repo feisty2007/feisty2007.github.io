@@ -15,7 +15,7 @@ tags:	[linuxcn,Slackware]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/05/131749nfvjvppj4jgre1er.png)
+![](/Asserts/Images/album/202202/05/131749nfvjvppj4jgre1er.png)
 
 
 欢呼吧！Linux 粉丝们会很高兴地知道，传奇发行版 Slackware 在很久之后发布了一个新版本。或许你不知道，Slackware 上一个版本的发布要追溯到 2016 年。
@@ -33,7 +33,7 @@ tags:	[linuxcn,Slackware]
 ### Slackware 15.0 的新内容
 
 
-![](/Asserts/Images//attachment/album/202202/05/131751oo5x3g88x8zwtoog.png)
+![](/Asserts/Images/album/202202/05/131751oo5x3g88x8zwtoog.png)
 
 
 如前所述，Slackware 15.0 有许多变化。不要忘了，在最终发布之前，它可是发布了一个测试版和两个候选发布版（RC）。
@@ -51,7 +51,7 @@ tags:	[linuxcn,Slackware]
 Slackware 15 的主要亮点是增加了最新的 [Linux 内核 5.15 LTS](https://news.itsfoss.com/linux-kernel-5-15-release/)。这与我们在测试版中注意到的 Linux 内核 5.10 LTS 相比，有了很大的飞跃。
 
 
-![](/Asserts/Images//attachment/album/202202/05/131752xt8qp30rdbdp5dnb.png)
+![](/Asserts/Images/album/202202/05/131752xt8qp30rdbdp5dnb.png)
 
 
 值得注意的是，Slackware 团队在确定使用 Linux 内核 5.15.19 之前测试了数百个 Linux 内核版本。在发布说明中提到：
@@ -118,7 +118,7 @@ Linux 内核提供了两种版本，一种是带驱动的，不需要 initrd；�
 #### 其他改进
 
 
-![](/Asserts/Images//attachment/album/202202/05/131753flcywzk5nnch0z5d.png)
+![](/Asserts/Images/album/202202/05/131753flcywzk5nnch0z5d.png)
 
 
 一些技术上的升级包括 GCC 编译器升级到 11.2.0 版本。相当多的安全和错误也得到了解决。

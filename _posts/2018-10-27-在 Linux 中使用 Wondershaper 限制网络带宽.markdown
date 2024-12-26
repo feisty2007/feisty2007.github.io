@@ -7,7 +7,7 @@ tags:	[linuxcn,带宽]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/05/185315vm8rm7a30hrftruu.jpg)
+![](/Asserts/Images/album/201810/05/185315vm8rm7a30hrftruu.jpg)
 
 
 以下内容将向你介绍如何轻松对网络带宽做出限制，并在类 Unix 操作系统中对网络流量进行优化。通过限制网络带宽，可以节省应用程序不必要的带宽消耗，包括软件包管理器（pacman、yum、apt）、web 浏览器、torrent 客户端、下载管理器等，并防止单个或多个用户滥用网络带宽。在本文当中，将会介绍 Wondershaper 这一个实用的命令行程序，这是我认为限制 Linux 系统 Internet 或本地网络带宽的最简单、最快捷的方式之一。
@@ -179,13 +179,13 @@ USPEED="512"
 Wondershaper 使用前：
 
 
-![](/Asserts/Images//attachment/album/201810/05/185316hefqhxe6x2bt6t9b.png)
+![](/Asserts/Images/album/201810/05/185316hefqhxe6x2bt6t9b.png)
 
 
 Wondershaper 使用后：
 
 
-![](/Asserts/Images//attachment/album/201810/05/185316wywvov99pvwl0ow9.png)
+![](/Asserts/Images/album/201810/05/185316wywvov99pvwl0ow9.png)
 
 
 可以看到，使用 Wondershaper 限制网络带宽之后，下行速率与限制之前相比已经大幅下降。

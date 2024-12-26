@@ -7,7 +7,7 @@ tags:	[linuxcn,笔记软件,Papyrus]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/27/103532ftwifdiyuvnefhwu.jpg)
+![](/Asserts/Images/album/201504/27/103532ftwifdiyuvnefhwu.jpg)
 
 
 在上一篇帖子中，我们介绍了[待办事项管理软件Go For It!](http://linux.cn/article-5337-1.html)。今天我们将介绍一款名为**Papyrus的开源笔记软件**
@@ -49,16 +49,16 @@ Papyrus 为 Android 用户提供了 APK 安装包。Ｗindows 和 OS X 也有安
 以下是此软件的一些截图:
 
 
-![](/Asserts/Images//attachment/album/201504/27/103532kb0o2pr30m3b0ih0.jpg)
+![](/Asserts/Images/album/201504/27/103532kb0o2pr30m3b0ih0.jpg)
 
 
-![](/Asserts/Images//attachment/album/201504/27/103533n4r3wph3n2rrqmp2.jpg)
+![](/Asserts/Images/album/201504/27/103533n4r3wph3n2rrqmp2.jpg)
 
 
-![](/Asserts/Images//attachment/album/201504/27/103533rr77lrhh5kmiizrr.jpg)
+![](/Asserts/Images/album/201504/27/103533rr77lrhh5kmiizrr.jpg)
 
 
-![](/Asserts/Images//attachment/album/201504/27/103534b2gup9lnc99aoiwn.jpg)
+![](/Asserts/Images/album/201504/27/103534b2gup9lnc99aoiwn.jpg)
 
 
 试试Papyrus吧，你会喜欢上它的。在下方评论区和我们分享你的使用经验吧。

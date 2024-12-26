@@ -7,7 +7,7 @@ tags:	[linuxcn,编程语言,内核,DDoS,PHP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/08/111850w077i6e9797600r9.jpg)
+![](/Asserts/Images/album/202006/08/111850w077i6e9797600r9.jpg)
 
 
 #### Fanx 语言 3.2 发布，全面支持中文编程

@@ -7,7 +7,7 @@ tags:	[linuxcn,监控]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/18/105829gzviausw5wg7wwxb.jpg)
+![](/Asserts/Images/album/202207/18/105829gzviausw5wg7wwxb.jpg)
 
 
 你好! 我最近又开始运行一些服务器（[nginx playground](https://nginx-playground.wizardzines.com)、[mess with dns](https://messwithdns.net)、[dns lookup](https://dns-lookup.jvns.ca)），所以我一直在考虑监控问题。

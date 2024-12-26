@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/02/215843ybbbu9wemwrzazwm.png)
+![](/Asserts/Images/album/201809/02/215843ybbbu9wemwrzazwm.png)
 
 
 如果你正在阅读本文，那么你已经意识到了 Python 3.7 以及它所包含的新特性。就我个人而言，我对 `Dataclasses` 感到非常兴奋，因为我等了它一段时间了。
@@ -42,7 +42,7 @@ tags:	[linuxcn,Python]
 但在我们开始之前，先来谈谈 `Dataclasses` 的用法。
 
 
-Python 3.7 提供了一个装饰器 [dataclass](https://docs.python.org/3.7/library/Asserts/Images/classes.html#dataclasses.dataclass)，用于将类转换为 `dataclass`。
+Python 3.7 提供了一个装饰器 [dataclass](https://docs.python.org/3.7/library/dataclasses.html#dataclasses.dataclass)，用于将类转换为 `dataclass`。
 
 
 你所要做的就是将类包在装饰器中：
@@ -192,7 +192,7 @@ class Number:
 * `a <= b`
 
 
-在 Python 中，能够在可以执行上述操作的类中定义[方法](https://docs.python.org/3/reference/Asserts/Images/model.html#object.__lt__)。为了简单起见，不让这篇文章过于冗长，我将只展示 `==` 和 `<` 的实现。
+在 Python 中，能够在可以执行上述操作的类中定义[方法](https://docs.python.org/3/reference/datamodel.html#object.__lt__)。为了简单起见，不让这篇文章过于冗长，我将只展示 `==` 和 `<` 的实现。
 
 
 通常这样写：
@@ -311,7 +311,7 @@ def __le__(self, other):
 幸运的是，这可以通过将 `dataclass` 装饰器作为可调用对象来实现。
 
 
-从官方[文档](https://docs.python.org/3/library/Asserts/Images/classes.html#dataclasses.dataclass)来看，装饰器可以用作具有如下参数的可调用对象：
+从官方[文档](https://docs.python.org/3/library/dataclasses.html#dataclasses.dataclass)来看，装饰器可以用作具有如下参数的可调用对象：
 
 
 
@@ -466,7 +466,7 @@ class Float:
 >>> 2.0
 ```
 
-幸运的是，使用 [**post\_init**](https://docs.python.org/3/library/Asserts/Images/classes.html#post-init-processing) 方法已经能够处理后期初始化操作。
+幸运的是，使用 [**post\_init**](https://docs.python.org/3/library/dataclasses.html#post-init-processing) 方法已经能够处理后期初始化操作。
 
 
 生成的 `__init__` 方法在返回之前调用 `__post_init__` 返回。因此，可以在函数中进行任何处理。
@@ -597,7 +597,7 @@ class B(A):
 我试着彻底覆盖大部分的用例，但是，没有人是完美的。如果你发现了错误，或者想让我注意相关的用例，请联系我。
 
 
-我将在另一篇文章中介绍 [dataclasses.field](https://docs.python.org/3/library/Asserts/Images/classes.html#dataclasses.field) 和 `unsafe_hash`。
+我将在另一篇文章中介绍 [dataclasses.field](https://docs.python.org/3/library/dataclasses.html#dataclasses.field) 和 `unsafe_hash`。
 
 
 在 [Github](http://github.com/xssChauhan/) 和 [Twitter](https://twitter.com/xssChauhan) 关注我。

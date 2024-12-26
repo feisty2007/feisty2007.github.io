@@ -7,7 +7,7 @@ tags:	[linuxcn,Intel,显卡]
 ---
 
 
-![Intel graphics installer](/Asserts/Images//attachment/album/201511/30/003240nf6xgamxwd2xk3am.jpg)
+![Intel graphics installer](/Asserts/Images/album/201511/30/003240nf6xgamxwd2xk3am.jpg)
 
 
 Intel 最近发布了一个新版本的 Linux Graphics 安装器。在新版本中，将不支持 Ubuntu 15.04，而必须用 Ubuntu 15.10 Wily。
@@ -21,7 +21,7 @@ Intel 最近发布了一个新版本的 Linux Graphics 安装器。在新版本�
 > 
 
 
-![intel-graphics-installer](/Asserts/Images//attachment/album/201511/30/003241fyk5kc3e2czv7vcq.jpg)
+![intel-graphics-installer](/Asserts/Images/album/201511/30/003241fyk5kc3e2czv7vcq.jpg)
 
 
 ### 安装
@@ -30,13 +30,13 @@ Intel 最近发布了一个新版本的 Linux Graphics 安装器。在新版本�
 **1.** 从[这个链接页面](https://01.org/linuxgraphics/downloads)中下载该安装器。当前支持 Ubuntu 15.10 的版本是1.2.1版。你可以在**系统设置 -> 详细信息**中检查你的操作系统（32位或64位）的类型。
 
 
-![download-intel-graphics-installer](/Asserts/Images//attachment/album/201511/30/003242arvzzhivr9ih4dbd.jpg)
+![download-intel-graphics-installer](/Asserts/Images/album/201511/30/003242arvzzhivr9ih4dbd.jpg)
 
 
 **2.** 一旦下载完成，到下载目录中点击 .deb 安装包，用 Ubuntu 软件中心打开它，然最后点击“安装”按钮。
 
 
-![install-via-software-center](/Asserts/Images//attachment/album/201511/30/003242o7g51cdks0p9h375.jpg)
+![install-via-software-center](/Asserts/Images/album/201511/30/003242o7g51cdks0p9h375.jpg)
 
 
 **3.** 为了让系统信任 Intel Graphics 安装器，你需要通过下面的命令来为它添加密钥。
@@ -53,7 +53,7 @@ wget --no-check-certificate https://download.01.org/gfx/RPM-GPG-KEY-ilg-2 -O - |
 
 ```
 
-![trust-intel](/Asserts/Images//attachment/album/201511/30/003243sjana404j0pyzwh4.jpg)
+![trust-intel](/Asserts/Images/album/201511/30/003243sjana404j0pyzwh4.jpg)
 
 
 注意：在运行第一个命令的过程中，如果密钥下载完成后，光标停住不动并且一直闪烁的话，就像上面图片显示的那样，输入你的密码（输入时不会看到什么有变化）然后回车就行了。

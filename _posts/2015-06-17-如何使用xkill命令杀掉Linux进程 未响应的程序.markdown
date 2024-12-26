@@ -93,7 +93,7 @@ $ xkill
 
 ```
 
-![Xkill Command](/Asserts/Images//attachment/album/201506/11/004218f2ybssyrrr0rz4sm.png)
+![Xkill Command](/Asserts/Images/album/201506/11/004218f2ybssyrrr0rz4sm.png)
 
 
 *使用xkill杀掉进程*
@@ -122,13 +122,13 @@ $ xkill
 进入设置-> 选择键盘。点击'+'并添加一个名字和命令。点击点击新条目并按下你想要的组合键。我的是Ctrl+Alt+Shift+x。
 
 
-![Gnome Settings](/Asserts/Images//attachment/album/201506/11/004218ktt62fmz2op26p25.png)
+![Gnome Settings](/Asserts/Images/album/201506/11/004218ktt62fmz2op26p25.png)
 
 
 *Gnome 设置*
 
 
-![Add Shortcut Key](/Asserts/Images//attachment/album/201506/11/004219j9w93ia6sg6hwj8s.png)
+![Add Shortcut Key](/Asserts/Images/album/201506/11/004219j9w93ia6sg6hwj8s.png)
 
 
 *添加快捷键*

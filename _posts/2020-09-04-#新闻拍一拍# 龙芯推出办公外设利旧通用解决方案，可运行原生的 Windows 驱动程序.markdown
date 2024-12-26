@@ -7,7 +7,7 @@ tags:	[linuxcn,龙芯,Firefox,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/15/100029w1io4bb4khonzmqz.jpg)
+![](/Asserts/Images/album/202009/15/100029w1io4bb4khonzmqz.jpg)
 
 
 #### 龙芯推出办公外设利旧通用解决方案，可运行原生的 Windows 驱动程序

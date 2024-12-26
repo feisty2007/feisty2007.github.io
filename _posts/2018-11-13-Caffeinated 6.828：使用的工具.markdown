@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/15/093141rznmgo1nmnszsc1i.jpg)
+![](/Asserts/Images/album/201811/15/093141rznmgo1nmnszsc1i.jpg)
 
 
 在这个课程中你将使用两套工具：一个是 x86 模拟器 QEMU，它用来运行你的内核；另一个是编译器工具链，包括汇编器、链接器、C 编译器，以及调试器，它们用来编译和测试你的内核。本文有你需要去下载和安装你自己的副本相关信息。本课程假定你熟悉所有出现的 Unix 命令的用法。

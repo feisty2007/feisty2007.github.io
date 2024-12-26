@@ -7,7 +7,7 @@ tags:	[linuxcn,Nitrux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/06/081425nts5iit1kdibds5s.png)
+![](/Asserts/Images/album/202309/06/081425nts5iit1kdibds5s.png)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,Nitrux]
 ### ? Nitrux 3.0：有何新亮点？
 
 
-![](/Asserts/Images//attachment/album/202309/06/081427s868n6nan6k2b02n.png)
+![](/Asserts/Images/album/202309/06/081427s868n6nan6k2b02n.png)
 
 
 Nitrux 3.0 基于 **Linux 内核 6.4.12-2-liquorix**，这是一个旨在提升系统响应速度的 Linux 内核，Nitrux 3.0 专注于 **提升性能**、**硬件兼容性**以及 **核心应用的更新**。
@@ -47,7 +47,7 @@ Nitrux 3.0 基于 **Linux 内核 6.4.12-2-liquorix**，这是一个旨在提升�
 ### MauiKit 的更新
 
 
-![MauiKit 应用的图像（仅供参考）](/Asserts/Images//attachment/album/202309/06/081428ed6ddcdpnnvnvqiz.jpg)
+![MauiKit 应用的图像（仅供参考）](/Asserts/Images/album/202309/06/081428ed6ddcdpnnvnvqiz.jpg)
 
 
 Nitrux 3.0 版本中包括了最近发布有许多性能提升，以及为 Qt6 迁移打基础的 **MauiKit 和 Maui 框架 3.0.1**。
@@ -88,7 +88,7 @@ Nitrux 3.0 版本中包括了最近发布有许多性能提升，以及为 Qt6 �
 ### 桌面环境升级
 
 
-![](/Asserts/Images//attachment/album/202309/06/081428fjen62jnkn46j2jk.png)
+![](/Asserts/Images/album/202309/06/081428fjen62jnkn46j2jk.png)
 
 
 在桌面环境方面，Nitrux 3.0 集成了 [KDE Plasma 5.27.7](https://news.itsfoss.com/kde-plasma-5-27-release/) 并进行了一些优化。

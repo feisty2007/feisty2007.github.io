@@ -27,7 +27,7 @@ VLC 可能是 Linux 或者其他平台下最好的视频播放器。我已经使
 它的图形界面只有必须的元素而且非常整洁。
 
 
-![MPV 播放器在 Linux 下的界面](/Asserts/Images//attachment/album/201809/05/114708iojoj1l172i1xfrl.jpg)
+![MPV 播放器在 Linux 下的界面](/Asserts/Images/album/201809/05/114708iojoj1l172i1xfrl.jpg)
 
 
 ### MPV 的功能
@@ -73,7 +73,7 @@ sudo apt install mpv
 在安装完成以后，你可以通过鼠标右键点击视频文件，然后在列表里选择 MPV 来播放。
 
 
-![MPV 播放器界面](/Asserts/Images//attachment/album/201809/05/114708v5qt5p8psqh98qiq.png)
+![MPV 播放器界面](/Asserts/Images/album/201809/05/114708v5qt5p8psqh98qiq.png)
 
 
 *MPV 播放器界面*
@@ -111,7 +111,7 @@ MPV 的默认大小取决于你所播放视频的画质。比如一个 240p 的�
 mpv <URL_of_Video>
 ```
 
-![在 Linux 桌面上使用 MPV 播放 YouTube 视频](/Asserts/Images//attachment/album/201809/05/114709izxrl6oojeni71o7.jpg)
+![在 Linux 桌面上使用 MPV 播放 YouTube 视频](/Asserts/Images/album/201809/05/114709izxrl6oojeni71o7.jpg)
 
 
 *在 Linux 桌面上使用 MPV 播放 YouTube 视频*

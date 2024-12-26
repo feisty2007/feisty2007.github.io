@@ -15,7 +15,7 @@ tags:	[linuxcn,AI,深度学习,疟疾]
 > 
 
 
-![](/Asserts/Images//attachment/album/201905/24/020031gvej75e5rmu5qkz5.png)
+![](/Asserts/Images/album/201905/24/020031gvej75e5rmu5qkz5.png)
 
 
 人工智能（AI）和开源工具、技术和框架是促进社会进步的强有力的结合。“健康就是财富”可能有点陈词滥调，但它却是非常准确的！在本篇文章，我们将测试 AI 是如何与低成本、有效、精确的开源深度学习方法结合起来一起用来检测致死的传染病疟疾。
@@ -24,7 +24,7 @@ tags:	[linuxcn,AI,深度学习,疟疾]
 我既不是一个医生，也不是一个医疗保健研究者，我也绝不像他们那样合格，我只是对将 AI 应用到医疗保健研究感兴趣。在这片文章中我的想法是展示 AI 和开源解决方案如何帮助疟疾检测和减少人工劳动的方法。
 
 
-![Python and TensorFlow](/Asserts/Images//attachment/album/201905/24/020032sbtcaoncgn495557.png "Python and TensorFlow")
+![Python and TensorFlow](/Asserts/Images/album/201905/24/020032sbtcaoncgn495557.png "Python and TensorFlow")
 
 
 *Python 和 TensorFlow: 一个构建开源深度学习方法的很棒的结合*
@@ -39,7 +39,7 @@ tags:	[linuxcn,AI,深度学习,疟疾]
 疟疾是由*疟原虫*造成的致死的、有传染性的、蚊子传播的疾病，主要通过受感染的雌性按蚊叮咬传播。共有五种寄生虫能够引起疟疾，但是大多数病例是这两种类型造成的：恶性疟原虫和间日疟原虫。
 
 
-![疟疾热图](/Asserts/Images//attachment/album/201905/24/020032i8it8lf4q2at5wzn.png "Malaria heat map")
+![疟疾热图](/Asserts/Images/album/201905/24/020032i8it8lf4q2at5wzn.png "Malaria heat map")
 
 
 这个地图显示了疟疾在全球传播分布形势，尤其在热带地区，但疾病的性质和致命性是该项目的主要动机。
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,深度学习,疟疾]
 标准的疟疾诊断通常是基于血液涂片工作流程的，根据 Carlos Ariza 的文章“[Malaria Hero：一个更快诊断疟原虫的网络应用](https://blog.insightdatascience.com/https-blog-insightdatascience-com-malaria-hero-a47d3d5fc4bb)”，我从中了解到 Adrian Rosebrock 的“[使用 Keras 的深度学习和医学图像分析](https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/)”。我感激这些优秀的资源的作者，让我在疟原虫预防、诊断和治疗方面有了更多的想法。
 
 
-![疟原虫检测的血涂片工作流程](/Asserts/Images//attachment/album/201905/24/020033dmm6sm1pp6wskwwm.png "Blood smear workflow for Malaria detection")
+![疟原虫检测的血涂片工作流程](/Asserts/Images/album/201905/24/020033dmm6sm1pp6wskwwm.png "Blood smear workflow for Malaria detection")
 
 
 *一个疟原虫检测的血涂片工作流程*
@@ -89,7 +89,7 @@ tags:	[linuxcn,AI,深度学习,疟疾]
 深度学习模型，或者更具体地讲，卷积神经网络（CNN），已经被证明在各种计算机视觉任务中非常有效。（如果你想更多的了解关于 CNN 的背景知识，我推荐你阅读[视觉识别的 CS2331n 卷积神经网络](http://cs231n.github.io/convolutional-networks/)。）简单地讲，CNN 模型的关键层包含卷积和池化层，正如下图所示。
 
 
-![A typical CNN architecture](/Asserts/Images//attachment/album/201905/24/020034xybcrznfbfrnlnbk.png "A typical CNN architecture")
+![A typical CNN architecture](/Asserts/Images/album/201905/24/020034xybcrznfbfrnlnbk.png "A typical CNN architecture")
 
 
 *一个典型的 CNN 架构*
@@ -113,13 +113,13 @@ Rajaraman, et al. 的论文在一个数据集上利用六个预训练模型在�
 让我们简要地查看一下数据集的结构。首先，我将安装一些基础的依赖（基于使用的操作系统）。
 
 
-![Installing dependencies](/Asserts/Images//attachment/album/201905/24/020034txfwzh2g7943l999.png "Installing dependencies")
+![Installing dependencies](/Asserts/Images/album/201905/24/020034txfwzh2g7943l999.png "Installing dependencies")
 
 
 我使用的是云上的带有一个 GPU 的基于 Debian 的操作系统，这样我能更快的运行我的模型。为了查看目录结构，我们必须使用 `sudo apt install tree` 安装 `tree` 及其依赖（如果我们没有安装的话）。
 
 
-![Installing the tree dependency](/Asserts/Images//attachment/album/201905/24/020035atuk6kb6z75xbvkk.png "Installing the tree dependency")
+![Installing the tree dependency](/Asserts/Images/album/201905/24/020035atuk6kb6z75xbvkk.png "Installing the tree dependency")
 
 
 我们有两个文件夹包含血细胞的图像，包括受感染的和健康的。我们通过输入可以获取关于图像总数更多的细节：
@@ -160,7 +160,7 @@ files_df = pd.DataFrame({
 files_df.head()
 ```
 
-![Datasets](/Asserts/Images//attachment/album/201905/24/020035m15h5kk31qq3zq3k.png "Datasets")
+![Datasets](/Asserts/Images/album/201905/24/020035m15h5kk31qq3zq3k.png "Datasets")
 
 
 ### 构建和了解图像数据集
@@ -318,7 +318,7 @@ for i in range(16):
     plt.xticks([]) , plt.yticks([])
 ```
 
-![Malaria cell samples](/Asserts/Images//attachment/album/201905/24/020035vmyssdy5d1p7nadz.png "Malaria cell samples")
+![Malaria cell samples](/Asserts/Images/album/201905/24/020035vmyssdy5d1p7nadz.png "Malaria cell samples")
 
 
 基于这些样本图像，我们看到一些疟疾和健康细胞图像的细微不同。我们将使我们的深度学习模型试图在模型训练中学习这些模式。
@@ -503,7 +503,7 @@ ax2.set_title('Loss')
 l2 = ax2.legend(loc="best")
 ```
 
-![Learning curves for basic CNN](/Asserts/Images//attachment/album/201905/24/020036c2li4aa0drahlh44.png "Learning curves for basic CNN")
+![Learning curves for basic CNN](/Asserts/Images/album/201905/24/020036c2li4aa0drahlh44.png "Learning curves for basic CNN")
 
 
 *基础 CNN 学习曲线*
@@ -523,7 +523,7 @@ model.save('basic_cnn.h5')
 就像人类有与生俱来在不同任务间传输知识的能力一样，迁移学习允许我们利用从以前任务学到的知识用到新的相关的任务，即使在机器学习或深度学习的情况下也是如此。如果想深入探究迁移学习，你应该看我的文章“[一个易于理解与现实应用一起学习深度学习中的迁移学习的指导实践](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)”和我的书《[Python 迁移学习实践](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)》。
 
 
-![深度迁移学习的想法](/Asserts/Images//attachment/album/201905/24/020036i4u47qb3rx4444nq.png "Ideas for deep transfer learning")
+![深度迁移学习的想法](/Asserts/Images/album/201905/24/020036i4u47qb3rx4444nq.png "Ideas for deep transfer learning")
 
 
 在这篇实践中我们想要探索的想法是：
@@ -553,7 +553,7 @@ model.save('basic_cnn.h5')
 VGG-19 模型是一个构建在 ImageNet 数据库之上的 19 层（卷积和全连接的）的深度学习网络，ImageNet 数据库为了图像识别和分类的目的而开发。该模型是由 Karen Simonyan 和 Andrew Zisserman 构建的，在他们的论文“[大规模图像识别的非常深的卷积网络](https://arxiv.org/pdf/1409.1556.pdf)”中进行了描述。VGG-19 的架构模型是：
 
 
-![VGG-19 模型架构](/Asserts/Images//attachment/album/201905/24/020037i9eizi6dia3z2zdj.png "VGG-19 Model Architecture")
+![VGG-19 模型架构](/Asserts/Images/album/201905/24/020037i9eizi6dia3z2zdj.png "VGG-19 Model Architecture")
 
 
 你可以看到我们总共有 16 个使用 3x3 卷积过滤器的卷积层，与最大的池化层来下采样，和由 4096 个单元组成的两个全连接的隐藏层，每个隐藏层之后跟随一个由 1000 个单元组成的致密层，每个单元代表 ImageNet 数据库中的一个分类。我们不需要最后三层，因为我们将使用我们自己的全连接致密层来预测疟疾。我们更关心前五个块，因此我们可以利用 VGG 模型作为一个有效的特征提取器。
@@ -642,10 +642,10 @@ Total Layers: 28
 Total trainable layers: 6
 ```
 
-我们将使用和我们之前的模型相似的配置和回调来训练我们的模型。参考[我的 GitHub 仓库](https://nbviewer.jupyter.org/github/dipanjanS/Asserts/Images/_science_for_all/tree/master/os_malaria_detection/)以获取训练模型的完整代码。我们观察下列图表，以显示模型精确度和损失曲线。
+我们将使用和我们之前的模型相似的配置和回调来训练我们的模型。参考[我的 GitHub 仓库](https://nbviewer.jupyter.org/github/dipanjanS/data_science_for_all/tree/master/os_malaria_detection/)以获取训练模型的完整代码。我们观察下列图表，以显示模型精确度和损失曲线。
 
 
-![Learning curves for frozen pre-trained CNN](/Asserts/Images//attachment/album/201905/24/020038jh4u1ux6lqlqblh3.png "Learning curves for frozen pre-trained CNN")
+![Learning curves for frozen pre-trained CNN](/Asserts/Images/album/201905/24/020038jh4u1ux6lqlqblh3.png "Learning curves for frozen pre-trained CNN")
 
 
 *冻结的预训练的 CNN 的学习曲线*
@@ -696,7 +696,7 @@ print('Labels:', [item[1][0] for item in sample])
 l = [ax[i].imshow(sample[i][0][0]) for i in range(0,5)]
 ```
 
-![Sample augmented images](/Asserts/Images//attachment/album/201905/24/020039y00h0eg6wxfgx6gn.png "Sample augmented images")
+![Sample augmented images](/Asserts/Images/album/201905/24/020039y00h0eg6wxfgx6gn.png "Sample augmented images")
 
 
 你可以清晰的看到与之前的输出的我们图像的轻微变化。我们现在构建我们的学习模型，确保 VGG-19 模型的最后两块是可以训练的。
@@ -775,7 +775,7 @@ Epoch 25/25
 这看起来是我们的最好的模型。它给了我们近乎 96.5% 的验证精确率，基于训练精度，它看起来不像我们的第一个模型那样过拟合。这可以通过下列的学习曲线验证。
 
 
-![Learning curves for fine-tuned pre-trained CNN](/Asserts/Images//attachment/album/201905/24/020039t5t818u85u41pree.png "Learning curves for fine-tuned pre-trained CNN")
+![Learning curves for fine-tuned pre-trained CNN](/Asserts/Images/album/201905/24/020039t5t818u85u41pree.png "Learning curves for fine-tuned pre-trained CNN")
 
 
 *微调过的预训练 CNN 的学习曲线*
@@ -846,7 +846,7 @@ pd.DataFrame([basic_cnn_metrics, vgg_frz_metrics, vgg_ft_metrics],
              index=['Basic CNN', 'VGG-19 Frozen', 'VGG-19 Fine-tuned'])
 ```
 
-![Model accuracy](/Asserts/Images//attachment/album/201905/24/020039pkgzie39gevrdfgy.png "Model accuracy")
+![Model accuracy](/Asserts/Images/album/201905/24/020039pkgzie39gevrdfgy.png "Model accuracy")
 
 
 看起来我们的第三个模型在我们的测试集上执行的最好，给出了一个模型精确性为 96% 的 F1 得分，这非常好，与我们之前提到的研究论文和文章中的更复杂的模型相当。
@@ -858,7 +858,7 @@ pd.DataFrame([basic_cnn_metrics, vgg_frz_metrics, vgg_ft_metrics],
 疟疾检测不是一个简单的过程，全球的合格人员的不足在病例诊断和治疗当中是一个严重的问题。我们研究了一个关于疟疾的有趣的真实世界的医学影像案例。利用 AI 的、易于构建的、开源的技术在检测疟疾方面可以为我们提供最先进的精确性，因此使 AI 具有社会效益。
 
 
-我鼓励你查看这篇文章中提到的文章和研究论文，没有它们，我就不能形成概念并写出来。如果你对运行和采纳这些技术感兴趣，本篇文章所有的代码都可以在[我的 GitHub 仓库](https://nbviewer.jupyter.org/github/dipanjanS/Asserts/Images/_science_for_all/tree/master/os_malaria_detection/)获得。记得从[官方网站](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)下载数据。
+我鼓励你查看这篇文章中提到的文章和研究论文，没有它们，我就不能形成概念并写出来。如果你对运行和采纳这些技术感兴趣，本篇文章所有的代码都可以在[我的 GitHub 仓库](https://nbviewer.jupyter.org/github/dipanjanS/data_science_for_all/tree/master/os_malaria_detection/)获得。记得从[官方网站](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)下载数据。
 
 
 让我们希望在健康医疗方面更多的采纳开源的 AI 能力，使它在世界范围内变得更便宜、更易用。

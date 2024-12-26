@@ -15,13 +15,13 @@ tags:	[linuxcn,NAS]
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/17/231845lcxls9emctcc6mbz.jpg)
+![](/Asserts/Images/album/201810/17/231845lcxls9emctcc6mbz.jpg)
 
 
 在前面两篇文章中，我们讨论了用树莓派搭建一个 NAS 云盘所需要的一些 [软硬件环境及其操作步骤](/article-10104-1.html?utm_source=index&utm_medium=more)。我们还制定了适当的 [备份策略](/article-10112-1.html) 来保护 NAS 上的数据。本文中，我们将介绍讨论利用 [Nestcloud](https://nextcloud.com/) 来方便快捷的存储、获取以及分享你的数据。
 
 
-![](/Asserts/Images//attachment/album/201810/17/231935uowcp6sfh2jezhpz.png)
+![](/Asserts/Images/album/201810/17/231935uowcp6sfh2jezhpz.png)
 
 
 ### 必要的准备工作
@@ -49,13 +49,13 @@ sudo apt install unzip wget php apache2 mysql-server php-zip php-mysql php-dom p
 
 
 ```
-sudo mkdir -p /nas/Asserts/Images//nextcloud
-sudo chown pi /nas/Asserts/Images//nextcloud
-cd /nas/Asserts/Images//
-wget https://download.nextcloud.com/server/releases/nextcloud-14.0.0.zip -O /nas/Asserts/Images//nextcloud.zip
+sudo mkdir -p /nas/data/nextcloud
+sudo chown pi /nas/data/nextcloud
+cd /nas/data/
+wget https://download.nextcloud.com/server/releases/nextcloud-14.0.0.zip -O /nas/data/nextcloud.zip
 unzip nextcloud.zip
-sudo ln -s /nas/Asserts/Images//nextcloud /var/www/nextcloud
-sudo chown -R www-data:www-data /nas/Asserts/Images//nextcloud
+sudo ln -s /nas/data/nextcloud /var/www/nextcloud
+sudo chown -R www-data:www-data /nas/data/nextcloud
 ```
 
 截止到写作本文时，Nextcloud 最新版更新到如上述代码中所示的 14.0.0 版本。Nextcloud 正在快速的迭代更新中，所以你可以在你的树莓派中安装更新一点的版本。

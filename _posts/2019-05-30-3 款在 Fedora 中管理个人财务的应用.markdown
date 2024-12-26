@@ -7,7 +7,7 @@ tags:	[linuxcn,财务]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/26/233631jcwvzmo8covq10i4.jpg)
+![](/Asserts/Images/album/201905/26/233631jcwvzmo8covq10i4.jpg)
 
 
 网上有很多可以用来管理你个人财务的服务。虽然它们可能很方便，但这通常也意味着将你最宝贵的个人数据放在你无法监控的公司。也有些人对这些不太在意。
@@ -22,7 +22,7 @@ tags:	[linuxcn,财务]
 HomeBank 是一款可以管理多个账户的全功能软件。它很容易设置并保持更新。它有多种方式画出你的分类和负债，以便你可以看到资金流向何处。它可以通过官方 Fedora 仓库下载。
 
 
-![A simple account set up in HomeBank with a few transactions.](/Asserts/Images//attachment/album/201905/26/233632v7uf3qqr53f4fu4e.png)
+![A simple account set up in HomeBank with a few transactions.](/Asserts/Images/album/201905/26/233632v7uf3qqr53f4fu4e.png)
 
 
 要安装 HomeBank，请打开“软件中心”，搜索 “HomeBank”，然后选择该应用。单击“安装”将其添加到你的系统中。HomeBank 也可以通过 Flatpak 安装。
@@ -34,7 +34,7 @@ HomeBank 是一款可以管理多个账户的全功能软件。它很容易设�
 KMyMoney 是一个成熟的应用，它已经存在了很长一段时间。它有一系列稳定的功能，可帮助你管理多个帐户，包括资产、负债、税收等。KMyMoney 包含一整套用于管理投资和进行预测的工具。它还提供大量报告，以了解你的资金运作方式。
 
 
-![A subset of the many reports available in KMyMoney.](/Asserts/Images//attachment/album/201905/26/233633fgnzh4fhntnigrts.png)
+![A subset of the many reports available in KMyMoney.](/Asserts/Images/album/201905/26/233633fgnzh4fhntnigrts.png)
 
 
 要安装它，请使用软件中心，或使用命令行：
@@ -51,7 +51,7 @@ $ sudo dnf install kmymoney
 用于个人财务的最受欢迎的免费 GUI 应用之一是 GnuCash。GnuCash 不仅可以用于个人财务。它还有管理企业收入、资产和负债的功能。这并不意味着你不能用它来管理自己的账户。从查看[在线教程和指南](https://www.gnucash.org/viewdoc.phtml?rev=3&lang=C&doc=guide)开始了解。
 
 
-![Checking account records shown in GnuCash.](/Asserts/Images//attachment/album/201905/26/233634ao6mubdkbx9abo8c.png)
+![Checking account records shown in GnuCash.](/Asserts/Images/album/201905/26/233634ao6mubdkbx9abo8c.png)
 
 
 打开“软件中心”，搜索 “GnuCash”，然后选择应用。单击“安装”将其添加到你的系统中。或者如上所述使用 `dnf install` 来安装 “gnucash” 包。

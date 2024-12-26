@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,touch,时间戳]
 我们可能在 Linux 下运用 touch 命令创建一个空文件。当然我们也可以使用其他命令例如 vi, nano 或是任意一个编辑工具来实现。但是你可能需要更多的步骤来完成操作。其实你要知道 touch 命令的主要功能并不是为了创建一个空文件哦。
 
 
- ![](/Asserts/Images//attachment/album/201403/23/085430b7z0qsysl7y4qzee.png)
+ ![](/Asserts/Images/album/201403/23/085430b7z0qsysl7y4qzee.png)
 
 
 ### 什么是 touch 命令
@@ -40,7 +40,7 @@ $ touch file_name
 请观察下面的一张截图。
 
 
-![Touch command](/Asserts/Images//attachment/album/201403/23/085248eich9hu1ytbtba3b.png)
+![Touch command](/Asserts/Images/album/201403/23/085248eich9hu1ytbtba3b.png)
 
 
 **File\_1.txt**原来的时间戳是 12:42。在我们使用 touch 命令后，它改变为了 17:08。由此看出，默认情况下，touch 会将文件的时间戳改为当前时间。
@@ -52,7 +52,7 @@ $ touch file_name
 正如我们之前提到的，每个文件都附有访问时间和修改时间。上面的时间戳是 17:08。我们可以看更多的细节。
 
 
-![Detail timestamp](/Asserts/Images//attachment/album/201403/23/085250gd74q4zn04eeba7d.png)
+![Detail timestamp](/Asserts/Images/album/201403/23/085250gd74q4zn04eeba7d.png)
 
 
 我们发现**访问**时间和**修改**时间的值是相同的都是 17:08:35 ,还有它们属于同一时区 GMT +7。
@@ -67,7 +67,7 @@ $ touch -a file_1.txt
 
 ```
 
-![Touch -a option](/Asserts/Images//attachment/album/201403/23/085251fmsv44v44vsmnm04.png)
+![Touch -a option](/Asserts/Images/album/201403/23/085251fmsv44v44vsmnm04.png)
 
 
 如你所见，**访问时间变为**了 17:51:37 ,但是**修改时间仍为**17:08:35。[译注：原文为 Change time(状态改变时间)应是作者笔误]
@@ -79,7 +79,7 @@ $ touch -a file_1.txt
 我们可以使用**-m**选项来实现。现在我们用**file\_2.txt**作个示例。
 
 
-![File_2.txt detail timestamp](/Asserts/Images//attachment/album/201403/23/085253fcsmbcbqfsqozgnl.png)
+![File_2.txt detail timestamp](/Asserts/Images/album/201403/23/085253fcsmbcbqfsqozgnl.png)
 
 
 
@@ -88,7 +88,7 @@ $ touch -m file_2.txt
 
 ```
 
-![Touch -m option](/Asserts/Images//attachment/album/201403/23/085254h4cg1it77iqttl4n.png)
+![Touch -m option](/Asserts/Images/album/201403/23/085254h4cg1it77iqttl4n.png)
 
 
 现在**修改时间从 12:42:20 改为了 17:57:20。请注意**,当文件被访问或修改时，状态改变时间域的值总会对其记录。
@@ -120,7 +120,7 @@ $ touch -t 201401120958.27 file_2.txt
 
 ```
 
-![Touch using -t option](/Asserts/Images//attachment/album/201403/23/085256nlsnwosaz0yxap1a.png)
+![Touch using -t option](/Asserts/Images/album/201403/23/085256nlsnwosaz0yxap1a.png)
 
 
 **-t** 选项语法组成 :
@@ -153,7 +153,7 @@ SS - 秒 [00-61]
 举例来说，我们有个名为 file\_3.txt 的文件，它的相关属性在下面的截图中展示了。
 
 
-![File_3.txt detail timestamp](/Asserts/Images//attachment/album/201403/23/085257unwxygd3wefzxuby.png)
+![File_3.txt detail timestamp](/Asserts/Images/album/201403/23/085257unwxygd3wefzxuby.png)
 
 
 现在**我们要将日期2014年1月14日改为2013年12月20日**。可以使用下列命令：
@@ -165,7 +165,7 @@ $ touch -d '10-December-2013' file_3.txt
 
 ```
 
-![Change date using -d option](/Asserts/Images//attachment/album/201403/23/085259vgs7swgasfkiwziy.png)
+![Change date using -d option](/Asserts/Images/album/201403/23/085259vgs7swgasfkiwziy.png)
 
 
 不出意料，访问时间和修改时间的日期已经改为了2013年12月10日。
@@ -183,7 +183,7 @@ $ touch file_3.txt
 
 ```
 
-![Reset file_3.txt timestamp](/Asserts/Images//attachment/album/201403/23/085300dcmmpcfmshrf6isr.png)
+![Reset file_3.txt timestamp](/Asserts/Images/album/201403/23/085300dcmmpcfmshrf6isr.png)
 
 
 不难发现 file\_3.txt 的时区为 GMT +0700。要改为 GMT3 时区，我们只需要键入如下命令：
@@ -195,7 +195,7 @@ $ touch -d GMT3 file_3.txt
 
 ```
 
-![Change into GMT3 timezone](/Asserts/Images//attachment/album/201403/23/085302rv8w01f9vmj8wjjj.png)
+![Change into GMT3 timezone](/Asserts/Images/album/201403/23/085302rv8w01f9vmj8wjjj.png)
 
 
 好的，现在时间已经改为了 10:00:00 AM。
@@ -207,7 +207,7 @@ $ touch -d GMT3 file_3.txt
 还可以用很酷的方式使用**-d**选项。请观察下面的图片。
 
 
-![Change date using keyword](/Asserts/Images//attachment/album/201403/23/085303pvm27u6kq02kd5o4.png)
+![Change date using keyword](/Asserts/Images/album/201403/23/085303pvm27u6kq02kd5o4.png)
 
 
 我们可以将单词 **next Sunday** 和 GMT 3合成一个值，而 touch 命令仍然能识别它。日期已经改为了2014年1月21日，而当前的日期为2014年1月14日。
@@ -222,7 +222,7 @@ $ touch file_3.txt
 
 ```
 
-![Reset file_3.txt timestamp](/Asserts/Images//attachment/album/201403/23/085305o1ux27xxds3riizf.png)
+![Reset file_3.txt timestamp](/Asserts/Images/album/201403/23/085305o1ux27xxds3riizf.png)
 
 
 然后我们尝试这个命令：
@@ -234,7 +234,7 @@ $ touch -d '1 year ago 13:43:07' file_3.txt
 
 ```
 
-![Change date using keyword](/Asserts/Images//attachment/album/201403/23/085306ga5q1cu51kjnq57a.png)
+![Change date using keyword](/Asserts/Images/album/201403/23/085306ga5q1cu51kjnq57a.png)
 
 
 太震撼了，Touch 甚至能识别单词‘**1 year ago**’。现在的日期以及时间已经改为了2013年1月14日,13:43:07。
@@ -252,7 +252,7 @@ $ touch file_10.txt
 
 ```
 
-![Create an empty file](/Asserts/Images//attachment/album/201403/23/085308ib3r1mtbsqp6rlbl.png)
+![Create an empty file](/Asserts/Images/album/201403/23/085308ib3r1mtbsqp6rlbl.png)
 
 
 ### 同时创建多个文件
@@ -267,7 +267,7 @@ $ touch doc_10.txt doc_20.txt doc_30.txt
 
 ```
 
-![Create multiple files](/Asserts/Images//attachment/album/201403/23/085309bdhs3u1m1umm1hbu.png)
+![Create multiple files](/Asserts/Images/album/201403/23/085309bdhs3u1m1umm1hbu.png)
 
 
 ### 总结

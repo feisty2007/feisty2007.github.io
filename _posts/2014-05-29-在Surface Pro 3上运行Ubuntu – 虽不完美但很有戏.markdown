@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/30/224554wvlzdvhmhvzbhliv.jpg)
+![](/Asserts/Images/album/201405/30/224554wvlzdvhmhvzbhliv.jpg)
 
 
 微软从5月21日起接受Surface Pro 3平板PC的预订，没过多久Linux爱好者们就在其上尝试了Ubuntu 14.04。结果是十分有戏的！Surface pro 3宣称其拥有还不错的[硬件配置](http://www.microsoft.com/surface/en-us/products/surface-pro-3)，当它的所有的硬件都被支持后，对任何Linux用户而言在上面运行 Ubuntu 无疑是一件令人感到振奋的事情。

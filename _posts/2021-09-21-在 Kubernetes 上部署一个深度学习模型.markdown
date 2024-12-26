@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes,深度学习]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/01/233417ryy87hyza7jmgy33.jpg "Brain on a computer screen")
+![](/Asserts/Images/album/202109/01/233417ryy87hyza7jmgy33.jpg "Brain on a computer screen")
 
 
 随着企业增加了对人工智能（AI）、机器学习（ML）与深度学习（DL）的使用，出现了一个关键问题：如何将机器学习的开发进行规模化与产业化？这些讨论经常聚焦于机器学习模型本身；然而，模型仅仅只是完整解决方案的其中一环。为了达到生产环境的应用和规模，模型的开发过程必须还包括一个可以说明开发前后关键活动以及可公用部署的可重复过程。
@@ -36,7 +36,7 @@ Kubermatic Kubernetes 平台是一个生产级的开源 Kubernetes 集群管理�
 使用训练集中的样本对模型训练 200 次，只要训练误差保持缓慢减少，就可以保证模型不会过拟合。下方图展示了训练的过程：
 
 
-![深度学习模型训练 loss 图](/Asserts/Images//attachment/album/202109/01/233430j0jnjf92hfnr2iss.png "Deep learning model training plot")
+![深度学习模型训练 loss 图](/Asserts/Images/album/202109/01/233430j0jnjf92hfnr2iss.png "Deep learning model training plot")
 
 
 训练结束后，必须保存模型训练所得到的参数，以便稍后可以加载它们：
@@ -176,7 +176,7 @@ sudo docker ps -a
 命令查看你本地容器的运行状态:
 
 
-![查看容器的运行状态](/Asserts/Images//attachment/album/202109/01/233430nszyaz0pklym7jay.png "Checking the container's status")
+![查看容器的运行状态](/Asserts/Images/album/202109/01/233430nszyaz0pklym7jay.png "Checking the container's status")
 
 
 ### 将你的模型上传到 Docker Hub
@@ -204,7 +204,7 @@ sudo docker push <your-docker-hub-name>/<your-app-name>
 
 ```
 
-![给镜像打上 tag](/Asserts/Images//attachment/album/202109/01/233430h5uahx4vevfhxxjf.png "Tagging the image")
+![给镜像打上 tag](/Asserts/Images/album/202109/01/233430h5uahx4vevfhxxjf.png "Tagging the image")
 3. 使用
 
 
@@ -223,15 +223,15 @@ sudo docker images
 1. 首先在 Kubermatic Kubernetes 平台创建一个项目, 然后根据 [快速开始](https://docs.kubermatic.com/kubermatic/v2.13/installation/install_kubermatic/_installer/) 创建一个 Kubernetes 集群。
 
 
-![创建一个 Kubernetes 集群](/Asserts/Images//attachment/album/202109/01/233431qsg5vryf74zppyp7.png "Create a Kubernetes cluster")
+![创建一个 Kubernetes 集群](/Asserts/Images/album/202109/01/233431qsg5vryf74zppyp7.png "Create a Kubernetes cluster")
 2. 下载用于访问你的集群的 `kubeconfig`，将它放置在下载目录中，并记得设置合适的环境变量，使得你的环境能找到它：
 
 
-![Kubernetes 集群示例](/Asserts/Images//attachment/album/202109/01/233431wyjdooviaf75135f.png "Kubernetes cluster example")
+![Kubernetes 集群示例](/Asserts/Images/album/202109/01/233431wyjdooviaf75135f.png "Kubernetes cluster example")
 3. 使用 `kubectl` 命令检查集群信息，例如，需要检查 `kube-system` 是否在你的集群正常启动了就可以使用命令 `kubectl cluster-info`
 
 
-![查看集群信息](/Asserts/Images//attachment/album/202109/01/233431u78i7ir88x485at4.png "Checking the cluster info")
+![查看集群信息](/Asserts/Images/album/202109/01/233431u78i7ir88x485at4.png "Checking the cluster info")
 4. 为了在集群中运行容器，你需要创建一个部署用的配置文件（`deployment.yaml`），再运行 `apply` 命令将其应用于集群中：
 
 
@@ -283,17 +283,17 @@ kubectl get service
 
 ```
 
-![获取请求图像识别 API 的 IP 地址](/Asserts/Images//attachment/album/202109/01/233431e2v0f0n0v8ffwmnv.png "Get the IP address to call your image recognition API")
+![获取请求图像识别 API 的 IP 地址](/Asserts/Images/album/202109/01/233431e2v0f0n0v8ffwmnv.png "Get the IP address to call your image recognition API")
 7. 最后根据你的外部 IP 使用以下两张图片对你的图像识别服务进行测试：
 
 
-![马](/Asserts/Images//attachment/album/202109/01/233432r9655dyqhq666gzf.jpg "Horse")
+![马](/Asserts/Images/album/202109/01/233432r9655dyqhq666gzf.jpg "Horse")
 
 
-![狗](/Asserts/Images//attachment/album/202109/01/233432x63iiam0fy2li665.jpg "Dog")
+![狗](/Asserts/Images/album/202109/01/233432x63iiam0fy2li665.jpg "Dog")
 
 
-![测试 API](/Asserts/Images//attachment/album/202109/01/233432eiiihhililliri3i.png "Testing the API")
+![测试 API](/Asserts/Images/album/202109/01/233432eiiihhililliri3i.png "Testing the API")
 
 
 ### 总结

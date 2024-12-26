@@ -21,7 +21,7 @@ tags:	[linuxcn,Ubuntu,代理服务器]
 此外，Ubuntu 默认桌面的安装程序中一个大问题是代理设置。如果你的计算机连接在一个代理上，你会发现 Ubuntu 安装时会卡在准备下载文件处。
 
 
-![](/Asserts/Images//attachment/album/201603/16/212205xv4x6pwxp9u4o9v2.jpg)
+![](/Asserts/Images/album/201603/16/212205xv4x6pwxp9u4o9v2.jpg)
 
 
 这篇文章描述了如何解决当使用代理时 Ubuntu **安装程序的限制和安装 Ubuntu 桌面**。
@@ -33,31 +33,31 @@ tags:	[linuxcn,Ubuntu,代理服务器]
 从 CD/DVD 或 USB 启动 Ubuntu 桌面后，点击第一个欢迎屏幕上的"Try Ubuntu"。
 
 
-![](/Asserts/Images//attachment/album/201603/16/212208nkxxk0lxnlxbnnzx.jpg)
+![](/Asserts/Images/album/201603/16/212208nkxxk0lxnlxbnnzx.jpg)
 
 
 一旦进入 live Ubuntu 桌面，点击左侧设置图标。
 
 
-![](/Asserts/Images//attachment/album/201603/16/212208gfqf3fkk3s3kuftn.jpg)
+![](/Asserts/Images/album/201603/16/212208gfqf3fkk3s3kuftn.jpg)
 
 
 进入 Network 菜单。
 
 
-![](/Asserts/Images//attachment/album/201603/16/212209wi45tg4tt2xj6kxx.jpg)
+![](/Asserts/Images/album/201603/16/212209wi45tg4tt2xj6kxx.jpg)
 
 
 手动配置代理服务器。
 
 
-![](/Asserts/Images//attachment/album/201603/16/212210i5lmcb1nr9h5bp2u.jpg)
+![](/Asserts/Images/album/201603/16/212210i5lmcb1nr9h5bp2u.jpg)
 
 
 接下来，打开一个终端。
 
 
-![](/Asserts/Images//attachment/album/201603/16/212211d1kl88pcz9la5l1l.jpg)
+![](/Asserts/Images/album/201603/16/212211d1kl88pcz9la5l1l.jpg)
 
 
 通过输入以下命令切换到 root 用户：
@@ -81,13 +81,13 @@ $ sudo su
 然后将启动基于 GUI 的 Ubuntu 安装程序。
 
 
-![](/Asserts/Images//attachment/album/201603/16/212211zi14w1tipvsqag1q.jpg)
+![](/Asserts/Images/album/201603/16/212211zi14w1tipvsqag1q.jpg)
 
 
 继续安装其余部分。
 
 
-![](/Asserts/Images//attachment/album/201603/16/212212hpt1rg22fd0t8syi.jpg)
+![](/Asserts/Images/album/201603/16/212212hpt1rg22fd0t8syi.jpg)
 
 
 

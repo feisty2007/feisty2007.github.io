@@ -13,7 +13,7 @@ tags:	[linuxcn,ntp]
 NTP 是<ruby> 网络时间协议 <rt>  Network Time Protocol </rt></ruby>的首字母简写，这是一个用来同步两台电脑之间时间的协议。ntpd 是一个操作系统守护进程，可以设置并且保证系统的时间与互联网标准时间服务器同步。
 
 
-![](/Asserts/Images//attachment/album/201802/16/205909z7iy3yhnfineelif.jpg)
+![](/Asserts/Images/album/201802/16/205909z7iy3yhnfineelif.jpg)
 
 
 NTP 使用 `/etc/directory` 之下的 `ntp.conf` 作为配置文件。

@@ -37,7 +37,7 @@ sudo gedit /etc/samba/smb.conf
 security = user
 
 
-![](/Asserts/Images//attachment/album/201310/21/142659neljpl4zbj2c44aa.png)
+![](/Asserts/Images/album/201310/21/142659neljpl4zbj2c44aa.png)
 
 
 然后，向下滚动文件，找到下面这行，同时取消行首注释。
@@ -70,7 +70,7 @@ sudo smbpasswd -a usernmame
 \\ubuntu\_machine\_IP\username
 
 
- ![](/Asserts/Images//attachment/album/201310/21/142659qh1wvz2w6yz13lre.png)
+ ![](/Asserts/Images/album/201310/21/142659qh1wvz2w6yz13lre.png)
 
 
 Enjoy!

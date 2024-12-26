@@ -7,7 +7,7 @@ tags:	[linuxcn,FSF,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/201510/11/110735vct45wwwk4vvwkzz.png)
+![](/Asserts/Images/album/201510/11/110735vct45wwwk4vvwkzz.png)
 
 
 欢迎回到全新的 Six Degrees 专栏。和往常一样，请把你对此文的想法发到意见箱，把对专栏将来建设的建议发送到我的收件箱。

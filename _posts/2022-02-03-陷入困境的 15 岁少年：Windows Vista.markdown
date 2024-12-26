@@ -15,7 +15,7 @@ tags:	[linuxcn,Windows,Vista]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/04/165634p0s77smqmq00ki0b.jpg)
+![](/Asserts/Images/album/202202/04/165634p0s77smqmq00ki0b.jpg)
 
 
 2007 年 1 月 30 日，也就是 15 年前，[一再](https://www.theregister.com/2006/03/22/microsoft_vista_delayed/)[延期](https://www.theregister.com/2005/08/30/windows_vista_release/)的 Windows Vista 发布了。

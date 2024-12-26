@@ -7,7 +7,7 @@ tags:	[linuxcn,Javascript,构建系统]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/27/120324jeqlswqte9exfxhh.jpg)
+![](/Asserts/Images/album/202303/27/120324jeqlswqte9exfxhh.jpg)
 
 
 嗨！这周我一直在写一些 Javascript，和往常一样，当我开始一个新的前端项目时，我面临的问题是：我是否应该使用构建系统？

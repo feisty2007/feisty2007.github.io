@@ -7,7 +7,7 @@ tags:	[linuxcn,Flatpak]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/07/105242i7jei9xj1zrqqfek.jpg)
+![](/Asserts/Images/album/202309/07/105242i7jei9xj1zrqqfek.jpg)
 
 
 

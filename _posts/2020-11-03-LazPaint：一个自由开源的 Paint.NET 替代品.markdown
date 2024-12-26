@@ -7,7 +7,7 @@ tags:	[linuxcn,LazPaint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202011/25/120828b330z4cem3i030tl.jpg)
+![](/Asserts/Images/album/202011/25/120828b330z4cem3i030tl.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,LazPaint]
 ### LazPaint：Linux 下的开源 Paint.NET 替代品
 
 
-![](/Asserts/Images//attachment/album/202011/25/120923zqdavd1v8pcz31d8.jpg)
+![](/Asserts/Images/album/202011/25/120923zqdavd1v8pcz31d8.jpg)
 
 
 如果你喜欢使用工具来快速编辑和处理图像和截图，你可能听说过 Paint.NET，但它只适用于 Windows 系统。
@@ -33,7 +33,7 @@ tags:	[linuxcn,LazPaint]
 [LazPaint](https://lazpaint.github.io/) 作为 Linux、Windows 和 macOS 上 Paint.NET 的令人印象深刻的开源替代品而出现。它提供了操作图像所需的大部分基本功能，同时又易于使用。
 
 
-![](/Asserts/Images//attachment/album/202011/25/120939fn25dzy6nqrtynby.png)
+![](/Asserts/Images/album/202011/25/120939fn25dzy6nqrtynby.png)
 
 
 由于它是跨平台的应用，即使你不使用 Linux 系统，你仍然可以以自由开源工具使用它，这并非没有意义。现在，让我们看一下它提供的一些功能。
@@ -42,7 +42,7 @@ tags:	[linuxcn,LazPaint]
 ### LazPaint 的功能
 
 
-![](/Asserts/Images//attachment/album/202011/25/120959lerz9cepsiq1jcs1.jpg)
+![](/Asserts/Images/album/202011/25/120959lerz9cepsiq1jcs1.jpg)
 
 
 正如我前面提到的，LazPaint 提供了一堆必要的功能。在这里，我将列出关键的部分，这可以帮助你决定是否需要它。然而，我建议你去探索它，以了解更多关于它的信息。

@@ -24,7 +24,7 @@ tags:	[linuxcn,背景]
 下面是方法：
 
 
-![Lock / Login screen background elementary OS ](/Asserts/Images//attachment/album/202108/06/193041h225cy9gvqvp02x2.jpg)
+![Lock / Login screen background elementary OS ](/Asserts/Images/album/202108/06/193041h225cy9gvqvp02x2.jpg)
 
 
 ### 改变 elementary OS 锁定和登录屏幕背景
@@ -58,7 +58,7 @@ git clone https://github.com/elementary/greeter.git
 
 ```
 
-克隆完成后，在文件管理器中打开路径 `/tmp/greeter/Asserts/Images/`。
+克隆完成后，在文件管理器中打开路径 `/tmp/greeter/data`。
 
 
 elementary OS 使用一个 100×100px 的 PNG 文件作为登录屏幕/锁屏的默认背景。该图像是平铺的，给人一种灰色背景的感觉。
@@ -67,19 +67,19 @@ elementary OS 使用一个 100×100px 的 PNG 文件作为登录屏幕/锁屏的
 用 `texture.png` 重命名你想要的墙纸图像，并在路径中覆盖以下文件：
 
 
-![gray background is created using this file](/Asserts/Images//attachment/album/202108/06/193041qz8pfl8pgfw882pf.jpg)
+![gray background is created using this file](/Asserts/Images/album/202108/06/193041qz8pfl8pgfw882pf.jpg)
 
 
 
 ```
-/tmp/greeter/Asserts/Images//texture.png
+/tmp/greeter/data/texture.png
 
 ```
 
 在文本编辑器中打开文件 `/tmp/greeter/compositor/SystemBackground.vala`，并替换下面一行：
 
 
-![change the path of image](/Asserts/Images//attachment/album/202108/06/193041n2p42zauspify2sw.jpg)
+![change the path of image](/Asserts/Images/album/202108/06/193041n2p42zauspify2sw.jpg)
 
 
 
@@ -111,7 +111,7 @@ sudo ninja install -C _build
 
 ```
 
-![building greeter](/Asserts/Images//attachment/album/202108/06/193042x44zl4v3xwmlyxls.png)
+![building greeter](/Asserts/Images/album/202108/06/193042x44zl4v3xwmlyxls.png)
 
 
 如果你遇到任何构建错误，请在下面的评论中告诉我。你应该不会看到任何错误，因为我已经测试过了。

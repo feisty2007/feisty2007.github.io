@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,主机,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/27/225657t2mt8222b5ma5c24.png)
+![](/Asserts/Images/album/201711/27/225657t2mt8222b5ma5c24.png)
 
 
 让我们来探讨一下“容器主机”和“容器操作系统”之间的关系，以及它们在 Linux 和 Windows 容器之间的区别。
@@ -24,7 +24,7 @@ tags:	[linuxcn,容器,主机,Docker]
 ### 如下的一些图
 
 
-![Linux Containers](/Asserts/Images//attachment/album/201711/27/225709cc3cn4cwwj24acgs.png)
+![Linux Containers](/Asserts/Images/album/201711/27/225709cc3cn4cwwj24acgs.png)
 
 
 在上面的例子中：
@@ -38,7 +38,7 @@ tags:	[linuxcn,容器,主机,Docker]
 * 查看[这篇](https://www.brianchristner.io/docker-image-base-os-size-comparison/)文章来比较基础 OS 的大小。
 
 
-![Windows Containers - Non Hyper-V](/Asserts/Images//attachment/album/201711/27/225710zkx228jja2ux6kbc.png)
+![Windows Containers - Non Hyper-V](/Asserts/Images/album/201711/27/225710zkx228jja2ux6kbc.png)
 
 
 在上面的例子中：
@@ -49,7 +49,7 @@ tags:	[linuxcn,容器,主机,Docker]
 * 所有 Windows 容器都需要 [nanoserver](https://hub.docker.com/r/microsoft/nanoserver/) 或 [windowsservercore](https://hub.docker.com/r/microsoft/windowsservercore/) 的基础操作系统。
 
 
-![Windows Containers - Hyper-V](/Asserts/Images//attachment/album/201711/27/225710nqztqqb295cqfuqf.png)
+![Windows Containers - Hyper-V](/Asserts/Images/album/201711/27/225710nqztqqb295cqfuqf.png)
 
 
 在上面的例子中：

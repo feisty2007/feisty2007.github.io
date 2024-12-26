@@ -54,7 +54,7 @@ tags:	[linuxcn,双引导,Windows,Ubuntu]
 ### 步骤1 - 删除Grub启动菜单
 
 
-![](/Asserts/Images//attachment/album/201503/27/220313nuchiyp1pc1im1hu.jpg)
+![](/Asserts/Images/album/201503/27/220313nuchiyp1pc1im1hu.jpg)
 
 
 当你启动系统的时候你会看见一个与上图类似的菜单。
@@ -66,7 +66,7 @@ tags:	[linuxcn,双引导,Windows,Ubuntu]
 要达到这个目的，我将向你展示如何创建一个系统恢复盘，如何从恢复盘中启动以及如何修复主引导记录。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220336nbnfensbyw9yynzh.png)
+![](/Asserts/Images/album/201503/27/220336nbnfensbyw9yynzh.png)
 
 
 按下“开始”按钮，搜索“备份和还原”。点击出现的图标。
@@ -81,7 +81,7 @@ tags:	[linuxcn,双引导,Windows,Ubuntu]
 你需要一个[空的DVD盘](http://www.amazon.co.uk/gp/product/B0006L2HTK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0006L2HTK&linkCode=as2&tag=evelinuse-21&linkId=3R363EA63XB4Z3IL)。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220453ciig9yafp9o1aima.png)
+![](/Asserts/Images/album/201503/27/220453ciig9yafp9o1aima.png)
 
 
 将空的DVD盘插入到驱动器中然后从下拉列表中选择你的DVD驱动器。
@@ -93,7 +93,7 @@ tags:	[linuxcn,双引导,Windows,Ubuntu]
 将光盘留在电脑中并重启电脑，当出现从CD中启动的消息的时候按下键盘上的“回车”键。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220516cukd89qtab9dbja9.jpg)
+![](/Asserts/Images/album/201503/27/220516cukd89qtab9dbja9.jpg)
 
 
 屏幕上会出现“系统恢复选项”。
@@ -105,7 +105,7 @@ tags:	[linuxcn,双引导,Windows,Ubuntu]
 从列表中选择合适的选项，然后点击“下一步”。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220616bj7jiohovq20kljh.jpg)
+![](/Asserts/Images/album/201503/27/220616bj7jiohovq20kljh.jpg)
 
 
 下一个界面让你选择你想修复的操作系统。
@@ -117,7 +117,7 @@ tags:	[linuxcn,双引导,Windows,Ubuntu]
 选中上面的选项然后点击“下一步”。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220648bgtn2m82y8wbxyrz.jpg)
+![](/Asserts/Images/album/201503/27/220648bgtn2m82y8wbxyrz.jpg)
 
 
 现在你将会看到一个有修复硬盘和恢复您的系统等选项的界面。
@@ -129,7 +129,7 @@ tags:	[linuxcn,双引导,Windows,Ubuntu]
 点击“命令提示符”。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220714eb76tgjx29rjgjbw.jpg)
+![](/Asserts/Images/album/201503/27/220714eb76tgjx29rjgjbw.jpg)
 
 
 现在只需要把下面的命令输入到命令提示符中：
@@ -156,7 +156,7 @@ bootrec.exe /fixmbr
 ### 步骤 2 - 删除Ubuntu分区
 
 
-![](/Asserts/Images//attachment/album/201503/27/220737u9utkku459daew4w.png)
+![](/Asserts/Images/album/201503/27/220737u9utkku459daew4w.png)
 
 
 要删除Ubuntu你需要使用Windows系统提供的“磁盘管理”工具。
@@ -177,7 +177,7 @@ bootrec.exe /fixmbr
 **注意: 注意一下.你的磁盘上可能有恢复分区。 不要删除恢复分区。它们应该有专门的卷标，文件系统也许是NTFS或FAT32**
 
 
-![](/Asserts/Images//attachment/album/201503/27/220807j337lt30ios735ot.png)
+![](/Asserts/Images/album/201503/27/220807j337lt30ios735ot.png)
 
 
 在你希望删除的分区上单击右键(例如：root,home和swap分区),然后从弹出的菜单中点击“删除卷”。
@@ -189,13 +189,13 @@ bootrec.exe /fixmbr
 对于剩下的两个分区重复执行上面的操作。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220834kulv03zsq6q0ml6e.png)
+![](/Asserts/Images/album/201503/27/220834kulv03zsq6q0ml6e.png)
 
 
 分区被删除后你将会有很大的一片空闲区域。右键点击空闲区域然后选择删除。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220845p70cz7v4q0f7sju9.png)
+![](/Asserts/Images/album/201503/27/220845p70cz7v4q0f7sju9.png)
 
 
 现在你的磁盘将包含驱动器C和一大片没有分配的空间。
@@ -204,7 +204,7 @@ bootrec.exe /fixmbr
 ### 步骤 3 - 扩展Windows分区
 
 
-![](/Asserts/Images//attachment/album/201503/27/220908p5cpc695yppki9r8.png)
+![](/Asserts/Images/album/201503/27/220908p5cpc695yppki9r8.png)
 
 
 最后一步是扩展Windows以便于将它再变成一个大的分区。
@@ -213,13 +213,13 @@ bootrec.exe /fixmbr
 右键点击Windows分区(C盘)，然后选择“扩展卷”。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220938mk4ddl0nui4u8ffx.png)
+![](/Asserts/Images/album/201503/27/220938mk4ddl0nui4u8ffx.png)
 
 
 当出现左面的窗口的时候点击“下一步”。
 
 
-![](/Asserts/Images//attachment/album/201503/27/220951utig8akoeaye6o1o.png)
+![](/Asserts/Images/album/201503/27/220951utig8akoeaye6o1o.png)
 
 
 接下来是一个向导界面，在这里你可以选择扩展到那个盘，同时修改扩展的大小。
@@ -231,7 +231,7 @@ bootrec.exe /fixmbr
 接受默认的选项，然后点击“下一步”。
 
 
-![](/Asserts/Images//attachment/album/201503/27/221011sszcubppzxggjws6.png)
+![](/Asserts/Images/album/201503/27/221011sszcubppzxggjws6.png)
 
 
 最后的界面展示了你在前一个界面中的选择结果。
@@ -240,7 +240,7 @@ bootrec.exe /fixmbr
 点击“结束”进行磁盘扩展。
 
 
-![](/Asserts/Images//attachment/album/201503/27/221119nzez7u47p764fx6z.png)
+![](/Asserts/Images/album/201503/27/221119nzez7u47p764fx6z.png)
 
 
 从上图中你可以看到，我的Windows分区占据了整个磁盘(除了我之前安装Windows的时候偶然创建的101MB的空间)。
@@ -249,7 +249,7 @@ bootrec.exe /fixmbr
 ### 总结
 
 
-![](/Asserts/Images//attachment/album/201503/27/221154bj4iw4ppmop9qex1.png)
+![](/Asserts/Images/album/201503/27/221154bj4iw4ppmop9qex1.png)
 
 
 这就是全部内容。一个致力于Linux的网站刚刚向你展示了如何移除Linux然后用Windows7取而代之。

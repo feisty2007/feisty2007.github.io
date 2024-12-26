@@ -15,13 +15,13 @@ tags:	[linuxcn,GraphQL,微服务]
 > 
 
 
-![](/Asserts/Images//attachment/album/202009/06/205052ve8eebyamcace4v8.jpg)
+![](/Asserts/Images/album/202009/06/205052ve8eebyamcace4v8.jpg)
 
 
 [微服务](https://opensource.com/resources/what-are-microservices)和 [GraphQL](https://opensource.com/article/19/6/what-is-graphql) 就像面包和黄油一样，是一个很好的组合。它们本身都很棒，结合起来就更棒了。了解你的微服务的健康状况是很重要的，因为它们运行着重要的服务。如果等到某个关键的服务崩溃了才诊断问题，那是很愚蠢的。让 GraphQL 帮助你及早发现问题并不需要花费太多精力。
 
 
-![GraphQL in Microservices](/Asserts/Images//attachment/album/202009/06/205139mi1icisfjshcgspm.png "GraphQL in Microservices")
+![GraphQL in Microservices](/Asserts/Images/album/202009/06/205139mi1icisfjshcgspm.png "GraphQL in Microservices")
 
 
 常规的健康检查可以让你观察和测试你的服务，在问题影响到你的业务、客户或项目之前，尽早得到通知。说起来很简单，但健康检查到底要做什么呢？
@@ -39,7 +39,7 @@ tags:	[linuxcn,GraphQL,微服务]
 4. 我应该能够预测中断。
 
 
-![Service health in microservices](/Asserts/Images//attachment/album/202009/06/205142p8u5addu33gzu4gu.png "Service health in microservices")
+![Service health in microservices](/Asserts/Images/album/202009/06/205142p8u5addu33gzu4gu.png "Service health in microservices")
 
 
 ### 做服务器健康检查的方法
@@ -82,7 +82,7 @@ Apollo GraphQL 服务器提供了一个默认的端点，它可以返回有关�
 默认端点是 `<server-host>/.well-known/apollo/server-health`。
 
 
-![Health Check with GraphQL](/Asserts/Images//attachment/album/202009/06/205144cpb2h7udbv73bavd.png "Health Check with GraphQL")
+![Health Check with GraphQL](/Asserts/Images/album/202009/06/205144cpb2h7udbv73bavd.png "Health Check with GraphQL")
 
 
 ### 高级健康检查

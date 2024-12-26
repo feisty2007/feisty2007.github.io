@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Copilot,Reddit]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/10/181236a599jozu85oj5woe.jpg)
+![](/Asserts/Images/album/202306/10/181236a599jozu85oj5woe.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/10/181256z143pkoppsb5csby.jpg)
+![](/Asserts/Images/album/202306/10/181256z143pkoppsb5csby.jpg)
 
 
 ### 谷歌 Bard 现在可以自己编写代码来回答问题
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,Copilot,Reddit]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/10/181310f6l6u669ouv2pupv.jpg)
+![](/Asserts/Images/album/202306/10/181310f6l6u669ouv2pupv.jpg)
 
 
 ### GitHub Copilot 是一种“巧妙的软件盗版方法”
@@ -60,7 +60,7 @@ GitHub Copilot 是根据 OpenAI 的 Codex 模型建立的代码建议工具，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/10/181326p1oqytzzqs2s7quq.jpg)
+![](/Asserts/Images/album/202306/10/181326p1oqytzzqs2s7quq.jpg)
 
 
 ### Reddit 封杀第三方客户端之后的社区反应

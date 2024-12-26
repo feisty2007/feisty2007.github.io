@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,AMD,Alpine]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/02/181701vtav7to8kddw4wbt.jpg)
+![](/Asserts/Images/album/202308/02/181701vtav7to8kddw4wbt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/02/181712axr1ffxm5bgnnrtm.jpg)
+![](/Asserts/Images/album/202308/02/181712axr1ffxm5bgnnrtm.jpg)
 
 
 ### 仅 100KB 大小，只需 4 分钟训练的人工智能图像生成器
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,AMD,Alpine]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/02/181726s03u8boz0eeyigbi.jpg)
+![](/Asserts/Images/album/202308/02/181726s03u8boz0eeyigbi.jpg)
 
 
 ### 最高产的 Alpine Linux 打包者离开该项目
@@ -60,7 +60,7 @@ Alpine Linux 在容器和嵌入式领域得到了广泛应用，但令人遗憾�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/02/181744ztlvrlhuxrjrsrtl.jpg)
+![](/Asserts/Images/album/202308/02/181744ztlvrlhuxrjrsrtl.jpg)
 
 
 ### Linus Torvalds 让大家禁用愚蠢的 AMD CPU 功能

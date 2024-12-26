@@ -7,7 +7,7 @@ tags:	[linuxcn,Edge,浏览器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/30/085644x57izzq4kqeq7zi4.png)
+![](/Asserts/Images/album/202110/30/085644x57izzq4kqeq7zi4.png)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,Edge,浏览器]
 现在，就在正式宣布之前，其稳定版已经被推送到官方仓库。
 
 
-![](/Asserts/Images//attachment/album/202110/30/085645mapwoip1j1px3wk1.png)
+![](/Asserts/Images/album/202110/30/085645mapwoip1j1px3wk1.png)
 
 
 注意：微软 Edge 不是一个开源的浏览器，但它基于开源的组件。我们报道这个是因为它可以用于 Linux。
@@ -33,7 +33,7 @@ tags:	[linuxcn,Edge,浏览器]
 ### 微软 Edge 的 Linux 版本：有什么值得喜欢的？
 
 
-![](/Asserts/Images//attachment/album/202110/30/085645h2ckykmnmxx722c0.png)
+![](/Asserts/Images/album/202110/30/085645h2ckykmnmxx722c0.png)
 
 
 微软 Edge 基于开源的 Chromium，这一点并不奇怪。所以，是的，它只是又一个 [基于 Chromium 的 Linux 浏览器](https://news.itsfoss.com/chrome-like-browsers-2021/)。
@@ -60,7 +60,7 @@ tags:	[linuxcn,Edge,浏览器]
 * 防止跟踪
 
 
-![](/Asserts/Images//attachment/album/202110/30/085646c8qsaszua5c5a58u.png)
+![](/Asserts/Images/album/202110/30/085646c8qsaszua5c5a58u.png)
 
 
 虽然它在配置你的微软账户时也支持家庭安全选项，但并不是每项功能都适用于 Linux。

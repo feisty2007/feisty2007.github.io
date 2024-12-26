@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/28/225858yzhohxnwnt0zk4wx.jpg)
+![](/Asserts/Images/album/201405/28/225858yzhohxnwnt0zk4wx.jpg)
 
 
 **Apache Tomcat 7.0.54，一个在JCP规范之下开发的Java Servlet和JSP技术的开源软件实现，现已可供下载。**

@@ -7,7 +7,7 @@ tags:	[linuxcn,录音]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/25/154829ol11lp47i8o6222c.jpg)
+![](/Asserts/Images/album/202212/25/154829ol11lp47i8o6222c.jpg)
 
 
 
@@ -43,7 +43,7 @@ GNOME 桌面环境有很多有用的应用程序，录音机就是其中之一�
 你可以从 Ubuntu 软件中心安装 [录音机](https://wiki.gnome.org/Apps/SoundRecorder)。
 
 
-![Sound Recorder can be installed from the Ubuntu Software Center](/Asserts/Images//attachment/album/202212/25/154841ku4ggolyogi7guur.png)
+![Sound Recorder can be installed from the Ubuntu Software Center](/Asserts/Images/album/202212/25/154841ku4ggolyogi7guur.png)
 
 
 或者，你可以在终端中使用此命令来安装它：
@@ -58,25 +58,25 @@ sudo apt install gnome-sound-recorder
 安装后，你可以在系统菜单中找到它，并从那里启动它。
 
 
-![GNOME Sound Recorder](/Asserts/Images//attachment/album/202212/25/154841lqs48hgq4sblhs8s.png)
+![GNOME Sound Recorder](/Asserts/Images/album/202212/25/154841lqs48hgq4sblhs8s.png)
 
 
 在开始使用它之前，应确保在系统设置中选择了正确的输入源：
 
 
-![Ensure that you have chosen correct input in system settings](/Asserts/Images//attachment/album/202212/25/154841tzfuvgr589vj0uzo.png)
+![Ensure that you have chosen correct input in system settings](/Asserts/Images/album/202212/25/154841tzfuvgr589vj0uzo.png)
 
 
 打开录音机，它将显示如下界面：
 
 
-![Hit the Record button to start audio recording](/Asserts/Images//attachment/album/202212/25/154842exxfxkwvwhee5xgs.png)
+![Hit the Record button to start audio recording](/Asserts/Images/album/202212/25/154842exxfxkwvwhee5xgs.png)
 
 
 点击“<ruby> 录制 <rt>  Record </rt></ruby>”按钮，它立即开始录制音频。录制时，你可以选择暂停、停止或取消录制。
 
 
-![Options while recording audio](/Asserts/Images//attachment/album/202212/25/154842l1nk1t7mvgvztevw.png)
+![Options while recording audio](/Asserts/Images/album/202212/25/154842l1nk1t7mvgvztevw.png)
 
 
 你的录音将保存并可从应用程序界面本身获得。单击保存的录音以突出显示。
@@ -85,7 +85,7 @@ sudo apt install gnome-sound-recorder
 你可以回放或删除该录音。你可以通过单击“保存/下载”按钮选择将其保存到其他位置。你也可以使用“编辑”按钮重命名该录音。
 
 
-![Saved recordings](/Asserts/Images//attachment/album/202212/25/154842renjcncnjj5e452o.png)
+![Saved recordings](/Asserts/Images/album/202212/25/154842renjcncnjj5e452o.png)
 
 
 这很方便，对吧？你可以选择以 `MP3`、`FLAC` 和多种格式录制。
@@ -129,7 +129,7 @@ sudo apt install audio-recorder
 或者，你可以从 [启动台](https://launchpad.net/audio-recorder) 下载源代码。安装后，你可以从“<ruby> 活动概述 <rt>  Activity Overview </rt></ruby>”里启动应用程序：
 
 
-![Audio Recorder](/Asserts/Images//attachment/album/202212/25/154842mtum14v2vl2vurvv.png)
+![Audio Recorder](/Asserts/Images/album/202212/25/154842mtum14v2vl2vurvv.png)
 
 
 #### 记录不同来源的各种声音
@@ -147,7 +147,7 @@ Audio Recorder 记录计算机产生的各种声音。
 要录制流媒体音乐，请选择适当的源。例如，如果你正在 Rhythmbox 中播放流媒体广播，请选择 Rythmbox。
 
 
-![Audio-Recorder Audio Settings](/Asserts/Images//attachment/album/202212/25/154843me3eadha3tl872cv.png)
+![Audio-Recorder Audio Settings](/Asserts/Images/album/202212/25/154843me3eadha3tl872cv.png)
 
 
 #### 在你方便的时候录制
@@ -162,13 +162,13 @@ Audio Recorder 还提供了设置计时器的选项。你可以在给定的时�
 你所要做的就是编辑计时器面板中的文本。注释掉你不想应用的“规则”，并根据你的要求编辑这些规则。
 
 
-![Audio-recorder Timer Settings](/Asserts/Images//attachment/album/202212/25/154843frd8i7u3gi30kfc3.png)
+![Audio-recorder Timer Settings](/Asserts/Images/album/202212/25/154843frd8i7u3gi30kfc3.png)
 
 
 它提供了其他设置，如登录时自动启动、显示托盘图标和其他记录设置。
 
 
-![Audio-recorder Additional Settings](/Asserts/Images//attachment/album/202212/25/154843dom1na2n8ztom2ng.png)
+![Audio-recorder Additional Settings](/Asserts/Images/album/202212/25/154843dom1na2n8ztom2ng.png)
 
 
 #### 以各种文件格式保存录制的音乐文件
@@ -180,7 +180,7 @@ Audio Recorder 还提供了设置计时器的选项。你可以在给定的时�
 录制的文件存储在 `~/Audio` 中，即主目录中的“音频”文件夹中。
 
 
-![Audio-recorder Audio Formats](/Asserts/Images//attachment/album/202212/25/154844a7ogq2g707r9q75q.png)
+![Audio-recorder Audio Formats](/Asserts/Images/album/202212/25/154844a7ogq2g707r9q75q.png)
 
 
 #### Audio Recorder 有多好？

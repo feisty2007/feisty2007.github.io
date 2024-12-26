@@ -13,13 +13,13 @@ tags:	[linuxcn,gnome,快捷键]
 这篇文章将列举我们日常使用中使用频率最高的快捷键。
 
 
-![](/Asserts/Images//attachment/album/201504/02/000439ieqnf40nfhu1elnu.jpg)
+![](/Asserts/Images/album/201504/02/000439ieqnf40nfhu1elnu.jpg)
 
 
 #### 1. Super键
 
 
-![GNOME Keyboard Shortcuts - The Super Key. ](/Asserts/Images//attachment/album/201504/02/000547mjhs1jh6941x1869.png)
+![GNOME Keyboard Shortcuts - The Super Key. ](/Asserts/Images/album/201504/02/000547mjhs1jh6941x1869.png)
 
 
 *GNOME 快捷键 - super键*
@@ -40,7 +40,7 @@ tags:	[linuxcn,gnome,快捷键]
 ### 2. 如何快速执行一条命令
 
 
-![GNOME Run Command.](/Asserts/Images//attachment/album/201504/02/000547qk78hs78g6l6v8lr.png)
+![GNOME Run Command.](/Asserts/Images/album/201504/02/000547qk78hs78g6l6v8lr.png)
 
 
 *GNOME 运行某命令*
@@ -55,7 +55,7 @@ tags:	[linuxcn,gnome,快捷键]
 ### 3. 快速切换到另一个打开的应用
 
 
-![TAB Through Applications.](/Asserts/Images//attachment/album/201504/02/000548uzm1lmgfgrewg012.png)
+![TAB Through Applications.](/Asserts/Images/album/201504/02/000548uzm1lmgfgrewg012.png)
 
 
 *使用TAB在应用中切换*
@@ -76,7 +76,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 4. 在同一应用中快速切换不同的窗口
 
 
-![Switch Windows In The Same Application.](/Asserts/Images//attachment/album/201504/02/000548iscjokjejdhzqowe.png)
+![Switch Windows In The Same Application.](/Asserts/Images/album/201504/02/000548iscjokjejdhzqowe.png)
 
 
 *在应用中切换不同窗口*
@@ -103,7 +103,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 5. 切换键盘焦点
 
 
-![Switch Keyboard Focus.](/Asserts/Images//attachment/album/201504/02/000549omw7cu73319r7lr8.png)
+![Switch Keyboard Focus.](/Asserts/Images/album/201504/02/000549omw7cu73319r7lr8.png)
 
 
 *切换键盘焦点*
@@ -121,7 +121,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 6. 显示所有应用程序列表
 
 
-![Show All Applications.](/Asserts/Images//attachment/album/201504/02/000550u77gzxkh8vxkk7wx.png)
+![Show All Applications.](/Asserts/Images/album/201504/02/000550u77gzxkh8vxkk7wx.png)
 
 
 *显示所有应用程序*
@@ -136,7 +136,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 7. 切换工作区
 
 
-![Switch Workspaces.](/Asserts/Images//attachment/album/201504/02/000550fvze66n7uvk99uzg.png)
+![Switch Workspaces.](/Asserts/Images/album/201504/02/000550fvze66n7uvk99uzg.png)
 
 
 *切换工作区*
@@ -157,7 +157,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 8. 将一些项目移至一个新的工作区
 
 
-![Move Application To Another Workspace.](/Asserts/Images//attachment/album/201504/02/000551tb3nk33u3tl7v5ub.png)
+![Move Application To Another Workspace.](/Asserts/Images/album/201504/02/000551tb3nk33u3tl7v5ub.png)
 
 
 *将应用移至另一个工作区*
@@ -172,7 +172,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 9. 显示信息托盘
 
 
-![Show The Message Tray.](/Asserts/Images//attachment/album/201504/02/000551gnzsuh9v987ssav9.png)
+![Show The Message Tray.](/Asserts/Images/album/201504/02/000551gnzsuh9v987ssav9.png)
 
 
 *显示信息托盘*
@@ -187,7 +187,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 10. 锁屏
 
 
-![Lock The Screen.](/Asserts/Images//attachment/album/201504/02/000552wv8mh886h8vn8d6m.png)
+![Lock The Screen.](/Asserts/Images/album/201504/02/000552wv8mh886h8vn8d6m.png)
 
 
 *锁屏*
@@ -205,7 +205,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 11. 关机
 
 
-![Control Alt Delete Within Fedora.](/Asserts/Images//attachment/album/201504/02/000553ub3x683u1zxh7x35.png)
+![Control Alt Delete Within Fedora.](/Asserts/Images/album/201504/02/000553ub3x683u1zxh7x35.png)
 
 
 *Fedora中Control+Alt+Delete*
@@ -254,7 +254,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 14. 并排显示窗口
 
 
-![Put Windows Side By Side.](/Asserts/Images//attachment/album/201504/02/000553m4jwoxwkr500vov9.png)
+![Put Windows Side By Side.](/Asserts/Images/album/201504/02/000553m4jwoxwkr500vov9.png)
 
 
 *并排显示窗口*
@@ -281,7 +281,7 @@ GNOME应用切换器随着你的切换，显示简单的图标和应用的名字
 ### 16. 总结
 
 
-![GNOME Keyboard Shortcut Cheat Sheet. ](/Asserts/Images//attachment/album/201504/02/000555cwzc3iczaia313p3.png)
+![GNOME Keyboard Shortcut Cheat Sheet. ](/Asserts/Images/album/201504/02/000555cwzc3iczaia313p3.png)
 
 
 *GNOME快捷键速查表*

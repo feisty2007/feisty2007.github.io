@@ -7,7 +7,7 @@ tags:	[linuxcn,磁盘]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/18/002118aaeaejeejrengyvg.jpg)
+![](/Asserts/Images/album/201905/18/002118aaeaejeejrengyvg.jpg)
 
 
 市场上有很多用来监控 Linux 系统的监控工具，当系统到达阀值后它将发送一封邮件。它监控所有的东西例如 CPU 利用率、内存利用率、交换空间利用率、磁盘空间利用率等等。然而，它更适合小环境和大环境。

@@ -15,7 +15,7 @@ tags:	[linuxcn,条形码,二维码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202102/07/231854y8ffstg0m6l2fcmz.jpg "Working from home at a laptop")
+![](/Asserts/Images/album/202102/07/231854y8ffstg0m6l2fcmz.jpg "Working from home at a laptop")
 
 
 二维码是一种很好的可以向人们提供信息的方式，且没有打印的麻烦和费用。大多数人的智能手机都支持二维码扫描，无论其操作系统是什么。
@@ -63,7 +63,7 @@ $ sudo apt install zint-qt
 安装好后，我启动了它，并创建了我的第一个二维码，这是一个指向 [Opensource.com](http://Opensource.com) 的链接。
 
 
-![Generating QR code with Zint](/Asserts/Images//attachment/album/202102/07/231908lu7kj9a8aq7ps82m.png "Generating QR code with Zint")
+![Generating QR code with Zint](/Asserts/Images/album/202102/07/231908lu7kj9a8aq7ps82m.png "Generating QR code with Zint")
 
 
 Zint 的 50 多个其他条码选项包括许多国家的邮政编码、DotCode、EAN、EAN-14 和通用产品代码 （UPC）。[项目文档](http://www.zint.org.uk/)中包含了它可以渲染的所有代码的完整列表。
@@ -72,7 +72,7 @@ Zint 的 50 多个其他条码选项包括许多国家的邮政编码、DotCode�
 你可以将任何条形码复制为 BMP 或 SVG，或者将输出保存为你应用中所需要的任何尺寸的图像文件。这是我的 77x77 像素的二维码。
 
 
-![QR code](/Asserts/Images//attachment/album/202102/07/231908u1zjepgzun07u21q.png "QR code")
+![QR code](/Asserts/Images/album/202102/07/231908u1zjepgzun07u21q.png "QR code")
 
 
 该项目维护了一份出色的用户手册，其中包含了在[命令行](http://zint.org.uk/Manual.aspx?type=p&page=4)和 [GUI](http://zint.org.uk/Manual.aspx?type=p&page=3) 中使用 Zint 的说明。你甚至可以[在线](http://www.barcode-generator.org/)试用 Zint。对于功能请求或错误报告，请[访问网站](https://lists.sourceforge.net/lists/listinfo/zint-barcode)或[发送电子邮件](mailto:zint-barcode@lists.sourceforge.net)。

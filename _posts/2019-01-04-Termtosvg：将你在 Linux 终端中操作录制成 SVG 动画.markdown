@@ -7,7 +7,7 @@ tags:	[linuxcn,SVG,终端,动画]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/14/121313jcoeexcx1di7i1xl.jpg)
+![](/Asserts/Images/album/201901/14/121313jcoeexcx1di7i1xl.jpg)
 
 
 一般人喜欢使用历史命令功能来查看/再次调用之前在终端中输入的命令。不幸的是，那样做只会显示先前输入的命令，而不是之前输出的内容。
@@ -156,7 +156,7 @@ Recording ended, SVG animation is /tmp/termtosvg_5waorper.svg
 firefox /tmp/termtosvg_5waorper.svg
 ```
 
-![最终效果](/Asserts/Images//attachment/album/201901/14/121320ue7uvomrbxuxp7v9.gif)
+![最终效果](/Asserts/Images/album/201901/14/121320ue7uvomrbxuxp7v9.gif)
 
 
 

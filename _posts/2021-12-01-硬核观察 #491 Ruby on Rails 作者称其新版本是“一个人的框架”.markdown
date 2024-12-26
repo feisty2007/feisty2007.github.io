@@ -7,10 +7,10 @@ tags:	[linuxcn,Ruby,加密货币,云计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/20/161252tda8d5t8dhp0tipp.jpg)
+![](/Asserts/Images/album/202112/20/161252tda8d5t8dhp0tipp.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/20/161310g4a64ejt4jxktapj.jpg)
+![](/Asserts/Images/album/202112/20/161310g4a64ejt4jxktapj.jpg)
 
 
 ### Ruby on Rails 作者称其新版本是“一个人的框架”
@@ -27,7 +27,7 @@ Ruby on Rails 上周三发布了 [7.0 版本](https://rubyonrails.org/)，作者
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/20/161325tuzbzoybne1xggnu.jpg)
+![](/Asserts/Images/album/202112/20/161325tuzbzoybne1xggnu.jpg)
 
 
 ### 2021 年至少有六起超过 1 亿美元的加密货币盗窃案
@@ -44,7 +44,7 @@ Ruby on Rails 上周三发布了 [7.0 版本](https://rubyonrails.org/)，作者
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/20/161356zh211369ddxx193c.jpg)
+![](/Asserts/Images/album/202112/20/161356zh211369ddxx193c.jpg)
 
 
 ### 云计算使互联网更脆弱

@@ -18,7 +18,7 @@ tags:	[linuxcn,Rambox,消息,IM]
 ### Rambox：在单个应用中添加多个消息服务
 
 
-![](/Asserts/Images//attachment/album/202004/30/222658waton215q2zs5qqz.jpg)
+![](/Asserts/Images/album/202004/30/222658waton215q2zs5qqz.jpg)
 
 
 Rambox 是通过安装单个应用管理多个通信服务的最佳方式之一。你可以在一个界面使用[多个消息服务](https://itsfoss.com/best-messaging-apps-linux/)，如 Facebook Messenger、Gmail chats、AOL、Discord、Google Duo、[Viber](https://itsfoss.com/viber-linux-client-beta-install/) 等。
@@ -36,7 +36,7 @@ Rambox 提供可免费使用的[开源社区版](https://rambox.pro/#ce)。付�
 ### Rambox 的功能
 
 
-![](/Asserts/Images//attachment/album/202004/30/222658j5qemexmsieynw57.png)
+![](/Asserts/Images/album/202004/30/222658j5qemexmsieynw57.png)
 
 
 虽然你应该在开源版中找到大多数基本功能，但你可能会注意到其中一些功能仅限于专业版。

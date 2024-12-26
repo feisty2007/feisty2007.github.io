@@ -21,7 +21,7 @@ yum是基于Red Hat的系统(如CentOS、Fedora、RHEl)上的默认包管理器�
 这里说明了如何从yum仓库上下载一个RPM包。
 
 
-![](/Asserts/Images//attachment/album/201503/21/194242ksfg9gioungo89q9.png)
+![](/Asserts/Images/album/201503/21/194242ksfg9gioungo89q9.png)
 
 
 ### 方法一:yum
@@ -78,7 +78,7 @@ Command line error: no such option: --downloadonly
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/21/194249c7rk0qrr0kfmwxrr.jpg)
+![](/Asserts/Images/album/201503/21/194249c7rk0qrr0kfmwxrr.jpg)
 
 
 ### 方法二: Yumdownloader

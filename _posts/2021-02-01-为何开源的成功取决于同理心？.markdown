@@ -15,7 +15,7 @@ tags:	[linuxcn,同理心]
 > 
 
 
-![](/Asserts/Images//attachment/album/202102/15/110606rc48qf05904m9n7p.jpg "Practicing empathy")
+![](/Asserts/Images/album/202102/15/110606rc48qf05904m9n7p.jpg "Practicing empathy")
 
 
 开源开发的协调创新精神和社区精神改变了世界。Jim Whitehurst 在[《开放式组织》](https://www.redhat.com/en/explore/the-open-organization-book)中解释说，开源的成功源于“将人们视为社区的一份子，从交易思维转变为基于承诺基础的思维方式”。 但是，开源开发模型的核心仍然存在障碍：它经常性地缺乏人类的<ruby> 同理心 <rt>  empathy </rt></ruby>。
@@ -30,7 +30,7 @@ tags:	[linuxcn,同理心]
 ### 恶意交流的历史
 
 
-代码审查中存在的敌意言论对开源社区来说并不新鲜，它多年来一直被社区所容忍。开源教父<ruby> 莱纳斯·托瓦尔兹 <rt>  Linus Torvalds </rt></ruby>经常在代码不符合他的标准时[抨击](https://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/) Linux 社区，并将贡献者赶走。埃隆大学计算机科学教授 Megan Squire 借助[机器学习](http://flossdata.syr.edu/Asserts/Images//insults/hicssInsultsv2.pdf)分析了托瓦尔兹的侮辱行为，发现它们在四年内的数量高达数千次。2018 年，莱纳斯因自己的不良行为而自我放逐，责成自己学习同理心，道歉并为 Linux 社区制定了行为准则。
+代码审查中存在的敌意言论对开源社区来说并不新鲜，它多年来一直被社区所容忍。开源教父<ruby> 莱纳斯·托瓦尔兹 <rt>  Linus Torvalds </rt></ruby>经常在代码不符合他的标准时[抨击](https://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/) Linux 社区，并将贡献者赶走。埃隆大学计算机科学教授 Megan Squire 借助[机器学习](http://flossdata.syr.edu/data/insults/hicssInsultsv2.pdf)分析了托瓦尔兹的侮辱行为，发现它们在四年内的数量高达数千次。2018 年，莱纳斯因自己的不良行为而自我放逐，责成自己学习同理心，道歉并为 Linux 社区制定了行为准则。
 
 
 2015 年，[Sage Sharp](https://en.wikipedia.org/wiki/Sage_Sharp) 虽然在技术上受人尊重，但因其缺乏对个人的尊重，被辞去了 FOSS 女性外展计划中的 Linux 内核协调员一职。

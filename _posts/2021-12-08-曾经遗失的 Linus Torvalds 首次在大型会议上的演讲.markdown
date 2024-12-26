@@ -7,7 +7,7 @@ tags:	[linuxcn,Linus]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/28/001711jekaa5vezszwnpww.jpg)
+![](/Asserts/Images/album/202112/28/001711jekaa5vezszwnpww.jpg)
 
 
 这是承诺已久的、送给所有热爱 GNU/Linux 的好男孩、好女孩们的圣诞礼物。

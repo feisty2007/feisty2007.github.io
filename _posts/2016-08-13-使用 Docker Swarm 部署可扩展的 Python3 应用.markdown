@@ -10,7 +10,7 @@ tags:	[linuxcn,Docker,Swarm]
 [Ben Firshman](https://blog.docker.com/author/bfirshman/) 最近在 [Dockercon](http://dockercon.com/) 做了一个关于使用 Docker 构建无服务应用的演讲，你可以在[这里查看详情](https://blog.docker.com/author/bfirshman/)（还有视频）。之后，我写了一篇关于如何使用 [AWS Lambda](https://aws.amazon.com/lambda/) 构建微服务系统的[文章](http://www.giantflyingsaucer.com/blog/?p=5730)。
 
 
-![](/Asserts/Images//attachment/album/201608/24/085955kwrcach76z1zrncc.jpg)
+![](/Asserts/Images/album/201608/24/085955kwrcach76z1zrncc.jpg)
 
 
 今天，我想展示给你的就是如何使用 [Docker Swarm](https://docs.docker.com/swarm/) 部署一个简单的 Python Falcon REST 应用。这里我不会使用[dockerrun](https://github.com/bfirsh/dockerrun) 或者是其他无服务特性，你可能会惊讶，使用 Docker Swarm 部署（复制）一个 Python（Java、Go 都一样）应用是如此的简单。
@@ -100,7 +100,7 @@ $ docker node ls
 你将会看到：
 
 
-![](/Asserts/Images//attachment/album/201608/24/100853ey7a897wz1raw0aa.png)
+![](/Asserts/Images/album/201608/24/100853ey7a897wz1raw0aa.png)
 
 
 在 manager1 的终端里部署一个简单的服务。
@@ -124,7 +124,7 @@ $ sudo docker service tasks pinger
 结果会和这个比较类似：
 
 
-![](/Asserts/Images//attachment/album/201608/24/100927l9c02c8zmcl62yyq.png)
+![](/Asserts/Images/album/201608/24/100927l9c02c8zmcl62yyq.png)
 
 
 所以，我们知道了服务正跑在 worker1 上。我们可以回到 worker1 的会话里，然后进入正在运行的容器：
@@ -136,7 +136,7 @@ $ sudo docker ps
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/24/100956x0u0ze9neibb124u.png)
+![](/Asserts/Images/album/201608/24/100956x0u0ze9neibb124u.png)
 
 
 你可以看到容器的 id 是: ae56769b9d4d，在我的例子中，我运行如下的代码：
@@ -148,7 +148,7 @@ $ sudo docker attach ae56769b9d4d
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/24/101022ktqizbgbpnntsbpo.png)
+![](/Asserts/Images/album/201608/24/101022ktqizbgbpnntsbpo.png)
 
 
 你可以按下 CTRL-C 来停止服务。
@@ -295,7 +295,7 @@ $ curl -v -X GET "http://192.168.99.102:8080/hello?value=Docker"
 从浏览器中访问其他节点：
 
 
-![](/Asserts/Images//attachment/album/201608/24/101056s9l9yqtoyll69jh9.png)
+![](/Asserts/Images/album/201608/24/101056s9l9yqtoyll69jh9.png)
 
 
 如果你想看运行的所有服务，你可以在 manager1 节点上运行如下代码：
@@ -322,7 +322,7 @@ $ sudo docker run -it -d -p 5000:5000 -e HOST=192.168.99.100 -e PORT=5000 -v /va
 结果如下（假设已经运行了两个 Docker Swarm 服务）：
 
 
-![](/Asserts/Images//attachment/album/201608/24/101143ry1518zi0p1gpwcy.png)
+![](/Asserts/Images/album/201608/24/101143ry1518zi0p1gpwcy.png)
 
 
 要停止运行 hello-app（已经在两个节点上运行了），可以在 manager1 上执行这个代码：

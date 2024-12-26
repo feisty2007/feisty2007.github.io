@@ -7,10 +7,10 @@ tags:	[linuxcn,AWS,Thunderbird,PyPI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/14/193806ozm2hhwtllorv2wl.jpg)
+![](/Asserts/Images/album/202206/14/193806ozm2hhwtllorv2wl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/14/193815zcof5a3memav5ogm.jpg)
+![](/Asserts/Images/album/202206/14/193815zcof5a3memav5ogm.jpg)
 
 
 ### 亚马逊网站今晨突发宕机 2 小时
@@ -35,7 +35,7 @@ tags:	[linuxcn,AWS,Thunderbird,PyPI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/14/193824lupeeea61p11ss6x.jpg)
+![](/Asserts/Images/album/202206/14/193824lupeeea61p11ss6x.jpg)
 
 
 ### K-9 邮件加入 Thunderbird 邮件旗下
@@ -60,7 +60,7 @@ Thunderbird 是最好的开源邮件桌面客户端，但一直没有对应的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/14/193838qzgb3z031p0i1j0j.jpg)
+![](/Asserts/Images/album/202206/14/193838qzgb3z031p0i1j0j.jpg)
 
 
 ### PyPI 多个软件包因拼写错误包含后门

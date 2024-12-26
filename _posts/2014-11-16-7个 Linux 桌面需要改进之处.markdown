@@ -13,7 +13,7 @@ tags:	[linuxcn,Linux,桌面]
 然而，尽管Linux桌面不停在进步，但是仍然存在差距。一些特点正在丢失，而一些已经丢失了，还有一些令人惊喜的附加功能可以轻易地提升桌面体验，而不用挑战用户的容忍度。
 
 
-![](/Asserts/Images//attachment/album/201411/04/110408sepgghhdeptrwhd1.jpg)
+![](/Asserts/Images/album/201411/04/110408sepgghhdeptrwhd1.jpg)
 
 
 比如说，以下是7个有利于Linux桌面发展的改善建议：

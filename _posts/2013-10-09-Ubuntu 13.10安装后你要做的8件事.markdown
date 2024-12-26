@@ -10,19 +10,19 @@ tags:	[linuxcn,Linux,Ubuntu,安装,应用,设置]
 Ubuntu 13.10 已经发布了，对于那些打算安装“纯净版”的用户，安装完系统后你可以考虑下面的8件事。
 
 
- ![](/Asserts/Images//attachment/album/201310/29/165842or7h57io03rp577f.jpg)
+ ![](/Asserts/Images/album/201310/29/165842or7h57io03rp577f.jpg)
 
 
 ### **1. 安装一些绚丽的小零件**
 
 
-![](/Asserts/Images//attachment/album/201310/29/165845rthht45jb2yh240y.png) 
+![](/Asserts/Images/album/201310/29/165845rthht45jb2yh240y.png) 
 
 
 **系统负载** 是系统监控工具GNOME里的一个小应用。它能在面板上展示出CPU、内存、网络使用、硬盘I/O等信息。点击下面的按钮从Ubuntu软件中心安装。
 
 
- [![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://indicator-multiload)
+ [![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://indicator-multiload)
 
 
 或者通过命令行进行安装：
@@ -31,13 +31,13 @@ Ubuntu 13.10 已经发布了，对于那些打算安装“纯净版”的用户�
 sudo apt-get install indicator-multiload
 
 
-![](/Asserts/Images//attachment/album/201310/29/165847z9oq7l59iz49xlom.png) 
+![](/Asserts/Images/album/201310/29/165847z9oq7l59iz49xlom.png) 
 
 
 **CPU频率**是一款等效于“GNOME-CPU调频”的应用。你可以实时的调整CPU的频率。点击下面的按钮从Ubuntu软件中心安装。
 
 
-[![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://indicator-cpufreq) 
+[![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://indicator-cpufreq) 
 
 
 或者通过命令行安装：
@@ -61,7 +61,7 @@ sudo apt-get update
 sudo apt-get install my-weather-indicator
 
 
- ![](/Asserts/Images//attachment/album/201404/09/133303ado8z54j4dmj3sjr.jpg)
+ ![](/Asserts/Images/album/201404/09/133303ado8z54j4dmj3sjr.jpg)
 
 
 [**Variety**](http://www.webupd8.org/2013/06/variety-wallpaper-changer-0415-released.html)一款带有AppIndicator的应用，但是基本上你只需要配置一次就可以用指示器来使用此软件了。Variety是一款很酷的壁纸更换的应用，他能在设定的时间内自动下载并更换壁纸。用起来就有种高帅富的感觉。壁纸库每天都会有更新，你可以很快的切换到另外一个壁纸，收藏自己喜欢的壁纸，留着日后再用。
@@ -79,13 +79,13 @@ sudo apt-get update
 sudo apt-get install variety
 
 
- ![](/Asserts/Images//attachment/album/201310/29/165849jra92y9m2g2rzzxl.png)
+ ![](/Asserts/Images/album/201310/29/165849jra92y9m2g2rzzxl.png)
 
 
 你可能还需要一个剪切板管理器，试试**Diodon** 吧，这是款轻量型软件，支持文件、图像等。点击下面的按钮安装：
 
 
-[![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://diodon,diodon-plugins) 
+[![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://diodon,diodon-plugins) 
 
 
 或者通过命令行安装：
@@ -97,7 +97,7 @@ sudo apt-get install diodon diodon-plugins
 ### **2. 设置 Unity**
 
 
- ![](/Asserts/Images//attachment/album/201310/29/165852iaifp729k1kickf5.png)
+ ![](/Asserts/Images/album/201310/29/165852iaifp729k1kickf5.png)
 
 
 **Unity Tweak Tool**让用户能改变一些Unity设置，比如：自动隐藏、窗口最大化、“触发角”、Dash、Unity启动器或平视显示器、改变GTK或图标主题、改变字体和大小，移动窗口控制器到右边等。
@@ -106,7 +106,7 @@ sudo apt-get install diodon diodon-plugins
 点击下面的按钮从软件中心安装
 
 
- [![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://unity-tweak-tool)
+ [![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://unity-tweak-tool)
 
 
 或者通过命令行安装
@@ -118,7 +118,7 @@ sudo apt-get install unity-tweak-tool
 ### **3. 隐私设置**
 
 
- ![](/Asserts/Images//attachment/album/201310/29/165854pgkjb66ur6cclcl2.png)
+ ![](/Asserts/Images/album/201310/29/165854pgkjb66ur6cclcl2.png)
 
 
 你应该知道可以通过默认的Dash来查看最近访问的文件和其他的一些文件。系统设置可以通过设置**“安全和隐私”**来选择显示的文件类型。这样就不用看到那些软件、文件夹之类的了。你也可以清除最近的记录。
@@ -135,7 +135,7 @@ gsettings set com.canonical.Unity.Lenses disabled-scopes "['more_suggestions-ama
 更多插件屏蔽，点击[此处](http://www.webupd8.org/2013/10/how-to-disable-amazon-shopping.html)
 
 
- ![](/Asserts/Images//attachment/album/201310/29/165857fi0ajwf7ahabagyy.png)
+ ![](/Asserts/Images/album/201310/29/165857fi0ajwf7ahabagyy.png)
 
 
 另外一种在Ubuntu 13.10中设置隐私的方法是使用**隐私指示器**，这是一款让你快捷设置启用/屏蔽Zeitgeist 或者在线搜索结果的软件，并能清除Zeitgeist日志和最近文件（显示先边栏的“最近”里面）。
@@ -150,7 +150,7 @@ gsettings set com.canonical.Unity.Lenses disabled-scopes "['more_suggestions-ama
 Ubuntu的开发人员已经在Ubuntu 13.10 （和 12.04 LTS版 ）中实现了混合显卡技术，下面你会看到相关设置的说明。
 
 
-![](/Asserts/Images//attachment/album/201310/29/1659003pm5ko67pw7h7hpk.png) 
+![](/Asserts/Images/album/201310/29/1659003pm5ko67pw7h7hpk.png) 
 
 
 **Nvidia Optimus**:不幸的是，Linux平台下Nvidia显卡驱动并不完全支持Optimus，[更多](http://www.webupd8.org/2013/08/using-nvidia-graphics-drivers-with.html)。
@@ -210,7 +210,7 @@ sudo apt-get install fglrx fglrx-pxpress
 点击下面的按钮安装laptop-mode-tools。
 
 
- [![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://laptop-mode-tools)
+ [![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://laptop-mode-tools)
 
 
 或者通过命令行安装：
@@ -246,7 +246,7 @@ sudo tlp start
 点击下面的按钮进行安装：
 
 
- [![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://bumblebee,bumblebee-nvidia)
+ [![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://bumblebee,bumblebee-nvidia)
 
 
 或输入下面的命令行：
@@ -282,7 +282,7 @@ optirun APP-EXECUTABLE
 如果需要播放更多类型的音频视频文件，那就安装 **Ubuntu Restricted Extras** 吧
 
 
- [![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://ubuntu-restricted-extras)
+ [![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://ubuntu-restricted-extras)
 
 
 或者输入下面的命令行：
@@ -294,7 +294,7 @@ sudo apt-get install ubuntu-restricted-extras
 我建议再安装一下“libavformat 和 libavcodec的无限制版”，这样当你使用一些编辑器或者转换器的时候就不会出现丢失编码丢失的情况。点击下面的按钮进行安装：
 
 
-[![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://libavformat-extra-53,libavcodec-extra-53) 
+[![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://libavformat-extra-53,libavcodec-extra-53) 
 
 
 或者输入以下命令行：
@@ -309,7 +309,7 @@ sudo apt-get install libavformat-extra-53 libavcodec-extra-53
 你可能需要Java，但是你得明确你到底需要的是什么，不少用户仅仅使用**OpenJRE**和java游览器插件，你可以点击下面的按钮安装：
 
 
- [![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://icedtea-7-plugin,openjdk-7-jre)
+ [![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://icedtea-7-plugin,openjdk-7-jre)
 
 
 或者输入下面的命令行：
@@ -321,7 +321,7 @@ sudo apt-get install icedtea-7-plugin openjdk-7-jre
 如果用于开发，你可能需要**OpenJDK**，点击下面的按钮进行安装:
 
 
- [![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://openjdk-7-jdk)
+ [![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://openjdk-7-jdk)
 
 
 或者输入下面的命令行:
@@ -360,7 +360,7 @@ sudo /usr/share/doc/libdvdread4/install-css.sh
 ### **7. 安装最新的 Rhythmbox 和 VLC**
 
 
- ![](/Asserts/Images//attachment/album/201310/29/165904gg3nda3dkakzh3l0.png)
+ ![](/Asserts/Images/album/201310/29/165904gg3nda3dkakzh3l0.png)
 
 
 在Ubuntu13.10中，Rhythmbox 和 VLC并没有升级到最新的版本，如果你想安装最新的版本，你可以使用PPAs
@@ -396,7 +396,7 @@ sudo apt-get install vlc
 ### **8. Tweak Nautilus: 打开被禁用的递归搜索和文件快速预览**
 
 
- ![](/Asserts/Images//attachment/album/201310/29/165907nq61iwnt6tsql94l.png)
+ ![](/Asserts/Images/album/201310/29/165907nq61iwnt6tsql94l.png)
 
 
 在Nautilus V3.6之后，提前键入查找功能就被去除掉了。之后版本的搜索就只是在当前文件夹和其子文件下进行搜索。这用起来就很不爽了，如果你为此感到烦恼的话就安装Nautilus的补丁来启用[**被禁用的递归搜索**](http://www.webupd8.org/2013/09/how-to-disable-recursive-search-in.html)（你可以很方便的启用它）。
@@ -429,13 +429,13 @@ gsettings set org.gnome.nautilus.preferences enable-recursive-search false
 gsettings set org.gnome.nautilus.preferences enable-recursive-search true
 
 
- ![](/Asserts/Images//attachment/album/201310/29/165910v6267v3xf577q6tx.png)
+ ![](/Asserts/Images/album/201310/29/165910v6267v3xf577q6tx.png)
 
 
 **GNOME Sushi**是一款快速预览的软件。点击下面的按钮安装。（会安装gnome-sushi 和 unoconv来实现预览）。
 
 
- [![](/Asserts/Images//attachment/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://gnome-sushi,unoconv)
+ [![](/Asserts/Images/album/201310/29/164151d4a26sm2zqusvbq4.png)](apt://gnome-sushi,unoconv)
 
 
 或者输入命令行：

@@ -15,7 +15,7 @@ tags:	[linuxcn,Vagrant,虚拟机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/28/115827gv75kkrhnnhvkhcf.jpg "Woman using laptop concentrating")
+![](/Asserts/Images/album/202109/28/115827gv75kkrhnnhvkhcf.jpg "Woman using laptop concentrating")
 
 
 我使用 Vagrant 已经很长时间了。我使用几种 DevOps 工具，把它们全安装在一个系统上会搞得很乱。Vagrant 可以让你在不破坏系统的情况下随意折腾，因为你根本不需要在生产系统上做实验。

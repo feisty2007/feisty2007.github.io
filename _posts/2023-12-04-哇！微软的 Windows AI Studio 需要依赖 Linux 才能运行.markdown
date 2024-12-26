@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,AI,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/19/230333a99wh9anm5fm5iw5.jpg)
+![](/Asserts/Images/album/202312/19/230333a99wh9anm5fm5iw5.jpg)
 
 
 
@@ -38,7 +38,7 @@ tags:	[linuxcn,Linux,AI,微软]
 ### Windows AI Studio：仅能在 Linux 上运行？
 
 
-![](/Asserts/Images//attachment/album/202312/19/230411p0xxsj0a10yi1wir.png)
+![](/Asserts/Images/album/202312/19/230411p0xxsj0a10yi1wir.png)
 
 
 严格来说，是的。你应该注意到，**微软悄然推出了其崭新的开发工具**，这款工具的主要目标是**方便开发者在本地开发生成型 AI 应用**。但是，这款工具**需要依赖 Windows 的 Linux 子系统（WSL），并必须安装 Ubuntu 18.4 或更高版本才能运行**。

@@ -33,19 +33,19 @@ Linux桌面自带了一个显示管理器（比如：GDM、KDM、LightDM），�
 首先，打开你的电脑。当你看到初始的GRUB菜单时，按下‘e’。
 
 
-![](/Asserts/Images//attachment/album/201501/27/203101fk7ijaoj50j5gj75.jpg)
+![](/Asserts/Images/album/201501/27/203101fk7ijaoj50j5gj75.jpg)
 
 
 接着会进入下一屏，这里你可以修改内核启动选项。向下滚动到以“linux”开始的行，这里就是内核参数的列表。删除参数列表中的“quiet”和“splash”。在参数列表中添加“text”。
 
 
-![](/Asserts/Images//attachment/album/201501/27/203108s3crd6d1dp0882kx.jpg)
+![](/Asserts/Images/album/201501/27/203108s3crd6d1dp0882kx.jpg)
 
 
 升级的内核选项列表看上去像这样。按下Ctrl+x继续启动。这会以详细模式启动控制台一次（LCTT译注：由于没有保存修改，所以下次重启还会进入 GUI）。
 
 
-![](/Asserts/Images//attachment/album/201501/27/203114q0g0s0s0ae9625is.jpg)
+![](/Asserts/Images/album/201501/27/203114q0g0s0s0ae9625is.jpg)
 
 
 ### 永久启动进入命令行
@@ -81,7 +81,7 @@ GRUB_CMDLINE_LINUX="text"
 更新后的GRUB配置看上去像下面这样。
 
 
-![](/Asserts/Images//attachment/album/201501/27/203125gltxtruidm20l2ir.jpg)
+![](/Asserts/Images/album/201501/27/203125gltxtruidm20l2ir.jpg)
 
 
 最后，使用update-grub命令来基于这些更改重新生成/boot下的GRUB2配置文件。
@@ -96,7 +96,7 @@ $ sudo update-grub
 这时，你的桌面应该可以从GUI启动切换到控制台启动了。可以通过重启验证。
 
 
-![](/Asserts/Images//attachment/album/201501/27/203132iaazlmm88axaa4dm.jpg)
+![](/Asserts/Images/album/201501/27/203132iaazlmm88axaa4dm.jpg)
 
 
 

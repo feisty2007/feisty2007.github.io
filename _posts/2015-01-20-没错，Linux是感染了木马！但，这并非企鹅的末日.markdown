@@ -7,7 +7,7 @@ tags:	[linuxcn,Turla,木马]
 ---
 
 
-![Is something watching you?](/Asserts/Images//attachment/album/201501/09/071142ok2co242fprl1j24.jpg)
+![Is something watching you?](/Asserts/Images/album/201501/09/071142ok2co242fprl1j24.jpg)
 
 
 译注：原文标题中Tuxpocalypse是作者造的词，由Tux和apocalypse组合而来。Tux是Linux的LOGO中那只企鹅的名字，apocalypse意为末世、大灾变，这里翻译成企鹅的末日。
@@ -46,7 +46,7 @@ But - 但是 - 新闻稿里常常这个时候该出现‘but’了 - 要说恐�
 ### 国家资助，目标政府
 
 
-![Is a penguin snake a ‘Penguake’ or a ‘Snaguin’?](/Asserts/Images//attachment/album/201501/09/071143itt5xhzrt5nu4nn6.jpg)
+![Is a penguin snake a ‘Penguake’ or a ‘Snaguin’?](/Asserts/Images/album/201501/09/071143itt5xhzrt5nu4nn6.jpg)
 
 
 企鹅和蛇的组合该叫‘企蛇’还是‘蛇鹅’？

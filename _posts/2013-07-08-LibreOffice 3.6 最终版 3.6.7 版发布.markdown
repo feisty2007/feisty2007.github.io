@@ -19,7 +19,7 @@ tags:	[linuxcn,LibreOffice,Bug]
 　　LivreOffice 下载地址：<http://www.libreoffice.org/download/>
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/19/080928tebbz4od5ce7wg4v.jpg](/Asserts/Images//attachment/album/201307/19/080928tebbz4od5ce7wg4v.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201307/19/080928tebbz4od5ce7wg4v.jpg](/Asserts/Images/album/201307/19/080928tebbz4od5ce7wg4v.jpg)
 
 
 ![](https://img.linux.net.cn/xwb/images/bgimg/icon_logo.png) 已同步至 [linux的微博](http://weibo.com/1772191555/A0IkfvR8N)

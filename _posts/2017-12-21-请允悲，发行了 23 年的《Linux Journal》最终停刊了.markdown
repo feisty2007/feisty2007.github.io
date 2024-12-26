@@ -7,7 +7,7 @@ tags:	[linuxcn,期刊,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/03/232739e1gkvzkpv8nmvnhv.jpeg)
+![](/Asserts/Images/album/201712/03/232739e1gkvzkpv8nmvnhv.jpeg)
 
 
 有着 23 年历史的著名 Linux 和开源期刊《[Linux Journal](http://www.linuxjournal.com/)》结束了，其发行人 Carlie Fairchild 在 12 月 1 日撰文称，《[Linux Journal](http://www.linuxjournal.com/)》[宣布停刊](http://www.linuxjournal.com/content/linux-journal-ceases-publication)——如果没有奇迹出现的话。
@@ -22,7 +22,7 @@ tags:	[linuxcn,期刊,Linux]
 而另外一方面，《[Linux Journal](http://www.linuxjournal.com/)》的停刊，仅仅是时代变迁带来的变化么？这件事会给我们带来什么思考？
 
 
-![](/Asserts/Images//attachment/album/201712/03/231934dxbt84tt7i3mbcbr.jpg)
+![](/Asserts/Images/album/201712/03/231934dxbt84tt7i3mbcbr.jpg)
 
 
 以下是 Fairchild 发布的[告别信](http://www.linuxjournal.com/content/linux-journal-ceases-publication)译文：

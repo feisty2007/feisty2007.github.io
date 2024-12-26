@@ -7,10 +7,10 @@ tags:	[linuxcn,CentOS,恶意程序,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/16/200743x2mgc5gqugo2952s.jpg)
+![](/Asserts/Images/album/202307/16/200743x2mgc5gqugo2952s.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/16/200753ptmcs4t2sum2ju52.jpg)
+![](/Asserts/Images/album/202307/16/200753ptmcs4t2sum2ju52.jpg)
 
 
 ### CentOS 项目发出一篇奇怪的博文
@@ -35,7 +35,7 @@ tags:	[linuxcn,CentOS,恶意程序,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/16/200809i39lmzp9ekac5hag.jpg)
+![](/Asserts/Images/album/202307/16/200809i39lmzp9ekac5hag.jpg)
 
 
 ### 利用微软证书签发的恶意驱动多达数千个
@@ -60,7 +60,7 @@ tags:	[linuxcn,CentOS,恶意程序,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/16/200826d0ln7l0jq8zfn8fj.jpg)
+![](/Asserts/Images/album/202307/16/200826d0ln7l0jq8zfn8fj.jpg)
 
 
 ### 印度开发商解雇 90% 的技术支持团队，将工作外包给人工智能

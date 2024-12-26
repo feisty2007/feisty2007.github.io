@@ -7,7 +7,7 @@ tags:	[linuxcn,Office]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/22/102722qhd38mnle30sejnt.jpg)
+![](/Asserts/Images/album/202203/22/102722qhd38mnle30sejnt.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,Office]
 ### LibreOffice
 
 
-![LibreOffice](/Asserts/Images//attachment/album/202203/22/102727awdid7tmmf9fjh7m.jpg)
+![LibreOffice](/Asserts/Images/album/202203/22/102727awdid7tmmf9fjh7m.jpg)
 
 
 首先推荐的是 [LibreOffice](https://www.libreoffice.org/discover/libreoffice/)。LibreOffice 是一款自由开源的办公套件，由文档基金会开发维护，支持 Linux、macOS 以及 Windows 系统。
@@ -61,7 +61,7 @@ LibreOffice 办公软件的开发十分很活跃，同时不断提升对微软 O
 ### Google Docs
 
 
-![Google Docs](/Asserts/Images//attachment/album/202203/22/102727tlxwj1dd5zmylnfd.jpg)
+![Google Docs](/Asserts/Images/album/202203/22/102727tlxwj1dd5zmylnfd.jpg)
 
 
 搜索引擎巨头谷歌为用户免费提供了一套网页版的办公套件 —— [Google Docs](https://www.google.com/docs/about/)，其中包括 Docs（文档编辑器）、Sheets（表格程序）、Slides（演示程序）。
@@ -83,7 +83,7 @@ Google Docs 最为人称道的功能在于它的模板。有了这些内置模�
 ### OnlyOffice
 
 
-![OnlyOffice](/Asserts/Images//attachment/album/202203/22/102727siulolu61izcofj4.jpg)
+![OnlyOffice](/Asserts/Images/album/202203/22/102727siulolu61izcofj4.jpg)
 
 
 [OnlyOffice](https://www.onlyoffice.com/)（显示名字为 ONLYOFFICE）是一套自由开源的办公软件，包括文本编辑器、表格工具、演示软件，提供共享文件实时协作编辑、修改痕迹记录查看以及制作可供填写的表格等高级功能。
@@ -106,7 +106,7 @@ ONLYOFFICE Workspace 集成了邮箱客户端、客户关系管理产品、项�
 ### Softmaker FreeOffice
 
 
-![FreeOffice](/Asserts/Images//attachment/album/202203/22/102728lw2ii9ig9g9cgewc.jpg)
+![FreeOffice](/Asserts/Images/album/202203/22/102728lw2ii9ig9g9cgewc.jpg)
 
 
 [FreeOffice](https://www.freeoffice.com/en/) 由 SoftMaker 开发，是一套十分优秀的办公软件，包括 TextMaker（可替代 Word）、PlanMaker（可替代 Excel）以及 Presentations（可替代 PowerPoint）。FreeOffice 提供了两种用户界面：带有功能区选项的现代化界面与带有菜单和工具栏的传统界面，两种界面都十分受欢迎。此外，FreeOffice 还为触控设备提供专有的用户界面与功能。
@@ -126,7 +126,7 @@ FreeOffice 是一款闭源软件。
 ### WPS Office
 
 
-![WPS Office](/Asserts/Images//attachment/album/202203/22/102728lzmgig8ue9dcmem8.jpg)
+![WPS Office](/Asserts/Images/album/202203/22/102728lzmgig8ue9dcmem8.jpg)
 
 
 还记得金山办公软件吗？ 它现在的名字叫做 WPS Office。WPS 取 **W**ord, **P**resentation 与 **S**preadsheets 的首字母组合而成。到今天，WPS Office 已有 30 年的发展历史，是老牌办公软件之一。WPS 作为办公软件，功能齐全，支持移动端在内的各类平台。

@@ -7,10 +7,10 @@ tags:	[linuxcn,RISC-V,Python,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/08/193338ldmeodfedpo2cocj.jpg)
+![](/Asserts/Images/album/202310/08/193338ldmeodfedpo2cocj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/08/193345gwmnbw3hd33bm5em.jpg)
+![](/Asserts/Images/album/202310/08/193345gwmnbw3hd33bm5em.jpg)
 
 
 ### 美议员建议对 RISC-V 技术实施出口限制
@@ -35,7 +35,7 @@ tags:	[linuxcn,RISC-V,Python,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/08/193356cexrnzevj7799xv4.jpg)
+![](/Asserts/Images/album/202310/08/193356cexrnzevj7799xv4.jpg)
 
 
 ### 仅有 10% 的人主要将 Python 用于开发系统管理脚本
@@ -60,7 +60,7 @@ tags:	[linuxcn,RISC-V,Python,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/08/193408dbewit1wz4417u77.jpg)
+![](/Asserts/Images/album/202310/08/193408dbewit1wz4417u77.jpg)
 
 
 ### 澳大利亚科学家用《帝国时代》 游戏模拟蚂蚁战争

@@ -15,7 +15,7 @@ tags:	[linuxcn,Linus Torvalds,Linux,桌面,嵌入式]
 > 
 
 
-![](/Asserts/Images//attachment/album/201410/01/151850n8etcyazf0jonfcy.jpg)
+![](/Asserts/Images/album/201410/01/151850n8etcyazf0jonfcy.jpg)
 
 
 什么是Linux桌面和嵌入式设备中Linux的未来？这是个值得讨论的问题，不过Linux的创始人和开源巨人Linus Torvalds在最近一届 [Linux 基金会](http://linuxfoundation.org/) 的LinuxCon大会上，在一次对话中表达了一些有趣的观点。

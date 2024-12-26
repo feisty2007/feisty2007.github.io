@@ -7,7 +7,7 @@ tags:	[linuxcn,编程,代码]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/29/091515zsj4k68bgb61tbtn.jpg)
+![](/Asserts/Images/album/201709/29/091515zsj4k68bgb61tbtn.jpg)
 
 
 系统可以持续运行 5 年、10 年甚至 20 年或者更多年。但是，特定的代码行的生命，即使是经过设计，通常要短得多：当你通过各种方式来迭代寻求解决方案时，它会有几个月、几天甚至几分钟的生命。

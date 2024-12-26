@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,GPU,Edubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/31/171756ui6wdi9kb0n6nd6q.jpg)
+![](/Asserts/Images/album/202212/31/171756ui6wdi9kb0n6nd6q.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/31/171802l00wno09vd9dbp0f.jpg)
+![](/Asserts/Images/album/202212/31/171802l00wno09vd9dbp0f.jpg)
 
 
 ### 因为百思买，Firefox 绕开了用户代理字符串中的版本号
@@ -35,7 +35,7 @@ tags:	[linuxcn,Firefox,GPU,Edubuntu]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/31/171812go3mjpg1xom3lrdz.jpg)
+![](/Asserts/Images/album/202212/31/171812go3mjpg1xom3lrdz.jpg)
 
 
 ### 台式机 GPU 销量创 20 年新低
@@ -60,7 +60,7 @@ tags:	[linuxcn,Firefox,GPU,Edubuntu]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/31/171825ybq673wnwbz3wc02.jpg)
+![](/Asserts/Images/album/202212/31/171825ybq673wnwbz3wc02.jpg)
 
 
 ### Edubuntu 将在明年归来

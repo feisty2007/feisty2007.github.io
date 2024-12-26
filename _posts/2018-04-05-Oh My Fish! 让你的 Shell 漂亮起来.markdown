@@ -7,7 +7,7 @@ tags:	[linuxcn,Fish]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/04/213630umlzt27nult9lmn3.jpg)
+![](/Asserts/Images/album/201804/04/213630umlzt27nult9lmn3.jpg)
 
 
 几天前，我们讨论了如何[安装 Fish shell](https://www.ostechnix.com/install-fish-friendly-interactive-shell-linux/)，这是一个健壮的、完全可用的 shell，带有许多很酷的功能，如自动建议、内置搜索功能、语法高亮显示、基于 web 配置等等。今天，我们将讨论如何使用 Oh My Fish (简称 `omf` ) ，让我们的 Fish shell 变得漂亮且优雅。它是一个 Fishshell 框架，允许你安装扩展或更改你的 shell 外观的软件包。它简单易用，快速可扩展。使用 `omf`，你可以根据你的想法，很容易地安装主题，丰富你的外观和安装插件来调整你的 Fish shell。
@@ -25,7 +25,7 @@ curl -L https://get.oh-my.fish | fish
 
 ```
 
-![](/Asserts/Images//attachment/album/201804/04/213634jv4jdx8w8jx0g88g.png)
+![](/Asserts/Images/album/201804/04/213634jv4jdx8w8jx0g88g.png)
 
 
 一旦安装完成，你将看到提示符已经自动更改，如上图所所示。另外，你会注意到当前时间在 shell 窗口的右边。
@@ -61,7 +61,7 @@ omf theme
 
 ```
 
-![](/Asserts/Images//attachment/album/201804/04/213638perffrjbb8ki7jb9.png)
+![](/Asserts/Images/album/201804/04/213638perffrjbb8ki7jb9.png)
 
 
 如你所见，我们只有一个已安装的主题，这是默认的，但是还有大量可用的主题。在安装之前，你在[这里](https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md)可以预览所有可用的主题。这个页面包含了所有的主题细节，特性，每个主题的截图示例，以及哪个主题适合谁。
@@ -79,7 +79,7 @@ omf install clearance
 
 ```
 
-![](/Asserts/Images//attachment/album/201804/04/213642wnjtcuh4mhcl7vmm.png)
+![](/Asserts/Images/album/201804/04/213642wnjtcuh4mhcl7vmm.png)
 
 
 如上图所示，在安装新主题后，Fish shell 的提示立即发生了变化。
@@ -88,7 +88,7 @@ omf install clearance
 让我浏览一下系统文件，看看它如何显示。
 
 
-![](/Asserts/Images//attachment/album/201804/04/213648r1n0rt2dtqy0t32c.png)
+![](/Asserts/Images/album/201804/04/213648r1n0rt2dtqy0t32c.png)
 
 
 看起来不错！这是一个非常简单的主题。它将当前工作目录，文件夹和文件以不同的颜色区分开来。你可能会注意到，它还会在提示符的顶部显示当前工作目录。现在，clearance 是我的默认主题。
@@ -118,7 +118,7 @@ omf theme agnoster
 现在我正在使用 agnoster 主题。 agnoster 就是这样改变了我 shell 的外观。
 
 
-![](/Asserts/Images//attachment/album/201804/04/213652ipxc559qi754p5h7.png)
+![](/Asserts/Images/album/201804/04/213652ipxc559qi754p5h7.png)
 
 
 #### 安装插件
@@ -151,7 +151,7 @@ weather
 
 ```
 
-![](/Asserts/Images//attachment/album/201804/04/213655stnkffwlftlwlz8l.png)
+![](/Asserts/Images/album/201804/04/213655stnkffwlftlwlz8l.png)
 
 
 #### 寻找包
@@ -342,7 +342,7 @@ rm ~/.config/fish/functions/fish_prompt.fish
 
 ```
 
-![](/Asserts/Images//attachment/album/201804/04/213659c14pp8w349ph1p1w.png)
+![](/Asserts/Images/album/201804/04/213659c14pp8w349ph1p1w.png)
 
 
 无论你何时遇到问题，只要运行 `omf doctor` 命令，并尝试所有的建议方法。

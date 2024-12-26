@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,K8S]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/23/010935ah4tgomzmamntzhi.jpg)
+![](/Asserts/Images/album/201901/23/010935ah4tgomzmamntzhi.jpg)
 
 
 这也许是一个不太受欢迎的观点，但大多数主流公司最好不要再使用 k8s 了。

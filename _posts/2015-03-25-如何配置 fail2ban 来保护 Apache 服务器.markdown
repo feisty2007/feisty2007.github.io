@@ -22,7 +22,7 @@ Apache服务器具有全面的日志功能，可以捕捉到各种攻击所反�
 ### 什么是 Fail2ban 监狱
 
 
-![](/Asserts/Images//attachment/album/201503/16/220730kgg5ksgsggfgl2jw.png)
+![](/Asserts/Images/album/201503/16/220730kgg5ksgsggfgl2jw.png)
 
 
 让我们更深入地了解 fail2ban 监狱。监狱定义了具体的应用策略，它会为指定的程序触发一个保护措施。fail2ban在 /etc/fail2ban/jail.conf 下为一些流行程序如Apache、Dovecot、Lighttpd、MySQL、Postfix、[SSH](http://linux.cn/article-5067-1.html) 等预定义了一些监狱。每个监狱都通过特定的程序日志过滤器（在/etc/fail2ban/fileter.d 下面）来检测通常的攻击。让我看一个例子监狱：SSH监狱。
@@ -58,7 +58,7 @@ SSH监狱的配置定义了这些参数：
 预定义的日志过滤器都放在/etc/fail2ban/filter.d，而可以采取的禁止操作放在 /etc/fail2ban/action.d。
 
 
-![](/Asserts/Images//attachment/album/201503/16/220750ee5w2gal9ay4r3fz.jpg)
+![](/Asserts/Images/album/201503/16/220750ee5w2gal9ay4r3fz.jpg)
 
 
 如果你想要覆盖`fail2ban`的默认操作或者定义任何自定义监狱，你可以创建*/etc/fail2ban/jail.local*\*文件。本篇教程中，我会使用/etc/fail2ban/jail.local。
@@ -262,7 +262,7 @@ $ sudo fail2ban-client status [监狱名]
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/16/220802r6ezeihy3ncminjh.jpg)
+![](/Asserts/Images/album/201503/16/220802r6ezeihy3ncminjh.jpg)
 
 
 你也可以手动禁止或者解禁IP地址：

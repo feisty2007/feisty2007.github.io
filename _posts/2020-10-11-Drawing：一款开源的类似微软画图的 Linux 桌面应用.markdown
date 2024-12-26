@@ -7,7 +7,7 @@ tags:	[linuxcn,画图]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/12/231731q0pgrkzidsguosps.jpg)
+![](/Asserts/Images/album/202010/12/231731q0pgrkzidsguosps.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,画图]
 ### Drawing: 一个简单的 Linux 绘图应用
 
 
-![](/Asserts/Images//attachment/album/202010/12/231928xmho5h4bqhwohjqq.jpg)
+![](/Asserts/Images/album/202010/12/231928xmho5h4bqhwohjqq.jpg)
 
 
 对于从 Windows XP （或更早版本）开始使用电脑的人来说，微软<ruby> 画图 <rt>  Paint </rt></ruby>是一个有趣的应用，是个可以随便画一些草图的应用。在这个被 Photoshop 和 GIMP 主导的世界里，画图应用仍然具有一定的现实意义。
@@ -36,7 +36,7 @@ tags:	[linuxcn,画图]
 ### Drawing 应用的功能
 
 
-![](/Asserts/Images//attachment/album/202010/12/231943z3l20ix3ol0zmx3w.jpg)
+![](/Asserts/Images/album/202010/12/231943z3l20ix3ol0zmx3w.jpg)
 
 
 Drawing 拥有你所期待的绘图应用的所有功能。你可以：
@@ -62,7 +62,7 @@ Drawing 拥有你所期待的绘图应用的所有功能。你可以：
 ### 我使用 Drawing 的经验
 
 
-![](/Asserts/Images//attachment/album/202010/12/231953ns578wm8x5s78vz8.png)
+![](/Asserts/Images/album/202010/12/231953ns578wm8x5s78vz8.png)
 
 
 这个应用是新出现的，并且有不错的用户界面。它具有你期望在标准的绘画应用中找到的所有基本功能。

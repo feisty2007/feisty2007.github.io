@@ -7,13 +7,13 @@ tags:	[linuxcn,UC,挖矿]
 ---
 
 
-![](/Asserts/Images//attachment/album/202106/04/110839j6gzhazxpaztp63m.jpg)
+![](/Asserts/Images/album/202106/04/110839j6gzhazxpaztp63m.jpg)
 
 
 ### 诺顿销售带有以太坊挖矿功能的杀毒软件
 
 
-![](/Asserts/Images//attachment/album/202106/04/110847lcv4445v2v1ooone.jpg)
+![](/Asserts/Images/album/202106/04/110847lcv4445v2v1ooone.jpg)
 
 
 NortonLifeLock 开始为其 Norton 360 安全套件[提供](https://investor.nortonlifelock.com/About/Investors/press-releases/press-release-details/2021/NortonLifeLock-Unveils-Norton-Crypto/default.aspx)以太坊挖矿功能了。该功能已被添加到部分客户的安装中，预计在未来几周内将对所有 Norton 360 客户开放。
@@ -33,7 +33,7 @@ NortonLifeLock 开始为其 Norton 360 安全套件[提供](https://investor.nor
 ### Stack Overflow 以 18 亿美元出售给腾讯的最大股东
 
 
-![](/Asserts/Images//attachment/album/202106/04/110909pr9wfzwlw4565sjv.jpg)
+![](/Asserts/Images/album/202106/04/110909pr9wfzwlw4565sjv.jpg)
 
 
 著名编程问答网站 Stack Overflow 宣布以 18 亿美元[出售](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)给 Prosus。Stack Overflow 创办于 2008 年，每月能吸引超过 1 亿访问者。Stack Overflow 的收入主要来自企业推广其产品和招聘员工。
@@ -53,7 +53,7 @@ Prosus 是腾讯大股东 Naspers 旗下的投资部门，Naspers 在 2001 年�
 ### 移动版 UC 浏览器被曝收集用户信息
 
 
-![](/Asserts/Images//attachment/album/202106/04/110927ug41eju8t799a7mu.jpg)
+![](/Asserts/Images/album/202106/04/110927ug41eju8t799a7mu.jpg)
 
 
 [外媒报道](https://www.forbes.com/sites/thomasbrewster/2021/06/01/exclusive-alibabas-huge-browser-business-is-recording-millions-of-android-and-iphone-users-private-web-habits/)，安全研究人员发现在安卓和 iOS 版本的 UC 浏览器上，用户的 IP 地址及其访问的每个网站，无论他们是否处于隐身模式，都会被发送到 UCWeb 拥有的服务器。

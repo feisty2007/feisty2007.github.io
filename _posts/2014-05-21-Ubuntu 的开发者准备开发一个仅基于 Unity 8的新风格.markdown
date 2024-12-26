@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Unity 8]
 ---
 
 
-![Current Unity 7 desktop in Ubuntu 14.04 LTS](/Asserts/Images//attachment/album/201405/26/132109q80ws6nrz5qtt31w.jpg)
+![Current Unity 7 desktop in Ubuntu 14.04 LTS](/Asserts/Images/album/201405/26/132109q80ws6nrz5qtt31w.jpg)
 
 
 **Ubuntu 的开发者提出将开发一个单独使用 Unity 8的新风格，以帮助他们自由的实验而不必担心搞乱操作系统稳定。**

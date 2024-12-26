@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画]
 ---
 
 
-![Big Numbers](/Asserts/Images//attachment/album/201708/21/135134fespkmiv2kgivls8.png)
+![Big Numbers](/Asserts/Images/album/201708/21/135134fespkmiv2kgivls8.png)
 
 
 人们总是在说 Java 要完了，然后 Java 年复一年的还继续活着……

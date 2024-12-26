@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS,sed,grep]
 Linux 基金会宣布了一个全新的 LFCS（<ruby> Linux 基金会认证系统管理员 <rp>  （ </rp> <rt>  Linux Foundation Certified Sysadmin </rt> <rp>  ） </rp></ruby>）认证计划。这一计划旨在帮助遍布全世界的人们获得其在处理 Linux 系统管理任务上能力的认证。这些能力包括支持运行的系统服务，以及第一手的故障诊断、分析，以及为工程师团队在升级时提供明智的决策。
 
 
-![Linux Foundation Certified Sysadmin](/Asserts/Images//attachment/album/201603/28/055317ffy9907mbm2u01q7.png)
+![Linux Foundation Certified Sysadmin](/Asserts/Images/album/201603/28/055317ffy9907mbm2u01q7.png)
 
 
 *Linux 基金会认证系统管理员——第一讲*
@@ -73,7 +73,7 @@ Linux 将程序中的输入和输出当成字符流或者字符序列。在开�
 在下面的操作练习中，我们将会使用这首诗——《A happy child》（作者未知)
 
 
-![cat command](/Asserts/Images//attachment/album/201603/28/055317sx248jjs2c4c7uu7.png)
+![cat command](/Asserts/Images/album/201603/28/055317sx248jjs2c4c7uu7.png)
 
 
 *cat 命令样例*
@@ -106,7 +106,7 @@ sed 最基本的用法是字符替换。我们将通过把每个出现的小写 
 
 ```
 
-![sed command](/Asserts/Images//attachment/album/201603/28/055318u6w915x3w6gg64l5.png)
+![sed command](/Asserts/Images/album/201603/28/055318u6w915x3w6gg64l5.png)
 
 
 *sed 命令样例*
@@ -124,7 +124,7 @@ sed 最基本的用法是字符替换。我们将通过把每个出现的小写 
 
 ```
 
-![sed replace string](/Asserts/Images//attachment/album/201603/28/055318ustph1gt8asgs2t8.png)
+![sed replace string](/Asserts/Images/album/201603/28/055318ustph1gt8asgs2t8.png)
 
 
 *sed 替换字符串*
@@ -157,7 +157,7 @@ sed 最基本的用法是字符替换。我们将通过把每个出现的小写 
 
 ```
 
-![sed match string](/Asserts/Images//attachment/album/201603/28/055318sz9c1jpnjqnacl1p.png)
+![sed match string](/Asserts/Images/album/201603/28/055318sz9c1jpnjqnacl1p.png)
 
 
 *sed 匹配字符串*
@@ -181,7 +181,7 @@ du –sch /path/to/directory/\* 命令将会以人类可读的格式返回在指
 
 ```
 
-![sort command](/Asserts/Images//attachment/album/201603/28/055319qckggebd272dhhe2.jpg)
+![sort command](/Asserts/Images/album/201603/28/055319qckggebd272dhhe2.jpg)
 
 
 *sort 命令样例*
@@ -196,7 +196,7 @@ du –sch /path/to/directory/\* 命令将会以人类可读的格式返回在指
 
 ```
 
-![Count Numbers in File](/Asserts/Images//attachment/album/201603/28/055319ex1ex1hxjmnywnbm.jpg)
+![Count Numbers in File](/Asserts/Images/album/201603/28/055319ex1ex1hxjmnywnbm.jpg)
 
 
 *文件中的统计数字*
@@ -211,7 +211,7 @@ du –sch /path/to/directory/\* 命令将会以人类可读的格式返回在指
 
 ```
 
-![Find Unique Records in File](/Asserts/Images//attachment/album/201603/28/055320quba70a7m8vbe4ym.jpg)
+![Find Unique Records in File](/Asserts/Images/album/201603/28/055320quba70a7m8vbe4ym.jpg)
 
 
 *寻找文件中不重复的记录*
@@ -238,7 +238,7 @@ grep 在文件（或命令输出）中搜索指定正则表达式，并且在标
 
 ```
 
-![grep Command](/Asserts/Images//attachment/album/201603/28/055320eepm9mp9mm4qwe9e.jpg)
+![grep Command](/Asserts/Images/album/201603/28/055320eepm9mp9mm4qwe9e.jpg)
 
 
 *grep 命令样例*
@@ -253,7 +253,7 @@ grep 在文件（或命令输出）中搜索指定正则表达式，并且在标
 
 ```
 
-![List Content Using grep](/Asserts/Images//attachment/album/201603/28/055321o4y33j3zzk3k4jpk.jpg)
+![List Content Using grep](/Asserts/Images/album/201603/28/055321o4y33j3zzk3k4jpk.jpg)
 
 
 *使用 grep 列出内容*
@@ -280,7 +280,7 @@ tr 命令可以用来从标准输入中转换（改变）或者删除字符，�
 
 ```
 
-![Sort Strings in File](/Asserts/Images//attachment/album/201603/28/055321tjh2huac2yxxhx29.jpg)
+![Sort Strings in File](/Asserts/Images/album/201603/28/055321tjh2huac2yxxhx29.jpg)
 
 
 *排序文件中的字符串*
@@ -295,7 +295,7 @@ tr 命令可以用来从标准输入中转换（改变）或者删除字符，�
 
 ```
 
-![Squeeze Delimiter](/Asserts/Images//attachment/album/201603/28/055321hz2w9e42egucz2iu.jpg)
+![Squeeze Delimiter](/Asserts/Images/album/201603/28/055321hz2w9e42egucz2iu.jpg)
 
 
 *压缩分隔符*
@@ -319,7 +319,7 @@ cut 命令可以基于字节（-b选项）、字符（-c）或者字段（-f）�
 
 ```
 
-![Extract User Accounts](/Asserts/Images//attachment/album/201603/28/055322pgyrzp6irfm299fj.jpg)
+![Extract User Accounts](/Asserts/Images/album/201603/28/055322pgyrzp6irfm299fj.jpg)
 
 
 *提取用户账户*
@@ -334,7 +334,7 @@ cut 命令可以基于字节（-b选项）、字符（-c）或者字段（-f）�
 
 ```
 
-![last command](/Asserts/Images//attachment/album/201603/28/055322bio7q6dxhoioeo6q.png)
+![last command](/Asserts/Images/album/201603/28/055322bio7q6dxhoioeo6q.png)
 
 
 *last 命令样例*

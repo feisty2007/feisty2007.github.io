@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/20/233621ldmjdlztketwtwtk.jpg)
+![](/Asserts/Images/album/201808/20/233621ldmjdlztketwtwtk.jpg)
 
 
 Python 是为谁设计的？

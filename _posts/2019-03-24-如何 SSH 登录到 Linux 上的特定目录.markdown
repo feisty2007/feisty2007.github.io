@@ -7,7 +7,7 @@ tags:	[linuxcn,ssh]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/14/111804saaau28bu8q6xwll.png)
+![](/Asserts/Images/album/201903/14/111804saaau28bu8q6xwll.png)
 
 
 你是否遇到过需要 SSH 登录到远程服务器并立即 `cd` 到一个目录来继续交互式作业？你找对地方了！这个简短的教程描述了如何直接 SSH 登录到远程 Linux 系统的特定目录。而且不仅是 SSH 登录到特定目录，你还可以在连接到 SSH 服务器后立即运行任何命令。这些没有你想的那么难。请继续阅读。
@@ -52,7 +52,7 @@ $ ssh -t sk@192.168.225.22 'cd /home/sk/ostechnix ; bash'
 以下是上面命令的输出：
 
 
-![](/Asserts/Images//attachment/album/201903/14/111805s6nkbc3z6z9lpscc.gif)
+![](/Asserts/Images/album/201903/14/111805s6nkbc3z6z9lpscc.gif)
 
 
 你也可以使用此命令：

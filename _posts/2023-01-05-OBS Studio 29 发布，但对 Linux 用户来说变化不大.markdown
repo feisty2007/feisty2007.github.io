@@ -15,7 +15,7 @@ tags:	[linuxcn,OBS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/13/093854agymtzvy13uvx11e.png)
+![](/Asserts/Images/album/202301/13/093854agymtzvy13uvx11e.png)
 
 
 [OBS Studio](https://obsproject.com) 是最受欢迎的开源屏幕录制和流媒体软件之一。
@@ -33,7 +33,7 @@ tags:	[linuxcn,OBS]
 ### OBS Studio 29 的新变化
 
 
-![OBS Studio 29](/Asserts/Images//attachment/album/202301/13/093855yhn6vbnu1anbh0a1.png)
+![OBS Studio 29](/Asserts/Images/album/202301/13/093855yhn6vbnu1anbh0a1.png)
 
 
 这个版本有大量的改进和修复；其中一些亮点包括：

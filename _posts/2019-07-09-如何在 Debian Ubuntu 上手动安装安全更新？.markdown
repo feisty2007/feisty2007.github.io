@@ -7,7 +7,7 @@ tags:	[linuxcn,安全更新]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/21/233619rm8kvj5z9ojkpwc8.jpg)
+![](/Asserts/Images/album/201907/21/233619rm8kvj5z9ojkpwc8.jpg)
 
 
 在 Linux 上通过命令行安装一个包程序是一件简单的事。在一行命令中组合使用多个命令能让你更加简单地完成任务。

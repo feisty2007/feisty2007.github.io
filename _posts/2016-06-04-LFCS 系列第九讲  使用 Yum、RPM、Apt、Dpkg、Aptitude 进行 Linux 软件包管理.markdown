@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS]
 去年八月, Linux基金会宣布了一个全新的LFCS（<ruby> Linux基金会认证系统管理员 <rp>  （ </rp> <rt>  Linux Foundation Certified Sysadmin </rt> <rp>  ） </rp></ruby>）认证计划，这对广大系统管理员来说是一个很好的机会，管理员们可以通过认证考试来表明自己可以成功支持Linux系统的整体运营。 一个Linux基金会认证的系统管理员能有足够的专业知识来确保系统高效运行，提供第一手的故障诊断和监视，并且在需要的情况下将问题提交给工程师支持团队。
 
 
-![Linux Package Management](/Asserts/Images//attachment/album/201606/12/223754cb4np1v1yjn33bd1.png)
+![Linux Package Management](/Asserts/Images/album/201606/12/223754cb4np1v1yjn33bd1.png)
 
 
 *Linux基金会认证系统管理员 – 第九讲*
@@ -153,7 +153,7 @@ rpm是Linux标准基础（LSB）兼容发行版所使用的一种软件包管理
 
 ```
 
-![Check Installed Packages in Linux](/Asserts/Images//attachment/album/201606/12/223756gbrc5wckzr9s25q2.png)
+![Check Installed Packages in Linux](/Asserts/Images/album/201606/12/223756gbrc5wckzr9s25q2.png)
 
 
 *检查安装的软件包*
@@ -178,7 +178,7 @@ rpm是Linux标准基础（LSB）兼容发行版所使用的一种软件包管理
 
 ```
 
-![Check sysdig Package](/Asserts/Images//attachment/album/201606/12/223757bpi0oknbiiub0bri.png)
+![Check sysdig Package](/Asserts/Images/album/201606/12/223757bpi0oknbiiub0bri.png)
 
 
 *检查sysdig软件包*
@@ -203,7 +203,7 @@ rpm是Linux标准基础（LSB）兼容发行版所使用的一种软件包管理
 
 ```
 
-![Query File in Linux](/Asserts/Images//attachment/album/201606/12/223757syilccyc5to25crc.png)
+![Query File in Linux](/Asserts/Images/album/201606/12/223757syilccyc5to25crc.png)
 
 
 *Linux中查询文件*
@@ -247,7 +247,7 @@ aptitude的更新操作将会更新可用的软件包列表，而aptitude的搜�
 
 ```
 
-![Check Package Description in Linux](/Asserts/Images//attachment/album/201606/12/223800o9soqn1phqsqp1th.png)
+![Check Package Description in Linux](/Asserts/Images/album/201606/12/223800o9soqn1phqsqp1th.png)
 
 
 *检查软件包描述*
@@ -310,7 +310,7 @@ remove选项将会卸载软件包，但把配置文件保留完好，然而purge
 
 ```
 
-![Check Package Information in Linux](/Asserts/Images//attachment/album/201606/12/223802i8wzqhe4lzwlj1la.png)
+![Check Package Information in Linux](/Asserts/Images/album/201606/12/223802i8wzqhe4lzwlj1la.png)
 
 
 *检查包信息*

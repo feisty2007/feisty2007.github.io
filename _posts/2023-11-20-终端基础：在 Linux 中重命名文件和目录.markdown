@@ -7,7 +7,7 @@ tags:	[linuxcn,终端,命令]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/24/215355ef7zfwuh9cx74u47.jpg)
+![](/Asserts/Images/album/202311/24/215355ef7zfwuh9cx74u47.jpg)
 
 
 
@@ -80,7 +80,7 @@ mv dir1 dir2
 这是我重命名文件和目录的示例：
 
 
-![](/Asserts/Images//attachment/album/202311/24/215501wemmamublbg7lwzz.png)
+![](/Asserts/Images/album/202311/24/215501wemmamublbg7lwzz.png)
 
 
 如你所见，与 [cp 命令](https://itsfoss.com/cp-command/) 不同，你不必使用递归选项来通过 [mv 命令](https://linuxhandbook.com/mv-command/) 处理目录。
@@ -106,7 +106,7 @@ mv old-file-name another_dir/new-file-name
 在下面的示例中，我将名为 `firefox-quiz.txt` 的文件移动到示例目录。在这样做的同时，我将其重命名为 `quiz.txt`。
 
 
-![](/Asserts/Images//attachment/album/202311/24/215503krxkl7zxyr2frsrz.png)
+![](/Asserts/Images/album/202311/24/215503krxkl7zxyr2frsrz.png)
 
 
 我将其视为剪切粘贴操作。
@@ -146,7 +146,7 @@ find . -type f -name "*.txt" -exec mv {} {}_old ;
 
 ```
 
-![](/Asserts/Images//attachment/album/202311/24/215503wuh325amr5ru55s3.png)
+![](/Asserts/Images/album/202311/24/215503wuh325amr5ru55s3.png)
 
 
 这只是一个示例，你的重命名要求可能会有所不同。另外，**以上仅适用于不带空格的文件名**。
@@ -164,7 +164,7 @@ find . -type f -name "*.txt" -exec echo mv {} {}_old \;
 
 ```
 
-![](/Asserts/Images//attachment/album/202311/24/215504atnsvbs4izsvl483.png)
+![](/Asserts/Images/album/202311/24/215504atnsvbs4izsvl483.png)
 
 
 如你所见，实际上没有重命名任何文件。但是，如果你在没有使用回显（`echo`）命令的情况下运行上述命令，你将看到将执行什么命令。
@@ -231,7 +231,7 @@ rename 's/\.txt$/.txt_old/' **
 我不打算在这里解释正则表达式。`**` 表示查看所有子目录中的所有文件。
 
 
-![](/Asserts/Images//attachment/album/202311/24/215504cbliwwlwglfjljqj.png)
+![](/Asserts/Images/album/202311/24/215504cbliwwlwglfjljqj.png)
 
 
 正如你所看到的，它按预期工作。

@@ -15,7 +15,7 @@ tags:	[linuxcn,开源,电子书]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/12/225953hynu3qud32s1jn1z.jpg "One chair on a sandy beach")
+![](/Asserts/Images/album/202107/12/225953hynu3qud32s1jn1z.jpg "One chair on a sandy beach")
 
 
 （LCTT 译注：[opensource.com](http://opensource.com) 的免费电子书需要免费注册一个用户才能下载。）

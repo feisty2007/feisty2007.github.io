@@ -10,7 +10,7 @@ tags:	[linuxcn,LVM]
 **LVM快照**是以空间换时间时间的方式制作的lvm卷副本。它只在lvm中工作，并只在源逻辑卷发生改变时占用快照卷的空间。如果源卷的变化达到1GB这么大，快照卷同样也会产生这样大的改变。因而，对于空间有效利用的最佳途径，就是总是进行小的修改。如果快照将存储空间消耗殆尽，我们可以使用lvextend来扩容。而如果我们需要缩减快照所占用卷的大小，可以使用lvreduce。
 
 
-![Take Snapshot in LVM](/Asserts/Images//attachment/album/201411/02/142925e6he5gehcwegc2de.jpg)
+![Take Snapshot in LVM](/Asserts/Images/album/201411/02/142925e6he5gehcwegc2de.jpg)
 
 
 *在LVM中录制快照*
@@ -49,7 +49,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Check LVM Disk Space](/Asserts/Images//attachment/album/201411/02/142927vmljk705olkj20w6.jpg)
+![Check LVM Disk Space](/Asserts/Images/album/201411/02/142927vmljk705olkj20w6.jpg)
 
 
 *检查LVM磁盘空间*
@@ -80,7 +80,7 @@ tags:	[linuxcn,LVM]
 * **-n** – 为快照命名
 
 
-![Create LVM Snapshot](/Asserts/Images//attachment/album/201411/02/142928spojfhxlujxfplhl.jpg)
+![Create LVM Snapshot](/Asserts/Images/album/201411/02/142928spojfhxlujxfplhl.jpg)
 
 
 *创建LVM快照*
@@ -105,7 +105,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Remove LVM Snapshot](/Asserts/Images//attachment/album/201411/02/142930rrww2vdvd7vrkre1.jpg)
+![Remove LVM Snapshot](/Asserts/Images/album/201411/02/142930rrww2vdvd7vrkre1.jpg)
 
 
 *移除LVM快照*
@@ -120,7 +120,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Verify LVM Snapshot](/Asserts/Images//attachment/album/201411/02/142932wzwol1d3f9fh1sdh.jpg)
+![Verify LVM Snapshot](/Asserts/Images/album/201411/02/142932wzwol1d3f9fh1sdh.jpg)
 
 
 *验证LVM快照*
@@ -129,7 +129,7 @@ tags:	[linuxcn,LVM]
 上面的你看到了吧，成功创建了一个快照。上面我用箭头标出了快照创建的源，它就是**tecmint\_datas**。是的，因为我已经为**tecmint\_datas l-volume**创建了一个快照。
 
 
-![Check LVM Snapshot Space](/Asserts/Images//attachment/album/201411/02/142934duzrkx4uzvlvhu6l.jpg)
+![Check LVM Snapshot Space](/Asserts/Images/album/201411/02/142934duzrkx4uzvlvhu6l.jpg)
 
 
 *检查LVM快照空间*
@@ -144,7 +144,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Check Snapshot Status](/Asserts/Images//attachment/album/201411/02/142937itojit6ubbi5oa5i.jpg)
+![Check Snapshot Status](/Asserts/Images/album/201411/02/142937itojit6ubbi5oa5i.jpg)
 
 
 *检查快照状态*
@@ -159,7 +159,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![View Snapshot Information](/Asserts/Images//attachment/album/201411/02/142939x0kvk4z6r16y490s.jpg)
+![View Snapshot Information](/Asserts/Images/album/201411/02/142939x0kvk4z6r16y490s.jpg)
 
 
 *查看快照信息*
@@ -183,7 +183,7 @@ tags:	[linuxcn,LVM]
 现在，让我们复制超过1GB的文件到**tecmint\_datas**。让我们看看会发生什么。如果你那么做了，你将会见到‘**Input/output error**’这样的错误信息，它告诉你快照超出空间大小了。
 
 
-![Add Files to Snapshot](/Asserts/Images//attachment/album/201411/02/142942wj7fr664jzjmhfzr.jpg)
+![Add Files to Snapshot](/Asserts/Images/album/201411/02/142942wj7fr664jzjmhfzr.jpg)
 
 
 *添加文件到快照*
@@ -207,7 +207,7 @@ tags:	[linuxcn,LVM]
 现在，那里有总计2GB大小的快照空间。
 
 
-![Extend LVM Snapshot](/Asserts/Images//attachment/album/201411/02/142944mvbwzxrpgwgib6y5.jpg)
+![Extend LVM Snapshot](/Asserts/Images/album/201411/02/142944mvbwzxrpgwgib6y5.jpg)
 
 
 *扩展LVM快照*
@@ -231,7 +231,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Check Size of Snapshot](/Asserts/Images//attachment/album/201411/02/142946kdcg2jc99pg2gjgb.jpg)
+![Check Size of Snapshot](/Asserts/Images/album/201411/02/142946kdcg2jc99pg2gjgb.jpg)
 
 
 *检查快照大小*
@@ -252,7 +252,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Un-mount File System](/Asserts/Images//attachment/album/201411/02/142948aqu1ryux3zd5dyrw.jpg)
+![Un-mount File System](/Asserts/Images/album/201411/02/142948aqu1ryux3zd5dyrw.jpg)
 
 
 *卸载文件系统*
@@ -267,7 +267,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Check File System Mount Points](/Asserts/Images//attachment/album/201411/02/142950xae5jan0e6nmgs1s.jpg)
+![Check File System Mount Points](/Asserts/Images/album/201411/02/142950xae5jan0e6nmgs1s.jpg)
 
 
 *检查文件系统挂载点*
@@ -282,7 +282,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Restore LVM Snapshot](/Asserts/Images//attachment/album/201411/02/142952m3p9jrxlxthrwzpr.jpg)
+![Restore LVM Snapshot](/Asserts/Images/album/201411/02/142952m3p9jrxlxthrwzpr.jpg)
 
 
 *恢复LVM快照*
@@ -297,7 +297,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Check Size of Snapshot](/Asserts/Images//attachment/album/201411/02/142954ev4swb46vjh4mb6a.jpg)
+![Check Size of Snapshot](/Asserts/Images/album/201411/02/142954ev4swb46vjh4mb6a.jpg)
 
 
 在快照卷自动移除后，你可以用下面的命令查看逻辑卷大小。
@@ -309,7 +309,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Check Size of Logical Volume](/Asserts/Images//attachment/album/201411/02/142955qn3wijwwywyfyihg.jpg)
+![Check Size of Logical Volume](/Asserts/Images/album/201411/02/142955qn3wijwwywyfyihg.jpg)
 
 
 *检查逻辑卷大小*
@@ -330,7 +330,7 @@ tags:	[linuxcn,LVM]
 搜索单词autoextend。默认情况下，该值和下图中的类似。
 
 
-![LVM Configuration](/Asserts/Images//attachment/album/201411/02/142957d0ehrdyywiauu5v5.jpg)
+![LVM Configuration](/Asserts/Images/album/201411/02/142957d0ehrdyywiauu5v5.jpg)
 
 
 *LVM配置*

@@ -7,7 +7,7 @@ tags:	[linuxcn,截屏,Shutter]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/01/211059fzo531621ydrr27k.jpg)
+![](/Asserts/Images/album/202108/01/211059fzo531621ydrr27k.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,截屏,Shutter]
 现在，你只能通过个人包存档（PPA）来安装这个工具。下面是如何在 Fedora 34 及以上版本中安装它。
 
 
-![Shutter in Fedora](/Asserts/Images//attachment/album/202108/01/211141s0oiaqn6oj4phahy.jpg)
+![Shutter in Fedora](/Asserts/Images/album/202108/01/211141s0oiaqn6oj4phahy.jpg)
 
 
 ### 在 Fedora 34 及以上版本中安装 Shutter

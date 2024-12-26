@@ -7,7 +7,7 @@ tags:	[linuxcn,CPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/16/223222agxrd54xgvaexbrp.jpg)
+![](/Asserts/Images/album/201911/16/223222agxrd54xgvaexbrp.jpg)
 
 
 

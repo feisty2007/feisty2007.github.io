@@ -7,7 +7,7 @@ tags:	[linuxcn,Postfix]
 ---
 
 
-![](/Asserts/Images//attachment/album/201501/19/100749yy85b6l3byrvddrv.png)
+![](/Asserts/Images/album/201501/19/100749yy85b6l3byrvddrv.png)
 
 
 当你启动并运行应用服务器后，你就需要一台好的邮件服务器来为你传递邮件。我为我所有的服务器开通了postfix邮件服务，下面就是我常用的配置。

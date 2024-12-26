@@ -7,7 +7,7 @@ tags:	[linuxcn,恶意软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/14/080300ykkwbb9n48kj81bn.jpg)
+![](/Asserts/Images/album/202309/14/080300ykkwbb9n48kj81bn.jpg)
 
 
 

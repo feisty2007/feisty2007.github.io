@@ -15,7 +15,7 @@ tags:	[linuxcn,邮件,Alpine]
 > 
 
 
-![](/Asserts/Images//attachment/album/201808/31/201329h2gqcud5q2e0qd1q.jpg)
+![](/Asserts/Images/album/201808/31/201329h2gqcud5q2e0qd1q.jpg)
 
 
 也许你有这个经历：你试了一个程序，并且很喜欢它。多年后，有新的程序开发出来，它可以做同样的事情或者更多，甚至更好。你试了下它们，它们也很棒 —— 但你会继续使用第一个程序。
@@ -24,7 +24,7 @@ tags:	[linuxcn,邮件,Alpine]
 这是我与 [Alpine Mail](https://en.wikipedia.org/wiki/Alpine_(email_client)) 关系的故事。所以我决定写一篇赞美我最喜欢的邮件程序的文章。
 
 
-![alpine_main_menu.png](/Asserts/Images//attachment/album/201808/31/201336uvguhgzihihuiinn.png "alpine_main_menu.png")
+![alpine_main_menu.png](/Asserts/Images/album/201808/31/201336uvguhgzihihuiinn.png "alpine_main_menu.png")
 
 
 *Alpine 邮件客户端的主菜单屏幕*
@@ -48,7 +48,7 @@ tags:	[linuxcn,邮件,Alpine]
 按下 `S` 进入配置对话框。当你向下滚动列表时，很明显你可以设置 Apline 如你所希望的那样运行。如果你只有一个邮件帐户，只需移动到你想要更改的行，按下 `C`（“更改值”），然后输入值：
 
 
-![alpine_setup_configuration.png](/Asserts/Images//attachment/album/201808/31/201337fbeeloljtfd8bocr.png "alpine_setup_configuration.png")
+![alpine_setup_configuration.png](/Asserts/Images/album/201808/31/201337fbeeloljtfd8bocr.png "alpine_setup_configuration.png")
 
 
 *Alpine 设置配置屏幕*
@@ -65,7 +65,7 @@ imap.myprovider.com:993/ssl/user=max@example.com
 Alpine 会询问你是否使用“收件箱”（选择“是”）并在“服务器”两边加上大括号。完成后，按下 `E`（“退出设置”）并按下 `Y`（“是”）提交更改。回到主菜单，然后你可以移动到文件夹列表和收件箱以查看是否有邮件（系统将提示你输入密码）。你现在可以使用 `>` 和 `<` 进行移动。
 
 
-![navigating_the_message_index.png](/Asserts/Images//attachment/album/201808/31/201338xz66cg6jj6chm70c.png "navigating_the_message_index.png")
+![navigating_the_message_index.png](/Asserts/Images/album/201808/31/201338xz66cg6jj6chm70c.png "navigating_the_message_index.png")
 
 
 *在 Apline 中浏览消息索引*
@@ -77,7 +77,7 @@ Alpine 会询问你是否使用“收件箱”（选择“是”）并在“服�
 用 `^X` 发送邮件。
 
 
-![composing_an_email_in_alpine.png](/Asserts/Images//attachment/album/201808/31/201338jpv3vak38yy3pc30.png "composing_an_email_in_alpine.png")
+![composing_an_email_in_alpine.png](/Asserts/Images/album/201808/31/201338jpv3vak38yy3pc30.png "composing_an_email_in_alpine.png")
 
 
 *在 Alpine 中撰写电子邮件*

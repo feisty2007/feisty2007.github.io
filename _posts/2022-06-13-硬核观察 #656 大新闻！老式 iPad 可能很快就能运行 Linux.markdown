@@ -7,10 +7,10 @@ tags:	[linuxcn,iPad,Firefox,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/03/205725nuyz555a8501m4l4.jpg)
+![](/Asserts/Images/album/202206/03/205725nuyz555a8501m4l4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/03/205744nz81vbhn8nz8ngvg.jpg)
+![](/Asserts/Images/album/202206/03/205744nz81vbhn8nz8ngvg.jpg)
 
 
 ### 大新闻！老式 iPad 可能很快就能运行 Linux
@@ -35,7 +35,7 @@ tags:	[linuxcn,iPad,Firefox,谷歌]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/03/205757a4sslsm40kxlkmks.jpg)
+![](/Asserts/Images/album/202206/03/205757a4sslsm40kxlkmks.jpg)
 
 
 ### Firefox 推出一个本地运行的机器翻译插件
@@ -60,7 +60,7 @@ tags:	[linuxcn,iPad,Firefox,谷歌]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/03/205815yojoo3ulkko2tak2.jpg)
+![](/Asserts/Images/album/202206/03/205815yojoo3ulkko2tak2.jpg)
 
 
 ### 谷歌为开源项目推出新的芯片设计网站

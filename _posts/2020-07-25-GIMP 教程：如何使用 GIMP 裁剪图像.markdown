@@ -16,7 +16,7 @@ tags:	[linuxcn,GIMP]
 ### 如何在 GIMP 中裁剪图像
 
 
-![](/Asserts/Images//attachment/album/202007/17/232336ak7uz1f7uu557yuu.png)
+![](/Asserts/Images/album/202007/17/232336ak7uz1f7uu557yuu.png)
 
 
 #### 方法 1
@@ -28,7 +28,7 @@ tags:	[linuxcn,GIMP]
 你可以通过“工具”面板访问“裁剪工具”，如下所示：
 
 
-![](/Asserts/Images//attachment/album/202007/17/232356cheqqffjqqhuubf8.png)
+![](/Asserts/Images/album/202007/17/232356cheqqffjqqhuubf8.png)
 
 
 你还可以通过菜单访问裁剪工具：“<ruby> 工具 → 变形工具 → 裁剪 <rt>  Tools → Transform Tools → Crop </rt></ruby>”。
@@ -40,7 +40,7 @@ tags:	[linuxcn,GIMP]
 现在，你可以在图像画布上的任意位置单击鼠标左键，并将鼠标拖到某个位置以创建裁剪边界。此时你不必担心精度，因为你可以在实际裁剪之前修改最终选区。
 
 
-![](/Asserts/Images//attachment/album/202007/17/232408ee9a9yxexh0sa69y.jpg)
+![](/Asserts/Images/album/202007/17/232408ee9a9yxexh0sa69y.jpg)
 
 
 此时，将鼠标光标悬停在所选内容的四个角上会更改鼠标光标并高亮显示该区域。现在，你可以微调裁剪的选区。你可以单击并拖动任何边或角来移动部分选区。
@@ -58,13 +58,13 @@ tags:	[linuxcn,GIMP]
 裁剪图像的另一种方法是使用“矩形选择工具”进行选择：“<ruby> 工具 → 选择工具 → 选择矩形 <rt>  Tools → Selection Tools → Rectangle Select </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202007/17/232427mdx8ruzmxw85u8dz.gif)
+![](/Asserts/Images/album/202007/17/232427mdx8ruzmxw85u8dz.gif)
 
 
 然后，你可以使用与“裁剪工具”相同的方式高亮选区，并调整选区。选择好后，可以通过以下方式裁剪图像来适应选区：“<ruby> 图像 → 裁剪为选区 <rt>  Image → Crop to Selection </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202007/17/232457i2td2ppgoi22pojj.gif)
+![](/Asserts/Images/album/202007/17/232457i2td2ppgoi22pojj.gif)
 
 
 ### 总结

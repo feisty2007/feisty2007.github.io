@@ -7,7 +7,7 @@ tags:	[linuxcn,终端]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/01/230823b2n8vhe6jn5vz5uq.jpg)
+![](/Asserts/Images/album/202209/01/230823b2n8vhe6jn5vz5uq.jpg)
 
 
 有 [许多可用于 Linux 的终端仿真器](https://itsfoss.com/linux-terminal-emulators/)。从 Terminator 到 Tilix，你有多种终端可供选择。
@@ -44,7 +44,7 @@ Blackbox 是一个支持 GTK4 的终端仿真器。开发者为了他可以在 L
 谈到外观，让我们来看看它提供的不同外观。默认窗口将类似于下面的截图。
 
 
-![Default look of Blackbox terminal](/Asserts/Images//attachment/album/202209/01/230855s5izg3k3q71ttgj5.png)
+![Default look of Blackbox terminal](/Asserts/Images/album/202209/01/230855s5izg3k3q71ttgj5.png)
 
 
 #### 没有标题栏
@@ -53,13 +53,13 @@ Blackbox 是一个支持 GTK4 的终端仿真器。开发者为了他可以在 L
 你也可以取消标题栏，如下所示。这是 GTK4 应用程序中最“流行”的功能之一。
 
 
-![Blackbox without header bar](/Asserts/Images//attachment/album/202209/01/230855atcjqmqcc00qo80r.png)
+![Blackbox without header bar](/Asserts/Images/album/202209/01/230855atcjqmqcc00qo80r.png)
 
 
 你还可以在无标题栏模式下启用浮动控件。
 
 
-![Floating controls with no header bar mode](/Asserts/Images//attachment/album/202209/01/230855cbgajfj18xxxtb8g.png)
+![Floating controls with no header bar mode](/Asserts/Images/album/202209/01/230855cbgajfj18xxxtb8g.png)
 
 
 #### 轻松复制和粘贴（不要抗拒）
@@ -80,7 +80,7 @@ Blackbox 允许你通过启用“轻松复制和粘贴”设置来更改它。�
 不用担心。`Ctrl+C` 仍可用于停止正在运行的命令。
 
 
-![Easy copy-paste mode allows using Ctrl+C and Ctrl+V keys](/Asserts/Images//attachment/album/202209/01/230856sennzsxy7vkpnz38.png)
+![Easy copy-paste mode allows using Ctrl+C and Ctrl+V keys](/Asserts/Images/album/202209/01/230856sennzsxy7vkpnz38.png)
 
 
 #### 主题
@@ -89,13 +89,13 @@ Blackbox 允许你通过启用“轻松复制和粘贴”设置来更改它。�
 你还可以从设置中选择不同的主题。有几个浅色和深色主题可供选择。你还可以使用 Tilix 风格的主题。
 
 
-![Available themes for Blackbox](/Asserts/Images//attachment/album/202209/01/230856rv9oa5myazzwza05.png)
+![Available themes for Blackbox](/Asserts/Images/album/202209/01/230856rv9oa5myazzwza05.png)
 
 
 让我们看看它在 Yaru 主题和不扩展选项卡的情况下的外观，这与默认的 Blackbox 行为不同。
 
 
-![Blackbox with a changed theme](/Asserts/Images//attachment/album/202209/01/230856d55zza0sz98ubsun.png)
+![Blackbox with a changed theme](/Asserts/Images/album/202209/01/230856d55zza0sz98ubsun.png)
 
 
 #### 重置为默认
@@ -110,7 +110,7 @@ Blackbox 允许你通过启用“轻松复制和粘贴”设置来更改它。�
 该选项在“<ruby> 首选项 <rt>  Preferences </rt></ruby>”的“<ruby> 高级 <rt>  Advance </rt></ruby>”选项卡中可用。
 
 
-![reset blackbox settings to default](/Asserts/Images//attachment/album/202209/01/230857q52764hhj25v71hh.png)
+![reset blackbox settings to default](/Asserts/Images/album/202209/01/230857q52764hhj25v71hh.png)
 
 
 ### 安装 Blackbox 终端
@@ -134,7 +134,7 @@ flatpak install flathub com.raggesilver.BlackBox
 在 Fedora 和其他一些与 Flatpak 集成的发行版上，你可以从软件中心安装 Blackbox。
 
 
-![Blackbox can also be installed in GNOME Software Center](/Asserts/Images//attachment/album/202209/01/230857fowd33nwny2zndak.png)
+![Blackbox can also be installed in GNOME Software Center](/Asserts/Images/album/202209/01/230857fowd33nwny2zndak.png)
 
 
 安装后，你可以从应用菜单启动它。

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,KDE,闰秒]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/27/065547uthhudhuouzwkhpq.jpg)
+![](/Asserts/Images/album/202207/27/065547uthhudhuouzwkhpq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/27/065555pdhzzd8gdnjxwnlg.jpg)
+![](/Asserts/Images/album/202207/27/065555pdhzzd8gdnjxwnlg.jpg)
 
 
 ### 前谷歌 CEO 将 AI 比作核武器
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,KDE,闰秒]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/27/065603gjm99m9kdmkpfa91.jpg)
+![](/Asserts/Images/album/202207/27/065603gjm99m9kdmkpfa91.jpg)
 
 
 ### 流行的 KDE 桌面停靠区 Latte Dock 停止开发
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,KDE,闰秒]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/27/065619cr1i26abyz871ppz.jpg)
+![](/Asserts/Images/album/202207/27/065619cr1i26abyz871ppz.jpg)
 
 
 ### 科技公司们倡议废除闰秒

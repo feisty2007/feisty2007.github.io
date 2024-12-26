@@ -7,7 +7,7 @@ tags:	[linuxcn,JavaScript,ReactJS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/29/082104d5zn1xn77r1n8p1n.jpg)
+![](/Asserts/Images/album/202207/29/082104d5zn1xn77r1n8p1n.jpg)
 
 
 

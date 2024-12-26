@@ -7,10 +7,10 @@ tags:	[linuxcn,Arm,IDE,短信]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/09/173440c8ht1zz8shqtlll7.jpg)
+![](/Asserts/Images/album/202308/09/173440c8ht1zz8shqtlll7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/09/173451ve9x0c98zyxbyf0c.jpg)
+![](/Asserts/Images/album/202308/09/173451ve9x0c98zyxbyf0c.jpg)
 
 
 ### 一半以上的 Arm 服务器部署在亚马逊
@@ -35,7 +35,7 @@ tags:	[linuxcn,Arm,IDE,短信]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/09/173504cjdbjw5wbtqt5fdj.jpg)
+![](/Asserts/Images/album/202308/09/173504cjdbjw5wbtqt5fdj.jpg)
 
 
 ### 谷歌推出基于浏览器的全新人工智能开发环境
@@ -60,7 +60,7 @@ tags:	[linuxcn,Arm,IDE,短信]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/09/173523sayimxczmiirvcxd.jpg)
+![](/Asserts/Images/album/202308/09/173523sayimxczmiirvcxd.jpg)
 
 
 ### 谷歌信息应用将默认使用 RCS 短信

@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,MDN,NPM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/19/162603oxwlw2wx2mkjj2jv.jpg)
+![](/Asserts/Images/album/202203/19/162603oxwlw2wx2mkjj2jv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/19/162620gv9nnjhvjnwtpvnb.jpg)
+![](/Asserts/Images/album/202203/19/162620gv9nnjhvjnwtpvnb.jpg)
 
 
 ### 每一次下载的 Firefox 安装包都含有唯一识别码
@@ -27,7 +27,7 @@ tags:	[linuxcn,Firefox,MDN,NPM]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/19/162632zh3znkio2im1lhnz.jpg)
+![](/Asserts/Images/album/202203/19/162632zh3znkio2im1lhnz.jpg)
 
 
 ### 开源软件包 node-ipc 植入反俄代码遭到抨击
@@ -44,7 +44,7 @@ tags:	[linuxcn,Firefox,MDN,NPM]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/19/162651xrtpmrpp7lyaap7r.jpg)
+![](/Asserts/Images/album/202203/19/162651xrtpmrpp7lyaap7r.jpg)
 
 
 ### Mozilla 和 Open Web Docs 在 MDN 上携手合作

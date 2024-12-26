@@ -15,7 +15,7 @@ tags:	[linuxcn,Loon]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/03/213045hocmqkshcrfckccz.jpg)
+![](/Asserts/Images/album/202008/03/213045hocmqkshcrfckccz.jpg)
 
 
 ISP [Telkom Kenya](https://www.telkom.co.ke/) 正在启动第一个使用气球的商业化 4G LTE 服务，气球的作用是在漂浮在平流层中作为蜂窝塔网络。

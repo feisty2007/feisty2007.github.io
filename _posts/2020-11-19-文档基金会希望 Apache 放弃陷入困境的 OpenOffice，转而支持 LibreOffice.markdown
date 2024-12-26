@@ -16,7 +16,7 @@ tags:	[linuxcn,OpenOffice,LibreOffice]
 现在，在一封[文档基金会的公开信](https://blog.documentfoundation.org/blog/2020/10/12/open-letter-to-apache-openoffice/)中，他们呼吁 Apache OpenOffice 推荐用户开始使用更好的替代品，比如 LibreOffice。在本文中，我将提到文档基金会的博文中的一些重点，以及它对 Apache OpenOffice 的意义。
 
 
-![](/Asserts/Images//attachment/album/202011/01/100708mfi6x8jcklvi5lzu.png)
+![](/Asserts/Images/album/202011/01/100708mfi6x8jcklvi5lzu.png)
 
 
 ### Apache OpenOffice 是历史，LibreOffice 是未来？
@@ -31,7 +31,7 @@ tags:	[linuxcn,OpenOffice,LibreOffice]
 以下是 OpenOffice 和 LibreOffice 的主要发布时间线：
 
 
-![](/Asserts/Images//attachment/album/202011/01/100711xajhhajhejnskh48.jpg)
+![](/Asserts/Images/album/202011/01/100711xajhhajhejnskh48.jpg)
 
 
 现在 OpenOffice 已经没有重大的开发了，Apache OpenOffice 的未来是什么？一个相当活跃的项目，这个最大的开源基金会会不发布重大版本？

@@ -7,10 +7,10 @@ tags:	[linuxcn,Lotus 1-2-3,深度伪造,语言]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/31/173919d9dih1v1t4144ols.jpg)
+![](/Asserts/Images/album/202205/31/173919d9dih1v1t4144ols.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/31/173929r6d3y6dcocard9pd.png)
+![](/Asserts/Images/album/202205/31/173929r6d3y6dcocard9pd.png)
 
 
 ### 上古电子表格 Lotus 1-2-3 被移植到 Linux
@@ -35,7 +35,7 @@ tags:	[linuxcn,Lotus 1-2-3,深度伪造,语言]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/31/173947rwsysy323b5hwj3j.jpg)
+![](/Asserts/Images/album/202205/31/173947rwsysy323b5hwj3j.jpg)
 
 
 ### 谷歌悄悄禁止了 Colab 上的深度伪造训练项目
@@ -60,7 +60,7 @@ tags:	[linuxcn,Lotus 1-2-3,深度伪造,语言]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/31/174007v4a2fggl12fplaaf.jpg)
+![](/Asserts/Images/album/202205/31/174007v4a2fggl12fplaaf.jpg)
 
 
 ### 法国禁止英语的游戏术语以保护语言的纯洁性

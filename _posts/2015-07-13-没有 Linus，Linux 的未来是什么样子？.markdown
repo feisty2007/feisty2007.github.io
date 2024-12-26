@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201507/06/222131omf3r8jy03rqdfdj.jpg)
+![](/Asserts/Images/album/201507/06/222131omf3r8jy03rqdfdj.jpg)
 
 
 这次采访是《Linux For You》杂志在2007年进行的，现在我们发表在这里是为了存档的目的。

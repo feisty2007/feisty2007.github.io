@@ -7,10 +7,10 @@ tags:	[linuxcn,白帽黑客,TCP/IP,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/08/175638fvn9ktt9shtn0tpa.jpg)
+![](/Asserts/Images/album/202305/08/175638fvn9ktt9shtn0tpa.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/08/175649b6wnakdx1wllwl0w.jpg)
+![](/Asserts/Images/album/202305/08/175649b6wnakdx1wllwl0w.jpg)
 
 
 ### 比利时合法化白帽黑客行为
@@ -35,7 +35,7 @@ tags:	[linuxcn,白帽黑客,TCP/IP,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/08/175701dfc8443e4d8vzvcl.jpg)
+![](/Asserts/Images/album/202305/08/175701dfc8443e4d8vzvcl.jpg)
 
 
 ### TCP/IP 创造者谈其设计中犯下的三大错误
@@ -60,7 +60,7 @@ TCP/IP 的共同创造者 Vint Cerf 获得了 IEEE 2023 年度的荣誉勋章。
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/08/175715qfb38batk17t8zak.jpg)
+![](/Asserts/Images/album/202305/08/175715qfb38batk17t8zak.jpg)
 
 
 ### ChatGPT 的流量增长放缓

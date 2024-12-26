@@ -7,7 +7,7 @@ tags:	[linuxcn,发现,公告]
 ---
 
 
-![如何写出绝佳的发行说明](/Asserts/Images//attachment/album/201703/13/230842b151kk2crc2zk44w.png "How to make release notes count")
+![如何写出绝佳的发行说明](/Asserts/Images/album/201703/13/230842b151kk2crc2zk44w.png "How to make release notes count")
 
 
 *图像来源： opensource.com*

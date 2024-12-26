@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,Copilot,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/05/184310n5isy053lj9gs88i.jpg)
+![](/Asserts/Images/album/202401/05/184310n5isy053lj9gs88i.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/05/184325s4h64huottbbhx52.png)
+![](/Asserts/Images/album/202401/05/184325s4h64huottbbhx52.png)
 
 
 ### #1 Ubuntu 考虑停止提供源代码 ISO
@@ -38,7 +38,7 @@ tags:	[linuxcn,Ubuntu,Copilot,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/05/184347bc0s00cdesatsx0h.png)
+![](/Asserts/Images/album/202401/05/184347bc0s00cdesatsx0h.png)
 
 
 ### #2 微软给键盘加入了 Copilot 键
@@ -66,7 +66,7 @@ tags:	[linuxcn,Ubuntu,Copilot,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/05/184421yrhr33ol7qcq3oe3.png)
+![](/Asserts/Images/album/202401/05/184421yrhr33ol7qcq3oe3.png)
 
 
 ### #3 人工智能辅助生成的错误报告浪费了开发者的大量时间

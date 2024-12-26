@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,命令行]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/04/221255bso5csppf0437x8r.jpg)
+![](/Asserts/Images/album/201807/04/221255bso5csppf0437x8r.jpg)
 
 
 有时对于某项工作来说一个命令行工具就足以胜任。命令行工具是一种从你的 shell 或者终端之类的地方交互或运行的程序。[Git](https://git-scm.com/) 和 [Curl](https://curl.haxx.se/) 就是两个你也许已经很熟悉的命令行工具。

@@ -7,7 +7,7 @@ tags:	[linuxcn,SSL,HTTPS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/17/190358hylhj5yly5rh5pe5.jpg)
+![](/Asserts/Images/album/202207/17/190358hylhj5yly5rh5pe5.jpg)
 
 
 *在本杂志 2022 年 4 月号中，我们了解了不同类型的 SSL 证书及其应用。本文介绍如何手动更新现有 SSL 证书，以使其保持最新的安全要求。*

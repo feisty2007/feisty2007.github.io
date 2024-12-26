@@ -19,7 +19,7 @@ tags:	[linuxcn,Arch,KDE]
 ### 如何在 Arch Linux 上安装和设置 KDE 桌面环境？
 
 
-![](/Asserts/Images//attachment/album/202005/28/063618cwogppwllx4kxgow.png)
+![](/Asserts/Images/album/202005/28/063618cwogppwllx4kxgow.png)
 
 
 请记住，KDE 不允许直接以 root 身份登录。如果你已经安装了 Arch Linux 并以 root 身份使用，你应该创建一个新的用户，并给它以 root 身份运行命令的 sudo 权限。
@@ -80,7 +80,7 @@ EDITOR=nano visudo
 dimitrios ALL=(ALL) ALL
 ```
 
-![](/Asserts/Images//attachment/album/202005/28/063646lrt55gj5gkj4rggl.png)
+![](/Asserts/Images/album/202005/28/063646lrt55gj5gkj4rggl.png)
 
 
 保存你的更改，然后退出编辑器。你现在在 Arch Linux 上有了一个 sudo 用户。
@@ -126,7 +126,7 @@ shutdown now
 重新打开系统电源，你应该会看到 KDE 的登录界面。你还记得为你的 sudo 用户设置的密码吗？用它来登录。
 
 
-![](/Asserts/Images//attachment/album/202005/28/063714j4rxpcrr3ccpl52x.jpg)
+![](/Asserts/Images/album/202005/28/063714j4rxpcrr3ccpl52x.jpg)
 
 
 #### 接下来？

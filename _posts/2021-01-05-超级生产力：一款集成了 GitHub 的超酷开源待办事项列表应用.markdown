@@ -27,7 +27,7 @@ tags:	[linuxcn,代办事项]
 ### 超级生产力：一个简单的而有吸引力的开源待办事项应用程序
 
 
-![](/Asserts/Images//attachment/album/202101/30/120650stbmeepbp020bb0b.jpg)
+![](/Asserts/Images/album/202101/30/120650stbmeepbp020bb0b.jpg)
 
 
 “超级生产力”是一款开源应用，它由 [Johannes Millan](https://github.com/johannesjo) 在 GitHub 上积极维护。
@@ -42,7 +42,7 @@ tags:	[linuxcn,代办事项]
 ### “超级生产力”的功能
 
 
-![](/Asserts/Images//attachment/album/202101/30/120652cgoxoosgow473gzo.jpg)
+![](/Asserts/Images/album/202101/30/120652cgoxoosgow473gzo.jpg)
 
 
 * 添加待办事项、说明
@@ -72,7 +72,7 @@ tags:	[linuxcn,代办事项]
 ### 在 Linux 上安装“超级生产力”
 
 
-![](/Asserts/Images//attachment/album/202101/30/120654k8qw4c4j1qdbhqwm.jpg)
+![](/Asserts/Images/album/202101/30/120654k8qw4c4j1qdbhqwm.jpg)
 
 
 它有各种安装方式。我下载了 AppImage 文件测试了一下。但是，你也可以得到基于 Debian 的发行版的 deb 包。

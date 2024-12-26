@@ -7,7 +7,7 @@ tags:	[linuxcn,脚本,shell]
 ---
 
 
-![脚本之始](/Asserts/Images//attachment/album/201702/19/212538i3vwz517c8zzcq36.png "Getting started with shell scripting")
+![脚本之始](/Asserts/Images/album/201702/19/212538i3vwz517c8zzcq36.png "Getting started with shell scripting")
 
 
 世界上对 shell 脚本最好的概念性介绍来自一个老的 [AT＆T 培训视频](https://youtu.be/XvDZLjaCJuw) 。在视频中，Brian W. Kernighan（**awk** 中的“k”），Lorinda L. Cherry（**bc** 作者之一）论证了 UNIX 的基础原则之一是让用户利用现有的实用程序来定制和创建复杂的工具。

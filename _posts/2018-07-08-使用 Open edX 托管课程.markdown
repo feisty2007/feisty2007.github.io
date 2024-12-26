@@ -15,7 +15,7 @@ tags:	[linuxcn,课程,培训]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/13/130427e5auhxz8iwiw7a5a.png)
+![](/Asserts/Images/album/201807/13/130427e5auhxz8iwiw7a5a.png)
 
 
 [Open edX 平台](https://open.edx.org/about-open-edx) 是一个自由开源的课程管理系统，它是 [全世界](https://www.edx.org/schools-partners) 都在使用的大规模网络公开课（MOOC）以及小型课程和培训模块的托管平台。在 Open edX 的 [第七个主要发行版](https://openedx.atlassian.net/wiki/spaces/DOC/pages/11108700/Open+edX+Releases) 中，到现在为止，它已经提供了超过 8,000 个原创课程和 5000 万个课程注册数。你可以使用你自己的本地设备或者任何行业领先的云基础设施服务提供商来安装这个平台，而且，随着项目的[服务提供商](https://openedx.atlassian.net/wiki/spaces/COMM/pages/65667081/Open+edX+Service+Providers)名单越来越长，来自它们中的软件即服务（SaaS）的可用模型也越来越多了。
@@ -63,7 +63,7 @@ Open edX 平台的 [GitHub 仓库](https://github.com/edx/edx-platform) 包含�
 在 Open edX 平台的安装上探索是件令人兴奋的事情，从架构的角度来说，这个项目是一个典范。应用程序模块是 [Django](https://www.djangoproject.com/) 应用，它利用了大量的开源社区的顶尖项目，包括 [Ubuntu](https://www.ubuntu.com/)、[MySQL](https://www.mysql.com/)、[MongoDB](https://www.mongodb.com/)、[RabbitMQ](https://www.rabbitmq.com/)、[Elasticsearch](https://www.elastic.co/)、[Hadoop](http://hadoop.apache.org/)、等等。
 
 
-![edx-architecture.png](/Asserts/Images//attachment/album/201807/13/130517vvpxvakuxltqtvvn.png "edx-architecture.png")
+![edx-architecture.png](/Asserts/Images/album/201807/13/130517vvpxvakuxltqtvvn.png "edx-architecture.png")
 
 
 *Open edX 技术栈（CC BY，来自 edX）*

@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/15/105040b17d6v7gdmj63k3k.jpg)
+![](/Asserts/Images/album/202005/15/105040b17d6v7gdmj63k3k.jpg)
 
 
 [树莓派](https://www.raspberrypi.org/) 是一款不可缺少的单板电脑，在很多工作中都能派上用场。不相信？只要[看看这个树莓派项目列表](https://itsfoss.com/raspberry-pi-projects/)，就能了解这个小小的设备能做什么。
@@ -56,7 +56,7 @@ tags:	[linuxcn,树莓派]
 #### 1、Raspbian OS：官方的树莓派操作系统
 
 
-![](/Asserts/Images//attachment/album/202005/15/105447tbv3kv2ipbidkfhi.jpg)
+![](/Asserts/Images/album/202005/15/105447tbv3kv2ipbidkfhi.jpg)
 
 
 Raspbian OS 是官方支持的树莓派板卡操作系统。它集成了很多工具，用于教育、编程以及其他广泛的用途。具体来说，它包含了 Python、Scratch、Sonic Pi、Java 和其他一些重要的包。
@@ -74,7 +74,7 @@ Raspbian OS 是被积极地维护着的，它也是最流行的树莓派操作�
 #### 2、Ubuntu MATE：适合通用计算需求
 
 
-![](/Asserts/Images//attachment/album/202005/15/105448j27hkhchhs77srf7.jpg)
+![](/Asserts/Images/album/202005/15/105448j27hkhchhs77srf7.jpg)
 
 
 尽管 Raspbian 是官方支持的操作系统，但它的特点不是最新、最大的软件包。因此，如果你想更快的更新，想用最新的包，你可以试试 Ubuntu MATE 的树莓派版本。
@@ -92,7 +92,7 @@ Ubuntu MATE 的树莓派定制版是值得安装的非常不错的轻量级发�
 #### 3、Ubuntu Server：把树莓派作为一台 Linux 服务器来使用
 
 
-![](/Asserts/Images//attachment/album/202005/15/105449z0wzb0x06us6sbdu.png)
+![](/Asserts/Images/album/202005/15/105449z0wzb0x06us6sbdu.png)
 
 
 如果你计划把你的树莓派当作项目的某个服务器来使用，那么安装 Ubuntu Server 会是一个不错的选择。
@@ -110,7 +110,7 @@ Ubuntu Server 有 32 位和 64 位的镜像。你可以根据你的板卡类型�
 #### 4、LibreELEC：适合做媒体服务器
 
 
-![](/Asserts/Images//attachment/album/202005/15/105451fwddzzc7g1fg11oo.jpg)
+![](/Asserts/Images/album/202005/15/105451fwddzzc7g1fg11oo.jpg)
 
 
 我们已经有一个 [Linux 下可用的媒体服务器软件](https://itsfoss.com/best-linux-media-server/)，LibreELEC 在列表中。
@@ -128,7 +128,7 @@ Ubuntu Server 有 32 位和 64 位的镜像。你可以根据你的板卡类型�
 #### 5、OSMC：适合做媒体服务器
 
 
-![](/Asserts/Images//attachment/album/202005/15/105453w5mqpecpi5pe4mch.jpg)
+![](/Asserts/Images/album/202005/15/105453w5mqpecpi5pe4mch.jpg)
 
 
 OSMC 是另一个 Linux 下[流行的媒体服务器软件](https://itsfoss.com/best-linux-media-server/)。如果要把树莓派板作为媒体中心设备，那么 OSMC 是你可以向他人推荐的操作系统之一。
@@ -146,7 +146,7 @@ OSMC 没有正式提及对树莓派 4 的支持。因此，如果你的树莓派
 #### 6、RISC OS：最初的 ARM 操作系统
 
 
-![](/Asserts/Images//attachment/album/202005/15/105456ne7ggldp7p141mug.jpg)
+![](/Asserts/Images/album/202005/15/105456ne7ggldp7p141mug.jpg)
 
 
 RISC OS 最初是为 ARM 设备打造的，至今已有近 30 年左右的历史。
@@ -164,7 +164,7 @@ RISC OS 最初是为 ARM 设备打造的，至今已有近 30 年左右的历史
 #### 7、Mozilla WebThings Gateway：适合 IoT 项目
 
 
-![](/Asserts/Images//attachment/album/202005/15/105456n6ehl5i4qs94ecqx.png)
+![](/Asserts/Images/album/202005/15/105456n6ehl5i4qs94ecqx.png)
 
 
 作为 Mozilla 的 [IoT 设备的开源实现](https://iot.mozilla.org/about/)的一部分，WebThings Gateway 让你可以监控和控制所有连接的 IoT 设备。
@@ -191,7 +191,7 @@ Ubuntu Core 是专门为 IoT 设备或者具体来说是树莓派定制的。我
 #### 9、DietPi：轻量级树莓派操作系统
 
 
-![](/Asserts/Images//attachment/album/202005/15/105457nwp7hwouw57sqb5z.jpg)
+![](/Asserts/Images/album/202005/15/105457nwp7hwouw57sqb5z.jpg)
 
 
 DietPi 是一款轻量级的 [Debian](https://www.debian.org/) 操作系统，它还宣称比 “Raspbian Lite” 操作系统更轻量。
@@ -209,7 +209,7 @@ DietPi 是一款轻量级的 [Debian](https://www.debian.org/) 操作系统，�
 #### 10、Lakka Linux：打造复古的游戏主机
 
 
-![](/Asserts/Images//attachment/album/202005/15/105500xyfmvllfvvetftii.jpg)
+![](/Asserts/Images/album/202005/15/105500xyfmvllfvvetftii.jpg)
 
 
 想让你的树莓派变成一个复古的游戏主机？
@@ -227,7 +227,7 @@ Lakka Linux 发行版本最初是建立在 RetroArch 模拟器上的。因此，
 #### 11、RetroPie：适合复古游戏
 
 
-![](/Asserts/Images//attachment/album/202005/15/105502u9zb0mmgsofamsb9.png)
+![](/Asserts/Images/album/202005/15/105502u9zb0mmgsofamsb9.png)
 
 
 RetroPie 是另一款可以让树莓派变成复古游戏主机的树莓派操作系统。它提供了几个配置工具，让你可以自定义主题，或者调整模拟器即可拥有最好的复古游戏。
@@ -242,7 +242,7 @@ RetroPie 是另一款可以让树莓派变成复古游戏主机的树莓派操�
 #### 12、Kali Linux：适合低成本渗透
 
 
-![](/Asserts/Images//attachment/album/202005/15/105504s7jf4ee74y9ob6fq.png)
+![](/Asserts/Images/album/202005/15/105504s7jf4ee74y9ob6fq.png)
 
 
 想要在你的树莓派上尝试和学习一些道德黑客技巧吗？[Kali Linux](/article-10690-1.html) 会是最佳选择。是的，Kali Linux 通常在最新的树莓派一发布就会支持它。
@@ -257,7 +257,7 @@ Kali Linux 不仅适合树莓派，它也支持很多其他设备。尝试一下
 #### 13、OpenMediaVault：适合网络附加存储（NAS）
 
 
-![](/Asserts/Images//attachment/album/202005/15/105505wxkrycg4gxrfkbyg.jpg)
+![](/Asserts/Images/album/202005/15/105505wxkrycg4gxrfkbyg.jpg)
 
 
 如果你想在极简的硬件上搭建 [NAS](https://en.wikipedia.org/wiki/Network-attached_storage) 解决方案，树莓派可以帮助你。
@@ -272,7 +272,7 @@ OpenMediaVault 最初是基于 Debian Linux 的，提供了大量功能，如基
 #### 14、ROKOS：适合加密挖矿
 
 
-![](/Asserts/Images//attachment/album/202005/15/105507woz72h8th4tdxthd.jpg)
+![](/Asserts/Images/album/202005/15/105507woz72h8th4tdxthd.jpg)
 
 
 如果你对加密货币和比特币很感兴趣，那么 ROKOS 会吸引你。
@@ -299,7 +299,7 @@ ROKOS 是基于 Debian 的操作系统，基本上可以让你把你的树莓派
 #### 16、Kano OS：适合儿童教育的操作系统
 
 
-![](/Asserts/Images//attachment/album/202005/15/105509hnqwc5q43hswq9ew.jpg)
+![](/Asserts/Images/album/202005/15/105509hnqwc5q43hswq9ew.jpg)
 
 
 如果你在寻找一款能让学习变得有趣还能教育儿童的树莓派操作系统，那么 Kano OS 是个不错的选择。
@@ -314,7 +314,7 @@ ROKOS 是基于 Debian 的操作系统，基本上可以让你把你的树莓派
 #### 17、KDE Plasma Bigscreen：把普通电视转换为智能电视
 
 
-![](/Asserts/Images//attachment/album/202005/15/105510xaftfq8qyaagyza4.jpg)
+![](/Asserts/Images/album/202005/15/105510xaftfq8qyaagyza4.jpg)
 
 
 这是 KDE 一个正在开发中的项目。在树莓派上安装 [KDE “等离子大屏”](/article-12063-1.html) 后，你可以把普通电视变成智能电视。
@@ -335,7 +335,7 @@ ROKOS 是基于 Debian 的操作系统，基本上可以让你把你的树莓派
 #### 18、Manjaro Linux：为你提供多功能的桌面体验
 
 
-![](/Asserts/Images//attachment/album/202005/15/105512xxkz49e4lysxmv41.jpg)
+![](/Asserts/Images/album/202005/15/105512xxkz49e4lysxmv41.jpg)
 
 
 如果你想在树莓派上寻找一个基于 Arch 的 Linux 发行版，那么 Manjaro Linux 应该是一个很好的补充，它可以做很多事情，适合一般的计算任务。
@@ -353,7 +353,7 @@ Manjaro Linux ARM 版也支持最新的树莓派 4。它为你的树莓派或任
 #### 19、Volumio：作为一个开源音乐播放器使用
 
 
-![](/Asserts/Images//attachment/album/202005/15/105515nwwoun6x6b99jwhn.jpg)
+![](/Asserts/Images/album/202005/15/105515nwwoun6x6b99jwhn.jpg)
 
 
 想做一个廉价的音乐发烧友系统？Volumio 应该可以帮到你。

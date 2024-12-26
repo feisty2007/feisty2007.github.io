@@ -7,7 +7,7 @@ tags:	[linuxcn,磁盘,SSD]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/05/184842xf7yyd74l774yb77.jpg)
+![](/Asserts/Images/album/201702/05/184842xf7yyd74l774yb77.jpg)
 
 
 当我在运行 Linux 的计算机上安装我的第一块固态驱动器（SSD）后，我开始探索如何用好它们。SSD 在操作方式上与传统磁性驱动器不同，并且它们需要在软件上另行处理以达到功能优化。

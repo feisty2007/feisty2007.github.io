@@ -60,7 +60,7 @@ tags:	[linuxcn,Linux,用户,免费,开源,安全,稳定,后门]
 > 
 
 
- ![](/Asserts/Images//attachment/album/201310/31/111238n7ocihnklo7jnroc.jpg)
+ ![](/Asserts/Images/album/201310/31/111238n7ocihnklo7jnroc.jpg)
 
 
 ### **稳定性**

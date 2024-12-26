@@ -15,7 +15,7 @@ tags:	[linuxcn,创新]
 > 
 
 
-![Linus Torvalds at Open Source Leadership Summit](/Asserts/Images//attachment/album/201707/24/190251gpa8syj8aqs7aawp.jpg)
+![Linus Torvalds at Open Source Leadership Summit](/Asserts/Images/album/201707/24/190251gpa8syj8aqs7aawp.jpg)
 
 
 **OSLS 报道：** Linus Torvalds 认为，技术行业的创新庆祝活动是沾沾自喜，自我陶醉和自私自利的。

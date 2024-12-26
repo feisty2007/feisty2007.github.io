@@ -7,13 +7,13 @@ tags:	[linuxcn,媒体播放器]
 ---
 
 
-![SMPlayer default interface](/Asserts/Images//attachment/album/201812/19/174457nffi8ffybh111wuu.jpg)
+![SMPlayer default interface](/Asserts/Images/album/201812/19/174457nffi8ffybh111wuu.jpg)
 
 
 当你要播放视频时，你会在[全新安装的 Ubuntu](https://itsfoss.com/things-to-do-after-installing-ubuntu-18-04/)，或其他许多发行版中，会注意到一个消息：
 
 
-![](/Asserts/Images//attachment/album/201812/19/174458ek71ipkzwgwzz1fw.jpg)
+![](/Asserts/Images/album/201812/19/174458ek71ipkzwgwzz1fw.jpg)
 
 
 *默认媒体播放器没有适合的编解码器*
@@ -37,7 +37,7 @@ SMPlayer 是一个完整的媒体解决方案。它是跨平台的，因此可�
 如果你在观看没有字幕的电影，你可以直接通过 SMPlayer 下载字幕。它集成了 [opensubtitles.org](https://www.opensubtitles.org/en/search)。所以，打开浏览器，搜索字幕，下载相应的字幕，解压缩，将它们放在视频文件夹中并将字幕连接到电影，这些都不需要！SMPlayer 会为你服务。
 
 
-![Automatic subtitle download in SMPlayer](/Asserts/Images//attachment/album/201812/19/174459vqzdcioq7dp8kn0n.jpg)
+![Automatic subtitle download in SMPlayer](/Asserts/Images/album/201812/19/174459vqzdcioq7dp8kn0n.jpg)
 
 
 SMPlayer 支持 30 多种语言，并可高度自定义。它还有应用主题和大量的图标集。
@@ -46,7 +46,7 @@ SMPlayer 支持 30 多种语言，并可高度自定义。它还有应用主题�
 如果你觉得 SMPlayer 的默认界面看起来不太好，只需点击几下，它就可以看起来像这样：
 
 
-![SMPlayer skin change](/Asserts/Images//attachment/album/201812/19/174501xrs637u9ur223m2m.jpg)
+![SMPlayer skin change](/Asserts/Images/album/201812/19/174501xrs637u9ur223m2m.jpg)
 
 
 SMPlayer 为高级用户提供了许多工具和功能。它有均衡器、视频速度控制、宽高比和缩放控制、视频过滤器、屏幕截图等等。

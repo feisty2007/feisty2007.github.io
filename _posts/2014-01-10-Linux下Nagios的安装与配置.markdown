@@ -38,7 +38,7 @@ Nagios安装过程中可以设置邮件服务器，安装后也可以进行自�
 提示：为使Nagios可正常发送邮件通知，需正确配置SMTP。
 
 
-[![](/Asserts/Images//attachment/album/201412/19/230011zdhdfsbhk5kifahb.jpg)](http://www.flickr.com/photos/xmodulo/11198373625/)
+[![](/Asserts/Images/album/201412/19/230011zdhdfsbhk5kifahb.jpg)](http://www.flickr.com/photos/xmodulo/11198373625/)
 
 
 可以看到Nagios支持多种邮件传送方式。最常见的莫过于服务器（Internet Site）直接向接收者发送邮件，另一种常见的形式是用智能主机或中继服务器，将邮件传送至中继邮件服务器，然后它负责将邮件传送给接收者。
@@ -47,13 +47,13 @@ Nagios安装过程中可以设置邮件服务器，安装后也可以进行自�
 进行下一步操作时服务器的域名需要包含进去。
 
 
-[![](/Asserts/Images//attachment/album/201412/19/230014g21uht8mmrt1powr.jpg)](http://www.flickr.com/photos/xmodulo/11198394746/)
+[![](/Asserts/Images/album/201412/19/230014g21uht8mmrt1powr.jpg)](http://www.flickr.com/photos/xmodulo/11198394746/)
 
 
 最后，设置一下Nagios管理员‘nagiosadmin’的密码，用户可以之后自行修改密码。
 
 
-[![](/Asserts/Images//attachment/album/201412/19/230016i4r4zj4a0zveynfn.jpg)](http://www.flickr.com/photos/xmodulo/11198378964/)
+[![](/Asserts/Images/album/201412/19/230016i4r4zj4a0zveynfn.jpg)](http://www.flickr.com/photos/xmodulo/11198378964/)
 
 
 CentOS或RHEL下Nagios的安装
@@ -544,7 +544,7 @@ email           nagios@localhost, sentinel@example.tst
 现在一切就绪，可以开始Nagios之旅了。Ubuntu/Debian用户可以通过打开 http://IP地址/nagios3 网页访问Nagios，CentOS/RHEL用户可以打开 http://IP地址/nagios ，如 <http://172.17.1.23/nagios3> 来访问Nagios。“nagiosadmin”用户则需要认证来访问页面。
 
 
-[![](/Asserts/Images//attachment/album/201412/19/230018v737jjjmiccc3ems.jpg)](http://www.flickr.com/photos/xmodulo/11198394806/)
+[![](/Asserts/Images/album/201412/19/230018v737jjjmiccc3ems.jpg)](http://www.flickr.com/photos/xmodulo/11198394806/)
 
 
 若Nagios没有依原设定运行，首先要做的是建立一个测试运行（dry run）。

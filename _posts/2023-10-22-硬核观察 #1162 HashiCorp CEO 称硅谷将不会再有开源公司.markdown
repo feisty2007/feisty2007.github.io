@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,区块链,钓鱼]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/22/180351ovr4uw6erwgwxu1b.jpg)
+![](/Asserts/Images/album/202310/22/180351ovr4uw6erwgwxu1b.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/22/180400bxwjnwxnwjhhnjsb.jpg)
+![](/Asserts/Images/album/202310/22/180400bxwjnwxnwjhhnjsb.jpg)
 
 
 ### HashiCorp CEO 称硅谷将不会再有开源公司
@@ -35,7 +35,7 @@ tags:	[linuxcn,开源,区块链,钓鱼]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/22/180413lt3x483agn1dn8wg.jpg)
+![](/Asserts/Images/album/202310/22/180413lt3x483agn1dn8wg.jpg)
 
 
 ### 攻击者在 Binance 区块链上托管恶意软件
@@ -60,7 +60,7 @@ tags:	[linuxcn,开源,区块链,钓鱼]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/22/180427n5226lsh5hpqmpaj.jpg)
+![](/Asserts/Images/album/202310/22/180427n5226lsh5hpqmpaj.jpg)
 
 
 ### KeePass 被攻击者用国际化域名编码钓鱼

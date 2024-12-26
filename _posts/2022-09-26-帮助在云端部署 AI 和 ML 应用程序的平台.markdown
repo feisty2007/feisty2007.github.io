@@ -7,7 +7,7 @@ tags:	[linuxcn,ML,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/20/161531s8pbp5bbx44kb43b.jpg)
+![](/Asserts/Images/album/202209/20/161531s8pbp5bbx44kb43b.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,ML,AI]
 Twitter、WhatsApp、Facebook 和 Snapchat 只是使用 AI 算法存储和管理数十亿个人资料的社交媒体平台中的一小部分。 AI 可以整理和筛选大量数据，以找到最新趋势、标签和各种各样人的需求。
 
 
-![Figure 1: Key applications of machine learning](/Asserts/Images//attachment/album/202209/20/160724vrfrhff6nild45ei.jpg)
+![Figure 1: Key applications of machine learning](/Asserts/Images/album/202209/20/160724vrfrhff6nild45ei.jpg)
 
 
 旅游业越来越依赖 AI ，因为后者可以帮助完成各种与旅行相关的任务，包括为消费者预订酒店、航班和最佳路线。为了提供更好、更快的客户服务，由 AI 驱动的聊天机器人正被用于旅游业。
@@ -72,7 +72,7 @@ Twitter、WhatsApp、Facebook 和 Snapchat 只是使用 AI 算法存储和管理
 一个值得注意的 ML 和 AI 技术是图像识别，它是一种对数字图像中的特征或项进行分类和检测的方法。分类和人脸识别是使用这种方法完成的。
 
 
-![Figure 2: Streamlit cloud for machine learning](/Asserts/Images//attachment/album/202209/20/160724de80085pp5mzg33g.png)
+![Figure 2: Streamlit cloud for machine learning](/Asserts/Images/album/202209/20/160724de80085pp5mzg33g.png)
 
 
 将 ML 用于推荐系统是其最广泛使用和知名的应用之一。在当今的电子商务世界中，产品推荐是一种利用强大的 ML 技术的代表性工具。网站使用 AI 和 ML 来跟踪过去的购买、搜索趋势和购物车历史，然后根据这些数据生成产品推荐。
@@ -110,7 +110,7 @@ AI 和 ML 的应用可以部署在云平台上。如今，许多云服务提供�
 这些基于云的平台与预先训练的 ML 和<ruby> 深度学习 <rt>  deep learning </rt></ruby>（DL）模型集成在一起，无需任何编码或用少量的脚本即可在这些模型上部署应用程序。
 
 
-![Figure 3: Categories of ML deployments in Streamlit](/Asserts/Images//attachment/album/202209/20/160724xjzxjbjvzukkxbkb.png)
+![Figure 3: Categories of ML deployments in Streamlit](/Asserts/Images/album/202209/20/160724xjzxjbjvzukkxbkb.png)
 
 
 #### Streamlit
@@ -122,7 +122,7 @@ Streamlit 让数据科学家和 ML 专家能够访问各种 ML 模型。它是�
 Streamlit 提供一系列 ML 模型和多个类别的源代码，包括自然语言处理、地理、教育、计算机视觉等。
 
 
-![Figure 4: Hugging Face for machine learning](/Asserts/Images//attachment/album/202209/20/160725rnz7d1e637helh1e.png)
+![Figure 4: Hugging Face for machine learning](/Asserts/Images/album/202209/20/160725rnz7d1e637helh1e.png)
 
 
 #### Hugging Face
@@ -157,7 +157,7 @@ Hugging Face 中提供了许多预训练和部署就绪的模型，用于不同�
 Hugging Face 中可用的问题解决器经过优化且有效，有助于快速部署模型（图 5）。
 
 
-![Figure 5: Problem solvers and models in Hugging Face](/Asserts/Images//attachment/album/202209/20/160725pg3me4lleodcc3zw.png)
+![Figure 5: Problem solvers and models in Hugging Face](/Asserts/Images/album/202209/20/160725pg3me4lleodcc3zw.png)
 
 
 这些基于云的平台对多个领域的研究人员、从业者和数据科学家非常有用，并简化了性能良好的实际应用程序的开发。

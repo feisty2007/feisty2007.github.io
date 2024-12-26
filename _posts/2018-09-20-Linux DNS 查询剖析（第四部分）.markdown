@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/27/220200ozwwbwyizwydadi0.jpeg)
+![](/Asserts/Images/album/201809/27/220200ozwwbwyizwydadi0.jpeg)
 
 
 在 [Linux DNS 查询剖析（第一部分）](/article-9943-1.html)，[Linux DNS 查询剖析（第二部分）](/article-9949-1.html) 和 [Linux DNS 查询剖析（第三部分）](/article-9972-1.html) 中，我们已经介绍了以下内容：
@@ -159,7 +159,7 @@ data:
 这是通过在一个 pod 中运行我们熟知的 `dnsmasq` 实现的。
 
 
-![kubedns](/Asserts/Images//attachment/album/201809/27/220238y708309mckx80x8k.png)
+![kubedns](/Asserts/Images/album/201809/27/220238y708309mckx80x8k.png)
 
 
 剩下两种选项都比较小众：

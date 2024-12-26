@@ -7,7 +7,7 @@ tags:	[linuxcn,日志]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/12/222616h80pl0k0tt811071.jpg)
+![](/Asserts/Images/album/201906/12/222616h80pl0k0tt811071.jpg)
 
 
 分析日志文件对于 Linux 管理员来说是一件非常令人头疼的事情，因为它记录了很多东西。大多数新手和初级管理员都不知道如何分析。如果你在分析日志方面拥有很多知识，那么你就成了 \*NIX 系统高手。
@@ -129,7 +129,7 @@ $ sudo apt-get install goaccess
 执行上述命令时，它会要求您选择日志格式配置。
 
 
-![](/Asserts/Images//attachment/album/201906/12/223413bpc10rb7x0ecyc7z.png)
+![](/Asserts/Images/album/201906/12/223413bpc10rb7x0ecyc7z.png)
 
 
 我用 Apache 访问日志对此进行了测试。Apache 日志被分为十五个部分。详情如下。主要部分显示了这十五个部分的摘要。
@@ -138,19 +138,19 @@ $ sudo apt-get install goaccess
 以下屏幕截图包括四个部分，例如唯一身份访问者、请求的文件、静态请求、未找到的网址。
 
 
-![](/Asserts/Images//attachment/album/201906/12/223738gy55op5eb8yceymx.jpg)
+![](/Asserts/Images/album/201906/12/223738gy55op5eb8yceymx.jpg)
 
 
 以下屏幕截图包括四个部分，例如访客主机名和 IP、操作系统、浏览器、时间分布。
 
 
-![](/Asserts/Images//attachment/album/201906/12/223426pjj8cf8u1gsnn8rc.jpg)
+![](/Asserts/Images/album/201906/12/223426pjj8cf8u1gsnn8rc.jpg)
 
 
 以下屏幕截图包括四个部分，例如来源网址、来源网站，Google 的搜索引擎结果、HTTP状态代码。
 
 
-![](/Asserts/Images//attachment/album/201906/12/223442wt8p81rpj6zrq3p8.jpg)
+![](/Asserts/Images/album/201906/12/223442wt8p81rpj6zrq3p8.jpg)
 
 
 如果要生成 html 报告，请使用以下命令。最初我在尝试生成 html 报告时遇到错误。
@@ -177,7 +177,7 @@ No time format was found on your conf file.Parsing... [0] [0/s]
 Parsing...[0,165] [50,165/s]
 ```
 
-![](/Asserts/Images//attachment/album/201906/12/223508tlkfczlbwaamhdlf.jpg)
+![](/Asserts/Images/album/201906/12/223508tlkfczlbwaamhdlf.jpg)
 
 
 GoAccess 也允许你访问和分析实时日志并进行过滤和解析。

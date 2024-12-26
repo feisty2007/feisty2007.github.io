@@ -7,7 +7,7 @@ tags:	[linuxcn,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/22/111321f3lklgc5v35no700.jpeg)
+![](/Asserts/Images/album/201709/22/111321f3lklgc5v35no700.jpeg)
 
 
 在上个月旧金山 Twitter 总部举办的 [WomenWhoCode Connect](http://connect2017.womenwhocode.com/) 活动中参会者了解到，就像组织会形成技术债务一样，如果他们不相应地计划，也会形成一个名为“安全债务”的东西。
@@ -64,7 +64,7 @@ Plattner 说：“如果你安全计划的一部分是信任用户做正确的�
 她解释说，重要的是要净化所有的用户输入，如 [XKCD 漫画](https://xkcd.com/327/)中的那样，一位妈妈干掉整个学校的数据库——因为她的儿子的中间名是 “DropTable Students”（LCTT 译注：看不懂的[点这里](https://www.explainxkcd.com/wiki/index.php/Little_Bobby_Tables)）。
 
 
-![](/Asserts/Images//attachment/album/201709/22/111355qgddnktdgn6gnmmj.png)
+![](/Asserts/Images/album/201709/22/111355qgddnktdgn6gnmmj.png)
 
 
 所以净化所有的用户输入。你一定检查一下。

@@ -19,7 +19,7 @@ Ubuntu 双系统安装器是一些工程师花了一点时间内做出的一个�
 双系统启动不是常规 Ubuntu 发布版本中的一部分。
 
 
-![](/Asserts/Images//attachment/album/201405/28/150716ypff65p5ahpcxk5o.jpg)
+![](/Asserts/Images/album/201405/28/150716ypff65p5ahpcxk5o.jpg)
 
 
 安装后可实现以下功能
@@ -213,7 +213,7 @@ Android 下安装 Ubuntu
 注意：Ubuntu 安装需要手机上具有2.7GB以上的剩余内存空间。
 
 
-![](/Asserts/Images//attachment/album/201405/28/150544hlor7rvu7lu35o7e.jpg)
+![](/Asserts/Images/album/201405/28/150544hlor7rvu7lu35o7e.jpg)
 
 
 1. 如果需要，也可以在手机和电脑USB连接状态下，终端运行以下命令来释放空间。(接受手机上的授权询问)
@@ -320,7 +320,7 @@ dualboot.sh <device-id> channel devel-customized
 
 
 ```
-adb shell "su sh 'cd /Asserts/Images//Asserts/Images//com.canonical.ubuntu.installer/files/ && echo $CUSTOM_SERVER_URL > custom_server &&  chmod 777 custom_server'"
+adb shell "su sh 'cd /data/data/com.canonical.ubuntu.installer/files/ && echo $CUSTOM_SERVER_URL > custom_server &&  chmod 777 custom_server'"
 
 ```
 
@@ -389,7 +389,7 @@ FAQ
 ### 双启动如何工作？
 
 
-基于 Android 的手机有一系列不同用途的分区。这些分区包括 **/boot**, **/recovery**, **/system** 和 **/Asserts/Images/** 等。
+基于 Android 的手机有一系列不同用途的分区。这些分区包括 **/boot**, **/recovery**, **/system** 和 **/data** 等。
 
 
 * **boot** 分区是 bootloader 正常启动的时候载入的。这个分区的启动镜像是由一个内核和ramdisk程序组成的。简而言之，bootloader 解压启动镜像，创建一个内存盘后将镜像考入，最后使用 **初始化进程** 启动内核。
@@ -403,7 +403,7 @@ Ubuntu 以稍微不同的方式使用这些分区
 
 * **boot** 和 **recovery** 分区的作用和 Android 中一样。
 * **system 镜像** 含有在 [LXC](http://www.ibm.com/developerworks/cn/linux/l-lxc-containers/) 中执行的 Android 部分的程序。
-* **data** 分区下的 **/Asserts/Images//ubuntu/** 目录含有Ubuntu系统
+* **data** 分区下的 **/data/ubuntu/** 目录含有Ubuntu系统
 
 
 为了保证用户可以返回 Android 原来的系统，Android 系统的启动镜像是不允许修改的，因为原始内核必须保存。**所以使用 recovery 分区去启动Ubuntu**
@@ -436,17 +436,17 @@ Ubuntu 以稍微不同的方式使用这些分区
 ### Android 和 Ubuntu 如何共享用户数据分区？
 
 
-用户数据分区也放在 Ubuntu 系统镜像 /Asserts/Images//system.img, 大约有2GB。
+用户数据分区也放在 Ubuntu 系统镜像 /data/system.img, 大约有2GB。
 
 
-Ubuntu swap 文件在用户数据分区 /Asserts/Images//SWAP.img (大约540MB)。
+Ubuntu swap 文件在用户数据分区 /data/SWAP.img (大约540MB)。
 
 
 Ubuntu 的用户和系统数据也可以在以下目录找到：
 
 
-* /Asserts/Images//user-data
-* /Asserts/Images//system-data
+* /data/user-data
+* /data/system-data
 
 
 Android 数据分区的使用方式不变。

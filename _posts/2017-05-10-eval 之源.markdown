@@ -7,7 +7,7 @@ tags:	[linuxcn,eval,perl]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/02/173829x5vvjynncucmcvcw.jpg)
+![](/Asserts/Images/album/201705/02/173829x5vvjynncucmcvcw.jpg)
 
 
 （LCTT 译注：本文标题 “The root of all eval” 影射著名歌曲“The root of all evil”（万恶之源））

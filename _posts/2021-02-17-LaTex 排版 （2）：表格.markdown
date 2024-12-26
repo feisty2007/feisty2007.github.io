@@ -7,7 +7,7 @@ tags:	[linuxcn,LaTeX]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/23/113655fm74zku5x1xy7h5j.png)
+![](/Asserts/Images/album/202102/23/113655fm74zku5x1xy7h5j.png)
 
 
 LaTeX 提供了许多工具来创建和定制表格，在本系列中，我们将使用 `tabular` 和 `tabularx` 环境来创建和定制表。
@@ -31,7 +31,7 @@ LaTeX 提供了许多工具来创建和定制表格，在本系列中，我们�
 
 ```
 
-![Basic Table](/Asserts/Images//attachment/album/202102/23/113656b56vdxd4x15evw69.png)
+![Basic Table](/Asserts/Images/album/202102/23/113656b56vdxd4x15evw69.png)
 
 
 在上面的示例中，花括号中的 ”{c|c}” 表示文本在列中的位置。下表总结了位置参数及其说明。
@@ -92,7 +92,7 @@ LaTeX 提供了许多工具来创建和定制表格，在本系列中，我们�
 
 ```
 
-![Customise Table](/Asserts/Images//attachment/album/202102/23/113656kvzgzbqi0l1jiiez.png)
+![Customise Table](/Asserts/Images/album/202102/23/113656kvzgzbqi0l1jiiez.png)
 
 
 ### 管理长文本
@@ -113,7 +113,7 @@ LaTeX 提供了许多工具来创建和定制表格，在本系列中，我们�
 
 ```
 
-![Default Formatting](/Asserts/Images//attachment/album/202102/23/113656qt28t2a9zz9ydn5a.png)
+![Default Formatting](/Asserts/Images/album/202102/23/113656qt28t2a9zz9ydn5a.png)
 
 
 正如你所看到的，文本超出了页面宽度；但是，有几个选项可以克服这个问题。
@@ -138,7 +138,7 @@ LaTeX 提供了许多工具来创建和定制表格，在本系列中，我们�
 
 ```
 
-![Column Width](/Asserts/Images//attachment/album/202102/23/113657wvz00wc2kcxdqvtv.png)
+![Column Width](/Asserts/Images/album/202102/23/113657wvz00wc2kcxdqvtv.png)
 
 
 #### 使用 tabularx 管理长文本
@@ -156,7 +156,7 @@ Text &\blindtext \\ \hline
 
 ```
 
-![Tabularx](/Asserts/Images//attachment/album/202102/23/113657mvm6uhe7vmhcem34.png)
+![Tabularx](/Asserts/Images/album/202102/23/113657mvm6uhe7vmhcem34.png)
 
 
 请注意，我们需要处理长文本的列在花括号中指定了大写 `X`。
@@ -185,7 +185,7 @@ Text &\blindtext \\ \hline
 
 ```
 
-![MultiRow](/Asserts/Images//attachment/album/202102/23/113657jd1y1mbzcd1sbyh1.png)
+![MultiRow](/Asserts/Images/album/202102/23/113657jd1y1mbzcd1sbyh1.png)
 
 
 在上面的示例中，指定了两行，`*` 告诉 LaTeX 自动管理单元格的大小。
@@ -207,7 +207,7 @@ Text &\blindtext \\ \hline
 
 ```
 
-![Multi-Column](/Asserts/Images//attachment/album/202102/23/113658hn9dvnqd20psdvpn.png)
+![Multi-Column](/Asserts/Images/album/202102/23/113658hn9dvnqd20psdvpn.png)
 
 
 ### 使用颜色
@@ -242,13 +242,13 @@ Text &\blindtext \\ \hline
 
 ```
 
-![Alt colour table](/Asserts/Images//attachment/album/202102/23/113658uqg4sszyglqwiklw.png)
+![Alt colour table](/Asserts/Images/album/202102/23/113658uqg4sszyglqwiklw.png)
 
 
 除了上面的例子，`\rowcolor` 可以用来指定每一行的颜色，这个方法在有合并行时效果最好。以下示例显示将 `\rowColors` 与合并行一起使用的影响以及如何解决此问题。
 
 
-![Impact on multi-row](/Asserts/Images//attachment/album/202102/23/113658cupkwcukb81odh8b.png)
+![Impact on multi-row](/Asserts/Images/album/202102/23/113658cupkwcukb81odh8b.png)
 
 
 你可以看到，在合并行中，只有第一行能显示颜色。想要解决这个问题，需要这样做：
@@ -265,7 +265,7 @@ Text &\blindtext \\ \hline
 
 ```
 
-![Multi-row](/Asserts/Images//attachment/album/202102/23/113658ixxh6wppghlxzlia.png)
+![Multi-row](/Asserts/Images/album/202102/23/113658ixxh6wppghlxzlia.png)
 
 
 让我们讲解一下为解决合并行替换颜色问题而实施的更改。
@@ -303,7 +303,7 @@ Text &\blindtext \\ \hline
 
 ```
 
-![Column Colour](/Asserts/Images//attachment/album/202102/23/113659kz79ixig6s6a6gei.png)
+![Column Colour](/Asserts/Images/album/202102/23/113659kz79ixig6s6a6gei.png)
 
 
 ### 横向表
@@ -336,7 +336,7 @@ Text &\blindtext \\ \hline
 
 ```
 
-![Sideways Table](/Asserts/Images//attachment/album/202102/23/113659kk7nt07l6gmy6lj2.png)
+![Sideways Table](/Asserts/Images/album/202102/23/113659kk7nt07l6gmy6lj2.png)
 
 
 ### 列表和表格
@@ -361,7 +361,7 @@ Text &\blindtext \\ \hline
 
 ```
 
-![List in tabularx](/Asserts/Images//attachment/album/202102/23/113700myi4lvtptpnknzy8.png)
+![List in tabularx](/Asserts/Images/album/202102/23/113700myi4lvtptpnknzy8.png)
 
 
 #### 用 tabular 处理列表
@@ -380,7 +380,7 @@ Text &\blindtext \\ \hline
 
 ```
 
-![List in tabular](/Asserts/Images//attachment/album/202102/23/113700ixz7vtxxtv933r3r.png)
+![List in tabular](/Asserts/Images/album/202102/23/113700ixz7vtxxtv933r3r.png)
 
 
 ### 总结
@@ -413,7 +413,7 @@ LaTeX 提供了许多使用 `tablar` 和 `tablarx` 自定义表的方法，你�
 这是一堂关于表的小课，有关表和 LaTex 的更多高级信息，请访问 [LaTex Wiki](https://en.wikibooks.org/wiki/LaTeX/Tables)
 
 
-![](/Asserts/Images//attachment/album/202102/23/113659kz79ixig6s6a6gei.png)
+![](/Asserts/Images/album/202102/23/113659kz79ixig6s6a6gei.png)
 
 
 

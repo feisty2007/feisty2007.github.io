@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派,办公室]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/23/153615u7gylclg77ospl3s.jpg)
+![](/Asserts/Images/album/201812/23/153615u7gylclg77ospl3s.jpg)
 
 
 我知道你在想什么：树莓派只能用在修修补补、原型设计和个人爱好中。它实际不能用在业务中。

@@ -10,7 +10,7 @@ tags:	[linuxcn,CGI,Python]
 你是否想使用Python语言创建一个网页，或者处理用户从web表单输入的数据？这些任务可以通过Python CGI(公用网关接口)脚本以及一个Apache web服务器实现。当用户请求一个指定URL或者和网页交互(比如点击""提交"按钮)的时候，CGI脚本就会被web服务器启用。CGI脚本调用执行完毕后，它的输出结果就会被web服务器用来创建显示给用户的网页。
 
 
-![](/Asserts/Images//attachment/album/201412/04/232938y1l1ttm7mmmjjmmk.png)
+![](/Asserts/Images/album/201412/04/232938y1l1ttm7mmmjjmmk.png)
 
 
 ### 配置Apache web服务器，让其能运行CGI脚本
@@ -147,7 +147,7 @@ import cgi
 当"提交"按钮被点击，/var/www/cgi-bin/myscript-1.py脚本将被调用(通过action参数指定)。通过设置方法参数为"get"来指定一个"GET"请求，服务器将会返回指定的网页。/var/www/html/page1.html在浏览器中的显示情况如下：
 
 
-![](/Asserts/Images//attachment/album/201412/04/232941b1d4dd2d6axx6u54.jpg)
+![](/Asserts/Images/album/201412/04/232941b1d4dd2d6axx6u54.jpg)
 
 
 /var/www/cgi-bin/myscript-1.py的内容如下：
@@ -171,7 +171,7 @@ print "</html>"
 当"Submit"按钮点击，下面的网页将返回：
 
 
-![](/Asserts/Images//attachment/album/201412/04/232943rn7iiws4g8z8pp78.jpg)
+![](/Asserts/Images/album/201412/04/232943rn7iiws4g8z8pp78.jpg)
 
 
 这个例子的要点是你可以决定哪些信息可以被CGI脚本返回。这可能包括日志文件的内容，当前登陆用户的列表，或者今天的日期。在你处理时拥有所有python库的可能性是无穷无尽的。
@@ -200,7 +200,7 @@ Position: <input type="text" name="position"><br>
 当"Submit"按钮点击，/var/www/cgi-bin/myscript-2.py脚本将被执行(通过action参数指定)。/var/www//html/page2.html显示在web浏览器中的图片如下所示(注意，三个输入域已经被填写好了)：
 
 
-![](/Asserts/Images//attachment/album/201412/04/232945rje944yen44u84m1.jpg)
+![](/Asserts/Images/album/201412/04/232945rje944yen44u84m1.jpg)
 
 
 /var/www/cgi-bin/myscript-2.py的内容如下：
@@ -231,7 +231,7 @@ print "</html>"
 当网页上的"Submit"按钮被点击，下面的网页将被返回。
 
 
-![](/Asserts/Images//attachment/album/201412/04/232946w442bc70r7ebczwz.jpg)
+![](/Asserts/Images/album/201412/04/232946w442bc70r7ebczwz.jpg)
 
 
 这个例子的要点就是你可以很容易地读取并显示用户在web表单上输入的数据。除了以字符串的方式处理数据，你也可以用Python将用户输入的数据转化为可用于数值计算的数字。

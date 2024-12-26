@@ -7,7 +7,7 @@ tags:	[linuxcn,HTTPie,curl,wget]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/22/123041icp13cxtkrs0morx.jpg)
+![](/Asserts/Images/album/201904/22/123041icp13cxtkrs0morx.jpg)
 
 
 大多数时间我们会使用 `curl` 命令或是 `wget` 命令下载文件或者做其他事。

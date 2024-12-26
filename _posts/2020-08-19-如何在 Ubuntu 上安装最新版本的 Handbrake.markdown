@@ -15,7 +15,7 @@ tags:	[linuxcn,HandBrake]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/13/223818yghmgmagqggm2pa0.jpg)
+![](/Asserts/Images/album/202008/13/223818yghmgmagqggm2pa0.jpg)
 
 
 [HandBrake](https://handbrake.fr/) 是可用于 Linux、Windows 和 macOS 的最受欢迎的开源视频转换器之一。
@@ -63,7 +63,7 @@ sudo apt-get install handbrake-gtk
 这个方法最好的地方是会删除旧的 handbrake 软件包，从而避免安装两个不同版本的 handbrake。
 
 
-![](/Asserts/Images//attachment/album/202008/13/223951sh65r661p3g1toti.png)
+![](/Asserts/Images/album/202008/13/223951sh65r661p3g1toti.png)
 
 
 在你的 Linux 系统上享受最新最好的 HandBrake 并转换视频。

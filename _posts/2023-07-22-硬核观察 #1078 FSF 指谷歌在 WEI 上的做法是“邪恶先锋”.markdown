@@ -7,10 +7,10 @@ tags:	[linuxcn,Python,WEI,CentOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/30/164231hc2zl7zdsdshz8cx.jpg)
+![](/Asserts/Images/album/202307/30/164231hc2zl7zdsdshz8cx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/30/164242leupg0l60f30pfhf.jpg)
+![](/Asserts/Images/album/202307/30/164242leupg0l60f30pfhf.jpg)
 
 
 ### FSF 指谷歌在 WEI 上的做法是“邪恶先锋”
@@ -35,7 +35,7 @@ tags:	[linuxcn,Python,WEI,CentOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/30/164254z6rwr2w6oo6sttrt.jpg)
+![](/Asserts/Images/album/202307/30/164254z6rwr2w6oo6sttrt.jpg)
 
 
 ### AlmaLinux 向红帽示好，被拒绝了
@@ -60,7 +60,7 @@ tags:	[linuxcn,Python,WEI,CentOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/30/164311qzwooz74yr424xpo.jpg)
+![](/Asserts/Images/album/202307/30/164311qzwooz74yr424xpo.jpg)
 
 
 ### Python 接受可选全局解释器锁提案

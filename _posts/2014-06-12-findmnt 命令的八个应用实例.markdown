@@ -13,7 +13,7 @@ tags:	[linuxcn,findmnt]
 linux 中常用的检查已挂载的文件系统的是 mount 命令，不仅用于列出已挂载的设备，而且可以在需要的时候挂载和卸载。另外还有一个叫做 findmnt 的超赞命令，它可以用于快速查看挂载位置和选项。
 
 
-![](/Asserts/Images//attachment/album/201406/02/001336i32h4ujue2z4j4e4.png)
+![](/Asserts/Images/album/201406/02/001336i32h4ujue2z4j4e4.png)
 
 
 ### 安装findmnt
@@ -46,7 +46,7 @@ $ findmnt
 
 ```
 
-![](/Asserts/Images//attachment/album/201406/02/001339bsfxq92tfqfffl3h.png)
+![](/Asserts/Images/album/201406/02/001339bsfxq92tfqfffl3h.png)
 
 
 #### 2. 以列表形式输出

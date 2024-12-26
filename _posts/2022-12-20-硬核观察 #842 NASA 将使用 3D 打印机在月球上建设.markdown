@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,摩尔定律,3D 打印]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/06/185251cw5l50852e9kjlo7.jpg)
+![](/Asserts/Images/album/202212/06/185251cw5l50852e9kjlo7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/06/185308g4pce8z5eyk7vkv8.jpg)
+![](/Asserts/Images/album/202212/06/185308g4pce8z5eyk7vkv8.jpg)
 
 
 ### NASA 将使用 3D 打印机在月球上建设
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,摩尔定律,3D 打印]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/06/185322s75pcjrzxx5wmwr5.jpg)
+![](/Asserts/Images/album/202212/06/185322s75pcjrzxx5wmwr5.jpg)
 
 
 ### Adobe 将销售 AI 生成的图片库
@@ -60,7 +60,7 @@ dobe 认为生成性 AI 将会在未来的内容创作中扮演重要角色，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/06/185446ml3nn322f61w7zx6.jpg)
+![](/Asserts/Images/album/202212/06/185446ml3nn322f61w7zx6.jpg)
 
 
 ### AMD 暗示摩尔定律将继续保持 6 至 8 年

@@ -7,7 +7,7 @@ tags:	[linuxcn,Podman,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/16/222143wch1jx781x4ec47w.jpg)
+![](/Asserts/Images/album/202102/16/222143wch1jx781x4ec47w.jpg)
 
 
 容器很棒，让你可以将你的应用连同其依赖项一起打包，并在任何地方运行。从 2013 年的 Docker 开始，容器已经让软件开发者的生活变得更加轻松。
@@ -136,7 +136,7 @@ networks:
 请注意，`docker-compose.yaml` 包含了一个从主机 8080 端口到容器 80 端口的 Web 服务的端口转发。现在你应该可以通过浏览器访问新 WordPress 实例，地址为 `http://localhost:8080`。
 
 
-![WordPress Dashboard](/Asserts/Images//attachment/album/202102/16/222143atcbb6hh8e77h7cl.png)
+![WordPress Dashboard](/Asserts/Images/album/202102/16/222143atcbb6hh8e77h7cl.png)
 
 
 ### 控制 pod 和容器

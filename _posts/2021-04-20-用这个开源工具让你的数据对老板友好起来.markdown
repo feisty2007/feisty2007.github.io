@@ -15,7 +15,7 @@ tags:	[linuxcn,数据]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/19/092617elri0ff4r6lr06rr.jpg "metrics and data shown on a computer screen")
+![](/Asserts/Images/album/202104/19/092617elri0ff4r6lr06rr.jpg "metrics and data shown on a computer screen")
 
 
 <ruby> 企业数据分析 <rt>  Enterprise Data Analytics </rt></ruby>（[EDA](https://eda.jortilles.com/en/jortilles-english/)） 是一个网页应用，它可以通过一个简单、清晰的界面来获取信息。
@@ -27,7 +27,7 @@ tags:	[linuxcn,数据]
 我们之所以开发 EDA，是因为我们认为获取信息是现代组织的要求和义务，并希望为每个人提供获取信息的机会。
 
 
-![EDA interface](/Asserts/Images//attachment/album/202104/19/092625lw3oc39uum93mqzw.jpg "EDA interface")
+![EDA interface](/Asserts/Images/album/202104/19/092625lw3oc39uum93mqzw.jpg "EDA interface")
 
 
 ### 可视化你的数据
@@ -89,7 +89,7 @@ EDA 将自动为你生成数据模型。它读取表和列，并为它们定义�
 接下来，运行一个查询，并选择你想要的可视化。
 
 
-![EDA interface](/Asserts/Images//attachment/album/202104/19/092625f7w4nzwugztwu0qk.jpg "EDA interface")
+![EDA interface](/Asserts/Images/album/202104/19/092625f7w4nzwugztwu0qk.jpg "EDA interface")
 
 
 你可以添加任意数量的面板、过滤器和文本字段，所有这些都有说明。当你保存仪表板后，你可以查看它，与同事分享，甚至发布到互联网上。

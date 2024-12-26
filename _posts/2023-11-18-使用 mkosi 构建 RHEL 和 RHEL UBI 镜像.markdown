@@ -7,7 +7,7 @@ tags:	[linuxcn,镜像,mkosi]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/27/232213c9y5jt85t7vj8men.png)
+![](/Asserts/Images/album/202311/27/232213c9y5jt85t7vj8men.png)
 
 
 mkosi 是一个轻量级工具，用于从发行版软件包构建镜像。本文介绍如何使用 mkosi 从 RHEL 和 RHEL <ruby> <a href="https://uapi-group.org/specifications/specs/discoverable_disk_image/">  通用基础镜像 </a> <rt>  Universal Base Image </rt></ruby>（UBI）的软件包构建镜像。RHEL UBI 是 RHEL 的一个子集，可以在没有订阅的情况下免费使用。

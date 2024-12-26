@@ -7,7 +7,7 @@ tags:	[linuxcn,Fabric]
 ---
 
 
-![Hyperledger Fabric](/Asserts/Images//attachment/album/201910/15/084146enrcnuhzr89r1uuc.png)
+![Hyperledger Fabric](/Asserts/Images/album/201910/15/084146enrcnuhzr89r1uuc.png)
 
 
 ### Hyperledger Fabric

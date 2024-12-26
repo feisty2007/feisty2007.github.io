@@ -10,7 +10,7 @@ tags:	[linuxcn,rsync]
 **rsync**是一个十分有用，而且十分流行的linux工具。它用于备份和恢复文件，也用于对比和同步文件。我们已经在前面的文章讲述了[如何在Linux下使用rsync](http://linux.cn/article-4503-1.html)，而今天我们将增加一些更为有用的rsync使用技巧。
 
 
-![](/Asserts/Images//attachment/album/201412/22/211129pzu2cgsd7dlz933t.jpg)
+![](/Asserts/Images/album/201412/22/211129pzu2cgsd7dlz933t.jpg)
 
 
 ### 排除文件和目录列表
@@ -22,7 +22,7 @@ tags:	[linuxcn,rsync]
 首先，让我们创建一个名为“excluded”的文件（当然，你想取什么名都可以），然后将我们想要排除的文件夹或文件写入该文件，一行一个。在我们的例子中，如果你想要对根分区进行完整的备份，你应该排除一些在启动时创建的设备目录和放置临时文件的目录，列表看起来像下面这样：
 
 
-![rsync excluded](/Asserts/Images//attachment/album/201412/22/211143ws9i3xolll2kxzq3.jpg)
+![rsync excluded](/Asserts/Images/album/201412/22/211143ws9i3xolll2kxzq3.jpg)
 
 
 然后，你可以运行以下命令来备份系统：
@@ -34,7 +34,7 @@ $ sudo rsync -aAXhv --exclude-from=excluded / /mnt/backup
 
 ```
 
-![rsync exclude file](/Asserts/Images//attachment/album/201412/22/211145q99j2h1hhtgwa92i.jpg)
+![rsync exclude file](/Asserts/Images/album/201412/22/211145q99j2h1hhtgwa92i.jpg)
 
 
 ### 从命令行排除文件
@@ -52,7 +52,7 @@ $ sudo rsync -aAXhv --exclude={"/var/cache","/var/tmp"} /var /home/adrian/var
 
 ```
 
-![rsync exclude](/Asserts/Images//attachment/album/201412/22/211148tdy8rm7adndvy8d1.jpg)
+![rsync exclude](/Asserts/Images/album/201412/22/211148tdy8rm7adndvy8d1.jpg)
 
 
 该命令易于在脚本或cron中使用，也不会依赖其它文件。

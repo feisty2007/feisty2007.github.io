@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,CLI,参数]
 > 
 
 
-![](/Asserts/Images//attachment/album/202006/05/231539dyinqzceci4ci8vv.jpg)
+![](/Asserts/Images/album/202006/05/231539dyinqzceci4ci8vv.jpg)
 
 
 本文的目标很简单：帮助新的 Python 开发者了解一些关于[命令行接口](https://en.wikipedia.org/wiki/Command-line_interface)（CLI）的历史和术语，并探讨如何在 Python 中编写这些有用的程序。

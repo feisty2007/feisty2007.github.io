@@ -16,7 +16,7 @@ MariaDB 是深受欢迎的数据库管理服务器软件 MySQL 的一个自由�
 在这篇文章中，我将向你们展示如何在 Debian 和 Ubuntu 发行版中安装 MariaDB 10.1 稳定版。
 
 
-![](/Asserts/Images//attachment/album/201703/09/093831px5p3jo36oa3qmxv.jpg)
+![](/Asserts/Images/album/201703/09/093831px5p3jo36oa3qmxv.jpg)
 
 
 ### 在 Debian 和 Ubuntu 上安装 MariaDB
@@ -115,7 +115,7 @@ $ sudo apt-get install mariadb-server
 安装过程中，将会请求你配置 MariaDB 服务器；在下面的页面中设置一个安全的 root 用户密码：
 
 
-![Set New Root Password for MariaDB](/Asserts/Images//attachment/album/201703/09/093844ye4nfvn99p784bby.png)
+![Set New Root Password for MariaDB](/Asserts/Images/album/201703/09/093844ye4nfvn99p784bby.png)
 
 
 *为 MariaDB 设置新的 Root 密码*
@@ -124,7 +124,7 @@ $ sudo apt-get install mariadb-server
 再次输入密码并按下回车键来继续安装。
 
 
-![Repeat MariaDB Password](/Asserts/Images//attachment/album/201703/09/093844zpl8njiaz81xp1w9.png)
+![Repeat MariaDB Password](/Asserts/Images/album/201703/09/093844zpl8njiaz81xp1w9.png)
 
 
 *再次输入 MariaDB 密码*
@@ -148,7 +148,7 @@ $ sudo service mysql status
 
 ```
 
-![Start MariaDB Service](/Asserts/Images//attachment/album/201703/09/093845kol9io39rlmpp3lo.png)
+![Start MariaDB Service](/Asserts/Images/album/201703/09/093845kol9io39rlmpp3lo.png)
 
 
 *开启 MariaDB 服务*
@@ -170,7 +170,7 @@ $ sudo mysql_secure_installation
 
 ```
 
-![Secure MariaDB Installation](/Asserts/Images//attachment/album/201703/09/093845i2ixc3yxec3mc522.png)
+![Secure MariaDB Installation](/Asserts/Images/album/201703/09/093845i2ixc3yxec3mc522.png)
 
 
 *保护 MariaDB 安装*
@@ -186,7 +186,7 @@ $ mysql -u root -p
 
 ```
 
-![Check MariaDB Version](/Asserts/Images//attachment/album/201703/09/093846n2g0jy5g2pkuadwe.png)
+![Check MariaDB Version](/Asserts/Images/album/201703/09/093846n2g0jy5g2pkuadwe.png)
 
 
 *查看 MariaDB 版本*

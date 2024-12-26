@@ -10,7 +10,7 @@ tags:	[linuxcn,Windows]
 Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，它是 Windows 8.1 的继任者。Windows 10 支持 Intel 32位平台，AMD64 以及 ARM v7 处理器。
 
 
-![Windows 10 and Linux Comparison](/Asserts/Images//attachment/album/201602/12/113230xooo492o9ex5dxhv.jpg)
+![Windows 10 and Linux Comparison](/Asserts/Images/album/201602/12/113230xooo492o9ex5dxhv.jpg)
 
 
 作为一个连续使用 linux 超过8年的用户，我想要去体验一下 Windows 10 ，因为有很多关于它的消息。这篇文章是我观察力的一个重大突破。我将从一个 linux 用户的角度去看待一切，所以这篇文章可能会有些偏向于 linux。尽管如此，本文也绝对不会有任何虚假信息。
@@ -19,7 +19,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 1、用谷歌搜索“download Windows 10”并且点击第一个链接。
 
 
-![Search Windows 10](/Asserts/Images//attachment/album/201602/12/113230w7s5wn5d3b75xa3w.jpg)
+![Search Windows 10](/Asserts/Images/album/201602/12/113230w7s5wn5d3b75xa3w.jpg)
 
 
 *搜索 Windows 10*
@@ -31,7 +31,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 2、微软要求我从 Windows 10， Windows 10 KN， Windows 10 N 和 Windows 10 单语言版中选择一个版本。
 
 
-![Select Windows 10 Edition](/Asserts/Images//attachment/album/201602/12/113231on2jpjajqqgozjqs.jpg)
+![Select Windows 10 Edition](/Asserts/Images/album/201602/12/113231on2jpjajqqgozjqs.jpg)
 
 
 *选择版本*
@@ -52,7 +52,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 微软给我提供了两个下载链接。一个是32位版，另一个是64位版。我单击了64位版--这与我的电脑架构相同。
 
 
-![Download Windows 10](/Asserts/Images//attachment/album/201602/12/113231yzx0qyy7adyykp90.jpg)
+![Download Windows 10](/Asserts/Images/album/201602/12/113231yzx0qyy7adyykp90.jpg)
 
 
 *下载 Windows 10*
@@ -103,7 +103,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 1、Windows 10启动成功了。他们又换了logo，但是仍然没有信息提示我它正在做什么。
 
 
-![Windows 10 Logo](/Asserts/Images//attachment/album/201602/12/113231o6fdweffde16kle0.jpg)
+![Windows 10 Logo](/Asserts/Images/album/201602/12/113231o6fdweffde16kle0.jpg)
 
 
 *Windows 10 Logo*
@@ -112,7 +112,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 2、选择安装语言，时区，键盘，输入法，点击下一步。
 
 
-![Select Language and Time](/Asserts/Images//attachment/album/201602/12/113233o7e2d44y12ys9fff.jpg)
+![Select Language and Time](/Asserts/Images/album/201602/12/113233o7e2d44y12ys9fff.jpg)
 
 
 *选择语言和时区*
@@ -121,7 +121,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 3、点击“现在安装”。
 
 
-![Install Windows 10](/Asserts/Images//attachment/album/201602/12/113234zf39gyg9g99fvrzf.jpg)
+![Install Windows 10](/Asserts/Images/album/201602/12/113234zf39gyg9g99fvrzf.jpg)
 
 
 *安装Ｗindows 10*
@@ -130,7 +130,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 4、下一步是输入密钥，我点击了“跳过”。
 
 
-![Windows 10 Product Key](/Asserts/Images//attachment/album/201602/12/113235jv6szg2izxupqps4.jpg)
+![Windows 10 Product Key](/Asserts/Images/album/201602/12/113235jv6szg2izxupqps4.jpg)
 
 
 *Windows 10 产品密钥*
@@ -139,7 +139,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 5、从列表中选择一个系统版本。我选择了 Windows 10专业版。
 
 
-![Select Install Operating System](/Asserts/Images//attachment/album/201602/12/113236qydp9ydpn5p7tfv8.jpg)
+![Select Install Operating System](/Asserts/Images/album/201602/12/113236qydp9ydpn5p7tfv8.jpg)
 
 
 *选择系统版本*
@@ -148,7 +148,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 6、到了协议部分，选中"我接受"然后点击下一步。
 
 
-![Accept License](/Asserts/Images//attachment/album/201602/12/113237duam6j9jfiiuuuix.jpg)
+![Accept License](/Asserts/Images/album/201602/12/113237duam6j9jfiiuuuix.jpg)
 
 
 *同意协议*
@@ -157,7 +157,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 7、下一步是选择（从 Windows 的老版本）升级到 Windows 10 或者安装 Ｗindows。我搞不懂为什么微软要让我自己选择：“安装Ｗindows”被微软建议为“高级”选项。但是我还是选择了“安装Windows”。
 
 
-![Select Installation Type](/Asserts/Images//attachment/album/201602/12/113239uwf31iic5rprhhmq.jpg)
+![Select Installation Type](/Asserts/Images/album/201602/12/113239uwf31iic5rprhhmq.jpg)
 
 
 *选择安装类型*
@@ -166,7 +166,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 8、选择驱动器，点击“下一步”。
 
 
-![Select Install Drive](/Asserts/Images//attachment/album/201602/12/113240z97iii5iii9rnt7l.jpg)
+![Select Install Drive](/Asserts/Images/album/201602/12/113240z97iii5iii9rnt7l.jpg)
 
 
 *选择安装盘*
@@ -175,7 +175,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 9、安装程序开始复制文件，准备文件，安装更新，之后进行收尾。如果安装程序能在安装时输出一堆字符来表示它在做什么就更好了。
 
 
-![Installing Windows](/Asserts/Images//attachment/album/201602/12/113241xzp4bqnrm2w0muzx.jpg)
+![Installing Windows](/Asserts/Images/album/201602/12/113241xzp4bqnrm2w0muzx.jpg)
 
 
 *安装 Windows*
@@ -184,7 +184,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 10、在此之后 Windows 重启了。它们说要继续的话，我们需要重启。
 
 
-![Windows Installation Process](/Asserts/Images//attachment/album/201602/12/113242az0cmb1997m27tcm.jpg)
+![Windows Installation Process](/Asserts/Images/album/201602/12/113242az0cmb1997m27tcm.jpg)
 
 
 *安装进程*
@@ -193,7 +193,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 11、我看到了一个写着“正在准备 Windows”的界面。它停了整整五分多钟！仍然没有说明它正在做什么。没有输出。
 
 
-![Windows Getting Ready](/Asserts/Images//attachment/album/201602/12/113243gkbvotvnq6o3qw66.jpg)
+![Windows Getting Ready](/Asserts/Images/album/201602/12/113243gkbvotvnq6o3qw66.jpg)
 
 
 *正在准备 Windows*
@@ -202,13 +202,13 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 12、又到了输入产品密钥的时间。我点击了“以后再说”，并使用快速设置。
 
 
-![Enter Product Key](/Asserts/Images//attachment/album/201602/12/113244l0aa0jhoh20ar900.jpg)
+![Enter Product Key](/Asserts/Images/album/201602/12/113244l0aa0jhoh20ar900.jpg)
 
 
 *输入产品密钥*
 
 
-![Select Express Settings](/Asserts/Images//attachment/album/201602/12/113246mkjljjbkc54lzfc5.jpg)
+![Select Express Settings](/Asserts/Images/album/201602/12/113246mkjljjbkc54lzfc5.jpg)
 
 
 *使用快速设置*
@@ -217,19 +217,19 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 13、又出现了三个界面，作为 Linux 用户我认为此处应有信息来告诉我安装程序在做什么，但是我想多了。
 
 
-![Loading Windows](/Asserts/Images//attachment/album/201602/12/113247iqjpjw6ol8drlxq1.jpg)
+![Loading Windows](/Asserts/Images/album/201602/12/113247iqjpjw6ol8drlxq1.jpg)
 
 
 *载入 Windows*
 
 
-![Getting Updates](/Asserts/Images//attachment/album/201602/12/113247rfyn98mmx5gfmg8m.jpg)
+![Getting Updates](/Asserts/Images/album/201602/12/113247rfyn98mmx5gfmg8m.jpg)
 
 
 *获取更新*
 
 
-![Still Loading Windows](/Asserts/Images//attachment/album/201602/12/113248i3b3u0ldfs0fbu6s.jpg)
+![Still Loading Windows](/Asserts/Images/album/201602/12/113248i3b3u0ldfs0fbu6s.jpg)
 
 
 *还是载入 Ｗindows*
@@ -238,7 +238,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 14、安装程序想要知道谁拥有这台机器，“我的组织”或者我自己。选择我自己并继续。
 
 
-![Select Organization](/Asserts/Images//attachment/album/201602/12/113249l8n52ksszbikb4xz.jpg)
+![Select Organization](/Asserts/Images/album/201602/12/113249l8n52ksszbikb4xz.jpg)
 
 
 *选择组织*
@@ -247,7 +247,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 15、在单击继续之前，安装程序提示我加入“Aruze Ad”或者“加入域”。我选择了后者。
 
 
-![Connect Windows](/Asserts/Images//attachment/album/201602/12/113250gqzpqiuxbx9x2sup.jpg)
+![Connect Windows](/Asserts/Images/album/201602/12/113250gqzpqiuxbx9x2sup.jpg)
 
 
 *连接网络*
@@ -256,7 +256,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 16、安装程序让我新建一个账户。所以我输入了“user\_name”就点击了下一步，我觉得我会收到一个要求我必须输入密码的信息。
 
 
-![Create Account](/Asserts/Images//attachment/album/201602/12/113251svhazq0gv0i7y7nq.jpg)
+![Create Account](/Asserts/Images/album/201602/12/113251svhazq0gv0i7y7nq.jpg)
 
 
 *新建账户*
@@ -265,7 +265,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 17、让我惊讶的是 Windows 甚至都没有显示一个警告或提示信息，告诉我必须创建密码。真粗心。不管怎样，现在我可以体验系统了。
 
 
-![Windows 10 Desktop](/Asserts/Images//attachment/album/201602/12/113251ugqgh5r5s5s7cs5k.jpg)
+![Windows 10 Desktop](/Asserts/Images/album/201602/12/113251ugqgh5r5s5s7cs5k.jpg)
 
 
 *Windows 10的桌面环境*
@@ -288,7 +288,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 18、默认桌面很干净，上面只有一个回收站图标。我们可以直接从桌面搜索网络。底部的快捷方式分别是任务预览、网络、微软应用商店。和以前的版本一样，消息栏在右下角。
 
 
-![ ](/Asserts/Images//attachment/album/201602/12/113252vhrybabhlyz34i4l.jpg)
+![ ](/Asserts/Images/album/201602/12/113252vhrybabhlyz34i4l.jpg)
 
 
 *桌面图标*
@@ -297,7 +297,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 19、IE 浏览器被换成了 Edge 浏览器。微软把他们的老IE换成了 Edge （斯巴达计划）
 
 
-![Microsoft Edge Browser](/Asserts/Images//attachment/album/201602/12/113255v74hezktegyk7g9h.jpg)
+![Microsoft Edge Browser](/Asserts/Images/album/201602/12/113255v74hezktegyk7g9h.jpg)
 
 
 *Edge 浏览器*
@@ -306,7 +306,7 @@ Windows 10 是2015年7月29日上市的最新一代 Windows NT 系列系统，�
 测试起来，这个浏览器至少比 IE 要快。他们有相同的用户界面。它的主页包含新闻更新。它还有一个搜索标题栏是“下一步怎么走”。由于浏览器的全面性能提升，它的加载速度非常快。Edge 的内存占用看起来正常。
 
 
-![Windows Performance](/Asserts/Images//attachment/album/201602/12/113257s6p0xrr22si6p8pi.jpg)
+![Windows Performance](/Asserts/Images/album/201602/12/113257s6p0xrr22si6p8pi.jpg)
 
 
 *性能*
@@ -333,7 +333,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 23、重新设计的开始菜单 -- 看起来很简洁高效。Merto 磁贴大部分都会动。预先放置了最通用的应用。
 
 
-![Windows Look and Feel](/Asserts/Images//attachment/album/201602/12/113259y85t8xpydta8cqj5.jpg)
+![Windows Look and Feel](/Asserts/Images/album/201602/12/113259y85t8xpydta8cqj5.jpg)
 
 
 *Windows*
@@ -342,7 +342,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 而在 Linux 的 Gnome 桌面环境下。我仅仅需要按下 Win 键并输入应用名就可以搜索应用。
 
 
-![Search Within Desktop](/Asserts/Images//attachment/album/201602/12/113300t3jejn8en8jy7dle.jpg)
+![Search Within Desktop](/Asserts/Images/album/201602/12/113300t3jejn8en8jy7dle.jpg)
 
 
 *桌面内进行搜索*
@@ -351,7 +351,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 24、文件浏览器 -- 设计的很简洁。左边是进入文件夹的快捷方式。
 
 
-![Windows File Explorer](/Asserts/Images//attachment/album/201602/12/113302v7z3laccwdrx8x3x.jpg)
+![Windows File Explorer](/Asserts/Images/album/201602/12/113302v7z3laccwdrx8x3x.jpg)
 
 
 *Windows 文件管理器*
@@ -360,7 +360,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 我们的 Gnome 下的文件管理也同样的简洁高效。从图标上移走了不需要的图形图像是个加分点。
 
 
-![File Browser on Gnome](/Asserts/Images//attachment/album/201602/12/113302e6vmdpsgbxc1u6x3.jpg)
+![File Browser on Gnome](/Asserts/Images/album/201602/12/113302e6vmdpsgbxc1u6x3.jpg)
 
 
 *Gnome 的文件管理*
@@ -372,7 +372,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 **Windows 的设置**
 
 
-![Windows 10 Settings](/Asserts/Images//attachment/album/201602/12/113303d22ugi2g3fjy6qg3.jpg)
+![Windows 10 Settings](/Asserts/Images/album/201602/12/113303d22ugi2g3fjy6qg3.jpg)
 
 
 *Windows 10 设置*
@@ -381,7 +381,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 **Linux Gnome 上的设置**
 
 
-![Gnome Settings](/Asserts/Images//attachment/album/201602/12/113304p5daa5nru5lg2b1u.jpg)
+![Gnome Settings](/Asserts/Images/album/201602/12/113304p5daa5nru5lg2b1u.jpg)
 
 
 *Gnome 的设置*
@@ -393,7 +393,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 **Windows 的应用列表**
 
 
-![Application List on Windows 10](/Asserts/Images//attachment/album/201602/12/113304s92o934h3z3rpmyq.jpg)
+![Application List on Windows 10](/Asserts/Images/album/201602/12/113304s92o934h3z3rpmyq.jpg)
 
 
 *Windows 10 的应用列表*
@@ -402,7 +402,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 **Gnome3 的应用列表**
 
 
-![Gnome Application List on Linux](/Asserts/Images//attachment/album/201602/12/113305rxk2epk7ttpdkg7y.jpg)
+![Gnome Application List on Linux](/Asserts/Images/album/201602/12/113305rxk2epk7ttpdkg7y.jpg)
 
 
 *Gnome3 的应用列表*
@@ -414,7 +414,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 这是 Windows 10 上的虚拟桌面。
 
 
-![Windows Virtual Desktop](/Asserts/Images//attachment/album/201602/12/113306nkkk4kbdi4k49kns.jpg)
+![Windows Virtual Desktop](/Asserts/Images/album/201602/12/113306nkkk4kbdi4k49kns.jpg)
 
 
 *Windows 的虚拟桌面*
@@ -423,7 +423,7 @@ Edge 也有小娜加成（智能个人助理）、支持 Chrome 扩展、支持�
 这是我们 Linux 用户使用了超过20年的虚拟桌面。
 
 
-![Virtual Desktop on Linux](/Asserts/Images//attachment/album/201602/12/113306xddfz81bw18ybfa7.jpg)
+![Virtual Desktop on Linux](/Asserts/Images/album/201602/12/113306xddfz81bw18ybfa7.jpg)
 
 
 *Linux 的虚拟桌面*
@@ -456,7 +456,7 @@ Windows 10 有很多直接取自 Linux 的功能。如果 Linux 不以 GPL 发�
 32、命令行的包管理器 -- 是的，你没有听错！Windows 10内建了一个包管理器。它只在 Power Shell 下工作。OneGet 是Windows 的官方包管理器。
 
 
-![Windows 10 Package Manager](/Asserts/Images//attachment/album/201602/12/113307pk0kksa1ss6q19qc.jpg)
+![Windows 10 Package Manager](/Asserts/Images/album/201602/12/113307pk0kksa1ss6q19qc.jpg)
 
 
 *Windows 10的包管理器*

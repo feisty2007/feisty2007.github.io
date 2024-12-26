@@ -7,10 +7,10 @@ tags:	[linuxcn,Debian,自由固件,WordPress,GIMP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/28/193458ordbrshguvcbmvxa.jpg)
+![](/Asserts/Images/album/202208/28/193458ordbrshguvcbmvxa.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/28/193508zz1fnr5xnd5d1c2n.jpg)
+![](/Asserts/Images/album/202208/28/193508zz1fnr5xnd5d1c2n.jpg)
 
 
 ### Debian 考虑改变其处理非自由固件的方式
@@ -35,7 +35,7 @@ Debian 目前在其系统上默认不加载非自由固件，“即使这意味�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/28/193521lj7n07qmp5d3nd8q.png)
+![](/Asserts/Images/album/202208/28/193521lj7n07qmp5d3nd8q.png)
 
 
 ### 数万个 WordPress 网站使用了恶意插件
@@ -60,7 +60,7 @@ Debian 目前在其系统上默认不加载非自由固件，“即使这意味�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/28/193534lsue6tfl3nat7uul.jpg)
+![](/Asserts/Images/album/202208/28/193534lsue6tfl3nat7uul.jpg)
 
 
 ### GIMP 2.99.12 发布：“迈向 GIMP 3.0 的巨大里程碑”

@@ -7,10 +7,10 @@ tags:	[linuxcn,RHEL,Fedora,X11,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/03/092451kz962zl7pn4lz6dz.jpg)
+![](/Asserts/Images/album/202311/03/092451kz962zl7pn4lz6dz.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/03/092459f2u2dck020kwczux.jpg)
+![](/Asserts/Images/album/202311/03/092459f2u2dck020kwczux.jpg)
 
 
 ### OpenELA 发布用于构建 RHEL 8/9 衍生版的源代码
@@ -35,7 +35,7 @@ tags:	[linuxcn,RHEL,Fedora,X11,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/03/092511kd3vmtd3chd9z8d0.jpg)
+![](/Asserts/Images/album/202311/03/092511kd3vmtd3chd9z8d0.jpg)
 
 
 ### Fedora 40 将放弃 X11 会话
@@ -60,7 +60,7 @@ tags:	[linuxcn,RHEL,Fedora,X11,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/03/092550rrh11c1pmm44xyzq.jpg)
+![](/Asserts/Images/album/202311/03/092550rrh11c1pmm44xyzq.jpg)
 
 
 ### Chrome 浏览器放弃网络完整性 API

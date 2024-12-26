@@ -15,7 +15,7 @@ tags:	[linuxcn,激活]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/20/112226f7zmsvqqvt9tln9n.jpg)
+![](/Asserts/Images/album/202205/20/112226f7zmsvqqvt9tln9n.jpg)
 
 
 为了阻止 Windows 操作系统的盗版行为，微软开发团队想出了一个办法：在 Windows 的角落放置一个激活水印，直到用户合法购买许可证并激活它。
@@ -24,7 +24,7 @@ tags:	[linuxcn,激活]
 如果你的电脑正在运行盗版的 Windows 副本，你应该已经注意到右下角的 “激活 Windows” 水印通知，如下图所示。
 
 
-![“激活 Windows” 通知](/Asserts/Images//attachment/album/202205/20/112229qa1nq5w4q7yezxxg.png)
+![“激活 Windows” 通知](/Asserts/Images/album/202205/20/112229qa1nq5w4q7yezxxg.png)
 
 
 幸运的是，Linux 用户永远不会收到这样的通知。因为 GNU/Linux 是一个完全免费的开源操作系统，在 GNU 通用公共许可证（GPL）下发布。
@@ -132,7 +132,7 @@ $ activate-linux
 现在，你将在桌面的角落看到 “激活 Linux” 水印通知，就像在未授权的 Windows 副本中一样。
 
 
-![桌面上的 “激活 Linux” 水印](/Asserts/Images//attachment/album/202205/20/112229e4r4w44rtuczutaz.png)
+![桌面上的 “激活 Linux” 水印](/Asserts/Images/album/202205/20/112229e4r4w44rtuczutaz.png)
 
 
 别紧张！它是无害的。若想取消显示，你可以返回终端并按 `CTRL+C` 终止 `activate-linux` 命令。

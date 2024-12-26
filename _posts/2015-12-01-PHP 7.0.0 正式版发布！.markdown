@@ -7,7 +7,7 @@ tags:	[linuxcn,PHP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/04/075939j1ckzisqko4qid1k.jpg)
+![](/Asserts/Images/album/201512/04/075939j1ckzisqko4qid1k.jpg)
 
 
 **PHP 开发团队宣布，PHP 7.0.0 已经正式发布了！**这标志着 PHP 正式进入崭新的 PHP 7 时代！

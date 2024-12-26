@@ -10,7 +10,7 @@ tags:	[linuxcn,XStream,OpenSolaris]
 XStreamOS 是一个由 Sonicle 创建的 Solaris 的一个版本。XStream 桌面将 Solaris 的强大带给了桌面用户，同时新手用户很可能有兴趣体验一下。DistroWatch 对于 XStream 桌面 153 版本做了一个很全面的评估，并且发现它运行相当好。
 
 
-![](/Asserts/Images//attachment/album/201607/12/131638rycozrk5ryccn0fr.jpg)
+![](/Asserts/Images/album/201607/12/131638rycozrk5ryccn0fr.jpg)
 
 
 Jesse Smith 在 DistroWatch 报道:

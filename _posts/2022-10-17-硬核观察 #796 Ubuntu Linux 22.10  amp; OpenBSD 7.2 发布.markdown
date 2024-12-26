@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,龙芯,AI,OpenBSD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/21/172542dmikygxzgsiysdi3.jpg)
+![](/Asserts/Images/album/202210/21/172542dmikygxzgsiysdi3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/21/172549skg8a3tz1g8oihga.jpg)
+![](/Asserts/Images/album/202210/21/172549skg8a3tz1g8oihga.jpg)
 
 
 ### Ubuntu Linux 22.10 & OpenBSD 7.2 发布
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ubuntu,龙芯,AI,OpenBSD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/21/172600i88lq6pt6870nw7a.jpg)
+![](/Asserts/Images/album/202210/21/172600i88lq6pt6870nw7a.jpg)
 
 
 ### LoongArch 成为第四个进入 UEFI 上游的 ISA
@@ -60,7 +60,7 @@ tags:	[linuxcn,Ubuntu,龙芯,AI,OpenBSD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/21/172627rr5vt55tww5vvtp5.jpg)
+![](/Asserts/Images/album/202210/21/172627rr5vt55tww5vvtp5.jpg)
 
 
 ### RIAA 将 AI 混音器列为新出现的版权威胁

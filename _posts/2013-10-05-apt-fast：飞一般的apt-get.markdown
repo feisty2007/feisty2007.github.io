@@ -37,13 +37,13 @@ sudo apt-get install apt-fast
 在安装期间，它将要求你输入下载包的最大并发链接数。
 
 
- ![](/Asserts/Images//attachment/album/201310/22/151153t4cncn88xclu14tn.png)
+ ![](/Asserts/Images/album/201310/22/151153t4cncn88xclu14tn.png)
 
 
 在下一个对话框里面，会问你是否要禁止apt-fast的确认对话框。选择No并继续安装。如果你选择Yes，apt-fast在安装软件包时不会问你确认与否。
 
 
-![](/Asserts/Images//attachment/album/201310/22/1511542o3cdm1qnmwnp6pc.png) 
+![](/Asserts/Images/album/201310/22/1511542o3cdm1qnmwnp6pc.png) 
 
 
 我发现 **aria2** 下载管理器已经随着apt-fast的安装而自动安装。所以，你不必单独安装aria2。
@@ -76,7 +76,7 @@ apt-fast dist-upgrade
 这是一个正在工作中的apt-fast包管理器：
 
 
- ![](/Asserts/Images//attachment/album/201310/22/1511580604uqko66o1oyg0.png)
+ ![](/Asserts/Images/album/201310/22/1511580604uqko66o1oyg0.png)
 
 
 ### **创建别名（可选）**

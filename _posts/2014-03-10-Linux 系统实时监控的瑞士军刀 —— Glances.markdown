@@ -49,7 +49,7 @@ Glances 同时也提供了很多实用的选项。 其中我们能够在配置�
 下面是一个 Glances 的使用截图：
 
 
-![Glances View](/Asserts/Images//attachment/album/201403/31/214404gen07qvynyj3vjzn.jpeg)
+![Glances View](/Asserts/Images/album/201403/31/214404gen07qvynyj3vjzn.jpeg)
 
 
 ### 在 Linux/Unix 系统中安装 Glances
@@ -90,13 +90,13 @@ $ sudo apt-get install glances
 
 ```
 
-![Glances Preview – Ubuntu 13.10](/Asserts/Images//attachment/album/201403/31/214413hgrs2ozqwarrwypo.jpeg)
+![Glances Preview – Ubuntu 13.10](/Asserts/Images/album/201403/31/214413hgrs2ozqwarrwypo.jpeg)
 
 
 按下 ‘**q**‘ （‘**ESC**‘ 和 ‘**Ctrl-C**‘ 也可以） 退出 Glances 终端。 这里是从 **CentOS 6.5** 截取的另一张截图：
 
 
-![Glances Preview – CentOS 6.5](/Asserts/Images//attachment/album/201403/31/214419xaiwmtwwaawo2oya.jpeg)
+![Glances Preview – CentOS 6.5](/Asserts/Images/album/201403/31/214419xaiwmtwwaawo2oya.jpeg)
 
 
 Glances 的默认刷新频率是 **1** （秒），但是你可以通过在终端指定参数来手动定义其刷新频率

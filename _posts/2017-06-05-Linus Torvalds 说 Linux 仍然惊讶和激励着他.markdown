@@ -7,7 +7,7 @@ tags:	[linuxcn,LinuxCon]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/26/094309dq1alanvvyan7zqp.jpg)
+![](/Asserts/Images/album/201706/26/094309dq1alanvvyan7zqp.jpg)
 
 
 

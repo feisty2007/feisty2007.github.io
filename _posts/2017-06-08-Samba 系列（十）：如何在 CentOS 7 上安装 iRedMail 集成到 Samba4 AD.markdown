@@ -7,7 +7,7 @@ tags:	[linuxcn,samba]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/03/183457zc0cexazlnx4z0kv.jpg)
+![](/Asserts/Images/album/201706/03/183457zc0cexazlnx4z0kv.jpg)
 
 
 本系列教程将引导你了解如何在 CentOS 7 安装 iRedMail 以及 [Samba4 AD 域控制器](/article-8065-1.html)，以便域帐户可以通过 Thunderbird 桌面客户端或通过 Roundcube Web 界面发送或接收邮件。
@@ -64,7 +64,7 @@ tags:	[linuxcn,samba]
 
 ```
 
-![Verify CentOS 7 Hostname](/Asserts/Images//attachment/album/201706/03/183638vwfjjfsxp0sxlwjc.png)
+![Verify CentOS 7 Hostname](/Asserts/Images/album/201706/03/183638vwfjjfsxp0sxlwjc.png)
 
 
 *验证 CentOS 7 主机名*
@@ -140,7 +140,7 @@ SELINUX=disabled
 10、 在首个欢迎提示中，点击 `Yes` 来继续安装。
 
 
-![iRedMail Setup Wizard](/Asserts/Images//attachment/album/201706/03/183640d75ib95iifxoa1o1.png)
+![iRedMail Setup Wizard](/Asserts/Images/album/201706/03/183640d75ib95iifxoa1o1.png)
 
 
 *iRedMail 安装向导*
@@ -155,7 +155,7 @@ SELINUX=disabled
 否则，如果你已经配置一个更大的分区来用于邮件存储，那么就用不同的目录来更改默认位置。
 
 
-![iRedMail Mail Storage Path](/Asserts/Images//attachment/album/201706/03/183642wwb2gwf6xxbwwslx.png)
+![iRedMail Mail Storage Path](/Asserts/Images/album/201706/03/183642wwb2gwf6xxbwwslx.png)
 
 
 *iRedMail 邮件存储路径*
@@ -167,7 +167,7 @@ SELINUX=disabled
 如果你每小时没有数以千计的邮件帐户访问 webmail 界面，那么你应该使用 Apache Web 服务器来实现其灵活性和易于管理。
 
 
-![iRedMail Preferred Web Server](/Asserts/Images//attachment/album/201706/03/183643ke00e6b2660t6ezb.png)
+![iRedMail Preferred Web Server](/Asserts/Images/album/201706/03/183643ke00e6b2660t6ezb.png)
 
 
 *iRedMail 首选的 Web 服务器*
@@ -176,7 +176,7 @@ SELINUX=disabled
 13、 在此步骤中，由于 Samba4 域控制器的兼容性原因，请选择 OpenLDAP 后端数据库，并点击 Next 继续，但是一旦将 iRedMail 集成到 Samba 域控制器中，我们将不再使用该 OpenLDAP 数据库。
 
 
-![iRedMail LDAP Backend](/Asserts/Images//attachment/album/201706/03/183645ksszekckd1dseksr.png)
+![iRedMail LDAP Backend](/Asserts/Images/album/201706/03/183645ksszekckd1dseksr.png)
 
 
 *iRedMail LDAP 后端*
@@ -185,7 +185,7 @@ SELINUX=disabled
 14、 接下来，如下图所示，为你的 Samba4 域名指定 LDAP 后缀，然后点击 Next 继续。
 
 
-![iRedMail LDAP Suffix](/Asserts/Images//attachment/album/201706/03/183646ew6pr8rcyc6p8wzy.png)
+![iRedMail LDAP Suffix](/Asserts/Images/album/201706/03/183646ew6pr8rcyc6p8wzy.png)
 
 
 *iRedMail LDAP 后缀*
@@ -194,7 +194,7 @@ SELINUX=disabled
 15、 在接下来的提示中，只要输入你的域名，并点击 Next 继续。相应地替换 `tecmint.lan` 值。
 
 
-![iRedMail Mail Domain](/Asserts/Images//attachment/album/201706/03/183647vfpjzrlz4zf6szll.png)
+![iRedMail Mail Domain](/Asserts/Images/album/201706/03/183647vfpjzrlz4zf6szll.png)
 
 
 *iRedMail 邮件域*
@@ -203,7 +203,7 @@ SELINUX=disabled
 16、 现在，为 `postmaster@yourdomain.tld` 管理员设置一个密码，并点击 Next 继续。
 
 
-![iRedMail Mail Domain Administrator](/Asserts/Images//attachment/album/201706/03/183649szmi1vkbhoiokodb.png)
+![iRedMail Mail Domain Administrator](/Asserts/Images/album/201706/03/183649szmi1vkbhoiokodb.png)
 
 
 *iRedMail 邮件域管理员*
@@ -215,7 +215,7 @@ SELINUX=disabled
 对于受限访问互联网的本地域，特别是在我们使用域集成时，除了 Awstats 可以用于你进行邮件分析，其他组件不是非常有用。
 
 
-![iRedMail Optional Components](/Asserts/Images//attachment/album/201706/03/183650tifcin7jl2228eze.png)
+![iRedMail Optional Components](/Asserts/Images/album/201706/03/183650tifcin7jl2228eze.png)
 
 
 *iRedMail 可选组件*
@@ -224,7 +224,7 @@ SELINUX=disabled
 18、 在下一步中输入 `Y` 来应用配置并开始安装。
 
 
-![iRedMail Configuration Changes](/Asserts/Images//attachment/album/201706/03/183652j4mnsmphhlmz4446.png)
+![iRedMail Configuration Changes](/Asserts/Images/album/201706/03/183652j4mnsmphhlmz4446.png)
 
 
 *iRedMail 配置更改*
@@ -233,7 +233,7 @@ SELINUX=disabled
 19、 最后，所有的问题都输入 `Y`，接受 iRedMail 脚本自动配置你的防火墙以及 MySQL 配置文件。
 
 
-![iRedMail System Configuration](/Asserts/Images//attachment/album/201706/03/183654x6ii4ihhtr1aim3b.png)
+![iRedMail System Configuration](/Asserts/Images/album/201706/03/183654x6ii4ihhtr1aim3b.png)
 
 
 *iRedMail 系统配置*
@@ -242,7 +242,7 @@ SELINUX=disabled
 20、 安装完成后，安装器会提供一些敏感信息。比如 iRedAdmin 凭证、web 面板的 URL 地址以及安装过程中使用的所有参数的文件位置。
 
 
-![iRedMail Installation Summary](/Asserts/Images//attachment/album/201706/03/183656n6s6ys67z06s1y60.png)
+![iRedMail Installation Summary](/Asserts/Images/album/201706/03/183656n6s6ys67z06s1y60.png)
 
 
 *iRedMail 安装总结*
@@ -269,7 +269,7 @@ SELINUX=disabled
 
 ```
 
-![iRedMail Network Sockets](/Asserts/Images//attachment/album/201706/03/183659zo90rxbx60b69fh9.png)
+![iRedMail Network Sockets](/Asserts/Images/album/201706/03/183659zo90rxbx60b69fh9.png)
 
 
 *iRedMail 网络套接字*
@@ -299,13 +299,13 @@ https://192.168.1.254
 
 ```
 
-![iRedMail Account Login](/Asserts/Images//attachment/album/201706/03/183705opcddh03xrrdfhky.png)
+![iRedMail Account Login](/Asserts/Images/album/201706/03/183705opcddh03xrrdfhky.png)
 
 
 *iRedMail 登录帐户*
 
 
-![iRedMail Web Mail](/Asserts/Images//attachment/album/201706/03/183708uqoqn6kwfst5pzcm.png)
+![iRedMail Web Mail](/Asserts/Images/album/201706/03/183708uqoqn6kwfst5pzcm.png)
 
 
 *iRedMail Web 邮件*

@@ -25,7 +25,7 @@ tags:	[linuxcn,Linux,Ubuntu,Ubuntu Tweak,应用,软件,性能]
 **Ubuntu tweak 已经是非常成功的项目了。很多 Ubuntu 用户用它来调整系统的性能、功能等各个细节。能给我们谈论下 Ubuntu Tweak 能做些什么吗？**
 
 
-![](/Asserts/Images//attachment/album/201312/11/1435307hzgnsxr4zgheepw.jpg)
+![](/Asserts/Images/album/201312/11/1435307hzgnsxr4zgheepw.jpg)
 
 
 Ubuntu Tweak 可以用来切换桌面图标的显示方式、设置字体、启用/禁用多用户切换功能以及登陆的标识（logo）等等。

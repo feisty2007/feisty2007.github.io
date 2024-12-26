@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/26/162307dc49my9gwrzl1ivv.jpg)
+![](/Asserts/Images/album/201705/26/162307dc49my9gwrzl1ivv.jpg)
 
 
 Python-mode 是一个 Vim 插件，它使你能够在 [Vim 编辑器](https://www.tecmint.com/vi-editor-usage/)中更快的利用包括 pylint、rope、pydoc、pyflakes、pep8、autopep8、pep257　和 mccable 在内的各种库来写 Python 代码，这些库提供了一些编码功能，比如静态分析、特征重构、折叠、补全和文档等。

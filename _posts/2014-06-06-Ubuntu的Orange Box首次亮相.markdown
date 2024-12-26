@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu,Orange Box,OpenStack]
 > 
 
 
-![](/Asserts/Images//attachment/album/201406/30/170355xf36s1uk1ij6gfyx.jpg)
+![](/Asserts/Images/album/201406/30/170355xf36s1uk1ij6gfyx.jpg)
 
 
 Canonical刚刚发布的Orange Box是一个便携式服务器集群，该公司用来展示[OpenStack](http://openstack.org/)，[MAAS](https://maas.ubuntu.com/)，[Juju](http://juju.ubuntu.com/)和其它的基于Ubuntu Linux的云服务。
@@ -36,7 +36,7 @@ Canonical刚刚发布的Orange Box是一个便携式服务器集群，该公司�
 不过除开培训的目的不谈，Orange Box[看起来真的很酷](http://arstechnica.com/information-technology/2014/06/hands-on-with-canonicals-orange-box-and-a-peek-into-cloud-nirvana/)。它装有10个[英特尔NUC](http://www.intel.com/content/www/us/en/nuc/overview.html)，总计集成了160GB的RAM，1200GB的存储空间和10个酷睿i5处理器，这种设备在一个袖珍空间内提供了相当强大的计算能力。
 
 
-![](/Asserts/Images//attachment/album/201406/30/170356lvn2xxmcq09p02f2.jpg)
+![](/Asserts/Images/album/201406/30/170356lvn2xxmcq09p02f2.jpg)
 
 
 更好的是，Orange Box通过预装软件为启动基于Ubuntu的云技术打下了良好基础。

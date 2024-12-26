@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,Windows 11,OpenCL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/21/185541o245usdl3x23xsl4.jpg)
+![](/Asserts/Images/album/202302/21/185541o245usdl3x23xsl4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/21/185551jlfll6b30ly01iyv.jpg)
+![](/Asserts/Images/album/202302/21/185551jlfll6b30ly01iyv.jpg)
 
 
 ### GNU Linux-libre 6.2 继续进行“去污”战争
@@ -35,7 +35,7 @@ tags:	[linuxcn,内核,Windows 11,OpenCL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/21/185600ublc2022xlop99dn.jpg)
+![](/Asserts/Images/album/202302/21/185600ublc2022xlop99dn.jpg)
 
 
 ### Windows 11 在“不支持的”电脑上显示水印
@@ -60,7 +60,7 @@ tags:	[linuxcn,内核,Windows 11,OpenCL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/21/185614trghthndnhxeowmo.jpg)
+![](/Asserts/Images/album/202302/21/185614trghthndnhxeowmo.jpg)
 
 
 ### 英特尔开源其基于 CPU 的 OpenCL 运行环境

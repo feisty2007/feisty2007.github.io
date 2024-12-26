@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCE]
 在本系列的前一篇文章，我们回顾了[如何在可能包括多种类型操作系统的网络上配置 Samba 共享](/article-6550-1.html)。现在，如果你需要为一组类 Unix 客户端配置文件共享，很自然的你会想到网络文件系统，或简称 NFS。
 
 
-![设置使用 Kerberos 进行身份验证的 NFS 服务器](/Asserts/Images//attachment/album/201511/17/133903qgfa1npbdfaqanye.jpg)
+![设置使用 Kerberos 进行身份验证的 NFS 服务器](/Asserts/Images/album/201511/17/133903qgfa1npbdfaqanye.jpg)
 
 
 *RHCE 系列：第七部分 - 设置使用 Kerberos 进行身份验证的 NFS 服务器*
@@ -141,7 +141,7 @@ tags:	[linuxcn,RHCE]
 
 ```
 
-![用 Chrony 同步服务器时间](/Asserts/Images//attachment/album/201511/17/133905jvmlzzmjv3s0j3sj.png)
+![用 Chrony 同步服务器时间](/Asserts/Images/album/201511/17/133905jvmlzzmjv3s0j3sj.png)
 
 
 *用 Chrony 同步服务器时间*
@@ -185,7 +185,7 @@ tags:	[linuxcn,RHCE]
 
 ```
 
-![创建 Kerberos 数据库](/Asserts/Images//attachment/album/201511/17/133906kky7dpmvvbbopzb7.png)
+![创建 Kerberos 数据库](/Asserts/Images/album/201511/17/133906kky7dpmvvbbopzb7.png)
 
 
 *创建 Kerberos 数据库*
@@ -223,7 +223,7 @@ tags:	[linuxcn,RHCE]
 输入 quit 和回车键退出：
 
 
-![添加 Kerberos 到 NFS 服务器](/Asserts/Images//attachment/album/201511/17/133907ftbi4zib2ha45z5r.png)
+![添加 Kerberos 到 NFS 服务器](/Asserts/Images/album/201511/17/133907ftbi4zib2ha45z5r.png)
 
 
 *添加 Kerberos 到 NFS 服务器*
@@ -239,7 +239,7 @@ tags:	[linuxcn,RHCE]
 
 ```
 
-![缓存 Kerberos](/Asserts/Images//attachment/album/201511/17/133909gngoug2k0uyy27jg.png)
+![缓存 Kerberos](/Asserts/Images/album/201511/17/133909gngoug2k0uyy27jg.png)
 
 
 *缓存 Kerberos*
@@ -267,7 +267,7 @@ tags:	[linuxcn,RHCE]
 
 ```
 
-![挂载 NFS 共享](/Asserts/Images//attachment/album/201511/17/133909k17nngefyg7yqspg.png)
+![挂载 NFS 共享](/Asserts/Images/album/201511/17/133909k17nngefyg7yqspg.png)
 
 
 *挂载 NFS 共享*
@@ -283,7 +283,7 @@ tags:	[linuxcn,RHCE]
 
 ```
 
-![挂载/卸载 Kerberos NFS 共享](/Asserts/Images//attachment/album/201511/17/133911w8o8ptp6jqzj3tpo.png)
+![挂载/卸载 Kerberos NFS 共享](/Asserts/Images/album/201511/17/133911w8o8ptp6jqzj3tpo.png)
 
 
 *挂载/卸载 Kerberos NFS 共享*

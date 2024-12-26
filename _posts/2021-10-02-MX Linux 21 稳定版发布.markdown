@@ -15,7 +15,7 @@ tags:	[linuxcn,MXLinux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/23/103528cbbbubhvmw7bbpm7.png)
+![](/Asserts/Images/album/202110/23/103528cbbbubhvmw7bbpm7.png)
 
 
 [MX Linux](https://mxlinux.org/) 是一个基于 Debian 的 Linux/GNU 发行版，旨在追求优雅、稳定和性能。
@@ -27,13 +27,13 @@ tags:	[linuxcn,MXLinux]
 ### MX Linux 21 主要亮点
 
 
-![](/Asserts/Images//attachment/album/202110/23/103531myocjbvv8eih2err.png)
+![](/Asserts/Images/album/202110/23/103531myocjbvv8eih2err.png)
 
 
 MX Linux 21 基于 Debian 11 “Bullseye”，运行 Linux 5.10LTS 内核。在这次的新更新中，你可以发现一些新的应用和对当前应用的升级。
 
 
-![](/Asserts/Images//attachment/album/202110/23/103532kcn7myc78np88s8h.png)
+![](/Asserts/Images/album/202110/23/103532kcn7myc78np88s8h.png)
 
 
 “Wildflower” 系列包括一个带有 Fluxbox 1.3.7 的新版本，它可以使旧电脑重新焕发活力。补充一下，Fluxbox 是一个窗口管理器，可以在高端计算机上无缝工作，但资源占用很少。
@@ -42,7 +42,7 @@ MX Linux 21 基于 Debian 11 “Bullseye”，运行 Linux 5.10LTS 内核。在�
 它的安装程序有一个新的分区选择区，支持 LVM（逻辑卷管理器）。
 
 
-![MX Linux 21 有一个漂亮的图形化安装程序](/Asserts/Images//attachment/album/202110/23/103531myocjbvv8eih2err.png)
+![MX Linux 21 有一个漂亮的图形化安装程序](/Asserts/Images/album/202110/23/103531myocjbvv8eih2err.png)
 
 
 当启动系统时，无论你是使用<ruby> 临时启动 <rt>  live boot </rt></ruby>还是持久化使用，你都可以选择使用新的 UEFI 临时系统启动菜单，而不是旧的控制台菜单。
@@ -69,7 +69,7 @@ MX Linux 21 基于 Debian 11 “Bullseye”，运行 Linux 5.10LTS 内核。在�
 * KDE 对其文件管理器 Dolphin 进行了修复。
 
 
-![](/Asserts/Images//attachment/album/202110/23/103531myocjbvv8eih2err.png)
+![](/Asserts/Images/album/202110/23/103531myocjbvv8eih2err.png)
 
 
 ### 总结

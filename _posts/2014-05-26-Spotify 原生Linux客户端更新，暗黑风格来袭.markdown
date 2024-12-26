@@ -11,7 +11,7 @@ Spotify 原生Linux客户端更新，暗黑风格来袭
 ===========================
 
 
-![](/Asserts/Images//attachment/album/201405/26/085707s5zqnq5lna3lal3n.jpg)
+![](/Asserts/Images/album/201405/26/085707s5zqnq5lna3lal3n.jpg)
 
 
 **继streaming service上个月在其它平台上发布它的应用之后，以同样的扁平化和黑色风格的设计，Linux版本的Spotify客户端也发布了更新。**

@@ -15,7 +15,7 @@ tags:	[linuxcn,测试,CI/CD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/27/210026blobu65f77accbob.jpg)
+![](/Asserts/Images/album/202007/27/210026blobu65f77accbob.jpg)
 
 
 

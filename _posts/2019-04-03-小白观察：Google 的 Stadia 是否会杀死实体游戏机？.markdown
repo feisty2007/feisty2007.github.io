@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/22/111341cmkp9zkh6xnhwfvp.jpg)
+![](/Asserts/Images/album/201904/22/111341cmkp9zkh6xnhwfvp.jpg)
 
 
 ### Deep News
@@ -26,7 +26,7 @@ tags:	[linuxcn,游戏]
 [【VentureBeat】](https://venturebeat.com/2019/04/21/will-googles-stadia-console-kill-mobile-games/)
 
 
-![](/Asserts/Images//attachment/album/201904/19/123826jwwhua7ggqzgxufz.png)
+![](/Asserts/Images/album/201904/19/123826jwwhua7ggqzgxufz.png)
 
 
 

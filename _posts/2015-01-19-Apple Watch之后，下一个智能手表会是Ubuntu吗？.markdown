@@ -10,7 +10,7 @@ tags:	[linuxcn,苹果,Ubuntu,智能手表]
 **苹果借助‘Apple Watch’的发布，证实了其进军穿戴式电子设备市场的长期传言**
 
 
-![Ubuntu Smartwatch – good idea?](/Asserts/Images//attachment/album/201501/09/092128yuty36zy6ueqi63y.png)
+![Ubuntu Smartwatch – good idea?](/Asserts/Images/album/201501/09/092128yuty36zy6ueqi63y.png)
 
 
 Ubuntu智能手表 - 好主意？

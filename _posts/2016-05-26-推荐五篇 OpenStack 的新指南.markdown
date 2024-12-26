@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenStack]
 ---
 
 
-![](/Asserts/Images//attachment/album/201605/28/094001ze8qrr29pejy8ap0.png)
+![](/Asserts/Images/album/201605/28/094001ze8qrr29pejy8ap0.png)
 
 
 回顾这周的 OpenStack 峰会，我仍然回味着开源云生态系统的浩瀚无垠，有那么多需要了解的项目及概念才能获得成功。不过我们很幸运，因为有许多资源让我们跟随着项目的脚步。除了[官方文档](http://docs.openstack.org/)外，我们还有许多来自第三方提供的培训和认证、个人分享，以及许多社区贡献的学习资源。

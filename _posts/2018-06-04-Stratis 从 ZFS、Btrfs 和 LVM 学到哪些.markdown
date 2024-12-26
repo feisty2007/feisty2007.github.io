@@ -15,7 +15,7 @@ tags:	[linuxcn,存储,Stratis]
 > 
 
 
-![](/Asserts/Images//attachment/album/201806/13/225943j7iuzp9rstlyt79f.jpg)
+![](/Asserts/Images/album/201806/13/225943j7iuzp9rstlyt79f.jpg)
 
 
 在本系列[第一部分](/article-9736-1.html)中提到，Stratis 是一个<ruby> 卷管理文件系统 <rt>  volume-managing filesystem </rt></ruby>（VMF），功能特性类似于 [ZFS](https://en.wikipedia.org/wiki/ZFS) 和 [Btrfs](https://en.wikipedia.org/wiki/Btrfs)。在设计 Stratis 过程中，我们研究了已有解决方案开发者做出的取舍。

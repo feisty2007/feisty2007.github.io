@@ -7,7 +7,7 @@ tags:	[linuxcn,Bash,脚本]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/21/100731qmt2cmxnyub9xm62.jpg)
+![](/Asserts/Images/album/202308/21/100731qmt2cmxnyub9xm62.jpg)
 
 
 

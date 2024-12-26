@@ -7,7 +7,7 @@ tags:	[linuxcn,Mint,Ubuntu]
 ---
 
 
-![Linux Mint 17](/Asserts/Images//attachment/album/201405/18/224312x7osnqoqr7outfhs.jpg)
+![Linux Mint 17](/Asserts/Images/album/201405/18/224312x7osnqoqr7outfhs.jpg)
 
 
 最新的 Linux Mint 17 “Qiana” RC 版本已经释出，本版本基于 Ubuntu 14.04 LTS(长期支持版本)。一个有趣的变化是，将来的数个版本都会基于长期支持版本。

@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/25/222621vs4pyaep5ejtaebe.jpg)
+![](/Asserts/Images/album/201811/25/222621vs4pyaep5ejtaebe.jpg)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,内核,安全]
 ### bug 不可避免
 
 
-![Greg Kroah-Hartman](/Asserts/Images//attachment/album/201811/25/222755jxgjukuijggjnu3v.png "Greg Kroah-Hartman")
+![Greg Kroah-Hartman](/Asserts/Images/album/201811/25/222755jxgjukuijggjnu3v.png "Greg Kroah-Hartman")
 
 
 *Greg Kroah-Hartman [Linux 基金会](https://www.linux.com/licenses/category/linux-foundation)*

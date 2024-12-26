@@ -7,7 +7,7 @@ tags:	[linuxcn,循环]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/01/103713zx0qlu23xz2su3yl.jpg)
+![](/Asserts/Images/album/202007/01/103713zx0qlu23xz2su3yl.jpg)
 
 
 在 Linux 中有很多永远循环（或直到你决定停止）的方法，你可以在命令行或脚本中执行此操作。

@@ -7,7 +7,7 @@ tags:	[linuxcn,恶意软件,AUR]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/25/084110p8uzg6g6f6b066bl.jpg)
+![](/Asserts/Images/album/201807/25/084110p8uzg6g6f6b066bl.jpg)
 
 
 7 月 7 日，有一个 AUR 软件包被改入了一些恶意代码，提醒 [Arch Linux](https://www.archlinux.org/) 用户（以及一般的 Linux 用户）在安装之前应该尽可能检查所有由用户生成的软件包。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/24/103207xjick8vwiijb8ij0.jpg)
+![](/Asserts/Images/album/202005/24/103207xjick8vwiijb8ij0.jpg)
 
 
 #### 谷歌工程师：七成 Chrome 安全漏洞是内存安全问题

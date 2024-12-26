@@ -10,7 +10,7 @@ tags:	[linuxcn,KDE,Unity 8,DNF,内核]
 ### Linux 4.8 内核发布
 
 
-![](/Asserts/Images//attachment/album/201610/06/212122x2vk9wz8z29t3yp3.jpg)
+![](/Asserts/Images/album/201610/06/212122x2vk9wz8z29t3yp3.jpg)
 
 
 *Linux 4.8 内核发布*
@@ -28,7 +28,7 @@ tags:	[linuxcn,KDE,Unity 8,DNF,内核]
 ### Ubuntu 16.10 终于支持可选 Unity 8 会话了
 
 
-![](/Asserts/Images//attachment/album/201610/06/221814y82too383gf895d6.jpg)
+![](/Asserts/Images/album/201610/06/221814y82too383gf895d6.jpg)
 
 
 *可选的 Unity 8 会话*

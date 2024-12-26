@@ -7,7 +7,7 @@ tags:	[linuxcn,Snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/24/153025zxi8112125hrxrl8.jpg)
+![](/Asserts/Images/album/202202/24/153025zxi8112125hrxrl8.jpg)
 
 
 Snap 软件包并不是每个人都喜欢的，但它们是 Ubuntu 生态系统中不可或缺的一部分。
@@ -35,7 +35,7 @@ $ sudo du -sh /var/lib/snapd
 你也可以使用磁盘使用分析器这个 GUI 工具来查看 [Ubuntu 的磁盘使用情况](https://itsfoss.com/check-free-disk-space-linux/)。
 
 
-![Snap disk usage](/Asserts/Images//attachment/album/202202/24/153035vxlv8ajvl1aailvf.png)
+![Snap disk usage](/Asserts/Images/album/202202/24/153035vxlv8ajvl1aailvf.png)
 
 
 这可真够多的，对吧？你可以在这里腾出一些磁盘空间。根据设计，Snap 至少会在你的系统上保留一个你所安装的软件包的旧版本。你可以通过使用 Snap 命令看到这种行为：
@@ -50,7 +50,7 @@ snap list --all
 你应该看到同一个软件包被列了两次，而且版本和修订号都不同。
 
 
-![Snap keeps at least two versions of each package](/Asserts/Images//attachment/album/202202/24/153037c2mj5h5jl12o2865.png)
+![Snap keeps at least two versions of each package](/Asserts/Images/album/202202/24/153037c2mj5h5jl12o2865.png)
 
 
 为了释放磁盘空间，你可以删除额外的软件包版本。你怎么知道要删除哪一个呢？你可以看到，这些较旧的软件包被标记为“禁用”。
@@ -87,7 +87,7 @@ sudo bash clean-snap.sh
 你可以看到，它开始删除旧版本的软件包。
 
 
-![Removing old snap package versions](/Asserts/Images//attachment/album/202202/24/153039v1i90stbaa0aa101.png)
+![Removing old snap package versions](/Asserts/Images/album/202202/24/153039v1i90stbaa0aa101.png)
 
 
 如果你现在检查 Snap 使用的磁盘空间，你会发现现在的目录大小已经减少了。

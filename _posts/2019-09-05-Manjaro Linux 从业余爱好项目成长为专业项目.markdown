@@ -21,7 +21,7 @@ Manjaro 是一个相当流行的 Linux 发行版，而它只是由三个人（Be
 嗯，现在有个好消息：Manjaro 已经建立了一家新公司“[Manjaro GmbH & Co. KG]”，以 [Blue Systems](https://www.blue-systems.com/) 为顾问，以便能够全职雇佣维护人员，并探索未来的商业机会。
 
 
-![](/Asserts/Images//attachment/album/201909/16/182749ic43iw3cxiiw2t11.jpg)
+![](/Asserts/Images/album/201909/16/182749ic43iw3cxiiw2t11.jpg)
 
 
 ### 具体有什么变化？

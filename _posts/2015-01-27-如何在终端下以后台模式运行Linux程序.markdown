@@ -7,7 +7,7 @@ tags:	[linuxcn,终端,后台,命令行]
 ---
 
 
-![Linux Terminal Window.](/Asserts/Images//attachment/album/201501/26/231411bzzqaqag6cckza6a.jpg)
+![Linux Terminal Window.](/Asserts/Images/album/201501/26/231411bzzqaqag6cckza6a.jpg)
 
 
 *Linux终端窗口*

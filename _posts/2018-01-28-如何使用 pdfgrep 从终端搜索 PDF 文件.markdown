@@ -7,7 +7,7 @@ tags:	[linuxcn,pdfgrep,pdf]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/16/132004ioiyi5n78n58ziin.jpg)
+![](/Asserts/Images/album/201801/16/132004ioiyi5n78n58ziin.jpg)
 
 
 诸如 [grep](https://www.maketecheasier.com/what-is-grep-and-uses/) 和 [ack-grep](https://www.maketecheasier.com/ack-a-better-grep/) 之类的命令行工具对于搜索匹配指定[正则表达式](https://www.maketecheasier.com/the-beginner-guide-to-regular-expressions/)的纯文本非常有用。但是你有没有试过使用这些工具在 PDF 中搜索？不要这么做！由于这些工具无法读取PDF文件，因此你不会得到任何结果。它们只能读取纯文本文件。
@@ -51,7 +51,7 @@ pdfgrep [OPTION...] PATTERN [FILE...]
 我对 Python 3.6 官方文档运行该命令。下图是结果。
 
 
-![pdfgrep search](/Asserts/Images//attachment/album/201801/16/132005kwnwdjgo6d76wigi.png "pdfgrep search")
+![pdfgrep search](/Asserts/Images/album/201801/16/132005kwnwdjgo6d76wigi.png "pdfgrep search")
 
 
 红色高亮显示所有遇到单词 “queue” 的地方。在命令中加入 `-i` 选项将会匹配单词 “Queue”。请记住，当加入 `-i` 时，大小写并不重要。

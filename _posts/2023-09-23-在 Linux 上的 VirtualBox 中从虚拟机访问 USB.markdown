@@ -7,7 +7,7 @@ tags:	[linuxcn,USB,VirtualBox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/25/002722v04rbi1g34084gf1.jpg)
+![](/Asserts/Images/album/202309/25/002722v04rbi1g34084gf1.jpg)
 
 
 
@@ -53,7 +53,7 @@ tags:	[linuxcn,USB,VirtualBox]
 要安装 VirtualBox 扩展包，只需访问 [VirtualBox 官方下载页面](https://www.virtualbox.org/wiki/Downloads)，向下滚动一点，你将找到下载扩展包的选项：
 
 
-![](/Asserts/Images//attachment/album/202309/25/002742hqro4rbjz0vvr0z8.png)
+![](/Asserts/Images/album/202309/25/002742hqro4rbjz0vvr0z8.png)
 
 
 下载完扩展包后，请执行 3 个简单步骤：
@@ -64,13 +64,13 @@ tags:	[linuxcn,USB,VirtualBox]
 * 从文件管理器中选择下载的文件：
 
 
-![](/Asserts/Images//attachment/album/202309/25/002743tolba6zq977e6w7g.png)
+![](/Asserts/Images/album/202309/25/002743tolba6zq977e6w7g.png)
 
 
 它将打开一个新的提示来安装扩展包，你所要做的就是点击“安装”按钮并接受条款和条件：
 
 
-![](/Asserts/Images//attachment/album/202309/25/002744w3npgcf9ag2i3fau.png)
+![](/Asserts/Images/album/202309/25/002744w3npgcf9ag2i3fau.png)
 
 
 我们就完成了扩展包的安装。
@@ -113,13 +113,13 @@ sudo usermod -aG vboxusers $USER
 * 选中 “<ruby> 启用 USB 控制器 <rt>  Enable USB Controller </rt></ruby>” 框并单击 “+” 按钮选择 “USB”：
 
 
-![](/Asserts/Images//attachment/album/202309/25/002744pyri44afzafxfhy6.png)
+![](/Asserts/Images/album/202309/25/002744pyri44afzafxfhy6.png)
 
 
 这就好了！现在你可以启动虚拟机，并且 USB 驱动器应该出现在文件管理器中。就我而言，它是 Ubuntu，所以它看起来像这样：
 
 
-![](/Asserts/Images//attachment/album/202309/25/002745bfgkfokfyqxyfodd.png)
+![](/Asserts/Images/album/202309/25/002745bfgkfokfyqxyfodd.png)
 
 
 ### 更多 USB 和 VM 技巧

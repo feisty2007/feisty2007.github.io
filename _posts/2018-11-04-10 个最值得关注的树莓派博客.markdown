@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派]
 > 
 
 
-![](/Asserts/Images//attachment/album/201811/02/231408nnq8es4n8c8cc3zy.png)
+![](/Asserts/Images/album/201811/02/231408nnq8es4n8c8cc3zy.png)
 
 
 网上有很多很棒的树莓派爱好者网站、教程、代码仓库、YouTube 频道和其他资源。以下是我最喜欢的十大树莓派博客，排名不分先后。

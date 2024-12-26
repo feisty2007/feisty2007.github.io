@@ -7,7 +7,7 @@ tags:	[linuxcn,Chrome,密码管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/06/073440j444ou8sebebbjki.jpg)
+![](/Asserts/Images/album/202006/06/073440j444ou8sebebbjki.jpg)
 
 
 #### Google Chrome：曾经的屠龙者如今也变成了龙

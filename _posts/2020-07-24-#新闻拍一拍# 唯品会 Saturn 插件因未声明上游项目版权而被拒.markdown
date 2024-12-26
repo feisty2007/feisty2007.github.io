@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,许可证]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/24/143743pspnc39u0ggkaan0.jpg)
+![](/Asserts/Images/album/202007/24/143743pspnc39u0ggkaan0.jpg)
 
 
 #### 唯品会 Saturn 插件因未声明上游项目版权而被拒

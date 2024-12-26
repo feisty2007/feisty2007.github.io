@@ -7,7 +7,7 @@ tags:	[linuxcn,debian,Ian Murdock]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/31/083542iobbj6rw9z1oeeoa.jpg)
+![](/Asserts/Images/album/201512/31/083542iobbj6rw9z1oeeoa.jpg)
 
 
 **更新：[旧金山警局给出了事件经过。](/article-6829-1.html)**

@@ -15,7 +15,7 @@ tags:	[linuxcn,ChatGPT]
 > 
 
 
-![huggingchat](/Asserts/Images//attachment/album/202304/29/201643lawx29o47x00avaz.jpg)
+![huggingchat](/Asserts/Images/album/202304/29/201643lawx29o47x00avaz.jpg)
 
 
 新 AI 聊天机器人的浪潮看起来短时间内势不可挡；而新的一个竞争者已经加入与 ChatGPT 抗衡的比赛中。
@@ -50,7 +50,7 @@ tags:	[linuxcn,ChatGPT]
 > 
 
 
-![huggingchat 界面截图](/Asserts/Images//attachment/album/202304/29/201649aqep6qxe6y75gg8e.jpg)
+![huggingchat 界面截图](/Asserts/Images/album/202304/29/201649aqep6qxe6y75gg8e.jpg)
 
 
 HuggingChat 由 Open Assistant 最新的 [基于 LLaMA 的模型](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor?ref=news.itsfoss.com) 提供支持，据说这是目前市场上最好的开源聊天模型之一。
@@ -86,7 +86,7 @@ HuggingChat 由 Open Assistant 最新的 [基于 LLaMA 的模型](https://huggin
 当我可以运行命令时，我向 HuggingChat 询问了它的后端。它为我提供了相当不错的关于它自己的信息。
 
 
-![huggingchat 界面截图](/Asserts/Images//attachment/album/202304/29/201650bzj9ssnzky9unyrj.png)
+![huggingchat 界面截图](/Asserts/Images/album/202304/29/201650bzj9ssnzky9unyrj.png)
 
 
 最后，总结一下吧！

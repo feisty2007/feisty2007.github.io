@@ -7,7 +7,7 @@ tags:	[linuxcn,日志,邮件]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/31/211325yl2dldr4lk7gkkkk.jpg)
+![](/Asserts/Images/album/201907/31/211325yl2dldr4lk7gkkkk.jpg)
 
 
 目前市场上有许多开源监控工具可用于监控 Linux 系统的性能。当系统达到指定的阈值限制时，它将发送电子邮件警报。它可以监视 CPU 利用率、内存利用率、交换利用率、磁盘空间利用率等所有内容。

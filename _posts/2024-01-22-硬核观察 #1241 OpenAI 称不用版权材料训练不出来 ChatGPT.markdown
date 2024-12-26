@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,工作]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/09/172958occey1b4zog1szy1.jpg)
+![](/Asserts/Images/album/202401/09/172958occey1b4zog1szy1.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/09/173011jlzzwnnvof5g2f28.png)
+![](/Asserts/Images/album/202401/09/173011jlzzwnnvof5g2f28.png)
 
 
 ### #1 OpenAI 称不用版权材料训练不出来 ChatGPT
@@ -38,7 +38,7 @@ OpenAI 在给英国上议院的文件中表示，如果不能访问受版权保�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/09/173110g2job69t329kr0tq.png)
+![](/Asserts/Images/album/202401/09/173110g2job69t329kr0tq.png)
 
 
 ### #2 美国去年仅净增长 700 个 IT 工作岗位
@@ -66,7 +66,7 @@ OpenAI 在给英国上议院的文件中表示，如果不能访问受版权保�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/09/173128wnlo4ulpzi404a0x.png)
+![](/Asserts/Images/album/202401/09/173128wnlo4ulpzi404a0x.png)
 
 
 ### #3 确保 AI 安全的理论仍未就绪

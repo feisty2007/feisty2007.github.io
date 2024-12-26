@@ -15,7 +15,7 @@ tags:	[linuxcn,扫雷]
 > 
 
 
-![](/Asserts/Images//attachment/album/201910/07/115136p51t04j584m4o18z.jpg)
+![](/Asserts/Images/album/201910/07/115136p51t04j584m4o18z.jpg)
 
 
 我在编程教学方面不是专家，但当我想更好掌握某一样东西时，会试着找出让自己乐在其中的方法。比方说，当我想在 shell 编程方面更进一步时，我决定用 Bash 编写一个[扫雷](https://en.wikipedia.org/wiki/Minesweeper_(video_game))游戏来加以练习。
@@ -175,7 +175,7 @@ get_free_fields()
 这是显示出来的游戏界面，`[a-j]` 为列，`[0-9]` 为行。
 
 
-![Minefield](/Asserts/Images//attachment/album/201910/07/115159fb5z9b3qn11v111q.png "Minefield")
+![Minefield](/Asserts/Images/album/201910/07/115159fb5z9b3qn11v111q.png "Minefield")
 
 
 ### 创建玩家逻辑
@@ -254,13 +254,13 @@ is_free_field()
 }
 ```
 
-![Extracting mines](/Asserts/Images//attachment/album/201910/07/115200yun3rw2r9b8fjw69.png "Extracting mines")
+![Extracting mines](/Asserts/Images/album/201910/07/115200yun3rw2r9b8fjw69.png "Extracting mines")
 
 
 如输入坐标有效，且对应位置为地雷，如下图所示。玩家输入 `h6`，游戏界面会出现一些随机生成的值。在发现地雷后，这些值会被加入用户得分。
 
 
-![Extracting mines](/Asserts/Images//attachment/album/201910/07/115203umy7fft9vmfrvfto.png "Extracting mines")
+![Extracting mines](/Asserts/Images/album/201910/07/115203umy7fft9vmfrvfto.png "Extracting mines")
 
 
 还记得我们开头定义的变量，`a` - `g` 吗，我会用它们来确定随机生成地雷的具体值。所以，根据玩家输入坐标，程序会根据（`m`）中随机生成的数，来生成周围其他单元格的值（如上图所示）。之后将所有值和初始输入坐标相加，最后结果放在 `i`（计算结果如上）中。
@@ -283,7 +283,7 @@ m=$(shuf -e a b c d e f g X -n 1)   # 将 X 添加到随机列表中，当 m=X�
 我想要游戏界面中，所有随机显示出来的单元格，都靠近玩家选择的单元格。
 
 
-![Extracting mines](/Asserts/Images//attachment/album/201910/07/115204ri4htjh4554yg4gd.png "Extracting mines")
+![Extracting mines](/Asserts/Images/album/201910/07/115204ri4htjh4554yg4gd.png "Extracting mines")
 
 
 ### 记录已选择和可用单元格的个数
@@ -348,7 +348,7 @@ if [[ "$m" = "X" ]]; then
 fi
 ```
 
-![Minecraft Gameover](/Asserts/Images//attachment/album/201910/07/115207h9eshwh1sil1wsho.png "Minecraft Gameover")
+![Minecraft Gameover](/Asserts/Images/album/201910/07/115207h9eshwh1sil1wsho.png "Minecraft Gameover")
 
 
 文章到这里就结束了，朋友们！如果你想了解更多，具体可以查看我的 [GitHub 存储库](https://github.com/abhiTamrakar/playground/tree/master/bash_games)，那儿有这个扫雷游戏的源代码，并且你还能找到更多用 Bash 编写的游戏。 我希望，这篇文章能激起你学习 Bash 的兴趣，并乐在其中。

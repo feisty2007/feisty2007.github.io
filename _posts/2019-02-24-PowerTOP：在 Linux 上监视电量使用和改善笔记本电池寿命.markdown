@@ -7,7 +7,7 @@ tags:	[linuxcn,电池,电源]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/21/235257ef1eepe6rkv6qxjf.jpg)
+![](/Asserts/Images/album/201902/21/235257ef1eepe6rkv6qxjf.jpg)
 
 
 我们都知道，现在几乎都从 PC 机换到了笔记本电脑了。但是使用笔记本有个问题，我们希望电池耐用，我们可以使用到每一点电量。所以，我们需要知道电量都去哪里了，是不是浪费了。
@@ -397,7 +397,7 @@ PowerTOP outputing using base filename powertop.html
 打开 `file:///home/daygeek/powertop.html` 文件以访问生成的 PowerTOP 的 HTML 报告。
 
 
-![](/Asserts/Images//attachment/album/201902/21/235344kts8h8bkk7gt8cgg.jpg)
+![](/Asserts/Images/album/201902/21/235344kts8h8bkk7gt8cgg.jpg)
 
 
 ### 自动调整模式

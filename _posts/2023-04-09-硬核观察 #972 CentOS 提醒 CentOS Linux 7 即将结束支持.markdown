@@ -7,10 +7,10 @@ tags:	[linuxcn,CentOS,ChatGPT,芯片]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/15/194231yyxc7bbci0coi181.jpg)
+![](/Asserts/Images/album/202304/15/194231yyxc7bbci0coi181.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/15/194243rjyyycrrmjwb1vuj.jpg)
+![](/Asserts/Images/album/202304/15/194243rjyyycrrmjwb1vuj.jpg)
 
 
 ### CentOS 提醒 CentOS Linux 7 即将结束支持
@@ -35,7 +35,7 @@ CentOS 项目已经发出了关于 CentOS Linux 7 和 CentOS Stream 8 的终结�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/15/194253h26j6d2hq5jz3ddi.jpg)
+![](/Asserts/Images/album/202304/15/194253h26j6d2hq5jz3ddi.jpg)
 
 
 ### ChatGPT 为“身兼多职”的提供了更多机会
@@ -60,7 +60,7 @@ CentOS 项目已经发出了关于 CentOS Linux 7 和 CentOS Stream 8 的终结�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/15/194306x0uos4dzrdrqjrzq.jpg)
+![](/Asserts/Images/album/202304/15/194306x0uos4dzrdrqjrzq.jpg)
 
 
 ### 英伟达的顶级 AI 芯片在 eBay 上的售价超过 4 万美元

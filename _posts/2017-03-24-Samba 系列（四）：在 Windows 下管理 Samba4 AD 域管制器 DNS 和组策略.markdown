@@ -10,7 +10,7 @@ tags:	[linuxcn,Samba,DNS]
 接着前一篇教程写的关于[使用 Windows 10 的 RSAT 工具来管理 Samba4 活动目录架构](/article-8097-1.html)，在这篇文章中我们将学习如何使用微软 DNS 管理器远程管理我们的 Samba AD 域控制器的 DNS 服务器，如何创建 DNS 记录，如何创建反向查找区域以及如何通过组策略管理工具来创建域策略。
 
 
-![](/Asserts/Images//attachment/album/201703/02/103407nb3hkxosffb4x34x.jpg)
+![](/Asserts/Images/album/201703/02/103407nb3hkxosffb4x34x.jpg)
 
 
 #### 要求
@@ -43,7 +43,7 @@ Samba4 内部的 DNS 模块支持 AD 域控制器所必须的基本功能。有�
 当打开这个工具时，它会询问你将要连接到哪台正在运行的 DNS 服务器。选择“使用下面的计算机”，输入域名（IP 地址或 FQDN 地址都可以使用），勾选“现在连接到指定计算机”，然后单击 OK 按钮以开启 Samba DNS 服务。
 
 
-![Connect Samba4 DNS on Windows](/Asserts/Images//attachment/album/201703/02/103536r9pv8h1rd9m99oc4.png)
+![Connect Samba4 DNS on Windows](/Asserts/Images/album/201703/02/103536r9pv8h1rd9m99oc4.png)
 
 
 *在 Windows 系统上连接 Samba4 DNS 服务器*
@@ -52,7 +52,7 @@ Samba4 内部的 DNS 模块支持 AD 域控制器所必须的基本功能。有�
 2、为了添加一条 DNS 记录（比如我们添加一条指向 LAN 网关的 A 记录），打开 DNS 管理器，找到域正向查找区，在右侧单击右键选择新的主机（A 或 AAAA）。
 
 
-![Add DNS A Record on Windows](/Asserts/Images//attachment/album/201703/02/103536qh1hces122yu0ly1.png)
+![Add DNS A Record on Windows](/Asserts/Images/album/201703/02/103536qh1hces122yu0ly1.png)
 
 
 *在 Windows 下添加一条 DNS 记录*
@@ -64,7 +64,7 @@ Samba4 内部的 DNS 模块支持 AD 域控制器所必须的基本功能。有�
 确保仅为你的网络中[已配置静态 IP](http://www.tecmint.com/set-add-static-ip-address-in-linux/)的资源（设备）添加 DNS A 记录。不要为那些从 DHCP 服务器自动获取 IP 地址或者经常变换 IP 地址的主机添加 DNS A 记录。
 
 
-![Configure Samba Host on Windows](/Asserts/Images//attachment/album/201703/02/103537np0ol3qo908bl0lp.png)
+![Configure Samba Host on Windows](/Asserts/Images/album/201703/02/103537np0ol3qo908bl0lp.png)
 
 
 *在 Windows 系统下配置 Samba 主机*
@@ -91,7 +91,7 @@ Samba4 内部的 DNS 模块支持 AD 域控制器所必须的基本功能。有�
 4、要创建 Samba AD DC 的反向查找区域，打开 DNS 管理器，在左侧反向查找区域目录上单击右键，然后选择菜单中的新区域。
 
 
-![Create Reverse Lookup DNS Zone](/Asserts/Images//attachment/album/201703/02/103538pv7r5aoqlvrvr7aa.png)
+![Create Reverse Lookup DNS Zone](/Asserts/Images/album/201703/02/103538pv7r5aoqlvrvr7aa.png)
 
 
 *创建 DNS 反向查找区域*
@@ -100,7 +100,7 @@ Samba4 内部的 DNS 模块支持 AD 域控制器所必须的基本功能。有�
 5、下一步，单击下一步按钮，然后从区域类型向导中选择主区域（Primary）。
 
 
-![Select DNS Zone Type](/Asserts/Images//attachment/album/201703/02/103538aiv7uy90sfuhf9h7.png)
+![Select DNS Zone Type](/Asserts/Images/album/201703/02/103538aiv7uy90sfuhf9h7.png)
 
 
 *选择 DNS 区域类型*
@@ -109,13 +109,13 @@ Samba4 内部的 DNS 模块支持 AD 域控制器所必须的基本功能。有�
 6、下一步，在 “AD 区域复制范围”中选择复制到该域里运行在域控制器上的所有的 DNS 服务器，选择 “IPv4 反向查找区域”然后单击下一步继续。
 
 
-![Select DNS for Samba Domain Controller](/Asserts/Images//attachment/album/201703/02/103539ktkt670z7a66tpsn.png)
+![Select DNS for Samba Domain Controller](/Asserts/Images/album/201703/02/103539ktkt670z7a66tpsn.png)
 
 
 *为 Samba 域控制器选择 DNS 服务器*
 
 
-![Add Reverse Lookup Zone Name](/Asserts/Images//attachment/album/201703/02/103539q2lt28nzf8xggbqw.png)
+![Add Reverse Lookup Zone Name](/Asserts/Images/album/201703/02/103539q2lt28nzf8xggbqw.png)
 
 
 *添加反向查找区域名*
@@ -127,7 +127,7 @@ Samba4 内部的 DNS 模块支持 AD 域控制器所必须的基本功能。有�
 在这个区域内添加的所有资源（设备）的 PTR 记录仅能指向 192.168.1.0/24 网络段。如果你想要为一个不在该网段中的服务器创建一个 PTR 记录（比如邮件服务器位于 10.0.0.0/24 这个网段的时候），那么你还得为那个网段创建一个新的反向查找区域。
 
 
-![Add IP Address of Reverse Lookup DNS Zone](/Asserts/Images//attachment/album/201703/02/103540p8an115sanq138qa.png)
+![Add IP Address of Reverse Lookup DNS Zone](/Asserts/Images/album/201703/02/103540p8an115sanq138qa.png)
 
 
 *添加 DNS 反向查找区域的 IP 地址*
@@ -136,13 +136,13 @@ Samba4 内部的 DNS 模块支持 AD 域控制器所必须的基本功能。有�
 8、在下一个截图中选择“仅允许安全的动态更新”，单击下一步继续，最后单击完成按钮以完成反向查找区域的创建。
 
 
-![Enable Secure Dynamic Updates](/Asserts/Images//attachment/album/201703/02/103540v9094wdj7ha7sdso.png)
+![Enable Secure Dynamic Updates](/Asserts/Images/album/201703/02/103540v9094wdj7ha7sdso.png)
 
 
 *启用安全动态更新*
 
 
-![New DNS Zone Summary](/Asserts/Images//attachment/album/201703/02/103540a2szx67oaso4gigo.png)
+![New DNS Zone Summary](/Asserts/Images/album/201703/02/103540a2szx67oaso4gigo.png)
 
 
 *新 DNS 区域概览*
@@ -165,7 +165,7 @@ ping gate
 
 ```
 
-![Add DNS PTR Record and Query PTR](/Asserts/Images//attachment/album/201703/02/103541fn2gw285fx8g22mn.png)
+![Add DNS PTR Record and Query PTR](/Asserts/Images/album/201703/02/103541fn2gw285fx8g22mn.png)
 
 
 *添加及查询 PTR 记录*
@@ -189,7 +189,7 @@ ping gate
 展开你的域下面的目录，在默认组策略上右键，选择菜单中的编辑，将出现一个新的窗口。
 
 
-![Manage Samba Domain Group Policy](/Asserts/Images//attachment/album/201703/02/103541ke88gg2yt8dym1ry.png)
+![Manage Samba Domain Group Policy](/Asserts/Images/album/201703/02/103541ke88gg2yt8dym1ry.png)
 
 
 *管理 Samba 域组策略*
@@ -201,7 +201,7 @@ ping gate
 在右侧查询并编辑你的定制化设置，参考下图中的两条设置内容。
 
 
-![Configure Samba Domain Group Policy](/Asserts/Images//attachment/album/201703/02/103542rszqkxazeanz1az4.png)
+![Configure Samba Domain Group Policy](/Asserts/Images/album/201703/02/103542rszqkxazeanz1az4.png)
 
 
 *配置 Samba 域组策略*
@@ -216,7 +216,7 @@ gpupdate /force
 
 ```
 
-![Update Samba Domain Group Policy](/Asserts/Images//attachment/album/201703/02/103542y7718s7e8ss0eeed.png)
+![Update Samba Domain Group Policy](/Asserts/Images/album/201703/02/103542y7718s7e8ss0eeed.png)
 
 
 *更新 Samba 域组策略*
@@ -225,7 +225,7 @@ gpupdate /force
 13、最后，重启你的电脑，当你准备登录进入系统的时候，你就会看到登录提示生效了。
 
 
-![Samba4 AD Domain Controller Logon Banner](/Asserts/Images//attachment/album/201703/02/103542esajtahiennhoa8j.png)
+![Samba4 AD Domain Controller Logon Banner](/Asserts/Images/album/201703/02/103542esajtahiennhoa8j.png)
 
 
 *Samba4 AD 域控制器登录提示*

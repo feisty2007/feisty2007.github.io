@@ -10,7 +10,7 @@ tags:	[linuxcn,PowerShell,脚本,微软]
 在[微软爱上 Linux](/article-7515-1.html) 之后，**PowerShell** 这个原本只是 Windows 才能使用的组件，于 2016 年 8 月 18 日[开源并且成为跨平台软件](/article-7699-1.html)，登陆了 Linux 和 macOS。
 
 
-![](/Asserts/Images//attachment/album/201703/13/083959vbbegoma8emdggkb.jpg)
+![](/Asserts/Images/album/201703/13/083959vbbegoma8emdggkb.jpg)
 
 
 **PowerShell** 是一个微软开发的自动化任务和配置管理系统。它基于 .NET 框架，由命令行语言解释器（shell）和脚本语言组成。
@@ -83,7 +83,7 @@ $ powershell
 
 ```
 
-![Start Powershell in Linux](/Asserts/Images//attachment/album/201703/13/084024du81euye77bsusii.png)
+![Start Powershell in Linux](/Asserts/Images/album/201703/13/084024du81euye77bsusii.png)
 
 
 *在 Linux 中启动 PowerShell*
@@ -98,7 +98,7 @@ $PSVersionTable
 
 ```
 
-![Check Powershell Version](/Asserts/Images//attachment/album/201703/13/084025ckdzp5tfm6tcc5cp.png)
+![Check Powershell Version](/Asserts/Images/album/201703/13/084025ckdzp5tfm6tcc5cp.png)
 
 
 *查看 PowerShell 版本*
@@ -139,7 +139,7 @@ get-content tecmint.tex
 
 ```
 
-![Create New File in Powershell](/Asserts/Images//attachment/album/201703/13/084025lvi4q45pzfv98v88.png)
+![Create New File in Powershell](/Asserts/Images/album/201703/13/084025lvi4q45pzfv98v88.png)
 
 
 *在 PowerShell 中创建新文件*
@@ -155,7 +155,7 @@ get-content tecmint.tex
 
 ```
 
-![Delete File in Powershell](/Asserts/Images//attachment/album/201703/13/084026pshkk774r8k6kvee.png)
+![Delete File in Powershell](/Asserts/Images/album/201703/13/084026pshkk774r8k6kvee.png)
 
 
 *在 PowerShell 中删除一个文件*
@@ -173,7 +173,7 @@ ls
 
 ```
 
-![Create Directory in Powershell](/Asserts/Images//attachment/album/201703/13/084026d94zz0gpg1gkgg1p.png)
+![Create Directory in Powershell](/Asserts/Images/album/201703/13/084026d94zz0gpg1gkgg1p.png)
 
 
 *在 PowerShell 中创建目录*
@@ -188,7 +188,7 @@ dir
 
 ```
 
-![Directory Long Listing in Powershell](/Asserts/Images//attachment/album/201703/13/084026ambbskbqhh9mhqbn.png)
+![Directory Long Listing in Powershell](/Asserts/Images/album/201703/13/084026ambbskbqhh9mhqbn.png)
 
 
 *Powershell 中列出目录长列表*
@@ -203,7 +203,7 @@ get-process
 
 ```
 
-![View Running Processes in Powershell](/Asserts/Images//attachment/album/201703/13/084027rba9tystlwkk9aot.png)
+![View Running Processes in Powershell](/Asserts/Images/album/201703/13/084027rba9tystlwkk9aot.png)
 
 
 *在 PowerShell 中显示运行中的进程*
@@ -218,7 +218,7 @@ get-process apache2
 
 ```
 
-![View Specific Process in Powershell](/Asserts/Images//attachment/album/201703/13/084027tfb66w2yzf22z6bb.png)
+![View Specific Process in Powershell](/Asserts/Images/album/201703/13/084027tfb66w2yzf22z6bb.png)
 
 
 *在 PowerShell 中查看指定的进程*
@@ -244,7 +244,7 @@ get-command
 
 ```
 
-![List Powershell Commands](/Asserts/Images//attachment/album/201703/13/084028o4jtwhzzywjj6f6p.png)
+![List Powershell Commands](/Asserts/Images/album/201703/13/084028o4jtwhzzywjj6f6p.png)
 
 
 *列出 PowerShell 的命令*
@@ -259,7 +259,7 @@ get-help Describe
 
 ```
 
-![Powershell Help Manual](/Asserts/Images//attachment/album/201703/13/084028o6z08ttgt8t06wo0.png)
+![Powershell Help Manual](/Asserts/Images/album/201703/13/084028o6z08ttgt8t06wo0.png)
 
 
 *PowerShell 帮助手册*
@@ -274,7 +274,7 @@ get-alias
 
 ```
 
-![List Powershell Command Aliases](/Asserts/Images//attachment/album/201703/13/084029g4kmmzokrb4wn4oo.png)
+![List Powershell Command Aliases](/Asserts/Images/album/201703/13/084029g4kmmzokrb4wn4oo.png)
 
 
 *列出 PowerShell 命令别名*
@@ -289,7 +289,7 @@ history
 
 ```
 
-![List Powershell Commands History](/Asserts/Images//attachment/album/201703/13/084029rixqy93zi60v3ozi.png)
+![List Powershell Commands History](/Asserts/Images/album/201703/13/084029rixqy93zi60v3ozi.png)
 
 
 *显示 PowerShell 命令历史记录*

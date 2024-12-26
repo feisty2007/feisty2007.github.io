@@ -7,7 +7,7 @@ tags:	[linuxcn,桌面,主题]
 ---
 
 
-![kde-plasma-to-windows-10](/Asserts/Images//attachment/album/201611/20/111647cq6ka42vkdcaiaa4.jpg)
+![kde-plasma-to-windows-10](/Asserts/Images/album/201611/20/111647cq6ka42vkdcaiaa4.jpg)
 
 
 通过一些步骤，我将告诉你如何把 KDE Plasma 5 桌面变成 Windows 10 桌面。
@@ -49,7 +49,7 @@ tags:	[linuxcn,桌面,主题]
 2、 选择 "TIled Mune" ->点击<ruby> 切换 <rp>  （ </rp> <rt>  Switch </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201611/20/111829kpjnw3pz3rduqdsy.jpg)
+![](/Asserts/Images/album/201611/20/111829kpjnw3pz3rduqdsy.jpg)
 
 
 *KDE Tiled 菜单扩展*

@@ -15,7 +15,7 @@ tags:	[linuxcn,MasterPlus,散热器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/11/105414yt7ziqw41tvbwijy.png)
+![](/Asserts/Images/album/202301/11/105414yt7ziqw41tvbwijy.png)
 
 
 大多数游戏/外设软件套装要么是专有的，要么是没有对 Linux 的官方支持。
@@ -45,7 +45,7 @@ tags:	[linuxcn,MasterPlus,散热器]
 ### MasterPlus 开源版本：我们目前所知的情况
 
 
-![酷冷至尊 Masterplus 改版](/Asserts/Images//attachment/album/202301/11/105414btppihwcjnpp6gln.png)
+![酷冷至尊 Masterplus 改版](/Asserts/Images/album/202301/11/105414btppihwcjnpp6gln.png)
 
 
 **酷冷至尊在最近的 [CES 2023](https://www.ces.tech) 活动中透露了他们计划发布新的 MasterPlus 开源版本**。感谢来自 [Boring Text Reviews](https://boringtextreviews.com/exclusive-say-goodbye-to-bloated-closed-source-software-coolermaster-to-release-new-open-source-version-of-its-software-with-api-integration-and-it-can-work-with-other-coolers-too) 的 Albert 让我们注意到了这一点。

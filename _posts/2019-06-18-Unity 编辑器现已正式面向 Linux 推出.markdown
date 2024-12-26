@@ -30,7 +30,7 @@ tags:	[linuxcn,Unity]
 ### 官方支持 Ubuntu 和 CentOS 7
 
 
-![](/Asserts/Images//attachment/album/201906/14/112102oo7l7rjstuvisnus.png)
+![](/Asserts/Images/album/201906/14/112102oo7l7rjstuvisnus.png)
 
 
 无论你拥有个人许可还是专业许可，如果你安装了 Unity 2019.1 或更高版本，都可以使用该编辑器。
@@ -71,7 +71,7 @@ tags:	[linuxcn,Unity]
 要安装 Unity，你需要下载并安装 [Unity Hub](https://forum.unity.com/threads/unity-hub-v-1-6-0-is-now-available.640792/)。
 
 
-![Unity Hub](/Asserts/Images//attachment/album/201906/14/112104hdua83vdxkjwutzv.jpg)
+![Unity Hub](/Asserts/Images/album/201906/14/112104hdua83vdxkjwutzv.jpg)
 
 
 你需要完成以下步骤：

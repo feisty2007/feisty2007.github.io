@@ -7,7 +7,7 @@ tags:	[linuxcn,MySQL,MariaDB,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/201703/22/145433hnarqiqadr161yz0.jpg)
+![](/Asserts/Images/album/201703/22/145433hnarqiqadr161yz0.jpg)
 
 
 如果你是第一次[安装 MySQL 或 MariaDB](/article-8320-1.html)，你可以执行 `mysql_secure_installation` 脚本来实现基本的安全设置。
@@ -40,7 +40,7 @@ tags:	[linuxcn,MySQL,MariaDB,密码]
 
 ```
 
-![Check MySQL Status](/Asserts/Images//attachment/album/201703/22/145508uxhaedziffsfvtnb.png)
+![Check MySQL Status](/Asserts/Images/album/201703/22/145508uxhaedziffsfvtnb.png)
 
 
 *检查 MysQL 状态*
@@ -90,7 +90,7 @@ MariaDB [(none)]> exit;
 然后，敲回车。你现在应该可以使用新密码连接到服务器了。
 
 
-![Change MySQL/MariaDB Root Password](/Asserts/Images//attachment/album/201703/22/145508fc2j164z9p9xp949.png)
+![Change MySQL/MariaDB Root Password](/Asserts/Images/album/201703/22/145508fc2j164z9p9xp949.png)
 
 
 *修改 MysQL/MariaDB Root 密码*

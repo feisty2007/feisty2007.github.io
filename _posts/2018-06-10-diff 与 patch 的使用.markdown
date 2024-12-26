@@ -7,7 +7,7 @@ tags:	[linuxcn,diff,patch,补丁]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/03/112057zvh0tuwx1lljehhs.jpg)
+![](/Asserts/Images/album/201806/03/112057zvh0tuwx1lljehhs.jpg)
 
 
 ### 摘要

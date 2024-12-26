@@ -7,7 +7,7 @@ tags:	[linuxcn,脚本,Bash]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/22/114259tsxsfzyuxw3vf7k0.jpg)
+![](/Asserts/Images/album/202308/22/114259tsxsfzyuxw3vf7k0.jpg)
 
 
 
@@ -173,7 +173,7 @@ $ ./function.sh abhi shek
 一个递归函数会调用它自己。这就是递归的含义。这个梗图可能会帮助你理解它。
 
 
-![](/Asserts/Images//attachment/album/202308/22/114354uy2914fjzf90q771.jpg)
+![](/Asserts/Images/album/202308/22/114354uy2914fjzf90q771.jpg)
 
 
 递归功能非常强大，可以帮助你编写复杂的程序。

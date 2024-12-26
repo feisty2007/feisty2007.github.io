@@ -7,7 +7,7 @@ tags:	[linuxcn,Silverblue,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/11/152119r6nv12c115vntzp4.png)
+![](/Asserts/Images/album/202311/11/152119r6nv12c115vntzp4.png)
 
 
 [Fedora Silverblue](https://docs.fedoraproject.org/en-US/fedora-silverblue/) 是 一款基于 Fedora Linux 构建的面向桌面的操作系统。这款操作系统非常适合日常使用、开发和容器化的工作流程。它有 [许多优势](https://fedoramagazine.org/give-fedora-silverblue-a-test-drive/)，例如可以在发生问题时轻松回滚操作。如果你想在 Fedora Silverblue 系统上更新或将系统 <ruby> 重定位 <rt>  rebase </rt></ruby> 到 Fedora Linux 39，本文会提供帮助。文章不仅会指导你执行操作，还会教你如何在遇到意外情况时撤销操作。

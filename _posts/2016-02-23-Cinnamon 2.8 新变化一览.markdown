@@ -7,7 +7,7 @@ tags:	[linuxcn,Cinnamon]
 ---
 
 
-![](/Asserts/Images//attachment/album/201602/06/205932k8dey0d8q063laai.jpg)
+![](/Asserts/Images/album/201602/06/205932k8dey0d8q063laai.jpg)
 
 
 除了Gnome和KDE外，Cinnamon是另一个很多人使用的桌面环境。它是由创作Linux Mint的团队制作的，并且可以被安装在许多其他发行版上。该桌面环境的最新版本 - Cinnamon 2.8 - 于去年底发布，此版本修复了许多的Bug、做了许多改进并添加了一些新功能。
@@ -25,7 +25,7 @@ tags:	[linuxcn,Cinnamon]
 #### 声音 Applet
 
 
-![cinnamon-28-sound-applet](/Asserts/Images//attachment/album/201602/06/205933xrumy6oprrrrp4vp.jpg)
+![cinnamon-28-sound-applet](/Asserts/Images/album/201602/06/205933xrumy6oprrrrp4vp.jpg)
 
 
 声音Applet经过修正，目前可以显示音轨信息并且可以在音频文件的艺术家封面上面进行媒体控制。对于支持拖动的音乐播放器来说（例如Banshee），会有一个进度条显示同样的播放进度，您可以用它来改变音轨位置。在applet的面板上右击将显示对输入和输出设备静音的选项。
@@ -40,7 +40,7 @@ tags:	[linuxcn,Cinnamon]
 #### 窗口缩略图
 
 
-![cinnamon-2.8-window-thumbnails](/Asserts/Images//attachment/album/201602/06/205933hlml8mma65pfjoy5.png)
+![cinnamon-2.8-window-thumbnails](/Asserts/Images/album/201602/06/205933hlml8mma65pfjoy5.png)
 
 
 在Cinnamon 2.8中，可以在鼠标悬停于面板里窗口列表时展示窗口缩略图。如果您不喜欢该功能，您还可以关闭该选项。
@@ -49,7 +49,7 @@ tags:	[linuxcn,Cinnamon]
 #### 工作区切换 Applet
 
 
-![cinnamon-2.8-workspace-switcher](/Asserts/Images//attachment/album/201602/06/205933fzmxxnqm80cctnto.png)
+![cinnamon-2.8-workspace-switcher](/Asserts/Images/album/201602/06/205933fzmxxnqm80cctnto.png)
 
 
 添加工作区切换applet到您的面板将为您显示一个代表该工作区的可视化图像，一些矩形嵌套显示在其中，代表您的窗口的位置。
@@ -73,7 +73,7 @@ Cinnamon 2.8还做了很多视觉上的改进。经典的切换器和Alt + Tab�
 ### Nemo 的改进
 
 
-![cinnamon-2.8-nemo](/Asserts/Images//attachment/album/201602/06/205933koobbrc9hoq71ozi.jpg)
+![cinnamon-2.8-nemo](/Asserts/Images/album/201602/06/205933koobbrc9hoq71ozi.jpg)
 
 
 Cinnamon默认的文件管理器也修复了一些bug，并有了新的“快速重命名”的功能，用于重命名文件和文件夹。可以通过两次点击文件或文件夹并在两次点击之间进行简短的停顿以重命名文件。

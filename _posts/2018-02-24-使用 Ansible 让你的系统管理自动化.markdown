@@ -15,7 +15,7 @@ tags:	[linuxcn,ansible]
 > 
 
 
-![](/Asserts/Images//attachment/album/201802/10/121144exxulb5xlxeb5lau.jpg)
+![](/Asserts/Images/album/201802/10/121144exxulb5xlxeb5lau.jpg)
 
 
 你是否想精进你的系统管理能力和 Linux 技能？也许你的本地局域网上跑了一些东西，而你又想让生活更轻松一点--那该怎么办呢？在本文中，我会向你演示如何设置工具来简化管理多台机器。

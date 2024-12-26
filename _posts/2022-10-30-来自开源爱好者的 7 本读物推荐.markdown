@@ -15,7 +15,7 @@ tags:	[linuxcn,书籍]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/20/115515jsppwzz8s1ssle7p.jpg)
+![](/Asserts/Images/album/202210/20/115515jsppwzz8s1ssle7p.jpg)
 
 
 很高兴能为大家介绍 [Opensource.com](http://Opensource.com) 的 2022 年暑期阅读清单。今年的榜单包含来自 [Opensource.com](http://Opensource.com) 社区成员的 7 本精彩的读物推荐。你可以发现各种各样的书籍，涵盖从有趣舒适的谜团到探索发人深省主题的非小说类作品。我希望你能在这个榜单中找到感兴趣的书本。
@@ -27,7 +27,7 @@ tags:	[linuxcn,书籍]
 ### 《每个 Java 程序员都应该知道的 97 件事：专家的集体智慧》
 
 
-![Book title 97 Things Every Java Programmer Should Know](/Asserts/Images//attachment/album/202210/20/115713gmeqa3ds3aqw1qmd.jpg)
+![Book title 97 Things Every Java Programmer Should Know](/Asserts/Images/album/202210/20/115713gmeqa3ds3aqw1qmd.jpg)
 
 
 
@@ -56,7 +56,7 @@ tags:	[linuxcn,书籍]
 ### 《城市不是计算机：其他的城市智能》
 
 
-![Book title A City is Not a Computer](/Asserts/Images//attachment/album/202210/20/115713x2oocpky6ni1626o.jpg)
+![Book title A City is Not a Computer](/Asserts/Images/album/202210/20/115713x2oocpky6ni1626o.jpg)
 
 
 
@@ -94,7 +94,7 @@ tags:	[linuxcn,书籍]
 ### 《git sync 谋杀案》
 
 
-![Book title git sync murder](/Asserts/Images//attachment/album/202210/20/115713uqnba774maq7hq7b.jpg)
+![Book title git sync murder](/Asserts/Images/album/202210/20/115713uqnba774maq7hq7b.jpg)
 
 
 
@@ -123,7 +123,7 @@ Dale Whitehead 宁愿呆在家里，通过他的电脑终端与世界连接，�
 ### 《像女孩一样踢球》
 
 
-![Book title Kick Like a Girl](/Asserts/Images//attachment/album/202210/20/115713rk2zdzn5uxutlr72.jpg)
+![Book title Kick Like a Girl](/Asserts/Images/album/202210/20/115713rk2zdzn5uxutlr72.jpg)
 
 
 
@@ -149,7 +149,7 @@ Dale Whitehead 宁愿呆在家里，通过他的电脑终端与世界连接，�
 ### 《这是我的！：所有权的潜规则如何控制着我们的生活》
 
 
-![Book title Mine!](/Asserts/Images//attachment/album/202210/20/115713oewnp31dnk3q1u2k.jpg)
+![Book title Mine!](/Asserts/Images/album/202210/20/115713oewnp31dnk3q1u2k.jpg)
 
 
 
@@ -172,7 +172,7 @@ Dale Whitehead 宁愿呆在家里，通过他的电脑终端与世界连接，�
 ### 《并非所有童话故事都有幸福的结局：雪乐山公司的兴衰》
 
 
-![Book Title Not All Fairy Tales Have Happy Endings](/Asserts/Images//attachment/album/202210/20/115713h9unq4umxv9u484x.jpg)
+![Book Title Not All Fairy Tales Have Happy Endings](/Asserts/Images/album/202210/20/115713h9unq4umxv9u484x.jpg)
 
 
 
@@ -201,7 +201,7 @@ Dale Whitehead 宁愿呆在家里，通过他的电脑终端与世界连接，�
 ### 《新机器的灵魂》
 
 
-![Book title The Soul of a New Machine](/Asserts/Images//attachment/album/202210/20/115714ktpnv91vqt89bxyb.jpg)
+![Book title The Soul of a New Machine](/Asserts/Images/album/202210/20/115714ktpnv91vqt89bxyb.jpg)
 
 
 

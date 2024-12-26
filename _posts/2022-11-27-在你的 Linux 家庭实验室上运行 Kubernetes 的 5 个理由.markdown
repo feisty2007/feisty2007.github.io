@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/22/000124imal02j2yollqbqj.jpg "Working from home at a laptop")
+![](/Asserts/Images/album/202211/22/000124imal02j2yollqbqj.jpg "Working from home at a laptop")
 
 
 在 [树莓派家庭实验室上运行 Kubernetes 的 5 个理由](https://opensource.com/article/20/8/kubernetes-raspberry-pi) 这篇文章中，我解释了为什么推荐在家里使用 Kubernetes。其中的理由相对来说会有点随意，并且主要于关注结果。除了 Kubernetes 好用的功能之外，还有其他几个应将 Kubernetes 包含在你自己的计算机的理由。
@@ -27,7 +27,7 @@ tags:	[linuxcn,Kubernetes]
 ### 1、Kubernetes 是基于 Linux 而建立的
 
 
-![T-shirt reading "Containers are Linux"](/Asserts/Images//attachment/album/202211/22/000137p119hntnru9eu4ne.jpg "T-shirt reading \"Containers are Linux\"")
+![T-shirt reading "Containers are Linux"](/Asserts/Images/album/202211/22/000137p119hntnru9eu4ne.jpg "T-shirt reading \"Containers are Linux\"")
 
 
 Kubernetes 有很高的知名度。对于一些人来说，Kubernetes 是一种神秘技术，有一个不好念的名字；而对另一些人来说，Kubernetes 就好像是牧羊犬放牧羊群一样，可以帮助他们管理过多的容器；对于其它人来说，Kubernetes 是一种 <ruby> 云 <rt>  cloud </rt></ruby> 的操作系统，是 <ruby> 实效云开发 <rt>  effective cloud development </rt></ruby> 的一个有用的界面；对于大多数人来说，Kubernetes 可能是他们从未听说过的后端软件。正如人们所想的那样，Kubernetes 具有所有这些能力，甚至有更多的功能。
@@ -63,7 +63,7 @@ Kubernetes 有很高的知名度。对于一些人来说，Kubernetes 是一种�
 现在，IT 界（包括开发人员在内）都对容器的概念都十分熟悉了。对于现代的 [CI/CD 工作流程](https://opensource.com/article/18/8/what-cicd) 来说，交付给容器十分有意义。不过，对于系统管理员来说，容器的优势如下：安装容器（理论上）比等待发行版更新其软件包更为容易，而且容器可以扩展。然而，在你使用 Kubernetes 之前，你很可能都不会真正地感受到这些好处。当你开始使用 Kubernetes 和相关工具管理容器之前，持续交付容器的好处和容器的扩展能力可能只是你从文章里面读过的想法。将容器集成到你管理服务器的方式中，你会突然明白 Kubernetes 中令人兴奋的是什么。
 
 
-![Apache JMeter](/Asserts/Images//attachment/album/202211/22/000137r7048wuswhshuya9.png "Apache JMeter")
+![Apache JMeter](/Asserts/Images/album/202211/22/000137r7048wuswhshuya9.png "Apache JMeter")
 
 
 你可以试试看这个最基本的测试：只需在容器中启动你最喜欢的 Web 服务器，创建一个容器荚，然后使用来自 [Apache JMeter](https://jmeter.apache.org) 的流量访问你的服务器，然后观察容器响应。

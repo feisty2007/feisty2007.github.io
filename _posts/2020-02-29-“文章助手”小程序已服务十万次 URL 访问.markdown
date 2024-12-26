@@ -7,7 +7,7 @@ tags:	[linuxcn,小程序]
 ---
 
 
-![](/Asserts/Images//attachment/album/202002/03/235455q3qo8jr08ry3ercr.jpg)
+![](/Asserts/Images/album/202002/03/235455q3qo8jr08ry3ercr.jpg)
 
 
 为了解决微信公众号文章内不能嵌入外部链接的问题，我们之前开发了一个小程序“文章助手”，用于通过微信小程序在微信文章内提供访问外部链接的最佳体验。
@@ -19,7 +19,7 @@ tags:	[linuxcn,小程序]
 这个小程序发布之后，除了在我们的公众号内进行了使用，而且也得到很多公众号的支持。就在刚才，我再次查看这个小程序时，发现其首页显示的累计服务次数已经超过了 10 万。
 
 
-![](/Asserts/Images//attachment/album/202002/04/092923ypptes4pcjzgzpo5.jpg)
+![](/Asserts/Images/album/202002/04/092923ypptes4pcjzgzpo5.jpg)
 
 
 关于这个小程序如何使用，请查看[它的介绍](/article-10838-1.html)和这个小程序的[辅助工具介绍](/article-10896-1.html)。最近宅在家，欢迎大家对这个小程序提提改进意见，我估计有时间实现~
@@ -33,4 +33,4 @@ tags:	[linuxcn,小程序]
 * Linux：Linux 命令速查（TLDR）
 
 
-![](/Asserts/Images//attachment/album/202002/04/092934z00i8p2moo7e0iv8.jpg)
+![](/Asserts/Images/album/202002/04/092934z00i8p2moo7e0iv8.jpg)

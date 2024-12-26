@@ -25,7 +25,7 @@ tags:	[linuxcn,Docker,LEMP,wordpress]
 
 ```
 
-![安装 Docker](/Asserts/Images//attachment/album/201506/02/221353kzwwz4gwfq2gdgwk.png)
+![安装 Docker](/Asserts/Images/album/201506/02/221353kzwwz4gwfq2gdgwk.png)
 
 
 
@@ -79,7 +79,7 @@ CMD ["/bin/bash", "/start.sh"]
 
 ```
 
-![Wordpress Docker 文件](/Asserts/Images//attachment/album/201506/02/221354trljuuvwdiwvbled.png)
+![Wordpress Docker 文件](/Asserts/Images/album/201506/02/221354trljuuvwdiwvbled.png)
 
 
 ### 3. 创建启动脚本
@@ -139,7 +139,7 @@ echo $WORDPRESS_PASSWORD > /wordpress-db-pw.txt
 # 这里原来是一个包括 sed、cat、pipe 和 stuff 的很长的行，但多亏了
 #  @djfiander 的 https://gist.github.com/djfiander/6141138
 # 现在没有了
-sed -e "s/Asserts/Images/base_name_here/$WORDPRESS_DB/
+sed -e "s/database_name_here/$WORDPRESS_DB/
 s/username_here/$WORDPRESS_DB/
 s/password_here/$WORDPRESS_PASSWORD/
 /'AUTH_KEY'/s/put your unique phrase here/`pwgen -c -n -1 65`/
@@ -179,7 +179,7 @@ __run_supervisor
 
 ```
 
-![启动脚本](/Asserts/Images//attachment/album/201506/02/221354r6s9hsbunfzsjt3s.png)
+![启动脚本](/Asserts/Images/album/201506/02/221354r6s9hsbunfzsjt3s.png)
 
 
 增加完上面的配置之后，保存并关闭文件。
@@ -286,7 +286,7 @@ include fastcgi_params;
 
 ```
 
-![Nginx 配置](/Asserts/Images//attachment/album/201506/02/221356vuzomqo2b24pn8rp.png)
+![Nginx 配置](/Asserts/Images/album/201506/02/221356vuzomqo2b24pn8rp.png)
 
 
 现在，创建 supervisor.conf 文件并添加下面的行。
@@ -353,7 +353,7 @@ result_handler = supervisor_stdout:event_handler
 
 ```
 
-![Supervisord 配置](/Asserts/Images//attachment/album/201506/02/221358ba4ozggg4vzxoppe.png)
+![Supervisord 配置](/Asserts/Images/album/201506/02/221358ba4ozggg4vzxoppe.png)
 
 
 添加完后，保存并关闭文件。
@@ -371,7 +371,7 @@ result_handler = supervisor_stdout:event_handler
 
 ```
 
-![构建 WordPress 容器](/Asserts/Images//attachment/album/201506/02/221400ofsgfa8s882k287t.png)
+![构建 WordPress 容器](/Asserts/Images/album/201506/02/221400ofsgfa8s882k287t.png)
 
 
 ### 6. 运行 WordPress 容器
@@ -386,7 +386,7 @@ result_handler = supervisor_stdout:event_handler
 
 ```
 
-![运行 WordPress Docker](/Asserts/Images//attachment/album/201506/02/221401ql9ljv6ot49drto4.png)
+![运行 WordPress Docker](/Asserts/Images/album/201506/02/221401ql9ljv6ot49drto4.png)
 
 
 运行以下命令检查进程以及容器内部执行的命令。
@@ -407,7 +407,7 @@ result_handler = supervisor_stdout:event_handler
 
 ```
 
-![docker 状态](/Asserts/Images//attachment/album/201506/02/221402k2kk2022zcxwi0xw.png)
+![docker 状态](/Asserts/Images/album/201506/02/221402k2kk2022zcxwi0xw.png)
 
 
 ### 7. Web 界面
@@ -416,19 +416,19 @@ result_handler = supervisor_stdout:event_handler
 最后如果一切正常的话，当我们用浏览器打开 http://ip-address/ 或者 <http://mywebsite.com/> 的时候会看到 WordPress 的欢迎界面。
 
 
-![启动Wordpress](/Asserts/Images//attachment/album/201506/02/221403tyu8k8ysldddkabt.png)
+![启动Wordpress](/Asserts/Images/album/201506/02/221403tyu8k8ysldddkabt.png)
 
 
 现在，我们将通过 Web 界面为 WordPress 面板设置 WordPress 的配置、用户名和密码。
 
 
-![Wordpress 欢迎界面](/Asserts/Images//attachment/album/201506/02/221405hsq3bfs7skzsqe3e.png)
+![Wordpress 欢迎界面](/Asserts/Images/album/201506/02/221405hsq3bfs7skzsqe3e.png)
 
 
 然后，用上面用户名和密码输入到 WordPress 登录界面。
 
 
-![wordpress 登录](/Asserts/Images//attachment/album/201506/02/221406uh2w2zi357yccm2h.png)
+![wordpress 登录](/Asserts/Images/album/201506/02/221406uh2w2zi357yccm2h.png)
 
 
 ### 总结

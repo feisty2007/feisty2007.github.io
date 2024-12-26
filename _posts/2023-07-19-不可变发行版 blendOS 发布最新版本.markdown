@@ -15,7 +15,7 @@ tags:	[linuxcn,blendOS]
 > 
 
 
-![blendOS](/Asserts/Images//attachment/album/202307/19/141631bb9u51i1lbilrlqc.jpg)
+![blendOS](/Asserts/Images/album/202307/19/141631bb9u51i1lbilrlqc.jpg)
 
 
 blendOS 是一个 [不可变发行版](https://itsfoss.com/immutable-linux-distros/)，它的目标（野心）是取代所有 Linux 发行版。我们最近 [介绍了它](/article-15684-1.html) 之前的版本。该项目由 [Ubuntu Unity](https://news.itsfoss.com/unity-remix-official-flavor/) 的首席开发者 Rudra Saraswat 领导，其进展一直良好。
@@ -30,7 +30,7 @@ blendOS 是一个 [不可变发行版](https://itsfoss.com/immutable-linux-distr
 ### ? blendOS v3 “Bhatura”：有什么新内容？
 
 
-![a screenshot of blendOS v3's desktop](/Asserts/Images//attachment/album/202307/19/141632us7b28ud27ubw3z8.jpg)
+![a screenshot of blendOS v3's desktop](/Asserts/Images/album/202307/19/141632us7b28ud27ubw3z8.jpg)
 
 
 作为一个支持大多数软件包的 **基于 Arch 的发行版**，最新版本的 blendOS 的名字来源于印度美食中的一道美味佳肴 “[印度炸麦饼](https://en.wikipedia.org/wiki/Bhatura)”。
@@ -49,7 +49,7 @@ blendOS 是一个 [不可变发行版](https://itsfoss.com/immutable-linux-distr
 #### 更好的桌面环境支持
 
 
-![a banner showing the new desktop environment support on blendOS v3](/Asserts/Images//attachment/album/202307/19/141632pu52ydcuakypbdq0.jpg)
+![a banner showing the new desktop environment support on blendOS v3](/Asserts/Images/album/202307/19/141632pu52ydcuakypbdq0.jpg)
 
 
 blendOS 现在 **支持 7 种桌面环境**，其中包括：
@@ -73,7 +73,7 @@ blendOS 现在 **支持 7 种桌面环境**，其中包括：
 #### 直观的应用安装
 
 
-![a banner showcasing the updated application install experience on blendOS v3](/Asserts/Images//attachment/album/202307/19/141633kxwxrrxkin9fzbki.jpg)
+![a banner showcasing the updated application install experience on blendOS v3](/Asserts/Images/album/202307/19/141633kxwxrrxkin9fzbki.jpg)
 
 
 此版本的 blendOS 现在提供了双击 **DEB**、**RPM**、**pkg.tar.zst** 甚至 **APK** 包将它们安装到容器中的功能。
@@ -90,7 +90,7 @@ blendOS 现在 **支持 7 种桌面环境**，其中包括：
 #### 支持附加发行版
 
 
-![](/Asserts/Images//attachment/album/202307/19/141633k80kq4f87z807ll4.jpg)
+![](/Asserts/Images/album/202307/19/141633k80kq4f87z807ll4.jpg)
 
 
 blendOS 现在**支持在容器中运行十个发行版**，并且能够通过单用户/多用户安装 [运行 NixOS](https://itsfoss.com/why-use-nixos/)。以下是支持的发行版：
@@ -111,7 +111,7 @@ blendOS 现在**支持在容器中运行十个发行版**，并且能够通过�
 #### 改进的系统更新
 
 
-![a banner showing the new system update flow chart on blendOS v3](/Asserts/Images//attachment/album/202307/19/141634bicgmzaag7u3zrwr.jpg)
+![a banner showing the new system update flow chart on blendOS v3](/Asserts/Images/album/202307/19/141634bicgmzaag7u3zrwr.jpg)
 
 
 **blendOS v3 使用 ISO 进行系统更新。** 与传统发行版不同，它允许重建系统，更新大小在 **10-100 MB** 范围内。
@@ -126,7 +126,7 @@ blendOS 现在**支持在容器中运行十个发行版**，并且能够通过�
 #### 新的命令行程序
 
 
-![a banner showing the new cli utilities on blendOS v3](/Asserts/Images//attachment/album/202307/19/141635g356mdr2oc0el4jr.jpg)
+![a banner showing the new cli utilities on blendOS v3](/Asserts/Images/album/202307/19/141635g356mdr2oc0el4jr.jpg)
 
 
 最后，它引入了**两个新的命令行程序**； 一个是 `system`，另一个是 `user`。

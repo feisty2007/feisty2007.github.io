@@ -7,7 +7,7 @@ tags:	[linuxcn,机器学习,物联网,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/01/231237fo3a9c7z3co48bx4.png)
+![](/Asserts/Images/album/201808/01/231237fo3a9c7z3co48bx4.png)
 
 
 
@@ -132,7 +132,7 @@ docker run -it \
 打开浏览器，开始去查找四种箭头的图片：
 
 
-![TensorFlow image classifier](/Asserts/Images//attachment/album/201808/01/231238dpdiesyydyne61be.png)
+![TensorFlow image classifier](/Asserts/Images/album/201808/01/231238dpdiesyydyne61be.png)
 
 
 每个类别我下载了 80 张图片。不用管图片文件的扩展名。
@@ -227,13 +227,13 @@ TensorFlow 的数据模型准备就绪之后，我们继续下一步：如何将
 下面是示意图：
 
 
-![Integrating Android Things with IoT](/Asserts/Images//attachment/album/201808/01/231238cfphkv4vjhefdvvp.png)
+![Integrating Android Things with IoT](/Asserts/Images/album/201808/01/231238cfphkv4vjhefdvvp.png)
 
 
 上图中没有展示摄像头。最终成果如下图：
 
 
-![Integrating Android Things with TensorFlow](/Asserts/Images//attachment/album/201808/01/231241l9wrw07x9ws4cys9.jpg)
+![Integrating Android Things with TensorFlow](/Asserts/Images/album/201808/01/231241l9wrw07x9ws4cys9.jpg)
 
 
 ### 使用 TensorFlow 实现 Android Things 应用程序

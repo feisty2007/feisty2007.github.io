@@ -10,7 +10,7 @@ tags:	[linuxcn,媒体服务器,Plex]
 在本文中我们将会向你展示如何容易地在主流的最新Linux发行版上安装Plex Media Server。在Plex安装成功后你将可以使用你的中央式家庭媒体播放系统，该系统能让多个Plex播放器App共享它的媒体资源，并且该系统允许你设置你的环境，增加你的设备以及设置一个可以一起使用Plex的用户组。让我们首先在Ubuntu15.04上开始Plex的安装。
 
 
-![](/Asserts/Images//attachment/album/201507/31/145357xfq7mchmf2npavnh.jpg)
+![](/Asserts/Images/album/201507/31/145357xfq7mchmf2npavnh.jpg)
 
 
 ### 基本的系统资源
@@ -85,7 +85,7 @@ root@ubuntu-15:~# service plexmediaserver status
 
 ```
 
-![Plexmediaserver Service](/Asserts/Images//attachment/album/201507/31/143637dmxwzp55frmi44j5.png)
+![Plexmediaserver Service](/Asserts/Images/album/201507/31/143637dmxwzp55frmi44j5.png)
 
 
 ### 在Ubuntu 15.04上设置Plex Media Web应用
@@ -107,19 +107,19 @@ http://localhost:32400/web
 在你访问到Plex Media Server的Web界面之后， 确保注册并填上你的用户名和密码来登录。
 
 
-![Plex Sign In](/Asserts/Images//attachment/album/201507/31/143545yaan77vnazwn7hb6.png)
+![Plex Sign In](/Asserts/Images/album/201507/31/143545yaan77vnazwn7hb6.png)
 
 
 #### 输入你的PIN码来保护你的Plex Media用户
 
 
-![Plex User Pin](/Asserts/Images//attachment/album/201507/31/143546j47lim4h4rrlnz41.png)
+![Plex User Pin](/Asserts/Images/album/201507/31/143546j47lim4h4rrlnz41.png)
 
 
 现在你已经成功的在Plex Media下配置你的用户。
 
 
-![Welcome To Plex](/Asserts/Images//attachment/album/201507/31/143547op9yzyioxyf94wux.png)
+![Welcome To Plex](/Asserts/Images/album/201507/31/143547op9yzyioxyf94wux.png)
 
 
 ### 在设备上而不是本地服务器上打开Plex Web应用
@@ -128,7 +128,7 @@ http://localhost:32400/web
 如我们在Plex Media主页看到的提示“你没有权限访问这个服务”。 这说明我们跟服务器计算机不在同个网络。
 
 
-![Plex Server Permissions](/Asserts/Images//attachment/album/201507/31/143549crewrw2t12vt2own.png)
+![Plex Server Permissions](/Asserts/Images/album/201507/31/143549crewrw2t12vt2own.png)
 
 
 现在我们需要解决这个权限问题，以便我们通过设备访问服务器而不是只能在服务器上访问。通过完成下面的步骤完成。
@@ -143,7 +143,7 @@ http://localhost:32400/web
 如果你正在使用Windows作为你的本地系统，Linux作为服务器，那么我们可以参照下图通过Putty来设置SSH隧道。 （LCTT译注: 首先要在Putty的Session中用Plex服务器IP配置一个SSH的会话，才能进行下面的隧道转发规则配置。 然后点击“Open”，输入远端服务器用户名密码， 来保持SSH会话连接。）
 
 
-![Plex SSH Tunnel](/Asserts/Images//attachment/album/201507/31/143549rz4wzgk2m4jigckh.png)
+![Plex SSH Tunnel](/Asserts/Images/album/201507/31/143549rz4wzgk2m4jigckh.png)
 
 
 **一旦你完成SSH隧道设置:**
@@ -161,13 +161,13 @@ http://localhost:8888/web
 浏览器将会连接到Plex服务器并且加载与服务器本地功能一致的Plex Web应用。 同意服务条款并开始。
 
 
-![Agree to Plex term](/Asserts/Images//attachment/album/201507/31/143550tl1hjlcywhal4g1g.png)
+![Agree to Plex term](/Asserts/Images/album/201507/31/143550tl1hjlcywhal4g1g.png)
 
 
 现在一个功能齐全的Plex Media Server已经准备好添加新的媒体库、频道、播放列表等资源。
 
 
-![PMS Settings](/Asserts/Images//attachment/album/201507/31/143551rje9tys9jcmt1ljm.png)
+![PMS Settings](/Asserts/Images/album/201507/31/143551rje9tys9jcmt1ljm.png)
 
 
 ### 在CentOS 7.1上安装Plex Media Server 0.9.12.3
@@ -236,7 +236,7 @@ http://localhost:32400/web
 为了获取服务的完整权限你需要重复创建SSH隧道的步骤。 在你用新账户注册后我们将可以访问到服务的所有特性，并且可以添加新用户、添加新的媒体库以及根据我们的需求来设置它。
 
 
-![Plex Device Centos](/Asserts/Images//attachment/album/201507/31/143552ikjmropplmus7znt.png)
+![Plex Device Centos](/Asserts/Images/album/201507/31/143552ikjmropplmus7znt.png)
 
 
 ### 在Fedora 22工作站上安装Plex Media Server 0.9.12.3
@@ -245,7 +245,7 @@ http://localhost:32400/web
 下载和安装Plex Media Server步骤基本跟在CentOS 7.1上安装的步骤一致。我们只需要下载对应的rpm包然后用rpm命令来安装它。
 
 
-![PMS Installation](/Asserts/Images//attachment/album/201507/31/143553j8es5znoy444ycib.png)
+![PMS Installation](/Asserts/Images/album/201507/31/143553j8es5znoy444ycib.png)
 
 
 ### 在Fedora 22工作站上配置Plex Media Web应用
@@ -254,7 +254,7 @@ http://localhost:32400/web
 我们在（与Plex服务器）相同的主机上配置Plex Media Server，因此不需要设置SSH隧道。只要在你的Fedora 22工作站上用Plex Media Server的默认端口号32400打开Web浏览器并同意Plex的服务条款即可。
 
 
-![Plex Agreement](/Asserts/Images//attachment/album/201507/31/143555ud4qawwws2aaspqg.png)
+![Plex Agreement](/Asserts/Images/album/201507/31/143555ud4qawwws2aaspqg.png)
 
 
 *欢迎来到Fedora 22工作站上的Plex Media Server*
@@ -263,7 +263,7 @@ http://localhost:32400/web
 让我们用你的Plex账户登录，并且开始将你喜欢的电影频道添加到媒体库、创建你的播放列表、添加你的图片以及享用更多其他的特性。
 
 
-![Plex Add Libraries](/Asserts/Images//attachment/album/201507/31/143557crdjodovevzoui6o.png)
+![Plex Add Libraries](/Asserts/Images/album/201507/31/143557crdjodovevzoui6o.png)
 
 
 ### 总结

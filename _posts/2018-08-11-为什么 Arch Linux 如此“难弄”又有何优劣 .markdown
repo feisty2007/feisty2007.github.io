@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/03/073050ibrpbk1ke9er2nb3.jpg)
+![](/Asserts/Images/album/201808/03/073050ibrpbk1ke9er2nb3.jpg)
 
 
 [Arch Linux](https://www.archlinux.org/) 于 **2002** 年发布，由 Aaron Grifin 领头，是当下最热门的 Linux 发行版之一。从设计上说，Arch Linux 试图给用户提供简单、最小化且优雅的体验，但它的目标用户群可不是怕事儿多的用户。Arch 鼓励参与社区建设，并且从设计上期待用户自己有学习操作系统的能力。

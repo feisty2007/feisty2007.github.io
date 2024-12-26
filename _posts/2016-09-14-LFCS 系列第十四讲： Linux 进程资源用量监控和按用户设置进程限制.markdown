@@ -10,7 +10,7 @@ tags:	[linuxcn,进程,LFCS]
 由于 2016 年 2 月 2 号开始启用了新的 LFCS 考试要求，我们在已经发表的 [LFCS 系列](http://www.tecmint.com/sed-command-to-create-edit-and-manipulate-files-in-linux/) 基础上增加了一些必要的主题。为了准备考试，同时也建议你看看 [LFCE 系列](http://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/) 文章。
 
 
-![](/Asserts/Images//attachment/album/201609/05/200033ysdt9mfa9cs90tzd.png)
+![](/Asserts/Images/album/201609/05/200033ysdt9mfa9cs90tzd.png)
 
 
 *第十四讲： 监控 Linux 进程并为每个用户设置进程限制*
@@ -145,7 +145,7 @@ Average:       0    5.58    0.00    0.34    0.85    0.00    0.00    0.00    0.00
 最后，和 “正常” 情况下 **mpstat** 的输出作比较：
 
 
-![](/Asserts/Images//attachment/album/201609/05/200033ff9gmms1ggbvgdf5.png)
+![](/Asserts/Images/album/201609/05/200033ff9gmms1ggbvgdf5.png)
 
 
 *Linux 处理器相关统计信息报告*
@@ -172,7 +172,7 @@ Average:       0    5.58    0.00    0.34    0.85    0.00    0.00    0.00    0.00
 上面的命令只会显示 `PID`、`PPID`、和进程相关的命令、 CPU 使用率以及 RAM 使用率，并按照 CPU 使用率降序排序。创建 .iso 文件的时候运行上面的命令，下面是输出的前面几行：
 
 
-![](/Asserts/Images//attachment/album/201609/05/200033gvw0tjttrtb22b24.png)
+![](/Asserts/Images/album/201609/05/200033gvw0tjttrtb22b24.png)
 
 
 *根据 CPU 使用率查找进程*
@@ -213,7 +213,7 @@ CONFIG_CGROUPS=y
 `/proc/2822/fd` 这个目录包含每个打开的描述进程的文件的符号链接。下面的截图显示了 tty1（第一个终端） 中创建 **.iso** 镜像进程的相关信息：
 
 
-![](/Asserts/Images//attachment/album/201609/05/200034yh5yccgu8yikz5ug.png)
+![](/Asserts/Images/album/201609/05/200034yh5yccgu8yikz5ug.png)
 
 
 *查找 Linux 进程信息*
@@ -249,7 +249,7 @@ CONFIG_CGROUPS=y
 但是，如果使用了上面的限制，fort 炸弹就不会成功，但用户仍然会被锁在外面直到系统管理员杀死相关的进程。
 
 
-![](/Asserts/Images//attachment/album/201609/05/200034rrowl6qq6xqr2lq3.png)
+![](/Asserts/Images/album/201609/05/200034rrowl6qq6xqr2lq3.png)
 
 
 *运行 Shell Fork 炸弹*
@@ -336,7 +336,7 @@ renice 命令的基本语法如下：
 用下面的图片说明：
 
 
-![](/Asserts/Images//attachment/album/201609/05/200035efk4pfptozb49fko.png)
+![](/Asserts/Images/album/201609/05/200035efk4pfptozb49fko.png)
 
 
 *在 Linux 中查找用户运行的进程*

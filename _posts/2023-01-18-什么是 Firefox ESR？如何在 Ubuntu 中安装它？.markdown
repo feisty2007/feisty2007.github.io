@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/07/165704ojar9wfkvptwop0w.jpg)
+![](/Asserts/Images/album/202301/07/165704ojar9wfkvptwop0w.jpg)
 
 
 Ubuntu 的 Snap 版本你不喜欢？不喜欢每一次 Firefox 的发布都要不断地改变东西？如果你重视稳定性而不是功能，你可以试试 Firefox ESR 版本。
@@ -74,7 +74,7 @@ sudo add-apt-repository ppa:mozillateam/ppa
 然后按回车键确认你要添加 PPA：
 
 
-![add firefox esr repository in ubuntu](/Asserts/Images//attachment/album/202301/07/170025vuo7bau4zh1ffc5b.png)
+![add firefox esr repository in ubuntu](/Asserts/Images/album/202301/07/170025vuo7bau4zh1ffc5b.png)
 
 
 完成后，你需要更新 Ubuntu 中的仓库索引，以便从这些变化中生效：
@@ -104,7 +104,7 @@ firefox-esr -v
 
 ```
 
-![check installed version of firefox esr in ubuntu](/Asserts/Images//attachment/album/202301/07/170026tzfqs0vvif8tzj23.png)
+![check installed version of firefox esr in ubuntu](/Asserts/Images/album/202301/07/170026tzfqs0vvif8tzj23.png)
 
 
 如何从 Ubuntu 卸载 Firefox-ESR？
@@ -149,7 +149,7 @@ sudo snap install firefox --channel=esr/stable
 
 ```
 
-![install firefox esr using snaps in ubuntu](/Asserts/Images//attachment/album/202301/07/170026y3u512n2xvn6even.png)
+![install firefox esr using snaps in ubuntu](/Asserts/Images/album/202301/07/170026y3u512n2xvn6even.png)
 
 
 如何删除 Firefox-ESR Snap？

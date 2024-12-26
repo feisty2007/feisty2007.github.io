@@ -7,7 +7,7 @@ tags:	[linuxcn,MySQL,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/08/084810x9tfxf37crzza9rl.png)
+![](/Asserts/Images/album/201809/08/084810x9tfxf37crzza9rl.png)
 
 
 几个月前，我在[Ubuntu 18.04 上安装了 LAMP](https://www.ostechnix.com/install-apache-mariadb-php-lamp-stack-ubuntu-16-04/)。今天，我尝试以 root 用户身份登录数据库，但我完全忘记了密码。经过一阵 Google 搜索并浏览一些文章后，我成功重置了密码。对于那些想知道如何做到这一点的人，这个简短的教程解释了如何在类 Unix 操作系统中重置 MySQL 或 MariaDB Root 密码。

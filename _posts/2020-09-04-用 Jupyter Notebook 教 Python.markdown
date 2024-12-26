@@ -15,7 +15,7 @@ tags:	[linuxcn,Jupyter]
 > 
 
 
-![](/Asserts/Images//attachment/album/202009/24/045721mubdfdx1tb11fibi.jpg)
+![](/Asserts/Images/album/202009/24/045721mubdfdx1tb11fibi.jpg)
 
 
 关于 Ruby 社区的一些事情一直让我印象深刻，其中两个例子是对测试的承诺和对易于上手的强调。这两方面最好的例子是 [Ruby Koans](https://github.com/edgecase/ruby_koans)，在这里你可以通过修复测试来学习 Ruby。

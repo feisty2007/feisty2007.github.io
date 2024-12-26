@@ -7,10 +7,10 @@ tags:	[linuxcn,sytemd,Mastodon,英特尔]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/07/170746s5y630xm53fez55b.jpg)
+![](/Asserts/Images/album/202211/07/170746s5y630xm53fez55b.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/07/170755d8bivwffrxib7rbt.jpg)
+![](/Asserts/Images/album/202211/07/170755d8bivwffrxib7rbt.jpg)
 
 
 ### systemd 252 如预期的锁定了 Linux 引导过程
@@ -35,7 +35,7 @@ tags:	[linuxcn,sytemd,Mastodon,英特尔]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/07/170808niq9okmlt6e697e1.jpg)
+![](/Asserts/Images/album/202211/07/170808niq9okmlt6e697e1.jpg)
 
 
 ### Mastodon 用户激增
@@ -60,7 +60,7 @@ tags:	[linuxcn,sytemd,Mastodon,英特尔]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/07/170823hp9gnntjtf9i8v91.jpg)
+![](/Asserts/Images/album/202211/07/170823hp9gnntjtf9i8v91.jpg)
 
 
 ### Arc 显卡的更新只能在支持英特尔 ME 的系统进行

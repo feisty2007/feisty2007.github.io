@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenStack,Terraform]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/01/114855zdkhdhsdoojmrqx2.jpg)
+![](/Asserts/Images/album/202303/01/114855zdkhdhsdoojmrqx2.jpg)
 
 
 

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,JSON]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/18/223644vewhzspe1swqc3h1.jpg)
+![](/Asserts/Images/album/202312/18/223644vewhzspe1swqc3h1.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/18/223746go1q2qmo1odogiia.png)
+![](/Asserts/Images/album/202312/18/223746go1q2qmo1odogiia.png)
 
 
 ### #1 OpenAI 探索用较低级的 AI 来监管更高级的 AI
@@ -38,7 +38,7 @@ OpenAI 的团队介绍了一种让功能较弱的大型语言模型（LLM）监�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/18/223803ulmheubususluwwb.png)
+![](/Asserts/Images/album/202312/18/223803ulmheubususluwwb.png)
 
 
 ### #2 微软发布小型 LLM Phi-2，性能超越更大的 Llama 2
@@ -66,7 +66,7 @@ Phi-2 拥有 27 亿个参数，其性能可与其他更大的模型相媲美，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/18/223823gkkzm3l3jalmjem6.png)
+![](/Asserts/Images/album/202312/18/223823gkkzm3l3jalmjem6.png)
 
 
 ### #3 JSON 的创造者发布新编程语言 Misty

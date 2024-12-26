@@ -7,7 +7,7 @@ tags:	[linuxcn,pscp]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/10/074452ys2lgjdqq8gaj8rg.jpg)
+![](/Asserts/Images/album/202211/10/074452ys2lgjdqq8gaj8rg.jpg)
 
 
 
@@ -164,7 +164,7 @@ PS> pscp paul@192.168.1.23:/home/paul/pscp-test.txt %USERPROFILE%\Documents\pscp
 打开文件管理器以验证 `pscp-win.txt` 文件是否已从 Linux 计算机复制到 Windows `C:\Users\paul\Documents` 下。
 
 
-![Image of a file manager.](/Asserts/Images//attachment/album/202211/10/074501j3lbc8ch4eseuvr6.png)
+![Image of a file manager.](/Asserts/Images/album/202211/10/074501j3lbc8ch4eseuvr6.png)
 
 
 ### 远程复制

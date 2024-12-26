@@ -10,7 +10,7 @@ tags:	[linuxcn,WordPress,安全,漏洞]
 WordPress 是一个免费开源、可高度自定义的内容管理系统（CMS），它被全世界数以百万计的人来运行博客和完整的网站。因为它是被用的最多的 CMS，因此有许多潜在的 WordPress 安全问题/漏洞需要考虑。
 
 
-![](/Asserts/Images//attachment/album/201705/28/180520mbwtthjwl27bjsqs.jpg)
+![](/Asserts/Images/album/201705/28/180520mbwtthjwl27bjsqs.jpg)
 
 
 然而，如果我们遵循通常的 WordPress 最佳实践，这些安全问题可以避免。在本篇中，我们会向你展示如何使用 WPSeku，一个 Linux 中的 WordPress 漏洞扫描器，它可以被用来找出你安装的 WordPress 的安全漏洞，并阻止潜在的威胁。
@@ -50,7 +50,7 @@ $ ./wpseku.py -u http://yourdomain.com
 
 ```
 
-![WordPress Vulnerability Scanner](/Asserts/Images//attachment/album/201705/28/180533kpkq5r00qu4x7r2y.png)
+![WordPress Vulnerability Scanner](/Asserts/Images/album/201705/28/180533kpkq5r00qu4x7r2y.png)
 
 
 *WordPress 漏洞扫描器*
@@ -83,7 +83,7 @@ $ ./wpseku.py --help
 
 ```
 
-![WPSeku WordPress Vulnerability Scanner Help](/Asserts/Images//attachment/album/201705/28/180533stuftpop1u4duzt1.png)
+![WPSeku WordPress Vulnerability Scanner Help](/Asserts/Images/album/201705/28/180533stuftpop1u4duzt1.png)
 
 
 *WPSeku WordPress 漏洞扫描帮助*

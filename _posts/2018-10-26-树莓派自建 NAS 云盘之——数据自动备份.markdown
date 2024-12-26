@@ -15,13 +15,13 @@ tags:	[linuxcn,备份,NAS]
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/13/140956gp7e0p349j988c7p.jpg)
+![](/Asserts/Images/album/201810/13/140956gp7e0p349j988c7p.jpg)
 
 
 在《树莓派自建 NAS 云盘》系列的 [第一篇](/article-10104-1.html) 文章中，我们讨论了建立 NAS 的一些基本步骤，添加了两块 1TB 的存储硬盘驱动（一个用于数据存储，一个用于数据备份），并且通过网络文件系统（NFS）将数据存储盘挂载到远程终端上。本文是此系列的第二篇文章，我们将探讨数据自动备份。数据自动备份保证了数据的安全，为硬件损坏后的数据恢复提供便利以及减少了文件误操作带来的不必要的麻烦。
 
 
-![](/Asserts/Images//attachment/album/201810/13/141012b7dx7nds3tn0971z.png)
+![](/Asserts/Images/album/201810/13/141012b7dx7nds3tn0971z.png)
 
 
 ### 备份策略
@@ -56,10 +56,10 @@ tags:	[linuxcn,备份,NAS]
 
 
 ```
-pi@raspberrypi:~ $ rsync -a /nas/Asserts/Images// /nas/backup/2018-08-01
+pi@raspberrypi:~ $ rsync -a /nas/data/ /nas/backup/2018-08-01
 ```
 
-这段命令将挂载在 `/nas/Asserts/Images//` 目录下的数据盘中的数据进行了完整的复制备份。备份文件保存在 `/nas/backup/2018-08-01` 目录下。`-a` 参数是以归档模式进行备份，这将会备份所有的元数据，例如文件的修改日期、权限、拥有者以及软连接文件。
+这段命令将挂载在 `/nas/data/` 目录下的数据盘中的数据进行了完整的复制备份。备份文件保存在 `/nas/backup/2018-08-01` 目录下。`-a` 参数是以归档模式进行备份，这将会备份所有的元数据，例如文件的修改日期、权限、拥有者以及软连接文件。
 
 
 现在，你已经在 8 月 1 日创建了完整的初始备份，你将在 8 月 2 日创建第一个增量备份。
@@ -67,16 +67,16 @@ pi@raspberrypi:~ $ rsync -a /nas/Asserts/Images// /nas/backup/2018-08-01
 
 
 ```
-pi@raspberrypi:~ $ rsync -a --link-dest /nas/backup/2018-08-01/ /nas/Asserts/Images// /nas/backup/2018-08-02
+pi@raspberrypi:~ $ rsync -a --link-dest /nas/backup/2018-08-01/ /nas/data/ /nas/backup/2018-08-02
 ```
 
-上面这行代码又创建了一个关于 `/nas/Asserts/Images/` 目录中数据的备份。备份路径是 `/nas/backup/2018-08-02`。这里的参数 `--link-dest` 指定了一个备份文件所在的路径。这样，这次备份会与 `/nas/backup/2018-08-01` 的备份进行比对，只备份已经修改过的文件，未做修改的文件将不会被复制，而是创建一个到上一个备份文件中它们的硬链接。
+上面这行代码又创建了一个关于 `/nas/data` 目录中数据的备份。备份路径是 `/nas/backup/2018-08-02`。这里的参数 `--link-dest` 指定了一个备份文件所在的路径。这样，这次备份会与 `/nas/backup/2018-08-01` 的备份进行比对，只备份已经修改过的文件，未做修改的文件将不会被复制，而是创建一个到上一个备份文件中它们的硬链接。
 
 
 使用备份文件中的硬链接文件时，你一般不会注意到硬链接和初始拷贝之间的差别。它们表现的完全一样，如果删除其中一个硬链接或者文件，其他的依旧存在。你可以把它们看做是同一个文件的两个不同入口。下面就是一个例子：
 
 
-![](/Asserts/Images//attachment/album/201810/13/141013lqbidfswjniwinbd.png)
+![](/Asserts/Images/album/201810/13/141013lqbidfswjniwinbd.png)
 
 
 左侧框是在进行了第二次备份后的原数据状态。中间的方块是昨天的备份。昨天的备份中只有图片 `file1.jpg` 并没有 `file2.txt` 。右侧的框反映了今天的增量备份。增量备份命令创建昨天不存在的 `file2.txt`。由于 `file1.jpg` 自昨天以来没有被修改，所以今天创建了一个硬链接，它不会额外占用磁盘上的空间。
@@ -93,9 +93,9 @@ pi@raspberrypi:~ $ rsync -a --link-dest /nas/backup/2018-08-01/ /nas/Asserts/Ima
 #!/bin/bash
 
 TODAY=$(date +%Y-%m-%d)
-DATADIR=/nas/Asserts/Images//
+DATADIR=/nas/data/
 BACKUPDIR=/nas/backup/
-SCRIPTDIR=/nas/Asserts/Images//backup_scripts
+SCRIPTDIR=/nas/data/backup_scripts
 LASTDAYPATH=${BACKUPDIR}/$(ls ${BACKUPDIR} | tail -n 1)
 TODAYPATH=${BACKUPDIR}/${TODAY}
 if [[ ! -e ${TODAYPATH} ]]; then
@@ -166,12 +166,12 @@ done
 这段脚本会首先根据你的备份策略列出所有需要保存的备份文件，然后它会删除那些再也不需要了的备份目录。
 
 
-下面创建一个定时任务去执行上面这段代码。以 root 用户权限打开 `crontab -e`，输入以下这段命令，它将会创建一个每天凌晨 2 点去执行 `/nas/Asserts/Images//backup_scripts/daily.sh` 的定时任务。
+下面创建一个定时任务去执行上面这段代码。以 root 用户权限打开 `crontab -e`，输入以下这段命令，它将会创建一个每天凌晨 2 点去执行 `/nas/data/backup_scripts/daily.sh` 的定时任务。
 
 
 
 ```
-0 2 * * * /nas/Asserts/Images//backup_scripts/daily.sh
+0 2 * * * /nas/data/backup_scripts/daily.sh
 ```
 
 有关创建定时任务请参考 [cron 创建定时任务](https://opensource.com/article/17/11/how-use-cron-linux)。

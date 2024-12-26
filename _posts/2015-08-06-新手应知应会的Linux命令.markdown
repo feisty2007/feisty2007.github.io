@@ -7,7 +7,7 @@ tags:	[linuxcn,命令,新手]
 ---
 
 
-![Manage system updates via the command line with dnf on Fedora.](/Asserts/Images//attachment/album/201508/09/235330inkuyuyfd35zm11d.png)
+![Manage system updates via the command line with dnf on Fedora.](/Asserts/Images/album/201508/09/235330inkuyuyfd35zm11d.png)
 
 
 *在Fedora上通过命令行使用dnf来管理系统更新*

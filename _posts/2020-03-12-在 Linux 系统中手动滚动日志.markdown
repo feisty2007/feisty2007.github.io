@@ -7,7 +7,7 @@ tags:	[linuxcn,日志,logrotate]
 ---
 
 
-![](/Asserts/Images//attachment/album/202003/25/223932xqibwq5fafx5ao3f.jpg)
+![](/Asserts/Images/album/202003/25/223932xqibwq5fafx5ao3f.jpg)
 
 
 <ruby> 日志滚动 <rt>  log rotation </rt></ruby>在 Linux 系统上是再常见不过的一个功能了，它为系统监控和故障排查保留必要的日志内容，同时又防止过多的日志造成单个日志文件太大。

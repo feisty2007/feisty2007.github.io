@@ -7,7 +7,7 @@ tags:	[linuxcn,ip,网络]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/24/115203by90oee7sbb11y0o.jpg)
+![](/Asserts/Images/album/201803/24/115203by90oee7sbb11y0o.jpg)
 
 
 `ip` 命令可以告诉你很多网络连接配置和状态的信息，但是所有这些词和数字意味着什么？ 让我们深入了解一下，看看所有显示的值都试图告诉你什么。

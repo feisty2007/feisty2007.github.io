@@ -7,7 +7,7 @@ tags:	[linuxcn,CentOS 7,RHEL 7]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/27/151948jz881a61rj66up58.png)
+![](/Asserts/Images/album/201504/27/151948jz881a61rj66up58.png)
 
 
 ### 7. 安装 PHP
@@ -51,7 +51,7 @@ PHP 是用于 web 基础服务的服务器端脚本语言。它也经常被用�
 
 ```
 
-![验证 PHP](/Asserts/Images//attachment/album/201504/27/160953cmpmppl2bloms2ay.jpg)
+![验证 PHP](/Asserts/Images/album/201504/27/160953cmpmppl2bloms2ay.jpg)
 
 
 *验证 PHP*
@@ -69,7 +69,7 @@ MariaDB 是 MySQL 的一个分支。RHEL 以及它的衍生版已经从 MySQL �
 
 ```
 
-![安装 MariaDB 数据库](/Asserts/Images//attachment/album/201504/27/160954pkzo6xji6rocxwj7.jpg)
+![安装 MariaDB 数据库](/Asserts/Images/album/201504/27/160954pkzo6xji6rocxwj7.jpg)
 
 
 *安装 MariaDB 数据库*
@@ -103,7 +103,7 @@ MariaDB 是 MySQL 的一个分支。RHEL 以及它的衍生版已经从 MySQL �
 
 ```
 
-![保护 MariaDB 数据库](/Asserts/Images//attachment/album/201504/27/160955abqcbbp0qb9dbf3s.jpg)
+![保护 MariaDB 数据库](/Asserts/Images/album/201504/27/160955abqcbbp0qb9dbf3s.jpg)
 
 
 *保护 MariaDB 数据库*
@@ -131,7 +131,7 @@ SSH 即 Secure Shell，是 Linux 远程管理的默认协议。 SSH 是随最小
 
 ```
 
-![检查 SSH 版本](/Asserts/Images//attachment/album/201504/27/160955aaxr9rszr9ryr7ax.jpg)
+![检查 SSH 版本](/Asserts/Images/album/201504/27/160955aaxr9rszr9ryr7ax.jpg)
 
 
 *检查 SSH 版本*
@@ -153,7 +153,7 @@ Protocol 2 (现在)
 这个改变强制 SSH 使用 协议 2，它被认为比协议 1 更安全，同时也确保在配置中更改端口号 22 为其它。
 
 
-![保护 SSH 登录](/Asserts/Images//attachment/album/201504/27/160955na9cp0f161al1ju6.jpg)
+![保护 SSH 登录](/Asserts/Images/album/201504/27/160955na9cp0f161al1ju6.jpg)
 
 
 *保护 SSH 登录*
@@ -169,7 +169,7 @@ PermitRootLogin no (现在)
 
 ```
 
-![取消 SSH Root 登录](/Asserts/Images//attachment/album/201504/27/160956m9o99z1zqy79qr5r.jpg)
+![取消 SSH Root 登录](/Asserts/Images/album/201504/27/160956m9o99z1zqy79qr5r.jpg)
 
 
 *取消 SSH Root 直接登录*
@@ -204,7 +204,7 @@ GCC 即 GNU 编译器集，是一个 GNU 项目开发的支持多种编程语言
 
 ```
 
-![在 CentOS 上安装 GCC](/Asserts/Images//attachment/album/201504/27/160956uxzecrzlsrhxtyos.jpg)
+![在 CentOS 上安装 GCC](/Asserts/Images/album/201504/27/160956uxzecrzlsrhxtyos.jpg)
 
 
 *在 CentOS 上安装 GCC*
@@ -219,7 +219,7 @@ GCC 即 GNU 编译器集，是一个 GNU 项目开发的支持多种编程语言
 
 ```
 
-![检查 GCC 版本](/Asserts/Images//attachment/album/201504/27/160957sykk4j8xq1ougfi4.jpg)
+![检查 GCC 版本](/Asserts/Images/album/201504/27/160957sykk4j8xq1ougfi4.jpg)
 
 
 *检查 GCC 版本*
@@ -237,7 +237,7 @@ Java是一种通用的基于类的，面向对象的编程语言。在最小化 
 
 ```
 
-![在 CentOS 上安装 Java](/Asserts/Images//attachment/album/201504/27/160957ecefff8tskzucsb8.jpg)
+![在 CentOS 上安装 Java](/Asserts/Images/album/201504/27/160957ecefff8tskzucsb8.jpg)
 
 
 *安装 Java*
@@ -252,7 +252,7 @@ Java是一种通用的基于类的，面向对象的编程语言。在最小化 
 
 ```
 
-![检查 Java 版本](/Asserts/Images//attachment/album/201504/27/160957vhc33wkhpr3t9vwg.jpg)
+![检查 Java 版本](/Asserts/Images/album/201504/27/160957vhc33wkhpr3t9vwg.jpg)
 
 
 *检查 Java 版本*

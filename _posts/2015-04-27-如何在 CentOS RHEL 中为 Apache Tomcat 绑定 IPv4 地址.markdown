@@ -13,7 +13,7 @@ tags:	[linuxcn,Tomcat]
 **Apache Tomcat** 是由[Apache 软件基金会](http://www.apache.org/) 开发的开源web服务器和servlet容器。它实现了Java Servlet，JavaServer页面（JSP），Java的统一表达式语言，以及Sun Microsystems的Java的WebSocket规范，并提供了一个运行java代码的web服务器环境。
 
 
-![](/Asserts/Images//attachment/album/201504/15/225640vhs29ms614zz9y45.jpg)
+![](/Asserts/Images/album/201504/15/225640vhs29ms614zz9y45.jpg)
 
 
 如果由于tomcat默认绑定到IPv6而导致我们的web服务器不能正常工作，就有必要将tomcat绑定到IPv4。众所周知，IPv6是为设备分配IP地址的现代方法，虽然在不久的将来也许会得到应用，但是现在并没有得到完全应用。由于没有用处，目前我们并不需要将我们的Tomcat服务器向IPv6转换，我们应该将其绑定到IPv4。
@@ -34,7 +34,7 @@ tags:	[linuxcn,Tomcat]
 
 ```
 
-![切换到tomcat用户](/Asserts/Images//attachment/album/201504/15/225647r2zooz137z186iw8.png)
+![切换到tomcat用户](/Asserts/Images/album/201504/15/225647r2zooz137z186iw8.png)
 
 
 ### 2. 找到文件 Catalina.sh
@@ -61,7 +61,7 @@ $ ls
 
 ```
 
-![查找文件 catalina.sh](/Asserts/Images//attachment/album/201504/15/225649fugq0f28005zu0u8.png)
+![查找文件 catalina.sh](/Asserts/Images/album/201504/15/225649fugq0f28005zu0u8.png)
 
 
 ### 3. 配置 Catalina.sh
@@ -76,13 +76,13 @@ $ nano catalina.sh
 
 ```
 
-![Catalina script](/Asserts/Images//attachment/album/201504/15/225652cyzgfyf54jyd2joj.png)
+![Catalina script](/Asserts/Images/album/201504/15/225652cyzgfyf54jyd2joj.png)
 
 
 然后，如下图所示，将该行增加到文件。
 
 
-![配置 catalina](/Asserts/Images//attachment/album/201504/15/225655qnnjnq8xg22zj01t.png)
+![配置 catalina](/Asserts/Images/album/201504/15/225655qnnjnq8xg22zj01t.png)
 
 
 现在，我们已经将配置信息增加到文件中。保存文件并退出nano。
@@ -109,7 +109,7 @@ $ ./startup.sh
 
 ```
 
-![重启apache tomcat 服务器](/Asserts/Images//attachment/album/201504/15/225657pdvxxhjoorz27xi7.png)
+![重启apache tomcat 服务器](/Asserts/Images/album/201504/15/225657pdvxxhjoorz27xi7.png)
 
 
 这将重启我们的tomcat服务器并加载将服务器绑定到IPv4的配置信息。

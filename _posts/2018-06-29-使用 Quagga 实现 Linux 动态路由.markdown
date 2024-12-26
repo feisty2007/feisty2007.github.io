@@ -15,7 +15,7 @@ tags:	[linuxcn,Quagga,路由]
 > 
 
 
-![network](/Asserts/Images//attachment/album/201806/03/105608rlzwdzcmiaan0zh7.png "network")
+![network](/Asserts/Images/album/201806/03/105608rlzwdzcmiaan0zh7.png "network")
 
 
 迄今为止，本系列文章中，我们已经在 [Linux 局域网路由新手指南：第 1 部分](/article-9657-1.html) 中学习了复杂的 IPv4 地址，在 [Linux 局域网路由新手指南：第 2 部分](/article-9675-1.html) 中学习了如何去手工创建静态路由。

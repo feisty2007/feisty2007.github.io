@@ -7,10 +7,10 @@ tags:	[linuxcn,微软,Linux,无密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/27/181045ga20nhhynntveenn.jpg)
+![](/Asserts/Images/album/202305/27/181045ga20nhhynntveenn.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/27/181056kivmj55lm1jlhi55.jpg)
+![](/Asserts/Images/album/202305/27/181056kivmj55lm1jlhi55.jpg)
 
 
 ### 微软发布 Azure Linux 正式版
@@ -35,7 +35,7 @@ tags:	[linuxcn,微软,Linux,无密码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/27/181111elx6xzcxy8dw6xgx.jpg)
+![](/Asserts/Images/album/202305/27/181111elx6xzcxy8dw6xgx.jpg)
 
 
 ### 使用 XFS 的系统暂时不要升级到 Linux 6.3
@@ -60,7 +60,7 @@ tags:	[linuxcn,微软,Linux,无密码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/27/181132lx9uxeueovzbpzmm.jpg)
+![](/Asserts/Images/album/202305/27/181132lx9uxeueovzbpzmm.jpg)
 
 
 ### Bitwarden 进军无密码安全领域

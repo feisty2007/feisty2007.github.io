@@ -13,7 +13,7 @@ tags:	[linuxcn,内核]
 先前的文章：[块层介绍第一部分：块 I/O 层](https://lwn.net/Articles/736534/)
 
 
-![](/Asserts/Images//attachment/album/201712/03/111453ac1rfngngbnb2fct.png)
+![](/Asserts/Images/album/201712/03/111453ac1rfngngbnb2fct.png)
 
 
 嗨，

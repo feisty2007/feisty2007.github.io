@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/05/122015z1efmatm6mff667o.jpg)
+![](/Asserts/Images/album/201911/05/122015z1efmatm6mff667o.jpg)
 
 
 Fedora 31 [日前发布了](/article-11522-1.html)。你也许想要升级系统来获得 Fedora 中的最新功能。Fedora 工作站有图形化的升级方式。另外，Fedora 提供了一种命令行方式来将 Fedora 30 升级到 Fedora 31。
@@ -90,7 +90,7 @@ sudo dnf system-upgrade reboot
 现在也许可以喝杯咖啡休息下！升级完成后，系统将重启，你将能够登录到新升级的 Fedora 31 系统。
 
 
-![](/Asserts/Images//attachment/album/201911/05/122018pvc1hogw2awvoovo.png)
+![](/Asserts/Images/album/201911/05/122018pvc1hogw2awvoovo.png)
 
 
 ### 解决升级问题

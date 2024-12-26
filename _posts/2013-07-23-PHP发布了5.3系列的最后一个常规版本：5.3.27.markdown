@@ -13,7 +13,7 @@ PHP开发团队发布了5.3.27，这是5.3系列的最后一个常规更新版�
 这次升级主要修复了10个错误，包括XML解析器的安全漏洞问题（Bug #65236）。
 
 
-![app x php icon](/Asserts/Images//attachment/album/201307/13/222649yeuriuy1air184u4.png "app x php icon")
+![app x php icon](/Asserts/Images/album/201307/13/222649yeuriuy1air184u4.png "app x php icon")
 
 
 完整的更新内容如下：

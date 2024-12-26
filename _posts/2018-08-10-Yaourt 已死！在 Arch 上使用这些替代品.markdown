@@ -25,7 +25,7 @@ Yaourt （Yet AnOther User Repository Tool）（曾经）是 `pacman` 的一个�
 然而，Yaourt 的开发进度近来十分缓慢，甚至在 Arch Wiki 上已经被[列为](https://wiki.archlinux.org/index.php/AUR_helpers#Comparison_table)“停止或有问题”。[许多 Arch 用户认为它不安全](https://www.reddit.com/r/archlinux/comments/4azqyb/whats_so_bad_with_yaourt/) 进而开始寻找其它的 AUR 助手。
 
 
-![Yaourt 以外的 AUR Helpers](/Asserts/Images//attachment/album/201808/16/123706vsuasswnrdsudg41.jpg)
+![Yaourt 以外的 AUR Helpers](/Asserts/Images/album/201808/16/123706vsuasswnrdsudg41.jpg)
 
 
 在这篇文章中，我们会介绍 Yaourt 最佳的替代品以便于你从 AUR 安装软件。

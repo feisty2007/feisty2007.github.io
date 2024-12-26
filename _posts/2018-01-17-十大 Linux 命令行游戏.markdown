@@ -15,7 +15,7 @@ tags:	[linuxcn,游戏,终端]
 > 
 
 
-![](/Asserts/Images//attachment/album/201801/23/231932sljm5xwlevsrfa8z.jpg)
+![](/Asserts/Images/album/201801/23/231932sljm5xwlevsrfa8z.jpg)
 
 
 Linux 从来都不是游戏的首选操作系统，尽管近日来 [Linux 的游戏](/article-7316-1.html)提供了很多，你也可以从许多资源[下载到 Linux 游戏](https://itsfoss.com/download-linux-games/)。
@@ -42,7 +42,7 @@ Linux 有一个超过 Windows 的优势。它拥有一个强大的 Linux 终端�
 谁还没花上几个小时玩[俄罗斯方块](https://en.wikipedia.org/wiki/Tetris)？它简单而且容易上瘾。 Bastet 就是 Linux 版的俄罗斯方块。
 
 
-![Linux 终端游戏 Bastet](/Asserts/Images//attachment/album/201801/23/231939o0ll5a3ahq35q3hz.jpg)
+![Linux 终端游戏 Bastet](/Asserts/Images/album/201801/23/231939o0ll5a3ahq35q3hz.jpg)
 
 
 使用下面的命令获取 Bastet：
@@ -72,7 +72,7 @@ bastet
 Space Invaders（太空侵略者）。我仍记得这个游戏里，和我兄弟为了最高分而比拼。这是最好的街机游戏之一。
 
 
-![Linux 终端游戏 nInvaders](/Asserts/Images//attachment/album/201801/23/231940pk0fcl00cf80stzs.jpg)
+![Linux 终端游戏 nInvaders](/Asserts/Images/album/201801/23/231940pk0fcl00cf80stzs.jpg)
 
 
 复制粘贴这段代码安装 Ninvaders。
@@ -105,7 +105,7 @@ ninvaders
 是的，这个就是街机之王。Pacman4console 是最受欢迎的街机游戏 Pacman（吃豆人）的终端版。
 
 
-![Linux 命令行吃豆豆游戏 Pacman4console](/Asserts/Images//attachment/album/201801/23/231941sbqvnnod65udqmum.jpg)
+![Linux 命令行吃豆豆游戏 Pacman4console](/Asserts/Images/album/201801/23/231941sbqvnnod65udqmum.jpg)
 
 
 使用以下命令获取 pacman4console：
@@ -138,7 +138,7 @@ pacman4console
 这个游戏让我在很长时间内着迷于手机。我曾经设计过各种姿态去获得更长的蛇身。
 
 
-![nsnake : Linux 终端上的贪吃蛇游戏](/Asserts/Images//attachment/album/201801/23/231942rx3l5lxzpy21l4y2.jpg)
+![nsnake : Linux 终端上的贪吃蛇游戏](/Asserts/Images/album/201801/23/231942rx3l5lxzpy21l4y2.jpg)
 
 
 我们拥有 [Linux 终端上的贪吃蛇游戏](https://itsfoss.com/nsnake-play-classic-snake-game-linux-terminal/) 得感谢 [nSnake](https://itsfoss.com/nsnake-play-classic-snake-game-linux-terminal/)。使用下面的命令安装它：
@@ -177,7 +177,7 @@ Greed 有点像 Tron（类似贪吃蛇的进化版），但是减少了速度，
 似乎我让它听起来变得更复杂了。
 
 
-![Greed : 命令行上的 Tron](/Asserts/Images//attachment/album/201801/23/231944eszk777q3bdpqq83.jpg)
+![Greed : 命令行上的 Tron](/Asserts/Images/album/201801/23/231944eszk777q3bdpqq83.jpg)
 
 
 通过下列命令获取 Greed：
@@ -204,7 +204,7 @@ greed
 还有什么比做飞行员更有意思的？那就是空中交通管制员。在你的终端中，你可以模拟一个空中交通系统。说实话，在终端里管理空中交通蛮有意思的。
 
 
-![Linux 空中交通管理员](/Asserts/Images//attachment/album/201801/23/231946z2begppnz94fne7g.jpg)
+![Linux 空中交通管理员](/Asserts/Images/album/201801/23/231946z2begppnz94fne7g.jpg)
 
 
 使用下列命令安装游戏：
@@ -234,7 +234,7 @@ ATC 不是孩子玩的游戏。建议查看官方文档。
 无论之前你有没有玩过 [双陆棋](https://en.wikipedia.org/wiki/Backgammon)，你都应该看看这个。 它的说明书和控制手册都非常友好。如果你喜欢，可以挑战你的电脑或者你的朋友。
 
 
-![Linux 终端上的双陆棋](/Asserts/Images//attachment/album/201801/23/231947ct4qz40b0ti84zyc.jpg)
+![Linux 终端上的双陆棋](/Asserts/Images/album/201801/23/231947ct4qz40b0ti84zyc.jpg)
 
 
 使用下列命令安装双陆棋：
@@ -264,7 +264,7 @@ backgammon
 跳跃、开火。欢乐时光不必多言。
 
 
-![Moon buggy](/Asserts/Images//attachment/album/201801/23/231948u0qk59kj5ws006yy.jpg)
+![Moon buggy](/Asserts/Images/album/201801/23/231948u0qk59kj5ws006yy.jpg)
 
 
 使用下列命令安装游戏：
@@ -294,7 +294,7 @@ moon-buggy
 2048 可以活跃你的大脑。[2048](https://itsfoss.com/2048-offline-play-ubuntu/) 是一个策咯游戏，很容易上瘾。以获取 2048 分为目标。
 
 
-![Linux 终端上的 2048](/Asserts/Images//attachment/album/201801/23/231949k6dui5detu2ctqqq.jpg)
+![Linux 终端上的 2048](/Asserts/Images/album/201801/23/231949k6dui5detu2ctqqq.jpg)
 
 
 复制粘贴下面的命令安装游戏：
@@ -323,7 +323,7 @@ gcc -o 2048 2048.c
 没有动作类游戏，这张榜单怎么可能结束？
 
 
-![Linux 终端游戏 Tron](/Asserts/Images//attachment/album/201801/23/231950rp6jbphmkxip1zri.jpg)
+![Linux 终端游戏 Tron](/Asserts/Images/album/201801/23/231950rp6jbphmkxip1zri.jpg)
 
 
 是的，Linux 终端可以实现这种精力充沛的游戏 Tron。为接下来迅捷的反应做准备吧。无需被下载和安装困扰。一个命令即可启动游戏，你只需要一个网络连接：

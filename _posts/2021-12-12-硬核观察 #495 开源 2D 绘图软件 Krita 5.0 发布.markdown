@@ -7,10 +7,10 @@ tags:	[linuxcn,Krita,Azure,systemd]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/24/174906uig9oizir2oqmiwm.jpg)
+![](/Asserts/Images/album/202112/24/174906uig9oizir2oqmiwm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/24/174917in1p8yvf741ips17.jpg)
+![](/Asserts/Images/album/202112/24/174917in1p8yvf741ips17.jpg)
 
 
 ### 开源 2D 绘图软件 Krita 5.0 发布
@@ -27,7 +27,7 @@ Krita 发布了 5.0，带来了 [大量更新](https://krita.org/en/krita-5-0-re
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/24/174931jqdtpf6ya8pp2jyy.jpg)
+![](/Asserts/Images/album/202112/24/174931jqdtpf6ya8pp2jyy.jpg)
 
 
 ### systemd 发布重大更新版本 250
@@ -52,7 +52,7 @@ systemd 250 是一个重大的版本，带来了非常多的 [更新改进](http
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/24/174947gnnwn5cgzxww9fn5.jpg)
+![](/Asserts/Images/album/202112/24/174947gnnwn5cgzxww9fn5.jpg)
 
 
 ### 暴露了客户源代码的 Azure 漏洞已经存在 4 年

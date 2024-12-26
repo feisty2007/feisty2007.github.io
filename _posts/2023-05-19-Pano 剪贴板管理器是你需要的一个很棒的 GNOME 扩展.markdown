@@ -15,7 +15,7 @@ tags:	[linuxcn,剪贴板]
 > 
 
 
-![pano clipboard manager](/Asserts/Images//attachment/album/202305/22/152319d7gk44zem6moemvy.jpg)
+![pano clipboard manager](/Asserts/Images/album/202305/22/152319d7gk44zem6moemvy.jpg)
 
 
 你知道，有一种比 `Ctrl+C`/`Ctrl-V` 更好的方法来处理剪贴板文本。不，我不是在谈论使用右键单击菜单。
@@ -30,7 +30,7 @@ tags:	[linuxcn,剪贴板]
 ### Pano 剪贴板管理器：概述 ⭐
 
 
-![a screenshot of how pano looks on gnome](/Asserts/Images//attachment/album/202305/22/152320yxryoppfcvyptoxp.jpg)
+![a screenshot of how pano looks on gnome](/Asserts/Images/album/202305/22/152320yxryoppfcvyptoxp.jpg)
 
 
 Pano 是一个**易于使用且高度可定制的剪贴板应用**，它在一个非常紧凑的包中提供了一些很好的实用程序（以 GNOME 扩展的形式）。
@@ -45,7 +45,7 @@ Pano 是一个**易于使用且高度可定制的剪贴板应用**，它在一�
 除此之外，当你复制某些内容时，它会显示一个漂亮的通知，其中包含复制内容的简短预览。
 
 
-![a screenshot showing the notification feature of pano](/Asserts/Images//attachment/album/202305/22/152320tvcc4rskkxc0q7yx.png)
+![a screenshot showing the notification feature of pano](/Asserts/Images/album/202305/22/152320tvcc4rskkxc0q7yx.png)
 
 
 该扩展**最近进行了更新**，进行了全面的视觉改造，并重新设计了托盘图标、占位符图像等。
@@ -54,7 +54,7 @@ Pano 是一个**易于使用且高度可定制的剪贴板应用**，它在一�
 你现在可以在配置菜单中调整 Pano 的高度，以及自定义背景颜色和不透明度、调整内容类型、字体大小等。
 
 
-![pano customization options](/Asserts/Images//attachment/album/202305/22/152322u2oo25yoseh6ok2e.png)
+![pano customization options](/Asserts/Images/album/202305/22/152322u2oo25yoseh6ok2e.png)
 
 
 但是，当我的同事 Shivam 试用 Pano 时，他发现它**还会将密码从 Bitwarden** 复制到剪贴板。

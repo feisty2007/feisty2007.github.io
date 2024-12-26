@@ -7,10 +7,10 @@ tags:	[linuxcn,CPU,AI,Mastodon,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/01/210302d0qbhzziqgy0i4ba.jpg)
+![](/Asserts/Images/album/202307/01/210302d0qbhzziqgy0i4ba.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/01/210316wnggtggtfg88bqgd.jpg)
+![](/Asserts/Images/album/202307/01/210316wnggtggtfg88bqgd.jpg)
 
 
 ### 中国用人工智能在 5 小时内设计出 RISC-V CPU
@@ -35,7 +35,7 @@ tags:	[linuxcn,CPU,AI,Mastodon,谷歌]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/01/210329onqp6vhv8vpgcv2l.jpg)
+![](/Asserts/Images/album/202307/01/210329onqp6vhv8vpgcv2l.jpg)
 
 
 ### 为什么 Mastodon 无法取代 Twitter
@@ -60,7 +60,7 @@ tags:	[linuxcn,CPU,AI,Mastodon,谷歌]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/01/210346m608baned8yw6a7g.jpg)
+![](/Asserts/Images/album/202307/01/210346m608baned8yw6a7g.jpg)
 
 
 ### 谷歌决定不支付加拿大的“链接税”

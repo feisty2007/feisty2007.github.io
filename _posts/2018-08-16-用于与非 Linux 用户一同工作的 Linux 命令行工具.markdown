@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,Windows]
 > 
 
 
-![](/Asserts/Images//attachment/album/201808/21/093640ox5xzq4lddz33d2a.jpg)
+![](/Asserts/Images/album/201808/21/093640ox5xzq4lddz33d2a.jpg)
 
 
 我大部分时间都在使用 Shell（命令行、终端或其它随便什么你使用的平台）上。但是，当我需要与大量其他人合作时，这可能会有点挑战，特别是在大型企业公司中 —— 除了 shell 外其他都使用。

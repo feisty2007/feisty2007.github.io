@@ -7,7 +7,7 @@ tags:	[linuxcn,UbuntuBSD,Ubuntu,FreeBSD,UNIX]
 ---
 
 
-![](/Asserts/Images//attachment/album/201603/30/084703rmimh0zy5jsii3yh.jpg)
+![](/Asserts/Images/album/201603/30/084703rmimh0zy5jsii3yh.jpg)
 
 
 不止是在 Linux 的内核上面你才能体验到 Ubuntu 的快捷方便，伙计们。UbuntuBSD 可以让你在 FreeBSD 的内核上面也能体验到那种方便快捷。

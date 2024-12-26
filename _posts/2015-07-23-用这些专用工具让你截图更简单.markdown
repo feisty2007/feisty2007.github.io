@@ -22,7 +22,7 @@ tags:	[linuxcn,截屏,Shutter]
 ### Shutter
 
 
-![Shutter in action](/Asserts/Images//attachment/album/201507/18/212134ooizospvwsq8zwhh.png)
+![Shutter in action](/Asserts/Images/album/201507/18/212134ooizospvwsq8zwhh.png)
 
 
 Shutter是一款功能丰富的截图软件。你可以对特定区域、窗口、整个屏幕甚至是网站截图 - 并为其应用不同的效果，比如用高亮的点在上面绘图，然后上传至一个图片托管网站，一切尽在这个小窗口内。
@@ -67,7 +67,7 @@ Shutter是一款功能丰富的截图软件。你可以对特定区域、窗口�
 ### HotShots
 
 
-![HotShots in action](/Asserts/Images//attachment/album/201507/18/212143es9s5l1yjjtls6tj.png)
+![HotShots in action](/Asserts/Images/album/201507/18/212143es9s5l1yjjtls6tj.png)
 
 
 HotShots是一款捕捉屏幕并能以各种图片格式保存的软件，同时也能添加注释和图形数据（箭头、行、文本 ...）。
@@ -114,7 +114,7 @@ sudo apt-get install hotshots
 ### ScreenCloud
 
 
-![ScreenCloud in action](/Asserts/Images//attachment/album/201507/18/212147ydxyi884d86plmds.png)
+![ScreenCloud in action](/Asserts/Images/album/201507/18/212147ydxyi884d86plmds.png)
 
 
 ScreenCloud是一款易于使用的开源截图工具。
@@ -157,7 +157,7 @@ ScreenCloud是一款易于使用的开源截图工具。
 ### KSnapshot
 
 
-![KSnapShot in action](/Asserts/Images//attachment/album/201507/18/212152hv1091xd9hr1vtct.png)
+![KSnapShot in action](/Asserts/Images/album/201507/18/212152hv1091xd9hr1vtct.png)
 
 
 KSnapshot也是一款易于使用的截图工具，它能给整个桌面、单一窗口、窗口的一部分或一块所选区域捕捉图像。图像能以各种不同格式保存。

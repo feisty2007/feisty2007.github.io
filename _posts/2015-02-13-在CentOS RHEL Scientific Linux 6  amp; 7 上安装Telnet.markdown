@@ -18,7 +18,7 @@ tags:	[linuxcn,telnet]
 * 你可以使用**SSH**作为替代方法。但是确保不要用root用户登录。
 
 
-![](/Asserts/Images//attachment/album/201502/24/223754ptwuudt0tpt2uu2w.png)
+![](/Asserts/Images/album/201502/24/223754ptwuudt0tpt2uu2w.png)
 
 
 ### Telnet是什么？

@@ -7,10 +7,10 @@ tags:	[linuxcn,SUSE,SSL,Cookie]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/13/185840bh366j22t3entnh3.jpg)
+![](/Asserts/Images/album/202204/13/185840bh366j22t3entnh3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/13/185848ovzlrfl4ek4fg2fk.jpg)
+![](/Asserts/Images/album/202204/13/185848ovzlrfl4ek4fg2fk.jpg)
 
 
 ### SUSE 正在开发“可适应的 Linux 平台”
@@ -27,7 +27,7 @@ tags:	[linuxcn,SUSE,SSL,Cookie]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/13/185858bhz4z04h4ssmdhmy.jpg)
+![](/Asserts/Images/album/202204/13/185858bhz4z04h4ssmdhmy.jpg)
 
 
 ### 检查 SSL 证书的免费服务 SSLPing 宣布关闭
@@ -44,7 +44,7 @@ tags:	[linuxcn,SUSE,SSL,Cookie]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/13/185913gzwm0w5cc0kz27z7.jpg)
+![](/Asserts/Images/album/202204/13/185913gzwm0w5cc0kz27z7.jpg)
 
 
 ### AI 驱动的浏览器扩展可以帮你自动关掉 Cookie 弹窗

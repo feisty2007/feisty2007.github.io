@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,命令,替代品]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/12/155211u6dwvwv66hwvzo8g.jpg)
+![](/Asserts/Images/album/202201/12/155211u6dwvwv66hwvzo8g.jpg)
 
 
 当你 [开始学习 Linux](https://academy.itsfoss.com/) 时，最初学习的是一套标准的 Linux 命令，这些命令从 UNIX 时代就已经存在了。随着你作为一个 Linux 用户的年龄增长，你会不断地掌握这套标准命令。
@@ -37,7 +37,7 @@ tags:	[linuxcn,Linux,命令,替代品]
 HTTPie（`http`）以一种更人性化的方式做同样的工作。你会看到彩色的、格式化的输出，这使得它更容易理解和调试。
 
 
-![](/Asserts/Images//attachment/album/202201/12/155228amchccynwnzwz8my.jpg)
+![](/Asserts/Images/album/202201/12/155228amchccynwnzwz8my.jpg)
 
 
 ### 蝙蝠：猫的替代品
@@ -49,7 +49,7 @@ HTTPie（`http`）以一种更人性化的方式做同样的工作。你会看�
 但 [bat 命令](https://github.com/sharkdp/bat) 更上一层楼，添加了语法高亮和 Git 集成等功能，并且还提供了分页选项。
 
 
-![](/Asserts/Images//attachment/album/202201/12/155228mgvg4khz9udjg0x9.png)
+![](/Asserts/Images/album/202201/12/155228mgvg4khz9udjg0x9.png)
 
 
 ### ncdu: du 命令的替代品
@@ -61,7 +61,7 @@ Linux 中的 [du 命令](https://linuxhandbook.com/find-directory-size-du-comman
 与此相比，`ncdu` 要好得多，它能及时提供相关信息。
 
 
-![](/Asserts/Images//attachment/album/202201/12/155229ecycz7nhg886a967.png)
+![](/Asserts/Images/album/202201/12/155229ecycz7nhg886a967.png)
 
 
 它还有其他一些功能，比如用图表显示磁盘使用情况，对显示进行排序，甚至可以交互式地删除目录。
@@ -79,7 +79,7 @@ Linux 中的 [du 命令](https://linuxhandbook.com/find-directory-size-du-comman
 另一方面，[htop](https://htop.dev/) 有一个漂亮的彩色输出，并且界面比 `top` 命令更直观。你可以垂直和水平滚动，以图形方式配置显示的信息。你可以在 `htop` 的输出屏幕上交互式地杀死进程。
 
 
-![](/Asserts/Images//attachment/album/202201/12/155229eaxpofjx88jafrif.png)
+![](/Asserts/Images/album/202201/12/155229eaxpofjx88jafrif.png)
 
 
 ### fd：find 命令的替代品
@@ -94,7 +94,7 @@ Linux 中的 [du 命令](https://linuxhandbook.com/find-directory-size-du-comman
 一个更好、更快的替代方案是 [fd 命令](https://github.com/sharkdp/fd)。`fd` 是用 Rust 编写的，它比其传统的竞争对手更简单、更快速。
 
 
-![](/Asserts/Images//attachment/album/202201/12/155229prxw1m77x1uxmt57.png)
+![](/Asserts/Images/album/202201/12/155229prxw1m77x1uxmt57.png)
 
 
 ### exa：ls 命令的替代品
@@ -106,7 +106,7 @@ Linux 中的 [du 命令](https://linuxhandbook.com/find-directory-size-du-comman
 你可以使用树状视图来查看目录结构。它也有内置的 Git 支持，可以看到哪些文件被修改、提交和暂存等。
 
 
-![](/Asserts/Images//attachment/album/202201/12/155230z10175h058we3drw.jpg)
+![](/Asserts/Images/album/202201/12/155230z10175h058we3drw.jpg)
 
 
 ### duf：df 命令的替代品
@@ -121,7 +121,7 @@ Linux 中的 [df 命令](https://linuxhandbook.com/df-command/) 用来检查磁�
 通过 `duf`，你可以对输出进行排序、列出 indoe 信息，甚至将输出保存为 JSON 格式。
 
 
-![](/Asserts/Images//attachment/album/202201/12/155230m3lpwmhpjw2oplx2.jpg)
+![](/Asserts/Images/album/202201/12/155230m3lpwmhpjw2oplx2.jpg)
 
 
 ### 太长不读：男人的替代品
@@ -133,7 +133,7 @@ Linux 中的 [df 命令](https://linuxhandbook.com/df-command/) 用来检查磁�
 这就是 `tldr` 登场的时机。“TLDR” 是流行的互联网行话，意思是“<ruby> 太长不读 <rt>  to long didn't read </rt></ruby>”。这就是他们创建 `tldr` 的想法。如果你觉得手册页太长而不想阅读，[tldr 通过提供命令的实际例子而将其简化了](https://itsfoss.com/tldr-linux-man-pages-simplified/)。
 
 
-![](/Asserts/Images//attachment/album/202201/12/155230s7e7520wzzc58gf5.png)
+![](/Asserts/Images/album/202201/12/155230s7e7520wzzc58gf5.png)
 
 
 ### Neovim：Vim 的替代品

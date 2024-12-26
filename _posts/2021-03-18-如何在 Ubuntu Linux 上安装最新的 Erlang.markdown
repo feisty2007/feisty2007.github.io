@@ -7,7 +7,7 @@ tags:	[linuxcn,Erlang]
 ---
 
 
-![](/Asserts/Images//attachment/album/202103/07/001753blfwcg2gc2c2lcgl.jpg)
+![](/Asserts/Images/album/202103/07/001753blfwcg2gc2c2lcgl.jpg)
 
 
 [Erlang](https://www.erlang.org/) 是一种用于构建大规模可扩展实时系统的函数式编程语言。Erlang 最初是由 [爱立信](https://www.ericsson.com/en) 创建的专有软件，后来被开源。
@@ -21,7 +21,7 @@ Erlang 在 [Ubuntu 的 Universe 仓库](https://itsfoss.com/ubuntu-repositories/
 sudo apt install erlang
 ```
 
-![](/Asserts/Images//attachment/album/202103/07/001849jr58abgngdpa0080.png)
+![](/Asserts/Images/album/202103/07/001849jr58abgngdpa0080.png)
 
 
 但是，*Ubuntu 仓库提供的 Erlang 版本可能不是最新的*。
@@ -99,7 +99,7 @@ sudo apt install erlang
 安装好后，你可以测试一下。
 
 
-![](/Asserts/Images//attachment/album/202103/07/001850mkrh478m99m47trr.png)
+![](/Asserts/Images/album/202103/07/001850mkrh478m99m47trr.png)
 
 
 要退出 Erlang shell，使用 `Ctrl+g`，然后输入 `q`，由于我从来没有用过 Erlang，所以我只好尝试了一些按键，然后发现了操作方法。

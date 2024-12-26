@@ -15,7 +15,7 @@ tags:	[linuxcn,COSMIC]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/17/104951hpjgh69j7uxp9phl.png)
+![](/Asserts/Images/album/202201/17/104951hpjgh69j7uxp9phl.png)
 
 
 如果你还不知道，System76 的开发者一直在 [致力于开发一个新的桌面环境](https://news.itsfoss.com/pop-os-cosmic-rust/)（被称为 COSMIC），它是用 [Rust](https://research.mozilla.org/rust/) 编写的，Rust 是一种内存安全的超快编程语言。
@@ -61,7 +61,7 @@ tags:	[linuxcn,COSMIC]
 #### COSMIC 设置应用
 
 
-![](/Asserts/Images//attachment/album/202201/17/104952yve99zycd0cru90r.png)
+![](/Asserts/Images/album/202201/17/104952yve99zycd0cru90r.png)
 
 
 
@@ -78,7 +78,7 @@ tags:	[linuxcn,COSMIC]
 那么，它看起来与目前的 COSMIC 体验有什么不同呢？
 
 
-![基于 Rust 的 COSMIC 设置与基于 GNOME 的 COSMIC](/Asserts/Images//attachment/album/202201/17/104952btpzmmragntym0h4.png)
+![基于 Rust 的 COSMIC 设置与基于 GNOME 的 COSMIC](/Asserts/Images/album/202201/17/104952btpzmmragntym0h4.png)
 
 
 在写这篇文章时，该用户界面似乎没有与任何后端 API 相连接。启用和禁用 “为工作区启用左上角热角 ”的切换并没有什么变化，其他的切换也是如此，除了设置应用的 “关于” 部分所显示的信息。
@@ -93,7 +93,7 @@ tags:	[linuxcn,COSMIC]
 切换动画感觉快速、流畅和迅捷（即使是在虚拟机内，我等不及在裸机上尝试）。但考虑到它甚至还没有功能，谈论性能没什么意义。
 
 
-![](/Asserts/Images//attachment/album/202201/17/104953j9j82seyw5zq7e1s.png)
+![](/Asserts/Images/album/202201/17/104953j9j82seyw5zq7e1s.png)
 
 
 就个人而言，我不喜欢他们所采用的圆角外观。在我看来，GNOME 对圆角的实现是完美的。但是，看看它的结果应该是很有趣的。
@@ -123,13 +123,13 @@ COSMIC 桌面环境的合成器编译成功了，但在与 bspwm 或 i3-wm 一�
 开发者 Eduardo Flores 也尝试了新的 COSMIC 桌面，在他的 [博客文章](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/) 中分享了一些应用启动器和坞站的截图。
 
 
-![来自 Eduardo Flores](/Asserts/Images//attachment/album/202201/17/104954r0j5uj9jn9szpirp.png)
+![来自 Eduardo Flores](/Asserts/Images/album/202201/17/104954r0j5uj9jn9szpirp.png)
 
 
 应用程序启动器看起来很相似，但是使用 GTK 构建的。同样，你也可以期待 [Pop!\_OS 21.10](https://news.itsfoss.com/pop-os-21-10/) 引入一个类似的应用程序库，以及经典的坞站。
 
 
-![来自 Eduardo Flores](/Asserts/Images//attachment/album/202201/17/104954u16z8lmjzxki3h0l.png)
+![来自 Eduardo Flores](/Asserts/Images/album/202201/17/104954u16z8lmjzxki3h0l.png)
 
 
 ### 总结

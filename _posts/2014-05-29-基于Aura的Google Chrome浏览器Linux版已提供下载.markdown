@@ -7,7 +7,7 @@ tags:	[linuxcn,Chrome,Aura]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/22/215340oogh9q9vzzs7i7a9.png)
+![](/Asserts/Images/album/201405/22/215340oogh9q9vzzs7i7a9.png)
 
 
 **经过似乎漫无止境的等待之后，Google近日正式发布采用Aura（它是这个 搜索巨头开发的内部图形层————译注：硬件加速窗口管理器）的Chrome浏览器 for Linux的第一个稳定版本。**
@@ -16,7 +16,7 @@ tags:	[linuxcn,Chrome,Aura]
 用于取代GTK+的Aura, 是用来在屏幕上绘制包括菜单和窗口框架在内的Chrome UI的主体部分（是的，它在局部窗口集成菜单和全局菜单中都能完美工作）。
 
 
-![](/Asserts/Images//attachment/album/201405/22/215343p8ztlpjfu8f7z2yc.png)
+![](/Asserts/Images/album/201405/22/215343p8ztlpjfu8f7z2yc.png)
 
 
 这个外观框架已经在Windows和Chrome OS builds中使用，因其绝大部分是跨平台的，使得Google能够更快地开发新特性以及保证特性在不同的操作系统中的一致性。
@@ -28,7 +28,7 @@ tags:	[linuxcn,Chrome,Aura]
 新版的到来带来了一些额外的特性，包括Chrome通知中心、[一个可选的应用启动器](https://chrome.google.com/webstore/launcher)以及对显示选定的Google Now卡片的支持。
 
 
-![](/Asserts/Images//attachment/album/201405/22/215345td63g8g93dz6l9vg.jpg)
+![](/Asserts/Images/album/201405/22/215345td63g8g93dz6l9vg.jpg)
 
 
 ### 其它变化

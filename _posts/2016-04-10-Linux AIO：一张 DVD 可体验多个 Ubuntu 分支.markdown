@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux AIO]
 Linux AIO 团队的 Željko Popivoda 在4月6日宣布，Linux AIO Ubuntu 14.04.4 LTS Live DVD 发布了。
 
 
-![](/Asserts/Images//attachment/album/201604/08/055955m8l46esz1vlvo8og.jpg)
+![](/Asserts/Images/album/201604/08/055955m8l46esz1vlvo8og.jpg)
 
 
 如果你还不知道 [Linux AIO](http://linuxaio.net/) 是什么，这里是一个简单的介绍：

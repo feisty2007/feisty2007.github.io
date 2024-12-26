@@ -7,7 +7,7 @@ tags:	[linuxcn,Linus Torvalds,语录]
 ---
 
 
-![](/Asserts/Images//attachment/album/201310/30/170055z02owwdyghqf7ddh.jpg)
+![](/Asserts/Images/album/201310/30/170055z02owwdyghqf7ddh.jpg)
 
 
 *Linus Torvalds 和 Dirk Hohndel 在 Edinburgh举行的 LinuxCon Europe 大会主席台上*
@@ -61,7 +61,7 @@ Linux创始人 Linus Torvalds 坐在了在Edinburgh举办的[LinuxCon Europe](ht
 7、**“如果你的公司认为内核的微小改动可以带来竞争优势，你恐怕将会面临经济问题。最好还是考虑一下生产廉价的高质量的硬件好了。”**
 
 
- ![](/Asserts/Images//attachment/album/201310/30/1700560v35y0441aaggg8y.jpg)
+ ![](/Asserts/Images/album/201310/30/1700560v35y0441aaggg8y.jpg)
 
 
 *Linux 创始人 Linux Torvalds 回答现场观众的提问，2013 LinuxCon Europe大会。*

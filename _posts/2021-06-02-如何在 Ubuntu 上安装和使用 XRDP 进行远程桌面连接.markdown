@@ -7,7 +7,7 @@ tags:	[linuxcn,XRDP,RDP,远程桌面]
 ---
 
 
-![](/Asserts/Images//attachment/album/202106/07/093752qs3feworsvyoflvl.jpg)
+![](/Asserts/Images/album/202106/07/093752qs3feworsvyoflvl.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,XRDP,RDP,远程桌面]
 下面是 XRDP 连接屏幕的样子。
 
 
-![](/Asserts/Images//attachment/album/202106/07/093825lq1pa5p2ckisikk2.png)
+![](/Asserts/Images/album/202106/07/093825lq1pa5p2ckisikk2.png)
 
 
 ### 使用 XRDP 需要注意的事项
@@ -66,7 +66,7 @@ XRDP 是为在 GUI 环境中使用而设计和制造的。如果你打算在 CLI
 * 安装有 RDP 客户端的另一个系统（无论是 Linux、macOS 还是 Windows）。
 
 
-![](/Asserts/Images//attachment/album/202106/07/093825qmqqsmtge59kes5m.png)
+![](/Asserts/Images/album/202106/07/093825qmqqsmtge59kes5m.png)
 
 
 #### 第 1 步：在远程计算机上安装 XRDP
@@ -131,7 +131,7 @@ sudo apt install remmina
 首先，启动 GNOME Boxes，并点击 “+” 号，选择 “连接到远程计算机…”。
 
 
-![](/Asserts/Images//attachment/album/202106/07/093827p4c3ljljho3ddyth.png)
+![](/Asserts/Images/album/202106/07/093827p4c3ljljho3ddyth.png)
 
 
 接下来，输入你要连接的机器的 IP 地址，前缀为 `rdp://`，然后按下图连接：
@@ -165,19 +165,19 @@ sudo apt install remmina
 避免任何名为 `127.0.0.1` 的 IP 地址，因为那个地址指向你运行命令的机器。输出中应该有更多的 IP 地址，如上图所示。
 
 
-![](/Asserts/Images//attachment/album/202106/07/093830y66fpwelcbttef90.png)
+![](/Asserts/Images/album/202106/07/093830y66fpwelcbttef90.png)
 
 
 然后，你应该会看到一个登录页面。将“会话”设置为 “Xorg”，只需输入你的用户名和密码，然后点击 “OK”。
 
 
-![](/Asserts/Images//attachment/album/202106/07/093825lq1pa5p2ckisikk2.png)
+![](/Asserts/Images/album/202106/07/093825lq1pa5p2ckisikk2.png)
 
 
 之后，你应该看到远程主机的桌面：
 
 
-![](/Asserts/Images//attachment/album/202106/07/093831efcg55vcfttrfg0t.png)
+![](/Asserts/Images/album/202106/07/093831efcg55vcfttrfg0t.png)
 
 
 至此，一切都会像机器在你面前时一样表现。
@@ -201,13 +201,13 @@ sudo apt install gnome-tweaks gnome-shell-extensions dconf-editor -y
 接下来，打开 “扩展” 应用，并打开如下开关：
 
 
-![](/Asserts/Images//attachment/album/202106/07/093831hsvxs4gqja9cal5s.png)
+![](/Asserts/Images/album/202106/07/093831hsvxs4gqja9cal5s.png)
 
 
 接下来，关闭你的远程桌面会话并重新登录。现在，打开 Tweaks，按照下面的截图配置：
 
 
-![](/Asserts/Images//attachment/album/202106/07/093832e7ih00puotnbupat.png)
+![](/Asserts/Images/album/202106/07/093832e7ih00puotnbupat.png)
 
 
 最后，打开 dconf 编辑器，并进入 `/org/gnome/shell/extensions/dash-toock/`。设置如下所示的值：

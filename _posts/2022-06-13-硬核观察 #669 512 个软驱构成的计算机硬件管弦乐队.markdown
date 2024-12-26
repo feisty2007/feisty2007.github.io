@@ -7,10 +7,10 @@ tags:	[linuxcn,软驱,AR,IE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/16/180504zmnzklsipfvf89jj.jpg)
+![](/Asserts/Images/album/202206/16/180504zmnzklsipfvf89jj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/16/180558wig4ls4rbblplddr.jpg)
+![](/Asserts/Images/album/202206/16/180558wig4ls4rbblplddr.jpg)
 
 
 ### 512 个软驱构成的计算机硬件管弦乐队
@@ -35,7 +35,7 @@ Floppotron 是一位极客用已经几乎见不到的淘汰硬件 —— 软盘�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/16/180606udffmj2jemwattah.jpg)
+![](/Asserts/Images/album/202206/16/180606udffmj2jemwattah.jpg)
 
 
 ### IE 11 正式停止支持
@@ -60,7 +60,7 @@ Floppotron 是一位极客用已经几乎见不到的淘汰硬件 —— 软盘�
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/16/180619vj5wm6w88qo786ga.jpg)
+![](/Asserts/Images/album/202206/16/180619vj5wm6w88qo786ga.jpg)
 
 
 ### 科技巨头的 AR 梦醒

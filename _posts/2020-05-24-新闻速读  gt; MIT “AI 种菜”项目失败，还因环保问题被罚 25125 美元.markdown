@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/19/115240qz8t644tt1hs441l.jpg)
+![](/Asserts/Images/album/202005/19/115240qz8t644tt1hs441l.jpg)
 
 
 #### MIT “AI 种菜”项目失败，还因环保问题被罚 25125 美元

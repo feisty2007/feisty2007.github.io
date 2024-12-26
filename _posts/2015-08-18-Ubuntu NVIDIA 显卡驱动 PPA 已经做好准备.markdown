@@ -7,7 +7,7 @@ tags:	[linuxcn,Nvidia,驱动]
 ---
 
 
-![](/Asserts/Images//attachment/album/201508/16/105605vo1ubrxxz4vqo741.png)
+![](/Asserts/Images/album/201508/16/105605vo1ubrxxz4vqo741.png)
 
 
 加速你的帧率！

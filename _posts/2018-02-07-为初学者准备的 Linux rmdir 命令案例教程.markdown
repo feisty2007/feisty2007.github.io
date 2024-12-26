@@ -7,7 +7,7 @@ tags:	[linuxcn,rmdir,目录]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/17/125918w3uwdp9b9sebabdi.jpg)
+![](/Asserts/Images/album/201802/17/125918w3uwdp9b9sebabdi.jpg)
 
 
 在 Linux 命令行上删除文件和目录，我们已经讨论过 [rm 命令](/article-9321-1.html) 的使用。然而，这里有另一个相关的命令行工具，专门针对目录的删除。这是所指的工具就是 `rmdir`，本教程中，我们将根据一些简单的实例来讨论它。
@@ -54,7 +54,7 @@ rmdir test-dir
 
 ```
 
-[![rmdir 命令如何工作](/Asserts/Images//attachment/album/201802/17/125931w7gf7s7gupifjes0.png)](https://www.howtoforge.com/images/command-tutorial/big/rm-basic-usage1.png)
+[![rmdir 命令如何工作](/Asserts/Images/album/201802/17/125931w7gf7s7gupifjes0.png)](https://www.howtoforge.com/images/command-tutorial/big/rm-basic-usage1.png)
 
 
 ### Q2. 如何让 rmdir 忽略非空目录？
@@ -66,7 +66,7 @@ rmdir test-dir
 比如说：
 
 
-[![如何让 rmdir 忽视非空目录](/Asserts/Images//attachment/album/201802/17/125931uz7cvhkk0xvqv5hk.png)](https://www.howtoforge.com/images/command-tutorial/big/rmdir-ignore-nonempty.png)
+[![如何让 rmdir 忽视非空目录](/Asserts/Images/album/201802/17/125931uz7cvhkk0xvqv5hk.png)](https://www.howtoforge.com/images/command-tutorial/big/rmdir-ignore-nonempty.png)
 
 
 ### Q3. 如何让 rmdir 命令移除父目录？

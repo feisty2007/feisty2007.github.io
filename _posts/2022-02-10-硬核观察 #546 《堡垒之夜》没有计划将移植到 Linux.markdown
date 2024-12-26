@@ -7,10 +7,10 @@ tags:	[linuxcn,游戏,开源,CPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/13/201804feddem1q09l81e83.jpg)
+![](/Asserts/Images/album/202202/13/201804feddem1q09l81e83.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/13/201812wtx232ltgl26xket.jpg)
+![](/Asserts/Images/album/202202/13/201812wtx232ltgl26xket.jpg)
 
 
 ### 《堡垒之夜》没有计划将移植到 Linux
@@ -27,7 +27,7 @@ tags:	[linuxcn,游戏,开源,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/13/201822kz2s1shcql3jq6wp.jpg)
+![](/Asserts/Images/album/202202/13/201822kz2s1shcql3jq6wp.jpg)
 
 
 ### Valve 开源 Steam Deck 外壳 CAD 文件
@@ -44,7 +44,7 @@ Valve 的 Linux 掌机 Steam Deck 即将在月底发售，届时玩家和用户�
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/13/201839ec0zsiybt6spmy4t.jpg)
+![](/Asserts/Images/album/202202/13/201839ec0zsiybt6spmy4t.jpg)
 
 
 ### Linux 上的英特尔 Alder Lake CPU 性能将带来重大提升

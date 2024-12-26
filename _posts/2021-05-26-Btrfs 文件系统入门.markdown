@@ -15,7 +15,7 @@ tags:	[linuxcn,Btrfs,文件系统]
 > 
 
 
-![](/Asserts/Images//attachment/album/202105/30/070203wkxsufbx1zlccyl9.jpg "Filing cabinet for organization")
+![](/Asserts/Images/album/202105/30/070203wkxsufbx1zlccyl9.jpg "Filing cabinet for organization")
 
 
 好几年前 Btrfs 就已经可以在 Linux 中使用了，所以你可能已经熟悉它了。如果没有，你可能对它尚有疑虑，尤其是如果你使用的是 Fedora 工作站 （Btrfs 现在是它的默认文件系统）。本文旨在帮助你熟悉它及其高级功能，例如 [写时复制](https://en.wikipedia.org/wiki/Copy-on-write) 和 [校验和](https://en.wikipedia.org/wiki/Checksum)。
@@ -30,7 +30,7 @@ Btrfs 是 “B-Tree Filesystem” 的缩写，实际上是文件系统和卷管�
 为了尝试 Btrfs，我下载了 Fedora 33 工作站 [ISO 文件](https://getfedora.org/en/workstation/download/) 并将其安装到一个新的虚拟机（VM）中。安装过程与以前的版本没有变化。我没有自定义任何设置，包括驱动器分区和格式化，以保持本教程的准确“开箱即用”设置。当虚拟机启动并运行后，我安装并运行了 GNOME 分区编辑器（[GParted](https://gparted.org/)），以获得一个良好的、工厂级的驱动器布局视图。
 
 
-![GParted's view of Btrfs on Fedora 33 Workstation using GParted](/Asserts/Images//attachment/album/202105/30/070234u1vajnxp7d5jam43.png "GParted's view of Btrfs on Fedora 33 Workstation using GParted")
+![GParted's view of Btrfs on Fedora 33 Workstation using GParted](/Asserts/Images/album/202105/30/070234u1vajnxp7d5jam43.png "GParted's view of Btrfs on Fedora 33 Workstation using GParted")
 
 
 从安装这一点来说，与你以前所习惯的情况没什么不同；事实上，你可以正常使用该系统，甚至可能没有注意到文件系统是 Btrfs。然而，拥有这个新的默认文件系统使你能够利用几个很酷的特性。

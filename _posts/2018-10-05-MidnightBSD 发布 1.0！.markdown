@@ -13,7 +13,7 @@ tags:	[linuxcn,BSD]
 ### 什么是 MidnightBSD？
 
 
-![MidnightBSD](/Asserts/Images//attachment/album/201810/31/093807l88xtkvfcqob3tlk.jpg)
+![MidnightBSD](/Asserts/Images/album/201810/31/093807l88xtkvfcqob3tlk.jpg)
 
 
 [MidnightBSD](https://www.midnightbsd.org/) 是 FreeBSD 的一个分支。Lucas 创建了 MightnightBSD，这成为桌面用户和 BSD 新手的一个选择。他想创造一个能让人们快速体验 BSD 桌面的东西。他认为其他发行版过于关注服务器市场。

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/10/190318vxnp6t2op6w765fo.jpg)
+![](/Asserts/Images/album/202307/10/190318vxnp6t2op6w765fo.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/10/190337wgq6ioevz2ljwfii.jpg)
+![](/Asserts/Images/album/202307/10/190337wgq6ioevz2ljwfii.jpg)
 
 
 ### OpenAI 拿出五分之一的算力来防止人工智能“叛变”
@@ -35,7 +35,7 @@ OpenAI 认为，能够超越人类智慧并压倒人类的计算机系统可能�
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/10/190358ddk5pgdi9g0p0qgd.jpg)
+![](/Asserts/Images/album/202307/10/190358ddk5pgdi9g0p0qgd.jpg)
 
 
 ### Meta 向 Python 提议可选全局解释器锁功能
@@ -60,7 +60,7 @@ CPython 的全局解释器锁（GIL）阻止了多线程同时执行代码，这
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/10/190413i3ezydi7y7iiddwt.jpg)
+![](/Asserts/Images/album/202307/10/190413i3ezydi7y7iiddwt.jpg)
 
 
 ### 谷歌建议为人工智能更新 robots.txt 文件

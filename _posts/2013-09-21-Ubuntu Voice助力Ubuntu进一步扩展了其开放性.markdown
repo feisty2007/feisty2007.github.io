@@ -28,7 +28,7 @@ Ubuntu的设计师赵婷婷宣布了Ubuntu Voice已可用这个令人兴奋的[�
 “获得一些额外的东西，我们的一些研究将伴随着奖励，或者是一种‘Ubuntu幸运奖’的形式，有一些研究是志愿的。”
 
 
-![](/Asserts/Images//attachment/album/201309/12/095817kss1s8k03kykkkz3.png)
+![](/Asserts/Images/album/201309/12/095817kss1s8k03kykkkz3.png)
 
 
 想要加入Ubuntu Voice，请点击： <https://docs.google.com/a/canonical.com/forms/d/1xB7vRZiQDcEVCQX-HVqExj00O6925pWuCV65n4RjeEM/viewform> 

@@ -7,7 +7,7 @@ tags:	[linuxcn,数据库,PostgreSQL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/21/115439lfjotemjk8fiqoq8.png)
+![](/Asserts/Images/album/201512/21/115439lfjotemjk8fiqoq8.png)
 
 
 ### 简介
@@ -563,25 +563,25 @@ sudo service apache2 restart
 现在打开你的浏览器并导航到 **http://ip-address/phppgadmin**。你会看到以下截图。
 
 
-![phpPgAdmin ](/Asserts/Images//attachment/album/201512/21/115440utwfg1u1kak1d717.jpg)
+![phpPgAdmin ](/Asserts/Images/album/201512/21/115440utwfg1u1kak1d717.jpg)
 
 
 用你之前创建的用户登录。我之前已经创建了一个名为 “**senthil**” 的用户，密码是 “**ubuntu**”，因此我以 “senthil” 用户登录。
 
 
-![phpPgAdmin  ](/Asserts/Images//attachment/album/201512/21/115440m44s566v6qit6w5w.jpg)
+![phpPgAdmin  ](/Asserts/Images/album/201512/21/115440m44s566v6qit6w5w.jpg)
 
 
 然后你就可以访问 phppgadmin 面板了。
 
 
-![phpPgAdmin ](/Asserts/Images//attachment/album/201512/21/115441km9dd21oromlpcqm.jpg)
+![phpPgAdmin ](/Asserts/Images/album/201512/21/115441km9dd21oromlpcqm.jpg)
 
 
 用 postgres 用户登录：
 
 
-![phpPgAdmin ](/Asserts/Images//attachment/album/201512/21/115441x9ccp2leh0hlxndx.jpg)
+![phpPgAdmin ](/Asserts/Images/album/201512/21/115441x9ccp2leh0hlxndx.jpg)
 
 
 就是这样。现在你可以用 phppgadmin 可视化创建、删除或者更改数据库了。

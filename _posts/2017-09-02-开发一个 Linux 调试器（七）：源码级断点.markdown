@@ -7,7 +7,7 @@ tags:	[linuxcn,调试器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/22/093850q8zlc89bpd1idpkc.jpg)
+![](/Asserts/Images/album/201709/22/093850q8zlc89bpd1idpkc.jpg)
 
 
 在内存地址上设置断点虽然不错，但它并没有提供最方便用户的工具。我们希望能够在源代码行和函数入口地址上设置断点，以便我们可以在与代码相同的抽象级别中进行调试。

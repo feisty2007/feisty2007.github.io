@@ -15,7 +15,7 @@ tags:	[linuxcn,LibreOffice]
 > 
 
 
-![](/Asserts/Images//attachment/album/201408/13/224733fpccqc57mq707n5v.jpg)
+![](/Asserts/Images/album/201408/13/224733fpccqc57mq707n5v.jpg)
 
 
 **新的一个月，新发行版本的LibreOffice开源办公套件将默认的安装在Ubuntu中**

@@ -15,7 +15,7 @@ tags:	[linuxcn,微软,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/14/232324kkimyikd4zdd6e64.jpg)
+![](/Asserts/Images/album/202010/14/232324kkimyikd4zdd6e64.jpg)
 
 
 我尊敬的同事 Steven J. Vaughan-Nichols 在姊妹网站 ZDNet 上发表了一篇出色的文章，名为《[基于 Linux 的 Windows 非常有意义](https://www.zdnet.com/article/linux-based-windows-makes-perfect-sense/)》，他在文中讨论了 Eric S. Raymond 的[观点](/article-12664-1.html)，即我们正接近桌面战争的最后阶段。Vaughan-Nichols 猜测，下一个合乎逻辑的步骤是在 Linux 内核上运行的 Windows 界面。

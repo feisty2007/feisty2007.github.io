@@ -15,7 +15,7 @@ tags:	[linuxcn,Flask]
 > 
 
 
-![spiderweb diagram](/Asserts/Images//attachment/album/201912/21/112324fx6z8i11yyz7j8y8.png "spiderweb diagram")
+![spiderweb diagram](/Asserts/Images/album/201912/21/112324fx6z8i11yyz7j8y8.png "spiderweb diagram")
 
 
 [Python](https://www.python.org/) 是一个以语法简洁著称的高级的、面向对象的程序语言。它一直都是一个用来构建 RESTful API 的顶级编程语言。

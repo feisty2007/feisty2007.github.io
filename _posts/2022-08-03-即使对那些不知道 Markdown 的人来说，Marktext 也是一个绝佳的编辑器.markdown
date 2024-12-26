@@ -7,7 +7,7 @@ tags:	[linuxcn,Markdown,Marktext,编辑器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/31/170837f0kx77ewii4hkih0.jpg)
+![](/Asserts/Images/album/202208/31/170837f0kx77ewii4hkih0.jpg)
 
 
 又一个 Markdown 编辑器？我们见的 Markdown 编辑器还少吗？
@@ -31,13 +31,13 @@ Markdown 是一个非常好的标记语言，特别是对那些在网络上写�
 尽管我很讨厌 [Electron 框架](https://www.electronjs.org/)，但不得不承认基于 Electron 的应用都有一个干净、现代的界面。
 
 
-![Marktext interface](/Asserts/Images//attachment/album/202208/31/170842ix409nz0u99rg0yt.png)
+![Marktext interface](/Asserts/Images/album/202208/31/170842ix409nz0u99rg0yt.png)
 
 
 我更喜欢深色模式主题，除此之外官方还提供了五种其它主题。
 
 
-![Marktext dark theme](/Asserts/Images//attachment/album/202208/31/170842rvjhv2av54dhx8c0.png)
+![Marktext dark theme](/Asserts/Images/album/202208/31/170842rvjhv2av54dhx8c0.png)
 
 
 打开软件你就可以立刻进行写作，如果你不记得某个语法了，那也没有问题，输入 `@` 就可以得到语法提示，如：
@@ -55,19 +55,19 @@ Markdown 是一个非常好的标记语言，特别是对那些在网络上写�
 * 用 Vega-lite.js、Flowchart.js、js-sequence-diagrams 和 PlantUML 制作的图表
 
 
-![Use various document elements in the editor by pressing @](/Asserts/Images//attachment/album/202208/31/170842f1paaaponzjep51z.png)
+![Use various document elements in the editor by pressing @](/Asserts/Images/album/202208/31/170842f1paaaponzjep51z.png)
 
 
 选中文本你会得到一个格式选项框，来改变文本为粗体、斜体、下划线、删除线等。你也可以用黄色背景高亮文本、转换为内联代码、内联公式或插入超链接。
 
 
-![Text formatting options](/Asserts/Images//attachment/album/202208/31/170843zk63kgzl2gfa6z32.png)
+![Text formatting options](/Asserts/Images/album/202208/31/170843zk63kgzl2gfa6z32.png)
 
 
 Marktext 也支持图片。我们都知道图片不是 Markdown 文件的一部分，它们是外部元素，但是你可以选择将图片保存到 .md 文件所在的目录下。
 
 
-![Images are supported too](/Asserts/Images//attachment/album/202208/31/170843c0sjh88c4o77fo4x.png)
+![Images are supported too](/Asserts/Images/album/202208/31/170843c0sjh88c4o77fo4x.png)
 
 
 通过插入菜单来添加图片非常容易。你可以选择文本并且从弹出的格式选项中选择图片来添加，或使用 `Ctrl+Shift+I` 快捷键。但是不能为图片添加替换文本或图片说明，这点确实需要改进。
@@ -76,19 +76,19 @@ Marktext 也支持图片。我们都知道图片不是 Markdown 文件的一部�
 我喜欢 Marktext 的表格功能。你可以直接插入预先定义好大小的图表。如有需要，还可以很容易的改变大小。你可以只用鼠标移动列和行，而不用担心底层的代码。
 
 
-![Tables are very well supported in Marktext](/Asserts/Images//attachment/album/202208/31/170843l54j8mjaop4j8o58.png)
+![Tables are very well supported in Marktext](/Asserts/Images/album/202208/31/170843l54j8mjaop4j8o58.png)
 
 
 你可以启用侧边栏视图。侧边栏有三个功能：你可以打开包含多个 Markdown 文件的文件夹，在打开的文件夹中的所有文件上执行全局搜索，并显示当前打开的文件的大纲目录。大纲目录是根据子标题自动生成的。
 
 
-![Sidebar view has three options: Show folder content, global search and table of content](/Asserts/Images//attachment/album/202208/31/170843dvfgodvvik4llly5.png)
+![Sidebar view has three options: Show folder content, global search and table of content](/Asserts/Images/album/202208/31/170843dvfgodvvik4llly5.png)
 
 
 底部的齿轮按钮是设置功能。你可以改变主题、改变图片设置、视图、开启自动保存等等。
 
 
-![Configuration and settings](/Asserts/Images//attachment/album/202208/31/170844qmumf882uo0mvbog.png)
+![Configuration and settings](/Asserts/Images/album/202208/31/170844qmumf882uo0mvbog.png)
 
 
 ### 如何安装 Marktext

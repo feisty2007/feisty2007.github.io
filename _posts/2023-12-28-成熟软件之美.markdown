@@ -7,7 +7,7 @@ tags:	[linuxcn,WordStar,成熟软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/27/232621ke9z2hbis02mmbp8.jpg)
+![](/Asserts/Images/album/202312/27/232621ke9z2hbis02mmbp8.jpg)
 
 
 今天咱们一起来聊聊 [WordStar 4.0](https://en.wikipedia.org/wiki/WordStar)，它是一款上世纪 80 年代初流行的文字处理器。

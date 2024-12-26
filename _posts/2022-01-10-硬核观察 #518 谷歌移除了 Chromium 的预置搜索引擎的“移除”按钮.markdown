@@ -7,10 +7,10 @@ tags:	[linuxcn,Chromium,youtube-dl,REvil]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/16/203001xag427mc885gz4cg.jpg)
+![](/Asserts/Images/album/202201/16/203001xag427mc885gz4cg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/16/203009o7nfo2009myjmf2x.jpg)
+![](/Asserts/Images/album/202201/16/203009o7nfo2009myjmf2x.jpg)
 
 
 ### 谷歌移除了 Chromium 的预置搜索引擎的“移除”按钮
@@ -27,7 +27,7 @@ tags:	[linuxcn,Chromium,youtube-dl,REvil]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/16/203020malif0a3u0xoayua.jpg)
+![](/Asserts/Images/album/202201/16/203020malif0a3u0xoayua.jpg)
 
 
 ### youtube-dl 网站的托管商被各大唱片公司起诉
@@ -44,7 +44,7 @@ tags:	[linuxcn,Chromium,youtube-dl,REvil]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/16/203030y64ofbfj2b466e6s.jpg)
+![](/Asserts/Images/album/202201/16/203030y64ofbfj2b466e6s.jpg)
 
 
 ### 俄罗斯逮捕了多名 REvil 勒索软件黑帮成员

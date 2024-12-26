@@ -15,7 +15,7 @@ tags:	[linuxcn,screen]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/26/212842uvyvzf4ykv5ehj4w.jpg)
+![](/Asserts/Images/album/202001/26/212842uvyvzf4ykv5ehj4w.jpg)
 
 
 如果因 SSH 会话断开而不得不重启一个耗时的进程，那么你可能会很高兴了解一个有趣的工具，可以用来避免此问题：`screen` 工具。

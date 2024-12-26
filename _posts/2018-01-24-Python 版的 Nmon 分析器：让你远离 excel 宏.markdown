@@ -7,7 +7,7 @@ tags:	[linuxcn,nmon]
 ---
 
 
-![pyNmonAnalyzer Graph output](/Asserts/Images//attachment/album/201801/30/121232ke7q2v7f44cj2e3c.png "pyNmonAnalyzer Graph output")
+![pyNmonAnalyzer Graph output](/Asserts/Images/album/201801/30/121232ke7q2v7f44cj2e3c.png "pyNmonAnalyzer Graph output")
 
 
 [Nigel's monitor](http://nmon.sourceforge.net/)，也叫做 “Nmon”，是一个很好的监控、记录和分析 Linux/\*nix 系统性能随时间变化的工具。Nmon 最初由 IBM 开发并于 2009 年夏天开源。时至今日 Nmon 已经在所有 Linux 平台和架构上都可用了。它提供了很棒的当前系统统计信息的基于命令行的实时可视化报告，这些统计信息包括 CPU、RAM、网络和磁盘 I/O。然而，Nmon 最棒的特性是可以随着时间的推移记录系统性能快照。
@@ -16,7 +16,7 @@ tags:	[linuxcn,nmon]
 比如：`nmon -f -s 1`。
 
 
-![nmon CPU and Disk utilization](/Asserts/Images//attachment/album/201801/30/121232vf9yzxc5tco5spai.png)
+![nmon CPU and Disk utilization](/Asserts/Images/album/201801/30/121232vf9yzxc5tco5spai.png)
 
 
 会创建一个日志文件，该日志文件最开头是一些系统的元数据（AAA - BBBV 部分），后面是所监控的系统属性的定时快照，比如 CPU 和内存的使用情况。这个输出的文件很难直接由电子表格应用来处理，因此诞生了 [Nmon\_Analyzer](http://www.ibm.com/developerworks/wikis/display/WikiPtype/nmonanalyser) excel 宏。如果你用的是 Windows/Mac 并安装了 Microsoft Office，那么这个工具非常不错。如果没有这个环境那也可以使用 Nmon2rrd 工具，这个工具能将日志文件转换 RRD 输入文件，进而生成图形。这个过程很死板而且有点麻烦。现在出现了一个更灵活的工具，我向你们介绍一下 pyNmonAnalyzer，它提供了一个可定制化的解决方案来生成结构化的 CSV 文件和带有用 [matplotlib](http://matplotlib.org/) 生成的图片的简单 HTML 报告。
@@ -77,7 +77,7 @@ optional arguments:
  -x, --overwrite overwrite existing results (Default: False)
  -d, --debug debug? (Default: False)
  -o OUTDIR, --output OUTDIR
- Output dir for CSV (Default: ./Asserts/Images//)
+ Output dir for CSV (Default: ./data/)
  -c, --csv CSV output? (Default: False)
  -b, --buildReport report output? (Default: False)
  -r CONFFNAME, --reportConfig CONFFNAME
@@ -102,7 +102,7 @@ $ ./pyNmonAnalyzer.py -c -b test.nmon
 
 ```
 
-这会创建一个 `./Asserts/Images/` 目录，其中有一个存放 CSV 文件的目录 (`./Asserts/Images//csv/`)，一个存放 PNG 图片的目录 (`./Asserts/Images//img/`) 以及一个 HTML 报告 (`./Asserts/Images//report.html`)。
+这会创建一个 `./data` 目录，其中有一个存放 CSV 文件的目录 (`./data/csv/`)，一个存放 PNG 图片的目录 (`./data/img/`) 以及一个 HTML 报告 (`./data/report.html`)。
 
 
 默认情况下，HTML 报告中会用图片展示 CPU、磁盘繁忙程度、内存使用情况和网络传输情况。所有这些都定义在一个不言自明的配置文件中 (`report.config`)。目前这个工具还不是特别的灵活，因为 CPU 和 MEM 除了 `on` 和 `off` 外，无法做其他的配置。不过下一步将会改进作图的方法并允许用户灵活地指定针对哪些数据使用哪种作图方法。

@@ -16,7 +16,7 @@ BIND（Berkeley internet Name Daemon)也叫做NAMED，是现今互联网上使�
 你可以按照下列步骤，在CentOS 7.0 上部署 Bind Chroot DNS 服务器。
 
 
-![](/Asserts/Images//attachment/album/201501/22/214634ey75e65qmhz4h764.jpg)
+![](/Asserts/Images/album/201501/22/214634ey75e65qmhz4h764.jpg)
 
 
 ### 1、安装Bind Chroot DNS 服务器
@@ -42,10 +42,10 @@ BIND（Berkeley internet Name Daemon)也叫做NAMED，是现今互联网上使�
 
 
 ```
-[root@centos7 ~]# touch /var/named/chroot/var/named/Asserts/Images//cache_dump.db
-[root@centos7 ~]# touch /var/named/chroot/var/named/Asserts/Images//named_stats.txt
-[root@centos7 ~]# touch /var/named/chroot/var/named/Asserts/Images//named_mem_stats.txt
-[root@centos7 ~]# touch /var/named/chroot/var/named/Asserts/Images//named.run
+[root@centos7 ~]# touch /var/named/chroot/var/named/data/cache_dump.db
+[root@centos7 ~]# touch /var/named/chroot/var/named/data/named_stats.txt
+[root@centos7 ~]# touch /var/named/chroot/var/named/data/named_mem_stats.txt
+[root@centos7 ~]# touch /var/named/chroot/var/named/data/named.run
 [root@centos7 ~]# mkdir /var/named/chroot/var/named/dynamic
 [root@centos7 ~]# touch /var/named/chroot/var/named/dynamic/managed-keys.bind
 
@@ -56,7 +56,7 @@ BIND（Berkeley internet Name Daemon)也叫做NAMED，是现今互联网上使�
 
 
 ```
-[root@centos7 ~]# chmod -R 777 /var/named/chroot/var/named/Asserts/Images/
+[root@centos7 ~]# chmod -R 777 /var/named/chroot/var/named/data
 [root@centos7 ~]# chmod -R 777 /var/named/chroot/var/named/dynamic
 
 ```
@@ -121,9 +121,9 @@ options {
         listen-on port 53 { any; };
         listen-on-v6 port 53 { ::1; };
         directory       "/var/named";
-        dump-file       "/var/named/Asserts/Images//cache_dump.db";
-        statistics-file "/var/named/Asserts/Images//named_stats.txt";
-        memstatistics-file "/var/named/Asserts/Images//named_mem_stats.txt";
+        dump-file       "/var/named/data/cache_dump.db";
+        statistics-file "/var/named/data/named_stats.txt";
+        memstatistics-file "/var/named/data/named_mem_stats.txt";
         allow-query     { any; };
 
         /*

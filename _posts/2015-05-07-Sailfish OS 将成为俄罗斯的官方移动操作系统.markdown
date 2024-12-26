@@ -7,7 +7,7 @@ tags:	[linuxcn,Sailfish OS]
 ---
 
 
-![jolla_russia_launch](/Asserts/Images//attachment/album/201505/19/192939pjqjjjjdtutxjcxc.jpg)
+![jolla_russia_launch](/Asserts/Images/album/201505/19/192939pjqjjjjdtutxjcxc.jpg)
 
 
 Jolla 公司最近一直在后面默默努力，以期给大家带来一些激动人心的新消息。那么，有什么能比得到一个大国支持，并把你的操作系统称作他们的国家官方的移动操作系统更令人兴奋呢？

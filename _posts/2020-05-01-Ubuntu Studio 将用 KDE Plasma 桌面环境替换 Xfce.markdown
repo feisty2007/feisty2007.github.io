@@ -19,7 +19,7 @@ Ubuntu Studio 20.04 将是带有 [Xfce 桌面环境](https://xfce.org)的最后�
 ### 为什么 Ubuntu Studio 放弃 XFCE？
 
 
-![](/Asserts/Images//attachment/album/202005/16/113713pl190wbu8788rq9q.jpg)
+![](/Asserts/Images/album/202005/16/113713pl190wbu8788rq9q.jpg)
 
 
 据他们的澄清，Ubuntu Studio 并不专注于任何特定的外观/感受，而是旨在提供最佳的用户体验。同时，KDE 被证明是一个更好的选择。

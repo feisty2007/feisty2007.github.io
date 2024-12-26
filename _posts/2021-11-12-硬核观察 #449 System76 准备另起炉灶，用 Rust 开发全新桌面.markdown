@@ -7,13 +7,13 @@ tags:	[linuxcn,System76,云服务,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/08/141712yufhe0kk9sq7nkl9.jpg)
+![](/Asserts/Images/album/202111/08/141712yufhe0kk9sq7nkl9.jpg)
 
 
 ### System76 准备另起炉灶，用 Rust 开发全新桌面
 
 
-![](/Asserts/Images//attachment/album/202111/08/141723s5q2nqk4r3kz5po4.jpg)
+![](/Asserts/Images/album/202111/08/141723s5q2nqk4r3kz5po4.jpg)
 
 
 System76 的 Pop!\_OS Linux 发行版的 COSMIC 桌面是基于 GNOME 的，但他们正在 [用 Rust 开发自己的桌面](https://www.phoronix.com/scan.php?page=news_item&px=Pop-OS-New-Rust-Desktop)，而不基于 GNOME 或任何现有桌面环境。System76 回应称，开发自己的桌面环境确实是因最近 Pop!\_OS 和 GNOME 开发者之间在主题化和定制化的方法上发生了一些摩擦。Pop!\_OS 维护者 [在评论中说](https://old.reddit.com/r/pop_os/comments/qnvrou/will_pop_os_ever_do_an_officially_kde_flavor_or/hjqpj7y/) “我们的桌面环境是 GNOME Shell 扩展的集合，而这些扩展在每个 GNOME Shell 版本中都会被破坏。要么我们转向维护数以万计的猴子补丁，要么我们用正确的方式，成为与 GNOME Shell 一样的成熟的桌面环境。” 他们的新桌面会 “使用已经存在的工具（mutter、kwin、wlroots 等等），但是会从头开始用 Rust 实现周围的 shell...并尽力遵循 freedesktop 规范。”
@@ -30,7 +30,7 @@ System76 的 Pop!\_OS Linux 发行版的 COSMIC 桌面是基于 GNOME 的，但�
 ### 只有 3% 的企业在使用单一的云服务商
 
 
-![](/Asserts/Images//attachment/album/202111/08/141745tlzq793189e1l1vu.jpg)
+![](/Asserts/Images/album/202111/08/141745tlzq793189e1l1vu.jpg)
 
 
 [一项研究](https://www.ibm.com/thought-leadership/institute-business-value/report/cloud-transformation) 对 29 个行业的七千余名高管进行了关于他们的云结构的调查。调查发现，只有 3% 的人报告在 2021 年使用单一的私有云或公共云，而在 2019 年这一数据为 29%。至少有 79% 的受访者表示，工作负载完全可移植，没有供应商锁定。
@@ -47,7 +47,7 @@ System76 的 Pop!\_OS Linux 发行版的 COSMIC 桌面是基于 GNOME 的，但�
 ### 微软宣布为其 Azure 云上的 Linux 添加更多安全保护
 
 
-![](/Asserts/Images//attachment/album/202111/08/141807zrxvxe2lz303360t.jpg)
+![](/Asserts/Images/album/202111/08/141807zrxvxe2lz303360t.jpg)
 
 
 几个月前，Linux 服务器上的 Defender for Endpoint 获得了端点检测和响应（EDR）能力，Linux 上的 Defender 可以通用地拦截全新类别的威胁，如赎金勒索、敏感数据收集、加密货币挖掘等等。现在微软为 Azure Defender 客户 [提供了更多的能力](https://www.zdnet.com/article/microsoft-just-expanded-its-malware-protection-for-linux-servers/)，Linux EDR 现在已经进入公开预览阶段，其提供的实时响应允许深入调查和快速遏制威胁，为安全团队提供取证数据、运行脚本的能力、分享可疑实体和猎取可能的威胁。

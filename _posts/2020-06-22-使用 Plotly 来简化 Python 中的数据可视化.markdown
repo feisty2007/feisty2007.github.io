@@ -15,7 +15,7 @@ tags:	[linuxcn,]
 > 
 
 
-![](/Asserts/Images//attachment/album/202006/27/215314y0rkrz0e9zw7wd2o.jpg)
+![](/Asserts/Images/album/202006/27/215314y0rkrz0e9zw7wd2o.jpg)
 
 
 Plotly 是一个绘图生态系统，可以让你在 [Python](https://opensource.com/resources/python) 以及 JavaScript 和 R 中进行绘图。在本文中，我将重点介绍[使用 Python 库进行绘图](/article-12327-1.html)。
@@ -102,7 +102,7 @@ fig.show()
 最终结果图：
 
 
-![A multi-bar plot made using Graph Objects](/Asserts/Images//attachment/album/202006/27/220635m0z77gix5ng54ruj.png "A multi-bar plot made using Graph Objects")
+![A multi-bar plot made using Graph Objects](/Asserts/Images/album/202006/27/220635m0z77gix5ng54ruj.png "A multi-bar plot made using Graph Objects")
 
 
 *A multi-bar plot made using Graph Objects (© 2019 [Anvil](https://anvil.works/blog/plotting-in-plotly))*
@@ -143,7 +143,7 @@ pio.show(fig)
 最终结果与上次完全相同：
 
 
-![A multi-bar plot made using JSON-like data structures](/Asserts/Images//attachment/album/202006/27/220357gzmp42az66lzfr28.png "A multi-bar plot made using JSON-like data structures")
+![A multi-bar plot made using JSON-like data structures](/Asserts/Images/album/202006/27/220357gzmp42az66lzfr28.png "A multi-bar plot made using JSON-like data structures")
 
 
 *A multi-bar plot made using JSON-like data structures (© 2019 [Anvil](https://anvil.works/blog/plotting-in-plotly))*
@@ -229,7 +229,7 @@ fig.show()
 不幸的是，结果并不完美。`x` 轴被视为整数，因此两组之间的距离很远且很小，这使得我们很难看到趋势。
 
 
-![使用 Plotly Express 制作的柱状图](/Asserts/Images//attachment/album/202006/27/220359jpuczmusc201213z.png "A multi-bar plot made using Plotly Express")
+![使用 Plotly Express 制作的柱状图](/Asserts/Images/album/202006/27/220359jpuczmusc201213z.png "A multi-bar plot made using Plotly Express")
 
 
 *A multi-bar plot made using Plotly Express (© 2019 [Anvil](https://anvil.works/blog/plotting-in-plotly))*
@@ -253,7 +253,7 @@ Plotly 的核心是一个 JavaScript 库，它使用 [D3](https://d3js.org/) 和
 Anvil 这样做是为了创建一个完全在浏览器中工作的 Python Plotly API。
 
 
-![Ployly 使用 JavaScript 库创建图形，由其它语言库通过 JSON 使用](/Asserts/Images//attachment/album/202006/27/220404xa9aqqfa1zofa0ak.png "Plotly uses a JavaScript library to create plots, driven by libraries in other languages via JSON")
+![Ployly 使用 JavaScript 库创建图形，由其它语言库通过 JSON 使用](/Asserts/Images/album/202006/27/220404xa9aqqfa1zofa0ak.png "Plotly uses a JavaScript library to create plots, driven by libraries in other languages via JSON")
 
 
 *Plotly uses a JavaScript library to create plots, driven by libraries in other languages via JSON (© 2019 [Anvil](https://anvil.works/blog/plotting-in-plotly))*
@@ -318,7 +318,7 @@ class Entrypoint(EntrypointTemplate):
 这是在 Anvil 应用中运行的交互式 Plotly 图：
 
 
-![The election plot on the web using Anvil's client-side-Python Plotly library](/Asserts/Images//attachment/album/202006/27/220617vd9q7m2rmrx7q8dq.gif "The election plot on the web using Anvil's client-side-Python Plotly library")
+![The election plot on the web using Anvil's client-side-Python Plotly library](/Asserts/Images/album/202006/27/220617vd9q7m2rmrx7q8dq.gif "The election plot on the web using Anvil's client-side-Python Plotly library")
 
 
 *The election plot on the web using Anvil's [client-side-Python](https://anvil.works/docs/client/python) Plotly library (© 2019 [Anvil](https://anvil.works/blog/plotting-in-plotly))*
@@ -351,7 +351,7 @@ Plotly 绘图不仅是动态的，你可以自定义它们的互动行为。例�
 当你把这个应用到每个柱状图时，你会看到以下结果：
 
 
-![A multi-bar plot with custom tool-tips](/Asserts/Images//attachment/album/202006/27/220621qazmrfcinon9pxpj.png "A multi-bar plot with custom tool-tips")
+![A multi-bar plot with custom tool-tips](/Asserts/Images/album/202006/27/220621qazmrfcinon9pxpj.png "A multi-bar plot with custom tool-tips")
 
 
 *A multi-bar plot with custom tool-tips (© 2019 [Anvil](https://anvil.works/blog/plotting-in-plotly))*
@@ -360,7 +360,7 @@ Plotly 绘图不仅是动态的，你可以自定义它们的互动行为。例�
 这很有用，当你想要在某些事件发生时执行任何你想要的代码就更好了（例如，当用户将鼠标悬停在栏上，你想要显示一个相关选举的信息框）。在 Anvil 的 Plotly 库中，你可以将事件处理程序绑定到诸如悬停之类的事件，这使得复杂的交互成为可能。
 
 
-![](/Asserts/Images//attachment/album/202006/27/220325vspffby3w7wjzwjz.gif)
+![](/Asserts/Images/album/202006/27/220325vspffby3w7wjzwjz.gif)
 
 
 *A multi-bar plot with a hover event handler (© 2019 [Anvil](https://anvil.works/blog/plotting-in-plotly))*

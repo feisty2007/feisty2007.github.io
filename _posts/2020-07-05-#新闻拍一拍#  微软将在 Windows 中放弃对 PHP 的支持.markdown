@@ -7,7 +7,7 @@ tags:	[linuxcn,PHP,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/12/154201rww764wj5t3722l7.jpg)
+![](/Asserts/Images/album/202007/12/154201rww764wj5t3722l7.jpg)
 
 
 #### 微软将在 Windows 中放弃对 PHP 的支持

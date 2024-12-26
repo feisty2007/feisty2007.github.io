@@ -13,7 +13,7 @@ tags:	[linuxcn,磁盘,分区]
 像fdisk，sfdisk和cfdisk命令这样的常规分区工具，不仅可以显示分区信息，还可以修改。
 
 
-![](/Asserts/Images//attachment/album/201407/13/203853yhigl6ohgrwxo76z.jpg)
+![](/Asserts/Images/album/201407/13/203853yhigl6ohgrwxo76z.jpg)
 
 
 ### 1. fdisk
@@ -106,7 +106,7 @@ Cfdisk是一个基于ncurses（提供字符终端处理库，包括面板和菜�
 下面是一个如何使用Cfdisk来列出分区的例子。
 
 
-![linux cfdisk disk partitions](/Asserts/Images//attachment/album/201407/13/203855r5m33disep1mrfma.png)
+![linux cfdisk disk partitions](/Asserts/Images/album/201407/13/203855r5m33disep1mrfma.png)
 
 
 Cfdisk一次只能列出一个分区，所以如果你需要看某一磁盘的细节，可以把该磁盘的设备名作为Cfdisk的参数。

@@ -7,7 +7,7 @@ tags:	[linuxcn,流媒体,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/11/101802ajd68nnzn6788h6i.jpg)
+![](/Asserts/Images/album/202303/11/101802ajd68nnzn6788h6i.jpg)
 
 
 
@@ -27,10 +27,10 @@ tags:	[linuxcn,流媒体,树莓派]
 ### 设置
 
 
-该应用程序是 datarhei [Restreamer](https://github.com/Asserts/Images/rhei/restreamer)，是 datarhei [Core](https://github.com/Asserts/Images/rhei/core) 的图形用户界面。datarhei Core 在底层运行著名的媒体框架 FFmpeg。开始使用 datarhei Restreamer 的最简单方法是安装官方的 Docker 容器。通过 Docker Hub 的程序下载和安装是通过 `docker pull` 命令自动进行的。安装后，Restreamer 立即启动。如果你没有树莓派，可以使用 datarhei [Restreamer GitHub](https://github.com/Asserts/Images/rhei/restreamer) 页面上的其他 Docker 容器之一（例如，支持 AMD64 或 GPU Cuda）。
+该应用程序是 datarhei [Restreamer](https://github.com/datarhei/restreamer)，是 datarhei [Core](https://github.com/datarhei/core) 的图形用户界面。datarhei Core 在底层运行著名的媒体框架 FFmpeg。开始使用 datarhei Restreamer 的最简单方法是安装官方的 Docker 容器。通过 Docker Hub 的程序下载和安装是通过 `docker pull` 命令自动进行的。安装后，Restreamer 立即启动。如果你没有树莓派，可以使用 datarhei [Restreamer GitHub](https://github.com/datarhei/restreamer) 页面上的其他 Docker 容器之一（例如，支持 AMD64 或 GPU Cuda）。
 
 
-datarhei Restreamer 和 datarhei Core 都是 [Apache 许可证 2.0](https://github.com/Asserts/Images/rhei/restreamer/blob/2.x/LICENSE) 下的开源软件。
+datarhei Restreamer 和 datarhei Core 都是 [Apache 许可证 2.0](https://github.com/datarhei/restreamer/blob/2.x/LICENSE) 下的开源软件。
 
 
 以下是在支持 GPU 的树莓派 3 及以上机型上的安装命令：
@@ -39,7 +39,7 @@ datarhei Restreamer 和 datarhei Core 都是 [Apache 许可证 2.0](https://gith
 
 ```
 docker run -d --restart=always --name restreamer \
-   -v /opt/restreamer/config:/core/config -v /opt/restreamer/Asserts/Images/:/core/Asserts/Images/ \
+   -v /opt/restreamer/config:/core/config -v /opt/restreamer/data:/core/data \
    --privileged \
    -p 8080:8080 -p 8181:8181 \
    -p 1935:1935 -p 1936:1936 \
@@ -57,7 +57,7 @@ docker run -d --restart=always --name restreamer \
 你应该看到以下屏幕：
 
 
-![First login into datarhei Restreamer](/Asserts/Images//attachment/album/202303/11/101901m2xv06297vnc6he5.jpg)
+![First login into datarhei Restreamer](/Asserts/Images/album/202303/11/101901m2xv06297vnc6he5.jpg)
 
 
 分配好密码，系统就可以进行首次登录了。向导正在开始配置第一个视频源。
@@ -84,7 +84,7 @@ docker run -d --restart=always --name restreamer \
 成功创建视频信号后，你将进入仪表板。
 
 
-![datarhei Restreamer dashboard](/Asserts/Images//attachment/album/202303/11/101901sjruhhrx33lz0juv.jpg)
+![datarhei Restreamer dashboard](/Asserts/Images/album/202303/11/101901sjruhhrx33lz0juv.jpg)
 
 
 它是所有其他设置的中心起点。要看到程序的全部功能，你可以在系统偏好中切换到专家模式。
@@ -111,13 +111,13 @@ docker run -d --restart=always --name restreamer \
 这个 [发布网站](https://demo.datarhei.com/) 是 Restreamer 最简单、即时可用且内部托管的登录页面。播放页面也可以传输到 Chromecast 和 AirPlay。调整背景图片和在播放器中添加标识等基本设置可以直接在 Restreamer 中进行。那些懂 HTML 的人可以为自己定制页面。高级用户可以注入代码，以使用网站的外部模块，如聊天。视频播放器下的统计模块显示活跃的观众和所有视图。“<ruby> 分享 <rt>  Share </rt></ruby>” 按钮支持直播流的分发。网站的 HTTPS 证书通过 Let's Encrypt 激活，无需太多努力。通过简单的 HTTPS 端口转发到树莓派的 LAN IP，网站就可以公开访问。
 
 
-![Landingpage from datahrei Restreamer](/Asserts/Images//attachment/album/202303/11/101901c4zva85xz45bx8d6.jpg)
+![Landingpage from datahrei Restreamer](/Asserts/Images/album/202303/11/101901c4zva85xz45bx8d6.jpg)
 
 
 发布服务是重新传输内容的一个好方法。对于流行的网站，如 YouTube、Twitch 或 PeerTube，有许多现成的模块。同样，对于其他流媒体软件、流行的 CDN 也是如此。对视频协议的完全控制允许流式传输到所有支持 RTMP、HLS 和 SRT 的目标地址。一个带有视频播放器的 HTML 片段代码在网页上工作。
 
 
-![Presets for publication services](/Asserts/Images//attachment/album/202303/11/101902rddbnj5jcfeacdaj.jpg)
+![Presets for publication services](/Asserts/Images/album/202303/11/101902rddbnj5jcfeacdaj.jpg)
 
 
 ### 使用树莓派播放流媒体节省电力

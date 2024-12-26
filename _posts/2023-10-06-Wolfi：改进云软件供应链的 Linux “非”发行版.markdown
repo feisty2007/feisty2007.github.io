@@ -7,7 +7,7 @@ tags:	[linuxcn,Wolfi,供应链]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/07/192722wdzz199535h4c983.jpg)
+![](/Asserts/Images/album/202310/07/192722wdzz199535h4c983.jpg)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,LXC,LXD]
 ---
 
 
-![](/Asserts/Images//attachment/album/201612/28/225318mfytwtdywii1y1dp.jpg)
+![](/Asserts/Images/album/201612/28/225318mfytwtdywii1y1dp.jpg)
 
 
 这是 LXD 2.0 系列介绍文章的第二篇。

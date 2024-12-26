@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,OpenCPU]
 ---
 
 
-[![opencpu logo](/Asserts/Images//attachment/album/201711/02/143915tq6cdnzpqp1f8ktp.png)](https://www.opencpu.org/posts/opencpu-with-docker)
+[![opencpu logo](/Asserts/Images/album/201711/02/143915tq6cdnzpqp1f8ktp.png)](https://www.opencpu.org/posts/opencpu-with-docker)
 
 
 

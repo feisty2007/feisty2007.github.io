@@ -13,7 +13,7 @@ tags:	[linuxcn,pyinotify,inotify]
 作为一名系统管理员，你可以用它来监视你感兴趣的目录的更改，如 Web 目录或程序数据存储目录及其他目录。
 
 
-![](/Asserts/Images//attachment/album/201704/13/115317spul9psb2pzp7q5b.jpg)
+![](/Asserts/Images/album/201704/13/115317spul9psb2pzp7q5b.jpg)
 
 
 **建议阅读：** [fswatch - 监控 Linux 中的文件和目录更改或修改](http://www.tecmint.com/fswatch-monitors-files-and-directory-changes-modifications-in-linux/)
@@ -95,7 +95,7 @@ tags:	[linuxcn,pyinotify,inotify]
 
 ```
 
-![Monitor Directory Changes](/Asserts/Images//attachment/album/201704/13/115326wh2ia8s82sj44sn4.png)
+![Monitor Directory Changes](/Asserts/Images/album/201704/13/115326wh2ia8s82sj44sn4.png)
 
 
 *监视目录更改*

@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/12/100919k6p6yyweu6nv6nkh.jpg)
+![](/Asserts/Images/album/202304/12/100919k6p6yyweu6nv6nkh.jpg)
 
 
 
@@ -47,7 +47,7 @@ Kubernetes（k8s）指标服务器是一个组件，用于收集和聚合来自 
 
 ```
 
-![](/Asserts/Images//attachment/album/202304/12/101039va87ihh1ha16646z.jpg)
+![](/Asserts/Images/album/202304/12/101039va87ihh1ha16646z.jpg)
 
 
 如果你计划在高可用性模式下安装指标服务器，请下载以下清单文件：
@@ -89,7 +89,7 @@ hostNetwork: true
 
 ```
 
-![](/Asserts/Images//attachment/album/202304/12/101048y0se3ecsbqhemmpm.jpg)
+![](/Asserts/Images/album/202304/12/101048y0se3ecsbqhemmpm.jpg)
 
 
 保存并关闭文件。
@@ -107,7 +107,7 @@ hostNetwork: true
 
 ```
 
-![](/Asserts/Images//attachment/album/202304/12/101055vtt8td3sz8tyutkd.jpg)
+![](/Asserts/Images/album/202304/12/101055vtt8td3sz8tyutkd.jpg)
 
 
 ### 步骤 4 验证指标服务器部署
@@ -122,7 +122,7 @@ hostNetwork: true
 
 ```
 
-![](/Asserts/Images//attachment/album/202304/12/101100nq1kksekqswdssvg.jpg)
+![](/Asserts/Images/album/202304/12/101100nq1kksekqswdssvg.jpg)
 
 
 上面的输出确认指标服务器容器荚已启动并正在运行。
@@ -143,7 +143,7 @@ hostNetwork: true
 此命令应显示集群中每个节点的资源利用率，包括 CPU 和内存使用率。
 
 
-![](/Asserts/Images//attachment/album/202304/12/101108phib7dodd9uedoeb.jpg)
+![](/Asserts/Images/album/202304/12/101108phib7dodd9uedoeb.jpg)
 
 
 要查看当前命名空间或特定命名空间的容器荚资源利用率，请运行：
@@ -156,7 +156,7 @@ hostNetwork: true
 
 ```
 
-![](/Asserts/Images//attachment/album/202304/12/101114e7wr8n7kn1mnobr7.jpg)
+![](/Asserts/Images/album/202304/12/101114e7wr8n7kn1mnobr7.jpg)
 
 
 这就是这篇文章的全部内容，我希望你能从中找到有用的信息。请在下面的评论部分发表你的反馈和疑问。

@@ -15,7 +15,7 @@ tags:	[linuxcn,编辑器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202012/28/003505f3h3pppkg7enpxi9.jpg)
+![](/Asserts/Images/album/202012/28/003505f3h3pppkg7enpxi9.jpg)
 
 
 有些文本编辑器是为编程而设计的，有些是为专门的文本格式而设计的，有些是为文档设计而设计的。Norka 文本编辑器是为阅读而设计的。创建一个为*阅读*而设计的文本编辑器似乎很奇怪，但实际上，如果你仔细想想，这是很有意义的。你的文字已经写了一次或三次，这取决于你个人对迭代的容忍度，但它的目的是为了在未来几年内被阅读。Norka 让你轻松地专注于你的文字如何被阅读。
@@ -33,7 +33,7 @@ Norka 文本编辑器是 MIT 授权的，可以[作为 Flatpak 包安装在 Linu
 Norka 的界面很简单。一个回到 Norka 文档集的按钮，一个导出按钮和一个偏好菜单。窗口的其余部分是供你写文字的空白空间，在右下角，有一个阅读时间计算器来帮助你了解读者可能需要多长时间才能看完你写的东西。
 
 
-![Dark Norka terminal box with green and white text](/Asserts/Images//attachment/album/202012/28/003540drnnr66cxz6c6cr1.png "Dark Norka terminal box with green and white text")
+![Dark Norka terminal box with green and white text](/Asserts/Images/album/202012/28/003540drnnr66cxz6c6cr1.png "Dark Norka terminal box with green and white text")
 
 
 这几乎就是 Norka 的全部内容。没有分页符或行号，没有代码折叠或正则搜索。这是一个用于文字书写的编辑器，而不设置文档样式或跟踪复杂的数据模式。
@@ -42,7 +42,7 @@ Norka 的界面很简单。一个回到 Norka 文档集的按钮，一个导出�
 当然，它还有一些额外的功能。如预期那样，可以使用 `Ctrl+C` 和 `Ctrl+V` 复制和粘贴。你可以用 `Ctrl+Z` 撤销，用 `Ctrl+F` 查找。你甚至可以用 `Ctrl+:` 插入表情符号。
 
 
-![Norka terminal box with pop up box of emoji search menu](/Asserts/Images//attachment/album/202012/28/003540qpmmb2i4puvh2hap.png "Norka terminal box with pop up box of emoji search menu")
+![Norka terminal box with pop up box of emoji search menu](/Asserts/Images/album/202012/28/003540qpmmb2i4puvh2hap.png "Norka terminal box with pop up box of emoji search menu")
 
 
 #### 样式文本

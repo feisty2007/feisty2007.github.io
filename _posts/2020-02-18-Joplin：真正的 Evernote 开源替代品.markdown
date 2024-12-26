@@ -18,7 +18,7 @@ tags:	[linuxcn,笔记,Joplin]
 ### Joplin：开源笔记管理器
 
 
-![](/Asserts/Images//attachment/album/202002/15/210300meyagyuwawr1uhuw.jpg)
+![](/Asserts/Images/album/202002/15/210300meyagyuwawr1uhuw.jpg)
 
 
 如果你喜欢 [Evernote](https://evernote.com/)，那么你不会不太适应这个开源软件 [Joplin](https://joplinapp.org/)。
@@ -39,7 +39,7 @@ Joplin 可以导入 enex 格式的 Evernote 文件，这让从 Evernote 切换�
 ### Joplin 的功能
 
 
-![](/Asserts/Images//attachment/album/202002/15/210303br9h2il5ntz9nold.png)
+![](/Asserts/Images/album/202002/15/210303br9h2il5ntz9nold.png)
 
 
 以下是 Joplin 的所有功能列表：
@@ -70,7 +70,7 @@ Joplin 可以导入 enex 格式的 Evernote 文件，这让从 Evernote 切换�
 ### 在 Linux 和其它平台上安装 Joplin
 
 
-![](/Asserts/Images//attachment/album/202002/15/210219p04kvuwe9oknf109.jpg)
+![](/Asserts/Images/album/202002/15/210219p04kvuwe9oknf109.jpg)
 
 
 [Joplin](https://github.com/laurent22/joplin) 是一个跨平台应用，可用于 Linux、macOS 和 Windows。在移动设备上，你可以[获取 APK 文件](https://itsfoss.com/download-apk-ubuntu/)将其安装在 Android 和基于 Android 的 ROM 上。你也可以[从谷歌 Play 商店下载](https://play.google.com/store/apps/details?id=net.cozic.joplin&hl=en_US)。
@@ -94,7 +94,7 @@ Joplin 中的笔记使用 Markdown，但你不需要了解它。编辑器的顶�
 你需要从桌面应用启用剪切板。在顶部菜单中，进入 “Tools->Options”。你可以在此处找到 Web 剪切板选项：
 
 
-![Enable Web Clipper from the desktop application first](/Asserts/Images//attachment/album/202002/15/210221vb20ziai0ki04yf2.jpg)
+![Enable Web Clipper from the desktop application first](/Asserts/Images/album/202002/15/210221vb20ziai0ki04yf2.jpg)
 
 
 它的 Web 剪切板不如 Evernote 的 Web 剪切板聪明，后者可以以图形方式剪辑网页文章的一部分。但是，也足够了。

@@ -7,10 +7,10 @@ tags:	[linuxcn,Twitter,Terraform,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/28/154140lkliy8qr13q2k2hh.jpg)
+![](/Asserts/Images/album/202308/28/154140lkliy8qr13q2k2hh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/28/154149tj972vw9j7qb2vv7.jpg)
+![](/Asserts/Images/album/202308/28/154149tj972vw9j7qb2vv7.jpg)
 
 
 ### 埃隆·马斯克的 Twitter/X 关注者水分严重
@@ -42,7 +42,7 @@ tags:	[linuxcn,Twitter,Terraform,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/28/154202l60o656as5ht02n2.jpg)
+![](/Asserts/Images/album/202308/28/154202l60o656as5ht02n2.jpg)
 
 
 ### OpenTF 宣布创建 Terraform 分支
@@ -67,7 +67,7 @@ HashiCorp 公司创建的基础设施即代码软件 Terraform 最初于 2014 �
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/28/154216ffjzk3mf3fz87jh7.jpg)
+![](/Asserts/Images/album/202308/28/154216ffjzk3mf3fz87jh7.jpg)
 
 
 ### 调查发现业界对 Rust 应用的担忧减少了 21%

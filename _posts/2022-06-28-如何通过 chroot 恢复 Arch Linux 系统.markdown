@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch Linux,恢复]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/14/111204hm20rzjmmf5ib9nr.jpg)
+![](/Asserts/Images/album/202206/14/111204hm20rzjmmf5ib9nr.jpg)
 
 
 
@@ -113,7 +113,7 @@ lightdm --test-mode --debug
 下面是一个 Lightdm 失败的例子，它导致了一个不稳定的 Arch 系统。
 
 
-![lightdm - test mode](/Asserts/Images//attachment/album/202206/14/111206hgz9xcyaa9cmypxc.jpg)
+![lightdm - test mode](/Asserts/Images/album/202206/14/111206hgz9xcyaa9cmypxc.jpg)
 
 
 或者通过使用 `startx` 启动 X 服务器来检查。

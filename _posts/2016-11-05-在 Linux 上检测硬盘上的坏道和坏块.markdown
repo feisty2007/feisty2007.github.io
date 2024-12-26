@@ -19,7 +19,7 @@ tags:	[linuxcn,磁盘,smartmontools,e2fsck]
 因此，在这篇文章中，我们通过几个必要的步骤，使用特定的[磁盘扫描工具](http://www.tecmint.com/ncdu-a-ncurses-based-disk-usage-analyzer-and-tracker/)让你能够判断 Linux 磁盘或闪存是否存在坏道。
 
 
-![](/Asserts/Images//attachment/album/201611/16/161511pz1odz8o1z1fmh8d.jpg)
+![](/Asserts/Images/album/201611/16/161511pz1odz8o1z1fmh8d.jpg)
 
 
 以下就是步骤：
@@ -39,7 +39,7 @@ tags:	[linuxcn,磁盘,smartmontools,e2fsck]
 $ sudo fdisk -l<br>
 ```
 
-![列出 Linux 文件系统分区](/Asserts/Images//attachment/album/201611/16/161522zvofgpg5atqaz66q.png)
+![列出 Linux 文件系统分区](/Asserts/Images/album/201611/16/161522zvofgpg5atqaz66q.png)
 
 
 *列出 Linux 文件系统分区*
@@ -54,7 +54,7 @@ $ sudo badblocks -v /dev/sda10 > badsectors.txt
 
 ```
 
-![在 Linux 上扫描硬盘坏道](/Asserts/Images//attachment/album/201611/16/161523ae1f9efev9zmpa44.png)
+![在 Linux 上扫描硬盘坏道](/Asserts/Images/album/201611/16/161523ae1f9efev9zmpa44.png)
 
 
 *在 Linux 上扫描硬盘坏道*
@@ -122,7 +122,7 @@ $ sudo smartctl -H /dev/sda10
 
 ```
 
-![检查 Linux 硬盘健康](/Asserts/Images//attachment/album/201611/16/161523ycc1n841ncat1zz2.png)
+![检查 Linux 硬盘健康](/Asserts/Images/album/201611/16/161523ycc1n841ncat1zz2.png)
 
 
 *检查 Linux 硬盘健康*

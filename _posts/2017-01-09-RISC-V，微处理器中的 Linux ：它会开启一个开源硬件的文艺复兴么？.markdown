@@ -7,7 +7,7 @@ tags:	[linuxcn,CPU,RISC,RISC-V,开放硬件]
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/30/121603ydfhlhodpr4uhpkh.jpg)
+![](/Asserts/Images/album/201701/30/121603ydfhlhodpr4uhpkh.jpg)
 
 
 我与许多人分享过一个愿景，我们很快就能使用由开源硬件（[OSH](https://en.wikipedia.org/wiki/Open-source_hardware)）和开源软件所驱动的现代而强大的设备。
@@ -28,7 +28,7 @@ RISC-V 在学术界也有很多支持。从在伯克利的孵化到在世界范�
 在其背后也有进展。在软件方面，人们正在将程序移植到 RISC-V 上，让它启动起来。Fedora 已经移植了成千上万的程序 - 下面是 [Fedora/RISC-V](https://fedoraproject.org/wiki/Architectures/RISC-V) 在 QEMU 中启动：
 
 
-![](/Asserts/Images//attachment/album/201701/30/121107no2orqnwxxurnuz5.gif)
+![](/Asserts/Images/album/201701/30/121107no2orqnwxxurnuz5.gif)
 
 
 *向 Richard WM Jones 做出这么棒的动画致敬*
@@ -37,7 +37,7 @@ RISC-V 在学术界也有很多支持。从在伯克利的孵化到在世界范�
 在硬件方面，人们正在制造开发板。HiFive1 是一个成功众筹的项目，它是来自 SiFive 的一块 Arduino 板，由他们的 FE310 SoC 驱动，这是一块 32 位的 RISC-V 芯片，运行频率为 320+ MHz。 它会在 2 月发货，你可以[在这里](https://www.crowdsupply.com/sifive/hifive1/)预订一个，价格为 $59。
 
 
-![](/Asserts/Images//attachment/album/201701/30/121109iexxexq66yhq6her.jpg)
+![](/Asserts/Images/album/201701/30/121109iexxexq66yhq6her.jpg)
 
 
 这一切听起来很棒 - 我希望他们能够交付，因为我们都将从中受益非浅。如果可以，请支持这个项目。告诉人们这个东西。购买一块 HiFive1，看看它上面运行了什么。我在你的未来看到了这些芯片。

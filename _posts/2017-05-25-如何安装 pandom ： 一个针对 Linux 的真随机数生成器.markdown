@@ -7,7 +7,7 @@ tags:	[linuxcn,随机数,pandom]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/17/204255id9jk0uijgo0g6jk.jpg)
+![](/Asserts/Images/album/201705/17/204255id9jk0uijgo0g6jk.jpg)
 
 
 本教程只针对 amd64/x86\_64 架构 Linux 内核版本大于等于 2.6.9 的系统。本文将解释如何安装 [pandom](http://ncomputers.org/pandom)，这是一个由 ncomputers.org 维护的定时抖动真随机数生成器。

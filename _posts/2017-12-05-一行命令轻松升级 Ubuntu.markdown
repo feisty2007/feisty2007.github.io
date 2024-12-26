@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,升级]
 ---
 
 
-![Upgrade Ubuntu to a newer version with a single command](/Asserts/Images//attachment/album/201712/28/165550n883wxk9b8853643.jpg)
+![Upgrade Ubuntu to a newer version with a single command](/Asserts/Images/album/201712/28/165550n883wxk9b8853643.jpg)
 
 
 [zzupdate](https://github.com/TurboLabIt/zzupdate) 是一个开源的命令行程序，通过将几个更新命令组合到一个命令中，使得将 Ubuntu 桌面和服务器版本升级到更新版本的任务变得容易一些。
@@ -64,7 +64,7 @@ sudo zzupdate
 对于 Ubuntu 桌面，打开 **软件和更新** 和下面 **更新** 选项卡，并更改通知我新的 Ubuntu 版本选项为 “**对于任何新版本**”。
 
 
-![Software Updater in Ubuntu](/Asserts/Images//attachment/album/201712/28/165551ibih3y55bbjyker2.jpg)
+![Software Updater in Ubuntu](/Asserts/Images/album/201712/28/165551ibih3y55bbjyker2.jpg)
 
 
 对于 Ubuntu 服务版，编辑 `release-upgrades` 文件。

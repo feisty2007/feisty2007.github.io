@@ -7,10 +7,10 @@ tags:	[linuxcn,麦当劳,汽车,Steam]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/03/200229z67n7c06v0zk0o4l.jpg)
+![](/Asserts/Images/album/202203/03/200229z67n7c06v0zk0o4l.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/03/200241oamwmm8j88ehem5m.jpg)
+![](/Asserts/Images/album/202203/03/200241oamwmm8j88ehem5m.jpg)
 
 
 ### 冰淇淋机黑客起诉麦当劳索赔 9 亿美元
@@ -27,7 +27,7 @@ tags:	[linuxcn,麦当劳,汽车,Steam]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/03/200253iagjgsg9no1x9a4z.jpg)
+![](/Asserts/Images/album/202203/03/200253iagjgsg9no1x9a4z.jpg)
 
 
 ### 红帽正在开发一个基于 RHEL 的车载 Linux 发行版
@@ -44,7 +44,7 @@ tags:	[linuxcn,麦当劳,汽车,Steam]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/03/200404plk7syyjkx9lsdlx.jpg)
+![](/Asserts/Images/album/202203/03/200404plk7syyjkx9lsdlx.jpg)
 
 
 ### Steam Deck 可以安装 Windows 系统，但驱动还不足

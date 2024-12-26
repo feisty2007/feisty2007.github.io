@@ -7,10 +7,10 @@ tags:	[linuxcn,Wayland,ChatGPT,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/18/175447dmm1j40mpg0de9je.jpg)
+![](/Asserts/Images/album/202305/18/175447dmm1j40mpg0de9je.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/18/175502jbhk6u5esey2bkub.jpg)
+![](/Asserts/Images/album/202305/18/175502jbhk6u5esey2bkub.jpg)
 
 
 ### Asahi Linux 开发者说，唯一的道路是 Wayland
@@ -35,7 +35,7 @@ Asahi Linux 是将 Linux 移植到苹果芯片 Mac 电脑的项目，它的一�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/18/175515kytx6yg4yemng6y5.jpg)
+![](/Asserts/Images/album/202305/18/175515kytx6yg4yemng6y5.jpg)
 
 
 ### 教授滥用 ChatGPT 检查学生作业，致使一半人被暂缓毕业
@@ -60,7 +60,7 @@ Asahi Linux 是将 Linux 移植到苹果芯片 Mac 电脑的项目，它的一�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/18/175534tua1x5ao6uqzyqgq.jpg)
+![](/Asserts/Images/album/202305/18/175534tua1x5ao6uqzyqgq.jpg)
 
 
 ### 谷歌新的删除 “不活跃账户” 政策不会删除多年的 YouTube 视频

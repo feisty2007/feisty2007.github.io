@@ -7,7 +7,7 @@ tags:	[linuxcn,密码管理器,密码,Padloc]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/09/170622fcpzpcjmzxauwexw.jpg)
+![](/Asserts/Images/album/202208/09/170622fcpzpcjmzxauwexw.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,密码管理器,密码,Padloc]
 ### Padloc：安全的跨平台密码管理器应用
 
 
-![padloc screenshot](/Asserts/Images//attachment/album/202208/09/170626jzrzrpon5m17uhkm.png)
+![padloc screenshot](/Asserts/Images/album/202208/09/170626jzrzrpon5m17uhkm.png)
 
 
 虽然 Padloc 并不是特别流行，但它可不仅仅是又一个开源密码管理器。
@@ -42,7 +42,7 @@ tags:	[linuxcn,密码管理器,密码,Padloc]
 你可以通过该应用和端到端加密来保护密码，从而获得令人耳目一新的用户体验。它旨在提供一个干净简单的界面来使用。
 
 
-![padloc light mode](/Asserts/Images//attachment/album/202208/09/170628rsy9e9e9yrcxcrcy.png)
+![padloc light mode](/Asserts/Images/album/202208/09/170628rsy9e9e9yrcxcrcy.png)
 
 
 提供免费版本，但提供付费订阅以解锁大多数功能。
@@ -60,7 +60,7 @@ tags:	[linuxcn,密码管理器,密码,Padloc]
 ### Padloc 的特点
 
 
-![padloc active sessions](/Asserts/Images//attachment/album/202208/09/170629n1gbi4ci4k3mggmc.png)
+![padloc active sessions](/Asserts/Images/album/202208/09/170629n1gbi4ci4k3mggmc.png)
 
 
 Padloc 提供一系列免费和收费功能。根据你的要求，你可以选择升级到付费订阅。
@@ -91,7 +91,7 @@ Padloc 提供一系列免费和收费功能。根据你的要求，你可以选�
 ### 在 Linux 上安装 Padloc
 
 
-![padloc app screenshot 1](/Asserts/Images//attachment/album/202208/09/170630fqs2dtcr4hh44s42.png)
+![padloc app screenshot 1](/Asserts/Images/album/202208/09/170630fqs2dtcr4hh44s42.png)
 
 
 Padloc 为你提供了多种适用于 Linux 的选项。你可以下载 AppImage、.deb、Snap 或 Flatpak 包。

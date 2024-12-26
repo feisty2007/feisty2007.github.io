@@ -13,7 +13,7 @@ tags:	[linuxcn,Docker,桌面应用]
 下边是20个非常棒的桌面软件docker镜像，我们可以使用Docker来运行。
 
 
-![](/Asserts/Images//attachment/album/201506/06/095537p350tprvtidvfgq3.jpg)
+![](/Asserts/Images/album/201506/06/095537p350tprvtidvfgq3.jpg)
 
 
 ### 1. Lynx
@@ -60,7 +60,7 @@ $ docker run -it \
 -v /tmp/.X11-unix:/tmp/.X11-unix \
 -e DISPLAY=unix$DISPLAY \
 -v $HOME/Downloads:/root/Downloads \
--v $HOME/.config/google-chrome/:/Asserts/Images/ \
+-v $HOME/.config/google-chrome/:/data \
 -v /dev/snd:/dev/snd --privileged \
 --name chrome \
 jess/chrome

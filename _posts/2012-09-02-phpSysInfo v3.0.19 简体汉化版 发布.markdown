@@ -8,7 +8,7 @@ tags:	[linuxcn,phpSysInfo,简体,汉化版,发布]
 
 
 phpsysinfo简体汉化版升级为 3.0.19
-![](/Asserts/Images//attachment/album/201209/24/195053rejjqqovlsfrzf5v.png)
+![](/Asserts/Images/album/201209/24/195053rejjqqovlsfrzf5v.png)
  - [ADD] JSON output support (xml.php?json)
  - [ADD] Partial support of Minix and Haiku
  - [ADD] Added Greek language (gr)

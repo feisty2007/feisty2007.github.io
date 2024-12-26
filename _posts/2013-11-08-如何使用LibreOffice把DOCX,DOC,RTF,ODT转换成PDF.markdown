@@ -22,13 +22,13 @@ tags:	[linuxcn,LibreOffice,DOCX,DOC,RTF,ODT,转换,PDF,技巧,教程]
 * 右键单击DOC文档，点击“Open With LibreOffice Writer”，使用LibreOffice打开DOC文档
 
 
-![](/Asserts/Images//attachment/album/201311/11/2131111o1k9ik3ibey7eae.png)
+![](/Asserts/Images/album/201311/11/2131111o1k9ik3ibey7eae.png)
 
 
 * 在导航栏中依次选中LibreOffice-->File-->Export as PDF，在弹出的PDF Options对话框中，选择文件路径（对话框中程序已经智能的设置了默认选项）
 
 
-![](/Asserts/Images//attachment/album/201311/11/21311343xkjkxuyh5jcyjb.png)
+![](/Asserts/Images/album/201311/11/21311343xkjkxuyh5jcyjb.png)
 
 
 点击Export按钮，就能把DOC文档转换成PDF格式并且保存在指定目录。

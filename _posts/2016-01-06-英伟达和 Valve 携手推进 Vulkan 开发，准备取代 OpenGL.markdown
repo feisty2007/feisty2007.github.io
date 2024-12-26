@@ -7,7 +7,7 @@ tags:	[linuxcn,Vulkan,OpenGL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201601/23/185905ctfaq8xwwxwqwwit.jpg)
+![](/Asserts/Images/album/201601/23/185905ctfaq8xwwxwqwwit.jpg)
 
 
 英伟达、Valve 及来自 Khronos Group 的 Vulkan 开发者们正在准备召开首次 Vulkan 开发者日。

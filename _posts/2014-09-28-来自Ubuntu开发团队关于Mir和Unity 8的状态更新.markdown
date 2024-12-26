@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu Next,Unity 8,Mir]
 > 
 
 
-![](/Asserts/Images//attachment/album/201409/20/220133bwlw00uwd3fxwwtl.jpg)
+![](/Asserts/Images/album/201409/20/220133bwlw00uwd3fxwwtl.jpg)
 
 
 **和其他项目一样，Canonical也在开发Unity桌面环境与Mir显示服务。开发团队刚刚发布了一个小的更新，据此我们可以知道都有些什么进展**

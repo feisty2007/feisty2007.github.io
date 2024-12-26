@@ -7,7 +7,7 @@ tags:	[linuxcn,Wayland]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/25/172033gb2fff1ceefjgpfe.jpg)
+![](/Asserts/Images/album/202305/25/172033gb2fff1ceefjgpfe.jpg)
 
 
 
@@ -45,10 +45,10 @@ tags:	[linuxcn,Wayland]
 * 支持多种媒体文件类型，包括：WebM、mp4、gif、Mkv 等
 
 
-![Kooha - 最好的 GNOME 屏幕录制软件](/Asserts/Images//attachment/album/202305/25/172216hsjjnzy79t6o7jd6.jpg)
+![Kooha - 最好的 GNOME 屏幕录制软件](/Asserts/Images/album/202305/25/172216hsjjnzy79t6o7jd6.jpg)
 
 
-![Kooha 设置](/Asserts/Images//attachment/album/202305/25/172241hrr4rwcr5g53g33p.jpg)
+![Kooha 设置](/Asserts/Images/album/202305/25/172241hrr4rwcr5g53g33p.jpg)
 
 
 使用 Flatpak 安装 Kooha 非常容易。 [为你的系统设置 Flatpak 和 Flathub](https://www.debugpoint.com/how-to-install-flatpak-apps-ubuntu-linux/)，并运行以下命令进行安装：
@@ -91,7 +91,7 @@ GNOME 屏幕录制软件提供了记录整个屏幕或矩形选区的选项。�
 录制好的视频保存在 `~/Videos/Screencasts` 文件夹下。
 
 
-![GNOME 屏幕录制软件](/Asserts/Images//attachment/album/202305/25/172248khhhe01txg0ogaty.jpg)
+![GNOME 屏幕录制软件](/Asserts/Images/album/202305/25/172248khhhe01txg0ogaty.jpg)
 
 
 #### 3、OBS Studio
@@ -118,10 +118,10 @@ flatpak install com.obsproject.Studio
 启动 OBS Studio 后，在 “<ruby> 输入源 <rt>  Sources </rt></ruby>” 下单击 “+” 号以添加源。然后选择 “<ruby> 屏幕捕捉… <rt>  Screen capture... </rt></ruby>”。然后单击 “<ruby> 确定 <rt>  Ok </rt></ruby>”。
 
 
-![屏幕捕捉选项](/Asserts/Images//attachment/album/202305/25/172257fggkzs7sfkw4w5nf.jpg)
+![屏幕捕捉选项](/Asserts/Images/album/202305/25/172257fggkzs7sfkw4w5nf.jpg)
 
 
-![在 Wayland 中使用 OBS Studio 进行录制](/Asserts/Images//attachment/album/202305/25/172308w344n2f48gvfyfg4.jpg)
+![在 Wayland 中使用 OBS Studio 进行录制](/Asserts/Images/album/202305/25/172308w344n2f48gvfyfg4.jpg)
 
 
 停止录制后，录制文件会保存在你的用户主目录文件夹下。
@@ -154,7 +154,7 @@ vokoscreenNG 是一款非常不同的屏幕录制软件，完全被低估了。�
 > 
 
 
-![vokoscreenNG](/Asserts/Images//attachment/album/202305/25/172321e967y7uecemcj7et.jpg)
+![vokoscreenNG](/Asserts/Images/album/202305/25/172321e967y7uecemcj7et.jpg)
 
 
 更多有关 vokoscreenNG 的详细信息：
@@ -172,7 +172,7 @@ vokoscreenNG 是一款非常不同的屏幕录制软件，完全被低估了。�
 此外，你可以选择帧速率、鼠标捕捉，并具有延迟录制的功能。目前，它支持 webm、mp4 和 mkv 格式。
 
 
-![适用于 Linux 的 Wayfarer 屏幕录制软件](/Asserts/Images//attachment/album/202305/25/172327arq55wfazaeq49f9.jpg)
+![适用于 Linux 的 Wayfarer 屏幕录制软件](/Asserts/Images/album/202305/25/172327arq55wfazaeq49f9.jpg)
 
 
 不过，它目前仅在 Arch Linux 的 Arch 用户仓库（AUR）中提供。你可以设置任何 AUR 辅助程序（例如 Yay）并使用以下命令进行安装：

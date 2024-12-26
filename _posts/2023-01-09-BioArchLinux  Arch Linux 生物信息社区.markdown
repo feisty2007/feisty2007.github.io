@@ -15,7 +15,7 @@ tags:	[linuxcn,生物,Arch]
 > 
 
 
-![BioArchLinux](/Asserts/Images//attachment/album/202301/05/092124xcrmcjxv3hg2hrls.jpg)
+![BioArchLinux](/Asserts/Images/album/202301/05/092124xcrmcjxv3hg2hrls.jpg)
 
 
 ### 为什么会有 BioArchLinux 项目？
@@ -120,7 +120,7 @@ wsl -d BioArch
 ### BioArchLinux 如何运作？
 
 
-![BioArchLinux 运行流程](/Asserts/Images//attachment/album/202301/05/092128iwlzxbmzmjh0l01w.png)
+![BioArchLinux 运行流程](/Asserts/Images/album/202301/05/092128iwlzxbmzmjh0l01w.png)
 
 
 BioArchLinux 存储库由几个开源软件包维护。 主要工具是一个名为 `lilac` 的 python 应用程序。

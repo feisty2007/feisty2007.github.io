@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/07/220628oam0bmtit7lolm7i.jpg)
+![](/Asserts/Images/album/201805/07/220628oam0bmtit7lolm7i.jpg)
 
 
 Docker 是一种所谓容器化的操作系统级的虚拟化软件。
@@ -117,7 +117,7 @@ $ dry
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/07/220635p8bc7qxn86a79q94.png)
+![](/Asserts/Images/album/201805/07/220635p8bc7qxn86a79q94.png)
 
 
 ### 如何使用 Dry 监控 Docker
@@ -126,7 +126,7 @@ $ dry
 你可以在 dry 的界面中按下 `m` 键打开监控模式。
 
 
-![](/Asserts/Images//attachment/album/201805/07/220636ilhlkx3xivy8hxkp.png)
+![](/Asserts/Images/album/201805/07/220636ilhlkx3xivy8hxkp.png)
 
 
 ### 如何使用 Dry 管理容器
@@ -135,7 +135,7 @@ $ dry
 在选中的容器上单击回车键，即可管理容器。Dry 提供如下操作：查看日志，查看、杀死、删除容器，停止、启动、重启容器，查看容器状态及镜像历史记录等。
 
 
-![](/Asserts/Images//attachment/album/201805/07/220637t682kjj1bb1q6i22.png)
+![](/Asserts/Images/album/201805/07/220637t682kjj1bb1q6i22.png)
 
 
 ### 如何监控容器资源利用率
@@ -147,7 +147,7 @@ $ dry
 该操作需要在容器管理界面完成（在上一步的基础上，点击 `Stats+Top` 选项）。另外，也可以按下 `s` 打开容器资源利用率界面。
 
 
-![](/Asserts/Images//attachment/album/201805/07/220638bz7o2z2ix5u00xzh.png)
+![](/Asserts/Images/album/201805/07/220638bz7o2z2ix5u00xzh.png)
 
 
 ### 如何查看容器、镜像及本地卷的磁盘使用情况
@@ -159,7 +159,7 @@ $ dry
 该界面明确地给出容器、镜像和卷的总数，哪些处于使用状态，以及整体磁盘使用情况、可回收空间大小的详细信息。
 
 
-![](/Asserts/Images//attachment/album/201805/07/220639tknzbyby9yqtbv5g.png)
+![](/Asserts/Images/album/201805/07/220639tknzbyby9yqtbv5g.png)
 
 
 ### 如何查看已下载的镜像
@@ -168,7 +168,7 @@ $ dry
 按下 `2` 键即可列出全部的已下载镜像。
 
 
-![](/Asserts/Images//attachment/album/201805/07/220640as609wn53td5wvml.png)
+![](/Asserts/Images/album/201805/07/220640as609wn53td5wvml.png)
 
 
 ### 如何查看网络列表
@@ -177,7 +177,7 @@ $ dry
 按下 `3` 键即可查看全部网络及网关。
 
 
-![](/Asserts/Images//attachment/album/201805/07/220641deg8hj8db4l4roe8.png)
+![](/Asserts/Images/album/201805/07/220641deg8hj8db4l4roe8.png)
 
 
 ### 如何查看全部 Docker 容器
@@ -186,7 +186,7 @@ $ dry
 按下 `F2` 键即可列出列出全部容器，包括运行中和已关闭的容器。
 
 
-![](/Asserts/Images//attachment/album/201805/07/220643igryll5rrs5ysyys.png)
+![](/Asserts/Images/album/201805/07/220643igryll5rrs5ysyys.png)
 
 
 ### Dry 快捷键

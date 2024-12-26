@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,Retbleed,点对点]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/12/201806pfysyy05zgy9ivbt.jpg)
+![](/Asserts/Images/album/202209/12/201806pfysyy05zgy9ivbt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/12/201813iupeheudmlgudqe1.jpg)
+![](/Asserts/Images/album/202209/12/201813iupeheudmlgudqe1.jpg)
 
 
 ### Retbleed 修复导致虚拟机性能降低 70%
@@ -35,7 +35,7 @@ VMware 在 Linux 内核邮件列表中报告，在内部测试发现，在 ESXi 
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/12/201824wsbb2zebxet279o9.jpg)
+![](/Asserts/Images/album/202209/12/201824wsbb2zebxet279o9.jpg)
 
 
 ### 停止十年的 Ubuntu 线下峰会将于今年 11 月启动
@@ -60,7 +60,7 @@ Canonical 曾经在每个 Ubuntu 开发周期中举办 “Ubuntu 开发者峰会
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/12/201839ysbfntmow4znbul6.jpg)
+![](/Asserts/Images/album/202209/12/201839ysbfntmow4znbul6.jpg)
 
 
 ### 微软推出点对点流媒体技术 eCDN 解决方案

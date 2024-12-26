@@ -22,7 +22,7 @@ Unix哲学引发了一场“软件工具”的运动，关注开发简洁，基�
 ### HTTPie
 
 
-![HTTPie in action](/Asserts/Images//attachment/album/201506/27/224924liluoyi0luxul0e5.png)
+![HTTPie in action](/Asserts/Images/album/201506/27/224924liluoyi0luxul0e5.png)
 
 
 HTTPie（发音 aych-tee-tee-pie）是一款开源的命令行HTTP客户端。它是一个命令行界面，便于手工操作的类cURL工具。
@@ -64,7 +64,7 @@ HTTPie（发音 aych-tee-tee-pie）是一款开源的命令行HTTP客户端。�
 ### cURL
 
 
-![cURL in action](/Asserts/Images//attachment/album/201506/27/224927avlzxesxbsbx1xjt.png)
+![cURL in action](/Asserts/Images/album/201506/27/224927avlzxesxbsbx1xjt.png)
 
 
 cURL是一个开源的命令行工具，用于使用URL语句传输数据，支持DICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS,IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET和TFTP等协议。
@@ -99,7 +99,7 @@ cURL支持SSL证书，HTTP POST，HTTP PUT，FTP上传，基于表单的HTTP上�
 ### Wget
 
 
-![Wget in action](/Asserts/Images//attachment/album/201506/27/224930m3kp5wnnanraqah8.png)
+![Wget in action](/Asserts/Images/album/201506/27/224930m3kp5wnnanraqah8.png)
 
 
 Wget是一个从网络服务器获取信息的开源软件。其名字源于World Wide Web 和 get。Wget支持HTTP，HTTPS和FTP协议，同时也可以通过HTTP代理获取信息。

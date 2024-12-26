@@ -15,7 +15,7 @@ tags:	[linuxcn,磁带,备份,恢复]
 * 基本的备份和恢复命令
 
 
-![](/Asserts/Images//attachment/album/201605/11/082111wmjdbpeuq7sumsry.jpg)
+![](/Asserts/Images/album/201605/11/082111wmjdbpeuq7sumsry.jpg)
 
 
 ### 为什么备份？
@@ -37,7 +37,7 @@ tags:	[linuxcn,磁带,备份,恢复]
 ### 理解磁带文件标记和块大小
 
 
-![Fig.01: Tape file marks](/Asserts/Images//attachment/album/201605/11/082146jvro6b7n885lc8z1.jpg)
+![Fig.01: Tape file marks](/Asserts/Images/album/201605/11/082146jvro6b7n885lc8z1.jpg)
 
 
 *图01：磁带文件标记*
@@ -49,7 +49,7 @@ tags:	[linuxcn,磁带,备份,恢复]
 #### 磁带上的数据是如何存储的
 
 
-![Fig.02: How data is stored on a tape](/Asserts/Images//attachment/album/201605/11/082146riwfqicz7cmuw3q1.jpg)
+![Fig.02: How data is stored on a tape](/Asserts/Images/album/201605/11/082146riwfqicz7cmuw3q1.jpg)
 
 
 *图02：磁带上的数据是如何存储的*
@@ -118,7 +118,7 @@ ioscan -kfC tape
 来自我的 Linux 服务器的输出示例：
 
 
-![Fig.03: Installed tape devices on Linux server](/Asserts/Images//attachment/album/201605/11/082147e16pydcwwwcttnuk.jpg)
+![Fig.03: Installed tape devices on Linux server](/Asserts/Images/album/201605/11/082147e16pydcwwwcttnuk.jpg)
 
 
 *图03：Linux 服务器上已安装的磁带设备*

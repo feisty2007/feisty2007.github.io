@@ -31,25 +31,25 @@ Ubuntu内置了一个备份工具 **Déjà Dup Backup Tool**。它允许你备�
 当你完成后，打开**Dash** 并搜索备份。或者进入**选项 (Gear) –> 系统设置 –> 备份**
 
 
-![ubuntu1404-backup](/Asserts/Images//attachment/album/201405/29/232037qjlppmbvmml0p300.png)
+![ubuntu1404-backup](/Asserts/Images/album/201405/29/232037qjlppmbvmml0p300.png)
 
 
 接下来，选择备份的文件夹(即保存)，忽略的文件夹，以及在哪里保存备份。位置是我们要首先设置的。对于存储位置，我们选择**WebDAV** 。接下来输入服务器地址(如下所示), 文件夹应该是/dav/，并输入你的Box用户名。
 
 
-![ubuntu1404-backup-1](/Asserts/Images//attachment/album/201405/29/232037vqq7q12x8qwxbobx.png)
+![ubuntu1404-backup-1](/Asserts/Images/album/201405/29/232037vqq7q12x8qwxbobx.png)
 
 
 回到概况，选择**立即备份**。
 
 
-![ubuntu1404-backup-2](/Asserts/Images//attachment/album/201405/29/232038slyll7qb3yh3qy33.png)
+![ubuntu1404-backup-2](/Asserts/Images/album/201405/29/232038slyll7qb3yh3qy33.png)
 
 
 你会被要求输入密码。输入后继续。
 
 
-![ubuntu1404-backup-3](/Asserts/Images//attachment/album/201405/29/232038b64zvvzt9bz4ihbu.png)
+![ubuntu1404-backup-3](/Asserts/Images/album/201405/29/232038b64zvvzt9bz4ihbu.png)
 
 
 在下一屏中，你可以选择是否用密码加密备份。我建议不要这么做，因为忘记密码可能也会有危险。（译注：当然那些秘密的东西你就不要备份到这里了）
@@ -61,7 +61,7 @@ Ubuntu内置了一个备份工具 **Déjà Dup Backup Tool**。它允许你备�
 要打开定期备份，要将右上角的滑动条拖到右边（即变成橙色的“ON”）。
 
 
-![ubuntu1404-backup-4](/Asserts/Images//attachment/album/201405/29/232038qxcrtigttcca1wgh.png)
+![ubuntu1404-backup-4](/Asserts/Images/album/201405/29/232038qxcrtigttcca1wgh.png)
 
 
 就是这样！你现在可以进入'保存的文件夹' 并开始加入更多需要备份的文件夹。

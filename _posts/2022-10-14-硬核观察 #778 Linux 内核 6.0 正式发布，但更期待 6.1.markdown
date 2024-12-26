@@ -7,10 +7,10 @@ tags:	[linuxcn,程序员,内核,钓鱼]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/03/102649owwq7bl1qqxhm97a.jpg)
+![](/Asserts/Images/album/202210/03/102649owwq7bl1qqxhm97a.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/03/102658y61zv2osh3ns39b8.jpg)
+![](/Asserts/Images/album/202210/03/102658y61zv2osh3ns39b8.jpg)
 
 
 ### Linux 内核 6.0 正式发布，但更期待 6.1
@@ -35,7 +35,7 @@ tags:	[linuxcn,程序员,内核,钓鱼]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/03/102709m7gtga1s2rysr9wa.jpg)
+![](/Asserts/Images/album/202210/03/102709m7gtga1s2rysr9wa.jpg)
 
 
 ### 2022 全球程序员薪资排行榜，中国倒数第九
@@ -60,7 +60,7 @@ CodeSubmit 对二十多个国家的程序员的薪酬做了调查，前三名是
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/03/102725ojtiw8n1ew7bbofu.jpg)
+![](/Asserts/Images/album/202210/03/102725ojtiw8n1ew7bbofu.jpg)
 
 
 ### 黑客利用开源软件和虚假工作机会进行钓鱼式攻击

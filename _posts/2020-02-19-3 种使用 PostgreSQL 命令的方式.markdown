@@ -15,7 +15,7 @@ tags:	[linuxcn,PostgreSQL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202002/18/124003twk7fryz2krw2r39.jpg)
+![](/Asserts/Images/album/202002/18/124003twk7fryz2krw2r39.jpg)
 
 
 在 [PostgreSQL 入门](/article-11593-1.html)一文中, 我解释了如何安装、设置和开始使用这个开源数据库软件。不过，使用 [PostgreSQL](https://www.postgresql.org/) 中的命令可以做更多事情。

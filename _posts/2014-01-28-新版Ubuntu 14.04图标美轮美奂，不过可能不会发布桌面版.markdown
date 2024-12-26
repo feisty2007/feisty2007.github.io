@@ -36,19 +36,19 @@ Canonical现在的目标是为包括手机和平板在内的所有平台更新�
 这些并不是图标的最终版本，设计可能会继续修改。还有一种可能性是这些新图标可能没有时间为桌面版本准备好，但是我们只有希望它们能。
 
 
-![](/Asserts/Images//attachment/album/201401/13/145103vhk22wgqmk002rg2.jpg)
+![](/Asserts/Images/album/201401/13/145103vhk22wgqmk002rg2.jpg)
 
 
 *Ubuntu 14.04 icon set*
 
 
-![](/Asserts/Images//attachment/album/201401/13/1451055wuoh4dad7n22cx2.png)
+![](/Asserts/Images/album/201401/13/1451055wuoh4dad7n22cx2.png)
 
 
 *Ubuntu 14.04 symbolic icons*
 
 
-![](/Asserts/Images//attachment/album/201401/13/145111lgzggz2z90a9lak0.png)
+![](/Asserts/Images/album/201401/13/145111lgzggz2z90a9lak0.png)
 
 
 *Ubuntu 14.04 icons in context*

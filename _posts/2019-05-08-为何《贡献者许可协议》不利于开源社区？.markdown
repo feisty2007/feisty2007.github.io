@@ -15,7 +15,7 @@ tags:	[linuxcn,CLA]
 > 
 
 
-![](/Asserts/Images//attachment/album/201905/10/091542s4mbpabv45gccbca.jpg)
+![](/Asserts/Images/album/201905/10/091542s4mbpabv45gccbca.jpg)
 
 
 开源社区中很少有法律话题像《[贡献者许可协议](https://opensource.com/article/18/3/cla-vs-dco-whats-difference)》（CLA）一样具有争议性。除非你算上《[Fedora 项目贡献者协议](https://opensource.com/law/10/6/new-contributor-agreement-fedora)》（我一直被视为非 CLA）的特殊历史案例，或者像 [Karl Fogel](https://www.red-bean.com/kfogel/) 一样，将《[开发者原创证书](https://developercertificate.org/)》（DCO）归类为[一种 CLA](https://producingoss.com/en/contributor-agreements.html#developer-certificate-of-origin)。目前红帽公司在其维护的项目中没有使用 CLA。
@@ -83,4 +83,4 @@ CLA 还会导致项目参与者之间的法律权力不对称，这也阻碍了�
 译者简介：薛亮，集慧智佳知识产权咨询公司总监，擅长专利检索、专利分析、竞争对手跟踪、FTO 分析、开源软件知识产权风险分析，致力于为互联网企业、高科技公司提供知识产权咨询服务。
 
 
-![](/Asserts/Images//attachment/album/201905/10/091236hhxhrgpugrgapog2.jpg)
+![](/Asserts/Images/album/201905/10/091236hhxhrgpugrgapog2.jpg)

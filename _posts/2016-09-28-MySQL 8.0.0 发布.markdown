@@ -7,7 +7,7 @@ tags:	[linuxcn,MySQL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/15/225359t3t36tfqqyayyjq7.jpg)
+![](/Asserts/Images/album/201609/15/225359t3t36tfqqyayyjq7.jpg)
 
 
 MySQL 开发团队于 12 日宣布 MySQL 8.0.0 开发里程碑版本（DMR）发布！

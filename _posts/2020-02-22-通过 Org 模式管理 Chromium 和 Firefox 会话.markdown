@@ -7,7 +7,7 @@ tags:	[linuxcn,浏览器,Org模式]
 ---
 
 
-![](/Asserts/Images//attachment/album/202002/24/113047w8jtoh2o5j085750.jpg)
+![](/Asserts/Images/album/202002/24/113047w8jtoh2o5j085750.jpg)
 
 
 我是[会话管理器](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc?hl=en-US)的铁粉，它是 Chrome 和 Chromium 的小插件，可以保存所有打开的选项卡，为会话命名，并在需要时恢复会话。

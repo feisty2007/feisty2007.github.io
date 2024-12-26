@@ -7,7 +7,7 @@ tags:	[linuxcn,持续集成,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/15/232751wtiet561e925o5io.jpg)
+![](/Asserts/Images/album/201804/15/232751wtiet561e925o5io.jpg)
 
 
 借助 GitHub 的<ruby> 网络钩子 <rt>  webhook </rt></ruby>，开发者可以创建很多有用的服务。从触发一个 Jenkins 实例上的 CI（持续集成） 任务到配置云中的机器，几乎有着无限的可能性。这篇教程将展示如何使用 Python 和 Flask 框架来搭建一个简单的持续部署（CD）服务。
@@ -200,7 +200,7 @@ gunicorn --bind 0.0.0.0 wsgi:application --reload
 然后点击“Add Webhook” 按钮。
 
 
-![](/Asserts/Images//attachment/album/201804/15/232752i1h2f17zo1777760.png)
+![](/Asserts/Images/album/201804/15/232752i1h2f17zo1777760.png)
 
 
 现在每当该仓库发生推送事件时，GitHub 将向服务发送请求。

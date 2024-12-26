@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/03/111045ecl3b81041jbi0ib.jpg)
+![](/Asserts/Images/album/202010/03/111045ecl3b81041jbi0ib.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,Linux,微软]
 使这一切成为可能的魔法是每台运行 Windows 10 专业版或企业版的 PC 所包含的 Hyper-V 虚拟化软件。（对不起，Windows 10 家庭用户，如果你想玩这些，你得先升级）。用 Hyper-V 的“快速创建”陈列栏，只需点击几下就可以建立一个新的虚拟机，其中包括了独立的 Ubuntu 镜像，而且不是一个而是三个，包括新的 Ubuntu 20.04 版本。
 
 
-![](/Asserts/Images//attachment/album/202010/03/111247iy21ei64nxqqay6y.jpg)
+![](/Asserts/Images/album/202010/03/111247iy21ei64nxqqay6y.jpg)
 
 
 *Hyper-V 快速创建工具包括了三个 Ubuntu Linux 版本*

@@ -7,10 +7,10 @@ tags:	[linuxcn,ThinkPad,Firefox,Web3]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/09/191633x06w38c3qqv05cil.jpg)
+![](/Asserts/Images/album/202207/09/191633x06w38c3qqv05cil.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/09/191653vpfjs9wfsddw33j3.jpg)
+![](/Asserts/Images/album/202207/09/191653vpfjs9wfsddw33j3.jpg)
 
 
 ### 新款支持 Pluton 的 ThinkPad 默认不能安装 Linux
@@ -35,7 +35,7 @@ Pluton 是微软公司于 2020 年首次推出的 Windows PC 安全协处理器�
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/09/191710yvnnlhq5ltifficl.jpg)
+![](/Asserts/Images/album/202207/09/191710yvnnlhq5ltifficl.jpg)
 
 
 ### Ubuntu 将 Firefox Snap 启动速度提升了一倍
@@ -60,7 +60,7 @@ Canonical 在一篇博文中披露，“与 Firefox 101 相比，全新安装版
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/09/191722wt66uz4pp7utnhdo.jpg)
+![](/Asserts/Images/album/202207/09/191722wt66uz4pp7utnhdo.jpg)
 
 
 ### Web3 项目今年前半年因黑客攻击损失超过 20 亿美元

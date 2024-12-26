@@ -7,7 +7,7 @@ tags:	[linuxcn,密码,KeePassXC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/23/054245jxx9pyzk8p3kbxhw.jpg)
+![](/Asserts/Images/album/202009/23/054245jxx9pyzk8p3kbxhw.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,密码,KeePassXC]
 ### KeePassXC：一个跨平台的开源密码管理器
 
 
-![](/Asserts/Images//attachment/album/202009/23/054332dlv36i13br4i3d3p.jpg)
+![](/Asserts/Images/album/202009/23/054332dlv36i13br4i3d3p.jpg)
 
 
 KeePassXC 是 [KeePassX](https://www.keepassx.org/) 的社区复刻版本，旨在成为 [KeePass Password Safe](https://keepass.info)（适用于 Windows）的跨平台移植。它是完全免费使用和跨平台的（Windows、Linux 和 macOS）。
@@ -39,7 +39,7 @@ KeePassXC 是 [KeePassX](https://www.keepassx.org/) 的社区复刻版本，旨�
 ### KeePassXC 的功能
 
 
-![](/Asserts/Images//attachment/album/202009/23/054333v0ss5scsqqvmfoej.jpg)
+![](/Asserts/Images/album/202009/23/054333v0ss5scsqqvmfoej.jpg)
 
 
 值得注意的是，对于一个新手来说，这些功能可能会让人有点不知所措。但是，考虑到你想充分使用它，我想你应该真正了解它所提供的功能：
@@ -73,7 +73,7 @@ KeePassXC 是 [KeePassX](https://www.keepassx.org/) 的社区复刻版本，旨�
 正如你所看到的，它的确是一款功能丰富的密码管理器。所以，我建议你如果想使用提供的每一个功能，就好好探索它。
 
 
-![](/Asserts/Images//attachment/album/202009/23/054335pnx81nifmxnu25dy.png)
+![](/Asserts/Images/album/202009/23/054335pnx81nifmxnu25dy.png)
 
 
 ### 在 Linux 上安装 KeePassXC

@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenOffice,开源软件,意大利]
 ---
 
 
-![](/Asserts/Images//attachment/album/201503/16/001641aiqaw8iqq0yvzz0z.jpg)
+![](/Asserts/Images/album/201503/16/001641aiqaw8iqq0yvzz0z.jpg)
 
 
 在拥抱开源的道路上，意大利似乎走在了最前面。我们已经知道，很多意大利的城市如[乌迪内](http://linux.cn/article-3853-1.html)，[都灵](http://linux.cn/article-3602-1.html)，[Todi和都灵](http://itsfoss.com/italian-cities-switch-libreoffice/)过去已经选择了[开源办公套件以取代微软的Office](http://itsfoss.com/best-free-open-source-alternatives-microsoft-office/)。现在，位于意大利北部的[艾米利亚-罗马涅大区](http://en.wikipedia.org/wiki/Emilia-Romagna)（位于意大利北部，是意大利20个大区之一）也将在下个月完成向[Apache OpenOffice](https://www.openoffice.org/)的过渡。

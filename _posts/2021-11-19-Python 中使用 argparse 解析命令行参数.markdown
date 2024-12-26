@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,参数]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/15/110139bakkfdt4zoadqiv0.jpg "Python options")
+![](/Asserts/Images/album/202111/15/110139bakkfdt4zoadqiv0.jpg "Python options")
 
 
 有一些第三方库用于命令行解析，但标准库 `argparse` 与之相比也毫不逊色。

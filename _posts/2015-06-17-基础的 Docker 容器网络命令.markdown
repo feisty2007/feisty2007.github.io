@@ -13,7 +13,7 @@ tags:	[linuxcn,Docker,网络]
 因此，这里有一些你在管理Docker容器的时候会用到的一些命令。
 
 
-![](/Asserts/Images//attachment/album/201506/10/234855pismk5ssfnfzqs8p.jpg)
+![](/Asserts/Images/album/201506/10/234855pismk5ssfnfzqs8p.jpg)
 
 
 ### 1. 找到Docker接口
@@ -28,7 +28,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![Docker Interface](/Asserts/Images//attachment/album/201506/10/234917mu5oby45u4bocgur.png)
+![Docker Interface](/Asserts/Images/album/201506/10/234917mu5oby45u4bocgur.png)
 
 
 ### 2. 得到Docker容器的ip地址
@@ -52,7 +52,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![Docker Container IP](/Asserts/Images//attachment/album/201506/10/234920b71dk7c9y9rvkkgv.png)
+![Docker Container IP](/Asserts/Images/album/201506/10/234920b71dk7c9y9rvkkgv.png)
 
 
 ### 3. 映射暴露的端口
@@ -67,7 +67,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![Mapping Expose Port](/Asserts/Images//attachment/album/201506/10/234920ck7af3yt9t7fdufz.png)
+![Mapping Expose Port](/Asserts/Images/album/201506/10/234920ck7af3yt9t7fdufz.png)
 
 
 上面的命令会映射容器的端口到 httpd 容器的 Dockerfile 中定义的80端口上。我们用下面的命令来查看正在运行的容器暴露的端口。
@@ -88,7 +88,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![Curl Exposed Port](/Asserts/Images//attachment/album/201506/10/234921efegmnsuggwm2tmg.png)
+![Curl Exposed Port](/Asserts/Images/album/201506/10/234921efegmnsuggwm2tmg.png)
 
 
 ### 4. 映射到特定的端口上
@@ -112,7 +112,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![Mapping Specific Port](/Asserts/Images//attachment/album/201506/10/234922zpd2akbf1pqw1bub.png)
+![Mapping Specific Port](/Asserts/Images/album/201506/10/234922zpd2akbf1pqw1bub.png)
 
 
 ### 5. 创建自己的网桥
@@ -131,7 +131,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![Creating Bridge Interface](/Asserts/Images//attachment/album/201506/10/234923j3m8m4mmbqnqqn49.png)
+![Creating Bridge Interface](/Asserts/Images/album/201506/10/234923j3m8m4mmbqnqqn49.png)
 
 
 创建完docker网桥之后，我们要让docker的守护进程知道它。
@@ -144,7 +144,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![Adding Interface to Docker](/Asserts/Images//attachment/album/201506/10/234924f9fqvrv2tmakd5hu.png)
+![Adding Interface to Docker](/Asserts/Images/album/201506/10/234924f9fqvrv2tmakd5hu.png)
 
 
 到这里，桥接后的接口将会分配给容器在桥接子网内的新ip地址。
@@ -162,7 +162,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![Running db Container](/Asserts/Images//attachment/album/201506/10/234925qt3g8504ti8gkom8.png)
+![Running db Container](/Asserts/Images/album/201506/10/234925qt3g8504ti8gkom8.png)
 
 
 完成之后，我们将容器db与training/webapp链接来形成新的叫web的容器。
@@ -174,7 +174,7 @@ Docker默认会创建一个名为docker0的网桥接口作为连接外部世界�
 
 ```
 
-![linking two containers](/Asserts/Images//attachment/album/201506/10/234926d7vptt7vaxwp77y2.png)
+![linking two containers](/Asserts/Images/album/201506/10/234926d7vptt7vaxwp77y2.png)
 
 
 ### 总结

@@ -15,7 +15,7 @@ tags:	[linuxcn,ZeroMQ]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/08/202106uale11l1qf11slzw.jpg)
+![](/Asserts/Images/album/202008/08/202106uale11l1qf11slzw.jpg)
 
 
 作为软件工程师，我有多次在要求完成指定任务时感到浑身一冷的经历。其中有一次，我必须在一些新的硬件基础设施和云基础设施之间写一个接口，这些硬件需要 C 语言，而云基础设施主要是用 Python。

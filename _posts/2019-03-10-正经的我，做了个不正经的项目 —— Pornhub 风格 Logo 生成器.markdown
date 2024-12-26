@@ -15,7 +15,7 @@ tags:	[linuxcn,PornHub]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/25/161325h4xxo8p3rr8o8q49.jpg)
+![](/Asserts/Images/album/201903/25/161325h4xxo8p3rr8o8q49.jpg)
 
 
 目前项目已经上线：<https://logoly.pro/> 代码也已开源：<https://github.com/bestony/logoly>
@@ -48,7 +48,7 @@ tags:	[linuxcn,PornHub]
 经过一番筛选，PornHub 的 Logo 进入到我的视线。
 
 
-![](/Asserts/Images//attachment/album/201903/25/160436b9cxba8bkc9i2qz6.png)
+![](/Asserts/Images/album/201903/25/160436b9cxba8bkc9i2qz6.png)
 
 
 ### 设计产品
@@ -89,7 +89,7 @@ tags:	[linuxcn,PornHub]
 在完成了产品的功能，我又进行了布局的设计，这次我用的是 Adobe XD，最近很喜欢用这个工具来设计产品的界面，非常的方便。最终设计完成的版本如下：
 
 
-![](/Asserts/Images//attachment/album/201903/25/160436ontnip757pznpg1c.png)
+![](/Asserts/Images/album/201903/25/160436ontnip757pznpg1c.png)
 
 
 设计完成后，就要开始准备开始编码了。
@@ -124,19 +124,19 @@ tags:	[linuxcn,PornHub]
 在前面提到，我考虑用 Netlify 进行部署，这里非常方便，在 Netlify 上直接创建项目，选择你的项目，然后填入命令即可。
 
 
-![](/Asserts/Images//attachment/album/201903/25/160437o8fvtft8nfvt0855.png)
+![](/Asserts/Images/album/201903/25/160437o8fvtft8nfvt0855.png)
 
 
 并配置一下域名，将自己的域名设置为主域名：
 
 
-![](/Asserts/Images//attachment/album/201903/25/160437xbzxboyf550f0yjo.png)
+![](/Asserts/Images/album/201903/25/160437xbzxboyf550f0yjo.png)
 
 
 稍等一会，就会自动为你的域名签注 Let’s Encrypt 的证书。
 
 
-![](/Asserts/Images//attachment/album/201903/25/160438vhtuhq47gkh3ih3u.png)
+![](/Asserts/Images/album/201903/25/160438vhtuhq47gkh3ih3u.png)
 
 
 ### 最后

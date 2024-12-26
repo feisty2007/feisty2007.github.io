@@ -10,7 +10,7 @@ tags:	[linuxcn,Fedora]
 **除了配备3.11版Linux内核，Fedora 20 Alpha GNOME Live DVD还搭载最新的GNOME 3.10 Beta 2桌面环境，为你带来令人瞩目的桌面环境体验，你还在等什么，赶快下载安装先睹为快吧~**
 
 
-**![Fedora 20 Alpha GNOME Live DVD](/Asserts/Images//attachment/album/201309/28/124621jmxb5l0lkhldjlxl.jpg)**
+**![Fedora 20 Alpha GNOME Live DVD](/Asserts/Images/album/201309/28/124621jmxb5l0lkhldjlxl.jpg)**
 
 
 下载Fedora 20 Alpha GNOME Live DVD的用户可以率先体验全新的面板设计，还有有新的GNOME时钟(应用在日历应用中) 、GNOME文档以及修改后的GNOME Shell预览模式。GNOME Live DVD 还是Fedora的默认桌面环境。

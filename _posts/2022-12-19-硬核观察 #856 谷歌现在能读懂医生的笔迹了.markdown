@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Zstd,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/20/142623jz262q1l642iirqa.jpg)
+![](/Asserts/Images/album/202212/20/142623jz262q1l642iirqa.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/20/142633c3rr1ew4r1e185h8.jpg)
+![](/Asserts/Images/album/202212/20/142633c3rr1ew4r1e185h8.jpg)
 
 
 ### 谷歌现在能读懂医生的笔迹了
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,Zstd,Fedora]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/20/142644clhohwohclcmkcwc.jpg)
+![](/Asserts/Images/album/202212/20/142644clhohwohclcmkcwc.jpg)
 
 
 ### 新的 Zstd 支持被合并进 Linux 6.2
@@ -60,7 +60,7 @@ Linux 内核中的 Zstd 代码已经有一年没有更新了，现在是 Zstd 1.
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/20/142700ypzkb6pkkrikuryp.jpg)
+![](/Asserts/Images/album/202212/20/142700ypzkb6pkkrikuryp.jpg)
 
 
 ### 自由版 Fedora 落幕

@@ -42,7 +42,7 @@ $ dconf-editor
 在dconf-editor的左边面板中导航到“org->gnome->desktop->remote-access”，然后你将会看到各种各样的桌面共享选项。
 
 
-![](/Asserts/Images//attachment/album/201408/16/154214w4j1j2elyx4y9ajl.jpg)
+![](/Asserts/Images/album/201408/16/154214w4j1j2elyx4y9ajl.jpg)
 
 
 最重要的是，点击“enabled”来激活桌面远程访问。除此之外，你还可以自定义其它选项。

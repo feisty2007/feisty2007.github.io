@@ -7,7 +7,7 @@ tags:	[linuxcn,密码,密码管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/03/104545rzd1hrpv0a1wwplf.jpg)
+![](/Asserts/Images/album/201908/03/104545rzd1hrpv0a1wwplf.jpg)
 
 
 在过去的一年中，你可能会遇到一些试图向你推销密码管理器的广告。比如 [LastPass](https://www.lastpass.com)、[1Password](https://1password.com/) 或 [Dashlane](https://www.dashlane.com/)。密码管理器消除了记住所有网站密码的负担。你不再需要使用重复或容易记住的密码。相反，你只需要记住一个可以解锁所有其他密码的密码。
@@ -47,12 +47,12 @@ $ podman run -d \
  --name bitwarden \
  -e SIGNUPS_ALLOWED=false \
  -e ROCKET_PORT=8080 \
- -v /home/egustavs/Bitwarden/bw-data/:/Asserts/Images//:Z \
+ -v /home/egustavs/Bitwarden/bw-data/:/data/:Z \
  -p 8080:8080 \
  bitwardenrs/server:latest
 ```
 
-这将下载 bitwarden\_rs 镜像并在用户命名空间下的用户容器中运行它。它使用 1024 以上的端口，以便非 root 用户可以绑定它。它还使用 `:Z` 更改卷的 SELinux 上下文，以防止在 `/Asserts/Images/` 中的读写权限问题。
+这将下载 bitwarden\_rs 镜像并在用户命名空间下的用户容器中运行它。它使用 1024 以上的端口，以便非 root 用户可以绑定它。它还使用 `:Z` 更改卷的 SELinux 上下文，以防止在 `/data` 中的读写权限问题。
 
 
 如果你在某个域下托管它，建议将此服务器放在 Apache 或 Nginx 的反向代理下。这样，你可以使用 80 和 443 端口指向容器的 8080 端口，而无需以 root 身份运行容器。

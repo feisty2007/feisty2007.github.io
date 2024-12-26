@@ -10,9 +10,9 @@ tags:	[linuxcn,]
 fromurl: http://www.unixmen.com/disable-overlay-scrollbars-ubuntu-14-04-quick-tip/
 id: 3470
 islctt: true
-largepic: /Asserts/Images//attachment/album/201407/27/170041ua4yucty8rkpz4yt.jpeg
+largepic: /Asserts/Images/album/201407/27/170041ua4yucty8rkpz4yt.jpeg
 permalink: /article-3470-1.html
-pic: /Asserts/Images//attachment/album/201407/27/170041ua4yucty8rkpz4yt.jpeg.thumb.jpg
+pic: /Asserts/Images/album/201407/27/170041ua4yucty8rkpz4yt.jpeg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -30,7 +30,7 @@ translator: vito-L
 updated: '2014-07-27 17:00:36'
 ---
 
-![](/Asserts/Images//attachment/album/201407/27/170041ua4yucty8rkpz4yt.jpeg)
+![](/Asserts/Images/album/201407/27/170041ua4yucty8rkpz4yt.jpeg)
 
 
 Hello 伙计们,
@@ -54,7 +54,7 @@ gsettings set com.canonical.desktop.interface scrollbar-mode normal
 更改后会立即生效：
 
 
-![](/Asserts/Images//attachment/album/201407/27/170045bmmqmfg88wlhgfg8.png)
+![](/Asserts/Images/album/201407/27/170045bmmqmfg88wlhgfg8.png)
 
 
 ### 启用
@@ -66,7 +66,7 @@ gsettings reset com.canonical.desktop.interface scrollbar-mode
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/27/170052eu8ys5ziihhi67mi.png)
+![](/Asserts/Images/album/201407/27/170052eu8ys5ziihhi67mi.png)
 
 
 Enjoy!

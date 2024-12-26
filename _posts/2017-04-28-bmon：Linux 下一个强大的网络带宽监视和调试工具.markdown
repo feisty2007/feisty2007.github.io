@@ -13,7 +13,7 @@ bmon 是类 Unix 系统中一个基于文本，简单但非常强大的 [网络�
 它能使用各种输入模块读取输入，并以各种输出模式显示输出，包括交互式文本用户界面和用于脚本编写的可编程文本输出。
 
 
-![](/Asserts/Images//attachment/album/201704/11/085007w2bsis5ppqbq34u5.jpg)
+![](/Asserts/Images/album/201704/11/085007w2bsis5ppqbq34u5.jpg)
 
 
 **推荐阅读：** [一大波你可能不知道的 Linux 网络工具](/article-5435-1.html)
@@ -81,19 +81,19 @@ $ bmon
 
 ```
 
-![bmon - Linux 带宽监视](/Asserts/Images//attachment/album/201704/11/085016jylmypmkkzqz6yyq.gif)
+![bmon - Linux 带宽监视](/Asserts/Images/album/201704/11/085016jylmypmkkzqz6yyq.gif)
 
 
 按 `d` 键可以查看更详细的带宽使用情况的图形化统计信息，参考下面的截图。
 
 
-![bmon - Detailed Bandwidth Statistics](/Asserts/Images//attachment/album/201704/11/085016mg9nnfqoofjfye9k.gif)
+![bmon - Detailed Bandwidth Statistics](/Asserts/Images/album/201704/11/085016mg9nnfqoofjfye9k.gif)
 
 
 按 `Shift + ?` 可以查看快速指南。再次按 `Shift + ?` 可以退出（指南）界面。
 
 
-![bmon - 快速指南](/Asserts/Images//attachment/album/201704/11/085016ounbhapno0d6jvmd.png)
+![bmon - 快速指南](/Asserts/Images/album/201704/11/085016ounbhapno0d6jvmd.png)
 
 
 *bmon – 快速指南*
@@ -114,7 +114,7 @@ $ bmon -p enp1s0
 
 ```
 
-![bmon - 监控以太网带宽](/Asserts/Images//attachment/album/201704/11/085017hzx63gm2ixmxtwlm.png)
+![bmon - 监控以太网带宽](/Asserts/Images/album/201704/11/085017hzx63gm2ixmxtwlm.png)
 
 
 *bmon – 监控以太网带宽*
@@ -198,7 +198,7 @@ $ bmon -p enp1s0 -o ascii
 
 ```
 
-![bmon - Ascii 输出模式](/Asserts/Images//attachment/album/201704/11/085017df7p2gyuy32yfg8x.png)
+![bmon - Ascii 输出模式](/Asserts/Images/album/201704/11/085017df7p2gyuy32yfg8x.png)
 
 
 *bmon – Ascii 输出模式*
@@ -213,7 +213,7 @@ $ bmon -p enp1s0 -o format
 
 ```
 
-![bmon - Format 输出模式](/Asserts/Images//attachment/album/201704/11/085018fxeo2hgsigissgt2.png)
+![bmon - Format 输出模式](/Asserts/Images/album/201704/11/085018fxeo2hgsigissgt2.png)
 
 
 *bmon – Format 输出模式*

@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/10/205749u4a13q8agzb58auz.jpg)
+![](/Asserts/Images/album/201903/10/205749u4a13q8agzb58auz.jpg)
 
 
 屏幕04 课程基于屏幕03 课程来构建，它教你如何操作文本。假设你已经有了[课程 8：屏幕03](/article-10585-1.html) 的操作系统代码，我们将以它为基础。

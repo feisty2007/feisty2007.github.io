@@ -7,7 +7,7 @@ tags:	[linuxcn,双启动,Arch,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/15/101149ye1nggmi9qy3rh4e.jpg)
+![](/Asserts/Images/album/201802/15/101149ye1nggmi9qy3rh4e.jpg)
 
 
 Ubuntu 和 Arch Linux 双启动不像听起来那么容易，然而，我将使这个过程尽可能地简单明了。首先，我们需要安装 Ubuntu，然后安装 Arch Linux，因为配置 Ubuntu grub 更容易实现 Ubuntu 和 Arch Linux 双启动。
@@ -28,67 +28,67 @@ Ubuntu 和 Arch Linux 双启动不像听起来那么容易，然而，我将使�
 ​首先, 利用 Rufus 为 Ubuntu 和 Arch Linux [创建可启动的闪存驱动器](http://www.linuxandubuntu.com/home/etcher-burn-images-to-sd-card-make-bootable-usb)。另外，也可以使用 `etcher` 创建 Ubuntu 和 Arch Linux 的可启动闪存驱动器。
 
 
-[![Ubuntu 可启动 USB 镜像写入工具](/Asserts/Images//attachment/album/201802/15/101149ft82vam896m6m69h.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/bootable-ubuntu-usb-etcher-image-writer_orig.jpg)
+[![Ubuntu 可启动 USB 镜像写入工具](/Asserts/Images/album/201802/15/101149ft82vam896m6m69h.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/bootable-ubuntu-usb-etcher-image-writer_orig.jpg)
 
 
 为 Ubuntu 选择 ISO 映像文件，然后选择闪存驱动器，然后单击 `Flash!` 创建可引导的闪存驱动器。等到它完成，瞧！你的可启动闪存驱动器已经准备好使用了。
 
 
-[![在 linux 下创建 Ubuntu USB 启动程序](/Asserts/Images//attachment/album/201802/15/101150mwnfw1wwi71twzzh.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/make-ubuntu-usb-bootable-in-linux_orig.jpg)
+[![在 linux 下创建 Ubuntu USB 启动程序](/Asserts/Images/album/201802/15/101150mwnfw1wwi71twzzh.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/make-ubuntu-usb-bootable-in-linux_orig.jpg)
 
 
 打开你的机器并使用载有 Ubuntu 安装媒体的可启动闪存驱动器进行启动。确保引导到 UEFI 或 BIOS 兼容模式，这取决于您所使用的 PC 的类型。我更喜欢使用 UEFI 来构建新的 PC。
 
 
-[![live Ubuntu 启动](/Asserts/Images//attachment/album/201802/15/101150ijz8feh88oo0ctez.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/live-ubuntu-boot_orig.jpg)
+[![live Ubuntu 启动](/Asserts/Images/album/201802/15/101150ijz8feh88oo0ctez.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/live-ubuntu-boot_orig.jpg)
 
 
-​在成功启动后，您将看到如上图显示，要求您尝试 Ubuntu 或安装 Ubuntu，选择安装 Ubuntu。 ​ [![从可启动 USB 安装](/Asserts/Images//attachment/album/201802/15/101151pja8a5a9r5h5fhro.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-usb-from-live-usb_orig.jpg)
+​在成功启动后，您将看到如上图显示，要求您尝试 Ubuntu 或安装 Ubuntu，选择安装 Ubuntu。 ​ [![从可启动 USB 安装](/Asserts/Images/album/201802/15/101151pja8a5a9r5h5fhro.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-usb-from-live-usb_orig.jpg)
 
 
 然后检查安装第三方软件的图形和 WiFi 硬件、MP3 和其他媒体。如果你有一个互联网连接，你可以选择在安装 Ubuntu 的时候下载更新，因为它会节省安装时间，并且确保安装的是最新更新。
 
 
-[![自定义磁盘分区安装 Ubuntu](/Asserts/Images//attachment/album/201802/15/101151d8mmnifr0gqsscst.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/custom-partition-hd-install-ubuntu_orig.jpg)
+[![自定义磁盘分区安装 Ubuntu](/Asserts/Images/album/201802/15/101151d8mmnifr0gqsscst.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/custom-partition-hd-install-ubuntu_orig.jpg)
 
 
-​然后选择点击“Something else”，这样我们就可以对硬盘进行分区，并预留出 Ubuntu 和 Archlinux 的分区以及它们的交换分区的空间。 ​ [![创建交换分区](/Asserts/Images//attachment/album/201802/15/101151uvuqipbycsvxbpv5.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/create-swap-partition-ubuntu_orig.jpg)
+​然后选择点击“Something else”，这样我们就可以对硬盘进行分区，并预留出 Ubuntu 和 Archlinux 的分区以及它们的交换分区的空间。 ​ [![创建交换分区](/Asserts/Images/album/201802/15/101151uvuqipbycsvxbpv5.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/create-swap-partition-ubuntu_orig.jpg)
 
 
 ​创建一个交换分区。最好是内存的一半大小。在我的例子中，我有 1 GB 的内存，因此创建一个 512 MB 的交换空间。
 
 
-[![安装 Ubuntu 到根（/）分区](/Asserts/Images//attachment/album/201802/15/101152cm5166s6gm65uv02.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-ubuntu-root-partition_orig.jpg)
+[![安装 Ubuntu 到根（/）分区](/Asserts/Images/album/201802/15/101152cm5166s6gm65uv02.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-ubuntu-root-partition_orig.jpg)
 
 
 然后创建挂载点为 `/` 的分区，并且点击“Install Now”按钮。
 
 
-[![选择时区](/Asserts/Images//attachment/album/201802/15/101152mo20nrke057xqger.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/select-ubuntu-timezone_orig.jpg)
+[![选择时区](/Asserts/Images/album/201802/15/101152mo20nrke057xqger.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/select-ubuntu-timezone_orig.jpg)
 
 
 接下来选择你的位置以选择语言和键盘设置。
 
 
-[![选择键盘布局](/Asserts/Images//attachment/album/201802/15/101153z7bqqhrs53hh6ppt.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-ubuntu-select-location-keyboard-layout_orig.jpg)
+[![选择键盘布局](/Asserts/Images/album/201802/15/101153z7bqqhrs53hh6ppt.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-ubuntu-select-location-keyboard-layout_orig.jpg)
 
 
-​然后创建新用户的用户凭据。 ​ [![创建用户名、系统名并开始安装](/Asserts/Images//attachment/album/201802/15/101153p39f3efikfl313yc.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/create-username-system-name-ubuntu-install_orig.jpg)
+​然后创建新用户的用户凭据。 ​ [![创建用户名、系统名并开始安装](/Asserts/Images/album/201802/15/101153p39f3efikfl313yc.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/create-username-system-name-ubuntu-install_orig.jpg)
 
 
-​点击“Next”开始安装。 ​ [![ubuntu installation finishing](/Asserts/Images//attachment/album/201802/15/101153sqzwx3g8q8f4uoy0.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-installation-finishing_orig.jpg)
+​点击“Next”开始安装。 ​ [![ubuntu installation finishing](/Asserts/Images/album/201802/15/101153sqzwx3g8q8f4uoy0.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-installation-finishing_orig.jpg)
 
 
 ​当安装完成后点击“Restart Now”重启 PC。
 
 
-[![完成 Ubuntu 安装并重启系统](/Asserts/Images//attachment/album/201802/15/101154aw2f7zx11p0jron7.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-installation-finished_orig.jpg)
+[![完成 Ubuntu 安装并重启系统](/Asserts/Images/album/201802/15/101154aw2f7zx11p0jron7.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-installation-finished_orig.jpg)
 
 
 ​移除安装媒介，按下回车继续。
 
 
-[![移除安装媒介](/Asserts/Images//attachment/album/201802/15/101154gvk8f5rvcrfv2imv.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/remove-installation-media-after-ubuntu_orig.jpg)
+[![移除安装媒介](/Asserts/Images/album/201802/15/101154gvk8f5rvcrfv2imv.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/remove-installation-media-after-ubuntu_orig.jpg)
 
 
 在确认成功安装后，重新启动并利用 Arch Linux 安装媒介引导。
@@ -97,13 +97,13 @@ Ubuntu 和 Arch Linux 双启动不像听起来那么容易，然而，我将使�
 ### ​安装 Arch Linux
 
 
-​在引导到 Arch Linux 安装媒体时，您应该看到如下所示的初始屏幕。选择 “Boot Arch Linux(x86\_64)”。注意 Arch Linux 更类似于一种 [DIY](http://www.linuxandubuntu.com/home/arch-linux-take-your-linux-knowledge-to-next-level-review)（自我定制）的操作系统。 ​ [![Arch Linux 安装引导菜单](/Asserts/Images//attachment/album/201802/15/101154yciu3cdiliggti34.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/arch-linux-installation-boot-menu_orig.jpg)
+​在引导到 Arch Linux 安装媒体时，您应该看到如下所示的初始屏幕。选择 “Boot Arch Linux(x86\_64)”。注意 Arch Linux 更类似于一种 [DIY](http://www.linuxandubuntu.com/home/arch-linux-take-your-linux-knowledge-to-next-level-review)（自我定制）的操作系统。 ​ [![Arch Linux 安装引导菜单](/Asserts/Images/album/201802/15/101154yciu3cdiliggti34.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/arch-linux-installation-boot-menu_orig.jpg)
 
 
 选择之后，它将打开一个`tty1`终端，您将使用它来安装操作系统。
 
 
-[![tty终端](/Asserts/Images//attachment/album/201802/15/101155l4hhq2g1xy1mm1v1.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/arch-linux-tty1-linux_orig.png)
+[![tty终端](/Asserts/Images/album/201802/15/101155l4hhq2g1xy1mm1v1.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/arch-linux-tty1-linux_orig.png)
 
 
 注意：为了成功安装 Arch Linux，您需要一个互联网连接来下载一些必须的系统安装包。所以我们需要检查一下互联网是否运行正常。输入以下命令到终端以检查网络连接。
@@ -115,7 +115,7 @@ ping linuxandubuntu.com -c 4
 
 ```
 
-[![检查互联网连接](/Asserts/Images//attachment/album/201802/15/101155twxcpakr1xa1qaka.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/arch-linux-ping-check-internet-connection_orig.png)
+[![检查互联网连接](/Asserts/Images/album/201802/15/101155twxcpakr1xa1qaka.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/arch-linux-ping-check-internet-connection_orig.png)
 
 
 ​如果互联网运行正常，你应该得到一个回显，显示发送和接收的数据包的数量。在这种情况下，我们发送了 4 个包，并得到了 4 个反馈，这意味着连接是正常的。
@@ -139,7 +139,7 @@ cfdisk
 
 ```
 
-[![利用cfdisk命令安装 Arch 分区](/Asserts/Images//attachment/album/201802/15/101155ip31forbzp6f6o6b.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-arch-partition-disk-with-cfdisk_orig.png)
+[![利用cfdisk命令安装 Arch 分区](/Asserts/Images/album/201802/15/101155ip31forbzp6f6o6b.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-arch-partition-disk-with-cfdisk_orig.png)
 
 
 执行命令后将看到分区情况。选择其它已分配分区下面的空闲空间。
@@ -148,34 +148,34 @@ cfdisk
 您需要选择 “New”，然后输入分区大小。
 
 
-[![为 Archlinux 分区](/Asserts/Images//attachment/album/201802/15/101156yiuvwraszi6ku6ae.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/partition-free-space-swap-arch-linux_orig.png)
+[![为 Archlinux 分区](/Asserts/Images/album/201802/15/101156yiuvwraszi6ku6ae.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/partition-free-space-swap-arch-linux_orig.png)
 
 
 例如，9.3G - G 表示千兆字节。
 
 
-[![挂载 Arch Linux 分区](/Asserts/Images//attachment/album/201802/15/101156q613z03evnyqgvjz.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-arch-linux-partition_orig.png)
+[![挂载 Arch Linux 分区](/Asserts/Images/album/201802/15/101156q613z03evnyqgvjz.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-arch-linux-partition_orig.png)
 
 
 如下图所示，选择“primary”进行分区
 
 
-[![将 Arch Linux 的根（root）分区设置成主分区](/Asserts/Images//attachment/album/201802/15/101157hlsznshszobhlgbl.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/make-arch-linux-root-as-primary-partition_orig.png)
+[![将 Arch Linux 的根（root）分区设置成主分区](/Asserts/Images/album/201802/15/101157hlsznshszobhlgbl.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/make-arch-linux-root-as-primary-partition_orig.png)
 
 
 然后选择写分区条目。
 
 
-[![选择分区安装 Arch](/Asserts/Images//attachment/album/201802/15/101157uh1ltze0l0w2ch0e.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/select-partition-to-install-arch_orig.png)
+[![选择分区安装 Arch](/Asserts/Images/album/201802/15/101157uh1ltze0l0w2ch0e.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/select-partition-to-install-arch_orig.png)
 
 
-​键入“yes”，以确认写入分区表。 ​ [![确认创建分区并安装 Arch Linux](/Asserts/Images//attachment/album/201802/15/101157p6xcxxxh7zw7j7n6.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-arch-linux-confirm-create-partition_orig.png)
+​键入“yes”，以确认写入分区表。 ​ [![确认创建分区并安装 Arch Linux](/Asserts/Images/album/201802/15/101157p6xcxxxh7zw7j7n6.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/install-arch-linux-confirm-create-partition_orig.png)
 
 
 然后选择 “Quit”（退出）选项。
 
 
-[![退出 Arch Linux 的‘cfdisk’](/Asserts/Images//attachment/album/201802/15/101158as5lvnvyx9s7znsl.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/quit-cfdisk-arch-linux_orig.png) 然后键入：
+[![退出 Arch Linux 的‘cfdisk’](/Asserts/Images/album/201802/15/101158as5lvnvyx9s7znsl.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/quit-cfdisk-arch-linux_orig.png) 然后键入：
 
 
 
@@ -187,7 +187,7 @@ fdisk -l
 ​确认修改。
 
 
-[![确认分区修改](/Asserts/Images//attachment/album/201802/15/101158m9szsfg2swishv1v.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/confirm-partition-changes_orig.png)
+[![确认分区修改](/Asserts/Images/album/201802/15/101158m9szsfg2swishv1v.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/confirm-partition-changes_orig.png)
 
 
 ​然后使用磁盘分区命令： ​
@@ -199,7 +199,7 @@ mkfs.ext4 /dev/sda3
 
 ```
 
-​确保您选择的分区是我们创建的最后一个分区，这样我们就不会破坏 Ubuntu 分区。 ​ [![完成 Arch Linux 分区安装](/Asserts/Images//attachment/album/201802/15/101158vzs4du3osi5hol65.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/complete-arch-linux-installation-partition_orig.png)
+​确保您选择的分区是我们创建的最后一个分区，这样我们就不会破坏 Ubuntu 分区。 ​ [![完成 Arch Linux 分区安装](/Asserts/Images/album/201802/15/101158vzs4du3osi5hol65.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/complete-arch-linux-installation-partition_orig.png)
 
 
 ​然后使用以下命令安装这个分区： ​
@@ -211,7 +211,7 @@ mount /dev/sda3 /mnt
 
 ```
 
-[![安装基础分区](/Asserts/Images//attachment/album/201802/15/101159eznmnhf90uhdfmhm.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/mount-base-partition-in-arch-linux.png)
+[![安装基础分区](/Asserts/Images/album/201802/15/101159eznmnhf90uhdfmhm.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/mount-base-partition-in-arch-linux.png)
 
 
 用下面命令创建“home”目录：
@@ -223,7 +223,7 @@ mkdir .mnt/home
 
 ```
 
-[![安装家目录](/Asserts/Images//attachment/album/201802/15/101159bv72blxvkslvw0ll.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/mount-home-partition-arch-linux.png)
+[![安装家目录](/Asserts/Images/album/201802/15/101159bv72blxvkslvw0ll.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/mount-home-partition-arch-linux.png)
 
 
 ​用以下命令安装“home”目录到这个分区上：
@@ -235,7 +235,7 @@ mount /dev/sda3 /mnt/home
 
 ```
 
-[![安装家目录](/Asserts/Images//attachment/album/201802/15/101159xhdik647ny466h4l.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/make-mount-home-directory.png)
+[![安装家目录](/Asserts/Images/album/201802/15/101159xhdik647ny466h4l.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/make-mount-home-directory.png)
 
 
 现在使用以下命令安装 Archlinux 的基本系统：
@@ -253,7 +253,7 @@ pacstrap /mnt base
 接下来开始下载和配置安装所用时间取决于你的网速。
 
 
-[![安装Arch Linux 基础系统](/Asserts/Images//attachment/album/201802/15/101200k4aala2s6b20bz0p.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/install-arch-linux-base.png)
+[![安装Arch Linux 基础系统](/Asserts/Images/album/201802/15/101200k4aala2s6b20bz0p.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/install-arch-linux-base.png)
 
 
 这一步骤完成后，将完成 Archlinux 基本安装。
@@ -268,7 +268,7 @@ genfstab -U /mnt >> /mnt/etc/fstab
 
 ```
 
-[![创建 fstab文件](/Asserts/Images//attachment/album/201802/15/101200xhjfeh3k1heze3jk.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/create-fstab-file-in-arch-linux.png)
+[![创建 fstab文件](/Asserts/Images/album/201802/15/101200xhjfeh3k1heze3jk.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/create-fstab-file-in-arch-linux.png)
 
 
 在此之后，您需要验证`fstab`文件，使用下面命令:
@@ -280,7 +280,7 @@ cat /mnt/etc/fstab
 
 ```
 
-[![查看 fstab 文件的终端显示](/Asserts/Images//attachment/album/201802/15/101200tgqjojjj989sqojg.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/cat-fstab-file-data-terminal.png)
+[![查看 fstab 文件的终端显示](/Asserts/Images/album/201802/15/101200tgqjojjj989sqojg.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/cat-fstab-file-data-terminal.png)
 
 
 ### ​配置 Arch Linux 的基础配置
@@ -334,7 +334,7 @@ locale-gen
 生成本地化设置如下：
 
 
-[![生成本地化配置](/Asserts/Images//attachment/album/201802/15/101200mk1qzqznkx3tlqte.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/generate-localization-arch-linux.png)
+[![生成本地化配置](/Asserts/Images/album/201802/15/101200mk1qzqznkx3tlqte.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/generate-localization-arch-linux.png)
 
 
 相应的需要在 `locale.conf` 文件中配置 LANG 变量。例如：
@@ -397,10 +397,10 @@ ls /usr/share/zoneinfo
 
 ```
 
-[![配置时区文件](/Asserts/Images//attachment/album/201802/15/101201wspsgwqu9b9xu1e8.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/setup-zonefile-in-arch-linux.png)
+[![配置时区文件](/Asserts/Images/album/201802/15/101201wspsgwqu9b9xu1e8.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/setup-zonefile-in-arch-linux.png)
 
 
-[![配置地区](/Asserts/Images//attachment/album/201802/15/101201tkuk87hjfk7djjj2.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/setup-country-zonefile_orig.png)
+[![配置地区](/Asserts/Images/album/201802/15/101201tkuk87hjfk7djjj2.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/setup-country-zonefile_orig.png)
 
 
 运行 `hwclock` 命令来生成 `/etc/adjtime`（假设硬件时钟被设置为 UTC）：
@@ -427,7 +427,7 @@ passwd
 ​为 root 用户提供一个新的密码并确认密码使其生效。
 
 
-[![配置系统用户root密码](/Asserts/Images//attachment/album/201802/15/101202yulu9yjbyjjlbsbh.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/setup-arch-linux-root-password.png)
+[![配置系统用户root密码](/Asserts/Images/album/201802/15/101202yulu9yjbyjjlbsbh.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/setup-arch-linux-root-password.png)
 
 
 #### 4. 配置主机名和网络
@@ -442,13 +442,13 @@ nano /etc/hostname
 
 ```
 
-[![配置主机名](/Asserts/Images//attachment/album/201802/15/101202hyagw8dgakaaazkx.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/set-arch-linux-hostname.png)
+[![配置主机名](/Asserts/Images/album/201802/15/101202hyagw8dgakaaazkx.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/set-arch-linux-hostname.png)
 
 
 将名字更改为您的用户名:
 
 
-[![set arch linux username](/Asserts/Images//attachment/album/201802/15/101202d5cbd066m0405465.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/set-arch-linux-username.png)
+[![set arch linux username](/Asserts/Images/album/201802/15/101202d5cbd066m0405465.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/set-arch-linux-username.png)
 
 
 然后向主机添加一个匹配的条目：
@@ -494,13 +494,13 @@ reboot
 
 ```
 
-[![安装完成后重启](/Asserts/Images//attachment/album/201802/15/101202rokdiwwwm7mooiig.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/reboot-system-after-arch-linux-installation.png)
+[![安装完成后重启](/Asserts/Images/album/201802/15/101202rokdiwwwm7mooiig.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/reboot-system-after-arch-linux-installation.png)
 
 
 Arch Linux 仍然没有出现，因此我们需要在 Ubuntu 中使用 `update-grub` 来安装它。
 
 
-[![Ubuntu grub 菜单](/Asserts/Images//attachment/album/201802/15/101203zvarrlirrauvz3ai.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/ubuntu-grub-menu.png)
+[![Ubuntu grub 菜单](/Asserts/Images/album/201802/15/101203zvarrlirrauvz3ai.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/edited/ubuntu-grub-menu.png)
 
 
 在Ubuntu中打开终端，输入:

@@ -15,7 +15,7 @@ tags:	[linuxcn,脚本,bash]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/17/173459pxhz0aiicimzd1m2.jpg)
+![](/Asserts/Images/album/201912/17/173459pxhz0aiicimzd1m2.jpg)
 
 
 Bash 是一种强大的编程语言，完美契合命令行和 shell 脚本。本系列（三篇文章，基于我的 [三集 Linux 自学课程](http://www.both.org/?page_id=1183)）讲解如何在 CLI 使用 Bash 编程。

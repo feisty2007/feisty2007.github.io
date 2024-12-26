@@ -13,7 +13,7 @@ tags:	[linuxcn,Arch]
 本文基本上是我个人见解，有不正确的地方恳请批评指正，另外本文只是推荐 Arch ，并没有说 Arch 是最适合新手的。
 
 
-![Arch Linux](/Asserts/Images//attachment/album/201511/03/125335ssqoqh2qjqbsk9h2.png)
+![Arch Linux](/Asserts/Images/album/201511/03/125335ssqoqh2qjqbsk9h2.png)
 
 
 *Arch Linux*

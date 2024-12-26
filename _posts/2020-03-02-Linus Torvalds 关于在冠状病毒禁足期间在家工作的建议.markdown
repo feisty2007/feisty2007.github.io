@@ -7,7 +7,7 @@ tags:	[linuxcn,冠状病毒]
 ---
 
 
-![](/Asserts/Images//attachment/album/202003/23/113936uijrj9idibrzvjye.jpg)
+![](/Asserts/Images/album/202003/23/113936uijrj9idibrzvjye.jpg)
 
 
 在冠状病毒爆发期间，我们中的许多人都在室内自我隔离。[ZDNet](https://www.zdnet.com/article/pet-the-cat-own-the-bathrobe-linus-torvalds-on-working-from-home/) 特此与 Linus Torvalds 进行了专题采访，讨论了他对冠状病毒禁足期间在家工作的看法或想法。
@@ -53,7 +53,7 @@ Linus 提到，几年前刚开始在家工作时，他担心过缺少人与人�
 ### 高效沟通是关键
 
 
-![](/Asserts/Images//attachment/album/202003/23/114055lzr3k3f3tt1jvs3h.jpg)
+![](/Asserts/Images/album/202003/23/114055lzr3k3f3tt1jvs3h.jpg)
 
 
 虽然你可以在一天之中召开几次会议（视频会议或音频呼叫），但这真的有必要吗？
@@ -89,7 +89,7 @@ James Bottomley 是 [IBM 研究院](https://www.research.ibm.com/)的杰出工�
 ### 和猫（宠物）一起玩
 
 
-![](/Asserts/Images//attachment/album/202003/23/114101la4074rtpyl38xu7.jpg)
+![](/Asserts/Images/album/202003/23/114101la4074rtpyl38xu7.jpg)
 
 
 不歧视其他宠物，但这就是 Linus Torvalds 提到的。

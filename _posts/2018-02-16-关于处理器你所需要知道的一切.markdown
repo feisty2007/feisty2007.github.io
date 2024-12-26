@@ -7,7 +7,7 @@ tags:	[linuxcn,CPU,处理器]
 ---
 
 
-[![](/Asserts/Images//attachment/album/201802/27/064657x0oagcol2fs101fc.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/processors-all-you-need-to-know.jpg)
+[![](/Asserts/Images/album/201802/27/064657x0oagcol2fs101fc.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/processors-all-you-need-to-know.jpg)
 
 
 我们的手机、主机以及笔记本电脑这样的数字设备已经变得如此成熟，以至于它们进化成为我们的一部分，而不只是一种设备。
@@ -19,7 +19,7 @@ tags:	[linuxcn,CPU,处理器]
 我们知道 CPU （或称处理器）是那些需要处理数据和执行逻辑任务的设备的大脑。
 
 
-[![cpu image](/Asserts/Images//attachment/album/201802/27/064657bqsgsoyunwffvm1f.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/download.jpg)
+[![cpu image](/Asserts/Images/album/201802/27/064657bqsgsoyunwffvm1f.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/download.jpg)
 
 
 在处理器的深处有那些不一样的概念呢？它们是如何演化的？一些处理器是如何做到比其它处理器更快的？让我们来看看关于处理器的主要术语，以及它们是如何影响处速度的。
@@ -52,7 +52,7 @@ tags:	[linuxcn,CPU,处理器]
 ### 时钟速度
 
 
-[![CPU CLOCK SPEED](/Asserts/Images//attachment/album/201802/27/064658xgartiavgkkainm8.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/download-1.jpg)
+[![CPU CLOCK SPEED](/Asserts/Images/album/201802/27/064658xgartiavgkkainm8.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/download-1.jpg)
 
 
 GHz 是 GigaHertz 的简写，Giga 意思是 10 亿次，Hertz （赫兹）意思是一秒有几个周期，2 GHz 的处理器意味着处理器一秒能够执行 20 亿个周期 。
@@ -88,7 +88,7 @@ CPU 缓存是处理器内部的一块小的存储单元，用来存储一些内�
 所以，越低的热功耗设计对你越好。一个低的热功耗设计不仅可以更好的利用能量，而且产生更少的热量。
 
 
-[![battery](/Asserts/Images//attachment/album/201802/27/064658bd0pc9dh3bxxxdlr.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/download-2.jpg)
+[![battery](/Asserts/Images/album/201802/27/064658bd0pc9dh3bxxxdlr.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/download-2.jpg)
 
 
 桌面版的处理器通常消耗更多的能量，热功耗消耗的能量能在 40% 以上，相对应的移动版本只有不到桌面版本的 1/3。
@@ -100,7 +100,7 @@ CPU 缓存是处理器内部的一块小的存储单元，用来存储一些内�
 我们已经提到了处理器的架构是如何影响到我们能够使用的内存总量，但这只是理论上而已。在实际的应用中，我们所能够使用的内存的总量对于处理器的规格来说是足够的，它通常是由处理器规格详细规定的。
 
 
-[![RAM](/Asserts/Images//attachment/album/201802/27/064658ca47hh1vs9p8z7q6.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/images.jpg)
+[![RAM](/Asserts/Images/album/201802/27/064658ca47hh1vs9p8z7q6.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/10/images.jpg)
 
 
 它也指出了内存所支持的 DDR 的版本号。

@@ -7,7 +7,7 @@ tags:	[linuxcn,LLUG]
 ---
 
 
-![](/Asserts/Images//attachment/album/202106/23/173551b878xk88888kz8ii.jpg)
+![](/Asserts/Images/album/202106/23/173551b878xk88888kz8ii.jpg)
 
 
 二十年前，见网友还是一种时髦；二十年后，见网友已是寻常。两年前，随随便便就能呼朋唤友线下畅聊撸串；两年后，交流多在网上渐已习惯隔屏互锤。
@@ -83,4 +83,4 @@ Tom Zhou，Ubuntu 高级技术支持工程师 |
 报名请加群：
 
 
-![](/Asserts/Images//attachment/album/202106/23/173309sk29mkipvrudiv88.jpg)
+![](/Asserts/Images/album/202106/23/173309sk29mkipvrudiv88.jpg)

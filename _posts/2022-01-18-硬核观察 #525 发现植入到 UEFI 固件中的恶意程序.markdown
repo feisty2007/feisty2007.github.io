@@ -7,10 +7,10 @@ tags:	[linuxcn,UEFI,固件,FSF]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/23/202715imxpetpzezjeu758.jpg)
+![](/Asserts/Images/album/202201/23/202715imxpetpzezjeu758.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/23/202737b4morxpcxdo43rip.jpg)
+![](/Asserts/Images/album/202201/23/202737b4morxpcxdo43rip.jpg)
 
 
 ### 发现植入到 UEFI 固件中的恶意程序
@@ -27,7 +27,7 @@ tags:	[linuxcn,UEFI,固件,FSF]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/23/202747aozrzro9nrxf3uf5.jpg)
+![](/Asserts/Images/album/202201/23/202747aozrzro9nrxf3uf5.jpg)
 
 
 ### FSF 让其 5000 多名准会员提名董事会成员
@@ -44,7 +44,7 @@ tags:	[linuxcn,UEFI,固件,FSF]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/23/202803bpzef6yen6nf3ipr.jpg)
+![](/Asserts/Images/album/202201/23/202803bpzef6yen6nf3ipr.jpg)
 
 
 ### Linux 大量向用户提供了固件更新

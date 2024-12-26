@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,专利]
 ***这个小组识别危险的专利并且试着还原它们的本来面目。***
 
 
- ![](/Asserts/Images//attachment/album/201309/28/1134426p4gsgu4o2hhosew.jpg)
+ ![](/Asserts/Images/album/201309/28/1134426p4gsgu4o2hhosew.jpg)
 
 
 图片来自：[Sean Nguyen](https://secure.flickr.com/photos/slnguyen/4607449393/)

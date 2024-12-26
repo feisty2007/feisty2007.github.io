@@ -15,7 +15,7 @@ tags:	[linuxcn,英伟达,GPU,开源]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/13/092415wyi786y8h0qjgnir.jpg)
+![](/Asserts/Images/album/202205/13/092415wyi786y8h0qjgnir.jpg)
 
 
 Linus Torvalds 听到这个消息一定会很高兴……
@@ -71,7 +71,7 @@ Canonical 和 SUSE 会立即为他们的企业用户打包该开源内核模块�
 ### 现在可以试用吗？
 
 
-![](/Asserts/Images//attachment/album/202205/13/092415djkbe2p2k2qblm1k.jpg)
+![](/Asserts/Images/album/202205/13/092415djkbe2p2k2qblm1k.jpg)
 
 
 这个开源的 GPU 内核模块的第一个版本是 R515，它是作为 CUDA 工具集 11.7 一部分一起发布的开发驱动程序。

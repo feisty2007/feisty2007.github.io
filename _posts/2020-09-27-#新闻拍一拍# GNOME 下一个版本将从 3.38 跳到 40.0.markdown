@@ -7,7 +7,7 @@ tags:	[linuxcn,GNOME,GitHub,OpenPGP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/19/094909d9k94dwq8d343ygk.jpg)
+![](/Asserts/Images/album/202009/19/094909d9k94dwq8d343ygk.jpg)
 
 
 #### GNOME 下一个版本将从 3.38 跳到 40.0

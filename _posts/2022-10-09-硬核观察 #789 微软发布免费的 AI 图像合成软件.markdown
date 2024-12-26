@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,GNU,Debian]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/14/185849cb8e8nvkwncj42kc.jpg)
+![](/Asserts/Images/album/202210/14/185849cb8e8nvkwncj42kc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/14/185901g8hemhyhj6fv7hh6.jpg)
+![](/Asserts/Images/album/202210/14/185901g8hemhyhj6fv7hh6.jpg)
 
 
 ### 微软发布免费的 AI 图像合成软件
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,GNU,Debian]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/14/185918spgfhr4mzvhginie.jpg)
+![](/Asserts/Images/album/202210/14/185918spgfhr4mzvhginie.jpg)
 
 
 ### GNU 工具链考虑将其基础设施转移到 Linux 基金会
@@ -60,7 +60,7 @@ GNU 工具链是 GNU/Linux 生态系统、云和嵌入式环境的基石。红�
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/14/185934kk9d5ee4e44nwpko.jpg)
+![](/Asserts/Images/album/202210/14/185934kk9d5ee4e44nwpko.jpg)
 
 
 ### Debian GNU/Linux 14 代号已确定为“Forky”

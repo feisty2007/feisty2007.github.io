@@ -7,7 +7,7 @@ tags:	[linuxcn,求职,简历,开源,志愿者]
 ---
 
 
-![](/Asserts/Images//attachment/album/201605/31/111946k7zjg0iekgz78bqi.jpg)
+![](/Asserts/Images/album/201605/31/111946k7zjg0iekgz78bqi.jpg)
 
 
 在这篇文章中，我将会分享我的方法，让大家利用开源贡献在技术领域的求职中脱颖而出，成为强有力的候选者。

@@ -13,7 +13,7 @@ Nextcloud 是一款自由 (开源) 的类 Dropbox 软件，由 ownCloud 分支�
 在这篇文章中，我将向你展示如何在 CentOS 7 服务器中安装和配置最新版本的 Nextcloud 10。我会通过 Nginx 和 PHP7-FPM 来运行 Nextcloud，同时使用 MariaDB 做为数据库系统。
 
 
-![](/Asserts/Images//attachment/album/201702/27/115114jv8a6y6awr83a6i3.jpg)
+![](/Asserts/Images/album/201702/27/115114jv8a6y6awr83a6i3.jpg)
 
 
 **先决条件**
@@ -74,7 +74,7 @@ php -v
 
 ```
 
-![查看 PHP 版本号](/Asserts/Images//attachment/album/201702/27/115122utlo8okp2g6ook02.png)
+![查看 PHP 版本号](/Asserts/Images/album/201702/27/115122utlo8okp2g6ook02.png)
 
 
 ### 步骤 2 - 配置 PHP7-FPM
@@ -150,7 +150,7 @@ sudo systemctl enable nginx
 
 ```
 
-![启动 php-fpm 和 Nginx](/Asserts/Images//attachment/album/201702/27/115123wc21ae2yl1e42akw.png)
+![启动 php-fpm 和 Nginx](/Asserts/Images/album/201702/27/115123wc21ae2yl1e42akw.png)
 
 
 PHP7-FPM 配置完成
@@ -227,7 +227,7 @@ flush privileges;
 
 ```
 
-![为 Nextcloud 创建一个新的数据库和用户](/Asserts/Images//attachment/album/201702/27/115123dk7wcda7ndfccnfz.png)
+![为 Nextcloud 创建一个新的数据库和用户](/Asserts/Images/album/201702/27/115123dk7wcda7ndfccnfz.png)
 
 
 `nextcloud_db` 数据库和 `nextclouduser` 数据库用户创建完成
@@ -267,7 +267,7 @@ chmod 600 /etc/nginx/cert/*
 
 ```
 
-![为 Nextcloud 生成一个自签名 SSL 证书](/Asserts/Images//attachment/album/201702/27/115124dmwotmrvuow3wrxu.png)
+![为 Nextcloud 生成一个自签名 SSL 证书](/Asserts/Images/album/201702/27/115124dmwotmrvuow3wrxu.png)
 
 
 ### 步骤 5 - 下载和安装 Nextcloud
@@ -308,7 +308,7 @@ mv nextcloud/ /usr/share/nginx/html/
 
 ```
 cd /usr/share/nginx/html/
-mkdir -p nextcloud/Asserts/Images//
+mkdir -p nextcloud/data/
 
 ```
 
@@ -478,7 +478,7 @@ systemctl restart nginx
 
 ```
 
-![在 Nginx 中为 Nextcloud 配置虚拟主机](/Asserts/Images//attachment/album/201702/27/115124zj7jqngyvc9rjpyq.png)
+![在 Nginx 中为 Nextcloud 配置虚拟主机](/Asserts/Images/album/201702/27/115124zj7jqngyvc9rjpyq.png)
 
 
 ### 步骤 7 - 为 Nextcloud 配置 SELinux 和 FirewallD 规则
@@ -501,7 +501,7 @@ yum -y install policycoreutils-python
 
 
 ```
-semanage fcontext -a -t httpd_sys_rw_content_t '/usr/share/nginx/html/nextcloud/Asserts/Images/(/.*)?'
+semanage fcontext -a -t httpd_sys_rw_content_t '/usr/share/nginx/html/nextcloud/data(/.*)?'
 semanage fcontext -a -t httpd_sys_rw_content_t '/usr/share/nginx/html/nextcloud/config(/.*)?'
 semanage fcontext -a -t httpd_sys_rw_content_t '/usr/share/nginx/html/nextcloud/apps(/.*)?'
 semanage fcontext -a -t httpd_sys_rw_content_t '/usr/share/nginx/html/nextcloud/assets(/.*)?'
@@ -536,7 +536,7 @@ firewall-cmd --reload
 
 ```
 
-![为 Nextcloud 配置 FirewallD 规则](/Asserts/Images//attachment/album/201702/27/115125fcx3sr7sw317zc53.png)
+![为 Nextcloud 配置 FirewallD 规则](/Asserts/Images/album/201702/27/115125fcx3sr7sw317zc53.png)
 
 
 至此，服务器配置完成。
@@ -551,25 +551,25 @@ firewall-cmd --reload
 设置你的管理员用户名和密码，然后输入数据验证信息，点击 '**完成安装 (Finish Setup)**'。
 
 
-![Nextcloud 安装](/Asserts/Images//attachment/album/201702/27/115125gs4ojzf7h1fobrdo.png)
+![Nextcloud 安装](/Asserts/Images/album/201702/27/115125gs4ojzf7h1fobrdo.png)
 
 
 Nextcloud 管理面板大致如下：
 
 
-![Nextcloud 管理面板](/Asserts/Images//attachment/album/201702/27/115126kn65n94gi1nnd5i5.png)
+![Nextcloud 管理面板](/Asserts/Images/album/201702/27/115126kn65n94gi1nnd5i5.png)
 
 
 Nextcloud 用户设置：
 
 
-![Nextcloud 用户设置](/Asserts/Images//attachment/album/201702/27/115126zo7y3krynetk9eek.png)
+![Nextcloud 用户设置](/Asserts/Images/album/201702/27/115126zo7y3krynetk9eek.png)
 
 
 管理设置：
 
 
-![管理设置](/Asserts/Images//attachment/album/201702/27/115127rhpkkk7wv568whhj.png)
+![管理设置](/Asserts/Images/album/201702/27/115127rhpkkk7wv568whhj.png)
 
 
 至此，我们在 CentOS 7 服务器上通过使用 Nginx、PHP7-FPM、MariaDB 完成了 Nextcloud 的安装。

@@ -13,7 +13,7 @@ tags:	[linuxcn,Markdown,作家,写作者]
 ### Zettlr Markdown 编辑器
 
 
-![Zettlr Light Mode](/Asserts/Images//attachment/album/201906/01/123458wbnmt4mqnnoffe30.png)
+![Zettlr Light Mode](/Asserts/Images/album/201906/01/123458wbnmt4mqnnoffe30.png)
 
 
 我可能在网站上提到过一两次，我更喜欢用 [Markdown](https://daringfireball.net/projects/markdown/) 写下我的所有文档。它易于学习，不会让你受困于专有文档格式。我还在我的[适合作者的开源工具列表](https://itsfoss.com/open-source-tools-writers/)中提到了 Markdown 编辑器。
@@ -31,7 +31,7 @@ tags:	[linuxcn,Markdown,作家,写作者]
 所以他决定创造自己的。2017 年 11 月，他开始编写 Zettlr。
 
 
-![Zettlr About](/Asserts/Images//attachment/album/201906/01/123501cxnsnqs6qx5pniqn.png)
+![Zettlr About](/Asserts/Images/album/201906/01/123501cxnsnqs6qx5pniqn.png)
 
 
 #### Zettlr 功能
@@ -46,7 +46,7 @@ Zettlr 有许多简洁的功能，包括：
 当我写这篇文章时，一个对话框弹出来告诉我最近发布了 [1.3.0 beta](https://github.com/Zettlr/Zettlr/releases/tag/v1.3.0-beta)。此测试版将包括几个新的主题，以及一大堆修复，新功能和改进。
 
 
-![Zettlr Night Mode](/Asserts/Images//attachment/album/201906/01/123504aht3foujhwuuq9gw.png)
+![Zettlr Night Mode](/Asserts/Images/album/201906/01/123504aht3foujhwuuq9gw.png)
 
 
 #### 安装 Zettlr
@@ -64,7 +64,7 @@ Zettlr 有许多简洁的功能，包括：
 Zettlr 有许多我希望我之前选择的编辑器 （ghostwriter） 有的简洁的功能，例如为文档设置字数目标。我也喜欢在不打开文档的情况下预览文档的功能。
 
 
-![Zettlr Settings](/Asserts/Images//attachment/album/201906/01/123506ikk8aa1e9ig81gez.png)
+![Zettlr Settings](/Asserts/Images/album/201906/01/123506ikk8aa1e9ig81gez.png)
 
 
 我也遇到了几个问题，但这些更多的是因为 Zettlr 与 ghostwriter 的工作方式略有不同。例如，当我尝试从网站复制引用或名称时，它会将内嵌样式粘贴到 Zettlr 中。幸运的是，它有一个“不带样式粘贴”的选项。有几次我在打字时有轻微的延迟。但那可能是因为它是一个 Electron 程序。

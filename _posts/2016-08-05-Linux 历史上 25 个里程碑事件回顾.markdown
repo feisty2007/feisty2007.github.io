@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,历史]
 ---
 
 
-![](/Asserts/Images//attachment/album/201608/30/112822brryli0ieizjliv0.png)
+![](/Asserts/Images/album/201608/30/112822brryli0ieizjliv0.png)
 
 
 *Linus Torvalds 和他的朋友们*
@@ -19,7 +19,7 @@ tags:	[linuxcn,Linux,历史]
 ### 1991：Linus Torvalds 向世界宣告 Linux 诞生
 
 
-![](/Asserts/Images//attachment/album/201608/30/112825uv88lfj2jjmftfjv.png)
+![](/Asserts/Images/album/201608/30/112825uv88lfj2jjmftfjv.png)
 
 
 这封邮件是 1991 年 8 月 25 日 Linus 发在 Minix Usenet 新闻组的，这个日期通常被认为是 Linux 的生日。那时候 Linus 还没有什么名气，他说它的新操作系统“只是一个兴趣，并不想着像 GNU for 386(486) AT 那么庞大和专业。”
@@ -28,7 +28,7 @@ tags:	[linuxcn,Linux,历史]
 ### 1992：第一次 Linux 之战
 
 
-![](/Asserts/Images//attachment/album/201608/30/112826h17my5r1bqjjvqq7.png)
+![](/Asserts/Images/album/201608/30/112826h17my5r1bqjjvqq7.png)
 
 
 Andrew Tannenbaum 是一位操作系统专家，也是当时著名的 [Minix](http://www.minix3.org/) 操作系统的作者，这是一个用于教学用途的 Unix 版本。Andrew 声称 “[LINUX 是过时的](http://www.linfo.org/obsolete.html)”，从而打响了 Linux 的第一次操作系统之战。在由此而来的论战中，Linus 发表了一个至今看起来仍然正确的观点，“如果 GNU 内核（指 Hurd，这是另外一个尝试建立自由的类 Unix 操作系统的项目）去年春天就已经好了的话，我绝不会启动我的项目：事实上它根本没有完成，估计永远也完成不了。Linux 能胜出的很大原因就在于它现在就能用！”
@@ -37,7 +37,7 @@ Andrew Tannenbaum 是一位操作系统专家，也是当时著名的 [Minix](ht
 ### 1993：Slackware Linux
 
 
-![](/Asserts/Images//attachment/album/201608/30/112827wb1qh0l5mlzz0rhg.png)
+![](/Asserts/Images/album/201608/30/112827wb1qh0l5mlzz0rhg.png)
 
 
 这时已经有了一些早期的 Linux 发行版，比如 MCC 和 Yggdrasil Linux，但是 Patrick Volkerding 的 [Slackware](http://www.slackware.com/) 其中最成功的一个，而且直到今天它仍然在不断更新和有人使用。
@@ -46,7 +46,7 @@ Andrew Tannenbaum 是一位操作系统专家，也是当时著名的 [Minix](ht
 ### 1993：Debian Linux 项目启动
 
 
-![](/Asserts/Images//attachment/album/201608/30/105404txj2nyk7yhlsrutk.jpg)
+![](/Asserts/Images/album/201608/30/105404txj2nyk7yhlsrutk.jpg)
 
 
 最流行的社区版 Linux：[Debian Linux](https://www.debian.org/) 项目启动了。今天，它是 Mint、Ubuntu 以及许许多多的流行的 Linux 发行版的上游发行版。
@@ -55,7 +55,7 @@ Andrew Tannenbaum 是一位操作系统专家，也是当时著名的 [Minix](ht
 ### 1994：Red Hat Linux 诞生
 
 
-![](/Asserts/Images//attachment/album/201608/30/105518umrctxwx9tcrxx33.jpg)
+![](/Asserts/Images/album/201608/30/105518umrctxwx9tcrxx33.jpg)
 
 
 Marc Ewing 创建了 Red Hat Linux 公司，随后 Bob Young 买下了 Ewing 的公司，并与他自己的公司合并，重组为 [Red Hat](http://www.redhat.com/)——这是当今最成功的 Linux 公司。
@@ -64,7 +64,7 @@ Marc Ewing 创建了 Red Hat Linux 公司，随后 Bob Young 买下了 Ewing 的
 ### 1995：Linux 大会召开
 
 
-![](/Asserts/Images//attachment/album/201608/30/112828buq2epnmm6pxlxo7.jpg)
+![](/Asserts/Images/album/201608/30/112828buq2epnmm6pxlxo7.jpg)
 
 
 Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会越来越多了，仅在美国每年就会召开十多场全球性或地区性的 Linux 会议。
@@ -73,7 +73,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 1996：KDE
 
 
-![](/Asserts/Images//attachment/album/201608/30/112829fi8jhmo5homndgch.jpg)
+![](/Asserts/Images/album/201608/30/112829fi8jhmo5homndgch.jpg)
 
 
 第一个主流 Linux 桌面系统 [KDE](http://www.kde.org/) 项目启动。
@@ -82,7 +82,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 1996：SUSE 公司创建
 
 
-![](/Asserts/Images//attachment/album/201608/30/105902sbb06qt79ycb6869.jpg)
+![](/Asserts/Images/album/201608/30/105902sbb06qt79ycb6869.jpg)
 
 
 同年，继 Slackware 和 Red Hat Linux 之后，[SUSE](http://www.suse.com/) 这个来自欧洲的 Linux 公司发布了其首个独立的 Linux 发行版。
@@ -91,7 +91,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 1997：GNOME
 
 
-![](/Asserts/Images//attachment/album/201608/30/112830sbp4911pvz41d90d.png)
+![](/Asserts/Images/album/201608/30/112830sbp4911pvz41d90d.png)
 
 
 [GNOME 桌面](http://www.gnome.org/)项目启动。今天，它和 KDE 成为了 Linux 上最重要的两个桌面系统。
@@ -100,7 +100,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 1998：万圣节备忘录
 
 
-![](/Asserts/Images//attachment/album/201608/30/112831ygzt2s6rtrwo62sw.png)
+![](/Asserts/Images/album/201608/30/112831ygzt2s6rtrwo62sw.png)
 
 
 微软开始敌视 Linux。Eric S. Raymond 是一位早期的 Linux 及开源领袖，他披露了这份[万圣节备忘录](http://www.catb.org/~esr/halloween/halloween1.html))，其中展示了微软视 Linux 为重大威胁，开始制定它的反开源战略和反对 Linux 的活动。然而还不到十年，微软就改变了初衷。
@@ -109,7 +109,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 1999：Corel Linux 桌面
 
 
-![](/Asserts/Images//attachment/album/201608/30/112832frlsr5d57qhq4rcz.png)
+![](/Asserts/Images/album/201608/30/112832frlsr5d57qhq4rcz.png)
 
 
 [Corel 发布了其第一个主流 Linux 桌面](http://practical-tech.com/operating-system/corel-puts-a-penguin-the-desktop/293/?preview=true&preview_id=293&preview_nonce=a618c6de4b)。虽然没有成功，但是它为其它流行的 Linux 桌面发行版指明了道路，比如 Ubuntu。
@@ -118,7 +118,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 1999：Linux 与 Windows 的服务器之争
 
 
-![](/Asserts/Images//attachment/album/201608/30/111045dk4ksarky8f7ke8t.jpg)
+![](/Asserts/Images/album/201608/30/111045dk4ksarky8f7ke8t.jpg)
 
 
 [Linux 与 Windows NT 首次在文件服务器方面展开竞争，Linux 获胜。](http://practical-tech.com/infrastructure/linux-up-close-time-to-switch/9) Linux 与 Windows 服务器操作系统之间的战争开始了。
@@ -127,7 +127,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2000：IBM 为 Linux 投资 10 亿美金
 
 
-![](/Asserts/Images//attachment/album/201608/30/112832q4mimw0mrwabiwky.jpg)
+![](/Asserts/Images/album/201608/30/112832q4mimw0mrwabiwky.jpg)
 
 
 2000 年的时候，IBM 宣布将在下一年对 Linux 投资 10 亿美金。这已经被证明是 IBM 有史以来最明智的投资。
@@ -136,7 +136,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2001：Linux 2.4 发布
 
 
-![](/Asserts/Images//attachment/album/201608/30/110629izwukmo7wkkyog7e.jpg)
+![](/Asserts/Images/album/201608/30/110629izwukmo7wkkyog7e.jpg)
 
 
 经过了几次延期之后， [Linux 2.4 发布了](http://practical-tech.com/operating-system/linux-2-4-its-here/2405/)。随着这个版本，Linux 成为了可以与 Solaris 和其它的高端服务器操作系统相提并论的操作系统了。
@@ -145,7 +145,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2003：SCO Linux 战争开始
 
 
-![](/Asserts/Images//attachment/album/201608/30/111254u3zzc76x4c2fcfu6.jpg)
+![](/Asserts/Images/album/201608/30/111254u3zzc76x4c2fcfu6.jpg)
 
 
 由 SCO Unix 公司和 Caldera Linux 公司组成的 SCO 公司开始翻 Linux 的旧账，起诉 IBM 和其它公司，指控 Linux 抄袭 Unix。虽然这个公司最终破产，但这场官司困扰了 Linux 的商业发展很多年。
@@ -154,7 +154,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2004：Ubuntu 来了
 
 
-![](/Asserts/Images//attachment/album/201608/30/112833v90briiia99ampbn.png)
+![](/Asserts/Images/album/201608/30/112833v90briiia99ampbn.png)
 
 
 [Ubuntu](http://www.ubuntu.com/) 创建！它架构于 [Debian Linux](http://www.debian.org/) 之上，Ubuntu 成为了一个非常流行的 Linux 桌面操作系统，同时也是最重要的云端 Linux 发行版之一。
@@ -163,7 +163,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2004：Linux 统治超级计算机
 
 
-![](/Asserts/Images//attachment/album/201608/30/112834slnq91dnsryrzryy.jpg)
+![](/Asserts/Images/album/201608/30/112834slnq91dnsryrzryy.jpg)
 
 
 世界上最快的超级计算机中超过半数运行着 Linux。而到了 2016 年，仅有少数超级计算机没有运行 Linux。
@@ -172,7 +172,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2005：大企业拥抱 Linux
 
 
-![](/Asserts/Images//attachment/album/201608/30/112834k8lhtttylexhkzlk.gif)
+![](/Asserts/Images/album/201608/30/112834k8lhtttylexhkzlk.gif)
 
 
 任何对 Linux 成为主流的怀疑都被 Linus Torvalds 出现在《商业周刊》封面上所击碎。头条？显然是 Linux Inc. 。
@@ -181,7 +181,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2007：Android 出现
 
 
-![](/Asserts/Images//attachment/album/201608/30/112054mvnopzwnpxte3b32.jpg)
+![](/Asserts/Images/album/201608/30/112054mvnopzwnpxte3b32.jpg)
 
 
 由谷歌和一些硬件厂商组成的[开放手机联盟](http://www.openhandsetalliance.com/)发布了 Android。它现在已经成为了最流行的终端用户操作系统，运行在超过 10 亿的智能电话上。
@@ -190,7 +190,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2008：证券交易所换到了 Linux 上
 
 
-![](/Asserts/Images//attachment/album/201608/30/112834psj1cuusl6r1gtw1.jpg)
+![](/Asserts/Images/album/201608/30/112834psj1cuusl6r1gtw1.jpg)
 
 
 纽约证券交易所和世界上许多著名的证券交易所一样切换到了 Linux 上，将其作为核心操作系统。Linux 没有变成大企业，但是成了巨大的业务。
@@ -199,7 +199,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2011：Watson 赢了 Jeopardy
 
 
-![](/Asserts/Images//attachment/album/201608/30/112835ls8f99yd33w4sydx.jpg)
+![](/Asserts/Images/album/201608/30/112835ls8f99yd33w4sydx.jpg)
 
 
 [IBM 的 Watson 计算机运行在 Linux 上](http://www.zdnet.com/blog/open-source/what-makes-ibms-watson-run/8208)，赢得了 Jeopardy 智力挑战，为智能专家系统订立了新的标准。
@@ -208,7 +208,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2011： Chromebook 兴起
 
 
-![](/Asserts/Images//attachment/album/201608/30/112308s116hxllbc0smkqc.jpg)
+![](/Asserts/Images/album/201608/30/112308s116hxllbc0smkqc.jpg)
 
 
 谷歌发布了第一台 Chromebook： CR-48。它运行着[基于 Gentoo-Linux 的 ChromeOS](http://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/)。到 2015，[Chromebook 的销售额已经超过了运行着 Windows 的笔记本](http://www.zdnet.com/article/npd-chromebooks-outsell-windows-laptops/)。
@@ -217,7 +217,7 @@ Linux 召开了其首次商业会议 Linux Expo。今天 Linux 方面的大会�
 ### 2012：云运行在 Linux 上
 
 
-![](/Asserts/Images//attachment/album/201608/30/112835f417lcw4mtqwnttc.jpg)
+![](/Asserts/Images/album/201608/30/112835f417lcw4mtqwnttc.jpg)
 
 
 IT 基础设施从服务器和数据中心移动到了云端，而[云运行在 Linux 上](/article-7589-1.html)。即使是在微软 Azure 上，2016 年的时候[超过 1/3 的虚拟机运行在 Linux 上](/article-7589-1.html)。
@@ -226,7 +226,7 @@ IT 基础设施从服务器和数据中心移动到了云端，而[云运行在 
 ### 2012：Red Hat 营收首次达到 10 亿美金
 
 
-![](/Asserts/Images//attachment/album/201608/30/112836jw0zq5utk0kl4708.jpg)
+![](/Asserts/Images/album/201608/30/112836jw0zq5utk0kl4708.jpg)
 
 
 [Red Hat 成为第一家年收入达 10 亿美金的开源公司](http://www.zdnet.com/article/red-hat-the-first-billion-dollar-linux-company-has-arrived/http://www.zdnet.com/article/red-hat-the-first-billion-dollar-linux-company-has-arrived/)。而在 2016，它成为首家达到 20 亿美金的 Linux 公司。
@@ -235,7 +235,7 @@ IT 基础设施从服务器和数据中心移动到了云端，而[云运行在 
 ### 2014：微软爱 Linux
 
 
-![](/Asserts/Images//attachment/album/201608/30/112543vnthemopnxzhpzkj.jpg)
+![](/Asserts/Images/album/201608/30/112543vnthemopnxzhpzkj.jpg)
 
 
 谁说豹子不能没有斑点的？微软新任 CEO Satya Nadella 说，[微软爱 Linux](http://www.zdnet.com/article/why-microsoft-loves-linux/)。这个公司通过在他们的云端和公司内部支持 Linux 和开源软件证明真爱。

@@ -7,13 +7,13 @@ tags:	[linuxcn,Chromium,Chrome,浏览器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202105/14/140644y6xx6e8100wzxrr5.jpg)
+![](/Asserts/Images/album/202105/14/140644y6xx6e8100wzxrr5.jpg)
 
 
 过去几天，我在 Ubuntu Linux系统上遇到了一个奇怪的问题。我用的是 Firefox 浏览器和 [Brave 浏览器](https://itsfoss.com/brave-web-browser/)。Brave 浏览器一直报“network change detection”错误，几乎每次刷新都报错，但是在 Firefox 浏览器中一切正常。
 
 
-![](/Asserts/Images//attachment/album/202105/14/141032n6ddr2bpv7cnd6dd.png)
+![](/Asserts/Images/album/202105/14/141032n6ddr2bpv7cnd6dd.png)
 
 
 这个问题严重到了几乎不能使用浏览器的地步。我不能用 [Feedly](https://feedly.com/) 来从我最喜欢的网站浏览信息流，每一个搜索结果都要多次刷新，网站也需要多次刷新。
@@ -69,7 +69,7 @@ GRUB_CMDLINE_LINUX="ipv6.disable=1"
 注意引号和空格。不要动其他行。
 
 
-![](/Asserts/Images//attachment/album/202105/14/141032dv9qvop17hp1dhdd.png)
+![](/Asserts/Images/album/202105/14/141032dv9qvop17hp1dhdd.png)
 
 
 使用 `Ctrl+x` 快捷键保存更改。按 `Y` 或者回车确认。
@@ -87,7 +87,7 @@ sudo update-grub
 
 ```
 
-![](/Asserts/Images//attachment/album/202105/14/141033c1ogwg05ogsw5s30.png)
+![](/Asserts/Images/album/202105/14/141033c1ogwg05ogsw5s30.png)
 
 
 现在当你重启系统之后，IPv6 将会被关闭了。你不应该再遇到网络中断的故障了。

@@ -7,10 +7,10 @@ tags:	[linuxcn,论文,GPU,NFC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/26/195854blhsafo7b7ahlv5o.jpg)
+![](/Asserts/Images/album/202306/26/195854blhsafo7b7ahlv5o.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/26/195905cckasgcvtrscsia8.jpg)
+![](/Asserts/Images/album/202306/26/195905cckasgcvtrscsia8.jpg)
 
 
 ### 中国论文贡献度首次超越美国
@@ -35,7 +35,7 @@ tags:	[linuxcn,论文,GPU,NFC]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/26/195933cdyyklguwzkqyzwl.jpg)
+![](/Asserts/Images/album/202306/26/195933cdyyklguwzkqyzwl.jpg)
 
 
 ### 英伟达最新 GPU 黑市价格翻番
@@ -60,7 +60,7 @@ tags:	[linuxcn,论文,GPU,NFC]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/26/195917figi1ds19gp9y1t9.jpg)
+![](/Asserts/Images/album/202306/26/195917figi1ds19gp9y1t9.jpg)
 
 
 ### NFC 将变得更强

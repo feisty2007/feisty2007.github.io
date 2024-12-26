@@ -7,7 +7,7 @@ tags:	[linuxcn,lsof]
 ---
 
 
-![](/Asserts/Images//attachment/album/201410/27/160040f6pj68v6pv8ju6u6.png)
+![](/Asserts/Images/album/201410/27/160040f6pj68v6pv8ju6u6.png)
 
 
 **lsof**是系统管理/[安全](http://linuxaria.com/tag/security)的尤伯工具。我大多数时候用它来从系统获得与[网络](http://linuxaria.com/tag/network)连接相关的信息，但那只是这个强大而又鲜为人知的应用的第一步。将这个工具称之为lsof真实名副其实，因为它是指“**列出打开文件（lists openfiles）**”。而有一点要切记，在Unix中一切（包括网络套接口）都是文件。

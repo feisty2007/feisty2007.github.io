@@ -7,10 +7,10 @@ tags:	[linuxcn,GitHub,IP,隐私]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/24/174712e6n7q26aq2an222a.jpg)
+![](/Asserts/Images/album/202208/24/174712e6n7q26aq2an222a.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/24/174723fcg1vm8l8zst1qm8.jpg)
+![](/Asserts/Images/album/202208/24/174723fcg1vm8l8zst1qm8.jpg)
 
 
 ### Tornado Cash 代码在 GitHub 上重新上传
@@ -35,7 +35,7 @@ tags:	[linuxcn,GitHub,IP,隐私]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/24/174737fv5wyv6p31wphvth.jpg)
+![](/Asserts/Images/album/202208/24/174737fv5wyv6p31wphvth.jpg)
 
 
 ### 亚马逊使用为将来保留的 IPv4 240/4 地址段
@@ -60,7 +60,7 @@ tags:	[linuxcn,GitHub,IP,隐私]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/24/174811cpb6rz7cee0wpqyp.jpg)
+![](/Asserts/Images/album/202208/24/174811cpb6rz7cee0wpqyp.jpg)
 
 
 ### 美科技巨头收集了大量用户数据，谷歌最多

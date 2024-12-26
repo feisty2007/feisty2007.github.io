@@ -105,16 +105,16 @@ UbuTricks是一个有简单界面，基于Zenity的图形脚本。虽然早期�
 ### 截图
 
 
-![](/Asserts/Images//attachment/album/201412/02/104953kunhn7tsggyz5yzj.png)
+![](/Asserts/Images/album/201412/02/104953kunhn7tsggyz5yzj.png)
 
 
-![](/Asserts/Images//attachment/album/201412/02/104956j1ef2s24ah1wcae2.png)
+![](/Asserts/Images/album/201412/02/104956j1ef2s24ah1wcae2.png)
 
 
-![](/Asserts/Images//attachment/album/201412/02/104958lv0vzc0osx8k0n0v.png)
+![](/Asserts/Images/album/201412/02/104958lv0vzc0osx8k0n0v.png)
 
 
-![](/Asserts/Images//attachment/album/201412/02/105000f7i709suxits5ia0.png)
+![](/Asserts/Images/album/201412/02/105000f7i709suxits5ia0.png)
 
 
 

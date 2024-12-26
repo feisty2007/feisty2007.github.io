@@ -46,7 +46,7 @@ sudo gedit /etc/lightdm/lightdm.conf.d/50-unity-greeter.conf
 greeter-show-manual-login=true
 ```
 
- ![](/Asserts/Images//attachment/album/201310/22/155812ow8qxgwwfhehw5w7.png)
+ ![](/Asserts/Images/album/201310/22/155812ow8qxgwwfhehw5w7.png)
 
 
 保存并重启电脑。
@@ -58,7 +58,7 @@ greeter-show-manual-login=true
 修改完后，在登录界面，你就可以输入root帐号和相应的密码然后登录系统了。
 
 
- ![](/Asserts/Images//attachment/album/201310/22/155812q325asnaz9ass2hd.png)
+ ![](/Asserts/Images/album/201310/22/155812q325asnaz9ass2hd.png)
 
 
 如果你想锁定/禁用root帐号，使用下面的命令

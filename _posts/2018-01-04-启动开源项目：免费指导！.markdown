@@ -7,7 +7,7 @@ tags:	[linuxcn,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/27/113922v59x9hx61pdhkgch.jpg)
+![](/Asserts/Images/album/201801/27/113922v59x9hx61pdhkgch.jpg)
 
 
 启动项目、组建社区支持可能会比较复杂，但是这个全新的指南可以帮助你开启开源项目。

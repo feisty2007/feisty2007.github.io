@@ -15,7 +15,7 @@ tags:	[linuxcn,Debian]
 > 
 
 
-![](/Asserts/Images//attachment/album/202108/18/135936o5p78929hp6jy9hr.png)
+![](/Asserts/Images/album/202108/18/135936o5p78929hp6jy9hr.png)
 
 
 期待已久的代号为 “Bullseye” 的 Debian 11 版本在经过两年的开发后终于来了。该版本将在未来五年内得到支持，就像任何其他的 Debian 稳定版版本一样。
@@ -30,19 +30,19 @@ tags:	[linuxcn,Debian]
 Debian 11 带有一个新的 “Homeworld” 主题。它的灵感来自 [包豪斯运动](https://mymodernmet.com/what-is-bauhaus-art-movement/)，这是一种 20 世纪初诞生于德国的艺术风格，其特点是对建筑和设计的独特处理。
 
 
-![Debian 11 的默认壁纸](/Asserts/Images//attachment/album/202108/18/135937wh8zl25alsd1px44.png)
+![Debian 11 的默认壁纸](/Asserts/Images/album/202108/18/135937wh8zl25alsd1px44.png)
 
 
 在 Debian 11 中，无论是在登录界面、安装程序还是 Grub 菜单上，你都会看到这个主题。
 
 
-![Grub 屏幕](/Asserts/Images//attachment/album/202108/18/135937kasnwkfxjnkjscms.png)
+![Grub 屏幕](/Asserts/Images/album/202108/18/135937kasnwkfxjnkjscms.png)
 
 
-![安装程序](/Asserts/Images//attachment/album/202108/18/135938w4652ymvm3m34yv5.png)
+![安装程序](/Asserts/Images/album/202108/18/135938w4652ymvm3m34yv5.png)
 
 
-![登录屏幕](/Asserts/Images//attachment/album/202108/18/135938zh02tbrhhohjh08t.png)
+![登录屏幕](/Asserts/Images/album/202108/18/135938zh02tbrhhohjh08t.png)
 
 
 ### 2、较新版本的桌面环境

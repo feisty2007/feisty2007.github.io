@@ -7,7 +7,7 @@ tags:	[linuxcn,Neovim,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/01/173733iav3pvd88htv38vt.jpg)
+![](/Asserts/Images/album/202304/01/173733iav3pvd88htv38vt.jpg)
 
 
 
@@ -27,7 +27,7 @@ Vim 也是 Vi 的一个复刻，这使得 Neovim 成为复刻的复刻。所以�
 ### Neovim 概述
 
 
-![](/Asserts/Images//attachment/album/202304/01/173735giaq9b1z6u66diw8.png)
+![](/Asserts/Images/album/202304/01/173735giaq9b1z6u66diw8.png)
 
 
 [Neovim](https://neovim.io/?ref=itsfoss.com) 是一个以其简单的维护和社区贡献而闻名的项目。此外，开发工作很好地分配在多个开发人员之间。
@@ -79,7 +79,7 @@ Vim 也是 Vi 的一个复刻，这使得 Neovim 成为复刻的复刻。所以�
 要在 Ubuntu 上安装 Neovim，只需单击停靠区中的 Ubuntu 软件图标。然后，搜索 Neovim。你可以根据自己的喜好选择 Snap 或 deb 版本。但是，deb 包版本是过时的 Neovim 版本。
 
 
-![neovim listed on ubuntu software center](/Asserts/Images//attachment/album/202304/01/173736ovjid66hhd9ldv1b.png)
+![neovim listed on ubuntu software center](/Asserts/Images/album/202304/01/173736ovjid66hhd9ldv1b.png)
 
 
 如果你不想要 Snap 版本，你可以从 [Neovim 的 Github 发布页](https://github.com/neovim/neovim/releases/tag/stable?ref=itsfoss.com) 获取最新的 deb 文件。如果你仔细查看发布页面，还有一个 Appimage 文件。
@@ -142,7 +142,7 @@ sudo snap install nvim --classic
 要在安装完成后使用 Neovim，只需从应用菜单启动它，方法是按超级键并输入 `neovim`。这将打开一个带有 Neovim 的终端窗口。
 
 
-![](/Asserts/Images//attachment/album/202304/01/173736f23pvvzcv3zvwc6n.png)
+![](/Asserts/Images/album/202304/01/173736f23pvvzcv3zvwc6n.png)
 
 
 或者你可以打开你选择的任何终端仿真器并输入以下命令：
@@ -166,7 +166,7 @@ sudo nvim /etc/fstab
 现在 fstab 文件将被打开，如下面的截图所示：
 
 
-![](/Asserts/Images//attachment/album/202304/01/173737zs5655ds6507ivod.png)
+![](/Asserts/Images/album/202304/01/173737zs5655ds6507ivod.png)
 
 
 如果你无法退出编辑器，请不要担心，按下 `Shift+Z+Z`。例如，如果此快捷键令人困惑，请使用你需要的键在任何文本编辑器中输入大写的 `ZZ` 就明白了。

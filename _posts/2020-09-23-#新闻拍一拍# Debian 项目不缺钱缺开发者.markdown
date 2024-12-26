@@ -7,7 +7,7 @@ tags:	[linuxcn,Debian,勒索病毒,Windows]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/12/133552odk2a2fk9t5rw9a9.jpg)
+![](/Asserts/Images/album/202009/12/133552odk2a2fk9t5rw9a9.jpg)
 
 
 #### Debian 项目不缺钱缺开发者

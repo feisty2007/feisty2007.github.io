@@ -7,7 +7,7 @@ tags:	[linuxcn,zram,交换空间]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/28/113826twvkkbrso9ws2kss.jpg)
+![](/Asserts/Images/album/202301/28/113826twvkkbrso9ws2kss.jpg)
 
 
 

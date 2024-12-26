@@ -7,10 +7,10 @@ tags:	[linuxcn,Teams,电信设备,在线追踪,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/08/194936v7yyigpoauvyug1j.jpg)
+![](/Asserts/Images/album/202302/08/194936v7yyigpoauvyug1j.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/08/194933lrsbeeq8nal0wik0.jpg)
+![](/Asserts/Images/album/202302/08/194933lrsbeeq8nal0wik0.jpg)
 
 
 ### 如果不付费，微软将清除 Teams 免费用户的数据
@@ -35,7 +35,7 @@ tags:	[linuxcn,Teams,电信设备,在线追踪,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/08/194934o4b36vpvwtybbn4n.jpg)
+![](/Asserts/Images/album/202302/08/194934o4b36vpvwtybbn4n.jpg)
 
 
 ### 中国将停止对固定电话、寻呼机、传真机等的入网认证
@@ -60,7 +60,7 @@ tags:	[linuxcn,Teams,电信设备,在线追踪,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/08/194946r6chctfvsvhhy0x6.jpg)
+![](/Asserts/Images/album/202302/08/194946r6chctfvsvhhy0x6.jpg)
 
 
 ### 很少有人了解在线追踪的运作方式

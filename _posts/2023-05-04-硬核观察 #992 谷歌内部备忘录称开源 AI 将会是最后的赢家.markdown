@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,开源,X.Org]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/05/204856dlqt8n7wzjlnw3qq.jpg)
+![](/Asserts/Images/album/202305/05/204856dlqt8n7wzjlnw3qq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/05/204908r5o8w042zoz2oomf.jpg)
+![](/Asserts/Images/album/202305/05/204908r5o8w042zoz2oomf.jpg)
 
 
 ### 谷歌内部备忘录称开源 AI 将会是最后的赢家
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,开源,X.Org]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/05/204919hs1j6sfnhssgljs6.jpg)
+![](/Asserts/Images/album/202305/05/204919hs1j6sfnhssgljs6.jpg)
 
 
 ### 谷歌将选择性的发表 AI 论文
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,开源,X.Org]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/05/204934n5pl9qrlf77o825b.jpg)
+![](/Asserts/Images/album/202305/05/204934n5pl9qrlf77o825b.jpg)
 
 
 ### X.Org 基金会接受 SFC 的管理

@@ -7,7 +7,7 @@ tags:	[linuxcn,MacBook,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/13/093018sq8zzov78cqoc7f5.jpg)
+![](/Asserts/Images/album/201707/13/093018sq8zzov78cqoc7f5.jpg)
 
 
 （写本文时）距离 Fedora 26 测试版发布已有几天，我认为是时候把它安装在我的 13 寸 MacBook Air 上了。
@@ -40,7 +40,7 @@ dd if=/home/rob/Downloads/Fedora-Workstation-Live-x86_64-26_Beta-1.4.iso of=/dev
 接下来，我关掉 MacBook，等待 5 秒后将它重新启动。在按下电源键后，我按住 “option” 键来呼出启动选项。我的选择如下图：
 
 
-![macbook-air-fedora.jpg](/Asserts/Images//attachment/album/201707/13/093049rtvs3iiicl3b3vb9.jpg)
+![macbook-air-fedora.jpg](/Asserts/Images/album/201707/13/093049rtvs3iiicl3b3vb9.jpg)
 
 
 点击 “fedora” 下面的箭头进入安装过程。

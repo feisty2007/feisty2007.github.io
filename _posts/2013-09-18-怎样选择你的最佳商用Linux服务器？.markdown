@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux服务器,Debian,Gentoo,CentOS,openSUSE]
 所谓适合你的商用Linux服务器，可能只是符合你的职员水准的服务器。
 
 
-![penguins](/Asserts/Images//attachment/album/201309/18/110656w2m6k2hbofo5smmh.jpg)
+![penguins](/Asserts/Images/album/201309/18/110656w2m6k2hbofo5smmh.jpg)
 供图： flickr/Pete
 
 

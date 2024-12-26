@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,龙芯,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/16/194008yr98fagng9m27zgg.jpg)
+![](/Asserts/Images/album/202308/16/194008yr98fagng9m27zgg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/16/194020zg7uvgc8ju67vxg1.jpg)
+![](/Asserts/Images/album/202308/16/194020zg7uvgc8ju67vxg1.jpg)
 
 
 ### Firefox 庆祝在过时的 JavaScript 基准中超越 Chrome
@@ -35,7 +35,7 @@ tags:	[linuxcn,Firefox,龙芯,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/16/194044j447pas624aa16pp.jpg)
+![](/Asserts/Images/album/202308/16/194044j447pas624aa16pp.jpg)
 
 
 ### LoongArch Loong64 加入新的 Debian Port
@@ -60,7 +60,7 @@ tags:	[linuxcn,Firefox,龙芯,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/16/194058fmqpkemkikeqkxxq.jpg)
+![](/Asserts/Images/album/202308/16/194058fmqpkemkikeqkxxq.jpg)
 
 
 ### OpenAI 希望 GPT-4 解决大规模内容审核问题

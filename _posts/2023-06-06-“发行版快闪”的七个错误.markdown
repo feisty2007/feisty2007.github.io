@@ -7,7 +7,7 @@ tags:	[linuxcn,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/28/000715m07zf8w9fttqiws0.jpg)
+![](/Asserts/Images/album/202306/28/000715m07zf8w9fttqiws0.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,发行版]
 ### 1、不进行备份
 
 
-![备份发行版](/Asserts/Images//attachment/album/202306/28/000750kkoqqmnxdoczoomr.png)
+![备份发行版](/Asserts/Images/album/202306/28/000750kkoqqmnxdoczoomr.png)
 
 
 嗯，你想要更换发行版，由于过于兴奋，你毫不犹豫就切换了。
@@ -48,7 +48,7 @@ tags:	[linuxcn,发行版]
 ### 2、不检查显卡的驱动支持
 
 
-![显卡](/Asserts/Images//attachment/album/202306/28/000750ab2bypx4x8bw4bw2.png)
+![显卡](/Asserts/Images/album/202306/28/000750ab2bypx4x8bw4bw2.png)
 
 
 用户常常忽略发行版与其系统中的显卡的兼容性，而抱怨发行版有问题。
@@ -66,7 +66,7 @@ tags:	[linuxcn,发行版]
 ### 3、抱有过高期望
 
 
-![一个用户交叉手指，希望最好的结果](/Asserts/Images//attachment/album/202306/28/000750q0jb7zm7lbabvb4k.png)
+![一个用户交叉手指，希望最好的结果](/Asserts/Images/album/202306/28/000750q0jb7zm7lbabvb4k.png)
 
 
 没有谁能完美地挑选出你需要和你可能喜欢的东西。
@@ -141,7 +141,7 @@ tags:	[linuxcn,发行版]
 ### 6、更换日常工具
 
 
-![日常工具](/Asserts/Images//attachment/album/202306/28/000751whzf3fy35zlrzfyb.png)
+![日常工具](/Asserts/Images/album/202306/28/000751whzf3fy35zlrzfyb.png)
 
 
 除了发行版，一些用户还更换了他们每天使用的工具。

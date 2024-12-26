@@ -7,7 +7,7 @@ tags:	[linuxcn,yay,错误修复]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/07/144052x9tpvo93zhthdh6x.jpg)
+![](/Asserts/Images/album/202206/07/144052x9tpvo93zhthdh6x.jpg)
 
 
 
@@ -33,7 +33,7 @@ yay: error while loading shared libraries: libalpm.so.12: cannot open shared obj
 这个错误特别是在升级到 pacman 6.0 后出现的，因为共享库不兼容。
 
 
-![error while loading shared libraries - yay](/Asserts/Images//attachment/album/202206/07/144111roz7e1f3i3vhwfj3.jpg)
+![error while loading shared libraries - yay](/Asserts/Images/album/202206/07/144111roz7e1f3i3vhwfj3.jpg)
 
 
 ### 如何解决 “yay: error while loading shared libraries: libalpm.so.12”

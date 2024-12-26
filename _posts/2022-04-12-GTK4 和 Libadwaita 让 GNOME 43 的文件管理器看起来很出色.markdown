@@ -7,7 +7,7 @@ tags:	[linuxcn,文件管理器,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/07/163919x7t2hbblzmthmjfk.jpg)
+![](/Asserts/Images/album/202204/07/163919x7t2hbblzmthmjfk.jpg)
 
 
 
@@ -42,10 +42,10 @@ GNOME “文件” v43 将在 2022 年晚些时候与 GNOME 43 一起发布，�
 下面是 v43（左）和 v42（右）的深浅模式的快速比较。
 
 
-![GNOME Files 43 and 42 – Light Mode Comparison](/Asserts/Images//attachment/album/202204/07/163939hn1u8fjxomp9dgcg.jpg)
+![GNOME Files 43 and 42 – Light Mode Comparison](/Asserts/Images/album/202204/07/163939hn1u8fjxomp9dgcg.jpg)
 
 
-![GNOME Files 43 and 42 – Dark Mode Comparison](/Asserts/Images//attachment/album/202204/07/163939npqa5xdrypd8nq85.jpg)
+![GNOME Files 43 and 42 – Dark Mode Comparison](/Asserts/Images/album/202204/07/163939npqa5xdrypd8nq85.jpg)
 
 
 地址栏的文件夹分隔符保持不变。然而，字体却有了些许润色。地址栏的上下文菜单改变了，“<ruby> 在终端打开 <rt>  Open in Terminal </rt></ruby>”选项没有了。取而代之的是 “<ruby> 在其它应用中打开 <rt>  Open in Other application </rt></ruby>” 菜单。引入了一个新的选项 “<ruby> 创建链接 <rt>  Create Link </rt></ruby>”。我想许多用户会怀念 “在终端打开” 的选项。
@@ -59,19 +59,19 @@ GNOME “文件” v43 将在 2022 年晚些时候与 GNOME 43 一起发布，�
 > 
 
 
-![New option in address bar menu](/Asserts/Images//attachment/album/202204/07/163939ybkcuzacbscufgwb.jpg)
+![New option in address bar menu](/Asserts/Images/album/202204/07/163939ybkcuzacbscufgwb.jpg)
 
 
 另一个重要的变化是你应该注意到两个主工具条菜单：a）视图按钮和 b）汉堡主菜单。这些上下文菜单项显示了菜单项及键盘快捷键。这也使它们看起来更显眼一些。
 
 
-![The Hamburger menu now have keyboard shortcuts](/Asserts/Images//attachment/album/202204/07/163939qrskcnnqfg71rnio.jpg)
+![The Hamburger menu now have keyboard shortcuts](/Asserts/Images/album/202204/07/163939qrskcnnqfg71rnio.jpg)
 
 
 文件夹的上下文菜单现在有一个向上的小箭头，指向从它弹出的文件夹。文件夹的右键上下文菜单以组为单位组织得很好。例如，打开动作是分组的，而剪切、复制、粘贴在上下文菜单中以横杠的形式明显分开。
 
 
-![Context Menu for folder changes](/Asserts/Images//attachment/album/202204/07/163939coplpegg3olw225b.jpg)
+![Context Menu for folder changes](/Asserts/Images/album/202204/07/163939coplpegg3olw225b.jpg)
 
 
 我还注意到一个新的选项 “<ruby> 粘贴到该文件夹 <rt>  Paste into the folder </rt></ruby>”，这个很好。
@@ -91,7 +91,7 @@ Nautilus 搜索几乎与 “文件” v42 相同，只是在 “文件” v43 �
 > 
 
 
-![A subtle change in context menu for file association](/Asserts/Images//attachment/album/202204/07/163940la6o4i2vrmckux4a.jpg)
+![A subtle change in context menu for file association](/Asserts/Images/album/202204/07/163940la6o4i2vrmckux4a.jpg)
 
 
 所以，这就是我在这个应用的新 GTK4 版本中发现的整体变化。但它看起来不错？不是吗。此外，如果你是直接从 Ubuntu 20.04 LTS 来的，其中包含 “文件” 3.38，那么也许你的体验会是“哇”！如果你将 “文件” v43 与 “文件” v3.38 进行比较，大部分区域都发生了变化。对于这些用户来说，这将是一个相当不错的体验。

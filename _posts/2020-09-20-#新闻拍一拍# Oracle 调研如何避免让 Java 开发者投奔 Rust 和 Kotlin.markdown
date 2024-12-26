@@ -7,7 +7,7 @@ tags:	[linuxcn,Java,英特尔,ARM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/21/103412lcbzd13ukn2fe45t.jpg)
+![](/Asserts/Images/album/202009/21/103412lcbzd13ukn2fe45t.jpg)
 
 
 #### Oracle 调研如何避免让 Java 开发者投奔 Rust 和 Kotlin

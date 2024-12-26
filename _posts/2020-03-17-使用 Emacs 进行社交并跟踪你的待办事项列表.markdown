@@ -15,7 +15,7 @@ tags:	[linuxcn,Emacs]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/04/100911lg2vrv92692b422y.jpg)
+![](/Asserts/Images/album/202003/04/100911lg2vrv92692b422y.jpg)
 
 
 去年，我在 19 天里给你介绍了 19 个新（对你而言）的生产力工具。今年，我换了一种方式：使用你在使用或者还没使用的工具，构建一个使你可以在新一年更加高效的环境。
@@ -27,7 +27,7 @@ tags:	[linuxcn,Emacs]
 [昨天](/article-11932-1.html)，我谈到了如何在 Emacs 中读取电子邮件、访问电子邮件地址和显示日历。Emacs 功能繁多，你还可以将它用于 Twitter、交谈、待办事项列表等等！
 
 
-![在 Emacs 中处理所有事情](/Asserts/Images//attachment/album/202003/04/100939ces7fy6vk2y7s2sh.png "All the things with Emacs")
+![在 Emacs 中处理所有事情](/Asserts/Images/album/202003/04/100939ces7fy6vk2y7s2sh.png "All the things with Emacs")
 
 
 要完成所有这些，你需要安装一些 Emacs 包。和昨天一样，用 `Meta+x package-manager` 打开 Emacs 包管理器（Meta 键在大多数键盘上是 `Alt`，在 MacOS 上是 `Option`）。然后通过 `i` 选择以下带有的软件包，然后输入 `x` 进行安装：
@@ -64,7 +64,7 @@ twittering-mode
 #### 使用 twittering-mode 在 Emacs 中发推
 
 
-![Emacs 中的 Twitter](/Asserts/Images//attachment/album/202003/04/101001tgajr7z5r5a6truj.png "Twitter in Emacs")
+![Emacs 中的 Twitter](/Asserts/Images/album/202003/04/101001tgajr7z5r5a6truj.png "Twitter in Emacs")
 
 
 [Twittering-mode](https://github.com/hayamiz/twittering-mode) 是 Twitter 最好的 Emacs 接口之一。它几乎支持 Twitter 的所有功能，并且键盘快捷键也易于使用。
@@ -82,7 +82,7 @@ twitter-mode 还有更多功能，我鼓励你阅读它 GitHub 页面上的[完�
 #### 在 Emacs 上使用 Todotxt.el 追踪你的待办事项
 
 
-![Emacs 中的 todo.txt](/Asserts/Images//attachment/album/202003/04/101003aedzjsujs0k2sje0.png "todo.txt in emacs")
+![Emacs 中的 todo.txt](/Asserts/Images/album/202003/04/101003aedzjsujs0k2sje0.png "todo.txt in emacs")
 
 
 [Todotxt.el](https://github.com/rpdillon/todotxt.el) 是一个很棒的 [todo.txt](http://todotxt.org/) 待办列表管理器接口。它的快捷键几乎无所不包。
@@ -94,7 +94,7 @@ twitter-mode 还有更多功能，我鼓励你阅读它 GitHub 页面上的[完�
 #### 在 Emacs 中使用 ERC 进行交谈
 
 
-![使用 ERC 与人交谈 ](/Asserts/Images//attachment/album/202003/04/101022q7bjtzmbrjuj9jce.png "Chatting with erc")
+![使用 ERC 与人交谈 ](/Asserts/Images/album/202003/04/101022q7bjtzmbrjuj9jce.png "Chatting with erc")
 
 
 Vim 的缺点之一是很难用它与人交谈。另一方面，Emacs 则将 [ERC](https://www.gnu.org/software/emacs/manual/html_mono/erc.html) 客户端内置到默认发行版中。使用 `Meta+x ERC` 启动 ERC，系统将提示你输入服务器、用户名和密码。你可以使用几天前介绍设置 [BitlBee](/article-11856-1.html) 时使用的相同信息：服务器为 `localhost`，端口为 `6667`，相同用户名，无需密码。
@@ -106,7 +106,7 @@ ERC 使用起来与其他 IRC 客户端一样。每个频道单独一个缓冲�
 #### 使用 Gnus 阅读电子邮件，Reddit 和 RSS
 
 
-![Mail，Reddit，and RSS feeds with Gnus](/Asserts/Images//attachment/album/202003/04/101042t8gt1phazatgfoaz.png "Mail, Reddit, and RSS feeds with Gnus")
+![Mail，Reddit，and RSS feeds with Gnus](/Asserts/Images/album/202003/04/101042t8gt1phazatgfoaz.png "Mail, Reddit, and RSS feeds with Gnus")
 
 
 我相信昨天在我提及在 Emacs 中阅读邮件时，许多 Emacs 的老用户会问，“怎么没有 [Gnus](https://www.gnus.org/) 呢？”

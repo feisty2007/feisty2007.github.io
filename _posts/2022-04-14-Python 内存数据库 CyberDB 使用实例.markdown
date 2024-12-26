@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,内存数据库,CyberDB]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/04/125600vvprv1d98vffbfrv.jpg)
+![](/Asserts/Images/album/202204/04/125600vvprv1d98vffbfrv.jpg)
 
 
 ### 概括

@@ -7,10 +7,10 @@ tags:	[linuxcn,打印机,AI,电子支付]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/21/193753feaiazakk7nlawbx.jpg)
+![](/Asserts/Images/album/202305/21/193753feaiazakk7nlawbx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/21/193805u5euobztzdpk5ddb.jpg)
+![](/Asserts/Images/album/202305/21/193805u5euobztzdpk5ddb.jpg)
 
 
 ### 拥有最多电子支付的国家是印度
@@ -35,7 +35,7 @@ tags:	[linuxcn,打印机,AI,电子支付]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/21/193818xbguoydqhsuiksnd.jpg)
+![](/Asserts/Images/album/202305/21/193818xbguoydqhsuiksnd.jpg)
 
 
 ### 惠普禁止使用第三方墨盒的固件更新导致打印机瘫痪
@@ -60,7 +60,7 @@ tags:	[linuxcn,打印机,AI,电子支付]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/21/193845j2f9jxdfdla46z4m.jpg)
+![](/Asserts/Images/album/202305/21/193845j2f9jxdfdla46z4m.jpg)
 
 
 ### 谷歌批评 Meta 开源 AI LLaMA 的做法

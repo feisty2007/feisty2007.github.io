@@ -15,7 +15,7 @@ tags:	[linuxcn,边缘计算]
 > 
 
 
-![iStock](/Asserts/Images//attachment/album/201906/03/173756uqeep7u9e3353zbg.jpg)
+![iStock](/Asserts/Images/album/201906/03/173756uqeep7u9e3353zbg.jpg)
 
 
 法国 IT 巨头 Atos 是最近才开展边缘计算业务的，他们的产品是一个叫做 BullSequana Edge 的小型设备。和竞争对手们的集装箱大小的设备不同（比如说 Vapor IO 和 Schneider Electronics 的产品），Atos 的边缘设备完全可以被放进衣柜里。
@@ -24,7 +24,7 @@ tags:	[linuxcn,边缘计算]
 Atos 表示，他们的这个设备使用人工智能应用提供快速响应，适合需要快速响应的领域比如生产 4.0、自动驾驶汽车、健康管理，以及零售业和机场的安保系统。在这些领域，数据需要在边缘进行实时处理和分析。
 
 
-[延伸阅读：[什么是边缘计算？](https://www.networkworld.com/article/3224893/internet-of-things/what-is-edge-computing-and-how-it-s-changing-the-network.html) 以及 [边缘网络和物联网如何重新定义数据中心](https://www.networkworld.com/article/3291790/Asserts/Images/-center/how-edge-networking-and-iot-will-reshape-data-centers.html)]
+[延伸阅读：[什么是边缘计算？](https://www.networkworld.com/article/3224893/internet-of-things/what-is-edge-computing-and-how-it-s-changing-the-network.html) 以及 [边缘网络和物联网如何重新定义数据中心](https://www.networkworld.com/article/3291790/data-center/how-edge-networking-and-iot-will-reshape-data-centers.html)]
 
 
 BullSequana Edge 可以作为独立的基础设施单独采购，也可以和 Atos 的边缘软件捆绑采购，并且这个软件还是非常出色的。Atos 表示 BullSequana Edge 主要支持三种使用场景：
@@ -50,7 +50,7 @@ Atos 在美国也许不是一个家喻户晓的名字，但是在欧洲它可以
 关于边缘网络的延伸阅读：
 
 
-* [边缘网络和物联网如何重新定义数据中心](https://www.networkworld.com/article/3291790/Asserts/Images/-center/how-edge-networking-and-iot-will-reshape-data-centers.html)
+* [边缘网络和物联网如何重新定义数据中心](https://www.networkworld.com/article/3291790/data-center/how-edge-networking-and-iot-will-reshape-data-centers.html)
 * [边缘计算的最佳实践](https://www.networkworld.com/article/3331978/lan-wan/edge-computing-best-practices.html)
 * [边缘计算如何提升物联网安全](https://www.networkworld.com/article/3331905/internet-of-things/how-edge-computing-can-help-secure-the-iot.html)
 

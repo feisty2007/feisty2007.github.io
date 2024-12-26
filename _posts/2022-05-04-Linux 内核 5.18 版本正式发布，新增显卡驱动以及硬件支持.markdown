@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux 内核,Linux]
 > 
 
 
-![Linux kernel 5.18 release](/Asserts/Images//attachment/album/202205/27/102212paqcgpviihhzpipc.png)
+![Linux kernel 5.18 release](/Asserts/Images/album/202205/27/102212paqcgpviihhzpipc.png)
 
 
 [Linux 5.17 内核](https://news.itsfoss.com/linux-kernel-5-17-release/) 发布时包含了对下一代硬件的支持，同时增强了 Steam Deck 的游戏体验。
@@ -48,7 +48,7 @@ tags:	[linuxcn,Linux 内核,Linux]
 #### AMD 显卡特性 FreeSync 模式被默认开启
 
 
-![](/Asserts/Images//attachment/album/202205/27/102213izc1h9sjzjgzsjkc.jpg)
+![](/Asserts/Images/album/202205/27/102213izc1h9sjzjgzsjkc.jpg)
 
 
 虽然对 FreeSync 视频的支持足够好，但这只是改善 FreeSync 显示器用户体验的一个临时解决方案。
@@ -69,7 +69,7 @@ tags:	[linuxcn,Linux 内核,Linux]
 #### 从 C89 标准升级到 C11 标准（GNU11）
 
 
-![](/Asserts/Images//attachment/album/202205/27/102213iqhfkbn50riqr5kf.jpg)
+![](/Asserts/Images/album/202205/27/102213iqhfkbn50riqr5kf.jpg)
 
 
 在 Linux 内核中使用的是 C89 C 语言标准，在当前已经稍显老旧并且缺失了许多十分必要的新特性。
@@ -84,7 +84,7 @@ tags:	[linuxcn,Linux 内核,Linux]
 Linux 内核 5.18 增加了对新的无线硬件的支持，这包括联发科 MT7916、MT7921U 和博通 BCM43454/6。
 
 
-![](/Asserts/Images//attachment/album/202205/27/102213p6eymwygl6gbbeee.jpg)
+![](/Asserts/Images/album/202205/27/102213p6eymwygl6gbbeee.jpg)
 
 
 针对移动设备的改进也包括对英特尔 M.2 WWAN 卡的支持。
@@ -111,7 +111,7 @@ Xen USB 驱动程序进行了改进，以抵御恶意主设备，USB DWC3 驱动
 #### 增强对苹果键盘以及平板的支持
 
 
-![](/Asserts/Images//attachment/album/202205/27/102213ytaxr9cq0hihhh1w.jpg)
+![](/Asserts/Images/album/202205/27/102213ytaxr9cq0hihhh1w.jpg)
 
 
 当前版本针对苹果妙控键盘（包含第一代型号）的使用体验进行了优化。
@@ -129,7 +129,7 @@ Linux 内核 5.18 改进了输入处理，在平板电脑上输入将变得更�
 #### ARM 架构芯片的支持（特斯拉 FSD，树莓派 Zero 2 W）
 
 
-![](/Asserts/Images//attachment/album/202205/27/102214xbsygbqpbs2tgg72.jpg)
+![](/Asserts/Images/album/202205/27/102214xbsygbqpbs2tgg72.jpg)
 
 
 Linux 内核 5.18 现在支持特斯拉的全套自动驾驶 SoC。三星工程师将其贡献到了 Linux 内核上游。

@@ -7,10 +7,10 @@ tags:	[linuxcn,DOOM,算法,.NET]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/17/190455k40c0ef0w6c1hefj.jpg)
+![](/Asserts/Images/album/202208/17/190455k40c0ef0w6c1hefj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/17/190503juxpyue1rfq8t8xq.jpg)
+![](/Asserts/Images/album/202208/17/190503juxpyue1rfq8t8xq.jpg)
 
 
 ### 无处不在的 DOOM，这次是拖拉机
@@ -35,7 +35,7 @@ tags:	[linuxcn,DOOM,算法,.NET]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/17/190523no0iidduxixxx0oe.jpg)
+![](/Asserts/Images/album/202208/17/190523no0iidduxixxx0oe.jpg)
 
 
 ### 中国主要互联网公司向网信办备案算法
@@ -60,7 +60,7 @@ tags:	[linuxcn,DOOM,算法,.NET]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/17/190537jpdon6rl9swzktk6.jpg)
+![](/Asserts/Images/album/202208/17/190537jpdon6rl9swzktk6.jpg)
 
 
 ### 微软为 Ubuntu 22.04 LTS 提供原生 .NET 6 支持

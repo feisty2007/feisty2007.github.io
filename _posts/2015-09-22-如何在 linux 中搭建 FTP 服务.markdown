@@ -7,7 +7,7 @@ tags:	[linuxcn,FTP,vsftp]
 ---
 
 
-![](/Asserts/Images//attachment/album/201509/24/130437firsiuie7bffze13.jpg)
+![](/Asserts/Images/album/201509/24/130437firsiuie7bffze13.jpg)
 
 
 在本教程中，我将会介绍如何搭建你自己的FTP服务。但是，首先我们应该来的学习一下FTP是什么。

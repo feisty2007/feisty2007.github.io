@@ -7,7 +7,7 @@ tags:	[linuxcn,Kali Linux,网络安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/27/165511yjy55jij65zp0j67.jpg)
+![](/Asserts/Images/album/202305/27/165511yjy55jij65zp0j67.jpg)
 
 
 
@@ -32,7 +32,7 @@ Kali Linux 是一个流行的 Linux 发行版，广泛应用于网络安全领�
 ### Kali Linux 简介
 
 
-![Kali Linux with Xfce Desktop Environment](/Asserts/Images//attachment/album/202305/27/165556jzbudja8l08ojujo.jpg)
+![Kali Linux with Xfce Desktop Environment](/Asserts/Images/album/202305/27/165556jzbudja8l08ojujo.jpg)
 
 
 在核心层面上，Kali Linux 是基于 [Debian-testing](https://www.debugpoint.com/debian-stable-to-testing/) 分支构建的，专门为网络分析师、渗透测试人员和网络安全专业人员设计。Kali Linux 是由 Offensive Security 维护、Mati Aharoni 和 Devon Kearns 开发的 Debian Linux 衍生发行版。
@@ -47,7 +47,7 @@ Kali Linux 是一个流行的 Linux 发行版，广泛应用于网络安全领�
 Kali Linux 最初发布于 2013 年 3 月，是 BackTrack Linux 的继任者。BackTrack 是一种流行的 Linux 发行版，广泛用于渗透测试和数字取证。它由 Offensive Security 创建，这是一家专门从事信息安全培训和渗透测试服务的网络安全公司。自其最初发布以来，Kali Linux 经过了许多更新和改进，成为最流行的用于安全工作负载的 Linux 发行版。
 
 
-![An older screenshot of BackTrack Linux](/Asserts/Images//attachment/album/202305/27/165605yb9gbnlglb60cz55.jpg)
+![An older screenshot of BackTrack Linux](/Asserts/Images/album/202305/27/165605yb9gbnlglb60cz55.jpg)
 
 
 ### 功能及何时使用 Kali Linux
@@ -97,7 +97,7 @@ Kali Linux 自带了对于安全测试是必不可少的丰富的基本工具，
 Kali Linux 中一些最流行的高级工具包括 Burp Suite、OWASP ZAP、Social Engineering Toolkit（SET）和 Wireshark 等等。这些工具非常复杂，需要高级技能才能有效使用。但是，它们对于进行全面的安全测试是必不可少的，被全球的安全专业人员广泛使用。
 
 
-![Kali Linux Tools](/Asserts/Images//attachment/album/202305/27/165624hqqzp8kg1bgdc4dd.jpg)
+![Kali Linux Tools](/Asserts/Images/album/202305/27/165624hqqzp8kg1bgdc4dd.jpg)
 
 
 你可以在主应用程序菜单中按类别查找工具（如上图所示）。

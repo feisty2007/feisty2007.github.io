@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS]
 Linux 基金会发起了 LFCS 认证 (<ruby> Linux 基金会认证系统管理员 <rp>  （ </rp> <rt>  Linux Foundation Certified Sysadmin </rt> <rp>  ） </rp></ruby>)，这是一个全新的认证体系，旨在让世界各地的人能够参与到中等水平的 Linux 系统的基本管理操作的认证考试中去，这项认证包括：维护正在运行的系统和服务的能力、全面监控和分析的能力以及何时向上游团队请求支持的决策能力。
 
 
-![Basic Shell Scripting and Filesystem Troubleshooting](/Asserts/Images//attachment/album/201607/07/113131b397oa5083nhier9.png)
+![Basic Shell Scripting and Filesystem Troubleshooting](/Asserts/Images/album/201607/07/113131b397oa5083nhier9.png)
 
 
 *LFCS 系列第十讲*
@@ -37,7 +37,7 @@ Linux 基金会发起了 LFCS 认证 (<ruby> Linux 基金会认证系统管理�
 * Terminal 也是一个程序，允许最终用户使用它与 Shell 来交互。比如，下边的图片是 GNOME Terminal。
 
 
-![Gnome Terminal](/Asserts/Images//attachment/album/201607/07/113131fff17ofy1l2qrq7f.png)
+![Gnome Terminal](/Asserts/Images/album/201607/07/113131fff17ofy1l2qrq7f.png)
 
 
 *Gnome Terminal*
@@ -135,7 +135,7 @@ echo $PATH
 当我们输入一个命令并按下回车时，shell 会搜索 $PATH 变量中列出的目录并执行第一个知道的实例。请看如下例子：
 
 
-![Linux Environment Variables](/Asserts/Images//attachment/album/201607/07/113132kzy876lll96yp4bl.png)
+![Linux Environment Variables](/Asserts/Images/album/201607/07/113132kzy876lll96yp4bl.png)
 
 
 *环境变量*
@@ -158,7 +158,7 @@ echo $PATH
 
 ```
 
-![Execute Script in Linux](/Asserts/Images//attachment/album/201607/07/113132wwpzxzw3smlwkwvv.png)
+![Execute Script in Linux](/Asserts/Images/album/201607/07/113132wwpzxzw3smlwkwvv.png)
 
 
 *执行脚本*
@@ -266,7 +266,7 @@ firewalld
 
 ```
 
-![Script to Monitor Linux Services](/Asserts/Images//attachment/album/201607/07/113133xyylkphzmh56mpmf.png)
+![Script to Monitor Linux Services](/Asserts/Images/album/201607/07/113133xyylkphzmh56mpmf.png)
 
 
 *使用脚本监控 Linux 服务*
@@ -293,7 +293,7 @@ done
 
 ```
 
-![Linux Service Monitoring Script](/Asserts/Images//attachment/album/201607/07/113133rsf0o5ojssscfocj.png)
+![Linux Service Monitoring Script](/Asserts/Images/album/201607/07/113133rsf0o5ojssscfocj.png)
 
 
 *Linux 服务监控脚本*
@@ -332,7 +332,7 @@ done
 如果退出状态码是非零值 (即 systemctl status $service 命令中的回显中没有出现 “running”)，则表明某个服务未运行。
 
 
-![Services Monitoring Script](/Asserts/Images//attachment/album/201607/07/113133mir52jqzbzjd5hy5.png)
+![Services Monitoring Script](/Asserts/Images/album/201607/07/113133mir52jqzbzjd5hy5.png)
 
 
 *服务监控脚本*
@@ -384,7 +384,7 @@ done < myhosts
 
 ```
 
-![Script to Ping Servers](/Asserts/Images//attachment/album/201607/07/113134dlvu8v1dglfv8y48.png)
+![Script to Ping Servers](/Asserts/Images/album/201607/07/113134dlvu8v1dglfv8y48.png)
 
 
 *使用脚本 Ping 服务器*
@@ -435,7 +435,7 @@ fsck 的基本用如下：
 
 ```
 
-![Scan Linux Filesystem for Errors](/Asserts/Images//attachment/album/201607/07/113134jzerm3r4m3ytgetz.png)
+![Scan Linux Filesystem for Errors](/Asserts/Images/album/201607/07/113134jzerm3r4m3ytgetz.png)
 
 
 *检查文件系统错误*

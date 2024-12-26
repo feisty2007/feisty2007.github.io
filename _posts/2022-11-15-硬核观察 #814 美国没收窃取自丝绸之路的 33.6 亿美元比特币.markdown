@@ -7,10 +7,10 @@ tags:	[linuxcn,比特币,黑客,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/08/173122fl4z1p045a8c4hwc.jpg)
+![](/Asserts/Images/album/202211/08/173122fl4z1p045a8c4hwc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/08/173131lh541ss243z40a1s.jpg)
+![](/Asserts/Images/album/202211/08/173131lh541ss243z40a1s.jpg)
 
 
 ### 美国没收窃取自丝绸之路的 33.6 亿美元比特币
@@ -35,7 +35,7 @@ tags:	[linuxcn,比特币,黑客,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/08/173141c6bkff0xqkrzv0aq.jpg)
+![](/Asserts/Images/album/202211/08/173141c6bkff0xqkrzv0aq.jpg)
 
 
 ### 被下载了数千次的偷取密码的 Python 软件包
@@ -60,7 +60,7 @@ tags:	[linuxcn,比特币,黑客,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/08/173156oacl92alx95mwqqw.jpg)
+![](/Asserts/Images/album/202211/08/173156oacl92alx95mwqqw.jpg)
 
 
 ### 微软在 Windows 11 的注销菜单中显示广告

@@ -7,7 +7,7 @@ tags:	[linuxcn,复制]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/25/123034xskkcgooxoo7iio4.jpg)  
+![](/Asserts/Images/album/201902/25/123034xskkcgooxoo7iio4.jpg)  
 从一个服务器复制文件到另一个服务器，或者从本地到远程复制是 Linux 管理员的日常任务之一。
 
 

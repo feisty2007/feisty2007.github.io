@@ -7,7 +7,7 @@ tags:	[linuxcn,WSL,滚动发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/08/143014onswyikbnkn3w8zh.jpg)
+![](/Asserts/Images/album/202007/08/143014onswyikbnkn3w8zh.jpg)
 
 
 #### AppGet 作者：WSL 是一个神奇之举

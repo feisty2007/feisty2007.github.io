@@ -7,7 +7,7 @@ tags:	[linuxcn,通证,DAI]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/16/122647ypl8i3y21l2pel38.jpeg)
+![](/Asserts/Images/album/201905/16/122647ypl8i3y21l2pel38.jpeg)
 
 
 
@@ -27,7 +27,7 @@ Maker DAO 系统是由多个智能合约（Sai Tap、Sai Tub、Vox、Medianiser 
 在这篇文章中，我们主要关注通证是如何周转和使用的。下图显示了主要的通证流动周转和智能合约的使用方式，如何将一个通证转换为另一个通证：
 
 
-![Maker DAO Token流动周转和智能合同使用方式](/Asserts/Images//attachment/album/201905/16/122658vyc9h9hxmazbca6a.jpg)
+![Maker DAO Token流动周转和智能合同使用方式](/Asserts/Images/album/201905/16/122658vyc9h9hxmazbca6a.jpg)
 
 
 *Maker DAO 通证流动周转和智能合约的使用方式*
@@ -101,7 +101,7 @@ Maker DAO 系统是由多个智能合约（Sai Tap、Sai Tub、Vox、Medianiser 
 Maker DAO 智能合约有很多的使用方法，下表对其中的主要部分进行了分类：
 
 
-![Maker DAO智能合约使用方法](/Asserts/Images//attachment/album/201905/16/122659l1yj233t82yez3m3.jpg)
+![Maker DAO智能合约使用方法](/Asserts/Images/album/201905/16/122659l1yj233t82yez3m3.jpg)
 
 
 *Maker DAO 智能合约使用方法*
@@ -148,7 +148,7 @@ WETH 解释在 [weth.io](https://weth.io/) 网站上。WETH 被称为“<ruby> �
 这个通证与 Maker DAO 协议于 2017 年 12 月同时发起。请注意，其最大的持有者是 Maker DAO 的智能合约：
 
 
-![WETH 最大持有者](/Asserts/Images//attachment/album/201905/16/122659l2ii5fotnmt02goq.jpg)
+![WETH 最大持有者](/Asserts/Images/album/201905/16/122659l2ii5fotnmt02goq.jpg)
 
 
 *WETH最大持有者*
@@ -157,7 +157,7 @@ WETH 解释在 [weth.io](https://weth.io/) 网站上。WETH 被称为“<ruby> �
 所有者与其他通证的交集还显示了 Maker DAO 通证:
 
 
-![](/Asserts/Images//attachment/album/201905/16/122659val48bamkd5q95yy.jpg)
+![](/Asserts/Images/album/201905/16/122659val48bamkd5q95yy.jpg)
 
 
 *共同持有者相关的令牌，来源: [bloxy.info](https://bloxy.info/token_holders/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)*
@@ -166,7 +166,7 @@ WETH 解释在 [weth.io](https://weth.io/) 网站上。WETH 被称为“<ruby> �
 Maker DAO Sai Tub 智能合约上出现的这种高 WETH 余额，是因为用户将 WETH 存入 Maker DAO 的 Sai Tub 智能合约，以便之后创建 CDP。我们分析了这个过程中动态的 [MakerDAO 仪表板](https://stat.bloxy.info/superset/dashboard/makerdao/?standalone=true):
 
 
-![](/Asserts/Images//attachment/album/201905/16/122700rs5oz6z4h62rqrxi.jpg)
+![](/Asserts/Images/album/201905/16/122700rs5oz6z4h62rqrxi.jpg)
 
 
 *WETH 锁定的金额、存款和取款。来源: bloxy.info [MakerDAO dashboard](https://stat.bloxy.info/superset/dashboard/makerdao/?standalone=true)*
@@ -178,7 +178,7 @@ Maker DAO Sai Tub 智能合约上出现的这种高 WETH 余额，是因为用�
 参与这项活动的人有多少？交易者的数量可以通过唯一地址在 Sai Tub 智能合约上启动的退出/加入交易记录来估计：
 
 
-![](/Asserts/Images//attachment/album/201905/16/122700kimtvgj1ccmtpmek.jpg)
+![](/Asserts/Images/album/201905/16/122700kimtvgj1ccmtpmek.jpg)
 
 
 *在 Maker DAO 智能合约上唯一的地址数、锁定和释放 WETH。来源:bloxy.info [MakerDAO dashboard](https://stat.bloxy.info/superset/dashboard/makerdao/?standalone=true)*
@@ -187,7 +187,7 @@ Maker DAO Sai Tub 智能合约上出现的这种高 WETH 余额，是因为用�
 交易者的行为是由每月锁定和释放的 WETH 数量来呈现的：
 
 
-![](/Asserts/Images//attachment/album/201905/16/122700tcudl2wfl9spjo9u.jpg)
+![](/Asserts/Images/album/201905/16/122700tcudl2wfl9spjo9u.jpg)
 
 
 *每月锁定和释放 WETH 的金额。来源: bloxy.info [MakerDAO dashboard](https://stat.bloxy.info/superset/dashboard/makerdao/?standalone=true)*
@@ -208,7 +208,7 @@ Maker DAO Sai Tub 智能合约上出现的这种高 WETH 余额，是因为用�
 [通证周转工具](http://localhost:3000/token_graphs/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#) 显示 WETH 的主要流量：
 
 
-![](/Asserts/Images//attachment/album/201905/16/122700vlhqlgw6gq1g1bsk.jpg)
+![](/Asserts/Images/album/201905/16/122700vlhqlgw6gq1g1bsk.jpg)
 
 
 *主要的 WETH 周转路线。来源: [bloxy.info](http://localhost:3000/token_graphs/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#)*
@@ -225,7 +225,7 @@ Maker DAO Sai Tub 智能合约上出现的这种高 WETH 余额，是因为用�
 我们拿 DEX（去中心化交易所）上一个最活跃的交易者的 WETH 交易作为例子：
 
 
-![](/Asserts/Images//attachment/album/201905/16/122700kcvfk49981hlqsk7.jpg)
+![](/Asserts/Images/album/201905/16/122700kcvfk49981hlqsk7.jpg)
 
 
 *DEX 上 WETH/DAI 交易对的多方交易。来源: [bloxy.info](https://bloxy.info/tx/0xc538725a76c26695c3fae183bea430bfb86449bc9a066288e52716d22b10f009)*
@@ -234,7 +234,7 @@ Maker DAO Sai Tub 智能合约上出现的这种高 WETH 余额，是因为用�
 WETH 的交易不仅仅是针对 DAI 的交易，以下是 DEX 交易所的前 10 组交易对:
 
 
-![](/Asserts/Images//attachment/album/201905/16/122701ryca7cb6b8eezyjv.jpg)
+![](/Asserts/Images/album/201905/16/122701ryca7cb6b8eezyjv.jpg)
 
 
 *DEX 上的前 10 组 WETH 交易对。来源: [bloxy.info DEX API](https://bloxy.info/api_methods)*
@@ -254,7 +254,7 @@ PETH = WETH * (Total PETH supply) / (WETH balance )
 现在等于 1.04，因为 PETH 的一部分由于债务清算而被销毁。如图所示，这个数字随着时间的推移而增加:
 
 
-![](/Asserts/Images//attachment/album/201905/16/122701t17wthi1crhzltig.jpg)
+![](/Asserts/Images/album/201905/16/122701t17wthi1crhzltig.jpg)
 
 
 *与 PETH/WETH 相关的费率和利润。来源：bloxy.info [MakerDAO dashboard](https://stat.bloxy.info/superset/dashboard/makerdao/?standalone=true)*
@@ -269,7 +269,7 @@ PETH 是不能在 DEX 上进行交易的，似乎只作为 Maker DAO 的基础�
 下面的通证周转显示，主要的 PETH 周转量是 Sai Tub 智能合约之间的互相转移。然后，部分周转量会转到 Sai Tap (在债务清算的情况下)，或者转到系统地址（用于销毁）：
 
 
-![](/Asserts/Images//attachment/album/201905/16/122701d6n0msbnqb0kz01q.jpg)
+![](/Asserts/Images/album/201905/16/122701d6n0msbnqb0kz01q.jpg)
 
 
 *PETH 通证周转。来源：[bloxy.info token flow tool](https://bloxy.info/token_graphs/0xf53ad2c6851052a81b42133467480961b2321c09#)*

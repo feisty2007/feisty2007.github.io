@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果,周五,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/06/201456mcxsaez66r6qxrj6.jpg)
+![](/Asserts/Images/album/202308/06/201456mcxsaez66r6qxrj6.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/06/201510e4ihwkuuu2kj4ikw.jpg)
+![](/Asserts/Images/album/202308/06/201510e4ihwkuuu2kj4ikw.jpg)
 
 
 ### Vim 创建者 Bram Moolenaar 去世
@@ -35,7 +35,7 @@ Bram Moolenaar 是 Vim 编辑器的创建者、维护者和终生的仁慈独裁
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/06/201527e3sr5s03fd3zhfsh.jpg)
+![](/Asserts/Images/album/202308/06/201527e3sr5s03fd3zhfsh.jpg)
 
 
 ### 科学发现：周五下午人们做的事情更少，犯的错误更多
@@ -60,7 +60,7 @@ Bram Moolenaar 是 Vim 编辑器的创建者、维护者和终生的仁慈独裁
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/06/201545m1tz819pbs1113pd.jpg)
+![](/Asserts/Images/album/202308/06/201545m1tz819pbs1113pd.jpg)
 
 
 ### 苹果的付费订阅用户达到了 10 亿

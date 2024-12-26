@@ -7,7 +7,7 @@ tags:	[linuxcn,Manjaro,游戏]
 ---
 
 
-[![见见 Manjaro Gaming, 一个专门为游戏者设计的 Linux 发行版，带有 Manjaro 的所有才能。](/Asserts/Images//attachment/album/201802/12/173728u5gp47pg25e9gp51.jpg)](https://itsfoss.com/wp-content/uploads/2016/06/Manjaro-Gaming.jpg)
+[![见见 Manjaro Gaming, 一个专门为游戏者设计的 Linux 发行版，带有 Manjaro 的所有才能。](/Asserts/Images/album/201802/12/173728u5gp47pg25e9gp51.jpg)](https://itsfoss.com/wp-content/uploads/2016/06/Manjaro-Gaming.jpg)
 
 
 [在 Linux 上玩转游戏](/article-7316-1.html)? 没错，这是非常可行的，我们正致力于为游戏人群打造一个新的 Linux 发行版。
@@ -34,7 +34,7 @@ Manjaro 会成为一个强大并且极度适用于游戏的原因：
 Manjaro Gaming 打包了 Manjaro 的所有强大特性以及各种小工具和软件包，以使得在 Linux 上做游戏即顺畅又享受。
 
 
-![Manjaro Gaming 内部](/Asserts/Images//attachment/album/201802/12/173729zt6gqwyyfzt6yapp.png)
+![Manjaro Gaming 内部](/Asserts/Images/album/201802/12/173729zt6gqwyyfzt6yapp.png)
 
 
 ### 优化

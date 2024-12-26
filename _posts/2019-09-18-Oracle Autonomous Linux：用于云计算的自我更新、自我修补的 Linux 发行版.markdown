@@ -13,10 +13,10 @@ tags:	[linuxcn,Oracle]
 ### Oracle Autonomous Linux：减少人工干扰，增多自动化
 
 
-![](/Asserts/Images//attachment/album/201909/22/093857pn9k69e9fn5x9969.png)
+![](/Asserts/Images/album/201909/22/093857pn9k69e9fn5x9969.png)
 
 
-周一，Oracle 联合创始人<ruby> 拉里·埃里森 <rt>  Larry Ellison </rt></ruby>参加了在旧金山举行的Oracle OpenWorld 全球大会。[他宣布了](https://www.zdnet.com/article/oracle-announces-oracle-autonomous-linux/)一个新产品：世界上第一个自治 Linux。这是 Oracle 向第二代云迈进的第二步。第一步是两年前发布的 [Autonomous Database](https://www.oracle.com/in/Asserts/Images/base/what-is-autonomous-database.html)。
+周一，Oracle 联合创始人<ruby> 拉里·埃里森 <rt>  Larry Ellison </rt></ruby>参加了在旧金山举行的Oracle OpenWorld 全球大会。[他宣布了](https://www.zdnet.com/article/oracle-announces-oracle-autonomous-linux/)一个新产品：世界上第一个自治 Linux。这是 Oracle 向第二代云迈进的第二步。第一步是两年前发布的 [Autonomous Database](https://www.oracle.com/in/database/what-is-autonomous-database.html)。
 
 
 Oracle Autonomous Linux 的最大特性是降低了维护成本。根据 [Oracle 网站](https://www.oracle.com/corporate/pressrelease/oow19-oracle-autonomous-linux-091619.html) 所述，Autonomous Linux “使用先进的机器学习和自治功能来提供前所未有的成本节省、安全性和可用性，并释放关键的 IT 资源来应对更多的战略计划”。

@@ -15,7 +15,7 @@ tags:	[linuxcn,systemd,Devuan,Peppermint OS]
 > 
 
 
-![peppermint](/Asserts/Images//attachment/album/202208/07/151751cyq0406lzmaefi4l.jpg)
+![peppermint](/Asserts/Images/album/202208/07/151751cyq0406lzmaefi4l.jpg)
 
 
 作为 [最轻量级和最灵活的 Linux 发行版之一](https://itsfoss.com/lightweight-linux-beginners/)，Peppermint OS 现在提供一个基于 Devuan 的 ISO，可以让高级用户对他们的系统有更多的控制。
@@ -27,7 +27,7 @@ tags:	[linuxcn,systemd,Devuan,Peppermint OS]
 ### 基于 Devuan 的 Peppermint OS
 
 
-![Peppermint OS devuan](/Asserts/Images//attachment/album/202208/07/151751dg34wcq8nwq6rtqp.png)
+![Peppermint OS devuan](/Asserts/Images/album/202208/07/151751dg34wcq8nwq6rtqp.png)
 
 
 那么，首先 Devuan 是什么？

@@ -15,7 +15,7 @@ tags:	[linuxcn,颜色,彩虹]
 > 
 
 
-![](/Asserts/Images//attachment/album/201812/18/160350ezquzucc15yuw4ru.png)
+![](/Asserts/Images/album/201812/18/160350ezquzucc15yuw4ru.png)
 
 
 今天是 Linux 命令行玩具日历的第五天。如果这是你第一次访问该系列，你可能会问自己，什么是命令行玩具。即使我不太确定，但一般来说，它可能是一个游戏，或任何简单的可以帮助你在终端玩得开心的东西。
@@ -43,7 +43,7 @@ $ fortune | boxes -a c -d parchment | lolcat
 根据你的运气，你可能会看到这样：
 
 
-![](/Asserts/Images//attachment/album/201812/18/160350fdf1n3v1nst6mvlx.png)
+![](/Asserts/Images/album/201812/18/160350fdf1n3v1nst6mvlx.png)
 
 
 你可以传递给 `lolcat` 一些参数。这里不再赘述，我建议你访问 `lolcat` 的 [GitHub 页面](https://github.com/busyloop/lolcat) 或者在终端输入 `lolcat --help` 了解。但一般来说，它们能设置彩虹的传递和频率，以及我个人最喜欢的动画。谁不喜欢终端的彩色动画输出呢？让我们再试一次，用一个不同的边框（当然是以猫为主题）和一句在我的格言列表中的适合猫的句子。
@@ -54,7 +54,7 @@ $ fortune | boxes -a c -d parchment | lolcat
 fortune -m "nine tails" | boxes -a c -d cat | lolcat -a
 ```
 
-![](/Asserts/Images//attachment/album/201812/18/160353xncgcr2smwbvjzre.gif)
+![](/Asserts/Images/album/201812/18/160353xncgcr2smwbvjzre.gif)
 
 
 `lolcat` 是一个 BSD 许可下的开源软件。

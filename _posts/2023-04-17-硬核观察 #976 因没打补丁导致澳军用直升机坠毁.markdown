@@ -7,10 +7,10 @@ tags:	[linuxcn,补丁,挖矿,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/19/203624wwclvwiheb5tlzwi.jpg)
+![](/Asserts/Images/album/202304/19/203624wwclvwiheb5tlzwi.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/19/203633sn226pepa7g29i76.jpg)
+![](/Asserts/Images/album/202304/19/203633sn226pepa7g29i76.jpg)
 
 
 ### 因没打补丁导致澳军用直升机坠毁
@@ -35,7 +35,7 @@ tags:	[linuxcn,补丁,挖矿,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/19/203645eaafe11k1kkgexwq.jpg)
+![](/Asserts/Images/album/202304/19/203645eaafe11k1kkgexwq.jpg)
 
 
 ### 英特尔停止生产 ASIC 挖矿芯片
@@ -60,7 +60,7 @@ tags:	[linuxcn,补丁,挖矿,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/19/203714kra7zt7h776i4h6y.jpg)
+![](/Asserts/Images/album/202304/19/203714kra7zt7h776i4h6y.jpg)
 
 
 ### 马斯克正在开发“最大限度地寻求真相的 AI”

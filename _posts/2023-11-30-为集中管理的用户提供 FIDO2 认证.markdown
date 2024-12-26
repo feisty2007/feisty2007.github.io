@@ -7,7 +7,7 @@ tags:	[linuxcn,FIDO2,认证]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/23/095049o1kdwqugdgw5d1mk.png)
+![](/Asserts/Images/album/202311/23/095049o1kdwqugdgw5d1mk.png)
 
 
 Fedora 39 通过 SSSD 和 FreeIPA 为集中管理的用户开启了 FIDO2 认证功能。此篇文章将指导你如何进行配置和启用该功能。

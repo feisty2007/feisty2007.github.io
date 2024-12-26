@@ -7,7 +7,7 @@ tags:	[linuxcn,监控]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/02/210707fx5xsffzg2frvglz.jpg)
+![](/Asserts/Images/album/201902/02/210707fx5xsffzg2frvglz.jpg)
 
 
 我知道每个人都更喜欢使用 [top 命令](https://www.2daygeek.com/top-command-examples-to-monitor-server-performance/)来监控系统利用率。这是被 Linux 系统管理员大量使用的原生命令之一。
@@ -102,7 +102,7 @@ $ cargo install hegemon
 $ hegemon
 ```
 
-![](/Asserts/Images//attachment/album/201902/02/210843wkewfp3bzeffanfh.png)
+![](/Asserts/Images/album/201902/02/210843wkewfp3bzeffanfh.png)
 
 
 由于 libsensors.so.4 库的问题，我在启动 Hegemon 时遇到了一个问题。
@@ -125,13 +125,13 @@ $ sudo ln -s /usr/lib/libsensors.so /usr/lib/libsensors.so.4
 这是从我的 Lenovo-Y700 笔记本中截取的示例 gif。
 
 
-![](/Asserts/Images//attachment/album/201902/02/210920rw5qqqu0699zqsuu.gif)
+![](/Asserts/Images/album/201902/02/210920rw5qqqu0699zqsuu.gif)
 
 
 默认它仅显示总体摘要，如果你想查看详细输出，则需要展开每个部分。如下是 Hegemon 的展开视图。
 
 
-![](/Asserts/Images//attachment/album/201902/02/210943pxed3p4jjgq5vuy6.png)
+![](/Asserts/Images/album/201902/02/210943pxed3p4jjgq5vuy6.png)
 
 
 

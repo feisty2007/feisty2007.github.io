@@ -10,7 +10,7 @@ tags:	[linuxcn,Betty,命令行]
 **Betty** 是一个将类英语短语翻译成Linux命令的开源工具。这个项目的主要目的是让大家可以通过输入自然语言来使用强大的Linux系统。让我们来看一下它是怎么工作的。
 
 
-![](/Asserts/Images//attachment/album/201407/23/140316qg3jiywyi4iu7xut.jpg)
+![](/Asserts/Images/album/201407/23/140316qg3jiywyi4iu7xut.jpg)
 
 
 ### 安装

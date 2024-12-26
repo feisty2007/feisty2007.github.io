@@ -15,7 +15,7 @@ tags:	[linuxcn,语音识别]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/01/102117mvnx1o9zxxikz91z.jpg "Colorful sound wave graph")
+![](/Asserts/Images/album/202202/01/102117mvnx1o9zxxikz91z.jpg "Colorful sound wave graph")
 
 
 计算机的主要功能之一是解析数据。有些数据比其他数据更容易解析，而语音输入仍然是一项进展中的工作。不过，近年来该领域已经有了许多改进，其中之一就是 DeepSpeech，这是 Mozilla 的一个项目，Mozilla 是维护 Firefox 浏览器的基金会。DeepSpeech 是一个语音到文本的命令和库，使其对需要将语音输入转化为文本的用户和希望为其应用提供语音输入的开发者都很有用。

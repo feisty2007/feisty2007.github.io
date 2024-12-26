@@ -15,7 +15,7 @@ tags:	[linuxcn,FSF,RMS]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/19/093929osnl5488ns1x8ehb.png)
+![](/Asserts/Images/album/201909/19/093929osnl5488ns1x8ehb.png)
 
 
 ### Stallman 事件的背景概述
@@ -156,7 +156,7 @@ Stallman 一直以来也不是一个圣人。他粗暴，不合时宜、多年�
 最后，Stallman 先是从 MIT 辞职，现在又从 [自由软件基金会](https://www.fsf.org/news/richard-m-stallman-resigns) 辞职。
 
 
-![](/Asserts/Images//attachment/album/201909/19/093930wi000kkng4y0qhhm.png)
+![](/Asserts/Images/album/201909/19/093930wi000kkng4y0qhhm.png)
 
 
 ### 危险的特权？

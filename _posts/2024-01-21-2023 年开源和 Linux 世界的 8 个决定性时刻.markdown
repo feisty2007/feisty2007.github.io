@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,开源]
 ---
 
 
-![](../../../Asserts/Images//attachment/album/202401/05/162812w2d1sk1jink91rki.jpg)
+![](../../../Asserts/Images/album/202401/05/162812w2d1sk1jink91rki.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,Linux,开源]
 ### 1、Ubuntu 首次推出 “Flutter” 商店 ⭐
 
 
-![](/Asserts/Images//attachment/album/202401/05/162844w2np2ek6z8bllede.jpg)
+![](/Asserts/Images/album/202401/05/162844w2np2ek6z8bllede.jpg)
 
 
 Ubuntu 的“<ruby> 软件中心 <rt>  software center </rt></ruby>”因其变化和改进而始终成为热门话题。
@@ -45,7 +45,7 @@ Ubuntu 的“<ruby> 软件中心 <rt>  software center </rt></ruby>”因其变�
 ### 2、印度防卫服务转向 Linux
 
 
-![](/Asserts/Images//attachment/album/202401/05/162845nohia5il8h88lwj9.png)
+![](/Asserts/Images/album/202401/05/162845nohia5il8h88lwj9.png)
 
 
 印度国防部决定用内部开发的名为 “**Maya**” 的 Linux 发行版取代 Windows。
@@ -94,7 +94,7 @@ Ubuntu 的“<ruby> 软件中心 <rt>  software center </rt></ruby>”因其变�
 ### 4、Linux 内核 LTS 支持周期的变更
 
 
-![](/Asserts/Images//attachment/album/202401/05/162940zoy81cqnz1qyp897.jpg)
+![](/Asserts/Images/album/202401/05/162940zoy81cqnz1qyp897.jpg)
 
 
 为了减轻 Linux 维护人员的负担，LTS 内核的支持周期从六年降至**两年**。
@@ -144,7 +144,7 @@ Ubuntu 的“<ruby> 软件中心 <rt>  software center </rt></ruby>”因其变�
 ### 7、Vim 创建者去世了?
 
 
-![](/Asserts/Images//attachment/album/202401/05/162846aqj6eooe3lqhxbz6.jpg)
+![](/Asserts/Images/album/202401/05/162846aqj6eooe3lqhxbz6.jpg)
 
 
 今年，我们失去了 Linux 领域的一位杰出创造者，**Bram Moolenar**，他是 [Vim](https://www.vim.org/) 文本编辑器背后的传奇人物。

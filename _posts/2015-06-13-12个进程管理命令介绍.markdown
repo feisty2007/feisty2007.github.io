@@ -24,7 +24,7 @@ tags:	[linuxcn,进程]
 Linux提供了许多命令来让用户来高效掌控上述的操作。接下来，一个一个的来讲解下。
 
 
-![](/Asserts/Images//attachment/album/201506/02/162701snsp4du0d5dw0twf.jpg)
+![](/Asserts/Images/album/201506/02/162701snsp4du0d5dw0twf.jpg)
 
 
 ### 1. ps
@@ -39,7 +39,7 @@ ps -a - 列出所有运行中/激活进程
 
 ```
 
-![Output of "ps -a" command](/Asserts/Images//attachment/album/201506/02/162704rlcdzcpj7jdvooq4.png)
+![Output of "ps -a" command](/Asserts/Images/album/201506/02/162704rlcdzcpj7jdvooq4.png)
 
 
 
@@ -55,7 +55,7 @@ ps -aux - 显示进程信息，包括无终端的（x）和针对用户（u）�
 linux中，每一个进程都是由其父进程创建的。此命令以可视化方式显示进程，通过显示进程的树状图来展示进程间关系。如果指定了pid了，那么树的根是该pid，不然将会是init（pid： 1）。
 
 
-![pstree](/Asserts/Images//attachment/album/201506/02/162705dddkpqkzk1svlvsk.png)
+![pstree](/Asserts/Images/album/201506/02/162705dddkpqkzk1svlvsk.png)
 
 
 ### 3. top
@@ -64,7 +64,7 @@ linux中，每一个进程都是由其父进程创建的。此命令以可视化
 ‘top’是一个更加有用的命令，可以监视系统中不同的进程所使用的资源。它提供实时的系统状态信息。显示进程的数据包括 PID、进程属主、优先级、%CPU、%memory等。可以使用这些显示指示出资源使用量。
 
 
-![top](/Asserts/Images//attachment/album/201506/02/162705cvzpfd13kugv9321.png)
+![top](/Asserts/Images/album/201506/02/162705cvzpfd13kugv9321.png)
 
 
 ### 4. htop
@@ -73,7 +73,7 @@ linux中，每一个进程都是由其父进程创建的。此命令以可视化
 htop与top很类似，但是htop是交互式的文本模式的进程查看器。它通过文字图形化地显示每一个进程的CPU和内存使用量、swap使用量。使用上下光标键选择进程，F7和F8改变优先级，F9杀死进程。Htop不是系统默认安装的，所以需要额外安装。
 
 
-![htop output](/Asserts/Images//attachment/album/201506/02/162706whldzplwhdhjzogd.png)
+![htop output](/Asserts/Images/album/201506/02/162706whldzplwhdhjzogd.png)
 
 
 ### 5. nice
@@ -91,10 +91,10 @@ nice <优先值> <进程名> - 通过给定的优先值启动一个程序
 
 ```
 
-![nice command](/Asserts/Images//attachment/album/201506/02/162706e37l4xnnqcebwt7o.png)
+![nice command](/Asserts/Images/album/201506/02/162706e37l4xnnqcebwt7o.png)
 
 
-![changed nice value of 'top'](/Asserts/Images//attachment/album/201506/02/162707o1aunhs47whehs1s.png)
+![changed nice value of 'top'](/Asserts/Images/album/201506/02/162707o1aunhs47whehs1s.png)
 
 
 上述命令例子中，可以看到‘top’命令获得了-3的优先值。
@@ -112,7 +112,7 @@ renice -n -p - 改变指定进程的优先值
 
 ```
 
-![renice command](/Asserts/Images//attachment/album/201506/02/162708qwie1sateaiw8pae.png)
+![renice command](/Asserts/Images/album/201506/02/162708qwie1sateaiw8pae.png)
 
 
 初始优先值为0的3806号进程优先值已经变成了4.
@@ -124,7 +124,7 @@ renice -u -g - 通过指定用户和组来改变进程优先值
 
 ```
 
-![output of renice for a user group](/Asserts/Images//attachment/album/201506/02/162708bvw9hvh6o8vookv4.png)
+![output of renice for a user group](/Asserts/Images/album/201506/02/162708bvw9hvh6o8vookv4.png)
 
 
 上述例子中，用户为‘mint’的所有进程优先值变为‘-3’。
@@ -153,10 +153,10 @@ pkill <进程名>
 
 ```
 
-![kill initiated](/Asserts/Images//attachment/album/201506/02/162709nitkiffzqimm1zpp.png)
+![kill initiated](/Asserts/Images/album/201506/02/162709nitkiffzqimm1zpp.png)
 
 
-![kill](/Asserts/Images//attachment/album/201506/02/162709g253s5teo3335jze.png)
+![kill](/Asserts/Images/album/201506/02/162709g253s5teo3335jze.png)
 
 
 ### 8. ulimit
@@ -171,7 +171,7 @@ ulimit -a - 显示当前用户关联的资源限制
 
 ```
 
-![ulimit -a](/Asserts/Images//attachment/album/201506/02/162709oj6fxr1l9fg1h6qe.png)
+![ulimit -a](/Asserts/Images/album/201506/02/162709oj6fxr1l9fg1h6qe.png)
 
 
 
@@ -196,19 +196,19 @@ w 提供当前登录的用户及其正在执行的进程的信息。显示信息
 基于这些用户信息，用户在终止不属于他们的进程时要小心。
 
 
-!['w' command](/Asserts/Images//attachment/album/201506/02/162710eccrsjsqhft1j6cq.png)
+!['w' command](/Asserts/Images/album/201506/02/162710eccrsjsqhft1j6cq.png)
 
 
 **who**是类似命令，提供当前登录用户列表、系统启动时间、运行级别等。
 
 
-!['who' command](/Asserts/Images//attachment/album/201506/02/162710gagjy3crv66svba3.png)
+!['who' command](/Asserts/Images/album/201506/02/162710gagjy3crv66svba3.png)
 
 
 **whoami** 命令输出当前用户ID
 
 
-!['whoami' command](/Asserts/Images//attachment/album/201506/02/162711bmn4zyomhl5zma5a.png)
+!['whoami' command](/Asserts/Images/album/201506/02/162711bmn4zyomhl5zma5a.png)
 
 
 ### 10. pgrep
@@ -226,7 +226,7 @@ pgrep -u mint sh
 这个命令将会显示用户为‘mint’和进程名为‘sh’的进程ID。
 
 
-![output of pgrep](/Asserts/Images//attachment/album/201506/02/162711azncon8i4ijrqc8n.png)
+![output of pgrep](/Asserts/Images/album/201506/02/162711azncon8i4ijrqc8n.png)
 
 
 ### 11. fg , bg
@@ -273,7 +273,7 @@ fg %进程id
 
 ```
 
-![output of fg, bg and jobscommands](/Asserts/Images//attachment/album/201506/02/162711oqcg66xhc5qoyryh.png)
+![output of fg, bg and jobscommands](/Asserts/Images/album/201506/02/162711oqcg66xhc5qoyryh.png)
 
 
 ### 12. ipcs
@@ -294,7 +294,7 @@ ipcs -p -m
 下面屏幕截图列出了最近访问了共享内存段的进程的创建者的ID和进程ID。
 
 
-![ipcs command](/Asserts/Images//attachment/album/201506/02/162712wvo4l2vvc44vl48a.png)
+![ipcs command](/Asserts/Images/album/201506/02/162712wvo4l2vvc44vl48a.png)
 
 
 ### 总结

@@ -7,7 +7,7 @@ tags:	[linuxcn,TIOBE,编程,榜单]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/07/094722qzde8z6p55slb6sd.jpg)
+![](/Asserts/Images/album/202107/07/094722qzde8z6p55slb6sd.jpg)
 
 
 2021 年 7 月版的 [TIOBE 编程社区指数](https://www.tiobe.com/tiobe-index/)已经出来了，榜单前几名有点拥挤。

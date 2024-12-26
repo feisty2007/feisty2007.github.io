@@ -7,13 +7,13 @@ tags:	[linuxcn,Google,下载]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/10/070345hjucturadqtdebdq.jpg)
+![](/Asserts/Images/album/201801/10/070345hjucturadqtdebdq.jpg)
 
 
 最近我不得不给我的手机下载更新包，但是当我开始下载的时候，我发现安装包过于庞大。大约有 1.5 GB。
 
 
-![使用 Chrome 下载 MIUI 更新](/Asserts/Images//attachment/album/201801/10/070345xznmmvgz8z7rb7i7.png)
+![使用 Chrome 下载 MIUI 更新](/Asserts/Images/album/201801/10/070345xznmmvgz8z7rb7i7.png)
 
 
 考虑到这个下载速度至少需要花费 1 至 1.5 小时来下载，并且说实话我并没有这么多时间。现在我下载速度可能会很慢，但是我的 ISP 有 Google Peering （Google 对等操作）。这意味着我可以在所有的 Google 产品中获得一个惊人的速度，例如Google Drive, YouTube 和 PlayStore。
@@ -37,13 +37,13 @@ tags:	[linuxcn,Google,下载]
 前往链接 [savetodrive](https://savetodrive.net/) 并且点击相应位置以验证身份。
 
 
-![savetodrive 将文件保存到 Google Drive ](/Asserts/Images//attachment/album/201801/10/070346forqglsfd2rfxye2.png)
+![savetodrive 将文件保存到 Google Drive ](/Asserts/Images/album/201801/10/070346forqglsfd2rfxye2.png)
 
 
 这将会请求获得使用你 Google Drive 的权限，点击 “Allow”。
 
 
-![请求获得 Google Drive 的使用权限](/Asserts/Images//attachment/album/201801/10/070346tzak4t2pq2vrxxgw.jpg)
+![请求获得 Google Drive 的使用权限](/Asserts/Images/album/201801/10/070346tzak4t2pq2vrxxgw.jpg)
 
 
 ### 第三步
@@ -52,19 +52,19 @@ tags:	[linuxcn,Google,下载]
 你将会再一次看到下面的页面，此时仅仅需要输入下载链接在链接框中，并且点击 “Upload”。
 
 
-![savetodrive 直接给 Google Drive 上传文件](/Asserts/Images//attachment/album/201801/10/070347c998lammvr3zsyxk.png)
+![savetodrive 直接给 Google Drive 上传文件](/Asserts/Images/album/201801/10/070347c998lammvr3zsyxk.png)
 
 
 你将会开始看到上传进度条，可以看到上传速度达到了 48 Mbps，所以上传我这个 1.5 GB 的文件需要 30 至 35 秒。一旦这里完成了，进入你的 Google Drive 你就可以看到刚才上传的文件。
 
 
-![Google Drive savetodrive](/Asserts/Images//attachment/album/201801/10/070348mb7wzhs70kdspvyi.png)
+![Google Drive savetodrive](/Asserts/Images/album/201801/10/070348mb7wzhs70kdspvyi.png)
 
 
 这里的文件中，文件名开头是 *miui* 的就是我刚才上传的，现在我可以用一个很快的速度下载下来。
 
 
-![如何从浏览器上下载 MIUI 更新](/Asserts/Images//attachment/album/201801/10/070348ot0qww0wv0amf8mi.png)
+![如何从浏览器上下载 MIUI 更新](/Asserts/Images/album/201801/10/070348ot0qww0wv0amf8mi.png)
 
 
 可以看到我的下载速度大概是 5 Mbps ，所以我下载这个文件只需要 5 到 6 分钟。

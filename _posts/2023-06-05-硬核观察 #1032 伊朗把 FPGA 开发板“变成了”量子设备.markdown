@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,量子计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/14/184751odakcayuozdk1ddi.jpg)
+![](/Asserts/Images/album/202306/14/184751odakcayuozdk1ddi.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/14/184803kyyyrf15lr52ydy3.jpg)
+![](/Asserts/Images/album/202306/14/184803kyyyrf15lr52ydy3.jpg)
 
 
 ### 伊朗把 FPGA 开发板“变成了”量子设备
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,量子计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/14/184848riftxxirjqqdmmar.jpg)
+![](/Asserts/Images/album/202306/14/184848riftxxirjqqdmmar.jpg)
 
 
 ### 人工智能对人工智能生成的内容进行训练将导致人工智能崩溃
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,量子计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/14/184907xwyq064ch6w0q56q.jpg)
+![](/Asserts/Images/album/202306/14/184907xwyq064ch6w0q56q.jpg)
 
 
 ### Meta 开源了音乐和图像模型

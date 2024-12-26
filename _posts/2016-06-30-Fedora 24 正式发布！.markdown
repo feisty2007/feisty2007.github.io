@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/22/153426ecqcc3q7qw2wwc77.png)
+![](/Asserts/Images/album/201606/22/153426ecqcc3q7qw2wwc77.png)
 
 
 2016 年 6 月 21 日，Fedora 项目组[宣布](https://fedoramagazine.org/fedora-24-released/) Fedora 24 Linux 操作系统正式发布！支持桌面、服务器、云端和嵌入式设备。
@@ -25,7 +25,7 @@ tags:	[linuxcn,Fedora]
 ### GNOME 3.20、KDE Plasma 5.6、Mono 4.2、GCC 6 等等
 
 
-![](/Asserts/Images//attachment/album/201606/22/153428vjt1cqne5ggyamz1.jpg)
+![](/Asserts/Images/album/201606/22/153428vjt1cqne5ggyamz1.jpg)
 
 
 Fedora 24 工作站版本中加载了 GNOME 3.20.2 桌面环境，Fedora 24 KDE Plasma Spin 带的则是 KDE Plasma 5.6 桌面。Fedora 24 的所有分支都是用 GCC 6 编译器构建的。 

@@ -7,7 +7,7 @@ tags:	[linuxcn,ACL,setfacl,chmod,getfacl]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/03/162646rygbaqcx4c0ebycx.jpg)
+![](/Asserts/Images/album/201801/03/162646rygbaqcx4c0ebycx.jpg)
 
 
 当提到文件和目录的权限时，你的第一反应可能是“属主/群组/其它”权限。 这些权限可以通过 `chmod`、 `chown` 等命令来修改。

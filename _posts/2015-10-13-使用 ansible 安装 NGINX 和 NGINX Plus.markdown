@@ -16,7 +16,7 @@ tags:	[linuxcn,Ansible,NGINX]
 在本教程中，我将带你使用 Ansible 完成安装和部署开源 [NGINX](http://nginx.org/en/) 和我们的商业产品 [NGINX Plus](https://www.nginx.com/products/)。我将在 [CentOS](http://www.centos.org/) 服务器上演示，但我也在下面的“在 Ubuntu 上创建 Ansible Playbook 来安装 NGINX 和 NGINX Plus”小节中包含了在 Ubuntu 服务器上部署的细节。
 
 
-![](/Asserts/Images//attachment/album/201510/08/170019yk7ko23oxgoyxoyx.png)
+![](/Asserts/Images/album/201510/08/170019yk7ko23oxgoyxoyx.png)
 
 
 在本教程中我将使用 Ansible 1.9.2 版本，并在 CentOS 7.1 服务器上部署运行。

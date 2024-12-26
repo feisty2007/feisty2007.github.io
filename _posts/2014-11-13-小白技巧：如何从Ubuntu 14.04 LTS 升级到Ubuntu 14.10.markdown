@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Ubuntu 14.10]
 ---
 
 
-![](/Asserts/Images//attachment/album/201411/17/224152fv3zv2zubidaars8.jpg)
+![](/Asserts/Images/album/201411/17/224152fv3zv2zubidaars8.jpg)
 
 
 **想知道怎样从Ubuntu 14.04 LTS 升级到Ubuntu 14.10么？ 这就是我们要讲的**

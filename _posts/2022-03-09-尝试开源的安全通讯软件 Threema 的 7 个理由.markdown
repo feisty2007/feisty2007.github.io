@@ -15,7 +15,7 @@ tags:	[linuxcn,Threema,通讯软件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/28/120323fkw6v6jrokczjwwv.png)
+![](/Asserts/Images/album/202203/28/120323fkw6v6jrokczjwwv.png)
 
 
 现在已经有很多私密的 WhatsApp 代替品可供我们选择，Threema 则是其中最好的可选项之一。
@@ -63,7 +63,7 @@ Threema 是一个流行的安全通讯软件，它由瑞士团队研发，专注
 #### 1. 不需要手机号码
 
 
-![](/Asserts/Images//attachment/album/202203/28/120324xfv1vk1522e5x5e5.jpg)
+![](/Asserts/Images/album/202203/28/120324xfv1vk1522e5x5e5.jpg)
 
 
 和 WhatsApp 不同，你不需要使用手机号码来注册 Threema。当然，你可以选择添加你的手机号码，如果你希望别人能够很快找到你的话。
@@ -90,7 +90,7 @@ Threema 是一个流行的安全通讯软件，它由瑞士团队研发，专注
 #### 3. 去中心化的基础设施
 
 
-![](/Asserts/Images//attachment/album/202203/28/120325p868khpn7z7hpxh6.jpg)
+![](/Asserts/Images/album/202203/28/120325p868khpn7z7hpxh6.jpg)
 
 
 和大多数主流产品不同，Threema 提供了一个去中心化的基础设施，以确保更好地抵御检查。
@@ -123,7 +123,7 @@ Threema 是一个流行的安全通讯软件，它由瑞士团队研发，专注
 #### 5. 可靠的用户界面和特性
 
 
-![Credits: Threema](/Asserts/Images//attachment/album/202203/28/120326k373zxxz561837k3.jpg)
+![Credits: Threema](/Asserts/Images/album/202203/28/120326k373zxxz561837k3.jpg)
 
 
 Threema 不是一个新产品，它已经开发了好几年了。
@@ -144,7 +144,7 @@ Threema 不是一个新产品，它已经开发了好几年了。
 和其他的安全通讯软件相比，Threema 对平板电脑的支持也不错。
 
 
-![Credits: Threema](/Asserts/Images//attachment/album/202203/28/120327rzqe02oe2oqova20.jpg)
+![Credits: Threema](/Asserts/Images/album/202203/28/120327rzqe02oe2oqova20.jpg)
 
 
 #### 6. 瑞士团队 & 遵守 GDRP 准则
@@ -162,7 +162,7 @@ Threema 受瑞士的法律约束，而众所周知，瑞士的法律是最重视
 #### 7. 在工作中使用 Threema
 
 
-![](/Asserts/Images//attachment/album/202203/28/120327nfoqdqsqbh35z0v0.png)
+![](/Asserts/Images/album/202203/28/120327nfoqdqsqbh35z0v0.png)
 
 
 有趣的是，Threema 还有另外一个 [独立的版本](https://i0.wp.com/news.itsfoss.com/wp-content/uploads/2022/03/threema-work.png?w=1081&ssl=1)，专注于加强公司内部的通讯安全。

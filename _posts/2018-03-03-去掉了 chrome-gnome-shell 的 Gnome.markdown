@@ -7,7 +7,7 @@ tags:	[linuxcn,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/06/092722czb01fsznsbkz1gu.jpg)
+![](/Asserts/Images/album/201803/06/092722czb01fsznsbkz1gu.jpg)
 
 
 新的笔记本有触摸屏，它可以折叠成平板电脑，我听说 gnome-shell 将是桌面环境的一个很好的选择，我设法调整它以按照现有的习惯使用。

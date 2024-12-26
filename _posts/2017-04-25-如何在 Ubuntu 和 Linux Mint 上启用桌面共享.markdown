@@ -7,7 +7,7 @@ tags:	[linuxcn,桌面,共享]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/15/164614ahzgiqa2oixhih41.png)
+![](/Asserts/Images/album/201704/15/164614ahzgiqa2oixhih41.png)
 
 
 桌面共享是指通过图形终端仿真器在计算机桌面上实现远程访问和远程协作的技术。桌面共享允许两个或多个连接到网络的计算机用户在不同位置对同一个文件进行操作。
@@ -22,7 +22,7 @@ tags:	[linuxcn,桌面,共享]
 １、在 Ubuntu Dash 或 Linux Mint 菜单中，像下面的截图这样搜索 `desktop sharing`，搜索到以后，打开它。
 
 
-![Search for Desktop Sharing in Ubuntu](/Asserts/Images//attachment/album/201704/15/164614bl1141lgg178lldi.png)
+![Search for Desktop Sharing in Ubuntu](/Asserts/Images/album/201704/15/164614bl1141lgg178lldi.png)
 
 
 *在 Ubuntu 中搜索 Desktop sharing*
@@ -34,7 +34,7 @@ tags:	[linuxcn,桌面,共享]
 在共享选项下面，选中选项“允许其他用户查看桌面”来启用桌面共享。另外，你还可以选中选项“允许其他用户控制你的桌面”，从而允许其他用户远程控制你的桌面。
 
 
-![Desktop Sharing Preferences](/Asserts/Images//attachment/album/201704/15/164615mt8vkvopc2p9k9pk.png)
+![Desktop Sharing Preferences](/Asserts/Images/album/201704/15/164615mt8vkvopc2p9k9pk.png)
 
 
 *桌面共享偏好*
@@ -49,7 +49,7 @@ tags:	[linuxcn,桌面,共享]
 ４、对于通知，你可以勾选“仅当有人连接上时”来监视远程连接，这样每次当有人远程连接到你的桌面时，可以在通知区域查看。
 
 
-![Configure Desktop Sharing Set](/Asserts/Images//attachment/album/201704/15/164615oj68pgj9guvjroj4.png)
+![Configure Desktop Sharing Set](/Asserts/Images/album/201704/15/164615oj68pgj9guvjroj4.png)
 
 
 *配置桌面共享设置*
@@ -67,7 +67,7 @@ tags:	[linuxcn,桌面,共享]
 ５、我将使用 VNC（虚拟网络计算）协议通过 [remmina 远程连接应用](http://www.tecmint.com/remmina-remote-desktop-sharing-and-ssh-client)连接到我的 Ubuntu PC。
 
 
-![Remmina Desktop Sharing Tool](/Asserts/Images//attachment/album/201704/15/164616q5gbg5539gxgjv65.png)
+![Remmina Desktop Sharing Tool](/Asserts/Images/album/201704/15/164616q5gbg5539gxgjv65.png)
 
 
 *Remmina 桌面共享工具*
@@ -76,7 +76,7 @@ tags:	[linuxcn,桌面,共享]
 ６、在点击 Ubuntu PC 以后，将会出现下面这个配置连接设置的界面，
 
 
-![Remmina Desktop Sharing Preferences](/Asserts/Images//attachment/album/201704/15/164616rrduuvdzx4qras1h.png)
+![Remmina Desktop Sharing Preferences](/Asserts/Images/album/201704/15/164616rrduuvdzx4qras1h.png)
 
 
 *Remmina 桌面共享偏好*
@@ -85,7 +85,7 @@ tags:	[linuxcn,桌面,共享]
 ７、当执行好所有设置以后，点击连接。然后，给用户名提供 SSH 密码并点击 OK 。
 
 
-![Enter SSH User Password](/Asserts/Images//attachment/album/201704/15/164617tu8qqafqmqvvl0ll.png)
+![Enter SSH User Password](/Asserts/Images/album/201704/15/164617tu8qqafqmqvvl0ll.png)
 
 
 *输入 SSH 用户密码*
@@ -94,7 +94,7 @@ tags:	[linuxcn,桌面,共享]
 点击确定以后，出现下面这个黑屏，这是因为在远程机器上，连接还没有确认。
 
 
-![Black Screen Before Confirmation](/Asserts/Images//attachment/album/201704/15/164617whw2j6ymkqq0hqf4.png)
+![Black Screen Before Confirmation](/Asserts/Images/album/201704/15/164617whw2j6ymkqq0hqf4.png)
 
 
 *连接确认前的黑屏*
@@ -103,7 +103,7 @@ tags:	[linuxcn,桌面,共享]
 ８、现在，在远程机器上，我需要如下一个屏幕截图显示的那样点击 `Allow` 来接受远程访问请求。
 
 
-![Allow Remote Desktop Sharing](/Asserts/Images//attachment/album/201704/15/164618cehy4400z4t00whs.png)
+![Allow Remote Desktop Sharing](/Asserts/Images/album/201704/15/164618cehy4400z4t00whs.png)
 
 
 *允许远程桌面共享*
@@ -112,7 +112,7 @@ tags:	[linuxcn,桌面,共享]
 ９、在接受请求以后，我就成功地连接到了远程 Ubuntu 机器的桌面。
 
 
-![Remote Ubuntu Desktop](/Asserts/Images//attachment/album/201704/15/164618ccjk9xsz897tvzjk.png)
+![Remote Ubuntu Desktop](/Asserts/Images/album/201704/15/164618ccjk9xsz897tvzjk.png)
 
 
 *远程 Ubuntu 桌面*

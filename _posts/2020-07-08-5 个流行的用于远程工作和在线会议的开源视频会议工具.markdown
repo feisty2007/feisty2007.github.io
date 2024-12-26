@@ -22,7 +22,7 @@ tags:	[linuxcn,视频会议]
 ### 顶级开源视频会议解决方案
 
 
-![](/Asserts/Images//attachment/album/202007/26/104947gyzs2eb5ybeneg5y.jpg)
+![](/Asserts/Images/album/202007/26/104947gyzs2eb5ybeneg5y.jpg)
 
 
 如果你是商企用户，大多数视频会议解决方案可以被安装在你自己的服务器上。
@@ -37,7 +37,7 @@ tags:	[linuxcn,视频会议]
 #### 1、Jitsi Meet
 
 
-![](/Asserts/Images//attachment/album/202007/26/105046krv9a91rvrrv8ngk.png)
+![](/Asserts/Images/album/202007/26/105046krv9a91rvrrv8ngk.png)
 
 
 Jitsi Meet 是一个令人印象深刻的开源视频会议服务。你可以在我们关于 [Jitsi Meet](https://itsfoss.com/jitsi-meet/) 的单独报道中轻松找到更多信息。
@@ -58,7 +58,7 @@ Jitsi Meet 是一个令人印象深刻的开源视频会议服务。你可以在
 #### 2、Jami
 
 
-![](/Asserts/Images//attachment/album/202007/26/105103qisjhfuvaiej3633.png)
+![](/Asserts/Images/album/202007/26/105103qisjhfuvaiej3633.png)
 
 
 Jami 是一个基于点对点的开源视频会议解决方案。很高兴看到分布式的服务，这意味着不依靠服务器，而只是点对点的连接。
@@ -79,7 +79,7 @@ Jami 有 Linux、Windows、macOS、Android 和 iOS 的版本，所以它是一�
 #### 3、Nextcloud Talk
 
 
-![](/Asserts/Images//attachment/album/202007/26/105121l8t5th9887zmmlra.png)
+![](/Asserts/Images/album/202007/26/105121l8t5th9887zmmlra.png)
 
 
 [Nextcloud](https://itsfoss.com/nextcloud/) 毫无疑问是开源远程办公工具的瑞士军刀。我们就在使用 Nextcloud。所以如果你已经配置了服务器，[Nextcloud Talk](https://nextcloud.com/talk/) 显然是一个优秀的视频会议和聊天工具。
@@ -94,7 +94,7 @@ Jami 有 Linux、Windows、macOS、Android 和 iOS 的版本，所以它是一�
 #### 4、[Riot.im](http://Riot.im)
 
 
-![](/Asserts/Images//attachment/album/202007/26/105143irz0jvbhofnvvvfb.png)
+![](/Asserts/Images/album/202007/26/105143irz0jvbhofnvvvfb.png)
 
 
 [Riot.im](http://Riot.im)（不久会更名）已经是 Slack [最好的开源替代品](https://itsfoss.com/open-source-slack-alternative/)之一。
@@ -112,7 +112,7 @@ Jami 有 Linux、Windows、macOS、Android 和 iOS 的版本，所以它是一�
 #### 5、BigBlueButton
 
 
-![](/Asserts/Images//attachment/album/202007/26/105201j3s3948d94danbob.png)
+![](/Asserts/Images/album/202007/26/105201j3s3948d94danbob.png)
 
 
 BigBlueButton 是一个有趣的开源视频会议方案，专门为线上学习打造。
@@ -130,7 +130,7 @@ BigBlueButton 是一个有趣的开源视频会议方案，专门为线上学习
 #### 补充：Wire
 
 
-![](/Asserts/Images//attachment/album/202007/26/105240bg60ttxwxgve0dey.png)
+![](/Asserts/Images/album/202007/26/105240bg60ttxwxgve0dey.png)
 
 
 Wire 是一个十分流行的开源的安全消息平台，为商企用户量身打造。它也提供视频电话或者网络会议选项。

@@ -13,7 +13,7 @@ tags:	[linuxcn,性能]
 和大多数情况一样，处理这种问题的方法有多种方式，这不仅仅是一个择优的问题，而是对权衡的理解问题。 接下来我们来看看 I/O 到底是什么。
 
 
-![Cover Photo: Server-side I/O: Node vs. PHP vs. Java vs. Go](/Asserts/Images//attachment/album/201710/31/094307myjfkfnjzjxtfhox.jpg)
+![Cover Photo: Server-side I/O: Node vs. PHP vs. Java vs. Go](/Asserts/Images/album/201710/31/094307myjfkfnjzjxtfhox.jpg)
 
 
 在本文中，我们将对 Node、Java、Go 和 PHP + Apache 进行对比，讨论不同语言如何构造其 I/O ，每个模型的优缺点，并总结一些基本的规律。如果你担心你的下一个 Web 应用程序的 I/O 性能，本文将给你最优的解答。
@@ -36,7 +36,7 @@ tags:	[linuxcn,性能]
 * 内核在所需的物理设备（ 磁盘、网卡等 ）上执行底层 I/O 操作，并回应系统调用。在实际情况中，内核可能需要做许多事情来满足你的要求，包括等待设备准备就绪、更新其内部状态等，但作为应用程序开发人员，你不需要关心这些。这是内核的工作。
 
 
-![Syscalls Diagram](/Asserts/Images//attachment/album/201710/31/094309ad3ayrpycfe7x6y1.jpg)
+![Syscalls Diagram](/Asserts/Images/album/201710/31/094309ad3ayrpycfe7x6y1.jpg)
 
 
 #### 阻塞与非阻塞
@@ -55,7 +55,7 @@ tags:	[linuxcn,性能]
 了解这里的时间差异的数量级是很重要的。假设 CPU 内核运行在 3GHz，在没有进行 CPU 优化的情况下，那么它每秒执行 30 亿次<ruby> 周期 <rt>  cycle </rt></ruby>（即每纳秒 3 个周期）。非阻塞系统调用可能需要几十个周期来完成，或者说 “相对少的纳秒” 时间完成。而一个被跨网络接收信息所阻塞的系统调用可能需要更长的时间 - 例如 200 毫秒（1/5 秒）。这就是说，如果非阻塞调用需要 20 纳秒，阻塞调用需要 2 亿纳秒。你的进程因阻塞调用而等待了 1000 万倍的时长！
 
 
-![Blocking vs. Non-blocking Syscalls](/Asserts/Images//attachment/album/201710/31/094311vnm0fhtzpfjb60l2.jpg)
+![Blocking vs. Non-blocking Syscalls](/Asserts/Images/album/201710/31/094311vnm0fhtzpfjb60l2.jpg)
 
 
 内核既提供了阻塞 I/O （“从网络连接读取并给出数据”），也提供了非阻塞 I/O （“告知我何时这些网络连接具有新数据”）的方法。使用的是哪种机制对调用进程的阻塞时长有截然不同的影响。
@@ -125,7 +125,7 @@ $result = $db->query('SELECT id, data FROM examples ORDER BY id DESC limit 100')
 关于如何与系统集成，就像这样：
 
 
-![I/O Model PHP](/Asserts/Images//attachment/album/201710/31/094314tkzrixfwnn9zl9wn.jpg)
+![I/O Model PHP](/Asserts/Images/album/201710/31/094314tkzrixfwnn9zl9wn.jpg)
 
 
 很简单：每个请求一个进程。 I/O 调用就阻塞。优点是简单可工作，缺点是，同时与 20,000 个客户端连接，你的服务器将会崩溃。这种方法不能很好地扩展，因为内核提供的用于处理大容量 I/O （epoll 等） 的工具没有被使用。 雪上加霜的是，为每个请求运行一个单独的进程往往会使用大量的系统资源，特别是内存，这通常是你在这样的场景中遇到的第一个问题。
@@ -171,7 +171,7 @@ out.println("...");
 重要的里程碑出现在 Java 1.4 版本（以及 1.7 的重要升级）中，它获得了执行非阻塞 I/O 调用的能力。大多数应用程序、web 应用和其它用途不会使用它，但至少它是可用的。一些 Java Web 服务器尝试以各种方式利用这一点；然而，绝大多数部署的 Java 应用程序仍然如上所述工作。
 
 
-![I/O Model Java](/Asserts/Images//attachment/album/201710/31/094316bzjdf76zfhmd6685.jpg)
+![I/O Model Java](/Asserts/Images/album/201710/31/094316bzjdf76zfhmd6685.jpg)
 
 
 肯定有一些很好的开箱即用的 I/O 功能，Java 让我们更接近，但它仍然没有真正解决当你有一个大量的 I/O 绑定的应用程序被数千个阻塞线程所压垮的问题。
@@ -206,7 +206,7 @@ http.createServer(function(request, response) {
 这样做的基本原理是让 Node 有机会有效地处理这些回调之间的 I/O 。一个更加密切相关的场景是在 Node 中进行数据库调用，但是我不会在这个例子中啰嗦，因为它遵循完全相同的原则：启动数据库调用，并给 Node 一个回调函数，它使用非阻塞调用单独执行 I/O 操作，然后在你要求的数据可用时调用回调函数。排队 I/O 调用和让 Node 处理它然后获取回调的机制称为“事件循环”。它工作的很好。
 
 
-![I/O Model Node.js](/Asserts/Images//attachment/album/201710/31/094318kzf7zippxg7zq708.jpg)
+![I/O Model Node.js](/Asserts/Images/album/201710/31/094318kzf7zippxg7zq708.jpg)
 
 
 然而，这个模型有一个陷阱，究其原因，很多是与 V8 JavaScript 引擎（Node 用的是 Chrome 浏览器的 JS 引擎）如何实现的有关<sup> 注1</sup> 。你编写的所有 JS 代码都运行在单个线程中。你可以想想，这意味着当使用高效的非阻塞技术执行 I/O 时，你的 JS 可以在单个线程中运行计算密集型的操作，每个代码块都会阻塞下一个。可能出现这种情况的一个常见例子是以某种方式遍历数据库记录，然后再将其输出到客户端。这是一个示例，展示了其是如何工作：
@@ -256,7 +256,7 @@ var handler = function(request, response) {
 调度程序的工作原理如图所示：
 
 
-![I/O Model Go](/Asserts/Images//attachment/album/201710/31/094320ass1uswfbnbp4qss.jpg)
+![I/O Model Go](/Asserts/Images/album/201710/31/094320ass1uswfbnbp4qss.jpg)
 
 
 在底层，这是通过 Go 运行时中的各个部分实现的，它通过对请求的写入/读取/连接等操作来实现 I/O 调用，将当前协程休眠，并当采取进一步动作时唤醒该协程。
@@ -308,7 +308,7 @@ Go 可能有其缺点，但一般来说，它处理 I/O 的方式不在其中。
 首先，我们来看一些低并发的例子。运行 2000 次迭代，300 个并发请求，每个请求只有一个散列（N = 1），结果如下：
 
 
-![Mean number of milliseconds to complete a request across all concurrent requests, N=1](/Asserts/Images//attachment/album/201710/31/094322yf579k1z343553l6.jpg)
+![Mean number of milliseconds to complete a request across all concurrent requests, N=1](/Asserts/Images/album/201710/31/094322yf579k1z343553l6.jpg)
 
 
 *时间是在所有并发请求中完成请求的平均毫秒数。越低越好。*
@@ -320,7 +320,7 @@ Go 可能有其缺点，但一般来说，它处理 I/O 的方式不在其中。
 但是，如果我们将 N 增加到 1000，仍然有 300 个并发请求，相同的任务，但是哈希迭代是 1000 倍（显着增加了 CPU 负载）：
 
 
-![Mean number of milliseconds to complete a request across all concurrent requests, N=1000](/Asserts/Images//attachment/album/201710/31/094324zukvhu8ckp1pb5mp.jpg)
+![Mean number of milliseconds to complete a request across all concurrent requests, N=1000](/Asserts/Images/album/201710/31/094324zukvhu8ckp1pb5mp.jpg)
 
 
 *时间是在所有并发请求中完成请求的平均毫秒数。越低越好。*
@@ -332,7 +332,7 @@ Go 可能有其缺点，但一般来说，它处理 I/O 的方式不在其中。
 现在让我们尝试 5000 个并发连接（N = 1） - 或者是我可以发起的最大连接。不幸的是，对于大多数这些环境，故障率并不显着。对于这个图表，我们来看每秒的请求总数。 *越高越好* :
 
 
-![Total number of requests per second, N=1, 5000 req/sec](/Asserts/Images//attachment/album/201710/31/094326mwwewy6tisw4f1j2.jpg)
+![Total number of requests per second, N=1, 5000 req/sec](/Asserts/Images/album/201710/31/094326mwwewy6tisw4f1j2.jpg)
 
 
 *每秒请求数。越高越好。*

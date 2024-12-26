@@ -18,7 +18,7 @@ tags:	[linuxcn,cron,crontab,定时任务,周期]
 cron是Linux中默认的计划任务。使用cron，你可以安排一个计划（比如：命令或者shell脚本）周期性地运行或者在指定的分钟、小时、天、周、月等特定时间运行。cron在你安排不同的常规维护任务时是很有用的，比如周期性地备份、日志循环、检查文件系统、监测磁盘空间等等。
 
 
-![](/Asserts/Images//attachment/album/201502/22/212422mcrpccvfcflpdrsp.jpg)
+![](/Asserts/Images/album/201502/22/212422mcrpccvfcflpdrsp.jpg)
 
 
 （题图来自 eagleapex.com）
@@ -51,7 +51,7 @@ $ sudo crontab -u <username> -e
 你将会看见一个文本编辑窗口，这里你可以添加或者编辑cron任务。默认使用nono编辑器。
 
 
-![](/Asserts/Images//attachment/album/201502/22/212508thotfu3zchthht1o.jpg)
+![](/Asserts/Images/album/201502/22/212508thotfu3zchthht1o.jpg)
 
 
 每个cron任务的格式如下。
@@ -66,7 +66,7 @@ $ sudo crontab -u <username> -e
 前5个元素定义了任务的计划，最后一个元素是命令或者脚本的完整路径。
 
 
-![](/Asserts/Images//attachment/album/201502/22/212511ay72o1x2lo22sox0.jpg)
+![](/Asserts/Images/album/201502/22/212511ay72o1x2lo22sox0.jpg)
 
 
 下面是一些cron任务示例。
@@ -102,13 +102,13 @@ $ crontab -l
 在Gnome桌面中，有一个Gnome Schedule（gnome-schedule包）。
 
 
-![](/Asserts/Images//attachment/album/201502/22/212514t6c00r71k0l3frcr.jpg)
+![](/Asserts/Images/album/201502/22/212514t6c00r71k0l3frcr.jpg)
 
 
 在KDE桌面中，有一个Task Scheduler（kcron包）。
 
 
-![](/Asserts/Images//attachment/album/201502/22/212517u5eez3n3bbqwllm3.jpg)
+![](/Asserts/Images/album/201502/22/212517u5eez3n3bbqwllm3.jpg)
 
 
 

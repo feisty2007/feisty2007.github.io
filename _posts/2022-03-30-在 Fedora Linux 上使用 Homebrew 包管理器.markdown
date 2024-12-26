@@ -7,7 +7,7 @@ tags:	[linuxcn,Homebrew]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/21/193616z7kvf71b7z48kn92.jpg)
+![](/Asserts/Images/album/202203/21/193616z7kvf71b7z48kn92.jpg)
 
 
 ### 简介

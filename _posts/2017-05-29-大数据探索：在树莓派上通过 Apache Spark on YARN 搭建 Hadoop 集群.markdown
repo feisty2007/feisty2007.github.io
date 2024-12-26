@@ -7,7 +7,7 @@ tags:	[linuxcn,大数据,Hadoop,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/07/023744ysdd41g0e4g45d1k.jpg)
+![](/Asserts/Images/album/201705/07/023744ysdd41g0e4g45d1k.jpg)
 
 
 有些时候我们想从 DQYDJ 网站的数据中分析点有用的东西出来，在过去，我们要[用 R 语言提取固定宽度的数据](https://dqydj.com/how-to-import-fixed-width-data-into-a-spreadsheet-via-r-playing-with-ipums-cps-data/)，然后通过数学建模来分析[美国的最低收入补贴](http://dqydj.com/negative-income-tax-cost-calculator-united-states/)，当然也包括其他优秀的方法。
@@ -19,7 +19,7 @@ tags:	[linuxcn,大数据,Hadoop,树莓派]
 ### I. 为什么要建立一个树莓派的 Hadoop 集群？
 
 
-![](/Asserts/Images//attachment/album/201705/07/023809pk52e4yff97f2ke4.png)
+![](/Asserts/Images/album/201705/07/023809pk52e4yff97f2ke4.png)
 
 
 *由三个树莓派节点组成的 Hadoop 集群*
@@ -456,7 +456,7 @@ if __name__ == "__main__":
 下面是的前 50 个最常用的词汇，请用它们刻画出有关我的文章的水平的结论。
 
 
-![](/Asserts/Images//attachment/album/201705/07/023810wrwuwarhr6z6hpph.png)
+![](/Asserts/Images/album/201705/07/023810wrwuwarhr6z6hpph.png)
 
 
 我希望你能喜欢这篇关于 Hadoop、YARN 和 Apache Spark 的教程，现在你可以在 Spark 运行和编写其他的应用了。

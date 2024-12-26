@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,漫画,线程]
 ---
 
 
-![Brothers Conflict (at linux kernel)](/Asserts/Images//attachment/album/201708/13/120543trm2o12c2cptvpj1.png)
+![Brothers Conflict (at linux kernel)](/Asserts/Images/album/201708/13/120543trm2o12c2cptvpj1.png)
 
 
 多线程编程中，如何处理共享的资源是个头疼的事情。

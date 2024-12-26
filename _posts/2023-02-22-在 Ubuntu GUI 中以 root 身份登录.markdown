@@ -7,7 +7,7 @@ tags:	[linuxcn,root]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/28/104536gesxvetse1rrru4q.jpg)
+![](/Asserts/Images/album/202302/28/104536gesxvetse1rrru4q.jpg)
 
 
 默认情况下，Ubuntu 禁用了 root 账户。你必须使用 `sudo` 命令来执行任何需要 root 权限的任务。
@@ -51,7 +51,7 @@ sudo passwd root
 
 ```
 
-![change the password of root account in ubuntu](/Asserts/Images//attachment/album/202302/28/104559wu07pjsd4p1ja7ja.png)
+![change the password of root account in ubuntu](/Asserts/Images/album/202302/28/104559wu07pjsd4p1ja7ja.png)
 
 
 不言而喻，你不应该忘记 root 密码。
@@ -104,7 +104,7 @@ AllowRoot=true
 
 ```
 
-![configure GDM on ubuntu](/Asserts/Images//attachment/album/202302/28/104600rw59b554oup960p6.png)
+![configure GDM on ubuntu](/Asserts/Images/album/202302/28/104600rw59b554oup960p6.png)
 
 
 按 `Ctrl+X` 退出 Nano，同时保存它。
@@ -131,7 +131,7 @@ auth   required        pam_succeed_if.so user != root quiet_success
 
 ```
 
-![](/Asserts/Images//attachment/album/202302/28/104600jxyrhiffrlcf5p3f.gif)
+![](/Asserts/Images/album/202302/28/104600jxyrhiffrlcf5p3f.gif)
 
 
 [保存修改并退出 nano](https://linuxhandbook.com/nano-save-exit/) 文本编辑器。
@@ -152,13 +152,13 @@ reboot
 在登录界面，选择 `Not listed` 选项，在用户名中输入 `root`，并输入你在本指南开头配置的密码：
 
 
-![Login as a root in ubuntu desktop](/Asserts/Images//attachment/album/202302/28/104600skw9i341pfu5kw13.png)
+![Login as a root in ubuntu desktop](/Asserts/Images/album/202302/28/104600skw9i341pfu5kw13.png)
 
 
 当你登录后，它就会通知你，**“logged in as a privileged user”**：
 
 
-![logged in as a privileged user in Ubuntu](/Asserts/Images//attachment/album/202302/28/104601mwgdx2305rg0xd3a.png)
+![logged in as a privileged user in Ubuntu](/Asserts/Images/album/202302/28/104601mwgdx2305rg0xd3a.png)
 
 
 这就完成了! 现在，你正在以 root 身份运行你的 Ubuntu 系统。

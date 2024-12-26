@@ -49,7 +49,7 @@ $ sudo apt-get install cinnamon nemo
 你就有了这样一个桌面。
 
 
- ![](/Asserts/Images//attachment/album/201310/11/230945ppy1uiccxjqy3k9p.png)
+ ![](/Asserts/Images/album/201310/11/230945ppy1uiccxjqy3k9p.png)
 
 
 *查看已打开菜单的Cinnamon 1.8桌面*

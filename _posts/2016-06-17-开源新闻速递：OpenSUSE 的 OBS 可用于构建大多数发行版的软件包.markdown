@@ -24,7 +24,7 @@ OpenSUSE 的 Open Build Service （OBS）2.7 [发布](https://lists.opensuse.org
 * 实验性的 KIWI 导入功能，开发者可以从 SUSE Studio 服务导入 ISO 镜像。
 
 
-![](/Asserts/Images//attachment/album/201606/07/210639b5kezn2hijpunjf5.jpg)
+![](/Asserts/Images/album/201606/07/210639b5kezn2hijpunjf5.jpg)
 
 
 ### 新闻摘要

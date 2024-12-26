@@ -7,7 +7,7 @@ tags:	[linuxcn,ubuntu,发行版,Saucy Salamander]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/31/164038p7po52nept53tph3.jpg)
+![](/Asserts/Images/album/201407/31/164038p7po52nept53tph3.jpg)
 
 
 **尽管目前运行良好，在经历了9个月的折腾后，今天官方对Ubuntu 13.10(俏皮蝾螈)的支持正式寿终正寝。**

@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/03/231559qweqmphmmzpwxhiq.jpg)
+![](/Asserts/Images/album/202306/03/231559qweqmphmmzpwxhiq.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,Arch]
 我在物理机和虚拟机中都安装有一些 Arch Linux 系统，我会在需要时访问它们。将近两个月后，当我尝试使用 `sudo pacman -Syu` 升级其中一个中的 Arch Linux 时，我遇到了数百个这样的错误：
 
 
-![Arch Linux 中无效或损坏的包错误示例](/Asserts/Images//attachment/album/202306/03/231712omwmrgegfepeggg4.jpg)
+![Arch Linux 中无效或损坏的包错误示例](/Asserts/Images/album/202306/03/231712omwmrgegfepeggg4.jpg)
 
 
 问题是当你遇到上面的错误时，你无法升级/更新你的 Arch 系统。即使你同步镜像或获得更快的镜像。所以，如果你运行 `sudo pacman -Syyu`，错误仍然存在。这就造成了困难，因为在修复此问题之前你无法安装任何其他软件包。

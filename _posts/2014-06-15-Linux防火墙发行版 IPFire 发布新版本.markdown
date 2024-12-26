@@ -7,7 +7,7 @@ tags:	[linuxcn,IPFire]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/19/144607z2fhnhcctfpnkg3g.jpg)
+![](/Asserts/Images/album/201406/19/144607z2fhnhcctfpnkg3g.jpg)
 
 
 **ipfire.org团队的 Michael Tremer 发布了 IPFire 2.13 Core 78 的最新稳定版本， 这是一个基于Linux的防火墙发行版，本次发布已经包含了最新的OpenSSL补丁。**

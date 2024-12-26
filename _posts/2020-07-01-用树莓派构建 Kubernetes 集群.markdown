@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/15/234152ivw1y2wwhmhmpuvo.jpg)
+![](/Asserts/Images/album/202007/15/234152ivw1y2wwhmhmpuvo.jpg)
 
 
 [Kubernetes](https://opensource.com/resources/what-is-kubernetes) 从一开始就被设计为云原生的企业级容器编排系统。它已经成长为事实上的云容器平台，并由于接受了容器原生虚拟化和无服务器计算等新技术而继续发展。
@@ -358,7 +358,7 @@ huckleberry   Ready    &lt;none&gt;   17s     v1.18.2
 此时，你已经拥有了一个完全正常工作的 Kubernetes 集群。你可以运行 Pod、创建部署和作业等。你可以使用[服务](https://kubernetes.io/docs/concepts/services-networking/service/)从集群中的任何一个节点访问集群中运行的应用程序。你可以通过 NodePort 服务或入口控制器实现外部访问。
 
 
-要验证集群正在运行，请创建一个新的命名空间、部署和服务，并检查在部署中运行的 Pod 是否按预期响应。此部署使用 `quay.io/clcollins/kube-verify:01` 镜像，这是一个监听请求的 Nginx 容器（实际上，与文章《[使用 Cloud-init 将节点添加到你的私有云](/article-12407-1.html)》中使用的镜像相同）。你可以在[这里](https://github.com/clcollins/homelabCloudInit/blob/master/simpleCloudInitService/Asserts/Images//Containerfile)查看镜像的容器文件。
+要验证集群正在运行，请创建一个新的命名空间、部署和服务，并检查在部署中运行的 Pod 是否按预期响应。此部署使用 `quay.io/clcollins/kube-verify:01` 镜像，这是一个监听请求的 Nginx 容器（实际上，与文章《[使用 Cloud-init 将节点添加到你的私有云](/article-12407-1.html)》中使用的镜像相同）。你可以在[这里](https://github.com/clcollins/homelabCloudInit/blob/master/simpleCloudInitService/data/Containerfile)查看镜像的容器文件。
 
 
 为部署创建一个名为 `kube-verify` 的命名空间：

@@ -13,7 +13,7 @@ tags:	[linuxcn,更新,安全补丁]
 在之前的文章中，我们分享了[如何在 Debian 和 Ubuntu 系统上自动安装安全更新](/article-8060-1.html)，在这篇文章中，我们将分享如何在 CentOS/RHEL 7/6 版本中设置在需要时自动更新重要的安全补丁。
 
 
-![](/Asserts/Images//attachment/album/201612/06/112140lmuu47077kkfyi6w.png)
+![](/Asserts/Images/album/201612/06/112140lmuu47077kkfyi6w.png)
 
 
 和它同一家族的其它 Linux 版本（Fedora 或 Scientific Linux）中可以用类似的方法进行配置。

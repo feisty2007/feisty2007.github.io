@@ -7,10 +7,10 @@ tags:	[linuxcn,RISC-V,自动驾驶,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/28/173418hinjznidyrsujjzu.jpg)
+![](/Asserts/Images/album/202301/28/173418hinjznidyrsujjzu.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/28/173407fzva0yfjmoir0wui.jpg)
+![](/Asserts/Images/album/202301/28/173407fzva0yfjmoir0wui.jpg)
 
 
 ### 英特尔砍掉了 Pathfinder for RISC-V 项目
@@ -35,7 +35,7 @@ tags:	[linuxcn,RISC-V,自动驾驶,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/28/173433nos7llzh3mk77ygy.jpg)
+![](/Asserts/Images/album/202301/28/173433nos7llzh3mk77ygy.jpg)
 
 
 ### 奔驰成为美国首家获得三级自动驾驶认证的汽车公司
@@ -60,7 +60,7 @@ tags:	[linuxcn,RISC-V,自动驾驶,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/28/173449o6nk34f4k1gvnbbh.jpg)
+![](/Asserts/Images/album/202301/28/173449o6nk34f4k1gvnbbh.jpg)
 
 
 ### 《科学》期刊禁止将 ChatGPT 列为论文的共同作者

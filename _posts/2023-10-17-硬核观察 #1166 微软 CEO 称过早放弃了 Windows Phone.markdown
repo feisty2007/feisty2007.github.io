@@ -7,10 +7,10 @@ tags:	[linuxcn,Chrome,Windows Phone,量子计算机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/26/164750brfa6raurb7u0j6v.jpg)
+![](/Asserts/Images/album/202310/26/164750brfa6raurb7u0j6v.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/26/164759pfznghfanzfn7pfn.jpg)
+![](/Asserts/Images/album/202310/26/164759pfznghfanzfn7pfn.jpg)
 
 
 ### 微软 CEO 称过早放弃了 Windows Phone
@@ -35,7 +35,7 @@ Windows Phone 推出于 2010 年，尽管微软斥资数十亿美元收购了诺
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/26/164808nbnq2zaej3newvav.jpg)
+![](/Asserts/Images/album/202310/26/164808nbnq2zaej3newvav.jpg)
 
 
 ### 微软会问你为什么要下载 Chrome
@@ -60,7 +60,7 @@ Windows Phone 推出于 2010 年，尽管微软斥资数十亿美元收购了诺
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/26/164821gbm145v8ubz504rv.jpg)
+![](/Asserts/Images/album/202310/26/164821gbm145v8ubz504rv.jpg)
 
 
 ### 原子计算公司率先宣布推出 1180 比特的量子计算机

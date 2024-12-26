@@ -7,7 +7,7 @@ tags:	[linuxcn,smtp]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/03/162813rc900xbgx3xggxxg.jpg)
+![](/Asserts/Images/album/202208/03/162813rc900xbgx3xggxxg.jpg)
 
 
 我喜欢使用本地 SMTP 守护进程从我的笔记本电脑发送电子邮件，因为这样我即使在断开连接的情况下也可以发送电子邮件，而且，即使是在网络正常的情况下，因为我不需要等待网络协议在远程 smarthost 上完成。哦，我还需要本地邮件投递。

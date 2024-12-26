@@ -7,10 +7,10 @@ tags:	[linuxcn,挖矿,Wine,ArXiv]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/19/192727xobziqq9o5wjopro.jpg)
+![](/Asserts/Images/album/202201/19/192727xobziqq9o5wjopro.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/19/192735n7x4dkztkpgku4cc.jpg)
+![](/Asserts/Images/album/202201/19/192735n7x4dkztkpgku4cc.jpg)
 
 
 ### 英特尔将发布超低电压比特币采矿芯片
@@ -27,7 +27,7 @@ tags:	[linuxcn,挖矿,Wine,ArXiv]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/19/192747k1nngavam6ui0nto.jpg)
+![](/Asserts/Images/album/202201/19/192747k1nngavam6ui0nto.jpg)
 
 
 ### Wine 7.0 发布
@@ -44,7 +44,7 @@ Wine 用于在 Linux、macOS 和其他平台上运行 Windows 应用程序/游�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/19/192804ami3jm3we3d33cqz.jpg)
+![](/Asserts/Images/album/202201/19/192804ami3jm3we3d33cqz.jpg)
 
 
 ### 预印本网站 ArXiv 已收录了 200 万篇论文

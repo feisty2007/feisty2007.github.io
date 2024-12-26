@@ -156,7 +156,7 @@ $ sudo ldconfig
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/26/104330xjhjhhkjs28jhsra.jpg)
+![](/Asserts/Images/album/201504/26/104330xjhjhhkjs28jhsra.jpg)
 
 
 

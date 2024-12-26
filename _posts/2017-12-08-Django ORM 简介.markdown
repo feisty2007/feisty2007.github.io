@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,Django,ORM]
 > 
 
 
-![Getting to know the Django ORM](/Asserts/Images//attachment/album/201712/17/185201amly37pj9r33ph5j.png "Getting to know the Django ORM")
+![Getting to know the Django ORM](/Asserts/Images/album/201712/17/185201amly37pj9r33ph5j.png "Getting to know the Django ORM")
 
 
 你可能听说过 [Django](https://www.djangoproject.com/)，它是一个被称为“完美主义者的最后期限” 的 Python web 框架。它是一匹 [可爱的小矮马](http://www.djangopony.com/)。
@@ -180,7 +180,7 @@ QuerySet[<Author: VM (Vicky) Brasseur>, <Author: Victor Hugo">]
 ORM 是非常强大并且是 Python 特有的。不过，还记得我在上面提到过的 Django 的管理网站吗？
 
 
-![Django Admin](/Asserts/Images//attachment/album/201712/17/185202ge3wx17hek2n1idi.png "Django Admin")
+![Django Admin](/Asserts/Images/album/201712/17/185202ge3wx17hek2n1idi.png "Django Admin")
 
 
 Django 的其中一个非常精彩的用户可访问特性是它的管理界面，如果你定义你的模型，你将看到一个非常好用的基于 web 的编辑门户，而且它是免费的。
@@ -189,7 +189,7 @@ Django 的其中一个非常精彩的用户可访问特性是它的管理界面�
 ORM，有多强大？
 
 
-![Authors list in Django Admin](/Asserts/Images//attachment/album/201712/17/185202b8wpwl683uhuzlwt.png "Authors list in Django Admin")
+![Authors list in Django Admin](/Asserts/Images/album/201712/17/185202b8wpwl683uhuzlwt.png "Authors list in Django Admin")
 
 
 好吧！给你一些代码去创建最初的模型，Django 就变成了一个基于 web 的门户，它是非常强大的，它可以使用我们前面用过的同样的原生函数。默认情况下，这个管理门户只有基本的东西，但这只是在你的模型中添加一些定义去改变外观的问题。例如，在早期的这些 `__str__` 方法中，我们使用这些去定义作者对象应该有什么？（在这种情况中，比如，作者的名字），做了一些工作后，你可以创建一个界面，让它看起来像一个内容管理系统，以允许你的用户去编辑他们的内容。（例如，为一个标记为 “已发布” 的文章，增加一些输入框和过滤）。

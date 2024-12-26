@@ -7,7 +7,7 @@ tags:	[linuxcn,Fail2Ban,防火墙]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/31/151825ej2k38zwwqwhrmkw.jpg)
+![](/Asserts/Images/album/201801/31/151825ej2k38zwwqwhrmkw.jpg)
 
 
 Linux 管理员的一个重要任务是保护服务器免受非法攻击或访问。 默认情况下，Linux 系统带有配置良好的防火墙，比如iptables、Uncomplicated Firewall（UFW），ConfigServer Security Firewall（CSF）等，可以防止多种攻击。

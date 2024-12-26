@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,发行版,RHEL,CentOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/09/100614ja4za9oppkot39vt.png)
+![](/Asserts/Images/album/201407/09/100614ja4za9oppkot39vt.png)
 
 
 ### 简介
@@ -70,7 +70,7 @@ RHEL 是商业版本，并不提供免费下载和使用。需要购买 Red Hat 
 ### 历史
 
 
-![](/Asserts/Images//attachment/album/201712/14/155511uct53mc0n8mxtpc8.png)
+![](/Asserts/Images/album/201712/14/155511uct53mc0n8mxtpc8.png)
 
 
 #### 派生版本

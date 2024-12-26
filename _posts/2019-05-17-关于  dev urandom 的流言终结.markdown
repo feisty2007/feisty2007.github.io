@@ -7,7 +7,7 @@ tags:	[linuxcn,随机]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/05/114806yfcc6p5f6mmug58b.jpg)
+![](/Asserts/Images/album/201905/05/114806yfcc6p5f6mmug58b.jpg)
 
 
 有很多关于 `/dev/urandom` 和 `/dev/random` 的流言在坊间不断流传。然而流言终究是流言。
@@ -167,7 +167,7 @@ man 页面确实说在一些情况下推荐使用 `/dev/random` （我觉得也�
 你对内核的随机数生成器的理解很可能是像这样的：
 
 
-![image: mythical structure of the kernel's random number generator](/Asserts/Images//attachment/album/201905/05/114905nbvogxorvss5r8sp.png)
+![image: mythical structure of the kernel's random number generator](/Asserts/Images/album/201905/05/114905nbvogxorvss5r8sp.png)
 
 
 “真正的随机性”，尽管可能有点瑕疵，进入操作系统然后它的熵立刻被加入内部熵计数器。然后经过“矫偏”和“漂白”之后它进入内核的熵池，然后 `/dev/random` 和 `/dev/urandom` 从里面生成随机数。
@@ -197,7 +197,7 @@ man 页面确实说在一些情况下推荐使用 `/dev/random` （我觉得也�
 ##### Linux 4.8 之前
 
 
-![image: actual structure of the kernel's random number generator before Linux 4.8](/Asserts/Images//attachment/album/201905/05/114905x1ueur2bboejqbne.png)
+![image: actual structure of the kernel's random number generator before Linux 4.8](/Asserts/Images/album/201905/05/114905x1ueur2bboejqbne.png)
 
 
 你看到最大的区别了吗？CSPRNG 并不是和随机数生成器一起跑的，它在 `/dev/urandom` 需要输出但熵不够的时候进行填充。CSPRNG 是整个随机数生成过程的内部组件之一。从来就没有什么 `/dev/random` 直接从池里输出纯纯的随机性。每个随机源的输入都在 CSPRNG 里充分混合和散列过了，这一切都发生在实际变成一个随机数，被 `/dev/urandom` 或者 `/dev/random` 吐出去之前。
@@ -226,7 +226,7 @@ Linux 内核只使用事件的到达时间来预估熵的量。根据模型，�
 ##### Linux 4.8 以后
 
 
-![image: actual structure of the kernel's random number generator from Linux 4.8 onward](/Asserts/Images//attachment/album/201905/05/114906auiuoy8j6ji76m6i.png)
+![image: actual structure of the kernel's random number generator from Linux 4.8 onward](/Asserts/Images/album/201905/05/114906auiuoy8j6ji76m6i.png)
 
 
 在 Linux 4.8 里，`/dev/random` 和 `/dev/urandom` 的等价性被放弃了。现在 `/dev/urandom` 的输出不来自于熵池，而是直接从 CSPRNG 来。

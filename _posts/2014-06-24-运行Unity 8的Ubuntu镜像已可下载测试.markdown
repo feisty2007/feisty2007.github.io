@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Unity]
 ---
 
 
-![ ](/Asserts/Images//attachment/album/201406/19/151616kz74alvaj4zljj5d.jpg)
+![ ](/Asserts/Images/album/201406/19/151616kz74alvaj4zljj5d.jpg)
 
 
 \*运行在平板上的Unity 8 \*

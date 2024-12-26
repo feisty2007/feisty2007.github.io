@@ -7,7 +7,7 @@ tags:	[linuxcn,防火墙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/03/090806hcmc9cxcbbcuccbe.jpg)
+![](/Asserts/Images/album/202006/03/090806hcmc9cxcbbcuccbe.jpg)
 
 
 在上一篇文章中，我们探讨了如何在 Fedora 中[用命令行控制防火墙](/article-12103-1.html)。

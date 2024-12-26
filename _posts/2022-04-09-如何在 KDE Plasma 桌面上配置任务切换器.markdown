@@ -15,7 +15,7 @@ tags:	[linuxcn,KDE,任务切换器]
 > 
 
 
-![Configure KDE Plasma Task Switcher](/Asserts/Images//attachment/album/202204/09/140238czhpphlz0pzpwhp8.jpg)
+![Configure KDE Plasma Task Switcher](/Asserts/Images/album/202204/09/140238czhpphlz0pzpwhp8.jpg)
 
 
 ### 什么是任务切换器？
@@ -24,7 +24,7 @@ tags:	[linuxcn,KDE,任务切换器]
 [任务切换器](https://docs.kde.org/trunk5/en/kwin/kcontrol/kwintabbox/index.html) 是一个帮助你在当前桌面会话中切换打开的窗口或应用的组件。通常，当你按下 `Alt+Tab` 时，它会显示为一个图标列表。
 
 
-![Thumbnail Grid Task Switcher](/Asserts/Images//attachment/album/202204/09/140238ylouzdxv7ppttsog.jpg)
+![Thumbnail Grid Task Switcher](/Asserts/Images/album/202204/09/140238ylouzdxv7ppttsog.jpg)
 
 
 而这在 KDE Plasma 中是可以根据你的具体需要高度配置的。你可以定制它的外观、图标的排序、相同应用的分组等等。
@@ -42,7 +42,7 @@ tags:	[linuxcn,KDE,任务切换器]
 选择你喜欢的选项并点击“预览”按钮。如果你感到满意，那么你可以点击“<ruby> 应用 <rt>  Apply </rt></ruby>”按钮。
 
 
-![Configure Task Switcher in KDE](/Asserts/Images//attachment/album/202204/09/140238ur43mv7dm3z3ebpv.jpg)
+![Configure Task Switcher in KDE](/Asserts/Images/album/202204/09/140238ur43mv7dm3z3ebpv.jpg)
 
 
 这就是如何改变 KDE Plasma 桌面中的任务切换器的方法。
@@ -77,31 +77,31 @@ tags:	[linuxcn,KDE,任务切换器]
 下面是上述任务切换器的截图。
 
 
-![](/Asserts/Images//attachment/album/202204/09/140238prq09rlfcj0sczss.jpg)
+![](/Asserts/Images/album/202204/09/140238prq09rlfcj0sczss.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/09/140238oq6g64b04q0bq40x.jpg)
+![](/Asserts/Images/album/202204/09/140238oq6g64b04q0bq40x.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/09/140238y48go8o4b8pp52p4.jpg)
+![](/Asserts/Images/album/202204/09/140238y48go8o4b8pp52p4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/09/140238pgb5hjwezbxxwgj5.jpg)
+![](/Asserts/Images/album/202204/09/140238pgb5hjwezbxxwgj5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/09/140238iyzak62xq8k328yc.jpg)
+![](/Asserts/Images/album/202204/09/140238iyzak62xq8k328yc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/09/140239w8xxo18drrr888vv.jpg)
+![](/Asserts/Images/album/202204/09/140239w8xxo18drrr888vv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/09/140239vf5hsdfkjjwjwjju.jpg)
+![](/Asserts/Images/album/202204/09/140239vf5hsdfkjjwjwjju.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/09/140239diiqtt4qs95sdspl.jpg)
+![](/Asserts/Images/album/202204/09/140239diiqtt4qs95sdspl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/09/140239dvmrqoeiccom5zow.jpg)
+![](/Asserts/Images/album/202204/09/140239dvmrqoeiccom5zow.jpg)
 
 
 现在，这就是 KDE Plasma 桌面中任务切换器的基本配置。现在我将解释它在以下情况下是如何表现的。
@@ -119,7 +119,7 @@ tags:	[linuxcn,KDE,任务切换器]
 你也可以在任务切换器中对相同的应用图标进行分组，以保持其简单明了。例如，如果你打开了多个 Dolphin 文件管理器实例，你可以选择下面的选项，在任务切换器的可视化中只出现一次 Dolphin 图标。
 
 
-![Same application grouping](/Asserts/Images//attachment/album/202204/09/140239hjjtjft5jotplxpf.jpg)
+![Same application grouping](/Asserts/Images/album/202204/09/140239hjjtjft5jotplxpf.jpg)
 
 
 但你可能想知道如果只出现一次，如何在相同的应用实例中切换。你可以通过任务切换器中的 `Alt+``（默认值）来切换相同的应用。下面是你可以根据你的需要和工作来改变的选项。

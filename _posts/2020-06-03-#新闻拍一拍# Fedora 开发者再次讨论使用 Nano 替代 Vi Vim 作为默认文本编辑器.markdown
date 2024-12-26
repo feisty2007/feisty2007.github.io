@@ -7,7 +7,7 @@ tags:	[linuxcn,Vi,Java,DNS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/27/115703xmn8yaqd1pq10yq8.jpg)
+![](/Asserts/Images/album/202006/27/115703xmn8yaqd1pq10yq8.jpg)
 
 
 #### Fedora 开发者再次讨论使用 Nano 替代 Vi/Vim 作为默认文本编辑器

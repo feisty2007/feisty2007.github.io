@@ -7,10 +7,10 @@ tags:	[linuxcn,编程,AI,树莓派,Linux,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/03/184022cmmiw55s71714yew.jpg)
+![](/Asserts/Images/album/202202/03/184022cmmiw55s71714yew.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/03/184030qjmcppucprcc6b9u.jpg)
+![](/Asserts/Images/album/202202/03/184030qjmcppucprcc6b9u.jpg)
 
 
 ### AI 参加编程竞赛，成绩超过了一半的程序员
@@ -27,7 +27,7 @@ DeepMind 刚刚宣布了其最新打造的 [AlphaCode](https://www.theverge.com/
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/03/184040yh2rrbo48jjwjksj.jpg)
+![](/Asserts/Images/album/202202/03/184040yh2rrbo48jjwjksj.jpg)
 
 
 ### 树莓派操作系统发布 64 位版本
@@ -44,7 +44,7 @@ DeepMind 刚刚宣布了其最新打造的 [AlphaCode](https://www.theverge.com/
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/03/184059hy6hnhhwze5kwjpn.jpg)
+![](/Asserts/Images/album/202202/03/184059hy6hnhhwze5kwjpn.jpg)
 
 
 ### Oracle Linux 出现在 Windows 商店

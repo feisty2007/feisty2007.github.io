@@ -7,7 +7,7 @@ tags:	[linuxcn,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/16/075033xlo3z0230k2q7wlm.jpg)
+![](/Asserts/Images/album/202312/16/075033xlo3z0230k2q7wlm.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,AI]
 那么，让我们深入了解他们计划实现什么目标。
 
 
-![](/Asserts/Images//attachment/album/202312/16/075133jvksvgas9o7vvoov.png)
+![](/Asserts/Images/album/202312/16/075133jvksvgas9o7vvoov.png)
 
 
 **正在发生的事情：** 由 [IBM](https://www.ibm.com/) 和 [Meta](https://meta.com/) 发起，**AI 联盟是一组来自不同垂直领域的组织**，其中包括**初创企业**、**知名公司**、**政府**、**研究人员**，甚至**著名的教育机构**，都专注于一个重点。

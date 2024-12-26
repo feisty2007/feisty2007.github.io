@@ -7,7 +7,7 @@ tags:	[linuxcn,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/26/145741v0kks454xklerkw9.png)
+![](/Asserts/Images/album/201809/26/145741v0kks454xklerkw9.png)
 
 
 有什么好的方法，既可以宣传开源的精神又不用写代码呢？这里有个点子：“<ruby> 开源食堂 <rt>  open source cooking </rt></ruby>”。在过去的 8 年间，这就是我们在慕尼黑做的事情。

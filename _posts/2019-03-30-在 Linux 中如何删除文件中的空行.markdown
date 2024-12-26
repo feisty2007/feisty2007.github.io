@@ -7,7 +7,7 @@ tags:	[linuxcn,删除,空行]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/17/133602d4mx5cd44ivx5d5v.jpg)
+![](/Asserts/Images/album/201903/17/133602d4mx5cd44ivx5d5v.jpg)
 
 
 有时你可能需要在 Linux 中删除某个文件中的空行。如果是的，你可以使用下面方法中的其中一个。有很多方法可以做到，但我在这里只是列举一些简单的方法。

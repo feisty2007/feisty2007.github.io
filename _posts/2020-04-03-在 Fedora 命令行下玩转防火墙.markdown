@@ -7,7 +7,7 @@ tags:	[linuxcn,防火墙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202004/12/123040ghxuicphyhsoppch.jpg)
+![](/Asserts/Images/album/202004/12/123040ghxuicphyhsoppch.jpg)
 
 
 网络防火墙，顾名思义：为了阻止不需要的网络连接而设置的防护性屏障。在与外界建立连接或是提供网络服务时常常会用到。例如，在学校或是咖啡厅里使用笔记本电脑时，你一定不想某个陌生人窥探你的电脑。

@@ -7,7 +7,7 @@ tags:	[linuxcn,pbcopy,pbpaste]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/14/092631ugqj2klqnj8n2lp4.png)
+![](/Asserts/Images/album/201808/14/092631ugqj2klqnj8n2lp4.png)
 
 
 由于 Linux 和 Mac OS X 是基于 \*Nix 的系统，因此许多命令可以在两个平台上运行。但是，某些命令可能在两个平台上都没有，比如 `pbcopy` 和 `pbpast`。这些命令仅在 Mac OS X 平台上可用。`pbcopy` 命令将标准输入复制到剪贴板。然后，你可以在任何地方使用 `pbpaste` 命令粘贴剪贴板内容。当然，上述命令可能有一些 Linux 替代品，例如 `xclip`。 `xclip` 与 `pbcopy` 完全相同。但是，从 Mac OS 切换到 Linux 的发行版的人将会找不到这两个命令，不过仍然想使用它们。别担心！这个简短的教程描述了如何在 Linux 上使用 `pbcopy` 和 `pbpaste` 命令。
@@ -115,7 +115,7 @@ Welcome To OSTechNix!
 
 ```
 
-![](/Asserts/Images//attachment/album/201808/14/092632tl5uau5sza5mm3as.png)
+![](/Asserts/Images/album/201808/14/092632tl5uau5sza5mm3as.png)
 
 
 以下是一些其他例子。
@@ -171,7 +171,7 @@ $ pbpaste
 
 ```
 
-![](/Asserts/Images//attachment/album/201808/14/092633obkgk1bvkekk15wg.png)
+![](/Asserts/Images/album/201808/14/092633obkgk1bvkekk15wg.png)
 
 
 使用 `pbcopy` 和 `pbpaste` 命令可以做更多的事情。我希望你现在对这些命令有一个基本的想法。

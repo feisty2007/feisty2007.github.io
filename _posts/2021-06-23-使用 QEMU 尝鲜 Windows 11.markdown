@@ -7,7 +7,7 @@ tags:	[linuxcn,Windows,QEMU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202106/26/115008nnhoeh5ksxfoksn3.jpg)
+![](/Asserts/Images/album/202106/26/115008nnhoeh5ksxfoksn3.jpg)
 
 
 2021 年 06 月 24 日微软正式发布了 Windows 11 操作系统，这是微软时隔 6 年来的再次发布操作系统。根据其官方介绍，Windows 11 新增了许多特性，考虑到安装 Windows 11 到 PC 会耽误现在的正常工作（毕竟用 Windows 11 替换 PC 中的 Windows 10 后需要重新安装各种工程软件，这是件很耗时的事情），因此我想到用 QEMU 虚拟机来体验一下新发布的 Windows 11 尝尝鲜。
@@ -101,7 +101,7 @@ cp xxx/virtio-win.iso /win11/
 此时，`/win11/`目录下应该是这样几个文件：
 
 
-![](/Asserts/Images//attachment/album/202106/26/112137ighsstpa166dtost.png)
+![](/Asserts/Images/album/202106/26/112137ighsstpa166dtost.png)
 
 
 #### 3、编写启动 Windows 11 脚本
@@ -166,7 +166,7 @@ chmod +x /win11/start.sh
 至此，准备工作都完成了，此时`/win11/`目录下应该有 4 个文件，如下图所示。
 
 
-![](/Asserts/Images//attachment/album/202106/26/112623rzslsa3awdsdw3wd.png)
+![](/Asserts/Images/album/202106/26/112623rzslsa3awdsdw3wd.png)
 
 
 ### 二、安装 Windows 11 系统
@@ -178,7 +178,7 @@ chmod +x /win11/start.sh
 执行 `start.sh` 脚本，然后用 spice 协议连接`172.17.81.26:8891`端口：
 
 
-![](/Asserts/Images//attachment/album/202106/26/112731twctpqgmwxwx80qe.png)
+![](/Asserts/Images/album/202106/26/112731twctpqgmwxwx80qe.png)
 
 
 #### 2、安装 Windows 11 系统
@@ -187,55 +187,55 @@ chmod +x /win11/start.sh
 连接上远程界面后，首先看到的是经典的 Windows 界面：
 
 
-![](/Asserts/Images//attachment/album/202106/26/112804ykud3odtgkuctb9g.png)
+![](/Asserts/Images/album/202106/26/112804ykud3odtgkuctb9g.png)
 
 
 然后进入语言、时区、键盘等选项，此处不用修改，一直选择默认的即可。
 
 
-![](/Asserts/Images//attachment/album/202106/26/112823i2z4l0ld3l2l4sfj.png)
+![](/Asserts/Images/album/202106/26/112823i2z4l0ld3l2l4sfj.png)
 
 
 接着需要输入密钥，但我们并没有，此处选择“I don't have a product key”即可。
 
 
-![](/Asserts/Images//attachment/album/202106/26/112847tu1ve9u27gv6q7ej.png)
+![](/Asserts/Images/album/202106/26/112847tu1ve9u27gv6q7ej.png)
 
 
 然后进入了磁盘选择页面，会发现没有磁盘可选，此时单击“Load driver”选项就进行扫描，然后就可以发现磁盘（此处便是 `virtio-win.iso` 在起作用了）。此处发现**并没有 Windows 11 的选项，直接选择 “w10” 那一项即可**（我猜测是因为 `virtio-win.iso` 还并未支持 Windows 11 选项，相信马上就会更新了）。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113514rnc5f4n45c9gs0zq.png)
+![](/Asserts/Images/album/202106/26/113514rnc5f4n45c9gs0zq.png)
 
 
 然后找到安装磁盘，并选择，然后下一步。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113528lrrtttgqvht6trqq.png)
+![](/Asserts/Images/album/202106/26/113528lrrtttgqvht6trqq.png)
 
 
 然后进入安装过程，稍作等待 3-5 分钟。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113542m1s5uskyszk01oro.png)
+![](/Asserts/Images/album/202106/26/113542m1s5uskyszk01oro.png)
 
 
 安装完成后，进入准备桌面过程，是不是很熟悉？
 
 
-![](/Asserts/Images//attachment/album/202106/26/113646dspum59pp9d2my54.png)
+![](/Asserts/Images/album/202106/26/113646dspum59pp9d2my54.png)
 
 
 接着就到了“just a moment”界面了，马上就可以进入桌面了，是不是很激动了，哈哈哈哈。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113708tflk0ic9vfnnqjn6.png)
+![](/Asserts/Images/album/202106/26/113708tflk0ic9vfnnqjn6.png)
 
 
 进入了桌面，此处其实是个动态的过程，因为截屏所以看不出效果。这个 Windows 界面重新设计过 UI了，个人觉得更好看了。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113732danmh09zns090hnd.png)
+![](/Asserts/Images/album/202106/26/113732danmh09zns090hnd.png)
 
 
 #### 3. 进入桌面前的准备
@@ -247,25 +247,25 @@ chmod +x /win11/start.sh
 首先是选择国家地区，此处也即默认即可，无需更改。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113750p28m4gi811zz8f1w.png)
+![](/Asserts/Images/album/202106/26/113750p28m4gi811zz8f1w.png)
 
 
 然后是检查更新，此处根据网速快慢，等待的时间不定，需要耐心等待。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113801q5av5926y52k6zuu.png)
+![](/Asserts/Images/album/202106/26/113801q5av5926y52k6zuu.png)
 
 
 Windows 11 这里非要让用户填写 “Microsoft 账户”，无法跳过，很是郁闷，只能填写账户，然后下一步了。没有账户的可能得先申请一个微软账户了（估计正式版本会增加跳过选项吧）。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113838e0fmk52by0jo2f8j.png)
+![](/Asserts/Images/album/202106/26/113838e0fmk52by0jo2f8j.png)
 
 
 然后设置开机登录密码。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113858fz9d7dadqbma35f9.png)
+![](/Asserts/Images/album/202106/26/113858fz9d7dadqbma35f9.png)
 
 
 最后，最后，最后，激动的时刻来了，进入桌面了。初次见面，什么感觉？
@@ -274,13 +274,13 @@ Windows 11 这里非要让用户填写 “Microsoft 账户”，无法跳过，�
 乍一看，怎么那么像 Mac 的风格和 UI 界面。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113929tvm4tmar5umumbkg.png)
+![](/Asserts/Images/album/202106/26/113929tvm4tmar5umumbkg.png)
 
 
 为了显示更舒适一点，推荐设置以下屏幕分辨率（根据个人电脑屏幕大小自行设定）。这里我选择的是`1920*1080`。
 
 
-![](/Asserts/Images//attachment/album/202106/26/113942p347u34t0w3eywcu.jpg)
+![](/Asserts/Images/album/202106/26/113942p347u34t0w3eywcu.jpg)
 
 
 ### 三、体验 Windows 11 系统
@@ -292,7 +292,7 @@ Windows 11 这里非要让用户填写 “Microsoft 账户”，无法跳过，�
 #### 1、新的 UI 外观以及菜单
 
 
-![](/Asserts/Images//attachment/album/202106/26/114021wbmeybmac2qnyeam.jpg)
+![](/Asserts/Images/album/202106/26/114021wbmeybmac2qnyeam.jpg)
 
 
 确实，这个 UI 风格和 Windows 10 还是有较大区别的，和 Windows 7 相比，特别时尚了。我感觉这个 UI 风格是为了适配平板、Surface 等便携式设备而优化的。
@@ -310,7 +310,7 @@ Windows 11 这里非要让用户填写 “Microsoft 账户”，无法跳过，�
 如下图所示，选择了四个桌面的布局，将两个任务放在了上面两个布局框中。
 
 
-![](/Asserts/Images//attachment/album/202106/26/114132eimpa44v58vu34u8.jpg)
+![](/Asserts/Images/album/202106/26/114132eimpa44v58vu34u8.jpg)
 
 
 #### 3、新的小工具窗口
@@ -319,7 +319,7 @@ Windows 11 这里非要让用户填写 “Microsoft 账户”，无法跳过，�
 这是由 Microsoft Edge 和 AI 提供的全新 Widgets功能，包含日历、天气、待办事项、照片等功能。
 
 
-![](/Asserts/Images//attachment/album/202106/26/114350ynsdllykt31zle66.jpg)
+![](/Asserts/Images/album/202106/26/114350ynsdllykt31zle66.jpg)
 
 
 #### 4、不同场景设置不同桌面
@@ -328,7 +328,7 @@ Windows 11 这里非要让用户填写 “Microsoft 账户”，无法跳过，�
 这个功能我觉得还蛮实用的，可以根据使用的场景不同，设置不同的桌面（甚至包含常用软件的设置）。比如设置“home”、 “game”、“work”三种不同的桌面环境，方便场景快速切换。
 
 
-![](/Asserts/Images//attachment/album/202106/26/114429yiochm070fq7jvfh.png)
+![](/Asserts/Images/album/202106/26/114429yiochm070fq7jvfh.png)
 
 
 #### 5、全新的应用商店
@@ -340,19 +340,19 @@ Windows 11 这里非要让用户填写 “Microsoft 账户”，无法跳过，�
 微软商店界面：
 
 
-![](/Asserts/Images//attachment/album/202106/26/114507scmm2c2aj5mnmmmy.jpg)
+![](/Asserts/Images/album/202106/26/114507scmm2c2aj5mnmmmy.jpg)
 
 
 我们来安装个 tiktok 试试，看看效果如何。首先在商店中搜索“tiktok”。然后会发现，tiktok 有 PC 版、Moblie device 版本。
 
 
-![](/Asserts/Images//attachment/album/202106/26/114558wlhcynr76yrnwkcw.png)
+![](/Asserts/Images/album/202106/26/114558wlhcynr76yrnwkcw.png)
 
 
 根据 tiktok 界面看，我觉得我这里安装的应该是 Mobile device 版本的 tiktok。这个界面是不是很类似手机和平板的 tiktok 界面风格呢？这应该是 Windows 11 的一个较为新颖的功能。
 
 
-![](/Asserts/Images//attachment/album/202106/26/114647qjs68s1r886198uj.jpg)
+![](/Asserts/Images/album/202106/26/114647qjs68s1r886198uj.jpg)
 
 
 ### 总结

@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch Linux,Garuda Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/11/095005r8a9j7pjwghhwnpg.jpg)
+![](/Asserts/Images/album/202303/11/095005r8a9j7pjwghhwnpg.jpg)
 
 
 
@@ -18,7 +18,7 @@ tags:	[linuxcn,Arch Linux,Garuda Linux]
 > 
 
 
-![Garuda Linux Raptor 230305](/Asserts/Images//attachment/album/202303/11/095014pvl7qqdzj7dvnqir.jpg)
+![Garuda Linux Raptor 230305](/Asserts/Images/album/202303/11/095014pvl7qqdzj7dvnqir.jpg)
 
 
 Garuda Linux 是一个基于 Arch Linux 的发行版，由于其开箱即用的体验、游戏支持和用户友好界面，在 Arch Linux 爱好者中越来越受欢迎。Garuda Linux 以其对性能、速度和稳定性的关注而闻名。
@@ -39,7 +39,7 @@ Garuda 的主要旗舰版是 dr460nized 版，采用 KDE Plasma 桌面环境，�
 这的确是事实。但是，没有其他停靠区软件能像 Latte Dock 一样。我的意思是，虽然有，但它们都没有接近 Latte Dock 曾经提供的功能和灵活性。但好处是，KDE Plasma 在 Garuda 中可能会变得更稳定，因为它现在使用了原生的停靠区和面板。而且它看起来也很好！
 
 
-![新的原生 KDE 面板](/Asserts/Images//attachment/album/202303/11/095026zmzooom9odbmgm59.jpg)
+![新的原生 KDE 面板](/Asserts/Images/album/202303/11/095026zmzooom9odbmgm59.jpg)
 
 
 那么，如果你已经在运行带有 Latte Dock 的早期版本的 Garuda 呢？
@@ -57,7 +57,7 @@ Garuda 的主要旗舰版是 dr460nized 版，采用 KDE Plasma 桌面环境，�
 不止如此。从这个版本开始有了一个新的 “garuda” 软件库，它是为 Garuda Linux 专属的软件包创建的，并从当前的 Chaotic-AUR 软件库中移出。这是最大的变化之一，它通过 “garuda-update” 自动处理的。可以在 [这里](https://forum.garudalinux.org/t/separating-garuda-packages-from-chaotic-aur/20506) 了解更多。
 
 
-![当前的 pacman 软件库顺序](/Asserts/Images//attachment/album/202303/11/095035pqp2pqxly6xp52yy.jpg)
+![当前的 pacman 软件库顺序](/Asserts/Images/album/202303/11/095035pqp2pqxly6xp52yy.jpg)
 
 
 在核心部分，这个版本带有最新的 [KDE Plasma 5.27.2](https://debugpointnews.com/kde-plasma-5-27-release/) 桌面和 Linux 内核 6.2.2。所以，由于滚动发布，你可以得到所有最新的软件包。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Go,CI,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/10/115107wk2k2tmtvm1xkvt1.jpg)
+![](/Asserts/Images/album/201805/10/115107wk2k2tmtvm1xkvt1.jpg)
 
 
 ### 介绍

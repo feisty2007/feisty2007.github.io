@@ -15,7 +15,7 @@ tags:	[linuxcn,加密货币,自动交易,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202103/28/093858qu0bh3w2sd3rh20s.jpg "scientific calculator")
+![](/Asserts/Images/album/202103/28/093858qu0bh3w2sd3rh20s.jpg "scientific calculator")
 
 
 然而，不像纽约证券交易所这样的传统证券交易所一样，有一段固定的交易时间。对于加密货币而言，则是 7×24 小时交易，这使得任何人都无法独自盯着市场。
@@ -42,7 +42,7 @@ tags:	[linuxcn,加密货币,自动交易,Python]
 机器人将根据 <ruby> <a href="https://www.investopedia.com/terms/e/ema.asp">  指数移动平均 </a> <rt>  exponential moving averages </rt></ruby> （EMA）来做出决策。
 
 
-![TRX/BTC 1-hour candle chart](/Asserts/Images//attachment/album/202103/28/094050ln73sss1s9st3ssf.png "TRX/BTC 1-hour candle chart")
+![TRX/BTC 1-hour candle chart](/Asserts/Images/album/202103/28/094050ln73sss1s9st3ssf.png "TRX/BTC 1-hour candle chart")
 
 
 *TRX/BTC 1 小时 K 线图*
@@ -93,7 +93,7 @@ EMA 指标通常是一个加权的移动平均线，可以对近期价格数据�
 一开始，你需要 <ruby> <strong>  币安 OHLC 查询 </strong> <rt>  Binance OHLC Query </rt></ruby> 元素和一个 <ruby> <strong>  基础操作 </strong> <rt>  Basic Operation </rt></ruby> 元素来执行你的代码。
 
 
-![Data-mining workflow](/Asserts/Images//attachment/album/202103/28/094051qdkqluhu7sqkus73.png "Data-mining workflow")
+![Data-mining workflow](/Asserts/Images/album/202103/28/094051qdkqluhu7sqkus73.png "Data-mining workflow")
 
 
 *数据挖掘工作流程*
@@ -102,7 +102,7 @@ EMA 指标通常是一个加权的移动平均线，可以对近期价格数据�
 OHLC 查询设置为每隔一小时查询一次 **TRXBTC** 资产对（波场/比特币）。
 
 
-![Configuration of the OHLC query element](/Asserts/Images//attachment/album/202103/28/094051lwhwz6qyhg8zspg6.png "Configuration of the OHLC query element")
+![Configuration of the OHLC query element](/Asserts/Images/album/202103/28/094051lwhwz6qyhg8zspg6.png "Configuration of the OHLC query element")
 
 
 *配置 OHLC 查询元素*
@@ -111,7 +111,7 @@ OHLC 查询设置为每隔一小时查询一次 **TRXBTC** 资产对（波场/�
 其中输出的元素是 [Pandas DataFrame](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html#dataframe)。你可以在 **基础操作** 元素中使用 <ruby> <strong>  输入 </strong> <rt>  input </rt></ruby> 变量来访问 DataFrame。其中，将 Vim 设置为 **基础操作** 元素的默认代码编辑器。
 
 
-![Basic Operation element set up to use Vim](/Asserts/Images//attachment/album/202103/28/094052xn23s2x4xoj24d6f.png "Basic Operation element set up to use Vim")
+![Basic Operation element set up to use Vim](/Asserts/Images/album/202103/28/094052xn23s2x4xoj24d6f.png "Basic Operation element set up to use Vim")
 
 
 *使用 Vim 编辑基础操作元素*
@@ -172,7 +172,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 在网格 2 中，通过使 DataFrame 通过 <ruby> <strong>  基础技术分析 </strong> <rt>  Basic Technical Analysis </rt></ruby> 元素，将 DataFrame 扩展包含 EMA 值的一列。
 
 
-![Technical analysis workflow in Grid 2](/Asserts/Images//attachment/album/202103/28/094052xq7vemsqm9evasx9.png "Technical analysis workflow in Grid 2")
+![Technical analysis workflow in Grid 2](/Asserts/Images/album/202103/28/094052xq7vemsqm9evasx9.png "Technical analysis workflow in Grid 2")
 
 
 *在网格 2 中技术分析工作流程*
@@ -181,7 +181,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 配置技术分析元素以计算 25 个值的 EMA。
 
 
-![Configuration of the technical analysis element](/Asserts/Images//attachment/album/202103/28/094053x0wecdexbcc7idhy.png "Configuration of the technical analysis element")
+![Configuration of the technical analysis element](/Asserts/Images/album/202103/28/094053x0wecdexbcc7idhy.png "Configuration of the technical analysis element")
 
 
 *配置技术分析元素*
@@ -190,7 +190,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 当你运行整个程序并开启 <ruby> <strong>  技术分析 </strong> <rt>  Technical Analysis </rt></ruby> 元素的调试输出时，你将发现 EMA-25 列的值似乎都相同。
 
 
-![Missing decimal places in output](/Asserts/Images//attachment/album/202103/28/094053c6poxlr4exxe4foc.png "Missing decimal places in output")
+![Missing decimal places in output](/Asserts/Images/album/202103/28/094053c6poxlr4exxe4foc.png "Missing decimal places in output")
 
 
 *输出中精度不够*
@@ -202,7 +202,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 为了能进行进一步处理，请添加 **基础操作** 元素：
 
 
-![Workflow in Grid 2](/Asserts/Images//attachment/album/202103/28/094053w4u44j6wqz6fr3kh.png "Workflow in Grid 2")
+![Workflow in Grid 2](/Asserts/Images/album/202103/28/094053w4u44j6wqz6fr3kh.png "Workflow in Grid 2")
 
 
 *网格 2 中的工作流程*
@@ -211,7 +211,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 使用 **基础操作** 元素，将 DataFrame 与添加的 EMA-25 列一起转储，以便可以将其加载到 Jupyter 笔记本中；
 
 
-![Dump extended DataFrame to file](/Asserts/Images//attachment/album/202103/28/094054kc1y44yvcvgycnye.png "Dump extended DataFrame to file")
+![Dump extended DataFrame to file](/Asserts/Images/album/202103/28/094054kc1y44yvcvgycnye.png "Dump extended DataFrame to file")
 
 
 *将扩展后的 DataFrame 存储到文件中*
@@ -223,7 +223,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 在 Juypter 笔记本中开发评估策略，让你可以更直接地访问代码。要加载 DataFrame，你需要使用如下代码：
 
 
-![Representation with all decimal places](/Asserts/Images//attachment/album/202103/28/094054s7ozuzh8ebzpeb9o.png "Representation with all decimal places")
+![Representation with all decimal places](/Asserts/Images/album/202103/28/094054s7ozuzh8ebzpeb9o.png "Representation with all decimal places")
 
 
 *用全部小数位表示*
@@ -238,7 +238,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 你也可以直接计算出你下一步所需的交易参数。
 
 
-![Buy/sell decision](/Asserts/Images//attachment/album/202103/28/094054jnb1dc3caipaksf9.png "Buy/sell decision")
+![Buy/sell decision](/Asserts/Images/album/202103/28/094054jnb1dc3caipaksf9.png "Buy/sell decision")
 
 
 *买卖决策*
@@ -253,7 +253,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 假设你将根据收盘价进行买卖。
 
 
-![Validation function](/Asserts/Images//attachment/album/202103/28/094055jx5yz5ctp8qctej9.png "Validation function")
+![Validation function](/Asserts/Images/album/202103/28/094055jx5yz5ctp8qctej9.png "Validation function")
 
 
 *回测功能*
@@ -262,7 +262,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 在此示例中，`buy_factor` 和 `sell_factor` 是预先定义好的。因此，发散思维用直接计算出表现最佳的参数。
 
 
-![Nested for loops for determining the buy and sell factor](/Asserts/Images//attachment/album/202103/28/094055b6i0t6cqv5ffhbwq.png "Nested for loops for determining the buy and sell factor")
+![Nested for loops for determining the buy and sell factor](/Asserts/Images/album/202103/28/094055b6i0t6cqv5ffhbwq.png "Nested for loops for determining the buy and sell factor")
 
 
 *嵌套的 for 循环，用于确定购买和出售的参数*
@@ -271,7 +271,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 这要跑 81 个循环（9x9），在我的机器（Core i7 267QM）上花费了几分钟。
 
 
-![System utilization while brute forcing](/Asserts/Images//attachment/album/202103/28/094055bquv9iyqi0rbtqth.png "System utilization while brute forcing")
+![System utilization while brute forcing](/Asserts/Images/album/202103/28/094055bquv9iyqi0rbtqth.png "System utilization while brute forcing")
 
 
 *在暴力运算时系统的利用率*
@@ -280,7 +280,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 在每个循环之后，它将 `buy_factor`、`sell_factor` 元组和生成的 `profit` 元组追加到 `trading_factors` 列表中。按利润降序对列表进行排序。
 
 
-![Sort profit with related trading factors in descending order](/Asserts/Images//attachment/album/202103/28/094056ze0gzqu9vgg22v2w.png "Sort profit with related trading factors in descending order")
+![Sort profit with related trading factors in descending order](/Asserts/Images/album/202103/28/094056ze0gzqu9vgg22v2w.png "Sort profit with related trading factors in descending order")
 
 
 *将利润与相关的交易参数按降序排序*
@@ -289,7 +289,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 当你打印出列表时，你会看到 0.002 是最好的参数。
 
 
-![Sorted list of trading factors and profit](/Asserts/Images//attachment/album/202103/28/094056oxlihvaiixwg84jw.png "Sorted list of trading factors and profit")
+![Sorted list of trading factors and profit](/Asserts/Images/album/202103/28/094056oxlihvaiixwg84jw.png "Sorted list of trading factors and profit")
 
 
 *交易要素和收益的有序列表*
@@ -307,7 +307,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 在网格 3 中，添加 **基础操作** 元素以执行评估逻辑。这是该元素中的代码：
 
 
-![Implemented evaluation logic](/Asserts/Images//attachment/album/202103/28/094056ofn26ububue22fuz.png "Implemented evaluation logic")
+![Implemented evaluation logic](/Asserts/Images/album/202103/28/094056ofn26ububue22fuz.png "Implemented evaluation logic")
 
 
 *实现评估策略*
@@ -316,7 +316,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 如果输出 `1` 表示你应该购买，如果输出 `2` 则表示你应该卖出。 输出 `0` 表示现在无需操作。使用 <ruby> <strong>  分支 </strong> <rt>  Branch </rt></ruby> 元素来控制执行路径。
 
 
-![Branch element: Grid 3 Position 2A](/Asserts/Images//attachment/album/202103/28/094056q3tp37wwlz0b0on1.png "Branch element: Grid 3 Position 2A")
+![Branch element: Grid 3 Position 2A](/Asserts/Images/album/202103/28/094056q3tp37wwlz0b0on1.png "Branch element: Grid 3 Position 2A")
 
 
 *分支元素：网格 3，2A 位置*
@@ -325,7 +325,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 因为 `0` 和 `-1` 的处理流程一样，所以你需要在最右边添加一个分支元素来判断你是否应该卖出。
 
 
-![Branch element: Grid 3 Position 3B](/Asserts/Images//attachment/album/202103/28/094057stk7jj4nlwnk2puw.png "Branch element: Grid 3 Position 3B")
+![Branch element: Grid 3 Position 3B](/Asserts/Images/album/202103/28/094057stk7jj4nlwnk2puw.png "Branch element: Grid 3 Position 3B")
 
 
 *分支元素：网格 3，3B 位置*
@@ -334,7 +334,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 网格 3 应该现在如下图所示：
 
 
-![Workflow on Grid 3](/Asserts/Images//attachment/album/202103/28/094057fe1wnzar6x664rnz.png "Workflow on Grid 3")
+![Workflow on Grid 3](/Asserts/Images/album/202103/28/094057fe1wnzar6x664rnz.png "Workflow on Grid 3")
 
 
 *网格 3 的工作流程*
@@ -352,7 +352,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 你需要定义栈仅包含一个布尔类型，该布尔类型决定是否购买了（`True`）或（`False`）。因此，你必须使用 `False` 来初始化栈。例如，你可以在网格 4 中简单地通过将 `False` 传递给栈来进行设置。
 
 
-![Forward a False-variable to the subsequent Stack element](/Asserts/Images//attachment/album/202103/28/094057yiszipdxx9dxizfw.png "Forward a False-variable to the subsequent Stack element")
+![Forward a False-variable to the subsequent Stack element](/Asserts/Images/album/202103/28/094057yiszipdxx9dxizfw.png "Forward a False-variable to the subsequent Stack element")
 
 
 *将 False 变量传输到后续的栈元素中*
@@ -361,7 +361,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 在分支树后的栈实例可以进行如下配置：
 
 
-![Configuration of the Stack element](/Asserts/Images//attachment/album/202103/28/094058xquob8epsfqzopif.png "Configuration of the Stack element")
+![Configuration of the Stack element](/Asserts/Images/album/202103/28/094058xquob8epsfqzopif.png "Configuration of the Stack element")
 
 
 *设置栈元素*
@@ -376,7 +376,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 在栈元素之后，你需要另外一个 **分支** 元素来判断栈的值，然后再放置 <ruby> 币安订单 <rt>  Binance Order </rt></ruby> 元素。
 
 
-![Evaluate the variable from the stack](/Asserts/Images//attachment/album/202103/28/094058vwu6v7ii6kvwwx9a.png "Evaluate the variable from the stack")
+![Evaluate the variable from the stack](/Asserts/Images/album/202103/28/094058vwu6v7ii6kvwwx9a.png "Evaluate the variable from the stack")
 
 
 *判断栈中的变量*
@@ -385,7 +385,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 将币安订单元素添加到分支元素的 `True` 路径。网格 3 上的工作流现在应如下所示：
 
 
-![Workflow on Grid 3](/Asserts/Images//attachment/album/202103/28/094059oreu9efclcs5glo9.png "Workflow on Grid 3")
+![Workflow on Grid 3](/Asserts/Images/album/202103/28/094059oreu9efclcs5glo9.png "Workflow on Grid 3")
 
 
 *网格 3 的工作流程*
@@ -394,7 +394,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 币安订单元素应如下配置：
 
 
-![Configuration of the Binance Order element](/Asserts/Images//attachment/album/202103/28/094059cc5ntnvbsqriu43w.png "Configuration of the Binance Order element")
+![Configuration of the Binance Order element](/Asserts/Images/album/202103/28/094059cc5ntnvbsqriu43w.png "Configuration of the Binance Order element")
 
 
 *编辑币安订单元素*
@@ -403,7 +403,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 你可以在币安网站上的帐户设置中生成 API 和密钥。
 
 
-![Creating an API key in Binance](/Asserts/Images//attachment/album/202103/28/094059dlcgcx40e8eeb4bu.png "Creating an API key in Binance")
+![Creating an API key in Binance](/Asserts/Images/album/202103/28/094059dlcgcx40e8eeb4bu.png "Creating an API key in Binance")
 
 
 *在币安账户设置中创建一个 API 密钥*
@@ -418,7 +418,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 这是一个成功的 XMRBTC 卖单的输出示例：
 
 
-![Output of a successfully placed sell order](/Asserts/Images//attachment/album/202103/28/094059o026ikbaqx3ak6e4.png "Output of a successfully placed sell order")
+![Output of a successfully placed sell order](/Asserts/Images/album/202103/28/094059o026ikbaqx3ak6e4.png "Output of a successfully placed sell order")
 
 
 *成功卖单的输出*
@@ -430,7 +430,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 如果出现错误的话，你可以在日志信息中查看具体细节（如果启用日志功能）。
 
 
-![Logging output of Binance Order element](/Asserts/Images//attachment/album/202103/28/094100lksn1anu9npa99aw.png "Logging output of Binance Order element")
+![Logging output of Binance Order element](/Asserts/Images/album/202103/28/094100lksn1anu9npa99aw.png "Logging output of Binance Order element")
 
 
 *币安订单元素中的输出日志信息*
@@ -442,7 +442,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 对于日程调度和同步，请在网格 1 中将整个工作流程置于 <ruby> 币安调度器 <rt>  Binance Scheduler </rt></ruby> 元素的前面。
 
 
-![Binance Scheduler at Grid 1, Position 1A](/Asserts/Images//attachment/album/202103/28/094100vg5oseqx5mmongua.png "Binance Scheduler at Grid 1, Position 1A")
+![Binance Scheduler at Grid 1, Position 1A](/Asserts/Images/album/202103/28/094100vg5oseqx5mmongua.png "Binance Scheduler at Grid 1, Position 1A")
 
 
 *在网格 1，1A 位置的币安调度器*
@@ -451,7 +451,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 由于币安调度器元素只执行一次，因此请在网格 1 的末尾拆分执行路径，并通过将输出传递回币安调度器来强制让其重新同步。
 
 
-![Grid 1: Split execution path](/Asserts/Images//attachment/album/202103/28/094100wq624z79q2732w6b.png "Grid 1: Split execution path")
+![Grid 1: Split execution path](/Asserts/Images/album/202103/28/094100wq624z79q2732w6b.png "Grid 1: Split execution path")
 
 
 *网格 1：拆分执行路径*
@@ -466,7 +466,7 @@ $ tail -f ~/Pythonic_2020/Feb/log_2020_02_19.txt
 你可以在本地计算机上全天候 7×24 小时运行整个程序，也可以将其完全托管在廉价的云系统上。例如，你可以使用 Linux/FreeBSD 云系统，每月约 5 美元，但通常不提供图形化界面。如果你想利用这些低成本的云，可以使用 PythonicDaemon，它能在终端中完全运行。
 
 
-![PythonicDaemon console interface](/Asserts/Images//attachment/album/202103/28/094101rmm0m11k2so4r1yp.png "PythonicDaemon console interface")
+![PythonicDaemon console interface](/Asserts/Images/album/202103/28/094101rmm0m11k2so4r1yp.png "PythonicDaemon console interface")
 
 
 *PythonicDaemon 控制台*
@@ -490,7 +490,7 @@ $ PythonicDaemon trading_bot_one
 
 ```
 
-![Crontab on Ubuntu Server](/Asserts/Images//attachment/album/202103/28/094101gpj5vpvp3vps33ut.png "Crontab on Ubuntu Server")
+![Crontab on Ubuntu Server](/Asserts/Images/album/202103/28/094101gpj5vpvp3vps33ut.png "Crontab on Ubuntu Server")
 
 
 *在 Ubuntu 服务器上的 Crontab*

@@ -7,7 +7,7 @@ tags:	[linuxcn,隐私]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/08/114751t43jbqlfcic3w348.jpg)
+![](/Asserts/Images/album/202203/08/114751t43jbqlfcic3w348.jpg)
 
 
 数据是最宝贵的一项资产。
@@ -69,7 +69,7 @@ tags:	[linuxcn,隐私]
 #### 1、Tor 浏览器
 
 
-![](/Asserts/Images//attachment/album/202203/08/114826kh4rodjj63c9z7q5.png)
+![](/Asserts/Images/album/202203/08/114826kh4rodjj63c9z7q5.png)
 
 
 [Tor 浏览器](https://www.torproject.org/download/) 是一款自由开源的网页浏览器，提供了强大的隐私保护功能。它是火狐浏览器的定制版本。
@@ -87,7 +87,7 @@ Tor 浏览器借助 [Tor 网络](https://itsfoss.com/tor-guide/) 连接，通过
 #### 2、Firefox
 
 
-![](/Asserts/Images//attachment/album/202203/08/114827txm9k64upkzkmpmw.png)
+![](/Asserts/Images/album/202203/08/114827txm9k64upkzkmpmw.png)
 
 
 可以说，[Firefox](https://www.mozilla.org/en-US/firefox/new/) 是最优秀的 [开源浏览器](https://itsfoss.com/open-source-browsers-linux/)。也难怪 [我会一次又一次地回归 Firefox](https://news.itsfoss.com/why-mozilla-firefox/)。
@@ -102,7 +102,7 @@ Firefox 浏览器不仅内置最强大的隐私保护功能，而且还经常引
 #### 3、Brave
 
 
-![](/Asserts/Images//attachment/album/202203/08/114827slsg9jlws1wszsl7.png)
+![](/Asserts/Images/album/202203/08/114827slsg9jlws1wszsl7.png)
 
 
 [Brave](https://brave.com/) 是 Linux 系统上最好的浏览器之一，用户体验清新简洁，外观与 Chrome 有些相似。
@@ -129,7 +129,7 @@ Brave 凭借其强大的跟踪保护功能，以及开箱即用的自动运行�
 #### 1、ProtonVPN
 
 
-![](/Asserts/Images//attachment/album/202203/08/114828y4tx9szs19yx2z21.png)
+![](/Asserts/Images/album/202203/08/114828y4tx9szs19yx2z21.png)
 
 
 [ProtonVPN](https://itsfoss.com/recommends/protonvpn/) 是一款强大的隐私保护服务，提供桌面版和移动版的开源客户端。
@@ -141,7 +141,7 @@ Brave 凭借其强大的跟踪保护功能，以及开箱即用的自动运行�
 #### 2、Mullvad
 
 
-![](/Asserts/Images//attachment/album/202203/08/114829w8844mfu9umuq6l6.png)
+![](/Asserts/Images/album/202203/08/114829w8844mfu9umuq6l6.png)
 
 
 [Mullvad](https://mullvad.net/en/) 也提供了开源的客户端。有趣的是，它不需要你使用邮箱注册。
@@ -165,7 +165,7 @@ Brave 凭借其强大的跟踪保护功能，以及开箱即用的自动运行�
 #### 1、DuckDuckGo
 
 
-![](/Asserts/Images//attachment/album/202203/08/114829s2ohkhd28nn118ci.png)
+![](/Asserts/Images/album/202203/08/114829s2ohkhd28nn118ci.png)
 
 
 [DuckDuckGo](https://duckduckgo.com/) 是最流行的 [保护隐私的搜索引擎](https://itsfoss.com/privacy-search-engines/)之一，它声明不会记录用户的任何浏览数据。
@@ -177,7 +177,7 @@ Brave 凭借其强大的跟踪保护功能，以及开箱即用的自动运行�
 #### 2、Startpage
 
 
-![](/Asserts/Images//attachment/album/202203/08/114829br1ydd4j2ddj4huq.jpg)
+![](/Asserts/Images/album/202203/08/114829br1ydd4j2ddj4huq.jpg)
 
 
 [Startpage](https://startpage.com/) 是一款很有趣的搜索引擎，外观和谷歌搜索相似，搜索结果也与谷歌搜索同步。不过，它不会收集你的信息。
@@ -201,7 +201,7 @@ Brave 凭借其强大的跟踪保护功能，以及开箱即用的自动运行�
 #### 1、Signal
 
 
-![](/Asserts/Images//attachment/album/202203/08/114830o9zouo961ocy7zdc.jpg)
+![](/Asserts/Images/album/202203/08/114830o9zouo961ocy7zdc.jpg)
 
 
 [Signal](https://signal.org/en/) 是一款开源的社交软件，支持端对端加密，[可安装在 Linux 桌面上](https://itsfoss.com/install-signal-ubuntu/)。
@@ -213,7 +213,7 @@ Brave 凭借其强大的跟踪保护功能，以及开箱即用的自动运行�
 #### 2、Threema
 
 
-![](/Asserts/Images//attachment/album/202203/08/114831op4qfxzs64qs4x4f.jpg)
+![](/Asserts/Images/album/202203/08/114831op4qfxzs64qs4x4f.jpg)
 
 
 [Threema](https://threema.ch/en) 是一款付费软件，内置 Signal 的全部核心功能，无需手机号码即可登录使用。
@@ -234,7 +234,7 @@ Brave 凭借其强大的跟踪保护功能，以及开箱即用的自动运行�
 #### 1、Linux Mint
 
 
-![](/Asserts/Images//attachment/album/202203/08/114831wpujb0ssddxg1dpd.png)
+![](/Asserts/Images/album/202203/08/114831wpujb0ssddxg1dpd.png)
 
 
 [Linux Mint](https://linuxmint.com/) 可以满足日常所需，是一款非常出色的 Linux 发行版。它基于 Ubuntu，追求青出于蓝胜于蓝，[希望在一些方面做得更好](https://itsfoss.com/linux-mint-vs-ubuntu/)
@@ -246,7 +246,7 @@ Linux Mint 通过关注用户的选择以及常规的安全升级，确保操作
 #### 2、Qubes OS
 
 
-![](/Asserts/Images//attachment/album/202203/08/114831jmd01hi5vvy6jvmq.jpg)
+![](/Asserts/Images/album/202203/08/114831jmd01hi5vvy6jvmq.jpg)
 
 
 [Qubes OS](https://www.qubes-os.org/) 专注安全和隐私问题。对新手来说，使用起来可能比较困难。
@@ -270,7 +270,7 @@ Linux Mint 通过关注用户的选择以及常规的安全升级，确保操作
 #### 1、Bitwarden
 
 
-![](/Asserts/Images//attachment/album/202203/08/114832qka4pawka44wtlo4.png)
+![](/Asserts/Images/album/202203/08/114832qka4pawka44wtlo4.png)
 
 
 [Bitwarden](https://bitwarden.com/) 是一款开源的密码管理器，全部的主要功能均可免费使用。

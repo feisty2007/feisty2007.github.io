@@ -7,7 +7,7 @@ tags:	[linuxcn,用户组,group]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/29/132250juu19js98uuo5ukc.jpg)
+![](/Asserts/Images/album/201809/29/132250juu19js98uuo5ukc.jpg)
 
 
 嗨！就在上周，我还自认为对 Linux 上的用户和组的工作机制了如指掌。我认为它们的关系是这样的：

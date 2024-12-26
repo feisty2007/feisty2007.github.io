@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202106/29/221603gdqc9cq9cjcjjuxg.jpg)
+![](/Asserts/Images/album/202106/29/221603gdqc9cq9cjcjjuxg.jpg)
 
 
 Python 开发者已经发布了 Python 3.10.0 的三个测试版本。现在，你可以在 Fedora Linux 中试用最新的版本尽早用 3.10 测试你的 Python 代码，为 10 月份的 3.10.0 最终版本做好准备。

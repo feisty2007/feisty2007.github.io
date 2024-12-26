@@ -13,7 +13,7 @@ LEMP 是个缩写，代表一组软件包（L：Linux OS，E：Nginx 网络服�
 （LCTT 译注：为何采用 LEMP 而不是 LNMP 的缩写？据 <https://lemp.io/> 的解释：Nginx 的发音是 Engine-X，重要的发音而不是首字母，而且 LEMP 实际上是可读的，而 LNMP 看起来只是字母表。）
 
 
-![](/Asserts/Images//attachment/album/201607/07/230043xr8zr0ftkr0mw1ft.png)
+![](/Asserts/Images/album/201607/07/230043xr8zr0ftkr0mw1ft.png)
 
 
 *在 Ubuntu 16.04 安装 Nginx 以及 MariaDB，PHP7 并且支持 HTTP 2.0*
@@ -40,7 +40,7 @@ $ sudo apt-get install nginx
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230043gm05lpsdfssvslzs.png)
+![](/Asserts/Images/album/201607/07/230043gm05lpsdfssvslzs.png)
 
 
 *在 Ubuntu 16.04 安装 Nginx*
@@ -55,7 +55,7 @@ $ netstat -tlpn
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230044jkviivhuu5ik44kz.png)
+![](/Asserts/Images/album/201607/07/230044jkviivhuu5ik44kz.png)
 
 
 *检查 Nginx 网络端口连接*
@@ -67,7 +67,7 @@ $ sudo systemctl status nginx.service
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230044pgkkzkpkrpww8bwq.png)
+![](/Asserts/Images/album/201607/07/230044pgkkzkpkrpww8bwq.png)
 
 
 *检查 Nginx 服务状态*
@@ -82,7 +82,7 @@ http://IP-Address
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230045bey5ccllsbrlry8l.png)
+![](/Asserts/Images/album/201607/07/230045bey5ccllsbrlry8l.png)
 
 
 *验证 Nginx 网页*
@@ -104,7 +104,7 @@ $ sudo mv default default.backup
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230045loqhtazpzqpoq8am.png)
+![](/Asserts/Images/album/201607/07/230045loqhtazpzqpoq8am.png)
 
 
 *备份 Nginx 的网站配置文件*
@@ -163,7 +163,7 @@ server {
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230046mmrrtr3mhukm3y11.png)
+![](/Asserts/Images/album/201607/07/230046mmrrtr3mhukm3y11.png)
 
 
 *启用 Nginx HTTP 2 协议*
@@ -189,7 +189,7 @@ $ ls /etc/nginx/ssl/
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230046gvtx7vym607u4dot.png)
+![](/Asserts/Images/album/201607/07/230046gvtx7vym607u4dot.png)
 
 
 *生成 Nginx 的 SSL 证书和密钥*
@@ -204,7 +204,7 @@ $ sudo openssl dhparam -out /etc/nginx/ssl/dhparam.pem 2048
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230047uf5nr0ns5rbq07sf.png)
+![](/Asserts/Images/album/201607/07/230047uf5nr0ns5rbq07sf.png)
 
 
 *创建 Diffie-Hellman 密钥*
@@ -220,7 +220,7 @@ $ sudo systemctl restart nginx.service
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230047kymjv2d2hytk71ud.png)
+![](/Asserts/Images/album/201607/07/230047kymjv2d2hytk71ud.png)
 
 
 *检查 Nginx 的配置*
@@ -235,7 +235,7 @@ $ openssl s_client -connect localhost:443 -nextprotoneg ''
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230048kr9qppbndb3tnccz.png)
+![](/Asserts/Images/album/201607/07/230048kr9qppbndb3tnccz.png)
 
 
 *测试 Nginx HTTP 2.0 协议*
@@ -256,7 +256,7 @@ $ sudo apt install php7.0 php7.0-fpm
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230048v0200z5c3ljzfpy3.png)
+![](/Asserts/Images/album/201607/07/230048v0200z5c3ljzfpy3.png)
 
 
 *安装 PHP 7 以及 PHP-FPM*
@@ -272,7 +272,7 @@ $ sudo systemctl status php7.0-fpm
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230049yzd006jwwpmzbhiz.png)
+![](/Asserts/Images/album/201607/07/230049yzd006jwwpmzbhiz.png)
 
 
 *开启、验证 php-fpm 服务*
@@ -296,7 +296,7 @@ location ~ \.php$ {
 下面是的截图是 Nginx 默认配置文件的内容。你可能需要对其中的代码进行修改或者取消注释。
 
 
-![](/Asserts/Images//attachment/album/201607/07/230049k8evira3qj233aci.png)
+![](/Asserts/Images/album/201607/07/230049k8evira3qj233aci.png)
 
 
 *启用 PHP FastCGI*
@@ -311,13 +311,13 @@ $ sudo su -c 'echo "<?php phpinfo(); ?>" |tee /var/www/html/info.php'
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230050u4cm9l4hd2l7kk9b.png)
+![](/Asserts/Images/album/201607/07/230050u4cm9l4hd2l7kk9b.png)
 
 
 *创建 PHP Info 文件*
 
 
-![](/Asserts/Images//attachment/album/201607/07/230050zsezzees3zesfvss.png)
+![](/Asserts/Images/album/201607/07/230050zsezzees3zesfvss.png)
 
 
 *检查 PHP FastCGI 的信息*
@@ -326,7 +326,7 @@ $ sudo su -c 'echo "<?php phpinfo(); ?>" |tee /var/www/html/info.php'
 检查服务器是否宣告支持 HTTP/2.0 协议，定位到 PHP 变量区域中的 `$_SERVER[‘SERVER_PROTOCOL’]` 就像下面这张截图一样。
 
 
-![](/Asserts/Images//attachment/album/201607/07/230051t52vgeynw22pngwp.png)
+![](/Asserts/Images/album/201607/07/230051t52vgeynw22pngwp.png)
 
 
 *检查 HTTP2.0 协议信息*
@@ -344,7 +344,7 @@ $ sudo apt install php7.0-mcrypt php7.0-mbstring
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230052z14f9h84yk69f7xk.png)
+![](/Asserts/Images/album/201607/07/230052z14f9h84yk69f7xk.png)
 
 
 *安装 PHP 7 模块*
@@ -375,7 +375,7 @@ $ sudo systemctl restart php7.0-fpm.service
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230052tjeltllbjzbjfpzl.png)
+![](/Asserts/Images/album/201607/07/230052tjeltllbjzbjfpzl.png)
 
 
 *安装 MariaDB*
@@ -393,7 +393,7 @@ $ sudo mysql_secure_installation
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230053tcessy7stibb1bzf.png)
+![](/Asserts/Images/album/201607/07/230053tcessy7stibb1bzf.png)
 
 
 *MariaDB 的安全安装*
@@ -412,7 +412,7 @@ MariaDB> exit
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230054vu9jwx9mj3qemj9k.png)
+![](/Asserts/Images/album/201607/07/230054vu9jwx9mj3qemj9k.png)
 
 
 *MariaDB 的用户权限*
@@ -427,7 +427,7 @@ $ mysql -u root -p -e 'show databases'
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/07/230055yzvu8ava8d9snaaa.png)
+![](/Asserts/Images/album/201607/07/230055yzvu8ava8d9snaaa.png)
 
 
 *查看 MariaDB 数据库*

@@ -7,7 +7,7 @@ tags:	[linuxcn,时间]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/17/215458ygiiiifpowyp9o4y.jpg)
+![](/Asserts/Images/album/201801/17/215458ygiiiifpowyp9o4y.jpg)
 
 
 想在保留 Windows 系统的前提下尝试其他 Linux 发行版，双启动是个常用的做法。这种方法如此风行是因为实现双启动是一件很容易的事情。然而这也带来了一个大问题，那就是 **时间**。
@@ -22,13 +22,13 @@ tags:	[linuxcn,时间]
 点击 Windows 系统中的开始菜单，然后搜索 regedit。
 
 
-[![open regedit in windows 10](/Asserts/Images//attachment/album/201801/17/215459ybu7ca3uu9zi39xq.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/12/syncdualbootime1-e1512732558530.jpg)
+[![open regedit in windows 10](/Asserts/Images/album/201801/17/215459ybu7ca3uu9zi39xq.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/12/syncdualbootime1-e1512732558530.jpg)
 
 
 点击打开，然后你会看到类型下面的内容。这就是注册表编辑器。
 
 
-[![windows 10 registry editor](/Asserts/Images//attachment/album/201801/17/215500mz2f7oc7r5lrc7pl.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/12/syncdualbootime2.jpg)
+[![windows 10 registry editor](/Asserts/Images/album/201801/17/215500mz2f7oc7r5lrc7pl.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/12/syncdualbootime2.jpg)
 
 
 在左边的导航菜单，导航到 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation`。
@@ -37,13 +37,13 @@ tags:	[linuxcn,时间]
 在右边窗口，右键点击空白位置，然后选择 `New >> DWORD(32 bit) Value`。
 
 
-[![change time format utc from windows registry](/Asserts/Images//attachment/album/201801/17/215500o0nyyry9hlylhpmy.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/12/syncdualbootime3.jpg)
+[![change time format utc from windows registry](/Asserts/Images/album/201801/17/215500o0nyyry9hlylhpmy.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/12/syncdualbootime3.jpg)
 
 
 之后，你会新生成一个条目，而且这个条目默认是高亮的。将这个条目重命名为 `RealTimeIsUniversal` 并设置值为 `1`。
 
 
-[![set universal time utc in windows](/Asserts/Images//attachment/album/201801/17/215501yj57uqqtbsv7avbj.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/12/syncdualbootime4.jpg)
+[![set universal time utc in windows](/Asserts/Images/album/201801/17/215501yj57uqqtbsv7avbj.jpg)](http://www.theitstuff.com/wp-content/uploads/2017/12/syncdualbootime4.jpg)
 
 
 所有的配置就完成了，下次重启，就不会再有时间同步问题了。

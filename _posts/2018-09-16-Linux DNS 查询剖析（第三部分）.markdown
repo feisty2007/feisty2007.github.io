@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/01/213042p0w0wwdwhmh0w6wx.jpeg)
+![](/Asserts/Images/album/201809/01/213042p0w0wwdwhmh0w6wx.jpeg)
 
 
 在 [Linux DNS 查询剖析（第一部分）](/article-9943-1.html)中，我们介绍了：
@@ -31,7 +31,7 @@ tags:	[linuxcn,DNS]
 剖析进展如下：
 
 
-![linux-dns-2 (2)](/Asserts/Images//attachment/album/201809/01/213100x97y0qsd7wsqry9n.png)
+![linux-dns-2 (2)](/Asserts/Images/album/201809/01/213100x97y0qsd7wsqry9n.png)
 
 
 *（大致）准确的关系图*

@@ -30,7 +30,7 @@ tags:	[linuxcn,VirtualBox]
 在虚拟机中使用 Kali Linux 也是安全的。无论你在 Kali Linux 中做什么都不会影响你的“宿主机系统”（即你原来的 Windows 或 Linux 操作系统）。你的实际操作系统将不会受到影响，宿主机系统中的数据将是安全的。
 
 
-![Kali Linux on Virtual Box](/Asserts/Images//attachment/album/201902/18/232852a5jd2n3jn9ywyrzk.png)
+![Kali Linux on Virtual Box](/Asserts/Images/album/201902/18/232852a5jd2n3jn9ywyrzk.png)
 
 
 ### 如何在 VirtualBox 上安装 Kali Linux
@@ -78,7 +78,7 @@ tags:	[linuxcn,VirtualBox]
 VirtualBox 成功安装后，前往 [Offensive Security 的下载页面](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/) 下载用于 VirtualBox 的虚拟机镜像。如果你改变主意想使用 [VMware](https://itsfoss.com/install-vmware-player-ubuntu-1310/)，也有用于它的。
 
 
-![Kali Linux Virtual Box Image](/Asserts/Images//attachment/album/201902/18/232853b1zt3thbw8tpbqtz.jpg)
+![Kali Linux Virtual Box Image](/Asserts/Images/album/201902/18/232853b1zt3thbw8tpbqtz.jpg)
 
 
 如你所见，文件大小远远超过 3 GB，你应该使用 torrent 方式或使用 [下载管理器](https://itsfoss.com/4-best-download-managers-for-linux/) 下载它。
@@ -96,7 +96,7 @@ VirtualBox 成功安装后，前往 [Offensive Security 的下载页面](https:/
 **步骤 1**：启动 VirtualBox。你会注意到有一个 “Import” 按钮，点击它。
 
 
-![virtualbox import](/Asserts/Images//attachment/album/201902/18/232856uxcwxo4waa4wectj.jpg)
+![virtualbox import](/Asserts/Images/album/201902/18/232856uxcwxo4waa4wectj.jpg)
 
 
 *点击 “Import” 按钮*
@@ -105,7 +105,7 @@ VirtualBox 成功安装后，前往 [Offensive Security 的下载页面](https:/
 **步骤 2**：接着，浏览找到你刚刚下载的文件并选择它导入（如你在下图所见）。文件名应该以 “kali linux” 开头，并以 “.ova” 扩展名结束。
 
 
-![virtualbox import file](/Asserts/Images//attachment/album/201902/18/232858td3zwb3xzwxht1d1.jpg)
+![virtualbox import file](/Asserts/Images/album/201902/18/232858td3zwb3xzwxht1d1.jpg)
 
 
 *导入 Kali Linux 镜像*
@@ -120,7 +120,7 @@ VirtualBox 成功安装后，前往 [Offensive Security 的下载页面](https:/
 你需要选择具有足够存储空间的路径。我永远不会在 Windows 上推荐使用 C：驱动器。
 
 
-![virtualbox kali linux settings](/Asserts/Images//attachment/album/201902/18/232900cpp0o5oorol44pl0.jpg)
+![virtualbox kali linux settings](/Asserts/Images/album/201902/18/232900cpp0o5oorol44pl0.jpg)
 
 
 *以 VDI 方式导入硬盘驱动器*
@@ -138,7 +138,7 @@ VirtualBox 成功安装后，前往 [Offensive Security 的下载页面](https:/
 你最初可能会因 USB 端口 2.0 控制器支持而出现错误，你可以将其禁用以解决此问题，或者只需按照屏幕上的说明安装其他软件包进行修复即可。现在就完成了！
 
 
-![kali linux on windows virtual box](/Asserts/Images//attachment/album/201902/18/232901em6tdpfmezeted4o.jpg)
+![kali linux on windows virtual box](/Asserts/Images/album/201902/18/232901em6tdpfmezeted4o.jpg)
 
 
 *运行于 VirtualBox 中的 Kali Linux*

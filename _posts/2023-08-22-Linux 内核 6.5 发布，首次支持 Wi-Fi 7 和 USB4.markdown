@@ -7,7 +7,7 @@ tags:	[linuxcn,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/30/101320xa6q3ipt6quuk4ud.png)
+![](/Asserts/Images/album/202308/30/101320xa6q3ipt6quuk4ud.png)
 
 
 
@@ -56,7 +56,7 @@ Linus Torvalds 表示，这是一次相对顺畅的发布：
 ### 开箱即用的 AMD FreeSync 视频支持
 
 
-![](/Asserts/Images//attachment/album/202308/30/101320thcu8yy9z7894chh.png)
+![](/Asserts/Images/album/202308/30/101320thcu8yy9z7894chh.png)
 
 
 在这次发布中，重新引入的一项优秀功能是默认开启的 AMD FreeSync 视频模式支持。此特性在 Linux 内核 5.8 版本中首次引入，后因错误而被回滚。
@@ -100,7 +100,7 @@ Linus Torvalds 表示，这是一次相对顺畅的发布：
 ### ASUS ROG Ally 声音优化
 
 
-![](/Asserts/Images//attachment/album/202308/30/101321r4xfo013u1i47o79.png)
+![](/Asserts/Images/album/202308/30/101321r4xfo013u1i47o79.png)
 
 
 ASUS ROG Ally 是一款使用 AMD Z1 和 Z1 Extreme SoCs 驱动的 Windows 手持式游戏电脑，直接竞争的对手是非常知名的 Steam Deck。它在今年七月发布。
@@ -112,7 +112,7 @@ ASUS ROG Ally 是一款使用 AMD Z1 和 Z1 Extreme SoCs 驱动的 Windows 手�
 ### 对 USB4 v2 & WiFi 7 的初始支持
 
 
-![](/Asserts/Images//attachment/album/202308/30/101321bj4pepb6z3ezp6je.png)
+![](/Asserts/Images/album/202308/30/101321bj4pepb6z3ezp6je.png)
 
 
 下一代无线标准 - WiFi 7 - 的开发工作已经进行了一段时间。WiFi 7 支持 6Ghz 频段，最大数据传输速率达到 23 Gbps！

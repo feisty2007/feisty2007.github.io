@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,安装,Ghost,博客,技巧,教程]
 [Ghost](https://ghost.org/)是一个相对较新的博客发布平台，它开始于众筹平台kickstarter上一个[£25,000英镑的众筹项目](http://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform)。尽管WordPress依然是网上主流的博客工具，但它现在已然是一个拥有众多第三方开发功能的通用内容管理平台，发展到现在已经逐渐变得笨重、复杂以至于难以维护。但与此同时，仅仅诞生才几个月的Ghost坚持以用户为中心，打造精雕细琢的用户界面，承诺要做一个纯粹的博客平台。
 
 
-![](/Asserts/Images//attachment/album/201312/07/102034beagjj1cgbpb8jjz.png)
+![](/Asserts/Images/album/201312/07/102034beagjj1cgbpb8jjz.png)
 
 
 在本教程中，我将描述**如何在Linux中设置Ghost博客平台**。
@@ -51,7 +51,7 @@ $ sudo sed -i 's/127.0.0.1/YOUR_IP/g' config.js
 搞到这一步，你就可以准备去启动Ghost咯。
 
 
-要注意的是，Ghost可以以两种不同的模式运行：“开发者模式”和“用户模式”。为了安全起见，Ghost将两种模式的配置文件（/var/www/ghost/config.js）分开存放。例如，两种不同的模式使用不同的数据库文件（例如位于/var/www/content/Asserts/Images/的ghostdev.db和ghost.db）。
+要注意的是，Ghost可以以两种不同的模式运行：“开发者模式”和“用户模式”。为了安全起见，Ghost将两种模式的配置文件（/var/www/ghost/config.js）分开存放。例如，两种不同的模式使用不同的数据库文件（例如位于/var/www/content/data的ghostdev.db和ghost.db）。
 
 
 使用以下命令就可以启动Ghost。Ghost默认以开发者模式运行。
@@ -67,13 +67,13 @@ $ sudo npm start
 Ghost成功运行后，终端中会有以下输出信息，告诉你Ghost正运行在:2368（译者注：2368为端口号）。
 
 
-[![](/Asserts/Images//attachment/album/201312/07/1020422d22xp8d8pfef8ff.jpg)](http://www.flickr.com/photos/xmodulo/10881189204/)
+[![](/Asserts/Images/album/201312/07/1020422d22xp8d8pfef8ff.jpg)](http://www.flickr.com/photos/xmodulo/10881189204/)
 
 
 在你本机的浏览器中键入 http://:2368，身份校验后你就会看到Ghost的初始页面。
 
 
-[![](/Asserts/Images//attachment/album/201312/07/102045yxj88fjwvuyvnxzl.jpg)](http://www.flickr.com/photos/xmodulo/10881348733/)
+[![](/Asserts/Images/album/201312/07/102045yxj88fjwvuyvnxzl.jpg)](http://www.flickr.com/photos/xmodulo/10881348733/)
 
 
 ### 以用户身份启动Ghost

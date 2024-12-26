@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Kubernetes,CRI]
 ---
 
 
-![](/Asserts/Images//attachment/album/201710/31/234936q6dom9robz9poc9f.jpg)
+![](/Asserts/Images/album/201710/31/234936q6dom9robz9poc9f.jpg)
 
 
 去年，Kubernetes 项目推出了<ruby> <a href="https://github.com/kubernetes/kubernetes/blob/242a97307b34076d5d8f5bbeb154fa4d97c9ef1d/docs/devel/container-runtime-interface.md">  容器运行时接口 </a> <rt>  Container Runtime Interface </rt></ruby>（CRI）：这是一个插件接口，它让 kubelet（用于创建 pod 和启动容器的集群节点代理）有使用不同的兼容 OCI 的容器运行时的能力，而不需要重新编译 Kubernetes。在这项工作的基础上，[CRI-O](http://cri-o.io/) 项目（[原名 OCID](https://www.redhat.com/en/blog/running-production-applications-containers-introducing-ocid)）准备为 Kubernetes 提供轻量级的运行时。
@@ -40,7 +40,7 @@ CRI-O 允许你直接从 Kubernetes 运行容器，而不需要任何不必要�
 当 Kubernetes 需要运行容器时，它会与 CRI-O 进行通信，CRI-O 守护程序与 runc（或另一个符合 OCI 标准的运行时）一起启动容器。当 Kubernetes 需要停止容器时，CRI-O 会来处理。这没什么令人兴奋的，它只是在幕后管理 Linux 容器，以便用户不需要担心这个关键的容器编排。
 
 
-![CRI-O Overview](/Asserts/Images//attachment/album/201710/31/234945ee5euzn7hu0cnu4u.png "CRI-O Overview")
+![CRI-O Overview](/Asserts/Images/album/201710/31/234945ee5euzn7hu0cnu4u.png "CRI-O Overview")
 
 
 ### CRI-O 不是什么

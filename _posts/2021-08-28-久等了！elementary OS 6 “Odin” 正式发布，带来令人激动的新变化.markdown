@@ -15,7 +15,7 @@ tags:	[linuxcn,]
 > 
 
 
-![](/Asserts/Images//attachment/album/202108/11/144300iizi2886083s609v.jpg)
+![](/Asserts/Images/album/202108/11/144300iizi2886083s609v.jpg)
 
 
 [2021 年最值得期待的 Linux 发行版](https://news.itsfoss.com/linux-distros-for-2021/) 之一，终于来了。
@@ -30,7 +30,7 @@ elementary OS 6 基于 Ubuntu 20.04 LTS，它大幅改进了用户体验和安�
 ### 正式引入暗黑模式
 
 
-![](/Asserts/Images//attachment/album/202108/11/144300vpuuhkpwcwmkp2sp.png)
+![](/Asserts/Images/album/202108/11/144300vpuuhkpwcwmkp2sp.png)
 
 
 elementary OS 6 加入这个功能可能为时太晚，但至少他们做了极大的努力，让整个系统拥有一致的暗黑模式体验。
@@ -45,7 +45,7 @@ elementary OS 6 加入这个功能可能为时太晚，但至少他们做了极�
 ### 通知优化
 
 
-![](/Asserts/Images//attachment/album/202108/11/144301zrdrb3fhfkbbqqhh.png)
+![](/Asserts/Images/album/202108/11/144301zrdrb3fhfkbbqqhh.png)
 
 
 通知现在支持操作按钮和图标徽章，视觉更舒适，也更加易用。
@@ -54,7 +54,7 @@ elementary OS 6 加入这个功能可能为时太晚，但至少他们做了极�
 ### Flatpak 优先原则
 
 
-![](/Asserts/Images//attachment/album/202108/11/144302dwf5jx54x4f3mwwy.png)
+![](/Asserts/Images/album/202108/11/144302dwf5jx54x4f3mwwy.png)
 
 
 为了加强隐私保护和安全性，elementary OS 6 提供了开箱即用的 Flatpak 应用支持。
@@ -66,7 +66,7 @@ elementary OS 6 加入这个功能可能为时太晚，但至少他们做了极�
 ### 多点触控手势
 
 
-![](/Asserts/Images//attachment/album/202108/11/144303on3mr63bnijz3pn1.png)
+![](/Asserts/Images/album/202108/11/144303on3mr63bnijz3pn1.png)
 
 
 对于触控板和触摸屏用户，elementary OS 6 带来了不错的手势交互，你完全可以借助手势来穿梭于系统中。
@@ -87,7 +87,7 @@ elementary OS 6 加入这个功能可能为时太晚，但至少他们做了极�
 ### 其他重要改进
 
 
-![](/Asserts/Images//attachment/album/202108/11/144304i9pkfn2iwzkkqgi2.png)
+![](/Asserts/Images/album/202108/11/144304i9pkfn2iwzkkqgi2.png)
 
 
 如果你想了解更多关于本次更新的内容，我强烈建议你试用 elementary OS 6 来自行探索。

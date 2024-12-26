@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,手机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/23/155159e5s33xo63tz5jddz.jpg)
+![](/Asserts/Images/album/202108/23/155159e5s33xo63tz5jddz.jpg)
 
 
 
@@ -42,7 +42,7 @@ tags:	[linuxcn,Linux,手机]
 #### 1、PinePhone
 
 
-![](/Asserts/Images//attachment/album/202108/23/155316nuw1kqtun56i4mm5.jpg)
+![](/Asserts/Images/album/202108/23/155316nuw1kqtun56i4mm5.jpg)
 
 
 [PinePhone](https://www.pine64.org/pinephone/) 是最有性价比和最受欢迎的选择之一，我觉得它是一个有前途的 Linux 手机。
@@ -63,7 +63,7 @@ PinePhone 还为你提供了使用六个可用的 pogo 引脚添加自定义的�
 #### 2、Fairphone
 
 
-![](/Asserts/Images//attachment/album/202108/23/155316kmcjj04medd1nyff.png)
+![](/Asserts/Images/album/202108/23/155316kmcjj04medd1nyff.png)
 
 
 与这个清单上的其他选择相比，[Fairphone](https://shop.fairphone.com/en/) 在商业上是成功的。它不是一款 Linux 智能手机，但它具有定制版的安卓系统，即 Fairphone OS，并且可以选择 [开源安卓系统替代品](https://itsfoss.com/open-source-alternatives-android/) 之一 [/e/ OS](https://itsfoss.com/e-os-review/)。如果你想使用 Linux 操作系统，也有一些社区移植版本，但可能有点碰运气。
@@ -81,7 +81,7 @@ Fairphone 有两个不同的版本，提供了一些不错的配置规格。你�
 ### 3、Librem 5
 
 
-![](/Asserts/Images//attachment/album/202108/23/155316hyjq7iydljr0gqed.png)
+![](/Asserts/Images/album/202108/23/155316hyjq7iydljr0gqed.png)
 
 
 [Librem 5](https://puri.sm/products/librem-5/) 是一款非常注重用户隐私的智能手机，同时它采用了开源的操作系统，即 PureOS，并非基于安卓。
@@ -102,7 +102,7 @@ Fairphone 有两个不同的版本，提供了一些不错的配置规格。你�
 ### 4、Pro 1X
 
 
-![](/Asserts/Images//attachment/album/202108/23/155316j06yk0rr9b5rr06r.jpg)
+![](/Asserts/Images/album/202108/23/155316j06yk0rr9b5rr06r.jpg)
 
 
 [Pro 1X](https://www.fxtec.com/pro1x) 是一款有趣的智能手机，同时支持 Ubuntu Touch、Lineage OS 和安卓。
@@ -120,7 +120,7 @@ Pro 1 X 的配置规格不错，包括了一个骁龙 662 处理器和 6GB 内�
 ### 5、Volla Phone
 
 
-![](/Asserts/Images//attachment/album/202108/23/155316xq5d5526th8qtm5m.jpg)
+![](/Asserts/Images/album/202108/23/155316xq5d5526th8qtm5m.jpg)
 
 
 [Volla Phone](https://www.indiegogo.com/projects/volla-phone-free-your-mind-protect-your-privacy#/) 是一个有吸引力的产品，运行在 UBports 的 Ubuntu Touch。

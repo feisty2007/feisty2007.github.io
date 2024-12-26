@@ -15,7 +15,7 @@ tags:	[linuxcn,LinuxMint]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/20/105504j155x090wkwi335w.png)
+![](/Asserts/Images/album/202201/20/105504j155x090wkwi335w.png)
 
 
 [Linux Mint 20.3](https://news.itsfoss.com/linux-mint-20-3-una-release/) 带来了一些改进。然而，它是由 Linux 内核 5.4 LTS 驱动的。
@@ -54,7 +54,7 @@ tags:	[linuxcn,LinuxMint]
 你可以选择下载单独的 Edge ISO 或从更新管理器中更新 Linux 内核。
 
 
-![](/Asserts/Images//attachment/album/202201/20/105504qp2ppxo7ja3ol3x0.png)
+![](/Asserts/Images/album/202201/20/105504qp2ppxo7ja3ol3x0.png)
 
 
 前往 “更新管理器”，然后从“查看”菜单中导航到 Linux 内核选项。你可以注意到，你可以安装其他可用的 Linux 内核（根据你的要求），如果需要，可以删除旧的内核。
@@ -63,7 +63,7 @@ tags:	[linuxcn,LinuxMint]
 建议不要删除旧的内核，除非你确定较新的版本能按预期工作。
 
 
-![](/Asserts/Images//attachment/album/202201/20/105504ah8mm4sfm0m68uu1.png)
+![](/Asserts/Images/album/202201/20/105504ah8mm4sfm0m68uu1.png)
 
 
 在进行内核升级之前，你应该备份你的重要文件，以防万一。

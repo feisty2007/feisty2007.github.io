@@ -25,9 +25,9 @@ excerpt: 据 Linux 中国翻译组（LCTT）的译者 dongfengweixiao 提议，�
 fromurl: ''
 id: 7877
 islctt: false
-largepic: /Asserts/Images//attachment/album/201610/19/231239zo9ouougoaxg72qq.jpg
+largepic: /Asserts/Images/album/201610/19/231239zo9ouougoaxg72qq.jpg
 permalink: /article-7877-1.html
-pic: /Asserts/Images//attachment/album/201610/19/231239zo9ouougoaxg72qq.jpg.thumb.jpg
+pic: /Asserts/Images/album/201610/19/231239zo9ouougoaxg72qq.jpg.thumb.jpg
 related:
 - displayorder: 0
   raid: 4292
@@ -60,7 +60,7 @@ updated: '2016-10-20 08:08:00'
 不过，我们认为，对于这样的一个经常使用的专业名词，有一个明确的译名比较适合，虽然大家都习惯了直接用 fork 一词。
 
 
-![](/Asserts/Images//attachment/album/201610/19/231239zo9ouougoaxg72qq.jpg)
+![](/Asserts/Images/album/201610/19/231239zo9ouougoaxg72qq.jpg)
 
 
 fork 一词在英文中的原意是“叉子”， 虽然翻译成“分叉”、“分支”似乎也可以，但是前者较少用做动词，后者则和 Branch 的译名重复混淆。
@@ -103,7 +103,7 @@ fork 一词在英文中的原意是“叉子”， 虽然翻译成“分叉”�
 通过<ruby> 复刻 <rp>  （ </rp> <rt>  fork </rt> <rp>  ） </rp></ruby> + PR 的方式对开源项目进行贡献的流程类似下图：
 
 
-![](/Asserts/Images//attachment/album/201610/19/224655weu0k5x8c8pz8r7e.png)
+![](/Asserts/Images/album/201610/19/224655weu0k5x8c8pz8r7e.png)
 
 
 我们知道 GitHub 是运行在 Git 之上的，GitHub 中的<ruby> 复刻 <rp>  （ </rp> <rt>  fork </rt> <rp>  ） </rp></ruby>其本质上是 Git 中的<ruby> 克隆 <rp>  （ </rp> <rt>  clone </rt> <rp>  ） </rp></ruby>。关于 GitHub 中的复刻的进一步介绍，可以参考“[在 Github 和 Git 上 fork 之简单指南](/article-4292-1.html)”一文。
@@ -140,7 +140,7 @@ else if (fpid == 0) {
 其实，不只是 C 语言里面有<ruby> 复刻 <rp>  （ </rp> <rt>  fork </rt> <rp>  ） </rp></ruby>的功能，在 shell 里面也有，想必大家可能都听说过 “fork 炸弹”，这就是利用函数的迭代执行，无限<ruby> 复刻 <rp>  （ </rp> <rt>  fork </rt> <rp>  ） </rp></ruby>出许多子进程，从而耗尽系统资源，导致系统崩溃的一个恶意（玩笑）用法。
 
 
-![](/Asserts/Images//attachment/album/201610/19/231727pyy9mq8y7ooyeeel.jpg)
+![](/Asserts/Images/album/201610/19/231727pyy9mq8y7ooyeeel.jpg)
 
 
 复刻炸弹有很多种形式，不过最简洁的可能就是如上图的这个了，关于这个炸弹的具体解释，可以参阅“[经典的 Fork 炸弹解析](/article-5685-1.html)”，在此就不赘述了。

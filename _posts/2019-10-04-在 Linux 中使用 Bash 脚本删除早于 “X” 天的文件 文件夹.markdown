@@ -7,7 +7,7 @@ tags:	[linuxcn,日志,删除]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/22/150713e1brlrxnowxcxx7d.jpg)
+![](/Asserts/Images/album/201910/22/150713e1brlrxnowxcxx7d.jpg)
 
 
 [磁盘使用率](https://www.2daygeek.com/linux-check-disk-usage-files-and-directories-folders-size-du-command/) 监控工具能够在达到给定阈值时提醒我们。但它们无法自行解决 [磁盘使用率](https://www.2daygeek.com/linux-check-disk-space-usage-df-command/) 问题。需要手动干预才能解决该问题。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,版本,代号]
 ---
 
 
-![](/Asserts/Images//attachment/album/201610/24/103044ml5713m41y4ie18l.jpg)
+![](/Asserts/Images/album/201610/24/103044ml5713m41y4ie18l.jpg)
 
 
 你是否对你喜爱的 Linux 发行版的最新发布版本的代号感到好奇？
@@ -25,7 +25,7 @@ tags:	[linuxcn,Linux,版本,代号]
 ### Ubuntu 的版本号和代号
 
 
-![](/Asserts/Images//attachment/album/201610/24/103105ossyfliilbzkuigb.jpg)
+![](/Asserts/Images/album/201610/24/103105ossyfliilbzkuigb.jpg)
 
 
 作为最流行的 Linux 发行版之一，[Ubuntu](http://www.ubuntu.com/) 有着一个稳定的开发周期，每年 4 月份和 10 月份各发布一个主要版本。
@@ -94,7 +94,7 @@ Ubuntu 的代号一直遵循两个单词的规则，第一个是一个形容词�
 ### Linux Mint 的版本号和代号
 
 
-![](/Asserts/Images//attachment/album/201610/24/120455cnhsoahcaalzkhrc.jpeg)
+![](/Asserts/Images/album/201610/24/120455cnhsoahcaalzkhrc.jpeg)
 
 
 作为 Ubuntu 的远亲，Linux Mint 也是一个 Debian 族系的流行发行版。现在让我们深挖一下 Linux Mint 的版本号和代号。
@@ -214,7 +214,7 @@ Linux Mint 是基于 Ubuntu 的，通常在 Ubuntu 发布后几个月内，Linux
 ### elementary OS 的版本号和代号
 
 
-![](/Asserts/Images//attachment/album/201610/24/141639iz2tovvudcvmcovo.jpg)
+![](/Asserts/Images/album/201610/24/141639iz2tovvudcvmcovo.jpg)
 
 
 因为我们谈过了 Ubuntu 和 Linux Mint，让我们继续看看 Ubuntu 家族的另外一位： [elementary OS](https://elementary.io/) ，它也是基于 Ubuntu 的一个以优美著称的 Linux 发行版。
@@ -237,7 +237,7 @@ elementary OS 的版本号都是 0.X 这样递增的，第一个稳定版本是 
 ### Debian 的版本号和代号
 
 
-![](/Asserts/Images//attachment/album/201610/24/131931a0d0let2lf2215s5.jpg)
+![](/Asserts/Images/album/201610/24/131931a0d0let2lf2215s5.jpg)
 
 
 让我们回到 Ubuntu 、Linux Mint 和 elementary OS 的父系看看。[Debian](https://www.debian.org/) 是 Ubuntu 及其族系派生的来源，它的代号命名非常有意思。事实上，Debian 这个发行版本身的名字就来源于其创始人 Ian 及其女朋友 Debra 的名词合写，虽然 Ian 已经去世，但是其名字却会随着 Debian 而长存。
@@ -277,7 +277,7 @@ Debian 的版本号是递增的，这并没什么特殊的，不过有趣的是�
 ### openSUSE 的版本号和代号
 
 
-![](/Asserts/Images//attachment/album/201610/24/134316j619xtj2p11w2w6s.jpg)
+![](/Asserts/Images/album/201610/24/134316j619xtj2p11w2w6s.jpg)
 
 
 [openSUSE](https://www.opensuse.org/) 的第一个版本 10.2 发布于 2006 年。

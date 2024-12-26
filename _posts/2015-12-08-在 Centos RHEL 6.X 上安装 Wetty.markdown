@@ -19,7 +19,7 @@ Wetty = Web + tty
 （LCTT 译注：简而言之，这是一个基于 Web 浏览器的远程终端）
 
 
-![](/Asserts/Images//attachment/album/201512/21/104231s6sahu2atatghuu4.png)
+![](/Asserts/Images/album/201512/21/104231s6sahu2atatghuu4.png)
 
 
 ### 第1步: 安装 epel 源

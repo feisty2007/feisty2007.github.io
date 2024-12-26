@@ -15,7 +15,7 @@ tags:	[linuxcn,OpenSSL,加密,解密]
 > 
 
 
-![](/Asserts/Images//attachment/album/202105/07/163825a9yh74h9yh4h77y2.jpg "A secure lock.")
+![](/Asserts/Images/album/202105/07/163825a9yh74h9yh4h77y2.jpg "A secure lock.")
 
 
 加密是对消息进行编码的一种方法，这样可以保护消息的内容免遭他人窥视。一般有两种类型：

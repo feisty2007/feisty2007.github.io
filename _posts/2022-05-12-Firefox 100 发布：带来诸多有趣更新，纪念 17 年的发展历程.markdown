@@ -15,7 +15,7 @@ tags:	[linuxcn,Firefox]
 > 
 
 
-![Firefox 100](/Asserts/Images//attachment/album/202205/07/084108xu691ejevwuxjexb.jpg)
+![Firefox 100](/Asserts/Images/album/202205/07/084108xu691ejevwuxjexb.jpg)
 
 
 Firefox 可以说是最受欢迎的不基于 Chrome 的开源浏览器，它可用于 Linux、Windows 和 Mac。
@@ -33,7 +33,7 @@ Firefox 可以说是最受欢迎的不基于 Chrome 的开源浏览器，它可�
 ### Firefox 100：更新内容
 
 
-![Firefox 100](/Asserts/Images//attachment/album/202205/07/084109j9jr35z9qfnyxyn3.jpg)
+![Firefox 100](/Asserts/Images/album/202205/07/084109j9jr35z9qfnyxyn3.jpg)
 
 
 不管你是否喜欢 Firefox 新的发展计划，你都不得不承认，它多年来引入了众多行业领先的功能/技术，这一点令人印象深刻。
@@ -48,7 +48,7 @@ Firefox 100 的发布是一个重要的里程碑。但是，这并不是一次�
 #### “画中画”模式改进
 
 
-![Firefox 100](/Asserts/Images//attachment/album/202205/07/084109sro31rlw1aolnjjg.jpg)
+![Firefox 100](/Asserts/Images/album/202205/07/084109sro31rlw1aolnjjg.jpg)
 
 
 现在，在“画中画”模式下观看 YouTube、Prime Video 和 Netflix 上的任何内容，Firefox 都支持视频字幕。
@@ -75,7 +75,7 @@ Firefox 100 的发布是一个重要的里程碑。但是，这并不是一次�
 Linux 和 Windows 11 的滚动条默认不会占用你宝贵的屏幕空间。换句话说，当你进行滚动或导航时，滚动条才会做出反应。
 
 
-![Firefox 100](/Asserts/Images//attachment/album/202205/07/084109mxuhhczojhc8iotc.jpg)
+![Firefox 100](/Asserts/Images/album/202205/07/084109mxuhhczojhc8iotc.jpg)
 
 
 你可以在设置中改变这一点（针对 Linux 用户）。如果你是在 Windows 上，Firefox 的视觉效果会跟随你的系统设置。因此，你需要对 Firefox 浏览器进行调整，以符合你自己的偏好。
@@ -84,7 +84,7 @@ Linux 和 Windows 11 的滚动条默认不会占用你宝贵的屏幕空间。�
 #### 控制网站外观
 
 
-![Firefox 100](/Asserts/Images//attachment/album/202205/07/084110uzfhq3tptrr2ivb6.jpg)
+![Firefox 100](/Asserts/Images/album/202205/07/084110uzfhq3tptrr2ivb6.jpg)
 
 
 对于某些网站，你的浏览器偏好会影响网页的颜色/外观。

@@ -25,8 +25,8 @@ tags:	[linuxcn,GTK+ 3.4.0,正式版,发布]
 * 改进 Wayland 后端支持，等等
 
 
-[![](/Asserts/Images//attachment/album/201203/29/113844eerz06eastnu0erw.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/113844eerz06eastnu0erw.jpg)
+[![](/Asserts/Images/album/201203/29/113844eerz06eastnu0erw.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/113844eerz06eastnu0erw.jpg)
 
 
 桌面预览
@@ -45,8 +45,8 @@ tags:	[linuxcn,GTK+ 3.4.0,正式版,发布]
 * 添加应用程序菜单
 
 
-[![](/Asserts/Images//attachment/album/201203/29/1138440z77t43z6bsmw7sk.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/1138440z77t43z6bsmw7sk.jpg)
+[![](/Asserts/Images/album/201203/29/1138440z77t43z6bsmw7sk.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/1138440z77t43z6bsmw7sk.jpg)
 
 
 GNOME 3.4 下的应用程序
@@ -62,8 +62,8 @@ GNOME 3.4 下的应用程序
 * 增加头像选择（支持裁剪）
 
 
-[![](/Asserts/Images//attachment/album/201203/29/113846yzq229sr9xugnuyu.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/113846yzq229sr9xugnuyu.jpg)
+[![](/Asserts/Images/album/201203/29/113846yzq229sr9xugnuyu.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/113846yzq229sr9xugnuyu.jpg)
 
 
 GNOME 3.4 下的 Contacts 应用
@@ -81,8 +81,8 @@ GNOME 3.4 下的 Contacts 应用
 * 使用 VNC 或 SPICE 功能连接到远程显示器
 
 
-[![](/Asserts/Images//attachment/album/201203/29/11384845nfnfffzfzgvnjf.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/11384845nfnfffzfzgvnjf.jpg)
+[![](/Asserts/Images/album/201203/29/11384845nfnfffzfzgvnjf.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/11384845nfnfffzfzgvnjf.jpg)
 
 
 GNOME 3.4 下的 Boxes 应用
@@ -98,8 +98,8 @@ GNOME 3.4 下的 Boxes 应用
 * 全新的历史功能
 
 
-[![0](/Asserts/Images//attachment/album/201203/29/113848z21m1o553lz1m1li.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/113848z21m1o553lz1m1li.jpg)
+[![0](/Asserts/Images/album/201203/29/113848z21m1o553lz1m1li.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/113848z21m1o553lz1m1li.jpg)
 
 
 GNOME 3.4 下的 Epiphany 浏览器
@@ -114,8 +114,8 @@ GNOME 3.4 下的 Epiphany 浏览器
 * GNOME Contacts 现在用于显示联系人的详细信息
 
 
-[![](/Asserts/Images//attachment/album/201203/29/11385165vlnvaa6yubya86.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/11385165vlnvaa6yubya86.jpg)
+[![](/Asserts/Images/album/201203/29/11385165vlnvaa6yubya86.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/11385165vlnvaa6yubya86.jpg)
 
 
 GNOME 3.4 下的 Empathy 视频对话窗口
@@ -156,22 +156,22 @@ GNOME 3.4 下的 Empathy 视频对话窗口
 * 改进和更新的视觉主题
 
 
-[![](/Asserts/Images//attachment/album/201203/29/11385396ynhe9vn9491zq9.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/11385396ynhe9vn9491zq9.jpg)
+[![](/Asserts/Images/album/201203/29/11385396ynhe9vn9491zq9.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/11385396ynhe9vn9491zq9.jpg)
 
 
 GNOME 3.4 下的应用程序和菜单
 
 
-[![](/Asserts/Images//attachment/album/201203/29/113855d27iiafx1pop5ooo.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/113855d27iiafx1pop5ooo.jpg)
+[![](/Asserts/Images/album/201203/29/113855d27iiafx1pop5ooo.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/113855d27iiafx1pop5ooo.jpg)
 
 
 GNOME 3.4 下的桌面搜索
 
 
-[![](/Asserts/Images//attachment/album/201203/29/113857m0t6bad2dmj0zujb.jpg)  
-点击查看大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201203/29/113857m0t6bad2dmj0zujb.jpg)
+[![](/Asserts/Images/album/201203/29/113857m0t6bad2dmj0zujb.jpg)  
+点击查看大图](https://img.linux.net.cn/Asserts/Images/album/201203/29/113857m0t6bad2dmj0zujb.jpg)
 
 
 GNOME 3.4 下的动画桌面

@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenSSL,证书]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/07/225825y6frhbm2ozvfamoa.jpg)
+![](/Asserts/Images/album/202006/07/225825y6frhbm2ozvfamoa.jpg)
 
 
 ### 介绍

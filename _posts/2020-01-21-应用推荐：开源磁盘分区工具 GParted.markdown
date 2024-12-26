@@ -7,7 +7,7 @@ tags:	[linuxcn,分区,GParted]
 ---
 
 
-![](/Asserts/Images//attachment/album/202001/10/220015lp58jjjt22xfppjj.jpg)
+![](/Asserts/Images/album/202001/10/220015lp58jjjt22xfppjj.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,分区,GParted]
 ### GParted：一个自由开源的图形化分区管理器
 
 
-![](/Asserts/Images//attachment/album/202001/10/220035waqj77qngqnk733b.png)
+![](/Asserts/Images/album/202001/10/220035waqj77qngqnk733b.png)
 
 
 GParted 无疑是 [Linux 下的最好的分区管理器](https://itsfoss.com/partition-managers-linux/)之一。用户界面非常简单而可以完成任务。
@@ -56,7 +56,7 @@ GParted 无疑是 [Linux 下的最好的分区管理器](https://itsfoss.com/par
 你可以为新磁盘创建一个新的分区表，也可以擦除你现存的磁盘内容来修改分区表。
 
 
-![](/Asserts/Images//attachment/album/202001/10/220043vf2itgigff7fgi1f.png)
+![](/Asserts/Images/album/202001/10/220043vf2itgigff7fgi1f.png)
 
 
 你能够选择 msdos、gpt、atari，以及更多类型的分区表。
@@ -68,7 +68,7 @@ GParted 无疑是 [Linux 下的最好的分区管理器](https://itsfoss.com/par
 你可以使用 GParted 中一系列选项来轻松地创建、标记、删除或修改分区表。
 
 
-![](/Asserts/Images//attachment/album/202001/10/220046j3fi2h5ql225ix5p.png)
+![](/Asserts/Images/album/202001/10/220046j3fi2h5ql225ix5p.png)
 
 
 当然，你必须要谨慎你要做的事情。
@@ -83,7 +83,7 @@ GParted 无疑是 [Linux 下的最好的分区管理器](https://itsfoss.com/par
 这是分区可用选项的另一个屏幕截图：
 
 
-![](/Asserts/Images//attachment/album/202001/10/220049fvvvjx4s1yftj4py.png)
+![](/Asserts/Images/album/202001/10/220049fvvvjx4s1yftj4py.png)
 
 
 #### 尝试数据救援
@@ -92,7 +92,7 @@ GParted 无疑是 [Linux 下的最好的分区管理器](https://itsfoss.com/par
 除了编辑分区以外，你也可以试着使用“尝试数据救援”功能以[在 Linux 中恢复丢失的数据](https://itsfoss.com/recover-deleted-files-linux/)，如下面的屏幕截图所示。
 
 
-![](/Asserts/Images//attachment/album/202001/10/220051bnntqckdcc9nn2ke.png)
+![](/Asserts/Images/album/202001/10/220051bnntqckdcc9nn2ke.png)
 
 
 值得注意的是，默认情况下你没有安装此功能 —— 你只是能看到这个选项。因此，要使这个数据恢复功能可以正常工作，你必须使用下面的命令来单独地安装 gpart (在基于 Ubuntu/Debian 的发行版上)：

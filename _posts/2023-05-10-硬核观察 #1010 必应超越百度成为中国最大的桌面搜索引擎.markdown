@@ -7,10 +7,10 @@ tags:	[linuxcn,Wine,百度,AI,必应]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/23/204904l40iic2h0eiu1b0z.jpg)
+![](/Asserts/Images/album/202305/23/204904l40iic2h0eiu1b0z.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/23/204918ku2z1w9n5nty9wvb.jpg)
+![](/Asserts/Images/album/202305/23/204918ku2z1w9n5nty9wvb.jpg)
 
 
 ### 必应超越百度成为中国最大的桌面搜索引擎
@@ -19,7 +19,7 @@ tags:	[linuxcn,Wine,百度,AI,必应]
 根据 StatCounter 最近发布的数据，在中国市场，必应在 2023 年 4 月获得了 37.4% 的历史最高市场份额，超过了百度（27.01%）10 个百分点。之后的分别是搜狗（16.36%）、其它（7.45%）、360 好搜（6.25%）和谷歌（5.2%）。
 
 
-![](/Asserts/Images//attachment/album/202305/23/204939w2lkz0kbj5qqqm5k.jpg)
+![](/Asserts/Images/album/202305/23/204939w2lkz0kbj5qqqm5k.jpg)
 
 
 
@@ -41,7 +41,7 @@ tags:	[linuxcn,Wine,百度,AI,必应]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/23/204951q14w41w3k2i47rkd.jpg)
+![](/Asserts/Images/album/202305/23/204951q14w41w3k2i47rkd.jpg)
 
 
 ### Meta 的新人工智能模型能够处理 1000 多种语言的语音
@@ -66,7 +66,7 @@ Meta 公司的研究人员通过重新训练该公司在 2020 年开发的人工
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/23/205011dpkkq95appuvkez6.jpg)
+![](/Asserts/Images/album/202305/23/205011dpkkq95appuvkez6.jpg)
 
 
 ### CodeWeavers 现在转为员工所有权信托基金控制

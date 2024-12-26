@@ -21,7 +21,7 @@ tags:	[linuxcn,Python,回调,异步,爬虫,协程,asyncio]
 > 
 
 
-![](/Asserts/Images//attachment/album/201703/04/160052krxzwz2jepx15pxr.jpg)
+![](/Asserts/Images/album/201703/04/160052krxzwz2jepx15pxr.jpg)
 
 
 ### 介绍

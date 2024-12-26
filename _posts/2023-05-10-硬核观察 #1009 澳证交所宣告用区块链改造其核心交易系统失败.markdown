@@ -7,10 +7,10 @@ tags:	[linuxcn,区块链,CPU,PyPi]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/22/172202za335a23x4z3aa6m.jpg)
+![](/Asserts/Images/album/202305/22/172202za335a23x4z3aa6m.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/22/172214ilnkwkffziwbz6n3.jpg)
+![](/Asserts/Images/album/202305/22/172214ilnkwkffziwbz6n3.jpg)
 
 
 ### 澳证交所宣告用区块链改造其核心交易系统失败
@@ -35,7 +35,7 @@ tags:	[linuxcn,区块链,CPU,PyPi]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/22/172306l7uaedu5juj3j237.jpg)
+![](/Asserts/Images/album/202305/22/172306l7uaedu5juj3j237.jpg)
 
 
 ### 英特尔研究开发仅支持 64 位的 x86S 架构
@@ -60,7 +60,7 @@ tags:	[linuxcn,区块链,CPU,PyPi]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/22/172336iuz1hs81emmuguum.jpg)
+![](/Asserts/Images/album/202305/22/172336iuz1hs81emmuguum.jpg)
 
 
 ### 大量恶意项目导致 PyPi 暂停新注册两天

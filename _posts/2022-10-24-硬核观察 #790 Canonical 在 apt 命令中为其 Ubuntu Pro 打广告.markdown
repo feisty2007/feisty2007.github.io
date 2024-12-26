@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,无人机,PostgreSQL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/15/185110hg00ssie3ihey9g0.jpg)
+![](/Asserts/Images/album/202210/15/185110hg00ssie3ihey9g0.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/15/185118xeokk5qx0prp0oco.jpg)
+![](/Asserts/Images/album/202210/15/185118xeokk5qx0prp0oco.jpg)
 
 
 ### Canonical 在 apt 命令中为其 Ubuntu Pro 打广告
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ubuntu,无人机,PostgreSQL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/15/185129jwrira0v3i0x343a.jpg)
+![](/Asserts/Images/album/202210/15/185129jwrira0v3i0x343a.jpg)
 
 
 ### 黑客利用无人机，通过 Wi-Fi 远程渗透了金融公司内网
@@ -60,7 +60,7 @@ tags:	[linuxcn,Ubuntu,无人机,PostgreSQL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/15/185142j73dprboyugtomdo.jpg)
+![](/Asserts/Images/album/202210/15/185142j73dprboyugtomdo.jpg)
 
 
 ### PostgreSQL 15 发布

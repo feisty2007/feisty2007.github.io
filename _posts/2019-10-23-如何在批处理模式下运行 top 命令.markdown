@@ -7,7 +7,7 @@ tags:	[linuxcn,top]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/22/235420ylswdescv5ddffit.jpg)
+![](/Asserts/Images/album/201910/22/235420ylswdescv5ddffit.jpg)
 
 
 [top 命令](https://www.2daygeek.com/linux-top-command-linux-system-performance-monitoring-tool/) 是每个人都在使用的用于 [监控 Linux 系统性能](https://www.2daygeek.com/category/system-monitoring/) 的最好的命令。你可能已经知道 `top` 命令的绝大部分操作，除了很少的几个操作，如果我没错的话，批处理模式就是其中之一。

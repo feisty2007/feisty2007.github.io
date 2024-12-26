@@ -7,7 +7,7 @@ tags:	[linuxcn,硬件]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/06/111717t1f77n7v3egxhf18.jpg)
+![](/Asserts/Images/album/201908/06/111717t1f77n7v3egxhf18.jpg)
 
 
 在 Linux 系统上有许多工具可用于查找硬件规格。在这里，我列出了四种最常用的工具，可以获取 Linux 系统的几乎所有硬件（和软件）细节。好在是这些工具在某些 Linux 发行版上默认预装。我在 Ubuntu 18.04 LTS 桌面上测试了这些工具，但是它们也适用于其他 Linux 发行版。
@@ -52,7 +52,7 @@ $ sudo lshw
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201908/06/111746gshocweitshffeku.png)
+![](/Asserts/Images/album/201908/06/111746gshocweitshffeku.png)
 
 
 *使用 lshw 在 Linux 上查找硬件规格*
@@ -86,7 +86,7 @@ $ sudo lshw -json
 $ sudo lshw -short
 ```
 
-![](/Asserts/Images//attachment/album/201908/06/111748zujrrr9cnc2vcuc5.png)
+![](/Asserts/Images/album/201908/06/111748zujrrr9cnc2vcuc5.png)
 
 
 *使用 lshw 显示具有硬件路径的设备树*
@@ -219,7 +219,7 @@ $ sudo lshw-gtk
 这是 `lshw` 工具的默认 GUI 界面。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111748zp6we6jo36f1wj1p.png)
+![](/Asserts/Images/album/201908/06/111748zp6we6jo36f1wj1p.png)
 
 
 *使用 lshw-gtk 在 Linux 上查找硬件*
@@ -228,7 +228,7 @@ $ sudo lshw-gtk
 只需双击“Portable Computer”即可进一步展开细节。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111750yt4jm5ztwvpnpjpv.png)
+![](/Asserts/Images/album/201908/06/111750yt4jm5ztwvpnpjpv.png)
 
 
 *使用 lshw-gtk GUI 在 Linux 上查找硬件*
@@ -277,7 +277,7 @@ $ sudo apt install hardinfo
 以下是 Hardinfo 默认界面的外观。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111751bn5q0l4h88slnfhc.png)
+![](/Asserts/Images/album/201908/06/111751bn5q0l4h88slnfhc.png)
 
 
 *使用 Hardinfo 在 Linux 上查找硬件*
@@ -292,7 +292,7 @@ $ sudo apt install hardinfo
 例如，要查看处理器详细信息，请单击“设备”组下的“处理器”选项。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111753uopvjpjjajjctppx.png)
+![](/Asserts/Images/album/201908/06/111753uopvjpjjajjctppx.png)
 
 
 *使用 hardinfo 显示处理器详细信息*
@@ -301,7 +301,7 @@ $ sudo apt install hardinfo
 与 `lshw` 不同，Hardinfo 可帮助你查找基本软件规范，如操作系统详细信息、内核模块、区域设置信息、文件系统使用情况、用户/组和开发工具等。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111755as4iozg99alwybg6.png)
+![](/Asserts/Images/album/201908/06/111755as4iozg99alwybg6.png)
 
 
 *使用 hardinfo 显示操作系统详细信息*
@@ -310,7 +310,7 @@ $ sudo apt install hardinfo
 Hardinfo 的另一个显着特点是它允许我们做简单的基准测试来测试 CPU 和 FPU 功能以及一些图形用户界面功能。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111758d37q36b3jj8ebq38.png)
+![](/Asserts/Images/album/201908/06/111758d37q36b3jj8ebq38.png)
 
 
 *使用 hardinfo 执行基准测试*
@@ -327,7 +327,7 @@ Hardinfo 的另一个显着特点是它允许我们做简单的基准测试来�
 我们可以生成整个系统以及各个设备的报告。要生成报告，只需单击菜单栏上的“生成报告”按钮，然后选择要包含在报告中的信息。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111800m5wp65xbwvufjjqx.png)
+![](/Asserts/Images/album/201908/06/111800m5wp65xbwvufjjqx.png)
 
 
 *使用 hardinfo 生成系统报告*
@@ -395,7 +395,7 @@ $ sysinfo
 这是 Sysinfo 实用程序的默认界面。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111803osiosoz6pqu6wxpm.png)
+![](/Asserts/Images/album/201908/06/111803osiosoz6pqu6wxpm.png)
 
 
 *sysinfo 界面*
@@ -404,7 +404,7 @@ $ sysinfo
 如你所见，所有硬件（和软件）详细信息都分为五类，即系统、CPU、内存、存储和硬件。单击导航栏上的类别以获取相应的详细信息。
 
 
-![](/Asserts/Images//attachment/album/201908/06/111804es0syvvsvtwxzxyr.png)
+![](/Asserts/Images/album/201908/06/111804es0syvvsvtwxzxyr.png)
 
 
 *使用 Sysinfo 在 Linux 上查找硬件*

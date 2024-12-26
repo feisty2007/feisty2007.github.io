@@ -7,7 +7,7 @@ tags:	[linuxcn,LXD,LXC,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/18/113902apgo7es2ocs2fgtz.jpg)
+![](/Asserts/Images/album/201801/18/113902apgo7es2ocs2fgtz.jpg)
 
 
 本文的主角是容器，一种类似虚拟机但更轻量级的构造。你可以轻易地在你的 Ubuntu 桌面系统中创建一堆容器！
@@ -246,7 +246,7 @@ root@c1:~# _
 让我们用浏览器访问一下这个 web 服务器。记住 IP 地址为 10.173.82.158，因此你需要在浏览器中输入这个 IP。
 
 
-[![lxd-nginx](/Asserts/Images//attachment/album/201801/18/113912hc9pa3agdypmc0cg.png)](https://i2.wp.com/blog.simos.info/wp-content/uploads/2016/06/lxd-nginx.png?ssl=1)
+[![lxd-nginx](/Asserts/Images/album/201801/18/113912hc9pa3agdypmc0cg.png)](https://i2.wp.com/blog.simos.info/wp-content/uploads/2016/06/lxd-nginx.png?ssl=1)
 
 
 让我们对页面文字做一些小改动。回到容器中，进入默认 HTML 页面的目录中。
@@ -265,13 +265,13 @@ root@c1:/var/www/html#
 使用 nano 编辑文件，然后保存：
 
 
-[![lxd-nginx-nano](/Asserts/Images//attachment/album/201801/18/113915j4awrpi4yxgvdew4.png)](https://i2.wp.com/blog.simos.info/wp-content/uploads/2016/06/lxd-nginx-nano.png?ssl=1)
+[![lxd-nginx-nano](/Asserts/Images/album/201801/18/113915j4awrpi4yxgvdew4.png)](https://i2.wp.com/blog.simos.info/wp-content/uploads/2016/06/lxd-nginx-nano.png?ssl=1)
 
 
 之后，再刷一下页面看看，
 
 
-[![lxd-nginx-modified](/Asserts/Images//attachment/album/201801/18/113920uoxiic6zluz6vofo.png)](https://i1.wp.com/blog.simos.info/wp-content/uploads/2016/06/lxd-nginx-modified.png?ssl=1)
+[![lxd-nginx-modified](/Asserts/Images/album/201801/18/113920uoxiic6zluz6vofo.png)](https://i1.wp.com/blog.simos.info/wp-content/uploads/2016/06/lxd-nginx-modified.png?ssl=1)
 
 
 ### 清理

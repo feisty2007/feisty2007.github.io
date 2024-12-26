@@ -7,7 +7,7 @@ tags:	[linuxcn,DOOM,计算机历史,Windows NT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/23/230434sueznjche2mre2ch.jpg)
+![](/Asserts/Images/album/202312/23/230434sueznjche2mre2ch.jpg)
 
 
 

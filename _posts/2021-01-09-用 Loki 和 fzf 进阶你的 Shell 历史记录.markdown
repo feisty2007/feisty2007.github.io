@@ -15,7 +15,7 @@ tags:	[linuxcn,日志]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/06/155012r4khll9zlqgx79fs.jpg)
+![](/Asserts/Images/album/202101/06/155012r4khll9zlqgx79fs.jpg)
 
 
 [Loki](https://github.com/grafana/loki) 是一个 Apache 2.0 许可的开源日志聚合框架，由 Grafana 实验室设计，并在不断发展的社区的巨大支持之下建立。它也是我每天为之努力的项目。在这篇文章中，我将不只是谈论 Loki 如何工作，而是提供一个实际操作的介绍，以解决实际问题。
@@ -30,13 +30,13 @@ tags:	[linuxcn,日志]
 突然间，在命令中搜索就从这样：
 
 
-![在 Loki 和 fzf 之前](/Asserts/Images//attachment/album/202101/06/155024uqt9jvzqh5c5ptjh.gif "Before Loki and fzf")
+![在 Loki 和 fzf 之前](/Asserts/Images/album/202101/06/155024uqt9jvzqh5c5ptjh.gif "Before Loki and fzf")
 
 
 变成了这样：
 
 
-![在 Loki 和 fzf 之后](/Asserts/Images//attachment/album/202101/06/155025n7u14eemmqh2mdyy.gif "After Loki and fzf")
+![在 Loki 和 fzf 之后](/Asserts/Images/album/202101/06/155025n7u14eemmqh2mdyy.gif "After Loki and fzf")
 
 
 虽然 `fzf` 极大地提高了我的生活质量，但围绕着我的 shell 历史记录，还是缺少了一些片段：
@@ -75,7 +75,7 @@ Loki 采用了开源 [Prometheus](https://prometheus.io/) 项目用于度量的�
 当我按下 `CTRL+R`，Loki 的 [LogCLI](https://grafana.com/docs/loki/latest/getting-started/logcli/) 命令行界面会发起几个批处理请求，传输至 `fzf`。下面是一个例子，上半部分显示的是树莓派上的 Loki 服务器日志。
 
 
-![树莓派上 Loki 服务器的日志](/Asserts/Images//attachment/album/202101/06/155026bxl1ahdhwwgzr52h.gif "Logs of the Loki server on Raspberry Pi")
+![树莓派上 Loki 服务器的日志](/Asserts/Images/album/202101/06/155026bxl1ahdhwwgzr52h.gif "Logs of the Loki server on Raspberry Pi")
 
 
 准备试试？下面的指南将帮助你设置和运行 Loki，与你的 shell 历史记录集成。为了让本教程保持简洁，此设置将 Loki 本地运行在你的计算机上，并在文件系统上存储所有文件。
@@ -159,7 +159,7 @@ Error: No such container: loki-shell
 就是这样！Loki 现在作为一个 Docker 容器运行了。
 
 
-Loki 的数据将存储在 `~/.loki-shell/Asserts/Images/` 中。
+Loki 的数据将存储在 `~/.loki-shell/data` 中。
 
 
 由于带着 `-restart=unless-stopped` 标志运行该镜像，所以它会在系统重启时重启该服务，但如果你运行 `docker stop loki-shell` 则会保持停止。
@@ -271,7 +271,7 @@ LogCLI 可以用来直接在 Loki 上查询和搜索你的历史，也允许你�
 Loki 的日志查询语言（LogQL）提供了度量查询，可以让你做一些有趣的事情，例如，我可以看到在过去 30 天里我发出了多少次 `kc` 命令（我对 `kubectl` 的别名）。
 
 
-![计数一个命令的使用次数](/Asserts/Images//attachment/album/202101/06/155026yuuvrrqf8lluqdrt.png "Counting use of a command")
+![计数一个命令的使用次数](/Asserts/Images/album/202101/06/155026yuuvrrqf8lluqdrt.png "Counting use of a command")
 
 
 ### 额外增强
@@ -334,13 +334,13 @@ rate({job="shell"}[1m])
 
 ```
 
-![计算过去 20 天内 shell 的使用情况](/Asserts/Images//attachment/album/202101/06/155026dsbhmwqzww03wx2w.png "Counting use of the shell over previous 20 days")
+![计算过去 20 天内 shell 的使用情况](/Asserts/Images/album/202101/06/155026dsbhmwqzww03wx2w.png "Counting use of the shell over previous 20 days")
 
 
 想从一个事件中重建一个时间线？你可以通过特定的命令进行过滤，查看它的运行时间：
 
 
-![计算命令的使用次数](/Asserts/Images//attachment/album/202101/06/155027ezp8puf6c0ojcfjz.png "Counting use of a command")
+![计算命令的使用次数](/Asserts/Images/album/202101/06/155027ezp8puf6c0ojcfjz.png "Counting use of a command")
 
 
 要想知道你还能做什么，并了解更多关于 Loki 查询语言的信息，请查看 LogQL 指南。

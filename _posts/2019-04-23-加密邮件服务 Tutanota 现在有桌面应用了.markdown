@@ -7,7 +7,7 @@ tags:	[linuxcn,邮件,加密]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/06/152029euanuvvvhg8nyvl5.png)
+![](/Asserts/Images/album/201904/06/152029euanuvvvhg8nyvl5.png)
 
 
 [Tutanota](https://itsfoss.com/tutanota-review/) 最近[宣布](https://tutanota.com/blog/posts/desktop-clients/)发布针对其电子邮件服务的桌面应用。该 Beta 版适用于 Linux、Windows 和 macOS。
@@ -37,7 +37,7 @@ Tutanota 有许多引人注目的功能，例如：
 * 本地执行加密数据的全文搜索
 
 
-![](/Asserts/Images//attachment/album/201904/06/152031azmyycy2f0umifog.jpg)
+![](/Asserts/Images/album/201904/06/152031azmyycy2f0umifog.jpg)
 
 
 *web 中的 Tutanota*
@@ -58,7 +58,7 @@ Tutanota 也可以在移动设备上使用。事实上，它的 [Android 应用�
 Tutanota 在去年圣诞节前宣布了桌面应用的 [Beta 版](https://tutanota.com/blog/posts/desktop-clients/)。该应用基于 [Electron](https://electronjs.org/)。
 
 
-![](/Asserts/Images//attachment/album/201904/06/152033hllouc5oarvaupru.png)
+![](/Asserts/Images/album/201904/06/152033hllouc5oarvaupru.png)
 
 
 *Tutanota 桌面应用*
@@ -83,7 +83,7 @@ Tutanota 在去年圣诞节前宣布了桌面应用的 [Beta 版](https://tutano
 ### 如何安装 Tutanota 桌面客户端？
 
 
-![](/Asserts/Images//attachment/album/201904/06/152034k66jthct666m4hbb.jpg)
+![](/Asserts/Images/album/201904/06/152034k66jthct666m4hbb.jpg)
 
 
 *在 Tutanota 中写邮件*

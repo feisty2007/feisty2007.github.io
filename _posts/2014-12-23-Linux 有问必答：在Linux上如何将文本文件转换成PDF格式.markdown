@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,文本,PDF]
 > 
 
 
-![](/Asserts/Images//attachment/album/201412/04/213944vnp7iipw0i8n6jin.png)
+![](/Asserts/Images/album/201412/04/213944vnp7iipw0i8n6jin.png)
 
 
 当你有一大堆文本文件要维护的时候，把它们转换成PDF文档会好一些。比如，PDF更适合打印，因为PDF文档有预定义布局。除此之外，还可以减少文档被意外修改的风险。

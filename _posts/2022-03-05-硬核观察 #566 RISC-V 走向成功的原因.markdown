@@ -7,10 +7,10 @@ tags:	[linuxcn,RISC-V,浏览器,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/05/202520urp5cedp5iiiberd.jpg)
+![](/Asserts/Images/album/202203/05/202520urp5cedp5iiiberd.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/05/202512dhr8992h888x8fh2.jpg)
+![](/Asserts/Images/album/202203/05/202512dhr8992h888x8fh2.jpg)
 
 
 ### RISC-V 走向成功的原因
@@ -27,7 +27,7 @@ RISC-V 不是第一款开源指令集的处理器，在它之前有 OpenPOWER、
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/05/202530q27zh5x8ooo15geh.jpg)
+![](/Asserts/Images/album/202203/05/202530q27zh5x8ooo15geh.jpg)
 
 
 ### 主要浏览器厂商共同建立了浏览器兼容性标准
@@ -44,7 +44,7 @@ RISC-V 不是第一款开源指令集的处理器，在它之前有 OpenPOWER、
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/05/202546xqbv7btav1g6naua.jpg)
+![](/Asserts/Images/album/202203/05/202546xqbv7btav1g6naua.jpg)
 
 
 ### 《第二人生》开始对游戏中的购买行为收税

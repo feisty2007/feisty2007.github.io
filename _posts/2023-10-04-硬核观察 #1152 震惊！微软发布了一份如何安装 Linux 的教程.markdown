@@ -7,10 +7,10 @@ tags:	[linuxcn,微软,Firefox,红帽,邮件列表]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/12/192239gxfgfegu84244g86.jpg)
+![](/Asserts/Images/album/202310/12/192239gxfgfegu84244g86.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/12/192248ruckqawad1ku1adz.jpg)
+![](/Asserts/Images/album/202310/12/192248ruckqawad1ku1adz.jpg)
 
 
 ### 震惊！微软发布了一份如何安装 Linux 的教程
@@ -35,7 +35,7 @@ tags:	[linuxcn,微软,Firefox,红帽,邮件列表]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/12/192257r4vu02ukifk7nn22.jpg)
+![](/Asserts/Images/album/202310/12/192257r4vu02ukifk7nn22.jpg)
 
 
 ### 一位 23 岁的贡献者修复了一个 22 年之久的 Firefox 问题
@@ -60,7 +60,7 @@ Firefox 最近修复了一个有 22 年历史的工具栏鼠标提示错误：�
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/12/192312dnd9j1vqzotrkjvi.jpg)
+![](/Asserts/Images/album/202310/12/192312dnd9j1vqzotrkjvi.jpg)
 
 
 ### 红帽关闭其安全公告邮件列表

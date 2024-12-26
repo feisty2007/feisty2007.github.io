@@ -7,10 +7,10 @@ tags:	[linuxcn,Linus Torvalds,量子计算,令牌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/05/173551qgynuxigi8y7acev.jpg)
+![](/Asserts/Images/album/202312/05/173551qgynuxigi8y7acev.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/05/173641eu49589953tc3cc2.png)
+![](/Asserts/Images/album/202312/05/173641eu49589953tc3cc2.png)
 
 
 ### #1 Linus Torvalds 为假期季做准备
@@ -35,7 +35,7 @@ Torvalds 上周日发布了 Linux 内核 6.7 版本的第四个候选发布版�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/05/173656u5xhtpc7mthiztvq.png)
+![](/Asserts/Images/album/202312/05/173656u5xhtpc7mthiztvq.png)
 
 
 ### #2 IBM 发布了 “实用规模” Heron 量子处理器
@@ -60,7 +60,7 @@ IBM 发布了其量子处理单元（QPU）系列的最新产品 Heron 量子处
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/05/173728rb7454hjl34ihzaf.png)
+![](/Asserts/Images/album/202312/05/173728rb7454hjl34ihzaf.png)
 
 
 ### #3 Hugging Face 泄露的 API 令牌可以完全访问 LLaMA 2 仓库

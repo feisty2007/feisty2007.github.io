@@ -7,7 +7,7 @@ tags:	[linuxcn,Snap,Steam]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/28/093058ewv0j4za4i4a4lgv.jpg)
+![](/Asserts/Images/album/202401/28/093058ewv0j4za4i4a4lgv.jpg)
 
 
 
@@ -45,7 +45,7 @@ tags:	[linuxcn,Snap,Steam]
 主要是因为 Ubuntu（及其官方发行版）在推广 Snap 包的使用。同时，当用户从软件中心安装 Steam 时，系统会默认安装 Snap 应用，许多用户并未觉察。
 
 
-![](/Asserts/Images//attachment/album/202401/28/093213o7fj669azh5cijj6.png)
+![](/Asserts/Images/album/202401/28/093213o7fj669azh5cijj6.png)
 
 
 然而，用户并未得到任何关于这个包并非由 Valve 官方维护的信息。
@@ -57,7 +57,7 @@ tags:	[linuxcn,Snap,Steam]
 因此，若在 Ubuntu 上安装 Steam，用户可能会被误导（或是产生困惑）。
 
 
-![](/Asserts/Images//attachment/album/202401/28/093213jefqwvijeq7jfbue.png)
+![](/Asserts/Images/album/202401/28/093213jefqwvijeq7jfbue.png)
 
 
 自然地，用户会希望软件开箱即用。如果做不到，就会有人声称 “Steam 在 Ubuntu 或 Linux 上无法工作”，这会对 Valve 的声誉产生影响。

@@ -15,13 +15,13 @@ tags:	[linuxcn,Grails,Groovy]
 > 
 
 
-![](/Asserts/Images//attachment/album/201811/24/102451gfdc52bnvg7fr7nv.png)
+![](/Asserts/Images/album/201811/24/102451gfdc52bnvg7fr7nv.png)
 
 
-我是 [Grails](https://grails.org/) 的忠实粉丝。当然，我主要是热衷于利用命令行工具来探索和分析数据的数据从业人员。数据从业人员经常需要*查看*数据，这也意味着他们通常拥有优秀的数据浏览器。利用 Grails、[jQuery](https://jquery.com/)，以及 [DataTables jQuery 插件](https://Asserts/Images/tables.net/)，我们可以制作出非常友好的表格数据浏览器。
+我是 [Grails](https://grails.org/) 的忠实粉丝。当然，我主要是热衷于利用命令行工具来探索和分析数据的数据从业人员。数据从业人员经常需要*查看*数据，这也意味着他们通常拥有优秀的数据浏览器。利用 Grails、[jQuery](https://jquery.com/)，以及 [DataTables jQuery 插件](https://datatables.net/)，我们可以制作出非常友好的表格数据浏览器。
 
 
-[DataTables 网站](https://Asserts/Images/tables.net/)提供了许多“食谱式”的教程文档，展示了如何组合一些优秀的示例应用程序，这些程序包含了完成一些非常漂亮的东西所必要的 JavaScript、HTML，以及偶尔出现的 [PHP](http://php.net/)。但对于那些宁愿使用 Grails 作为后端的人来说，有必要进行一些说明示教。此外，样本程序中使用的数据是一个虚构公司的员工的单个平面表格数据，因此处理这些复杂的表关系可以作为读者的一个练习项目。
+[DataTables 网站](https://datatables.net/)提供了许多“食谱式”的教程文档，展示了如何组合一些优秀的示例应用程序，这些程序包含了完成一些非常漂亮的东西所必要的 JavaScript、HTML，以及偶尔出现的 [PHP](http://php.net/)。但对于那些宁愿使用 Grails 作为后端的人来说，有必要进行一些说明示教。此外，样本程序中使用的数据是一个虚构公司的员工的单个平面表格数据，因此处理这些复杂的表关系可以作为读者的一个练习项目。
 
 
 本文中，我们将创建具有略微复杂的数据结构和 DataTables 浏览器的 Grails 应用程序。我们将介绍 Grails 标准，它是 [Groovy](http://groovy-lang.org/) 式的 Java Hibernate 标准。我已将代码托管在 [GitHub](https://github.com/monetschemist/grails-datatables) 上方便大家访问，因此本文主要是对代码细节的解读。
@@ -155,7 +155,7 @@ grails run-app
 在浏览器输入 `http://localhost:8080/`，你将会看到如下界面：
 
 
-![Embrow home screen](/Asserts/Images//attachment/album/201811/24/102453x1n1tygy5g35r15z.png)
+![Embrow home screen](/Asserts/Images/album/201811/24/102453x1n1tygy5g35r15z.png)
 
 
 *Embrow 应用程序主界面。*
@@ -164,7 +164,7 @@ grails run-app
 单击 “OfficeController” 链接，会跳转到如下界面：
 
 
-![Office list](/Asserts/Images//attachment/album/201811/24/102455e23cwdo3yydhl3y3.png)
+![Office list](/Asserts/Images/album/201811/24/102455e23cwdo3yydhl3y3.png)
 
 
 *Office 列表*
@@ -176,7 +176,7 @@ grails run-app
 同样，单击 “EmployeeController” 链接 跳转到如下界面：
 
 
-![Employee controller](/Asserts/Images//attachment/album/201811/24/102457xfhihxh3h2mjf2j6.png)
+![Employee controller](/Asserts/Images/album/201811/24/102457xfhihxh3h2mjf2j6.png)
 
 
 *employee 控制器*
@@ -237,8 +237,8 @@ cp gsp browser.gsp
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.css">
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/scroller/1.4.4/css/scroller.dataTables.min.css">
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/scroller/1.4.4/js/Asserts/Images/Tables.scroller.min.js"></script>
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.5.1/js/Asserts/Images/Tables.buttons.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/scroller/1.4.4/js/dataTables.scroller.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.5.1/js/dataTables.buttons.min.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.flash.min.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
@@ -378,25 +378,25 @@ that.search(this.value).draw();
 以下是此视图创建的UI的屏幕截图：
 
 
-![](/Asserts/Images//attachment/album/201811/24/102458wiezvqvvwdguwfqv.png)
+![](/Asserts/Images/album/201811/24/102458wiezvqvvwdguwfqv.png)
 
 
 这是另一个屏幕截图，显示了过滤和多列排序（寻找 “position” 包括字符 “dev” 的员工，先按 “office” 排序，然后按姓氏排序）：
 
 
-![](/Asserts/Images//attachment/album/201811/24/102500fee5wc2z3x6w3xxp.png)
+![](/Asserts/Images/album/201811/24/102500fee5wc2z3x6w3xxp.png)
 
 
 这是另一个屏幕截图，显示单击 CSV 按钮时会发生什么：
 
 
-![](/Asserts/Images//attachment/album/201811/24/102504u2bkkzg2g3gz9b38.png)
+![](/Asserts/Images/album/201811/24/102504u2bkkzg2g3gz9b38.png)
 
 
 最后，这是一个截图，显示在 LibreOffice 中打开的 CSV 数据：
 
 
-![](/Asserts/Images//attachment/album/201811/24/102508udp96d9ewdb0emt2.png)
+![](/Asserts/Images/album/201811/24/102508udp96d9ewdb0emt2.png)
 
 
 好的，视图部分看起来非常简单；因此，控制器必须做所有繁重的工作，对吧？ 让我们来看看……

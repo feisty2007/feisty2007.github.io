@@ -30,7 +30,7 @@ Linux 终端其实没有想象中的那样 [可怕](https://itsfoss.com/basic-te
 我的同事 Sreenath 喜欢探索此类不寻常的命令行工具并将他的发现分享给我。现在，我也将他的发现与你分享。
 
 
-![ascii art tools linux](/Asserts/Images//attachment/album/202309/19/152425sdv3l7hydh9sl9i6.png)
+![ascii art tools linux](/Asserts/Images/album/202309/19/152425sdv3l7hydh9sl9i6.png)
 
 
 你的 Linux 发行版的仓库中应该已经有这些程序中的大多数了。你可以用系统的包管理器安装它们。为了使文章简洁，下文的安装指南均以 Ubuntu 为例。
@@ -48,7 +48,7 @@ Linux 终端其实没有想象中的那样 [可怕](https://itsfoss.com/basic-te
 所以，它能做什么呢？它与 `cat` 指令很相似，但是它向输出内容加入随机的渐变色彩。
 
 
-![lolcat](/Asserts/Images//attachment/album/202309/19/152426qe656pim6t9uve2z.png)
+![lolcat](/Asserts/Images/album/202309/19/152426qe656pim6t9uve2z.png)
 
 
 目前它看起来可能没什么用，但当其他 ASCII 工具通过 `lolcat` 输出时，你会看到它的效果。
@@ -75,13 +75,13 @@ Aewan 是一个多层 ASCII 图形、动画编辑器。它可以生成独立的�
 这里不讨论编辑器部分。
 
 
-![aewan 的初始状态布局](/Asserts/Images//attachment/album/202309/19/152426kzrf2xtksf6fes9f.png)
+![aewan 的初始状态布局](/Asserts/Images/album/202309/19/152426kzrf2xtksf6fes9f.png)
 
 
 用 `aecat` 命令以 ASCII 格式漂亮地显示任何文本。注意下面的截屏中字母的使用方式。
 
 
-![aewan output](/Asserts/Images//attachment/album/202309/19/152427cs2ytdwatqx29jqb.png)
+![aewan output](/Asserts/Images/album/202309/19/152427cs2ytdwatqx29jqb.png)
 
 
 用下面的命令安装 `aewan`：
@@ -111,13 +111,13 @@ aecat hello
 `cowsay` 是经验丰富的 Linux 用户中流行的工具。它显示了一个 ASCII 格式的牛，会重复你提供的文本。
 
 
-![cowsay](/Asserts/Images//attachment/album/202309/19/152427tgs83hee8egt9hps.png)
+![cowsay](/Asserts/Images/album/202309/19/152427tgs83hee8egt9hps.png)
 
 
 但不仅限于牛。你也可以将其更改为其他的角色。比如，一条龙（火龙君临）：
 
 
-![cowsay](/Asserts/Images//attachment/album/202309/19/152427an4lo8743smuu7cx.png)
+![cowsay](/Asserts/Images/album/202309/19/152427an4lo8743smuu7cx.png)
 
 
 你注意到截图中的色彩了吗？这正是上文提到过的 `lolcat` 命令的魔力所在。
@@ -150,7 +150,7 @@ cowsay hello
 `jp2a` 是一个在 Linux 终端中将图像转换为 ASCII 字符画的命令行工具。它适用于 JPEG 和 PNG 文件，允许彩色输出和用你选定的字符显示 ASCII 字符画。
 
 
-![jp2a](/Asserts/Images//attachment/album/202309/19/152427wbffqbzgzmxfn1fj.png)
+![jp2a](/Asserts/Images/album/202309/19/152427wbffqbzgzmxfn1fj.png)
 
 
 用下列命令安装它：
@@ -183,7 +183,7 @@ jp2a --output=ascii.txt --colors input.png
 不，不是我们 [喜爱的 Linux 标志 Tux](https://itsfoss.com/tux-trivia/)，而是你的 Linux 发行版的徽标。它还显示一些其他信息，比如 Linux 内核版本、CPU、RAM、主机名等等。
 
 
-![linux logo](/Asserts/Images//attachment/album/202309/19/152428zaqjfkg8fk8g9mdk.png)
+![linux logo](/Asserts/Images/album/202309/19/152428zaqjfkg8fk8g9mdk.png)
 
 
 用 `apt` 安装：
@@ -207,7 +207,7 @@ sudo apt install linuxlogo
 它以更漂亮的方式显示发行版以及一些系统信息，如内核、运行时间、桌面环境、主题和图标等等。
 
 
-![neofetch](/Asserts/Images//attachment/album/202309/19/152428e1sdsesux7e78x7z.png)
+![neofetch](/Asserts/Images/album/202309/19/152428e1sdsesux7e78x7z.png)
 
 
 你还可以通过 `lolcat` 解析它，获得彩虹色的输出。
@@ -240,7 +240,7 @@ sudo apt install neofetch
 你可以在 Linux 终端中用 Fortune 命令达到类似效果：
 
 
-![fortune cookie linux](/Asserts/Images//attachment/album/202309/19/152428pdhvefk3efaf0akw.png)
+![fortune cookie linux](/Asserts/Images/album/202309/19/152428pdhvefk3efaf0akw.png)
 
 
 你可以用下面的命令安装它。
@@ -304,7 +304,7 @@ neofetch | pv -qL 200 | lolcat
 我在这里用一张图片代替视频。
 
 
-![cmatrix](/Asserts/Images//attachment/album/202309/19/152429qm7vy9e1e1nh1z0h.png)
+![cmatrix](/Asserts/Images/album/202309/19/152429qm7vy9e1e1nh1z0h.png)
 
 
 你可以用 `apt` 安装它：

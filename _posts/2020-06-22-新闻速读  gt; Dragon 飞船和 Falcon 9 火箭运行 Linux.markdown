@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,卫星,IPv6]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/01/184203peb355nmp3vrdvma.jpg)
+![](/Asserts/Images/album/202006/01/184203peb355nmp3vrdvma.jpg)
 
 
 #### Dragon 飞船和 Falcon 9 火箭运行 Linux

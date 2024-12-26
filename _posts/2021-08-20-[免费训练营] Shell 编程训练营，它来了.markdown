@@ -7,7 +7,7 @@ tags:	[linuxcn,Shell,训练营]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/18/143117arjv9m9e8kk9mbem.png)
+![](/Asserts/Images/album/202108/18/143117arjv9m9e8kk9mbem.png)
 
 
 Shell 作为 Linux 中的第一语言，几乎每一个使用 Linux 的人都用到或用过 Shell，但绝大多数人都并不能掌握 Shell 编程的基本能力和技巧。

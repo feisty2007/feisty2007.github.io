@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,华为,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/29/151129z03tt372tt3a72k3.jpg)
+![](/Asserts/Images/album/202007/29/151129z03tt372tt3a72k3.jpg)
 
 
 #### Facebook 将 Windows 版 PyTorch 的开发维护权移交给微软

@@ -7,10 +7,10 @@ tags:	[linuxcn,Pegasus,元宇宙,龙芯,鸿蒙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/17/151318lkpmpp4md6lpd7qq.jpg)
+![](/Asserts/Images/album/202112/17/151318lkpmpp4md6lpd7qq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/17/151359rr0er80hhr374rbe.jpg)
+![](/Asserts/Images/album/202112/17/151359rr0er80hhr374rbe.jpg)
 
 
 ### 谷歌称 NSO Pegasus 漏洞是“有史以来技术上最复杂的漏洞”
@@ -27,7 +27,7 @@ tags:	[linuxcn,Pegasus,元宇宙,龙芯,鸿蒙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/17/151408bc13pmp8v3xfcy6r.jpg)
+![](/Asserts/Images/album/202112/17/151408bc13pmp8v3xfcy6r.jpg)
 
 
 ### 英特尔称，元宇宙需要 1000 倍的计算能力
@@ -44,7 +44,7 @@ tags:	[linuxcn,Pegasus,元宇宙,龙芯,鸿蒙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/17/151427f65l8x7ipbkcpc55.jpg)
+![](/Asserts/Images/album/202112/17/151427f65l8x7ipbkcpc55.jpg)
 
 
 ### 龙芯处理器首次成功运行开源鸿蒙系统

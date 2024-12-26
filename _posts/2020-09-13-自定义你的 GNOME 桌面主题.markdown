@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME]
 > 
 
 
-![](/Asserts/Images//attachment/album/202009/06/110116kmufkkc31akwfp1w.jpg)
+![](/Asserts/Images/album/202009/06/110116kmufkkc31akwfp1w.jpg)
 
 
 GNOME 是一个相当简单和精简的 Linux 图形用户界面（GUI），很多用户喜欢它的简约外观。虽然它基本上是开箱即用的，但你可以根据自己的喜好来定制 [GNOME](https://www.gnome.org/) 。有了 GNOME “优化” 和用户主题扩展，你可以改变顶部栏、窗口标题栏、图标、光标和许多其他 UI 选项的外观。
@@ -33,7 +33,7 @@ GNOME 是一个相当简单和精简的 Linux 图形用户界面（GUI），很�
 你可以在 GNOME “软件”中找到“优化”，只需点击一个按钮就可以快速安装。
 
 
-![Install Tweaks in Software Center](/Asserts/Images//attachment/album/202009/06/110152sll71z1o2yq7hssh.png "Install Tweaks in Software Center")
+![Install Tweaks in Software Center](/Asserts/Images/album/202009/06/110152sll71z1o2yq7hssh.png "Install Tweaks in Software Center")
 
 
 如果你喜欢命令行，请使用你的软件包管理器。例如，在 Fedora 或 CentOS 上：
@@ -60,7 +60,7 @@ $ sudo apt install gnome-tweaks
 要启用用户主题扩展，启动“优化”并选择“<ruby> 扩展 <rt>  Extensions </rt></ruby>”。找到 “用户主题User themes”，点击滑块启用。
 
 
-![Enable User Themes Extension](/Asserts/Images//attachment/album/202009/06/110158nsrad9xod4m6qzd6.png "Enable User Themes Extension")
+![Enable User Themes Extension](/Asserts/Images/album/202009/06/110158nsrad9xod4m6qzd6.png "Enable User Themes Extension")
 
 
 ### 获取主题
@@ -96,7 +96,7 @@ $ tar xvf theme_archive.tar.xz
 要应用你的新主题，在“优化”中进入“<ruby> 外观 <rt>  Appearance </rt></ruby>”。在这里，你可以为你的桌面的每个方面选择不同的选项。
 
 
-![Apply a theme](/Asserts/Images//attachment/album/202009/06/110200hfaxeu7lqifxke7u.png "Apply a theme")
+![Apply a theme](/Asserts/Images/album/202009/06/110200hfaxeu7lqifxke7u.png "Apply a theme")
 
 
 ### 多样性是生活的调剂品

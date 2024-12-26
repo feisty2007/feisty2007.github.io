@@ -7,13 +7,13 @@ tags:	[linuxcn,系统监视,Multiload-ng,Multiload,监控]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/17/121052n2tqm7k79wtc9k9o.png)
+![](/Asserts/Images/album/201609/17/121052n2tqm7k79wtc9k9o.png)
 
 
 [Multiload-ng](https://github.com/udda/multiload-ng) 是一个 GTK2 图形化系统监视器应用，可集成到 Xfce、LXDE 及 MATE 的桌面面板中， 它 fork 自原来的 GNOME Multiload 应用。它也可以运行在一个独立的窗口中。
 
 
-![](/Asserts/Images//attachment/album/201609/17/120153eux6d0e5gsu5jdn5.png)
+![](/Asserts/Images/album/201609/17/120153eux6d0e5gsu5jdn5.png)
 
 
 Multiload-ng 的特点有：
@@ -34,7 +34,7 @@ Multiload-ng 的特点有：
 它也可以运行在一个独立的窗口中，而不需要面板：
 
 
-![](/Asserts/Images//attachment/album/201609/17/120250zzc555z3cc03rrcz.png)
+![](/Asserts/Images/album/201609/17/120250zzc555z3cc03rrcz.png)
 
 
 另外，它的 GitHub page 上说还会带来更多的图形块支持。
@@ -43,16 +43,16 @@ Multiload-ng 的特点有：
 下图展示的是在带有一个垂直面板的 Xubuntu 16.04 中，该应用分别处于水平和垂直方向的效果：
 
 
-![](/Asserts/Images//attachment/album/201609/17/120318o8y2vwy8gzlyvs2u.png)
+![](/Asserts/Images/album/201609/17/120318o8y2vwy8gzlyvs2u.png)
 
 
-![](/Asserts/Images//attachment/album/201609/17/120331i4z53ix4i23o2lkx.png)
+![](/Asserts/Images/album/201609/17/120331i4z53ix4i23o2lkx.png)
 
 
 这个应用的偏好设置窗口虽然不是非常好看，但是有计划去改进它：
 
 
-![](/Asserts/Images//attachment/album/201609/17/121239rzfkzgskhrcdwscs.png)
+![](/Asserts/Images/album/201609/17/121239rzfkzgskhrcdwscs.png)
 
 
 Multiload-ng 当前使用的是 GTK2，所以它不能在构建自 GTK3 下的 Xfce 或 MATE 桌面环境（面板）下工作。

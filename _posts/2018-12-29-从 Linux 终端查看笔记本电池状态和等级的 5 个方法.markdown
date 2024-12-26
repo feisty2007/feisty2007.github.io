@@ -7,7 +7,7 @@ tags:	[linuxcn,电池]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/16/201147imjo55telvtievof.jpg)
+![](/Asserts/Images/album/201812/16/201147imjo55telvtievof.jpg)
 
 
 我们可以轻松地通过图形化界面查看当前电量百分比、是否在充电以及当前电量还可以使用多长时间等电池状态，但是却无法查看电池健康度等相关信息。

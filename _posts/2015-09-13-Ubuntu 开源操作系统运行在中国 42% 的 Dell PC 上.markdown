@@ -33,7 +33,7 @@ Ubuntu 麒麟的外观和感觉很像 Ubuntu 的现代版本。它拥有的 [Uni
 紧跟着 Dell 公司[宣布](http://thevarguy.com/business-technology-solution-sales/091415/dell-125-million-directed-china-jobs-new-business-and-innovation)在华投资1.25亿美元之后，一位决策者给华尔街杂志的评论中提到了 Dell 在中国市场上 PC 的销售。
 
 
-![Ubuntu Kylin](/Asserts/Images//attachment/album/201509/22/221502m5nqye5mne59z4ky.png)
+![Ubuntu Kylin](/Asserts/Images/album/201509/22/221502m5nqye5mne59z4ky.png)
 
 
 

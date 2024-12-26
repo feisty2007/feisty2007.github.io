@@ -7,7 +7,7 @@ tags:	[linuxcn,补全,命令行]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/03/000019iesyr8zs68xrqkyj.jpg)
+![](/Asserts/Images/album/201808/03/000019iesyr8zs68xrqkyj.jpg)
 
 
 [bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) 通过添加不完整的路径展开（类似于 Zsh）来增强 Bash（它在 Linux 上，macOS 使用 gnu-sed，Windows 使用 MSYS）中的路径补全。如果你想在 Bash 中使用这个省时特性，而不必切换到 Zsh，它将非常有用。

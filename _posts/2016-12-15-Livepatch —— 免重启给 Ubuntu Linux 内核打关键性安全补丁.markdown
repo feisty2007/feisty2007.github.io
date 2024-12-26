@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,补丁,实时补丁,Livepatch]
 ---
 
 
-![](/Asserts/Images//attachment/album/201612/01/103248f6kpmxoko1mfi6yw.png)
+![](/Asserts/Images/album/201612/01/103248f6kpmxoko1mfi6yw.png)
 
 
 如果你是一个在企业环境中维护关键性系统的系统管理员，你肯定对以下两件事深有感触：
@@ -28,7 +28,7 @@ tags:	[linuxcn,Ubuntu,补丁,实时补丁,Livepatch]
 要运行 Canonical Livepatch 服务你先要在这里注册一个账号 <https://auth.livepatch.canonical.com/>，并且表明你是一个普通用户还是企业用户（付费）。 通过使用令牌，所有的 Ubuntu 用户都能将最多 3 台不同的电脑连接到 Livepatch 服务：
 
 
-![Canonical Livepatch Service](/Asserts/Images//attachment/album/201612/01/103304x2y6zxlkk5ylm6l2.png)
+![Canonical Livepatch Service](/Asserts/Images/album/201612/01/103304x2y6zxlkk5ylm6l2.png)
 
 
 *Canonical Livepatch 服务*
@@ -37,7 +37,7 @@ tags:	[linuxcn,Ubuntu,补丁,实时补丁,Livepatch]
 下一步系统会提示你输入你的 Ubuntu One 凭据，或者你也可以注册一个新账号。如果你选择后者，则需要你确认你的邮件地址才能完成注册：
 
 
-![Ubuntu One Confirmation Mail](/Asserts/Images//attachment/album/201612/01/103305fcbbrtj6tttlbtmz.png)
+![Ubuntu One Confirmation Mail](/Asserts/Images/album/201612/01/103305fcbbrtj6tttlbtmz.png)
 
 
 *Ubuntu One 确认邮件*
@@ -52,7 +52,7 @@ tags:	[linuxcn,Ubuntu,补丁,实时补丁,Livepatch]
 首先把分配给你账号的这个唯一的令牌复制下来：
 
 
-![Canonical Livepatch Token](/Asserts/Images//attachment/album/201612/01/103305edoib4ljjhgjodij.png)
+![Canonical Livepatch Token](/Asserts/Images/album/201612/01/103305edoib4ljjhgjodij.png)
 
 
 *Canonical Livepatch 令牌*
@@ -85,7 +85,7 @@ $ sudo ./canonical-livepatch enable [YOUR TOKEN HERE]
 
 ```
 
-![Install Livepatch in Ubuntu](/Asserts/Images//attachment/album/201612/01/103306evw4i153a89ia4an.png)
+![Install Livepatch in Ubuntu](/Asserts/Images/album/201612/01/103306evw4i153a89ia4an.png)
 
 
 *在 Ubuntu 中安装 Livepatch*
@@ -103,7 +103,7 @@ $ sudo ./canonical-livepatch status --verbose
 如下图所示：
 
 
-![Check Livepatch Status in Ubuntu](/Asserts/Images//attachment/album/201612/01/103306alazeevauub688z7.png)
+![Check Livepatch Status in Ubuntu](/Asserts/Images/album/201612/01/103306alazeevauub688z7.png)
 
 
 *检查补丁安装情况*

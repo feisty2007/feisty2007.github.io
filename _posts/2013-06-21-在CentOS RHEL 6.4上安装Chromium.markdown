@@ -46,7 +46,7 @@ yum install chromium
 可以通过菜单来启动浏览器：
 
 
-[![Chromium Launcher CentOS 6](/Asserts/Images//attachment/album/201306/27/110737zjzgbr223law2zmo.png)](https://img.linux.net.cn/Asserts/Images//attachment/album/201306/27/110737zjzgbr223law2zmo.png)
+[![Chromium Launcher CentOS 6](/Asserts/Images/album/201306/27/110737zjzgbr223law2zmo.png)](https://img.linux.net.cn/Asserts/Images/album/201306/27/110737zjzgbr223law2zmo.png)
 
 
  
@@ -55,7 +55,7 @@ yum install chromium
 启动后：
 
 
-[![Chromium Running on CentOS 6](/Asserts/Images//attachment/album/201306/27/110737wemmkk5jomml55d1.png)](http://media.if-not-true-then-false.com/2013/06/chromium-running-on-centos-6.png)
+[![Chromium Running on CentOS 6](/Asserts/Images/album/201306/27/110737wemmkk5jomml55d1.png)](http://media.if-not-true-then-false.com/2013/06/chromium-running-on-centos-6.png)
 
 
 如果需要查看Flash和PDF，可以继续下面两步来安装插件。
@@ -95,7 +95,7 @@ chmod +x chrome\_pepperflash\_copy.sh
 也可以修改系统菜单中的对应命令。
 
 
-[![Chromium running on CentOS 6.4 with Pepper Flash Plugin and Chrome PDF Viewer Plugin](/Asserts/Images//attachment/album/201306/27/110738uo8vv6v2dv6ovi8u.png)](http://media.if-not-true-then-false.com/2013/06/chromium-on-centos-6-with-pepper-flash-and-chrome-pdf-viewer.png)
+[![Chromium running on CentOS 6.4 with Pepper Flash Plugin and Chrome PDF Viewer Plugin](/Asserts/Images/album/201306/27/110738uo8vv6v2dv6ovi8u.png)](http://media.if-not-true-then-false.com/2013/06/chromium-on-centos-6-with-pepper-flash-and-chrome-pdf-viewer.png)
 
 
  
@@ -124,7 +124,7 @@ chmod +x chrome\_libpdf\_copy.sh
 ./chrome\_libpdf\_copy.sh
 
 
-[![Chromium running on CentOS 6.4 (Adobe Flash Test Page)](/Asserts/Images//attachment/album/201306/27/110738422ohah24zhb29z8.png)](http://media.if-not-true-then-false.com/2013/06/chromium-centos-6-pepper-flash-adobe-test.png)
+[![Chromium running on CentOS 6.4 (Adobe Flash Test Page)](/Asserts/Images/album/201306/27/110738422ohah24zhb29z8.png)](http://media.if-not-true-then-false.com/2013/06/chromium-centos-6-pepper-flash-adobe-test.png)
 
 
  

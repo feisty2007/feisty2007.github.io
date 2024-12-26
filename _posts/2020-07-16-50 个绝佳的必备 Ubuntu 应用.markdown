@@ -30,7 +30,7 @@ tags:	[linuxcn,Ubuntu,应用]
 ### 提供更好使用体验的优秀 Ubuntu 应用
 
 
-![](/Asserts/Images//attachment/album/202007/26/233613zwuw9lul6x4cqmq6.jpeg)
+![](/Asserts/Images/album/202007/26/233613zwuw9lul6x4cqmq6.jpeg)
 
 
 当然，你不必使用以下全部应用。只须浏览这份 Ubuntu 关键应用清单，阅读描述并安装你需要或想要的应用。将这篇文章保存在你的浏览器收藏夹以备将来参考或者通过搜索引擎搜索即可。
@@ -57,7 +57,7 @@ Ubuntu 以 Firefox 为默认浏览器。自从 Quantum 版本发布以来，Fire
 ##### Google Chrome
 
 
-![](/Asserts/Images//attachment/album/202007/26/233713hdxpzw2sb6s1p23s.jpeg)
+![](/Asserts/Images/album/202007/26/233713hdxpzw2sb6s1p23s.jpeg)
 
 
 由于某种原因，Google Chrome 是最为广泛使用的浏览器。使用 Google 账号，你可以在不同设备无缝同步。大量拓展和应用进一步增强 Chrome 的能力。你可以 [点击此处在 Ubuntu 上安装 Chrome](https://www.google.com/chrome/)。
@@ -66,7 +66,7 @@ Ubuntu 以 Firefox 为默认浏览器。自从 Quantum 版本发布以来，Fire
 ##### Brave
 
 
-![](/Asserts/Images//attachment/album/202007/26/233721q5fum72uqbv8d1tf.jpeg)
+![](/Asserts/Images/album/202007/26/233721q5fum72uqbv8d1tf.jpeg)
 
 
 Google Chrome 可能是最广泛使用的浏览器，但也是隐私窥探者。一个 [替代浏览器](https://itsfoss.com/open-source-browsers-linux/) 是 [Brave](https://brave.com/)，它可以默认拦截广告和追踪脚本。它为你提供了更快、更安全的浏览体验。
@@ -75,7 +75,7 @@ Google Chrome 可能是最广泛使用的浏览器，但也是隐私窥探者。
 #### 音乐应用
 
 
-![](/Asserts/Images//attachment/album/202007/26/233738fd2qshu7l15n94zu.jpeg)
+![](/Asserts/Images/album/202007/26/233738fd2qshu7l15n94zu.jpeg)
 
 
 Ubuntu 将 Rhythmbox 作为默认音乐播放器，这是个相当不坏的选择。不过，你当然可以安装更好的音乐播放器。
@@ -102,7 +102,7 @@ Ubuntu 将 Rhythmbox 作为默认音乐播放器，这是个相当不坏的选�
 #### 流媒体音乐应用
 
 
-![](/Asserts/Images//attachment/album/202007/26/233802oa2wen6eie2fqw6w.jpeg)
+![](/Asserts/Images/album/202007/26/233802oa2wen6eie2fqw6w.jpeg)
 
 
 在这个时代的互联网，听音乐的方式显然发生了改变。现在的人更依赖于流媒体音乐播放器而不是收藏上百首本地音乐文件。让我们看看你可以用于收听流媒体音乐的一些应用吧。
@@ -123,7 +123,7 @@ Ubuntu 将 Rhythmbox 作为默认音乐播放器，这是个相当不坏的选�
 #### 视频播放器
 
 
-![](/Asserts/Images//attachment/album/202007/26/233812os5gh98hsi32h5xx.jpg)
+![](/Asserts/Images/album/202007/26/233812os5gh98hsi32h5xx.jpg)
 
 
 Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可，但不支持多种视频编码。当然有很多播放器比 GNOME 视频播放器更优秀。
@@ -150,7 +150,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### Dropbox
 
 
-![](/Asserts/Images//attachment/album/202007/26/233834dmmbfczm6cilgrvs.jpeg)
+![](/Asserts/Images/album/202007/26/233834dmmbfczm6cilgrvs.jpeg)
 
 
 [Dropbox](https://www.dropbox.com/) 是最流行的云存储提供商之一。你会获得 2GB 免费存储空间，并通过推介给他人得到更多存储空间。Dropbox 提供了一个原生的 Linux 客户端，你可以从官网下载获得。它会在你的系统创建一个本地文件夹，以和云端服务器同步。
@@ -159,7 +159,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### pCloud
 
 
-![](/Asserts/Images//attachment/album/202007/26/233844dzew96x3e6q1396l.jpeg)
+![](/Asserts/Images/album/202007/26/233844dzew96x3e6q1396l.jpeg)
 
 
 [pCloud](https://itsfoss.com/recommends/pcloud/) 是另一个优秀的 Linux 云存储提供商。它也拥有原生的 Linux 客户端，你可以从官网下载。你可以获得高达 20GB 的免费存储空间，如果你需要更多，价格也比 Dropbox 实惠。pCloud 总部位于瑞士，这个国家以严格的数据隐私法而闻名。
@@ -174,7 +174,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### GIMP
 
 
-![](/Asserts/Images//attachment/album/202007/26/233942q20nnzu0w818u69u.jpeg)
+![](/Asserts/Images/album/202007/26/233942q20nnzu0w818u69u.jpeg)
 
 
 [GIMP](https://www.gimp.org/) 是一个自由开源的图片编辑器，它支持 Linux、Windows 和 macOS。它是 Adobe Photoshop 在 Linux 上最优秀的替代软件。你可以使用它执行任何图片编辑。网上有许多资源帮助你使用 GIMP。
@@ -183,7 +183,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### Inkscape
 
 
-![](/Asserts/Images//attachment/album/202007/26/233949muus8cdvl5j03gls.jpeg)
+![](/Asserts/Images/album/202007/26/233949muus8cdvl5j03gls.jpeg)
 
 
 [Inkscape](https://inkscape.org/en/) 也是一个自由开源的图片编辑器，专用于矢量图形编辑。你可以在 Inkscape 上设计矢量图形和徽标。你可以把它比做 Adobe Illustrator。与 GIMP 一样，网上也有诸多 Inkscape 教程。
@@ -192,7 +192,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 #### 绘图应用
 
 
-![](/Asserts/Images//attachment/album/202007/26/234013fsq00uwwnsgwnqrq.jpeg)
+![](/Asserts/Images/album/202007/26/234013fsq00uwwnsgwnqrq.jpeg)
 
 
 绘图应用和图片编辑器不完全等同，尽管它们有时功能重叠。以下是你能在 Ubuntu 使用的一些绘图应用。
@@ -219,7 +219,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### digiKam
 
 
-![](/Asserts/Images//attachment/album/202007/26/234024hv5j5r2ejarwwyye.jpeg)
+![](/Asserts/Images/album/202007/26/234024hv5j5r2ejarwwyye.jpeg)
 
 
 使用开源软件 [digKam](https://www.digikam.org/)，你可以专业地处理你的高品质摄影作品。digKam 提供用于查看、管理、编辑、增强、组织、标记和分享照片所需的所有工具。
@@ -228,7 +228,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### Darktable
 
 
-![](/Asserts/Images//attachment/album/202007/26/234032fddmptmp6m1pd7mt.jpeg)
+![](/Asserts/Images/album/202007/26/234032fddmptmp6m1pd7mt.jpeg)
 
 
 [darktable](https://www.darktable.org/) 是一款开源的摄影工作流应用程序，特别是专注于 raw 图像的开发。这会是你取代 Adobe Lightroom 的最佳替代品。它同样支持 Windows 和 macOS。
@@ -237,7 +237,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 #### 视频编辑器
 
 
-![](/Asserts/Images//attachment/album/202007/26/234056fbbybzwxwmsbxmqw.jpeg)
+![](/Asserts/Images/album/202007/26/234056fbbybzwxwmsbxmqw.jpeg)
 
 
 [Linux 上的视频编辑器](/article-10185-1.html) 并不匮乏，毋庸赘述。看看 Ubuntu 中一些功能丰富但相对简单的视频编辑器。
@@ -264,7 +264,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### Xnconvert
 
 
-![](/Asserts/Images//attachment/album/202007/26/234105h37hik5h2karvr3v.jpeg)
+![](/Asserts/Images/album/202007/26/234105h37hik5h2karvr3v.jpeg)
 
 
 [Xnconvert](https://www.xnview.com/en/xnconvert/) 是一款优秀的批量图像转换工具。你可以批量调整图片尺寸、转换文件类型并重命名。
@@ -273,7 +273,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### Handbrake
 
 
-![](/Asserts/Images//attachment/album/202007/26/234114j5ixwrwizsj1t1er.jpeg)
+![](/Asserts/Images/album/202007/26/234114j5ixwrwizsj1t1er.jpeg)
 
 
 [HandBrake](https://handbrake.fr/) 是一款易用的开源工具，用于将多种格式的视频转换为一些现代流行的格式。
@@ -282,7 +282,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 #### 截图和录屏工具
 
 
-![](/Asserts/Images//attachment/album/202007/26/234139ds2sxpzls82spss3.jpeg)
+![](/Asserts/Images/album/202007/26/234139ds2sxpzls82spss3.jpeg)
 
 
 以下是截图和录屏的优秀 Ubuntu 应用。
@@ -309,7 +309,7 @@ Ubuntu 有默认的 GNOME 视频播放器（从前名为 Totem），表现尚可
 ##### LibreOffice
 
 
-![](/Asserts/Images//attachment/album/202007/26/234149mydg2g6tcn6dgtvz.jpeg)
+![](/Asserts/Images/album/202007/26/234149mydg2g6tcn6dgtvz.jpeg)
 
 
 Ubuntu 预装了 [LibreOffice](https://www.libreoffice.org/download/download/)，它无疑是 [最佳的开源办公软件](/article-9379-1.html)。它是个组件完整的办公软件，包括文档编辑器、电子表格工具、演示软件、数学工具和作图工具。你甚至可以用它编辑部分 PDF 文件。
@@ -318,7 +318,7 @@ Ubuntu 预装了 [LibreOffice](https://www.libreoffice.org/download/download/)�
 ##### WPS Office
 
 
-![](/Asserts/Images//attachment/album/202007/26/234157ctgno8uxmxojdmpd.jpeg)
+![](/Asserts/Images/album/202007/26/234157ctgno8uxmxojdmpd.jpeg)
 
 
 [WPS Office](http://wps-community.org/) 因酷似微软 Office 而广受欢迎。它的界面与微软 Office 几乎一样并且号称与微软 Office 更加兼容。如果你正在寻找类似微软 Office 的办公软件，WPS Office 是个好选择。
@@ -327,7 +327,7 @@ Ubuntu 预装了 [LibreOffice](https://www.libreoffice.org/download/download/)�
 #### 下载工具
 
 
-![](/Asserts/Images//attachment/album/202007/26/234223ykz0wt0nn88fkr0n.jpeg)
+![](/Asserts/Images/album/202007/26/234223ykz0wt0nn88fkr0n.jpeg)
 
 
 如果你经常从网上下载视频或其他大型文件，这些工具会帮助你。
@@ -348,7 +348,7 @@ Ubuntu 预装了 [LibreOffice](https://www.libreoffice.org/download/download/)�
 #### 代码编辑器
 
 
-![](/Asserts/Images//attachment/album/202007/26/234232uocd0gg0tmohhnnm.jpeg)
+![](/Asserts/Images/album/202007/26/234232uocd0gg0tmohhnnm.jpeg)
 
 
 如果你喜欢编程，默认的 Gedit 文本编辑器可能无法满足你的编程需求。下面就为你介绍一些比较好用的代码编辑器。
@@ -369,7 +369,7 @@ Ubuntu 预装了 [LibreOffice](https://www.libreoffice.org/download/download/)�
 #### PDF 和电子书相关应用
 
 
-![](/Asserts/Images//attachment/album/202007/26/234241bh8juhvhkikhikjb.jpeg)
+![](/Asserts/Images/album/202007/26/234241bh8juhvhkikhikjb.jpeg)
 
 
 在这个数字时代，你不能只依靠真正的纸质书籍，特别是当有大量的免费电子书唾手可得。这里有一些 Ubuntu 应用以供管理 PDF 和电子书。
@@ -390,7 +390,7 @@ Okular 主要是一个 PDF 查看器，有编辑 PDF 文件的选项。你可以
 #### 通讯应用
 
 
-![](/Asserts/Images//attachment/album/202007/26/234305j11z1z0s7zm0z4jg.jpeg)
+![](/Asserts/Images/album/202007/26/234305j11z1z0s7zm0z4jg.jpeg)
 
 
 我相信你在 Linux 上使用至少一款 [通讯应用](https://itsfoss.com/best-messaging-apps-linux/)。以下是我的推荐。
@@ -417,7 +417,7 @@ Okular 主要是一个 PDF 查看器，有编辑 PDF 文件的选项。你可以
 ##### Simplenote
 
 
-![](/Asserts/Images//attachment/album/202007/26/234314a8jffzk8g8mvwxvk.jpeg)
+![](/Asserts/Images/album/202007/26/234314a8jffzk8g8mvwxvk.jpeg)
 
 
 [Simplenote](http://simplenote.com/) 是 WordPress 创建者 [Automattic](https://automattic.com/) 推出的一款自由开源的笔记应用。它适用于 Windows、Linux、macOS、iOS 和 Android。你的笔记会同步到云服务器上，你可以在任何设备上访问它们。你可以从官网下载 DEB 文件。
@@ -426,7 +426,7 @@ Okular 主要是一个 PDF 查看器，有编辑 PDF 文件的选项。你可以
 ##### Remember The Milk
 
 
-![](/Asserts/Images//attachment/album/202007/26/234323e6cjadat3yo6cij6.jpeg)
+![](/Asserts/Images/album/202007/26/234323e6cjadat3yo6cij6.jpeg)
 
 
 [Remember The Milk](https://itsfoss.com/remember-the-milk-linux/) 是一款流行的待办事项应用。它适用于 Windows、Linux、macOS、iOS 和 Android。你可以在拥有的所有设备上访问你的待办事项。你也可以从浏览器访问它。它还有一个官方的 Linux 原生版本，你可以从官网下载。
@@ -435,7 +435,7 @@ Okular 主要是一个 PDF 查看器，有编辑 PDF 文件的选项。你可以
 #### 密码保护和加密
 
 
-![](/Asserts/Images//attachment/album/202007/26/234348j89zm0r48hi9u8ww.jpeg)
+![](/Asserts/Images/album/202007/26/234348j89zm0r48hi9u8ww.jpeg)
 
 
 如果有其他人经常使用你的电脑，也许你会考虑通过密码保护文件和文件夹来增加额外的安全。
@@ -456,7 +456,7 @@ Gnome Encfs Manager 允许你 [在 Linux 中用密码锁定文件夹](https://it
 #### 游戏
 
 
-![](/Asserts/Images//attachment/album/202007/26/234357h0zu0ahji0hi4zgv.jpeg)
+![](/Asserts/Images/album/202007/26/234357h0zu0ahji0hi4zgv.jpeg)
 
 
 [Linux 上的游戏](/article-7316-1.html) 体验比几年前改进很多。你可以在 Linux 上畅玩大量游戏，而不用回到 Windows 了。
@@ -477,7 +477,7 @@ Gnome Encfs Manager 允许你 [在 Linux 中用密码锁定文件夹](https://it
 #### 软件包管理工具 [中高级用户]
 
 
-![](/Asserts/Images//attachment/album/202007/26/234406dh0lizndey1krr0t.jpeg)
+![](/Asserts/Images/album/202007/26/234406dh0lizndey1krr0t.jpeg)
 
 
 Ubuntu 软件中心满足普通 Ubuntu 用户的软件需求，但你可以使用以下应用程序对其进行更多的深入操作。
@@ -498,7 +498,7 @@ Gedbi 是一款小巧的软件包管理器，你可以用它来安装 DEB 文件
 #### 备份和恢复工具
 
 
-![](/Asserts/Images//attachment/album/202007/26/234428p6f06a27bpqc6qpx.jpeg)
+![](/Asserts/Images/album/202007/26/234428p6f06a27bpqc6qpx.jpeg)
 
 
 任何操作系统都应该有备份和恢复工具。让我们来看看 Ubuntu 上有哪些软件是你必须拥有的。
@@ -519,7 +519,7 @@ Timeshift 是一个帮助你 [对系统进行快照](/article-11619-1.html) 的�
 #### 系统调整和管理工具
 
 
-![](/Asserts/Images//attachment/album/202007/26/234437ohxc9bttzgqttt7t.jpeg)
+![](/Asserts/Images/album/202007/26/234437ohxc9bttzgqttt7t.jpeg)
 
 
 ##### GNOME/Unity Tweak Tool
@@ -543,7 +543,7 @@ Timeshift 是一个帮助你 [对系统进行快照](/article-11619-1.html) 的�
 #### 其他工具
 
 
-![](/Asserts/Images//attachment/album/202007/26/234456ke1e18e1c9s1tfiq.jpeg)
+![](/Asserts/Images/album/202007/26/234456ke1e18e1c9s1tfiq.jpeg)
 
 
 最后，我会列一些其他我很喜欢但无法归类的 Ubuntu 应用。

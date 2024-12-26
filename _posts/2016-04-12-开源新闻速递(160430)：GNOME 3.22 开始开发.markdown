@@ -7,7 +7,7 @@ tags:	[linuxcn,GNOME,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201604/30/082501l0uu5sgy40qkibi4.jpg)
+![](/Asserts/Images/album/201604/30/082501l0uu5sgy40qkibi4.jpg)
 
 
 首先是三则 GNOME 的消息：

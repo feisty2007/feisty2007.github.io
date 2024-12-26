@@ -7,10 +7,10 @@ tags:	[linuxcn,广告,Meta,VR,MSIX]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/05/185121okd8gc984h3rds9d.jpg)
+![](/Asserts/Images/album/202202/05/185121okd8gc984h3rds9d.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/05/185133tz1m889dh40u0cw8.jpg)
+![](/Asserts/Images/album/202202/05/185133tz1m889dh40u0cw8.jpg)
 
 
 ### 苹果改变隐私设置将导致 Meta 明年损失一百亿美元
@@ -30,7 +30,7 @@ tags:	[linuxcn,广告,Meta,VR,MSIX]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/05/185144lb6owyl1678vloc5.jpg)
+![](/Asserts/Images/album/202202/05/185144lb6owyl1678vloc5.jpg)
 
 
 ### Meta 将引入虚拟现实形象之间的强制性距离
@@ -47,7 +47,7 @@ Meta 公司 VR 应用“地平线世界”的测试用户抱怨在网上被摸�
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/05/185203ainrt3meo37ttrtl.jpg)
+![](/Asserts/Images/album/202202/05/185203ainrt3meo37ttrtl.jpg)
 
 
 ### 微软正式禁用 MSIX 应用安装协议

@@ -15,7 +15,7 @@ tags:	[linuxcn,安卓,RISC-V]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/06/091143bfvf3wz0sluua229.jpg)
+![](/Asserts/Images/album/202211/06/091143bfvf3wz0sluua229.jpg)
 
 
 AOSP 已经开始在上游启用 RISC-V，这将促进 RISC-V CPU 在可穿戴设备、物联网，以及最终在智能手机和笔记本电脑中的使用。

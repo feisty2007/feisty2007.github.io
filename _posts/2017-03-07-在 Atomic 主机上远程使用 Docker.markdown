@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,Atomic]
 ---
 
 
-![remote-atomic-docker](/Asserts/Images//attachment/album/201703/03/103449ryt3tg43yhgvh212.jpg)
+![remote-atomic-docker](/Asserts/Images/album/201703/03/103449ryt3tg43yhgvh212.jpg)
 
 
 来自 [Atomic 项目](http://www.projectatomic.io/) 的 Atomic 主机是一个轻量级的容器基于的操作系统，它可以运行 Linux 容器。它已被优化为用作云环境的容器运行时系统。例如，它可以托管 Docker 守护进程和容器。有时，你可能需要在该主机上运行 docker 命令，并从其他地方管理服务器。本文介绍如何远程访问 Fedora Atomic 主机（[你可以在这里下载到它](https://getfedora.org/atomic/)）上的 [Docker](https://www.docker.com/) 守护进程。整个过程由 [Ansible](https://www.ansible.com/) 自动完成 - 在涉及到自动化的一切上，这真是一个伟大的工具！
@@ -194,7 +194,7 @@ $ ansible-playbook remote-access.yml
 如果你想克隆 Ansible 剧本和配置文件，这里是 [git 仓库](https://github.com/trishnaguha/fedora-cloud-ansible/tree/master/docker-remote-access)。
 
 
-![docker-daemon](/Asserts/Images//attachment/album/201703/03/103449g9dsp93n2esseww9.jpg)
+![docker-daemon](/Asserts/Images/album/201703/03/103449g9dsp93n2esseww9.jpg)
 
 
 

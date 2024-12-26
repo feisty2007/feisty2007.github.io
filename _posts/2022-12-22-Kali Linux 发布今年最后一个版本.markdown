@@ -15,7 +15,7 @@ tags:	[linuxcn,Kali Linux]
 > 
 
 
-![Kali Linux 今年的最后一次更新早早带来了很多圣诞礼物](/Asserts/Images//attachment/album/202212/08/171051i4yu250cwwm2y5jq.jpg)
+![Kali Linux 今年的最后一次更新早早带来了很多圣诞礼物](/Asserts/Images/album/202212/08/171051i4yu250cwwm2y5jq.jpg)
 
 
 Kali Linux 是一个开源的、基于 Debian 的发行版，专注于渗透测试和安全审计。
@@ -33,7 +33,7 @@ Kali Linux 是一个开源的、基于 Debian 的发行版，专注于渗透测�
 ### ? 有什么新变化？
 
 
-![kali linux 22.04](/Asserts/Images//attachment/album/202212/08/171052wmixmliqyinl8rqq.png)
+![kali linux 22.04](/Asserts/Images/album/202212/08/171052wmixmliqyinl8rqq.png)
 
 
 Kali Linux 2022.4 以更新的形式早早带来了圣诞礼物；这里有一些快乐的东西！?
@@ -50,7 +50,7 @@ Kali Linux 2022.4 以更新的形式早早带来了圣诞礼物；这里有一�
 #### 支持 Pine 64 的 PinePhone
 
 
-![kali linux nethunter pro on pinephone pro](/Asserts/Images//attachment/album/202212/08/171052mzzprt4roygq28rm.jpg)
+![kali linux nethunter pro on pinephone pro](/Asserts/Images/album/202212/08/171052mzzprt4roygq28rm.jpg)
 
 
 Kali Linux 现在已经正式支持 Pine 64 的 PinePhone 和 PinePhone Pro。
@@ -71,7 +71,7 @@ Kali Linux 现在已经正式支持 Pine 64 的 PinePhone 和 PinePhone Pro。
 #### 返回微软 Azure 市场
 
 
-![kali linux 22.04 Azure Marketplace](/Asserts/Images//attachment/album/202212/08/171052js6dje2jgwbnmukm.jpg)
+![kali linux 22.04 Azure Marketplace](/Asserts/Images/album/202212/08/171052js6dje2jgwbnmukm.jpg)
 
 
 在离开 Azure 市场很长时间后，Kali Linux 终于被 [添加回来](https://azuremarketplace.microsoft.com/en/marketplace/apps/kali-linux.kali) 了。
@@ -86,7 +86,7 @@ Kali Linux 背后的公司 [Offensive Security](https://www.offensive-security.c
 #### 新的桌面环境
 
 
-![kali linux 22.04 with gnome 43](/Asserts/Images//attachment/album/202212/08/171053lanxiskjdnhoqxcy.jpg)
+![kali linux 22.04 with gnome 43](/Asserts/Images/album/202212/08/171053lanxiskjdnhoqxcy.jpg)
 
 
 通常情况下，Kali Linux 使用轻量级的 Xfce 桌面环境作为其默认的桌面环境。

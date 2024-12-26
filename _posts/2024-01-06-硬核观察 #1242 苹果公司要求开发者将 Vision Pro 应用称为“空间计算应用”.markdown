@@ -7,10 +7,10 @@ tags:	[linuxcn,Vision Pro,AI,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/10/181438t79uscttty0mh6mu.jpg)
+![](/Asserts/Images/album/202401/10/181438t79uscttty0mh6mu.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/10/181448cg25ccz2o9s8coa8.png)
+![](/Asserts/Images/album/202401/10/181448cg25ccz2o9s8coa8.png)
 
 
 ### #1 苹果公司要求开发者将 Vision Pro 应用称为“空间计算应用”
@@ -38,7 +38,7 @@ tags:	[linuxcn,Vision Pro,AI,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/10/181516ojom3vosvs171ee9.png)
+![](/Asserts/Images/album/202401/10/181516ojom3vosvs171ee9.png)
 
 
 ### #2 多邻国裁掉翻译人员，用 AI 替代
@@ -66,7 +66,7 @@ tags:	[linuxcn,Vision Pro,AI,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/10/181541c30302nmw32in2n2.png)
+![](/Asserts/Images/album/202401/10/181541c30302nmw32in2n2.png)
 
 
 ### #3 Linux 6.8 将提升 40% 多并发连接的 TCP 性能

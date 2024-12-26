@@ -7,7 +7,7 @@ tags:	[linuxcn,笔记,Notion]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/02/102316f1g6p369uyeeybgo.jpg)
+![](/Asserts/Images/album/202208/02/102316f1g6p369uyeeybgo.jpg)
 
 
 
@@ -33,7 +33,7 @@ AppFlowy 使用 Rust 和 Flutter 构建，遵循极简原则，但提供了足�
 ### AppFlowy 是隐私和用户体验的完美结合
 
 
-![appflowy](/Asserts/Images//attachment/album/202208/02/102318dsa4eeq8ov9qzhzv.png)
+![appflowy](/Asserts/Images/album/202208/02/102318dsa4eeq8ov9qzhzv.png)
 
 
 AppFlowy 是相当新的。在它去年首次推出后，我们曾 [报告](https://news.itsfoss.com/appflowy-development/) 了它的发展状况。
@@ -87,7 +87,7 @@ AppFlowy 使用 Rust 和 Flutter 构建，在提供现代用户体验的同时�
 ### AppFlowy 的功能
 
 
-![appflowy screenshot 1](/Asserts/Images//attachment/album/202208/02/102318dfbzl0nx9qbmnx0z.png)
+![appflowy screenshot 1](/Asserts/Images/album/202208/02/102318dfbzl0nx9qbmnx0z.png)
 
 
 AppFlowy 在功能方面可能并不优越，但它确实提供了基本的功能。
@@ -168,7 +168,7 @@ sudo nano appflowy.desktop
 在这里，你必须将 `[CHANGE_THIS]` 替换为图标和可执行文件的对应路径。
 
 
-![add location of icon and exec file](/Asserts/Images//attachment/album/202208/02/102319oh5j6h896qpwahah.png)
+![add location of icon and exec file](/Asserts/Images/album/202208/02/102319oh5j6h896qpwahah.png)
 
 
 使用 `CTRL + O` 保存更改并使用 `CTRL + X` 退出。
@@ -186,7 +186,7 @@ mv app_flowy.desktop ~/.local/share/applications/.
 它应该是这样的：
 
 
-![appflowy in system menu](/Asserts/Images//attachment/album/202208/02/102319umt6pb6btwpbhpbe.png)
+![appflowy in system menu](/Asserts/Images/album/202208/02/102319umt6pb6btwpbhpbe.png)
 
 
 无论哪种情况，你都可以查看 AppFlowy 的 [官方文档](https://appflowy.gitbook.io/docs/essential-documentation/contribute-to-appflowy/software-contributions/environment-setup/building-on-linux) 以从源代码构建它。在其官方网站上了解更多关于它的信息。

@@ -27,7 +27,7 @@ RPM Fusion 为 Red Hat Enterprise Linux（RHEL）以及 Fedora 提供了 .rpm �
 这在所有当前支持的 Fedora 版本（35、36 和 37）中进行了测试。
 
 
-![RPM Fusion](/Asserts/Images//attachment/album/202210/16/111338jjr0eh5cjgq017n5.jpg)
+![RPM Fusion](/Asserts/Images/album/202210/16/111338jjr0eh5cjgq017n5.jpg)
 
 
 ### 如何在 Fedora Linux、RHEL、CentOS 中启用 RPM Fusion 仓库
@@ -51,7 +51,7 @@ dnf repolist | grep rpmfusion
 如果安装了 RPM，你应该会看到如下所示的消息。就不用下面的步骤。如果未安装，你可以继续执行以下步骤。
 
 
-![RPM Fusion 已安装](/Asserts/Images//attachment/album/202210/16/110916okkl836kkge33le4.png)
+![RPM Fusion 已安装](/Asserts/Images/album/202210/16/110916okkl836kkge33le4.png)
 
 
 打开终端并根据你的操作系统版本运行以下命令。请注意，这些命令包含自由和非自由版本。如果你愿意，你可以在运行时省略下面的任何一个。
@@ -246,7 +246,7 @@ dnf repolist
 
 ```
 
-![dnf 仓库列表](/Asserts/Images//attachment/album/202210/16/110916mzsjlmlzyfbdjsbb.jpg)
+![dnf 仓库列表](/Asserts/Images/album/202210/16/110916mzsjlmlzyfbdjsbb.jpg)
 
 
 如你所见，添加了 rpmfusion 自由和非自由仓库。要通过 dnf 删除它，你需要使用以下命令准确知道仓库文件名。
@@ -261,7 +261,7 @@ rpm -qa 'rpmfusion*'
 这将列出仓库的确切名称。在示例中，它们是 “rpmfusion-free-release”。
 
 
-![从 Fedora 中移除 rpmfusion](/Asserts/Images//attachment/album/202210/16/110916jibog8omnlw81ohe.jpg)
+![从 Fedora 中移除 rpmfusion](/Asserts/Images/album/202210/16/110916jibog8omnlw81ohe.jpg)
 
 
 现在你可以简单地运行以下命令来删除它。

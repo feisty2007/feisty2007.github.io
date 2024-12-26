@@ -7,10 +7,10 @@ tags:	[linuxcn,Java,GitHub,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/30/181924qzhdr8koop5641yl.jpg)
+![](/Asserts/Images/album/202301/30/181924qzhdr8koop5641yl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/30/181931uhgyiitjot9goo6j.jpg)
+![](/Asserts/Images/album/202301/30/181931uhgyiitjot9goo6j.jpg)
 
 
 ### 甲骨文新的授权模式导致 Java 使用成本激增
@@ -35,7 +35,7 @@ tags:	[linuxcn,Java,GitHub,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/30/181941f2ofn6n9zxi5nsgs.jpg)
+![](/Asserts/Images/album/202301/30/181941f2ofn6n9zxi5nsgs.jpg)
 
 
 ### GitHub 用户数突破 1 亿
@@ -60,7 +60,7 @@ tags:	[linuxcn,Java,GitHub,ChatGPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/30/181952p0kiyggbbrkiqgno.jpg)
+![](/Asserts/Images/album/202301/30/181952p0kiyggbbrkiqgno.jpg)
 
 
 ### ChatGPT 在寻找和解决程序错误方面表现优异

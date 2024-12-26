@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME Web,浏览器]
 > 
 
 
-![Gnome Web 浏览器](/Asserts/Images//attachment/album/202207/06/131817m7v3q1lfb9v7q40v.jpg)
+![Gnome Web 浏览器](/Asserts/Images/album/202207/06/131817m7v3q1lfb9v7q40v.jpg)
 
 
 GNOME Web（Epiphany）是 [可供 Linux 用户使用的最佳浏览器](https://itsfoss.com/best-browsers-ubuntu-linux/) 之一。
@@ -39,7 +39,7 @@ GNOME Web（Epiphany）是 [可供 Linux 用户使用的最佳浏览器](https:/
 ### 带有 WebExtensions 的 GNOME Web
 
 
-![](/Asserts/Images//attachment/album/202207/06/131818a8otb2wgnq8qrzsh.png)
+![](/Asserts/Images/album/202207/06/131818a8otb2wgnq8qrzsh.png)
 
 
 一个浏览器，外观简约，还支持扩展，夫复何求啊！
@@ -71,7 +71,7 @@ GNOME Web（Epiphany）是 [可供 Linux 用户使用的最佳浏览器](https:/
 你需要访问 [Mozilla 的 Firefox 附加组件门户网站](https://addons.mozilla.org/en-US/firefox/extensions/) 来获得扩展程序。
 
 
-![](/Asserts/Images//attachment/album/202207/06/131819cafck1ttk5p5e3gf.png)
+![](/Asserts/Images/album/202207/06/131819cafck1ttk5p5e3gf.png)
 
 
 你可以安装 Epiphany（GNOME Web）的最新开发版本，并使用以下命令启用扩展：

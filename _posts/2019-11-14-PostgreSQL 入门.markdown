@@ -15,7 +15,7 @@ tags:	[linuxcn,PostgreSQL]
 > 
 
 
-![](/Asserts/Images//attachment/album/201911/20/085936u10q7eme1euu4ak3.jpg)
+![](/Asserts/Images/album/201911/20/085936u10q7eme1euu4ak3.jpg)
 
 
 每个人或许都有需要在数据库中保存的东西。即使你执着于使用纸质文件或电子文件，它们也会变得很麻烦。纸质文档可能会丢失或混乱，你需要访问的电子信息可能会隐藏在段落和页面的深处。

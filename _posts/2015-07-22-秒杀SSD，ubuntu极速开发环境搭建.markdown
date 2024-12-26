@@ -22,7 +22,7 @@ tags:	[linuxcn,容器,开发环境]
 最后的准备在于容器，Docker 以及RKT与RunC的准备，在团队内可以秒级推送运行的环境。
 
 
-![](/Asserts/Images//attachment/album/201507/25/225647vww3jwwrq6l32f63.jpg)
+![](/Asserts/Images/album/201507/25/225647vww3jwwrq6l32f63.jpg)
 
 
 本文依然有它的缺点： 主要体现在两个方面
@@ -91,7 +91,7 @@ tags:	[linuxcn,容器,开发环境]
 
 
 1. 下载安装EasyBCD
-2. 如图所示![](/Asserts/Images//attachment/album/201507/25/225648zh0hcp7tdtyasf7a.png)
+2. 如图所示![](/Asserts/Images/album/201507/25/225648zh0hcp7tdtyasf7a.png)
 3. 安装重启电脑之后选择Grub启动项可以进入一个类似输入命令的界面即可确定完成安装。
 
 

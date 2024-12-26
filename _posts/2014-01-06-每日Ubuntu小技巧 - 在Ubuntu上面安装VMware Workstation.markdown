@@ -13,7 +13,7 @@ VMware Workstation是一款“第二类（Type-2）”商用虚拟化软件。�
 你可以使用VMware Workstation在宿主机上同时运行各自具有独立操作系统的多个客户机。客户机可以是32位或者64位的操作系统。VMware Workstation支持Windows，Mac OS X，Solaris和许多其他系统。
 
 
-![](/Asserts/Images//attachment/album/201401/07/100429zrghh181yblz84r4.png)
+![](/Asserts/Images/album/201401/07/100429zrghh181yblz84r4.png)
 
 
 这篇简短的教程将会教你怎么在Ubuntu上面安装VMware Workstation。
@@ -82,13 +82,13 @@ sudo ./VMware-Workstation-Full*.bundle
 当所有工作完成后，从Dash打开它并开始创建客户机。
 
 
-![](/Asserts/Images//attachment/album/201401/07/100437ts4iopa9bbu4waap.png)
+![](/Asserts/Images/album/201401/07/100437ts4iopa9bbu4waap.png)
 
 
 你可以从所有的类型中选择创建各种客户机，包括Windows，Linux，Nevell，Solaris等。
 
 
-![](/Asserts/Images//attachment/album/201401/07/100439i1t3egt3i43p8m0p.png)
+![](/Asserts/Images/album/201401/07/100439i1t3egt3i43p8m0p.png)
 
 
 Enjoy!

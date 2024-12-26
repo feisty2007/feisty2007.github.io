@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/01/125604t30ye3lgf4g44ife.jpg)
+![](/Asserts/Images/album/201906/01/125604t30ye3lgf4g44ife.jpg)
 
 
 在某些情况下，你可能想要将一个服务器上的软件包列表安装到另一个服务器上。例如，你已经在服务器 A 上安装了 15 个软件包并且这些软件包也需要被安装到服务器 B、服务器 C 上等等。

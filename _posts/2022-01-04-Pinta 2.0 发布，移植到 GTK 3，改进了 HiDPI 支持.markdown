@@ -15,7 +15,7 @@ tags:	[linuxcn,Pinta]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/05/122424rt5w457t8jq3vcbf.jpg)
+![](/Asserts/Images/album/202201/05/122424rt5w457t8jq3vcbf.jpg)
 
 
 新的一年的一周，你是否正在期待一些最新的开源应用发布。
@@ -36,7 +36,7 @@ Pinta 是一个轻量级的绘画应用，可以作为一个简单的图像编�
 ### 有什么新变化？
 
 
-![Pinta 2.0](/Asserts/Images//attachment/album/202201/05/122425zkxckg1j71hw1xhx.png)
+![Pinta 2.0](/Asserts/Images/album/202201/05/122425zkxckg1j71hw1xhx.png)
 
 
 #### GTK3 移植

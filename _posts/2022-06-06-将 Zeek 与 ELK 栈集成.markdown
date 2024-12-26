@@ -15,7 +15,7 @@ tags:	[linuxcn,ELK,监控]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/28/164550v4nuk3g7ux77y77v.jpg)
+![](/Asserts/Images/album/202206/28/164550v4nuk3g7ux77y77v.jpg)
 
 
 在本杂志 2022 年 3 月版发表的题为“用 Zeek 轻松实现网络安全监控”的文章中，我们研究了 Zeek 的功能，并学习了如何开始使用它。现在我们将把我们的学习经验再进一步，看看如何将其与 ELK（即 Elasticsearch、Kibana、Beats 和 Logstash）整合。
@@ -51,7 +51,7 @@ sudo nano /etc/filebeat/filebeat.yml
 完成这些后，设置的第一部分应该类似于图 1 所示的内容。
 
 
-![Figure 1: Filebeat config (a)](/Asserts/Images//attachment/album/202206/28/164559gyxssyfvpjrj1f1k.jpg)
+![Figure 1: Filebeat config (a)](/Asserts/Images/album/202206/28/164559gyxssyfvpjrj1f1k.jpg)
 
 
 第二件要修改的事情是在输出下的 Elasticsearch 输出部分，取消对 `output.elasticsearch` 和 `hosts` 的注释。确保主机的 URL 和端口号与你安装 ELK 时配置的相似。我们把它保持为 `localhost`，端口号为 `9200`。
@@ -60,7 +60,7 @@ sudo nano /etc/filebeat/filebeat.yml
 在同一部分中，取消底部的用户名和密码的注释，输入安装后配置 ELK 时生成的 Elasticsearch 用户的用户名和密码。完成这些后，参考图 2，检查设置。
 
 
-![Figure 2: Filebeat config (b)](/Asserts/Images//attachment/album/202206/28/164559wmvvezzvyz8v8bhd.jpg)
+![Figure 2: Filebeat config (b)](/Asserts/Images/album/202206/28/164559wmvvezzvyz8v8bhd.jpg)
 
 
 现在我们已经完成了安装和配置，我们需要配置 Zeek，使其以 JSON 格式存储日志。为此，确保你的 Zeek 实例已经停止。如果没有，执行下面的命令来停止它：
@@ -88,7 +88,7 @@ cd /opt/zeek/bin
 参考图 3，确保设置正确。
 
 
-![Figure 3: local.zeek file](/Asserts/Images//attachment/album/202206/28/164559kowywewbe79w4fhb.jpg)
+![Figure 3: local.zeek file](/Asserts/Images/album/202206/28/164559kowywewbe79w4fhb.jpg)
 
 
 由于我们改变了 Zeek 的一些配置，我们需要重新部署它，这可以通过执行以下命令来完成：
@@ -128,7 +128,7 @@ var.paths: [ “/opt/zeek/logs/current/dns.log”, “/opt/zeek/logs/*.dns.json�
 对其余的文件重复这样做。我们对一些我们需要的文件做了这个处理。我们添加了所有主要需要的文件。你也可以这样做。请参考图 4。
 
 
-![Figure 4: zeek.yml configuration](/Asserts/Images//attachment/album/202206/28/164559tzsssbeyb4b5yi55.jpg)
+![Figure 4: zeek.yml configuration](/Asserts/Images/album/202206/28/164559tzsssbeyb4b5yi55.jpg)
 
 
 现在是启动 Filebeat 的时候了。执行以下命令：
@@ -144,13 +144,13 @@ sudo service filebeat start
 现在一切都完成了，让我们移动到 Kibana 仪表板，检查我们是否通过 Filebeat 接收到来自 Zeek 的数据。
 
 
-![Figure 5: Dashboard of Kibana (Destination Geo)](/Asserts/Images//attachment/album/202206/28/164600fj5zaw3nah3d1nza.jpg)
+![Figure 5: Dashboard of Kibana (Destination Geo)](/Asserts/Images/album/202206/28/164600fj5zaw3nah3d1nza.jpg)
 
 
 进入仪表板。你可以看到它所捕获的数据的清晰统计分析（图 5 和图 6）。
 
 
-![Figure 6: Dashboard of Kibana (Network)](/Asserts/Images//attachment/album/202206/28/164601rsrhrtp2uutths3h.jpg)
+![Figure 6: Dashboard of Kibana (Network)](/Asserts/Images/album/202206/28/164601rsrhrtp2uutths3h.jpg)
 
 
 现在让我们进入发现选项卡，通过使用查询进行过滤来检查结果：
@@ -165,7 +165,7 @@ event.module: "zeek"
 这个查询将过滤它在一定时间内收到的所有数据，只向我们显示名为 Zeek 的模块的数据（图 7）。
 
 
-![Figure 7: Filtered data by event.module query](/Asserts/Images//attachment/album/202206/28/164602ie6kj6eenb2r03r1.jpg)
+![Figure 7: Filtered data by event.module query](/Asserts/Images/album/202206/28/164602ie6kj6eenb2r03r1.jpg)
 
 
 ### 鸣谢

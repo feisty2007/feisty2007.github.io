@@ -7,7 +7,7 @@ tags:	[linuxcn,CentOS 7,RHEL 7]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/27/151948jz881a61rj66up58.png)
+![](/Asserts/Images/album/201504/27/151948jz881a61rj66up58.png)
 
 
 CentOS 是一个工业标准的 Linux 发行版，是红帽企业版 Linux 的衍生版本。你安装完后马上就可以使用，但是为了更好地使用你的系统，你需要进行一些升级、安装新的软件包、配置特定服务和应用程序等操作。
@@ -85,7 +85,7 @@ RHEL 7 最小化安装完成后，就应该注册并启用系统红帽订阅库�
 
 ```
 
-![在 Linux 上安装 ifconfig](/Asserts/Images//attachment/album/201504/27/151951oeeewafswse9rt9f.jpg)
+![在 Linux 上安装 ifconfig](/Asserts/Images/album/201504/27/151951oeeewafswse9rt9f.jpg)
 
 
 （LCTT 译注：关于 ip 命令的使用，请参照：<http://www.linux.cn/article-3631-1.html> ）
@@ -100,7 +100,7 @@ RHEL 7 最小化安装完成后，就应该注册并启用系统红帽订阅库�
 
 ```
 
-![在 CentOS 查看 IP 地址](/Asserts/Images//attachment/album/201504/27/151951l7a3ba7m5fm421mt.jpg)
+![在 CentOS 查看 IP 地址](/Asserts/Images/album/201504/27/151951l7a3ba7m5fm421mt.jpg)
 
 
 现在用你的编辑器打开并编辑文件 /etc/sysconfig/network-scripts/ifcfg-enp0s3 （LCTT 译注：你的网卡名称可能不同，如果希望修改为老式网卡名称，参考：<http://www.linux.cn/article-4045-1.html> ）。这里，我使用 vi 编辑器，另外你要确保你是 root 用户才能保存更改。
@@ -127,7 +127,7 @@ DNS2 = "[你的DNS 2]"
 更改了 ‘ifcfg-enp0s3’ 之后，它看起来像下面的图片。注意你的 IP，网关和 DNS 可能会变化，请和你的 ISP(译者注：互联网服务提供商，即给你提供接入的服务的电信或 IDC) 确认。保存并退出。
 
 
-![网络详情](/Asserts/Images//attachment/album/201504/27/151952rjc15ub2ojifg9zn.jpg)
+![网络详情](/Asserts/Images/album/201504/27/151952rjc15ub2ojifg9zn.jpg)
 
 
 *网络详情*
@@ -142,7 +142,7 @@ DNS2 = "[你的DNS 2]"
 
 ```
 
-![重启网络服务](/Asserts/Images//attachment/album/201504/27/151952i6v6rxxezvxq16z6.jpg)
+![重启网络服务](/Asserts/Images/album/201504/27/151952i6v6rxxezvxq16z6.jpg)
 
 
 *重启网络服务*
@@ -158,13 +158,13 @@ DNS2 = "[你的DNS 2]"
 
 ```
 
-![验证 IP 地址](/Asserts/Images//attachment/album/201504/27/151953ml62hlhry2v0dlg0.jpg)
+![验证 IP 地址](/Asserts/Images/album/201504/27/151953ml62hlhry2v0dlg0.jpg)
 
 
 *验证 IP 地址*
 
 
-![检查网络状态](/Asserts/Images//attachment/album/201504/27/151953t9kunzlkypyrly5d.jpg)
+![检查网络状态](/Asserts/Images/album/201504/27/151953t9kunzlkypyrly5d.jpg)
 
 
 *检查网络状态*
@@ -185,7 +185,7 @@ DNS2 = "[你的DNS 2]"
 
 ```
 
-![查看系统主机名称](/Asserts/Images//attachment/album/201504/27/151953iyz7224vn46t362r.jpg)
+![查看系统主机名称](/Asserts/Images/album/201504/27/151953iyz7224vn46t362r.jpg)
 
 
 *查看系统主机名称*
@@ -200,7 +200,7 @@ DNS2 = "[你的DNS 2]"
 
 ```
 
-![在 CentOS 中设置主机名称](/Asserts/Images//attachment/album/201504/27/151954ec4q5i5zphsil445.jpg)
+![在 CentOS 中设置主机名称](/Asserts/Images/album/201504/27/151954ec4q5i5zphsil445.jpg)
 
 
 *在 CentOS 中设置主机名称*
@@ -215,7 +215,7 @@ $ echo $HOSTNAME
 
 ```
 
-![确认主机名称](/Asserts/Images//attachment/album/201504/27/151954lb4pd12v448zm4bs.jpg)
+![确认主机名称](/Asserts/Images/album/201504/27/151954lb4pd12v448zm4bs.jpg)
 
 
 *确认主机名称*
@@ -245,7 +245,7 @@ $ hostname
 
 ```
 
-![更新最小化安装的 CentOS 服务器](/Asserts/Images//attachment/album/201504/27/151955xcnq8vais7vvuys8.jpg)
+![更新最小化安装的 CentOS 服务器](/Asserts/Images/album/201504/27/151955xcnq8vais7vvuys8.jpg)
 
 
 *更新最小化安装的 CentOS 服务器*
@@ -275,7 +275,7 @@ $ hostname
 
 ```
 
-![安装命令行浏览器](/Asserts/Images//attachment/album/201504/27/151955rffl5ihb5s5cjknr.jpg)
+![安装命令行浏览器](/Asserts/Images/album/201504/27/151955rffl5ihb5s5cjknr.jpg)
 
 
 *Links: 命令行 Web 浏览器*
@@ -296,7 +296,7 @@ $ hostname
 
 ```
 
-![在 CentOS 上安装 Apache](/Asserts/Images//attachment/album/201504/27/151956k9sc9h6quq5jdsb6.jpg)
+![在 CentOS 上安装 Apache](/Asserts/Images/album/201504/27/151956k9sc9h6quq5jdsb6.jpg)
 
 
 *安装 Apache 服务器*
@@ -314,7 +314,7 @@ LISTEN 80
 把端口号 ‘80’ 改为其它任何端口(例如 3221)，保存并退出。
 
 
-![在 CentOS 上更改 Apache 端口](/Asserts/Images//attachment/album/201504/27/151956inck0k662l66kc88.jpg)
+![在 CentOS 上更改 Apache 端口](/Asserts/Images/album/201504/27/151956inck0k662l66kc88.jpg)
 
 
 *更改 Apache 端口*
@@ -384,7 +384,7 @@ LISTEN 80
 
 ```
 
-![验证 Apache 状态](/Asserts/Images//attachment/album/201504/27/151957kcjayjmqrr0czwmw.jpg)
+![验证 Apache 状态](/Asserts/Images/album/201504/27/151957kcjayjmqrr0czwmw.jpg)
 
 
 *验证 Apache 状态*

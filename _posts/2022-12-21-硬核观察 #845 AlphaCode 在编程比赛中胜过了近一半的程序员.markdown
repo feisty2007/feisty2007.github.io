@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,编程,CentOS,端到端加密]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/09/174053a7ua19k18za7h1uz.jpg)
+![](/Asserts/Images/album/202212/09/174053a7ua19k18za7h1uz.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/09/174104sbf37623xwdd7842.jpg)
+![](/Asserts/Images/album/202212/09/174104sbf37623xwdd7842.jpg)
 
 
 ### AlphaCode 在编程比赛中胜过了近一半的程序员
@@ -35,7 +35,7 @@ DeepMind 在《科学》杂志发布文章说，在至少有 5000 人参加的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/09/174124jlki4ievliudovko.jpg)
+![](/Asserts/Images/album/202212/09/174124jlki4ievliudovko.jpg)
 
 
 ### 费米实验室和 CERN 选择 AlmaLinux
@@ -60,7 +60,7 @@ DeepMind 在《科学》杂志发布文章说，在至少有 5000 人参加的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/09/174137vktftkee00m0bb30.jpg)
+![](/Asserts/Images/album/202212/09/174137vktftkee00m0bb30.jpg)
 
 
 ### 美国 FBI 对苹果扩大端到端加密技术表示密切关注

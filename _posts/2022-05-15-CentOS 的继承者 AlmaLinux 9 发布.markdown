@@ -15,7 +15,7 @@ tags:	[linuxcn,AlmaLinux,CentOS]
 > 
 
 
-![almalinux](/Asserts/Images//attachment/album/202205/28/121935fa1dqa164gaf6qfg.jpg)
+![almalinux](/Asserts/Images/album/202205/28/121935fa1dqa164gaf6qfg.jpg)
 
 
 如果你一直在关注我们的话，应当知道 [AlmaLinux 9.0 测试版](/article-14500-1.html) 已于上月发布。
@@ -39,7 +39,7 @@ AlmaLinux 9.0 在这个版本中使用了 Linux 内核 5.14。它包括对云和
 #### 新壁纸
 
 
-![AlmaLinux 9](/Asserts/Images//attachment/album/202205/28/121935qd4fdz09901d97f9.jpg)
+![AlmaLinux 9](/Asserts/Images/album/202205/28/121935qd4fdz09901d97f9.jpg)
 
 
 在 AlmaLinux 9.0 中，更新了一些新的壁纸。

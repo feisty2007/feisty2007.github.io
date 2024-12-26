@@ -7,7 +7,7 @@ tags:	[linuxcn,DOSBox,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/12/091038c81kxkmhdonj1mkm.jpg)
+![](/Asserts/Images/album/202303/12/091038c81kxkmhdonj1mkm.jpg)
 
 
 DOSBox 是一款自由开源的软件，它可以让你模拟上个世纪的 MS-DOS 操作系统。
@@ -69,7 +69,7 @@ exit
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/12/091139e3nqeielnln6h5i6.png)
+![](/Asserts/Images/album/202303/12/091139e3nqeielnln6h5i6.png)
 
 
 如果你想要调整配置，配置文件位于 `~/.dosbox/dosbox-[版本].conf`。
@@ -81,7 +81,7 @@ exit
 但是（对我来说）启用全屏模式会使事情变得更糟，并且必须重新登录才能进入默认模式：
 
 
-![DOSBox 全屏模式错误](/Asserts/Images//attachment/album/202303/12/091139eplw6nb6mpb6hlhu.png)
+![DOSBox 全屏模式错误](/Asserts/Images/album/202303/12/091139eplw6nb6mpb6hlhu.png)
 
 
 **所以，除非你知道你在做什么，否则不要修改配置。**
@@ -117,13 +117,13 @@ mkdir [游戏名称]
 我下载了马里奥。你可以给目录起任何名字。这里没什么要求，只是为了管理游戏而已。
 
 
-![在 Linux 中创建目录](/Asserts/Images//attachment/album/202303/12/091140opwph5j6wwkddd50.png)
+![在 Linux 中创建目录](/Asserts/Images/album/202303/12/091140opwph5j6wwkddd50.png)
 
 
 然后，将 `.zip` 文件解压到你刚刚创建的 `dosbox` 目录中：
 
 
-![解压文件到 dosbox 目录](/Asserts/Images//attachment/album/202303/12/091140k2nzxrbq6qjd2cv6.png)
+![解压文件到 dosbox 目录](/Asserts/Images/album/202303/12/091140k2nzxrbq6qjd2cv6.png)
 
 
 如果你想的话，你也可以在终端中 [使用 unzip 命令](https://learnubuntu.com/unzip-file/?ref=its-foss) 来做同样的事情：
@@ -153,7 +153,7 @@ mount c ~/dosbox/mario
 
 ```
 
-![将游戏挂载到虚拟 C 驱动器上](/Asserts/Images//attachment/album/202303/12/091141c7877b88a88lf88l.png)
+![将游戏挂载到虚拟 C 驱动器上](/Asserts/Images/album/202303/12/091141c7877b88a88lf88l.png)
 
 
 然后，切换到虚拟 C 驱动器：
@@ -165,7 +165,7 @@ c:
 
 ```
 
-![切换到虚拟 C 驱动器](/Asserts/Images//attachment/album/202303/12/091141mm566mg5cnrhwrmr.png)
+![切换到虚拟 C 驱动器](/Asserts/Images/album/202303/12/091141mm566mg5cnrhwrmr.png)
 
 
 最后，通过输入游戏的文件名来启动游戏：
@@ -180,7 +180,7 @@ mario
 然后，享受游戏吧。
 
 
-![在 Ubuntu 中玩马里奥](/Asserts/Images//attachment/album/202303/12/091141rdpdyu8ti5tpx5d5.gif)
+![在 Ubuntu 中玩马里奥](/Asserts/Images/album/202303/12/091141rdpdyu8ti5tpx5d5.gif)
 
 
 ### 想要更多复古的东西？

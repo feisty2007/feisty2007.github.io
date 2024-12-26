@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/11/162224g07rzfbbniwbrgbn.jpg)
+![](/Asserts/Images/album/202205/11/162224g07rzfbbniwbrgbn.jpg)
 
 
 今天，我很高兴与大家分享一个消息，它是成千上万的 Fedora 项目贡献者辛勤工作的成果：我们的最新版本 —— Fedora Linux 36，和大家见面了！

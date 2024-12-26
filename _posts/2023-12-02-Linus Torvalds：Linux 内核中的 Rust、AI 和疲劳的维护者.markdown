@@ -7,7 +7,7 @@ tags:	[linuxcn,Linus Torvalds]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/11/004123vp5mf0bf1m6kzpfw.jpg)
+![](/Asserts/Images/album/202312/11/004123vp5mf0bf1m6kzpfw.jpg)
 
 
 
@@ -18,7 +18,7 @@ tags:	[linuxcn,Linus Torvalds]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/11/004243qi4iih0aizipkmm7.jpg)
+![](/Asserts/Images/album/202312/11/004243qi4iih0aizipkmm7.jpg)
 
 
 尽管 Linux 的创始人 Linus Torvalds 最近鲜少公开露面，但在 Linux 基金会的 [日本开源峰会](https://events.linuxfoundation.org/open-source-summit-japan/) 上，他与其好友，Verizon 开源部门负责人 Dirk Hohndel 共同探讨了 Linux 的当前状况。

@@ -7,10 +7,10 @@ tags:	[linuxcn,IE,Snap,ifcfg]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/08/200737ndzvg4irpq3d7d64.jpg)
+![](/Asserts/Images/album/202201/08/200737ndzvg4irpq3d7d64.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/08/200747x733s4kflsu4fwml.jpg)
+![](/Asserts/Images/album/202201/08/200747x733s4kflsu4fwml.jpg)
 
 
 ### 英国的植物出口 IT 系统只适用于旧版本的 IE 浏览器
@@ -27,7 +27,7 @@ tags:	[linuxcn,IE,Snap,ifcfg]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/08/200757mpeg2zmpmnpl7g7w.jpg)
+![](/Asserts/Images/album/202201/08/200757mpeg2zmpmnpl7g7w.jpg)
 
 
 ### Canonical 正在重构 Snap 应用
@@ -44,7 +44,7 @@ tags:	[linuxcn,IE,Snap,ifcfg]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/08/200828vh5e1vt3k0k51jk6.jpg)
+![](/Asserts/Images/album/202201/08/200828vh5e1vt3k0k51jk6.jpg)
 
 
 ### Fedora 36 考虑放弃对 ifcfg 脚本的支持

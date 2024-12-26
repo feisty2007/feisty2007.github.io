@@ -7,7 +7,7 @@ tags:	[linuxcn,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202011/25/094346ig44av4l4lzh1v7t.jpg)
+![](/Asserts/Images/album/202011/25/094346ig44av4l4lzh1v7t.jpg)
 
 
 Fedora 的默认网页浏览器是 Firefox。尽管它是一个优秀的网络浏览器，你可能更喜欢流行的 Google Chrome 浏览器。
@@ -33,19 +33,19 @@ Fedora 提供了一个第三方仓库，其中包含了一些流行的专有软�
 第一步，确保在 Fedora 中启用第三方仓库。你应该在软件中心中看到这个选项。
 
 
-![Step1: Fedora Third Party Repositories](/Asserts/Images//attachment/album/202011/25/094631afchfi0iyq2b05t5.jpg)
+![Step1: Fedora Third Party Repositories](/Asserts/Images/album/202011/25/094631afchfi0iyq2b05t5.jpg)
 
 
 启用后，只需在软件中心搜索 Chrome：
 
 
-![Step 2: Search for Chrome In Fedora Software Center](/Asserts/Images//attachment/album/202011/25/094442il80s10ff989m91h.png)
+![Step 2: Search for Chrome In Fedora Software Center](/Asserts/Images/album/202011/25/094442il80s10ff989m91h.png)
 
 
 并从那里安装它：
 
 
-![Step 3: Install Chrome Fedora](/Asserts/Images//attachment/album/202011/25/094503spwbpe7vjev88eek.png)
+![Step 3: Install Chrome Fedora](/Asserts/Images/album/202011/25/094503spwbpe7vjev88eek.png)
 
 
 还有比这更简单的吗？我觉得没有。
@@ -63,19 +63,19 @@ Fedora 提供了一个第三方仓库，其中包含了一些流行的专有软�
 * [获取 Google Chrome](https://www.google.com/chrome/)
 
 
-![](/Asserts/Images//attachment/album/202011/25/094505d95s6696vvrj9j5q.jpg)
+![](/Asserts/Images/album/202011/25/094505d95s6696vvrj9j5q.jpg)
 
 
 然后选择 .rpm 包，点击“接受并安装”。
 
 
-![](/Asserts/Images//attachment/album/202011/25/094510kbqt3p33oeo8oa8a.png)
+![](/Asserts/Images/album/202011/25/094510kbqt3p33oeo8oa8a.png)
 
 
 下载结束后，双击文件，在包管理器提示时点击安装。输入密码，等待安装完成。
 
 
-![](/Asserts/Images//attachment/album/202011/25/094526a1au91m0u9czqutu.png)
+![](/Asserts/Images/album/202011/25/094526a1au91m0u9czqutu.png)
 
 
 这是超级简单的，对吧？让我们来看看有点复杂的方式（如果你不是一个终端爱好者）。
@@ -102,7 +102,7 @@ sudo dnf config-manager --set-enabled google-chrome
 
 ```
 
-![](/Asserts/Images//attachment/album/202011/25/094527i8xgqqw5x5xttx4y.png)
+![](/Asserts/Images/album/202011/25/094527i8xgqqw5x5xttx4y.png)
 
 
 要安装 Google Chrome 稳定版，请在终端运行以下命令。
@@ -117,7 +117,7 @@ sudo dnf install google-chrome-stable
 你会看到一个导入 GPG 密钥的警告，输入 `y` 继续。
 
 
-![](/Asserts/Images//attachment/album/202011/25/094531ipk86sp89in3qlq9.png)
+![](/Asserts/Images/album/202011/25/094531ipk86sp89in3qlq9.png)
 
 
 你正在添加 Google Chrome 仓库。这个软件包来自这个仓库，它直接来自 Google。

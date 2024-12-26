@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包,包管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/03/213058kmlfz3bb4rcmrsvx.jpg)
+![](/Asserts/Images/album/201902/03/213058kmlfz3bb4rcmrsvx.jpg)
 
 
 如果你知道包名称，那么你可以直接安装所需的包。

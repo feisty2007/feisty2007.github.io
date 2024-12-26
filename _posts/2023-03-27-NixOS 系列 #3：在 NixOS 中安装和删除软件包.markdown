@@ -7,7 +7,7 @@ tags:	[linuxcn,NixOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/21/090913cnq91ob2hn9b2qbh.jpg)
+![](/Asserts/Images/album/202303/21/090913cnq91ob2hn9b2qbh.jpg)
 
 
 NixOS 中的打包系统是它最强大的地方。Nix 软件包管理器使用的语法与 `apt`、`dnf` 和其他软件包管理器大不相同。
@@ -52,7 +52,7 @@ NixOS 中的打包系统是它最强大的地方。Nix 软件包管理器使用�
 例如，如果我想要 `librewolf` 包，我将执行以下操作：
 
 
-![使用 Nix 软件包管理器的网络搜索寻找软件包](/Asserts/Images//attachment/album/202303/21/090925pbojm11fqodvf8ob.png)
+![使用 Nix 软件包管理器的网络搜索寻找软件包](/Asserts/Images/album/202303/21/090925pbojm11fqodvf8ob.png)
 
 
 你也可以通过终端做同样的事情。
@@ -70,7 +70,7 @@ nix-env -qaP --description [软件包名称]
 例如，在这里，我搜索了 `librewolf`：
 
 
-![使用终端搜索 NixOS 中的软件包](/Asserts/Images//attachment/album/202303/21/090925ed5v09vrutk95gxg.png)
+![使用终端搜索 NixOS 中的软件包](/Asserts/Images/album/202303/21/090925ed5v09vrutk95gxg.png)
 
 
 你必须复制输出的第一行，因为那是你需要安装的软件包的名称。
@@ -169,7 +169,7 @@ nix-env --uninstall librewolf
 例如，在这里，我正在搜索 OpenSSH 服务。
 
 
-![搜索 NixOS 中的 OpenSSH 服务](/Asserts/Images//attachment/album/202303/21/090925hki9gdkdiwad7aiz.png)
+![搜索 NixOS 中的 OpenSSH 服务](/Asserts/Images/album/202303/21/090925hki9gdkdiwad7aiz.png)
 
 
 一旦你找到了这个名字，用下面的命令打开 `configuration.nix` 文件：
@@ -199,7 +199,7 @@ services.openssh.enable = true;
 
 ```
 
-![在 NixOS 上启用 OpenSSH](/Asserts/Images//attachment/album/202303/21/090926grv6io9frqc1681i.png)
+![在 NixOS 上启用 OpenSSH](/Asserts/Images/album/202303/21/090926grv6io9frqc1681i.png)
 
 
 一旦你在配置文件中添加了服务，[保存修改并退出 Nano](https://linuxhandbook.com/nano-save-exit/?ref=its-foss) 文本编辑器。
@@ -235,7 +235,7 @@ sudo nano /etc/nixos/configuration.nix
 寻找服务，并删除这一行或用 `#` 注释掉：
 
 
-![从 NixOS 删除服务](/Asserts/Images//attachment/album/202303/21/090927isbibbsbub6i6wqp.png)
+![从 NixOS 删除服务](/Asserts/Images/album/202303/21/090927isbibbsbub6i6wqp.png)
 
 
 通过添加注释 `#`，我忽略了 OpenSSH 服务的加载，因为我不再需要它在我的系统上。
@@ -307,7 +307,7 @@ packages = with pkgs; [
 所以我们假设我也想安装 `Thunderbird`，那么我将添加它的名字，如下所示：
 
 
-![使用 Nix 配置文件在 NixOS 中安装一个包](/Asserts/Images//attachment/album/202303/21/090927x0z6dmkij406688k.png)
+![使用 Nix 配置文件在 NixOS 中安装一个包](/Asserts/Images/album/202303/21/090927x0z6dmkij406688k.png)
 
 
 你必须在方括号内添加所有的软件包名称，不要用逗号。它必须像截图中描述的那样一个软件一个新的行。
@@ -324,7 +324,7 @@ environment.systemPackages = with pkgs; [
 
 ```
 
-![使用 Nix 配置文件在 NixOS 中全系统安装软件包](/Asserts/Images//attachment/album/202303/21/090927txnmz2rex2pehn1x.png)
+![使用 Nix 配置文件在 NixOS 中全系统安装软件包](/Asserts/Images/album/202303/21/090927txnmz2rex2pehn1x.png)
 
 
 一旦你完成了在系统配置文件或用户配置文件，甚至两者中添加所需软件包的名称，你将需要按照同样的命令来完成安装：
@@ -362,7 +362,7 @@ sudo nano /etc/nixos/configuration.nix
 接下来，注释掉用户配置文件或系统配置文件中的包的名称：
 
 
-![在 NixOS 上使用 Nix 配置文件删除包](/Asserts/Images//attachment/album/202303/21/090928tnbnm7qmppiibiz7.png)
+![在 NixOS 上使用 Nix 配置文件删除包](/Asserts/Images/album/202303/21/090928tnbnm7qmppiibiz7.png)
 
 
 保存更改并退出配置文件。

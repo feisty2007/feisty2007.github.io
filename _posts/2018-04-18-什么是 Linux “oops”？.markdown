@@ -15,7 +15,7 @@ tags:	[linuxcn,内核,恐慌]
 > 
 
 
-![](/Asserts/Images//attachment/album/201804/18/222759dmq16dgxmjjrrx76.jpg)
+![](/Asserts/Images/album/201804/18/222759dmq16dgxmjjrrx76.jpg)
 
 
 如果你检查你的 Linux 系统上运行的进程，你可能会对一个叫做 “kerneloops” 的进程感到好奇。提示一下，它是 “kernel oops”，而不是 “kerne loops”。

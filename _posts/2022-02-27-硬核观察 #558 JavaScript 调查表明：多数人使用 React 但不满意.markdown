@@ -7,10 +7,10 @@ tags:	[linuxcn,React,eBPF,挖矿]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/25/153023ak88zcsmmoscs4k4.jpg)
+![](/Asserts/Images/album/202202/25/153023ak88zcsmmoscs4k4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/25/153036r6tkbokt9dvh96g6.jpg)
+![](/Asserts/Images/album/202202/25/153036r6tkbokt9dvh96g6.jpg)
 
 
 ### JavaScript 调查表明：多数人使用 React 但不满意
@@ -27,7 +27,7 @@ tags:	[linuxcn,React,eBPF,挖矿]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/25/153047tkdtr6rmfy6fzkgd.jpg)
+![](/Asserts/Images/album/202202/25/153047tkdtr6rmfy6fzkgd.jpg)
 
 
 ### 声称恢复 GPU 挖矿性能的工具实际上是恶意软件
@@ -44,7 +44,7 @@ tags:	[linuxcn,React,eBPF,挖矿]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/25/153122x4oobdco3g4g3wia.jpg)
+![](/Asserts/Images/album/202202/25/153122x4oobdco3g4g3wia.jpg)
 
 
 ### 红帽扩展 eBPF 用于输入设备的 HID 子系统

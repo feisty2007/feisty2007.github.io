@@ -7,13 +7,13 @@ tags:	[linuxcn,Ubuntu,Firefox,Snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/08/154842wquoflgffwyyn2cw.jpg)
+![](/Asserts/Images/album/202208/08/154842wquoflgffwyyn2cw.jpg)
 
 
 如果你使用的是 Ubuntu 22.04，你可能已收到过此通知。
 
 
-![Notification about pending Firefox app](/Asserts/Images//attachment/album/202208/08/154844lb3btmruy0umytqh.png)
+![Notification about pending Firefox app](/Asserts/Images/album/202208/08/154844lb3btmruy0umytqh.png)
 
 
 它会通知你 Firefox 更新正在等待中，并要求你关闭应用以避免中断。
@@ -43,7 +43,7 @@ tags:	[linuxcn,Ubuntu,Firefox,Snap]
 早些时候，Firefox 曾经在后台更新，然后要求你重启浏览器。在你重启浏览器之前 [不能](https://news.itsfoss.com/mozilla-annoying-new-tab/) 打开任何网站。
 
 
-![Firefox forced restart in the past](/Asserts/Images//attachment/album/202208/08/154928pdg71o4p7y16x77z.png)
+![Firefox forced restart in the past](/Asserts/Images/album/202208/08/154928pdg71o4p7y16x77z.png)
 
 
 在将 [Firefox 浏览器切换为默认 Snap 包格式](https://news.itsfoss.com/ubuntu-firefox-snap-default/) 后，Ubuntu 团队对更新流程进行了一些改动。
@@ -79,7 +79,7 @@ tags:	[linuxcn,Ubuntu,Firefox,Snap]
 你可以看到更新的 Snap 版本的 Firefox 可用，但只要 Firefox 正在运行，它就不会自动安装。
 
 
-![Firefox snap won’t be updated automatically if the browser is running](/Asserts/Images//attachment/album/202208/08/154845ztsnhente36q03c6.png)
+![Firefox snap won’t be updated automatically if the browser is running](/Asserts/Images/album/202208/08/154845ztsnhente36q03c6.png)
 
 
 #### 更新 Firefox Snap
@@ -113,13 +113,13 @@ sudo snap refresh
 你会看到它开始下载更新的 Firefox 包。
 
 
-![Firefox is being updated with Snap](/Asserts/Images//attachment/album/202208/08/154845x1bli1eilqj12fnz.png)
+![Firefox is being updated with Snap](/Asserts/Images/album/202208/08/154845x1bli1eilqj12fnz.png)
 
 
 更新完成后，你将看到 Firefox 已升级到更新版本的摘要信息。
 
 
-![Updated Firefox snap version](/Asserts/Images//attachment/album/202208/08/154846d4mbddly1mo4pqsd.png)
+![Updated Firefox snap version](/Asserts/Images/album/202208/08/154846d4mbddly1mo4pqsd.png)
 
 
 ### 总结

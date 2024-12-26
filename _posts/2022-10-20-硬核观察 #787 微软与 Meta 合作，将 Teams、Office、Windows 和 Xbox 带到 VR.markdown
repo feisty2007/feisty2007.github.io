@@ -7,10 +7,10 @@ tags:	[linuxcn,元宇宙,VR,网络带宽,温室气体]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/12/164519ezzpk5733ralufsa.jpg)
+![](/Asserts/Images/album/202210/12/164519ezzpk5733ralufsa.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/12/164511jtrtogt1bpwhzf0c.jpg)
+![](/Asserts/Images/album/202210/12/164511jtrtogt1bpwhzf0c.jpg)
 
 
 ### 微软与 Meta 合作，将 Teams、Office、Windows 和 Xbox 带到 VR
@@ -35,7 +35,7 @@ tags:	[linuxcn,元宇宙,VR,网络带宽,温室气体]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/12/164531d15z9dz2qfff39uf.jpg)
+![](/Asserts/Images/album/202210/12/164531d15z9dz2qfff39uf.jpg)
 
 
 ### 美国能源科学网络 ESnet6 带宽升至 46Tbps
@@ -60,7 +60,7 @@ tags:	[linuxcn,元宇宙,VR,网络带宽,温室气体]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/12/164544yuug0c2rga5g5ou8.jpg)
+![](/Asserts/Images/album/202210/12/164544yuug0c2rga5g5ou8.jpg)
 
 
 ### 新西兰计划对农场动物打嗝、撒尿征税

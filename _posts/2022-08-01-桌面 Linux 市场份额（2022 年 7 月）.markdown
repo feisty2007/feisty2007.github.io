@@ -15,7 +15,7 @@ tags:	[linuxcn,桌面 Linux,市场份额]
 > 
 
 
-![linux desktop market share](/Asserts/Images//attachment/album/202208/22/160711vg1nrjfz9skxjefr.jpg)
+![linux desktop market share](/Asserts/Images/album/202208/22/160711vg1nrjfz9skxjefr.jpg)
 
 
 当然，Linux 主导着整个云行业（Web 托管、云计算、数据仓库等）。在这里，我们只关注桌面 Linux 的市场份额。

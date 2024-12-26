@@ -7,7 +7,7 @@ tags:	[linuxcn,开源设计]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/20/111940b4200cp8oouxpkbp.jpg)
+![](/Asserts/Images/album/202304/20/111940b4200cp8oouxpkbp.jpg)
 
 
 

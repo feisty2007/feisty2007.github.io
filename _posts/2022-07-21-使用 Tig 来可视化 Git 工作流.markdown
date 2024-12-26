@@ -7,7 +7,7 @@ tags:	[linuxcn,Git,Tig]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/09/123419u39t3jz9gzc6345t.jpg)
+![](/Asserts/Images/album/202207/09/123419u39t3jz9gzc6345t.jpg)
 
 
 
@@ -74,7 +74,7 @@ ab4d14... refs/remotes/origin/1160-release-on-bare-metal-servers
 使用 Tig，你可以在可滚动列表中获取该信息以及更多信息，此外还可以使用键盘快捷键来打开其他视图，其中包含每个引用的详细信息。
 
 
-![](/Asserts/Images//attachment/album/202207/09/123424nqwgov16oei1gax3.png)
+![](/Asserts/Images/album/202207/09/123424nqwgov16oei1gax3.png)
 
 
 ### 分页模式

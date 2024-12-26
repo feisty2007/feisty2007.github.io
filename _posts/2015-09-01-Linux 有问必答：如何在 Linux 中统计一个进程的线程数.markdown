@@ -48,7 +48,7 @@ $ cat /proc/20571/status
 
 ```
 
-![](/Asserts/Images//attachment/album/201509/17/102919l37w6x2y2gcss686.jpg)
+![](/Asserts/Images/album/201509/17/102919l37w6x2y2gcss686.jpg)
 
 
 输出表明该进程有28个线程。

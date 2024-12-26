@@ -7,7 +7,7 @@ tags:	[linuxcn,LinuxCon]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/23/124940cjinzzexrr9ez9rn.jpg)
+![](/Asserts/Images/album/201706/23/124940cjinzzexrr9ez9rn.jpg)
 
 
 LinuxCon 2017 （北京）已经结束几天了，一些不能现场亲临的朋友纷纷询问有无 LC3 大会的重头戏 Linus Torvalds 专访的视频，也有在现场看了讲演而意犹未尽的同学希望进一步看到演讲稿。

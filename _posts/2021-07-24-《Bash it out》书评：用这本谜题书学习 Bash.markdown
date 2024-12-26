@@ -15,7 +15,7 @@ tags:	[linuxcn,Bash,书评]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/03/154134jgm2m82o76mrm2o7.jpg "Puzzle pieces coming together to form a computer screen")
+![](/Asserts/Images/album/202107/03/154134jgm2m82o76mrm2o7.jpg "Puzzle pieces coming together to form a computer screen")
 
 
 计算机既是我的爱好，也是我的职业。我的公寓里散布着大约 10 台计算机，它们都运行 Linux（包括我的 Mac）。由于我喜欢升级我的电脑和提升我的电脑技能，当我遇到 Sylvain Leroux 的《[Bash it out](https://www.amazon.com/Bash-Out-Strengthen-challenges-difficulties/dp/1521773262/)》时，我抓住了购买它的机会。我在 Debian Linux 上经常使用命令行，这似乎是扩展我的 Bash 知识的好机会。当作者在前言中解释他使用 Debian Linux 时，我笑了，这是我最喜欢的两个发行版之一。
@@ -27,10 +27,10 @@ Bash 可让你自动执行任务，因此它是一种省力、有趣且有用的
 以下屏幕截图显示了 EndeavourOS 的一些选项。你可能不相信，这些面板只指向 Bash 脚本，每个脚本都完成一些相对复杂的任务。而且因为它都是开源的，所以我可以根据需要修改这些脚本中的任何一个。
 
 
-![EndeavourOS after install](/Asserts/Images//attachment/album/202107/03/154143wg356agqysgigks1.png "EndeavourOS after install")
+![EndeavourOS after install](/Asserts/Images/album/202107/03/154143wg356agqysgigks1.png "EndeavourOS after install")
 
 
-![EndeavourOS install apps](/Asserts/Images//attachment/album/202107/03/154143f993g989l9ujutii.png "EndeavourOS install apps")
+![EndeavourOS install apps](/Asserts/Images/album/202107/03/154143f993g989l9ujutii.png "EndeavourOS install apps")
 
 
 ### 总有东西要学

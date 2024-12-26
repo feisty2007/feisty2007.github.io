@@ -7,7 +7,7 @@ tags:	[linuxcn,Minecraft,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/26/113856g4frtblrhlrbzldd.jpg)
+![](/Asserts/Images/album/202007/26/113856g4frtblrhlrbzldd.jpg)
 
 
 #### 现在你可以在《Minecraft》内启动 Windows 95 计算机，并在上面玩 Doom

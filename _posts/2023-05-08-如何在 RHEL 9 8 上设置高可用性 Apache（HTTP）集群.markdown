@@ -7,7 +7,7 @@ tags:	[linuxcn,集群,Pacemaker]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/29/172810i24a4jppa4744avv.jpg)
+![](/Asserts/Images/album/202305/29/172810i24a4jppa4744avv.jpg)
 
 
 
@@ -92,7 +92,7 @@ $ sudo dnf install pcs pacemaker fence-agents-all -y
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/29/173049abnmgf6zg73gbm1w.jpg)
+![](/Asserts/Images/album/202305/29/173049abnmgf6zg73gbm1w.jpg)
 
 
 ### 3、在防火墙中允许高可用端口
@@ -145,7 +145,7 @@ $ sudo pcs host auth node1.example.com node2.example.com
 使用 `hacluster` 用户进行身份验证。
 
 
-![](/Asserts/Images//attachment/album/202305/29/173101ngnfgtqfftxgvxpy.jpg)
+![](/Asserts/Images/album/202305/29/173101ngnfgtqfftxgvxpy.jpg)
 
 
 使用下面的 `pcs cluster setup` 命令将两个节点添加到集群，这里我使用的集群名称为 `http_cluster`。仅在 `node1` 上运行命令：
@@ -161,7 +161,7 @@ $ sudo pcs cluster enable --all
 这两个命令的输出如下所示：
 
 
-![](/Asserts/Images//attachment/album/202305/29/173111q58q3f5gs2glz2iq.jpg)
+![](/Asserts/Images/album/202305/29/173111q58q3f5gs2glz2iq.jpg)
 
 
 从任何节点验证初始集群状态：
@@ -173,7 +173,7 @@ $ sudo pcs cluster status
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/29/173349qavgniatgnnwo6qi.jpg)
+![](/Asserts/Images/album/202305/29/173349qavgniatgnnwo6qi.jpg)
 
 
 注意：在我们的实验室中，我们没有任何防护设备，因此我们将其禁用。但在生产环境中，强烈建议配置防护。
@@ -217,7 +217,7 @@ $ sudo mkfs.xfs /dev/vg01/lv01
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/29/173411j50z7o964b0s6s40.jpg)
+![](/Asserts/Images/album/202305/29/173411j50z7o964b0s6s40.jpg)
 
 
 将共享设备添加到集群第二个节点（`node2.example.com`）上的 LVM 设备文件中，仅在 `node2` 上运行以下命令：
@@ -294,7 +294,7 @@ $
 保存并退出文件。
 
 
-![](/Asserts/Images//attachment/album/202305/29/173439emr4ui8uf8rm8wzc.jpg)
+![](/Asserts/Images/album/202305/29/173439emr4ui8uf8rm8wzc.jpg)
 
 
 ### 8、为 Apache 创建一个示例网页
@@ -353,7 +353,7 @@ $ sudo pcs resource create Website apache configfile="/etc/httpd/conf/httpd.conf
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/29/173458gcpjkcz01sgpzv0c.jpg)
+![](/Asserts/Images/album/202305/29/173458gcpjkcz01sgpzv0c.jpg)
 
 
 现在验证集群资源状态，运行：
@@ -365,7 +365,7 @@ $ sudo pcs status
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/29/173515q3kkq5295zy9kh5y.jpg)
+![](/Asserts/Images/album/202305/29/173515q3kkq5295zy9kh5y.jpg)
 
 
 很好，上面的输出显示所有资源都在 `node1` 上启动。
@@ -386,13 +386,13 @@ $ curl http://192.168.1.81
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/29/173530i9dpgee7h8dpy7lg.jpg)
+![](/Asserts/Images/album/202305/29/173530i9dpgee7h8dpy7lg.jpg)
 
 
 或者
 
 
-![](/Asserts/Images//attachment/album/202305/29/173540oe1kuy28yz1fyege.jpg)
+![](/Asserts/Images/album/202305/29/173540oe1kuy28yz1fyege.jpg)
 
 
 完美！以上输出确认我们能够访问我们高可用 Apache 集群的网页。
@@ -408,7 +408,7 @@ $ sudo pcs status
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/29/173550mc7hkygbkdtd77th.jpg)
+![](/Asserts/Images/album/202305/29/173550mc7hkygbkdtd77th.jpg)
 
 
 完美，以上输出确认集群资源已从 `node1` 迁移到 `node2`。
@@ -423,7 +423,7 @@ $ sudo pcs node unstandby node1.example.com
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/29/173601nzg634au4jgd8g82.jpg)
+![](/Asserts/Images/album/202305/29/173601nzg634au4jgd8g82.jpg)
 
 
 以上就是这篇文章的全部内容，我希望你发现它提供了丰富的信息，请在下面的评论部分中发表你的疑问和反馈。

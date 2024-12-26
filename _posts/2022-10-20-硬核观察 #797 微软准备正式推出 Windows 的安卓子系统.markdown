@@ -7,10 +7,10 @@ tags:	[linuxcn,安卓,AI,软件供应链]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/22/182539duf4jfflmdzhzgz7.jpg)
+![](/Asserts/Images/album/202210/22/182539duf4jfflmdzhzgz7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/22/182546tp8unwu88kxlqbbj.jpg)
+![](/Asserts/Images/album/202210/22/182546tp8unwu88kxlqbbj.jpg)
 
 
 ### 微软准备正式推出 Windows 的安卓子系统
@@ -35,7 +35,7 @@ tags:	[linuxcn,安卓,AI,软件供应链]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/22/182555aizwd5sfh4itg43d.jpg)
+![](/Asserts/Images/album/202210/22/182555aizwd5sfh4itg43d.jpg)
 
 
 ### 利用智能手机预测死亡风险
@@ -60,7 +60,7 @@ tags:	[linuxcn,安卓,AI,软件供应链]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/22/182614icw6f66wyvi92nn2.jpg)
+![](/Asserts/Images/album/202210/22/182614icw6f66wyvi92nn2.jpg)
 
 
 ### 谷歌上线软件供应链管理项目 GUAC

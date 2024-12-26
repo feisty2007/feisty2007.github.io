@@ -7,7 +7,7 @@ tags:	[linuxcn,CPU,MINIX]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/08/002801dk99olicslr93ql9.jpg)
+![](/Asserts/Images/album/201711/08/002801dk99olicslr93ql9.jpg)
 
 
 ### 运行在“Ring -3” 的 MINIX

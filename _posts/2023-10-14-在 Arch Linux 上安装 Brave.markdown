@@ -7,7 +7,7 @@ tags:	[linuxcn,Brave]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/17/103648le2r0e688pef1v22.jpg)
+![](/Asserts/Images/album/202310/17/103648le2r0e688pef1v22.jpg)
 
 
 
@@ -80,7 +80,7 @@ yay -S brave-bin
 如果这是你第一次安装浏览器，系统可能会要求你选择字体提供方。使用默认选择或选择任何其他选项。
 
 
-![](/Asserts/Images//attachment/album/202310/17/103837ipp9rlttr0gmcctr.png)
+![](/Asserts/Images/album/202310/17/103837ipp9rlttr0gmcctr.png)
 
 
 接下来，它会询问你有关清理构建的问题。Yay 询问你是否应该重新下载软件包（和依赖项）并再次构建它或使用早期构建的缓存（如果有）。
@@ -89,7 +89,7 @@ yay -S brave-bin
 你可以按回车键继续操作，这应该意味着不清理构建。
 
 
-![](/Asserts/Images//attachment/album/202310/17/103838fcdl6mflwf9ah6tq.png)
+![](/Asserts/Images/album/202310/17/103838fcdl6mflwf9ah6tq.png)
 
 
 事实上，当你看到默认选项时，你可以继续按回车键。
@@ -98,13 +98,13 @@ yay -S brave-bin
 在实际安装之前，系统会要求你输入帐户密码。输入你的密码并继续该过程。它将下载大小约为 350 MB 的文件：
 
 
-![](/Asserts/Images//attachment/album/202310/17/103838qyzf2vqbsdv7a5vw.png)
+![](/Asserts/Images/album/202310/17/103838qyzf2vqbsdv7a5vw.png)
 
 
 安装后，在系统菜单中查找 [Brave browser](https://brave.com/) 并从那里运行它。
 
 
-![](/Asserts/Images//attachment/album/202310/17/103838k46md8u4i6zuals2.png)
+![](/Asserts/Images/album/202310/17/103838k46md8u4i6zuals2.png)
 
 
 ### 保持 Brave 更新
@@ -146,7 +146,7 @@ AUR 再次拯救你！ 安装 Brave 变得非常简单。
 我必须通过右键单击图像并选择“打开方式”选项再次将图像查看器设置为默认值。
 
 
-![Somehow Brave becomes the default image viewer. You should change it](/Asserts/Images//attachment/album/202310/17/103839m31iwwhqqjjlvvw8.png)
+![Somehow Brave becomes the default image viewer. You should change it](/Asserts/Images/album/202310/17/103839m31iwwhqqjjlvvw8.png)
 
 
 在接下来的几天里，我将分享更多我的 Arch 经验。敬请关注！

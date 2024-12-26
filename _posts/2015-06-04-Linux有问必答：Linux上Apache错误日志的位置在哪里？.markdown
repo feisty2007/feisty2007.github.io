@@ -21,7 +21,7 @@ tags:	[linuxcn,Apache,日志]
 本文可以帮助你**找到Linux上的Apache错误日志**。
 
 
-![](/Asserts/Images//attachment/album/201506/20/072012ngyjhs11fwfsz80g.jpg)
+![](/Asserts/Images/album/201506/20/072012ngyjhs11fwfsz80g.jpg)
 
 
 ### Debian，Ubuntu或Linux Mint上的Apache错误日志位置

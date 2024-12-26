@@ -7,7 +7,7 @@ tags:	[linuxcn,攻击,黑客]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/18/111012dva6476uppunh84r.jpg)
+![](/Asserts/Images/album/201905/18/111012dva6476uppunh84r.jpg)
 
 
 Stack Overflow 是面向编程和开发相关话题的互联网最大 IT 技术问答网站。在其官网上发布的一则简短公告中表示，有黑客访问了公司的内部网络。Stack Overflow 工程副总裁 Mary Ferguson 表示：“上周末，Stack Overflow 遭到了网络攻击。”

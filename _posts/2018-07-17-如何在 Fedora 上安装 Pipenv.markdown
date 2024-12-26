@@ -7,7 +7,7 @@ tags:	[linuxcn,Pipenv,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/11/150156gtptutmuktkpo85p.jpg)
+![](/Asserts/Images/album/201807/11/150156gtptutmuktkpo85p.jpg)
 
 
 Pipenv 的目标是将打包界（bundler、composer、npm、cargo、yarn 等）最好的东西带到 Python 世界来。它试图解决一些问题，并简化整个管理过程。

@@ -25,7 +25,7 @@ tags:	[linuxcn,GIMP,Photoshop]
 ### PhotoGIMP：在 Linux 中为 GIMP 提供 Adobe Photoshop 的外观
 
 
-![](/Asserts/Images//attachment/album/202007/02/111133mcsfnebndejb1dbr.jpg)
+![](/Asserts/Images/album/202007/02/111133mcsfnebndejb1dbr.jpg)
 
 
 [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) 不是独立的图形软件。它是 GIMP 2.10 的补丁。你需要在系统上安装 GIMP 才能使用 PhotoGIMP。
@@ -73,7 +73,7 @@ PhotoGIMP 本质是一个补丁。在 Linux 中下载并[解压 zip 文件](http
 这是打了 PhotoGIMP 补丁后的 GIMP 界面：
 
 
-![](/Asserts/Images//attachment/album/202007/02/111145z5z1cq6gzgqnouqh.jpg)
+![](/Asserts/Images/album/202007/02/111145z5z1cq6gzgqnouqh.jpg)
 
 
 我尝试了几个 Photoshop 快捷键来检查它所做的更改，一切似乎可以正常工作。

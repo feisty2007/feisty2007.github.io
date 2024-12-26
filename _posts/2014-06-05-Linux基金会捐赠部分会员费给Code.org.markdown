@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/08/001829d9cc7d3r755c3b3q.png)
+![](/Asserts/Images/album/201406/08/001829d9cc7d3r755c3b3q.png)
 
 
 Linux基金会[宣布](http://www.linuxfoundation.org/news-media/announcements/2014/06/linux-foundations-biannual-membership-drive-kicks-portion-dues)鉴于年中个别成员的努力和推广。对于每一位在2014年6月1日到6月30日晚上11:59之间加入的新会员，Code.org将会得到25美元。

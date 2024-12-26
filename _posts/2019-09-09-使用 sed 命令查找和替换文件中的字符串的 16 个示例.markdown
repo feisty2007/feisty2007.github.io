@@ -7,7 +7,7 @@ tags:	[linuxcn,sed]
 ---
 
 
-![](/Asserts/Images//attachment/album/201909/20/210723xf884pafyzf9zf4a.jpg)
+![](/Asserts/Images/album/201909/20/210723xf884pafyzf9zf4a.jpg)
 
 
 当你在使用文本文件时，很可能需要查找和替换文件中的字符串。`sed` 命令主要用于替换一个文件中的文本。在 Linux 中这可以通过使用 `sed` 命令和 `awk` 命令来完成。

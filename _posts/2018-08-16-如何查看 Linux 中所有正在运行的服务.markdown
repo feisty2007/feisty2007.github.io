@@ -7,7 +7,7 @@ tags:	[linuxcn,服务]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/14/100502f0es3ysz3e0ekeyi.jpg)
+![](/Asserts/Images/album/201808/14/100502f0es3ysz3e0ekeyi.jpg)
 
 
 有许多方法和工具可以查看 Linux 中所有正在运行的服务。大多数管理员会在 System V（SysV）初始化系统中使用 `service service-name status` 或 `/etc/init.d/service-name status`，而在 systemd 初始化系统中使用 `systemctl status service-name`。
@@ -630,13 +630,13 @@ systemd─┬─ModemManager─┬─{gdbus}
 
 ```
 
-![](/Asserts/Images//attachment/album/201808/14/100535c5jj5j4tya55lygi.png)
+![](/Asserts/Images/album/201808/14/100535c5jj5j4tya55lygi.png)
 
 
 要查看帮助页面，请按下 `?` ，它将显示管理 systemd 服务的可用选项。
 
 
-![](/Asserts/Images//attachment/album/201808/14/100535tyyxunaggdtwpkwk.png)
+![](/Asserts/Images/album/201808/14/100535tyyxunaggdtwpkwk.png)
 
 
 

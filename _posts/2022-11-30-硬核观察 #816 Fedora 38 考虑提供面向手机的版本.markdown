@@ -7,10 +7,10 @@ tags:	[linuxcn,DNS,SEO,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/10/105256sj3dv99sfjrpjr3w.jpg)
+![](/Asserts/Images/album/202211/10/105256sj3dv99sfjrpjr3w.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/10/105308z763ishcmishxhsf.jpg)
+![](/Asserts/Images/album/202211/10/105308z763ishcmishxhsf.jpg)
 
 
 ### Fedora 38 考虑提供面向手机的版本
@@ -35,7 +35,7 @@ tags:	[linuxcn,DNS,SEO,Fedora]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/10/105319qjjqbeljpqsvdmj7.jpg)
+![](/Asserts/Images/album/202211/10/105319qjjqbeljpqsvdmj7.jpg)
 
 
 ### 罗马法院要求 Cloudflare 的 DNS 封锁 BT 网站
@@ -60,7 +60,7 @@ tags:	[linuxcn,DNS,SEO,Fedora]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/10/105333u3mty066v9keyc6t.jpg)
+![](/Asserts/Images/album/202211/10/105333u3mty066v9keyc6t.jpg)
 
 
 ### 15000 个网站被黑帽 SEO 利用

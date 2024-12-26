@@ -122,25 +122,25 @@ $ apt-get install nuvolaplayer-flashplugin
 ### Nuvola Player美图欣赏
 
 
-![Nuvola Player Services](/Asserts/Images//attachment/album/201406/26/231933yjz8tpkkv6zfk359.jpeg) 选择音乐服务
+![Nuvola Player Services](/Asserts/Images/album/201406/26/231933yjz8tpkkv6zfk359.jpeg) 选择音乐服务
 
 
-![Grooveshark Music Service](/Asserts/Images//attachment/album/201406/26/231935obhr8rcxqrvvqiqo.jpeg) Grooveshark音乐服务
+![Grooveshark Music Service](/Asserts/Images/album/201406/26/231935obhr8rcxqrvvqiqo.jpeg) Grooveshark音乐服务
 
 
-![Grooveshark Playing Music](/Asserts/Images//attachment/album/201406/26/231938zy5a12ek19qi32yq.jpeg) Grooveshark播放音乐
+![Grooveshark Playing Music](/Asserts/Images/album/201406/26/231938zy5a12ek19qi32yq.jpeg) Grooveshark播放音乐
 
 
-![Nuvola Player Preferences](/Asserts/Images//attachment/album/201406/26/231940lq40j3qlf13lq1ti.jpeg) Nuvola Player首选项
+![Nuvola Player Preferences](/Asserts/Images/album/201406/26/231940lq40j3qlf13lq1ti.jpeg) Nuvola Player首选项
 
 
-![Google Play Music](/Asserts/Images//attachment/album/201406/26/231942zgb4mdlcpj4ckhzl.jpeg) Google Play音乐
+![Google Play Music](/Asserts/Images/album/201406/26/231942zgb4mdlcpj4ckhzl.jpeg) Google Play音乐
 
 
-![Rdio Music Service](/Asserts/Images//attachment/album/201406/26/231945d7vn95b2kvtnn76t.jpeg) Rdio音乐服务
+![Rdio Music Service](/Asserts/Images/album/201406/26/231945d7vn95b2kvtnn76t.jpeg) Rdio音乐服务
 
 
-![About Nuvola Player](/Asserts/Images//attachment/album/201406/26/231947n555wcdsd0buv57u.jpeg) 关于Nuvola Player
+![About Nuvola Player](/Asserts/Images/album/201406/26/231947n555wcdsd0buv57u.jpeg) 关于Nuvola Player
 
 
 对于其它Linux发行版，你可以从 Nuvola Player[启动板下载](https://launchpad.net/nuvola-player/+download)页下载源码tarball。

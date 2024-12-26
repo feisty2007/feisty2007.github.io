@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,间谍软件,PC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/30/144921he87mgdl774k1g4k.jpg)
+![](/Asserts/Images/album/202308/30/144921he87mgdl774k1g4k.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/30/144935hhllxc11lx44497h.jpg)
+![](/Asserts/Images/album/202308/30/144935hhllxc11lx44497h.jpg)
 
 
 ### 谷歌推出用 AI 给 AIGC 图像加水印的工具
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,间谍软件,PC]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/30/144949m1dff11d1mffmard.jpg)
+![](/Asserts/Images/album/202308/30/144949m1dff11d1mffmard.jpg)
 
 
 ### 黑客清除了 7.5 万部手机上的跟踪间谍软件
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,间谍软件,PC]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/30/145005q9ovi667ou6ui7in.jpg)
+![](/Asserts/Images/album/202308/30/145005q9ovi667ou6ui7in.jpg)
 
 
 ### IDC 称 “PC 之死” 的报道被严重夸大

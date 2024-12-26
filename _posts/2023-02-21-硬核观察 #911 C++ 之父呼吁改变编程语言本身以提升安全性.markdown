@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows,语音助手]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/13/175209v9watxdtpl8vz89l.jpg)
+![](/Asserts/Images/album/202302/13/175209v9watxdtpl8vz89l.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/13/175227tbggggthgfoh1i10.jpg)
+![](/Asserts/Images/album/202302/13/175227tbggggthgfoh1i10.jpg)
 
 
 ### C++ 之父呼吁改变编程语言本身以提升安全性
@@ -35,7 +35,7 @@ tags:	[linuxcn,Windows,语音助手]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/13/175241ydm7cjmmm0gaaqg6.jpg)
+![](/Asserts/Images/album/202302/13/175241ydm7cjmmm0gaaqg6.jpg)
 
 
 ### 全新 Windows 11 就会为向第三方发送用户数据
@@ -60,7 +60,7 @@ tags:	[linuxcn,Windows,语音助手]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/13/175256leihqmjh0wz872vh.jpg)
+![](/Asserts/Images/album/202302/13/175256leihqmjh0wz872vh.jpg)
 
 
 ### 开源语音助手 Mycroft 资金耗尽

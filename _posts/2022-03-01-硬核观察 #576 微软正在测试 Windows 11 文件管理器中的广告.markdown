@@ -7,10 +7,10 @@ tags:	[linuxcn,微软,幽灵缺陷,量子计算机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/15/175950qrdddapfvbrods7d.jpg)
+![](/Asserts/Images/album/202203/15/175950qrdddapfvbrods7d.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/15/175959vuj8xdzdpuudrffo.jpg)
+![](/Asserts/Images/album/202203/15/175959vuj8xdzdpuudrffo.jpg)
 
 
 ### 微软正在测试 Windows 11 文件管理器中的广告
@@ -27,7 +27,7 @@ tags:	[linuxcn,微软,幽灵缺陷,量子计算机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/15/180030y4yj3kgfn9m39839.jpg)
+![](/Asserts/Images/album/202203/15/180030y4yj3kgfn9m39839.jpg)
 
 
 ### 英特尔发现了 AMD 幽灵缺陷的缓解措施存在漏洞
@@ -44,7 +44,7 @@ tags:	[linuxcn,微软,幽灵缺陷,量子计算机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/15/180009d1yjfv4cbyncwafy.jpg)
+![](/Asserts/Images/album/202203/15/180009d1yjfv4cbyncwafy.jpg)
 
 
 ### 微软声称在量子计算机系统方面取得突破

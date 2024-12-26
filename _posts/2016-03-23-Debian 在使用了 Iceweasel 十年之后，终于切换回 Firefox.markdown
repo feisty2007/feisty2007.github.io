@@ -18,7 +18,7 @@ tags:	[linuxcn,Firefox]
 一些 Linux 老用户都知道 Debian GNU/Linux 系统以及它的一些衍生发行版采用 Iceweasel 作为默认浏览器。
 
 
-![](/Asserts/Images//attachment/album/201603/13/164554tf0ve4s0re0whvq0.png)
+![](/Asserts/Images/album/201603/13/164554tf0ve4s0re0whvq0.png)
 
 
 Iceweasel 是著名的 Mozilla Firefox 浏览器的一个分叉衍生版本，而 Debian 使用 Iceweasel 已经很久了。大概从 2006 年 2 月开始，Debian 开发者们由于 Firefox Logo 的商标问题，而[被迫](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=354622)将 Firefox 重新包装成 Iceweasel。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes,容器]
 > 
 
 
-![](/Asserts/Images//attachment/album/201711/18/113130tep9pppxn3cejt6e.jpg)
+![](/Asserts/Images/album/201711/18/113130tep9pppxn3cejt6e.jpg)
 
 
 通过《[面向 Java 开发者的 Kubernetes](https://www.nginx.com/resources/library/kubernetes-for-java-developers/)》，学习基本的 Kubernetes 概念和自动部署、维护和扩展你的 Java 应用程序的机制。[下载该电子书的免费副本](https://www.nginx.com/resources/library/kubernetes-for-java-developers/)
@@ -30,7 +30,7 @@ tags:	[linuxcn,Kubernetes,容器]
 我们将打包进容器，并且部署在 Kubernetes 上的 “Docker Java Shopfront” 应用程序的架构，如下面的图所示：
 
 
-![](/Asserts/Images//attachment/album/201711/18/113134l77ym6v7p7fbvmjp.png)
+![](/Asserts/Images/album/201711/18/113134l77ym6v7p7fbvmjp.png)
 
 
 在我们开始去创建一个所需的 Kubernetes 部署配置文件之前，让我们先学习一下关于容器编排平台中的一些核心概念。
@@ -334,7 +334,7 @@ $ minikube service shopfront
 如果一切正常，你将在浏览器中看到如下的页面：
 
 
-![](/Asserts/Images//attachment/album/201711/18/113137ch1cn4ohd8niniz4.png)
+![](/Asserts/Images/album/201711/18/113137ch1cn4ohd8niniz4.png)
 
 
 ### 结论

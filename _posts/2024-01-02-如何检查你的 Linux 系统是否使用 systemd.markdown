@@ -7,7 +7,7 @@ tags:	[linuxcn,初始化,systemd]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/17/080808gtpgc9rvxxifjx7m.jpg)
+![](/Asserts/Images/album/202401/17/080808gtpgc9rvxxifjx7m.jpg)
 
 
 
@@ -75,13 +75,13 @@ stat /sbin/init
 如果你使用的是 systemd 支持的发行版，那么它将显示以下输出：
 
 
-![](/Asserts/Images//attachment/album/202401/17/080833uv5z353fwfokhz4v.png)
+![](/Asserts/Images/album/202401/17/080833uv5z353fwfokhz4v.png)
 
 
 但是，如果你使用 systemd 之外的其他任何东西，它将显示初始化系统的名称，但是如果你使用的是 SysVinit，它只会显示 `init` 而不是 `sysvinit`：
 
 
-![SysVinit only displays "init" instead of sysvinit](/Asserts/Images//attachment/album/202401/17/080833unmh33sxnb3y636n.png)
+![SysVinit only displays "init" instead of sysvinit](/Asserts/Images/album/202401/17/080833unmh33sxnb3y636n.png)
 
 
 ### 方法 2：使用 readlink 命令检查初始化系统
@@ -99,19 +99,19 @@ readlink /sbin/init
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/17/080833b2c0plzgpzngu0qk.png)
+![](/Asserts/Images/album/202401/17/080833b2c0plzgpzngu0qk.png)
 
 
 如果你使用 [OpenRC 初始化访问](https://wiki.gentoo.org/wiki/OpenRC/openrc-init)，那么它将显示以下输出：
 
 
-![](/Asserts/Images//attachment/album/202401/17/080834cfzx4xyyzn0y88yr.png)
+![](/Asserts/Images/album/202401/17/080834cfzx4xyyzn0y88yr.png)
 
 
 但如果你使用 SysVinit，那么它会显示以下输出：
 
 
-![](/Asserts/Images//attachment/album/202401/17/080834fzw7vxarwx9wdwr7.png)
+![](/Asserts/Images/album/202401/17/080834fzw7vxarwx9wdwr7.png)
 
 
 ### 我为你写的小“脚本”
@@ -129,7 +129,7 @@ if [ -d /run/systemd/system ]; then echo "System is running systemd"; else echo 
 
 ```
 
-![](/Asserts/Images//attachment/album/202401/17/080835v96e38q4jr4rf8x9.png)
+![](/Asserts/Images/album/202401/17/080835v96e38q4jr4rf8x9.png)
 
 
 ### 有关 systemd 的更多信息

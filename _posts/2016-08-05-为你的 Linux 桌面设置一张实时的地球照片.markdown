@@ -7,7 +7,7 @@ tags:	[linuxcn,Himawaripy,桌面,背景]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/31/190524pj8xsszjd5eexvck.jpg)
+![](/Asserts/Images/album/201607/31/190524pj8xsszjd5eexvck.jpg)
 
 
 厌倦了看同样的桌面背景了么？这里有一个（可能是）世界上最棒的东西。
@@ -89,7 +89,7 @@ himawaripy
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/31/190640myl42yhb7bbo3lhd.png)
+![](/Asserts/Images/album/201607/31/190640myl42yhb7bbo3lhd.png)
 
 
 5、 设置定时任务

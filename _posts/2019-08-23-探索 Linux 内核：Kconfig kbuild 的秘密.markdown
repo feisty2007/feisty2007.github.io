@@ -15,7 +15,7 @@ tags:	[linuxcn,内核]
 > 
 
 
-![](/Asserts/Images//attachment/album/201908/15/093935dvyk5znoaooaooba.jpg)
+![](/Asserts/Images/album/201908/15/093935dvyk5znoaooaooba.jpg)
 
 
 自从 Linux 内核代码迁移到 Git 以来，Linux 内核配置/构建系统（也称为 Kconfig/kbuild）已存在很长时间了。然而，作为支持基础设施，它很少成为人们关注的焦点；甚至在日常工作中使用它的内核开发人员也从未真正思考过它。
@@ -65,7 +65,7 @@ tags:	[linuxcn,内核]
 大多数配置目标具有大致相同的内部过程（如下所示）：
 
 
-![](/Asserts/Images//attachment/album/201908/15/094007pyitxql4sq42x9qf.png)
+![](/Asserts/Images/album/201908/15/094007pyitxql4sq42x9qf.png)
 
 
 请注意，所有配置项都具有默认值。
@@ -91,7 +91,7 @@ tags:	[linuxcn,内核]
 以下是 `syncconfig` 的作用：
 
 
-![](/Asserts/Images//attachment/album/201908/15/094007x7z8998x7r0f48iy.png)
+![](/Asserts/Images/album/201908/15/094007x7z8998x7r0f48iy.png)
 
 
 `syncconfig` 将 `.config` 作为输入并输出许多其他文件，这些文件分为三类：
@@ -127,7 +127,7 @@ kbuild 指向到不同类型的 makefile：
 作为一个例子，让我们看看如何在 x86-64 上生成 `vmlinux`：
 
 
-![vmlinux overview](/Asserts/Images//attachment/album/201908/15/094008erqyz6d6cttg6tz2.png "vmlinux overview")
+![vmlinux overview](/Asserts/Images/album/201908/15/094008erqyz6d6cttg6tz2.png "vmlinux overview")
 
 
 （此插图基于 Richard Y. Steven 的[博客](https://blog.csdn.net/richardysteven/article/details/52502734)。有过更新，并在作者允许的情况下使用。）
@@ -201,7 +201,7 @@ make -f scripts/Makefile.build obj=init need-builtin=1
 许多 Linux 内核开发人员可能不清楚 `vmlinux` 和 `bzImage` 之间的关系。例如，这是他们在 x86-64 中的关系：
 
 
-![](/Asserts/Images//attachment/album/201908/15/094009rbakjbua0qne0umn.png)
+![](/Asserts/Images/album/201908/15/094009rbakjbua0qne0umn.png)
 
 
 源代码根目录下的 `vmlinux` 被剥离、压缩后，放入 `piggy.S`，然后与其他对等对象链接到 `arch/x86/boot/compressed/vmlinux`。同时，在 `arch/x86/boot` 下生成一个名为 `setup.bin` 的文件。可能有一个可选的第三个文件，它带有重定位信息，具体取决于 `CONFIG_X86_NEED_RELOCS` 的配置。

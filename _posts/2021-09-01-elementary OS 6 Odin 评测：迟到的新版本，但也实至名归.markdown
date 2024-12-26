@@ -15,7 +15,7 @@ tags:	[linuxcn,elementaryOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/01/095116zk73wcc4g5clnvq8.jpg)
+![](/Asserts/Images/album/202109/01/095116zk73wcc4g5clnvq8.jpg)
 
 
 elementary OS 的粉丝们焦急等待 elementary OS 6 Odin 发布已经将近两年了。如此焦急的原因，主要在于早期版本 elementary OS 5.1 的内核和软件包在 2021 年来说过于陈旧。而且，这一旧版本基于 Ubuntu 18.04 LTS 构建。因此，用户都急切地等待着基于 Ubuntu 20.04 LTS 的全新版本 —— 最重要的是，Ubutnu 20.04 LTS 已经发布一年，接下来也将有下一个 LTS 版本发布。
@@ -30,7 +30,7 @@ elementary OS 的粉丝们焦急等待 elementary OS 6 Odin 发布已经将近�
 于是，我在一周前为一台旧设备（我知道新设备的体验会更好）安装了 elementary OS 6 Odin，下面就是测评。
 
 
-![elementary OS 6 Odin 的桌面](/Asserts/Images//attachment/album/202109/01/095126pd9b9509fe4ff7f5.jpg)
+![elementary OS 6 Odin 的桌面](/Asserts/Images/album/202109/01/095126pd9b9509fe4ff7f5.jpg)
 
 
 ### elementary OS 6 Odin 测评
@@ -71,7 +71,7 @@ elementary OS 的粉丝们焦急等待 elementary OS 6 Odin 发布已经将近�
 在近乎闲置的情况下，CPU 使用率处在 5%-10% 之间，内存占用约为 900 MB。CPU / 内存的消耗主要分配在 Gala（Pantheon 的窗口管理器）、Wingpanel（顶栏）和应用中心。
 
 
-![elementary OS 6 的系统性能](/Asserts/Images//attachment/album/202109/01/095126rv2xmpcz875sxhus.jpg)
+![elementary OS 6 的系统性能](/Asserts/Images/album/202109/01/095126rv2xmpcz875sxhus.jpg)
 
 
 考虑到系统的视觉效果，我认为这些占用数据也十分合理。不过，当你打开更多软件，例如 LibreOffice、Chrome、Kdenlive 之后，消耗的资源肯定会更多。

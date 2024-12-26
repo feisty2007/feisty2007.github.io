@@ -7,7 +7,7 @@ tags:	[linuxcn,Gherkin,Cucumber]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/13/095911rawwca1qfjfhjooj.jpg)
+![](/Asserts/Images/album/202308/13/095911rawwca1qfjfhjooj.jpg)
 
 
 

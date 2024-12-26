@@ -54,15 +54,15 @@ PlayOnLinux 对于不同的 Linux 操作系统有不同的版本，所以大家�
 现在您应该在您的系统中有一个 .exe 的安装文件包。右键点击它，然后从对应菜单中选择“Open With Wine Windows Program Loader”
 
 
-[![](/Asserts/Images//attachment/album/201206/07/1012168akm222igs8ke0gk.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/1012168akm222igs8ke0gk.jpg)
+[![](/Asserts/Images/album/201206/07/1012168akm222igs8ke0gk.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/1012168akm222igs8ke0gk.jpg)
 
 
 Blizzard 的下载器窗口将开始运行，您需要设置文件储存的硬盘所在位置。这将下载到一个大约 8 GB 的文件，这个过程可能是漫长的，当然，您可能换需要一个大点的硬盘。
 
 
-[![](/Asserts/Images//attachment/album/201206/07/101219bwl33jr5g2sma2za.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/101219bwl33jr5g2sma2za.jpg)
+[![](/Asserts/Images/album/201206/07/101219bwl33jr5g2sma2za.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/101219bwl33jr5g2sma2za.jpg)
 
 
 **第三步 安装 Diablo 3**
@@ -71,66 +71,66 @@ Blizzard 的下载器窗口将开始运行，您需要设置文件储存的硬�
 打开 PlayOnLinux，第一次运行的时候，您需要对它做一些配置。根据您的情况，完成他们就可以了。好了，这个时候PlayOnLinux 已经运行起来，您已经看到 PlayOnLinux 的运行窗口，点击窗口上的“Install”按钮，然后在新打开的对话框中输入“Diablo”来查找到 Diablo 3。
 
 
-[![](/Asserts/Images//attachment/album/201206/07/101221a2ty2z6vasasa8q8.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/101221a2ty2z6vasasa8q8.jpg)
+[![](/Asserts/Images/album/201206/07/101221a2ty2z6vasasa8q8.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/101221a2ty2z6vasasa8q8.jpg)
 
 
 选中搜索出来的 Diablo 3 ，然后点击右下角的 “Install” 按钮。好了，一个标准的程序安装窗口将出现，您只需要点击“Next”按钮来进入到下一步。
 
 
-[![](/Asserts/Images//attachment/album/201206/07/101223opv3e5fee1ewqw5z.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/101223opv3e5fee1ewqw5z.jpg)
+[![](/Asserts/Images/album/201206/07/101223opv3e5fee1ewqw5z.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/101223opv3e5fee1ewqw5z.jpg)
 
 
 选择您的安装文件是那种介质的，然后点击“Next”
 
 
-[![](/Asserts/Images//attachment/album/201206/07/101225n71x5171noxtx4w5.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/101225n71x5171noxtx4w5.jpg)
+[![](/Asserts/Images/album/201206/07/101225n71x5171noxtx4w5.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/101225n71x5171noxtx4w5.jpg)
 
 
 我们是采用的下载文件包的方式，所以选择下载的安装文件包，然后点击“Next”……
 
 
-[![](/Asserts/Images//attachment/album/201206/07/101227dj3oy3yv0ccjhujh.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/101227dj3oy3yv0ccjhujh.jpg)
+[![](/Asserts/Images/album/201206/07/101227dj3oy3yv0ccjhujh.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/101227dj3oy3yv0ccjhujh.jpg)
 
 
 现在您只需要等待就可以了，程序会下载并安装 Diablo 3 游戏的一些资源并安装。您只需要在需要的时候单击“下一步”...
 
 
-[![](/Asserts/Images//attachment/album/201206/07/101230cvaccvg8gckapkcc.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/101230cvaccvg8gckapkcc.jpg)
+[![](/Asserts/Images/album/201206/07/101230cvaccvg8gckapkcc.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/101230cvaccvg8gckapkcc.jpg)
 
 
 安装完成后，会弹出一个“Diablo III Setup”的对话框，它会更新一些文件……
 
 
-[![](/Asserts/Images//attachment/album/201206/07/101232omcmo28nia9m2an4.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/101232omcmo28nia9m2an4.jpg)
+[![](/Asserts/Images/album/201206/07/101232omcmo28nia9m2an4.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/101232omcmo28nia9m2an4.jpg)
 
 
 一会儿以后，文件更新完毕，Diablo 3 的安装对话框出现，点击那个大大的“Install”按钮。  
- [![](/Asserts/Images//attachment/album/201206/07/1012347l6jclhsm67nn3qs.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/1012347l6jclhsm67nn3qs.jpg)
+ [![](/Asserts/Images/album/201206/07/1012347l6jclhsm67nn3qs.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/1012347l6jclhsm67nn3qs.jpg)
 
 
 下面就是等待的时间了，看您的计算机性能了，时间大约需要15-20分钟。
 
 
-[![](/Asserts/Images//attachment/album/201206/07/1012367mq620x32lxmfd3q.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/1012367mq620x32lxmfd3q.jpg)
+[![](/Asserts/Images/album/201206/07/1012367mq620x32lxmfd3q.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/1012367mq620x32lxmfd3q.jpg)
 
 
 安装完成的时候，您就可以点那个“PLAY”按钮来进行游戏了。
 
 
-[![](/Asserts/Images//attachment/album/201206/07/101239tujyrlrrwyvrlpuu.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/101239tujyrlrrwyvrlpuu.jpg)
+[![](/Asserts/Images/album/201206/07/101239tujyrlrrwyvrlpuu.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/101239tujyrlrrwyvrlpuu.jpg)
 
 
 好了，安装完成，您可以游戏了，在您的桌面上也会有一个进入游戏的快捷方式，您以后就可以通过它来进行游戏了。祝您在游戏里玩的愉快！
 
 
-[![https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/1012411t1gyts9qyq7o9iy.jpg](/Asserts/Images//attachment/album/201206/07/1012411t1gyts9qyq7o9iy.jpg)  
- 点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201206/07/1012411t1gyts9qyq7o9iy.jpg)
+[![https://img.linux.net.cn/Asserts/Images/album/201206/07/1012411t1gyts9qyq7o9iy.jpg](/Asserts/Images/album/201206/07/1012411t1gyts9qyq7o9iy.jpg)  
+ 点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201206/07/1012411t1gyts9qyq7o9iy.jpg)

@@ -7,10 +7,10 @@ tags:	[linuxcn,行为准则,FFmpeg,帧指针]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/16/080631uqhdniqp4z49i9i9.jpg)
+![](/Asserts/Images/album/202312/16/080631uqhdniqp4z49i9i9.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/16/080647w8ndznbfbn1bsdlb.png)
+![](/Asserts/Images/album/202312/16/080647w8ndznbfbn1bsdlb.png)
 
 
 ### #1 FFmpeg 已经完成多线程功能开发
@@ -35,7 +35,7 @@ tags:	[linuxcn,行为准则,FFmpeg,帧指针]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/16/080659kemetyck9ftj66oy.png)
+![](/Asserts/Images/album/202312/16/080659kemetyck9ftj66oy.png)
 
 
 ### #2 Ubuntu 24.04 LTS 将默认启用帧指针
@@ -60,7 +60,7 @@ tags:	[linuxcn,行为准则,FFmpeg,帧指针]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/16/080715cakhhnnyh2hwdydh.png)
+![](/Asserts/Images/album/202312/16/080715cakhhnnyh2hwdydh.png)
 
 
 ### #3 Glibc 加入采用行为准则的开源项目行列

@@ -7,7 +7,7 @@ tags:	[linuxcn,gotty,终端,浏览器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/25/100155qz7y1729z09473p7.png)
+![](/Asserts/Images/album/201704/25/100155qz7y1729z09473p7.png)
 
 
 GoTTY 是一个简单的基于 Go 语言的命令行工具，它可以将你的终端（TTY）作为 web 程序共享。它会将命令行工具转换为 web 程序。
@@ -46,7 +46,7 @@ GoTTY 是一个简单的基于 Go 语言的命令行工具，它可以将你的�
 
 ```
 
-![Check GOBIN Environment](/Asserts/Images//attachment/album/201704/25/100204skcar6115r4ap4gd.png)
+![Check GOBIN Environment](/Asserts/Images/album/201704/25/100204skcar6115r4ap4gd.png)
 
 
 *检查 GOBIN 环境*
@@ -103,7 +103,7 @@ Usage: gotty [options] <Linux command here> [<arguments...>]
 GoTTY 默认会在 8080 启动一个 Web 服务器。在浏览器中打开 URL：`http://127.0.0.1:8080/`，你会看到运行的命令仿佛运行在终端中一样：
 
 
-![Gotty Linux Disk Usage](/Asserts/Images//attachment/album/201704/25/100204zrboso2kuov7jv8k.png)
+![Gotty Linux Disk Usage](/Asserts/Images/album/201704/25/100204zrboso2kuov7jv8k.png)
 
 
 *Gotty 查看 Linux 磁盘使用率*
@@ -178,7 +178,7 @@ background_color = "rgb(16, 16, 32)"
 以下是从 Web 浏览器看到的 vi 界面（像平常一样使用 vi 命令）：
 
 
-![Gotty Web Vi Editor](/Asserts/Images//attachment/album/201704/25/100205z5rjn7v76grcrzy0.png)
+![Gotty Web Vi Editor](/Asserts/Images/album/201704/25/100205z5rjn7v76grcrzy0.png)
 
 
 *Gotty Web Vi 编辑器*
@@ -199,7 +199,7 @@ background_color = "rgb(16, 16, 32)"
 
 ```
 
-![Gotty with Basic Authentication](/Asserts/Images//attachment/album/201704/25/100205mpd14uur212ud4dd.png)
+![Gotty with Basic Authentication](/Asserts/Images/album/201704/25/100205mpd14uur212ud4dd.png)
 
 
 *使用基本验证运行 GoTTY*
@@ -223,7 +223,7 @@ background_color = "rgb(16, 16, 32)"
 以下是从浏览器中看到的上面的命令的结果：
 
 
-![Gotty Random URL for Glances Linux Monitoring](/Asserts/Images//attachment/album/201704/25/100205ad1m5f5o5fo23722.png)
+![Gotty Random URL for Glances Linux Monitoring](/Asserts/Images/album/201704/25/100205ad1m5f5o5fo23722.png)
 
 
 *使用 Gotty 随机 URL 用于 Glances 系统监控*

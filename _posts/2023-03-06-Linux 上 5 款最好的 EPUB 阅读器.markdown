@@ -7,7 +7,7 @@ tags:	[linuxcn,电子书]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/22/210742rdxxnfmfxmtfxnzx.jpg)
+![](/Asserts/Images/album/202303/22/210742rdxxnfmfxmtfxnzx.jpg)
 
 
 
@@ -55,7 +55,7 @@ EPUB 是一种广泛使用的开放电子书格式，大多数的电子书阅读
 在这份列表上的第一款阅读器是 Calibre ，它是最好的和最完善的电子书管理解决方案。它是一款功能强大的 EPUB 阅读器，也提供电子书管理工具。它在用户中是一种流行的选择，因为它有丰富的特色功能集，包括：转换 EPUB 文件到不同的格式、编辑 EPUB 文件，甚至创建你自己的 EPUB 文件的功能。Calibre 也有一个用户友好的界面，允许你自定义你的阅读体验。
 
 
-![Calibre welcome wizard](/Asserts/Images//attachment/album/202303/22/210955p1x7zlll7j8bc1pg.jpg)
+![Calibre welcome wizard](/Asserts/Images/album/202303/22/210955p1x7zlll7j8bc1pg.jpg)
 
 
 Calibre 正在持续更新，每个月都会有大量的特色功能和增强的功能。它的开发活动是非常活跃的，它是这份列表中最好的一个。
@@ -73,10 +73,10 @@ Calibre 正在持续更新，每个月都会有大量的特色功能和增强的
 * 内置可购买电子书的浏览器
 
 
-![Calibre main window](/Asserts/Images//attachment/album/202303/22/211003pz3bv68cd38q9dv8.jpg)
+![Calibre main window](/Asserts/Images/album/202303/22/211003pz3bv68cd38q9dv8.jpg)
 
 
-![Uploading books to Calibre](/Asserts/Images//attachment/album/202303/22/211011doozh1wabla14a1r.jpg)
+![Uploading books to Calibre](/Asserts/Images/album/202303/22/211011doozh1wabla14a1r.jpg)
 
 
 你可以从其官方网站下载 Calibre 。或者，你可以为你的 Linux 发行版 [设置 Flatpak & Flathub](https://www.debugpoint.com/how-to-install-flatpak-apps-ubuntu-linux/) ，并单击下面的按钮（或使用命令）来安装：
@@ -105,7 +105,7 @@ flatpak install com.calibre_ebook.calibre
 我们在先前的 [最佳的 Ubuntu 应用程序（第 3 部分）](https://www.debugpoint.com/necessary-ubuntu-apps-2022/) 系列中介绍了 Foliate 。它是一款轻量现代的 EPUB 阅读器，它提供了一系列的自定义选项。它是基于 GTK4 的，并且与 GNOME 桌面环境无缝集成。它有一个平滑且易于导航的界面，并且有自定义字体大小、字体类型和行距的功能。
 
 
-![Foliate main window and settings](/Asserts/Images//attachment/album/202303/22/211021qes75675kj5w8urw.jpg)
+![Foliate main window and settings](/Asserts/Images/album/202303/22/211021qes75675kj5w8urw.jpg)
 
 
 Foliate 也包含：一种针对夜间阅读的深色模式，一个调整内置颜色温度的选项，用以减少眼睛疲劳。
@@ -125,10 +125,10 @@ Foliate 也包含：一种针对夜间阅读的深色模式，一个调整内置
 * 快速字典查找
 
 
-![Foliate reader view](/Asserts/Images//attachment/album/202303/22/211030id2j4o3ajvbb8vo2.jpg)
+![Foliate reader view](/Asserts/Images/album/202303/22/211030id2j4o3ajvbb8vo2.jpg)
 
 
-![Foliate library view](/Asserts/Images//attachment/album/202303/22/211039q9raf7zdmrna57ed.jpg)
+![Foliate library view](/Asserts/Images/album/202303/22/211039q9raf7zdmrna57ed.jpg)
 
 
 下载 Okular 的最好方式是使用 Flatpak 来下载。针对你的系统设置 [Flatpak & Flathub](https://www.debugpoint.com/how-to-install-flatpak-apps-ubuntu-linux/) ，并使用下面的链接（或使用下面提到的命令）来安装它：
@@ -167,7 +167,7 @@ KDE 自带的文档阅读器是 Okular ，它也支持 EPUB 文件。它是一�
 不过，你不能使用 Okular 来管理收藏或下载电子书。
 
 
-![Okular](/Asserts/Images//attachment/album/202303/22/211051uyba8bz1cm1eb71b.jpg)
+![Okular](/Asserts/Images/album/202303/22/211051uyba8bz1cm1eb71b.jpg)
 
 
 你可以在 Ubuntu 及其相关发行版中安装 Okular ：
@@ -214,7 +214,7 @@ flatpak install org.kde.okular
 它有简洁的界面，并提供一系列自定义选项，包括字体大小、字体类型和背景颜色。Bookworm 也允许你将你的 EPUB 文件组织到集合中，并保持追踪你的阅读进度。
 
 
-![Bookworm library view](/Asserts/Images//attachment/album/202303/22/211105nms3xo4ycrmzxrzx.jpg)
+![Bookworm library view](/Asserts/Images/album/202303/22/211105nms3xo4ycrmzxrzx.jpg)
 
 
 另外，你可以使用一个内置的标签编辑器和评分系列来轻松地管理你的 EPUB 书籍。此外，它也支持注释、搜索、章节和键盘导航。
@@ -223,7 +223,7 @@ flatpak install org.kde.okular
 不可缺少的是，它支持 EPUB 、MOBI 、PDF 、EB2 、CBR 和 CBZ 文件。
 
 
-![Bookworm EPUB reader view](/Asserts/Images//attachment/album/202303/22/211117d6hztjhvu3qtuyeh.jpg)
+![Bookworm EPUB reader view](/Asserts/Images/album/202303/22/211117d6hztjhvu3qtuyeh.jpg)
 
 
 安装是很容易的。如果你是一名 elementary OS 用户，你可以在 <ruby> 应用中心 <rt>  AppCenter </rt></ruby> 中搜索 “bookworm” 。
@@ -264,7 +264,7 @@ flatpak install com.github.babluboy.bookworm
 FBRedaer 也支持在你的设备之间云同步你的库。
 
 
-![FBReader](/Asserts/Images//attachment/album/202303/22/211129iobbyv50dznjogbn.jpg)
+![FBReader](/Asserts/Images/album/202303/22/211129iobbyv50dznjogbn.jpg)
 
 
 在 Linux 上安装 FBReader 是有一些难度的，因为它只提供 Snap 软件包。你可以在 [针对 Snap 设置你的系统](https://www.debugpoint.com/how-to-install-and-use-snap-packages-in-ubuntu/) 后，使用 `snap` 来安装它，如下所示。
@@ -291,13 +291,13 @@ sudo snap install fbreader
 你可以 [在这里下载](https://koodo.960960.xyz/en) ，这里是一些截屏。
 
 
-![Koodo EPUB reader](/Asserts/Images//attachment/album/202303/22/211137z3l3v0jjl0px7zdf.jpg)
+![Koodo EPUB reader](/Asserts/Images/album/202303/22/211137z3l3v0jjl0px7zdf.jpg)
 
 
-![Koodo - reader view](/Asserts/Images//attachment/album/202303/22/211144cquuyfp8oqpjouon.jpg)
+![Koodo - reader view](/Asserts/Images/album/202303/22/211144cquuyfp8oqpjouon.jpg)
 
 
-![Koodo options](/Asserts/Images//attachment/album/202303/22/211150xicll7cf8is35s23.jpg)
+![Koodo options](/Asserts/Images/album/202303/22/211150xicll7cf8is35s23.jpg)
 
 
 这里还有另外的两个 EPUB 阅读器，但是，不幸的是，它们已经不再继续开发了。

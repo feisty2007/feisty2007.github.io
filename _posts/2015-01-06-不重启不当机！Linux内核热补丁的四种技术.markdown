@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,Ksplice,Kgraft,Kpatch]
 ---
 
 
-![](/Asserts/Images//attachment/album/201501/13/202415go6w61rlcczo762c.jpeg)
+![](/Asserts/Images/album/201501/13/202415go6w61rlcczo762c.jpeg)
 
 
 *供图: Shutterstock*

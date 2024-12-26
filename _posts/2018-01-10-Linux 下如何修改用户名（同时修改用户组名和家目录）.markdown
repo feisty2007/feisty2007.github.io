@@ -7,7 +7,7 @@ tags:	[linuxcn,用户名]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/31/210720ehetzqxltdlulkir.jpg)
+![](/Asserts/Images/album/201712/31/210720ehetzqxltdlulkir.jpg)
 
 
 有时候，由于某些原因，我们可能会需要重命名用户名。我们可以很容易地修改用户名以及对应的家目录和 UID。

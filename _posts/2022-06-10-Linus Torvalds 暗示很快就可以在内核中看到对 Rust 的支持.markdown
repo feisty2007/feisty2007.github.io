@@ -15,7 +15,7 @@ tags:	[linuxcn,内核,Rust]
 > 
 
 
-![Linus](/Asserts/Images//attachment/album/202206/27/102128x2aaam52cieijt7l.jpg)
+![Linus](/Asserts/Images/album/202206/27/102128x2aaam52cieijt7l.jpg)
 
 
 市面上已经有许多用 Rust 重写的开源项目。因此，如今 Rust 被认为是 Linux 内核的第二语言，也就不足为奇了。

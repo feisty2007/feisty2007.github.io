@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,短信,安全漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/22/183446f89qxl1xsgmgl0y9.jpg)
+![](/Asserts/Images/album/202309/22/183446f89qxl1xsgmgl0y9.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/22/183518opn4nq64zadz66dd.jpg)
+![](/Asserts/Images/album/202309/22/183518opn4nq64zadz66dd.jpg)
 
 
 ### OpenAI 宣布 DALL-E 3，让提示工程过时
@@ -35,7 +35,7 @@ OpenAI 发布了 DALL-E 3，其可以与 ChatGPT 完全集成在一起。从提�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/22/183528p8nvqvyqntvl8xhx.jpg)
+![](/Asserts/Images/album/202309/22/183528p8nvqvyqntvl8xhx.jpg)
 
 
 ### 谷歌用 “iPager” 广告嘲讽苹果
@@ -60,7 +60,7 @@ OpenAI 发布了 DALL-E 3，其可以与 ChatGPT 完全集成在一起。从提�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/22/183550kuzytzidjq2yqiw5.jpg)
+![](/Asserts/Images/album/202309/22/183550kuzytzidjq2yqiw5.jpg)
 
 
 ### 苹果和谷歌不完全披露的 libwebp 漏洞造成大麻烦

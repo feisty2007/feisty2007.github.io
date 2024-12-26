@@ -15,7 +15,7 @@ tags:	[linuxcn,函数式编程]
 > 
 
 
-![](/Asserts/Images//attachment/album/201811/15/094212wlddczeiledlztjo.png)
+![](/Asserts/Images/album/201811/15/094212wlddczeiledlztjo.png)
 
 
 在这个由两部分组成的系列文章的第二部分中，我们将继续探索如何将函数式编程方法中的好想法引入到 Python中，以实现两全其美。

@@ -13,7 +13,7 @@ tags:	[linuxcn,目录,导航]
 对于经验丰富的 Linux 用户或需要进行各种不同任务的系统管理员而言，这可能非常乏味，因此希望在操作系统时有一个快捷方式来简化工作。
 
 
-![](/Asserts/Images//attachment/album/201705/08/153346wwww562rcsl2cocm.jpg)
+![](/Asserts/Images/album/201705/08/153346wwww562rcsl2cocm.jpg)
 
 
 **建议阅读：** [Autojump - 一个快速浏览 Linux 文件系统的高级 “cd” 命令](/article-5983-1.html)
@@ -83,7 +83,7 @@ $ bd Data
 
 ```
 
-![Switch Between Directories Quickly](/Asserts/Images//attachment/album/201705/08/153400m9zjh1h9c7eehcms.png)
+![Switch Between Directories Quickly](/Asserts/Images/album/201705/08/153400m9zjh1h9c7eehcms.png)
 
 
 *目录间快速切换*
@@ -99,7 +99,7 @@ $ bd Da
 
 ```
 
-![Quickly Switch Directories](/Asserts/Images//attachment/album/201705/08/153401u5oedojao8odwtxe.png)
+![Quickly Switch Directories](/Asserts/Images/album/201705/08/153401u5oedojao8odwtxe.png)
 
 
 *快速切换目录*
@@ -126,7 +126,7 @@ $ bd Da
 
 ```
 
-![Move to 'Books' Directory Quickly](/Asserts/Images//attachment/album/201705/08/153401m3jbjiibstpqf684.png)
+![Move to 'Books' Directory Quickly](/Asserts/Images/album/201705/08/153401m3jbjiibstpqf684.png)
 
 
 *快速进入 ‘Books’ 目录*
@@ -146,7 +146,7 @@ $ du -cs `bd ht`
 
 ```
 
-![Switch Directory with Listing](/Asserts/Images//attachment/album/201705/08/153401a4ue1ntesez2jone.png)
+![Switch Directory with Listing](/Asserts/Images/album/201705/08/153401a4ue1ntesez2jone.png)
 
 
 *列出切换的目录*

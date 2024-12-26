@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,Kubernetes]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/17/164214h888zbu9iqk926g9.jpg)
+![](/Asserts/Images/album/201807/17/164214h888zbu9iqk926g9.jpg)
 
 
 Kubernetes 是一个具备部署、维护和可伸缩特性的开源平台。它在提供可移植性、可扩展性以及自我修复能力的同时，简化了容器化 Python 应用程序的管理。

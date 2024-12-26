@@ -17,7 +17,7 @@ tags:	[linuxcn,Ubuntu,自动关机,EasyShutdown]
  
 
 
-![](/Asserts/Images//attachment/album/201104/26/2133403xgbzgb3zfggxfzj.png)
+![](/Asserts/Images/album/201104/26/2133403xgbzgb3zfggxfzj.png)
 
 
   
@@ -26,14 +26,14 @@ tags:	[linuxcn,Ubuntu,自动关机,EasyShutdown]
  
 
 
-![](/Asserts/Images//attachment/album/201104/26/2133427qcsnsfd1v4d71b3.png)
+![](/Asserts/Images/album/201104/26/2133427qcsnsfd1v4d71b3.png)
 
 
   
  
 
 
-![](/Asserts/Images//attachment/album/201104/26/213350g6yxqq9wyg6dyxgx.png)
+![](/Asserts/Images/album/201104/26/213350g6yxqq9wyg6dyxgx.png)
 
 
   

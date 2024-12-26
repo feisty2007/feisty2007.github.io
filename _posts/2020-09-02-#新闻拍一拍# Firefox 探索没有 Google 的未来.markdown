@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/08/092545oqlw478wc0l34i8q.jpg)
+![](/Asserts/Images/album/202009/08/092545oqlw478wc0l34i8q.jpg)
 
 
 #### Firefox 探索没有 Google 的未来

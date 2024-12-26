@@ -7,7 +7,7 @@ tags:	[linuxcn,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/01/105123phdy0f0fmgavquqq.jpg)
+![](/Asserts/Images/album/202309/01/105123phdy0f0fmgavquqq.jpg)
 
 
 通常 Linux 系统会默认引导系统进入最新安装的内核，并保留最新的 3 个 Linux 内核引导条目。
@@ -180,7 +180,7 @@ title="Red Hat Enterprise Linux (0-rescue-13iu76884ec5490puc67j8789s249b0c) 8.2 
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/01/105129exzvpswsfpcpzwls.jpg)
+![](/Asserts/Images/album/202309/01/105129exzvpswsfpcpzwls.jpg)
 
 
 ### 总结

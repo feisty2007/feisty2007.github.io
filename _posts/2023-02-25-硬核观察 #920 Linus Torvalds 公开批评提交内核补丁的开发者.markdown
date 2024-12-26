@@ -7,10 +7,10 @@ tags:	[linuxcn,Linus Torvalds,Linux,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/22/153823hkzoiikekpln0qez.jpg)
+![](/Asserts/Images/album/202302/22/153823hkzoiikekpln0qez.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/22/153830uu429482934o3uri.jpg)
+![](/Asserts/Images/album/202302/22/153830uu429482934o3uri.jpg)
 
 
 ### Linus Torvalds 公开批评提交内核补丁的开发者
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linus Torvalds,Linux,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/22/153841vbhuvwpukrdtuwz4.jpg)
+![](/Asserts/Images/album/202302/22/153841vbhuvwpukrdtuwz4.jpg)
 
 
 ### Linux 6.3 引入 IPv4 BIG TCP 以提高高速网络性能
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linus Torvalds,Linux,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/22/153855glnsn8j8npvzjtqe.jpg)
+![](/Asserts/Images/album/202302/22/153855glnsn8j8npvzjtqe.jpg)
 
 
 ### AI 写作正在影响出版业

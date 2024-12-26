@@ -7,7 +7,7 @@ tags:	[linuxcn,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/12/121408l4fvp611z3l134hf.png)
+![](/Asserts/Images/album/201609/12/121408l4fvp611z3l134hf.png)
 
 
 现在你可以从我们的 [集成件目录](https://github.com/integrations)里面找到更多工具。这个目录目前有超过 15 个分类 — 从 [API 管理](https://github.com/integrations/feature/api-management) 到 [应用监控](https://github.com/integrations/feature/monitoring)， Github 的集成件可以支持您的开发周期的每一个阶段。

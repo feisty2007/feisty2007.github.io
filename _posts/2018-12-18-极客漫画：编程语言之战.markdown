@@ -7,7 +7,7 @@ tags:	[linuxcn,编程语言]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/10/223204lqq3zq5rhf44lqlo.png)
+![](/Asserts/Images/album/201812/10/223204lqq3zq5rhf44lqlo.png)
 
 
 这篇漫画生动的描绘了不同时期不同编程语言的“战争”。

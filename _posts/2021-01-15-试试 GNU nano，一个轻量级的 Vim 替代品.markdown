@@ -15,7 +15,7 @@ tags:	[linuxcn,nano]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/04/124300oklykg26z6wyhjey.jpg)
+![](/Asserts/Images/album/202101/04/124300oklykg26z6wyhjey.jpg)
 
 
 许多 Linux 发行版都捆绑了 [Vim](https://opensource.com/article/20/12/vi-text-editor) 作为默认的文本编辑器。这吸引了很多长期使用 Linux 的用户，反正那些不喜欢它的用户也可以在安装后及时更换。不过 Vim 是一个很有趣的编辑器，因为它是少数几个打开时的模式不允许输入文字的编辑器之一。这对任何用户来说都是一个令人费解的选择，对一个新用户来说也是很困惑的。
@@ -24,7 +24,7 @@ tags:	[linuxcn,nano]
 多亏了 GNU nano，才有了 Vim 之外的另一种轻量级终端文本编辑器，而且使用起来非常方便 —— 它的窗口底部列出了最重要的命令。
 
 
-![Black nano terminal with white text](/Asserts/Images//attachment/album/202101/04/124350m35qdl2vk6p9576f.png "Black nano terminal with white text")
+![Black nano terminal with white text](/Asserts/Images/album/202101/04/124350m35qdl2vk6p9576f.png "Black nano terminal with white text")
 
 
 ### 安装

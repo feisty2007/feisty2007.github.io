@@ -7,13 +7,13 @@ tags:	[linuxcn,Linux,Rust,IDE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202103/21/103651b1r4oz541v7l0ww4.jpg)
+![](/Asserts/Images/album/202103/21/103651b1r4oz541v7l0ww4.jpg)
 
 
 ### Linux 基金会发起庆祝 Linux 三十岁生日的活动
 
 
-![](/Asserts/Images//attachment/album/202103/21/103710zz7911621t71z96a.jpg)
+![](/Asserts/Images/album/202103/21/103710zz7911621t71z96a.jpg)
 
 
 虽然距离 Linux 的生日（1991/9/17）还有不少时间，但是今年 Linux 基金会已经开始提前半年[庆祝 Linux 三十岁生日](https://linuxfoundation.org/linux30th/ "https://linuxfoundation.org/linux30th/")了。Linux 基金会已经为此制作了多张宣传海报，还准备在今年 4 月在其线上商店推出 30 周年纪念周边。
@@ -25,7 +25,7 @@ tags:	[linuxcn,Linux,Rust,IDE]
 ### Rust 支持进入 Linux-Next 分支
 
 
-![](/Asserts/Images//attachment/album/202103/21/103729mwhlh3pyuymp3sij.jpg)
+![](/Asserts/Images/album/202103/21/103729mwhlh3pyuymp3sij.jpg)
 
 
 Linux-Next 主要用于存放一些将在下一周期合并进内核主支的代码。它最近加入[对 Rust 的初步支持](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/tree/rust "https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/tree/rust")，如果未来对 Rust 的支持合并到 Linux 主支，这将是用 Rust 编写设备驱动迈出的重要一步。
@@ -37,7 +37,7 @@ Linux 对 Rust 寄望很高，但是毕竟 Rust 还很新，所以对于将 Rust
 ### 传统 IDE 驱动将被从 Linux 内中删除
 
 
-![](/Asserts/Images//attachment/album/202103/21/103744scsas343k3k444xu.jpg)
+![](/Asserts/Images/album/202103/21/103744scsas343k3k444xu.jpg)
 
 
 两年前，传统的 IDE 驱动代码就已经实质上在 Linux 中废弃，开发者正在准备[在今年移除它](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Drop-Legacy-IDE-2021 "https://www.phoronix.com/scan.php?page=news_item&px=Linux-Drop-Legacy-IDE-2021")，大约可以减少 41000 多行内核代码。不过这不代表 IDE 设备就不能使用了，这只是移除传统的 IDE 驱动程序，IDE 本身仍将通过 libata 层在 Linux 内核上得到支持。

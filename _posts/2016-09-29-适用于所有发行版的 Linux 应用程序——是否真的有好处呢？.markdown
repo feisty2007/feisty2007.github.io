@@ -7,7 +7,7 @@ tags:	[linuxcn,Snap,Flatpak,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/21/123327e17d67ni8omytxn7.jpg)
+![](/Asserts/Images/album/201609/21/123327e17d67ni8omytxn7.jpg)
 
 
 让我们回顾一下 Linux 社区最新的愿景——推动去中心化的应用来解决发行版的碎片化。

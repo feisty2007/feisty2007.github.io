@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCE,sysstat,dstat]
 作为一个系统工程师，你经常需要生成一些显示系统资源利用率的报告，以便确保：1）正在合理利用系统，2）防止出现瓶颈，3）确保可扩展性，以及其它原因。
 
 
-![监视 Linux 性能活动报告](/Asserts/Images//attachment/album/201511/02/231737aynkjyjd8zlhmysz.jpg)
+![监视 Linux 性能活动报告](/Asserts/Images/album/201511/02/231737aynkjyjd8zlhmysz.jpg)
 
 
 *RHCE 第三部分：监视 Linux 性能活动报告*
@@ -35,7 +35,7 @@ tags:	[linuxcn,RHCE,sysstat,dstat]
 
 ```
 
-![检查 Linux 总的磁盘使用](/Asserts/Images//attachment/album/201511/02/231739ozt4jzmccgpz3tzp.png)
+![检查 Linux 总的磁盘使用](/Asserts/Images/album/201511/02/231739ozt4jzmccgpz3tzp.png)
 
 
 *检查 Linux 总的磁盘使用*
@@ -48,7 +48,7 @@ tags:	[linuxcn,RHCE,sysstat,dstat]
 
 ```
 
-![检查 Linux 总的 inode 数目](/Asserts/Images//attachment/album/201511/02/231740vslc6rayybrvofa3.png)
+![检查 Linux 总的 inode 数目](/Asserts/Images/album/201511/02/231740vslc6rayybrvofa3.png)
 
 
 *检查 Linux 总的 inode 数目*
@@ -67,7 +67,7 @@ tags:	[linuxcn,RHCE,sysstat,dstat]
 
 ```
 
-![检查 Linux 目录磁盘大小](/Asserts/Images//attachment/album/201511/02/231741r33uhlr43bucla3w.png)
+![检查 Linux 目录磁盘大小](/Asserts/Images/album/201511/02/231741r33uhlr43bucla3w.png)
 
 
 *检查 Linux 目录磁盘大小*
@@ -98,7 +98,7 @@ tags:	[linuxcn,RHCE,sysstat,dstat]
 会每个 5 秒返回 10 个事例：
 
 
-![检查 Linux 系统性能](/Asserts/Images//attachment/album/201511/02/231743ybuuc14eqjvzk13s.png)
+![检查 Linux 系统性能](/Asserts/Images/album/201511/02/231743ybuuc14eqjvzk13s.png)
 
 
 *检查 Linux 系统性能*
@@ -116,7 +116,7 @@ tags:	[linuxcn,RHCE,sysstat,dstat]
 
 ```
 
-![Vmstat Linux 性能监视](/Asserts/Images//attachment/album/201511/02/231755h927jth6ton2h9c2.png)
+![Vmstat Linux 性能监视](/Asserts/Images/album/201511/02/231755h927jth6ton2h9c2.png)
 
 
 *Vmstat Linux 性能监视*
@@ -135,7 +135,7 @@ tags:	[linuxcn,RHCE,sysstat,dstat]
 
 ```
 
-![Vmstat Linux 磁盘性能监视](/Asserts/Images//attachment/album/201511/02/231758n7giw2g9nzp478i7.png)
+![Vmstat Linux 磁盘性能监视](/Asserts/Images/album/201511/02/231758n7giw2g9nzp478i7.png)
 
 
 *Vmstat Linux 磁盘性能监视*
@@ -231,7 +231,7 @@ sysstat 安装完成后，`/etc/cron.d/sysstat` 中会添加和启用两个 cron
 你可以在上面的 sadf 命令中用 -j 标记代替 -d 以 JSON 格式输出系统统计信息，这当你在 web 应用中使用这些数据的时候非常有用。
 
 
-![Linux 系统统计信息](/Asserts/Images//attachment/album/201511/02/231804b9wq9s5vwmz5ft5v.png)
+![Linux 系统统计信息](/Asserts/Images/album/201511/02/231804b9wq9s5vwmz5ft5v.png)
 
 
 *Linux 系统统计信息*
@@ -246,7 +246,7 @@ sysstat 安装完成后，`/etc/cron.d/sysstat` 中会添加和启用两个 cron
 
 ```
 
-![Linux 磁盘统计检测](/Asserts/Images//attachment/album/201511/02/231805zlrfz0v1lt400r1r.png)
+![Linux 磁盘统计检测](/Asserts/Images/album/201511/02/231805zlrfz0v1lt400r1r.png)
 
 
 *Linux 磁盘统计检测*
@@ -255,7 +255,7 @@ sysstat 安装完成后，`/etc/cron.d/sysstat` 中会添加和启用两个 cron
 要输出统计信息到 .csv 文件，可以用 -output 标记后面跟一个文件名称。让我们来看看在 LibreOffice Calc 中该文件看起来是怎样的：
 
 
-![检测 Linux 统计信息输出](/Asserts/Images//attachment/album/201511/02/231808t1d5u0720qa5793t.png)
+![检测 Linux 统计信息输出](/Asserts/Images/album/201511/02/231808t1d5u0720qa5793t.png)
 
 
 *检测 Linux 统计信息输出*

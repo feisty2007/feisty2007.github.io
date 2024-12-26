@@ -7,13 +7,13 @@ tags:	[linuxcn,容器,docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201602/04/001041qaejsssu4lfk49f5.jpg)
+![](/Asserts/Images/album/201602/04/001041qaejsssu4lfk49f5.jpg)
 
 
 Linux 容器是一个在单一 Linux 主机上提供多个隔离的 Linux 环境的[操作系统级虚拟](https://en.wikipedia.org/wiki/Operating-system-level_virtualization#IMPLEMENTATIONS)技术。不像虚拟机（VM），容器并不需要运行专用的<ruby> 访客 <rp>  （ </rp> <rt>  guest </rt> <rp>  ） </rp></ruby>操作系统。容器们共享<ruby> 宿主机的 <rp>  （ </rp> <rt>  host </rt> <rp>  ） </rp></ruby>操作系统内核，并使用访客操作系统的系统库来提供所需的功能。由于不需要专用的操作系统，因此容器要比虚拟器启动快得多。
 
 
-![](/Asserts/Images//attachment/album/201602/04/182525u1sn21xzr8lln78r.jpg)
+![](/Asserts/Images/album/201602/04/182525u1sn21xzr8lln78r.jpg)
 
 
 （图片来自: Docker Inc.）

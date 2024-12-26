@@ -49,7 +49,7 @@ update-manager –d
 Ubuntu接着应该带着升级选项会打开update-manager。按下**Upgrade** 开始升级你的机器。
 
 
-![](/Asserts/Images//attachment/album/201404/02/175529w7ho0a7ijhsfznnw.png)
+![](/Asserts/Images/album/201404/02/175529w7ho0a7ijhsfznnw.png)
 
 
 就是这样!

@@ -7,7 +7,7 @@ tags:	[linuxcn,JavaScript,TypeScript]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/13/132032snqnbgkvt7spgtgb.png)
+![](/Asserts/Images/album/201708/13/132032snqnbgkvt7spgtgb.png)
 
 
 **下文是 James Henry（[@MrJamesHenry](https://twitter.com/MrJamesHenry)）所提交的内容。我是 ESLint 核心团队的一员，也是 TypeScript 布道师。我正在和 Todd 在 [UltimateAngular](https://ultimateangular.com/courses) 平台上合作发布 Angular 和 TypeScript 的精品课程。**
@@ -492,7 +492,7 @@ console.log(first_name);
 在我们的代码编辑器中，我们一直以来可以选择多个相同的文本，并使用多个光标来一次更改它们。
 
 
-![Manually select matches](/Asserts/Images//attachment/album/201708/13/132415ayb8oc930mh9sgzo.gif)
+![Manually select matches](/Asserts/Images/album/201708/13/132415ayb8oc930mh9sgzo.gif)
 
 
 当我们把程序也视作文本这样继续操作时，我们已经陷入了一个典型的陷阱中。
@@ -507,7 +507,7 @@ console.log(first_name);
 当我们右键单击我们的 `first_name` 变量时，我们可以在 VS Code 中直接“重命名符号”（TypeScript 语言服务器插件也可用于其他编辑器）。
 
 
-![Rename Symbol Example](/Asserts/Images//attachment/album/201708/13/132432w12dexx13qkx1316.gif)
+![Rename Symbol Example](/Asserts/Images/album/201708/13/132432w12dexx13qkx1316.gif)
 
 
 非常好！现在我们的 `first_name` 变量是唯一需要改变的东西，如果需要的话，这个改变甚至会发生在我们项目中的多个文件中（与导出和导入的值一样）！

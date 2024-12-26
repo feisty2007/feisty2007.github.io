@@ -10,7 +10,7 @@ tags:	[linuxcn,WordPress,HHVM,PHP,SELinux]
 HHVM （HipHop Virtual Machine） 是一个用于执行以 PHP 和 Hack 语言编写的代码的虚拟环境。它是由 Facebook 开发的，提供了当前 PHP 7 的大多数功能。要在你的服务器上运行 HHVM，你需要使用 FastCGI 来将 HHVM 和 Nginx 或 Apache 衔接起来，或者你也可以使用 HHVM 中的内置 Web 服务器 Proxygen。
 
 
-![](/Asserts/Images//attachment/album/201703/30/154015piw0vxfk1vzwll76.png)
+![](/Asserts/Images/album/201703/30/154015piw0vxfk1vzwll76.png)
 
 
 在这篇教程中，我将展示给你如何在 Nginx Web 服务器的 HHVM 上安装 WordPress。这里我使用 CentOS 7 作为操作系统，所以你需要懂一点 CentOS 操作的基础。
@@ -39,7 +39,7 @@ CentOS 7 已经默认启用 SELinux，我们可以通过以下命令来确认：
 
 ```
 
-![验证 SELinux 运行状态](/Asserts/Images//attachment/album/201703/30/154050wli510n0fq5nbfcb.png)
+![验证 SELinux 运行状态](/Asserts/Images/album/201703/30/154050wli510n0fq5nbfcb.png)
 
 
 如图，你能够看到，SELinux 已经开启了强制模式。
@@ -100,7 +100,7 @@ Nginx (发音：engine-x) 是一个高性能、低内存消耗的轻量级 Web �
 我这里使用浏览器来验证。
 
 
-![Nginx 正确运行](/Asserts/Images//attachment/album/201703/30/154050gzhaia3zxpoai89o.png)
+![Nginx 正确运行](/Asserts/Images/album/201703/30/154050gzhaia3zxpoai89o.png)
 
 
 ### 步骤 3 - 安装并配置 MariaDB
@@ -184,7 +184,7 @@ MariaDB [(none)]> \q
 
 ```
 
-![为 WordPress 的安装创建数据库和用户](/Asserts/Images//attachment/album/201703/30/154055t3tc327j38chm38y.png)
+![为 WordPress 的安装创建数据库和用户](/Asserts/Images/album/201703/30/154055t3tc327j38chm38y.png)
 
 
 现在安装好了 MariaDB，并为 WordPress 创建好了数据库。
@@ -239,7 +239,7 @@ MariaDB [(none)]> \q
 
 ```
 
-![安装 HHVM](/Asserts/Images//attachment/album/201703/30/154056wkljh19kkjry3284.png)
+![安装 HHVM](/Asserts/Images/album/201703/30/154056wkljh19kkjry3284.png)
 
 
 ### 步骤 5 - 配置 HHVM
@@ -364,7 +364,7 @@ hhvm.server.file_socket = /var/run/hhvm/hhvm.sock
 
 ```
 
-![Check the HHVM socket file](/Asserts/Images//attachment/album/201703/30/154056v60mflnmsvjhz6vl.png)
+![Check the HHVM socket file](/Asserts/Images/album/201703/30/154056v60mflnmsvjhz6vl.png)
 
 
 ### 步骤 6 - 配置 HHVM 和 Nginx
@@ -585,7 +585,7 @@ define('DB_HOST', 'localhost');
 保存并退出。
 
 
-![WordPress 配置](/Asserts/Images//attachment/album/201703/30/154056dppddtb9umud6mdq.png)
+![WordPress 配置](/Asserts/Images/album/201703/30/154056dppddtb9umud6mdq.png)
 
 
 修改关于 WordPress 目录的 SELinux 上下文。
@@ -604,37 +604,37 @@ define('DB_HOST', 'localhost');
 选择语言并点击<ruby> 继续 <rt>  Continue </rt></ruby>。
 
 
-![安装 Wordpress - 语言选择](/Asserts/Images//attachment/album/201703/30/154056j5hezz4rhi5cmnmp.png)
+![安装 Wordpress - 语言选择](/Asserts/Images/album/201703/30/154056j5hezz4rhi5cmnmp.png)
 
 
 根据自身要求填写站点标题和描述并点击<ruby> 安装 Wordpress <rt>  Install Wordpress </rt></ruby>"。
 
 
-![安装 Wordpress - 配置管理员账号和站点标题](/Asserts/Images//attachment/album/201703/30/154057i41iv4kxfonxavfv.png)
+![安装 Wordpress - 配置管理员账号和站点标题](/Asserts/Images/album/201703/30/154057i41iv4kxfonxavfv.png)
 
 
 耐心等待安装完成。你会见到如下页面，点击<ruby> 登录 <rt>  Log In </rt></ruby>来登录到管理面板。
 
 
-![安装 Wordpress - 成功安装](/Asserts/Images//attachment/album/201703/30/154057bjxllsxeiuguuufo.png)
+![安装 Wordpress - 成功安装](/Asserts/Images/album/201703/30/154057bjxllsxeiuguuufo.png)
 
 
 输入你设置的管理员用户账号和密码，在此点击<ruby> 登录 <rt>  Log In </rt></ruby>。
 
 
-![登录到 wordpress 管理面板](/Asserts/Images//attachment/album/201703/30/154057tolgpii9kxo3h8gs.png)
+![登录到 wordpress 管理面板](/Asserts/Images/album/201703/30/154057tolgpii9kxo3h8gs.png)
 
 
 现在你已经登录到 WordPress 的管理面板了。
 
 
-![Wordpress 管理面](/Asserts/Images//attachment/album/201703/30/154058d0kk61kzs9qakuy7.png)
+![Wordpress 管理面](/Asserts/Images/album/201703/30/154058d0kk61kzs9qakuy7.png)
 
 
 Wordpress 的主页：
 
 
-![Wordpress 默认主页](/Asserts/Images//attachment/album/201703/30/154058sfmt4mizjgmfaaiq.png)
+![Wordpress 默认主页](/Asserts/Images/album/201703/30/154058sfmt4mizjgmfaaiq.png)
 
 
 至此，我们已经在 CentOS 7 上通过 Nginx 和 HHVM 成功安装 Wordpress。

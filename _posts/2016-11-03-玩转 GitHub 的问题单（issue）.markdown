@@ -7,7 +7,7 @@ tags:	[linuxcn,issue,github,问题跟踪]
 ---
 
 
-![](/Asserts/Images//attachment/album/201611/30/084654wsl1s4evg3oqqlld.jpg)
+![](/Asserts/Images/album/201611/30/084654wsl1s4evg3oqqlld.jpg)
 
 
 对于大多数开源项目来讲，<ruby> 问题追踪系统 <rp>  （ </rp> <rt>  Issue-tracking system </rt> <rp>  ） </rp></ruby>是至关重要的。虽然有非常多的开源工具提供了这样的功能，但是大量项目还是选择了 GitHub 自带的<ruby> 问题追踪器 <rp>  （ </rp> <rt>  Issue Tracker </rt> <rp>  ） </rp></ruby>。
@@ -48,7 +48,7 @@ tags:	[linuxcn,issue,github,问题跟踪]
 我们建议，问题单的标题始终使用这样的用户故事形式。你可以设置[问题单模板](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)来保证一致性。
 
 
-![](/Asserts/Images//attachment/album/201611/30/084716xnqd7lbddbb3q60q.png)
+![](/Asserts/Images/album/201611/30/084716xnqd7lbddbb3q60q.png)
 
 
 *问题单模板让特性需求单保持统一的形式*
@@ -93,7 +93,7 @@ tags:	[linuxcn,issue,github,问题跟踪]
 比如说，你打算提交一个关于新版网站主页的问题单。那这个问题单的子任务列表可能就是这样的：
 
 
-![](/Asserts/Images//attachment/album/201611/30/084717fhcxfpbf3hjbzxxj.png)
+![](/Asserts/Images/album/201611/30/084717fhcxfpbf3hjbzxxj.png)
 
 
 *使用 markdown 的清单把复杂问题拆分成多个部分*
@@ -120,7 +120,7 @@ tags:	[linuxcn,issue,github,问题跟踪]
 团队决定使用某种问题单模板后，如何让所有人都照做？存储库里的 ReadMe.md 其实也可以是你们项目的 “How-to” 文档。这个文档应描述清楚这个项目是做什么的（最好是用可以搜索的语言），以及其他贡献者应当如何参与进来（比如提交需求单、bug 报告、建议，或者直接贡献代码）。
 
 
-![](/Asserts/Images//attachment/album/201611/30/084717dcpkczzo3cclx43d.png)
+![](/Asserts/Images/album/201611/30/084717dcpkczzo3cclx43d.png)
 
 
 *在 ReadMe 文件里增加清晰的说明，供新协作者参考*

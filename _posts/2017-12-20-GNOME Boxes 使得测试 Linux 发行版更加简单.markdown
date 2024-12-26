@@ -7,7 +7,7 @@ tags:	[linuxcn,虚拟机]
 ---
 
 
-![GNOME Boxes Distribution Selection](/Asserts/Images//attachment/album/201712/18/000416xbz588ylhcrgyooc.jpg)
+![GNOME Boxes Distribution Selection](/Asserts/Images/album/201712/18/000416xbz588ylhcrgyooc.jpg)
 
 
 

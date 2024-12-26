@@ -143,10 +143,10 @@ vim rules
 
 ```
 
-![adding pagespeed to nginx](/Asserts/Images//attachment/album/201506/27/214218nt7v3stq8tpfof0v.png)
+![adding pagespeed to nginx](/Asserts/Images/album/201506/27/214218nt7v3stq8tpfof0v.png)
 
 
-![adding pagespeed to nginx](/Asserts/Images//attachment/album/201506/27/214220gzbz44d4cez79bdb.png)
+![adding pagespeed to nginx](/Asserts/Images/album/201506/27/214220gzbz44d4cez79bdb.png)
 
 
 #### 第五步 - 打包 nginx 软件包并安装
@@ -169,7 +169,7 @@ ls
 
 ```
 
-![nginx builded with pagespeed](/Asserts/Images//attachment/album/201506/27/214222u3k57g8bhgeuwhbr.png)
+![nginx builded with pagespeed](/Asserts/Images/album/201506/27/214222u3k57g8bhgeuwhbr.png)
 
 
 接着安装 nginx。
@@ -181,7 +181,7 @@ dpkg -i nginx_1.8.0-1~trusty_amd64.deb
 
 ```
 
-![Install nginx](/Asserts/Images//attachment/album/201506/27/214224gr29ttctttktc4a4.png)
+![Install nginx](/Asserts/Images/album/201506/27/214224gr29ttctttktc4a4.png)
 
 
 ### 测试
@@ -196,7 +196,7 @@ nginx -V
 
 ```
 
-![nginx -V](/Asserts/Images//attachment/album/201506/27/214226y1aovlfbqwoc7mmo.png)
+![nginx -V](/Asserts/Images/album/201506/27/214226y1aovlfbqwoc7mmo.png)
 
 
 ### 总结

@@ -15,7 +15,7 @@ tags:	[linuxcn,AI,回收]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/25/234108f8yz3c3la8xw18mn.jpg)
+![](/Asserts/Images/album/202008/25/234108f8yz3c3la8xw18mn.jpg)
 
 
 微软正在将人工智能引入到对数百万台服务器进行分类的任务中，以确定哪些部件可以回收，在哪里回收。

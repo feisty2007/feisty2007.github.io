@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,3.18]
 ---
 
 
-![](/Asserts/Images//attachment/album/201412/15/162855zgg34g4f60wxwmw6.jpg)
+![](/Asserts/Images/album/201412/15/162855zgg34g4f60wxwmw6.jpg)
 
 
 新的一月意味着新的稳定版Linux内核的发布，前一段时间，Linus Torvalds[宣布Linux 3.18 很快就会发布了](https://lkml.org/lkml/2014/12/7/202)。

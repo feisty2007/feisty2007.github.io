@@ -7,7 +7,7 @@ tags:	[linuxcn,xfs]
 ---
 
 
-![Learn xfs commands with examples](/Asserts/Images//attachment/album/201802/11/232306zk2462tz72sgl77l.png)
+![Learn xfs commands with examples](/Asserts/Images/album/201802/11/232306zk2462tz72sgl77l.png)
 
 
 在我们另一篇文章中，我带您领略了一下[什么是 xfs，xfs 的相关特性等内容](https://kerneltalks.com/disk-management/xfs-filesystem-in-linux/)。本文我们来看一些常用的 xfs 管理命令。我们将会通过几个例子来讲解如何创建 xfs 文件系统，如何对 xfs 文件系统进行扩容，如何检测并修复 xfs 文件系统。

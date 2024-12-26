@@ -7,7 +7,7 @@ tags:	[linuxcn,符号链接]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/09/095016y7ranx1tssxdsttd.jpg)
+![](/Asserts/Images/album/202006/09/095016y7ranx1tssxdsttd.jpg)
 
 
 
@@ -120,7 +120,7 @@ $ find . -xtype l 2>/dev/null -exec rm {} \;
 
 ```
 $ rm ref1
-$ ln -s /apps/Asserts/Images//newfile ref1
+$ ln -s /apps/data/newfile ref1
 ```
 
 ### 总结

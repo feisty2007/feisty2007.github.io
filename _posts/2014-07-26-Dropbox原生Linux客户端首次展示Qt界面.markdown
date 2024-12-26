@@ -16,19 +16,19 @@ Dropbox表示这次的UI重写，将同时应用到Windows和Linux，将修复�
 在全新的设置向导和登录界面（见下面的图片）旁边是几个重新设计过的启动画面。
 
 
-![Login Screen ](/Asserts/Images//attachment/album/201407/25/142130ygx66ggbzfbf6xvb.jpg)
+![Login Screen ](/Asserts/Images/album/201407/25/142130ygx66ggbzfbf6xvb.jpg)
 
 
 登录界面
 
 
-![Setup Screen](/Asserts/Images//attachment/album/201407/25/142132gu7l62lxuvku7c6e.jpg)
+![Setup Screen](/Asserts/Images/album/201407/25/142132gu7l62lxuvku7c6e.jpg)
 
 
 设置界面
 
 
-![Congratulations Screen ](/Asserts/Images//attachment/album/201407/25/142133mj7j0mejjm9vk9vs.jpg)
+![Congratulations Screen ](/Asserts/Images/album/201407/25/142133mj7j0mejjm9vk9vs.jpg)
 
 
 欢迎界面
@@ -40,7 +40,7 @@ Dropbox表示这次的UI重写，将同时应用到Windows和Linux，将修复�
 Dropbox开发人员提醒参与测试的人，目前大部分新界面“还很粗糙”，在使用中可能会碰到大量的界面问题。新界面还不能配合一些辅助工具一起工作，例如屏幕阅读器。
 
 
-![](/Asserts/Images//attachment/album/201407/25/142135qxuw61t643336116.jpg)
+![](/Asserts/Images/album/201407/25/142135qxuw61t643336116.jpg)
 
 
 新UI使用了（目前）系统自带的Qt界面主题。它本身也不算很丑，不过在Ubuntu桌面上看起来不怎么合适，特别是和之前的版本比较。据说内存占用也变多了，在空闲情况下有时候会从60MB一下子跳到178MB。那些使用低端设备的人应该忍耐一下试用这个版本的诱惑－至少在这个特别的问题解决之后。
@@ -72,7 +72,7 @@ Dropbox 2.11.0 (试验版本) for Linux的完整改动日志：
 演示Dropbox终端操作的gif动画：
 
 
-![](/Asserts/Images//attachment/album/201407/25/142137dha5bqlvqzlkklbq.gif)
+![](/Asserts/Images/album/201407/25/142137dha5bqlvqzlkklbq.gif)
 
 
 

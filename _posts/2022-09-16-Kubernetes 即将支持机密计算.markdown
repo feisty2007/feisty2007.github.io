@@ -7,7 +7,7 @@ tags:	[linuxcn,秘密计算,机密虚拟机,kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/29/092244oppo5ppu5gp55fpg.png)
+![](/Asserts/Images/album/202209/29/092244oppo5ppu5gp55fpg.png)
 
 
 

@@ -15,7 +15,7 @@ tags:	[linuxcn,strace]
 > 
 
 
-![](/Asserts/Images//attachment/album/201911/06/131316xf9059emez99a829.jpg)
+![](/Asserts/Images/album/201911/06/131316xf9059emez99a829.jpg)
 
 
 <ruby> 系统调用 <rt>  system call </rt></ruby>是程序从内核请求服务的一种编程方式，而 `strace` 是一个功能强大的工具，可让你跟踪用户进程与 Linux 内核之间的交互。

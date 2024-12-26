@@ -7,10 +7,10 @@ tags:	[linuxcn,Chrome,KDE,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/05/144751qzg1lerggl993geh.jpg)
+![](/Asserts/Images/album/202303/05/144751qzg1lerggl993geh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/05/144804tzaua8rgggrx333y.jpg)
+![](/Asserts/Images/album/202303/05/144804tzaua8rgggrx333y.jpg)
 
 
 ### 谷歌在 iPhone 上测试基于自己的引擎的 Chrome
@@ -35,7 +35,7 @@ tags:	[linuxcn,Chrome,KDE,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/05/144829y6ns35x2y1oqsxx6.jpg)
+![](/Asserts/Images/album/202303/05/144829y6ns35x2y1oqsxx6.jpg)
 
 
 ### KDE Plasma 6.0 将迁移到 Qt6
@@ -60,7 +60,7 @@ tags:	[linuxcn,Chrome,KDE,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/05/144845xcod7udo7018sodc.jpg)
+![](/Asserts/Images/album/202303/05/144845xcod7udo7018sodc.jpg)
 
 
 ### 微软公布可以理解图像内容的 AI 模型

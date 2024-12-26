@@ -7,7 +7,7 @@ tags:	[linuxcn,UUID,分区]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/15/113447z6oqjjojb63pbbxp.jpg)
+![](/Asserts/Images/album/201904/15/113447z6oqjjojb63pbbxp.jpg)
 
 
 作为一个 Linux 系统管理员，你应该知道如何去查看分区的 UUID 或文件系统的 UUID。因为现在大多数的 Linux 系统都使用 UUID 挂载分区。你可以在 `/etc/fstab` 文件中可以验证。

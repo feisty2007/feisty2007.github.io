@@ -10,7 +10,7 @@ tags:	[linuxcn,samba]
 这篇文章讲述了如何使用 Authconfig-gtk 工具将 CentOS 7 桌面系统加入到 Samba4 AD 域环境中，并使用域帐号登录到 CentOS 系统。
 
 
-![](/Asserts/Images//attachment/album/201705/17/145148z2z2sccj8cp7sj68.jpg)
+![](/Asserts/Images/album/201705/17/145148z2z2sccj8cp7sj68.jpg)
 
 
 ### 要求
@@ -34,13 +34,13 @@ tags:	[linuxcn,samba]
 设置完成之后，应用配置，并打开有线网卡。
 
 
-![](/Asserts/Images//attachment/album/201705/17/151749pea8111tatjfaab0.jpg)
+![](/Asserts/Images/album/201705/17/151749pea8111tatjfaab0.jpg)
 
 
 *网络设置*
 
 
-![](/Asserts/Images//attachment/album/201705/17/151847kzmmfcsmcfe1cycc.jpg)
+![](/Asserts/Images/album/201705/17/151847kzmmfcsmcfe1cycc.jpg)
 
 
 *配置网络*
@@ -64,7 +64,7 @@ SEARCH="your_domain_name"
 
 ```
 
-*![](/Asserts/Images//attachment/album/201705/17/151948qgykbe7emeeeejb9.jpg)*
+*![](/Asserts/Images/album/201705/17/151948qgykbe7emeeeejb9.jpg)*
 
 
 *网卡配置*
@@ -83,7 +83,7 @@ $ ping tecmint.lan
 
 ```
 
-![](/Asserts/Images//attachment/album/201705/17/153310yn797h2h71029akh.jpg)
+![](/Asserts/Images/album/201705/17/153310yn797h2h71029akh.jpg)
 
 
 *验证网络配置是否正常*
@@ -164,7 +164,7 @@ $ sudo authconfig-gtk
 * 勾选允许离线登录
 
 
-![](/Asserts/Images//attachment/album/201705/17/153602abqcq3zcbca7gb8s.jpg)
+![](/Asserts/Images/album/201705/17/153602abqcq3zcbca7gb8s.jpg)
 
 
 *域认证配置*
@@ -177,7 +177,7 @@ $ sudo authconfig-gtk
 * 其它认证选项 ： 用户首次登录创建家目录
 
 
-![](/Asserts/Images//attachment/album/201705/17/154238js2imzui2bg9k0zi.jpg)
+![](/Asserts/Images/album/201705/17/154238js2imzui2bg9k0zi.jpg)
 
 
 *高级认证配置*
@@ -186,13 +186,13 @@ $ sudo authconfig-gtk
 9、修改完上面的配置之后，返回到身份或认证配置页面，点击加入域按钮，在弹出的提示框点保存即可。
 
 
-![](/Asserts/Images//attachment/album/201705/17/155141gyif2gezyoee9nie.jpg)
+![](/Asserts/Images/album/201705/17/155141gyif2gezyoee9nie.jpg)
 
 
 *身份和认证*
 
 
-![](/Asserts/Images//attachment/album/201705/17/155212i33k3v47r3okuhuk.jpg)
+![](/Asserts/Images/album/201705/17/155212i33k3v47r3okuhuk.jpg)
 
 
 *保存认证配置*
@@ -201,7 +201,7 @@ $ sudo authconfig-gtk
 10、保存配置之后，系统将会提示你提供域管理员信息以将 CentOS 系统加入到域中。输入域管理员帐号及密码后点击 OK 按钮，加入域完成。
 
 
-![](/Asserts/Images//attachment/album/201705/17/155243dpw45pt5w2zor2r2.jpg)
+![](/Asserts/Images/album/201705/17/155243dpw45pt5w2zor2r2.jpg)
 
 
 *加入 Winbind 域环境*
@@ -210,7 +210,7 @@ $ sudo authconfig-gtk
 11、加入域后，点击应用按钮以让配置生效，选择所有的 windows 并重启机器。
 
 
-![](/Asserts/Images//attachment/album/201705/17/155411mwicfmkxuuu9bmeo.jpg)
+![](/Asserts/Images/album/201705/17/155411mwicfmkxuuu9bmeo.jpg)
 
 
 *应用认证配置*
@@ -222,7 +222,7 @@ $ sudo authconfig-gtk
 你将会在右侧看到 CentOS 主机信息。
 
 
-![](/Asserts/Images//attachment/album/201705/17/155526hpm72apmm1zcm1rm.jpg)
+![](/Asserts/Images/album/201705/17/155526hpm72apmm1zcm1rm.jpg)
 
 
 *活动目录用户和计算机*
@@ -242,13 +242,13 @@ Domain_user@domain.tld
 
 ```
 
-*![](/Asserts/Images//attachment/album/201705/17/155649u8yikss7f11r7c6f.jpg)*
+*![](/Asserts/Images/album/201705/17/155649u8yikss7f11r7c6f.jpg)*
 
 
 *使用其它账户*
 
 
-*![](/Asserts/Images//attachment/album/201705/17/155725qqrshhhho6c9hhee.jpg)*
+*![](/Asserts/Images/album/201705/17/155725qqrshhhho6c9hhee.jpg)*
 
 
 *输入域用户名*
@@ -264,13 +264,13 @@ $ su - domain_user@domain.tld
 
 ```
 
-*![](/Asserts/Images//attachment/album/201705/17/155752f3wkw7k8f87kr4k9.jpg)*
+*![](/Asserts/Images/album/201705/17/155752f3wkw7k8f87kr4k9.jpg)*
 
 
 *使用域帐号登录*
 
 
-![](/Asserts/Images//attachment/album/201705/17/160019veb3gwqm39b5ququ.jpg)
+![](/Asserts/Images/album/201705/17/160019veb3gwqm39b5ququ.jpg)
 
 
 *使用域帐号邮箱登录*
@@ -286,7 +286,7 @@ YOUR_DOMAIN\\domain_username             ALL=(ALL:ALL) ALL      #For domain user
 
 ```
 
-*![](/Asserts/Images//attachment/album/201705/17/160103lvbzs440fbybxvy2.jpg)*
+*![](/Asserts/Images/album/201705/17/160103lvbzs440fbybxvy2.jpg)*
 
 
 *指定用户和用户组权限*
@@ -301,7 +301,7 @@ $ sudo net ads info
 
 ```
 
-*![](/Asserts/Images//attachment/album/201705/17/160132dcu17qvmmi7xkmtd.jpg)*
+*![](/Asserts/Images/album/201705/17/160132dcu17qvmmi7xkmtd.jpg)*
 
 
 *查看域控制器信息*
@@ -329,7 +329,7 @@ $ wbinfo -n domain_account ### 查看域帐号的 SID 信息
 
 ```
 
-*![](/Asserts/Images//attachment/album/201705/17/160159s63la9k0ljz69ll2.jpg)*
+*![](/Asserts/Images/album/201705/17/160159s63la9k0ljz69ll2.jpg)*
 
 
 *查看 Samba4 AD DC 信息*
@@ -344,7 +344,7 @@ $ sudo net ads leave your_domain -U domain_admin_username
 
 ```
 
-*![](/Asserts/Images//attachment/album/201705/17/160232kv0bljvl81v5khzk.jpg)*
+*![](/Asserts/Images/album/201705/17/160232kv0bljvl81v5khzk.jpg)*
 
 
 *退出 Samba4 AD 域*

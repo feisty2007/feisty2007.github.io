@@ -16,7 +16,7 @@ tags:	[linuxcn,]
 正如字面所述，[DebianDog](https://debiandog.github.io/doglinux/) “是一个被塑造成一个外观和动作都像 Puppy Linux 的小型 Debian 现场版 CD。没有改动 Debian 结构和方式，Debian 的文档对 DebianDog 来说是完全有效的。你可以使用 `apt-get` 或 synaptic 来访问所有的 Debian 存储库。”
 
 
-![](/Asserts/Images//attachment/album/202003/31/104715vwxgr5rcktmt2gfo.jpg)
+![](/Asserts/Images/album/202003/31/104715vwxgr5rcktmt2gfo.jpg)
 
 
 对于那些不熟悉 [Puppy Linux](http://puppylinux.com/) 的人来说，该项目是 “多个 Linux 发行版的一个集合，建立在相同的共享准则之上”。这些准则能够实现快速、小型（300 MB 或更少）、易于使用。这里有为支持 Ubuntu, Slackware 和 Raspbian 软件包构建的 Puppy Linux 变种。
@@ -73,7 +73,7 @@ XenialDog 有 [32 位](https://debiandog.github.io/doglinux/zz05xenialdog.html)�
 [TrintyDog](https://debiandog.github.io/doglinux/zz06-trinitydog.html) 有两种变体。一个基于 Debian 8 ，另一个基于 Debian 9 。两种变体都有 32 位版本，并且都使用 [Trinity Desktop Environment](https://www.trinitydesktop.org/) ，以此得名。
 
 
-![TrinityDog](/Asserts/Images//attachment/album/202003/31/104719yqdddsyvj08xyqzx.jpg)
+![TrinityDog](/Asserts/Images/album/202003/31/104719yqdddsyvj08xyqzx.jpg)
 
 
 #### BionicDog
@@ -82,7 +82,7 @@ XenialDog 有 [32 位](https://debiandog.github.io/doglinux/zz05xenialdog.html)�
 你应该能够从名称猜到。[BionicDog](https://debiandog.github.io/doglinux/zz06-zbionicdog.html) 基于 [Ubuntu 18.04 LTS](https://itsfoss.com/ubuntu-18-04-released/)。主要版本有 32 位和 64 位两个版本，Openbox 是默认的窗口管理器。这里也有一个使用 [Cinnamon desktop](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)) 的版本，并且只有 64 位版本。
 
 
-![BionicDog](/Asserts/Images//attachment/album/202003/31/104722v1caqxuhch595op4.jpg)
+![BionicDog](/Asserts/Images/album/202003/31/104722v1caqxuhch595op4.jpg)
 
 
 ### 结束语

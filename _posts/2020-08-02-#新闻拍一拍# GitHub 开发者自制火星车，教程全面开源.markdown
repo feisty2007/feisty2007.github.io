@@ -7,7 +7,7 @@ tags:	[linuxcn,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/01/112853kh6hzhoy0y3xik96.jpg)
+![](/Asserts/Images/album/202008/01/112853kh6hzhoy0y3xik96.jpg)
 
 
 #### GitHub 开发者自制火星车，教程全面开源

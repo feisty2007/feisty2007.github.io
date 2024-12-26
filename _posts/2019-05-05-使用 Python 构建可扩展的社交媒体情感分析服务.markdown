@@ -15,7 +15,7 @@ tags:	[linuxcn,情感]
 > 
 
 
-![](/Asserts/Images//attachment/album/201905/17/235241zr0cs4czu4psmrl6.jpg)
+![](/Asserts/Images/album/201905/17/235241zr0cs4czu4psmrl6.jpg)
 
 
 本系列的[第一部分](/article-10852-1.html)提供了情感分析工作原理的一些背景知识，现在让我们研究如何将这些功能添加到你的设计中。

@@ -15,7 +15,7 @@ tags:	[linuxcn,密码管理器]
 > 
 
 
-![](/Asserts/Images//attachment/album/201911/03/102528e97mr0ls89lz9rrr.jpg)
+![](/Asserts/Images/album/201911/03/102528e97mr0ls89lz9rrr.jpg)
 
 
 密码无处不在。网站、论坛、Web 应用等，你需要为其创建帐户和密码。麻烦在于密码，为各个帐户使用相同的密码会带来安全风险，因为[如果其中一个网站遭到入侵，黑客也会在其他网站上尝试相同的电子邮件密码组合](https://medium.com/@computerphonedude/one-of-my-old-passwords-was-hacked-on-6-different-sites-and-i-had-no-clue-heres-how-to-quickly-ced23edf3b62)。
@@ -53,7 +53,7 @@ tags:	[linuxcn,密码管理器]
 #### 1、Bitwarden
 
 
-![](/Asserts/Images//attachment/album/201911/03/102601ta6d7qhcmeqe73zz.png)
+![](/Asserts/Images/album/201911/03/102601ta6d7qhcmeqe73zz.png)
 
 
 主要亮点：
@@ -88,7 +88,7 @@ Bitwarden 是 Linux 上最令人印象深刻的密码管理器之一。老实说
 #### 2、Buttercup
 
 
-![](/Asserts/Images//attachment/album/201911/03/102603am99ae9ex3z2ax04.png)
+![](/Asserts/Images/album/201911/03/102603am99ae9ex3z2ax04.png)
 
 
 主要亮点：
@@ -115,7 +115,7 @@ Bitwarden 是 Linux 上最令人印象深刻的密码管理器之一。老实说
 #### 3、KeePassXC
 
 
-![](/Asserts/Images//attachment/album/201911/03/102605aucddqc20xqd300e.png)
+![](/Asserts/Images/album/201911/03/102605aucddqc20xqd300e.png)
 
 
 主要亮点：
@@ -142,7 +142,7 @@ KeePassXC 是 [KeePassX](https://www.keepassx.org/) 的社区分支，它最初�
 #### 4、Enpass （非开源）
 
 
-![](/Asserts/Images//attachment/album/201911/03/102607yx95xbk6k9kzrt2q.png)
+![](/Asserts/Images/album/201911/03/102607yx95xbk6k9kzrt2q.png)
 
 
 主要亮点：
@@ -168,7 +168,7 @@ Enpass 是非常流行的跨平台密码管理器。即使它不是开源解决�
 #### 5、myki （非开源）
 
 
-![](/Asserts/Images//attachment/album/201911/03/102614yxagj84xdaurjrte.png)
+![](/Asserts/Images/album/201911/03/102614yxagj84xdaurjrte.png)
 
 
 主要亮点：

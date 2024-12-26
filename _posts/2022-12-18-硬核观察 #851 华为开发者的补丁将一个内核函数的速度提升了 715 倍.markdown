@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,X.org,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/15/160627fer28rf6rz620rba.jpg)
+![](/Asserts/Images/album/202212/15/160627fer28rf6rz620rba.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/15/160636nrvb8e36k68f4f68.jpg)
+![](/Asserts/Images/album/202212/15/160636nrvb8e36k68f4f68.jpg)
 
 
 ### 华为开发者的补丁将一个内核函数的速度提升了 715 倍
@@ -35,7 +35,7 @@ tags:	[linuxcn,内核,X.org,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/15/160650fxomszq3q6l6fqqj.jpg)
+![](/Asserts/Images/album/202212/15/160650fxomszq3q6l6fqqj.jpg)
 
 
 ### X.org 紧急发布补丁，WayLand 也没逃开
@@ -60,7 +60,7 @@ tags:	[linuxcn,内核,X.org,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/15/160706gw0ltpij3yrqa00y.jpg)
+![](/Asserts/Images/album/202212/15/160706gw0ltpij3yrqa00y.jpg)
 
 
 ### 谷歌发布开源软件安全漏洞扫描器

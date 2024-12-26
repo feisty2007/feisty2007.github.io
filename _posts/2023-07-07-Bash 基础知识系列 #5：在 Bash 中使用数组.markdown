@@ -7,7 +7,7 @@ tags:	[linuxcn,脚本,Bash]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/20/150302ttfmzchutthfcncm.jpg)
+![](/Asserts/Images/album/202307/20/150302ttfmzchutthfcncm.jpg)
 
 
 
@@ -81,7 +81,7 @@ echo ${distros[2]}
 
 ```
 
-![Example of accessing array elements in bash shell](/Asserts/Images//attachment/album/202307/20/150331v71tmaqm1jzd77dw.png)
+![Example of accessing array elements in bash shell](/Asserts/Images/album/202307/20/150331v71tmaqm1jzd77dw.png)
 
 
 
@@ -110,7 +110,7 @@ ${array[*]}
 这将为你提供所有数组元素。
 
 
-![Accessing all array elements at once in bash shell](/Asserts/Images//attachment/album/202307/20/150331gwjdj0sg0bgjkol6.png)
+![Accessing all array elements at once in bash shell](/Asserts/Images/album/202307/20/150331gwjdj0sg0bgjkol6.png)
 
 
 ### 在 Bash 中获取数组长度
@@ -128,7 +128,7 @@ ${#array_name[@]}
 就这么简单，对吧？
 
 
-![Get array length in bash](/Asserts/Images//attachment/album/202307/20/150332q41cz17smbwb84wx.png)
+![Get array length in bash](/Asserts/Images/album/202307/20/150332q41cz17smbwb84wx.png)
 
 
 ### 在 Bash 中添加数组元素
@@ -146,7 +146,7 @@ array_name+=("new_value")
 这是一个例子：
 
 
-![Append new element to array](/Asserts/Images//attachment/album/202307/20/150332rmyaqvwwuajzusq8.png)
+![Append new element to array](/Asserts/Images/album/202307/20/150332rmyaqvwwuajzusq8.png)
 
 
 
@@ -172,7 +172,7 @@ array_name[N]=new_value
 如果你使用“越界”索引，它仍会添加到最后一个元素之后。例如，如果数组长度为 6，并且你尝试在索引 9 处设置新值，则该值仍将作为最后一个元素添加到第 7 个位置（索引 6）。
 
 
-![](/Asserts/Images//attachment/album/202307/20/150332e611mwv3awqmipwp.png)
+![](/Asserts/Images/album/202307/20/150332e611mwv3awqmipwp.png)
 
 
 ### 删除数组元素
@@ -190,7 +190,7 @@ unset array_name[N]
 这是一个示例，我删除了数组的第四个元素。
 
 
-![Delete array element in bash](/Asserts/Images//attachment/album/202307/20/150333efv3q6qga3urrviq.png)
+![Delete array element in bash](/Asserts/Images/album/202307/20/150333efv3q6qga3urrviq.png)
 
 
 你还可以通过 unset 来删除整个数组：

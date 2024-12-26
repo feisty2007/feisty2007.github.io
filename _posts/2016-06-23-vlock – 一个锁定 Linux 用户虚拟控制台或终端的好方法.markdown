@@ -13,7 +13,7 @@ tags:	[linuxcn,vlock,控制台]
 一个用户可以同时操作多个虚拟控制台会话，只需在虚拟控制台间来回切换即可。
 
 
-![](/Asserts/Images//attachment/album/201606/28/210359itkkt6hoeeheetih.png)
+![](/Asserts/Images/album/201606/28/210359itkkt6hoeeheetih.png)
 
 
 *用 vlock 锁定 Linux 用户控制台或终端*
@@ -70,7 +70,7 @@ vlock 操作选项的常规语法：
 
 ```
 
-![](/Asserts/Images//attachment/album/201606/28/210359hzaqac1kakyz35ky.png)
+![](/Asserts/Images/album/201606/28/210359hzaqac1kakyz35ky.png)
 
 
 *锁定 Linux 用户终端会话*
@@ -88,7 +88,7 @@ vlock 操作选项的常规语法：
 
 ```
 
-![](/Asserts/Images//attachment/album/201606/28/210400hr5aacba9mw0chfh.png)
+![](/Asserts/Images/album/201606/28/210400hr5aacba9mw0chfh.png)
 
 
 *锁定所有 Linux 终端会话*

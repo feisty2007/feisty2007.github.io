@@ -15,7 +15,7 @@ tags:	[linuxcn,NAS,树莓派]
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/12/014802z3369tgclgclmz3t.jpg)
+![](/Asserts/Images/album/201810/12/014802z3369tgclgclmz3t.jpg)
 
 
 我将在接下来的这三篇文章中讲述如何搭建一个简便、实用的 NAS 云盘系统。我在这个中心化的存储系统中存储数据，并且让它每晚都会自动的备份增量数据。本系列文章将利用 NFS 文件系统将磁盘挂载到同一网络下的不同设备上，使用 [Nextcloud](https://nextcloud.com/) 来离线访问数据、分享数据。
@@ -27,7 +27,7 @@ tags:	[linuxcn,NAS,树莓派]
 最终的系统架构如下图所示：
 
 
-![](/Asserts/Images//attachment/album/201810/12/014813ih7a49pq74qe0kr6.png)
+![](/Asserts/Images/album/201810/12/014813ih7a49pq74qe0kr6.png)
 
 
 ### 硬件
@@ -180,23 +180,23 @@ pi@raspberrypi:~ $ sudo mkdir /nas
 
 
 ```
-data -fstype=ext4,rw :/dev/disk/by-label/Asserts/Images/
+data -fstype=ext4,rw :/dev/disk/by-label/data
 backup -fstype=ext4,rw :/dev/disk/by-label/backup
 pi@raspberrypi3:~ $ sudo service autofs restart
 ```
 
-现在你应该可以分别访问 `/nas/Asserts/Images/` 以及 `/nas/backup` 磁盘了。显然，到此还不会令人太兴奋，因为你只是擦除了磁盘中的数据。不过，你可以执行以下命令来确认设备是否已经挂载成功：
+现在你应该可以分别访问 `/nas/data` 以及 `/nas/backup` 磁盘了。显然，到此还不会令人太兴奋，因为你只是擦除了磁盘中的数据。不过，你可以执行以下命令来确认设备是否已经挂载成功：
 
 
 
 ```
-pi@raspberrypi3:~ $ cd /nas/Asserts/Images/
-pi@raspberrypi3:/nas/Asserts/Images/ $ cd /nas/backup
+pi@raspberrypi3:~ $ cd /nas/data
+pi@raspberrypi3:/nas/data $ cd /nas/backup
 pi@raspberrypi3:/nas/backup $ mount
 <...>
 /etc/auto.usb on /nas type autofs (rw,relatime,fd=6,pgrp=463,timeout=300,minproto=5,maxproto=5,indirect)
 <...>
-/dev/sda1 on /nas/Asserts/Images/ type ext4 (rw,relatime,data=ordered)
+/dev/sda1 on /nas/data type ext4 (rw,relatime,data=ordered)
 /dev/sdb1 on /nas/backup type ext4 (rw,relatime,data=ordered)
 ```
 
@@ -217,12 +217,12 @@ pi@raspberrypi3:/nas/backup $ mount
 pi@raspberrypi:~ $ sudo apt install nfs-kernel-server
 ```
 
-然后，需要告诉 NFS 服务器公开 `/nas/Asserts/Images/` 目录，这是从树莓派外部可以访问的唯一设备（另一个用于备份）。编辑 `/etc/exports` 添加如下内容以允许所有可以访问 NAS 云盘的设备挂载存储：
+然后，需要告诉 NFS 服务器公开 `/nas/data` 目录，这是从树莓派外部可以访问的唯一设备（另一个用于备份）。编辑 `/etc/exports` 添加如下内容以允许所有可以访问 NAS 云盘的设备挂载存储：
 
 
 
 ```
-/nas/Asserts/Images/ *(rw,sync,no_subtree_check)
+/nas/data *(rw,sync,no_subtree_check)
 ```
 
 更多有关限制挂载到单个设备的详细信息，请参阅 `man exports`。经过上面的配置，任何人都可以访问数据，只要他们可以访问 NFS 所需的端口：`111` 和 `2049`。我通过上面的配置，只允许通过路由器防火墙访问到我的家庭网络的 22 和 443 端口。这样，只有在家庭网络中的设备才能访问 NFS 服务器。
@@ -233,8 +233,8 @@ pi@raspberrypi:~ $ sudo apt install nfs-kernel-server
 
 
 ```
-you@desktop:~ $ sudo mkdir /nas/Asserts/Images/
-you@desktop:~ $ sudo mount -t nfs <raspberry-pi-hostname-or-ip>:/nas/Asserts/Images/ /nas/Asserts/Images/
+you@desktop:~ $ sudo mkdir /nas/data
+you@desktop:~ $ sudo mount -t nfs <raspberry-pi-hostname-or-ip>:/nas/data /nas/data
 ```
 
 同样，我建议使用 autofs 来挂载该网络设备。如果需要其他帮助，请参看 [如何使用 Autofs 来挂载 NFS 共享](https://opensource.com/article/18/6/using-autofs-mount-nfs-shares)。

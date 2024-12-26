@@ -15,7 +15,7 @@ tags:	[linuxcn,手机,诺基亚]
 > 
 
 
-![诺基亚](/Asserts/Images//attachment/album/202207/17/165553m36r1d6o67rmh16b.jpg)
+![诺基亚](/Asserts/Images/album/202207/17/165553m36r1d6o67rmh16b.jpg)
 
 
 近期，一个旨在打造经典诺基亚（小型）的 Linux 手机的开源项目，遭到了诺基亚的抨击。
@@ -36,7 +36,7 @@ tags:	[linuxcn,手机,诺基亚]
 该项目的目标是设计一个完全适合诺基亚经典手机外壳的 PCB。
 
 
-![](/Asserts/Images//attachment/album/202207/17/165554rr6r0s0assszrqvs.jpg)
+![](/Asserts/Images/album/202207/17/165554rr6r0s0assszrqvs.jpg)
 
 
 到目前为止，该项目已经支持许多硬件相关的功能，包括蓝牙和 Wi-Fi。
@@ -65,7 +65,7 @@ tags:	[linuxcn,手机,诺基亚]
 > 再次阅读 [@Nokia](https://twitter.com/nokia?ref_src=twsrc%5Etfw) 的邮件后，我开始感到愤怒。这无非是一场精心策划的演出。既然它是一个协作项目，并且得到了世界各地的人们的贡献，因此，我将把完整的电子邮件发布给它的“预期收件人”。
 > 
 > 
-> ![来自推特 @ReimuNotMoe](/Asserts/Images//attachment/album/202207/17/165628tqa5oruxqbq0ocxz.jpg)
+> ![来自推特 @ReimuNotMoe](/Asserts/Images/album/202207/17/165628tqa5oruxqbq0ocxz.jpg)
 > 
 > 
 > 

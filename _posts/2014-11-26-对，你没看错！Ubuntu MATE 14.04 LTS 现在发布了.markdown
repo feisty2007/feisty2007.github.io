@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu MATE]
 ---
 
 
-![](/Asserts/Images//attachment/album/201411/16/203540odho6io48o6vo5o6.jpg)
+![](/Asserts/Images/album/201411/16/203540odho6io48o6vo5o6.jpg)
 
 
 **传统桌面的粉丝现在可以欢呼了，Ubuntu MATE的第一个长期支持版本现在发布了，马上去下载吧！**

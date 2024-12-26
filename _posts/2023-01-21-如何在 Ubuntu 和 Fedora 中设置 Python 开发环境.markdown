@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/24/111553awf8ufcd6vkzwqcq.jpg)
+![](/Asserts/Images/album/202301/24/111553awf8ufcd6vkzwqcq.jpg)
 
 
 
@@ -51,7 +51,7 @@ python3
 
 ```
 
-![python3](/Asserts/Images//attachment/album/202301/24/111838u56rim8n6inl5ool.jpg)
+![python3](/Asserts/Images/album/202301/24/111838u56rim8n6inl5ool.jpg)
 
 
 如果你运行的是早期版本的 Ubuntu 或 Fedora，那么你可以使用以下命令安装最新的 Python 3.x：
@@ -117,7 +117,7 @@ echo $PATH
 
 ```
 
-![PATH 变量](/Asserts/Images//attachment/album/202301/24/111845gmh2kzpichlim2dr.png)
+![PATH 变量](/Asserts/Images/album/202301/24/111845gmh2kzpichlim2dr.png)
 
 
 你可以看到 `/usr/local/bin` 在 `/usr/bin/` 之前，那么你可以创建一个软符号链接到 `python3`。然后你的解释器在运行 `python` 命令时就会找到最新的 Python 3 而不是 Python 2。
@@ -168,7 +168,7 @@ sudo dnf install python-tools
 安装后，你可以从命令行空闲启动 IDLE 或从应用程序中搜索。
 
 
-![IDLE](/Asserts/Images//attachment/album/202301/24/111853c03ftmfl090i113f.png)
+![IDLE](/Asserts/Images/album/202301/24/111853c03ftmfl090i113f.png)
 
 
 现在，你可以使用 IDLE 开始你的开发。大部分的基本选项你可以在 IDLE 的文件菜单中找到。

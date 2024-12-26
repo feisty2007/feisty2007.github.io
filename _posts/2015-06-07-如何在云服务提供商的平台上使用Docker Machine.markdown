@@ -10,7 +10,7 @@ tags:	[linuxcn,Docker,Docker Machine]
 大家好，今天我们来了解如何使用Docker Machine在各种云服务提供商的平台上部署Docker。Docker Machine是一个可以帮助我们在自己的电脑、云服务提供商的平台以及我们数据中心的机器上创建Docker机器的应用程序。它为创建服务器、在服务器中安装Docker、根据用户需求配置Docker客户端提供了简单的解决方案。驱动API对本地机器、数据中心的虚拟机或者公用云机器都适用。Docker Machine支持Windows、OSX和Linux，并且提供一个独立的二进制文件，可以直接使用。它让我们可以充分利用支持Docker的基础设施的生态环境合作伙伴，并且使用相同的接口进行访问。它让人们可以使用一个命令来简单而迅速地在不同的云平台部署Docker容器。
 
 
-![](/Asserts/Images//attachment/album/201506/24/001357io5db3zedre5w1ue.jpg)
+![](/Asserts/Images/album/201506/24/001357io5db3zedre5w1ue.jpg)
 
 
 ### 1. 安装Docker Machine
@@ -55,7 +55,7 @@ Docker Machine可以很好地支持每一种Linux发行版。首先，我们需�
 
 ```
 
-![Installing Docker Machine](/Asserts/Images//attachment/album/201506/24/001412yep0l10kilh1910z.png)
+![Installing Docker Machine](/Asserts/Images/album/201506/24/001412yep0l10kilh1910z.png)
 
 
 要在我们的机器上启用docker命令，需要使用如下命令安装Docker客户端：
@@ -82,7 +82,7 @@ Docker Machine可以很好地支持每一种Linux发行版。首先，我们需�
 
 ```
 
-![Docker Machine Digitalocean Cloud](/Asserts/Images//attachment/album/201506/24/001412iot04e030gi415l7.png)
+![Docker Machine Digitalocean Cloud](/Asserts/Images/album/201506/24/001412iot04e030gi415l7.png)
 
 
 **注意**： 这里linux-dev是我们将要创建的机器的名称。`<API-Token>`是一个安全key，可以在Digtal Ocean Control Panel生成。要找到这个key，我们只需要登录到我们的Digital Ocean Control Panel，然后点击API，再点击 Generate New Token，填写一个名称，选上Read和Write。然后我们就会得到一串十六进制的key，那就是`<API-Token>`，简单地替换到上边的命令中即可。
@@ -91,7 +91,7 @@ Docker Machine可以很好地支持每一种Linux发行版。首先，我们需�
 运行如上命令后，我们可以在Digital Ocean Droplet Panel中看到一个具有默认配置的droplet已经被创建出来了。
 
 
-![DigitalOcean Droplet Panel](/Asserts/Images//attachment/album/201506/24/001413azcbfi55ir83ei6f.png)
+![DigitalOcean Droplet Panel](/Asserts/Images/album/201506/24/001413azcbfi55ir83ei6f.png)
 
 
 简便起见，docker-machine会使用默认配置来部署Droplet。我们可以通过增加选项来定制我们的Droplet。这里是一些digitalocean相关的选项，我们可以使用它们来覆盖Docker Machine所使用的默认配置。
@@ -125,7 +125,7 @@ Docker Machine可以很好地支持每一种Linux发行版。首先，我们需�
 
 ```
 
-![Docker Machine List](/Asserts/Images//attachment/album/201506/24/001413gm4zqlyc0xcqwosi.png)
+![Docker Machine List](/Asserts/Images/album/201506/24/001413gm4zqlyc0xcqwosi.png)
 
 
 ACTIVE一列有“\*”标记的是活跃主机。
@@ -170,7 +170,7 @@ ACTIVE一列有“\*”标记的是活跃主机。
 
 ```
 
-![Docker Machine SSH](/Asserts/Images//attachment/album/201506/24/001414ndnvbzvvtzzt7b8g.png)
+![Docker Machine SSH](/Asserts/Images/album/201506/24/001414ndnvbzvvtzzt7b8g.png)
 
 
 SSH到机器上之后，我们可以在上边运行任何Docker容器。这里我们运行一个nginx：
@@ -203,7 +203,7 @@ SSH到机器上之后，我们可以在上边运行任何Docker容器。这里�
 
 ```
 
-![Docker Machine Remove All](/Asserts/Images//attachment/album/201506/24/001414i1lcy61lw1y91172.png)
+![Docker Machine Remove All](/Asserts/Images/album/201506/24/001414i1lcy61lw1y91172.png)
 
 
 使用docker-machine ls命令检查是否成功删除了：
@@ -215,7 +215,7 @@ SSH到机器上之后，我们可以在上边运行任何Docker容器。这里�
 
 ```
 
-![Docker Machine Remove Check](/Asserts/Images//attachment/album/201506/24/001415jec6expkdkc2doz8.png)
+![Docker Machine Remove Check](/Asserts/Images/album/201506/24/001415jec6expkdkc2doz8.png)
 
 
 ### 6. 在不使用驱动的情况新增一个主机

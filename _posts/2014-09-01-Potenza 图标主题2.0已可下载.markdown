@@ -7,7 +7,7 @@ tags:	[linuxcn,图标,主题]
 ---
 
 
-![](/Asserts/Images//attachment/album/201409/15/212149my1ttwk1yy3f01my.jpeg)
+![](/Asserts/Images/album/201409/15/212149my1ttwk1yy3f01my.jpeg)
 
 
 [Potenza](https://github.com/AlessandroBompadre/Potenza/)图标主题版本2.0已经发布。Potenza 图标的灵感来自[faenza](http://tiheum.deviantart.com/art/Faenza-Icons-173323228)，faenza是我们在[Ubuntu 13.10的最佳图标](http://itsfoss.com/best-icon-themes-ubuntu-1310/)的列出的一款漂亮的图标主题。

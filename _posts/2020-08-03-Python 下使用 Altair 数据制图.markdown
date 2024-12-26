@@ -15,7 +15,7 @@ tags:	[linuxcn,绘图]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/06/110441imrz9ajtpshtfq1i.jpg)
+![](/Asserts/Images/album/202008/06/110441imrz9ajtpshtfq1i.jpg)
 
 
 Python 中的 [绘图库](/article-12327-1.html) 提供了呈现数据的多种方式，可以满足你不同的偏好，如灵活性、布局、易用性，或者特殊的风格。
@@ -47,7 +47,7 @@ df = pd.read_csv('https://anvil.works/blog/img/plotting-in-python/uk-election-re
 准备开始吧。为了做个比较，先看下面这个用 [Matplotlib](https://opensource.com/article/20/5/matplotlib-python) 做的图：
 
 
-![Matplotlib UK election results](/Asserts/Images//attachment/album/202008/06/110722oae6uu0zuu6bubv0.png "Matplotlib UK election results")
+![Matplotlib UK election results](/Asserts/Images/album/202008/06/110722oae6uu0zuu6bubv0.png "Matplotlib UK election results")
 
 
 使用 Matplotlib 需要 16 行代码，图柱的位置需要自己计算。
@@ -77,7 +77,7 @@ df = pd.read_csv('https://anvil.works/blog/img/plotting-in-python/uk-election-re
 现在把图画出来：
 
 
-![Altair plot with default styling](/Asserts/Images//attachment/album/202008/06/110727ihauqasxq9h732as.png "Altair plot with default styling")
+![Altair plot with default styling](/Asserts/Images/album/202008/06/110727ihauqasxq9h732as.png "Altair plot with default styling")
 
 
 ### 调整样式
@@ -193,7 +193,7 @@ df = pd.read_csv('https://anvil.works/blog/img/plotting-in-python/uk-election-re
 下图是使用我们的样式调整方案之后的 Altair 效果图：
 
 
-![The Altair plot with our custom styling](/Asserts/Images//attachment/album/202008/06/110732gjajux94xnxsuavj.png "The Altair plot with our custom styling.")
+![The Altair plot with our custom styling](/Asserts/Images/album/202008/06/110732gjajux94xnxsuavj.png "The Altair plot with our custom styling.")
 
 
 ### 结论

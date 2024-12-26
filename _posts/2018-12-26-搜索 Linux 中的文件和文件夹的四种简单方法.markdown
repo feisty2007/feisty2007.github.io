@@ -7,7 +7,7 @@ tags:	[linuxcn,find,搜索]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/18/232341e4bbp764944p7aan.jpg)
+![](/Asserts/Images/album/201812/18/232341e4bbp764944p7aan.jpg)
 
 
 Linux 管理员一天都不能离开搜索文件，因为这是他们的日常活动。了解一些搜索的东西是不错的，因为这能帮助你在命令行服务器中工作。这些命令记忆起来不复杂，因为它们使用的是标准语法。

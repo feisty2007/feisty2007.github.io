@@ -16,7 +16,7 @@ Docker 越来越流行了。在一个容器里面而不是虚拟机里运行一�
 下面会介绍如何在 Linux 上安装配置 DockerUI。
 
 
-![](/Asserts/Images//attachment/album/201511/29/224158l666f0sgss66ggh8.jpg)
+![](/Asserts/Images/album/201511/29/224158l666f0sgss66ggh8.jpg)
 
 
 ### 1. 安装 docker
@@ -106,7 +106,7 @@ docker 在 ArchLinux 的官方源和社区维护的 AUR 库中可以找到。所
 
 ```
 
-![Starting DockerUI Container](/Asserts/Images//attachment/album/201511/29/223551oc0kco9q70kwe7qg.png)
+![Starting DockerUI Container](/Asserts/Images/album/201511/29/223551oc0kco9q70kwe7qg.png)
 
 
 在上面的命令里，dockerui 使用的默认端口是9000，我们需要使用`-p` 命令映射默认端口。使用`-v` 标志我们可以指定docker 的 socket。如果主机使用了 SELinux 那么就得使用`--privileged` 标志。
@@ -121,7 +121,7 @@ docker 在 ArchLinux 的官方源和社区维护的 AUR 库中可以找到。所
 
 ```
 
-![Running Docker Containers](/Asserts/Images//attachment/album/201511/29/223624vay03skfhpwu6f6x.png)
+![Running Docker Containers](/Asserts/Images/album/201511/29/223624vay03skfhpwu6f6x.png)
 
 
 ### 4. 拉取 docker 镜像
@@ -136,7 +136,7 @@ docker 在 ArchLinux 的官方源和社区维护的 AUR 库中可以找到。所
 
 ```
 
-![Docker Image Pull](/Asserts/Images//attachment/album/201511/29/223644evo4r4a4loeopo0l.png)
+![Docker Image Pull](/Asserts/Images/album/201511/29/223644evo4r4a4loeopo0l.png)
 
 
 上面的命令将会从 docker 官方源 [Docker Hub](https://hub.docker.com/)拉取一个标志为 ubuntu 的镜像。类似的我们可以从 Hub 拉取需要的其它镜像。
@@ -157,7 +157,7 @@ docker 在 ArchLinux 的官方源和社区维护的 AUR 库中可以找到。所
 创建容器我们需要在 Images 页面里，点击我们想创建的容器的镜像 id。然后点击 `Create` 按钮，接下来我们就会被要求输入创建容器所需要的属性。这些都完成之后，我们需要点击按钮`Create` 完成最终的创建。
 
 
-![Creating Docker Container](/Asserts/Images//attachment/album/201511/29/223707t51sf19qj195ao1k.png)
+![Creating Docker Container](/Asserts/Images/album/201511/29/223707t51sf19qj195ao1k.png)
 
 
 #### 停止
@@ -166,7 +166,7 @@ docker 在 ArchLinux 的官方源和社区维护的 AUR 库中可以找到。所
 要停止一个容器，我们只需要跳转到`Containers` 页面，然后选取要停止的容器。然后在 Action 的子菜单里面按下 Stop 就行了。
 
 
-![Managing Container](/Asserts/Images//attachment/album/201511/29/223726fwnpsafnab11p2aw.png)
+![Managing Container](/Asserts/Images/album/201511/29/223726fwnpsafnab11p2aw.png)
 
 
 #### 暂停与恢复

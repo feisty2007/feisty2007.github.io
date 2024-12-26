@@ -21,7 +21,7 @@ tags:	[linuxcn,Ixgbe,驱动]
 本文基于红帽系平台（如，CentOS，RHEL或Fedora）。Debian系平台，请看[这篇文章](/article-5149-1.html)。
 
 
-![](/Asserts/Images//attachment/album/201503/29/204506bzopz2a2ocypcpcc.png)
+![](/Asserts/Images/album/201503/29/204506bzopz2a2ocypcpcc.png)
 
 
 ### 第一步: 安装依赖
@@ -78,7 +78,7 @@ $ modinfo ./ixgbe.ko
 将会输出一个Ixgbe驱动的可用参数列表
 
 
-![](/Asserts/Images//attachment/album/201506/02/223536qiubk36unnbca3s3.jpg)
+![](/Asserts/Images/album/201506/02/223536qiubk36unnbca3s3.jpg)
 
 
 ### 第三步: 加载 Ixgbe 驱动
@@ -268,7 +268,7 @@ $ sudo modprobe ixgbe
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/02/223538sop9ridz4yaxxhpg.jpg)
+![](/Asserts/Images/album/201506/02/223538sop9ridz4yaxxhpg.jpg)
 
 
 

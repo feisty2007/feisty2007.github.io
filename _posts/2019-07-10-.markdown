@@ -33,9 +33,9 @@ excerpt: Linux 安全权限能够指定谁可以对文件或目录执行什么�
 fromurl: https://opensource.com/article/19/6/understanding-linux-permissions
 id: 11056
 islctt: true
-largepic: /Asserts/Images//attachment/album/201907/04/133751argz0pp7hy5gvv7q.jpg
+largepic: /Asserts/Images/album/201907/04/133751argz0pp7hy5gvv7q.jpg
 permalink: /article-11056-1.html
-pic: /Asserts/Images//attachment/album/201907/04/133751argz0pp7hy5gvv7q.jpg.thumb.jpg
+pic: /Asserts/Images/album/201907/04/133751argz0pp7hy5gvv7q.jpg.thumb.jpg
 related: []
 reviewer: wxy
 selector: lujun9972
@@ -57,7 +57,7 @@ updated: '2019-07-04 13:38:00'
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/04/133751argz0pp7hy5gvv7q.jpg)
+![](/Asserts/Images/album/201907/04/133751argz0pp7hy5gvv7q.jpg)
 
 
 与其他系统相比而言 Linux 系统的众多优点中最为主要一个便是 Linux 系统有着更少的安全漏洞和被攻击的隐患。Linux 无疑为用户提供了更为灵活和精细化的文件系统安全权限控制。这可能意味着 Linux 用户理解安全权限是至关重要的。虽然这并不一定是必要的，但是对于初学者来说，理解 Linux 权限的基本知识仍是一个明智之选。
@@ -77,19 +77,19 @@ ls -lt
 因为这一目录下没有文件，所以这一命令执行不会返回结果。
 
 
-![No output from ls -l command](/Asserts/Images//attachment/album/201907/04/133824onqym0wm7koo4mju.jpg "No output from ls -l command")
+![No output from ls -l command](/Asserts/Images/album/201907/04/133824onqym0wm7koo4mju.jpg "No output from ls -l command")
 
 
 要了解关于 `ls` 命令的更多信息，请通过在命令行中输入 `man ls` 来查看命令手册。
 
 
-![ls man page](/Asserts/Images//attachment/album/201907/04/133825mz87qpm8yfl1ltyp.jpg "ls man page")
+![ls man page](/Asserts/Images/album/201907/04/133825mz87qpm8yfl1ltyp.jpg "ls man page")
 
 
 现在，让我们创建两个名为 `cat.txt` 和 `dog.txt` 的空白文件；这一步使用 `touch` 命令将更为简便。然后继续使用 `mkdir` 命令创建一个名为 `Pets` 的空目录。我们可以再次使用`ls -l`命令查看这些新文件的权限。
 
 
-![Creating new files and directory](/Asserts/Images//attachment/album/201907/04/133826gpy5pmznz2pkm2ok.jpg "Creating new files and directory")
+![Creating new files and directory](/Asserts/Images/album/201907/04/133826gpy5pmznz2pkm2ok.jpg "Creating new files and directory")
 
 
 我们需要留意这个命令输出结果的两个部分。
@@ -101,25 +101,25 @@ ls -lt
 首先要注意的是*谁*具有访问文件/目录的权限。请注意下面红色框中突出显示的部分。第一列是指具有访问权限的*用户*，而第二列是指具有访问权限的*组*。
 
 
-![Output from -ls command](/Asserts/Images//attachment/album/201907/04/133827vze76p5y2ht2yphp.jpg "Output from -ls command")
+![Output from -ls command](/Asserts/Images/album/201907/04/133827vze76p5y2ht2yphp.jpg "Output from -ls command")
 
 
 用户的类型主要有三种：用户、组和其他人（本质上既不是用户也不是组）。还有一个*全部*，意思是几乎所有人。
 
 
-![User types](/Asserts/Images//attachment/album/201907/04/133832zvk4onr9sorilrli.jpg "User types")
+![User types](/Asserts/Images/album/201907/04/133832zvk4onr9sorilrli.jpg "User types")
 
 
 由于我们使用 `root` 作为当前用户，所以我们可以访问任何文件或目录，因为 `root` 是超级用户。然而，通常情况并非如此，你可能会被限定使用你的普通用户登录。所有的用户都存储在 `/etc/passwd` 文件中。
 
 
-![/etc/passwd file](/Asserts/Images//attachment/album/201907/04/133835fyhfihwy1mwndm1q.jpg "/etc/passwd file")
+![/etc/passwd file](/Asserts/Images/album/201907/04/133835fyhfihwy1mwndm1q.jpg "/etc/passwd file")
 
 
 “组”的相关信息保存在 `/etc/group` 文件中。
 
 
-![/etc/passwd file](/Asserts/Images//attachment/album/201907/04/133838s9tle7z7971gl1tu.jpg "/etc/passwd file")
+![/etc/passwd file](/Asserts/Images/album/201907/04/133838s9tle7z7971gl1tu.jpg "/etc/passwd file")
 
 
 ### 他们有什么权限？
@@ -128,13 +128,13 @@ ls -lt
 我们需要注意的是 `ls -l` 命令输出结果的另一部分与执行权限有关。以上，我们查看了创建的 `dog.txt` 和 `cat.txt` 文件以及 `Pets` 目录的所有者和组权限都属于 `root` 用户。我们可以通过这一信息了解到不同用户组所拥有的相应权限，如下面的红色框中的标示。（LCTT 译注：下图的“OWNER”应为“OTHER”）
 
 
-![Enforcing permissions for different user ownership types](/Asserts/Images//attachment/album/201907/04/133840xaxqsq0wjwotogsz.jpg "Enforcing permissions for different user ownership types")
+![Enforcing permissions for different user ownership types](/Asserts/Images/album/201907/04/133840xaxqsq0wjwotogsz.jpg "Enforcing permissions for different user ownership types")
 
 
 我们可以把每一行分解成五部分。第一部分标志着它是文件还是目录：文件用 `-`（连字符）标记，目录用 `d` 来标记。接下来的三个部分分别是用户、组和其他人的对应权限。最后一部分是[访问控制列表](https://en.wikipedia.org/wiki/Access-control_list) （ACL）的标志，是记录着特定用户或者用户组对该文件的操作权限的列表。
 
 
-![Different Linux permissions](/Asserts/Images//attachment/album/201907/04/133844ous5itzx4ss775xx.jpg "Different Linux permissions")
+![Different Linux permissions](/Asserts/Images/album/201907/04/133844ous5itzx4ss775xx.jpg "Different Linux permissions")
 
 
 Linux 的权限级别可以用字母或数字标识。有三种权限类型:
@@ -148,25 +148,25 @@ Linux 的权限级别可以用字母或数字标识。有三种权限类型:
 （LCTT 译注：原文此处对应的字母标示 `x` 误写为 `e`，已更正）
 
 
-![Privilege types](/Asserts/Images//attachment/album/201907/04/133849yw1qpeekn1zwqw11.jpg "Privilege types")
+![Privilege types](/Asserts/Images/album/201907/04/133849yw1qpeekn1zwqw11.jpg "Privilege types")
 
 
 每个字母符号（`r`、`w` 或 `x`）表示有该项权限，而 `-` 表示无该项权限。在下面的示例中，文件的所有者可读可写，用户组成员仅可读，其他人可读可执行。转换成数字表示法，对应的是 `645`（如何计算，请参见下图的图示）。
 
 
-![Permission type example](/Asserts/Images//attachment/album/201907/04/133852x81q1jltqytqy11r.jpg "Permission type example")
+![Permission type example](/Asserts/Images/album/201907/04/133852x81q1jltqytqy11r.jpg "Permission type example")
 
 
 以下是一些示例：
 
 
-![Permission type examples](/Asserts/Images//attachment/album/201907/04/133858u4iaszl7nmm7riln.jpg "Permission type examples")
+![Permission type examples](/Asserts/Images/album/201907/04/133858u4iaszl7nmm7riln.jpg "Permission type examples")
 
 
 完成下面的测试，检查你是否掌握了权限管理相关的知识。
 
 
-![Permission type examples](/Asserts/Images//attachment/album/201907/04/133902qnlp9b9bezzbu2q9.jpg "Permission type examples")
+![Permission type examples](/Asserts/Images/album/201907/04/133902qnlp9b9bezzbu2q9.jpg "Permission type examples")
 
 
 

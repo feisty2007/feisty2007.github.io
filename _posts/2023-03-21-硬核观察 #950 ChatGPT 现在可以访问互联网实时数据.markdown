@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,ChatGPT,兆芯]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/24/201214tbll9xopppidwxet.jpg)
+![](/Asserts/Images/album/202303/24/201214tbll9xopppidwxet.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/24/201223kedliyx44sszdzsi.jpg)
+![](/Asserts/Images/album/202303/24/201223kedliyx44sszdzsi.jpg)
 
 
 ### ChatGPT 现在可以访问互联网实时数据
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,ChatGPT,兆芯]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/24/201234bmtlnnssqus8ewth.jpg)
+![](/Asserts/Images/album/202303/24/201234bmtlnnssqus8ewth.jpg)
 
 
 ### 兆芯开始向内核递交补丁加入对永丰架构的支持
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,ChatGPT,兆芯]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/24/201248w6umkv6omv6x6u4l.jpg)
+![](/Asserts/Images/album/202303/24/201248w6umkv6omv6x6u4l.jpg)
 
 
 ### 美国作家协会将允许人工智能参与剧本创作

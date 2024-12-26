@@ -7,7 +7,7 @@ tags:	[linuxcn,USB,Live]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/07/165254zlhgz6an6vgpv2qd.jpg)
+![](/Asserts/Images/album/202111/07/165254zlhgz6an6vgpv2qd.jpg)
 
 
 情况是这样的。你用 Etcher 或者 Rufus 工具在 Windows 或者 Linux 中创建了一个可启动的、Live Linux USB。
@@ -19,7 +19,7 @@ tags:	[linuxcn,USB,Live]
 你把它插入你的 Windows 系统，令你吃惊的是，这个 USB 的磁盘容量只有 4MB。
 
 
-![](/Asserts/Images//attachment/album/202111/07/165622zmsd1hzhhci1d7v1.jpg)
+![](/Asserts/Images/album/202111/07/165622zmsd1hzhhci1d7v1.jpg)
 
 
 你试图格式化它，但它可能不会让你这么做。即使你设法格式化它，USB 的大小现在也从通常的 8GB、16GB 或 32GB 缩减到只有 4MB。
@@ -40,7 +40,7 @@ tags:	[linuxcn,USB,Live]
 这就是为什么你的 Windows 系统只看到 4MB 的 EFI 分区，并显示 USB 大小为 4MB。
 
 
-![Windows only see the EFI partition on the USB](/Asserts/Images//attachment/album/202111/07/165622g7933v93xo07pj7p.jpg)
+![Windows only see the EFI partition on the USB](/Asserts/Images/album/202111/07/165622g7933v93xo07pj7p.jpg)
 
 
 总而言之，你需要做的是删除 USB 盘上的所有分区，用删除现有分区后得到的空闲空间创建一个新的 NTFS 或 FAT32 分区。这就行了。
@@ -55,7 +55,7 @@ tags:	[linuxcn,USB,Live]
 进入 Windows 菜单，寻找“磁盘管理”工具。
 
 
-![Start disk management tool](/Asserts/Images//attachment/album/202111/07/165622a2k50tz3c0075c5y.jpg)
+![Start disk management tool](/Asserts/Images/album/202111/07/165622a2k50tz3c0075c5y.jpg)
 
 
 启动这个工具，它将显示你电脑上存在的所有磁盘。当然，这包括插入的 USB。
@@ -64,7 +64,7 @@ tags:	[linuxcn,USB,Live]
 **选择正确的磁盘是非常重要的**。从 U 盘的大小或“可移动”的标签中辨别出它是哪一个。
 
 
-![](/Asserts/Images//attachment/album/202111/07/165623mi6f9gfgxgggf7ti.jpg)
+![](/Asserts/Images/album/202111/07/165623mi6f9gfgxgggf7ti.jpg)
 
 
 #### 步骤 2：
@@ -76,43 +76,43 @@ tags:	[linuxcn,USB,Live]
 在该分区上点击右键，然后点击“<ruby> 删除卷 <rt>  Delete Volume </rt></ruby>”。
 
 
-![Delete partitions on the USB disk](/Asserts/Images//attachment/album/202111/07/165623vwnel0jjaa18xdyv.jpg)
+![Delete partitions on the USB disk](/Asserts/Images/album/202111/07/165623vwnel0jjaa18xdyv.jpg)
 
 
 当要求你确认时，按“<ruby> 是 <rt>  Yes </rt></ruby>”。
 
 
-![Confirm deletion of partition](/Asserts/Images//attachment/album/202111/07/165623r2fyws70zizseg81.jpg)
+![Confirm deletion of partition](/Asserts/Images/album/202111/07/165623r2fyws70zizseg81.jpg)
 
 
 你的目标是只有一个未分配的空间块。当你看到它时，右击它并点击“<ruby> 新建简单卷…… <rt>  New Simple Volume... </rt></ruby>”来创建一个分区。
 
 
-![Create New Simple Volume ](/Asserts/Images//attachment/album/202111/07/165624d7cbzlbjuv9ljgul.jpg)
+![Create New Simple Volume ](/Asserts/Images/album/202111/07/165624d7cbzlbjuv9ljgul.jpg)
 
 
 接下来的步骤很简单。点击“<ruby> 下一步 <rt>  Next &gt; </rt></ruby>”，选择整个可用空间，给它分配一个字母，选择文件系统（FAT32 或 NTFS），并将其格式化。
 
 
-![Click Next](/Asserts/Images//attachment/album/202111/07/165624gr1hg1rywrtu23cz.png)
+![Click Next](/Asserts/Images/album/202111/07/165624gr1hg1rywrtu23cz.png)
 
 
-![Use entire available space](/Asserts/Images//attachment/album/202111/07/165625lkyx55k3br4eek1k.png)
+![Use entire available space](/Asserts/Images/album/202111/07/165625lkyx55k3br4eek1k.png)
 
 
-![Give it a drive letter](/Asserts/Images//attachment/album/202111/07/165625w18ut2svl3v2gzzv.png)
+![Give it a drive letter](/Asserts/Images/album/202111/07/165625w18ut2svl3v2gzzv.png)
 
 
-![Use FAT 32 or NTFS, Name the USB if you want](/Asserts/Images//attachment/album/202111/07/165626v29vu9xcn9u9v0te.png)
+![Use FAT 32 or NTFS, Name the USB if you want](/Asserts/Images/album/202111/07/165626v29vu9xcn9u9v0te.png)
 
 
-![Revise all the changes](/Asserts/Images//attachment/album/202111/07/165626n4gg32xx34ggepxi.png)
+![Revise all the changes](/Asserts/Images/album/202111/07/165626n4gg32xx34ggepxi.png)
 
 
 完成后，你会看到 USB 已经恢复到正常状态，你可以开始向它复制粘贴数据。
 
 
-![USB is back to normal state](/Asserts/Images//attachment/album/202111/07/165627wp48gu04ttt0dwdy.jpg)
+![USB is back to normal state](/Asserts/Images/album/202111/07/165627wp48gu04ttt0dwdy.jpg)
 
 
 你现在可以像以前一样使用你的 USB 了。
@@ -133,7 +133,7 @@ tags:	[linuxcn,USB,Live]
 这里使用 GNOME “磁盘” 工具。它已经安装在 Ubuntu 和许多其他 Linux 发行版上。
 
 
-![Start disk app](/Asserts/Images//attachment/album/202111/07/165627x4k5dkr7ox0digc5.jpg)
+![Start disk app](/Asserts/Images/album/202111/07/165627x4k5dkr7ox0digc5.jpg)
 
 
 **同样，确保你在这里选择了外部 USB 盘。**
@@ -142,7 +142,7 @@ tags:	[linuxcn,USB,Live]
 你会看到 U 盘上的各种分区。试着从上面的菜单中格式化该磁盘。
 
 
-![Format disk](/Asserts/Images//attachment/album/202111/07/165627izcrrumkbrcrw0w7.jpg)
+![Format disk](/Asserts/Images/album/202111/07/165627izcrrumkbrcrw0w7.jpg)
 
 
 **如果这不起作用，逐个删除分区**，然后把整个 USB 作为自由空间。
@@ -151,7 +151,7 @@ tags:	[linuxcn,USB,Live]
 当你创建了整个自由空间后，点击 “+” 号，在上面创建一个 NTFS 或 FAT32 文件系统的分区。
 
 
-![](/Asserts/Images//attachment/album/202111/07/165627li257zom2mcpmm17.jpg)
+![](/Asserts/Images/album/202111/07/165627li257zom2mcpmm17.jpg)
 
 
 用 NTFS（或 FAT32）创建分区，给它起个合适的名字，然后你就可以像以前一样使用这个 USB 了。

@@ -16,7 +16,7 @@ tags:	[linuxcn,Devuan,systemd]
 ### Devuan Beowulf 3.0 有什么新增功能？
 
 
-![](/Asserts/Images//attachment/album/202006/12/112455y003411l1k8yykp0.jpg)
+![](/Asserts/Images/album/202006/12/112455y003411l1k8yykp0.jpg)
 
 
 Devuan 通常因其提供了替代性的[初始化](https://en.wikipedia.org/wiki/Init)系统（如 [SysV](https://wiki.archlinux.org/index.php/SysVinit)）而受到喜爱。

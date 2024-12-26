@@ -7,13 +7,13 @@ tags:	[linuxcn,Clubhouse,5G,Mac]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/05/170158hc3z1010m0n0vgxh.jpg)
+![](/Asserts/Images/album/202102/05/170158hc3z1010m0n0vgxh.jpg)
 
 
 #### 极客用了 55 小时 B 站直播复刻爆火的 Clubhouse
 
 
-![](/Asserts/Images//attachment/album/202102/05/165937oxhlc9lpfnnqsipv.jpg)
+![](/Asserts/Images/album/202102/05/165937oxhlc9lpfnnqsipv.jpg)
 
 
 Clubhouse 是最近爆火的音频社交平台，现在邀请码已经被炒到了 100 美元一个。不过这款应用的功能和使用方式并不复杂，于是一位叫 Bestony 的极客试着写出一个复刻版，并全程进行了 B 站直播。顺便提一句，这位 Bestony 也是我们 “Linux 中国”的合伙人。
@@ -34,7 +34,7 @@ NESHouse 并不是一个商业项目，更多是为工程师和极客们提供�
 #### 开源 Magma 项目将成为 5G 领域的 Linux
 
 
-![](/Asserts/Images//attachment/album/202102/05/164904mt4mm2agigigi4t2.jpg)
+![](/Asserts/Images/album/202102/05/164904mt4mm2agigigi4t2.jpg)
 
 
 [Magma](https://www.magmacore.org/) 由 Facebook 开发，并于 [2019 年开源](https://www.facebook.com/fbOpenSource/posts/today-we-open-sourced-magma-a-software-platform-that-gives-network-operators-an-/2052421168139967/)，旨在帮助电信运营商快速、便捷地部署移动网络。这种容器化的网络功能可以与移动网络现有的后端整合，并在网络边缘轻松推出新服务。Magma 运营商可以大规模地构建和增强现代高效的移动网络。它可以与现有的 LTE 和新近诞生的 5G 网络进行整合。
@@ -46,7 +46,7 @@ NESHouse 并不是一个商业项目，更多是为工程师和极客们提供�
 #### M1 Mac 设备上已可以运行 Linux
 
 
-![](/Asserts/Images//attachment/album/202102/05/165210opx24dfzcmnccqnx.jpg)
+![](/Asserts/Images/album/202102/05/165210opx24dfzcmnccqnx.jpg)
 
 
 独立开发者 Hector Martin 正通过众筹的方式推进移植工作，近日他发布了拥有 [18 个补丁的套件](https://lore.kernel.org/lkml/20210204203951.52105-1-marcan@marcan.st/)，已经能够在搭载苹果 M1 芯片的 Mac Mini、MacBook Pro 和 MacBook Air 上初步运行 Linux。

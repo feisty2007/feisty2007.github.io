@@ -22,7 +22,7 @@ tags:	[linuxcn,终端]
 ### 更改 Ubuntu 中的默认终端
 
 
-![](/Asserts/Images//attachment/album/202002/18/114944tzfkzuuzuztk3ab3.png)
+![](/Asserts/Images/album/202002/18/114944tzfkzuuzuztk3ab3.png)
 
 
 在基于 Debian 的发行版中，有一个方便的命令行程序，称为 [update-alternatives](https://manpages.ubuntu.com/manpages/trusty/man8/update-alternatives.8.html)，可用于处理默认应用。

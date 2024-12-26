@@ -13,7 +13,7 @@ FTP（文件传输协议）是一个较老且最常用的标准网络协议，�
 警告：如果你打算使用 FTP， 需要考虑通过 SSL/TLS（将在[下篇文章](/article-8295-1.html)中讨论）配置 FTP 连接。否则，使用安全 FTP，比如 [SFTP](http://www.tecmint.com/sftp-command-examples/) 会更好一些。
 
 
-![](/Asserts/Images//attachment/album/201703/16/061527kh26b293bbu2h06b.png)
+![](/Asserts/Images/album/201703/16/061527kh26b293bbu2h06b.png)
 
 
 **推荐阅读：**[如何在 CentOS 7 中安装并保护 FTP 服务器](http://www.tecmint.com/install-ftp-server-in-centos-7/)
@@ -228,7 +228,7 @@ ftp> ls
 
 ```
 
-![Verify FTP Login in Ubuntu](/Asserts/Images//attachment/album/201703/16/061547o4arz4z111z74edx.png)
+![Verify FTP Login in Ubuntu](/Asserts/Images/album/201703/16/061547o4arz4z111z74edx.png)
 
 
 *在 Ubuntu 中确认 FTP 登录*
@@ -328,7 +328,7 @@ ftp> ls
 
 ```
 
-![FTP User Home Directory Login](/Asserts/Images//attachment/album/201703/16/061547gtgtciin5j3tnttn.png)
+![FTP User Home Directory Login](/Asserts/Images/album/201703/16/061547gtgtciin5j3tnttn.png)
 
 
 *FTP 用户 Home 目录登录*

@@ -15,7 +15,7 @@ tags:	[linuxcn,chgrp]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/28/155554aezllilzbedetm43.jpg)
+![](/Asserts/Images/album/201909/28/155554aezllilzbedetm43.jpg)
 
 
 在最近的一篇文章中，我介绍了 [chown](/article-11416-1.html) 命令，它用于修改系统上的文件所有权。回想一下，所有权是分配给一个对象的用户和组的组合。`chgrp` 和 `newgrp` 命令为管理需要维护组所有权的文件提供了帮助。

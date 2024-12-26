@@ -13,7 +13,7 @@ tags:	[linuxcn,Windows,Ubuntu,UEFI]
 这里有两种修复EFI启动引导的方法，使Ubuntu可以正常启动
 
 
-![](/Asserts/Images//attachment/album/201501/14/205920fpfc8718ii15cxc1.jpg)
+![](/Asserts/Images/album/201501/14/205920fpfc8718ii15cxc1.jpg)
 
 
 *将GRUB2设置为启动引导*
@@ -63,7 +63,7 @@ tags:	[linuxcn,Windows,Ubuntu,UEFI]
 ### 2.使用rEFInd引导Ubuntu和Windows双系统
 
 
-![](/Asserts/Images//attachment/album/201501/14/205922oze90hhkpc0moky1.png)
+![](/Asserts/Images/album/201501/14/205922oze90hhkpc0moky1.png)
 
 
 [rEFInd引导程序](http://www.rodsbooks.com/refind/installing.html#windows)会以图标的方式列出你所有的操作系统。因此，你可以通过点击相应的图标来启动Windows、Ubuntu或者优盘中的操作系统。

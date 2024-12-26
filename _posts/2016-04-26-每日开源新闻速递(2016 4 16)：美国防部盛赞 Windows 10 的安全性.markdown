@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE Neon,Windows 10]
 ---
 
 
-![](/Asserts/Images//attachment/album/201604/16/065119x4fvf22czcvv1s4s.jpg)
+![](/Asserts/Images/album/201604/16/065119x4fvf22czcvv1s4s.jpg)
 
 
 * 美国防部[盛赞](http://fedscoop.com/dod-cio-services-all-in-agreement-on-windows-10-goal) Windows 10 的安全性，不但计划在其内部的 400 万台计算机上安装 Windows 10，甚至推荐其雇员也在家中的个人电脑上安装 Windows 10。

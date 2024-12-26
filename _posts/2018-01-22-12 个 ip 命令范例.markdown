@@ -13,7 +13,7 @@ tags:	[linuxcn,ifconfig,ip]
 `ip` 命令跟 `ifconfig` 命令有些类似，但要强力的多，它有许多新功能。`ip` 命令完成很多 `ifconfig` 命令无法完成的任务。
 
 
-![](/Asserts/Images//attachment/album/201801/13/110118j9qcyqmsy8cmk9a3.jpg)
+![](/Asserts/Images/album/201801/13/110118j9qcyqmsy8cmk9a3.jpg)
 
 
 本教程将会讨论 `ip` 命令的 12 中最常用法，让我们开始吧。
@@ -47,7 +47,7 @@ tags:	[linuxcn,ifconfig,ip]
 这里 `enp0s3` 是网卡的名字。
 
 
-![IP-addr-show-commant-output](/Asserts/Images//attachment/album/201801/13/110151fyxsy3s3sulssphy.jpg)
+![IP-addr-show-commant-output](/Asserts/Images/album/201801/13/110151fyxsy3s3sulssphy.jpg)
 
 
 ### 案例 2：启用/禁用网卡
@@ -128,7 +128,7 @@ tags:	[linuxcn,ifconfig,ip]
 
 ```
 
-![ip-command-add-alias-linux](/Asserts/Images//attachment/album/201801/13/110157e55drlru5crd4dfa.jpg)
+![ip-command-add-alias-linux](/Asserts/Images/album/201801/13/110157e55drlru5crd4dfa.jpg)
 
 
 ### 案例 6：检查路由/默认网关的信息
@@ -143,7 +143,7 @@ tags:	[linuxcn,ifconfig,ip]
 
 ```
 
-![ip-route-command-output](/Asserts/Images//attachment/album/201801/13/110201uiwbkf5b4irxbex8.jpg)
+![ip-route-command-output](/Asserts/Images/album/201801/13/110201uiwbkf5b4irxbex8.jpg)
 
 
 在上面输出结果中，我们能够看到所有网卡上数据包的路由信息。我们也可以获取特定 IP 的路由信息，方法是：
@@ -220,7 +220,7 @@ ARP，是<ruby> 地址解析协议 <rt>  Address Resolution Protocol </rt></ruby
 
 ```
 
-![ip-neigh-command-linux](/Asserts/Images//attachment/album/201801/13/110207p2mgoul020ou3z4q.jpg)
+![ip-neigh-command-linux](/Asserts/Images/album/201801/13/110207p2mgoul020ou3z4q.jpg)
 
 
 ### 案例 10：修改 ARP 记录
@@ -265,7 +265,7 @@ ARP，是<ruby> 地址解析协议 <rt>  Address Resolution Protocol </rt></ruby
 
 ```
 
-![ip-s-command-linux](/Asserts/Images//attachment/album/201801/13/110214ncq5qr4b48cvyf2h.jpg)
+![ip-s-command-linux](/Asserts/Images/album/201801/13/110214ncq5qr4b48cvyf2h.jpg)
 
 
 ### 案例 12：获取帮助

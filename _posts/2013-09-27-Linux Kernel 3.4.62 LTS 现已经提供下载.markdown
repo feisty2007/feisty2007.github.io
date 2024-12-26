@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux内核,Kroah-Hartman]
 **著名的Greg Kroah-Hartman 宣布，LTS(长期支持) Linux 3.4 内核的全新维护版本已发布，并已提供下载。**
 
 
-[![Linux kernel 3.4.62 LTS is now ready for download](/Asserts/Images//attachment/album/201309/20/131336077afoe7rfwrr7p7.jpg)](http://news.softpedia.com/newsImage/Linux-Kernel-3-4-62-LTS-Is-Now-Available-for-Download-383152-2.jpg/ "Linux kernel 3.4.62 LTS is now ready for download")
+[![Linux kernel 3.4.62 LTS is now ready for download](/Asserts/Images/album/201309/20/131336077afoe7rfwrr7p7.jpg)](http://news.softpedia.com/newsImage/Linux-Kernel-3-4-62-LTS-Is-Now-Available-for-Download-383152-2.jpg/ "Linux kernel 3.4.62 LTS is now ready for download")
 
 
  

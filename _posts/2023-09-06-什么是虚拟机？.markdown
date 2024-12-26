@@ -7,7 +7,7 @@ tags:	[linuxcn,虚拟机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/02/221631eu7kz2vqk2kvwtzv.jpg)
+![](/Asserts/Images/album/202309/02/221631eu7kz2vqk2kvwtzv.jpg)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,虚拟机]
 简言之，你可以在你当前的操作系统中运行另一个操作系统，就像运行媒体播放器或网络浏览器一样。
 
 
-![在 Manjaro Linux 里 VirtualBox 中运行 Windows 10](/Asserts/Images//attachment/album/202309/02/221820ii6dm74243s7kphp.jpg)
+![在 Manjaro Linux 里 VirtualBox 中运行 Windows 10](/Asserts/Images/album/202309/02/221820ii6dm74243s7kphp.jpg)
 
 
 你可以在 VM 中执行与裸机（例如你的笔记本电脑或个人电脑）相同的操作，例如连接到网络、下载软件、更新操作系统等等。
@@ -39,7 +39,7 @@ tags:	[linuxcn,虚拟机]
 ### 虚拟机：起源
 
 
-![](/Asserts/Images//attachment/album/202309/02/221734u2mt2024dn2dpzd2.png)
+![](/Asserts/Images/album/202309/02/221734u2mt2024dn2dpzd2.png)
 
 
 虚拟机是最重要的基于软件的创新之一。它的起源可以追溯到 **1966 年的 IBM CP-40 和 CP-67** 虚拟机操作系统，那时候人们在研究和测试虚拟内存和资源的概念。
@@ -68,7 +68,7 @@ tags:	[linuxcn,虚拟机]
 ### 虚拟机如何运作
 
 
-![](/Asserts/Images//attachment/album/202309/02/221735hs59jbo7716jz0za.png)
+![](/Asserts/Images/album/202309/02/221735hs59jbo7716jz0za.png)
 
 
 理解虚拟化的概念会有助于你弄清楚虚拟机是如何运作的。
@@ -97,7 +97,7 @@ tags:	[linuxcn,虚拟机]
 为了详细展示虚拟机和物理计算机之间的技术差异，这里提供一张图帮助你理解：
 
 
-![](/Asserts/Images//attachment/album/202309/02/221735or5dc77a7nfbr6fb.png)
+![](/Asserts/Images/album/202309/02/221735or5dc77a7nfbr6fb.png)
 
 
 ### 我们为什么需要使用虚拟机？
@@ -109,7 +109,7 @@ tags:	[linuxcn,虚拟机]
 不仅对个人用户有帮助，虚拟机在云计算的领域中也起着重要的作用，而云计算是构成互联网必不可少的一部分。
 
 
-![](/Asserts/Images//attachment/album/202309/02/221736ntmyb7dt0c9w0icc.png)
+![](/Asserts/Images/album/202309/02/221736ntmyb7dt0c9w0icc.png)
 
 
 下面是虚拟机能够帮助你完成的一些任务：
@@ -194,7 +194,7 @@ tags:	[linuxcn,虚拟机]
 ### 虚拟机的优势
 
 
-![](/Asserts/Images//attachment/album/202309/02/221736tebel4wwzpe884z8.png)
+![](/Asserts/Images/album/202309/02/221736tebel4wwzpe884z8.png)
 
 
 虽然你已经通过其使用案例了解到了一些虚拟机带给你的好处，但是我还是想再补充一些你需要知道的要点：
@@ -209,7 +209,7 @@ tags:	[linuxcn,虚拟机]
 ### 虚拟机的劣势
 
 
-![](/Asserts/Images//attachment/album/202309/02/221736iwww16fws7d3ckcw.png)
+![](/Asserts/Images/album/202309/02/221736iwww16fws7d3ckcw.png)
 
 
 虽然虚拟机在许多场景中都非常有帮助，但是它也有可能带来什么不利影响吗？

@@ -13,7 +13,7 @@ tags:	[linuxcn,Linux,PPA,Ubuntu,安装,qBittorrent,BT,技巧,教程]
 qBittorrent轻巧快速，支持unicode编码，而且提供一个完美整合的搜索引擎。它也支持UPnP端口转发和NAT-PMP、加密（兼容Vuze）、FAST扩展和PeX支持(兼容utorrent)。
 
 
-![](/Asserts/Images//attachment/album/201311/05/2143291rghm3juh9314zgq.png)
+![](/Asserts/Images/album/201311/05/2143291rghm3juh9314zgq.png)
 
 
 ### qBittorrent v3.1.0 的特性
@@ -51,7 +51,7 @@ $ sudo apt-get update && sudo apt-get install qbittorrent
 你也可以下载[qbittorrent的源代码](http://sourceforge.net/projects/qbittorrent/files/qbittorrent/qbittorrent-3.1.0/qbittorrent-3.1.0.tar.gz/download)，然后编译后安装。
 
 
-![](/Asserts/Images//attachment/album/201311/05/2143304pbc6lmvvp6pmlvm.png)
+![](/Asserts/Images/album/201311/05/2143304pbc6lmvvp6pmlvm.png)
 
 
 

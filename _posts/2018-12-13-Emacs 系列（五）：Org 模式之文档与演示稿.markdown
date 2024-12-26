@@ -7,7 +7,7 @@ tags:	[linuxcn,Org模式,Emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/12/225949wapsn1pc0dpfpfbz.png)
+![](/Asserts/Images/album/201812/12/225949wapsn1pc0dpfpfbz.png)
 
 
 这是 [Emacs 和 Org 模式系列](https://changelog.complete.org/archives/tag/emacs2018)的第五篇。
@@ -154,7 +154,7 @@ Org 模式的 Beamer 会将你文档中的部分（文中定义了标题的）�
 这就是最终的效果：
 
 
-[![screenshot1](/Asserts/Images//attachment/album/201812/12/225959m16cb032yc011wu4.png)](https://www.flickr.com/photos/jgoerzen/26366340577/in/dateposted/)
+[![screenshot1](/Asserts/Images/album/201812/12/225959m16cb032yc011wu4.png)](https://www.flickr.com/photos/jgoerzen/26366340577/in/dateposted/)
 
 
 ### 3 幻灯片之间的交互

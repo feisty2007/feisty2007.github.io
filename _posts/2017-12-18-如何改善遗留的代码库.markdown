@@ -7,7 +7,7 @@ tags:	[linuxcn,代码,重构]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/28/093339ql5vt7lw1vpssnnl.jpg)
+![](/Asserts/Images/album/201712/28/093339ql5vt7lw1vpssnnl.jpg)
 
 
 在每一个程序员、项目管理员、团队领导的一生中，这都会至少发生一次。原来的程序员早已离职去度假了，给你留下了一坨几百万行屎一样的、勉强支撑公司运行的代码和（如果有的话）跟代码驴头不对马嘴的文档。

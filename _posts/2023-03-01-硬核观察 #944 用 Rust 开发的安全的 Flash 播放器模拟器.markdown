@@ -7,10 +7,10 @@ tags:	[linuxcn,Flash,AI,手机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/18/095734fl3jled6ixqxe6dx.jpg)
+![](/Asserts/Images/album/202303/18/095734fl3jled6ixqxe6dx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/18/095753vqjo9i252slfkb2q.jpg)
+![](/Asserts/Images/album/202303/18/095753vqjo9i252slfkb2q.jpg)
 
 
 ### 用 Rust 开发的安全的 Flash 播放器模拟器
@@ -35,7 +35,7 @@ tags:	[linuxcn,Flash,AI,手机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/18/095807s11ph7b37pbtpidh.jpg)
+![](/Asserts/Images/album/202303/18/095807s11ph7b37pbtpidh.jpg)
 
 
 ### 新版 AI 图像合成服务 Midjourney 的逼真图像令人震惊
@@ -60,7 +60,7 @@ Midjourney v5 现在正在 Alpha 测试，有测试者对新版本产生的逼�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/18/095822kvcnqi802222g20g.jpg)
+![](/Asserts/Images/album/202303/18/095822kvcnqi802222g20g.jpg)
 
 
 ### 三星、VIVO 等安卓手机出现高危远程漏洞

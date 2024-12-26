@@ -15,7 +15,7 @@ tags:	[linuxcn,Nextcloud,注册]
 > 
 
 
-![](/Asserts/Images//attachment/album/202009/27/100351eqd88qub0b3ww0tu.jpg)
+![](/Asserts/Images/album/202009/27/100351eqd88qub0b3ww0tu.jpg)
 
 
 我们一直有个列表，上面有几十个 Nextcloud 提供商，然而我听到的最常见的问题，即使是我的技术方面的朋友，也是：
@@ -63,13 +63,13 @@ Nextcloud 不存在这些问题。
 当你下载我们的手机或桌面应用时，你首先看到的是“登录”或“使用供应商注册”的选择。这是任何专有应用都会做的事情：
 
 
-![Android client](/Asserts/Images//attachment/album/202009/27/100429jg4d6yth84zddwxk.png "Android client")
+![Android client](/Asserts/Images/album/202009/27/100429jg4d6yth84zddwxk.png "Android client")
 
 
 选择“注册”可打开应用中的[简易注册页面](https://nextcloud.com/signup)。
 
 
-![Web client](/Asserts/Images//attachment/album/202009/27/100432e6gkxcvixkflkblz.png "Web client")
+![Web client](/Asserts/Images/album/202009/27/100432e6gkxcvixkflkblz.png "Web client")
 
 
 你输入你的电子邮件地址，然后点击“注册”。

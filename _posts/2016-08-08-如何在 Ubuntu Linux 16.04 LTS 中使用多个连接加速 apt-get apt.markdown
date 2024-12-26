@@ -13,7 +13,7 @@ tags:	[linuxcn,apt,apt-get,apt-fast]
 你需要使用到 apt-fast 这个 shell 封装器。它会通过多个连接同时下载一个包来加速 apt-get/apt 和 aptitude 命令。所有的包都会同时下载。它使用 aria2c 作为默认的下载加速器。
 
 
-![](/Asserts/Images//attachment/album/201608/06/191611bvss7crlassa7rrl.jpg)
+![](/Asserts/Images/album/201608/06/191611bvss7crlassa7rrl.jpg)
 
 
 ### 安装 apt-fast 工具
@@ -31,7 +31,7 @@ $ sudo add-apt-repository ppa:saiarcot895/myppa
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201608/06/191615tpzzglz2p5nebjz5.jpg)
+![](/Asserts/Images/album/201608/06/191615tpzzglz2p5nebjz5.jpg)
 
 
 更新你的仓库：
@@ -52,7 +52,7 @@ $ sudo apt update
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/06/191616znxrghz00nxbb9ii.jpg)
+![](/Asserts/Images/album/201608/06/191616znxrghz00nxbb9ii.jpg)
 
 
 安装 apt-fast：
@@ -105,13 +105,13 @@ Get:4 http://01.archive.ubuntu.com/ubuntu xenial/universe amd64 aria2 amd64 1.19
 你将会得到下面的提示（必须输入一个5到16的数值）：
 
 
-![](/Asserts/Images//attachment/album/201608/06/191617au1tzeuyxlzltr1x.jpg)
+![](/Asserts/Images/album/201608/06/191617au1tzeuyxlzltr1x.jpg)
 
 
 并且
 
 
-![](/Asserts/Images//attachment/album/201608/06/191618oohoajzphwhjdcio.jpg)
+![](/Asserts/Images/album/201608/06/191618oohoajzphwhjdcio.jpg)
 
 
 你也可以直接编辑设置：
@@ -195,7 +195,7 @@ $ sudo apt-fast install nginx
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201608/06/191621avss3xsxqwaq1q1y.jpg)
+![](/Asserts/Images/album/201608/06/191621avss3xsxqwaq1q1y.jpg)
 
 
 #### 删除包

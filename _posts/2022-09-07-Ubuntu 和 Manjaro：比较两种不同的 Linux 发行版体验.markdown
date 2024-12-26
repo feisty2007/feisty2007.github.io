@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Manjaro]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/06/215515o89v2xu8v05rv759.jpg)
+![](/Asserts/Images/album/202209/06/215515o89v2xu8v05rv759.jpg)
 
 
 Ubuntu 是基于 Debian 最流行的桌面和服务器 Linux 发行版。
@@ -37,7 +37,7 @@ Ubuntu 根据你选择的版本不同提供了两个发行周期。如果你选�
 假如你安装了 Ubuntu 22.04 ，那么你在 **2027 年 4 月** 之前都能获取更新。
 
 
-![ubuntu22 04 lts about](/Asserts/Images//attachment/album/202209/06/215613ip7zd17xgxhwww1x.png)
+![ubuntu22 04 lts about](/Asserts/Images/album/202209/06/215613ip7zd17xgxhwww1x.png)
 
 
 因此，我们更推荐普通桌面用户使用 LTS 版本。
@@ -52,7 +52,7 @@ Ubuntu 根据你选择的版本不同提供了两个发行周期。如果你选�
 选择 Manjaro Linux 时你将会获得滚动发布的更新，因此你不必担心对你使用版本的支持过期。它会通过定期更新升级到最新的可用版本。
 
 
-![manjaro about](/Asserts/Images//attachment/album/202209/06/215613wjd6td6kah2u1967.png)
+![manjaro about](/Asserts/Images/album/202209/06/215613wjd6td6kah2u1967.png)
 
 
 由于滚动发行周期的原因，你可以快速获取到最新的软件包。因此如果你想使用某个软件的历史版本，Manjaro 或许并不适合你。
@@ -64,7 +64,7 @@ Ubuntu 根据你选择的版本不同提供了两个发行周期。如果你选�
 Ubuntu 特别提供了一个定制版的 GNOME 桌面。它可能不是最新的，但如果你使用较新的 Ubuntu 版本，它基本上包含的就是最新的 GNOME 桌面环境。
 
 
-![ubuntu 22 04 wallpaper](/Asserts/Images//attachment/album/202209/06/215613kpr2ltal7verqtuq.jpg)
+![ubuntu 22 04 wallpaper](/Asserts/Images/album/202209/06/215613kpr2ltal7verqtuq.jpg)
 
 
 Canonical（Ubuntu 背后的公司）并不提供其它桌面环境。
@@ -79,7 +79,7 @@ Canonical（Ubuntu 背后的公司）并不提供其它桌面环境。
 如果使用 Manjaro，你可以选择官方提供的三个版本：XFCE、KDE 和 GNOME。 无论桌面环境如何，你都会使用滚动发布模式。
 
 
-![manjaro gnome 42](/Asserts/Images//attachment/album/202209/06/215613r42sao545kaetcp8.png)
+![manjaro gnome 42](/Asserts/Images/album/202209/06/215613r42sao545kaetcp8.png)
 
 
 当然你也可以使用 Manjaro 的一些社区版本，如 Budgie、MATE、LXQt。
@@ -94,7 +94,7 @@ Canonical（Ubuntu 背后的公司）并不提供其它桌面环境。
 不过，Manjaro Linux 使用 Pamac 作为其包管理器而获得了更快速的体验。
 
 
-![manjaro package manager](/Asserts/Images//attachment/album/202209/06/215614faxaof7x9o77kf6y.png)
+![manjaro package manager](/Asserts/Images/album/202209/06/215614faxaof7x9o77kf6y.png)
 
 
 与 Ubuntu 上的应用商店相比，Manjaro Linux 在快速安装/更新软件方面提供了更好的体验。而且，它还支持开箱即用的 Flatpak/Snap，如果你只需一键即可启用它们。
@@ -103,7 +103,7 @@ Canonical（Ubuntu 背后的公司）并不提供其它桌面环境。
 Ubuntu 比较重视 Snap 软件包，你会发现一些应用程序预装为 Snap 软件包（如 Firefox 浏览器）。
 
 
-![firefox as snap](/Asserts/Images//attachment/album/202209/06/215614vv3pw3pe9c4taa4f.jpg)
+![firefox as snap](/Asserts/Images/album/202209/06/215614vv3pw3pe9c4taa4f.jpg)
 
 
 对于 Manjaro Linux 来说，你可以根据自身需求决定是否启用 Flatpak/Snap。
@@ -112,7 +112,7 @@ Ubuntu 比较重视 Snap 软件包，你会发现一些应用程序预装为 Sna
 在使用 Ubuntu 时，其应用商店提供的 Linux 应用并不是最好的。取决于你的系统配置和使用年限，它会变得越来越慢。
 
 
-![ubuntu 22 04 software center](/Asserts/Images//attachment/album/202209/06/215614pchjayj40f3bylhh.jpg)
+![ubuntu 22 04 software center](/Asserts/Images/album/202209/06/215614pchjayj40f3bylhh.jpg)
 
 
 除此之外，Manjaro Linux 还可以访问 [AUR](https://itsfoss.com/aur-arch-linux/)，它可以获得你在 Ubuntu 应用商店中可能找不到的几乎所有软件。
@@ -142,7 +142,7 @@ Manjaro Linux 也是为桌面用户使用量身定制的。但是它并不适合
 ### 稳定性
 
 
-![stability tux](/Asserts/Images//attachment/album/202209/06/215614pmj6ptjrzw09spqr.png)
+![stability tux](/Asserts/Images/album/202209/06/215614pmj6ptjrzw09spqr.png)
 
 
 Ubuntu LTS 版本主要关注稳定性和可靠性，因此你也可以在服务器上部署它们。
@@ -172,7 +172,7 @@ Ubuntu 多年来一直在改进，最近增加了 [在 Ubuntu 22.04 LTS 中添�
 Manjaro 还对外观进行了一些自定义调整。但是它提供了更多组件来更改布局和其他一些选项。
 
 
-![manjaro layout](/Asserts/Images//attachment/album/202209/06/215614ml39cxbzh85djdh6.png)
+![manjaro layout](/Asserts/Images/album/202209/06/215614ml39cxbzh85djdh6.png)
 
 
 在个性定制方面，你在 Manjaro 和 Ubuntu 上的体验大致相同。
@@ -187,7 +187,7 @@ Manjaro 还对外观进行了一些自定义调整。但是它提供了更多组
 这对每个人来说可能都不是什么大问题。但如果你不喜欢预装许多应用程序，那么 Ubuntu 可能会令你感到麻烦。
 
 
-![ubuntu 22 apps](/Asserts/Images//attachment/album/202209/06/215615fp6ssbthp0p6sjbs.jpg)
+![ubuntu 22 apps](/Asserts/Images/album/202209/06/215615fp6ssbthp0p6sjbs.jpg)
 
 
 虽然可以随时删除不需要的应用程序。但是你会发现随 Ubuntu 一起安装的软件和服务还有很多。
@@ -202,7 +202,7 @@ Manjaro 还对外观进行了一些自定义调整。但是它提供了更多组
 ### 性能
 
 
-![ubuntu 22 04 neofetch lolcat](/Asserts/Images//attachment/album/202209/06/215615fwg9pgu3amwfj70p.png)
+![ubuntu 22 04 neofetch lolcat](/Asserts/Images/album/202209/06/215615fwg9pgu3amwfj70p.png)
 
 
 虽然 Ubuntu 改进了其系统表现，甚至可以在 2 GB 内存的树莓派上运行，但它仍然不是性能最好的 Linux 发行版。

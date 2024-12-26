@@ -7,10 +7,10 @@ tags:	[linuxcn,Snap,RHEL,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/03/185214r2ls5p44q5xpmp04.jpg)
+![](/Asserts/Images/album/202307/03/185214r2ls5p44q5xpmp04.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/03/185227wiffdhfk2kn52ehf.jpg)
+![](/Asserts/Images/album/202307/03/185227wiffdhfk2kn52ehf.jpg)
 
 
 ### Snap 设计者开发用 Flatpak 替换 Snap 的脚本
@@ -35,7 +35,7 @@ tags:	[linuxcn,Snap,RHEL,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/03/185243zbzzniw5dge4gwqm.jpg)
+![](/Asserts/Images/album/202307/03/185243zbzzniw5dge4gwqm.jpg)
 
 
 ### 红帽为 RHEL 7 再增加四年的支持
@@ -60,7 +60,7 @@ tags:	[linuxcn,Snap,RHEL,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/03/185313co1wy6gzrga5r5fc.jpg)
+![](/Asserts/Images/album/202307/03/185313co1wy6gzrga5r5fc.jpg)
 
 
 ### 首个完全由人工智能生成的药物进入临床试验

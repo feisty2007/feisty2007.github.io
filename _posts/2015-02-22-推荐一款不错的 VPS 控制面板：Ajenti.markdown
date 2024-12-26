@@ -104,13 +104,13 @@ $ sudo service ajenti restart
 直接在浏览器中输入https://<server-ip-address>:8000，你就会看到下面的Ajenti的登录界面。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105110g5eav8n5c4yahyvz.jpg)
+![](/Asserts/Images/album/201502/09/105110g5eav8n5c4yahyvz.jpg)
 
 
 默认的登录凭证是用户名“root”，密码“admin”。当你登录后，你会看到初始化的Ajenti菜单。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105114lmx25x22b2aj5jj3.jpg)
+![](/Asserts/Images/album/201502/09/105114lmx25x22b2aj5jj3.jpg)
 
 
 在左边面板的"SOFTWARE"选项下，你会看带一些已安装的服务。当你安装了任何Ajenti支持的服务端程序时，软件会在重启ajenti服务后被自动加入列表。
@@ -134,7 +134,7 @@ Ajenti的web界面非常直观且易使用。下面是Ajenti功能的几个例�
 Ajenti有许多特定应用的插件，这让AJenti可高度扩展化。当你在VPS上安装一款新软件时。相关的AJenti插件（如果有的话）会自动启用来管理软件。“Plugins”菜单会展示可用/启用的插件，以及和它们关联的软件。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105117c3a164fkwjmm8gi3.jpg)
+![](/Asserts/Images/album/201502/09/105117c3a164fkwjmm8gi3.jpg)
 
 
 #### 包管理
@@ -143,7 +143,7 @@ Ajenti有许多特定应用的插件，这让AJenti可高度扩展化。当你�
 Ajenti提供了一个web界面来安装和升级VPS上的包。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105119c2475ke4ch7h7nzk.jpg)
+![](/Asserts/Images/album/201502/09/105119c2475ke4ch7h7nzk.jpg)
 
 
 #### 防火墙配置
@@ -152,10 +152,10 @@ Ajenti提供了一个web界面来安装和升级VPS上的包。
 Ajenti允许你用两种方法管理防火墙规则（使用iptables或者CSF）。一种方法是使用用户友好的web面板，另一种是直接编辑原始的防火墙规则。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105121xbe7iqbhha2pzi2e.jpg)
+![](/Asserts/Images/album/201502/09/105121xbe7iqbhha2pzi2e.jpg)
 
 
-![](/Asserts/Images//attachment/album/201502/09/105123cdqbdczvkyozqck5.jpg)
+![](/Asserts/Images/album/201502/09/105123cdqbdczvkyozqck5.jpg)
 
 
 #### 日志检查
@@ -164,7 +164,7 @@ Ajenti允许你用两种方法管理防火墙规则（使用iptables或者CSF）
 你可以在Ajenti的web界面中浏览位于/var/log下的系统日志。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105125ha3facze7suxbka7.jpg)
+![](/Asserts/Images/album/201502/09/105125ha3facze7suxbka7.jpg)
 
 
 #### 进程监控
@@ -173,7 +173,7 @@ Ajenti允许你用两种方法管理防火墙规则（使用iptables或者CSF）
 你可以看见按照CPU和内存使用率排序的进程列表，如果需要的话，也可以干掉它们。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105127gcm7zainxn0sw1wa.jpg)
+![](/Asserts/Images/album/201502/09/105127gcm7zainxn0sw1wa.jpg)
 
 
 #### 终端访问
@@ -182,7 +182,7 @@ Ajenti允许你用两种方法管理防火墙规则（使用iptables或者CSF）
 如果需要更低层面的VPS访问，Ajenti提供了基于web的终端界面，你在这可以输入Linux命令。你也可以像下面那样在一个面板中打开多个终端。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105129bhsuq5jqm7mi5jk5.jpg)
+![](/Asserts/Images/album/201502/09/105129bhsuq5jqm7mi5jk5.jpg)
 
 
 #### Apache Web服务管理
@@ -191,7 +191,7 @@ Ajenti允许你用两种方法管理防火墙规则（使用iptables或者CSF）
 你可以编辑Apache配置文件，并管理apache2服务。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105131ve8ztwtcah5eeazj.jpg)
+![](/Asserts/Images/album/201502/09/105131ve8ztwtcah5eeazj.jpg)
 
 
 #### MySQL/MariaDB 管理
@@ -200,7 +200,7 @@ Ajenti允许你用两种方法管理防火墙规则（使用iptables或者CSF）
 你可以访问MySQL/MariaDB服务并直接在上面执行原始SQL命令。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105132q1oaox1zoe8kxn17.jpg)
+![](/Asserts/Images/album/201502/09/105132q1oaox1zoe8kxn17.jpg)
 
 
 #### Squid 配置
@@ -209,7 +209,7 @@ Ajenti允许你用两种方法管理防火墙规则（使用iptables或者CSF）
 你可以配置Squid代理服务器的ACL、HTTP访问规则，过滤端口。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105134ho76gof59jkontdn.jpg)
+![](/Asserts/Images/album/201502/09/105134ho76gof59jkontdn.jpg)
 
 
 #### 启动服务管理
@@ -218,7 +218,7 @@ Ajenti允许你用两种方法管理防火墙规则（使用iptables或者CSF）
 你可以浏览、启动、停止、重启已安装的服务。
 
 
-![](/Asserts/Images//attachment/album/201502/09/105136cmjqi7ojqjg9rmf3.jpg)
+![](/Asserts/Images/album/201502/09/105136cmjqi7ojqjg9rmf3.jpg)
 
 
 ### 总结

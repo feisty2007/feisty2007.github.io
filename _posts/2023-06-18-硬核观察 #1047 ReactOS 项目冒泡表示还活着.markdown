@@ -7,10 +7,10 @@ tags:	[linuxcn,GitHub,ReactOS,Electron]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/29/185323sgdljj7n0kukn7d7.jpg)
+![](/Asserts/Images/album/202306/29/185323sgdljj7n0kukn7d7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/29/185335d66x7l438320ssds.jpg)
+![](/Asserts/Images/album/202306/29/185335d66x7l438320ssds.jpg)
 
 
 ### ReactOS 项目冒泡表示还活着
@@ -35,7 +35,7 @@ ReactOS 是一个开源的操作系统，旨在复制微软的 Windows，可以�
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/29/185349byww3hkca33jwo7o.jpg)
+![](/Asserts/Images/album/202306/29/185349byww3hkca33jwo7o.jpg)
 
 
 ### WhatsApp 关闭了基于 Electron 的桌面应用
@@ -60,7 +60,7 @@ ReactOS 是一个开源的操作系统，旨在复制微软的 Windows，可以�
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/29/195102ez2r759z8atyyax5.jpg)
+![](/Asserts/Images/album/202306/29/195102ez2r759z8atyyax5.jpg)
 
 
 ### GitHub DDoS 攻击了一个重要的开源项目小网站

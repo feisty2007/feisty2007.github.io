@@ -13,7 +13,7 @@ tags:	[linuxcn,容器,docker-compose,Docker]
 我写好了代码，然后经过一晚的鼓捣把它部署在 Aure 上的 Ubuntu 虚拟机上。Docker 和 docker-compose 工具使得部署和更新过程非常快。
 
 
-![](/Asserts/Images//attachment/album/201611/08/111444sa8fbkk442xx0k09.jpg)
+![](/Asserts/Images/album/201611/08/111444sa8fbkk442xx0k09.jpg)
 
 
 ### 还记得链接指令（link）吗？
@@ -43,7 +43,7 @@ $ docker run -d hit_counter -p 3000:3000 --link redis1:redis
 ### 加入 docker-compose
 
 
-![](/Asserts/Images//attachment/album/201611/08/111459z96ycryjjyqlq7c2.png)
+![](/Asserts/Images/album/201611/08/111459z96ycryjjyqlq7c2.png)
 
 
 *Docker Compose logo*
@@ -82,7 +82,7 @@ services:
 ### 　真实工作示例：Raspberry PI 库存警示
 
 
-![](/Asserts/Images//attachment/album/201611/08/111459mn5l72lckj7nm8cz.jpg)
+![](/Asserts/Images/album/201611/08/111459mn5l72lckj7nm8cz.jpg)
 
 
 *新的 Raspberry PI Zero v1.3 图片，由 Pimoroni 提供*
@@ -184,7 +184,7 @@ $ docker-compose up -d
 目前测试网站使用 docker-compose 部署：[stockalert.alexellis.io](http://stockalert.alexellis.io/)
 
 
-![](/Asserts/Images//attachment/album/201611/08/111500zsbew23e32no2e88.png)
+![](/Asserts/Images/album/201611/08/111500zsbew23e32no2e88.png)
 
 
 *预览于 2016 年 5 月 16 日*

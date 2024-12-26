@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,LinuxKit,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/18/102636wm4d6mwitms3tiss.png)
+![](/Asserts/Images/album/201705/18/102636wm4d6mwitms3tiss.png)
 
 
 一些令人振奋的消息引发了我对今年 DockerCon 的兴趣，在这次会议中，无可争议的容器巨头公司 Docker 发布了一个新的操作系统：LinuxKit。

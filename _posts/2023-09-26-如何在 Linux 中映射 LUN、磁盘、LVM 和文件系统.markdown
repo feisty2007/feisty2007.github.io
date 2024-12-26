@@ -7,7 +7,7 @@ tags:	[linuxcn,磁盘,LUN]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/05/150634a78yslwka2lilnvr.jpg)
+![](/Asserts/Images/album/202309/05/150634a78yslwka2lilnvr.jpg)
 
 
 在某些情况下，你需要映射存储 LUN（逻辑单元号）、块设备、LVM（LV 和 VG 名称）和文件系统（FS）信息以进行文件系统扩展或灾难恢复（DR）操作。
@@ -74,7 +74,7 @@ sh block_device_mapping_with_LUN_FS_LVM.sh
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/05/150709qi0b02554v50p34k.jpg)
+![](/Asserts/Images/album/202309/05/150709qi0b02554v50p34k.jpg)
 
 
 **注意：** 在上面的输出中，设备 `sdb` 不会显示任何 LUN 信息，因为它是从 VMWare 端添加的虚拟磁盘，没有任何 LUN。其他 3 块磁盘是从存储映射的，这就是为什么可以看到 LUN 信息。
@@ -93,7 +93,7 @@ for bdevice in `lsblk | grep disk | awk '{print $1}' | grep -v 'sda'`; do for mp
 ```
 sdb --> [SWAP] --> swap2lv swapvg --> -
 sdc --> /appserver --> appserver_lv appserver_vg --> 360000670000415600477312020662021
-sdd --> /Asserts/Images/ --> data_lv data_vg --> 360000670000415600477312020662022
+sdd --> /data --> data_lv data_vg --> 360000670000415600477312020662022
 sde --> /backup --> backup_lv backup_vg --> 360000670000415600477312020662023
 
 ```

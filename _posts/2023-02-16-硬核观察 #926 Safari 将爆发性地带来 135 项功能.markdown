@@ -7,10 +7,10 @@ tags:	[linuxcn,Safari,大语言模型,汽车]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/28/164045kxdrfexzxbgg662x.jpg)
+![](/Asserts/Images/album/202302/28/164045kxdrfexzxbgg662x.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/28/164054uhcbu33omruzbn11.jpg)
+![](/Asserts/Images/album/202302/28/164054uhcbu33omruzbn11.jpg)
 
 
 ### Safari 将爆发性地带来 135 项功能
@@ -35,7 +35,7 @@ tags:	[linuxcn,Safari,大语言模型,汽车]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/28/164112sqtggway670cjsom.jpg)
+![](/Asserts/Images/album/202302/28/164112sqtggway670cjsom.jpg)
 
 
 ### Meta 发布能运行在单张显卡上的大语言模型
@@ -63,7 +63,7 @@ Meta 上周宣布了一个新的大语言模型 LLaMA-13B，称其参数规模�
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/28/164131x1q7sh2x1xsp71eq.jpg)
+![](/Asserts/Images/album/202302/28/164131x1q7sh2x1xsp71eq.jpg)
 
 
 ### 未来的福特汽车可能会自动跑路

@@ -7,10 +7,10 @@ tags:	[linuxcn,龙芯,Linus Torvalds,BIOS,鸿蒙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/10/192437pj779nu1h37v7h8j.jpg)
+![](/Asserts/Images/album/202210/10/192437pj779nu1h37v7h8j.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/10/192444lides9pn2lnpw9ui.jpg)
+![](/Asserts/Images/album/202210/10/192444lides9pn2lnpw9ui.jpg)
 
 
 ### Linux 之父的 PC 挂了，恐影响 Linux 6.1 发布
@@ -35,7 +35,7 @@ tags:	[linuxcn,龙芯,Linus Torvalds,BIOS,鸿蒙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/10/192454issltfflfc8hfps4.jpg)
+![](/Asserts/Images/album/202210/10/192454issltfflfc8hfps4.jpg)
 
 
 ### 龙架构已初步支持开源鸿蒙操作系统
@@ -60,7 +60,7 @@ tags:	[linuxcn,龙芯,Linus Torvalds,BIOS,鸿蒙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/10/192507knuhyddddddnlmdk.jpg)
+![](/Asserts/Images/album/202210/10/192507knuhyddddddnlmdk.jpg)
 
 
 ### 英特尔确认 Alder Lake BIOS 源代码被泄露

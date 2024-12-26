@@ -15,7 +15,7 @@ tags:	[linuxcn,DevOps]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/05/060323yizmqwn43zwy13za.jpg)
+![](/Asserts/Images/album/201909/05/060323yizmqwn43zwy13za.jpg)
 
 
 DevOps 已经成为解决软件开发过程中出现的缓慢、孤立或者其他故障的默认方式。但是当你刚接触 DevOps 并且不确定从哪开始时，就意义不大了。本文探索了什么是 DevOps 流水线并且提供了创建它的 5 个步骤。尽管这个教程并不全面，但可以给你以后上手和扩展打下基础。首先，插入一个小故事。
@@ -66,7 +66,7 @@ Amazon、Google、Netflix 怎么能做到如此之频繁？那是因为这些公
 这篇文章描述了一个构建 DevOps 流水线的五步方法，就像下图所展示的那样，使用开源的工具实现。
 
 
-![Complete DevOps pipeline](/Asserts/Images//attachment/album/201909/05/060340ilvz8rifkv8rkjjx.jpg "Complete DevOps pipeline")
+![Complete DevOps pipeline](/Asserts/Images/album/201909/05/060340ilvz8rifkv8rkjjx.jpg "Complete DevOps pipeline")
 
 
 闲话少说，让我们开始吧。
@@ -99,7 +99,7 @@ Jenkins 仅是众多构建 DevOps 流水线的开源 CI/CD 工具之一。
 下面就是使用 CI/CD 工具时 DevOps 看起来的样子。
 
 
-![CI/CD tool](/Asserts/Images//attachment/album/201909/05/060340o710ecl7eif71jpp.jpg "CI/CD tool")
+![CI/CD tool](/Asserts/Images/album/201909/05/060340o710ecl7eif71jpp.jpg "CI/CD tool")
 
 
 你的 CI/CD 工具在本地主机上运行，但目前你还不能够做些别的。让我们紧随 DevOps 之旅的脚步。
@@ -131,7 +131,7 @@ Jenkins 仅是众多构建 DevOps 流水线的开源 CI/CD 工具之一。
 拥有 SCM 之后，DevOps 流水线看起来就像这样。
 
 
-![Source control management](/Asserts/Images//attachment/album/201909/05/060341m80rh0a8s010dxar.jpg "Source control management")
+![Source control management](/Asserts/Images/album/201909/05/060341m80rh0a8s010dxar.jpg "Source control management")
 
 
 CI/CD 工具能够自动化进行源代码检入检出以及完成成员之间的协作。还不错吧？但是，如何才能把它变成可工作的应用程序，使得数十亿人来使用并欣赏它呢？
@@ -170,7 +170,7 @@ CI/CD 工具能够自动化进行源代码检入检出以及完成成员之间�
 太棒了！现在你可以将自动化构建工具的配置文件放进源代码控制管理系统中，并让你的 CI/CD 工具构建它。
 
 
-![Build automation tool](/Asserts/Images//attachment/album/201909/05/060341rfvzwege306dapue.jpg "Build automation tool")
+![Build automation tool](/Asserts/Images/album/201909/05/060341rfvzwege306dapue.jpg "Build automation tool")
 
 
 一切都如此美好，对吧？但是在哪里部署它呢？
@@ -207,7 +207,7 @@ CI/CD 工具能够自动化进行源代码检入检出以及完成成员之间�
 现在 DevOps 流水线差不多能用了，干得好！
 
 
-![Web application server](/Asserts/Images//attachment/album/201909/05/060342cd8rboq080odd88u.jpg "Web application server")
+![Web application server](/Asserts/Images/album/201909/05/060342cd8rboq080odd88u.jpg "Web application server")
 
 
 尽管你可以在这里停下来并进行进一步的集成，但是代码质量对于应用开发者来说是一件非常重要的事情。

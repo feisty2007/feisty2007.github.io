@@ -7,10 +7,10 @@ tags:	[linuxcn,树莓派,微软,OpenSSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/28/193306euuldrdmjabdp5g5.jpg)
+![](/Asserts/Images/album/202206/28/193306euuldrdmjabdp5g5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/28/193317kg9lguhpa8gp9iu5.jpg)
+![](/Asserts/Images/album/202206/28/193317kg9lguhpa8gp9iu5.jpg)
 
 
 ### 首颗树莓派卫星完成了创纪录的飞行
@@ -35,7 +35,7 @@ tags:	[linuxcn,树莓派,微软,OpenSSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/28/193328cmys2qsqtiibm2tb.jpg)
+![](/Asserts/Images/album/202206/28/193328cmys2qsqtiibm2tb.jpg)
 
 
 ### 微软的内部 Linux 发行版支持内核实时补丁
@@ -60,7 +60,7 @@ tags:	[linuxcn,树莓派,微软,OpenSSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/28/193350tltj8rlk1xlvjdjl.jpg)
+![](/Asserts/Images/album/202206/28/193350tltj8rlk1xlvjdjl.jpg)
 
 
 ### 刚刚发布的 OpenSSL 3.0.4 可能存在一个比心脏流血更严重的漏洞

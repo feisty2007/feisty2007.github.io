@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/02/125301wkbvgz1n7zv7j55e.jpg)
+![](/Asserts/Images/album/201910/02/125301wkbvgz1n7zv7j55e.jpg)
 
 
 CutiePi 是一款 8 英寸的构建在树莓派上的开源平板。他们在[树莓派论坛](https://www.raspberrypi.org/forums/viewtopic.php?t=247380)上宣布：现在，它只是一台原型机。 
@@ -33,7 +33,7 @@ CutiePi 是一款 8 英寸的构建在树莓派上的开源平板。他们在[�
 ### CutiePi 规格
 
 
-![CutiePi Board](/Asserts/Images//attachment/album/201910/02/125334rux1xsyli3gguffz.png)
+![CutiePi Board](/Asserts/Images/album/201910/02/125334rux1xsyli3gguffz.png)
 
 
 我惊讶地了解到它有 8 英寸的 IPS LCD 显示屏，这对新手而言是个好事。然而，你不会有一个真正高清的屏幕，因为官方宣称它的分辨率是 1280×800。
@@ -45,7 +45,7 @@ CutiePi 是一款 8 英寸的构建在树莓派上的开源平板。他们在[�
 连接性上包括支持 Wi-Fi 和蓝牙 4.0。此外，还有一个 USB Type-A 插口、6 个 GPIO 引脚和 microSD 卡插槽。
 
 
-![CutiePi Specifications](/Asserts/Images//attachment/album/201910/02/125336o7cc7n7k87vfvfiz.jpg)
+![CutiePi Specifications](/Asserts/Images/album/201910/02/125336o7cc7n7k87vfvfiz.jpg)
 
 
 硬件与 [Raspbian OS](https://itsfoss.com/raspberry-pi-os-desktop/) 官方兼容，用户界面采用 [Qt](https://en.wikipedia.org/wiki/Qt_%28software%29) 构建，以获得快速直观的用户体验。此外，除了内置应用外，它还将通过 XWayland 支持 Raspbian PIXEL 应用。

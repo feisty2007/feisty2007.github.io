@@ -19,7 +19,7 @@ Elementary OS是一个以Ubuntu为基础的轻量级操作系统，广受欢迎�
 Freya是目前最新的Elementary OS版本（0.3）。最初是被命名为ISIS，但是后来改了，是为了避免与同名的恐怖组织产生任何的联系。Freya有一些非常不错的预装应用。
 
 
-![](/Asserts/Images//attachment/album/201504/20/223120m4mqoryw6r4yzpci.png)
+![](/Asserts/Images/album/201504/20/223120m4mqoryw6r4yzpci.png)
 
 
 ### 突出的特性
@@ -52,67 +52,67 @@ Freya是目前最新的Elementary OS版本（0.3）。最初是被命名为ISIS�
 下载Elementary OS 0.3的ISO文件，并且写入到一个USB启动盘或者DVD/CD。支持32位和64位的架构。当计算机从Elementary OS ISO文件启动后，有两个选项可用，不安装而仅试用，或直接安装到计算机里。这里选择第二项。Elmentary OS也可以与已有操作系统并存安装，构成双重启动。
 
 
-![Install Freya](/Asserts/Images//attachment/album/201504/20/223125v031nyxhznxj2jjj.png)
+![Install Freya](/Asserts/Images/album/201504/20/223125v031nyxhznxj2jjj.png)
 
 
 在进行下面的步骤之前会检查系统要求和资源有效性。如果你的系统有足够的资源，点击继续。
 
 
-![Installation Requirements](/Asserts/Images//attachment/album/201504/20/223125s96wdf9nimckcmkg.png)
+![Installation Requirements](/Asserts/Images/album/201504/20/223125s96wdf9nimckcmkg.png)
 
 
 安装向导提供许多安装形式。选取最适合你的选项，通常大多数都选用第一个选项：“擦除磁盘以安装elementary”。选择该选项，必须保证你的原有数据都已经正确备份了，因为磁盘（分区）擦除后，其上所有的数据就会丢失。
 
 
-![Installation Types](/Asserts/Images//attachment/album/201504/20/223126fn0n24z8in8y4yfv.png)
+![Installation Types](/Asserts/Images/album/201504/20/223126fn0n24z8in8y4yfv.png)
 
 
 接下来的对话框显示了Elementary OS所使用和需要格式化的磁盘分区列表，确保数据完整后点击继续。
 
 
-![Format Warning](/Asserts/Images//attachment/album/201504/20/223126ynu7tmjb9bu6j1ez.png)
+![Format Warning](/Asserts/Images/album/201504/20/223126ynu7tmjb9bu6j1ez.png)
 
 
 选择你的地理位置，确定时区，点击继续。
 
 
-![Location](/Asserts/Images//attachment/album/201504/20/223129ecxy8g14ss1js5f8.png)
+![Location](/Asserts/Images/album/201504/20/223129ecxy8g14ss1js5f8.png)
 
 
 选择你的语言，点击继续。
 
 
-![Language](/Asserts/Images//attachment/album/201504/20/223129f3xx3scs14rs1hxs.png)
+![Language](/Asserts/Images/album/201504/20/223129f3xx3scs14rs1hxs.png)
 
 
 填入你的信息，选择一个高强度的超级用户/管理员密码，点击继续。
 
 
-![whoareyou](/Asserts/Images//attachment/album/201504/20/223130dimvmmi8ypiy3m7y.png)
+![whoareyou](/Asserts/Images/album/201504/20/223130dimvmmi8ypiy3m7y.png)
 
 
 当你的信息提供后，核心安装进程就会启动，正在安装的组件的详细信息会在一个小对话框里随进度条一闪而过。
 
 
-![Installation progress](/Asserts/Images//attachment/album/201504/20/223131yio0hkreittxyfl6.png)
+![Installation progress](/Asserts/Images/album/201504/20/223131yio0hkreittxyfl6.png)
 
 
 恭喜你！最新的Elementary OS 0.3 (Freya)已经安装完成了。此时需要重启来更新和完整注册，恭喜。
 
 
-![Installation Complet](/Asserts/Images//attachment/album/201504/20/223131hkbuyks9uuy6465k.png)
+![Installation Complet](/Asserts/Images/album/201504/20/223131hkbuyks9uuy6465k.png)
 
 
 启动时，Elementary OS将显示它优雅的logo，然后会出现密码保护的管理员登入和游客访问选项。游客访问有相当多的限制功能，而且没有安装软件的权限。
 
 
-![Login](/Asserts/Images//attachment/album/201504/20/223134s1cdvzrf46l7wtwi.png)
+![Login](/Asserts/Images/album/201504/20/223134s1cdvzrf46l7wtwi.png)
 
 
 下图是新安装的Elementary OS 0.3的画面。
 
 
-![first look](/Asserts/Images//attachment/album/201504/20/223137wyi7l4lreryf7417.png)
+![first look](/Asserts/Images/album/201504/20/223137wyi7l4lreryf7417.png)
 
 
 ### 个性化桌面
@@ -130,19 +130,19 @@ Elementary OS 0.3以其轻巧和美观而为我们熟知。每个人有自己独
 默认提供了很少的壁纸，更多的可以从网上下载或者从你的相机传输过来。
 
 
-![Desktop Wallpaper](/Asserts/Images//attachment/album/201504/20/223139uq0szs5wwixpy0wq.png)
+![Desktop Wallpaper](/Asserts/Images/album/201504/20/223139uq0szs5wwixpy0wq.png)
 
 
 Elementary OS真正的美丽在于优雅的泊板。桌面上没有任何图标，泊板上的应用图标显示逼真，通过它可以快速访问常用应用。
 
 
-![Desktop Dock](/Asserts/Images//attachment/album/201504/20/223140ph0y30uj4l5txm4h.png)
+![Desktop Dock](/Asserts/Images/album/201504/20/223140ph0y30uj4l5txm4h.png)
 
 
 用户可以定制桌面的四个热角的功能。
 
 
-![Hot Corners](/Asserts/Images//attachment/album/201504/20/223141c3qnes89l9ooxdkk.png)
+![Hot Corners](/Asserts/Images/album/201504/20/223141c3qnes89l9ooxdkk.png)
 
 
 通过安装elementary tweaks工具来更深入的个性化定制。
@@ -157,7 +157,7 @@ sudo add-apt-repository ppa:mpstark/elementary-tweaks-daily
 
 ```
 
-![ppa](/Asserts/Images//attachment/album/201504/20/223142n8op9soztei6e89t.png)
+![ppa](/Asserts/Images/album/201504/20/223142n8op9soztei6e89t.png)
 
 
 当 PPA 添加到仓库后，我们需要用以下命令更新仓库
@@ -169,7 +169,7 @@ sudo apt-get update
 
 ```
 
-![update repository](/Asserts/Images//attachment/album/201504/20/223142z4kv078fh17hthzt.png)
+![update repository](/Asserts/Images/album/201504/20/223142z4kv078fh17hthzt.png)
 
 
 更新仓库后，我们就可以安装elementary-tweaks，用以下命令完成
@@ -181,13 +181,13 @@ sudo apt-get install elementary-tweaks
 
 ```
 
-![install elementary tweaks](/Asserts/Images//attachment/album/201504/20/223143wk7wfv8hk9oxwf1o.png)
+![install elementary tweaks](/Asserts/Images/album/201504/20/223143wk7wfv8hk9oxwf1o.png)
 
 
 我们可以在Application > System Settings下的个人区域的看到增加了一个Tweaks项目。它现在可以给我们提供更多的个性化定制选项。
 
 
-![tweaks](/Asserts/Images//attachment/album/201504/20/223144fcqfcilstfl7elqq.png)
+![tweaks](/Asserts/Images/album/201504/20/223144fcqfcilstfl7elqq.png)
 
 
 为了进一步定制，我们也安装了gnome桌面系统的tweak工具，以演示解锁桌面。
@@ -199,7 +199,7 @@ sudo apt-get install gnome-tweak-tool
 
 ```
 
-![gnome](/Asserts/Images//attachment/album/201504/20/223144gkk94ka1g4eg3x1x.png)
+![gnome](/Asserts/Images/album/201504/20/223144gkk94ka1g4eg3x1x.png)
 
 
 ### 总结

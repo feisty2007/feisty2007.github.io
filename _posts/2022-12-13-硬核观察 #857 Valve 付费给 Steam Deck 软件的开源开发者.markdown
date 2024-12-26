@@ -7,10 +7,10 @@ tags:	[linuxcn,Steam,根证书,NTFS3]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/21/201225ypmxnh2hommmxpbm.jpg)
+![](/Asserts/Images/album/202212/21/201225ypmxnh2hommmxpbm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/21/201232l44foybt47z5ub7n.jpg)
+![](/Asserts/Images/album/202212/21/201232l44foybt47z5ub7n.jpg)
 
 
 ### Valve 付费给 Steam Deck 软件的开源开发者
@@ -35,7 +35,7 @@ Steam Deck 掌机的操作系统基于 Arch Linux，桌面环境是 KDE Plasma�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/21/201242z2vnlw22nw8slzn2.jpg)
+![](/Asserts/Images/album/202212/21/201242z2vnlw22nw8slzn2.jpg)
 
 
 ### 安卓准备支持可更新的根证书
@@ -60,7 +60,7 @@ Steam Deck 掌机的操作系统基于 Arch Linux，桌面环境是 KDE Plasma�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/21/201253x15zd2yll6l1p1p5.jpg)
+![](/Asserts/Images/album/202212/21/201253x15zd2yll6l1p1p5.jpg)
 
 
 ### Linux 6.2 的 NTFS3 驱动增加了几个新的功能

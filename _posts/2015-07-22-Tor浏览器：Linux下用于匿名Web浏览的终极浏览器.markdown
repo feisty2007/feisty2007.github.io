@@ -10,7 +10,7 @@ tags:	[linuxcn,Tor]
 我们大多数人都在上网方面花费很多时间。上网使用的应用程序主要是浏览器，更确切的说是一个Web浏览器。我们在网络上的大部分活动要以客户端/服务器的方式登录，这个过程会包括IP地址、地理信息、搜索、活动以及许多潜在的信息，这些信息如果以其他方式被故意使用，会存在潜在的危险性。
 
 
-![在Linux中安装Tor浏览器](/Asserts/Images//attachment/album/201507/07/234541bs1o18zhqs84qs6s.jpg)
+![在Linux中安装Tor浏览器](/Asserts/Images/album/201507/07/234541bs1o18zhqs84qs6s.jpg)
 
 
 *Tor浏览器：匿名浏览器*
@@ -111,7 +111,7 @@ $ ./start-tor-browser
 
 ```
 
-![开始使用Tor浏览器](/Asserts/Images//attachment/album/201507/07/234544xpl36y5alhzv73w3.jpg)
+![开始使用Tor浏览器](/Asserts/Images/album/201507/07/234544xpl36y5alhzv73w3.jpg)
 
 
 *开始使用Tor浏览器*
@@ -123,7 +123,7 @@ $ ./start-tor-browser
 点击“连接”之后Tor将按照设置帮您做剩下的事情。\*\*
 
 
-![连接到Tor网络](/Asserts/Images//attachment/album/201507/07/234547q8w7oafmlf7cae8a.jpg)
+![连接到Tor网络](/Asserts/Images/album/201507/07/234547q8w7oafmlf7cae8a.jpg)
 
 
 *连接到Tor网络*
@@ -132,7 +132,7 @@ $ ./start-tor-browser
 #### 2. 欢迎窗口/标签。
 
 
-![Tor欢迎界面](/Asserts/Images//attachment/album/201507/07/234552p6ln9huipw6ppk3w.png)
+![Tor欢迎界面](/Asserts/Images/album/201507/07/234552p6ln9huipw6ppk3w.png)
 
 
 *Tor欢迎界面*
@@ -141,7 +141,7 @@ $ ./start-tor-browser
 **3. 用Tor浏览器在Youtube上看视频**
 
 
-![在Youtube上看视频](/Asserts/Images//attachment/album/201507/07/234556f5s4phu5si5izs1d.jpg)
+![在Youtube上看视频](/Asserts/Images/album/201507/07/234556f5s4phu5si5izs1d.jpg)
 
 
 *在Youtube上看视频*
@@ -150,7 +150,7 @@ $ ./start-tor-browser
 #### 4. 打开银行网址以进行在线购物和交易
 
 
-![浏览银行站点](/Asserts/Images//attachment/album/201507/07/234601iodcooo363oxh8pd.jpg)
+![浏览银行站点](/Asserts/Images/album/201507/07/234601iodcooo363oxh8pd.jpg)
 
 
 *浏览银行站点*
@@ -162,7 +162,7 @@ $ ./start-tor-browser
 注意其中的文字为“Proxy Server detected”。\*\*
 
 
-![检查IP地址](/Asserts/Images//attachment/album/201507/07/234606cnqu00n70s0ns709.jpg)
+![检查IP地址](/Asserts/Images/album/201507/07/234606cnqu00n70s0ns709.jpg)
 
 
 *检查IP地址*
@@ -216,7 +216,7 @@ Categories=Network;WebBrowser;
 您可能需要在第一次运行时信任该文件。
 
 
-![Tor应用启动器](/Asserts/Images//attachment/album/201507/07/234609yw3z2ce3w72wc2ry.jpg)
+![Tor应用启动器](/Asserts/Images/album/201507/07/234609yw3z2ce3w72wc2ry.jpg)
 
 
 *Tor应用启动器*
@@ -225,7 +225,7 @@ Categories=Network;WebBrowser;
 #### 8. 一旦您选择了信任，请注意`tor.desktop`文件的图标则会改变
 
 
-![Tor图标已改变](/Asserts/Images//attachment/album/201507/07/234611h2p4ecp8234x5444.jpg)
+![Tor图标已改变](/Asserts/Images/album/201507/07/234611h2p4ecp8234x5444.jpg)
 
 
 *Tor图标已改变*
@@ -234,7 +234,7 @@ Categories=Network;WebBrowser;
 #### 9. 您可以通过拖拽`tor.desktop`的图标在桌面和Dock栏中创建快捷方式
 
 
-![在桌面添加Tor快捷方式](/Asserts/Images//attachment/album/201507/07/234613ipr7aas7salrc0up.jpg)
+![在桌面添加Tor快捷方式](/Asserts/Images/album/201507/07/234613ipr7aas7salrc0up.jpg)
 
 
 *在桌面添加Tor快捷方式*
@@ -243,7 +243,7 @@ Categories=Network;WebBrowser;
 #### 10. 关于Tor浏览器
 
 
-![关于Tor浏览器](/Asserts/Images//attachment/album/201507/07/234618kv5bb1czvjcp8vjt.jpg)
+![关于Tor浏览器](/Asserts/Images/album/201507/07/234618kv5bb1czvjcp8vjt.jpg)
 
 
 *关于Tor浏览器*
@@ -291,7 +291,7 @@ Tor浏览器是前途无量的。也许第一个该类应用程序的实现是�
 非官方的Tor私密浏览指南：
 
 
-[![](/Asserts/Images//attachment/album/201507/07/234622wpzmhstts7ttbtmz.gif)](http://tecmint.tradepub.com/free/w_make129/prgm.cgi)
+[![](/Asserts/Images/album/201507/07/234622wpzmhstts7ttbtmz.gif)](http://tecmint.tradepub.com/free/w_make129/prgm.cgi)
 
 
 ### 结论

@@ -7,10 +7,10 @@ tags:	[linuxcn,QQ,数据中心,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/30/165641zmgg8hm1rr5d8td7.jpg)
+![](/Asserts/Images/album/202212/30/165641zmgg8hm1rr5d8td7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/30/165647z22xk3kjf06s63k0.jpg)
+![](/Asserts/Images/album/202212/30/165647z22xk3kjf06s63k0.jpg)
 
 
 ### QQ for Linux 3.0 正式上线
@@ -35,7 +35,7 @@ tags:	[linuxcn,QQ,数据中心,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/30/165657lhdc32io52nnknnd.jpg)
+![](/Asserts/Images/album/202212/30/165657lhdc32io52nnknnd.jpg)
 
 
 ### 欧洲利用数据中心为家庭供暖
@@ -60,7 +60,7 @@ tags:	[linuxcn,QQ,数据中心,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/30/165708j9g9qtlgmmqmbtxb.jpg)
+![](/Asserts/Images/album/202212/30/165708j9g9qtlgmmqmbtxb.jpg)
 
 
 ### 大学生开始用 AI 来写论文

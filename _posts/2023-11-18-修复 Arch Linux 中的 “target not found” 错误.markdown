@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/26/235547szhfv062quxx0hry.png)
+![](/Asserts/Images/album/202311/26/235547szhfv062quxx0hry.png)
 
 
 
@@ -83,7 +83,7 @@ sudo pacman -Syu
 就我而言，Arch 安装在我的辅助系统上。由于我一周左右无法使用它，该系统已经过时了。更新后，我就可以安装 [Hyprland](https://hyprland.org/)。
 
 
-![](/Asserts/Images//attachment/album/202311/26/235445jk24ct2kni44cicc.png)
+![](/Asserts/Images/album/202311/26/235445jk24ct2kni44cicc.png)
 
 
 
@@ -112,7 +112,7 @@ Linux 区分大小写，包通常以小写命名。因此，如果你要使用�
 此外，某些软件的拼写与常见软件的拼写不同。例如，它是 hyprland，这使我错误地输入了 hyperland（使用通常的 “hyper” 拼写）。
 
 
-![](/Asserts/Images//attachment/album/202311/26/235446my8zqekkqqctyqpc.png)
+![](/Asserts/Images/album/202311/26/235446my8zqekkqqctyqpc.png)
 
 
 在极少数情况下，可能会混淆是 `l`、`I` 或者 `1`。
@@ -136,7 +136,7 @@ Arch Linux 的仓库中有大量软件包。但这并不意味着它拥有所有
 在这里输入包名，查看该包是否可用。如果是，它是哪个仓库以及它在哪个设备上可用。
 
 
-![](/Asserts/Images//attachment/album/202311/26/235446eswqtcest8g7qstt.png)
+![](/Asserts/Images/album/202311/26/235446eswqtcest8g7qstt.png)
 
 
 `x86_64` 适用于英特尔架构，任何包含 ARM 架构的均适用于 [树莓派类设备](https://itsfoss.com/raspberry-pi-alternatives/)。

@@ -7,10 +7,10 @@ tags:	[linuxcn,macOS,芯片,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/23/181916e5ojg5chfvle0pzg.jpg)
+![](/Asserts/Images/album/202204/23/181916e5ojg5chfvle0pzg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/23/181930jtp4utypt4hdh46r.jpg)
+![](/Asserts/Images/album/202204/23/181930jtp4utypt4hdh46r.jpg)
 
 
 ### 苹果宣布停用 macOS Server
@@ -35,7 +35,7 @@ tags:	[linuxcn,macOS,芯片,谷歌]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/23/181950bf2y2vk4ycfp5fh4.jpg)
+![](/Asserts/Images/album/202204/23/181950bf2y2vk4ycfp5fh4.jpg)
 
 
 ### 台积电最早于 2025 年开始生产 2 纳米芯片
@@ -60,7 +60,7 @@ tags:	[linuxcn,macOS,芯片,谷歌]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/23/182002qmzmmb2fmlrrruir.jpg)
+![](/Asserts/Images/album/202204/23/182002qmzmmb2fmlrrruir.jpg)
 
 
 ### 欧盟新内容规则下科技公司面临上百亿欧元罚款

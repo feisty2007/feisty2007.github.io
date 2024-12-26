@@ -18,7 +18,7 @@ tags:	[linuxcn,PDF,字体,pdffonts,Linux,有问必答]
 要检查PDF文件中包含了，或者使用了什么字体，你可以使用命令行工具：pdffonts，它是一个PDF字体分析工具。pdffonts是Poppler PDF工具集包中的一个部分。
 
 
-![](/Asserts/Images//attachment/album/201408/27/005030kd3j1dds1wlidzjj.png)
+![](/Asserts/Images/album/201408/27/005030kd3j1dds1wlidzjj.png)
 
 
 ### 安装PDF工具集到Linux

@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME,安全启动]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/03/182421zcxzl7kb3xd9b9tb.jpg)
+![](/Asserts/Images/album/202208/03/182421zcxzl7kb3xd9b9tb.jpg)
 
 
 当你在支持 UEFI 的电脑上安装 Linux 时，你必须禁用“<ruby> 安全启动 <rt>  Secure Boot </rt></ruby>”，因为启用该选项后，不能使用<ruby> 现场 USB <rt>  Live USB </rt></ruby> 启动。
@@ -48,13 +48,13 @@ UEFI/安全启动被批评为 DRM，因为它剥夺了用户的自由。开源�
 所以，开发者准备在启动闪屏（[Plymouth](https://gitlab.freedesktop.org/plymouth)）、GNOME 显示管理器（GDM）和 GNOME 控制中心显示警告。
 
 
-![图片来源：GNOME 博客](/Asserts/Images//attachment/album/202208/03/182422dsahwa3z03avvwhk.png)
+![图片来源：GNOME 博客](/Asserts/Images/album/202208/03/182422dsahwa3z03avvwhk.png)
 
 
 GNOME 的一位开发者在 [博客文章](https://blogs.gnome.org/hughsie/2022/07/29/emulated-host-profiles-in-fwupd/) 中分享了它的更多细节，同时给出了其中的一些屏幕截图。
 
 
-![](/Asserts/Images//attachment/album/202208/03/182422clrx3yx3xqytqnny.png)
+![](/Asserts/Images/album/202208/03/182422clrx3yx3xqytqnny.png)
 
 
 一位来自红帽的开发者在 [合并请求](https://gitlab.freedesktop.org/plymouth/plymouth/-/merge_requests/176) 中提到。
@@ -74,13 +74,13 @@ GNOME 的一位开发者在 [博客文章](https://blogs.gnome.org/hughsie/2022/
 如果你也想看看，你可以在 GNOME 控制中心的“<ruby> 隐私 <rt>  Privacy </rt></ruby>”标签下的“<ruby> 设备安全 <rt>  Device Security </rt></ruby>”部分找到这个选项，如下图所示，我的机器在 Arch Linux 上运行 GNOME 43 alpha。
 
 
-![](/Asserts/Images//attachment/album/202208/03/182422eqgbxrjugexfegvb.png)
+![](/Asserts/Images/album/202208/03/182422eqgbxrjugexfegvb.png)
 
 
 该菜单还可以显示 TPM、英特尔 BootGuard 和 IOMMU 保护的细节。
 
 
-![](/Asserts/Images//attachment/album/202208/03/182423ltnif4n31v7lftu0.png)
+![](/Asserts/Images/album/202208/03/182423ltnif4n31v7lftu0.png)
 
 
 看来我的系统并不像我想象的那么安全……但也许这就是这个功能的意义所在？

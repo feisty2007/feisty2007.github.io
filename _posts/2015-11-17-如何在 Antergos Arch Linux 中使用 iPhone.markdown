@@ -7,7 +7,7 @@ tags:	[linuxcn,iPhone]
 ---
 
 
-![](/Asserts/Images//attachment/album/201511/04/223435xdp04bscjuu0tddb.jpg)
+![](/Asserts/Images/album/201511/04/223435xdp04bscjuu0tddb.jpg)
 
 
 在Arch Linux中使用iPhone遇到麻烦了么？iPhone和Linux从来都没有很好地集成。本教程中，我会向你展示如何在Antergos Linux中使用iPhone，对于同样基于Arch的的Linux发行版如Manjaro也应该同样管用。
@@ -55,7 +55,7 @@ mkdir ~/iPhone
 **第五步**：解锁你的手机并插入，如果询问是否信任该计算机，请允许信任。
 
 
-![](/Asserts/Images//attachment/album/201511/04/223437bwsc6i67lowd0bx9.jpg)
+![](/Asserts/Images/album/201511/04/223437bwsc6i67lowd0bx9.jpg)
 
 
 **第六步**： 看看这时iPhone是否已经被机器识别了。
@@ -98,13 +98,13 @@ ifuse ~/iPhone
 回到Files看下iPhone是否已经识别。对于我而言，在Antergos中看上去这样：
 
 
-![](/Asserts/Images//attachment/album/201511/04/223439jweu7uxz0k2oq2og.jpg)
+![](/Asserts/Images/album/201511/04/223439jweu7uxz0k2oq2og.jpg)
 
 
 你可以在这个目录中访问文件。从这里复制文件或者复制到里面。
 
 
-![](/Asserts/Images//attachment/album/201511/04/223440e5grq35hjchiivgl.jpg)
+![](/Asserts/Images/album/201511/04/223440e5grq35hjchiivgl.jpg)
 
 
 **第八步**： 当你想要卸载的时候，使用这个命令：

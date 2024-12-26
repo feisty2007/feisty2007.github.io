@@ -7,7 +7,7 @@ tags:	[linuxcn,邮件,Outlook]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/24/054057kb56l2jblmb2jidb.jpg)
+![](/Asserts/Images/album/201808/24/054057kb56l2jblmb2jidb.jpg)
 
 
 从事电子邮件营销，<ruby> 准入 <rt>  opt-in </rt></ruby>邮箱列表是必不可少的。你可能已经有了准入列表，同时还使用电子邮件客户端软件。如果你能从电子邮件客户端中导出准入列表，那这份列表想必是极好的。

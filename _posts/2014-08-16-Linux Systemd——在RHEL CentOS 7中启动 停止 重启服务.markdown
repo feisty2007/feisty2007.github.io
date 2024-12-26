@@ -10,7 +10,7 @@ tags:	[linuxcn,CentOS,systemd,系统,管理器]
  
 
 
-![](/Asserts/Images//attachment/album/201408/29/173235jrrhehuyu43fgi74.jpg)
+![](/Asserts/Images/album/201408/29/173235jrrhehuyu43fgi74.jpg)
 
 
 RHEL/CentOS 7.0中一个最主要的改变，就是切换到了**systemd**。它用于替代红帽企业版Linux前任版本中的SysV和Upstart，对系统和服务进行管理。systemd兼容SysV和Linux标准组的启动脚本。

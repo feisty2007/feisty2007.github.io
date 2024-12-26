@@ -19,7 +19,7 @@ tags:	[linuxcn,CentOS]
 “CentOS AltArch 7 已经可以下载了，” Karanbir Singh 在[发布公告](https://lists.centos.org/pipermail/centos-announce/2015-December/021556.html)中说，“预计支持 Aarch64 的 CentOS AltArch 7 （1511）过几天就发布，到时候会单独宣布”。
 
 
-![](/Asserts/Images//attachment/album/201512/24/121626u6ncnc1a5f7gbbll.jpg)
+![](/Asserts/Images/album/201512/24/121626u6ncnc1a5f7gbbll.jpg)
 
 
 ### 支持 PPC64、PPC8LE、ARMhfp、AArch64、64位和32位

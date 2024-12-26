@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,工作,苹果]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/09/184608tvtyyyee2mnn27rm.jpg)
+![](/Asserts/Images/album/202301/09/184608tvtyyyee2mnn27rm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/09/184615uzwgf5e2tgc1yfkm.jpg)
+![](/Asserts/Images/album/202301/09/184615uzwgf5e2tgc1yfkm.jpg)
 
 
 ### 数千用 Rust 开发的项目面临拒绝服务攻击
@@ -35,7 +35,7 @@ Rust Hyper 包是一个非常流行的处理 HTTP 请求的 Rust 库。安全研
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/09/184624gbgollysbbbgw22y.jpg)
+![](/Asserts/Images/album/202301/09/184624gbgollysbbbgw22y.jpg)
 
 
 ### 美国最幸福、压力最小的工作是伐木工和农民
@@ -60,7 +60,7 @@ Rust Hyper 包是一个非常流行的处理 HTTP 请求的 Rust 库。安全研
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/09/184635l9c49caz7njk0zaq.jpg)
+![](/Asserts/Images/album/202301/09/184635l9c49caz7njk0zaq.jpg)
 
 
 ### 苹果公司因非法获取用户数据而被罚

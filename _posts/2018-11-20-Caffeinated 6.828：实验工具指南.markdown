@@ -7,7 +7,7 @@ tags:	[linuxcn,GDB,6.828]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/25/115935paqa0dqwtg5o5o7j.jpg)
+![](/Asserts/Images/album/201811/25/115935paqa0dqwtg5o5o7j.jpg)
 
 
 熟悉你的环境对高效率的开发和调试来说是至关重要的。本文将为你简单概述一下 JOS 环境和非常有用的 GDB 和 QEMU 命令。话虽如此，但你仍然应该去阅读 GDB 和 QEMU 手册，来理解这些强大的工具如何使用。

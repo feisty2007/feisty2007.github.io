@@ -16,7 +16,7 @@ tags:	[linuxcn,Ubuntu]
 ### Ubuntu 18.04 中有什么值得期待
 
 
-![Ubuntu 18.04 Frequently Asked Questions](/Asserts/Images//attachment/album/201805/30/053816snzvlyp5y1w681la.png)
+![Ubuntu 18.04 Frequently Asked Questions](/Asserts/Images/album/201805/30/053816snzvlyp5y1w681la.png)
 
 
 解释一下，这里的一些问答会受到我个人的影响。如果您是一位经验丰富或了解 Ubuntu 的用户，其中一些问题可能对您而言很简单。如果是这样的话，就请忽略这些问题。
@@ -82,13 +82,13 @@ Ubuntu 18.04 LTS 在 4 月 26 日发布。 所有基于 Ubuntu 的 Linux 发行�
 如果您使用的是 Ubuntu 17.10，请确保在“软件和更新”->“更新”中，将“有新版本时通知我”设置为“适用任何新版本”。
 
 
-![Get notified for a new version in Ubuntu](/Asserts/Images//attachment/album/201805/30/053816kppftzz77ff1spcf.jpg)
+![Get notified for a new version in Ubuntu](/Asserts/Images/album/201805/30/053816kppftzz77ff1spcf.jpg)
 
 
 如果您使用的是 Ubuntu 16.04，请确保在“软件和更新”->“更新”中，将“有新版本时通知我”设置为“适用长期支持版本”。
 
 
-![Ubuntu 18.04 upgrade from Ubuntu 16.04](/Asserts/Images//attachment/album/201805/30/053817khhdff1i601aalhv.png)
+![Ubuntu 18.04 upgrade from Ubuntu 16.04](/Asserts/Images/album/201805/30/053817khhdff1i601aalhv.png)
 
 
 然后您应该能获得有关新版本更新的系统通知。之后，升级到 Ubuntu 18.04 只需要点击几下鼠标而已。

@@ -13,7 +13,7 @@ tags:	[linuxcn,squid,面试]
 本文旨在提高你在遇到关于代理服务器面试点时的一些基本应对能力。
 
 
-![](/Asserts/Images//attachment/album/201409/23/142220gessges97uu9ey9p.png)
+![](/Asserts/Images/album/201409/23/142220gessges97uu9ey9p.png)
 
 
 以下为面试问答的内容

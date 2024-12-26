@@ -13,7 +13,7 @@ tags:	[linuxcn,sudo]
 在 Ubuntu 及其衍生版如 Linux Mint 或任何其他基于 Ubuntu 的发行版中，当你执行 [sudo 命令](http://www.tecmint.com/su-vs-sudo-and-how-to-configure-sudo-in-linux/) 时，它将提示你输入管理密码。
 
 
-![](/Asserts/Images//attachment/album/201701/26/233116cgb81idnvtd8rd8h.png)
+![](/Asserts/Images/album/201701/26/233116cgb81idnvtd8rd8h.png)
 
 
 在第一次执行 sudo 命令后，默认情况下密码将保持 15 分钟，因此你不需要为每个 sudo 命令键入密码。
@@ -46,7 +46,7 @@ Defaults        env_reset,timestamp_timeout=20
 下面的截图显示了我在 `/etc/sudoers` 文件中设置的默认参数。
 
 
-![Change sudo Password Timeout](/Asserts/Images//attachment/album/201701/26/233131q5m775a3xw7t3onz.png)
+![Change sudo Password Timeout](/Asserts/Images/album/201701/26/233131q5m775a3xw7t3onz.png)
 
 
 *改变 sudo 密码超时*

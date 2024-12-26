@@ -7,7 +7,7 @@ tags:	[linuxcn,在线课程]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/14/125210k8g8xcg9lxg8ccmn.png)
+![](/Asserts/Images/album/201803/14/125210k8g8xcg9lxg8ccmn.png)
 
 
 六年前，一些大学如 MIT 和斯坦福首次向公共免费开放了他们的在线课程。现在，全世界超过 800 所学校已经创建了成千上万的免费课程。
@@ -16,7 +16,7 @@ tags:	[linuxcn,在线课程]
 我编制了一个有 440 多个免费在线课程的清单，你可以从这个月开始去学习它了。为了这个清单，我使用了[<ruby> 班级中心 <rt>  Class Central </rt></ruby>](https://www.class-central.com/) 的数据库，它有超过 9000 门课程，我也包括了每个课程的平均评分。
 
 
-![](/Asserts/Images//attachment/album/201803/14/125210wcbdhhvdvdjhh4um.png)
+![](/Asserts/Images/album/201803/14/125210wcbdhhvdvdjhh4um.png)
 
 
 *[班级中心](https://www.class-central.com/) 的主页*
@@ -33,7 +33,7 @@ tags:	[linuxcn,在线课程]
 对于首次出现的课程，我标记为 [NEW]。
 
 
-这些课程中的大多数都是可以自学的。其余的将在二月份的某个时间为你奉上。在班级中心的 2018 年 [计算机科学](https://www.class-central.com/subject/cs)、[数据科学](https://www.class-central.com/subject/Asserts/Images/-science)、和 [编程](https://www.class-central.com/subject/programming-and-software-development) 主题的页面上，你可以找到与这个技术相关的完整的清单。
+这些课程中的大多数都是可以自学的。其余的将在二月份的某个时间为你奉上。在班级中心的 2018 年 [计算机科学](https://www.class-central.com/subject/cs)、[数据科学](https://www.class-central.com/subject/data-science)、和 [编程](https://www.class-central.com/subject/programming-and-software-development) 主题的页面上，你可以找到与这个技术相关的完整的清单。
 
 
 我也知道，这个长长的清单，可能会让学习编程的新手望而却步。在这些课程中，你可以找到 [David Venturi](https://medium.com/@davidventuri) 推荐的非常有用的最佳 [数据科学在线课程](https://medium.freecodecamp.com/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)  —  即使你不想学习数据科学。以后，我想去创建更多的这种指南。

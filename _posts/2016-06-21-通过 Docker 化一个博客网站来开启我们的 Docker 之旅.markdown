@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,dockefile]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/08/101951fhgozt25myg5g5g9.jpg)
+![](/Asserts/Images/album/201606/08/101951fhgozt25myg5g5g9.jpg)
 
 
 

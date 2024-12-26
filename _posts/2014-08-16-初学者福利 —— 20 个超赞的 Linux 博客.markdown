@@ -7,7 +7,7 @@ tags:	[linuxcn,博客,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201408/07/171653c738nzvw720bh722.jpg)
+![](/Asserts/Images/album/201408/07/171653c738nzvw720bh722.jpg)
 
 
 你是刚刚开启 Linux 开源世界奇幻旅程的新人还是寻求灵感的老鸟？不论你是谁，博客都能给你提供一站式服务，满足你的所有需要。博客是一种言辞简洁格式清晰的信息来源，这些信息都源于现实世界里像你我一样乐于帮助他人掌握知识的人。

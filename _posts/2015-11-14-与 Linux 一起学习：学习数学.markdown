@@ -7,7 +7,7 @@ tags:	[linuxcn,数学,gnuplot,maxima]
 ---
 
 
-![](/Asserts/Images//attachment/album/201511/07/003153s5q188d2l8zisi4d.png)
+![](/Asserts/Images/album/201511/07/003153s5q188d2l8zisi4d.png)
 
 
 “与 Linux 一起学习”的所有文章：
@@ -53,7 +53,7 @@ gnuplot
 你会看到一个简单的命令行界面：
 
 
-![learnmath-gnuplot](/Asserts/Images//attachment/album/201511/07/003156r97hl7fwnfh33o3h.png)
+![learnmath-gnuplot](/Asserts/Images/album/201511/07/003156r97hl7fwnfh33o3h.png)
 
 
 在其中您可以直接输入函数开始。绘图命令将绘制一个曲线图。
@@ -71,7 +71,7 @@ plot sin(x)/x
 随着`gnuplot的`提示，将会打开一个新的窗口，图像便会在里面呈现。
 
 
-![learnmath-gnuplot-plot1](/Asserts/Images//attachment/album/201511/07/003157e6sln6uflh5bi6db.png)
+![learnmath-gnuplot-plot1](/Asserts/Images/album/201511/07/003157e6sln6uflh5bi6db.png)
 
 
 你也可以即时设置设置这个图的不同属性，比如像这样指定“title”
@@ -83,7 +83,7 @@ plot sin(x) title 'Sine Function', tan(x) title 'Tangent'
 
 ```
 
-![learnmath-gnuplot-plot2](/Asserts/Images//attachment/album/201511/07/003159lruo3mu3uuvlzy20.png)
+![learnmath-gnuplot-plot2](/Asserts/Images/album/201511/07/003159lruo3mu3uuvlzy20.png)
 
 
 你可以做的更深入一点，使用`splot`命令绘制3D图形：
@@ -95,13 +95,13 @@ splot sin(x*y/20)
 
 ```
 
-![learnmath-gnuplot-plot3](/Asserts/Images//attachment/album/201511/07/003201zyi07ytzzog7iwdn.png)
+![learnmath-gnuplot-plot3](/Asserts/Images/album/201511/07/003201zyi07ytzzog7iwdn.png)
 
 
 这个图形窗口有几个基本的配置选项，
 
 
-![learnmath-gnuplot-options](/Asserts/Images//attachment/album/201511/07/003201hvxasx2ovkspbh3k.png)
+![learnmath-gnuplot-options](/Asserts/Images/album/201511/07/003201hvxasx2ovkspbh3k.png)
 
 
 但是`gnuplot`的真正力量在于在它的命令行和脚本功能，`gnuplot`更完整的文档在[Duke大学网站](http://people.duke.edu/%7Ehpgavin/gnuplot.html)上面[找到](http://www.gnuplot.info/documentation.html)，带有这个了不起的教程的原始版本。
@@ -133,7 +133,7 @@ sudo apt-get install maxima xmaxima wxmaxima
 在终端窗口中，Maxima 是一个没有什么 UI 的命令行工具，但如果你开始 wxmaxima，你会进入一个简单但功能强大的图形用户界面。
 
 
-![learnmath-maxima](/Asserts/Images//attachment/album/201511/07/003202nmi9cdcvli5martw.png)
+![learnmath-maxima](/Asserts/Images/album/201511/07/003202nmi9cdcvli5martw.png)
 
 
 你可以通过简单的输入来开始。（提示：回车会增加更多的行，如果你想计算一个表达式，使用“Shift + Enter”。）
@@ -142,25 +142,25 @@ sudo apt-get install maxima xmaxima wxmaxima
 Maxima 可以用于一些简单的问题，因此也可以作为一个计算器：
 
 
-![learnmath-maxima-1and1](/Asserts/Images//attachment/album/201511/07/003202luk45znpup7m7an4.png)
+![learnmath-maxima-1and1](/Asserts/Images/album/201511/07/003202luk45znpup7m7an4.png)
 
 
 以及一些更复杂的问题：
 
 
-![learnmath-maxima-functions](/Asserts/Images//attachment/album/201511/07/003204iud689j38733bd79.png)
+![learnmath-maxima-functions](/Asserts/Images/album/201511/07/003204iud689j38733bd79.png)
 
 
 它使用`gnuplot`使得绘制简单：
 
 
-![learnmath-maxima-plot](/Asserts/Images//attachment/album/201511/07/003205pez1fgersrassf9f.png)
+![learnmath-maxima-plot](/Asserts/Images/album/201511/07/003205pez1fgersrassf9f.png)
 
 
 或者绘制一些复杂的图形。
 
 
-![learnmath-maxima-plot2](/Asserts/Images//attachment/album/201511/07/003207v52y9nbysz9r69bq.png)
+![learnmath-maxima-plot2](/Asserts/Images/album/201511/07/003207v52y9nbysz9r69bq.png)
 
 
 （它需要 gnuplot-X11 的软件包来显示它们。）
@@ -169,7 +169,7 @@ Maxima 可以用于一些简单的问题，因此也可以作为一个计算器�
 除了将表达式表示为图形，Maxima 也可以用 latex 格式导出它们，或者通过右键快捷菜单进行一些常用操作.
 
 
-![learnmath-maxima-menu](/Asserts/Images//attachment/album/201511/07/003207d37ny4o64roabcsy.png)
+![learnmath-maxima-menu](/Asserts/Images/album/201511/07/003207d37ny4o64roabcsy.png)
 
 
 不过其主菜单还是提供了大量重磅功能，当然 Maxima 的功能远不止如此，这里也有一个广泛使用的[在线文档](http://maxima.sourceforge.net/documentation.html)。

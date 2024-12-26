@@ -7,7 +7,7 @@ tags:	[linuxcn,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/22/000206fnml4zlka4nz162e.jpg)
+![](/Asserts/Images/album/201908/22/000206fnml4zlka4nz162e.jpg)
 
 
 我们收到很多来自用户的电子邮件，要我们写一篇关于 GNOME 3 桌面自定义的文章，但是，我们没有时间来写这个主题。
@@ -43,7 +43,7 @@ tags:	[linuxcn,GNOME]
 你可以通过选择如下任一操作简单地退出活动概述，如选择一个窗口、应用程序或工作区间，或通过按 `Super` 键或 `Esc` 键。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001409nd0ccm0ll66l0wmu.jpg)
+![](/Asserts/Images/album/201908/22/001409nd0ccm0ll66l0wmu.jpg)
 
 
 *活动概述屏幕截图*
@@ -61,25 +61,25 @@ tags:	[linuxcn,GNOME]
 * `Super Key+作箭头`：来在填充半个屏幕的左侧窗口。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001447ux66066m4n3zihdb.jpg)
+![](/Asserts/Images/album/201908/22/001447ux66066m4n3zihdb.jpg)
 
 
 *使用 `Super Key+下箭头` 来取消最大化窗口。*
 
 
-![](/Asserts/Images//attachment/album/201908/22/001518env0ysj0incjjwyq.jpg)
+![](/Asserts/Images/album/201908/22/001518env0ysj0incjjwyq.jpg)
 
 
 *使用 `Super Key+上箭头` 来最大化窗口。*
 
 
-![](/Asserts/Images//attachment/album/201908/22/001546z9h9wc9bkzebbh1w.jpg)
+![](/Asserts/Images/album/201908/22/001546z9h9wc9bkzebbh1w.jpg)
 
 
 *使用 `Super Key+右箭头` 来在填充半个屏幕的右侧窗口。*
 
 
-![](/Asserts/Images//attachment/album/201908/22/001615lxmohczio4i8ri74.jpg)
+![](/Asserts/Images/album/201908/22/001615lxmohczio4i8ri74.jpg)
 
 
 *使用 `Super Key+左箭头` 来在填充半个屏幕的左侧窗口。*
@@ -88,7 +88,7 @@ tags:	[linuxcn,GNOME]
 这个功能将帮助你可以一次查看两个应用程序，又名，拆分屏幕。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001644ikcflivkgolaffil.jpg)
+![](/Asserts/Images/album/201908/22/001644ikcflivkgolaffil.jpg)
 
 
 ### 3) 如何在 GNOME 3 桌面中显示应用程序？
@@ -97,7 +97,7 @@ tags:	[linuxcn,GNOME]
 在 Dash 中，单击“显示应用程序网格”按钮来显示在你的系统上的所有已安装的应用程序。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001718q3zkeznx3r6zev31.jpg)
+![](/Asserts/Images/album/201908/22/001718q3zkeznx3r6zev31.jpg)
 
 
 ### 4) 如何在 GNOME 3 桌面中的 Dash 中添加应用程序？
@@ -109,13 +109,13 @@ tags:	[linuxcn,GNOME]
 它将允许你直接启动你的收藏夹中的应用程序，而不用先去搜索应用程序。为做到这样，在应用程序上简单地右击，并使用选项“添加到收藏夹”。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001749in9ij4ivyv9ltbbw.jpg)
+![](/Asserts/Images/album/201908/22/001749in9ij4ivyv9ltbbw.jpg)
 
 
 为从 Dash 中移除一个应用程序启动器（收藏的程序），要么从 Dash 中拖拽应用程序到网格按钮，或者在应用程序上简单地右击，并使用选项“从收藏夹中移除”。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001816ywud5fdgezguuhud.jpg)
+![](/Asserts/Images/album/201908/22/001816ywud5fdgezguuhud.jpg)
 
 
 ### 5) 如何在 GNOME 3 桌面中的工作区间之间切换？
@@ -131,7 +131,7 @@ tags:	[linuxcn,GNOME]
 * 使用 `Ctrl+Alt+Down` 切换到下一个工作区间。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001846qzs6hf3lql3f3il5.jpg)
+![](/Asserts/Images/album/201908/22/001846qzs6hf3lql3f3il5.jpg)
 
 
 ### 6) 如何在 GNOME 3 桌面中的应用程序之间切换 (应用程序切换器) ？
@@ -149,7 +149,7 @@ tags:	[linuxcn,GNOME]
 如果你想添加你的用户姓名到顶部面板，那么安装下面的[添加用户姓名到顶部面板](https://extensions.gnome.org/extension/1108/add-username-to-top-panel/) GNOME 扩展。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001917kh06mo1o1xf5r82o.jpg)
+![](/Asserts/Images/album/201908/22/001917kh06mo1o1xf5r82o.jpg)
 
 
 ### 8) 如何在 GNOME 3 桌面中添加微软 Bing 的桌面背景？
@@ -158,7 +158,7 @@ tags:	[linuxcn,GNOME]
 安装下面的 [Bing 桌面背景更换器](https://extensions.gnome.org/extension/1262/bing-wallpaper-changer/) GNOME shell 扩展，来每天更改你的桌面背景为微软 Bing 的桌面背景。
 
 
-![](/Asserts/Images//attachment/album/201908/22/001952ynqcqy33qtug3qjj.jpg)
+![](/Asserts/Images/album/201908/22/001952ynqcqy33qtug3qjj.jpg)
 
 
 ### 9) 如何在 GNOME 3 桌面中启用夜光？
@@ -173,13 +173,13 @@ tags:	[linuxcn,GNOME]
 为启用这个特色，导航到**系统设置** >> **设备** >> **显示** ，并打开夜光。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002019fq9am88n9rniiq3z.jpg)
+![](/Asserts/Images/album/201908/22/002019fq9am88n9rniiq3z.jpg)
 
 
 在它启用后，状态图标将被放置到顶部面板上。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002105hxjlanzpyx246jbg.jpg)
+![](/Asserts/Images/album/201908/22/002105hxjlanzpyx246jbg.jpg)
 
 
 ### 10) 如何在 GNOME 3 桌面中显示电池百分比？
@@ -191,13 +191,13 @@ tags:	[linuxcn,GNOME]
 启动 GNOME Tweaks >> **顶部栏** >> **电池百分比** ，并打开它。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002137at58669w8f335f3c.jpg)
+![](/Asserts/Images/album/201908/22/002137at58669w8f335f3c.jpg)
 
 
 在修改后，你能够在顶部面板上看到电池百分比图标。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002205w268a2aaj9mjjr6s.jpg)
+![](/Asserts/Images/album/201908/22/002205w268a2aaj9mjjr6s.jpg)
 
 
 ### 11) 如何在 GNOME 3 桌面中启用鼠标右键单击？
@@ -209,7 +209,7 @@ tags:	[linuxcn,GNOME]
 启动 GNOME Tweaks >> **键盘和鼠标** >> 鼠标点击硬件仿真，并选择“区域”选项。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002232d6nrwigu6ga8kfv9.jpg)
+![](/Asserts/Images/album/201908/22/002232d6nrwigu6ga8kfv9.jpg)
 
 
 ### 12) 如何在 GNOME 3 桌面中启用单击最小化？
@@ -237,7 +237,7 @@ $ gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode FIXED
 $ gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 50
 ```
 
-![](/Asserts/Images//attachment/album/201908/22/002304u56lejl66o51zem4.jpg)
+![](/Asserts/Images/album/201908/22/002304u56lejl66o51zem4.jpg)
 
 
 ### 14) 如何在 GNOME 3桌面中显示桌面？
@@ -249,7 +249,7 @@ $ gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 50
 设置 >> **设备** >> **键盘** >> 单击在导航下的 **隐藏所有普通窗口** ，然后按 `Super 键 + D` ，最后按`设置`按钮来启用它。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002333nwikriblnbg3g6pp.jpg)
+![](/Asserts/Images/album/201908/22/002333nwikriblnbg3g6pp.jpg)
 
 
 ### 15) 如何自定义日期和时间格式？
@@ -261,19 +261,19 @@ GNOME 3 默认用 `Sun 04:48` 的格式来显示日期和时间。它并不清�
 **对于日期修改:** 打开 GNOME Tweaks >> **顶部栏** ，并在时钟下启用“星期”选项。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002401vsvpv4upwzuh4kew.jpg)
+![](/Asserts/Images/album/201908/22/002401vsvpv4upwzuh4kew.jpg)
 
 
 **对于时间修改:** 设置 >> **具体情况** >> **日期和时间** ，然后，在时间格式中选择 `AM/PM` 选项。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002432ur0drde5fmfbep0e.jpg)
+![](/Asserts/Images/album/201908/22/002432ur0drde5fmfbep0e.jpg)
 
 
 在修改后，你能够看到与下面相同的日期和时间格式。
 
 
-![](/Asserts/Images//attachment/album/201908/22/002501nw1dyrd1xv2kptiw.jpg)
+![](/Asserts/Images/album/201908/22/002501nw1dyrd1xv2kptiw.jpg)
 
 
 ### 16) 如何在启动程序中永久地禁用不使用的服务？

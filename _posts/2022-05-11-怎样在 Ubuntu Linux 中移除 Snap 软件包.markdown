@@ -7,7 +7,7 @@ tags:	[linuxcn,Snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/09/103449pfqp2yp2rpzgp92l.jpg)
+![](/Asserts/Images/album/202205/09/103449pfqp2yp2rpzgp92l.jpg)
 
 
 
@@ -53,7 +53,7 @@ snap list
 
 ```
 
-![ Ubuntu Snap 包列表](/Asserts/Images//attachment/album/202205/09/103505ekf3sdd3nr3jrrrk.jpg)
+![ Ubuntu Snap 包列表](/Asserts/Images/album/202205/09/103505ekf3sdd3nr3jrrrk.jpg)
 
 
 2、按照以下的顺序移除 Snap 软件包。首先移除 Firefox。然后是软件商店，和用以上命令看到的你的系统中的其它软件包。
@@ -86,7 +86,7 @@ sudo apt remove --autoremove snapd
 
 ```
 
-![移除 Snap 包和其它](/Asserts/Images//attachment/album/202205/09/103505ep5kmw8bsb2f8k3g.jpg)
+![移除 Snap 包和其它](/Asserts/Images/album/202205/09/103505ep5kmw8bsb2f8k3g.jpg)
 
 
 这还没完，即使你用以上命令移除了 Snap 软件包，但是如果你没有关闭 apt 触发器，`sudo apt update` 命令会再一次将 Snap 安装回来。
@@ -112,7 +112,7 @@ Pin-Priority: -10
 
 ```
 
-![创建设置文件](/Asserts/Images//attachment/album/202205/09/103505s4p04s4lnz4474p4.jpg)
+![创建设置文件](/Asserts/Images/album/202205/09/103505s4p04s4lnz4474p4.jpg)
 
 
 如果你知道如何使用它，那么这个 apt 设置文件是一个潜在的工具。举个例子，在以上的状态中，`Pin-Priority -10` 意思就是阻止 Snap 软件包的安装。
@@ -167,10 +167,10 @@ sudo apt install -t 'o=LP-PPA-mozillateam' firefox
 
 ```
 
-![添加 PPA 仓库](/Asserts/Images//attachment/album/202205/09/103505nyo1ommpukmddmlp.jpg)
+![添加 PPA 仓库](/Asserts/Images/album/202205/09/103505nyo1ommpukmddmlp.jpg)
 
 
-![从 PPA 仓库以 deb 文件形式安装 Firefox](/Asserts/Images//attachment/album/202205/09/103506x8fg88zddc2i8a8b.jpg)
+![从 PPA 仓库以 deb 文件形式安装 Firefox](/Asserts/Images/album/202205/09/103506x8fg88zddc2i8a8b.jpg)
 
 
 一旦你已经安装完 Firefox，使用以下命令开启自动更新。要了解更多，[访问此页](https://www.debugpoint.com/2021/09/remove-firefox-snap-ubuntu/)。

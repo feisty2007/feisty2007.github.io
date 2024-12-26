@@ -15,7 +15,7 @@ Ubuntu拥有漂亮的桌面体验以及强大的应用程序。Xubuntu轻量、�
 ---
 
 
-![](/Asserts/Images//attachment/album/201503/21/174426lfupn0u37hig4ggn.png)
+![](/Asserts/Images/album/201503/21/174426lfupn0u37hig4ggn.png)
 
 
 首先，这篇文章不是用来说明Ubuntu比Xubuntu更好或者Xubuntu比Ubuntu更好之类的东西。
@@ -81,7 +81,7 @@ Xubuntu就像一个改装过的跑车。你可以把它改装成任何你想要�
 ### 如何在Ubuntu安装XFCE桌面环境
 
 
-![默认的XFCE桌面](/Asserts/Images//attachment/album/201503/20/222605laq3ofqx8hox79b9.png)
+![默认的XFCE桌面](/Asserts/Images/album/201503/20/222605laq3ofqx8hox79b9.png)
 
 
 接下来，我会使用命令行工具[apt-get](http://linux.about.com/od/ubusrv_doc/a/ubusg11t01.htm)介绍在Ubuntu安装XFCE桌面的方法。
@@ -119,7 +119,7 @@ sudo apt-get update sudo apt-get install xfce4
 ### 不重新安装的情况下，如何从Ubuntu切换到Xubuntu
 
 
-![从Ubuntu切换到Xubuntu](/Asserts/Images//attachment/album/201503/20/222609dtbk3g839rtdd9tk.png)
+![从Ubuntu切换到Xubuntu](/Asserts/Images/album/201503/20/222609dtbk3g839rtdd9tk.png)
 
 
 如果你想全都使用Xubuntu的东西，但是又不想按照那些介绍重新安装系统的话，看看下面的东西。

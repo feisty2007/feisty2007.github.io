@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE,Plasma]
 ---
 
 
-![](/Asserts/Images//attachment/album/201508/27/094945in0sztjgsuas35g2.jpg)
+![](/Asserts/Images/album/201508/27/094945in0sztjgsuas35g2.jpg)
 
 
 2015 年 8 月 25 ，星期二，KDE 发布了 Plasma 5 的一个特色新版本。
@@ -19,7 +19,7 @@ tags:	[linuxcn,KDE,Plasma]
 ### 新的音频音量程序
 
 
-![The new Audio Volume Applet](/Asserts/Images//attachment/album/201508/26/223149dittkwdxca7iasko.png)
+![The new Audio Volume Applet](/Asserts/Images/album/201508/26/223149dittkwdxca7iasko.png)
 
 
 新的音频音量程序直接工作于 PulseAudio (Linux 上一个非常流行的音频服务) 之上 ，并且在一个漂亮的简约的界面提供一个完整的音量控制和输出设定。
@@ -28,7 +28,7 @@ tags:	[linuxcn,KDE,Plasma]
 ### 替代的应用控制面板起动器
 
 
-![he new Dashboard alternative launcher](/Asserts/Images//attachment/album/201508/26/223150o8gijkioi3xx1t63.png)
+![he new Dashboard alternative launcher](/Asserts/Images/album/201508/26/223150o8gijkioi3xx1t63.png)
 
 
 Plasma 5.4 在 kdeplasma-addons 软件包中提供了一个全新的全屏的应用控制面板，它具有应用菜单的所有功能，还支持缩放和全空间键盘导航。新的起动器可以像你目前所用的“最近使用的”或“收藏的文档和联系人”一样简单和快速地查找应用。
@@ -37,7 +37,7 @@ Plasma 5.4 在 kdeplasma-addons 软件包中提供了一个全新的全屏的应
 ### 丰富的艺术图标
 
 
-![](/Asserts/Images//attachment/album/201508/26/222829loqjwoc9wmmmtpdp.png)
+![](/Asserts/Images/album/201508/26/222829loqjwoc9wmmmtpdp.png)
 
 
 Plasma 5.4 提供了超过 1400 个的新图标，其中不仅包含 KDE 程序的，而且还为 Inkscape， Firefox 和 Libreoffice 提供 Breeze 主题的艺术图标，可以体验到更加一致和本地化的感觉。
@@ -46,7 +46,7 @@ Plasma 5.4 提供了超过 1400 个的新图标，其中不仅包含 KDE 程序�
 ### KRunner 历史记录
 
 
-![KRunner](/Asserts/Images//attachment/album/201508/26/223152t3in3235ca7v9366.png)
+![KRunner](/Asserts/Images/album/201508/26/223152t3in3235ca7v9366.png)
 
 
 KRunner 现在可以记住之前的搜索历史并根据历史记录进行自动补全。
@@ -55,7 +55,7 @@ KRunner 现在可以记住之前的搜索历史并根据历史记录进行自动
 ### Network 程序中实用的图形展示
 
 
-![Network Graphs](/Asserts/Images//attachment/album/201508/26/223152z47qp0m99chnyqpy.png)
+![Network Graphs](/Asserts/Images/album/201508/26/223152z47qp0m99chnyqpy.png)
 
 
 Network 程序现在可以以图形形式显示网络流量了，同时也支持两个新的 VPN 插件：通过 SSH 连接或通过 SSTP 连接。

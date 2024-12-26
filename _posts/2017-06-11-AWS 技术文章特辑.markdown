@@ -7,7 +7,7 @@ tags:	[linuxcn,AWS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/28/214618tsjmjpts2s699p2s.jpg)
+![](/Asserts/Images/album/201706/28/214618tsjmjpts2s699p2s.jpg)
 
 
 AWS 作为全球首屈一指的云服务商，无论是在服务上，还是在技术上，均引领了云技术方面的发展。在 AWS 上，有很多前沿技术的应用，我们特地收集整理了一些 AWS 技术方面的精华文章，分享给您。
@@ -124,10 +124,10 @@ AWS 作为全球首屈一指的云服务商，无论是在服务上，还是在�
 现在有机会了！ 
 
 
-![](/Asserts/Images//attachment/album/201706/28/213949dbkvbmtyssbaaake.jpg)
+![](/Asserts/Images/album/201706/28/213949dbkvbmtyssbaaake.jpg)
 
 
-![](/Asserts/Images//attachment/album/201706/28/214009ynrds94ffnvdaraq.jpg)
+![](/Asserts/Images/album/201706/28/214009ynrds94ffnvdaraq.jpg)
 
 
  

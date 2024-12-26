@@ -7,10 +7,10 @@ tags:	[linuxcn,LSB,目录,Linux,Enlightenment]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/25/210245irtm4rjrggajgt09.jpg)
+![](/Asserts/Images/album/202312/25/210245irtm4rjrggajgt09.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/25/210257t9z7k6g9g4z5n77g.png)
+![](/Asserts/Images/album/202312/25/210257t9z7k6g9g4z5n77g.png)
 
 
 ### #1 Fedora 40 计划统一 /usr/bin 和 /usr/sbin
@@ -38,7 +38,7 @@ Fedora 开发者提议在 Fedora 40 中统一 `/usr/bin` 和 `/usr/sbin`。这�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/25/210317l5p55915tq921tq5.png)
+![](/Asserts/Images/album/202312/25/210317l5p55915tq921tq5.png)
 
 
 ### #2 Linus Torvalds 给内核开发者们放了年终假期
@@ -66,7 +66,7 @@ Fedora 开发者提议在 Fedora 40 中统一 `/usr/bin` 和 `/usr/sbin`。这�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/25/210331i5mictrz5f6zhtm6.png)
+![](/Asserts/Images/album/202312/25/210331i5mictrz5f6zhtm6.png)
 
 
 ### #3 时隔两年，Enlightenment 0.26 发布

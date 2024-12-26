@@ -7,7 +7,7 @@ tags:	[linuxcn,stow,编译,源代码,安装]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/22/004447wj4b8s5s96kvu660.jpg)
+![](/Asserts/Images/album/201803/22/004447wj4b8s5s96kvu660.jpg)
 
 
 ### 目的

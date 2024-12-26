@@ -15,7 +15,7 @@ tags:	[linuxcn,容器,镜像,Docker]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/08/152733c9i69xsssa62b6rr.jpg "Shipping containers stacked")
+![](/Asserts/Images/album/202109/08/152733c9i69xsssa62b6rr.jpg "Shipping containers stacked")
 
 
 容器是当今 IT 运维的一个关键部分。<ruby> 容器镜像 <rt>  container image </rt></ruby>包含了一个打包的应用，以及它的依赖关系，还有它在启动时运行的进程信息。
@@ -70,7 +70,7 @@ CMD php-fpm & httpd -D FOREGROUND
 这里的想法是，如果你有多个镜像有一些相同的数据，不是让这些数据再次复制过来，而是通过使用一个叫做<ruby> 层 <rt>  layer </rt></ruby>的东西来共享。
 
 
-![UnionFS](/Asserts/Images//attachment/album/202109/08/152744o5se88jz5j3srb4p.png "UnionFS")
+![UnionFS](/Asserts/Images/album/202109/08/152744o5se88jz5j3srb4p.png "UnionFS")
 
 
 每一层都是一个可以在多个容器中共享的文件系统，例如，httpd 基础层是 Apache 的官方镜像，可以在任何数量的容器中使用。想象一下，由于我们在所有的容器中使用相同的基础层，我们节省了多少磁盘空间。
@@ -106,7 +106,7 @@ Docker 对镜像和容器都使用了写时复制的机制。为了做到这一�
 最低的目录或镜像层被称为<ruby> 下层目录 <rt>  lowerdir </rt></ruby>，上面的目录被称为 <ruby> 上层目录 <rt>  upperdir </rt></ruby>。最后的覆盖层或统一层被称为<ruby> 合并层 <rt>  merged </rt></ruby>。
 
 
-![Layered file system](/Asserts/Images//attachment/album/202109/08/152744f7zx2iu792z91qs9.jpg "Layered file system")
+![Layered file system](/Asserts/Images/album/202109/08/152744f7zx2iu792z91qs9.jpg "Layered file system")
 
 
 常见的术语包括这些层的定义：

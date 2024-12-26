@@ -45,7 +45,7 @@ tags:	[linuxcn,终端]
 ### eDEX-UI 的特点
 
 
-![](/Asserts/Images//attachment/album/202009/26/220922te48fl4eodv820ny.png)
+![](/Asserts/Images/album/202009/26/220922te48fl4eodv820ny.png)
 
 
 eDEX-UI 本质上是一个终端仿真器。你可以像普通终端一样使用它来运行命令和其他任何你可以在终端中做的事情。
@@ -76,7 +76,7 @@ eDEX-UI 的特点：
 ### 在 Linux 上安装 eDEX
 
 
-![](/Asserts/Images//attachment/album/202009/26/220933q7qmtm07o0l66172.png)
+![](/Asserts/Images/album/202009/26/220933q7qmtm07o0l66172.png)
 
 
 如前所述，它支持所有主要平台，包括 Windows、macOS，当然还有 Linux。

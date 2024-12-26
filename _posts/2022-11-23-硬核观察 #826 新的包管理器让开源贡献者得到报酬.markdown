@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,GIMP,闰秒]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/20/154734vjrqp7fzt7zttdd5.jpg)
+![](/Asserts/Images/album/202211/20/154734vjrqp7fzt7zttdd5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/20/154749k77ng2g2lrl9d2ng.jpg)
+![](/Asserts/Images/album/202211/20/154749k77ng2g2lrl9d2ng.jpg)
 
 
 ### 新的包管理器让开源贡献者得到报酬
@@ -35,7 +35,7 @@ MacOS 包管理器 Homebrew 的创建者新开发了一个名为 Tea 的包管�
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/20/154802z2278sdc00icspr9.jpg)
+![](/Asserts/Images/album/202211/20/154802z2278sdc00icspr9.jpg)
 
 
 ### 协调世界时将停止添加“闰秒”
@@ -60,7 +60,7 @@ MacOS 包管理器 Homebrew 的创建者新开发了一个名为 Tea 的包管�
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/20/154809a49gfzo3f9dq4z4i.jpg)
+![](/Asserts/Images/album/202211/20/154809a49gfzo3f9dq4z4i.jpg)
 
 
 ### GIMP 2.99.14 发布

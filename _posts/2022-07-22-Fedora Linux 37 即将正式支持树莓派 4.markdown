@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派,Fedora]
 > 
 
 
-![Fedora raspberry pi](/Asserts/Images//attachment/album/202207/08/230308knnpuuhnkbwuakbh.jpg)
+![Fedora raspberry pi](/Asserts/Images/album/202207/08/230308knnpuuhnkbwuakbh.jpg)
 
 
 Fedora Linux 的工作站版很适合台式机使用。不过，如果你想让它用于服务器或物联网需求，可以使用 Fedora ARM 项目。

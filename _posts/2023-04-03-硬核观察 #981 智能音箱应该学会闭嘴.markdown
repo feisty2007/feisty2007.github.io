@@ -7,10 +7,10 @@ tags:	[linuxcn,智能音箱,ARM,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/24/175131o70fcx0t6677l6l3.jpg)
+![](/Asserts/Images/album/202304/24/175131o70fcx0t6677l6l3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/24/175141ff4akdmwmjpzotwf.jpg)
+![](/Asserts/Images/album/202304/24/175141ff4akdmwmjpzotwf.jpg)
 
 
 ### 智能音箱应该学会闭嘴
@@ -35,7 +35,7 @@ tags:	[linuxcn,智能音箱,ARM,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/24/175207ti9s4yz164g8vf36.jpg)
+![](/Asserts/Images/album/202304/24/175207ti9s4yz164g8vf36.jpg)
 
 
 ### ARM 将自己制造芯片
@@ -60,7 +60,7 @@ ARM 此前和三星和台积电等公司合作制造过测试芯片，主要是�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/24/175233hy3a08s72saex3sa.jpg)
+![](/Asserts/Images/album/202304/24/175233hy3a08s72saex3sa.jpg)
 
 
 ### PyPI 将推出收费的组织账户

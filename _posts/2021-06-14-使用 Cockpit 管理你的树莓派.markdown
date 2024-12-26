@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派,Cockpit]
 > 
 
 
-![](/Asserts/Images//attachment/album/202106/15/144053hmswm01w6qus011n.jpg "Neon colorized Raspberry Pi cluster with LEGOs")
+![](/Asserts/Images/album/202106/15/144053hmswm01w6qus011n.jpg "Neon colorized Raspberry Pi cluster with LEGOs")
 
 
 去年，我写了关于使用 [Cockpit 管理我的 Linux 服务器的文章](https://opensource.com/article/20/11/cockpit-server-management)。它是一个基于 Web 的工具，为管理多个服务器及其相关的服务和应用提供了一个简洁、强大的界面。它还简化了日常的管理任务。
@@ -86,7 +86,7 @@ $ systemctl status cockpit.socket
 默认的监听端口号是 9090。打开你最喜欢的 Web 浏览器并输入地址，例如： `https://pibox:9090`。
 
 
-![Cockpit home page](/Asserts/Images//attachment/album/202106/15/144101fc5jx2jjbx9b1j11.png "Cockpit home page")
+![Cockpit home page](/Asserts/Images/album/202106/15/144101fc5jx2jjbx9b1j11.png "Cockpit home page")
 
 
 你现在可以使用你的普通账户登录。同样，这个账户上需要有使用 `sudo` 的权限 —— 很可能就是你用来 SSH 和运行 Apt 的那个账户。一定要勾选“为特权任务重用我的密码”。
@@ -98,13 +98,13 @@ $ systemctl status cockpit.socket
 Cockpit 的初始屏幕以 “System” 页开始，提供当前 CPU 和内存使用的详细信息和图表。
 
 
-![Initial Cockpit screen](/Asserts/Images//attachment/album/202106/15/144102ii3033f3i7ffi45t.png "Initial Cockpit screen")
+![Initial Cockpit screen](/Asserts/Images/album/202106/15/144102ii3033f3i7ffi45t.png "Initial Cockpit screen")
 
 
 你可以从这个屏幕看到硬件细节。
 
 
-![Cockpit hardware details](/Asserts/Images//attachment/album/202106/15/144102vb260wm11uhgm81t.png "Cockpit hardware details")
+![Cockpit hardware details](/Asserts/Images/album/202106/15/144102vb260wm11uhgm81t.png "Cockpit hardware details")
 
 
 通过点击每一项来展开左边的列（例如，日志、存储、服务等）。这些是标准的 Cockpit 部分，不言自明。让我快速描述一下每个部分。
@@ -152,7 +152,7 @@ Cockpit 的初始屏幕以 “System” 页开始，提供当前 CPU 和内存�
 对任何系统管理员来说，保持软件最新是最重要的任务之一。Cockpit 的软件更新部分可以检查并进行更新。
 
 
-![Software updates in Cockpit](/Asserts/Images//attachment/album/202106/15/144102acghys7s9cg5sgus.png "Software updates in Cockpit")
+![Software updates in Cockpit](/Asserts/Images/album/202106/15/144102acghys7s9cg5sgus.png "Software updates in Cockpit")
 
 
 #### 终端
@@ -170,7 +170,7 @@ $ sudo apt install screenfetch
 使用 ScreenFetch 生成了这张截图：
 
 
-![Terminal in Cockpit](/Asserts/Images//attachment/album/202106/15/144103ctlpg2pwpzpwtwx2.png "Terminal in Cockpit")
+![Terminal in Cockpit](/Asserts/Images/album/202106/15/144103ctlpg2pwpzpwtwx2.png "Terminal in Cockpit")
 
 
 ### 使用 Cockpit 的中心控制

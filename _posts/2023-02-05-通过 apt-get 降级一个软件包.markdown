@@ -7,7 +7,7 @@ tags:	[linuxcn,apt]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/27/115623ifb79v4pi4v0z991.jpg)
+![](/Asserts/Images/album/202302/27/115623ifb79v4pi4v0z991.jpg)
 
 
 最近升级的软件引起问题了？虽然你总是可以调查问题以解决它，但有时，回到以前的工作版本可以节省时间和精力。如果新的版本引入了一个 bug，你可以在你这一边什么都不做，对吗？
@@ -52,7 +52,7 @@ sudo apt-cache policy package_name
 检查当前安装的软件包版本：
 
 
-![Installed Docker version](/Asserts/Images//attachment/album/202302/27/115747jgl19x9lgjm9rag9.png)
+![Installed Docker version](/Asserts/Images/album/202302/27/115747jgl19x9lgjm9rag9.png)
 
 
 然后检查可以安装的可用版本：
@@ -67,7 +67,7 @@ sudo apt-cache policy package_name
 它可能会抛出一个巨大的列表，或者只是一个小列表：
 
 
-![All installable versions of an apt package](/Asserts/Images//attachment/album/202302/27/115758lh8xqifhv3bna8wk.png)
+![All installable versions of an apt package](/Asserts/Images/album/202302/27/115758lh8xqifhv3bna8wk.png)
 
 
 如果它显示至少有一个比当前版本更早的版本，你就很幸运了。
@@ -107,13 +107,13 @@ sudo apt install package_name=package-version-number
 
 ```
 
-![Downgrading an installed package via apt-get command](/Asserts/Images//attachment/album/202302/27/115808f5d0k55ry9dlr0b5.png)
+![Downgrading an installed package via apt-get command](/Asserts/Images/album/202302/27/115808f5d0k55ry9dlr0b5.png)
 
 
 当然，你会看到一个关于降级软件包的警告。
 
 
-![Downgrading apt package](/Asserts/Images//attachment/album/202302/27/115817t8qm6hf2nqs9u5uu.png)
+![Downgrading apt package](/Asserts/Images/album/202302/27/115817t8qm6hf2nqs9u5uu.png)
 
 
 但是当这个过程完成，你的软件包就会被降级到给定的旧版本。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/11/094832bkkbs7oxntx7zxas.jpg)
+![](/Asserts/Images/album/202306/11/094832bkkbs7oxntx7zxas.jpg)
 
 
 在 [上一篇文章](/article-15855-1.html) 中，你学习了函数。在这篇文章中，我们将学习使用条件语句来管理 Rust 程序的控制流。

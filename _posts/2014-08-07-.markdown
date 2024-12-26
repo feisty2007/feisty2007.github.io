@@ -10,9 +10,9 @@ tags:	[linuxcn,]
 fromurl: http://www.tecmint.com/mysql-advance-interview-questions/
 id: 3618
 islctt: true
-largepic: /Asserts/Images//attachment/album/201408/15/152534bppsppsgssii0g0a.jpeg
+largepic: /Asserts/Images/album/201408/15/152534bppsppsgssii0g0a.jpeg
 permalink: /article-3618-1.html
-pic: /Asserts/Images//attachment/album/201408/15/152534bppsppsgssii0g0a.jpeg.thumb.jpg
+pic: /Asserts/Images/album/201408/15/152534bppsppsgssii0g0a.jpeg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -38,7 +38,7 @@ updated: '2014-08-15 15:25:00'
 * [给中级人员的10个MySQL面试问题](http://www.tecmint.com/basic-mysql-interview-questions-for-database-administrators/)
 
 
-![11个MySQL面试问题](/Asserts/Images//attachment/album/201408/15/152534bppsppsgssii0g0a.jpeg)
+![11个MySQL面试问题](/Asserts/Images/album/201408/15/152534bppsppsgssii0g0a.jpeg)
 
 
 因为有大家的支持，我们才能做到现在，感谢你们这一路上对我们的支持.在这篇文章中，我们将主要针对MySQL的实用技巧，讲讲面试中相关的问题.

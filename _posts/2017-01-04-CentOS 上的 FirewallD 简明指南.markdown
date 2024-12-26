@@ -7,7 +7,7 @@ tags:	[linuxcn,安全,防火墙,UFW,FirewallD]
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/06/211008tqx6x9jqqm2m4q4q.jpg)
+![](/Asserts/Images/album/201701/06/211008tqx6x9jqqm2m4q4q.jpg)
 
 
 [FirewallD](http://www.firewalld.org/) 是 iptables 的前端控制器，用于实现持久的网络流量规则。它提供命令行和图形界面，在大多数 Linux 发行版的仓库中都有。与直接控制 iptables 相比，使用 FirewallD 有两个主要区别：

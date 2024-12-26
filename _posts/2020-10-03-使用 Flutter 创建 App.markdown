@@ -15,7 +15,7 @@ tags:	[linuxcn,Flutter]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/07/112953m9g419z1gc2i07z1.jpg)
+![](/Asserts/Images/album/202010/07/112953m9g419z1gc2i07z1.jpg)
 
 
 [Flutter](https://flutter.dev/) 是一个深受全球移动开发者欢迎的项目。该框架有一个庞大的、友好的爱好者社区，随着 Flutter 帮助程序员将他们的项目带入移动领域，这个社区还在继续增长。
@@ -78,7 +78,7 @@ Downloading https://storage.googleapis.com/flutter_infra[...]
 下载完成后，你会看到一条消息，告诉你 Flutter 已初始化：
 
 
-![Flutter initialized](/Asserts/Images//attachment/album/202010/07/113033buro05mmgpx31pli.png "Flutter initialized")
+![Flutter initialized](/Asserts/Images/album/202010/07/113033buro05mmgpx31pli.png "Flutter initialized")
 
 
 #### 手动安装
@@ -87,7 +87,7 @@ Downloading https://storage.googleapis.com/flutter_infra[...]
 如果你没有安装 Snapd，或者你的发行版不是 Ubuntu，那么安装过程会略有不同。在这种情况下，请[下载](https://flutter.dev/docs/get-started/install/linux) 为你的操作系统推荐的 Flutter 版本。
 
 
-![Install Flutter manually](/Asserts/Images//attachment/album/202010/07/113035vxlrztqrbeeb6vrq.png "Install Flutter manually")
+![Install Flutter manually](/Asserts/Images/album/202010/07/113035vxlrztqrbeeb6vrq.png "Install Flutter manually")
 
 
 然后将其解压缩到你的主目录。
@@ -144,7 +144,7 @@ flutter doctor -v
 你将看到有关已安装组件的信息。 如果看到错误，请不要担心。 你尚未安装任何用于 Flutter SDK 的 IDE 插件。
 
 
-![Checking Flutter installation with the doctor command](/Asserts/Images//attachment/album/202010/07/113045ahz7g2871sclnq19.png "Checking Flutter installation with the doctor command")
+![Checking Flutter installation with the doctor command](/Asserts/Images/album/202010/07/113045ahz7g2871sclnq19.png "Checking Flutter installation with the doctor command")
 
 
 ### 安装 IDE 插件
@@ -159,7 +159,7 @@ Flutter 开发中常用的三个主要 IDE 工具是 IntelliJ IDEA（社区版�
 首先，启动 Android Studio。打开 “Settings”，进入 “Plugins” 窗格，选择 “Marketplace” 选项卡。在搜索行中输入 “Flutter”，然后单击 “Install”。
 
 
-![Flutter plugins](/Asserts/Images//attachment/album/202010/07/113052ae9lfiz1p1lt91f1.png "Flutter plugins")
+![Flutter plugins](/Asserts/Images/album/202010/07/113052ae9lfiz1p1lt91f1.png "Flutter plugins")
 
 
 你可能会看到一个安装 “Dart” 插件的选项；同意它。如果看不到 Dart 选项，请通过重复上述步骤手动安装它。我还建议使用 “Rainbow Brackets” 插件，它可以让代码导航更简单。
@@ -174,7 +174,7 @@ flutter doctor -v
 
 ```
 
-![Checking Flutter plugins with the doctor command](/Asserts/Images//attachment/album/202010/07/113059ewogoy5m3s6myfcy.png "Checking Flutter plugins with the doctor command")
+![Checking Flutter plugins with the doctor command](/Asserts/Images/album/202010/07/113059ewogoy5m3s6myfcy.png "Checking Flutter plugins with the doctor command")
 
 
 ### 构建你的 “Hello World” 应用程序
@@ -186,7 +186,7 @@ flutter doctor -v
 1、选择 “New -> New Flutter project”。
 
 
-![Creating a new Flutter plugin](/Asserts/Images//attachment/album/202010/07/113105skuskhonnfswdwum.png "Creating a new Flutter plugin")
+![Creating a new Flutter plugin](/Asserts/Images/album/202010/07/113105skuskhonnfswdwum.png "Creating a new Flutter plugin")
 
 
 2、在窗口中，选择所需的项目类型。 在这种情况下，你需要选择 “Flutter Application”。
@@ -195,7 +195,7 @@ flutter doctor -v
 3、命名你的项目为 `hello_world`。 请注意，你应该使用合并的名称，因此请使用下划线而不是空格。 你可能还需要指定 SDK 的路径。
 
 
-![Naming a new Flutter plugin](/Asserts/Images//attachment/album/202010/07/113110zmznu7797ke4b9d7.png "Naming a new Flutter plugin")
+![Naming a new Flutter plugin](/Asserts/Images/album/202010/07/113110zmznu7797ke4b9d7.png "Naming a new Flutter plugin")
 
 
 4、输入软件包名称。
@@ -204,13 +204,13 @@ flutter doctor -v
 你已经创建了一个项目！现在，你可以在设备上或使用模拟器启动它。
 
 
-![Device options in Flutter](/Asserts/Images//attachment/album/202010/07/113111tcq5wvlawja4gohc.png "Device options in Flutter")
+![Device options in Flutter](/Asserts/Images/album/202010/07/113111tcq5wvlawja4gohc.png "Device options in Flutter")
 
 
 选择你想要的设备，然后按 “Run”。稍后，你将看到结果。
 
 
-![Flutter demo on mobile device](/Asserts/Images//attachment/album/202010/07/113114w8snzpoliw82yjjv.png "Flutter demo on mobile device")
+![Flutter demo on mobile device](/Asserts/Images/album/202010/07/113114w8snzpoliw82yjjv.png "Flutter demo on mobile device")
 
 
 现在你可以在一个 [中间项目](https://opensource.com/article/18/6/flutter) 上开始工作了。
@@ -231,7 +231,7 @@ flutter channel beta
 
 ```
 
-![flutter channel beta output](/Asserts/Images//attachment/album/202010/07/113121o2875zjzeaqavz8v.png "flutter channel beta output")
+![flutter channel beta output](/Asserts/Images/album/202010/07/113121o2875zjzeaqavz8v.png "flutter channel beta output")
 
 
 接下来，使用以下命令根据 beta 分支升级 Flutter：
@@ -243,7 +243,7 @@ flutter upgrade
 
 ```
 
-![flutter upgrade output](/Asserts/Images//attachment/album/202010/07/113125xtj1renrtrrf7f71.png "flutter upgrade output")
+![flutter upgrade output](/Asserts/Images/album/202010/07/113125xtj1renrtrrf7f71.png "flutter upgrade output")
 
 
 要使 “Flutter for web” 工作，请输入：
@@ -258,7 +258,7 @@ flutter config --enable-web
 重新启动 IDE；这有助于 Android Studio 索引新的 IDE 并重新加载设备列表。你应该会看到几个新设备：
 
 
-![Flutter for web device options](/Asserts/Images//attachment/album/202010/07/113126qpqszauvfv4xppv1.png "Flutter for web device options")
+![Flutter for web device options](/Asserts/Images/album/202010/07/113126qpqszauvfv4xppv1.png "Flutter for web device options")
 
 
 选择 “Chrome” 会在浏览器中启动一个应用程序， “Web Server” 会提供指向你的 Web 应用程序的链接，你可以在任何浏览器中打开它。
@@ -279,13 +279,13 @@ flutter create
 请注意，目录树已更改，现在有了一个 `web` 目录：
 
 
-![File tree with web directory](/Asserts/Images//attachment/album/202010/07/113128e15oa4efh2e2fvd3.png "File tree with web directory")
+![File tree with web directory](/Asserts/Images/album/202010/07/113128e15oa4efh2e2fvd3.png "File tree with web directory")
 
 
 现在你可以开始工作了。 选择 “Chrome”，然后按 “Run”。 稍后，你会看到带有应用程序的浏览器窗口。
 
 
-![Flutter web app demo](/Asserts/Images//attachment/album/202010/07/113129muv1mvulg7dugn8u.png "Flutter web app demo")
+![Flutter web app demo](/Asserts/Images/album/202010/07/113129muv1mvulg7dugn8u.png "Flutter web app demo")
 
 
 恭喜你！ 你刚刚为浏览器启动了一个项目，并且可以像其他任何网站一样继续使用它。

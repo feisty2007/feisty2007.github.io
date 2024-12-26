@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,超算,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/12/174522hux0jx99auvx0vha.jpg)
+![](/Asserts/Images/album/202312/12/174522hux0jx99auvx0vha.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/12/174531ftaxcq3xdk5q39ri.png)
+![](/Asserts/Images/album/202312/12/174531ftaxcq3xdk5q39ri.png)
 
 
 ### #1 Linux 内核直呼 666~
@@ -38,7 +38,7 @@ Linux 6.6.6 版本发布了，这个版本只是处理了另一个令人头疼�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/12/174549g9rb78pyp3bezorb.png)
+![](/Asserts/Images/album/202312/12/174549g9rb78pyp3bezorb.png)
 
 
 ### #2 中国发布新一代超算“天河星逸”
@@ -66,7 +66,7 @@ Linux 6.6.6 版本发布了，这个版本只是处理了另一个令人头疼�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/12/174609n2gpr9tto66o7n9y.png)
+![](/Asserts/Images/album/202312/12/174609n2gpr9tto66o7n9y.png)
 
 
 ### #3 英伟达今年投资了二十多家人工智能公司

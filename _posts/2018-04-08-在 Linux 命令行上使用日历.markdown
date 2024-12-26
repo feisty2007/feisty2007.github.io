@@ -15,7 +15,7 @@ tags:	[linuxcn,日历]
 > 
 
 
-![](/Asserts/Images//attachment/album/201804/25/101504x3na3h77h26aghhi.jpg)
+![](/Asserts/Images/album/201804/25/101504x3na3h77h26aghhi.jpg)
 
 
 Linux 系统可以为你的日程安排提供更多帮助，而不仅仅是提醒你今天是星期几。日历显示有很多选项 —— 有些可能很有帮助，有些可能会让你大开眼界。

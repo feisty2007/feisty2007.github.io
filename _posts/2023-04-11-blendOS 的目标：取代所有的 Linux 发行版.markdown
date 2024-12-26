@@ -15,7 +15,7 @@ tags:	[linuxcn,发行版,blendOS]
 > 
 
 
-![blend os](/Asserts/Images//attachment/album/202304/02/095827gt7h2q17qb6thtb0.png)
+![blend os](/Asserts/Images/album/202304/02/095827gt7h2q17qb6thtb0.png)
 
 
 听起来太牵强了？
@@ -36,7 +36,7 @@ blendOS 是 Rudra Saraswat 的一个新项目，他以基于 Ubuntu 的合成版
 ### blendOS 不只是又一个 Linux 发行版
 
 
-![blendOS](/Asserts/Images//attachment/album/202304/02/095902m5y0zh9xia5yiq6a.jpg)
+![blendOS](/Asserts/Images/album/202304/02/095902m5y0zh9xia5yiq6a.jpg)
 
 
 blendOS 是一个基于 Arch 的发行版，它支持每种类型的应用程序包。
@@ -80,7 +80,7 @@ blendOS 是一个基于 Arch 的发行版，它支持每种类型的应用程序
 预计一些直接的变化包括：
 
 
-![](/Asserts/Images//attachment/album/202304/02/095828sn0azmjeskan7nke.png)
+![](/Asserts/Images/album/202304/02/095828sn0azmjeskan7nke.png)
 
 
 * 用 Podman 代替 Distrobox 的实现

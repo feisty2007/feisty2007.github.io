@@ -7,7 +7,7 @@ tags:	[linuxcn,网卡]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/12/112536skthtzqbtt03co3d.jpg)
+![](/Asserts/Images/album/201905/12/112536skthtzqbtt03co3d.jpg)
 
 
 你可能会根据你的需要执行以下命令。我会在这里列举一些你会用到这些命令的例子。
@@ -322,19 +322,19 @@ lo      loopback  unmanaged  --
 # nmtui
 ```
 
-![](/Asserts/Images//attachment/album/201905/12/112549f7tpofotcjpgl454.png)
+![](/Asserts/Images/album/201905/12/112549f7tpofotcjpgl454.png)
 
 
 选择你要禁用的网卡，然后点击 “Deactivate” 按钮，就可以将网卡禁用。
 
 
-![](/Asserts/Images//attachment/album/201905/12/112551lgkpycvmim1wseig.png)
+![](/Asserts/Images/album/201905/12/112551lgkpycvmim1wseig.png)
 
 
 如果要启用网卡，使用上述同样的步骤即可。
 
 
-![](/Asserts/Images//attachment/album/201905/12/112552cq6scklsz6n6pntl.png)
+![](/Asserts/Images/album/201905/12/112552cq6scklsz6n6pntl.png)
 
 
 

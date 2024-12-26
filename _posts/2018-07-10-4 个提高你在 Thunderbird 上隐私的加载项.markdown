@@ -7,7 +7,7 @@ tags:	[linuxcn,Thunderbird,隐私]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/25/081717bgacc582cj5va2u5.jpg)
+![](/Asserts/Images/album/201807/25/081717bgacc582cj5va2u5.jpg)
 
 
 Thunderbird 是由 [Mozilla](https://www.mozilla.org/en-US/) 开发的流行的免费电子邮件客户端。与 Firefox 类似，Thunderbird 提供了大量加载项来用于额外功能和自定义。本文重点介绍四个加载项，以改善你的隐私。

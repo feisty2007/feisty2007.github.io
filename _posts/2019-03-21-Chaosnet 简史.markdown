@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS,TCP,Chaosnet]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/31/233412x5r77qgqb3p79q6q.jpg)
+![](/Asserts/Images/album/201903/31/233412x5r77qgqb3p79q6q.jpg)
 
 
 如果你输入 `dig` 命令对 `google.com` 进行 DNS 查询，你会得到如下答复：

@@ -15,7 +15,7 @@ tags:	[linuxcn,包管理器,apt,dnf]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/27/083002sd5zzxu37yhiz6yc.jpg "Gift box opens with colors coming out")
+![](/Asserts/Images/album/202107/27/083002sd5zzxu37yhiz6yc.jpg "Gift box opens with colors coming out")
 
 
 [在 Linux 系统上获取一个应用](https://opensource.com/article/18/1/how-install-apps-linux) 有多种方式。例如，有新的 Flatpak 和容器方式，也有 DEB 和 RPM 这样一直以来经过考验的方式。

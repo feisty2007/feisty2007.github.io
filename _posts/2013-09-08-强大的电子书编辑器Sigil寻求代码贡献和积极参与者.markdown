@@ -25,7 +25,7 @@ Sigil拥有众多特点：
 总而言之，它有大量的功能。
 
 
-[![](/Asserts/Images//attachment/album/201309/23/150023i8piip8gxgwnwgzb.jpg)](https://img.linux.net.cn/Asserts/Images//attachment/album/201309/23/150023i8piip8gxgwnwgzb.jpg)
+[![](/Asserts/Images/album/201309/23/150023i8piip8gxgwnwgzb.jpg)](https://img.linux.net.cn/Asserts/Images/album/201309/23/150023i8piip8gxgwnwgzb.jpg)
 
 
 但是，似乎目前Sigil正在经历一条艰难之路，也就是说，它缺少代码参与与投入。

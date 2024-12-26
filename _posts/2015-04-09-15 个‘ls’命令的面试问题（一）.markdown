@@ -13,7 +13,7 @@ Unix或类Unix系统中的“文件列表”命令“ls”是最基础并且使�
 这篇文章的目的在于通过相关的样例来深入讨论文件列表命令。
 
 
-![15 ls Command Questions](/Asserts/Images//attachment/album/201504/28/140834nqjfd1715c87fa16.png)
+![15 ls Command Questions](/Asserts/Images/album/201504/28/140834nqjfd1715c87fa16.png)
 
 
 *15个“ls”命令问题。*
@@ -31,7 +31,7 @@ Unix或类Unix系统中的“文件列表”命令“ls”是最基础并且使�
 
 ```
 
-![List Files](/Asserts/Images//attachment/album/201504/28/140835zzkm2iq9zxlc2cc4.gif)
+![List Files](/Asserts/Images/album/201504/28/140835zzkm2iq9zxlc2cc4.gif)
 
 
 *列出文件*
@@ -46,7 +46,7 @@ Unix或类Unix系统中的“文件列表”命令“ls”是最基础并且使�
 
 ```
 
-![List All Files](/Asserts/Images//attachment/album/201504/28/140835k2ox1odudic7iqzq.gif)
+![List All Files](/Asserts/Images/album/201504/28/140835k2ox1odudic7iqzq.gif)
 
 
 *列出所有的文件。*
@@ -61,7 +61,7 @@ Unix或类Unix系统中的“文件列表”命令“ls”是最基础并且使�
 
 ```
 
-![List All Directories](/Asserts/Images//attachment/album/201504/28/140836znlg02oio02o0gjg.gif)
+![List All Directories](/Asserts/Images/album/201504/28/140836znlg02oio02o0gjg.gif)
 
 
 *列出所有的目录*
@@ -79,7 +79,7 @@ Unix或类Unix系统中的“文件列表”命令“ls”是最基础并且使�
 
 ```
 
-![List All Hidden Files](/Asserts/Images//attachment/album/201504/28/140836rppr3cjbpz0p7uqc.gif)
+![List All Hidden Files](/Asserts/Images/album/201504/28/140836rppr3cjbpz0p7uqc.gif)
 
 
 *列出所有的隐藏文件。*
@@ -97,7 +97,7 @@ Unix或类Unix系统中的“文件列表”命令“ls”是最基础并且使�
 
 ```
 
-![Do Not List Implied](/Asserts/Images//attachment/album/201504/28/140836nkmva3wn3k3kzkka.gif)
+![Do Not List Implied](/Asserts/Images/album/201504/28/140836nkmva3wn3k3kzkka.gif)
 
 
 *别列出指代当前目录和父目录的文件*
@@ -115,7 +115,7 @@ Unix或类Unix系统中的“文件列表”命令“ls”是最基础并且使�
 
 ```
 
-![List Files Long](/Asserts/Images//attachment/album/201504/28/140900mcn225w422846w3w.gif)
+![List Files Long](/Asserts/Images/album/201504/28/140900mcn225w422846w3w.gif)
 
 
 *列出文件的长格式。*
@@ -151,7 +151,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![Print Content of Directory](/Asserts/Images//attachment/album/201504/28/140905r252wff8ibwfvk3q.gif)
+![Print Content of Directory](/Asserts/Images/album/201504/28/140905r252wff8ibwfvk3q.gif)
 
 
 *打印目录内容*
@@ -178,7 +178,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![List Author Files](/Asserts/Images//attachment/album/201504/28/140906aabznw8bh88anji3.gif)
+![List Author Files](/Asserts/Images/album/201504/28/140906aabznw8bh88anji3.gif)
 
 
 *列出文件创建者。*
@@ -196,7 +196,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![Print Escape Character](/Asserts/Images//attachment/album/201504/28/140906go2a9qo2mh7md2jy.gif)
+![Print Escape Character](/Asserts/Images/album/201504/28/140906go2a9qo2mh7md2jy.gif)
 
 
 ### 9. 用指定特定的单位格式来列出文件和目录的大小，你会如何实现？
@@ -212,7 +212,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![List File Scale Format](/Asserts/Images//attachment/album/201504/28/140907i95rvr7n4z564r1a.gif)
+![List File Scale Format](/Asserts/Images/album/201504/28/140907i95rvr7n4z564r1a.gif)
 
 
 *列出文件大小单位格式。*
@@ -230,7 +230,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![List File Without Backup](/Asserts/Images//attachment/album/201504/28/140907eoede5eafy8tv8oz.gif)
+![List File Without Backup](/Asserts/Images/album/201504/28/140907eoede5eafy8tv8oz.gif)
 
 
 *列出非备份文件*
@@ -248,7 +248,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![Sort Files](/Asserts/Images//attachment/album/201504/28/140908g6jprj5jwbecw5e4.gif)
+![Sort Files](/Asserts/Images/album/201504/28/140908g6jprj5jwbecw5e4.gif)
 
 
 *文件排序*
@@ -266,7 +266,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![Sort Files by Modification](/Asserts/Images//attachment/album/201504/28/140909xlz208bll2df0202.gif)
+![Sort Files by Modification](/Asserts/Images/album/201504/28/140909xlz208bll2df0202.gif)
 
 
 *按照修改时间对文件排序。*
@@ -286,7 +286,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![ls Colorful Output](/Asserts/Images//attachment/album/201504/28/140909zfhufllj00bb8rq2.gif)
+![ls Colorful Output](/Asserts/Images/album/201504/28/140909zfhufllj00bb8rq2.gif)
 
 
 *ls的输出颜色*
@@ -304,7 +304,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![List Directory Entries](/Asserts/Images//attachment/album/201504/28/140909j3nfew6q71hh411h.gif)
+![List Directory Entries](/Asserts/Images/album/201504/28/140909j3nfew6q71hh411h.gif)
 
 
 *列出目录本身*
@@ -325,7 +325,7 @@ drwxr-xr-x  5 avi tecmint      4096 Sep 30 11:31 Binary
 
 ```
 
-![Create Alias for ls command](/Asserts/Images//attachment/album/201504/28/140911v8zzfbrr8qzzcruz.gif)
+![Create Alias for ls command](/Asserts/Images/album/201504/28/140911v8zzfbrr8qzzcruz.gif)
 
 
 *为ls命令创建别名。*

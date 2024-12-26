@@ -7,7 +7,7 @@ tags:	[linuxcn,Flatpak,权限]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/30/135209fbcvqnvnzidvg2hw.jpg)
+![](/Asserts/Images/album/202111/30/135209fbcvqnvnzidvg2hw.jpg)
 
 
 新版本的安卓系统让你对单个应用的访问和权限有了更精细的控制。这一点至关重要，因为许多应用曾经（正在）滥用系统权限。下载一个天气应用，它将要求访问你的通话记录，好像这与天气有什么关系一样。
@@ -28,7 +28,7 @@ tags:	[linuxcn,Flatpak,权限]
 ### Flatseal
 
 
-![Flatseal](/Asserts/Images//attachment/album/202111/30/135215vcsnss571odozi5s.png)
+![Flatseal](/Asserts/Images/album/202111/30/135215vcsnss571odozi5s.png)
 
 
 [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal) 是一个图形化的工具，用于审查和修改你的 Flatpak 应用的权限。这使得事情比通过命令要容易得多。
@@ -40,13 +40,13 @@ Flatseal 会列出所有已安装的 Flatpak 应用。当你选择一个应用�
 例如，Ksnip 是一个屏幕截图工具，但它也有联网权限，可以用 Imgur 等在线服务分享截图。如果你不需要它，你可以禁用它。
 
 
-![Control permissions of individual Flatpak apps](/Asserts/Images//attachment/album/202111/30/135215n96c39uocu5tdffa.png)
+![Control permissions of individual Flatpak apps](/Asserts/Images/album/202111/30/135215n96c39uocu5tdffa.png)
 
 
 如果不出意外，看看一个应用有什么样的权限是很有趣的。例如，你可以看到 ksnip 有在后台运行的能力（这样你就可以用键盘快捷键进行截图）。
 
 
-![](/Asserts/Images//attachment/album/202111/30/135215ged2v2bvtivsg4tj.png)
+![](/Asserts/Images/album/202111/30/135215ged2v2bvtivsg4tj.png)
 
 
 ### 安装 Flatseal
@@ -58,7 +58,7 @@ Flatseal 会列出所有已安装的 Flatpak 应用。当你选择一个应用�
 在 Fedora 上，如果已经添加 Flathub 仓库，你可以从软件中心安装它。
 
 
-![Installing Flatseal from the software center](/Asserts/Images//attachment/album/202111/30/135216vg3r7yn55r9y5ssn.png)
+![Installing Flatseal from the software center](/Asserts/Images/album/202111/30/135216vg3r7yn55r9y5ssn.png)
 
 
 否则，命令行总是可以帮助你。

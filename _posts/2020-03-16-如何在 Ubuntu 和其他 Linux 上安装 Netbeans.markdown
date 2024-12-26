@@ -18,7 +18,7 @@ tags:	[linuxcn,Netbeans]
 [NetBeans](https://netbeans.org/) 是一个开源集成开发环境，具有良好的跨平台支持。此工具已被 Java 和 C/C++ 开发社区广泛认可。
 
 
-![](/Asserts/Images//attachment/album/202003/20/122113lzjww4ac68764acj.jpg)
+![](/Asserts/Images/album/202003/20/122113lzjww4ac68764acj.jpg)
 
 
 开发环境相当灵活。你可以配置它以支持各种开发。实际上，你可以用它来开发 Web、桌面和移动应用，而无需离开此平台。这太神奇了，不是吗？除此之外，用户可以添加许多已知语言，如 [PHP](https://www.php.net/)、C、C++、HTML、[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))、JavaScript、JSP、Ruby on Rails 等。
@@ -41,7 +41,7 @@ tags:	[linuxcn,Netbeans]
 只需单击一下即可安装它。无需打开终端。是最简单的方法。
 
 
-![Apache Netbeans in Ubuntu Software Center](/Asserts/Images//attachment/album/202003/20/122118glsshhznekqh7m74.jpg)
+![Apache Netbeans in Ubuntu Software Center](/Asserts/Images/album/202003/20/122118glsshhznekqh7m74.jpg)
 
 
 你也可以选择使用 `apt` 命令，但使用 `apt` 时，你无法获得最新的 Netbeans。例如，在编写本教程时，Ubuntu 18.04 中 Apt 提供 Netbeans 10，而 Snap 有最新的 Netbeans 11。

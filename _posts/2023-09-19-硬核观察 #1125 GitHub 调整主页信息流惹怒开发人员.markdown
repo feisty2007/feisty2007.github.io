@@ -7,10 +7,10 @@ tags:	[linuxcn,GitHub,黑客,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/15/161212l1iv2lkv3pie1ujv.jpg)
+![](/Asserts/Images/album/202309/15/161212l1iv2lkv3pie1ujv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/15/161223i3538l8on5ul85ou.jpg)
+![](/Asserts/Images/album/202309/15/161223i3538l8on5ul85ou.jpg)
 
 
 ### GitHub 调整主页信息流惹怒开发人员
@@ -35,7 +35,7 @@ tags:	[linuxcn,GitHub,黑客,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/15/161239sw2z3qtztbqs44vu.jpg)
+![](/Asserts/Images/album/202309/15/161239sw2z3qtztbqs44vu.jpg)
 
 
 ### 黑客声称只打了 10 分钟电话就关闭了米高梅酒店
@@ -60,7 +60,7 @@ tags:	[linuxcn,GitHub,黑客,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/15/161300nfzf2nvnfhfhh4m4.jpg)
+![](/Asserts/Images/album/202309/15/161300nfzf2nvnfhfhh4m4.jpg)
 
 
 ### JetBrains 放弃开源插件，宣布全新 Rust IDE

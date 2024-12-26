@@ -16,7 +16,7 @@ tags:	[linuxcn,Linux,Ubuntu,Trusty Tahr,发行版,LTS]
 除此以外，Trusty的daily builds版已经出现，可安装的镜像内封装了Ubuntu14.04 LTS新的开发重点。
 
 
- ![](/Asserts/Images//attachment/album/201311/01/220403rlflmrw41tl9l47j.jpg)
+ ![](/Asserts/Images/album/201311/01/220403rlflmrw41tl9l47j.jpg)
 
 
 尽管目前Trusty的daily builds版和Ubuntu13.10没有什么太大区别，但是从项目最开始，Trusty就表现出了格外的开发活性，而且Trusty是一个LTS（长期支持）版本，因此，根据传统，与标准版相比，官方提供的Trusty其实是一个更加稳定的Ubuntu版本。

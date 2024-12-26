@@ -15,7 +15,7 @@ tags:	[linuxcn,Debian]
 > 
 
 
-![debian 12](/Asserts/Images//attachment/album/202305/03/001726lc4jc0h80cijjcd6.png)
+![debian 12](/Asserts/Images/album/202305/03/001726lc4jc0h80cijjcd6.png)
 
 
 Debian 即将发布系统代号为 “<ruby> 书虫 <rt>  Bookworm </rt></ruby>” 的新版本。与 [Debian 11 “Bullseye”](https://news.itsfoss.com/debian-11-feature/) 相比，有许多改进和新功能。
@@ -41,7 +41,7 @@ Debian 所包含的大多数软件都已更新，**超过 9500 个软件包** �
 ### 1、更新的安装程序
 
 
-![Debian 12 更新的安装程序的屏幕截图](/Asserts/Images//attachment/album/202305/03/001726vjyrpepyjmhp6zem.png)
+![Debian 12 更新的安装程序的屏幕截图](/Asserts/Images/album/202305/03/001726vjyrpepyjmhp6zem.png)
 
 
 Debian 的安装程序得到了一些改进，从而改善了硬件支持，并带来一些令人兴奋的新功能。
@@ -53,7 +53,7 @@ Debian 的安装程序得到了一些改进，从而改善了硬件支持，并�
 这要归功于 **Debian APT 2.6** 的加入，它允许在 Debian 上更好地处理非自由固件。
 
 
-![Debian 12 上软件包管理器配置的截图](/Asserts/Images//attachment/album/202305/03/001727suhs84zd7rd9rm44.png)
+![Debian 12 上软件包管理器配置的截图](/Asserts/Images/album/202305/03/001727suhs84zd7rd9rm44.png)
 
 
 因此，现在当确定需要非自由固件二进制文件时，将默认启用这些文件。
@@ -65,7 +65,7 @@ Debian 的安装程序得到了一些改进，从而改善了硬件支持，并�
 ### 2、Linux 内核 6.1
 
 
-![在 Debian 12 上的 neofetch 输出的屏幕截图](/Asserts/Images//attachment/album/202305/03/001728of8tvbi6ftiz65xb.png)
+![在 Debian 12 上的 neofetch 输出的屏幕截图](/Asserts/Images/album/202305/03/001728of8tvbi6ftiz65xb.png)
 
 
 Debian 12 “Bookworm” 由 [最近获得 LTS 批准的](https://news.itsfoss.com/linux-kernel-6-1-is-now-an-lts-version/) Linux 内核 6.1 驱动，该内核具有**对 Rust 的实验性支持**、**对英特尔 Meteor Lake 的支持**、**对 ARM SoC 的改进支持**等等。
@@ -114,7 +114,7 @@ Debian 12 “Bookworm” 由 [最近获得 LTS 批准的](https://news.itsfoss.c
 ### 4、默认的 PipeWire
 
 
-![在 Debian 12 上的 Pipewire 版本的屏幕截图](/Asserts/Images//attachment/album/202305/03/001728hz78wc0ddxrvshvs.png)
+![在 Debian 12 上的 Pipewire 版本的屏幕截图](/Asserts/Images/album/202305/03/001728hz78wc0ddxrvshvs.png)
 
 
 对于 [PipeWire](https://pipewire.org/?ref=news.itsfoss.com) 支持者来说是个好消息!
@@ -129,7 +129,7 @@ Debian 12 现在与其他领先的发行版，如 Ubuntu、Fedora、Pop!\_OS 等
 ### 5、新壁纸
 
 
-![Debian 12 上的新壁纸截图](/Asserts/Images//attachment/album/202305/03/001729zqzhypgv4zgoqvgq.png)
+![Debian 12 上的新壁纸截图](/Asserts/Images/album/202305/03/001729zqzhypgv4zgoqvgq.png)
 
 
 每个新的 Debian 版本都会带来新的壁纸和主题更新。

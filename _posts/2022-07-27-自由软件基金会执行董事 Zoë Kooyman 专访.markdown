@@ -7,7 +7,7 @@ tags:	[linuxcn,自由软件,FSF]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/19/151615wnr8m4l8yotr6hp8.jpg)
+![](/Asserts/Images/album/202207/19/151615wnr8m4l8yotr6hp8.jpg)
 
 
 

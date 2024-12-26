@@ -7,7 +7,7 @@ tags:	[linuxcn,TLS,HTTPS,安全,攻击]
 ---
 
 
-![](/Asserts/Images//attachment/album/201603/06/224427oth3vovq9y00adsv.jpg)
+![](/Asserts/Images/album/201603/06/224427oth3vovq9y00adsv.jpg)
 
 
 低成本的 DROWN 攻击能在数小时内完成数据解密，该攻击对采用了 TLS 的邮件服务器也同样奏效。

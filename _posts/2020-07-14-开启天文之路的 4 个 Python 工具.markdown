@@ -15,7 +15,7 @@ tags:	[linuxcn,天文,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/27/223146sjfgbj9jfu9m1z2c.jpg)
+![](/Asserts/Images/album/202007/27/223146sjfgbj9jfu9m1z2c.jpg)
 
 
 ### 天文学与 Python

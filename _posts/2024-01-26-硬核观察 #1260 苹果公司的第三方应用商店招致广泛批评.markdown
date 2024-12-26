@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果,AI,Chrome,Arm]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/28/185004ma7erbd8yz7yymdm.jpg)
+![](/Asserts/Images/album/202401/28/185004ma7erbd8yz7yymdm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/28/185049xz4gaj4bn7whbhk6.png)
+![](/Asserts/Images/album/202401/28/185049xz4gaj4bn7whbhk6.png)
 
 
 ### #1 苹果公司的第三方应用商店招致广泛批评
@@ -38,7 +38,7 @@ tags:	[linuxcn,苹果,AI,Chrome,Arm]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/28/185129urrkji1n5nlvfgpp.png)
+![](/Asserts/Images/album/202401/28/185129urrkji1n5nlvfgpp.png)
 
 
 ### #2 苹果的大语言模型出现在新的 iOS 代码中
@@ -66,7 +66,7 @@ tags:	[linuxcn,苹果,AI,Chrome,Arm]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/28/185147zemny1m49pvjmpmm.png)
+![](/Asserts/Images/album/202401/28/185147zemny1m49pvjmpmm.png)
 
 
 ### #3 Chrome 推出 Windows on Arm 版本

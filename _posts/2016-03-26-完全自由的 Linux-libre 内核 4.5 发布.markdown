@@ -13,7 +13,7 @@ tags:	[linuxcn,Linux,内核]
 GNU Linux-libre 内核 4.5 基于上游的 Linux 内核 4.5，但是从代码中<ruby> 洁化 <rp>  （ </rp> <rt>  deblobbing </rt> <rp>  ） </rp></ruby>了一些驱动程序，比如 Qualcomm WCNSS SOC、 qat\_c62x、 qat\_c3xxx、 goodix touchscreen 和 adf7242 等。此外，也更新了洁化版的 Nouveau、 Radeon、 Skylake sound 和 XHCI rcar 驱动。
 
 
-![](/Asserts/Images//attachment/album/201603/16/150947rhdatgypld1ztbaj.jpg)
+![](/Asserts/Images/album/201603/16/150947rhdatgypld1ztbaj.jpg)
 
 
 ### GNU Linux-libre 内核 4.5 是给谁用的？

@@ -18,13 +18,13 @@ tags:	[linuxcn,LaTex,PDF,字体]
 当你创建一个PDF文件时，在PDF文件中嵌入字体是一个好主意。如果你不嵌入字体，PDF浏览器可以在计算机上没有字体的情况下使用其他东西代替。这将导致文件被在不同的PDF浏览器或操作系统平台上呈现不同的样式。当你打印出来的文档时，缺少的字体是一个问题。
 
 
-![](/Asserts/Images//attachment/album/201410/17/104341dh3y118pufmd95lp.png)
+![](/Asserts/Images/album/201410/17/104341dh3y118pufmd95lp.png)
 
 
 当你从LaTex中生成PDF文档时（例如用pdflatex或dvipdfm），可能并不是所有的字体都嵌入在PDF文档中。例如，[pdffonts](http://ask.xmodulo.com/check-which-fonts-are-used-pdf-document.html)下面的输出中提示PDF文档中有缺少的字体（如Helvetica）。
 
 
-![](/Asserts/Images//attachment/album/201410/17/104347a274143022b5sz3s.jpg)
+![](/Asserts/Images/album/201410/17/104347a274143022b5sz3s.jpg)
 
 
 为了避免这样的问题，下面是如何在LaTex编译时嵌入所有的字体。
@@ -50,7 +50,7 @@ document.ps document.pdf
 现在你可以看到所有的字体都被嵌入到PDF中了。
 
 
-![](/Asserts/Images//attachment/album/201410/17/104350km46d6nijimmm9nn.jpg)
+![](/Asserts/Images/album/201410/17/104350km46d6nijimmm9nn.jpg)
 
 
 

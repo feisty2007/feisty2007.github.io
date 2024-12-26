@@ -7,10 +7,10 @@ tags:	[linuxcn,cURL,AI,Copilot]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/23/083426t9o4s3z6sdtxvxqt.jpg)
+![](/Asserts/Images/album/202303/23/083426t9o4s3z6sdtxvxqt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/23/083433zw1ve4ez1nana1h6.jpg)
+![](/Asserts/Images/album/202303/23/083433zw1ve4ez1nana1h6.jpg)
 
 
 ### cURL 发布 8.0，庆祝其 25 岁生日
@@ -35,7 +35,7 @@ tags:	[linuxcn,cURL,AI,Copilot]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/23/083442yva4ldjek41a7jev.jpg)
+![](/Asserts/Images/album/202303/23/083442yva4ldjek41a7jev.jpg)
 
 
 ### GitHub Copilot 将迁移到 GPT 上
@@ -60,7 +60,7 @@ GitHub 已经对其 Copilot 编程模型进行了培训，以执行新的任务�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/23/083454n4gree427e7ccoog.jpg)
+![](/Asserts/Images/album/202303/23/083454n4gree427e7ccoog.jpg)
 
 
 ### Mozilla 将建立 Mozilla.ai

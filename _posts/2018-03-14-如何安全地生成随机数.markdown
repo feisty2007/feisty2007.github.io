@@ -7,7 +7,7 @@ tags:	[linuxcn,随机数,加密]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/25/103321odkv11vbjidznn8d.jpg)
+![](/Asserts/Images/album/201803/25/103321odkv11vbjidznn8d.jpg)
 
 
 ### 使用 urandom

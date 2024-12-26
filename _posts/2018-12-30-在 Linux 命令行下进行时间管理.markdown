@@ -15,7 +15,7 @@ tags:	[linuxcn,TODO,GTD]
 > 
 
 
-![](/Asserts/Images//attachment/album/201812/11/213620q8a88wvc3zoj86jo.jpg)
+![](/Asserts/Images/album/201812/11/213620q8a88wvc3zoj86jo.jpg)
 
 
 关于如何在命令行下进行<ruby> 时间管理 <rt>  getting things done </rt></ruby>（GTD）有很多讨论。不知有多少文章在讲使用 ls 晦涩的选项、配合 Sed 和 Awk 的一些神奇的正则表达式，以及用 Perl 解析一大堆的文本。但这些都不是问题的重点。
@@ -27,7 +27,7 @@ tags:	[linuxcn,TODO,GTD]
 ### 简单纯文本
 
 
-![纯文本](/Asserts/Images//attachment/album/201812/11/213638wwbr4qhhi0tkej2o.png "plaintext")
+![纯文本](/Asserts/Images/album/201812/11/213638wwbr4qhhi0tkej2o.png "plaintext")
 
 
 *我喜欢用 Vim，其实你也可以用 Nano。*
@@ -39,7 +39,7 @@ tags:	[linuxcn,TODO,GTD]
 ### Todo.txt: 纯文件的升级版
 
 
-![todo.txt 截屏](/Asserts/Images//attachment/album/201812/11/213639ys6k5btpt5pbz2dd.png "todo.txt screen")
+![todo.txt 截屏](/Asserts/Images/album/201812/11/213639ys6k5btpt5pbz2dd.png "todo.txt screen")
 
 
 *整洁，有条理，易用*
@@ -48,7 +48,7 @@ tags:	[linuxcn,TODO,GTD]
 这就是我们要说的 [Todo.txt](http://todotxt.org/) 文件格式和应用程序。安装很简单，可从 GitHub [下载](https://github.com/todotxt/todo.txt-cli/releases)最新的版本解压后并执行命令 `sudo make install` 。
 
 
-![安装 todo.txt](/Asserts/Images//attachment/album/201812/11/213640pfl7e5tqqe8oq85q.png "Installing todo.txt")
+![安装 todo.txt](/Asserts/Images/album/201812/11/213640pfl7e5tqqe8oq85q.png "Installing todo.txt")
 
 
 *也可以从 Git 克隆一个。*
@@ -73,7 +73,7 @@ Todo.txt 可以很容易的增加新任务，并能显示任务列表和已完�
 该应用程序同时也内置了一个强大的帮助系统。
 
 
-![在 todo.txt 中语法高亮](/Asserts/Images//attachment/album/201812/11/213640w87f77wfhx71k64z.png "Syntax highlighting in todo.txt")
+![在 todo.txt 中语法高亮](/Asserts/Images/album/201812/11/213640w87f77wfhx71k64z.png "Syntax highlighting in todo.txt")
 
 
 *你可以使用语法高亮的功能*
@@ -82,7 +82,7 @@ Todo.txt 可以很容易的增加新任务，并能显示任务列表和已完�
 此外，还有许多附加组件可供选择，以及编写自己的附件组件规范。甚至有浏览器组件、移动设备应用程序和桌面应用程序支持 Todo.txt 的格式。
 
 
-![GNOME extensions in todo.txt](/Asserts/Images//attachment/album/201812/11/213642ou939ubmp3p7ijfi.png "GNOME extensions in todo.txt")
+![GNOME extensions in todo.txt](/Asserts/Images/album/201812/11/213642ou939ubmp3p7ijfi.png "GNOME extensions in todo.txt")
 
 
 *GNOME的扩展组件*
@@ -94,7 +94,7 @@ Todo.txt 最大的缺点是缺少自动或内置的同步机制。大多数（�
 ### Taskwarrior: 现在我们用 Python 做事了
 
 
-![Taskwarrior](/Asserts/Images//attachment/album/201812/11/213643ihs9ccc7vt9kflim.png)
+![Taskwarrior](/Asserts/Images/album/201812/11/213643ihs9ccc7vt9kflim.png)
 
 
 *花哨吗？*
@@ -103,7 +103,7 @@ Todo.txt 最大的缺点是缺少自动或内置的同步机制。大多数（�
 [Taskwarrior](https://taskwarrior.org/) 是一个与 Todo.txt 有许多相同功能的 Python 工具。但不同的是它的数据保存在数据库里并具有内置的数据同步功能。它还可以跟踪即将要做的任务，可以提醒某个任务持续了多久，可以提醒你一些重要的事情应该马上去做。
 
 
-![](/Asserts/Images//attachment/album/201812/11/213645nlttitcw8nf38wc7.png)
+![](/Asserts/Images/album/201812/11/213645nlttitcw8nf38wc7.png)
 
 
 *看起来不错*
@@ -125,7 +125,7 @@ Todo.txt 最大的缺点是缺少自动或内置的同步机制。大多数（�
 Taskwarrior 还有漂亮的文本用户界面。
 
 
-![Taskwarrior in Vit](/Asserts/Images//attachment/album/201812/11/213646yrb38uszeo0r9flz.png "Taskwarrior in Vit")
+![Taskwarrior in Vit](/Asserts/Images/album/201812/11/213646yrb38uszeo0r9flz.png "Taskwarrior in Vit")
 
 
 *我喜欢 Vit, 它的设计灵感来自 Vim*
@@ -137,7 +137,7 @@ Taskwarrior 还有漂亮的文本用户界面。
 Taskwarriot 还拥有一个蓬勃发展的插件和扩展生态系统，以及移动和桌面系统的应用。
 
 
-![GNOME in Taskwarrior ](/Asserts/Images//attachment/album/201812/11/213652dlq5alolp4aephug.png "Taskwarrior on GNOME")
+![GNOME in Taskwarrior ](/Asserts/Images/album/201812/11/213652dlq5alolp4aephug.png "Taskwarrior on GNOME")
 
 
 *在 GNOME 下的 Taskwarrior 看起来还是很漂亮的。*
@@ -152,7 +152,7 @@ Taskwarrior 有一个唯一的缺点，你是不能直接修改待办任务的�
 ### Emacs Org 模式：牛X的任务收割机
 
 
-![Org-mode](/Asserts/Images//attachment/album/201812/11/213655poh6xdh3e33ooe9v.png "Org-mode")
+![Org-mode](/Asserts/Images/album/201812/11/213655poh6xdh3e33ooe9v.png "Org-mode")
 
 
 *Emacs 啥都有*

@@ -15,7 +15,7 @@ tags:	[linuxcn,云服务,树莓派]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/01/203559wt8tnnnxnc6jcnn8.jpg)
+![](/Asserts/Images/album/202007/01/203559wt8tnnnxnc6jcnn8.jpg)
 
 
 [Cloud-init](https://cloudinit.readthedocs.io/)（可以说）是一个标准，云提供商用它来为云实例提供初始化和配置数据。它最常用于新实例的首次启动，以自动完成网络设置、账户创建和 SSH 密钥安装等使新系统上线所需的任何事情，以便用户可以访问它。
@@ -33,7 +33,7 @@ tags:	[linuxcn,云服务,树莓派]
 ### 关于 Cloud-init
 
 
-当为 Cloud-init 配置的实例启动并且服务开始运行时（实际上是 systemd 中的四个服务，以处理启动过程中的依赖关系），它会检查其配置中的[数据源](https://cloudinit.readthedocs.io/en/latest/topics/Asserts/Images/sources.html)，以确定其运行在什么类型的云中。每个主要的云提供商都有一个数据源配置，告诉实例在哪里以及如何检索配置信息。然后，实例使用数据源信息检索云提供商提供的配置信息（如网络信息和实例识别信息）和客户提供的配置数据（如要复制的授权密钥、要创建的用户账户以及许多其他可能的任务）。
+当为 Cloud-init 配置的实例启动并且服务开始运行时（实际上是 systemd 中的四个服务，以处理启动过程中的依赖关系），它会检查其配置中的[数据源](https://cloudinit.readthedocs.io/en/latest/topics/datasources.html)，以确定其运行在什么类型的云中。每个主要的云提供商都有一个数据源配置，告诉实例在哪里以及如何检索配置信息。然后，实例使用数据源信息检索云提供商提供的配置信息（如网络信息和实例识别信息）和客户提供的配置数据（如要复制的授权密钥、要创建的用户账户以及许多其他可能的任务）。
 
 
 检索数据后，Cloud-init 再对实例进行配置：设置网络、复制授权密钥等，最后完成启动过程。然后，远程用户就可以访问它，准备好使用 [Ansible](https://www.ansible.com/) 或 [Puppet](https://puppet.com/) 等工具进行进一步的配置，或者准备好接收工作负载并开始分配任务。
@@ -66,7 +66,7 @@ Cloud-init 的真正价值在于用户数据文件。[用户数据](https://clou
 例如，亚马逊 AWS 提供了一个 [link-local](https://en.wikipedia.org/wiki/Link-local_address) 文件，它将用实例的自定义数据来响应实例的 HTTP 请求。其他云提供商也有自己的机制。幸运的是，对于家庭私有云项目来说，也有 NoCloud 数据源。
 
 
-[NoCloud](https://cloudinit.readthedocs.io/en/latest/topics/Asserts/Images/sources/nocloud.html) 数据源允许通过内核命令以键值对的形式提供配置信息，或通过挂载的 ISO 文件系统以用户数据和元数据文件的形式提供。这些对于虚拟机来说很有用，尤其是与自动化搭配来创建虚拟机。
+[NoCloud](https://cloudinit.readthedocs.io/en/latest/topics/datasources/nocloud.html) 数据源允许通过内核命令以键值对的形式提供配置信息，或通过挂载的 ISO 文件系统以用户数据和元数据文件的形式提供。这些对于虚拟机来说很有用，尤其是与自动化搭配来创建虚拟机。
 
 
 还有一个 NoCloudNet 数据源，它的行为类似于 AWS EC2 数据源，提供一个 IP 地址或 DNS 名称，通过 HTTP 从这里检索用户数据和元数据。这对于你的家庭实验室中的物理机器来说是最有帮助的，比如树莓派、[NUC](https://en.wikipedia.org/wiki/Next_Unit_of_Computing) 或多余的服务器设备。虽然 NoCloud 可以工作，但它需要更多的人工关注 —— 这是云实例的反模式。

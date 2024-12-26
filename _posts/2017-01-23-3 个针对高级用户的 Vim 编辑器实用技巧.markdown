@@ -7,7 +7,7 @@ tags:	[linuxcn,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/26/211518m1p92dr45zkk47qp.jpg)
+![](/Asserts/Images/album/201701/26/211518m1p92dr45zkk47qp.jpg)
 
 
 这篇文章是 Vim 用户指南系列文章中的一篇：
@@ -81,7 +81,7 @@ tags:	[linuxcn,Vim]
 下图是该特性的一个展示：
 
 
-![](/Asserts/Images//attachment/album/201701/26/211721bfccf82z26hffz7c.jpg)
+![](/Asserts/Images/album/201701/26/211721bfccf82z26hffz7c.jpg)
 
 
 正如上面的屏幕截图清晰展示的那样，列表中也会出现其他源文件中包含的词。关于该特性的更多信息，请访问[这儿](http://vim.wikia.com/wiki/Any_word_completion)。

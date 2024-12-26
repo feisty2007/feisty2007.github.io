@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,iPhone,CPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/29/162321aa4fa666o29ivo6f.jpg)
+![](/Asserts/Images/album/202312/29/162321aa4fa666o29ivo6f.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/29/162330sargvjggnu4gznxz.png)
+![](/Asserts/Images/album/202312/29/162330sargvjggnu4gznxz.png)
 
 
 ### #1 《纽约时报》起诉 OpenAI 和微软
@@ -38,7 +38,7 @@ tags:	[linuxcn,AI,iPhone,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/29/162347mfmcbzbcy0yymecc.png)
+![](/Asserts/Images/album/202312/29/162347mfmcbzbcy0yymecc.png)
 
 
 ### #2 攻击者利用未知硬件漏洞入侵 iPhone 长达四年
@@ -66,7 +66,7 @@ tags:	[linuxcn,AI,iPhone,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/29/162411ss92j92uss921aeg.png)
+![](/Asserts/Images/album/202312/29/162411ss92j92uss921aeg.png)
 
 
 ### #3 兆芯准备在 Linux 上为其 CPU 提供首选内核支持

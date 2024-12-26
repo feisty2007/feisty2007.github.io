@@ -7,7 +7,7 @@ tags:	[linuxcn,安全更新]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/11/100735bdnjzkkmjbxbttmm.jpg)
+![](/Asserts/Images/album/201906/11/100735bdnjzkkmjbxbttmm.jpg)
 
 
 我们过去曾写过两篇关于这个主题的文章，每篇文章都是根据不同的要求发表的。如果你想在开始之前浏览这些文章。请通过以下链接：

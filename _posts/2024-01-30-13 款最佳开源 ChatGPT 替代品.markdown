@@ -7,7 +7,7 @@ tags:	[linuxcn,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/13/111931vcvcn538l3gk9nkk.jpg)
+![](/Asserts/Images/album/202401/13/111931vcvcn538l3gk9nkk.jpg)
 
 
 
@@ -68,7 +68,7 @@ ChatGPT 是 OpenAI 推出的一个强大的生成式 AI 工具。你只需要以
 ### 1、OpenChatKit
 
 
-![](/Asserts/Images//attachment/album/202401/13/112002jdidgtfjnqjftqhi.jpg)
+![](/Asserts/Images/album/202401/13/112002jdidgtfjnqjftqhi.jpg)
 
 
 [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) 是由 [Together](https://www.together.ai/) 开发的全功能 ChatGPT 替代品。
@@ -83,7 +83,7 @@ ChatGPT 是 OpenAI 推出的一个强大的生成式 AI 工具。你只需要以
 ### 2、ChatRWKV
 
 
-![](/Asserts/Images//attachment/album/202401/13/112003ls71ss8j2qkqn8n6.jpg)
+![](/Asserts/Images/album/202401/13/112003ls71ss8j2qkqn8n6.jpg)
 
 
 ChatRWKV 是由 <ruby> 循环神经网络 <rt>  Recurrent Neural Network </rt></ruby>（RNN） 语言模型驱动的开源替代品。
@@ -98,7 +98,7 @@ ChatRWKV 是由 <ruby> 循环神经网络 <rt>  Recurrent Neural Network </rt></
 ### 3、ColossalChat
 
 
-![](/Asserts/Images//attachment/album/202401/13/112003q086mh6lkmm4r4lt.jpg)
+![](/Asserts/Images/album/202401/13/112003q086mh6lkmm4r4lt.jpg)
 
 
 Colossal AI 是一个开源项目，目标是帮助你克隆 AI 模型，并打造出满足你需求的 ChatGPT 类似的平台。
@@ -137,7 +137,7 @@ GPT4ALL 是一个令人感兴趣的开源项目，旨在为你提供可在任何
 ### 6、HuggingChat
 
 
-![](/Asserts/Images//attachment/album/202401/13/112003qnlsa4jp0j3pc3ck.jpg)
+![](/Asserts/Images/album/202401/13/112003qnlsa4jp0j3pc3ck.jpg)
 
 
 听起来熟悉吗？嗯，Huggingface 的平台被其他 AI 模型和聊天机器人用作展示他们的演示。
@@ -164,7 +164,7 @@ EasyLM 的研发成果 Koala 是一款可尝试本地运行的聊天机器人，
 ### 8、Vicuna
 
 
-![](/Asserts/Images//attachment/album/202401/13/112003lcy00tnlntxlyycz.jpg)
+![](/Asserts/Images/album/202401/13/112003lcy00tnlntxlyycz.jpg)
 
 
 Vicuna 是另一款开源聊天机器人，训练基础依然是 LLaMA。根据开发者的说法，使用 GPT-4 作为评价标准，得出的结论是 Vicuna 的聊天体验接近 ChatGPT。
@@ -191,19 +191,19 @@ Alpaca-LoRA 雄心勃勃，旨在使用低秩适应技术提供一种可在树�
 ### 10、Dolly
 
 
-![](/Asserts/Images//attachment/album/202401/13/112003w6lmn0fbm399xxgl.jpg)
+![](/Asserts/Images/album/202401/13/112003w6lmn0fbm399xxgl.jpg)
 
 
 Dolly 是另一个在 Databricks 机器学习平台上训练的语言模型，并已获得商业使用许可。
 
 
-你可以在 [GitHub](https://github.com/Asserts/Images/brickslabs/dolly) 上查阅源代码，并在 [Huggingface](https://huggingface.co/Asserts/Images/bricks/dolly-v2-12b) 上探究模型详情。
+你可以在 [GitHub](https://github.com/databrickslabs/dolly) 上查阅源代码，并在 [Huggingface](https://huggingface.co/databricks/dolly-v2-12b) 上探究模型详情。
 
 
 ### 11、H2oGPT
 
 
-![](/Asserts/Images//attachment/album/202401/13/112004l39m1qww3qf89qrl.jpg)
+![](/Asserts/Images/album/202401/13/112004l39m1qww3qf89qrl.jpg)
 
 
 H2oGPT 是专门为查询定制的，可以帮助你总结文档。在保证隐私的前提下，它允许你通过用户界面上传和查看文档。
@@ -218,7 +218,7 @@ H2oGPT 是专门为查询定制的，可以帮助你总结文档。在保证隐�
 ### 12、Cerebras-GPT
 
 
-![](/Asserts/Images//attachment/album/202401/13/112004u3z8ux89x3px9xae.jpg)
+![](/Asserts/Images/album/202401/13/112004u3z8ux89x3px9xae.jpg)
 
 
 Cerebras-GPT 呈现了通过大量参数训练的开源 GPT 类似模型。

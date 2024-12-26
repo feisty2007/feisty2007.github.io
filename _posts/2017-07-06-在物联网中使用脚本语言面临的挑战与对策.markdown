@@ -7,7 +7,7 @@ tags:	[linuxcn,IoT,脚本语言]
 ---
 
 
-![Scripting IoT](/Asserts/Images//attachment/album/201707/10/002546reu6ee84lumlm4ex.jpg "Scripting IoT")
+![Scripting IoT](/Asserts/Images/album/201707/10/002546reu6ee84lumlm4ex.jpg "Scripting IoT")
 
 
 

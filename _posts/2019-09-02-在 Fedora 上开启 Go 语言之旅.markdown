@@ -7,7 +7,7 @@ tags:	[linuxcn,Go]
 ---
 
 
-![](/Asserts/Images//attachment/album/201909/01/223741e3ltmt9jmiiyayva.jpg)
+![](/Asserts/Images/album/201909/01/223741e3ltmt9jmiiyayva.jpg)
 
 
 [Go](https://golang.org/) 编程语言于 2009 年首次公开发布，此后被广泛使用。特别是，Go 已经成为云基础设施领域的一种代表性语言，例如 [Kubernetes](https://kubernetes.io/)、[OpenShift](https://www.openshift.com/) 或 [Terraform](https://www.terraform.io/) 等大型项目都使用了 Go。

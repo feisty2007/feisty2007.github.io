@@ -7,7 +7,7 @@ tags:	[linuxcn,twitter,情感,数据挖掘]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/04/114339ythtit9fz6i18jut.jpg)
+![](/Asserts/Images/album/201809/04/114339ythtit9fz6i18jut.jpg)
 
 
 如果你想知道大家对某件事情的看法，Twitter 是最好的地方了。Twitter 是观点持续不断的涌现出来的地方，每秒钟大概有 6000 条新 Twitter 发送出来。因特网上的发展很快，如果你想与时俱进或者跟上潮流，Twitter 就是你要去的地方。

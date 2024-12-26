@@ -7,7 +7,7 @@ tags:	[linuxcn,FFmpeg]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/03/011553xu323dzu40pb03bx.jpg)
+![](/Asserts/Images/album/201906/03/011553xu323dzu40pb03bx.jpg)
 
 
 在这个指南中，我将用示例来阐明如何使用 FFmpeg 媒体框架来做各种各样的音频、视频转码和转换的操作。我已经为初学者汇集了最常用的 20 多个 FFmpeg 命令，我将不时地添加更多的示例来保持更新这个指南。请给这个指南加书签，以后回来检查更新。让我们开始吧，如果你还没有在你的 Linux 系统中安装 FFmpeg，参考下面的指南。
@@ -88,7 +88,7 @@ $ ffmpeg -i video.mp4 -hide_banner
 样本输出：
 
 
-![](/Asserts/Images//attachment/album/201906/03/012025fyceaolcxe4py9ub.png)
+![](/Asserts/Images/album/201906/03/012025fyceaolcxe4py9ub.png)
 
 
 *使用 FFMpeg 查看音频、视频文件信息。*

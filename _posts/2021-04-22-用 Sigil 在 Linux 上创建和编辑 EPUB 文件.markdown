@@ -7,7 +7,7 @@ tags:	[linuxcn,EPUB,电子书]
 ---
 
 
-![](/Asserts/Images//attachment/album/202104/23/184455qn6u6oozmf6gmnec.jpg)
+![](/Asserts/Images/album/202104/23/184455qn6u6oozmf6gmnec.jpg)
 
 
 Sigil 是一个开源的 Linux、Windows 和 MacOS 上的 EPUB 编辑器。你可以使用 Sigil 创建一个新的 EPUB 格式的电子书，或编辑现有的 EPUB 电子书（以 `.epub` 扩展结尾的文件）。
@@ -22,7 +22,7 @@ Sigil 是一个开源的 Linux、Windows 和 MacOS 上的 EPUB 编辑器。你�
 [Sigil](https://sigil-ebook.com/) 是一个允许你编辑 EPUB 文件的开源软件。当然，你可以从头开始创建一个新的 EPUB 文件。
 
 
-![](/Asserts/Images//attachment/album/202104/23/184502wwhc6yew7xlzc6y3.png)
+![](/Asserts/Images/album/202104/23/184502wwhc6yew7xlzc6y3.png)
 
 
 很多人在 [创建或编辑电子书时非常相信 Calibre](https://itsfoss.com/create-ebook-calibre-linux/)。它确实是一个完整的工具，它有很多的功能，支持的格式不只是 EPUB 格式。然而，Calibre 有时可能需要过多的资源。
@@ -47,7 +47,7 @@ Sigil 只专注于 EPUB 书籍，它有以下功能：
 Sigil 不是你可以直接输入新书章节的 [所见即所得](https://www.computerhope.com/jargon/w/wysiwyg.htm) 类型的编辑器。由于 EPUB 依赖于 XML，因此它专注于代码。可以将其视为用于 EPUB 文件的 [类似于 VS Code 的代码编辑器](https://itsfoss.com/best-modern-open-source-code-editors-for-linux/)。出于这个原因，你应该使用一些其他 [开源写作工具](https://itsfoss.com/open-source-tools-writers/)，以 epub 格式导出你的文件（如果可能的话），然后在 Sigil 中编辑它。
 
 
-![](/Asserts/Images//attachment/album/202104/23/184504y3tupvm8hzhoa5a8.png)
+![](/Asserts/Images/album/202104/23/184504y3tupvm8hzhoa5a8.png)
 
 
 Sigil 有一个 [Wiki](https://github.com/Sigil-Ebook/Sigil/wiki) 来提供一些安装和使用 Sigil 的文档。
@@ -59,7 +59,7 @@ Sigil 有一个 [Wiki](https://github.com/Sigil-Ebook/Sigil/wiki) 来提供一�
 Sigil 是一款跨平台应用，支持 Windows 和 macOS 以及 Linux。它是一个流行的软件，有超过十年的历史。这就是为什么你应该会在你的 Linux 发行版仓库中找到它。只要在你的发行版的软件中心应用中寻找它就可以了。
 
 
-![Sigil in Ubuntu Software Center](/Asserts/Images//attachment/album/202104/23/184504agu80rlgzudnfz0z.png)
+![Sigil in Ubuntu Software Center](/Asserts/Images/album/202104/23/184504agu80rlgzudnfz0z.png)
 
 
 你可能需要事先启用 universe 仓库。你也可以在 Ubuntu发行版中使用 `apt` 命令：
@@ -74,7 +74,7 @@ sudo apt install sigil
 Sigil 有很多对 Python 库和模块的依赖，因此它下载和安装了大量的包。
 
 
-![](/Asserts/Images//attachment/album/202104/23/184505a2r45r1u27rolrb2.png)
+![](/Asserts/Images/album/202104/23/184505a2r45r1u27rolrb2.png)
 
 
 我不会列出 Fedora、SUSE、Arch 和其他发行版的命令。你可能已经知道如何使用你的发行版的软件包管理器，对吧？

@@ -7,10 +7,10 @@ tags:	[linuxcn,教师,开源,电子邮件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/17/173543dlhszskhseesghle.jpg)
+![](/Asserts/Images/album/202201/17/173543dlhszskhseesghle.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/17/173553kkerts4recbdwrqe.jpg)
+![](/Asserts/Images/album/202201/17/173553kkerts4recbdwrqe.jpg)
 
 
 ### 教计算机学科的教师需要懂计算机吗？
@@ -27,7 +27,7 @@ tags:	[linuxcn,教师,开源,电子邮件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/17/173604apqqxmrwrtimqrxb.jpg)
+![](/Asserts/Images/album/202201/17/173604apqqxmrwrtimqrxb.jpg)
 
 
 ### Faker.js 自毁后，开源社区复刻接管了它
@@ -44,7 +44,7 @@ Faker 是一个生成虚假但合理数据的库，可用于测试和开发，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/17/173620s54zokoinkkto9ik.jpg)
+![](/Asserts/Images/album/202201/17/173620s54zokoinkkto9ik.jpg)
 
 
 ### 服务数百万域名的邮件服务商出现问题后

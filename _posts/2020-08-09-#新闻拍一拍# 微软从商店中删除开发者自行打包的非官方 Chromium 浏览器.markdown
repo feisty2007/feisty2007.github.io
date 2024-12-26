@@ -7,7 +7,7 @@ tags:	[linuxcn,Chromium,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/08/212705zis1s5tm1tdi88g0.jpg)
+![](/Asserts/Images/album/202008/08/212705zis1s5tm1tdi88g0.jpg)
 
 
 #### 微软从商店中删除开发者自行打包的非官方 Chromium 浏览器

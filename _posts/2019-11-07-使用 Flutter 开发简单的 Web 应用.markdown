@@ -7,7 +7,7 @@ tags:	[linuxcn,Flutter]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/23/100430bf3mtnbrv7btftz2.png)
+![](/Asserts/Images/album/201911/23/100430bf3mtnbrv7btftz2.png)
 
 
 
@@ -32,7 +32,7 @@ Flutter 在 Android 和 iOS 开发方面走了很长一段路之后，已经迈�
 * 输入 `flutter –version` 检查版本
 
 
-![图 1: 升级 Flutter 到最新版](/Asserts/Images//attachment/album/201911/23/100433cssnpgpbyl36yl2k.jpg)
+![图 1: 升级 Flutter 到最新版](/Asserts/Images/album/201911/23/100433cssnpgpbyl36yl2k.jpg)
 
 
 也可以将 Android Studio 3.0 或更高版本用于 Flutter Web 开发，但在本教程中，我们使用 Visual Studio Code。
@@ -44,13 +44,13 @@ Flutter 在 Android 和 iOS 开发方面走了很长一段路之后，已经迈�
 打开 Visual Studio Code，然后按 `Shift+Ctrl+P` 开始一个新项目。输入 `flutter` 并选择 “New Web Project”。
 
 
-![图 2：在 VSC 中开始一个新的 Flatter 项目](/Asserts/Images//attachment/album/201911/23/100434qb60zzjwbp86tp1b.jpg)
+![图 2：在 VSC 中开始一个新的 Flatter 项目](/Asserts/Images/album/201911/23/100434qb60zzjwbp86tp1b.jpg)
 
 
 现在，为项目命名。我将其命名为 `open_source_for_you`。
 
 
-![图 3: 给项目命名](/Asserts/Images//attachment/album/201911/23/100436yfc1jpoc2fvdw4pc.jpg)
+![图 3: 给项目命名](/Asserts/Images/album/201911/23/100436yfc1jpoc2fvdw4pc.jpg)
 
 
 在 VSC 中打开终端窗口，然后输入以下命令：
@@ -73,7 +73,7 @@ flutter packages pub global run webdev serve
 打开任何浏览器，然后输入 `http://127.0.0.1:8080/`。
 
 
-![图 4：运行于 8080 端口的 Flutter 演示应用](/Asserts/Images//attachment/album/201911/23/100436umcjtypo5w77owzt.jpg)
+![图 4：运行于 8080 端口的 Flutter 演示应用](/Asserts/Images/album/201911/23/100436umcjtypo5w77owzt.jpg)
 
 
 在项目目录中有个 Web 文件夹，其中包含了 `index.html`。`dart` 文件被编译成 JavaScript 文件，并使用以下代码包含在 HTML 文件中：
@@ -93,7 +93,7 @@ flutter packages pub global run webdev serve
 现在打开 Dart 文件，它位于 `lib` 文件夹 `main.dart`（默认名）中（参见图 5）。
 
 
-![图 5：main.dart 文件的位置](/Asserts/Images//attachment/album/201911/23/100438mippviev39v3vvic.jpg)
+![图 5：main.dart 文件的位置](/Asserts/Images/album/201911/23/100438mippviev39v3vvic.jpg)
 
 
 现在，我们可以在 `MaterialApp` 的属性中删除调试标记，如下所示：
@@ -135,7 +135,7 @@ class MyClass extends StatelessWidget {
 }
 ```
 
-![图 6：MyClass 的输出](/Asserts/Images//attachment/album/201911/23/100439c9pkhk2hp2pg8zpw.jpg)
+![图 6：MyClass 的输出](/Asserts/Images/album/201911/23/100439c9pkhk2hp2pg8zpw.jpg)
 
 
 让我们从互联网中添加一张图片，我已经从一个杂志网站选择了一张 “Open Source for You” 徽标。我们使用 `Image.network`。
@@ -153,7 +153,7 @@ Image.network(
 最终输出如图 7 所示。
 
 
-![图 7：最终输出](/Asserts/Images//attachment/album/201911/23/100439nh9b9ldydxl970u2.jpg)
+![图 7：最终输出](/Asserts/Images/album/201911/23/100439nh9b9ldydxl970u2.jpg)
 
 
 

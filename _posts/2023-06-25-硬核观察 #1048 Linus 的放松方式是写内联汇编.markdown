@@ -7,10 +7,10 @@ tags:	[linuxcn,Linus Torvalds,AI,RHEL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/30/164151e7pddt76ug6979q8.jpg)
+![](/Asserts/Images/album/202306/30/164151e7pddt76ug6979q8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/30/164202f9zjp08o3cr0um92.jpg)
+![](/Asserts/Images/album/202306/30/164202f9zjp08o3cr0um92.jpg)
 
 
 ### Linus 的放松方式是写内联汇编
@@ -35,7 +35,7 @@ Linus Torvalds 在改进一个性能优化补丁后说，“有些人通过在�
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/30/164218dtizn966f55iohfh.jpg)
+![](/Asserts/Images/album/202306/30/164218dtizn966f55iohfh.jpg)
 
 
 ### Rocky Linux 反对红帽的决定，并找出了合法获得 RHEL 源代码的方法
@@ -60,7 +60,7 @@ Linus Torvalds 在改进一个性能优化补丁后说，“有些人通过在�
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/30/164232r0gactdddzccas94.jpg)
+![](/Asserts/Images/album/202306/30/164232r0gactdddzccas94.jpg)
 
 
 ### 微软公开预览 Windows 11 Copilot

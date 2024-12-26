@@ -7,10 +7,10 @@ tags:	[linuxcn,VMware,Linux,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/13/172432a3aa888zf5wfjlj5.jpg)
+![](/Asserts/Images/album/202401/13/172432a3aa888zf5wfjlj5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/13/172444huflnfljubqfblnf.png)
+![](/Asserts/Images/album/202401/13/172444huflnfljubqfblnf.png)
 
 
 ### #1 OpenAI 悄然删除禁止将 ChatGPT 用于 “军事和战争” 的禁令
@@ -38,7 +38,7 @@ tags:	[linuxcn,VMware,Linux,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/13/172503qk8hk5xiect53hx5.png)
+![](/Asserts/Images/album/202401/13/172503qk8hk5xiect53hx5.png)
 
 
 ### #2 博通抛弃 VMware 云服务提供商
@@ -66,7 +66,7 @@ tags:	[linuxcn,VMware,Linux,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/13/172519hbbrklq3cnn5brb3.png)
+![](/Asserts/Images/album/202401/13/172519hbbrklq3cnn5brb3.png)
 
 
 ### #3 Linux 4.14 LTS 在六年后迎来生命终结

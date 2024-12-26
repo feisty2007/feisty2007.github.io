@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE]
 ---
 
 
-![Plasma 5.5](/Asserts/Images//attachment/album/201512/15/101556lwau2muastexl277.jpg)
+![Plasma 5.5](/Asserts/Images/album/201512/15/101556lwau2muastexl277.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,KDE]
 Breeze Plasma <ruby> 部件 <rp>  （ </rp> <rt>  widget </rt> <rp>  ） </rp></ruby>主题现在看起来更和谐了。
 
 
-![Breeze Icons](/Asserts/Images//attachment/album/201512/15/102647g5666srboiivorji.jpg)
+![Breeze Icons](/Asserts/Images/album/201512/15/102647g5666srboiivorji.jpg)
 
 
 Breeze 图标主题增加了一些新图标，也更新了原有图标，改进了视觉设计。
@@ -54,7 +54,7 @@ Plasma <ruby> 部件 <rp>  （ </rp> <rt>  widget </rt> <rp>  ） </rp></ruby>�
 我们不仅仅恢复了<ruby> 颜色吸取器 <rp>  （ </rp> <rt>  Color Picker </rt> <rp>  ） </rp></ruby>，而且我们在 Plasma 5 中给了它一个新的 UI 界面。
 
 
-![颜色吸取器](/Asserts/Images//attachment/album/201512/15/131615ddzfj16i222u1if0.png) 
+![颜色吸取器](/Asserts/Images/album/201512/15/131615ddzfj16i222u1if0.png) 
 
 
 <ruby> 颜色吸取器 <rp>  （ </rp> <rt>  Color Picker </rt> <rp>  ） </rp></ruby>可以让你从屏幕上的任何地方提取颜色，并自动复制颜色代码到剪贴板中，支持多种格式 （RGB、Hex、 Qt QML rgba、 LaTeX）。
@@ -63,7 +63,7 @@ Plasma <ruby> 部件 <rp>  （ </rp> <rt>  widget </rt> <rp>  ） </rp></ruby>�
 #### <ruby> 用户切换器 <rp>  （ </rp> <rt>  User Switcher </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201512/15/131615wu8twz4sttu4l4uj.png)
+![](/Asserts/Images/album/201512/15/131615wu8twz4sttu4l4uj.png)
 
 
 用户切换功能也更新改进了，现在可以从<ruby> 应用启动器 <rp>  （ </rp> <rt>  Application Launcher </rt> <rp>  ） </rp></ruby>、<ruby> 用户切换 <rp>  （ </rp> <rt>  User Switcher </rt> <rp>  ） </rp></ruby>组件和锁屏上访问它了。它会显示用户的全名及用户设置的头像。这在办公室内使用共享的桌面计算机时挺有用，更多信息请看[开发者的博客](http://blog.broulik.de/2015/10/polish-polish-polish-5-5-edition/)。
@@ -87,7 +87,7 @@ Plasma 5.5 有了一个为商业环境或大学设计的新组件，这个组件
 根据反馈，我们重写支持了那些不使用 [StatusNotifier](http://www.freedesktop.org/wiki/Specifications/StatusNotifierItem/) 的旧式应用，它们的图标放在系统托盘区。
 
 
-![旧式系统图标](/Asserts/Images//attachment/album/201512/15/131616fz9gsf99bzgzq1e3.png)
+![旧式系统图标](/Asserts/Images/album/201512/15/131616fz9gsf99bzgzq1e3.png)
 
 
 ### Bug 状态
@@ -108,7 +108,7 @@ Plasma 5.5 有了一个为商业环境或大学设计的新组件，这个组件
 Plasma 5.5 中提供了基本的 Wayland 会话功能。 Wayland 是过时的 X11 窗口系统的继任者，它提供了<ruby> 现代架构 <rp>  （ </rp> <rt>  modern approach </rt> <rp>  ） </rp></ruby>。 这个系统更加安全（例如，键盘记录器就没那么容易弄进去了）。遵循“<ruby> 每帧都完美 <rp>  （ </rp> <rt>  every frame perfect </rt> <rp>  ） </rp></ruby>” 原则，这让我们的显示效果更加完美。 KDE 社区已经在 Plasma 5.4 上基于电话项目的功能集提供了一个技术预览版。在 Plasma 5.5 中现在已经扩展得更适合“桌面风格”使用了。 桌面界面支持了类似窗口移动/调整的重要功能以及许多内置功能。 已经可以初步使用了，尽管我们需要指出的是它还不能完整地替代 X 会话。 我们鼓励更多的技术型用户多试用它，并将你所找到的 bug 汇报给我们。
 
 
-![锁屏](/Asserts/Images//attachment/album/201512/15/120330wyydi4xiaot2xod2.jpg)
+![锁屏](/Asserts/Images/album/201512/15/120330wyydi4xiaot2xod2.jpg)
 
 
 为了配置 Wayland 会话所连接的屏幕，我们创建了一个新的[屏幕管理协议](http://vizzzion.org/blog/2015/11/screen-management-in-wayland/) 。
@@ -129,7 +129,7 @@ Wayland 会话上的 Plasma 现在有了一个特色的安全锁屏， 其中有
 通过 KDE Visual Design Group 的帮助，我们的软件安装器有了新外观，改进了可用性。
 
 
-![Discover](/Asserts/Images//attachment/album/201512/15/124843klimzduecrk6dqbv.jpg)
+![Discover](/Asserts/Images/album/201512/15/124843klimzduecrk6dqbv.jpg)
 
 
 ### 新的默认字体
@@ -138,7 +138,7 @@ Wayland 会话上的 Plasma 现在有了一个特色的安全锁屏， 其中有
 我们的默认字体切换到了 [Noto](https://www.google.com/get/noto/) ，这是一个漂亮的自由字体，它可以让各种语言都保持和谐的感受。
 
 
-![noto](/Asserts/Images//attachment/album/201512/15/125118bl3l7y39zklyllk3.jpg)
+![noto](/Asserts/Images/album/201512/15/125118bl3l7y39zklyllk3.jpg)
 
 
 ### 信息中心
@@ -147,7 +147,7 @@ Wayland 会话上的 Plasma 现在有了一个特色的安全锁屏， 其中有
 文件索引器增加了一个状态模块。
 
 
- ![文件索引器状态](/Asserts/Images//attachment/album/201512/15/131616oxdffchd979nndf0.png)
+ ![文件索引器状态](/Asserts/Images/album/201512/15/131616oxdffchd979nndf0.png)
 
 
 ### Plasma 网络管理器

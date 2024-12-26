@@ -7,7 +7,7 @@ tags:	[linuxcn,CI,CD,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/03/110314hhrbobyxzd55dhho.jpg)
+![](/Asserts/Images/album/202110/03/110314hhrbobyxzd55dhho.jpg)
 
 
 [GitHub Actions](https://docs.github.com/en/actions) 是一项为快速建立持续集成和交付（CI/CD）工作流程而提供的服务。这些工作流程在被称为“<ruby> 运行器 <rt>  runner </rt></ruby>”的主机上运行。GitHub 提供的 [托管运行器](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners) 的操作系统的选择是有限的（Windows Server、Ubuntu、MacOS）。

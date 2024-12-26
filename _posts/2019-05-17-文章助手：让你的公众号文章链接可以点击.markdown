@@ -7,7 +7,7 @@ tags:	[linuxcn,小程序]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/10/113354bbjgnubwurruj4eu.jpg)
+![](/Asserts/Images/album/201905/10/113354bbjgnubwurruj4eu.jpg)
 
 
 经常看公众号文章的人都知道，一般而言，公众号内是无法放超链接的。这对于一般的文章来说其实不要紧，但是对于我们这种技术类的文章，往往会带有很多链接，而不能插入链接，会导致一篇文章的价值和可信性降低。
@@ -51,7 +51,7 @@ tags:	[linuxcn,小程序]
 1、在微信文章编辑器中，点击插入“小程序”，输入“文章助手”查找（使用这个小程序不需要公众号关联）：
 
 
-![选择小程序](/Asserts/Images//attachment/album/201905/10/105251ablfjemibbeegibf.jpg)
+![选择小程序](/Asserts/Images/album/201905/10/105251ablfjemibbeegibf.jpg)
 
 
 就是这个大眼睛，然后下一步：
@@ -60,7 +60,7 @@ tags:	[linuxcn,小程序]
 2、这里输入路径“`/pages/a?link=链接地址&title=链接标题`”，请使用你的**链接**和**链接标题**分别替换路径参数：
 
 
-![输入路径](/Asserts/Images//attachment/album/201905/10/105449s9kdkj9k5i8x28dj.jpg)
+![输入路径](/Asserts/Images/album/201905/10/105449s9kdkj9k5i8x28dj.jpg)
 
 
 当然，展示方式你也可以不使用“文字”，选择图片也是可以的。
@@ -69,7 +69,7 @@ tags:	[linuxcn,小程序]
 插入文字链接后效果如下：
 
 
-![小程序链接效果](/Asserts/Images//attachment/album/201905/10/105814umyhj67jfxdy1jxw.jpg)
+![小程序链接效果](/Asserts/Images/album/201905/10/105814umyhj67jfxdy1jxw.jpg)
 
 
 ### 小程序效果
@@ -78,7 +78,7 @@ tags:	[linuxcn,小程序]
 读者在看到你推送的公众号文章后，看到这种熟悉的链接样式，自然而然就知道可以点击了。点击后，会弹出如下小程序界面：
 
 
-![小程序界面](/Asserts/Images//attachment/album/201905/10/110157fz00xxs22p5ip2p5.jpg)
+![小程序界面](/Asserts/Images/album/201905/10/110157fz00xxs22p5ip2p5.jpg)
 
 
 “文章助手”小程序会显示该链接，并自动复制到剪贴板。当你的剪贴板内有较多内容时，不会自动复制，以避免冲掉你的重要内容。这种情况下，可以点击一下链接框，手动复制即可。

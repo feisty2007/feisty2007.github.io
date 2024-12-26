@@ -24,7 +24,7 @@ tags:	[linuxcn,LXD]
 12. [调试，及给 LXD 做贡献](/article-8282-1.html)
 
 
-![](/Asserts/Images//attachment/album/201703/02/095159je9wsbxxqze97qjw.jpg)
+![](/Asserts/Images/album/201703/02/095159je9wsbxxqze97qjw.jpg)
 
 
 ### 介绍

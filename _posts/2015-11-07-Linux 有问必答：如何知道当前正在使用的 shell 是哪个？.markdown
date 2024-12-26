@@ -18,7 +18,7 @@ tags:	[linuxcn,shell]
 ### 找到你当前正在使用的 Shell 版本
 
 
-![](/Asserts/Images//attachment/album/201511/27/065300nnznqys2g616ovgw.jpg)
+![](/Asserts/Images/album/201511/27/065300nnznqys2g616ovgw.jpg)
 
 
 有多种方式可以查看你目前在使用什么 shell，最简单的方法就是通过使用 shell 的特殊参数。
@@ -61,7 +61,7 @@ $ echo $SHELL
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/27/065311b9q9bwn8wvc9qc2c.jpg)
+![](/Asserts/Images/album/201511/27/065311b9q9bwn8wvc9qc2c.jpg)
 
 
 因此，找出当前的shell，你应该使用 $$ 或 $0，但不是 $SHELL。

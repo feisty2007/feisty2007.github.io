@@ -7,7 +7,7 @@ tags:	[linuxcn,命令,kill]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/17/001608igdrpdwg2drzptpf.jpg)
+![](/Asserts/Images/album/201804/17/001608igdrpdwg2drzptpf.jpg)
 
 
 虽然现在不是万圣节，也可以关注一下 Linux 可怕的一面。什么命令可能会显示鬼、巫婆和僵尸的图像？哪个会鼓励“不给糖果就捣蛋”的精神？

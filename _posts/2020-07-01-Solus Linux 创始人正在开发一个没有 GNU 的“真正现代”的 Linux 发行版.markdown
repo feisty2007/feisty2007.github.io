@@ -19,7 +19,7 @@ tags:	[linuxcn,Linux,GNU]
 ### Serpent OS：制作“真正现代”的 Linux 发行版
 
 
-![](/Asserts/Images//attachment/album/202007/10/100350vw0a5pc650c0za6z.jpg)
+![](/Asserts/Images/album/202007/10/100350vw0a5pc650c0za6z.jpg)
 
 
 Serpent 采用发行版优先，兼容靠后的方法。这使他们可以做出一些非常大胆的决定。

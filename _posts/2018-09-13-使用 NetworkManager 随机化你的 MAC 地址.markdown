@@ -7,7 +7,7 @@ tags:	[linuxcn,MAC,Wi-Fi]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/19/081148cn996dvan14mnl46.png)
+![](/Asserts/Images/album/201809/19/081148cn996dvan14mnl46.png)
 
 
 今时今日，无论在家里的沙发上，还是在外面的咖啡厅，只要打开笔记本电脑，连上 Wi-Fi，就能通过网络与外界保持联系。但现在的 Wi-Fi 热点们大都能够通过[每张网卡对应的唯一 MAC 地址](https://en.wikipedia.org/wiki/MAC_address)来追踪你的设备。下面就来看一下如何避免被追踪。

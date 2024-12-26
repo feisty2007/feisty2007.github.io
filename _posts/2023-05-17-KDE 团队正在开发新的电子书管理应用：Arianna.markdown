@@ -7,7 +7,7 @@ tags:	[linuxcn,电子书]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/02/144229yuyuecfuueeujue6.png)
+![](/Asserts/Images/album/202305/02/144229yuyuecfuueeujue6.png)
 
 
 
@@ -33,13 +33,13 @@ Arianna 的实际阅读界面很简单，唯一的目的就是展示书的内容
 以下是来自公告的一些截图：
 
 
-![Arianna - 主视图](/Asserts/Images//attachment/album/202305/02/150035j3g06d161m9m9z1u.jpg)
+![Arianna - 主视图](/Asserts/Images/album/202305/02/150035j3g06d161m9m9z1u.jpg)
 
 
-![阅读视图](/Asserts/Images//attachment/album/202305/02/150043zh8l9dqhnttnede9.jpg)
+![阅读视图](/Asserts/Images/album/202305/02/150043zh8l9dqhnttnede9.jpg)
 
 
-![作者视图](/Asserts/Images//attachment/album/202305/02/150049z94i6jznyqijja6y.jpg)
+![作者视图](/Asserts/Images/album/202305/02/150049z94i6jznyqijja6y.jpg)
 
 
 该应用在 Flathub 中以 Flatpak 的形式提供。你需要使用[本指南](https://www.debugpoint.com/how-to-install-flatpak-apps-ubuntu-linux/)为你的 Linux 发行版设置 Flatpak/Flathub。并使用以下命令安装它。

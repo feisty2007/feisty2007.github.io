@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,Bcachefs,macOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/02/070230rzgxpyhhypigk6ip.jpg)
+![](/Asserts/Images/album/202311/02/070230rzgxpyhhypigk6ip.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/02/070238ag0tsz76k98rlr4h.jpg)
+![](/Asserts/Images/album/202311/02/070238ag0tsz76k98rlr4h.jpg)
 
 
 ### 哪些搜索关键词能让谷歌赚钱
@@ -60,7 +60,7 @@ Bcachefs 曾在 Linux 6.5 中被 [否决](/article-15989-1.html)，后来又在 
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/02/070317snhhr07tzbgeriao.jpg)
+![](/Asserts/Images/album/202311/02/070317snhhr07tzbgeriao.jpg)
 
 
 ### Asahi Linux 化身 macOS 漏洞猎人

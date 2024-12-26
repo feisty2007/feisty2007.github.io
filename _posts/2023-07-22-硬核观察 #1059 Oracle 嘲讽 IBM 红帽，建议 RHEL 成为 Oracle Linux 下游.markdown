@@ -7,10 +7,10 @@ tags:	[linuxcn,CentOS,RHEL,Oracle,SUSE,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/11/203252hoodhhyq6n8888qy.jpg)
+![](/Asserts/Images/album/202307/11/203252hoodhhyq6n8888qy.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/11/203304q62x4cnow64bc3mz.jpg)
+![](/Asserts/Images/album/202307/11/203304q62x4cnow64bc3mz.jpg)
 
 
 ### Oracle 嘲讽 IBM/红帽，建议 RHEL 成为 Oracle Linux 下游
@@ -35,7 +35,7 @@ tags:	[linuxcn,CentOS,RHEL,Oracle,SUSE,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/11/203315mf7n0yoo7b3a88bf.jpg)
+![](/Asserts/Images/album/202307/11/203315mf7n0yoo7b3a88bf.jpg)
 
 
 ### SUSE 也来踩上一脚，宣布将复刻一个 RHEL 兼容发行版
@@ -60,7 +60,7 @@ tags:	[linuxcn,CentOS,RHEL,Oracle,SUSE,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/11/203329ft7i6l77t6t3n9ih.jpg)
+![](/Asserts/Images/album/202307/11/203329ft7i6l77t6t3n9ih.jpg)
 
 
 ### Bcachefs 文件系统无缘 Linux 6.5，Torvalds 呼吁大家保持冷静

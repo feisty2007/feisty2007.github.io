@@ -16,7 +16,7 @@ tags:	[linuxcn,ls,面试,命令]
 这篇文章通过样例来很好地展现‘ls’命令的深入应用，我们加倍小心地来写这篇文章来保持其简洁可理解性，同时又能提供最全面的服务。
 
 
-![10 Interview Questions on ls Command](/Asserts/Images//attachment/album/201504/28/144458nffwcu3u7zhbmgw3.jpg)
+![10 Interview Questions on ls Command](/Asserts/Images/album/201504/28/144458nffwcu3u7zhbmgw3.jpg)
 
 
 *10 ‘ls’ 命令面试的问题*
@@ -34,7 +34,7 @@ a. ls 命令在与‘-l’选项一起使用时会将文件以长列表格式输
 
 ```
 
-![List Files in- Long List Format](/Asserts/Images//attachment/album/201504/28/144459l1zr1eupu04k4ch4.gif)
+![List Files in- Long List Format](/Asserts/Images/album/201504/28/144459l1zr1eupu04k4ch4.gif)
 
 
 *以长格式列出文件*
@@ -49,7 +49,7 @@ b. ls 命令在与‘-l’和‘--author’一起使用时，会将文件以长�
 
 ```
 
-![List Files By Author](/Asserts/Images//attachment/album/201504/28/144500tvg1fwg70h777ihy.gif)
+![List Files By Author](/Asserts/Images/album/201504/28/144500tvg1fwg70h777ihy.gif)
 
 
 *列出文件的创建者*
@@ -64,7 +64,7 @@ c. ls 命令在与‘-g’选项 一起将会列出文件名但是不带属主�
 
 ```
 
-![List Files Without Printing Owner Name](/Asserts/Images//attachment/album/201504/28/144500jycnpkxm2befkcbb.gif)
+![List Files Without Printing Owner Name](/Asserts/Images/album/201504/28/144500jycnpkxm2befkcbb.gif)
 
 
 *列出文件但不列出属主*
@@ -79,7 +79,7 @@ d. ls 命令在与'-G'和‘-l’选项一起将会使用长列表格式列出�
 
 ```
 
-![List Files Without Printing Group](/Asserts/Images//attachment/album/201504/28/144500ghhae8eurnnhh89h.gif)
+![List Files Without Printing Group](/Asserts/Images/album/201504/28/144500ghhae8eurnnhh89h.gif)
 
 
 *列出文件但是不列出所属组*
@@ -97,7 +97,7 @@ d. ls 命令在与'-G'和‘-l’选项一起将会使用长列表格式列出�
 
 ```
 
-![List Files in Human Readable Format](/Asserts/Images//attachment/album/201504/28/144501soucnuxpxfpbrups.gif)
+![List Files in Human Readable Format](/Asserts/Images/album/201504/28/144501soucnuxpxfpbrups.gif)
 
 
 *以易读格式的长列表列出文件*
@@ -109,7 +109,7 @@ d. ls 命令在与'-G'和‘-l’选项一起将会使用长列表格式列出�
 
 ```
 
-![List File Sizes in Long List Format](/Asserts/Images//attachment/album/201504/28/144501h07ujw9wkusdt0s7.gif)
+![List File Sizes in Long List Format](/Asserts/Images/album/201504/28/144501h07ujw9wkusdt0s7.gif)
 
 
 *以易读格式的短列表列出文件*
@@ -154,7 +154,7 @@ d. ls 命令在与'-G'和‘-l’选项一起将会使用长列表格式列出�
 
 ```
 
-![Print Contents of Directory by Comma](/Asserts/Images//attachment/album/201504/28/144502twqls8i1zv10wf0x.gif)
+![Print Contents of Directory by Comma](/Asserts/Images/album/201504/28/144502twqls8i1zv10wf0x.gif)
 
 
 *以逗号分隔显示内容*
@@ -169,7 +169,7 @@ d. ls 命令在与'-G'和‘-l’选项一起将会使用长列表格式列出�
 
 ```
 
-![Listing Content Horizontally](/Asserts/Images//attachment/album/201504/28/144502ybvhqldpr2qqsbgl.gif)
+![Listing Content Horizontally](/Asserts/Images/album/201504/28/144502ybvhqldpr2qqsbgl.gif)
 
 
 *长列表不能使用逗号分隔列表*
@@ -187,7 +187,7 @@ d. ls 命令在与'-G'和‘-l’选项一起将会使用长列表格式列出�
 
 ```
 
-![List Content in Reverse Order](/Asserts/Images//attachment/album/201504/28/144502q76lj6ogz6hcfofz.gif)
+![List Content in Reverse Order](/Asserts/Images/album/201504/28/144502q76lj6ogz6hcfofz.gif)
 
 
 *逆序列出*
@@ -199,7 +199,7 @@ d. ls 命令在与'-G'和‘-l’选项一起将会使用长列表格式列出�
 
 ```
 
-![Long List Content in Reverse Order](/Asserts/Images//attachment/album/201504/28/144503x5f5lxmkq1x5uzmf.gif)
+![Long List Content in Reverse Order](/Asserts/Images/album/201504/28/144503x5f5lxmkq1x5uzmf.gif)
 
 
 *逆序长列表*
@@ -217,7 +217,7 @@ d. ls 命令在与'-G'和‘-l’选项一起将会使用长列表格式列出�
 
 ```
 
-![Print Sub Directories in Recursively](/Asserts/Images//attachment/album/201504/28/144504p6dbxes4zg1bjgy5.gif)
+![Print Sub Directories in Recursively](/Asserts/Images/album/201504/28/144504p6dbxes4zg1bjgy5.gif)
 
 
 *递归列出子目录*
@@ -235,7 +235,7 @@ linux命令行选项'-S'赋予了ls命令这个超能力。按照文件大小从
 
 ```
 
-![Sort Files with ls Command](/Asserts/Images//attachment/album/201504/28/144504ittn2png22nkg32k.gif) *按文件大小排序*
+![Sort Files with ls Command](/Asserts/Images/album/201504/28/144504ittn2png22nkg32k.gif) *按文件大小排序*
 
 
 按照文件大小从小到大的顺序排序。
@@ -247,7 +247,7 @@ linux命令行选项'-S'赋予了ls命令这个超能力。按照文件大小从
 
 ```
 
-![Sort Files in Descending Order](/Asserts/Images//attachment/album/201504/28/144505ttho8fgocuc0hbzm.gif)
+![Sort Files in Descending Order](/Asserts/Images/album/201504/28/144505ttho8fgocuc0hbzm.gif)
 
 
 *从小到大的排序*
@@ -265,7 +265,7 @@ linux命令行选项'-S'赋予了ls命令这个超能力。按照文件大小从
 
 ```
 
-![List Files Without Information](/Asserts/Images//attachment/album/201504/28/144506wlaezzxn4nzzyk4x.gif)
+![List Files Without Information](/Asserts/Images/album/201504/28/144506wlaezzxn4nzzyk4x.gif)
 
 
 *不带其他信息，一行一个列出文件*
@@ -283,7 +283,7 @@ linux命令行选项'-S'赋予了ls命令这个超能力。按照文件大小从
 
 ```
 
-![Print Files with Double Quotes](/Asserts/Images//attachment/album/201504/28/144506d8rshormsf2fffru.gif)
+![Print Files with Double Quotes](/Asserts/Images/album/201504/28/144506d8rshormsf2fffru.gif)
 
 
 *输出的文件名用引号引起来*
@@ -298,7 +298,7 @@ linux命令行选项'-S'赋予了ls命令这个超能力。按照文件大小从
 
 ```
 
-![Print Directories First](/Asserts/Images//attachment/album/201504/28/144507elhcp4cpz4cwp1qw.gif)
+![Print Directories First](/Asserts/Images/album/201504/28/144507elhcp4cpz4cwp1qw.gif)
 
 
 *目录优先显示*

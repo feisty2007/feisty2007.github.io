@@ -10,7 +10,7 @@ tags:	[linuxcn,VirtualBox,VBoxManage]
 VirtualBox 拥有一套命令行工具，你可以使用 VirtualBox 的命令行界面 (CLI) 对远程无界面的服务器上的虚拟机进行管理操作。在这篇教程中，你将会学到如何在没有 GUI 的情况下使用 VBoxManage 创建、启动一个虚拟机。VBoxManage 是 VirtualBox 的命令行界面，你可以在你的主机操作系统的命令行中用它来实现对 VirtualBox 的所有操作。VBoxManage 拥有图形化用户界面所支持的全部功能，而且它支持的功能远不止这些。它提供虚拟引擎的所有功能，甚至包含 GUI 还不能实现的那些功能。如果你想尝试下不同的用户界面而不仅仅是 GUI，或者更改虚拟机更多高级和实验性的配置，那么你就需要用到命令行。
 
 
-![](/Asserts/Images//attachment/album/201607/15/230529cnth1ldbxv1hcx9p.jpg)
+![](/Asserts/Images/album/201607/15/230529cnth1ldbxv1hcx9p.jpg)
 
 
 当你想要在 VirtualBox 上创建或运行虚拟机时，你会发现 VBoxManage 非常有用，你只需要使用远程主机的终端就够了。这对于需要远程管理虚拟机的服务器来说是一种常见的情形。
@@ -28,7 +28,7 @@ VirtualBox 拥有一套命令行工具，你可以使用 VirtualBox 的命令行
 通过 [Virtual Box 下载页](https://www.virtualbox.org/wiki/Downloads) 这个链接，你能够获取你所需要的软件扩展包的最新版本，扩展包的版本和你安装的 VirtualBox 版本需要一致！
 
 
-![](/Asserts/Images//attachment/album/201607/15/230605qlw7w134x4l4w4dg.png)
+![](/Asserts/Images/album/201607/15/230605qlw7w134x4l4w4dg.png)
 
 
 也可以用下面这条命令来获取 VBoxManage 扩展。
@@ -40,7 +40,7 @@ $ wget http://download.virtualbox.org/virtualbox/5.0.20/Oracle_VM_VirtualBox_Ext
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/15/230614h7xo0j3u008g4j7o.png)
+![](/Asserts/Images/album/201607/15/230614h7xo0j3u008g4j7o.png)
 
 
 运行下面这条命令，确认 VBoxManage 已经成功安装在你的机器上。
@@ -52,7 +52,7 @@ $ VBoxManage list extpacks
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/15/230616y8sbtk478ab8b88a.png)
+![](/Asserts/Images/album/201607/15/230616y8sbtk478ab8b88a.png)
 
 
 ### 在 Ubuntu 16.04 上使用 VBoxManage
@@ -103,7 +103,7 @@ $ VBoxManage modifyvm Ubuntu10.10 --memory 512
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/15/230632p8bbczg8fz8vr02b.png)
+![](/Asserts/Images/album/201607/15/230632p8bbczg8fz8vr02b.png)
 
 
 现在用下面这个命令为虚拟机创建一个存储控制器。
@@ -164,7 +164,7 @@ $ VBoxManage modifyvm Ubuntu10.10 --vram 128 --accelerate3d on --audio alsa --au
 然后会打开一个新窗口，新窗口里虚拟机通过关联文件中引导。
 
 
-![](/Asserts/Images//attachment/album/201607/15/230634rfpttdr6su066sd8.png)
+![](/Asserts/Images/album/201607/15/230634rfpttdr6su066sd8.png)
 
 
 你可以用接下来的命令来关掉虚拟机。
@@ -185,7 +185,7 @@ $VBoxManage controlvm
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/15/230642amzm2lml2a5z4m1m.png)
+![](/Asserts/Images/album/201607/15/230642amzm2lml2a5z4m1m.png)
 
 
 ### 完结

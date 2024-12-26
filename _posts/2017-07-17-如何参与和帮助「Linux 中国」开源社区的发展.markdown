@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux中国,社区]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/05/185901umgjt4q4r4wkgjeq.jpg)
+![](/Asserts/Images/album/201707/05/185901umgjt4q4r4wkgjeq.jpg)
 
 
 经常有朋友问到，“我如何参与「Linux 中国」开源社区，如果[帮助社区发展](/article-8653-1.html)？”

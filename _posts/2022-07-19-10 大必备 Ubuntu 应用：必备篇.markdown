@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,应用]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/18/183730r55l353ni64aiiu4.jpg)
+![](/Asserts/Images/album/202207/18/183730r55l353ni64aiiu4.jpg)
 
 
 
@@ -37,7 +37,7 @@ tags:	[linuxcn,Ubuntu,应用]
 你是否想要在处理重要工作时使用快捷键打开一个终端？这款下拉式的终端程序 Guake 能够帮你实现。如果你正忙于写文章、剪辑视频、在你最喜欢的代码编辑器中写代码，并想要快速用终端检查一些东西并返回到工作中，Guake 能够帮助你。只用按 `F12` 终端就会立即出现，再次按 `F12` 它会消失，不用打开或关闭不同的终端。
 
 
-![Guake Running in Ubuntu](/Asserts/Images//attachment/album/202207/18/183735dbjecagb2bblol6j.gif)
+![Guake Running in Ubuntu](/Asserts/Images/album/202207/18/183735dbjecagb2bblol6j.gif)
 
 
 在 Ubuntu 或其他发行版，你可以使用以下命令安装。如需更多下载选项，请访问 [此页面](https://guake.readthedocs.io/en/latest/user/installing.html#system-wide-installation)。
@@ -68,7 +68,7 @@ Safe Eyes 这款应用会在你的工作期间为你提供“顺时针转动眼�
 我认为它是每个人都应该尝试使用的一款 Ubuntu 应用。
 
 
-![Safe Eyes](/Asserts/Images//attachment/album/202207/18/183735y8jhotnr8aa8t3yr.gif)
+![Safe Eyes](/Asserts/Images/album/202207/18/183735y8jhotnr8aa8t3yr.gif)
 
 
 通过 PPA 可以很容易在 Ubuntu 上安装 Safe Eyes 。你可以打开终端并使用以下命令安装这款应用。
@@ -108,7 +108,7 @@ Tusk 是适用于 Ubuntu/Linux 的新款印象笔记式桌面应用程序。它�
 * 将笔记导出为 HTML、PDF 和 Markdown 格式
 
 
-![Tusk](/Asserts/Images//attachment/album/202207/18/183736ud7o6md7hop566mo.gif)
+![Tusk](/Asserts/Images/album/202207/18/183736ud7o6md7hop566mo.gif)
 
 
 该应用有用于 Linux 发行版的 AppImage 、Deb 和 RPM 文件等格式。你可以从以下链接下载 deb 文件并运行它以在 Ubuntu 中安装它。有关其他下载选项，请访问 [此页面](https://github.com/klaussinani/tusk/releases/)。
@@ -145,7 +145,7 @@ Tusk 是适用于 Ubuntu/Linux 的新款印象笔记式桌面应用程序。它�
 * 支持 Python 脚本扩展
 
 
-![Krita Drawing Program](/Asserts/Images//attachment/album/202207/18/183737gi3rl8ib8i3ratl6.jpg)
+![Krita Drawing Program](/Asserts/Images/album/202207/18/183737gi3rl8ib8i3ratl6.jpg)
 
 
 在所有的 Linux 发行版的官方仓库都有 Krita ，所以很容易安装。在 Ubuntu 中，你可以在应用商店里搜索并安装。如果你更喜欢使用终端安装，可以运行如下指令：
@@ -174,7 +174,7 @@ sudo apt install krita
 如果你想要一个漂亮而优美的电子书阅读器，非它莫属。
 
 
-![Foliate](/Asserts/Images//attachment/album/202207/18/183737swqgmkr9qq4t9ltw.jpg)
+![Foliate](/Asserts/Images/album/202207/18/183737swqgmkr9qq4t9ltw.jpg)
 
 
 使用 Linux 发行版的 Flatpak 安装 Foliate 很容易。首先，你需要 [设置 Flatpak](https://www.debugpoint.com/how-to-install-flatpak-apps-ubuntu-linux/) 并单击下方链接进行安装。
@@ -204,7 +204,7 @@ sudo apt install krita
 Bitwarden 是一款自由开源的密码管理器，能够轻松帮助你生成、存储并保存密码。在 AES-256 加密的支持下，Bitwarden 能够在不同设备，比如手机和平板自动同步密码。
 
 
-![Bitwarden Password Manager desktop client](/Asserts/Images//attachment/album/202207/18/183738r7ud4i23dj1zuu51.jpg)
+![Bitwarden Password Manager desktop client](/Asserts/Images/album/202207/18/183738r7ud4i23dj1zuu51.jpg)
 
 
 你可以从 [此页面](https://bitwarden.com/download/) 下载可执行安装包文件。此外，如果你打算在你最喜欢的浏览器中使用它，也可以在该页面中获取扩展。
@@ -226,7 +226,7 @@ Brave 是一款基于 Chromium 的以隐私为中心的浏览器。它非常适�
 最近，Brave 还推出了电子邮件服务，你可以直接从浏览器访问邮件。此外，它具备一些 Firefox 、 Chrome 以及 Safari 所没有的优点。
 
 
-![Brave Browser](/Asserts/Images//attachment/album/202207/18/183739use0t7m0ce00m5kp.jpg)
+![Brave Browser](/Asserts/Images/album/202207/18/183739use0t7m0ce00m5kp.jpg)
 
 
 在 Ubuntu 终端上安装这款浏览器需要额外的命令。你可以 [在此](https://brave.com/linux/#release-channel-installation) 找到相信的下载教程。
@@ -247,7 +247,7 @@ Mailspring 支持多个账户、统一邮箱，并且支持触控和手势。它
 它还有一个付费版本，只需要每月付出少量费用，即可得到更多功能，例如创建公司简介、链接跟踪、阅读回执、模板和洞察力功能。专业版中的洞察力功能提供了你在一天中何时收到更多电子邮件的详细信息。
 
 
-![Mailspring Email Client](/Asserts/Images//attachment/album/202207/18/183739zxw52x3ieigxjnen.jpg)
+![Mailspring Email Client](/Asserts/Images/album/202207/18/183739zxw52x3ieigxjnen.jpg)
 
 
 这款应用可以通过 Snap 和 Deb 文件在 Ubuntu 或其他相关 Linux 上安装。
@@ -272,7 +272,7 @@ Mailspring 支持多个账户、统一邮箱，并且支持触控和手势。它
 我肯定你听说过 Blender 。 Blender 是一款自由开源的专业级图形设计软件，几乎可以完成你的图形项目的一切需求。
 
 
-![Blender Video Editor](/Asserts/Images//attachment/album/202207/18/183740dpmqvvo3no3m2yi2.jpg)
+![Blender Video Editor](/Asserts/Images/album/202207/18/183740dpmqvvo3no3m2yi2.jpg)
 
 
 你可以创建动画电影、视觉效果、艺术作品、3D 打印模型、动态图形、交互式 3D 应用程序和计算机游戏。 Blender 的功能包括 3D 建模、UV 展开、贴图、光栅图形编辑、套索和蒙皮、流体和烟雾模拟、粒子模拟、柔体模拟、雕刻、动画、匹配移动、渲染、运动图形、视频编辑和合成。
@@ -313,7 +313,7 @@ sudo apt install blender
 或许一个合适的浏览器，才会有最好的 Chromium 体验。
 
 
-![Ungoogled-Chromium](/Asserts/Images//attachment/album/202207/18/183741q3xy6nx8fc2z56kx.jpg)
+![Ungoogled-Chromium](/Asserts/Images/album/202207/18/183741q3xy6nx8fc2z56kx.jpg)
 
 
 使用 Flatpak 安装 Ungoogled Chromium 很容易。首先设置 [Flatpak](https://www.debugpoint.com/how-to-install-flatpak-apps-ubuntu-linux/) 然后使用下列命令安装该浏览器：
@@ -331,7 +331,7 @@ flatpak install flathub com.github.Eloston.UngoogledChromium
 ### Tilix
 
 
-![Tilix Terminal Window](/Asserts/Images//attachment/album/202207/18/183741pwnzzuw3cll5lynw.jpg)
+![Tilix Terminal Window](/Asserts/Images/album/202207/18/183741pwnzzuw3cll5lynw.jpg)
 
 
 必备 Ubuntu 应用程序列表中的最后一个应用程序是 Tilix 。Tilix 是一个基于 GTK 的，平铺式的终端仿真器。它带有自定义标题、以及通知支持（用于命令补完）和透明背景图像支持。此外，Tilix 还允许你在终端窗口中添加自定义图像背景。最后，你可以在一个窗口中并排创建多个终端窗口。

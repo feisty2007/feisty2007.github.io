@@ -7,7 +7,7 @@ tags:	[linuxcn,GitHub,VS Code]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/24/160055gt5d5u6dk5f4f5e7.jpg)
+![](/Asserts/Images/album/202304/24/160055gt5d5u6dk5f4f5e7.jpg)
 
 
 VS Code 无疑是最受欢迎的代码编辑器之一。同样，GitHub 是编码人员中最受欢迎的平台。
@@ -39,7 +39,7 @@ VS Code 无疑是最受欢迎的代码编辑器之一。同样，GitHub 是编�
 一种方法是转到 VS Code 中的源代码管理视图。如果未安装 Git，它会要求你下载它。
 
 
-![Checking if Git is installed via VS Code](/Asserts/Images//attachment/album/202304/24/160059e1qgm4u1qxy4yj1x.png)
+![Checking if Git is installed via VS Code](/Asserts/Images/album/202304/24/160059e1qgm4u1qxy4yj1x.png)
 
 
 另一件事是你**需要配置 Git 用户名和电子邮件**。
@@ -54,25 +54,25 @@ VS Code 内置了 GitHub 集成。你不需要安装任何扩展来克隆仓库�
 从左侧边栏转到源代码选项卡。你应该看到 “<ruby> 克隆仓库 <rt>  Clone Repository </rt></ruby>” 或 “<ruby> 发布到 GitHub <rt>  Publish to GitHub </rt></ruby>”（如果你已经打开了一个文件夹）选项。单击 “<ruby> 克隆仓库 <rt>  Clone Repository </rt></ruby>” 并为其提供 GitHub 仓库链接或单击 “<ruby> 从 GitHub 克隆 <rt>  Clone from GitHub </rt></ruby>”。
 
 
-![Cloning GitHub repo in VS Code](/Asserts/Images//attachment/album/202304/24/160059mwmumgyyypwplzym.png)
+![Cloning GitHub repo in VS Code](/Asserts/Images/album/202304/24/160059mwmumgyyypwplzym.png)
 
 
 然后它会显示一条消息，要求你登录 GitHub。
 
 
-![VS Code asking to sign in to GitHub](/Asserts/Images//attachment/album/202304/24/160100ndlghrdduycgdzch.png)
+![VS Code asking to sign in to GitHub](/Asserts/Images/album/202304/24/160100ndlghrdduycgdzch.png)
 
 
 你单击“<ruby> 允许 <rt>  Allow </rt></ruby>”按钮，它将打开 GitHub 登录页面。
 
 
-![Connect GitHub to VS Code](/Asserts/Images//attachment/album/202304/24/160100gv6nn4v4q70rnwnx.png)
+![Connect GitHub to VS Code](/Asserts/Images/album/202304/24/160100gv6nn4v4q70rnwnx.png)
 
 
 如果你尝试克隆一个仓库，你应该会看到这样的消息并单击 “<ruby> 打开 <rt>  Open </rt></ruby>”。
 
 
-![Opening GitHub repo in VS Code](/Asserts/Images//attachment/album/202304/24/160100qewnme0735mzmoxm.png)
+![Opening GitHub repo in VS Code](/Asserts/Images/album/202304/24/160100qewnme0735mzmoxm.png)
 
 
 这应该需要几秒钟，你就会登录到你的 GitHub 帐户。
@@ -84,13 +84,13 @@ VS Code 内置了 GitHub 集成。你不需要安装任何扩展来克隆仓库�
 好吧，它将开始在顶部视图中显示你的 GitHub 仓库（如果有的话）（如果你之前按下了“克隆存储库”）。
 
 
-![GitHub repos accessible from VS Code](/Asserts/Images//attachment/album/202304/24/160100x9lz08r90kswne49.png)
+![GitHub repos accessible from VS Code](/Asserts/Images/album/202304/24/160100x9lz08r90kswne49.png)
 
 
 或者，你可以单击左下角的配置文件图标，查看它是否显示你已登录到你的 GitHub 帐户。
 
 
-![Checking if VS Code logged into GitHub account](/Asserts/Images//attachment/album/202304/24/160101b00jggzdmjqmjg8f.png)
+![Checking if VS Code logged into GitHub account](/Asserts/Images/album/202304/24/160101b00jggzdmjqmjg8f.png)
 
 
 ### 在 GitHub 中克隆一个 GitHub 仓库
@@ -108,7 +108,7 @@ VS Code 内置了 GitHub 集成。你不需要安装任何扩展来克隆仓库�
 这很简单。在 VS Code 中打开一个新窗口。
 
 
-![Open a new window in VS Code](/Asserts/Images//attachment/album/202304/24/160101tcypczphiatazhqe.png)
+![Open a new window in VS Code](/Asserts/Images/album/202304/24/160101tcypczphiatazhqe.png)
 
 
 这将为你提供一个全新、干净的编辑器。**如果看到欢迎屏幕**，你可以从那里单击 “克隆存储库” 的快速链接。
@@ -120,25 +120,25 @@ VS Code 内置了 GitHub 集成。你不需要安装任何扩展来克隆仓库�
 它将在顶部打开一个视图。你可以**直接复制 GitHub 仓库的 URL**。它可以自动从中获取克隆链接。
 
 
-![Clone a new GitHub repo in VS Code](/Asserts/Images//attachment/album/202304/24/160102cal8taayx6x6mlal.png)
+![Clone a new GitHub repo in VS Code](/Asserts/Images/album/202304/24/160102cal8taayx6x6mlal.png)
 
 
 它会问你把克隆的仓库放在哪里。
 
 
-![Select a location for the cloned GitHub repo in VS Code](/Asserts/Images//attachment/album/202304/24/160102b8b2vbznpleriqsq.png)
+![Select a location for the cloned GitHub repo in VS Code](/Asserts/Images/album/202304/24/160102b8b2vbznpleriqsq.png)
 
 
 它会询问你是否要将克隆的仓库在 VS Code 中打开。如果你想立即处理它，那就去做吧。
 
 
-![Open the just cloned GitHub repo in VS Code](/Asserts/Images//attachment/album/202304/24/160102qg384edygasyc3na.png)
+![Open the just cloned GitHub repo in VS Code](/Asserts/Images/album/202304/24/160102qg384edygasyc3na.png)
 
 
 不仅仅是克隆的存储库，VS Code 会询问你是否信任你添加到其中的任何文件夹的作者。
 
 
-![Trust author promot in VS Code](/Asserts/Images//attachment/album/202304/24/160103xm161mbyhmsb1yy1.png)
+![Trust author promot in VS Code](/Asserts/Images/album/202304/24/160103xm161mbyhmsb1yy1.png)
 
 
 好了，你已经在 VS Code 中克隆了一个 GitHub 仓库。让我们看看如何修改并将更改推送到 GitHub。
@@ -156,13 +156,13 @@ VS Code 内置了 GitHub 集成。你不需要安装任何扩展来克隆仓库�
 从左侧进入“源码控制”，输入提交消息，然后单击提交旁边的按钮并选择 “<ruby> 提交并推送 <rt>  Commit &amp; Push </rt></ruby>”。
 
 
-![Push your changes to GitHub from VS Code](/Asserts/Images//attachment/album/202304/24/160103o9wtm9merdgcedmb.png)
+![Push your changes to GitHub from VS Code](/Asserts/Images/album/202304/24/160103o9wtm9merdgcedmb.png)
 
 
 如果你没有配置 Git 用户名和电子邮件，你将看到如下错误。
 
 
-![Error in VS Code if Git username and email is not set](/Asserts/Images//attachment/album/202304/24/160103lnuarr1zsrus0ln6.png)
+![Error in VS Code if Git username and email is not set](/Asserts/Images/album/202304/24/160103lnuarr1zsrus0ln6.png)
 
 
 你可以 [在全局或仓库级别设置用户名和电子邮件](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup?ref=itsfoss.com)。完全根据你自己的选择。
@@ -182,7 +182,7 @@ VS Code 内置了 GitHub 集成。你不需要安装任何扩展来克隆仓库�
 你可以选择在本地提交更改而不推送它们。你也可以在这里使用 `git` 命令执行所有你以前使用过的操作。有用于创建拉取请求、刷新等等的选项。
 
 
-![VS Code gives all kind of Git actions to perform](/Asserts/Images//attachment/album/202304/24/160104jqw56w9nuu2udenr.png)
+![VS Code gives all kind of Git actions to perform](/Asserts/Images/album/202304/24/160104jqw56w9nuu2udenr.png)
 
 
 ### 通过 GitHub 官方扩展将其提升到一个新的水平
@@ -197,7 +197,7 @@ VS Code 内置了 GitHub 集成。你不需要安装任何扩展来克隆仓库�
 单击安装按钮并在你的编辑器上安装 [扩展](https://itsfoss.com/install-vs-code-extensions/)。
 
 
-![Installing GitHub extension in VS Code](/Asserts/Images//attachment/album/202304/24/160104uwty77cooy74wlll.png)
+![Installing GitHub extension in VS Code](/Asserts/Images/album/202304/24/160104uwty77cooy74wlll.png)
 
 
 使用此扩展，如果其他人正在协作，你可以管理你的存储库。

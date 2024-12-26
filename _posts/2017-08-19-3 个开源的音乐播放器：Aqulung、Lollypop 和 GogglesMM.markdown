@@ -7,7 +7,7 @@ tags:	[linuxcn,音乐播放器]
 ---
 
 
-![3 open source music players: Aqualung, Lollypop, and GogglesMM](/Asserts/Images//attachment/album/201708/04/233710vizw2xhxw4wdpow1.png "3 open source music players: Aqualung, Lollypop, and GogglesMM")
+![3 open source music players: Aqualung, Lollypop, and GogglesMM](/Asserts/Images/album/201708/04/233710vizw2xhxw4wdpow1.png "3 open source music players: Aqualung, Lollypop, and GogglesMM")
 
 
 音乐是生活的一部分。[维基百科关于音乐发展历史的文章](https://en.wikipedia.org/wiki/History_of_music)有这样一段不错的描述说：“全世界所有的人们，包括哪怕是最孤立、与世隔绝的部落，都会有自己的特色音乐……”好吧，我们开源人就构成了一个部落。我建议我们的“音乐形式”应该包括开源音乐播放器。在过去几年里，我已经使用体验过不少我能接触到的音乐播放器；[2016 年 12 月份](https://opensource.com/article/16/12/soundtrack-open-source-music-players)我根据这六个标准来总结概括了我使用开源音乐播放器的感受：
@@ -42,7 +42,7 @@ tags:	[linuxcn,音乐播放器]
 我根据官网上编译文档的建议和配置脚本的提示安装了 **pkgconf** 以及 **libasound**、**libflac**、**libmp3lame**、**libvorbis**、**libxml2**、**libglib2.0** 和 **libgtk+-2.0** 的开发库。接下来，我就能够干净利索的进行 `configure` 然后进行 `make` 和 `make install`。最终我可以执行 `/usr/local/bin/aqualung` 了。
 
 
-![Aqualung](/Asserts/Images//attachment/album/201708/04/233711flmknlklkknsam2e.png "Aqualung")
+![Aqualung](/Asserts/Images/album/201708/04/233711flmknlklkknsam2e.png "Aqualung")
 
 
 *Aqualung，不能切换音乐播放的码率。*
@@ -60,7 +60,7 @@ tags:	[linuxcn,音乐播放器]
 ### Lollypop
 
 
-![Lollypop interface](/Asserts/Images//attachment/album/201708/04/233711dccqb1wqb9auwwbc.png "Lollypop interface")
+![Lollypop interface](/Asserts/Images/album/201708/04/233711dccqb1wqb9auwwbc.png "Lollypop interface")
 
 
 *优美的 Lollypop 用户界面。*
@@ -90,7 +90,7 @@ Lollypop 有一个优美的用户交互界面和它的优美的网站相得益�
 GogglesMM，非常容易上手使用，看上去和 Rhythmbox 有点像。我在 GogglesMM 的设置里面的参数设置中找到了音频选项设置，能够让我选择 ALSA 和设置音频输出设备。通过查看 **/proc/asound/DragonFly/stream0** 文件和 DragonFly 自己的 LED 颜色，我确定我能够用 GogglesMM 播放 44.1-KHz／21-bit 和 96-KHz／24-bit 这两种规格的 mp3；因此，就凭 “rate/depth passthrough” 我给 GogglesMM 打 5 分。
 
 
-![GogglesMM](/Asserts/Images//attachment/album/201708/04/233712tw4l6ppm64t66fzk.png "GogglesMM")
+![GogglesMM](/Asserts/Images/album/201708/04/233712tw4l6ppm64t66fzk.png "GogglesMM")
 
 
 \*GogglesMM 在播放 96/24 这种规格的音乐，显示音频输出设备选择。 \*
@@ -123,7 +123,7 @@ GogglesMM 的说明文档并没有大量的细节介绍，但是我尽可能说�
 我之前所提到的这几个开源音乐播放器中，我最喜欢的还是 [Guayadeque](http://www.guayadeque.org/)，根据我制定的标准来进行排名的话，我给 Guayadeque 打满分 10 分。来看下我对这三个开源音乐播放器的评分总结吧（N/R 代表“无评分”，因为我不确定如何配置这些播放器来让它们以完美的码率和贯穿模式工作，以便我的数模信号转换器在相应源的码率和位深度接收 PCM 数据）：
 
 
-![Open source audio players](/Asserts/Images//attachment/album/201708/04/233712rqtd0p5riohtyith.png "Open source audio players")
+![Open source audio players](/Asserts/Images/album/201708/04/233712rqtd0p5riohtyith.png "Open source audio players")
 
 
 请注意下我用的这个排名方法并不适合每个人。特别是很多人并不清楚高品质音乐的价值，他们更喜欢专有格式的音乐能够给他们带来更好的音乐品质。

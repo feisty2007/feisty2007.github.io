@@ -7,10 +7,10 @@ tags:	[linuxcn,ChatGPT,字体,自动驾驶]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/11/170533zbcgc1vez2c9egg3.jpg)
+![](/Asserts/Images/album/202306/11/170533zbcgc1vez2c9egg3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/11/170544l55i1p8j8xybmimw.jpg)
+![](/Asserts/Images/album/202306/11/170544l55i1p8j8xybmimw.jpg)
 
 
 ### 不太会讲笑话的 ChatGPT
@@ -35,7 +35,7 @@ tags:	[linuxcn,ChatGPT,字体,自动驾驶]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/11/170559bbx49oyb0berhwb9.jpg)
+![](/Asserts/Images/album/202306/11/170559bbx49oyb0berhwb9.jpg)
 
 
 ### 英特尔开源 One Mono 编程字体
@@ -60,7 +60,7 @@ tags:	[linuxcn,ChatGPT,字体,自动驾驶]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/11/170613otwsmszahh8nsy8m.jpg)
+![](/Asserts/Images/album/202306/11/170613otwsmszahh8nsy8m.jpg)
 
 
 ### 自动驾驶的 Waymo 汽车在路上撞死了狗

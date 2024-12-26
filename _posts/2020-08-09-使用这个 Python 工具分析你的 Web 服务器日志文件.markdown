@@ -15,7 +15,7 @@ tags:	[linuxcn,日志]
 > 
 
 
-![](/Asserts/Images//attachment/album/202008/13/155936kpaay0ypkmyk9qd0.jpg)
+![](/Asserts/Images/album/202008/13/155936kpaay0ypkmyk9qd0.jpg)
 
 
 是否想知道有多少访问者访问过你的网站？或哪个页面、文章或下载最受欢迎？如果你是自托管的博客或网站，那么无论你使用的是 Apache、Nginx 还是 Microsoft IIS（是的，没错），[lars](https://lars.readthedocs.io/en/latest/)都可以为你提供帮助。

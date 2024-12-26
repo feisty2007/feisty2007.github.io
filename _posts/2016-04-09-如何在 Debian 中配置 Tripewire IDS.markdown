@@ -10,7 +10,7 @@ tags:	[linuxcn,Tripewire]
 本文是一篇关于 Debian 中安装和配置 tripewire 的文章。它是 Linux 环境下基于主机的入侵检测系统（IDS）。tripwire 的高级功能可以检测并报告任何 Linux 中未授权的（文件和目录）的更改。tripewire 安装之后，会先创建一个基本的数据库，tripewire 监控并检测新文件的创建修改和谁修改了它等等。如果修改是合法的，你可以接受修改并更新 tripwire 的数据库。
 
 
-![](/Asserts/Images//attachment/album/201604/03/104130pcgghcphbab1h8dt.jpg)
+![](/Asserts/Images/album/201604/03/104130pcgghcphbab1h8dt.jpg)
 
 
 ### 安装和配置
@@ -25,7 +25,7 @@ tripwire 在 Debian VM 中的安装如下。
 
 ```
 
-![installation](/Asserts/Images//attachment/album/201604/03/104134dleanyyn1d412d2n.png)
+![installation](/Asserts/Images/album/201604/03/104134dleanyyn1d412d2n.png)
 
 
 安装中，tripwire 会有下面的配置提示。
@@ -37,7 +37,7 @@ tripwire 在 Debian VM 中的安装如下。
 tripwire 需要一个站点口令（site passphrase）来加密 tripwire 的配置文件 tw.cfg 和策略文件 tw.pol。tripewire 使用指定的密码加密两个文件。一个 tripewire 实例必须指定站点口令。
 
 
-![site key1](/Asserts/Images//attachment/album/201604/03/104134johmrbx1xgh11gkg.png)
+![site key1](/Asserts/Images/album/201604/03/104134johmrbx1xgh11gkg.png)
 
 
 #### 本地密钥口令
@@ -46,7 +46,7 @@ tripwire 需要一个站点口令（site passphrase）来加密 tripwire 的配�
 本地口令用来保护 tripwire 数据库和报告文件。本地密钥用于阻止非授权的 tripewire 数据库修改。
 
 
-![local key1](/Asserts/Images//attachment/album/201604/03/104135cf0gt0vaxptabfgx.png)
+![local key1](/Asserts/Images/album/201604/03/104135cf0gt0vaxptabfgx.png)
 
 
 #### tripwire 配置路径
@@ -55,7 +55,7 @@ tripwire 需要一个站点口令（site passphrase）来加密 tripwire 的配�
 tripewire 配置存储在 /etc/tripwire/twcfg.txt。它用于生成加密的配置文件 tw.cfg。
 
 
-![configuration file](/Asserts/Images//attachment/album/201604/03/104136f499o66z80t9ylcr.png)
+![configuration file](/Asserts/Images/album/201604/03/104136f499o66z80t9ylcr.png)
 
 
 **tripwire 策略路径**
@@ -64,13 +64,13 @@ tripewire 配置存储在 /etc/tripwire/twcfg.txt。它用于生成加密的配�
 tripwire 在 /etc/tripwire/twpol.txt 中保存策略文件。它用于生成加密的策略文件 tw.pol。
 
 
-![tripwire policy](/Asserts/Images//attachment/album/201604/03/104137krtemgexmvexo4ra.png)
+![tripwire policy](/Asserts/Images/album/201604/03/104137krtemgexmvexo4ra.png)
 
 
 安装完成后如下图所示。
 
 
-![installed tripewire1](/Asserts/Images//attachment/album/201604/03/104137ny981ax2c1s181dy.png)
+![installed tripewire1](/Asserts/Images/album/201604/03/104137ny981ax2c1s181dy.png)
 
 
 #### tripwire 配置文件 (twcfg.txt)
@@ -287,7 +287,7 @@ severity = $(SIG_HI),
 **tripwire-check** 命令检查 twpol.txt 文件并基于此文件生成 tripwire 报告如下。如果 twpol.txt 中有任何错误，tripwire 不会生成报告。
 
 
-![tripwire report](/Asserts/Images//attachment/album/201604/03/104138flllxa2az2vls2zv.png)
+![tripwire report](/Asserts/Images/album/201604/03/104138flllxa2az2vls2zv.png)
 
 
 **文本形式报告**

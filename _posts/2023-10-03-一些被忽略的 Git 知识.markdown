@@ -7,7 +7,7 @@ tags:	[linuxcn,Git]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/25/122259mfu0uowyppuyfdyo.jpg)
+![](/Asserts/Images/album/202310/25/122259mfu0uowyppuyfdyo.jpg)
 
 
 我一直在慢慢地撰写关于 Git 工作原理的文章。尽管我曾认为自己对 Git 非常了解，但像往常一样，当我尝试解释某事的时候，我又学到一些新东西。

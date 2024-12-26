@@ -7,7 +7,7 @@ tags:	[linuxcn,彩蛋]
 ---
 
 
-*![](/Asserts/Images//attachment/album/201507/14/215221uxqydfajaxkxtq5f.jpg)*
+*![](/Asserts/Images/album/201507/14/215221uxqydfajaxkxtq5f.jpg)*
 
 
 在1979年的时候，Atari 公司为 Atari 2600 开发了一个电子游戏——[Adventure](http://en.wikipedia.org/wiki/Adventure_(Atari_2600))。
@@ -16,7 +16,7 @@ tags:	[linuxcn,彩蛋]
 制作 Adventure 的程序员悄悄的把这样的一个功能放进了游戏里，当用户把一个“隐形方块”移动到特定的一面墙上时，会让用户进入一个“密室”。那个房间里只有一句话：“Created by [Warren Robinett](http://en.wikipedia.org/wiki/Warren_Robinett)”——意思是，由 [Warren Robinett](http://en.wikipedia.org/wiki/Warren_Robinett) 创建。
 
 
-![](/Asserts/Images//attachment/album/201507/14/214721rulkkpr1crykl2pf.png)
+![](/Asserts/Images/album/201507/14/214721rulkkpr1crykl2pf.png)
 
 
 *图片来自： Wikipedia*
@@ -40,7 +40,7 @@ Linux（以及和Linux相关的软件）也没有被遗忘。这些年来，人�
 为了广大的 [Arch Linux](http://en.wikipedia.org/wiki/Arch_Linux) 粉丝，我们将以此开篇。你们可以将“[pacman](http://www.linux.com/news/software/applications/820944-10-truly-amusing-linux-easter-eggs-#Pacman)” (Arch 的包管理器)的进度条变成吃豆人吃豆的样子。别问我为什么这不是默认设置。
 
 
-![](/Asserts/Images//attachment/album/201507/14/214759huh43sw5o8l548yu.png)
+![](/Asserts/Images/album/201507/14/214759huh43sw5o8l548yu.png)
 
 
 你需要在你最喜欢的文本编辑器里编辑“/etc/pacman.conf”文件。在“# Misc options”区下面，删除“Color”前的“#”，添加一行“ILoveCandy”。因为吃豆人喜欢糖豆。
@@ -52,7 +52,7 @@ Linux（以及和Linux相关的软件）也没有被遗忘。这些年来，人�
 ### GNU Emacs : 俄罗斯方块（Tetris）以及……
 
 
-![emacs Tetris](/Asserts/Images//attachment/album/201507/14/215223nwgawkjdwxngkhkn.jpg)
+![emacs Tetris](/Asserts/Images/album/201507/14/215223nwgawkjdwxngkhkn.jpg)
 
 
 *我不喜欢 emacs。一点也不喜欢。但是它确实能玩俄罗斯方块。*
@@ -88,7 +88,7 @@ Linux（以及和Linux相关的软件）也没有被遗忘。这些年来，人�
 在用基于 Debian 的发行版？试试输入“apt-get moo"。
 
 
-![apt-get moo](/Asserts/Images//attachment/album/201507/14/215223rtdd8ufedvhebxjh.jpg)
+![apt-get moo](/Asserts/Images/album/201507/14/215223rtdd8ufedvhebxjh.jpg)
 
 
 *apt-get moo*
@@ -100,7 +100,7 @@ Linux（以及和Linux相关的软件）也没有被遗忘。这些年来，人�
 关于 [aptitude](https://wiki.debian.org/Aptitude) 有一件事你一定要知道，它是个肮脏、下流的骗子。如果 aptitude 是匹诺曹，那它的鼻子能刺穿月球。在这条命令中添加“-v”选项。不停的添加 v，直到它被逼得投降。
 
 
-![](/Asserts/Images//attachment/album/201507/14/215224j8kajawf8yhjgghg.jpg)
+![](/Asserts/Images/album/201507/14/215224j8kajawf8yhjgghg.jpg)
 
 
 *我猜大家都同意，这是 aptitude 中最重要的功能。*
@@ -112,7 +112,7 @@ Linux（以及和Linux相关的软件）也没有被遗忘。这些年来，人�
 还有，别让“cowsay（牛说）”这个名字把你给骗了。你可以让你的话从各种东西的嘴里说出来。比如一头大象，Calvin，Beavis 甚至可以是 Ghostbusters（捉鬼敢死队）的标志。只需在终端输入“cowsay -l”就能看到所有选项的列表。
 
 
-![](/Asserts/Images//attachment/album/201507/14/215224a6m0mtdnj1ztmfq6.jpg)
+![](/Asserts/Images/album/201507/14/215224a6m0mtdnj1ztmfq6.jpg)
 
 
 *你可以让你的话从各种东西的嘴里说出来*
@@ -148,7 +148,7 @@ Linux（以及和Linux相关的软件）也没有被遗忘。这些年来，人�
 现在试试“about:mozilla”，浏览器就会回应你一条从“[Book of Mozilla（Mozilla 之书）](http://en.wikipedia.org/wiki/The_Book_of_Mozilla)”——这本浏览网页的圣经——里引用的话。我的另一个最爱是“about:robots”，这个也很有趣。
 
 
-![](/Asserts/Images//attachment/album/201507/14/215224xjq0jwwg8b98qqqw.jpg)
+![](/Asserts/Images/album/201507/14/215224xjq0jwwg8b98qqqw.jpg)
 
 
 *“[Book of Mozilla（Mozilla 之书）](http://en.wikipedia.org/wiki/The_Book_of_Mozilla)”——浏览网页的圣经。*
@@ -184,7 +184,7 @@ Linux（以及和Linux相关的软件）也没有被遗忘。这些年来，人�
 在你的Linux终端里有很多彩蛋真真是极好的……但是如果你还想要变得……更有魅力些怎么办？输入：lolcat。把任何一个程序的文本输出通过管道输入到lolcat里。你会得到它的超级无敌彩虹版。
 
 
-![](/Asserts/Images//attachment/album/201507/14/215225vmp9wxm5apmz2x0a.jpg)
+![](/Asserts/Images/album/201507/14/215225vmp9wxm5apmz2x0a.jpg)
 
 
 *把任何一个程序的文本输出通过管道输入到lolcat里。你会得到它的超级无敌彩虹版。*
@@ -193,7 +193,7 @@ Linux（以及和Linux相关的软件）也没有被遗忘。这些年来，人�
 ### 追光标的小家伙
 
 
-![oneko cat](/Asserts/Images//attachment/album/201507/14/215225omj9j4tuquzxv0tx.jpg)
+![oneko cat](/Asserts/Images/album/201507/14/215225omj9j4tuquzxv0tx.jpg)
 
 
 *“Oneko” -- 经典 “Neko”的Linux移植版本。*

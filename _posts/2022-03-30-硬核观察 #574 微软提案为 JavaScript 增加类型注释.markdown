@@ -7,10 +7,10 @@ tags:	[linuxcn,JavaScript,ArchLinux,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/13/145505eb0cv0v3wr15yqsy.jpg)
+![](/Asserts/Images/album/202203/13/145505eb0cv0v3wr15yqsy.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/13/145522vf970si7d6p963ff.jpg)
+![](/Asserts/Images/album/202203/13/145522vf970si7d6p963ff.jpg)
 
 
 ### 微软提案为 JavaScript 增加类型注释
@@ -27,7 +27,7 @@ tags:	[linuxcn,JavaScript,ArchLinux,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/13/145532hbtzvkttjt63crvz.jpg)
+![](/Asserts/Images/album/202203/13/145532hbtzvkttjt63crvz.jpg)
 
 
 ### Arch Linux 20 岁了
@@ -44,7 +44,7 @@ tags:	[linuxcn,JavaScript,ArchLinux,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/13/145552m9t2irgf191xiius.jpg)
+![](/Asserts/Images/album/202203/13/145552m9t2irgf191xiius.jpg)
 
 
 ### 2021 发现了最多的 Chrome 零日漏洞

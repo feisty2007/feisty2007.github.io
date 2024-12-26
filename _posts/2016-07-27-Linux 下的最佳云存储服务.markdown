@@ -7,7 +7,7 @@ tags:	[linuxcn,云存储]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/16/195845mresettnsbmnwxnj.jpg)
+![](/Asserts/Images/album/201607/16/195845mresettnsbmnwxnj.jpg)
 
 
 什么样的云服务才适合作为 Linux 下的存储服务？让我们猜猜：
@@ -28,7 +28,7 @@ tags:	[linuxcn,云存储]
 ### [Mega](https://mega.nz/)
 
 
-![](/Asserts/Images//attachment/album/201607/16/195904mge6ue7qz48q7eue.jpg)
+![](/Asserts/Images/album/201607/16/195904mge6ue7qz48q7eue.jpg)
 
 
 如果你是一个 It’s FOSS 的普通读者，你可能已经看过我之前的一篇有关 [Mega on Linux](http://itsfoss.com/install-mega-cloud-storage-linux/)的文章。这种云服务由 [Megaupload scandal](https://en.wikipedia.org/wiki/Megaupload) 公司下臭名昭著的 [Kim Dotcom](https://en.wikipedia.org/wiki/Kim_Dotcom) 提供。这也使一些用户怀疑它，因为 Kim Dotcom 已经很长一段时间成为美国当局的目标。
@@ -54,7 +54,7 @@ Mega 拥有方便免费云服务下你所期望的一切。它给每个个人用
 ### [Hubic](https://hubic.com/)
 
 
-![](/Asserts/Images//attachment/album/201607/16/195923my859jfcruucchji.jpeg)
+![](/Asserts/Images/album/201607/16/195923my859jfcruucchji.jpeg)
 
 
 Hubic 是一个来自法国公司的云服务。Hubic 在注册时也提供了 25 GB 免费存储空间。你可以通过推荐Hubic给朋友将空间扩大至 50 GB （对免费用户来说）。
@@ -83,7 +83,7 @@ Hubic 拥有一些不错的功能。除了简单的用户界面、文件共享�
 ### [pCloud](https://www.pcloud.com/)
 
 
-![](/Asserts/Images//attachment/album/201607/16/195945p16warw623srayzr.jpeg)
+![](/Asserts/Images/album/201607/16/195945p16warw623srayzr.jpeg)
 
 
 pCloud 是另一款欧洲的发行软件，但这一次跨过了法国边境，它来自瑞士。专注于加密和安全，pCloud 为每一个注册者提供 10 GB 的免费存储空间。你可以通过邀请好友、在社交媒体上分享链接等方式将空间增加至 20 GB。
@@ -111,7 +111,7 @@ Linux 客户端 容易使用，并在 Linux Mint 17.3 下的有限测试中表�
 ### [Yandex Disk](https://disk.yandex.com/)
 
 
-![](/Asserts/Images//attachment/album/201607/16/200005emjzm3bm3jba8gpj.jpg)
+![](/Asserts/Images/album/201607/16/200005emjzm3bm3jba8gpj.jpg)
 
 
 俄罗斯互联网巨人 Yandex 拥有 Google 所拥有的一切东西。搜索引擎、分析学、网站管理工具、邮箱、网页浏览器和云存储服务。

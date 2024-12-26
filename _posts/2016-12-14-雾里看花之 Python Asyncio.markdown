@@ -13,7 +13,7 @@ tags:	[linuxcn,Python,并发,协程]
 从 Twisted 框架借鉴一些经验来理解 asynio 并非难事，但是，asyncio 包含众多的元素，我开始动摇，不知道如何将这些孤立的零碎拼图组合成一副完整的图画。我已没有足够的智力提出任何更好的建议，在这里，只想分享我的困惑，求大神指点。
 
 
-![](/Asserts/Images//attachment/album/201612/21/182715ntzpokcnp0m00ytz.jpg)
+![](/Asserts/Images/album/201612/21/182715ntzpokcnp0m00ytz.jpg)
 
 
 #### 原语
@@ -268,7 +268,7 @@ Node 当前正在经历如何[找到这个问题的长期解决方案](https://g
 作者：
 
 
-![](/Asserts/Images//attachment/album/201612/21/183315sgh44tgb4uuru844.png)
+![](/Asserts/Images/album/201612/21/183315sgh44tgb4uuru844.png)
 
 
 Armin Ronacher

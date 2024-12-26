@@ -7,7 +7,7 @@ tags:	[linuxcn,NixOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201710/18/232958ljxtr0rooxo77x4g.png)
+![](/Asserts/Images/album/201710/18/232958ljxtr0rooxo77x4g.png)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,NixOS]
 [下载 ISO 映像](https://nixos.org/nixos/download.html)后，我启动了 [VirtualBox](https://www.virtualbox.org/wiki/Downloads) 并用下载的镜像创建了个新的虚拟机。VM 启动后，出来的是 Bash 的登录界面，界面上指导我用空密码去登录 root 账号，以及我该如何启动 GUI 显示管理器（图 1）。
 
 
-![First contact](/Asserts/Images//attachment/album/201710/18/233052olz8hlgl11elidgf.jpg "First contact")
+![First contact](/Asserts/Images/album/201710/18/233052olz8hlgl11elidgf.jpg "First contact")
 
 
 *图 1： 与 NixOS 的初次接触可能不是太和谐。*
@@ -48,7 +48,7 @@ GUI 启动和运行时（KDE Plasma 5），我没找到喜闻乐见的“安装�
 你需要做的第一件事是建分区。由于 NixOS 安装程序不包含分区工具，你得用自带的 GParted （图 2）来创建一个 EXT4 分区。
 
 
-![Partitioning](/Asserts/Images//attachment/album/201710/18/233053x8goeovs9j64twvp.jpg "Partitioning")
+![Partitioning](/Asserts/Images/album/201710/18/233053x8goeovs9j64twvp.jpg "Partitioning")
 
 
 *图 2： 安装前对磁盘分区。*
@@ -136,7 +136,7 @@ services.xserver = {
 在你按照自己的需求完善好配置之后，使用命令（需要 root 权限） `nixos-install`。完成安装所需要的时间，会随着你加入的软件包多少有所区别。安装结束后，你可以使用命令重启系统，（重启之后）迎接你的就是 KDE Plasma 5 的登录管理界面了（图 3）。
 
 
-![KDE Plasma 5](/Asserts/Images//attachment/album/201710/18/233054zcjhzbchci38ijgg.jpg "KDE Plasma 5")
+![KDE Plasma 5](/Asserts/Images/album/201710/18/233054zcjhzbchci38ijgg.jpg "KDE Plasma 5")
 
 
 *图 3： KDE Plasma 5 登录管理界面*

@@ -7,7 +7,7 @@ tags:	[linuxcn,Travis CI]
 ---
 
 
-![Travis CI](/Asserts/Images//attachment/album/202206/18/095734heuo8nc7g7n0ibtd.jpg)
+![Travis CI](/Asserts/Images/album/202206/18/095734heuo8nc7g7n0ibtd.jpg)
 
 
 Travis CI 持续集成工具中的一个缺陷暴露了来自数千个在线开源项目的敏感数据。这并不是该软件第一次遇到此类安全问题。

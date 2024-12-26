@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/12/130648uvbvvgvb7q7pv4bq.png)
+![](/Asserts/Images/album/202311/12/130648uvbvvgvb7q7pv4bq.png)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,Ubuntu,Snap]
 Linux 就是一个软件，因而它难免让人头疼。承此，所有的 Linux 发行版也都不尽如人意。包管理器也是一个软件，同样也不尽人意。但幸运的是，至少大多数 Linux 发行版都有一个包管理器。这比没有软件包管理器要好，或者更糟糕的是，有不止一个以上的包管理器，这一点 [XKCD 927](https://xkcd.com/927/) 漫画体现的淋漓尽致。
 
 
-![](/Asserts/Images//attachment/album/202311/12/130719yikvgssyukufz1hk.png)
+![](/Asserts/Images/album/202311/12/130719yikvgssyukufz1hk.png)
 
 
 我们并不特别青睐 Snap，也不特别反对 Flatpak。笔者个人更偏好 [AppImage](https://appimage.org/) 格式，它不需要其他额外的框架。但虽然有个 [AppImageHub](https://www.appimagehub.com/)，但该格式却并没有提供软件更新的工具，这个问题就留给了应用本身来解决。

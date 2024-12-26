@@ -13,7 +13,7 @@ tags:	[linuxcn,异步,并发,协程,Python]
 * [游戏入口在此，点此体验](http://snakepit-game.com/)。
 
 
-![](/Asserts/Images//attachment/album/201609/14/063325kqmx47j79v9a7egm.jpg)
+![](/Asserts/Images/album/201609/14/063325kqmx47j79v9a7egm.jpg)
 
 
 ### 1、简介

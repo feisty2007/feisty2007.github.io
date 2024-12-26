@@ -7,7 +7,7 @@ tags:	[linuxcn,top,htop]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/14/162909klvn2plolhwcko2k.jpg)
+![](/Asserts/Images/album/202303/14/162909klvn2plolhwcko2k.jpg)
 
 
 Windows 有其著名的任务管理器。Linux 有几个 GUI 和 [命令行的系统监视器](https://itsfoss.com/linux-system-monitoring-tools/)。每个 Linux 系统都都有几个这样的监视器。
@@ -67,7 +67,7 @@ htop
 
 ```
 
-![安装和使用 htop](/Asserts/Images//attachment/album/202303/14/162940nqvw55vllvvn55nv.png)
+![安装和使用 htop](/Asserts/Images/album/202303/14/162940nqvw55vllvvn55nv.png)
 
 
 在 `htop` 中，每个部分都使用颜色标识，所以让我们看看使用 `htop` 时每种颜色表示什么。
@@ -82,7 +82,7 @@ htop
 #### CPU 使用率栏
 
 
-![htop 中的 cpu 进程](/Asserts/Images//attachment/album/202303/14/162940cooiaz1agogthoi0.png)
+![htop 中的 cpu 进程](/Asserts/Images/album/202303/14/162940cooiaz1agogthoi0.png)
 
 
 * **绿色**：用户进程消耗的资源。
@@ -94,7 +94,7 @@ htop
 #### 内存使用率栏
 
 
-![htop 中的内存栏](/Asserts/Images//attachment/album/202303/14/162940yyc8ao9ykadh8chc.png)
+![htop 中的内存栏](/Asserts/Images/album/202303/14/162940yyc8ao9ykadh8chc.png)
 
 
 * **绿色**：系统进程正在使用的内存。
@@ -105,7 +105,7 @@ htop
 #### 统计数据
 
 
-![htop 中的任务统计](/Asserts/Images//attachment/album/202303/14/162940dzgayzx5vqxb1og1.png)
+![htop 中的任务统计](/Asserts/Images/album/202303/14/162940dzgayzx5vqxb1og1.png)
 
 
 * **1.86** 是最后 1 分钟的平均负载。
@@ -142,7 +142,7 @@ htop
 按 `F6`，它将显示每个可用的选项来对正在进行的进程进行排序：
 
 
-![使用键盘快捷键对 htop 中的进程进行排序](/Asserts/Images//attachment/album/202303/14/162941bsc8cvidty8r3rrg.png)
+![使用键盘快捷键对 htop 中的进程进行排序](/Asserts/Images/album/202303/14/162941bsc8cvidty8r3rrg.png)
 
 
 你可以使用方向键选择一个首选的排序选项，然后按回车键，结果应该会如预期的那样反映出来。
@@ -154,7 +154,7 @@ htop
 如果你想查找一个特定的进程及其资源消耗，你可以按 `F3`，它会给你一个搜索提示，如下所示：
 
 
-![在 htop 中搜索进程](/Asserts/Images//attachment/album/202303/14/162941msrq7cq2s75jsrnw.png)
+![在 htop 中搜索进程](/Asserts/Images/album/202303/14/162941msrq7cq2s75jsrnw.png)
 
 
 例如，我搜索 `htop`，它用浅橙色高亮显示了进程。你可以按 `F3` 获得下一个结果。
@@ -169,7 +169,7 @@ htop
 要过滤进程，你必须按 `F4` 并输入进程的名称。例如，我过滤了与 `gnome-boxes` 相关的进程：
 
 
-![在 htop 中过滤进程](/Asserts/Images//attachment/album/202303/14/162941vcpczh3ufupynb9j.png)
+![在 htop 中过滤进程](/Asserts/Images/album/202303/14/162941vcpczh3ufupynb9j.png)
 
 
 #### 杀死进程
@@ -178,7 +178,7 @@ htop
 一旦找到最耗资源和不必要的进程，你只需按 `F9`，它就会向你显示终止信号：
 
 
-![在 htop 中杀死进程](/Asserts/Images//attachment/album/202303/14/162942aff2h9bqqlf9y66b.png)
+![在 htop 中杀死进程](/Asserts/Images/album/202303/14/162942aff2h9bqqlf9y66b.png)
 
 
 我无法介绍所有的 15 个终止信号，我们有一个关于 [不同终止信息](https://linuxhandbook.com/termination-signals/) 的单独指南，因此如果你想了解更多信息，可以参考该指南。
@@ -196,19 +196,19 @@ htop
 首先，按 `F2`，它会出现设置提示，允许用户更改 `htop` 的外观：
 
 
-![在 ubuntu 中自定义 htop](/Asserts/Images//attachment/album/202303/14/162942accxdvaacq2ced8x.png)
+![在 ubuntu 中自定义 htop](/Asserts/Images/album/202303/14/162942accxdvaacq2ced8x.png)
 
 
 首先，将鼠标悬停在各个 `Colors` 部分并按回车键，这将允许我们更改配色方案。从那里，选择 `Monochromatic` 选项并按回车键保存更改：
 
 
-![在 Linux 中更改 htop 颜色](/Asserts/Images//attachment/album/202303/14/162943p8a4m4zjtzvx4j88.png)
+![在 Linux 中更改 htop 颜色](/Asserts/Images/album/202303/14/162943p8a4m4zjtzvx4j88.png)
 
 
 现在，返回到设置选项，然后使用向左方向键探索可用的指标：
 
 
-![探索 htop 中可用的指标](/Asserts/Images//attachment/album/202303/14/162943k4gzg668488zbtv4.png)
+![探索 htop 中可用的指标](/Asserts/Images/album/202303/14/162943k4gzg668488zbtv4.png)
 
 
 因为我打算添加日期和时间，所以我必须在找到它的选项后按回车键。
@@ -220,7 +220,7 @@ htop
 所以我将日期和时间指标放在最后一个样式选项中（你可以使用空格键更改样式）：
 
 
-![在 htop 中添加日期和时间](/Asserts/Images//attachment/album/202303/14/162943qsg4onc9gei4eedh.png)
+![在 htop 中添加日期和时间](/Asserts/Images/album/202303/14/162943qsg4onc9gei4eedh.png)
 
 
 完成日期和时间指标的对齐后，按回车键保存更改，然后按 `F10` 关闭设置提示。

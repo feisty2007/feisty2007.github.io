@@ -30,7 +30,7 @@ tags:	[linuxcn,Blender,Epic]
 ### Blender 基金会的改进计划
 
 
-![Image Credit : BlenderNation](/Asserts/Images//attachment/album/201907/19/064207nm5m7o575eoxe7e7.jpg)
+![Image Credit : BlenderNation](/Asserts/Images/album/201907/19/064207nm5m7o575eoxe7e7.jpg)
 
 
 在[新闻稿](https://www.blender.org/press/epic-games-supports-blender-foundation-with-1-2-million-epic-megagrant/)当中，Blender 基金会提到了如何利用这笔资金以及用于何种目的：

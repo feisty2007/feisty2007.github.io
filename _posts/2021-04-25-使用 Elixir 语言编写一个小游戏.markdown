@@ -15,7 +15,7 @@ tags:	[linuxcn,猜数字,Elixir]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/12/223351t68886wmza1m9jnt.jpg "A die with rainbow color background")
+![](/Asserts/Images/album/202104/12/223351t68886wmza1m9jnt.jpg "A die with rainbow color background")
 
 
 为了更好的学习一门新的编程语言，最好的方法是去关注主流语言的一些共有特征：

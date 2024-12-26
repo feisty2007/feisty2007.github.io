@@ -7,7 +7,7 @@ tags:	[linuxcn,LXD,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/24/212520cj6y0lj9jj49nvz4.jpg)
+![](/Asserts/Images/album/201802/24/212520cj6y0lj9jj49nvz4.jpg)
 
 
 当你正在创建 LXD 容器的时候，你希望它们能被预先配置好。例如在容器一启动就自动执行 `apt update`来安装一些软件包，或者运行一些命令。

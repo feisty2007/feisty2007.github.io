@@ -7,10 +7,10 @@ tags:	[linuxcn,Unix,AI,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/19/184822iaakcezkyyrhccau.jpg)
+![](/Asserts/Images/album/202303/19/184822iaakcezkyyrhccau.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/19/184831yv6ec4efvfc4cett.jpg)
+![](/Asserts/Images/album/202303/19/184831yv6ec4efvfc4cett.jpg)
 
 
 ### Unix 之父 Ken Thompson 从 Mac 转到了 Linux
@@ -35,7 +35,7 @@ tags:	[linuxcn,Unix,AI,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/19/184843humes57b7im8aou9.jpg)
+![](/Asserts/Images/album/202303/19/184843humes57b7im8aou9.jpg)
 
 
 ### 大语言模型涌现无法预测的能力
@@ -60,7 +60,7 @@ tags:	[linuxcn,Unix,AI,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/19/184857ezcjvm5bvtj6ohb6.jpg)
+![](/Asserts/Images/album/202303/19/184857ezcjvm5bvtj6ohb6.jpg)
 
 
 ### 让 Python 和 C 语言性能相当的新编译器

@@ -16,7 +16,7 @@ tags:	[linuxcn,Ubuntu]
 在这篇短文中，我们将学会如何解决Ubuntu14.04和14.10中出现的鼠标僵死问题。
 
 
-![](/Asserts/Images//attachment/album/201505/12/230127r6gv60e826cgtltl.jpg)
+![](/Asserts/Images/album/201505/12/230127r6gv60e826cgtltl.jpg)
 
 
 ### Ubuntu14.04唤醒后鼠标僵死的解决办法

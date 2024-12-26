@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows,网络安全,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/30/095458hiydyyr2qumd3p72.jpg)
+![](/Asserts/Images/album/202303/30/095458hiydyyr2qumd3p72.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/30/095510mv1d79vodoy2aoaz.jpg)
+![](/Asserts/Images/album/202303/30/095510mv1d79vodoy2aoaz.jpg)
 
 
 ### Windows 11 给开始菜单加入广告
@@ -35,7 +35,7 @@ tags:	[linuxcn,Windows,网络安全,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/30/095519kcrw3f6mw1rjlfnl.jpg)
+![](/Asserts/Images/album/202303/30/095519kcrw3f6mw1rjlfnl.jpg)
 
 
 ### 微软发布基于 OpenAI 的聊天工具以对抗网络攻击
@@ -60,7 +60,7 @@ tags:	[linuxcn,Windows,网络安全,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/30/095533nqbfix66myw3mtzx.jpg)
+![](/Asserts/Images/album/202303/30/095533nqbfix66myw3mtzx.jpg)
 
 
 ### 微软正在开发一个能与 ChromeOS 竞争的下一代操作系统

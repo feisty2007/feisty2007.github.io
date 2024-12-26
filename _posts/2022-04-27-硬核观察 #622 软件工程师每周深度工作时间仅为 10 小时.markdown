@@ -7,10 +7,10 @@ tags:	[linuxcn,软件工程师,Ubuntu,Windows 11]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/30/210950svzs6v3m57me5lvv.jpg)
+![](/Asserts/Images/album/202204/30/210950svzs6v3m57me5lvv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/30/211002tl1lwmmjqfll1drj.jpg)
+![](/Asserts/Images/album/202204/30/211002tl1lwmmjqfll1drj.jpg)
 
 
 ### 软件工程师每周深度工作时间仅为 10 小时
@@ -35,7 +35,7 @@ tags:	[linuxcn,软件工程师,Ubuntu,Windows 11]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/30/211013maa0831n3t5a008u.jpg)
+![](/Asserts/Images/album/202204/30/211013maa0831n3t5a008u.jpg)
 
 
 ### Canonical 将为 Ubuntu 22.04 LTS 提供测试版的实时内核
@@ -60,7 +60,7 @@ Canonical 宣布将开始为 Ubuntu 22.04 LTS 提供一个实时内核，尽管�
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/30/211032cxtij80c0050rx38.jpg)
+![](/Asserts/Images/album/202204/30/211032cxtij80c0050rx38.jpg)
 
 
 ### 运行 Windows 11 的 POS 系统可能需要 40 分钟启动

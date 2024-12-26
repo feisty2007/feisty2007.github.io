@@ -7,7 +7,7 @@ tags:	[linuxcn,图像,OpenCV,HDR]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/16/235137u634bg9q363lfhwx.jpg)
+![](/Asserts/Images/album/201806/16/235137u634bg9q363lfhwx.jpg)
 
 
 在本教程中，我们将学习如何使用由不同曝光设置拍摄的多张图像创建<ruby> 高动态范围 <rt>  High Dynamic Range </rt></ruby>（HDR）图像。 我们将以 C++ 和 Python 两种形式分享代码。
@@ -25,7 +25,7 @@ tags:	[linuxcn,图像,OpenCV,HDR]
 在下图中，左侧的图像是正常曝光的图像。 请注意，由于相机决定使用拍摄主体（我的儿子）的设置，所以背景中的天空已经完全流失了，但是明亮的天空也因此被刷掉了。 右侧的图像是由 iPhone 生成的HDR图像。
 
 
-[![High Dynamic Range (HDR)](/Asserts/Images//attachment/album/201806/16/235245awc1vv88gvpv5gvl.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/09/high-dynamic-range-hdr.jpg)
+[![High Dynamic Range (HDR)](/Asserts/Images/album/201806/16/235245awc1vv88gvpv5gvl.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/09/high-dynamic-range-hdr.jpg)
 
 
 iPhone 是如何拍摄 HDR 图像的呢？ 它实际上采用三种不同的曝光度拍摄了 3 张图像，3 张图像拍摄非常迅速，在 3 张图像之间几乎没有产生位移。然后组合三幅图像来产生 HDR 图像。 我们将在下一节看到一些细节。
@@ -70,7 +70,7 @@ iPhone 是如何拍摄 HDR 图像的呢？ 它实际上采用三种不同的曝�
 但是，如果场景的动态范围很大，我们可以拍摄三张以上的图片来合成 HDR 图像。 在本教程中，我们将使用曝光时间为1/30 秒，0.25 秒，2.5 秒和 15 秒的 4 张图像。 缩略图如下所示。
 
 
-[![Auto Exposure Bracketed  HDR image sequence](/Asserts/Images//attachment/album/201806/16/235246nellr49aa3s94ar9.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-image-sequence.jpg)
+[![Auto Exposure Bracketed  HDR image sequence](/Asserts/Images/album/201806/16/235246nellr49aa3s94ar9.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-image-sequence.jpg)
 
 
 单反相机或手机的曝光时间和其他设置的信息通常存储在 JPEG 文件的 EXIF 元数据中。 查看此[链接](https://www.howtogeek.com/289712/how-to-see-an-images-exif-data-in-windows-and-macos)可在 Windows 和 Mac 中查看存储在 JPEG 文件中的 EXIF 元数据。 或者，您可以使用我最喜欢的名为 [EXIFTOOL](https://www.sno.phy.queensu.ca/%7Ephil/exiftool) 的查看 EXIF 的命令行工具。
@@ -131,7 +131,7 @@ def readImagesAndTimes():
 合成 HDR 图像时使用的图像如果未对齐可能会导致严重的伪影。 在下图中，左侧的图像是使用未对齐的图像组成的 HDR 图像，右侧的图像是使用对齐的图像的图像。 通过放大图像的一部分（使用红色圆圈显示的）我们会在左侧图像中看到严重的鬼影。
 
 
-[![Misalignment problem in HDR](/Asserts/Images//attachment/album/201806/16/235247n5idpda35xm4dsh4.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/aligned-unaligned-hdr-comparison.jpg)
+[![Misalignment problem in HDR](/Asserts/Images/album/201806/16/235247n5idpda35xm4dsh4.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/aligned-unaligned-hdr-comparison.jpg)
 
 
 在拍摄照片制作 HDR 图像时，专业摄影师自然是将相机安装在三脚架上。 他们还使用称为[镜像锁定](https://www.slrlounge.com/workshop/using-mirror-up-mode-mirror-lockup)功能来减少额外的振动。 即使如此，图像可能仍然没有完美对齐，因为没有办法保证无振动的环境。 使用手持相机或手机拍摄图像时，对齐问题会变得更糟。
@@ -213,7 +213,7 @@ responseDebevec = calibrateDebevec.process(images, times)
 下图显示了使用红绿蓝通道的图像提取的 CRF。
 
 
-[![Camera Response Function](/Asserts/Images//attachment/album/201806/16/235248rjzpw7wyrexejeep.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/camera-response-function.jpg)
+[![Camera Response Function](/Asserts/Images/album/201806/16/235248rjzpw7wyrexejeep.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/camera-response-function.jpg)
 
 
 ### 第 4 步：合并图像
@@ -252,7 +252,7 @@ cv2.imwrite("hdrDebevec.hdr", hdrDebevec)
 上面保存的 HDR 图像可以在 Photoshop 中加载并进行色调映射。示例图像如下所示。
 
 
-[![HDR Photoshop tone mapping](/Asserts/Images//attachment/album/201806/16/235248gfot888jkzfjkoj2.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Photoshop-Tonemapping.jpg)
+[![HDR Photoshop tone mapping](/Asserts/Images/album/201806/16/235248gfot888jkzfjkoj2.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Photoshop-Tonemapping.jpg)
 
 
 *HDR Photoshop 色调映射*
@@ -342,7 +342,7 @@ cv2.imwrite("ldr-Drago.jpg", ldrDrago * 255)
 结果如下：
 
 
-[![HDR tone mapping using Drago's algorithm](/Asserts/Images//attachment/album/201806/16/235249x2dnqizzid5599iw.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Drago.jpg)
+[![HDR tone mapping using Drago's algorithm](/Asserts/Images/album/201806/16/235249x2dnqizzid5599iw.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Drago.jpg)
 
 
 *使用Drago算法的HDR色调映射*
@@ -403,7 +403,7 @@ imwrite("ldr-Durand.jpg", ldrDurand * 255);
 结果如下：
 
 
-[![HDR tone mapping using Durand's algorithm](/Asserts/Images//attachment/album/201806/16/235250mp1ot02r2h11rob0.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Durand.jpg)
+[![HDR tone mapping using Durand's algorithm](/Asserts/Images/album/201806/16/235250mp1ot02r2h11rob0.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Durand.jpg)
 
 
 *使用Durand算法的HDR色调映射*
@@ -459,7 +459,7 @@ cv2.imwrite("ldr-Reinhard.jpg", ldrReinhard * 255)
 结果如下：
 
 
-[![HDR tone mapping using Reinhard's algorithm](/Asserts/Images//attachment/album/201806/16/235251f37zl038b0703cdx.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Reinhard.jpg)
+[![HDR tone mapping using Reinhard's algorithm](/Asserts/Images/album/201806/16/235251f37zl038b0703cdx.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Reinhard.jpg)
 
 
 *使用Reinhard算法的HDR色调映射*
@@ -515,7 +515,7 @@ cv2.imwrite("ldr-Mantiuk.jpg", ldrMantiuk * 255)
 结果如下：
 
 
-[![HDR tone mapping using Mantiuk's algorithm](/Asserts/Images//attachment/album/201806/16/235252gpgfmq2fg32f2gq1.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Mantiuk.jpg)
+[![HDR tone mapping using Mantiuk's algorithm](/Asserts/Images/album/201806/16/235252gpgfmq2fg32f2gq1.jpg)](http://www.learnopencv.com/wp-content/uploads/2017/10/hdr-Mantiuk.jpg)
 
 
 *使用Mantiuk算法的HDR色调映射*

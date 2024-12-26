@@ -15,7 +15,7 @@ tags:	[linuxcn,ls]
 * [10 个‘ls’命令面试的问题（二）](/article-5350-1.html)
 
 
-![7 Quirky ls Command Tricks](/Asserts/Images//attachment/album/201505/28/101357drzsfh7zshclgfzg.jpg)
+![7 Quirky ls Command Tricks](/Asserts/Images/album/201505/28/101357drzsfh7zshclgfzg.jpg)
 
 
 *7个ls命令独特技巧*
@@ -64,7 +64,7 @@ locale
 
 ```
 
-![ls Command Full Time Style](/Asserts/Images//attachment/album/201505/28/101358aayud5mlbajmydjw.gif)
+![ls Command Full Time Style](/Asserts/Images/album/201505/28/101358aayud5mlbajmydjw.gif)
 
 
 *ls命令的完整 ISO时间格式*
@@ -76,7 +76,7 @@ locale
 
 ```
 
-![Long Time Style Listing](/Asserts/Images//attachment/album/201505/28/101358xlaal14av4itrna1.gif)
+![Long Time Style Listing](/Asserts/Images/album/201505/28/101358xlaal14av4itrna1.gif)
 
 
 *长时间格式列表*
@@ -88,7 +88,7 @@ locale
 
 ```
 
-![Time Style Listing](/Asserts/Images//attachment/album/201505/28/101359q46p144go2rlj262.gif)
+![Time Style Listing](/Asserts/Images/album/201505/28/101359q46p144go2rlj262.gif)
 
 
 *时间格式列表*
@@ -100,7 +100,7 @@ locale
 
 ```
 
-![Locale Time Style Listing](/Asserts/Images//attachment/album/201505/28/101359nlljiogdh9bo9hws.gif)
+![Locale Time Style Listing](/Asserts/Images/album/201505/28/101359nlljiogdh9bo9hws.gif)
 
 
 *本地时间格式列表*
@@ -112,7 +112,7 @@ locale
 
 ```
 
-![Date and Time Style Listing](/Asserts/Images//attachment/album/201505/28/101400e66e447ei5z6s6z4.gif)
+![Date and Time Style Listing](/Asserts/Images/album/201505/28/101400e66e447ei5z6s6z4.gif)
 
 
 *日期和时间格式列表*
@@ -124,7 +124,7 @@ locale
 
 ```
 
-![Full Style Time Listing](/Asserts/Images//attachment/album/201505/28/101400slysqkilodqee5k6.gif)
+![Full Style Time Listing](/Asserts/Images/album/201505/28/101400slysqkilodqee5k6.gif)
 
 
 *完整格式时间列表*
@@ -148,7 +148,7 @@ locale
 
 ```
 
-![Listing Formats of ls Command](/Asserts/Images//attachment/album/201505/28/101401ivbcvu6ucbc8vcbv.gif)
+![Listing Formats of ls Command](/Asserts/Images/album/201505/28/101401ivbcvu6ucbc8vcbv.gif)
 
 
 *ls命令的列出格式*
@@ -166,7 +166,7 @@ locale
 
 ```
 
-![Append Indicators to Content](/Asserts/Images//attachment/album/201505/28/101401in2sby2gnzja27qz.gif)
+![Append Indicators to Content](/Asserts/Images/album/201505/28/101401in2sby2gnzja27qz.gif)
 
 
 *添加指示符到内容*
@@ -191,7 +191,7 @@ locale
 
 ```
 
-![Sort Listing of Content by Options](/Asserts/Images//attachment/album/201505/28/101401rjjbyycfj8wy83jw.gif)
+![Sort Listing of Content by Options](/Asserts/Images/album/201505/28/101401rjjbyycfj8wy83jw.gif)
 
 
 *通过选项对内容排序列出*
@@ -209,7 +209,7 @@ locale
 
 ```
 
-![Print Listing of Content by UID and GID](/Asserts/Images//attachment/album/201505/28/101402z2gi2wp319yh2060.gif)
+![Print Listing of Content by UID and GID](/Asserts/Images/album/201505/28/101402z2gi2wp319yh2060.gif)
 
 
 *通过UID和GID对打印内容列表*
@@ -232,7 +232,7 @@ locale
 
 ```
 
-![List Content Based on Window Sizes](/Asserts/Images//attachment/album/201505/28/101402fcef00a0xwfhx044.gif)
+![List Content Based on Window Sizes](/Asserts/Images/album/201505/28/101402fcef00a0xwfhx044.gif)
 
 
 *根据窗口大小列出内容*
@@ -250,7 +250,7 @@ locale
 
 ```
 
-![List Content by Table Size](/Asserts/Images//attachment/album/201505/28/101404dp77zmiq4pb84jpu.gif)
+![List Content by Table Size](/Asserts/Images/album/201505/28/101404dp77zmiq4pb84jpu.gif)
 
 
 *按表尺寸列出内容*

@@ -15,7 +15,7 @@ tags:	[linuxcn,防火墙,nftables]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/24/070724d542rvbbg3af3o9p.jpg)
+![](/Asserts/Images/album/202207/24/070724d542rvbbg3af3o9p.jpg)
 
 
 Netfilter 表（[nftables](https://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables?extIdCarryOver=true&sc_cid=701f2000001OH79AAG#getting_started)）是现代 Linux 发行版中的默认防火墙。它在 Fedora 和 RHEL 8、最新的 Debian 和许多其他版本上都有。它取代了早期发行版中捆绑的旧版 iptables。它是一个强大的、值得的 iptables 替代品，作为一个广泛使用它的人，我欣赏它的能力和功能。
@@ -42,7 +42,7 @@ nftables 的一个特点是能够为许多元素添加计数器，例如规则�
 你得到的不是一个表格的转储，而是显示每个规则活动的输出。
 
 
-![Image of nftwatch](/Asserts/Images//attachment/album/202207/24/070806e66aw8ab0v9f5r99.jpg)
+![Image of nftwatch](/Asserts/Images/album/202207/24/070806e66aw8ab0v9f5r99.jpg)
 
 
 你可以从它的 [Git 仓库](https://github.com/flyingrhinonz/nftwatch)下载它。

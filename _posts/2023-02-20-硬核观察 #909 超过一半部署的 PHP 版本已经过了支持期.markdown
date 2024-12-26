@@ -7,10 +7,10 @@ tags:	[linuxcn,PHP,ChatGPT,马斯克]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/11/095649vvtov3nvhahrtyuh.jpg)
+![](/Asserts/Images/album/202302/11/095649vvtov3nvhahrtyuh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/11/095656ohstvxbnyeiyhyc9.jpg)
+![](/Asserts/Images/album/202302/11/095656ohstvxbnyeiyhyc9.jpg)
 
 
 ### 超过一半部署的 PHP 版本已经过了支持期
@@ -35,7 +35,7 @@ tags:	[linuxcn,PHP,ChatGPT,马斯克]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/11/095705qobqzsccbbq2leob.jpg)
+![](/Asserts/Images/album/202302/11/095705qobqzsccbbq2leob.jpg)
 
 
 ### 中国互联网公司也加入 ChatGPT 热潮
@@ -60,7 +60,7 @@ tags:	[linuxcn,PHP,ChatGPT,马斯克]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/11/095718t67xu6vxqvv3mxi3.jpg)
+![](/Asserts/Images/album/202302/11/095718t67xu6vxqvv3mxi3.jpg)
 
 
 ### 因为说马斯克人气下降，首席工程师被开除

@@ -15,7 +15,7 @@ tags:	[linuxcn,游戏,Steam]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/11/090911kalfl4ffftmfsff3.png)
+![](/Asserts/Images/album/202203/11/090911kalfl4ffftmfsff3.png)
 
 
 《<ruby> Apex 英雄 <rt>  Apex Legends </rt></ruby>》是最受欢迎的多人游戏之一，我们都在急切地等待它能在 Linux 上运行。
@@ -36,7 +36,7 @@ tags:	[linuxcn,游戏,Steam]
 ### 在 Linux 上玩《Apex 英雄》已成为现实
 
 
-![](/Asserts/Images//attachment/album/202203/11/090913fnng6zhhhiz3herh.jpg)
+![](/Asserts/Images/album/202203/11/090913fnng6zhhhiz3herh.jpg)
 
 
 随着 Steam Deck 的验证状态，可以说我们现在有了在 Linux 上运行的顶级多人射击游戏之一。
@@ -45,7 +45,7 @@ tags:	[linuxcn,游戏,Steam]
 如果你不知道的话，《Apex 英雄》目前是 Steam 上排名前十的游戏之一，它在 PC 上有大量的玩家。
 
 
-![](/Asserts/Images//attachment/album/202203/11/090913unz0z9fs9vdddkf1.png)
+![](/Asserts/Images/album/202203/11/090913unz0z9fs9vdddkf1.png)
 
 
 因此，如果你因为缺乏多人游戏支持而不愿意在桌面上尝试 Linux，现在你可以考虑了。

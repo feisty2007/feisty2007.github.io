@@ -22,7 +22,7 @@ PyTorch 利用 [GPU 超强的运算能力](https://en.wikipedia.org/wiki/General
 ### PyTorch 1.0 候选版本的亮点
 
 
-![PyTorhc is Python based open source AI framework from Facebook](/Asserts/Images//attachment/album/201810/22/084432rtvtitfvt8teo5v0.jpg)
+![PyTorhc is Python based open source AI framework from Facebook](/Asserts/Images/album/201810/22/084432rtvtitfvt8teo5v0.jpg)
 
 
 候选版本中的一些主要新功能包括：

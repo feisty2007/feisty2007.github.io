@@ -7,7 +7,7 @@ tags:	[linuxcn,Ansible]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/22/124803cgryrgxqezjllfqg.jpg)
+![](/Asserts/Images/album/202102/22/124803cgryrgxqezjllfqg.jpg)
 
 
 市面上有很多自动化工具。我可以举几个例子，例如 Puppet、Chef、CFEngine、Foreman、Katello、Saltstock、Space Walk，它们被许多组织广泛使用。
@@ -52,7 +52,7 @@ Ansible 通过 SSH 运行这些模块，并在完成后将其删除。
 模块是用 Python 或 Perl 等编写的一些脚本。
 
 
-![](/Asserts/Images//attachment/album/202102/22/124822meej9lngyylly290.png)
+![](/Asserts/Images/album/202102/22/124822meej9lngyylly290.png)
 
 
 *控制节点，用于控制剧本的全部功能，包括客户端节点（主机）。*

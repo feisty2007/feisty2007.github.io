@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora,模块化]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/27/205100merrbu3z93khhm5z.jpg)
+![](/Asserts/Images/album/201901/27/205100merrbu3z93khhm5z.jpg)
 
 
 最近 Fedora Magazine 中题为 [Fedora 28 服务器版的模块化](/article-10479-1.html)在解释 Fedora 28 中的模块化方面做得很好。它还给出了一些示例模块并解释了它们解决的问题。本文将其中一个模块用于实际应用，包括使用模块安装设置 Review Board 3.0。
@@ -130,11 +130,11 @@ sudo dnf -y module install reviewboard/server
 ```
 sudo rb-site install --noinput \
     --domain-name=localhost --db-type=sqlite3 \
-    --db-name=/var/www/rev.local/Asserts/Images//reviewboard.db \
+    --db-name=/var/www/rev.local/data/reviewboard.db \
     --admin-user=rbadmin --admin-password=secret \
     /var/www/rev.local
 sudo chown -R apache /var/www/rev.local/htdocs/media/uploaded \
-    /var/www/rev.local/Asserts/Images/
+    /var/www/rev.local/data
 sudo ln -s /var/www/rev.local/conf/apache-wsgi.conf \
     /etc/httpd/conf.d/reviewboard-localhost.conf
 sudo setsebool -P httpd_can_sendmail=1 httpd_can_network_connect=1 \

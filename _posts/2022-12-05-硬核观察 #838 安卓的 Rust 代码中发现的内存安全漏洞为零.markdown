@@ -7,10 +7,10 @@ tags:	[linuxcn,IT,Rust,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/02/142822ymq3mwym83ty6bqj.jpg)
+![](/Asserts/Images/album/202212/02/142822ymq3mwym83ty6bqj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/02/142829xz1bxomr47frk7mx.jpg)
+![](/Asserts/Images/album/202212/02/142829xz1bxomr47frk7mx.jpg)
 
 
 ### 安卓的 Rust 代码中发现的内存安全漏洞为零
@@ -35,7 +35,7 @@ tags:	[linuxcn,IT,Rust,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/02/142838arxzvg4p9vgv4pz3.jpg)
+![](/Asserts/Images/album/202212/02/142838arxzvg4p9vgv4pz3.jpg)
 
 
 ### OpenAI 的新聊天机器人可以解释代码
@@ -60,7 +60,7 @@ OpenAI 发布了一个通用的聊天机器人原型 ChatGPT，可以以更像�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/02/142850miecucibruo5tetc.jpg)
+![](/Asserts/Images/album/202212/02/142850miecucibruo5tetc.jpg)
 
 
 ### 英国年龄超过 50 岁的 IT 专家仅有 22%

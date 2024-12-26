@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,发行版]
 > 
 
 
-![2023 年值得期待的 11 个新发行版](/Asserts/Images//attachment/album/202301/21/115617tljjqkjxq8njtqtn.png)
+![2023 年值得期待的 11 个新发行版](/Asserts/Images/album/202301/21/115617tljjqkjxq8njtqtn.png)
 
 
 是时候向 2022 年说再见了！?
@@ -50,7 +50,7 @@ tags:	[linuxcn,Linux,发行版]
 ### 1、Vanilla OS
 
 
-![Vanilla OS](/Asserts/Images//attachment/album/202301/21/115618g5gb2698bc2lmbbm.png)
+![Vanilla OS](/Asserts/Images/album/202301/21/115618g5gb2698bc2lmbbm.png)
 
 
 Vanilla OS 是一个基于 Ubuntu 的发行版，它是 [Bottles](https://usebottles.com) 的创建者 Mirko Brombin 的心血结晶。
@@ -84,7 +84,7 @@ Vanilla OS 是一个基于 Ubuntu 的发行版，它是 [Bottles](https://usebot
 ### 2、XeroLinux
 
 
-![XeroLinux](/Asserts/Images//attachment/album/202301/21/115619jz60mblb0gk65eag.jpg)
+![XeroLinux](/Asserts/Images/album/202301/21/115619jz60mblb0gk65eag.jpg)
 
 
 这个兴趣项目 [XeroLinux](https://itsfoss.com/xerolinux/) 是 Steve（即 TechXero）启动的，这个项目并不打算成为一个主流发行版，也没有各种花里胡哨的东西。
@@ -110,7 +110,7 @@ Vanilla OS 是一个基于 Ubuntu 的发行版，它是 [Bottles](https://usebot
 ### 3、Crystal Linux
 
 
-![Crystal Linux](/Asserts/Images//attachment/album/202301/21/115619bwxlwgsfwhwm2g8h.jpg)
+![Crystal Linux](/Asserts/Images/album/202301/21/115619bwxlwgsfwhwm2g8h.jpg)
 
 
 Crystal Linux 是一个即将发布的基于 Arch 的发行版，它希望**提供一个易于使用的桌面体验，以及现代 Linux 技术**。
@@ -136,7 +136,7 @@ Crystal Linux 是一个即将发布的基于 Arch 的发行版，它希望**提�
 ### 4、TUXEDO OS
 
 
-![TUXEDO OS](/Asserts/Images//attachment/album/202301/21/115619qgzodfaviiadom3l.jpg)
+![TUXEDO OS](/Asserts/Images/album/202301/21/115619qgzodfaviiadom3l.jpg)
 
 
 [TUXEDO OS](https://news.itsfoss.com/tuxedo-os/) 是一个由 TUXEDO 计算机公司（一个专注 Linux 的硬件制造商）提供的基于 Ubuntu 的发行版。
@@ -165,7 +165,7 @@ Crystal Linux 是一个即将发布的基于 Arch 的发行版，它希望**提�
 ### 5、EuroLinux
 
 
-![EuroLinux](/Asserts/Images//attachment/album/202301/21/115619z4u7mvzez4b7g4g6.jpg)
+![EuroLinux](/Asserts/Images/album/202301/21/115619z4u7mvzez4b7g4g6.jpg)
 
 
 [EuroLinux](https://news.itsfoss.com/eurolinux-desktop/) 是一个具有**企业级特性**的、基于 RHEL 的发行版。它以可靠的软件包提供了稳定性和安全性。
@@ -194,7 +194,7 @@ Crystal Linux 是一个即将发布的基于 Arch 的发行版，它希望**提�
 ### 6、Zinc
 
 
-![Zinc](/Asserts/Images//attachment/album/202301/21/115620c2e65ho5ot1jsey5.png)
+![Zinc](/Asserts/Images/album/202301/21/115620c2e65ho5ot1jsey5.png)
 
 
 [Zinc](https://teejeetech.com/tag/zinc/) 是一个 **基于 Ubuntu 的发行版**，经过了调整后提供了一个独特的体验。现有的 Ubuntu 用户可能会惊讶于它所提供的内容。
@@ -220,7 +220,7 @@ Crystal Linux 是一个即将发布的基于 Arch 的发行版，它希望**提�
 ### 7、CachyOS
 
 
-![CachyOS](/Asserts/Images//attachment/album/202301/21/115620mx3t8ssx1xn5tn3t.jpg)
+![CachyOS](/Asserts/Images/album/202301/21/115620mx3t8ssx1xn5tn3t.jpg)
 
 
 [CachyOS](https://cachyos.org) 尝试使 **Arch Linux 变得对初学者更加友好**，让任何人都可以使用。它很受欢迎，因为它具有高度的可定制性，而且还拥有最新的软件。
@@ -246,7 +246,7 @@ CachyOS 是一个滚动发布的发行版，因此你可以期待它在 2023 年
 ### 8、risiOS
 
 
-![risiOS](/Asserts/Images//attachment/album/202301/21/115621xoqeov3cnwecc009.png)
+![risiOS](/Asserts/Images/album/202301/21/115621xoqeov3cnwecc009.png)
 
 
 在基于 Arch 和 Ubuntu 的 Linux 发行版的海洋中，[risiOS](https://risi.io) 是一道难得的风景。
@@ -275,7 +275,7 @@ risiOS 会在稳定版本间隔中推送一些小更新。在 2023 年，它还�
 ### 9、Exodia OS
 
 
-![Exodia OS](/Asserts/Images//attachment/album/202301/21/115623x7epu77n6b7v7dwn.jpg)
+![Exodia OS](/Asserts/Images/album/202301/21/115623x7epu77n6b7v7dwn.jpg)
 
 
 #$\*\*！又是一个基于 Arch 的 Linux 发行版？
@@ -307,7 +307,7 @@ risiOS 会在稳定版本间隔中推送一些小更新。在 2023 年，它还�
 ### 10、Kumandar Linux
 
 
-![Kumandar Linux](/Asserts/Images//attachment/album/202301/21/115623szcepzuo1wkzsykx.jpg)
+![Kumandar Linux](/Asserts/Images/album/202301/21/115623szcepzuo1wkzsykx.jpg)
 
 
 乍一看，你可能会认为这是 Windows 7，但如果仔细观察，你会发现这是 [Kumandar Linux](https://www.kumander.org)。
@@ -336,7 +336,7 @@ risiOS 会在稳定版本间隔中推送一些小更新。在 2023 年，它还�
 ### 11、Ubuntu Unity
 
 
-![Ubuntu Unity](/Asserts/Images//attachment/album/202301/21/115624mgn2cgbdo0700h3u.jpg)
+![Ubuntu Unity](/Asserts/Images/album/202301/21/115624mgn2cgbdo0700h3u.jpg)
 
 
 [今年早些时候](https://news.itsfoss.com/unity-remix-official-flavor/)，Ubuntu Unity 被宣布为 Ubuntu 的官方版本，是 Ubuntu 的一个翻版。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Bash,脚本]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/19/110018eyvhy9d0yhjcjhq7.jpg)
+![](/Asserts/Images/album/202306/19/110018eyvhy9d0yhjcjhq7.jpg)
 
 
 
@@ -94,7 +94,7 @@ echo Hello World
 按 `Ctrl+C` 或 `Ctrl+D` 键退出 `cat` 命令的追加模式。现在，如果你查看脚本 `hellow_world.sh` 的内容，你应该只看到一行。
 
 
-![Creating first shell script](/Asserts/Images//attachment/album/202306/19/110102gjgjm7g7jzggo7mk.png)
+![Creating first shell script](/Asserts/Images/album/202306/19/110102gjgjm7g7jzggo7mk.png)
 
 
 关键时刻来了。你已经创建了第一个 Shell 脚本。是时候 [运行 Shell 脚本](https://itsfoss.com/run-shell-script-linux/) 了。
@@ -112,7 +112,7 @@ bash hello_world.sh
 `echo` 命令只是显示提供给它的任何内容。在这种情况下，Shell 脚本应该在屏幕上输出 “Hello World”。
 
 
-![Run first shell script](/Asserts/Images//attachment/album/202306/19/110103bxjnxnl390xax3gx.png)
+![Run first shell script](/Asserts/Images/album/202306/19/110103bxjnxnl390xax3gx.png)
 
 
 恭喜！ 你刚刚成功运行了第一个 Shell 脚本。多么酷啊！
@@ -121,7 +121,7 @@ bash hello_world.sh
 以下是上述所有命令的重放，供你参考。
 
 
-![](/Asserts/Images//attachment/album/202306/19/110103l75p1z95crcanen3.svg)
+![](/Asserts/Images/album/202306/19/110103l75p1z95crcanen3.svg)
 
 
 #### 另一种运行 Shell 脚本的方法
@@ -163,7 +163,7 @@ chmod u+x hello-world.sh
 
 ```
 
-![Run shell scripts](/Asserts/Images//attachment/album/202306/19/110103rcn1a8af3acbnb8t.png)
+![Run shell scripts](/Asserts/Images/album/202306/19/110103rcn1a8af3acbnb8t.png)
 
 
 因此，你学习了两种运行 Shell 脚本的方法。是时候让我们将注意力转回 Bash 了。
@@ -216,7 +216,7 @@ echo Hello World
 现在，你可以像往常一样运行 Shell 脚本，因为你知道系统将使用 Bash Shell 来运行脚本。
 
 
-![Run bash shell script](/Asserts/Images//attachment/album/202306/19/110103z5ennyh55zgh8me5.png)
+![Run bash shell script](/Asserts/Images/album/202306/19/110103z5ennyh55zgh8me5.png)
 
 
 

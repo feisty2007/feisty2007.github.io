@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包仓库,Yum,DNF]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/11/164149y9zzm7kkxwsxgszw.jpg)
+![](/Asserts/Images/album/202206/11/164149y9zzm7kkxwsxgszw.jpg)
 
 
 你好，技术兄弟，最近红帽发布了最新的操作系统 RHEL 9，RHEL 9 满足了混合云的所有要求。它可以安装在物理服务器、虚拟机和容器镜像中。
@@ -40,7 +40,7 @@ $ sudo mount -o loop rhel-baseos-9.0-x86_64-dvd.iso /var/repo/
 
 ```
 
-![Mount-RHEL9-ISO-File-Command](/Asserts/Images//attachment/album/202206/11/164154ilrr67em1oeqtq71.png)
+![Mount-RHEL9-ISO-File-Command](/Asserts/Images/album/202206/11/164154ilrr67em1oeqtq71.png)
 
 
 如果是 DVD 光盘，运行：
@@ -82,7 +82,7 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
 保存并关闭该文件。
 
 
-![RHEL8-Local-Repo-File](/Asserts/Images//attachment/album/202206/11/164154hncnb4945fedzj5p.png)
+![RHEL8-Local-Repo-File](/Asserts/Images/album/202206/11/164154hncnb4945fedzj5p.png)
 
 
 ### 3）刷新 Yum/DNF 和订阅管理器的缓存
@@ -98,7 +98,7 @@ $ sudo subscription-manager clean
 
 ```
 
-![DNF-Subscription-Manager-Clean](/Asserts/Images//attachment/album/202206/11/164154h3aa78qxhq2pa8ps.png)
+![DNF-Subscription-Manager-Clean](/Asserts/Images/album/202206/11/164154h3aa78qxhq2pa8ps.png)
 
 
 在上面的输出中，我们得到一个警告信息 `This system is not registered with an entitlement`（系统没有注册权限）。所以，为了抑制这个警告信息，编辑文件 `/etc/yum/pluginconf.d/subscription-manager.conf`，将参数 `enabled=1` 改为 `enabled=0`。
@@ -110,7 +110,7 @@ $ sudo vi /etc/yum/pluginconf.d/subscription-manager.conf
 
 ```
 
-![Disable-Subscription-Parameter-RHEL-9](/Asserts/Images//attachment/album/202206/11/164154fdkf7smfnlg7tvvu.png)
+![Disable-Subscription-Parameter-RHEL-9](/Asserts/Images/album/202206/11/164154fdkf7smfnlg7tvvu.png)
 
 
 保存并退出该文件。
@@ -131,7 +131,7 @@ $ sudo dnf repolist
 输出：
 
 
-![DNF-Repolist-RHEL-9](/Asserts/Images//attachment/album/202206/11/164154fecmp5m55i5tjb7c.png)
+![DNF-Repolist-RHEL-9](/Asserts/Images/album/202206/11/164154fecmp5m55i5tjb7c.png)
 
 
 现在，试试用 `dnf` 命令通过上面配置的本地仓库安装软件包。
@@ -146,10 +146,10 @@ $ sudo dnf install nfs-utils
 输出：
 
 
-![Install-RPM-Package-via-local-repo-rhel9](/Asserts/Images//attachment/album/202206/11/164154rc600lj6jj4qj0s0.png)
+![Install-RPM-Package-via-local-repo-rhel9](/Asserts/Images/album/202206/11/164154rc600lj6jj4qj0s0.png)
 
 
-![Package-Installation-Completion-RHEL9-DNF-Command](/Asserts/Images//attachment/album/202206/11/164154p73x023ca9cxo8g9.png)
+![Package-Installation-Completion-RHEL9-DNF-Command](/Asserts/Images/album/202206/11/164154p73x023ca9cxo8g9.png)
 
 
 完美，上述输出证实了 `nfs-utils` 包及其依赖项已经通过本地配置的 Yum 或 DNF 仓库成功安装。

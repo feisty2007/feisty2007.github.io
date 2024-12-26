@@ -34,7 +34,7 @@ tags:	[linuxcn,WordPress,网站安全,wpscan,nmap]
 在这篇文章里面，我将介绍 **wpscan** 的安装过程，以及怎样使用 wpscan 来定位那些已知的会让你的站点变得易受攻击的插件和主题。还有怎样安装和使用一款免费的网络探索和攻击的安全扫描软件 **nmap** 。最后展示的是使用 **nikto** 的步骤。
 
 
-![](/Asserts/Images//attachment/album/201504/25/225948j6druzvrwmu6swwc.jpg)
+![](/Asserts/Images/album/201504/25/225948j6druzvrwmu6swwc.jpg)
 
 
 （题图来自：codersmount.com）
@@ -415,7 +415,7 @@ nmap 192.168.1.1
 输出样例：
 
 
-![Fig.01: nmap in action](/Asserts/Images//attachment/album/201504/26/105917vkqytsyphljnfssf.png)
+![Fig.01: nmap in action](/Asserts/Images/album/201504/26/105917vkqytsyphljnfssf.png)
 
 
 扫描以获得主机的操作系统：

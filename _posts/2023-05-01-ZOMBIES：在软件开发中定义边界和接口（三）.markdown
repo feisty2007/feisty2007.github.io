@@ -7,7 +7,7 @@ tags:	[linuxcn,测试]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/30/092200y7hzd07eareedegg.jpg)
+![](/Asserts/Images/album/202305/30/092200y7hzd07eareedegg.jpg)
 
 
 
@@ -106,7 +106,7 @@ public int RemoveItem(Hashtable item) {
 运行，然后你会得到如下错误：
 
 
-![Error](/Asserts/Images//attachment/album/202305/30/092254w5456rl7z4071rr5.png "Error")
+![Error](/Asserts/Images/album/202305/30/092254w5456rl7z4071rr5.png "Error")
 
 
 系统在移除一个不在购物框的商品，这导致了系统崩溃。加一点点 <ruby> 防御式编程defensive programming</ruby>：

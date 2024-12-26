@@ -7,7 +7,7 @@ tags:	[linuxcn,Go]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/26/083943vymvmc67p7s3oman.jpg)
+![](/Asserts/Images/album/202006/26/083943vymvmc67p7s3oman.jpg)
 
 
 Go 编译器的 SSA 后端包含一种工具，可以生成编译阶段的 HTML 调试输出。这篇文章介绍了如何为函数*和*方法打印 SSA 输出。

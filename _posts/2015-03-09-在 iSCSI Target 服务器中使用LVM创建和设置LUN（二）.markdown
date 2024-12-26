@@ -10,7 +10,7 @@ tags:	[linuxcn,iSCSI]
 LUN是逻辑单元号，它与iSCSI存储服务器共享。iSCSI 目标器通过TCP/IP网络共享它的物理驱动器给发起程序（initiator）。这些来自一个大型存储（SAN：Storage Area Network）的驱动器集合称作LUN。在真实环境中LUN是在LVM中定义的，因为它可以按需扩展。
 
 
-![Create LUNS using LVM in Target Server](/Asserts/Images//attachment/album/201503/02/150705ykpxc1w66gawck8w.png)
+![Create LUNS using LVM in Target Server](/Asserts/Images/album/201503/02/150705ykpxc1w66gawck8w.png)
 
 
 *在目标器中使用 LVM 创建 LUN*
@@ -64,7 +64,7 @@ LUN用于存储，SAN存储大多数由LUN的集群来组成存储池，LUN由�
 
 ```
 
-![List Storage Drives](/Asserts/Images//attachment/album/201503/02/150707zzgy6hz8dy4pq99g.jpg)
+![List Storage Drives](/Asserts/Images/album/201503/02/150707zzgy6hz8dy4pq99g.jpg)
 
 
 *列出存储设备*
@@ -85,7 +85,7 @@ LUN用于存储，SAN存储大多数由LUN的集群来组成存储池，LUN由�
 
 ```
 
-![List LVM Drive](/Asserts/Images//attachment/album/201503/02/150707zxt686bu6gg6zm78.jpg)
+![List LVM Drive](/Asserts/Images/album/201503/02/150707zxt686bu6gg6zm78.jpg)
 
 
 *列出LVM驱动器*
@@ -190,7 +190,7 @@ Disk identifier: 0x9fae99c8
 作为参考，我下面附上了截图来给你在创建LVM驱动器时一个明确的指导。
 
 
-![Create LVM Partition](/Asserts/Images//attachment/album/201503/02/150709odaevea9oavofppf.jpg)
+![Create LVM Partition](/Asserts/Images/album/201503/02/150709odaevea9oavofppf.jpg)
 
 
 *创建LVM分区*
@@ -205,7 +205,7 @@ Disk identifier: 0x9fae99c8
 
 ```
 
-![Verify LVM Partition](/Asserts/Images//attachment/album/201503/02/150709zc1x0e238kxc3fsz.jpg)
+![Verify LVM Partition](/Asserts/Images/album/201503/02/150709zc1x0e238kxc3fsz.jpg)
 
 
 *验证LVM分区*
@@ -257,13 +257,13 @@ Disk identifier: 0x9fae99c8
 为了更好地理解上面的命令，我在下面包含了截图作为参考。
 
 
-![Creating LVM Logical Volumes](/Asserts/Images//attachment/album/201503/02/150711o7jh7p3qxi7cn3d3.jpg)
+![Creating LVM Logical Volumes](/Asserts/Images/album/201503/02/150711o7jh7p3qxi7cn3d3.jpg)
 
 
 *创建LVM逻辑卷*
 
 
-![Verify LVM Logical Volumes](/Asserts/Images//attachment/album/201503/02/150711iaoi6iprc4cuahuc.jpg)
+![Verify LVM Logical Volumes](/Asserts/Images/album/201503/02/150711iaoi6iprc4cuahuc.jpg)
 
 
 *验证LVM逻辑卷*
@@ -304,7 +304,7 @@ Disk identifier: 0x9fae99c8
 
 ```
 
-![Configure LUNs in Target Server](/Asserts/Images//attachment/album/201503/02/150712oszgor8gnwf2ys22.jpg)
+![Configure LUNs in Target Server](/Asserts/Images/album/201503/02/150712oszgor8gnwf2ys22.jpg)
 
 
 *在target中配置LUN*
@@ -328,7 +328,7 @@ Disk identifier: 0x9fae99c8
 
 ```
 
-![Reload Configuration](/Asserts/Images//attachment/album/201503/02/150713pswssdkzj67j9yk6.jpg)
+![Reload Configuration](/Asserts/Images/album/201503/02/150713pswssdkzj67j9yk6.jpg)
 
 
 *重载配置*
@@ -343,13 +343,13 @@ Disk identifier: 0x9fae99c8
 
 ```
 
-![List Available LUNs](/Asserts/Images//attachment/album/201503/02/150715pezn3zl2kkhrjkpr.jpg)
+![List Available LUNs](/Asserts/Images/album/201503/02/150715pezn3zl2kkhrjkpr.jpg)
 
 
 *列出可用LUN*
 
 
-![LUNs Information](/Asserts/Images//attachment/album/201503/02/150716mzwcnnbs4jxj6b4s.jpg)
+![LUNs Information](/Asserts/Images/album/201503/02/150716mzwcnnbs4jxj6b4s.jpg)
 
 
 *LUN信息*

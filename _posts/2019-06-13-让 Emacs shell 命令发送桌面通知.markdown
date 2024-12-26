@@ -7,7 +7,7 @@ tags:	[linuxcn,Emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/15/141759hzm80sv30kfp4ssv.jpg)
+![](/Asserts/Images/album/201906/15/141759hzm80sv30kfp4ssv.jpg)
 
 
 我总是使用 [Eshell](https://www.gnu.org/software/emacs/manual/html_mono/eshell.html "Eshell") 来与操作系统进行交互，因为它与 Emacs 无缝整合、支持处理 (远程) [TRAMP](https://www.gnu.org/software/tramp/ "TRAMP") 文件，而且在 Windows 上也能工作得很好。
@@ -51,7 +51,7 @@ tags:	[linuxcn,Emacs]
 这甚至对于 [TRAMP](https://www.gnu.org/software/tramp/ "TRAMP") 也一样生效。下面这个截屏展示了失败的 `make` 命令产生的 Gnome 桌面通知。
 
 
-![](/Asserts/Images//attachment/album/201906/15/141841i4s79i1bkd0z70t3.png)
+![](/Asserts/Images/album/201906/15/141841i4s79i1bkd0z70t3.png)
 
 
 

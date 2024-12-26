@@ -7,7 +7,7 @@ tags:	[linuxcn,主题,桌面]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/11/114549qlkpcqxxqawvgbgx.png)
+![](/Asserts/Images/album/201803/11/114549qlkpcqxxqawvgbgx.png)
 
 
 人们在电脑上选择黑暗主题有几个原因。有些人觉得对于眼睛轻松，而另一些人因为他们的医学条件选择黑色。特别地，程序员喜欢黑暗的主题，因为可以减少眼睛的眩光。
@@ -19,7 +19,7 @@ tags:	[linuxcn,主题,桌面]
 ### 1. OSX-Arc-Shadow
 
 
-![OSX-Arc-Shadow Theme](/Asserts/Images//attachment/album/201803/11/114601w9bglrsl3i9n5yl9.png "OSX-Arc-Shadow Theme")
+![OSX-Arc-Shadow Theme](/Asserts/Images/album/201803/11/114601w9bglrsl3i9n5yl9.png "OSX-Arc-Shadow Theme")
 
 
 顾名思义，这个主题受 OS X 的启发，它是基于 Arc 的平面主题。该主题支持 GTK 3 和 GTK 2 桌面环境，因此 Gnome、Cinnamon、Unity、Manjaro、Mate 和 XFCE 用户可以安装和使用该主题。[OSX-Arc-Shadow](https://github.com/LinxGem33/OSX-Arc-Shadow/) 是 OSX-Arc 主题集合的一部分。该集合还包括其他几个主题（黑暗和明亮）。你可以下载整个系列并使用黑色主题。
@@ -31,7 +31,7 @@ tags:	[linuxcn,主题,桌面]
 ### 2. Kiss-Kool-Red version 2
 
 
-![Kiss-Kool-Red version 2 ](/Asserts/Images//attachment/album/201803/11/114604t42tqq5cw5u1g2t2.png "Kiss-Kool-Red version 2 ")
+![Kiss-Kool-Red version 2 ](/Asserts/Images/album/201803/11/114604t42tqq5cw5u1g2t2.png "Kiss-Kool-Red version 2 ")
 
 
 该主题发布不久。与 OSX-Arc-Shadow 相比它有更黑的外观和红色选择框。对于那些希望电脑屏幕上有更强对比度和更少眩光的人尤其有吸引力。因此，它可以减少在夜间使用或在光线较暗的地方使用时的注意力分散。它支持 GTK 3 和 GTK2。
@@ -43,7 +43,7 @@ tags:	[linuxcn,主题,桌面]
 ### 3. Equilux
 
 
-![Equilux](/Asserts/Images//attachment/album/201803/11/114605b96l4314m2lw832r.png "Equilux")
+![Equilux](/Asserts/Images/album/201803/11/114605b96l4314m2lw832r.png "Equilux")
 
 
 Equilux 是另一个基于 Materia 主题的简单的黑暗主题。它有一个中性的深色调，并不过分花哨。选择框之间的对比度也很小，并且没有 Kiss-Kool-Red 中红色的锐利。这个主题的确是为减轻眼睛疲劳而做的。
@@ -55,7 +55,7 @@ Equilux 是另一个基于 Materia 主题的简单的黑暗主题。它有一个
 ### 4. Deepin Dark
 
 
-![Deepin Dark](/Asserts/Images//attachment/album/201803/11/114609oci0ehezq7xx3icc.png "Deepin Dark ")
+![Deepin Dark](/Asserts/Images/album/201803/11/114609oci0ehezq7xx3icc.png "Deepin Dark ")
 
 
 Deepin Dark 是一个完全黑暗的主题。对于那些喜欢更黑暗的人来说，这个主题绝对是值得考虑的。此外，它还可以减少电脑屏幕的眩光量。另外，它支持 Unity。[在这里下载 Deepin Dark](https://www.gnome-look.org/p/1190867/)。
@@ -64,7 +64,7 @@ Deepin Dark 是一个完全黑暗的主题。对于那些喜欢更黑暗的人�
 ### 5. Ambiance DS BlueSB12
 
 
-![Ambiance DS BlueSB12 ](/Asserts/Images//attachment/album/201803/11/114616krzye4zjidimelr4.png "Ambiance DS BlueSB12 ")
+![Ambiance DS BlueSB12 ](/Asserts/Images/album/201803/11/114616krzye4zjidimelr4.png "Ambiance DS BlueSB12 ")
 
 
 Ambiance DS BlueSB12 是一个简单的黑暗主题，它使得重要细节突出。它有助于专注，不花哨。它与 Deepin Dark 非常相似。特别是对于 Ubuntu 用户，它与 Ubuntu 17.04 兼容。你可以从[这里](https://www.gnome-look.org/p/1013664/)下载并尝试。

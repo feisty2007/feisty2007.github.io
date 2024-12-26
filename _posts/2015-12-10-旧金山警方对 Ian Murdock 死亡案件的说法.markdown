@@ -7,7 +7,7 @@ tags:	[linuxcn,Ian Murdock]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/31/153324bj5k787gtz7w2gkc.jpg)
+![](/Asserts/Images/album/201512/31/153324bj5k787gtz7w2gkc.jpg)
 
 
 首先，让我们来回顾一下整个事件目前已知的经过：
@@ -30,7 +30,7 @@ tags:	[linuxcn,Ian Murdock]
 Ian Murdock 死于当天晚上，并且他的 Twitter 账户被禁用（删除？）。
 
 
-![Ian Murdock 生前发的一系列推文](/Asserts/Images//attachment/album/201512/31/152123bpm69qbyodhs1obj.jpg)
+![Ian Murdock 生前发的一系列推文](/Asserts/Images/album/201512/31/152123bpm69qbyodhs1obj.jpg)
 
 
 这一事件引发了开源社区和技术界的广泛关注和沉痛哀悼。

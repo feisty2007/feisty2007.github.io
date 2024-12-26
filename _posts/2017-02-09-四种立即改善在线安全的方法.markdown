@@ -16,7 +16,7 @@ tags:	[linuxcn,安全,隐私,VPN,密码]
 安全的重点不是将你的计算机变成一个虚拟的 Fort Knox（LCTT 译注：Fort Knox 是一个美军基地，固若金汤之意），而是为了使别人访问你的数据足够困难，这样攻击者将转移到其他更容易的目标。
 
 
-![](/Asserts/Images//attachment/album/201702/22/230448xteuckiexp98c0en.jpg)
+![](/Asserts/Images/album/201702/22/230448xteuckiexp98c0en.jpg)
 
 
 ### 使用密码管理器

@@ -7,7 +7,7 @@ tags:	[linuxcn,atom,插件]
 ---
 
 
-![](/Asserts/Images//attachment/album/201610/15/161556nz01buuwz1gq25zw.jpg)
+![](/Asserts/Images/album/201610/15/161556nz01buuwz1gq25zw.jpg)
 
 
 ### 序言
@@ -16,7 +16,7 @@ tags:	[linuxcn,atom,插件]
 这篇教程将会教你怎么制作你的第一个 Atom 文本编辑器的插件。我们将会制作一个山寨版的 [Sourcerer](https://github.com/NickTikhonov/sourcerer)，这是一个从 StackOverflow 查询并使用代码片段的插件。到教程结束时，你将会制作好一个将编程问题（用英语描述的）转换成获取自 StackOverflow 的代码片段的插件，像这样：
 
 
-![](/Asserts/Images//attachment/album/201610/15/154809kzgamoaygugu9nnp.gif)
+![](/Asserts/Images/album/201610/15/154809kzgamoaygugu9nnp.gif)
 
 
 #### 教程须知
@@ -71,7 +71,7 @@ apm -v
 如果你在侧边栏没有看到软件包的文件，依次按下 `Cmd+K` `Cmd+B`（MacOS）或者 `Ctrl+K` `Ctrl+B`（Windows/Linux）。
 
 
-![](/Asserts/Images//attachment/album/201610/15/154924xs3id22wnynulfoy.gif)
+![](/Asserts/Images/album/201610/15/154924xs3id22wnynulfoy.gif)
 
 
 
@@ -94,7 +94,7 @@ apm -v
 通过导航到编辑器菜单的 `Packages > sourcefetch > Toggle` 或者在命令面板执行 `sourcefetch:toggle` 来运行软件包的 `toggle` 命令。你应该会看到屏幕的顶部出现了一个小黑窗。再次运行这条命令就可以隐藏它。
 
 
-![](/Asserts/Images//attachment/album/201610/15/155008b7a0pgzv8rk8rcpb.gif)
+![](/Asserts/Images/album/201610/15/155008b7a0pgzv8rk8rcpb.gif)
 
 
 #### “toggle”命令
@@ -180,7 +180,7 @@ toggle() {
 更新后的命令将会改变选中文本的顺序：
 
 
-![](/Asserts/Images//attachment/album/201610/15/155103uthil87z17eu7shz.gif)
+![](/Asserts/Images/album/201610/15/155103uthil87z17eu7shz.gif)
 
 
 在 [sourcefetch 教程仓库](https://github.com/NickTikhonov/sourcefetch-tutorial/commit/89e174ab6ec6e270938338b34905f75bb74dbede) 查看这一步的全部代码更改。
@@ -503,7 +503,7 @@ fetch() {
 * 用上述的任意一种方法执行我们软件包的命令：
 
 
-![](/Asserts/Images//attachment/album/201610/15/155404zh46j6658z46lz2u.gif)
+![](/Asserts/Images/album/201610/15/155404zh46j6658z46lz2u.gif)
 
 
 
@@ -572,13 +572,13 @@ fetch() {
 看看发生了什么变化。重新加载 Atom 并在一个选中的 URL 上执行软件包命令：
 
 
-![](/Asserts/Images//attachment/album/201610/15/155458yaag3og5h9eoz96h.gif)
+![](/Asserts/Images/album/201610/15/155458yaag3og5h9eoz96h.gif)
 
 
 如果这个 URL 是无效的，一个警告通知将会弹出来：
 
 
-![](/Asserts/Images//attachment/album/201610/15/160402qqfffspoxrcgdorw.gif)
+![](/Asserts/Images/album/201610/15/160402qqfffspoxrcgdorw.gif)
 
 
 在 [sourcefetch 教程仓库](https://github.com/NickTikhonov/sourcefetch-tutorial/commit/896d160dca711f4a53ff5b182018b39cf78d2774) 查看这一步所有的代码更改。
@@ -629,7 +629,7 @@ fetch() {
 * 呈现代码片段的元素就是里面那一对 `code` 标签
 
 
-![](/Asserts/Images//attachment/album/201610/15/160428thz0g7i2n2hkan3q.gif)
+![](/Asserts/Images/album/201610/15/160428thz0g7i2n2hkan3q.gif)
 
 
 现在让我们写一些 `jQuery` 代码来提取代码片段：
@@ -764,13 +764,13 @@ fetch() {
 如果我们在一个有采纳答案的页面上运行这条命令，代码片段将会被插入到编辑器中：
 
 
-![](/Asserts/Images//attachment/album/201610/15/160534c1dq1d48twxshzzx.gif)
+![](/Asserts/Images/album/201610/15/160534c1dq1d48twxshzzx.gif)
 
 
 如果我们在一个没有采纳答案的页面上运行这条命令，将会弹出一个警告通知：
 
 
-![](/Asserts/Images//attachment/album/201610/15/160612a2jj2226uuwq2qxu.gif)
+![](/Asserts/Images/album/201610/15/160612a2jj2226uuwq2qxu.gif)
 
 
 我们最新的 `fetch` 函数给我们提供了一个 StackOverflow 页面的代码片段而不再是整个 HTML 内容。要注意我们更新的 `fetch` 函数会检查有没有答案并显示通知以提醒用户。
@@ -945,7 +945,7 @@ fetch() {
 大功告成了！重新加载 Atom，对一个“问题描述”运行软件包的命令来看看我们最终的插件是否工作，不要忘了在编辑器右下角选择一种语言。
 
 
-![](/Asserts/Images//attachment/album/201610/15/160818no9eml1fphvwg5df.gif)
+![](/Asserts/Images/album/201610/15/160818no9eml1fphvwg5df.gif)
 
 
 ### 下一步

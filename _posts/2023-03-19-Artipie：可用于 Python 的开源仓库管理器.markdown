@@ -7,7 +7,7 @@ tags:	[linuxcn,仓库,Artipie]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/02/232208fgy56v5egv7ipgg2.jpg)
+![](/Asserts/Images/album/202303/02/232208fgy56v5egv7ipgg2.jpg)
 
 
 
@@ -104,12 +104,12 @@ repo:
 
 ```
 
-另外两个文件的形式相同（只是数字不同）。要想自己看这些文件，请在浏览器中打开链接 [一](https://central.artipie.com/olenagerasimova/Asserts/Images//y1.dat)、[二](https://central.artipie.com/olenagerasimova/Asserts/Images//y2.dat) 和 [三](https://central.artipie.com/olenagerasimova/Asserts/Images//y3.dat) 并下载文件，或者你可以用 `httpie` 执行 GET 请求：
+另外两个文件的形式相同（只是数字不同）。要想自己看这些文件，请在浏览器中打开链接 [一](https://central.artipie.com/olenagerasimova/data/y1.dat)、[二](https://central.artipie.com/olenagerasimova/data/y2.dat) 和 [三](https://central.artipie.com/olenagerasimova/data/y3.dat) 并下载文件，或者你可以用 `httpie` 执行 GET 请求：
 
 
 
 ```
-httpie -a https://central.artipie.com/olenagerasimova/Asserts/Images//y1.dat > ./Asserts/Images//y1.da
+httpie -a https://central.artipie.com/olenagerasimova/data/y1.dat > ./data/y1.da
 
 ```
 
@@ -119,13 +119,13 @@ httpie -a https://central.artipie.com/olenagerasimova/Asserts/Images//y1.dat > .
 
 ```
 httpie -a olenagerasimova:*** PUT 
-https://central.artipie.com/olenagerasimova/Asserts/Images//y1.dat @data/y1.dat
+https://central.artipie.com/olenagerasimova/data/y1.dat @data/y1.dat
 
 httpie -a olenagerasimova:*** PUT 
-https://central.artipie.com/olenagerasimova/Asserts/Images//y2.dat @data/y2.dat
+https://central.artipie.com/olenagerasimova/data/y2.dat @data/y2.dat
 
 httpie -a olenagerasimova:*** PUT 
-https://central.artipie.com/olenagerasimova/Asserts/Images//y3.dat @data/y3.dat
+https://central.artipie.com/olenagerasimova/data/y3.dat @data/y3.dat
 
 ```
 
@@ -192,7 +192,7 @@ $ podman run -it -p 8080:8080 -p 8086:8086 artipie/artipie:latest
 * 切换到 “<ruby> 仓库 <rt>  Repositories </rt></ruby>” 定义，点击 “<ruby> 认证 <rt>  Authorize </rt></ruby>” 按钮，然后粘贴令牌。
 
 
-![Image of the Swagger documentation page,](/Asserts/Images//attachment/album/202303/02/232239crq8q68rim18699r.jpg)
+![Image of the Swagger documentation page,](/Asserts/Images/album/202303/02/232239crq8q68rim18699r.jpg)
 
 
 对 `/api/v1/repository/list` 执行一个 GET 请求。在响应中，你会收到一个包含三个默认仓库的 JSON 列表：

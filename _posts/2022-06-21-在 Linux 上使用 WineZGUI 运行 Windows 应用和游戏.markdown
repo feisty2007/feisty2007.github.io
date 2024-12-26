@@ -7,7 +7,7 @@ tags:	[linuxcn,Wine]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/22/160322tds2ut05d8jqdlzz.jpg)
+![](/Asserts/Images/album/202206/22/160322tds2ut05d8jqdlzz.jpg)
 
 
 
@@ -133,13 +133,13 @@ $ flatpak --user -y install io.github.WineZGUI_0_4_20220608.flatpak
 从 Dash 或菜单中启动 WineZGUI。
 
 
-![Launch WineZGUI](/Asserts/Images//attachment/album/202206/22/160331a00bbucv2bh3vkzk.png)
+![Launch WineZGUI](/Asserts/Images/album/202206/22/160331a00bbucv2bh3vkzk.png)
 
 
 这就是 WineZGUI 的默认界面的样子。
 
 
-![WineZGUI Interface](/Asserts/Images//attachment/album/202206/22/160331s4ejm4r0eu44u2q2.png)
+![WineZGUI Interface](/Asserts/Images/album/202206/22/160331s4ejm4r0eu44u2q2.png)
 
 
 正如你在上面的截图中看到的，WineZGUI 的界面非常简单易懂。从主窗口中，你可以：
@@ -161,37 +161,37 @@ $ flatpak --user -y install io.github.WineZGUI_0_4_20220608.flatpak
 在下一个窗口中，选择要运行的 EXE 文件。在我的例子中，它是 WinRAR。
 
 
-![Choose The EXE File To Run](/Asserts/Images//attachment/album/202206/22/160332fnzymzuvuumnmsss.png)
+![Choose The EXE File To Run](/Asserts/Images/album/202206/22/160332fnzymzuvuumnmsss.png)
 
 
 接下来，你是想用默认的前缀运行 EXE 文件，还是创建一个新的前缀。我选择默认的前缀。
 
 
-![Run WinRAR With Default Prefix](/Asserts/Images//attachment/album/202206/22/160333emua3mbuapidoom9.png)
+![Run WinRAR With Default Prefix](/Asserts/Images/album/202206/22/160333emua3mbuapidoom9.png)
 
 
 几秒钟后，会出现 WinRAR 安装向导。点击安装，继续。
 
 
-![Install WinRAR In Linux](/Asserts/Images//attachment/album/202206/22/160333ttnkd9kbkoooenby.png)
+![Install WinRAR In Linux](/Asserts/Images/album/202206/22/160333ttnkd9kbkoooenby.png)
 
 
 点击 “OK” 来完成 WinRAR 的安装。
 
 
-![Complete WinRAR Installation](/Asserts/Images//attachment/album/202206/22/160333y3lbzx3clb39c6cd.png)
+![Complete WinRAR Installation](/Asserts/Images/album/202206/22/160333y3lbzx3clb39c6cd.png)
 
 
 点击 “<ruby> 运行 WinRAR <rt>  Run WinRAR </rt></ruby>” 来启动它。
 
 
-![Run WinRAR](/Asserts/Images//attachment/album/202206/22/160334x9fix9zc59n9x9jj.png)
+![Run WinRAR](/Asserts/Images/album/202206/22/160334x9fix9zc59n9x9jj.png)
 
 
 下面是 WinRAR 在我的 Fedora 36 桌面上的运行情况!
 
 
-![WinRAR Is Running In Fedora Using Wine](/Asserts/Images//attachment/album/202206/22/160336gg22qm2nsg0zuhig.png)
+![WinRAR Is Running In Fedora Using Wine](/Asserts/Images/album/202206/22/160336gg22qm2nsg0zuhig.png)
 
 
 ### 总结

@@ -7,7 +7,7 @@ tags:	[linuxcn,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/25/085613rau38e0felfk8u1l.jpg)
+![](/Asserts/Images/album/201904/25/085613rau38e0felfk8u1l.jpg)
 
 
 ### Big News
@@ -19,7 +19,7 @@ tags:	[linuxcn,发行版]
 Scientific Linux 是极少数专注于科学的GNU / Linux 发行版之一，是由费米实验室和其他的研究机构基于 Red Hat Enterprise Linux 开发的针对于科学实验场景下的 Linux 发行版本，主要收录了一些上游产品不会收录的软件包，比如 R 语言等。现在，差不多 14 年后，那些努力维护的人们[决定是时候休息了](http://scientificlinuxforum.org/index.php?showtopic=3852)，不再发布新版本的 Scientific Linux。[【Softpedia】](https://news.softpedia.com/news/scientific-linux-will-be-discontinued-as-fermilab-moves-to-centos-linux-525789.shtml)
 
 
-![](/Asserts/Images//attachment/album/201904/19/123826jwwhua7ggqzgxufz.png)
+![](/Asserts/Images/album/201904/19/123826jwwhua7ggqzgxufz.png)
 
 
 

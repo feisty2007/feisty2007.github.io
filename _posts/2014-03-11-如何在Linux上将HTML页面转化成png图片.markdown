@@ -13,7 +13,7 @@ tags:	[linuxcn,Linux,HTML,PNG,网页,截图]
 在本篇教程中，我会描述如何**将一个HTML网页使用CutyCapt转化成png图片**。
 
 
-![](/Asserts/Images//attachment/album/201403/18/163928vfmzxf4dh98iii67.jpg)
+![](/Asserts/Images/album/201403/18/163928vfmzxf4dh98iii67.jpg)
 
 
 ### 在Linux上安装 CutyCapt
@@ -95,7 +95,7 @@ $ cutycapt --url=http://www.cnn.com --out=cnn.pdf
 下图显示了CutyCapt命令选项。
 
 
-![](/Asserts/Images//attachment/album/201403/18/163933kqfwwhlfdddokqbl.jpg)
+![](/Asserts/Images/album/201403/18/163933kqfwwhlfdddokqbl.jpg)
 
 
 ### 在一台不含X的服务器上使用CutyCapt将HTML转换成PNG

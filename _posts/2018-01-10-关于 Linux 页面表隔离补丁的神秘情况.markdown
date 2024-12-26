@@ -7,7 +7,7 @@ tags:	[linuxcn,安全,CPU,KPTI,KAISER]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/14/203826pxh1rmmq85f1355a.jpg)
+![](/Asserts/Images/album/201801/14/203826pxh1rmmq85f1355a.jpg)
 
 
 **[本文勘误与补充](http://pythonsweetness.tumblr.com/post/169217189597/quiet-in-the-peanut-gallery)**
@@ -123,7 +123,7 @@ KASLR 是应用到内核本身的一个 “简化的” ASLR：在每个重新�
 通过检查该代码，这些补丁以运行时补丁的方式构建而成，在系统引导时仅当内核检测到该系统是受影响的系统时，这些补丁才会被应用。这里采用了和对著名的 [Pentium F00F bug](https://en.wikipedia.org/wiki/Pentium_F00F_bug) 的缓解措施完全相同的机制：
 
 
-![](/Asserts/Images//attachment/album/201801/14/203933rvkgzv6ykqsgmgyy.jpg)
+![](/Asserts/Images/album/201801/14/203933rvkgzv6ykqsgmgyy.jpg)
 
 
 ### 更多的线索：Microsoft 也已经实现了页面表的分割

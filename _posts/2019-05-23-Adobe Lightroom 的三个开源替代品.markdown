@@ -15,7 +15,7 @@ tags:	[linuxcn,RAW,图像,照片]
 > 
 
 
-![](/Asserts/Images//attachment/album/201905/29/071049sbq3cu4ru6426qwc.jpg)
+![](/Asserts/Images/album/201905/29/071049sbq3cu4ru6426qwc.jpg)
 
 
 如今智能手机的摄像功能已经完备到多数人认为可以代替传统摄影了。虽然这在傻瓜相机的市场中是个事实，但是对于许多摄影爱好者和专业摄影师看来，一个高端单反相机所能带来的照片景深、清晰度以及真实质感是口袋中的智能手机无法与之相比的。
@@ -33,7 +33,7 @@ Lightroom 有两大主要功能：处理 RAW 格式的图片文件，以及数�
 ### Darktable
 
 
-![Darktable](/Asserts/Images//attachment/album/201905/29/071050vapmrz3cn6m4t6pg.jpg)
+![Darktable](/Asserts/Images/album/201905/29/071050vapmrz3cn6m4t6pg.jpg)
 
 
 类似其他两个软件，Darktable 可以处理 RAW 格式的图像并将它们转换成可用的文件格式 —— JPEG、PNG、TIFF、PPM、PFM 和 EXR，它同时支持 Google 和 Facebook 的在线相册，上传至 Flikr，通过邮件附件发送以及创建在线相册。
@@ -51,7 +51,7 @@ Darktable 在开源许可证 [GPLv3](https://github.com/darktable-org/darktable/
 ### LightZone
 
 
-![LightZone's tool stack](/Asserts/Images//attachment/album/201905/29/071051zi6fz152z9p491i6.jpg)
+![LightZone's tool stack](/Asserts/Images/album/201905/29/071051zi6fz152z9p491i6.jpg)
 
 
 [LightZone](http://www.lightzoneproject.org/) 和其他两个软件类似同样是无损的 RAW 格式图像处理工具：它是跨平台的，有 Windows、MacOS 和 Linux 版本，除 RAW 格式之外，它还支持 JPG 和 TIFF 格式的图像处理。接下来说说 LightZone 其他独特特性。
@@ -69,7 +69,7 @@ Darktable 在开源许可证 [GPLv3](https://github.com/darktable-org/darktable/
 ### RawTherapee
 
 
-![RawTherapee](/Asserts/Images//attachment/album/201905/29/071051m1lo6j020e12ez17.jpg)
+![RawTherapee](/Asserts/Images/album/201905/29/071051m1lo6j020e12ez17.jpg)
 
 
 [RawTherapee](http://rawtherapee.com/) 是另一个值得关注的开源（[GPL](https://github.com/Beep6581/RawTherapee/blob/dev/LICENSE.txt)）的 RAW 图像处理器。就像 Darktable 和 LightZone，它是跨平台的（支持 Windows、MacOS 和 Linux），一切修改都在无损条件下进行，因此不论你叠加多少滤镜做出多少改变，你都可以回到你最初的 RAW 文件。

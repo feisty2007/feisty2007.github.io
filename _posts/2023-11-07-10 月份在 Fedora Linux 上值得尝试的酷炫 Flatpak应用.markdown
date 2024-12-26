@@ -7,7 +7,7 @@ tags:	[linuxcn,Flatpak]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/02/210448a8vbipsdww8qk8bp.jpg)
+![](/Asserts/Images/album/202311/02/210448a8vbipsdww8qk8bp.jpg)
 
 
 
@@ -102,7 +102,7 @@ flatpak install flathub io.github.seadve.Kooha
 [Warzone 2100](https://flathub.org/apps/net.wz2100.wz2100) 让你指挥“计划”部队，在人类几乎被核导弹摧毁后重建世界。
 
 
-![](/Asserts/Images//attachment/album/202311/02/210340vdh2a3aohtagxexx.jpg)
+![](/Asserts/Images/album/202311/02/210340vdh2a3aohtagxexx.jpg)
 
 
 Warzone 2100 于 1999 年发行，由 Pumpkin Studios 开发，是一款开创性的创新型 3D 即时战略游戏。

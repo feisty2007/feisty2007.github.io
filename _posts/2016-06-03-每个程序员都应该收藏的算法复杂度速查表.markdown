@@ -16,7 +16,7 @@ tags:	[linuxcn,算法,复杂度]
 --- [Eric](https://twitter.com/ericdrowell) 
 
 
-![](/Asserts/Images//attachment/album/201606/20/123606rd6xe34kk2xy392i.jpg)
+![](/Asserts/Images/album/201606/20/123606rd6xe34kk2xy392i.jpg)
 
 
 ### 图例
@@ -103,7 +103,7 @@ tags:	[linuxcn,算法,复杂度]
 ### 大 O 复杂度图表
 
 
-![Big O Complexity Graph](/Asserts/Images//attachment/album/201606/20/123634szm02anm9jm6qqbs.png "Big O Complexity Graph")
+![Big O Complexity Graph](/Asserts/Images/album/201606/20/123634szm02anm9jm6qqbs.png "Big O Complexity Graph")
 
 
 ### 推荐阅读

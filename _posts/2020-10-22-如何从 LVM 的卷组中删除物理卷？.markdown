@@ -7,7 +7,7 @@ tags:	[linuxcn,LVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/25/101355kav72t5iy5yj55tg.jpg)
+![](/Asserts/Images/album/202010/25/101355kav72t5iy5yj55tg.jpg)
 
 
 如果你的 LVM 不再需要使用某个设备，你可以使用 `vgreduce` 命令从卷组中删除物理卷。
@@ -27,7 +27,7 @@ tags:	[linuxcn,LVM]
 * **第三部分：[如何在 Linux 中减少/缩小 LVM 大小（逻辑卷调整）](/article-12740-1.html)**
 
 
-![](/Asserts/Images//attachment/album/202010/25/101424vgcio5fooi9uo5gh.jpeg)
+![](/Asserts/Images/album/202010/25/101424vgcio5fooi9uo5gh.jpeg)
 
 
 ### 将扩展块移动到现有物理卷上

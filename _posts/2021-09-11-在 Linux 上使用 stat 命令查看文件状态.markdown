@@ -15,7 +15,7 @@ tags:	[linuxcn,stat,文件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/10/072912ouo04jchatqazq53.jpg "Hand putting a Linux file folder into a drawer")
+![](/Asserts/Images/album/202109/10/072912ouo04jchatqazq53.jpg "Hand putting a Linux file folder into a drawer")
 
 
 在 GNU `coreutils` 软件包中包含 `stat` 命令，它提供了关于文件和文件系统包括文件大小、节点位置、访问权限和 SELinux 上下文，以及创建和修改时间等各种元数据。通常情况下，你需要多个不同命令获取的信息，而这一个命令就可以实现。

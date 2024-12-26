@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Linux,手机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/16/202559xnzuyqyuoyb781bv.jpg)
+![](/Asserts/Images/album/202301/16/202559xnzuyqyuoyb781bv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/16/202607kxyf65dr96ilrz5n.jpg)
+![](/Asserts/Images/album/202301/16/202607kxyf65dr96ilrz5n.jpg)
 
 
 ### BussFeed 用 AI 报道《CNET 用 AI 撰写文章》
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,Linux,手机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/16/202616iphom10toczmc2ro.jpg)
+![](/Asserts/Images/album/202301/16/202616iphom10toczmc2ro.jpg)
 
 
 ### Linux 准备禁用微软的 RNDIS 协议的驱动程序
@@ -60,13 +60,13 @@ RNDIS 是通过 USB 提供虚拟以太网功能的专有协议，但除了 Windo
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/16/202633ngg0zql09g679qlq.jpg)
+![](/Asserts/Images/album/202301/16/202633ngg0zql09g679qlq.jpg)
 
 
 ### 前十名痴迷智能手机的国家中，有七个在亚洲
 
 
-[Data.ai](http://Asserts/Images/.ai/) 对 2022 年移动互联网的最新研究报告披露，亚洲国家是移动生态系统的主要推动者。在前十名痴迷智能手机的国家中，有七个在亚洲。印尼人以每天平均 5.7 小时的时间名列在手机上花费时间最多的榜首。中国人排在第 18 位，平均每天花费 3.6 小时。但中国人在下载量和消费者在应用程序上的花费方面排名第一，中国人共下载了 1110 亿个应用程序，花费了约 580 亿美元。
+[Data.ai](http://data.ai/) 对 2022 年移动互联网的最新研究报告披露，亚洲国家是移动生态系统的主要推动者。在前十名痴迷智能手机的国家中，有七个在亚洲。印尼人以每天平均 5.7 小时的时间名列在手机上花费时间最多的榜首。中国人排在第 18 位，平均每天花费 3.6 小时。但中国人在下载量和消费者在应用程序上的花费方面排名第一，中国人共下载了 1110 亿个应用程序，花费了约 580 亿美元。
 
 
 

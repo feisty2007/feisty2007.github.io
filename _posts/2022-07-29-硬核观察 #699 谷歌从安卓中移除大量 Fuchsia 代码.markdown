@@ -7,10 +7,10 @@ tags:	[linuxcn,Fuchsia,Nim,Rocky Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/16/200618zjkawmuo932a3k6g.jpg)
+![](/Asserts/Images/album/202207/16/200618zjkawmuo932a3k6g.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/16/200644jeax2x2axxetti2j.jpg)
+![](/Asserts/Images/album/202207/16/200644jeax2x2axxetti2j.jpg)
 
 
 ### 谷歌从安卓中移除大量 Fuchsia 代码
@@ -35,7 +35,7 @@ tags:	[linuxcn,Fuchsia,Nim,Rocky Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/16/200707z41jh440kb5d57ho.png)
+![](/Asserts/Images/album/202207/16/200707z41jh440kb5d57ho.png)
 
 
 ### openSUSE 率先对 Nim 语言提供支持
@@ -60,7 +60,7 @@ tags:	[linuxcn,Fuchsia,Nim,Rocky Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/16/200808xc00t0tlbn5t5vtq.jpg)
+![](/Asserts/Images/album/202207/16/200808xc00t0tlbn5t5vtq.jpg)
 
 
 ### Rocky Linux 9.0 发布

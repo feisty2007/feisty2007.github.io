@@ -7,10 +7,10 @@ tags:	[linuxcn,LastPass,Gmail,OpenAI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/01/192637lz298or9kv4k49an.jpg)
+![](/Asserts/Images/album/202303/01/192637lz298or9kv4k49an.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/01/192722njn04zj1jb8jzj44.jpg)
+![](/Asserts/Images/album/202303/01/192722njn04zj1jb8jzj44.jpg)
 
 
 ### LastPass 被入侵源于其工程师家用电脑被黑
@@ -35,7 +35,7 @@ tags:	[linuxcn,LastPass,Gmail,OpenAI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/01/192657p3hbht4f7lsstblr.jpg)
+![](/Asserts/Images/album/202303/01/192657p3hbht4f7lsstblr.jpg)
 
 
 ### Gmail 客户端加密现在公开可用
@@ -60,7 +60,7 @@ tags:	[linuxcn,LastPass,Gmail,OpenAI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/01/192712rlzclyjifddysx3p.png)
+![](/Asserts/Images/album/202303/01/192712rlzclyjifddysx3p.png)
 
 
 ### OpenAI 现在与其承诺背道而驰

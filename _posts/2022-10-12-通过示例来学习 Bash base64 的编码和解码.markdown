@@ -15,7 +15,7 @@ tags:	[linuxcn,base64]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/29/163350mde5lll86j6lspln.jpg)
+![](/Asserts/Images/album/202210/29/163350mde5lll86j6lspln.jpg)
 
 
 Base64 编码方法可以将二进制数据转换为文本，如此编码数据可以在任何通信媒介进行传输。这种编码方法主要用于电子邮件加密的过程。
@@ -30,7 +30,7 @@ Base64 编码方法可以将二进制数据转换为文本，如此编码数据�
 这 64 个 ASCII 字符代表着从 `000000` 到 `111111` 的二进制值。每个非末尾的 Base64 编码字符恰好代表 6 位二进制值。
 
 
-![Base64 Index Table](/Asserts/Images//attachment/album/202210/29/163352ggjzniojeobnu24b.png)
+![Base64 Index Table](/Asserts/Images/album/202210/29/163352ggjzniojeobnu24b.png)
 
 
 ### Bash base64 的编码和解码
@@ -76,7 +76,7 @@ echo "debugpoint.com" | base64
 
 ```
 
-![bash base64 encode and decode - example 1](/Asserts/Images//attachment/album/202210/29/163352gmm1b7ymby9gqyh9.jpg)
+![bash base64 encode and decode - example 1](/Asserts/Images/album/202210/29/163352gmm1b7ymby9gqyh9.jpg)
 
 
 结果是经过 Base64 编码后的字符串。
@@ -94,7 +94,7 @@ Base64 编码方法使用下面的几个步骤来转换输入的数据。首先�
 在上面的示例中，第一个字符 `d` 被转换为二进制 `01100100`。前 6 位是 `011001`，转换为十进制是 `25`。`25` 在 Base64 编码索引表中对应着 `Z`。整个输入的文本流都像如此编码。请参阅以下编码过程的示例。
 
 
-![Base64 Encode and Decode – inner working](/Asserts/Images//attachment/album/202210/29/163353yfr6h1hx6jq6ifn3.png)
+![Base64 Encode and Decode – inner working](/Asserts/Images/album/202210/29/163353yfr6h1hx6jq6ifn3.png)
 
 
 #### 示例 2：基本解码
@@ -103,7 +103,7 @@ Base64 编码方法使用下面的几个步骤来转换输入的数据。首先�
 要解码字符串，需要将编码值传递给 `base64` 命令，选项为 `--decode`，它将输出你之前输入的字符串。
 
 
-![bash base64 encode and decode - example 2 (decode the same example)](/Asserts/Images//attachment/album/202210/29/163353jtgttjlgkd8ksu1m.jpg)
+![bash base64 encode and decode - example 2 (decode the same example)](/Asserts/Images/album/202210/29/163353jtgttjlgkd8ksu1m.jpg)
 
 
 #### 示例 3：对文本文件进行编码
@@ -118,7 +118,7 @@ base64 example3.txt > example3-encoded.txt
 
 ```
 
-![Encode a text file](/Asserts/Images//attachment/album/202210/29/163353f9ynwchmwcuhffwx.png)
+![Encode a text file](/Asserts/Images/album/202210/29/163353f9ynwchmwcuhffwx.png)
 
 
 #### 示例 4：对文本文件进行解码
@@ -154,7 +154,7 @@ echo "The Base64 Encoded text is: $output_text"
 
 ```
 
-![Custom input - base64 encode and decode using script](/Asserts/Images//attachment/album/202210/29/163353jene8uqqeauo00zx.png)
+![Custom input - base64 encode and decode using script](/Asserts/Images/album/202210/29/163353jene8uqqeauo00zx.png)
 
 
 #### 示例 6：用 Base64 进行简单的身份认证
@@ -183,7 +183,7 @@ fi
 
 ```
 
-![A Simple Authentication using bash base64](/Asserts/Images//attachment/album/202210/29/163353a2mlys4s3z4lj29e.png)
+![A Simple Authentication using bash base64](/Asserts/Images/album/202210/29/163353a2mlys4s3z4lj29e.png)
 
 
 ### 总结

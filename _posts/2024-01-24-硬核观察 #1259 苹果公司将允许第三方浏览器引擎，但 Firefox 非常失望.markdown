@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,RHEL,Flathub]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/27/152634vl93z44k8ahe778a.jpg)
+![](/Asserts/Images/album/202401/27/152634vl93z44k8ahe778a.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/27/152714x70s50em067rm5m0.png)
+![](/Asserts/Images/album/202401/27/152714x70s50em067rm5m0.png)
 
 
 ### #1 苹果公司将允许第三方浏览器引擎，但 Firefox 非常失望
@@ -38,7 +38,7 @@ tags:	[linuxcn,Firefox,RHEL,Flathub]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/27/152645g89z185oe9wwb51a.png)
+![](/Asserts/Images/album/202401/27/152645g89z185oe9wwb51a.png)
 
 
 ### #2 红帽将修改其云计算 RHEL 定价
@@ -66,7 +66,7 @@ tags:	[linuxcn,Firefox,RHEL,Flathub]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/27/152828yov5z05242lpm928.png)
+![](/Asserts/Images/album/202401/27/152828yov5z05242lpm928.png)
 
 
 ### #3 Linux 应用商店 Flathub 现在拥有超过一百万活跃用户

@@ -7,7 +7,7 @@ tags:	[linuxcn,wget]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/21/095343hnxjfinvbpzf2x5f.jpg)
+![](/Asserts/Images/album/202211/21/095343hnxjfinvbpzf2x5f.jpg)
 
 
 
@@ -96,7 +96,7 @@ wget https://releases.ubuntu.com/22.04.1/ubuntu-22.04.1-desktop-amd64.iso
 
 ```
 
-![如何使用 wget 的例子](/Asserts/Images//attachment/album/202211/21/095350tu7u27qox673tw7u.jpg)
+![如何使用 wget 的例子](/Asserts/Images/album/202211/21/095350tu7u27qox673tw7u.jpg)
 
 
 同样，你也可以使用上述命令下载，或者，通过下面描述的几个开关组合。你也可以通过 `wget --help` 命令得到这个：

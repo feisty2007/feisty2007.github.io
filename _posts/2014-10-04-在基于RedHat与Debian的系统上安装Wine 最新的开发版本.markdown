@@ -10,7 +10,7 @@ tags:	[linuxcn,Wine]
 **Wine**,一个在Linux平台上非常受欢迎并且强大的开源应用，有了它，我们可以在Linux平台上完美运行Windows应用与游戏。
 
 
-![](/Asserts/Images//attachment/album/201408/30/211803yk7vlgkajllblkug.png)
+![](/Asserts/Images/album/201408/30/211803yk7vlgkajllblkug.png)
 
 
 *在Linux上安装Wine（开发版本）*

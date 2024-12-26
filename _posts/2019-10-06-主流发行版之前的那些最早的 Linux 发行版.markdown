@@ -15,7 +15,7 @@ tags:	[linuxcn,发行版]
 > 
 
 
-![](/Asserts/Images//attachment/album/201910/04/100019oc79ftxhuw91x7rc.png)
+![](/Asserts/Images/album/201910/04/100019oc79ftxhuw91x7rc.png)
 
 
 在这里，我们尝试探讨了第一个 Linux 内核问世后，诸如 Red Hat、Debian、Slackware、SUSE、Ubuntu 等诸多流行的发行版的想法是如何产生的。
@@ -30,7 +30,7 @@ tags:	[linuxcn,发行版]
 Linux 发行版这种方式可以追溯到 1992 年，当时可以用来访问 Linux 的第一个已知的类似发行版的工具是由 HJ Lu 发布的。它由两个 5.25 英寸软盘组成：
 
 
-![Linux 0.12 Boot and Root Disks | Photo Credit](/Asserts/Images//attachment/album/201910/04/100021xb3xz61oozxbcbqq.jpg)
+![Linux 0.12 Boot and Root Disks | Photo Credit](/Asserts/Images/album/201910/04/100021xb3xz61oozxbcbqq.jpg)
 
 
 * LINUX 0.12 BOOT DISK：“启动”磁盘用来先启动系统。
@@ -54,7 +54,7 @@ Linux 发行版这种方式可以追溯到 1992 年，当时可以用来访问 L
 ### 2、MCC Interim Linux
 
 
-![MCC Linux 0.99.14, 1993 | Image Credit](/Asserts/Images//attachment/album/201910/04/100028sbt9ujbjx29xuxpg.jpg)
+![MCC Linux 0.99.14, 1993 | Image Credit](/Asserts/Images/album/201910/04/100028sbt9ujbjx29xuxpg.jpg)
 
 
 MCC Interim Linux 最初由英格兰曼彻斯特计算中心的 Owen Le Blanc 与 “LINUX 0.12” 同年发布，它是针对普通用户的第一个 Linux 发行版，它具有菜单驱动的安装程序和最终用户/编程工具。它也是以软盘集的形式，可以将其安装在系统上以提供基于文本的基本环境。
@@ -69,7 +69,7 @@ MCC Interim Linux 比 0.12 更加易于使用，并且在硬盘驱动器上的�
 ### 3、TAMU Linux
 
 
-![TAMU Linux | Image Credit](/Asserts/Images//attachment/album/201910/04/100029kz397iwlonxoyxr9.jpg)
+![TAMU Linux | Image Credit](/Asserts/Images/album/201910/04/100029kz397iwlonxoyxr9.jpg)
 
 
 TAMU Linux 由 Texas A＆M 的 Aggies 与 Texas A＆M Unix ＆ Linux 用户组于 1992 年 5 月开发，被称为 TAMU 1.0A。它是第一个提供 X Window System 的 Linux 发行版，而不仅仅是基于文本的操作系统。
@@ -78,7 +78,7 @@ TAMU Linux 由 Texas A＆M 的 Aggies 与 Texas A＆M Unix ＆ Linux 用户组�
 ### 4、Softlanding Linux System (SLS)
 
 
-![SLS Linux 1.05, 1994 | Image Credit](/Asserts/Images//attachment/album/201910/04/100031cromfglvzipyyrqg.jpg)
+![SLS Linux 1.05, 1994 | Image Credit](/Asserts/Images/album/201910/04/100031cromfglvzipyyrqg.jpg)
 
 
 他们的口号是“DOS 伞降的温柔救援”！SLS 由 Peter McDonald 于 1992 年 5 月发布。SLS 在其时代得到了广泛的使用和流行，并极大地推广了 Linux 的思想。但是由于开发人员决定更改发行版中的可执行格式，因此用户停止使用它。
@@ -94,13 +94,13 @@ TAMU Linux 由 Texas A＆M 的 Aggies 与 Texas A＆M Unix ＆ Linux 用户组�
 ### 5、Yggdrasil
 
 
-![LGX Yggdrasil Fall 1993 | Image Credit](/Asserts/Images//attachment/album/201910/04/100034o21yhz60az10dg88.jpg)
+![LGX Yggdrasil Fall 1993 | Image Credit](/Asserts/Images/album/201910/04/100034o21yhz60az10dg88.jpg)
 
 
 Yggdrasil 于 1992 年 12 月发行，是第一个产生 Live Linux CD 想法的发行版。它是由 Yggdrasil 计算公司开发的，该公司由位于加利福尼亚州伯克利的 Adam J. Richter 创立。它可以在系统硬件上自动配置自身，即“即插即用”功能，这是当今非常普遍且众所周知的功能。Yggdrasil 后来的版本包括一个用于在 Linux 中运行任何专有 MS-DOS CD-ROM 驱动程序的黑科技。
 
 
-![Yggdrasil’s Plug-and-Play Promo | Image Credit](/Asserts/Images//attachment/album/201910/04/100035rf14o70x5jt9l590.jpg)
+![Yggdrasil’s Plug-and-Play Promo | Image Credit](/Asserts/Images/album/201910/04/100035rf14o70x5jt9l590.jpg)
 
 
 他们的座右铭是“<ruby> 我们其余人的自由软件 <rp>  （ </rp> <rt>  Free Software For The Rest of Us </rt> <rp>  ） </rp></ruby>”。

@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画]
 ---
 
 
-![Linus Torvald's House](/Asserts/Images//attachment/album/201706/27/005330hd8qcgeezn0g1mqq.png)
+![Linus Torvald's House](/Asserts/Images/album/201706/27/005330hd8qcgeezn0g1mqq.png)
 
 
 只能通过 22 端口（SSH）进入，没窗户，没天窗，没排风扇……

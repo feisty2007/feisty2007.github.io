@@ -10,7 +10,7 @@ tags:	[linuxcn,rpm,dnf,面试]
 **Shilpa Nair 刚于2015年毕业。她之后去了一家位于 Noida，Delhi 的国家新闻电视台，应聘实习生的岗位。在她去年毕业季的时候，常逛 Tecmint 寻求作业上的帮助。从那时开始，她就常去 Tecmint。**
 
 
-![Linux Interview Questions on RPM](/Asserts/Images//attachment/album/201509/13/201307tx8vpzv28w0ca6z2.jpg)
+![Linux Interview Questions on RPM](/Asserts/Images/album/201509/13/201307tx8vpzv28w0ca6z2.jpg)
 
 
 *有关 RPM 方面的 Linux 面试题*

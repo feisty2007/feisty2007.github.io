@@ -7,7 +7,7 @@ tags:	[linuxcn,删除]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/24/064946fqc1vu7oxi1bixos.jpg)
+![](/Asserts/Images/album/201705/24/064946fqc1vu7oxi1bixos.jpg)
 
 
 通常，要[在 Linux 终端删除一个文件](/article-8123-1.html)，我们使用 rm 命令（删除文件）、shred 命令（安全删除文件）、wipe 命令（安全擦除文件）或者 secure-deletion 工具包（一个安全文件删除工具集合）。

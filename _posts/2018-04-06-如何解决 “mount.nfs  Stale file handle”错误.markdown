@@ -15,7 +15,7 @@ tags:	[linuxcn,NFS]
 > 
 
 
-![](/Asserts/Images//attachment/album/201804/09/214625b5d8hqh1re1b1uhs.jpg)
+![](/Asserts/Images/album/201804/09/214625b5d8hqh1re1b1uhs.jpg)
 
 
 当你在你的环境中使用网络文件系统时，你一定不时看到 `mount.nfs：Stale file handle` 错误。此错误表示 NFS 共享无法挂载，因为自上次配置后有些东西已经更改。

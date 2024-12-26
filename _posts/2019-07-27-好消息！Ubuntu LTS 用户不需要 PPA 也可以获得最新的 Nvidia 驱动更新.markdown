@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu,Nvidia]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/17/001838o2gn0xh23att3mto.png)
+![](/Asserts/Images/album/201907/17/001838o2gn0xh23att3mto.png)
 
 
 你可能已经注意到在 Ubuntu 上安装最新和最好的 Nvidia 二进制驱动程序更新的麻烦。
@@ -51,7 +51,7 @@ SRU 字面上指的是 Ubuntu（或基于 Ubuntu 的发行版）的稳定更新�
 ### 怎样获得最新的 Nvidia 驱动程序？
 
 
-![Software Updates Nvidia](/Asserts/Images//attachment/album/201907/17/001844u4r2owoo0dnojz9h.jpg)
+![Software Updates Nvidia](/Asserts/Images/album/201907/17/001844u4r2owoo0dnojz9h.jpg)
 
 
 你只需从软件更新选项中的其他驱动程序部分启用“使用 NVIDIA 驱动程序元数据包……”。

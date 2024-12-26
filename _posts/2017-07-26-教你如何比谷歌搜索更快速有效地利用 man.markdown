@@ -15,7 +15,7 @@ tags:	[linuxcn,手册,帮助,man]
 > 
 
 
-![](/Asserts/Images//attachment/album/201707/25/005939nz9tlil3l5ofil54.jpg)
+![](/Asserts/Images/album/201707/25/005939nz9tlil3l5ofil54.jpg)
 
 
 我们通常通过 google 来查询 Linux 中的命令说明，但是其实还有一个更好的办法：那就是通过 Linux 自带的 **man 帮助页**来查询命令详尽完整的使用说明。

@@ -16,7 +16,7 @@ tags:	[linuxcn,serverless]
 早期，出现了……好吧，这有点复杂。很早的时候，出现了机械计算机，后来又有了埃尼阿克 ENIAC（Electronic Numerical Integrator And Computer，很早的电子计算机)，但是都没有规模生产。直到大型机出现后，计算领域才快速发展。
 
 
-![](/Asserts/Images//attachment/album/201610/26/110123oyk1iy212ld4iyuu.jpg)
+![](/Asserts/Images/album/201610/26/110123oyk1iy212ld4iyuu.jpg)
 
 
 * 上世纪 50 年代 - 大型机

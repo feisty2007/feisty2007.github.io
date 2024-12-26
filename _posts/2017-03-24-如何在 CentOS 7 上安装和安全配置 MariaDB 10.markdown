@@ -19,7 +19,7 @@ tags:	[linuxcn,MySQL,MariaDB,数据库]
 在本文中需要注意的是，我们假定您能够在服务器中使用 root 帐号工作，或者可以使用 [sudo](/tag-sudo.html) 命令运行任何命令。
 
 
-![](/Asserts/Images//attachment/album/201703/19/144001hmi6izmm8i2zphl6.jpg)
+![](/Asserts/Images/album/201703/19/144001hmi6izmm8i2zphl6.jpg)
 
 
 ### 第一步：添加 MariaDB yum 仓库
@@ -63,7 +63,7 @@ gpgcheck=1
 
 ```
 
-![Add MariaDB Yum Repo](/Asserts/Images//attachment/album/201703/19/144012uubuocipoplkzoli.png)
+![Add MariaDB Yum Repo](/Asserts/Images/album/201703/19/144012uubuocipoplkzoli.png)
 
 
 *添加 MariaDB YUM 仓库*
@@ -81,7 +81,7 @@ gpgcheck=1
 
 ```
 
-![Install MariaDB in CentOS 7](/Asserts/Images//attachment/album/201703/19/144012nex5zynrd8sk8fyx.png)
+![Install MariaDB in CentOS 7](/Asserts/Images/album/201703/19/144012nex5zynrd8sk8fyx.png)
 
 
 *在 CentOS 7 中安装 MariaDB*
@@ -98,7 +98,7 @@ gpgcheck=1
 
 ```
 
-![Start MariaDB Service in CentOS 7](/Asserts/Images//attachment/album/201703/19/144013azx4pcpwpk46068x.png)
+![Start MariaDB Service in CentOS 7](/Asserts/Images/album/201703/19/144013azx4pcpwpk46068x.png)
 
 
 *在 CentOS 7 中启动 MariaDB 服务*
@@ -116,7 +116,7 @@ gpgcheck=1
 
 ```
 
-![Secure MySQL in CentOS 7](/Asserts/Images//attachment/album/201703/19/144013ynjjvord6ooworoo.png)
+![Secure MySQL in CentOS 7](/Asserts/Images/album/201703/19/144013ynjjvord6ooworoo.png)
 
 
 *CentOS 7 中的 MySQL 安全配置*
@@ -133,7 +133,7 @@ gpgcheck=1
 
 ```
 
-![Verify MySQL Version](/Asserts/Images//attachment/album/201703/19/144014orauutoflr7fme4r.png)
+![Verify MySQL Version](/Asserts/Images/album/201703/19/144014orauutoflr7fme4r.png)
 
 
 *检查 MySQL 版本信息*

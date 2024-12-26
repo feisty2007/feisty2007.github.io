@@ -15,7 +15,7 @@ tags:	[linuxcn,环境变量,Bash,shell]
 > 
 
 
-![](/Asserts/Images//attachment/album/201812/23/151252vyyprdr6bdrioqgy.jpg)
+![](/Asserts/Images/album/201812/23/151252vyyprdr6bdrioqgy.jpg)
 
 
 bash 变量，尤其是讨厌的*环境变量*，已经是一个老生常谈的话题了。我们也更应该对它有一个详细的了解，让它为我们所用。

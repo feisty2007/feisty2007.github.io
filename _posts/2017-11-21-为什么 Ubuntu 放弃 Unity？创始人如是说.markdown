@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Unity]
 ---
 
 
-![Mark Shuttleworth](/Asserts/Images//attachment/album/201711/10/101920lvghu2vgh95h4lek.jpg)
+![Mark Shuttleworth](/Asserts/Images/album/201711/10/101920lvghu2vgh95h4lek.jpg)
 
 
 Mark Shuttleworth 是 Ubuntu 的创始人

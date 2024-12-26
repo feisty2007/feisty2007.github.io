@@ -71,25 +71,25 @@ $ onedrive-d
 它接着会弹出如下onedrive-d的设置窗口。在“Location”选项中，选择你之前创建的本地文件夹。在“Authentication”选项中，你会看见“You have not authenticated OneDrive-d yet”（“你还没有授权OneDrive-d”）的信息。现在点击"Connect to OneDrive.com"按钮。
 
 
-![](/Asserts/Images//attachment/album/201407/11/003220roh785yq5hyhb28d.jpg)
+![](/Asserts/Images/album/201407/11/003220roh785yq5hyhb28d.jpg)
 
 
 它会弹出一个新窗口来要求你登录OneDrivecom。
 
 
-![](/Asserts/Images//attachment/album/201407/11/003221nvdamwvoz2319amu.jpg)
+![](/Asserts/Images/album/201407/11/003221nvdamwvoz2319amu.jpg)
 
 
 登录OneDrive.com之后，你会被要求授权onedrive-d访问。选择“Yes”。
 
 
-![](/Asserts/Images//attachment/album/201407/11/003223y7sv707dz6t9b4pp.jpg)
+![](/Asserts/Images/album/201407/11/003223y7sv707dz6t9b4pp.jpg)
 
 
 回到先前的设置窗口，你会看到之前的状态已经变成了You have connected to OneDrive.com"（“你已经连接到了OneDrive.com”）。点击“OK”完成。
 
 
-![](/Asserts/Images//attachment/album/201407/11/003225cx33qjaq1s7xeae3.jpg)
+![](/Asserts/Images/album/201407/11/003225cx33qjaq1s7xeae3.jpg)
 
 
 ### 与OneDrive同步一个本地文件夹
@@ -113,7 +113,7 @@ onedrive-d接着将扫描本地文件夹与OneDrive帐户的内容并使两者�
 一旦同步完成，你可以使用Ctrl-C中断onedirve-d的前台进程。
 
 
-![](/Asserts/Images//attachment/album/201407/11/003159yejgdgq2emrqqeew.jpg)
+![](/Asserts/Images/album/201407/11/003159yejgdgq2emrqqeew.jpg)
 
 
 另一种方法是将onedrive-d作为一个始终运行的守护进程在开机时自动启动。在这种情况下，后台守护进程会同时监视本地文件夹和OneDrive账户，以使它们保持同步。要做到这一点，只需将onedrive-D加入到你桌面的[自动启动程序列表](http://xmodulo.com/2013/12/start-program-automatically-linux-desktop.html)中就行了。
@@ -122,7 +122,7 @@ onedrive-d接着将扫描本地文件夹与OneDrive帐户的内容并使两者�
 当onedrive-D作为守护进程在后台运行时，你会在桌面状态栏中看到OneDrive图标，如下图所示。每当同步更新被触发，你就会看到一个桌面通知。
 
 
-![](/Asserts/Images//attachment/album/201407/11/003226rcyuy8wepy9m667v.jpg)
+![](/Asserts/Images/album/201407/11/003226rcyuy8wepy9m667v.jpg)
 
 
 要注意的是：根据作者所言，onedrive-d仍在积极开发中。这并不能用于任何形式的生产环境。如果您遇到任何bug，请随时提交一份[bug报告](https://github.com/xybu92/onedrive-d/issues?state=open)。你的贡献，笔者将不胜感激。

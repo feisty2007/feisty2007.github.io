@@ -7,7 +7,7 @@ tags:	[linuxcn,Facebook,许可证,React]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/23/122310ajremeaekl58aaa8.png)
+![](/Asserts/Images/album/201709/23/122310ajremeaekl58aaa8.png)
 
 
 就在几个小时前，Facebook [宣布](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)，将在下周发布的 React 16 会以 MIT 许可证重新授权，以应对社区对之前的 BSD + 专利许可模式的不安。

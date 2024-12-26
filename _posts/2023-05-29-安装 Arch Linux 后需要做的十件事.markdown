@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/18/133736s2rq5qb1qihj3kf4.jpg)
+![](/Asserts/Images/album/202305/18/133736s2rq5qb1qihj3kf4.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,Arch Linux]
 Arch Linux 为你建立自己的自定义 Linux 发行版打下了坚实的基础。如果你已经用 [archinstall](https://www.debugpoint.com/archinstall-guide/) 或其他脚本安装了一个非常基本的 Arch Linux，那么就该执行一些安装后的步骤来定制你的系统了。本文假设你的基本 Arch Linux 系统中没有安装 GUI 或桌面环境，所以这些步骤可以适用于大多数用户。
 
 
-![A basic Arch Linux Installation](/Asserts/Images//attachment/album/202305/18/133923gfah2aa11m00e22a.jpg)
+![A basic Arch Linux Installation](/Asserts/Images/album/202305/18/133923gfah2aa11m00e22a.jpg)
 
 
 ### 安装 Arch Linux 后需要做的十件事

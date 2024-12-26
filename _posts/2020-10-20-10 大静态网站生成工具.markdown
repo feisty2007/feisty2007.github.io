@@ -7,7 +7,7 @@ tags:	[linuxcn,静态网站]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/01/123903lx1q0w2oh1lxx7wh.jpg)
+![](/Asserts/Images/album/202010/01/123903lx1q0w2oh1lxx7wh.jpg)
 
 
 
@@ -48,7 +48,7 @@ tags:	[linuxcn,静态网站]
 #### 1、Jekyll
 
 
-![](/Asserts/Images//attachment/album/202010/01/123927e6mgmg878g7nlpeb.jpg)
+![](/Asserts/Images/album/202010/01/123927e6mgmg878g7nlpeb.jpg)
 
 
 Jekyll 是用 [Ruby](https://www.ruby-lang.org/en/) 写的最受欢迎的开源静态生成工具之一。实际上，Jekyll 是 [GitHub 页面](https://pages.github.com/) 的引擎，它可以让你免费用 GitHub 托管网站。
@@ -66,7 +66,7 @@ Jekyll 是用 [Ruby](https://www.ruby-lang.org/en/) 写的最受欢迎的开源�
 #### 2、Hugo
 
 
-![](/Asserts/Images//attachment/album/202010/01/123929n3k7ys33k7yz3x3h.jpg)
+![](/Asserts/Images/album/202010/01/123929n3k7ys33k7yz3x3h.jpg)
 
 
 Hugo 是另一个很受欢迎的用于搭建静态网站的开源框架。它是用 [Go 语言](https://golang.org/)写的。
@@ -84,7 +84,7 @@ Hugo 是另一个很受欢迎的用于搭建静态网站的开源框架。它是
 #### 3、Hexo
 
 
-![](/Asserts/Images//attachment/album/202010/01/123930nl3pb36963w3bbgt.jpg)
+![](/Asserts/Images/album/202010/01/123930nl3pb36963w3bbgt.jpg)
 
 
 Hexo 是一个有趣的开源框架，基于 [Node.js](https://nodejs.org/en/)。像其他的工具一样，你可以用它搭建相当快速的网站，不仅如此，它还提供了丰富的主题和插件。
@@ -102,7 +102,7 @@ Hexo 是一个有趣的开源框架，基于 [Node.js](https://nodejs.org/en/)�
 #### 4、Gatsby
 
 
-![](/Asserts/Images//attachment/album/202010/01/124101sjs5woz9ng2gu9z1.png)
+![](/Asserts/Images/album/202010/01/124101sjs5woz9ng2gu9z1.png)
 
 
 Gatsby 是一个越来越流行的开源网站生成框架。它使用 [React.js](https://reactjs.org/) 来生成快速、界面优美的网站。
@@ -120,7 +120,7 @@ Gatsby 是一个越来越流行的开源网站生成框架。它使用 [React.js
 #### 5、VuePress
 
 
-![](/Asserts/Images//attachment/album/202010/01/124010jzgtsy7kagj1jh1b.jpg)
+![](/Asserts/Images/album/202010/01/124010jzgtsy7kagj1jh1b.jpg)
 
 
 VuePress 是由 [Vue.js](https://vuejs.org/) 支持的静态网站生成工具，而 Vue.js 是一个开源的渐进式 JavaScript 框架。
@@ -138,7 +138,7 @@ VuePress 是由 [Vue.js](https://vuejs.org/) 支持的静态网站生成工具�
 #### 6、Nuxt.js
 
 
-![](/Asserts/Images//attachment/album/202010/01/123943j0cste0w52553sb5.jpg)
+![](/Asserts/Images/album/202010/01/123943j0cste0w52553sb5.jpg)
 
 
 Nuxt.js 使用了 Vue.js 和 Node.js，但它致力于模块化，并且有能力依赖服务端而非客户端。不仅如此，它的目标是为开发者提供直观的体验，并提供描述性错误，以及详细的文档等。
@@ -156,7 +156,7 @@ Nuxt.js 使用了 Vue.js 和 Node.js，但它致力于模块化，并且有能�
 #### 7、Docusaurus
 
 
-![](/Asserts/Images//attachment/album/202010/01/123946tfoutihoxte8gbth.jpg)
+![](/Asserts/Images/album/202010/01/123946tfoutihoxte8gbth.jpg)
 
 
 Docusaurus 是一个有趣的开源静态网站生成工具，为搭建文档类网站量身定制。它还是 [Facebook 开源计划](https://opensource.facebook.com/)的一个项目。
@@ -174,7 +174,7 @@ Docusaurus 是用 React 构建的。你可以使用所有的基本功能，像�
 #### 8、Eleventy
 
 
-![](/Asserts/Images//attachment/album/202010/01/123946wuzyaya8gdn8n8ey.png)
+![](/Asserts/Images/album/202010/01/123946wuzyaya8gdn8n8ey.png)
 
 
 Eleventy 自称是 Jekyll 的替代品，旨在以更简单的方法来制作更快的静态网站。
@@ -192,7 +192,7 @@ Eleventy 自称是 Jekyll 的替代品，旨在以更简单的方法来制作更
 #### 9、Publii
 
 
-![](/Asserts/Images//attachment/album/202010/01/124013psqkz5wsblsqbdy2.jpg)
+![](/Asserts/Images/album/202010/01/124013psqkz5wsblsqbdy2.jpg)
 
 
 Publii 是一个令人印象深刻的开源 CMS，它能使生成一个静态网站变得很容易。它是用 [Electron](https://www.electronjs.org) 和 Vue.js 构建的。如果有需要，你也可以把你的文章从 WorkPress 网站迁移过来。此外，它还提供了与 GitHub 页面、Netlify 及其它类似服务的一键同步功能。
@@ -207,7 +207,7 @@ Publii 是一个令人印象深刻的开源 CMS，它能使生成一个静态网
 #### 10、Primo
 
 
-![](/Asserts/Images//attachment/album/202010/01/123954n50uuj0b151xsj1h.jpg)
+![](/Asserts/Images/album/202010/01/123954n50uuj0b151xsj1h.jpg)
 
 
 一个有趣的开源静态网站生成工具，目前开发工作仍很活跃。虽然与其他的静态生成工具相比，它还不是一个成熟的解决方案，有些功能还不完善，但它是一个独特的项目。

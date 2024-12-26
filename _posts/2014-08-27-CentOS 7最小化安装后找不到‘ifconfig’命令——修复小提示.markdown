@@ -7,7 +7,7 @@ tags:	[linuxcn,ifconfig,命令]
 ---
 
 
-![](/Asserts/Images//attachment/album/201408/18/171556br6r7f9tq7cc7ddh.jpg)
+![](/Asserts/Images/album/201408/18/171556br6r7f9tq7cc7ddh.jpg)
 
 
 就像我们所知道的，“**ifconfig**”命令用于配置GNU/Linux系统的网络接口。它显示网络接口卡的详细信息，包括IP地址，MAC地址，以及网络接口卡状态之类。但是，该命令已经过时了，而且在最小化版本的RHEL 7以及它的克隆版本CentOS 7，Oracle Linux 7和Scientific Linux 7中也找不到该命令。

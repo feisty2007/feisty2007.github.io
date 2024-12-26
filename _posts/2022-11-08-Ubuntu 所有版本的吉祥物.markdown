@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,代号,吉祥物]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/11/130502q6500yvm0znvktz9.jpg)
+![](/Asserts/Images/album/202211/11/130502q6500yvm0znvktz9.jpg)
 
 
 
@@ -45,7 +45,7 @@ tags:	[linuxcn,Ubuntu,代号,吉祥物]
 ### Ubuntu 22.04 Jammy Jellyfish（幸运水母）
 
 
-![Ubuntu 22.04 mascot](/Asserts/Images//attachment/album/202211/11/130510z9k7cccc1mocgono.jpg)
+![Ubuntu 22.04 mascot](/Asserts/Images/album/202211/11/130510z9k7cccc1mocgono.jpg)
 
 
 于 2021 年 4 月 21 日发布。
@@ -60,7 +60,7 @@ Jammy 的意思是被果酱覆盖着的、充满果酱的。不太正式地，Ja
 ### Ubuntu 21.10 Impish Indri（顽皮大狐猴）
 
 
-![Ubuntu 21.10 mascot](/Asserts/Images//attachment/album/202211/11/130510z37173h11xz2z1zh.jpg)
+![Ubuntu 21.10 mascot](/Asserts/Images/album/202211/11/130510z37173h11xz2z1zh.jpg)
 
 
 于 2021 年 10 月 14 日发布。
@@ -83,7 +83,7 @@ Impish 的意思是以**顽皮**而不是严肃的方式，对某人/某事不�
 ### Ubuntu 21.04 Hirsute Hippo（多毛河马）
 
 
-![Ubuntu 21.04 mascot](/Asserts/Images//attachment/album/202211/11/130511egpjehejuacjmglz.jpg)
+![Ubuntu 21.04 mascot](/Asserts/Images/album/202211/11/130511egpjehejuacjmglz.jpg)
 
 
 于 2021 年 4 月 22 日发布。
@@ -109,7 +109,7 @@ Hirsute 的意思是**多毛的**。
 ### Ubuntu 20.10 Groovy Gorilla（时髦大猩猩）
 
 
-![Ubuntu 20.10 mascot](/Asserts/Images//attachment/album/202211/11/130511bmbpvlwkzzcbk3c0.jpg)
+![Ubuntu 20.10 mascot](/Asserts/Images/album/202211/11/130511bmbpvlwkzzcbk3c0.jpg)
 
 
 于 2020 年 10 月 22 日发布。
@@ -124,7 +124,7 @@ Groovy 的意思是**时尚的**和令人兴奋的。
 ### Ubuntu 20.04 LTS Focal Fossa（瞩目狸猫）
 
 
-![Ubuntu 20.04 mascot](/Asserts/Images//attachment/album/202211/11/130511glmmm6hxd6slii7d.jpg)
+![Ubuntu 20.04 mascot](/Asserts/Images/album/202211/11/130511glmmm6hxd6slii7d.jpg)
 
 
 于 2020 年 4 月 23 日发布。
@@ -139,7 +139,7 @@ Focal 的意思是令人注目的、**瞩目**。
 ### Ubuntu 19.10 Eoan Ermine（东方白鼬）
 
 
-![Ubuntu 19.10 mascot](/Asserts/Images//attachment/album/202211/11/130511x8iiuioc343zc935.jpg)
+![Ubuntu 19.10 mascot](/Asserts/Images/album/202211/11/130511x8iiuioc343zc935.jpg)
 
 
 于 2019 年 10 月 17 日发布。
@@ -162,7 +162,7 @@ Eoan 的意思是**与黎明或东方有关的**。
 ### Ubuntu 19.04 Disco Dingo（迪斯科野犬）
 
 
-![Ubuntu 19.04 mascot](/Asserts/Images//attachment/album/202211/11/130511j7e4lee4ker581e7.jpg)
+![Ubuntu 19.04 mascot](/Asserts/Images/album/202211/11/130511j7e4lee4ker581e7.jpg)
 
 
 于 2019 年 4 月 18 日发布。
@@ -177,7 +177,7 @@ Disco 与**迪斯科**音乐和夜总会有关。
 ### Ubuntu 18.10 Cosmic Cuttlefish（外星墨鱼）
 
 
-![Ubuntu 18.10 mascot](/Asserts/Images//attachment/album/202211/11/130512kyfckfq8y8yafzzq.jpg)
+![Ubuntu 18.10 mascot](/Asserts/Images/album/202211/11/130512kyfckfq8y8yafzzq.jpg)
 
 
 于 2018 年 10 月 18 日发布。
@@ -192,7 +192,7 @@ Cosmic 意味着与地球**不同的**、宇宙的。
 ### Ubuntu 18.04 LTS Bionic Beaver（仿生河狸）
 
 
-![Ubuntu 18.04 mascot](/Asserts/Images//attachment/album/202211/11/130512rydjc3iojoc4ed1r.jpg)
+![Ubuntu 18.04 mascot](/Asserts/Images/album/202211/11/130512rydjc3iojoc4ed1r.jpg)
 
 
 于 2018 年 4 月 26 日发布。
@@ -218,7 +218,7 @@ Bionic 意味着**仿生的**，或者是机电的。
 ### Ubuntu 17.10 Artful Aardvark（机灵土豚）
 
 
-![Ubuntu 17.10 mascot](/Asserts/Images//attachment/album/202211/11/130512pi7z44kok14j621l.jpg)
+![Ubuntu 17.10 mascot](/Asserts/Images/album/202211/11/130512pi7z44kok14j621l.jpg)
 
 
 于 2017 年 10 月 19 日发布。
@@ -236,7 +236,7 @@ Artful 的意思是聪明的或**机灵的**。
 ### Ubuntu 17.04 Zesty Zapus（开心跳鼠）
 
 
-![Ubuntu 17.04 mascot](/Asserts/Images//attachment/album/202211/11/130512nb1gbsbasrrc5zqn.jpg)
+![Ubuntu 17.04 mascot](/Asserts/Images/album/202211/11/130512nb1gbsbasrrc5zqn.jpg)
 
 
 于 2017 年 4 月 13 日发布。
@@ -254,7 +254,7 @@ Zesty 意味着有一种强烈的、**令人开心的**、有点辛辣的味道�
 ### Ubuntu 16.10 Yakkety Yak（唠叨牦牛）
 
 
-![Ubuntu 16.10 mascot](/Asserts/Images//attachment/album/202211/11/130513cclkvee6e9jsn3ce.jpg)
+![Ubuntu 16.10 mascot](/Asserts/Images/album/202211/11/130513cclkvee6e9jsn3ce.jpg)
 
 
 于 2016 年 10 月 13 日发布。
@@ -269,7 +269,7 @@ Yakkety 有很多意思。OMG Ubuntu 说，“yakking” 有唠唠叨叨这一�
 ### Ubuntu 16.04 LTS Xenial Xerus（好客地松鼠）
 
 
-![Ubuntu 16.04 mascot](/Asserts/Images//attachment/album/202211/11/130513qk4z00khkw1kphpt.jpg)
+![Ubuntu 16.04 mascot](/Asserts/Images/album/202211/11/130513qk4z00khkw1kphpt.jpg)
 
 
 于 2016 年 4 月 21 日发布。
@@ -284,7 +284,7 @@ Xenial 的意思是**热情好客的**。
 ### Ubuntu 15.10 Wily Werewolf（狡猾狼人）
 
 
-![Ubuntu 15.10 mascot](/Asserts/Images//attachment/album/202211/11/130514rw9sf3v9hksw02kf.jpg)
+![Ubuntu 15.10 mascot](/Asserts/Images/album/202211/11/130514rw9sf3v9hksw02kf.jpg)
 
 
 于 2015 年 10 月 22 日发布。
@@ -302,7 +302,7 @@ Wily 的意思是善于获得优势，尤其在欺骗上十分**狡猾的**。
 ### Ubuntu 15.04 Vivid Vervet（活泼绿猴）
 
 
-![Ubuntu 15.04 mascot](/Asserts/Images//attachment/album/202211/11/130514yl6lfs06iirsdslr.jpg)
+![Ubuntu 15.04 mascot](/Asserts/Images/album/202211/11/130514yl6lfs06iirsdslr.jpg)
 
 
 于 2015 年 4 月 23 日发布。
@@ -317,7 +317,7 @@ Vivid 的意思是**活泼**的、明亮的。
 ### Ubuntu 14.10 Utopic Unicorn（乌托邦独角兽）
 
 
-![Ubuntu 14.10 mascot](/Asserts/Images//attachment/album/202211/11/130514sd2u3yvvqc7u7q32.jpg)
+![Ubuntu 14.10 mascot](/Asserts/Images/album/202211/11/130514sd2u3yvvqc7u7q32.jpg)
 
 
 于 2014 年 10 月 23 日发布。
@@ -335,7 +335,7 @@ Utopic 与**乌托邦**有关，乌托邦是一个虚构的、不存在但是一
 ### Ubuntu 14.04 LTS Trusty Tahr（可靠塔尔羊）
 
 
-![Ubuntu 14.04 mascot](/Asserts/Images//attachment/album/202211/11/130514fo2727pb6gqnnocp.jpg)
+![Ubuntu 14.04 mascot](/Asserts/Images/album/202211/11/130514fo2727pb6gqnnocp.jpg)
 
 
 于 2014 年 4 月 17 日发布。
@@ -350,7 +350,7 @@ Trusty 意味着**可靠的**或忠实的。
 ### Ubuntu 13.10 Saucy Salamander（活泼蝾螈）
 
 
-![Ubuntu 13.10 mascot](/Asserts/Images//attachment/album/202211/11/130515ltnrzkqt7601qtq0.jpg)
+![Ubuntu 13.10 mascot](/Asserts/Images/album/202211/11/130515ltnrzkqt7601qtq0.jpg)
 
 
 于 2013 年 10 月 17 日发布。
@@ -365,7 +365,7 @@ Saucy 意味着大胆的、**活泼的**或精神饱满的。
 ### Ubuntu 13.04 Raring Ringtail（热情猫熊）
 
 
-![Ubuntu 13.04 mascot](/Asserts/Images//attachment/album/202211/11/130515yux5fdr5u5uvrqyg.jpg)
+![Ubuntu 13.04 mascot](/Asserts/Images/album/202211/11/130515yux5fdr5u5uvrqyg.jpg)
 
 
 于 2013 年 4 月 25 日发布。
@@ -380,7 +380,7 @@ Raring 的意思是热情的和**非常渴望做某事**。
 ### Ubuntu 12.10 Quantal Quetzal（量子大咬鹃）
 
 
-![Ubuntu 12.10 mascot](/Asserts/Images//attachment/album/202211/11/130515dcw33vfacsffio0q.jpg)
+![Ubuntu 12.10 mascot](/Asserts/Images/album/202211/11/130515dcw33vfacsffio0q.jpg)
 
 
 于 2012 年 10 月 18 日发布。
@@ -395,7 +395,7 @@ Quantal 意味着与**量子**或量子理论有关的。
 ### Ubuntu 12.04 LTS Precise Pangolin（精准穿山甲）
 
 
-![Ubuntu 12.04 mascot](/Asserts/Images//attachment/album/202211/11/130515hz00w30q3o1a6ozg.jpg)
+![Ubuntu 12.04 mascot](/Asserts/Images/album/202211/11/130515hz00w30q3o1a6ozg.jpg)
 
 
 于 2012 年 4 月 26 日发布。
@@ -418,7 +418,7 @@ Precise 意味着能**精确**或准确地表达细节。
 ### Ubuntu 11.10 Oneiric Ocelot（梦幻豹猫）
 
 
-![Ubuntu 11.10 mascot](/Asserts/Images//attachment/album/202211/11/130516qkkrq0j40k0gvxee.jpg)
+![Ubuntu 11.10 mascot](/Asserts/Images/album/202211/11/130516qkkrq0j40k0gvxee.jpg)
 
 
 于 2011 年 10 月 13 日发布。
@@ -441,7 +441,7 @@ Oneiric 的意思是与**梦**有关的。
 ### Ubuntu 11.04 Natty Narwhal（聪明独角鲸）
 
 
-![Ubuntu 11.04 mascot](/Asserts/Images//attachment/album/202211/11/130516f9e08e5l00p5xj8a.jpg)
+![Ubuntu 11.04 mascot](/Asserts/Images/album/202211/11/130516f9e08e5l00p5xj8a.jpg)
 
 
 于 2011 年 4 月 28 日发布。
@@ -459,7 +459,7 @@ Natty 意味着**聪明**和时尚的。
 ### Ubuntu 10.10 Maverick Meerkat（独行猫鼬）
 
 
-![Ubuntu 10.10 mascot](/Asserts/Images//attachment/album/202211/11/130516o1ytt47pf4rbilkw.jpg)
+![Ubuntu 10.10 mascot](/Asserts/Images/album/202211/11/130516o1ytt47pf4rbilkw.jpg)
 
 
 于 2010 年 10 月 10 日发布。
@@ -474,7 +474,7 @@ Maverick 的意思是**特立独行的**或有独立思想的。
 ### Ubuntu 10.04 LTS Lucid Lynx（清醒猞狸）
 
 
-![Ubuntu 10.04 mascot](/Asserts/Images//attachment/album/202211/11/130517k7nm6fpmdtkdkvs6.jpg)
+![Ubuntu 10.04 mascot](/Asserts/Images/album/202211/11/130517k7nm6fpmdtkdkvs6.jpg)
 
 
 于 2010 年 4 月 29 日发布。
@@ -489,7 +489,7 @@ Lucid 意味着**易于理解的**或明亮的。
 ### Ubuntu 9.10 Karmic Koala（幸运考拉）
 
 
-![Ubuntu 9.10 mascot](/Asserts/Images//attachment/album/202211/11/130517o66jhjmhqdhn6h8q.jpg)
+![Ubuntu 9.10 mascot](/Asserts/Images/album/202211/11/130517o66jhjmhqdhn6h8q.jpg)
 
 
 于 2009 年 10 月 29 日发布。
@@ -512,7 +512,7 @@ Karmic 意味着与**命运**、业力有关。
 ### Ubuntu 9.04 Jaunty Jackalope（自信鹿角兔）
 
 
-![Ubuntu 9.04 mascot](/Asserts/Images//attachment/album/202211/11/130517w12z8c2j7ee5f66m.jpg)
+![Ubuntu 9.04 mascot](/Asserts/Images/album/202211/11/130517w12z8c2j7ee5f66m.jpg)
 
 
 于 2009 年 4 月 23 日发布。
@@ -530,7 +530,7 @@ Jaunty 是指拥有活泼、开朗和**自信**的态度。
 ### Ubuntu 8.10 Intrepid Ibex（无畏野山羊）
 
 
-![Ubuntu 8.10 mascot](/Asserts/Images//attachment/album/202211/11/130517bwn99739nvvio8v3.jpg)
+![Ubuntu 8.10 mascot](/Asserts/Images/album/202211/11/130517bwn99739nvvio8v3.jpg)
 
 
 于 2008 年 10 月 30 日发布。
@@ -545,7 +545,7 @@ Intrepid 意味着**无所畏惧**、冒险的。
 ### Ubuntu 8.04 LTS Hardy Heron（坚韧苍鹭）
 
 
-![Ubuntu 8.04 mascot](/Asserts/Images//attachment/album/202211/11/130518e4q6h3s4gjgwitgq.jpg)
+![Ubuntu 8.04 mascot](/Asserts/Images/album/202211/11/130518e4q6h3s4gjgwitgq.jpg)
 
 
 于 2008 年 4 月 24 日发布。
@@ -563,7 +563,7 @@ Hardy 意味着能够**忍受**困难条件的、强大的。
 ### Ubuntu 7.10 Gutsy Gibbon（阵风长臂猿）
 
 
-![Ubuntu 7.10 mascot](/Asserts/Images//attachment/album/202211/11/130518w8pbubulp6btvvbl.jpg)
+![Ubuntu 7.10 mascot](/Asserts/Images/album/202211/11/130518w8pbubulp6btvvbl.jpg)
 
 
 于 2007 年 10 月 18 日发布。
@@ -578,7 +578,7 @@ Gusty 表示以**阵风**的方式吹动。
 ### Ubuntu 7.04 Feisty Fawn（活泼小鹿）
 
 
-![Ubuntu 7.04 mascot](/Asserts/Images//attachment/album/202211/11/130518xmrlj00r4xqra0ym.jpg)
+![Ubuntu 7.04 mascot](/Asserts/Images/album/202211/11/130518xmrlj00r4xqra0ym.jpg)
 
 
 于 2007 年 4 月 19 日发布。
@@ -593,7 +593,7 @@ Feisty 意味着**小而坚定**的。
 ### Ubuntu 6.10 Edgy Eft（紧张水蜥）
 
 
-![Ubuntu 6.10 mascot](/Asserts/Images//attachment/album/202211/11/130518c54zff7jqqfn0477.jpg)
+![Ubuntu 6.10 mascot](/Asserts/Images/album/202211/11/130518c54zff7jqqfn0477.jpg)
 
 
 于 2006 年 10 月 26 日发布。
@@ -611,7 +611,7 @@ Edgy 的意思是**紧张的**。
 ### Ubuntu 6.06 Dapper Drake（整洁公鸭）
 
 
-![Ubuntu 6.06 mascot](/Asserts/Images//attachment/album/202211/11/130519hy5mtbyub1pblyp4.jpg)
+![Ubuntu 6.06 mascot](/Asserts/Images/album/202211/11/130519hy5mtbyub1pblyp4.jpg)
 
 
 于 2006 年 6 月 1 日发布。
@@ -626,7 +626,7 @@ Dapper 的意思是衣着整洁，**外表整洁的**。
 ### Ubuntu 5.10 Breezy Badger（微风之獾）
 
 
-![Ubuntu 5.10 mascot](/Asserts/Images//attachment/album/202211/11/130519mytntnxnpstmrqsb.jpg)
+![Ubuntu 5.10 mascot](/Asserts/Images/album/202211/11/130519mytntnxnpstmrqsb.jpg)
 
 
 于 2005 年 10 月 12 日发布。
@@ -641,7 +641,7 @@ Breezy 的意思是有**微风**的。
 ### Ubuntu 5.04 Hoary Hedgehog（灰白刺猬）
 
 
-![Ubuntu 5.04 mascot](/Asserts/Images//attachment/album/202211/11/130519z5wosjwuwswdsvdf.jpg)
+![Ubuntu 5.04 mascot](/Asserts/Images/album/202211/11/130519z5wosjwuwswdsvdf.jpg)
 
 
 于 2005 年 4 月 8 日发布。
@@ -656,7 +656,7 @@ Hoary 是**灰白色的**意思。
 ### Ubuntu 4.10 : Warty Warthog（有疣疣猪）
 
 
-![Ubuntu 4.10 mascot](/Asserts/Images//attachment/album/202211/11/130519kkg2fqjbww8nmkwy.jpg)
+![Ubuntu 4.10 mascot](/Asserts/Images/album/202211/11/130519kkg2fqjbww8nmkwy.jpg)
 
 
 于 2004 年 10 月 20 日发布。

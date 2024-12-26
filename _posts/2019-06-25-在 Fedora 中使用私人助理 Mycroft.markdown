@@ -7,7 +7,7 @@ tags:	[linuxcn,私人助理]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/27/110252hp1agc6l7a01c9zg.jpg)
+![](/Asserts/Images/album/201906/27/110252hp1agc6l7a01c9zg.jpg)
 
 
 
@@ -66,7 +66,7 @@ $ ./start-mycroft.sh all
 创建帐户后，可以在 <https://account.mycroft.ai/devices> 中添加新设备。添加新设备需要配对码，你的设备会在所有服务启动后告诉你。
 
 
-![](/Asserts/Images//attachment/album/201906/27/110254xl8188pfkouoqeou.png)
+![](/Asserts/Images/album/201906/27/110254xl8188pfkouoqeou.png)
 
 
 现在可以使用该设备了。

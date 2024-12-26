@@ -7,7 +7,7 @@ tags:	[linuxcn,Flatpak]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/20/000836zn7s4011z4qs72ss.jpg)
+![](/Asserts/Images/album/201904/20/000836zn7s4011z4qs72ss.jpg)
 
 
 目前，我们都在使用 Linux 发行版的官方软件包管理器来安装所需的软件包。

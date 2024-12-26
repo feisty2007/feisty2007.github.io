@@ -7,13 +7,13 @@ tags:	[linuxcn,zsh,shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/12/104236yuzuuurhp8zr1h13.jpg)
+![](/Asserts/Images/album/201903/12/104236yuzuuurhp8zr1h13.jpg)
 
 
 运行跨平台 shell（例如 Bash 或 zsh）的最大优势在于你能在多平台上使用同样的语法和脚本。在 Windows 上设置（替换）shell 挺麻烦的，但所获得的回报远远超出这小小的付出。
 
 
-![zsh shell inside Emacs on Windows](/Asserts/Images//attachment/album/201903/12/104246ofgp099aw0f06z1p.png)
+![zsh shell inside Emacs on Windows](/Asserts/Images/album/201903/12/104246ofgp099aw0f06z1p.png)
 
 
 MSYS2 子系统允许你在 Windows 上运行 Bash 或 zsh 之类的 shell。使用 MSYS2 很重要的一点在于确保搜索路径都指向 MSYS2 子系统本身：存在太多依赖关系了。

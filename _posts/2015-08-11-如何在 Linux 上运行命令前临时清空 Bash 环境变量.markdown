@@ -13,7 +13,7 @@ tags:	[linuxcn,命令,环境变量]
 你可以在 Linux 或类 Unix 系统中使用 env 命令设置并打印环境。env 命令可以按命令行指定的变量来修改环境，之后再执行程序。
 
 
-![](/Asserts/Images//attachment/album/201508/08/234643lz4436ndzo8sqds5.jpg)
+![](/Asserts/Images/album/201508/08/234643lz4436ndzo8sqds5.jpg)
 
 
 ### 如何显示当前环境？
@@ -40,7 +40,7 @@ env
 输出样例：
 
 
-![Fig.01： Unix/Linux： 列出所有环境变量](/Asserts/Images//attachment/album/201508/08/234703bjxggfndgrsxr9gz.jpg)
+![Fig.01： Unix/Linux： 列出所有环境变量](/Asserts/Images/album/201508/08/234703bjxggfndgrsxr9gz.jpg)
 
 
 *Fig.01： Unix/Linux： 列出所有环境变量*

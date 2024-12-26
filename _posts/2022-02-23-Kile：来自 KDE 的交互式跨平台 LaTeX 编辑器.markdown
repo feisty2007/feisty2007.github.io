@@ -27,7 +27,7 @@ Kile 是 KDE 提供选择之一，可用于 Linux 和其他平台。事实上，
 ### 一个开源的集成 LaTeX 编辑器
 
 
-![](/Asserts/Images//attachment/album/202202/22/103752bwbjyzc0oknhhvzx.png)
+![](/Asserts/Images/album/202202/22/103752bwbjyzc0oknhhvzx.png)
 
 
 Kile 可能不是最受欢迎的选择，但它确实因其提供的东西而脱颖而出。
@@ -42,7 +42,7 @@ Kile 可能不是最受欢迎的选择，但它确实因其提供的东西而脱
 ### Kile 的特点
 
 
-![](/Asserts/Images//attachment/album/202202/22/103754dbttf1c3bwck1toe.png)
+![](/Asserts/Images/album/202202/22/103754dbttf1c3bwck1toe.png)
 
 
 正如我提到的，Kile 是一个功能丰富的 LaTeX 编辑器。如果你是 TeX/LaTeX 文档的新手，它可能会让你不知所措，但它仍然值得探索。
@@ -66,7 +66,7 @@ Kile 可能不是最受欢迎的选择，但它确实因其提供的东西而脱
 * 使用小窗口预览浏览整个文件（如果文件太大需要滚动）。
 
 
-![](/Asserts/Images//attachment/album/202202/22/103756zf74s9m54sh7os5v.png)
+![](/Asserts/Images/album/202202/22/103756zf74s9m54sh7os5v.png)
 
 
 除了这些，你还可以配置外观，调整键盘快捷键，找到各种编码支持等。
@@ -78,19 +78,19 @@ Kile 可能不是最受欢迎的选择，但它确实因其提供的东西而脱
 例如，以下是你第一次启动该应用时：
 
 
-![](/Asserts/Images//attachment/album/202202/22/103757lrmj3g8wrj4mzcor.png)
+![](/Asserts/Images/album/202202/22/103757lrmj3g8wrj4mzcor.png)
 
 
 它将检查任何配置问题，帮助你确保无缝体验。
 
 
-![](/Asserts/Images//attachment/album/202202/22/103759e7iwndkg5ntkimfg.png)
+![](/Asserts/Images/album/202202/22/103759e7iwndkg5ntkimfg.png)
 
 
 设置完成后，它将迅速提示你可用的模板，让你开始：
 
 
-![](/Asserts/Images//attachment/album/202202/22/103801b0i14hh6jhrrqnz3.png)
+![](/Asserts/Images/album/202202/22/103801b0i14hh6jhrrqnz3.png)
 
 
 因此，指导性的设置和上述所有的功能应该构成一个出色的 LaTeX 编辑体验。

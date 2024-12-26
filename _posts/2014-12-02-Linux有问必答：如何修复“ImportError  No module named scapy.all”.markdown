@@ -21,7 +21,7 @@ tags:	[linuxcn,Scapy]
 该导入错误表明：你还没有在你的Linux系统上安装Scapy。下面介绍安装方法。
 
 
-![](/Asserts/Images//attachment/album/201412/07/233958sxy473667c4krmz8.png)
+![](/Asserts/Images/album/201412/07/233958sxy473667c4krmz8.png)
 
 
 ### 安装Scapy到Debian, Ubuntu或Linux Mint

@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/16/133337sllc9me9jeqjeuuc.jpg)
+![](/Asserts/Images/album/202206/16/133337sllc9me9jeqjeuuc.jpg)
 
 
 在 Linux 中运行一个 Python 程序只需要简单地在终端中执行 Python 文件就行。
@@ -43,7 +43,7 @@ Thonny 自带 Python，所以你不需要为安装 Python 做额外的努力。�
 界面很简单。它给你一个编辑器，你可以写你的 Python 程序，然后点击运行按钮或使用 `F5` 键来运行程序。输出显示在底部。
 
 
-![thonny hello world](/Asserts/Images//attachment/album/202206/16/133356mwdqan7hu8rzhn89.png)
+![thonny hello world](/Asserts/Images/album/202206/16/133356mwdqan7hu8rzhn89.png)
 
 
 #### 查看变量
@@ -52,7 +52,7 @@ Thonny 自带 Python，所以你不需要为安装 Python 做额外的努力。�
 在 “<ruby> 查看 <rt>  View </rt></ruby>-><ruby> 变量 <rt>  Variables </rt></ruby>”，你可以看到所有变量的值。不需要将它们全部打印出来。
 
 
-![thonny variable pane](/Asserts/Images//attachment/album/202206/16/133357sdp1aa2zn3d6lpn2.png)
+![thonny variable pane](/Asserts/Images/album/202206/16/133357sdp1aa2zn3d6lpn2.png)
 
 
 #### 内置调试器
@@ -61,13 +61,13 @@ Thonny 自带 Python，所以你不需要为安装 Python 做额外的努力。�
 通过使用调试器一步步运行你的程序。你可以从顶部的菜单或使用 `Ctrl + F5` 键访问它。在这里你甚至不需要设置断点。你可以用 `F6` 进入大步骤，或用 `F7` 进入小步骤。
 
 
-![thonny step by step f6](/Asserts/Images//attachment/album/202206/16/133357l606x7oq69syx6xi.png)
+![thonny step by step f6](/Asserts/Images/album/202206/16/133357l606x7oq69syx6xi.png)
 
 
 在小步骤中，你可以看到 Python 是如何看待你的表达式的。这对新的程序员理解他们的程序为什么以某种方式表现非常有帮助。
 
 
-![thonny step by step f7](/Asserts/Images//attachment/album/202206/16/133357o9sf8xfg60rp8cpg.png)
+![thonny step by step f7](/Asserts/Images/album/202206/16/133357o9sf8xfg60rp8cpg.png)
 
 
 不止这样。对于函数调用，它会打开一个新的窗口，里面有独立的局部变量表和代码指针。超级酷!
@@ -88,7 +88,7 @@ Thonny 自带 Python，所以你不需要为安装 Python 做额外的努力。�
 你不需要输入所有的东西。Thonny 支持自动补全代码，这有助于加快编码。
 
 
-![thonny auto complete](/Asserts/Images//attachment/album/202206/16/133358wc72o1vbq7tf678b.png)
+![thonny auto complete](/Asserts/Images/album/202206/16/133358wc72o1vbq7tf678b.png)
 
 
 #### 访问系统 shell
@@ -97,7 +97,7 @@ Thonny 自带 Python，所以你不需要为安装 Python 做额外的努力。�
 在工具中，你可以访问系统 shell。在这里你可以安装新的 Python 包或学习从命令行处理 Python。
 
 
-![thonny shell terminal](/Asserts/Images//attachment/album/202206/16/133358vttln57iw3iajxjj.png)
+![thonny shell terminal](/Asserts/Images/album/202206/16/133358vttln57iw3iajxjj.png)
 
 
 请注意，如果你使用 Flatpak 或 Snap，Thonny 可能无法访问系统 shell。
@@ -109,7 +109,7 @@ Thonny 自带 Python，所以你不需要为安装 Python 做额外的努力。�
 进入工具和管理包。它会打开一个窗口，你可以从这个 GUI 中安装 Pip 软件包。
 
 
-![thonny manage packages](/Asserts/Images//attachment/album/202206/16/133359bqn3ndppd1uwlj3j.png)
+![thonny manage packages](/Asserts/Images/album/202206/16/133359bqn3ndppd1uwlj3j.png)
 
 
 对于学习 Python 来说，功能足够好，对吗？让我们看看如何安装它。

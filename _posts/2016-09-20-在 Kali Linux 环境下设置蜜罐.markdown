@@ -10,7 +10,7 @@ tags:	[linuxcn,Pentbox,蜜罐,Kali Linux]
 Pentbox 是一个包含了许多可以使渗透测试工作变得简单流程化的工具的安全套件。它是用 Ruby 编写并且面向 GNU / Linux，同时也支持 Windows、MacOS 和其它任何安装有 Ruby 的系统。在这篇短文中我们将讲解如何在 Kali Linux 环境下设置蜜罐。如果你还不知道什么是<ruby> 蜜罐 <rp>  （ </rp> <rt>  honeypot </rt> <rp>  ） </rp></ruby>，“蜜罐是一种计算机安全机制，其设置用来发现、转移、或者以某种方式，抵消对信息系统的非授权尝试。”
 
 
-![](/Asserts/Images//attachment/album/201609/20/112531mgnlsxt2iz2457d2.jpg)
+![](/Asserts/Images/album/201609/20/112531mgnlsxt2iz2457d2.jpg)
 
 
 ### 下载 Pentbox：
@@ -25,7 +25,7 @@ root@kali:~# wget http://downloads.sourceforge.net/project/pentbox18realised/pen
 
 ```
 
-![](/Asserts/Images//attachment/album/201609/20/112543dldhs4vaz43v5vwd.jpg)
+![](/Asserts/Images/album/201609/20/112543dldhs4vaz43v5vwd.jpg)
 
 
 ### 解压 pentbox 文件
@@ -40,7 +40,7 @@ root@kali:~# tar -zxvf pentbox-1.8.tar.gz
 
 ```
 
-![](/Asserts/Images//attachment/album/201609/20/112543e9kriozxxii3ox77.jpg)
+![](/Asserts/Images/album/201609/20/112543e9kriozxxii3ox77.jpg)
 
 
 ### 运行 pentbox 的 ruby 脚本
@@ -55,7 +55,7 @@ root@kali:~# cd pentbox-1.8/
 
 ```
 
-![](/Asserts/Images//attachment/album/201609/20/112544ivlmuuzuuivsvcuh.jpg)
+![](/Asserts/Images/album/201609/20/112544ivlmuuzuuivsvcuh.jpg)
 
 
 使用下面的命令来运行 pentbox：
@@ -67,7 +67,7 @@ root@kali:~# ./pentbox.rb
 
 ```
 
-![](/Asserts/Images//attachment/album/201609/20/112544onoobna2b07yp0ba.jpg)
+![](/Asserts/Images/album/201609/20/112544onoobna2b07yp0ba.jpg)
 
 
 ### 设置一个蜜罐
@@ -76,31 +76,31 @@ root@kali:~# ./pentbox.rb
 使用选项 2 (Network Tools) 然后是其中的选项 3 (Honeypot)。
 
 
-![](/Asserts/Images//attachment/album/201609/20/112545gitojooi678ab3ad.jpg)
+![](/Asserts/Images/album/201609/20/112545gitojooi678ab3ad.jpg)
 
 
 完成让我们执行首次测试，选择其中的选项 1 (Fast Auto Configuration)
 
 
-![](/Asserts/Images//attachment/album/201609/20/112545aif0lzhcbozquoco.jpg)
+![](/Asserts/Images/album/201609/20/112545aif0lzhcbozquoco.jpg)
 
 
 这样就在 80 端口上开启了一个蜜罐。打开浏览器并且打开链接 <http://192.168.160.128> （这里的 192.168.160.128 是你自己的 IP 地址。）你应该会看到一个 Access denied 的报错。
 
 
-![](/Asserts/Images//attachment/album/201609/20/112546n68j4j8ki9a02iik.jpg)
+![](/Asserts/Images/album/201609/20/112546n68j4j8ki9a02iik.jpg)
 
 
 并且在你的终端应该会看到 “HONEYPOT ACTIVATED ON PORT 80” 和跟着的 “INTRUSION ATTEMPT DETECTED”。
 
 
-![](/Asserts/Images//attachment/album/201609/20/112546aarctud3xzx3t0t3.jpg)
+![](/Asserts/Images/album/201609/20/112546aarctud3xzx3t0t3.jpg)
 
 
 现在，如果你在同一步选择了选项 2 (Manual Configuration), 你应该看见更多的其它选项：
 
 
-![](/Asserts/Images//attachment/album/201609/20/112547rvdqa35h1xdvo55f.jpg)
+![](/Asserts/Images/album/201609/20/112547rvdqa35h1xdvo55f.jpg)
 
 
 执行相同的步骤但是这次选择 22 端口 (SSH 端口)。接着在你家里的路由器上做一个端口转发，将外部的 22 端口转发到这台机器的 22 端口上。或者，把这个蜜罐设置在你的云端服务器的一个 VPS 上。

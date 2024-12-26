@@ -7,7 +7,7 @@ tags:	[linuxcn,watch,tail]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/07/091736ja5yt2yottef0kl4.jpg)
+![](/Asserts/Images/album/202205/07/091736ja5yt2yottef0kl4.jpg)
 
 
 

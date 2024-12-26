@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,补丁,LLM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/20/134239k0degs09690064tt.jpg)
+![](/Asserts/Images/album/202311/20/134239k0degs09690064tt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/20/134308zk4lltyacu7hfb8t.png)
+![](/Asserts/Images/album/202311/20/134308zk4lltyacu7hfb8t.png)
 
 
 ### #1 Linux 中的 Rust 支持继续成熟
@@ -35,7 +35,7 @@ Linux 中的 Rust 支持正在不断走向成熟，并得到了思科、三星�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/20/134329xgnjjls9d4ajlu2w.png)
+![](/Asserts/Images/album/202311/20/134329xgnjjls9d4ajlu2w.png)
 
 
 ### #2 微软庆祝 “补丁星期二” 20 周年
@@ -60,7 +60,7 @@ Linux 中的 Rust 支持正在不断走向成熟，并得到了思科、三星�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/20/134348dyfpysjzhzyvyzyn.png)
+![](/Asserts/Images/album/202311/20/134348dyfpysjzhzyvyzyn.png)
 
 
 ### #3 亚马逊宣布推出 Olympus LLM

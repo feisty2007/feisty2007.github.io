@@ -15,7 +15,7 @@ tags:	[linuxcn,二进制]
 > 
 
 
-![](/Asserts/Images//attachment/album/202005/05/232115nn0oduodo4oztv0a.jpg)
+![](/Asserts/Images/album/202005/05/232115nn0oduodo4oztv0a.jpg)
 
 
 “这个世界上有 10 种人：懂二进制的人和不懂二进制的人。”

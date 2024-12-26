@@ -19,7 +19,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 1. Avidemux
 
 
-![](/Asserts/Images//attachment/album/201404/13/105559fjbbbftuuxzj68xx.jpg)
+![](/Asserts/Images/album/201404/13/105559fjbbbftuuxzj68xx.jpg)
 
 
 * 许可协议： GNU GPL
@@ -33,7 +33,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 2. Blender
 
 
-![](/Asserts/Images//attachment/album/201404/13/105602gz5v1hh0wdever55.jpg)
+![](/Asserts/Images/album/201404/13/105602gz5v1hh0wdever55.jpg)
 
 
 * 许可协议： GNU GPL v3+
@@ -47,7 +47,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 3. Cinelerra-CV
 
 
-![](/Asserts/Images//attachment/album/201404/13/105604nkn5gyk88p88k8ml.jpg)
+![](/Asserts/Images/album/201404/13/105604nkn5gyk88p88k8ml.jpg)
 
 
 * 许可协议： GNU GPL
@@ -64,7 +64,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 4. Flowblade
 
 
-![](/Asserts/Images//attachment/album/201404/13/105607nwpur2bqvp2rxqyq.jpg)
+![](/Asserts/Images/album/201404/13/105607nwpur2bqvp2rxqyq.jpg)
 
 
 * 许可协议： GNU GPL v3
@@ -79,7 +79,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 5. Jahshaka
 
 
-![](/Asserts/Images//attachment/album/201404/13/105609nwrnz8azn8o8ohy9.jpg)
+![](/Asserts/Images/album/201404/13/105609nwrnz8azn8o8ohy9.jpg)
 
 
 * 许可协议： GNU GPL
@@ -94,7 +94,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 6. Kdenlive
 
 
-![](/Asserts/Images//attachment/album/201404/13/105612exg1dhv9wdlrv9d1.jpg)
+![](/Asserts/Images/album/201404/13/105612exg1dhv9wdlrv9d1.jpg)
 
 
 * 许可协议： GNU GPL v2+
@@ -110,7 +110,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 7. Lightworks
 
 
-![](/Asserts/Images//attachment/album/201404/13/105614ab5qc2wizbm1pyfb.jpg)
+![](/Asserts/Images/album/201404/13/105614ab5qc2wizbm1pyfb.jpg)
 
 
 * 许可协议： Freemium
@@ -123,7 +123,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 8.LiVES
 
 
-![](/Asserts/Images//attachment/album/201404/13/105616o43nghg6wl3gyhty.jpg)
+![](/Asserts/Images/album/201404/13/105616o43nghg6wl3gyhty.jpg)
 
 
 * 许可协议： GNU GPL
@@ -140,7 +140,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 9. OpenShot
 
 
-![](/Asserts/Images//attachment/album/201404/13/105618kypwxxe6am6lxkyd.jpg)
+![](/Asserts/Images/album/201404/13/105618kypwxxe6am6lxkyd.jpg)
 
 
 * 许可协议： GNU GPL v3
@@ -157,7 +157,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 10. Pitivi
 
 
-![](/Asserts/Images//attachment/album/201404/13/105620hjfh6m6vbbjsjjii.jpg)
+![](/Asserts/Images/album/201404/13/105620hjfh6m6vbbjsjjii.jpg)
 
 
 * 许可协议： GNU LGPL
@@ -172,7 +172,7 @@ tags:	[linuxcn,视频编辑,软件]
 ### 11. Shotcut
 
 
-![](/Asserts/Images//attachment/album/201404/13/105622u2bfy282qpp0lmhp.jpg)
+![](/Asserts/Images/album/201404/13/105622u2bfy282qpp0lmhp.jpg)
 
 
 * 许可协议： GNU GPL

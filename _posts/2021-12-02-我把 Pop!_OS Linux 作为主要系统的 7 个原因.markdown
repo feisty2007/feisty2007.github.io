@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/26/115716cr4hqyp8qjrxyqp9.jpg)
+![](/Asserts/Images/album/202112/26/115716cr4hqyp8qjrxyqp9.jpg)
 
 
 Pop!\_OS 是向 Linux 初学者和游戏玩家的热门推荐。但是，Pop!\_OS 从其他基于 Ubuntu 的发行版中脱颖而出的原因有哪些？为什么你应该考虑把它作为你电脑日常使用的系统？
@@ -31,7 +31,7 @@ Pop!\_OS 是向 Linux 初学者和游戏玩家的热门推荐。但是，Pop!\_O
 #### 1、单独的 NVIDIA/AMD ISO
 
 
-![](/Asserts/Images//attachment/album/202112/26/115729uqpsg0wzsd7d975r.png)
+![](/Asserts/Images/album/202112/26/115729uqpsg0wzsd7d975r.png)
 
 
 如果你有一个装有 Nvidia GPU 的机器，使用 [Nouveau](https://nouveau.freedesktop.org)（Nvidia 显卡的开源驱动程序）来使其工作是不可行的。
@@ -55,7 +55,7 @@ Pop!\_OS 是向 Linux 初学者和游戏玩家的热门推荐。但是，Pop!\_O
 顺便说一句，对于大多数流行的 Linux 发行版，这个过程应该与 [在 Linux Mint 中安装 Nvidia 驱动程序](https://itsfoss.com/nvidia-linux-mint/) 类似。
 
 
-![驱动管理器 | Linux Mint (Cinnamon)](/Asserts/Images//attachment/album/202112/26/115730zn5w8wns8acj6nn8.jpg)
+![驱动管理器 | Linux Mint (Cinnamon)](/Asserts/Images/album/202112/26/115730zn5w8wns8acj6nn8.jpg)
 
 
 请注意，有时你需要排除故障或重新安装正确的（或较早的驱动版本）才能正确使用 Nvidia 显卡。
@@ -73,7 +73,7 @@ Pop!\_OS 是向 Linux 初学者和游戏玩家的热门推荐。但是，Pop!\_O
 #### 2、自动平铺管理器
 
 
-![](/Asserts/Images//attachment/album/202112/26/115730ybc3msydyz4c9dcw.png)
+![](/Asserts/Images/album/202112/26/115730ybc3msydyz4c9dcw.png)
 
 
 如果没有平铺管理器，你需要不断地拖放（和移动）你的活动窗口来组织它们以便快速访问。
@@ -115,7 +115,7 @@ Pop!\_OS 是向 Linux 初学者和游戏玩家的热门推荐。但是，Pop!\_O
 #### 4、较新的 Linux 内核
 
 
-![Pop!_OS 21.10 具有 Linux 内核 5.15.8](/Asserts/Images//attachment/album/202112/26/115730xds8m2ff82i8w8l8.png)
+![Pop!_OS 21.10 具有 Linux 内核 5.15.8](/Asserts/Images/album/202112/26/115730xds8m2ff82i8w8l8.png)
 
 
 Ubuntu 可能不具有最新和最棒的 Linux 内核，特别是它的 LTS 版本时。
@@ -133,7 +133,7 @@ Ubuntu 可能不具有最新和最棒的 Linux 内核，特别是它的 LTS 版�
 #### 5、应用程序启动器
 
 
-![](/Asserts/Images//attachment/album/202112/26/115730ysthg77tasvixwx7.png)
+![](/Asserts/Images/album/202112/26/115730ysthg77tasvixwx7.png)
 
 
 应用程序启动器在快速启动应用程序或在活动窗口之间进行导航时非常方便。

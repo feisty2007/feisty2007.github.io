@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,变量]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/12/104634hn44z9dxolr4idcn.jpg)
+![](/Asserts/Images/album/201805/12/104634hn44z9dxolr4idcn.jpg)
 
 
 ### 全局变量

@@ -86,7 +86,7 @@ sudo dpkg -i *.deb
 安装完成后，重启你的设备，如果一切都按照上面描述一样进展顺利，你的系统应该拥有了最新稳定的内核版本。
 
 
-![](/Asserts/Images//attachment/album/201403/19/233615dnal0bpykvuy0sab.jpg)
+![](/Asserts/Images/album/201403/19/233615dnal0bpykvuy0sab.jpg)
 
 
 卸载内核3.12.7版本，使用下列命令

@@ -15,7 +15,7 @@ tags:	[linuxcn,sudo,sudoers,root]
 > 
 
 
-![](/Asserts/Images//attachment/album/201801/03/093439rdkdiqqiigcw2wtp.png)
+![](/Asserts/Images/album/201801/03/093439rdkdiqqiigcw2wtp.png)
 
 
 我最近写了一个简短的 Bash 程序来将 MP3 文件从一台网络主机的 USB 盘中拷贝到另一台网络主机上去。拷贝出来的文件存放在一台志愿者组织所属服务器的特定目录下，在那里，这些文件可以被下载和播放。

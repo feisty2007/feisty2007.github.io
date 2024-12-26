@@ -7,7 +7,7 @@ tags:	[linuxcn,防火墙,BSD]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/15/223918yw8s808787d6707q.jpg)
+![](/Asserts/Images/album/201809/15/223918yw8s808787d6707q.jpg)
 
 
 我是从 Linux 迁移过来的 FreeBSD 新用户，Linux 中使用的是 netfilter 防火墙框架（LCTT 译注：netfilter 是由 Rusty Russell 提出的 Linux 2.4 内核防火墙框架）。那么在 FreeBSD 上，我该如何设置 PF 防火墙，来保护只有一个公共 IP 地址和端口的 web 服务器呢？

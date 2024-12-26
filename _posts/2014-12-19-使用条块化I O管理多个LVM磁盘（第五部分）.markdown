@@ -10,7 +10,7 @@ tags:	[linuxcn,LVM]
 在本文中，我们将了解逻辑卷是如何通过条块化I/O来写入数据到磁盘的。逻辑卷管理的酷炫特性之一，就是它能通过条块化I/O跨多个磁盘写入数据。
 
 
-![](/Asserts/Images//attachment/album/201412/15/161740rxmkog9vxthmfpvp.jpg)
+![](/Asserts/Images/album/201412/15/161740rxmkog9vxthmfpvp.jpg)
 
 
 ### LVM条块化是什么？
@@ -19,7 +19,7 @@ tags:	[linuxcn,LVM]
 **LVM条块化**是LVM功能之一，该技术会跨多个磁盘写入数据，而不是对单一物理卷持续写入。
 
 
-![Manage LVM Disks Using Striping I/O](/Asserts/Images//attachment/album/201412/15/161745rnhcb8ye3c8wywxl.jpeg)
+![Manage LVM Disks Using Striping I/O](/Asserts/Images/album/201412/15/161745rnhcb8ye3c8wywxl.jpeg)
 
 
 *使用条块化I/O管理LVM磁盘*
@@ -74,7 +74,7 @@ IP地址：     192.168.0.222
 
 ```
 
-![List Hard Drives](/Asserts/Images//attachment/album/201412/15/161746uqy6y6qqam6rlaen.png)
+![List Hard Drives](/Asserts/Images/album/201412/15/161746uqy6y6qqam6rlaen.png)
 
 
 *列出硬盘驱动器*
@@ -89,7 +89,7 @@ IP地址：     192.168.0.222
 
 ```
 
-![Create Physical Volumes in LVM](/Asserts/Images//attachment/album/201412/15/161748wisvmzmspm2rvrii.png)
+![Create Physical Volumes in LVM](/Asserts/Images/album/201412/15/161748wisvmzmspm2rvrii.png)
 
 
 *在LVM中创建物理卷*
@@ -104,7 +104,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 
 ```
 
-![Verify Physical Volumes](/Asserts/Images//attachment/album/201412/15/161749j0npmjqzvn12vplw.png)
+![Verify Physical Volumes](/Asserts/Images/album/201412/15/161749j0npmjqzvn12vplw.png)
 
 
 *验证物理卷*
@@ -136,7 +136,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 
 ```
 
-![Verify Volume Group](/Asserts/Images//attachment/album/201412/15/161750f8ov2s4i52bb5vsz.png)
+![Verify Volume Group](/Asserts/Images/album/201412/15/161750f8ov2s4i52bb5vsz.png)
 
 
 *验证卷组*
@@ -151,7 +151,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 
 ```
 
-![Volume Group Information](/Asserts/Images//attachment/album/201412/15/161752pp5b62gfvb6z6p85.png)
+![Volume Group Information](/Asserts/Images/album/201412/15/161752pp5b62gfvb6z6p85.png)
 
 
 *卷组信息*
@@ -174,7 +174,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 * **-i** –条块化
 
 
-![Create Logical Volumes](/Asserts/Images//attachment/album/201412/15/161754brn6irraqhqpijrr.png)
+![Create Logical Volumes](/Asserts/Images/album/201412/15/161754brn6irraqhqpijrr.png)
 
 
 *创建逻辑卷*
@@ -189,7 +189,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 
 ```
 
-![Confirm Logical Volumes](/Asserts/Images//attachment/album/201412/15/161755kfrnxczcql66ncrn.png)
+![Confirm Logical Volumes](/Asserts/Images/album/201412/15/161755kfrnxczcql66ncrn.png)
 
 
 *确认逻辑卷*
@@ -204,7 +204,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 
 ```
 
-![Check Logical Volumes](/Asserts/Images//attachment/album/201412/15/161758pziip7i5ixxz5day.png)
+![Check Logical Volumes](/Asserts/Images/album/201412/15/161758pziip7i5ixxz5day.png)
 
 
 *检查逻辑卷*
@@ -219,7 +219,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 
 ```
 
-![Define Stripe Size](/Asserts/Images//attachment/album/201412/15/161800hmkwk9850ym0v9vy.png)
+![Define Stripe Size](/Asserts/Images/album/201412/15/161800hmkwk9850ym0v9vy.png)
 
 
 *定义条块大小*
@@ -234,7 +234,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 
 ```
 
-![Check Stripe Size](/Asserts/Images//attachment/album/201412/15/161802yfebdtyfqeqfoiaj.png)
+![Check Stripe Size](/Asserts/Images/album/201412/15/161802yfebdtyfqeqfoiaj.png)
 
 
 *检查条块大小*
@@ -249,7 +249,7 @@ PV创建完成后，你可以使用‘**pvs**’命令将它们列出来。
 
 ```
 
-![Device Mapper](/Asserts/Images//attachment/album/201412/15/161803anbdt5n5qnltdlcc.png)
+![Device Mapper](/Asserts/Images/album/201412/15/161803anbdt5n5qnltdlcc.png)
 
 
 *设备映射*

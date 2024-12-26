@@ -15,7 +15,7 @@ tags:	[linuxcn,VSCode,IDE,编辑器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/05/112348n834svpa48v08vsa.png)
+![](/Asserts/Images/album/202007/05/112348n834svpa48v08vsa.png)
 
 
 Visual Studio Code，也叫 VS Code，是一个跨平台代码编辑器，通用于 Linux、Windows 以及 macOS。它既能编辑简单文本，也能像集成开发环境（IDE）一样管理整个代码库。它可以通过插件进行扩展，并且已经被证明是一个可靠的文本编辑器，很轻松地就击败了非开源的强大竞品编辑器。
@@ -39,7 +39,7 @@ Chris Dias 是微软 VS Code 项目开发者之一，他对 VS Code [作了一�
 ### VSCodium
 
 
-![Code OSS screenshot](/Asserts/Images//attachment/album/202007/05/112423fiuu0uooou757nek.png "Code OSS screenshot")
+![Code OSS screenshot](/Asserts/Images/album/202007/05/112423fiuu0uooou757nek.png "Code OSS screenshot")
 
 
 最简单的替代方案就是构建不带微软附属功能的 VS Code 版本。[VSCodium](https://vscodium.com/) 项目提供了可下载的 Code-OSS 可执行文件，它基于 VS Code 代码库编译，没有配置微软的 `product.json` 中的改变。VSCodium 的开发者还竭尽全力禁用了所有难以寻找的遥测选项，除非你自行编译，否则这已经是你能找到的最干净的 VS Code 版本了。
@@ -63,7 +63,7 @@ VSCodium 提醒说，VS Code 悄悄地包含了一些专有工具，这些工具
 ### Atom
 
 
-![Atom screenshot](/Asserts/Images//attachment/album/202007/05/112426faxe9eoxptp0x4px.jpg "Atom screenshot")
+![Atom screenshot](/Asserts/Images/album/202007/05/112426faxe9eoxptp0x4px.jpg "Atom screenshot")
 
 
 [Atom](http://atom.io) 是一个类似于 IDE 的文本编辑器，当微软收购 Github 的同时也收购了它。和 VS Code 一样，你可以使用插件，扩展 Atom 编辑器，此外，你还能通过自己的工具和主题实现定制。它开源且与 Github 集成。简而言之，只要你能找到你想用的插件，或者你愿意自己动手写，那么 Atom 几乎可以满足你的一切需求。
@@ -75,7 +75,7 @@ VSCodium 提醒说，VS Code 悄悄地包含了一些专有工具，这些工具
 ### GNOME Builder
 
 
-![GNOME Builder screenshot](/Asserts/Images//attachment/album/202007/05/112435ykjisjeeyxwisdzo.png "GNOME Builder screenshot")
+![GNOME Builder screenshot](/Asserts/Images/album/202007/05/112435ykjisjeeyxwisdzo.png "GNOME Builder screenshot")
 
 
 为 GNOME 桌面而开发的 IDE，[GNOME Builder](https://wiki.gnome.org/Apps/Builder) 是一个 Linux 平台的代码编辑器，专门用于构建 GNOME 应用。如果你为 Linux 构建应用程序，希望轻松解决兼容性问题，那么 Builder 就是最简单的选择。从 [Flathub.org](https://flathub.org/apps/details/org.gnome.Builder) 安装 Builder；当你开启一个新项目，如果没有安装 GNOME SDK，它会提醒你。这意味着当维护你的应用时，你不必刻意关注 GNOME 的状态，因为 Builder 在替你做这件事。
@@ -87,7 +87,7 @@ VSCodium 提醒说，VS Code 悄悄地包含了一些专有工具，这些工具
 ### Geany
 
 
-![Geany screenshot](/Asserts/Images//attachment/album/202007/05/112443undlefnux2q0cumw.png "Geany screenshot")
+![Geany screenshot](/Asserts/Images/album/202007/05/112443undlefnux2q0cumw.png "Geany screenshot")
 
 
 [Geany](https://www.geany.org/) 是一个强大、稳定而轻量级的编辑器，它有很多有用的特性，能帮你写 Bash、Python、Lua、XML、HTML、LaTex，当然远不止这些。对 50 种各种编程及脚本语言、标记语言和各种文件类型（比如 .diff 和 .po），Geany 都有很好的支持。退一万步讲，Geany 还有括号匹配和语法高亮 —— 通常来说，它包含更多功能。
@@ -99,7 +99,7 @@ Geany 是一个小型编辑器，但是通过插件，你可以为它添加特�
 ### Brackets
 
 
-![Brackets screenshot](/Asserts/Images//attachment/album/202007/05/112446pnv8386r2v2p080n.jpg "Brackets screenshot")
+![Brackets screenshot](/Asserts/Images/album/202007/05/112446pnv8386r2v2p080n.jpg "Brackets screenshot")
 
 
 [Brackets](http://brackets.io/) 是一款面向网页开发者的文本编辑器和 IDE。对于 HTML、CSS、JavaScript、PHP 甚至 Python，它都有很强大的支持。而且跟 VS Code 一样，它也有一个很丰富的插件生态，所以你可以最大限度地扩展它，以适应你所有编程语言的工作。
@@ -111,7 +111,7 @@ Geany 是一个小型编辑器，但是通过插件，你可以为它添加特�
 ### Che
 
 
-![Che screenshot](/Asserts/Images//attachment/album/202007/05/112449ss44ycifm36b6bf5.jpg "Che screenshot")
+![Che screenshot](/Asserts/Images/album/202007/05/112449ss44ycifm36b6bf5.jpg "Che screenshot")
 
 
 如果你喜欢新技术，那你应当尝试 [Che](https://www.eclipse.org/che/extend/) 编辑器。这是一个基于云的 IDE，所以它默认以软件即服务（SaaS）的形式运行，但它是完全开源的，如果你有 Kubernetes 实例，那就可以运行为*你自己的* SaaS。

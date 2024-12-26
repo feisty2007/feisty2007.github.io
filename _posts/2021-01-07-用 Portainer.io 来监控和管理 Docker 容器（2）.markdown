@@ -7,7 +7,7 @@ tags:	[linuxcn,Portainer]
 ---
 
 
-![](/Asserts/Images//attachment/album/202101/14/204401knuxjru53n5su6ns.jpg)
+![](/Asserts/Images/album/202101/14/204401knuxjru53n5su6ns.jpg)
 
 
 作为[第 1 部分](/article-12634-1.html)的延续，本第 2 部分将介绍 Portainer 的其余功能。
@@ -29,7 +29,7 @@ CONTAINER ID        IMAGE                 COMMAND             CREATED           
 包括 `portainer`（docker 容器镜像），所有已退出和当前正在运行的 docker 镜像都会显示出来。下面的 Portainer GUI 屏幕截图显示了相同的情况。
 
 
-![Docker_status](/Asserts/Images//attachment/album/202101/14/204605cxyjqmfb008nznn0.jpg)
+![Docker_status](/Asserts/Images/album/202101/14/204605cxyjqmfb008nznn0.jpg)
 
 
 ### 监视事件
@@ -41,7 +41,7 @@ CONTAINER ID        IMAGE                 COMMAND             CREATED           
 基于 docker 容器活动生成和创建的各种事件将被提取并显示在此页面中.
 
 
-![Container-Events-Poratiner-GUI](/Asserts/Images//attachment/album/202101/14/204607g8vnewku3677ffm8.jpg)
+![Container-Events-Poratiner-GUI](/Asserts/Images/album/202101/14/204607g8vnewku3677ffm8.jpg)
 
 
 现在检查并验证“Events”部分是如何工作的。创建一个新的 docker 容器镜像 `redis`，如下所述，在 docker 命令行检查状态：`docker ps –a`：
@@ -61,7 +61,7 @@ cdbfbef59c31        redis                 "docker-entrypoint.s…"   About a min
 单击顶部的“Event List”刷新事件列表，
 
 
-![events_updated](/Asserts/Images//attachment/album/202101/14/204609g4e7w4wbgcllbbgb.jpg)
+![events_updated](/Asserts/Images/album/202101/14/204609g4e7w4wbgcllbbgb.jpg)
 
 
 现在事件的页面也更新了这个变化，
@@ -73,7 +73,7 @@ cdbfbef59c31        redis                 "docker-entrypoint.s…"   About a min
 下面是 portainer 显示主机状态的屏幕截图。这是一个简单的窗口。这显示了主机 Linux 机器的基本信息，如“CPU”、“主机名”、“操作系统信息”等。这个页面在不需要登录主机命令行的情况下提供了非常有用的信息，以便快速浏览。
 
 
-![Host-names-Portainer](/Asserts/Images//attachment/album/202101/14/204610cr1sa0ve8svt6s1j.jpg)
+![Host-names-Portainer](/Asserts/Images/album/202101/14/204610cr1sa0ve8svt6s1j.jpg)
 
 
 ### Portainer 中的仪表板
@@ -85,7 +85,7 @@ cdbfbef59c31        redis                 "docker-entrypoint.s…"   About a min
 在 Portainer 的网页中单击“EndPoint”选项时，会出现以下窗口：
 
 
-![End_Point_Settings](/Asserts/Images//attachment/album/202101/14/204612jxujdxavuwvdb9wf.jpg)
+![End_Point_Settings](/Asserts/Images/album/202101/14/204612jxujdxavuwvdb9wf.jpg)
 
 
 对于主机容器镜像，此仪表板有许多状态和选项。
@@ -103,7 +103,7 @@ cdbfbef59c31        redis                 "docker-entrypoint.s…"   About a min
 单击此选项可提供主机中可用的容器镜像。此选项将显示所有活动和退出的容器镜像。
 
 
-![Docker-Container-Images-Portainer](/Asserts/Images//attachment/album/202101/14/204613v066uyy1z55t3lou.jpg)
+![Docker-Container-Images-Portainer](/Asserts/Images/album/202101/14/204613v066uyy1z55t3lou.jpg)
 
 
 例如，再创建一个“Nginx”容器并刷新此列表以查看更新：
@@ -125,7 +125,7 @@ Status: Downloaded newer image for nginx:latest
 下面是刷新后的镜像界面：
 
 
-![Nginx_Image_creation](/Asserts/Images//attachment/album/202101/14/204615q84kquzz4wabazja.jpg)
+![Nginx_Image_creation](/Asserts/Images/album/202101/14/204615q84kquzz4wabazja.jpg)
 
 
 当 Nginx 镜像处于 `stopped`/`killed` 状态时，docker 的容器镜像会改变为 `unused` 状态。
@@ -140,7 +140,7 @@ Status: Downloaded newer image for nginx:latest
 此选项用于网络操作。例如分配 IP 地址、创建子网、提供 IP 地址范围、访问控制（管理员和普通用户）。下面的窗口提供了各种可能选项的详细信息。根据你的需要，可以进一步去自行研究这些选项。
 
 
-![Conatiner-Network-Portainer](/Asserts/Images//attachment/album/202101/14/204616gez4110eb1bbp11k.jpg)
+![Conatiner-Network-Portainer](/Asserts/Images/album/202101/14/204616gez4110eb1bbp11k.jpg)
 
 
 输入所有各种网络参数后，单击“create network”按钮即可创建网络。
@@ -152,7 +152,7 @@ Status: Downloaded newer image for nginx:latest
 此选项将提供容器状态。此列表将提供有关活动的和未运行的容器状态的详细信息。此输出类似于 docker ps 命令选项。
 
 
-![Containers-Status-Portainer](/Asserts/Images//attachment/album/202101/14/204618klmashlaaqjahqaa.jpg)
+![Containers-Status-Portainer](/Asserts/Images/album/202101/14/204618klmashlaaqjahqaa.jpg)
 
 
 在该窗口中，通过选中复选框并选择上述按钮可以根据需要控制容器停止和启动。一个例子如下：
@@ -161,16 +161,16 @@ Status: Downloaded newer image for nginx:latest
 例如，“CentOS”和“Ubuntu”容器都处于停止状态，现在可以通过选中复选框并点击“Start”按钮来启动它们。
 
 
-![start_containers1](/Asserts/Images//attachment/album/202101/14/204620ed8vd5uktrw8kq0l.jpg)
+![start_containers1](/Asserts/Images/album/202101/14/204620ed8vd5uktrw8kq0l.jpg)
 
 
-![start_containers2](/Asserts/Images//attachment/album/202101/14/204622gk0b2124wb01tv1c.jpg)
+![start_containers2](/Asserts/Images/album/202101/14/204622gk0b2124wb01tv1c.jpg)
 
 
 **注意：** 因为这两个都是 Linux 容器镜像，所以不会被启动。Portainer 尝试启动，但稍后又停止。试试启动“Nginx”，你会看到它变成了 `running` 状态。
 
 
-![start_containers3](/Asserts/Images//attachment/album/202101/14/204623fbsw2wa7tq27gjjk.jpg)
+![start_containers3](/Asserts/Images/album/202101/14/204623fbsw2wa7tq27gjjk.jpg)
 
 
 #### Volume
@@ -194,7 +194,7 @@ Status: Downloaded newer image for nginx:latest
 这是一个简单的 Portainer CE 订阅程序。详细信息和用途可以从附加的窗口中看到。这主要用于维护相应版本的许可证和订阅。
 
 
-![Extensions](/Asserts/Images//attachment/album/202101/14/204625t2aqecwdadd4cxxz.jpg)
+![Extensions](/Asserts/Images/album/202101/14/204625t2aqecwdadd4cxxz.jpg)
 
 
 #### Users
@@ -206,19 +206,19 @@ Status: Downloaded newer image for nginx:latest
 在本例中输入你的想好的用户名比如“shashi”和你选择的密码，然后点击下面的“Create User”按钮。
 
 
-![create_user_portainer](/Asserts/Images//attachment/album/202101/14/204626tvw2app99bgba9b9.jpg)
+![create_user_portainer](/Asserts/Images/album/202101/14/204626tvw2app99bgba9b9.jpg)
 
 
-![create_user2_portainer](/Asserts/Images//attachment/album/202101/14/204628bsgdaef4ozso02xx.jpg)
+![create_user2_portainer](/Asserts/Images/album/202101/14/204628bsgdaef4ozso02xx.jpg)
 
 
-![Internal-user-Portainer](/Asserts/Images//attachment/album/202101/14/204629y85pdtdkptzt0uzo.jpg)
+![Internal-user-Portainer](/Asserts/Images/album/202101/14/204629y85pdtdkptzt0uzo.jpg)
 
 
 类似地，可以通过选中复选框并点击 “remove” 按钮来删除刚刚创建的用户“shashi”。
 
 
-![user_remove_portainer](/Asserts/Images//attachment/album/202101/14/204630y88n7pbunpmbnmx1.jpg)
+![user_remove_portainer](/Asserts/Images/album/202101/14/204630y88n7pbunpmbnmx1.jpg)
 
 
 #### Endpoints
@@ -227,13 +227,13 @@ Status: Downloaded newer image for nginx:latest
 此选项用于端点终端管理。终端可以添加和删除，如附加窗口中所示。
 
 
-![Endpoint-Portainer-GUI](/Asserts/Images//attachment/album/202101/14/204631wfx4826tx54u4pqp.jpg)
+![Endpoint-Portainer-GUI](/Asserts/Images/album/202101/14/204631wfx4826tx54u4pqp.jpg)
 
 
 新终端“shashi”是使用如下所示的各种默认参数创建的，
 
 
-![Endpoint2-Portainer-GUI](/Asserts/Images//attachment/album/202101/14/204633dgphhe1jhzd4gj6b.jpg)
+![Endpoint2-Portainer-GUI](/Asserts/Images/album/202101/14/204633dgphhe1jhzd4gj6b.jpg)
 
 
 类似地，可以通过单击复选框并单击移除按钮来移除此端点。
@@ -245,13 +245,13 @@ Status: Downloaded newer image for nginx:latest
 此选项用于注册管理。由于 docker hub 有各种镜像的注册，因此此功能可用于类似的目的。
 
 
-![Registry-Portainer-GUI](/Asserts/Images//attachment/album/202101/14/204634zyeycc3119pvfspe.jpg)
+![Registry-Portainer-GUI](/Asserts/Images/album/202101/14/204634zyeycc3119pvfspe.jpg)
 
 
 使用默认选项就可以创建“shashi-registry”。
 
 
-![Registry2-Portainer-GUI](/Asserts/Images//attachment/album/202101/14/204636ozsnn69scenf6sc6.jpg)
+![Registry2-Portainer-GUI](/Asserts/Images/album/202101/14/204636ozsnn69scenf6sc6.jpg)
 
 
 同样，如果不需要了，就可以移除它。
@@ -272,13 +272,13 @@ Status: Downloaded newer image for nginx:latest
 下面的屏幕截图显示了出于演示目的启用和禁用的一些选项。一旦全部完成点击“保存设置”按钮保存所有这些选项。
 
 
-![Portainer-GUI-Settings](/Asserts/Images//attachment/album/202101/14/204637z81mmbhmxc68gvb8.jpg)
+![Portainer-GUI-Settings](/Asserts/Images/album/202101/14/204637z81mmbhmxc68gvb8.jpg)
 
 
 现在点开“Authentication settings”就会弹出 LDAP、Internal 和 OAuth（extension）选项，如下所示：
 
 
-![Authentication-Portainer-GUI-Settings](/Asserts/Images//attachment/album/202101/14/204639arjz0jxeyx0xlxer.jpg)
+![Authentication-Portainer-GUI-Settings](/Asserts/Images/album/202101/14/204639arjz0jxeyx0xlxer.jpg)
 
 
 根据我们想要的环境安全特性级别，选择相应的选项。

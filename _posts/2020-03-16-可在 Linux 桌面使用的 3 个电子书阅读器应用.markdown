@@ -15,7 +15,7 @@ tags:	[linuxcn,电子书,Calibre]
 > 
 
 
-![电脑浏览器阅读书籍界面](/Asserts/Images//attachment/album/202003/13/085532np7zv75733p7cycv.jpg "Computer browser with books on the screen")
+![电脑浏览器阅读书籍界面](/Asserts/Images/album/202003/13/085532np7zv75733p7cycv.jpg "Computer browser with books on the screen")
 
 
 我通常使用手机或 Kobo 阅读器阅读电子书，总是没有在大屏设备上阅读书籍那么爽。很多人经常在自己的笔记本或桌面电脑上阅读电子书，如果你有这种需求（或者你认为以后会遇到这种情况），我想向你介绍三种 Linux 桌面下的电子书阅读器。
@@ -30,7 +30,7 @@ tags:	[linuxcn,电子书,Calibre]
 该应用的界面整洁干净。
 
 
-![Bookworm 电子书应用](/Asserts/Images//attachment/album/202003/13/085546mxs00vfheal4v4a7.png "Bookworm e-book application")
+![Bookworm 电子书应用](/Asserts/Images/album/202003/13/085546mxs00vfheal4v4a7.png "Bookworm e-book application")
 
 
 你可通过以下方式查看书籍：
@@ -44,13 +44,13 @@ tags:	[linuxcn,电子书,Calibre]
 你也可以通过添加注释或书签跳转至特定页面。
 
 
-![Bookworm 注释](/Asserts/Images//attachment/album/202003/13/085554bitw8zwazkl7rkyi.png "Annotations in Bookworm")
+![Bookworm 注释](/Asserts/Images/album/202003/13/085554bitw8zwazkl7rkyi.png "Annotations in Bookworm")
 
 
 Bookworm 没有太多设置选项。你能调整书籍字体大小及间距，开启双页模式或夜间模式。在应用中添加新文件夹后，Bookworm 会自动扫描文件夹中的电子书。
 
 
-![Bookworm 参数设置](/Asserts/Images//attachment/album/202003/13/085602q41ll4q34494f07t.png "Bookworm preferences")
+![Bookworm 参数设置](/Asserts/Images/album/202003/13/085602q41ll4q34494f07t.png "Bookworm preferences")
 
 
 Bookworm 支持常用的电子书格式：EPUB、PDF、MOBI、[FB2](https://en.wikipedia.org/wiki/FictionBook)，你还能用它阅读 [CBR](https://en.wikipedia.org/wiki/Comic_book_archive) 和 CBZ 格式的数字版漫画。我只在 Bookworm 上测试了前三种格式，PDF 倒是能打开，但加载速度很慢，格式也很难看。
@@ -62,7 +62,7 @@ Bookworm 支持常用的电子书格式：EPUB、PDF、MOBI、[FB2](https://en.w
 单从功能上来说，[Foliate](https://johnfactotum.github.io/foliate/) 确实比 Bookworm 强上一些。Foliate 不仅功能更强，它还有更多设置选项。这个功能多样、简单干净的应用满足了所有要求。
 
 
-![Foliate 电子书应用](/Asserts/Images//attachment/album/202003/13/085612lfr903057rh7oy7r.png "Foliate e-book application")
+![Foliate 电子书应用](/Asserts/Images/album/202003/13/085612lfr903057rh7oy7r.png "Foliate e-book application")
 
 
 在 Foliate 中可以通过空格、方向键、向上或向下翻页键浏览电子书，这里没什么特别的。
@@ -71,13 +71,13 @@ Bookworm 支持常用的电子书格式：EPUB、PDF、MOBI、[FB2](https://en.w
 你还可以在书籍中添加注释、查找以及翻译字句、查询字词含义。如果你电脑上安装了智能语音应用， Foliate 还能将文本朗读出来。
 
 
-![在 Foliate 中的注释文本](/Asserts/Images//attachment/album/202003/13/085619xlnzak4gwzqgqvze.png)
+![在 Foliate 中的注释文本](/Asserts/Images/album/202003/13/085619xlnzak4gwzqgqvze.png)
 
 
 Foliate 与 Bookworm 相比有更多自定义选项。你能在应用中修改字体类型及大小、行间距、电子书页边距，也可以调高或降低屏幕亮度，从应用内置的四个主题中选择一个等。
 
 
-![Foliate 设置](/Asserts/Images//attachment/album/202003/13/085628h8wk891duo3wb036.png "Foliate settings")
+![Foliate 设置](/Asserts/Images/album/202003/13/085628h8wk891duo3wb036.png "Foliate settings")
 
 
 你可以在 Foliate 上阅读 EPUB、MOBI、AZW、AZW3 格式的电子书。如果你不了解，我可以提前告诉你，后三种格式是亚马逊 Kindle 阅读器上架的书籍的闭源格式。
@@ -89,7 +89,7 @@ Foliate 与 Bookworm 相比有更多自定义选项。你能在应用中修改�
 这个[电子书阅读器](https://calibre-ebook.com/about)是 [Calibre](https://opensourcemusings.com/managing-your-ebooks-with-calibre) 电子书管理工具的一个组件，就像它的前代一样，电子书阅读器这部分并不是软件整体最棒的部分。
 
 
-![电子书阅读器应用](/Asserts/Images//attachment/album/202003/13/085639spsu8spjdtohsd1p.png "E-book Viewer application")
+![电子书阅读器应用](/Asserts/Images/album/202003/13/085639spsu8spjdtohsd1p.png "E-book Viewer application")
 
 
 不过别被上面的话吓到，它也的确是个桌面电子书阅读器。
@@ -101,7 +101,7 @@ Foliate 与 Bookworm 相比有更多自定义选项。你能在应用中修改�
 不过参数设置这里确是它出彩的地方，它的可选设置比 Bookworm 和 Foliate 加起来都多，从字体到文本布局，页面分割方式你都能改。除此之外，你还能自定义应用按键设置，将你喜欢的词典网站添加进来，方便阅读查找。
 
 
-![电子书参数设置](/Asserts/Images//attachment/album/202003/13/085649xyv8nv1oo174ycn1.png "E-book Viewer preferences")
+![电子书参数设置](/Asserts/Images/album/202003/13/085649xyv8nv1oo174ycn1.png "E-book Viewer preferences")
 
 
 Calibre 电子书阅读器一个很有用的功能，就是把自行设置的 CSS 配置文件效果应用到电子书上。赘言一句，CSS 是一种调整网页格式的方法（这类文件就是许多电子书的一个组成部分）。如果你是使用 CSS 的高手，你可以将自己的 CSS 文件复制粘贴到配置窗口的 “User stylesheet” 部分，这就是个性化的究极办法。

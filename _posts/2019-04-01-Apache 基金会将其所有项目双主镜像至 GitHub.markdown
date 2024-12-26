@@ -7,7 +7,7 @@ tags:	[linuxcn,GitHub,Apache,ASF]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/30/233559ehzsvrz0zvxrocb1.png)
+![](/Asserts/Images/album/201904/30/233559ehzsvrz0zvxrocb1.png)
 
 
 Apache 基金会（ASF）[正式宣布](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-expands)，该基金会已经将其旗下的 350 多个项目、多达 2 亿行的代码从内部的 Git 基础设施迁移至 GitHub。

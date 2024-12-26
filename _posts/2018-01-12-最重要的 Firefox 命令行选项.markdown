@@ -7,7 +7,7 @@ tags:	[linuxcn,FIrefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/23/234142oi23zlyukzxej22z.jpg)
+![](/Asserts/Images/album/201801/23/234142oi23zlyukzxej22z.jpg)
 
 
 Firefox web 浏览器支持很多命令行选项，可以定制它启动的方式。
@@ -25,7 +25,7 @@ Firefox web 浏览器支持很多命令行选项，可以定制它启动的方�
 ### 重要的 Firefox 命令行选项
 
 
-![firefox command line](/Asserts/Images//attachment/album/201801/23/234211r6dajkmar5ia1dm6.png)
+![firefox command line](/Asserts/Images/album/201801/23/234211r6dajkmar5ia1dm6.png)
 
 
 #### 配置文件相关选项

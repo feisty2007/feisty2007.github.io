@@ -22,7 +22,7 @@ Canonical 已经在它的 Ubuntu 智能手机和平板上使用 Unity 8 用户�
 ### Mir 0.24 中完全支撑 Vulkan
 
 
-![](/Asserts/Images//attachment/album/201605/23/164241pzpa8xh4fpaxz393.jpg)
+![](/Asserts/Images/album/201605/23/164241pzpa8xh4fpaxz393.jpg)
 
 
 Mir 当前版本是 0.22.1，但是据 Emanuele Antonio Faraone 在 2016 年 1 月[提交的功能请求](https://bugs.launchpad.net/mir/+bug/1539896)，希望 Ubuntu 开发人员能够在 Mir 显示服务器和 Ubuntu 的系统镜像中完全支持 Vulkan 库的这一想法，已经得到了 Canonical 的首肯，看起来就快成为了现实。

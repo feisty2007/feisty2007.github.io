@@ -13,7 +13,7 @@ SIFT 是一个由 SANS 公司提供的基于 Ubuntu 的取证发行版。它包�
 Sleuth Kit/Autopsy 是一个开源的电子取证调查工具，它可以用于从磁盘映像中恢复丢失的文件，以及为了特殊事件进行磁盘映像分析。 Autopsy 工具是 sleuth kit 的一个网页接口，支持 sleuth kit 的所有功能。这个工具在 Windows 和 Linux 平台下都可获取到。
 
 
-![](/Asserts/Images//attachment/album/201505/30/222403pq3faq0a68f8o8j0.png)
+![](/Asserts/Images/album/201505/30/222403pq3faq0a68f8o8j0.png)
 
 
 ### 安装 Sleuth kit
@@ -28,7 +28,7 @@ Sleuth Kit/Autopsy 是一个开源的电子取证调查工具，它可以用于�
 
 ```
 
-![下载 Sleuth Kit](/Asserts/Images//attachment/album/201505/30/222504s0b7grgsoqu8yjes.png)
+![下载 Sleuth Kit](/Asserts/Images/album/201505/30/222504s0b7grgsoqu8yjes.png)
 
 
 使用下面的命令解压 sleuthkit-4.1.3.tar.gz 并进入解压后的目录：
@@ -40,7 +40,7 @@ Sleuth Kit/Autopsy 是一个开源的电子取证调查工具，它可以用于�
 
 ```
 
-![解压过程](/Asserts/Images//attachment/album/201505/30/222420yoczb7obpm11ymay.png)
+![解压过程](/Asserts/Images/album/201505/30/222420yoczb7obpm11ymay.png)
 
 
 在安装 sleuth kit 之前，运行下面的命令来执行所需的检查：
@@ -52,7 +52,7 @@ Sleuth Kit/Autopsy 是一个开源的电子取证调查工具，它可以用于�
 
 ```
 
-![configure](/Asserts/Images//attachment/album/201505/30/222421f0zphnpvhs8y1hep.png)
+![configure](/Asserts/Images/album/201505/30/222421f0zphnpvhs8y1hep.png)
 
 
 然后使用 Make 命令来编译 sleuth kit ：
@@ -64,7 +64,7 @@ Sleuth Kit/Autopsy 是一个开源的电子取证调查工具，它可以用于�
 
 ```
 
-![make](/Asserts/Images//attachment/album/201505/30/222422ke7p4up3cc4zexrr.png)
+![make](/Asserts/Images/album/201505/30/222422ke7p4up3cc4zexrr.png)
 
 
 最后，使用下面的命令将它安装到 **/usr/local** 目录下：
@@ -76,7 +76,7 @@ Sleuth Kit/Autopsy 是一个开源的电子取证调查工具，它可以用于�
 
 ```
 
-![make install](/Asserts/Images//attachment/album/201505/30/222422ttpra550o6yftm5n.png)
+![make install](/Asserts/Images/album/201505/30/222422ttpra550o6yftm5n.png)
 
 
 ### 安装 Autopsy 工具
@@ -91,7 +91,7 @@ Sleuth kit 已经安装完毕，现在我们将为它安装 autopsy 界面。从
 
 ```
 
-![Autpsy 的下载链接](/Asserts/Images//attachment/album/201505/30/222422l59daai59a9ah9ja.png)
+![Autpsy 的下载链接](/Asserts/Images/album/201505/30/222422l59daai59a9ah9ja.png)
 
 
 使用下面的命令解压 autopsy-2.24.tar.gz 并进入解压后的目录：
@@ -103,7 +103,7 @@ Sleuth kit 已经安装完毕，现在我们将为它安装 autopsy 界面。从
 
 ```
 
-![Autopsy 的解压](/Asserts/Images//attachment/album/201505/30/222423ijz6c8il5ioi8k78.png)
+![Autopsy 的解压](/Asserts/Images/album/201505/30/222423ijz6c8il5ioi8k78.png)
 
 
 autopsy 的配置脚本将询问 NSRL (National Software Reference Library) 和 **Evidence\_Locker** 文件夹的路径。
@@ -120,19 +120,19 @@ autopsy 的配置脚本将询问 NSRL (National Software Reference Library) 和 
 
 ```
 
-![Autopsy 配置脚本](/Asserts/Images//attachment/album/201505/30/222424k55u5ox5oku3hkzk.png)
+![Autopsy 配置脚本](/Asserts/Images/album/201505/30/222424k55u5ox5oku3hkzk.png)
 
 
 在安装过程中添加完 Evidence\_Locker 的安装路径后， autopsy 在那里存储配置文件并展现如下的信息来运行 autopsy 程序。
 
 
-![启动 Autopsy](/Asserts/Images//attachment/album/201505/30/222424kqmqbholbb1bqhqc.png)
+![启动 Autopsy](/Asserts/Images/album/201505/30/222424kqmqbholbb1bqhqc.png)
 
 
 在虚拟终端中键入 **./autopsy** 命令来启动 Sleuth kit 工具的图形界面：
 
 
-![Autopsy](/Asserts/Images//attachment/album/201505/30/222425p9w6k67ctzh2td46.png)
+![Autopsy](/Asserts/Images/album/201505/30/222425p9w6k67ctzh2td46.png)
 
 
 在浏览器中键入下面的地址来访问 autopsy 的界面：
@@ -147,55 +147,55 @@ http://localhost:9999/autopsy
 下图展现了 autopsy 插件的主页面：
 
 
-![主页](/Asserts/Images//attachment/album/201505/30/222425lru6lruif70zqrlh.png)
+![主页](/Asserts/Images/album/201505/30/222425lru6lruif70zqrlh.png)
 
 
 在 autopsy 工具中，点击 **新案例** 按钮来开始进行分析。键入案例名称，此次调查的描述和检查人的姓名，下图有具体的展示：
 
 
-![创建新事件](/Asserts/Images//attachment/album/201505/30/222426g5pwn7cncz04vv82.png)
+![创建新事件](/Asserts/Images/album/201505/30/222426g5pwn7cncz04vv82.png)
 
 
 在接下来的网页中，将展示在上一个的网页中键入的详细信息。接着点击 **增加主机** 按钮来添加有关要分析的机器的详细信息。
 
 
-![增加主机](/Asserts/Images//attachment/album/201505/30/222426fag7aaasffal0foa.png)
+![增加主机](/Asserts/Images/album/201505/30/222426fag7aaasffal0foa.png)
 
 
 在下一个网页中键入主机名，相关的描述和要分析的机器的时区设置。
 
 
-![添加主机的详细信息](/Asserts/Images//attachment/album/201505/30/222427q7dydrbmpqp17y4z.png)
+![添加主机的详细信息](/Asserts/Images/album/201505/30/222427q7dydrbmpqp17y4z.png)
 
 
 添加主机后，点击 **增加映像** 按钮来为取证分析添加映像文件。
 
 
-![添加映像](/Asserts/Images//attachment/album/201505/30/222427b51twt5si1ux5gxi.png)
+![添加映像](/Asserts/Images/album/201505/30/222427b51twt5si1ux5gxi.png)
 
 
 在接下来的网页中点击 **增加映像文件** 按钮。它将打开一个新的网页，来询问映像文件的路径和选择映像的类型以及导入的方法。
 
 
-![添加映像文件](/Asserts/Images//attachment/album/201505/30/222428d4xyvxxkxy5vs5kn.png)
+![添加映像文件](/Asserts/Images/album/201505/30/222428d4xyvxxkxy5vs5kn.png)
 
 
 正如下图中展示的那样，我们已经键入了 Linux 映像文件的路径。在我们这个例子中，映像文件类型是磁盘分区。
 
 
-![添加映像分区](/Asserts/Images//attachment/album/201505/30/222428tl0pmeaajojnx6si.png)
+![添加映像分区](/Asserts/Images/album/201505/30/222428tl0pmeaajojnx6si.png)
 
 
 点击“下一步”按钮并在下一页中选择 **计算散列值** 的选项，这在下图中有展示。它也将检测所给映像的文件系统类型。
 
 
-![映像和文件系统详情](/Asserts/Images//attachment/album/201505/30/222428vc8hh8kfhkmlgg8m.png)
+![映像和文件系统详情](/Asserts/Images/album/201505/30/222428vc8hh8kfhkmlgg8m.png)
 
 
 下面的图片展示了静态分析之前映像文件的 MD5 散列值。
 
 
-![散列值](/Asserts/Images//attachment/album/201505/30/222429gmz3p3k3dr73hb1f.png)
+![散列值](/Asserts/Images/album/201505/30/222429gmz3p3k3dr73hb1f.png)
 
 
 在下一个网页中， autopsy 展现了有关映像文件的如下信息：
@@ -209,13 +209,13 @@ http://localhost:9999/autopsy
 点击 **详情** 按钮来获取更多有关所给映像文件的信息。它还提供了从映像文件的卷中导出未分配的片段和字符串的数据信息，这在下图中有展现。
 
 
-![映像的详细信息](/Asserts/Images//attachment/album/201505/30/222429dbtk7a03mqz0ufa0.png)
+![映像的详细信息](/Asserts/Images/album/201505/30/222429dbtk7a03mqz0ufa0.png)
 
 
 在下图中那样，点击 **分析** 按钮来开始分析所给映像。它将开启另一个页面，其中包含了映像分析的多个选项。
 
 
-![分析](/Asserts/Images//attachment/album/201505/30/222430tyg1g2czv256vd62.png)
+![分析](/Asserts/Images/album/201505/30/222430tyg1g2czv256vd62.png)
 
 
 在映像分析过程中，Autopsy 提供了如下的功能：
@@ -231,13 +231,13 @@ http://localhost:9999/autopsy
 下图展示的是在给定的 Linux 分区映像上进行文件分析：
 
 
-![映像的分析](/Asserts/Images//attachment/album/201505/30/222431azn6kp6firwc5qpf.png)
+![映像的分析](/Asserts/Images/album/201505/30/222431azn6kp6firwc5qpf.png)
 
 
 它将从所给映像中提取所有的文件和文件夹。在下图中也展示了已被删除的文件的提取：
 
 
-![已被删除的文件](/Asserts/Images//attachment/album/201505/30/222432zrnndmb1qdrv2dqr.png)
+![已被删除的文件](/Asserts/Images/album/201505/30/222432zrnndmb1qdrv2dqr.png)
 
 
 ### 结论

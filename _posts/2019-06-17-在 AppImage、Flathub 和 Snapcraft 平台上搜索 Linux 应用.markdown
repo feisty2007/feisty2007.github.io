@@ -7,7 +7,7 @@ tags:	[linuxcn,应用,安装]
 ---
 
 
-![Search Linux Applications On AppImage, Flathub And Snapcraft](/Asserts/Images//attachment/album/201906/19/143925dv556aoa00atcood.png)
+![Search Linux Applications On AppImage, Flathub And Snapcraft](/Asserts/Images/album/201906/19/143925dv556aoa00atcood.png)
 
 
 Linux 一直在发展。过去，开发人员必须分别为不同的 Linux 发行版构建应用。由于存在多种 Linux 变体，因此为所有发行版构建应用变得很繁琐，而且非常耗时。后来一些开发人员发明了包转换器和构建器，如 [Checkinstall](https://www.ostechnix.com/build-packages-source-using-checkinstall/)、[Debtap](https://www.ostechnix.com/convert-deb-packages-arch-linux-packages/) 和 [Fpm](https://www.ostechnix.com/build-linux-packages-multiple-platforms-easily/)。但他们也没有完全解决问题。所有这些工具都只是将一种包格式转换为另一种包格式。我们仍然需要找到应用并安装运行所需的依赖项。
@@ -61,7 +61,7 @@ $ ./chob-linux vim
 Chob 将在 AppImage、Flathub 和 Snapcraft 平台上搜索给定的应用（和相关应用）并显示结果。
 
 
-![](/Asserts/Images//attachment/album/201906/19/143925xy4r1r6q14kf3drb.png)
+![](/Asserts/Images/album/201906/19/143925xy4r1r6q14kf3drb.png)
 
 
 *使用 Chob 搜索 Linux 应用*
@@ -70,7 +70,7 @@ Chob 将在 AppImage、Flathub 和 Snapcraft 平台上搜索给定的应用（�
 只需要输入你想要应用前面的数字就可在默认浏览器中打开它的官方链接，并可在其中阅读应用的详细信息。
 
 
-![](/Asserts/Images//attachment/album/201906/19/143927bqftm4rstrbs7rrm.png)
+![](/Asserts/Images/album/201906/19/143927bqftm4rstrbs7rrm.png)
 
 
 *在浏览器中查看 Linux 应用的详细信息*

@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows,Web,AirTag]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/03/200538da841k2gzx12rnkr.jpg)
+![](/Asserts/Images/album/202305/03/200538da841k2gzx12rnkr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/03/200547fchyfbra5gb3f38y.jpg)
+![](/Asserts/Images/album/202305/03/200547fchyfbra5gb3f38y.jpg)
 
 
 ### Windows 11 将默认采用 ReFS 文件系统
@@ -35,7 +35,7 @@ tags:	[linuxcn,Windows,Web,AirTag]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/03/200559dz3rikroopi6rh11.jpg)
+![](/Asserts/Images/album/202305/03/200559dz3rikroopi6rh11.jpg)
 
 
 ### 欧洲核子研究中心庆祝将 Web 释放到公共领域 30 周年
@@ -64,7 +64,7 @@ tags:	[linuxcn,Windows,Web,AirTag]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/03/200639ae9cpc1yz04j2kj8.jpg)
+![](/Asserts/Images/album/202305/03/200639ae9cpc1yz04j2kj8.jpg)
 
 
 ### 纽约警局敦促市民购买 AirTag 以应对汽车盗窃案

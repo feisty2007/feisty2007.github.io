@@ -15,7 +15,7 @@ tags:	[linuxcn,Vanilla OS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/01/112928hpq6f1w16qwviywt.png)
+![](/Asserts/Images/album/202301/01/112928hpq6f1w16qwviywt.png)
 
 
 Vanilla OS 是一个基于 Ubuntu 的发行版，旨在为用户提供一个具有随需应变能力和自由选择软件包的 GNOME 体验。（LCTT 译注：Vanilla —— “香草”，因为作为太普通的香料，所以也有“普普通通”的意思。）
@@ -58,13 +58,13 @@ Vanilla OS 有几个特点，你可能会觉得有帮助，请允许我向你介
 #### 原生安装程序
 
 
-![Vanilla OS 安装程序](/Asserts/Images//attachment/album/202301/01/112929v7t1uo0ol0ot7oph.png)
+![Vanilla OS 安装程序](/Asserts/Images/album/202301/01/112929v7t1uo0ol0ot7oph.png)
 
 
 Vanilla OS 有一个用 [GTK4](https://news.itsfoss.com/gtk-4-release/) 和 [libadwaita](https://news.itsfoss.com/gnome-libadwaita-library/) 编写的原生的安装程序，它取代了该操作系统在早期开发阶段时使用的 [Calamares](https://calamares.io) 安装程序。
 
 
-![Vanilla OS 安装程序正在进行](/Asserts/Images//attachment/album/202301/01/112930p2hvhh5tjaoh55tu.png)
+![Vanilla OS 安装程序正在进行](/Asserts/Images/album/202301/01/112930p2hvhh5tjaoh55tu.png)
 
 
 之前，他们还宣布将使用来自 Crystal Linux 团队的 [Jade](https://github.com/crystal-linux/jade) 安装程序。
@@ -76,13 +76,13 @@ Vanilla OS 有一个用 [GTK4](https://news.itsfoss.com/gtk-4-release/) 和 [lib
 #### Vanilla OS 首次设置
 
 
-![Vanilla OS 首次设置](/Asserts/Images//attachment/album/202301/01/112930xbx6d0xu5gpg3pxs.png)
+![Vanilla OS 首次设置](/Asserts/Images/album/202301/01/112930xbx6d0xu5gpg3pxs.png)
 
 
 Vanilla OS 的安装完成后，你会看到一个快速设置屏幕，上面用各种语言写着 “欢迎”。
 
 
-![Vanilla OS 软件包管理器选择](/Asserts/Images//attachment/album/202301/01/112930evdvs5gajfq6p6wj.png)
+![Vanilla OS 软件包管理器选择](/Asserts/Images/album/202301/01/112930evdvs5gajfq6p6wj.png)
 
 
 然后它将带你完成各种设置，如选择颜色方案，选择你想要的软件包管理器，是否要安装受限制的编解码器，等等。
@@ -94,7 +94,7 @@ Vanilla OS 的安装完成后，你会看到一个快速设置屏幕，上面用
 #### Vanilla OS 控制中心
 
 
-![Vanilla OS 控制中心](/Asserts/Images//attachment/album/202301/01/112931wjshcr777jcejpl7.png)
+![Vanilla OS 控制中心](/Asserts/Images/album/202301/01/112931wjshcr777jcejpl7.png)
 
 
 这个图形化工具使你能够对操作系统进行修改，如运行关键更新和安装额外的驱动程序。
@@ -119,7 +119,7 @@ Vanilla OS 的安装完成后，你会看到一个快速设置屏幕，上面用
 Vanilla OS 使用 [ABRoot](https://github.com/Vanilla-OS/ABRoot) 来实现这一目标，之前，他们曾尝试使用 [Almost](https://documentation.vanillaos.org/docs/almost/)，但结果并不理想。
 
 
-![](/Asserts/Images//attachment/album/202301/01/112931zzmyj3bd1olmvuum.png)
+![](/Asserts/Images/album/202301/01/112931zzmyj3bd1olmvuum.png)
 
 
 它还有一个**智能更新功能**，他们解释如下：
@@ -139,7 +139,7 @@ Vanilla OS 使用 [ABRoot](https://github.com/Vanilla-OS/ABRoot) 来实现这一
 #### apx 软件包管理器
 
 
-![Vanilla OS apx](/Asserts/Images//attachment/album/202301/01/112932phcs9ia6r6h6r7rh.png)
+![Vanilla OS apx](/Asserts/Images/album/202301/01/112932phcs9ia6r6h6r7rh.png)
 
 
 Vanilla OS 带有 [apx](https://github.com/Vanilla-OS/apx) 工具，允许你在不修改根文件系统的情况下在管理的容器内安装软件包。

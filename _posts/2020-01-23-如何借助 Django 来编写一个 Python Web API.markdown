@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,Django]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/11/142503aio2325mk5weiozz.jpg)
+![](/Asserts/Images/album/202001/11/142503aio2325mk5weiozz.jpg)
 
 
 [Django](https://www.djangoproject.com/) 所有 Web 框架中最全面的，也是最受欢迎的一个。自 2005 年以来，其流行度大幅上升。
@@ -232,7 +232,7 @@ $ curl --get http://localhost:8000/users/?format=json
 使用 Firefox 或你选择的[开源浏览器](https://opensource.com/article/19/7/open-source-browsers)：
 
 
-![一个简单的 Django API](/Asserts/Images//attachment/album/202001/11/142519dqgegzg793q3zlcz.png "A simple Django API")
+![一个简单的 Django API](/Asserts/Images/album/202001/11/142519dqgegzg793q3zlcz.png "A simple Django API")
 
 
 有关使用 Django 和 Python 的 RESTful API 的更多深入知识，参考出色的 [Django 文档](https://docs.djangoproject.com/en/2.2)。

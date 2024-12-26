@@ -7,7 +7,7 @@ tags:	[linuxcn,Pantheon,elementary OS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/27/104052h7iwfcw4larkio1i.jpg)
+![](/Asserts/Images/album/202211/27/104052h7iwfcw4larkio1i.jpg)
 
 
 
@@ -131,7 +131,7 @@ ls -1 /usr/share/xgreeters
 
 ```
 
-![greeters 列表](/Asserts/Images//attachment/album/202211/27/104119lj003yn0an3ykn2n.jpg)
+![greeters 列表](/Asserts/Images/album/202211/27/104119lj003yn0an3ykn2n.jpg)
 
 
 打开 lightdm 配置文件并将 `greeter-session` 更改为 `io.elementary.greeter`。
@@ -152,7 +152,7 @@ greeter-session=io.elementary.greeter
 保存并关闭文件（`CTRL+O`、`回车` 和 `CTRL+X`）。
 
 
-![lightdm 配置](/Asserts/Images//attachment/album/202211/27/104119f1hmtd9el5h5lcld.jpg)
+![lightdm 配置](/Asserts/Images/album/202211/27/104119f1hmtd9el5h5lcld.jpg)
 
 
 在 systemd 中启用显示管理器和网络管理器。
@@ -176,7 +176,7 @@ systemctl reboot
 如果一切顺利，你应该会看到以下登录屏幕（我知道，它看起来一点也不酷）。从顶部下拉菜单更改会话并使用用户名和密码登录。
 
 
-![Pantheon 在 Arch 中的登录页面](/Asserts/Images//attachment/album/202211/27/104119cir15b3d8a5sl3zd.jpg)
+![Pantheon 在 Arch 中的登录页面](/Asserts/Images/album/202211/27/104119cir15b3d8a5sl3zd.jpg)
 
 
 #### 第 6 步：安装后配置
@@ -197,7 +197,7 @@ pacman -S --needed dconf-editor
 接着从菜单启动 dconf 编辑器。进入 `org > gnome > desktop > background > picture-uri`。关闭默认值并添加自定义值 `file:////usr/share/backgrounds/Ashim DSilva.jpg`。你也可以使用任何其他图像。保存并关闭。
 
 
-![使用 dconf-editor 更改背景属性](/Asserts/Images//attachment/album/202211/27/104119b5m5b57m9awcq0c5.jpg)
+![使用 dconf-editor 更改背景属性](/Asserts/Images/album/202211/27/104119b5m5b57m9awcq0c5.jpg)
 
 
 b、**图标**：通过 “<ruby> 设置 <rt>  Settings </rt></ruby> > <ruby> 优化 <rt>  Tweaks </rt></ruby>” 更改图标。然后将图标和光标更改为 `urutau-icons`。
@@ -206,7 +206,7 @@ b、**图标**：通过 “<ruby> 设置 <rt>  Settings </rt></ruby> > <ruby> �
 在完成所有配置和安装之后，你应该已经在 Arch Linux 中设置了 Pantheon 桌面。这是我的测试机的截图。
 
 
-![Arch Linux 中的 Pantheon 桌面](/Asserts/Images//attachment/album/202211/27/104119t9vivy0eejvin9ly.jpg)
+![Arch Linux 中的 Pantheon 桌面](/Asserts/Images/album/202211/27/104119t9vivy0eejvin9ly.jpg)
 
 
 ### 结束语

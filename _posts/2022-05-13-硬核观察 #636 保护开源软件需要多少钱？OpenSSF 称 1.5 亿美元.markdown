@@ -7,10 +7,10 @@ tags:	[linuxcn,安全,AI,Flutter]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/14/154055fxacakcx009gglxt.jpg)
+![](/Asserts/Images/album/202205/14/154055fxacakcx009gglxt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/14/154102j5r7vjbmbj331hh1.jpg)
+![](/Asserts/Images/album/202205/14/154102j5r7vjbmbj331hh1.jpg)
 
 
 ### 保护开源软件需要多少钱？OpenSSF 称 1.5 亿美元
@@ -35,7 +35,7 @@ tags:	[linuxcn,安全,AI,Flutter]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/14/154117tkn1p2pyy97zsnd4.jpg)
+![](/Asserts/Images/album/202205/14/154117tkn1p2pyy97zsnd4.jpg)
 
 
 ### DeepMind 的最新人工智能可以执行 600 多项任务
@@ -60,7 +60,7 @@ DeepMind 本周发布了一个名为 Gato 的“通用”人工智能系统，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/14/154132xzvmrnss4r8otnev.jpg)
+![](/Asserts/Images/album/202205/14/154132xzvmrnss4r8otnev.jpg)
 
 
 ### 谷歌发布 Flutter 3

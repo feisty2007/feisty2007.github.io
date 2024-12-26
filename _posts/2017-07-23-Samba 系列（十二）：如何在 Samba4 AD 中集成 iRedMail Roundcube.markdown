@@ -7,7 +7,7 @@ tags:	[linuxcn,邮件,Samba,Roundcube]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/08/205134sabclabnq2injj2l.jpg)
+![](/Asserts/Images/album/201707/08/205134sabclabnq2injj2l.jpg)
 
 
 [Roundcube](https://www.tecmint.com/install-and-configure-roundcube-webmail-for-postfix-mail-server/) 是 Linux 中最常用的 Webmail 用户代理之一，它为终端用户提供了一个现代化的 Web 界面，它可以与所有邮件服务进行交互，以便阅读、撰写和发送电子邮件。Roundcube 支持各种邮件协议，包括安全的邮件协议，如IMAPS、POP3S 或者 submission。
@@ -29,7 +29,7 @@ tags:	[linuxcn,邮件,Samba,Roundcube]
 1、 为了发送和接收 Samba4 AD DC 域账户的邮件，您需要编辑每个用户帐户，如下所示，通过从[安装了 RSAT 工具的 Windows 机器](/article-8097-1.html)并且已经加入 Samba4 AD 中打开 ADUC 工具显式地在邮箱字段填写正确的地址。
 
 
-[![Add Email Account to Join Samba4 AD DC](/Asserts/Images//attachment/album/201707/08/205141k1pchw2p2x1kxdd6.jpg)](https://www.tecmint.com/wp-content/uploads/2017/05/Active-Directory-User-and-Computers.jpg)
+[![Add Email Account to Join Samba4 AD DC](/Asserts/Images/album/201707/08/205141k1pchw2p2x1kxdd6.jpg)](https://www.tecmint.com/wp-content/uploads/2017/05/Active-Directory-User-and-Computers.jpg)
 
 
 *添加邮箱帐户来加入 Samba4 AD DC*
@@ -44,13 +44,13 @@ tags:	[linuxcn,邮件,Samba,Roundcube]
 确保所有的域账户成员都添加到了声明了邮件地址的组中。
 
 
-[![Create Group Admin for Samba4 AD DC](/Asserts/Images//attachment/album/201707/08/205141uszsiexybrvxvmv7.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Create-Group-Admin-for-Samba4-AD-DC.png)
+[![Create Group Admin for Samba4 AD DC](/Asserts/Images/album/201707/08/205141uszsiexybrvxvmv7.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Create-Group-Admin-for-Samba4-AD-DC.png)
 
 
 *为 Samba4 AD DC 创建组管理员*
 
 
-[![Add Users to Group](/Asserts/Images//attachment/album/201707/08/205142nvw01zp03pwvvrvi.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Add-Users-to-Group.png)
+[![Add Users to Group](/Asserts/Images/album/201707/08/205142nvw01zp03pwvvrvi.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Add-Users-to-Group.png)
 
 
 *将用户添加到组*
@@ -167,7 +167,7 @@ https://iredmail-FQDN/mail
 
 ```
 
-[![Roundcube Webmail Login](/Asserts/Images//attachment/album/201707/08/205146luxa10cq8r5iq8ic.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Roundcube-Webmail-Login.png)
+[![Roundcube Webmail Login](/Asserts/Images/album/201707/08/205146luxa10cq8r5iq8ic.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Roundcube-Webmail-Login.png)
 
 
 *Roundcube Webmail 登录*
@@ -231,7 +231,7 @@ $config['ldap_public']["global_ldap_abook"] = array(
 所有域名帐户（用户和组）与其指定的电子邮件地址的联系人列表都将被显示在全局地址簿上。
 
 
-[![Roundcube User Contact List](/Asserts/Images//attachment/album/201707/08/205147ysmigtkcfzmziwik.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Roundcube-User-Contact-List.png)
+[![Roundcube User Contact List](/Asserts/Images/album/201707/08/205147ysmigtkcfzmziwik.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Roundcube-User-Contact-List.png)
 
 
 *Roundcube 用户联系人列表*
@@ -246,7 +246,7 @@ $config['ldap_public']["global_ldap_abook"] = array(
 在已安装 RSAT 工具的已加入的 Windows 机器上打开 DNS 管理器，并如下所示，添加一条 iRedMail FQDN、named webmail 的 CNAME 记录。
 
 
-[![DNS Webmail Properties](/Asserts/Images//attachment/album/201707/08/205149pt8jkzubsnt32zgs.jpg)](https://www.tecmint.com/wp-content/uploads/2017/05/DNS-Webmail-Properties.jpg)
+[![DNS Webmail Properties](/Asserts/Images/album/201707/08/205149pt8jkzubsnt32zgs.jpg)](https://www.tecmint.com/wp-content/uploads/2017/05/DNS-Webmail-Properties.jpg)
 
 
 *DNS Webmail 属性*
@@ -304,7 +304,7 @@ https://webmail.domain.tld
 
 ```
 
-[![Disable iRedMail Tasks](/Asserts/Images//attachment/album/201707/08/205149sqooffe1qr11m1f1.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Disable-iRedMail-Tasks.png)
+[![Disable iRedMail Tasks](/Asserts/Images/album/201707/08/205149sqooffe1qr11m1f1.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Disable-iRedMail-Tasks.png)
 
 
 *禁用 iRedMail 任务*
@@ -334,7 +334,7 @@ root:   your_AD_email_account@domain.tld
 18、 邮件发送完毕后，请使用你为邮件重定向设置的域帐户登录 Roundcube webmail，并验证先前发送的邮件应该在你的帐户收件箱中。
 
 
-[![Verify User Mail](/Asserts/Images//attachment/album/201707/08/205151a6zuidl8j8jj66jb.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Verify-User-Mail.png)
+[![Verify User Mail](/Asserts/Images/album/201707/08/205151a6zuidl8j8jj66jb.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Verify-User-Mail.png)
 
 
 *验证用户邮件*

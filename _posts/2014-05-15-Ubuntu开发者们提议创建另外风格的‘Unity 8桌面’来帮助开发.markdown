@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/28/130322l01o8ktok1c85zxx.jpg)
+![](/Asserts/Images/album/201405/28/130322l01o8ktok1c85zxx.jpg)
 
 
 **Ubuntu桌面团队已经提出创建一个基于Unity 8的新风格Ubuntu桌面的想法。**

@@ -15,10 +15,10 @@ tags:	[linuxcn,NumPy]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/08/174635srrhdhh8wq9fdkrh.jpg "old school calculator")
+![](/Asserts/Images/album/202201/08/174635srrhdhh8wq9fdkrh.jpg "old school calculator")
 
 
-NumPy（即 **Num**erical **Py**thon）是一个库，它使得在 Python 中对线性数列和矩阵进行统计和集合操作变得容易。[我在 Python 数据类型的笔记中介绍过](https://notes.ayushsharma.in/2018/09/Asserts/Images/-types-in-python)，它比 Python 的列表快几个数量级。NumPy 在数据分析和科学计算中使用得相当频繁。
+NumPy（即 **Num**erical **Py**thon）是一个库，它使得在 Python 中对线性数列和矩阵进行统计和集合操作变得容易。[我在 Python 数据类型的笔记中介绍过](https://notes.ayushsharma.in/2018/09/data-types-in-python)，它比 Python 的列表快几个数量级。NumPy 在数据分析和科学计算中使用得相当频繁。
 
 
 我将介绍安装 NumPy，然后创建、读取和排序 NumPy 数组。NumPy 数组也被称为 ndarray，即 N 维数组的缩写。

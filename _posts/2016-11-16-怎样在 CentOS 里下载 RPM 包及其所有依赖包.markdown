@@ -7,7 +7,7 @@ tags:	[linuxcn,RPM,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/201611/07/173052bje21e908eajj2ek.jpg)
+![](/Asserts/Images/album/201611/07/173052bje21e908eajj2ek.jpg)
 
 
 前几天我尝试去创建一个仅包含我们经常在 CentOS 7 下使用的软件的本地仓库。当然，我们可以使用 curl 或者 wget 下载任何软件包，然而这些命令并不能下载要求的依赖软件包。你必须去花一些时间而且手动的去寻找和下载被安装的软件所依赖的软件包。然而，我们并不是必须这样。在这个简短的教程中，我将会带领你以两种方式下载软件包及其所有依赖包。我已经在 CentOS 7 下进行了测试，不过这些相同的步骤或许在其他基于 RPM 管理系统的发行版上也可以工作，例如 RHEL，Fedora 和 Scientific Linux。
@@ -111,7 +111,7 @@ exiting because "Download Only" specified
 
 ```
 
-![](/Asserts/Images//attachment/album/201611/07/172733jqrrvca6qb6roqx8.png)
+![](/Asserts/Images/album/201611/07/172733jqrrvca6qb6roqx8.png)
 
 
 现在去你指定的目录位置下，你将会看到那里有下载好的软件包和依赖的软件。在我这种情况下，我已经把软件包下载到 `/root/mypackages/` 目录下。
@@ -139,7 +139,7 @@ mailcap-2.1.41-2.el7.noarch.rpm
 
 ```
 
-![](/Asserts/Images//attachment/album/201611/07/172800chxg00wlpd0ylx0v.png)
+![](/Asserts/Images/album/201611/07/172800chxg00wlpd0ylx0v.png)
 
 
 正如你在上面输出所看到的, httpd软件包已经被依据所有依赖性下载完成了 。
@@ -251,7 +251,7 @@ Loading mirror speeds from cached hostfile
 
 ```
 
-![](/Asserts/Images//attachment/album/201611/07/172825ez4nhrn96b39lbr8.png)
+![](/Asserts/Images/album/201611/07/172825ez4nhrn96b39lbr8.png)
 
 
 让我们确认一下软件包是否被下载到我们指定的目录下。
@@ -276,7 +276,7 @@ mailcap-2.1.41-2.el7.noarch.rpm
 
 ```
 
-![](/Asserts/Images//attachment/album/201611/07/172848ua6rsyccao0zxan6.png)
+![](/Asserts/Images/album/201611/07/172848ua6rsyccao0zxan6.png)
 
 
 不像 Downloadonly 插件，Yumdownload 可以下载一组相关的软件包。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Markdown]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/15/090943m64sk4k496l4f99q.jpg)
+![](/Asserts/Images/album/202303/15/090943m64sk4k496l4f99q.jpg)
 
 
 你可能已经了解过轻量级标记语言 Markdown。如果你是第一次接触这个概念，请参考我们的 [Markdown 指南](https://itsfoss.com/markdown-guide/)。概括来讲，它是一种用于创建纯文本文档的简单又高效的语言。
@@ -39,13 +39,13 @@ tags:	[linuxcn,Markdown]
 安装 RStudio 后，在 “<ruby> 工具 <rt>  Tools </rt></ruby>” 菜单中选择 “<ruby> 安装软件包 <rt>  Install Packages </rt></ruby>” 选项。
 
 
-![在 RStudio 的工具菜单下选择安装软件包选项](/Asserts/Images//attachment/album/202303/15/090952z7tj0f79vh7ixv8t.png)
+![在 RStudio 的工具菜单下选择安装软件包选项](/Asserts/Images/album/202303/15/090952z7tj0f79vh7ixv8t.png)
 
 
 在弹出的对话框中，搜索 “rmarkdown” 并安装。
 
 
-![通过搜索并在新的软件包安装对话框中按下安装按钮来安装 Rmarkdown 软件包](/Asserts/Images//attachment/album/202303/15/090953kjpgmava9cvmztmy.png)
+![通过搜索并在新的软件包安装对话框中按下安装按钮来安装 Rmarkdown 软件包](/Asserts/Images/album/202303/15/090953kjpgmava9cvmztmy.png)
 
 
 
@@ -59,13 +59,13 @@ tags:	[linuxcn,Markdown]
 安装完成后，你可以通过选择 “<ruby> 文件 <rt>  File </rt></ruby> > <ruby> 新建文件 <rt>  New File </rt></ruby> > R Markdown” 来新建一个 R Markdown 文档。
 
 
-![从文件菜单中创建一个新的 RMarkdown 文档](/Asserts/Images//attachment/album/202303/15/090953kh2kkw4xhxff6228.png)
+![从文件菜单中创建一个新的 RMarkdown 文档](/Asserts/Images/album/202303/15/090953kh2kkw4xhxff6228.png)
 
 
 之后会提示你添加一些关于文件的信息（文件的元数据），把这些填上就可以了。
 
 
-![用 R Markdown 语法写出标题和其他细节](/Asserts/Images//attachment/album/202303/15/090954qg449fg7my04frtm.png)
+![用 R Markdown 语法写出标题和其他细节](/Asserts/Images/album/202303/15/090954qg449fg7my04frtm.png)
 
 
 或者你可以创建一个空的文件从零开始。
@@ -152,7 +152,7 @@ output: pdf_document
 
 ```
 
-![rmarkdown 文件中不同等级的标题](/Asserts/Images//attachment/album/202303/15/090954u3ahho6m2e3onzgg.png)
+![rmarkdown 文件中不同等级的标题](/Asserts/Images/album/202303/15/090954u3ahho6m2e3onzgg.png)
 
 
 #### 列表
@@ -184,7 +184,7 @@ output: pdf_document
 
 ```
 
-![有序和无序列表示例](/Asserts/Images//attachment/album/202303/15/090955epecu420wfu46j4c.png)
+![有序和无序列表示例](/Asserts/Images/album/202303/15/090955epecu420wfu46j4c.png)
 
 
 #### 段落中的文本格式
@@ -193,7 +193,7 @@ output: pdf_document
 格式化文本有几种方式。
 
 
-![](/Asserts/Images//attachment/album/202303/15/090955d57077xgkhxtk7g0.png)
+![](/Asserts/Images/album/202303/15/090955d57077xgkhxtk7g0.png)
 
 
 你可以使用斜体或加粗来着重表示文本：
@@ -239,7 +239,7 @@ __这里是加粗内容__
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/090955gpu9p38pzd0pscp0.png)
+![](/Asserts/Images/album/202303/15/090955gpu9p38pzd0pscp0.png)
 
 
 #### 添加代码块
@@ -288,7 +288,7 @@ __这里是加粗内容__
 它看起来是这样的：
 
 
-![](/Asserts/Images//attachment/album/202303/15/090956jv88tnbvvv8rblv1.png)
+![](/Asserts/Images/album/202303/15/090956jv88tnbvvv8rblv1.png)
 
 
 #### 链接
@@ -321,7 +321,7 @@ https://itsfoss.com
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/090957haotprypzbp1sgyo.png)
+![](/Asserts/Images/album/202303/15/090957haotprypzbp1sgyo.png)
 
 
 #### 表格
@@ -339,7 +339,7 @@ https://itsfoss.com
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/090958rna9nnv94m6q9asl.png)
+![](/Asserts/Images/album/202303/15/090958rna9nnv94m6q9asl.png)
 
 
 
@@ -371,7 +371,7 @@ https://itsfoss.com
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/090958v5537nh2vp3yj03y.png)
+![](/Asserts/Images/album/202303/15/090958v5537nh2vp3yj03y.png)
 
 
 #### 块引用
@@ -388,7 +388,7 @@ RMarkdown 可以添加块引用。在被引用的行或段落前添加 `>`（大
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/090959term5fsg2655qfam.png)
+![](/Asserts/Images/album/202303/15/090959term5fsg2655qfam.png)
 
 
 
@@ -416,7 +416,7 @@ RMarkdown 可以添加块引用。在被引用的行或段落前添加 `>`（大
 
 ```
 
-![在 R Markdown 文档中添加方程式](/Asserts/Images//attachment/album/202303/15/090959riq6f6kiqkgzh19s.png)
+![在 R Markdown 文档中添加方程式](/Asserts/Images/album/202303/15/090959riq6f6kiqkgzh19s.png)
 
 
 #### 章或页水平分割线
@@ -439,7 +439,7 @@ RMarkdown 可以添加块引用。在被引用的行或段落前添加 `>`（大
 ### R Markdown 非常有用（备忘录）
 
 
-![](/Asserts/Images//attachment/album/202303/15/091233m62g6c6n763elx27.jpg)
+![](/Asserts/Images/album/202303/15/091233m62g6c6n763elx27.jpg)
 
 
 

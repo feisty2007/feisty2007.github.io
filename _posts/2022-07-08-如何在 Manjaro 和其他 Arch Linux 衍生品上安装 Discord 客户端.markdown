@@ -7,7 +7,7 @@ tags:	[linuxcn,Discord]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/23/181625i62zdef7iufup2e6.jpg)
+![](/Asserts/Images/album/202207/23/181625i62zdef7iufup2e6.jpg)
 
 
 [Discord](https://discord.com/) 是一个跨平台的应用，可用于语音通话、视频通话、文本消息，以及分享媒体和文件。
@@ -56,7 +56,7 @@ sudo pacman -S discord
 安装后，只需从应用菜单中启动应用，然后登录就可以开始使用 Discord。
 
 
-![Discord client in Arch Linux](/Asserts/Images//attachment/album/202207/23/181648ug9aa8d14dizja0g.png)
+![Discord client in Arch Linux](/Asserts/Images/album/202207/23/181648ug9aa8d14dizja0g.png)
 
 
 **如果你想安装 Discord 的每日构建版本** 来测试即将到来的新功能，请使用以下命令。请注意，它可能并不稳定，所以如果你想要这个版本，请再考虑一下。
@@ -104,19 +104,19 @@ sudo pacman -Rns discord-canary
 从应用程序菜单中启动 Pamac（添加/删除软件）。
 
 
-![pamac menu](/Asserts/Images//attachment/album/202207/23/181648wc3vvbzj3xahkvh2.png)
+![pamac menu](/Asserts/Images/album/202207/23/181648wc3vvbzj3xahkvh2.png)
 
 
 点击“<ruby> 更新 <rt>  Updates </rt></ruby>”来更新你的系统。
 
 
-![pamac update](/Asserts/Images//attachment/album/202207/23/181648bnegc9ffcq0rrxc0.png)
+![pamac update](/Asserts/Images/album/202207/23/181648bnegc9ffcq0rrxc0.png)
 
 
 现在点击“<ruby> 浏览 <rt>  Browse </rt></ruby>”，使用左上方的搜索按钮搜索 “discord”。然后，选择软件包并点击“<ruby> 应用 <rt>  Apply </rt></ruby>”来安装。
 
 
-![Installing Discord from Pamac](/Asserts/Images//attachment/album/202207/23/181649e1hfz1z8wwlw61ff.png)
+![Installing Discord from Pamac](/Asserts/Images/album/202207/23/181649e1hfz1z8wwlw61ff.png)
 
 
 你可以用 Pamac 来卸载软件包，就像你安装它一样。

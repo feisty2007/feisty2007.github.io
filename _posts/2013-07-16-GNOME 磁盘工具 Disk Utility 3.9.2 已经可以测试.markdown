@@ -13,7 +13,7 @@ GNOME 磁盘工具 Disk Utility 3.9.2 在 7 月 25 日发布，这个版本是�
 3.9.2 版本改进了树状图中的最后修改时间和其他几个 Bug。GNOME Disk Utility 3.10 发布的时候将发布：捷克语、德语、西班牙语、巴西葡萄牙语、斯洛伐克语、波斯语和简体中文版本。具体可以查看 [official raw changelog](http://ftp.acc.umu.se/pub/GNOME/sources/baobab/3.9/baobab-3.9.2.news)。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/28/234919m91bnjnm1o9biib4.png](/Asserts/Images//attachment/album/201307/28/234919m91bnjnm1o9biib4.png)
+![https://img.linux.net.cn/Asserts/Images/album/201307/28/234919m91bnjnm1o9biib4.png](/Asserts/Images/album/201307/28/234919m91bnjnm1o9biib4.png)
 
 
 下载：

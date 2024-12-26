@@ -7,7 +7,7 @@ tags:	[linuxcn,awk,Groovy]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/09/100129hp5bze5bbbbmddw6.jpg)
+![](/Asserts/Images/album/202211/09/100129hp5bze5bbbbmddw6.jpg)
 
 
 

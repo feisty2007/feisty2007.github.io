@@ -7,7 +7,7 @@ tags:	[linuxcn,Jupyter Notebook]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/28/063430e6lz9elvz4pw55l4.jpg)
+![](/Asserts/Images/album/202307/28/063430e6lz9elvz4pw55l4.jpg)
 
 
 
@@ -78,13 +78,13 @@ virtualenv my-jupyter-env
 此命令创建一个名为 `my-jupyter-env` 的新目录，其中将包含虚拟环境文件。
 
 
-![create jupyter environment](/Asserts/Images//attachment/album/202307/28/063640nsmauyescyyhu7oy.jpg)
+![create jupyter environment](/Asserts/Images/album/202307/28/063640nsmauyescyyhu7oy.jpg)
 
 
 你还可以通过任何文件管理器验证该目录是否在你的主文件夹下创建成功。
 
 
-![jupyter env folders](/Asserts/Images//attachment/album/202307/28/063656uptgtdittpziki7l.jpg)
+![jupyter env folders](/Asserts/Images/album/202307/28/063656uptgtdittpziki7l.jpg)
 
 
 输入以下命令激活虚拟环境：
@@ -99,7 +99,7 @@ source my-jupyter-env/bin/activate
 你会注意到终端提示符发生变化，表明你现在位于虚拟环境中。
 
 
-![activate the environment](/Asserts/Images//attachment/album/202307/28/063709xp9yzkti98kikb1h.jpg)
+![activate the environment](/Asserts/Images/album/202307/28/063709xp9yzkti98kikb1h.jpg)
 
 
 ### 安装 Jupyter Notebook
@@ -120,7 +120,7 @@ pip install jupyter
 此命令会获取必要的包并在虚拟环境中安装 Jupyter Notebook。
 
 
-![Installing jupyter using pip](/Asserts/Images//attachment/album/202307/28/063722w90979756ccjap60.jpg)
+![Installing jupyter using pip](/Asserts/Images/album/202307/28/063722w90979756ccjap60.jpg)
 
 
 ### 启动 Jupyter Notebook
@@ -141,13 +141,13 @@ jupyter notebook
 执行命令后，Jupyter Notebook 将启动，你应该看到类似于以下内容的输出：
 
 
-![running jupyter notebook in Debian](/Asserts/Images//attachment/album/202307/28/063735lmnu1nn4zuumq9nm.jpg)
+![running jupyter notebook in Debian](/Asserts/Images/album/202307/28/063735lmnu1nn4zuumq9nm.jpg)
 
 
 你的默认 Web 浏览器将打开，显示 Jupyter Notebook 界面。
 
 
-![Jupyter notebook running in browser](/Asserts/Images//attachment/album/202307/28/063748vz9koiiiibi8jd5k.jpg)
+![Jupyter notebook running in browser](/Asserts/Images/album/202307/28/063748vz9koiiiibi8jd5k.jpg)
 
 
 ### 关闭并重新启动

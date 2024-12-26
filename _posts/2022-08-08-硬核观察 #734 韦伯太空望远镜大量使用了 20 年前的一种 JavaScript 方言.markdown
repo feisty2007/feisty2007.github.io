@@ -7,10 +7,10 @@ tags:	[linuxcn,JavaScript,RHEL,算法]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/20/190551aejxvzby96017yfy.jpg)
+![](/Asserts/Images/album/202208/20/190551aejxvzby96017yfy.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/20/190600vqqcl8pcx7xhpnuh.jpg)
+![](/Asserts/Images/album/202208/20/190600vqqcl8pcx7xhpnuh.jpg)
 
 
 ### 韦伯太空望远镜大量使用了 20 年前的一种 JavaScript 方言
@@ -35,7 +35,7 @@ tags:	[linuxcn,JavaScript,RHEL,算法]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/20/190611s5syvjxx5jfyy876.jpg)
+![](/Asserts/Images/album/202208/20/190611s5syvjxx5jfyy876.jpg)
 
 
 ### VFX 参考平台建议动画行业升级到 RHEL 9
@@ -60,7 +60,7 @@ VFX 参考平台旨在帮助规范数字内容创作领域的软件平台，以�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/20/191044kxhkl481xa0uj01z.jpg)
+![](/Asserts/Images/album/202208/20/191044kxhkl481xa0uj01z.jpg)
 
 
 ### Meta 用算法“随机”解雇 60 名劳务派遣人员

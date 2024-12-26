@@ -15,7 +15,7 @@ tags:	[linuxcn,Electron,桌面应用]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/11/115302e25o5laz8sex5ea6.jpg "Text editor on a browser, in blue")
+![](/Asserts/Images/album/202111/11/115302e25o5laz8sex5ea6.jpg "Text editor on a browser, in blue")
 
 
 Mastodon 是一个很好的开源、去中心化的社交网络。我每天都在使用 Mastodon，通过它的网页界面使用 Mastodon 可能是最常见的方式（尽管因为开源，它有许多不同的交互方式，包括基于终端的应用和移动应用），但我更喜欢专门的应用窗口。
@@ -129,7 +129,7 @@ chmod +x Mastodon
 现在，执行 `./Mastodon` 就可以看到你的 Linux 应用启动了！
 
 
-![Mastodon app launched](/Asserts/Images//attachment/album/202111/11/115312j6cfxlx9fl90tbje.png "Mastodon app launched")
+![Mastodon app launched](/Asserts/Images/album/202111/11/115312j6cfxlx9fl90tbje.png "Mastodon app launched")
 
 
 ### 为我的博客创建一个应用
@@ -138,7 +138,7 @@ chmod +x Mastodon
 为了好玩，我也要为我的博客创建一个应用。如果没有 Linux 应用，拥有一个技术博客有什么用？
 
 
-![Ayush Sharma blog](/Asserts/Images//attachment/album/202111/11/115313r07k5ll6d2gmsm5l.png "Ayush Sharma blog")
+![Ayush Sharma blog](/Asserts/Images/album/202111/11/115313r07k5ll6d2gmsm5l.png "Ayush Sharma blog")
 
 
 命令是：
@@ -163,7 +163,7 @@ chmod +x ayushsharma
 最后，这是为我的宠物项目 [findmymastodon.com](https://findmymastodon.com/) 制作的应用。
 
 
-![Find my mastodon website](/Asserts/Images//attachment/album/202111/11/115313vdggkfxsk2wiyfb7.png "Find my mastodon website")
+![Find my mastodon website](/Asserts/Images/album/202111/11/115313vdggkfxsk2wiyfb7.png "Find my mastodon website")
 
 
 命令是：

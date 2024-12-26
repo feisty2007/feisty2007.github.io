@@ -7,7 +7,7 @@ tags:	[linuxcn,云服务商,锁定]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/04/183015rd0gpjzkdcxsbqdi.png)
+![](/Asserts/Images/album/201902/04/183015rd0gpjzkdcxsbqdi.png)
 
 
 避免被某一家（云）服务商锁定，这样你就再也离不开它了——当你就是那偏偏遇到问题的 0.05% 时，你也需要找工作了。

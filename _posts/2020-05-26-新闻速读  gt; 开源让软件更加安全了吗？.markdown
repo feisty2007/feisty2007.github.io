@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,慕尼黑]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/17/130827j8e6fda7vkufoz6e.jpg)
+![](/Asserts/Images/album/202005/17/130827j8e6fda7vkufoz6e.jpg)
 
 
 #### 开源让软件更加安全了吗？

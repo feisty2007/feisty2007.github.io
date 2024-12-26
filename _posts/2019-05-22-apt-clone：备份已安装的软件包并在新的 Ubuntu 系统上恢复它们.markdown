@@ -7,7 +7,7 @@ tags:	[linuxcn,apt]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/10/094350w0av0z0vkzdvz30a.jpg)
+![](/Asserts/Images/album/201905/10/094350w0av0z0vkzdvz30a.jpg)
 
 
 当我们在基于 Ubuntu/Debian 的系统上使用 `apt-clone`，包安装会变得更加容易。如果你需要在少量系统上安装相同的软件包时，`apt-clone` 会适合你。

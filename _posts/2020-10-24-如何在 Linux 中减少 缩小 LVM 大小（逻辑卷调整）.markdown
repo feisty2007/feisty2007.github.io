@@ -7,7 +7,7 @@ tags:	[linuxcn,LVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/21/210459ydp5an23nfzgglyy.jpg)
+![](/Asserts/Images/album/202010/21/210459ydp5an23nfzgglyy.jpg)
 
 
 减少/缩小逻辑卷是数据损坏的最高风险。
@@ -32,7 +32,7 @@ tags:	[linuxcn,LVM]
 * **第二部分：[如何在 Linux 中扩展/增加 LVM（逻辑卷调整）](/article-12673-1.html)**
 
 
-![](/Asserts/Images//attachment/album/202010/21/210610kikq1xynfje7hjaa.jpeg)
+![](/Asserts/Images/album/202010/21/210610kikq1xynfje7hjaa.jpeg)
 
 
 减少逻辑卷涉及以下步骤：

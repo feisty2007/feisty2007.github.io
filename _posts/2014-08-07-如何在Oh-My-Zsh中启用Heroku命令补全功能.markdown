@@ -10,7 +10,7 @@ tags:	[linuxcn,zsh,Oh-My-Zsh,Heroku]
 **Heroku**客户端是创建和管理Heroku应用的命令行界面工具。
 
 
-![](/Asserts/Images//attachment/album/201408/13/005148vzlziyivrvvi9cn9.jpg)
+![](/Asserts/Images/album/201408/13/005148vzlziyivrvvi9cn9.jpg)
 
 
 需求:
@@ -54,7 +54,7 @@ vim .zshrc
 
 ```
 
-![](/Asserts/Images//attachment/album/201408/13/005151gsmia8dtshhgu1d8.png)
+![](/Asserts/Images/album/201408/13/005151gsmia8dtshhgu1d8.png)
 
 
 这里，git是唯一默认启用的插件。
@@ -63,13 +63,13 @@ vim .zshrc
 在下图显示的插件选择区添加**heroku**：
 
 
-![](/Asserts/Images//attachment/album/201408/13/005152ei4w6gcciwnndnfw.png)
+![](/Asserts/Images/album/201408/13/005152ei4w6gcciwnndnfw.png)
 
 
 重启终端，输入**heroku**，按下tab键，到此就搞定啦：
 
 
-![](/Asserts/Images//attachment/album/201408/13/005154lqmafdh77lfmhaiz.png)
+![](/Asserts/Images/album/201408/13/005154lqmafdh77lfmhaiz.png)
 
 
 

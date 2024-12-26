@@ -7,13 +7,13 @@ tags:	[linuxcn,PRISM,NSA,HTTP/2.0]
 ---
 
 
-![PRISM](/Asserts/Images//attachment/album/201512/01/174610yw4ng4q75cwfwk5c.png)
+![PRISM](/Asserts/Images/album/201512/01/174610yw4ng4q75cwfwk5c.png)
 
 
 如果你监听过 HTTP/2 连接的建立过程，你也许会注意到在每个连接建立时都会发送一条这样的报文。如下：
 
 
-![](/Asserts/Images//attachment/album/201512/01/171643b56fb677699sskne.png)
+![](/Asserts/Images/album/201512/01/171643b56fb677699sskne.png)
 
 
 即以下文本：

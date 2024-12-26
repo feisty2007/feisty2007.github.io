@@ -7,7 +7,7 @@ tags:	[linuxcn,深度学习,TensorFlow,DL,PyTorch]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/10/163647s8mxuuz8anjt8j7n.jpg)
+![](/Asserts/Images/album/201804/10/163647s8mxuuz8anjt8j7n.jpg)
 
 
 有一个令人震惊的事实，即人工智能和机器学习的工具和技术在近期迅速兴起。深度学习，或者说“注射了激素的机器学习”，数据科学家和机器学习专家在这个领域有数不胜数等可用的库和框架。很多这样的框架都是基于 Python 的，因为 Python 是一个更通用，相对简单的语言。[Theano](https://www.packtpub.com/web-development/deep-learning-theano)、[Keras](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras)、 [TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow) 是几个基于 Python 构建的流行的深度学习库，目的是使机器学习专家更轻松。
@@ -93,10 +93,10 @@ TensorFlow 很大，经验丰富，最适合实际应用。 是大多数机器�
 ---
 
 
-via: <https://Asserts/Images/hub.packtpub.com/deep-learning/dl-wars-pytorch-vs-tensorflow/>
+via: <https://datahub.packtpub.com/deep-learning/dl-wars-pytorch-vs-tensorflow/>
 
 
-作者：[Savia Lobo](https://Asserts/Images/hub.packtpub.com/author/savial/) 译者：[Wuod3n](https://github.com/Wuod3n) 校对：[wxy](https://github.com/wxy)
+作者：[Savia Lobo](https://datahub.packtpub.com/author/savial/) 译者：[Wuod3n](https://github.com/Wuod3n) 校对：[wxy](https://github.com/wxy)
 
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出

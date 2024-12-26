@@ -7,7 +7,7 @@ tags:	[linuxcn,mkdir,目录]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/17/124700v1sssrbsovwoe18y.jpg)
+![](/Asserts/Images/album/201802/17/124700v1sssrbsovwoe18y.jpg)
 
 
 当你使用命令行的时候，无论什么时候，你都位于一个目录中，它告诉了命令行当前所位于的完整目录。在 Linux 中，你可以使用 [rm](/article-9321-1.html) 命令删除目录，但是首先，你需要使用 `mkdir` 命令来创建目录。在这篇教程中，我将使用一些易于理解的例子来讲解这个工具的基本用法。
@@ -78,7 +78,7 @@ mkdir -p dir1/dir2/dir3
 
 ```
 
-[![How to make sure parent directories (if non-existent) are created](/Asserts/Images//attachment/album/201802/17/124712ke4vbazwtebta4eb.png)](https://www.howtoforge.com/images/command-tutorial/big/mkdir-p.png)
+[![How to make sure parent directories (if non-existent) are created](/Asserts/Images/album/201802/17/124712ke4vbazwtebta4eb.png)](https://www.howtoforge.com/images/command-tutorial/big/mkdir-p.png)
 
 
 ### Q3. 如何在创建目录时自定义权限？
@@ -87,13 +87,13 @@ mkdir -p dir1/dir2/dir3
 默认情况下，`mkdir` 命令创建目录时会把权限设置为 `rwx, rwx, r-x` 。
 
 
-[![How to set permissions for directory being created](/Asserts/Images//attachment/album/201802/17/124715j7jd9jt9jzc95vth.png)](https://www.howtoforge.com/images/command-tutorial/big/mkdir-def-perm.png)
+[![How to set permissions for directory being created](/Asserts/Images/album/201802/17/124715j7jd9jt9jzc95vth.png)](https://www.howtoforge.com/images/command-tutorial/big/mkdir-def-perm.png)
 
 
 但是，如果你想自定义权限，那么你可以使用 `-m` 这一命令行选项。
 
 
-[![mkdir -m command option](/Asserts/Images//attachment/album/201802/17/124716pqzvq22qyxqqytcq.png)](https://www.howtoforge.com/images/command-tutorial/big/mkdir-custom-perm.png)
+[![mkdir -m command option](/Asserts/Images/album/201802/17/124716pqzvq22qyxqqytcq.png)](https://www.howtoforge.com/images/command-tutorial/big/mkdir-custom-perm.png)
 
 
 ### Q4. 如何使 `mkdir` 命令显示操作细节？
@@ -111,7 +111,7 @@ mkdir -v [dir]
 下面是一个例子：
 
 
-[![How to make mkdir emit details of operation](/Asserts/Images//attachment/album/201802/17/124719w9sdmccbhmbuw2hv.png)](https://www.howtoforge.com/images/command-tutorial/big/mkdir-verbose.png)
+[![How to make mkdir emit details of operation](/Asserts/Images/album/201802/17/124719w9sdmccbhmbuw2hv.png)](https://www.howtoforge.com/images/command-tutorial/big/mkdir-verbose.png)
 
 
 ### 结论

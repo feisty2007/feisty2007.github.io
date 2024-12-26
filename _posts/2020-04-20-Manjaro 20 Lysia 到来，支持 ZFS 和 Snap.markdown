@@ -15,7 +15,7 @@ tags:	[linuxcn,Manjaro]
 > 
 
 
-![](/Asserts/Images//attachment/album/202004/29/232925j8paomvp11pfu12v.jpg)
+![](/Asserts/Images/album/202004/29/232925j8paomvp11pfu12v.jpg)
 
 
 最近新的发行版的发布像下雨一样。在上周发布了 [Ubuntu 20.04 LTS](/article-12142-1.html) ，紧接着 [Fedora 32](/article-12164-1.html) 也刚刚发布，而现在 [Manjaro 发布了版本 20](https://forum.manjaro.org/t/manjaro-20-0-lysia-released/138633)，代号为 Lysia。
@@ -33,7 +33,7 @@ tags:	[linuxcn,Manjaro]
 Manjaro 20 有一个新的默认主题，名为 Matcha（抹茶）。它让桌面看起来更有质感。
 
 
-![](/Asserts/Images//attachment/album/202004/29/233052k2o77y0et2tp9uyy.jpg)
+![](/Asserts/Images/album/202004/29/233052k2o77y0et2tp9uyy.jpg)
 
 
 #### 对 Snap 和 Flatpak 的支持
@@ -45,13 +45,13 @@ Snap 和 Flatpak 软件包的支持得到了改进。如果你愿意，你可以
 你还可以在 Pamac 图形界面包管理器中启用 Snap 和 Flatpak 支持。
 
 
-![Enable Snap support in Pamac Manjaro](/Asserts/Images//attachment/album/202004/29/233052dr1wwmustgi91w7w.jpg)
+![Enable Snap support in Pamac Manjaro](/Asserts/Images/album/202004/29/233052dr1wwmustgi91w7w.jpg)
 
 
 启用后，你可以在 Pamac 软件管理器中找到并安装 Snap/Flatpak 应用程序。
 
 
-![Snap applications in Pamac](/Asserts/Images//attachment/album/202004/29/233055a1bm08c7gt8r8a7g.jpg)
+![Snap applications in Pamac](/Asserts/Images/album/202004/29/233055a1bm08c7gt8r8a7g.jpg)
 
 
 #### Pamac 提供了基于搜索安装新软件的方式（在 GNOME 中）
@@ -69,7 +69,7 @@ Snap 和 Flatpak 软件包的支持得到了改进。如果你愿意，你可以
 请注意，我说的是 Manjaro Architect，即基于终端的安装程序。它和普通的图形化的 [Calamares 安装程序](https://calamares.io/)不一样。
 
 
-![](/Asserts/Images//attachment/album/202004/29/233056boj6iqdg0kgj0u6u.jpg)
+![](/Asserts/Images/album/202004/29/233056boj6iqdg0kgj0u6u.jpg)
 
 
 #### Linux kernel 5.6
@@ -78,7 +78,7 @@ Snap 和 Flatpak 软件包的支持得到了改进。如果你愿意，你可以
 最新的稳定版 [Linux 内核 5.6](https://itsfoss.com/linux-kernel-5-6/) 带来了更多的硬件支持，如 thunderbolt、Nvidia 和 USB4。你也可以使用 [WireGuard VPN](https://itsfoss.com/wireguard/)。
 
 
-![](/Asserts/Images//attachment/album/202004/29/233056xh7h6cc26ll6c2cz.jpg)
+![](/Asserts/Images/album/202004/29/233056xh7h6cc26ll6c2cz.jpg)
 
 
 #### 其他杂项变化

@@ -7,7 +7,7 @@ tags:	[linuxcn,serverless,无服务器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201710/17/222344ghhnihphli9phphk.png)
+![](/Asserts/Images/album/201710/17/222344ghhnihphli9phphk.png)
 
 
 去年，我[为 Up 规划了一份蓝图](https://medium.com/@tjholowaychuk/blueprints-for-up-1-5f8197179275)，其中描述了如何以最小的成本在 AWS 上为大多数构建块创建一个很棒的无服务器环境。这篇文章则是讨论了 [Up](https://github.com/apex/up) 的初始 alpha 版本。
@@ -111,13 +111,13 @@ func hello(w http.ResponseWriter, r *http.Request) {
 要部署应用程序输入 `up` 来创建所需的资源并部署应用程序本身。这里没有模糊不清的地方，一旦它说“完成”了那就完成了，该应用程序立即可用 —— 没有远程构建过程。
 
 
-![](/Asserts/Images//attachment/album/201710/17/222344sk5uk786q99646q1.png)
+![](/Asserts/Images/album/201710/17/222344sk5uk786q99646q1.png)
 
 
 后续的部署将会更快，因为栈已被配置：
 
 
-![](/Asserts/Images//attachment/album/201710/17/222345vai0n1r17n80orhl.png)
+![](/Asserts/Images/album/201710/17/222345vai0n1r17n80orhl.png)
 
 
 使用 `up url --open` 测试你的程序，以在浏览器中浏览它，`up url --copy` 可以将 URL 保存到剪贴板，或者可以尝试使用 curl：
@@ -133,7 +133,7 @@ Hello World
 要删除应用程序及其资源，只需输入 `up stack delete`：
 
 
-![](/Asserts/Images//attachment/album/201710/17/222345tuj237q2paq0ubph.png)
+![](/Asserts/Images/album/201710/17/222345tuj237q2paq0ubph.png)
 
 
 例如，使用 `up staging` 或 `up production` 和 `up url --open production` 部署到预发布或生产环境。请注意，自定义域名尚不可用，[它们将很快可用](https://github.com/apex/up/issues/166)。之后，你还可以将版本“推广”到其他环境。
@@ -413,7 +413,7 @@ Up 通过 `redirects` 对象支持重定向和 URL 重写，该对象将路径�
 对于 $0.5/GB 的低价格，你可以使用 CloudWatch 日志进行结构化日志查询和跟踪。Up 实现了一种用于改进 CloudWatch 提供的自定义[查询语言](https://github.com/apex/up/blob/master/internal/logs/parser/grammar.peg)，专门用于查询结构化 JSON 日志。
 
 
-![](/Asserts/Images//attachment/album/201710/17/222431kvicb1bzdcitbjct.png)
+![](/Asserts/Images/album/201710/17/222431kvicb1bzdcitbjct.png)
 
 
 你可以查询现有日志：
@@ -443,7 +443,7 @@ up logs 'method in ("GET", "HEAD") status = 200 duration >= 5'
 
 ```
 
-![](/Asserts/Images//attachment/album/201710/17/222503akf3aga3rmggealk.png)
+![](/Asserts/Images/album/201710/17/222503akf3aga3rmggealk.png)
 
 
 查询语言是非常灵活的，这里有更多来自于 `up help logs` 的例子
@@ -540,7 +540,7 @@ $ up logs error | jq
 Up 通过 API 网关支持 HTTP/2，对于服务很多资源的应用和站点可以减少延迟。我将来会对许多平台进行更全面的测试，但是 Up 的延迟已经很好了：
 
 
-![](/Asserts/Images//attachment/album/201710/17/222503as3skc93q3a9usup.jpg)
+![](/Asserts/Images/album/201710/17/222503as3skc93q3a9usup.jpg)
 
 
 #### 错误页面
@@ -567,7 +567,7 @@ Up 提供了一个默认错误页面，如果你要提供支持电子邮件或�
 默认情况下，它看上去像这样：
 
 
-![](/Asserts/Images//attachment/album/201710/17/222539pb96vr7xvex1olvv.png)
+![](/Asserts/Images/album/201710/17/222539pb96vr7xvex1olvv.png)
 
 
 如果你想提供自定义模板，你可以创建以下一个或多个文件。特定文件优先。

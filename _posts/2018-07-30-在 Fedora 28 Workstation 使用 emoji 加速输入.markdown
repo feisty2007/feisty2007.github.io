@@ -7,7 +7,7 @@ tags:	[linuxcn,emoji,表情符,输入法]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/26/231428ekkjjlsr77gvp8v9.jpg)
+![](/Asserts/Images/album/201807/26/231428ekkjjlsr77gvp8v9.jpg)
 
 
 Fedora 28 Workstation 添加了一个功能允许你使用键盘快速搜索、选择和输入 emoji。emoji，这种可爱的表意文字是 Unicode 的一部分，在消息传递中使用得相当广泛，特别是在移动设备上。你可能听过这样的成语：“一图胜千言”。这正是 emoji 所提供的：简单的图像供你在交流中使用。Unicode 的每个版本都增加了更多 emoji，在最近的 Unicode 版本中添加了 200 多个 emoji。本文向你展示如何使它们在你的 Fedora 系统中易于使用。
@@ -25,25 +25,25 @@ Fedora 28 Workstation 添加了一个功能允许你使用键盘快速搜索、�
 新的 emoji 输入法默认出现在 Fedora 28 Workstation 中。要使用它，必须使用“区域和语言设置”对话框启用它。从 Fedora Workstation 设置打开“区域和语言”对话框，或在“概要”中搜索它。
 
 
-[![Region & Language settings tool](/Asserts/Images//attachment/album/201807/26/231457qlxt88gggxltql9x.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-15-02-41.png)
+[![Region & Language settings tool](/Asserts/Images/album/201807/26/231457qlxt88gggxltql9x.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-15-02-41.png)
 
 
 选择 `+` 控件添加输入源。出现以下对话框：
 
 
-[![Adding an input source](/Asserts/Images//attachment/album/201807/26/231516clz0bdu7gn34iy00.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-14-33-46.png)
+[![Adding an input source](/Asserts/Images/album/201807/26/231516clz0bdu7gn34iy00.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-14-33-46.png)
 
 
 选择最后选项（三个点）来完全展开选择。然后，在列表底部找到“Other”并选择它：
 
 
-[![Selecting other input sources](/Asserts/Images//attachment/album/201807/26/231536zdz0jpxxpqqpzad0.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-14-34-15.png)
+[![Selecting other input sources](/Asserts/Images/album/201807/26/231536zdz0jpxxpqqpzad0.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-14-34-15.png)
 
 
 在下面的对话框中，找到 “Typing Booster” 选项并选择它：
 
 
-[![](/Asserts/Images//attachment/album/201807/26/231602dhrqcuyu8clhd11c.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-14-34-41.png)
+[![](/Asserts/Images/album/201807/26/231602dhrqcuyu8clhd11c.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-14-34-41.png)
 
 
 这个高级输入法由 iBus 在背后支持。该高级输入法可通过列表右侧的齿轮图标在列表中识别。
@@ -52,7 +52,7 @@ Fedora 28 Workstation 添加了一个功能允许你使用键盘快速搜索、�
 输入法下拉菜单自动出现在 GNOME Shell 顶部栏中。确认你的默认输入法 —— 在此示例中为英语（美国） - 被选为当前输入法，你就可以输入了。
 
 
-[![Input method dropdown in Shell top bar](/Asserts/Images//attachment/album/201807/26/231607s68tfs64b9ft9ttt.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-15-05-24.png)
+[![Input method dropdown in Shell top bar](/Asserts/Images/album/201807/26/231607s68tfs64b9ft9ttt.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-15-05-24.png)
 
 
 ### 使用新的表情符号输入法
@@ -61,7 +61,7 @@ Fedora 28 Workstation 添加了一个功能允许你使用键盘快速搜索、�
 现在 emoji 输入法启用了，按键盘快捷键 `Ctrl+Shift+E` 搜索 emoji。将出现一个弹出对话框，你可以在其中输入搜索词，例如 “smile” 来查找匹配的符号。
 
 
-[![Searching for smile emoji](/Asserts/Images//attachment/album/201807/26/231619hoe9koii4o8oanbo.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-14-36-31.png)
+[![Searching for smile emoji](/Asserts/Images/album/201807/26/231619hoe9koii4o8oanbo.png)](https://fedoramagazine.org/wp-content/uploads/2018/07/Screenshot-from-2018-07-08-14-36-31.png)
 
 
 使用箭头键翻页列表。然后按回车进行选择，字形将替换输入内容。

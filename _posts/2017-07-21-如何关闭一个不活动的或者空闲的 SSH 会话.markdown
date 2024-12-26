@@ -7,7 +7,7 @@ tags:	[linuxcn,SSH]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/06/091311wzpp1pp5d1tuuuku.jpg)
+![](/Asserts/Images/album/201707/06/091311wzpp1pp5d1tuuuku.jpg)
 
 
 让我们来假设一下，当你通过 ssh 在服务器上工作时，由于网络、电源或者是本地 PC 重启等原因会导致你的会话连接断开。

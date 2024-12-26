@@ -7,7 +7,7 @@ tags:	[linuxcn,elementary OS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/13/154850fxab1f5lwnj5qwz5.png)
+![](/Asserts/Images/album/202311/13/154850fxab1f5lwnj5qwz5.png)
 
 
 

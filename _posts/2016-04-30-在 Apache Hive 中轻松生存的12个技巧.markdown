@@ -7,7 +7,7 @@ tags:	[linuxcn,SQL,Hadoop,Hive,数据库]
 ---
 
 
-![Learn to live with Apache Hive in 12 easy steps](/Asserts/Images//attachment/album/201604/07/121431g4blm1oczk811umc.jpg)
+![Learn to live with Apache Hive in 12 easy steps](/Asserts/Images/album/201604/07/121431g4blm1oczk811umc.jpg)
 
 
 Hive 可以让你在 Hadoop 上使用 SQL，但是在分布式系统上优化 SQL 则有所不同。这里是让你可以轻松驾驭 Hive 的12个技巧。

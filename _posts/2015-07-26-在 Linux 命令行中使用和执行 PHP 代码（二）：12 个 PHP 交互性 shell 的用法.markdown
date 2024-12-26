@@ -10,7 +10,7 @@ tags:	[linuxcn,PHP]
 在上一篇文章“[在 Linux 命令行中使用和执行 PHP 代码（一）](/article-5906-1.html)”中，我同时着重讨论了直接在Linux命令行中运行PHP代码以及在Linux终端中执行PHP脚本文件。
 
 
-![Run PHP Codes in Linux Commandline](/Asserts/Images//attachment/album/201507/29/145425ng36dkf2r7kfgdft.jpg)
+![Run PHP Codes in Linux Commandline](/Asserts/Images/album/201507/29/145425ng36dkf2r7kfgdft.jpg)
 
 
 本文旨在让你了解一些相当不错的Linux终端中的PHP交互性 shell 的用法特性。
@@ -40,7 +40,7 @@ php > #cli.prompt=Hi Tecmint ::
 
 ```
 
-![Enable PHP Interactive Shell](/Asserts/Images//attachment/album/201507/29/145425a7b75iz7h2kd57ha.png)
+![Enable PHP Interactive Shell](/Asserts/Images/album/201507/29/145425a7b75iz7h2kd57ha.png)
 
 
 *启用PHP交互Shell*
@@ -70,7 +70,7 @@ php > #cli.pager=less
 
 ```
 
-![Fix PHP Screen Output](/Asserts/Images//attachment/album/201507/29/145425w3b31atz39atahhs.png)
+![Fix PHP Screen Output](/Asserts/Images/album/201507/29/145425w3b31atz39atahhs.png)
 
 
 *限制PHP屏幕输出*
@@ -85,7 +85,7 @@ php > phpinfo();
 
 ```
 
-![PHP Info Output](/Asserts/Images//attachment/album/201507/29/145426oi5j56epx7xiiixq.png)
+![PHP Info Output](/Asserts/Images/album/201507/29/145426oi5j56epx7xiiixq.png)
 
 
 *PHP信息输出*
@@ -127,7 +127,7 @@ $ nano ~/.php_history | less
 
 ```
 
-![Check PHP Interactive Shell Logs](/Asserts/Images//attachment/album/201507/29/145426qnv7utf9rt6ntdmd.png)
+![Check PHP Interactive Shell Logs](/Asserts/Images/album/201507/29/145426qnv7utf9rt6ntdmd.png)
 
 
 *检查PHP交互Shell日志*
@@ -154,7 +154,7 @@ php > echo "\033[0;31m Hi Tecmint \x1B[0m";
 
 ```
 
-![Enable Colors in PHP Shell](/Asserts/Images//attachment/album/201507/29/145427nklaq0vufsvqbavz.png)
+![Enable Colors in PHP Shell](/Asserts/Images/album/201507/29/145427nklaq0vufsvqbavz.png)
 
 
 *在PHP Shell中启用彩色*
@@ -189,7 +189,7 @@ contact-us.html
 
 ```
 
-![Print Base Name in PHP](/Asserts/Images//attachment/album/201507/29/145427czng55oue5u5xdf9.png)
+![Print Base Name in PHP](/Asserts/Images/album/201507/29/145427czng55oue5u5xdf9.png)
 
 
 *在PHP中打印基本名称*
@@ -219,7 +219,7 @@ php > echo strlen("tecmint.com");
 
 ```
 
-![Print Length String in PHP](/Asserts/Images//attachment/album/201507/29/145428c6seizv65btil3jt.png)
+![Print Length String in PHP](/Asserts/Images/album/201507/29/145428c6seizv65btil3jt.png)
 
 
 *在PHP中打印字符串长度*
@@ -263,7 +263,7 @@ Array
 
 ```
 
-![Sort Arrays in PHP](/Asserts/Images//attachment/album/201507/29/145428ixvssx6seg4f63qk.png)
+![Sort Arrays in PHP](/Asserts/Images/album/201507/29/145428ixvssx6seg4f63qk.png)
 
 
 *在PHP中对数组排序*
@@ -300,7 +300,7 @@ php > echo rand(0, 10);
 
 ```
 
-![Get Random Number in PHP](/Asserts/Images//attachment/album/201507/29/145429dxtvv62r6sotrj4h.png)
+![Get Random Number in PHP](/Asserts/Images/album/201507/29/145429dxtvv62r6sotrj4h.png)
 
 
 *在PHP中获取随机数*
@@ -334,7 +334,7 @@ $ echo -n avi | sha1sum
 
 ```
 
-![Check md5sum and sha1sum in PHP](/Asserts/Images//attachment/album/201507/29/145429ja4cbhrprpwazazd.png)
+![Check md5sum and sha1sum in PHP](/Asserts/Images/album/201507/29/145429ja4cbhrprpwazazd.png)
 
 
 *在PHP中检查md5校验和sha1校验*

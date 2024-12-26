@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,发行版]
 > 
 
 
-![](/Asserts/Images//attachment/album/202009/12/220737mc9gl0xxm9cczv2l.png)
+![](/Asserts/Images/album/202009/12/220737mc9gl0xxm9cczv2l.png)
 
 
 让我们来讨论一下什么是 Linux 发行版，为什么它被称为<ruby> 发行版 <rt>  distribution </rt></ruby>（或简称 distro），以及，它与 Linux 内核有什么不同。你还会了解到为什么有些人坚称 Linux 为 GNU/Linux。
@@ -45,13 +45,13 @@ Linux 发行版是一个由 Linux 内核、[GNU 工具](https://www.gnu.org/manu
 你可能看到到过这句话，这说的没错。内核是一个操作系统的核心，它接近于具体硬件。你使用应用程序和 shell 与它交互。
 
 
-![](/Asserts/Images//attachment/album/202009/12/220746e3d3yhh03sff3zst.png)
+![](/Asserts/Images/album/202009/12/220746e3d3yhh03sff3zst.png)
 
 
 为了理解这一点，我就用我在《[什么是 Linux 的详细指南](https://itsfoss.com/what-is-linux/)》中曾用过的那个比喻。把操作系统看成车辆，把内核看成引擎。你不能直接驱动引擎。同样，你也不能直接使用内核。
 
 
-![](/Asserts/Images//attachment/album/202009/12/220754r5b5jir27gyj7rw7.png)
+![](/Asserts/Images/album/202009/12/220754r5b5jir27gyj7rw7.png)
 
 
 一个 Linux 发行版可以看作是一个汽车制造商（比如丰田或福特）为你提供的现成的汽车，就像 Ubuntu 或 Fedora 发行版的发行商为你提供的一个基于 Linux 的现成操作系统一样。
@@ -63,7 +63,7 @@ Linux 发行版是一个由 Linux 内核、[GNU 工具](https://www.gnu.org/manu
 让我们再来看看这张图片。1991 年的时候，[Linus Torvalds](https://itsfoss.com/linus-torvalds-facts/) 创造的只是其中的最内圈，即 Linux 内核。
 
 
-![](/Asserts/Images//attachment/album/202009/12/220746e3d3yhh03sff3zst.png)
+![](/Asserts/Images/album/202009/12/220746e3d3yhh03sff3zst.png)
 
 
 要使用 Linux，即使是以最原始的形式，甚至没有 GUI，你也需要一个 shell。最常见的是 Bash shell。

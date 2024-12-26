@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,绘图]
 > 
 
 
-![](/Asserts/Images//attachment/album/202006/30/120650hlf8lm0em3l1m8zd.jpg)
+![](/Asserts/Images/album/202006/30/120650hlf8lm0em3l1m8zd.jpg)
 
 
 [Python](https://opensource.com/article/20/4/plot-data-python) 有很多可以将数据可视化的库。其中一个互动性较强的库是 Pygal，我认为这个库适合喜欢漂亮事物的人。它可以生成用户可以与之交互的漂亮的 SVG（可缩放矢量图形）文件。SVG 是交互式图形的标准格式，仅使用几行 Python 就可以带来丰富的用户体验。
@@ -27,7 +27,7 @@ tags:	[linuxcn,Python,绘图]
 在本文中，我们要重新创建多柱状图，用来表示 1966 年至 2020 年英国大选的结果：
 
 
-![Pygal plot](/Asserts/Images//attachment/album/202006/30/120757d0mm10o15vc3mx05.png "Pygal plot")
+![Pygal plot](/Asserts/Images/album/202006/30/120757d0mm10o15vc3mx05.png "Pygal plot")
 
 
 在继续之前，请注意你可能需要调整 Python 环境以使此代码运行，包括：
@@ -114,7 +114,7 @@ c.render_to_file('pygal.svg')
 结果是一个交互式 SVG 图，你可以在此 gif 中看到：
 
 
-![The Python pygal library can generate rich SVG files as seen here](/Asserts/Images//attachment/album/202006/30/120851h5a1f2jafj1ajfh6.gif "The Python pygal library can generate rich SVG files as seen here")
+![The Python pygal library can generate rich SVG files as seen here](/Asserts/Images/album/202006/30/120851h5a1f2jafj1ajfh6.gif "The Python pygal library can generate rich SVG files as seen here")
 
 
 精美简单，并且效果漂亮。

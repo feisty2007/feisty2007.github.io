@@ -7,7 +7,7 @@ tags:	[linuxcn,UCloud]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/29/113701rfalnabdr5tnottx.jpeg)
+![](/Asserts/Images/album/201812/29/113701rfalnabdr5tnottx.jpeg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,UCloud]
 日前，Linux 中国社区的老王参加了 UCloud 用户大会，并有幸和 UCloud 技术副总裁杨镭进行了面谈。以下将我们谈话中一些内容分享给大家。
 
 
-![](/Asserts/Images//attachment/album/201812/29/114034g3puz1sz5hhpq30s.jpg)
+![](/Asserts/Images/album/201812/29/114034g3puz1sz5hhpq30s.jpg)
 
 
 
@@ -138,7 +138,7 @@ tags:	[linuxcn,UCloud]
 
 
 > 
-> ![](/Asserts/Images//attachment/album/201904/29/123906p1y53ibczq5b3zz5.jpg)
+> ![](/Asserts/Images/album/201904/29/123906p1y53ibczq5b3zz5.jpg)
 > 
 > 
 > “穿山甲专访”栏目是 Linux 中国社区推出的面向开源界、互联网技术圈的重要领军人物的系列采访，将为大家介绍中国开源领域中一些积极推动开源，谙熟开源思想的技术人，并辨析其思考、挖掘其动因，揭示其背后所发生的事情，为关注开源、有志于开源的企业和技术人标出一条路径。

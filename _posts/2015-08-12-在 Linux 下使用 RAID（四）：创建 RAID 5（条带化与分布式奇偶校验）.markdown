@@ -10,7 +10,7 @@ tags:	[linuxcn,RAID]
 在 RAID 5 中，数据条带化后存储在分布式奇偶校验的多个磁盘上。分布式奇偶校验的条带化意味着它将奇偶校验信息和条带化数据分布在多个磁盘上，这样会有很好的数据冗余。
 
 
-![Setup Raid 5 in CentOS](/Asserts/Images//attachment/album/201508/27/130847s7r7w37hd47reviu.jpg)
+![Setup Raid 5 in CentOS](/Asserts/Images/album/201508/27/130847s7r7w37hd47reviu.jpg)
 
 
 *在 Linux 中配置 RAID 5*
@@ -85,7 +85,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Setup Raid 5 in CentOS](/Asserts/Images//attachment/album/201508/27/130850ee55ppie744v2tfz.png)
+![Setup Raid 5 in CentOS](/Asserts/Images/album/201508/27/130850ee55ppie744v2tfz.png)
 
 
 *CentOS 6.5 摘要*
@@ -110,7 +110,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Install mdadm Tool in CentOS](/Asserts/Images//attachment/album/201508/27/130852c3lo7o7us388272i.png)
+![Install mdadm Tool in CentOS](/Asserts/Images/album/201508/27/130852c3lo7o7us388272i.png)
 
 
 *安装 mdadm 工具*
@@ -126,7 +126,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Examine Drives For Raid](/Asserts/Images//attachment/album/201508/27/130853i6x2mit2623ii22a.png)
+![Examine Drives For Raid](/Asserts/Images/album/201508/27/130853i6x2mit2623ii22a.png)
 
 
 *检查 Raid 磁盘*
@@ -167,7 +167,7 @@ IP 地址  :    192.168.0.227
 * 使用`w`保存更改。
 
 
-![Create sdb Partition](/Asserts/Images//attachment/album/201508/27/130856poxxznqnlvxlq9vi.png)
+![Create sdb Partition](/Asserts/Images/album/201508/27/130856poxxznqnlvxlq9vi.png)
 
 
 *创建 sdb 分区*
@@ -188,7 +188,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Create sdc Partition](/Asserts/Images//attachment/album/201508/27/130901h6ip9bdrd6oipybe.png)
+![Create sdc Partition](/Asserts/Images/album/201508/27/130901h6ip9bdrd6oipybe.png)
 
 
 *创建 sdc 分区*
@@ -203,7 +203,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Create sdd Partition](/Asserts/Images//attachment/album/201508/27/130905x909oandrn589x95.png)
+![Create sdd Partition](/Asserts/Images/album/201508/27/130905x909oandrn589x95.png)
 
 
 *创建 sdd 分区*
@@ -219,7 +219,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Check Partition Changes](/Asserts/Images//attachment/album/201508/27/130906om143zq61i42e3rn.png)
+![Check Partition Changes](/Asserts/Images/album/201508/27/130906om143zq61i42e3rn.png)
 
 
 *检查磁盘变化*
@@ -231,7 +231,7 @@ IP 地址  :    192.168.0.227
 7、 现在在新创建的分区检查 RAID 块。如果没有检测到超级块，我们就能够继续下一步，在这些磁盘中创建一个新的 RAID 5 配置。
 
 
-![Check Raid on Partition](/Asserts/Images//attachment/album/201508/27/130907qx999fbytybtx8ny.png)
+![Check Raid on Partition](/Asserts/Images/album/201508/27/130907qx999fbytybtx8ny.png)
 
 
 \*在分区中检查 RAID \*
@@ -259,7 +259,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Verify Raid Device](/Asserts/Images//attachment/album/201508/27/130912pomyk5yrz5ixdqyx.png)
+![Verify Raid Device](/Asserts/Images/album/201508/27/130912pomyk5yrz5ixdqyx.png)
 
 
 *验证 Raid 设备*
@@ -274,13 +274,13 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Monitor Raid Process](/Asserts/Images//attachment/album/201508/27/130913qaznva7r27626cr1.png)
+![Monitor Raid Process](/Asserts/Images/album/201508/27/130913qaznva7r27626cr1.png)
 
 
 *监控 RAID 5 构建过程*
 
 
-![Raid 5 Process Summary](/Asserts/Images//attachment/album/201508/27/130913anszz9g69ne99gza.png)
+![Raid 5 Process Summary](/Asserts/Images/album/201508/27/130913anszz9g69ne99gza.png)
 
 
 *Raid 5 过程概要*
@@ -295,7 +295,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Verify Raid Level](/Asserts/Images//attachment/album/201508/27/130915wjyiadnfjyd4vcnm.png)
+![Verify Raid Level](/Asserts/Images/album/201508/27/130915wjyiadnfjyd4vcnm.png)
 
 
 *验证 Raid 级别*
@@ -313,7 +313,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Verify Raid Array](/Asserts/Images//attachment/album/201508/27/130916z8l7c2t8k0z3027t.png)
+![Verify Raid Array](/Asserts/Images/album/201508/27/130916z8l7c2t8k0z3027t.png)
 
 
 *验证 RAID 阵列*
@@ -331,7 +331,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Create md0 Filesystem](/Asserts/Images//attachment/album/201508/27/130918miicsftizs58i8zc.png)
+![Create md0 Filesystem](/Asserts/Images/album/201508/27/130918miicsftizs58i8zc.png)
 
 
 *创建 md0 文件系统*
@@ -361,7 +361,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Mount Raid 5 Device](/Asserts/Images//attachment/album/201508/27/130923l44wlw00wwpqcjbm.png)
+![Mount Raid 5 Device](/Asserts/Images/album/201508/27/130923l44wlw00wwpqcjbm.png)
 
 
 *挂载 RAID 设备*
@@ -378,7 +378,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Raid 5 Automount](/Asserts/Images//attachment/album/201508/27/130926fery778hefhj7hih.png)
+![Raid 5 Automount](/Asserts/Images/album/201508/27/130926fery778hefhj7hih.png)
 
 
 *自动挂载 RAID 5*
@@ -393,7 +393,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Check Fstab Errors](/Asserts/Images//attachment/album/201508/27/130927wuguug4tuuu4tua1.png)
+![Check Fstab Errors](/Asserts/Images/album/201508/27/130927wuguug4tuuu4tua1.png)
 
 
 *检查 Fstab 错误*
@@ -414,7 +414,7 @@ IP 地址  :    192.168.0.227
 
 ```
 
-![Save Raid 5 Configuration](/Asserts/Images//attachment/album/201508/27/130927bjz2ha7f27fmxu5y.png)
+![Save Raid 5 Configuration](/Asserts/Images/album/201508/27/130927bjz2ha7f27fmxu5y.png)
 
 
 *保存 RAID 5 配置*

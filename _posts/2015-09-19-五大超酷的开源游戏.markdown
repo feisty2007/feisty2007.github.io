@@ -16,7 +16,7 @@ tags:	[linuxcn,游戏]
 ### Tux Racer
 
 
-![Tux Racer](/Asserts/Images//attachment/album/201509/20/233936ul9frrfcvl87ntxt.jpg)
+![Tux Racer](/Asserts/Images/album/201509/20/233936ul9frrfcvl87ntxt.jpg)
 
 
 *Tux Racer*
@@ -28,7 +28,7 @@ tags:	[linuxcn,游戏]
 ### Warsow
 
 
-![Warsow](/Asserts/Images//attachment/album/201509/20/233936vmgg5m19fmmmjpmm.jpg)
+![Warsow](/Asserts/Images/album/201509/20/233936vmgg5m19fmmmjpmm.jpg)
 
 
 *Warsow*
@@ -40,7 +40,7 @@ tags:	[linuxcn,游戏]
 ### M.A.R.S——一个荒诞的射击游戏
 
 
-![M.A.R.S. - A ridiculous shooter](/Asserts/Images//attachment/album/201509/20/233937hply7wst9tmpm7az.jpg)
+![M.A.R.S. - A ridiculous shooter](/Asserts/Images/album/201509/20/233937hply7wst9tmpm7az.jpg)
 
 
 *M.A.R.S.——一个荒诞的射击游戏*
@@ -52,7 +52,7 @@ tags:	[linuxcn,游戏]
 ### Valyria Tear
 
 
-![Valyria Tear](/Asserts/Images//attachment/album/201509/20/233938t2ocqu1rov2cniml.jpg)
+![Valyria Tear](/Asserts/Images/album/201509/20/233938t2ocqu1rov2cniml.jpg)
 
 
 *Valyria Tear*
@@ -64,7 +64,7 @@ tags:	[linuxcn,游戏]
 ### SuperTuxKart
 
 
-![SuperTuxKart](/Asserts/Images//attachment/album/201509/20/233938uo2oesg3gilol2pp.jpg)
+![SuperTuxKart](/Asserts/Images/album/201509/20/233938uo2oesg3gilol2pp.jpg)
 
 
 *SuperTuxKart*

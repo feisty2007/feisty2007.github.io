@@ -15,7 +15,7 @@ tags:	[linuxcn,黑客,终端]
 > 
 
 
-![](/Asserts/Images//attachment/album/201804/29/182852stve7idzo75mootz.jpg)
+![](/Asserts/Images/album/201804/29/182852stve7idzo75mootz.jpg)
 
 
 如果在你在消磨时光时看过谍战片、动作片或犯罪片，那么你就会清晰地在脑海中勾勒出黑客的电脑屏幕的样子。就像是在《黑客帝国》电影中，[代码雨](http://tvtropes.org/pmwiki/pmwiki.php/Main/MatrixRainingCode) 一样的十六进制数字流，又或是一排排快速移动的代码。
@@ -45,7 +45,7 @@ tags:	[linuxcn,黑客,终端]
 Genact [发布了](https://github.com/svenstaro/genact/releases) 支持 Linux、OS X 和 Windows 的版本。并且其 Rust [源代码](https://github.com/svenstaro/genact) 在 GitHub 上开源（遵循 [MIT 许可证](https://github.com/svenstaro/genact/blob/master/LICENSE)）。
 
 
-![](/Asserts/Images//attachment/album/201804/29/182912r7u2ccfmv7b9gzbp.gif)
+![](/Asserts/Images/album/201804/29/182912r7u2ccfmv7b9gzbp.gif)
 
 
 ### Hollywood
@@ -57,7 +57,7 @@ Hollywood 采取更直接的方法。它本质上是在终端中创建一个随�
 Hollywood的 [源代码](https://github.com/dustinkirkland/hollywood) 在 GitHub 上开源（遵循 [Apache 2.0 许可证](http://www.apache.org/licenses/LICENSE-2.0)）。
 
 
-![](/Asserts/Images//attachment/album/201804/29/182915rgm31jg2mjjow53i.gif)
+![](/Asserts/Images/album/201804/29/182915rgm31jg2mjjow53i.gif)
 
 
 ### Blessed-contrib
@@ -69,7 +69,7 @@ Blessed-contrib 是我个人最喜欢的应用，实际上并不是为了这种�
 Blessed-contrib 的[源代码](https://github.com/yaronn/blessed-contrib)在 GitHub 上（遵循 [MIT 许可证](http://opensource.org/licenses/MIT)）。
 
 
-![](/Asserts/Images//attachment/album/201804/29/182919l48zb6trk83fbq8i.gif)
+![](/Asserts/Images/album/201804/29/182919l48zb6trk83fbq8i.gif)
 
 
 当然，尽管这些工具很容易使用，但也有很多其他的方式使你的屏幕丰富。在你看到电影中最常用的工具之一就是Nmap，这是一个开源的网络安全扫描工具。实际上，它被广泛用作展示好莱坞电影中，黑客电脑屏幕上的工具。因此 Nmap 的开发者创建了一个 [页面](https://nmap.org/movies/)，列出了它出现在其中的一些电影，从《黑客帝国 2：重装上阵》到《谍影重重3》、《龙纹身的女孩》，甚至《虎胆龙威 4》。

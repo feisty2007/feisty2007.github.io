@@ -15,7 +15,7 @@ tags:	[linuxcn,开源,LibreOffice]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/16/230450d6u6u9hb1q9wx69c.jpg)
+![](/Asserts/Images/album/202206/16/230450d6u6u9hb1q9wx69c.jpg)
 
 
 “参与”开源似乎有点令人困惑。你从哪里开始？如果你不会编程怎么办？你取得谁的同意？别人怎么知道你做出了贡献，会有人关心吗？

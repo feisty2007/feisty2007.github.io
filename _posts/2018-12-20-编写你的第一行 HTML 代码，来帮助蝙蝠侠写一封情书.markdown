@@ -7,7 +7,7 @@ tags:	[linuxcn,HTML]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/04/100208p2a4ob58w827weqe.jpeg)
+![](/Asserts/Images/album/201812/04/100208p2a4ob58w827weqe.jpeg)
 
 
 在一个美好的夜晚，你的肚子拒绝消化你在晚餐吃的大块披萨，所以你不得不在睡梦中冲进洗手间。
@@ -155,7 +155,7 @@ I have learned a lot from you. You have occupied a special place in my heart ove
 保存并刷新浏览器。
 
 
-![](/Asserts/Images//attachment/album/201812/04/100227eagpk5nzmgpijpg0.jpeg)
+![](/Asserts/Images/album/201812/04/100227eagpk5nzmgpijpg0.jpeg)
 
 
 哇！这里发生了什么，我们的列表在哪里？
@@ -184,7 +184,7 @@ I have learned a lot from you. You have occupied a special place in my heart ove
 保存并刷新：
 
 
-![](/Asserts/Images//attachment/album/201812/04/100243djysrwowf5ysu81y.jpeg)
+![](/Asserts/Images/album/201812/04/100243djysrwowf5ysu81y.jpeg)
 
 
 好的，现在它看起来就像我们想要的那样！
@@ -234,7 +234,7 @@ I have learned a lot from you. You have occupied a special place in my heart ove
 让我们保存文件并刷新浏览器以查看结果：
 
 
-![](/Asserts/Images//attachment/album/201812/04/100258fq5mcqvkz5cckuqs.jpeg)
+![](/Asserts/Images/album/201812/04/100258fq5mcqvkz5cckuqs.jpeg)
 
 
 你会立即注意到在每个列表项之前显示了重点标志。我们现在不需要在每个列表项之前写 “-”。
@@ -317,7 +317,7 @@ I have learned a lot from you. You have occupied a special place in my heart ove
 你可以使用 `<h1>`、`<h2>`、`<h3>`、`<h4>`、`<h5>` 和 `<h6>` 标签来添加标题，`<h1>` 是最大的标题和最主要的标题，`<h6>` 是最小的标题。
 
 
-![](/Asserts/Images//attachment/album/201812/04/100314tf5shzsjh1js81hq.jpeg)
+![](/Asserts/Images/album/201812/04/100314tf5shzsjh1js81hq.jpeg)
 
 
 让我们在第二段之前使用 `<h1>` 做主标题和一个副标题：
@@ -352,7 +352,7 @@ I have learned a lot from you. You have occupied a special place in my heart ove
 保存，刷新。
 
 
-![](/Asserts/Images//attachment/album/201812/04/100326sokee0o0dime1twk.jpeg)
+![](/Asserts/Images/album/201812/04/100326sokee0o0dime1twk.jpeg)
 
 
 ### HTML 中的图像
@@ -409,7 +409,7 @@ I have learned a lot from you. You have occupied a special place in my heart ove
 保存并刷新，查看结果。
 
 
-![](/Asserts/Images//attachment/album/201812/04/100342vsm2qv81ggqq8mf1.jpeg)
+![](/Asserts/Images/album/201812/04/100342vsm2qv81ggqq8mf1.jpeg)
 
 
 该死的！刚刚发生了什么？
@@ -451,7 +451,7 @@ I have learned a lot from you. You have occupied a special place in my heart ove
 保存并刷新，查看结果。
 
 
-![](/Asserts/Images//attachment/album/201812/04/100359cn9rwt6w6xa665af.jpeg)
+![](/Asserts/Images/album/201812/04/100359cn9rwt6w6xa665af.jpeg)
 
 
 太棒了！这让蝙蝠侠的脸露出了羞涩的微笑 :)。
@@ -478,7 +478,7 @@ I don’t show my emotions, but I think this man behind the mask is falling for 
 “这是给超人的。”
 
 
-![](/Asserts/Images//attachment/album/201812/04/100414xzozig0zlgxgqgmg.jpeg)
+![](/Asserts/Images/album/201812/04/100414xzozig0zlgxgqgmg.jpeg)
 
 
 你说：哦！我还以为是给神奇女侠的呢。
@@ -574,7 +574,7 @@ I don’t show my emotions, but I think this man behind the mask is falling for 
 </div>
 ```
 
-![](/Asserts/Images//attachment/album/201812/04/100431og66r0mvtxumvguu.jpeg)
+![](/Asserts/Images/album/201812/04/100431og66r0mvtxumvguu.jpeg)
 
 
 ### HTML 中的样式
@@ -933,7 +933,7 @@ link 元素的结尾没有 `</link>`。因此，`<link>` 也是一个自闭合�
 你可能已经注意到选项卡的标题正在显示 HTML 文件的路径：
 
 
-![](/Asserts/Images//attachment/album/201812/04/100455wr7ccf87fffzl9r1.jpeg)
+![](/Asserts/Images/album/201812/04/100455wr7ccf87fffzl9r1.jpeg)
 
 
 我们可以使用 `<title>` 标签来定义 HTML 文件的标题。标题标签也像链接标签一样在 `<head>` 内部。让我们我们在标题中加上 “Bat Letter”：
@@ -992,7 +992,7 @@ link 元素的结尾没有 `</link>`。因此，`<link>` 也是一个自闭合�
 恭喜！你用 HTML 制作了蝙蝠侠的情书。
 
 
-![](/Asserts/Images//attachment/album/201812/04/100509dgvqqy6g3un8q6zg.jpeg)
+![](/Asserts/Images/album/201812/04/100509dgvqqy6g3un8q6zg.jpeg)
 
 
 ### 我们学到了什么

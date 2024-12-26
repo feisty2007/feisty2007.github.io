@@ -10,7 +10,7 @@ tags:	[linuxcn,编程语言,Go]
 几个星期前，我一个朋友问我：“为什么要关心 Go 语言”？ 因为他们知道我热衷于 Go 语言，但他们想知道为什么我认为*其他人*也应该关心。本文包含三个我认为 Go 是重要的编程语言的原因。
 
 
-![](/Asserts/Images//attachment/album/201704/02/180352wzvhlh955q5zl9ff.jpg)
+![](/Asserts/Images/album/201704/02/180352wzvhlh955q5zl9ff.jpg)
 
 
 ### 安全

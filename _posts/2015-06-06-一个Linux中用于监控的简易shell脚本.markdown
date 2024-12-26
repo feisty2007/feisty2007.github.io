@@ -13,7 +13,7 @@ tags:	[linuxcn,监控,脚本]
 我们已经注意并进行了格式化输出（在一定程度上哦）。此脚本不包含任何恶意内容，并且它能以普通用户帐号运行。事实上，我们也推荐你以普通用户运行该脚本，而不是root。
 
 
-![Linux Server Health Monitoring](/Asserts/Images//attachment/album/201506/11/001512f21f993j3f3f1ffi.png)
+![Linux Server Health Monitoring](/Asserts/Images/album/201506/11/001512f21f993j3f3f1ffi.png)
 
 
 *监控Linux系统健康的Shell脚本*
@@ -93,7 +93,7 @@ $ monitor
 
 ```
 
-![TecMint Monitor Script in Action](/Asserts/Images//attachment/album/201506/11/001515wfa5cbf4xok2qahc.gif)
+![TecMint Monitor Script in Action](/Asserts/Images/album/201506/11/001515wfa5cbf4xok2qahc.gif)
 
 
 你运行命令就会获得下面这些各种各样和系统相关的信息：

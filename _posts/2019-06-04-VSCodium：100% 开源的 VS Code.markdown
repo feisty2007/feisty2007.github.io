@@ -48,7 +48,7 @@ VS Code 的源码是在 MIT 许可下开源的。你可以在 [GitHub](https://g
 ### VSCodium：100％ 开源形式的 Visual Studio Code
 
 
-![](/Asserts/Images//attachment/album/201906/27/114807g12qgmdd0042g2bb.png)
+![](/Asserts/Images/album/201906/27/114807g12qgmdd0042g2bb.png)
 
 
 [VSCodium](https://vscodium.com/) 是微软 Visual Studio Code 的一个分支。该项目的唯一目的是为你提供现成的二进制文件，而没有 Microsoft 的远程收集代码。
@@ -63,19 +63,19 @@ VS Code 的源码是在 MIT 许可下开源的。你可以在 [GitHub](https://g
 这是 Ubuntu 中第一次运行 VS Code 和 VSCodium 的截图。你能分辨出来吗？
 
 
-![Can you guess which is VSCode and VSCodium?](/Asserts/Images//attachment/album/201906/27/114811mgi05zlhld36ulld.png)
+![Can you guess which is VSCode and VSCodium?](/Asserts/Images/album/201906/27/114811mgi05zlhld36ulld.png)
 
 
 如果你无法区分这两者，请看下面。
 
 
-![That’s Microsoft](/Asserts/Images//attachment/album/201906/27/114813spyp99p7poo97pre.png)
+![That’s Microsoft](/Asserts/Images/album/201906/27/114813spyp99p7poo97pre.png)
 
 
 除此之外，还有两个应用的 logo，没有其他明显的区别。
 
 
-![VSCodium and VS Code in GNOME Menu](/Asserts/Images//attachment/album/201906/27/114815ym8s8ycd8ays81yz.jpg)
+![VSCodium and VS Code in GNOME Menu](/Asserts/Images/album/201906/27/114815ym8s8ycd8ays81yz.jpg)
 
 
 #### 在 Linux 上安装 VSCodium

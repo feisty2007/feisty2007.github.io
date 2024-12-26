@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/24/115300zf7jjse8k7hjdbm8.jpg)
+![](/Asserts/Images/album/202308/24/115300zf7jjse8k7hjdbm8.jpg)
 
 
 
@@ -55,7 +55,7 @@ LibreOffice 7.6 是这款优秀的开源办公套件的最新重要升级。
 此次更新中的主要亮点是提供了对文档主题的支持。简单来说，当需要的时候，你可以为你的文档标题、正文和副标题挑选一套预设的颜色搭配。
 
 
-![](/Asserts/Images//attachment/album/202308/24/115415wizbyqzvufqq8efx.png)
+![](/Asserts/Images/album/202308/24/115415wizbyqzvufqq8efx.png)
 
 
 你可以通过菜单 “<ruby> 格式 <rt>  Format </rt></ruby> → <ruby> 主题 <rt>  Themes </rt></ruby>” 来找到这项功能。
@@ -67,13 +67,13 @@ LibreOffice 7.6 是这款优秀的开源办公套件的最新重要升级。
 新增了一个选项，使你能够通过聚光灯功能在文本中高亮显示段落样式或直接格式。
 
 
-![](/Asserts/Images//attachment/album/202308/24/115415zlrwwl0l20q0qkl0.png)
+![](/Asserts/Images/album/202308/24/115415zlrwwl0l20q0qkl0.png)
 
 
 在面向用户体验的改进方面，你在编辑文档时可以从侧边栏方便快捷地找 到 “<ruby> 无障碍检查 <rt>  Accesbility Check </rt></ruby>” 选项。
 
 
-![](/Asserts/Images//attachment/album/202308/24/115415i9icnn2n2m92mjlk.jpg)
+![](/Asserts/Images/album/202308/24/115415i9icnn2n2m92mjlk.jpg)
 
 
 其他改动包括：
@@ -88,7 +88,7 @@ LibreOffice 7.6 是这款优秀的开源办公套件的最新重要升级。
 #### Calc 的改进
 
 
-![](/Asserts/Images//attachment/album/202308/24/115416h2ytb711y97h1bhv.png)
+![](/Asserts/Images/album/202308/24/115416h2ytb711y97h1bhv.png)
 
 
 新的颜色排序功能使得排序变得更为容易。
@@ -120,7 +120,7 @@ LibreOffice 7.6 是这款优秀的开源办公套件的最新重要升级。
 #### 其他变化
 
 
-![](/Asserts/Images//attachment/album/202308/24/115416t6wznountnwwapwk.png)
+![](/Asserts/Images/album/202308/24/115416t6wznountnwwapwk.png)
 
 
 除了之前的亮点，你还可以得到一个已有所改进的 “<ruby> 帮助 <rt>  Help </rt></ruby>” 部分。这里将展示关于改变布局或快速完成许多任务所需的命令/快捷键信息。
@@ -146,19 +146,19 @@ LibreOffice 7.6 是这款优秀的开源办公套件的最新重要升级。
 如果你还没有安装它并想要获取新版本，只需要根据你的需求（DEB/RPM）简单地 [下载 tar 包](https://www.libreoffice.org/download/download-libreoffice/)。
 
 
-![](/Asserts/Images//attachment/album/202308/24/115417mazq6wty4g6q6m66.png)
+![](/Asserts/Images/album/202308/24/115417mazq6wty4g6q6m66.png)
 
 
 接下来，解压这个包，并在 `DEBS` 或 `RPMS` 文件夹下找到所有 .deb/.rpm 文件。
 
 
-![](/Asserts/Images//attachment/album/202308/24/115417fvhpbw1p9rd129yr.png)
+![](/Asserts/Images/album/202308/24/115417fvhpbw1p9rd129yr.png)
 
 
 当你进入这个文件夹，在终端中使用右键菜单打开它（如图所示）并根据你的包输入以下命令之一（适用于 Fedora 和基于 Debian 的发行版）：
 
 
-![](/Asserts/Images//attachment/album/202308/24/115417ye3e219ttt24twwt.png)
+![](/Asserts/Images/album/202308/24/115417ye3e219ttt24twwt.png)
 
 
 

@@ -15,7 +15,7 @@ tags:	[linuxcn,猜数字,Awk]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/03/130545jthh1vtoadahwahd.jpg)
+![](/Asserts/Images/album/202206/03/130545jthh1vtoadahwahd.jpg)
 
 
 当你学习一门新的编程语言时，最好把重点放在大多数编程语言都有的共同点上:

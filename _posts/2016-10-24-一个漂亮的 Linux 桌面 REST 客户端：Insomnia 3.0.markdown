@@ -7,7 +7,7 @@ tags:	[linuxcn,REST,Insomnia]
 ---
 
 
-![](/Asserts/Images//attachment/album/201610/03/230115csifmat28rmzdr09.png)
+![](/Asserts/Images/album/201610/03/230115csifmat28rmzdr09.png)
 
 
 正在为 Linux 桌面端找一个免费的 REST 客户端？ 别睡不着觉了！试试 [Insomnia](http://insomnia.rest/)。

@@ -7,7 +7,7 @@ tags:	[linuxcn,网络监控,Bro]
 ---
 
 
-[![Bro Network Analysis Logo](/Asserts/Images//attachment/album/201707/30/110852kjgkm5pkdygk5jep.jpg "brologo")](https://www.unixmen.com/wp-content/uploads/2017/07/brologo.jpg)
+[![Bro Network Analysis Logo](/Asserts/Images/album/201707/30/110852kjgkm5pkdygk5jep.jpg "brologo")](https://www.unixmen.com/wp-content/uploads/2017/07/brologo.jpg)
 
 
 ### 简介：Bro 网络分析框架
@@ -78,8 +78,8 @@ Bro 使用 GeoIP 的定位地理位置。安装 IPv4 和 IPv6 版本：
 
 
 ```
-$ wget http://geolite.maxmind.com/download/geoip/Asserts/Images/base/GeoLiteCity.dat.gz
-$wget http://geolite.maxmind.com/download/geoip/Asserts/Images/base/GeoLiteCityv6-beta/GeoLiteCityv6.dat.gz
+$ wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+$wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCityv6-beta/GeoLiteCityv6.dat.gz
 
 ```
 

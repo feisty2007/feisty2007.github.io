@@ -10,7 +10,7 @@ tags:	[linuxcn,sysstat]
 **Sysstat**是一个非常方便的工具，它带有众多的系统资源监控工具，用于监控系统的性能和使用情况。我们在日常使用的工具中有相当一部分是来自sysstat工具包的。同时，它还提供了一种使用cron表达式来制定性能和活动数据的收集计划。
 
 
-![](/Asserts/Images//attachment/album/201410/16/141737dy24thy1om12dof2.png)
+![](/Asserts/Images/album/201410/16/141737dy24thy1om12dof2.png)
 
 
 下表是包含在sysstat包中的工具
@@ -57,7 +57,7 @@ sar、sadc和sadf命令在数据文件方面同样带来了一些功能上的增
 ```
 
 
-![Download Sysstat Package](/Asserts/Images//attachment/album/201410/16/142016e9porbbyvj9msbfp.png)
+![Download Sysstat Package](/Asserts/Images/album/201410/16/142016e9porbbyvj9msbfp.png)
 
 
 *下载sysstat包*
@@ -88,7 +88,7 @@ sar、sadc和sadf命令在数据文件方面同样带来了一些功能上的增
 
 ```
 
-![Sysstat iconfig Command](/Asserts/Images//attachment/album/201410/16/142019wgf5motvf1vflvil.png)
+![Sysstat iconfig Command](/Asserts/Images/album/201410/16/142019wgf5motvf1vflvil.png)
 
 
 *sysstat的iconfig命令*
@@ -106,7 +106,7 @@ sar、sadc和sadf命令在数据文件方面同样带来了一些功能上的增
 
 ```
 
-![Sysstat Configure Help](/Asserts/Images//attachment/album/201410/16/142023a16kvh1ih616n1i3.png)
+![Sysstat Configure Help](/Asserts/Images/album/201410/16/142023a16kvh1ih616n1i3.png)
 
 
 *stsstat的cofigure -help*
@@ -123,7 +123,7 @@ sar、sadc和sadf命令在数据文件方面同样带来了一些功能上的增
 
 ```
 
-![Configure Sysstat in Linux](/Asserts/Images//attachment/album/201410/16/142026u9fdbdwhdddwdvb9.png)
+![Configure Sysstat in Linux](/Asserts/Images/album/201410/16/142026u9fdbdwhdddwdvb9.png)
 
 
 *在Linux系统中配置sysstat*

@@ -15,7 +15,7 @@ tags:	[linuxcn,Git,SQL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/13/230413ddcpm87p2bds18db.jpg)
+![](/Asserts/Images/album/202204/13/230413ddcpm87p2bds18db.jpg)
 
 
 Git 已经成为了代码版本控制的事实标准。虽然 Git 已经很流行了，但想用它来对源代码仓库的历史和内容进行深度分析，仍然是一件复杂的事情。
@@ -30,7 +30,7 @@ Git 已经成为了代码版本控制的事实标准。虽然 Git 已经很流�
 [Gitbase](https://github.com/src-d/gitbase) 是一个完全开源的项目，它站在一系列巨人的肩膀上，是它们使 Gitbase 的发展成为可能。本文旨在指出其中的主要部分。
 
 
-![](/Asserts/Images//attachment/album/202204/13/230432g3s0su4ujozmezi2.png)
+![](/Asserts/Images/album/202204/13/230432g3s0su4ujozmezi2.png)
 
 
 *[Gitbase 试验场](https://github.com/src-d/gitbase-web) 提供了一种使用 Gitbase 的可视化方式。*

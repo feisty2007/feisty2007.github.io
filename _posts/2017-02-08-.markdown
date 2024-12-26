@@ -25,9 +25,9 @@ excerpt: 你在新的一年里需要刷哪些技能？
 fromurl: https://opensource.com/article/17/1/yearbook-4-hot-skills-linux-pros-2017
 id: 8164
 islctt: true
-largepic: /Asserts/Images//attachment/album/201701/31/233141le334md33m1i3dje.jpg
+largepic: /Asserts/Images/album/201701/31/233141le334md33m1i3dje.jpg
 permalink: /article-8164-1.html
-pic: /Asserts/Images//attachment/album/201701/31/233141le334md33m1i3dje.jpg.thumb.jpg
+pic: /Asserts/Images/album/201701/31/233141le334md33m1i3dje.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -50,7 +50,7 @@ updated: '2017-02-01 09:24:00'
 > 
 
 
-![](/Asserts/Images//attachment/album/201701/31/233141le334md33m1i3dje.jpg)
+![](/Asserts/Images/album/201701/31/233141le334md33m1i3dje.jpg)
 
 
 成为 Linux 专家的一个问题是“专家”的定义在不断变化。当我进入 Linux 世界的时候，那时认为成为一个 *Linux 专家*，你需要能够编译自己的内核。天啊，如果你想在笔记本电脑上使用 Linux，即便你只是*用户*，你也必须编译一个自定义内核。 如今编译自己的内核通常是浪费时间。这不是说它并不重要，但在开源世界，我们建立在他人成功的基础之上，而 Linux 发行版为我们提供了运行良好的内核。虽然“专家”的定义并不总是那么剧烈变化，但对 IT 专业人员的需求每年都在变化。

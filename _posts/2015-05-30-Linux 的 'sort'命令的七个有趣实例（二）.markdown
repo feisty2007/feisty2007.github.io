@@ -13,7 +13,7 @@ tags:	[linuxcn,命令,sort]
 * [Linux 的 ‘sort’命令的14个有用的范例（一）](http://www.tecmint.com/sort-command-linux/)
 
 
-![](/Asserts/Images//attachment/album/201505/02/102959wecogvuagsouuvke.png)
+![](/Asserts/Images/album/201505/02/102959wecogvuagsouuvke.png)
 
 
 在我们继续深入之前，先创建一个文本文档‘month.txt’，并且将上一次给出的数据填进去。
@@ -26,7 +26,7 @@ $ cat month.txt
 
 ```
 
-![Populate Content](/Asserts/Images//attachment/album/201505/02/105700klkfmvv0flbsskf6.gif)
+![Populate Content](/Asserts/Images/album/201505/02/105700klkfmvv0flbsskf6.gif)
 
 
 15、 通过使用’M‘选项，对’month.txt‘文件按照月份顺序进行排序。
@@ -41,7 +41,7 @@ $ sort -M month.txt
 **注意**:‘sort’命令需要至少3个字符来确认月份名称。
 
 
-![Sort File Content by Month in Linux](/Asserts/Images//attachment/album/201505/02/105701p2wxy026s0z023to.gif)
+![Sort File Content by Month in Linux](/Asserts/Images/album/201505/02/105701p2wxy026s0z023to.gif)
 
 
 16、 把数据整理成方便人们阅读的形式，比如1K、2M、3G、2T，这里面的K、G、M、T代表千、兆、吉、梯。 （LCTT 译注：此处命令有误，ls 命令应该增加 -h 参数，径改之）
@@ -53,7 +53,7 @@ $ ls -lh /home/$USER | sort -h -k5
 
 ```
 
-![Sort Content Human Readable Format](/Asserts/Images//attachment/album/201505/02/105701wxxuatq5zu9qtzmk.gif)
+![Sort Content Human Readable Format](/Asserts/Images/album/201505/02/105701wxxuatq5zu9qtzmk.gif)
 
 
 17、 在上一篇文章中，我们在例子4中创建了一个名为‘sorted.txt’的文件，在例子6中创建了一个‘lsl.txt’。‘sorted.txt'已经排好序了而’lsl.txt‘还没有。让我们使用sort命令来检查两个文件是否已经排好序。
@@ -65,7 +65,7 @@ $ sort -c sorted.txt
 
 ```
 
-![Check File is Sorted](/Asserts/Images//attachment/album/201505/02/105702lsqqcyrsncwcffqj.gif)
+![Check File is Sorted](/Asserts/Images/album/201505/02/105702lsqqcyrsncwcffqj.gif)
 
 
 如果它返回0，则表示文件已经排好序。
@@ -77,7 +77,7 @@ $ sort -c lsl.txt
 
 ```
 
-![Check File Sorted Status](/Asserts/Images//attachment/album/201505/02/105702gyahwzs46p5s21a2.gif)
+![Check File Sorted Status](/Asserts/Images/album/201505/02/105702gyahwzs46p5s21a2.gif)
 
 
 报告无序。存在矛盾……
@@ -109,7 +109,7 @@ $ cat delimiter.txt
 
 ```
 
-![Check File Content by Delimiter](/Asserts/Images//attachment/album/201505/02/105702uxrgssqxvglzlstn.gif)
+![Check File Content by Delimiter](/Asserts/Images/album/201505/02/105702uxrgssqxvglzlstn.gif)
 
 
 现在基于由数字组成的第一个域来进行排序。
@@ -121,13 +121,13 @@ $ sort -t '+' -nk1 delimiter.txt
 
 ```
 
-![Sort File By Fields](/Asserts/Images//attachment/album/201505/02/105703mnrarjnx7nddwnb0.gif)
+![Sort File By Fields](/Asserts/Images/album/201505/02/105703mnrarjnx7nddwnb0.gif)
 
 
 然后再基于非数字的第四个域排序。
 
 
-![Sort Content By Non Numeric](/Asserts/Images//attachment/album/201505/02/105703nxjyhizvvx8j5nxk.gif)
+![Sort Content By Non Numeric](/Asserts/Images/album/201505/02/105703nxjyhizvvx8j5nxk.gif)
 
 
 如果分隔符是制表符，你需要在’+‘的位置上用$’\t’代替，如上例所示。
@@ -142,7 +142,7 @@ $ ls -l /home/avi/ | sort -k5 -R
 
 ```
 
-![Sort Content by Column in Random Order](/Asserts/Images//attachment/album/201505/02/105704pw69nw6hwhcwavww.gif)
+![Sort Content by Column in Random Order](/Asserts/Images/album/201505/02/105704pw69nw6hwhcwavww.gif)
 
 
 每一次你运行上面的脚本，你得到结果可能都不一样，因为结果是随机生成的。
@@ -169,7 +169,7 @@ $ sort tecmint.txt
 
 ```
 
-![Override Sorting Preferences](/Asserts/Images//attachment/album/201505/02/105706occ4t7a7h4m999m9.gif)
+![Override Sorting Preferences](/Asserts/Images/album/201505/02/105706occ4t7a7h4m999m9.gif)
 
 
 *覆盖排序优先权*
@@ -184,7 +184,7 @@ $ sort -f tecmint.txt
 
 ```
 
-![Compare Sorting Preferences](/Asserts/Images//attachment/album/201505/02/105706sn54r2dspz2nbr2v.gif)
+![Compare Sorting Preferences](/Asserts/Images/album/201505/02/105706sn54r2dspz2nbr2v.gif)
 
 
 21、 给两个输入文件进行‘sort‘，然后把它们连接成一行！
@@ -200,7 +200,7 @@ $ cat file1.txt
 
 ```
 
-![Populate Content with Numbers](/Asserts/Images//attachment/album/201505/02/105707j38vk01w78yt0g00.gif)
+![Populate Content with Numbers](/Asserts/Images/album/201505/02/105707j38vk01w78yt0g00.gif)
 
 
 用如下数据填充’file2.txt‘。
@@ -213,7 +213,7 @@ $ cat file2.txt
 
 ```
 
-![Populate File with Data](/Asserts/Images//attachment/album/201505/02/105707drz8fbflwl50enze.gif)
+![Populate File with Data](/Asserts/Images/album/201505/02/105707drz8fbflwl50enze.gif)
 
 
 现在我们对两个文件进行排序并连接。
@@ -225,7 +225,7 @@ $ join <(sort -n file1.txt) <(sort file2.txt)
 
 ```
 
-![Sort Join Two Files](/Asserts/Images//attachment/album/201505/02/105708uumm00x22i5z2k07.gif)
+![Sort Join Two Files](/Asserts/Images/album/201505/02/105708uumm00x22i5z2k07.gif)
 
 
 我所要讲的全部内容就在这里了，希望与各位保持联系，也希望各位经常来逛逛。有反馈就在下面评论吧。

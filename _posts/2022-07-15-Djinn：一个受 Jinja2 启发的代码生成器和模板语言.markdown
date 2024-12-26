@@ -7,7 +7,7 @@ tags:	[linuxcn,代码生成器,Jinja2]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/04/101711nq2we7z7x7wz2z7e.jpg)
+![](/Asserts/Images/album/202207/04/101711nq2we7z7x7wz2z7e.jpg)
 
 
 代码生成器是非常有用的工具。我有时使用 [jinja2](https://jinja2docs.readthedocs.io/en/stable/) 的命令行版本来生成高度冗余的配置文件和其他文本文件，但它在转换数据方面功能有限。显然，Jinja2 的作者有不同的想法，而我想要类似于 <ruby> 列表推导 <rt>  list comprehensions </rt></ruby> 或 D 语言的 <ruby> 可组合范围 <rt>  composable range </rt></ruby> 算法之类的东西。
@@ -150,7 +150,7 @@ $ gm convert mandelbrot.pgm mandelbrot.png
 结果如下：
 
 
-![](/Asserts/Images//attachment/album/202207/04/101716nh6t32cop2ozu6th.png)
+![](/Asserts/Images/album/202207/04/101716nh6t32cop2ozu6th.png)
 
 
 ### 解决谜题
@@ -159,7 +159,7 @@ $ gm convert mandelbrot.pgm mandelbrot.png
 这里有一个谜题：
 
 
-![](/Asserts/Images//attachment/album/202207/04/101716exxxx333kkkcx6g3.svg)
+![](/Asserts/Images/album/202207/04/101716exxxx333kkkcx6g3.svg)
 
 
 一个 5 行 5 列的网格需要用 1 到 5 的数字填充，每个数字在每一行中限使用一次，在每列中限使用一次（即，制作一个 5 行 5 列的<ruby> 拉丁方格 <rt>  Latin square </rt></ruby>）。相邻单元格中的数字还必须满足所有 `>` 大于号表示的不等式。
@@ -286,7 +286,7 @@ sys     0m0.005s
 这是在原始网格中写出的解决方案：
 
 
-![](/Asserts/Images//attachment/album/202207/04/101717cjbaza2ds0j2qjj1.svg)
+![](/Asserts/Images/album/202207/04/101717cjbaza2ds0j2qjj1.svg)
 
 
 这些例子只是用来玩的，但我相信你已经明白了。顺便说一下，Djinn 代码仓库的 `README.md` 文件本身是使用 Djinn 模板生成的。

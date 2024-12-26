@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Google,云平台]
 ---
 
 
-![](/Asserts/Images//attachment/album/201411/14/144447smwwbeao07wmojb1.jpg)
+![](/Asserts/Images/album/201411/14/144447smwwbeao07wmojb1.jpg)
 
 
 自从Canonical和Google合作后，Canonical宣布已经在Google云平台发布Ubuntu14.04LTS、12.04LTS和14.10的公开beta版本。“从今天起，可以在Google云平台上选择优化过的、最新的、十分安全和一致的Ubuntu镜像”Canonical的公告称，“Canonical将会继续地维护、测试和更新认证的Ubuntu镜像，在官方版本发布后，Google云平台马上就会拥有最新版本”。

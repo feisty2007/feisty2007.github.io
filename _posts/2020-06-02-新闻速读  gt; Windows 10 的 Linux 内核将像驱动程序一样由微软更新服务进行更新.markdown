@@ -7,7 +7,7 @@ tags:	[linuxcn,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/13/152357dz57c288808upcc2.jpg)
+![](/Asserts/Images/album/202006/13/152357dz57c288808upcc2.jpg)
 
 
 #### Windows 10 的 Linux 内核将像驱动程序一样由微软更新服务进行更新

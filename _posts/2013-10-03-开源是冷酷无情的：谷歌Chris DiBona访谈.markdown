@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,谷歌,Google,Linux,社区]
 ---
 
 
- ![](/Asserts/Images//attachment/album/201404/09/151323entskscsvvkvnawq.png)
+ ![](/Asserts/Images/album/201404/09/151323entskscsvvkvnawq.png)
 
 
 Chris DiBona是谷歌开源总监。他也是开源界杰出的领军人物之一，这还要追溯到他的大学时期，那时他对Linux可谓一见钟情。

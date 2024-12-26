@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/09/144440imzc7qk724e3c42q.jpg)
+![](/Asserts/Images/album/201609/09/144440imzc7qk724e3c42q.jpg)
 
 
 Linux 系统在早期的时候被人们嘲笑，它什么也干不了。而现在，Linux 无处不在！

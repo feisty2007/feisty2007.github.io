@@ -15,7 +15,7 @@ tags:	[linuxcn,Macintosh]
 > 
 
 
-![MLVWM running on Slackware 14.2](/Asserts/Images//attachment/album/201912/27/204924i1htr017siaxnfss.jpg "MLVWM running on Slackware 14.2")
+![MLVWM running on Slackware 14.2](/Asserts/Images/album/201912/27/204924i1htr017siaxnfss.jpg "MLVWM running on Slackware 14.2")
 
 
 想象一下穿越到另一段平行历史，Apple II GS 和 MacOS 7 是基于开源 [POSIX](https://opensource.com/article/19/7/what-posix-richard-stallman-explains) 构建的，它使用了与现代 Linux 相同的所有惯例，例如纯文本配置文件和模块化系统设计。这样的操作系统将为其用户带来什么？你可以使用 [Macintosh 式的虚拟窗口管理器（MLVWM）](http://www2u.biglobe.ne.jp/%7Ey-miyata/mlvwm.html)来回答这些问题（甚至更多！）。
@@ -206,13 +206,13 @@ Type=Application
 对于 GDM：
 
 
-![](/Asserts/Images//attachment/album/201912/27/204934n8zvrkxqxbly6k88.jpg)
+![](/Asserts/Images/album/201912/27/204934n8zvrkxqxbly6k88.jpg)
 
 
 对于 SDDM：
 
 
-![](/Asserts/Images//attachment/album/201912/27/204937f8q4p3p48pqt5u47.jpg)
+![](/Asserts/Images/album/201912/27/204937f8q4p3p48pqt5u47.jpg)
 
 
 #### 强制启动
@@ -221,7 +221,7 @@ Type=Application
 如果 MLVWM 无法启动，请尝试安装 XDM，这是一个轻量级会话管理器，它不会查询 `/usr/share/xsessions` 的内容，而是执行经过身份验证用户的所有 `.xinitrc` 操作。
 
 
-![MLVWM](/Asserts/Images//attachment/album/201912/27/204945bap879hdshhefzmh.jpg "MLVWM")
+![MLVWM](/Asserts/Images/album/201912/27/204945bap879hdshhefzmh.jpg "MLVWM")
 
 
 ### 打造自己的复古苹果

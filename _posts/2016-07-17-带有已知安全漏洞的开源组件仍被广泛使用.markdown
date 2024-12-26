@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,缺陷]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/19/232345ddfu1jd1fo7s1ku2.png)
+![](/Asserts/Images/album/201607/19/232345ddfu1jd1fo7s1ku2.png)
 
 
 提供 Maven 中央仓库托管服务的 Sonatype 公司说， Java 组件下载中，有 1/16 的下载组件中包含了已知的安全问题。
@@ -46,4 +46,4 @@ Sonatype 发现现在企业中的百分之八、九十的代码都是由开源�
 [软件供应链报告](http://www.sonatype.com/hubfs/SSC/2016_State_of_the_Software_Supply_Chain_Report.pdf)中包含了当今软件供应链的更多信息。
 
 
-![Sonatype report findings](/Asserts/Images//attachment/album/201607/19/232346n3by3sp39oopppom.jpg "Sonatype report findings")
+![Sonatype report findings](/Asserts/Images/album/201607/19/232346n3by3sp39oopppom.jpg "Sonatype report findings")

@@ -15,7 +15,7 @@ tags:	[linuxcn,]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/07/122445v743hy7ajdyrrda1.jpg)
+![](/Asserts/Images/album/202003/07/122445v743hy7ajdyrrda1.jpg)
 
 
 logzero 库使日志记录就像打印语句一样容易，是简单性的杰出代表。我不确定 logzero 的名称是否要与 pygame-zero、GPIO Zero 和 guizero 这样的 “zero 样板库”契合，但是肯定属于该类别。它是一个 Python 库，可以使日志记录变得简单明了。
@@ -48,7 +48,7 @@ logger.error("error")
 输出以易于阅读的方式自动着色：
 
 
-![Python, Raspberry Pi: import logger](/Asserts/Images//attachment/album/202003/07/122501cc71omhll74kmk14.png "Python, Raspberry Pi: import logger")
+![Python, Raspberry Pi: import logger](/Asserts/Images/album/202003/07/122501cc71omhll74kmk14.png "Python, Raspberry Pi: import logger")
 
 
 因此现在不要再使用 `print` 来了解发生了什么，而应使用有相关日志级别的日志器。
@@ -140,7 +140,7 @@ except Exception as e:
 [E 190423 00:04:16 test:9] ZeroDivisionError: division by zero
 ```
 
-![Logging output](/Asserts/Images//attachment/album/202003/07/122520irsp3rnh6nurksh0.png "Logging output")
+![Logging output](/Asserts/Images/album/202003/07/122520irsp3rnh6nurksh0.png "Logging output")
 
 
 你可以在 [logzero.readthedocs.io](https://logzero.readthedocs.io/en/latest/) 中阅读更多选项。

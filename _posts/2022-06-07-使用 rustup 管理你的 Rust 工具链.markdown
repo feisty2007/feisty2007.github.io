@@ -7,7 +7,7 @@ tags:	[linuxcn,rustup,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/30/145426h9he5z111149ctcj.jpg)
+![](/Asserts/Images/album/202206/30/145426h9he5z111149ctcj.jpg)
 
 
 

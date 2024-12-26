@@ -7,10 +7,10 @@ tags:	[linuxcn,Chrome,Mac,Linux,x86]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/08/183545ikdz31z9dkfctktf.jpg)
+![](/Asserts/Images/album/202203/08/183545ikdz31z9dkfctktf.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/08/183555zzrwv6mfc6go729z.jpg)
+![](/Asserts/Images/album/202203/08/183555zzrwv6mfc6go729z.jpg)
 
 
 ### Chrome 在 Mac 上性能测试首超 Safari
@@ -27,7 +27,7 @@ tags:	[linuxcn,Chrome,Mac,Linux,x86]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/08/183606cd3fsj5alaedje55.jpg)
+![](/Asserts/Images/album/202203/08/183606cd3fsj5alaedje55.jpg)
 
 
 ### Linux 发现严重的 “Dirty Pipe” 本地提权漏洞
@@ -44,7 +44,7 @@ tags:	[linuxcn,Chrome,Mac,Linux,x86]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/08/183626fk33m7cxa4iw4mmf.jpg)
+![](/Asserts/Images/album/202203/08/183626fk33m7cxa4iw4mmf.jpg)
 
 
 ### Fedora 鼓励放弃支持 32 位 x86 软件包

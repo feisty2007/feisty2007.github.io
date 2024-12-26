@@ -15,7 +15,7 @@ tags:	[linuxcn,WSL,systemd]
 > 
 
 
-![systemd 已可用于 WSL](/Asserts/Images//attachment/album/202209/25/103049wo515nibzxy1b411.png)
+![systemd 已可用于 WSL](/Asserts/Images/album/202209/25/103049wo515nibzxy1b411.png)
 
 
 WSL（<ruby> Windows 的 Linux 子系统 <rt>  Windows Subsystem for Linux </rt></ruby>）终于拥有了对 systemd 的支持，这是在 systemd 的创建者加入微软的几个月后实现的。

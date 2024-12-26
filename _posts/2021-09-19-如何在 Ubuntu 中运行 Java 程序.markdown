@@ -7,7 +7,7 @@ tags:	[linuxcn,Java]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/16/163803pn2dja7ajcx8jjw2.jpg)
+![](/Asserts/Images/album/202109/16/163803pn2dja7ajcx8jjw2.jpg)
 
 
 听说，你已经开始学习 Java 编程了？很好。
@@ -46,7 +46,7 @@ javac --version
 如果你看到类似 “Command ‘javac’ not found, but can be installed with” 的错误，这意味着你需要安装 Java 开发工具包。
 
 
-![Check if Java compiler is already installed or not](/Asserts/Images//attachment/album/202109/16/163812d4ygbbg0tnu99t2f.png)
+![Check if Java compiler is already installed or not](/Asserts/Images/album/202109/16/163812d4ygbbg0tnu99t2f.png)
 
 
 在 Ubuntu 上安装 JDK 的最简单方法是使用 Ubuntu 的默认包：
@@ -61,7 +61,7 @@ sudo apt install default-jdk
 你会被要求输入你的账户密码。当你输入密码时，屏幕上什么也看不到。这很正常。直接输入密码即可。当询问时，按回车键或 `Y` 键。
 
 
-![Installing JDK that also contains the Java compiler](/Asserts/Images//attachment/album/202109/16/163814rke6mkm22dcm63zc.png)
+![Installing JDK that also contains the Java compiler](/Asserts/Images/album/202109/16/163814rke6mkm22dcm63zc.png)
 
 
 上述命令应该适用于其他基于 Debian 和 Ubuntu 的发行版，如 Linux Mint、Elementary OS 等。对于其他发行版，请使用你的发行版的包管理器。包的名称也可能不同。
@@ -70,7 +70,7 @@ sudo apt install default-jdk
 安装完毕后，验证 `javac` 现在是否可用。
 
 
-![Verify that Java compiler can be used now](/Asserts/Images//attachment/album/202109/16/163815ptkgzzdfcapf1rc7.png)
+![Verify that Java compiler can be used now](/Asserts/Images/album/202109/16/163815ptkgzzdfcapf1rc7.png)
 
 
 #### 第二步：在 Linux 中编译 Java 程序
@@ -119,7 +119,7 @@ java HelloWorld
 我的程序将在屏幕上打印 “Hello World”。
 
 
-![Running java programs in the Linux terminal](/Asserts/Images//attachment/album/202109/16/163815uej81q3tmst0333e.png)
+![Running java programs in the Linux terminal](/Asserts/Images/album/202109/16/163815uej81q3tmst0333e.png)
 
 
 这就是你如何在 Linux 终端中运行一个 Java 程序。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu Core,Docker]
 > 
 
 
-![](/Asserts/Images//attachment/album/201503/15/234420o8tm88aa9atg85gh.png)
+![](/Asserts/Images/album/201503/15/234420o8tm88aa9atg85gh.png)
 
 
 Google为自己的云服务采用了一个简化版的Canonical Ubuntu Linux发行版，以优化运行Docker和其他容器。

@@ -18,7 +18,7 @@ tags:	[linuxcn,RedHat,FeedHenry]
 Red Hat公司的JBoss开发者工具事业部一直注重于企业开发，而忽略了移动方面。而如今这一切将随着Red Hat公司宣布用8200万美元收购移动开发供应商 [FeedHenry](http://www.feedhenry.com/) 开始发生改变。这笔交易将在Red Hat公司2015财年的第三季度结束。
 
 
-![](/Asserts/Images//attachment/album/201409/28/093452xupop8oco8ue8mel.jpg)
+![](/Asserts/Images/album/201409/28/093452xupop8oco8ue8mel.jpg)
 
 
 Red Hat公司的中间件总经理Mike Piech说当交易结束后FeedHenry公司的员工将会变成Red Hat公司的员工。

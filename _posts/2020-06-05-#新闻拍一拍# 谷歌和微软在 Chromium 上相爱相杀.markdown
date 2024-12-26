@@ -7,7 +7,7 @@ tags:	[linuxcn,Chromium,WSL2,Spark]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/22/112420komacdpd7aadfhf0.jpg)
+![](/Asserts/Images/album/202006/22/112420komacdpd7aadfhf0.jpg)
 
 
 #### 谷歌和微软在 Chromium 上相爱相杀

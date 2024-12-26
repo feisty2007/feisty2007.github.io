@@ -15,7 +15,7 @@ tags:	[linuxcn,ncurses,终端]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/06/085908qrdrrv5dru6pcucr.jpg "Person using a laptop")
+![](/Asserts/Images/album/202109/06/085908qrdrrv5dru6pcucr.jpg "Person using a laptop")
 
 
 大多数的 Linux 实用程序仅仅只在屏幕的底部滚动文本。如果你想在屏幕中放置你的文本，例如一个游戏或者一个数据展示，你可以试试 ncurses。
@@ -127,7 +127,7 @@ $ gcc -o pause pause.c -lncurses
 运行新程序将打印一条简单的 `press any key to quit`消息，该消息差不多位于屏幕中央：
 
 
-![centered message in a program window](/Asserts/Images//attachment/album/202109/06/085925c09np4z6n54m1g4h.png)
+![centered message in a program window](/Asserts/Images/album/202109/06/085925c09np4z6n54m1g4h.png)
 
 
 *图 1：程序中居中的 “press any key to quit” 消息。*

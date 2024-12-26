@@ -7,7 +7,7 @@ tags:	[linuxcn,密码,pass,密码管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/29/105744x67odqqehemidl14.jpg)
+![](/Asserts/Images/album/201706/29/105744x67odqqehemidl14.jpg)
 
 
 现如今要记住类似 email、银行、社交媒体、在线支付、ftp 等等这么多的密码相信对每一个人来说都是一个巨大的挑战。
@@ -189,7 +189,7 @@ Password Store
 运行以下命令从密码存储中检索密码信息，它会询问你输入密码以解锁。
 
 
-![](/Asserts/Images//attachment/album/201706/29/105810iuyorruhv8duthtz.png)
+![](/Asserts/Images/album/201706/29/105810iuyorruhv8duthtz.png)
 
 
 

@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME 43,GNOME]
 > 
 
 
-![5 个值得关注的 GNOME 43 功能](/Asserts/Images//attachment/album/202208/31/120326ei6m5lcm58mq0ozo.jpg)
+![5 个值得关注的 GNOME 43 功能](/Asserts/Images/album/202208/31/120326ei6m5lcm58mq0ozo.jpg)
 
 
 GNOME 43 将于 2022 年 9 月 21 日发布。截至目前，GNOME 43 的测试版已经可供测试。
@@ -36,7 +36,7 @@ GNOME 43 将于 2022 年 9 月 21 日发布。截至目前，GNOME 43 的测试�
 ### 1、改造了快速设置
 
 
-![GNOME 快速设置](/Asserts/Images//attachment/album/202208/31/120326cnun24vczvo0vbn6.png)
+![GNOME 快速设置](/Asserts/Images/album/202208/31/120326cnun24vczvo0vbn6.png)
 
 
 GNOME 桌面菜单位于右上角，你可以在这里快速调整音量、访问网络连接，以及开/关电脑，在这个版本中它终于得到了视觉上的更新。
@@ -45,7 +45,7 @@ GNOME 桌面菜单位于右上角，你可以在这里快速调整音量、访�
 现在，它看起来更像是安卓的快速切换栏，这应该会增强用户体验，同时减少一些多余的点击。
 
 
-![GNOME 快速设置](/Asserts/Images//attachment/album/202208/31/120326m3paqpa03c31dmhg.png)
+![GNOME 快速设置](/Asserts/Images/album/202208/31/120326m3paqpa03c31dmhg.png)
 
 
 你不需要前往设置来打开深色模式和夜光。新的快速切换菜单就可以让你可以访问到它们。
@@ -77,7 +77,7 @@ GNOME 桌面菜单位于右上角，你可以在这里快速调整音量、访�
 * 新的文件上下文菜单。
 
 
-![Nautilus 文件管理器](/Asserts/Images//attachment/album/202208/31/120327dcne3mitabcztcye.gif)
+![Nautilus 文件管理器](/Asserts/Images/album/202208/31/120327dcne3mitabcztcye.gif)
 
 
 总的来说，在 GNOME 43 中，你会发现 Nautilus 文件管理器有了一些视觉上的调整，并有动画的细微改进。
@@ -89,7 +89,7 @@ GNOME 桌面菜单位于右上角，你可以在这里快速调整音量、访�
 ### 3、设备安全信息
 
 
-![](/Asserts/Images//attachment/album/202208/31/120426oq48pd8tw3g83k8d.jpg)
+![](/Asserts/Images/album/202208/31/120426oq48pd8tw3g83k8d.jpg)
 
 
 我们之前报道过 GNOME 会在你禁用安全启动时显示警告。
@@ -117,7 +117,7 @@ GNOME 的设置菜单也有一个新的 “设备安全” 选项，在这里你
 ### 4、GNOME Web 的扩展支持
 
 
-![GNOME Web 扩展](/Asserts/Images//attachment/album/202208/31/120327s6ioduvfrftxottt.png)
+![GNOME Web 扩展](/Asserts/Images/album/202208/31/120327s6ioduvfrftxottt.png)
 
 
 GNOME Web 在每次更新都会变得更好一些。有了 Web 扩展的支持，它成为了一个有吸引力的选择，可以取代你的日常使用的浏览器。
@@ -146,7 +146,7 @@ GNOME 的软件中心目前的体验并不是很好。
 虽然它在提供额外信息方面有所改进，但仍有改进的余地。
 
 
-![GNOME 软件](/Asserts/Images//attachment/album/202208/31/120327c9x1ognohjzxnf9z.png)
+![GNOME 软件](/Asserts/Images/album/202208/31/120327c9x1ognohjzxnf9z.png)
 
 
 在 GNOME 43 中，你可以了解到更多关于 Flatpak 应用程序所需的权限。而且，你还可以看到一个 “其他应用程序” 部分，以寻找同一开发者的其它应用程序。
@@ -155,7 +155,7 @@ GNOME 的软件中心目前的体验并不是很好。
 此外，软件包来源的显示方式也有了细微的视觉调整。
 
 
-![GNOME 软件](/Asserts/Images//attachment/album/202208/31/120327m5njq67hqjnr73h9.jpg)
+![GNOME 软件](/Asserts/Images/album/202208/31/120327m5njq67hqjnr73h9.jpg)
 
 
 ### 附加：新的墙纸
@@ -164,13 +164,13 @@ GNOME 的软件中心目前的体验并不是很好。
 你会得到新的默认壁纸，有深色和浅色的变体。下面是深色壁纸背景的样子：
 
 
-![](/Asserts/Images//attachment/album/202208/31/120327fkdlc21tibndcjkn.jpg)
+![](/Asserts/Images/album/202208/31/120327fkdlc21tibndcjkn.jpg)
 
 
 而这是浅色版本：
 
 
-![](/Asserts/Images//attachment/album/202208/31/120327so8q4hmvhroo8km5.jpg)
+![](/Asserts/Images/album/202208/31/120327so8q4hmvhroo8km5.jpg)
 
 
 除了主要的亮点之外，其他一些变化包括：

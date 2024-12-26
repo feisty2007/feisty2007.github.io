@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes]
 > 
 
 
-![Ship captain sailing the Kubernetes seas](/Asserts/Images//attachment/album/202002/27/102958u1dprgrx4hh992cr.png "Ship captain sailing the Kubernetes seas")
+![Ship captain sailing the Kubernetes seas](/Asserts/Images/album/202002/27/102958u1dprgrx4hh992cr.png "Ship captain sailing the Kubernetes seas")
 
 
 当你使用 Kubernetes 运行容器时，你通常会发现它们堆积在一起。这是设计使然。它是容器的优点之一：每当需要新的容器时，它们启动成本都很低。你可以使用前端工具（如 OpenShift 或 OKD）来管理 Pod 和容器。这些工具使可视化设置变得容易，并且它具有一组丰富的用于快速交互的命令。
@@ -39,7 +39,7 @@ tags:	[linuxcn,Kubernetes]
 $ ./krawl
 ```
 
-![KRAWL script](/Asserts/Images//attachment/album/202002/27/102959imepam5p3asfgggs.png "KRAWL script")
+![KRAWL script](/Asserts/Images/album/202002/27/102959imepam5p3asfgggs.png "KRAWL script")
 
 
 ### 脚本

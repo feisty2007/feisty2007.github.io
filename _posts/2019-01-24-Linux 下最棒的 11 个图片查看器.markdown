@@ -19,7 +19,7 @@ tags:	[linuxcn,图片,图像]
 ### Linux 下最棒的图片查看器
 
 
-![Ubuntu 或其它 Linux 发行版适用的最棒的图片查看器](/Asserts/Images//attachment/album/201901/02/140524oz705o0cqm57mg3l.png)
+![Ubuntu 或其它 Linux 发行版适用的最棒的图片查看器](/Asserts/Images/album/201901/02/140524oz705o0cqm57mg3l.png)
 
 
 **注意：** 在准备安装一个图片查看器时，请前往您系统中预先安装的软件商店中查找。如果您没有任何软件商店或无法在软件商店中找到它，请手动执行我们给出的命令。
@@ -28,7 +28,7 @@ tags:	[linuxcn,图片,图像]
 #### 1. Nomacs
 
 
-![Nomacs 图片查看器](/Asserts/Images//attachment/album/201901/02/140526g0d66h9zqop5pdmo.jpg)
+![Nomacs 图片查看器](/Asserts/Images/album/201901/02/140526g0d66h9zqop5pdmo.jpg)
 
 
 **它有什么特点？**
@@ -62,7 +62,7 @@ sudo apt install nomacs
 #### 2. Gnome 之眼
 
 
-![Gnome 之眼](/Asserts/Images//attachment/album/201901/02/140527ahxjbfbmfmtp3t97.jpg)
+![Gnome 之眼](/Asserts/Images/album/201901/02/140527ahxjbfbmfmtp3t97.jpg)
 
 
 **它有什么特点？**
@@ -96,7 +96,7 @@ sudo apt install eog
 #### 3. EOM
 
 
-![EOM 图像查看器](/Asserts/Images//attachment/album/201901/02/140529mgf9gnogs1n2vae9.jpg)
+![EOM 图像查看器](/Asserts/Images/album/201901/02/140529mgf9gnogs1n2vae9.jpg)
 
 
 **它有什么特点？**
@@ -130,7 +130,7 @@ sudo apt install eom
 #### 4. Geeqie
 
 
-![Geeqie 图像查看器](/Asserts/Images//attachment/album/201901/02/140530y6n8l88c63zmx1zb.jpg)
+![Geeqie 图像查看器](/Asserts/Images/album/201901/02/140530y6n8l88c63zmx1zb.jpg)
 
 
 **它有什么特点？**
@@ -163,7 +163,7 @@ sudo apt install geeqie
 #### 5. gThumb
 
 
-![gThumb 图片查看器](/Asserts/Images//attachment/album/201901/02/140531lgnagrhra08gl66n.jpg)
+![gThumb 图片查看器](/Asserts/Images/album/201901/02/140531lgnagrhra08gl66n.jpg)
 
 
 **它有什么特点？**
@@ -198,7 +198,7 @@ sudo apt install gthumb
 #### 6. Gwenview
 
 
-![Gwenview 图像查看器](/Asserts/Images//attachment/album/201901/02/140532wo35z7vjfmh100jh.jpg)
+![Gwenview 图像查看器](/Asserts/Images/album/201901/02/140532wo35z7vjfmh100jh.jpg)
 
 
 **它有什么特点？**
@@ -231,7 +231,7 @@ sudo apt install gwenview
 #### 7. Mirage
 
 
-![Mirage 图像查看器](/Asserts/Images//attachment/album/201901/02/140533ltffx1uhu3aj6p0m.jpg)
+![Mirage 图像查看器](/Asserts/Images/album/201901/02/140533ltffx1uhu3aj6p0m.jpg)
 
 
 **它有什么特点？**
@@ -265,7 +265,7 @@ sudo apt install mirage
 #### 8. KPhotoAlbum
 
 
-![KPhotoAlbum](/Asserts/Images//attachment/album/201901/02/140534xfln2pn846g10120.jpg)
+![KPhotoAlbum](/Asserts/Images/album/201901/02/140534xfln2pn846g10120.jpg)
 
 
 **它有什么特点？**
@@ -300,7 +300,7 @@ sudo apt kphotoalbum
 #### 9. Shotwell
 
 
-![Shotwell](/Asserts/Images//attachment/album/201901/02/140535mu7sj2kjjhtj5d9k.jpg)
+![Shotwell](/Asserts/Images/album/201901/02/140535mu7sj2kjjhtj5d9k.jpg)
 
 
 **它有什么特点？**
@@ -331,7 +331,7 @@ sudo apt install shotwell
 #### 10. Ristretto
 
 
-![Ristretto](/Asserts/Images//attachment/album/201901/02/140535ceat5wwa523ztff5.jpg)
+![Ristretto](/Asserts/Images/album/201901/02/140535ceat5wwa523ztff5.jpg)
 
 
 **它有什么特点？**
@@ -362,7 +362,7 @@ sudo apt install ristretto
 #### 11. digiKam
 
 
-![digiKam 图像查看器](/Asserts/Images//attachment/album/201901/02/140536yurrg2uq26rqqqmr.jpg)
+![digiKam 图像查看器](/Asserts/Images/album/201901/02/140536yurrg2uq26rqqqmr.jpg)
 
 
 **它有什么特点？**

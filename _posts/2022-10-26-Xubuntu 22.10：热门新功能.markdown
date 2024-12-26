@@ -15,7 +15,7 @@ tags:	[linuxcn,Xubuntu,Xfce]
 > 
 
 
-![Xubuntu 22.10 桌面](/Asserts/Images//attachment/album/202210/19/165555wq0f2raubdlf7zdu.jpg)
+![Xubuntu 22.10 桌面](/Asserts/Images/album/202210/19/165555wq0f2raubdlf7zdu.jpg)
 
 
 质量需要时间来建立。它适用于生活的各个方面，包括软件。
@@ -51,7 +51,7 @@ tags:	[linuxcn,Xubuntu,Xfce]
 我对 GNOME 软件应用 43 在 Xfce 桌面下的 libadwaita/GTK4 渲染效果如此之好感到惊讶。
 
 
-![在 Xubuntu 22.10 中一起使用三种不同的窗口](/Asserts/Images//attachment/album/202210/19/165555dozao0wajc7kt0tz.jpg)
+![在 Xubuntu 22.10 中一起使用三种不同的窗口](/Asserts/Images/album/202210/19/165555dozao0wajc7kt0tz.jpg)
 
 
 #### Xfce 应用
@@ -93,10 +93,10 @@ Thunar 文件管理器获得了大量的底层功能和错误修复。如果你�
 你可能会注意到的重要且可见的变化之一是 `ALT+TAB` 外观。图标更大一些，眼睛更舒适，可以在深色背景下更快地切换窗口。
 
 
-![在 Xubuntu 22.10 的 elementary-xfce 中更新的图标集示例](/Asserts/Images//attachment/album/202210/19/165556m0sm1c0fsdfdkffk.jpg)
+![在 Xubuntu 22.10 的 elementary-xfce 中更新的图标集示例](/Asserts/Images/album/202210/19/165556m0sm1c0fsdfdkffk.jpg)
 
 
-![ALT TAB 有更大的图标](/Asserts/Images//attachment/album/202210/19/165556wh05515hmsw5fsh5.jpg)
+![ALT TAB 有更大的图标](/Asserts/Images/album/202210/19/165556wh05515hmsw5fsh5.jpg)
 
 
 上述更改使默认应用与其所基于的 [Ubuntu 22.10 版本](https://www.debugpoint.com/ubuntu-22-10/) 保持一致。以下是 Xubuntu 22.10 中的更改概括。

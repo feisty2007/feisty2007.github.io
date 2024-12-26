@@ -13,7 +13,7 @@ HHVM全称为 HipHop Virtual Machine，它是一个开源虚拟机，用来运�
 同时，HHVM 也可以与基于 FastCGI 的 Web 服务器（如 Nginx 或者 Apache ）协同工作。
 
 
-![Install HHVM, Nginx and Apache with MariaDB](/Asserts/Images//attachment/album/201509/05/233937iiurqbyoz6vvr8ji.png)
+![Install HHVM, Nginx and Apache with MariaDB](/Asserts/Images/album/201509/05/233937iiurqbyoz6vvr8ji.png)
 
 
 *安装 HHVM，Nginx和 Apache 还有 MariaDB*
@@ -34,7 +34,7 @@ HHVM全称为 HipHop Virtual Machine，它是一个开源虚拟机，用来运�
 
 ```
 
-![System Upgrade](/Asserts/Images//attachment/album/201509/05/233937b8ep6g05r6g8bdpg.png)
+![System Upgrade](/Asserts/Images/album/201509/05/233937b8ep6g05r6g8bdpg.png)
 
 
 *系统升级*
@@ -55,7 +55,7 @@ HHVM全称为 HipHop Virtual Machine，它是一个开源虚拟机，用来运�
 
 ```
 
-![Install Nginx Web Server](/Asserts/Images//attachment/album/201509/05/233938ezs378k73z8d3dm8.png)
+![Install Nginx Web Server](/Asserts/Images/album/201509/05/233938ezs378k73z8d3dm8.png)
 
 
 *安装 Nginx 服务器*
@@ -70,7 +70,7 @@ HHVM全称为 HipHop Virtual Machine，它是一个开源虚拟机，用来运�
 
 ```
 
-![Install Apache Web Server](/Asserts/Images//attachment/album/201509/05/233938glvluv1vo1y5yg1o.png)
+![Install Apache Web Server](/Asserts/Images/album/201509/05/233938glvluv1vo1y5yg1o.png)
 
 
 *安装 Apache 服务器*
@@ -87,13 +87,13 @@ http://IP-Address
 
 ```
 
-![Nginx Welcome Page](/Asserts/Images//attachment/album/201509/05/233939pqnhajzhxhnqgjsq.png)
+![Nginx Welcome Page](/Asserts/Images/album/201509/05/233939pqnhajzhxhnqgjsq.png)
 
 
 *Nginx 默认页面*
 
 
-![Apache Default Page](/Asserts/Images//attachment/album/201509/05/233940bypoy6f9wn669nf2.png)
+![Apache Default Page](/Asserts/Images/album/201509/05/233940bypoy6f9wn669nf2.png)
 
 
 *Apache 默认页面*
@@ -111,7 +111,7 @@ http://IP-Address
 
 ```
 
-![Install MariaDB Database](/Asserts/Images//attachment/album/201509/05/233940lnlzsl701gqilqnt.png)
+![Install MariaDB Database](/Asserts/Images/album/201509/05/233940lnlzsl701gqilqnt.png)
 
 
 *安装 MariaDB*
@@ -209,7 +209,7 @@ nginx 的配置文件在 /etc/nginx/sites-available/default， 并且这些配�
 
 ```
 
-![Configure Nginx for HHVM](/Asserts/Images//attachment/album/201509/05/233941b3lpx0npniltlllt.png)
+![Configure Nginx for HHVM](/Asserts/Images/album/201509/05/233941b3lpx0npniltlllt.png)
 
 
 *配置 Nginx、HHVM*
@@ -277,7 +277,7 @@ http://IP-Address/info.php
 
 ```
 
-![HHVM Page](/Asserts/Images//attachment/album/201509/05/233943sbdrmcxpb98x9lcg.png)
+![HHVM Page](/Asserts/Images/album/201509/05/233943sbdrmcxpb98x9lcg.png)
 
 
 *HHVM 页面*

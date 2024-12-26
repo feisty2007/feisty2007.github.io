@@ -7,7 +7,7 @@ tags:	[linuxcn,Git]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/02/092549j2o7h9cif3hcu34z.jpg)
+![](/Asserts/Images/album/202212/02/092549j2o7h9cif3hcu34z.jpg)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,Git]
 `git bisect` 命令是一个强大的工具。你可以给 `git bisect` 命令一个范围，一端是一个已知的好状态，另一端是一个已知的坏状态。它会自动地确认当前范围的中点，在这个中点上进行测试，然后要求你确定那次提交是一个 <ruby> 好提交 <rt>  good commit </rt></ruby> 还是一个 <ruby> 坏提交 <rt>  bad commit </rt></ruby>，然后它会重复这一“二分查找”的过程，直到你找到首次引入错误的那一次提交。
 
 
-![Image of Zeno's paradox of Achilles.](/Asserts/Images//attachment/album/202212/02/092553nxio349j8ii9aa9f.png)
+![Image of Zeno's paradox of Achilles.](/Asserts/Images/album/202212/02/092553nxio349j8ii9aa9f.png)
 
 
 这个“数学”工具是利用“二分查找”来找到错误之处的。`git bisect` 命令通过**查看中点**，然后由你来决定它是提交列表的新起点（即 “坏提交” ）还是新终点（即 “好提交”），进而来缩小查找范围，如此在几次查找中你可以就能定位到有错误的提交。即使你有 10,000 个提交要检查，最多只需要 13 次查找，就能很快地定位到首次引入错误的提交。

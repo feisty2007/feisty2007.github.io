@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Mac]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/08/190834ridd87jufnj5k57i.jpg)
+![](/Asserts/Images/album/202306/08/190834ridd87jufnj5k57i.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/08/190847fc1dcx111nzeceqk.jpg)
+![](/Asserts/Images/album/202306/08/190847fc1dcx111nzeceqk.jpg)
 
 
 ### 人工智能发现了更快的排序算法
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,Mac]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/08/190905goi34aopx4em0bta.jpg)
+![](/Asserts/Images/album/202306/08/190905goi34aopx4em0bta.jpg)
 
 
 ### OpenAI 还没有训练 GPT-5
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,Mac]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/08/191044huizsq9si3sx3q3s.jpg)
+![](/Asserts/Images/album/202306/08/191044huizsq9si3sx3q3s.jpg)
 
 
 ### 苹果推出在 Mac 上运行 Windows 游戏的工具

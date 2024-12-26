@@ -33,7 +33,7 @@ Li 是在 16 岁的时候第一次开始使用 Linux，或是者说大约 7.47 �
 "1. Linux 是黑客的天才工具，所以我没看到任何不用它的理由，"他写道，“2. 大脑的前额叶皮质（可能）在我16岁时正变得很发达。”
 
 
-[![](/Asserts/Images//attachment/album/201411/07/125120uekg60ftdziye9mn.png)](https://www.linuxfoundation.org/about/join/individual)
+[![](/Asserts/Images/album/201411/07/125120uekg60ftdziye9mn.png)](https://www.linuxfoundation.org/about/join/individual)
 
 
 他现在为 eBay工作，主要进行 Java 编程但有时也使用 Hadoop, Pig, Zookeeper, Cassandra, MongoDB，以及其他一些需要 POSIX 兼容平台的软件来工作。他主要通过给 Wikipedia 页面和 Linux 相关的论坛做贡献来支持 Linux 社区，另外当然还成为了 Linux 基金会的个人会员。

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Linux,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/03/181010dxhhl74mmhvhlniv.jpg)
+![](/Asserts/Images/album/202201/03/181010dxhhl74mmhvhlniv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/03/181020d76xj9rs3j35js0a.jpg)
+![](/Asserts/Images/album/202201/03/181020d76xj9rs3j35js0a.jpg)
 
 
 ### 人工智能重新“创造”了历史
@@ -27,7 +27,7 @@ tags:	[linuxcn,AI,Linux,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/03/181028tup69wyvmmej867u.jpg)
+![](/Asserts/Images/album/202201/03/181028tup69wyvmmej867u.jpg)
 
 
 ### 新的补丁集将清理 Linux 内核的“依赖地狱”
@@ -44,7 +44,7 @@ tags:	[linuxcn,AI,Linux,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/03/181047nx7ym9y8zkvkzyx9.jpg)
+![](/Asserts/Images/album/202201/03/181047nx7ym9y8zkvkzyx9.jpg)
 
 
 ### Canonical 招聘 Linux 桌面游戏产品经理

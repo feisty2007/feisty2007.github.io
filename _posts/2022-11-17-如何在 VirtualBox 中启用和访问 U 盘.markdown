@@ -15,7 +15,7 @@ tags:	[linuxcn,VirtualBox,U 盘]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/25/100205knxqfzxdit8duvng.jpg)
+![](/Asserts/Images/album/202211/25/100205knxqfzxdit8duvng.jpg)
 
 
 当你在虚拟机环境中工作时，USB 通常插入主机系统。但是从客体系统访问 USB 内容有点困难。
@@ -47,7 +47,7 @@ tags:	[linuxcn,VirtualBox,U 盘]
 打开 VirtualBox 下载页面并从 [此链接](https://www.virtualbox.org/wiki/Downloads) 下载适用于所有支持平台的 VirtualBox 扩展包。
 
 
-![下载扩展包](/Asserts/Images//attachment/album/202211/25/100206yvz5mppcccp43g14.jpg)
+![下载扩展包](/Asserts/Images/album/202211/25/100206yvz5mppcccp43g14.jpg)
 
 
 然后单击 “<ruby> 文件 <rt>  File </rt></ruby> > <ruby> 工具 <rt>  Tools </rt></ruby> > <ruby> 扩展包管理器 <rt>  Extension Pack Manager </rt></ruby>”。
@@ -59,10 +59,10 @@ tags:	[linuxcn,VirtualBox,U 盘]
 点击 “<ruby> 安装 <rt>  Install </rt></ruby>”。接受条款，并为安装提供管理员密码。
 
 
-![安装扩展包管理器](/Asserts/Images//attachment/album/202211/25/100206upleqg3xjfpk3lez.jpg)
+![安装扩展包管理器](/Asserts/Images/album/202211/25/100206upleqg3xjfpk3lez.jpg)
 
 
-![接受条款后安装扩展包管理器](/Asserts/Images//attachment/album/202211/25/100206s57mbssbxgbrw7yr.jpg)
+![接受条款后安装扩展包管理器](/Asserts/Images/album/202211/25/100206s57mbssbxgbrw7yr.jpg)
 
 
 安装成功后，可以在已安装列表中看到。
@@ -80,7 +80,7 @@ tags:	[linuxcn,VirtualBox,U 盘]
 启动 VirtualBox 并右键单击要启用 USB 的虚拟机名称。选择“<ruby> 设置 <rt>  Settings </rt></ruby>”。
 
 
-![虚拟机的启动设置](/Asserts/Images//attachment/album/202211/25/100206zlyycnfvqy1clwqv.jpg)
+![虚拟机的启动设置](/Asserts/Images/album/202211/25/100206zlyycnfvqy1clwqv.jpg)
 
 
 在左窗格中，单击 USB。然后选择控制器版本。例如，你可以选择 USB 3.0。然后单击小加号图标添加 USB 过滤器。
@@ -92,7 +92,7 @@ tags:	[linuxcn,VirtualBox,U 盘]
 选择它并按 “OK”。
 
 
-![选择 U 盘](/Asserts/Images//attachment/album/202211/25/100206a0zgl3xru90td8y8.jpg)
+![选择 U 盘](/Asserts/Images/album/202211/25/100206a0zgl3xru90td8y8.jpg)
 
 
 现在，启动你的虚拟机。打开文件管理器，你应该会看到 U 盘已启用并挂载到你的虚拟机上。
@@ -101,7 +101,7 @@ tags:	[linuxcn,VirtualBox,U 盘]
 在此演示中，你可以看到我的 [Arch-Xfce](https://www.debugpoint.com/xfce-arch-linux-install-4-16/) 虚拟机的 Thunar 文件管理器正在显示我的 U 盘中的内容。
 
 
-![启用 USB 并从 VirtualBox 访问内容](/Asserts/Images//attachment/album/202211/25/100206lz1uipsje61fxgg4.jpg)
+![启用 USB 并从 VirtualBox 访问内容](/Asserts/Images/album/202211/25/100206lz1uipsje61fxgg4.jpg)
 
 
 ### 使用说明

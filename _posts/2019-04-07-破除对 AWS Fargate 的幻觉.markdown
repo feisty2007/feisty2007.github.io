@@ -7,7 +7,7 @@ tags:	[linuxcn,无服务器,Serverless]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/17/105605bunt8noyrw8qt338.jpg)
+![](/Asserts/Images/album/201904/17/105605bunt8noyrw8qt338.jpg)
 
 
 我在 $work 建立了一个基于 Kubernetes 的平台已经快一年了，而且有点像 Kubernetes 的布道者了。真的，我认为这项技术太棒了。然而我并没有对它的运营和维护的困难程度抱过什么幻想。今年早些时候我读了[这样](https://matthias-endler.de/2019/maybe-you-dont-need-kubernetes/)的一篇文章，并对其中某些观点深以为然。如果我在一家规模较小的、有 10 到 15 个工程师的公司，假如有人建议管理和维护一批 Kubernetes 集群，那我会感到害怕的，因为它的运维开销太高了！
@@ -50,7 +50,7 @@ tags:	[linuxcn,无服务器,Serverless]
 在我启动运行了基本的基础设施之后，现在我想让我的 Docker 容器运行起来。我开始翻阅 Fargate 文档并浏览 [入门](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_GetStarted.html) 文档，这些就马上就展现在了我面前：
 
 
-![](/Asserts/Images//attachment/album/201904/17/105648yh5hffn1a8k3399x.png)
+![](/Asserts/Images/album/201904/17/105648yh5hffn1a8k3399x.png)
 
 
 等等，只是让我的容器运行就至少要有**三个**步骤？这完全不像我所想的，不过还是让我们开始吧。
@@ -489,7 +489,7 @@ module "container_definition_app" {
 人们说的一点肯定没错，用点技巧可以更容易地使用某种技术。在这个阶段，谈到 Fargate，下面的漫画这总结了我的感受：
 
 
-![](/Asserts/Images//attachment/album/201904/17/105659tez2vppfevf4whwe.jpg)
+![](/Asserts/Images/album/201904/17/105659tez2vppfevf4whwe.jpg)
 
 
 

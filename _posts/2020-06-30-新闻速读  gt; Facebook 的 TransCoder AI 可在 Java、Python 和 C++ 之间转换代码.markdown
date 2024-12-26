@@ -7,7 +7,7 @@ tags:	[linuxcn,编程,AI,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/15/151654auaafa5r3wo5fioa.jpg)
+![](/Asserts/Images/album/202006/15/151654auaafa5r3wo5fioa.jpg)
 
 
 #### Facebook 的 TransCoder AI 可在 Java、Python 和 C++ 之间转换代码

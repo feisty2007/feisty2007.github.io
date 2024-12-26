@@ -7,7 +7,7 @@ tags:	[linuxcn,补丁]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/16/101428n1nsj74wifp4k1dz.jpg)
+![](/Asserts/Images/album/201911/16/101428n1nsj74wifp4k1dz.jpg)
 
 
 如果你运行的是大型 Linux 环境，那么你可能已经将 Red Hat 与 Satellite 集成了。如果是的话，你不必担心补丁合规性报告，因为有一种方法可以从 Satellite 服务器导出它。
@@ -130,7 +130,7 @@ rm /tmp/sec-up.csv
 你会看到下面的输出。
 
 
-![](/Asserts/Images//attachment/album/201911/16/101510n8n42txqneg8niju.png)
+![](/Asserts/Images/album/201911/16/101510n8n42txqneg8niju.png)
 
 
 ### 方法 2：为 CentOS / RHEL 系统上的安全修补、bugfix、增强生成补丁合规性报告的 Bash 脚本
@@ -231,7 +231,7 @@ rm /tmp/sec-up.csv
 你会看到下面的输出。
 
 
-![](/Asserts/Images//attachment/album/201911/16/101511ftqoqetdqnomvciz.png)
+![](/Asserts/Images/album/201911/16/101511ftqoqetdqnomvciz.png)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,LLUG]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/28/164539pjmfidieykexsmd0.jpg)
+![](/Asserts/Images/album/202309/28/164539pjmfidieykexsmd0.jpg)
 
 
 
@@ -18,7 +18,7 @@ tags:	[linuxcn,LLUG]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/28/163101wqtonctk8bklqzct.jpg)
+![](/Asserts/Images/album/202309/28/163101wqtonctk8bklqzct.jpg)
 
 
 *白板上的 “LLUG.sz”由 Norland 现场创作*
@@ -30,13 +30,13 @@ tags:	[linuxcn,LLUG]
 来自 Linux 中国的核心贡献者 Locez 为参会者分享了 BPF 的背景，帮助大家理解什么是 BPF，并通过一些现场的示例，帮助开发者了解 BPF 的能力范畴。
 
 
-![](/Asserts/Images//attachment/album/202309/28/162750g9p5s57cc75mgso2.jpg)
+![](/Asserts/Images/album/202309/28/162750g9p5s57cc75mgso2.jpg)
 
 
 *Locez 介绍 BPF*
 
 
-![](/Asserts/Images//attachment/album/202309/28/163441cmvrmhyuffvifvf3.jpg)
+![](/Asserts/Images/album/202309/28/163441cmvrmhyuffvifvf3.jpg)
 
 
 *现场参会同学 Q & A*
@@ -45,7 +45,7 @@ tags:	[linuxcn,LLUG]
 来自龙蜥社区 eBPF SIG Maintainer 廖肇燕则分享了龙蜥社区产品 coolbpf 在阿里云上的实践，帮助参会同学进一步理解 BPF 在企业的的实际应用和场景。 
 
 
-![](/Asserts/Images//attachment/album/202309/28/162800lbqdrdby520azqdz.jpg)
+![](/Asserts/Images/album/202309/28/162800lbqdrdby520azqdz.jpg)
 
 
 *廖肇燕分享 coolbpf*
@@ -54,7 +54,7 @@ tags:	[linuxcn,LLUG]
 Linux 中国的硬核老王则为刚刚接触开源的爱好者介绍了如何快速成为一名开源贡献者的演讲，并结合实例给出了一条可实践的发展之路。
 
 
-![](/Asserts/Images//attachment/album/202309/28/163147xi2hbmludb113fkl.jpg)
+![](/Asserts/Images/album/202309/28/163147xi2hbmludb113fkl.jpg)
 
 
 *硬核老王介绍如何参与开源*
@@ -100,7 +100,7 @@ LLUG 的创办希望帮助 Linux 社区当中的每一个人都可以充分的�
 10 月份的 LLUG 活动目前还在规划中，预计可能会在成都或杭州举办，关于这两座城市，你有没有什么想法？如果你感兴趣做分享，或是有更多的建议给到我们，可以扫描下方二维码，申报议题。
 
 
-![](/Asserts/Images//attachment/album/202309/28/163546k311pzu18qz22uu5.jpg)
+![](/Asserts/Images/album/202309/28/163546k311pzu18qz22uu5.jpg)
 
 
 *提交你的提议*

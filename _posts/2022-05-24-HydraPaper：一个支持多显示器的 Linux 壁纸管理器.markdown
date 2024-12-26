@@ -27,7 +27,7 @@ tags:	[linuxcn,HydraPaper,壁纸]
 ### HydraPaper：带有 CLI 接口的开源墙纸管理器
 
 
-![hydrapaper wallpaper manager](/Asserts/Images//attachment/album/202205/20/104701w8mrsckbnnt9lz2s.jpg)
+![hydrapaper wallpaper manager](/Asserts/Images/album/202205/20/104701w8mrsckbnnt9lz2s.jpg)
 
 
 HydraPaper 是一个使用 Python 3 和 GTK 构建的相当有用的壁纸管理器。它可以让你为不同的显示器选择单独的墙纸。
@@ -39,7 +39,7 @@ HydraPaper 是一个使用 Python 3 和 GTK 构建的相当有用的壁纸管理
 因此，HydraPaper 是一个同时适用于 GUI 和 CLI 用户的壁纸管理器。
 
 
-![hydrapaper favorites](/Asserts/Images//attachment/album/202205/20/104702vsjswknsw9isl5w1.jpg)
+![hydrapaper favorites](/Asserts/Images/album/202205/20/104702vsjswknsw9isl5w1.jpg)
 
 
 它看起来是一个直接的解决方案，有一些简单的功能。让我介绍一下如下的主要亮点。
@@ -48,7 +48,7 @@ HydraPaper 是一个使用 Python 3 和 GTK 构建的相当有用的壁纸管理
 ### HydraPaper 的特点
 
 
-![hydrapaper folders](/Asserts/Images//attachment/album/202205/20/104702palml2eee53e9cms.png)
+![hydrapaper folders](/Asserts/Images/album/202205/20/104702palml2eee53e9cms.png)
 
 
 HydraPaper 可以让你添加自定义壁纸集，组织/选择你想要的文件夹，并方便地挑选壁纸。
@@ -66,13 +66,13 @@ HydraPaper 可以让你添加自定义壁纸集，组织/选择你想要的文�
 * 单跨壁纸模式适用于多显示器。
 
 
-![single span mode](/Asserts/Images//attachment/album/202205/20/104702wxzpeod3b354563s.jpg)
+![single span mode](/Asserts/Images/album/202205/20/104702wxzpeod3b354563s.jpg)
 
 
 使用起来相当简单。你可以为不同的显示器挑选壁纸，或者使用选项中的单跨壁纸模式，在多显示器之间应用一个壁纸。
 
 
-![hydrapaper options](/Asserts/Images//attachment/album/202205/20/104704jeg00xxw81dw8818.jpg)
+![hydrapaper options](/Asserts/Images/album/202205/20/104704jeg00xxw81dw8818.jpg)
 
 
 你可以选择/添加/删除文件夹，调整位置，添加收藏夹，以及应用深色模式的墙纸。

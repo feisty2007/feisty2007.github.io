@@ -7,7 +7,7 @@ tags:	[linuxcn,Telegram,Thunderbolt]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/13/104041i28x35g32a32mum5.jpg)
+![](/Asserts/Images/album/202005/13/104041i28x35g32a32mum5.jpg)
 
 
 #### 只要五分钟，骇客就能通过 Thunderbolt 漏洞窃取你的数据

@@ -7,7 +7,7 @@ tags:	[linuxcn,应用]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/11/180521obse00404niahjof.jpg)
+![](/Asserts/Images/album/202207/11/180521obse00404niahjof.jpg)
 
 
 
@@ -42,7 +42,7 @@ tags:	[linuxcn,应用]
 这个有十年历史的应用程序是 Linux 上最好的应用程序之一。
 
 
-![OBS Studio](/Asserts/Images//attachment/album/202207/11/180525tfas2kz3pfp2spgz.jpg)
+![OBS Studio](/Asserts/Images/album/202207/11/180525tfas2kz3pfp2spgz.jpg)
 
 
 你可以在 [OBS Studio 官网](https://obsproject.com/) 了解更多的信息并下载，或者通过以下方式安装。
@@ -74,10 +74,10 @@ sudo apt install obs-studio
 此外，只要你有足够的技能，就可以使用 Inkscape 创作出 [绝妙的动画](https://inkscape.org/gallery/) 。这是艺术家必备的一款应用。
 
 
-![Sample Image – credit-Inkscape](/Asserts/Images//attachment/album/202207/11/180525dtnzmzua5wfbat5h.jpg)
+![Sample Image – credit-Inkscape](/Asserts/Images/album/202207/11/180525dtnzmzua5wfbat5h.jpg)
 
 
-![Inkscape](/Asserts/Images//attachment/album/202207/11/180526wuw83pvj3pssvhsd.png)
+![Inkscape](/Asserts/Images/album/202207/11/180526wuw83pvj3pssvhsd.png)
 
 
 你可以在 [Inkscape 官网](https://inkscape.org/) 下载并了解更多相关信息，或者通过以下方式下载。
@@ -103,7 +103,7 @@ sudo apt install inkscape
 GIMP 是 “<ruby> GNU 图像操作程序 <rt>  GNU Image Manipulation Program </rt></ruby>”的缩写，它是一个光栅图形编辑器，它有时候被视作 Linux 平台上的 [Photoshop 替代品](https://www.debugpoint.com/2018/09/3-best-free-photoshop-alternatives-ubuntu-linux/)（值得商榷）。这款拥有 20 年历史的应用适合于从基础到高级的图像编辑。此外，它支持图层、滤镜、装饰和其它对摄影工作必不可少的高级图像编辑功能。
 
 
-![GIMP Image Editor](/Asserts/Images//attachment/album/202207/11/180527dmj44oz54pb2l6zq.png)
+![GIMP Image Editor](/Asserts/Images/album/202207/11/180527dmj44oz54pb2l6zq.png)
 
 
 [官方主页](https://www.gimp.org/) 是你了解更多关于 GIMP 的知识的最好的途径，可以在官网下载或者通过以下方式安装。
@@ -127,7 +127,7 @@ Spotify 是一家专业提供音频流媒体和媒体服务的提供商。它是
 在 Linux 上安装桌面客户端后你可以收听上百万首歌曲。你可以为不同的 Linux 发行版通过不同的方式安装 Spotify 。
 
 
-![Spotify Client in Ubuntu](/Asserts/Images//attachment/album/202207/11/180704ofooro6ovomtlxwo.jpg)
+![Spotify Client in Ubuntu](/Asserts/Images/album/202207/11/180704ofooro6ovomtlxwo.jpg)
 
 
 推荐你在 Ubuntu 或者其他 Linux 上使用 Snap 来安装，你可以通过以下命令安装：
@@ -160,7 +160,7 @@ SimpleScreenRecorder 可能是最好的开源截屏工具。该应用程序易�
 此外，你还可以指定音频/视频比特率、音频源选项和不同的输出选项。最后，它可以安装在所有 Linux 发行版中。
 
 
-![SimpleScreenRecorder](/Asserts/Images//attachment/album/202207/11/180528bp5z0f0pg7gdt7fu.jpg)
+![SimpleScreenRecorder](/Asserts/Images/album/202207/11/180528bp5z0f0pg7gdt7fu.jpg)
 
 
 [官方页面](https://www.maartenbaert.be/simplescreenrecorder/) 囊括了更多的 SimpleScreenRecorder 信息，你也可以使用如下方式下载。
@@ -184,7 +184,7 @@ sudo apt-get updatesudo apt-get install simplescreenrecorder
 Calibre 是一款可以在 Ubuntu、Linux Mint 以及其他 Linux 平台使用的自由开源的电子书库管理应用程序。它拥有书库管理、电子书格式转换、同步你的电子书设备以及其他独特的功能。你可以下载新闻和其他互联网上的文章，并可以使用 Calibre 转换成电子书格式。同时，它支持多种电子书格式进行管理。Calibre 是一款具有这些功能最好的电子书管理应用程序之一。
 
 
-![Calibre](/Asserts/Images//attachment/album/202207/11/180529dsyvbvmyvcfb1qag.png)
+![Calibre](/Asserts/Images/album/202207/11/180529dsyvbvmyvcfb1qag.png)
 
 
 [Calibre 主页](https://calibre-ebook.com/) 提供了很多文件以及指导手册，你也可以使用以下方式下载。
@@ -203,7 +203,7 @@ Calibre 是一款可以在 Ubuntu、Linux Mint 以及其他 Linux 平台使用�
 并且它仍然在积极开发中。
 
 
-![Scribus](/Asserts/Images//attachment/album/202207/11/180723v6dfd0e3lljl3l0l.jpg)
+![Scribus](/Asserts/Images/album/202207/11/180723v6dfd0e3lljl3l0l.jpg)
 
 
 你可以在 Scribus 的 [官方页面](https://www.scribus.net/) 了解更多信息并下载，或者通过以下方式安装。
@@ -227,7 +227,7 @@ sudo apt install scribus
 第八个应用程序是 MyPaint 。MyPaint 是一个自由开源的绘图程序，适用于数字艺术家。MyPaint 支持并可用于压感平板电脑和设备。其独特的无干扰设计可以让你专注于绘图而不是应用程序。此外，它还带来了真实铅笔和画笔的仿真，提供了各种画笔、颜色和图层。
 
 
-![MyPaint 2.0.1](/Asserts/Images//attachment/album/202207/11/180734n2sup5zsytrscsuv.jpg)
+![MyPaint 2.0.1](/Asserts/Images/album/202207/11/180734n2sup5zsytrscsuv.jpg)
 
 
 浏览 MyPaint 的 [官方页面](http://mypaint.org/) 获取更多信息，可以使用以下方式下载。
@@ -251,7 +251,7 @@ sudo apt install scribus
 LibreOffice 办公套件已默认安装在 Ubuntu 上。
 
 
-![LibreOffice 7.3.x Community Edition in Ubuntu 22.04 LTS Jammy Jellyfish](/Asserts/Images//attachment/album/202207/11/180743l7h69gthwpoz3php.jpg)
+![LibreOffice 7.3.x Community Edition in Ubuntu 22.04 LTS Jammy Jellyfish](/Asserts/Images/album/202207/11/180743l7h69gthwpoz3php.jpg)
 
 
 [LibreOffice 的官方文档](https://help.libreoffice.org/latest/index.html) 很庞大，你可以通过各种方式浏览它们，包括在它 [友好的论坛](https://ask.libreoffice.org/) 。你可以 [从此处](https://www.libreoffice.org/download/download/) 下载 LibreOffice。
@@ -269,7 +269,7 @@ LibreOffice 办公套件已默认安装在 Ubuntu 上。
 但是，由于 Twitter API 的限制，它只能每两分钟刷新一次，此外，还有一些其他限制，例如没有关注和取消关注的通知、阻止、静音和其他功能。Twitter 强加了这些限制。
 
 
-![Cawbird](/Asserts/Images//attachment/album/202207/11/180530ehb1kss0zselrc1r.jpg)
+![Cawbird](/Asserts/Images/album/202207/11/180530ehb1kss0zselrc1r.jpg)
 
 
 最后，你可以通过 [该链接](https://software.opensuse.org//download.html?project=home%3AIBBoard%3Acawbird&package=cawbird) 在任何 Linux 发行版上下载 Cawbird 。

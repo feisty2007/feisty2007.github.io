@@ -15,7 +15,7 @@ tags:	[linuxcn,FreeDOS,软件包管理器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/29/122823yhv0mg03v3mhr0cc.jpg)
+![](/Asserts/Images/album/202111/29/122823yhv0mg03v3mhr0cc.jpg)
 
 
 在 Linux 上，你可能已经使用过 “软件包管理器” 来安装或移除软件包。例如，在 Debian Linux 上的默认软件包管理器是 `deb` 命令，在 Fedora Linux 上的默认软件包管理器是 `dnf` 命令。 但是你知道 FreeDOS 也有一个软件包管理器吗？
@@ -30,7 +30,7 @@ FreeDOS 1.3 RC4 发行版包含了很多极好的你可以使用的程序和应�
 不过，要安装新的软件包很容易。在命令行中运行 `FDIMPLES` 程序。因为 DOS 是 *不区分大小写* 的，所以，你可以使用大写字母或小写字母来输入这个命令： `fdimples` 。（`fdimples` 与 `FDIMPLES` 或 `FDImples` 等同）
 
 
-![fdimples](/Asserts/Images//attachment/album/202111/29/122831r9jpp49pxpccz1pe.png)
+![fdimples](/Asserts/Images/album/202111/29/122831r9jpp49pxpccz1pe.png)
 
 
 *在 FreeDOS 1.3 RC4 上的 FDIMPLES 软件包管理器（运行在 QEMU 之中）（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -39,7 +39,7 @@ FreeDOS 1.3 RC4 发行版包含了很多极好的你可以使用的程序和应�
 FDIMPLES 是 "**F**ree**D**OS **I**nstaller - **M**y **P**ackage **L**ist **E**ditor **S**oftware" 的首字母缩略词，是一个交互式软件包管理器。FDIMPLES 读取安装介质来识别可以安装或移除的软件包。如果你看到一个不同的菜单，它显示 “Installed!” ，但是，不让你安装其它的软件的话，请检查你系统中是否有 FreeDOS 的 CD-ROM 的安装介质。在物理机器上，你将需要将 CD-ROM 插入 CD-ROM 驱动器；在诸如 QEMU 或 VirtualBox 之类的虚拟机器上，你需要将安装 FreeDOS 的 CD-ROM 的安装介质与虚拟机器关联在一起。
 
 
-![fdimples installed](/Asserts/Images//attachment/album/202111/29/122832zsm9z0r8a855i806.png)
+![fdimples installed](/Asserts/Images/album/202111/29/122832zsm9z0r8a855i806.png)
 
 
 *如果你仅看到一条 “Installed!” 的信息，检查 CD-ROM 是否已经加载（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -48,7 +48,7 @@ FDIMPLES 是 "**F**ree**D**OS **I**nstaller - **M**y **P**ackage **L**ist **E**d
 让我们假设你想安装一些可以让你听音乐文件或其它声音文件的软件。使用向上箭头和向下箭头按键来导航到菜单中的 **声音工具** 项。这是一个针对声音和音乐程序的 *软件包组* 。
 
 
-![fdimples sound](/Asserts/Images//attachment/album/202111/29/122832a0tto6k058o1582k.png)
+![fdimples sound](/Asserts/Images/album/202111/29/122832a0tto6k058o1582k.png)
 
 
 *在 FDIMPLES 中突出显示声音软件包组（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -57,7 +57,7 @@ FDIMPLES 是 "**F**ree**D**OS **I**nstaller - **M**y **P**ackage **L**ist **E**d
 要选择这个组中的所有软件包，在你的键盘上按下空格键。如果你决定安装这个组中的某个软件包，按下 `Tab` 按键来移动到 *软件包列表* 方框面板，接下来使用空格键来选择每个软件包。
 
 
-![fdimples sound select](/Asserts/Images//attachment/album/202111/29/122832elapbes6e8g6lgos.png)
+![fdimples sound select](/Asserts/Images/album/202111/29/122832elapbes6e8g6lgos.png)
 
 
 *通过按下空格键来选择一个组中的所有的软件包（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -66,7 +66,7 @@ FDIMPLES 是 "**F**ree**D**OS **I**nstaller - **M**y **P**ackage **L**ist **E**d
 你可以继续选择你想要安装的其它的软件包或软件包组。当你选择好一切的东西后，使用 “Tab” 按键来高亮显示 “OK” 按键，并按下空格键按键。
 
 
-![fdimples sound select ok](/Asserts/Images//attachment/album/202111/29/122833h2haav0lh7ie1irr.png)
+![fdimples sound select ok](/Asserts/Images/album/202111/29/122833h2haav0lh7ie1irr.png)
 
 
 *当你准备好安装时，突出显示 “Ok” 按钮（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -75,7 +75,7 @@ FDIMPLES 是 "**F**ree**D**OS **I**nstaller - **M**y **P**ackage **L**ist **E**d
 `FDIMPLES` 接下来会安装你所选择的所有的软件包。如果你仅选择几个小型的软件包，这可能只需要花费片刻的时间，或者，如果你要求安装很多大型的软件包，它可能会花费数分钟的时间。当 `FDIMPLES` 安装每个软件包时，`FDIMPLES` 会输出安装状态。在安装完后，`FDIMPLES` 退出到命令行之中，以便你可以回去继续工作。
 
 
-![fdimples sound install done](/Asserts/Images//attachment/album/202111/29/122833o7ss2mzejeeqblc5.png)
+![fdimples sound install done](/Asserts/Images/album/202111/29/122833o7ss2mzejeeqblc5.png)
 
 
 *当 FDIMPLES 安装软件包时，FDIMPLES 会显示安装过程，并在完成安装后自动地退出（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -90,7 +90,7 @@ FDIMPLES 是 "**F**ree**D**OS **I**nstaller - **M**y **P**ackage **L**ist **E**d
 就像安装软件包一样，启动 `FDIMPLES` ，使用箭头键导航到包含你想要移除的软件包的组。例如，如果我想卸载一些我先前安装的音乐播放器软件包，我将导航到 “Sound Tools” 软件包组。
 
 
-![fdimples sound select](/Asserts/Images//attachment/album/202111/29/122833qz6922ohv5so5935.png)
+![fdimples sound select](/Asserts/Images/album/202111/29/122833qz6922ohv5so5935.png)
 
 
 *导航到你想要移除的软件包组（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -99,7 +99,7 @@ FDIMPLES 是 "**F**ree**D**OS **I**nstaller - **M**y **P**ackage **L**ist **E**d
 为一次移除整个软件包组，你可以在你想要移除的软件包组上按下空格键来取消选择它们。但是，在这里让我们假设我只是想移除几个我不需要的软件包，像音频 CD 播放器 “CDP”。（我没有任何的真实的音乐 CD 光盘）。为移除 CDP ，敲击 `Tab` 按键来移动到软件包列表方框面板，接下来使用空格键来取消选择 CDP 软件包。这会在该软件包上移除 “X” 标志。
 
 
-![fdimples unselect cdp](/Asserts/Images//attachment/album/202111/29/122833nxjcmxvfbjzfwmm8.png)
+![fdimples unselect cdp](/Asserts/Images/album/202111/29/122833nxjcmxvfbjzfwmm8.png)
 
 
 *取消选择一个软件包来移除它（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -108,7 +108,7 @@ FDIMPLES 是 "**F**ree**D**OS **I**nstaller - **M**y **P**ackage **L**ist **E**d
 你可以继续取消选择你想要移除的其它的软件包或软件包组。当你选择一切的东西后，使用 `Tab` 按键来突出显示 “OK” 按钮，并按下空格键按键。`FDIMPLES` 将移除你取消选择的软件包，然后自动地返回到命令行之中。
 
 
-![fdimples cdp removed](/Asserts/Images//attachment/album/202111/29/122834dwwq364hqc2w4q3q.png)
+![fdimples cdp removed](/Asserts/Images/album/202111/29/122834dwwq364hqc2w4q3q.png)
 
 
 *FDIMPLES 移除软件包，然后返回到命令行之中（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

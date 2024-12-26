@@ -10,7 +10,7 @@ tags:	[linuxcn,Python]
 众所周知，系统管理员需要精通一门脚本语言，而且招聘机构列出的职位需求上也会这么写。大多数人会认为 Bash （或者其他的 shell 语言）用起来很方便，但一些强大的语言（比如 Python）会给你带来一些其它的好处。
 
 
-![](/Asserts/Images//attachment/album/201608/18/011239aa1ovnkazmm4ivq7.png)
+![](/Asserts/Images/album/201608/18/011239aa1ovnkazmm4ivq7.png)
 
 
 *在 Linux 中学习 Python 脚本编程*
@@ -47,7 +47,7 @@ $ python3
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/18/011240gii6d1xpf6eidf55.png)
+![](/Asserts/Images/album/201608/18/011240gii6d1xpf6eidf55.png)
 
 
 *在 Linux 中运行 Python 命令*
@@ -64,7 +64,7 @@ $ ln -s python3.2 python # Choose the Python 3.x binary here
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/18/011240pc5p6c6flynxooy2.png)
+![](/Asserts/Images/album/201608/18/011240pc5p6c6flynxooy2.png)
 
 
 *删除 Python 2，使用 Python 3*
@@ -102,7 +102,7 @@ $ sudo aptitude install idle-python3.2    # I'm using Linux Mint 13
 1. 轻松打开外部文件 (File → Open)；
 
 
-![](/Asserts/Images//attachment/album/201608/18/011240kptpz5v5x0hvqczv.png)
+![](/Asserts/Images/album/201608/18/011240kptpz5v5x0hvqczv.png)
 
 
 *Python Shell*
@@ -144,7 +144,7 @@ $ sudo aptitude install idle-python3.2    # I'm using Linux Mint 13
 如果你尝试在静态类型语言中（如 Java 或 C#）做这件事，它将抛出一个错误。
 
 
-![](/Asserts/Images//attachment/album/201608/18/011241p6azxx9mapi6px0i.png)
+![](/Asserts/Images/album/201608/18/011241p6azxx9mapi6px0i.png)
 
 
 *学习 Python 的基本操作*
@@ -207,7 +207,7 @@ $ sudo aptitude install idle-python3.2    # I'm using Linux Mint 13
 如果你输入了对象的名字，然后在后面输入了一个点，你可以按 `Ctrl + space` 来显示这个对象的可用方法列表。
 
 
-![](/Asserts/Images//attachment/album/201608/18/011241mp22vp2rqy2z2pw4.png)
+![](/Asserts/Images/album/201608/18/011241mp22vp2rqy2z2pw4.png)
 
 
 *列出可用的 Python 方法*
@@ -219,7 +219,7 @@ $ sudo aptitude install idle-python3.2    # I'm using Linux Mint 13
 如果你在 IDLE 中输入 `len`，然后跟上一个不闭合的括号，你会看到这个函数的默认语法：
 
 
-![](/Asserts/Images//attachment/album/201608/18/011242tzgvap5s5hg0txfh.png)
+![](/Asserts/Images/album/201608/18/011242tzgvap5s5hg0txfh.png)
 
 
 *Python 的 len 函数*

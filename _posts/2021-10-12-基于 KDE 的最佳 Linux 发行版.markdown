@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/11/115436wngdi7vndoodjnfd.jpg)
+![](/Asserts/Images/album/202110/11/115436wngdi7vndoodjnfd.jpg)
 
 
 KDE 是目前最具定制性和最快速的桌面环境之一。虽然你可以随时安装 KDE，但最好选择一个 KDE 开箱即用的 Linux 发行版。
@@ -25,7 +25,7 @@ KDE 是目前最具定制性和最快速的桌面环境之一。虽然你可以�
 ### 1、KDE Neon
 
 
-![](/Asserts/Images//attachment/album/202110/11/115459ekqu4ncauq447oss.jpg)
+![](/Asserts/Images/album/202110/11/115459ekqu4ncauq447oss.jpg)
 
 
 主要亮点：
@@ -55,7 +55,7 @@ KDE 是目前最具定制性和最快速的桌面环境之一。虽然你可以�
 ### 2、Kubuntu
 
 
-![](/Asserts/Images//attachment/album/202110/11/115459ar460aw7q9xu4jqa.jpg)
+![](/Asserts/Images/album/202110/11/115459ar460aw7q9xu4jqa.jpg)
 
 
 主要亮点：
@@ -81,7 +81,7 @@ Kubuntu 是 Ubuntu 的一个官方版本，它为其 LTS 版本提供了三年�
 ### 3、Manjaro KDE
 
 
-![](/Asserts/Images//attachment/album/202110/11/115459prgp9sqgrqqgdzoo.jpg)
+![](/Asserts/Images/album/202110/11/115459prgp9sqgrqqgdzoo.jpg)
 
 
 主要亮点：
@@ -128,7 +128,7 @@ Fedora 是一个独立的发行版（不基于 Ubuntu/Arch），作为 Red Hat E
 ### 5、openSUSE
 
 
-![](/Asserts/Images//attachment/album/202110/11/115459ymy1a14chr4z45a8.png)
+![](/Asserts/Images/album/202110/11/115459ymy1a14chr4z45a8.png)
 
 
 主要亮点：
@@ -150,7 +150,7 @@ Fedora 是一个独立的发行版（不基于 Ubuntu/Arch），作为 Red Hat E
 ### 6、Garuda Linux
 
 
-![](/Asserts/Images//attachment/album/202110/11/115459xbyziihc9zhhzcb8.png)
+![](/Asserts/Images/album/202110/11/115459xbyziihc9zhhzcb8.png)
 
 
 主要亮点：
@@ -176,7 +176,7 @@ KDE 版本（或 Dr460nized 版本）提供了漂亮的体验，同时可使用�
 ### 7、Nitrux OS
 
 
-![](/Asserts/Images//attachment/album/202110/11/115459uirgjibj8cv8gs77.png)
+![](/Asserts/Images/album/202110/11/115459uirgjibj8cv8gs77.png)
 
 
 主要亮点：
@@ -198,7 +198,7 @@ KDE 版本（或 Dr460nized 版本）提供了漂亮的体验，同时可使用�
 ### 8、MX Linux KDE
 
 
-![](/Asserts/Images//attachment/album/202110/11/115459fi1gzff53431cgit.jpg)
+![](/Asserts/Images/album/202110/11/115459fi1gzff53431cgit.jpg)
 
 
 主要亮点：

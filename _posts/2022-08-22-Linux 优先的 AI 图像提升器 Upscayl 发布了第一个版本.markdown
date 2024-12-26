@@ -15,7 +15,7 @@ tags:	[linuxcn,图像提升]
 > 
 
 
-![Linux-First AI Image Upscaler Upscayl Released its First Version](/Asserts/Images//attachment/album/202208/28/180226jam8sfflyysfqzmq.png)
+![Linux-First AI Image Upscaler Upscayl Released its First Version](/Asserts/Images/album/202208/28/180226jam8sfflyysfqzmq.png)
 
 
 你是不是有一张世纪初的像素化、低分辨率的图片？由于人工智能的进步，你可以轻松地将像素化的图像提升为分辨率更好的图像。
@@ -54,7 +54,7 @@ Upscayl 使用 Python 和 JavaScript 开发，给出了一个简单的界面，�
 不过，我还是设法弄到了一张 2011 年的模糊的老照片（那是 11 年前的照片，现在可以说是老照片了）。
 
 
-![厨房的模糊老照片](/Asserts/Images//attachment/album/202208/28/180227owm665vhv54qzv5q.jpg)
+![厨房的模糊老照片](/Asserts/Images/album/202208/28/180227owm665vhv54qzv5q.jpg)
 
 
 不要因为我随手拍了一张厨房柜台的照片而对我做出评价。一定有一个很好的理由（或者我觉得）。
@@ -63,19 +63,19 @@ Upscayl 使用 Python 和 JavaScript 开发，给出了一个简单的界面，�
 无论如何。我试着用 Upscayl 对图片进行放大。
 
 
-![使用 Upscayl](/Asserts/Images//attachment/album/202208/28/180228dszomezhesbqrv2e.png)
+![使用 Upscayl](/Asserts/Images/album/202208/28/180228dszomezhesbqrv2e.png)
 
 
 这需要相当大的处理能力，但我的 8 核、第 11 代 i7 处理器和 16GB 内存可以轻松应对。
 
 
-![Upscayl 工作时 CPU 的使用情况](/Asserts/Images//attachment/album/202208/28/180229hq01bq0ntxtut10w.png)
+![Upscayl 工作时 CPU 的使用情况](/Asserts/Images/album/202208/28/180229hq01bq0ntxtut10w.png)
 
 
 单张图片的处理花了大约 4 分钟，435KB 的图片最终变成了 24MB 的图片。说实话，我几乎没有注意到明显的差异。
 
 
-![由 Upscayl 放大的图像](/Asserts/Images//attachment/album/202208/28/180230xn9qe9fqyyomewf6.png)
+![由 Upscayl 放大的图像](/Asserts/Images/album/202208/28/180230xn9qe9fqyyomewf6.png)
 
 
 我想把最后的结果嵌入这里的文章中。但是上传一张 24MB 的图片对我的服务器和你的浏览器来说都有点过分。

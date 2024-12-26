@@ -7,7 +7,7 @@ tags:	[linuxcn,版本,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/26/145335zcrpducpup4p2ugy.jpg)
+![](/Asserts/Images/album/202206/26/145335zcrpducpup4p2ugy.jpg)
 
 
 在 Ubuntu 中想安装一个软件包的一个特别指定的版本？你可以通过下面的方式来轻松地完成：
@@ -31,7 +31,7 @@ apt list --all-versions package_name
 在下面的屏幕截屏中，你可以看到，我有两个可用的 VLC 版本，我使用命令来安装较旧的版本：
 
 
-![install specific versions apt ubuntu](/Asserts/Images//attachment/album/202206/26/145353l374sev63psz7lsa.png)
+![install specific versions apt ubuntu](/Asserts/Images/album/202206/26/145353l374sev63psz7lsa.png)
 
 
 听起来像一个简单的任务，对吧？但是事情并非看起来那么简单。这里有一些不确定是否会出现，但是可能会涉及的东西。
@@ -94,7 +94,7 @@ Ubuntu 在其存储库中不保留较旧版本的软件包。在特殊的情况�
 如你所见，在现在的系统中，我有两个可用的 VLC 版本：
 
 
-![install specific versions apt ubuntu](/Asserts/Images//attachment/album/202206/26/145353l374sev63psz7lsa.png)
+![install specific versions apt ubuntu](/Asserts/Images/album/202206/26/145353l374sev63psz7lsa.png)
 
 
 
@@ -119,7 +119,7 @@ sudo apt install vlc=3.0.16-1build7
 但是，这里会有这样的事。VLC 软件包有一些依赖关系，并且这些依赖关系也需要具体指定的版本。因此，在 Ubuntu 为其尝试安装最新的版本时，你将会遇到经典的 <ruby> <a href="https://itsfoss.com/held-broken-packages-error/">  你已保留残缺软件包 </a> <rt>  you have held broken packages </rt></ruby> 错误。
 
 
-![problem installing specific version apt ubuntu](/Asserts/Images//attachment/album/202206/26/145353bsyp5is9n5zttyf9.png)
+![problem installing specific version apt ubuntu](/Asserts/Images/album/202206/26/145353bsyp5is9n5zttyf9.png)
 
 
 为修复这个错误，你需要为其提供它所投诉的所有依赖关系的软件包的具体指定版本。因此，该命令会变成这样：
@@ -192,7 +192,7 @@ sudo apt install -t "o=ubuntu" vlc
 
 ```
 
-![install from repository source](/Asserts/Images//attachment/album/202206/26/145353d3oo8br978pehzeo.png)
+![install from repository source](/Asserts/Images/album/202206/26/145353d3oo8br978pehzeo.png)
 
 
 看起来令人满意？但是，当你必须更新系统时，问题就来了。它接下来会控诉找不到指定的软件包版本。

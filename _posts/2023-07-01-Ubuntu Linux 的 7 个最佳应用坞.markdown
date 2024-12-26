@@ -7,7 +7,7 @@ tags:	[linuxcn,停靠区,应用坞]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/11/162636bc9c2l20spzlj89y.jpg)
+![](/Asserts/Images/album/202307/11/162636bc9c2l20spzlj89y.jpg)
 
 
 
@@ -39,7 +39,7 @@ tags:	[linuxcn,停靠区,应用坞]
 Plank 的最佳特性是其完备性，无需进行任何自定义。它在默认设置下外观出色，并能适应任何发行版。
 
 
-![Plank 应用坞](/Asserts/Images//attachment/album/202307/11/163104k6nv669lcv8s9g96.jpg)
+![Plank 应用坞](/Asserts/Images/album/202307/11/163104k6nv669lcv8s9g96.jpg)
 
 
 你可以使用以下命令在 Ubuntu、Linux Mint 及相关发行版上安装 Plank：
@@ -63,7 +63,7 @@ sudo apt install plank
 如果你正在使用最新的 Ubuntu GNOME 桌面环境，则可以尝试 “Dash to Dock” 扩展。它不是独立的应用程序，但可以将你的启动器转换为简单的应用坞。
 
 
-![Dash to Dock 扩展](/Asserts/Images//attachment/album/202307/11/163111s3towarrllvvnfql.jpg)
+![Dash to Dock 扩展](/Asserts/Images/album/202307/11/163111s3towarrllvvnfql.jpg)
 
 
 该扩展还提供了几个功能，如在多个监视器上显示应用坞、设置大小/图标大小和位置。你还可以自定义其不透明度，使用内置主题并更改应用坞的颜色。
@@ -90,7 +90,7 @@ sudo apt install plank
 要安装此扩展，先安装 [扩展管理器](https://www.debugpoint.com/how-to-install-and-use-gnome-shell-extensions-in-ubuntu/)，然后搜索 “[Dock from Dash](https://extensions.gnome.org/extension/4703/dock-from-dash/)” 并安装。
 
 
-![Dock from Dash](/Asserts/Images//attachment/album/202307/11/163119s19r5pmmkc9mqm89.jpg)
+![Dock from Dash](/Asserts/Images/album/202307/11/163119s19r5pmmkc9mqm89.jpg)
 
 
 #### Latte Dock
@@ -105,7 +105,7 @@ sudo apt install plank
 许多发行版，如 Garuda Linux，曾将其作为默认选项的一部分。但现在已经不再使用 Latte Dock。
 
 
-![Latte Dock](/Asserts/Images//attachment/album/202307/11/163126oz4sc044y1211414.jpg)
+![Latte Dock](/Asserts/Images/album/202307/11/163126oz4sc044y1211414.jpg)
 
 
 你可以使用以下命令安装 Latte Dock。如果你在 Ubuntu 上安装它，请记住它将下载大量的 KDE 生态系统的软件包。因此，建议你在任何 [基于 KDE Plasma 的 Linux 发行版](https://www.debugpoint.com/top-linux-distributions-kde-plasma/) 上使用 Latte 应用坞以获得最佳体验。
@@ -126,7 +126,7 @@ sudo apt install latte-dock
 总体而言，Docky 提供了一个视觉吸引力强、可自定义且高效的解决方案，可用于管理应用程序并提升桌面体验。
 
 
-![Docky 和设置](/Asserts/Images//attachment/album/202307/11/163134kdccro839q7a3qca.jpg)
+![Docky 和设置](/Asserts/Images/album/202307/11/163134kdccro839q7a3qca.jpg)
 
 
 但是有一个问题。
@@ -168,7 +168,7 @@ DockbarX 带有大量的自定义选项和调整，可以让你的桌面看起�
 DockbarX 的一个独特功能是从应用坞直接显示正在运行应用程序的窗口预览。
 
 
-![DockBarX](/Asserts/Images//attachment/album/202307/11/163145vy1r1ijjh44rjm34.jpg)
+![DockBarX](/Asserts/Images/album/202307/11/163145vy1r1ijjh44rjm34.jpg)
 
 
 以下是在 Ubuntu 中安装的步骤：
@@ -201,7 +201,7 @@ yay -S dockbarx
 KSmoothDock 的主要吸引力在于“抛物线缩放效果”，如果你喜欢动画效果，这是一种非常不错的体验。
 
 
-![KSmoothDock](/Asserts/Images//attachment/album/202307/11/163154mww8nnwl448wlpwf.jpg)
+![KSmoothDock](/Asserts/Images/album/202307/11/163154mww8nnwl448wlpwf.jpg)
 
 
 此外，它还提供了图标和面板大小、透明度等自定义选项。它是一个构建良好的应用坞，在 KDE Plasma 系列的发行版中应该非常完美。

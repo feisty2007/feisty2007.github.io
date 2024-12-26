@@ -16,7 +16,7 @@ Linux 有几个命令可以检查硬件信息。你可以使用它们来检查�
 ### 在 Linux 命令行中检查显卡详细信息
 
 
-![](/Asserts/Images//attachment/album/202004/08/134159a11qu83339vb9njz.jpg)
+![](/Asserts/Images/album/202004/08/134159a11qu83339vb9njz.jpg)
 
 
 #### 使用 lspci 命令查找显卡
@@ -89,7 +89,7 @@ abhishek@itsfoss:~$ sudo lshw -C video
 例如，如果你使用的是 [GNOME 桌面环境](https://www.gnome.org/)，那么可以进入“设置”的“关于”部分来检查详细信息。[Ubuntu 20.04](https://itsfoss.com/ubuntu-20-04-release-features/) 中看上去像这样：
 
 
-![Graphics card information check graphically](/Asserts/Images//attachment/album/202004/08/134201mrreercwi8giff3p.jpg)
+![Graphics card information check graphically](/Asserts/Images/album/202004/08/134201mrreercwi8giff3p.jpg)
 
 
 我希望这个快速技巧对你有所帮助。你也可以使用相同的命令来[查找网卡](https://itsfoss.com/find-network-adapter-ubuntu-linux/)和 [Linux 中的 CPU 信息](https://linuxhandbook.com/check-cpu-info-linux/)。

@@ -7,7 +7,7 @@ tags:	[linuxcn,shell,脚本]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/24/121450s0zeo02x0eevzkho.jpg)
+![](/Asserts/Images/album/201904/24/121450s0zeo02x0eevzkho.jpg)
 
 
 Shell 脚本很棒，你可以非常轻松地写出有用的东西来。甚至像是下面这个傻瓜式的命令：

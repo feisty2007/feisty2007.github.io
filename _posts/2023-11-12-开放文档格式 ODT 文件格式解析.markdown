@@ -7,7 +7,7 @@ tags:	[linuxcn,ODF,ODT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/01/223607j3nvjcuw5jcocbz3.jpg)
+![](/Asserts/Images/album/202311/01/223607j3nvjcuw5jcocbz3.jpg)
 
 
 
@@ -120,7 +120,7 @@ content.xml META-INF/ mimetype settings.xml Thumbnails/
 就是这张图片：
 
 
-![Image of rubber ducks in two bowls](/Asserts/Images//attachment/album/202311/01/223659zr9a9hzndzaqhdjx.jpg)
+![Image of rubber ducks in two bowls](/Asserts/Images/album/202311/01/223659zr9a9hzndzaqhdjx.jpg)
 
 
 ### 开放文档格式

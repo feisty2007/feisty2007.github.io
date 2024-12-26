@@ -17,7 +17,7 @@ Cockpit 是一个自由开源的服务器管理软件，它使得我们可以通
 5. 可以轻松地添加和删除用户以及管理多台服务器。
 
 
-![](/Asserts/Images//attachment/album/201603/28/095806wcgczozl2ng6mnd4.png)
+![](/Asserts/Images/album/201603/28/095806wcgczozl2ng6mnd4.png)
 
 
 ### 1. 安装 Cockpit
@@ -38,7 +38,7 @@ CentOS 和 RHEL 官方软件库中有可用的 Cockpit。我们只需要用 yum 
 
 ```
 
-![Centos 上安装 Cockpit](/Asserts/Images//attachment/album/201603/28/095809tg6p6i0pp5bsf6kc.png)
+![Centos 上安装 Cockpit](/Asserts/Images/album/201603/28/095809tg6p6i0pp5bsf6kc.png)
 
 
 #### Fedora 22/21
@@ -53,7 +53,7 @@ CentOS 和 RHEL 官方软件库中有可用的 Cockpit。我们只需要用 yum 
 
 ```
 
-![Fedora 上安装 Cockpit](/Asserts/Images//attachment/album/201603/28/095810kvt7kt00ozv8tzp9.png)
+![Fedora 上安装 Cockpit](/Asserts/Images/album/201603/28/095810kvt7kt00ozv8tzp9.png)
 
 
 #### Arch Linux
@@ -68,7 +68,7 @@ CentOS 和 RHEL 官方软件库中有可用的 Cockpit。我们只需要用 yum 
 
 ```
 
-![Arch linux 上安装 Cockpit](/Asserts/Images//attachment/album/201603/28/095810brff6vfv2cfjwz6y.png)
+![Arch linux 上安装 Cockpit](/Asserts/Images/album/201603/28/095810brff6vfv2cfjwz6y.png)
 
 
 ### 2. 启动并启用 Cockpit
@@ -108,7 +108,7 @@ success
 
 ```
 
-![允许 Cockpit 通过 Firewalld](/Asserts/Images//attachment/album/201603/28/095811twsp77fifvoxixs2.png)
+![允许 Cockpit 通过 Firewalld](/Asserts/Images/album/201603/28/095811twsp77fifvoxixs2.png)
 
 
 #### Iptables
@@ -128,19 +128,19 @@ success
 下面，我们终于要通过 web 浏览器访问 Cockpit web 界面了。根据配置，我们只需要用浏览器打开 https://ip-address:9090 或 https://server.domain.com:9090。在我们这篇博文中，我们用浏览器打开 https://128.199.114.17:9090，正如下图所示。
 
 
-![通过 SSL 访问 Cockpit Web 服务](/Asserts/Images//attachment/album/201603/28/095811l6y22iwl62yh6h08.png)
+![通过 SSL 访问 Cockpit Web 服务](/Asserts/Images/album/201603/28/095811l6y22iwl62yh6h08.png)
 
 
 此时会出现一个 SSL 认证警告，因为我们正在使用一个自签名认证。我们只需要忽略这个警告并进入到登录页面，在 chrome/chromium 中，我们需要点击 Show Advanced 然后点击 **Proceed to 128.199.114.17 (unsafe)**。
 
 
-![Cockpit 登录界面](/Asserts/Images//attachment/album/201603/28/095812jmep8835gfdddssm.png)
+![Cockpit 登录界面](/Asserts/Images/album/201603/28/095812jmep8835gfdddssm.png)
 
 
 现在，要进入仪表盘，我们需要输入详细的登录信息。这里，用户名和密码和用于登录我们的 linux 服务器的用户名和密码相同。当我们输入登录信息并点击 Log In 按钮后，我们就会进入到 Cockpit 仪表盘。
 
 
-![Cockpit 仪表盘](/Asserts/Images//attachment/album/201603/28/095812p06gr460ghykf4z4.png)
+![Cockpit 仪表盘](/Asserts/Images/album/201603/28/095812p06gr460ghykf4z4.png)
 
 
 这里我们可以看到所有的菜单以及 CPU、磁盘、网络、存储使用情况的可视化结果。仪表盘正如上图所示。
@@ -152,7 +152,7 @@ success
 要管理服务，我们需要点击 web 页面右边菜单中的 Services 按钮。然后，我们会看到服务被分成了 5 个类别，目标、系统服务、套接字、计时器和路径。
 
 
-![Cockpit 服务](/Asserts/Images//attachment/album/201603/28/095813tg6w8wgv583aw9kc.png)
+![Cockpit 服务](/Asserts/Images/album/201603/28/095813tg6w8wgv583aw9kc.png)
 
 
 #### Docker 容器
@@ -161,13 +161,13 @@ success
 我们甚至可以用 Cockpit 管理 docker 容器。用 Cockpit 监控和管理 Docker 容器非常简单。由于我们的服务器中没有安装运行 docker，我们需要点击 Start Docker。
 
 
-![Cockpit 容器](/Asserts/Images//attachment/album/201603/28/095813wj1carva83kla186.png)
+![Cockpit 容器](/Asserts/Images/album/201603/28/095813wj1carva83kla186.png)
 
 
 Cockpit 会自动在我们的服务器上安装和运行 docker。启动之后，我们就会看到下面的截图。然后我们就可以按照需求管理 docker 镜像、容器。
 
 
-![Cockpit 容器管理](/Asserts/Images//attachment/album/201603/28/095814vf1ibb5iq5f1f5b5.png)
+![Cockpit 容器管理](/Asserts/Images/album/201603/28/095814vf1ibb5iq5f1f5b5.png)
 
 
 #### Journal 日志查看器
@@ -176,7 +176,7 @@ Cockpit 会自动在我们的服务器上安装和运行 docker。启动之后�
 Cockpit 有个日志查看器，它把错误、警告、注意分到不同的标签页。我们也有一个 All 标签页，在这里可以看到所有的日志信息。
 
 
-![Cockpit Journal 日志](/Asserts/Images//attachment/album/201603/28/095814d4inqa5yjy6m4p9u.png)
+![Cockpit Journal 日志](/Asserts/Images/album/201603/28/095814d4inqa5yjy6m4p9u.png)
 
 
 #### 网络
@@ -185,7 +185,7 @@ Cockpit 有个日志查看器，它把错误、警告、注意分到不同的标
 在网络部分，我们可以看到两个可视化发送和接收速度的图。我们可以看到这里有一个可用网卡的列表，还有 Add Bond、Bridge、VLAN 的选项。如果我们需要配置一个网卡，我们只需要点击网卡名称。在下面，我们可以看到网络的 Journal 日志信息。
 
 
-![Cockpit Network](/Asserts/Images//attachment/album/201603/28/095815zwvkottwh4k31tv4.png)
+![Cockpit Network](/Asserts/Images/album/201603/28/095815zwvkottwh4k31tv4.png)
 
 
 #### 存储
@@ -194,7 +194,7 @@ Cockpit 有个日志查看器，它把错误、警告、注意分到不同的标
 现在，用 Cockpit 可以方便地查看硬盘的读写速度。我们可以查看存储的 Journal 日志以便进行故障排除和修复。在页面中还有一个已用空间的可视化图。我们甚至可以卸载、格式化、删除一块硬盘的某个分区。它还有类似创建 RAID 设备、卷组等攻能。
 
 
-![Cockpit Storage](/Asserts/Images//attachment/album/201603/28/095815ldv1fm1p333axsv1.png)
+![Cockpit Storage](/Asserts/Images/album/201603/28/095815ldv1fm1p333axsv1.png)
 
 
 #### 用户管理
@@ -203,7 +203,7 @@ Cockpit 有个日志查看器，它把错误、警告、注意分到不同的标
 通过 Cockpit Web 界面我们可以方便地创建新用户。在这里创建的账户会应用到系统用户账户。我们可以用它更改密码、指定角色、以及删除用户账户。
 
 
-![Cockpit Accounts](/Asserts/Images//attachment/album/201603/28/095816u3tt3h31zfzfxzlh.png)
+![Cockpit Accounts](/Asserts/Images/album/201603/28/095816u3tt3h31zfzfxzlh.png)
 
 
 #### 实时终端
@@ -212,7 +212,7 @@ Cockpit 有个日志查看器，它把错误、警告、注意分到不同的标
 Cockpit 还有一个很棒的特性。是的，我们可以执行命令，用 Cockpit 界面提供的实时终端执行任务。这使得我们可以根据我们的需求在 web 界面和终端之间自由切换。
 
 
-![Cockpit 终端](/Asserts/Images//attachment/album/201603/28/095816gzrl9hjzsfgsmfjm.png)
+![Cockpit 终端](/Asserts/Images/album/201603/28/095816gzrl9hjzsfgsmfjm.png)
 
 
 ### 总结

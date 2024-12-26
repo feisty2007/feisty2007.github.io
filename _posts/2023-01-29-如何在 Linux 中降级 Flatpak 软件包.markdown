@@ -7,7 +7,7 @@ tags:	[linuxcn,Flatpak]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/01/160400h0mmppwwvxd004bm.jpg)
+![](/Asserts/Images/album/202301/01/160400h0mmppwwvxd004bm.jpg)
 
 
 
@@ -51,7 +51,7 @@ flatpak list --app
 
 ```
 
-![find flatpak package id in linux](/Asserts/Images//attachment/album/202301/01/160402zbws11busddlhpuz.png)
+![find flatpak package id in linux](/Asserts/Images/album/202301/01/160402zbws11busddlhpuz.png)
 
 
 记下要降级的包的应用 ID。
@@ -75,7 +75,7 @@ flatpak remote-info --log flathub <Application ID>
 
 ```
 
-![find previous releases in flatpak](/Asserts/Images//attachment/album/202301/01/160403so7tjrjrfowr772k.png)
+![find previous releases in flatpak](/Asserts/Images/album/202301/01/160403so7tjrjrfowr772k.png)
 
 
 找到首选的先前版本后，复制如上所示的提交的代码。
@@ -109,7 +109,7 @@ sudo flatpak update --commit=c4ef3f4be655cbe2559451a9ef5977ab28139c54bb5adbd7db8
 
 ```
 
-![downgrade flatpak package in linux](/Asserts/Images//attachment/album/202301/01/160404rbd2ed8z8vh8vge4.png)
+![downgrade flatpak package in linux](/Asserts/Images/album/202301/01/160404rbd2ed8z8vh8vge4.png)
 
 
 这就完成了！
@@ -124,7 +124,7 @@ flatpak update
 
 ```
 
-![downgrade flatpak package](/Asserts/Images//attachment/album/202301/01/160404h347dhcjf264ffed.png)
+![downgrade flatpak package](/Asserts/Images/album/202301/01/160404h347dhcjf264ffed.png)
 
 
 如你所见，Black Box 已过时，需要更新，这意味着包已成功降级！

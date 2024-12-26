@@ -7,7 +7,7 @@ tags:	[linuxcn,uCareSystem]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/01/172353kby5o5rmj6nobjyg.jpg)
+![](/Asserts/Images/album/201707/01/172353kby5o5rmj6nobjyg.jpg)
 
 
 [uCareSystem Core](https://github.com/cerebrux/uCareSystem) 是一种能够自动执行基本的系统维护活动的轻型实用程序，另一方面它可以通过多种方式减少系统管理员的任务，节省大量时间。它没有任何 GUI，并提供纯粹的命令行界面来执行活动。

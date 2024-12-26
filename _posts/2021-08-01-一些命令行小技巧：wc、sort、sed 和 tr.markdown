@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/10/085720hyd795y1wrmd5rx9.jpg)
+![](/Asserts/Images/album/202108/10/085720hyd795y1wrmd5rx9.jpg)
 
 
 Linux 发行版十分好用，而且它们有一些用户可能不知道的技巧。让我们来看看一些命令行实用工具，当你热衷于终端而不是 GUI 时，它们可能更顺手。

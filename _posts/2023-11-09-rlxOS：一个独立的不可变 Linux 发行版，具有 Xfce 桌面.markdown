@@ -7,7 +7,7 @@ tags:	[linuxcn,不可变发行版,rlxOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/26/175005asnmncwmiscmuems.png)
+![](/Asserts/Images/album/202311/26/175005asnmncwmiscmuems.png)
 
 
 
@@ -41,7 +41,7 @@ tags:	[linuxcn,不可变发行版,rlxOS]
 ### rlxOS：概述 ⭐
 
 
-![](/Asserts/Images//attachment/album/202311/26/175103khs7ftmz42hc2c1y.jpg)
+![](/Asserts/Images/album/202311/26/175103khs7ftmz42hc2c1y.jpg)
 
 
 rlxOS 以**从零开始构建**为自豪，作为一个 [独立的 Linux 发行版](https://itsfoss.com/independent-linux-distros/)，能更好地控制核心和工作部分。作为不可变的发行版，它实现了一种 [滚动发布](https://itsfoss.com/rolling-release/) 的方式，从而用户在面对大的更新时无需重新安装。
@@ -74,7 +74,7 @@ rlxOS 以**从零开始构建**为自豪，作为一个 [独立的 Linux 发行�
 我在使用 [Ubuntu 上的 VirtualBox](https://itsfoss.com/install-virtualbox-ubuntu/) 的虚拟机（VM）上启动了 rlxOS。安装程序看起来非常舒服，它那种圆角矩形的感觉让我**想起了 GNOME 中** [**Adwaita**](https://en.wikipedia.org/wiki/Adwaita_(design_language)) **的主题风格**。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175103iwd83srmrzrgwevn.jpg)
+![](/Asserts/Images/album/202311/26/175103iwd83srmrzrgwevn.jpg)
 
 
 我在进行过程中**需要手动使用** [GParted](https://gparted.org/) **对驱动器进行分区**。首先，我在虚拟驱动器上建立了推荐的 msdos 分区表。
@@ -94,7 +94,7 @@ rlxOS 以**从零开始构建**为自豪，作为一个 [独立的 Linux 发行�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/26/175103yvaznfgwvnyvsm3o.jpg)
+![](/Asserts/Images/album/202311/26/175103yvaznfgwvnyvsm3o.jpg)
 
 
 **安装程序还给出了关于分区的有效提示**，将较大的一个标记为 `Linux`，将较小的一个标记为 `EFI`。
@@ -103,43 +103,43 @@ rlxOS 以**从零开始构建**为自豪，作为一个 [独立的 Linux 发行�
 如果你打算在 Windows 系统旁边安装它，你需要小心分区的设定，因为我们还没有在这里进行过测试。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175104aqttei7qtggzsve7.jpg)
+![](/Asserts/Images/album/202311/26/175104aqttei7qtggzsve7.jpg)
 
 
 然后，确认屏幕会显示出来，揭示**一些重要的最后阶段信息**。我点击 “<ruby> 应用 <rt>  Apply </rt></ruby>” 继续进行。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175104ynxwxv3kr1w1tt1i.jpg)
+![](/Asserts/Images/album/202311/26/175104ynxwxv3kr1w1tt1i.jpg)
 
 
 然后，它**需要花费一些时间才能完成安装**。但是，出于一些原因，我在安装过程中能够点击 “<ruby> 下一步 <rt>  Next </rt></ruby>” 和 “<ruby> 上一步 <rt>  Back </rt></ruby>” 选项（我认为这些选项应是灰化的）。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175105zpp2zbyqkyhlzy1j.jpg)
+![](/Asserts/Images/album/202311/26/175105zpp2zbyqkyhlzy1j.jpg)
 
 
 我建议你让安装自然进行，不要调整其他任何事情，并等待如下所示的 “<ruby> 成功 <rt>  Success </rt></ruby>” 提示。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175105comvrllvrfmo8vrm.jpg)
+![](/Asserts/Images/album/202311/26/175105comvrllvrfmo8vrm.jpg)
 
 
 在重启后，**快速设置向导**开始运行，我输入了用户信息和密码，然后再次重启。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175105t7e3dk3vz8sw19km.jpg)
+![](/Asserts/Images/album/202311/26/175105t7e3dk3vz8sw19km.jpg)
 
 
 在重启后看到了**十分整洁的登录界面**，含有一张漂亮的壁纸，和标题栏常见的一些选项/信息。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175106xl6at6zxhofwwac5.jpg)
+![](/Asserts/Images/album/202311/26/175106xl6at6zxhofwwac5.jpg)
 
 
 登录之后，我看到了**一个非常熟悉的桌面界面**，这个界面有**一个类似 Windows 的应用启动器**，和**一栏包含了有用的部件的任务栏**，如语言、通知、网络、节能模式等等。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175106i1j2amntudjdmdln.jpg)
+![](/Asserts/Images/album/202311/26/175106i1j2amntudjdmdln.jpg)
 
 
 然而，我立刻注意到**rlxOS 预装的应用程序非常的少**。这可以看作一件好事，这取决于你问的人。
@@ -154,13 +154,13 @@ rlxOS 以**从零开始构建**为自豪，作为一个 [独立的 Linux 发行�
 查看设置应用，它似乎很好的与系统主题相匹配。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175107gkwge4wd16wb6bjz.jpg)
+![](/Asserts/Images/album/202311/26/175107gkwge4wd16wb6bjz.jpg)
 
 
 rlxOS使用 Xfce 作为其桌面，这是流行的且最小化的桌面环境之一。我测试的稳定版是运行定制化 [Xfce 4.18](https://news.itsfoss.com/xfce-4-18-release/)。
 
 
-![](/Asserts/Images//attachment/album/202311/26/175107lvw8dsxrbdwsdvn4.jpg)
+![](/Asserts/Images/album/202311/26/175107lvw8dsxrbdwsdvn4.jpg)
 
 
 如果你过去使用过 Xfce，你会发现 rlxOS 上的版本既熟悉又有些许不同。我用了一段时间，对其所提供的内容很满意，比如多任务处理非常轻松，因为**rlxOS 支持工作空间**。

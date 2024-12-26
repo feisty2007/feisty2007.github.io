@@ -19,7 +19,7 @@ Linux 用户在命令行上遇到的常见问题之一是[定位具有特定名�
 下面用不同的方式只[列出所有你今天创建或修改的文件](/article-7984-1.html)（直接或间接）。
 
 
-![](/Asserts/Images//attachment/album/201701/05/212219h1n7v11mogznj003.jpg)
+![](/Asserts/Images/album/201701/05/212219h1n7v11mogznj003.jpg)
 
 
 ### 1、 使用 ls 命令，只列出你的 home 文件夹中今天的文件。
@@ -40,7 +40,7 @@ Linux 用户在命令行上遇到的常见问题之一是[定位具有特定名�
 * `+％D` - 以 `％m/％d/％y` （月/日/年）格式显示或使用日期
 
 
-![Find Recent Files in Linux](/Asserts/Images//attachment/album/201701/06/090717eldbidcicipwd5kf.png)
+![Find Recent Files in Linux](/Asserts/Images/album/201701/06/090717eldbidcicipwd5kf.png)
 
 
 *在Linux中找出最近的文件*
@@ -80,7 +80,7 @@ Linux 用户在命令行上遇到的常见问题之一是[定位具有特定名�
 
 ```
 
-![Find Today's Files in Linux](/Asserts/Images//attachment/album/201701/05/212244geaw3vy199t7a3a9.png)
+![Find Today's Files in Linux](/Asserts/Images/album/201701/05/212244geaw3vy199t7a3a9.png)
 
 
 *在 Linux 中找出今天的文件*
@@ -107,7 +107,7 @@ find: I cannot figure out how to interpret '12-06-2016' as a date or time
 
 ```
 
-![Find Todays Modified Files in Linux](/Asserts/Images//attachment/album/201701/05/212245qkhqbnndihxqhffs.png)
+![Find Todays Modified Files in Linux](/Asserts/Images/album/201701/05/212245qkhqbnndihxqhffs.png)
 
 
 *在 Linux 中找出今天修改的文件*

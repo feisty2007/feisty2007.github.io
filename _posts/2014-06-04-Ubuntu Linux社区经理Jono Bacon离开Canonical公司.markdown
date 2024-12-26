@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/15/174940urx5fmr8x6aw8ws6.jpg)
+![](/Asserts/Images/album/201406/15/174940urx5fmr8x6aw8ws6.jpg)
 
 
 Canonical——Ubuntu Linux背后的公司，其任职已久的社区经理将离职。[Jono Bacon](http://www.jonobacon.org/)，一直是 Ubuntu 业界最熟悉的面孔之一，他将在[XPRIZE基金会](http://www.xprize.org/)任新职。

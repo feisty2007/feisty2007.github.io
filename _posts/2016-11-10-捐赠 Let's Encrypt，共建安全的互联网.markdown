@@ -13,7 +13,7 @@ tags:	[linuxcn,SSL,证书,CA]
 [Let's Encrypt](https://letsencrypt.org/) 项目是由<ruby> 互联网安全研究小组 <rt>  ISRG，Internet Security Research Group </rt></ruby>主导并开发的一个新型<ruby> 数字证书认证机构 <rt>  CA，Certificate Authority </rt></ruby>。该项目旨在开发一个自由且开放的自动化 CA 套件，并向公众提供相关的证书免费签发服务以降低安全通讯的财务、技术和教育成本。
 
 
-![](/Asserts/Images//attachment/album/201611/02/221527wx3u6wq6md9kqxum.jpg)
+![](/Asserts/Images/album/201611/02/221527wx3u6wq6md9kqxum.jpg)
 
 
 **网站的完全加密是非常有必要的，这样每个人都可以随意在网上畅游而不用担心他们的活动被监视、拦截和修改。** 
@@ -22,7 +22,7 @@ tags:	[linuxcn,SSL,证书,CA]
 Let’s Encrypt 的做法与一般的 CA 服务商不同。他们为那些需要加密的网站提供了免费、易用的获取和管理证书的服务，而且在全球的每一个国家都可以使用。这些服务可以帮助人们或组织战胜来自经济、技术和培训方面的障碍，在互联网上安全地通讯。 
 
 
-![](/Asserts/Images//attachment/album/201611/02/222104lzdhzaf0zzd49bha.png)
+![](/Asserts/Images/album/201611/02/222104lzdhzaf0zzd49bha.png)
 
 
 仅仅在 Let’s Encrypt 运营了 10 个月之后，加密的页面数量就有了快速提升！这里面，Let’s Encrypt 项目居功甚伟，采用加密 Let’s Encrypt 的页面 90% 都是之前从未进行过加密的。
@@ -48,13 +48,13 @@ Let’s Encrypt 的做法与一般的 CA 服务商不同。他们为那些需要
 第二个级别 $50，您将收到一些精美的贴纸，可以贴在你的保险杠、水杯或者其它的什么地方。 
 
 
-![](/Asserts/Images//attachment/album/201611/02/222104wjdjd3jrdrhy323d.png)
+![](/Asserts/Images/album/201611/02/222104wjdjd3jrdrhy323d.png)
 
 
 第三个级别是 $100，他们叫这个“To Encryption and Beyond!”，礼品是这些漂亮的、合身的 T恤。
 
 
-![](/Asserts/Images//attachment/album/201611/02/222105l44k42lcffc8p8ru.png)
+![](/Asserts/Images/album/201611/02/222105l44k42lcffc8p8ru.png)
 
 
 如果您捐赠了 $250，您将同时收到 T 恤和贴纸。

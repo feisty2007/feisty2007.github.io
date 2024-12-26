@@ -16,7 +16,7 @@ Neofetch 和 [ScreenFetch](http://www.tecmint.com/screenfetch-system-information
 它的主要特点有：运行速度快，可以显示全色图像 —— 用 ASCII 字符显示的发行版 logo ，旁边显示系统信息，可以高度定制，可以随时随地显示系统信息，并且在脚本结束的时候还可以通过一个特殊的参数来启用桌面截图。
 
 
-![](/Asserts/Images//attachment/album/201612/04/145722xrl8tzwegoeh22oh.jpg)
+![](/Asserts/Images/album/201612/04/145722xrl8tzwegoeh22oh.jpg)
 
 
 #### 系统要求：
@@ -123,7 +123,7 @@ $ neofetch
 #### Linux Mint 系统信息
 
 
-![Linux Mint 系统信息](/Asserts/Images//attachment/album/201612/04/145755ztaccavd22vssaop.png)
+![Linux Mint 系统信息](/Asserts/Images/album/201612/04/145755ztaccavd22vssaop.png)
 
 
 *Linux Mint 系统信息*
@@ -132,7 +132,7 @@ $ neofetch
 #### Ubuntu 系统信息
 
 
-![Ubuntu System Information](/Asserts/Images//attachment/album/201612/04/145756t92tpnypsgnmity2.png)
+![Ubuntu System Information](/Asserts/Images/album/201612/04/145756t92tpnypsgnmity2.png)
 
 
 *Ubuntu 系统信息*
@@ -157,7 +157,7 @@ $ neofetch
 
 ```
 
-![Ubuntu System Information with Logo](/Asserts/Images//attachment/album/201612/04/145757thnj4nc7888p8den.png)
+![Ubuntu System Information with Logo](/Asserts/Images/album/201612/04/145757thnj4nc7888p8den.png)
 
 
 *Ubuntu 系统信息带 logo*

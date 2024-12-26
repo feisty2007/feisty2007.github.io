@@ -7,7 +7,7 @@ tags:	[linuxcn,cat,bat]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/29/230445r4jw1urw98082s9s.png)
+![](/Asserts/Images/album/201809/29/230445r4jw1urw98082s9s.png)
 
 
 在类 UNIX 系统中，我们使用 `cat` 命令去打印和连接文件。使用 `cat` 命令，我们能将文件目录打印到到标准输出，合成几个文件为一个目标文件，还有追加几个文件到目标文件中。今天，我偶然发现一个具有相似作用的命令叫做 “Bat” ，它是 `cat` 命令的一个克隆版，具有一些例如语法高亮、 Git 集成和自动分页等非常酷的特性。在这个简略指南中，我们将讲述如何在 Linux 中安装和使用 `bat` 命令。
@@ -96,7 +96,7 @@ $ bat file1.txt file2.txt file3.txt > document.txt
 `bat` 命令支持大多数编程和标记语言的<ruby> 语法高亮 <rt>  syntax highlighting </rt></ruby>。比如，下面这个例子。我将使用 `cat` 和 `bat` 命令来展示 `reverse.py` 的内容。
 
 
-![](/Asserts/Images//attachment/album/201809/29/230447q2rsnyifq9iiiyvn.png)
+![](/Asserts/Images/album/201809/29/230447q2rsnyifq9iiiyvn.png)
 
 
 你注意到区别了吗？ `cat` 命令以纯文本格式显示文件的内容，而 `bat` 命令显示了语法高亮和整齐的文本对齐格式。更好了不是吗？
@@ -110,7 +110,7 @@ $ bat file1.txt file2.txt file3.txt > document.txt
 $ bat -n reverse.py
 ```
 
-![](/Asserts/Images//attachment/album/201809/29/230447h0mmjpjokzpoohqb.png)
+![](/Asserts/Images/album/201809/29/230447h0mmjpjokzpoohqb.png)
 
 
 另一个 `bat` 命令中值得注意的特性是它支持<ruby> 自动分页 <rt>  automatic paging </rt></ruby>。 它的意思是当文件的输出对于屏幕来说太大的时候，`bat` 命令自动将自己的输出内容传输到 `less` 命令中，所以你可以一页一页的查看输出内容。
@@ -122,7 +122,7 @@ $ bat -n reverse.py
 看一下下面的输出：
 
 
-![](/Asserts/Images//attachment/album/201809/29/230448aeax0yeseaygciy2.png)
+![](/Asserts/Images/album/201809/29/230448aeax0yeseaygciy2.png)
 
 
 正如你所看到的，`cat` 命令显示了文章的最后一页。
@@ -144,7 +144,7 @@ $ cat reverse.py | less
 $ bat reverse.py
 ```
 
-![](/Asserts/Images//attachment/album/201809/29/230449j69j3i01zlmvj8h1.png)
+![](/Asserts/Images/album/201809/29/230449j69j3i01zlmvj8h1.png)
 
 
 现在按下回车键去往下一页。
@@ -153,7 +153,7 @@ $ bat reverse.py
 `bat` 命令也支持 <ruby> Git 集成 <rt>  <strong>   GIT integration  </strong> </rt></ruby>，这样您就可以轻松查看/编辑 Git 存储库中的文件。 它与 Git 连接可以显示关于索引的修改。（看左栏）
 
 
-![](/Asserts/Images//attachment/album/201809/29/230450km3bo51tzgc3uc15.png)
+![](/Asserts/Images/album/201809/29/230450km3bo51tzgc3uc15.png)
 
 
 ### 定制 Bat

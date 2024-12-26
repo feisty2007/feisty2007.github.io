@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,openEuler,欧拉]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/06/195129r6cyid390q01pao6.jpg)
+![](/Asserts/Images/album/202109/06/195129r6cyid390q01pao6.jpg)
 
 
 ### 从黑客玩具到席卷互联网

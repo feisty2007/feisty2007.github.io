@@ -7,7 +7,7 @@ tags:	[linuxcn,DAW,音乐]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/02/123844cydiigpj23zgi7z7.jpg)
+![](/Asserts/Images/album/202112/02/123844cydiigpj23zgi7z7.jpg)
 
 
 <ruby> 数字音频工作站 <rt>  Digital Audio Workstation </rt></ruby>（DAW）可以让你录音、混音和制作音乐。对于商业用途，有几个主流的选择可以考虑，它们通常被认为是行业标准。
@@ -59,7 +59,7 @@ tags:	[linuxcn,DAW,音乐]
 ### 1、Ardour
 
 
-![](/Asserts/Images//attachment/album/202112/02/123852ki3qbslpskckf9r2.png)
+![](/Asserts/Images/album/202112/02/123852ki3qbslpskckf9r2.png)
 
 
 [Ardour](https://ardour.org/) 是最流行的开源 DAW，可用于 Linux。它也可用于 Windows 和 macOS。
@@ -89,7 +89,7 @@ tags:	[linuxcn,DAW,音乐]
 ### 2、LMMS
 
 
-![](/Asserts/Images//attachment/album/202112/02/123853ki0loy0zyis00p8h.png)
+![](/Asserts/Images/album/202112/02/123853ki0loy0zyis00p8h.png)
 
 
 [LMMS](https://lmms.io/lsp/) 是一个自由开源的 DAW，可用于 Linux 和其他平台。
@@ -116,7 +116,7 @@ tags:	[linuxcn,DAW,音乐]
 ### 3、Bitwig Studio
 
 
-![](/Asserts/Images//attachment/album/202112/02/123853zku25kfx5a6ui2u0.png)
+![](/Asserts/Images/album/202112/02/123853zku25kfx5a6ui2u0.png)
 
 
 [Bitwig Studio](https://www.bitwig.com/) 是流行的主流音乐 DAW 之一，也支持 Linux。与本列表中的其他 DAW 相比，Bitwig 提供了更好的跨平台支持和硬件集成。
@@ -140,7 +140,7 @@ Bitwig 包括各种创意工具来处理音频文件和信号。所以，它完�
 ### 4、REAPER
 
 
-![](/Asserts/Images//attachment/album/202112/02/123854to93nh7znenyadsh.png)
+![](/Asserts/Images/album/202112/02/123854to93nh7znenyadsh.png)
 
 
 [Reaper](https://www.reaper.fm) 是一个可用于 Linux 的经济型 DAW。它提供了一个简单的用户界面和所有的基本功能。

@@ -7,7 +7,7 @@ tags:	[linuxcn,白板]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/22/234542niviqp0tqutnvi56.jpg)
+![](/Asserts/Images/album/202309/22/234542niviqp0tqutnvi56.jpg)
 
 
 
@@ -48,7 +48,7 @@ Xournal++ 允许你进行书写、绘画，以及其他常见的在纸上进行�
 Xournal++ 是使用 C++ 和 GTK3 进行编写的。
 
 
-![Linux 下的 Xournal++ 白板应用程序](/Asserts/Images//attachment/album/202309/22/234707oi47v8lbvbgbwv9v.jpg)
+![Linux 下的 Xournal++ 白板应用程序](/Asserts/Images/album/202309/22/234707oi47v8lbvbgbwv9v.jpg)
 
 
 对于 Linux 系统，你可以按下述步骤进行安装。此程序是完全免费的，且适用于 Linux、macOS 和 Windows 系统。如果你想在移动设备上尝试，也提供了 BETA 版本。
@@ -91,7 +91,7 @@ Xournal++ 是使用 C++ 和 GTK3 进行编写的。
 OpenBoard 内置了丰富的功能，包括颜色、画刷、文本、简单的绘图形状，页面支持等等。此应用基于 Qt 技术构建。
 
 
-![OpenBoard](/Asserts/Images//attachment/album/202309/22/234717u1722712x4p49c1j.jpg)
+![OpenBoard](/Asserts/Images/album/202309/22/234717u1722712x4p49c1j.jpg)
 
 
 安装步骤：
@@ -134,7 +134,7 @@ Scrivano 是一款新推出的基于 Qt 技术的白板应用。其设计理念�
 你可以在我们关于 [该应用官方评述](https://www.debugpoint.com/scrivano/) 中了解更多关于 Scrivano 的信息。
 
 
-![Scrivano 中的贴纸](/Asserts/Images//attachment/album/202309/22/234729eaxgwigogifhhh78.jpg)
+![Scrivano 中的贴纸](/Asserts/Images/album/202309/22/234729eaxgwigogifhhh78.jpg)
 
 
 你可以 [对你的系统进行 Flatpak 配置以使用 Flathub](https://www.debugpoint.com/how-to-install-flatpak-apps-ubuntu-linux/)，然后点击下面的按钮，通过 [Flathub](https://flathub.org/apps/details/com.github.scrivanolabs.scrivano) 进行安装。
@@ -172,7 +172,7 @@ Scrivano 是一款新推出的基于 Qt 技术的白板应用。其设计理念�
 * 对任何笔记部分都可以进行调整大小、移动、删除、改变颜色等多种操作。
 
 
-![NoteLab](/Asserts/Images//attachment/album/202309/22/234740a6e6ce55e483w5dk.jpg)
+![NoteLab](/Asserts/Images/album/202309/22/234740a6e6ce55e483w5dk.jpg)
 
 
 然而，这是一个由 Java 编写并以 .jar 文件形式发布的应用，所以你需要 Java 运行环境来运行它。你可以参考我们的指南在 Linux 系统中安装 Java 或 JRE。
@@ -218,7 +218,7 @@ Rnote 使用 GTK4 和 Rust 进行开发，非常适合在 GNOME 桌面以及各�
 需要注意的是，该应用程序目前仍在开发中。
 
 
-![基于 GTK4 和 Rust 的 Linux 白板应用 Rnote](/Asserts/Images//attachment/album/202309/22/234752ui5ol5igvo0f4oor.jpg)
+![基于 GTK4 和 Rust 的 Linux 白板应用 Rnote](/Asserts/Images/album/202309/22/234752ui5ol5igvo0f4oor.jpg)
 
 
 如何安装：
@@ -250,7 +250,7 @@ Rnote 使用 GTK4 和 Rust 进行开发，非常适合在 GNOME 桌面以及各�
 其工具箱相当标准，拥有自由手绘刷、橡皮擦、直线工具和选择工具等。你可以移动或删除你的笔划部分——这些在运行时会被视为点的集合进行渲染。
 
 
-![Lorien 白板应用程序 for Linux](/Asserts/Images//attachment/album/202309/22/234801ecc0jze3zz41nknf.jpg)
+![Lorien 白板应用程序 for Linux](/Asserts/Images/album/202309/22/234801ecc0jze3zz41nknf.jpg)
 
 
 如何安装：
@@ -282,7 +282,7 @@ Rainbow Board 是一款基于 Electron 和 React 的自由开源白板应用。�
 它提供了一个标准的画布，支持触控和手写输入。工具箱包括刷子大小、颜色、填充颜色、字体以及撤销和重做操作。你可以将你的绘制结果导出为 PNG 或 SVG 文件。
 
 
-![Rainbow Board 白板应用 for Linux](/Asserts/Images//attachment/album/202309/22/234808kn3dmv23mrrvzfge.jpg)
+![Rainbow Board 白板应用 for Linux](/Asserts/Images/album/202309/22/234808kn3dmv23mrrvzfge.jpg)
 
 
 如何安装：

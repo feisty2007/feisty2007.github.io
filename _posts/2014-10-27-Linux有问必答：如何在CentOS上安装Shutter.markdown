@@ -27,7 +27,7 @@ Shutter 在 CentOS (截止至版本 7)上没有预先构建好的软件包。幸
 
 ```
 
-![](/Asserts/Images//attachment/album/201410/05/213432aj8wkoj688jgujfj.jpg)
+![](/Asserts/Images/album/201410/05/213432aj8wkoj688jgujfj.jpg)
 
 
 

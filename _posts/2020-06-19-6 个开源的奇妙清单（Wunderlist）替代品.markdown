@@ -15,7 +15,7 @@ tags:	[linuxcn,清单]
 > 
 
 
-![](/Asserts/Images//attachment/album/202006/14/142722a639gqqrgg7x6hb5.jpg)
+![](/Asserts/Images/album/202006/14/142722a639gqqrgg7x6hb5.jpg)
 
 
 奇妙清单（Wunderlist）是一款清单应用，受到很多人的喜爱，但从 2020 年 5 月 6 日起，它就永远停止了。它的网站鼓励现有用户下载并使用“微软待办”来代替它。这很诱人，因为它可以轻松导入你多年来制作的所有这些列表。不过话又说回来，也许这是个机会，可以“近藤麻理惠”一下这些列表，并削减一些事务。（你真的需要 30 个列表吗？很显然，我觉得我需要，所以我不做评判。）
@@ -54,7 +54,7 @@ Tasks 的默认视图是每日视图，所以你输入的任何任务都被假�
 评测者：Seth Kenlon
 
 
-![Screenshot of Tasks interface](/Asserts/Images//attachment/album/202006/14/142806exkd3s37dns3rron.jpg "Screenshot of Tasks interface")
+![Screenshot of Tasks interface](/Asserts/Images/album/202006/14/142806exkd3s37dns3rron.jpg "Screenshot of Tasks interface")
 
 
 ### OpenTasks：适于长列表
@@ -66,7 +66,7 @@ Tasks 的默认视图是每日视图，所以你输入的任何任务都被假�
 [阅读完整的 OpenTasks 评测](https://opensource.com/article/17/1/task-management-time-tracking-android)，作者：Joshua Allen Holm。
 
 
-![OpenTasks in Google Play store](/Asserts/Images//attachment/album/202006/14/142807ifdvsmsjzj6dmz5j.jpg "OpenTasks in Google Play store")
+![OpenTasks in Google Play store](/Asserts/Images/album/202006/14/142807ifdvsmsjzj6dmz5j.jpg "OpenTasks in Google Play store")
 
 
 ### Mirakel：嵌套列表的绝佳之选
@@ -78,7 +78,7 @@ Tasks 的默认视图是每日视图，所以你输入的任何任务都被假�
 [阅读完整的 Mirakel 评测](https://opensource.com/article/17/1/task-management-time-tracking-android)，作者：Joshua Allen Holm。
 
 
-![Screenshot from website of Mirakel app](/Asserts/Images//attachment/album/202006/14/142810g7nd4dbt54l6d79h.jpg "Screenshot from website of Mirakel app")
+![Screenshot from website of Mirakel app](/Asserts/Images/album/202006/14/142810g7nd4dbt54l6d79h.jpg "Screenshot from website of Mirakel app")
 
 
 ### Todo：简单有效，随处可用
@@ -90,7 +90,7 @@ Tasks 的默认视图是每日视图，所以你输入的任何任务都被假�
 [阅读完整的 todo.txt 评测](/article-11835-1.html)，作者：Kevin Sonney。
 
 
-![Drop-down menu for Todo.txt](/Asserts/Images//attachment/album/202006/14/142814ow4www9tiiwc09ez.png "Drop-down menu for Todo.txt")
+![Drop-down menu for Todo.txt](/Asserts/Images/album/202006/14/142814ow4www9tiiwc09ez.png "Drop-down menu for Todo.txt")
 
 
 ### Joplin：最佳私人列表
@@ -102,7 +102,7 @@ Tasks 的默认视图是每日视图，所以你输入的任何任务都被假�
 [阅读完整的 Joplin 评测](/article-10476-1.html)，作者：Kevin Sonney。
 
 
-![Joplin graphical version ](/Asserts/Images//attachment/album/202006/14/142827uzzb2tlq32f4m2rh.png "Joplin graphical version ")
+![Joplin graphical version ](/Asserts/Images/album/202006/14/142827uzzb2tlq32f4m2rh.png "Joplin graphical version ")
 
 
 ### CherryTree：最好的 Evernote / OneNote / Keep 替代品
@@ -114,7 +114,7 @@ Tasks 的默认视图是每日视图，所以你输入的任何任务都被假�
 [阅读完整的 CherryTree 评测](https://opensource.com/article/19/5/cherrytree-notetaking)，作者：Ben Cotton。
 
 
-![CherryTree's hierarchical note layout](/Asserts/Images//attachment/album/202006/14/142838mb1158cmesiwimcp.png "CherryTree's hierarchical note layout")
+![CherryTree's hierarchical note layout](/Asserts/Images/album/202006/14/142838mb1158cmesiwimcp.png "CherryTree's hierarchical note layout")
 
 
 ### 附赠：Wekan，给看板粉丝
@@ -126,7 +126,7 @@ Tasks 的默认视图是每日视图，所以你输入的任何任务都被假�
 [阅读完整的 Wekan 评测](/article-10454-1.html)，作者：Kevin Sonney。
 
 
-![Wekan kanban board](/Asserts/Images//attachment/album/202006/14/142848hm42frnpb3qp4bg7.png "Wekan kanban board")
+![Wekan kanban board](/Asserts/Images/album/202006/14/142848hm42frnpb3qp4bg7.png "Wekan kanban board")
 
 
 

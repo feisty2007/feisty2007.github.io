@@ -16,7 +16,7 @@ Augeas可被认为填补了Puppet能力的空白，比如在其中一个指定�
 ### Augeas是什么?
 
 
-![](/Asserts/Images//attachment/album/201411/25/163727yz7ejia7eic969i3.png)
+![](/Asserts/Images/album/201411/25/163727yz7ejia7eic969i3.png)
 
 
 Augeas基本上就是一个配置编辑工具。它以他们原生的格式解析配置文件并且将它们转换成树。配置的更改可以通过操作树来完成，并可以以原生配置文件格式保存配置。

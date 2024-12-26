@@ -7,7 +7,7 @@ tags:	[linuxcn,Windows,Rust,iOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/25/145509riakb5kibzjtuj7n.jpg)
+![](/Asserts/Images/album/202008/25/145509riakb5kibzjtuj7n.jpg)
 
 
 #### 微软庆祝 Windows 95 发布 25 周年

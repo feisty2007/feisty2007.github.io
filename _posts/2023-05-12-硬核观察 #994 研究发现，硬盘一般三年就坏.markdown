@@ -7,10 +7,10 @@ tags:	[linuxcn,硬盘,微服务,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/07/150456bij4dr49h7h9rlpg.jpg)
+![](/Asserts/Images/album/202305/07/150456bij4dr49h7h9rlpg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/07/150505qgsmabu28uleao8b.jpg)
+![](/Asserts/Images/album/202305/07/150505qgsmabu28uleao8b.jpg)
 
 
 ### 研究发现，硬盘一般三年就坏
@@ -35,7 +35,7 @@ tags:	[linuxcn,硬盘,微服务,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/07/150518mk0a16jb11w7owzl.jpg)
+![](/Asserts/Images/album/202305/07/150518mk0a16jb11w7owzl.jpg)
 
 
 ### 从微服务转换到单体应用，减少了 90% 的成本
@@ -60,7 +60,7 @@ tags:	[linuxcn,硬盘,微服务,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/07/150532jr6obzaieep6is6h.jpg)
+![](/Asserts/Images/album/202305/07/150532jr6obzaieep6is6h.jpg)
 
 
 ### Mojo：一种具有 C 语言速度的 Python 超集

@@ -15,7 +15,7 @@ tags:	[linuxcn,Rust,Cargo]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/31/150031j9e0xgeg9jpxeip0.jpg)
+![](/Asserts/Images/album/202110/31/150031j9e0xgeg9jpxeip0.jpg)
 
 
 自从 Mozilla 贡献了 [Rust](https://www.rust-lang.org/) 语言之后，它就获得了更加突出和受欢迎的地位。口说无凭。[Rust 将被使用在 Linux 内核中](https://www.zdnet.com/article/rust-in-the-linux-kernel-why-it-matters-and-whats-happening-next/)，它是继 C 语言之后的第二种编程语言。
@@ -74,19 +74,19 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ```
 
-![](/Asserts/Images//attachment/album/202110/31/150036mba1shcjwihv7xsk.png)
+![](/Asserts/Images/album/202110/31/150036mba1shcjwihv7xsk.png)
 
 
 它会询问你输入所需的安装类型。选择选项 `1`：
 
 
-![](/Asserts/Images//attachment/album/202110/31/150036o1igbiwb46f66i44.png)
+![](/Asserts/Images/album/202110/31/150036o1igbiwb46f66i44.png)
 
 
 脚本完成安装后，你需要获取配置文件的来源，以使更改应用于你的 shell。
 
 
-![](/Asserts/Images//attachment/album/202110/31/150036jad8dbuydb7f43d3.png)
+![](/Asserts/Images/album/202110/31/150036jad8dbuydb7f43d3.png)
 
 
 应用文件：
@@ -107,7 +107,7 @@ rustc --version
 
 ```
 
-![Verifying Rust installation](/Asserts/Images//attachment/album/202110/31/150036kc0coytuqdbt9ydc.png)
+![Verifying Rust installation](/Asserts/Images/album/202110/31/150036kc0coytuqdbt9ydc.png)
 
 
 太酷了。如果 Rust 发布了新版本，你可以使用如下命令更新已安装的版本：
@@ -137,7 +137,7 @@ rustup self uninstall
 询问时按 `Y`，你将从系统中删除 Rust。
 
 
-![Removing Rust from Linux](/Asserts/Images//attachment/album/202110/31/150037tsyyz4us55ooudsg.png)
+![Removing Rust from Linux](/Asserts/Images/album/202110/31/150037tsyyz4us55ooudsg.png)
 
 
 官方方式安装已经完成。让我们看看如何使用 `apt` 命令在 Ubuntu 上安装 Rust。
@@ -175,7 +175,7 @@ sudo apt install cargo
 系统会要求你输入账号密码。
 
 
-![](/Asserts/Images//attachment/album/202110/31/150037fz271l9qblfllldf.png)
+![](/Asserts/Images/album/202110/31/150037fz271l9qblfllldf.png)
 
 
 当然，你可以自由使用 `apt install rustc`，只安装 Rust。这取决于你的选择。
@@ -184,7 +184,7 @@ sudo apt install cargo
 你可以验证是否为你和所有其他用户安装了 Rust（如果你愿意）：
 
 
-![](/Asserts/Images//attachment/album/202110/31/150037s4330z0m3gx63mzz.png)
+![](/Asserts/Images/album/202110/31/150037s4330z0m3gx63mzz.png)
 
 
 很好。让我也快速展示卸载步骤。

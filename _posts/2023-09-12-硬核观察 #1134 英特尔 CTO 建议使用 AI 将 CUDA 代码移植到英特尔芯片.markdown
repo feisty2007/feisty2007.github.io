@@ -7,10 +7,10 @@ tags:	[linuxcn,智能手机,AI,芯片]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/24/201749pmfq5fq5amfntzx6.jpg)
+![](/Asserts/Images/album/202309/24/201749pmfq5fq5amfntzx6.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/24/201757f2nzg0zk2ml0lwdj.jpg)
+![](/Asserts/Images/album/202309/24/201757f2nzg0zk2ml0lwdj.jpg)
 
 
 ### 英特尔 CTO 建议使用 AI 将 CUDA 代码移植到英特尔芯片
@@ -35,7 +35,7 @@ tags:	[linuxcn,智能手机,AI,芯片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/24/201811en4b343848wyw0na.jpg)
+![](/Asserts/Images/album/202309/24/201811en4b343848wyw0na.jpg)
 
 
 ### 2017 年以来近 500 个智能手机品牌退出市场
@@ -60,7 +60,7 @@ tags:	[linuxcn,智能手机,AI,芯片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/24/201824v7x0wp2wbpzzz722.jpg)
+![](/Asserts/Images/album/202309/24/201824v7x0wp2wbpzzz722.jpg)
 
 
 ### 加州利用人工智能提前发现 40% 的野火

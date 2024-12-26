@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,CentOS,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/201703/23/090114god0iu6ii2k6zi56.png)
+![](/Asserts/Images/album/201703/23/090114god0iu6ii2k6zi56.png)
 
 
 Linux 中的可选项似乎“无穷无尽”，因为每个人都可以通过修改一个已经发行的版本或者新的[白手起家的版本](/article-5865-1.html) (LFS) 来构建 Linux。

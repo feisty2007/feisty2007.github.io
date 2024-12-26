@@ -48,7 +48,7 @@ du
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/27/224819kmncuba7c550ua5u.png)
+![](/Asserts/Images/album/201407/27/224819kmncuba7c550ua5u.png)
 
 
 使用**-h**参数以对用户友好的方式输出文件大小，即分别以**K, M**和**G**来表示**Kb,Mb**和**Gb**
@@ -60,7 +60,7 @@ du -h
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/27/224821gpcxussggazxkppi.png)
+![](/Asserts/Images/album/201407/27/224821gpcxussggazxkppi.png)
 
 
 若想查看某个特定目录的文件大小，则在du命令中指定要查看的目录名，如下：
@@ -72,7 +72,7 @@ du -h Mapmaker
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/27/224827jfwq7a898gwxum8r.png)
+![](/Asserts/Images/album/201407/27/224827jfwq7a898gwxum8r.png)
 
 
 使用 **-c** 参数来查看目录所占用磁盘空间的总大小
@@ -84,7 +84,7 @@ du -ch
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/27/224832hkvb69pt29ioatiz.png)
+![](/Asserts/Images/album/201407/27/224832hkvb69pt29ioatiz.png)
 
 
 使用 **-s** 参数只输出指定目录占用空间的大小
@@ -96,7 +96,7 @@ du -sh Mapmaker Sandbox
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/27/224832hkvb69pt29ioatiz.png)
+![](/Asserts/Images/album/201407/27/224832hkvb69pt29ioatiz.png)
 
 
 使用 man du 查看du命令更多参数的用法
@@ -108,7 +108,7 @@ man du
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/27/224842vhzhx4g74x4zoheg.png)
+![](/Asserts/Images/album/201407/27/224842vhzhx4g74x4zoheg.png)
 
 
 知道du命令更多的用法？请分享给我和其他人。

@@ -7,7 +7,7 @@ tags:	[linuxcn,COPR,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/07/233642emfefpfwjfm7s4xe.jpg)
+![](/Asserts/Images/album/201805/07/233642emfefpfwjfm7s4xe.jpg)
 
 
 COPR 是一个个人软件仓库[集合](https://copr.fedorainfracloud.org/)，它包含 Fedora 所没有提供的软件。这些软件或不符合易于打包的标准，或者它可能不符合其他 Fedora 标准，尽管它是自由且开源的。COPR 可以在 Fedora 套件之外提供这些项目。COPR 中的软件并没有得到 Fedora 基础设施支持，也没有由该项目背书。但是，它可能是尝试新软件或实验软件的一种很好的方式。
@@ -25,7 +25,7 @@ COPR 是一个个人软件仓库[集合](https://copr.fedorainfracloud.org/)，�
 虽然 Anki 已经在 Fedora 中，但这个仓库提供了一个更新的版本。
 
 
-![](/Asserts/Images//attachment/album/201805/07/233643q9yjj2rrj9w74www.png)
+![](/Asserts/Images/album/201805/07/233643q9yjj2rrj9w74www.png)
 
 
 #### 安装说明
@@ -69,7 +69,7 @@ sudo dnf install fd
 虽然 KeePass 已经在 Fedora 中，但这个仓库提供了最新版本。
 
 
-![](/Asserts/Images//attachment/album/201805/07/233643go7uz88ep0z0rr0c.png)
+![](/Asserts/Images/album/201805/07/233643go7uz88ep0z0rr0c.png)
 
 
 #### 安装说明

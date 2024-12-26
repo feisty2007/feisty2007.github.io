@@ -13,7 +13,7 @@ tags:	[linuxcn,截图]
 但不幸的是，Flameshot 不能在 4K 屏幕上工作。因此，我不得不使用默认的 GNOME 截图工具，它在我的带有超高清屏幕的戴尔 XPS 上工作得非常好。
 
 
-![GNOME screenshot tool](/Asserts/Images//attachment/album/202201/10/184728vufsdsswssfytsqf.jpg)
+![GNOME screenshot tool](/Asserts/Images/album/202201/10/184728vufsdsswssfytsqf.jpg)
 
 
 这一“被迫之举”让我意识到，如果你知道如何正确使用，[GNOME 截图](https://apps.gnome.org/app/org.gnome.Screenshot/) 并不是一个糟糕的工具。
@@ -34,7 +34,7 @@ tags:	[linuxcn,截图]
 这是最简单的操作。在你的键盘上找到 `Prt Sc`（或称 `Prt Scr`、`Prt Scn`）键并按下它。它将对整个屏幕进行截图，并将其保存在你的主目录下的图片文件夹中。
 
 
-![Screenshot of entire screen saved as PNG file](/Asserts/Images//attachment/album/202201/10/184730lqxkzkae00bkke0z.jpg)
+![Screenshot of entire screen saved as PNG file](/Asserts/Images/album/202201/10/184730lqxkzkae00bkke0z.jpg)
 
 
 在某些发行版（或版本）中，你可能会看到是否要保存截图的选项，但大多数情况下，它会自动保存屏幕截图。
@@ -58,7 +58,7 @@ tags:	[linuxcn,截图]
 它将得到应用窗口的截图，并保存到图片目录中。
 
 
-![Screenshot of an application window in GNOME](/Asserts/Images//attachment/album/202201/10/184731xy17nm8tzsm9oncs.png)
+![Screenshot of an application window in GNOME](/Asserts/Images/album/202201/10/184731xy17nm8tzsm9oncs.png)
 
 
 这样获取的截图也有一个阴影效果，看起来很不错。
@@ -73,7 +73,7 @@ tags:	[linuxcn,截图]
 按住 `Shift` 键。然后按 `Prt Scr` 键。你会看到屏幕上出现一个选框。将鼠标移动到所需的区域，开始拖动光标。它将高亮显示该区域，并在你释放鼠标后立即进行截图。
 
 
-![Taking screenshot of an area in GNOME](/Asserts/Images//attachment/album/202201/10/184732oyynvyvmy20n202i.jpg)
+![Taking screenshot of an area in GNOME](/Asserts/Images/album/202201/10/184732oyynvyvmy20n202i.jpg)
 
 
 ### 复制截图到剪贴板而不是保存它们
@@ -82,7 +82,7 @@ tags:	[linuxcn,截图]
 当你在和别人聊天时，要和对方分享屏幕截图时，这非常有用。
 
 
-![Screenshot copied to the clipboard can be used in various applications](/Asserts/Images//attachment/album/202201/10/184733n2r1wk32ixow7e42.jpg)
+![Screenshot copied to the clipboard can be used in various applications](/Asserts/Images/album/202201/10/184733n2r1wk32ixow7e42.jpg)
 
 
 首先截图，但没必要将保存的截图文件附在聊天工具中。相反，你可以直接将截图复制到剪贴板，然后使用 `Ctrl+V` 快捷键将图像（从剪贴板）粘贴到聊天工具。
@@ -114,7 +114,7 @@ tags:	[linuxcn,截图]
 为了处理这种情况，你可以对该区域或整个屏幕进行截图，但要有一个延迟。
 
 
-![Taking screenshot with delay](/Asserts/Images//attachment/album/202201/10/184734sakduppupkvdnrdn.jpg)
+![Taking screenshot with delay](/Asserts/Images/album/202201/10/184734sakduppupkvdnrdn.jpg)
 
 
 在 GNOME 屏幕截图工具中，你可以选择添加这个延迟。例如，你添加了 6 秒的延迟。你点击截图按钮，有 6 秒时间来做/显示你想做的事情。6 秒后，它就会自动截图了。

@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏,Steam]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/07/114916ad8altt8xwwpqozw.jpg)
+![](/Asserts/Images/album/201712/07/114916ad8altt8xwwpqozw.jpg)
 
 
 说到游戏，人们一般都会推荐使用 Windows 系统。Windows 能提供更好的显卡支持和硬件兼容性，所以对于游戏爱好者来说的确是个更好的选择。但你是否想过[在 Linux 系统上玩游戏](/article-7316-1.html)？这的确是可以的，也许你以前还曾经考虑过。但在几年之前， [Steam for Linux](https://itsfoss.com/install-steam-ubuntu-linux/) 上可玩的游戏并不是很吸引人。

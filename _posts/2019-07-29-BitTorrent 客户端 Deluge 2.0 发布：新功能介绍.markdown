@@ -42,7 +42,7 @@ tags:	[linuxcn,Torrent,Deluge]
 ### 如何安装或升级到 Deluge 2.0
 
 
-![](/Asserts/Images//attachment/album/201907/03/163605cug888eigfu50egz.png)
+![](/Asserts/Images/album/201907/03/163605cug888eigfu50egz.png)
 
 
 对于任何 Linux 发行版，你都应该遵循官方[安装指南](https://deluge.readthedocs.io/en/latest/intro/01-install.html)（使用 PPA 或 PyPi）。但是，如果你要升级，你应该留意发行说明中提到的：

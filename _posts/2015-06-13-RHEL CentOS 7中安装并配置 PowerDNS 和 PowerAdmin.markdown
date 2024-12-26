@@ -16,7 +16,7 @@ PowerDNS授权服务器的最新版本是3.4.4，但是当前EPEL仓库中可以
 本文用于向你演示如何安装并配置以MariaDB作为后端的PowerDNS，以及它的界面友好的 Web 管理工具 PowerAdmin。
 
 
-![](/Asserts/Images//attachment/album/201506/13/233536yuijovqx3qqj90gg.png)
+![](/Asserts/Images/album/201506/13/233536yuijovqx3qqj90gg.png)
 
 
 出于本文的写作目的，我将使用以下服务器：
@@ -41,7 +41,7 @@ IP地址： 192.168.0.102
 
 ```
 
-![Enable Epel Repository](/Asserts/Images//attachment/album/201506/13/233541u0ci4c6es3y33sds.png)
+![Enable Epel Repository](/Asserts/Images/album/201506/13/233541u0ci4c6es3y33sds.png)
 
 
 *启用Epel仓库*
@@ -56,7 +56,7 @@ IP地址： 192.168.0.102
 
 ```
 
-![Install MariaDB Server](/Asserts/Images//attachment/album/201506/13/233542p3buljaupeu10551.png)
+![Install MariaDB Server](/Asserts/Images/album/201506/13/233542p3buljaupeu10551.png)
 
 
 *安装MariaDB服务器*
@@ -72,7 +72,7 @@ IP地址： 192.168.0.102
 
 ```
 
-![Enable Start MariaDB System Boot](/Asserts/Images//attachment/album/201506/13/233542wxkttidlkkdxdidk.png)
+![Enable Start MariaDB System Boot](/Asserts/Images/album/201506/13/233542wxkttidlkkdxdidk.png)
 
 
 *启用MariaDB开机启动*
@@ -165,7 +165,7 @@ Thanks for using MariaDB!
 
 ```
 
-![Install PowerDNS with MariaDB Backend](/Asserts/Images//attachment/album/201506/13/233543bx67fuezxehluyuk.png)
+![Install PowerDNS with MariaDB Backend](/Asserts/Images/album/201506/13/233543bx67fuezxehluyuk.png)
 
 
 *安装带有MariaDB后端的PowerDNS*
@@ -181,7 +181,7 @@ MariaDB [(none)]> CREATE DATABASE powerdns;
 
 ```
 
-![Create PowerDNS Database](/Asserts/Images//attachment/album/201506/13/233543bsobejd8gt8t8kzr.png)
+![Create PowerDNS Database](/Asserts/Images/album/201506/13/233543bsobejd8gt8t8kzr.png)
 
 
 *创建PowerDNS数据库*
@@ -198,7 +198,7 @@ MariaDB [(none)]> FLUSH PRIVILEGES;
 
 ```
 
-![Create PowerDNS User](/Asserts/Images//attachment/album/201506/13/233543tpwpgqrgsl24g2cy.png)
+![Create PowerDNS User](/Asserts/Images/album/201506/13/233543tpwpgqrgsl24g2cy.png)
 
 
 *创建PowerDNS用户*
@@ -226,7 +226,7 @@ primary key (id)
 
 ```
 
-![Create Table Domains for PowerDNS](/Asserts/Images//attachment/album/201506/13/233546ce20hll0oio6a00k.png)
+![Create Table Domains for PowerDNS](/Asserts/Images/album/201506/13/233546ce20hll0oio6a00k.png)
 
 
 *创建用于PowerDNS的表domains*
@@ -249,7 +249,7 @@ primary key(id)
 
 ```
 
-![Create Table Records for PowerDNS](/Asserts/Images//attachment/album/201506/13/233548qyhfbfv36vwhof5f.png)
+![Create Table Records for PowerDNS](/Asserts/Images/album/201506/13/233548qyhfbfv36vwhof5f.png)
 
 
 *创建用于PowerDNS的表 records*
@@ -263,7 +263,7 @@ MariaDB [(none)]> CREATE INDEX domain_id ON records(domain_id);
 
 ```
 
-![Create Index of Table](/Asserts/Images//attachment/album/201506/13/233549zfed8fdznsdhhljs.png)
+![Create Index of Table](/Asserts/Images/album/201506/13/233549zfed8fdznsdhhljs.png)
 
 
 *创建表索引*
@@ -279,7 +279,7 @@ account VARCHAR(40) DEFAULT NULL
 
 ```
 
-![Create Table Supermaster](/Asserts/Images//attachment/album/201506/13/233552ink0onndo0006o1e.png)
+![Create Table Supermaster](/Asserts/Images/album/201506/13/233552ink0onndo0006o1e.png)
 
 
 *创建表supermasters*
@@ -331,7 +331,7 @@ gmysql-dbname=powerdns
 修改“user-pass”为你先前设置的实际密码，配置如下：
 
 
-![Configure PowerDNS](/Asserts/Images//attachment/album/201506/13/233552wpbqquq33mqazqq4.png)
+![Configure PowerDNS](/Asserts/Images/album/201506/13/233552wpbqquq33mqazqq4.png)
 
 
 *配置PowerDNS*
@@ -350,7 +350,7 @@ gmysql-dbname=powerdns
 
 ```
 
-![Enable and Start PowerDNS](/Asserts/Images//attachment/album/201506/13/233553tae7ukbckt17bkz9.png)
+![Enable and Start PowerDNS](/Asserts/Images/album/201506/13/233553tae7ukbckt17bkz9.png)
 
 
 *启用并启动PowerDNS*
@@ -371,7 +371,7 @@ gmysql-dbname=powerdns
 
 ```
 
-![Install Apache PHP](/Asserts/Images//attachment/album/201506/13/233556jrsrazjzcr1sesdc.jpg)
+![Install Apache PHP](/Asserts/Images/album/201506/13/233556jrsrazjzcr1sesdc.jpg)
 
 
 *安装Apache 和 PHP*
@@ -386,7 +386,7 @@ PowerAdmin也需要两个PEAR包：
 
 ```
 
-![Install Pear](/Asserts/Images//attachment/album/201506/13/233558qqe6lq6x24xvl2gl.jpg)
+![Install Pear](/Asserts/Images/album/201506/13/233558qqe6lq6x24xvl2gl.jpg)
 
 
 *安装Pear*
@@ -408,7 +408,7 @@ PowerAdmin也需要两个PEAR包：
 
 ```
 
-![Enable Start Apache System Boot](/Asserts/Images//attachment/album/201506/13/233559r0fddga5xe0ff00f.png)
+![Enable Start Apache System Boot](/Asserts/Images/album/201506/13/233559r0fddga5xe0ff00f.png)
 
 
 *启用Apache开机启动*
@@ -425,7 +425,7 @@ PowerAdmin也需要两个PEAR包：
 
 ```
 
-![Download PowerAdmin](/Asserts/Images//attachment/album/201506/13/233602kg0bn2pdjwov0gbo.jpg)
+![Download PowerAdmin](/Asserts/Images/album/201506/13/233602kg0bn2pdjwov0gbo.jpg)
 
 
 *下载PowerAdmin*
@@ -443,7 +443,7 @@ http://192.168.0.102/poweradmin-2.1.7/install/
 这会进入安装过程的第一步：
 
 
-![Select Installation Language](/Asserts/Images//attachment/album/201506/13/233603jgknnznjf0vnlncp.png)
+![Select Installation Language](/Asserts/Images/album/201506/13/233603jgknnznjf0vnlncp.png)
 
 
 *选择安装语言*
@@ -455,7 +455,7 @@ http://192.168.0.102/poweradmin-2.1.7/install/
 14、 安装器需要PowerDNS数据库：
 
 
-![PowerDNS Database](/Asserts/Images//attachment/album/201506/13/233604lxne1e5w5rsew8q6.png)
+![PowerDNS Database](/Asserts/Images/album/201506/13/233604lxne1e5w5rsew8q6.png)
 
 
 *PowerDNS数据库*
@@ -464,7 +464,7 @@ http://192.168.0.102/poweradmin-2.1.7/install/
 15、 因为我们已经创建了一个数据库，所以我们可以继续进入下一步。你会被要求提供先前配置的数据库详情，你也需要为Poweradmin设置管理员密码：
 
 
-![Enter PowerDNS Database Settings](/Asserts/Images//attachment/album/201506/13/233605l5355hlqeqpqc4lo.png)
+![Enter PowerDNS Database Settings](/Asserts/Images/album/201506/13/233605l5355hlqeqpqc4lo.png)
 
 
 *输入PowerDNS数据库配置*
@@ -480,7 +480,7 @@ http://192.168.0.102/poweradmin-2.1.7/install/
 * 辅域名服务器 – 该值在创建新的DNS区域时会被用于作为辅域名服务器。
 
 
-![PowerDNS Configuration Settings](/Asserts/Images//attachment/album/201506/13/233607zo11vci47ntodvv9.png)
+![PowerDNS Configuration Settings](/Asserts/Images/album/201506/13/233607zo11vci47ntodvv9.png)
 
 
 *PowerDNS配置设置*
@@ -489,7 +489,7 @@ http://192.168.0.102/poweradmin-2.1.7/install/
 17、 在下一步中，Poweradmin会要求你在数据库表中创建一个新的受限数据库用户，它会提供你需要在MariaDB控制台输入的代码：
 
 
-![Create New Database User](/Asserts/Images//attachment/album/201506/13/233608u9acfinnnxiz1j9j.png)
+![Create New Database User](/Asserts/Images/album/201506/13/233608u9acfinnnxiz1j9j.png)
 
 
 *创建新的数据库用户*
@@ -516,7 +516,7 @@ IDENTIFIED BY '123qweasd';
 
 ```
 
-![Grant Mysql Permissions to User](/Asserts/Images//attachment/album/201506/13/233610bexxni8rndge9dsh.png)
+![Grant Mysql Permissions to User](/Asserts/Images/album/201506/13/233610bexxni8rndge9dsh.png)
 
 
 *为用户授予Mysql权限*
@@ -528,7 +528,7 @@ IDENTIFIED BY '123qweasd';
 文件名是config.inc.php。为防止该脚本没有写权限，你可以手动复制这些内容到上述文件中：
 
 
-![Configuration Settings of PowerDNS](/Asserts/Images//attachment/album/201506/13/233611qczd6p33n4ljvrv9.png)
+![Configuration Settings of PowerDNS](/Asserts/Images/album/201506/13/233611qczd6p33n4ljvrv9.png)
 
 
 *配置PowerDNS设置*
@@ -537,7 +537,7 @@ IDENTIFIED BY '123qweasd';
 20、 现在，进入最后页面，该页面会告知你安装已经完成以及如何访问安装好的PowerAdmin：
 
 
-![PowerDNS Installation Completed](/Asserts/Images//attachment/album/201506/13/233613taxng16l2d2zs2rr.png)
+![PowerDNS Installation Completed](/Asserts/Images/album/201506/13/233613taxng16l2d2zs2rr.png)
 
 
 *PowerDNS安装完成*
@@ -573,7 +573,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 
 ```
 
-![PowerDNS Login](/Asserts/Images//attachment/album/201506/13/233614zj37eo6wiii347ox.png)
+![PowerDNS Login](/Asserts/Images/album/201506/13/233614zj37eo6wiii347ox.png)
 
 
 *PowerDNS登录*
@@ -582,7 +582,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 在登录后，你应该会看到PowerAdmin的主页：
 
 
-![PowerDNS Dashboard](/Asserts/Images//attachment/album/201506/13/233615dscgjgpzdha6zdjl.png)
+![PowerDNS Dashboard](/Asserts/Images/album/201506/13/233615dscgjgpzdha6zdjl.png)
 
 
 *PowerDNS仪表盘*
@@ -597,7 +597,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 22、 要添加新的主区域，只需点击“添加主区域”：
 
 
-![Add Master Zone](/Asserts/Images//attachment/album/201506/13/233617wt49kztfghgjy5y5.png)
+![Add Master Zone](/Asserts/Images/album/201506/13/233617wt49kztfghgjy5y5.png)
 
 
 *添加主区域*
@@ -615,7 +615,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 点击“添加区域”按钮来添加DNS区域。
 
 
-![Master DNS Zone](/Asserts/Images//attachment/album/201506/13/233618awkozrtununwpwjz.png)
+![Master DNS Zone](/Asserts/Images/album/201506/13/233618awkozrtununwpwjz.png)
 
 
 *主DNS区域*
@@ -624,7 +624,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 现在，你可以点击“首页”链接回到PowerAdmin的首页。要查看所有现存的DNS区域，只需转到“列出区域（List Zones）”：
 
 
-![Check List of Zones](/Asserts/Images//attachment/album/201506/13/233619aru45mvrmwdu2r2d.png)
+![Check List of Zones](/Asserts/Images/album/201506/13/233619aru45mvrmwdu2r2d.png)
 
 
 *查看区域列表*
@@ -633,7 +633,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 你现在应该看到一个可用DNS区域列表：
 
 
-![Check List of DNS Zones](/Asserts/Images//attachment/album/201506/13/233621cnj90p2nqqn1x0hn.png)
+![Check List of DNS Zones](/Asserts/Images/album/201506/13/233621cnj90p2nqqn1x0hn.png)
 
 
 *检查DNS区域列表*
@@ -642,7 +642,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 23、 要编辑现存DNS区域或者添加新的记录，点击编辑图标：
 
 
-![Edit DNS Zone](/Asserts/Images//attachment/album/201506/13/233622fajzl7wfffddaw0a.png)
+![Edit DNS Zone](/Asserts/Images/album/201506/13/233622fajzl7wfffddaw0a.png)
 
 
 *编辑DNS区域*
@@ -651,7 +651,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 在接下来的页面，你会看到你选择的DNS区域的条目：
 
 
-![Domain DNS Zone Entries](/Asserts/Images//attachment/album/201506/13/233624c794kyll330dmq44.png)
+![Domain DNS Zone Entries](/Asserts/Images/album/201506/13/233624c794kyll330dmq44.png)
 
 
 *域名的DNS区域条目*
@@ -669,7 +669,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 出于本文目的，我将为子域new.example.com添加一个A记录用于解析IP地址192.168.0.102，设置存活时间为14400秒：
 
 
-![Add New DNS Record](/Asserts/Images//attachment/album/201506/13/233624nmx4vlmmlauf2l5a.png)
+![Add New DNS Record](/Asserts/Images/album/201506/13/233624nmx4vlmmlauf2l5a.png)
 
 
 *添加新DNS记录*
@@ -681,7 +681,7 @@ http://192.168.0.102/poweradmin-2.1.7/
 25、 如果你想要删除DNS区域，你可以回到“列出区域”页面，然后点击你想要删除的DNS区域旁边“垃圾桶”图标：
 
 
-![Delete DNS Zone](/Asserts/Images//attachment/album/201506/13/233625wlw2ij8ojfhhphr1.png)
+![Delete DNS Zone](/Asserts/Images/album/201506/13/233625wlw2ij8ojfhhphr1.png)
 
 
 *删除DNS区域*

@@ -7,7 +7,7 @@ tags:	[linuxcn,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/17/211434uq48ceo8idrk8skz.jpg)
+![](/Asserts/Images/album/201809/17/211434uq48ceo8idrk8skz.jpg)
 
 
 

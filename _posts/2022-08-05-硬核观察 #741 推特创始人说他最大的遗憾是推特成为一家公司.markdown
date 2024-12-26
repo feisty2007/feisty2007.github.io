@@ -7,10 +7,10 @@ tags:	[linuxcn,推特,GTK,Heroku]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/27/204356sfq50u5sbc3e5p40.jpg)
+![](/Asserts/Images/album/202208/27/204356sfq50u5sbc3e5p40.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/27/204405hyq9mtms91t1tc0t.jpg)
+![](/Asserts/Images/album/202208/27/204405hyq9mtms91t1tc0t.jpg)
 
 
 ### 推特创始人说他最大的遗憾是推特成为一家公司
@@ -35,7 +35,7 @@ tags:	[linuxcn,推特,GTK,Heroku]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/27/204422uz81p83bzo565gp0.jpg)
+![](/Asserts/Images/album/202208/27/204422uz81p83bzo565gp0.jpg)
 
 
 ### RHEL 10 将取消 GTK2 工具包支持，最大绊脚石可能是 GIMP
@@ -60,7 +60,7 @@ tags:	[linuxcn,推特,GTK,Heroku]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/27/204445wonnyz4scwxnzxw8.jpg)
+![](/Asserts/Images/album/202208/27/204445wonnyz4scwxnzxw8.jpg)
 
 
 ### Heroku 宣布取消免费计划

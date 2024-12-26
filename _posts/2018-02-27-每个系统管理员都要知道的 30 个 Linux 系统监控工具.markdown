@@ -7,7 +7,7 @@ tags:	[linuxcn,监控]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/23/003604wd2215mdgd5i1g2y.jpg)
+![](/Asserts/Images/album/201802/23/003604wd2215mdgd5i1g2y.jpg)
 
 
 您需要监控 Linux 服务器的性能吗？试试用这些内置命令和附加工具吧！大多数 Linux 发行版都附带了大量的监控工具。这些工具提供了获取系统活动的相关指标。您可以使用这些工具来查找性能问题的可能原因。本文提到的是一些基本的命令，用于系统分析和服务器调试等，例如：
@@ -25,7 +25,7 @@ tags:	[linuxcn,监控]
 `top` 命令会显示 Linux 的进程。它提供了一个运行中系统的实时动态视图，即实际的进程活动。默认情况下，它显示在服务器上运行的 CPU 占用率最高的任务，并且每五秒更新一次。
 
 
-![](/Asserts/Images//attachment/album/201802/23/003617yrapgeguzhzegrjm.jpg)
+![](/Asserts/Images/album/201802/23/003617yrapgeguzhzegrjm.jpg)
 
 
 *图 01：Linux top 命令*
@@ -619,13 +619,13 @@ mapped: 933712K writeable/private: 4304K shared: 768000K
 * 基于二层地址的网络流量统计
 
 
-![Fig.02: General interface statistics: IP traffic statistics by network interface ](/Asserts/Images//attachment/album/201802/23/003617vegee3q22m51fng5.png "Fig.02: General interface statistics: IP traffic statistics by network interface ")
+![Fig.02: General interface statistics: IP traffic statistics by network interface ](/Asserts/Images/album/201802/23/003617vegee3q22m51fng5.png "Fig.02: General interface statistics: IP traffic statistics by network interface ")
 
 
 *图 02：常规接口统计：基于网络接口的 IP 流量统计*
 
 
-![Fig.03 Network traffic statistics by TCP connection](/Asserts/Images//attachment/album/201802/23/003617afed2848vd2dfufw.png "Fig.03 Network traffic statistics by TCP connection")
+![Fig.03 Network traffic statistics by TCP connection](/Asserts/Images/album/201802/23/003617afed2848vd2dfufw.png "Fig.03 Network traffic statistics by TCP connection")
 
 
 *图 03：基于 TCP 连接的网络流量统计*
@@ -697,7 +697,7 @@ $ sudo iotop
 输出示例：
 
 
-![iotop monitoring linux disk read write IO](/Asserts/Images//attachment/album/201802/23/003617v0k9dgp548dgwd0t.jpg)
+![iotop monitoring linux disk read write IO](/Asserts/Images/album/201802/23/003617v0k9dgp548dgwd0t.jpg)
 
 
 相关链接：[Linux iotop：什么进程在增加硬盘负载](https://www.cyberciti.biz/hardware/linux-iotop-simple-top-like-io-monitor/)
@@ -718,7 +718,7 @@ $ htop
 输出示例：
 
 
-![htop process viewer for Linux](/Asserts/Images//attachment/album/201802/23/003618lfboctxr5s1zoash.jpg)
+![htop process viewer for Linux](/Asserts/Images/album/201802/23/003618lfboctxr5s1zoash.jpg)
 
 
 相关链接：[CentOS / RHEL：安装 htop——交互式文本模式进程查看器](https://www.cyberciti.biz/faq/centos-redhat-linux-install-htop-command-using-yum/)
@@ -736,7 +736,7 @@ $ atop
 
 ```
 
-![atop Command Line Tools to Monitor Linux Performance](/Asserts/Images//attachment/album/201802/23/003618uffd9f955nz8mc9n.jpg)
+![atop Command Line Tools to Monitor Linux Performance](/Asserts/Images/album/201802/23/003618uffd9f955nz8mc9n.jpg)
 
 
 相关链接：[CentOS / RHEL：安装 atop 工具——高级系统和进程监控器](https://www.cyberciti.biz/faq/centos-redhat-linux-install-atop-command-using-yum/)
@@ -775,7 +775,7 @@ $ sudo nethogs
 
 ```
 
-![nethogs linux monitoring tools open source](/Asserts/Images//attachment/album/201802/23/003618dnv8ux8nukoo5nvv.jpg)
+![nethogs linux monitoring tools open source](/Asserts/Images/album/201802/23/003618dnv8ux8nukoo5nvv.jpg)
 
 
 相关链接：[Linux：使用 Nethogs 工具查看每个进程的带宽使用情况](https://www.cyberciti.biz/faq/linux-find-out-what-process-is-using-bandwidth/)
@@ -793,7 +793,7 @@ $ sudo iftop
 
 ```
 
-![iftop in action](/Asserts/Images//attachment/album/201802/23/003618eekdbv23qho62fdk.gif)
+![iftop in action](/Asserts/Images/album/201802/23/003618eekdbv23qho62fdk.gif)
 
 
 ### 22. vnstat - 基于控制台的网络流量监控工具
@@ -808,7 +808,7 @@ $ vnstat
 
 ```
 
-![vnstat linux network traffic monitor](/Asserts/Images//attachment/album/201802/23/003619j0qz1eb3gqv43pq3.jpg)
+![vnstat linux network traffic monitor](/Asserts/Images/album/201802/23/003619j0qz1eb3gqv43pq3.jpg)
 
 
 相关链接：
@@ -831,7 +831,7 @@ $ nmon
 
 ```
 
-![nmon command](/Asserts/Images//attachment/album/201802/23/003619wvfjn0m0fjsmgxwl.jpg)
+![nmon command](/Asserts/Images/album/201802/23/003619wvfjn0m0fjsmgxwl.jpg)
 
 
 相关链接：[安装并使用 nmon 工具来监控 Linux 系统的性能](https://www.cyberciti.biz/faq/nmon-performance-analyzer-linux-server-tool/)
@@ -849,7 +849,7 @@ $ glances
 
 ```
 
-![Glances](/Asserts/Images//attachment/album/201802/23/003619rlt3p5pp3ge5jg45.jpg)
+![Glances](/Asserts/Images/album/201802/23/003619rlt3p5pp3ge5jg45.jpg)
 
 
 相关链接：[Linux：通过 Glances 监控器密切关注您的系统](https://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
@@ -894,7 +894,7 @@ Cacti 是一个完整的网络图形化解决方案，旨在充分利用 RRDTool
 KSysguard 是 KDE 桌面的网络化系统监控程序。这个工具可以通过 ssh 会话运行。它提供了许多功能，比如可以监控本地和远程主机的客户端-服务器模式。前端图形界面使用传感器来检索信息。传感器可以返回简单的值或更复杂的信息，如表格。每种类型的信息都有一个或多个显示界面，并被组织成工作表的形式，这些工作表可以分别保存和加载。所以，KSysguard 不仅是一个简单的任务管理器，还是一个控制大型服务器平台的强大工具。
 
 
-![Fig.05 KDE System Guard](/Asserts/Images//attachment/album/201802/23/003619r9blsmq55lgw1uss.png "Fig.05 KDE System Guard KDE task manager and performance monitor.")
+![Fig.05 KDE System Guard](/Asserts/Images/album/201802/23/003619r9blsmq55lgw1uss.png "Fig.05 KDE System Guard KDE task manager and performance monitor.")
 
 
 *图 05：KDE System Guard {图片来源：维基百科}*
@@ -924,7 +924,7 @@ KSysguard 是 KDE 桌面的网络化系统监控程序。这个工具可以通�
 * 列出所有挂载的文件系统及其基本信息
 
 
-![Fig.06 The Gnome System Monitor application](/Asserts/Images//attachment/album/201802/23/003620wb8m90lmmp8e4wex.png "Fig.06 The Gnome System Monitor application")
+![Fig.06 The Gnome System Monitor application](/Asserts/Images/album/201802/23/003620wb8m90lmmp8e4wex.png "Fig.06 The Gnome System Monitor application")
 
 
 *图 06：Gnome 系统监控程序*

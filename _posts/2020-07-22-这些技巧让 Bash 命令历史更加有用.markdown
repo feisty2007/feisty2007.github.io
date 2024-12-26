@@ -15,7 +15,7 @@ tags:	[linuxcn,历史,Bash]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/05/091205hkg0egl2gge2gx9z.jpg)
+![](/Asserts/Images/album/202007/05/091205hkg0egl2gge2gx9z.jpg)
 
 
 运行 [Bash](https://opensource.com/resources/what-bash) 的 Linux 终端有内置的历史记录，你可以用来跟踪最近的操作。要查看你的 Bash 会话的历史记录，请使用内置命令 `history`：

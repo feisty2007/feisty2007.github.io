@@ -15,7 +15,7 @@ tags:	[linuxcn,PHP,机器人]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/24/094243dtt2fkjjwtn5i2kz.jpg "Security monster")
+![](/Asserts/Images/album/202201/24/094243dtt2fkjjwtn5i2kz.jpg "Security monster")
 
 
 PHP 是 Web 上广泛使用的一种编程语言，据估计有近 80% 的网站使用它。我在 [CrowdSec](https://opensource.com/article/20/10/crowdsec) 的团队决定，我们需要为服务器管理员提供一个 PHP 门卫，以帮助抵御那些可能试图与 PHP 文件互动的机器人和不良分子。
@@ -82,13 +82,13 @@ $ ./nikto.pl -h http://<ip_or_domain>
 
 ```
 
-![nikto scan](/Asserts/Images//attachment/album/202201/24/094255nafol1dxld1ympck.png "nikto scan")
+![nikto scan](/Asserts/Images/album/202201/24/094255nafol1dxld1ympck.png "nikto scan")
 
 
 该 IP 地址已被检测到触发了各种场景，最后一个是 `crowdsecurity/http-crawl-non_statics`：
 
 
-![detected scan](/Asserts/Images//attachment/album/202201/24/094255xyuknyupyheyizpi.png "detected scan")
+![detected scan](/Asserts/Images/album/202201/24/094255xyuknyupyheyizpi.png "detected scan")
 
 
 然而，CrowdSec 只检测问题，需要一个门卫来应用补救措施。这就是 PHP 门卫发挥作用的地方。
@@ -114,7 +114,7 @@ $ ./install.sh --apache
 
 ```
 
-![apache install script](/Asserts/Images//attachment/album/202201/24/094255kuaksumsiudyazan.png "apache install script")
+![apache install script](/Asserts/Images/album/202201/24/094255kuaksumsiudyazan.png "apache install script")
 
 
 门卫的配置是用来保护整个网站。可以通过调整 Apache 的配置保护网站的一个特定部分。
@@ -126,7 +126,7 @@ $ ./install.sh --apache
 PHP 门卫已经安装并配置好。由于之前的网络漏洞扫描行动，你被禁止了，你可以尝试访问该网站看看：
 
 
-![site access attempt](/Asserts/Images//attachment/album/202201/24/094256g9ckfxflf4r44txp.png "site access attempt")
+![site access attempt](/Asserts/Images/album/202201/24/094256g9ckfxflf4r44txp.png "site access attempt")
 
 
 门卫成功阻止了你的流量。如果你在以前的 Web 漏洞扫描后没有被禁止，你可以用增加一个手动决策：
@@ -249,13 +249,13 @@ $ sudo cscli decisions list
 
 ```
 
-![detected scan](/Asserts/Images//attachment/album/202201/24/094256nzi5vwjfvwhoweeh.png "detected scan")
+![detected scan](/Asserts/Images/album/202201/24/094256nzi5vwjfvwhoweeh.png "detected scan")
 
 
 如果你试图访问该网站，不会被简单地被阻止，而是会收到一个验证码：
 
 
-![CAPTCHA prompt](/Asserts/Images//attachment/album/202201/24/094256hsllv4yd24s44oyt.png "CAPTCHA prompt")
+![CAPTCHA prompt](/Asserts/Images/album/202201/24/094256hsllv4yd24s44oyt.png "CAPTCHA prompt")
 
 
 一旦你解决了这个验证码，你就可以重新访问网站了。
@@ -282,13 +282,13 @@ $ ./nikto.pl -h http://example.com
 与上次不同的是，你现在可以看到，你已经触发了几个决策：
 
 
-![scan detected](/Asserts/Images//attachment/album/202201/24/094257gu8q62l6y27xy206.png "scan detected")
+![scan detected](/Asserts/Images/album/202201/24/094257gu8q62l6y27xy206.png "scan detected")
 
 
 当试图访问网站时，禁止决策具有优先权：
 
 
-![site access attempt](/Asserts/Images//attachment/album/202201/24/094257jseuvc5ungnueag9.png "site access attempt")
+![site access attempt](/Asserts/Images/album/202201/24/094257jseuvc5ungnueag9.png "site access attempt")
 
 
 ### 总结

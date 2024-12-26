@@ -7,13 +7,13 @@ tags:	[linuxcn,Signal,Linux,AGPL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/01/183041gid9ncilxnnnip9c.jpg)
+![](/Asserts/Images/album/202111/01/183041gid9ncilxnnnip9c.jpg)
 
 
 ### 法院要求 Signal 提供私人用户数据，但它根本没有
 
 
-![](/Asserts/Images//attachment/album/202111/01/183057itgl3u8tz25u9gti.jpg)
+![](/Asserts/Images/album/202111/01/183057itgl3u8tz25u9gti.jpg)
 
 
 端对端加密消息应用 Signal 通过其官方博客 [公布](https://signal.org/bigbrother/cd-california-grand-jury/) 了它收到的一张法庭传票，传票要求它提供各种用户数据。然而Signal 根本没有数据可以提供。这家公司指出，“Signal 无法访问你的信息、你的聊天列表、你的群组、你的联系人、你的贴纸，你的个人资料名称或头像。” Signal 能提供给法庭的唯一东西就是有关账号创建和最后一次访问该服务的 Unix 时间戳。
@@ -30,7 +30,7 @@ tags:	[linuxcn,Signal,Linux,AGPL]
 ### Linux 5.15 内核发布，NTFS3 驱动上线
 
 
-![](/Asserts/Images//attachment/album/202111/01/183115u61nlmymkf55ui6r.jpg)
+![](/Asserts/Images/album/202111/01/183115u61nlmymkf55ui6r.jpg)
 
 
 Linux 5.15 [正式释出](https://lkml.org/lkml/2021/10/31/203)，该版本的提交数是 5.x 系列最少的。主要新变化包括：Paragon 开发的 NTFS3 内核驱动终于进入了主线；新内核模块 KSMBD 实现了服务器端 SMB3 协议；在 DRAM 满的情况下内存页的内容转移到持久性内存而不是直接丢弃；等等。
@@ -47,7 +47,7 @@ Linux 5.15 [正式释出](https://lkml.org/lkml/2021/10/31/203)，该版本的�
 ### 开源软件给特朗普的社交网站 30 天时间遵守 AGPL 许可证
 
 
-![](/Asserts/Images//attachment/album/202111/01/183134jr7zejng4f4nn7f9.jpg)
+![](/Asserts/Images/album/202111/01/183134jr7zejng4f4nn7f9.jpg)
 
 
 自由软件社交网络项目 Mastodon 向美国前总统特朗普的公司发去 [正式通知](https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/)，要求其基于 Mastodon 开发的社交网络 TRUTH Social 遵守 AGPL 许可证公开修改的源代码。特朗普旗下的公司上周 [宣布](https://www.solidot.org/story?sid=69332) 了新的社交网络 TRUTH Social，预计 11 月开放测试。然而 TRUTH 很快被发现是基于 Mastodon，按照 AGPL 许可证要求它需要公开源代码。

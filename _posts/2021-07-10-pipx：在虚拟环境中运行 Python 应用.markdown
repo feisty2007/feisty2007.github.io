@@ -15,7 +15,7 @@ tags:	[linuxcn,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/29/205146cpwgxnnpgu44gxz0.jpg "Digital creative of a browser on the internet")
+![](/Asserts/Images/album/202107/29/205146cpwgxnnpgu44gxz0.jpg "Digital creative of a browser on the internet")
 
 
 如果你使用 Python，你可能会安装很多 Python 应用。有些是你只想尝试的工具。还有一些是你每天都在使用的久经考验的应用，所以你把它们安装在你使用的每一台计算机上。这两种情况下，在虚拟环境中运行你的 Python 应用是非常有用的，这可以使它们以及它们的依赖关系相互分离，以避免版本冲突，并使它们与你系统的其它部分隔离，以提高安全性。
@@ -89,7 +89,7 @@ $ cowsay "I <3 OSDC"
 
 ```
 
-![Cowsay](/Asserts/Images//attachment/album/202107/29/205239brl9k5ooz59tld7l.png "Cowsay")
+![Cowsay](/Asserts/Images/album/202107/29/205239brl9k5ooz59tld7l.png "Cowsay")
 
 
 #### 以特殊权限进行安装

@@ -7,7 +7,7 @@ tags:	[linuxcn,ffsend,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202003/29/202308w7ormrouomij2dzq.jpg)
+![](/Asserts/Images/album/202003/29/202308w7ormrouomij2dzq.jpg)
 
 
 Linux 用户偏爱使用 `scp` 或 `rsync` 来进行文件或目录的复制拷贝。不过在 Linux 上正出现了许多新的可选方式，因为 Linux 是开源的，所以任何人都可以为 Linux 开发一个安全软件。
@@ -156,7 +156,7 @@ Upload complete
 Share link: https://send.firefox.com/download/a4062553f4/#yy2_VyPaUMG5HwXZzYRmpQ
 ```
 
-![](/Asserts/Images//attachment/album/202003/29/202534op3hb2b20bpvbi0h.png)
+![](/Asserts/Images/album/202003/29/202534op3hb2b20bpvbi0h.png)
 
 
 在任何远端的系统上，只需要使用上面那个唯一的 URL 就可以下载上传的文件了。
@@ -179,7 +179,7 @@ $ ffsend download https://send.firefox.com/download/a4062553f4/#yy2_VyPaUMG5HwXZ
 Download complete
 ```
 
-![](/Asserts/Images//attachment/album/202003/29/202534kqmhpohjr6qrry3q.png)
+![](/Asserts/Images/album/202003/29/202534kqmhpohjr6qrry3q.png)
 
 
 使用下面的语法来对目录进行上传：
@@ -312,13 +312,13 @@ File deleted
 只需要拖拽该文件就可以上传它：
 
 
-![](/Asserts/Images//attachment/album/202003/29/202535m748iite5mmii7m7.png)
+![](/Asserts/Images/album/202003/29/202535m748iite5mmii7m7.png)
 
 
 一旦该文件被下载，它将展示 100% 的下载状态。
 
 
-![](/Asserts/Images//attachment/album/202003/29/202536sj49gi159ijzopg9.png)
+![](/Asserts/Images/album/202003/29/202536sj49gi159ijzopg9.png)
 
 
 想查看其他的可能选项，请浏览它对应的 man 信息或者帮助页。

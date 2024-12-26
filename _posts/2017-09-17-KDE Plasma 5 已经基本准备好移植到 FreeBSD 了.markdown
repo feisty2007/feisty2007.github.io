@@ -7,7 +7,7 @@ tags:	[linuxcn,FreeBSD,KDE]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/28/172107tq2qd4lyq2qqy24y.jpg)
+![](/Asserts/Images/album/201709/28/172107tq2qd4lyq2qqy24y.jpg)
 
 
 在距离 Linux 上的 [KDE Plasma 5 初次发布](/article-3411-1.html)已经三年之后，而其对 FreeBSD 的支持正在逐渐成型。

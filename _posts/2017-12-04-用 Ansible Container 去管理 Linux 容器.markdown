@@ -15,7 +15,7 @@ tags:	[linuxcn,Dockerfile,Ansible,Docker]
 > 
 
 
-![Ansible Container: A new way to manage containers](/Asserts/Images//attachment/album/201712/28/181710auyru6kuhokbhdz3.png "Ansible Container: A new way to manage containers")
+![Ansible Container: A new way to manage containers](/Asserts/Images/album/201712/28/181710auyru6kuhokbhdz3.png "Ansible Container: A new way to manage containers")
 
 
 Image by : opensource.com

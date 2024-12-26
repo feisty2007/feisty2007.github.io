@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu]
 > 
 
 
-![Ubuntu 23.04](/Asserts/Images//attachment/album/202304/22/182550fzkshcasisazmc9a.jpg)
+![Ubuntu 23.04](/Asserts/Images/album/202304/22/182550fzkshcasisazmc9a.jpg)
 
 
 每年的这个时候，都会有新的 Ubuntu 版本发布：**Ubuntu 23.04** 来了。
@@ -41,7 +41,7 @@ tags:	[linuxcn,Ubuntu]
 ### ⭐ Ubuntu 23.04：有什么新内容？
 
 
-![Ubuntu 23.04 主屏幕](/Asserts/Images//attachment/album/202304/22/182623hzzmrreyrmr2cprm.jpg)
+![Ubuntu 23.04 主屏幕](/Asserts/Images/album/202304/22/182623hzzmrreyrmr2cprm.jpg)
 
 
 该版本最重要的改进包括以下内容：
@@ -67,7 +67,7 @@ tags:	[linuxcn,Ubuntu]
 #### 基于 Flutter 的默认安装程序
 
 
-![Ubuntu 新安装程序](/Asserts/Images//attachment/album/202304/22/182624f61r0x1er3655r6i.jpg)
+![Ubuntu 新安装程序](/Asserts/Images/album/202304/22/182624f61r0x1er3655r6i.jpg)
 
 
 Canonical 一直在开发一个由 [Subiquity](https://github.com/canonical/subiquity?ref=news.itsfoss.com) 支持的现代化的安装程序，它的外观感觉看起来不错。
@@ -88,7 +88,7 @@ Canonical 一直在开发一个由 [Subiquity](https://github.com/canonical/subi
 上个月，我们 [报道](https://news.itsfoss.com/ubuntu-steam-snap/) 了 Canonical 正在寻找用户来测试 Ubuntu 的 Steam Snap 应用。
 
 
-![Steam Snap 应用](/Asserts/Images//attachment/album/202304/22/182624pivb7s4s6ebwe2wy.jpg)
+![Steam Snap 应用](/Asserts/Images/album/202304/22/182624pivb7s4s6ebwe2wy.jpg)
 
 
 随着 Ubuntu 23.04 的到来，等待已经结束了！Steam Snap 应用现在被推广到了稳定频道。
@@ -103,7 +103,7 @@ Canonical 一直在开发一个由 [Subiquity](https://github.com/canonical/subi
 #### GNOME 44
 
 
-![Ubuntu 23.04 与 GNOME 44](/Asserts/Images//attachment/album/202304/22/182625sjjjpm2zwmnpcnnx.jpg)
+![Ubuntu 23.04 与 GNOME 44](/Asserts/Images/album/202304/22/182625sjjjpm2zwmnpcnnx.jpg)
 
 
 [GNOME 44](https://news.itsfoss.com/gnome-44/)，从其核心上分为你带来了一些根本变化，比如一个具有新能力的、更加互动的快速菜单。
@@ -133,7 +133,7 @@ Canonical 一直在开发一个由 [Subiquity](https://github.com/canonical/subi
 Ubuntu 将首次单独提供一个最小化 ISO，它需要互联网连接才能在机器上成功安装 Ubuntu 23.04。
 
 
-![Ubuntu 23.04 的传统 ISO 的列表](/Asserts/Images//attachment/album/202304/22/182625hzaaxan4588e00zb.jpg)
+![Ubuntu 23.04 的传统 ISO 的列表](/Asserts/Images/album/202304/22/182625hzaaxan4588e00zb.jpg)
 
 
 还有一个传统的 ISO 提供了旧的安装程序，供那些适应它的用户使用。
@@ -145,7 +145,7 @@ Ubuntu 将首次单独提供一个最小化 ISO，它需要互联网连接才能
 当然，每一个 Ubuntu 风味版都会随着新的 23.04 版本的发布而得到升级。
 
 
-![Ubuntu Cinnamon](/Asserts/Images//attachment/album/202304/22/182625cxa4l4u26r3uurax.jpg)
+![Ubuntu Cinnamon](/Asserts/Images/album/202304/22/182625cxa4l4u26r3uurax.jpg)
 
 
 Cinnamon 风味版是随着这个版本的发布而新增加的。因此，如果你喜欢使用 Cinnamon 桌面而不是 GNOME，你可以下载 Ubuntu Cinnamon 风味版。
@@ -154,7 +154,7 @@ Cinnamon 风味版是随着这个版本的发布而新增加的。因此，如�
 此外，以前的 Ubuntu 的一个官方版本，**Edubuntu**，现在已经复活了。
 
 
-![Edubuntu 23.04](/Asserts/Images//attachment/album/202304/22/182626hytduh1ho6w6c2yc.jpg)
+![Edubuntu 23.04](/Asserts/Images/album/202304/22/182626hytduh1ho6w6c2yc.jpg)
 
 
 你可以在 [Ubuntu 的网站](https://ubuntu.com/desktop/flavours?ref=news.itsfoss.com) 上找到列出的官方风味版。
@@ -163,7 +163,7 @@ Cinnamon 风味版是随着这个版本的发布而新增加的。因此，如�
 #### 文件管理器的改进
 
 
-![可展开的文件夹](/Asserts/Images//attachment/album/202304/22/182627lklmm9ka6snmakkz.jpg)
+![可展开的文件夹](/Asserts/Images/album/202304/22/182627lklmm9ka6snmakkz.jpg)
 
 
 作为 GNOME 44 改进的一部分，文件管理器（Nautilus）已经得到了改进。
@@ -175,7 +175,7 @@ Cinnamon 风味版是随着这个版本的发布而新增加的。因此，如�
 #### Linux 内核 6.2
 
 
-![Ubuntu 23.04 Neofetch 屏幕截图](/Asserts/Images//attachment/album/202304/22/182627tiriszzdr73ss37u.jpg)
+![Ubuntu 23.04 Neofetch 屏幕截图](/Asserts/Images/album/202304/22/182627tiriszzdr73ss37u.jpg)
 
 
 为了帮助你跟上最新的硬件兼容性和改进，Ubuntu 23.04 配备了 Linux 内核 6.2。

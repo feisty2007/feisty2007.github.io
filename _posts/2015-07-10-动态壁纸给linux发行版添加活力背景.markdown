@@ -22,7 +22,7 @@ tags:	[linuxcn,墙纸]
 ### 动态壁纸主题
 
 
-![](/Asserts/Images//attachment/album/201507/14/172530wnwzw8gfangavr4p.jpg)
+![](/Asserts/Images/album/201507/14/172530wnwzw8gfangavr4p.jpg)
 
 
 Live Wallpaper 不是此类软件唯一的一款，但它是最好的一款之一。
@@ -31,7 +31,7 @@ Live Wallpaper 不是此类软件唯一的一款，但它是最好的一款之�
 它附带很多不同的开箱即用的主题。
 
 
-![Live Wallpaper](/Asserts/Images//attachment/album/201507/14/172527ihk30tgchhygxlgl.gif)
+![Live Wallpaper](/Asserts/Images/album/201507/14/172527ihk30tgchhygxlgl.gif)
 
 
 *Live Wallpaper*
@@ -54,7 +54,7 @@ Live Wallpaper **完全开源**，所以没有什么能够阻挡天马行空的�
 ### 设置 & 特点
 
 
-![](/Asserts/Images//attachment/album/201507/14/172532oyx9ynjfff1yf9qf.jpg)
+![](/Asserts/Images/album/201507/14/172532oyx9ynjfff1yf9qf.jpg)
 
 
 虽然某些主题与其它主题相比有更多的选项，但每款主题都可以通过某些方式来配置或者定制。
@@ -108,7 +108,7 @@ Live Wallpaper在运行时，你无法在桌面添加，打开或者是编辑文
 ### 怎么在 Ubuntu 14.04 LTS+ 上安装 Live Wallpaper
 
 
-![](/Asserts/Images//attachment/album/201507/14/172533vhlvwchh9e5vcpcp.jpg)
+![](/Asserts/Images/album/201507/14/172533vhlvwchh9e5vcpcp.jpg)
 
 
 要想在Ubuntu 14.04 LTS 和更高版本中安装 Live Wallpaper，你首先需要把官方PPA添加进你的软件源。 最快的方法是在终端中执行下列命令:
@@ -134,7 +134,7 @@ sudo apt-get install livewallpaper-config livewallpaper-indicator
 所有都安装好之后你就可以通过Unity Dash来启动它和它的首选项工具了。
 
 
-![](/Asserts/Images//attachment/album/201507/14/172541k8cgrlcggeslcen6.png)
+![](/Asserts/Images/album/201507/14/172541k8cgrlcggeslcen6.png)
 
 
 让人不爽的是，安装完成后，程序不会自动打开托盘图标，而仅仅将它自己加入自动启动项，所以，快速来个注销 -> 登陆它就会出现啦。

@@ -7,10 +7,10 @@ tags:	[linuxcn,虚拟化,Stadia,机器人]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/30/154722djejex0lpgoylplc.jpg)
+![](/Asserts/Images/album/202209/30/154722djejex0lpgoylplc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/30/154735guyyuyoy2xytoiz0.jpg)
+![](/Asserts/Images/album/202209/30/154735guyyuyoy2xytoiz0.jpg)
 
 
 ### 神秘的黑客组织正在“超级劫持”虚拟化软件
@@ -35,7 +35,7 @@ tags:	[linuxcn,虚拟化,Stadia,机器人]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/30/154746fota2naa0ae5ncb2.jpg)
+![](/Asserts/Images/album/202209/30/154746fota2naa0ae5ncb2.jpg)
 
 
 ### 谷歌将关闭 Stadia 云游戏串流服务
@@ -60,7 +60,7 @@ Stadia 高管称，“虽然 Stadia 为消费者提供流媒体游戏的方法�
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/30/154801coygiwgxmy5a2jww.jpg)
+![](/Asserts/Images/album/202209/30/154801coygiwgxmy5a2jww.jpg)
 
 
 ### 软件机器人正在抢占白领工作

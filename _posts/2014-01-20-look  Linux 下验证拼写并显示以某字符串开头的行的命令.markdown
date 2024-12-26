@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,命令,look,拼写,验证,技巧]
 你有没有感到需要一款Linux下的命令行工具，它可以验证你的拼写？一款可以显示包含特定前缀字符串的行？好的，本篇中，我们会讨论Linux下的 **look**命令，它满足了上面的这些要求。
 
 
-![](/Asserts/Images//attachment/album/201401/14/151240h28gvvi8aygbhgzm.png)
+![](/Asserts/Images/album/201401/14/151240h28gvvi8aygbhgzm.png)
 
 
 ### Linux下的look命令
@@ -19,7 +19,7 @@ tags:	[linuxcn,Linux,命令,look,拼写,验证,技巧]
 下面是来自look命令man页面描述的截图：
 
 
-![](/Asserts/Images//attachment/album/201401/14/1512576vvvdop747vkvo6o.png)
+![](/Asserts/Images/album/201401/14/1512576vvvdop747vkvo6o.png)
 
 
 ### 测试环境
@@ -76,7 +76,7 @@ $ look "#include" efence_test.c
 下面是一些look命令提供了其他一些命令行选项：
 
 
-![](/Asserts/Images//attachment/album/201401/14/151259eu4u2bbrro24zg2g.png)
+![](/Asserts/Images/album/201401/14/151259eu4u2bbrro24zg2g.png)
 
 
 想要获取这个命令的更多信息，阅读这个 [man 页](http://linux.about.com/library/cmd/blcmdl1_look.htm).

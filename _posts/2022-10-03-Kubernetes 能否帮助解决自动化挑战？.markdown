@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,自动化]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/30/105625ocz9sd9z6g4dzb44.jpg)
+![](/Asserts/Images/album/202210/30/105625ocz9sd9z6g4dzb44.jpg)
 
 
 

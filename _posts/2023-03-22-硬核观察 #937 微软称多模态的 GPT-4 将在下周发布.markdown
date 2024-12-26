@@ -7,10 +7,10 @@ tags:	[linuxcn,GPT-4,固态硬盘,Coreboot]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/11/152305w3m6c8a888f6799c.jpg)
+![](/Asserts/Images/album/202303/11/152305w3m6c8a888f6799c.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/11/152317adbqb04e1bih8h91.jpg)
+![](/Asserts/Images/album/202303/11/152317adbqb04e1bih8h91.jpg)
 
 
 ### 微软称多模态的 GPT-4 将在下周发布
@@ -35,7 +35,7 @@ tags:	[linuxcn,GPT-4,固态硬盘,Coreboot]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/11/152327ejdhkjkyk24fc62k.jpg)
+![](/Asserts/Images/album/202303/11/152327ejdhkjkyk24fc62k.jpg)
 
 
 ### 研究发现固态硬盘比机械硬盘更可靠
@@ -60,7 +60,7 @@ tags:	[linuxcn,GPT-4,固态硬盘,Coreboot]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/11/152418j215919vassepqef.jpg)
+![](/Asserts/Images/album/202303/11/152418j215919vassepqef.jpg)
 
 
 ### 字节跳动发布了开放系统固件 CloudFW 2.0

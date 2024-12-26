@@ -7,7 +7,7 @@ tags:	[linuxcn,退出码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/03/154628oloxp7sl6s1z4pbl.jpg)
+![](/Asserts/Images/album/202308/03/154628oloxp7sl6s1z4pbl.jpg)
 
 
 
@@ -94,7 +94,7 @@ echo $?
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/03/155020lpzz733zzjbmnb6z.png)
+![](/Asserts/Images/album/202308/03/155020lpzz733zzjbmnb6z.png)
 
 
 这个退出码 `0` 表示特定命令已成功执行，仅此而已。让我们再演示几个例子。
@@ -109,7 +109,7 @@ pkill lxappearance
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/03/155022so77hadroxz7oh2r.gif)
+![](/Asserts/Images/album/202308/03/155022so77hadroxz7oh2r.gif)
 
 
 查看文件内容也会返回退出码 0，这**仅**意味着 `cat` 命令执行成功。
@@ -133,7 +133,7 @@ pacman -Sy
 它会返回 `1`， 表示上一条命令运行出错。
 
 
-![exit code 1 (impermissible operation resulted in this code)](/Asserts/Images//attachment/album/202308/03/155022dgzy8ouyzrv7yavy.png)
+![exit code 1 (impermissible operation resulted in this code)](/Asserts/Images/album/202308/03/155022dgzy8ouyzrv7yavy.png)
 
 
 
@@ -150,7 +150,7 @@ pacman -Sy
 除以 `0` 等操作也会返回错误码 `1`。
 
 
-![Division by zero results in code 1](/Asserts/Images//attachment/album/202308/03/155022ozsa8g800aqd3505.png)
+![Division by zero results in code 1](/Asserts/Images/album/202308/03/155022ozsa8g800aqd3505.png)
 
 
 ### 退出码 2
@@ -171,13 +171,13 @@ grep --z file.txt
 
 ```
 
-![Invalid argument resulted in exit code 2](/Asserts/Images//attachment/album/202308/03/155022oh0t2jp2tzttpro0.png)
+![Invalid argument resulted in exit code 2](/Asserts/Images/album/202308/03/155022oh0t2jp2tzttpro0.png)
 
 
 当权限被拒绝时，比如访问 `/root` 文件夹，就会出现错误码 `2`。
 
 
-![Permission denied gives out code 2](/Asserts/Images//attachment/album/202308/03/155023kfhzhz3du7dhv4qq.png)
+![Permission denied gives out code 2](/Asserts/Images/album/202308/03/155023kfhzhz3du7dhv4qq.png)
 
 
 ### 退出码 126
@@ -189,7 +189,7 @@ grep --z file.txt
 当你尝试执行没有执行权限的 Shell 脚本时，就会出现这个错误。
 
 
-![](/Asserts/Images//attachment/album/202308/03/155023wrr6p3eavnpo9rzf.png)
+![](/Asserts/Images/album/202308/03/155023wrr6p3eavnpo9rzf.png)
 
 
 请注意，该退出码只出现在没有足够权限的脚本或命令的“*执行*”中，这与一般的**权限被拒绝**错误不同。
@@ -207,7 +207,7 @@ grep --z file.txt
 例如，当我尝试执行一个不带路径的脚本时，经常会看到这个错误。
 
 
-![Script executed without the path gives "command not found" or code 127](/Asserts/Images//attachment/album/202308/03/155023gh6oj2udz7b3m67m.png)
+![Script executed without the path gives "command not found" or code 127](/Asserts/Images/album/202308/03/155023gh6oj2udz7b3m67m.png)
 
 
 当你想运行的可执行文件不在 `$PATH` 变量中时，也会出现退出码 `127`。你可以通过 [在 PATH 变量中添加命令的目录](https://itsfoss.com/add-directory-to-path-linux/) 来纠正这种情况。
@@ -216,7 +216,7 @@ grep --z file.txt
 当你输入不存在的命令时，也会得到这样的退出码。
 
 
-![Unmount is not a command, and Screenfetch is not installed, which resulted in code 127](/Asserts/Images//attachment/album/202308/03/155023bhg73244v2rg4hwk.png)
+![Unmount is not a command, and Screenfetch is not installed, which resulted in code 127](/Asserts/Images/album/202308/03/155023bhg73244v2rg4hwk.png)
 
 
 ### 退出码 128+n 系列

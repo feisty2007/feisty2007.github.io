@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,打包,软件包]
 > 
 
 
-![](/Asserts/Images//attachment/album/202004/23/235547iztz5d955t9s9b5t.jpg)
+![](/Asserts/Images/album/202004/23/235547iztz5d955t9s9b5t.jpg)
 
 
 在基于 Debian 的操作系统（例如 Debian 或 [Elementary OS](https://opensource.com/article/19/12/pantheon-linux-desktop)）上安装 Python 应用的一种方法是使用 [dh\_virtualenv](https://dh-virtualenv.readthedocs.io/en/latest/) 工具。它可以构建一个 `.deb` 包，在应用之外封装了一个 Python 虚拟环境，并在安装时进行部署。

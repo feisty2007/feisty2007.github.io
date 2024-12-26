@@ -7,10 +7,10 @@ tags:	[linuxcn,Slackware,CPU,VR]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/04/180917jhzkkohh523pbk8z.jpg)
+![](/Asserts/Images/album/202202/04/180917jhzkkohh523pbk8z.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/04/180926b81q7rh9limiilhu.jpg)
+![](/Asserts/Images/album/202202/04/180926b81q7rh9limiilhu.jpg)
 
 
 ### 5 年后，Slackware 发布大变样的 15.0
@@ -27,7 +27,7 @@ Slackware 是最古老的仍在维护的 Linux 发行版。它的上个版本是
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/04/180940ghg2bmpjnzp7o8j7.jpg)
+![](/Asserts/Images/album/202202/04/180940ghg2bmpjnzp7o8j7.jpg)
 
 
 ### 一半的英特尔芯片漏洞是员工内部发现的
@@ -44,7 +44,7 @@ Slackware 是最古老的仍在维护的 Linux 发行版。它的上个版本是
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/04/180956n7ihaxuhhp6vxla5.jpg)
+![](/Asserts/Images/album/202202/04/180956n7ihaxuhhp6vxla5.jpg)
 
 
 ### Mozilla 关闭了其 VR 浏览器 Firefox Reality

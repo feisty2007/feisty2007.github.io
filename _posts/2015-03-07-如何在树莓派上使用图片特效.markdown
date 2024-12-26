@@ -57,7 +57,7 @@ $ python name_of_this_script.py
 下面是抓取到一些样张。
 
 
-![](/Asserts/Images//attachment/album/201503/29/202201qp8hiccspisi98ht.jpg)
+![](/Asserts/Images/album/201503/29/202201qp8hiccspisi98ht.jpg)
 
 
 ### 小福利

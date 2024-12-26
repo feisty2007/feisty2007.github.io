@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,URL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/22/235511q1pbibaabi5cx6xf.jpg)
+![](/Asserts/Images/album/201802/22/235511q1pbibaabi5cx6xf.jpg)
 
 
 Python 中的 `urllib.parse` 模块提供了很多解析和组建 URL 的函数。

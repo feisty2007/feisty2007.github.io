@@ -7,7 +7,7 @@ tags:	[linuxcn,Roundcube,Nextcloud]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/02/223230wr7y7ag3gug37jyt.jpg)
+![](/Asserts/Images/album/202312/02/223230wr7y7ag3gug37jyt.jpg)
 
 
 
@@ -30,7 +30,7 @@ Roundcube，作为最好的 [开源网页邮箱服务](https://itsfoss.com/open-
 ### Roundcube 的新家
 
 
-![](/Asserts/Images//attachment/album/202312/02/223256igb4hud6zxg4s246.png)
+![](/Asserts/Images/album/202312/02/223256igb4hud6zxg4s246.png)
 
 
 这就是 Nextcloud 的 CEO，Frank Karlitschek，关于此次合作的描述：

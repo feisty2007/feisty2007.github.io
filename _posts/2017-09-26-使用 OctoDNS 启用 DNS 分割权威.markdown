@@ -68,7 +68,7 @@ github.com.     551 IN  NS  ns-1707.awsdns-21.co.uk.
 在 GitHub，我们有几十个区域和数千条记录，而大多数这些区域并没有关键到需要冗余，因此我们只需要处理一部分。我们希望有能够在多个 DNS 服务提供商中保持这些记录同步的方案，并且更一般地管理内部和外部的所有 DNS 记录。所以今天我们宣布了 [OctoDNS](https://github.com/github/octodns/)。
 
 
-![octoDNS logo](/Asserts/Images//attachment/album/201709/12/231245jt2b2w77x0z8in21.png)
+![octoDNS logo](/Asserts/Images/album/201709/12/231245jt2b2w77x0z8in21.png)
 
 
 ### 配置

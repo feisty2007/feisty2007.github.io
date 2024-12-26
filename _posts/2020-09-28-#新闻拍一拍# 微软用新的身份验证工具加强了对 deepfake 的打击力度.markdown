@@ -7,7 +7,7 @@ tags:	[linuxcn,特斯拉,AI,deepfake]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/02/115751yiaj70777jo4c540.jpg)
+![](/Asserts/Images/album/202009/02/115751yiaj70777jo4c540.jpg)
 
 
 #### 微软用新的身份验证工具加强了对 deepfake 的打击力度

@@ -15,7 +15,7 @@ tags:	[linuxcn,企业,大数据]
 > 
 
 
-![](/Asserts/Images//attachment/album/202011/08/183430yu48zyk4txyo15o5.jpg)
+![](/Asserts/Images/album/202011/08/183430yu48zyk4txyo15o5.jpg)
 
 
 又过了一周，另一项调查发现，IT 已经无法跟上不断膨胀的数据过载。这次的问题将主要是网络带宽和整体性能。

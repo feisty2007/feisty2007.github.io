@@ -7,7 +7,7 @@ tags:	[linuxcn,GPUOpen,光线追踪]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/24/110127lqizw9sgtgm5wjos.jpg)
+![](/Asserts/Images/album/202209/24/110127lqizw9sgtgm5wjos.jpg)
 
 
 

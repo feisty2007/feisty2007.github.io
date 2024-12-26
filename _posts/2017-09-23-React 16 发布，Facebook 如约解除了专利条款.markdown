@@ -7,7 +7,7 @@ tags:	[linuxcn,React,Facebook,专利]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/28/104143xaah3a8h58zaaa58.jpg)
+![](/Asserts/Images/album/201709/28/104143xaah3a8h58zaaa58.jpg)
 
 
 26 日，Facebook [发布](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)了 [React 16](https://github.com/facebook/react)，并如[之前承诺](/article-8895-1.html)的，将 React 16 JavaScript 库以及 GraphQL 查询语言的许可证从原来的 BSD + 专利条款[改为更受欢迎的 MIT 许可证](https://github.com/facebook/react/commit/b765fb25ebc6e53bb8de2496d2828d9d01c2774b)。
@@ -34,4 +34,4 @@ tags:	[linuxcn,React,Facebook,专利]
 而 React 16 中的服务器端渲染也要比之前的版本快得多，[测试表明](https://medium.com/@aickin/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)，其比 Node 4 快 2.4 倍，比 Node 6 快 3 倍，比 Node 8.4 快 3.8 倍。
 
 
-![](/Asserts/Images//attachment/album/201709/28/104149mtoz17i0znywst37.png)
+![](/Asserts/Images/album/201709/28/104149mtoz17i0znywst37.png)

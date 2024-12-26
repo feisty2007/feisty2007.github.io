@@ -7,7 +7,7 @@ tags:	[linuxcn,Swift]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/20/093525ccnxl3l5zxqwwpsj.jpg)
+![](/Asserts/Images/album/201810/20/093525ccnxl3l5zxqwwpsj.jpg)
 
 
 Swift 是一种使用现代方法构建安全性、性能和软件设计模式的通用编程语言。它旨在成为各种编程项目的最佳语言，从系统编程到桌面应用程序，以及扩展到云服务。继续阅读了解它以及如何在 Fedora 中尝试它。

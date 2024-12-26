@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/21/073426vdpz8p3xdnjejlrp.png)
+![](/Asserts/Images/album/201805/21/073426vdpz8p3xdnjejlrp.png)
 
 
 Linux 是最流行和多功能的操作系统之一，它可以用在智能手机，电脑甚至汽车上。自 20 世纪 90 年代以来，Linux 存在至今，并且仍然是最普遍的操作系统之一。

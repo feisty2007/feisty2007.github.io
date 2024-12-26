@@ -15,7 +15,7 @@ tags:	[linuxcn,边缘计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/201906/23/231224cdl3kwedn0hw2lie.jpg)
+![](/Asserts/Images/album/201906/23/231224cdl3kwedn0hw2lie.jpg)
 
 
 边缘计算的发展将取得一次巨大的飞跃。[据 Gartner 数据](https://www.gartner.com/smarterwithgartner/what-edge-computing-means-for-infrastructure-and-operations-leaders/)，现在公司有 10% 的数据是在传统数据中心或云之外生成的。但在未来六年内，这一比例将升至 75%。
@@ -25,7 +25,7 @@ tags:	[linuxcn,边缘计算]
 
 
 * **制造商**：设备与传感器似乎是这个行业特有的，因此需要为产生的数据找到更快速的方法也就不足为奇。一份 [Automation World](https://www.automationworld.com/article/technologies/cloud-computing/its-not-edge-vs-cloud-its-both) 最近的研究发现 43% 的制造商已经部署了边缘计算项目。最常用用途包括生产/制造数据分析与设备数据分析。
-* **零售商**：与大多数深受数字化运营需求影响的产业一样，零售商也不得不革新了其客户体验。为此，这些组织“正在积极投资贴近于买家的计算能力”，施耐德电气公司 IT 部门执行副总裁 [Dave Johnson](https://blog.schneider-electric.com/Asserts/Images/center/2018/07/10/why-brick-and-mortar-retail-quickly-establishing-leadership-edge-computing/) 如是说。他列举了一些例子，例如在试衣间的增强现实（AR）镜子，提供了不同的服装选择，而不用顾客试用这些服装。又如用于显示店内导航的基于信标的热图。
+* **零售商**：与大多数深受数字化运营需求影响的产业一样，零售商也不得不革新了其客户体验。为此，这些组织“正在积极投资贴近于买家的计算能力”，施耐德电气公司 IT 部门执行副总裁 [Dave Johnson](https://blog.schneider-electric.com/datacenter/2018/07/10/why-brick-and-mortar-retail-quickly-establishing-leadership-edge-computing/) 如是说。他列举了一些例子，例如在试衣间的增强现实（AR）镜子，提供了不同的服装选择，而不用顾客试用这些服装。又如用于显示店内导航的基于信标的热图。
 * **医疗保健机构**：随着医疗保健成本的不断上升，这一行业已经具备了提高生产能力与成本效率方面的创新能力。管理咨询公司[麦肯锡已经确定](https://www.mckinsey.com/industries/high-tech/our-insights/new-demand-new-markets-what-edge-computing-means-for-hardware-companies)，至少有 11 个有益于患者、医疗机构或两者的医疗保健用例。举两个例子：提高护理效率并有助于优化设备的跟踪移动医疗设备；跟踪用户锻炼并提供健康建议的可穿戴设备。
 
 

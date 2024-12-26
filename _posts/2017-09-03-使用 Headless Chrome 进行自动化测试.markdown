@@ -7,7 +7,7 @@ tags:	[linuxcn,Chrome,Headless]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/12/150805oxtnywgwkgwct55k.png)
+![](/Asserts/Images/album/201709/12/150805oxtnywgwkgwct55k.png)
 
 
 如果你想使用 Headless Chrome 进行自动化测试，那么就往下！这篇文章将让你完全使用 Karma 作为<ruby> 运行器 <rt>  runner </rt></ruby>，并且使用 Mocha+Chai 来编撰测试。
@@ -134,7 +134,7 @@ describe('Array', () => {
 当你运行你的测试（`yarn test`）时，Headless Chrome 会启动并将运行结果输出到终端：
 
 
-![](/Asserts/Images//attachment/album/201709/12/151002mihg3iv4zarhpmm3.png)
+![](/Asserts/Images/album/201709/12/151002mihg3iv4zarhpmm3.png)
 
 
 ### 创建你自己的 Headless Chrome 启动器

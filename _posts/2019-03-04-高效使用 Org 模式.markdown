@@ -7,7 +7,7 @@ tags:	[linuxcn,Org模式]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/19/181033i6pi9imlnvgzzlml.jpg)
+![](/Asserts/Images/album/201903/19/181033i6pi9imlnvgzzlml.jpg)
 
 
 ### 简介
@@ -58,7 +58,7 @@ Org 模式最基本的应用场景就是以笔记的形式记录下你想记住�
 借助 [org-bullets](https://github.com/sabof/org-bullets) 它看起来是这样的：
 
 
-![](/Asserts/Images//attachment/album/201903/19/181143pzj9k7jfj9j25m22.png)
+![](/Asserts/Images/album/201903/19/181143pzj9k7jfj9j25m22.png)
 
 
 在这个简单的例子中，你能看到 Org 模式的一些功能：
@@ -114,7 +114,7 @@ Org 模式最基本的应用场景就是以笔记的形式记录下你想记住�
 它看起来是这样的：
 
 
-![](/Asserts/Images//attachment/album/201903/19/181203uua4c8agox482w8p.png)
+![](/Asserts/Images/album/201903/19/181203uua4c8agox482w8p.png)
 
 
 本例中你能看到更多的 Org 模式的功能：
@@ -163,7 +163,7 @@ Org 模式最基本的应用场景就是以笔记的形式记录下你想记住�
 Org 模式的另一个超棒的功能是你可以用它来作日常规划。让我们来看一个例子：
 
 
-![](/Asserts/Images//attachment/album/201903/19/181226wf39ogos679tzp70.png)
+![](/Asserts/Images/album/201903/19/181226wf39ogos679tzp70.png)
 
 
 我没有挖空心思虚构一个例子，这就是我现在真实文件的样子。它看起来内容并不多，但它有助于你花时间在在重要的事情上并且帮你对抗拖延症。
@@ -175,7 +175,7 @@ Org 模式的另一个超棒的功能是你可以用它来作日常规划。让�
 根据 Org 模式的文档，Org 能够跟踪一种特殊的代办事情，称为 “习惯”。当我想养成新的习惯时，我会将该功能与日常规划功能一起连用：
 
 
-![](/Asserts/Images//attachment/album/201903/19/181247idgdwd006blmwm6a.png)
+![](/Asserts/Images/album/201903/19/181247idgdwd006blmwm6a.png)
 
 
 你可以看到，目前我在尝试每天早期并且每两天锻炼一次。另外，它也有助于让我每天阅读书籍。
@@ -187,7 +187,7 @@ Org 模式的另一个超棒的功能是你可以用它来作日常规划。让�
 最后，我还使用议事日程视图功能。待办事项可能分散在不同文件中(比如我就是日常规划和习惯分散在不同文件中)，议事日程视图可以提供所有待办事项的总览：
 
 
-![](/Asserts/Images//attachment/album/201903/19/181310y999x3xozxxztx7b.png)
+![](/Asserts/Images/album/201903/19/181310y999x3xozxxztx7b.png)
 
 
 ### 更多 Org 模式的功能

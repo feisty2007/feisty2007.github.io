@@ -7,7 +7,7 @@ tags:	[linuxcn,PowerShell]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/03/120749nkevgkb12exbeffg.jpg)
+![](/Asserts/Images/album/202212/03/120749nkevgkb12exbeffg.jpg)
 
 
 PowerShell（也可写作 pwsh）是一个功能强大的开源命令行工具，它是面向对象的，由微软开发和维护。它的语法特征冗长，但对用户来说比较直观。本文介绍如何在主机上和在 Podman 或其他容器内安装 PowerShell。

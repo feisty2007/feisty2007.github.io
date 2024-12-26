@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/19/232440e647ygv46o4gychy.png)
+![](/Asserts/Images/album/202309/19/232440e647ygv46o4gychy.png)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,Fedora]
 一起来探索一下！
 
 
-![](/Asserts/Images//attachment/album/202309/19/232440zk4qlnyqe73m4p5d.jpg)
+![](/Asserts/Images/album/202309/19/232440zk4qlnyqe73m4p5d.jpg)
 
 
 ### Fedora 39：重要亮点
@@ -52,7 +52,7 @@ tags:	[linuxcn,Fedora]
 ### 彩色 Bash 提示符
 
 
-![](/Asserts/Images//attachment/album/202309/19/232441dfzaptx6v7mmamn5.png)
+![](/Asserts/Images/album/202309/19/232441dfzaptx6v7mmamn5.png)
 
 
 Bash 提示符有了微小修改，改变了默认配色。
@@ -91,13 +91,13 @@ GNOME 45 带来了大量实用的改动，以及一些微妙的视觉整改。
 重新设计的简洁的侧边栏使得文件与文件夹区域的区分比以往更为明显。
 
 
-![左侧(GNOME 44)，右侧(GNOME 45)](/Asserts/Images//attachment/album/202309/19/232441eqyb9hw0b9uymxz0.png)
+![左侧(GNOME 44)，右侧(GNOME 45)](/Asserts/Images/album/202309/19/232441eqyb9hw0b9uymxz0.png)
 
 
 引入的核心应用，如 “<ruby> 放大镜图像查看器 <rt>  Loupe Image Viewer </rt></ruby>” 和 “<ruby> 快照 <rt>  Snapshot </rt></ruby>”，应当大有用处。这是一个简单且极简的图片查看器，以及一款网络摄像头应用。然而，Fedora 39 仍坚持使用较为经典的 “<ruby> 茄子 <rt>  Cheese </rt></ruby>” 网络摄像头应用。
 
 
-![](/Asserts/Images//attachment/album/202309/19/232441kbmggqn3q6rqq38b.png)
+![](/Asserts/Images/album/202309/19/232441kbmggqn3q6rqq38b.png)
 
 
 不仅新增了应用，已有的核心应用也进行了很多优化，例如“<ruby> 日历 <rt>  Calendar </rt></ruby>”应用有了新的应用图标，“<ruby> 控制台 <rt>  Console </rt></ruby>”应用和“<ruby> 天气 <rt>  Weather </rt></ruby>”应用的用户体验也得到了提升。
@@ -109,7 +109,7 @@ GNOME 45 带来了大量实用的改动，以及一些微妙的视觉整改。
 在 “<ruby> 关于 <rt>  About </rt></ruby>” 面板，新增了一个 “<ruby> 系统详情 <rt>  System Details </rt></ruby>”，在此你可以获取到你正在运行的系统详细信息以及其硬件规格。
 
 
-![](/Asserts/Images//attachment/album/202309/19/232441w5sg5325ivz5sh3s.jpg)
+![](/Asserts/Images/album/202309/19/232441w5sg5325ivz5sh3s.jpg)
 
 
 尽管在 Fedora 等 Linux 发行版中，隐私保护已经非常可靠，但 GNOME 45 给我们带来了更深一步的改进。
@@ -118,7 +118,7 @@ GNOME 45 带来了大量实用的改动，以及一些微妙的视觉整改。
 这些选项既便于快速访问，对于初次接触 Linux 的用户来说，也易于理解。
 
 
-![](/Asserts/Images//attachment/album/202309/19/232442fi292t662eti6aea.png)
+![](/Asserts/Images/album/202309/19/232442fi292t662eti6aea.png)
 
 
 当然，GNOME 45 还有更多的亮点，你可以在我们的 [GNOME 45 特性](https://news.itsfoss.com/gnome-45/) 专题文章中详细略览：
@@ -194,7 +194,7 @@ Fedora 带有几个已预先启用的存储库，让你可以顺畅地安装软�
 虽然安装程序基本无变化（Anaconda Web UI 的 [目标](https://fedoraproject.org/wiki/Changes/AnacondaWebUIforFedoraWorkstation) 是 Fedora 40），但是新的“<ruby> 欢迎屏 <rt>  Welcome Screen </rt></ruby>”在帮助你开始使用时会提供些许便利。
 
 
-![](/Asserts/Images//attachment/album/202309/19/232442hunk13y5k23zrryu.jpg)
+![](/Asserts/Images/album/202309/19/232442hunk13y5k23zrryu.jpg)
 
 
 为了提供更好的用户体验，Fedora 39 加入了多项改进。

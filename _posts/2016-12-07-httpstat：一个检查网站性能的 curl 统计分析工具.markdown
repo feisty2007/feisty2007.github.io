@@ -10,13 +10,13 @@ tags:	[linuxcn,httpstat,curl]
 httpstat 是一个 Python 脚本，它以美妙妥善的方式反映了 curl 统计分析，它是一个单一脚本，兼容 Python 3 ，在用户的系统上不需要安装额外的软件（依赖）。
 
 
-![](/Asserts/Images//attachment/album/201612/16/062646xyjbihhlhgybtj8m.jpg)
+![](/Asserts/Images/album/201612/16/062646xyjbihhlhgybtj8m.jpg)
 
 
 从本质上来说它是一个 cURL 工具的封装，意味着你可以在 URL 后使用几个有效的 cURL 选项，但是不包括 `-w`、 `-D`、 `-o`、 `-s` 和 `-S` 选项，这些已经被 httpstat 使用了。
 
 
-![httpstat Curl Statistics Tool ](/Asserts/Images//attachment/album/201612/16/062701hi6cma6cfimimmfk.png)
+![httpstat Curl Statistics Tool ](/Asserts/Images/album/201612/16/062701hi6cma6cfimimmfk.png)
 
 
 *httpstat Curl 统计分析工具*
@@ -168,7 +168,7 @@ $ httpstat google.com
 
 ```
 
-![httpstat - Showing Website Statistics](/Asserts/Images//attachment/album/201612/16/062702lnaq6hfe87bbyq70.png)
+![httpstat - Showing Website Statistics](/Asserts/Images/album/201612/16/062702lnaq6hfe87bbyq70.png)
 
 
 *httpstat – 展示网站统计分析*
@@ -188,7 +188,7 @@ $ python httpstat.py httpbin.org/post -X POST --data-urlencode "a=b" -v
 
 ```
 
-![httpstat - Custom Post Request](/Asserts/Images//attachment/album/201612/16/062702t66dkrlbr4wk9lq6.png)
+![httpstat - Custom Post Request](/Asserts/Images/album/201612/16/062702t66dkrlbr4wk9lq6.png)
 
 
 *httpstat – 定制提交请求*

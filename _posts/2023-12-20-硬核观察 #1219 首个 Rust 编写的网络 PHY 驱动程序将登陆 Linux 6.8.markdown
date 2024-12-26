@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,AI,Usenet]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/18/085017ccvii90i9iyy00lv.jpg)
+![](/Asserts/Images/album/202312/18/085017ccvii90i9iyy00lv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/18/085137iqn4q4dhzh63u43a.png)
+![](/Asserts/Images/album/202312/18/085137iqn4q4dhzh63u43a.png)
 
 
 ### #1 首个 Rust 编写的网络 PHY 驱动程序将登陆 Linux 6.8
@@ -38,7 +38,7 @@ tags:	[linuxcn,Rust,AI,Usenet]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/18/085207s5tjhh5fsjshos1s.png)
+![](/Asserts/Images/album/202312/18/085207s5tjhh5fsjshos1s.png)
 
 
 ### #2 字节跳动被指利用 OpenAI API 训练自己的 AI
@@ -69,7 +69,7 @@ OpenAI 称，字节跳动的内部文件证实，OpenAI API 已被用于开发�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/18/085248bghfvzg7vfqis75o.png)
+![](/Asserts/Images/album/202312/18/085248bghfvzg7vfqis75o.png)
 
 
 ### #3 谷歌群组明年终止支持新闻组（Usenet）

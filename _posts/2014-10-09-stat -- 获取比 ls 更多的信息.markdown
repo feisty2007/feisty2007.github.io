@@ -18,7 +18,7 @@ tags:	[linuxcn,stat,ls,文件信息]
 > 
 
 
-![](/Asserts/Images//attachment/album/201410/22/215312u0zazqp4eqd0etp0.png)
+![](/Asserts/Images/album/201410/22/215312u0zazqp4eqd0etp0.png)
 
 
 ls 命令可能是每一个 Unix 使用者第一个学习的命令之一， 但它仅仅显示了 stat 命令能给出的信息的一小部分。

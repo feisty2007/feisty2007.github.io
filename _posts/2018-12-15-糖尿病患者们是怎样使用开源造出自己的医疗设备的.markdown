@@ -15,7 +15,7 @@ tags:	[linuxcn,糖尿病,医疗]
 > 
 
 
-![](/Asserts/Images//attachment/album/201812/27/194646n3swww32uj3r5wnm.png)
+![](/Asserts/Images/album/201812/27/194646n3swww32uj3r5wnm.png)
 
 
 Dana Lewis 被评选为[开源社区 2018 年度最佳女性](https://www.redhat.com/en/about/women-in-open-source)！下面是开源怎样改善了她的健康的故事。

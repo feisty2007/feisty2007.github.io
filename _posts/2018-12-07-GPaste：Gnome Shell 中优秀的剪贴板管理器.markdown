@@ -7,7 +7,7 @@ tags:	[linuxcn,剪贴板,GPaste]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/04/103755lzn0m0ph07t4enk0.jpg)
+![](/Asserts/Images/album/201812/04/103755lzn0m0ph07t4enk0.jpg)
 
 
 [GPaste](https://github.com/Keruspe/GPaste) 是一个剪贴板管理系统，它包含了库、守护程序以及命令行和 Gnome 界面（使用原生 Gnome Shell 扩展）。
@@ -16,7 +16,7 @@ tags:	[linuxcn,剪贴板,GPaste]
 剪贴板管理器能够跟踪你正在复制和粘贴的内容，从而能够访问以前复制的项目。GPaste 带有原生的 Gnome Shell 扩展，是那些寻找 Gnome 剪贴板管理器的人的完美补充。
 
 
-![](/Asserts/Images//attachment/album/201812/04/103130a4uvqc9zh02t7ve4.png)
+![](/Asserts/Images/album/201812/04/103130a4uvqc9zh02t7ve4.png)
 
 
 *GPaste Gnome Shell扩展*
@@ -44,7 +44,7 @@ tags:	[linuxcn,剪贴板,GPaste]
 * 将活动项目上传到 pastebin 服务：`Ctrl + Alt + U`
 
 
-![](/Asserts/Images//attachment/album/201812/04/103139zh97o81arax9pmrm.png)
+![](/Asserts/Images/album/201812/04/103139zh97o81arax9pmrm.png)
 
 
 *GPaste GUI*
@@ -53,7 +53,7 @@ tags:	[linuxcn,剪贴板,GPaste]
 GPaste 窗口界面提供可供搜索的剪贴板历史记录（包括清除、编辑或上传项目的选项）、暂停 GPaste 跟踪剪贴板的选项、重启 GPaste 守护程序，备份当前剪贴板历史记录，还有它的设置。
 
 
-![](/Asserts/Images//attachment/album/201812/04/103150vwr6t6x0kw2w0vxl.png)
+![](/Asserts/Images/album/201812/04/103150vwr6t6x0kw2w0vxl.png)
 
 
 *GPaste GUI*

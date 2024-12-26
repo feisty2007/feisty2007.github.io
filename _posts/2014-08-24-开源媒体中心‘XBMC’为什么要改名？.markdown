@@ -7,7 +7,7 @@ tags:	[linuxcn,XBMC,Kodi]
 ---
 
 
-![Beginnings: the project began life as an Xbox video player](/Asserts/Images//attachment/album/201408/09/173544ljekiykbyvb277zc.png)
+![Beginnings: the project began life as an Xbox video player](/Asserts/Images/album/201408/09/173544ljekiykbyvb277zc.png)
 
 
 早期：项目一开始是运行在Xbox上的视频播放器。
@@ -51,7 +51,7 @@ XBMC将不再使用；在项目的下一个重要发布版（第14版）中，�
 ### 于是乎，Kodi
 
 
-![The (temporary) new logo](/Asserts/Images//attachment/album/201408/09/173545drkp6uk7z70e8e2p.jpg)
+![The (temporary) new logo](/Asserts/Images/album/201408/09/173545drkp6uk7z70e8e2p.jpg)
 
 
 新标志（临时）

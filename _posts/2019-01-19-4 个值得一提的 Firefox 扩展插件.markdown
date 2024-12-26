@@ -15,7 +15,7 @@ tags:	[linuxcn,Firefox,扩展,插件]
 > 
 
 
-![](/Asserts/Images//attachment/album/201901/21/110914kg7g1y78b6z6sk2t.jpg)
+![](/Asserts/Images/album/201901/21/110914kg7g1y78b6z6sk2t.jpg)
 
 
 自从大约 12 年前 Firefox（火狐浏览器）v2.0 推出以来, 我一直是它的用户。它不是那时最好的网络浏览器，但是总会有一个理由让我回到它：我最喜爱的浏览器扩展插件不能工作在其它浏览器上。
@@ -33,7 +33,7 @@ tags:	[linuxcn,Firefox,扩展,插件]
 ### Tridactyl
 
 
-![Tridactyl screenshot](/Asserts/Images//attachment/album/201901/21/110916a57miwml0tit745p.png "Tridactyl's new tab page, showcasing link hinting")
+![Tridactyl screenshot](/Asserts/Images/album/201901/21/110916a57miwml0tit745p.png "Tridactyl's new tab page, showcasing link hinting")
 
 
 *Tridactyl 的新选项卡页面，展示了链接的指引。*
@@ -51,7 +51,7 @@ Tridactyl 最近刚刚实现了一个可选的本地信使（目前，仅适用�
 ### Open With
 
 
-![Open With Screenshot](/Asserts/Images//attachment/album/201901/21/110917lryyywttkmuxumed.png "A context menu provided by Open With. I can open the current page with one of the external programs listed here.")
+![Open With Screenshot](/Asserts/Images/album/201901/21/110917lryyywttkmuxumed.png "A context menu provided by Open With. I can open the current page with one of the external programs listed here.")
 
 
 *Open With 提供的菜单。我可以用这里列出的一个外部程序打开当前页面。*
@@ -69,7 +69,7 @@ Tridactyl 最近刚刚实现了一个可选的本地信使（目前，仅适用�
 ### Stylus
 
 
-![Stylus Screenshot](/Asserts/Images//attachment/album/201901/21/110918mdtybhnhhtn5jxp5.png "In this screenshot, I've just searched for and installed a dark theme for the site I'm currently on with Stylus. Even the popup has custom style (called Deepdark Stylus)!")
+![Stylus Screenshot](/Asserts/Images/album/201901/21/110918mdtybhnhhtn5jxp5.png "In this screenshot, I've just searched for and installed a dark theme for the site I'm currently on with Stylus. Even the popup has custom style (called Deepdark Stylus)!")
 
 
 *在这个屏幕截图中，我刚刚搜索并为当前正在浏览的 Stylus 的网站安装了一个黑暗主题。即使是弹出窗口也可以定制风格（称为 Deepdark Stylus）！*
@@ -87,7 +87,7 @@ UserCSS 是一种有趣的格式，尤其是对于开发人员来说。我已经
 ### uMatrix
 
 
-![uMatrix Screenshot](/Asserts/Images//attachment/album/201901/21/110919tupdu3m2zbbb3euu.png "The user interface of uMatrix, showing the current rules for the currently visited webpage.")
+![uMatrix Screenshot](/Asserts/Images/album/201901/21/110919tupdu3m2zbbb3euu.png "The user interface of uMatrix, showing the current rules for the currently visited webpage.")
 
 
 *uMatrix 的用户界面，显示当前访问过的网页的当前规则。*

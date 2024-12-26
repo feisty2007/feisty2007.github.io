@@ -15,7 +15,7 @@ tags:	[linuxcn,Debian]
 > 
 
 
-![Debian 12](/Asserts/Images//attachment/album/202306/13/085342twj8j8w9iixi8i8x.jpg)
+![Debian 12](/Asserts/Images/album/202306/13/085342twj8j8w9iixi8i8x.jpg)
 
 
 虽然没有固定的时间表，但每隔约两年 Debian 就会推出一个新的稳定版升级。
@@ -53,7 +53,7 @@ Debian 11 发布于 2021 年，现在是 2023 年，我们迎来了下一个主�
 #### 安装程序升级
 
 
-![Debian 12 installer](/Asserts/Images//attachment/album/202306/13/085415sc2soj9qsm6e2arw.png)
+![Debian 12 installer](/Asserts/Images/album/202306/13/085415sc2soj9qsm6e2arw.png)
 
 
 每个发行版都致力于改进新用户的安装体验，而 Debian 也不例外。
@@ -68,7 +68,7 @@ Debian 12 可以更好地处理非自由固件，这是可以提高新用户的�
 #### Linux 内核 6.1
 
 
-![Debian 12 neofetch](/Asserts/Images//attachment/album/202306/13/085416spoy54wsou45uiyz.png)
+![Debian 12 neofetch](/Asserts/Images/album/202306/13/085416spoy54wsou45uiyz.png)
 
 
 Debian 12 带有 [LTS 版本的 Linux 内核 6.1](https://news.itsfoss.com/linux-kernel-6-1-is-now-an-lts-version/)。
@@ -89,7 +89,7 @@ Debian 12 默认预装了 [GNOME 43](https://news.itsfoss.com/gnome-43-release/)
 * OpenJDK 17
 
 
-![Debian 12 新壁纸](/Asserts/Images//attachment/album/202306/13/085416ec0opv343s73ioj0.png)
+![Debian 12 新壁纸](/Asserts/Images/album/202306/13/085416ec0opv343s73ioj0.png)
 
 
 不要忘了还有一张新的 [壁纸](https://wiki.debian.org/DebianArt/Themes/Emerald)，为所有那些神奇的软件更新增添了装饰。
@@ -98,7 +98,7 @@ Debian 12 默认预装了 [GNOME 43](https://news.itsfoss.com/gnome-43-release/)
 ### 其他变化
 
 
-![](/Asserts/Images//attachment/album/202306/13/085417gs5vg2gs8dg88nav.png)
+![](/Asserts/Images/album/202306/13/085417gs5vg2gs8dg88nav.png)
 
 
 如果你需要了解完整的技术细节和升级信息，可以查看 [发行说明](https://www.debian.org:443/releases/bookworm/amd64/release-notes/) 或 [官方公告](https://www.debian.org:443/News/2023/20230610)。这里列出了一些重要的更新亮点：

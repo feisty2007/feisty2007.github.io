@@ -7,7 +7,7 @@ tags:	[linuxcn,virt-manager,文件夹共享]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/23/163636dm5j1wrsga95xgrd.jpg)
+![](/Asserts/Images/album/202301/23/163636dm5j1wrsga95xgrd.jpg)
 
 
 
@@ -39,7 +39,7 @@ virt-manager 桌面界面及其组件为各种个人和商业场景提供了灵�
 首先，确保你的客户机关闭了电源。在 virt-manager GUI 中，选择虚拟机，点击“<ruby> 打开 <rt>  Open </rt></ruby>”，弹出控制台设置。
 
 
-![打开设置](/Asserts/Images//attachment/album/202301/23/163743zt75s5iixx99px8s.jpg)
+![打开设置](/Asserts/Images/album/202301/23/163743zt75s5iixx99px8s.jpg)
 
 
 点击工具条上显示虚拟硬件细节的图标。然后点击左边面板上的“<ruby> 内存 <rt>  Memory </rt></ruby>”。
@@ -48,13 +48,13 @@ virt-manager 桌面界面及其组件为各种个人和商业场景提供了灵�
 选择选项 “<ruby> 启用共享内存 <rt>  Enable shared memory </rt></ruby>”。点击应用。
 
 
-![启用共享内存选项](/Asserts/Images//attachment/album/202301/23/163748pximgcwy22iydasi.jpg)
+![启用共享内存选项](/Asserts/Images/album/202301/23/163748pximgcwy22iydasi.jpg)
 
 
 然后点击底部的 “<ruby> 添加硬件 <rt>  Add hardware </rt></ruby>”。
 
 
-![点击添加硬件](/Asserts/Images//attachment/album/202301/23/163755h0hf3l0mcafrmim0.jpg)
+![点击添加硬件](/Asserts/Images/album/202301/23/163755h0hf3l0mcafrmim0.jpg)
 
 
 在添加新硬件的窗口中，从左边的面板上选择 “<ruby> 文件系统 <rt>  File system </rt></ruby>”。
@@ -69,7 +69,7 @@ virt-manager 桌面界面及其组件为各种个人和商业场景提供了灵�
 所以，如果我想访问 `Pictures/Screenshots` 文件夹（`/home/debugpoint/Pictures/Screenshots`），示例设置可以是这样：
 
 
-![添加一个新的文件系统硬件](/Asserts/Images//attachment/album/202301/23/163802w9ucph989b9bmch6.jpg)
+![添加一个新的文件系统硬件](/Asserts/Images/album/202301/23/163802w9ucph989b9bmch6.jpg)
 
 
 下面是上述配置的 XML 设置。你可以在 XML 标签中找到它。
@@ -112,7 +112,7 @@ sudo mount -t virtiofs mount_tag_pictures /mnt/pictures
 现在你可以在 virt-manager 中的主机和客户机之间的无缝地浏览文件夹和添加/删除项目。
 
 
-![从 virt-manager 客户机访问主机文件](/Asserts/Images//attachment/album/202301/23/163813o65cqgw5g6wt7b9a.jpg)
+![从 virt-manager 客户机访问主机文件](/Asserts/Images/album/202301/23/163813o65cqgw5g6wt7b9a.jpg)
 
 
 ### 总结

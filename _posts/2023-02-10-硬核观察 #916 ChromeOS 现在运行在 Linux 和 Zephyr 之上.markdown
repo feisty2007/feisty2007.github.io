@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,ChromeOS,Chrome,GoDaddy]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/18/184323bfo6kf7l8a3aq6ko.jpg)
+![](/Asserts/Images/album/202302/18/184323bfo6kf7l8a3aq6ko.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/18/184332s66qggkt766vvv75.jpg)
+![](/Asserts/Images/album/202302/18/184332s66qggkt766vvv75.jpg)
 
 
 ### ChromeOS 现在运行在 Linux 和 Zephyr 之上
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,ChromeOS,Chrome,GoDaddy]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/18/184341xzmhwxoaow4a3woh.jpg)
+![](/Asserts/Images/album/202302/18/184341xzmhwxoaow4a3woh.jpg)
 
 
 ### GoDaddy 遭到了持续多年的入侵
@@ -60,7 +60,7 @@ GoDaddy 是世界上最大的域名注册商之一，它还为全球 2000 多万
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/18/184356ruv2b8j2z1o9uyd1.jpg)
+![](/Asserts/Images/album/202302/18/184356ruv2b8j2z1o9uyd1.jpg)
 
 
 ### 谷歌向苹果提供上百亿的 Chrome iOS 搜索收入分成

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/18/201209dwz9334u767467ga.jpg)
+![](/Asserts/Images/album/202203/18/201209dwz9334u767467ga.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/18/201219i541x5narrzama14.jpg)
+![](/Asserts/Images/album/202203/18/201219i541x5narrzama14.jpg)
 
 
 ### AI 学会了“谷歌一下”
@@ -27,7 +27,7 @@ DeepMind 创建了一个新的 AI 语言模型 [GopherCite](https://deepmind.com
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/18/201228kzi6fpe6fitcz0zz.jpg)
+![](/Asserts/Images/album/202203/18/201228kzi6fpe6fitcz0zz.jpg)
 
 
 ### AI 六小时内就提出了 4 万种新的潜在化学武器
@@ -44,7 +44,7 @@ DeepMind 创建了一个新的 AI 语言模型 [GopherCite](https://deepmind.com
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/18/201251xeskqb5lsnkf5k5r.jpg)
+![](/Asserts/Images/album/202203/18/201251xeskqb5lsnkf5k5r.jpg)
 
 
 ### Canonical 为 Snap 包提速，但仍不够快

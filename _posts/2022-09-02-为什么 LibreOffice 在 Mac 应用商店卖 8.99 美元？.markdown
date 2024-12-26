@@ -15,7 +15,7 @@ tags:	[linuxcn,LibreOffice,Mac]
 > 
 
 
-![LibreOffice is Available for $8.99  on Mac App Store: Here's Why!](/Asserts/Images//attachment/album/202209/27/151502m1r51f6l52ynl51h.png)
+![LibreOffice is Available for $8.99  on Mac App Store: Here's Why!](/Asserts/Images/album/202209/27/151502m1r51f6l52ynl51h.png)
 
 
 LibreOffice 是一个自由、开源、跨平台的办公套件。
@@ -56,7 +56,7 @@ LibreOffice 是一个自由、开源、跨平台的办公套件。
 很多用户信赖并依靠的是自己平台的官方应用商店。因此，在他们的官方应用商店销售 LibreOffice 能起到方便用户的作用。你可以自动将 LibreOffice 更新为最新版本，而无需每次更新时下载相应的版本。
 
 
-![libreoffice mac app store](/Asserts/Images//attachment/album/202209/27/151502efwf2lmiwqy24nqi.jpg)
+![libreoffice mac app store](/Asserts/Images/album/202209/27/151502efwf2lmiwqy24nqi.jpg)
 
 
 为了享受从 Mac 应用商店下载 LibreOffice 的便利，你需要一次性付费购买。
@@ -76,7 +76,7 @@ LibreOffice 是一个自由、开源、跨平台的办公套件。
 #### Mac 应用商店不是已经可以下载了吗？
 
 
-![mac app store collabora](/Asserts/Images//attachment/album/202209/27/151525oq3shsfhzd8cpfha.jpg)
+![mac app store collabora](/Asserts/Images/album/202209/27/151525oq3shsfhzd8cpfha.jpg)
 
 
 嗯，是，也不是。
@@ -120,7 +120,7 @@ Collabora Office（基于 LibreOffice 的企业版）在 Mac 应用商店售价�
 ### 微软应用商店也会推出 LibreOffice 吗？
 
 
-![](/Asserts/Images//attachment/album/202209/27/151502mx1119t21w551t42.jpg)
+![](/Asserts/Images/album/202209/27/151502mx1119t21w551t42.jpg)
 
 
 微软应用商店现在并不直接提供 LibreOffice。

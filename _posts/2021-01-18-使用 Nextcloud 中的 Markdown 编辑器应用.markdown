@@ -15,7 +15,7 @@ tags:	[linuxcn,Markdown,Nextcloud]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/09/164849mofte5zy5ryuewax.jpg)
+![](/Asserts/Images/album/202101/09/164849mofte5zy5ryuewax.jpg)
 
 
 纯文本的好处是，没有额外的针对计算机的信息会杂乱无章地出现在原本供人类阅读的文字中。计算机的好处是它们是可编程的，因此只要我们人类同意在写作时遵循非常特定的惯例，我们就可以对计算机进行编程，将人类可读的文本解释为秘密指令。例如，我们在一个词的周围打上两个星号，不仅可以给人类一个视觉上的提示，说明这个词很重要，我们还可给计算机编程让它用**粗体**显示这个词。
@@ -36,7 +36,7 @@ tags:	[linuxcn,Markdown,Nextcloud]
 要使用 Nextcloud 的 Markdown 编辑器，你必须安装 Nextcloud。好消息是，Nextcloud 非常\_容易\_安装。我已经在树莓派、共享服务器、甚至作为一个本地应用安装了它（这是愚蠢的，不要这样做）。如果你不相信自己的能力，你甚至可以依靠 [Turnkey Linux](https://www.turnkeylinux.org/nextcloud) 来帮你完成这些难关，否则就直接从 [Nextcloud.com](http://nextcloud.com) 购买托管服务。在你安装 Nextcloud 后，添加应用就很简单了。点击 Nextcloud 界面右上角的用户图标，选择 **Apps**。找到 **Office and Text** 类别，点击安装并启用 **Markdown Editor**。
 
 
-![Nextcloud app store showing Markdown Editor installer](/Asserts/Images//attachment/album/202101/09/164903g0mvn9c4stmblz9q.jpg "Nextcloud app store showing Markdown Editor installer")
+![Nextcloud app store showing Markdown Editor installer](/Asserts/Images/album/202101/09/164903g0mvn9c4stmblz9q.jpg "Nextcloud app store showing Markdown Editor installer")
 
 
 ### 启动
@@ -51,7 +51,7 @@ tags:	[linuxcn,Markdown,Nextcloud]
 Markdown 编辑器包含了一个大的文本区域供你输入，以及一个沿着顶部的工具栏。
 
 
-![Example markdown file](/Asserts/Images//attachment/album/202101/09/164903cmmaw8q8983q8udq.jpg "Example markdown file ")
+![Example markdown file](/Asserts/Images/album/202101/09/164903cmmaw8q8983q8udq.jpg "Example markdown file ")
 
 
 工具栏包含了文字处理器的基本功能：用粗体、斜体和删除线设计文本样式、创建标题和段落、列表等等。
@@ -66,7 +66,7 @@ Markdown 编辑器的工作方式的最好的一点是，它真正做到了使�
 它也是一个非常聪明的编辑器。当你选择一个单词时，它会为你创建一个超链接，它能快速流畅地自动转换 Markdown，而且它知道一些不同“风格”的 Markdown 语法（主要是 Commonmark，但也有传统的 Markdown、Github Markdown，等等）。
 
 
-![black text on white background, word highlighted in blue to create an automatic link](/Asserts/Images//attachment/album/202101/09/164904z8g1o8hm1m181dhs.jpg "black text on white background, word highlighted in blue to create an automatic link")
+![black text on white background, word highlighted in blue to create an automatic link](/Asserts/Images/album/202101/09/164904z8g1o8hm1m181dhs.jpg "black text on white background, word highlighted in blue to create an automatic link")
 
 
 ### 尝试 Nextcloud

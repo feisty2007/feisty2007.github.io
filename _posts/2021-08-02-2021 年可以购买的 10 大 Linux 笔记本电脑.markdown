@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,笔记本电脑]
 > 
 
 
-![](/Asserts/Images//attachment/album/202108/12/110350megugouog8w5uui3.jpg)
+![](/Asserts/Images/album/202108/12/110350megugouog8w5uui3.jpg)
 
 
 Linux 笔记本电脑是 MacOS 和 Windows 笔记本电脑的完美替代品。
@@ -48,7 +48,7 @@ Linux 笔记本电脑是 MacOS 和 Windows 笔记本电脑的完美替代品。
 #### 1、联想 Thinkpad X1 Carbon （第 8 代/第 9 代）
 
 
-![](/Asserts/Images//attachment/album/202108/12/110128l3uo5oddrmvkoved.jpg)
+![](/Asserts/Images/album/202108/12/110128l3uo5oddrmvkoved.jpg)
 
 
 **价格**：起价为 **$1535**
@@ -79,7 +79,7 @@ Linux 笔记本电脑是 MacOS 和 Windows 笔记本电脑的完美替代品。
 #### 2、戴尔 XPS 13 开发者版
 
 
-![](/Asserts/Images//attachment/album/202108/12/110130wqoimts6mju3tvvm.jpg)
+![](/Asserts/Images/album/202108/12/110130wqoimts6mju3tvvm.jpg)
 
 
 **价格**：起价为 **$1059**
@@ -106,7 +106,7 @@ Linux 笔记本电脑是 MacOS 和 Windows 笔记本电脑的完美替代品。
 #### 1、System76 Gazelle
 
 
-![](/Asserts/Images//attachment/album/202108/12/110132aaxrva6z6ff0add3.jpg)
+![](/Asserts/Images/album/202108/12/110132aaxrva6z6ff0add3.jpg)
 
 
 **价格**：起价为 **$1499**
@@ -133,7 +133,7 @@ System76 的笔记本电脑将内置他们的 Pop!\_OS 操作系统，该系统�
 #### 2、Purism 笔记本电脑
 
 
-![](/Asserts/Images//attachment/album/202108/12/110135vrlasxdlxlssraly.png)
+![](/Asserts/Images/album/202108/12/110135vrlasxdlxlssraly.png)
 
 
 **价格**：起价为 **$1599**
@@ -157,7 +157,7 @@ Librem 14 是他们最新的笔记本电脑之一，带有 [PureOS](https://www.
 #### 3、TUXEDO Aura 15
 
 
-![](/Asserts/Images//attachment/album/202108/12/110136l5qxih959dtxxo1q.jpg)
+![](/Asserts/Images/album/202108/12/110136l5qxih959dtxxo1q.jpg)
 
 
 **价格**：起价为 **$899**
@@ -178,7 +178,7 @@ Librem 14 是他们最新的笔记本电脑之一，带有 [PureOS](https://www.
 #### 4、TUXEDO Stellaris 15
 
 
-![](/Asserts/Images//attachment/album/202108/12/110137q9z88zktll4klpj8.jpg)
+![](/Asserts/Images/album/202108/12/110137q9z88zktll4klpj8.jpg)
 
 
 **价格**：起价为 **$2160**
@@ -199,7 +199,7 @@ Librem 14 是他们最新的笔记本电脑之一，带有 [PureOS](https://www.
 #### 5、Slimbook Pro X
 
 
-![](/Asserts/Images//attachment/album/202108/12/110139vrm7xpfmmqda552y.jpg)
+![](/Asserts/Images/album/202108/12/110139vrm7xpfmmqda552y.jpg)
 
 
 **价格**：起价为 **$1105**
@@ -223,7 +223,7 @@ Slimbook 专注于旅行方便携带的轻薄笔记本电脑型号。
 #### 6、Slimbook Essential
 
 
-![](/Asserts/Images//attachment/album/202108/12/110140hk047fwwrkfrokff.jpg)
+![](/Asserts/Images/album/202108/12/110140hk047fwwrkfrokff.jpg)
 
 
 **价格**：起价为 **$646**
@@ -241,7 +241,7 @@ Slimbook 专注于旅行方便携带的轻薄笔记本电脑型号。
 #### 7、Jupiter 14 Pro
 
 
-![](/Asserts/Images//attachment/album/202108/12/110142f3rr2sfgz87f53zt.png)
+![](/Asserts/Images/album/202108/12/110142f3rr2sfgz87f53zt.png)
 
 
 **价格**：起价为 **$1199**
@@ -265,7 +265,7 @@ Juno 计算机公司的 Jupiter 14 采用了第 11 代英特尔处理器，并�
 #### 荣誉奖：PineBook Pro
 
 
-![](/Asserts/Images//attachment/album/202108/12/110144hzgrxyx8hfsry11l.png)
+![](/Asserts/Images/album/202108/12/110144hzgrxyx8hfsry11l.png)
 
 
 PineBook Pro 是一款基于 ARM 的笔记本电脑（采用 Manjaro ARM 版），预算低廉，对于 Linux 上的很多基本任务来说，应该可以正常工作。

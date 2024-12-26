@@ -24,7 +24,7 @@ tags:	[linuxcn,克隆]
 Clonezilla 是一个基于 Ubuntu 和 Debian 的 Live CD。它可以像 Windows 里的 Ghost 一样克隆你的磁盘数据和做备份，不过它更有效率。Clonezilla 支持包括 ext2、ext3、ext4、btrfs 和 xfs 在内的很多文件系统。它还支持 BIOS、UEFI、MBR 和 GPT 分区。
 
 
-![](/Asserts/Images//attachment/album/201501/02/132908wbb05kb7kclfh66h.png)
+![](/Asserts/Images/album/201501/02/132908wbb05kb7kclfh66h.png)
 
 
 ### 2. [Redo Backup](http://redobackup.org/)
@@ -33,7 +33,7 @@ Clonezilla 是一个基于 Ubuntu 和 Debian 的 Live CD。它可以像 Windows 
 Redo Backup 是另一个用来方便地克隆磁盘的 Live CD。它是自由和开源的软件，使用 GPL 3 许可协议授权。它的主要功能和特点包括从 CD 引导的简单易用的 GUI、无需安装，可以恢复 Linux 和 Windows 等系统，无需登陆访问文件，以及已删除的文件等。
 
 
-![](/Asserts/Images//attachment/album/201501/02/132923y18c8lwszczowghj.jpeg)
+![](/Asserts/Images/album/201501/02/132923y18c8lwszczowghj.jpeg)
 
 
 ### 3. [Mondo Rescue](http://www.mondorescue.org/)
@@ -42,7 +42,7 @@ Redo Backup 是另一个用来方便地克隆磁盘的 Live CD。它是自由和
 Mondo 和其他的软件不大一样，它并不将你的磁盘数据转换为一个 .img 文件，而是将它们转换为一个 .iso 镜像。使用 Mondo，你还可以使用“mindi”——一个由 Mondo Rescue 开发的特别工具——来创建一个自定义的 Live CD，这样你的数据就可以从 Live CD 克隆出来了。它支持大多数 Linux 发行版和 FreeBSD，并使用 GPL 许可协议授权。
 
 
-![](/Asserts/Images//attachment/album/201501/02/132938igzg858v7pq24mtz.jpeg)
+![](/Asserts/Images/album/201501/02/132938igzg858v7pq24mtz.jpeg)
 
 
 ### 4. [Partimage](http://www.partimage.org/Main_Page)
@@ -51,7 +51,7 @@ Mondo 和其他的软件不大一样，它并不将你的磁盘数据转换为�
 这是一个开源的备份软件，默认工作在 Linux 系统下。在大多数发行版中，你都可以从发行版自带的软件包管理工具中安装。如果你没有 Linux 系统，你也可以使用“SystemRescueCd”。它是一个默认包含了 Partimage 的 Live CD，可以为你完成备份工作。Partimage 在克隆硬盘方面的性能非常出色。
 
 
-![](/Asserts/Images//attachment/album/201501/02/132950okyyn1oiiy4iy08d.png)
+![](/Asserts/Images/album/201501/02/132950okyyn1oiiy4iy08d.png)
 
 
 ### 5. [FSArchiver](http://www.fsarchiver.org/Main_Page)
@@ -72,7 +72,7 @@ Partclone 是一个可以克隆和恢复分区的免费工具。它用 C 语言�
 doClone 是一个免费软件项目，被开发用于轻松地克隆 Linux 系统分区。它由 C++ 编写而成，支持多达 12 种不同的文件系统。它能够修复 Grub 引导器，还能通过局域网传输镜像到另一台计算机。它还提供了热同步功能，这意味着你可以在系统正在运行的时候对它进行克隆操作。
 
 
-![](/Asserts/Images//attachment/album/201501/02/133002dvnvwvv9ywrwbapw.jpeg)
+![](/Asserts/Images/album/201501/02/133002dvnvwvv9ywrwbapw.jpeg)
 
 
 ### 8. [Macrium Reflect 免费版](http://www.macrium.com/reflectfree.aspx)
@@ -81,7 +81,7 @@ doClone 是一个免费软件项目，被开发用于轻松地克隆 Linux 系�
 Macrium Reflect 免费版被形容为最快的磁盘克隆工具之一，它只支持 Windows 文件系统。它有一个很直观的用户界面。该软件提供了磁盘镜像和克隆操作，还能让你在文件管理器中访问镜像。它允许你创建一个 Linux 应急 CD，并且它与 Windows Vista 和 Windows 7 兼容。
 
 
-![](/Asserts/Images//attachment/album/201501/02/133032huaiamhb1hn98eub.jpg)
+![](/Asserts/Images/album/201501/02/133032huaiamhb1hn98eub.jpg)
 
 
 ### 9. [DriveImage XML](http://www.runtime.org/driveimage-xml.htm)
@@ -90,7 +90,7 @@ Macrium Reflect 免费版被形容为最快的磁盘克隆工具之一，它只�
 DriveImage XML 使用 Microsoft VSS 来创建镜像，十分可靠。使用这个软件，你可以从一个正在使用的磁盘创建“热”镜像。镜像使用 XML 文件保存，这意味着你可以从任何支持的第三方软件访问它们。DriveImage XML 还允许在不重启的情况下从镜像恢复到机器。这个软件与 Windows XP、Windows Server 2003、Vista 以及 7 兼容。
 
 
-![](/Asserts/Images//attachment/album/201501/02/133059cnqcp7qq5bnkqcnn.jpg)
+![](/Asserts/Images/album/201501/02/133059cnqcp7qq5bnkqcnn.jpg)
 
 
 ### 10. [Paragon Backup & Recovery 免费版](http://www.paragon-software.com/home/br-free/)
@@ -99,7 +99,7 @@ DriveImage XML 使用 Microsoft VSS 来创建镜像，十分可靠。使用这�
 Paragon Backup & Recovery 免费版在管理镜像计划任务方面十分出色。它是一个免费软件，但是仅能用于个人用途。
 
 
-![](/Asserts/Images//attachment/album/201501/02/133132u2prwtgr26tvyey2.jpg)
+![](/Asserts/Images/album/201501/02/133132u2prwtgr26tvyey2.jpg)
 
 
 

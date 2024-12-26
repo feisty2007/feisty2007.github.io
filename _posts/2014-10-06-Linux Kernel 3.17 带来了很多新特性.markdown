@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,内核]
 Linus Torvalds已经发布了最新的稳定版内核3.17。
 
 
-![](/Asserts/Images//attachment/album/201410/14/000935vh874dq4r9s4hll6.jpg)
+![](/Asserts/Images/album/201410/14/000935vh874dq4r9s4hll6.jpg)
 
 
 Torvalds以他典型的[放任式](http://lkml.iu.edu/hypermail/linux/kernel/1410.0/02818.html)的口吻在Linux内核邮件列表中解释说：

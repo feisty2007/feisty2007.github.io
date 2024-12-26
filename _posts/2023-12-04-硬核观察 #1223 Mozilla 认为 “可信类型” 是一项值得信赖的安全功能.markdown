@@ -7,10 +7,10 @@ tags:	[linuxcn,XSS,Midjourney,AI,女性]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/22/162325lfgmgfi4f00mf5ff.jpg)
+![](/Asserts/Images/album/202312/22/162325lfgmgfi4f00mf5ff.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/22/162335f8528au52yo25558.png)
+![](/Asserts/Images/album/202312/22/162335f8528au52yo25558.png)
 
 
 ### #1 Mozilla 认为 “可信类型” 是一项值得信赖的安全功能
@@ -38,7 +38,7 @@ Mozilla 上周改变了其对一项名为 “<ruby> 可信类型 <rt>  Trusted T
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/22/162358r7fdd77504efffu4.png)
+![](/Asserts/Images/album/202312/22/162358r7fdd77504efffu4.png)
 
 
 ### #2 Midjourney V6 发布 alpha 版，支持内嵌文字
@@ -66,7 +66,7 @@ Midjourney 于昨晚发布了该版本。在这些新功能中，包括大幅改
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/22/162507g68r8dr4cszs8d1e.png)
+![](/Asserts/Images/album/202312/22/162507g68r8dr4cszs8d1e.png)
 
 
 ### #3 IT 领域的女性还需要 283 年才能达到男女平等

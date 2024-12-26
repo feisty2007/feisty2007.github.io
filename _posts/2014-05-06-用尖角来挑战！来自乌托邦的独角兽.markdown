@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/12/101602dot6hztvq339z3ve.jpg)
+![](/Asserts/Images/album/201405/12/101602dot6hztvq339z3ve.jpg)
 
 
 **Mark Shuttleworth，Canonical 的创始人，已经为 Ubuntu 的下一个版本 (14.10) 起好了名字，新版本的名字将是乌托邦的独角兽。**

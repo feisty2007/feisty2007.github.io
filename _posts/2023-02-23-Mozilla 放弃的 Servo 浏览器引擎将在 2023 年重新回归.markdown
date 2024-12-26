@@ -15,7 +15,7 @@ tags:	[linuxcn,浏览器,Servo,ChatGPT]
 > 
 
 
-![Mozilla 放弃的 Servo 浏览器引擎将在 2023 年重新回归](/Asserts/Images//attachment/album/202302/07/180459yz01c5myctd75yji.jpg)
+![Mozilla 放弃的 Servo 浏览器引擎将在 2023 年重新回归](/Asserts/Images/album/202302/07/180459yz01c5myctd75yji.jpg)
 
 
 
@@ -61,7 +61,7 @@ Servo 是一个基于 Rust 的实验性浏览器引擎，最初由 Mozilla 的�
 ### ? 2023 年路线图：概览
 
 
-![Servo 项目的 2023 年路线图](/Asserts/Images//attachment/album/202302/07/180500z1m2qel9q4t5ul39.jpg)
+![Servo 项目的 2023 年路线图](/Asserts/Images/album/202302/07/180500z1m2qel9q4t5ul39.jpg)
 
 
 由于在 1 月份获得了 [新的资金](https://servo.org/blog/2023/01/16/servo-2023/)，Servo 项目 **复活** 了。

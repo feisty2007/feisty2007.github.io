@@ -21,7 +21,7 @@ tags:	[linuxcn,命令行]
 > 
 
 
-![](/Asserts/Images//attachment/album/202011/21/223043t0ig52gamztzgxws.jpg)
+![](/Asserts/Images/album/202011/21/223043t0ig52gamztzgxws.jpg)
 
 
 ### 操作概述

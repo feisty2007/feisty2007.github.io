@@ -10,7 +10,7 @@ tags:	[linuxcn,Oneko]
 Oneko 是一个有趣的应用。它会把你的光标变成一只老鼠，并在后面创建一个可爱的小猫，并且始终追逐着老鼠光标。单词“neko”在日语中的意思是猫。它最初是一位日本人开发的 Macintosh 桌面附件。
 
 
-![Oneko](/Asserts/Images//attachment/album/201512/23/001250utojgu1j1swg1jzu.png)
+![Oneko](/Asserts/Images/album/201512/23/001250utojgu1j1swg1jzu.png)
 
 
 ### 安装 oneko

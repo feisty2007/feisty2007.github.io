@@ -13,7 +13,7 @@ tags:	[linuxcn,Bugzilla]
 Bugzilla对于不同使用场景的适应能力非常强。如今它们应用在各个不同的IT领域，如系统管理中的部署管理、芯片设计及部署的问题跟踪(制造前期和后期)，还有为那些诸如Redhat，NASA，Linux-Mandrake和VA Systems这些著名公司提供软硬件bug跟踪。
 
 
-![](/Asserts/Images//attachment/album/201501/15/224622lq9ye6yn6pmd7zj7.gif)
+![](/Asserts/Images/album/201501/15/224622lq9ye6yn6pmd7zj7.gif)
 
 
 ### 1. 安装依赖程序
@@ -149,7 +149,7 @@ Ubuntu版本:
 
 ```
 
-![mysql](/Asserts/Images//attachment/album/201501/15/224649z4e4tqirzdrzdttr.png)
+![mysql](/Asserts/Images/album/201501/15/224649z4e4tqirzdrzdttr.png)
 
 
 用root用户登录连接MySQL并给Bugzilla创建一个数据库，把你的mysql密码更改成你想要的，稍后配置Bugzilla的时候会用到它。
@@ -225,7 +225,7 @@ wget http://ftp.mozilla.org/pub/mozilla.org/webtools/bugzilla-4.5.2.tar.gz
 ===============================
 
 
-![bugzilla-check-module](/Asserts/Images//attachment/album/201501/15/224650xha4ufq4mrh4qqzm.png)
+![bugzilla-check-module](/Asserts/Images/album/201501/15/224650xha4ufq4mrh4qqzm.png)
 
 
 检查完成之后，我们会发现缺少了一些组件，我们需要安装它们，用以下命令即可实现：
@@ -261,7 +261,7 @@ wget http://ftp.mozilla.org/pub/mozilla.org/webtools/bugzilla-4.5.2.tar.gz
 
 ```
 
-![bugzilla-success](/Asserts/Images//attachment/album/201501/15/224652ocxgynxxj1thjb1j.png)
+![bugzilla-success](/Asserts/Images/album/201501/15/224652ocxgynxxj1thjb1j.png)
 
 
 如果一切正常，checksetup.pl现在应该就成功地配置Bugzilla了。
@@ -330,7 +330,7 @@ Ubuntu版本:
 
 ```
 
-![bugzilla-install-success](/Asserts/Images//attachment/album/201501/15/224654h7ggs5jx1g1xs404.png)
+![bugzilla-install-success](/Asserts/Images/album/201501/15/224654h7ggs5jx1g1xs404.png)
 
 
 这样，我们的Bugzilla就准备好在我们的Ubuntu 14.04 LTS和CentOS 6.5上获取bug报告了，你就可以通过本地回环地址或你网页浏览器上的IP地址来浏览bugzilla了。

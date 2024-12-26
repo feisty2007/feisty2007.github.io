@@ -7,7 +7,7 @@ tags:	[linuxcn,命令,内置,shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/13/012025cjjsb4449jus4u6j.jpg)
+![](/Asserts/Images/album/201802/13/012025cjjsb4449jus4u6j.jpg)
 
 
 内置命令包含在 bash shell 本身里面。我该如何在 Linux / Apple OS X / \*BSD / Unix 类操作系统列出所有的内置 bash 命令，而不用去读大篇的 bash 操作说明页？
@@ -212,7 +212,7 @@ command -V foo
 
 ```
 
-[![View list bash built-ins command info on Linux or Unix](/Asserts/Images//attachment/album/201802/13/012043plctt333wtncllco.jpg)](https://www.cyberciti.biz/media/new/faq/2013/03/View-list-bash-built-ins-command-info-on-Linux-or-Unix.jpg)
+[![View list bash built-ins command info on Linux or Unix](/Asserts/Images/album/201802/13/012043plctt333wtncllco.jpg)](https://www.cyberciti.biz/media/new/faq/2013/03/View-list-bash-built-ins-command-info-on-Linux-or-Unix.jpg)
 
 
 ### 关于作者

@@ -15,7 +15,7 @@ tags:	[linuxcn,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/19/234306tvvg5ffwakrzr5vv.jpg)
+![](/Asserts/Images/album/202001/19/234306tvvg5ffwakrzr5vv.jpg)
 
 
 这一年多来，我的 [bash\_scripts](https://github.com/psachin/bash_scripts) 项目中悄悄隐藏这 [setV](https://gitlab.com/psachin/setV)，但现在是时候该公开了。setV 是一个 Bash 函数，我可以用它代替 [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/)。它提供了使你能够执行以下操作的基本功能：

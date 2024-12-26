@@ -10,7 +10,7 @@ tags:	[linuxcn,Zsh]
 Shell 是类 Unix 系统中超级好用的工具，而 Zsh 是 shell 中的佼佼者，但是现在网上一搜索 Zsh 的配置方案，遍地都是的互相复制粘贴的 oh-my-zsh 配置方案。**事实上 oh-my-zsh 并不好用**，严重拖慢了 Zsh 的速度，反而让你的工作并不高效。现在将我自己的使用方案分享给大家，教大家配置一个高效好用的 Zsh。
 
 
-![](/Asserts/Images//attachment/album/202101/19/230224fq7x7hu3u399r0z3.jpg)
+![](/Asserts/Images/album/202101/19/230224fq7x7hu3u399r0z3.jpg)
 
 
 ### 安装 Zsh
@@ -19,7 +19,7 @@ Shell 是类 Unix 系统中超级好用的工具，而 Zsh 是 shell 中的佼�
 我笔记本电脑使用的是 ArchLinux，服务器使用的是 Ubuntu。主要介绍这两个发行版的配置方法，红帽系的发行版请自行尝试。
 
 
-![](/Asserts/Images//attachment/album/202101/18/223906vnc5jh7aacdnaihh.png)
+![](/Asserts/Images/album/202101/18/223906vnc5jh7aacdnaihh.png)
 
 
 我个人喜欢尽量从发行版的源里安装。从源安装具有方便，稳定，容易维护等优点。
@@ -125,13 +125,13 @@ chsh -s /usr/bin/zsh
 ArchLinux 和 Ubuntu 都是同样的操作，然后注销并重新登录，就启用了 Zsh。第一次进入 Zsh 会自动出现一个配置界面，这个界面可以根据需要自定义 Zsh。
 
 
-![](/Asserts/Images//attachment/album/202101/18/223907orolqh0e4td0i040.png)
+![](/Asserts/Images/album/202101/18/223907orolqh0e4td0i040.png)
 
 
 在这里输入 `1` 就可以进入配置界面了。
 
 
-![](/Asserts/Images//attachment/album/202101/18/223908l84l8f9rddlbqh9h.png)
+![](/Asserts/Images/album/202101/18/223908l84l8f9rddlbqh9h.png)
 
 
 配置界面中各个菜单代表的意思分别是：
@@ -189,13 +189,13 @@ source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 而 `powerlevel10k` 主题在首次进入时，会触发一个配置界面。
 
 
-![](/Asserts/Images//attachment/album/202101/18/223909zwayxxx5z7a6wpwv.png)
+![](/Asserts/Images/album/202101/18/223909zwayxxx5z7a6wpwv.png)
 
 
 然后根据提示和你的喜好一步步完成配置即可。
 
 
-![](/Asserts/Images//attachment/album/202101/18/223910juq6p3noc63d3nlr.png)
+![](/Asserts/Images/album/202101/18/223910juq6p3noc63d3nlr.png)
 
 
 这里可以选择你喜欢的提示符。
@@ -204,4 +204,4 @@ source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 **配置完成后就可以愉快的使用啦！**
 
 
-![](/Asserts/Images//attachment/album/202101/18/223913ouug962ttgghzg98.png)
+![](/Asserts/Images/album/202101/18/223913ouug962ttgghzg98.png)

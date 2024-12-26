@@ -15,7 +15,7 @@ tags:	[linuxcn,固件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/06/140244iepkefghpeeezgzg.png)
+![](/Asserts/Images/album/202201/06/140244iepkefghpeeezgzg.png)
 
 
 去年发现的几个安全漏洞，使得系统管理员很难在不停机的情况下迅速修补系统。

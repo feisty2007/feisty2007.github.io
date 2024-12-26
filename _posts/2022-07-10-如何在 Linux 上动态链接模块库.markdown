@@ -15,7 +15,7 @@ tags:	[linuxcn,动态链接,编译]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/10/182540caie7ldrefflffah.jpg)
+![](/Asserts/Images/album/202207/10/182540caie7ldrefflffah.jpg)
 
 
 当使用 C 编程语言编写一个应用程序时，你的代码通常有多个源文件代码。

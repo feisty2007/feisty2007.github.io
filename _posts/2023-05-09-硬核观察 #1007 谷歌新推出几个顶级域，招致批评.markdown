@@ -7,10 +7,10 @@ tags:	[linuxcn,搜索引擎,Cookie,顶级域]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/20/070708dh6j1knk9sdj5lb8.jpg)
+![](/Asserts/Images/album/202305/20/070708dh6j1knk9sdj5lb8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/20/070729og20w856i02028gn.jpg)
+![](/Asserts/Images/album/202305/20/070729og20w856i02028gn.jpg)
 
 
 ### 谷歌新推出几个顶级域，招致批评
@@ -35,7 +35,7 @@ tags:	[linuxcn,搜索引擎,Cookie,顶级域]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/20/070748ex67w7m17kk46yxi.jpg)
+![](/Asserts/Images/album/202305/20/070748ex67w7m17kk46yxi.jpg)
 
 
 ### 谷歌计划明年用隐私沙盒取代第三方 Cookie
@@ -60,7 +60,7 @@ tags:	[linuxcn,搜索引擎,Cookie,顶级域]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/20/070809nvx73c14vxgo4u33.jpg)
+![](/Asserts/Images/album/202305/20/070809nvx73c14vxgo4u33.jpg)
 
 
 ### 三星不会将其手机上的默认搜索引擎换成必应

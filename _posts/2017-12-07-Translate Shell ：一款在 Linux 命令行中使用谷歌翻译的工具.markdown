@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行,翻译]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/04/213512ugw2stsgg6gf9sya.jpg)
+![](/Asserts/Images/album/201712/04/213512ugw2stsgg6gf9sya.jpg)
 
 
 我对 CLI 应用非常感兴趣，因此热衷于使用并分享 CLI 应用。 我之所以更喜欢 CLI 很大原因是因为我在大多数的时候都使用的是字符界面（black screen），已经习惯了使用 CLI 应用而不是 GUI 应用。

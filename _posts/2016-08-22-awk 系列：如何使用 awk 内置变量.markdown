@@ -10,7 +10,7 @@ tags:	[linuxcn,awk]
 我们将逐渐揭开 awk 功能的神秘面纱，在本节中，我们将介绍 awk <ruby> 内置 <rp>  （ </rp> <rt>  built-in </rt> <rp>  ） </rp></ruby>变量的概念。你可以在 awk 中使用两种类型的变量，它们是：<ruby> 用户自定义 <rp>  （ </rp> <rt>  user-defined </rt> <rp>  ） </rp></ruby>变量（我们在[第八节](/article-7650-1.html)中已经介绍了）和内置变量。
 
 
-![](/Asserts/Images//attachment/album/201608/08/191520mothznoaovnf3hax.png)
+![](/Asserts/Images/album/201608/08/191520mothznoaovnf3hax.png)
 
 
 *awk 内置变量示例*
@@ -40,7 +40,7 @@ $ awk ' { print FILENAME } ' ~/domains.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/08/191520gg4knnlll4v0n9am.png)
+![](/Asserts/Images/album/201608/08/191520gg4knnlll4v0n9am.png)
 
 
 *awk FILENAME 变量*
@@ -61,7 +61,7 @@ $ cat ~/domains.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/08/191521lhyqq808o06q8zsy.png)
+![](/Asserts/Images/album/201608/08/191521lhyqq808o06q8zsy.png)
 
 
 *输出文件内容*
@@ -73,7 +73,7 @@ $ awk ' END { print "Number of records in file is: ", NR } ' ~/domains.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/08/191521coyy2oz6obb7r8ob.png)
+![](/Asserts/Images/album/201608/08/191521coyy2oz6obb7r8ob.png)
 
 
 *awk 统计行数*
@@ -88,7 +88,7 @@ $ cat ~/names.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/08/191521hrqq4vhz0q2fqfxq.png)
+![](/Asserts/Images/album/201608/08/191521hrqq4vhz0q2fqfxq.png)
 
 
 *列出文件内容*
@@ -100,7 +100,7 @@ $ awk '{ "Record:",NR,"has",NF,"fields" ; }' ~/names.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/08/191522c77fi5z57dkftidd.png)
+![](/Asserts/Images/album/201608/08/191522c77fi5z57dkftidd.png)
 
 
 *awk 统计文件中的字段数*
@@ -131,7 +131,7 @@ $ awk -F':' '{ print $1, $4 ;}' /etc/passwd
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/08/191522kbhzggyulya22nye.png)
+![](/Asserts/Images/album/201608/08/191522kbhzggyulya22nye.png)
 
 
 *awk 过滤密码文件中的各字段*
@@ -146,7 +146,7 @@ $ awk ' BEGIN {  FS=“:” ; }  { print $1, $4  ; } ' /etc/passwd
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/08/191523j2062kggsx0uw9w2.png)
+![](/Asserts/Images/album/201608/08/191523j2062kggsx0uw9w2.png)
 
 
 *使用 awk 过滤文件中的各字段*
@@ -161,7 +161,7 @@ $ awk -F':' ' BEGIN { OFS="==>" ;} { print $1, $4 ;}' /etc/passwd
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/08/191523i0jbv4hh44sqchfs.png)
+![](/Asserts/Images/album/201608/08/191523i0jbv4hh44sqchfs.png)
 
 
 *向文件中的字段添加分隔符*

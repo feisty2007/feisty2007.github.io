@@ -15,7 +15,7 @@ tags:	[linuxcn,机器人,运维,chatbot]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/24/100736j64t9ts14tjtvojl.jpg)
+![](/Asserts/Images/album/201903/24/100736j64t9ts14tjtvojl.jpg)
 
 
 ChatOps 是基于会话导向而进行的开发。其思路是你可以编写能够对聊天窗口中的某些输入进行回复的可执行代码。作为一个开发者，你能够用 ChatOps 从 Slack 合并拉取请求，自动从收到的 Facebook 消息中给某人分配支持工单，或者通过 IRC 检查开发状态。
@@ -98,7 +98,7 @@ services:
 如果你需要接入一个 Opsdroid 不支持的服务，在[文档](https://opsdroid.readthedocs.io/en/stable/extending/connectors/)里有有添加你自己的连接器的教程。
 
 
-**相当不错的文档：** 特别是对于一个在积极开发中的新兴库来说，Opsdroid 的文档十分有帮助。这些文档包括一篇带你创建几个不同的基本技能的[教程](https://opsdroid.readthedocs.io/en/stable/tutorials/introduction/)。Opsdroid 在[技能](https://opsdroid.readthedocs.io/en/stable/extending/skills/)、[连接器](https://opsdroid.readthedocs.io/en/stable/extending/connectors/)、[数据库](https://opsdroid.readthedocs.io/en/stable/extending/Asserts/Images/bases/)，以及[匹配器](https://opsdroid.readthedocs.io/en/stable/matchers/overview/)方面的文档也十分清晰。
+**相当不错的文档：** 特别是对于一个在积极开发中的新兴库来说，Opsdroid 的文档十分有帮助。这些文档包括一篇带你创建几个不同的基本技能的[教程](https://opsdroid.readthedocs.io/en/stable/tutorials/introduction/)。Opsdroid 在[技能](https://opsdroid.readthedocs.io/en/stable/extending/skills/)、[连接器](https://opsdroid.readthedocs.io/en/stable/extending/connectors/)、[数据库](https://opsdroid.readthedocs.io/en/stable/extending/databases/)，以及[匹配器](https://opsdroid.readthedocs.io/en/stable/matchers/overview/)方面的文档也十分清晰。
 
 
 它所支持的技能和连接器的仓库为它的技能提供了富有帮助的示范代码。

@@ -27,7 +27,7 @@ tags:	[linuxcn,gnome-screenshot,截图命令]
 > 
 
 
-![](/Asserts/Images//attachment/album/201307/25/225211zvph3khun55n4h3r.png)
+![](/Asserts/Images/album/201307/25/225211zvph3khun55n4h3r.png)
 
 
 　　上面就是我的当前整个桌面了。
@@ -47,7 +47,7 @@ tags:	[linuxcn,gnome-screenshot,截图命令]
 > 
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/25/2252135lhl95mj5hsy86y9.png](/Asserts/Images//attachment/album/201307/25/2252135lhl95mj5hsy86y9.png)
+![https://img.linux.net.cn/Asserts/Images/album/201307/25/2252135lhl95mj5hsy86y9.png](/Asserts/Images/album/201307/25/2252135lhl95mj5hsy86y9.png)
 
 
 　　您可以看到，上面的截图只有当前运行的 Shell 窗口。
@@ -70,7 +70,7 @@ tags:	[linuxcn,gnome-screenshot,截图命令]
 　　运行了这个命令以后，您应该看到您的鼠标指针已经发生了变化，您只需要移动鼠标到您需要的区域单击然后拖动出一个区域来，松开鼠标的时候，您将得到一个区域的截图。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/25/225214iki8lsdl00kmuick.png](/Asserts/Images//attachment/album/201307/25/225214iki8lsdl00kmuick.png)
+![https://img.linux.net.cn/Asserts/Images/album/201307/25/225214iki8lsdl00kmuick.png](/Asserts/Images/album/201307/25/225214iki8lsdl00kmuick.png)
 
 
 　　您可以看到上面的这个只有一点点高的小图片。
@@ -90,7 +90,7 @@ tags:	[linuxcn,gnome-screenshot,截图命令]
 > 
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/25/2252158quipiwtxn68dznz.png](/Asserts/Images//attachment/album/201307/25/2252158quipiwtxn68dznz.png)
+![https://img.linux.net.cn/Asserts/Images/album/201307/25/2252158quipiwtxn68dznz.png](/Asserts/Images/album/201307/25/2252158quipiwtxn68dznz.png)
 
 
 　　怎么样，看起来是不是更清爽一些。
@@ -113,7 +113,7 @@ tags:	[linuxcn,gnome-screenshot,截图命令]
 　　上面的命令将在 5 秒后截取桌面，执行后，你就可以在五秒钟的时间内来切换到你需要截取的窗口，然后等待 5 秒钟的到来就好了。
 
 
-![](/Asserts/Images//attachment/album/201307/25/225216f8yvy6fttaayyf6t.png)
+![](/Asserts/Images/album/201307/25/225216f8yvy6fttaayyf6t.png)
 
 
 **6、使用 -e 参数来给截图添加效果**
@@ -133,7 +133,7 @@ tags:	[linuxcn,gnome-screenshot,截图命令]
 > 
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/25/225218c1s251ckk5lee5qk.png](/Asserts/Images//attachment/album/201307/25/225218c1s251ckk5lee5qk.png)
+![https://img.linux.net.cn/Asserts/Images/album/201307/25/225218c1s251ckk5lee5qk.png](/Asserts/Images/album/201307/25/225218c1s251ckk5lee5qk.png)
 
 
 　　大家赶紧试验试验这些命令参数吧，看看他们都能怎么样组合，当然了这里是命令行的使用模式，其实我们还可以在 GUI 下来使用，您只需要在命令上添加 -i 参数就可以看到具体是怎么样的了。

@@ -16,7 +16,7 @@ BitTorrent Sync简称btsync，是一个基于BitTorrent（著名P2P文件分享�
 更具体点，当你想要通过btsync共享一些文件或文件夹，相应的读/写密钥（所谓的密码）就创建好了。这些密钥可以通过HTTPS链接，电子邮件，二维码等在不同的设备间共享传递。一旦两台设备通过一个密钥配对成功，其所对应的内容将会直接在其间同步。如果没有事先设置，传输将不会有文件大小和速度的限制。你可以在btsync中创建账号，这样你可以通过 web 界面来创建和管理通过网络分享的密钥和文件。
 
 
-![](/Asserts/Images//attachment/album/201504/03/000817ypzevnwoxixoxlx7.png)
+![](/Asserts/Images/album/201504/03/000817ypzevnwoxixoxlx7.png)
 
 
 BitTorrent Sync可以在许多的操作系统上运行，包括Linux，MacOS X，Windows，在 [Android](https://play.google.com/store/apps/details?id=com.bittorrent.sync)和[iOS](https://itunes.apple.com/us/app/bittorrent-sync/id665156116)上也可以使用。在这里，我们将教你在Linux环境（一台家用服务器）与Windows环境（一台笔记本电脑）之间如何使用BitTorrent Sync来同步文件。
@@ -49,7 +49,7 @@ BitTorrent Sync可以在[项目主页](http://www.getsync.com/)直接下载。�
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/03/000822dz8azutu0aiud787.jpg)
+![](/Asserts/Images/album/201504/03/000822dz8azutu0aiud787.jpg)
 
 
 下载完成后，把包中内容解压到你专门创建的目录中，为了完成这些：
@@ -63,7 +63,7 @@ BitTorrent Sync可以在[项目主页](http://www.getsync.com/)直接下载。�
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/03/000829pq2pkqeqzhnprxrp.jpg)
+![](/Asserts/Images/album/201504/03/000829pq2pkqeqzhnprxrp.jpg)
 
 
 现在你可以选择将/usr/local/bin/btsync添加到环境变量PATH中去。
@@ -104,7 +104,7 @@ btsync带有一个内置的网络服务器，用作其管理接口。想要使�
 你可以选择任何用户名和密码。
 
 
-![](/Asserts/Images//attachment/album/201504/03/000830nbmu1ztzcbzcct5t.jpg)
+![](/Asserts/Images/album/201504/03/000830nbmu1ztzcbzcct5t.jpg)
 
 
 如果你将来想要优化一下它的配置，可以看一下 /usr/local/bin/btsync 目录下的 README 文件，不过现在我们先继续下面的步骤。
@@ -131,25 +131,25 @@ btsync带有一个内置的网络服务器，用作其管理接口。想要使�
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/03/000831hvv4l92llzzvlxg5.jpg)
+![](/Asserts/Images/album/201504/03/000831hvv4l92llzzvlxg5.jpg)
 
 
 现在在你的浏览器中输入正在运行的btsync所监听的服务器IP地址和端口（我这是192.168.0.15:8888），同意其隐私政策，条款和最终用户许可协议：
 
 
-![](/Asserts/Images//attachment/album/201504/03/000832gudugmxxuqu0xn4x.jpg)
+![](/Asserts/Images/album/201504/03/000832gudugmxxuqu0xn4x.jpg)
 
 
 这样页面就会转到你安装的btsync主页：
 
 
-![](/Asserts/Images//attachment/album/201504/03/000833reerknn9qnenqir9.jpg)
+![](/Asserts/Images/album/201504/03/000833reerknn9qnenqir9.jpg)
 
 
 点击添加文件夹并在你的文件系统中选择一个你想要分享的目录，在我们的例子中，我们使用的是/btsync：
 
 
-![](/Asserts/Images//attachment/album/201504/03/000835kjgs3rcjbgdrrro6.jpg)
+![](/Asserts/Images/album/201504/03/000835kjgs3rcjbgdrrro6.jpg)
 
 
 现在这样就够了。在运行接下来的步骤之前，请先在Windows主机（或你想使用的其他Linux设备）上安装BitTorrent Sync。
@@ -200,7 +200,7 @@ sudo -u btsync /usr/local/bin/btsync/btsync --config /usr/local/bin/btsync/btsyn
 现在重启试试，看看btsync是否正在由预期中的用户运行：
 
 
-![](/Asserts/Images//attachment/album/201504/03/000836ry06x0wdwdf0gvxg.jpg)
+![](/Asserts/Images/album/201504/03/000836ry06x0wdwdf0gvxg.jpg)
 
 
 基于你选择的发行版不同，你可能找到不同的方式来开机自启动btsync。在本教程中，我选择rc.local的方式是因为它在不同发行版中都可使用。

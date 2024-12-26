@@ -15,7 +15,7 @@ tags:	[linuxcn,数据库]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/20/191530qiyvvxl8qqcov8xq.jpg)
+![](/Asserts/Images/album/201909/20/191530qiyvvxl8qqcov8xq.jpg)
 
 
 Oracle 发布了新的 Exadata 数据库机器 X8M，旨在为数据库基础架构市场树立新的标杆。

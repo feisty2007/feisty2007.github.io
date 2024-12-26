@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux Mint]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/04/155728lmhv7hhsdmnbo1sf.jpg)
+![](/Asserts/Images/album/202208/04/155728lmhv7hhsdmnbo1sf.jpg)
 
 
 Linux Mint 21 “Vanessa” 是 [Linux Mint](https://www.debugpoint.com/linux-mint/) 的第 36 个发布版本，它带来了一系列特色，以及对桌面上的有用改善。这些特色散落在 Cinnamon 桌面、内核变化、Xapps 更新等处。
@@ -27,7 +27,7 @@ Linux Mint 21 “Vanessa” 是 [Linux Mint](https://www.debugpoint.com/linux-mi
 ### Linux Mint 21 “Vanessa” 的重要特色
 
 
-![Linux Mint 21 Cinnamon Desktop](/Asserts/Images//attachment/album/202208/04/155729p5a5i539zzcajcn3.jpg)
+![Linux Mint 21 Cinnamon Desktop](/Asserts/Images/album/202208/04/155729p5a5i539zzcajcn3.jpg)
 
 
 #### 1、Ubuntu 22.04 及其相关更新
@@ -48,7 +48,7 @@ Linux Mint 21 “Vanessa” 是 [Linux Mint](https://www.debugpoint.com/linux-mi
 好吧，Timeshift 工具的开发者 Tony George 正忙于其它的项目。你可能听说过 Linux 的 “[TeeJeeTech](https://teejeetech.com/)” 应用。它是由 Tony 创建的，并且有一些很酷的应用。因此，他没有足够多的时间来专注于 Timeshift 的开发和改进。
 
 
-![Timeshift creating snapshot](/Asserts/Images//attachment/album/202208/04/155730wf4eerua8nnz4vut.jpg)
+![Timeshift creating snapshot](/Asserts/Images/album/202208/04/155730wf4eerua8nnz4vut.jpg)
 
 
 说到这里，由于 Linux Mint 现在在维护它，这个发布版本带来了一些新的功能，例如，在 rsync 模式（不是 btrfs 模式）时，现在 Timeshift 可以确定进行下一次备份需要多少磁盘空间。此外，如果它看到磁盘空间在备份后小于 1 GB ，会停止备份过程。
@@ -81,7 +81,7 @@ WebP 图像是谷歌为 Web 创建的一种相当新的图像格式。它带来�
 #### 5、改善打印支持
 
 
-Linux Mint 针对硬件设备配置了各种驱动程序，默认情况下就支持打印机。这个版本的 Mint 带来 <ruby> <a href="https://Asserts/Images/tracker.ietf.org/doc/html/rfc8011">  网络打印协议 </a> <rt>  Internet Printing Protocol </rt></ruby>（IPP）支持，可以免驱动进行打印和扫描。
+Linux Mint 针对硬件设备配置了各种驱动程序，默认情况下就支持打印机。这个版本的 Mint 带来 <ruby> <a href="https://datatracker.ietf.org/doc/html/rfc8011">  网络打印协议 </a> <rt>  Internet Printing Protocol </rt></ruby>（IPP）支持，可以免驱动进行打印和扫描。
 
 
 另外，它也默认安装了 HP 的驱动程序 HPLIP 的最新版本 3.21.12 。
@@ -102,10 +102,10 @@ Linux Mint 针对硬件设备配置了各种驱动程序，默认情况下就支
 这里是对比视图：
 
 
-![](/Asserts/Images//attachment/album/202208/04/155730nzx7cmvaxizfg88x.jpg)
+![](/Asserts/Images/album/202208/04/155730nzx7cmvaxizfg88x.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/04/155731czzrelt8erjbylf3.jpg)
+![](/Asserts/Images/album/202208/04/155731czzrelt8erjbylf3.jpg)
 
 
 其次，取消了映射窗口和桌面效果选项。
@@ -174,7 +174,7 @@ Mint 开发团队在 Cinnamon 5.4 引入的另外一个关键变化是，在应�
 基于这一认识，Linux Mint 21 决定 [不提供](https://debugpointnews.com/linux-mint-21-systemd-oom/) 这种服务，禁用它。因为 Linux Mint 的用户群体是普通用户、学生等，如果应用程序意外关闭，对用户来说将是一种不好的体验。
 
 
-![Systemd OOMD service is not enabled](/Asserts/Images//attachment/album/202208/04/155732v863p480405l6l4n.jpg)
+![Systemd OOMD service is not enabled](/Asserts/Images/album/202208/04/155732v863p480405l6l4n.jpg)
 
 
 #### 11、其它变化
@@ -189,14 +189,14 @@ Mint 开发团队在 Cinnamon 5.4 引入的另外一个关键变化是，在应�
 * Mint 将 Firefox 浏览器打包为 .deb 版本，而不是 Ubuntu 22.04 LTS 中的默认 .Snap 版本。感谢 Mint 开发团队，用户不必为卸载 Jammy 中的 Firefox 的 .Snap 版本的而运行 [一套复杂的命令](https://www.debugpoint.com/remove-firefox-snap-ubuntu/)。
 
 
-![Firefox 102 in Linux Mint 21 – Exclusively packaged as deb executable](/Asserts/Images//attachment/album/202208/04/155732kw2t5cz2502s4wv4.jpg)
+![Firefox 102 in Linux Mint 21 – Exclusively packaged as deb executable](/Asserts/Images/album/202208/04/155732kw2t5cz2502s4wv4.jpg)
 * 批量重命名应用程序 Thingy 在用户界面上做了一些改善。
 * GRUB2 的操作系统检测程序（`os-prober`）现在能够检测出你的硬件系统上所有的操作系统（对双启动或多启动有用）。
 * 蓝牙管理器 Blueman 取代了 Blueberry ，为连接和管理你的蓝牙设备带来了其它的功能。
 * 最后，在这个发布版本中也有为你的新桌面而准备的新壁纸。
 
 
-![New Wallpapers in Linux Mint 21](/Asserts/Images//attachment/album/202208/04/155733lkdagcwd6gbw79yt.jpg)
+![New Wallpapers in Linux Mint 21](/Asserts/Images/album/202208/04/155733lkdagcwd6gbw79yt.jpg)
 
 
 ### 没有变化的部分

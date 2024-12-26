@@ -7,7 +7,7 @@ tags:	[linuxcn,iPXE,远程启动]
 ---
 
 
-![](/Asserts/Images//attachment/album/201912/23/224848yaa09am9i3svmxxs.jpg)
+![](/Asserts/Images/album/201912/23/224848yaa09am9i3svmxxs.jpg)
 
 
 [Live CD](https://en.wikipedia.org/wiki/Live_CD) 对于很多任务是很有用的，例如:

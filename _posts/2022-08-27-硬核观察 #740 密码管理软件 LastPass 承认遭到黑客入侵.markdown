@@ -7,10 +7,10 @@ tags:	[linuxcn,LastPass,密码,iPhone,勒索软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/26/210658bzgslcrqiupuabxw.jpg)
+![](/Asserts/Images/album/202208/26/210658bzgslcrqiupuabxw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/26/210712onieiequi69iui33.jpg)
+![](/Asserts/Images/album/202208/26/210712onieiequi69iui33.jpg)
 
 
 ### 密码管理软件 LastPass 承认遭到黑客入侵
@@ -35,7 +35,7 @@ tags:	[linuxcn,LastPass,密码,iPhone,勒索软件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/26/210751j18hphbu7eubbbb1.jpg)
+![](/Asserts/Images/album/202208/26/210751j18hphbu7eubbbb1.jpg)
 
 
 ### iPhone 的锁定模式会导致被识别
@@ -60,7 +60,7 @@ iPhone 的“锁定模式”禁用了一系列可用于入侵 iPhone 用户的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/26/210806s4m1e2eu2hi7hjhi.jpg)
+![](/Asserts/Images/album/202208/26/210806s4m1e2eu2hi7hjhi.jpg)
 
 
 ### 微软称 80% 勒索软件攻击都是由于服务器错误配置导致

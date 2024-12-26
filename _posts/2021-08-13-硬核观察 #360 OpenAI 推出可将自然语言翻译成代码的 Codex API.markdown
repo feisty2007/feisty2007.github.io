@@ -7,13 +7,13 @@ tags:	[linuxcn,AI,编程,DeFi,TikTok]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/11/155441b68wrrw33l96f3yq.jpg)
+![](/Asserts/Images/album/202108/11/155441b68wrrw33l96f3yq.jpg)
 
 
 ### OpenAI 推出可将自然语言翻译成代码的 Codex API
 
 
-![](/Asserts/Images//attachment/album/202108/11/155452st11hn7w0f366lb4.jpg)
+![](/Asserts/Images/album/202108/11/155452st11hn7w0f366lb4.jpg)
 
 
 为 GitHub Copilot 辅助编程工具提供技术支持的 OpenAI 组织，现又推出了可将自然语言转译成代码的私有测试版 [Codex API](https://openai.com/blog/openai-codex/) 。这套应用程序接口能够理解十多种编程语言，允许开发者以简单的英语词汇来阐述相关命令并执行，从而轻松为当前的应用程序开发流程引入自然语言编程体验。在接受了数十亿行公共代码的训练之后，Codex 能够支持广泛的框架和语言，以及适应不同开发者的编程风格。该 API 模型最擅长于 Python，但也 精通 JavaScript、Go、Perl、PHP、Ruby、Swift、TypeScript、Shell 等编程语言。
@@ -30,7 +30,7 @@ tags:	[linuxcn,AI,编程,DeFi,TikTok]
 ### DeFi 平台 Poly Network 被攻击，已造成至少 6 亿美元的损失
 
 
-![](/Asserts/Images//attachment/album/202108/11/155515h7oee8wv7eexf70e.jpg)
+![](/Asserts/Images/album/202108/11/155515h7oee8wv7eexf70e.jpg)
 
 
 Poly Network 是一项用于在多个区块链之间进行通证交换的跨链协议，它运行在 Binance 智能链、以太坊和 Polygon 区块链上。周二发生的[攻击](https://www.coindesk.com/cross-chain-defi-site-poly-network-hacked)连续袭击了每条链，被窃取了至少 6.11 亿美元。这应该是迄今为止最大的 DeFi 黑客攻击事件之一。被盗资产中包括了 2.73 亿美元的 ETH、2.53 亿美元的 BNB、以及 8500 万美元的 USDC。而同样被盗的 3300 万美元的 USDT 则被 USDT 发行方 Tether 冻结。
@@ -47,7 +47,7 @@ Poly Network 是一项用于在多个区块链之间进行通证交换的跨链�
 ### TikTok 超越 Facebook 成为全球下载量最大的应用程序
 
 
-![](/Asserts/Images//attachment/album/202108/11/155534ljiq8ad98zqa98qu.jpg)
+![](/Asserts/Images/album/202108/11/155534ljiq8ad98zqa98qu.jpg)
 
 
 字节跳动在 2017 年推出了 TikTok 国际版，其[下载量](https://asia.nikkei.com/Business/Technology/TikTok-overtakes-Facebook-as-world-s-most-downloaded-app)现在超过了 Facebook、WhatsApp、Instagram 和 Facebook Messenger —— 后面这些都是 Facebook 的产品。该应用程序的受欢迎程度在全球疫情期间有所提高。

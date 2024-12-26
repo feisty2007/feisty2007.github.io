@@ -15,7 +15,7 @@ tags:	[linuxcn,FreeDOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/25/235643wvmciyy2f8y3mi73.jpg "FreeDOS fish logo and command prompt on computer")
+![](/Asserts/Images/album/202111/25/235643wvmciyy2f8y3mi73.jpg "FreeDOS fish logo and command prompt on computer")
 
 
 大多数的人应该能够使用安装程序来非常容易地安装 FreeDOS 1.3 RC4 。FreeDOS 安装程序会先询问几个问题，然后处理剩余的工作，包括为 FreeDOS 制作安装空间和使系统可启动。
@@ -42,7 +42,7 @@ $ qemu-system-x86_64 -name FreeDOS -machine pc-i440fx-4.2,accel=kvm,usb=off,dump
 
 ```
 
-![manual install](/Asserts/Images//attachment/album/202111/25/235654a06h0ihi1pl4p011.png "Select \"Use FreeDOS 1.3 in Live Environment mode\" to boot the LiveCD")
+![manual install](/Asserts/Images/album/202111/25/235654a06h0ihi1pl4p011.png "Select \"Use FreeDOS 1.3 in Live Environment mode\" to boot the LiveCD")
 
 
 *选择 "Use FreeDOS 1.3 in Live Environment mode" 来启动 LiveCD（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -68,13 +68,13 @@ $ qemu-system-x86_64 -name FreeDOS -machine pc-i440fx-4.2,accel=kvm,usb=off,dump
 从 DOS 命令行中，输入 `FDISK` 来运行 *分区* 设置程序。FDISK 是一个全屏交互式程序，你只需要输入数字来选择菜单项。从 FDISK 的主菜单中，输入 `1` 来在驱动器上创建一个 DOS 分区，然后在接下来的屏幕上输入 `1` 来创建一个 “主” DOS 分区。
 
 
-![using fdisk](/Asserts/Images//attachment/album/202111/25/235654dmpy9nrembmnrrun.png "Select \"1\" to create a partition")
+![using fdisk](/Asserts/Images/album/202111/25/235654dmpy9nrembmnrrun.png "Select \"1\" to create a partition")
 
 
 *选择 `1` 来创建一个分区（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
 
 
-![using fdisk](/Asserts/Images//attachment/album/202111/25/235654rj0bgbwvr8xbk7rw.png "Select \"1\" on the next menu to make a primary partition")
+![using fdisk](/Asserts/Images/album/202111/25/235654rj0bgbwvr8xbk7rw.png "Select \"1\" on the next menu to make a primary partition")
 
 
 *在接下来的菜单上选择 `1` 来制作一个主分区（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -86,7 +86,7 @@ $ qemu-system-x86_64 -name FreeDOS -machine pc-i440fx-4.2,accel=kvm,usb=off,dump
 在 `FDISK` 创建新的分区后，在 DOS 能够识别新的分区信息前，你将需要重新启动 DOS 。像所有的 DOS 操作系统一样，FreeDOS 仅在其启动时识别硬盘驱动器信息。因此，如果你创建或删除任何的磁盘分区的话，你都将需要重新启动 FreeDOS ，只有这样做，FreeDOS 才能识别到更改的分区信息。`FDISK` 会提醒你重新启动，因此，你是不会忘记的。
 
 
-![using fdisk](/Asserts/Images//attachment/album/202111/25/235655q84x4zawri0uiw8r.png "You need to reboot to recognize the new partition")
+![using fdisk](/Asserts/Images/album/202111/25/235655q84x4zawri0uiw8r.png "You need to reboot to recognize the new partition")
 
 
 *你需要重新启动以识别新的分区（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -107,7 +107,7 @@ DOS 系统使用字母 `A` 到 `Z` 来识别“驱动器”。FreeDOS 将识别�
 你可以在新的分区上使用 `FORMAT` 命令来创建一个 DOS 文件系统。这个命令带有一些选项，但是，我们将仅使用 `/S` 选项来告诉 `FORMAT` 来使新的文件系统可启动： `S` 意味着安装 FreeDOS “系统” 文件。输入 `FORMAT /S C:` 来在 `C:` 驱动器上制作一个新的 DOS 文件系统。
 
 
-![formatting the disk](/Asserts/Images//attachment/album/202111/25/235655sxvjmbccmg3c3mss.png "Format the partition to create the DOS filesystem")
+![formatting the disk](/Asserts/Images/album/202111/25/235655sxvjmbccmg3c3mss.png "Format the partition to create the DOS filesystem")
 
 
 *格式化分区来创建 DOS 文件系统（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -116,7 +116,7 @@ DOS 系统使用字母 `A` 到 `Z` 来识别“驱动器”。FreeDOS 将识别�
 使用 `/S` 选项，`FORMAT` 将运行 `SYS` 程序来传输系统文件。你将看到这是从 `FORMAT` 输出的一部分:
 
 
-![formatting the disk](/Asserts/Images//attachment/album/202111/25/235655x4ylu4yuzu37pm4e.png "FORMAT /S will use SYS to make the disk bootable")
+![formatting the disk](/Asserts/Images/album/202111/25/235655x4ylu4yuzu37pm4e.png "FORMAT /S will use SYS to make the disk bootable")
 
 
 *`FORMAT /S` 将使用 SYS 来使磁盘可启动（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -146,7 +146,7 @@ FOR %F IN (*.ZIP) DO UNZIP %F
 这将提取所有的 Zip 文件到当前目录之中。为提取或 `UNZIP` 文件到一个不同的位置，在 `UNZIP` 命令行结尾处使用 `-d` (“目的地”) 选项。对于大多数的 FreeDOS 系统来说，你应该安装软件包到 `C:\FDOS` 目录中：
 
 
-![installing the software](/Asserts/Images//attachment/album/202111/25/235656tu8yewenxfr52qnk.png "Unzip all of the Base packages to finish installing FreeDOS")
+![installing the software](/Asserts/Images/album/202111/25/235656tu8yewenxfr52qnk.png "Unzip all of the Base packages to finish installing FreeDOS")
 
 
 *解压缩所有的基本软件包来完成安装 FreeDOS（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -155,7 +155,7 @@ FOR %F IN (*.ZIP) DO UNZIP %F
 FreeDOS 会处理剩余的工作，安装所有的 62 个软件包到你的系统之中。这可能会花费几分钟的时间，因为 DOS 在处理很多单个的文件时会很慢，这个命令需要提取 62 个 Zip 文件。如果我们使用单个的 `BASE.ZIP` 档案文件的话，安装过程可能会运行地更快，但是使用软件包的话，在你选择想要安装或不安装软件包时会提供更多的灵活性。
 
 
-![installing the software](/Asserts/Images//attachment/album/202111/25/235656hprgxww8tui7ib8i.png "After installing all the Base packages")
+![installing the software](/Asserts/Images/album/202111/25/235656hprgxww8tui7ib8i.png "After installing all the Base packages")
 
 
 *在安装所有的基本软件包后（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -164,7 +164,7 @@ FreeDOS 会处理剩余的工作，安装所有的 62 个软件包到你的系�
 在我们安装完所有的东西后，使用 `FDADPM /WARMBOOT` 来重新启动你的系统。手动安装意味着你的新 FreeDOS 系统没有常见的 `FDCONFIG.SYS` 配置文件，因此，当 FreeDOS 在启动时，它将假设一些典型的默认值。因为没有 `AUTOXEC.BAT` 文件，FreeDOS 也会提示你时间和日期。
 
 
-![rebooting FreeDOS](/Asserts/Images//attachment/album/202111/25/235656b5dv4vah1ni77vin.png "Rebooting FreeDOS after a manual install")
+![rebooting FreeDOS](/Asserts/Images/album/202111/25/235656b5dv4vah1ni77vin.png "Rebooting FreeDOS after a manual install")
 
 
 *在手动安装后，重新启动 FreeDOS（Jim Hall, [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

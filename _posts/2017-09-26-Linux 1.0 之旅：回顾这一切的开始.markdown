@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,SLS]
 > 
 
 
-![Happy anniversary, Linux: A look back at where it all began](/Asserts/Images//attachment/album/201709/03/200233sptfve0p013twzdq.png "Happy anniversary, Linux: A look back at where it all began")
+![Happy anniversary, Linux: A look back at where it all began](/Asserts/Images/album/201709/03/200233sptfve0p013twzdq.png "Happy anniversary, Linux: A look back at where it all began")
 
 
 我第一次安装 Linux 是在 1993 年。那时我跑的是 MS-DOS，但我真的很喜欢学校机房电脑的 Unix 系统，就在那里度过了我大学本科时光。 当我听说了 Linux，一个 Unix 的免费版本，可以在我家的 386 电脑上运行的时候，我立刻就想要试试。我的第一个 Linux 发行版是 [Softlanding Linux System](https://en.wikipedia.org/wiki/Softlanding_Linux_System) (SLS) 1.03，带有 11 级补丁的 0.99 alpha 版本的 Linux 内核。它要求高达 2 MB 的内存，如果你想要编译项目需要 4 MB，运行 X windows 则需要 8 MB。
@@ -44,22 +44,22 @@ tags:	[linuxcn,Linux,SLS]
 SLS 是第一个真正的 “发行版”，因为它包含一个安装程序。 尽管安装过程并不像现代发行版一样顺畅。 不能从 CD-ROM 启动安装，我需要从安装软盘启动我的系统，然后从 **login** 提示中运行安装程序。
 
 
-![Installing SLS 1.05 from the login prompt](/Asserts/Images//attachment/album/201709/03/200234llktk4abge6qtkb4.png "Installing SLS 1.05 from the login prompt")
+![Installing SLS 1.05 from the login prompt](/Asserts/Images/album/201709/03/200234llktk4abge6qtkb4.png "Installing SLS 1.05 from the login prompt")
 
 
 在 SLS 1.05 中引入的一个漂亮的功能是支持彩色的文本模式安装器。当我选择彩色模式时，安装器切换到一个带有黑色文字的亮蓝色背景，不再是我们祖祖辈辈们使用的原始的普通黑白文本。
 
 
-![Color-enabled text-mode installer in SLS 1.05](/Asserts/Images//attachment/album/201709/03/200234z1tet1604h77m1cb.png "Color-enabled text-mode installer in SLS 1.05")
+![Color-enabled text-mode installer in SLS 1.05](/Asserts/Images/album/201709/03/200234z1tet1604h77m1cb.png "Color-enabled text-mode installer in SLS 1.05")
 
 
 SLS 安装器是个简单的东西，文本从屏幕底部滚动而上，显示其做的工作。通过对一些简单的提示的响应，我能够创建一个 Linux 分区，挂载上 ext2 文件系统，并安装 Linux 。 安装包含了 X windows 和开发工具的 SLS 1.05，需要大约 85 MB 的磁盘空间。依照今天的标准这听起来可能不是很多，但在 Linux 1.0 出来的时候，120 MB 的硬件设备才是主流设备。
 
 
-![Creating a partition for Linux, putting an ext2 filesystem on it, and installing Linux](/Asserts/Images//attachment/album/201709/03/200235wsn2uitws5l09s9t.png "Creating a partition for Linux, putting an ext2 filesystem on it, and installing Linux")
+![Creating a partition for Linux, putting an ext2 filesystem on it, and installing Linux](/Asserts/Images/album/201709/03/200235wsn2uitws5l09s9t.png "Creating a partition for Linux, putting an ext2 filesystem on it, and installing Linux")
 
 
-![First boot](/Asserts/Images//attachment/album/201709/03/200235beiun1ufey3uanjo.png "First boot")
+![First boot](/Asserts/Images/album/201709/03/200235beiun1ufey3uanjo.png "First boot")
 
 
 ### 系统级别
@@ -68,19 +68,19 @@ SLS 安装器是个简单的东西，文本从屏幕底部滚动而上，显示�
 当我第一次启动到 Linux 时，让我想起来了一些关于这个早期版本 Linux 系统的事情。首先，Linux 没有占据很多的空间。在启动系统之后运行一些程序来检查的时候，Linux 占用了不到 4 MB 的内存。在一个拥有 16MB 内存的系统中，这就意味着节省了很多内存用来运行程序。
 
 
-![Checking out the filesystem and available disk space](/Asserts/Images//attachment/album/201709/03/200236cbwkwzyawhadm8y8.png "Checking out the filesystem and available disk space")
+![Checking out the filesystem and available disk space](/Asserts/Images/album/201709/03/200236cbwkwzyawhadm8y8.png "Checking out the filesystem and available disk space")
 
 
 熟悉的 `/proc` 元文件系统在 Linux 1.0 就存在了，尽管对比我们今天在现代系统上看到的，它并不能提供许多信息。在 Linux 1.0， `/proc` 包含一些接口来探测类似 `meminfo` 和 `stat` 之类的基本系统状态。
 
 
-![The familiar /proc meta filesystem](/Asserts/Images//attachment/album/201709/03/200236hlqi0l2g05tl0lh1.png "The familiar /proc meta filesystem")
+![The familiar /proc meta filesystem](/Asserts/Images/album/201709/03/200236hlqi0l2g05tl0lh1.png "The familiar /proc meta filesystem")
 
 
 在这个系统上的 `/etc` 文件目录非常简单。值得一提的是，SLS 1.05 借用了来自 [BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) 的 **rc** 脚本来控制系统启动。 初始化是通过 **rc** 脚本进行的，由 `rc.local` 文件来定义本地系统的调整。后来，许多 Linux 发行版采用了来自 [Unix System V](https://en.wikipedia.org/wiki/UNIX_System_V) 的很相似的 **init** 脚本，后来又是 [systemd](https://en.wikipedia.org/wiki/Systemd) 初始化系统。
 
 
-![The /etc directory](/Asserts/Images//attachment/album/201709/03/200237b4imixd85zhri644.png "The /etc directory")
+![The /etc directory](/Asserts/Images/album/201709/03/200237b4imixd85zhri644.png "The /etc directory")
 
 
 ### 你能做些什么
@@ -92,28 +92,28 @@ SLS 安装器是个简单的东西，文本从屏幕底部滚动而上，显示�
 让我们从基本的文件管理开始。 每次在你登录的时候，SLS 会让你使用 Softlanding 菜单界面（MESH），这是一个文件管理程序，现代的用户们可能觉得它和 [Midnight Commander](https://midnight-commander.org/) 很相似。 而二十世纪 90 年代的用户们可能会拿 MESH 与更为接近的 [Norton Commander](https://en.wikipedia.org/wiki/Norton_Commander) 相比，这个可以说是在 MS-DOS 上最流行的第三方文件管理程序。
 
 
-![The Softlanding menu shell (MESH)](/Asserts/Images//attachment/album/201709/03/200237xuc27l10ttemjztl.png "The Softlanding menu shell (MESH)")
+![The Softlanding menu shell (MESH)](/Asserts/Images/album/201709/03/200237xuc27l10ttemjztl.png "The Softlanding menu shell (MESH)")
 
 
 除了 MESH 之外，在 SLS 1.05 中还少量包含了一些全屏应用程序。你可以找到熟悉的用户工具，包括 Elm 邮件阅读器、GNU Emacs 可编程编辑器，以及古老的 Vim 编辑器。
 
 
-![Elm mail reader](/Asserts/Images//attachment/album/201709/03/200238g821lltit8m1xfr1.png "Elm mail reader")
+![Elm mail reader](/Asserts/Images/album/201709/03/200238g821lltit8m1xfr1.png "Elm mail reader")
 
 
-![GNU Emacs programmable editor](/Asserts/Images//attachment/album/201709/03/200238c9zn4ivenvhveqrs.png "GNU Emacs programmable editor")
+![GNU Emacs programmable editor](/Asserts/Images/album/201709/03/200238c9zn4ivenvhveqrs.png "GNU Emacs programmable editor")
 
 
 SLS 1.05 甚至包含了一个可以让你在终端玩的俄罗斯方块版本。
 
 
-![Tetris for terminals](/Asserts/Images//attachment/album/201709/03/200239iyviailypdpvvtvr.png "Tetris for terminals")
+![Tetris for terminals](/Asserts/Images/album/201709/03/200239iyviailypdpvvtvr.png "Tetris for terminals")
 
 
 在二十世纪 90 年代，多数住宅的网络接入是通过拨号连接的，所以 SLS 1.05 包含了 Minicom 调制解调器拨号程序。Minicom 提供一个与调制解调器的直接连接，并需要用户通过贺氏调制解调器的 **AT** 命令来完成一些像是拨号或挂电话这样的基础功能。Minicom 同样支持宏和其他简单功能来使连接你的本地调制解调器池更容易。
 
 
-![Minicom modem-dialer application](/Asserts/Images//attachment/album/201709/03/200239l0wzqyuoyy9498z2.png "Minicom modem-dialer application")
+![Minicom modem-dialer application](/Asserts/Images/album/201709/03/200239l0wzqyuoyy9498z2.png "Minicom modem-dialer application")
 
 
 但如果你想要写一篇文档时怎么办？ SLS 1.05 的存在要比 LibreOffice 或者 OpenOffice 早很长时间。在二十世纪 90 年代，Linux 还没有这些应用。相反，如果你想要使用一个文字处理器，可能需要引导你的系统进入 MS-DOS，然后运行你喜欢的文字处理器程序，如 WordPerfect 或者共享软件 GalaxyWrite。
@@ -122,10 +122,10 @@ SLS 1.05 甚至包含了一个可以让你在终端玩的俄罗斯方块版本�
 但是所有的 Unix 系统都包含一套简单的文本格式化程序，叫做 nroff 和 troff。在 Linux 系统中，他们被合并成 GNU groff 包，而 SLS 1.05 包含了 groff 的一个版本。我在 SLS 1.05 上的一项测试就是用 nroff 生成一个简单的文本文档。
 
 
-![A simple nroff text document](/Asserts/Images//attachment/album/201709/03/200240z6pnnfcxnfy6fpx0.png "A simple nroff text document")
+![A simple nroff text document](/Asserts/Images/album/201709/03/200240z6pnnfcxnfy6fpx0.png "A simple nroff text document")
 
 
-![nroff text document output](/Asserts/Images//attachment/album/201709/03/200241snm0mb41m7jxoxlm.png "nroff text document output")
+![nroff text document output](/Asserts/Images/album/201709/03/200241snm0mb41m7jxoxlm.png "nroff text document output")
 
 
 ### 运行 X windows
@@ -154,13 +154,13 @@ SLS 1.05 甚至包含了一个可以让你在终端玩的俄罗斯方块版本�
 这些听起来令人困惑，但它就是这样。手工配置 X windows 真的可以是一个发人深省的体验。幸好，SLS 1.05 包含了 syssetup 程序来帮你确定系统组件的种类，包括了 X windows 的显示设置。在一些提示过后，经过一些实验和调整，最终我成功启动了 X windows！
 
 
-![The syssetup program](/Asserts/Images//attachment/album/201709/03/200241k0dr4h548c2444dv.png "The syssetup program")
+![The syssetup program](/Asserts/Images/album/201709/03/200241k0dr4h548c2444dv.png "The syssetup program")
 
 
 但这是来自于 1994 年的 X windows，它仍然并没有桌面的概念。我可以从 FVWM （一个虚拟窗口管理器）或 TWM （选项卡式的窗口管理器）中选择。TWM 直观地设置提供一个功能简单的图形环境。
 
 
-![TWM](/Asserts/Images//attachment/album/201709/03/200243grmcggnmjvwj9iio.png "TWM")
+![TWM](/Asserts/Images/album/201709/03/200243grmcggnmjvwj9iio.png "TWM")
 
 
 ### 关机
@@ -169,7 +169,7 @@ SLS 1.05 甚至包含了一个可以让你在终端玩的俄罗斯方块版本�
 我已经在我的 Linux 寻根之旅沉浸许久，是时候最终回到我的现代桌面上了。最初我跑 Linux 的是一台仅有 8MB 内存和 一个 120MB 硬盘驱动器的 32 位 386 电脑，而我现在的系统已经足够强大了。拥有双核 64 位 Intel Core i5 处理器，4 GB 内存和一个 128 GB 的固态硬盘，我可以在我的运行着 Linux 内核 4.11.11 的系统上做更多事情。那么，在我的 SLS 1.05 的实验结束之后，是时候离开了。
 
 
-![Shutting down](/Asserts/Images//attachment/album/201709/03/200243e9w82pgh9n39cpza.png "Shutting down")
+![Shutting down](/Asserts/Images/album/201709/03/200243e9w82pgh9n39cpza.png "Shutting down")
 
 
 再见，Linux 1.0。很高兴看到你的茁壮成长。

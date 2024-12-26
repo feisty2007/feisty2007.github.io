@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,Ubuntu,KeePassX,密码,保护,管理,跨平台]
 **随着安全性问题变得越来越重要，密码当然是越安全越理想（比如多步认证），这一点再强调也不为过。**
 
 
- ![](/Asserts/Images//attachment/album/201310/18/150116bdsr2w7k70wu355s.jpg)
+ ![](/Asserts/Images/album/201310/18/150116bdsr2w7k70wu355s.jpg)
 
 
 因此，于是我最近就试用了几个安全密码管理器，试图找到一款比较安全，易于使用并且跨平台的应用软件。
@@ -49,7 +49,7 @@ tags:	[linuxcn,Linux,Ubuntu,KeePassX,密码,保护,管理,跨平台]
 当然，如果你 **真的** 很在意自己的密码，你很可能不想把密码存到其他的组织，因为理论上密码是可以被他们获取到的。
 
 
-![](/Asserts/Images//attachment/album/201310/18/150117ajhahnodoni7fszi.png)
+![](/Asserts/Images/album/201310/18/150117ajhahnodoni7fszi.png)
 
 
 *Ubuntu中KeePassX的主界面*
@@ -61,7 +61,7 @@ tags:	[linuxcn,Linux,Ubuntu,KeePassX,密码,保护,管理,跨平台]
 需要注意一点，有些网站并不告诉你他们接受多长字符的密码，倾向于只在输入框限制输入长度。如果你粘贴进去的密码看起来没那么长，很可能就不是你要输入的口令，而被截断了。这种情况我碰到过几次。
 
 
-![](/Asserts/Images//attachment/album/201310/18/150119wwkp66w9g33pxpow.png)
+![](/Asserts/Images/album/201310/18/150119wwkp66w9g33pxpow.png)
 
 
 *KeePassX 密码生成器*
@@ -100,31 +100,31 @@ KeePass 2使用一种新的版本格式，比如允许自定义字段。尽管Ke
 可以预览一下新版本的KeePassX，界面大为改善。你也可以从GitHub上[6](https://play.google.com/store/apps/details?id=com.android.keepass&hl=en_GB)下载后自己安装。
 
 
-![](/Asserts/Images//attachment/album/201310/18/150121unrn990z51cf80ff.png) 
+![](/Asserts/Images/album/201310/18/150121unrn990z51cf80ff.png) 
 
 
 *KeePassX 2.0 主界面*
 
 
-![](/Asserts/Images//attachment/album/201310/18/150123xz70ca5cyzkc6u46.png)
+![](/Asserts/Images/album/201310/18/150123xz70ca5cyzkc6u46.png)
 
 
 *密码项的一些细节*
 
 
-![](/Asserts/Images//attachment/album/201310/18/150125n96n666jzkb3gug3.png)
+![](/Asserts/Images/album/201310/18/150125n96n666jzkb3gug3.png)
 
 
 *密码项的附加属性*
 
 
-![](/Asserts/Images//attachment/album/201310/18/150127a69a6q99qc0ypzpp.png)
+![](/Asserts/Images/album/201310/18/150127a69a6q99qc0ypzpp.png)
 
 
 *历史登陆信息，比如从先前的版本替换掉"Backup"文件夹之类的*
 
 
-![](/Asserts/Images//attachment/album/201310/18/150128t9h7mwc7xv974cxv.png)
+![](/Asserts/Images/album/201310/18/150128t9h7mwc7xv974cxv.png)
 
 
 *KeePassX 2.0 中的配置*

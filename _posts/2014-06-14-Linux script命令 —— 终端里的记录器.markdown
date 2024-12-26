@@ -10,7 +10,7 @@ tags:	[linuxcn,script,命令行,记录]
 当你在终端或者控制台工作时，你可能想要记录在终端中所做的一切。这些记录可以用来当作史料，保存终端所发生的一切。比如说，你和一些Linux管理员们同时管理着相同的机器，或者你让某人远程登陆到了你的服务器上，你可能记录想要终端里发生的一切。要实现这个目标，你可以使用script命令。
 
 
-![](/Asserts/Images//attachment/album/201406/14/233330ysxa1afoddk1avcd.png)
+![](/Asserts/Images/album/201406/14/233330ysxa1afoddk1avcd.png)
 
 
 ### script是什么
@@ -42,7 +42,7 @@ pungki@dev-machine:~$ script myfile
 
 ```
 
-![Define script file](/Asserts/Images//attachment/album/201406/14/233332uiteyu8axeeuyuen.png)
+![Define script file](/Asserts/Images/album/201406/14/233332uiteyu8axeeuyuen.png)
 
 
 当你再次见到命令提示符，这意味着终端将记录打印到终端的任何东西。
@@ -72,7 +72,7 @@ $ script collaborate
 
 ```
 
-![Create collaborate file](/Asserts/Images//attachment/album/201406/14/233333fe0svvieszifvxzv.png)
+![Create collaborate file](/Asserts/Images/album/201406/14/233333fe0svvieszifvxzv.png)
 
 
 然后，在完成一些任务后，假如你需要把你干的活发给另外一个工程师，那就把那文件发给他。所以当另外一个工程师需要复查所做的事情，他只要用文本编辑器打开这个文件就行了。
@@ -87,7 +87,7 @@ $ script -a collaborate
 
 ```
 
-![Append the file](/Asserts/Images//attachment/album/201406/14/233334m3b0vroaa24raj3r.png)
+![Append the file](/Asserts/Images/album/201406/14/233334m3b0vroaa24raj3r.png)
 
 
 #### 记录某人在终端中的所作所为
@@ -107,13 +107,13 @@ $ vi ~/.profile
 
 ```
 
-![Add script to bash profile](/Asserts/Images//attachment/album/201406/14/233335dakdlmalewvpezdp.png)
+![Add script to bash profile](/Asserts/Images/album/201406/14/233335dakdlmalewvpezdp.png)
 
 
 然后保存。下次他登录进你的系统时，script命令就会自动运行，并把日志记录进**/usr/local/script/log*record*script**。
 
 
-![Script without notification](/Asserts/Images//attachment/album/201406/14/233336zlry0wwgynl3wyss.png)
+![Script without notification](/Asserts/Images/album/201406/14/233336zlry0wwgynl3wyss.png)
 
 
 **-q**选项可以让scirpt命令以静默模式运行，登录进来的用户不会知道script命令已经运行了。而**-a**选项将会让记录附加到文件中，而不会擦除先前的记录。
@@ -122,7 +122,7 @@ $ vi ~/.profile
 如果不使用**-q**选项，那么当用户登录进来时，他会收到像下图中这样的通知。
 
 
-![Script with notification](/Asserts/Images//attachment/album/201406/14/233338h77jeef6v6pjctr9.png)
+![Script with notification](/Asserts/Images/album/201406/14/233338h77jeef6v6pjctr9.png)
 
 
 ### 退出记录

@@ -15,7 +15,7 @@ tags:	[linuxcn,LibreOffice]
 > 
 
 
-![Get control of your finances with LibreOffice Calc](/Asserts/Images//attachment/album/201709/01/134951eodh9pykzey9aloj.png "Get control of your finances with LibreOffice Calc")
+![Get control of your finances with LibreOffice Calc](/Asserts/Images/album/201709/01/134951eodh9pykzey9aloj.png "Get control of your finances with LibreOffice Calc")
 
 
 如果你像大多数人一样，没有一个无底般的银行帐户。你可能需要仔细观察你的每月支出。
@@ -68,7 +68,7 @@ tags:	[linuxcn,LibreOffice]
 你会看到这样：
 
 
-![A group of expenses](/Asserts/Images//attachment/album/201709/01/134952m97xz9x4l211jme9.png "A group of expenses")
+![A group of expenses](/Asserts/Images/album/201709/01/134952m97xz9x4l211jme9.png "A group of expenses")
 
 
 这是一组开支的方式。不要为每个花费组创建新块, 而是复制你创建的内容并将其粘贴到第一个块旁边。我建议一行放三块, 在它们之间有一个空列。
@@ -77,7 +77,7 @@ tags:	[linuxcn,LibreOffice]
 你会看到这样：
 
 
-![A row of expenses](/Asserts/Images//attachment/album/201709/01/134954ceeffemx28hhf1qr.png "A row of expenses")
+![A row of expenses](/Asserts/Images/album/201709/01/134954ceeffemx28hhf1qr.png "A row of expenses")
 
 
 对所有你的花费组做重复操作。
@@ -92,13 +92,13 @@ tags:	[linuxcn,LibreOffice]
 我们首先总计每个费用组的金额。你可以让 LibreOffice Calc 自动做这些。高亮显示“金额”列底部的单元格，然后单击 “Formula” 工具栏上的 “Sum” 按钮。
 
 
-![The Sum button](/Asserts/Images//attachment/album/201709/01/134954nnhnpxxebxbnxrol.png "The Sum button")
+![The Sum button](/Asserts/Images/album/201709/01/134954nnhnpxxebxbnxrol.png "The Sum button")
 
 
 单击金额列中的第一个单元格，然后将光标拖动到列中的最后一个单元格。然后按下 Enter。
 
 
-![An expense block with a total](/Asserts/Images//attachment/album/201709/01/134955qnznjewmqnpczmqw.png "An expense block with a total")
+![An expense block with a total](/Asserts/Images/album/201709/01/134955qnznjewmqnpczmqw.png "An expense block with a total")
 
 
 现在让我们用你顶部留下的两三行空白行做一些事。这就是你所有费用的总和。我建议把它放在那里，这样无论何时你打开文件时它都是可见的。

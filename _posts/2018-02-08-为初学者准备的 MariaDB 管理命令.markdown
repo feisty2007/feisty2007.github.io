@@ -13,7 +13,7 @@ tags:	[linuxcn,MySQL,MariaDB]
 （推荐阅读：[在 RHEL/CentOS 上安装并配置 MongoDB](http://linuxtechlab.com/mongodb-installation-configuration-rhelcentos/)）
 
 
-![](/Asserts/Images//attachment/album/201802/03/001533ewhva1wp1zwhz1m1.jpg)
+![](/Asserts/Images/album/201802/03/001533ewhva1wp1zwhz1m1.jpg)
 
 
 ### MariaDB 管理命令

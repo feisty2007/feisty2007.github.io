@@ -15,7 +15,7 @@ tags:	[linuxcn,OpenRGB,LED]
 > 
 
 
-![](/Asserts/Images//attachment/album/202105/10/113851zqod756ft373tz36.jpg)
+![](/Asserts/Images/album/202105/10/113851zqod756ft373tz36.jpg)
 
 
 无论是你的键盘、鼠标、CPU 风扇、AIO，还是其他连接的外围设备或组件，Linux 都没有官方软件支持来控制 RGB 灯光。
@@ -27,7 +27,7 @@ tags:	[linuxcn,OpenRGB,LED]
 ### OpenRGB：多合一的 RGB 灯光控制中心
 
 
-![](/Asserts/Images//attachment/album/202105/10/113919lz72qlh3p23zo6qe.jpg)
+![](/Asserts/Images/album/202105/10/113919lz72qlh3p23zo6qe.jpg)
 
 
 是的，你可能会找到不同的工具来调整设置，如 **Piper** 专门 [在 Linux 上配置游戏鼠标](https://itsfoss.com/piper-configure-gaming-mouse-linux/)。但是，如果你有各种组件或外设，要把它们都设置成你喜欢的 RGB 颜色，那将是一件很麻烦的事情。
@@ -48,7 +48,7 @@ OpenRGB 是一个令人印象深刻的工具，它不仅专注于 Linux，也可
 ### OpenRGB 的特点
 
 
-![](/Asserts/Images//attachment/album/202105/10/113920wtt7z7zkit3th9i7.jpg)
+![](/Asserts/Images/album/202105/10/113920wtt7z7zkit3th9i7.jpg)
 
 
 它在提供简单的用户体验的同时，赋予了你许多有用的功能。其中的一些特点是：
@@ -63,7 +63,7 @@ OpenRGB 是一个令人印象深刻的工具，它不仅专注于 Linux，也可
 * 连接 OpenRGB 的多个实例，在多台电脑上同步灯光
 
 
-![](/Asserts/Images//attachment/album/202105/10/113920odw7wlui2wcupul7.jpg)
+![](/Asserts/Images/album/202105/10/113920odw7wlui2wcupul7.jpg)
 
 
 除了上述所有的特点外，你还可以很好地控制照明区域、色彩模式、颜色等。

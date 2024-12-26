@@ -10,7 +10,7 @@ tags:	[linuxcn,终端,命令行,rTorrent,wget,cURL,w3m,elinks]
 Linux 命令行工具很牛逼，Linux 命令行以及一些第三方应用让 Linux 变得更牛逼。Linux 命令行工具可以用于下载种子和文件，可以上网冲浪。
 
 
-![5 Command Line Internet Tools](/Asserts/Images//attachment/album/201404/21/100153wl5tgnto5ndohlhb.jpg)
+![5 Command Line Internet Tools](/Asserts/Images/album/201404/21/100153wl5tgnto5ndohlhb.jpg)
 
 
 本文推荐的**5个强悍的上网工具**方便实用，是居家旅行的必备物品。
@@ -41,7 +41,7 @@ rTorrent 基于文本的 Torrent 客户端，用 C++ 调制而成，我们的目
 
 ```
 
-![rTorrent Command Line Tool](/Asserts/Images//attachment/album/201404/21/100156iste36fmqzrf5rsp.jpeg)
+![rTorrent Command Line Tool](/Asserts/Images/album/201404/21/100156iste36fmqzrf5rsp.jpeg)
 
 
 #### rTorrent 的用法
@@ -112,7 +112,7 @@ rTorrent 基于文本的 Torrent 客户端，用 C++ 调制而成，我们的目
 下面是一张 Wget 的截图，我们正在把 **Yahoo.com** 网站整个都镜像下来。
 
 
-![Wget Command Line File Download](/Asserts/Images//attachment/album/201404/21/100159yjqovs6f9hsqf0oz.jpeg)
+![Wget Command Line File Download](/Asserts/Images/album/201404/21/100159yjqovs6f9hsqf0oz.jpeg)
 
 
 关于 wget 的更多用法，参考[Wget 的10个的用法](http://www.tecmint.com/10-wget-command-examples-in-linux/)。
@@ -146,10 +146,10 @@ rTorrent 基于文本的 Torrent 客户端，用 C++ 调制而成，我们的目
 
 ```
 
-![Curl Data Download](/Asserts/Images//attachment/album/201404/21/100201o82qfh88wh1ff0i2.jpeg)
+![Curl Data Download](/Asserts/Images/album/201404/21/100201o82qfh88wh1ff0i2.jpeg)
 
 
-![Curl Download](/Asserts/Images//attachment/album/201404/21/100204gjagpasa8gkkzrqa.jpeg)
+![Curl Download](/Asserts/Images/album/201404/21/100204gjagpasa8gkkzrqa.jpeg)
 
 
 ### 4. w3m
@@ -180,7 +180,7 @@ W3m 也是大多数发行版的默认配置，也可通过 **apt** 或 **yum** �
 
 ```
 
-![w3m Text Based Web Browser](/Asserts/Images//attachment/album/201404/21/100207j1zii1f1p8l0vzhf.jpeg)
+![w3m Text Based Web Browser](/Asserts/Images/album/201404/21/100207j1zii1f1p8l0vzhf.jpeg)
 
 
 ### 5. Elinks
@@ -213,7 +213,7 @@ elinks www.tecmint.com
  
 
 
-![Elinks Command Line Web Browsing](/Asserts/Images//attachment/album/201404/21/100210bfthl75dod7q5253.jpeg)
+![Elinks Command Line Web Browsing](/Asserts/Images/album/201404/21/100210bfthl75dod7q5253.jpeg)
 
 
 

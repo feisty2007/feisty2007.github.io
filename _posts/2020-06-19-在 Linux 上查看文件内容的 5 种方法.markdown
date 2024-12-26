@@ -15,7 +15,7 @@ tags:	[linuxcn,文件,查看]
 > 
 
 
-![](/Asserts/Images//attachment/album/202006/23/121047zz9gwx9dwz155m2w.jpg)
+![](/Asserts/Images/album/202006/23/121047zz9gwx9dwz155m2w.jpg)
 
 
 Linux 提供了许多命令来查看文件的内容，包 括 `cat`、`more`、`head` 和 `tail`，但这只是一个开始。

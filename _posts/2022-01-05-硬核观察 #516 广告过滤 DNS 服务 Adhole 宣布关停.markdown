@@ -7,10 +7,10 @@ tags:	[linuxcn,Adhole,WordPress,a.out]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/14/200529xo144wmedp6rn6bd.jpg)
+![](/Asserts/Images/album/202201/14/200529xo144wmedp6rn6bd.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/14/200538in9jaaxafjnqqjao.jpg)
+![](/Asserts/Images/album/202201/14/200538in9jaaxafjnqqjao.jpg)
 
 
 ### 广告过滤 DNS 服务 Adhole 宣布关停
@@ -27,7 +27,7 @@ Pi-hole 可以帮助用户过滤浏览器和流媒体服务中的广告，可被
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/14/200554hd010q1w8fgj0wr3.jpg)
+![](/Asserts/Images/album/202201/14/200554hd010q1w8fgj0wr3.jpg)
 
 
 ### 去年可利用的 WordPress 插件漏洞数量爆炸性增长
@@ -44,7 +44,7 @@ Pi-hole 可以帮助用户过滤浏览器和流媒体服务中的广告，可被
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/14/200616dmx3o3oemkinxefi.jpg)
+![](/Asserts/Images/album/202201/14/200616dmx3o3oemkinxefi.jpg)
 
 
 ### Linux 内核准备彻底移除 a.out 格式支持

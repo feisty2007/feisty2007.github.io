@@ -10,7 +10,7 @@ tags:	[linuxcn,RAID]
 在阅读过 [RAID 系列](/article-6085-1.html) 前面的文章后你已经对 RAID 比较熟悉了。回顾前面几个软件 RAID 的配置，我们对每一个都做了详细的解释，使用哪一个取决与你的具体情况。
 
 
-![Recover Rebuild Failed Software RAID's](/Asserts/Images//attachment/album/201510/21/220530txqez0qxqzv3iqpe.png)
+![Recover Rebuild Failed Software RAID's](/Asserts/Images/album/201510/21/220530txqez0qxqzv3iqpe.png)
 
 
 *恢复并重建故障的软件 RAID - 第8部分*
@@ -35,7 +35,7 @@ tags:	[linuxcn,RAID]
 此外，如果 SELinux 设置为 enforcing 模式，你需要将相应的标签添加到挂载 RAID 设备的目录中。否则，当你试图挂载时，你会碰到这样的警告信息：
 
 
-![SELinux RAID Mount Error](/Asserts/Images//attachment/album/201510/21/220530i228220gdy5zpj7v.png)
+![SELinux RAID Mount Error](/Asserts/Images/album/201510/21/220530i228220gdy5zpj7v.png)
 
 
 *启用 SELinux 时 RAID 挂载错误*
@@ -77,7 +77,7 @@ MAILADDR gacanepa@localhost
 
 ```
 
-![RAID Monitoring Email Alerts](/Asserts/Images//attachment/album/201510/21/220531o48bcu84uussjoow.png)
+![RAID Monitoring Email Alerts](/Asserts/Images/album/201510/21/220531o48bcu84uussjoow.png)
 
 
 *监控 RAID 并使用电子邮件进行报警*
@@ -116,7 +116,7 @@ MAILADDR gacanepa@localhost
 这将导致 /dev/sdc1 被标记为 faulty，我们可以在 /proc/mdstat 看到：
 
 
-![Stimulate Issue with RAID Storage](/Asserts/Images//attachment/album/201510/21/220532wgrcgnf4bontrgcj.png)
+![Stimulate Issue with RAID Storage](/Asserts/Images/album/201510/21/220532wgrcgnf4bontrgcj.png)
 
 
 *在 RAID 存储设备上模拟问题*
@@ -125,7 +125,7 @@ MAILADDR gacanepa@localhost
 更重要的是，让我们看看是不是收到了同样的警报邮件：
 
 
-![Email Alert on Failed RAID Device](/Asserts/Images//attachment/album/201510/21/220539bq20doix82juz702.png)
+![Email Alert on Failed RAID Device](/Asserts/Images/album/201510/21/220539bq20doix82juz702.png)
 
 
 *RAID 设备故障时发送邮件警报*
@@ -161,7 +161,7 @@ MAILADDR gacanepa@localhost
 
 ```
 
-![Confirm Rebuilding RAID Array](/Asserts/Images//attachment/album/201510/21/220544z2caprz2rshh8apm.png)
+![Confirm Rebuilding RAID Array](/Asserts/Images/album/201510/21/220544z2caprz2rshh8apm.png)
 
 
 *确认 RAID 重建*
@@ -180,7 +180,7 @@ MAILADDR gacanepa@localhost
 
 ```
 
-![Replace Failed Raid Device](/Asserts/Images//attachment/album/201510/21/220550c1ttlm6xe9e8tzj2.png)
+![Replace Failed Raid Device](/Asserts/Images/album/201510/21/220550c1ttlm6xe9e8tzj2.png)
 
 
 *取代故障的 Raid 设备*
@@ -213,7 +213,7 @@ MAILADDR gacanepa@localhost
 
 ```
 
-![Recovering Raid Array](/Asserts/Images//attachment/album/201510/21/220553k26neoo162ewkuy1.png)
+![Recovering Raid Array](/Asserts/Images/album/201510/21/220553k26neoo162ewkuy1.png)
 
 
 *恢复 Raid 阵列*
@@ -249,7 +249,7 @@ MAILADDR gacanepa@localhost
 当这个过程完成后，你就应该能够访问 RAID 的数据：
 
 
-![Confirm Raid Content](/Asserts/Images//attachment/album/201510/21/220556czeliti301lkb1ee.png)
+![Confirm Raid Content](/Asserts/Images/album/201510/21/220556czeliti301lkb1ee.png)
 
 
 *确认 Raid 数据*

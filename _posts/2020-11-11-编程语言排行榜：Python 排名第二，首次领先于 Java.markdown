@@ -15,7 +15,7 @@ tags:	[linuxcn,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202011/05/221022xoj9858ipiqzihh9.jpg)
+![](/Asserts/Images/album/202011/05/221022xoj9858ipiqzihh9.jpg)
 
 
 Tiobe 这么多年以来发布的指数中，29 岁的 Python 首次超过了 25 岁 Java，成为第二受欢迎的编程语言。
@@ -24,7 +24,7 @@ Tiobe 这么多年以来发布的指数中，29 岁的 Python 首次超过了 25
 **在[最新的 Tiobe 指数](https://www.tiobe.com/tiobe-index/)中，数据科学和机器学习项目的首选语言 Python，现在排名仅次于 C 语言，排在第二位，将 Java 打落到第三位。**
 
 
-![](/Asserts/Images//attachment/album/202011/05/212317rv12bhh2yhr5x1tt.png)
+![](/Asserts/Images/album/202011/05/212317rv12bhh2yhr5x1tt.png)
 
 
 *2020 年 10 月编程排行榜前 3 名*
@@ -36,7 +36,7 @@ Tiobe 这么多年以来发布的指数中，29 岁的 Python 首次超过了 25
 Python 显示比一年前的位置上升了 2.27%，这与同期 Java 下降了 -4.47% 形成鲜明对比。
 
 
-![](/Asserts/Images//attachment/album/202011/05/212141b712i8q229kwqsw5.png)
+![](/Asserts/Images/album/202011/05/212141b712i8q229kwqsw5.png)
 
 
 *历年前 10 名编程语言的年度平均排名*
@@ -69,7 +69,7 @@ O'Grady [将 Python 与全盛时期的 Perl 相提并论](https://www.zdnet.com/
 同样，Python 的未来也无法保证，它在构建移动和浏览器应用或任何有用户界面的东西方面也有明显的局限性。
 
 
-![](/Asserts/Images//attachment/album/202011/05/212719ueozccm2ocozzsff.jpg)
+![](/Asserts/Images/album/202011/05/212719ueozccm2ocozzsff.jpg)
 
 
 *C、Python、Java 编程语言的评分变化*

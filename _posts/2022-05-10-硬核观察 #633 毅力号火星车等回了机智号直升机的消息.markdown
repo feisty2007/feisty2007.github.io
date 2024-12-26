@@ -7,10 +7,10 @@ tags:	[linuxcn,火星车,Flash,汽车]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/11/180832wuj49dgcwtp8vzud.jpg)
+![](/Asserts/Images/album/202205/11/180832wuj49dgcwtp8vzud.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/11/180844zp8as2398h2oouig.jpg)
+![](/Asserts/Images/album/202205/11/180844zp8as2398h2oouig.jpg)
 
 
 ### 毅力号火星车等回了机智号直升机的消息
@@ -35,7 +35,7 @@ tags:	[linuxcn,火星车,Flash,汽车]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/11/180900dhlbjc9xc3nnhnll.jpg)
+![](/Asserts/Images/album/202205/11/180900dhlbjc9xc3nnhnll.jpg)
 
 
 ### 国家药监局回应网友建议，将 Flash 插件替换为 pdf.js
@@ -60,7 +60,7 @@ Flash 组件从 2020 年底开始在 Windows 10 中删除。Adobe 官方也逐�
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/11/180920kr0ahaj73fjud037.jpg)
+![](/Asserts/Images/album/202205/11/180920kr0ahaj73fjud037.jpg)
 
 
 ### 通用和红帽合作开发基于 Linux 的全新开源车载系统

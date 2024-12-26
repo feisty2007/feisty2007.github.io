@@ -7,7 +7,7 @@ tags:	[linuxcn,Autotrash,回收站,删除]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/22/133009txeehu4ejr47lrrj.png)
+![](/Asserts/Images/album/201809/22/133009txeehu4ejr47lrrj.png)
 
 
 **Autotrash** 是一个命令行程序，它用于自动清除旧的已删除文件。它将清除超过指定天数的在回收站中的文件。你不需要清空回收站或执行 `SHIFT+DELETE` 以永久清除文件/文件夹。Autortrash 将处理回收站中的内容，并在特定时间段后自动删除它们。简而言之，Autotrash 永远不会让你的垃圾变得太大。

@@ -15,7 +15,7 @@ tags:	[linuxcn,手机,PinePhone]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/02/135551p9zdnkkigzys93dp.png)
+![](/Asserts/Images/album/202202/02/135551p9zdnkkigzys93dp.png)
 
 
 当 Pine64 在 2019 年发布 PinePhone 时，没有人能够预见它将对移动 Linux、桌面 Linux 和隐私产生巨大的影响。
@@ -48,7 +48,7 @@ PinePhone 采用了全志 a64 系统芯片，它的功率只够完成最基本�
 ### 电池续航……没问题
 
 
-![](/Asserts/Images//attachment/album/202202/02/135552yiz3n1h9dm9111w3.jpg)
+![](/Asserts/Images/album/202202/02/135552yiz3n1h9dm9111w3.jpg)
 
 
 虽然我很想说，由于 PinePhone 的低功耗组件，电池续航想必是超棒的。但不幸的是，情况并非如此，即使在实施了所有节电改进措施后也是如此。
@@ -100,7 +100,7 @@ PinePhone 仅有的 500 万像素后置摄像头和更小的 200 万像素前置
 #### Plasma Mobile
 
 
-![图片来源：KDE Plasma Mobile](/Asserts/Images//attachment/album/202202/02/135553llu1ritmzw1lg5ww.jpg)
+![图片来源：KDE Plasma Mobile](/Asserts/Images/album/202202/02/135553llu1ritmzw1lg5ww.jpg)
 
 
 早在 2015 年 Plasma 5 发布之后，Plasma Mobile 已经默默地在后台开发了近 7 年。从最初的发布到 PinePhone 的发布，Plasma Mobile 背后的团队成功地创造了一个相当可用的移动桌面环境。
@@ -121,7 +121,7 @@ PinePhone 仅有的 500 万像素后置摄像头和更小的 200 万像素前置
 #### Phosh
 
 
-![PinePhone 上的 Phosh 截屏](/Asserts/Images//attachment/album/202202/02/135554daakf6xk4gknn4rg.jpg)
+![PinePhone 上的 Phosh 截屏](/Asserts/Images/album/202202/02/135554daakf6xk4gknn4rg.jpg)
 
 
 Phosh 主要由 Purism 开发，是相当于 Plasma Mobile 的 GTK。它最初是为 Librem 5 打造的，自 2018 年以来一直在开发。由于只有 4 年的历史，你可能会认为 Phosh 是不成熟的，但这与事实相差甚远。
@@ -152,7 +152,7 @@ Phosh 主要由 Purism 开发，是相当于 Plasma Mobile 的 GTK。它最初�
 #### Lomiri
 
 
-![Lomiri on the PinePhone](/Asserts/Images//attachment/album/202202/02/135555em9z6p4nrjg4eutr.jpg)
+![Lomiri on the PinePhone](/Asserts/Images/album/202202/02/135555em9z6p4nrjg4eutr.jpg)
 
 
 我怀疑你是否听说过它，因为它最近才改了名字。它以前被称为 Unity 8，是 Ubuntu Touch 操作系统的默认桌面环境。它也可以在 Manjaro ARM 上使用。

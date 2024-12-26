@@ -15,7 +15,7 @@ tags:	[linuxcn,Peppermint]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/05/234005hlfodqdt7fd33chd.jpg)
+![](/Asserts/Images/album/202202/05/234005hlfodqdt7fd33chd.jpg)
 
 
 Peppermint OS 11 是 [2022 年最值得期待的版本](https://news.itsfoss.com/linux-distro-releases-2022/) 之一，而它终于到来了！
@@ -45,7 +45,7 @@ Peppermint OS 11 是 [2022 年最值得期待的版本](https://news.itsfoss.com
 #### XFce 4.16.2，无 LXDE 组件
 
 
-![](/Asserts/Images//attachment/album/202202/05/233839nhuzgp3cpqgdg237.png)
+![](/Asserts/Images/album/202202/05/233839nhuzgp3cpqgdg237.png)
 
 
 Peppermint OS 利用 XFce 桌面环境与 LXDE 组件来提供混合体验。
@@ -57,7 +57,7 @@ Peppermint 11 已经删除了所有的 LXDE 组件，专注于提供一个 XFce 
 #### Calamares 安装程序取代了 Ubiquity
 
 
-![](/Asserts/Images//attachment/album/202202/05/233840rlnnwcajjcm5ijak.png)
+![](/Asserts/Images/album/202202/05/233840rlnnwcajjcm5ijak.png)
 
 
 为了改善安装过程，Peppermint 11 使用了现代 Calamares 安装程序。
@@ -66,7 +66,7 @@ Peppermint 11 已经删除了所有的 LXDE 组件，专注于提供一个 XFce 
 #### 新的欢迎应用程序
 
 
-![](/Asserts/Images//attachment/album/202202/05/233841ht997flztyq6wstw.png)
+![](/Asserts/Images/album/202202/05/233841ht997flztyq6wstw.png)
 
 
 为了让你有一个良好的开端，Peppermint OS 现在包括一个新的欢迎应用程序，让你了解更多关于所使用的系统/组件，并安装开始使用所需的软件。
@@ -75,7 +75,7 @@ Peppermint 11 已经删除了所有的 LXDE 组件，专注于提供一个 XFce 
 例如，你在 Peppermint 11 中没有预装默认的网络浏览器。你可以快速启动软件包选择器，安装 Firefox、GNOME、Tor、Falkon 和 Chromium 等浏览器。
 
 
-![](/Asserts/Images//attachment/album/202202/05/233842bpmbbzseebu3e4u5.png)
+![](/Asserts/Images/album/202202/05/233842bpmbbzseebu3e4u5.png)
 
 
 #### 新的 Peppermint Hub
@@ -84,7 +84,7 @@ Peppermint 11 已经删除了所有的 LXDE 组件，专注于提供一个 XFce 
 新的 Peppermint Hub 合并了设置和控制中心来保持整洁，帮助你轻松管理系统。
 
 
-![](/Asserts/Images//attachment/album/202202/05/233842bgeg8ius8uzgxn9h.png)
+![](/Asserts/Images/album/202202/05/233842bgeg8ius8uzgxn9h.png)
 
 
 #### 新的应用程序
@@ -93,7 +93,7 @@ Peppermint 11 已经删除了所有的 LXDE 组件，专注于提供一个 XFce 
 该版本包括一个基于终端的广告屏蔽器，即 [hblock](https://github.com/hectorm/hblock)，可以在需要时启用或禁用。
 
 
-![](/Asserts/Images//attachment/album/202202/05/233843o71fkfodjb9zzc8z.png)
+![](/Asserts/Images/album/202202/05/233843o71fkfodjb9zzc8z.png)
 
 
 Nemo 取代了 Thunar 作为默认的文件管理器，它应该感觉很熟悉，对许多用户来说可以派上用场。

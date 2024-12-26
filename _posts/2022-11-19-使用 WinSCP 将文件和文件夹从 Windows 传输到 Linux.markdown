@@ -7,7 +7,7 @@ tags:	[linuxcn,WinSCP,scp]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/28/092919hf6y9ojjlmmsfmlm.jpg)
+![](/Asserts/Images/album/202211/28/092919hf6y9ojjlmmsfmlm.jpg)
 
 
 
@@ -80,25 +80,25 @@ WinSCP 是一款针对微软 Windows 的开源 SSH 文件传输应用程序。�
 在 “<ruby> 主机名称 <rt>  Host name </rt></ruby>” 字段中添加你的 Linux 计算机的 IP 地址或 DNS 名称，并在 “<ruby> 端口号 <rt>  Port number </rt></ruby>” 字段中输入 **22** 。针对该 Linux 计算机，输入你的用户名称和密码，然后单击 WinSCP 窗口底部的 “<ruby> 登录 <rt>  Login </rt></ruby>” 按钮。
 
 
-![Image of the WinSCP login window.](/Asserts/Images//attachment/album/202211/28/092921s33fducjdo33lkuh.png)
+![Image of the WinSCP login window.](/Asserts/Images/album/202211/28/092921s33fducjdo33lkuh.png)
 
 
 验证你是否获取了登录 Linux 计算机的身份授权。在验证成功后，你的 Linux 计算机的 IP 地址或 DNS 名称将显示在窗口的顶部。
 
 
-![Image of a WinSCP window showing where IP adress is located.](/Asserts/Images//attachment/album/202211/28/092922va1a6e36a6ncd6as.png)
+![Image of a WinSCP window showing where IP adress is located.](/Asserts/Images/album/202211/28/092922va1a6e36a6ncd6as.png)
 
 
 现在，你可以从左侧的 Windows 面板中拖拽一个文件（如示例，我使用 `winscp-test.txt` 文件）到右侧的目标 Linux 计算机目标，接下来文件会传输。
 
 
-![Image of drag and drop window in WinSCP.](/Asserts/Images//attachment/album/202211/28/092922xy3m3ns3s766kg7f.png)
+![Image of drag and drop window in WinSCP.](/Asserts/Images/album/202211/28/092922xy3m3ns3s766kg7f.png)
 
 
 或者，你可以在左侧的面板中右键单击一个文件，然后上传它到右侧的远程目标的面板。
 
 
-![Image of a right click option to upload files in WinSCP.](/Asserts/Images//attachment/album/202211/28/092923sqtpjlja8lla7ofy.png)
+![Image of a right click option to upload files in WinSCP.](/Asserts/Images/album/202211/28/092923sqtpjlja8lla7ofy.png)
 
 
 ### 验证副本

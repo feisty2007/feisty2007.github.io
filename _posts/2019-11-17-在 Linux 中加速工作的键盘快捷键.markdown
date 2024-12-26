@@ -7,7 +7,7 @@ tags:	[linuxcn,快捷键]
 ---
 
 
-![Google Keyboard](/Asserts/Images//attachment/album/201911/08/075723x7pf4kuu5x7cxbbb.jpg)
+![Google Keyboard](/Asserts/Images/album/201911/08/075723x7pf4kuu5x7cxbbb.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,快捷键]
 下面列出了常规快捷方式。
 
 
-![](/Asserts/Images//attachment/album/201911/08/075725qjf59uwkw0tk54ky.png)
+![](/Asserts/Images/album/201911/08/075725qjf59uwkw0tk54ky.png)
 
 
 ### 打印屏幕和屏幕录像
@@ -39,7 +39,7 @@ tags:	[linuxcn,快捷键]
 以下快捷方式可用于打印屏幕或录制屏幕视频。
 
 
-![](/Asserts/Images//attachment/album/201911/08/075726yz55j2csyflyte9s.png)
+![](/Asserts/Images/album/201911/08/075726yz55j2csyflyte9s.png)
 
 
 ### 在应用之间切换
@@ -48,7 +48,7 @@ tags:	[linuxcn,快捷键]
 此处列出的快捷键可用于在应用之间切换。
 
 
-![](/Asserts/Images//attachment/album/201911/08/075727spssf1ymcmlvgpyc.png)
+![](/Asserts/Images/album/201911/08/075727spssf1ymcmlvgpyc.png)
 
 
 ### 平铺窗口
@@ -57,7 +57,7 @@ tags:	[linuxcn,快捷键]
 可以使用下面提供的快捷方式以不同方式将窗口平铺。
 
 
-![](/Asserts/Images//attachment/album/201911/08/075727uzk12pd7wz1e3pk2.png)
+![](/Asserts/Images/album/201911/08/075727uzk12pd7wz1e3pk2.png)
 
 
 ### 浏览器快捷方式
@@ -90,7 +90,7 @@ tags:	[linuxcn,快捷键]
 这是终端快捷方式的列表。
 
 
-![](/Asserts/Images//attachment/album/201911/08/075729mmqz7qt2t0kqo24t.png)
+![](/Asserts/Images/album/201911/08/075729mmqz7qt2t0kqo24t.png)
 
 
 你还可以在 Ubuntu 中配置自己的自定义快捷方式，如下所示：

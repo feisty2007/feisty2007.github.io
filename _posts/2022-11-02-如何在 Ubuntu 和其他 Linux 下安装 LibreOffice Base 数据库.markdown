@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/24/111503yhkq3mihfxkxsh1v.jpg)
+![](/Asserts/Images/album/202211/24/111503yhkq3mihfxkxsh1v.jpg)
 
 
 
@@ -61,7 +61,7 @@ sudo dnf install libreoffice-base
 在另一个方面，如果你想看看如何安装最新的 LibreOffice，请查看 [这个指南](https://www.debugpoint.com/install-latest-libreoffice-ubuntu-linux/)。
 
 
-![在 Ubuntu 中安装 Libreoffice Base](/Asserts/Images//attachment/album/202211/24/111512q84att8rhyjc0xc4.jpg)
+![在 Ubuntu 中安装 Libreoffice Base](/Asserts/Images/album/202211/24/111512q84att8rhyjc0xc4.jpg)
 
 
 最后，安装完毕后，你可以在应用菜单中找出 LibreOffice Base。

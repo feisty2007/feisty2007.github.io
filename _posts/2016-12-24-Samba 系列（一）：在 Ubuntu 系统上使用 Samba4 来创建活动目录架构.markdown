@@ -13,7 +13,7 @@ Samba 是一个自由的开源软件套件，用于实现 Windows 操作系统�
 Samba 不仅可以通过 SMB/CIFS 协议组件来为 Windows 与 Linux 系统之间提供独立的文件及打印机共享服务，它还能实现<ruby> 活动目录 <rp>  （ </rp> <rt>  Active Directory </rt> <rp>  ） </rp></ruby><ruby> 域控制器 <rp>  （ </rp> <rt>  Domain Controller </rt> <rp>  ） </rp></ruby>的功能，或者让 Linux 主机加入到域环境中作为域成员服务器。当前的 Samba4 版本实现的 AD DC 域及林功能级别可以取代 Windows 2008 R2 系统的域相关功能。
 
 
-![](/Asserts/Images//attachment/album/201612/26/174604fkcolbrtc5frlrpf.jpg)
+![](/Asserts/Images/album/201612/26/174604fkcolbrtc5frlrpf.jpg)
 
 
 本系列的文章的主要内容是使用 Samba4 软件来配置活动目录域控制器，涉及到 Ubuntu、CentOS 和 Windows 系统相关的以下主题：
@@ -64,7 +64,7 @@ $ sudo apt-get dist-upgrade
 通常情况下，当前常见的 Linux 文件系统，比如 ext3、ext4、xfs 或 btrfs 都默认支持并已经启用了 ACL 。如果未设置，则打开并编辑 `/etc/fstab` 文件，在第三列添加 `acl`，然后重启系统以使用修改的配置生效。
 
 
-![Enable ACL's on Linux Filesystem](/Asserts/Images//attachment/album/201612/26/174621ehlf2q8zzhq9yfjc.png)
+![Enable ACL's on Linux Filesystem](/Asserts/Images/album/201612/26/174621ehlf2q8zzhq9yfjc.png)
 
 
 *启动 Linux 文件系统的 ACL 功能*
@@ -94,7 +94,7 @@ $ sudo apt-get install samba krb5-user krb5-config winbind libpam-winbind libnss
 
 ```
 
-![Install Samba on Ubuntu](/Asserts/Images//attachment/album/201612/26/174622j7ee5rzhg6fgu676.png)
+![Install Samba on Ubuntu](/Asserts/Images/album/201612/26/174622j7ee5rzhg6fgu676.png)
 
 
 *在 Ubuntu 系统上安装 Samba 套件*
@@ -106,7 +106,7 @@ $ sudo apt-get install samba krb5-user krb5-config winbind libpam-winbind libnss
 在第一屏中你需要以大写为 Kerberos 默认 REALM 输入一个名字。以**大写**为你的域环境输入名字，然后单击回车继续。
 
 
-![Configuring Kerberos Authentication](/Asserts/Images//attachment/album/201612/26/174622da1nt1t1jzhi00bj.png)
+![Configuring Kerberos Authentication](/Asserts/Images/album/201612/26/174622da1nt1t1jzhi00bj.png)
 
 
 *配置 Kerosene 认证服务*
@@ -115,7 +115,7 @@ $ sudo apt-get install samba krb5-user krb5-config winbind libpam-winbind libnss
 6、 下一步，输入你的域中 Kerberos 服务器的主机名。使用和上面相同的名字，这一次使用**小写**，然后单击回车继续。
 
 
-![Set Hostname Kerberos Server](/Asserts/Images//attachment/album/201612/26/174623sfp261fy1666oy4t.png)
+![Set Hostname Kerberos Server](/Asserts/Images/album/201612/26/174623sfp261fy1666oy4t.png)
 
 
 *设置 Kerberos 服务器的主机名*
@@ -124,7 +124,7 @@ $ sudo apt-get install samba krb5-user krb5-config winbind libpam-winbind libnss
 7、 最后，指定 Kerberos realm 管理服务器的主机名。使用更上面相同的名字，单击回车安装完成。
 
 
-![Set Hostname Administrative Server](/Asserts/Images//attachment/album/201612/26/174623ngmtgbg0gnpd1um5.png)
+![Set Hostname Administrative Server](/Asserts/Images/album/201612/26/174623ngmtgbg0gnpd1um5.png)
 
 
 *设置管理服务器的主机名*
@@ -164,7 +164,7 @@ $ sudo samba-tool domain provision --use-rfc2307 –interactive
 
 ```
 
-![Samba Domain Provisioning](/Asserts/Images//attachment/album/201612/26/174624cvativsroh3etzks.png)
+![Samba Domain Provisioning](/Asserts/Images/album/201612/26/174624cvativsroh3etzks.png)
 
 
 *Samba 域供给*
@@ -180,7 +180,7 @@ $ sudo ln –s /var/lib/samba/private/krb5.conf /etc/
 
 ```
 
-![Create Kerberos Configuration](/Asserts/Images//attachment/album/201612/26/174624nzk97dukuh961haf.png)
+![Create Kerberos Configuration](/Asserts/Images/album/201612/26/174624nzk97dukuh961haf.png)
 
 
 *创建 Kerberos 配置文件*
@@ -197,7 +197,7 @@ $ sudo systemctl enable samba-ad-dc.service
 
 ```
 
-![Enable Samba Active Directory Domain Controller](/Asserts/Images//attachment/album/201612/26/174625kna87hnh6l6bbnb2.png)
+![Enable Samba Active Directory Domain Controller](/Asserts/Images/album/201612/26/174625kna87hnh6l6bbnb2.png)
 
 
 *开启 Samba 活动目录域控制器服务*
@@ -212,7 +212,7 @@ $ sudo netstat –tulpn| egrep ‘smbd|samba’
 
 ```
 
-![Verify Samba Active Directory](/Asserts/Images//attachment/album/201612/26/174625kq7ynsmo7cpc0pst.png)
+![Verify Samba Active Directory](/Asserts/Images/album/201612/26/174625kq7ynsmo7cpc0pst.png)
 
 
 *验证 Samba 活动目录*
@@ -233,7 +233,7 @@ $ sudo samba-tool domain level show
 
 ```
 
-![Verify Samba Domain Level](/Asserts/Images//attachment/album/201612/26/174626l8b506acbnlj9nnb.png)
+![Verify Samba Domain Level](/Asserts/Images/album/201612/26/174626l8b506acbnlj9nnb.png)
 
 
 *验证 Samba 域服务级别*
@@ -249,7 +249,7 @@ $ sudo cat /etc/resolv.conf
 
 ```
 
-![Configure DNS for Samba AD](/Asserts/Images//attachment/album/201612/26/174627kawvsz299mckw1zd.png)
+![Configure DNS for Samba AD](/Asserts/Images/album/201612/26/174627kawvsz299mckw1zd.png)
 
 
 *为 Samba 配置 DNS 服务器地址*
@@ -269,7 +269,7 @@ $ ping –c3 adc1              # 主机
 
 ```
 
-![Check Samba AD DNS Records](/Asserts/Images//attachment/album/201612/26/174627kaximyu6ya2yy2vu.png)
+![Check Samba AD DNS Records](/Asserts/Images/album/201612/26/174627kaximyu6ya2yy2vu.png)
 
 
 *检查 Samba AD DNS 记录*
@@ -297,7 +297,7 @@ $ klist
 
 ```
 
-![Check Kerberos Authentication on Domain](/Asserts/Images//attachment/album/201612/26/174628dbfeq1gzf2q15077.png)
+![Check Kerberos Authentication on Domain](/Asserts/Images/album/201612/26/174628dbfeq1gzf2q15077.png)
 
 
 *检查域环境中的 Kerberos 认证是否正确*

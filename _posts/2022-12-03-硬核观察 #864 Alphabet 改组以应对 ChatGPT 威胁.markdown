@@ -7,10 +7,10 @@ tags:	[linuxcn,ChatGPT,谷歌,Ubuntu Touch]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/28/171254n90697xpq4jdxqjn.jpg)
+![](/Asserts/Images/album/202212/28/171254n90697xpq4jdxqjn.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/28/171652ehhwtwr5rin9z2ph.jpg)
+![](/Asserts/Images/album/202212/28/171652ehhwtwr5rin9z2ph.jpg)
 
 
 ### Alphabet 改组以应对 ChatGPT 威胁
@@ -35,7 +35,7 @@ tags:	[linuxcn,ChatGPT,谷歌,Ubuntu Touch]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/28/171707g933tez9eoi4o2bo.jpg)
+![](/Asserts/Images/album/202212/28/171707g933tez9eoi4o2bo.jpg)
 
 
 ### Meta 和 Alphabet 失去对数字广告市场的主导地位
@@ -60,7 +60,7 @@ tags:	[linuxcn,ChatGPT,谷歌,Ubuntu Touch]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/28/171722klri6yfus7ydb6ng.jpg)
+![](/Asserts/Images/album/202212/28/171722klri6yfus7ydb6ng.jpg)
 
 
 ### 基于 20.04 的 Ubuntu Touch 发布测试版

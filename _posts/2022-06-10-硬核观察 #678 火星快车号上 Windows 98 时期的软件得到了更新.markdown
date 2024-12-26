@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows 98,ARM,openKylin]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/25/175419hfjffmtne9rf7v7e.jpg)
+![](/Asserts/Images/album/202206/25/175419hfjffmtne9rf7v7e.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/25/175426ohmsxx4n5jydhmyb.jpg)
+![](/Asserts/Images/album/202206/25/175426ohmsxx4n5jydhmyb.jpg)
 
 
 ### 火星快车号上 Windows 98 时期的软件得到了更新
@@ -35,7 +35,7 @@ tags:	[linuxcn,Windows 98,ARM,openKylin]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/25/175450c77ttj7y7yt5iytr.jpg)
+![](/Asserts/Images/album/202206/25/175450c77ttj7y7yt5iytr.jpg)
 
 
 ### ARM 最初的操作系统 35 年后仍在更新
@@ -60,7 +60,7 @@ tags:	[linuxcn,Windows 98,ARM,openKylin]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/25/175507spctttlap1rqir8l.jpg)
+![](/Asserts/Images/album/202206/25/175507spctttlap1rqir8l.jpg)
 
 
 ### “首个桌面操作系统根社区” openKylin 发布

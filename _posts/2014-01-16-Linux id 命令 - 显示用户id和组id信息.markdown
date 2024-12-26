@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,命令,id,用户,技巧,教程]
 要登入一台计算机，我们需要一个用户名。用户名是一个可以被计算机识别的身份。基于此，计算机会对使用这个用户名的登陆的人应用一系列的规则。在Linux系统下，我们可以使用 **id** 命令。
 
 
-![](/Asserts/Images//attachment/album/201401/24/224330reqemanyys28hmhf.png)
+![](/Asserts/Images/album/201401/24/224330reqemanyys28hmhf.png)
 
 
 ### 什么是 id 命令
@@ -28,7 +28,7 @@ tags:	[linuxcn,Linux,命令,id,用户,技巧,教程]
 $ id
 
 
-![id默认输出](/Asserts/Images//attachment/album/201401/24/224340paeu2a2r2laqhg7p.png)
+![id默认输出](/Asserts/Images/album/201401/24/224340paeu2a2r2laqhg7p.png)
 
 
 #### 如何读取输出:
@@ -63,7 +63,7 @@ id 命令可以使用一些选项。下面有一些在日常使用中有用的�
 $ id -a
 
 
-![-a 选项](/Asserts/Images//attachment/album/201401/24/224341fmeq0vuumq0mvexx.png)
+![-a 选项](/Asserts/Images/album/201401/24/224341fmeq0vuumq0mvexx.png)
 
 
 #### 输出所有不同的组ID (有效的，真实的和补充的)
@@ -75,7 +75,7 @@ $ id -a
 $ id -G
 
 
-![-G 选项](/Asserts/Images//attachment/album/201401/24/224342aicobkik2byb7pjr.png)
+![-G 选项](/Asserts/Images/album/201401/24/224342aicobkik2byb7pjr.png)
 
 
 结果只会显示 GID 号。你可以和 **/etc/group** 文件比较。下面是 **/etc/group** 文件的示例内容：
@@ -118,7 +118,7 @@ winbindd_priv:x:125:
 $ id -g
 
 
-![-g 选项](/Asserts/Images//attachment/album/201401/24/224343tn8sxsz5qsnoyoxp.png)
+![-g 选项](/Asserts/Images/album/201401/24/224343tn8sxsz5qsnoyoxp.png)
 
 
 #### 输出特定用户信息
@@ -130,7 +130,7 @@ $ id -g
 $ id leni
 
 
-![leni 用户](/Asserts/Images//attachment/album/201401/24/224344322ijx4qnbv2noa7.png)
+![leni 用户](/Asserts/Images/album/201401/24/224344322ijx4qnbv2noa7.png)
 
 
 上面的命令会打印用户 **leni** 的 UID 和 GID。

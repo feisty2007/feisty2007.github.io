@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201912/05/064953aelh05hk0hfz00fe.jpg)
+![](/Asserts/Images/album/201912/05/064953aelh05hk0hfz00fe.jpg)
 
 
 Linux 中有很多可以查看系统信息如处理器信息、生产商名字、序列号等的命令。你可能需要执行多个命令来收集这些信息。同时，记住所有的命令和他们的选项也是有难度。

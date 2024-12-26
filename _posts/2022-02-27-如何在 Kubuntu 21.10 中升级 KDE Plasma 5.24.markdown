@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/17/093727qw3js653lzksscfw.jpg)
+![](/Asserts/Images/album/202202/17/093727qw3js653lzksscfw.jpg)
 
 
 
@@ -62,13 +62,13 @@ sudo add-apt-repository ppa:kubuntu-ppa/backports
 
 ```
 
-![Add the PPA](/Asserts/Images//attachment/album/202202/17/093750j8ldgq1py7031406.jpg)
+![Add the PPA](/Asserts/Images/album/202202/17/093750j8ldgq1py7031406.jpg)
 
 
 现在，刷新软件包列表并验证最新的 5.24 软件包是否可供升级。
 
 
-![Check the latest KDE Plasma 5.24 packages before upgrading](/Asserts/Images//attachment/album/202202/17/093751ob0iydb4yyqsu5ug.jpg)
+![Check the latest KDE Plasma 5.24 packages before upgrading](/Asserts/Images/album/202202/17/093751ob0iydb4yyqsu5ug.jpg)
 
 
 现在运行最后的命令来启动升级。
@@ -86,7 +86,7 @@ sudo apt full-upgrade
 而你应该通过 Kubuntu 21.10 Impish Indri 获得了全新的 KDE Plasma 5.24。
 
 
-![KDE Plasma 5.24 in Kubuntu 21.10](/Asserts/Images//attachment/album/202202/17/093751pwtwdwtw7xlyu17w.jpg)
+![KDE Plasma 5.24 in Kubuntu 21.10](/Asserts/Images/album/202202/17/093751pwtwdwtw7xlyu17w.jpg)
 
 
 #### 如何在 Ubuntu 21.10 中与 GNOME 一起安装 KDE Plasma 5.24

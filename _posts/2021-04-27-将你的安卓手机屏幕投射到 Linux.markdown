@@ -15,7 +15,7 @@ tags:	[linuxcn,手机,安卓]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/20/162346alpbh85xz26xcb5h.jpg "A person looking at a phone")
+![](/Asserts/Images/album/202104/20/162346alpbh85xz26xcb5h.jpg "A person looking at a phone")
 
 
 要远离我们日常使用的电子产品是很难的。在熙熙攘攘的现代生活中，我想确保我不会错过手机屏幕上弹出的来自朋友和家人的重要信息。我也很忙，不希望迷失在令人分心的事情中，但是拿起手机并且回复信息往往会使我分心。
@@ -76,7 +76,7 @@ Scrcpy 安装好后，你必须启用 USB 调试并授权每个设备（你的�
 接下来，启用“USB 调试”。
 
 
-![Enable USB Debugging option](/Asserts/Images//attachment/album/202104/20/162410cp1gqxqueloeuost.jpg "Enable USB Debugging option")
+![Enable USB Debugging option](/Asserts/Images/album/202104/20/162410cp1gqxqueloeuost.jpg "Enable USB Debugging option")
 
 
 然后通过 USB 将手机连接到你的树莓派或者笔记本电脑（或者你正在使用的任何设备），如果可以选择的话，将模式设置为 [PTP](https://en.wikipedia.org/wiki/Picture_Transfer_Protocol)。如果你的手机不能使用 PTP，将你的手机设置为用于传输文件的模式（而不是，作为一个<ruby> 叠接 <rt>  tethering </rt></ruby>或者 MIDI 设备）。
@@ -105,7 +105,7 @@ Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 然后执行 `scrcpy` 以默认设置运行。
 
 
-![Scrcpy running on a Raspberry Pi](/Asserts/Images//attachment/album/202104/20/162411i0p6l5y1dt60e06d.jpg "Scrcpy running on a Raspberry Pi")
+![Scrcpy running on a Raspberry Pi](/Asserts/Images/album/202104/20/162411i0p6l5y1dt60e06d.jpg "Scrcpy running on a Raspberry Pi")
 
 
 性能和响应能力取决于你使用什么设备来控制你的手机。在树莓派派上，一些动画可能会变慢，甚至有时候会响应滞后。Scrcpy 提供了一个简单的解决办法：降低 Scrcpy 显示图像的位速率和分辨率使得你的计算机能够容易显示动画。使用以下命令来实现：
@@ -126,7 +126,7 @@ $ scrcpy --bit-rate 1M --max-size 800
 Scrcpy 开始运行后，你甚至可以通过 WiFi 连接你的手机和计算机。Scrcpy 安装过程也会安装 `adb`，它是一个与安卓设备通信的命令。Scrcpy 也可以使用这个命令与你的设备通信，`adb` 可以通过 TCP/IP 连接。
 
 
-![Scrcpy running on a computer](/Asserts/Images//attachment/album/202104/20/162412thlc45t3hl32l202.png "Scrcpy running on a computer")
+![Scrcpy running on a computer](/Asserts/Images/album/202104/20/162412thlc45t3hl32l202.png "Scrcpy running on a computer")
 
 
 要尝试的话，请确保你的手机通过 WiFi 连在与你的计算机所使用的相同的无线网络上。依然不要断开你的手机与 USB 的连接！

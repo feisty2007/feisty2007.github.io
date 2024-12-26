@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派]
 > 
 
 
-![How to control GPIO pins and operate relays with the Raspberry Pi](/Asserts/Images//attachment/album/201706/13/221425wq7gz3i7yl0ilggt.jpg "How to control GPIO pins and operate relays with the Raspberry Pi")
+![How to control GPIO pins and operate relays with the Raspberry Pi](/Asserts/Images/album/201706/13/221425wq7gz3i7yl0ilggt.jpg "How to control GPIO pins and operate relays with the Raspberry Pi")
 
 
 你是否曾经想知道怎样使用手机或者电脑在任何地方控制你的风扇和灯等一些家用电器？
@@ -73,7 +73,7 @@ sudo nano /etc/network/interfaces
 用 `nano` 打开这个文件后，你会看到这样一个界面：
 
 
-![File editor nano](/Asserts/Images//attachment/album/201706/13/221426wvszjemmzmdjvu6v.png "File editor nano")
+![File editor nano](/Asserts/Images/album/201706/13/221426wvszjemmzmdjvu6v.png "File editor nano")
 
 
 4、要配置你的无线网络，按照下面所示修改这个文件：
@@ -127,7 +127,7 @@ sudo apt-get install apache2 -y
 安装完成后，可以在浏览器地址栏输入树莓派的 IP 地址来测试 web 服务器。如果你可以获得下面图片的内容，说明你已经成功地安装并设置好了你的服务器。
 
 
-![Successful server setup](/Asserts/Images//attachment/album/201706/13/221427a3gvppwcrru6gnr3.png "Successful server setup")
+![Successful server setup](/Asserts/Images/album/201706/13/221427a3gvppwcrru6gnr3.png "Successful server setup")
 
 
 要改变这个默认的页面和添加你自己的 html 文件，进入 `var/www/html` 目录：
@@ -277,7 +277,7 @@ gpio -v gpio readall
 * 黄线是 GPIO 线。
 
 
-![GPIO image](/Asserts/Images//attachment/album/201706/13/221428zfqa01b46b6x386k.png "GPIO image")
+![GPIO image](/Asserts/Images/album/201706/13/221428zfqa01b46b6x386k.png "GPIO image")
 
 
 连线：
@@ -350,7 +350,7 @@ DS18B20 会周期性的将数据写入文件 `w1_slave`，所以你只需要使�
 2、 现在将跳线的另一端连接到继电器板。GND 连接到继电器上的 GND，GPIO 输出线连接到继电器的通道引脚号，这取决于你正使用的继电器型号。记住，将树莓派上的 GND 与继电器上的 GND 连接连接起来，树莓派上的 GPIO 输出连接继电器上的输入引脚。
 
 
-![Headers](/Asserts/Images//attachment/album/201706/13/221429upee9x53gi7e8988.png "Headers")
+![Headers](/Asserts/Images/album/201706/13/221429upee9x53gi7e8988.png "Headers")
 
 
 注意！将继电器连接树莓派的时候小心一些，因为它可能会导致电流回流，这会造成短路。

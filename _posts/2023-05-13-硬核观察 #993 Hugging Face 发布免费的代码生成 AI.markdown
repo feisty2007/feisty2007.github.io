@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Gmail]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/06/181046voytpiyolthlb6bp.jpg)
+![](/Asserts/Images/album/202305/06/181046voytpiyolthlb6bp.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/06/181056fcrccr2yj0lybeyc.jpg)
+![](/Asserts/Images/album/202305/06/181056fcrccr2yj0lybeyc.jpg)
 
 
 ### Hugging Face 发布免费的代码生成 AI
@@ -35,7 +35,7 @@ AI 可以大幅削减开发成本，同时让编码员专注于更有创造性�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/06/181104rb0i2os8chtxceoi.jpg)
+![](/Asserts/Images/album/202305/06/181104rb0i2os8chtxceoi.jpg)
 
 
 ### Gmail 开始在收件箱中间显示广告
@@ -60,7 +60,7 @@ AI 可以大幅削减开发成本，同时让编码员专注于更有创造性�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/06/181120qj6j164e6mj86u6j.jpg)
+![](/Asserts/Images/album/202305/06/181120qj6j164e6mj86u6j.jpg)
 
 
 ### OpenAI 不再依赖 API 客户的数据来训练

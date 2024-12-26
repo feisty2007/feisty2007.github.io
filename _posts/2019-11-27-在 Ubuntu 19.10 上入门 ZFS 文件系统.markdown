@@ -7,7 +7,7 @@ tags:	[linuxcn,ZFS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/21/081609la0a7c7kpypppkt8.jpg)
+![](/Asserts/Images/album/201911/21/081609la0a7c7kpypppkt8.jpg)
 
 
 Ubuntu 19.10 的主要新特性之一就是 [ZFS](/article-10034-1.html)。现在你可以很容易的无需额外努力就可以在 Ubuntu 系统上安装 ZFS了。
@@ -16,7 +16,7 @@ Ubuntu 19.10 的主要新特性之一就是 [ZFS](/article-10034-1.html)。现�
 一般情况下，安装 Linux 都会选择 Ext4 文件系统。但是如果是全新安装 Ubuntu 19.10，在安装的启动阶段可以看到 ZFS 选项。
 
 
-![你可以在安装 Ubuntu 19.10 的时候选择 ZFS](/Asserts/Images//attachment/album/201911/21/081613mzv9vj4a0v790ss0.jpg)
+![你可以在安装 Ubuntu 19.10 的时候选择 ZFS](/Asserts/Images/album/201911/21/081613mzv9vj4a0v790ss0.jpg)
 
 
 让我们看看 ZFS 为何重要，以及如何在已经安装了 ZFS 的 Ubuntu 上使用它。
@@ -91,7 +91,7 @@ sudo zpool add pool-name /dev/sdx
 sudo zpool status pool-test
 ```
 
-![Zpool 状态](/Asserts/Images//attachment/album/201911/21/081614bkaa04jjkjgsjxyj.png)
+![Zpool 状态](/Asserts/Images/album/201911/21/081614bkaa04jjkjgsjxyj.png)
 
 
 #### 镜像一个 ZFS 池
@@ -122,7 +122,7 @@ sudo zpool create pool-test mirror /dev/sdb /dev/sdc /dev/sdd
 zfs list
 ```
 
-![Zfs List](/Asserts/Images//attachment/album/201911/21/081616d4qfpf5l50fwal0a.png)
+![Zfs List](/Asserts/Images/album/201911/21/081616d4qfpf5l50fwal0a.png)
 
 
 你可以看到我的家目录位于 `rpool/USERDATA/johnblood_uwcjk7`。

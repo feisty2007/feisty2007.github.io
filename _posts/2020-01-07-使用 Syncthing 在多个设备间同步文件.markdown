@@ -15,7 +15,7 @@ tags:	[linuxcn,Syncthing,同步]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/18/123416rebvs7sjwm6c889y.jpg)
+![](/Asserts/Images/album/202001/18/123416rebvs7sjwm6c889y.jpg)
 
 
 去年，我在 19 天里给你介绍了 19 个新（对你而言）的生产力工具。今年，我换了一种方式：使用你在使用或者还没使用的工具，构建一个使你可以在新一年更加高效的环境。
@@ -30,7 +30,7 @@ tags:	[linuxcn,Syncthing,同步]
 然后我偶然发现了 [Syncthing](https://syncthing.net/)。
 
 
-![syncthing console](/Asserts/Images//attachment/album/202001/18/123432snnac64vn555rcng.png "syncthing console")
+![syncthing console](/Asserts/Images/album/202001/18/123432snnac64vn555rcng.png "syncthing console")
 
 
 Syncthing 是一个轻量级的点对点文件同步系统。你不需要为服务付费，也不需要第三方服务器，而且速度很快。以我的经验，比文件同步中的许多“大牌”要快得多。
@@ -39,13 +39,13 @@ Syncthing 是一个轻量级的点对点文件同步系统。你不需要为服�
 Syncthing 可在 Linux、MacOS、Windows 和多种 BSD 中使用。还有一个 Android 应用（但尚无官方 iOS 版本）。以上所有终端都有方便的图形化前端（尽管我不会在这里介绍）。在 Linux 上，大多数发行版都有可用的软件包，因此安装非常简单。
 
 
-![Installing Syncthing on Ubuntu](/Asserts/Images//attachment/album/202001/18/123441csudwrfs5rksro5r.png "Installing Syncthing on Ubuntu")
+![Installing Syncthing on Ubuntu](/Asserts/Images/album/202001/18/123441csudwrfs5rksro5r.png "Installing Syncthing on Ubuntu")
 
 
 首次启动 Syncthing 时，它将启动 Web 浏览器以配置守护程序。第一台计算机上没有太多要做，但是这是一个很好的机会来介绍一下用户界面 （UI）。最重要的是在右上方的 “Actions” 菜单下的 “System ID”。
 
 
-![Machine ID](/Asserts/Images//attachment/album/202001/18/123442zw0h0ipe0h8i38wg.png "Machine ID")
+![Machine ID](/Asserts/Images/album/202001/18/123442zw0h0ipe0h8i38wg.png "Machine ID")
 
 
 设置第一台计算机后，请在第二台计算机上重复安装。在 UI 中，右下方将显示一个按钮，名为 “Add Remote Device”。单击该按钮，你将会看到一个要求输入 “Device ID and a Name” 的框。从第一台计算机上复制并粘贴 “Device ID”，然后单击 “Save”。
@@ -54,7 +54,7 @@ Syncthing 可在 Linux、MacOS、Windows 和多种 BSD 中使用。还有一个 
 你应该会在第一台上看到一个请求添加第二台的弹出窗口。接受后，新机器将显示在第一台机器的右下角。与第二台计算机共享默认目录。单击 “Default Folder”，然后单击 “Edit” 按钮。弹出窗口的顶部有四个链接。单击 “Sharing”，然后选择第二台计算机。单击 “Save”，然后查看第二台计算机。你会看到一个接受共享目录的提示。接受后，它将开始在两台计算机之间同步文件。
 
 
-![Sharing a directory in Syncthing](/Asserts/Images//attachment/album/202001/18/123443qzsqg4n9w93c0cl6.png "Sharing a directory in Syncthing")
+![Sharing a directory in Syncthing](/Asserts/Images/album/202001/18/123443qzsqg4n9w93c0cl6.png "Sharing a directory in Syncthing")
 
 
 测试从一台计算机上复制文件到默认目录（“/你的家目录/Share”）。它应该很快会在另一台上出现。

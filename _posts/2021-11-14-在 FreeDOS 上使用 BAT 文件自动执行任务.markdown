@@ -15,7 +15,7 @@ tags:	[linuxcn,FreeDOS,批处理]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/10/104345whfjagaahm9nb2j3.jpg "Tips and gears turning")
+![](/Asserts/Images/album/202111/10/104345whfjagaahm9nb2j3.jpg "Tips and gears turning")
 
 
 即使你以前没有使用过 DOS，你也可能知道它的命令行 shell，即 `COMMAND.COM`。它已经成为 DOS 的同义词，FreeDOS 为此也实现了一个类似的 shell，称为 “FreeCOM”，但也命名为 `COMMAND.COM`，就像在其他 DOS 系统上一样。

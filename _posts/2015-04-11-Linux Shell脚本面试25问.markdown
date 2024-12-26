@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/20/150204htfznh8zzw3alua8.jpg)
+![](/Asserts/Images/album/201504/20/150204htfznh8zzw3alua8.jpg)
 
 
 ### Q:1 Shell脚本是什么、它是必需的吗?

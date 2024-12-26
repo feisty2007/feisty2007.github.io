@@ -7,7 +7,7 @@ tags:	[linuxcn,防火墙,nftables,iptables]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/11/150831cohylvolcyfxaza4.jpg)
+![](/Asserts/Images/album/202005/11/150831cohylvolcyfxaza4.jpg)
 
 
 随着各 GNU/Linux 系统厂商以及社区逐步开始采用新的内核作为其发行版本的默认内核，防火墙机制采用了更新的 nftables 防火墙机制。

@@ -7,7 +7,7 @@ tags:	[linuxcn,LinuxCon,Linus Torvalds]
 ---
 
 
-![](/Asserts/Images//attachment/album/201309/28/090518cyqqcdh66oqql3oc.png)
+![](/Asserts/Images/album/201309/28/090518cyqqcdh66oqql3oc.png)
 
 
 **LinuxCon大会**是北美每年一度的Linux盛事，这里集合了开发者、系统管理员、架构师以及各个水平的技术天才，他们就Linux未来的发展共同商讨教育、合作以及问题的解决之道。

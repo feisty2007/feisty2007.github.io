@@ -13,7 +13,7 @@ tags:	[linuxcn,svn,subversion,websvn]
 WebSVN 将 Svbverion 的操作你的仓库的各种功能通过 Web 界面提供出来。通过它，我们可以看到任何给定版本的任何文件或者目录的日志，并且可看到所有文件改动、添加、删除的列表。我们同样可以查看两个版本间的差异来知道特定版本改动了什么。
 
 
-![](/Asserts/Images//attachment/album/201503/31/130653nf881h288fz9fglh.png)
+![](/Asserts/Images/album/201503/31/130653nf881h288fz9fglh.png)
 
 
 ### 特性
@@ -62,7 +62,7 @@ $ sudo -s
 
 ```
 
-![downloading websvn package](/Asserts/Images//attachment/album/201503/31/130700f72uddss9ti9ssum.png)
+![downloading websvn package](/Asserts/Images/album/201503/31/130700f72uddss9ti9ssum.png)
 
 
 这里，我下载的是最新的2.3.3版本的 websvn。你可以从上面这个网站找到下载链接，用适合你的包的链接来替换上面的链接。
@@ -79,7 +79,7 @@ $ sudo -s
 
 ```
 
-![extracting websvn](/Asserts/Images//attachment/album/201503/31/130703qxnnxqwf6xxnxxnv.png)
+![extracting websvn](/Asserts/Images/album/201503/31/130703qxnnxqwf6xxnxxnv.png)
 
 
 ### 3. 安装php
@@ -91,7 +91,7 @@ $ sudo -s
 
 ```
 
-![yum install php](/Asserts/Images//attachment/album/201503/31/130705lnk1ym11w4emvy1e.png)
+![yum install php](/Asserts/Images/album/201503/31/130705lnk1ym11w4emvy1e.png)
 
 
 ### 4. 编辑WebSVN配置
@@ -143,7 +143,7 @@ $extEnscript[".sh"] = "bash";
 
 ```
 
-![websvn config file](/Asserts/Images//attachment/album/201503/31/130708jqquusnrunt0rqqy.png)
+![websvn config file](/Asserts/Images/album/201503/31/130708jqquusnrunt0rqqy.png)
 
 
 ### 5. 启动 WebSVN
@@ -161,7 +161,7 @@ $extEnscript[".sh"] = "bash";
 接着我们在浏览器中打开WebSVN，输入 http:// IP地址/websvn ，或者你在本地的话，你可以输入 http://localhost/websvn 。
 
 
-![websvn successfully installed](/Asserts/Images//attachment/album/201503/31/130710ch0z9shr310cocjz.png)
+![websvn successfully installed](/Asserts/Images/album/201503/31/130710ch0z9shr310cocjz.png)
 
 
 **注意**: 如果你遇到一个像"Unable to find "enscript" tool at location "/usr/bin/enscript"这样的问题，那么你需要使用“yum install enscript”安装enscript来修复这个问题。

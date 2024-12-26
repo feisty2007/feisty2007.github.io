@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,浏览器,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/18/154850cfezxq9tmu0tvxtl.jpg)
+![](/Asserts/Images/album/202202/18/154850cfezxq9tmu0tvxtl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/18/154902v94gk8kz5gjl4bzg.jpg)
+![](/Asserts/Images/album/202202/18/154902v94gk8kz5gjl4bzg.jpg)
 
 
 ### Mozilla 年入 5 亿美元，正在寻求新的收入来源
@@ -27,7 +27,7 @@ tags:	[linuxcn,Firefox,浏览器,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/18/154916s5kgqqzchkcs855g.jpg)
+![](/Asserts/Images/album/202202/18/154916s5kgqqzchkcs855g.jpg)
 
 
 ### DeepMind 训练人工智能控制核聚变
@@ -44,7 +44,7 @@ tags:	[linuxcn,Firefox,浏览器,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/18/154927irs5uqu84asggdgs.jpg)
+![](/Asserts/Images/album/202202/18/154927irs5uqu84asggdgs.jpg)
 
 
 ### Chrome 和 Firefox 的版本号即将破百

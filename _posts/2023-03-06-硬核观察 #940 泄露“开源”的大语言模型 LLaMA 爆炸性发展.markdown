@@ -7,10 +7,10 @@ tags:	[linuxcn,WordPress,NFT,LLaMA]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/14/182120qt8tilst0uuint89.jpg)
+![](/Asserts/Images/album/202303/14/182120qt8tilst0uuint89.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/14/182139m75287kvlxkyyay8.jpg)
+![](/Asserts/Images/album/202303/14/182139m75287kvlxkyyay8.jpg)
 
 
 ### 泄露“开源”的大语言模型 LLaMA 爆炸性发展
@@ -35,7 +35,7 @@ tags:	[linuxcn,WordPress,NFT,LLaMA]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/14/182151tx4qqr42rprd6wr3.jpg)
+![](/Asserts/Images/album/202303/14/182151tx4qqr42rprd6wr3.jpg)
 
 
 ### WordPress 拥抱去中心化社交网络
@@ -60,7 +60,7 @@ WordPress 和 Tumblr 等服务的母公司 Automattic 收购了 ActivityPub for 
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/14/182204muvqsmz647eim7uv.jpg)
+![](/Asserts/Images/album/202303/14/182204muvqsmz647eim7uv.jpg)
 
 
 ### Meta 停止对 NFT 的支持

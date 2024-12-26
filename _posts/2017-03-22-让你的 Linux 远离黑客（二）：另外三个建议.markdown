@@ -7,7 +7,7 @@ tags:	[linuxcn,安全,黑客]
 ---
 
 
-![security tips](/Asserts/Images//attachment/album/201703/26/183259jhy792ygdyp9097y.jpg "security tips")
+![security tips](/Asserts/Images/album/201703/26/183259jhy792ygdyp9097y.jpg "security tips")
 
 
 在这个系列中， 我们会讨论一些阻止黑客入侵你的系统的重要信息。观看这个免费的网络点播研讨会获取更多的信息。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/28/170903lijh6axllqqei9bx.jpg)
+![](/Asserts/Images/album/202303/28/170903lijh6axllqqei9bx.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,Ubuntu]
 * 最终版本：2023 年 4 月 20 日
 
 
-![Ubuntu 23.04 Lunar Lobster Daily Live desktop](/Asserts/Images//attachment/album/202303/28/171107y4jj9156z3ezgs5f.jpg)
+![Ubuntu 23.04 Lunar Lobster Daily Live desktop](/Asserts/Images/album/202303/28/171107y4jj9156z3ezgs5f.jpg)
 
 
 ### Ubuntu 23.04 的新功能
@@ -45,16 +45,16 @@ tags:	[linuxcn,Ubuntu]
 Ubuntu 新的基于 Rust 的桌面安装程序终于可以在这个版本中体验了。这项工作历经了两年多的时间。在经历了许多障碍和关键错误的修复后，现在已经稳定到可以在正式版本中发布。从这个版本开始，经典的 Ubiquity 被全新的安装程序所取代，如下面一组图片所示：
 
 
-![新的 Ubuntu 安装程序--主页面](/Asserts/Images//attachment/album/202303/28/171115z2yu33kmhhz9us2u.jpg)
+![新的 Ubuntu 安装程序--主页面](/Asserts/Images/album/202303/28/171115z2yu33kmhhz9us2u.jpg)
 
 
-![分区摘要页](/Asserts/Images//attachment/album/202303/28/171123pmkwrmac4ka46nu5.jpg)
+![分区摘要页](/Asserts/Images/album/202303/28/171123pmkwrmac4ka46nu5.jpg)
 
 
-![外观变化](/Asserts/Images//attachment/album/202303/28/171130w6rbyvvof7rbvfr1.jpg)
+![外观变化](/Asserts/Images/album/202303/28/171130w6rbyvvof7rbvfr1.jpg)
 
 
-![用户信息页面](/Asserts/Images//attachment/album/202303/28/171137izjlhhsbwpiaih9h.jpg)
+![用户信息页面](/Asserts/Images/album/202303/28/171137izjlhhsbwpiaih9h.jpg)
 
 
 然而，正如我从一些消息来源听到的，旧的 Uqiuity 将继续保留（直到明年）。但我不完全确定旧的安装程序将如何启动。因为默认的 <ruby> 立付介质 <rt>  Live Media </rt></ruby> 会启动新的安装程序。
@@ -75,10 +75,10 @@ Ubuntu 新的基于 Rust 的桌面安装程序终于可以在这个版本中体�
 Ubuntu 23.04 桌面版采用了 GNOME 44。这个版本的 GNOME 44 带来了一堆长期等待的更新。例如，在这个版本中，你可以在本地文件选取器对话框中体验到图像预览。此外，文件应用得到了期待已久的缺失功能，即原生的文件夹展开视图（树状视图）。你可以使用下面的设置来启用它。
 
 
-![新的可展开文件夹视图](/Asserts/Images//attachment/album/202303/28/171147ratj66xe4d3z71yq.jpg)
+![新的可展开文件夹视图](/Asserts/Images/album/202303/28/171147ratj66xe4d3z71yq.jpg)
 
 
-![启用树状视图的设置](/Asserts/Images//attachment/album/202303/28/171155ra3r59trt9lw1rth.jpg)
+![启用树状视图的设置](/Asserts/Images/album/202303/28/171155ra3r59trt9lw1rth.jpg)
 
 
 在 GNOME 44 中的其他关键变化包括：文件应用现在支持在粘贴图像数据时创建文件，改进的无障碍设置页面可以提供更好的导航，以及大大改进的 GNOME 网页浏览器。
@@ -140,7 +140,7 @@ Ubuntu 23.04 的默认应用程序集合一如既往地进行了升级。然而�
 你可以在这里阅读更多关于 [LibreOffice 7.5 的功能](https://www.debugpoint.com/libreoffice-7-5/)。
 
 
-![新的 LibreOffice 图标](/Asserts/Images//attachment/album/202303/28/171219judkecpp44ps41dn.jpg)
+![新的 LibreOffice 图标](/Asserts/Images/album/202303/28/171219judkecpp44ps41dn.jpg)
 
 
 Ubuntu 23.04 中其他应用程序的总结：
@@ -199,7 +199,7 @@ Ubuntu Budgie 23.04 带来了一些令人兴奋的功能，如边缘平铺、热
 这里是默认的一张。而其余的你可以在 [这里](https://discourse.ubuntu.com/t/lunar-lobster-23-04-wallpaper-competition/33132) 找到。
 
 
-![Ubuntu 23.04 Lunar Lobster 默认壁纸](/Asserts/Images//attachment/album/202303/28/171228d9b2y11z29vr2bor.jpg)
+![Ubuntu 23.04 Lunar Lobster 默认壁纸](/Asserts/Images/album/202303/28/171228d9b2y11z29vr2bor.jpg)
 
 
 ### 下载

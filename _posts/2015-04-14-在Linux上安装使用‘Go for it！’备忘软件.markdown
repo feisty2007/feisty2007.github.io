@@ -7,7 +7,7 @@ tags:	[linuxcn,备忘软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/27/102743gcjp3cv7jp4kkz66.jpg)
+![](/Asserts/Images/album/201504/27/102743gcjp3cv7jp4kkz66.jpg)
 
 
 你在 Linux 桌面是如何管理任务和备忘的？我喜欢[用 Ubuntu 的粘帖便签](http://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/)很久了。但是我要面对与其他设备同步的麻烦，特别是我的智能手机。这就是我为什么选择使用 [Google Keep](http://itsfoss.com/install-google-keep-ubuntu-1310/) 的原因了。
@@ -50,25 +50,25 @@ sudo apt-get install go-for-it
 Go For It！使用真心方便。你只需添加任务到列表中，任务会自动存入 todo.txt 文件中。
 
 
-![](/Asserts/Images//attachment/album/201504/27/102743ri677zvt6t9yzii4.png)
+![](/Asserts/Images/album/201504/27/102743ri677zvt6t9yzii4.png)
 
 
 每个任务默认定时25分钟。
 
 
-![](/Asserts/Images//attachment/album/201504/27/102744wqoy5gi5ne9823zo.png)
+![](/Asserts/Images/album/201504/27/102744wqoy5gi5ne9823zo.png)
 
 
 任务一旦完成，就会被自动存档到 done.txt 文件中。根据设置，它会在规定的时间间隔或者任务过期前不久，发送桌面提醒：
 
 
-![](/Asserts/Images//attachment/album/201504/27/102744sk8ffbuzk4jb8rk5.png)
+![](/Asserts/Images/album/201504/27/102744sk8ffbuzk4jb8rk5.png)
 
 
 你可以从配置里面修改所有的偏好。
 
 
-![](/Asserts/Images//attachment/album/201504/27/102744d22njbxmu0tff0j7.png)
+![](/Asserts/Images/album/201504/27/102744d22njbxmu0tff0j7.png)
 
 
 目前一切都看着挺好。但是在智能手机上使用体验怎样呢？如果你不能使它在不同设备间同步，那这款高效软件就是不完整的。好消息是 Go For It！是基于 [todo.txt](http://todotxt.com/) 的，这意味着你可以用第三方软件和像 Dropbox 一样的云服务来使用它。
@@ -83,13 +83,13 @@ Go For It！使用真心方便。你只需添加任务到列表中，任务会�
 然后，你得去下载 [Simpletask Andriod app](https://play.google.com/store/apps/details?id=nl.mpcjanssen.todotxtholo&hl=en)。这是免费的应用。安装它。当你第一次运行 Simletask 的时候，你会被要求关联你的账号到 Dropbox：
 
 
-![](/Asserts/Images//attachment/album/201504/27/102745s2omwtiwb82bzbo4.jpg)
+![](/Asserts/Images/album/201504/27/102745s2omwtiwb82bzbo4.jpg)
 
 
 一旦你完成了 Simpletask 与 Dropbox 的关联，就可以打开应用了。如果你已经修改了 Go For It 的配置，将文件保存到Dropbox 上，你就应该可以在 Simpletask 里看到。而如果你没有看到，点击应用底部的设置，选择 Open Todo file 的选项：
 
 
-![](/Asserts/Images//attachment/album/201504/27/102745z5xexnffhwwsu2ah.jpg)
+![](/Asserts/Images/album/201504/27/102745z5xexnffhwwsu2ah.jpg)
 
 
 现在，你应该可以看到 Simpletask 同步的任务了。

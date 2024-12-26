@@ -7,13 +7,13 @@ tags:	[linuxcn,谷歌,Windows,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202104/28/083237xt545jj1tbt5a9l1.jpg)
+![](/Asserts/Images/album/202104/28/083237xt545jj1tbt5a9l1.jpg)
 
 
 ### DroidScript 软件被谷歌关闭后，开发者被蒙在鼓里
 
 
-![](/Asserts/Images//attachment/album/202104/28/083250vc0yzwiyuiemiqe5.jpg)
+![](/Asserts/Images/album/202104/28/083250vc0yzwiyuiemiqe5.jpg)
 
 
 据[报道](https://www.theregister.com/2021/04/27/droidscript_google_ban/)，3 月的最后一天，[DroidScript](https://droidscript.org/)，一个用于编写 JavaScript 代码的流行的安卓应用，因涉嫌广告欺诈，其谷歌广告账户被暂停，一周后被从谷歌商店中删除。该应用背后的公司称，这个应用程序只有一个横幅，是“为了支付我们的开发和托管费用而勉强添加的”，要求谷歌解释它是如何得出这一结论的，并重新考虑暂停DroidScript的做法，但只得到形式上的信件回复。
@@ -31,7 +31,7 @@ tags:	[linuxcn,谷歌,Windows,Fedora]
 ### Fedora 34 正式版发布
 
 
-![](/Asserts/Images//attachment/album/202104/28/083324jxd5bxnb7xo5cbbn.jpg)
+![](/Asserts/Images/album/202104/28/083324jxd5bxnb7xo5cbbn.jpg)
 
 
 Fedora 34 已经成功地从 PulseAudio 切换到 PipeWire 来满足其音频需求，并继续使用 Btrfs 作为默认的文件系统，而在此基础上已经默认启用了基于 Zstd 的透明文件系统压缩能力。系统工具链升级为GCC 11 / Binutils 2.35 / Glibc 2.33 / LLVM 12 的组合。除了GNOME 40作为Fedora工作站34的默认桌面，Fedora 34 还提供了最新的 KDE、Xfce 4.16、LXQt 0.16 和其他桌面选择。Wayland 默认用于 Fedora KDE Plasma 桌面版本。
@@ -43,7 +43,7 @@ Fedora 34 已经成功地从 PulseAudio 切换到 PipeWire 来满足其音频需
 ### 微软称 Windows 10 目前已有 13 亿台月活设备
 
 
-![](/Asserts/Images//attachment/album/202104/28/083402j7i7vwikiwcfww6i.jpg)
+![](/Asserts/Images/album/202104/28/083402j7i7vwikiwcfww6i.jpg)
 
 
 去年 3 月，微软表示，Windows 10 已经达到其长期承诺的 10 亿台月活设备目标。4 月 27 日，微软正式[表示](https://www.zdnet.com/article/microsoft-says-windows-10-now-on-1-3-billion-monthly-active-devices/)，Windows 10 现在已经达到 13 亿台月活设备目标。

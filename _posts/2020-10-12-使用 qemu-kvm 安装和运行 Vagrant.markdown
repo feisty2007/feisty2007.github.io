@@ -7,7 +7,7 @@ tags:	[linuxcn,Vagrant]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/03/094655p9j204bt8em0plje.png)
+![](/Asserts/Images/album/202010/03/094655p9j204bt8em0plje.png)
 
 
 Vagrant 是一个出色的工具，DevOps 专业人员、程序员、系统管理员和普通极客来使用它来建立可重复的基础架构来进行开发和测试。引用自它的网站：

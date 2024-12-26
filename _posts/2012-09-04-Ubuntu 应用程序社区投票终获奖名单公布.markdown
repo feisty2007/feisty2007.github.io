@@ -10,7 +10,7 @@ tags:	[linuxcn,Ubuntu,社区,投票]
 Ubuntu 社区投票应用程序在 Ubuntu 软件中心进行，三个应用程序获得了最终大奖，他们的奖品是由[Qt Project](http://qt-project.org/)提供的（http://qt-project.org/） Nokia N9 智能手机一部。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201209/19/103417fm6bmmapbzb2da0p.jpg](/Asserts/Images//attachment/album/201209/19/103417fm6bmmapbzb2da0p.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201209/19/103417fm6bmmapbzb2da0p.jpg](/Asserts/Images/album/201209/19/103417fm6bmmapbzb2da0p.jpg)
 
 
 全部参与投票应用程序请查看这里：<http://developer.ubuntu.com/showdown/apps/>，这里很多应用程序我们大家都应该试一试。
@@ -29,7 +29,7 @@ Ubuntu 社区投票应用程序在 Ubuntu 软件中心进行，三个应用程�
 Riudal 获得了最高得分，是大家最最喜爱的软件。Riudal 是一个经典的专为 Ubuntu 设计的双窗格文件管理器。它具有非常简单而又无缝的接合到 Ubuntu 桌面。
 
 
-![](/Asserts/Images//attachment/album/201209/19/103419lyxc1it7xnlosxxy.jpg "Ridual")
+![](/Asserts/Images/album/201209/19/103419lyxc1it7xnlosxxy.jpg "Ridual")
 
 
 下载地址：<https://apps.ubuntu.com/cat/applications/ridual/>
@@ -42,7 +42,7 @@ Riudal 获得了最高得分，是大家最最喜爱的软件。Riudal 是一个
 Orthcal 是一个日历程序，具有特定节日提醒的功能。
 
 
-![](/Asserts/Images//attachment/album/201209/19/1034228bgjmz3ccc3aacsr.jpg "Orthcal")
+![](/Asserts/Images/album/201209/19/1034228bgjmz3ccc3aacsr.jpg "Orthcal")
 
 
 下载地址：<https://apps.ubuntu.com/cat/applications/orthcal/>
@@ -55,7 +55,7 @@ Orthcal 是一个日历程序，具有特定节日提醒的功能。
 Cuttlefish 是一个桌面特定事件提醒工具，这个工具非常有创新性。使用了以后，你可以设置当某些特定事件发生的时候进行某项操作。比如您拔出了您的 USB 设备的时候，希望计算机自动某项工作。那么您就可以使用这个工具来实现。
 
 
-![](/Asserts/Images//attachment/album/201209/19/103424ksk55t3xx53olg7i.jpg "Cuttlefish")
+![](/Asserts/Images/album/201209/19/103424ksk55t3xx53olg7i.jpg "Cuttlefish")
 
 
 下载地址：<https://apps.ubuntu.com/cat/applications/cuttlefish/>
@@ -70,16 +70,16 @@ Cuttlefish 是一个桌面特定事件提醒工具，这个工具非常有创新
 Lightread 是一个google阅读器：<https://apps.ubuntu.com/cat/applications/lightread/>
 
 
-![](/Asserts/Images//attachment/album/201209/19/104425k2kdj5dxxsyz3uhn.jpg "Lightread")
+![](/Asserts/Images/album/201209/19/104425k2kdj5dxxsyz3uhn.jpg "Lightread")
 
 
 Fogger 是一个Facebook应用程序：<https://apps.ubuntu.com/cat/applications/fogger/>
 
 
-![](/Asserts/Images//attachment/album/201209/19/104428jv9pjxe7y7neksjr.jpg "Fogger")
+![](/Asserts/Images/album/201209/19/104428jv9pjxe7y7neksjr.jpg "Fogger")
 
 
 Picsaw 是一个创建拼图的软件：<https://apps.ubuntu.com/cat/applications/picsaw/>
 
 
-![](/Asserts/Images//attachment/album/201209/19/104433fi4rvfwzkarknko0.png "Picsaw")
+![](/Asserts/Images/album/201209/19/104433fi4rvfwzkarknko0.png "Picsaw")

@@ -7,7 +7,7 @@ tags:	[linuxcn,GPG,加密]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/15/133531wcs1iy4luihr3beg.jpg)
+![](/Asserts/Images/album/202112/15/133531wcs1iy4luihr3beg.jpg)
 
 
 [GnuPG](https://gnupg.org/)，俗称 GPG，是一个非常通用的工具，被广泛用作电子邮件、信息、文件或任何你需要安全地发送给别人的东西的加密行业标准。
@@ -25,7 +25,7 @@ tags:	[linuxcn,GPG,加密]
 ### GPG 是如何进行加密的？
 
 
-![GPG 加密](/Asserts/Images//attachment/album/202112/15/133645b1i73az322l66l57.png)
+![GPG 加密](/Asserts/Images/album/202112/15/133645b1i73az322l66l57.png)
 
 
 要使用 GPG，你首先需要有一个 GPG 密钥。
@@ -70,7 +70,7 @@ GPG 密钥的工作原理是使用两个文件，一个私钥和一个公钥。�
 ### 用 GPG 对文件进行加密和解密
 
 
-![](/Asserts/Images//attachment/album/202112/15/133646o30ren9lnfnn6jyn.png)
+![](/Asserts/Images/album/202112/15/133646o30ren9lnfnn6jyn.png)
 
 
 这是一个非常简单的场景。我假定你只有一个系统，你想看看 GPG 是如何工作的。你并没有把文件发送到其他系统。你对文件进行加密，然后在同一个系统上解密。
@@ -118,7 +118,7 @@ gpg --full-generate-key
 
 ```
 
-![生成 GPG 密钥](/Asserts/Images//attachment/album/202112/15/133646o4vmvoddrpo4mm4b.png)
+![生成 GPG 密钥](/Asserts/Images/album/202112/15/133646o4vmvoddrpo4mm4b.png)
 
 
 **检查 GPG 密钥**
@@ -127,7 +127,7 @@ gpg --full-generate-key
 然后你可以通过使用 `--list-secret-keys` 和 `--list-public-keys` 参数，分别看到私钥和公钥都是通过 `pub` 下显示的那个 ID 相互绑定的。
 
 
-![列出 GPG 密钥](/Asserts/Images//attachment/album/202112/15/133646hkm9czc4wl3l19zk.png)
+![列出 GPG 密钥](/Asserts/Images/album/202112/15/133646hkm9czc4wl3l19zk.png)
 
 
 #### 第三步：用 GPG 加密一个文件
@@ -181,7 +181,7 @@ We're encrypting with GPG!
 
 ```
 
-![文本文件样本](/Asserts/Images//attachment/album/202112/15/133647pd2yesr9y9kdqynm.png)
+![文本文件样本](/Asserts/Images/album/202112/15/133647pd2yesr9y9kdqynm.png)
 
 
 同样地，如果电子邮件是 `user@example.com`，新的 GPG 命令将如下所示：
@@ -193,19 +193,19 @@ gpg --encrypt --output message.txt.gpg --recipient user@example.com message.txt
 
 ```
 
-![用 GPG 加密文件](/Asserts/Images//attachment/album/202112/15/133647gsnxq3nsgnsq3s3y.png)
+![用 GPG 加密文件](/Asserts/Images/album/202112/15/133647gsnxq3nsgnsq3s3y.png)
 
 
 如果你尝试阅读该文件，你会看到它看起来像乱码。这是预料之中的，因为该文件现在已经被加密了。
 
 
-![读取加密文件会产生乱码](/Asserts/Images//attachment/album/202112/15/133647tjsiiijpfwpujiz1.png)
+![读取加密文件会产生乱码](/Asserts/Images/album/202112/15/133647tjsiiijpfwpujiz1.png)
 
 
 现在让我们删除未加密的 `message.txt` 文件，这样你就可以看到 `message.txt.gpg` 文件实际上在没有原始文件的情况下也能正常解密。
 
 
-![](/Asserts/Images//attachment/album/202112/15/133647rjkcbjc5byj79cky.png)
+![](/Asserts/Images/album/202112/15/133647rjkcbjc5byj79cky.png)
 
 
 #### 第四步：用 GPG 解密加密的文件
@@ -238,7 +238,7 @@ gpg --decrypt --output message.txt message.txt.gpg
 
 ```
 
-![用GPG解密文件](/Asserts/Images//attachment/album/202112/15/133647z7tv3726ko9to9oq.png)
+![用GPG解密文件](/Asserts/Images/album/202112/15/133647z7tv3726ko9to9oq.png)
 
 
 然后就完成了！当你想用 GPG 加密和解密文件时，这就是全部内容了。
@@ -262,7 +262,7 @@ gpg --output key.gpg --export id
 
 ```
 
-![导出 GPG 公钥](/Asserts/Images//attachment/album/202112/15/133648q99nhi98a9ib8c91.png)
+![导出 GPG 公钥](/Asserts/Images/album/202112/15/133648q99nhi98a9ib8c91.png)
 
 
 要导入一个密钥，只需把输出文件（来自前面的命令）给其他用户，然后让他们运行下面的命令。
@@ -274,7 +274,7 @@ gpg --import key.gpg
 
 ```
 
-![](/Asserts/Images//attachment/album/202112/15/133648g7dubcrr3yfcocmu.png)
+![](/Asserts/Images/album/202112/15/133648g7dubcrr3yfcocmu.png)
 
 
 但要正常使用该密钥，你需要验证该密钥，以便 GPG 正确地信任它。
@@ -286,19 +286,19 @@ gpg --import key.gpg
 首先运行 `gpg --edit-key id`：
 
 
-![GPG 编辑密钥](/Asserts/Images//attachment/album/202112/15/133648vt6ucccq3tjdceuv.png)
+![GPG 编辑密钥](/Asserts/Images/album/202112/15/133648vt6ucccq3tjdceuv.png)
 
 
 接下来，使用 `—fpr` 参数，它将显示密钥的指纹。这个命令的输出应该与你自己机器上的输出进行验证，这可以通过在你的系统上运行同样的 `--edit-key` 参数来找到。
 
 
-![GPG 密钥的指纹](/Asserts/Images//attachment/album/202112/15/133648bxss6p16zbssppg6.png)
+![GPG 密钥的指纹](/Asserts/Images/album/202112/15/133648bxss6p16zbssppg6.png)
 
 
 如果一切吻合，只需使用 `—sign` 参数，一切就可以开始了。
 
 
-![签署 GPG 密钥](/Asserts/Images//attachment/album/202112/15/133649hi1pv42s2iv2avsj.png)
+![签署 GPG 密钥](/Asserts/Images/album/202112/15/133649hi1pv42s2iv2avsj.png)
 
 
 就是这样！其他用户现在可以开始用你的公钥加密文件了，就像你之前做的那样，这可以确保它们只有在你用你的私钥解密时才能被你读取。

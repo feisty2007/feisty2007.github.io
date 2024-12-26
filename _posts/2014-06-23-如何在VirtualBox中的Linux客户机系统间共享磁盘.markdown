@@ -16,49 +16,49 @@ tags:	[linuxcn,]
 下图是VirtualBox的标准界面：
 
 
-![](/Asserts/Images//attachment/album/201406/02/063725keo2zw424zolo2lo.png)
+![](/Asserts/Images/album/201406/02/063725keo2zw424zolo2lo.png)
 
 
 第一个客户系统机CentOS1：
 
 
-![](/Asserts/Images//attachment/album/201406/02/063726q46t2ucujqv33cfu.png)
+![](/Asserts/Images/album/201406/02/063726q46t2ucujqv33cfu.png)
 
 
 第二个客户机系统CentOS2：
 
 
-![](/Asserts/Images//attachment/album/201406/02/063727h010ir5alkl7iknz.png)
+![](/Asserts/Images/album/201406/02/063727h010ir5alkl7iknz.png)
 
 
 给第一台机器添加额外的磁盘：
 
 
-![](/Asserts/Images//attachment/album/201406/02/063728xyz356n90293cggr.png)
+![](/Asserts/Images/album/201406/02/063728xyz356n90293cggr.png)
 
 
 点击文件->虚拟介质管理器（Control+D）打开虚拟介质管理器界面：
 
 
-![](/Asserts/Images//attachment/album/201406/02/063729pf4zpny4xzlyyv2p.png)
+![](/Asserts/Images/album/201406/02/063729pf4zpny4xzlyyv2p.png)
 
 
 设置磁盘为可共享（Shareable）：
 
 
-![](/Asserts/Images//attachment/album/201406/02/063730cgly7iwhzd7w9h5h.png)
+![](/Asserts/Images/album/201406/02/063730cgly7iwhzd7w9h5h.png)
 
 
 在客户机CentOS 2上，你可以添加现有磁盘，该磁盘在CentOS1客户机系统之前已经创建好：
 
 
-![](/Asserts/Images//attachment/album/201406/02/063731j8pg2896xt1p2jg6.png)
+![](/Asserts/Images/album/201406/02/063731j8pg2896xt1p2jg6.png)
 
 
 完成后，你可以重启第二个客户机系统，并检查驱动器是否已经添加：
 
 
-![](/Asserts/Images//attachment/album/201406/02/063733fbaceo9e9aeadoab.png)
+![](/Asserts/Images/album/201406/02/063733fbaceo9e9aeadoab.png)
 
 
 大功告成。

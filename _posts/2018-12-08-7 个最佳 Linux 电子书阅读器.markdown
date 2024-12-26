@@ -10,7 +10,7 @@ tags:	[linuxcn,电子书,Calibre]
 **摘要：** 本文中我们涉及一些 Linux 最佳电子书阅读器。这些应用提供更佳的阅读体验甚至可以管理你的电子书。
 
 
-![最佳 Linux 电子书阅读器](/Asserts/Images//attachment/album/201812/25/221743h534kuezeu46iq54.png)
+![最佳 Linux 电子书阅读器](/Asserts/Images/album/201812/25/221743h534kuezeu46iq54.png)
 
 
 最近，随着人们发现在手持设备、Kindle 或者 PC 上阅读更加舒适，对电子图书的需求有所增加。至于 Linux 用户，也有各种电子书应用满足你阅读和整理电子书的需求。
@@ -34,7 +34,7 @@ tags:	[linuxcn,电子书,Calibre]
 Calibre 最大的缺点是，资源消耗太多，因此作为一个独立的电子阅读器来说是一个艰难的选择。
 
 
-![Calibre](/Asserts/Images//attachment/album/201812/25/221744rnsapnq84pxkpqxa.jpg)
+![Calibre](/Asserts/Images/album/201812/25/221744rnsapnq84pxkpqxa.jpg)
 
 
 #### 特性
@@ -61,7 +61,7 @@ sudo apt-get install calibre
 ### 2. FBReader
 
 
-![FBReader: Linux 电子书阅读器](/Asserts/Images//attachment/album/201812/25/221746rj22jriqruxqu9cc.jpg)
+![FBReader: Linux 电子书阅读器](/Asserts/Images/album/201812/25/221746rj22jriqruxqu9cc.jpg)
 
 
 [FBReader](https://fbreader.org) 是一个开源的轻量级多平台电子书阅读器，它支持多种格式，比如 ePub、fb2、mobi、rtf、html 等。它包括了一些可以访问的流行网络电子图书馆，那里你能免费或付费下载电子书。
@@ -97,7 +97,7 @@ sudo apt-get install fbreader
 [Okular](https://okular.kde.org/) 是另一个开源的基于 KDE 开发的跨平台文档查看器，它已经作为 KDE 应用发布的一部分了。
 
 
-![Okular](/Asserts/Images//attachment/album/201812/25/221747vxmdzqafdoa0ilaa.jpg)
+![Okular](/Asserts/Images/album/201812/25/221747vxmdzqafdoa0ilaa.jpg)
 
 
 #### 特性
@@ -132,7 +132,7 @@ Lucidor 是一个易用的、支持 epub 文件格式和在 OPDS 格式中编目
 Lucidor 是 XULRunner 应用程序，它向您展示了具有类似火狐的选项卡式布局，和存储数据和配置时的行为。它是这个列表中最简单的电子阅读器，包括诸如文本说明和滚动选项之类的配置。
 
 
-![lucidor](/Asserts/Images//attachment/album/201812/25/221748p4f3v4pwzvw4gwhp.png)
+![lucidor](/Asserts/Images/album/201812/25/221748p4f3v4pwzvw4gwhp.png)
 
 
 你可以通过选择单词并右击“查找单词”来查找该单词在 Wiktionary.org 的定义。它也包含 web 订阅或 web 页面作为电子书的选项。
@@ -144,7 +144,7 @@ Lucidor 是 XULRunner 应用程序，它向您展示了具有类似火狐的选�
 ### 5. Bookworm
 
 
-![Bookworm Linux 电子阅读器](/Asserts/Images//attachment/album/201812/25/221750p3mo3zz6068fz08q.jpg)
+![Bookworm Linux 电子阅读器](/Asserts/Images/album/201812/25/221750p3mo3zz6068fz08q.jpg)
 
 
 Bookworm 是另一个支持多种文件格式诸如 epub、pdf、mobi、cbr 和 cbz 的自由开源的电子阅读器。我写了一篇关于 Bookworm 应用程序的特性和安装的专题文章，到这里阅读：[Bookworm：一个简单而强大的 Linux 电子阅读器](https://itsfoss.com/bookworm-ebook-reader-linux/)
@@ -166,7 +166,7 @@ sudo apt-get install bookworm
 [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) 是又一个用于读取 ePub 文件的很棒的 GTK Python 应用。具有基本章节导航、从上次阅读位置继续、从其他电子书文件格式导入、章节跳转等功能，Easy Ebook Viewer 是一个简单而简约的 ePub 阅读器.
 
 
-![Easy-Ebook-Viewer](/Asserts/Images//attachment/album/201812/25/221751lbmkb7dwhhravyam.jpg)
+![Easy-Ebook-Viewer](/Asserts/Images/album/201812/25/221751lbmkb7dwhhravyam.jpg)
 
 
 这个应用仍然处于初始阶段，只支持 ePub 文件。
@@ -198,7 +198,7 @@ Buka 主要是一个具有简单而清爽的用户界面的电子书管理器。
 你可以创建单独的 PDF 文件列表并轻松地在它们之间切换。Buka 也提供了一个内置翻译工具，但是你需要有效的互联网连接来使用这个特性。
 
 
-![Buka](/Asserts/Images//attachment/album/201812/25/221753gtend55tg2ndta5n.png)
+![Buka](/Asserts/Images/album/201812/25/221753gtend55tg2ndta5n.png)
 
 
 #### 安装

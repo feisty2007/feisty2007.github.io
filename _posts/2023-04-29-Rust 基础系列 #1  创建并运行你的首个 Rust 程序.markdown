@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/10/164143yksc0b56bbs0itiu.jpg)
+![](/Asserts/Images/album/202304/10/164143yksc0b56bbs0itiu.jpg)
 
 
 
@@ -90,7 +90,7 @@ curl --proto '=https' --tlsv1.3 -sSf https://sh.rustup.rs | sh
 
 ```
 
-![Installing Rust on Ubuntu Linux](/Asserts/Images//attachment/album/202304/10/164259fn33ln3kvq717nc7.svg)
+![Installing Rust on Ubuntu Linux](/Asserts/Images/album/202304/10/164259fn33ln3kvq717nc7.svg)
 
 
 除了 Rust 基本工具链，我还建议再安装一些工具，这些工具将在开发过程中帮助你：

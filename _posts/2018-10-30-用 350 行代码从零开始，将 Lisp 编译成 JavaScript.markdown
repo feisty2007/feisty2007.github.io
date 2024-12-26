@@ -7,7 +7,7 @@ tags:	[linuxcn,编译器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/31/101755m9sy6j1zdhzh9gh2.jpg)
+![](/Asserts/Images/album/201810/31/101755m9sy6j1zdhzh9gh2.jpg)
 
 
 我们将会在本篇文章中看到从零开始实现的编译器，将简单的类 LISP 计算语言编译成 JavaScript。完整的源代码在 [这里](https://gist.github.com/soupi/d4ff0727ccb739045fad6cdf533ca7dd)。

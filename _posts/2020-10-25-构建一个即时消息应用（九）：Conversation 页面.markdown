@@ -7,7 +7,7 @@ tags:	[linuxcn,即时消息]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/15/220239arr978u7t7oulv73.jpg)
+![](/Asserts/Images/album/202010/15/220239arr978u7t7oulv73.jpg)
 
 
 本文是该系列的第九篇，也是最后一篇。
@@ -29,7 +29,7 @@ tags:	[linuxcn,即时消息]
 ### 聊天标题
 
 
-![](/Asserts/Images//attachment/album/202010/15/220257j3897b37l238x33b.png)
+![](/Asserts/Images/album/202010/15/220257j3897b37l238x33b.png)
 
 
 让我们从创建 `static/pages/conversation-page.js` 文件开始，它包含以下内容:
@@ -80,7 +80,7 @@ function getConversation(id) {
 ### 对话列表
 
 
-![](/Asserts/Images//attachment/album/202010/15/220310llcafw1fa777uw1a.png)
+![](/Asserts/Images/album/202010/15/220310llcafw1fa777uw1a.png)
 
 
 我们也会获取最新的消息并显示它们。
@@ -158,7 +158,7 @@ function renderMessage(message) {
 ### 消息表单
 
 
-![](/Asserts/Images//attachment/album/202010/15/220323x343954xf7zczu2x.png)
+![](/Asserts/Images/album/202010/15/220323x343954xf7zczu2x.png)
 
 
 

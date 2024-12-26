@@ -15,7 +15,7 @@ tags:	[linuxcn,WordPress,迁移]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/19/124316krzvxcr4ff2kr2ji.jpg "Text editor on a browser, in blue")
+![](/Asserts/Images/album/202203/19/124316krzvxcr4ff2kr2ji.jpg "Text editor on a browser, in blue")
 
 
 你有过把一个 WordPress 网站迁移到一台新主机上的需求吗？我曾经迁移过好多次，迁移过程相当简单。当然，的的市场时候我都不会用通用的推荐方法，这次也不例外 —— 我用更简单的方法，这才是我推荐的方法。
@@ -195,7 +195,7 @@ Listen 192.168.0.125:80
 
 ```
 cd /var ; tar -cvf /tmp/website.tar website1/
-cd /var/lib ; tar -cvf /tmp/Asserts/Images/base.tar mysql/
+cd /var/lib ; tar -cvf /tmp/database.tar mysql/
 
 ```
 
@@ -205,7 +205,7 @@ cd /var/lib ; tar -cvf /tmp/Asserts/Images/base.tar mysql/
 
 ```
 cd /var ; tar -xvf /tmp/website.tar
-cd /var/lib ; tar -xvf /tmp/Asserts/Images/base.tar
+cd /var/lib ; tar -xvf /tmp/database.tar
 
 ```
 

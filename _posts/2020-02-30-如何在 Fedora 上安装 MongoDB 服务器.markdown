@@ -7,7 +7,7 @@ tags:	[linuxcn,MongoDB]
 ---
 
 
-![](/Asserts/Images//attachment/album/202002/28/142748fmfmdxzwzx8fwrd9.png)
+![](/Asserts/Images/album/202002/28/142748fmfmdxzwzx8fwrd9.png)
 
 
 Mongo（来自 “humongous” —— 巨大的）是一个高性能、开源、无模式的、面向文档的数据库，它是最受欢迎的 [NoSQL](https://en.wikipedia.org/wiki/NoSQL) 数据库之一。它使用 JSON 作为文档格式，并且可以在多个服务器节点之间进行扩展和复制。

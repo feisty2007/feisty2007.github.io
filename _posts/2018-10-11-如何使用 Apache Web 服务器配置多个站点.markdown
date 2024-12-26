@@ -15,7 +15,7 @@ tags:	[linuxcn,Apache,HTTP]
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/25/153824lkmrkizcwr47w9oc.jpg)
+![](/Asserts/Images/album/201810/25/153824lkmrkizcwr47w9oc.jpg)
 
 
 在我的[上一篇文章](/article-9506-1.html)中，我解释了如何为单个站点配置 Apache Web 服务器，事实证明这很容易。在这篇文章中，我将向你展示如何使用单个 Apache 实例来服务多个站点。

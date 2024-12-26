@@ -7,7 +7,7 @@ tags:	[linuxcn,Flatpak]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/24/230017g1qhhwfzhhhcyz13.jpg)
+![](/Asserts/Images/album/202307/24/230017g1qhhwfzhhhcyz13.jpg)
 
 
 
@@ -80,7 +80,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 ```
 
-![Install Flatpak in latest versions of Ubuntu and then add Flathub repo](/Asserts/Images//attachment/album/202307/24/230051f1l2wqiwlcxpyivw.svg)
+![Install Flatpak in latest versions of Ubuntu and then add Flathub repo](/Asserts/Images/album/202307/24/230051f1l2wqiwlcxpyivw.svg)
 
 
 安装并配置 Flatpak 后，**重启你的系统**。否则，已安装的 Flatpak 应用将不会在你的系统菜单上可见。
@@ -113,7 +113,7 @@ flatpak search <package-name>
 
 ```
 
-![Search for a package using Flatpak Search command](/Asserts/Images//attachment/album/202307/24/230051kcig3cgzrmio87zr.svg)
+![Search for a package using Flatpak Search command](/Asserts/Images/album/202307/24/230051kcig3cgzrmio87zr.svg)
 
 
 
@@ -145,7 +145,7 @@ flatpak install flathub <package-name>
 
 ```
 
-![Install a package after searching for its name](/Asserts/Images//attachment/album/202307/24/230051fhqi8sggp4tgsing.svg)
+![Install a package after searching for its name](/Asserts/Images/album/202307/24/230051fhqi8sggp4tgsing.svg)
 
 
 在极少数情况下，你可以直接从开发人员的仓库安装 Flatpak 包，而不是 Flathub。在这种情况下，你可以使用如下语法：
@@ -172,7 +172,7 @@ flatpak install <path-to-flatpakref file>
 
 ```
 
-![Install a Flatpak package from Flatpakref file](/Asserts/Images//attachment/album/202307/24/230052um1hkeotfzcxx10x.svg)
+![Install a Flatpak package from Flatpakref file](/Asserts/Images/album/202307/24/230052um1hkeotfzcxx10x.svg)
 
 
 #### 从终端运行 Flatpak 应用
@@ -202,7 +202,7 @@ flatpak list
 
 ```
 
-![List all the installed Flatpak packages on your system](/Asserts/Images//attachment/album/202307/24/230052lfssbnuia7dxxmxj.svg)
+![List all the installed Flatpak packages on your system](/Asserts/Images/album/202307/24/230052lfssbnuia7dxxmxj.svg)
 
 
 #### 卸载 Flatpak 包
@@ -226,7 +226,7 @@ flatpak uninstall --unused
 
 ```
 
-![Remove a Flatpak package and later, if there is any unused runtimes or packages, remove them](/Asserts/Images//attachment/album/202307/24/230052obp5gbxy33pzhph7.svg)
+![Remove a Flatpak package and later, if there is any unused runtimes or packages, remove them](/Asserts/Images/album/202307/24/230052obp5gbxy33pzhph7.svg)
 
 
 它可能会帮助你 [在 Ubuntu 上节省一些磁盘空间](https://itsfoss.com/free-up-space-ubuntu-linux/)。
@@ -262,10 +262,10 @@ flatpak uninstall --unused
 你还将在应用页面底部获得安装应用所需的命令。
 
 
-![](/Asserts/Images//attachment/album/202307/24/230052e8mfr77mfpkonmqn.png)
+![](/Asserts/Images/album/202307/24/230052e8mfr77mfpkonmqn.png)
 
 
-![](/Asserts/Images//attachment/album/202307/24/230053yqkbxk1zf0v8bv87.png)
+![](/Asserts/Images/album/202307/24/230053yqkbxk1zf0v8bv87.png)
 
 
 ### 额外信息：使用支持 Flatpak 软件包的软件中心
@@ -285,7 +285,7 @@ flatpak uninstall --unused
 > 
 
 
-![When you install GNOME Software Flatpak plugin in Ubuntu, a DEB version of GNOME Software is installed. So you will have two software center application](/Asserts/Images//attachment/album/202307/24/230053bm51mdp57m2x6wup.png)
+![When you install GNOME Software Flatpak plugin in Ubuntu, a DEB version of GNOME Software is installed. So you will have two software center application](/Asserts/Images/album/202307/24/230053bm51mdp57m2x6wup.png)
 
 
 
@@ -294,7 +294,7 @@ sudo apt install gnome-software-plugin-flatpak
 
 ```
 
-![Installing GNOME Software Plugin in Ubuntu](/Asserts/Images//attachment/album/202307/24/230054zfkgooqclhyfptrp.svg)
+![Installing GNOME Software Plugin in Ubuntu](/Asserts/Images/album/202307/24/230054zfkgooqclhyfptrp.svg)
 
 
 ### 总结

@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,AI,数据勒索]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/26/181608allt36ujr9ezg164.jpg)
+![](/Asserts/Images/album/202312/26/181608allt36ujr9ezg164.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/26/181621ifjfoftvv8mpcaoa.png)
+![](/Asserts/Images/album/202312/26/181621ifjfoftvv8mpcaoa.png)
 
 
 ### #1 谷歌因影响营收拒绝改变 Play 商店收费模式
@@ -38,7 +38,7 @@ tags:	[linuxcn,谷歌,AI,数据勒索]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/26/181639yiztmut2texmdhuo.png)
+![](/Asserts/Images/album/202312/26/181639yiztmut2texmdhuo.png)
 
 
 ### #2 《GTA 5》源代码在网上泄露
@@ -66,7 +66,7 @@ tags:	[linuxcn,谷歌,AI,数据勒索]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/26/181650fz8b0kb02ghg1d2i.png)
+![](/Asserts/Images/album/202312/26/181650fz8b0kb02ghg1d2i.png)
 
 
 ### #3 美国新法案要求 AI 公司披露受版权保护的训练数据

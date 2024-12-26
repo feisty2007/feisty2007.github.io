@@ -15,7 +15,7 @@ tags:	[linuxcn,数据科学]
 > 
 
 
-![](/Asserts/Images//attachment/album/202002/29/115004x09dgvckgwphsgrw.jpg)
+![](/Asserts/Images/album/202002/29/115004x09dgvckgwphsgrw.jpg)
 
 
 数据科学是跨越编程语言的知识领域。有些语言以解决这一领域的问题而闻名，而另一些则鲜为人知。这篇文章将帮助你熟悉用一些流行的语言完成数据科学的工作。
@@ -50,7 +50,7 @@ tags:	[linuxcn,数据科学]
 这是许多数据科学家遇到的常见情况。示例数据是 [Anscombe 的四重奏](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)的第一组，如下表所示。这是一组人工构建的数据，当用直线拟合时会给出相同的结果，但是它们的曲线非常不同。数据文件是一个文本文件，以制表符作为列分隔符，开头几行作为标题。此任务将仅使用第一组（即前两列）。
 
 
-![](/Asserts/Images//attachment/album/202002/29/122805h3yrs1dkrgysssxk.png)
+![](/Asserts/Images/album/202002/29/122805h3yrs1dkrgysssxk.png)
 
 
 ### Python 方式
@@ -294,7 +294,7 @@ Correlation coefficient: 0.816421
 这是 Matplotlib 产生的图像：
 
 
-![Plot and fit of the dataset obtained with Python](/Asserts/Images//attachment/album/202002/29/114814z7mefpy1np1ppy4n.png "Plot and fit of the dataset obtained with Python")
+![Plot and fit of the dataset obtained with Python](/Asserts/Images/album/202002/29/114814z7mefpy1np1ppy4n.png "Plot and fit of the dataset obtained with Python")
 
 
 ### GNU Octave 方式
@@ -530,7 +530,7 @@ Correlation coefficient: 0.816421
 它显示了用 Octave 生成的结果图像。
 
 
-![Plot and fit of the dataset obtained with Octave](/Asserts/Images//attachment/album/202002/29/114815do6fh2xfac6w2r2g.png "Plot and fit of the dataset obtained with Octave")
+![Plot and fit of the dataset obtained with Octave](/Asserts/Images/album/202002/29/114815do6fh2xfac6w2r2g.png "Plot and fit of the dataset obtained with Octave")
 
 
 ### 接下来

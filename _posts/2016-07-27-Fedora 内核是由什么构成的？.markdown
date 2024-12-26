@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/29/144036jyzsz1j1uu1g8auz.png)
+![](/Asserts/Images/album/201607/29/144036jyzsz1j1uu1g8auz.png)
 
 
 每个 Fedora 系统都运行着一个内核。许多代码片段组合在一起使之成为现实。

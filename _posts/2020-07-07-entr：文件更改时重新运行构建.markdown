@@ -7,7 +7,7 @@ tags:	[linuxcn,文件监控,inotify]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/11/094223uct6386d9iwctmbh.jpg)
+![](/Asserts/Images/album/202007/11/094223uct6386d9iwctmbh.jpg)
 
 
 这是一篇简短的文章。我是最近才发现 [entr](http://eradman.com/entrproject/) 的，我很惊奇从来没有人告诉过我？！因此，如果你和我一样，那么我告诉你它是什么。

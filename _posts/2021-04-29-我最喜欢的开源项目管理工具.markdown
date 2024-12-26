@@ -15,7 +15,7 @@ tags:	[linuxcn,项目管理,项目,甘特图]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/29/145942py6qcc3lz1dyt1s6.jpg "Kanban-style organization action")
+![](/Asserts/Images/album/202104/29/145942py6qcc3lz1dyt1s6.jpg "Kanban-style organization action")
 
 
 诸如建造卫星、开发机器人或推出新产品之类的项目都是昂贵的，涉及不同的提供商，并且包含必须跟踪的硬依赖性。
@@ -45,7 +45,7 @@ tags:	[linuxcn,项目管理,项目,甘特图]
 ### Redmine 4.1.0
 
 
-![Redmine](/Asserts/Images//attachment/album/202104/29/150023ooasa70va32xi8s8.png "Redmine")
+![Redmine](/Asserts/Images/album/202104/29/150023ooasa70va32xi8s8.png "Redmine")
 
 
 [Redmine](https://www.redmine.org/) 是一个基于 Web 的专注于敏捷方法论的项目管理工具。
@@ -67,7 +67,7 @@ Redmine 用 Ruby on Rails 框架编写，可用于 Windows、Linux 和 macOS。�
 ### ]project-open[ 5.1
 
 
-![]project-open[](/Asserts/Images//attachment/album/202104/29/150024ajim3fma2loniapb.png "]project-open[")
+![]project-open[](/Asserts/Images/album/202104/29/150024ajim3fma2loniapb.png "]project-open[")
 
 
 []project-open[](https://www.project-open.com) 是一个基于 Web 的项目管理系统，从整个组织的角度看类似于<ruby> 企业资源计划 <rt>  enterprise resource planning </rt></ruby>（ERP）系统。它还可以管理项目档案、预算、发票、销售、人力资源和其他功能领域。有一些不同的变体，如用于管理项目公司的<ruby> 专业服务自动化 <rt>  professional services automation </rt></ruby>（PSA）、用于管理企业战略项目的<ruby> 项目管理办公室 <rt>  project management office </rt></ruby>（PMO）和用于管理部门项目的<ruby> 企业项目管理 <rt>  enterprise project management </rt></ruby>（EPM）。
@@ -86,7 +86,7 @@ Redmine 用 Ruby on Rails 框架编写，可用于 Windows、Linux 和 macOS。�
 ### ProjectLibre 1.9.3
 
 
-![ProjectLibre](/Asserts/Images//attachment/album/202104/29/150025p4wrdukwwnwnlddu.png "ProjectLibre")
+![ProjectLibre](/Asserts/Images/album/202104/29/150025p4wrdukwwnwnlddu.png "ProjectLibre")
 
 
 在开源世界中，[ProjectLibre](http://www.projectlibre.org) 可能是最接近 MS-Project 的产品。它是一个桌面应用程序，支持所有重要的项目计划功能，包括资源日历、基线和成本管理。它还允许你使用 MS-Project 的文件格式导入和导出计划。
@@ -105,7 +105,7 @@ ProjectLibre 用 Java 编写，可用于 Windows、Linux 和macOS，并在开源
 ### GanttProject 2.8.11
 
 
-![GanttProject](/Asserts/Images//attachment/album/202104/29/150026j60ffm5avu7n4fq1.png "GanttProject")
+![GanttProject](/Asserts/Images/album/202104/29/150026j60ffm5avu7n4fq1.png "GanttProject")
 
 
 [GanttProject](https://www.ganttproject.biz) 与 ProjectLibre 类似，它是一个桌面甘特图编辑器，但功能集更为有限。它不支持基线，也不支持非人力资源，并且报告功能比较有限。
@@ -121,7 +121,7 @@ GanttProject 是一个用 Java 编写的桌面应用程序，可在 GPLv3 许可
 ### TaskJuggler 3.7.1
 
 
-![TaskJuggler](/Asserts/Images//attachment/album/202104/29/150027eymfypm88a4atya0.png "TaskJuggler")
+![TaskJuggler](/Asserts/Images/album/202104/29/150027eymfypm88a4atya0.png "TaskJuggler")
 
 
 [TaskJuggler](https://taskjuggler.org/) 用于在大型组织中安排多个并行项目，重点是自动解决资源分配冲突（即资源均衡）。
@@ -143,7 +143,7 @@ TaskJuggler 用 Ruby 编写，并且在 GPLv2 许可证下可用于 Windows、Li
 ### ProjeQtOr 9.0.4
 
 
-![ProjeQtOr](/Asserts/Images//attachment/album/202104/29/150028ddn5no6x0nn6nwnn.png "ProjeQtOr")
+![ProjeQtOr](/Asserts/Images/album/202104/29/150028ddn5no6x0nn6nwnn.png "ProjeQtOr")
 
 
 [ProjeQtOr](https://www.projeqtor.org) 是适用于 IT 项目的、基于 Web 的项目管理应用程序。除了项目、工单和活动外，它还支持风险、预算、可交付成果和财务文件，以将项目管理的许多方面集成到单个系统中。
@@ -165,7 +165,7 @@ ProjeQtOr 用 PHP 编写，并且在 Affero GPL3 许可下可用于 Windows、Li
 对于特定的用例，以下系统可能是有效的选择，但由于各种原因，它们被排除在主列表之外。
 
 
-![LIbrePlan](/Asserts/Images//attachment/album/202104/29/150029yiajbjyb8jb8ujbu.png "LIbrePlan")
+![LIbrePlan](/Asserts/Images/album/202104/29/150029yiajbjyb8jb8ujbu.png "LIbrePlan")
 
 
 * [LibrePlan](https://www.libreplan.dev/) 是一个基于 Web 的项目管理应用程序，专注于甘特图。由于其功能集，它本来会在上面的列表中会占主导地位，但是没有可用于最新 Linux 版本（CentOS 7 或 8）的安装。作者说，更新的说明将很快推出。

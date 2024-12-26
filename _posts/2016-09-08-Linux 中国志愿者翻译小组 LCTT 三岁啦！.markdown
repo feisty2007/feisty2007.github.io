@@ -7,7 +7,7 @@ tags:	[linuxcn,LCTT]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/10/150000x93y8yy00uclbc2c.jpg)
+![](/Asserts/Images/album/201609/10/150000x93y8yy00uclbc2c.jpg)
 
 
 不知不觉，[LCTT](http://lctt.github.io/) 已经成立三年了，对于我这样已经迈过四张的人来说，愈发的感觉时间过得真快。

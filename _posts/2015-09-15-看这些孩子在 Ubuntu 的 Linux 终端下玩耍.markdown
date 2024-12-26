@@ -37,7 +37,7 @@ sudo apt-get install sl
 正常情况下，你应该会听到汽笛声但是在大多数Linux系统下都不管用，Ubuntu是其中一个。这就是一个意外的终端火车。
 
 
-![Linux Terminal Train](/Asserts/Images//attachment/album/201509/01/231251hssjsts752jo0zo3.jpg)
+![Linux Terminal Train](/Asserts/Images/album/201509/01/231251hssjsts752jo0zo3.jpg)
 
 
 

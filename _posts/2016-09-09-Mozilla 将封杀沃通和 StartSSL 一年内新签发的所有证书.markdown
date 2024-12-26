@@ -13,7 +13,7 @@ Firefox 浏览器背后的 Mozilla 基金会正在考虑对沃通（WoSign）及
 Mozilla 的工程师是在对这两个 CA 签发了一系列可疑的 SSL SHA-1 证书进行调查之后，宣布了这个禁令。
 
 
-![](/Asserts/Images//attachment/album/201609/27/235231v37ur7524fndn4n6.jpg)
+![](/Asserts/Images/album/201609/27/235231v37ur7524fndn4n6.jpg)
 
 
 ### 这两家 CA 试图规避 SHA-1 停用政策

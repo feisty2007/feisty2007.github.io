@@ -15,7 +15,7 @@ tags:	[linuxcn,邮件,群发]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/25/233710lqkvko0jdbh1jzul.jpg)
+![](/Asserts/Images/album/202007/25/233710lqkvko0jdbh1jzul.jpg)
 
 
 电子邮件还是生活的一部分，尽管有种种不足，它仍然是大多数人发送信息的最佳方式，尤其是在按队列将邮件发送给收件人的自动化方式中。

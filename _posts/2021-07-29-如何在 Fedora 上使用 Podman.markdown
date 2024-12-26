@@ -7,7 +7,7 @@ tags:	[linuxcn,Podman,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/25/071145k1kbri7ei0ekk18p.jpg)
+![](/Asserts/Images/album/202107/25/071145k1kbri7ei0ekk18p.jpg)
 
 
 [Podman](https://podman.io/) 是一个无守护程序的容器引擎，用于在你的 Linux 系统上开发、管理和运行 OCI 容器。在这篇文章中，我们将介绍 Podman 以及如何用 nodejs 构建一个小型应用来使用它。该应用将是非常简单和干净的。

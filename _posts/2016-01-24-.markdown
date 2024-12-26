@@ -13,9 +13,9 @@ Mixxx 2.0。 Mixxx 是一个跨平台的自由、开源的 DJ 混音软件，它
 fromurl: http://itsfoss.com/dj-mixxx-2/
 id: 6879
 islctt: true
-largepic: /Asserts/Images//attachment/album/201601/13/093606fk2wvn8qnowveznn.jpg
+largepic: /Asserts/Images/album/201601/13/093606fk2wvn8qnowveznn.jpg
 permalink: /article-6879-1.html
-pic: /Asserts/Images//attachment/album/201601/13/093606fk2wvn8qnowveznn.jpg.thumb.jpg
+pic: /Asserts/Images/album/201601/13/093606fk2wvn8qnowveznn.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -34,7 +34,7 @@ translator: Abhishek
 updated: '2016-01-13 09:35:58'
 ---
 
-![](/Asserts/Images//attachment/album/201601/13/093606fk2wvn8qnowveznn.jpg)
+![](/Asserts/Images/album/201601/13/093606fk2wvn8qnowveznn.jpg)
 
 
 时隔三年，开源 DJ 混音软件 [Mixxx](http://mixxx.org/) 再度发布一个大的版本更新----Mixxx 2.0。

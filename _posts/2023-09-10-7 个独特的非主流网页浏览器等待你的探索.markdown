@@ -7,7 +7,7 @@ tags:	[linuxcn,浏览器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/12/093823qukgvv81zy7iz68b.jpg)
+![](/Asserts/Images/album/202309/12/093823qukgvv81zy7iz68b.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,浏览器]
 ### 1、Nyxt
 
 
-![](/Asserts/Images//attachment/album/202309/12/093856g66l0nkmf6kt0nl6.png)
+![](/Asserts/Images/album/202309/12/093856g66l0nkmf6kt0nl6.png)
 
 
 [Nyxt](https://nyxt.atlas.engineer/) 是一款专为那些大量使用键盘的用户设计的网页浏览器。
@@ -63,7 +63,7 @@ tags:	[linuxcn,浏览器]
 ### 2. Epiphany（GNOME Web 应用）
 
 
-![](/Asserts/Images//attachment/album/202309/12/093857z6oidrsmhhnineee.png)
+![](/Asserts/Images/album/202309/12/093857z6oidrsmhhnineee.png)
 
 
 如果你是那些寻求具备基础功能且用户体验质感洁净的用户，那么 GNOME Web 应用（也被称为 Epiphany）将会是你的理想选择。
@@ -91,7 +91,7 @@ tags:	[linuxcn,浏览器]
 ### 3. Tor
 
 
-![](/Asserts/Images//attachment/album/202309/12/093858raplgd88kflaplp6.png)
+![](/Asserts/Images/album/202309/12/093858raplgd88kflaplp6.png)
 
 
 [Tor 浏览器](https://www.torproject.org/) 在隐私保护领域的爱好者中享有盛名。而且，它也是一款可以提供安全和私密网络体验的独特解决方案。
@@ -121,7 +121,7 @@ Tor 浏览器基于 Mozilla 的 Firefox 进行开发，同时也加入了一些�
 ### 4、Mullvad 浏览器
 
 
-![](/Asserts/Images//attachment/album/202309/12/093858ihnhtce5ao85yqv9.jpg)
+![](/Asserts/Images/album/202309/12/093858ihnhtce5ao85yqv9.jpg)
 
 
 [Mullvad 浏览器](https://mullvad.net/en/download/browser/linux) 是一个专注于隐私保护的解决方案，与 Tor 类似但没有集成 Tor 网络。在编写本文时，这是一个非常新的选择，其开发是与 Tor 项目合作进行的。
@@ -151,7 +151,7 @@ Tor 浏览器基于 Mozilla 的 Firefox 进行开发，同时也加入了一些�
 ### 5、Min
 
 
-![](/Asserts/Images//attachment/album/202309/12/093859vmzkfm6w8t8tmwfb.png)
+![](/Asserts/Images/album/202309/12/093859vmzkfm6w8t8tmwfb.png)
 
 
 Min 非常类似于 Epiphany，但更为极简。如其名称所示，Min 的目标是为你营造一个无干扰的用户体验，让你能够专注于当前的页面。
@@ -178,7 +178,7 @@ Min 非常类似于 Epiphany，但更为极简。如其名称所示，Min 的目
 ### 6、Konqueror
 
 
-![](/Asserts/Images//attachment/album/202309/12/093859fb1eyu9quqhup5yu.png)
+![](/Asserts/Images/album/202309/12/093859fb1eyu9quqhup5yu.png)
 
 
 [Konqueror](https://apps.kde.org/konqueror/) 是 KDE 的网页浏览器，具有管理和预览文件的功能。
@@ -208,7 +208,7 @@ Min 非常类似于 Epiphany，但更为极简。如其名称所示，Min 的目
 ### 7、Falkon
 
 
-![](/Asserts/Images//attachment/album/202309/12/093900qz6ecxigcnci3aer.png)
+![](/Asserts/Images/album/202309/12/093900qz6ecxigcnci3aer.png)
 
 
 Falkon 是另一款专为 KDE 用户设计的浏览器。如果你正在寻找一款 [轻量级的开源浏览器](https://itsfoss.com/lightweight-web-browsers-linux/)，这是你的一个选择。
@@ -234,7 +234,7 @@ Falkon 适用于 Linux 和 Windows。
 ### 非自由开源软件：Opera One
 
 
-![](/Asserts/Images//attachment/album/202309/12/093901jaky4obfv8osoioy.png)
+![](/Asserts/Images/album/202309/12/093901jaky4obfv8osoioy.png)
 
 
 [Opera One](https://www.opera.com/one) 是 Opera 开发者的一项全新尝试，旨在推出经典 Opera 网页浏览器的继任者。如果你并不追求一个颠覆性的浏览器，但希望能有独特的使用体验，Opera One 或许是你的一个理想选择，只需要你对这款专有软件持开放态度。

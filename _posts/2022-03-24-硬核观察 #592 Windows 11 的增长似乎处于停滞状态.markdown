@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows,AV1,Zlib]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/31/200651l76vd0d63il0yyvd.jpg)
+![](/Asserts/Images/album/202203/31/200651l76vd0d63il0yyvd.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/31/200659qfu0rzpmdndd8pmd.jpg)
+![](/Asserts/Images/album/202203/31/200659qfu0rzpmdndd8pmd.jpg)
 
 
 ### Windows 11 的增长似乎处于停滞状态
@@ -27,7 +27,7 @@ tags:	[linuxcn,Windows,AV1,Zlib]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/31/200711q4i0199j99slsx9b.jpg)
+![](/Asserts/Images/album/202203/31/200711q4i0199j99slsx9b.jpg)
 
 
 ### 英特尔发布首个完全支持 AV1 的 GPU
@@ -44,7 +44,7 @@ tags:	[linuxcn,Windows,AV1,Zlib]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/31/200731il9wisukjffj8uwa.jpg)
+![](/Asserts/Images/album/202203/31/200731il9wisukjffj8uwa.jpg)
 
 
 ### Zlib 崩溃漏洞在 17 年后被修复

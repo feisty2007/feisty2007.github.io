@@ -7,7 +7,7 @@ tags:	[linuxcn,CVE,安全漏洞]
 ---
 
 
-![software vulnerabilities](/Asserts/Images//attachment/album/201708/31/102941ewki56wetwwsadww.jpg "software vulnerabilities")
+![software vulnerabilities](/Asserts/Images/album/201708/31/102941ewki56wetwwsadww.jpg "software vulnerabilities")
 
 
 在 ELC + OpenIoT 峰会上，英特尔安全架构师 Ryan Ware 将会解释如何应对漏洞洪流，并管理你产品的安全性。

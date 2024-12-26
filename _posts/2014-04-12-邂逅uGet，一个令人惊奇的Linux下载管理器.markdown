@@ -7,7 +7,7 @@ tags:	[linuxcn,下载,uGet]
 ---
 
 
-![](/Asserts/Images//attachment/album/201404/22/221619rfj1ofr925h7jjo9.png)
+![](/Asserts/Images/album/201404/22/221619rfj1ofr925h7jjo9.png)
 
 
 功能强大下载管理器在Linux平台并不常见，不过有一些却有令人惊奇的功能，uGet就是其中之一。

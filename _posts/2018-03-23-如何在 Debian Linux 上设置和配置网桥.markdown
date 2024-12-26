@@ -7,7 +7,7 @@ tags:	[linuxcn,网桥]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/29/105144rpqdvttdtyzvpdwy.jpg)
+![](/Asserts/Images/album/201803/29/105144rpqdvttdtyzvpdwy.jpg)
 
 
 Q：我是一个新 Debian Linux 用户，我想为 Debian Linux 上运行的虚拟化环境（KVM）设置网桥。那么我该如何在 Debian Linux 9.x 服务器上的 `/etc/network/interfaces` 中设置桥接网络呢？
@@ -171,7 +171,7 @@ $ ip a s $ ip r $ ping -c 2 cyberciti.biz
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201803/29/105202u3nw17u7wxw7zblj.jpg)
+![](/Asserts/Images/album/201803/29/105202u3nw17u7wxw7zblj.jpg)
 
 
 你可以使用 brctl 命令查看网桥有关信息：
@@ -192,7 +192,7 @@ $ bridge link
 
 ```
 
-![](/Asserts/Images//attachment/album/201803/29/105202scefig9g99cr1gid.jpg)
+![](/Asserts/Images/album/201803/29/105202scefig9g99cr1gid.jpg)
 
 
 ### 关于作者

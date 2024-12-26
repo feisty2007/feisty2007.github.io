@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux Kernel 3.4,支持期]
 ---
 
 
-![](/Asserts/Images//attachment/album/201208/20/1411171101967ic1zs1pbs.jpg)
+![](/Asserts/Images/album/201208/20/1411171101967ic1zs1pbs.jpg)
 
 
 Greg Kroah-Hartman 在 8 月 20 日宣布说：“Linux Kernel 3.4 将至少具有两年支持期”。这给很多开着者吃了一颗定心丸。因为现在内核开发越来越快，发布也越来越快，这让很多开发者苦不堪言。

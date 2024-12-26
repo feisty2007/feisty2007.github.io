@@ -7,7 +7,7 @@ tags:	[linuxcn,tmux,终端]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/27/115721l0rp0cn3ptq1u91c.jpg)
+![](/Asserts/Images/album/201901/27/115721l0rp0cn3ptq1u91c.jpg)
 
 
 tmux 是<ruby> 终端复用器 <rt>  terminal multiplexer </rt></ruby>的缩写，它允许用户在单个窗口中创建或启用多个终端（垂直或水平），当你处理不同的问题时，可以在单个窗口中轻松访问和控制它们。
@@ -103,7 +103,7 @@ $ sudo zypper in tmux
 $ tmux
 ```
 
-![](/Asserts/Images//attachment/album/201901/27/115737zzi48znxb8n0wzru.png)
+![](/Asserts/Images/album/201901/27/115737zzi48znxb8n0wzru.png)
 
 
 你会得到类似于我们上面的截图。tmux 附带状态栏，显示有关当前会话详细信息、日期、时间等。
@@ -131,13 +131,13 @@ tmux 允许用户垂直或水平分割窗口，称为窗格。每个窗格都包
 按下 `Ctrl+b, %` 来垂直分割窗格。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115738fe7cgtwabwx1n7tg.png)
+![](/Asserts/Images/album/201901/27/115738fe7cgtwabwx1n7tg.png)
 
 
 按下 `Ctrl+b, "` 来水平分割窗格。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115738c6hh2p0bp8tth2dh.png)
+![](/Asserts/Images/album/201901/27/115738c6hh2p0bp8tth2dh.png)
 
 
 ### 如何在窗格之间移动
@@ -159,13 +159,13 @@ tmux 允许用户垂直或水平分割窗口，称为窗格。每个窗格都包
 出于测试目的，我们将在窗格之间移动。现在我们在 `pane2` 中，它展示了 `lsb_release -a` 命令的输出。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115738m9i13v19n9v1sbs1.png)
+![](/Asserts/Images/album/201901/27/115738m9i13v19n9v1sbs1.png)
 
 
 我们将移动到 `pane0`，它显示 `uname -a` 命令的输出。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115739za3230hb33ozdb4a.png)
+![](/Asserts/Images/album/201901/27/115739za3230hb33ozdb4a.png)
 
 
 ### 如何打开/创建新窗口
@@ -184,19 +184,19 @@ tmux 允许用户垂直或水平分割窗口，称为窗格。每个窗格都包
 我有两个窗口，第一个窗口有三个窗格，其中包含操作系统版本信息，`top` 命令输出和内核信息。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115739yzbexhmyysxd4yiz.png)
+![](/Asserts/Images/album/201901/27/115739yzbexhmyysxd4yiz.png)
 
 
 第二个窗口有两个窗格，其中包含 Linux 发行版 logo 信息。使用以下命令执行操作：
 
 
-![](/Asserts/Images//attachment/album/201901/27/115740jtg1sj77gsjdsgyw.png)
+![](/Asserts/Images/album/201901/27/115740jtg1sj77gsjdsgyw.png)
 
 
 按 `Ctrl+b, w` 以交互方式选择当前窗口。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115740aq0rjcjdcuqrj7cc.png)
+![](/Asserts/Images/album/201901/27/115740aq0rjcjdcuqrj7cc.png)
 
 
 ### 如何缩放窗格
@@ -208,13 +208,13 @@ tmux 允许用户垂直或水平分割窗口，称为窗格。每个窗格都包
 目前我们有三个窗格，我在 `pane1` 工作，它使用 `top` 命令显示系统活动信息，我将缩放它。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115739yzbexhmyysxd4yiz.png)
+![](/Asserts/Images/album/201901/27/115739yzbexhmyysxd4yiz.png)
 
 
 缩放窗格时，它将隐藏所有其它窗格，并只显示窗口中的缩放窗格。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115741thhi80ggchlbl6gl.png)
+![](/Asserts/Images/album/201901/27/115741thhi80ggchlbl6gl.png)
 
 
 按 `Ctrl+b, z` 缩放窗格，并再次按下它使缩放窗格恢复原状。
@@ -229,7 +229,7 @@ tmux 允许用户垂直或水平分割窗口，称为窗格。每个窗格都包
 按 `Ctrl+b, q` 可简单显示窗格索引。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115741etkopvoywkp7lkyt.png)
+![](/Asserts/Images/album/201901/27/115741etkopvoywkp7lkyt.png)
 
 
 ### 显示窗口信息
@@ -241,7 +241,7 @@ tmux 允许用户垂直或水平分割窗口，称为窗格。每个窗格都包
 只需运行 `tmux list-windows` 即可查看窗口信息。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115741y3q8btqhxhk88k8l.png)
+![](/Asserts/Images/album/201901/27/115741y3q8btqhxhk88k8l.png)
 
 
 ### 如何调整窗格大小
@@ -250,13 +250,13 @@ tmux 允许用户垂直或水平分割窗口，称为窗格。每个窗格都包
 你可能需要调整窗格大小来满足你的要求。你必须按下 `Ctrl+b, :`，然后在页面底部的黄色颜色条上输入以下详细信息。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115742gaffvy3kr3kyz3mi.png)
+![](/Asserts/Images/album/201901/27/115742gaffvy3kr3kyz3mi.png)
 
 
 在上一部分中，我们打印了窗格索引，它同时也显示了窗格大小。为了测试，我们要向增加 `10` 个单元。参考以下输出，该窗格将 pane1 和 pane2 的大小从 `55x21` 增加到 `55x31`。
 
 
-![](/Asserts/Images//attachment/album/201901/27/115742k5zi8pid8wwk15kw.png)
+![](/Asserts/Images/album/201901/27/115742k5zi8pid8wwk15kw.png)
 
 
 **语法：** `Ctrl+b, :` 然后输入 `resize-pane [options] [cells size]`

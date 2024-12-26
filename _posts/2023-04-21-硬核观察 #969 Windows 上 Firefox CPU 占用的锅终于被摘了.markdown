@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,Rust,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/12/175953kfn06f6qtfac6ah8.jpg)
+![](/Asserts/Images/album/202304/12/175953kfn06f6qtfac6ah8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/12/180003innenvmeu0mv28xx.jpg)
+![](/Asserts/Images/album/202304/12/180003innenvmeu0mv28xx.jpg)
 
 
 ### Windows 上 Firefox CPU 占用的锅终于被摘了
@@ -35,7 +35,7 @@ Firefox 占用过多资源一直是其被诟病的原因之一。但这可能并
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/12/180015eoi7oizdj8n8oyhn.jpg)
+![](/Asserts/Images/album/202304/12/180015eoi7oizdj8n8oyhn.jpg)
 
 
 ### Rust 基金会禁止 Rust 相关软件使用 “Rust” 名称
@@ -60,7 +60,7 @@ Rust 基金会的一项拟议的新商标政策在 Rust 社区中遭到了强烈
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/12/180031ecxhxexwowaqwcj3.jpg)
+![](/Asserts/Images/album/202304/12/180031ecxhxexwowaqwcj3.jpg)
 
 
 ### 开发者创造出了可以“自愈”的程序

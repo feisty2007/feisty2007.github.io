@@ -7,7 +7,7 @@ tags:	[linuxcn,DeepMind,开源]
 ---
 
 
-![deepmind1](/Asserts/Images//attachment/album/202205/29/174145aqsg2lb2z4bq4gdf.jpg)
+![deepmind1](/Asserts/Images/album/202205/29/174145aqsg2lb2z4bq4gdf.jpg)
 
 
 DeepMind 是 Alphabet 的子公司和 AI 研究实验室，在 2021 年 10 月，它收购了用于机器人研发的 MuJoCo 物理引擎，并承诺该模拟器将作为免费、开源、社区驱动的项目进行维护。现在，DeepMind 声称开源计划已完成，它的整个代码库 [可在 GitHub 上获得](https://github.com/deepmind/mujoco)。
@@ -57,7 +57,7 @@ DeepMind 还说：
 > 
 
 
-![基准测试结果](/Asserts/Images//attachment/album/202205/29/174146h2vmn26m6obi93b6.jpg)
+![基准测试结果](/Asserts/Images/album/202205/29/174146h2vmn26m6obi93b6.jpg)
 
 
 

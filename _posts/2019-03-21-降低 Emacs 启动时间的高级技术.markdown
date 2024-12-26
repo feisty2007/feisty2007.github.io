@@ -7,7 +7,7 @@ tags:	[linuxcn,Emacs,优化]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/17/103034nsteggtntystu7gz.jpg)
+![](/Asserts/Images/album/201903/17/103034nsteggtntystu7gz.jpg)
 
 
 
@@ -93,7 +93,7 @@ open -n /Applications/Emacs.app --args -q --eval='(message "%s" (emacs-init-time
 《[Emacs StartUp Profiler](https://github.com/jschaf/esup)》（ESUP）将会给你顶层语句执行的详细指标。
 
 
-![esup.png](/Asserts/Images//attachment/album/201903/17/103100aubbxhjbh5fuu3b5.png)
+![esup.png](/Asserts/Images/album/201903/17/103100aubbxhjbh5fuu3b5.png)
 
 
 *图 1: Emacs Start Up Profiler 截图*

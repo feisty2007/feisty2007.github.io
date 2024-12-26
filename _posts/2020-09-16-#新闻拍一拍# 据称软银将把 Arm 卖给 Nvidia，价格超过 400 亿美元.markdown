@@ -7,7 +7,7 @@ tags:	[linuxcn,ARM,比特币,安全漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/13/093357w36t8pqil3kjpalx.jpg)
+![](/Asserts/Images/album/202009/13/093357w36t8pqil3kjpalx.jpg)
 
 
 #### 据称软银将把 Arm 卖给 Nvidia，价格超过 400 亿美元

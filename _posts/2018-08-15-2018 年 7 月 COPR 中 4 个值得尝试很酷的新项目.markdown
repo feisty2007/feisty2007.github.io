@@ -7,7 +7,7 @@ tags:	[linuxcn,COPR]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/03/225622f40kxkzkppyl2pg4.jpg)
+![](/Asserts/Images/album/201808/03/225622f40kxkzkppyl2pg4.jpg)
 
 
 COPR 是个人软件仓库[集合](https://copr.fedorainfracloud.org/)，它不在 Fedora 中。这是因为某些软件不符合轻松打包的标准。或者它可能不符合其他 Fedora 标准，尽管它是自由而开源的。COPR 可以在 Fedora 套件之外提供这些项目。COPR 中的软件不被 Fedora 基础设施不支持或没有被该项目所签名。但是，这是一种尝试新的或实验性的软件的一种巧妙的方式。
@@ -22,7 +22,7 @@ COPR 是个人软件仓库[集合](https://copr.fedorainfracloud.org/)，它不�
 [Hledger](http://hledger.org/) 是用于跟踪货币或其他商品的命令行程序。它使用简单的纯文本格式日志来存储数据和复式记帐。除了命令行界面，hledger 还提供终端界面和 Web 客户端，可以显示帐户余额图。
 
 
-![](/Asserts/Images//attachment/album/201808/03/225622ki96rrl0wm9rwyd2.png)
+![](/Asserts/Images/album/201808/03/225622ki96rrl0wm9rwyd2.png)
 
 
 #### 安装说明
@@ -44,7 +44,7 @@ sudo dnf install hledger
 [Neofetch](https://github.com/dylanaraps/neofetch) 是一个命令行工具，可显示有关操作系统、软件和硬件的信息。其主要目的是以紧凑的方式显示数据来截图。你可以使用命令行标志和配置文件将 Neofetch 配置为完全按照你希望的方式显示。
 
 
-![](/Asserts/Images//attachment/album/201808/03/225623pc2xhfpobfjdox2e.png)
+![](/Asserts/Images/album/201808/03/225623pc2xhfpobfjdox2e.png)
 
 
 #### 安装说明
@@ -67,7 +67,7 @@ sudo dnf install neofetch
 [Remarkable](https://remarkableapp.github.io/linux.html)是 Markdown 文本编辑器，它使用类似 GitHub 的 Markdown 风格。它提供了文档的预览，以及导出为 PDF 和 HTML 的选项。Markdown 有几种可用的样式，包括使用 CSS 创建自己的样式的选项。此外，Remarkable 支持用于编写方程的 LaTeX 语法和源代码的语法高亮。
 
 
-![](/Asserts/Images//attachment/album/201808/03/225624d0efqrdh74gzr5qr.png)
+![](/Asserts/Images/album/201808/03/225624d0efqrdh74gzr5qr.png)
 
 
 #### 安装说明
@@ -89,7 +89,7 @@ sudo dnf install remarkable
 [Aha](https://github.com/theZiz/aha)（即 ANSI HTML Adapter）是一个命令行工具，可将终端转义成 HTML 代码。这允许你将 git diff 或 htop 的输出共享为静态 HTML 页面。
 
 
-![](/Asserts/Images//attachment/album/201808/03/225624kbn54h5x1n5m1bu1.png)
+![](/Asserts/Images/album/201808/03/225624kbn54h5x1n5m1bu1.png)
 
 
 #### 安装说明

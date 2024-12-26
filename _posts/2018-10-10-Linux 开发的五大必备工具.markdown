@@ -15,7 +15,7 @@ tags:	[linuxcn,开发工具]
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/08/224653cdaad4uytmtdkh9v.jpg)
+![](/Asserts/Images/album/201810/08/224653cdaad4uytmtdkh9v.jpg)
 
 
 Linux 已经成为工作、娱乐和个人生活等多个领域的支柱，人们已经越来越离不开它。在 Linux 的帮助下，技术的变革速度超出了人们的想象，Linux 开发的速度也以指数规模增长。因此，越来越多的开发者也不断地加入开源和学习 Linux 开发地潮流当中。在这个过程之中，合适的工具是必不可少的，可喜的是，随着 Linux 的发展，大量适用于 Linux 的开发工具也不断成熟。甚至可以说，这样的工具已经多得有点惊人。
@@ -54,7 +54,7 @@ sudo apt-get install docker.io
 Docker 安装完毕后，就可以从 Docker 仓库中拉取映像，然后开始开发和部署了（如下图）。
 
 
-![Docker images](/Asserts/Images//attachment/album/201810/08/224710u8s0666a28qq656k.jpg "Docker images")
+![Docker images](/Asserts/Images/album/201810/08/224710u8s0666a28qq656k.jpg "Docker images")
 
 
 *图 1： Docker 镜像准备部署*
@@ -74,7 +74,7 @@ sudo apt-get install git
 安装完毕后，就可以使用 Git 来实施版本控制了（如下图）。
 
 
-![Git installed](/Asserts/Images//attachment/album/201810/08/224713jrnfqdqc2cfq8cc2.jpg "Git installed")
+![Git installed](/Asserts/Images/album/201810/08/224713jrnfqdqc2cfq8cc2.jpg "Git installed")
 
 
 *图 2：Git 已经安装，可以用于很多重要任务*
@@ -92,7 +92,7 @@ Github 会要求用户创建一个帐户。用户可以免费使用 GitHub 来�
 就文本编辑器而论，选择 [Bluefish](http://bluefish.openoffice.nl/index.html) 一般不会有错。 Bluefish 可以从大部分软件库中安装，它支持项目管理、远程文件多线程操作、搜索和替换、递归打开文件、侧边栏、集成 make/lint/weblint/xmllint、无限制撤销/重做、在线拼写检查、自动恢复、全屏编辑、语法高亮（如下图）、多种语言等等。
 
 
-![Bluefish](/Asserts/Images//attachment/album/201810/08/224717kjaasfzd7pdzwfdw.jpg "Bluefish")
+![Bluefish](/Asserts/Images/album/201810/08/224717kjaasfzd7pdzwfdw.jpg "Bluefish")
 
 
 *图 3：运行在 Ubuntu 18.04 上的 Bluefish*
@@ -115,7 +115,7 @@ sudo apt-get install geany
 安装完毕后，就可以快速上手这个易用且强大的 IDE 了（如下图）。
 
 
-![Geany](/Asserts/Images//attachment/album/201810/08/224719mme9jmr066q4att0.jpg "Geany")
+![Geany](/Asserts/Images/album/201810/08/224719mme9jmr066q4att0.jpg "Geany")
 
 
 *图 4：Geany 可以作为你的 IDE*
@@ -130,7 +130,7 @@ sudo apt-get install geany
 Meld 可以打开两个文件进行比较，并突出显示文件之间的差异之处。 Meld 还允许用户从两个文件的其中一方合并差异（下图显示了 Meld 同时打开两个文件）。
 
 
-![Comparing two files](/Asserts/Images//attachment/album/201810/08/224721nosijxktai8zzqrn.jpg "Comparing two files")
+![Comparing two files](/Asserts/Images/album/201810/08/224721nosijxktai8zzqrn.jpg "Comparing two files")
 
 
 *图 5： 以简单差异的模式比较两个文件*

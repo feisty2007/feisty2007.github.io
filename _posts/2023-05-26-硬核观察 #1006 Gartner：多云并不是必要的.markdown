@@ -7,10 +7,10 @@ tags:	[linuxcn,多云,社交网络,Starlink]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/19/171055mlz1njnwemjuuj7h.jpg)
+![](/Asserts/Images/album/202305/19/171055mlz1njnwemjuuj7h.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/19/171359hoaofafh4oiopfwr.jpg)
+![](/Asserts/Images/album/202305/19/171359hoaofafh4oiopfwr.jpg)
 
 
 ### Gartner：多云并不是必要的
@@ -35,7 +35,7 @@ tags:	[linuxcn,多云,社交网络,Starlink]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/19/171414pyrj3660r3ububuz.jpg)
+![](/Asserts/Images/album/202305/19/171414pyrj3660r3ububuz.jpg)
 
 
 ### Bluesky Social 按计划开源了
@@ -60,7 +60,7 @@ tags:	[linuxcn,多云,社交网络,Starlink]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/19/171432ijp8lb64z4j4g6vz.jpg)
+![](/Asserts/Images/album/202305/19/171432ijp8lb64z4j4g6vz.jpg)
 
 
 ### 美国联邦通信委员会支持了 Starlink 频段占用

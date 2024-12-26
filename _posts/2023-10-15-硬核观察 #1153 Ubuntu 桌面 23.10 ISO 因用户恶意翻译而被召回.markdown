@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,加密,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/13/171221fqo1t1wwt5q11q5t.jpg)
+![](/Asserts/Images/album/202310/13/171221fqo1t1wwt5q11q5t.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/13/171232hvl2qtl1lt1lhli0.jpg)
+![](/Asserts/Images/album/202310/13/171232hvl2qtl1lt1lhli0.jpg)
 
 
 ### Ubuntu 桌面 23.10 ISO 因用户恶意翻译而被召回
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ubuntu,加密,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/13/171242uhgidxgknd9bndax.jpg)
+![](/Asserts/Images/album/202310/13/171242uhgidxgknd9bndax.jpg)
 
 
 ### 欧洲考虑开源 TETRA 紧急服务加密算法
@@ -60,7 +60,7 @@ TETRA 是一种地面集群无线电协议，在欧洲、英国等国家用于�
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/13/171254c7e777phpnyrh8ge.jpg)
+![](/Asserts/Images/album/202310/13/171254c7e777phpnyrh8ge.jpg)
 
 
 ### 谷歌直接在搜索栏中生成人工智能图片

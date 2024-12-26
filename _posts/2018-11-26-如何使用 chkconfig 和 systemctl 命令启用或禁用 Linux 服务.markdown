@@ -7,7 +7,7 @@ tags:	[linuxcn,systemd]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/18/105900phch0hxaxthy0mam.jpg)
+![](/Asserts/Images/album/201811/18/105900phch0hxaxthy0mam.jpg)
 
 
 对于 Linux 管理员来说这是一个重要（美妙）的话题，所以每个人都必须知道，并练习怎样才能更高效的使用它们。

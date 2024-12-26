@@ -7,7 +7,7 @@ tags:	[linuxcn,Emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/02/002550x2ol48004hx6e0od.jpg)
+![](/Asserts/Images/album/201907/02/002550x2ol48004hx6e0od.jpg)
 
 
 我天天用 Emacs，但我却从意识到。但是每当我用 Emacs 时，它都给我带来了很多乐趣。

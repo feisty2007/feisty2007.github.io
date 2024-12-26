@@ -70,10 +70,10 @@ Ubuntu 11.10新特性：
 * <http://mirrors.163.com/ubuntu-releases/11.10/>
 
 
-![](/Asserts/Images//attachment/album/201110/14/103921p00fkcespschckue.jpg)　![](/Asserts/Images//attachment/album/201110/14/103922bxb0b5z016gw6bmb.jpg)
+![](/Asserts/Images/album/201110/14/103921p00fkcespschckue.jpg)　![](/Asserts/Images/album/201110/14/103922bxb0b5z016gw6bmb.jpg)
 
 
-![](/Asserts/Images//attachment/album/201110/14/103923nx5e8lakb5pgpxxq.jpg)　![](/Asserts/Images//attachment/album/201110/14/1039258qvfm818ejevd8o5.jpg)
+![](/Asserts/Images/album/201110/14/103923nx5e8lakb5pgpxxq.jpg)　![](/Asserts/Images/album/201110/14/1039258qvfm818ejevd8o5.jpg)
 
 
 　　Ubuntu 11.10 在傻瓜化安装和操作方面有了巨大的改进，从安装系统到初始化的配置，都非常简单。即便你从来都没用过它，你也不会觉得无所适从。

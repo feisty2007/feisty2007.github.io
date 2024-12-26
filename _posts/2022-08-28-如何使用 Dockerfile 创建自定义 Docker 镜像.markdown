@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/04/172001acb136363vi6vcgk.jpg)
+![](/Asserts/Images/album/202208/04/172001acb136363vi6vcgk.jpg)
 
 
 在这份指南中，我们将看到 **Dockerfile** 的简要介绍以及如何在 Linux 中使用 Dockerfile 来自动的 **创建自定义 Docker 镜像** 。
@@ -28,7 +28,7 @@ Dockerfile 是附有构建 Docker 镜像说明的易于理解的文本文件。�
 想象一下，早期如果我们想用 **Nginx**，我们要通过很多步骤，才能安装和配置好 Nginx 。得益于 Docker Hub ，现在我们可以在几分钟内，下载并运行 Nginx 的预置容器镜像。
 
 
-![Nginx Docker Image In Dockerhub](/Asserts/Images//attachment/album/202208/04/172007ev1vmbj9lvcnlmwm.png)
+![Nginx Docker Image In Dockerhub](/Asserts/Images/album/202208/04/172007ev1vmbj9lvcnlmwm.png)
 
 
 运行如下命令从 Docker Hub 上拉取 Nginx 镜像：
@@ -283,7 +283,7 @@ RUN apk add curl
 
 ```
 
-![Dockerfile For Alpine Linux](/Asserts/Images//attachment/album/202208/04/172008p92tu2t933f9zm2y.png)
+![Dockerfile For Alpine Linux](/Asserts/Images/album/202208/04/172008p92tu2t933f9zm2y.png)
 
 
 按下 `CTRL+O` 和 `CTRL+X` 键保存文件并关闭。
@@ -382,7 +382,7 @@ Linux 8890fec82de8 5.10.104-linuxkit #1 SMP Thu Mar 17 17:08:06 UTC 2022 x86_64 
 如果你使用 Docker 桌面版，你可以通过<ruby> 容器 <rt>  Containers </rt></ruby>标签页界面来查看运行中的容器。
 
 
-![View Containers In Docker Desktop](/Asserts/Images//attachment/album/202208/04/172009fzb180m8caibmy8b.png)
+![View Containers In Docker Desktop](/Asserts/Images/album/202208/04/172009fzb180m8caibmy8b.png)
 
 
 这就是使用 Dockerfile 构建自定义容器映像的方式。

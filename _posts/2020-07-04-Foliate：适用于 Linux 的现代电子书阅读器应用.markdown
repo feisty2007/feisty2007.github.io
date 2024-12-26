@@ -15,31 +15,31 @@ tags:	[linuxcn,电子书,Foliate]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/28/230931vpsyu25yua8855u3.jpg)
+![](/Asserts/Images/album/202007/28/230931vpsyu25yua8855u3.jpg)
 
 
 虽然我们已经有了一个 [Linux 最佳电子书阅读器](/article-10383-1.html)的列表，但最近我遇到了另一个 Linux 电子书阅读器。它叫 [Foliate](https://johnfactotum.github.io/foliate/)。
 
 
-![](/Asserts/Images//attachment/album/202007/28/225824jhw1spipohkr9irh.jpg)
+![](/Asserts/Images/album/202007/28/225824jhw1spipohkr9irh.jpg)
 
 
 Foliate 是一个现代的 GTK 电子书查看器，它有许多基本功能。如果你拥有亚马逊 Kindle 或其他电子书阅读器，那么你可能会想念那种在桌面上阅读的体验。
 
 
-![](/Asserts/Images//attachment/album/202007/28/225855ddqqxjl231d52z80.jpg)
+![](/Asserts/Images/album/202007/28/225855ddqqxjl231d52z80.jpg)
 
 
 Foliate 解决了那些抱怨。Foliate 会显示书的估计剩余阅读时间和页数。你可以添加书签、高亮文本和添加注释。你可以导出数据，也可以轻松同步它们。
 
 
-![](/Asserts/Images//attachment/album/202007/28/230259ozjelslfag32672j.jpg)
+![](/Asserts/Images/album/202007/28/230259ozjelslfag32672j.jpg)
 
 
 你也可以使用维基词典和维基百科查询单词。你可以在页面视图和滚动视图之间切换。它还有几个主题，以满足你的阅读偏好。
 
 
-![](/Asserts/Images//attachment/album/202007/28/230353onz4njbxcfh0ucxl.jpg)
+![](/Asserts/Images/album/202007/28/230353onz4njbxcfh0ucxl.jpg)
 
 
 最棒的是，它正在积极维护和开发。
@@ -48,7 +48,7 @@ Foliate 解决了那些抱怨。Foliate 会显示书的估计剩余阅读时间�
 ### Foliate 的功能
 
 
-![](/Asserts/Images//attachment/album/202007/28/230410m1ers1h4cb6vmm4v.jpg)
+![](/Asserts/Images/album/202007/28/230410m1ers1h4cb6vmm4v.jpg)
 
 
 让我们来看看 Foliate 提供的所有功能：

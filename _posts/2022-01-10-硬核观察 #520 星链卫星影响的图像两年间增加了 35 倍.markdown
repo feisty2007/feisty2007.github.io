@@ -7,10 +7,10 @@ tags:	[linuxcn,星链,恶意软件,FFmpeg]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/18/184234pzr9erk5nz9dkrmy.jpg)
+![](/Asserts/Images/album/202201/18/184234pzr9erk5nz9dkrmy.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/18/184257jnnphhnxpzcp7nun.jpg)
+![](/Asserts/Images/album/202201/18/184257jnnphhnxpzcp7nun.jpg)
 
 
 ### 星链卫星影响的图像两年间增加了 35 倍
@@ -27,7 +27,7 @@ SpaceX 旗下“星链”互联网服务需要在轨运行密集的卫星群来�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/18/184319kayybaba99sbaroa.jpg)
+![](/Asserts/Images/album/202201/18/184319kayybaba99sbaroa.jpg)
 
 
 ### 2021 年针对 Linux 的恶意软件增长了 35%
@@ -44,7 +44,7 @@ SpaceX 旗下“星链”互联网服务需要在轨运行密集的卫星群来�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/18/184336mo4bqv0or40mbzm4.jpg)
+![](/Asserts/Images/album/202201/18/184336mo4bqv0or40mbzm4.jpg)
 
 
 ### FFmpeg 5.0 发布

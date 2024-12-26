@@ -15,7 +15,7 @@ tags:	[linuxcn,Timeshift]
 > 
 
 
-![linux mint](/Asserts/Images//attachment/album/202206/07/081803dllixdspa5aau8aa.jpg)
+![linux mint](/Asserts/Images/album/202206/07/081803dllixdspa5aau8aa.jpg)
 
 
 Timeshift 可以说是 [备份和恢复 Linux 系统的最佳工具](https://itsfoss.com/backup-restore-linux-timeshift/)。
@@ -39,7 +39,7 @@ Linux Mint 团队联系了这位开发者，并愿意为这个项目提供任何
 ### 将 Timeshift 调整成 XApp
 
 
-![](/Asserts/Images//attachment/album/202206/07/081803zw14o4pww0wqwwrs.png)
+![](/Asserts/Images/album/202206/07/081803zw14o4pww0wqwwrs.png)
 
 
 Linux Mint 倾向于将某些应用作为“XApp”来维护，以确保它们能在各种不同的桌面环境下工作，不会依赖于某个特殊的桌面。

@@ -7,7 +7,7 @@ tags:	[linuxcn,LaTeX]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/20/094530itk2dim7yktyhh9y.jpg)
+![](/Asserts/Images/album/202102/20/094530itk2dim7yktyhh9y.jpg)
 
 
 LaTeX 是一个服务于高质量排版的[文档准备系统](http://www.latex-project.org/about/)。通常用于大量的技术和科学文档的排版。不过，你也可以使用 LaTex 排版各种形式的文档。教师可以编辑他们的考试和教学大纲，学生可以展示他们的论文和报告。这篇文章让你尝试使用 TeXstudio。TeXstudio 是一个便于编辑 LaTeX 文档的软件。
@@ -48,7 +48,7 @@ The Fedora Project is a project sponsored by Red Hat primarily to co-ordinate th
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/20/094530pmsifrnmssjsigzz.png)
+![](/Asserts/Images/album/202102/20/094530pmsifrnmssjsigzz.png)
 
 
 ### 使用间距
@@ -57,7 +57,7 @@ The Fedora Project is a project sponsored by Red Hat primarily to co-ordinate th
 要创建段落分隔符，请在文本之间保留一个或多个换行符。下面是一个包含四个段落的示例：
 
 
-![](/Asserts/Images//attachment/album/202102/20/094531g3hfhbpyzg6ggybb.png)
+![](/Asserts/Images/album/202102/20/094531g3hfhbpyzg6ggybb.png)
 
 
 从该示例中可以看出，多个换行符不会在段落之间创建额外的空格。但是，如果你确实需要留出额外的空间，请使用 `hspace` 和 `vspace` 命令。这两个命令分别添加水平和垂直空间。下面是一些示例代码，显示了段落周围的附加间距：
@@ -87,7 +87,7 @@ The freedom to distribute copies of your modified versions to others (freedom 3)
 如果需要，你也可以使用 `noindent` 命令来避免缩进。这里是上面 LaTeX 源码的结果：
 
 
-![](/Asserts/Images//attachment/album/202102/20/094533wbp84btnha08st60.png)
+![](/Asserts/Images/album/202102/20/094533wbp84btnha08st60.png)
 
 
 ### 使用列表和格式
@@ -121,7 +121,7 @@ The freedom to distribute copies of your modified versions to others (freedom 3)
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/20/094534d4t0s5q504tkj4i6.png)
+![](/Asserts/Images/album/202102/20/094534d4t0s5q504tkj4i6.png)
 
 
 ### 添加列、图像和链接
@@ -170,7 +170,7 @@ The freedom to distribute copies of your modified versions to others (freedom 3)
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/20/094535j3bhb9s3js3vo3b3.png)
+![](/Asserts/Images/album/202102/20/094535j3bhb9s3js3vo3b3.png)
 
 
 这里的功能只触及 LaTeX 功能的表面。你可以在该项目的[帮助和文档站点](https://www.latex-project.org/help/)了解更多关于它们的信息。

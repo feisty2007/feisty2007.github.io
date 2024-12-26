@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux,安全]
 在现在这个世道中，保障基于Linux的系统的安全是十分重要的。但是，你得知道怎么干。一个简单反恶意程序软件是远远不够的，你需要采取其它措施来协同工作。那么试试下面这些手段吧。
 
 
-![](/Asserts/Images//attachment/album/201407/05/145558v5qlrinz9a217avz.jpeg)
+![](/Asserts/Images/album/201407/05/145558v5qlrinz9a217avz.jpeg)
 
 
 ### 1. 使用SELinux
@@ -46,7 +46,7 @@ tags:	[linuxcn,Linux,安全]
 下面是来自 <http://www.portknocking.org/> 的示意图：
 
 
-![](/Asserts/Images//attachment/album/201407/05/145602lzssccczj3cdc3gd.png)![](/Asserts/Images//attachment/album/201407/05/145603n50k1d0z5nuxmlql.png)![](/Asserts/Images//attachment/album/201407/05/145604jprpaxdazzpsgmd3.png)![](/Asserts/Images//attachment/album/201407/05/145605doztzayht6xxo60a.png)
+![](/Asserts/Images/album/201407/05/145602lzssccczj3cdc3gd.png)![](/Asserts/Images/album/201407/05/145603n50k1d0z5nuxmlql.png)![](/Asserts/Images/album/201407/05/145604jprpaxdazzpsgmd3.png)![](/Asserts/Images/album/201407/05/145605doztzayht6xxo60a.png)
 
 
 ### 6. 使用Iptables

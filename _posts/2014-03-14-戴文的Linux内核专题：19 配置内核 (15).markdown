@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,戴文专题]
 ---
 
 
-![](/Asserts/Images//attachment/album/201403/31/230954tqagxvboukaa5398.jpg)
+![](/Asserts/Images/album/201403/31/230954tqagxvboukaa5398.jpg)
 
 
 你好！在这篇Linux系列文章中，我们将继续配置USB网络驱动。接着我们将进入输入设备。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/11/112312l4y0jf3gag8sam4g.jpg)
+![](/Asserts/Images/album/202207/11/112312l4y0jf3gag8sam4g.jpg)
 
 
 前几天我试图安装 [massCode](https://masscode.io/) 应用。对于安装，它提供了一个 Snap 文件以供下载。
@@ -31,7 +31,7 @@ error: cannot find signatures with metadata for snap "masscode_2.6.1_amd64.snap"
 
 ```
 
-![cannot find signature with metadata for snap](/Asserts/Images//attachment/album/202207/11/112314us6tcw6hizwmqtcr.png)
+![cannot find signature with metadata for snap](/Asserts/Images/album/202207/11/112314us6tcw6hizwmqtcr.png)
 
 
 这很奇怪。[在 Ubuntu 中添加外部仓库](https://itsfoss.com/adding-external-repositories-ubuntu/) 时，你必须添加 GPG 密钥。但是这里的开发人员没有提供这样的东西。
@@ -70,7 +70,7 @@ sudo snap install --dangerous path_to_snap_file
 在这里，我使用了这个选项并且能够成功地从它的 Snap 包中安装 massCode。
 
 
-![installing third party snap packages](/Asserts/Images//attachment/album/202207/11/112314ntj5v3k1kjtr8g5w.png)
+![installing third party snap packages](/Asserts/Images/album/202207/11/112314ntj5v3k1kjtr8g5w.png)
 
 
 以这种方式安装 Snap 包有多“危险”？几乎和下载并 [安装 deb 格式安装包](https://itsfoss.com/install-deb-files-ubuntu/) 相同。

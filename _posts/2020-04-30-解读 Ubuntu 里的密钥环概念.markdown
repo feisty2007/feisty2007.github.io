@@ -7,7 +7,7 @@ tags:	[linuxcn,密钥,密码,密钥环]
 ---
 
 
-![](/Asserts/Images//attachment/album/202004/09/230421ufdydfttjd9882ka.png)
+![](/Asserts/Images/album/202004/09/230421ufdydfttjd9882ka.png)
 
 
 如果你用过 Ubuntu 或者其他的 Linux 发行版里的[自动登录功能](https://itsfoss.com/ubuntu-automatic-logon/), 你可能遇到过这种弹出消息：
@@ -24,7 +24,7 @@ tags:	[linuxcn,密钥,密码,密钥环]
 > 
 
 
-![Enter Password To Unlock Your Login Keyring Ubuntu](/Asserts/Images//attachment/album/202004/09/230422m0xvgv0oj4fjdk7d.jpg)
+![Enter Password To Unlock Your Login Keyring Ubuntu](/Asserts/Images/album/202004/09/230422m0xvgv0oj4fjdk7d.jpg)
 
 
 如果你一直点击取消，它会不断弹出几次才会消失。你可能想知道，为什么你会一直看到这个密钥环信息呢？
@@ -72,7 +72,7 @@ Linux 里也是类似的。密钥环特性使你的系统可以将各种密码�
 如果你反复取消解锁密钥环的提示，它最终将消失，并允许你使用浏览器。但是，保存的密码将不会被解锁，你在 Chromium/Chome 浏览器上将会看到“同步暂停”的提示。
 
 
-![Sync paused in Google Chrome](/Asserts/Images//attachment/album/202004/09/230425e6ufyzpksktk7msf.jpg)
+![Sync paused in Google Chrome](/Asserts/Images/album/202004/09/230425e6ufyzpksktk7msf.jpg)
 
 
 #### 如果密钥环一直存在，为什么你从来没有见过它呢?
@@ -102,7 +102,7 @@ Ubuntu（和其他发行版）在执行普通的管理任务如修改用户、�
 别担心。你不必通过终端来操作守护任务。大多数桌面环境都自带一个可以和这个守护进程进行交互的图形化应用程序。KDE 上有 KDE 钱包，GNOME 和其他桌面上叫做“密码和密钥”（之前叫 [Seahorse](https://wiki.debian.org/Seahorse)）。
 
 
-![Password And Keys App in Ubuntu](/Asserts/Images//attachment/album/202004/09/230425u49fevvd2284zhwh.jpg)
+![Password And Keys App in Ubuntu](/Asserts/Images/album/202004/09/230425u49fevvd2284zhwh.jpg)
 
 
 你可以用这个 GUI 程序来查看哪些应用程序在用密钥环来管理/保护密码。
@@ -111,7 +111,7 @@ Ubuntu（和其他发行版）在执行普通的管理任务如修改用户、�
 你可以看到，我的系统有自动创建的登录密钥环。也有一个存储 GPG 和 SSH 密钥的密钥环。那个[证书](https://help.ubuntu.com/lts/serverguide/certificates-and-security.html)用来保存证书机构颁发的证书（如 HTTPS 证书）。
 
 
-![Password and Keys application in Ubuntu](/Asserts/Images//attachment/album/202004/09/230426pr9jj9ifjsgiez9i.png)
+![Password and Keys application in Ubuntu](/Asserts/Images/album/202004/09/230426pr9jj9ifjsgiez9i.png)
 
 
 你也可以使用这个应用程序来手动保存网站的密码。例如，我创建了一个新的叫做“Test”的被密码保护的密钥环，并手动存储了一个密码。
@@ -120,7 +120,7 @@ Ubuntu（和其他发行版）在执行普通的管理任务如修改用户、�
 这比在一个文本文件中保存一批密码要好一些。至少在这种情况下，你的密码只有在你通过密码解锁了密钥环时才允许被看到。
 
 
-![Saving New Password Seahorse](/Asserts/Images//attachment/album/202004/09/230427q8ehahh2aes6huhw.png)
+![Saving New Password Seahorse](/Asserts/Images/album/202004/09/230427q8ehahh2aes6huhw.png)
 
 
 这里有一个潜在的问题，如果你格式化你的系统，手动保存的密码必然会丢失。通常，你会备份你的个人文件，但并不是所有的用户特定数据，如密钥环文件。
@@ -156,13 +156,13 @@ Ubuntu（和其他发行版）在执行普通的管理任务如修改用户、�
 从菜单中打开“密码和密钥”应用程序：
 
 
-![Look for Password and Keys app in the menu](/Asserts/Images//attachment/album/202004/09/230425u49fevvd2284zhwh.jpg)
+![Look for Password and Keys app in the menu](/Asserts/Images/album/202004/09/230425u49fevvd2284zhwh.jpg)
 
 
 在“Login”密钥环上右击并点击“修改密码”：
 
 
-![Change Keyring Password](/Asserts/Images//attachment/album/202004/09/230428kthx6noqhnzqnzph.png)
+![Change Keyring Password](/Asserts/Images/album/202004/09/230428kthx6noqhnzqnzph.png)
 
 
 #### 如果你不记得老的登录密码怎么办？
@@ -177,13 +177,13 @@ Ubuntu（和其他发行版）在执行普通的管理任务如修改用户、�
 这种情况下，你将不得不移除整个密钥环。你可以通过“密码和密钥”应用程序来操作：
 
 
-![Delete Keyring Ubuntu](/Asserts/Images//attachment/album/202004/09/230431ng60t99gtzxhm9go.jpg)
+![Delete Keyring Ubuntu](/Asserts/Images/album/202004/09/230431ng60t99gtzxhm9go.jpg)
 
 
 它会提示你进行确认：
 
 
-![Delete Keyring](/Asserts/Images//attachment/album/202004/09/230437ojzpwajfqcfwkzj6.jpg)
+![Delete Keyring](/Asserts/Images/album/202004/09/230437ojzpwajfqcfwkzj6.jpg)
 
 
 另外，你也可以手动删除 `~/.local/share/keyrings` 目录下的密钥环文件。
@@ -192,7 +192,7 @@ Ubuntu（和其他发行版）在执行普通的管理任务如修改用户、�
 老的密钥环文件被移除后，你再打开 Chrome/Chromium 时，它会提示你创建一个新的密钥环。
 
 
-![New Keyring Password](/Asserts/Images//attachment/album/202004/09/230438h3puukppjkopu41o.jpg)
+![New Keyring Password](/Asserts/Images/album/202004/09/230438h3puukppjkopu41o.jpg)
 
 
 你可以用新的登录密码，密钥环就会被自动解锁了。
@@ -210,7 +210,7 @@ Ubuntu（和其他发行版）在执行普通的管理任务如修改用户、�
 技巧在于当它提示修改密码时，不要输入新密码，而是点击“继续”按钮。这将移除密钥环的密码。
 
 
-![Disable Keyring password by not setting any password at all](/Asserts/Images//attachment/album/202004/09/230439m4n1i2i3i723z24n.png)
+![Disable Keyring password by not setting any password at all](/Asserts/Images/album/202004/09/230439m4n1i2i3i723z24n.png)
 
 
 这种方法，密钥环没有密码保护，并将一直处于解锁状态。

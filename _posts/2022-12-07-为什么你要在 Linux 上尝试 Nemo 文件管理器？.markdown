@@ -7,7 +7,7 @@ tags:	[linuxcn,文件管理器,Nemo]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/12/080234oessb2lsx0s8esri.jpg)
+![](/Asserts/Images/album/202212/12/080234oessb2lsx0s8esri.jpg)
 
 
 
@@ -57,7 +57,7 @@ $ sudo apt install cinnamon-desktop-environment
 如果你已经习惯了 GNOME，无论是过去的还是现在的，那么 Nemo 从一开始就让你有一种回家的感觉。它有一个熟悉的外观和感觉，在类似的地方有按钮和选项，你很可能会认出它们。
 
 
-![Image of Nemo's file manager.](/Asserts/Images//attachment/album/202212/12/080308n2bjuugbn2a39ebu.jpg)
+![Image of Nemo's file manager.](/Asserts/Images/album/202212/12/080308n2bjuugbn2a39ebu.jpg)
 
 
 将视图控制按钮放在右上方的 GNOME 式惯例被保留了下来，你可以使用这些按钮快速地将你的文件视图从大图标切换到详细列表或紧凑视图。那里还有一个搜索功能，以及在可编辑文本和按钮之间切换位置栏的选项。

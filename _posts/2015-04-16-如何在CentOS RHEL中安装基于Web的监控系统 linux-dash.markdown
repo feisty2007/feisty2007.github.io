@@ -153,7 +153,7 @@ sudo chkconfig php-fpm on
 web面板包含了不同的组件，每个都显示独特的系统属性。你可以自定义web面板的外观也可以关闭一些组件。
 
 
-![](/Asserts/Images//attachment/album/201504/04/130642w4outnpe50p8210k.png)
+![](/Asserts/Images/album/201504/04/130642w4outnpe50p8210k.png)
 
 
 美好的一天！

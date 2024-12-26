@@ -7,7 +7,7 @@ tags:	[linuxcn,运行时间]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/13/114727no80y3hzg3og2rhg.jpg)
+![](/Asserts/Images/album/201910/13/114727no80y3hzg3og2rhg.jpg)
 
 
 出于一些原因，你可能需要每月收集一次 [Linux 系统运行时间](https://www.2daygeek.com/linux-system-server-uptime-check/)报告。如果是这样，你可以根据需要使用以下 [bash 脚本](https://www.2daygeek.com/category/shell-script/) 之一。

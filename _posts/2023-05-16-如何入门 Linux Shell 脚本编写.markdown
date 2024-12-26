@@ -7,7 +7,7 @@ tags:	[linuxcn,脚本]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/19/235745hz7r48umu1eerm2e.jpg)
+![](/Asserts/Images/album/202305/19/235745hz7r48umu1eerm2e.jpg)
 
 
 
@@ -141,7 +141,7 @@ $ ./myscript.sh
 注意：在当前目录下执行当前目录下的 Shell 脚本，须使用 `./<脚本名>` 方式，如下所示：
 
 
-![](/Asserts/Images//attachment/album/202305/19/235953e44jzssz4iqf1wyy.jpg)
+![](/Asserts/Images/album/202305/19/235953e44jzssz4iqf1wyy.jpg)
 
 
 #### 在 Shell 脚本中获取用户输入
@@ -176,13 +176,13 @@ Your Name: Pradeep Kumar
 
 Today' Date & Time: Sat 15 Oct 05:32:38 BST 2022
 
-Enter the file system:/mnt/Asserts/Images/
+Enter the file system:/mnt/data
 Filesystem Type Size Used Avail Use% Mounted on
-/dev/mapper/volgrp01-lv01 ext4 14G 24K 13G 1% /mnt/Asserts/Images/
+/dev/mapper/volgrp01-lv01 ext4 14G 24K 13G 1% /mnt/data
 
 ```
 
-![](/Asserts/Images//attachment/album/202305/20/000008gvifoiiy9pspgwww.jpg)
+![](/Asserts/Images/album/202305/20/000008gvifoiiy9pspgwww.jpg)
 
 
 完美，上方的输出表明脚本有输入提醒，并加工处理了相应的数据。

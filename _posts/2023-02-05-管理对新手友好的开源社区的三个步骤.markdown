@@ -15,7 +15,7 @@ tags:	[linuxcn,开源项目,开源社区,新手]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/12/222832vxfof8844fo4vsl4.jpg)
+![](/Asserts/Images/album/202302/12/222832vxfof8844fo4vsl4.jpg)
 
 
 当有人刚开始为开源做贡献时，最好从对新手友好的故障和议题开始。但在他们修复故障之前，他们必须要能够找到这类问题。作为一个开源项目的成员，你可以做很多事情来帮助新手找到为项目贡献的方式。

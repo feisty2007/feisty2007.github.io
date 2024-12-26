@@ -7,7 +7,7 @@ tags:	[linuxcn,视频,格式转换]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/07/141355dt7b8znyhfmltmsh.jpg)
+![](/Asserts/Images/album/202207/07/141355dt7b8znyhfmltmsh.jpg)
 
 
 
@@ -70,7 +70,7 @@ HandBrake 有大量的选项，使其成为一个独特的工具。首先，其�
 最后，你可以转换为 MPEG-4（mp4）、Matroska（mkv）和 WebM 格式。
 
 
-![HandBrake with various features](/Asserts/Images//attachment/album/202207/07/141403dn7h3a3zictxwrhw.jpg)
+![HandBrake with various features](/Asserts/Images/album/202207/07/141403dn7h3a3zictxwrhw.jpg)
 
 
 ### 下载和安装
@@ -110,13 +110,13 @@ HandBrake 有大量的选项，使其成为一个独特的工具。首先，其�
 3. 最后，点击顶部工具栏的“<ruby> 开始 <rt>  Start </rt></ruby>”按钮，用 HandBrake 转换视频。
 
 
-![HandBrake Video Conversion in three simple steps](/Asserts/Images//attachment/album/202207/07/141404wldzl2arp721f7za.jpg)
+![HandBrake Video Conversion in three simple steps](/Asserts/Images/album/202207/07/141404wldzl2arp721f7za.jpg)
 
 
 你可以在窗口的底部找到一个漂亮的转换进度显示。
 
 
-![Encoding status](/Asserts/Images//attachment/album/202207/07/141405enfkfk55nvvof878.jpg)
+![Encoding status](/Asserts/Images/album/202207/07/141405enfkfk55nvvof878.jpg)
 
 
 上面的步骤是最基本的步骤。如果你想进一步控制视频，你可以改变选项，也可以从我前面解释的大量预设列表中选择。

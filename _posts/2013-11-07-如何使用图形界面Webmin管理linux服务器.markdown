@@ -58,7 +58,7 @@ $ sudo rpm -U webmin-1.660-1.noarch.rpm
 一旦你进入了Webmin登录页面， 你可以使用root身份登录 （当然需要输入root账户密码）或者使用具有root权限的任何用户账户登录。 登录成功后， 你可以看到如下Linux服务器的状态信息。
 
 
-[![](/Asserts/Images//attachment/album/201311/30/085715hnc11x7qzlo2eo01.jpg)](http://www.flickr.com/photos/xmodulo/10937800943/)
+[![](/Asserts/Images/album/201311/30/085715hnc11x7qzlo2eo01.jpg)](http://www.flickr.com/photos/xmodulo/10937800943/)
 
 
 ### Webmin 的特点
@@ -70,43 +70,43 @@ Webmin 一个引以为豪的优点就是它几乎能够配置任何Linux服务�
 设置引导时自动启动的服务， 同时显示他们相关配置信息。
 
 
-[![](/Asserts/Images//attachment/album/201311/30/085719iwz5z9fhl3gm5vjj.jpg)](http://www.flickr.com/photos/xmodulo/10937589506/)
+[![](/Asserts/Images/album/201311/30/085719iwz5z9fhl3gm5vjj.jpg)](http://www.flickr.com/photos/xmodulo/10937589506/)
 
 
 实时监控服务器状态和其他服务， 同时配置定时监控及邮件提醒。 你也可以监控一系列服务器守护进程如 NFS、MySQL、 BIND DNS、Squid proxy、Apache Web server等， 或者监控系统资源如磁盘存储情况、内存使用和网络占用等。
 
 
-[![](/Asserts/Images//attachment/album/201311/30/085721sndsxns2f7g5hd25.jpg)](http://www.flickr.com/photos/xmodulo/10937589676/)
+[![](/Asserts/Images/album/201311/30/085721sndsxns2f7g5hd25.jpg)](http://www.flickr.com/photos/xmodulo/10937589676/)
 
 
 配置 iptables-based firewall。
 
 
-[![](/Asserts/Images//attachment/album/201311/30/085723ivn4nvd3en5cnzqs.jpg)](http://www.flickr.com/photos/xmodulo/10937801173/)
+[![](/Asserts/Images/album/201311/30/085723ivn4nvd3en5cnzqs.jpg)](http://www.flickr.com/photos/xmodulo/10937801173/)
 
 
 配置本地路由表和网关。
 
 
-[![](/Asserts/Images//attachment/album/201311/30/085725rn3jzpp4cmzumct8.jpg)](http://www.flickr.com/photos/xmodulo/10937531925/)
+[![](/Asserts/Images/album/201311/30/085725rn3jzpp4cmzumct8.jpg)](http://www.flickr.com/photos/xmodulo/10937531925/)
 
 
 挂载和配置文件系统。
 
 
-[![](/Asserts/Images//attachment/album/201311/30/085727qer2zklaoko7fwyx.jpg)](http://www.flickr.com/photos/xmodulo/10937589556/)
+[![](/Asserts/Images/album/201311/30/085727qer2zklaoko7fwyx.jpg)](http://www.flickr.com/photos/xmodulo/10937589556/)
 
 
 通过文件管理接口来查看和修改本地文件，但是这需要浏览器有相关的java插件。
 
 
-[![](/Asserts/Images//attachment/album/201311/30/0857305do9zpdnoddlnbd9.jpg)](http://www.flickr.com/photos/xmodulo/10937531975/)
+[![](/Asserts/Images/album/201311/30/0857305do9zpdnoddlnbd9.jpg)](http://www.flickr.com/photos/xmodulo/10937531975/)
 
 
 通过改变Webmin的相关配置，你可以控制管理 IP 地址，添加/删除 Webmin 功能模块，开启双因子认证来使用安全登录功能，或者创建证书验证等。
 
 
-[![](/Asserts/Images//attachment/album/201311/30/0857320o9e15zeuheip29v.jpg)](http://www.flickr.com/photos/xmodulo/10937532015/)
+[![](/Asserts/Images/album/201311/30/0857320o9e15zeuheip29v.jpg)](http://www.flickr.com/photos/xmodulo/10937532015/)
 
 
 

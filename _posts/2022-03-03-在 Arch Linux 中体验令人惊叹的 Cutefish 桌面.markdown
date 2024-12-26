@@ -15,7 +15,7 @@ tags:	[linuxcn,Cutefish]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/23/145712h8q77pe7j9q29hj2.jpg)
+![](/Asserts/Images/album/202203/23/145712h8q77pe7j9q29hj2.jpg)
 
 
 ### Cutefish 桌面
@@ -70,10 +70,10 @@ pacman -S cutefish
 
 ```
 
-![A base Arch Linux prompt](/Asserts/Images//attachment/album/202203/23/145717reorzlleww1or5rt.jpg)
+![A base Arch Linux prompt](/Asserts/Images/album/202203/23/145717reorzlleww1or5rt.jpg)
 
 
-![Install Cutefish in Arch Linux](/Asserts/Images//attachment/album/202203/23/145717pp55zspvpx5pdxks.jpg)
+![Install Cutefish in Arch Linux](/Asserts/Images/album/202203/23/145717pp55zspvpx5pdxks.jpg)
 
 
 接下来，我们需要通过下面的命令安装 Xorg 和显示管理器 SDDM。如果你将 Cutefish 桌面安装在安装有其他诸如 GNOME、KDE Plasma 或 Xfce 等桌面环境的 Arch Linux 中，那么请注意，因为你已经安装了一个显示管理器和 Xorg。所以，你可以轻松跳过这一步。
@@ -97,7 +97,7 @@ systemctl enable sddm
 这就是裸机安装 Cutefish 桌面的全部内容。完成后，重启系统，登录后你应该看到 Cutefish 桌面如下。
 
 
-![Cutefish Desktop in Arch Linux](/Asserts/Images//attachment/album/202203/23/145717muaulbigv6qo6eu8.jpg)
+![Cutefish Desktop in Arch Linux](/Asserts/Images/album/202203/23/145717muaulbigv6qo6eu8.jpg)
 
 
 基础安装需要额外的定制，因为它不像 Cutefish OS 那样接近。
@@ -134,7 +134,7 @@ pacman -S firefox ttf-freefont kwrite vlc gwenview gimp libreoffice-still transm
 按照你的选择完成所有的定制后，重启系统。然后享受 Arch Linux 中的 Cutefish 桌面。
 
 
-![The Stunning Login Lock Screen of Cutefish Desktop](/Asserts/Images//attachment/album/202203/23/145717hpppvy9z545tv0kg.jpg)
+![The Stunning Login Lock Screen of Cutefish Desktop](/Asserts/Images/album/202203/23/145717hpppvy9z545tv0kg.jpg)
 
 
 ### 结束语

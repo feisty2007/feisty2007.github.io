@@ -7,7 +7,7 @@ tags:	[linuxcn,Drupal]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/22/160226gzsvvw432p9wh6p3.jpg)
+![](/Asserts/Images/album/201704/22/160226gzsvvw432p9wh6p3.jpg)
 
 
 **Drupal** 是一个开源，灵活，高度可拓展和安全的<ruby> 内容管理系统 <rt>  Content Management System </rt></ruby>（CMS），使用户轻松的创建网站。
@@ -81,7 +81,7 @@ tags:	[linuxcn,Drupal]
 4、 现在验证 Apache 是否正常工作， 打开浏览器在地址栏中输入 `http://server_IP`， 输入你的服务器 IP 地址， 默认 Apache2 页面应出现，如下面截图所示：
 
 
-![Apache 默认页面](/Asserts/Images//attachment/album/201704/22/160235sejsje3csz9zzqj6.png)
+![Apache 默认页面](/Asserts/Images/album/201704/22/160235sejsje3csz9zzqj6.png)
 
 
 *Apache 默认页面*
@@ -131,7 +131,7 @@ tags:	[linuxcn,Drupal]
 
 ```
 
-![验证 PHP 信息](/Asserts/Images//attachment/album/201704/22/160235qotgstwtw8w3gf2g.png)
+![验证 PHP 信息](/Asserts/Images/album/201704/22/160235qotgstwtw8w3gf2g.png)
 
 
 *验证 PHP 信息*
@@ -188,7 +188,7 @@ gpgcheck=1
 
 ```
 
-![Mysql安全安装](/Asserts/Images//attachment/album/201704/22/160236hql77x5qq9xl89m9.png)
+![Mysql安全安装](/Asserts/Images/album/201704/22/160236hql77x5qq9xl89m9.png)
 
 
 *MySQL 安全安装*
@@ -266,7 +266,7 @@ Bye
 15、 最后，打开地址: `http://server_IP/drupal/` 开始网站的安装，选择你首选的安装语言然后点击保存以继续。
 
 
-![Drupal 安装语言](/Asserts/Images//attachment/album/201704/22/160238xbu4bue8cllezq18.png)
+![Drupal 安装语言](/Asserts/Images/album/201704/22/160238xbu4bue8cllezq18.png)
 
 
 *Drupal 安装语言*
@@ -275,7 +275,7 @@ Bye
 16、 下一步，选择安装配置文件，选择 Standard（标准），点击保存继续。
 
 
-![Drupal 安装配置文件](/Asserts/Images//attachment/album/201704/22/160238rs9lzru6n4lu9tyy.png)
+![Drupal 安装配置文件](/Asserts/Images/album/201704/22/160238rs9lzru6n4lu9tyy.png)
 
 
 *Drupal 安装配置文件*
@@ -284,7 +284,7 @@ Bye
 17、 在进行下一步之前查看并通过需求审查并启用 `Clean URL`。
 
 
-![验证 Drupal 需求](/Asserts/Images//attachment/album/201704/22/160239k1rdiji6qqj3ojsr.png)
+![验证 Drupal 需求](/Asserts/Images/album/201704/22/160239k1rdiji6qqj3ojsr.png)
 
 
 *验证 Drupal 需求*
@@ -302,7 +302,7 @@ Bye
 确保为默认根文档目录 `/var/www/html` 设置 `AllowOverride All`，如下图所示：
 
 
-![在 Drupal 中启用 Clean URL](/Asserts/Images//attachment/album/201704/22/160239o3373h8ciyvkhc81.png)
+![在 Drupal 中启用 Clean URL](/Asserts/Images/album/201704/22/160239o3373h8ciyvkhc81.png)
 
 
 *在 Drupal 中启用 Clean URL*
@@ -314,7 +314,7 @@ Bye
 当填写完所有信息点击**保存并继续**。
 
 
-![Drupal 数据库配置](/Asserts/Images//attachment/album/201704/22/160240n92opvzh5p622ovp.png)
+![Drupal 数据库配置](/Asserts/Images/album/201704/22/160240n92opvzh5p622ovp.png)
 
 
 *Drupal 数据库配置*
@@ -323,7 +323,7 @@ Bye
 若上述设置正确，Drupal 站点安装应该完成了，如下图界面。
 
 
-![Drupal 安装](/Asserts/Images//attachment/album/201704/22/160240n5irj2i81o233712.png)
+![Drupal 安装](/Asserts/Images/album/201704/22/160240n5irj2i81o233712.png)
 
 
 *Drupal 安装*
@@ -344,7 +344,7 @@ Bye
 设置适当的值后，点击**保存并继续**完成站点安装过程。
 
 
-![Drupal 站点配置](/Asserts/Images//attachment/album/201704/22/160241zyofyyil0lfbstko.png)
+![Drupal 站点配置](/Asserts/Images/album/201704/22/160241zyofyyil0lfbstko.png)
 
 
 *Drupal 站点配置*
@@ -353,7 +353,7 @@ Bye
 20、下图显示的是通过 LAMP 成功安装的 Drupal 8 站点。
 
 
-![Drupal站点面板](/Asserts/Images//attachment/album/201704/22/160241byhpybzkc4yy144n.png)
+![Drupal站点面板](/Asserts/Images/album/201704/22/160241byhpybzkc4yy144n.png)
 
 
 *Drupal 站点面板*

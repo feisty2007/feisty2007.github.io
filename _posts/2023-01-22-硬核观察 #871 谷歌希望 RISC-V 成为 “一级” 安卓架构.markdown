@@ -7,10 +7,10 @@ tags:	[linuxcn,RISC-V,安卓,智能电视,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/04/194456at6rk8tr38l99urf.jpg)
+![](/Asserts/Images/album/202301/04/194456at6rk8tr38l99urf.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/04/194504z72q3qpebqj8mq3q.jpg)
+![](/Asserts/Images/album/202301/04/194504z72q3qpebqj8mq3q.jpg)
 
 
 ### 谷歌希望 RISC-V 成为 “一级” 安卓架构
@@ -35,7 +35,7 @@ tags:	[linuxcn,RISC-V,安卓,智能电视,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/04/194516eqoob102o72l1ffb.jpg)
+![](/Asserts/Images/album/202301/04/194516eqoob102o72l1ffb.jpg)
 
 
 ### 智能电视机的隐藏获利方式
@@ -60,7 +60,7 @@ tags:	[linuxcn,RISC-V,安卓,智能电视,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/04/194530erk4is8c4xarmai4.jpg)
+![](/Asserts/Images/album/202301/04/194530erk4is8c4xarmai4.jpg)
 
 
 ### Debian 移除 Python 2

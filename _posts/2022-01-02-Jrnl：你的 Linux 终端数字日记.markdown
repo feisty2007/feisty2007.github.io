@@ -7,7 +7,7 @@ tags:	[linuxcn,日记,终端]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/30/234157xxoo76bdxb7xxbgl.jpg)
+![](/Asserts/Images/album/202201/30/234157xxoo76bdxb7xxbgl.jpg)
 
 
 想象一下：有人伤了你的心，而你想要的是心无旁骛地在日记中写下你的感受。你明白这种感受吗？没有吗？我也不知道。我没有心碎过（或者也许我心碎了，但我不想告诉你）。
@@ -49,7 +49,7 @@ Jrnl 可以用 pipx 或 Homebrew 包管理器安装。
 
 ```
 
-![Installing Homebrew on your system](/Asserts/Images//attachment/album/202201/30/234216zrvnsgkkwnaxswgb.png)
+![Installing Homebrew on your system](/Asserts/Images/album/202201/30/234216zrvnsgkkwnaxswgb.png)
 
 
 这就好了！如果你需要更多的信息，我们有一个关于 [在 Linux 上安装 Homebrew](https://itsfoss.com/homebrew-linux/) 的详细教程。
@@ -64,7 +64,7 @@ brew install jrnl
 
 ```
 
-![Installing Jrnl with Homebrew](/Asserts/Images//attachment/album/202201/30/234217f2kjnbpp9o9bxboz.png)
+![Installing Jrnl with Homebrew](/Asserts/Images/album/202201/30/234217f2kjnbpp9o9bxboz.png)
 
 
 安装后，只要初始化 jrnl 并开始写你的随机想法。
@@ -79,7 +79,7 @@ jrnl yesterday: I read an amazing article in It’s FOSS. I learn about a minima
 
 ```
 
-![Writing an entry](/Asserts/Images//attachment/album/202201/30/234217i7j9ie6z95a5ki7h.png)
+![Writing an entry](/Asserts/Images/album/202201/30/234217i7j9ie6z95a5ki7h.png)
 
 
 在这一行中，我用命令 `jrnl` 在一个时间戳旁启动程序，在这个例子中是 `yesterday`。我写了一个冒号 `:`，表示我将开始写一些东西，在第一个句子标记 `.?!:`（在这里是句号 `.`）之前包含的所有内容将是标题。最后，这个句号旁边的所有内容将被视为文件的主体。
@@ -94,7 +94,7 @@ jrnl -on yesterday
 
 ```
 
-![Viewing an entry](/Asserts/Images//attachment/album/202201/30/234217f4g5949ukn1dumt5.png)
+![Viewing an entry](/Asserts/Images/album/202201/30/234217f4g5949ukn1dumt5.png)
 
 
 认为有人可能会阅读你的日记和想法？你也可以对你的条目进行加密。

@@ -27,7 +27,7 @@ tags:	[linuxcn,ubuntu,Nessus]
 在安装和配置Nessus之前，你需要下载适合你的操作系统的Nessus。[在这里](http://www.tenable.com/products/nessus/select-your-operating-system)下载。由于这篇文章是介绍在ubuntu上安装和配置Nessus，那么选择linux分类，并且在linux分类下选择ubuntu。 图1显示了我在网上下载的deb包。你可以右键单击deb文件并点击“在ubuntu软件中心打开”，然后, 在ubuntu软件中心点击安装。安装之后我们需要配置Nessus，然后可以使用了。
 
 
-![](/Asserts/Images//attachment/album/201309/17/151633cjf4aw1cmf4cm4mz.png)
+![](/Asserts/Images/album/201309/17/151633cjf4aw1cmf4cm4mz.png)
 
 
 图1
@@ -39,7 +39,7 @@ tags:	[linuxcn,ubuntu,Nessus]
 通过命令启动Nessus安装，如图2 所示。
 
 
-![](/Asserts/Images//attachment/album/201309/17/151637geb2ooocezi3szom.png)
+![](/Asserts/Images/album/201309/17/151637geb2ooocezi3szom.png)
 
 
 图2
@@ -48,7 +48,7 @@ tags:	[linuxcn,ubuntu,Nessus]
 现在添加一个用户，输入命令，如图3所示.
 
 
-![](/Asserts/Images//attachment/album/201309/17/15164088g6pojocz36eehg.png)
+![](/Asserts/Images/album/201309/17/15164088g6pojocz36eehg.png)
 
 
 图3
@@ -57,7 +57,7 @@ tags:	[linuxcn,ubuntu,Nessus]
 在图3所示的登录提示框中，输入你想要添加的用户名，在你两次正确输入密码之后，此用户名就成为了管理员。完成之后，通过键入“**/etc/init.d/nessusd start**”命令运行Nessus，在浏览器打开 **https://127.0.0.1:8834** 登录到Nessus。
 
 
-![](/Asserts/Images//attachment/album/201309/17/151646sq0b16xypszyqlla.png)
+![](/Asserts/Images/album/201309/17/151646sq0b16xypszyqlla.png)
 
 
 图4

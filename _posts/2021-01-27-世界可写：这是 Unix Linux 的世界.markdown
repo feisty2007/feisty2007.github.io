@@ -7,7 +7,7 @@ tags:	[linuxcn,Unix,权限]
 ---
 
 
-![](/Asserts/Images//attachment/album/202101/17/123419bjsnqy3nsiyarjs3.jpg)
+![](/Asserts/Images/album/202101/17/123419bjsnqy3nsiyarjs3.jpg)
 
 
 昨天发的一篇[新闻点评](/article-13021-1.html)中，提及了在 Ubuntu 21.04 中准备修复一个十多年的 Bug：将用户主目录的默认的“世界可写”权限取消，并对这条新闻吐槽了一番。

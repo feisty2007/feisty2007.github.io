@@ -10,7 +10,7 @@ tags:	[linuxcn,Kali,OpenVAS,漏洞评估]
 本教程将介绍在 Kali Linux 中安装 OpenVAS 8.0 的过程。 OpenVAS 是一个可以自动执行网络安全审核和漏洞评估的开源[漏洞评估](https://www.aptive.co.uk/vulnerability-assessment/)程序。请注意，<ruby> 漏洞评估 <rp>  （ </rp> <rt>  Vulnerability Assessment </rt> <rp>  ） </rp></ruby>也称为 VA 并不是<ruby> 渗透测试 <rp>  （ </rp> <rt>  penetration test </rt> <rp>  ） </rp></ruby>，渗透测试会进一步验证是否存在发现的漏洞，请参阅[什么是渗透测试](https://www.aptive.co.uk/penetration-testing/)来对渗透测试的构成以及不同类型的安全测试有一个了解。
 
 
-![](/Asserts/Images//attachment/album/201704/23/190118ok22ixxd81x81y0b.jpg)
+![](/Asserts/Images/album/201704/23/190118ok22ixxd81x81y0b.jpg)
 
 
 ### 什么是 Kali Linux?
@@ -43,7 +43,7 @@ apt-get update && apt-get dist-upgrade -y
 
 ```
 
-![Updating Kali Linux](/Asserts/Images//attachment/album/201704/23/190207mnb2ypo7yx2bww7y.png)
+![Updating Kali Linux](/Asserts/Images/album/201704/23/190207mnb2ypo7yx2bww7y.png)
 
 
 更新过程可能需要一些时间才能完成。Kali 目前是滚动更新，这意味着你可以从任何版本的 Kali 滚动更新到当前版本。然而它仍有发布号，但这些是针对特定 Kali 时间点版本的 VMWare 快照。你可以从任何 VMWare 镜像更新到当前的稳定版本。
@@ -55,7 +55,7 @@ apt-get update && apt-get dist-upgrade -y
 ### 安装 OpenVAS 8
 
 
-![Installing OpenVAS 8](/Asserts/Images//attachment/album/201704/23/190209dazzlhkk6xh5t9ui.png)
+![Installing OpenVAS 8](/Asserts/Images/album/201704/23/190209dazzlhkk6xh5t9ui.png)
 
 
 
@@ -69,19 +69,19 @@ openvas-setup
 在安装中，你会被询问关于 redis 的问题，选择默认选项来以 UNIX 套接字运行。
 
 
-![Configure OpenVAS Scanner](/Asserts/Images//attachment/album/201704/23/190212kd711kucgvod75ok.png)
+![Configure OpenVAS Scanner](/Asserts/Images/album/201704/23/190212kd711kucgvod75ok.png)
 
 
 即使是有快速的网络连接，openvas-setup 仍需要很长时间来下载和更新所有所需的 CVE、SCAP 定义。
 
 
-![Update all the required CVE, SCAP definitions](/Asserts/Images//attachment/album/201704/23/190219cvpqtltfpjkmqixv.png)
+![Update all the required CVE, SCAP definitions](/Asserts/Images/album/201704/23/190219cvpqtltfpjkmqixv.png)
 
 
 请注意 openvas-setup 的命令输出，密码会在安装过程中生成，并在安装的最后在控制台中打印出来。
 
 
-![Command output during install](/Asserts/Images//attachment/album/201704/23/190225qe3iqwk0bmaqmmgv.png)
+![Command output during install](/Asserts/Images/album/201704/23/190225qe3iqwk0bmaqmmgv.png)
 
 
 验证 openvas 正在运行:
@@ -93,7 +93,7 @@ netstat -tulpn
 
 ```
 
-![Check OpenVAS Status](/Asserts/Images//attachment/album/201704/23/190228a9xjdcdttr6aw55j.png)
+![Check OpenVAS Status](/Asserts/Images/album/201704/23/190228a9xjdcdttr6aw55j.png)
 
 
 ### 在 Kali 中运行 OpenVAS
@@ -111,25 +111,25 @@ openvas-start
 安装后，你应该可以通过 `https://127.0.0.1:9392` 访问 OpenVAS 的 web 程序了。
 
 
-![OpenVAS started](/Asserts/Images//attachment/album/201704/23/190229zxh0nhhbn1vvnv31.png)
+![OpenVAS started](/Asserts/Images/album/201704/23/190229zxh0nhhbn1vvnv31.png)
 
 
 接受自签名证书，并使用 openvas-setup 输出的 admin 凭证和密码登录程序。
 
 
-![Accept the self-signed SSL cert](/Asserts/Images//attachment/album/201704/23/190232fgokek2ggg95e0vk.png)
+![Accept the self-signed SSL cert](/Asserts/Images/album/201704/23/190232fgokek2ggg95e0vk.png)
 
 
 接受自签名证书后，你应该可以看到登录界面了。
 
 
-![OpenVAS Login](/Asserts/Images//attachment/album/201704/23/190235vm3rjmxf6vi131ez.png)
+![OpenVAS Login](/Asserts/Images/album/201704/23/190235vm3rjmxf6vi131ez.png)
 
 
 登录后，你应该可以看到下面的页面：
 
 
-![OpenVAS Dashboard](/Asserts/Images//attachment/album/201704/23/190237jb28dinhsnh0e8t8.png)
+![OpenVAS Dashboard](/Asserts/Images/album/201704/23/190237jb28dinhsnh0e8t8.png)
 
 
 从此，你应该可以使用向导配置自己的漏洞扫描了。

@@ -16,19 +16,19 @@ Cinnamon是一个提供了高级创新特性和传统用户体验的Linux桌面�
 下图是Cinnamon桌面崩溃后，文本和图标从菜单和面板消失了。
 
 
-![](/Asserts/Images//attachment/album/201502/27/225444iccr3n7o0o0r8iio.png)
+![](/Asserts/Images/album/201502/27/225444iccr3n7o0o0r8iio.png)
 
 
 要重启Cinnamon，按下**Alt + F2** 将会打开一个命令菜单，输入**r**并按下回车。
 
 
-![](/Asserts/Images//attachment/album/201502/27/225500vl2qo020k92pq242.png)
+![](/Asserts/Images/album/201502/27/225500vl2qo020k92pq242.png)
 
 
 Cinnamon应该会重新在面板和菜单中显示图标和文本了。
 
 
-![](/Asserts/Images//attachment/album/201502/27/225514au3upr3yrrau4qp8.png)
+![](/Asserts/Images/album/201502/27/225514au3upr3yrrau4qp8.png)
 
 
 试试吧！

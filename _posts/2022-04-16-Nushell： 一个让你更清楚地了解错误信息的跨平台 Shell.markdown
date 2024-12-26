@@ -7,7 +7,7 @@ tags:	[linuxcn,Nushell,shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/30/181450b5r4m5jb77llrfru.jpg)
+![](/Asserts/Images/album/202204/30/181450b5r4m5jb77llrfru.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,Nushell,shell]
 不仅仅限于错误信息，例如，你在终端浏览文件时看到的输出结构，也不是最漂亮的。
 
 
-![Terminal listing several files](/Asserts/Images//attachment/album/202204/30/181456vd8nvatut5p844jd.png)
+![Terminal listing several files](/Asserts/Images/album/202204/30/181456vd8nvatut5p844jd.png)
 
 
 **你明白我的意思吗？** 当然，当你有更多不同类型的文件时，这可能变得更加复杂。而且，你无法从基本的 `ls` 命令的输出中了解到文件的权限、组等。
@@ -42,7 +42,7 @@ tags:	[linuxcn,Nushell,shell]
 ### Nushell：一个默认提供用户友好输出的 Shell
 
 
-![Nushell example screenshot](/Asserts/Images//attachment/album/202204/30/181456ri27yfx2gkhibypf.jpg)
+![Nushell example screenshot](/Asserts/Images/album/202204/30/181456ri27yfx2gkhibypf.jpg)
 
 
 Nushell 也被称为 Nu，它的理念和灵感来自于 [PowerShell](https://itsfoss.com/microsoft-open-sources-powershell/)、函数式编程语言和现代 [CLI](https://itsfoss.com/gui-cli-tui/) 工具等项目。
@@ -57,7 +57,7 @@ ls -a | where type == 'file'
 
 ```
 
-![Listing only files with Nushell](/Asserts/Images//attachment/album/202204/30/181456fruklqauk1aaaacc.png)
+![Listing only files with Nushell](/Asserts/Images/album/202204/30/181456fruklqauk1aaaacc.png)
 
 
 观察一下，它的语法是多么清晰和简单。现在想象一下，用 Nushell 查找进程和名称 ID、它的状态，以及 CPU 或内存消耗是多么容易。**这是它魔法的一部分！**
@@ -69,7 +69,7 @@ ls -a | where type == 'file'
 ### Nushell 的特点
 
 
-![Error messages in Nu, one of its primary highlights](/Asserts/Images//attachment/album/202204/30/181456bvszq4v10e1yhjns.png)
+![Error messages in Nu, one of its primary highlights](/Asserts/Images/album/202204/30/181456bvszq4v10e1yhjns.png)
 
 
 根据现有的官方信息，它的一些最受欢迎的功能包括：
@@ -111,7 +111,7 @@ brew install nushell
 
 ```
 
-![Installing nushell with Homebrew](/Asserts/Images//attachment/album/202204/30/181457fqq3ggv9vsgqq3b4.png)
+![Installing nushell with Homebrew](/Asserts/Images/album/202204/30/181457fqq3ggv9vsgqq3b4.png)
 
 
 当这个过程完成后，只要输入 `nu` 就可以启动 Nushell shell。**这就完成了！**

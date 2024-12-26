@@ -7,13 +7,13 @@ tags:	[linuxcn,CentOS,GitLab,Excel]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/05/150214kfateu3u03ufliie.jpg)
+![](/Asserts/Images/album/202111/05/150214kfateu3u03ufliie.jpg)
 
 
 ### CentOS Stream 结出了第一个果实：RHEL 9 Beta
 
 
-![](/Asserts/Images//attachment/album/202111/05/150223tr6ce5zp88c8psxw.jpg)
+![](/Asserts/Images/album/202111/05/150223tr6ce5zp88c8psxw.jpg)
 
 
 虽然许多 CentOS 用户对 CentOS 成为 RHEL 的上游感到不满，但 RHEL 9 表明新的 CentOS 模式已经实现了红帽公司对它的期望。[RHEL 9 发布了第一个测试版](https://www.zdnet.com/article/the-first-fruits-of-centos-stream-red-hat-enterprise-linux-9-beta/)，它基于 Linux 5.14 内核，支持四种架构：英特尔/AMD 64 位、ARM 64 位等等。红帽公司最近取消了注册 RHEL 测试版的要求。如果你有任何种类的红帽账户（包括免费的红帽开发者计划），你就可以无限制地获得红帽测试订阅。当然，以前的 CentOS 用户现在有 RHEL 克隆的 Rocky Linux 和 AlmaLinux，或者也可以转向 CloudLinux 来支持 CentOS 8。
@@ -30,7 +30,7 @@ tags:	[linuxcn,CentOS,GitLab,Excel]
 ### 自托管的 GitLab 服务器被利用发动 DDoS 攻击
 
 
-![](/Asserts/Images//attachment/album/202111/05/150240mpr3rcff7wnnnp1f.jpg)
+![](/Asserts/Images/album/202111/05/150240mpr3rcff7wnnnp1f.jpg)
 
 
 Google 安全工程师发现了 [这次 DDoS 攻击](https://therecord.media/gitlab-servers-are-being-exploited-in-ddos-attacks-in-excess-of-1-tbps/)，攻击流量一度超过 1 Tbps。该漏洞位于 ExifTool 库内，它被用于移除上传到 Web 服务器中的图像元数据。GitLab 已在今年 4 月将其修复，但不是所有自托管服务器打上了补丁。有大约 6 万 GitLab 自托管服务器联网，而其中一半的服务器没有打上该补丁。利用该漏洞的概念验证代码在今年 6 月公布，而攻击也是始于 6 月。
@@ -47,7 +47,7 @@ Google 安全工程师发现了 [这次 DDoS 攻击](https://therecord.media/git
 ### 微软为 Excel 增加新的自定义数据类型支持
 
 
-![](/Asserts/Images//attachment/album/202111/05/150255yzvv8jji56jbbrwq.jpg)
+![](/Asserts/Images/album/202111/05/150255yzvv8jji56jbbrwq.jpg)
 
 
 Excel 在历史上一直是用来组织文本和数字的，但几年来，微软一直在努力提高 Excel 支持的数据类型。去年，它推出了动态数组和数组公式，并通过链接数据类型支持股票、地理和 Wolfram 等数据。为此，微软推出了几个新的 JavaScript API，允许开发者使用 [更多的数据类型](https://www.zdnet.com/article/microsoft-wants-to-take-excel-beyond-numbers-and-text/)。

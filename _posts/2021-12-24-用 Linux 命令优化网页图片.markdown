@@ -15,7 +15,7 @@ tags:	[linuxcn,图片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/19/100432i8qzjr6t22g68uoi.jpg "Digital creative of a browser on the internet")
+![](/Asserts/Images/album/202112/19/100432i8qzjr6t22g68uoi.jpg "Digital creative of a browser on the internet")
 
 
 以前我在处理网页工作时，我对图像敬而远之。处理和优化图像既不精确又费时。

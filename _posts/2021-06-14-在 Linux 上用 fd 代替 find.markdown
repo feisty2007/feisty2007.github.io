@@ -15,7 +15,7 @@ tags:	[linuxcn,find,查找]
 > 
 
 
-![](/Asserts/Images//attachment/album/202106/24/110546npqmttwobtqpo4qk.jpg "Magnifying glass on code")
+![](/Asserts/Images/album/202106/24/110546npqmttwobtqpo4qk.jpg "Magnifying glass on code")
 
 
 许多 Linux 程序员在其工作中每天都在使用 `find` 命令。但是 `find` 给出的文件系统条目是有限的，如果你要进行大量的 `find` 操作，它甚至不是很快速。因此，我更喜欢使用 Rust 编写的 `fd` 命令，因为它提供了合理的默认值，适用于大多数使用情况。
@@ -125,8 +125,8 @@ $ fd -e zip -x unzip
 
 ```
 $ fd . '/home/ssur/Work/' --changed-within 10d
-/home/ssur/Work/wildfly/connector/src/main/java/org/jboss/as/connector/subsystems/Asserts/Images/_sources/JdbcDriverAdd.java
-/home/ssur/Work/wildfly/connector/src/main/java/org/jboss/as/connector/subsystems/Asserts/Images/_sources/JdbcExample.java
+/home/ssur/Work/wildfly/connector/src/main/java/org/jboss/as/connector/subsystems/data_sources/JdbcDriverAdd.java
+/home/ssur/Work/wildfly/connector/src/main/java/org/jboss/as/connector/subsystems/data_sources/JdbcExample.java
 [...]
 
 ```

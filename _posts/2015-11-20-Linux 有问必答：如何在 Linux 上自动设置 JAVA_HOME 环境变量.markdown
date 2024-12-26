@@ -27,7 +27,7 @@ tags:	[linuxcn,java,JAVA_HOME]
 以下 `export` 命令能为您**自动设置** JAVA\_HOME 环境变量，而无须顾及上述的因素。
 
 
-![](/Asserts/Images//attachment/album/201511/17/131929scdx6dsxsweeawqj.png)
+![](/Asserts/Images/album/201511/17/131929scdx6dsxsweeawqj.png)
 
 
 若您安装的是 JRE：
@@ -72,7 +72,7 @@ export JAVA_HOME=$(dirname $(dirname $(readlink -f $(which javac))))
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/17/131941nki1kf7gv9g5nkcg.jpg)
+![](/Asserts/Images/album/201511/17/131941nki1kf7gv9g5nkcg.jpg)
 
 
 简而言之，这些 export 命令会在您重装/升级您的JDK/JRE，或[更换默认 Java 版本](http://ask.xmodulo.com/change-default-java-version-linux.html)时自动更新 JAVA\_HOME 变量。您不再需要手动调整它。

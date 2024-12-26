@@ -19,7 +19,7 @@ IPv6是寻址方案IPv4的下一个版本，被用来给域名分配数字地址
 IPv6比IPv4支持更多的地址。然而，它还没有被广泛支持，还在被接受的过程中。
 
 
-![](/Asserts/Images//attachment/album/201407/12/001926eqbu2vjzu6zxzmxz.jpg)
+![](/Asserts/Images/album/201407/12/001926eqbu2vjzu6zxzmxz.jpg)
 
 
 ### 你的系统支持IPv6么?

@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu Touch,BT,torrent]
 ---
 
 
-![DowNow](/Asserts/Images//attachment/album/201409/14/112136rh1wvuss732qevjk.jpg)
+![DowNow](/Asserts/Images/album/201409/14/112136rh1wvuss732qevjk.jpg)
 
 
 **Ubuntu触屏平台已经拥有许多有趣应用程序，甚至看起来很多开发者已经开始实现许多超乎期望的软件，像BT客户端就是个很好的例子。**

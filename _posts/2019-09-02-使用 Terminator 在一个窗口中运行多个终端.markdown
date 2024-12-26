@@ -7,7 +7,7 @@ tags:	[linuxcn,终端,Terminator]
 ---
 
 
-![](/Asserts/Images//attachment/album/201909/30/233732j9jjx3xxuujopiuu.jpg)
+![](/Asserts/Images/album/201909/30/233732j9jjx3xxuujopiuu.jpg)
 
 
 
@@ -18,7 +18,7 @@ tags:	[linuxcn,终端,Terminator]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/30/233819d9hn3n4l25dnng59.jpg)
+![](/Asserts/Images/album/201909/30/233819d9hn3n4l25dnng59.jpg)
 
 
 如果你曾经希望可以排列多个终端并将它们组织在一个窗口中，那么我们可能会给你带来一个好消息。 Linux 的 Terminator 可以为你做到这一点。没有问题！

@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCSA]
 在本系列的前面几篇文章中，我们已经详细地探索了至少两种访问控制方法：标准的 ugo/rwx 权限（[RHCSA 系列（三）: 如何管理 RHEL7 的用户和组](/article-6187-1.html)） 和访问控制列表（[RHCSA 系列（七）: 使用 ACL（访问控制列表) 和挂载 Samba/NFS 共享](/article-6263-1.html)）。
 
 
-![RHCSA 认证：SELinux 精要和控制文件系统的访问](/Asserts/Images//attachment/album/201510/03/001057n1o6dma6odtbldmp.png)
+![RHCSA 认证：SELinux 精要和控制文件系统的访问](/Asserts/Images/album/201510/03/001057n1o6dma6odtbldmp.png)
 
 
 *RHCSA 认证：SELinux 精要和控制文件系统的访问*
@@ -56,7 +56,7 @@ SELinux 可以以三种不同的模式运行：
 
 ```
 
-![设置 SELinux 模式](/Asserts/Images//attachment/album/201510/03/001104z817mn41dl1z7xhn.png)
+![设置 SELinux 模式](/Asserts/Images/album/201510/03/001104z817mn41dl1z7xhn.png)
 
 
 *设置 SELinux 模式*
@@ -101,7 +101,7 @@ Port 9999
 
 ```
 
-![更改 SSH 的端口](/Asserts/Images//attachment/album/201510/03/001110nkt5tuclnnkvruzg.png)
+![更改 SSH 的端口](/Asserts/Images/album/201510/03/001110nkt5tuclnnkvruzg.png)
 
 
 *重启 SSH 服务*
@@ -119,7 +119,7 @@ Port 9999
 
 ```
 
-![查看 SSH 日志](/Asserts/Images//attachment/album/201510/03/001112ges4t76vm2xlqexv.png)
+![查看 SSH 日志](/Asserts/Images/album/201510/03/001112ges4t76vm2xlqexv.png)
 
 
 *查看 SSH 日志*
@@ -140,7 +140,7 @@ Port 9999
 便可以得到一个 SELinux 允许 sshd 在哪些端口上监听的列表：
 
 
-![Semanage 工具](/Asserts/Images//attachment/album/201510/03/001117i7wsoslzhwlw2dse.png)
+![Semanage 工具](/Asserts/Images/album/201510/03/001117i7wsoslzhwlw2dse.png)
 
 
 *Semanage 工具*
@@ -157,7 +157,7 @@ Port 9999
 
 ```
 
-![Semanage 添加端口](/Asserts/Images//attachment/album/201510/03/001121vntuqr5og4x40xv5.png)
+![Semanage 添加端口](/Asserts/Images/album/201510/03/001121vntuqr5og4x40xv5.png)
 
 
 *semanage 添加端口*
@@ -180,7 +180,7 @@ Port 9999
 
 ```
 
-![允许 Apache 发送邮件](/Asserts/Images//attachment/album/201510/03/001127xwsgs5x3fjerusb3.png)
+![允许 Apache 发送邮件](/Asserts/Images/album/201510/03/001127xwsgs5x3fjerusb3.png)
 
 
 *允许 Apache 发送邮件*
@@ -218,7 +218,7 @@ a). 在 /websites 下创建一个 index.html 文件并包含如下的内容：
 你将会看到这个 index.html 已经被标记上了 default\_t SELinux 类型，而 Apache 不能访问这类文件：
 
 
-![检查 SELinux 文件的权限](/Asserts/Images//attachment/album/201510/03/001130dpsxzlzl54xngsl1.png)
+![检查 SELinux 文件的权限](/Asserts/Images/album/201510/03/001130dpsxzlzl54xngsl1.png)
 
 
 *检查 SELinux 文件的权限*
@@ -251,7 +251,7 @@ e). 最后，应用在 d) 中创建的 SELinux 策略：
 现在重启 Apache 并再次浏览到 `http://<web server IP address>`，则你可以看到被正确展现出来的 html 文件：
 
 
-![确认 Apache 页面](/Asserts/Images//attachment/album/201510/03/001133c3upm244hpom4huh.png)
+![确认 Apache 页面](/Asserts/Images/album/201510/03/001133c3upm244hpom4huh.png)
 
 
 *确认 Apache 页面*

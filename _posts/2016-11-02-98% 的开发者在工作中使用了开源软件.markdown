@@ -7,7 +7,7 @@ tags:	[linuxcn,开发人员]
 ---
 
 
-![developer using open source](/Asserts/Images//attachment/album/201611/12/163841xh9z0bclexlpt0n0.jpg)
+![developer using open source](/Asserts/Images/album/201611/12/163841xh9z0bclexlpt0n0.jpg)
 
 
 开源每天都会达到新的高度。但是一个新的研究表明超过 98% 的开发者在工作中使用开源工具。

@@ -13,7 +13,7 @@ tags:	[linuxcn,集群,Docker,Docker Machine,Docker Swarm]
 下面是我提供的简便方法。
 
 
-![](/Asserts/Images//attachment/album/201508/02/223303o09o5mff9s85sz95.png)
+![](/Asserts/Images/album/201508/02/223303o09o5mff9s85sz95.png)
 
 
 ### 1. 安装Docker Machine
@@ -58,7 +58,7 @@ Docker Machine 在各种Linux系统上都支持的很好。首先，我们需要
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/03/155423c1zspfh145xp1skx.png)
+![](/Asserts/Images/album/201508/03/155423c1zspfh145xp1skx.png)
 
 
 为了让Docker命令能够在我们的机器上运行，必须还要在机器上安装Docker客户端。命令如下。
@@ -98,7 +98,7 @@ Docker Machine 在各种Linux系统上都支持的很好。首先，我们需要
 
 ```
 
-![Docker Machine Digitalocean Cloud](/Asserts/Images//attachment/album/201508/02/223310kbhwvmvhop3rsuww.png)
+![Docker Machine Digitalocean Cloud](/Asserts/Images/album/201508/02/223310kbhwvmvhop3rsuww.png)
 
 
 然后，我们使用如下命令将我们的machine标记为ACTIVE状态。
@@ -119,7 +119,7 @@ Docker Machine 在各种Linux系统上都支持的很好。首先，我们需要
 
 ```
 
-![Docker Machine Active List](/Asserts/Images//attachment/album/201508/02/223311uqlsollgollbqoz3.png)
+![Docker Machine Active List](/Asserts/Images/album/201508/02/223311uqlsollgollbqoz3.png)
 
 
 ### 3. 运行Swarm Docker镜像
@@ -134,7 +134,7 @@ Docker Machine 在各种Linux系统上都支持的很好。首先，我们需要
 
 ```
 
-![Docker Machine Swarm Create](/Asserts/Images//attachment/album/201508/02/223312ke85u6d7eg2q5s6x.png)
+![Docker Machine Swarm Create](/Asserts/Images/album/201508/02/223312ke85u6d7eg2q5s6x.png)
 
 
 如果你想要在**32位操作系统**上运行swarm docker镜像。你需要SSH登录到Droplet当中。
@@ -166,7 +166,7 @@ swarm-master
 
 ```
 
-![Docker Machine Swarm Master Create](/Asserts/Images//attachment/album/201508/02/223313cqppapwipkq1wtyb.png)
+![Docker Machine Swarm Master Create](/Asserts/Images/album/201508/02/223313cqppapwipkq1wtyb.png)
 
 
 ### 5. 创建Swarm从节点
@@ -186,7 +186,7 @@ swarm-node
 
 ```
 
-![Docker Machine Swarm Nodes](/Asserts/Images//attachment/album/201508/02/223314zd0zhu6r83rdswrs.png)
+![Docker Machine Swarm Nodes](/Asserts/Images/album/201508/02/223314zd0zhu6r83rdswrs.png)
 
 
 ### 6. 与Swarm主控节点连接

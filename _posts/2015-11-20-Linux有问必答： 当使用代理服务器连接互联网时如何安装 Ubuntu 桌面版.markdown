@@ -21,7 +21,7 @@ tags:	[linuxcn,Ubuntu,代理服务器]
 除此之外，默认的Ubuntu桌面版安装器的一个大问题是缺少代理设置。如果你电脑在代理后面，你会看到Ubuntu在准备下载文件的时候停滞了。
 
 
-![](/Asserts/Images//attachment/album/201511/07/195250sz4w0i413h1s3l4u.jpg)
+![](/Asserts/Images/album/201511/07/195250sz4w0i413h1s3l4u.jpg)
 
 
 这篇文章描述了如何解除Ubuntu安装限制以及**如何通过代理服务器安装Ubuntu桌面**。
@@ -33,31 +33,31 @@ tags:	[linuxcn,Ubuntu,代理服务器]
 从Ubuntu桌面版CD/DVD或者USB启动后，在欢迎页面点击“Try Ubuntu”。
 
 
-![](/Asserts/Images//attachment/album/201511/07/195251i9sz6olwsllllliu.jpg)
+![](/Asserts/Images/album/201511/07/195251i9sz6olwsllllliu.jpg)
 
 
 当你进入live Ubuntu后，点击左边的设置图标。
 
 
-![](/Asserts/Images//attachment/album/201511/07/195252f91141ef14ddv0vk.jpg)
+![](/Asserts/Images/album/201511/07/195252f91141ef14ddv0vk.jpg)
 
 
 进入网络菜单。
 
 
-![](/Asserts/Images//attachment/album/201511/07/195252q7jb5cevbfzbt3jv.jpg)
+![](/Asserts/Images/album/201511/07/195252q7jb5cevbfzbt3jv.jpg)
 
 
 手动配置代理。
 
 
-![](/Asserts/Images//attachment/album/201511/07/195252elnhfzozls9n1hdh.jpg)
+![](/Asserts/Images/album/201511/07/195252elnhfzozls9n1hdh.jpg)
 
 
 接下来，打开终端。
 
 
-![](/Asserts/Images//attachment/album/201511/07/195253vf9mmnrmyqpvwprp.jpg)
+![](/Asserts/Images/album/201511/07/195253vf9mmnrmyqpvwprp.jpg)
 
 
 输入下面的命令进入root会话。
@@ -81,13 +81,13 @@ $ sudo su
 它会启动基于GUI的Ubuntu安装器。
 
 
-![](/Asserts/Images//attachment/album/201511/07/195253a42t3p9sgjxjp33j.jpg)
+![](/Asserts/Images/album/201511/07/195253a42t3p9sgjxjp33j.jpg)
 
 
 接着完成剩余的安装。
 
 
-![](/Asserts/Images//attachment/album/201511/07/195254ctnp09njrrknmmbm.jpg)
+![](/Asserts/Images/album/201511/07/195254ctnp09njrrknmmbm.jpg)
 
 
 

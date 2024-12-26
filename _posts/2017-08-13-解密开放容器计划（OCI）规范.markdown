@@ -7,13 +7,13 @@ tags:	[linuxcn,容器,OCI,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/09/170940b0cwm23x3au3hvsc.png)
+![](/Asserts/Images/album/201708/09/170940b0cwm23x3au3hvsc.png)
 
 
 <ruby> 开放容器计划 <rt>  Open Container Initiative </rt></ruby>（OCI）宣布本周完成了容器运行时和镜像的第一版规范。OCI 在是 <ruby> Linux 基金会 <rt>  Linux Foundation </rt></ruby>支持下的容器解决方案标准化的成果。两年来，为了[建立这些规范](/article-8778-1.html)已经付出了大量的努力。 由此，让我们一起来回顾过去两年中出现的一些误区。
 
 
-![OCI](/Asserts/Images//attachment/album/201708/09/170949b3z72w5kr72m3y77.png)
+![OCI](/Asserts/Images/album/201708/09/170949b3z72w5kr72m3y77.png)
 
 
 ### 误区：OCI 是 Docker 的替代品

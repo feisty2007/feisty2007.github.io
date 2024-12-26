@@ -7,7 +7,7 @@ tags:	[linuxcn,Bluemix]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/16/095838zwuprp3j9buy7l2q.jpg)
+![](/Asserts/Images/album/201704/16/095838zwuprp3j9buy7l2q.jpg)
 
 
 Bluemix 是由 IBM 实现的基于开放标准的云平台。它具有开放的架构，其允许组织能够在云上创建、开发和管理其应用程序。它基于 Cloud Foundry ，因此可以被视为平台即服务（PaaS）。使用 Bluemix，开发人员不必关心云端配置，可以专注于他们的应用程序。 云端配置将由 Bluemix 自动完成。
@@ -29,19 +29,19 @@ Bluemix 还提供了一个仪表板，通过它，开发人员可以创建，管
 它还支持 OpenWhisk（FaaS），这也是一个 IBM 的产品，其允许开发人员调用任一功能而不需要任何资源管理。
 
 
-![图1 IBM Bluemix概述](/Asserts/Images//attachment/album/201704/16/095840jze6zv5q6v537673.jpg)
+![图1 IBM Bluemix概述](/Asserts/Images/album/201704/16/095840jze6zv5q6v537673.jpg)
 
 
 *图1 IBM Bluemix 概述*
 
 
-![图2 IBM Bluemix体系结构](/Asserts/Images//attachment/album/201704/16/095841crcwxd0bmd45d4ru.jpg)
+![图2 IBM Bluemix体系结构](/Asserts/Images/album/201704/16/095841crcwxd0bmd45d4ru.jpg)
 
 
 *图2 IBM Bluemix 体系结构*
 
 
-![图3 在IBM Bluemix 中创建组织](/Asserts/Images//attachment/album/201704/16/095842mff7aj5yjajd26xi.jpg)
+![图3 在IBM Bluemix 中创建组织](/Asserts/Images/album/201704/16/095842mff7aj5yjajd26xi.jpg)
 
 
 *图3 在 IBM Bluemix 中创建组织*
@@ -53,19 +53,19 @@ Bluemix 还提供了一个仪表板，通过它，开发人员可以创建，管
 Bluemix 构建在 IBM 的 SoftLayer IaaS（基础架构即服务）之上。它使用 Cloud Foundry 作为开源 PaaS 平台。一切起于通过 Cloud Foundry 来推送代码，它扮演着将代码和编写应用所使用的编程语言运行时环境整合起来的角色。IBM 服务、第三方服务或社区构建的服务可用于不同的功能。安全连接器可用于将本地系统连接到云。
 
 
-![图4 在IBM Bluemix中设置空间](/Asserts/Images//attachment/album/201704/16/095843g3pprryrp3exxuzy.jpg)
+![图4 在IBM Bluemix中设置空间](/Asserts/Images/album/201704/16/095843g3pprryrp3exxuzy.jpg)
 
 
 *图4 在 IBM Bluemix 中设置空间*
 
 
-![图5 应用程序模板](/Asserts/Images//attachment/album/201704/16/095844y8yvbe3oinvvq3d3.jpg)
+![图5 应用程序模板](/Asserts/Images/album/201704/16/095844y8yvbe3oinvvq3d3.jpg)
 
 
 *图5 应用程序模板*
 
 
-![图6 IBM Bluemix支持的编程语言](/Asserts/Images//attachment/album/201704/16/095845i6zqbt1th7tuugtj.jpg)
+![图6 IBM Bluemix支持的编程语言](/Asserts/Images/album/201704/16/095845i6zqbt1th7tuugtj.jpg)
 
 
 *图6 IBM Bluemix 支持的编程语言*
@@ -98,19 +98,19 @@ Bluemix 构建在 IBM 的 SoftLayer IaaS（基础架构即服务）之上。它�
 7、 创建空间方便管理访问控制和在 Bluemix 中回滚操作。 我们可以将空间映射到多个开发阶段，如 dev， test，uat，pre-prod 和 prod
 
 
-![图7 命名应用程序](/Asserts/Images//attachment/album/201704/16/095846to43pqam31gappmo.jpg)
+![图7 命名应用程序](/Asserts/Images/album/201704/16/095846to43pqam31gappmo.jpg)
 
 
 *图7 命名应用程序*
 
 
-![图8 了解应用程序何时准备就绪](/Asserts/Images//attachment/album/201704/16/095847bo25g752bwlvlv66.jpg)
+![图8 了解应用程序何时准备就绪](/Asserts/Images/album/201704/16/095847bo25g752bwlvlv66.jpg)
 
 
 *图8 了解应用程序何时准备就绪*
 
 
-![图9 IBM Bluemix Java应用程序](/Asserts/Images//attachment/album/201704/16/095847ebcbss2is28ia828.jpg)
+![图9 IBM Bluemix Java应用程序](/Asserts/Images/album/201704/16/095847ebcbss2is28ia828.jpg)
 
 
 *图9 IBM Bluemix Java 应用程序*
@@ -170,19 +170,19 @@ Bluemix 构建在 IBM 的 SoftLayer IaaS（基础架构即服务）之上。它�
 25、 下载应用程序启动器代码。点击 File Menu，将它导入到 Eclipse 中，选择 Import Existing Projects -> Workspace, 然后开始修改代码
 
 
-![图10 Java应用程序源文件](/Asserts/Images//attachment/album/201704/16/095848mi4tekeet003nnew.jpg)
+![图10 Java应用程序源文件](/Asserts/Images/album/201704/16/095848mi4tekeet003nnew.jpg)
 
 
 *图10 Java 应用程序源文件*
 
 
-![图11 Java应用程序日志](/Asserts/Images//attachment/album/201704/16/095849epewtatnvdnpwpud.jpg)
+![图11 Java应用程序日志](/Asserts/Images/album/201704/16/095849epewtatnvdnpwpud.jpg)
 
 
 *图11 Java 应用程序日志*
 
 
-![图12 Java应用程序 - Liberty for Java](/Asserts/Images//attachment/album/201704/16/095850i0t11c1s0fp8wk8n.jpg)
+![图12 Java应用程序 - Liberty for Java](/Asserts/Images/album/201704/16/095850i0t11c1s0fp8wk8n.jpg)
 
 
 *图12 Java 应用程序 - Liberty for Java*

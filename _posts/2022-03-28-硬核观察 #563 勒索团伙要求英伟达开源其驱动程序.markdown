@@ -7,10 +7,10 @@ tags:	[linuxcn,英伟达,勒索病毒,MDN,iOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/02/180421oo2vnbjnoqb18ei2.jpg)
+![](/Asserts/Images/album/202203/02/180421oo2vnbjnoqb18ei2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/02/180430krur84dy7m2fgod8.jpg)
+![](/Asserts/Images/album/202203/02/180430krur84dy7m2fgod8.jpg)
 
 
 ### 勒索团伙要求英伟达开源其驱动程序
@@ -27,7 +27,7 @@ tags:	[linuxcn,英伟达,勒索病毒,MDN,iOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/02/180446jm858emh77set1wt.jpg)
+![](/Asserts/Images/album/202203/02/180446jm858emh77set1wt.jpg)
 
 
 ### Mozilla 推出新版 MDN 开发者网络，付费版随后就来
@@ -44,7 +44,7 @@ Mozilla 开发者网络（MDN）一直是 Web 开发者的宝贵资源，它提�
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/02/180503xji49az1x9vv4j5g.jpg)
+![](/Asserts/Images/album/202203/02/180503xji49az1x9vv4j5g.jpg)
 
 
 ### OWA 组织希望 iOS 可运行第三方浏览器引擎

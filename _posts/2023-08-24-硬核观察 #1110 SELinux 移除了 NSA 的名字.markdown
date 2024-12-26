@@ -7,10 +7,10 @@ tags:	[linuxcn,SELinux,OpenAI,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/31/150851ngmm676ymtkgflt7.jpg)
+![](/Asserts/Images/album/202308/31/150851ngmm676ymtkgflt7.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/31/150907rsrjscjs9em22msr.jpg)
+![](/Asserts/Images/album/202308/31/150907rsrjscjs9em22msr.jpg)
 
 
 ### SELinux 移除了 NSA 的名字
@@ -35,7 +35,7 @@ tags:	[linuxcn,SELinux,OpenAI,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/31/150922pqjjyolqkvuqawo4.jpg)
+![](/Asserts/Images/album/202308/31/150922pqjjyolqkvuqawo4.jpg)
 
 
 ### OpenAI 称以变革的方式使用受版权保护的材料并不违反版权
@@ -60,7 +60,7 @@ OpenAI 针对作者们提起的一系列诉讼做出了回应，这些诉讼指�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/31/150945dgc3t7xgtcggfzri.jpg)
+![](/Asserts/Images/album/202308/31/150945dgc3t7xgtcggfzri.jpg)
 
 
 ### 微软使用类似恶意软件的弹窗让人们放弃谷歌

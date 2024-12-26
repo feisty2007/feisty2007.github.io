@@ -7,7 +7,7 @@ tags:	[linuxcn,ARPANET]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/14/180115j5hae51hv1a1ohp5.jpg)
+![](/Asserts/Images/album/202210/14/180115j5hae51hv1a1ohp5.jpg)
 
 
 如果你在搜索引擎中输入“ARPANET”，搜索相关图片，你会看到许多地图的图片，上面是这个上世纪六十年代末七十年代初 [美国政府创建的研究网络](https://en.wikipedia.org/wiki/ARPANET)，该网络不断延伸扩展，横跨了整个美国。我猜很多人第一次了解到 ARPANET 的时候都看过这种地图。

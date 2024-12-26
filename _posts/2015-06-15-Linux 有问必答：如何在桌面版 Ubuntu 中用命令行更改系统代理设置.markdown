@@ -21,7 +21,7 @@ tags:	[linuxcn,DConf,dconf-editor,gsettings]
 下面介绍如何用 `gsettings` 从命令行更改系统代理设置。
 
 
-![](/Asserts/Images//attachment/album/201506/22/225756aqljnr4r747xjrec.jpg)
+![](/Asserts/Images/album/201506/22/225756aqljnr4r747xjrec.jpg)
 
 
 `gsettings` 读写特定 Dconf 设置的基本用法如下：

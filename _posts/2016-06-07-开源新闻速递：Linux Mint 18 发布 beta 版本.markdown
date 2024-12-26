@@ -22,7 +22,7 @@ MATE 版本采用最新的 MATE 1.14.1 桌面环境，跟 Cinnamon 版本一样�
 目前这两个类型的beta版本都可以从官网进行下载了。不过记得这只是预发行版本，还不是正式版本，不要急着用于生产环境。
 
 
-![](/Asserts/Images//attachment/album/201606/08/212714r58so55c5z59c9pc.jpg)
+![](/Asserts/Images/album/201606/08/212714r58so55c5z59c9pc.jpg)
 
 
 ### 新闻摘要

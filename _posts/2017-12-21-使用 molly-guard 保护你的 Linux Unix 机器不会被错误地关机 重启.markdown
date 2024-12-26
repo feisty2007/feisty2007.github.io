@@ -7,13 +7,13 @@ tags:	[linuxcn,重启,关机]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/26/095946d1glghlkvz9wgwk1.jpg)
+![](/Asserts/Images/album/201712/26/095946d1glghlkvz9wgwk1.jpg)
 
 
 我去！又是这样。 我还以为我登录到家里的服务器呢。 结果 [重启的居然是数据库服务器](https://www.cyberciti.biz/faq/howto-reboot-linux/)。 另外我也有时会在错误终端内输入 “[shutdown -h 0](https://www.cyberciti.biz/faq/shutdown-linux-server/)” 命令。 我知道有些人 [经常会犯这个错误](https://www.cyberciti.biz/tips/my-10-unix-command-line-mistakes.html "My 10 UNIX Command Line Mistakes") 。
 
 
-![我的愤怒无从容忍](/Asserts/Images//attachment/album/201712/26/095954dfssjjnsyy6b66ib.gif)
+![我的愤怒无从容忍](/Asserts/Images/album/201712/26/095954dfssjjnsyy6b66ib.gif)
 
 
 有办法解决这个问题吗？我真的只能忍受这种随机重启和关机的痛苦吗？ 虽说人总是要犯错的，但总不能一错再错吧。
@@ -80,7 +80,7 @@ $ sudo apt-get install molly-guard
 结果为：
 
 
-[![Fig.01： Installing molly guard on Linux](/Asserts/Images//attachment/album/201712/26/095956a733kb27xqk72jjb.jpg)](https://www.cyberciti.biz/hardware/how-to-protects-linux-and-unix-machines-from-accidental-shutdownsreboots-with-molly-guard/attachment/install-molly-guard-on-linux/)
+[![Fig.01： Installing molly guard on Linux](/Asserts/Images/album/201712/26/095956a733kb27xqk72jjb.jpg)](https://www.cyberciti.biz/hardware/how-to-protects-linux-and-unix-machines-from-accidental-shutdownsreboots-with-molly-guard/attachment/install-molly-guard-on-linux/)
 
 
 ### 测试一下
@@ -104,7 +104,7 @@ $ sudo reboot vm_name_here
 结果为：
 
 
-![Fig.02： Molly guard saved my butt ;\)](/Asserts/Images//attachment/album/201712/26/095956px7zhbqxyswwwhdr.jpg)
+![Fig.02： Molly guard saved my butt ;\)](/Asserts/Images/album/201712/26/095956px7zhbqxyswwwhdr.jpg)
 
 
 我超级喜欢 molly-guard。因此我将下行内容加入到 `apt-debian-ubuntu-common.yml` 文件中了：

@@ -7,10 +7,10 @@ tags:	[linuxcn,科研,BASIC,芯片]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/30/163125xq6xqpjt2zbh6hjt.jpg)
+![](/Asserts/Images/album/202311/30/163125xq6xqpjt2zbh6hjt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/30/162807ytmaada7v3azem37.png)
+![](/Asserts/Images/album/202311/30/162807ytmaada7v3azem37.png)
 
 
 ### #1 美国实现芯片独立还需十到二十年
@@ -35,7 +35,7 @@ tags:	[linuxcn,科研,BASIC,芯片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/30/162824q6sez0ee7p79sope.png)
+![](/Asserts/Images/album/202311/30/162824q6sez0ee7p79sope.png)
 
 
 ### #2 全球科学研究正一分为二
@@ -60,7 +60,7 @@ tags:	[linuxcn,科研,BASIC,芯片]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/30/162841olkee6k61meq3le1.png)
+![](/Asserts/Images/album/202311/30/162841olkee6k61meq3le1.png)
 
 
 ### #3 BBC BASIC 回来了

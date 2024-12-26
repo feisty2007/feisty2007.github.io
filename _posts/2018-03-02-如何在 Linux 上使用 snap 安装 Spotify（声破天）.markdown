@@ -7,7 +7,7 @@ tags:	[linuxcn,spotify,snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/07/100109onr1hhw8hhs4hrji.jpg)
+![](/Asserts/Images/album/201803/07/100109onr1hhw8hhs4hrji.jpg)
 
 
 如何在 Ubuntu Linux 桌面上安装 spotify 来在线听音乐？
@@ -113,7 +113,7 @@ $ snap find spotify
 
 ```
 
-[![snap search for spotify app command](/Asserts/Images//attachment/album/201803/07/100120eb5qr555fy55kpp5.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/snap-search-for-spotify-app-command.jpg)
+[![snap search for spotify app command](/Asserts/Images/album/201803/07/100120eb5qr555fy55kpp5.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/snap-search-for-spotify-app-command.jpg)
 
 
 安装它：
@@ -125,7 +125,7 @@ $ sudo snap install spotify
 
 ```
 
-[![How to install Spotify application on Linux using snap command](/Asserts/Images//attachment/album/201803/07/100121npmo3gokuy0ageai.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/How-to-install-Spotify-application-on-Linux-using-snap-command.jpg)
+[![How to install Spotify application on Linux using snap command](/Asserts/Images/album/201803/07/100121npmo3gokuy0ageai.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/How-to-install-Spotify-application-on-Linux-using-snap-command.jpg)
 
 
 ### 步骤 3 - 运行 spotify 并享受它
@@ -168,7 +168,7 @@ $ spotify --url=<url>
 
 ```
 
-[![Spotify client app running on my Ubuntu Linux desktop](/Asserts/Images//attachment/album/201803/07/100121am36d5qu6sgkattx.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Spotify-client-app-running-on-my-Ubuntu-Linux-desktop.jpg)
+[![Spotify client app running on my Ubuntu Linux desktop](/Asserts/Images/album/201803/07/100121am36d5qu6sgkattx.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Spotify-client-app-running-on-my-Ubuntu-Linux-desktop.jpg)
 
 
 ### 关于作者

@@ -10,7 +10,7 @@ tags:	[linuxcn,Docker,GUI]
 各位，今天我们将学习如何在[Docker](http://docker.io/)之中运行GUI程序。我们可以轻易地在Docker容器中运行大多数GUI程序且不出错。Docker是一个开源项目，提供了一个打包、分发和运行任意程序的轻量级容器的开放平台。它没有语言支持、框架或者打包系统的限制，并可以运行在任何地方、任何时候，从小型的家用电脑到高端的服务器都可以运行。这让人们可以打包不同的包用于部署和扩展网络应用，数据库和后端服务而不必依赖于特定的栈或者提供商。
 
 
-![](/Asserts/Images//attachment/album/201504/18/232858p2oz2upa22bpwa22.jpg)
+![](/Asserts/Images/album/201504/18/232858p2oz2upa22bpwa22.jpg)
 
 
 下面是我们该如何在Docker容器中运行GUI程序的简单步骤。本教程中，我们会用Firefox作为例子。
@@ -28,7 +28,7 @@ tags:	[linuxcn,Docker,GUI]
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/18/232901gojxj1juj5ayuvft.png)
+![](/Asserts/Images/album/201504/18/232901gojxj1juj5ayuvft.png)
 
 
 
@@ -72,7 +72,7 @@ CMD /usr/bin/firefox
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/18/232902cstspczpmq4lssls.png)
+![](/Asserts/Images/album/201504/18/232902cstspczpmq4lssls.png)
 
 
 **注意：在第四行的配置中，用你自己的用户和组id来替换0。 我们可以用下面的命令在shell或者终端中得到uid和gid。**
@@ -84,7 +84,7 @@ CMD /usr/bin/firefox
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/18/232902nggp9cwomzg97un7.png)
+![](/Asserts/Images/album/201504/18/232902nggp9cwomzg97un7.png)
 
 
 ### 3. 构造Docker容器
@@ -99,7 +99,7 @@ CMD /usr/bin/firefox
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/18/232903omy6qvvfqaamh5a1.png)
+![](/Asserts/Images/album/201504/18/232903omy6qvvfqaamh5a1.png)
 
 
 ### 4. 运行Docker容器

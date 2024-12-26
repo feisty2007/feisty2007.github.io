@@ -15,7 +15,7 @@ tags:	[linuxcn,Chromebook]
 > 
 
 
-![](/Asserts/Images//attachment/album/202102/24/114254qstdq1dhj288jh1z.jpg "Working from home at a laptop")
+![](/Asserts/Images/album/202102/24/114254qstdq1dhj288jh1z.jpg "Working from home at a laptop")
 
 
 Google Chromebook 运行在 Linux 系统之上，但通常它运行的 Linux 系统对普通用户而言，并不是十分容易就能访问得到。Linux 被用作基于开源的 [Chromium OS](https://www.chromium.org/chromium-os) 运行时环境的后端技术，然后 Google 将其转换为 Chrome OS。大多数用户体验到的界面是一个电脑桌面，可以用来运行 Chrome 浏览器及其应用程序。然而，在这一切的背后，有一个 Linux 系统等待被你发现。如果你知道怎么做，你可以在 Chromebook 上启用 Linux，把一台可能价格相对便宜、功能相对基础的电脑变成一个严谨的笔记本，获取数百个应用和你需要的所有能力，使它成为一个通用计算机。
@@ -30,7 +30,7 @@ Chromebook 是专为 Chrome OS 创造的笔记本电脑，它本身专为特定�
 无论你决定买哪一款，Chromebook 都会运行 Chrome OS，并为你提供现代计算机所期望的基本功能。有连接到互联网的网络管理器、蓝牙、音量控制、文件管理器、桌面等等。
 
 
-![Chrome OS desktop](/Asserts/Images//attachment/album/202102/24/114320ug7qd0cl26z773l6.png)
+![Chrome OS desktop](/Asserts/Images/album/202102/24/114320ug7qd0cl26z773l6.png)
 
 
 *Chrome OS 桌面截图*
@@ -57,7 +57,7 @@ Chromebook 是专为 Chrome OS 创造的笔记本电脑，它本身专为特定�
 接下来，按下键盘上的 `ESC` 和 `⟳`，再按 **电源键** 启动 Chromebook。
 
 
-![ESC and refresh buttons](/Asserts/Images//attachment/album/202102/24/114321gyawg5gaoc46czyc.png)
+![ESC and refresh buttons](/Asserts/Images/album/202102/24/114321gyawg5gaoc46czyc.png)
 
 
 *ESC 键和 ⟳ 键*
@@ -131,7 +131,7 @@ apt search photo
 **Linux Beta** 环境运行在 [容器](https://opensource.com/resources/what-are-linux-containers) 中，因此 Chrome OS 需要获得访问 Linux 文件的权限。要授予 Chrome OS 与你在 Linux 上创建的文件的交互权限，请右击要共享的文件夹并选择 **管理 Linux 共享**。
 
 
-![Chrome OS Manage Linux sharing interface](/Asserts/Images//attachment/album/202102/24/114321pzfo4qwsr4bsnzvs.png)
+![Chrome OS Manage Linux sharing interface](/Asserts/Images/album/202102/24/114321pzfo4qwsr4bsnzvs.png)
 
 
 *Chrome OS 的 Linux 管理共享界面*
@@ -140,7 +140,7 @@ apt search photo
 你可以通过 Chrome OS 的 **设置** 程序来管理共享设置以及其他设置。
 
 
-![Chrome OS Settings menu](/Asserts/Images//attachment/album/202102/24/114321e1z9zc50ki3575zi.png)
+![Chrome OS Settings menu](/Asserts/Images/album/202102/24/114321e1z9zc50ki3575zi.png)
 
 
 *Chrome OS 设置菜单*

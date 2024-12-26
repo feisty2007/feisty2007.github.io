@@ -67,7 +67,7 @@ sudo restart systemd-logind
 配置文件的 “ignore” 值告诉 Ubuntu 当笔记本合上后不要睡眠或挂起。不要改动其它设置然后保存文件。
 
 
-![](/Asserts/Images//attachment/album/201401/19/112421kkap5w5a8zlkzzq1.jpg)
+![](/Asserts/Images/album/201401/19/112421kkap5w5a8zlkzzq1.jpg)
 
 
 

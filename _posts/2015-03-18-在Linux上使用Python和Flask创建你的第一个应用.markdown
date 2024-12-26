@@ -7,7 +7,7 @@ tags:	[linuxcn,flask,python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201503/12/153736di7plh4hd2pk2p2l.png)
+![](/Asserts/Images/album/201503/12/153736di7plh4hd2pk2p2l.png)
 
 
 无论你在linux上娱乐还是工作，这对你而言都是一个使用python来编程的很好的机会。回到大学我希望他们教我的是Python而不是Java，这学起来很有趣且在实际的应用如yum包管理器中很有用。
@@ -293,13 +293,13 @@ app.run(host='174.140.165.231', port=80)
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/12/153736h272ssscshm2s3u7.png)
+![](/Asserts/Images/album/201503/12/153736h272ssscshm2s3u7.png)
 
 
 我已经加了更多的代码来显示CPU、I/O和平均负载。
 
 
-![](/Asserts/Images//attachment/album/201503/12/153738a8r32rrx8i2u2ugx.png)
+![](/Asserts/Images/album/201503/12/153738a8r32rrx8i2u2ugx.png)
 
 
 你可以在[这里](https://github.com/Leo-g/python-flask-cmd)浏览完整的代码。

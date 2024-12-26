@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes,k3s,树莓派]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/29/121559p44e3dfrerf3zver.jpg)
+![](/Asserts/Images/album/202003/29/121559p44e3dfrerf3zver.jpg)
 
 
 我对在树莓派上搭建 [Kubernetes](https://opensource.com/resources/what-is-kubernetes) 集群已经感兴趣很长时间了，只要照着网上的教程，我可以在由三个树莓派组成的集群中搭建一套 Kubernetes 并正常运行。但在这种情况下，主节点上的内存和 CPU 资源捉襟见肘，执行 Kubernetes 任务的时候往往性能不佳，想要升级 Kubernetes 就更不可能了。

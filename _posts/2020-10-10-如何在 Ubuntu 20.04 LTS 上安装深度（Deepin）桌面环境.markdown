@@ -15,7 +15,7 @@ tags:	[linuxcn,深度]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/15/223607kqs5zguiq53fkkig.png)
+![](/Asserts/Images/album/202010/15/223607kqs5zguiq53fkkig.png)
 
 
 毫无疑问，深度操作系统（Deepin OS）是一个 [漂亮的 Linux 发行版](https://itsfoss.com/beautiful-linux-distributions/)。最近发布的 [深度操作系统 V20](https://itsfoss.com/deepin-20-review/) 就更加美观了。
@@ -71,13 +71,13 @@ sudo apt install ubuntudde-dde
 
 ```
 
-![](/Asserts/Images//attachment/album/202010/15/223400skfft6hkztu68c87.png)
+![](/Asserts/Images/album/202010/15/223400skfft6hkztu68c87.png)
 
 
 现在，安装将启动，一段时间后，将要求你选择<ruby> 显示管理器 <rt>  display manager </rt></ruby>。
 
 
-![](/Asserts/Images//attachment/album/202010/15/223414d3ncndbzu3zb4cj8.jpg)
+![](/Asserts/Images/album/202010/15/223414d3ncndbzu3zb4cj8.jpg)
 
 
 如果需要深度桌面主题的锁屏，则需要选择 “lightdm”。如果不需要，你可以将其设置为 “gdm3”。
@@ -95,13 +95,13 @@ sudo dpkg-reconfigure lightdm
 **步骤 3**： 完成后，你必须退出并通过选择 “Deepin” 会话再次登录，或者重新启动系统。
 
 
-![](/Asserts/Images//attachment/album/202010/15/223433w6tspf8i485ez6i7.jpg)
+![](/Asserts/Images/album/202010/15/223433w6tspf8i485ez6i7.jpg)
 
 
 就是这样。马上在你的 Ubuntu 20.04 LTS 系统上享受深度桌面环境体验吧！
 
 
-![](/Asserts/Images//attachment/album/202010/15/223449iykwyp6k561lx5bk.png)
+![](/Asserts/Images/album/202010/15/223449iykwyp6k561lx5bk.png)
 
 
 ### 从 Ubuntu 20.04 删除深度桌面
@@ -119,7 +119,7 @@ sudo dpkg-reconfigure lightdm
 
 ```
 
-![](/Asserts/Images//attachment/album/202010/15/223414d3ncndbzu3zb4cj8.jpg)
+![](/Asserts/Images/album/202010/15/223414d3ncndbzu3zb4cj8.jpg)
 
 
 然后，选择 “gdm3” 继续。

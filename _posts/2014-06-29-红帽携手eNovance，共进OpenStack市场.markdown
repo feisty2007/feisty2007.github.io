@@ -7,7 +7,7 @@ tags:	[linuxcn,RedHat,OpenStack]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/21/221431o8aaa88ctwwcga55.jpg)
+![](/Asserts/Images/album/201406/21/221431o8aaa88ctwwcga55.jpg)
 
 
 正在OpenStack峰会于亚特兰大举办的同时，红帽确认了数项与OpenStack相关的项目。其中一项是，红帽正与开源云计算市场的领导者eNovance进行[合作](http://www.redhat.com/about/news/press-archive/2014/5/red-hat-and-enovance-to-deliver-carrier-grade-openstack) 。双方将推动网络功能虚拟化（Network Functions Virtualization）及将电信功能融入OpenStack中。红帽[宣布](http://www.marketwatch.com/story/red-hat-to-acquire-enovance-a-leader-in-openstack-integration-services-2014-06-18)将以七千万欧元或九千五百万美金的现金和股票投资eNovance。

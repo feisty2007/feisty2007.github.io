@@ -7,13 +7,13 @@ tags:	[linuxcn,Ubuntu,勒索软件,OpenBSD,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/15/151733k7bvyq6gtf5ftbkq.jpg)
+![](/Asserts/Images/album/202110/15/151733k7bvyq6gtf5ftbkq.jpg)
 
 
 ### PowerPC 版的 Firefox 走向尽头
 
 
-![](/Asserts/Images//attachment/album/202110/15/151743asxshcbjjusv9ad6.jpg)
+![](/Asserts/Images/album/202110/15/151743asxshcbjjusv9ad6.jpg)
 
 
 Mozilla 在开发 Firefox 4 时取消了对 PowerPC 的支持后，开源贡献者于 2010 年底发起了一个名为 [TenFourFox](https://www.floodgap.com/software/tenfourfox/) 的项目，这是一个 Firefox 浏览器的复刻，适用于在基于 G3、G4 和 G5 处理器的 PowerPC Mac 上运行的 Mac OS X 10.4 或 10.5 系统。但是，随着时间的推移，继续将 Firefox 的功能向后移植到老旧的 PowerPC 处理器上变得越来越困难。项目主要维护人 Kaiser 宣布 TenFourFox [在十多年的开发后结束更新](https://arstechnica.com/gadgets/2021/10/tenfourfox-one-of-the-last-modern-browsers-for-powerpc-macs-is-officially-dead/)，在本月初做了最后一次发布。
@@ -30,7 +30,7 @@ Mozilla 在开发 Firefox 4 时取消了对 PowerPC 的支持后，开源贡献�
 ### Ubuntu 21.10、OpenBSD 7.0 发布
 
 
-![](/Asserts/Images//attachment/album/202110/15/151806dkaqqvkn3qayl33p.jpg)
+![](/Asserts/Images/album/202110/15/151806dkaqqvkn3qayl33p.jpg)
 
 
 两则发行版发布消息：
@@ -53,7 +53,7 @@ Mozilla 在开发 Firefox 4 时取消了对 PowerPC 的支持后，开源贡献�
 ### 研究发现勒索软件传播主要依赖于社会化工程
 
 
-![](/Asserts/Images//attachment/album/202110/15/151824oydydldiypdjypbz.jpg)
+![](/Asserts/Images/album/202110/15/151824oydydldiypdjypbz.jpg)
 
 
 Google 发布了一份新的 [勒索软件报告](https://storage.googleapis.com/vtpublic/vt-ransomware-report-2021.pdf)，委托网络安全公司 VirusTotal 分析了来自 140 个国家的 8000 万个勒索软件样本。报告发现，基于漏洞的勒索软件攻击只占样本的一小部分：5%，通常是使用社会工程、或安装恶意软件的小程序来部署的。此外，检测到的 95% 的勒索软件是基于 Windows 的可执行文件或动态链接库的，只有 2% 是基于安卓的。

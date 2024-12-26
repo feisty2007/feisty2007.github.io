@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,deepfake]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/21/172730xhh3y8i0vl3xlz83.jpg)
+![](/Asserts/Images/album/202007/21/172730xhh3y8i0vl3xlz83.jpg)
 
 
 #### 十年后，Lightworks 终于给出了不开源的原因：代码太乱

@@ -10,7 +10,7 @@ tags:	[linuxcn,命令行,技巧]
 我们一直以常规的方式完成一个任务，直到我们知道有更好的处理方法。作为 [Linux 技巧和绝招系列](http://www.tecmint.com/tag/linux-tricks/) 的后续，我会在这里介绍能在各个方面给你帮助的 4 个小技巧。开始吧！
 
 
-![有用的 Linux 小技巧](/Asserts/Images//attachment/album/201507/22/112017mrp93tjpzeg3oke9.jpg)
+![有用的 Linux 小技巧](/Asserts/Images/album/201507/22/112017mrp93tjpzeg3oke9.jpg)
 
 
 *4 个有用的 Linux 小技巧*
@@ -61,7 +61,7 @@ $ tree tecmint
 
 ```
 
-![检查目录结构](/Asserts/Images//attachment/album/201507/22/112017nknb6upiwipib6ub.png)
+![检查目录结构](/Asserts/Images/album/201507/22/112017nknb6upiwipib6ub.png)
 
 
 *检查目录结构*
@@ -144,7 +144,7 @@ $ cat /home/avi/Desktop/test
 
 ```
 
-![检查文件内容](/Asserts/Images//attachment/album/201507/22/112018v3fz5fn3amab6nb5.gif)
+![检查文件内容](/Asserts/Images/album/201507/22/112018v3fz5fn3amab6nb5.gif)
 
 
 ### 3. 我们经常在 Linux 中处理归档文件（尤其是 TAR 包）。很多情况下我们会在某些位置，而不是在 Downloads 目录中使用 TAR 包。这种情况下我们怎么做呢？

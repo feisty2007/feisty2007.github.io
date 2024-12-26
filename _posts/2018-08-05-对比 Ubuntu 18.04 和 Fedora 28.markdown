@@ -7,7 +7,7 @@ tags:	[linuxcn,发行版,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/26/121105ntddq1rm5s6sq45r.jpg)
+![](/Asserts/Images/album/201808/26/121105ntddq1rm5s6sq45r.jpg)
 
 
 大家好，我准备在今天突出说明一下两大主流 Linux 发行版，即 **Ubuntu 18.04** 和 **Fedora 28**，包括一些特性和差异。两者都有各自的包管理系统，其中 Ubuntu 使用 DEB，Fedora 使用 RPM；但二者使用同样的[<ruby> 桌面环境 <rt>  Desktop Environment </rt></ruby>](http://www.linuxandubuntu.com/home/5-best-linux-desktop-environments-with-pros-cons) （DE）[GNOME](http://www.linuxandubuntu.com/home/walkthrough-on-how-to-use-gnome-boxes)，并致力于为 Linux 用户提供高品质的<ruby> 桌面体验 <rt>  desktop experience </rt></ruby>。
@@ -40,13 +40,13 @@ Fedora 提供<ruby> 原汁原味的 <rt>  vanilla </rt></ruby> GNOME 桌面体�
 因此，在 Fedora 的桌面预览中，我们可以看到一个简洁的无图标桌面和一个自动隐藏的侧边栏，整体外观采用 GNOME 默认的 Adwaita 主题。
 
 
-[![fedora 28 gnome](/Asserts/Images//attachment/album/201808/26/121243lvvubtnyctttj32v.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-18-04-gnome_orig.jpg)
+[![fedora 28 gnome](/Asserts/Images/album/201808/26/121243lvvubtnyctttj32v.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-18-04-gnome_orig.jpg)
 
 
 相比之下，Ubuntu 采用其经典的有图标桌面样式，左侧边栏用于模拟其传统的“<ruby> 程序坞 <rt>  dock </rt></ruby>”，使用 Ubuntu Ambiance 主题定制化窗口，与其传统的（Unity 桌面）外观和体验基本一致。
 
 
-[![Ubuntu gnome 18.04](/Asserts/Images//attachment/album/201808/26/121243w7uvougxooc8edsv.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-gnome-18-04_orig.jpg)
+[![Ubuntu gnome 18.04](/Asserts/Images/album/201808/26/121243w7uvougxooc8edsv.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-gnome-18-04_orig.jpg)
 
 
 虽然存在一定差异，但习惯使用其中一种桌面环境后切换到另外一种并不困难。毕竟二者设计时都充分考虑了简洁性和用户友好性，即使是新用户也不会对这两种 Linux 发行版感到不适应。  
@@ -60,7 +60,7 @@ Fedora 提供<ruby> 原汁原味的 <rt>  vanilla </rt></ruby> GNOME 桌面体�
 Ubuntu 使用 dpkg（即 Debian Package Management）将软件分发给终端用户；Fedora 则使用 rpm（全称为 Red Hat Package Management）。它们都是 Linux 社区中非常流行的包管理系统，对应的命令行工具也都简单易用。
 
 
-[![ubuntu software center](/Asserts/Images//attachment/album/201808/26/121244gkoh8jhdk3v9lduz.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-software-center_2_orig.jpg)
+[![ubuntu software center](/Asserts/Images/album/201808/26/121244gkoh8jhdk3v9lduz.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-software-center_2_orig.jpg)
 
 
 但在具体分发的软件方面，各个 Linux 发行版会有明显差异。Canonical 每 6 个月发布新版本的 Ubuntu，一般是在每年的 4 月和 10 月。对每个版本，开发者会维护一个开发计划；Ubuntu 新版本发布后，该版本就会进入<ruby> 冻结 <rt>  freeze </rt></ruby>状态，即停止新软件的开发和测试。
@@ -120,7 +120,7 @@ Fedora 上的计算器程序启动速度更快。这是因为 Fedora 上的计�
 我已经提到，（为便于长期以来的 Untiy 用户平滑切换到 GNOME），Ubuntu 提供的 GNOME 桌面环境是经过微调的版本。不幸的是，Ubuntu 开发者似乎忘记或忽略了对帮助程序的更新，用户阅读文档（入门视频）后会发现演示视频与真实环境有略微差异，这可能让人感到迷惑。
 
 
-[![ubuntu 18.04 help manual](/Asserts/Images//attachment/album/201808/26/121244ncs0j3iizgnnt44s.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-18-04-help-manual_orig.jpg)
+[![ubuntu 18.04 help manual](/Asserts/Images/album/201808/26/121244ncs0j3iizgnnt44s.jpg)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/ubuntu-18-04-help-manual_orig.jpg)
 
 
 ### 结论

@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,PGP,IDC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/06/194501bc8xtsc3u1ussmb3.jpg)
+![](/Asserts/Images/album/202312/06/194501bc8xtsc3u1ussmb3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/06/194508zwddydwfk34w6q3d.png)
+![](/Asserts/Images/album/202312/06/194508zwddydwfk34w6q3d.png)
 
 
 ### #1 Firefox 面临被踢出兼容性要求名单
@@ -35,7 +35,7 @@ tags:	[linuxcn,Firefox,PGP,IDC]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/06/194522ilat6naaat9z99n4.png)
+![](/Asserts/Images/album/202312/06/194522ilat6naaat9z99n4.png)
 
 
 ### #2 Facebook 停止发送 PGP 加密邮件
@@ -60,7 +60,7 @@ tags:	[linuxcn,Firefox,PGP,IDC]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/06/194541fu3n8kwyqnqkngkq.png)
+![](/Asserts/Images/album/202312/06/194541fu3n8kwyqnqkngkq.png)
 
 
 ### #3 中国成为世界上第一个在水下部署商业数据中心的国家

@@ -7,10 +7,10 @@ tags:	[linuxcn,苹果,安卓,请勿跟踪,M3]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/31/225123mxqvx6928qionsq2.jpg)
+![](/Asserts/Images/album/202310/31/225123mxqvx6928qionsq2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/31/225130wzwi2iqi7k25355g.jpg)
+![](/Asserts/Images/album/202310/31/225130wzwi2iqi7k25355g.jpg)
 
 
 ### 德国法庭裁决浏览器的“请勿跟踪”具有法律约束力
@@ -35,7 +35,7 @@ tags:	[linuxcn,苹果,安卓,请勿跟踪,M3]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/31/225215zyq7loz3115zozkz.jpg)
+![](/Asserts/Images/album/202310/31/225215zyq7loz3115zozkz.jpg)
 
 
 ### 谷歌承诺为安卓 14 的 “勒索软件” 漏洞提供救援补丁
@@ -60,7 +60,7 @@ tags:	[linuxcn,苹果,安卓,请勿跟踪,M3]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/31/225344cpqzwz2fftzoxfe1.jpg)
+![](/Asserts/Images/album/202310/31/225344cpqzwz2fftzoxfe1.jpg)
 
 
 ### 苹果宣布了 M3 系列芯片及搭载该芯片的新 MacBook Pro

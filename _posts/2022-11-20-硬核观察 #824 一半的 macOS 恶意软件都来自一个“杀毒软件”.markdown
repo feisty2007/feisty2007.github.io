@@ -7,10 +7,10 @@ tags:	[linuxcn,mac,5G,Mozilla]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/18/200356vol57xrdzs8ml88d.jpg)
+![](/Asserts/Images/album/202211/18/200356vol57xrdzs8ml88d.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/18/200408gh8kxzh9c1j9f9hh.jpg)
+![](/Asserts/Images/album/202211/18/200408gh8kxzh9c1j9f9hh.jpg)
 
 
 ### 一半的 macOS 恶意软件都来自一个“杀毒软件”
@@ -35,7 +35,7 @@ Elastic 安全实验室发现，一半 macOS 恶意软件来自 MacKeeper。讽�
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/18/200419n4etf3ee4mg9rrrn.jpg)
+![](/Asserts/Images/album/202211/18/200419n4etf3ee4mg9rrrn.jpg)
 
 
 ### 开源推动 5G 占据了 50% 的电信市场
@@ -60,7 +60,7 @@ Elastic 安全实验室发现，一半 macOS 恶意软件来自 MacKeeper。讽�
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/18/200429b1vmugvgtaudctgg.jpg)
+![](/Asserts/Images/album/202211/18/200429b1vmugvgtaudctgg.jpg)
 
 
 ### Mozilla 收入更多样，但仍然主要依靠谷歌

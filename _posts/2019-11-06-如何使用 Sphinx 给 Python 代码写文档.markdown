@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,文档]
 > 
 
 
-![Python in a coffee cup.](/Asserts/Images//attachment/album/201911/29/163803d0a1ev3f40p4pk61.jpg "Python in a coffee cup.")
+![Python in a coffee cup.](/Asserts/Images/album/201911/29/163803d0a1ev3f40p4pk61.jpg "Python in a coffee cup.")
 
 
 Python 代码可以在源码中包含文档。这种方式默认依靠 **docstring**，它以三引号格式定义。虽然文档的价值是很大的，但是没有充足的文档的代码还是很常见。让我们演练一个场景，了解出色的文档的强大功能。

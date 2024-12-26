@@ -7,7 +7,7 @@ tags:	[linuxcn,CoreOS,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/11/094115v4k77706788z9yvk.png)
+![](/Asserts/Images/album/201708/11/094115v4k77706788z9yvk.png)
 
 
 

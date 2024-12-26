@@ -7,7 +7,7 @@ tags:	[linuxcn,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202002/23/140404rzo0nc5x0w4x1x0o.png)
+![](/Asserts/Images/album/202002/23/140404rzo0nc5x0w4x1x0o.png)
 
 
 ### Microsoft Defender ATP 将保护所有现代工作场所环境

@@ -10,7 +10,7 @@ tags:	[linuxcn,编程,书籍,C++]
 书籍是非常主观和私人的财产，编程书籍也不例外。但是不管 C++ 编程书籍的风格、关注点或者节奏如何，好书总可以带领读者走过一段引人入胜的旅程，揭示编程语言的能力，还能向读者描绘如何使用编程语言来实现各种事物。
 
 
-![](/Asserts/Images//attachment/album/201703/01/104242jjujlty7uxzayybx.jpg)
+![](/Asserts/Images/album/201703/01/104242jjujlty7uxzayybx.jpg)
 
 
 分享是一种美德，我精心挑选了九本值得一读的优质 C++ 书籍，这些书籍均基于开源协议发布。在这之前，我会给出一份 C++ 的简短介绍。
@@ -25,7 +25,7 @@ C++ 仍是一种流行的编程语言。例如，它被广泛应用于嵌入式�
 ### 《<ruby> Boost C++ 类库 <rp>  （ </rp> <rt>  The Boost C++ Libraries </rt> <rp>  ） </rp></ruby>》
 
 
-![The Boost C++ Libraries](/Asserts/Images//attachment/album/201703/01/104310u30u0unuts0w0q24.jpg)
+![The Boost C++ Libraries](/Asserts/Images/album/201703/01/104310u30u0unuts0w0q24.jpg)
 
 
 作者 Boris Schäling (570页)
@@ -49,7 +49,7 @@ C++ 仍是一种流行的编程语言。例如，它被广泛应用于嵌入式�
 ### 《<ruby> C++ 注释 <rp>  （ </rp> <rt>  C++ Annotations </rt> <rp>  ） </rp></ruby>》
 
 
-![C++ Annotations](/Asserts/Images//attachment/album/201703/01/103613dy2iybyebdnjwciw.jpg)
+![C++ Annotations](/Asserts/Images/album/201703/01/103613dy2iybyebdnjwciw.jpg)
 
 
 作者 Frank B. Brokken (1029页)
@@ -88,7 +88,7 @@ C++ 仍是一种流行的编程语言。例如，它被广泛应用于嵌入式�
 ### 《<ruby> 通过 C++ 和 Qt4 了解设计模式 <rp>  （ </rp> <rt>  An Introduction to Design Patterns in C++ with Qt 4 </rt> <rp>  ） </rp></ruby>》
 
 
-![Introduction to Design Patterns in C++ with Qt 4, An](/Asserts/Images//attachment/album/201703/01/104311auu95wch4f0h9244.jpg)
+![Introduction to Design Patterns in C++ with Qt 4, An](/Asserts/Images/album/201703/01/104311auu95wch4f0h9244.jpg)
 
 
 作者 Alan Ezust, Paul Ezust (656页)
@@ -106,7 +106,7 @@ C++ 仍是一种流行的编程语言。例如，它被广泛应用于嵌入式�
 ### 《<ruby> 像计算机科学家一样思考：C++ <rp>  （ </rp> <rt>  How to Think Like a Computer Scientist: C++ </rt> <rp>  ） </rp></ruby>》
 
 
-![How to Think Like a Computer Scientist: C++](/Asserts/Images//attachment/album/201703/01/104311javufdza0zr2da2r.jpg)
+![How to Think Like a Computer Scientist: C++](/Asserts/Images/album/201703/01/104311javufdza0zr2da2r.jpg)
 
 
 作者 Allen B. Downey (191页)
@@ -138,7 +138,7 @@ C++ 仍是一种流行的编程语言。例如，它被广泛应用于嵌入式�
 ### 《<ruby> C++ Qt3 图形界面编程 <rp>  （ </rp> <rt>  C++ GUI Programming with Qt 3 </rt> <rp>  ） </rp></ruby>》
 
 
-![C++ GUI Programming with Qt 3](/Asserts/Images//attachment/album/201703/01/104312cuvhg0lf077ick03.jpg)
+![C++ GUI Programming with Qt 3](/Asserts/Images/album/201703/01/104312cuvhg0lf077ick03.jpg)
 
 
 作者 Jasmin Blanchette, Mark Summerfield (464 页)
@@ -159,7 +159,7 @@ C++ 仍是一种流行的编程语言。例如，它被广泛应用于嵌入式�
 ### 《<ruby> 开放数据结构（C++ 版） <rp>  （ </rp> <rt>  Open Data Structures (in C++) </rt> <rp>  ） </rp></ruby>》
 
 
-![Open Data Structures (in C++)](/Asserts/Images//attachment/album/201703/01/104314yc7mk6zvk774vrzf.jpg)
+![Open Data Structures (in C++)](/Asserts/Images/album/201703/01/104314yc7mk6zvk774vrzf.jpg)
 
 
 作者 Pat Morin (336页)
@@ -177,7 +177,7 @@ C++ 仍是一种流行的编程语言。例如，它被广泛应用于嵌入式�
 ### 《<ruby> 使用 wxWidgets 进行跨平台 GUI 编程 <rp>  （ </rp> <rt>  Cross-Platform GUI Programming with wxWidgets </rt> <rp>  ） </rp></ruby>》
 
 
-![Cross-Platform GUI Programming with wxWidgets](/Asserts/Images//attachment/album/201703/01/104314qej5155nliwze1lu.jpg)
+![Cross-Platform GUI Programming with wxWidgets](/Asserts/Images/album/201703/01/104314qej5155nliwze1lu.jpg)
 
 
 作者 Julian Smart，Kevin Hock和Stefan CsomorBrifll (744 页)
@@ -214,7 +214,7 @@ wxWidgets 是一个流行的 C++ 库，可供开发者使用单一的代码基�
 ### 《<ruby> Rook 的 C++ 指南 <rp>  （ </rp> <rt>  The Rook’s Guide to C++ </rt> <rp>  ） </rp></ruby>》
 
 
-![The Rook's Guide to C++](/Asserts/Images//attachment/album/201703/01/104314rod7or3dip3ear0z.jpg)
+![The Rook's Guide to C++](/Asserts/Images/album/201703/01/104314rod7or3dip3ear0z.jpg)
 
 
 作者 Jeremy Hansen (160页)
@@ -229,7 +229,7 @@ wxWidgets 是一个流行的 C++ 库，可供开发者使用单一的代码基�
 ### 《<ruby> GCC 简介 <rp>  （ </rp> <rt>  An Introduction to GCC </rt> <rp>  ） </rp></ruby>》
 
 
-![An Introduction to GCC](/Asserts/Images//attachment/album/201703/01/104315fg0bny3rkpllq70t.png)
+![An Introduction to GCC](/Asserts/Images/album/201703/01/104315fg0bny3rkpllq70t.png)
 
 
 作者 Brian Gough (144页)

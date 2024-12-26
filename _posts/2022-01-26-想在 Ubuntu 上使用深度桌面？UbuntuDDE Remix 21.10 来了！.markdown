@@ -15,7 +15,7 @@ tags:	[linuxcn,深度]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/05/110014ao83h6dym3kd3iba.jpg)
+![](/Asserts/Images/album/202201/05/110014ao83h6dym3kd3iba.jpg)
 
 
 [深度 20.3](https://news.itsfoss.com/deepin-20-3-release/) 已经发布了一段时间，做了一些基本的改进和细微的视觉变化。
@@ -39,7 +39,7 @@ tags:	[linuxcn,深度]
 #### Ubuntu 21.10 & Linux 内核 5.13
 
 
-![](/Asserts/Images//attachment/album/202201/05/110015n28eey1atqaegz6x.png)
+![](/Asserts/Images/album/202201/05/110015n28eey1atqaegz6x.png)
 
 
 [Linux 内核 5.13](https://news.itsfoss.com/linux-kernel-5-13-release/) 是一个必不可少的升级，它包括了一些硬件改进和安全增强。
@@ -57,13 +57,13 @@ tags:	[linuxcn,深度]
 有了最新的深度桌面，你也可以期待最新的软件包，包括更新的深度商店等等。
 
 
-![](/Asserts/Images//attachment/album/202201/05/110016se1epy6zcy0q9q0q.png)
+![](/Asserts/Images/album/202201/05/110016se1epy6zcy0q9q0q.png)
 
 
 新的壁纸应该可以让你使桌面看起来很有美感。
 
 
-![](/Asserts/Images//attachment/album/202201/05/110019y5iys5yv7s0sn5k2.png)
+![](/Asserts/Images/album/202201/05/110019y5iys5yv7s0sn5k2.png)
 
 
 #### 更新的软件包

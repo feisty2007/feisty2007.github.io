@@ -10,7 +10,7 @@ tags:	[linuxcn,KVM,virsh,虚拟机]
 在我们[KVM系列专题](http://www.tecmint.com/install-and-configure-kvm-in-linux/)的第四部分，我们将会一起讨论下在命令行界面下来管理KVM环境。我们分别用‘virt-install’和virsh命令行工具来创建并配置虚拟机和存储池，用qemu-img命令行工具来创建并管理磁盘映像。
 
 
-![KVM Management in Linux](/Asserts/Images//attachment/album/201505/13/071411m9nu9l9xcnw7kumm.jpg)
+![KVM Management in Linux](/Asserts/Images/album/201505/13/071411m9nu9l9xcnw7kumm.jpg)
 
 
 *Linux系统的KVM管理*
@@ -56,7 +56,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 
 ```
 
-![Create New Storage Pool](/Asserts/Images//attachment/album/201505/13/071412irlmi3cij6l6dz65.png)
+![Create New Storage Pool](/Asserts/Images/album/201505/13/071412irlmi3cij6l6dz65.png)
 
 
 *创建新存储池*
@@ -71,7 +71,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 
 ```
 
-![List All Storage Pools](/Asserts/Images//attachment/album/201505/13/071412rwp2uibii1ukdq7p.png)
+![List All Storage Pools](/Asserts/Images/album/201505/13/071412rwp2uibii1ukdq7p.png)
 
 
 *列出所有存储池*
@@ -86,7 +86,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 
 ```
 
-![Build Storage Pool](/Asserts/Images//attachment/album/201505/13/071412j2vzvv984bpxx4vs.png)
+![Build Storage Pool](/Asserts/Images/album/201505/13/071412j2vzvv984bpxx4vs.png)
 
 
 *构造存储池*
@@ -101,7 +101,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 
 ```
 
-![Active Storage Pool](/Asserts/Images//attachment/album/201505/13/071413hqiw3of3o7a32q3q.png)
+![Active Storage Pool](/Asserts/Images/album/201505/13/071413hqiw3of3o7a32q3q.png)
 
 
 *激活存储池*
@@ -116,7 +116,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 
 ```
 
-![Check Storage Pool Status](/Asserts/Images//attachment/album/201505/13/071413gzi3md3dkguq2ggb.png)
+![Check Storage Pool Status](/Asserts/Images/album/201505/13/071413gzi3md3dkguq2ggb.png)
 
 
 *查看存储池状态*
@@ -134,7 +134,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 
 ```
 
-![Configure KVM Storage Pool](/Asserts/Images//attachment/album/201505/13/071414zvlelhe7vlhyj133.png)
+![Configure KVM Storage Pool](/Asserts/Images/album/201505/13/071414zvlelhe7vlhyj133.png)
 
 
 *配置KVM存储池*
@@ -149,7 +149,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 
 ```
 
-![Check KVM Storage Pool Information](/Asserts/Images//attachment/album/201505/13/071414s2lcm8felftm9izq.png)
+![Check KVM Storage Pool Information](/Asserts/Images/album/201505/13/071414s2lcm8felftm9izq.png)
 
 
 *查看KVM存储池信息*
@@ -179,7 +179,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 
 ```
 
-![Create Storage Volume](/Asserts/Images//attachment/album/201505/13/071414eclch3pxt2z5hagg.png)
+![Create Storage Volume](/Asserts/Images/album/201505/13/071414eclch3pxt2z5hagg.png)
 
 
 *创建存储卷*
@@ -188,7 +188,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 **9. 通过使用带info的qemu-img命令，你可以获取到你的新磁盘映像的一些信息。**
 
 
-![Check Storage Volume Information](/Asserts/Images//attachment/album/201505/13/071415hmp6fpr69070f96p.png)
+![Check Storage Volume Information](/Asserts/Images/album/201505/13/071415hmp6fpr69070f96p.png)
 
 
 *查看存储卷信息*
@@ -229,7 +229,7 @@ Virsh命令行工具是一款管理virsh客户域的用户界面。virsh程序�
 virt-install --name=rhel7 --disk path=/mnt/personal-data/SPool1/SVol1.img --graphics spice --vcpu=1 --ram=1024 --location=/run/media/dos/9e6f605a-f502-4e98-826e-e6376caea288/rhel-server-7.0-x86_64-dvd.iso --network bridge=virbr0
 ```
 
-![Create New Virtual Machine](/Asserts/Images//attachment/album/201505/13/071415siniag9jub009aw4.png)
+![Create New Virtual Machine](/Asserts/Images/album/201505/13/071415siniag9jub009aw4.png)
 
 
 *创建新的虚拟机*
@@ -238,13 +238,13 @@ virt-install --name=rhel7 --disk path=/mnt/personal-data/SPool1/SVol1.img --grap
 **11. 你会看到弹出一个virt-vierwer窗口，像是在通过它在与虚拟机通信。**
 
 
-![Booting Virtual Machine](/Asserts/Images//attachment/album/201505/13/071416o79n4b654hov7bav.jpg)
+![Booting Virtual Machine](/Asserts/Images/album/201505/13/071416o79n4b654hov7bav.jpg)
 
 
 *虚拟机启动程式*
 
 
-![Installation of Virtual Machine](/Asserts/Images//attachment/album/201505/13/071416c5fsidzcps0jwpf5.jpg)
+![Installation of Virtual Machine](/Asserts/Images/album/201505/13/071416c5fsidzcps0jwpf5.jpg)
 
 
 *虚拟机安装过程*

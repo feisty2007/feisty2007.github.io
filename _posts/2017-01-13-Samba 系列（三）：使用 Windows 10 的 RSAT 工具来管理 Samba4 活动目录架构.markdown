@@ -10,7 +10,7 @@ tags:	[linuxcn,Samba,活动目录]
 这一节的Samba4 AD DC 架构系列文章，我们将会讨论如何把 Windows 10 系统的电脑添加到 Samba4 域环境中，以及如何在 Windows 10 系统下管理域环境。
 
 
-![](/Asserts/Images//attachment/album/201701/05/225257qbvfnlqngq2wlvqo.jpg)
+![](/Asserts/Images/album/201701/05/225257qbvfnlqngq2wlvqo.jpg)
 
 
 一旦 Windows 10 系统加入到 Samba4 AD DC ，我们就可以在 Windows 10 系统中创建、删除或者禁用域用户和组了，可以创建新的组织单元，创建、编辑和管理域策略，还可以管理 Samba4 域 DNS 服务。
@@ -49,7 +49,7 @@ $ sudo apt-get install ntp ntpdate
 
 ```
 
-![Install NTP on Ubuntu](/Asserts/Images//attachment/album/201701/05/230141e8r2a4477a94zp67.png)
+![Install NTP on Ubuntu](/Asserts/Images/album/201701/05/230141e8r2a4477a94zp67.png)
 
 
 *在 Ubuntu 系统下安装 NTP 服务*
@@ -80,7 +80,7 @@ pool 3.ro.pool.ntp.org
 
 ```
 
-![Configure NTP Server in Ubuntu](/Asserts/Images//attachment/album/201701/05/230142ceky5ez9dek4udrn.png)
+![Configure NTP Server in Ubuntu](/Asserts/Images/album/201701/05/230142ceky5ez9dek4udrn.png)
 
 
 *在 Ubuntu 系统下配置 NTP 服务*
@@ -95,7 +95,7 @@ ntpsigndsocket /var/lib/samba/ntp_signd/
 
 ```
 
-![Sync AD with NTP](/Asserts/Images//attachment/album/201701/05/230143e8kixc8a7afcxxtt.png)
+![Sync AD with NTP](/Asserts/Images/album/201701/05/230143e8kixc8a7afcxxtt.png)
 
 
 *使用 NTP 来同步 AD*
@@ -110,7 +110,7 @@ restrict default kod nomodify notrap nopeer mssntp
 
 ```
 
-![Query Clients to NTP Server](/Asserts/Images//attachment/album/201701/05/230144dlglhukdnh1lffon.png)
+![Query Clients to NTP Server](/Asserts/Images/album/201701/05/230144dlglhukdnh1lffon.png)
 
 
 *限制 NTP 服务的查询客户端*
@@ -131,7 +131,7 @@ $ sudo netstat –tulpn | grep ntp
 
 ```
 
-![Grant Permission to NTP](/Asserts/Images//attachment/album/201701/05/230145jcemacqwqgeddcac.png)
+![Grant Permission to NTP](/Asserts/Images/album/201701/05/230145jcemacqwqgeddcac.png)
 
 
 *给 NTP 服务授权*
@@ -146,7 +146,7 @@ $ ntpq -p
 
 ```
 
-![Monitor NTP Server Pool](/Asserts/Images//attachment/album/201701/05/230147weopy1x0uzu3ciee.png)
+![Monitor NTP Server Pool](/Asserts/Images/album/201701/05/230147weopy1x0uzu3ciee.png)
 
 
 *监控 NTP 服务器池*
@@ -165,7 +165,7 @@ ntpdate[4472]: no server suitable for synchronization found
 
 ```
 
-![NTP Time Synchronization Error](/Asserts/Images//attachment/album/201701/05/230148jz2u2p2mi828rnm2.png)
+![NTP Time Synchronization Error](/Asserts/Images/album/201701/05/230148jz2u2p2mi828rnm2.png)
 
 
 *NTP 时间同步异常*
@@ -181,7 +181,7 @@ Server dropped: Leap not in sync
 
 ```
 
-![NTP Server Dropped Leap Not in Sync](/Asserts/Images//attachment/album/201701/05/230149xbjzyjqticltnnyn.png)
+![NTP Server Dropped Leap Not in Sync](/Asserts/Images/album/201701/05/230149xbjzyjqticltnnyn.png)
 
 
 *NTP Server Dropped Leap Not in Sync*
@@ -199,7 +199,7 @@ Server dropped: Leap not in sync
 
 ```
 
-![Force NTP Time Synchronization](/Asserts/Images//attachment/album/201701/05/230151j7565yyjyzyl2x5j.png)
+![Force NTP Time Synchronization](/Asserts/Images/album/201701/05/230151j7565yyjyzyl2x5j.png)
 
 
 *强制 NTP 时间同步*
@@ -214,7 +214,7 @@ Server dropped: Leap not in sync
 
 ```
 
-![Verify NTP Time Synchronization](/Asserts/Images//attachment/album/201701/05/230151sao5x3jds35joa5s.png)
+![Verify NTP Time Synchronization](/Asserts/Images/album/201701/05/230151sao5x3jds35joa5s.png)
 
 
 *验证 NTP 时间同步*
@@ -238,13 +238,13 @@ Server dropped: Leap not in sync
 打开“控制面板 -> 网络和 Internet -> 网络和共享中心 -> 网卡设置 -> 属性 -> IPv4 -> 属性 -> 使用下面的 DNS 服务器地址”，并且手动输入 Samba4 AD 服务器的 IP 地址，如下图所示：
 
 
-![join Windows to Samba4 AD](/Asserts/Images//attachment/album/201701/05/230153sa44zwfwhibhrl92.png)
+![join Windows to Samba4 AD](/Asserts/Images/album/201701/05/230153sa44zwfwhibhrl92.png)
 
 
 *把 Windows 10 加入到 Samba4 AD 环境*
 
 
-![Add DNS and Samba4 AD IP Address](/Asserts/Images//attachment/album/201701/05/230155g1jroovxq1b11vwi.png)
+![Add DNS and Samba4 AD IP Address](/Asserts/Images/album/201701/05/230155g1jroovxq1b11vwi.png)
 
 
 *添加 DNS 和 Samba4 AD 服务器地址*
@@ -263,7 +263,7 @@ ping adc1.tecmint.lan
 
 ```
 
-![Check Network Connectivity Between Windows and Samba4 AD](/Asserts/Images//attachment/album/201701/05/230157p01s58ushq1h1tsu.png)
+![Check Network Connectivity Between Windows and Samba4 AD](/Asserts/Images/album/201701/05/230157p01s58ushq1h1tsu.png)
 
 
 *检查 Windows 和 Samb4 AD 服务器的网络连通性*
@@ -278,7 +278,7 @@ ping adc1.tecmint.lan
 点击立即更新按钮来强制与域同步时间，点击 OK 关闭窗口。
 
 
-![Synchronize Time with Internet Server](/Asserts/Images//attachment/album/201701/05/230159uki9xqm9elk99ppq.png)
+![Synchronize Time with Internet Server](/Asserts/Images/album/201701/05/230159uki9xqm9elk99ppq.png)
 
 
 *与 Internet 服务器同步时间*
@@ -293,25 +293,25 @@ ping adc1.tecmint.lan
 下面的截图将说明这些操作步骤。
 
 
-![Join Windows Domain to Samba4 AD](/Asserts/Images//attachment/album/201701/05/230201zsswddsmgisfmc5n.png)
+![Join Windows Domain to Samba4 AD](/Asserts/Images/album/201701/05/230201zsswddsmgisfmc5n.png)
 
 
 *把 Windows 域加入到 Samba4 AD 环境*
 
 
-![Enter Domain Administration Login](/Asserts/Images//attachment/album/201701/05/230203s1fwccwcmw1wwcgz.png)
+![Enter Domain Administration Login](/Asserts/Images/album/201701/05/230203s1fwccwcmw1wwcgz.png)
 
 
 *输入域管理员账号登录*
 
 
-![Domain Joined to Samba4 AD Confirmation](/Asserts/Images//attachment/album/201701/05/230204upxryvf1r8nmtjh3.png)
+![Domain Joined to Samba4 AD Confirmation](/Asserts/Images/album/201701/05/230204upxryvf1r8nmtjh3.png)
 
 
 *确认域已加入到 Samba4 AD 环境*
 
 
-![Restart Windows Server for Changes](/Asserts/Images//attachment/album/201701/05/230204osq8exq9qszgh2st.png)
+![Restart Windows Server for Changes](/Asserts/Images/album/201701/05/230204osq8exq9qszgh2st.png)
 
 
 *重启 Windows 服务器以应用更改*
@@ -320,7 +320,7 @@ ping adc1.tecmint.lan
 13、重启之后，单击其它用户并且使用具有管理员权限的 Samba4 域账号登录到 Windows 系统，你已经准备好进入到后边几个步骤了。
 
 
-![Login to Windows Using Samba4 AD Account](/Asserts/Images//attachment/album/201701/05/230206wktbpxookkbjw2wo.png)
+![Login to Windows Using Samba4 AD Account](/Asserts/Images/album/201701/05/230206wktbpxookkbjw2wo.png)
 
 
 *使用 Samba4 AD 账号登录到 Windows*
@@ -347,7 +347,7 @@ ping adc1.tecmint.lan
 点击 OK 开始安装，安装完成之后重启系统。
 
 
-![Administer Samba4 AD from Windows](/Asserts/Images//attachment/album/201701/05/230208iejuz6kh5egj5yuj.png)
+![Administer Samba4 AD from Windows](/Asserts/Images/album/201701/05/230208iejuz6kh5egj5yuj.png)
 
 
 *从 Windows 系统下管理 Samba4 AD*
@@ -359,7 +359,7 @@ ping adc1.tecmint.lan
 这些工具也可以在开始工菜单的管理工具菜单中找到。另外，你也可以打开 Windows MMC 工具和管理单元，从“文件 -> 添加/删除管理单元”菜单中访问它们。
 
 
-![Access Remote Server Administration Tools](/Asserts/Images//attachment/album/201701/05/230209iuu8m8dil0z9ubuc.png)
+![Access Remote Server Administration Tools](/Asserts/Images/album/201701/05/230209iuu8m8dil0z9ubuc.png)
 
 
 *访问远程服务器管理工具集*
@@ -374,19 +374,19 @@ ping adc1.tecmint.lan
 在 Samba4 服务器上使用 `wbinf` 命令来检查用户和组是否已经创建成功。
 
 
-![Active Directory Users and Computers](/Asserts/Images//attachment/album/201701/05/230211k5zin5xiinen7rht.png)
+![Active Directory Users and Computers](/Asserts/Images/album/201701/05/230211k5zin5xiinen7rht.png)
 
 
 *活动目录用户和计算机*
 
 
-![Create Organizational Units and New Users](/Asserts/Images//attachment/album/201701/05/230212o6rrhb31z1thgt1u.png)
+![Create Organizational Units and New Users](/Asserts/Images/album/201701/05/230212o6rrhb31z1thgt1u.png)
 
 
 *创建组织单元和新用户*
 
 
-![Confirm Samba4 AD Users](/Asserts/Images//attachment/album/201701/05/230213v41occbz4bcpcbcz.png)
+![Confirm Samba4 AD Users](/Asserts/Images/album/201701/05/230213v41occbz4bcpcbcz.png)
 
 
 *确认 Samba4 AD 用户*

@@ -7,10 +7,10 @@ tags:	[linuxcn,IPv4,Safari,Office]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/01/211706flgadktg2kqtqqdm.jpg)
+![](/Asserts/Images/album/202206/01/211706flgadktg2kqtqqdm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/01/211717bpma9s0x09rrmxpe.jpg)
+![](/Asserts/Images/album/202206/01/211717bpma9s0x09rrmxpe.jpg)
 
 
 ### 计划释放数以亿计的 IPv4 地址
@@ -35,7 +35,7 @@ tags:	[linuxcn,IPv4,Safari,Office]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/01/211731gzt3ejxpj4y5g8c8.jpg)
+![](/Asserts/Images/album/202206/01/211731gzt3ejxpj4y5g8c8.jpg)
 
 
 ### Safari 浏览器成为唯二用户数突破 10 亿的浏览器之一
@@ -63,7 +63,7 @@ tags:	[linuxcn,IPv4,Safari,Office]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/01/211747wk2cwxc3cwcy2h5w.png)
+![](/Asserts/Images/album/202206/01/211747wk2cwxc3cwcy2h5w.png)
 
 
 ### 微软 Office 软件被发现一个已在野利用的零日漏洞

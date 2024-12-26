@@ -7,7 +7,7 @@ tags:	[linuxcn,GObject,libsoup]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/24/145218s1s1xk6s1mm2kg1x.jpg)
+![](/Asserts/Images/album/202209/24/145218s1s1xk6s1mm2kg1x.jpg)
 
 
 

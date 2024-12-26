@@ -7,7 +7,7 @@ tags:	[linuxcn,新建文件,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/22/121119irggaa4e5qe5qjl3.jpg)
+![](/Asserts/Images/album/202209/22/121119irggaa4e5qe5qjl3.jpg)
 
 
 
@@ -30,13 +30,13 @@ tags:	[linuxcn,新建文件,GNOME]
 当你右键单击文件时，上下文菜单有一个新选项“<ruby> 新建文件 <rt>  New File </rt></ruby>”。
 
 
-![New File Option in Files Context Menu](/Asserts/Images//attachment/album/202209/22/121220ll3n55dkj3m3md1m.jpg)
+![New File Option in Files Context Menu](/Asserts/Images/album/202209/22/121220ll3n55dkj3m3md1m.jpg)
 
 
 GNOME “文件”中的“<ruby> 新建文件 <rt>  New File </rt></ruby>”选项启动一个操作窗口，如下图所示。
 
 
-![GNOME Files New File Action Dialog](/Asserts/Images//attachment/album/202209/22/121227r555zvu7uvm7q4lc.jpg)
+![GNOME Files New File Action Dialog](/Asserts/Images/album/202209/22/121227r555zvu7uvm7q4lc.jpg)
 
 
 当它启动上述对话框时，会在后台发生一些事情。
@@ -48,7 +48,7 @@ GNOME “文件”中的“<ruby> 新建文件 <rt>  New File </rt></ruby>”选
 如果当前存在一个带有模板的 `Template` 目录，你能通过那些文档类型的列表以创建新文档。
 
 
-![GNOME Files New File Template Dialog (when some templates present)](/Asserts/Images//attachment/album/202209/22/121236t43hysas3zgd0v24.jpg)
+![GNOME Files New File Template Dialog (when some templates present)](/Asserts/Images/album/202209/22/121236t43hysas3zgd0v24.jpg)
 
 
 如果你没有任何模板（很可能），GNOME “文件”会扫描你的系统并根据系统中已安装的应用程序显示常见文件类型的列表。

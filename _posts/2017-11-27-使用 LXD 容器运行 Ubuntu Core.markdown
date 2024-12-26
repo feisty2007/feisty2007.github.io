@@ -7,7 +7,7 @@ tags:	[linuxcn,LXD,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/23/004218pohu77bt0tlrtvz1.jpg)
+![](/Asserts/Images/album/201711/23/004218pohu77bt0tlrtvz1.jpg)
 
 
 ### Ubuntu Core 是什么？

@@ -7,10 +7,10 @@ tags:	[linuxcn,电子邮件,Linux,写字板,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/06/161810dklz8kmq7qqqq3lg.jpg)
+![](/Asserts/Images/album/202401/06/161810dklz8kmq7qqqq3lg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/06/161829lwuqq6xqk3xjellx.png)
+![](/Asserts/Images/album/202401/06/161829lwuqq6xqk3xjellx.png)
 
 
 ### #1 就连 Linus Torvalds 都觉得电子邮件补丁模式需要改变
@@ -38,7 +38,7 @@ tags:	[linuxcn,电子邮件,Linux,写字板,密码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/06/161848gyksyrfo07z0h000.png)
+![](/Asserts/Images/album/202401/06/161848gyksyrfo07z0h000.png)
 
 
 ### #2 Windows 11 开始移除写字板
@@ -66,7 +66,7 @@ tags:	[linuxcn,电子邮件,Linux,写字板,密码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/06/161907r4x7z2v47lj2z7l7.png)
+![](/Asserts/Images/album/202401/06/161907r4x7z2v47lj2z7l7.png)
 
 
 ### #3 电信运营商使用一个弱得离谱的密码管理全球路由表

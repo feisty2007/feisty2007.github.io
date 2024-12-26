@@ -7,7 +7,7 @@ tags:	[linuxcn,MacOS,helloSystem]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/24/104504nee2uo4mcez2oece.jpg)
+![](/Asserts/Images/album/202110/24/104504nee2uo4mcez2oece.jpg)
 
 
 最近，helloSystem 的开发者发布了他们操作系统的最新版本。helloSystem 是一个较新的项目，希望以 FreeBSD 为基础创建一个简单易用的操作系统。让我们来看看这对你我意味着什么。
@@ -16,7 +16,7 @@ tags:	[linuxcn,MacOS,helloSystem]
 ### helloSystem 简介
 
 
-![helloSystem 的关于屏幕](/Asserts/Images//attachment/album/202110/24/104504ih0wsrk37sfrutfs.jpg)
+![helloSystem 的关于屏幕](/Asserts/Images/album/202110/24/104504ih0wsrk37sfrutfs.jpg)
 
 
 你们中的大多数人可能以前从未听说过 [helloSystem](https://github.com/helloSystem/hello)。该项目是由 [AppImage 的创建者](https://itsfoss.com/appimage-interview/) [Simon Peter](https://github.com/probonopd) 在去年年初启动的。Simon 的目标是创建一个“友好的 [自由桌面](https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1) 操作系统，重点是简单、简约优雅和可用性。”
@@ -37,7 +37,7 @@ Simon 从上世纪 80 、90 年代更为简单的操作系统中获得了灵感�
 * Go
 
 
-![helloSystem 的欢迎屏幕](/Asserts/Images//attachment/album/202110/24/104505vz7s807k3x7saff5.jpg)
+![helloSystem 的欢迎屏幕](/Asserts/Images/album/202110/24/104505vz7s807k3x7saff5.jpg)
 
 
 “不受欢迎的技术”清单包括 Simon 认为“太复杂或被认为不美观”的东西。这些技术包括：
@@ -61,7 +61,7 @@ Simon 从上世纪 80 、90 年代更为简单的操作系统中获得了灵感�
 * 本地文件的 URI
 
 
-![在 helloSystem 上安装 Inkscape](/Asserts/Images//attachment/album/202110/24/104505e1xd1501nheknd1x.jpg)
+![在 helloSystem 上安装 Inkscape](/Asserts/Images/album/202110/24/104505e1xd1501nheknd1x.jpg)
 
 
 ### helloSystem 如何工作
@@ -79,7 +79,7 @@ helloSystem 基于 FreeBSD 12.2。它默认启用了 ZFS。它没有密码或用
 ### 最新版本中的新功能
 
 
-![helloSystem 的实用程序窗口](/Asserts/Images//attachment/album/202110/24/104506gfwb77elz3xub7zb.jpg)
+![helloSystem 的实用程序窗口](/Asserts/Images/album/202110/24/104506gfwb77elz3xub7zb.jpg)
 
 
 最新版本的 helloSystem 包括不少图形方面的更新和小的变化，包括：

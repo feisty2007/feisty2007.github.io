@@ -15,7 +15,7 @@ tags:	[linuxcn,机器学习]
 > 
 
 
-![](/Asserts/Images//attachment/album/201811/08/095731jpilm55mlyzrmbxg.jpg)
+![](/Asserts/Images/album/201811/08/095731jpilm55mlyzrmbxg.jpg)
 
 
 想要入门机器学习并不难。除了<ruby> 大规模网络公开课 <rt>  Massive Open Online Courses </rt></ruby>（MOOC）之外，还有很多其它优秀的免费资源。下面我分享一些我觉得比较有用的方法。
@@ -57,7 +57,7 @@ tags:	[linuxcn,机器学习]
 NumPy 的完整名称是 [Numerical Python](http://numpy.org/)，它是 Python 生态里高性能科学计算和数据分析都需要用到的基础包，几乎所有高级工具（例如 [Pandas](https://pandas.pydata.org/) 和 [scikit-learn](http://scikit-learn.org/)）都依赖于它。[TensorFlow](https://www.tensorflow.org/) 使用了 NumPy 数组作为基础构建块以支持 Tensor 对象和深度学习的图形流。很多 NumPy 操作的速度都非常快，因为它们都是通过 C 实现的。高性能对于数据科学和现代机器学习来说是一个非常宝贵的优势。
 
 
-![](/Asserts/Images//attachment/album/201811/08/095748s0itihh8380ezfah.jpg)
+![](/Asserts/Images/album/201811/08/095748s0itihh8380ezfah.jpg)
 
 
 #### Pandas
@@ -77,7 +77,7 @@ Pandas 是 Python 生态中用于进行通用数据分析的最受欢迎的库�
 * 通过 Matplotlib 和 Seaborn 进行可视化
 
 
-![](/Asserts/Images//attachment/album/201811/08/095752ct5oru89drurntj9.png)
+![](/Asserts/Images/album/201811/08/095752ct5oru89drurntj9.png)
 
 
 #### Matplotlib 和 Seaborn
@@ -89,13 +89,13 @@ Pandas 是 Python 生态中用于进行通用数据分析的最受欢迎的库�
 [Matplotlib](https://matplotlib.org/) 是应用最广泛的 2D Python 可视化库。它包含海量的命令和接口，可以让你根据数据生成高质量的图表。要学习使用 Matplotlib，可以参考这篇详尽的[文章](https://realpython.com/python-matplotlib-guide/)。
 
 
-![](/Asserts/Images//attachment/album/201811/08/095757nezl0sx0rr3pkxtz.png)
+![](/Asserts/Images/album/201811/08/095757nezl0sx0rr3pkxtz.png)
 
 
 [Seaborn](https://seaborn.pydata.org/) 也是一个强大的用于统计和绘图的可视化库。它在 Matplotlib 的基础上提供样式灵活的 API、用于统计和绘图的常见高级函数，还可以和 Pandas 提供的功能相结合。要学习使用 Seaborn，可以参考这篇优秀的[教程](https://www.datacamp.com/community/tutorials/seaborn-python-tutorial)。
 
 
-![](/Asserts/Images//attachment/album/201811/08/095758e1aoaeecg6z5fha6.png)
+![](/Asserts/Images/album/201811/08/095758e1aoaeecg6z5fha6.png)
 
 
 #### Scikit-learn

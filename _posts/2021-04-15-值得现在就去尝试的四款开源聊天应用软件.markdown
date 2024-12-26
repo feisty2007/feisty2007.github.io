@@ -15,7 +15,7 @@ tags:	[linuxcn,聊天]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/06/103454xundd858446u08r0.jpg "Chat bubbles")
+![](/Asserts/Images/album/202104/06/103454xundd858446u08r0.jpg "Chat bubbles")
 
 
 清晨起床后，我们通常要做的第一件事是检查手机，看看是否有同事和朋友发来的重要信息。无论这是否是一个好习惯，但这种行为早已成为我们日常生活的一部分。
@@ -47,7 +47,7 @@ tags:	[linuxcn,聊天]
 #### Rocket.Chat
 
 
-![Rocket.Chat](/Asserts/Images//attachment/album/202104/06/103543xet5herrrfftvlff.png "Rocket.Chat")
+![Rocket.Chat](/Asserts/Images/album/202104/06/103543xet5herrrfftvlff.png "Rocket.Chat")
 
 
 [Rocket.Chat](https://rocket.chat/) 是一个综合性的通讯平台，其将频道分为公开房间（任何人都可以加入）和私有房间（仅受邀请）。你还可以直接将消息发送给已登录的人员。其能共享文档、链接、照片、视频和<ruby> 动态图 <rt>  GIF </rt></ruby>，以及进行视频通话，并可以在平台中发送语音信息。
@@ -65,7 +65,7 @@ Rocket.Chat 是完全免费，其 [源码](https://github.com/RocketChat/Rocket.
 #### IRC
 
 
-![IRC on WeeChat 0.3.5](/Asserts/Images//attachment/album/202104/06/103543d4io1pc3qaxrgowl.png "IRC on WeeChat 0.3.5")
+![IRC on WeeChat 0.3.5](/Asserts/Images/album/202104/06/103543d4io1pc3qaxrgowl.png "IRC on WeeChat 0.3.5")
 
 
 IRC（<ruby> <a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">  互联网中继聊天 </a> <rt>  Internet Relay Chat </rt></ruby>）是一款实时、基于文本格式的通信软件。尽管其是最古老的电子通讯形式之一，但在许多知名的软件项目中仍受欢迎。
@@ -83,7 +83,7 @@ IRC 频道是单独的聊天室。它可以让你在一个开放的频道中与�
 #### Zulip
 
 
-![Zulip](/Asserts/Images//attachment/album/202104/06/103544o0d1an1c1ofcssyq.png "Zulip")
+![Zulip](/Asserts/Images/album/202104/06/103544o0d1an1c1ofcssyq.png "Zulip")
 
 
 [Zulip](https://zulipchat.com/) 是十分流行的群聊应用程序，它遵循基于话题线索的模式。在 Zulip 中，你可以订阅<ruby> 流 <rt>  stream </rt></ruby>，就像在 IRC 频道或 Rocket.Chat 中一样。但是，每个 Zulip 流都会拥有一个唯一的<ruby> 话题 <rt>  topic </rt></ruby>，该话题可帮助你以后查找对话，因此其更有条理。
@@ -101,7 +101,7 @@ Zulip 是开源的（你可以在 GitHub 上访问其 [源码](https://github.co
 #### Let's Chat
 
 
-![Let's Chat](/Asserts/Images//attachment/album/202104/06/103544y0nvnwwt7qqqnhee.png "Let's Chat")
+![Let's Chat](/Asserts/Images/album/202104/06/103544y0nvnwwt7qqqnhee.png "Let's Chat")
 
 
 [Let's Chat](https://sdelements.github.io/lets-chat/) 是一个面向小型团队的自托管的聊天解决方案。它使用 Node.js 和 MongoDB 编写运行，只需鼠标点击几下即可将其部署到本地服务器或云服务器。它是自由开源软件，可以在 GitHub 上查看其 [源码](https://github.com/sdelements/lets-chat)。
@@ -116,7 +116,7 @@ Let's Chat 与其他开源聊天工具的不同之处在于其企业功能：它
 ### 附加：开源视频聊天软件 Jitsi
 
 
-![Jitsi](/Asserts/Images//attachment/album/202104/06/103544t0axe4ggbbgh6urb.jpg "Jitsi")
+![Jitsi](/Asserts/Images/album/202104/06/103544t0axe4ggbbgh6urb.jpg "Jitsi")
 
 
 有时，文字聊天还不够，你还可能需要与某人面谈。在这种情况下，如果不能选择面对面开会交流，那么视频聊天是最好的选择。[Jitsi](https://jitsi.org/) 是一个完全开源的、支持多平台且兼容 WebRTC 的视频会议工具。

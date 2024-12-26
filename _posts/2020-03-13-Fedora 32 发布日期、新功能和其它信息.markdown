@@ -19,7 +19,7 @@ Fedora 32 应该和 [Ubuntu 20.04 LTS](https://itsfoss.com/ubuntu-20-04-release-
 ### Fedora 32 的新功能
 
 
-![](/Asserts/Images//attachment/album/202003/27/222340ordri3ds8t8z33hp.jpg)
+![](/Asserts/Images/album/202003/27/222340ordri3ds8t8z33hp.jpg)
 
 
 #### 启用了 EarlyOOM
@@ -64,7 +64,7 @@ Fedora 32 仍在开发中。Beta 版已经发布，你可以在空闲系统或�
 要获取工作站和服务器版本，你必须访问 [Fedora 工作站](https://getfedora.org/workstation/download/)和 [Fedora 服务器](https://getfedora.org/server/download/)的官方下载页面（取决于你的需求）。
 
 
-![Fedora Download Beta](/Asserts/Images//attachment/album/202003/27/222341e3izcir5mrcz1bik.jpg)
+![Fedora Download Beta](/Asserts/Images/album/202003/27/222341e3izcir5mrcz1bik.jpg)
 
 
 打开后，你只需查找如上图所示的标记为 “**Beta!**” 的发行版，然后开始下载。对于其他变体版本，请单击下面的链接以转到各自的下载页面：

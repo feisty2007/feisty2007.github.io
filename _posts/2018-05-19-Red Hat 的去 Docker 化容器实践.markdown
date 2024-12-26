@@ -7,7 +7,7 @@ tags:	[linuxcn,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/10/122423nn342z26ornon21o.jpg)
+![](/Asserts/Images/album/201805/10/122423nn342z26ornon21o.jpg)
 
 
 最近几年，开源项目 Docker (已更名为[Moby](https://mobyproject.org/)) 在容器普及化方面建树颇多。然而，它的功能特性不断集中到一个单一、庞大的系统，该系统由具有 root 权限运行的守护进程 `dockerd` 管控，这引发了人们的焦虑。对这些焦虑的阐述，具有代表性的是 Red Hat 公司的容器团队负责人 Dan Walsh 在 [KubeCon + CloudNativecon](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-north-america) 会议中的[演讲](https://kccncna17.sched.com/event/CU8j/cri-o-hosted-by-daniel-walsh-red-hat)。Walsh 讲述了他的容器团队目前的工作方向，即使用一系列更小、可协同工作的组件替代 Docker。他的战斗口号是“拒绝臃肿的守护进程”，理由是与公认的 Unix 哲学相违背。
@@ -31,7 +31,7 @@ tags:	[linuxcn,容器]
 ### 使用 Buildah 构建容器
 
 
-![\[Buildah logo\]](/Asserts/Images//attachment/album/201805/10/122437qhminlii9nhbwbbw.png "Buildah logo")
+![\[Buildah logo\]](/Asserts/Images/album/201805/10/122437qhminlii9nhbwbbw.png "Buildah logo")
 
 
 Buildah 名称显然来自于 Walsh 风趣的 [波士顿口音](https://en.wikipedia.org/wiki/Boston_accent)； 该工具的品牌宣传中充满了波士顿风格，例如 logo 使用了波士顿梗犬（如图所示）。该项目的实现思路与 Ducy 不同：为了构建容器，与其被迫使用宣告式配置管理的方案，不如构建一些简单工具，结合你最喜欢的配置管理工具使用。这样你可以如愿的使用命令行，例如使用 `cp` 命令代替 Docker 的自定义指令 `COPY` 。除此之外，你可以使用如下工具为容器提供内容：1) 配置管理工具，例如Ansible 或 Puppet；2) 操作系统相关或编程语言相关的安装工具，例如 APT 和 pip； 3) 其它系统。下面展示了基于通用 shell 命令的容器构建场景，其中只需要使用 `make` 命令即可为容器安装可执行文件。

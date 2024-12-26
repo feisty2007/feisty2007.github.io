@@ -15,7 +15,7 @@ tags:	[linuxcn,Unity]
 > 
 
 
-![](/Asserts/Images//attachment/album/201712/15/141555ytknhx1k3oze1len.jpg)
+![](/Asserts/Images/album/201712/15/141555ytknhx1k3oze1len.jpg)
 
 
 Canonical 在七年之后突然决定抛弃它的 Unity 用户界面影响了许多 Ubuntu 用户，现在看起来有人试图把它从死亡中带回来，成为官方<ruby> 分支 <rt>  spin </rt></ruby>。

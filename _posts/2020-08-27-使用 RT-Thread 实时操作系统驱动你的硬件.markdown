@@ -15,7 +15,7 @@ tags:	[linuxcn,RT-Thread,RTOS]
 > 
 
 
-![Puzzle pieces coming together to form a computer screen](/Asserts/Images//attachment/album/202008/15/065451hu3784opp7p74qtp.jpg "Puzzle pieces coming together to form a computer screen")
+![Puzzle pieces coming together to form a computer screen](/Asserts/Images/album/202008/15/065451hu3784opp7p74qtp.jpg "Puzzle pieces coming together to form a computer screen")
 
 
 从通用计算的角度，操作系统是提供计算机基本功能的一组软件。操作系统保证了计算机硬件可以探测并响应外围器件（如键盘、屏幕、移动设备、打印机等），并管理内存空间和外部存储空间。
@@ -129,7 +129,7 @@ RT-Thread 丰富的软件生态为大量的从业者带来了巨大的改变。�
 比如，LkdGui 是个开源的单色显示图形库，你可能在工业控制面板上简单而美观的设置界面上见过它。LkdGui 提供了像描点、画线、绘矩形及显示文本、按钮组件、进度条等绘图功能。
 
 
-![LkdGui](/Asserts/Images//attachment/album/202008/15/065758q2oi2pqupq1zi5pp.jpg "LkdGui")
+![LkdGui](/Asserts/Images/album/202008/15/065758q2oi2pqupq1zi5pp.jpg "LkdGui")
 
 
 使用像 LkdGui 这样兼具扩展性和健壮性的功能库，程序员们可以在同行已有工作成果的基础上充分施展自己的才能。而这一切，没有实时操作系统这样一个统一的基础，是根本不可能的。

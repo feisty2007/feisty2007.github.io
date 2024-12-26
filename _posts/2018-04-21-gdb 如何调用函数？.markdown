@@ -7,7 +7,7 @@ tags:	[linuxcn,gdb,调试]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/29/093812hpupdpdmp0dwh55u.jpg)
+![](/Asserts/Images/album/201804/29/093812hpupdpdmp0dwh55u.jpg)
 
 
 （之前的 gdb 系列文章：[gdb 如何工作（2016）](/article-9491-1.html) 和[三步上手 gdb（2014）](/article-9276-1.html)）

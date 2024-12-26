@@ -7,7 +7,7 @@ tags:	[linuxcn,Nginx,SSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/02/143330iaahap07p77wubho.png)
+![](/Asserts/Images/album/201708/02/143330iaahap07p77wubho.png)
 
 
 ### 什么是 Let’s Encrypt

@@ -7,7 +7,7 @@ tags:	[linuxcn,BSD]
 ---
 
 
-![](/Asserts/Images//attachment/album/201506/02/093219rj664rr834d3n25z.png)
+![](/Asserts/Images/album/201506/02/093219rj664rr834d3n25z.png)
 
 
 **假如历史稍有不同，今天你将听到的是“FreeBSD之声”...**
@@ -67,7 +67,7 @@ tags:	[linuxcn,BSD]
 而BSD则相反，它们从中央化的源代码树中开发并作为一个整体。内核、库、系统组件和文档页都存在一个地方，且以同样的方式使用。许多BSD粉丝声称，这个特点给了操作系统更多的一致性和稳定性。通过我这些年使用BSD的经验来看，我们可以证明手册页已经变得非常完备。
 
 
-![](/Asserts/Images//attachment/album/201506/02/093225j04vyzayy8xyya81.png)
+![](/Asserts/Images/album/201506/02/093225j04vyzayy8xyya81.png)
 
 
 #### 难道BSD没有使用GNU/Linux的任何东西么？

@@ -7,10 +7,10 @@ tags:	[linuxcn,网站,AI,CentOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/01/173416vkck7iciyjivgdck.jpg)
+![](/Asserts/Images/album/202201/01/173416vkck7iciyjivgdck.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/01/173431amonf1ug15t02125.jpg)
+![](/Asserts/Images/album/202201/01/173431amonf1ug15t02125.jpg)
 
 
 ### 美国一州长重申将起诉查看网站源代码的记者
@@ -27,7 +27,7 @@ tags:	[linuxcn,网站,AI,CentOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/01/173451kht224g923sfhih4.jpg)
+![](/Asserts/Images/album/202201/01/173451kht224g923sfhih4.jpg)
 
 
 ### 深度学习不可信
@@ -44,7 +44,7 @@ tags:	[linuxcn,网站,AI,CentOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/01/173500iaaqlugg1ijjjdyz.jpg)
+![](/Asserts/Images/album/202201/01/173500iaaqlugg1ijjjdyz.jpg)
 
 
 ### CentOS Linux 8 到达生命终点

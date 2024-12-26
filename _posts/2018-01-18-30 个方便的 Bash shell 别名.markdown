@@ -13,7 +13,7 @@ bash <ruby> 别名 <rt>  alias </rt></ruby>只不过是指向命令的快捷方�
 本文通过 30 个 bash shell 别名的实际案例演示了如何创建和使用别名。
 
 
-![](/Asserts/Images//attachment/album/201801/15/220229t0j3ra03d3iwujiu.jpg)
+![](/Asserts/Images/album/201801/15/220229t0j3ra03d3iwujiu.jpg)
 
 
 ### bash alias 的那些事

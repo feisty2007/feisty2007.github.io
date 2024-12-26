@@ -7,7 +7,7 @@ tags:	[linuxcn,Chroot,Arch Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/01/213036fel3lq00iz0377v3.jpg)
+![](/Asserts/Images/album/202211/01/213036fel3lq00iz0377v3.jpg)
 
 
 
@@ -121,7 +121,7 @@ lightdm --test-mode --debug
 这里是一个 Lightdm 故障的示例，它导致了 Arch 系统不稳定工作。
 
 
-![lightdm - test mode](/Asserts/Images//attachment/album/202211/01/213113nv34ii73yyq41o31.jpg)
+![lightdm - test mode](/Asserts/Images/album/202211/01/213113nv34ii73yyq41o31.jpg)
 
 
 或者，使用 `startx` 来启动 X 服务器进行检查。

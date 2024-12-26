@@ -19,7 +19,7 @@ EverCrypt 没有采用常见的编程方法编写，而是利用了形式化验�
 EverCrypt 始于 2016 年，是微软研究院项目 Project Everest 的一部分，当时加密库是许多软件的薄弱环节，存在大量 bug。
 
 
-![](/Asserts/Images//attachment/album/201904/09/080930qw9ws52g9opg3mvo.jpg)
+![](/Asserts/Images/album/201904/09/080930qw9ws52g9opg3mvo.jpg)
 
 
 *来源：solidot.org*

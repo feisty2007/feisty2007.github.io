@@ -15,13 +15,13 @@ tags:	[linuxcn,家庭实验室,私有云]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/12/100823rj096h3ax4hhehey.jpg)
+![](/Asserts/Images/album/202007/12/100823rj096h3ax4hhehey.jpg)
 
 
 [Cloud-init](https://cloudinit.readthedocs.io/) 是一种广泛使用的行业标准方法，用于初始化云实例。云提供商使用 Cloud-init 来定制实例的网络配置、实例信息，甚至用户提供的配置指令。它也是一个可以在你的“家庭私有云”中使用的很好的工具，可以为你的家庭实验室的虚拟机和物理机的初始设置和配置添加一点自动化 —— 并了解更多关于大型云提供商是如何工作的信息。关于更多的细节和背景，请看我之前的文章《[在你的树莓派家庭实验室中使用 Cloud-init](/article-12371-1.html)》。
 
 
-![A screen showing the boot process for a Linux server running Cloud-init ](/Asserts/Images//attachment/album/202007/12/101007plwlzp6268oww8zw.jpg "A screen showing the boot process for a Linux server running Cloud-init ")
+![A screen showing the boot process for a Linux server running Cloud-init ](/Asserts/Images/album/202007/12/101007plwlzp6268oww8zw.jpg "A screen showing the boot process for a Linux server running Cloud-init ")
 
 
 *运行 Cloud-init 的 Linux 服务器的启动过程（Chris Collins，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -80,7 +80,7 @@ systemctl enable cloud-final.service
 #### 配置数据源以查询
 
 
-启用服务后，请配置数据源，客户端将从该数据源查询配置数据。有[许多数据源类型](https://cloudinit.readthedocs.io/en/latest/topics/Asserts/Images/sources.html)，而且大多数都是为特定的云提供商配置的。对于你的家庭实验室，请使用 NoCloud 数据源，（如上所述）它是为在没有云提供商的情况下使用 Cloud-init 而设计的。
+启用服务后，请配置数据源，客户端将从该数据源查询配置数据。有[许多数据源类型](https://cloudinit.readthedocs.io/en/latest/topics/datasources.html)，而且大多数都是为特定的云提供商配置的。对于你的家庭实验室，请使用 NoCloud 数据源，（如上所述）它是为在没有云提供商的情况下使用 Cloud-init 而设计的。
 
 
 NoCloud 允许以多种方式包含配置信息：以内核参数中的键/值对，用于在启动时挂载的 CD（或虚拟机中的虚拟 CD）；包含在文件系统中的文件中；或者像本例中一样，通过 HTTP 从指定的 URL（“NoCloud Net” 选项）获取配置信息。
@@ -167,7 +167,7 @@ CMD ["nginx", "-g", "daemon off;"]
 
 ```
 
-注：本例中使用的容器文件和其他文件可以在本项目的 [GitHub 仓库](https://github.com/clcollins/homelabCloudInit/tree/master/simpleCloudInitService/Asserts/Images/)中找到。
+注：本例中使用的容器文件和其他文件可以在本项目的 [GitHub 仓库](https://github.com/clcollins/homelabCloudInit/tree/master/simpleCloudInitService/data)中找到。
 
 
 上面容器文件中最重要的部分是改变日志存储方式的部分（写到 STDOUT 而不是文件），这样你就可以在容器日志中看到进入该服务器的请求。其他的一些改变使你可以在没有 root 权限的情况下使用 Podman 运行容器，也可以在没有 root 权限的情况下运行容器中的进程。

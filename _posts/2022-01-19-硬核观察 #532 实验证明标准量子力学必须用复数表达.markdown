@@ -7,10 +7,10 @@ tags:	[linuxcn,量子力学,复数,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/30/204815gg73312d32fzmf29.jpg)
+![](/Asserts/Images/album/202201/30/204815gg73312d32fzmf29.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/30/204824d6jvyk7zwkya62bc.jpg)
+![](/Asserts/Images/album/202201/30/204824d6jvyk7zwkya62bc.jpg)
 
 
 ### 实验证明标准量子力学必须用复数表达
@@ -27,7 +27,7 @@ tags:	[linuxcn,量子力学,复数,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/30/204833q356tekjlzt0xqqw.jpg)
+![](/Asserts/Images/album/202201/30/204833q356tekjlzt0xqqw.jpg)
 
 
 ### Rust 编写的一些 GNU Coreutils 工具更快了
@@ -44,7 +44,7 @@ tags:	[linuxcn,量子力学,复数,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/30/204850x4yylc4yzz425oi1.jpg)
+![](/Asserts/Images/album/202201/30/204850x4yylc4yzz425oi1.jpg)
 
 
 ### 用 Rust 开发的勒索软件加大了解决勒索的难度

@@ -15,7 +15,7 @@ tags:	[linuxcn,find]
 > 
 
 
-![](/Asserts/Images//attachment/album/201805/16/083712gelll7esoold7o7l.png)
+![](/Asserts/Images/album/201805/16/083712gelll7esoold7o7l.png)
 
 
 在[最近的一篇文章](/article-9585-1.html)中，Lewis Cowles 介绍了 `find` 命令。
@@ -102,12 +102,12 @@ find /var/log -size +1G
 
 ```
 
-或者，也许你想在 `/Asserts/Images/` 中找到 bcotton 拥有的所有文件：
+或者，也许你想在 `/data` 中找到 bcotton 拥有的所有文件：
 
 
 
 ```
-find /Asserts/Images/ -owner bcotton
+find /data -owner bcotton
 
 ```
 

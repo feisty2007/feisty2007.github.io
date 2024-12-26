@@ -15,7 +15,7 @@ tags:	[linuxcn,DevOps]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/31/184128uc2pisanr8rciz8a.png)
+![](/Asserts/Images/album/201903/31/184128uc2pisanr8rciz8a.png)
 
 
 如果你问 10 个人关于 DevOps 的问题，你会得到 12 个答案。这是对于 DevOps 的意见和期望的多样性的结果，更不用说它在实践中的差异。

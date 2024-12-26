@@ -15,7 +15,7 @@ tags:	[linuxcn,Arch Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/02/225658a1jui1dz0datu883.png)
+![](/Asserts/Images/album/202205/02/225658a1jui1dz0datu883.png)
 
 
 去年的这个时候，Arch Linux [引入了一个引导式的安装程序](https://news.itsfoss.com/arch-linux-easy-install/)，使其安装过程更加简单。
@@ -39,7 +39,7 @@ tags:	[linuxcn,Arch Linux]
 ### 新菜单系统及无障碍改进
 
 
-![](/Asserts/Images//attachment/album/202205/02/225659yittpemgzic44vgd.png)
+![](/Asserts/Images/album/202205/02/225659yittpemgzic44vgd.png)
 
 
 新的菜单系统看起来更有条理了。
@@ -63,13 +63,13 @@ tags:	[linuxcn,Arch Linux]
 当你选择了硬盘后，菜单将增加另一个选项，让你选择一个“磁盘布局”，你可以在其中选择文件系统的类型。
 
 
-![](/Asserts/Images//attachment/album/202205/02/225659gm4p8k0w5lzepsps.jpg)
+![](/Asserts/Images/album/202205/02/225659gm4p8k0w5lzepsps.jpg)
 
 
 同样，设置每一个选项时，你都可以调整更多细节，比如桌面环境的配置文件。
 
 
-![](/Asserts/Images//attachment/album/202205/02/225659p9j7kr7rh41okhx1.jpg)
+![](/Asserts/Images/album/202205/02/225659p9j7kr7rh41okhx1.jpg)
 
 
 默认情况下，它会启用一个交换分区。不过，你可以根据你的需要进行调整。总的来说，这应该是一个顺滑的体验，所有的安装先决条件都以菜单形式呈现。
@@ -78,7 +78,7 @@ tags:	[linuxcn,Arch Linux]
 在此感谢我们团队中的 Sreenath，是他测试并提供了这些屏幕截图。
 
 
-![](/Asserts/Images//attachment/album/202205/02/225659w6mj5d8vrmtuuzti.png)
+![](/Asserts/Images/album/202205/02/225659w6mj5d8vrmtuuzti.png)
 
 
 除了这些变化之外，你还可以期待以下改进：

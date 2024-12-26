@@ -16,7 +16,7 @@ tags:	[linuxcn,文件系统]
 在本指南中，我们将用 7 种方法来识别你的 Linux 文件系统类型，如 Ext2、Ext3、Ext4、BtrFS、GlusterFS 等等。
 
 
-![](/Asserts/Images//attachment/album/201703/10/225550ruy5r2aorh2w9az9.jpg)
+![](/Asserts/Images/album/201703/10/225550ruy5r2aorh2w9az9.jpg)
 
 
 ### 1、 使用 df 命令
@@ -33,7 +33,7 @@ $ df -Th | grep "^/dev"
 
 ```
 
-![df Command - Find Filesystem Type](/Asserts/Images//attachment/album/201703/10/225606ntd2149lvd0zdz0t.png)
+![df Command - Find Filesystem Type](/Asserts/Images/album/201703/10/225606ntd2149lvd0zdz0t.png)
 
 
 *df 命令 – 找出文件系统类型*
@@ -62,7 +62,7 @@ $ fsck -N /dev/sdb1
 
 ```
 
-![fsck - Print Linux Filesystem Type](/Asserts/Images//attachment/album/201703/10/225607iab4d23d2d92jjdy.png)
+![fsck - Print Linux Filesystem Type](/Asserts/Images/album/201703/10/225607iab4d23d2d92jjdy.png)
 
 
 *fsck – 打印 Linux 文件系统类型*
@@ -80,7 +80,7 @@ $ lsblk -f
 
 ```
 
-![lsblk - Shows Linux Filesystem Type](/Asserts/Images//attachment/album/201703/10/225608jd4a4ap4zz11l3kq.png)
+![lsblk - Shows Linux Filesystem Type](/Asserts/Images/album/201703/10/225608jd4a4ap4zz11l3kq.png)
 
 
 *lsblk – 显示 Linux 文件系统类型*
@@ -101,7 +101,7 @@ $ mount | grep "^/dev"
 
 ```
 
-![Mount - Show Filesystem Type in Linux](/Asserts/Images//attachment/album/201703/10/225608b02opivtf2i0f1to.png)
+![Mount - Show Filesystem Type in Linux](/Asserts/Images/album/201703/10/225608b02opivtf2i0f1to.png)
 
 
 *Mount – 在 Linux 中显示文件系统类型*
@@ -119,7 +119,7 @@ $ blkid /dev/sda3
 
 ```
 
-![blkid - Find Filesystem Type](/Asserts/Images//attachment/album/201703/10/225610a1fb10gti2kn1bnv.png)
+![blkid - Find Filesystem Type](/Asserts/Images/album/201703/10/225610a1fb10gti2kn1bnv.png)
 
 
 *blkid – 找出文件系统类型*
@@ -137,7 +137,7 @@ $ sudo file -sL /dev/sda3
 
 ```
 
-![file - Identifies Filesystem Type](/Asserts/Images//attachment/album/201703/10/225611w5gdbx0rxw4lgcg6.png)
+![file - Identifies Filesystem Type](/Asserts/Images/album/201703/10/225611w5gdbx0rxw4lgcg6.png)
 
 
 *file – 识别文件系统类型*
@@ -155,7 +155,7 @@ $ cat /etc/fstab
 
 ```
 
-![Fstab - Shows Linux Filesystem Type](/Asserts/Images//attachment/album/201703/10/225612dynoihyon8a87ist.png)
+![Fstab - Shows Linux Filesystem Type](/Asserts/Images/album/201703/10/225612dynoihyon8a87ist.png)
 
 
 *fstab – 显示 Linux 文件系统类型*

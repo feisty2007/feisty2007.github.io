@@ -7,7 +7,7 @@ tags:	[linuxcn,apt]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/24/230954qjko0c0sn55ohjf0.jpg)
+![](/Asserts/Images/album/202207/24/230954qjko0c0sn55ohjf0.jpg)
 
 
 [apt 命令](https://itsfoss.com/apt-command-guide/) 用于 Debian 和 Ubuntu 中的包管理。虽然你可能已经熟悉安装和删除选项，但 `apt` 还提供了一些额外的功能。
@@ -68,7 +68,7 @@ sudo apt update
 然后你的系统将知道可用的软件包更新。`apt` 命令告诉你在 update 命令结束时可以升级多少个软件包：
 
 
-![The apt command shows the number of upgradable packages at the bottom of the apt update command output](/Asserts/Images//attachment/album/202207/24/231221a8i85r8zvn4z8xbe.png)
+![The apt command shows the number of upgradable packages at the bottom of the apt update command output](/Asserts/Images/album/202207/24/231221a8i85r8zvn4z8xbe.png)
 
 
 要查看可以升级的软件包，请运行以下命令：
@@ -94,7 +94,7 @@ evolution-data-server/jammy-updates 3.44.2-0ubuntu1 amd64 [upgradable from: 3.44
 
 ```
 
-![Listing all the upgradable packages](/Asserts/Images//attachment/album/202207/24/231248le90whaikrr0r600.jpg)
+![Listing all the upgradable packages](/Asserts/Images/album/202207/24/231248le90whaikrr0r600.jpg)
 
 
 它**按字母顺序列出所有可升级的软件包**以及有关当前安装版本和新可用软件包版本的信息。
@@ -127,7 +127,7 @@ sudo apt upgrade
 它列出了将要升级的软件包，然后要求按回车或 `Y` 确认升级。
 
 
-![Upgrade all packages](/Asserts/Images//attachment/album/202207/24/231300l7adqi7j3kd77ham.jpg)
+![Upgrade all packages](/Asserts/Images/album/202207/24/231300l7adqi7j3kd77ham.jpg)
 
 
 如果你确定要升级所有软件包，则可以通过在命令中添加 `-y` 来跳过 “Do you want to continue” 部分。
@@ -154,7 +154,7 @@ apt -s upgrade
 你不需要使用 `sudo`（即使我在下面的截图中使用了它）。
 
 
-![Running an upgrade simulation with apt command](/Asserts/Images//attachment/album/202207/24/231336xtkp8p772zr61kl6.jpg)
+![Running an upgrade simulation with apt command](/Asserts/Images/album/202207/24/231336xtkp8p772zr61kl6.jpg)
 
 
 ### 仅升级选定的包

@@ -7,7 +7,7 @@ tags:	[linuxcn,SQLite]
 ---
 
 
-![](/Asserts/Images//attachment/album/201602/08/211739f3i9933p6ci3zcbb.jpg)
+![](/Asserts/Images/album/201602/08/211739f3i9933p6ci3zcbb.jpg)
 
 
 欢迎阅读我们关于SQLite 的文章，SQLite 是当今世界上使用最广泛的 SQL 数据库引擎，它基本不需要配置，不需要设置或管理就可以运行。SQLite 是一个是<ruby> 公开领域 <rp>  （ </rp> <rt>  public-domain </rt> <rp>  ） </rp></ruby>的软件，是一个关系型数据库管理系统（RDBMS），用来在一个大数据表中存储用户定义的记录。对于数据存储和管理来说，数据库引擎要处理复杂的查询命令，这些命令可能会从多个表获取数据然后生成报告和数据总结。
@@ -52,7 +52,7 @@ SQLite 是一个非常小、轻量级，不需要独立的服务进程或系统�
 要下载 SQLite ，最好是在 [SQLite 官网](https://www.sqlite.org/download.html)下载，如下所示
 
 
-![SQLite download](/Asserts/Images//attachment/album/201602/08/211813u2ww3tegzg1wgwgm.png)
+![SQLite download](/Asserts/Images/album/201602/08/211813u2ww3tegzg1wgwgm.png)
 
 
 你也可以直接复制资源的连接然后在命令行使用 wget 下载，如下所示：
@@ -64,7 +64,7 @@ SQLite 是一个非常小、轻量级，不需要独立的服务进程或系统�
 
 ```
 
-![wget SQLite](/Asserts/Images//attachment/album/201602/08/211814bmz815qw0t01n1wd.png)
+![wget SQLite](/Asserts/Images/album/201602/08/211814bmz815qw0t01n1wd.png)
 
 
 下载完成之后，解压缩安装包，切换工作目录到解压缩后的 SQLite 目录，使用下面的命令。
@@ -88,7 +88,7 @@ root@ubuntu-15:~/sqlite-autoconf-3090100# ./configure –prefix=/usr/local
 
 ```
 
-![SQLite Installation](/Asserts/Images//attachment/album/201602/08/211814j4lw4lfx4155nj76.png)
+![SQLite Installation](/Asserts/Images/album/201602/08/211814j4lw4lfx4155nj76.png)
 
 
 配置要上面的安装位置前缀（prefix）之后，运行下面的命令编译安装包。
@@ -112,7 +112,7 @@ DEPDIR=.deps depmode=none /bin/bash ./depcomp \
 
 ```
 
-![SQLite Make Install](/Asserts/Images//attachment/album/201602/08/211815kl5u15su5lsj51oh.png)
+![SQLite Make Install](/Asserts/Images/album/201602/08/211815kl5u15su5lsj51oh.png)
 
 
 ### 4) 测试 SQLite 安装
@@ -130,7 +130,7 @@ DEPDIR=.deps depmode=none /bin/bash ./depcomp \
 SQLite 的版本会显示在命令行。
 
 
-![Testing SQLite Installation](/Asserts/Images//attachment/album/201602/08/211815iicj05cp50igfqci.png)
+![Testing SQLite Installation](/Asserts/Images/album/201602/08/211815iicj05cp50igfqci.png)
 
 
 ### 5) 使用 SQLite
@@ -148,7 +148,7 @@ sqlite> .help
 这里会显示全部可用的命令和详细说明。
 
 
-![SQLite Help](/Asserts/Images//attachment/album/201602/08/211816p8qmwkpts48eitew.png)
+![SQLite Help](/Asserts/Images/album/201602/08/211816p8qmwkpts48eitew.png)
 
 
 现在开始最后一部分，使用一点 SQLite 命令创建数据库。
@@ -202,7 +202,7 @@ sqlite> .exit
 
 ```
 
-![Using SQLite3](/Asserts/Images//attachment/album/201602/08/211816gzqrqqtzqrdo4q2j.png)
+![Using SQLite3](/Asserts/Images/album/201602/08/211816gzqrqqtzqrdo4q2j.png)
 
 
 ### 结论

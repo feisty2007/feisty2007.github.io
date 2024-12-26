@@ -15,7 +15,7 @@ tags:	[linuxcn,KDE]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/28/094146fyx79l7zwbwej7ym.jpg)
+![](/Asserts/Images/album/202101/28/094146fyx79l7zwbwej7ym.jpg)
 
 
 在前几年，这个年度系列涵盖了单个的应用。今年，我们除了关注 2021 年的策略外，还将关注一体化解决方案。欢迎来到 2021 年 21 天生产力的第六天。
@@ -24,7 +24,7 @@ tags:	[linuxcn,KDE]
 在很久很久以前，当编译内核还是获取 WiFi 驱动的唯一途径时，图形环境主要是用来运行网页浏览器和打开大量终端窗口。其外观和感觉是由程序作者选择使用的各种工具箱组成的大杂烩。然后，在 1996 年 [Matthias Ettrich](https://en.wikipedia.org/wiki/Matthias_Ettrich) 提出并随后发布了第一个版本的 [KDE](https://kde.org/)。它是基于当时专有的 [Qt](https://en.wikipedia.org/wiki/Qt_(software)) 工具箱（后来成为自由而开源的）。这个版本引发了 Linux 上的桌面革命，同一时期出现的还有使用当时的自由开源软件 GTK 工具包所创建的 [GNOME 桌面](https://www.gnome.org/) 。不管是 KDE 还是 GNOME，Linux 从一个*只有电脑操作人员使用的 Linux 操作系统*变成了一个人人都能使用的强大桌面环境。
 
 
-![Fedora KDE Spin Default Desktop](/Asserts/Images//attachment/album/202101/28/094446kx0y8ly0yk8w0ky1.jpg "Fedora KDE Spin Default Desktop")
+![Fedora KDE Spin Default Desktop](/Asserts/Images/album/202101/28/094446kx0y8ly0yk8w0ky1.jpg "Fedora KDE Spin Default Desktop")
 
 
 *Fedora KDE 版的默认桌面 （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -36,7 +36,7 @@ KDE Plasma 5 是最新的 KDE 版本，它的功能非常丰富，可以提高�
 Kontact 为其他几个 KDE 程序提供了一个单一的界面，包括：KMail（电子邮件）、KOrganizer（日历、待办事项和日记）、KAddressBook（地址簿）、KNotes（笔记）、Akregator（RSS/ATOM 订阅阅读器）等。第一次启动时，Kontact 会引导你完成电子邮件提供商的设置，它支持本地和远程邮件配置。然后，Kontact 会进入一个仪表板，默认情况下，该仪表板会显示最近的电子邮件、日历事件、计划任务和最近的笔记。
 
 
-![Kontact Summary screen](/Asserts/Images//attachment/album/202101/28/094513ne7zotwhoybbo2cw.jpg "Kontact Summary screen")
+![Kontact Summary screen](/Asserts/Images/album/202101/28/094513ne7zotwhoybbo2cw.jpg "Kontact Summary screen")
 
 
 *Kontact 概览页面 （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -48,7 +48,7 @@ Kontact 为其他几个 KDE 程序提供了一个单一的界面，包括：KMai
 邮件和日历组件非常简单明了，可以如你期望地正常工作。待办事项页面和日记是与日历绑定的，这对于一些不完全支持所有日历类型的日历提供商来说可能是个问题（Google，我说的是你）。如果你使用的是这些提供商中的一个，你将需要为日记和待办事项创建一个特定的本地日历。
 
 
-![Kontact Calendar](/Asserts/Images//attachment/album/202101/28/094526acgfcqz3ccofqzry.jpg "Kontact Calendar")
+![Kontact Calendar](/Asserts/Images/album/202101/28/094526acgfcqz3ccofqzry.jpg "Kontact Calendar")
 
 
 *Kontact Calendar （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -60,7 +60,7 @@ Kontact 为其他几个 KDE 程序提供了一个单一的界面，包括：KMai
 创建一个日记条目本质上是在日历上给自己创建一个笔记。它是一段形式自由的文本，就像写在实体笔记本和计划手册的某一天上那样。如果你要记录工作，写下每天的日记，或只是需要个地方记录会议记录，这个功能是非常*方便*的（本系列后面有更多关于这个的内容）。
 
 
-![Kontact Journal](/Asserts/Images//attachment/album/202101/28/094535t57ww0wc555v5eev.jpg "Kontact Journal")
+![Kontact Journal](/Asserts/Images/album/202101/28/094535t57ww0wc555v5eev.jpg "Kontact Journal")
 
 
 *Kontact Journal （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,iPhone]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/10/200251xlo4t49l4gg449gh.jpg)
+![](/Asserts/Images/album/202309/10/200251xlo4t49l4gg449gh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/10/200304c0tjmcwpc0sc09ef.jpg)
+![](/Asserts/Images/album/202309/10/200304c0tjmcwpc0sc09ef.jpg)
 
 
 ### 生成式 AI 对工作岗位的威胁不如其它自动化技术
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,iPhone]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/10/200313q8mbfdfffflzrf4r.jpg)
+![](/Asserts/Images/album/202309/10/200313q8mbfdfffflzrf4r.jpg)
 
 
 ### 苹果争分夺秒修补最新的 iPhone 零日漏洞
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,iPhone]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/10/200325oiq11yai1gxk6g2k.jpg)
+![](/Asserts/Images/album/202309/10/200325oiq11yai1gxk6g2k.jpg)
 
 
 ### 纳斯达克获准基于 AI 的交易指令

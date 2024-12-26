@@ -7,10 +7,10 @@ tags:	[linuxcn,ChatGPT,开源,PyTorch]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/05/183314jeccegwhkw0vwclx.jpg)
+![](/Asserts/Images/album/202212/05/183314jeccegwhkw0vwclx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/05/183324ith3d7771c1t4d67.jpg)
+![](/Asserts/Images/album/202212/05/183324ith3d7771c1t4d67.jpg)
 
 
 ### Stack Overflow 临时封杀 ChatGPT
@@ -35,7 +35,7 @@ OpenAI 的新通用聊天机器人原型 ChatGPT 过去几天风靡互联网，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/05/183338cttitxjvzgutj43x.jpg)
+![](/Asserts/Images/album/202212/05/183338cttitxjvzgutj43x.jpg)
 
 
 ### 开源软件托管商 Fosshost 关闭，CEO 失联
@@ -60,7 +60,7 @@ OpenAI 的新通用聊天机器人原型 ChatGPT 过去几天风靡互联网，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/05/183348htk9nic3b8cc3ioc.jpg)
+![](/Asserts/Images/album/202212/05/183348htk9nic3b8cc3ioc.jpg)
 
 
 ### PyTorch 终于进入 2.0，性能大幅提升

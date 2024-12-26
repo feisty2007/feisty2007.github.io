@@ -7,13 +7,13 @@ tags:	[linuxcn,Coinbase,华为,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202104/15/104028ui3x7kiizfzici9k.jpg)
+![](/Asserts/Images/album/202104/15/104028ui3x7kiizfzici9k.jpg)
 
 
 ### 加密货币交易所第一股 Coinbase 上市，创始人致谢中本聪
 
 
-![](/Asserts/Images//attachment/album/202104/15/104042k50i66c6696f64a3.jpg)
+![](/Asserts/Images/album/202104/15/104042k50i66c6696f64a3.jpg)
 
 
 4 月 14 日，加密货币交易所 Coinbase 正式登陆纳斯达克。其发行价为 250 美元，开盘价 381 美元，最高报 429.54 美元。随后一路走低，截至收盘，报 328.28 美元，涨幅 31.31%，市值达 653.93 亿美元。
@@ -31,7 +31,7 @@ Coinbase 的联合创始人在 Twitter 上回顾了 Coinbase 的历程，并隔�
 ### 华为提供适配套件可以将 App 对 GMS 的依赖替换为 HMS
 
 
-![](/Asserts/Images//attachment/album/202104/15/104103g99od1xxj3xxjdk8.jpg)
+![](/Asserts/Images/album/202104/15/104103g99od1xxj3xxjdk8.jpg)
 
 
 华为与欧洲领先的企业应用解决方案提供商 Bluesource 合作开发了 Choice SDK，可以将适配谷歌 GMS 的 App 轻松转换为适配华为的 HMS。该套件最初是为了向奥地利市场的华为移动设备用户提供自家的 App 服务。后来转为[开源软件](https://github.com/bluesource/ChoiceSDK)，据称已被奥地利国家电视广播公司、奥地利联邦铁路、奥地利邮政服务等 App 所采用。
@@ -43,7 +43,7 @@ Coinbase 的联合创始人在 Twitter 上回顾了 Coinbase 的历程，并隔�
 ### System76 正在为其 Pop!\_OS Linux 开发新桌面
 
 
-![](/Asserts/Images//attachment/album/202104/15/104121k8uavhtt8th3b355.jpg)
+![](/Asserts/Images/album/202104/15/104121k8uavhtt8th3b355.jpg)
 
 
 System76 是一家销售运行 Linux 的笔记本电脑、PC 和服务器的美国公司，它正在为其Pop!\_OS 发行版开发一种新的基于 GNOME 的桌面 GUI，名为 [COSMIC](https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104)，[计划发布](https://www.theregister.com/2021/04/14/system_76_introduces_cosmic_desktop/)在其 6 月份的下一个 Pop!\_OS 版本中。从 GitHub 上的[代码](https://github.com/pop-os/cosmic)来看，COSMIC 似乎是基于 GNOME 3.38 而不是新发布的 GNOME 40。

@@ -7,10 +7,10 @@ tags:	[linuxcn,自由硬件,程序员,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/18/211303ap2sh8zme9pesph2.jpg)
+![](/Asserts/Images/album/202207/18/211303ap2sh8zme9pesph2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/18/211313z0m7utu8z81jy88e.jpg)
+![](/Asserts/Images/album/202207/18/211313z0m7utu8z81jy88e.jpg)
 
 
 ### FSF 仍坚持使用古老而自由的服务器硬件
@@ -35,7 +35,7 @@ tags:	[linuxcn,自由硬件,程序员,Fedora]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/18/211322g7d1ctcjo9otadm1.jpg)
+![](/Asserts/Images/album/202207/18/211322g7d1ctcjo9otadm1.jpg)
 
 
 ### 各国程序员平均年薪，美国第一，中国仅相当于美国的 1/5
@@ -60,7 +60,7 @@ tags:	[linuxcn,自由硬件,程序员,Fedora]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/18/211335cpprbfl3ofpslfpf.jpg)
+![](/Asserts/Images/album/202207/18/211335cpprbfl3ofpslfpf.jpg)
 
 
 ### Fedora 37 有望装备基于网页的全新 Anaconda 安装程序

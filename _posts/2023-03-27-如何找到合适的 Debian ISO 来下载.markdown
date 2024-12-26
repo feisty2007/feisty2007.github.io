@@ -7,7 +7,7 @@ tags:	[linuxcn,Debian]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/26/101016gdf20utfqsu1215a.jpg)
+![](/Asserts/Images/album/202303/26/101016gdf20utfqsu1215a.jpg)
 
 
 

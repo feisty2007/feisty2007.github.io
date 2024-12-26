@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/201603/15/053926hdeq9bwqvbvcb9vb.png)
+![](/Asserts/Images/album/201603/15/053926hdeq9bwqvbvcb9vb.png)
 
 
 ### 最新的 Linux 内核 4.5 进入生产阶段

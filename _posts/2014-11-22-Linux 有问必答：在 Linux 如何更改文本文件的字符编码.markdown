@@ -24,7 +24,7 @@ tags:	[linuxcn,编码,iconv]
 然后问题就来了： 1）我们如何确定一个确定的文本文件使用的是什么字符编码？ 2）我们如何把文件转换成已选择的字符编码？
 
 
-![](/Asserts/Images//attachment/album/201411/14/154227jvuutdzqu9u9surr.jpg)
+![](/Asserts/Images/album/201411/14/154227jvuutdzqu9u9surr.jpg)
 
 
 ### 步骤一
@@ -42,7 +42,7 @@ $ file --mime-encoding filename
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/14/154230cgzc69w1mul3p9bp.jpg)
+![](/Asserts/Images/album/201411/14/154230cgzc69w1mul3p9bp.jpg)
 
 
 ### 步骤二
@@ -81,13 +81,13 @@ $ iconv -f iso-8859-1 -t utf-8 input.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/14/154232a4q9di1i0pw0npns.png)
+![](/Asserts/Images/album/201411/14/154232a4q9di1i0pw0npns.png)
 
 
 了解了我们演示的如何使用这些工具之后，你可以像下面这样修复一个受损的字幕文件：
 
 
-![](/Asserts/Images//attachment/album/201411/14/154235p8b8gaw099a0o4g9.jpg)
+![](/Asserts/Images/album/201411/14/154235p8b8gaw099a0o4g9.jpg)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/30/121252zjglvvff9v9aejam.jpg)
+![](/Asserts/Images/album/201911/30/121252zjglvvff9v9aejam.jpg)
 
 
 

@@ -10,7 +10,7 @@ tags:	[linuxcn,Linux Mint,Enlightenment]
 ### 今日关注
 
 
-![](/Asserts/Images//attachment/album/201607/01/061942umtmtgw3tmunz8uu.jpg)
+![](/Asserts/Images/album/201607/01/061942umtmtgw3tmunz8uu.jpg)
 
 
 我们前两天已经[报道](/article-7520-1.html)过 Linux Mint 18 的 Cinnamon 版和 MATE 版已经出现在了镜像服务器，可以下载安装了。两天后，Linux Mint 项目组的 Clement Lefebvre 宣布了 Linux Mint 18 的正式发布。
@@ -31,13 +31,13 @@ Linux Mint 18 从一些流行的开源项目分支出了一套内置的应用，
 ### 图文摘要
 
 
-![](/Asserts/Images//attachment/album/201607/01/055359fh2gqdpb2lphdvuk.jpg)
+![](/Asserts/Images/album/201607/01/055359fh2gqdpb2lphdvuk.jpg)
 
 
 *Enlightenment 是一个开源自由的轻量级窗口管理器/桌面环境，风格优雅而美观。经过了三个的开发，Enlightenment 项目组正式[发布](https://www.enlightenment.org/news/e21_release)了 0.21.0（E21） 。在此版本中，极大地改善了对 Wayland 显示服务器的支持。*
 
 
-![](/Asserts/Images//attachment/album/201607/01/061503fi7csa5i0ifztitx.jpg)
+![](/Asserts/Images/album/201607/01/061503fi7csa5i0ifztitx.jpg)
 
 
 *SUSE Linux Enterprise 12 SP2 发布公开 Beta 测试版本。*

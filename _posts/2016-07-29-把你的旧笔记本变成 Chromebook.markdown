@@ -7,7 +7,7 @@ tags:	[linuxcn,Chromebook]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/07/144758odtp8ro5o8wyvvpn.jpg)
+![](/Asserts/Images/album/201607/07/144758odtp8ro5o8wyvvpn.jpg)
 
 
 Linux 之年就在眼前。根据[报道](https://chrome.googleblog.com/2016/05/the-google-play-store-coming-to.html)，Google 在 2016 年第一季度卖出了比苹果卖出的 Macbook 更多的 Chromebook。并且，Chromebook 即将变得更加激动人心。在 Google I/O 大会上，Google 宣布安卓 Google Play 商店将在 6 月中旬来到 Chromebook，这让用户能够在他们的 Chrome OS 设备上运行安卓应用。
@@ -42,7 +42,7 @@ Neverware 提供两个版本的 CloudReady 镜像：32 位和 64 位。从下载
 解压下载的 zip 文件，你会得到一个 chromiumos\_image.bin 文件。现在插入 U 盘并打开 Chromebook Recovery Utility。点击工具右上角的齿轮，选择 erase recovery media（擦除恢复媒介，如图 1）。
 
 
-![](/Asserts/Images//attachment/album/201607/07/144808bwwtytb9bt7iwc4g.png)
+![](/Asserts/Images/album/201607/07/144808bwwtytb9bt7iwc4g.png)
 
 
 *图 1：选择 erase recovery media。[image:cloudready-erase]*
@@ -51,7 +51,7 @@ Neverware 提供两个版本的 CloudReady 镜像：32 位和 64 位。从下载
 接下来，选择目标 USB 驱动器并把它格式化。格式化完成后，再次打开右上齿轮，这次选择 use local image（使用本地镜像）。浏览解压的 bin 文件并选中，选好 USB 驱动器，点击继续，然后点击创建按钮（图 2）。它会开始将镜像写入驱动器。
 
 
-![](/Asserts/Images//attachment/album/201607/07/144815otghv51c0g17vu5t.png)
+![](/Asserts/Images/album/201607/07/144815otghv51c0g17vu5t.png)
 
 
 *图 2：创建 CloudReady 镜像。[Image:cloudready-create]*
@@ -60,13 +60,13 @@ Neverware 提供两个版本的 CloudReady 镜像：32 位和 64 位。从下载
 驱动器写好可启动的 CloudReady 之后，插到目标 PC 上并启动。系统启动进 Chromium OS 需要一小段时间。启动之后，你会看到图 3 中的界面。
 
 
-![](/Asserts/Images//attachment/album/201607/07/144818ebdsamz7apeoo7ax.jpg)
+![](/Asserts/Images/album/201607/07/144818ebdsamz7apeoo7ax.jpg)
 
 
 *图 3：准备好安装 CloudReady。*
 
 
-![](/Asserts/Images//attachment/album/201607/07/144820zncbdcuybn1ua0bu.jpg)
+![](/Asserts/Images/album/201607/07/144820zncbdcuybn1ua0bu.jpg)
 
 
 *图 4：单系统选项。*
@@ -84,7 +84,7 @@ Neverware 提供两个版本的 CloudReady 镜像：32 位和 64 位。从下载
 按照下一步按钮说明选择安装。
 
 
-![](/Asserts/Images//attachment/album/201607/07/144822pdii5305wq65w066.jpg)
+![](/Asserts/Images/album/201607/07/144822pdii5305wq65w066.jpg)
 
 
 *图 5：双系统选项。*
@@ -99,7 +99,7 @@ Neverware 提供两个版本的 CloudReady 镜像：32 位和 64 位。从下载
 你连上无线网络之后，系统会自动查找更新并提供 Adobe Flash 安装。安装完成后，你会看到 Chromium OS 登录界面。现在你只需登录你的 Gmail 账户，开始使用你的“Chromebook”即可。
 
 
-![](/Asserts/Images//attachment/album/201607/07/144826l895vsqy7lwq7dh7.jpg)
+![](/Asserts/Images/album/201607/07/144826l895vsqy7lwq7dh7.jpg)
 
 
 *图 6：网络设置。*
@@ -111,13 +111,13 @@ Neverware 提供两个版本的 CloudReady 镜像：32 位和 64 位。从下载
 如果你想要播放 Netflix 或其它 DRM 保护流媒体站点，你需要做一些额外的工作。转到设置并点击安装 Widevine 插件（图 7）。
 
 
-![](/Asserts/Images//attachment/album/201607/07/144836chp265cckwjh6cjl.png)
+![](/Asserts/Images/album/201607/07/144836chp265cckwjh6cjl.png)
 
 
 *图 7：安装 Widevine。*
 
 
-![](/Asserts/Images//attachment/album/201607/07/144839azq1o0m81fr9q80o.jpg)
+![](/Asserts/Images/album/201607/07/144839azq1o0m81fr9q80o.jpg)
 
 
 *图 8：安装 User Agent Switcher。*
@@ -150,7 +150,7 @@ Indicator Flag: "IE"
 点击“添加（Add）”。
 
 
-![](/Asserts/Images//attachment/album/201607/07/144843x0bfbbikqif5dpnm.png)
+![](/Asserts/Images/album/201607/07/144843x0bfbbikqif5dpnm.png)
 
 
 *图 9：为 CloudReady 创建条目。*

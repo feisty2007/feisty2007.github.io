@@ -7,7 +7,7 @@ tags:	[linuxcn,Mastodon]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/28/093152q9c5yeo9dyebp2mj.jpg)
+![](/Asserts/Images/album/202301/28/093152q9c5yeo9dyebp2mj.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,Mastodon]
 Mastodon 的界面与 Twitter 很相似。但在 Mastodon上，你不是“点赞”一个帖子，而是通过点击帖子下方的星标来“收藏”一个帖子。
 
 
-![Favorite button](/Asserts/Images//attachment/album/202301/28/093244liigtfitbbgh5flp.jpg)
+![Favorite button](/Asserts/Images/album/202301/28/093244liigtfitbbgh5flp.jpg)
 
 
 ### 2、分享帖子
@@ -42,7 +42,7 @@ Mastodon 的界面与 Twitter 很相似。但在 Mastodon上，你不是“点�
 在 Twitter 上，重新分享是“<ruby> 转推 <rt>  retweet </rt></ruby>”，但在 Mastodon，它是“<ruby> 转嘟 <rt>  boost </rt></ruby>”。你可以点击帖子下方的双箭头图标来转嘟。
 
 
-![Boost button](/Asserts/Images//attachment/album/202301/28/093250tmcqlmg7xrqcfqtw.jpg)
+![Boost button](/Asserts/Images/album/202301/28/093250tmcqlmg7xrqcfqtw.jpg)
 
 
 ### 3、Mastodon 实例

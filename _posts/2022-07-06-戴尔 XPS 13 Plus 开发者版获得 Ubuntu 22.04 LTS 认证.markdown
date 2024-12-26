@@ -15,7 +15,7 @@ tags:	[linuxcn,XPS,Ubuntu]
 > 
 
 
-![xps 13 dev](/Asserts/Images//attachment/album/202207/22/095621rznxaghzgjzrrecg.jpg)
+![xps 13 dev](/Asserts/Images/album/202207/22/095621rznxaghzgjzrrecg.jpg)
 
 
 戴尔 XPS 是一个适合专业人士和商业用户的高端笔记本电脑系列。
@@ -62,7 +62,7 @@ tags:	[linuxcn,XPS,Ubuntu]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/22/095621srdf7v0a1refpzhz.jpg)
+![](/Asserts/Images/album/202207/22/095621srdf7v0a1refpzhz.jpg)
 
 
 戴尔 XPS 13 Plus 开发者版提供了令人兴奋的规格，包括：

@@ -19,7 +19,7 @@ tags:	[linuxcn,发行版,MagpieOS,Arch]
 他还致力于创建 [LFS 的 live 版本](https://itsfoss.com/linux-from-scratch-live-cd/)。
 
 
-![MagpieOS Linux](/Asserts/Images//attachment/album/201804/24/174611iid7dld2yvbklv2i.jpg)
+![MagpieOS Linux](/Asserts/Images/album/201804/24/174611iid7dld2yvbklv2i.jpg)
 
 
 ### 什么是 MagpieOS？
@@ -40,7 +40,7 @@ Rizwan 的新发行版被命名为 MagpieOS。 [MagpieOS](http://www.magpieos.ne
 Rizwan 命名他的发行为 MagpieOS，因为<ruby> <a href="https://en.wikipedia.org/wiki/Magpie">  喜鹊 </a> <rt>  magpie </rt></ruby> 是孟加拉国的官方鸟。
 
 
-![MagpieOS Linux](/Asserts/Images//attachment/album/201804/24/174611rc272rrgm7np5r77.jpg)
+![MagpieOS Linux](/Asserts/Images/album/201804/24/174611rc272rrgm7np5r77.jpg)
 
 
 ### 为什么选择 Arch？
@@ -61,7 +61,7 @@ Arch 的问题在于它的安装非常复杂和耗时。所以，Rizwan 尝试�
 如果你有兴趣帮助 Rizwan 开发 MagpieOS，你可以通过 [MagpieOS 网站](http://www.magpieos.net)与他联系。你也可以查看该项目的 [GitHub 页面](https://github.com/Rizwan-Hasan/MagpieOS)。Rizwan 表示，他目前不寻求财政支持。
 
 
-![MagpieOS Linux](/Asserts/Images//attachment/album/201804/24/174612fsvr4g2wnw30lsht.png)
+![MagpieOS Linux](/Asserts/Images/album/201804/24/174612fsvr4g2wnw30lsht.png)
 
 
 ### 最后的想法

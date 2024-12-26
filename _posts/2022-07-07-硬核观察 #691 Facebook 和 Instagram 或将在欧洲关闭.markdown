@@ -7,10 +7,10 @@ tags:	[linuxcn,Facebook,Twitter,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/08/180934ncjqql2lfqzqmh8c.jpg)
+![](/Asserts/Images/album/202207/08/180934ncjqql2lfqzqmh8c.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/08/180947frewhyl1h1rljlj6.jpg)
+![](/Asserts/Images/album/202207/08/180947frewhyl1h1rljlj6.jpg)
 
 
 ### Facebook 和 Instagram 或将在欧洲关闭
@@ -35,7 +35,7 @@ tags:	[linuxcn,Facebook,Twitter,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/08/180958ingklen9mvdfm685.jpg)
+![](/Asserts/Images/album/202207/08/180958ingklen9mvdfm685.jpg)
 
 
 ### Chrome 优化后台页面处理策略，提升笔记本电池时间
@@ -60,7 +60,7 @@ Chrome 是耗能大户，因此在笔记本电脑上非常影响电池使用时�
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/08/181014fko65vhv7oz2ocvx.jpg)
+![](/Asserts/Images/album/202207/08/181014fko65vhv7oz2ocvx.jpg)
 
 
 ### 推特每天删除上百万个垃圾账户

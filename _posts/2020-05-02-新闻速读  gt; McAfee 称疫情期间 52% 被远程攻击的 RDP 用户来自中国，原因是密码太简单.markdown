@@ -7,7 +7,7 @@ tags:	[linuxcn,RDP,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/10/094012hpbhzdebd8kzeex5.jpg)
+![](/Asserts/Images/album/202005/10/094012hpbhzdebd8kzeex5.jpg)
 
 
 #### McAfee 称疫情期间 52% 被远程攻击的 RDP 用户来自中国，原因是密码太简单

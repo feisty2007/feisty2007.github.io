@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核,戴文]
 ---
 
 
-![](/Asserts/Images//attachment/album/201404/07/224944wul9qzqzarko5nn9.jpg)
+![](/Asserts/Images/album/201404/07/224944wul9qzqzarko5nn9.jpg)
 
 
 你好！这篇文章会覆盖不同的驱动。

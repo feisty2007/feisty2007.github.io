@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,应用]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/28/190052elhoxx7rzl2lxr7r.png)
+![](/Asserts/Images/album/201810/28/190052elhoxx7rzl2lxr7r.png)
 
 
 
@@ -36,7 +36,7 @@ tags:	[linuxcn,Linux,应用]
 ### 网页浏览器
 
 
-![网页浏览器](/Asserts/Images//attachment/album/201810/28/190103u62l9o9iy4ssae4o.jpg)
+![网页浏览器](/Asserts/Images/album/201810/28/190103u62l9o9iy4ssae4o.jpg)
 
 
 *网页浏览器*
@@ -66,7 +66,7 @@ tags:	[linuxcn,Linux,应用]
 ### 下载管理器
 
 
-![下载管理器](/Asserts/Images//attachment/album/201810/28/190103k822261und322v23.jpg)
+![下载管理器](/Asserts/Images/album/201810/28/190103k822261und322v23.jpg)
 
 
 *下载管理器*
@@ -90,7 +90,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 ### BitTorrent 客户端
 
 
-![BitTorrent 客户端](/Asserts/Images//attachment/album/201810/28/190105c2272y2vy11ae2eu.jpg)
+![BitTorrent 客户端](/Asserts/Images/album/201810/28/190105c2272y2vy11ae2eu.jpg)
 
 
 *BitTorrent 客户端*
@@ -114,7 +114,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 ### 云存储
 
 
-![云存储](/Asserts/Images//attachment/album/201810/28/190106a8x83xl0vqc5r5w3.jpg)
+![云存储](/Asserts/Images/album/201810/28/190106a8x83xl0vqc5r5w3.jpg)
 
 
 *云存储*
@@ -138,7 +138,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 ### 通讯工具
 
 
-![通讯工具](/Asserts/Images//attachment/album/201810/28/190107h50ygkcn58dc8cnc.jpg)
+![通讯工具](/Asserts/Images/album/201810/28/190107h50ygkcn58dc8cnc.jpg)
 
 
 *通讯工具*
@@ -165,7 +165,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 ### 办公套件
 
 
-![办公套件](/Asserts/Images//attachment/album/201810/28/190110ls9xmxaxpdi33zko.jpg)
+![办公套件](/Asserts/Images/album/201810/28/190110ls9xmxaxpdi33zko.jpg)
 
 
 *办公套件*
@@ -189,7 +189,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 ### 音乐播放器
 
 
-![音乐播放器](/Asserts/Images//attachment/album/201810/28/190111eborr7otfarizb13.jpg)
+![音乐播放器](/Asserts/Images/album/201810/28/190111eborr7otfarizb13.jpg)
 
 
 *音乐播放器*
@@ -222,7 +222,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 ### 视频播放器
 
 
-![视频播放器](/Asserts/Images//attachment/album/201810/28/190113z38u0zusr7x7vhgw.jpg)
+![视频播放器](/Asserts/Images/album/201810/28/190113z38u0zusr7x7vhgw.jpg)
 
 
 *视频播放器*
@@ -246,7 +246,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 ### 照片编辑器
 
 
-![照片编辑器](/Asserts/Images//attachment/album/201810/28/190114de0e7cw6pn1t3tzp.jpg)
+![照片编辑器](/Asserts/Images/album/201810/28/190114de0e7cw6pn1t3tzp.jpg)
 
 
 *照片编辑器*
@@ -273,7 +273,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 每个 Linux 发行版都拥有自己的文字编缉器解决方案，当然大体上它们都非常简洁并且没有太多功能。但是也有一些文字编辑器具有更强大的功能。
 
 
-![文字编辑器](/Asserts/Images//attachment/album/201810/28/190115lao29x657m625bm5.jpg)
+![文字编辑器](/Asserts/Images/album/201810/28/190115lao29x657m625bm5.jpg)
 
 
 *文字编辑器*
@@ -300,7 +300,7 @@ Xtreme 下载管理器（[XDM](http://xdman.sourceforge.net/)）是一个 Java �
 ### 启动器
 
 
-![启动器](/Asserts/Images//attachment/album/201810/28/190116r08gt3usjgwgxyj4.jpg)
+![启动器](/Asserts/Images/album/201810/28/190116r08gt3usjgwgxyj4.jpg)
 
 
 *启动器*

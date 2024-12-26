@@ -15,7 +15,7 @@ tags:	[linuxcn,cron,crontab,定时任务]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/15/151143fjdses6bdj2nj1j5.jpg "Linux keys on the keyboard for a desktop computer")
+![](/Asserts/Images/album/202208/15/151143fjdses6bdj2nj1j5.jpg "Linux keys on the keyboard for a desktop computer")
 
 
 在计算机上让任务按照有规律并且可预测的时间表运行很重要。作为人类，我们有时会因为分心、脑子里想太多，或是度假而记不住要做的事情。计算机真的很擅长按计划做事，但在计算机采取行动之前，人类必须对计算机进行编程。
@@ -195,7 +195,7 @@ $ crontab -r -i
 
 ```
 $ crontab -l | grep rdiff
-* 3 * * * rdiff-backup /Asserts/Images// /vault/
+* 3 * * * rdiff-backup /data/ /vault/
 
 ```
 

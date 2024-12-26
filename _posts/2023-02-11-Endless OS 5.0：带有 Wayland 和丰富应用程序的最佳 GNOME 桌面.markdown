@@ -7,7 +7,7 @@ tags:	[linuxcn,Endless OS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/28/001503u92tz023olzzftdo.jpg)
+![](/Asserts/Images/album/202302/28/001503u92tz023olzzftdo.jpg)
 
 
 
@@ -59,7 +59,7 @@ tags:	[linuxcn,Endless OS]
 在我的测试安装中，一切都很顺利。它使用一个自定义的安装程序，类似于 Fedora 的 Anaconda 安装程序。然而，安装它需要一个完整的磁盘。如果你喜欢双启动，[在此](https://support.endlessos.org/en/installation/windows-installer/dual-boot) 有一个详细的指南。但是，我觉得它的设置有点复杂。
 
 
-![Endless OS installation in Windows](/Asserts/Images//attachment/album/202302/28/001632q8eqh3kqj4pxhnwj.jpg)
+![Endless OS installation in Windows](/Asserts/Images/album/202302/28/001632q8eqh3kqj4pxhnwj.jpg)
 
 
 #### 登录和第一印象
@@ -74,13 +74,13 @@ tags:	[linuxcn,Endless OS]
 其次，它引入了一个新的顶部面板，遵循 GNOME 的设计。它包含活动、应用程序启动器和系统托盘。
 
 
-![Look has changed since prior release with dock and top panel in Endless OS 5.0](/Asserts/Images//attachment/album/202302/28/001640oz8fhrgy8rfh902k.jpg)
+![Look has changed since prior release with dock and top panel in Endless OS 5.0](/Asserts/Images/album/202302/28/001640oz8fhrgy8rfh902k.jpg)
 
 
 和 Endless OS 4.0 的外观相比，它有很多改变：
 
 
-![Endless OS Desktop version 4.0](/Asserts/Images//attachment/album/202302/28/001648bbdawg0b77cdh8ah.jpg)
+![Endless OS Desktop version 4.0](/Asserts/Images/album/202302/28/001648bbdawg0b77cdh8ah.jpg)
 
 
 #### 对 GNOME 桌面和工作区的独特定制
@@ -119,7 +119,7 @@ Endless OS 5.0 还引入了多手势支持。你现在可以通过触控板/触�
 Endless OS 作为一个不可变的发行版，你所有的应用程序都运行在一个独立的用户空间。默认情况下，它只支持 Flatpak 软件包。默认配置了世界上最大的 Flatpak 仓库 Flathub。你可以直接从 AppCenter 搜索并安装任何 Flatpak 应用程序。
 
 
-![Flathub repo is pre-configured for Flatpak apps](/Asserts/Images//attachment/album/202302/28/001658z6vvp59lzzl0nzpt.jpg)
+![Flathub repo is pre-configured for Flatpak apps](/Asserts/Images/album/202302/28/001658z6vvp59lzzl0nzpt.jpg)
 
 
 然而，在默认情况下，几乎所有需要的应用程序都已经预装。如果你想处理文件，一个完整的 LibreOffice 包就在那里。它还包括预装了 Ad-Block 的 Chromium 网络浏览器！此外，你还得到了 Gedit 文本编辑器、Shotwell 图像查看器、Brasero 磁盘刻录应用程序、<ruby> 文件 <rt>  Files </rt></ruby>应用作为文件管理器、管理你的学校/家庭工作流程的 Kolibri。
@@ -128,7 +128,7 @@ Endless OS 作为一个不可变的发行版，你所有的应用程序都运行
 所有原生的 GNOME 应用程序现在都默认是 Flatpak 版本，而不是 APT 软件包。这是 Endless OS 5.0 的关键变化之一。
 
 
-![Kolibri is one of the amazing app - pre-loaded](/Asserts/Images//attachment/album/202302/28/001707fd9cnhd8d2ij94pn.jpg)
+![Kolibri is one of the amazing app - pre-loaded](/Asserts/Images/album/202302/28/001707fd9cnhd8d2ij94pn.jpg)
 
 
 #### 帮助中心
@@ -140,7 +140,7 @@ Endless OS 的伟大功能之一是可以从帮助应用程序中获得离线帮
 任何学生或首次使用的用户都可以快速了解桌面的基本功能，如 “如何更改密码” 或 “如何创建账户” 之类的问题。所有这些都可以作为离线帮助文件使用。
 
 
-![Endless OS desktop offline help](/Asserts/Images//attachment/album/202302/28/001715d4s102vs1vvs4sso.jpg)
+![Endless OS desktop offline help](/Asserts/Images/album/202302/28/001715d4s102vs1vvs4sso.jpg)
 
 
 ### 总结

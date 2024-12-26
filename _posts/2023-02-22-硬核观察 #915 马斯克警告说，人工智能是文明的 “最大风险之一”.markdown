@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,必应,龙芯]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/17/202746e2k2o5doil5il269.jpg)
+![](/Asserts/Images/album/202302/17/202746e2k2o5doil5il269.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/17/202753lfx2xxw42v43gzix.jpg)
+![](/Asserts/Images/album/202302/17/202753lfx2xxw42v43gzix.jpg)
 
 
 ### 马斯克警告说，人工智能是文明的 “最大风险之一”
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,必应,龙芯]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/17/202813otmmmslmolsofsvm.jpg)
+![](/Asserts/Images/album/202302/17/202813otmmmslmolsofsvm.jpg)
 
 
 ### 微软称与新必应对话过多会使其“犯糊涂”
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,必应,龙芯]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/17/202825hfcz6lss96fj6cm4.jpg)
+![](/Asserts/Images/album/202302/17/202825hfcz6lss96fj6cm4.jpg)
 
 
 ### 龙芯架构开始支持 KVM 虚拟化

@@ -15,7 +15,7 @@ tags:	[linuxcn,笔记]
 > 
 
 
-![](/Asserts/Images//attachment/album/201805/09/004244j526299tzvqz4lbq.jpg)
+![](/Asserts/Images/album/201805/09/004244j526299tzvqz4lbq.jpg)
 
 
 当你需要保存代码段或 URL、想法或引用时，可能会启动文本编辑器或使用[桌面](https://opensource.com/life/16/9/4-desktop-note-taking-applications)或[基于 Web 的](https://opensource.com/alternatives/evernote)笔记记录工具。但那些不是你唯一的选择。如果你在终端窗口中工作，则可以使用 Linux 命令行下的许多笔记记录工具之一。
@@ -27,7 +27,7 @@ tags:	[linuxcn,笔记]
 ### tnote
 
 
-![](/Asserts/Images//attachment/album/201805/09/004244rzyqa3rpph6m326o.png)
+![](/Asserts/Images/album/201805/09/004244rzyqa3rpph6m326o.png)
 
 
 [tnote](https://github.com/tasdikrahman/tnote) 使在终端窗口中记笔记很简单 —— 几乎太简单了。
@@ -42,7 +42,7 @@ tnote 是一个 Python 脚本。首次启动时，它会要求你输入密码和
 ### Terminal Velocity
 
 
-![](/Asserts/Images//attachment/album/201805/09/004244f7au13uz2r2hhr5w.png)
+![](/Asserts/Images/album/201805/09/004244f7au13uz2r2hhr5w.png)
 
 
 如果你使用过 Mac OS，你可能会看到一个名为 [Notational Velocity](http://notational.net/) 的流行开源笔记程序，这是一种记录笔记的简单有效方法。[Terminal Velocity](https://vhp.github.io/terminal_velocity/) 在将 Notational Velocity 体验带入命令行方面做得很好。
@@ -57,7 +57,7 @@ Terminal Velocity 打开你的默认文本编辑器（由你的 `.profile` 或 `
 ### pygmynote
 
 
-![](/Asserts/Images//attachment/album/201805/09/004245e3h7xau6h66fhr7d.png)
+![](/Asserts/Images/album/201805/09/004245e3h7xau6h66fhr7d.png)
 
 
 在本文中的四个应用中，[pygmynote](https://github.com/dmpop/pygmynote) 可能是最不用户友好的。然而，它是最灵活的。
@@ -75,7 +75,7 @@ pygmynote 的灵活性在于它能够将附件添加到笔记中。这些附件�
 ### jrnl
 
 
-![](/Asserts/Images//attachment/album/201805/09/004246uqe33nzx4n7zoqz7.png)
+![](/Asserts/Images/album/201805/09/004246uqe33nzx4n7zoqz7.png)
 
 
 [jrnl](http://jrnl.sh/) 是这里的一个奇怪应用。正如你可能从它的名字中猜到的那样，jrnl 意在成为一种日记工具。但这并不意味着你不能记笔记。 jrnl 做得很好。

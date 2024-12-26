@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,AI,ChatGPT,Adobe]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/08/182729cnwe9bhjigb6q8dw.jpg)
+![](/Asserts/Images/album/202301/08/182729cnwe9bhjigb6q8dw.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/08/182740hgzw8i989aenn77v.jpg)
+![](/Asserts/Images/album/202301/08/182740hgzw8i989aenn77v.jpg)
 
 
 ### ChatGPT 已被利用创建恶意代码和黑客攻击
@@ -35,7 +35,7 @@ tags:	[linuxcn,内核,AI,ChatGPT,Adobe]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/08/182750dz7vvvzba7mhz5n5.jpg)
+![](/Asserts/Images/album/202301/08/182750dz7vvvzba7mhz5n5.jpg)
 
 
 ### Adobe 将默认使用你的作品来训练其人工智能算法
@@ -60,7 +60,7 @@ tags:	[linuxcn,内核,AI,ChatGPT,Adobe]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/08/182803h2xvynlpps6jxh33.jpg)
+![](/Asserts/Images/album/202301/08/182803h2xvynlpps6jxh33.jpg)
 
 
 ### Linux 4.9 结束了 6 年的支持

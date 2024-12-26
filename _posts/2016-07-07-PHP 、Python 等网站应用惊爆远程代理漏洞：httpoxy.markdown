@@ -7,7 +7,7 @@ tags:	[linuxcn,httpoxy,HTTP,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/19/212732vobtmd2b7j3x3z33.jpg)
+![](/Asserts/Images/album/201607/19/212732vobtmd2b7j3x3z33.jpg)
 
 
 

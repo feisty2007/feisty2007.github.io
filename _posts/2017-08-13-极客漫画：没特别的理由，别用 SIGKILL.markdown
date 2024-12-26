@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画,SIGKILL]
 ---
 
 
-![Adopt a good cause, DON'T SIGKILL](/Asserts/Images//attachment/album/201708/18/160842xixj4rxjdnrs4jix.png)
+![Adopt a good cause, DON'T SIGKILL](/Asserts/Images/album/201708/18/160842xixj4rxjdnrs4jix.png)
 
 
 为线程们想想吧，不要随便用 SIGKILL！

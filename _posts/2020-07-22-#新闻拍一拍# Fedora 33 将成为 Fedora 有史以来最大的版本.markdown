@@ -7,7 +7,7 @@ tags:	[linuxcn,Btrfs]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/20/103129rsgsuzu2dund7r6n.jpg)
+![](/Asserts/Images/album/202007/20/103129rsgsuzu2dund7r6n.jpg)
 
 
 #### Fedora 33 将成为 Fedora 有史以来最大的版本

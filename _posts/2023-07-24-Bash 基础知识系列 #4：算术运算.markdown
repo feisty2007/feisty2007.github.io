@@ -7,7 +7,7 @@ tags:	[linuxcn,脚本,Bash]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/17/110316dmpou87g8ibhzb8t.jpg)
+![](/Asserts/Images/album/202307/17/110316dmpou87g8ibhzb8t.jpg)
 
 
 
@@ -107,7 +107,7 @@ sub=$(($num1-$num2))
 将此脚本保存为 `sum.sh` 并运行它。给它一些输入并检查结果。
 
 
-![Example of addition and subtraction in Bash shell script](/Asserts/Images//attachment/album/202307/17/110411z15pvyurz4261v26.png)
+![Example of addition and subtraction in Bash shell script](/Asserts/Images/album/202307/17/110411z15pvyurz4261v26.png)
 
 
 ### Bash 中的乘法
@@ -133,7 +133,7 @@ echo "$km KM equals to $meters meters"
 将脚本保存为 `multi.sh`，赋予其执行权限并运行它。这是一个示例输出：
 
 
-![Multiplication in bash script](/Asserts/Images//attachment/album/202307/17/110411znam5ykbc9acsnsz.png)
+![Multiplication in bash script](/Asserts/Images/album/202307/17/110411znam5ykbc9acsnsz.png)
 
 
 看起来不错，不是吗？ 让我们继续进行除法。
@@ -257,7 +257,7 @@ echo "The substraction of $num2 from $num1 is $sub"
 现在尝试运行它，看看是否可以正确处理浮点：
 
 
-![Floating points in bash script](/Asserts/Images//attachment/album/202307/17/110411gcrzeewezsssevor.png)
+![Floating points in bash script](/Asserts/Images/album/202307/17/110411gcrzeewezsssevor.png)
 
 
 ### ?️? 练习时间

@@ -7,7 +7,7 @@ tags:	[linuxcn,LVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/201508/04/231045qa6vy9zgf5fkh7a6.png)
+![](/Asserts/Images/album/201508/04/231045qa6vy9zgf5fkh7a6.png)
 
 
 在我们之前的文章中，我们介绍了[什么是 LVM 以及能用 LVM 做什么](/article-5953-1.html)，今天我们会给你介绍一些 LVM 的主要管理工具，使得你在设置和扩展安装时更游刃有余。
@@ -39,7 +39,7 @@ LVM 的大部分命令和彼此都非常相似。每个可用的命令都由以�
 该列表中的所有命令都要以 root 身份运行，因为你更改的是会影响整个机器系统级设置。
 
 
-![](/Asserts/Images//attachment/album/201508/04/231046j00cr40gxltwlwl0.png)
+![](/Asserts/Images/album/201508/04/231046j00cr40gxltwlwl0.png)
 
 
 ### 如何查看当前 LVM 信息
@@ -51,7 +51,7 @@ LVM 的大部分命令和彼此都非常相似。每个可用的命令都由以�
 display 命令会格式化输出信息，因此比 s 命令更易于理解。对每个命令你会看到名称和 pv/vg 的路径，它还会给出空闲和已使用空间的信息。
 
 
-![](/Asserts/Images//attachment/album/201508/04/231047heyfgo9p6lpeegl9.png)
+![](/Asserts/Images/album/201508/04/231047heyfgo9p6lpeegl9.png)
 
 
 最重要的信息是 PV 名称和 VG 名称。用这两部分信息我们可以继续进行 LVM 设置。
@@ -86,7 +86,7 @@ fdisk -l
 如果之前你的硬盘从未格式化或分区过，在 fdisk 的输出中你很可能看到类似下面的信息。这完全正常，因为我们会在下面的步骤中创建需要的分区。
 
 
-![](/Asserts/Images//attachment/album/201508/04/231047cx1hobthiu7xhiti.png)
+![](/Asserts/Images/album/201508/04/231047cx1hobthiu7xhiti.png)
 
 
 我们的新磁盘位置是 /dev/sdb，让我们用 fdisk 命令在磁盘上创建一个新的分区。
@@ -107,7 +107,7 @@ fdisk /dev/sdb
 这会使你进入到一个特殊的 fdisk 提示符中。
 
 
-![](/Asserts/Images//attachment/album/201508/04/231047yq9qk9kq42seaf2a.png)
+![](/Asserts/Images/album/201508/04/231047yq9qk9kq42seaf2a.png)
 
 
 以指定的顺序输入命令创建一个使用新硬盘 100% 空间的主分区并为 LVM 做好了准备。如果你需要更改分区的大小或想要多个分区，我建议使用 GParted 或自己了解一下关于 fdisk 命令的使用。
@@ -124,7 +124,7 @@ fdisk /dev/sdb
 输入 enter 键两次以接受默认的第一个和最后一个柱面。
 
 
-![](/Asserts/Images//attachment/album/201508/04/231048kb6os36h4hfhhn34.png)
+![](/Asserts/Images/album/201508/04/231048kb6os36h4hfhhn34.png)
 
 
 用下面的命令准备 LVM 所使用的分区。
@@ -141,7 +141,7 @@ fdisk /dev/sdb
 * w = 写入更改到磁盘
 
 
-![](/Asserts/Images//attachment/album/201508/04/231048a891xj5694j45y4g.png)
+![](/Asserts/Images/album/201508/04/231048a891xj5694j45y4g.png)
 
 
 运行这些命令之后，会退出 fdisk 提示符并返回到终端的 bash 提示符中。
@@ -153,7 +153,7 @@ fdisk /dev/sdb
 你也许会问为什么我们不用一个文件系统格式化分区，不用担心，该步骤在后面。
 
 
-![](/Asserts/Images//attachment/album/201508/04/231048v63z8eyve82z95b4.png)
+![](/Asserts/Images/album/201508/04/231048v63z8eyve82z95b4.png)
 
 
 #### 创建卷组
@@ -168,7 +168,7 @@ vgcreate vgpool /dev/sdb1
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231049o5s4ntswrstwto4n.png)
+![](/Asserts/Images/album/201508/04/231049o5s4ntswrstwto4n.png)
 
 
 vgpool 是新创建的卷组的名称。你可以使用任何你喜欢的名称，但建议标签以 vg 开头，以便后面你使用它时能意识到这是一个卷组。
@@ -186,7 +186,7 @@ lvcreate -L 3G -n lvstuff vgpool
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231049grs4scspkkm14kw2.png)
+![](/Asserts/Images/album/201508/04/231049grs4scspkkm14kw2.png)
 
 
 -L 命令指定逻辑卷的大小，在该情况中是 3 GB，-n 命令指定卷的名称。 指定 vgpool 以便 lvcreate 命令知道从什么卷获取空间。
@@ -204,7 +204,7 @@ mkfs -t ext3 /dev/vgpool/lvstuff
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231049fr0rry0bv0eyl30x.png)
+![](/Asserts/Images/album/201508/04/231049fr0rry0bv0eyl30x.png)
 
 
 创建挂载点并将卷挂载到你可以使用的地方。
@@ -217,7 +217,7 @@ mount -t ext3 /dev/vgpool/lvstuff /mnt/stuff
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231050pzcrr9tq1i400zq9.png)
+![](/Asserts/Images/album/201508/04/231050pzcrr9tq1i400zq9.png)
 
 
 #### 重新设置逻辑卷大小
@@ -261,7 +261,7 @@ vgextend vgpool /dev/sdc1
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231050qufs4xc4j8ca2cq3.png)
+![](/Asserts/Images/album/201508/04/231050qufs4xc4j8ca2cq3.png)
 
 
 #### 扩展逻辑卷
@@ -276,7 +276,7 @@ lvextend -L8G /dev/vgpool/lvstuff
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231050ivavwdo89naig35a.png)
+![](/Asserts/Images/album/201508/04/231050ivavwdo89naig35a.png)
 
 
 当这个命令工作的时候你会发现它实际上重新设置逻辑卷大小为 8GB 而不是我们期望的将 8GB 添加到已存在的卷上。要添加剩余的可用 3GB 你需要用下面的命令。
@@ -288,7 +288,7 @@ lvextend -L+3G /dev/vgpool/lvstuff
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231051qlslzu42h40vhv2f.png)
+![](/Asserts/Images/album/201508/04/231051qlslzu42h40vhv2f.png)
 
 
 现在我们的逻辑卷已经是 11GB 大小了。
@@ -306,7 +306,7 @@ resize2fs /dev/vgpool/lvstuff
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231051obnossoopvsb74sh.png)
+![](/Asserts/Images/album/201508/04/231051obnossoopvsb74sh.png)
 
 
 **注意：如果你使用除 ext3/4 之外的文件系统，请查看调整你的文件系统大小的工具。**
@@ -329,7 +329,7 @@ resize2fs /dev/vgpool/lvstuff
 快照是一些新的高级文件系统提供的功能，但是 ext3/4 文件系统并没有快照的功能。LVM 快照最棒的是你的文件系统永不掉线，你可以拥有你想要的任何大小而不需要额外的硬盘空间。
 
 
-![](/Asserts/Images//attachment/album/201508/04/231051be8fe71if7v8dmei.png)
+![](/Asserts/Images/album/201508/04/231051be8fe71if7v8dmei.png)
 
 
 LVM 获取快照的时候，会有一张和逻辑卷完全相同的“照片”，该“照片”可以用于在不同的硬盘上进行备份。生成一个备份的时候，任何需要添加到逻辑卷的新信息会如往常一样写入磁盘，但会跟踪更改使得原始快照永远不会损毁。
@@ -350,7 +350,7 @@ lvcreate -L512M -s -n lvstuffbackup /dev/vgpool/lvstuff
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231052djq3zmzlmypzlwpw.png)
+![](/Asserts/Images/album/201508/04/231052djq3zmzlmypzlwpw.png)
 
 
 这里我们创建了一个只有 512MB 的逻辑卷，因为该硬盘实际上并不会使用。512MB 的空间会保存备份时产生的任何新数据。
@@ -369,7 +369,7 @@ mount /dev/vgpool/lvstuffbackup /mnt/lvstuffbackup
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231052hsdno4xmmrmoltys.png)
+![](/Asserts/Images/album/201508/04/231052hsdno4xmmrmoltys.png)
 
 
 #### 复制快照和删除逻辑卷
@@ -387,7 +387,7 @@ tar -cf /home/rothgar/Backup/lvstuff-ss /mnt/lvstuffbackup/
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231052vqzwvj5kw5v1rc1b.png)
+![](/Asserts/Images/album/201508/04/231052vqzwvj5kw5v1rc1b.png)
 
 
 记住备份时候写到 lvstuff 的所有文件都会在我们之前创建的临时逻辑卷中被跟踪。确保备份的时候你有足够的空闲空间。
@@ -403,7 +403,7 @@ lvremove /dev/vgpool/lvstuffbackup/
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231053fnddj76t611ak0af.png)
+![](/Asserts/Images/album/201508/04/231053fnddj76t611ak0af.png)
 
 
 #### 删除逻辑卷
@@ -424,7 +424,7 @@ pvremove /dev/sdb1 /dev/sdc1
 
 ```
 
-![](/Asserts/Images//attachment/album/201508/04/231053nax33a3lnxu7dqb3.png)
+![](/Asserts/Images/album/201508/04/231053nax33a3lnxu7dqb3.png)
 
 
 这些已经囊括了关于 LVM 你需要了解的大部分知识。如果你有任何关于这些讨论的经验，请在下面的评论框中和大家分享。

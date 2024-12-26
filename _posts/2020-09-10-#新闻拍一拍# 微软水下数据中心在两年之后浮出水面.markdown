@@ -7,7 +7,7 @@ tags:	[linuxcn,IDC,文件系统,OpenPOWER]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/16/101319lte3guxwxm5ufxg8.jpg)
+![](/Asserts/Images/album/202009/16/101319lte3guxwxm5ufxg8.jpg)
 
 
 #### 微软水下数据中心在两年之后浮出水面

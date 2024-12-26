@@ -7,7 +7,7 @@ tags:	[linuxcn,HTTP/2,nginx]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/28/132038abpn30ddtazcnw5o.jpg)
+![](/Asserts/Images/album/201702/28/132038abpn30ddtazcnw5o.jpg)
 
 
 HTTP/2 是 HTTP 网络协议的主要修订版本，其专注于 HTTP 协议的性能改进。HTTP/2 协议的目标是减少延迟，并且允许在 Web 浏览器和服务器之间的一个连接上并行发起多个请求，因此 Web 应用程序会更快。在本篇教程中，我们将像你展示如何在安装有 Ubuntu 或 CentOS 作为操作系统的 Linux VPS 上使用开启 Nginx 的 HTTP/2 协议。如果你使用 Apache，你可以查看我们的另一篇教程：[如何在 Ubuntu 上开启 Apache 的 HTTP/2 协议](https://www.rosehosting.com/blog/how-to-set-up-apache-with-http2-support-on-ubuntu-16-04/)。

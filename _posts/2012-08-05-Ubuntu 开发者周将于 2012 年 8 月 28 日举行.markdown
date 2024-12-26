@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,开发]
 ---
 
 
-![](/Asserts/Images//attachment/album/201208/24/0902584hhjetegkt41lr49.png)
+![](/Asserts/Images/album/201208/24/0902584hhjetegkt41lr49.png)
 
 
 Daniel Holbach 在 Canonical（Ubunut 母公司）高兴的告诉大家说，他们将在 8 月 28 日开始举行今年第二次 Ubuntu 开发者周活动。活动将持续三天时间到 30 号。

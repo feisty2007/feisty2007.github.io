@@ -172,10 +172,10 @@ phpIPAM的运行需要Apache 的 Rewrite模块，该模块可以在Ubuntu或Debi
 我们可以使用浏览器来完成phpIPAM的安装。将浏览器地址指向URL: http:///phpIPAM，将会显示以下phpIPAM安装页面。我们可以开始自动化数据库安装。
 
 
-![](/Asserts/Images//attachment/album/201406/12/154541wrr78rjppzl1zfjw.jpg)
+![](/Asserts/Images/album/201406/12/154541wrr78rjppzl1zfjw.jpg)
 
 
-![](/Asserts/Images//attachment/album/201406/12/154543kkkzusgmikw44z4w.jpg)
+![](/Asserts/Images/album/201406/12/154543kkkzusgmikw44z4w.jpg)
 
 
 现在，phpIPAM应该已经起来，并正在运行了，我们可以使用以下默认用户来登录。
@@ -198,7 +198,7 @@ phpIPAM的运行需要Apache 的 Rewrite模块，该模块可以在Ubuntu或Debi
 让我们从为我们的网络创建区域开始吧。点击“管理” > “区域”。
 
 
-![](/Asserts/Images//attachment/album/201406/12/154545cpcvq06mmqcrcq2r.jpg)
+![](/Asserts/Images/album/201406/12/154545cpcvq06mmqcrcq2r.jpg)
 
 
 点击“添加区域”。现在我们可以为我们的添加的区域取个你想要的名称了（如："Our Network"），填上区域的详细情况。
@@ -261,22 +261,22 @@ phpIPAM也提供了创建嵌套子网的选项，可以用于IPv4和IPv6。例�
 首先，我们将为区域“Our Network”创建一个具有读/写权限的组。这项工作可以通过选择“管理” > “组” > “创建组”来完成。
 
 
-![](/Asserts/Images//attachment/album/201406/12/154743uh6gyhshy3z1yges.jpg)
+![](/Asserts/Images/album/201406/12/154743uh6gyhshy3z1yges.jpg)
 
 
 既然组已经被创建完成，那么我们来修改区域权限，选择“管理” > “区域”，然后编辑区域。
 
 
-![](/Asserts/Images//attachment/album/201406/12/154745ep8223t7oxnef87k.jpg)[7](https://www.flickr.com/photos/xmodulo/14193739966/)
+![](/Asserts/Images/album/201406/12/154745ep8223t7oxnef87k.jpg)[7](https://www.flickr.com/photos/xmodulo/14193739966/)
 
 
-![](/Asserts/Images//attachment/album/201406/12/154748cn0ka1jj90zjfc1z.jpg)
+![](/Asserts/Images/album/201406/12/154748cn0ka1jj90zjfc1z.jpg)
 
 
 我们将创建一个名为“user1”的用户，添加该用户到“演示组”，以便该用户能从该组集成有所必要的权限。我们从点击“管理” > “用户” > “创建用户”开始。
 
 
-[![](/Asserts/Images//attachment/album/201406/12/154750rq3qyqu4q4inui0u.jpg)](https://www.flickr.com/photos/xmodulo/14214506012/)
+[![](/Asserts/Images/album/201406/12/154750rq3qyqu4q4inui0u.jpg)](https://www.flickr.com/photos/xmodulo/14214506012/)
 
 
 现在，我们能以该用户身份登录，并添加/修改“我们的网络”下的IP地址。

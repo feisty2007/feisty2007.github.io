@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/23/112405tt57nu7neuddkk7k.jpg)
+![](/Asserts/Images/album/202107/23/112405tt57nu7neuddkk7k.jpg)
 
 
 通过一些努力，[你能安装上 Arch Linux](https://itsfoss.com/install-arch-linux/)，也可以在你的 Arch 系统上安装一个你选择的桌面环境或窗口管理器。
@@ -40,19 +40,19 @@ Hash Linux 四个版本的 ISO 镜像均可 [下载](https://hashproject.ga/inde
 当我启动到 Hash Linux 时，我注意到两件事。首先是一个面板，提供用于管理窗口和命令的快捷方式。我将在安装后讨论它。其次，是一个漂亮且易于使用的 GUI 安装程序。
 
 
-![Hash Linux GUI Installer](/Asserts/Images//attachment/album/202107/23/112517wiwzk1b41k67b650.jpg)
+![Hash Linux GUI Installer](/Asserts/Images/album/202107/23/112517wiwzk1b41k67b650.jpg)
 
 
 像其他衍生版一样，图形化的安装程序使安装过程非常顺畅。在几个步骤的配置中，Hash Linux 已安装完毕，并准备重新启动。
 
 
-![Installer Welcome Page](/Asserts/Images//attachment/album/202107/23/112518lnhcttfdnn5ac1ww.png)
+![Installer Welcome Page](/Asserts/Images/album/202107/23/112518lnhcttfdnn5ac1ww.png)
 
 
 ### 第一印象
 
 
-![Hash Linux](/Asserts/Images//attachment/album/202107/23/112518flhf0lgdj3aol2qt.jpg)
+![Hash Linux](/Asserts/Images/album/202107/23/112518flhf0lgdj3aol2qt.jpg)
 
 
 如果你曾经在你的 Linux 系统上安装过 Xmonad 窗口管理器，那么你重启后首先看到的是什么？空白的屏幕吧。
@@ -73,13 +73,13 @@ Hash Linux 四个版本的 ISO 镜像均可 [下载](https://hashproject.ga/inde
 如果你多次按下它，你会发现默认情况下 Xmonad 遵循一个缩减布局，它首先将一个窗口固定在右边，然后以同样的方式将其余的全部安排在左边。
 
 
-![Xmonad default layout](/Asserts/Images//attachment/album/202107/23/112520nu4guug1eu26y2gg.png)
+![Xmonad default layout](/Asserts/Images/album/202107/23/112520nu4guug1eu26y2gg.png)
 
 
 按下 `Super+Space`，你也可以将当前的布局改为标签式布局。甚至你可以按下 `Super+leftclick` 将窗口拖动。
 
 
-![Moved to float](/Asserts/Images//attachment/album/202107/23/112520wsdxisd2pzyvz38s.png)
+![Moved to float](/Asserts/Images/album/202107/23/112520wsdxisd2pzyvz38s.png)
 
 
 要退出当前的窗口，你可以按下 `Super+Q`。
@@ -91,7 +91,7 @@ Hash Linux 四个版本的 ISO 镜像均可 [下载](https://hashproject.ga/inde
 默认情况下，Hash Linux 包含几个有用的命令行工具，如：NeoFetch、Htop、Vim、Pacman、Git 和 Speedtest-cli。
 
 
-![Htop](/Asserts/Images//attachment/album/202107/23/112521gw2nrrguohmoo066.jpg)
+![Htop](/Asserts/Images/album/202107/23/112521gw2nrrguohmoo066.jpg)
 
 
 它还拥有大量的图形应用程序，如：Firefox 89、Gparted、Nitrogen、Conky、Flameshot、Geany 和 CPU-X。
@@ -100,7 +100,7 @@ Hash Linux 四个版本的 ISO 镜像均可 [下载](https://hashproject.ga/inde
 `Super+D` 是 Hash Linux 中打开应用程序搜索菜单的默认快捷键。
 
 
-![Application search menu](/Asserts/Images//attachment/album/202107/23/112522hp3rvfov6v2x4yp3.jpg)
+![Application search menu](/Asserts/Images/album/202107/23/112522hp3rvfov6v2x4yp3.jpg)
 
 
 ### 主题美化
@@ -112,7 +112,7 @@ Hash Cyan 是 Hash Linux 的默认主题。除了它之外，Hash Linux 还提�
 Hash Theme Selector 是一个自制的 Hash Linux 应用程序，你可以用它来配置窗口管理器的主题。
 
 
-![Hash Theme Selector](/Asserts/Images//attachment/album/202107/23/112522h0a8zkjbsb7atzzb.png)
+![Hash Theme Selector](/Asserts/Images/album/202107/23/112522h0a8zkjbsb7atzzb.png)
 
 
 ### 升级 Hash Linux
@@ -121,7 +121,7 @@ Hash Theme Selector 是一个自制的 Hash Linux 应用程序，你可以用它
 作为一个滚动发行版，你不需要下载一个新的 Hash Linux 的 ISO 来更新现有系统。你唯一需要的是在终端运行 `upgrade` 命令来升级你的系统。
 
 
-![upgrading hash linux](/Asserts/Images//attachment/album/202107/23/112523i3huncgbb8n5vvcv.png)
+![upgrading hash linux](/Asserts/Images/album/202107/23/112523i3huncgbb8n5vvcv.png)
 
 
 ### 结束语
@@ -139,7 +139,7 @@ Hash Theme Selector 是一个自制的 Hash Linux 应用程序，你可以用它
 最后我还要提一下，目前 Hash Linux 的官方 [网站](https://hashproject.ga/) 并没有包含很多关于它的信息。
 
 
-![](/Asserts/Images//attachment/album/202107/23/112523md2d2cwhbz2g28pf.png)
+![](/Asserts/Images/album/202107/23/112523md2d2cwhbz2g28pf.png)
 
 
 在发布信息中也提到了一个早期的 [网站](https://hashproject.org/)（我现在无法访问），在我上次访问时，其中包含了许多关于它的信息，包括配置细节等。

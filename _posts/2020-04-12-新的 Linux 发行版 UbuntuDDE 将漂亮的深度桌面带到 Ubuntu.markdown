@@ -19,7 +19,7 @@ tags:	[linuxcn,深度]
 如果你想使用深度桌面，那没有什么可以阻止你将其安装在常规 Ubuntu 系统上。[UbuntuDDE](https://ubuntudde.com/) 试图通过在 Ubuntu 之上为你提供开箱即用的深度桌面体验来使其更简单。这样可以节省你在 Ubuntu 上安装和配置深度桌面的时间和精力。
 
 
-![Screenshot of UbuntuDDE](/Asserts/Images//attachment/album/202004/15/193232byo44gv5i4s4vag8.jpg)
+![Screenshot of UbuntuDDE](/Asserts/Images/album/202004/15/193232byo44gv5i4s4vag8.jpg)
 
 
 ### Ubuntu DDE：Ubuntu 的强大和深度桌面的漂亮
@@ -34,13 +34,13 @@ UbuntuDDE 开发人员得到了 Ubuntu Snapcraft 团队的 Alan Pope、Ubuntu Bu
 在与 FOSS 的对话中，其主要开发人员 Arun 强调说，该项目的重点是定期维护 Ubuntu 的 DDE 软件包，并帮助用户享受 DDE（深度桌面环境）的全部乐趣。
 
 
-![Ubuntu Deepin Edition login screen](/Asserts/Images//attachment/album/202004/15/193233d9hq0gigilg0e828.jpg)
+![Ubuntu Deepin Edition login screen](/Asserts/Images/album/202004/15/193233d9hq0gigilg0e828.jpg)
 
 
 Arun 还提到，这个 Ubuntu 和深度的混合项目首先是维护和打包来自上游（即深度仓库）的最新版本。然后，它最终与 Ubuntu 20.04 focal 结合，生成了一个镜像文件，每个人都可以安装，而不必麻烦地先安装常规的 Ubuntu，然后再安装深度桌面。UbuntuDDE 不仅是 DDE 和 Ubuntu 的组合，而且还是 UbuntuDDE 团队的软件包选择和设计变更的融合。
 
 
-![UbuntuDDE screenshot](/Asserts/Images//attachment/album/202004/15/193234ov4927z3la89ogo2.jpg)
+![UbuntuDDE screenshot](/Asserts/Images/album/202004/15/193234ov4927z3la89ogo2.jpg)
 
 
 与 Deepin Linux 不同，UbuntuDDE 不使用深度应用商店。它改用 Ubuntu 软件中心。如果你被[这个来自武汉的深度 Linux 的间谍软件谣言](https://www.deepin.org/en/2018/04/14/linux-deepin-is-not-spyware/)吓到了，这应该是一个好消息。
@@ -66,7 +66,7 @@ UbuntuDDE 的目标是与 Ubuntu 20.04 一起发布第一个正式的稳定版�
 * [下载 Ubuntu 20.04 DDE Beta](https://ubuntudde.com/download/)
 
 
-![Installing UbuntuDDE](/Asserts/Images//attachment/album/202004/15/193235dxxa0f7sca6j6atw.jpg)
+![Installing UbuntuDDE](/Asserts/Images/album/202004/15/193235dxxa0f7sca6j6atw.jpg)
 
 
 由于本质上是 Ubuntu，因此安装 UbuntuDDE 与安装 Ubuntu 相同。你可以参考这篇教程，其中展示了[如何在 VirtualBox 内安装 Ubuntu](https://itsfoss.com/install-linux-in-virtualbox/)。

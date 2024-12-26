@@ -7,7 +7,7 @@ tags:	[linuxcn,apt,包管理,yum]
 ---
 
 
-![Package_Management_tw_mostov.png-307.8kB](/Asserts/Images//attachment/album/201708/16/114539z1cbxu1mzsm2ssu1.png)
+![Package_Management_tw_mostov.png-307.8kB](/Asserts/Images/album/201708/16/114539z1cbxu1mzsm2ssu1.png)
 
 
 ### 介绍

@@ -13,7 +13,7 @@ tags:	[linuxcn,Skype,Snapd,Flatpack]
 Skype for Linux 1.13 版本现可下载。
 
 
-![](/Asserts/Images//attachment/album/201612/02/192644omlkybqrzn3gpprb.png)
+![](/Asserts/Images/album/201612/02/192644omlkybqrzn3gpprb.png)
 
 
 微软近期发布 Skype 的 Linux 版本的更新，增加了一个重要功能，并修复了很多 bug。
@@ -51,7 +51,7 @@ Ubuntu 16.04 LTS (Xenial Xerus) 是一个长期支持版本, 也就是说，五�
 #### Ubuntu 17.04 发布时间表公布
 
 
-![](/Asserts/Images//attachment/album/201612/02/192701k64ww0w2p6gpuiu5.png)
+![](/Asserts/Images/album/201612/02/192701k64ww0w2p6gpuiu5.png)
 
 
 近期，Canonical 还公布了 Ubuntu 17.04 (Zesty Zapus) 系统的[发布时间表](https://wiki.ubuntu.com/ZestyZapus/ReleaseSchedule)。Canonical 和 Ubuntu 创始人 Mark Shuttleworth 将 Ubuntu 17.04 命名为 “Zesty Zapus”（跳鼠的意思）。该项目 10 月24 日启动。
@@ -72,7 +72,7 @@ Ubuntu 17.04 是一个普通版本（不是 LTS）， 也就是说，对它只�
 Snappy 团队高兴地[宣布](https://lists.snapcraft.io/archives/snapcraft/2016-November/001761.html)， snapd 2.18 于 2016年 11 月 24 日发布。
 
 
-![](/Asserts/Images//attachment/album/201612/02/193155sedtr9j2p2m39ajp.jpg)
+![](/Asserts/Images/album/201612/02/193155sedtr9j2p2m39ajp.jpg)
 
 
 新版本可用于 Ubuntu Core 16 和 Ubuntu 16.10、 Ubuntu 16.04 LTS。 
@@ -87,7 +87,7 @@ snapd 2.18 突出的新特性包括 `snap info < name|path >`命令，用于查�
 2016 年 11 月 29 日，[Flatpak 0.6.13](http://news.softpedia.com/news/flatpak-0-6-13-universal-linux-binary-format-is-a-major-update-with-new-features-509633.shtml) 发布一个多月后，Alex Larsson 宣布， 新版本已可用。
 
 
-![](/Asserts/Images//attachment/album/201612/02/193145boih26xanc1n1fco.jpg)
+![](/Asserts/Images/album/201612/02/193145boih26xanc1n1fco.jpg)
 
 
 Flatpak 0.6.14 是最新最先进的 Linux app 容器，意在成为跨主流 GNU/Linux 平台的应用发布的未来。 和 bubblewrap 0.1.4 捆绑, 新的 Flatpak 要求 OSTree 2016.14，这就不再需要原来的一些规避措施。

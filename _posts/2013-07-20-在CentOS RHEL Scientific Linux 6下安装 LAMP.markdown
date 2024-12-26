@@ -80,8 +80,8 @@ Apache 是​​一个开源的跨平台的 Web 服务器。它提供了一个�
 打开您的浏览器访问 http://localhost/ 或者 http://server-ip-address/ 测试 Apache 安装是否成功。
 
 
-[![](/Asserts/Images//attachment/album/201307/01/000741vj5w5u6lvmvz2m53.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/01/000741vj5w5u6lvmvz2m53.png)
+[![](/Asserts/Images/album/201307/01/000741vj5w5u6lvmvz2m53.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/01/000741vj5w5u6lvmvz2m53.png)
 
 
 **安装 MariaDB**
@@ -312,8 +312,8 @@ PHP（PHP 是：Hypertext Preprocessor 的缩写）是一种广泛使用的开�
 用浏览器打开 http://server-ip-address/testphp.php 。它会显示关于 PHP 的详细信息，比如版本，建立日期等。
 
 
-[![](/Asserts/Images//attachment/album/201307/01/000744ov9lcv692nb6ilui.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/01/000744ov9lcv692nb6ilui.png)
+[![](/Asserts/Images/album/201307/01/000744ov9lcv692nb6ilui.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/01/000744ov9lcv692nb6ilui.png)
 
 
 如果您需要安装所有的 PHP 模块，可以输入 **yum install php\* -y** 来安装，安装完毕后重启 httpd 服务。重启服务后，您可以用浏览器打开 http://server-ip-address/testphp.php 来查看您刚才安装的模块情况。
@@ -411,15 +411,15 @@ phpMyAdmin 是一个免费开源的 MySQL 管理工具。默认情况下 CentOS/
 现在，您可以访问 phpmyadmin 控制太来管理 MySQL 了。打开一个浏览器，访问：http://server-ip-address/phpmyadmin/ 。需要输入您的 MySQL 用户名和密码，如果您按前面的步骤设置了密码的话。我设置的是 “root” 和 “centOS”。
 
 
-[![](/Asserts/Images//attachment/album/201307/01/000746ha6gi1gahyjygjeh.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/01/000746ha6gi1gahyjygjeh.png)
+[![](/Asserts/Images/album/201307/01/000746ha6gi1gahyjygjeh.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/01/000746ha6gi1gahyjygjeh.png)
 
 
 您将被重定向到 phpMyAdmin 的 Web 主界面：
 
 
-[![](/Asserts/Images//attachment/album/201307/01/000749sda7a7f6d6ujtdfj.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201307/01/000749sda7a7f6d6ujtdfj.png)
+[![](/Asserts/Images/album/201307/01/000749sda7a7f6d6ujtdfj.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201307/01/000749sda7a7f6d6ujtdfj.png)
 
 
 现在，您能够通过 phpMyAdmin 管理您的 MariaDB 数据库了。

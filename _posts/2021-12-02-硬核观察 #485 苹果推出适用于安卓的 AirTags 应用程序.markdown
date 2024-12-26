@@ -7,10 +7,10 @@ tags:	[linuxcn,AirTag,Fedora,POWER8]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/14/195306yczaoazcrryoi9fq.jpg)
+![](/Asserts/Images/album/202112/14/195306yczaoazcrryoi9fq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/14/195318s68xmix1mcfxixm1.jpg)
+![](/Asserts/Images/album/202112/14/195318s68xmix1mcfxixm1.jpg)
 
 
 ### 苹果推出适用于安卓的 AirTag 应用程序
@@ -27,7 +27,7 @@ tags:	[linuxcn,AirTag,Fedora,POWER8]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/14/195356akzyxkad6yyxydyq.jpg)
+![](/Asserts/Images/album/202112/14/195356akzyxkad6yyxydyq.jpg)
 
 
 ### Fedora 36 计划使用 plocate
@@ -44,7 +44,7 @@ tags:	[linuxcn,AirTag,Fedora,POWER8]
 > 
 
 
- ![](/Asserts/Images//attachment/album/202112/14/195426lrkhk11tkbxzztzb.jpg)
+ ![](/Asserts/Images/album/202112/14/195426lrkhk11tkbxzztzb.jpg)
 
 
 ### Ubuntu 22.04 LTS 将不支持 POWER8 CPU

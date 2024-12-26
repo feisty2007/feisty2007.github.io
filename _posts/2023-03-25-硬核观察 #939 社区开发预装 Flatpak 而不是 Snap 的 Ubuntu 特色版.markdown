@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,开源,GitHub,Flatpak]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/13/180035kn33gxn3naa2xu43.jpg)
+![](/Asserts/Images/album/202303/13/180035kn33gxn3naa2xu43.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/13/180041iblivvpkavjffa9b.jpg)
+![](/Asserts/Images/album/202303/13/180041iblivvpkavjffa9b.jpg)
 
 
 ### 社区开发预装 Flatpak 而不是 Snap 的 Ubuntu 特色版
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ubuntu,开源,GitHub,Flatpak]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/13/180054o4a14ixxzu2rsuz6.jpg)
+![](/Asserts/Images/album/202303/13/180054o4a14ixxzu2rsuz6.jpg)
 
 
 ### 调查发现：开源是最值得信任的技术
@@ -60,7 +60,7 @@ Stack Overflow 调查了数千名开发人员发现，开源（6.9）、云计�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/13/180111bsp9be77pee922kk.jpg)
+![](/Asserts/Images/album/202303/13/180111bsp9be77pee922kk.jpg)
 
 
 ### GitHub 要求更多开发者使用 2FA

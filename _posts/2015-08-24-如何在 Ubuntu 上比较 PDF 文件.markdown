@@ -61,10 +61,10 @@ sudo apt-get install diffpdf
 #### 截图
 
 
-![](/Asserts/Images//attachment/album/201508/04/000759bv4hnmjnpckaaghj.png)
+![](/Asserts/Images/album/201508/04/000759bv4hnmjnpckaaghj.png)
 
 
-![](/Asserts/Images//attachment/album/201508/04/000759r38frrk3wqqbk844.png)
+![](/Asserts/Images/album/201508/04/000759r38frrk3wqqbk844.png)
 
 
 

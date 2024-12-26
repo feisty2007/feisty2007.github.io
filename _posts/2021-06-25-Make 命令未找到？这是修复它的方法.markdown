@@ -7,7 +7,7 @@ tags:	[linuxcn,make]
 ---
 
 
-![](/Asserts/Images//attachment/album/202106/02/203049l51rbr5v55kivg11.jpg)
+![](/Asserts/Images/album/202106/02/203049l51rbr5v55kivg11.jpg)
 
 
 有一天，我试图在一个新的 Ubuntu 系统上编译一个程序，当我试图使用 `make` 命令时，它向我抛出一个错误：
@@ -42,7 +42,7 @@ make --version
 
 ```
 
-![Checking make version](/Asserts/Images//attachment/album/202106/02/203058qmrwood959kzfkoa.png)
+![Checking make version](/Asserts/Images/album/202106/02/203058qmrwood959kzfkoa.png)
 
 
 ### 在 Ubuntu 上安装 make 的更好方法
@@ -57,7 +57,7 @@ sudo apt install build-essential
 
 ```
 
-![Installing Build Essential package](/Asserts/Images//attachment/album/202106/02/203059w87mc6vm686nmf6w.png)
+![Installing Build Essential package](/Asserts/Images/album/202106/02/203059w87mc6vm686nmf6w.png)
 
 
 安装了这个 `build-essential` 包后，你就可以[在 Linux 中轻松地运行 C/C++ 程序](https://itsfoss.com/c-plus-plus-ubuntu/)。

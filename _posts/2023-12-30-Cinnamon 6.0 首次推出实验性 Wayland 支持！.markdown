@@ -7,7 +7,7 @@ tags:	[linuxcn,Cinnamon,Wayland]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/04/164511pkgkgjku6m26mfvv.jpg)
+![](/Asserts/Images/album/202312/04/164511pkgkgjku6m26mfvv.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,Cinnamon,Wayland]
 ### Cinnamon 6.0：可以期待什么？ ?
 
 
-![Cinnamon 6.0 on Wayland](/Asserts/Images//attachment/album/202312/04/164540fy3t22hzhc8qlb43.png)
+![Cinnamon 6.0 on Wayland](/Asserts/Images/album/202312/04/164540fy3t22hzhc8qlb43.png)
 
 
 Cinnamon 6.0 的一大亮点就是**Wayland**。这项功能 [酝酿](https://blog.linuxmint.com/?p=4591) 已久，现在作为**实验支持**出现。

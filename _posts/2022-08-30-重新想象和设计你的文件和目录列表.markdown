@@ -15,7 +15,7 @@ tags:	[linuxcn,ls,lsd,exa]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/12/210553bhogk0vh1sk08o9v.jpg)
+![](/Asserts/Images/album/202208/12/210553bhogk0vh1sk08o9v.jpg)
 
 
 Linux 中的 `ls` 命令是最常用的命令。此命令列出终端中的文件和目录。因此，如你所见，它非常流行，也许每个人都在使用。
@@ -27,7 +27,7 @@ Linux 中的 `ls` 命令是最常用的命令。此命令列出终端中的文�
 例如，如果你以最基本的方式运行 `ls` 命令，它应该看起来有点像这样：
 
 
-![The default list files and directories view via ls command](/Asserts/Images//attachment/album/202208/12/210553v0h37wng7ng7cu3u.jpg)
+![The default list files and directories view via ls command](/Asserts/Images/album/202208/12/210553v0h37wng7ng7cu3u.jpg)
 
 
 这似乎有点乏味，不是吗？如果你可以对其进行一些样式设置，以便在看起来不错的同时变得更具可读性如何？
@@ -51,7 +51,7 @@ lsd -l --header
 
 ```
 
-![lsd command showing list of files](/Asserts/Images//attachment/album/202208/12/210554h4uiuuf2n3szfwuu.jpg)
+![lsd command showing list of files](/Asserts/Images/album/202208/12/210554h4uiuuf2n3szfwuu.jpg)
 
 
 正如你所看到的，它看起来非常漂亮，用不同的颜色代码表示权限、文件类型和文件夹，甚至在文件名旁边添加图标。
@@ -66,7 +66,7 @@ lsd -l --header --tree
 
 ```
 
-![lsd command showing a tree view](/Asserts/Images//attachment/album/202208/12/210555ckokm2kskkcdnzkj.jpg)
+![lsd command showing a tree view](/Asserts/Images/album/202208/12/210555ckokm2kskkcdnzkj.jpg)
 
 
 你可以在其 [官方 GitHub 页面](https://github.com/Peltoche/lsd) 上了解有关其功能的更多信息。
@@ -135,7 +135,7 @@ exa -abghHliS --long --tree
 
 ```
 
-![Various exa commands](/Asserts/Images//attachment/album/202208/12/210556aefyxkuwow00xa10.jpg)
+![Various exa commands](/Asserts/Images/album/202208/12/210556aefyxkuwow00xa10.jpg)
 
 
 你可以在 [GitHub](https://github.com/ogham/exa#command-line-options) 上了解有关 `exa` 参数和选项的更多信息。
@@ -180,7 +180,7 @@ pacman -S exa
 这是最好的功能之一，尽管它取决于终端程序而不是上面的程序。
 
 
-![Exporting the command output as HTML](/Asserts/Images//attachment/album/202208/12/210556hyhhlveuv4rcgphh.jpg)
+![Exporting the command output as HTML](/Asserts/Images/album/202208/12/210556hyhhlveuv4rcgphh.jpg)
 
 
 ### 总结

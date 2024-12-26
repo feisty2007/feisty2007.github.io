@@ -7,7 +7,7 @@ tags:	[linuxcn,红帽,RHEL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/08/100248oxsnxzlann9ml9kl.jpg)
+![](/Asserts/Images/album/201905/08/100248oxsnxzlann9ml9kl.jpg)
 
 
 红帽 [今日宣布](https://www.redhat.com/en/about/press-releases/red-hat-enterprise-linux-8-every-enterprise-every-cloud-every-workload)，其[企业 Linux （RHEL）](https://www.redhat.com/en/enterprise-linux-8)发布了最新版本 8.0。“对于在任何环境中运行的任何工作负载，红帽企业 Linux 8 提供一种企业级 Linux 的体验，以满足不断发展的企业的独特技术需求。”

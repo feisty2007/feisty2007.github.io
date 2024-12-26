@@ -7,7 +7,7 @@ tags:	[linuxcn,udev]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/20/150625yjhjrmmrzvsmmy6e.jpg)
+![](/Asserts/Images/album/201802/20/150625yjhjrmmrzvsmmy6e.jpg)
 
 
 ### 读者对象

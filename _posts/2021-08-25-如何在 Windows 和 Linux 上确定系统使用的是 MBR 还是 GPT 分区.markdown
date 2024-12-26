@@ -7,7 +7,7 @@ tags:	[linuxcn,分区,GPT,MBR]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/28/165508gqjyigp3yz3gy6yy.jpg)
+![](/Asserts/Images/album/202108/28/165508gqjyigp3yz3gy6yy.jpg)
 
 
 在你安装 Linux 或任何其他系统的时候，了解你的磁盘的正确分区方案是非常关键的。
@@ -31,19 +31,19 @@ tags:	[linuxcn,分区,GPT,MBR]
 按下 Windows 按键然后搜索“disk”，然后点击“**创建并格式化硬盘分区**”。
 
 
-![](/Asserts/Images//attachment/album/202108/28/165518h4ijiwe7hih2gwk2.png)
+![](/Asserts/Images/album/202108/28/165518h4ijiwe7hih2gwk2.png)
 
 
 在这里，**右键点击**你想要检查分区方案的磁盘。在右键菜单里**选择属性**。
 
 
-![右键点击磁盘并选择属性](/Asserts/Images//attachment/album/202108/28/165518b6z4ica3ic8y3ozj.png)
+![右键点击磁盘并选择属性](/Asserts/Images/album/202108/28/165518b6z4ica3ic8y3ozj.png)
 
 
 在属性窗口，切换到**卷**标签页，寻找**磁盘分区形式**属性。
 
 
-![在卷标签页寻找磁盘分区形式属性](/Asserts/Images//attachment/album/202108/28/165519zlaamo5afjo8lf8f.png)
+![在卷标签页寻找磁盘分区形式属性](/Asserts/Images/album/202108/28/165519zlaamo5afjo8lf8f.png)
 
 
 正如你在上面截图所看到的，磁盘正在使用 GPT 分区方案。对于一些其他系统，它可能显示的是 MBR 或 MSDOS 分区方案。
@@ -82,7 +82,7 @@ sudo parted -l
 在命令输出中，寻找以 **Partition Table**（分区表）开头的行：
 
 
-![](/Asserts/Images//attachment/album/202108/28/165519orwrjy28y7ag88qa.png)
+![](/Asserts/Images/album/202108/28/165519orwrjy28y7ag88qa.png)
 
 
 在上面的截图中，磁盘使用的是 GPT 分区方案。如果是 **MBR**，它会显示为 **msdos**。
@@ -100,7 +100,7 @@ Ubuntu 和一些其它基于 GNOME 的发行版内置了叫做 Disks 的图形�
 你也可以使用它来获取磁盘的分区类型。
 
 
-![](/Asserts/Images//attachment/album/202108/28/165519en3dc4pp90opjs4m.png)
+![](/Asserts/Images/album/202108/28/165519en3dc4pp90opjs4m.png)
 
 
 #### 使用 Gparted 图形工具检查磁盘信息
@@ -115,7 +115,7 @@ Ubuntu 和一些其它基于 GNOME 的发行版内置了叫做 Disks 的图形�
 在 Gparted 中，通过菜单选择 **View->Device Information**（查看—>设备信息）。它会在左下区域显示磁盘信息，这些信息中包含分区方案信息。
 
 
-![](/Asserts/Images//attachment/album/202108/28/165520y1o4x6rfx858cw18.jpg)
+![](/Asserts/Images/album/202108/28/165520y1o4x6rfx858cw18.jpg)
 
 
 看吧，也不是太复杂，对吗？现在你了解了好几种途径来确认你的系统使用的是 GPT 还是 MBR 分区方案。

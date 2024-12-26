@@ -10,7 +10,7 @@ tags:	[linuxcn,虚拟机,Vagrant,Virtualbox]
 Vagrant 对于虚拟机来说是一个强大的工具，在这里我们将研究如何在 Ubuntu 上设置和使用 Virtualbox 和 Vagrant 来提供可复制的虚拟机。
 
 
-![](/Asserts/Images//attachment/album/201802/01/144530ivtj3kvm8va5vc9s.jpg)
+![](/Asserts/Images/album/201802/01/144530ivtj3kvm8va5vc9s.jpg)
 
 
 ### 虚拟机，并不复杂
@@ -177,7 +177,7 @@ Vagrant.configure("2") do |config|
     # the path on the host to the actual folder. The second argument is
     # the path on the guest to mount the folder. And the optional third
     # argument is a set of non-required options.
-    # config.vm.synced_folder "../Asserts/Images/", "/vagrant_data"
+    # config.vm.synced_folder "../data", "/vagrant_data"
 
     # Provider-specific configuration so you can fine-tune various
     # backing providers for Vagrant. These expose provider-specific options.

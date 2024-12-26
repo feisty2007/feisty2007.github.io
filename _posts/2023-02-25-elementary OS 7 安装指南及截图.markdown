@@ -7,7 +7,7 @@ tags:	[linuxcn,elementary OS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/19/143743asfmbfrt7mc1tczb.jpg)
+![](/Asserts/Images/album/202302/19/143743asfmbfrt7mc1tczb.jpg)
 
 
 在这篇文章中，我们将介绍如何在笔记本电脑或台式机上一步一步地安装 elementary OS 7，并附有截图。它基于最新和稳定的 Ubuntu 22.04 LTS。
@@ -71,7 +71,7 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 现在用可启动的 USB 驱动器启动目标系统。从 BIOS 设置中把启动介质从硬盘改为 USB。当系统用 USB 驱动器启动时，我们将看到以下页面。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154737n78abfcr9kttlbri.jpg)
+![](/Asserts/Images/album/202302/19/154737n78abfcr9kttlbri.jpg)
 
 
 ### 3）选择安装语言
@@ -80,7 +80,7 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 选择你喜欢的语言，然后点击“<ruby> 选择 <rt>  Select </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154821f4zceboj8cff4j8n.jpg)
+![](/Asserts/Images/album/202302/19/154821f4zceboj8cff4j8n.jpg)
 
 
 ### 4）选择键盘布局
@@ -89,7 +89,7 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 在这一步，你将被要求选择键盘布局，然后点击“<ruby> 选择 <rt>  Select </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154828eo2ko1jxgxmxxkxx.jpg)
+![](/Asserts/Images/album/202302/19/154828eo2ko1jxgxmxxkxx.jpg)
 
 
 ### 5）尝试或安装 elementary OS
@@ -106,7 +106,7 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 在这篇文章中，我将使用第二个选项（擦除磁盘并安装）。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154837u9g93ef5f5ze48tn.jpg)
+![](/Asserts/Images/album/202302/19/154837u9g93ef5f5ze48tn.jpg)
 
 
 点击“<ruby> 擦除磁盘并安装 <rt>  Erase disk and Install </rt></ruby>”。
@@ -115,13 +115,13 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 在下面的屏幕上，选择要安装操作系统的驱动器，然后点击“<ruby> 擦除并安装 <rt>  Erase and Install </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154846ybo9vza9fmodk98q.jpg)
+![](/Asserts/Images/album/202302/19/154846ybo9vza9fmodk98q.jpg)
 
 
 如果你想对设备的驱动器进行加密，那么点击“<ruby> 选择密码 <rt>  Choose Password </rt></ruby>”，否则点击“<ruby> 不加密 <rt>  Don’t Encrypt </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154855v979xcrdbfi8644r.jpg)
+![](/Asserts/Images/album/202302/19/154855v979xcrdbfi8644r.jpg)
 
 
 ### 6）安装进度
@@ -130,13 +130,13 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 正如我们在下面看到的，安装已经开始，并且正在进行中。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154903f987590zsh097rha.jpg)
+![](/Asserts/Images/album/202302/19/154903f987590zsh097rha.jpg)
 
 
 安装完成后，安装程序将提示重启系统。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154911xm4wwf6twbofhvll.jpg)
+![](/Asserts/Images/album/202302/19/154911xm4wwf6twbofhvll.jpg)
 
 
 点击“<ruby> 重启设备 <rt>  Restart Device </rt></ruby>”，不要忘记从 BIOS 设置中改变启动介质，以便用磁盘启动。
@@ -151,7 +151,7 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 根据你的要求指定这些细节。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154919ybgni8i2islodbom.jpg)
+![](/Asserts/Images/album/202302/19/154919ybgni8i2islodbom.jpg)
 
 
 点击“<ruby> 完成设置 <rt>  Finish Setup </rt></ruby>”。
@@ -160,7 +160,7 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 在下面的页面中，你将被提示输入你在上面创建的本地用户凭证。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154927kkbcyfybhpga0ggg.jpg)
+![](/Asserts/Images/album/202302/19/154927kkbcyfybhpga0ggg.jpg)
 
 
 输入凭证后，点击回车。
@@ -172,19 +172,19 @@ ISO 文件下载完成后，将其刻录到 USB 驱动器，并使其可启动�
 我们将看到下面的欢迎页。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154935fqnqttztfnqhuvjh.jpg)
+![](/Asserts/Images/album/202302/19/154935fqnqttztfnqhuvjh.jpg)
 
 
 选择“<ruby> 跳过所有 <rt>  Skip All </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154942barrgfggodv44fdq.jpg)
+![](/Asserts/Images/album/202302/19/154942barrgfggodv44fdq.jpg)
 
 
 点击“<ruby> 开始使用 <rt>  Get Started </rt></ruby>”，然后我们会看到下面的桌面。
 
 
-![](/Asserts/Images//attachment/album/202302/19/154949n52ihgfih4p2boh1.jpg)
+![](/Asserts/Images/album/202302/19/154949n52ihgfih4p2boh1.jpg)
 
 
 很好，这表明你已经成功地在系统上安装了 elementary OS 7。这就是本指南的全部内容，请探索这个令人兴奋的 Linux 发行版并享受其中的乐趣吧?。

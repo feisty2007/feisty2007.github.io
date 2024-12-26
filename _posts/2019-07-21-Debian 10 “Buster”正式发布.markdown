@@ -7,7 +7,7 @@ tags:	[linuxcn,Debian]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/08/003549sk9pcz8567cc6pzc.png)
+![](/Asserts/Images/album/201907/08/003549sk9pcz8567cc6pzc.png)
 
 
 Debian 项目于 6 日正式[宣布](https://www.debian.org/News/2019/20190706)[发布](https://www.debian.org/releases/buster/releasenotes)了 Debian 的最新稳定版本 Debian GNU/Linux 10 “Buster” 操作系统。

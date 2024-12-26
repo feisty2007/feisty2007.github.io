@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,搜索引擎,GIMP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/31/183342grm01g49rrrij1ry.jpg)
+![](/Asserts/Images/album/202301/31/183342grm01g49rrrij1ry.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/31/183349ywczjelguqlqqjwf.jpg)
+![](/Asserts/Images/album/202301/31/183349ywczjelguqlqqjwf.jpg)
 
 
 ### OpenAI 雇佣上千人改进 AI 的编程能力
@@ -35,7 +35,7 @@ OpenAI 过去半年招募了大约一千名远程工作的合同工，其中四�
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/31/183358vd5okn1opa9gnpkz.jpg)
+![](/Asserts/Images/album/202301/31/183358vd5okn1opa9gnpkz.jpg)
 
 
 ### Yandex 的搜索引擎使用了 1922 个排名因子
@@ -60,7 +60,7 @@ Yandex 搜索引擎的源代码最近被前雇员泄露。根据分析，它的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/31/183409sreezi76s17yot31.jpg)
+![](/Asserts/Images/album/202301/31/183409sreezi76s17yot31.jpg)
 
 
 ### GIMP 3.0.0 有望在年内发布

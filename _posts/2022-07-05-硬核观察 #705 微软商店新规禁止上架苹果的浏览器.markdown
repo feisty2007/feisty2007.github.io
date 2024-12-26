@@ -7,10 +7,10 @@ tags:	[linuxcn,SUSE,浏览器,应用商店]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/22/203212pp88sat4afqipzts.jpg)
+![](/Asserts/Images/album/202207/22/203212pp88sat4afqipzts.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/22/203226ljw5k3k55xjgsbgq.jpg)
+![](/Asserts/Images/album/202207/22/203226ljw5k3k55xjgsbgq.jpg)
 
 
 ### 微软商店新规禁止上架苹果的浏览器
@@ -35,7 +35,7 @@ tags:	[linuxcn,SUSE,浏览器,应用商店]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/22/203247y2b2a2b3b8bubu61.jpg)
+![](/Asserts/Images/album/202207/22/203247y2b2a2b3b8bubu61.jpg)
 
 
 ### 谷歌应用商店将恢复应用权限列表
@@ -60,7 +60,7 @@ tags:	[linuxcn,SUSE,浏览器,应用商店]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/22/203257cgrxgvgviuikrovk.jpg)
+![](/Asserts/Images/album/202207/22/203257cgrxgvgviuikrovk.jpg)
 
 
 ### SUSE 也发布了基于网页的 Linux 发行版安装程序

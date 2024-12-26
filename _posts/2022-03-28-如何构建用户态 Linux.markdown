@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/25/115607eqtmmuuiklimazqt.jpg)
+![](/Asserts/Images/album/202203/25/115607eqtmmuuiklimazqt.jpg)
 
 
 “用户态 Linux” 是什么？它是一种可以在用户态运行的 Linux 内核。（用户态是什么，这里就不解释了）
@@ -191,7 +191,7 @@ $ screen ./vmlinux mem=1G root=/dev/root rootfstype=hostfs hostfs=./rootfs  con=
 
 ```
 
-![](/Asserts/Images//attachment/album/202203/25/115830idpxpqxr5hqddnqu.png)
+![](/Asserts/Images/album/202203/25/115830idpxpqxr5hqddnqu.png)
 
 
 启动后，使用你前面设置的 root 用户/密码登录，便可以进入到用户态 Linux 容器中了。

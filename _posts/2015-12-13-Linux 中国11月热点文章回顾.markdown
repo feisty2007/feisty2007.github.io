@@ -7,7 +7,7 @@ tags:	[linuxcn,文章]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/04/120912efll2clstgcgtsxu.jpg)
+![](/Asserts/Images/album/201512/04/120912efll2clstgcgtsxu.jpg)
 
 
 也许您太忙了，也许您已经被信息洪流冲刷的不能自已，所以为了节约您的时间，我们只推荐您看看上个月最热的五条文章。
@@ -30,7 +30,7 @@ tags:	[linuxcn,文章]
 > 
 
 
-[![长按图片访问文章](/Asserts/Images//attachment/album/201512/04/113424zca611jlbpjpmb0j.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400231540&idx=1&sn=e2a5313afa4e7a51f2337cc15c1adee2#rd)
+[![长按图片访问文章](/Asserts/Images/album/201512/04/113424zca611jlbpjpmb0j.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400231540&idx=1&sn=e2a5313afa4e7a51f2337cc15c1adee2#rd)
 
 
 ### [一起来说 Vim 语](/article-6610-1.html)
@@ -44,7 +44,7 @@ tags:	[linuxcn,文章]
 > 
 
 
-[![长按图片访问文章](/Asserts/Images//attachment/album/201512/04/113641ul17h2e52le2j7bl.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400417833&idx=1&sn=1b993f325270b3f3ebff2894df0a73e6#rd)
+[![长按图片访问文章](/Asserts/Images/album/201512/04/113641ul17h2e52le2j7bl.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400417833&idx=1&sn=1b993f325270b3f3ebff2894df0a73e6#rd)
 
 
  
@@ -61,7 +61,7 @@ tags:	[linuxcn,文章]
 > 
 
 
-[![长按图片访问文章](/Asserts/Images//attachment/album/201512/04/113955s85p53w4n1wk3p85.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400403306&idx=1&sn=b9b21836deaf637e71ae74377f16e4eb#rd) 
+[![长按图片访问文章](/Asserts/Images/album/201512/04/113955s85p53w4n1wk3p85.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400403306&idx=1&sn=b9b21836deaf637e71ae74377f16e4eb#rd) 
 
 
  
@@ -84,7 +84,7 @@ tags:	[linuxcn,文章]
 > 
 
 
-[![长按图片关注文章](/Asserts/Images//attachment/album/201512/04/114401l3zj4d925m4dwi3u.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400454802&idx=1&sn=7f4c37f4186dd2a03cf6ad4c5cdcc8d8#rd)
+[![长按图片关注文章](/Asserts/Images/album/201512/04/114401l3zj4d925m4dwi3u.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400454802&idx=1&sn=7f4c37f4186dd2a03cf6ad4c5cdcc8d8#rd)
 
 
  
@@ -104,4 +104,4 @@ tags:	[linuxcn,文章]
 > 
 
 
- [![长按图片访问文章](/Asserts/Images//attachment/album/201512/04/114733icchbgypg9e99vfc.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400328002&idx=1&sn=253deb5b3566fc4a62d249cc3edcbb90#rd)
+ [![长按图片访问文章](/Asserts/Images/album/201512/04/114733icchbgypg9e99vfc.png)](http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=400328002&idx=1&sn=253deb5b3566fc4a62d249cc3edcbb90#rd)

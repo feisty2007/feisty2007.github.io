@@ -7,7 +7,7 @@ tags:	[linuxcn,显示服务器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/06/213037z34ijwij9awa9a9w.png)
+![](/Asserts/Images/album/202009/06/213037z34ijwij9awa9a9w.png)
 
 
 在 Linux 相关的文章、新闻和讨论中，你会经常遇到<ruby> 显示服务器 <rt>  display server </rt></ruby>、Xorg、Wayland 等名词。
@@ -46,7 +46,7 @@ Linux 中有三种显示服务器协议，分别是 X11、Wayland 和 Mir。下�
 X11（也称 X）是已经存在多年的传统显示服务器。它是 Linux 发行版中最常用的显示服务器。
 
 
-![X 架构](/Asserts/Images//attachment/album/202009/06/213004juquhr5on5shqa99.png)
+![X 架构](/Asserts/Images/album/202009/06/213004juquhr5on5shqa99.png)
 
 
 X11 通信协议，使用显示服务器 [X.org 服务器](https://en.wikipedia.org/wiki/X.Org_Server)。它接收来自[设备驱动程序](https://en.wikipedia.org/wiki/Device_driver)的输入事件，并将它们提供给它的一个客户端。
@@ -79,7 +79,7 @@ X11 通信协议，使用显示服务器 [X.org 服务器](https://en.wikipedia.
 即使在今天，绝大多数的发行版都默认使用 X 显示服务器。
 
 
-![Wayland 架构](/Asserts/Images//attachment/album/202009/06/213004esi0seimli1mheo0.png)
+![Wayland 架构](/Asserts/Images/album/202009/06/213004esi0seimli1mheo0.png)
 
 
 实施 Wayland 显示服务器协议的显示服务器，被称为 [Wayland 合成器](https://en.wikipedia.org/wiki/Wayland_compositor)。和 X11 上的一样，Wayland 合成器负责处理其客户端的输入和输出，但同时也进行[合成](https://en.wikipedia.org/wiki/Compositing)，这与 X11 相反。

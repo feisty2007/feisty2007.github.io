@@ -15,7 +15,7 @@ tags:	[linuxcn,磁盘,LVM]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/27/132443nlyyrr9fyydqqrf2.jpg)
+![](/Asserts/Images/album/201903/27/132443nlyyrr9fyydqqrf2.jpg)
 
 
 本文将向你介绍在 Linux 机器中添加新磁盘的步骤。将原始磁盘添加到 Linux 机器可能非常依赖于你所拥有的服务器类型，但是一旦将磁盘提供给机器，将其添加到挂载点的过程几乎相同。
@@ -124,15 +124,15 @@ Writing superblocks and filesystem accounting information: done
 ### 在挂载点上从新磁盘挂载卷
 
 
-使用 `mount` 命令，在 `/Asserts/Images/` 安装点上安装已创建并格式化的 5GB 逻辑卷。
+使用 `mount` 命令，在 `/data` 安装点上安装已创建并格式化的 5GB 逻辑卷。
 
 
 
 ```
-[root@kerneltalks ~]# mount /dev/vgdata/lvdata /Asserts/Images/
-[root@kerneltalks ~]# df -Ph /Asserts/Images/
+[root@kerneltalks ~]# mount /dev/vgdata/lvdata /data
+[root@kerneltalks ~]# df -Ph /data
 Filesystem                 Size  Used Avail Use% Mounted on
-/dev/mapper/vgdata-lvdata  4.8G   20M  4.6G   1% /Asserts/Images/
+/dev/mapper/vgdata-lvdata  4.8G   20M  4.6G   1% /data
 ```
 
 使用 `df` 命令验证挂载点。如上所述，你都完成了！你可以在 [/etc/fstab](https://kerneltalks.com/config/understanding-etcfstab-file/) 中添加一个条目，以便在重新启动时保持此装载。

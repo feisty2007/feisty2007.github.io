@@ -10,7 +10,7 @@ tags:	[linuxcn,VMWare]
 作为一名系统管理员，我经常需要用额外的硬盘来扩充存储空间或将系统数据从用户数据中分离出来。我将告诉你在将物理块设备加到虚拟主机的这个过程中，如何将一个主机上的硬盘加到一台使用 VMWare 软件虚拟化的 Linux 客户机上。
 
 
-![](/Asserts/Images//attachment/album/201801/13/122029lsgsdnzy9fsadani.jpg)
+![](/Asserts/Images/album/201801/13/122029lsgsdnzy9fsadani.jpg)
 
 
 你可以显式的添加或删除一个 SCSI 设备，或者重新扫描整个 SCSI 总线而不用重启 Linux 虚拟机。本指南在 Vmware Server 和 Vmware Workstation v6.0 中通过测试（更老版本应该也支持）。所有命令在 RHEL、Fedora、CentOS 和 Ubuntu Linux 客户机 / 主机操作系统下都经过了测试。
@@ -22,7 +22,7 @@ tags:	[linuxcn,VMWare]
 首先，通过 vmware 硬件设置菜单添加硬盘。点击 “VM > Settings”
 
 
-![Fig.01：Vmware Virtual Machine Settings ](/Asserts/Images//attachment/album/201801/13/122035dmz16c9xw7zq5pop.png "Vmware Virtual Machine Settings ")
+![Fig.01：Vmware Virtual Machine Settings ](/Asserts/Images/album/201801/13/122035dmz16c9xw7zq5pop.png "Vmware Virtual Machine Settings ")
 
 
 或者你也可以按下 `CTRL + D` 也能进入设置对话框。
@@ -31,31 +31,31 @@ tags:	[linuxcn,VMWare]
 点击 “Add” 添加新硬盘到客户机：
 
 
-![Fig.02：VMWare adding a new hardware](/Asserts/Images//attachment/album/201801/13/122036hqxxqf7bpdzdmtlq.png "VMWare adding a new hardware")
+![Fig.02：VMWare adding a new hardware](/Asserts/Images/album/201801/13/122036hqxxqf7bpdzdmtlq.png "VMWare adding a new hardware")
 
 
 选择硬件类型为“Hard disk”然后点击 “Next”：
 
 
-![Fig.03 VMware Adding a new disk wizard ](/Asserts/Images//attachment/album/201801/13/122036syhd15qkadidm3vf.png "VMware Adding a new disk wizard ")
+![Fig.03 VMware Adding a new disk wizard ](/Asserts/Images/album/201801/13/122036syhd15qkadidm3vf.png "VMware Adding a new disk wizard ")
 
 
 选择 “create a new virtual disk” 然后点击 “Next”：
 
 
-![Fig.04：Vmware Wizard Disk ](/Asserts/Images//attachment/album/201801/13/122037rhmzlwp8mzh3pctp.png "Vmware Wizard Disk ")
+![Fig.04：Vmware Wizard Disk ](/Asserts/Images/album/201801/13/122037rhmzlwp8mzh3pctp.png "Vmware Wizard Disk ")
 
 
 设置虚拟磁盘类型为 “SCSI” ，然后点击 “Next”：
 
 
-![Fig.05：Vmware Virtual Disk](/Asserts/Images//attachment/album/201801/13/122038vhihh9n4zxjhj7i9.png "Vmware Virtual Disk")
+![Fig.05：Vmware Virtual Disk](/Asserts/Images/album/201801/13/122038vhihh9n4zxjhj7i9.png "Vmware Virtual Disk")
 
 
 按需要设置最大磁盘大小，然后点击 “Next”
 
 
-![Fig.06：Finalizing Disk Virtual Addition ](/Asserts/Images//attachment/album/201801/13/122039rjp1pgef9mrrqxoz.png "Finalizing Disk Virtual Addition")
+![Fig.06：Finalizing Disk Virtual Addition ](/Asserts/Images/album/201801/13/122039rjp1pgef9mrrqxoz.png "Finalizing Disk Virtual Addition")
 
 
 最后，选择文件存放位置然后点击 “Finish”。
@@ -78,7 +78,7 @@ tail -f /var/log/message
 输出为：
 
 
-![Linux Vmware Rescan New Scsi Disk Without Reboot](/Asserts/Images//attachment/album/201801/13/122039n8dmdsdt341k4ba7.png "Linux Vmware Rescan New Scsi Disk Without Reboot")
+![Linux Vmware Rescan New Scsi Disk Without Reboot](/Asserts/Images/album/201801/13/122039n8dmdsdt341k4ba7.png "Linux Vmware Rescan New Scsi Disk Without Reboot")
 
 
 你需要将 `host#` 替换成真实的值，比如 `host0`。你可以通过下面命令来查出这个值：

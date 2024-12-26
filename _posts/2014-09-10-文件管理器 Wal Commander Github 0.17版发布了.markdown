@@ -7,7 +7,7 @@ tags:	[linuxcn,Wal Commander,文件管理器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201409/28/093930n72blaew5wwoz99r.png)
+![](/Asserts/Images/album/201409/28/093930n72blaew5wwoz99r.png)
 
 
 

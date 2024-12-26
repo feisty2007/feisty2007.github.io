@@ -7,7 +7,7 @@ tags:	[linuxcn,LLUG]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/17/165303gilg8g57gijm1rj8.jpg)
+![](/Asserts/Images/album/202310/17/165303gilg8g57gijm1rj8.jpg)
 
 
 社群里呼声很高的天府之国，它来了！
@@ -27,13 +27,13 @@ tags:	[linuxcn,LLUG]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/17/164007xc6eo9rhe46hhtrh.jpg)
+![](/Asserts/Images/album/202310/17/164007xc6eo9rhe46hhtrh.jpg)
 
 
 *深圳场现场照片*
 
 
-![](/Asserts/Images//attachment/album/202310/17/164030ndjcrdiudcm9oovx.jpg)
+![](/Asserts/Images/album/202310/17/164030ndjcrdiudcm9oovx.jpg)
 
 
 *上海场现场照片*
@@ -48,7 +48,7 @@ tags:	[linuxcn,LLUG]
 闪电演讲则不设定主题，每个人有 5 分钟时间来分享自己与 Linux、技术、开源有关的话题，共计 6 个闪电演讲名额，想要试试锻炼自己的演讲能力，不妨从闪电演讲开始。
 
 
-![](/Asserts/Images//attachment/album/202310/17/164149tn6kwvmkz16uokkn.png)
+![](/Asserts/Images/album/202310/17/164149tn6kwvmkz16uokkn.png)
 
 
 如果你对分享感兴趣，欢迎填写下方问卷来提交你的议题：

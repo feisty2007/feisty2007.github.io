@@ -7,7 +7,7 @@ tags:	[linuxcn,Koodo,电子书阅读器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/06/200116wwgeawub7ge0tard.jpg)
+![](/Asserts/Images/album/202208/06/200116wwgeawub7ge0tard.jpg)
 
 
 有几个可供桌面 Linux 用户使用的 [电子书阅读器](https://itsfoss.com/best-ebook-readers-linux/)。
@@ -31,13 +31,13 @@ tags:	[linuxcn,Koodo,电子书阅读器]
 它的用户界面看起来很现代，可能是因为它是一个 Electron 应用。你必须导入书籍并将它们添加到 Koodo。它不按文件夹导入书籍。不过，你可以选择多个文件进行导入。书太多了？可以将一些添加到你的收藏夹以便快速访问。
 
 
-![Koodo ebook reader interface](/Asserts/Images//attachment/album/202208/06/200248bmigmiq6c96x6wlp.jpg)
+![Koodo ebook reader interface](/Asserts/Images/album/202208/06/200248bmigmiq6c96x6wlp.jpg)
 
 
 我使用了 AppImage 格式的软件包，但由于未知原因，它没有显示文件的缩略图。
 
 
-![Koodo ebook reader dark mode interface](/Asserts/Images//attachment/album/202208/06/200118i4kg1xhhh3ll8pvl.png)
+![Koodo ebook reader dark mode interface](/Asserts/Images/album/202208/06/200118i4kg1xhhh3ll8pvl.png)
 
 
 它支持流行的电子书文件格式，如 PDF、Mobi 和 Epub。但不止这些，它还支持 CBR、CBZ 和 CBT 等漫画书格式，它还支持更多。它还可以阅读 FictionBooks（.fb2）、Markdown 和富文本格式（RTF）以及微软 Office Word 文档（.docx）。
@@ -49,7 +49,7 @@ tags:	[linuxcn,Koodo,电子书阅读器]
 你可以高亮显示文本并使用文本注释对其进行注释。你还可以在当前文档或谷歌上搜索选定的文本。
 
 
-![Annotate, highlight or translate selected text](/Asserts/Images//attachment/album/202208/06/200304ana62pv1mcsak6g7.jpg)
+![Annotate, highlight or translate selected text](/Asserts/Images/album/202208/06/200304ana62pv1mcsak6g7.jpg)
 
 
 你可以从主应用窗口的侧边栏中访问高亮显示的文本和注释。
@@ -64,7 +64,7 @@ Koodo 支持各种布局。你可以以单列、双列或连续滚动布局阅�
 你可以根据自己的喜好自定义 UI。更改字体、大小、段落间距、文本颜色、背景颜色、行间距、亮度等。
 
 
-![koodo additional features](/Asserts/Images//attachment/album/202208/06/200327qp4pai5sjp6pwfth.jpg)
+![koodo additional features](/Asserts/Images/album/202208/06/200327qp4pai5sjp6pwfth.jpg)
 
 
 Koodo 支持夜间阅读模式以及五个不同的主题。你可以根据自己的喜好在主题之间切换。
@@ -73,7 +73,7 @@ Koodo 支持夜间阅读模式以及五个不同的主题。你可以根据自�
 你还可以使用 Dropbox 或其他支持 Webdav 协议的 [云服务](https://itsfoss.com/cloud-services-linux/) 跨设备同步你的书籍和阅读数据（如高亮、笔记等）。
 
 
-![You can backup your data in your preferred cloud service](/Asserts/Images//attachment/album/202208/06/200119l89m864mv7xgxsbs.png)
+![You can backup your data in your preferred cloud service](/Asserts/Images/album/202208/06/200119l89m864mv7xgxsbs.png)
 
 
 ### 在 Linux 上获取 Koodo

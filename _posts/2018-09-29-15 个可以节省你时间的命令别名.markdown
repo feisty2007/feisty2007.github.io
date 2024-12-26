@@ -15,7 +15,7 @@ tags:	[linuxcn,别名,alias]
 > 
 
 
-![](/Asserts/Images//attachment/album/201809/15/231004r0e3uicruclm3eiu.jpg)
+![](/Asserts/Images/album/201809/15/231004r0e3uicruclm3eiu.jpg)
 
 
 Linux 命令行别名非常适合帮助你提高工作效率。更好的是，在你安装的 Linux 发行版中默认就包含了一些别名。
@@ -24,7 +24,7 @@ Linux 命令行别名非常适合帮助你提高工作效率。更好的是，�
 这是 Fedora 27 中的命令别名的示例：
 
 
-![](/Asserts/Images//attachment/album/201809/15/231019j77bgriggxpipii0.png)
+![](/Asserts/Images/album/201809/15/231019j77bgriggxpipii0.png)
 
 
 这个 `alias` 命令列出了已有的别名。设置别名也十分简单：
@@ -49,7 +49,7 @@ alias install="sudo yum install -y"
 在这里，根据每个用户的偏好，`sudo` 和 `-y` 是可选的：
 
 
-![install alias.png](/Asserts/Images//attachment/album/201809/15/231028vyb0lrit7yiz5247.png "install alias.png")
+![install alias.png](/Asserts/Images/album/201809/15/231028vyb0lrit7yiz5247.png "install alias.png")
 
 
 2、更新系统：
@@ -132,7 +132,7 @@ alias srestart="sudo systemctl restart"
 alias kill="sudo pkill"
 ```
 
-![kill process alias.png](/Asserts/Images//attachment/album/201809/15/231043ykhpeknro9kr7kn1.png "kill process alias.png")
+![kill process alias.png](/Asserts/Images/album/201809/15/231043ykhpeknro9kr7kn1.png "kill process alias.png")
 
 
 12、显示系统系统总使用内存和空闲内存 ：
@@ -167,7 +167,7 @@ alias disk="df -h"
 alias os="cat /etc/redhat-release"
 ```
 
-![system_details alias.png](/Asserts/Images//attachment/album/201809/15/231052uh0vvui5bhy78bw7.png "system_details alias.png")
+![system_details alias.png](/Asserts/Images/album/201809/15/231052uh0vvui5bhy78bw7.png "system_details alias.png")
 
 
 

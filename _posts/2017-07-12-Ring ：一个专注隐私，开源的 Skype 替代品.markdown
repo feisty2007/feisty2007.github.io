@@ -7,7 +7,7 @@ tags:	[linuxcn,Skype]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/07/113044imguplph6afnpnmc.png)
+![](/Asserts/Images/album/201707/07/113044imguplph6afnpnmc.png)
 
 
 **如果你对 Linux 上的 Skype 进度不满意，或者对即将[换代的、旧的（但是优秀的）Qt Skype 客户端](/article-7606-1.html)感到不快，这有一个 GNU 替代品叫 Ring。**

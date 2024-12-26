@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行,powerline,状态行]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/29/113131dqpqahdfjm9o8hq8.png)
+![](/Asserts/Images/album/201706/29/113131dqpqahdfjm9o8hq8.png)
 
 
 [Powerline](https://github.com/powerline/powerline) 是 vim、zsh、bash、tmux、IPython、Awesome、bar、fish、lemonbar、pdb、rc、shell、tcsh、wm、i3 和 Qtil 中的一个状态栏插件。它给程序提供了状态栏，并使程序更好看。它用 Python 写成。
@@ -135,7 +135,7 @@ $ source ~/.bashrc
 
 ```
 
-![](/Asserts/Images//attachment/album/201706/29/113139gwj5jastckk65emo.png)
+![](/Asserts/Images/album/201706/29/113139gwj5jastckk65emo.png)
 
 
 ### 在 tmux 中添加/启用 Powerline
@@ -152,7 +152,7 @@ source "/usr/local/lib/python2.7/site-packages/powerline/bindings/tmux/powerline
 
 ```
 
-![](/Asserts/Images//attachment/album/201706/29/113141ionppiipino8pjsi.png)
+![](/Asserts/Images/album/201706/29/113141ionppiipino8pjsi.png)
 
 
 ### 在 Vim 中添加/启用 Powerline
@@ -171,10 +171,10 @@ set t_Co=256
 
 ```
 
-![](/Asserts/Images//attachment/album/201706/29/113142uurqtxxwtgax2ci8.png)
+![](/Asserts/Images/album/201706/29/113142uurqtxxwtgax2ci8.png)
 
 
-![](/Asserts/Images//attachment/album/201706/29/113144hl7qy5jsqnv7y9yl.png)
+![](/Asserts/Images/album/201706/29/113144hl7qy5jsqnv7y9yl.png)
 
 
 

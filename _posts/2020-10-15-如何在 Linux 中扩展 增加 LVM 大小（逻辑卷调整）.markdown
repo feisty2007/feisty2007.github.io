@@ -7,7 +7,7 @@ tags:	[linuxcn,LVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/01/234018qgnwilmmzom8xarb.jpg)
+![](/Asserts/Images/album/202010/01/234018qgnwilmmzom8xarb.jpg)
 
 
 扩展逻辑卷非常简单，只需要很少的步骤，而且不需要卸载某个逻辑卷就可以在线完成。
@@ -22,7 +22,7 @@ LVM 的主要目的是灵活的磁盘管理，当你需要的时候，可以很�
 * **第一部分：[如何在 Linux 中创建/配置 LVM（逻辑卷管理）](/article-12670-1.html)**
 
 
-![](/Asserts/Images//attachment/album/202010/01/233946ybwbnw4zanjbn00e.jpeg)
+![](/Asserts/Images/album/202010/01/233946ybwbnw4zanjbn00e.jpeg)
 
 
 扩展逻辑卷涉及到以下步骤：

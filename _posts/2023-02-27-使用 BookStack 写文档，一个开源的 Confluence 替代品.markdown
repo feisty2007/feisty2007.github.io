@@ -7,7 +7,7 @@ tags:	[linuxcn,知识库]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/04/180856n7ql7p8fk7l9fa9n.jpg)
+![](/Asserts/Images/album/202302/04/180856n7ql7p8fk7l9fa9n.jpg)
 
 
 

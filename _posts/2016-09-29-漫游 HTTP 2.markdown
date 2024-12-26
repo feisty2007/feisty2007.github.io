@@ -16,7 +16,7 @@ tags:	[linuxcn,HTTP,HTTP/2,Web]
 在这篇文章中，我将讨论什么是 HTTP，它是怎么产生的，它的地位，以及我们应该怎么使用它。
 
 
-![](/Asserts/Images//attachment/album/201609/26/222048f4rt4osg22zo4244.png)
+![](/Asserts/Images/album/201609/26/222048f4rt4osg22zo4244.png)
 
 
 ### HTTP 是什么
@@ -122,7 +122,7 @@ Server: Apache 0.84
 一旦三次握手完成后，客户端和服务器之间就可以开始交换数据。值得注意的是，当客户端发出最后一个 `ACK` 数据包后，就可以立刻向服务器发送应用数据包，而服务器则需要等到收到这个 `ACK` 数据包后才能接受应用数据包。
 
 
-![](/Asserts/Images//attachment/album/201609/26/222100onevjbe0v1xlev4a.png)
+![](/Asserts/Images/album/201609/26/222100onevjbe0v1xlev4a.png)
 
 
 
@@ -163,7 +163,7 @@ Server: Apache 0.84
 * 等等。
 
 
-我不打算在这里讨论所有 `HTTP/1.1` 的特性，因为你可以围绕这个话题找到很多关于这些的讨论。我建议你阅读 [`HTTP/1.0` 和 `HTTP/1.1` 版本之间的主要差异](http://www.ra.ethz.ch/cdstore/www8/Asserts/Images//2136/pdf/pd1.pdf)，希望了解更多可以读[原始的 RFC](https://tools.ietf.org/html/rfc2616)。
+我不打算在这里讨论所有 `HTTP/1.1` 的特性，因为你可以围绕这个话题找到很多关于这些的讨论。我建议你阅读 [`HTTP/1.0` 和 `HTTP/1.1` 版本之间的主要差异](http://www.ra.ethz.ch/cdstore/www8/data/2136/pdf/pd1.pdf)，希望了解更多可以读[原始的 RFC](https://tools.ietf.org/html/rfc2616)。
 
 
 `HTTP/1.1` 在 1999 年推出，到现在已经是多年前的标准。虽然，它比前一代改善了很多，但是网络日新月异，它已经垂垂老矣。相比之前，加载网页更是一个资源密集型任务，打开一个简单的网页已经需要建立超过 30 个连接。你或许会说，`HTTP/1.1` 具有持久连接，为什么还有这么多连接呢？其原因是，在任何时刻 `HTTP/1.1` 只能有一个未完成的连接。 `HTTP/1.1` 试图通过引入管线来解决这个问题，但它并没有完全地解决。因为一旦管线遇到了缓慢的请求或庞大的请求，后面的请求便被阻塞住，它们必须等待上一个请求完成。为了克服 `HTTP/1.1` 的这些缺点，开发人员开始实现一些解决方法，例如使用 spritesheets、在 CSS 中编码图像、单个巨型 CSS / JavaScript 文件、[域名切分](https://www.maxcdn.com/one/visual-glossary/domain-sharding-2/)等。
@@ -217,7 +217,7 @@ Server: Apache 0.84
 * 安全性
 
 
-![](/Asserts/Images//attachment/album/201609/26/222101jfrcxjyrbmeumxfd.png)
+![](/Asserts/Images/album/201609/26/222101jfrcxjyrbmeumxfd.png)
 
 
 #### 1. 二进制协议
@@ -250,7 +250,7 @@ Server: Apache 0.84
 RFC 花了一篇文档的篇幅来介绍针对发送的头信息的优化，它的本质是当我们在同一客户端上不断地访问服务器时，许多冗余数据在头部中被反复发送，有时候仅仅是 cookies 就能增加头信息的大小，这会占用许多宽带和增加传输延迟。为了解决这个问题，`HTTP/2` 引入了头信息压缩。
 
 
-![](/Asserts/Images//attachment/album/201609/26/222101he6zaua8bz3b085g.png)
+![](/Asserts/Images/album/201609/26/222101he6zaua8bz3b085g.png)
 
 
 不像请求和响应那样，头信息中的信息不会以 `gzip` 或者 `compress` 等格式压缩。而是采用一种不同的机制来压缩头信息，客户端和服务器同时维护一张头信息表，储存了使用了哈夫曼编码进行编码后的头信息的值，并且后续请求中若出现同样的字段则忽略重复值（例如<ruby> 用户代理 <rp>  （ </rp> <rt>  user agent </rt> <rp>  ） </rp></ruby>等），只发送存在两边信息表中它的引用即可。

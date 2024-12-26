@@ -7,10 +7,10 @@ tags:	[linuxcn,历史,超算,3D 打印]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/12/172338hnvskay8koxa8nys.jpg)
+![](/Asserts/Images/album/202206/12/172338hnvskay8koxa8nys.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/12/172344pof5c0rcmafc242c.jpg)
+![](/Asserts/Images/album/202206/12/172344pof5c0rcmafc242c.jpg)
 
 
 ### 计算机历史博物馆恢复了 21 部 1976 年传奇性计算机会议的视频
@@ -35,7 +35,7 @@ tags:	[linuxcn,历史,超算,3D 打印]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/12/172355floxuxf5uh2o775f.jpg)
+![](/Asserts/Images/album/202206/12/172355floxuxf5uh2o775f.jpg)
 
 
 ### 秘密运行中的世界上最强大的超级计算机
@@ -60,7 +60,7 @@ tags:	[linuxcn,历史,超算,3D 打印]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/12/172414izet7yv7zhlzhyyt.jpg)
+![](/Asserts/Images/album/202206/12/172414izet7yv7zhlzhyyt.jpg)
 
 
 ### 通用汽车用 3D 打印来解决汽车生产短缺的零件

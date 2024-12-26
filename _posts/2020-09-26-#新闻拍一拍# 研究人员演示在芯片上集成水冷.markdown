@@ -7,7 +7,7 @@ tags:	[linuxcn,芯片,谷歌,鸿蒙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/11/090834v3kga3g542hrcmrg.jpg)
+![](/Asserts/Images/album/202009/11/090834v3kga3g542hrcmrg.jpg)
 
 
 #### 研究人员演示在芯片上集成水冷

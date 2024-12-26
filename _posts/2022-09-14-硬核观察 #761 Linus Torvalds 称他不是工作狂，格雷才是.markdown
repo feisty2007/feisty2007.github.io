@@ -7,10 +7,10 @@ tags:	[linuxcn,Linus Torvalds,以太坊,Nginx]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/16/160951t8sh7es9eehf3hb9.jpg)
+![](/Asserts/Images/album/202209/16/160951t8sh7es9eehf3hb9.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/16/160959cuwb9ni9r9lszzn9.jpg)
+![](/Asserts/Images/album/202209/16/160959cuwb9ni9r9lszzn9.jpg)
 
 
 ### Linus Torvalds 称他不是工作狂，格雷才是
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linus Torvalds,以太坊,Nginx]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/16/161017jq7bpbqqb7r1t77v.jpg)
+![](/Asserts/Images/album/202209/16/161017jq7bpbqqb7r1t77v.jpg)
 
 
 ### 以太坊合并完成，为全球电力节省了 0.2%
@@ -60,7 +60,7 @@ tags:	[linuxcn,Linus Torvalds,以太坊,Nginx]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/16/161033t108i8t08tcmfikl.jpg)
+![](/Asserts/Images/album/202209/16/161033t108i8t08tcmfikl.jpg)
 
 
 ### Cloudflare 放弃 Nginx 代理服务器

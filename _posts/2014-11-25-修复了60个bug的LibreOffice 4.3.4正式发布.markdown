@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/201411/22/220040gdc4pocpcuit86ti.png)
+![](/Asserts/Images/album/201411/22/220040gdc4pocpcuit86ti.png)
 
 
 **[前一段时间](http://www.omgubuntu.co.uk/2014/10/libreoffice-4-3-3-released-62-bug-fixes), 文档基金会带着它的开源LibreOffice生产力套件的又一个小版本更新回来了。**
@@ -44,7 +44,7 @@ LibreOffice 4.3.4，新系列中的第四个次版本，该版本只包含 BUG �
 ### 预测一下LibreOffice 4.4
 
 
-![Info bar coming in LibreOffice 4.4](/Asserts/Images//attachment/album/201411/22/220041a625jmjwws6h455b.jpg)
+![Info bar coming in LibreOffice 4.4](/Asserts/Images/album/201411/22/220041a625jmjwws6h455b.jpg)
 
 
 *来自LibreOffice 4.4的信息栏*

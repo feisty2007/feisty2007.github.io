@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch,PKGBUILD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/02/130702ybexb5tsvkx1xbs1.jpg)
+![](/Asserts/Images/album/202110/02/130702ybexb5tsvkx1xbs1.jpg)
 
 
 `PKGBUILD` 文件是为 Arch Linux 及其衍生版（如 Manjaro）构建和创建软件包的方式。
@@ -31,13 +31,13 @@ tags:	[linuxcn,Arch,PKGBUILD]
 为了从 `PKGBUILD` 中创建一个软件包，需要使用 `makepkg` 命令行工具。在获得 `PKGBUILD` 文件后，你只需在包含 `PKGBUILD` 的目录中运行 `makepkg'，就可以得到一个可安装的软件包了。
 
 
-![](/Asserts/Images//attachment/album/202110/02/130710nhaxurp2c6zrrfsr.png)
+![](/Asserts/Images/album/202110/02/130710nhaxurp2c6zrrfsr.png)
 
 
 在本教程中，你将会看到我刚刚制作的软件包，它在运行时打印出 “Hello World!”。
 
 
-![](/Asserts/Images//attachment/album/202110/02/130711ge1fjv3fh72cfl29.png)
+![](/Asserts/Images/album/202110/02/130711ge1fjv3fh72cfl29.png)
 
 
 ### 准备
@@ -64,7 +64,7 @@ touch PKGBUILD hello-world.sh
 你可以用 `ls` 命令检查这些文件是否被创建。
 
 
-![](/Asserts/Images//attachment/album/202110/02/130712dxqn3hb8tkkrftyc.png)
+![](/Asserts/Images/album/202110/02/130712dxqn3hb8tkkrftyc.png)
 
 
 然后你就可以开始了！
@@ -326,7 +326,7 @@ package() {
 然后就完成了！用 `makepkg -si` 构建和安装软件包，然后在终端运行 `hello-world`，查看其输出。
 
 
-![](/Asserts/Images//attachment/album/202110/02/130714d08gygeexx2euoxz.png)
+![](/Asserts/Images/album/202110/02/130714d08gygeexx2euoxz.png)
 
 
 ### 总结

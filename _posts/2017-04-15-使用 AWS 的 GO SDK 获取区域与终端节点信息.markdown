@@ -13,7 +13,7 @@ LCTT 译注： <ruby> 终端节点 <rp>  （ </rp> <rt>  Endpoint </rt> <rp>  �
 最新发布的 GO 的 SDK [v1.6.0](https://github.com/aws/aws-sdk-go/releases/tag/v1.6.0) 版本，加入了获取区域与终端节点信息的功能。它可以很方便地列出区域、服务和终端节点的相关信息。可以通过 [github.com/aws/aws-sdk-go/aws/endpoints](http://docs.aws.amazon.com/sdk-for-go/api/aws/endpoints/) 包使用这些功能。
 
 
-![](/Asserts/Images//attachment/album/201704/15/162013lycy36ond8py6yzz.jpg)
+![](/Asserts/Images/album/201704/15/162013lycy36ond8py6yzz.jpg)
 
 
 endpoints 包提供了一个易用的接口，可以获取到一个服务的终端节点的 url 列表和区域列表信息。并且我们将相关信息根据 AWS 服务区域进行了分组，如 AWS 标准、AWS 中国和 AWS GovCloud（美国）。

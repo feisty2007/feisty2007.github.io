@@ -7,7 +7,7 @@ tags:	[linuxcn,调试,Mtrace,Dmalloc,Memwatch,Electric Fence,gdb]
 ---
 
 
-![](/Asserts/Images//attachment/album/201605/18/094209j2djdcataqiri0cz.jpg)
+![](/Asserts/Images/album/201605/18/094209j2djdcataqiri0cz.jpg)
 
 
 
@@ -45,7 +45,7 @@ tags:	[linuxcn,调试,Mtrace,Dmalloc,Memwatch,Electric Fence,gdb]
 Dmalloc 是 Gray Watson 开发的一款内存调试工具。它是作为库来实现的，封装了标准内存管理函数如`malloc()` , `calloc()` , `free()`等，使程序员得以检测出有问题的代码。
 
 
-![cw dmalloc output](/Asserts/Images//attachment/album/201605/18/094214qz6e686z61u4689t.png)
+![cw dmalloc output](/Asserts/Images/album/201605/18/094214qz6e686z61u4689t.png)
 
 
 *Dmalloc*
@@ -111,7 +111,7 @@ Dmalloc 真正的优势在于它的可配置选项。而且高度可移植，曾
 Electric Fence 是 Bruce Perens 开发的一款内存调试工具，它以库的形式实现，你的程序需要链接它。Electric Fence 能检测出[堆](https://en.wikipedia.org/wiki/Memory_management#Dynamic_memory_allocation)内存溢出和访问已经释放的内存。
 
 
-![cw electric fence output](/Asserts/Images//attachment/album/201605/18/094218u1992euhe2wuwh8c.png)
+![cw electric fence output](/Asserts/Images/album/201605/18/094218u1992euhe2wuwh8c.png)
 
 
 *Electric Fence*
@@ -192,7 +192,7 @@ Memcheck ，一款内存错误检测器，是其中最受欢迎的工具。它�
 同其它所有 Valgrind 工具一样， Memcheck 也是命令行程序。它的操作非常简单：通常我们会使用诸如 `prog arg1 arg2` 格式的命令来运行程序，而 Memcheck 只要求你多加几个值即可，如 `valgrind --leak-check=full prog arg1 arg2` 。
 
 
-![cw memcheck output](/Asserts/Images//attachment/album/201605/18/094223vcxutc60jdzdcmkz.png)
+![cw memcheck output](/Asserts/Images/album/201605/18/094223vcxutc60jdzdcmkz.png)
 
 
 *Memcheck*
@@ -270,7 +270,7 @@ Memwatch 支持用 C 语言所编写的程序。也可以在 C++ 程序中使用
 跟 Dmalloc 一样， Memwatch 也有优秀的文档资料。参考 USING 文件，可以学习如何使用 Memwatch ，可以了解 Memwatch 是如何初始化、如何清理以及如何进行 I/O 操作，等等。还有一个 FAQ 文件，旨在帮助用户解决使用过程遇到的一般问题。最后还有一个`test.c`文件提供工作案例参考。
 
 
-![cw memwatch output](/Asserts/Images//attachment/album/201605/18/094228hlccfflwgc7nfcwj.png)
+![cw memwatch output](/Asserts/Images/album/201605/18/094228hlccfflwgc7nfcwj.png)
 
 
 *Memwatch*
@@ -318,7 +318,7 @@ Memcheck 可以检测很多内存相关的问题，在处理 C 程序时是非�
 Mtrace 是 [GNU C 库](https://www.gnu.org/software/libc/)中的一款内存调试工具，同时支持 Linux 上的 C 和 C++ 程序，可以检测由函数`malloc()`和`free()`不匹配的调用所引起的内存泄漏问题。
 
 
-![cw mtrace output](/Asserts/Images//attachment/album/201605/18/094232y5pee9zhyrx1jf99.png)
+![cw mtrace output](/Asserts/Images/album/201605/18/094232y5pee9zhyrx1jf99.png)
 
 
 *Mtrace*

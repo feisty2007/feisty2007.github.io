@@ -7,13 +7,13 @@ tags:	[linuxcn,LVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/201411/23/115032drln323arctc7c8n.jpg)
+![](/Asserts/Images/album/201411/23/115032drln323arctc7c8n.jpg)
 
 
 逻辑卷管理有许多特性，比如像快照和精简资源调配。在先前（[第三部分](http://linux.cn/article-4145-1.html)中），我们已经介绍了如何为逻辑卷创建快照。在本文中，我们将了解如何在LVM中设置精简资源调配。
 
 
-![Setup Thin Provisioning in LVM](/Asserts/Images//attachment/album/201411/23/115034rxmcx7xohxrx17cf.jpg)
+![Setup Thin Provisioning in LVM](/Asserts/Images/album/201411/23/115034rxmcx7xohxrx17cf.jpg)
 
 
 *在LVM中设置精简资源调配*
@@ -76,7 +76,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Listing Volume Group](/Asserts/Images//attachment/album/201411/23/115036h86s6p1wms14b86m.jpg)
+![Listing Volume Group](/Asserts/Images/album/201411/23/115036h86s6p1wms14b86m.jpg)
 
 
 *列出卷组*
@@ -92,7 +92,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Check Logical Volume](/Asserts/Images//attachment/album/201411/23/115038ggdxejdt5g777mz0.jpg)
+![Check Logical Volume](/Asserts/Images/album/201411/23/115038ggdxejdt5g777mz0.jpg)
 
 
 *检查逻辑卷*
@@ -119,7 +119,7 @@ tags:	[linuxcn,LVM]
 * **vg\_thin** – 我们需要创建精简池的卷组名称
 
 
-![Create Thin Pool](/Asserts/Images//attachment/album/201411/23/115040zhv2hhvqra230sqv.jpg)
+![Create Thin Pool](/Asserts/Images/album/201411/23/115040zhv2hhvqra230sqv.jpg)
 
 
 *创建精简池*
@@ -134,7 +134,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Logical Volume Information](/Asserts/Images//attachment/album/201411/23/115042qhikzilzilk2mill.jpg)
+![Logical Volume Information](/Asserts/Images/album/201411/23/115042qhikzilzilk2mill.jpg)
 
 
 *逻辑卷信息*
@@ -164,7 +164,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![List Logical Volumes](/Asserts/Images//attachment/album/201411/23/115045lrc5itqhrcu0f0ht.jpg)
+![List Logical Volumes](/Asserts/Images/album/201411/23/115045lrc5itqhrcu0f0ht.jpg)
 
 
 *列出逻辑卷*
@@ -176,7 +176,7 @@ tags:	[linuxcn,LVM]
 好吧，让我为其它2个客户再创建2个精简卷。这里，你可以看到在精简池（**tp\_tecmint\_pool**）下有3个精简卷了。所以，从这一点上看，我们开始明白，我已经使用所有15GB的精简池。
 
 
-![Create Thin Volumes](/Asserts/Images//attachment/album/201411/23/115048t9x7q94hjiqi7hx9.jpg)
+![Create Thin Volumes](/Asserts/Images/album/201411/23/115048t9x7q94hjiqi7hx9.jpg)
 
 
 ### 创建文件系统
@@ -200,7 +200,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Creating Mount Points](/Asserts/Images//attachment/album/201411/23/115050t2pw1mcvv4ttct5m.jpg)
+![Creating Mount Points](/Asserts/Images/album/201411/23/115050t2pw1mcvv4ttct5m.jpg)
 
 
 *创建挂载点*
@@ -215,7 +215,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Create File System](/Asserts/Images//attachment/album/201411/23/115053qndij3gdm56m5gjg.jpg)
+![Create File System](/Asserts/Images/album/201411/23/115053qndij3gdm56m5gjg.jpg)
 
 
 *创建文件系统*
@@ -239,7 +239,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Print Mount Points](/Asserts/Images//attachment/album/201411/23/115057s77txmuk6t55638u.jpg)
+![Print Mount Points](/Asserts/Images/album/201411/23/115057s77txmuk6t55638u.jpg)
 
 
 *显示挂载点*
@@ -248,7 +248,7 @@ tags:	[linuxcn,LVM]
 这里，我们可以看到所有3个客户卷已经挂载了，而每个客户卷只使用了3%的数据空间。那么，让我们从桌面添加一些文件到这3个挂载点，以填充一些空间。
 
 
-![Add Files To Volumes](/Asserts/Images//attachment/album/201411/23/115100dcq244kvunnjkgbj.jpg)
+![Add Files To Volumes](/Asserts/Images/album/201411/23/115100dcq244kvunnjkgbj.jpg)
 
 
 *添加文件到卷*
@@ -264,13 +264,13 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Check Mount Point Size](/Asserts/Images//attachment/album/201411/23/115105xj2yff7nrfe1ir28.jpg)
+![Check Mount Point Size](/Asserts/Images/album/201411/23/115105xj2yff7nrfe1ir28.jpg)
 
 
 *检查挂载点大小*
 
 
-![Check Thin Pool Size](/Asserts/Images//attachment/album/201411/23/115108gmhmwwqacgmq2ws6.jpg)
+![Check Thin Pool Size](/Asserts/Images/album/201411/23/115108gmhmwwqacgmq2ws6.jpg)
 
 
 *检查精简池大小*
@@ -306,7 +306,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Create thin Storage](/Asserts/Images//attachment/album/201411/23/115111khfrffntr6fk4ufs.jpg)
+![Create thin Storage](/Asserts/Images/album/201411/23/115111khfrffntr6fk4ufs.jpg)
 
 
 *创建精简存储*
@@ -324,7 +324,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Verify Thin Storage](/Asserts/Images//attachment/album/201411/23/115114ci4o9piqioxlliiz.jpg)
+![Verify Thin Storage](/Asserts/Images/album/201411/23/115114ci4o9piqioxlliiz.jpg)
 
 
 *验证精简存储*
@@ -351,7 +351,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Extend Thin Storage](/Asserts/Images//attachment/album/201411/23/115116tx2cf7ad77m27727.jpg)
+![Extend Thin Storage](/Asserts/Images/album/201411/23/115116tx2cf7ad77m27727.jpg)
 
 
 *扩展精简存储*
@@ -366,7 +366,7 @@ tags:	[linuxcn,LVM]
 
 ```
 
-![Verify Thin Storage](/Asserts/Images//attachment/album/201411/23/115119eue74qtmizs64hut.jpg)
+![Verify Thin Storage](/Asserts/Images/album/201411/23/115119eue74qtmizs64hut.jpg)
 
 
 *验证精简存储*

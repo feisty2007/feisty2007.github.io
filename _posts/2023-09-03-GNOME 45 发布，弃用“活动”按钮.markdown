@@ -7,7 +7,7 @@ tags:	[linuxcn,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/22/160637a5eeghw50ej20hwh.jpg)
+![](/Asserts/Images/album/202309/22/160637a5eeghw50ej20hwh.jpg)
 
 
 
@@ -54,7 +54,7 @@ tags:	[linuxcn,GNOME]
 #### 新的工作空间指示器
 
 
-![](/Asserts/Images//attachment/album/202309/22/160945taqzg7roj8zgqj8g.gif)
+![](/Asserts/Images/album/202309/22/160945taqzg7roj8zgqj8g.gif)
 
 
 根据我们 [之前的报道](https://news.itsfoss.com/gnome-activities-indicator/)，GNOME 45 让 “<ruby> 活动 <rt>  Activities </rt></ruby>” 按钮走向了历史。
@@ -69,7 +69,7 @@ tags:	[linuxcn,GNOME]
 #### 系统设置的调整
 
 
-![](/Asserts/Images//attachment/album/202309/22/160945hcxb4xiii6xseg5e.png)
+![](/Asserts/Images/album/202309/22/160945hcxb4xiii6xseg5e.png)
 
 
 在 GNOME 45 中，设置应用下方出现了全新的 “<ruby> 隐私 <rt>  Privacy </rt></ruby>” 子菜单，现在各类选项展示得更有序。
@@ -81,7 +81,7 @@ tags:	[linuxcn,GNOME]
 #### 引入了新的核心应用
 
 
-![Loupe 图片查看器](/Asserts/Images//attachment/album/202309/22/160945cvqrsrszvysixxy0.jpg)
+![Loupe 图片查看器](/Asserts/Images/album/202309/22/160945cvqrsrszvysixxy0.jpg)
 
 
 GNOME 45 版本告别了 “<ruby> GNOME 之眼 <rt>  Eye of GNOME </rt></ruby>” 图片查看器，转而采用 “<ruby> <a href="https://news.itsfoss.com/loupe-image-viewer/">  放大镜 </a> <rt>  Loupe </rt></ruby>” 应用，并摒弃了 “<ruby> 茄子 <rt>  Cheese </rt></ruby>” 相机应用，全新引入了 “<ruby> <a href="https://news.itsfoss.com/gnome-snapshot/">  快照 </a> <rt>  Snapshot </rt></ruby>” 应用。
@@ -102,7 +102,7 @@ GNOME 45 版本告别了 “<ruby> GNOME 之眼 <rt>  Eye of GNOME </rt></ruby>�
 #### ? Nautilus 的用户界面优化
 
 
-![](/Asserts/Images//attachment/album/202309/22/160946tr3vj0yrmjjjjs70.png)
+![](/Asserts/Images/album/202309/22/160946tr3vj0yrmjjjjs70.png)
 
 
 Nautilus 文件管理器已 **做了一些轻微的界面优化**，新的左侧边栏汉堡菜单使得侧边栏看起来比以前更醒目。

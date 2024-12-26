@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,区块链]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/12/101352nhg8fipc8f0m3v3z.jpg)
+![](/Asserts/Images/album/202005/12/101352nhg8fipc8f0m3v3z.jpg)
 
 
 #### Python 开发者调查显示只有十分之一的人还在用 Python 2

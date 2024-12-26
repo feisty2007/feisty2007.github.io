@@ -7,7 +7,7 @@ tags:	[linuxcn,BASIC,FORTRAN]
 ---
 
 
-如果你和我一样，在 20 世纪七八十年代使用计算机长大，你可能学过一种常见的个人计算机编程语言，名为 BASIC（全称是 “<ruby> 初学者的通用符号指令代码 <rt>  Beginner's All-purpose Symbolic Instruction Code </rt></ruby>”）。那个时期，包括 TRS-80、Apple II 和 IBM PC 在内的每台个人计算机都可以找到 BASIC 实现。当时，我是一个自学的 BASIC 程序员，在尝试了 Apple II 上的 AppleSoft BASIC 后，转向 IBM PC 上的 GW-BASIC，后来在 DOS 上学习了 QuickBASIC。![](/Asserts/Images//attachment/album/202306/11/110557i6ef2ep92petw2d1.jpg)
+如果你和我一样，在 20 世纪七八十年代使用计算机长大，你可能学过一种常见的个人计算机编程语言，名为 BASIC（全称是 “<ruby> 初学者的通用符号指令代码 <rt>  Beginner's All-purpose Symbolic Instruction Code </rt></ruby>”）。那个时期，包括 TRS-80、Apple II 和 IBM PC 在内的每台个人计算机都可以找到 BASIC 实现。当时，我是一个自学的 BASIC 程序员，在尝试了 Apple II 上的 AppleSoft BASIC 后，转向 IBM PC 上的 GW-BASIC，后来在 DOS 上学习了 QuickBASIC。![](/Asserts/Images/album/202306/11/110557i6ef2ep92petw2d1.jpg)
 
 
 

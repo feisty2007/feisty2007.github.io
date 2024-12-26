@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,量子计算机,写字板]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/15/180458l633f3q5y7v5f55v.jpg)
+![](/Asserts/Images/album/202310/15/180458l633f3q5y7v5f55v.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/15/175445z4yvd6ltzb40itsq.jpg)
+![](/Asserts/Images/album/202310/15/175445z4yvd6ltzb40itsq.jpg)
 
 
 ### 中国“九章三号”量子计算机可比最快超算快 200 亿年
@@ -35,7 +35,7 @@ tags:	[linuxcn,Firefox,量子计算机,写字板]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/15/175457b573ozcdhgene1um.jpg)
+![](/Asserts/Images/album/202310/15/175457b573ozcdhgene1um.jpg)
 
 
 ### Firefox 即将默认启用原生 Wayland 后端
@@ -60,7 +60,7 @@ tags:	[linuxcn,Firefox,量子计算机,写字板]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/15/175509op1n8bw68cwjfe15.jpg)
+![](/Asserts/Images/album/202310/15/175509op1n8bw68cwjfe15.jpg)
 
 
 ### 微软写字板可被用来劫持易受攻击的系统

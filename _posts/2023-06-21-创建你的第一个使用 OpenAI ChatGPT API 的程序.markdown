@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenAI,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/01/071320acb1o8okoczg9ok9.jpg)
+![](/Asserts/Images/album/202306/01/071320acb1o8okoczg9ok9.jpg)
 
 
 
@@ -51,7 +51,7 @@ tags:	[linuxcn,OpenAI,ChatGPT]
 创建一个账户后，生成一个专属于你的 API 密钥。访问 [此页面](https://platform.openai.com/account/api-keys) 并创建一个新的秘密密钥。
 
 
-![创建 OpenAI API 密钥的位置](/Asserts/Images//attachment/album/202306/01/071432a4luqkfkzekulf7k.jpg)
+![创建 OpenAI API 密钥的位置](/Asserts/Images/album/202306/01/071432a4luqkfkzekulf7k.jpg)
 
 
 记录该密钥或在安全的地方保存它。基于安全原因，它将不会从 OpenAI 账户部分再次可见。而且不要与任何人分享此密钥。如果你计划使用企业解决方案，请向你的组织查询 API 密钥。由于该密钥与你的付费 OpenAI 计划相关，因此请谨慎使用。

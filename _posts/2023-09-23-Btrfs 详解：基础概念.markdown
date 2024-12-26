@@ -7,7 +7,7 @@ tags:	[linuxcn,Btrfs]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/13/235109zpss77b87s0e00g2.jpg)
+![](/Asserts/Images/album/202309/13/235109zpss77b87s0e00g2.jpg)
 
 
 这篇文章是《Btrfs 详解》系列文章中的一篇。从 Fedora Linux 33 开始，Btrfs 就是 Fedora Workstation 和 Fedora Silverblue 的默认文件系统。
@@ -40,7 +40,7 @@ tags:	[linuxcn,Btrfs]
 下面是 inode 的示意图：
 
 
-![A text file “myfile.txt” and a hypothetical example of its representation on disk. All the squares are individual storage blocks.](/Asserts/Images//attachment/album/202309/13/235150rgltgqg7qo7tlmyk.png)
+![A text file “myfile.txt” and a hypothetical example of its representation on disk. All the squares are individual storage blocks.](/Asserts/Images/album/202309/13/235150rgltgqg7qo7tlmyk.png)
 
 
 inode 的结构对文件系统的功能有巨大的影响，因此它是各种文件系统诸多的重要数据结构之一。出于这个原因，每个文件系统有各自的 inode 结构。如果你想了解更多信息，看看下面 [链接](https://btrfs.wiki.kernel.org/index.php/Data_Structures#btrfs_inode_item) 关于 Btrfs 文件系统 inode 结构的内容。如需更详细地了解各个字段的含义，你可以 [参考](https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout#Inode_Table) ext4 文件系统的 inode 结构。
@@ -67,7 +67,7 @@ CoW 的优势在哪里？简单的说：文件被修改和编辑的历史被保�
 你可以将文件名视为对 inode 的指针。在写入文件的时候，Btrfs 创建一个被修改文件内容（数据）的拷贝，和一个新的 inode（元数据），然后让文件名指向新的 inode，旧的 inode 保持不变。下面是一个假设示例来阐述这点：
 
 
-![Continuation of the example above: 3 more bytes of data were added](/Asserts/Images//attachment/album/202309/13/235151mhorhyiymd4puvuf.png)
+![Continuation of the example above: 3 more bytes of data were added](/Asserts/Images/album/202309/13/235151mhorhyiymd4puvuf.png)
 
 
 这里 `myfile.txt` 增加了三个字节。传统的文件系统会更新中间的 `Data` 块去包含新的内容。CoW 文件系统不会改变旧的数据块（图中灰色），写入（复制）更改的数据和元数据在新的地方。值得注意的是，只有被改变的数据块被复制，而不是全部文件。

@@ -7,10 +7,10 @@ tags:	[linuxcn,芯片,Rust,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/23/202128m6jc5xir6bn6vuoc.jpg)
+![](/Asserts/Images/album/202206/23/202128m6jc5xir6bn6vuoc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/23/202135pu55un77f35n7g7n.jpg)
+![](/Asserts/Images/album/202206/23/202135pu55un77f35n7g7n.jpg)
 
 
 ### 外媒报道中国芯片行业高速发展
@@ -35,7 +35,7 @@ tags:	[linuxcn,芯片,Rust,内核]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/23/202148kdog4ym17y2z19jr.jpg)
+![](/Asserts/Images/album/202206/23/202148kdog4ym17y2z19jr.jpg)
 
 
 ### Rust 有可能在 Linux 5.20 中合并
@@ -60,7 +60,7 @@ tags:	[linuxcn,芯片,Rust,内核]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/23/202206aco68vx8r7lkcfgw.jpg)
+![](/Asserts/Images/album/202206/23/202206aco68vx8r7lkcfgw.jpg)
 
 
 ### 内核开发者仍然在实验 -O3 级优化

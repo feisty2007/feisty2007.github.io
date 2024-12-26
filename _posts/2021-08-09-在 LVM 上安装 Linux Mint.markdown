@@ -15,7 +15,7 @@ tags:	[linuxcn,LVM]
 > 
 
 
-![](/Asserts/Images//attachment/album/202108/21/104418yg111cba52caalc5.jpg "Linux keys on the keyboard for a desktop computer")
+![](/Asserts/Images/album/202108/21/104418yg111cba52caalc5.jpg "Linux keys on the keyboard for a desktop computer")
 
 
 几周前，[Linux Mint](https://linuxmint.com/) 的人员发布了他们的开源操作系统的 20.2 版本。Live ISO 中内置的安装程序非常好，只需要点击几下就可以安装操作系统。如果你想定制你的分区，你甚至有一个内置的分区软件。
@@ -51,13 +51,13 @@ LVM 是一个硬盘管理系统，允许你在多个物理驱动器上创建存�
 首先，创建一个 512MB 的分区，类型为 FAT32（这是用来确保系统可启动）。512MB 对大多数人来说是富余的，你可以用 256MB 甚至更少，但在今天的大容量磁盘中，即使分配 512MB 也不是什么大问题。
 
 
-![Creating a boot partition](/Asserts/Images//attachment/album/202108/21/104426refnjtym0b0mhe9h.png "Creating a boot partition")
+![Creating a boot partition](/Asserts/Images/album/202108/21/104426refnjtym0b0mhe9h.png "Creating a boot partition")
 
 
 接下来，在磁盘的其余部分创建一个 `lvm2 pv` 类型（LVM 2 物理卷）的分区（这是你的 LVM 的位置）。
 
 
-![Partition layout](/Asserts/Images//attachment/album/202108/21/104426genv9v9yy906b9do.png "Partition layout")
+![Partition layout](/Asserts/Images/album/202108/21/104426genv9v9yy906b9do.png "Partition layout")
 
 
 现在打开一个终端窗口，并将你的权限提升到 root：

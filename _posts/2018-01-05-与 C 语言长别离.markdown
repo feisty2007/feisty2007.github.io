@@ -7,7 +7,7 @@ tags:	[linuxcn,C语言]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/23/173840hqcqbhto0kbtwpxn.jpg)
+![](/Asserts/Images/album/201801/23/173840hqcqbhto0kbtwpxn.jpg)
 
 
 这几天来，我在思考那些正在挑战 C 语言的系统编程语言领袖地位的新潮语言，尤其是 Go 和 Rust。思考的过程中，我意识到了一个让我震惊的事实 —— 我有着 35 年的 C 语言经验。每周我都要写很多 C 代码，但是我已经记不清楚上一次我 *创建一个新的 C 语言项目* 是在什么时候了。

@@ -13,7 +13,7 @@ tags:	[linuxcn,GIMP,Photoshop]
 GIMP 不仅仅有 Linux 版本，在 Windows 和 macOS 平台上，也一直有大量专业用户。它被很多人认为是 Photoshop 的最佳替代品之一。不过，由于 GIMP 采用了和 PhotoShop 不同的用户界面和交互逻辑，因此那些从 Photoshop 迁移过来的用户需要一段时间的适应。
 
 
-![](/Asserts/Images//attachment/album/202006/26/101608rbighmoh4kon0mnz.jpg)
+![](/Asserts/Images/album/202006/26/101608rbighmoh4kon0mnz.jpg)
 
 
 ### Photo GIMP 补丁
@@ -38,7 +38,7 @@ GIMP 不仅仅有 Linux 版本，在 Windows 和 macOS 平台上，也一直有�
 安装该补丁后，GIMP 的外观看起来如下：
 
 
-![](/Asserts/Images//attachment/album/202006/26/095544wyh6lbagv36gebw2.jpg)
+![](/Asserts/Images/album/202006/26/095544wyh6lbagv36gebw2.jpg)
 
 
 ### 如何安装

@@ -30,7 +30,7 @@ AppImage 使应用可以很容易地在不同的发行版上运行，而不需�
 ### AppImage Pool：一个管理和寻找 AppImage 应用的 GUI 前端
 
 
-![](/Asserts/Images//attachment/album/202112/28/105429d2pr3seffyt20mcr.png)
+![](/Asserts/Images/album/202112/28/105429d2pr3seffyt20mcr.png)
 
 
 AppImage Pool 是一个使用 Flutter 构建的 GUI 前端，它从 [AppImageHub](https://www.appimagehub.com) 获取应用数据，并让你快速搜索、下载和管理 AppImage 应用。
@@ -48,7 +48,7 @@ AppImage Pool 是一个使用 Flutter 构建的 GUI 前端，它从 [AppImageHub
 ### AppImage Pool 的特点
 
 
-![](/Asserts/Images//attachment/album/202112/28/105431m6433w6obymzbmy0.png)
+![](/Asserts/Images/album/202112/28/105431m6433w6obymzbmy0.png)
 
 
 AppImage 是一个简单直白的应用商店，可以让你搜索、下载和管理 AppImage 文件。
@@ -70,7 +70,7 @@ AppImage 是一个简单直白的应用商店，可以让你搜索、下载和�
 如果你是一个开发者，这鼓励了你使用它制作一个应用的话，你也可以 [在 Linux 中安装 Flutter](https://itsfoss.com/install-flutter-linux/)。
 
 
-![](/Asserts/Images//attachment/album/202112/28/105432clbl3qllls566ro3.png)
+![](/Asserts/Images/album/202112/28/105432clbl3qllls566ro3.png)
 
 
 ### 在 Linux 中安装 AppImage Pool
@@ -91,7 +91,7 @@ AppImage 是一个简单直白的应用商店，可以让你搜索、下载和�
 ### 使用 AppImage Pool 的感受
 
 
-![](/Asserts/Images//attachment/album/202112/28/105434yzvkzqpvjvkyqvvz.png)
+![](/Asserts/Images/album/202112/28/105434yzvkzqpvjvkyqvvz.png)
 
 
 该应用可以如预期的工作。然而，我注意到，列出的一些应用没有下载链接或任何相关信息。
@@ -103,7 +103,7 @@ AppImage 是一个简单直白的应用商店，可以让你搜索、下载和�
 另外，你可能会觉得奇怪，有些应用只列出了预发布的 AppImage 文件，比如 Blender。
 
 
-![](/Asserts/Images//attachment/album/202112/28/105436wxtp87pxppiitvpa.png)
+![](/Asserts/Images/album/202112/28/105436wxtp87pxppiitvpa.png)
 
 
 虽然这也是可以选择项目发布分支的一个优势，但我认为我不会下载预发布包。

@@ -7,7 +7,7 @@ tags:	[linuxcn,apt]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/02/224416uecz5x75yalc0axc.jpg)
+![](/Asserts/Images/album/202209/02/224416uecz5x75yalc0axc.jpg)
 
 
 如果想让你的 Ubuntu 或者 Debian 系统保持更新，要用 `sudo apt update` 和 `sudo apt upgrade` 命令组合。
@@ -31,7 +31,7 @@ tags:	[linuxcn,apt]
 还是有点困惑？让我来接着解释。我建议阅读 [包管理器的概念](https://itsfoss.com/package-manager/)。这个会帮你更好的理解这些东西。
 
 
-![Linux Package Manager Explanation](/Asserts/Images//attachment/album/202209/02/224431u1mrghgrhmnxgrnz.png)
+![Linux Package Manager Explanation](/Asserts/Images/album/202209/02/224431u1mrghgrhmnxgrnz.png)
 
 
 基本上，你的系统围绕着一个所有可用包的数据库（缓存）工作。注意，这个缓存（或者数据库）并不包含这些包本身，仅仅是关于包的元数据（版本、仓库、依赖等）。
@@ -43,7 +43,7 @@ tags:	[linuxcn,apt]
 当你运行 `apt update` 或者 `apt-get update` 命令，它会获取这些包的最新元数据（包的版本等）。
 
 
-![apt update](/Asserts/Images//attachment/album/202209/02/224431rvuvxugm6vwkmwcg.png)
+![apt update](/Asserts/Images/album/202209/02/224431rvuvxugm6vwkmwcg.png)
 
 
 这时候本地缓存就被更新了，有一些包可以升级。用 `sudo apt upgrade` 可以升级所有（可升级的）包。
@@ -52,7 +52,7 @@ tags:	[linuxcn,apt]
 它会显示要升级的包，并且通过回车（默认选择是 `Y`）或者按下 `Y` 键进行确认。要在这个阶段取消升级，可以按下 `N`。
 
 
-![apt upgrade](/Asserts/Images//attachment/album/202209/02/224431ttohko0r9thbtujq.png)
+![apt upgrade](/Asserts/Images/album/202209/02/224431ttohko0r9thbtujq.png)
 
 
 下面这些可能会帮助你记忆：
@@ -106,10 +106,10 @@ Reading state information... Done
 `apt-get update` 甚至不会告诉你包是否可以升级。
 
 
-![apt get update](/Asserts/Images//attachment/album/202209/02/224431rxk3zl0ccaxixt4e.png)
+![apt get update](/Asserts/Images/album/202209/02/224431rxk3zl0ccaxixt4e.png)
 
 
-![apt update output](/Asserts/Images//attachment/album/202209/02/224431c3ojf1iu3wq3awjj.png)
+![apt update output](/Asserts/Images/album/202209/02/224431c3ojf1iu3wq3awjj.png)
 
 
 从 `apt` 中可以看到 [列出可升级的包](https://itsfoss.com/apt-list-upgradable/)，而 `apt-get` 甚至没有这个选项。
@@ -143,7 +143,7 @@ vivaldi-stable/stable 5.4.2753.40-1 amd64 [upgradable from: 5.4.2753.37-1]
 `apt upgrade` 命令可以升级 Linux 内核版本，`apt-get upgrade` 不能。`apt-get` 命令需要使用 [apt-get dist-upgrade](https://itsfoss.com/apt-get-upgrade-vs-dist-upgrade/) 来升级内核版本。
 
 
-![apt-get upgrade command cannot upgrade Linux kernel version](/Asserts/Images//attachment/album/202209/02/224432yfee97tzeffn97ff.png)
+![apt-get upgrade command cannot upgrade Linux kernel version](/Asserts/Images/album/202209/02/224432yfee97tzeffn97ff.png)
 
 
 这是因为升级内核版本意味着安装一个全新的包。`apt-get upgrade` 命令不能安装一个新的包。它只能升级现有的包。
@@ -152,7 +152,7 @@ vivaldi-stable/stable 5.4.2753.40-1 amd64 [upgradable from: 5.4.2753.37-1]
 `apt upgrade` 比 `apt-get` 做的好的另一件小事是，它会在底部**显示一个进度条**。
 
 
-![apt upgrade progress bar](/Asserts/Images//attachment/album/202209/02/224432nu8ad8hjbafdaccc.png)
+![apt upgrade progress bar](/Asserts/Images/album/202209/02/224432nu8ad8hjbafdaccc.png)
 
 
 ### 总结

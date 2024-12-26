@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu Budgie,Ubuntu]
 > 
 
 
-![Ubuntu Budgie 22.10 Release Improves Control Center and Removes Some GNOME Apps](/Asserts/Images//attachment/album/202210/26/171350ik74c0m090408r4j.png)
+![Ubuntu Budgie 22.10 Release Improves Control Center and Removes Some GNOME Apps](/Asserts/Images/album/202210/26/171350ik74c0m090408r4j.png)
 
 
 [Ubuntu Budgie](https://ubuntubudgie.org/) 是 Ubuntu 的官方版本，因其传统的桌面界面和最小的软件膨胀而广受欢迎。
@@ -27,7 +27,7 @@ Ubuntu Budgie 22.10 的发布带来了一些关键的调整和补充。
 ### ? Ubuntu Budgie 22.10 有什么新变化
 
 
-![ubuntu budgie 22.10](/Asserts/Images//attachment/album/202210/26/171351vxcxgbx6b8bix6j8.png)
+![ubuntu budgie 22.10](/Asserts/Images/album/202210/26/171351vxcxgbx6b8bix6j8.png)
 
 
 基于 Ubuntu 22.10 “<ruby> 充满活力的捻角羚 <rt>  Kinetic Kudu </rt></ruby>”，Ubuntu Budgie 22.10 带来了 Budgie 桌面 10.6.4 和许多其他改进。
@@ -45,13 +45,13 @@ Ubuntu Budgie 22.10 的发布带来了一些关键的调整和补充。
 #### Budgie 桌面和控制中心
 
 
-![ubuntu budgie 22.10 desktop settings](/Asserts/Images//attachment/album/202210/26/171352chxgjx3z35ambzx7.png)
+![ubuntu budgie 22.10 desktop settings](/Asserts/Images/album/202210/26/171352chxgjx3z35ambzx7.png)
 
 
 Budgie 桌面以及更新到 V10.6.4, 它添加了一个新的全局选项来控制小程序之间的间距，并对工作区和时钟小程序进行了各种改进。
 
 
-![ubuntu budgie 22.10 display color profiles](/Asserts/Images//attachment/album/202210/26/171352thdbasbhdm8kebbr.png)
+![ubuntu budgie 22.10 display color profiles](/Asserts/Images/album/202210/26/171352thdbasbhdm8kebbr.png)
 
 
 Budgie <ruby> 控制中心 <rt>  Control Center </rt></ruby>也得到了一堆调整，例如重新设计的显示颜色配置文件支持，修改了对屏幕分享的支持，如 [RDP](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol) 和 [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)，用于显示缩放的选项，等等。
@@ -60,7 +60,7 @@ Budgie <ruby> 控制中心 <rt>  Control Center </rt></ruby>也得到了一堆�
 #### 升级了欢迎应用
 
 
-![ubuntu budgie 22.10 welcome app](/Asserts/Images//attachment/album/202210/26/171353k0vvggg2nvzjyk3f.png)
+![ubuntu budgie 22.10 welcome app](/Asserts/Images/album/202210/26/171353k0vvggg2nvzjyk3f.png)
 
 
 Ubuntu Budgie 22.10 特别升级了 [Budgie 的欢迎应用](https://ubuntubudgie.org/2022/02/quick-overview-of-budgie-welcome-application/)，改善了翻译以及一些其他改进。

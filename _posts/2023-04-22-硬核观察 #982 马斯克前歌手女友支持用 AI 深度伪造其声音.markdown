@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,开源,稳定扩散]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/25/104454u7nb0lbk9n8zk509.jpg)
+![](/Asserts/Images/album/202304/25/104454u7nb0lbk9n8zk509.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/25/104504trr3gydmtrpedoub.jpg)
+![](/Asserts/Images/album/202304/25/104504trr3gydmtrpedoub.jpg)
 
 
 ### 马斯克前歌手女友支持用 AI 深度伪造其声音
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,开源,稳定扩散]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/25/104515lkt994najou8hj5a.jpg)
+![](/Asserts/Images/album/202304/25/104515lkt994najou8hj5a.jpg)
 
 
 ### 亚马逊开始悄悄拥抱开源
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,开源,稳定扩散]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/25/104530xt00vtv00lzbrz6l.jpg)
+![](/Asserts/Images/album/202304/25/104530xt00vtv00lzbrz6l.jpg)
 
 
 ### 稳定 AI 公司推出开源 ChatGPT 替代品

@@ -7,10 +7,10 @@ tags:	[linuxcn,汽车,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/30/192946qzsdndnnqnosmnad.jpg)
+![](/Asserts/Images/album/202309/30/192946qzsdndnnqnosmnad.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/30/192955edy5ri5dt99t9wgt.jpg)
+![](/Asserts/Images/album/202309/30/192955edy5ri5dt99t9wgt.jpg)
 
 
 ### 起亚和现代将汽车被盗归咎于 TikTok 和 Instagram
@@ -35,7 +35,7 @@ tags:	[linuxcn,汽车,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/30/193010qbv0siz000c6m100.jpg)
+![](/Asserts/Images/album/202309/30/193010qbv0siz000c6m100.jpg)
 
 
 ### 美国国家安全局正在启动人工智能安全中心
@@ -60,7 +60,7 @@ tags:	[linuxcn,汽车,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/30/193022t0nq69z8kq81qv8n.jpg)
+![](/Asserts/Images/album/202309/30/193022t0nq69z8kq81qv8n.jpg)
 
 
 ### 人工智能初创公司发布无护栏聊天机器人

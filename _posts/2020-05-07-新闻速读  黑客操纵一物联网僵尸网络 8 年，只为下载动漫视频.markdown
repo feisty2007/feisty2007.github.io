@@ -7,7 +7,7 @@ tags:	[linuxcn,僵尸网络]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/08/105152eacdvdziyc8a6dbs.jpg)
+![](/Asserts/Images/album/202005/08/105152eacdvdziyc8a6dbs.jpg)
 
 
 #### 黑客操纵一物联网僵尸网络 8 年，只为下载动漫视频

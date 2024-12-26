@@ -7,7 +7,7 @@ tags:	[linuxcn,badips,Fail2ban]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/26/123044cdfzvlbjbh2v6vx6.jpg)
+![](/Asserts/Images/album/201704/26/123044cdfzvlbjbh2v6vx6.jpg)
 
 
 这篇指南向你介绍使用 badips <ruby> 滥用追踪器 <rp>  （ </rp> <rt>  abuse tracker </rt> <rp>  ） </rp></ruby>和 Fail2ban 保护你的服务器或计算机的步骤。我已经在 Debian 8 Jessie 和 Debian 7 Wheezy 系统上进行了测试。

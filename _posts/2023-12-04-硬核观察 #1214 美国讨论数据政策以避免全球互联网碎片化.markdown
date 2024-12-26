@@ -7,10 +7,10 @@ tags:	[linuxcn,互联网,CPU,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/13/180845szocp65gpipp6zux.jpg)
+![](/Asserts/Images/album/202312/13/180845szocp65gpipp6zux.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/13/180856subhs1bnk4n61lec.png)
+![](/Asserts/Images/album/202312/13/180856subhs1bnk4n61lec.png)
 
 
 ### #1 美国讨论数据政策以避免全球互联网碎片化
@@ -38,7 +38,7 @@ tags:	[linuxcn,互联网,CPU,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/13/180915iox4yyl3lply8zsy.png)
+![](/Asserts/Images/album/202312/13/180915iox4yyl3lply8zsy.png)
 
 
 ### #2 AMD 认为可以通过芯片组件和代码解决功耗/发热问题
@@ -66,7 +66,7 @@ tags:	[linuxcn,互联网,CPU,游戏]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/13/180931pwipchg0tvqcj8qg.png)
+![](/Asserts/Images/album/202312/13/180931pwipchg0tvqcj8qg.png)
 
 
 ### #3 E3 游戏展宣告死亡

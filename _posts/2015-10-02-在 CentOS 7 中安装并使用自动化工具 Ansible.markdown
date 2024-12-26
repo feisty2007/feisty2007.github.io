@@ -10,7 +10,7 @@ tags:	[linuxcn,Ansible]
 Ansible是一款为类Unix系统开发的自由开源的配置和自动化工具。它用Python写成，类似于Chef和Puppet，但是有一个不同和优点是我们不需要在节点中安装任何客户端。它使用SSH来和节点进行通信。
 
 
-![](/Asserts/Images//attachment/album/201510/04/002341lmxtl0mzm9p4hj22.png)
+![](/Asserts/Images/album/201510/04/002341lmxtl0mzm9p4hj22.png)
 
 
 本篇中我们将在CentOS 7上安装并配置Ansible，并且尝试管理两个节点。
@@ -50,7 +50,7 @@ Ansible仓库默认不在yum仓库中，因此我们需要使用下面的命令�
 
 ```
 
-![ansible-version](/Asserts/Images//attachment/album/201510/04/002401o8s2rwmm6rao2d2p.jpg)
+![ansible-version](/Asserts/Images/album/201510/04/002401o8s2rwmm6rao2d2p.jpg)
 
 
 ### 第三步： 设置用于节点鉴权的SSH密钥
@@ -65,13 +65,13 @@ root@ansible ~]# ssh-keygen
 
 ```
 
-![ssh-keygen](/Asserts/Images//attachment/album/201510/04/002403t6i2z5hhh20ovefh.jpg)
+![ssh-keygen](/Asserts/Images/album/201510/04/002403t6i2z5hhh20ovefh.jpg)
 
 
 使用ssh-copy-id命令来复制Ansible公钥到节点中。
 
 
-![ssh-copy-id-command](/Asserts/Images//attachment/album/201510/04/002404sa190o5aett17xeo.jpg)
+![ssh-copy-id-command](/Asserts/Images/album/201510/04/002404sa190o5aett17xeo.jpg)
 
 
 ### 第四步：为Ansible定义节点的清单
@@ -95,7 +95,7 @@ root@ansible ~]# ssh-keygen
 主机文件示例如下：
 
 
-![ansible-host](/Asserts/Images//attachment/album/201510/04/002405stdkcztb84c8kytu.jpg)
+![ansible-host](/Asserts/Images/album/201510/04/002405stdkcztb84c8kytu.jpg)
 
 
 ### 第五步：尝试在Ansible服务端运行命令
@@ -110,7 +110,7 @@ root@ansible ~]# ssh-keygen
 
 ```
 
-![ansible-ping](/Asserts/Images//attachment/album/201510/04/002405dzsr3jj1ees5jv59.jpg)
+![ansible-ping](/Asserts/Images/album/201510/04/002405dzsr3jj1ees5jv59.jpg)
 
 
 #### 执行shell命令
@@ -125,7 +125,7 @@ root@ansible ~]# ssh-keygen
 
 ```
 
-![ansible-uptime](/Asserts/Images//attachment/album/201510/04/002406dl835tsyweluy85j.jpg)
+![ansible-uptime](/Asserts/Images/album/201510/04/002406dl835tsyweluy85j.jpg)
 
 
 **例子2：检查节点的内核版本**
@@ -137,7 +137,7 @@ root@ansible ~]# ssh-keygen
 
 ```
 
-![kernel-version-ansible](/Asserts/Images//attachment/album/201510/04/002406dafqtu4brrfbnrfz.jpg)
+![kernel-version-ansible](/Asserts/Images/album/201510/04/002406dafqtu4brrfbnrfz.jpg)
 
 
 **例子3：给节点增加用户**
@@ -150,7 +150,7 @@ root@ansible ~]# ssh-keygen
 
 ```
 
-![useradd-ansible](/Asserts/Images//attachment/album/201510/04/002407fenruzp5eqtb4nnh.jpg)
+![useradd-ansible](/Asserts/Images/album/201510/04/002407fenruzp5eqtb4nnh.jpg)
 
 
 **例子4：重定向输出到文件中**
@@ -162,7 +162,7 @@ root@ansible ~]# ssh-keygen
 
 ```
 
-![redirecting-output-ansible](/Asserts/Images//attachment/album/201510/04/002410h0t9t018h11g1fam.jpg)
+![redirecting-output-ansible](/Asserts/Images/album/201510/04/002410h0t9t018h11g1fam.jpg)
 
 
 

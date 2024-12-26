@@ -7,7 +7,7 @@ tags:	[linuxcn,asciinema,终端,会话]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/08/233016gh6peg96l0lp2js5.jpg)
+![](/Asserts/Images/album/201902/08/233016gh6peg96l0lp2js5.jpg)
 
 
 这个众所周知的话题我们早已经写过了足够多的文章。即使这样，我们今天也要去讨论相同的话题。
@@ -237,7 +237,7 @@ installation with asciinema.org account by opening the following link:
     https://asciinema.org/connect/10cd4f24-45b6-4f64-b737-ae0e5d12baf8
 ```
 
-![](/Asserts/Images//attachment/album/201902/08/233054vkuukotuzvu95lu9.png)
+![](/Asserts/Images/album/201902/08/233054vkuukotuzvu95lu9.png)
 
 
 如果你想要分享录制的会话在社交媒体上，只需要点击页面底部的 “Share” 按钮。
@@ -271,7 +271,7 @@ https://asciinema.org/connect/10cd4f24-45b6-4f64-b737-ae0e5d12baf8
 This will associate all recordings uploaded from this machine (past and future ones) to your account, and allow you to manage them (change title/theme, delete) at asciinema.org.
 ```
 
-![](/Asserts/Images//attachment/album/201902/08/233056uqzgs6r4u3zsfu3f.png)
+![](/Asserts/Images/album/201902/08/233056uqzgs6r4u3zsfu3f.png)
 
 
 如果你想直接上传文件而不是将其保存在本地，直接运行如下命令：

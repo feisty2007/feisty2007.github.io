@@ -7,7 +7,7 @@ tags:	[linuxcn,WebAssembly]
 ---
 
 
-![](/Asserts/Images//attachment/album/202103/12/222938jww882da88oqzays.jpg)
+![](/Asserts/Images/album/202103/12/222938jww882da88oqzays.jpg)
 
 
 ### 到底什么是 WebAssembly？

@@ -7,7 +7,7 @@ tags:	[linuxcn,Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/28/101622qk6dn2j2we4dfdjk.jpg)
+![](/Asserts/Images/album/202006/28/101622qk6dn2j2we4dfdjk.jpg)
 
 
 #### GCC 11 将默认前端语言改为 C++ 17

@@ -15,7 +15,7 @@ tags:	[linuxcn,ISO,USB]
 > 
 
 
-![Fedora Media Writer](/Asserts/Images//attachment/album/202302/01/163445oc5x42zhhtbu2hhl.jpg)
+![Fedora Media Writer](/Asserts/Images/album/202302/01/163445oc5x42zhhtbu2hhl.jpg)
 
 
 ### Fedora Media Writer
@@ -134,7 +134,7 @@ Fedora Media Writer 以 Flatpak 的形式提供给 Linux 发行版。要在任�
 #### 自动下载和写入
 
 
-![Fedora Media Writer - 第一个页面](/Asserts/Images//attachment/album/202302/01/163500ohe131x3248epxsu.jpg)
+![Fedora Media Writer - 第一个页面](/Asserts/Images/album/202302/01/163500ohe131x3248epxsu.jpg)
 
 
  
@@ -143,13 +143,13 @@ Fedora Media Writer 以 Flatpak 的形式提供给 Linux 发行版。要在任�
 <ruby> 自动下载 <rt>  Download automatically </rt></ruby>选项为你提供了以下页面，可以从镜像中下载任何你想要的 Fedora ISO。这对很多人来说很有用，因为它消除了单独下载 ISO 文件、验证校验和等的麻烦。
 
 
-![自动下载选项给了你这些选项](/Asserts/Images//attachment/album/202302/01/163518o54sr2d42njfzzaa.jpg)
+![自动下载选项给了你这些选项](/Asserts/Images/album/202302/01/163518o54sr2d42njfzzaa.jpg)
 
 
 在选择了发行版之后，最后的页面会给你版本（Fedora 36、35 等）和架构（x86、ARM 等）的选项。另外，你应该看到目标 USB。点击 “<ruby> 下载并写入 <rt>  Download &amp; Write </rt></ruby>”，开始这个过程。
 
 
-![Fedora Media Writer 的最终写入页面](/Asserts/Images//attachment/album/202302/01/163526fiztloggeiee3esp.jpg)
+![Fedora Media Writer 的最终写入页面](/Asserts/Images/album/202302/01/163526fiztloggeiee3esp.jpg)
 
 
 #### 从磁盘上写入一个现有的 ISO 文件
@@ -158,13 +158,13 @@ Fedora Media Writer 以 Flatpak 的形式提供给 Linux 发行版。要在任�
 当你选择 “<ruby> 选择 ISO 文件 <rt>  select .iso file </rt></ruby>” 时，你可以从系统中选择该文件。之后，选择目标 USB 驱动器，然后点击 “<ruby> 写入 <rt>  Write </rt></ruby>”，开始这个过程。
 
 
-![通过 Fedora Media Writer 直接写入 ISO](/Asserts/Images//attachment/album/202302/01/163536sq0j902qjq33x838.jpg)
+![通过 Fedora Media Writer 直接写入 ISO](/Asserts/Images/album/202302/01/163536sq0j902qjq33x838.jpg)
 
 
-![写入进行中](/Asserts/Images//attachment/album/202302/01/163545u3m070gg2d0yg0g0.jpg)
+![写入进行中](/Asserts/Images/album/202302/01/163545u3m070gg2d0yg0g0.jpg)
 
 
-![写入完成](/Asserts/Images//attachment/album/202302/01/163553t9h7sorehp77rrcv.jpg)
+![写入完成](/Asserts/Images/album/202302/01/163553t9h7sorehp77rrcv.jpg)
 
 
 写入操作完成后，你可以看到如上所示的确认信息。在我的测试中，写一个大约 3GB 的 ISO 需要大约 3 到 4 分钟。
@@ -176,7 +176,7 @@ Fedora Media Writer 以 Flatpak 的形式提供给 Linux 发行版。要在任�
 在 Windows 和 macOS 中使用这个工具的步骤是一样的，就像上面显示的 Linux 一样。你可以在安装后轻松找到快捷方式，并以同样的方式启动。
 
 
-![在 Windows 11 中运行](/Asserts/Images//attachment/album/202302/01/163606z3kah1mzul3km3l9.jpg)
+![在 Windows 11 中运行](/Asserts/Images/album/202302/01/163606z3kah1mzul3km3l9.jpg)
 
 
 ### 结束语

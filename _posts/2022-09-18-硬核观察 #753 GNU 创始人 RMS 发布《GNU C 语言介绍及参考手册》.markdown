@@ -7,10 +7,10 @@ tags:	[linuxcn,GNU,PHP,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/08/195029m8qeuqqjigegikzi.jpg)
+![](/Asserts/Images/album/202209/08/195029m8qeuqqjigegikzi.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/08/195043f6qotqp2u9pusj5l.jpg)
+![](/Asserts/Images/album/202209/08/195043f6qotqp2u9pusj5l.jpg)
 
 
 ### GNU 创始人 RMS 发布《GNU C 语言介绍及参考手册》
@@ -35,7 +35,7 @@ Richard Stallman 最近一直致力于精心编写这本手册，它涵盖了在
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/08/195051m95n1i1k55b555pk.jpg)
+![](/Asserts/Images/album/202209/08/195051m95n1i1k55b555pk.jpg)
 
 
 ### 欧盟的人工智能法案可能对开源产生寒蝉效应
@@ -60,7 +60,7 @@ Richard Stallman 最近一直致力于精心编写这本手册，它涵盖了在
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/08/195107izqalgfqq93li8xf.jpg)
+![](/Asserts/Images/album/202209/08/195107izqalgfqq93li8xf.jpg)
 
 
 ### PHP 8.2 发布了第一个候选版本

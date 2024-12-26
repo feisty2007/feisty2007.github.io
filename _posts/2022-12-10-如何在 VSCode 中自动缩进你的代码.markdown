@@ -7,7 +7,7 @@ tags:	[linuxcn,VSCode,缩进]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/10/152929zff61fqq13kkpvy8.jpg)
+![](/Asserts/Images/album/202212/10/152929zff61fqq13kkpvy8.jpg)
 
 
 代码中的缩进指的是你在代码行的开头处的空格。像其他代码编辑器和 IDE 一样，VSCode 允许你自动缩进你的代码。
@@ -31,13 +31,13 @@ tags:	[linuxcn,VSCode,缩进]
 你可以通过命令模式访问全局用户设置。使用 `Ctrl + Shift + P` 来打开命令模式，搜索 `Open User Settings` 并按下回车：
 
 
-![access user setting from command pallet in vscode](/Asserts/Images//attachment/album/202212/10/152931la5dsfwcdkfdqqp5.png)
+![access user setting from command pallet in vscode](/Asserts/Images/album/202212/10/152931la5dsfwcdkfdqqp5.png)
 
 
 它将打开设置。在那里，你需要搜索 `Auto Indent`，并在 “<ruby> 编辑器：自动缩进 <rt>  Editor: Auto Indent </rt></ruby>” 中选择 “<ruby> 全部 <rt>  Full </rt></ruby>”：
 
 
-![enable auto indent from global user settings in vscode](/Asserts/Images//attachment/album/202212/10/152931w0i1ill441o01ol1.png)
+![enable auto indent from global user settings in vscode](/Asserts/Images/album/202212/10/152931w0i1ill441o01ol1.png)
 
 
 接着自动缩进会被启用，并应用于 VSCode 中每个打开的文件。
@@ -69,7 +69,7 @@ tags:	[linuxcn,VSCode,缩进]
 同样地，你也可以使用命令模式做同样的事情。按 `Ctrl + Shift + P`，并搜索 `Format document`，然后按下回车。
 
 
-![indent code in VSCode](/Asserts/Images//attachment/album/202212/10/152931sznu7d2nu9bss2uu.gif)
+![indent code in VSCode](/Asserts/Images/album/202212/10/152931sznu7d2nu9bss2uu.gif)
 
 
 #### 方法 3：在保存文件时启用自动缩进功能
@@ -81,7 +81,7 @@ VSCode 允许你在保存你的代码时，通过一个小小的调整来格式�
 按 `Ctrl + ,`，它将打开用户设置提示。在那里，搜索 `Format On Save`。
 
 
-![enable format on save option](/Asserts/Images//attachment/album/202212/10/152931v28qddopqfepwe2q.png)
+![enable format on save option](/Asserts/Images/album/202212/10/152931v28qddopqfepwe2q.png)
 
 
 从现在开始，当你保存文件时，你的文件将自动添加缩进。

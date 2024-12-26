@@ -32,7 +32,7 @@ lsblk
 * **SIZE** —— 设备的容量
 
 
-![](/Asserts/Images//attachment/album/201501/22/212218h08kqjjh8q4cj8fa.jpg)
+![](/Asserts/Images/album/201501/22/212218h08kqjjh8q4cj8fa.jpg)
 
 
 ### 显示设备的所有者
@@ -47,7 +47,7 @@ lsblk -m
 
 ```
 
-![](/Asserts/Images//attachment/album/201501/22/212219rznn4hn7oz4nqknk.jpg)
+![](/Asserts/Images/album/201501/22/212219rznn4hn7oz4nqknk.jpg)
 
 
 ### 列出设备块
@@ -74,7 +74,7 @@ lsblk -ln
 
 ```
 
-![](/Asserts/Images//attachment/album/201501/22/212220y64rpgzr6vk3sz4e.jpg)
+![](/Asserts/Images/album/201501/22/212220y64rpgzr6vk3sz4e.jpg)
 
 
 blkid
@@ -96,7 +96,7 @@ blkid
 
 ```
 
-![](/Asserts/Images//attachment/album/201501/22/212221kb58c82t55h5g522.jpg)
+![](/Asserts/Images/album/201501/22/212221kb58c82t55h5g522.jpg)
 
 
 ### 根据名字或 UUID 列出设备
@@ -120,7 +120,7 @@ blkid
 
 ```
 
-![](/Asserts/Images//attachment/album/201501/22/212222cusr8auqqqpbjuj6.jpg)
+![](/Asserts/Images/album/201501/22/212222cusr8auqqqpbjuj6.jpg)
 
 
 ### 详细信息
@@ -135,7 +135,7 @@ blkid
 
 ```
 
-![](/Asserts/Images//attachment/album/201501/22/212225rcwmvnnquc9zvw60.jpg)
+![](/Asserts/Images/album/201501/22/212225rcwmvnnquc9zvw60.jpg)
 
 
 ### 重置缓存

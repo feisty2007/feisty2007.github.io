@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/27/003731rmtkxi66yinoxyy4.jpg)
+![](/Asserts/Images/album/201706/27/003731rmtkxi66yinoxyy4.jpg)
 
 
 我们中的大部分人都会经常忘记清理 Linux 系统中的垃圾文件，这会导致我们的系统空间不足。
@@ -72,19 +72,19 @@ $ sudo apt install ubuntu-cleaner
 从主菜单启动 Ubuntu Cleaner ，你可以看到得以下默认界面。
 
 
-![](/Asserts/Images//attachment/album/201706/27/003743w1f1dd1muibidrlb.png)
+![](/Asserts/Images/album/201706/27/003743w1f1dd1muibidrlb.png)
 
 
 勾选你要清理的文件前面的 “复选框”。 最后点击 “清理” 按钮从系统中删除垃圾文件。
 
 
-![](/Asserts/Images//attachment/album/201706/27/003745ow6szjh333plx6yb.png)
+![](/Asserts/Images/album/201706/27/003745ow6szjh333plx6yb.png)
 
 
 现在我们已经成功清除了系统中的垃圾。
 
 
-![](/Asserts/Images//attachment/album/201706/27/003747yawztgm97zgla7cc.png)
+![](/Asserts/Images/album/201706/27/003747yawztgm97zgla7cc.png)
 
 
 

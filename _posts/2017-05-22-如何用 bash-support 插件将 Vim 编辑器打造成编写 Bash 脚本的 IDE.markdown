@@ -13,7 +13,7 @@ IDE（[集成开发环境](http://www.tecmint.com/best-linux-ide-editors-source-
 在这篇文章中，我们会介绍如何通过使用 bash-support vim 插件将 [Vim 编辑器安装和配置](http://www.tecmint.com/vi-editor-usage/) 为一个编写 Bash 脚本的 IDE。
 
 
-![](/Asserts/Images//attachment/album/201705/02/005103ywxjjexnf8e3ip3l.jpg)
+![](/Asserts/Images/album/201705/02/005103ywxjjexnf8e3ip3l.jpg)
 
 
 ### 什么是 bash-support.vim 插件？
@@ -93,7 +93,7 @@ set number   # 可选，增加这行以在 vim 中显示行号
 看下面的示例文件头，为了要在你所有的新脚本中自动创建该文件头，请按照以下步骤操作。
 
 
-![脚本示例文件头选项](/Asserts/Images//attachment/album/201705/02/005111cw2zxty9yd2ww3ow.png)
+![脚本示例文件头选项](/Asserts/Images/album/201705/02/005111cw2zxty9yd2ww3ow.png)
 
 
 *脚本示例文件头选项*
@@ -111,7 +111,7 @@ $ vi test.sh
 
 ```
 
-![在脚本文件中设置个性化信息](/Asserts/Images//attachment/album/201705/02/005111c6kdizyg4ie16k70.png)
+![在脚本文件中设置个性化信息](/Asserts/Images/album/201705/02/005111c6kdizyg4ie16k70.png)
 
 
 *在脚本文件中设置个性化信息*
@@ -120,7 +120,7 @@ $ vi test.sh
 之后，再次输入回车键。然后再一次选中选项 1 设置个性化文件的路径并输入回车。
 
 
-![设置个性化文件路径](/Asserts/Images//attachment/album/201705/02/005112cpp9l6w922g0nu9j.png)
+![设置个性化文件路径](/Asserts/Images/album/201705/02/005112cpp9l6w922g0nu9j.png)
 
 
 *设置个性化文件路径*
@@ -132,7 +132,7 @@ $ vi test.sh
 按 `i` 键像截图那样在单引号中插入合适的值。
 
 
-![在脚本文件头添加信息](/Asserts/Images//attachment/album/201705/02/005112x12kbb66z6gnxxgg.png)
+![在脚本文件头添加信息](/Asserts/Images/album/201705/02/005112x12kbb66z6gnxxgg.png)
 
 
 *在脚本文件头添加信息*
@@ -147,7 +147,7 @@ $ vi test2.sh
 
 ```
 
-![自动添加文件头到脚本](/Asserts/Images//attachment/album/201705/02/005113cv0myl26mbn1h370.png)
+![自动添加文件头到脚本](/Asserts/Images/album/201705/02/005113cv0myl26mbn1h370.png)
 
 
 *自动添加文件头到脚本*
@@ -165,7 +165,7 @@ $ vi test2.sh
 
 ```
 
-![在 Vi 编辑器添加插件帮助](/Asserts/Images//attachment/album/201705/02/005113gixlnxzsxe58i8n8.png)
+![在 Vi 编辑器添加插件帮助](/Asserts/Images/album/201705/02/005113gixlnxzsxe58i8n8.png)
 
 
 *在 Vi 编辑器添加插件帮助*
@@ -177,7 +177,7 @@ $ vi test2.sh
 要插入一个块注释，在普通模式下输入 `\cfr`：
 
 
-![添加注释到脚本](/Asserts/Images//attachment/album/201705/02/005113hr1vsvdih7iy7d1s.png)
+![添加注释到脚本](/Asserts/Images/album/201705/02/005113hr1vsvdih7iy7d1s.png)
 
 
 *添加注释到脚本*
@@ -210,7 +210,7 @@ $ vi test2.sh
 输入 `\sfu` 添加一个新的空函数，然后添加函数名并按回车键创建它。之后，添加你的函数代码。
 
 
-![在脚本中插入新函数](/Asserts/Images//attachment/album/201705/02/005114jz0iplcmz10imi7j.png)
+![在脚本中插入新函数](/Asserts/Images/album/201705/02/005114jz0iplcmz10imi7j.png)
 
 
 *在脚本中插入新函数*
@@ -219,7 +219,7 @@ $ vi test2.sh
 为了给上面的函数创建函数头，输入 `\cfu`，输入函数名称，按回车键并填入合适的值（名称、介绍、参数、返回值）：
 
 
-![在脚本中创建函数头](/Asserts/Images//attachment/album/201705/02/005114jz0iplcmz10imi7j.png)
+![在脚本中创建函数头](/Asserts/Images/album/201705/02/005114jz0iplcmz10imi7j.png)
 
 
 *在脚本中创建函数头*
@@ -231,7 +231,7 @@ $ vi test2.sh
 下面是一个使用 `\si` 插入一条 `if` 语句的例子：
 
 
-![在脚本中插入语句](/Asserts/Images//attachment/album/201705/02/005114bd11zhj3b338ej33.png)
+![在脚本中插入语句](/Asserts/Images/album/201705/02/005114bd11zhj3b338ej33.png)
 
 
 *在脚本中插入语句*
@@ -240,7 +240,7 @@ $ vi test2.sh
 下面的例子显示使用 `\se` 添加一条 `echo` 语句：
 
 
-![在脚本中添加 echo 语句](/Asserts/Images//attachment/album/201705/02/005115i2rh71k7rz3c88xh.png)
+![在脚本中添加 echo 语句](/Asserts/Images/album/201705/02/005115i2rh71k7rz3c88xh.png)
 
 
 *在脚本中添加 echo 语句*
@@ -266,7 +266,7 @@ $ vi test2.sh
 编写完脚本后，保存它然后输入 `\re` 和回车键使它可执行。
 
 
-![使脚本可执行](/Asserts/Images//attachment/album/201705/02/005115ezuvseyjvkksyosn.png)
+![使脚本可执行](/Asserts/Images/album/201705/02/005115ezuvseyjvkksyosn.png)
 
 
 *使脚本可执行*
@@ -284,7 +284,7 @@ $ .vim/bash-support/codesnippets/
 
 ```
 
-![代码段列表](/Asserts/Images//attachment/album/201705/02/005115vgjeagjassxxkzk6.png)
+![代码段列表](/Asserts/Images/album/201705/02/005115vgjeagjassxxkzk6.png)
 
 
 *代码段列表*
@@ -293,7 +293,7 @@ $ .vim/bash-support/codesnippets/
 为了使用代码段，例如 free-software-comment，输入 `\nr` 并使用自动补全功能选择它的名称，然后输入回车键：
 
 
-![添加代码段到脚本](/Asserts/Images//attachment/album/201705/02/005116e9ouzri0iyaghr5h.png)
+![添加代码段到脚本](/Asserts/Images/album/201705/02/005116e9ouzri0iyaghr5h.png)
 
 
 *添加代码段到脚本*
@@ -319,7 +319,7 @@ $ .vim/bash-support/codesnippets/
 2. `\hm` – 命令帮助
 
 
-![查看内建命令帮助](/Asserts/Images//attachment/album/201705/02/005116v16e1vnarxovx1x9.png)
+![查看内建命令帮助](/Asserts/Images/album/201705/02/005116v16e1vnarxovx1x9.png)
 
 
 *查看内建命令帮助*

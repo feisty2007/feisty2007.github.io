@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS,许可证,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/15/142851k0fxxx00otoh0ird.jpg)
+![](/Asserts/Images/album/202007/15/142851k0fxxx00otoh0ird.jpg)
 
 
 #### Windows DNS 服务器存在风险高达 10 分的 17 年之久的严重漏洞

@@ -7,7 +7,7 @@ tags:	[linuxcn,Git]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/24/001727th95ra0zwl7avqql.jpg)
+![](/Asserts/Images/album/202005/24/001727th95ra0zwl7avqql.jpg)
 
 
 Git 和 GitHub 已经成为了开发者的基础工具，尤其是参与开源软件开发时经常会使用它们。但是在 Git 和 GitHub 使用过程中遇到的很多术语并没有标准的或约定俗成的中文译名，因此，我们根据 [GitHub](https://help.github.com/cn/github/getting-started-with-github/github-glossary) 、[Git](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitglossary.html) 等文档，并结合我们的翻译惯例，收集整理了 Git 和 GitHub 中常用术语的中文译名及其解释。

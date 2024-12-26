@@ -7,7 +7,7 @@ tags:	[linuxcn,DNF,Yum]
 ---
 
 
-![](/Asserts/Images//attachment/album/202004/29/093910jjxifk8mewuxmgos.jpg)
+![](/Asserts/Images/album/202004/29/093910jjxifk8mewuxmgos.jpg)
 
 
 由于 Yum 中许多长期存在的问题仍未得到解决，因此 [Yum 包管理器](https://www.2daygeek.com/yum-command-examples-manage-packages-rhel-centos-systems/)已被 [DNF 包管理器](https://www.2daygeek.com/linux-dnf-command-examples-manage-packages-fedora-centos-rhel-systems/)取代。这些问题包括性能差、内存占用过多、依赖解析速度变慢等。

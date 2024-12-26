@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/12/191540s4ik35skp9reni5e.jpg)
+![](/Asserts/Images/album/202112/12/191540s4ik35skp9reni5e.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/12/191555cq3iodko3ugfk5pk.jpg)
+![](/Asserts/Images/album/202112/12/191555cq3iodko3ugfk5pk.jpg)
 
 
 ### 只有三个人赞助的 Log4j
@@ -27,7 +27,7 @@ tags:	[linuxcn,开源,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/12/191607sp20eee2efeqtecj.jpg)
+![](/Asserts/Images/album/202112/12/191607sp20eee2efeqtecj.jpg)
 
 
 ### 谷歌前 CEO 称中国将很快在技术方面领先于美国
@@ -44,7 +44,7 @@ tags:	[linuxcn,开源,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/12/191617j3f6hyrjeegfsxwr.jpg)
+![](/Asserts/Images/album/202112/12/191617j3f6hyrjeegfsxwr.jpg)
 
 
 ### 明年 Linux 内核主线可能支持 Rust

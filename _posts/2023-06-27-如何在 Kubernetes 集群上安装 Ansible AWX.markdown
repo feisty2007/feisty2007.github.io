@@ -7,7 +7,7 @@ tags:	[linuxcn,Ansible,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/25/172630f134fo6cg5gcodu4.jpg)
+![](/Asserts/Images/album/202306/25/172630f134fo6cg5gcodu4.jpg)
 
 
 
@@ -48,7 +48,7 @@ $ helm version
 
 ```
 
-![Install-helm-linux-command-line](/Asserts/Images//attachment/album/202306/25/173004ydhfhw6he7f7y7c3.jpg)
+![Install-helm-linux-command-line](/Asserts/Images/album/202306/25/173004ydhfhw6he7f7y7c3.jpg)
 
 
 ### 步骤 2：安装 AWX chart
@@ -83,7 +83,7 @@ $ helm install ansible-awx-operator awx-operator/awx-operator -n awx --create-na
 
 ```
 
-![helm-install-awx-operator-kubernetes](/Asserts/Images//attachment/album/202306/25/173022vo84mjx3imdjd84m.jpg)
+![helm-install-awx-operator-kubernetes](/Asserts/Images/album/202306/25/173022vo84mjx3imdjd84m.jpg)
 
 
 这将下载 AWX 海图并将其安装在 `awx` 命名空间中的 Kubernetes 集群上。安装过程可能需要几分钟，请耐心等待。
@@ -104,7 +104,7 @@ $ sudo kubectl get pods -n awx
 你应该看到这样的东西：
 
 
-![awx-operator-pod-status-kubectl](/Asserts/Images//attachment/album/202306/25/173034r44ipn354p2i43t5.jpg)
+![awx-operator-pod-status-kubectl](/Asserts/Images/album/202306/25/173034r44ipn354p2i43t5.jpg)
 
 
 ### 步骤 4： 创建 PV、PVC 并部署 AWX yaml 文件
@@ -176,7 +176,7 @@ spec:
 保存并退出文件。
 
 
-![Postgres-pv-awx-kubernetes](/Asserts/Images//attachment/album/202306/25/173359dku85vqq8v1k4mxf.jpg)
+![Postgres-pv-awx-kubernetes](/Asserts/Images/album/202306/25/173359dku85vqq8v1k4mxf.jpg)
 
 
 重要说明：确保文件夹 `/mnt/storage` 存在于工作节点上，如果不存在，则在工作节点上使用 `mkdir` 命令创建它。在我们的例子中，工作节点是 `k8s-worker`。
@@ -212,7 +212,7 @@ spec:
 
 ```
 
-![posgres-pvc-awx-kubernetes](/Asserts/Images//attachment/album/202306/25/173128aqq33bt6wp15vmm7.jpg)
+![posgres-pvc-awx-kubernetes](/Asserts/Images/album/202306/25/173128aqq33bt6wp15vmm7.jpg)
 
 
 要创建 PVC，请运行以下 `kubectl` 命令：
@@ -251,7 +251,7 @@ spec:
 
 ```
 
-![Ansible-awx-yaml-file](/Asserts/Images//attachment/album/202306/25/173144bk6wj8k3bbr8j6rb.jpg)
+![Ansible-awx-yaml-file](/Asserts/Images/album/202306/25/173144bk6wj8k3bbr8j6rb.jpg)
 
 
 保存并关闭文件。
@@ -275,7 +275,7 @@ $ kubectl get pods -n awx
 
 ```
 
-![Ansible-AWX-Pods-Status-Kubernetes](/Asserts/Images//attachment/album/202306/25/173159zxo7dr7d7xtux3r1.jpg)
+![Ansible-AWX-Pods-Status-Kubernetes](/Asserts/Images/album/202306/25/173159zxo7dr7d7xtux3r1.jpg)
 
 
 ### 步骤 5：访问 AWX Web 界面
@@ -312,7 +312,7 @@ ansible-awx-web-svc   NodePort   10.99.83.248   <none>        8052:32254/TCP   8
 在此示例中，Web 服务在端口 32254 上可用。
 
 
-![Expose-Ansible-AWX-Web-NodePort-Kubernetes](/Asserts/Images//attachment/album/202306/25/173214q4m2vwv4g22em2vs.jpg)
+![Expose-Ansible-AWX-Web-NodePort-Kubernetes](/Asserts/Images/album/202306/25/173214q4m2vwv4g22em2vs.jpg)
 
 
 默认情况下，admin 用户是 Web 界面的 `admin`，密码在 `<resourcename>-admin-password` 机密信息中。要检索管理员密码，请运行：
@@ -338,13 +338,13 @@ http://192.168.1.223:3225
 
 ```
 
-![AWX-Login-URL-Kubernetes](/Asserts/Images//attachment/album/202306/25/173224juuvfqfhdlevebws.jpg)
+![AWX-Login-URL-Kubernetes](/Asserts/Images/album/202306/25/173224juuvfqfhdlevebws.jpg)
 
 
 输入凭据后单击登录。
 
 
-![Ansible-AWX-Web-Dashboard](/Asserts/Images//attachment/album/202306/25/173233xqr98skyytr8md3r.jpg)
+![Ansible-AWX-Web-Dashboard](/Asserts/Images/album/202306/25/173233xqr98skyytr8md3r.jpg)
 
 
 恭喜！ 你已在 Kubernetes 上成功安装 Ansible AWX。你现在可以使用 AWX 来自动化你的 IT 基础架构，并让你作为系统管理员的生活更轻松。

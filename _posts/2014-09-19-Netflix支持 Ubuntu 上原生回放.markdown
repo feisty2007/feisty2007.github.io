@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,NSS,Netflix]
 ---
 
 
-![](/Asserts/Images//attachment/album/201409/20/231711qd55n52oo5x2zs52.jpg)
+![](/Asserts/Images/album/201409/20/231711qd55n52oo5x2zs52.jpg)
 
 
 \*\*我们[上个月说的Netflix 的原生Linux支持很接近了](http://www.omgubuntu.co.uk/2014/08/netflix-linux-html5-support-plugins)，现在终于有了，我们只需几个简单的步骤就可以在Ubuntu桌面上启用HTML 5视频流了。

@@ -32,7 +32,7 @@ tags:	[linuxcn,开源,Ubuntu,捐赠]
 * Tip to Canonical – they help make it happen
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201210/10/185951ry08hrmiyr3vvvl8.png](/Asserts/Images//attachment/album/201210/10/185951ry08hrmiyr3vvvl8.png)
+![https://img.linux.net.cn/Asserts/Images/album/201210/10/185951ry08hrmiyr3vvvl8.png](/Asserts/Images/album/201210/10/185951ry08hrmiyr3vvvl8.png)
 
 
 捐赠页面使用截图

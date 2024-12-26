@@ -7,7 +7,7 @@ tags:	[linuxcn,Ansible,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/19/061202bud9plxpcqeeztlz.jpg)
+![](/Asserts/Images/album/201711/19/061202bud9plxpcqeeztlz.jpg)
 
 
 容器是一个日益流行的开发环境。作为一名开发人员，你可以选择多种工具来管理你的容器。本文将向你介绍 Ansible Container，并展示如何在类似生产环境中运行和测试你的应用程序。

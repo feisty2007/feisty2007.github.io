@@ -7,7 +7,7 @@ tags:	[linuxcn,嵌入式,OpenELEC,XBMC]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/18/224222s2cr88mzi8caj9zg.jpg)
+![](/Asserts/Images/album/201406/18/224222s2cr88mzi8caj9zg.jpg)
 
 
 **OpenELEC 4.0.4已经发布，它是一个专门设计运行XBMC的嵌入式系统，一个开放源代码的娱乐媒体中心。它构建 XBMC 13.1 基础之上。**

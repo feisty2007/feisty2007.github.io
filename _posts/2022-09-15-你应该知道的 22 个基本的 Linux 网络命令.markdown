@@ -7,7 +7,7 @@ tags:	[linuxcn,网络,命令行]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/09/151623qbizibbrzfrffrpc.jpg)
+![](/Asserts/Images/album/202209/09/151623qbizibbrzfrffrpc.jpg)
 
 
 我们并不是每天都会谈论 Linux 的命令行。但正如一些读者指出的那样，你们也想学习一些命令行的技巧。
@@ -77,7 +77,7 @@ ip address
 
 ```
 
-![ip address](/Asserts/Images//attachment/album/202209/09/151700l909kggdf9gfzu9b.png)
+![ip address](/Asserts/Images/album/202209/09/151700l909kggdf9gfzu9b.png)
 
 
 同样，你也可以使用 `ip` 命令来持续监控设备的状态，请使用 `monitor` 参数而不是我们之前用来获取 IP 地址的 `address` 参数：
@@ -89,7 +89,7 @@ ip monitor
 
 ```
 
-![ip monitor](/Asserts/Images//attachment/album/202209/09/151700j7d7tuu0sv86u550.png)
+![ip monitor](/Asserts/Images/album/202209/09/151700j7d7tuu0sv86u550.png)
 
 
 #### 2、traceroute
@@ -116,13 +116,13 @@ traceroute google.com
 
 ```
 
-![traceroute google.com](/Asserts/Images//attachment/album/202209/09/151700f2kx3mxzcab5bt7a.png)
+![traceroute google.com](/Asserts/Images/album/202209/09/151700f2kx3mxzcab5bt7a.png)
 
 
 默认情况下，`traceroute` 会使用 IPv4，但是你可以通过使用 `-6` 选项来改变这一行为，该选项将指示 `traceroute` 使用 IPv6。让我告诉你怎么做：
 
 
-![traceroute -6 google.com](/Asserts/Images//attachment/album/202209/09/151701cm7am5944tptd5md.png)
+![traceroute -6 google.com](/Asserts/Images/album/202209/09/151701cm7am5944tptd5md.png)
 
 
 #### 3、tracepath
@@ -146,7 +146,7 @@ tracepath google.com
 
 ```
 
-![tracepath google.com](/Asserts/Images//attachment/album/202209/09/151701vcyttoktwddnd6of.png)
+![tracepath google.com](/Asserts/Images/album/202209/09/151701vcyttoktwddnd6of.png)
 
 
 同样，你可以使用 `-b` 选项同时打印出 IP 地址和主机名。
@@ -158,7 +158,7 @@ tracepath -b google.com
 
 ```
 
-![tracepath -b google.com](/Asserts/Images//attachment/album/202209/09/151701yzugbrhhw33bzgoq.png)
+![tracepath -b google.com](/Asserts/Images/album/202209/09/151701yzugbrhhw33bzgoq.png)
 
 
 #### 4、ping
@@ -176,7 +176,7 @@ ping google.com
 
 ```
 
-![ping google.com](/Asserts/Images//attachment/album/202209/09/151702vcmttttxy7midydd.png)
+![ping google.com](/Asserts/Images/album/202209/09/151702vcmttttxy7midydd.png)
 
 
 这里，最后一行（`min/avg/max`）表示从指定的服务器获得响应的时间。
@@ -200,7 +200,7 @@ ss -at
 
 ```
 
-![ss -at](/Asserts/Images//attachment/album/202209/09/151702v72ijlv2ificf05z.png)
+![ss -at](/Asserts/Images/album/202209/09/151702v72ijlv2ificf05z.png)
 
 
 同样，你可以使用 `-au` 选项对 UDP 端口进行同样的操作：
@@ -212,7 +212,7 @@ ss -au
 
 ```
 
-![ss -au](/Asserts/Images//attachment/album/202209/09/151702keugegjs7asax0se.png)
+![ss -au](/Asserts/Images/album/202209/09/151702keugegjs7asax0se.png)
 
 
 #### 6、dig
@@ -239,7 +239,7 @@ dig itsfoss.com
 
 ```
 
-![dig itsfoss.com](/Asserts/Images//attachment/album/202209/09/151703tf7cdfz1gsa919oo.png)
+![dig itsfoss.com](/Asserts/Images/album/202209/09/151703tf7cdfz1gsa919oo.png)
 
 
 #### 7、host
@@ -257,7 +257,7 @@ host itsfoss.com
 
 ```
 
-![host itsfoss.com](/Asserts/Images//attachment/album/202209/09/151703vyyeqh06ny4ffhp6.png)
+![host itsfoss.com](/Asserts/Images/album/202209/09/151703vyyeqh06ny4ffhp6.png)
 
 
 同样，你可以用一个 IP 地址来获取主机名：
@@ -269,7 +269,7 @@ host 8.8.4.4
 
 ```
 
-![host 8.8.4.4](/Asserts/Images//attachment/album/202209/09/151703nq0l3mmoofl2g2gz.png)
+![host 8.8.4.4](/Asserts/Images/album/202209/09/151703nq0l3mmoofl2g2gz.png)
 
 
 #### 8、hostname
@@ -287,7 +287,7 @@ hostname
 
 ```
 
-![hostname](/Asserts/Images//attachment/album/202209/09/151704zkponspotrr28ktt.png)
+![hostname](/Asserts/Images/album/202209/09/151704zkponspotrr28ktt.png)
 
 
 从包含所需主机名的文件中改变主机名是这个工具的另一个有趣的功能：
@@ -299,7 +299,7 @@ sudo hostname -F <filename>
 
 ```
 
-![sudo hostname -F hostname.txt](/Asserts/Images//attachment/album/202209/09/151704cwdv39etzsv94z3e.png)
+![sudo hostname -F hostname.txt](/Asserts/Images/album/202209/09/151704cwdv39etzsv94z3e.png)
 
 
 #### 9、curl
@@ -329,13 +329,13 @@ curl -O [URL]
 
 ```
 
-![curl -o url](/Asserts/Images//attachment/album/202209/09/151704s550wwdbvxvhbw7b.png)
+![curl -o url](/Asserts/Images/album/202209/09/151704s550wwdbvxvhbw7b.png)
 
 
 在下载大文件时，进度条会很方便，你可以用 `curl` 的 `-#` 选项来显示进度条。
 
 
-![curl -# -O](/Asserts/Images//attachment/album/202209/09/151704h0xk1o1qqqcsjxk1.png)
+![curl -# -O](/Asserts/Images/album/202209/09/151704h0xk1o1qqqcsjxk1.png)
 
 
 #### 10、mtr
@@ -353,7 +353,7 @@ mtr [URL/IP]
 
 ```
 
-![mtr google.com](/Asserts/Images//attachment/album/202209/09/151705ymzjadta68pbmozt.png)
+![mtr google.com](/Asserts/Images/album/202209/09/151705ymzjadta68pbmozt.png)
 
 
 如果你想让 `mtr` 同时显示主机名和 IP 地址，你可以把它和 `-b` 选项配对，如下图：
@@ -365,7 +365,7 @@ mtr -b [URL]
 
 ```
 
-![mtr -b](/Asserts/Images//attachment/album/202209/09/151705rw0oeiuq6uxofhxw.png)
+![mtr -b](/Asserts/Images/album/202209/09/151705rw0oeiuq6uxofhxw.png)
 
 
 #### 11、whois
@@ -392,7 +392,7 @@ whois [DomainName]
 
 ```
 
-![whois google.com](/Asserts/Images//attachment/album/202209/09/151705lyt0wh1e0wtbpehc.png)
+![whois google.com](/Asserts/Images/album/202209/09/151705lyt0wh1e0wtbpehc.png)
 
 
 另外，你也可以用一个 IP 地址来代替域名，你会得到同样的细节。
@@ -422,7 +422,7 @@ ifplugstatus
 
 ```
 
-![ifplugstatus](/Asserts/Images//attachment/album/202209/09/151706jie2nxgobdoaxhxv.png)
+![ifplugstatus](/Asserts/Images/album/202209/09/151706jie2nxgobdoaxhxv.png)
 
 
 #### 13、iftop
@@ -449,7 +449,7 @@ sudo iftop
 
 ```
 
-![iftop](/Asserts/Images//attachment/album/202209/09/151706if8wcf8y48b476yi.png)
+![iftop](/Asserts/Images/album/202209/09/151706if8wcf8y48b476yi.png)
 
 
 你也可以通过在设备名称后面加上 `-i` 选项来指定网络设备。
@@ -464,7 +464,7 @@ sudo iftop -i <DeviceName>.
 在我的例子中，是 `enp1s0`，所以我的输出将是如下：
 
 
-![sudo iftop -i enp1s0](/Asserts/Images//attachment/album/202209/09/151706spfvp0dp1bhtbh11.png)
+![sudo iftop -i enp1s0](/Asserts/Images/album/202209/09/151706spfvp0dp1bhtbh11.png)
 
 
 #### 14、tcpdump
@@ -491,7 +491,7 @@ sudo tcpdump
 
 ```
 
-![sudo tcpdump](/Asserts/Images//attachment/album/202209/09/151707qulxbheo3xsh62y2.png)
+![sudo tcpdump](/Asserts/Images/album/202209/09/151707qulxbheo3xsh62y2.png)
 
 
 那么如何将捕获的数据包保存在 pcap 文件中呢？让我告诉你怎么做：
@@ -503,7 +503,7 @@ sudo tcpdump -w Captured_Packets.cap -i < networkdevice >
 
 ```
 
-![sudo tcpdump -w](/Asserts/Images//attachment/album/202209/09/151707m1kqji1p2llj5lii.png)
+![sudo tcpdump -w](/Asserts/Images/album/202209/09/151707m1kqji1p2llj5lii.png)
 
 
 要访问保存的文件，你需要使用 `-r` 选项加上文件名。
@@ -515,7 +515,7 @@ sudo tcpdump -r Captured_Packets.pcap
 
 ```
 
-![sudo tcpdump -r filename](/Asserts/Images//attachment/album/202209/09/151708hid43ohf4din3psf.png)
+![sudo tcpdump -r filename](/Asserts/Images/album/202209/09/151708hid43ohf4din3psf.png)
 
 
 #### 15、ethtool
@@ -542,7 +542,7 @@ sudo ethtool <InterfaceName>
 
 ```
 
-![sudo ethtool enp1s0](/Asserts/Images//attachment/album/202209/09/151708f83ckipzcw3pbrri.png)
+![sudo ethtool enp1s0](/Asserts/Images/album/202209/09/151708f83ckipzcw3pbrri.png)
 
 
 #### 16、nmcli
@@ -560,7 +560,7 @@ nmcli dev status
 
 ```
 
-![nmcli dev status](/Asserts/Images//attachment/album/202209/09/151709ndff8fpzdpwg74fy.png)
+![nmcli dev status](/Asserts/Images/album/202209/09/151709ndff8fpzdpwg74fy.png)
 
 
 当不使用任何选项时，它将带来你系统中所有现有设备的信息：
@@ -572,7 +572,7 @@ nmcli
 
 ```
 
-![nmcli](/Asserts/Images//attachment/album/202209/09/151709vu5pp5qtzfdevi60.png)
+![nmcli](/Asserts/Images/album/202209/09/151709vu5pp5qtzfdevi60.png)
 
 
 #### 17、nmap
@@ -599,7 +599,7 @@ nmap itsfoss.com
 
 ```
 
-![nmap itsfoss.com](/Asserts/Images//attachment/album/202209/09/151710eew2jj9qt9k4jt5f.png)
+![nmap itsfoss.com](/Asserts/Images/album/202209/09/151710eew2jj9qt9k4jt5f.png)
 
 
 #### 18、bmon
@@ -626,7 +626,7 @@ bmon
 
 ```
 
-![bmon](/Asserts/Images//attachment/album/202209/09/151710vp81hq1pvy88827r.png)
+![bmon](/Asserts/Images/album/202209/09/151710vp81hq1pvy88827r.png)
 
 
 #### 19、firewalld
@@ -653,7 +653,7 @@ sudo firewall-cmd --permanent --zone=public --add-port=80/tcp
 
 ```
 
-![sudo firewall-cmd --permanent --zone=public](/Asserts/Images//attachment/album/202209/09/151711zko733kwwoolxj64.png)
+![sudo firewall-cmd --permanent --zone=public](/Asserts/Images/album/202209/09/151711zko733kwwoolxj64.png)
 
 
 同样，要删除最近添加的规则，你必须使用 `-remove` 选项，如下所示：
@@ -665,7 +665,7 @@ sudo firewall-cmd --zone=public --remove-port=80/tcp
 
 ```
 
-![sudo firewall-cmd --zone=public --remove](/Asserts/Images//attachment/album/202209/09/151711aq8ai9adayuxd943.png)
+![sudo firewall-cmd --zone=public --remove](/Asserts/Images/album/202209/09/151711aq8ai9adayuxd943.png)
 
 
 #### 20、iperf
@@ -695,7 +695,7 @@ iperf -s -u
 其中，`-s` 选项表示服务器，`-u` 选项为 UDP 格式。
 
 
-![iperf -s -u](/Asserts/Images//attachment/album/202209/09/151711spfywrztryrrrryq.png)
+![iperf -s -u](/Asserts/Images/album/202209/09/151711spfywrztryrrrryq.png)
 
 
 现在，你可以通过提供首选协议的 IP 地址有效载荷连接到你的服务器（使用 `-c` 选项表示客户端）。在这个例子中，我选择了 UDP（使用 `-u` 选项），有效载荷为 100：
@@ -707,7 +707,7 @@ iperf -c 10.0.2.15 -u 100
 
 ```
 
-![iperf -c](/Asserts/Images//attachment/album/202209/09/151711cjsrmoa7ja7opl29.png)
+![iperf -c](/Asserts/Images/album/202209/09/151711cjsrmoa7ja7opl29.png)
 
 
 #### 21、speedtest-cli
@@ -734,7 +734,7 @@ speedtest-cli
 
 ```
 
-![speedtest-cli](/Asserts/Images//attachment/album/202209/09/151712la7iv5a36a3ia7o5.png)
+![speedtest-cli](/Asserts/Images/album/202209/09/151712la7iv5a36a3ia7o5.png)
 
 
 #### 22、vnstat
@@ -761,13 +761,13 @@ vnstat
 
 ```
 
-![vnstat](/Asserts/Images//attachment/album/202209/09/152422xtsjsexpxspwcecu.png)
+![vnstat](/Asserts/Images/album/202209/09/152422xtsjsexpxspwcecu.png)
 
 
 对于实时监控，你可以将 `vnstat` 命令与 `-l` 选项配对。
 
 
-![vnstat -l](/Asserts/Images//attachment/album/202209/09/151712k986kg3ik6kzkkd9.png)
+![vnstat -l](/Asserts/Images/album/202209/09/151712k986kg3ik6kzkkd9.png)
 
 
 ### 一个长长的清单，对吗？

@@ -21,7 +21,7 @@ tags:	[linuxcn,ubuntu tweak]
 > 
 
 
-![](/Asserts/Images//attachment/album/201504/07/223403nw4q215kx8l2mqx7.png)
+![](/Asserts/Images/album/201504/07/223403nw4q215kx8l2mqx7.png)
 
 
 这是因为我的 /boot 分区被不再需要的旧内核与包塞满了。
@@ -50,31 +50,31 @@ tags:	[linuxcn,ubuntu tweak]
 要删除不需要的垃圾文件，打开Ubuntu Tweak，点击 **Janitor** 选项。
 
 
-![](/Asserts/Images//attachment/album/201504/07/223406r5cvkiazrirgp9gj.png)
+![](/Asserts/Images/album/201504/07/223406r5cvkiazrirgp9gj.png)
 
 
 选择你想要删除的文件的选框，并点击 **Clean** 按钮。
 
 
-![](/Asserts/Images//attachment/album/201504/07/223409mglg01h0gh8dlgq4.png)
+![](/Asserts/Images/album/201504/07/223409mglg01h0gh8dlgq4.png)
 
 
 Janitor现在就开始清理你的系统了。
 
 
-![](/Asserts/Images//attachment/album/201504/07/223412i2e2u07gpn3n22vf.png)
+![](/Asserts/Images/album/201504/07/223412i2e2u07gpn3n22vf.png)
 
 
 真酷！系统清理完成了。
 
 
-![](/Asserts/Images//attachment/album/201504/07/223413dett0l608kl0gztc.png)
+![](/Asserts/Images/album/201504/07/223413dett0l608kl0gztc.png)
 
 
 我重启启动了软件更新。这个没再遇到问题了。
 
 
-![](/Asserts/Images//attachment/album/201504/07/223414oot7mbb7bsyv9vr7.png)
+![](/Asserts/Images/album/201504/07/223414oot7mbb7bsyv9vr7.png)
 
 
 就是这样。当然也有其他的方法可以清理系统。但是，这个方法很容易学。我们可以只点击几次鼠标就可以清理系统。

@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行,书签]
 ---
 
 
-![](/Asserts/Images//attachment/album/201611/02/094421s6deeg2r9rdzog9r.jpg)
+![](/Asserts/Images/album/201611/02/094421s6deeg2r9rdzog9r.jpg)
 
 
 浏览器书签虽然不常被提及，但是作为互联网浏览的一部分。没有好的书签功能，网站链接可能会丢失，下次再不能访问。这就是为什么一个好的书签管理器很重要。
@@ -19,7 +19,7 @@ tags:	[linuxcn,命令行,书签]
 ### 安装
 
 
-![](/Asserts/Images//attachment/album/201611/02/094438tpm80mq0w7sebaep.jpg)
+![](/Asserts/Images/album/201611/02/094438tpm80mq0w7sebaep.jpg)
 
 
 Buku 不是非常流行。因此，用户需要自己编译它。然而，在 Ubuntu 上安装实际上很简单。打开终端并且使用 apt 安装`git` 和 `python3`，这两个工具在构建中很关键。
@@ -56,7 +56,7 @@ sudo make install
 ### 导入书签
 
 
-![](/Asserts/Images//attachment/album/201611/02/094458nkwe67555255bxg4.jpg)
+![](/Asserts/Images/album/201611/02/094458nkwe67555255bxg4.jpg)
 
 
 要将书签直接导入 Buku 中，首先从浏览器中将书签导出成一个 html 文件。接着，输入下面的命令：
@@ -74,7 +74,7 @@ buku -i bookmarks.html
 ### 导出书签
 
 
-![](/Asserts/Images//attachment/album/201611/02/094517jo5u0o850ju585ob.jpg)
+![](/Asserts/Images/album/201611/02/094517jo5u0o850ju585ob.jpg)
 
 
 导出书签和导入一样简单。要导出所有的书签，使用下面的命令：
@@ -92,7 +92,7 @@ buku -e bookmarks.html
 ### 打开书签
 
 
-![](/Asserts/Images//attachment/album/201611/02/094544kart6a43ap0qapta.jpg)
+![](/Asserts/Images/album/201611/02/094544kart6a43ap0qapta.jpg)
 
 
 要打开一个书签，首先要搜索。这需要用 `-s` 选项。运行下面的命令来搜索：
@@ -119,7 +119,7 @@ buku -l
 
 ```
 
-![](/Asserts/Images//attachment/album/201611/02/094609kn68aftb68yqwbby.jpg)
+![](/Asserts/Images/album/201611/02/094609kn68aftb68yqwbby.jpg)
 
 
 数据库加锁后，没有输入密码将不能打开书签。要解密它，使用 `-k` 选项。
@@ -131,7 +131,7 @@ buku -k
 
 ```
 
-![](/Asserts/Images//attachment/album/201611/02/094631r4cqs3f7s755i3sz.jpg)
+![](/Asserts/Images/album/201611/02/094631r4cqs3f7s755i3sz.jpg)
 
 
 ### 其他功能
@@ -146,7 +146,7 @@ buku --help
 
 ```
 
-![](/Asserts/Images//attachment/album/201611/02/094657swxw5l5uw345zjwa.jpg)
+![](/Asserts/Images/album/201611/02/094657swxw5l5uw345zjwa.jpg)
 
 
 ### 总结

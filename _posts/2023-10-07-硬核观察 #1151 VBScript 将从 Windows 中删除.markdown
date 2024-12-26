@@ -7,10 +7,10 @@ tags:	[linuxcn,VBScript,curl,DDoS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/11/164340mda9ls0qmsmamqdd.jpg)
+![](/Asserts/Images/album/202310/11/164340mda9ls0qmsmamqdd.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/11/164348o8fqsf8fqeke23lq.jpg)
+![](/Asserts/Images/album/202310/11/164348o8fqsf8fqeke23lq.jpg)
 
 
 ### VBScript 将从 Windows 中删除
@@ -35,7 +35,7 @@ tags:	[linuxcn,VBScript,curl,DDoS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/11/164359n9fse48nucvcskfc.jpg)
+![](/Asserts/Images/album/202310/11/164359n9fse48nucvcskfc.jpg)
 
 
 ### 严重安全漏洞影响三年来的所有 curl 版本
@@ -60,7 +60,7 @@ tags:	[linuxcn,VBScript,curl,DDoS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/11/164410h4xr5dctccm5cmxm.jpg)
+![](/Asserts/Images/album/202310/11/164410h4xr5dctccm5cmxm.jpg)
 
 
 ### 谷歌等披露 HTTP/2 “快速重置” DDoS 攻击

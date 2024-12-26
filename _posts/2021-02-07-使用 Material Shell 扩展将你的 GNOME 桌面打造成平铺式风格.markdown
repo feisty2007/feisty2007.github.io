@@ -10,7 +10,7 @@ tags:	[linuxcn,平铺]
 平铺式窗口的特性吸引了很多人的追捧。也许是因为它很好看，也许是因为它能提高 [Linux 快捷键](https://itsfoss.com/ubuntu-shortcuts/) 玩家的效率。又或者是因为使用不同寻常的平铺式窗口是一种新奇的挑战。
 
 
-![Tiling Windows in Linux | Image Source](/Asserts/Images//attachment/album/202102/12/162305yas02ot0s2w0qhi2.jpg)
+![Tiling Windows in Linux | Image Source](/Asserts/Images/album/202102/12/162305yas02ot0s2w0qhi2.jpg)
 
 
 从 i3 到 [Sway](https://itsfoss.com/sway-window-manager/)，Linux 桌面拥有各种各样的平铺式窗口管理器。配置一个平铺式窗口管理器需要一个陡峭的学习曲线。
@@ -111,13 +111,13 @@ Material Shell 是一个 GNOME 扩展。所以，请 [检查你的桌面环境](
 我希望你知道 [如何使用 GNOME 扩展](https://itsfoss.com/gnome-shell-extensions/)。最简单的办法就是 [在浏览器中打开这个链接](https://extensions.gnome.org/extension/3357/material-shell/)，安装 GNOME 扩展浏览器插件，然后启用 Material Shell 扩展即可。
 
 
-![](/Asserts/Images//attachment/album/202102/12/162306svbv8zhblz5h5iti.png)
+![](/Asserts/Images/album/202102/12/162306svbv8zhblz5h5iti.png)
 
 
 如果你不喜欢这个扩展，你也可以在同样的链接中禁用它。或者在 GNOME 的“扩展”应用程序中禁用它。
 
 
-![](/Asserts/Images//attachment/album/202102/12/162306sesmxjs05osmi094.png)
+![](/Asserts/Images/album/202102/12/162306sesmxjs05osmi094.png)
 
 
 ### 用不用平铺式？

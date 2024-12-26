@@ -7,7 +7,7 @@ tags:	[linuxcn,ACL,目录,权限]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/07/210335tgwti3xdxidtx6zs.jpg)
+![](/Asserts/Images/album/201705/07/210335tgwti3xdxidtx6zs.jpg)
 
 
 在上篇文章中我们向您展示了如何在 Linux 上[创建一个共享目录](/article-8187-1.html)。这次，我们会为您介绍如何将 Linux 上指定目录的读写权限赋予用户。
@@ -56,7 +56,7 @@ tags:	[linuxcn,ACL,目录,权限]
 从下方的截屏可以看到，文件系统类型是 `ext4`，并且从 `CONFIG_EXT4_FS_POSIX_ACL=y` 选项可以发现内核是支持 **POSIX ACL** 的。
 
 
-![Check Filesystem Type and Kernel ACL Support](/Asserts/Images//attachment/album/201705/07/210408kyof3u59rttxkjyt.png)
+![Check Filesystem Type and Kernel ACL Support](/Asserts/Images/album/201705/07/210408kyof3u59rttxkjyt.png)
 
 
 *查看文件系统类型和内核的 ACL 支持。*
@@ -71,7 +71,7 @@ tags:	[linuxcn,ACL,目录,权限]
 
 ```
 
-![Check Partition ACL Support](/Asserts/Images//attachment/album/201705/07/210409n7hu77rbk887hb70.png)
+![Check Partition ACL Support](/Asserts/Images/album/201705/07/210409n7hu77rbk887hb70.png)
 
 
 *查看分区是否支持 ACL*
@@ -98,7 +98,7 @@ tags:	[linuxcn,ACL,目录,权限]
 
 ```
 
-![Give Read/Write Access to Directory Using ACL](/Asserts/Images//attachment/album/201705/07/210410vjq0cjg7c0wcsx18.png)
+![Give Read/Write Access to Directory Using ACL](/Asserts/Images/album/201705/07/210410vjq0cjg7c0wcsx18.png)
 
 
 *通过 ACL 对指定目录赋予读写权限*

@@ -7,7 +7,7 @@ tags:	[linuxcn,Shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/27/152721rd48wwn7xxfkngdw.jpg)
+![](/Asserts/Images/album/202307/27/152721rd48wwn7xxfkngdw.jpg)
 
 
 
@@ -58,7 +58,7 @@ Bash 具有众多特性，包括：
 和其他 Shell 一样，Bash 有其优点和缺点。使用 Bash 的一些优势包括广泛的使用性、详尽的文档以及庞大的社区支持。然而，Bash 可能缺乏其他 Shell 中存在的一些现代化特性。
 
 
-![Linux 中的 Bash shell](/Asserts/Images//attachment/album/202307/27/152903kf8wmp4hhs4xl999.jpg)
+![Linux 中的 Bash shell](/Asserts/Images/album/202307/27/152903kf8wmp4hhs4xl999.jpg)
 
 
 #### 安装
@@ -89,7 +89,7 @@ Zsh 提供了几个优势，包括：
 * 你还可以使用 [Oh My Zsh 脚本](https://www.debugpoint.com/oh-my-zsh-powerlevel10k/) 进行广泛的自定义。
 
 
-![应用 powerlevel10k zsh 主题后的效果](/Asserts/Images//attachment/album/202307/27/152916xhbxqgrdbrpliayl.jpg)
+![应用 powerlevel10k zsh 主题后的效果](/Asserts/Images/album/202307/27/152916xhbxqgrdbrpliayl.jpg)
 
 
 Zsh 的复杂性可能使新手感到不知所措，其丰富的配置选项可能会使初学者感到困惑。
@@ -125,7 +125,7 @@ Fish 的独特之处在于：
 虽然 Fish 在用户友好性方面表现出色，但其独特的设计可能并不适合所有人。一些高级用户可能会发现某些功能在高级使用方面有所限制。
 
 
-![Fish Shell](/Asserts/Images//attachment/album/202307/27/152925sjn8uuzpo1xu3mz1.jpg)
+![Fish Shell](/Asserts/Images/album/202307/27/152925sjn8uuzpo1xu3mz1.jpg)
 
 
 #### Fish Shell 的安装

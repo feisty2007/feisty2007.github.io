@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,fastjson]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/02/144500qjggjs74gs8s48jg.jpg)
+![](/Asserts/Images/album/202006/02/144500qjggjs74gs8s48jg.jpg)
 
 
 #### 在 Linus Torvalds 建议之后内核淘汰 80 个字符长度限制

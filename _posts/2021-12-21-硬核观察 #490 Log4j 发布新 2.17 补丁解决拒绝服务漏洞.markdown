@@ -7,10 +7,10 @@ tags:	[linuxcn,Log4j,ReactOS,韦伯望远镜]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/19/143301yvvchuv5un2uz91v.jpg)
+![](/Asserts/Images/album/202112/19/143301yvvchuv5un2uz91v.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/19/143311qwdnwzd39avhppxv.jpg)
+![](/Asserts/Images/album/202112/19/143311qwdnwzd39avhppxv.jpg)
 
 
 ### Log4j 发布新 2.17 补丁解决拒绝服务漏洞
@@ -27,7 +27,7 @@ tags:	[linuxcn,Log4j,ReactOS,韦伯望远镜]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/19/143323ywmms8cssey89s9e.jpg)
+![](/Asserts/Images/album/202112/19/143323ywmms8cssey89s9e.jpg)
 
 
 ### 素有“开源 Windows” 之称的 ReactOS 发布新版本
@@ -44,7 +44,7 @@ ReactOS 旨在实现与微软 Windows 的二进制兼容，它在一年半之后
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/19/143345hizffl4icinf7h73.jpg)
+![](/Asserts/Images/album/202112/19/143345hizffl4icinf7h73.jpg)
 
 
 ### 科学家们正在准备发射价值 100 亿美元的韦伯望远镜

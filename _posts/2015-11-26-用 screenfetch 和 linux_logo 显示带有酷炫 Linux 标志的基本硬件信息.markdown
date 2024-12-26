@@ -10,7 +10,7 @@ tags:	[linuxcn,screenfetch,linux_logo]
 想在屏幕上显示出你的 Linux 发行版的酷炫标志和基本硬件信息吗？不用找了，来试试超赞的 screenfetch 和 linux\_logo 工具。
 
 
-![Linux Logo](/Asserts/Images//attachment/album/201511/01/230001y3s98ro26295ta9f.jpg)
+![Linux Logo](/Asserts/Images/album/201511/01/230001y3s98ro26295ta9f.jpg)
 
 
 ### 来看看 screenfetch 吧
@@ -39,7 +39,7 @@ $ sudo apt-get install screenfetch
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/01/230228p7if3cl27nh9zzf0.jpg)
+![](/Asserts/Images/album/201511/01/230228p7if3cl27nh9zzf0.jpg)
 
 
 *图一：用 apt-get 安装 screenfetch*
@@ -67,7 +67,7 @@ $ brew install screenfetch
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/01/230229fs635gs5505w5k0g.jpg)
+![](/Asserts/Images/album/201511/01/230229fs635gs5505w5k0g.jpg)
 
 
 *图二：用 brew 命令安装 screenfetch*
@@ -85,7 +85,7 @@ $ sudo pkg install sysutils/screenfetch
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/01/230231kl87dwsl750m0wal.jpg)
+![](/Asserts/Images/album/201511/01/230231kl87dwsl750m0wal.jpg)
 
 
 *图三：在 FreeBSD 用 pkg 安装 screenfetch*
@@ -103,7 +103,7 @@ $ sudo dnf install screenfetch
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/01/230232ln4v994fu1fqvp2q.jpg)
+![](/Asserts/Images/album/201511/01/230232ln4v994fu1fqvp2q.jpg)
 
 
 *图四：在 Fedora 22 用 dnf 安装 screenfetch*
@@ -124,25 +124,25 @@ $ screenfetch
 这是不同系统的输出：
 
 
-![](/Asserts/Images//attachment/album/201511/01/230233w92d45x9bbtb7x21.jpg)
+![](/Asserts/Images/album/201511/01/230233w92d45x9bbtb7x21.jpg)
 
 
 *Fedora 上的 Screenfetch*
 
 
-![](/Asserts/Images//attachment/album/201511/01/230235x5ihd1qrq7e8hj1i.jpg)
+![](/Asserts/Images/album/201511/01/230235x5ihd1qrq7e8hj1i.jpg)
 
 
 *OS X 上的 Screenfetch*
 
 
-![](/Asserts/Images//attachment/album/201511/01/230236b5ayn5uas6646yae.jpg)
+![](/Asserts/Images/album/201511/01/230236b5ayn5uas6646yae.jpg)
 
 
 *FreeBSD 上的 Screenfetch*
 
 
-![](/Asserts/Images//attachment/album/201511/01/230237d3ru6tpt620640t6.jpg)
+![](/Asserts/Images/album/201511/01/230237d3ru6tpt620640t6.jpg)
 
 
 *Debian 上的 Screenfetch*
@@ -250,7 +250,7 @@ $ linux_logo
 
 ```
 
-![](/Asserts/Images//attachment/album/201511/01/230238zgh6gy2aoirkh4e6.jpg)
+![](/Asserts/Images/album/201511/01/230238zgh6gy2aoirkh4e6.jpg)
 
 
 *运行 linux\_logo*
@@ -341,7 +341,7 @@ $ linux_logo -f -L random_xy
 你[可以像下面那样结合 bash 的循环来显示不同的标志](http://www.cyberciti.biz/faq/bash-for-loop/)，输入：
 
 
-![](/Asserts/Images//attachment/album/201511/01/230241p2ut2tyjjzrtcqq8.gif)
+![](/Asserts/Images/album/201511/01/230241p2ut2tyjjzrtcqq8.gif)
 
 
 *动图1： linux\_logo 和 bash 循环，既有趣又能发朋友圈耍酷*

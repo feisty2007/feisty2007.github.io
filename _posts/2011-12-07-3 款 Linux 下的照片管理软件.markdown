@@ -41,7 +41,7 @@ digiKam
 Digikam 是一个可以运行在 Linux，Windows，和 Mac OSX 下的数码照片管理应用程序。支持所有主要的图片文件格式，并可以按目录、日期、时间组织专辑，或使用标签动态组织相册照片。还可以给照片添加标题和介绍，将来可以通过搜索这些信息来查找图片。通过插件，还可以把图片分享到 23hq、Facebook、Flickr、Gallery2、Google Earth’s KML files、SmugMug、Piwigo、Simpleviewer或刻录到光盘上，而且还可以制作web相册。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201112/11/132654okoo17qag7zz711o.png](/Asserts/Images//attachment/album/201112/11/132654okoo17qag7zz711o.png)
+![https://img.linux.net.cn/Asserts/Images/album/201112/11/132654okoo17qag7zz711o.png](/Asserts/Images/album/201112/11/132654okoo17qag7zz711o.png)
 
 
 特点：
@@ -85,7 +85,7 @@ Digikam 是一个可以运行在 Linux，Windows，和 Mac OSX 下的数码照�
 * 使用 KIO 协议（ftp, ssh, smb, fish, svn, tar... ... ）导出到本地目录或远程计算机上
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201112/11/132656a33jhci5aibibilw.jpg](/Asserts/Images//attachment/album/201112/11/132656a33jhci5aibibilw.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201112/11/132656a33jhci5aibibilw.jpg](/Asserts/Images/album/201112/11/132656a33jhci5aibibilw.jpg)
 
 
 网站： [www.digikam.org](http://www.digikam.org/)   
@@ -123,7 +123,7 @@ Shotwell 是一个[GNOME桌面环境](http://www.gnome.org/)下的个人照片�
 * 发布：可以发布照片到 FACEBOOK、Flickr、Picasa 网络相册和 YouTube。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201112/11/133848d5obcm7dvcsvct53.png](/Asserts/Images//attachment/album/201112/11/133848d5obcm7dvcsvct53.png)
+![https://img.linux.net.cn/Asserts/Images/album/201112/11/133848d5obcm7dvcsvct53.png](/Asserts/Images/album/201112/11/133848d5obcm7dvcsvct53.png)
 
 
 网站：<http://yorba.org/shotwell/>  
@@ -136,7 +136,7 @@ gThumb
 gThumb 是一个开源的基于通用公共许可证下发布的GNOME桌面环境的图像浏览管理器。它最开始是基于 GQView 的，界面清洁简单。还包括从相机传输照片功能。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201112/11/140431nwjqefalqwdnzazj.jpeg](/Asserts/Images//attachment/album/201112/11/140431nwjqefalqwdnzazj.jpeg)
+![https://img.linux.net.cn/Asserts/Images/album/201112/11/140431nwjqefalqwdnzazj.jpeg](/Asserts/Images/album/201112/11/140431nwjqefalqwdnzazj.jpeg)
 
 
 **特点**
@@ -150,7 +150,7 @@ gThumb 是一个开源的基于通用公共许可证下发布的GNOME桌面环�
 * 查看在全屏模式下，旋转，翻转图片。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201112/11/140434d0ggy0knz7zady0w.jpeg](/Asserts/Images//attachment/album/201112/11/140434d0ggy0knz7zady0w.jpeg)
+![https://img.linux.net.cn/Asserts/Images/album/201112/11/140434d0ggy0knz7zady0w.jpeg](/Asserts/Images/album/201112/11/140434d0ggy0knz7zady0w.jpeg)
 
 
 图片浏览
@@ -196,7 +196,7 @@ gThumb 是一个开源的基于通用公共许可证下发布的GNOME桌面环�
 * 将图片刻录到CD / DVD。
 
 
-![](/Asserts/Images//attachment/album/201112/11/140418jjozi2z828npoors.jpg)
+![](/Asserts/Images/album/201112/11/140418jjozi2z828npoors.jpg)
 
 
 网站：<http://live.gnome.org/gthumb>  

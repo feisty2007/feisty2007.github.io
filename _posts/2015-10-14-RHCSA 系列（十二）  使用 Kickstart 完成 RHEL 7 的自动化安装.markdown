@@ -13,7 +13,7 @@ tags:	[linuxcn,RHCSA]
 在这篇文章中，我们将向你展示使用 kickstart 工具时所需的一切，以便在安装过程中，不用你时不时地照看“处在襁褓中”的服务器。
 
 
-![RHEL 7 的自动化 Kickstart 安装](/Asserts/Images//attachment/album/201510/02/001327fm47537gc375f47z.jpg)
+![RHEL 7 的自动化 Kickstart 安装](/Asserts/Images/album/201510/02/001327fm47537gc375f47z.jpg)
 
 
 *RHCSA： RHEL 7 的自动化 Kickstart 安装*
@@ -39,7 +39,7 @@ Kickstart 是一种被用来执行无人值守操作系统安装和配置的自�
 要创建一个 kickstart 文件，请登录你的红帽客户门户网站（Red Hat Customer Portal）帐户，并使用 [Kickstart 配置工具](https://access.redhat.com/labs/kickstartconfig/) 来选择所需的安装选项。在向下滑动之前请仔细阅读每个选项，然后选择最适合你需求的选项：
 
 
-![Kickstart 配置工具](/Asserts/Images//attachment/album/201510/02/001329qrjfjrrbe6kbysyh.png)
+![Kickstart 配置工具](/Asserts/Images/album/201510/02/001329qrjfjrrbe6kbysyh.png)
 
 
 *Kickstart 配置工具*
@@ -97,7 +97,7 @@ url --url=http://192.168.0.18//kickstart/media
 
 ```
 
-![挂载 RHEL ISO 镜像](/Asserts/Images//attachment/album/201510/02/001331ammm433omze73met.png)
+![挂载 RHEL ISO 镜像](/Asserts/Images/album/201510/02/001331ammm433omze73met.png)
 
 
 *挂载 RHEL ISO 镜像*
@@ -115,7 +115,7 @@ url --url=http://192.168.0.18//kickstart/media
 这一步做完后，/var/www/html/kickstart/media 目录中的文件列表和磁盘使用情况将如下所示：
 
 
-![Kickstart 媒体文件](/Asserts/Images//attachment/album/201510/02/001332r9m1m39svs423181.png)
+![Kickstart 媒体文件](/Asserts/Images/album/201510/02/001332r9m1m39svs423181.png)
 
 
 *Kickstart 媒体文件*
@@ -157,7 +157,7 @@ url --url=http://192.168.0.18//kickstart/media
 
 ```
 
-![RHEL Kickstart 安装](/Asserts/Images//attachment/album/201510/02/001333auy0duuou44udy88.png)
+![RHEL Kickstart 安装](/Asserts/Images/album/201510/02/001333auy0duuou44udy88.png)
 
 
 *RHEL Kickstart 安装*
@@ -169,7 +169,7 @@ url --url=http://192.168.0.18//kickstart/media
 当你按了 Enter 键后，自动安装就开始了，且你将看到一个列有正在被安装的软件的列表（软件包的数目和名称根据你所选择的程序和软件包组而有所不同）：
 
 
-![RHEL 7 的自动化 Kickstart 安装](/Asserts/Images//attachment/album/201510/02/001334mfj9fxmoqoog7ooq.png)
+![RHEL 7 的自动化 Kickstart 安装](/Asserts/Images/album/201510/02/001334mfj9fxmoqoog7ooq.png)
 
 
 *RHEL 7 的自动化 Kickstart 安装*
@@ -178,7 +178,7 @@ url --url=http://192.168.0.18//kickstart/media
 当自动化过程结束后，将提示你移除安装介质，接着你就可以启动到你新安装的系统中了：
 
 
-![RHEL 7 启动屏幕](/Asserts/Images//attachment/album/201510/02/001334ogdvxon8vm7s7hss.png)
+![RHEL 7 启动屏幕](/Asserts/Images/album/201510/02/001334ogdvxon8vm7s7hss.png)
 
 
 *RHEL 7 启动屏幕*

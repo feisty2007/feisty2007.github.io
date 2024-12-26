@@ -49,13 +49,13 @@ grive乃是Google Drive（**在线存储服务**）的GNU/Linux系统客户端�
 **步骤：1** 安装完了，通过输入**Grive**在**Unity Dash**搜索应用，并打开之。
 
 
-![](/Asserts/Images//attachment/album/201410/07/213807pvg3rizifqf7xklv.jpg)
+![](/Asserts/Images/album/201410/07/213807pvg3rizifqf7xklv.jpg)
 
 
 **步骤：2** 登入google drive，你将被问及访问google drive的权限。
 
 
-![](/Asserts/Images//attachment/album/201410/07/213808tsxpi9fi0epq10o6.png)
+![](/Asserts/Images/album/201410/07/213808tsxpi9fi0epq10o6.png)
 
 
 点击**下一步**时，新的浏览器中讲打开**Google登录页**
@@ -64,28 +64,28 @@ grive乃是Google Drive（**在线存储服务**）的GNU/Linux系统客户端�
 登入你的Google帐号，并点击**接受**，如下所示：
 
 
-![](/Asserts/Images//attachment/album/201410/07/213809m8j79zbzwsqbhbbf.png)
+![](/Asserts/Images/album/201410/07/213809m8j79zbzwsqbhbbf.png)
 
 
 **步骤：3** 下面将提供给你一个 **google代码**，复制并粘贴到**Grive设置框**内。
 
 
-![](/Asserts/Images//attachment/album/201410/07/213858pct6qp5463u3xtjp.jpg)
+![](/Asserts/Images/album/201410/07/213858pct6qp5463u3xtjp.jpg)
 
 
-![](/Asserts/Images//attachment/album/201410/07/213908ntt6tbz5bt5gtigt.jpg)
+![](/Asserts/Images/album/201410/07/213908ntt6tbz5bt5gtigt.jpg)
 
 
 点击下一步后，将会开始同步google drive到你**家目录**下的‘**Google Drive**’文件夹。完成后，将出现如下窗口。
 
 
-![](/Asserts/Images//attachment/album/201410/07/213813l220zn2y9koosklx.png)
+![](/Asserts/Images/album/201410/07/213813l220zn2y9koosklx.png)
 
 
 Google Drive 文件夹会创建在**用户的主目录**下。
 
 
-![](/Asserts/Images//attachment/album/201410/07/213814msq8sqfjul1s9618.jpg)
+![](/Asserts/Images/album/201410/07/213814msq8sqfjul1s9618.jpg)
 
 
 

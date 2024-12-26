@@ -7,7 +7,7 @@ tags:	[linuxcn,安全漏洞,memcached]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/28/121131nhlbbn7byalcak6k.jpg)
+![](/Asserts/Images/album/201707/28/121131nhlbbn7byalcak6k.jpg)
 
 
 在开源缓存软件 memcached 修复了三个关键漏洞的八个月之后，仍有超过 70000 台未打补丁的缓存服务器直接暴露在互联网上。安全研究员警告说，黑客可能会在服务器上执行恶意代码或从其缓存中窃取潜在的敏感数据。

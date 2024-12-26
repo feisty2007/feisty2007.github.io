@@ -15,7 +15,7 @@ tags:	[linuxcn,Emacs,笔记]
 > 
 
 
-![](/Asserts/Images//attachment/album/201904/29/102405qsfg3yv3tfvbbgtc.jpg)
+![](/Asserts/Images/album/201904/29/102405qsfg3yv3tfvbbgtc.jpg)
 
 
 不管你从事哪种工作，你都无可避免地需要记笔记。而且可能还不是一点点。现在这年头，大家都开始以数字的形式来记笔记了。
@@ -30,7 +30,7 @@ tags:	[linuxcn,Emacs,笔记]
 ### Deft
 
 
-![](/Asserts/Images//attachment/album/201904/29/102422wcugyhvpykc44ts4.png)
+![](/Asserts/Images/album/201904/29/102422wcugyhvpykc44ts4.png)
 
 
 在少数情况下，我只能使用 Mac时，有一个工具是我不能缺少的：[nvALT](http://brettterpstra.com/projects/nvalt/) 笔记应用。[Deft 模式](https://jblevins.org/projects/deft/) 为 Emacs 带来了 nvALT 式的体验。
@@ -45,7 +45,7 @@ Deft 将你的笔记以文本文件的形式存储在电脑中的某个文件夹
 ### Org 模式
 
 
-![](/Asserts/Images//attachment/album/201904/29/102423cuzxdmtxiuyy2tjy.png)
+![](/Asserts/Images/album/201904/29/102423cuzxdmtxiuyy2tjy.png)
 
 
 如果本文没有包含 [Org 模式](https://orgmode.org/) 的话，那么我可能会被人所诟病。为什么？它可以说是 Emacs 中最灵活、使用最广泛的记录笔记的方式了。以正确的方式使用它，Org 模式可以极大地增强记笔记的能力。
@@ -60,7 +60,7 @@ Org 模式的主要优势在于它组织笔记的方式。在 Org 模式中，�
 ### Howm
 
 
-![](/Asserts/Images//attachment/album/201904/29/102425lkm14gtxjk5vk8te.png)
+![](/Asserts/Images/album/201904/29/102425lkm14gtxjk5vk8te.png)
 
 
 当我使用 Emacs 已经成为一种习惯时，[howm](https://howm.osdn.jp/) 马上就成为我严重依赖的模式之一了。虽然我特别喜欢使用 Org 模式，但 howm 依然占有一席之地。

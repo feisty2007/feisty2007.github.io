@@ -24,7 +24,7 @@ tags:	[linuxcn,PostgreSQL]
 之前我曾论述过 [在 Ubuntu 上安装 MySQL](https://itsfoss.com/install-mysql-ubuntu/)。在本文中，我将向你展示如何安装和配置 PostgreSQL，以便你随时可以使用它来满足你的任何需求。
 
 
-![](/Asserts/Images//attachment/album/201910/19/225041hsuuqxi6qq2mx6j8.png)
+![](/Asserts/Images/album/201910/19/225041hsuuqxi6qq2mx6j8.png)
 
 
 ### 在 Ubuntu 上安装 PostgreSQL
@@ -194,13 +194,13 @@ postgress=#
 输出内容类似于下图所示（单击 `q` 键退出该视图）：
 
 
-![PostgreSQL Tables](/Asserts/Images//attachment/album/201910/19/225044l3a8rezjd83og2ry.png)
+![PostgreSQL Tables](/Asserts/Images/album/201910/19/225044l3a8rezjd83og2ry.png)
 
 
 使用 `\du` 命令，你可以查看 PostgreSQL 用户：
 
 
-![PostgreSQLUsers](/Asserts/Images//attachment/album/201910/19/225045tb86k3nnv0l0nlkj.png)
+![PostgreSQLUsers](/Asserts/Images/album/201910/19/225045tb86k3nnv0l0nlkj.png)
 
 
 你可以使用以下命令更改任何用户（包括 `postgres`）的密码：

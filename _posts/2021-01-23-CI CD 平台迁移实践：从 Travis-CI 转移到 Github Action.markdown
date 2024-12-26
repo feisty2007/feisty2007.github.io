@@ -7,19 +7,19 @@ tags:	[linuxcn,GitHub,CI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202101/16/182851z3lmlblslo8vw984.jpg)
+![](/Asserts/Images/album/202101/16/182851z3lmlblslo8vw984.jpg)
 
 
 [LCTT](https://linux.cn/lctt/) 的 CI 已经在 Travis CI 上运转了多年，一致保持着良好的使用体验。自 2019 年 Github 推出了自家的 CI 工具 Github Action 后，我们就在考虑将 CI 从 Travis-CI 迁移到 Github，以降低维护和沟通的成本，并借助于 [GitHub Action Marketplace](https://github.com/marketplace?type=actions) 实现更强的功能。
 
 
-![项目首页](/Asserts/Images//attachment/album/202101/16/181855t9bbgqoxgtule29z.jpg)
+![项目首页](/Asserts/Images/album/202101/16/181855t9bbgqoxgtule29z.jpg)
 
 
 最近，因为 TravisCI 屡屡部署出错，而我们的账户因为使用的较多，已经超出了免费使用的限制，以此为契机，将 CI 从 Travis CI 迁移到 GitHub Action。
 
 
-![Travis CI 的提醒](/Asserts/Images//attachment/album/202101/16/181856amnmv3df61f1d1ms.png)
+![Travis CI 的提醒](/Asserts/Images/album/202101/16/181856amnmv3df61f1d1ms.png)
 
 
 ### 项目介绍
@@ -31,7 +31,7 @@ tags:	[linuxcn,GitHub,CI]
 [Translate Project](https://github.com/LCTT/TranslateProject) 借助于 CI 帮助译者对基本的文章格式和拉取请求进行检查；并定时执行命令，以进行所有的申请检查，对于超时未完成翻译的工作进行回收；对于文章的状态进行标记，生成相应的徽章。
 
 
-![生成徽章](/Asserts/Images//attachment/album/202101/16/181856wi9n2nwe1phf22ae.png)
+![生成徽章](/Asserts/Images/album/202101/16/181856wi9n2nwe1phf22ae.png)
 
 
 ### 迁移思路
@@ -52,7 +52,7 @@ Travis CI 和 Github Action 在使用方面，其实总体差异不会太大，�
 我们在 TravisCI 上的 CI 配置文件如图：
 
 
-![配置文件](/Asserts/Images//attachment/album/202101/16/181856riwfwikwmbcszsfh.png)
+![配置文件](/Asserts/Images/album/202101/16/181856riwfwikwmbcszsfh.png)
 
 
 总体可以分为三块：
@@ -72,13 +72,13 @@ Travis CI 和 Github Action 在使用方面，其实总体差异不会太大，�
 在部署区便是将前面命令区的执行结果进行部署。
 
 
-![基本流程](/Asserts/Images//attachment/album/202101/16/181859hoijinipsnipilgv.png)
+![基本流程](/Asserts/Images/album/202101/16/181859hoijinipsnipilgv.png)
 
 
 在实际的执行过程中，还会根据环境变量不同，决定是否要执行特定的命令，这部分在后续的改造过程中，就可以调整部署，拆分到不同的文件中。
 
 
-![构建流程](/Asserts/Images//attachment/album/202101/16/181901kh6vm6mhwnevk6ii.png)
+![构建流程](/Asserts/Images/album/202101/16/181901kh6vm6mhwnevk6ii.png)
 
 
 #### 2. 直接套用配置文件
@@ -90,7 +90,7 @@ Travis CI 和 Github Action 在使用方面，其实总体差异不会太大，�
 比如，我们的配置文件在直接套用后，结果如下
 
 
-![直接套用后的结果](/Asserts/Images//attachment/album/202101/16/181902vcgycyhqpc7fddfz.png)
+![直接套用后的结果](/Asserts/Images/album/202101/16/181902vcgycyhqpc7fddfz.png)
 
 
 直接套用的文件已经可以直接运行，不过，这里有很多不满足需要的地方，所以需要做一些修改。
@@ -144,7 +144,7 @@ Github Action 和 TravisCI 不同的一点是你可以将你的 CI 文件拆分�
 则将我们的配置文件拆分成三个不同的文件：
 
 
-![](/Asserts/Images//attachment/album/202101/16/181903yayyafv1gyy1v16p.png)
+![](/Asserts/Images/album/202101/16/181903yayyafv1gyy1v16p.png)
 
 
 也得益于拆分开，则在 `checker` 中就可以免于安装一些必要的依赖，从而精简 CI 流程，提升 CI 的执行时间。
@@ -159,7 +159,7 @@ Github Action 和 TravisCI 不同的一点是你可以将你的 CI 文件拆分�
 这个时候你可以安装工具（[https://github.com/nektos/act），来在本地执行](https://github.com/nektos/act%EF%BC%89%EF%BC%8C%E6%9D%A5%E5%9C%A8%E6%9C%AC%E5%9C%B0%E6%89%A7%E8%A1%8C) Action ，从而确认你的代码执行是正确的。
 
 
-![](/Asserts/Images//attachment/album/202101/16/181904kih8dxd9pjqvefhp.jpg)
+![](/Asserts/Images/album/202101/16/181904kih8dxd9pjqvefhp.jpg)
 
 
 如果你是 macOS ，只需要执行 `brew install act` 就可以安装 `act` 工具，来完成 `act` 的安装。
@@ -168,7 +168,7 @@ Github Action 和 TravisCI 不同的一点是你可以将你的 CI 文件拆分�
 安装完成 `act` ，就可以通过执行 `act` 命令来在本地执行 Action ，比如，执行 `act pull_request` 来触发 GitHub 的拉取请求事件
 
 
-![](/Asserts/Images//attachment/album/202101/16/181904flauoh79vo1v491o.png)
+![](/Asserts/Images/album/202101/16/181904flauoh79vo1v491o.png)
 
 
 通过本地测试后，再将你的配置文件推送到 GitHub 上，进行生产环境的测试即可。
@@ -221,7 +221,7 @@ jobs:
 为了确保修改符合标准，我们限制了新的拉取请求必须通过 CI 检查，才能合并进入 `master` 分支，因此，也需要修改相应的分支保护规则，确保设定相应的保护。
 
 
-![](/Asserts/Images//attachment/album/202101/16/181904ryccly9ro969wr19.png)
+![](/Asserts/Images/album/202101/16/181904ryccly9ro969wr19.png)
 
 
 ### 一些注意事项

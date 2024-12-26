@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,内核,GDPR]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/25/115728bpl4zhm1h8l4ottl.jpg)
+![](/Asserts/Images/album/202006/25/115728bpl4zhm1h8l4ottl.jpg)
 
 
 #### 适用于 Linux 的微软反病毒软件 Microsoft Defender ATP 正式上线

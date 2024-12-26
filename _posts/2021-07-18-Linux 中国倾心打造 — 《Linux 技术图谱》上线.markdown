@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,培训]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/09/171925x6oh3hmywluw44m1.jpg)
+![](/Asserts/Images/album/202107/09/171925x6oh3hmywluw44m1.jpg)
 
 
 ### 想学 Linux 吗？免费的那种
@@ -72,7 +72,7 @@ tags:	[linuxcn,Linux,培训]
 ### Linux 中国倾心打造的 19 门课程，现在正式上线了
 
 
-![](/Asserts/Images//attachment/album/202107/09/172037jpvy3w22q3srzcr9.jpg)
+![](/Asserts/Images/album/202107/09/172037jpvy3w22q3srzcr9.jpg)
 
 
 [点此进入阿里云技术社区](https://click.aliyun.com/m/1000280751/)，获取完整《[Linux 技术图谱](https://click.aliyun.com/m/1000280751/)》。

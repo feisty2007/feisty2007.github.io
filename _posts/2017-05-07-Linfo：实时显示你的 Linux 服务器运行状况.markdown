@@ -7,7 +7,7 @@ tags:	[linuxcn,Linfo,监控]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/27/163719b1e6b30fubbjzrmb.jpg)
+![](/Asserts/Images/album/201705/27/163719b1e6b30fubbjzrmb.jpg)
 
 
 Linfo 是一个自由开源的跨平台的服务器统计 UI 或库，它可以显示大量的系统信息。Linfo 是可扩展的，通过 `composer`，很容易使用 PHP5 库以程序化方式获取来自 PHP 应用的丰富的系统统计数据。它有 Web UI 及其Ncurses CLI 视图，在 Linux、Windows、BSD、Darwin/Mac OSX、Solaris 和 Minix 系统上均可用。
@@ -53,7 +53,7 @@ $ sudo mv sample.config.inc.php config.inc.php
 从截图中可以看到， Linfo 显示了系统内核信息、硬件组成、RAM 统计、网络设备、驱动器以及文件系统挂载点。
 
 
-![Linux Server Health Information](/Asserts/Images//attachment/album/201705/27/163729mc8rssg0km0knvzm.png)
+![Linux Server Health Information](/Asserts/Images/album/201705/27/163729mc8rssg0km0knvzm.png)
 
 
 *Linux 服务器运行信息*
@@ -125,7 +125,7 @@ $ ./linfo-curses
 
 ```
 
-![Linux Server Information](/Asserts/Images//attachment/album/201705/27/163730jiec484ogsyojk5i.png)
+![Linux Server Information](/Asserts/Images/album/201705/27/163730jiec484ogsyojk5i.png)
 
 
 *Linux 服务器信息*

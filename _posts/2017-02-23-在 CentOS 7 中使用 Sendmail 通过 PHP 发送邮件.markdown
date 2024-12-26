@@ -7,7 +7,7 @@ tags:	[linuxcn,PHP,邮件,sendmail]
 ---
 
 
-![sendmail logo](/Asserts/Images//attachment/album/201702/28/125808rlnlsleh5kll4sh6.png)
+![sendmail logo](/Asserts/Images/album/201702/28/125808rlnlsleh5kll4sh6.png)
 
 
 如果你运行了一个 web 服务器或者一台 VPS ，你可能需要在你的 PHP 程序中发送邮件。

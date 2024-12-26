@@ -7,10 +7,10 @@ tags:	[linuxcn,DHCP,VirtualBox,Windows 11]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/11/182837yzkvsc3k1gygzgzg.jpg)
+![](/Asserts/Images/album/202210/11/182837yzkvsc3k1gygzgzg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202210/11/182845djr66drjvopqpvmm.jpg)
+![](/Asserts/Images/album/202210/11/182845djr66drjvopqpvmm.jpg)
 
 
 ### ISC DHCP 服务器停止维护
@@ -35,7 +35,7 @@ tags:	[linuxcn,DHCP,VirtualBox,Windows 11]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/11/182855hb3xd3zyv3zwgzvg.jpg)
+![](/Asserts/Images/album/202210/11/182855hb3xd3zyv3zwgzvg.jpg)
 
 
 ### VirtualBox 7.0 正式发布
@@ -60,7 +60,7 @@ tags:	[linuxcn,DHCP,VirtualBox,Windows 11]
 > 
 
 
-![](/Asserts/Images//attachment/album/202210/11/182910yjlv56md417rj9sl.jpg)
+![](/Asserts/Images/album/202210/11/182910yjlv56md417rj9sl.jpg)
 
 
 ### 超过四成的电脑仍然无法升级到 Windows 11

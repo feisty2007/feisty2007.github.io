@@ -7,7 +7,7 @@ tags:	[linuxcn,基准测试,ML]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/23/152017zamgjxoqjxxaxxaq.jpg)
+![](/Asserts/Images/album/202312/23/152017zamgjxoqjxxaxxaq.jpg)
 
 
 
@@ -76,19 +76,19 @@ tags:	[linuxcn,基准测试,ML]
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/23/152054tz7dpdv8zkk8w8d6.png)
+![](/Asserts/Images/album/202312/23/152054tz7dpdv8zkk8w8d6.png)
 
 
 然后它应该开始运行基准测试，你将看到正在实时运行的模型和数据集。
 
 
-![](/Asserts/Images//attachment/album/202312/23/152055xzucjjvyytvyylkg.png)
+![](/Asserts/Images/album/202312/23/152055xzucjjvyytvyylkg.png)
 
 
 基准测试完成后，将显示确认提示，引导你在线查看基准测试结果。
 
 
-![](/Asserts/Images//attachment/album/202312/23/152055n666htqr46604w8z.png)
+![](/Asserts/Images/album/202312/23/152055n666htqr46604w8z.png)
 
 
 你可以在 [Geekbench 浏览器](https://browser.geekbench.com/ml/v0/inference/328997) 上查看我的基准测试结果，我承认这并不起眼，但这是我的系统的微不足道的分数?。

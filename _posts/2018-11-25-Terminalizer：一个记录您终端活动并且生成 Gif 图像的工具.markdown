@@ -7,7 +7,7 @@ tags:	[linuxcn,gif]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/15/233937pys5heheqq5ve2h5.jpg)
+![](/Asserts/Images/album/201811/15/233937pys5heheqq5ve2h5.jpg)
 
 
 今天我们要讨论一个广为人知的主题，我们也围绕这个主题写过许多的文章，因此我不会针对这个如何记录终端会话流程给出太多具体的资料。
@@ -127,7 +127,7 @@ Press CTRL+D to exit and save the recording
 这将会将您记录的会话保存成一个 YAML 文件，在这个例子里，我的文件名将会是 2g-session-activity.yml。
 
 
-![](/Asserts/Images//attachment/album/201811/15/234008jd9zad6sftswtth3.gif)
+![](/Asserts/Images/album/201811/15/234008jd9zad6sftswtth3.gif)
 
 
 
@@ -139,7 +139,7 @@ The recording data is saved into the file:
 You can edit the file and even change the configurations.
 ```
 
-![](/Asserts/Images//attachment/album/201811/15/234011spwpf9ef100jzre0.gif)
+![](/Asserts/Images/album/201811/15/234011spwpf9ef100jzre0.gif)
 
 
 ### 如何播放记录下来的文件

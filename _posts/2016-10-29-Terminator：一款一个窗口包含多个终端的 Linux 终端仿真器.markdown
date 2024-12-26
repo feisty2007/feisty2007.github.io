@@ -7,7 +7,7 @@ tags:	[linuxcn,终端,Terminator]
 ---
 
 
-![](/Asserts/Images//attachment/album/201610/11/114348clevcovwwcxgte0h.jpg)
+![](/Asserts/Images/album/201610/11/114348clevcovwwcxgte0h.jpg)
 
 
 为了通过命令行和系统互动，每一款 Linux 发行版都有一款默认的终端仿真器。但是，默认的终端应用可能不适合你。为了大幅提升你工作的速度，有好多款终端应用提供了更多的功能，可以同时执行更多的任务。这些有用的终端仿真器就包括 Terminator，这是一款 Linux 系统下支持多窗口的自由开源的终端仿真器。
@@ -79,19 +79,19 @@ dnf install terminator
 安装好 Terminator 之后，你可以简单的在一个窗口打开多个终端。只需要右键点击并切分。
 
 
-![](/Asserts/Images//attachment/album/201610/11/114334blapfyo3p2zl8mop.jpg)
+![](/Asserts/Images/album/201610/11/114334blapfyo3p2zl8mop.jpg)
 
 
  
 
 
-![](/Asserts/Images//attachment/album/201610/11/114335bq971vlq9sqvzo16.jpg)
+![](/Asserts/Images/album/201610/11/114335bq971vlq9sqvzo16.jpg)
 
 
 只要你愿意，你可以创建尽可能多的终端，只要你能管理得过来。
 
 
-![](/Asserts/Images//attachment/album/201610/11/114335w5rsrngkkvpb83gz.jpg)
+![](/Asserts/Images/album/201610/11/114335w5rsrngkkvpb83gz.jpg)
 
 
 ### 定制终端
@@ -100,13 +100,13 @@ dnf install terminator
 右键点击终端，并单击属性。现在你可以定制字体、字体颜色、标题颜色和背景，还有终端字体颜色和背景。
 
 
-![](/Asserts/Images//attachment/album/201610/11/114336rj4hgiihcg1cjc41.jpg)
+![](/Asserts/Images/album/201610/11/114336rj4hgiihcg1cjc41.jpg)
 
 
  
 
 
-![](/Asserts/Images//attachment/album/201610/11/114336lmlldsnycyl6tm4l.jpg)
+![](/Asserts/Images/album/201610/11/114336lmlldsnycyl6tm4l.jpg)
 
 
 ### 结论：什么是你最喜欢的终端模拟器

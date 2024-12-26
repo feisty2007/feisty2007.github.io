@@ -10,7 +10,7 @@ tags:	[linuxcn,RAID]
 **RAID 镜像**意味着相同数据的完整克隆（或镜像），分别写入到两个磁盘中。创建 RAID 1 至少需要两个磁盘，而且仅用于读取性能或者可靠性要比数据存储容量更重要的场合。
 
 
-![Create Raid1 in Linux](/Asserts/Images//attachment/album/201508/25/233632xkk7ik6x4vk6575p.jpg)
+![Create Raid1 in Linux](/Asserts/Images/album/201508/25/233632xkk7ik6x4vk6575p.jpg)
 
 
 *在 Linux 中设置 RAID 1*
@@ -78,7 +78,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Check RAID on Disks](/Asserts/Images//attachment/album/201508/25/233634v7rzt7jj0s0643z4.png)
+![Check RAID on Disks](/Asserts/Images/album/201508/25/233634v7rzt7jj0s0643z4.png)
 
 
 *检查 RAID 的磁盘*
@@ -114,7 +114,7 @@ IP 地址    :  192.168.0.226
 * 使用`w`保存更改。
 
 
-![Create Disk Partitions](/Asserts/Images//attachment/album/201508/25/233638o8sp6snp8y75rnzj.png)
+![Create Disk Partitions](/Asserts/Images/album/201508/25/233638o8sp6snp8y75rnzj.png)
 
 
 *创建磁盘分区*
@@ -129,7 +129,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Create Second Partitions](/Asserts/Images//attachment/album/201508/25/233642l5t2zj2fypmp55t2.png)
+![Create Second Partitions](/Asserts/Images/album/201508/25/233642l5t2zj2fypmp55t2.png)
 
 
 *创建第二个分区*
@@ -144,13 +144,13 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Verify Partitions Changes](/Asserts/Images//attachment/album/201508/25/233643zdsbfa3bda3b3gkk.png)
+![Verify Partitions Changes](/Asserts/Images/album/201508/25/233643zdsbfa3bda3b3gkk.png)
 
 
 *验证分区变化*
 
 
-![Check RAID Type](/Asserts/Images//attachment/album/201508/25/233643j3m6kp80k1xveiii.png)
+![Check RAID Type](/Asserts/Images/album/201508/25/233643j3m6kp80k1xveiii.png)
 
 
 *检查 RAID 类型*
@@ -172,7 +172,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Create RAID Device](/Asserts/Images//attachment/album/201508/25/233644u8ccscp1v0uotuu1.png)
+![Create RAID Device](/Asserts/Images/album/201508/25/233644u8ccscp1v0uotuu1.png)
 
 
 *创建RAID设备*
@@ -188,13 +188,13 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Check RAID Device type](/Asserts/Images//attachment/album/201508/25/233648s66qp76qy8qqjx9x.png)
+![Check RAID Device type](/Asserts/Images/album/201508/25/233648s66qp76qy8qqjx9x.png)
 
 
 *检查 RAID 设备类型*
 
 
-![Check RAID Device Array](/Asserts/Images//attachment/album/201508/25/233650tr1n1dgr9kw11eed.png)
+![Check RAID Device Array](/Asserts/Images/album/201508/25/233650tr1n1dgr9kw11eed.png)
 
 
 *检查 RAID 设备阵列*
@@ -215,7 +215,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Create RAID Device Filesystem](/Asserts/Images//attachment/album/201508/25/233651cuh9wdfud340lgx4.png)
+![Create RAID Device Filesystem](/Asserts/Images/album/201508/25/233651cuh9wdfud340lgx4.png)
 
 
 *创建 RAID 设备文件系统*
@@ -233,7 +233,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Mount Raid Device](/Asserts/Images//attachment/album/201508/25/233654e8811zd8s112758z.png)
+![Mount Raid Device](/Asserts/Images/album/201508/25/233654e8811zd8s112758z.png)
 
 
 *挂载 RAID 设备*
@@ -248,7 +248,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Raid Automount Device](/Asserts/Images//attachment/album/201508/25/233656biaaun89ffnbybed.png)
+![Raid Automount Device](/Asserts/Images/album/201508/25/233656biaaun89ffnbybed.png)
 
 
 *自动挂载 Raid 设备*
@@ -263,7 +263,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Check Errors in fstab](/Asserts/Images//attachment/album/201508/25/233657q5rg2ag1ah8x3xym.png)
+![Check Errors in fstab](/Asserts/Images/album/201508/25/233657q5rg2ag1ah8x3xym.png)
 
 
 *检查 fstab 中的错误*
@@ -278,7 +278,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Save Raid Configuration](/Asserts/Images//attachment/album/201508/25/233658kuh9nn3hk08ejdjk.png)
+![Save Raid Configuration](/Asserts/Images/album/201508/25/233658kuh9nn3hk08ejdjk.png)
 
 
 *保存 Raid 的配置*
@@ -299,7 +299,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Raid Device Verify](/Asserts/Images//attachment/album/201508/25/233702k70s9wjjk9i10prp.png)
+![Raid Device Verify](/Asserts/Images/album/201508/25/233702k70s9wjjk9i10prp.png)
 
 
 *验证 RAID 设备*
@@ -315,7 +315,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Test RAID Devices](/Asserts/Images//attachment/album/201508/25/233706gurve5xd113xu5p3.png)
+![Test RAID Devices](/Asserts/Images/album/201508/25/233706gurve5xd113xu5p3.png)
 
 
 *测试 RAID 设备*
@@ -331,7 +331,7 @@ IP 地址    :  192.168.0.226
 
 ```
 
-![Verify RAID Data](/Asserts/Images//attachment/album/201508/25/233708stgpt5dxz5yahkpm.png)
+![Verify RAID Data](/Asserts/Images/album/201508/25/233708stgpt5dxz5yahkpm.png)
 
 
 *验证 RAID 数据*

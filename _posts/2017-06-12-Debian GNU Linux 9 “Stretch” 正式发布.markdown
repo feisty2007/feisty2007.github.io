@@ -7,7 +7,7 @@ tags:	[linuxcn,Debian,Stretch]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/19/050039zztd47ede4611bjt.jpg)
+![](/Asserts/Images/album/201706/19/050039zztd47ede4611bjt.jpg)
 
 
 已经使用了两年之久的代号为 “Jessie” 的 Debian GNU/Linux 8，终于被标记为 “oldstable”了。就在 18 日，Debian 项目宣布 Debian GNU/Linux 9，代号为 “Stretch” 的新版本正式发布！

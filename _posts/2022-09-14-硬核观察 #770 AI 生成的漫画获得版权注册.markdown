@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,BGP,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/25/151010h45ky9knej3eneye.jpg)
+![](/Asserts/Images/album/202209/25/151010h45ky9knej3eneye.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/25/150358ahihhjjd4jzp4h09.jpg)
+![](/Asserts/Images/album/202209/25/150358ahihhjjd4jzp4h09.jpg)
 
 
 ### AI 生成的漫画获得版权注册
@@ -35,7 +35,7 @@ Midjourney 是一个商业的图片合成服务。一位艺术家使用 Midjourn
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/25/150409mbbb9bjty93m8bab.jpg)
+![](/Asserts/Images/album/202209/25/150409mbbb9bjty93m8bab.jpg)
 
 
 ### 黑客利用 BGP 劫持 IP 段窃取了约 23 万美元加密货币
@@ -60,7 +60,7 @@ Midjourney 是一个商业的图片合成服务。一位艺术家使用 Midjourn
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/25/151002ia6mz5kzl21kmkl5.jpg)
+![](/Asserts/Images/album/202209/25/151002ia6mz5kzl21kmkl5.jpg)
 
 
 ### GNOME 43 发布

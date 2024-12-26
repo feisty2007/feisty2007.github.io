@@ -7,7 +7,7 @@ tags:	[linuxcn,Oracle Linux,RHEL]
 ---
 
 
-![The new Oracle Linux 7.0 is out](/Asserts/Images//attachment/album/201407/25/143727dhnt6n1lu220y2tb.jpg)
+![The new Oracle Linux 7.0 is out](/Asserts/Images/album/201407/25/143727dhnt6n1lu220y2tb.jpg)
 
 
 **Oracle已经发布了Oracle Linux 7.0操作系统，新系统带来了大量的新特性，比如“第三代坚不可摧的内核 UEK”（Unbreakable Enterprise Kernel Release 3）和一个新的默认文件系统**

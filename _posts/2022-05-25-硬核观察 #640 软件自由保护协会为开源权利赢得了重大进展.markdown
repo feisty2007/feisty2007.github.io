@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,GitLab,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/18/174722zzayayugqvffrrrr.jpg)
+![](/Asserts/Images/album/202205/18/174722zzayayugqvffrrrr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/18/174733rbifi5tifi41bikc.jpg)
+![](/Asserts/Images/album/202205/18/174733rbifi5tifi41bikc.jpg)
 
 
 ### 软件自由保护协会为开源权利赢得了重大进展
@@ -35,7 +35,7 @@ tags:	[linuxcn,开源,GitLab,谷歌]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/18/174744g6nkk0whw3i7h66c.png)
+![](/Asserts/Images/album/202205/18/174744g6nkk0whw3i7h66c.png)
 
 
 ### Arm 开源项目从 GitHub 迁移到 GitLab
@@ -60,7 +60,7 @@ GitLab 官方博客阐述了 Arm 选择 GitLab 作为自托管平台的优点：
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/18/174758jzo5tlqvtvj5gqjq.jpg)
+![](/Asserts/Images/album/202205/18/174758jzo5tlqvtvj5gqjq.jpg)
 
 
 ### 谷歌引入“有保证的开源软件”服务

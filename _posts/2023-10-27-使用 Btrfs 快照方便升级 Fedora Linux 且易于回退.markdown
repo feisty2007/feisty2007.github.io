@@ -7,7 +7,7 @@ tags:	[linuxcn,Btrfs]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/09/113654ba1kp126nzn6tpjv.jpg)
+![](/Asserts/Images/album/202310/09/113654ba1kp126nzn6tpjv.jpg)
 
 
 在 2018 年的一篇 [早前的文章](https://fedoramagazine.org/use-lvm-upgrade-fedora/) 中，我们介绍了在升级 Fedora Linux 前如何利用 LVM 复制根文件系统，以便在可能出现错误的情况下能有一个回退机制。然而如今，Fedora 工作站的默认安装已经是 Btrfs 文件系统了。现在，你可以利用 Btrfs 快照来更简便地创建一个可引导的回退系统。注意，本文不涉及会如何从其它文件系统转换或迁移到 Btrfs 上。

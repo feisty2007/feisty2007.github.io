@@ -10,7 +10,7 @@ tags:	[linuxcn,Postfix,邮件]
 Postfix 是一个自由开源的 MTA（邮件传输代理），用于在 Linux 系统上路由或传递电子邮件。在本指南中，你将学习如何在 CentOS 8 上安装和配置 Postfix。
 
 
-![Install-configure-Postfx-Server-CentOS8](/Asserts/Images//attachment/album/201911/21/072857e9bvnzrbqayraxva.jpg)
+![Install-configure-Postfx-Server-CentOS8](/Asserts/Images/album/201911/21/072857e9bvnzrbqayraxva.jpg)
 
 
 实验室设置：
@@ -75,7 +75,7 @@ Postfix 是一个自由开源的 MTA（邮件传输代理），用于在 Linux �
 # dnf install postfix
 ```
 
-![Install-Postfix-Centos8](/Asserts/Images//attachment/album/201911/21/072858z06i6mz66qil576w.png)
+![Install-Postfix-Centos8](/Asserts/Images/album/201911/21/072858z06i6mz66qil576w.png)
 
 
 ### 步骤 4）启动并启用 Postfix 服务
@@ -98,7 +98,7 @@ Postfix 是一个自由开源的 MTA（邮件传输代理），用于在 Linux �
 # systemctl status postfix
 ```
 
-![Start-Postfix-check-status-centos8](/Asserts/Images//attachment/album/201911/21/072900e6thztbhncn6ulk5.png)
+![Start-Postfix-check-status-centos8](/Asserts/Images/album/201911/21/072900e6thztbhncn6ulk5.png)
 
 
 太好了，我们已经验证了 Postfix 已启动并正在运行。接下来，我们将配置 Postfix 从本地发送邮件到我们的服务器。
@@ -115,7 +115,7 @@ Postfix 是一个自由开源的 MTA（邮件传输代理），用于在 Linux �
 # dnf install mailx
 ```
 
-![Install-Mailx-CentOS8](/Asserts/Images//attachment/album/201911/21/072901e9vhlvwiz1cw1ixv.png)
+![Install-Mailx-CentOS8](/Asserts/Images/album/201911/21/072901e9vhlvwiz1cw1ixv.png)
 
 
 ### 步骤 6）配置 Postfix 邮件服务器
@@ -248,7 +248,7 @@ Connection closed by foreign host
 完成 `telnet` 命令可从本地用户 `pkumar` 发送邮件到另一个本地用户 `postfixuser`，如下所示：
 
 
-![Send-email-with-telnet-centos8](/Asserts/Images//attachment/album/201911/21/072901f78s7ht7bzmkk747.png)
+![Send-email-with-telnet-centos8](/Asserts/Images/album/201911/21/072901f78s7ht7bzmkk747.png)
 
 
 如果一切都按计划进行，那么你应该可以在新用户的家目录中查看发送的邮件：
@@ -269,7 +269,7 @@ Connection closed by foreign host
 # cat /home/postfixuser/Maildir/new/1573580091.Vfd02I20050b8M635437.server1.crazytechgeek.info
 ```
 
-![Read-postfix-email-linux](/Asserts/Images//attachment/album/201911/21/072903kpvvrg53bmcbmx5u.png)
+![Read-postfix-email-linux](/Asserts/Images/album/201911/21/072903kpvvrg53bmcbmx5u.png)
 
 
 ### Postfix 邮件服务器日志
@@ -283,7 +283,7 @@ Postfix 邮件服务器邮件日志保存在文件 `/var/log/maillog` 中，使�
 # tail -f /var/log/maillog
 ```
 
-![postfix-maillogs-centos8](/Asserts/Images//attachment/album/201911/21/072905l7zsofxsoocmxxpr.png)
+![postfix-maillogs-centos8](/Asserts/Images/album/201911/21/072905l7zsofxsoocmxxpr.png)
 
 
 ### 保护 Postfix 邮件服务器
@@ -308,7 +308,7 @@ Postfix 邮件服务器邮件日志保存在文件 `/var/log/maillog` 中，使�
 # openssl req -nodes -newkey rsa:2048 -keyout mail.key -out mail.csr
 ```
 
-![Postfix-Key-CSR-CentOS8](/Asserts/Images//attachment/album/201911/21/072906uugozol5vr5rdsur.png)
+![Postfix-Key-CSR-CentOS8](/Asserts/Images/album/201911/21/072906uugozol5vr5rdsur.png)
 
 
 现在，使用以下 openssl 命令生成自签名证书：
@@ -377,7 +377,7 @@ total 8
 # cat 1573612845.Vfd02I20050bbM466643.server1.crazytechgeek.info
 ```
 
-![Read-Postfixuser-Email-CentOS8](/Asserts/Images//attachment/album/201911/21/072908u11ytm69g69tdtfl.png)
+![Read-Postfixuser-Email-CentOS8](/Asserts/Images/album/201911/21/072908u11ytm69g69tdtfl.png)
 
 
 从 `postfixuser` 发送邮件到外部域（`root@linuxtechi.com`）：

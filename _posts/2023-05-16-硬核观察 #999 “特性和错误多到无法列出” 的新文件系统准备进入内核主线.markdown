@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,硬盘,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/12/195622dnxjd0wxs2rr0ddj.jpg)
+![](/Asserts/Images/album/202305/12/195622dnxjd0wxs2rr0ddj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/12/195639ekt5ersfrttvki5i.jpg)
+![](/Asserts/Images/album/202305/12/195639ekt5ersfrttvki5i.jpg)
 
 
 ### “特性和错误多到无法列出” 的新文件系统准备进入内核主线
@@ -35,7 +35,7 @@ Bcachefs 是一个写时复制（CoW）的文件系统，其源自于 Linux 内�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/12/195652y7u1bypy4zuuaa4b.jpg)
+![](/Asserts/Images/album/202305/12/195652y7u1bypy4zuuaa4b.jpg)
 
 
 ### SSD 厂商称 2028 年硬盘将停止销售
@@ -60,7 +60,7 @@ Bcachefs 是一个写时复制（CoW）的文件系统，其源自于 Linux 内�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/12/195709pqzf57q9dwcq7bwd.jpg)
+![](/Asserts/Images/album/202305/12/195709pqzf57q9dwcq7bwd.jpg)
 
 
 ### Rust 代码将首次出现在 Windows 11 Insider 预览版

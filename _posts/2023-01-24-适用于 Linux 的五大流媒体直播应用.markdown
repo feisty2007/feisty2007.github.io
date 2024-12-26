@@ -7,7 +7,7 @@ tags:	[linuxcn,直播,流媒体,OBS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/14/172408h1rpephh9hutsrkd.jpg)
+![](/Asserts/Images/album/202301/14/172408h1rpephh9hutsrkd.jpg)
 
 
 
@@ -42,7 +42,7 @@ tags:	[linuxcn,直播,流媒体,OBS]
 其用户界面相当简单明了，功能丰富。你可以从第三方开发的插件中获得帮助，以扩展其功能，例如，在直播时将 Twitter 上的实时推文混入你的流媒体。不过，OBS 不支持多比特率流媒体。
 
 
-![OBS Studio - 适用于Linux的直播应用程序](/Asserts/Images//attachment/album/202301/14/172525mleyqwr72euwru3l.jpg)
+![OBS Studio - 适用于Linux的直播应用程序](/Asserts/Images/album/202301/14/172525mleyqwr72euwru3l.jpg)
 
 
 如何安装：
@@ -75,7 +75,7 @@ OBS Studio 可以在所有 Linux 发行版的官方软件库中找到。详细�
 它可以免费用于 Linux 和 Windows。
 
 
-![vokoscreenNG - 适用于Linux的流媒体直播应用程序](/Asserts/Images//attachment/album/202301/14/172532z111cqcvg1egrj11.jpg)
+![vokoscreenNG - 适用于Linux的流媒体直播应用程序](/Asserts/Images/album/202301/14/172532z111cqcvg1egrj11.jpg)
 
 
 如何安装：
@@ -120,7 +120,7 @@ Restreamer 应用程序可以让你直接在你的网站上直播视频和截屏
 * 通过 JSON HTTP API 访问流状态，以便进行额外的编程
 
 
-![Restreamer](/Asserts/Images//attachment/album/202301/14/172538cj931jtj9o1v1tc9.jpg)
+![Restreamer](/Asserts/Images/album/202301/14/172538cj931jtj9o1v1tc9.jpg)
 
 
 如何安装:
@@ -131,7 +131,7 @@ Restreamer 应用程序可以让你直接在你的网站上直播视频和截屏
 
 
 > 
-> **[下载 Restreamer](https://Asserts/Images/rhei.github.io/restreamer/docs/installation-index.html)**
+> **[下载 Restreamer](https://datarhei.github.io/restreamer/docs/installation-index.html)**
 > 
 > 
 > 
@@ -140,9 +140,9 @@ Restreamer 应用程序可以让你直接在你的网站上直播视频和截屏
 更多信息：
 
 
-* [主页](https://Asserts/Images/rhei.github.io/restreamer/)
-* [文档](https://Asserts/Images/rhei.github.io/restreamer/docs/index.html)
-* [源代码](https://github.com/Asserts/Images/rhei/restreamer)
+* [主页](https://datarhei.github.io/restreamer/)
+* [文档](https://datarhei.github.io/restreamer/docs/index.html)
+* [源代码](https://github.com/datarhei/restreamer)
 
 
 #### ffscreencast
@@ -182,7 +182,7 @@ cp bin/ffscreencast /usr/local/bin
 本列表中的最后一个应用是 Open Streaming Platforms（OSP），这是一个开源的 RTMP 流媒体软件，可以作为 YouTube LIVE、[Twitch.tv](http://Twitch.tv) 等的自托管替代品。
 
 
-![Open Streaming Platforms](/Asserts/Images//attachment/album/202301/14/172556x9zwcduw313ku9k9.jpg)
+![Open Streaming Platforms](/Asserts/Images/album/202301/14/172556x9zwcduw313ku9k9.jpg)
 
 
 如果使用得当，这个应用程序功能丰富且强大。因为它有以下的基本功能：

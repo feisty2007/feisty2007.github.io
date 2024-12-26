@@ -7,7 +7,7 @@ tags:	[linuxcn,Nextcloud,iCloud]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/15/153049hmrhhbax9mmsr7h3.jpg)
+![](/Asserts/Images/album/202303/15/153049hmrhhbax9mmsr7h3.jpg)
 
 
 
@@ -47,7 +47,7 @@ tags:	[linuxcn,Nextcloud,iCloud]
 要在 macOS 上创建用于同步地址簿的新帐户，请打开 “<ruby> 通讯录 <rt>  Contacts </rt></ruby>” 应用程序并从 “<ruby> 通讯录 <rt>  Contacts </rt></ruby>” 菜单中选择 “<ruby> 添加帐户 <rt>  Add Account </rt></ruby>”。 激活复选框 “<ruby> 其他通讯录账号 <rt>  Other Contacts Account </rt></ruby>” 并单击 “<ruby> 继续 <rt>  Continue </rt></ruby>”。你可以接受 “CardDAV” 条目。 在 “<ruby> 账户类型 <rt>  Account Type </rt></ruby>” 下拉菜单中，选择 “<ruby> 手动 <rt>  Manual </rt></ruby>” 输入。
 
 
-![Nextcloud 中高级设置的图片](/Asserts/Images//attachment/album/202303/15/153117bcs68fyf8928l9u9.jpg)
+![Nextcloud 中高级设置的图片](/Asserts/Images/album/202303/15/153117bcs68fyf8928l9u9.jpg)
 
 
 输入你的 Nextcloud 用户名、密码和服务器地址。当前的 macOS 版本要求你在服务器地址中指定端口 443（用于 SSL）。例如，如果你的 Nextcloud 地址是 `https://nextcloudpi.local`，用户名是 `hej`，则在栏中输入以下内容：
@@ -74,7 +74,7 @@ https://nextcloudpi.local:443/remote.php/dav/principals/users/hej
 * 按回车键并将 `.ics` 文件保存到你的磁盘上
 
 
-![一张图片显示如何将 .ics 文件保存到磁盘上](/Asserts/Images//attachment/album/202303/15/153052l94piic45p254app.png)
+![一张图片显示如何将 .ics 文件保存到磁盘上](/Asserts/Images/album/202303/15/153052l94piic45p254app.png)
 
 
 现在可以导入 .ics 文件了。 先在 Nextcloud 中打开 “<ruby> 日历 <rt>  Calendar </rt></ruby>” 应用程序，单击左下方的 “<ruby> 日历设置 <rt>  Calendar settings </rt></ruby>”，然后单击 “<ruby> 导入日历 <rt>  Import calendar </rt></ruby>”。 选择你保存在文件管理器中的 `.ics` 文件。

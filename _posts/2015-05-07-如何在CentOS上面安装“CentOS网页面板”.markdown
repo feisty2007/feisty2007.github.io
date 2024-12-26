@@ -7,7 +7,7 @@ tags:	[linuxcn,CentOS,CentOS网页面板,CWP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201505/25/233747l8yy9osbb9qsrjsy.jpg)
+![](/Asserts/Images/album/201505/25/233747l8yy9osbb9qsrjsy.jpg)
 
 
 ### 关于CentOS网页面板
@@ -258,10 +258,10 @@ sh cwp-latest
 **样例输出：**
 
 
-![](/Asserts/Images//attachment/album/201505/25/233752rzfllaeiqjjw1qll.png)
+![](/Asserts/Images/album/201505/25/233752rzfllaeiqjjw1qll.png)
 
 
-![](/Asserts/Images//attachment/album/201505/25/233802okho2i7l74dql20o.png)
+![](/Asserts/Images/album/201505/25/233802okho2i7l74dql20o.png)
 
 
 安装过程会持续到30分钟或者更多，取决于你的网速。
@@ -270,13 +270,13 @@ sh cwp-latest
 最后，你会看到如下安装完成的信息。记下一些详细信息，如mysql超级用户密码和CWP的登录URL，你随后会需要它们。然后，按下回车Enter重启系统。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233804sisiisibpnis2ys0.png)
+![](/Asserts/Images/album/201505/25/233804sisiisibpnis2ys0.png)
 
 
 重启进入系统后，你会看见CWP的欢迎登录信息。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233804ewz6392n0o38j8tn.png)
+![](/Asserts/Images/album/201505/25/233804ewz6392n0o38j8tn.png)
 
 
 #### 调整防火墙/路由：
@@ -340,7 +340,7 @@ service iptables restart
 * **Password**：你的root密码
 
 
-![](/Asserts/Images//attachment/album/201505/25/233806h7kbtb72f2tobbat.png)
+![](/Asserts/Images/album/201505/25/233806h7kbtb72f2tobbat.png)
 
 
 恭喜你！CWP已经安装成功了。
@@ -364,13 +364,13 @@ service iptables restart
 为建立域名服务器，找到**DNS Functions -> Edit nameservers IPs**。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233816ttti0m9imk3m3407.png)
+![](/Asserts/Images/album/201505/25/233816ttti0m9imk3m3407.png)
 
 
 设置你的域名服务器，点击保存按钮。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233823oob4k6k111xaxb81.png)
+![](/Asserts/Images/album/201505/25/233823oob4k6k111xaxb81.png)
 
 
 #### 建立共享IP和Root邮件地址：
@@ -379,13 +379,13 @@ service iptables restart
 在你的主机上托管网站，这是非常重要的一步。为了建立共享IP，进入**CWP Setting -> Edit settings**。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233835jgerwwawaa0j08jj.png)
+![](/Asserts/Images/album/201505/25/233835jgerwwawaa0j08jj.png)
 
 
 输入你的静态IP和邮件地址，然后点击保存设置按钮。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233841pnxrh95559n7t9nn.png)
+![](/Asserts/Images/album/201505/25/233841pnxrh95559n7t9nn.png)
 
 
 现在，CWP可以进行网站维护了。
@@ -400,13 +400,13 @@ service iptables restart
 要添加一个包，从CWP的控制台进入**Packages — Add a Package**
 
 
-![](/Asserts/Images//attachment/album/201505/25/233851sm9ymsv49vm044ey.png)
+![](/Asserts/Images/album/201505/25/233851sm9ymsv49vm044ey.png)
 
 
 输入包的名字，允许访问的磁盘配额/RAM数量，FTP/Email帐号，数据库和子域名等等。点击保存设置按钮，建立一个网站托管计划。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233859das4zeult283my28.png)
+![](/Asserts/Images/album/201505/25/233859das4zeult283my28.png)
 
 
 现在，CWP可以管理你的域名了。
@@ -424,7 +424,7 @@ service iptables restart
 输入域名(ex.unixmen.com)，用户名，密码和邮箱地址等等。最后，点击**Create**。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233905yn99p8ftppb2w66h.png)
+![](/Asserts/Images/album/201505/25/233905yn99p8ftppb2w66h.png)
 
 
 现在，我们添加一个新的域名。
@@ -436,7 +436,7 @@ service iptables restart
 输入新的域名，并且指定这个域名与用户名关联。
 
 
-![](/Asserts/Images//attachment/album/201505/25/233911tddbd91en4x3bedr.png)
+![](/Asserts/Images/album/201505/25/233911tddbd91en4x3bedr.png)
 
 
 ### 总结

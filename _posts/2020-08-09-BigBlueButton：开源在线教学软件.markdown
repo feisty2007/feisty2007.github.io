@@ -27,7 +27,7 @@ tags:	[linuxcn,视频会议]
 ### BigBlueButton：用于在线教学的开源 Web 会议系统
 
 
-![](/Asserts/Images//attachment/album/202008/06/103324qi7ypimmhdqim5he.png)
+![](/Asserts/Images/album/202008/06/103324qi7ypimmhdqim5he.png)
 
 
 BigBlueButton 是一个开源的网络会议方案，它旨在简化在线学习。

@@ -7,7 +7,7 @@ tags:	[linuxcn,监控,负载,ttyload]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/29/162348q3eetkacujc9orck.jpg)
+![](/Asserts/Images/album/201705/29/162348q3eetkacujc9orck.jpg)
 
 
 ttyload 是一个轻量级的实用程序，它为 Linux 和其他类 Unix 系统上提供随着时间变化的彩色平均负载。它实现了在终端中（“tty”）图形化跟踪系统的平均负载。
@@ -59,7 +59,7 @@ $ ttyload
 
 ```
 
-![ttyload - Graphical View of Linux Load Average](/Asserts/Images//attachment/album/201705/29/162355fv3u7s867ujy7877.png)
+![ttyload - Graphical View of Linux Load Average](/Asserts/Images/album/201705/29/162355fv3u7s867ujy7877.png)
 
 
 *ttyload - 图形浏览 Linux 的平均负载*
@@ -87,7 +87,7 @@ $ ttyload -m
 
 ```
 
-![ttyload - Monochrome Mode](/Asserts/Images//attachment/album/201705/29/162355vxqsnkhq2buurxzq.png)
+![ttyload - Monochrome Mode](/Asserts/Images/album/201705/29/162355vxqsnkhq2buurxzq.png)
 
 
 *ttyload – 单色模式*

@@ -7,7 +7,7 @@ tags:	[linuxcn,区块链,Hyperledger]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/27/232148vi6jiveiu2svceut.png)
+![](/Asserts/Images/album/201908/27/232148vi6jiveiu2svceut.png)
 
 
 一旦一个新技术平台在积极发展和商业利益方面达到了一定程度的受欢迎程度，全球的主要公司和小型的初创企业都急于抓住这块蛋糕。在当时 Linux 就是这样的一个平台。一旦实现了其应用程序的普及，个人、公司和机构就开始对其表现出兴趣，到 2000 年，Linux 基金会就成立了。

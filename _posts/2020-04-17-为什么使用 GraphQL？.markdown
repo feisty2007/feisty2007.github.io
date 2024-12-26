@@ -15,7 +15,7 @@ tags:	[linuxcn,GraphQL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202004/05/105820rdnjrppprjdjddfd.jpg)
+![](/Asserts/Images/album/202004/05/105820rdnjrppprjdjddfd.jpg)
 
 
 正如我[以前](/article-12070-1.html)所写，[GraphQL](https://graphql.org/) 是一种下一代 API 技术，它正在改变客户端应用程序与后端系统的通信方式以及后端系统的设计方式。

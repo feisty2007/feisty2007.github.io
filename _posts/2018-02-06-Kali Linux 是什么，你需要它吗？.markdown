@@ -7,7 +7,7 @@ tags:	[linuxcn,Kali,黑客]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/23/184821kb93jm96a6d3a31m.jpg)
+![](/Asserts/Images/album/201802/23/184821kb93jm96a6d3a31m.jpg)
 
 
 如果你听到一个 13 岁的黑客吹嘘他是多么的牛逼，是有可能的，因为有 Kali Linux 的存在。尽管有可能会被称为“脚本小子”，但是事实上，Kali 仍旧是安全专家手头的重要工具（或工具集）。
@@ -22,7 +22,7 @@ Kali 是一个基于 Debian 的 Linux 发行版。它的目标就是为了简单
 ### 为什么是 Kali？
 
 
-![Kali Linux Desktop](/Asserts/Images//attachment/album/201802/23/184825od5kpbwkbgwwu5ca.jpg "Kali Linux Desktop")
+![Kali Linux Desktop](/Asserts/Images/album/201802/23/184825od5kpbwkbgwwu5ca.jpg "Kali Linux Desktop")
 
 
 [Kali](https://www.offensive-security.com/kali-linux-vmware-virtualbox-image-download/) 是由 [Offensive Security](https://www.offensive-security.com/) 公司开发和维护的。它在安全领域是一家知名的、值得信赖的公司，它甚至还有一些受人尊敬的认证，来对安全从业人员做资格认证。
@@ -46,13 +46,13 @@ Kali 是一个 Linux 发行版。与任何一个其它的 Linux 发行版一样�
 Kali 里面有很多的安全工具而不是别的。这就是它能做的事。不管怎么说，Kali 就是一个安全工具。
 
 
-![Kali Zenmap](/Asserts/Images//attachment/album/201802/23/184835rphy1t6pro066gow.jpg "Kali Zenmap")
+![Kali Zenmap](/Asserts/Images/album/201802/23/184835rphy1t6pro066gow.jpg "Kali Zenmap")
 
 
 它有像 NMap 和 Wireskark 这样的经典信息采集工具。
 
 
-![Kali Linux Wireshark](/Asserts/Images//attachment/album/201802/23/184843eixdd6dviol34tn3.jpg "Kali Linux Wireshark")
+![Kali Linux Wireshark](/Asserts/Images/album/201802/23/184843eixdd6dviol34tn3.jpg "Kali Linux Wireshark")
 
 
 Kali 也有面向 WiFi 的工具，像 Aircrack-ng、Kismet、以及 Pixie。
@@ -61,7 +61,7 @@ Kali 也有面向 WiFi 的工具，像 Aircrack-ng、Kismet、以及 Pixie。
 对于破解密码，它也有像 Hydra、Crunch、Hashcat、以及 John the Ripper 这样的工具。
 
 
-![Kali Metasploit](/Asserts/Images//attachment/album/201802/23/184858ir255on00mlmnozn.jpg "Kali Metasploit")
+![Kali Metasploit](/Asserts/Images/album/201802/23/184858ir255on00mlmnozn.jpg "Kali Metasploit")
 
 
 还有更多的成套工具，包括 Metasploit 和 Burp Suite。

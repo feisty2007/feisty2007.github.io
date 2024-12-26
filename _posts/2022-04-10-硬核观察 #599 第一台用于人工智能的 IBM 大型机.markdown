@@ -7,10 +7,10 @@ tags:	[linuxcn,大型机,加密货币,AMD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/07/190237yxspupbjjbs74x4e.jpg)
+![](/Asserts/Images/album/202204/07/190237yxspupbjjbs74x4e.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/07/190245feungnzz52ed7ceo.jpg)
+![](/Asserts/Images/album/202204/07/190245feungnzz52ed7ceo.jpg)
 
 
 ### 第一台用于人工智能的 IBM 大型机
@@ -27,7 +27,7 @@ tags:	[linuxcn,大型机,加密货币,AMD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/07/190255qp50d8napzddntyc.jpg)
+![](/Asserts/Images/album/202204/07/190255qp50d8napzddntyc.jpg)
 
 
 ### 发现无服务器版的加密货币挖掘恶意软件
@@ -44,7 +44,7 @@ tags:	[linuxcn,大型机,加密货币,AMD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/07/190313dxjl3n548qh8z8t3.jpg)
+![](/Asserts/Images/album/202204/07/190313dxjl3n548qh8z8t3.jpg)
 
 
 ### AMD GPU 驱动程序自动超频 CPU

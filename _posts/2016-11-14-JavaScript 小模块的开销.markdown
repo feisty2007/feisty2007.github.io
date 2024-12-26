@@ -10,7 +10,7 @@ tags:	[linuxcn,JavaScript,模块]
 **更新（2016/10/30）**：我写完这篇文章之后，我在[这个基准测试中发了一个错误](https://github.com/nolanlawson/cost-of-small-modules/pull/8)，会导致 Rollup 比它预期的看起来要好一些。不过，整体结果并没有明显的不同（Rollup 仍然击败了 Browserify 和 Webpack，虽然它并没有像 Closure 十分好），所以我只是更新了图表。该基准测试包括了 [RequireJS 和 RequireJS Almond 打包器](https://github.com/nolanlawson/cost-of-small-modules/pull/5)，所以文章中现在也包括了它们。要看原始帖子，可以查看[历史版本](https://web.archive.org/web/20160822181421/https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)。
 
 
-![](/Asserts/Images//attachment/album/201611/17/134402w3zq9odzzd5sfmh0.jpg)
+![](/Asserts/Images/album/201611/17/134402w3zq9odzzd5sfmh0.jpg)
 
 
 大约一年之前，我在将一个大型 JavaScript 代码库重构为更小的模块时发现了 Browserify 和 Webpack 中一个令人沮丧的事实：
@@ -221,13 +221,13 @@ Browserify 和 Webpack 的工作方式是隔离各个模块到各自的函数空
 这是 Nexus 5 下的测试结果（[查看表格](https://gist.github.com/nolanlawson/e84ad060a20f0cb7a7c32308b6b46abe)）：
 
 
-![Nexus 5 结果](/Asserts/Images//attachment/album/201611/17/134420nmg9cz2kls9gn7ti.png)
+![Nexus 5 结果](/Asserts/Images/album/201611/17/134420nmg9cz2kls9gn7ti.png)
 
 
 这是 iPod Touch 下的测试结果（[查看表格](https://gist.github.com/nolanlawson/45ed2c7fa53da035dfc1e153763b9f93)）：
 
 
-![iPod Touch 结果](/Asserts/Images//attachment/album/201611/17/134421nkjli3ijm8wimn3h.png)
+![iPod Touch 结果](/Asserts/Images/album/201611/17/134421nkjli3ijm8wimn3h.png)
 
 
 在 100 个模块时，各包的差异是微不足道的，但是一旦模块数量达到 1000 个甚至 5000 个时，差异将会变得非常巨大。iPod Touch 在不同包上的差异并不明显，而对于具有一定年代的 Nexus 5 来说，Browserify 和 Webpack 明显耗时更多。
@@ -239,7 +239,7 @@ Browserify 和 Webpack 的工作方式是隔离各个模块到各自的函数空
 值得注意的是前面这些测试都是在千兆网速下进行的，所以在网络情况来看，这只是一个最理想的状况。借助 Chrome 开发者工具，我们可以认为地将 Nexus 5 的网速限制到 3G 水平，然后来看一眼这对测试产生的影响（[查看表格](https://gist.github.com/nolanlawson/6269d304c970174c21164288808392ea)）：
 
 
-![Nexus 5 3G 结果](/Asserts/Images//attachment/album/201611/17/134422ew2s38af8t7ba0e7.png)
+![Nexus 5 3G 结果](/Asserts/Images/album/201611/17/134422ew2s38af8t7ba0e7.png)
 
 
 一旦我们将网速考虑进来，Browserify/Webpack 和 Rollup/Closure 的差异将变得更为显著。在 1000 个模块规模（接近于 Reddit 1050 个模块的规模）时，Browserify 花费的时间比 Rollup 长大约 400 毫秒。然而 400 毫秒已经不是一个小数目了，正如 Google 和 Bing 指出的，亚秒级的延迟都会 [对用户的参与产生明显的影响](http://radar.oreilly.com/2009/06/bing-and-google-agree-slow-pag.html) 。
@@ -287,19 +287,19 @@ Reddit 的移动站点就是一个很好的例子。虽然该站点有 1050 个�
 Chrome 52 ([查看表格](https://gist.github.com/nolanlawson/4f79258dc05bbd2c14b85cf2196c6ef0))
 
 
-![Chrome 结果](/Asserts/Images//attachment/album/201611/17/134424qyud93usgzlk955d.png)
+![Chrome 结果](/Asserts/Images/album/201611/17/134424qyud93usgzlk955d.png)
 
 
 Edge 14 ([查看表格](https://gist.github.com/nolanlawson/726fa47e0723b45e4ee9ecf0cf2fcddb))
 
 
-![Edge 结果](/Asserts/Images//attachment/album/201611/17/134425i17dsrmmki7isi24.png)
+![Edge 结果](/Asserts/Images/album/201611/17/134425i17dsrmmki7isi24.png)
 
 
 Firefox 48 ([查看表格](https://gist.github.com/nolanlawson/7eed17e6ffa18752bf99a9d4bff2941f))
 
 
-![Firefox 结果](/Asserts/Images//attachment/album/201611/17/134427bwwhmywtmghttgw8.png)
+![Firefox 结果](/Asserts/Images/album/201611/17/134427bwwhmywtmghttgw8.png)
 
 
 我在这些结果中发现的有趣的地方如下：
@@ -321,7 +321,7 @@ Firefox 48 ([查看表格](https://gist.github.com/nolanlawson/7eed17e6ffa18752b
 测试结果表明 RequireJS 具有 [最大的包大小](https://gist.github.com/nolanlawson/511e0ce09fed29fed040bb8673777ec5) 但是令人惊讶的是它的运行开销 [与 Rollup 和 Closure 非常接近](https://gist.github.com/nolanlawson/4e725df00cd1bc9673b25ef72b831c8b)。这是在运行 Chrome 52 的 Nexus 5 下限制网速为 3G 的测试结果：
 
 
-![Nexus 5 (3G) RequireJS 结果](/Asserts/Images//attachment/album/201611/17/134429p49g90bu999nuf9n.png)
+![Nexus 5 (3G) RequireJS 结果](/Asserts/Images/album/201611/17/134429p49g90bu999nuf9n.png)
 
 
 更新 3: 我写了一个 [optimize-js](http://github.com/nolanlawson/optimize-js) ，它会减少一些函数内的函数的解析成本。

@@ -7,10 +7,10 @@ tags:	[linuxcn,比特币,勒索,Mozilla]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/01/185210f4qrozll0zxlglbx.jpg)
+![](/Asserts/Images/album/202203/01/185210f4qrozll0zxlglbx.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/01/185221e9g7hxxf7dxargpz.jpg)
+![](/Asserts/Images/album/202203/01/185221e9g7hxxf7dxargpz.jpg)
 
 
 ### 比特币挖矿正变得越来越不环保
@@ -27,7 +27,7 @@ tags:	[linuxcn,比特币,勒索,Mozilla]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/01/185241cbydtjj6k9cgr0yo.jpg)
+![](/Asserts/Images/album/202203/01/185241cbydtjj6k9cgr0yo.jpg)
 
 
 ### 备份不再能有效阻止勒索软件攻击
@@ -44,7 +44,7 @@ tags:	[linuxcn,比特币,勒索,Mozilla]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/01/185259thavuak4ekazkv4u.jpg)
+![](/Asserts/Images/album/202203/01/185259thavuak4ekazkv4u.jpg)
 
 
 ### Mozilla 计划建立新的社区 Connect

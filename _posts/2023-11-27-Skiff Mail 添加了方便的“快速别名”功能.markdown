@@ -7,7 +7,7 @@ tags:	[linuxcn,邮件别名]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/03/222957cr3rujs9rvxjm9x7.jpg)
+![](/Asserts/Images/album/202311/03/222957cr3rujs9rvxjm9x7.jpg)
 
 
 
@@ -33,7 +33,7 @@ Skiff Mail 是一款开源的端到端加密电子邮件服务，非常注重隐
 一般来说，你可以使用一些 [电子邮件保护工具](https://itsfoss.com/protect-email-address/)（例如 SimpleLogin）或从你的电子邮件提供商（无论是谁）创建电子邮件别名。
 
 
-![](/Asserts/Images//attachment/album/202311/03/223034ij8ezs0es8l190s1.jpg)
+![](/Asserts/Images/album/202311/03/223034ij8ezs0es8l190s1.jpg)
 
 
 你可以选择记住电子邮件别名以供使用，或者在每次注册服务、新闻通讯或向你不认识的人提供联系信息时生成唯一的别名。
@@ -45,7 +45,7 @@ Skiff Mail 是一款开源的端到端加密电子邮件服务，非常注重隐
 在这里，[Skiff Mail](https://skiff.com/mail) 允许你为自己声明一个完整的唯一子域，例如 **[gojo.maskmy.id](http://gojo.maskmy.id)** （正如我在测试用例中所做的那样）：
 
 
-![](/Asserts/Images//attachment/album/202311/03/223034o5tzhk07tby48y0q.jpg)
+![](/Asserts/Images/album/202311/03/223034o5tzhk07tby48y0q.jpg)
 
 
 接下来，你所要做的就是 – 在激活它时将其视为你的网站地址，并在其之前添加任何内容作为电子邮件地址，例如 **[xyz@gojo.maskmy.id](https://news.itsfoss.com/cdn-cgi/l/email-protection)** 或 **[demo@gojo.maskmy.id](https://news.itsfoss.com/cdn-cgi/l/email-protection)**。
@@ -57,7 +57,7 @@ Skiff Mail 是一款开源的端到端加密电子邮件服务，非常注重隐
 你可以从“<ruby> 设置 <rt>  Settings </rt></ruby>”菜单访问“<ruby> 快速别名 <rt>  Quick Aliases </rt></ruby>”功能：
 
 
-![](/Asserts/Images//attachment/album/202311/03/223035rkv7h5k5pw74cahq.png)
+![](/Asserts/Images/album/202311/03/223035rkv7h5k5pw74cahq.png)
 
 
 因此，你不再需要生成电子邮件别名，但仍然可以通过这种方式拥有无限的别名。使其成为一次性设置解决方案，可供在线和离线使用。

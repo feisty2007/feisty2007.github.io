@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/27/173957kiq7us0zazasqsqn.png)
+![](/Asserts/Images/album/201712/27/173957kiq7us0zazasqsqn.png)
 
 
 我们一直都在翘首以盼 —— 新的 Ubuntu 的 LTS 版本 —— 18.04。了解有关新功能，发行日期以及更多信息。

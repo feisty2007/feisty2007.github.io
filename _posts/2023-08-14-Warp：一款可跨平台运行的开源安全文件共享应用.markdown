@@ -7,7 +7,7 @@ tags:	[linuxcn,共享,Warp]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/22/135809cbe2zex0cq2eevcf.png)
+![](/Asserts/Images/album/202308/22/135809cbe2zex0cq2eevcf.png)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,共享,Warp]
 ### Warp：概述 ⭐
 
 
-![](/Asserts/Images//attachment/album/202308/22/135810c2f1epdl11241z16.jpg)
+![](/Asserts/Images/album/202308/22/135810c2f1epdl11241z16.jpg)
 
 
 Warp 主要用 **Rust 编程语言** 编写，是一个**基于 GTK** 的文件传输应用，它使用 “[Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole#magic-wormhole)” 协议使通过互联网/本地网络的文件传输成为可能。
@@ -45,7 +45,7 @@ Warp 主要用 **Rust 编程语言** 编写，是一个**基于 GTK** 的文件�
 当你第一次启动该应用时，你会看到欢迎屏幕和关于 Warp 的简短介绍。
 
 
-![](/Asserts/Images//attachment/album/202308/22/135810lnhzq8gu8znpuqqp.jpg)
+![](/Asserts/Images/album/202308/22/135810lnhzq8gu8znpuqqp.jpg)
 
 
 继续后，你将进入 “<ruby> 发送 <rt>  Send </rt></ruby>” 菜单，你可以在其中选择要发送的文件或文件夹。
@@ -59,7 +59,7 @@ Warp 主要用 **Rust 编程语言** 编写，是一个**基于 GTK** 的文件�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/22/135811bkpcqjh9kghanrgq.jpg)
+![](/Asserts/Images/album/202308/22/135811bkpcqjh9kghanrgq.jpg)
 
 
 之后，屏幕上将显示文本和二维码形式的传输码。你必须将其安全地发送给接收者，他们才能开始下载文件。
@@ -73,7 +73,7 @@ Warp 主要用 **Rust 编程语言** 编写，是一个**基于 GTK** 的文件�
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/22/135811u5dm4mrsddpdpqr3.jpg)
+![](/Asserts/Images/album/202308/22/135811u5dm4mrsddpdpqr3.jpg)
 
 
 **那么，接收方看起来怎么样？**
@@ -82,19 +82,19 @@ Warp 主要用 **Rust 编程语言** 编写，是一个**基于 GTK** 的文件�
 好吧，他们必须进入 “<ruby> 接收 <rt>  Receive </rt></ruby>” 菜单并将传输码粘贴到文本框中。他们还可以扫描二维码，将准确的文本复制到他们的设备上。
 
 
-![](/Asserts/Images//attachment/album/202308/22/135811w8zk7nnjinkfmi6k.jpg)
+![](/Asserts/Images/album/202308/22/135811w8zk7nnjinkfmi6k.jpg)
 
 
 粘贴代码并单击 “<ruby> 接收文件 <rt>  Receive File </rt></ruby>” 后，Warp 将开始连接到发送者的设备。
 
 
-![](/Asserts/Images//attachment/album/202308/22/135812y0j47z7yyjg7z6qj.jpg)
+![](/Asserts/Images/album/202308/22/135812y0j47z7yyjg7z6qj.jpg)
 
 
 如果成功，将会显示 “<ruby> 已连接到对等点 <rt>  Connected to Peer </rt></ruby>” 状态。如果不是，则表明发送者或接收者的系统/网络出现问题。
 
 
-![](/Asserts/Images//attachment/album/202308/22/135812nl6ugfv1z9kgl6qg.jpg)
+![](/Asserts/Images/album/202308/22/135812nl6ugfv1z9kgl6qg.jpg)
 
 
 连接成功后，接收者可以选择 “<ruby> 接受 <rt>  Accept </rt></ruby>” 将其保存到系统的“<ruby> 下载 <rt>  Downlaods </rt></ruby>” 文件夹中，也可以选择 “<ruby> 另存为 <rt>  Save As </rt></ruby>” 将其保存在他们选择的位置。
@@ -103,13 +103,13 @@ Warp 主要用 **Rust 编程语言** 编写，是一个**基于 GTK** 的文件�
 就是这样。文件传输完成后，接收方将显示以下页面：
 
 
-![](/Asserts/Images//attachment/album/202308/22/135812ddg63b0fv0v0selg.jpg)
+![](/Asserts/Images/album/202308/22/135812ddg63b0fv0v0selg.jpg)
 
 
 用户还可以进入菜单图标下的 “<ruby> 首选项 <rt>  Preferences </rt></ruby>” 菜单来访问高级设置，例如设置 “<ruby> 集合点/中转服务器 URL <rt>  Rendezvous/Transit Server URL </rt></ruby>” 或将 “<ruby> 传输码字数 <rt>  Code Word Count </rt></ruby>” 设置为更长的字数来增强安全性。
 
 
-![](/Asserts/Images//attachment/album/202308/22/135812jsffhw3cwfcn3k30.jpg)
+![](/Asserts/Images/album/202308/22/135812jsffhw3cwfcn3k30.jpg)
 
 
 这就是 Warp 的全部内容。**它简单且工作良好**。

@@ -15,7 +15,7 @@ tags:	[linuxcn,木马,Mirai]
 > 
 
 
-![Windows Trojan uses brute-force attacks against IoT devices.](/Asserts/Images//attachment/album/201704/26/115412kiffwf1sd55fp6wt.jpg)
+![Windows Trojan uses brute-force attacks against IoT devices.](/Asserts/Images/album/201704/26/115412kiffwf1sd55fp6wt.jpg)
 
 
 攻击者已经开始使用 Windows 和 Android 恶意软件入侵嵌入式设备，这消除了人们广泛持有的想法，认为如果设备不直接暴露在互联网上，那么它们就不那么脆弱。

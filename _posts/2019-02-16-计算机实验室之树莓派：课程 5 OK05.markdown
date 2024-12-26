@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派,摩尔斯电码]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/12/122809f73x8z1xl73xhhm7.jpg)
+![](/Asserts/Images/album/201902/12/122809f73x8z1xl73xhhm7.jpg)
 
 
 OK05 课程构建于课程 OK04 的基础，使用它来闪烁摩尔斯电码的 SOS 序列（`...---...`）。这里假设你已经有了 [课程 4：OK04](/article-10526-1.html) 操作系统的代码作为基础。

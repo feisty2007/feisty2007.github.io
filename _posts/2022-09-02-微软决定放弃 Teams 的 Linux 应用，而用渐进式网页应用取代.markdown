@@ -15,7 +15,7 @@ tags:	[linuxcn,Teams,微软]
 > 
 
 
-![微软决定不再为 Teams 提供 Linux 应用程序，取而代之的是渐进式Web应用程序](/Asserts/Images//attachment/album/202209/02/234343rsg7xkg74gadpdpx.png)
+![微软决定不再为 Teams 提供 Linux 应用程序，取而代之的是渐进式Web应用程序](/Asserts/Images/album/202209/02/234343rsg7xkg74gadpdpx.png)
 
 
 **微软爱 Linux ...** ?
@@ -44,7 +44,7 @@ tags:	[linuxcn,Teams,微软]
 ### 渐进式网页应用（PWA）将取代 Linux 应用程序
 
 
-![微软 Teams Linux 应用程序](/Asserts/Images//attachment/album/202209/02/234344hue9966w4p70depp.jpg)
+![微软 Teams Linux 应用程序](/Asserts/Images/album/202209/02/234344hue9966w4p70depp.jpg)
 
 
 微软表示，再过段时间，他们将在 Linux 上提供一个 Teams 渐进式网页应用程序（PWA）。

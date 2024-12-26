@@ -15,7 +15,7 @@ tags:	[linuxcn,ARM,x86,linus torvalds]
 > 
 
 
-![](/Asserts/Images//attachment/album/201610/24/215638cni4rh7onn27o4sn.jpg)
+![](/Asserts/Images/album/201610/24/215638cni4rh7onn27o4sn.jpg)
 
 
 *Linus Torvalds 于 1999 年 8 月 10 日在加州圣何塞举行的 LinuxWorld 节目中给挤满礼堂的 Linux 发烧友们作演讲。* 

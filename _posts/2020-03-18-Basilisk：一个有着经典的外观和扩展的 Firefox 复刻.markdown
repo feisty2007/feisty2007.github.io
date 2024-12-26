@@ -15,7 +15,7 @@ tags:	[linuxcn,浏览器,Firefox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202003/16/130319lvls6fvsaslzllrv.jpg)
+![](/Asserts/Images/album/202003/16/130319lvls6fvsaslzllrv.jpg)
 
 
 ### Basilisk：基于 XUL 的开源 Web 浏览器
@@ -24,7 +24,7 @@ tags:	[linuxcn,浏览器,Firefox]
 尽管最好使用 Linux 上的常规浏览器（如 Firefox 或 Chromium），但了解其他浏览器也没坏处。最近，我偶然发现了一个 Firefox 复刻：[Basilisk](https://www.basilisk-browser.org/) 浏览器，它有经典的 Firefox 用户界面以及对旧版扩展的支持（就像 [Waterfox](https://itsfoss.com/waterfox-browser/) 一样）。
 
 
-![itsfoss.com homepage on Basilisk](/Asserts/Images//attachment/album/202003/16/130043im3hfx588f3n5699.jpg)
+![itsfoss.com homepage on Basilisk](/Asserts/Images/album/202003/16/130043im3hfx588f3n5699.jpg)
 
 
 如果你迫切需要使用旧版扩展程序或怀念 Firefox 的经典外观，Basilisk 浏览器可以帮到你。这个浏览器是由 [Pale Moon](https://www.palemoon.org) 浏览器背后的团队维护（这是我接下来要介绍的另一个 Firefox 复刻）。
@@ -39,7 +39,7 @@ tags:	[linuxcn,浏览器,Firefox]
 ### Basilisk 浏览器的特性
 
 
-![](/Asserts/Images//attachment/album/202003/16/130047sydpf3y6gsbhdfhq.jpg)
+![](/Asserts/Images/album/202003/16/130047sydpf3y6gsbhdfhq.jpg)
 
 
 Basilisk 开箱即用。但是，在考虑使用之前，可能需要先看一下以下这些特性：
@@ -66,7 +66,7 @@ Basilisk 开箱即用。但是，在考虑使用之前，可能需要先看一�
 你可以查看它的 [GitHub 页面](https://github.com/MoonchildProductions/Basilisk)获取更多信息。
 
 
-![](/Asserts/Images//attachment/album/202003/16/130048jt7bjywvxxz9uwuf.jpg)
+![](/Asserts/Images/album/202003/16/130048jt7bjywvxxz9uwuf.jpg)
 
 
 你也可以按照下面的步骤使用终端进入下载的文件夹，并运行文件：
@@ -85,7 +85,7 @@ cd basilisk
 ### 使用 Basilisk 浏览器
 
 
-![](/Asserts/Images//attachment/album/202003/16/130049snutxfmrvyprtvnn.jpg)
+![](/Asserts/Images/album/202003/16/130049snutxfmrvyprtvnn.jpg)
 
 
 如果你想要支持旧版扩展，Basilisk 是不错的 Firefox 复刻。它是由 Pale Moon 背后的团队积极开发的，对于希望获得 Mozilla Firefox（在 Quantum 更新之前）经典外观，且不包括现代 Web 支持的用户而言，它可能是一个不错的选择。

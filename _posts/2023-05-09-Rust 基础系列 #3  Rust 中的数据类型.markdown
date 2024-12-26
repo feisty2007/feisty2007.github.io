@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/13/215245a1wjvnwtcwawasnw.jpg)
+![](/Asserts/Images/album/202305/13/215245a1wjvnwtcwawasnw.jpg)
 
 
 在 [上一篇](/article-15771-1.html) 关于 Rust 编程语言的文章中，我们提到了变量、常量和 <ruby> 遮蔽 <rt>  shadowing </rt></ruby> 。
@@ -61,7 +61,7 @@ Rust 有两种数据类型：
 这是根据符号和长度可用的整型：
 
 
-![Rust 中的整型数据类型](/Asserts/Images//attachment/album/202305/13/215336o4bb14swb94qzm3w.png)
+![Rust 中的整型数据类型](/Asserts/Images/album/202305/13/215336o4bb14swb94qzm3w.png)
 
 
 正如你所见，Rust 有 8、16、32、64 甚至 128 位的有符号和无符号整型！

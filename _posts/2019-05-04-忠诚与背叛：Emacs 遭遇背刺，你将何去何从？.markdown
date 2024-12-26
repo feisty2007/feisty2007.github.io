@@ -7,13 +7,13 @@ tags:	[linuxcn,VSCode,Emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/01/124746wat8ixnz6336686x.jpg)
+![](/Asserts/Images/album/201905/01/124746wat8ixnz6336686x.jpg)
 
 
 昨天，一名推特用户“EmacsTW”发布了一条新的推文，告诫希望使用 Emacs 的人放弃 Emacs，转用一些现代化的编辑器比如 VSCode。
 
 
-![](/Asserts/Images//attachment/album/201905/01/124829s1ts92vh800i201n.jpg)
+![](/Asserts/Images/album/201905/01/124829s1ts92vh800i201n.jpg)
 
 
 一时间，技术圈炸了锅，尤其是在 Emacs 用户群体，大家议论纷纷：

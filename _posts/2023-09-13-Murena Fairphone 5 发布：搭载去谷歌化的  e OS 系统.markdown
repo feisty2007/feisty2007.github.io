@@ -7,7 +7,7 @@ tags:	[linuxcn,Fairphone,/e/OS,安卓]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/04/093025d0ec60ruitcrtum7.png)
+![](/Asserts/Images/album/202309/04/093025d0ec60ruitcrtum7.png)
 
 
 
@@ -46,7 +46,7 @@ tags:	[linuxcn,Fairphone,/e/OS,安卓]
 ### ? 对 Murena Fairphone 5，有何期待？
 
 
-![](/Asserts/Images//attachment/album/202309/04/093025zdhaa5vldikac8ia.jpg)
+![](/Asserts/Images/album/202309/04/093025zdhaa5vldikac8ia.jpg)
 
 
 Murena Fairphone 5 是一款 **支持 5G 的智能手机**，**运行着** [/e/OS](https://e.foundation/e-os/)\*\*，这是一个去谷歌化的，**开源的手机操作系统**，系统内精选了多款软件，以取代各类谷歌应用。
@@ -61,7 +61,7 @@ Murena Fairphone 5 的外壳使用了回收材料，并且凭借其模块化设�
 你也许会问；**这款手机的硬件配置如何？**
 
 
-![](/Asserts/Images//attachment/album/202309/04/093026r9oob7hxbmhckr7o.jpg)
+![](/Asserts/Images/album/202309/04/093026r9oob7hxbmhckr7o.jpg)
 
 
 事实上，Murena Fairphone 5 是一款 **配置非常全面的智能手机**，拥有以下硬件规格：

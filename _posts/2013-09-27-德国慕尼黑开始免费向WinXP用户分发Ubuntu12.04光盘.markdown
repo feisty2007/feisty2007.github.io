@@ -10,7 +10,7 @@ tags:	[linuxcn,WinXP,Lubuntu]
 **眼瞅着明年微软即将终止对WindowsXP的官方支持，德国城市慕尼黑已经开始向当地选出的一些图书馆免费提供Ubuntu12.04 LTS CD光盘。**
 
 
-![](/Asserts/Images//attachment/album/201309/19/111356cloodoljdodj0ugn.jpg) 
+![](/Asserts/Images/album/201309/19/111356cloodoljdodj0ugn.jpg) 
 
 
 当地政府已经准备好2000张左右的光盘，预计到2014年4月[分发完毕](http://www.muenchen.de/rathaus/Stadtverwaltung/Direktorium/IT-Beauftragte/Aktuelles/linux_cd.html)。

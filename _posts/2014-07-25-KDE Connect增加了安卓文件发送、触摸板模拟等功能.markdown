@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE,Android]
 ---
 
 
-![如今的KDE Connect 能在桌面和手机之间共享文件](/Asserts/Images//attachment/album/201407/11/205127u6ssmv85zznz62rh.jpg)
+![如今的KDE Connect 能在桌面和手机之间共享文件](/Asserts/Images/album/201407/11/205127u6ssmv85zznz62rh.jpg)
 
 
 通过安卓版的KDE和Plasma Desktop可以将所连接设备的触摸屏当作电脑的触摸板使用。(注：Plasma 是KDE项目提供的所有图形环境总称。目前有三个Plasma子项目：Plasma Desktop用于传统的桌面电脑和笔记本电脑、Plasma Netbook用于上网本，以及Plasma Active用于平板电脑。)

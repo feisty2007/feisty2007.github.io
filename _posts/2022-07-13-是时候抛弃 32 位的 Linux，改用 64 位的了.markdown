@@ -15,7 +15,7 @@ tags:	[linuxcn,内核,32 位]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/29/222603u6ueeeevz7i7e3c3.jpg)
+![](/Asserts/Images/album/202207/29/222603u6ueeeevz7i7e3c3.jpg)
 
 
 我们有很多 [为 32 位系统定制的 Linux 发行版](https://itsfoss.com/32-bit-linux-distributions/)。

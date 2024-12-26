@@ -15,7 +15,7 @@ tags:	[linuxcn,别名,alias]
 > 
 
 
-![](/Asserts/Images//attachment/album/201812/24/125355ud71kkwkk54w4oe5.jpg)
+![](/Asserts/Images/album/201812/24/125355ud71kkwkk54w4oe5.jpg)
 
 
 <ruby> 命令别名 <rt>  Alias </rt></ruby>在 Linux shell 中指的是将一些太长或者太难记的多个命令组合起来，成为一个由用户自己构建的命令。

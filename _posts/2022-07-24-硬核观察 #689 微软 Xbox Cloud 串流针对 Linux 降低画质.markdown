@@ -7,10 +7,10 @@ tags:	[linuxcn,微软,sytemd,量子计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/06/190302h6z58o5r9fh77q55.jpg)
+![](/Asserts/Images/album/202207/06/190302h6z58o5r9fh77q55.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/06/190313fogot7bhrryibgi7.jpg)
+![](/Asserts/Images/album/202207/06/190313fogot7bhrryibgi7.jpg)
 
 
 ### 微软 Xbox Cloud 串流针对 Linux 降低画质
@@ -35,7 +35,7 @@ tags:	[linuxcn,微软,sytemd,量子计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/06/190349krocqohcodkrxrdh.jpg)
+![](/Asserts/Images/album/202207/06/190349krocqohcodkrxrdh.jpg)
 
 
 ### systemd 创建者离开了红帽
@@ -60,7 +60,7 @@ tags:	[linuxcn,微软,sytemd,量子计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/06/190359n8o1e2p28ulya17s.jpg)
+![](/Asserts/Images/album/202207/06/190359n8o1e2p28ulya17s.jpg)
 
 
 ### NIST 公布首批四种抗量子的加密算法

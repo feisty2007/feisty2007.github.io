@@ -15,7 +15,7 @@ tags:	[linuxcn,数据科学,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/201810/14/212222vzizei8okey5ky72.jpg)
+![](/Asserts/Images/album/201810/14/212222vzizei8okey5ky72.jpg)
 
 
 Scikit-learn Python 库最初于 2007 年发布，通常用于解决各种方面的机器学习和数据科学问题。这个多种功能的库提供了整洁、一致、高效的 API 和全面的在线文档。
@@ -258,7 +258,7 @@ sns.set(rc={'figure.figsize':(2,15)})
 让我们看看结果：
 
 
-![](/Asserts/Images//attachment/album/201810/14/212232hlnmtnscywf3y6lw.png)
+![](/Asserts/Images/album/201810/14/212232hlnmtnscywf3y6lw.png)
 
 
 在横轴上：
@@ -296,7 +296,7 @@ sns.set(rc={'figure.figsize':(2,15)})
 Scikit-learn 是一个多功能的 Python 库，可用于高效完成数据科学项目。
 
 
-如果您想了解更多信息，请查看 [LiveEdu](https://www.liveedu.tv/guides/Asserts/Images/-science/) 上的教程，例如 Andrey Bulezyuk 关于使用 Scikit-learn 库创建[机器学习应用程序](https://www.liveedu.tv/andreybu/REaxr-machine-learning-model-python-sklearn-kera/oPGdP-machine-learning-model-python-sklearn-kera/)的视频。
+如果您想了解更多信息，请查看 [LiveEdu](https://www.liveedu.tv/guides/data-science/) 上的教程，例如 Andrey Bulezyuk 关于使用 Scikit-learn 库创建[机器学习应用程序](https://www.liveedu.tv/andreybu/REaxr-machine-learning-model-python-sklearn-kera/oPGdP-machine-learning-model-python-sklearn-kera/)的视频。
 
 
 有什么评价或者疑问吗？ 欢迎在下面分享。

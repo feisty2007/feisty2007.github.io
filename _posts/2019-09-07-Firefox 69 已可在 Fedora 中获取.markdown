@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/201909/18/095421jv602uqkrwlrwu53.jpg)
+![](/Asserts/Images/album/201909/18/095421jv602uqkrwlrwu53.jpg)
 
 
 当你安装 Fedora Workstation 时，你会发现它包括了世界知名的 Firefox 浏览器。Mozilla 基金会以开发 Firefox 以及其他促进开放、安全和隐私的互联网项目为己任。Firefox 有快速的浏览引擎和大量的隐私功能。

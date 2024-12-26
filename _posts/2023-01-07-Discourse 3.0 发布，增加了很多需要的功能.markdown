@@ -15,7 +15,7 @@ tags:	[linuxcn,Discourse]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/16/145747qz590zz1n0ztinli.png)
+![](/Asserts/Images/album/202301/16/145747qz590zz1n0ztinli.png)
 
 
 Discourse 是一个开源的论坛平台，以其丰富的功能和第三方集成而闻名。
@@ -36,7 +36,7 @@ Discourse 是一个开源的论坛平台，以其丰富的功能和第三方集�
 ### ? Discourse 3.0 的新变化
 
 
-![Discourse 3.0](/Asserts/Images//attachment/album/202301/16/145748tw4q8yql844is8e8.jpg)
+![Discourse 3.0](/Asserts/Images/album/202301/16/145748tw4q8yql844is8e8.jpg)
 
 
 Discourse 3.0 提供了很多东西，其中一些值得注意的亮点包括：
@@ -53,7 +53,7 @@ Discourse 3.0 提供了很多东西，其中一些值得注意的亮点包括：
 #### 新的设置向导
 
 
-![新的设置向导](/Asserts/Images//attachment/album/202301/16/145749i3jn6a39ifp3ziz6.png)
+![新的设置向导](/Asserts/Images/album/202301/16/145749i3jn6a39ifp3ziz6.png)
 
 
 Discourse 现在有一个新的设置向导，可以让你快速配置一些最重要的选项。
@@ -65,7 +65,7 @@ Discourse 现在有一个新的设置向导，可以让你快速配置一些最�
 #### 用户状态
 
 
-![Discourse 用户状态](/Asserts/Images//attachment/album/202301/16/145749ohw36vmvhhhvmxhz.jpg)
+![Discourse 用户状态](/Asserts/Images/album/202301/16/145749ohw36vmvhhhvmxhz.jpg)
 
 
 与现在大多数社区平台的做法类似，Discourse 现在也支持设置用户状态。
@@ -77,7 +77,7 @@ Discourse 现在有一个新的设置向导，可以让你快速配置一些最�
 #### 通知菜单
 
 
-![Discourse 通知](/Asserts/Images//attachment/album/202301/16/145750qnawnttxwpruxu9x.jpg)
+![Discourse 通知](/Asserts/Images/album/202301/16/145750qnawnttxwpruxu9x.jpg)
 
 
 这终于实现了。
@@ -89,7 +89,7 @@ Discourse 现在有一个专门的通知菜单，让你更容易跟踪你在论�
 #### 新的侧边栏
 
 
-![Discourse 侧边栏](/Asserts/Images//attachment/album/202301/16/145750a6uint5miaur6sn9.jpg)
+![Discourse 侧边栏](/Asserts/Images/album/202301/16/145750a6uint5miaur6sn9.jpg)
 
 
 这是的另一项你可能会喜欢的用户体验改进。
@@ -104,7 +104,7 @@ Discourse 现在有一个专门的通知菜单，让你更容易跟踪你在论�
 #### 实时聊天
 
 
-![Discourse 实时聊天](/Asserts/Images//attachment/album/202301/16/145750z9cgopv6a9ck9k3p.jpg)
+![Discourse 实时聊天](/Asserts/Images/album/202301/16/145750z9cgopv6a9ck9k3p.jpg)
 
 
 Discourse 现在支持实时聊天；频道管理员可以选择创建一个非正式的讨论、展示，甚至是备忘录的空间，如果这对他们有用的话。
@@ -127,7 +127,7 @@ Discourse 的产品经理 Rishabh Nambiar 提到：
 #### 用户提示
 
 
-![Discourse 用户提示](/Asserts/Images//attachment/album/202301/16/145751g482a2s1suui4grs.jpg)
+![Discourse 用户提示](/Asserts/Images/album/202301/16/145751g482a2s1suui4grs.jpg)
 
 
 这个功能对不熟悉 Discourse 的新用户很有帮助。

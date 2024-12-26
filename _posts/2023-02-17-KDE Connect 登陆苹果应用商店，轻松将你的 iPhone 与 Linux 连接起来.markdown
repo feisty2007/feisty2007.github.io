@@ -15,7 +15,7 @@ tags:	[linuxcn,KDE Connect]
 > 
 
 
-![kde connect](/Asserts/Images//attachment/album/202302/20/193204te9zlibloco9btec.jpg)
+![kde connect](/Asserts/Images/album/202302/20/193204te9zlibloco9btec.jpg)
 
 
 KDE Connect 是一种开源工具，可让你将手机与电脑连接起来。
@@ -33,7 +33,7 @@ KDE Connect 是一种开源工具，可让你将手机与电脑连接起来。
 ### 苹果应用商店上的 KDE Connect
 
 
-![](/Asserts/Images//attachment/album/202302/20/193214yjppzm5s3jdf3353.jpg)
+![](/Asserts/Images/album/202302/20/193214yjppzm5s3jdf3353.jpg)
 
 
 我们没有注意到任何官方公告。然而，一些用户发现 KDE Connect 在 [版本 0.2.1](https://invent.kde.org/network/kdeconnect-ios/-/commit/43d2ecbbb7e4e70274849f5ec987721318eb9f57) 发布后，就出现在了 [苹果应用商店](https://apps.apple.com/id/app/kde-connect/id1580245991) 上供 iOS 用户使用。

@@ -7,10 +7,10 @@ tags:	[linuxcn,共振,诈骗,DDoS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/19/193232xdpv0xvpfrfw8wd8.jpg)
+![](/Asserts/Images/album/202208/19/193232xdpv0xvpfrfw8wd8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/19/193243tr3dum13rde3mxug.jpg)
+![](/Asserts/Images/album/202208/19/193243tr3dum13rde3mxug.jpg)
 
 
 ### 听别的电脑放歌会崩溃的笔记本电脑
@@ -35,7 +35,7 @@ tags:	[linuxcn,共振,诈骗,DDoS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/19/193306odp163v3gnk0p1ao.png)
+![](/Asserts/Images/album/202208/19/193306odp163v3gnk0p1ao.png)
 
 
 ### 骗子利用带有微软徽标的 U 盘来诈骗
@@ -60,7 +60,7 @@ tags:	[linuxcn,共振,诈骗,DDoS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/19/193323i6omddgfg6gc3uwa.jpg)
+![](/Asserts/Images/album/202208/19/193323i6omddgfg6gc3uwa.jpg)
 
 
 ### DDoS 攻击新纪录：每秒请求超过 4600 万次

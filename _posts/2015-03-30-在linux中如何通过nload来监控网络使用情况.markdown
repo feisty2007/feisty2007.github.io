@@ -16,7 +16,7 @@ nload 是一个 linux 自由软件工具，通过提供两个简单的图形来�
 在其使用手册上说到，在默认情况下它会监控所有网络设备。但是你可以轻松地指定你想要监控的设备，而且可以通过方向键在不同的网络设备之间进行转换。另外还有很多的选项可用，例如 ‘-t’选项以毫秒来设定刷新显示时间间隔（默认时间间隔值是500毫秒），‘-m’选项用来同时显示多个设备（在使用该选项时不会显示流量图），‘-u’选项用来设置显示流量数字的单位，另外还有许多其他的选项将会在本教程中探索和练习。
 
 
-![](/Asserts/Images//attachment/album/201503/24/000121e5w6o6wt9tt87s2e.jpg)
+![](/Asserts/Images/album/201503/24/000121e5w6o6wt9tt87s2e.jpg)
 
 
 ### 如何将 nload安装到你的linux机器上
@@ -155,7 +155,7 @@ oltjano@baby:/tmp/nload-0.7.4$
 此时会有“一大波僵尸”会在你的屏幕上显示出来，下面的一个屏幕截图描述了它的样子。
 
 
-![configuring packages for nload](/Asserts/Images//attachment/album/201503/24/000131gboccc88khtocna3.png)
+![configuring packages for nload](/Asserts/Images/album/201503/24/000131gboccc88khtocna3.png)
 
 
 在上述命令完成之后，通过下面的命令来编译nload。
@@ -167,7 +167,7 @@ make
 
 ```
 
-![compiling nload](/Asserts/Images//attachment/album/201503/24/000140ieucqnzqcdelrdnl.png)
+![compiling nload](/Asserts/Images/album/201503/24/000140ieucqnzqcdelrdnl.png)
 
 
 好了，终于....，通过以下命令可以将nload安装在你的机器上了。
@@ -179,7 +179,7 @@ sudo make install
 
 ```
 
-![installing nload from source](/Asserts/Images//attachment/album/201503/24/000149i04onar471t40h0t.png)
+![installing nload from source](/Asserts/Images/album/201503/24/000149i04onar471t40h0t.png)
 
 
 安装好nload之后就是让你学习如何使用它的时间了。
@@ -203,7 +203,7 @@ nload
 我得到了下面的结果。
 
 
-![running nload](/Asserts/Images//attachment/album/201503/24/000153x96z70c67puep698.png)
+![running nload](/Asserts/Images/album/201503/24/000153x96z70c67puep698.png)
 
 
 如上述截图可以看到,我得到了以下信息:
@@ -215,31 +215,31 @@ nload
 **当前下载速度**
 
 
-![nload running on linux](/Asserts/Images//attachment/album/201503/24/000159wziw7h2w7y1dhdhz.png)
+![nload running on linux](/Asserts/Images/album/201503/24/000159wziw7h2w7y1dhdhz.png)
 
 
 **平均下载速度**
 
 
-![nload running on linux](/Asserts/Images//attachment/album/201503/24/000206nufcxtbf55tufm11.png)
+![nload running on linux](/Asserts/Images/album/201503/24/000206nufcxtbf55tufm11.png)
 
 
 **最小下载速度**
 
 
-![nload running on linux](/Asserts/Images//attachment/album/201503/24/000214xfeaz3fic3wccaf0.png)
+![nload running on linux](/Asserts/Images/album/201503/24/000214xfeaz3fic3wccaf0.png)
 
 
 **最大下载速度**
 
 
-![nload running on linux](/Asserts/Images//attachment/album/201503/24/000220vsl1wosgfxxxx118.png)
+![nload running on linux](/Asserts/Images/album/201503/24/000220vsl1wosgfxxxx118.png)
 
 
 **总的流入量按字节进行显示**
 
 
-![](/Asserts/Images//attachment/album/201503/24/000226i8av7aa66ry9vbab.png)
+![](/Asserts/Images/album/201503/24/000226i8av7aa66ry9vbab.png)
 
 
 #### 流出量
@@ -266,7 +266,7 @@ nload -u m
 下面的屏幕截图显示了上述命令的结果。
 
 
-![nload running on linux](/Asserts/Images//attachment/album/201503/24/000229havasrz3a69hqw6j.png)
+![nload running on linux](/Asserts/Images/album/201503/24/000229havasrz3a69hqw6j.png)
 
 
 尝试以下命令然后看看有什么结果。
@@ -278,7 +278,7 @@ nload -u g
 
 ```
 
-![nload running on linux](/Asserts/Images//attachment/album/201503/24/000234gooyh0zo7o9odof9.png)
+![nload running on linux](/Asserts/Images/album/201503/24/000234gooyh0zo7o9odof9.png)
 
 
 同时还有一个**-U**选项。根据手册描述，该选项基本上与-u选项类似，只是用在合计数据。 我测试了这个命令，老实说，当你需要检查总的流入与流出量时非常有用。
@@ -290,7 +290,7 @@ nload -U G
 
 ```
 
-![nload running on linux](/Asserts/Images//attachment/album/201503/24/000241o884s5i75s6wnw56.png)
+![nload running on linux](/Asserts/Images/album/201503/24/000241o884s5i75s6wnw56.png)
 
 
 从上面的截图中可以看到，**nload -U G** 使用Gbyte来显示数据总量。
@@ -323,7 +323,7 @@ nload wlan0
 
 ```
 
-![nload monitoring wlan0 on linux](/Asserts/Images//attachment/album/201503/24/000246tnqa14tkktbb2b14.png)
+![nload monitoring wlan0 on linux](/Asserts/Images/album/201503/24/000246tnqa14tkktbb2b14.png)
 
 
 下面的语法可帮助你监控指定的多个设备。

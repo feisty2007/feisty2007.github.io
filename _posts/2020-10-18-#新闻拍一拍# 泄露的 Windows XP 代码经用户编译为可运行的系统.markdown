@@ -7,7 +7,7 @@ tags:	[linuxcn,Windows,OpenCL,LLVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/01/133351fzc4pcv8rzkn84vb.jpg)
+![](/Asserts/Images/album/202010/01/133351fzc4pcv8rzkn84vb.jpg)
 
 
 #### 泄露的 Windows XP 代码经用户编译为可运行的系统

@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/11/134022kzxaxolsy6xx3iyw.jpg)
+![](/Asserts/Images/album/201905/11/134022kzxaxolsy6xx3iyw.jpg)
 
 
 由于 Mozilla 方面的一个失误，导致许多 Firefox 用户在上周末遇到了附加组件无法使用的 bug 。后来该公司发布了更新，才让浏览器恢复正常。对于此事，这家机构现已发表正式道歉，详细解释发生了怎样的事情，且承诺会删除期间为了推出修复程序而收集的私人数据。据悉，为了修复 bug，Firefox 初期希望用户启用遥测选项。因为在默认的情况下，其出于隐私考量而禁用了此类数据收集选项。

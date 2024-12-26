@@ -7,7 +7,7 @@ tags:	[linuxcn,rsync,备份]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/10/083623elb5j4llajaaq8vn.jpg)
+![](/Asserts/Images/album/201705/10/083623elb5j4llajaaq8vn.jpg)
 
 
 rdiff-backup 是一个用于本地/远程增量备份的强大而易用的 Python 脚本，它适用于任何 POSIX 操作系统，如Linux、Mac OS X 或 [Cygwin](http://www.tecmint.com/install-cygwin-to-run-linux-commands-on-windows-system/)。它集合了镜像和增量备份的显著特性。
@@ -106,7 +106,7 @@ $ sudo rdiff-backup /etc /media/aaronkilik/Data/Backup/mint_etc.backup
 
 ```
 
-![Backup Files to Different Partition](/Asserts/Images//attachment/album/201705/10/083701zssspkk8sb4opoo4.png)
+![Backup Files to Different Partition](/Asserts/Images/album/201705/10/083701zssspkk8sb4opoo4.png)
 
 
 *备份文件到不同分区*
@@ -161,7 +161,7 @@ $ rdiff-backup -V
 
 ```
 
-![Check rdiff Version on Servers](/Asserts/Images//attachment/album/201705/10/083702h162pczcxhqlfzay.png)
+![Check rdiff Version on Servers](/Asserts/Images/album/201705/10/083702h162pczcxhqlfzay.png)
 
 
 *检查服务器中 rdiff 版本*
@@ -189,7 +189,7 @@ $ rdiff-backup -V
 下面的截图展示了远程服务器 192.168.56.102 中的 `root` 文件夹以及 192.168.56.10 备份服务器中的已备份文件：
 
 
-![Backup Remote Directory on Local Server](/Asserts/Images//attachment/album/201705/10/083702qrabh0h3w0083zjk.png)
+![Backup Remote Directory on Local Server](/Asserts/Images/album/201705/10/083702qrabh0h3w0083zjk.png)
 
 
 *在本地服务器备份远程目录*
@@ -198,7 +198,7 @@ $ rdiff-backup -V
 注意截图中 “backup” 目录中创建的 rdiff-backup-data 文件夹，它包含了备份过程和增量文件的重要数据。
 
 
-![rdiff-backup - Backup Process Files](/Asserts/Images//attachment/album/201705/10/083703g4sdfrqap3ikikwi.png)
+![rdiff-backup - Backup Process Files](/Asserts/Images/album/201705/10/083703g4sdfrqap3ikikwi.png)
 
 
 *rdiff-backup – 备份过程文件*
@@ -207,7 +207,7 @@ $ rdiff-backup -V
 现在，在 192.168.56.102 服务器中，如下所示 `root` 目录已经添加了额外的文件：
 
 
-![Verify Backup Directory](/Asserts/Images//attachment/album/201705/10/083703mhnz9hk9nfjvjijo.png)
+![Verify Backup Directory](/Asserts/Images/album/201705/10/083703mhnz9hk9nfjvjijo.png)
 
 
 *验证备份目录*
@@ -222,7 +222,7 @@ $ rdiff-backup -V
 
 ```
 
-![Incremental Backup with Summary](/Asserts/Images//attachment/album/201705/10/083704ca6gaqda9itwnnfa.png)
+![Incremental Backup with Summary](/Asserts/Images/album/201705/10/083704ca6gaqda9itwnnfa.png)
 
 
 *带有摘要的增量备份*

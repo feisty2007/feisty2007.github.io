@@ -16,7 +16,7 @@ LEMP 组合包是一款日益流行的网站服务组合软件包，在许多生
 这篇文章里，我们示范**如何在 CentOS 操作平台上安装 LEMP 包**。我们安装的目标是 CentOS 6 和 CentOS 7 两个操作平台，如有必要会指出它们的不同。
 
 
-![](/Asserts/Images//attachment/album/201411/26/233324q0600r8wuu27sw6f.png)
+![](/Asserts/Images/album/201411/26/233324q0600r8wuu27sw6f.png)
 
 
 ### 第一步: Nginx
@@ -98,7 +98,7 @@ $ sudo service iptables save
 nginx 的默认文档要目录是 /usr/share/nginx/html。默认的 index.html 文件一定已经在这目录下了。让我们检测下是否可以访问到这个测试 web 页，输入 http://nginx的ip地址/ 访问。
 
 
-![](/Asserts/Images//attachment/album/201411/26/233402ogs66v2e22ce63vo.jpg)
+![](/Asserts/Images/album/201411/26/233402ogs66v2e22ce63vo.jpg)
 
 
 如果您看到的是如上所示的页面的话，说明 nginx 已经正常启动。继续往下。
@@ -147,7 +147,7 @@ $ sudo chkconfig mysqld on
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/26/233406vvq6a0iklq6b6bxz.jpg)
+![](/Asserts/Images/album/201411/26/233406vvq6a0iklq6b6bxz.jpg)
 
 
 这就是数据库的设置。现在进行下一步。
@@ -183,7 +183,7 @@ $ sudo yum --enablerepo=remi install php php-fpm php-mysql
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/26/233411mvfa3v3anz6af6md.jpg)
+![](/Asserts/Images/album/201411/26/233411mvfa3v3anz6af6md.jpg)
 
 
 在安装 PHP 时，得注意两个地方:
@@ -406,7 +406,7 @@ $ sudo service php-fpm restart
 打开浏览器，输入 http://nginx的IP地址/test.php 。
 
 
-![](/Asserts/Images//attachment/album/201411/26/233416ixeaxyx4vvilyaxy.jpg)
+![](/Asserts/Images/album/201411/26/233416ixeaxyx4vvilyaxy.jpg)
 
 
 如果您能看到如上所示的页面，说明设置的 LEMP 完全成功！

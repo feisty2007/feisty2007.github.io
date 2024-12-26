@@ -15,13 +15,13 @@ tags:	[linuxcn,浏览器,Falkon]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/31/105027tblfjlzn9xx8keud.png)
+![](/Asserts/Images/album/201912/31/105027tblfjlzn9xx8keud.png)
 
 
 ### Falkon：适用于 Linux（和 Windows）的开源 Web 浏览器
 
 
-![](/Asserts/Images//attachment/album/201912/31/104800t18mzzoqwoipibgp.jpg)
+![](/Asserts/Images/album/201912/31/104800t18mzzoqwoipibgp.jpg)
 
 
 首先，[Falkon](https://www.falkon.org/) 并不是一款新的 Web 浏览器。它自 2010 年以来一直在开发中，但被称为 Qupzilla。2017 年，QupZilla 移到 KDE 旗下，并更名为 Falkon。处于 KDE 旗下意味着项目会按照 KDE 标准积极维护。
@@ -42,7 +42,7 @@ tags:	[linuxcn,浏览器,Falkon]
 #### 简单的用户界面
 
 
-![](/Asserts/Images//attachment/album/201912/31/104805t24z4wjuo42z21gr.png)
+![](/Asserts/Images/album/201912/31/104805t24z4wjuo42z21gr.png)
 
 
 我知道这不完全是一项“功能”，但是用户体验（UX）至关重要。尽管是轻量级的浏览器，但你会拥有一个不错的界面。你不会觉得使用的是一款源自 2000 年早期的浏览器。
@@ -51,7 +51,7 @@ tags:	[linuxcn,浏览器,Falkon]
 #### AdBlock 扩展
 
 
-![](/Asserts/Images//attachment/album/201912/31/104812pllzmh6hsth6s6ds.jpg)
+![](/Asserts/Images/album/201912/31/104812pllzmh6hsth6s6ds.jpg)
 
 
 它附带了 AdBlock 扩展程序，如果你想在浏览网站时摆脱广告，它的效果很好。你还可以自定义 AdBlock 扩展的行为。
@@ -66,7 +66,7 @@ tags:	[linuxcn,浏览器,Falkon]
 #### 会话管理器
 
 
-![](/Asserts/Images//attachment/album/201912/31/104812hss4c7410iqf6t6i.jpg)
+![](/Asserts/Images/album/201912/31/104812hss4c7410iqf6t6i.jpg)
 
 
 Falkon 在浏览器菜单的可用选项中包含了一个有用的会话管理器。你可以用它还原特定的近期会话，这应该能派上用场。
@@ -75,7 +75,7 @@ Falkon 在浏览器菜单的可用选项中包含了一个有用的会话管理�
 #### 扩展支持
 
 
-![](/Asserts/Images//attachment/album/201912/31/104814lyzzadpqj49hyldj.png)
+![](/Asserts/Images/album/201912/31/104814lyzzadpqj49hyldj.png)
 
 
 它确实支持添加扩展，但你不能从 Chrome/Firefox 插件市场添加扩展。你只能选择有限的一组扩展。
@@ -87,13 +87,13 @@ Falkon 在浏览器菜单的可用选项中包含了一个有用的会话管理�
 Falkon 还允许你在某种程度上自定义外观。如果要更改浏览器的外观，可以尝试一下。
 
 
-![](/Asserts/Images//attachment/album/201912/31/104816homd1ue6zoz11mm7.png)
+![](/Asserts/Images/album/201912/31/104816homd1ue6zoz11mm7.png)
 
 
 #### 其他基本设置
 
 
-![](/Asserts/Images//attachment/album/201912/31/104818t7ljpqy3fmjm7jml.png)
+![](/Asserts/Images/album/201912/31/104818t7ljpqy3fmjm7jml.png)
 
 
 我还尝试了其他设置/功能，例如添加书签或管理密码。或者，管理网页的通知。我还试了 YouTube，没有任何问题。

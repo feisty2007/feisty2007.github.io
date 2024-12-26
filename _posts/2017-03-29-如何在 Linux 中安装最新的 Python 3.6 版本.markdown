@@ -13,7 +13,7 @@ tags:	[linuxcn,Python,Python3]
 然后，我们也会阐述如何安装 Python IDLE － 一个基于 GUI 的工具，它允许我们运行 Python 代码和创建独立函数。
 
 
-![](/Asserts/Images//attachment/album/201703/19/053959s707j3taptyzea3t.jpg)
+![](/Asserts/Images/album/201703/19/053959s707j3taptyzea3t.jpg)
 
 
 ### 在 Linux 中安装 Python 3.6
@@ -73,7 +73,7 @@ tags:	[linuxcn,Python,Python3]
 上面的命令的输出应该和这相似：
 
 
-![Check Python Version in Linux](/Asserts/Images//attachment/album/201703/19/054046z2kzvkwhdxnp9b32.png)
+![Check Python Version in Linux](/Asserts/Images/album/201703/19/054046z2kzvkwhdxnp9b32.png)
 
 
 *查看 Linux 系统中的 Python 版本*

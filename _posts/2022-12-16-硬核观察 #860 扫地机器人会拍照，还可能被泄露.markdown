@@ -7,10 +7,10 @@ tags:	[linuxcn,扫地机器人,AMD,统一内核镜像]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/24/175551m0nc9wh1hc5n3zwc.jpg)
+![](/Asserts/Images/album/202212/24/175551m0nc9wh1hc5n3zwc.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/24/175600h48hanudaahtxddh.jpg)
+![](/Asserts/Images/album/202212/24/175600h48hanudaahtxddh.jpg)
 
 
 ### 扫地机器人会拍照，还可能被泄露
@@ -35,7 +35,7 @@ iRobot 公司的扫地机器人 Roomba 会使用摄像头拍摄房间照片用�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/24/175616j17h43hzwv544wq8.jpg)
+![](/Asserts/Images/album/202212/24/175616j17h43hzwv544wq8.jpg)
 
 
 ### AMD 改善了旧驱动支持新 GPU 的 Linux 体验
@@ -60,7 +60,7 @@ iRobot 公司的扫地机器人 Roomba 会使用摄像头拍摄房间照片用�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/24/175631n3o65x6fr3fx575u.jpg)
+![](/Asserts/Images/album/202212/24/175631n3o65x6fr3fx575u.jpg)
 
 
 ### Fedora 38 计划支持统一内核镜像

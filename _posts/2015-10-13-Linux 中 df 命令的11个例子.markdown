@@ -7,7 +7,7 @@ tags:	[linuxcn,df,磁盘]
 ---
 
 
-![](/Asserts/Images//attachment/album/201510/25/210056y7ssivvkvd37fx8g.jpg)
+![](/Asserts/Images/album/201510/25/210056y7ssivvkvd37fx8g.jpg)
 
 
 df 即<ruby> “可用磁盘” <rp>  （ </rp> <rt>  disk free </rt> <rp>  ） </rp></ruby>，用于显示文件系统的磁盘使用情况。默认情况下 df 命令将以每块 1K 的单位进行显示所有当前已挂载的文件系统，如果你想以人类易读的格式显示 df 命令的输出，像这样“df -h”使用 -h 选项。
@@ -28,7 +28,7 @@ df 即<ruby> “可用磁盘” <rp>  （ </rp> <rt>  disk free </rt> <rp>  ） 
 在 df 命令中可用的选项有：
 
 
-![](/Asserts/Images//attachment/album/201510/25/210104ct411sswytmnu41s.jpg)
+![](/Asserts/Images/album/201510/25/210104ct411sswytmnu41s.jpg)
 
 
 df 的样例输出 :
@@ -245,7 +245,7 @@ total                   58G  980M   54G   2% -
 假设网络文件系统也挂载在 Linux 上，但我们只想显示本地文件系统的信息，这可以通过使用 df 命令的 `-l` 选项来实现。
 
 
-![](/Asserts/Images//attachment/album/201510/25/210106gn3v55j8o3f5oicz.jpg)
+![](/Asserts/Images/album/201510/25/210106gn3v55j8o3f5oicz.jpg)
 
 
 只打印本地文件系统：
@@ -294,7 +294,7 @@ Filesystem            1K-blocks   Used Available Use% Mounted on
 ```
 [root@linux-world ~]# df -t nfs4
 Filesystem            1K-blocks      Used Available Use% Mounted on
-192.168.1.5:/opensuse 301545472 266833920  19371008  94% /Asserts/Images/
+192.168.1.5:/opensuse 301545472 266833920  19371008  94% /data
 [root@linux-world ~]#
 
 ```
@@ -318,7 +318,7 @@ tmpfs                    777928         0    777928   0% /dev/shm
 tmpfs                    777928      8540    769388   2% /run
 tmpfs                    777928         0    777928   0% /sys/fs/cgroup
 /dev/mapper/vg00-home  14987616     41000  14162232   1% /home
-192.168.1.5:/opensuse 301545472 266834944  19369984  94% /Asserts/Images/
+192.168.1.5:/opensuse 301545472 266834944  19369984  94% /data
 [root@linux-world ~]#
 
 ```

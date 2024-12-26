@@ -15,7 +15,7 @@ tags:	[linuxcn,UbuntuDDE]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/23/110222e9l7rijre98eced7.png)
+![](/Asserts/Images/album/202308/23/110222e9l7rijre98eced7.png)
 
 
 我们在 [去年](/article-15076-1.html) 介绍过 UbuntuDDE Remix，当时他们发布了一个新的 LTS 版本。现在，大约一年后，我们有了一款新的 **非 LTS 发行版**，名为 **UbuntuDDE Remix 23.04**，**它基于最近发布的 Ubuntu 23.04**。
@@ -33,7 +33,7 @@ tags:	[linuxcn,UbuntuDDE]
 ### ? UbuntuDDE Remix 23.04：都有些什么新东西？
 
 
-![](/Asserts/Images//attachment/album/202308/23/110222qhf44844k5htsnfm.jpg)
+![](/Asserts/Images/album/202308/23/110222qhf44844k5htsnfm.jpg)
 
 
 除了配备了 [Linux 内核 6.2](https://news.itsfoss.com/linux-kernel-6-2-release/)，这个版本的 UbuntuDDE Remix 提供了一些不错的改进。
@@ -50,7 +50,7 @@ tags:	[linuxcn,UbuntuDDE]
 ### 最新的深度桌面环境
 
 
-![](/Asserts/Images//attachment/album/202308/23/110223b3w96x699dp0hpfx.jpg)
+![](/Asserts/Images/album/202308/23/110223b3w96x699dp0hpfx.jpg)
 
 
 UbuntuDDE Remix 23.04 **采用了最新的深度操作系统 23 的桌面环境（2023 年 5 月更新）**，使其能够利用所有对用户界面、控制中心、设置以及你可能预期的即将发布的 [深度操作系统发行版 23](https://news.itsfoss.com/deepin-23/) 的改进。
@@ -62,7 +62,7 @@ UbuntuDDE Remix 23.04 **采用了最新的深度操作系统 23 的桌面环境�
 ### 更新的软件套件
 
 
-![](/Asserts/Images//attachment/album/202308/23/110223gvxhggsn8jffssqn.jpg)
+![](/Asserts/Images/album/202308/23/110223gvxhggsn8jffssqn.jpg)
 
 
 然后是更新的软件套件，它 **具有之前安装的，基于 DDE 的原生应用程序的升级版本**，例如：
@@ -79,7 +79,7 @@ UbuntuDDE Remix 23.04 **采用了最新的深度操作系统 23 的桌面环境�
 ### 新的壁纸
 
 
-![](/Asserts/Images//attachment/album/202308/23/110223vj8hl0xbrltssh2e.jpg)
+![](/Asserts/Images/album/202308/23/110223vj8hl0xbrltssh2e.jpg)
 
 
 最后，我们得到了来自 UbuntuDDE Remix 团队和深度操作系统的 **新壁纸和素材**。这些壁纸看起来非常不错，尤其是在使用浅色显示模式时。

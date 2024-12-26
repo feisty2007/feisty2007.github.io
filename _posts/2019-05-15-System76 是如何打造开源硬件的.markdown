@@ -15,7 +15,7 @@ tags:	[linuxcn,System76,开源硬件]
 > 
 
 
-![](/Asserts/Images//attachment/album/201905/03/140723qhk4hp4n7h4v6zhh.png)
+![](/Asserts/Images/album/201905/03/140723qhk4hp4n7h4v6zhh.png)
 
 
 大多数人对他们电脑的硬件一无所知。作为一个长期的 Linux 用户，当我想让我的无线网卡、视频卡、显示器和其他硬件与我选择的发行版共同运行时，也一样遇到了挫折。商业品牌的硬件通常使判断这些问题变得很困难：为什么以太网驱动、无线驱动或者鼠标驱动和我们预期的不太一样？随着 Linux 发行版变得成熟，这可能不再是问题，但是我们仍能发现触控板和其它外部设备的怪异行为，尤其是当我们对底层的硬件知道的不多时。
@@ -45,7 +45,7 @@ Thelio 可能是我见过的设计的最好的电脑机箱和系统。如果你�
 该主板是在 [KiCAD](http://kicad-pcb.org/) 设计的，你可以在 [GitHub](https://github.com/system76/thelio-io) 上按 GPL 许可证访问 Thelio 所有的设计文件。因此，为什么一个与其他 PC 制造商竞争的公司会设计一个独特的接口并公开授权呢？可能是该公司认识到开源设计及根据你的需要调整和分享一个 I/O 主板设计的能力的价值，即便你是市场上的竞争者。
 
 
-![在 Thelio 启动时 Don Watkins 与 System76 的 CEO Carl Richell 谈话](/Asserts/Images//attachment/album/201905/03/140738u7shdetwdoostzsp.jpg "Don Watkins speaks with System76 CEO Carl Richell at the Thelio launch event.")
+![在 Thelio 启动时 Don Watkins 与 System76 的 CEO Carl Richell 谈话](/Asserts/Images/album/201905/03/140738u7shdetwdoostzsp.jpg "Don Watkins speaks with System76 CEO Carl Richell at the Thelio launch event.")
 
 
 *在 [Thelio 发布会](https://trevgstudios.smugmug.com/System76/121418-Thelio-Press-Event/i-FKWFxFv) Don Watkins 与 System76 的 CEO Carl Richell 谈话。*

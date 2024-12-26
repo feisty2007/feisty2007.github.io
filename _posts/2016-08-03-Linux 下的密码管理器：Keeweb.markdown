@@ -7,7 +7,7 @@ tags:	[linuxcn,密码,Keeweb,Keepass]
 ---
 
 
-![](/Asserts/Images//attachment/album/201608/07/211809rczttknq3d0jzy52.png)
+![](/Asserts/Images/album/201608/07/211809rczttknq3d0jzy52.png)
 
 
 如今，我们依赖于越来越多的线上服务。我们每注册一个线上服务，就要设置一个密码；如此，我们就不得不记住数以百计的密码。这样对于每个人来说，都很容易忘记密码。我将在本文中介绍 Keeweb，它是一款 Linux 密码管理器，可以为你离线或在线地安全存储所有的密码。
@@ -25,13 +25,13 @@ Keeweb 是一款跨平台的密码管理器。它可以离线存储你所有的�
 要使用 Keeweb 连接你的线上存储服务，只需要点击界面中的“more”，然后再点击你想要使用的服务即可。
 
 
-![](/Asserts/Images//attachment/album/201608/07/211812s56mevpv4ibmz634.png)
+![](/Asserts/Images/album/201608/07/211812s56mevpv4ibmz634.png)
 
 
 现在，Keeweb 会提示你登录到你的云盘。登录成功后，给 Keeweb 授权使用你的账户。
 
 
-![](/Asserts/Images//attachment/album/201608/07/211814qccbtxbtnkbnzpkp.jpg)
+![](/Asserts/Images/album/201608/07/211814qccbtxbtnkbnzpkp.jpg)
 
 
 ### 使用 Keeweb 存储密码
@@ -49,7 +49,7 @@ Keeweb 是一款跨平台的密码管理器。它可以离线存储你所有的�
 #### 搜索密码
 
 
-![](/Asserts/Images//attachment/album/201608/07/211815scsadz2pmij1ampm.png)
+![](/Asserts/Images/album/201608/07/211815scsadz2pmij1ampm.png)
 
 
 Keeweb 拥有一个图标库，这样你就可以轻松地找到各种特定的密码记录。你可以改变图标的颜色、下载更多的图标，甚至可以直接从你的电脑中导入图标。这对于密码搜索来说，异常好使。
@@ -58,13 +58,13 @@ Keeweb 拥有一个图标库，这样你就可以轻松地找到各种特定的�
 相似的服务的密码可以分组，这样你就可以在一个文件夹里找到它们。你也可以给密码打上标签并把它们存放在不同分类中。
 
 
-![](/Asserts/Images//attachment/album/201608/07/211817c8kcp55wu1hvhv15.png)
+![](/Asserts/Images/album/201608/07/211817c8kcp55wu1hvhv15.png)
 
 
 ### 主题
 
 
-![](/Asserts/Images//attachment/album/201608/07/211818strtq8tbbq042bk0.png)
+![](/Asserts/Images/album/201608/07/211818strtq8tbbq042bk0.png)
 
 
 如果你喜欢类似于白色或者高对比度的亮色主题，你可以在“设置 > 通用 > 主题”中修改。（Keeweb）有四款可供选择的主题，其中两款为暗色，另外两款为亮色。

@@ -7,7 +7,7 @@ tags:	[linuxcn,脚本,Bash]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/28/103333wnph1p1nqkb8b3zl.jpg)
+![](/Asserts/Images/album/202202/28/103333wnph1p1nqkb8b3zl.jpg)
 
 
 欢迎来到面向初学者的 Bash Shell 脚本知识第三部分。这最后一篇文章将再来学习一些知识点，这些将使你为持续的个人发展做好准备。它将涉及到函数、用 `if`/`elif` 语句进行比较，并以研究 `while` 循环作为结尾。

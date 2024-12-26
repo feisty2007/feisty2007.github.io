@@ -16,7 +16,7 @@ tags:	[linuxcn,命令]
 需要注意一件非常重要的事：命令行界面和 Shell 是不同的，命令行界面只是为你提供一个访问 Shell 的方式。而 Shell ，它是可编程的，这使得它可以通过命令与内核进行交流。
 
 
-![](/Asserts/Images//attachment/album/201609/25/065426le7swltftftn7e0w.png)
+![](/Asserts/Images/album/201609/25/065426le7swltftftn7e0w.png)
 
 
 下面列出了 Linux 下命令的不同种类：
@@ -127,13 +127,13 @@ $ alias -p | grep 'up'
 
 ```
 
-![](/Asserts/Images//attachment/album/201609/25/065440kiadkuydu2kamq7d.png)
+![](/Asserts/Images/album/201609/25/065440kiadkuydu2kamq7d.png)
 
 
 然而，上面这些我们创建的别名只能暂时的工作，当经过下一次系统启动后它们不再工作。你可以像下面展示的这样在 '.bashrc' 文件中设置永久别名。
 
 
-![](/Asserts/Images//attachment/album/201609/25/065440z58ezkxu7xxvossv.png)
+![](/Asserts/Images/album/201609/25/065440z58ezkxu7xxvossv.png)
 
 
 添加以后，运行下面的命令来激活：
@@ -227,7 +227,7 @@ $ ./shell_functions.sh
 
 ```
 
-![](/Asserts/Images//attachment/album/201609/25/065441n8erpdzm9ipp040p.png)
+![](/Asserts/Images/album/201609/25/065441n8erpdzm9ipp040p.png)
 
 
 ### 5. Linux Shell 内置命令

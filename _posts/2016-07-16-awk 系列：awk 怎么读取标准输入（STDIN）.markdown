@@ -7,7 +7,7 @@ tags:	[linuxcn,awk]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/24/184000y6jicireooc03x05.png)
+![](/Asserts/Images/album/201607/24/184000y6jicireooc03x05.png)
 
 
 在 awk 系列的前几节，我们看到大多数操作都是从一个文件或多个文件读取输入，或者你想要把标准输入作为 awk 的输入。
@@ -25,7 +25,7 @@ tags:	[linuxcn,awk]
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/24/184001us0dp11156zamt4m.png)
+![](/Asserts/Images/album/201607/24/184001us0dp11156zamt4m.png)
 
 
 *列出当前路径下的用户文件*
@@ -40,7 +40,7 @@ tags:	[linuxcn,awk]
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/24/184001me675c4ole6mg665.png)
+![](/Asserts/Images/album/201607/24/184001me675c4ole6mg665.png)
 
 
 *列出 root 用户的文件*
@@ -63,7 +63,7 @@ tags:	[linuxcn,awk]
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/24/184002jplp88vivsz5kp7s.png)
+![](/Asserts/Images/album/201607/24/184002jplp88vivsz5kp7s.png)
 
 
 *用 Awk 比较运算符匹配字符串*

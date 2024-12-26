@@ -7,7 +7,7 @@ tags:	[linuxcn,Bash,脚本]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/23/113613l034n4fu2zt8m40q.jpg)
+![](/Asserts/Images/album/202308/23/113613l034n4fu2zt8m40q.jpg)
 
 
 
@@ -27,7 +27,7 @@ Bash 是 Linux 上众多可用的 Shell 中的一个。这些 Shell 主要的语
 当你打开一个终端或 SSH 会话时，即使你无法真切地看到它，你其实已经在运行着一个 Shell。
 
 
-![](/Asserts/Images//attachment/album/202308/23/113725wortgc6h5ccf1e4s.png)
+![](/Asserts/Images/album/202308/23/113725wortgc6h5ccf1e4s.png)
 
 
 当你输入一个命令，它会被 Shell 解释。如果命令和语法是正确的，它就会被执行，否则你会看到一个错误。
@@ -452,7 +452,7 @@ echo "The substraction of $num2 from $num1 is $sub"
 你可以执行 Shell 脚本，使用你选择的任意数字作为参数。
 
 
-![](/Asserts/Images//attachment/album/202308/23/113725b531151fr0va46dq.png)
+![](/Asserts/Images/album/202308/23/113725b531151fr0va46dq.png)
 
 
 如果你尝试除法，会出现一个大问题。Bash 只使用整数。默认情况下，它没有小数的概念。因此，你会得到 10/3 的结果为3，而不是 3.333。
@@ -581,7 +581,7 @@ ${string:$pos:$len}
 这里有一个例子：
 
 
-![](/Asserts/Images//attachment/album/202308/23/113726w0rf2l9lb38mm24t.png)
+![](/Asserts/Images/album/202308/23/113726w0rf2l9lb38mm24t.png)
 
 
 你也可以替换给定字符串的一部分：
@@ -668,7 +668,7 @@ fi
 运行它，你应该能看到这样的结果：
 
 
-![](/Asserts/Images//attachment/album/202308/23/113726q2008j8aw9tjw02n.png)
+![](/Asserts/Images/album/202308/23/113726q2008j8aw9tjw02n.png)
 
 
 `-eq` 被称为测试条件或条件操作符。有许多这样的操作符可以给你不同类型的比较：

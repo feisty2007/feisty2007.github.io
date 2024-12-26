@@ -7,7 +7,7 @@ tags:	[linuxcn,Redis,KDE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/01/132811uzmacekc3mu3caac.jpg)
+![](/Asserts/Images/album/202007/01/132811uzmacekc3mu3caac.jpg)
 
 
 #### Redis 作者辞去 Redis 项目的领导者和维护者职务

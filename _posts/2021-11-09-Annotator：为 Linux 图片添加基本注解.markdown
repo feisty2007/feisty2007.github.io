@@ -7,7 +7,7 @@ tags:	[linuxcn,注解,图片]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/01/102651ic6c6azacc8m8jxa.jpg)
+![](/Asserts/Images/album/202111/01/102651ic6c6azacc8m8jxa.jpg)
 
 
 
@@ -30,7 +30,7 @@ Annotator 是一个令人印象深刻的开源工具，可以让你能轻松完�
 ### Annotator：开源图像注解工具
 
 
-![](/Asserts/Images//attachment/album/202111/01/102658bvowiwip0yronxr8.png)
+![](/Asserts/Images/album/202111/01/102658bvowiwip0yronxr8.png)
 
 
 Annotator 帮你快速添加形状、文本和其他视觉元素。这对各种使用情况都很有用。
@@ -42,7 +42,7 @@ Annotator 帮你快速添加形状、文本和其他视觉元素。这对各种�
 ### Annotator 的功能
 
 
-![Adding icons to images](/Asserts/Images//attachment/album/202111/01/102659s99t2ic9iu87cwps.png)
+![Adding icons to images](/Asserts/Images/album/202111/01/102659s99t2ic9iu87cwps.png)
 
 
 不局限于图片增强，你还可以通过 Annotator 获得一些其他功能。其中的一些主要功能是：
@@ -62,7 +62,7 @@ Annotator 帮你快速添加形状、文本和其他视觉元素。这对各种�
 * 能够调整图像的大小和裁剪图像
 
 
-![](/Asserts/Images//attachment/album/202111/01/102659nfcszp6hgl9jqklq.png)
+![](/Asserts/Images/album/202111/01/102659nfcszp6hgl9jqklq.png)
 
 
 ### 在 Linux 中安装 Annotator

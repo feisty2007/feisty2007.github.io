@@ -13,7 +13,7 @@ tags:	[linuxcn,用户]
 作为一名 Linux 系统管理员，你有时必须向系统添加新的用户帐户。为此，经常使用 `adduser` 命令。当涉及到多个用户的创建时，`adduser` 命令可能会变得相当无聊和耗时。这篇短文旨在为 Linux 系统管理员提供一种简单而无人值守的方式来批量创建用户。`newusers` 命令将帮助你通过从预填文件中获取信息来创建多个用户。
 
 
-![](/Asserts/Images//attachment/album/201702/14/225512ttvvvxslx5ze9ix9.jpg)
+![](/Asserts/Images/album/201702/14/225512ttvvvxslx5ze9ix9.jpg)
 
 
 **要求**
@@ -80,7 +80,7 @@ Username:Password:User ID:Group ID:User Info:Home Directory:Default Shell
 
 ```
 
-![using newusers for bulk user creation](/Asserts/Images//attachment/album/201702/14/225534xxrlzr7dlt74w8lj.png)
+![using newusers for bulk user creation](/Asserts/Images/album/201702/14/225534xxrlzr7dlt74w8lj.png)
 
 
 

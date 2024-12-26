@@ -15,7 +15,7 @@ tags:	[linuxcn,音视频,转换]
 > 
 
 
-![](/Asserts/Images//attachment/album/201808/30/224953v2r22dzmc95y2oo1.png)
+![](/Asserts/Images/album/201808/30/224953v2r22dzmc95y2oo1.png)
 
 
 啊，有这么多的文件格式，特别是音频和视频格式，如果你不认识这个文件扩展名或者你的播放器无法播放那个格式，或者你想使用一种开放格式，那就需要花点心思了。
@@ -27,7 +27,7 @@ tags:	[linuxcn,音视频,转换]
 ### Gnac
 
 
-![](/Asserts/Images//attachment/album/201808/30/224955p3ik8t587qt5io3c.png)
+![](/Asserts/Images/album/201808/30/224955p3ik8t587qt5io3c.png)
 
 
 [Gnac](http://gnac.sourceforge.net) 是我最喜欢的音频转换器之一，已经存在很多年了。它易于使用，功能强大，并且它做得很好 —— 任何一流的程序都应该如此。
@@ -42,7 +42,7 @@ tags:	[linuxcn,音视频,转换]
 ### SoundConverter
 
 
-![](/Asserts/Images//attachment/album/201808/30/224959ybnlp407solznq6g.png)
+![](/Asserts/Images/album/201808/30/224959ybnlp407solznq6g.png)
 
 
 如果在简单的同时你还要一些额外的功能，那么请看一下 [SoundConverter](http://soundconverter.org/)。正如其名称所述，SoundConverter 仅对音频文件起作用。与 Gnac 一样，它可以读取 GStreamer 支持的格式，它可以输出 Ogg Vorbis、MP3、FLAC、WAV、AAC 和 Opus 文件。
@@ -57,7 +57,7 @@ SoundConverter 有设置转换文件质量的选项。你可以更改文件的�
 ### WinFF
 
 
-![](/Asserts/Images//attachment/album/201808/30/225008n5uueqvce6gp5c5g.png)
+![](/Asserts/Images/album/201808/30/225008n5uueqvce6gp5c5g.png)
 
 
 [WinFF](https://www.biggmatt.com/winff/) 本身并不是转换器。它是 FFmpeg 的图形化前端，[Tim Nugent 为此](https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats) 在 Opensource.com 写了篇文章。虽然 WinFF 没有 FFmpeg 的所有灵活性，但它使 FFmpeg 更易于使用，并且可以快速，轻松地完成工作。
@@ -72,7 +72,7 @@ SoundConverter 有设置转换文件质量的选项。你可以更改文件的�
 ### Miro Video Converter
 
 
-![](/Asserts/Images//attachment/album/201808/30/225010lmmvd8qd6fs6yvyl.png)
+![](/Asserts/Images/album/201808/30/225010lmmvd8qd6fs6yvyl.png)
 
 
 并非所有视频文件都是同样创建的。有些是专有格式。有的在显示器或电视屏幕上看起来很棒但是没有针对移动设备进行优化。这就是 [Miro Video Converter](http://www.mirovideoconverter.com/) 可以用的地方。

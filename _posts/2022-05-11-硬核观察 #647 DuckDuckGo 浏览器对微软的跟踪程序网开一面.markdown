@@ -7,10 +7,10 @@ tags:	[linuxcn,DuckDuckGo,Copilot,深度伪造]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/25/175257nc9zklklqm9fl2w4.jpg)
+![](/Asserts/Images/album/202205/25/175257nc9zklklqm9fl2w4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/25/175314y1vf7tyf8fdptuj7.jpg)
+![](/Asserts/Images/album/202205/25/175314y1vf7tyf8fdptuj7.jpg)
 
 
 ### DuckDuckGo 浏览器对微软的跟踪程序网开一面
@@ -35,7 +35,7 @@ DuckDuckGo 的搜索主要是基于微软的必应搜索。最近，研究人员
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/25/175324h7uldqqmb1nluzdz.jpg)
+![](/Asserts/Images/album/202205/25/175324h7uldqqmb1nluzdz.jpg)
 
 
 ### GitHub Copilot 将对学生免费开放
@@ -60,7 +60,7 @@ DuckDuckGo 的搜索主要是基于微软的必应搜索。最近，研究人员
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/25/175347z6sh23tsbi4gctth.jpg)
+![](/Asserts/Images/album/202205/25/175347z6sh23tsbi4gctth.jpg)
 
 
 ### 荷兰警方制作被害男孩的深度伪造视频，希望获得新线索

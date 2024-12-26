@@ -7,7 +7,7 @@ tags:	[linuxcn,iSCSI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202011/14/001530vgyym7779ys09y7m.jpg)
+![](/Asserts/Images/album/202011/14/001530vgyym7779ys09y7m.jpg)
 
 
 当 Linux 系统连接到 SAN（存储区域网络）后，你需要重新扫描 iSCSI 服务以发现新的 LUN。

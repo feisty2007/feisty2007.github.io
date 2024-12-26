@@ -10,10 +10,10 @@ tags:	[linuxcn,elementary OS,Freya]
 经过一年半开发，稳定版 elementary OS Freya 于4月11号正式发布了！elementary OS 采用 Ubuntu LTS 长期支持版本，Freya 采用的就是 Ubuntu 14.04 LTS；而它的上一个正式版本 Luna ，发布于2013年的8月，采用的则是 Ubuntu 12.04 LTS。
 
 
-![](/Asserts/Images//attachment/album/201504/14/143021bioiemik9vcetlvz.jpg)
+![](/Asserts/Images/album/201504/14/143021bioiemik9vcetlvz.jpg)
 
 
-![](/Asserts/Images//attachment/album/201504/14/143024e4htt0trzrc7s0pk.jpg)
+![](/Asserts/Images/album/201504/14/143024e4htt0trzrc7s0pk.jpg)
 
 
 新版本 Freya 拥有超过1100个 bug 修复和新特性，我摘出了一些简单翻译如下：
@@ -56,7 +56,7 @@ tags:	[linuxcn,elementary OS,Freya]
 下面是转自softpedia的多图预览，大家先尝尝鲜！这两天我再抽空亲自做一个中文版体验。
 
 
-![](/Asserts/Images//attachment/album/201504/14/143020ftqsnls87z7xhsce.jpg)![](/Asserts/Images//attachment/album/201504/14/143021mz1uj1jpup495fp5.jpg)![](/Asserts/Images//attachment/album/201504/14/143022ytz1719abtkgf1d5.jpg)![](/Asserts/Images//attachment/album/201504/14/143023mbae2ttfbe2bhehc.jpg)![](/Asserts/Images//attachment/album/201504/14/143023xei66wz72ng93in6.jpg)![](/Asserts/Images//attachment/album/201504/14/143024or1rkurrrsr558kk.jpg)![](/Asserts/Images//attachment/album/201504/14/143024qb6894b6zfscamt4.jpg)![](/Asserts/Images//attachment/album/201504/14/143025v2g702nfsa7g2b7c.jpg)![](/Asserts/Images//attachment/album/201504/14/143026oqhhzpjl9ezzquuo.jpg)![](/Asserts/Images//attachment/album/201504/14/143026nspz5b7f5s5o5k2q.jpg)![](/Asserts/Images//attachment/album/201504/14/143027woi22th2mbm7pm20.jpg)
+![](/Asserts/Images/album/201504/14/143020ftqsnls87z7xhsce.jpg)![](/Asserts/Images/album/201504/14/143021mz1uj1jpup495fp5.jpg)![](/Asserts/Images/album/201504/14/143022ytz1719abtkgf1d5.jpg)![](/Asserts/Images/album/201504/14/143023mbae2ttfbe2bhehc.jpg)![](/Asserts/Images/album/201504/14/143023xei66wz72ng93in6.jpg)![](/Asserts/Images/album/201504/14/143024or1rkurrrsr558kk.jpg)![](/Asserts/Images/album/201504/14/143024qb6894b6zfscamt4.jpg)![](/Asserts/Images/album/201504/14/143025v2g702nfsa7g2b7c.jpg)![](/Asserts/Images/album/201504/14/143026oqhhzpjl9ezzquuo.jpg)![](/Asserts/Images/album/201504/14/143026nspz5b7f5s5o5k2q.jpg)![](/Asserts/Images/album/201504/14/143027woi22th2mbm7pm20.jpg)
 
 
-![](/Asserts/Images//attachment/album/201504/14/143027kwwexndwwgnlwow9.jpg)![](/Asserts/Images//attachment/album/201504/14/143028wpef7thq718o5vsv.jpg)![](/Asserts/Images//attachment/album/201504/14/143029e2u4luflhzfh9fg5.jpg)![](/Asserts/Images//attachment/album/201504/14/143029bcm70mrhhm8pzvr8.jpg)![](/Asserts/Images//attachment/album/201504/14/143030m29b9sy9w39so8cd.jpg)![](/Asserts/Images//attachment/album/201504/14/143030n5cc4zogbozkk66z.jpg)![](/Asserts/Images//attachment/album/201504/14/143032l9d9yyyfoe88f87o.jpg)
+![](/Asserts/Images/album/201504/14/143027kwwexndwwgnlwow9.jpg)![](/Asserts/Images/album/201504/14/143028wpef7thq718o5vsv.jpg)![](/Asserts/Images/album/201504/14/143029e2u4luflhzfh9fg5.jpg)![](/Asserts/Images/album/201504/14/143029bcm70mrhhm8pzvr8.jpg)![](/Asserts/Images/album/201504/14/143030m29b9sy9w39so8cd.jpg)![](/Asserts/Images/album/201504/14/143030n5cc4zogbozkk66z.jpg)![](/Asserts/Images/album/201504/14/143032l9d9yyyfoe88f87o.jpg)

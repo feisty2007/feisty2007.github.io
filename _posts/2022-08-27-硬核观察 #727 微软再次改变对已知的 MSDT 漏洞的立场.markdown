@@ -7,10 +7,10 @@ tags:	[linuxcn,微软,无人驾驶,CPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/13/211418cukaa0e0v0akvfks.jpg)
+![](/Asserts/Images/album/202208/13/211418cukaa0e0v0akvfks.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/13/211431vuqij9y99d529tuw.png)
+![](/Asserts/Images/album/202208/13/211431vuqij9y99d529tuw.png)
 
 
 ### 微软再次改变对已知的 MSDT 漏洞的立场
@@ -35,7 +35,7 @@ tags:	[linuxcn,微软,无人驾驶,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/13/211443maoi05jjemp7uppf.jpg)
+![](/Asserts/Images/album/202208/13/211443maoi05jjemp7uppf.jpg)
 
 
 ### 百度获得中国首批完全无人驾驶出租车的服务许可证
@@ -60,7 +60,7 @@ tags:	[linuxcn,微软,无人驾驶,CPU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/13/211500no53dv3sdzh3vwvm.jpg)
+![](/Asserts/Images/album/202208/13/211500no53dv3sdzh3vwvm.jpg)
 
 
 ### 英特尔 x86 CPU 份额跌破七成

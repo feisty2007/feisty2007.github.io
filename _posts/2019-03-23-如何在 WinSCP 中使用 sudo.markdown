@@ -15,7 +15,7 @@ tags:	[linuxcn,sudo,WinSCP]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/13/115351nqxhm7qzq9zjecbv.png)
+![](/Asserts/Images/album/201903/13/115351nqxhm7qzq9zjecbv.png)
 
 
 首先你需要检查你尝试使用 WinSCP 连接的 sftp 服务器的二进制文件的位置。
@@ -36,7 +36,7 @@ Subsystem sftp  /usr/libexec/openssh/sftp-server
 打开 WinSCP 并单击“高级”按钮打开高级设置。
 
 
-![winSCP advance settings](/Asserts/Images//attachment/album/201903/13/115407mke8dkgizngtrd6h.jpg)
+![winSCP advance settings](/Asserts/Images/album/201903/13/115407mke8dkgizngtrd6h.jpg)
 
 
 *WinSCP 高级设置*
@@ -48,7 +48,7 @@ Subsystem sftp  /usr/libexec/openssh/sftp-server
 现在，使用命令 `sudo su -c` 在这里添加 SFTP 服务器值，如下截图所示：
 
 
-![SFTP server setting in winSCP](/Asserts/Images//attachment/album/201903/13/115409bw7tzrsvjl9s0spz.jpg)
+![SFTP server setting in winSCP](/Asserts/Images/album/201903/13/115409bw7tzrsvjl9s0spz.jpg)
 
 
 *WinSCP 中的 SFTP 服务器设置*

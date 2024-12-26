@@ -7,7 +7,7 @@ tags:	[linuxcn,TensorFlow]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/11/231211xv52948zv3sf242f.png)
+![](/Asserts/Images/album/201802/11/231211xv52948zv3sf242f.png)
 
 
 在本文中，我们将看一些 TensorFlow 的例子，并从中感受到在定义<ruby> 张量 <rt>  tensor </rt></ruby>和使用张量做数学计算方面有多么容易，我还会举些别的机器学习相关的例子。

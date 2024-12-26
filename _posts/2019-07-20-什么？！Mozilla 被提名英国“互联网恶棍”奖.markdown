@@ -16,7 +16,7 @@ Mozilla Firefox 是目前最流行的浏览器之一。很多用户喜欢它胜�
 英国<ruby> 互联网服务提供商行业协会 <rt>  Internet Services Providers Association </rt></ruby>（ISPA）决定将 Mozilla 列入 2019 年“互联网恶棍”奖的最终入围者名单。该奖项将在 ISPA 于 7 月 11 日在伦敦举行的颁奖典礼上进行颁发。
 
 
-![](/Asserts/Images//attachment/album/201907/07/103915xb8uulstexef6ixj.jpg)
+![](/Asserts/Images/album/201907/07/103915xb8uulstexef6ixj.jpg)
 
 
 ### 为什么说 “Mozilla” 是 “互联网恶棍”？
@@ -36,7 +36,7 @@ ISPA 在他们的声明中表示，Mozilla 因为支持了 DoH（DNS-over-HTTPS�
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/07/103959qeetlpk88trrt32n.jpg)
+![](/Asserts/Images/album/201907/07/103959qeetlpk88trrt32n.jpg)
 
 
 和 Mozilla 一同被列入最终入围者名单的还有欧盟《版权法第 13 条》和美国总统特朗普。ISPA 在他们的声明里是这样解释的：

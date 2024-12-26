@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201509/09/093228nednujuuv949uiur.png)
+![](/Asserts/Images/album/201509/09/093228nednujuuv949uiur.png)
 
 
 **Linux 4.2 内核涉及到史上最多的贡献者数量，内核开发者 Jonathan Corbet 如是说。**

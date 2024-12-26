@@ -7,7 +7,7 @@ tags:	[linuxcn,stat]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/21/223030wi3xfx2eprij13z2.jpg)
+![](/Asserts/Images/album/202009/21/223030wi3xfx2eprij13z2.jpg)
 
 
 `stat` 命令提供了很多关于文件的详细信息。

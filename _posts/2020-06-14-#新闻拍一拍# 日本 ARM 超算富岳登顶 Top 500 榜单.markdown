@@ -7,7 +7,7 @@ tags:	[linuxcn,超算,苹果,ARM,WebP,量子]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/23/160031fvo2ajsdlocdojlf.jpg)
+![](/Asserts/Images/album/202006/23/160031fvo2ajsdlocdojlf.jpg)
 
 
 #### 日本 ARM 超算富岳登顶 Top 500 榜单

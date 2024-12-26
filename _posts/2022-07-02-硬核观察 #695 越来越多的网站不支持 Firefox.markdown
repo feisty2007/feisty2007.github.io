@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,量子计算,汽车]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/12/202507enawybvwe5jeemq8.jpg)
+![](/Asserts/Images/album/202207/12/202507enawybvwe5jeemq8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/12/202518jma8z85hasm88i1f.jpg)
+![](/Asserts/Images/album/202207/12/202518jma8z85hasm88i1f.jpg)
 
 
 ### 越来越多的网站不支持 Firefox
@@ -35,7 +35,7 @@ tags:	[linuxcn,Firefox,量子计算,汽车]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/12/202529lvzs50cmljsdzvss.jpg)
+![](/Asserts/Images/album/202207/12/202529lvzs50cmljsdzvss.jpg)
 
 
 ### 科学家找到了一类量子算法可以解决的新问题
@@ -60,7 +60,7 @@ tags:	[linuxcn,Firefox,量子计算,汽车]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/12/202542n9tfkj8b6unfwnnu.jpg)
+![](/Asserts/Images/album/202207/12/202542n9tfkj8b6unfwnnu.jpg)
 
 
 ### 过去十年的本田车型都可能受到网络攻击

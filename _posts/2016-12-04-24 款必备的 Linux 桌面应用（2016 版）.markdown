@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,软件,桌面]
 ---
 
 
-![](/Asserts/Images//attachment/album/201612/21/084303w6t9bnbxyh5h9cxx.jpg)
+![](/Asserts/Images/album/201612/21/084303w6t9bnbxyh5h9cxx.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,Linux,软件,桌面]
 ### Web浏览器
 
 
-![](/Asserts/Images//attachment/album/201612/21/084321e3q4v3544jqa2v5j.jpg)
+![](/Asserts/Images/album/201612/21/084321e3q4v3544jqa2v5j.jpg)
 
 
 *Web 浏览器*
@@ -63,7 +63,7 @@ Google Chrome 是一个功能完备、性能强悍的 web 浏览器。它具备�
 ### 下载管理器
 
 
-![](/Asserts/Images//attachment/album/201612/21/084338ubwhepp9pjzakkps.jpg)
+![](/Asserts/Images/album/201612/21/084338ubwhepp9pjzakkps.jpg)
 
 
 *下载管理器*
@@ -87,7 +87,7 @@ Xdm (Xtreme Download Manager，极限下载管理器) 是一款用 Java 开发�
 ### BitTorrent 客户端
 
 
-![](/Asserts/Images//attachment/album/201612/21/084352grx8xngyynx8ycxh.jpg)
+![](/Asserts/Images/album/201612/21/084352grx8xngyynx8ycxh.jpg)
 
 
 *BitTorrent 客户端*
@@ -111,7 +111,7 @@ Transmission 是最轻量级的 Bittorrent 客户端——开源、有着最轻�
 ### 云存储
 
 
-![](/Asserts/Images//attachment/album/201612/21/084409uhkxxxzispmfb3ii.jpg)
+![](/Asserts/Images/album/201612/21/084409uhkxxxzispmfb3ii.jpg)
 
 
 *云存储*
@@ -135,7 +135,7 @@ Mega 提供了 50 GB 的免费空间，但其最好的一点却非免费空间�
 ### 即时消息软件
 
 
-![](/Asserts/Images//attachment/album/201612/21/084429kfa6zntti8qliqpk.jpg)
+![](/Asserts/Images/album/201612/21/084429kfa6zntti8qliqpk.jpg)
 
 
 *即时消息软件*
@@ -159,7 +159,7 @@ Pidgin 是一个开源的即时消息客户端，支持多个聊天平台，包�
 ### 办公套件
 
 
-![](/Asserts/Images//attachment/album/201612/21/084446grb1p6vfxzwv3y2n.jpg)
+![](/Asserts/Images/album/201612/21/084446grb1p6vfxzwv3y2n.jpg)
 
 
 *办公套件*
@@ -183,7 +183,7 @@ LibreOffice 是 Linux 平台下开发活跃度最高的开源办公套件。它�
 ### 音乐播放器
 
 
-![](/Asserts/Images//attachment/album/201612/21/084507vwwq66729fz270by.jpg)
+![](/Asserts/Images/album/201612/21/084507vwwq66729fz270by.jpg)
 
 
 *音乐播放器*
@@ -213,7 +213,7 @@ Rhythmbox 最初是为 Gnome 开发的音乐播放器，但现在已经可以很
 ### 视频播放器
 
 
-![](/Asserts/Images//attachment/album/201612/21/084524p2kr633xjkvxx7d2.jpg)
+![](/Asserts/Images/album/201612/21/084524p2kr633xjkvxx7d2.jpg)
 
 
 *视频播放器*
@@ -237,7 +237,7 @@ Kodi 是一个功能完备的媒体播放器，开源并流行于其用户群体
 ### 图像编辑器
 
 
-![](/Asserts/Images//attachment/album/201612/21/084544nsj0yzykkn48ms55.jpg)
+![](/Asserts/Images/album/201612/21/084544nsj0yzykkn48ms55.jpg)
 
 
 *图像编辑器*
@@ -264,7 +264,7 @@ Krita 主要是一个绘图工具，但也可以用来编辑图像。它同样�
 每个 Linux 发行版都会自带一个文本编辑器。通常，它的功能相对来说比较简单，没有太多的功能，但还是有一些具有增强功能的编辑器。
 
 
-![](/Asserts/Images//attachment/album/201612/21/084609r4r19o9f3tr33tx4.jpg)
+![](/Asserts/Images/album/201612/21/084609r4r19o9f3tr33tx4.jpg)
 
 
 *文本编辑器*
@@ -288,7 +288,7 @@ Sublime Text 是主流的文本编辑器之一。尽管它并不免费，但它�
 ### <ruby> 启动器 <rp>  （ </rp> <rt>  Launcher </rt> <rp>  ） </rp></ruby>
 
 
-![](/Asserts/Images//attachment/album/201612/21/084632ev72k274ehhoavpv.jpg)
+![](/Asserts/Images/album/201612/21/084632ev72k274ehhoavpv.jpg)
 
 
 *启动器 (Launcher)*

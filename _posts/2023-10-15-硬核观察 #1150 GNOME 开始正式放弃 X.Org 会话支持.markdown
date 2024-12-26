@@ -7,10 +7,10 @@ tags:	[linuxcn,X11,网络安全,LXD]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/10/163917x5avjnn2g252jy7s.jpg)
+![](/Asserts/Images/album/202310/10/163917x5avjnn2g252jy7s.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/10/163931vkeyth0x6c3q2txy.jpg)
+![](/Asserts/Images/album/202310/10/163931vkeyth0x6c3q2txy.jpg)
 
 
 ### GNOME 开始正式放弃 X11 会话支持
@@ -35,7 +35,7 @@ tags:	[linuxcn,X11,网络安全,LXD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/10/163942niegco4rnjmo5ar5.jpg)
+![](/Asserts/Images/album/202310/10/163942niegco4rnjmo5ar5.jpg)
 
 
 ### “Admin123” 是最大的网络安全错误配置漏洞
@@ -60,7 +60,7 @@ tags:	[linuxcn,X11,网络安全,LXD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/10/164013iobyyfrsno44kfkb.jpg)
+![](/Asserts/Images/album/202310/10/164013iobyyfrsno44kfkb.jpg)
 
 
 ### LXC 发布 LXD 的社区分支 Incus 0.1

@@ -7,7 +7,7 @@ tags:	[linuxcn,yum,repoquery]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/08/190233wb83b9tmmqluulzu.jpg)
+![](/Asserts/Images/album/201801/08/190233wb83b9tmmqluulzu.jpg)
 
 
 **我已经在 CentOS/RHEL 上[安装了 htop](https://www.cyberciti.biz/faq/centos-redhat-linux-install-htop-command-using-yum/) 。现在想知道软件被安装在哪个位置。有没有简单的方法能找到 yum 软件包安装的目录呢？**
@@ -160,7 +160,7 @@ Complete!
 示例输出：
 
 
-[![yum where is package installed](/Asserts/Images//attachment/album/201801/08/190249i3go0mog3uminfuq.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/yum-where-is-package-installed.jpg)
+[![yum where is package installed](/Asserts/Images/album/201801/08/190249i3go0mog3uminfuq.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/yum-where-is-package-installed.jpg)
 
 
 *使用 repoquery 命令确定 yum 包安装的路径*

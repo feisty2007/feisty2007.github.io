@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/28/123643m3x536ztt153g0tk.jpg)
+![](/Asserts/Images/album/201707/28/123643m3x536ztt153g0tk.jpg)
 
 
 ### 欢迎来到 Linux 天气预报

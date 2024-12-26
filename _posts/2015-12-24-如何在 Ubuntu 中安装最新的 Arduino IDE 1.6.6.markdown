@@ -7,7 +7,7 @@ tags:	[linuxcn,Arduino IDE]
 ---
 
 
-![Install latest Arduino in Ubuntu](/Asserts/Images//attachment/album/201512/23/083703fk8c02ujz74rqq30.png)
+![Install latest Arduino in Ubuntu](/Asserts/Images/album/201512/23/083703fk8c02ujz74rqq30.png)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,Arduino IDE]
 开源的 Arduino IDE 发布了1.6.6，并带来了很多的改变。新的发布已经切换到 Java 8，它与 IDE 绑定并且用于编译所需。具体见 [发布说明](https://www.arduino.cc/en/Main/ReleaseNotes)。
 
 
-![Arduino 1.6.6 in Ubuntu 15.10](/Asserts/Images//attachment/album/201512/23/083704utct2u3ljn7g29hx.jpg)
+![Arduino 1.6.6 in Ubuntu 15.10](/Asserts/Images/album/201512/23/083704utct2u3ljn7g29hx.jpg)
 
 
 对于那些不想使用软件中心的 1.0.5 旧版本的人而言，你可以使用下面的步骤在所有的 Ubuntu 发行版中安装 Arduino。
@@ -56,7 +56,7 @@ cd ~/Downloads
 
 ```
 
-![navigate-downloads](/Asserts/Images//attachment/album/201512/23/083704bxw6fxl2ff22d68k.jpg)
+![navigate-downloads](/Asserts/Images/album/201512/23/083704bxw6fxl2ff22d68k.jpg)
 
 
 使用 tar 命令解压：
@@ -68,7 +68,7 @@ tar -xvf arduino-1.6.6-*.tar.xz
 
 ```
 
-![extract-archive](/Asserts/Images//attachment/album/201512/23/083704hxo781oay7ytztyz.jpg)
+![extract-archive](/Asserts/Images/album/201512/23/083704hxo781oay7ytztyz.jpg)
 
 
 将解压后的文件移动到**/opt/**下：
@@ -80,7 +80,7 @@ sudo mv arduino-1.6.6 /opt
 
 ```
 
-![move-opt](/Asserts/Images//attachment/album/201512/23/083705hypxpj1tjwzbj18b.jpg)
+![move-opt](/Asserts/Images/album/201512/23/083705hypxpj1tjwzbj18b.jpg)
 
 
 **3、** 现在 IDE 已经与最新的 Java 绑定使用了。但是最好为程序设置一个桌面图标/启动方式：
@@ -116,7 +116,7 @@ chmod +x install.sh
 下图中我用“&&”同时运行这三个命令：
 
 
-![install-desktop-icon](/Asserts/Images//attachment/album/201512/23/083705xzi00mb5nxh087pk.jpg)
+![install-desktop-icon](/Asserts/Images/album/201512/23/083705xzi00mb5nxh087pk.jpg)
 
 
 最后从 Unity Dash、程序启动器或者桌面快捷方式运行 Arduino IDE。

@@ -7,10 +7,10 @@ tags:	[linuxcn,JPEG,游戏,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/19/200533rme01teuz5ggtmg5.jpg)
+![](/Asserts/Images/album/202202/19/200533rme01teuz5ggtmg5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/19/200546hvwvn3inkny4kky4.jpg)
+![](/Asserts/Images/album/202202/19/200546hvwvn3inkny4kky4.jpg)
 
 
 ### 微软新专利威胁到下一代 JPEG 格式
@@ -27,7 +27,7 @@ tags:	[linuxcn,JPEG,游戏,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/19/200555jnqtq7fxr77n9gfs.jpg)
+![](/Asserts/Images/album/202202/19/200555jnqtq7fxr77n9gfs.jpg)
 
 
 ### Steam Deck 正在测试对原生 Linux 游戏的支持
@@ -44,7 +44,7 @@ Steam Deck 是基于 Linux 的，其 Proton 兼容层可以让目前仅支持 Wi
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/19/200619egkl4dffdjwcoild.jpg)
+![](/Asserts/Images/album/202202/19/200619egkl4dffdjwcoild.jpg)
 
 
 ### Project Zero 称 Linux 平台较竞争对手更安全

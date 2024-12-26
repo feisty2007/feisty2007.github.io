@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,K8S]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/28/065439yadbvnowe5wdxrew.png)
+![](/Asserts/Images/album/201804/28/065439yadbvnowe5wdxrew.png)
 
 
 这是我以前的 [10 分钟内配置 Kubernetes](https://www.youtube.com/watch?v=6xJwQgDnMFE) 教程的精简版和更新版。我删除了一些我认为可以去掉的内容，所以，这个指南仍然是通顺的。当你想在云上创建一个集群或者尽可能快地构建基础设施时，你可能会用到它。

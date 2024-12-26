@@ -7,7 +7,7 @@ tags:	[linuxcn,Anaconda,Emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/10/114348i1yyeykya3kyl3kj.jpg)
+![](/Asserts/Images/album/201903/10/114348i1yyeykya3kyl3kj.jpg)
 
 
 也许我所追求的究极 IDE 就是 [Emacs](https://www.gnu.org/software/emacs/) 了。我的目标是使 Emacs 成为一款全能的 Python IDE。本文描述了如何在 Emacs 上配置 Anaconda。（LCTT 译注：Anaconda 自称“世界上最流行的 Python/R 的数据分析平台”）

@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,加密货币,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/11/180159funiuu8vuzuixbb8.jpg)
+![](/Asserts/Images/album/202201/11/180159funiuu8vuzuixbb8.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/11/180216qav1lqqv0qwg0vws.jpg)
+![](/Asserts/Images/album/202201/11/180216qav1lqqv0qwg0vws.jpg)
 
 
 ### Linux Mint 与 Mozilla 达成交易
@@ -27,7 +27,7 @@ Linux Mint 发行版与 Mozilla [达成了](https://blog.linuxmint.com/?p=4244) 
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/11/180226ud3u73hod84szh4o.jpg)
+![](/Asserts/Images/album/202201/11/180226ud3u73hod84szh4o.jpg)
 
 
 ### 又一个 5 亿用户的安全软件也加入了加密货币挖矿程序
@@ -44,7 +44,7 @@ Linux Mint 发行版与 Mozilla [达成了](https://blog.linuxmint.com/?p=4244) 
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/11/180242ybzga08bg55bga8g.jpg)
+![](/Asserts/Images/album/202201/11/180242ybzga08bg55bga8g.jpg)
 
 
 ### LibreOffice 7.3 将引入对《星际迷航》克林贡语的支持

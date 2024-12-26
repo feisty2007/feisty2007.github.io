@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,Bash]
 > 
 
 
-![](/Asserts/Images//attachment/album/201904/15/105503medoy8r4b5rzxic8.jpg)
+![](/Asserts/Images/album/201904/15/105503medoy8r4b5rzxic8.jpg)
 
 
 [Bash](/article/18/7/admin-guide-bash) 和 [Python](/article/17/11/5-approaches-learning-python) 是大多数自动化工程师最喜欢的编程语言。它们都各有优缺点，有时很难选择应该使用哪一个。所以，最诚实的答案是：这取决于任务、范围、背景和任务的复杂性。

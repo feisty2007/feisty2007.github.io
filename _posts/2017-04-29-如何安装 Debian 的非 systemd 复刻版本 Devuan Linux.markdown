@@ -16,7 +16,7 @@ Devuan 宣布于 2014 年底，并经过了一段活跃的开发。最新的发�
 当前稳定版的最后发行据说会在 2017 年初。如果想了解关于该项目的更多信息，请访问社区官网：<https://devuan.org/> 。
 
 
-![](/Asserts/Images//attachment/album/201704/09/090655z3lmzmf4qvb2ll66.jpg)
+![](/Asserts/Images/album/201704/09/090655z3lmzmf4qvb2ll66.jpg)
 
 
 本文将阐述 Devuan 当前发行版的安装。在 Debian 上可用的大多数软件包在 Devuan 上也是可用的，这有利于用户从 Debian 到 Devuan 的无缝过渡，他们应该更喜欢自由选择自己的初始化系统。
@@ -68,7 +68,7 @@ $ lsblk
 
 ```
 
-![Find Device Name in Linux](/Asserts/Images//attachment/album/201704/09/090703zy4ww0lgkwj7sguw.png)
+![Find Device Name in Linux](/Asserts/Images/album/201704/09/090703zy4ww0lgkwj7sguw.png)
 
 
 *找到 Linux 中的设备名字*
@@ -95,7 +95,7 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 在这篇指南中，我将使用 “Graphical Install” 方式。
 
 
-![Devuan Graphic Installation](/Asserts/Images//attachment/album/201704/09/090704gqtieq3d1tdf41yy.png)
+![Devuan Graphic Installation](/Asserts/Images/album/201704/09/090704gqtieq3d1tdf41yy.png)
 
 
 *Devuan Graphic 安装*
@@ -104,19 +104,19 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 4、当安装程序启动到“本地化”菜单以后，将会提示用户选择键盘布局和语言。只需选择你想要的选项，然后继续安装。
 
 
-![Devuan Language Selection](/Asserts/Images//attachment/album/201704/09/090704v35tt3cw8iwcaqa7.png)
+![Devuan Language Selection](/Asserts/Images/album/201704/09/090704v35tt3cw8iwcaqa7.png)
 
 
 *Devuan 语言选择*
 
 
-![Devuan Location Selection](/Asserts/Images//attachment/album/201704/09/090705f8trq8jmgmg08mtj.png)
+![Devuan Location Selection](/Asserts/Images/album/201704/09/090705f8trq8jmgmg08mtj.png)
 
 
 *Devuan 地区选择*
 
 
-![Devuan Keyboard Configuration](/Asserts/Images//attachment/album/201704/09/090705q42089tlm7bnnllb.png)
+![Devuan Keyboard Configuration](/Asserts/Images/album/201704/09/090705q42089tlm7bnnllb.png)
 
 
 *Devuan 键盘配置*
@@ -128,13 +128,13 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 需要填写一个唯一的主机名，但如果电脑不属于任何域，那么域名可以不填。
 
 
-![Set Devuan Linux Hostname](/Asserts/Images//attachment/album/201704/09/090706wf00lqxshczqjrs1.png)
+![Set Devuan Linux Hostname](/Asserts/Images/album/201704/09/090706wf00lqxshczqjrs1.png)
 
 
 *设置 Devuan Linux 的主机名*
 
 
-![Set Devuan Linux Domain Name](/Asserts/Images//attachment/album/201704/09/090706b58koor3o55wepoo.png)
+![Set Devuan Linux Domain Name](/Asserts/Images/album/201704/09/090706b58koor3o55wepoo.png)
 
 
 *设置 Devuan Linux 的域名*
@@ -146,7 +146,7 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 请务必记住这个密码，因为当你在这台 Devuan 机器上执行管理任务时需要提供这个密码。默认情况下， Devuan 不会安装 sudo 包，所以当安装完成以后，管理用户就是 root 用户。
 
 
-![Setup Devuan Linux Root User](/Asserts/Images//attachment/album/201704/09/090707aq6l26n4vk4j55kj.png)
+![Setup Devuan Linux Root User](/Asserts/Images/album/201704/09/090707aq6l26n4vk4j55kj.png)
 
 
 *设置 Devuan Linux Root 用户*
@@ -155,7 +155,7 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 7、下一步需要做的事情是创建一个非 root 用户。在任何可能的情况下，避免以 root 用户使用系统总是更好的。此时，安装程序将会提示你创建一个非 root 用户。
 
 
-![Setup Devuan Linux User Account](/Asserts/Images//attachment/album/201704/09/090707kalnvxhn4y4a1au1.png)
+![Setup Devuan Linux User Account](/Asserts/Images/album/201704/09/090707kalnvxhn4y4a1au1.png)
 
 
 *创建 Devuan Linux 用户账户*
@@ -167,7 +167,7 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 这时需要再次连接网络，大多数系统都需要这样。
 
 
-![Devuan Linux Timezone Setup](/Asserts/Images//attachment/album/201704/09/090707ivl9dhn3dgvdqvdc.png)
+![Devuan Linux Timezone Setup](/Asserts/Images/album/201704/09/090707ivl9dhn3dgvdqvdc.png)
 
 
 *设置 Devuan Linux 的时区*
@@ -176,7 +176,7 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 9、下一步需要做的是系统分区。对于绝大多数用户来说，选择“Guided – use entire disk”就够了。然而，如果需要进行高级分区，就需要进行分区。
 
 
-![Devuan Linux Partitioning](/Asserts/Images//attachment/album/201704/09/090708la5aw345zfslaqd3.png)
+![Devuan Linux Partitioning](/Asserts/Images/album/201704/09/090708la5aw345zfslaqd3.png)
 
 
 *Devuan Linux 分区*
@@ -188,7 +188,7 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 10、分区完成以后，安装程序为 Devuan 安装一些基础文件。这个过程将会花费几分钟时间，直到系统开始配置网络镜像（软件库）才会停下来。当提示使用网络镜像时，通常点击 “yes”。
 
 
-![Devuan Linux Configure Package Manager](/Asserts/Images//attachment/album/201704/09/090708cxhn5997755f7tt5.png)
+![Devuan Linux Configure Package Manager](/Asserts/Images/album/201704/09/090708cxhn5997755f7tt5.png)
 
 
 *Devuan Linux 配置包管理器*
@@ -197,13 +197,13 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 点击 “yes” 以后将会给用户呈现一系列以国家分类的网络镜像。通常最好选择地理位置上离你的机器最近的镜像。
 
 
-![Devuan Linux Mirror Selection](/Asserts/Images//attachment/album/201704/09/090709hu69vuzociivduuy.png)
+![Devuan Linux Mirror Selection](/Asserts/Images/album/201704/09/090709hu69vuzociivduuy.png)
 
 
 *Devuan Linux 镜像选择*
 
 
-![Devuan Linux Mirrors](/Asserts/Images//attachment/album/201704/09/090709plvffak0t4ayutkt.png)
+![Devuan Linux Mirrors](/Asserts/Images/album/201704/09/090709plvffak0t4ayutkt.png)
 
 
 *Devuan Linux 镜像*
@@ -215,7 +215,7 @@ $ sudo dd if=~/Downloads/devuan_jessie_1.0.0-beta2_amd64_CD.iso of=/dev/sdc
 在安装过程中，可以在管理员首选项中启用或禁用该功能。
 
 
-![Configure Devuan Linux Popularity Contest](/Asserts/Images//attachment/album/201704/09/090710ca10o2auokupoh6e.png)
+![Configure Devuan Linux Popularity Contest](/Asserts/Images/album/201704/09/090710ca10o2auokupoh6e.png)
 
 
 *配置 Devuan Linux 的 Popularity Contest*
@@ -230,7 +230,7 @@ Devuan 会列举出一些主流桌面环境，但应该指出的是，并不是�
 如果想要安装别的桌面环境，不要勾选 “Devuan Desktop Environment” 复选框。
 
 
-![Devuan Linux Software Selection](/Asserts/Images//attachment/album/201704/09/090710or14vzwpzzz99f3v.png)
+![Devuan Linux Software Selection](/Asserts/Images/album/201704/09/090710or14vzwpzzz99f3v.png)
 
 
 *Devuan Linux 软件选择*
@@ -242,13 +242,13 @@ Devuan 会列举出一些主流桌面环境，但应该指出的是，并不是�
 当所有的软件都安装好以后，安装程序将会提示用户选择 grub 的安装位置。典型情况是选择安装在 `/dev/sda` 目录下。
 
 
-![Devuan Linux Grub Install](/Asserts/Images//attachment/album/201704/09/090711hv39wgxz2vw43gpd.png)
+![Devuan Linux Grub Install](/Asserts/Images/album/201704/09/090711hv39wgxz2vw43gpd.png)
 
 
 *Devuan Linux 安装 grub 引导程序*
 
 
-![Devuan Linux Grub Install Disk](/Asserts/Images//attachment/album/201704/09/090711kg6xkqtjaxses3sk.png)
+![Devuan Linux Grub Install Disk](/Asserts/Images/album/201704/09/090711kg6xkqtjaxses3sk.png)
 
 
 *Devuan Linux Grub 程序的安装硬盘*
@@ -257,7 +257,7 @@ Devuan 会列举出一些主流桌面环境，但应该指出的是，并不是�
 13、当 GRUB 程序成功安装到引导驱动器以后，安装程序将会提示用户安装已经完成，请重启系统。
 
 
-![Devuan Linux Installation Completes](/Asserts/Images//attachment/album/201704/09/090711cn9h8yjfzfrkrkjp.png)
+![Devuan Linux Installation Completes](/Asserts/Images/album/201704/09/090711cn9h8yjfzfrkrkjp.png)
 
 
 *Devuan Linux 安装完成*
@@ -266,7 +266,7 @@ Devuan 会列举出一些主流桌面环境，但应该指出的是，并不是�
 14、如果安装顺利完成了，那么系统要么启动到选择桌面环境，或者如果没有选择桌面环境的话，会启动到一个基于文本的控制台。
 
 
-![Devuan Linux Console](/Asserts/Images//attachment/album/201704/09/090712sklkf98lfu89599i.png)
+![Devuan Linux Console](/Asserts/Images/album/201704/09/090712sklkf98lfu89599i.png)
 
 
 Devuan Linux 控制台。

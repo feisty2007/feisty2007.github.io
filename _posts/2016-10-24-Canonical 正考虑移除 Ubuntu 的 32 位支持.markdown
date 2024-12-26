@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201610/14/211034ayyd1dypppm22mom.jpg)
+![](/Asserts/Images/album/201610/14/211034ayyd1dypppm22mom.jpg)
 
 
 之前，[Dimitri John Ledkov](https://plus.google.com/+DimitriJohnLedkov) 在 [Ubuntu 邮件列表](https://lists.ubuntu.com/archives/ubuntu-devel-discuss/2016-June/016661.html) 发送了一则消息，称将在 Ubuntu 18.10 中取消 32 位支持。他说越来越多的软件已经有了 64 位支持，而且为古老的 32 位架构提供安全支持将变得更加困难。

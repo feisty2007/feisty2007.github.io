@@ -7,10 +7,10 @@ tags:	[linuxcn,安卓,CDN,推特]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/28/181527u5f6j4kxif1mjb1j.jpg)
+![](/Asserts/Images/album/202204/28/181527u5f6j4kxif1mjb1j.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/28/181542sctkoocsvhhteesh.jpg)
+![](/Asserts/Images/album/202204/28/181542sctkoocsvhhteesh.jpg)
 
 
 ### 谷歌应用商店去年删除了 120 万款危险的应用
@@ -35,7 +35,7 @@ tags:	[linuxcn,安卓,CDN,推特]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/28/181556kfeitktqallreuve.jpg)
+![](/Asserts/Images/album/202204/28/181556kfeitktqallreuve.jpg)
 
 
 ### 推特锁定其源代码避免被不满的员工破坏
@@ -60,7 +60,7 @@ tags:	[linuxcn,安卓,CDN,推特]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/28/181620kfcmioccmomm6f66.jpg)
+![](/Asserts/Images/album/202204/28/181620kfcmioccmomm6f66.jpg)
 
 
 ### 谷歌推出 YouTube 同款的 Media CDN

@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,搜索,ReiserFS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/21/204144l0vcx3ru3jti7uzb.jpg)
+![](/Asserts/Images/album/202401/21/204144l0vcx3ru3jti7uzb.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/21/204153b7hrxgvjv7mz49hq.png)
+![](/Asserts/Images/album/202401/21/204153b7hrxgvjv7mz49hq.png)
 
 
 ### #1 海尔要求开发者下架开源的家庭助理插件
@@ -38,7 +38,7 @@ tags:	[linuxcn,开源,搜索,ReiserFS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/21/204209rct1yxnmbkyqm2d1.png)
+![](/Asserts/Images/album/202401/21/204209rct1yxnmbkyqm2d1.png)
 
 
 ### #2 ReiserFS 作者在狱中回应被内核移除
@@ -66,7 +66,7 @@ ReiserFS 文件系统作者 Hans Reiser 因谋杀妻子被判处监禁。去年�
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/21/204232liniych34w2qzn44.png)
+![](/Asserts/Images/album/202401/21/204232liniych34w2qzn44.png)
 
 
 ### #3 谷歌推出画圈即搜索的“画圈搜索”功能

@@ -13,7 +13,7 @@ tags:	[linuxcn,Minecraft,Minetest]
 ### 什么是 Minetest？
 
 
-![](/Asserts/Images//attachment/album/202206/29/151524eem52oyatm2tz2dr.jpg)
+![](/Asserts/Images/album/202206/29/151524eem52oyatm2tz2dr.jpg)
 
 
 [Minetest](https://www.minetest.net/)，简单地说，是一个基于<ruby> 体素 <rt>  voxel </rt></ruby>的沙盒游戏，与 Minecraft 非常相似。与 Minecraft 不同的是，Minetest 是用 C++ 编写的，并被设计成可以在大多数系统上原生运行。它也有一个非常大的地图区域。地图大小为 “62,000 × 62,000 × 62,000 块”，“你可以向下开采 31,000 块，或向上建造 31,000 块”。
@@ -25,7 +25,7 @@ tags:	[linuxcn,Minecraft,Minetest]
 Minetest 有几种模式。你可以建造并发挥创意，或者你可以尝试在各种元素中生存。你并不局限于这些模式。Minetest 有大量的 [额外内容](https://content.minetest.net/)，包括 <ruby> 模组 <rt>  mod </rt></ruby>、纹理包和在 Minetest 中建立的游戏。这主要是通过 Minetest 的 [模组 API](https://dev.minetest.net/Modding_Intro) 和 Lua 完成的。
 
 
-![minetest packages](/Asserts/Images//attachment/album/202206/29/151241a166van14zzdrjav.jpg)
+![minetest packages](/Asserts/Images/album/202206/29/151241a166van14zzdrjav.jpg)
 
 
 对于那些玩过 Minecraft 的人来说，你会发现 Minetest 中的体验非常相似。你可以挖掘资源，建造结构，并结合材料来制作工具。我在 Minetest 中没有注意到的一件事是怪物。我认为 Minetest 中没有任何生物，但话说回来，我只在创意模式中玩过。我还没有玩过生存模式。
@@ -34,7 +34,7 @@ Minetest 有几种模式。你可以建造并发挥创意，或者你可以尝�
 Minetest 也被用于 [教育](https://www.minetest.net/education/)。例如，瑞士 CERN 的人用 Minetest 创造了一个游戏，以 [展示互联网是如何工作的](https://forum.minetest.net/viewtopic.php?t=22871) 以及它是如何被创造出来的。Minetest 还被用于 [教授](https://en.wikipedia.org/wiki/Minetest#Usage_in_education) 编程、地球科学以及微积分和三角学。
 
 
-![minetes map1](/Asserts/Images//attachment/album/202206/29/151241tmofoqfohwlfjqwh.png)
+![minetes map1](/Asserts/Images/album/202206/29/151241tmofoqfohwlfjqwh.png)
 
 
 ### 如何安装 Minetest?
@@ -133,7 +133,7 @@ flatpak install flathub net.minetest.Minetest
 ### 总结
 
 
-![minetest about](/Asserts/Images//attachment/album/202206/29/151242z74jr2xxtff1n6ty.jpg)
+![minetest about](/Asserts/Images/album/202206/29/151242z74jr2xxtff1n6ty.jpg)
 
 
 我已经在 Minetest 中花了几个小时在我的本地系统上进行构建和探索。它非常有趣。我还没来得及尝试任何额外的内容，因为我对我玩过的相对较少的游戏部分非常满意。我遇到的唯一麻烦是，由于某种原因，它在 Fedora 上运行缓慢。我可能存在一些配置上的错误。

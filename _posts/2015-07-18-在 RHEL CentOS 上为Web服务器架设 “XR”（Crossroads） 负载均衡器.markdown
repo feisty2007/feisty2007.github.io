@@ -16,7 +16,7 @@ Crossroads 是一个独立的服务，它是一个用于Linux和TCP服务的开�
 如果一台服务器宕机，XR 会转发客户端请求到另一个服务器，所以客户感觉不到停顿。看看下面的图来了解什么样的情况下，我们要使用 XR 处理。
 
 
-![Install XR Crossroads Load Balancer](/Asserts/Images//attachment/album/201507/22/233024yqxkjhzcp4uzequb.jpg)
+![Install XR Crossroads Load Balancer](/Asserts/Images/album/201507/22/233024yqxkjhzcp4uzequb.jpg)
 
 
 *安装 XR Crossroads 负载均衡器*
@@ -70,7 +70,7 @@ Crossroads 是一个独立的服务，它是一个用于Linux和TCP服务的开�
 
 ```
 
-![Install XR Crossroads Load Balancer](/Asserts/Images//attachment/album/201507/22/233027u0e8fgz9853exfe5.png)
+![Install XR Crossroads Load Balancer](/Asserts/Images/album/201507/22/233027u0e8fgz9853exfe5.png)
 
 
 *安装 XR Crossroads 负载均衡器*
@@ -88,13 +88,13 @@ Crossroads 是一个独立的服务，它是一个用于Linux和TCP服务的开�
 正如我所说的，我们要使用两个web服务器，webserver01 通过8888端口运行在172.16.1.222上，webserver02 通过5555端口运行在192.168.1.161上。
 
 
-![XR WebServer 01](/Asserts/Images//attachment/album/201507/22/233028d18ep1oalhz160do.jpg)
+![XR WebServer 01](/Asserts/Images/album/201507/22/233028d18ep1oalhz160do.jpg)
 
 
 *XR WebServer 01*
 
 
-![XR WebServer 02](/Asserts/Images//attachment/album/201507/22/233028s0n1y7kffk327kmn.jpg)
+![XR WebServer 02](/Asserts/Images/album/201507/22/233028s0n1y7kffk327kmn.jpg)
 
 
 *XR WebServer 02*
@@ -149,7 +149,7 @@ Crossroads 是一个独立的服务，它是一个用于Linux和TCP服务的开�
 
 ```
 
-![Configure XR Crossroads Load Balancer](/Asserts/Images//attachment/album/201507/22/233030cv5iiutrifz5i3ua.jpg)
+![Configure XR Crossroads Load Balancer](/Asserts/Images/album/201507/22/233030cv5iiutrifz5i3ua.jpg)
 
 
 *配置 XR Crossroads 负载均衡器*
@@ -168,7 +168,7 @@ Crossroads 是一个独立的服务，它是一个用于Linux和TCP服务的开�
 
 ```
 
-![Start XR Crossroads](/Asserts/Images//attachment/album/201507/22/233032ewblzowertrqbbee.jpg)
+![Start XR Crossroads](/Asserts/Images/album/201507/22/233032ewblzowertrqbbee.jpg)
 
 
 *启动 XR Crossroads*
@@ -177,7 +177,7 @@ Crossroads 是一个独立的服务，它是一个用于Linux和TCP服务的开�
 **5. 好的。现在是时候来检查该配置是否可以工作正常了。打开两个网页浏览器，输入 XR 服务器的 IP 地址和端口，并查看输出。**
 
 
-![Verify Web Server Load Balancing](/Asserts/Images//attachment/album/201507/22/233039fhsjp7cng7b5bh26.jpg)
+![Verify Web Server Load Balancing](/Asserts/Images/album/201507/22/233039fhsjp7cng7b5bh26.jpg)
 
 
 *验证 Web 服务器负载均衡*
@@ -195,7 +195,7 @@ http://172.16.1.204:8010
 
 ```
 
-![XR Crossroads Dashboard](/Asserts/Images//attachment/album/201507/22/233044kbwqxxq3bh8bhk38.jpg)
+![XR Crossroads Dashboard](/Asserts/Images/album/201507/22/233044kbwqxxq3bh8bhk38.jpg)
 
 
 *XR Crossroads 仪表盘*

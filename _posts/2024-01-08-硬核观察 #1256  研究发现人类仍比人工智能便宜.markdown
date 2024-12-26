@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/24/164744ig71yja125dd631i.jpg)
+![](/Asserts/Images/album/202401/24/164744ig71yja125dd631i.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/24/164755ujrjgwdjgg1l4rd4.png)
+![](/Asserts/Images/album/202401/24/164755ujrjgwdjgg1l4rd4.png)
 
 
 ### #1 研究发现人类仍比人工智能便宜
@@ -38,7 +38,7 @@ tags:	[linuxcn,Rust,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/24/164811vni4iisa42ba9s7b.png)
+![](/Asserts/Images/album/202401/24/164811vni4iisa42ba9s7b.png)
 
 
 ### #2 Chrome 将内置人工智能写作助手
@@ -66,7 +66,7 @@ tags:	[linuxcn,Rust,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/24/164833kyxb1xg6qkbcgxd1.png)
+![](/Asserts/Images/album/202401/24/164833kyxb1xg6qkbcgxd1.png)
 
 
 ### #3 FreeBSD 开发者讨论在其基本系统中使用 Rust

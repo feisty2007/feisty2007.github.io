@@ -15,7 +15,7 @@ tags:	[linuxcn,DevOps]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/19/235742fqa98lqyqgw0zx09.jpg)
+![](/Asserts/Images/album/202301/19/235742fqa98lqyqgw0zx09.jpg)
 
 
 你为什么要构建 [DevOps](https://opensource.com/resources/devops) 文化？开发团队和运维团队的精简协作有很多好处。效率是首要目标：提高新软件部署的速度，减少等待的时间。培养同事之间的信任可以提升员工的满意度，激发新的创新，并对盈利能力产生积极的影响。
@@ -27,7 +27,7 @@ tags:	[linuxcn,DevOps]
 下面每个部分从不同的视角介绍 DevOps 文化，并探讨了将它引入员工队伍的方法。
 
 
-![DevOps includes collaboration, workflow, infosec, and iteration.](/Asserts/Images//attachment/album/202301/19/235830m1rhotpastot3mpr.jpg)
+![DevOps includes collaboration, workflow, infosec, and iteration.](/Asserts/Images/album/202301/19/235830m1rhotpastot3mpr.jpg)
 
 
 ### 流程的持续发展
@@ -57,7 +57,7 @@ DevOps 专家 [Gene Kim](https://enterprisersproject.com/user/gene-kim) 主张�
 在你期望员工随时向同事提供反馈并主动寻求反馈之前，你应该以身作则。高管应该以身作则，公开要求公司成员对其战略决策提出探究性问题，并提供相应的反馈。
 
 
-![DevOps is the intersection of development, quality assurance, and operations](/Asserts/Images//attachment/album/202301/19/235836z7cq7lm8mcc7m0mm.png)
+![DevOps is the intersection of development, quality assurance, and operations](/Asserts/Images/album/202301/19/235836z7cq7lm8mcc7m0mm.png)
 
 
 ### 不断改进

@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenSSL,Dovecot,Postfix]
 ---
 
 
-![OpenSSL](/Asserts/Images//attachment/album/201702/02/235041fw9cfcmi6646xw59.jpg "OpenSSL")
+![OpenSSL](/Asserts/Images/album/201702/02/235041fw9cfcmi6646xw59.jpg "OpenSSL")
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,笔记应用,印象笔记,Notesnook]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/05/101701hwr9m9zw7ww5mv3g.png)
+![](/Asserts/Images/album/202209/05/101701hwr9m9zw7ww5mv3g.png)
 
 
 
@@ -42,7 +42,7 @@ tags:	[linuxcn,笔记应用,印象笔记,Notesnook]
 ### Notesnook：它能提供什么？
 
 
-![notesnook](/Asserts/Images//attachment/album/202209/05/101701qu00zhnu2kqnwwql.jpg)
+![notesnook](/Asserts/Images/album/202209/05/101701qu00zhnu2kqnwwql.jpg)
 
 
 Notesnook 是一个开源的零知识笔记存储平台，具有端到端加密功能。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Valve,Steam Machines]
 ---
 
 
-![2014年 Steam Machines 将不会发布](/Asserts/Images//attachment/album/201405/31/144151b055lp6fwfephw3p.jpg)
+![2014年 Steam Machines 将不会发布](/Asserts/Images/album/201405/31/144151b055lp6fwfephw3p.jpg)
 
 
 游戏社区急于期盼 Valve 发布的基于 Linux 的 Steam Machines(译注：一个基于Linux的游戏机)，但是看起来这个混合游戏机会推迟到明年发布了。

@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/29/230250xpuswr1watuzdbze.jpg)
+![](/Asserts/Images/album/201405/29/230250xpuswr1watuzdbze.jpg)
 
 
  **你想做硬件DIY吗？它们哪个更适合你？**

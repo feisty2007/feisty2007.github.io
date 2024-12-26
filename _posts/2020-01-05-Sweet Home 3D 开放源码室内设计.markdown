@@ -15,7 +15,7 @@ tags:	[linuxcn,室内设计]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/12/092633eyc3c9f7u3gfgj4e.jpg)
+![](/Asserts/Images/album/202001/12/092633eyc3c9f7u3gfgj4e.jpg)
 
 
 这里有关于如何装饰房间的三大流派：
@@ -48,7 +48,7 @@ Sweet Home 3D 是一个 [Java](https://opensource.com/resources/java) 应用程�
 * 在 MacOS 和 Windows 上，展开存档文件并启动应用程序。当系统提示时，你必需授予它权限来在你的系统上运行。
 
 
-![Sweet Home 3D permissions](/Asserts/Images//attachment/album/202001/12/092817nklcpc1digl31z5r.png "Sweet Home 3D permissions")
+![Sweet Home 3D permissions](/Asserts/Images/album/202001/12/092817nklcpc1digl31z5r.png "Sweet Home 3D permissions")
 
 
 在 Linux 上，你也可以像一个 Snap 软件包一样安装 Sweet Home 3D ，前提是你已经安装并启用 **snapd**。
@@ -63,7 +63,7 @@ Sweet Home 3D 是一个 [Java](https://opensource.com/resources/java) 应用程�
 用你最好的判断力来判断常识。例如，当测量门时，包括门框；虽然从技术上讲它不是*门*本身的一部分，但它可能是你不想用家具遮挡的一部分墙壁空间。
 
 
-![Measure twice, execute once](/Asserts/Images//attachment/album/202001/12/092823t5x3bn51w5bzef1x.jpg "Measure twice, execute once")
+![Measure twice, execute once](/Asserts/Images/album/202001/12/092823t5x3bn51w5bzef1x.jpg "Measure twice, execute once")
 
 
 ### 创建一间房间
@@ -78,7 +78,7 @@ Sweet Home 3D 是一个 [Java](https://opensource.com/resources/java) 应用程�
 第一步是定义你家的墙壁。使用**创建墙壁**工具完成，可以在顶部工具栏的**手形**图标右侧找到。绘制墙壁很简单：单击你想要墙壁开始的位置，单击以锚定位置，不断单击锚定，直到你的房间完成。
 
 
-![Drawing walls in Sweet Home 3D](/Asserts/Images//attachment/album/202001/12/092827priepy8illuiiiur.jpg "Drawing walls in Sweet Home 3D")
+![Drawing walls in Sweet Home 3D](/Asserts/Images/album/202001/12/092827priepy8illuiiiur.jpg "Drawing walls in Sweet Home 3D")
 
 
 在你闭合墙壁后，按 `Esc` 来退出工具。
@@ -96,13 +96,13 @@ Sweet Home 3D 在你如何创建墙壁的问题上是灵活的。你可以先绘
 对于不规则的房间，你必需使用每次单击来手动定义房间的每个墙角。根据房间形状的复杂性，你可能不得不进行试验来发现你是否需要从你的原点来顺时针或逆时针工作，以避免奇怪的莫比斯条形地板。不过，一般来说，定义一间房间的地板空间是简单的。
 
 
-![Defining rooms in Sweet Home 3D](/Asserts/Images//attachment/album/202001/12/092832b5fx5egzuxvf0e55.jpg "Defining rooms in Sweet Home 3D")
+![Defining rooms in Sweet Home 3D](/Asserts/Images/album/202001/12/092832b5fx5egzuxvf0e55.jpg "Defining rooms in Sweet Home 3D")
 
 
 在你给定房间一层地板后，你可以更改到**箭头**工具，并在房间上双击来给予它一个名称。你也可以设置地板、墙壁、天花板和踢脚线的颜色及纹理。
 
 
-![Modifying room floors, ceilings, etc. in Sweet Home 3D](/Asserts/Images//attachment/album/202001/12/092836hdnpcqakwxw74n73.jpg "Modifying room floors, ceilings, etc. in Sweet Home 3D")
+![Modifying room floors, ceilings, etc. in Sweet Home 3D](/Asserts/Images/album/202001/12/092836hdnpcqakwxw74n73.jpg "Modifying room floors, ceilings, etc. in Sweet Home 3D")
 
 
 默认情况下，这些都不会在蓝图视图中渲染。为启用在你蓝图面板中的房间渲染，转到**文件**菜单并选择**首选项**。在**首选项**面板中，设置**平面图中房间渲染**为**地板颜色或纹理**。
@@ -117,7 +117,7 @@ Sweet Home 3D 在你如何创建墙壁的问题上是灵活的。你可以先绘
 你可以在 Sweet Home 3D 的左栏中的**门和窗**类别下找到门和窗。你有很多选择，所以选择最接近你家的东西。
 
 
-![Moving a door in Sweet Home 3D](/Asserts/Images//attachment/album/202001/12/092839aqcgc8b1g0gaw707.jpg "Moving a door in Sweet Home 3D")
+![Moving a door in Sweet Home 3D](/Asserts/Images/album/202001/12/092839aqcgc8b1g0gaw707.jpg "Moving a door in Sweet Home 3D")
 
 
 为放置一扇门或窗到你的平面图中，在你的蓝图平面图中的合适的墙壁上拖拽门或窗。要调整它的位置和大小，请双击门或窗。
@@ -138,7 +138,7 @@ Sweet Home 3D 在你如何创建墙壁的问题上是灵活的。你可以先绘
 为了看看你未来的家将会看起来是什么样子，在你的蓝图视图中拖拽“人”图标到一个房间中。
 
 
-![Sweet Home 3D rendering](/Asserts/Images//attachment/album/202001/12/092842h9l79eqcse7vczee.jpg "Sweet Home 3D rendering")
+![Sweet Home 3D rendering](/Asserts/Images/album/202001/12/092842h9l79eqcse7vczee.jpg "Sweet Home 3D rendering")
 
 
 你可以在现实和空间感受之间找到自己的平衡，你的想象力是你唯一的限制。你可以从 Sweet Home 3D [下载页面](http://www.sweethome3d.com/download.jsp)获取附加的有用的资源来添加到你的家中。你甚至可以使用**库编辑器**应用程序创建你自己的家具和纹理，它可以从该项目的网站下载。

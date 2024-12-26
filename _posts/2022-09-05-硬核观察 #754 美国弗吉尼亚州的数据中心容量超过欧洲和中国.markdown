@@ -7,10 +7,10 @@ tags:	[linuxcn,数据中心,模糊测试,钓鱼邮件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/09/170143cmm88m0muybyoffl.jpg)
+![](/Asserts/Images/album/202209/09/170143cmm88m0muybyoffl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/09/170158xo4laj9w74zoa442.jpg)
+![](/Asserts/Images/album/202209/09/170158xo4laj9w74zoa442.jpg)
 
 
 ### 美国弗吉尼亚州的数据中心容量超过欧洲和中国
@@ -35,7 +35,7 @@ tags:	[linuxcn,数据中心,模糊测试,钓鱼邮件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/09/170211gmvono5dnrjnj4cn.jpg)
+![](/Asserts/Images/album/202209/09/170211gmvono5dnrjnj4cn.jpg)
 
 
 ### 谷歌鼓励开源社区对代码进行模糊测试
@@ -60,7 +60,7 @@ tags:	[linuxcn,数据中心,模糊测试,钓鱼邮件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/09/170223j17o1crov7zrr1az.jpg)
+![](/Asserts/Images/album/202209/09/170223j17o1crov7zrr1az.jpg)
 
 
 ### 中科大发 4 万多封钓鱼邮件，约 10% 的人中招

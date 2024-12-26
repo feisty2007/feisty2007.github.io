@@ -7,7 +7,7 @@ tags:	[linuxcn,Nextcloud,/e/]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/12/122933awf0z9vnqdzslv1q.jpg)
+![](/Asserts/Images/album/202110/12/122933awf0z9vnqdzslv1q.jpg)
 
 
 
@@ -18,7 +18,7 @@ tags:	[linuxcn,Nextcloud,/e/]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/12/122940to6rre7ekmi8ksxs.png)
+![](/Asserts/Images/album/202110/12/122940to6rre7ekmi8ksxs.png)
 
 
 Google Drive 是一种流行的云存储服务，在大多数情况下效果很好。
@@ -36,7 +36,7 @@ Google Drive 是一种流行的云存储服务，在大多数情况下效果很�
 ### /e/ 云：带有邮箱的 Nextcloud 及 OnlyOffice
 
 
-![](/Asserts/Images//attachment/album/202110/12/122941axxs9kxocq2512zx.png)
+![](/Asserts/Images/album/202110/12/122941axxs9kxocq2512zx.png)
 
 
 当你创建一个 /e/ 账户时，它会给你一个私人电子邮件地址 [xyz@e.email](mailto:xyz@e.email)。
@@ -48,7 +48,7 @@ Google Drive 是一种流行的云存储服务，在大多数情况下效果很�
 因此，如果你想利用 Nextcloud 和 OnlyOffice 来取代谷歌的工具套件，而不需要自己全部设置，/e/ 云可以成为一个引人注目的以隐私为中心的选择。
 
 
-![](/Asserts/Images//attachment/album/202110/12/122943xcbc4oed4bx0tqqq.png)
+![](/Asserts/Images/album/202110/12/122943xcbc4oed4bx0tqqq.png)
 
 
 除了 OnlyOffice 的文件存储和文档支持外，你还可以使用日历，存储笔记，并添加任务。

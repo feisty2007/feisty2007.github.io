@@ -7,7 +7,7 @@ tags:	[linuxcn,Kali]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/21/144206sjhgutyjgtu6m22z.jpg)
+![](/Asserts/Images/album/202109/21/144206sjhgutyjgtu6m22z.jpg)
 
 
 Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行版](https://itsfoss.com/linux-hacking-penetration-testing/) 的不二之选。
@@ -68,19 +68,19 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 前往 [VMWare 的 Workstation Player 官方网页](https://www.vmware.com/products/workstation-player.html)，然后点击 “Download For Free” 按钮。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144307q0bicq0mqnmqpcnc.png)
+![](/Asserts/Images/album/202109/21/144307q0bicq0mqnmqpcnc.png)
 
 
 接下来，你可以选择版本（如果你想要特定的版本或遇到最新版本的 bug），然后点击 “Go to Downloads”。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144308du33y6sc6zpl976c.png)
+![](/Asserts/Images/album/202109/21/144308du33y6sc6zpl976c.png)
 
 
 然后你就会看到 Windows 和 Linux 版本的下载按钮。你需要点击 “Windows 64-bit” 的按钮，因为这就是我们在这里需要的。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144308pk9949owls0okp90.png)
+![](/Asserts/Images/album/202109/21/144308pk9949owls0okp90.png)
 
 
 顺便提一句，它不支持 32 位系统。
@@ -89,43 +89,43 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 最后，当你得到下载的 .exe 文件时，启动它以开始安装过程。你需要点击 “Next” 来开始安装 VMware。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144308bd88iff8ttuyzfff.png)
+![](/Asserts/Images/album/202109/21/144308bd88iff8ttuyzfff.png)
 
 
 接下来，你需要同意这些政策和条件才能继续。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144309zjzucl73qymmot7f.png)
+![](/Asserts/Images/album/202109/21/144309zjzucl73qymmot7f.png)
 
 
 现在，你可以选择安装的路径。理想情况下，保持默认设置。但是，如果你在虚拟机中需要更好的键盘响应/屏幕上的键盘性能，你可能想启用 “<ruby> 增强型键盘驱动程序 <rt>  Enhanced Keyboard Driver </rt></ruby>”。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144309yk1e1cdkjg6jl1zs.png)
+![](/Asserts/Images/album/202109/21/144309yk1e1cdkjg6jl1zs.png)
 
 
 进入下一步，你可以选择禁用每次启动程序时的更新检查（可能很烦人），并禁用向 VMware 发送数据，这是其用户体验改进计划的一部分。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144309yhbbwwewxbvbvvdi.png)
+![](/Asserts/Images/album/202109/21/144309yhbbwwewxbvbvvdi.png)
 
 
 如果你想使用桌面和开始菜单的快捷方式进行快速访问，你可以勾选这些设置，或像我一样将其取消。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144309xzyu9rdo98dph8yx.png)
+![](/Asserts/Images/album/202109/21/144309xzyu9rdo98dph8yx.png)
 
 
 现在，继续以开始安装。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144310us0m43103eueutek.png)
+![](/Asserts/Images/album/202109/21/144310us0m43103eueutek.png)
 
 
 这可能需要一些时间，完成后，你会看到另一个窗口，让你完成这个过程，并让你选择输入一个许可证密钥。如果你想获得商业许可，你需要 VMware Workstation 专业版，否则，该 Player 版本对个人使用是免费的。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144310pq76y3ln8t8zrvzf.png)
+![](/Asserts/Images/album/202109/21/144310pq76y3ln8t8zrvzf.png)
 
 
 
@@ -145,13 +145,13 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 开始时，你需要下载 Kali Linux 的镜像文件。而且，如果你打算在虚拟机上使用它，Kali Linux 会提供一个单独的 ISO 文件。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144310quibrk7hpzwzt5b8.png)
+![](/Asserts/Images/album/202109/21/144310quibrk7hpzwzt5b8.png)
 
 
 前往其 [官方下载页面](https://www.kali.org/get-kali/)，下载可用的预构建的 VMware 镜像。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144311sn9fz5j9975de6cz.png)
+![](/Asserts/Images/album/202109/21/144311sn9fz5j9975de6cz.png)
 
 
 你可以直接下载 .7z 文件或利用 Torrent（一般来说速度更快）。在这两种情况下，你也可以用提供的 SHA256 值检查文件的完整性。
@@ -160,7 +160,7 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 下载完成，你需要将文件解压到你选择的任何路径。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144311ysp0m6l6afxz9fta.png)
+![](/Asserts/Images/album/202109/21/144311ysp0m6l6afxz9fta.png)
 
 
 打开 VMware Workstation Player，然后点击 “<ruby> 打开一个虚拟机 <rt>  Open a Virtual Machine </rt></ruby>”。现在，寻找你提取的文件夹。然后浏览它，直到你找到一个扩展名为 .vmx 的文件。
@@ -169,7 +169,7 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 比如说，`Kali-Linux-2021.3-vmware-amd64.vmx`。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144311sxzjexvy6humrruz.png)
+![](/Asserts/Images/album/202109/21/144311sxzjexvy6humrruz.png)
 
 
 选择 .vmx 文件来打开该虚拟机。它应该直接出现在你的 VMware Player 中。
@@ -178,7 +178,7 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 你可以选择以默认设置启动虚拟机。或者，如果你想调整分配给虚拟机的硬件，可以在启动前随意改变设置。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144311zws3vgwsza7apk3z.png)
+![](/Asserts/Images/album/202109/21/144311zws3vgwsza7apk3z.png)
 
 
 根据你的计算机硬件，你应该分配更多的内存和至少一半的处理器核心，以获得流畅的性能。
@@ -187,7 +187,7 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 在这种情况下，我有 16GB 的内存和一个四核处理器。因此，为这个虚拟机分配近 7GB 的内存和两个内核是安全的。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144312okog308xg0gzbk6x.png)
+![](/Asserts/Images/album/202109/21/144312okog308xg0gzbk6x.png)
 
 
 虽然你可以分配更多的资源，但它可能会影响你的宿主机操作系统在工作时的性能。所以，建议在这两者之间保持平衡。
@@ -208,7 +208,7 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 完成之后，你就会看到 Kali Linux 的登录界面。
 
 
-![](/Asserts/Images//attachment/album/202109/21/144312pfr24ut6mgmr6a2n.png)
+![](/Asserts/Images/album/202109/21/144312pfr24ut6mgmr6a2n.png)
 
 
 考虑到你启动了一个预先建立的 VMware 虚拟机，你需要输入默认的登录名和密码来继续。
@@ -218,7 +218,7 @@ Kali Linux 是 [用于学习和练习黑客攻击和渗透测试的 Linux 发行
 * 密码： `kali`
 
 
-![](/Asserts/Images//attachment/album/202109/21/144313qeyn350qwo20w0g1.png)
+![](/Asserts/Images/album/202109/21/144313qeyn350qwo20w0g1.png)
 
 
 就是这样！你已经完成了在 VMware 上安装 Kali Linux。现在，你所要做的就是开始探索了！

@@ -15,7 +15,7 @@ tags:	[linuxcn,贡献,开源项目]
 > 
 
 
-![women programming](/Asserts/Images//attachment/album/201807/03/110953dg5cui5c31a3uisg.png "women programming")
+![women programming](/Asserts/Images/album/201807/03/110953dg5cui5c31a3uisg.png "women programming")
 
 
 有一个普遍的误解，那就是对开源做出贡献是一件很难的事。你可能会想，“有时我甚至不能理解我自己的代码；那我怎么可能理解别人的？”
@@ -69,25 +69,25 @@ Coala 是一个开源项目的例子。它有自己的教程和文档，让你�
 **文档：** 不管哪种水平的开发者都需要可靠的、被很好地维护的文档，来理解项目的细节。找找在 [GitHub](https://github.com/)（或者放在其它位置）或者类似于 [Read the Docs](https://readthedocs.org/) 之类的独立站点上提供了完善文档的项目，这样可以帮助你深入了解代码。
 
 
-![Coala Newcomers' Guide screen](/Asserts/Images//attachment/album/201807/03/110953yxuc3h11gqm8gum2.png "Coala Newcomers' Guide screen")
+![Coala Newcomers' Guide screen](/Asserts/Images/album/201807/03/110953yxuc3h11gqm8gum2.png "Coala Newcomers' Guide screen")
 
 
 **教程：** 教程会给新手解释如何在项目里添加特性 （然而，你不是在每个项目中都能找到它）。例如，Coala 提供了 [小熊编写指南](http://api.coala.io/en/latest/Developers/Writing_Linter_Bears.html) （进行代码分析的<ruby> 代码格式化 <rt>  linting </rt></ruby>工具的 Python 包装器）。
 
 
-![Coala UI](/Asserts/Images//attachment/album/201807/03/110954moyj3tbp02nchhn4.png "Coala User Interface screenshot")
+![Coala UI](/Asserts/Images/album/201807/03/110954moyj3tbp02nchhn4.png "Coala User Interface screenshot")
 
 
 **分类的<ruby> 讨论点 <rt>  issue </rt></ruby>：** 对刚刚想明白如何选择第一个项目的初学者来说，选择一个讨论点是一个更加困难的任务。标签被设为“难度/低”、“难度/新手”、“利于初学者”，以及“<ruby> 触手可及 <rt>  low-hanging fruit </rt></ruby>”都表明是对新手友好的。
 
 
-![Coala labeled issues](/Asserts/Images//attachment/album/201807/03/110955gi5xzt0goiz5i7ve.png "Coala labeled issues")
+![Coala labeled issues](/Asserts/Images/album/201807/03/110955gi5xzt0goiz5i7ve.png "Coala labeled issues")
 
 
 ### 其他因素
 
 
-![CI user pipeline log](/Asserts/Images//attachment/album/201807/03/110956p1rrnbrur1a1y72b.png "CI user pipeline log")
+![CI user pipeline log](/Asserts/Images/album/201807/03/110956p1rrnbrur1a1y72b.png "CI user pipeline log")
 
 
 * **维护者对新的贡献者的态度：** 从我的经验来看，大部分开源贡献者都很乐于帮助他们项目里的新手。然而，当你问问题时，你也有可能遇到一些不太友好的人（甚至可能有点粗鲁）。不要因为这些人失去信心。他们只是因为在比他们经验更丰富的人那儿得不到发泄的机会而已。还有很多其他人愿意提供帮助。

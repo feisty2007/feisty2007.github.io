@@ -7,10 +7,10 @@ tags:	[linuxcn,iPhone,钓鱼,写字板]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/04/172119n6fh1mq2hgnqyenz.jpg)
+![](/Asserts/Images/album/202309/04/172119n6fh1mq2hgnqyenz.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/04/172131cmb5f2phvpb911ad.jpg)
+![](/Asserts/Images/album/202309/04/172131cmb5f2phvpb911ad.jpg)
 
 
 ### 苹果给黑客们提供可破解的 iPhone
@@ -35,7 +35,7 @@ tags:	[linuxcn,iPhone,钓鱼,写字板]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/04/172142wjtl9x54jn3yjyy2.jpg)
+![](/Asserts/Images/album/202309/04/172142wjtl9x54jn3yjyy2.jpg)
 
 
 ### Windows 写字板应用谢幕
@@ -60,7 +60,7 @@ tags:	[linuxcn,iPhone,钓鱼,写字板]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/04/172155assgyyw03zsnwnoa.jpg)
+![](/Asserts/Images/album/202309/04/172155assgyyw03zsnwnoa.jpg)
 
 
 ### 美国顶级域名 .US 是网络钓鱼域名最多的顶级域名

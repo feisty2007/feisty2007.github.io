@@ -7,7 +7,7 @@ tags:	[linuxcn,systemd]
 ---
 
 
-![](/Asserts/Images//attachment/album/201412/23/121925qvuuuzd9t4udjuvo.png)
+![](/Asserts/Images/album/201412/23/121925qvuuuzd9t4udjuvo.png)
 
 
 从很久很久以前我们就在使用静态运行级别。而systemd提供了更为动态灵活的机制，来管控你的系统。

@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/01/151227rcrfy8marckyftyg.jpg)
+![](/Asserts/Images/album/202212/01/151227rcrfy8marckyftyg.jpg)
 
 
 
@@ -69,7 +69,7 @@ yay -S openoffice-bin
 
 ```
 
-![通过 Yay 助手在 Arch Linux 中安装 OpenOffice](/Asserts/Images//attachment/album/202212/01/151229lmpp2xp5cx4684r4.jpg)
+![通过 Yay 助手在 Arch Linux 中安装 OpenOffice](/Asserts/Images/album/202212/01/151229lmpp2xp5cx4684r4.jpg)
 
 
 按照屏幕上的说明进行操作。安装后，你可以在应用菜单中找到它，如下图所示。
@@ -78,10 +78,10 @@ yay -S openoffice-bin
 启动 OpenOffice 并将你的姓名和详细信息添加到启动向导中，你就可以使用了。
 
 
-![Arch Linux 应用菜单 (XFCE) 中的 OpenOffice](/Asserts/Images//attachment/album/202212/01/151229ewhsrq266v2vvh6u.jpg)
+![Arch Linux 应用菜单 (XFCE) 中的 OpenOffice](/Asserts/Images/album/202212/01/151229ewhsrq266v2vvh6u.jpg)
 
 
-![在 Arch Linux 中运行的最新 OpenOffice](/Asserts/Images//attachment/album/202212/01/151229y7xnah065xx2xd33.jpg)
+![在 Arch Linux 中运行的最新 OpenOffice](/Asserts/Images/album/202212/01/151229y7xnah065xx2xd33.jpg)
 
 
 ### 总结

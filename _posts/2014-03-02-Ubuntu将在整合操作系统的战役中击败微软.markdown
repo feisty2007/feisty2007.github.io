@@ -7,7 +7,7 @@ tags:	[linuxcn,Canonical,Ubuntu,整合,操作系统]
 ---
 
 
-![](/Asserts/Images//attachment/album/201403/11/101454y968d8e9bzneeedo.jpg)
+![](/Asserts/Images/album/201403/11/101454y968d8e9bzneeedo.jpg)
 
 
 Canonical通过Ubuntu的发行正在开发一种无需不同版本就能够在不同平台运行的统一的操作系统，这意味着人们通过同一张从[Ubuntu.com](http://www.ubuntu.com/) 下载的iso镜像就可以在桌面，手机，平板甚至电视上运行Ubuntu系统。

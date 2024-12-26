@@ -7,7 +7,7 @@ tags:	[linuxcn,磁盘,测试]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/06/192251yo898kcvcc24cqhp.jpg)
+![](/Asserts/Images/album/201802/06/192251yo898kcvcc24cqhp.jpg)
 
 
 你知道你的硬盘在 Linux 下传输有多快吗？不打开电脑的机箱或者机柜，你知道它运行在 SATA I (150 MB/s) 、 SATA II (300 MB/s) 还是 SATA III (6.0Gb/s) 呢？
@@ -95,7 +95,7 @@ $ dmesg | grep -i sata | grep 'link up'
 
 ```
 
-[![Linux Check IDE SATA SSD Hard Disk Transfer Speed](/Asserts/Images//attachment/album/201802/06/192257w78t9tpt17k7r72k.jpg)](https://www.cyberciti.biz/tips/wp-content/uploads/2007/10/Linux-Check-IDE-SATA-SSD-Hard-Disk-Transfer-Speed.jpg)
+[![Linux Check IDE SATA SSD Hard Disk Transfer Speed](/Asserts/Images/album/201802/06/192257w78t9tpt17k7r72k.jpg)](https://www.cyberciti.biz/tips/wp-content/uploads/2007/10/Linux-Check-IDE-SATA-SSD-Hard-Disk-Transfer-Speed.jpg)
 
 
 ### dd 命令
@@ -179,7 +179,7 @@ dd if=/dev/zero of=/tmp/testALT.img bs=1G count=1 conv=fdatasync
 然后，选择 > 只读:
 
 
-![Fig.01: Linux Benchmarking Hard Disk Read Only Test Speed](/Asserts/Images//attachment/album/201802/06/192257lmuyvttkzzz1zx0v.png "Linux Benchmark Hard Disk Speed")
+![Fig.01: Linux Benchmarking Hard Disk Read Only Test Speed](/Asserts/Images/album/201802/06/192257lmuyvttkzzz1zx0v.png "Linux Benchmark Hard Disk Speed")
 
 
 上述选项不会销毁任何数据。
@@ -191,7 +191,7 @@ dd if=/dev/zero of=/tmp/testALT.img bs=1G count=1 conv=fdatasync
 访问“系统>管理>磁盘实用程序菜单>单击性能测试>单击开始读/写性能测试按钮：
 
 
-![Fig.02:Linux Measuring read rate, write rate and access time](/Asserts/Images//attachment/album/201802/06/192257v48g48fr4vgmrrdb.png "Linux Hard Disk Benchmark Read / Write Rate and Access Time")
+![Fig.02:Linux Measuring read rate, write rate and access time](/Asserts/Images/album/201802/06/192257v48g48fr4vgmrrdb.png "Linux Hard Disk Benchmark Read / Write Rate and Access Time")
 
 
 ### 作者

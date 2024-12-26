@@ -7,10 +7,10 @@ tags:	[linuxcn,AlmaLinux,红帽,AI,电影]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/21/113145gn4vmzpiiub0btun.jpg)
+![](/Asserts/Images/album/202308/21/113145gn4vmzpiiub0btun.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/21/113155b5nkjp3jsrpzvn2n.jpg)
+![](/Asserts/Images/album/202308/21/113155b5nkjp3jsrpzvn2n.jpg)
 
 
 ### AlmaLinux 称红帽封闭 RHEL 源代码对他们是因祸得福
@@ -35,7 +35,7 @@ tags:	[linuxcn,AlmaLinux,红帽,AI,电影]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/21/113207r4ls32glox4oruug.jpg)
+![](/Asserts/Images/album/202308/21/113207r4ls32glox4oruug.jpg)
 
 
 ### 去世多年后，著名演员出演一部新电影
@@ -60,7 +60,7 @@ tags:	[linuxcn,AlmaLinux,红帽,AI,电影]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/21/113233wf4jwbcf9cvqn9w5.jpg)
+![](/Asserts/Images/album/202308/21/113233wf4jwbcf9cvqn9w5.jpg)
 
 
 ### 未来三年 40% 的工人将因人工智能而需要重新掌握技能

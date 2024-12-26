@@ -10,7 +10,7 @@ tags:	[linuxcn,PXE,网络安装,安装,Debian]
 本教程将指引你直接通过使用**DNSMASQ**作为**PXE服务器（预启动执行环境）**，以网络方式安装**Debian 7（Wheezy）**，此种情况是假定你的服务器不提供任何CD/DVD/USB介质驱动器，或者它只能通过相连的监视器、键盘和鼠标操作。
 
 
-![Debian 7 Network Installation on Client Machines](/Asserts/Images//attachment/album/201411/02/144543iay3a7679mz779xg.png)
+![Debian 7 Network Installation on Client Machines](/Asserts/Images/album/201411/02/144543iay3a7679mz779xg.png)
 
 
 *客户机上的Debian 7网络安装*
@@ -40,7 +40,7 @@ tags:	[linuxcn,PXE,网络安装,安装,Debian]
 
 ```
 
-![Install Dnsmasq Package](/Asserts/Images//attachment/album/201411/02/144545lipzz9skvdomk9wo.png)
+![Install Dnsmasq Package](/Asserts/Images/album/201411/02/144545lipzz9skvdomk9wo.png)
 
 
 *安装Dnsmasq包*
@@ -56,7 +56,7 @@ tags:	[linuxcn,PXE,网络安装,安装,Debian]
 
 ```
 
-![Backup Dnsmasq Configuration](/Asserts/Images//attachment/album/201411/02/144546rljuurblu7sq1muz.png)
+![Backup Dnsmasq Configuration](/Asserts/Images/album/201411/02/144546rljuurblu7sq1muz.png)
 
 
 *备份Dnsmasq配置*
@@ -79,7 +79,7 @@ tftp-root=/srv/tftp
 
 ```
 
-![Configuration of Dnsmasq](/Asserts/Images//attachment/album/201411/02/144548hxnhq8ll5i6ihl7n.png)
+![Configuration of Dnsmasq](/Asserts/Images/album/201411/02/144548hxnhq8ll5i6ihl7n.png)
 
 
 *Dnsmasq配置*
@@ -127,7 +127,7 @@ tftp-root=/srv/tftp
 
 ```
 
-![Download Debian NetBoot Files](/Asserts/Images//attachment/album/201411/02/144550xue3b3we1l330w3t.png)
+![Download Debian NetBoot Files](/Asserts/Images/album/201411/02/144550xue3b3we1l330w3t.png)
 
 
 *下载Debian网络启动文件*
@@ -155,7 +155,7 @@ tftp-root=/srv/tftp
 
 ```
 
-![Start Dnsmasq Service](/Asserts/Images//attachment/album/201411/02/144552zwagkh0oxhi96xah.png)
+![Start Dnsmasq Service](/Asserts/Images/album/201411/02/144552zwagkh0oxhi96xah.png)
 
 
 *启动Dnsmasq服务*
@@ -174,7 +174,7 @@ tftp-root=/srv/tftp
 
 ```
 
-![Open Dnsmasq Ports](/Asserts/Images//attachment/album/201411/02/144554aq0aqu6z5eb5moeb.png)
+![Open Dnsmasq Ports](/Asserts/Images/album/201411/02/144554aq0aqu6z5eb5moeb.png)
 
 
 *开启Dnsmasq端口*
@@ -197,7 +197,7 @@ tftp-root=/srv/tftp
 转到**启动菜单**，然后选择**网络启动**作为**首要启动设备**（在某些系统上，你可以不用进入BIOS配置就能选择启动设备，只要在**BIOS自检**时按一个键就可以进行选择了）。
 
 
-![Select BIOS Settings](/Asserts/Images//attachment/album/201411/02/144555kv7vd2a275d4pe24.png)
+![Select BIOS Settings](/Asserts/Images/album/201411/02/144555kv7vd2a275d4pe24.png)
 
 
 *选择BIOS设置*
@@ -209,19 +209,19 @@ tftp-root=/srv/tftp
 接下来，敲击**F8**键来进入，会出现一个新的提示。敲击**回车**键，屏幕上会出现**Debian安装器**主界面提示，如下图所示。
 
 
-![Boot Menu Selection](/Asserts/Images//attachment/album/201411/02/144557qxi4pt6iwibxnmyo.png)
+![Boot Menu Selection](/Asserts/Images/album/201411/02/144557qxi4pt6iwibxnmyo.png)
 
 
 *启动菜单选择*
 
 
-![Select Debian Installer Boot](/Asserts/Images//attachment/album/201411/02/144559m2mydghpkip42pi3.png)
+![Select Debian Installer Boot](/Asserts/Images/album/201411/02/144559m2mydghpkip42pi3.png)
 
 
 *选择Debian安装器启动*
 
 
-![Select Debian Install](/Asserts/Images//attachment/album/201411/02/144601odja17vzj1zm2r1f.png)
+![Select Debian Install](/Asserts/Images/album/201411/02/144601odja17vzj1zm2r1f.png)
 
 
 *选择Debian安装*
@@ -242,7 +242,7 @@ tftp-root=/srv/tftp
 
 ```
 
-![Debug DNSMASQ Server](/Asserts/Images//attachment/album/201411/02/144603khiagrhhonxhzkif.png)
+![Debug DNSMASQ Server](/Asserts/Images/album/201411/02/144603khiagrhhonxhzkif.png)
 
 
 *DNSMASQ服务器排障*
@@ -258,7 +258,7 @@ tftp-root=/srv/tftp
 
 ```
 
-![Enable DNSMASQ Daemon](/Asserts/Images//attachment/album/201411/02/144605jj8epqwlws97zzkg.png)
+![Enable DNSMASQ Daemon](/Asserts/Images/album/201411/02/144605jj8epqwlws97zzkg.png)
 
 
 *启用DNSMASQ守护进程*

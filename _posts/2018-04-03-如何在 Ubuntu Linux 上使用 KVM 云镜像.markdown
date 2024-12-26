@@ -7,7 +7,7 @@ tags:	[linuxcn,KVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/07/113721yqkd8s07s80b00mv.jpg)
+![](/Asserts/Images/album/201804/07/113721yqkd8s07s80b00mv.jpg)
 
 
 如何下载并使用运行在 Ubuntu Linux 服务器上的 KVM 云镜像？如何在 Ubuntu Linux 16.04 LTS 服务器上无需完整安装即可创建虚拟机？如何在 Ubuntu Linux 上使用 KVM 云镜像？
@@ -334,7 +334,7 @@ $ ssh -i ~/.ssh/id_rsa ubuntu@192.168.122.52
 示例输出：
 
 
-[![Connect to the running VM using ssh](/Asserts/Images//attachment/album/201804/07/113727fgybpkpblvlhpy88.jpg)](https://www.cyberciti.biz/media/new/faq/2017/12/connect-to-the-running-VM-using-ssh.jpg)
+[![Connect to the running VM using ssh](/Asserts/Images/album/201804/07/113727fgybpkpblvlhpy88.jpg)](https://www.cyberciti.biz/media/new/faq/2017/12/connect-to-the-running-VM-using-ssh.jpg)
 
 
 一旦创建了 vim，你可以照常使用 `virsh` 命令：

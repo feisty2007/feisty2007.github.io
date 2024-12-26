@@ -15,7 +15,7 @@ tags:	[linuxcn,电子邮件]
 > 
 
 
-![geary email app](/Asserts/Images//attachment/album/202307/21/114234qv03yzqlj0klj0c5.jpg)
+![geary email app](/Asserts/Images/album/202307/21/114234qv03yzqlj0klj0c5.jpg)
 
 
 Geary 是 [Linux 上最好的电子邮件客户端](https://itsfoss.com:443/best-email-clients-linux/) 之一，多年来增加了一些相当不错的更新。
@@ -30,7 +30,7 @@ Geary 是 [Linux 上最好的电子邮件客户端](https://itsfoss.com:443/best
 ### ? Geary 44：有什么新内容？
 
 
-![a screenshot of geary 44's about page](/Asserts/Images//attachment/album/202307/21/114235gogtdzcf732aghff.jpg)
+![a screenshot of geary 44's about page](/Asserts/Images/album/202307/21/114235gogtdzcf732aghff.jpg)
 
 
 Geary 44 是一个相对较小的版本，有两个重要的补充。第一个是**重新设计的标题栏**，第二个是**重新设计的对话列表。**
@@ -39,7 +39,7 @@ Geary 44 是一个相对较小的版本，有两个重要的补充。第一个�
 新的“选择”按钮已添加到搜索按钮附近的标题栏中，并且消息视图工具栏图标的位置已更改。
 
 
-![a screenshot of the inbox view on geary 44](/Asserts/Images//attachment/album/202307/21/114235dir2czcr0c1itgmm.jpg)
+![a screenshot of the inbox view on geary 44](/Asserts/Images/album/202307/21/114235dir2czcr0c1itgmm.jpg)
 
 
 当我们上次查看 Geary 时，它有不同的对话列表布局。但现在，**重新设计的对话列表让邮件阅读体验变得更好**。

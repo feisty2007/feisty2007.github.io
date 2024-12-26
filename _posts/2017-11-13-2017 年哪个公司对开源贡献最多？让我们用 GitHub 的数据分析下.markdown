@@ -7,13 +7,13 @@ tags:	[linuxcn,微软,开源,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/07/122034hfecf9ehgzm9b8gr.png)
+![](/Asserts/Images/album/201711/07/122034hfecf9ehgzm9b8gr.png)
 
 
 在这篇分析报告中，我们将使用 2017 年度截止至当前时间（2017 年 10 月）为止，GitHub 上所有公开的推送事件的数据。对于每个 GitHub 用户，我们将尽可能地猜测其所属的公司。此外，我们仅查看那些今年得到了至少 20 个星标的仓库。
 
 
-以下是我的报告结果，你也可以[在我的交互式 Data Studio 报告上进一步加工](https://Asserts/Images/studio.google.com/open/0ByGAKP3QmCjLU1JzUGtJdTlNOG8)。
+以下是我的报告结果，你也可以[在我的交互式 Data Studio 报告上进一步加工](https://datastudio.google.com/open/0ByGAKP3QmCjLU1JzUGtJdTlNOG8)。
 
 
 ### 顶级云服务商的比较
@@ -28,7 +28,7 @@ tags:	[linuxcn,微软,开源,GitHub]
 * 不是所有的项目都一样：在超过 25% 的仓库上谷歌员工要比微软员工贡献的多，而那些仓库得到了更多的星标（53 万对比 26 万）。亚马逊的仓库 2017 年合计才得到了 2.7 万个星标。
 
 
-![](/Asserts/Images//attachment/album/201711/07/122034f5tw99h51y5hddsh.png)
+![](/Asserts/Images/album/201711/07/122034f5tw99h51y5hddsh.png)
 
 
 ### 红帽、IBM、Pivotal、英特尔和 Facebook
@@ -40,34 +40,34 @@ tags:	[linuxcn,微软,开源,GitHub]
 注意，下表中合并了所有的 IBM 地区域名（各个地区会展示在其后的表格中）。
 
 
-![](/Asserts/Images//attachment/album/201711/07/122035k4yh11ae70jpd76y.png)
+![](/Asserts/Images/album/201711/07/122035k4yh11ae70jpd76y.png)
 
 
-![](/Asserts/Images//attachment/album/201711/07/122035ic481mfat9m8c0mt.png)
+![](/Asserts/Images/album/201711/07/122035ic481mfat9m8c0mt.png)
 
 
 Facebook 和 IBM（美）在 GitHub 上的活跃用户数同亚马逊差不多，但是它们所贡献的项目得到了更多的星标（特别是 Facebook）：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122036ceqobjegdrsczqek.png)
+![](/Asserts/Images/album/201711/07/122036ceqobjegdrsczqek.png)
 
 
 接下来是阿里巴巴、Uber 和 Wix：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122037ii5z910fivatzilt.png)
+![](/Asserts/Images/album/201711/07/122037ii5z910fivatzilt.png)
 
 
 以及 GitHub 自己、Apache 和腾讯：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122037vyzi65o220zw062w.png)
+![](/Asserts/Images/album/201711/07/122037vyzi65o220zw062w.png)
 
 
 百度、苹果和 Mozilla：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122038i9v2uv410001peh0.png)
+![](/Asserts/Images/album/201711/07/122038i9v2uv410001peh0.png)
 
 
 （LCTT 译注：很高兴看到国内的顶级互联网公司阿里巴巴、腾讯和百度在这里排名前列！）
@@ -76,37 +76,37 @@ Facebook 和 IBM（美）在 GitHub 上的活跃用户数同亚马逊差不多�
 甲骨文、斯坦福大学、麻省理工、Shopify、MongoDb、伯克利大学、VmWare、Netflix、Salesforce 和 Gsa.gov：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122038vvojdjnor5me76nn.png)
+![](/Asserts/Images/album/201711/07/122038vvojdjnor5me76nn.png)
 
 
 LinkedIn、Broad Institute、Palantir、雅虎、MapBox、Unity3d、Automattic（WordPress 的开发商）、Sandia、Travis-ci 和 Spotify：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122039s229620c94o2a2h2.png)
+![](/Asserts/Images/album/201711/07/122039s229620c94o2a2h2.png)
 
 
 Chromium、UMich、Zalando、Esri、IBM (英)、SAP、EPAM、Telerik、UK Cabinet Office 和 Stripe：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122040uy9sc26ch2ccnty3.png)
+![](/Asserts/Images/album/201711/07/122040uy9sc26ch2ccnty3.png)
 
 
 Cern、Odoo、Kitware、Suse、Yandex、IBM (加)、Adobe、AirBnB、Chef 和 The Guardian：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122040my0ciooyucyciivo.png)
+![](/Asserts/Images/album/201711/07/122040my0ciooyucyciivo.png)
 
 
 Arm、Macports、Docker、Nuxeo、NVidia、Yelp、Elastic、NYU、WSO2、Mesosphere 和 Inria：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122041fno0e8fe8gl0h0f8.png)
+![](/Asserts/Images/album/201711/07/122041fno0e8fe8gl0h0f8.png)
 
 
 Puppet、斯坦福（计算机科学）、DatadogHQ、Epfl、NTT Data 和 Lawrence Livermore Lab：
 
 
-![](/Asserts/Images//attachment/album/201711/07/122042z8u12010u3930miy.png)
+![](/Asserts/Images/album/201711/07/122042z8u12010u3930miy.png)
 
 
 ### 我的分析方法
@@ -197,10 +197,10 @@ ORDER BY githubers DESC
 我进行了过滤。我只统计了 2017 年的星标。举个例子说，Apache 在 GitHub 上有超过 1500 个仓库，但是今年只有 205 个项目得到了超过 20 个星标。
 
 
-![](/Asserts/Images//attachment/album/201711/07/122042uyvt7yvt0y5vvqv3.png)
+![](/Asserts/Images/album/201711/07/122042uyvt7yvt0y5vvqv3.png)
 
 
-![](/Asserts/Images//attachment/album/201711/07/122043ydlz8fk0coaokrlk.png)
+![](/Asserts/Images/album/201711/07/122043ydlz8fk0coaokrlk.png)
 
 
 #### 这表明了开源的发展形势么？
@@ -224,10 +224,10 @@ SELECT *, REGEXP_REPLACE(REGEXP_EXTRACT(email, r'@(.*)'), r'.*.ibm.com', 'ibm.co
 
 ```
 
-![](/Asserts/Images//attachment/album/201711/07/122044ud4eyqyzbtmdbyce.png)
+![](/Asserts/Images/album/201711/07/122044ud4eyqyzbtmdbyce.png)
 
 
-![](/Asserts/Images//attachment/album/201711/07/122045ei3n20fi3zl11h0n.png)
+![](/Asserts/Images/album/201711/07/122045ei3n20fi3zl11h0n.png)
 
 
 当合并了其地区域名后， IBM 的相对位置明显上升了。
@@ -245,7 +245,7 @@ SELECT *, REGEXP_REPLACE(REGEXP_EXTRACT(email, r'@(.*)'), r'.*.ibm.com', 'ibm.co
 我以前犯过错误，而且以后也可能再次出错。请查看所有的原始数据，并质疑我的前提假设——看看你能得到什么结论是很有趣的。
 
 
-* [用一下交互式 Data Studio 报告](https://Asserts/Images/studio.google.com/open/0ByGAKP3QmCjLU1JzUGtJdTlNOG8)
+* [用一下交互式 Data Studio 报告](https://datastudio.google.com/open/0ByGAKP3QmCjLU1JzUGtJdTlNOG8)
 
 
 感谢 [Ilya Grigorik](https://medium.com/@igrigorik) 保留的 [GitHub Archive](http://githubarchive.org/) 提供了这么多年的 GitHub 数据！

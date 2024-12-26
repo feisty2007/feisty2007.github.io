@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,无人驾驶,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/09/165158xi5zut0si6tuvwiz.jpg)
+![](/Asserts/Images/album/202311/09/165158xi5zut0si6tuvwiz.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/09/165208z1i1kmx7g7uggnox.png)
+![](/Asserts/Images/album/202311/09/165208z1i1kmx7g7uggnox.png)
 
 
 ### Canonical 明年将发布不可变桌面操作系统
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ubuntu,无人驾驶,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/09/165231cm7fowal4mpmqejx.png)
+![](/Asserts/Images/album/202311/09/165231cm7fowal4mpmqejx.png)
 
 
 ### Cruise 称其人类远程协助人员负责 15-20 辆无人驾驶出租车
@@ -60,7 +60,7 @@ tags:	[linuxcn,Ubuntu,无人驾驶,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/09/165250oqjgq1kk6gqga7yc.png)
+![](/Asserts/Images/album/202311/09/165250oqjgq1kk6gqga7yc.png)
 
 
 ### Hugging Face 合作成立初创企业加速器

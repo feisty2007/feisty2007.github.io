@@ -7,7 +7,7 @@ tags:	[linuxcn,PPA]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/02/112157nf11fpwhwa4u1hvf.jpg)
+![](/Asserts/Images/album/202310/02/112157nf11fpwhwa4u1hvf.jpg)
 
 
 
@@ -61,7 +61,7 @@ lsb_release -a
 输出将包含详细信息：
 
 
-![Here, I am using Ubuntu version 23.04 that case codename lunar](/Asserts/Images//attachment/album/202310/02/112221vkx4rx773qr8u8ry.png)
+![Here, I am using Ubuntu version 23.04 that case codename lunar](/Asserts/Images/album/202310/02/112221vkx4rx773qr8u8ry.png)
 
 
 现在，访问托管所有 PPA 的 Ubuntu 的 Launchpad 网站：
@@ -81,7 +81,7 @@ lsb_release -a
 例如，如果 `ppa:jstaf/onedriver` 造成问题，请搜索维护者 `jstaf`。
 
 
-![Enter the PPA's maintainer name and search for it](/Asserts/Images//attachment/album/202310/02/112221cee7ch7e8oqlq57q.png)
+![Enter the PPA's maintainer name and search for it](/Asserts/Images/album/202310/02/112221cee7ch7e8oqlq57q.png)
 
 
 一名维护者可能拥有多个软件仓库。单击你要安装的那个。
@@ -90,7 +90,7 @@ lsb_release -a
 在里，你应该在 “<ruby> 发布于 <rt>  Published in </rt></ruby>” 旁边的下拉按钮选择 “<ruby> 所有系列 <rt>  Any Series </rt></ruby>”。
 
 
-![Click on Any series dropdown button to see the supported Ubuntu versions](/Asserts/Images//attachment/album/202310/02/112221t1a6kax14t7w63e1.png)
+![Click on Any series dropdown button to see the supported Ubuntu versions](/Asserts/Images/album/202310/02/112221t1a6kax14t7w63e1.png)
 
 
 检查你是否看到你正在使用的 Ubuntu 版本的代号。如果不存在，那么此 PPA 不适用于你的 Ubuntu 版本。
@@ -123,7 +123,7 @@ lsb_release -a
 例如，如果我查找 `onedriver` 包，我可以看到它可能在另一个名为 [Ubuntu deployment](https://launchpad.net/~remiariro/+archive/ubuntu/misc) 的 PPA 中可用。
 
 
-![](/Asserts/Images//attachment/album/202310/02/112222kkkm26ky2ly3ex2l.png)
+![](/Asserts/Images/album/202310/02/112222kkkm26ky2ly3ex2l.png)
 
 
 **另一个方式是查看该包是否以其他格式提供，例如 Snap、Flatpak、AppImage。**
@@ -149,13 +149,13 @@ PPA 仓库为你提供 Debian 软件包。添加仓库后，你还可以直接�
 如果你的 Ubuntu 版本的 PPA 没有更新，并且你在其他地方找不到该软件，你可以尝试从 PPA Launchpad 页面下载 deb 软件包。
 
 
-![](/Asserts/Images//attachment/album/202310/02/112222jw37036zzu38n4n7.png)
+![](/Asserts/Images/album/202310/02/112222jw37036zzu38n4n7.png)
 
 
 在包详细信息页面上，单击展开符号并查找 deb 文件。除非你使用类似树莓派的主板，否则你应该选择 amd64。
 
 
-![Download deb package from PPA](/Asserts/Images//attachment/album/202310/02/112222vk2qelzlw6t66a6q.png)
+![Download deb package from PPA](/Asserts/Images/album/202310/02/112222vk2qelzlw6t66a6q.png)
 
 
 

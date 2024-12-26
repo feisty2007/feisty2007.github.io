@@ -28,7 +28,7 @@ tags:	[linuxcn,Linux有问必答,make,automake]
 开发版本常常是通过autogen.sh使用程序源代码生成的，构建过程包括验证程序功能和生成配置脚本。autogen.sh脚本依赖于autoreconf来调用autoconf，automake，aclocal和其它相关工具。
 
 
-![](/Asserts/Images//attachment/album/201409/22/213757gw6wrkf3kw8xzsgs.jpeg)
+![](/Asserts/Images/album/201409/22/213757gw6wrkf3kw8xzsgs.jpeg)
 
 
 丢失的aclocal是automake包的一部分，因此，要修复该错误，请安装以下包。

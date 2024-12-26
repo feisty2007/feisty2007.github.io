@@ -7,7 +7,7 @@ tags:	[linuxcn,Snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/21/100128gzzqkf3fcg3f6q3n.jpg)
+![](/Asserts/Images/album/202210/21/100128gzzqkf3fcg3f6q3n.jpg)
 
 
 Snap 是由 Ubuntu 的母公司 Canonical 设计的通用包格式。有些人不喜欢 Snap，但它有一些优势。
@@ -54,7 +54,7 @@ makepkg -si
 
 ```
 
-![安装 yay](/Asserts/Images//attachment/album/202210/21/100130o26mmzniv62o96on.png)
+![安装 yay](/Asserts/Images/album/202210/21/100130o26mmzniv62o96on.png)
 
 
 现在 `yay` 已安装，你可以通过以下方式安装 `snapd`：
@@ -66,7 +66,7 @@ yay -Sy snapd
 
 ```
 
-![使用 yay 从 AUR 安装 snapd](/Asserts/Images//attachment/album/202210/21/100130gjp8yhnd8wykkk8s.png)
+![使用 yay 从 AUR 安装 snapd](/Asserts/Images/album/202210/21/100130gjp8yhnd8wykkk8s.png)
 
 
 每当你 [更新 Arch Linux](https://itsfoss.com/update-arch-linux/) 系统时，`yay` 都会启用 `snapd` 的自动更新。
@@ -88,7 +88,7 @@ sudo snap run hello-world
 
 ```
 
-![hello-world Snap 包执行](/Asserts/Images//attachment/album/202210/21/100130afak0044qtst72zx.png)
+![hello-world Snap 包执行](/Asserts/Images/album/202210/21/100130afak0044qtst72zx.png)
 
 
 如果它运行良好，那么你可以轻松安装其他 Snap 包。
@@ -109,7 +109,7 @@ sudo pacman -Sy git go go-tools python-docutils
 
 ```
 
-![为 Snap 安装依赖项](/Asserts/Images//attachment/album/202210/21/100131l6m344g7ny39r6nt.png)
+![为 Snap 安装依赖项](/Asserts/Images/album/202210/21/100131l6m344g7ny39r6nt.png)
 
 
 完成依赖项安装后，现在可以克隆 `snapd` 的 AUR 目录，如下所示：
@@ -123,7 +123,7 @@ cd snapd
 
 ```
 
-![克隆仓库](/Asserts/Images//attachment/album/202210/21/100131e2o0s2xvx86n7l2x.png)
+![克隆仓库](/Asserts/Images/album/202210/21/100131e2o0s2xvx86n7l2x.png)
 
 
 然后构建 `snapd` 包：
@@ -138,7 +138,7 @@ makepkg -si
 当它要求安装其他依赖包时输入 `yes`。
 
 
-![手动构建 snapd](/Asserts/Images//attachment/album/202210/21/100131h2kqfbtpjf9usnqa.png)
+![手动构建 snapd](/Asserts/Images/album/202210/21/100131h2kqfbtpjf9usnqa.png)
 
 
 你已安装 `snapd` 守护程序。但是，需要启用它以在启动时自动启动。
@@ -154,7 +154,7 @@ sudo ln -s /var/lib/snapd/snap /snap #optional: classic snap support
 
 ```
 
-![启动时启用 Snap](/Asserts/Images//attachment/album/202210/21/100132m3qs3443z33022q2.png)
+![启动时启用 Snap](/Asserts/Images/album/202210/21/100132m3qs3443z33022q2.png)
 
 
 手动构建包的主要缺点是每次新更新启动时你都必须手动构建。使用 AUR 助手为我们解决了这个问题。

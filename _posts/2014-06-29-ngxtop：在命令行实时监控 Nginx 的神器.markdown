@@ -99,7 +99,7 @@ $ ngxtop -n 20
 
 ```
 
-![](/Asserts/Images//attachment/album/201406/16/133347yossqqn79yj4xdzr.jpg)
+![](/Asserts/Images/album/201406/16/133347yossqqn79yj4xdzr.jpg)
 
 
 获取Nginx基本信息：
@@ -111,7 +111,7 @@ $ ngxtop info
 
 ```
 
-![](/Asserts/Images//attachment/album/201406/16/133349me6x7pa71tg7chy3.jpg)
+![](/Asserts/Images/album/201406/16/133349me6x7pa71tg7chy3.jpg)
 
 
 你可以自定义显示的变量，简单列出需要显示的变量。使用 "print" 命令显示自定义请求。
@@ -123,7 +123,7 @@ $ ngxtop print request http_user_agent remote_addr
 
 ```
 
-![](/Asserts/Images//attachment/album/201406/16/133352ht00nx7fnz07fvq0.jpg)
+![](/Asserts/Images/album/201406/16/133352ht00nx7fnz07fvq0.jpg)
 
 
 显示请求最多的客户端IP地址
@@ -135,7 +135,7 @@ $ ngxtop top remote_addr
 
 ```
 
-![](/Asserts/Images//attachment/album/201406/16/133354fypepynimipnnyyv.jpg)
+![](/Asserts/Images/album/201406/16/133354fypepynimipnnyyv.jpg)
 
 
 显示状态码是404的请求
@@ -147,7 +147,7 @@ $ ngxtop -i 'status == 404' print request status
 
 ```
 
-![](/Asserts/Images//attachment/album/201406/16/133357orc6q1voa44v65vg.jpg)
+![](/Asserts/Images/album/201406/16/133357orc6q1voa44v65vg.jpg)
 
 
 除了Nginx，ngtop 还可以处理其他的日志文件，比如 Apache 的访问文件。使用以下命令监控 Apache 服务器:

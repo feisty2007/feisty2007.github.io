@@ -24,7 +24,7 @@ GNU C库（glibc）是标准C库的GNU实现。glibc是GNU工具链的关键组�
 这里介绍几种简单的方法，方便你检查Linux上的glibc版本。
 
 
-![](/Asserts/Images//attachment/album/201411/27/213309wsz6so4w31b44oyn.jpg)
+![](/Asserts/Images/album/201411/27/213309wsz6so4w31b44oyn.jpg)
 
 
 ### 方法一
@@ -39,7 +39,7 @@ $ ldd --version
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/27/213350rfwa9zfr5z5urzuz.jpg)
+![](/Asserts/Images/album/201411/27/213350rfwa9zfr5z5urzuz.jpg)
 
 
 在本例中，**glibc**版本是**2.19**。
@@ -93,7 +93,7 @@ $ /lib/libc.so.6
 下图中是输入glibc库后的输出结果样例。
 
 
-![](/Asserts/Images//attachment/album/201411/27/213354ak5czcjrezexpc1c.jpg)
+![](/Asserts/Images/album/201411/27/213354ak5czcjrezexpc1c.jpg)
 
 
 

@@ -21,7 +21,7 @@ MySQl主要使用两种存储引擎：**MyISAM 和 Innodb**。MyISAM是非事务
 如果你想要知道已经存在的MySQL数据表的类型，这里有几种方法达到。
 
 
-![](/Asserts/Images//attachment/album/201407/23/154806r2xpk2wwclcwfw2d.jpeg)
+![](/Asserts/Images/album/201407/23/154806r2xpk2wwclcwfw2d.jpeg)
 
 
 ### 方法一
@@ -30,7 +30,7 @@ MySQl主要使用两种存储引擎：**MyISAM 和 Innodb**。MyISAM是非事务
 如果你可以访问phpMyAdmin，你可以从phpMyAdmin找出默认的数据库类型。从phpMyAdmin中选中数据库来查看它的表列表。在“Type”一列的下面，你会看到每个表的数据表类型。
 
 
-![](/Asserts/Images//attachment/album/201407/23/154819t9l928ur58vrzrk7.jpg)
+![](/Asserts/Images/album/201407/23/154819t9l928ur58vrzrk7.jpg)
 
 
 ### 方法二
@@ -63,7 +63,7 @@ $ mysqlshow -u <mysql_user> -p -i <database-name>
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/23/154836il0kqlz8pl2m0qlh.jpg)
+![](/Asserts/Images/album/201407/23/154836il0kqlz8pl2m0qlh.jpg)
 
 
 

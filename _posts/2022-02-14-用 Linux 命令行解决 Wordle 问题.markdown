@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏,grep]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/08/122231xjp7p87y6pri8kp0.jpg "Linux keys on the keyboard for a desktop computer")
+![](/Asserts/Images/album/202202/08/122231xjp7p87y6pri8kp0.jpg "Linux keys on the keyboard for a desktop computer")
 
 
 
@@ -55,7 +55,7 @@ $ wc -l myguess
 从这个列表中，我随机挑选了一个五个字母的单词：`acres`。`a` 被设置为黄色，意味着该字母存在于神秘单词的某处，但不在第一位置。其他字母是灰色的，所以我知道它们并不存在于今天的单词中。
 
 
-![acres word attempt](/Asserts/Images//attachment/album/202202/08/121439skac6467c00p4e52.png "acres word attempt")
+![acres word attempt](/Asserts/Images/album/202202/08/121439skac6467c00p4e52.png "acres word attempt")
 
 
 ### 第二次尝试
@@ -117,7 +117,7 @@ $ wc -l myguess myguess2
 在查看了这个列表后，我决定尝试一下 `balmy` 这个词。
 
 
-![balmy word attempt](/Asserts/Images//attachment/album/202202/08/121440pluqoifa0peuf80j.png "balmy word attempt")
+![balmy word attempt](/Asserts/Images/album/202202/08/121440pluqoifa0peuf80j.png "balmy word attempt")
 
 
 ### 第三次尝试
@@ -189,7 +189,7 @@ baulk
 我选择 `banal` 作为我下一次猜测的可能的词，而这恰好是正确的。
 
 
-![banal word attempt](/Asserts/Images//attachment/album/202202/08/121440u3qadwak7q7h5aca.png "banal word attempt")
+![banal word attempt](/Asserts/Images/album/202202/08/121440u3qadwak7q7h5aca.png "banal word attempt")
 
 
 ### 正则表达式的力量

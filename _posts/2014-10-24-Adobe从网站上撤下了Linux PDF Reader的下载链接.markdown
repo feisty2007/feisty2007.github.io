@@ -7,7 +7,7 @@ tags:	[linuxcn,Adobe,PDF]
 ---
 
 
-![Linux上的其他PDF解决方案](/Asserts/Images//attachment/album/201410/10/204128sm3wfm3odonfonzn.jpg)
+![Linux上的其他PDF解决方案](/Asserts/Images/album/201410/10/204128sm3wfm3odonfonzn.jpg)
 **由于该公司从网站上撤下了软件的下载链接，因此这对于任何需要在Linux上使用Adobe这家公司的PDF阅读器的人而言有些麻烦了。**
 
 

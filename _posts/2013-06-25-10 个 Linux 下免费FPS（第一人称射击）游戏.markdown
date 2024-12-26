@@ -13,8 +13,8 @@ tags:	[linuxcn,游戏,Linux,FPS]
 　　Urban Terro 是一个免费的第一人称射击游戏，由 ForzenSand 公司开发，可同时运行在 Windows 和 Linux 上。游戏的特色是写实性的战术射击游戏。
 
 
-[![](/Asserts/Images//attachment/album/201306/19/110249551524fvzhb1ht4q.jpg)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201306/19/110249551524fvzhb1ht4q.jpg)
+[![](/Asserts/Images/album/201306/19/110249551524fvzhb1ht4q.jpg)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201306/19/110249551524fvzhb1ht4q.jpg)
 
 
 计算机配置需求：  
@@ -35,8 +35,8 @@ tags:	[linuxcn,游戏,Linux,FPS]
 　　OpenArena 是一个跨平台第一人称射击一游戏，基于 GPL 协议开放源代码。游戏中有多种有些模式：竞标赛、血战到底等等。
 
 
-[![](/Asserts/Images//attachment/album/201306/19/11025399115gok5c71sk1p.jpg)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201306/19/11025399115gok5c71sk1p.jpg)
+[![](/Asserts/Images/album/201306/19/11025399115gok5c71sk1p.jpg)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201306/19/11025399115gok5c71sk1p.jpg)
 
 
 * [游戏网站](http://www.openarena.ws/smfnews.php)
@@ -49,8 +49,8 @@ tags:	[linuxcn,游戏,Linux,FPS]
 　　nexuiz 是一个快节奏的第一人称射击游戏，可以通过局域网或互联网联机。游戏画面可以按硬件的实际情况来具体调整，以达到性能和表现的合适程度。GNU GPL 协议发行。
 
 
-[![](/Asserts/Images//attachment/album/201306/19/1102564oqfruyw6qwmdumm.jpg)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201306/19/1102564oqfruyw6qwmdumm.jpg)
+[![](/Asserts/Images/album/201306/19/1102564oqfruyw6qwmdumm.jpg)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201306/19/1102564oqfruyw6qwmdumm.jpg)
 
 
 * [游戏网站](http://www.nexuiz.com/)
@@ -63,7 +63,7 @@ tags:	[linuxcn,游戏,Linux,FPS]
 　　AssaultCube 是一个免费的多人第一人称射击游戏。跨平台开源的。它支持单人游戏系统。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201306/19/1102591qfvno2xx2osqqsv.jpg](/Asserts/Images//attachment/album/201306/19/1102591qfvno2xx2osqqsv.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201306/19/1102591qfvno2xx2osqqsv.jpg](/Asserts/Images/album/201306/19/1102591qfvno2xx2osqqsv.jpg)
 
 
 * [游戏网站](http://assault.cubers.net/)
@@ -123,8 +123,8 @@ tags:	[linuxcn,游戏,Linux,FPS]
 ### 10. Cube 2:Sauerbraten
 
 
-[![](/Asserts/Images//attachment/album/201306/19/1103035o054420b8fb6xga.jpg)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201306/19/1103035o054420b8fb6xga.jpg)
+[![](/Asserts/Images/album/201306/19/1103035o054420b8fb6xga.jpg)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201306/19/1103035o054420b8fb6xga.jpg)
 
 
 * [游戏网站](http://sauerbraten.org/)

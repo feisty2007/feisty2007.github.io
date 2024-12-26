@@ -7,7 +7,7 @@ tags:	[linuxcn,raw]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/15/100616o54wb5h4aqgmq4qe.jpg)
+![](/Asserts/Images/album/202102/15/100616o54wb5h4aqgmq4qe.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,raw]
 ### Filmulator 的功能
 
 
-![Filmulator interface](/Asserts/Images//attachment/album/202102/15/100635mzvtrfy666w6otwr.jpg)
+![Filmulator interface](/Asserts/Images/album/202102/15/100635mzvtrfy666w6otwr.jpg)
 
 
 Filmulator 宣称，它不是典型的“胶片效果滤镜” —— 这只是复制了胶片的外在特征。相反，Filmulator 从根本上解决了胶片的魅力所在：显影过程。
@@ -54,10 +54,10 @@ Fimulator 开发者表示，这种模拟带来了以下好处：
 以下是经 Filmulator 处理后的 raw 图像的对比，以自然的方式增强色彩，而不会引起色彩剪切。
 
 
-![原图](/Asserts/Images//attachment/album/202102/15/100635gawananncy2y9w2n.jpg)
+![原图](/Asserts/Images/album/202102/15/100635gawananncy2y9w2n.jpg)
 
 
-![处理后](/Asserts/Images//attachment/album/202102/15/100635kgggzfuypuagop1u.jpg)
+![处理后](/Asserts/Images/album/202102/15/100635kgggzfuypuagop1u.jpg)
 
 
 ### 在 Ubuntu/Linux 上安装 Filmulator

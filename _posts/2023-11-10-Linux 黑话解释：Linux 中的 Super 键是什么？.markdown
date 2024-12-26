@@ -7,7 +7,7 @@ tags:	[linuxcn,黑话,Super]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/21/211946e9resh69paphei8i.png)
+![](/Asserts/Images/album/202311/21/211946e9resh69paphei8i.png)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,黑话,Super]
 如果你使用的是苹果电脑，那么带有 `⌘` 符号的 `command` 键就是你的 `Super` 键。
 
 
-![下面这个就是你的 Super 键（或者 Meta 键）](/Asserts/Images//attachment/album/202311/21/212050b83tz86v0zs8qvxs.jpg)
+![下面这个就是你的 Super 键（或者 Meta 键）](/Asserts/Images/album/202311/21/212050b83tz86v0zs8qvxs.jpg)
 
 
 很简单吧？
@@ -60,7 +60,7 @@ tags:	[linuxcn,黑话,Super]
 当你在 Ubuntu 桌面上按下 `Super` 键时，它会显示活动概览，让你全面了解每个窗口正在进行的活动：
 
 
-![在 Ubuntu 中按下 Super 键获得活动概览](/Asserts/Images//attachment/album/202311/21/212052znb9kf4wrhnrhwdr.png)
+![在 Ubuntu 中按下 Super 键获得活动概览](/Asserts/Images/album/202311/21/212052znb9kf4wrhnrhwdr.png)
 
 
 但你要知道，除了预览正在进行的活动，你其实还可以做更多。
@@ -69,7 +69,7 @@ tags:	[linuxcn,黑话,Super]
 比如，你可以同时按下 `Super` 键和 `Tab` 键，调出应用切换器，从而在正在运行的应用之间切换。
 
 
-![](/Asserts/Images//attachment/album/202311/21/212053q3rjlrrrjq1r9rn6.png)
+![](/Asserts/Images/album/202311/21/212053q3rjlrrrjq1r9rn6.png)
 
 
 下面列举了一些可以利用 `Super` 键的快捷键（在 Ubuntu 23.10 内部测试通过）：

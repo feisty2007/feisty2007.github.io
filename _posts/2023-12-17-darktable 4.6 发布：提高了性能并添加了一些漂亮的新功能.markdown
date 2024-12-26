@@ -7,7 +7,7 @@ tags:	[linuxcn,darktable]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/26/145937ucq9q49q9cyq3q5a.jpg)
+![](/Asserts/Images/album/202312/26/145937ucq9q49q9cyq3q5a.jpg)
 
 
 
@@ -27,7 +27,7 @@ tags:	[linuxcn,darktable]
 ### ? darktable 4.6：有什么新变化？
 
 
-![](/Asserts/Images//attachment/album/202312/26/150003q9b4bzfa4s0wo999.png)
+![](/Asserts/Images/album/202312/26/150003q9b4bzfa4s0wo999.png)
 
 
 作为一个新功能版本，darktable 4.6 装满了功能。但在本文中，我们将仅关注**此版本的亮点**。

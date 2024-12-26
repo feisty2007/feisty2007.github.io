@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu Unity,GitHub,DID]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/02/182107yxncg1sqnw04fs2f.jpg)
+![](/Asserts/Images/album/202207/02/182107yxncg1sqnw04fs2f.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/02/182120fuyj66uupx6zhru4.jpg)
+![](/Asserts/Images/album/202207/02/182120fuyj66uupx6zhru4.jpg)
 
 
 ### 数年后 Ubuntu Unity 桌面起死回生
@@ -35,7 +35,7 @@ Ubuntu 的 Unity 桌面已经很久没有更新了，上一次它还是 Ubuntu 1
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/02/182130ikxi5ese3ibix5p4.jpg)
+![](/Asserts/Images/album/202207/02/182130ikxi5ese3ibix5p4.jpg)
 
 
 ### 软件自由保护协会抨击 GitHub
@@ -60,7 +60,7 @@ Ubuntu 的 Unity 桌面已经很久没有更新了，上一次它还是 Ubuntu 1
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/02/182144d2zyyanlmhw7lpwp.jpg)
+![](/Asserts/Images/album/202207/02/182144d2zyyanlmhw7lpwp.jpg)
 
 
 ### 无视谷歌、Mozilla 反对，万维网联盟发布了 DID 规范

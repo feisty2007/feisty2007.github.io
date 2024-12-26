@@ -15,7 +15,7 @@ tags:	[linuxcn,GitHub,文档]
 > 
 
 
-![](/Asserts/Images//attachment/album/202009/01/211718hws6rvvziks2zrkc.jpg)
+![](/Asserts/Images/album/202009/01/211718hws6rvvziks2zrkc.jpg)
 
 
 文档是帮助用户使用开源项目一个重要部分，但它并不总是开发人员的首要任务，因为他们可能更关注的是使他们的应用程序更好，而不是帮助人们使用它。对开发者来说，这就是为什么让发布文档变得更容易是如此有价值的原因。在本教程中，我将向你展示一个这样做的方式：将 [Docsify](https://docsify.js.org) 文档生成器与 [GitHub Pages](https://pages.github.com/) 结合起来。
@@ -27,7 +27,7 @@ tags:	[linuxcn,GitHub,文档]
 幸运的是，GitHub Pages 支持 HTML 文件，这意味着你可以使用其他网站生成工具（比如 Docsify）在这个平台上创建一个网站。Docsify 是一个采用 MIT 许可证的开源项目，其具有可以让你在 GitHub Pages 上轻松创建一个有吸引力的、先进的文档网站的[功能](https://docsify.js.org/#/?id=features)。
 
 
-![Docsify](/Asserts/Images//attachment/album/202009/01/211845calidsjschlyqayc.jpg "Docsify")
+![Docsify](/Asserts/Images/album/202009/01/211845calidsjschlyqayc.jpg "Docsify")
 
 
 ### 开始使用 Docsify
@@ -92,7 +92,7 @@ git clone https://github.com/bryantson/OpensourceDotComDemos
 如果你克隆了我的 [GitHub 存储库](https://github.com/bryantson/OpensourceDotComDemos)，并切换到 `DocsifyDemo` 目录下，你应该看到这样的文件结构：
 
 
-![File contents in the cloned GitHub](/Asserts/Images//attachment/album/202009/01/211733ohtkwxyy7zir00ld.jpg "File contents in the cloned GitHub")
+![File contents in the cloned GitHub](/Asserts/Images/album/202009/01/211733ohtkwxyy7zir00ld.jpg "File contents in the cloned GitHub")
 
 
 
@@ -182,7 +182,7 @@ Docsify 使用[单页应用](https://en.wikipedia.org/wiki/Single-page_applicati
 
 
 * `el` 属性基本上是说：“嘿，这就是我要找的 `id`，所以找到它并在那里呈现。”
-* 改变 `repo` 值，以确定当用户点击右上角的 GitHub 图标时，会被重定向到哪个页面。 ![GitHub icon](/Asserts/Images//attachment/album/202009/01/211740e0hehusdaes51uko.jpg "GitHub icon")
+* 改变 `repo` 值，以确定当用户点击右上角的 GitHub 图标时，会被重定向到哪个页面。 ![GitHub icon](/Asserts/Images/album/202009/01/211740e0hehusdaes51uko.jpg "GitHub icon")
 * 将 `loadSideBar` 设置为 `true` 将使 Docsify 查找包含导航链接的 `_sidebar.md` 文件。
 
 
@@ -238,37 +238,37 @@ $ git push
 设置你的 GitHub Pages 页面。在你的新 GitHub 存储库中，点击 “Settings”：
 
 
-![Settings link in GitHub](/Asserts/Images//attachment/album/202009/01/211746nq5xwmqju5w5exhm.jpg "Settings link in GitHub")
+![Settings link in GitHub](/Asserts/Images/album/202009/01/211746nq5xwmqju5w5exhm.jpg "Settings link in GitHub")
 
 
 向下滚动直到看到 “GitHub Pages”：
 
 
-![GitHub Pages settings](/Asserts/Images//attachment/album/202009/01/211749csyctzgf5yk558vt.jpg "GitHub Pages settings")
+![GitHub Pages settings](/Asserts/Images/album/202009/01/211749csyctzgf5yk558vt.jpg "GitHub Pages settings")
 
 
 查找 “Source” 部分：
 
 
-![GitHub Pages settings](/Asserts/Images//attachment/album/202009/01/211753ayqw661zv67wvyuq.jpg "GitHub Pages settings")
+![GitHub Pages settings](/Asserts/Images/album/202009/01/211753ayqw661zv67wvyuq.jpg "GitHub Pages settings")
 
 
 点击 “Source” 下的下拉菜单。通常，你会将其设置为 “master branch”，但如果你愿意，也可以使用其他分支：
 
 
-![Setting Source to master branch](/Asserts/Images//attachment/album/202009/01/211802asyeeef6cfesfelo.jpg "Setting Source to master branch")
+![Setting Source to master branch](/Asserts/Images/album/202009/01/211802asyeeef6cfesfelo.jpg "Setting Source to master branch")
 
 
 就是这样！你现在应该有一个链接到你的 GitHub Pages 的页面了。点击该链接将带你到那里，然后用 Docsify 渲染：
 
 
-![Link to GitHub Pages docs site](/Asserts/Images//attachment/album/202009/01/211811h8uzmg37pyyxrvjp.jpg "Link to GitHub Pages docs site")
+![Link to GitHub Pages docs site](/Asserts/Images/album/202009/01/211811h8uzmg37pyyxrvjp.jpg "Link to GitHub Pages docs site")
 
 
 它应该像这样：
 
 
-![Example Docsify site on GitHub Pages](/Asserts/Images//attachment/album/202009/01/211815srz8lrege58eqom7.jpg "Example Docsify site on GitHub Pages")
+![Example Docsify site on GitHub Pages](/Asserts/Images/album/202009/01/211815srz8lrege58eqom7.jpg "Example Docsify site on GitHub Pages")
 
 
 ### 结论

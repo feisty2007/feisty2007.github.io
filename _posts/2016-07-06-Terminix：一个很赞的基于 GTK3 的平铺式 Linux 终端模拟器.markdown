@@ -13,7 +13,7 @@ tags:	[linuxcn,Terminix,终端]
 但是，很多时候，我们会很难根据我们的喜好来找到一款心仪的日常使用的终端模拟器。这篇文章中，我们将会推荐一款叫做 Terminix 的令人激动的终端模拟机。
 
 
-![](/Asserts/Images//attachment/album/201607/24/190250x0lzdaq3l5i5duqe.png)
+![](/Asserts/Images/album/201607/24/190250x0lzdaq3l5i5duqe.png)
 
 
 *Terminix Linux 终端模拟器*
@@ -128,19 +128,19 @@ OpenSUSE 用户可以从默认仓库中安装 Terminix，Arch Linux 用户也可
 ### Terminix 截图教程
 
 
-![](/Asserts/Images//attachment/album/201607/24/190251rzbzpkfgkeefjwks.png)
+![](/Asserts/Images/album/201607/24/190251rzbzpkfgkeefjwks.png)
 
 
 *Terminix 终端*
 
 
-![](/Asserts/Images//attachment/album/201607/24/190251foaork76jtm006dm.png)
+![](/Asserts/Images/album/201607/24/190251foaork76jtm006dm.png)
 
 
 *Terminix 终端设置*
 
 
-![](/Asserts/Images//attachment/album/201607/24/190252qz8bzhugg30y68bu.png)
+![](/Asserts/Images/album/201607/24/190252qz8bzhugg30y68bu.png)
 
 
 *Terminix 多终端界面*

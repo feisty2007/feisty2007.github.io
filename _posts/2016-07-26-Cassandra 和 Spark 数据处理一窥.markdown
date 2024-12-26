@@ -7,7 +7,7 @@ tags:	[linuxcn,Cassandra,Spark,大数据]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/17/173519rnwddn2d85c5hc0h.png)
+![](/Asserts/Images/album/201607/17/173519rnwddn2d85c5hc0h.png)
 
 
 Apache Cassandra 数据库近来引起了很多的兴趣，这主要源于现代云端软件对于可用性及性能方面的要求。
@@ -25,7 +25,7 @@ Cassandra 于2010年成为了 Apache 软件基金会的顶级项目，并从此�
 我们能猜到你现在在想什么，“但我只有关系数据库相关背景，难道这样的转变不会很困难吗？”这问题的答案介于是和不是之间。使用 Cassandra 建立数据模型对有关系数据库背景的开发者而言是轻车熟路。我们使用表格来建立数据模型，并使用 CQL （ Cassandra 查询语言）来查询数据库。然而，与 SQL 不同的是，Cassandra 支持更加复杂的数据结构，例如嵌套和用户自定义类型。举个例子，当要储存对一个小猫照片的点赞数目时，我们可以将整个数据储存在一个包含照片本身的集合之中从而获得更快的顺序查找而不是建立一个独立的表。这样的表述在 CQL 中十分的自然。在我们照片表中，我们需要记录名字，URL以及给此照片点赞过的人。
 
 
-![](/Asserts/Images//attachment/album/201607/17/173520yz35pc4mte4p7ctu.png)
+![](/Asserts/Images/album/201607/17/173520yz35pc4mte4p7ctu.png)
 
 
 在一个高性能系统中，毫秒级处理都能对用户体验和客户维系产生影响。昂贵的 JOIN 操作制约了我们通过增加不可预见的网络调用而扩容的能力。当我们将数据反范式化使其能通过尽可能少的请求就可获取时，我们即可从磁盘空间成本的降低中获益并获得可预期的、高性能应用。我们将反范式化同 Cassandra 一同介绍是因为它提供了很有吸引力的的折衷方案。
@@ -40,7 +40,7 @@ Cassandra 于2010年成为了 Apache 软件基金会的顶级项目，并从此�
 Spark 是大数据变革中的下一步。 Hadoop 和 MapReduce 都是革命性的产品，它们让大数据界获得了分析所有我们所取得的数据的机会。Spark 对性能的大幅提升及对代码复杂度的大幅降低则将大数据分析提升到了另一个高度。通过 Spark，我们能大批量的处理计算，对流处理进行快速反应，通过机器学习作出决策，并通过图遍历来理解复杂的递归关系。这并非只是为你的客户提供与快捷可靠的应用程序连接（Cassandra 已经提供了这样的功能），这更是能洞悉 Canssandra 所储存的数据，作出更加合理的商业决策并同时更好地满足客户需求。
 
 
-你可以看看 [Spark-Cassandra Connector](https://github.com/Asserts/Images/stax/spark-cassandra-connector) (开源) 并动手试试。若想了解更多关于这两种技术的信息，我们强烈推荐名为 [DataStax Academy](https://academy.datastax.com/) 的自学课程
+你可以看看 [Spark-Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) (开源) 并动手试试。若想了解更多关于这两种技术的信息，我们强烈推荐名为 [DataStax Academy](https://academy.datastax.com/) 的自学课程
 
 
 

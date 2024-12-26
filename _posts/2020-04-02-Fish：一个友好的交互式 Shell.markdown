@@ -7,7 +7,7 @@ tags:	[linuxcn,Fish,shell,Bash]
 ---
 
 
-![Fish — A Friendly Interactive Shell](/Asserts/Images//attachment/album/202004/03/214403wr6sd4fdld6gul6r.jpg)
+![Fish — A Friendly Interactive Shell](/Asserts/Images/album/202004/03/214403wr6sd4fdld6gul6r.jpg)
 
 
 你是否正在寻找 bash 的替代品？你是否在寻找更人性化的东西？不用再看了，因为你刚发现了 fish！
@@ -103,13 +103,13 @@ fish 的用户配置文件在 `~/.config/fish/config.fish`。要更改所有用�
 将 fish 配置为默认 shell 程序后，命令提示符将类似于下图所示。如果尚未将 fish 配置为默认 shell，只需运行 `fish` 命令以在当前终端会话中启动。
 
 
-![](/Asserts/Images//attachment/album/202004/03/214403c2xxq31x3o1o2192.png)
+![](/Asserts/Images/album/202004/03/214403c2xxq31x3o1o2192.png)
 
 
 在你开始输入命令时，你会注意到语法高亮显示：
 
 
-![](/Asserts/Images//attachment/album/202004/03/214404av4mcisn1cpymium.png)
+![](/Asserts/Images/album/202004/03/214404av4mcisn1cpymium.png)
 
 
 很酷，不是吗？?
@@ -118,7 +118,7 @@ fish 的用户配置文件在 `~/.config/fish/config.fish`。要更改所有用�
 你还将在输入时看到建议的命令。例如，再次开始输入上一个命令：
 
 
-![](/Asserts/Images//attachment/album/202004/03/214404d2tslhgmlhxittdy.png)
+![](/Asserts/Images/album/202004/03/214404d2tslhgmlhxittdy.png)
 
 
 注意输入时出现的灰色文本。灰色文本显示建议之前编写的命令。要自动补全，只需按 `CTRL+F`。
@@ -127,7 +127,7 @@ fish 的用户配置文件在 `~/.config/fish/config.fish`。要更改所有用�
 通过输入连接号（`–`）然后使用 `TAB` 键，它会根据前面命令的手册页获取参数建议：
 
 
-![](/Asserts/Images//attachment/album/202004/03/214404uz8klm8uxtulcq18.png)
+![](/Asserts/Images/album/202004/03/214404uz8klm8uxtulcq18.png)
 
 
 如果你按一次 `TAB`，它将显示前几个建议（或所有建议，如果只有少量参数可用）。如果再次按 `TAB`，它将显示所有建议。如果连续三次按 `TAB`，它将切换到交互模式，你可以使用箭头键选择一个参数。
@@ -186,7 +186,7 @@ Fish 的 powerline 插件是 [bobthefish](https://github.com/oh-my-fish/theme-bo
 现在你可以通过 powerline 体验 fish 的全部奇妙之处：
 
 
-![](/Asserts/Images//attachment/album/202004/03/214405ql4e7i70vbp5lurd.png)
+![](/Asserts/Images/album/202004/03/214405ql4e7i70vbp5lurd.png)
 
 
 ### 更多资源

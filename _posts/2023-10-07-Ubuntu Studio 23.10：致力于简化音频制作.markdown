@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu Studio,Ubuntu 23.10]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/17/091121v09u1105s09olbbm.jpg)
+![](/Asserts/Images/album/202310/17/091121v09u1105s09olbbm.jpg)
 
 
 
@@ -35,7 +35,7 @@ Ubuntu 的新版本如同雨后的春笋般持续涌现！☔ 其中一款新版
 ### ? Ubuntu Studio 23.04: 新增了哪些特性？
 
 
-![](/Asserts/Images//attachment/album/202310/17/091148j54nnxec6nc5gbd8.jpg)
+![](/Asserts/Images/album/202310/17/091148j54nnxec6nc5gbd8.jpg)
 
 
 对于那些刚接触的朋友，[Ubuntu Studio](https://ubuntustudio.org/) 是针对 **内容创作者**特制的官方 [Ubuntu 发行版](https://ubuntu.com/desktop/flavours)。
@@ -57,7 +57,7 @@ Ubuntu Studio 的这个版本基于 Ubuntu 23.10 发行版，进行了一些关�
 #### KDE Plasma 的升级提升
 
 
-![](/Asserts/Images//attachment/album/202310/17/091149kupuqdon2ok92kwq.jpg)
+![](/Asserts/Images/album/202310/17/091149kupuqdon2ok92kwq.jpg)
 
 
 Ubuntu Studio 23.10 带有新的 **KDE Plasma 5.27.8** 桌面环境，以及新的翻译、各种修复，和三个关键的问题修复：
@@ -77,13 +77,13 @@ Ubuntu Studio 23.10 带有新的 **KDE Plasma 5.27.8** 桌面环境，以及新�
 Ubuntu Studio 的安装工具现在包括了一个音频配置向导，让系统级音频设置更为方便。
 
 
-![](/Asserts/Images//attachment/album/202310/17/091149qze45f4r5kpe4k1a.png)
+![](/Asserts/Images/album/202310/17/091149qze45f4r5kpe4k1a.png)
 
 
 你可以根据自己的需求，调整音频的延迟和采样率。
 
 
-![](/Asserts/Images//attachment/album/202310/17/091150mozqe88otkkd6nd8.png)
+![](/Asserts/Images/album/202310/17/091150mozqe88otkkd6nd8.png)
 
 
 这个功能对于使用 Ubuntu Studio 进行音频制作的创作者会特别实用。
@@ -92,7 +92,7 @@ Ubuntu Studio 的安装工具现在包括了一个音频配置向导，让系统
 #### 全新壁纸
 
 
-![](/Asserts/Images//attachment/album/202310/17/091150j297z5fkd9rirez9.jpg)
+![](/Asserts/Images/album/202310/17/091150j297z5fkd9rirez9.jpg)
 
 
 新版本的 Ubuntu Studio 引入了一款新壁纸，名为 “Ubuntu Studio Mantic Minotaur”，其设计习得了 Ubuntu 23.10 默认壁纸 “Mantic Minotaur” 的灵感。
@@ -104,7 +104,7 @@ Ubuntu Studio 的安装工具现在包括了一个音频配置向导，让系统
 #### 更新的应用套件
 
 
-![](/Asserts/Images//attachment/album/202310/17/091150dqdz3e05eajjj1jq.jpg)
+![](/Asserts/Images/album/202310/17/091150dqdz3e05eajjj1jq.jpg)
 
 
 Ubuntu Studio 23.10 提供了 **一系列更新的应用** ，其中一些重要的应用包括：
@@ -122,7 +122,7 @@ Ubuntu Studio 23.10 提供了 **一系列更新的应用** ，其中一些重要
 #### Linux 内核升级至 6.5 版本
 
 
-![](/Asserts/Images//attachment/album/202310/17/091151yv2j28dmwk884b98.jpg)
+![](/Asserts/Images/album/202310/17/091151yv2j28dmwk884b98.jpg)
 
 
 所有的这些，全都运行在**Linux 内核 6.5**之上，让 Ubuntu Studio 23.10 能够支持如 **USB4/Wi-Fi 7 的初始支持**和**AMD 的各种优化**等。

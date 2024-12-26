@@ -7,7 +7,7 @@ tags:	[linuxcn,音乐播放器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/27/173656kmq05d54llttls55.jpg)
+![](/Asserts/Images/album/202212/27/173656kmq05d54llttls55.jpg)
 
 
 幸运的是，[Linux 的优秀开源音乐播放器](https://itsfoss.com/best-music-players-linux/) 并不缺乏。过去我们已经介绍了多种选择。
@@ -19,7 +19,7 @@ tags:	[linuxcn,音乐播放器]
 ### Harmonoid：Material Design 的直观用户体验
 
 
-![harmonoid player](/Asserts/Images//attachment/album/202212/27/173721q24r46ypryr42nkg.png)
+![harmonoid player](/Asserts/Images/album/202212/27/173721q24r46ypryr42nkg.png)
 
 
 Harmonoid 是用 Dart 语言编写的。它利用 [libmpv](https://github.com/mpv-player/mpv/tree/master/libmpv) 和 [mpv](https://mpv.io) 在桌面平台上实现媒体播放功能。
@@ -31,7 +31,7 @@ Harmonoid 是用 Dart 语言编写的。它利用 [libmpv](https://github.com/mp
 通常，你会在 Android 上看到应用具有 Material Design UI。如果你不知道，Material 是谷歌的开源设计系统。
 
 
-![harmonoid player info](/Asserts/Images//attachment/album/202212/27/173721t5j8v1t51vgkm0oe.png)
+![harmonoid player info](/Asserts/Images/album/202212/27/173721t5j8v1t51vgkm0oe.png)
 
 
 没有多少创作者将它用于桌面应用。作为一种改变，Harmonoid 具有 Material Design 用户体验，可以同时做到快速和直观。
@@ -40,7 +40,7 @@ Harmonoid 是用 Dart 语言编写的。它利用 [libmpv](https://github.com/mp
 这让 Harmonoid 为 Linux 用户呈现了独特的用户体验。动画感觉流畅且易于导航，并提供大量有价值的功能来帮助管理你的音乐库。
 
 
-![harmonoid url](/Asserts/Images//attachment/album/202212/27/173722hbxf7srpd7q7x3b3.png)
+![harmonoid url](/Asserts/Images/album/202212/27/173722hbxf7srpd7q7x3b3.png)
 
 
 如果你想要一个有良好 UI 和功能集的音乐播放器，我建议你尝试一下 Harmonoid。
@@ -49,7 +49,7 @@ Harmonoid 是用 Dart 语言编写的。它利用 [libmpv](https://github.com/mp
 ### Harmonoid 的特点
 
 
-![harmonoid player options](/Asserts/Images//attachment/album/202212/27/173722apx5wtpmtz45ftfu.png)
+![harmonoid player options](/Asserts/Images/album/202212/27/173722apx5wtpmtz45ftfu.png)
 
 
 [Harmonoid](https://harmonoid.com) 可能看起来像一个简单的音乐播放器，但它包含了一些最有价值的功能。他们包括：
@@ -78,7 +78,7 @@ Harmonoid 是用 Dart 语言编写的。它利用 [libmpv](https://github.com/mp
 Harmonoid 应该非常适合想要同时播放音乐或整理收藏的用户。我会说它提供了两全其美的方法。
 
 
-![harmonoid settings](/Asserts/Images//attachment/album/202212/27/173723gx9mi5xo4hh56909.png)
+![harmonoid settings](/Asserts/Images/album/202212/27/173723gx9mi5xo4hh56909.png)
 
 
 ### 在 Linux 上安装 Harmonoid

@@ -48,7 +48,7 @@ $ sudo yum install gcc pam-devel
 现在验证缺失的头文件是否安装到了 /usr/include/security。
 
 
-![](/Asserts/Images//attachment/album/201505/25/222442wr6oy6y68ymazton.jpg)
+![](/Asserts/Images/album/201505/25/222442wr6oy6y68ymazton.jpg)
 
 
 

@@ -7,10 +7,10 @@ tags:	[linuxcn,BTC,量子计算,AI,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/28/150251tzrskrlsecezrek6.jpg)
+![](/Asserts/Images/album/202201/28/150251tzrskrlsecezrek6.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/28/150314i8k0eehf6cg66ec4.jpg)
+![](/Asserts/Images/album/202201/28/150314i8k0eehf6cg66ec4.jpg)
 
 
 ### 量子计算机距离破解 BTC 加密还差百万级
@@ -27,7 +27,7 @@ tags:	[linuxcn,BTC,量子计算,AI,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/28/150327kozkyyq51zpq5zko.jpg)
+![](/Asserts/Images/album/202201/28/150327kozkyyq51zpq5zko.jpg)
 
 
 ### 可以训练 AI 的 AI
@@ -44,7 +44,7 @@ tags:	[linuxcn,BTC,量子计算,AI,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/28/150351yiw8880t89iw92dm.jpg)
+![](/Asserts/Images/album/202201/28/150351yiw8880t89iw92dm.jpg)
 
 
 ### 影响 12 年来所有 Linux 发行版的本地提权漏洞

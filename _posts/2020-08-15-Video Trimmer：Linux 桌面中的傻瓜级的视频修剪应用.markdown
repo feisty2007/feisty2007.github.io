@@ -27,7 +27,7 @@ tags:	[linuxcn,视频]
 因此，我想重点介绍一个傻瓜级的开源工具，即 “[Video Trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer)”，它可以快速修剪视频。
 
 
-![](/Asserts/Images//attachment/album/202008/02/214717y23jj737afqc1ym7.jpg)
+![](/Asserts/Images/album/202008/02/214717y23jj737afqc1ym7.jpg)
 
 
 ### Video Trimmer：一个用于快速修剪视频的傻瓜应用
@@ -45,7 +45,7 @@ Video Trimmer 是一个开源应用，它可帮助你修剪视频片段而无需
 为了让你有个印象，请看下面的截图，看看在使用 Video Trimmer 时可用的选项：
 
 
-![](/Asserts/Images//attachment/album/202008/02/214726hej3o62so32djy7i.jpg)
+![](/Asserts/Images/album/202008/02/214726hej3o62so32djy7i.jpg)
 
 
 ### 在 Linux 上安装 Video Trimmer

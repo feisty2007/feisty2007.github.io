@@ -7,7 +7,7 @@ tags:	[linuxcn,办公套件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202109/05/232038fzvbi7cp2luiilzq.jpg)
+![](/Asserts/Images/album/202109/05/232038fzvbi7cp2luiilzq.jpg)
 
 
 今天，几乎每个家庭都有一台台式电脑或笔记本电脑。这是因为计算机已经成为一个非常重要的要求。此外，不管是为了工作还是学习，许多人需要创建电子版的文档和演示文稿。因此，办公套件是几乎所有计算机上的必备应用程序。本文将介绍一些你可以在 Fedora Linux 上使用的开源办公套件。这些软件你可能需要安装。如果你不熟悉如何在 Fedora Linux 中添加软件包，请参阅我之前的文章 [安装 Fedora 34 工作站后要做的事情](https://fedoramagazine.org/things-to-do-after-installing-fedora-34-workstation/)。下面是满足日常需求的办公套件类的应用程序列表。
@@ -22,25 +22,25 @@ LibreOffice 是 GNU/Linux 用户中最流行的办公套件。它的用户界面
 第一个应用程序是 Writer，用于创建各种类型的文档，如信件、传真、议程、会议记录等。它是一个全功能的文字处理和桌面出版工具。第二个应用程序是 Calc，它是一个电子表格程序，非常适合以表格形式呈现数据和记录数据。Calc 可以创建简单的表格或进行专业的数据分析。第三个应用程序是 Impress，它是一个易于使用的演示应用程序。你可以很容易地选择你在演示幻灯片中想要的功能，如文本、图像、表格、图表等。
 
 
-![LibreOffice Writer](/Asserts/Images//attachment/album/202109/05/232038aa2i22r1l2qzv12r.png)
+![LibreOffice Writer](/Asserts/Images/album/202109/05/232038aa2i22r1l2qzv12r.png)
 
 
-![LibreOffice Calc](/Asserts/Images//attachment/album/202109/05/232039luwcnwquneenngqn.png)
+![LibreOffice Calc](/Asserts/Images/album/202109/05/232039luwcnwquneenngqn.png)
 
 
-![LibreOffice Impress](/Asserts/Images//attachment/album/202109/05/232039tnoawb1bl48cbbbc.png)
+![LibreOffice Impress](/Asserts/Images/album/202109/05/232039tnoawb1bl48cbbbc.png)
 
 
 前面提到的三个 LibreOffice 应用程序是创建文档和演示文稿中最常用的应用程序。然而，LibreOffice 提供的其他三个应用程序也非常有用。第一个是 Draw，它可以用来创建从简单到复杂的图纸和图表。下一个应用程序是 Math，它可以帮助我们做出完美格式的数学和科学公式。最后一个是 Base，这是一个用于处理数据库的应用程序。
 
 
-![LibreOffice Draw](/Asserts/Images//attachment/album/202109/05/232040fujwcca606cc669a.png)
+![LibreOffice Draw](/Asserts/Images/album/202109/05/232040fujwcca606cc669a.png)
 
 
-![LibreOffice Math](/Asserts/Images//attachment/album/202109/05/232040z9b9debef4s0baqf.png)
+![LibreOffice Math](/Asserts/Images/album/202109/05/232040z9b9debef4s0baqf.png)
 
 
-![LibreOffice Base](/Asserts/Images//attachment/album/202109/05/232041g99xxfbx94b9bhbg.png)
+![LibreOffice Base](/Asserts/Images/album/202109/05/232041g99xxfbx94b9bhbg.png)
 
 
 更多信息请见此链接：<https://www.libreoffice.org/>
@@ -61,13 +61,13 @@ ONLYOFFICE 提供了三种具有简洁和现代外观的应用程序。我们可
 不幸的是，ONLYOFFICE 在官方的 Fedora Linux 软件库中并没有提供。但是你仍然可以使用 Flatpak 或 Appimages 在 Fedora Linux 上安装它。
 
 
-![ONLYOFFICE Documents Editor](/Asserts/Images//attachment/album/202109/05/232041dpmsui2pmlhcuasu.png)
+![ONLYOFFICE Documents Editor](/Asserts/Images/album/202109/05/232041dpmsui2pmlhcuasu.png)
 
 
-![ONLYOFFICE Spreadsheets Editor](/Asserts/Images//attachment/album/202109/05/232042eyyvgkfsk6xgzzke.png)
+![ONLYOFFICE Spreadsheets Editor](/Asserts/Images/album/202109/05/232042eyyvgkfsk6xgzzke.png)
 
 
-![ONLYOFFICE Presentations Editor](/Asserts/Images//attachment/album/202109/05/232042n86fhefgj8b666ef.png)
+![ONLYOFFICE Presentations Editor](/Asserts/Images/album/202109/05/232042n86fhefgj8b666ef.png)
 
 
 更多信息请见此链接：<https://www.onlyoffice.com/desktop.aspx>
@@ -85,25 +85,25 @@ Calligra 提供的几个应用程序的外观与 LibreOffice 或 ONLYOFFICE 略�
 第一个应用程序是 Words，它是一个具有桌面出版功能的直观的文字处理器。它具有帮助我们进行文档创作的全面功能。第二个应用程序是 Sheets，它具有与 Calc 和电子表格编辑器相同的功能，是一个功能齐全的电子表格应用程序。第三个应用程序是 Stage，它可以帮助我们制作演示幻灯片。
 
 
-![Calligra Words](/Asserts/Images//attachment/album/202109/05/232042g1gbz6s2mei6egjs.png)
+![Calligra Words](/Asserts/Images/album/202109/05/232042g1gbz6s2mei6egjs.png)
 
 
-![Calligra Sheets](/Asserts/Images//attachment/album/202109/05/232043o6btexa6t1l300y6.png)
+![Calligra Sheets](/Asserts/Images/album/202109/05/232043o6btexa6t1l300y6.png)
 
 
-![Calligra Stage](/Asserts/Images//attachment/album/202109/05/232043wz925o5vl523zit4.png)
+![Calligra Stage](/Asserts/Images/album/202109/05/232043wz925o5vl523zit4.png)
 
 
 这三个 Calligra 应用程序是创建文档和演示文稿最常用的应用程序。另外还有三个应用程序也非常有用。第一个是 Karbon，它可以用来创建从简单到复杂的图纸和图表。下一个应用程序是 Plan，这是一个项目管理应用程序，可以帮助管理具有多种资源的中等规模的项目。最后一个是 KEXI，它是一个可视化数据库应用程序的创建器。
 
 
-![Calligra Karbon](/Asserts/Images//attachment/album/202109/05/232044uqp4v24x7uw17uv7.png)
+![Calligra Karbon](/Asserts/Images/album/202109/05/232044uqp4v24x7uw17uv7.png)
 
 
-![Calligra Plan](/Asserts/Images//attachment/album/202109/05/232044k7juiv3a32iqhuv1.png)
+![Calligra Plan](/Asserts/Images/album/202109/05/232044k7juiv3a32iqhuv1.png)
 
 
-![Calligra Kexi](/Asserts/Images//attachment/album/202109/05/232045zk0mwt78mfkzmwwl.png)
+![Calligra Kexi](/Asserts/Images/album/202109/05/232045zk0mwt78mfkzmwwl.png)
 
 
 更多信息请见此链接：<https://calligra.org/>

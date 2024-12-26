@@ -16,7 +16,7 @@ tags:	[linuxcn,终端,颜色,命令行]
 ### vim
 
 
-![](/Asserts/Images//attachment/album/201602/01/095323ic3hepoxmlpbomeo.png)
+![](/Asserts/Images/album/201602/01/095323ic3hepoxmlpbomeo.png)
 
 
 能够区分不同的黄色，可以让你的 vim 看起来更加漂亮。[点此下载配色文件](http://avalon.gnuzifer.de/~heipei/linux/files/configs/calmar256-dark.vim)，配色文件可按如下引入到你的 vim 配置中：
@@ -36,7 +36,7 @@ endif
 ### mutt
 
 
-![](/Asserts/Images//attachment/album/201602/01/095324yt0wlsm022kbrfos.png)
+![](/Asserts/Images/album/201602/01/095324yt0wlsm022kbrfos.png)
 
 
 [配色方案在此](http://avalon.gnuzifer.de/~heipei/linux/files/configs/mutt_color_256)，可以通过 source 引入到你的 .muttrc 中：
@@ -50,7 +50,7 @@ source ~/.mutt/mutt_color_256
 ### slrn
 
 
-![](/Asserts/Images//attachment/album/201602/01/095324famgmiziwbziwk2w.png)
+![](/Asserts/Images/album/201602/01/095324famgmiziwbziwk2w.png)
 
 
 slrn 支持256色，但是很多元素不支持颜色区分。[配色直接写在配置文件中](http://avalon.gnuzifer.de/~heipei/linux/files/configs/slrnrc)。
@@ -59,7 +59,7 @@ slrn 支持256色，但是很多元素不支持颜色区分。[配色直接写�
 ### git
 
 
-![](/Asserts/Images//attachment/album/201602/01/095325ltlfydsyldccyfcc.png)
+![](/Asserts/Images/album/201602/01/095325ltlfydsyldccyfcc.png)
 
 
 看看 git log 的输出，是不是更柔和了？[配置文件在此](http://avalon.gnuzifer.de/~heipei/linux/files/configs/gitconfig)。
@@ -68,7 +68,7 @@ slrn 支持256色，但是很多元素不支持颜色区分。[配色直接写�
 ### man / less
 
 
-![](/Asserts/Images//attachment/album/201602/01/095325oqbs531mbwfcezwq.png)
+![](/Asserts/Images/album/201602/01/095325oqbs531mbwfcezwq.png)
 
 
 对于 Xterm/Urxvt，改变终端的前景/背景/粗体/下划线/斜体的颜色，可以让 less 显示更好的高亮效果。而 less 被用在 man 页面显示中，所以你会发现你的 man 显示更漂亮了。[配置文件在此](http://avalon.gnuzifer.de/~heipei/linux/files/configs/Xdefaults)。
@@ -83,7 +83,7 @@ slrn 支持256色，但是很多元素不支持颜色区分。[配色直接写�
 很多人喜欢在终端窗口的下方显示一个状态条，尤其是在使用 screen 将窗口分割成几个子窗口时。
 
 
-![](/Asserts/Images//attachment/album/201602/01/095326x4hg2yd4g7de4eys.png)
+![](/Asserts/Images/album/201602/01/095326x4hg2yd4g7de4eys.png)
 
 
 [配置文件在此](http://avalon.gnuzifer.de/~heipei/linux/files/configs/screenrc)。
@@ -92,7 +92,7 @@ slrn 支持256色，但是很多元素不支持颜色区分。[配色直接写�
 ### ls
 
 
-![](/Asserts/Images//attachment/album/201602/01/095326opzb4qwhekb6hpzh.png)
+![](/Asserts/Images/album/201602/01/095326opzb4qwhekb6hpzh.png)
 
 
 ls 的彩色输出也可以更好一些。[配置文件在此](http://avalon.gnuzifer.de/~heipei/linux/files/configs/dircolors)。

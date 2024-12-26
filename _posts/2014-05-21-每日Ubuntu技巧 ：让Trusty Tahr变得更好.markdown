@@ -13,7 +13,7 @@ Ubuntu 14.04 Trusty Tahr 已发布，如果你是其中之一的安装者，你�
 对于那些升级，这可能已经做完了，你不必再去做它，除非你没有在Ubuntu 13.10 里做这些。
 
 
-![](/Asserts/Images//attachment/album/201405/06/232743ea802mh8mllhd2d3.jpg)
+![](/Asserts/Images/album/201405/06/232743ea802mh8mllhd2d3.jpg)
 
 
 Ubuntu 并不是完全开箱即用的。有一些可以提升体验的包和工具由于合法问题被Canonical排除在外。

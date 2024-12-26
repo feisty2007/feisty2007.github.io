@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Cinnamon,Gnome]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/28/231142dzkgi2r9ofr5oosq.jpg)
+![](/Asserts/Images/album/201405/28/231142dzkgi2r9ofr5oosq.jpg)
 
 
 **许多Ubuntu用户过去一直在使用第三方仓库体验Cinnamon而不用安装Linux Mint，然而似乎在不久的将来，不会再有Cinnamon的第三方仓库了**。

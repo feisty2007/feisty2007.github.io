@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/21/180137wv3j567vyneym7vn.png)
+![](/Asserts/Images/album/202112/21/180137wv3j567vyneym7vn.png)
 
 
 2021 年即将结束。Linux 今年屡有大事，虽然并不全是好消息。
@@ -54,7 +54,7 @@ tags:	[linuxcn,Linux]
 Arch Linux 试图通过提供一个用来指导你的安装脚本来改善这种情况。
 
 
-![](/Asserts/Images//attachment/album/202112/21/180138pcp9k9k9899hs1t4.png)
+![](/Asserts/Images/album/202112/21/180138pcp9k9k9899hs1t4.png)
 
 
 当然，它不像图形化的安装那么舒服，但至少有指导的 Arch Linux 安装总比没有好。
@@ -66,7 +66,7 @@ Arch Linux 试图通过提供一个用来指导你的安装脚本来改善这种
 ### 3、微软 Edge 浏览器登陆 Linux
 
 
-![](/Asserts/Images//attachment/album/202112/21/180139zykbyv46b3oc36yo.png)
+![](/Asserts/Images/album/202112/21/180139zykbyv46b3oc36yo.png)
 
 
 它已经测试一年多了，但在 2021 年我们终于看到了 [微软基于 Chromium 的 Linux 版 Edge 浏览器的最终稳定版](https://news.itsfoss.com/microsoft-edge-stable-release/)。
@@ -111,7 +111,7 @@ Valve 发布了一款名为 Steam Deck 的掌上游戏设备。它产生了相�
 第二，Steam 声称所有的游戏（无论它们是否只在 Windows 上运行）都将可以在 Steam Deck 上运行。这个口号太大了，但是 [Steam 已经开始验证能在 Deck 上运行的游戏](https://news.itsfoss.com/steamdeck-verified/)。这可能意味着经过 Deck 验证的游戏在桌面 Linux 上应该也能正常运行。
 
 
-![](/Asserts/Images//attachment/album/202112/21/180141natpcvz8ln0lt0l4.png)
+![](/Asserts/Images/album/202112/21/180141natpcvz8ln0lt0l4.png)
 
 
 ### 6、反作弊引擎正式支持 Linux
@@ -129,7 +129,7 @@ Easy-Anti-Cheat 是 Epic 提供的业界领先的反作弊服务，可以防止�
 ### 7、GNOME 40
 
 
-![](/Asserts/Images//attachment/album/202112/21/180142uw3s1g0ge3ji08fl.png)
+![](/Asserts/Images/album/202112/21/180142uw3s1g0ge3ji08fl.png)
 
 
 [GNOME 40 是一个激进的版本](https://news.itsfoss.com/gnome-40-release/)。几乎和 GNOME 3 一样激进。
@@ -156,7 +156,7 @@ GNOME 40 换成了三指轻扫的水平布局。这种水平方式使得第 40 �
 ### 9、Linux 已经 30 岁了
 
 
-![](/Asserts/Images//attachment/album/202112/21/180143eu4xg074m4q4q9hh.jpg)
+![](/Asserts/Images/album/202112/21/180143eu4xg074m4q4q9hh.jpg)
 
 
 Linux 内核比许多 Linux 用户都要老。它诞生于 1991 年 9 月，当时芬兰计算机科学专业的学生 Linus Torvalds 宣布了这个 “爱好项目”，它本应不是 “大而专业” 的。
@@ -183,7 +183,7 @@ Linus Sebastian 是顶级的技术 YouTuber 之一，他开始挑战日常使用
 Linus Sebastian 在 Linux 上遇到了困难。他遇到了各种困难，[最后在试图安装 Steam 的时候毁掉了他的 Pop!\_OS 系统](https://news.itsfoss.com/more-linux-distros-become-linus-proof/)。
 
 
-![](/Asserts/Images//attachment/album/202112/21/180143yaoyhqnjh6phdbhz.jpg)
+![](/Asserts/Images/album/202112/21/180143yaoyhqnjh6phdbhz.jpg)
 
 
 我不知道 Torvalds 是否看到了那些视频，这个与他同名的人在他的造物中苦苦挣扎。
@@ -201,7 +201,7 @@ Linus Sebastian 在 Linux 上遇到了困难。他遇到了各种困难，[最�
 2021 年，Asahi Linux 取得了一些良好的进展。他们的工作也将使其他发行版受益。
 
 
-![Arch Linux 与 KDE Plasma 在 M1 Pro MacBook 上运行](/Asserts/Images//attachment/album/202112/21/180144eb7bzs0nn3s0n8pl.jpg)
+![Arch Linux 与 KDE Plasma 在 M1 Pro MacBook 上运行](/Asserts/Images/album/202112/21/180144eb7bzs0nn3s0n8pl.jpg)
 
 
 ### 12、Windows 11 发布
@@ -213,7 +213,7 @@ Linus Sebastian 在 Linux 上遇到了困难。他遇到了各种困难，[最�
 不要认为我过于乐观。当 Windows XP 支持结束时，我已经看到了这种流亡。一些 Linux Mint 和 Zorin OS 用户曾经是 Windows XP 的移民。
 
 
-![](/Asserts/Images//attachment/album/202112/21/180145g63zymcr5ii353a3.jpg)
+![](/Asserts/Images/album/202112/21/180145g63zymcr5ii353a3.jpg)
 
 
 ### 让我们希望 2022 年对我们所有人都好一些

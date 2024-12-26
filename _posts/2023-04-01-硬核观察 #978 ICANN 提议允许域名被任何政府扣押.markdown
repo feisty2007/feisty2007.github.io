@@ -7,10 +7,10 @@ tags:	[linuxcn,域名,AI,Twitter]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/21/161012xbzkb9kwn2w2w70k.jpg)
+![](/Asserts/Images/album/202304/21/161012xbzkb9kwn2w2w70k.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/21/161024fatswnx22akd5wr6.jpg)
+![](/Asserts/Images/album/202304/21/161024fatswnx22akd5wr6.jpg)
 
 
 ### ICANN 提议允许域名被任何政府扣押
@@ -35,7 +35,7 @@ ICANN 和 Verisign 在 .NET 注册协议续期提议中悄悄对全球域名政�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/21/161035ik2lcacb9ta62n1a.jpg)
+![](/Asserts/Images/album/202304/21/161035ik2lcacb9ta62n1a.jpg)
 
 
 ### Reddit 将对利用其数据训练 AI 收费
@@ -60,7 +60,7 @@ Reddit 是 BBS 论坛风格的社交新闻和聚合讨论网站，包含了大�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/21/161053qjhzpz6y9zjs79vf.jpg)
+![](/Asserts/Images/album/202304/21/161053qjhzpz6y9zjs79vf.jpg)
 
 
 ### 微软拒绝为 API 付费，其广告平台停止支持 Twitter

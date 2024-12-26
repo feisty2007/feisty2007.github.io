@@ -7,13 +7,13 @@ tags:	[linuxcn,推特,JavaScript,Edge]
 ---
 
 
-![](/Asserts/Images//attachment/album/202103/11/004938y9xhbthm1ese2sfb.jpg)
+![](/Asserts/Images/album/202103/11/004938y9xhbthm1ese2sfb.jpg)
 
 
 ### 推特 CEO 的第一条推文可能拍卖出 250 万美元
 
 
-![](/Asserts/Images//attachment/album/202103/11/004947ivnpfn27p51w63j3.jpg)
+![](/Asserts/Images/album/202103/11/004947ivnpfn27p51w63j3.jpg)
 
 
 前两天，推特 CEO Dorsey 将其发布的[第一条推文，同时也是推特全平台的历史首条推文](https://twitter.com/jack/status/20 "https://twitter.com/jack/status/20")通过 Valuables 以 NFT 的形式进行了拍卖，尽管当时没有宣布拍卖何时结束，也没有宣布拍卖所得会捐赠给慈善事业，但是人们还是纷纷涌入竞相出价。获胜者将获得一份“该推特的数字证书”。
@@ -28,7 +28,7 @@ tags:	[linuxcn,推特,JavaScript,Edge]
 ### RedMonk 排名：JavaScript 稳居榜首
 
 
-![](/Asserts/Images//attachment/album/202103/11/005002q6effe5uudzueeeo.jpg)
+![](/Asserts/Images/album/202103/11/005002q6effe5uudzueeeo.jpg)
 
 
 RedMonk 在过去的十年里，定期将 Stack Overflow 上的语言讨论与 GitHub 上的使用情况关联起来，以洞察采用趋势。最新的[排名](https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/ "https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/")是，JavaScript 仍然位居榜首，其次是 Python、Java、PHP，C#、C++ 和 CSS 并列第五名。与早期版本的排名相比，放在前 20 名的语言中有一半出现了变动。
@@ -40,7 +40,7 @@ JavaScript 能稳居榜首，既意外也不意外，毕竟这是一个 Web 互�
 ### 微软正式干掉了传统版 Edge 浏览器
 
 
-![](/Asserts/Images//attachment/album/202103/11/005016vk6jfkzkpkngnfig.jpg)
+![](/Asserts/Images/album/202103/11/005016vk6jfkzkpkngnfig.jpg)
 
 
 微软宣布，“我们新的现代浏览器微软 Edge 在一年多前首次亮相，今天可以在数亿台设备上找到它。去年 8 月，我们宣布传统版 Edge 桌面应用支持将于 2021 年 3 月 9 日结束。”

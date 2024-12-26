@@ -7,7 +7,7 @@ tags:	[linuxcn,YAML]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/07/235036g8naktbcmzmnrkpm.jpg)
+![](/Asserts/Images/album/201901/07/235036g8naktbcmzmnrkpm.jpg)
 
 
 我之前写过[为什么将 JSON 用于人类可编辑的配置文件是一个坏主意](http://arp242.net/weblog/JSON_as_configuration_files-_please_dont.html)，今天我们将讨论 YAML 格式的一些常见问题。

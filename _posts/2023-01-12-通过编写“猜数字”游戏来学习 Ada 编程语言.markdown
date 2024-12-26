@@ -15,7 +15,7 @@ tags:	[linuxcn,猜数字,Ada]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/13/173929sbddkk6fbd67uu5v.jpg)
+![](/Asserts/Images/album/202301/13/173929sbddkk6fbd67uu5v.jpg)
 
 
 当你想 [学习一种新的编程语言](https://opensource.com/article/20/10/learn-any-programming-language) 时，把注意力放在编程语言的共同点上是很好的：

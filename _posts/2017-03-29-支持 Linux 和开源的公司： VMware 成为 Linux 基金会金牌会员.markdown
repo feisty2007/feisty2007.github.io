@@ -7,7 +7,7 @@ tags:	[linuxcn,VMware,Linux 基金会]
 ---
 
 
-![](/Asserts/Images//attachment/album/201703/13/092617gjvv5pvpdzz3xdek.jpg)
+![](/Asserts/Images/album/201703/13/092617gjvv5pvpdzz3xdek.jpg)
 
 
 [VMware](http://www.vmware.com/) 是云基础架构和企业移动性的全球领导者，多年来一直积极参与开源开发。

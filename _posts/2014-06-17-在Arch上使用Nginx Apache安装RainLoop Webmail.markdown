@@ -16,7 +16,7 @@ Rainloop是一个使用PHP编写的，开源免费的网页邮件客户端。他
 可以看一下RainLoop作者安装的演示页面： <http://demo.rainloop.net/>。
 
 
-![在Arch Linux上安装RainLoop](/Asserts/Images//attachment/album/201406/20/104916cmeffitxb5insqqb.jpg)
+![在Arch Linux上安装RainLoop](/Asserts/Images/album/201406/20/104916cmeffitxb5insqqb.jpg)
 
 
 *在Arch Linux上安装RainLoop*
@@ -75,7 +75,7 @@ If you also need references on installing Rainloop on **Debian** and **Red Hat**
 
 ```
 
-![Add Domain Host Entry](/Asserts/Images//attachment/album/201406/20/104918zrk23bpgtghqgpua.jpg)
+![Add Domain Host Entry](/Asserts/Images/album/201406/20/104918zrk23bpgtghqgpua.jpg)
 
 
 *添加域信息*
@@ -132,7 +132,7 @@ server {
         autoindex_localtime on;
     }
 
-    location ^~ /Asserts/Images/ {
+    location ^~ /data {
         deny all;
     }
 
@@ -182,7 +182,7 @@ server {
         expires 30d;
     }
 
-    location ^~ /Asserts/Images/ {
+    location ^~ /data {
         deny all;
     }
 
@@ -212,7 +212,7 @@ $ sudo nginx_gen_ssl.sh
 
 ```
 
-![](/Asserts/Images//attachment/album/201406/20/104920z0ytazvy30fupav5.jpg)
+![](/Asserts/Images/album/201406/20/104920z0ytazvy30fupav5.jpg)
 
 
 *生成证书和密钥*
@@ -230,7 +230,7 @@ $ sudo systemctl restart nginx
 
 ```
 
-![Create RainLoop Web Director](/Asserts/Images//attachment/album/201406/20/104923suh26uchlsus9g00.jpg)
+![Create RainLoop Web Director](/Asserts/Images/album/201406/20/104923suh26uchlsus9g00.jpg)
 
 
  *创建RainLoop 网页向导*
@@ -270,7 +270,7 @@ $ sudo nano /etc/httpd/conf/sites-available/rainloop.conf
 
 ```
 
-![Create Apache Virtual Host](/Asserts/Images//attachment/album/201406/20/104925z3n2cc13511m1mwc.jpg)
+![Create Apache Virtual Host](/Asserts/Images/album/201406/20/104925z3n2cc13511m1mwc.jpg)
 
 
  *创建Apache虚拟主机*
@@ -332,13 +332,13 @@ $ sudo apache_gen_ssl
 
 ```
 
-![Create SSL Certificate and Keys](/Asserts/Images//attachment/album/201406/20/104927cz22v4yc2zbt27bb.jpg)
+![Create SSL Certificate and Keys](/Asserts/Images/album/201406/20/104927cz22v4yc2zbt27bb.jpg)
 
 
  *创建SSL证书和密钥*
 
 
-![Enter Organization Details](/Asserts/Images//attachment/album/201406/20/104930ni2q6kkk3tfq81tq.jpg)
+![Enter Organization Details](/Asserts/Images/album/201406/20/104930ni2q6kkk3tfq81tq.jpg)
 
 
 *输入组织信息*
@@ -356,7 +356,7 @@ $ sudo systemctl restart httpd
 
 ```
 
-![Enable Virtual Hosts](/Asserts/Images//attachment/album/201406/20/104932kjqel0qlevjefw4w.jpg)
+![Enable Virtual Hosts](/Asserts/Images/album/201406/20/104932kjqel0qlevjefw4w.jpg)
 
 
  *激活虚拟主机*
@@ -421,7 +421,7 @@ $ sudo systemctl restart php-fpm
 
 ```
 
-![Check PHP Information](/Asserts/Images//attachment/album/201406/20/104933xdj2zm4d2f9roumo.png)
+![Check PHP Information](/Asserts/Images/album/201406/20/104933xdj2zm4d2f9roumo.png)
 
 
  *查看 PHP 信息*
@@ -448,7 +448,7 @@ $ wget http://repository.rainloop.net/v1/rainloop-latest.zip
 
 ```
 
-![Download RainLoop Package](/Asserts/Images//attachment/album/201406/20/104935s8ftc8wr5m58htps.png)
+![Download RainLoop Package](/Asserts/Images/album/201406/20/104935s8ftc8wr5m58htps.png)
 
 
  *下载 RainLoop 包*
@@ -463,7 +463,7 @@ $ sudo unzip rainloop-latest.zip -d  /srv/www/rainloop/
 
 ```
 
-![Extract Rainloop Archive](/Asserts/Images//attachment/album/201406/20/104937ijchm3hkhde80634.png)
+![Extract Rainloop Archive](/Asserts/Images/album/201406/20/104937ijchm3hkhde80634.png)
 
 
 *解压*
@@ -479,7 +479,7 @@ $ sudo chown -R http:http /srv/www/rainloop/
 
 ```
 
-![Set Permission on RainLoop](/Asserts/Images//attachment/album/201406/20/104939xy4bjuuz4djd07ux.jpg)
+![Set Permission on RainLoop](/Asserts/Images/album/201406/20/104939xy4bjuuz4djd07ux.jpg)
 
 
 *设置权限*
@@ -488,7 +488,7 @@ $ sudo chown -R http:http /srv/www/rainloop/
 ### Step 4: 通过网页配置RainLoop
 
 
-**9.** Rainloop应用程序可以通过两种方式进行配置：使用浏览器或者系统shell。如果要在终端配置就打开和编辑位于**/ srv/www/rainloop/Asserts/Images//*data*da047852f16d2bc7352b24240a2f1599/*default*/configs/** 的application.ini\*\*文件。
+**9.** Rainloop应用程序可以通过两种方式进行配置：使用浏览器或者系统shell。如果要在终端配置就打开和编辑位于**/ srv/www/rainloop/data/*data*da047852f16d2bc7352b24240a2f1599/*default*/configs/** 的application.ini\*\*文件。
 
 
 **10.** 若要从浏览器访问管理界面，使用下面的URL地址 **https://rainloop.lan/?admin**，然后提供输入默认的应用程序用户名密码，如下：
@@ -501,7 +501,7 @@ Password = 12345
 
 ```
 
-![Rainloop Web Interface](/Asserts/Images//attachment/album/201406/20/104941kbi1cfcac73nd9yc.png)
+![Rainloop Web Interface](/Asserts/Images/album/201406/20/104941kbi1cfcac73nd9yc.png)
 
 
 *Rainloop Web 界面*
@@ -510,13 +510,13 @@ Password = 12345
 **11.** 首次登录后，你会被警示需要更改默认密码，所以我劝你做这一点。
 
 
-![Change Default Password](/Asserts/Images//attachment/album/201406/20/104943ux58eyd29rshixx2.png)
+![Change Default Password](/Asserts/Images/album/201406/20/104943ux58eyd29rshixx2.png)
 
 
 *修改默认 Password*
 
 
-![Set New Admin Password](/Asserts/Images//attachment/album/201406/20/104946nh7nuz3tuc3soh1c.png)
+![Set New Admin Password](/Asserts/Images/album/201406/20/104946nh7nuz3tuc3soh1c.png)
 
 
 *设置新的 Admin Password*
@@ -536,13 +536,13 @@ exit;
 
 ```
 
-![Enable Contacts in RainLoop](/Asserts/Images//attachment/album/201406/20/104948pngvv6eje66n66jz.png)
+![Enable Contacts in RainLoop](/Asserts/Images/album/201406/20/104948pngvv6eje66n66jz.png)
 
 
 *在 RainLoop 中激活联系人*
 
 
-![Enter Contact Database Details](/Asserts/Images//attachment/album/201406/20/104950yw6f4uudto3rrodd.png)
+![Enter Contact Database Details](/Asserts/Images/album/201406/20/104950yw6f4uudto3rrodd.png)
 
 
 *添加联系人数据库配置*
@@ -551,13 +551,13 @@ exit;
 **13.** 默认情况下Rainloop提供了\*\* Gmail**，**Yahoo**和**Outlook\*\*的邮件服务器的配置文件，但是你如果愿意，你也可以添加其他的邮件服务器域。
 
 
-![Default Mail Domains](/Asserts/Images//attachment/album/201406/20/104952sssqwwdsj1snjdd2.png)
+![Default Mail Domains](/Asserts/Images/album/201406/20/104952sssqwwdsj1snjdd2.png)
 
 
 *默认 Mail 域*
 
 
-![Add New Domain](/Asserts/Images//attachment/album/201406/20/104954ypfiilptn4rug0l4.png)
+![Add New Domain](/Asserts/Images/album/201406/20/104954ypfiilptn4rug0l4.png)
 
 
 *添加新域*
@@ -569,19 +569,19 @@ exit;
  
 
 
-![Login to Mail Domain](/Asserts/Images//attachment/album/201406/20/104956yjp494wlgn4n1w8l.png)
+![Login to Mail Domain](/Asserts/Images/album/201406/20/104956yjp494wlgn4n1w8l.png)
 
 
 *登录到Yahoo邮件页面*
 
 
-![Login to Gmail Domain](/Asserts/Images//attachment/album/201406/20/104959wb5i12i51c50bz72.png)
+![Login to Gmail Domain](/Asserts/Images/album/201406/20/104959wb5i12i51c50bz72.png)
 
 
 *登录Gmail*
 
 
-![RainLoop Email Interface](/Asserts/Images//attachment/album/201406/20/105001d4mppthpcb9pvzpp.png)
+![RainLoop Email Interface](/Asserts/Images/album/201406/20/105001d4mppthpcb9pvzpp.png)
 
 
 *RainLoop 登录后的Email 界面*

@@ -7,7 +7,7 @@ tags:	[linuxcn,VNC]
 ---
 
 
-![](/Asserts/Images//attachment/album/201506/18/154855fksg81zozwcpwoph.png)
+![](/Asserts/Images/album/201506/18/154855fksg81zozwcpwoph.png)
 
 
 1、编辑/etc/vmware/firewall/service.xml 

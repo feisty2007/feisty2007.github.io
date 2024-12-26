@@ -15,7 +15,7 @@ tags:	[linuxcn,Rowhammer,攻击]
 > 
 
 
-![](/Asserts/Images//attachment/album/201705/19/083412z8b77tcuwebuthhz.jpg)
+![](/Asserts/Images/album/201705/19/083412z8b77tcuwebuthhz.jpg)
 
 
 研究者们发现了一种新的在不利用任何软件漏洞情况下，利用内存芯片物理设计上的弱点来侵入 Android 设备的方式。这种攻击技术同样可以影响到其它如 ARM 和 X86 架构的设备与计算机。

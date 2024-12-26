@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,GPT-3,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/01/162208km36a0ufff2z93f4.jpg)
+![](/Asserts/Images/album/202207/01/162208km36a0ufff2z93f4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/01/162219uxo6nypxq19xmxmk.jpg)
+![](/Asserts/Images/album/202207/01/162219uxo6nypxq19xmxmk.jpg)
 
 
 ### GPT-3 写一篇关于它自己的学术论文，已经提交评审
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,GPT-3,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/01/162230frorg9gvvnero5ja.jpg)
+![](/Asserts/Images/album/202207/01/162230frorg9gvvnero5ja.jpg)
 
 
 ### 算法可提前一周预测犯罪，准确率 90%
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,GPT-3,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/01/162254kedkesntyeusfkee.jpg)
+![](/Asserts/Images/album/202207/01/162254kedkesntyeusfkee.jpg)
 
 
 ### 俄罗斯人正在转向 Linux 和盗版

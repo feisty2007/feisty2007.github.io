@@ -16,7 +16,7 @@ Trello 是一个可视的团队协作平台，最近被 Atlassian 收购了，�
 如果你喜欢 [Trello](https://trello.com/)，但现在想要一个类似的软件，你可以自己托管，运行在自己的服务器上，我发现了四个你可以选择的工具。记住，我没有在我自己的服务器上安装其中任何一个，但从我收集的关于它们的信息上来看，我最可能使用的是 Kanboard 和 Restyaboard。
 
 
-![](/Asserts/Images//attachment/album/201702/16/180908j25eb3hwff3byws8.jpg)
+![](/Asserts/Images/album/201702/16/180908j25eb3hwff3byws8.jpg)
 
 
 这是因为它们的安装要求很常见的。它们的安装过程也比较简单。Restyaboard 似乎有一个更好的 UI，所以它可能是我的第一个选择，虽然其中的一个要求（Elasticsearch）让我认为它对服务器的要求将比其它的更多。不管怎样，我会很快发布尝试自己托管 Kanboard 和 Restyaboard 的文章，所以请经常回来看看。
@@ -40,7 +40,7 @@ Trello 是一个可视的团队协作平台，最近被 Atlassian 收购了，�
 从对项目的一个非常粗略的评估，UI 似乎不如本文中提到的其他工具靓丽。 如果改变主意不想自己托管，有一个有管理的或托管的 Kanboard 可供你注册。该项目的 GitHub 页面在 <https://github.com/kanboard/kanboard>。
 
 
-![kanboard interface](/Asserts/Images//attachment/album/201702/16/180918g0ujvcuazufwwlaz.png "kanboard interface")
+![kanboard interface](/Asserts/Images/album/201702/16/180918g0ujvcuazufwwlaz.png "kanboard interface")
 
 
 ### Restyaboard
@@ -58,7 +58,7 @@ Trello 是一个可视的团队协作平台，最近被 Atlassian 收购了，�
 需求不多，而且有个脚本可在你的服务器上安装所有需要的组件，这使安装变得更简单。还有一个 AMI 可以用于在 Amazon AWS 上安装。对于 Docker 的粉丝，有一个非官方的 Docker 镜像可以用来运行 Restyaboard 容器。我不鼓励使用非官方 Docker 镜像运行 Docker 容器，但如果你想要试试，那会是一个选择。 项目的详细信息的 [GitHub page](https://github.com/RestyaPlatform/board)。
 
 
-![Restyaboard project management software](/Asserts/Images//attachment/album/201702/16/180919hzuzm11b5hjunbe5.png "Restyaboard project management software")
+![Restyaboard project management software](/Asserts/Images/album/201702/16/180919hzuzm11b5hjunbe5.png "Restyaboard project management software")
 
 
 ### Taiga
@@ -78,7 +78,7 @@ Trello 是一个可视的团队协作平台，最近被 Atlassian 收购了，�
 安装要求似乎比其它的多一点，所以如果这是一个问题，有一个托管平台可以免费使用。该托管平台上的额外功能是收费的。有关详细信息，请访问项目的 [GitHub页面](https://github.com/taigaio/)。
 
 
-![Taiga project management software](/Asserts/Images//attachment/album/201702/16/180919umimkkaxjaym3mkk.jpg "Taiga project management software")
+![Taiga project management software](/Asserts/Images/album/201702/16/180919umimkkaxjaym3mkk.jpg "Taiga project management software")
 
 
 ### Wekan
@@ -90,7 +90,7 @@ Wekan 是用 Meteor 构建的，这是一个用于构建 web 应用程序的 Jav
 所以看来，你安装 Wekan 最简单的方式是使用一个支持的云托管平台。
 
 
-![Wekan project management software](/Asserts/Images//attachment/album/201702/16/180920kmapnqitmxizn1tm.jpg "Wekan project management software")
+![Wekan project management software](/Asserts/Images/album/201702/16/180920kmapnqitmxizn1tm.jpg "Wekan project management software")
 
 
 如我之前承诺的，请稍后回来看看我发布的如何在你的服务器上安装 Kanboard 和 Restyaboard 指南。

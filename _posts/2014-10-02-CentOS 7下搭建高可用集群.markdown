@@ -7,7 +7,7 @@ tags:	[linuxcn,CentOS 7,集群,Cluster]
 ---
 
 
-![](/Asserts/Images//attachment/album/201410/07/191008vyq3zy00zmzyasyp.jpg)
+![](/Asserts/Images/album/201410/07/191008vyq3zy00zmzyasyp.jpg)
 
 
 本文以两台机器实现双集热备高可用集群，主机名node1的IP为192.168.122.168 ，主机名node2的IP为192.168.122.169 。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Shellshock,破壳漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/201410/06/220815oqqj1zppnq54b4qt.jpeg)
+![](/Asserts/Images/album/201410/06/220815oqqj1zppnq54b4qt.jpeg)
 
 
 快速地向你展示**如何检查你的系统是否受到Shellshock的影响**，如果有，**怎样修复你的系统免于被Bash漏洞利用**。

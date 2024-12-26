@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,AI,NPM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/22/164429oc67cl43sgzp222k.jpg)
+![](/Asserts/Images/album/202401/22/164429oc67cl43sgzp222k.jpg)
 
 
-![](/Asserts/Images//attachment/album/202401/22/164439z11viffio1hubwxu.png)
+![](/Asserts/Images/album/202401/22/164439z11viffio1hubwxu.png)
 
 
 ### #1 得益于人工智能驱动的狂热，标普 500 指数创历史新高
@@ -38,7 +38,7 @@ tags:	[linuxcn,Rust,AI,NPM]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/22/164503xlnnt1p8ni1bdpo4.png)
+![](/Asserts/Images/album/202401/22/164503xlnnt1p8ni1bdpo4.png)
 
 
 ### #2 龙架构为 Linux 6.8 提供初步 Rust 内核支持
@@ -66,7 +66,7 @@ tags:	[linuxcn,Rust,AI,NPM]
 > 
 
 
-![](/Asserts/Images//attachment/album/202401/22/164525y9clny7dym204mzl.png)
+![](/Asserts/Images/album/202401/22/164525y9clny7dym204mzl.png)
 
 
 ### #3 NPM 用户每周下载 21 亿个过时软件包

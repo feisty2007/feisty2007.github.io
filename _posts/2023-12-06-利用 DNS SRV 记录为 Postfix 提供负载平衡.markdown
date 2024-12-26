@@ -7,7 +7,7 @@ tags:	[linuxcn,Postfix,负载均衡]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/15/173522hpze31p331ppljrj.jpg)
+![](/Asserts/Images/album/202312/15/173522hpze31p331ppljrj.jpg)
 
 
 2011 年 3 月，苹果公司提出 [RFC 6186](https://www.ietf.org/rfc/rfc6186.txt)，描述了如何利用域名系统服务（DNS SRV）记录来查找电子邮件的提交以及访问服务。现在 Postfix 从 3.8.0 版本开始支持 RFC 中提出的设计。这个新增功能让你可以使用 DNS SRV 记录进行负载分配和自动配置。
@@ -46,7 +46,7 @@ _submission._tcp    SRV 5 10 50 bruce.my-domain.com.
 客户端应该按照 [RFC 2782](https://www.ietf.org/rfc/rfc2782.txt) 中描述的方式解析 SRV 记录。这意味着，首先尝试联系拥有最高优先级（最小的优先级数字）的服务器。如果该服务器无回应，那么重试联系拥有同样或者更低优先级的下一台服务器。当有多台服务器拥有同样优先级的时候，应随机选择其中一台，但是必须确保选择记录的概率符合下列公式：
 
 
-![](/Asserts/Images//attachment/album/202312/15/173602ftk942x9xtrjrzkr.png)
+![](/Asserts/Images/album/202312/15/173602ftk942x9xtrjrzkr.png)
 
 
 其中 `i` 是 SRV 记录的标识，`k` 是具有相同优先级的 SRV 记录的数量。
@@ -131,7 +131,7 @@ relayhost = example-domain.com:submission
 #### 整套设置
 
 
-![](/Asserts/Images//attachment/album/202312/15/173603pjr3jzjqq13q4enm.png)
+![](/Asserts/Images/album/202312/15/173603pjr3jzjqq13q4enm.png)
 
 
 你可以通过下面的方式尝试这个配置，包含 podman 和在此处提供的 compose 文件：

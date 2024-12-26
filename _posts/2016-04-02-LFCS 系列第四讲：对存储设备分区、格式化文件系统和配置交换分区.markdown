@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS,文件系统,分区]
 去年八月份，Linux 基金会发起了 LFCS（<ruby> Linux 基金会认证系统管理员 <rp>  （ </rp> <rt>  Linux Foundation Certified Sysadmin </rt> <rp>  ） </rp></ruby>）认证，给所有系统管理员一个展现自己的机会。通过基础考试后，他们可以胜任在 Linux 上的整体运维工作：包括系统支持、一流水平的诊断和监控以及在必要之时向其他支持团队提交帮助请求等。
 
 
-![Linux Foundation Certified Sysadmin – Part 4](/Asserts/Images//attachment/album/201604/04/052343gvwen43z17n1r7vw.png)
+![Linux Foundation Certified Sysadmin – Part 4](/Asserts/Images/album/201604/04/052343gvwen43z17n1r7vw.png)
 
 
 *LFCS 系列第四讲*
@@ -54,7 +54,7 @@ tags:	[linuxcn,LFCS,文件系统,分区]
 然后出现提示说进行下一步操作。若不确定如何操作，按下 “m” 键显示帮助。
 
 
-![fdisk Help Menu](/Asserts/Images//attachment/album/201604/04/052349vh0iosthplod5jiq.png)
+![fdisk Help Menu](/Asserts/Images/album/201604/04/052349vh0iosthplod5jiq.png)
 
 
 *fdisk 帮助菜单*
@@ -63,7 +63,7 @@ tags:	[linuxcn,LFCS,文件系统,分区]
 上图中，使用频率最高的选项已高亮显示。你可以随时按下 “p” 显示分区表。
 
 
-![Check Partition Table in Linux](/Asserts/Images//attachment/album/201604/04/052351wdx8ogb2kdhg5zkx.png)
+![Check Partition Table in Linux](/Asserts/Images/album/201604/04/052351wdx8ogb2kdhg5zkx.png)
 
 
 *显示分区表*
@@ -90,7 +90,7 @@ Id 列显示由 fdisk 分配给每个分区的分区类型（分区 id）。一�
 在下图的命令中，我们将删除 /dev/sdb2，然后显示（p）分区表来验证更改。
 
 
-![fdisk Command Options](/Asserts/Images//attachment/album/201604/04/052353nphfjfjf6j1hvnzl.png)
+![fdisk Command Options](/Asserts/Images/album/201604/04/052353nphfjfjf6j1hvnzl.png)
 
 
 *fdisk 命令选项*
@@ -99,7 +99,7 @@ Id 列显示由 fdisk 分配给每个分区的分区类型（分区 id）。一�
 按下 “n” 后接着按下 “p” 会创建新一个主分区。最后，你可以使用所有的默认值（这将占用所有的可用空间），或者像下面一样自定义分区大小。
 
 
-![Create New Partition in Linux](/Asserts/Images//attachment/album/201604/04/052355f0a3jjppj9uxbaua.png)
+![Create New Partition in Linux](/Asserts/Images/album/201604/04/052355f0a3jjppj9uxbaua.png)
 
 
 *创建新分区*
@@ -108,7 +108,7 @@ Id 列显示由 fdisk 分配给每个分区的分区类型（分区 id）。一�
 若 fdisk 分配的分区 Id 并不是我们想用的，可以按下 “t” 来更改。
 
 
-![Change Partition Name in Linux](/Asserts/Images//attachment/album/201604/04/052357pdqrotrrtrj10ov2.png)
+![Change Partition Name in Linux](/Asserts/Images/album/201604/04/052357pdqrotrrtrj10ov2.png)
 
 
 *更改分区类型*
@@ -117,7 +117,7 @@ Id 列显示由 fdisk 分配给每个分区的分区类型（分区 id）。一�
 全部设置好分区后，按下 “w” 将更改保存到硬盘分区表上。
 
 
-![Save Partition Changes](/Asserts/Images//attachment/album/201604/04/052358fjghg3it1oig4ih0.png)
+![Save Partition Changes](/Asserts/Images/album/201604/04/052358fjghg3it1oig4ih0.png)
 
 
 *保存分区更改*
@@ -138,7 +138,7 @@ Id 列显示由 fdisk 分配给每个分区的分区类型（分区 id）。一�
 必须注意的是，gdisk 可以用于创建 MBR 和 GPT 两种分区表。
 
 
-![Create GPT Partitions in Linux](/Asserts/Images//attachment/album/201604/04/052359wttf81v84mzjj1u8.png)
+![Create GPT Partitions in Linux](/Asserts/Images/album/201604/04/052359wttf81v84mzjj1u8.png)
 
 
 *创建 GPT 分区*
@@ -150,7 +150,7 @@ Id 列显示由 fdisk 分配给每个分区的分区类型（分区 id）。一�
 注意，fdisk 与 gdisk 中大多数命令都是一样的。因此，我们不会详细介绍这些命令选项，而是给出一张使用过程中的截图。
 
 
-![gdisk Command Options](/Asserts/Images//attachment/album/201604/04/052401jndri4wwzkfi9w1w.png)
+![gdisk Command Options](/Asserts/Images/album/201604/04/052401jndri4wwzkfi9w1w.png)
 
 
 *gdisk 命令选项*
@@ -168,7 +168,7 @@ Id 列显示由 fdisk 分配给每个分区的分区类型（分区 id）。一�
 
 ```
 
-![Check Filesystems Type in Linux](/Asserts/Images//attachment/album/201604/04/052403mudh1vuw1cx0qdsw.png)
+![Check Filesystems Type in Linux](/Asserts/Images/album/201604/04/052403mudh1vuw1cx0qdsw.png)
 
 
 *检查文件系统类型*
@@ -192,7 +192,7 @@ Id 列显示由 fdisk 分配给每个分区的分区类型（分区 id）。一�
 
 ```
 
-![Create ext4 Filesystems in Linux](/Asserts/Images//attachment/album/201604/04/052406lvtvyrztb7kymx9v.png)
+![Create ext4 Filesystems in Linux](/Asserts/Images/album/201604/04/052406lvtvyrztb7kymx9v.png)
 
 
 *创建 ext4 文件系统*
@@ -273,13 +273,13 @@ M为物理内存大小，S 为交换分区大小，单位 GB，那么：
 下面的例子，我们会使用 fdisk 将 /dev/sdc1（512MB，系统和内存为 256MB）来设置交换分区，下面是我们之前详细提过的步骤。注意，这种情况下我们使用的是指定大小分区。
 
 
-![Create-Swap-Partition in Linux](/Asserts/Images//attachment/album/201604/04/052408cc688zfk1zz6opp6.png)
+![Create-Swap-Partition in Linux](/Asserts/Images/album/201604/04/052408cc688zfk1zz6opp6.png)
 
 
 *创建交换分区*
 
 
-![Add Swap Partition in Linux](/Asserts/Images//attachment/album/201604/04/052410nqiabadsn3376kwz.png)
+![Add Swap Partition in Linux](/Asserts/Images/album/201604/04/052410nqiabadsn3376kwz.png)
 
 
 *启用交换分区*

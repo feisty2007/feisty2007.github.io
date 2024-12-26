@@ -49,7 +49,7 @@ sudo apt-get update && sudo apt-get install geary
 第一次启动Geary时，你需要设置你的Gmail，Yahoo 或 Microsoft 电子邮件帐户。
 
 
-![](/Asserts/Images//attachment/album/201311/28/13131154f7h1z7033x7u3u.png)
+![](/Asserts/Images/album/201311/28/13131154f7h1z7033x7u3u.png)
 
 
 设置非常的简单，只要输入你的账号信息，Geary 就会自动配置好你的账号。

@@ -19,7 +19,7 @@ tags:	[linuxcn,Windows]
 虽然用户可以选择使用 Media Creation Tool 手动安装May更新，但微软建议不要使用此方法，除非部署了新的驱动程序。
 
 
-![](/Asserts/Images//attachment/album/201905/28/095857p5dso4olqsv3dvlo.jpg)
+![](/Asserts/Images/album/201905/28/095857p5dso4olqsv3dvlo.jpg)
 
 
 来源：cnBeta.COM

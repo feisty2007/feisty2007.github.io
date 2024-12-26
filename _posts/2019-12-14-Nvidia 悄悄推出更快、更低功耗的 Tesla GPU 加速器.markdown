@@ -15,7 +15,7 @@ tags:	[linuxcn,GPU,Nvidia]
 > 
 
 
-![](/Asserts/Images//attachment/album/201912/03/233540nw1wyyfxxy8fww0y.jpg)
+![](/Asserts/Images/album/201912/03/233540nw1wyyfxxy8fww0y.jpg)
 
 
 Nvidia 上周举行了 Supercomputing 19 大会，不出意外的是公布了很多新闻，这些我们将稍后提到。但被忽略的一条或许是其中最有趣的：一张更快、功耗更低的新一代图形加速卡。

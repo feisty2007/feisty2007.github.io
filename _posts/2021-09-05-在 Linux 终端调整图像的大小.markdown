@@ -15,7 +15,7 @@ tags:	[linuxcn,图像,ImageMagick]
 > 
 
 
-![](/Asserts/Images//attachment/album/202109/12/235041ohsppv1hg1m26y1m.jpg "Old camera blue")
+![](/Asserts/Images/album/202109/12/235041ohsppv1hg1m26y1m.jpg "Old camera blue")
 
 
 ImageMagick 是一个方便的多用途命令行工具，它能满足你所有的图像需求。ImageMagick 支持各种图像类型，包括 JPG 照片和 PNG 图形。
@@ -48,7 +48,7 @@ $ convert PXL_20210413_015045733.jpg -resize 500x sleeping-cats.jpg
 现在新图片的大小只有 65KB。
 
 
-![Sleeping cats](/Asserts/Images//attachment/album/202109/12/235049u7s46j6jcjl64u14.jpg "Sleeping cats")
+![Sleeping cats](/Asserts/Images/album/202109/12/235049u7s46j6jcjl64u14.jpg "Sleeping cats")
 
 
 你可以用 `-resize` 选项同时提供宽度和高度尺寸。但是，如果只提供宽度，ImageMagic 就会为你做计算，并通过调整输出图像的高度比例来自动保留长宽比。

@@ -7,7 +7,7 @@ tags:	[linuxcn,snap]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/17/222938ba28a8i27q99ifa9.jpg)
+![](/Asserts/Images/album/201708/17/222938ba28a8i27q99ifa9.jpg)
 
 
 snapcraft 是一个正在为其在 Linux 中的地位而奋斗的包管理系统，它为你重新设想了分发软件的方式。这套新的跨发行版的工具可以用来帮助你构建和发布 snap 软件包。接下来我们将会讲述怎么使用 CircleCI 2.0 来加速这个过程以及一些在这个过程中的可能遇到的问题。

@@ -15,7 +15,7 @@ tags:	[linuxcn,监控,Slack]
 > 
 
 
-![](/Asserts/Images//attachment/album/201711/02/162453gvjdc1q41q08dqjp.jpg)
+![](/Asserts/Images/album/201711/02/162453gvjdc1q41q08dqjp.jpg)
 
 
 我的 Slack 机器人提示我一个运行了很长时间 SQL 查询。我应该尽快解决它。

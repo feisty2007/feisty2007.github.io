@@ -7,7 +7,7 @@ tags:	[linuxcn,AIY]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/09/153345vg8bo3cl9aacc83f.jpg)
+![](/Asserts/Images/album/201808/09/153345vg8bo3cl9aacc83f.jpg)
 
 
 Google 发布了一个 45 美元的 “AIY Vision Kit”，它是运行在树莓派 Zero W 上的基于 TensorFlow 的视觉识别开发套件，它使用了一个带 Movidius 芯片的 “VisionBonnet” 板。
@@ -16,7 +16,7 @@ Google 发布了一个 45 美元的 “AIY Vision Kit”，它是运行在树莓
 为加速该设备上的神经网络，Google 的 AIY 视频套件继承了早期树莓派上运行的 [AIY 项目](http://linuxgizmos.com/free-raspberry-pi-voice-kit-taps-google-assistant-sdk/) 的语音/AI 套件，这个型号的树莓派随五月份的 MagPi 杂志一起赠送。与语音套件和老的 Google 硬纸板 VR 查看器一样，这个新的 AIY 视觉套件也使用一个硬纸板包装。这个套件和 [Cloud Vision API](http://linuxgizmos.com/google-releases-cloud-vision-api-with-demo-for-pi-based-robot/) 是不一样的，它使用了一个在 2015 年演示过的基于树莓派的 GoPiGo 机器人，它完全在本地的处理能力上运行，而不需要使用一个云端连接。这个 AIY 视觉套件现在可以 45 美元的价格去预订，将在 12 月份发货。
 
 
-[![](/Asserts/Images//attachment/album/201808/09/153413j76kyykr65t6l6yv.jpg)](http://linuxgizmos.com/files/google_aiyvisionkit.jpg) [![](/Asserts/Images//attachment/album/201808/09/153414q992onemd4o2xctz.jpg)](http://linuxgizmos.com/files/rpi_zerow.jpg)
+[![](/Asserts/Images/album/201808/09/153413j76kyykr65t6l6yv.jpg)](http://linuxgizmos.com/files/google_aiyvisionkit.jpg) [![](/Asserts/Images/album/201808/09/153414q992onemd4o2xctz.jpg)](http://linuxgizmos.com/files/rpi_zerow.jpg)
 
 
 *AIY 视觉套件，完整包装（左）和树莓派 Zero W*
@@ -28,7 +28,7 @@ Google 发布了一个 45 美元的 “AIY Vision Kit”，它是运行在树莓
 这个 AIY 视觉套件要求用户提供一个树莓派 Zero W、一个 [树莓派摄像机 v2](http://linuxgizmos.com/raspberry-pi-cameras-jump-to-8mp-keep-25-dollar-price/)、以及一个 16GB 的 micro SD 卡，它用来下载基于 Linux 的 OS 镜像。这个套件包含了 VisionBonnet、一个 RGB 街机风格的按钮、一个压电扬声器、一个广角镜头套件、以及一个包裹它们的硬纸板。还有一些就是线缆、支架、安装螺母，以及连接部件。
 
 
-[![](/Asserts/Images//attachment/album/201808/09/153414xvxuukphyp2vdqbu.jpg)](http://linuxgizmos.com/files/google_aiyvisionkit_pieces.jpg) [![](/Asserts/Images//attachment/album/201808/09/153415a1lme7nvkd76e68k.jpg)](http://linuxgizmos.com/files/google_visionbonnet.jpg)
+[![](/Asserts/Images/album/201808/09/153414xvxuukphyp2vdqbu.jpg)](http://linuxgizmos.com/files/google_aiyvisionkit_pieces.jpg) [![](/Asserts/Images/album/201808/09/153415a1lme7nvkd76e68k.jpg)](http://linuxgizmos.com/files/google_visionbonnet.jpg)
 
 
 *AIY 视觉套件组件（左）和 VisonBonnet 附件板*
@@ -40,7 +40,7 @@ Google 发布了一个 45 美元的 “AIY Vision Kit”，它是运行在树莓
 MobileNet 模型是低延时、低功耗，和参数化的，以满足资源受限的不同使用情景。Google 说，这个模型可以用于构建分类、检测、嵌入、以及分隔。在本月的早些时候，Google 发布了一个开发者预览版，它是一个对 Android 和 iOS 移动设备友好的 [TensorFlow Lite](https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html) 库，它与 MobileNets 和 Android 神经网络 API 是兼容的。
 
 
-[![](/Asserts/Images//attachment/album/201808/09/153416t5x00xp5xc56vpx0.jpg)](http://linuxgizmos.com/files/google_aiyvisionkit_assembly.jpg)
+[![](/Asserts/Images/album/201808/09/153416t5x00xp5xc56vpx0.jpg)](http://linuxgizmos.com/files/google_aiyvisionkit_assembly.jpg)
 
 
 *AIY 视觉套件包装图*
@@ -49,7 +49,7 @@ MobileNet 模型是低延时、低功耗，和参数化的，以满足资源受�
 除了提供这三个模型之外，AIY 视觉套件还提供了基本的 TensorFlow 代码和一个编译器，因此用户可以去开发自己的模型。另外，Python 开发者可以写一些新软件去定制 RGB 按钮颜色、压电元素声音、以及在 VisionBonnet 上的 4x GPIO 针脚，它可以添加另外的指示灯、按钮、或者伺服机构。Potential 模型包括识别食物、基于可视化输入来打开一个狗门、当你的汽车偏离车道时发出文本信息、或者根据识别到的人的面部表情来播放特定的音乐。
 
 
-[![](/Asserts/Images//attachment/album/201808/09/153416kcf91eksyyu7ejfz.jpg)](http://linuxgizmos.com/files/movidius_myriad2vpu_block.jpg) [![](/Asserts/Images//attachment/album/201808/09/153417scltkwfkffk3skrk.jpg)](http://linuxgizmos.com/files/movidius_myriad2_reference_board.jpg)
+[![](/Asserts/Images/album/201808/09/153416kcf91eksyyu7ejfz.jpg)](http://linuxgizmos.com/files/movidius_myriad2vpu_block.jpg) [![](/Asserts/Images/album/201808/09/153417scltkwfkffk3skrk.jpg)](http://linuxgizmos.com/files/movidius_myriad2_reference_board.jpg)
 
 
 *Myriad 2 VPU 结构图（左）和参考板*

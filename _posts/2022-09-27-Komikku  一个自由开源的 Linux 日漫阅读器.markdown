@@ -7,7 +7,7 @@ tags:	[linuxcn,漫画]
 ---
 
 
-![komikku reader](/Asserts/Images//attachment/album/202209/27/175759gu3z8400htp3pppc.png)
+![komikku reader](/Asserts/Images/album/202209/27/175759gu3z8400htp3pppc.png)
 
 
 喜欢阅读漫画书吗？有 [大量可用于 Linux 的漫画阅读器](https://itsfoss.com/best-comic-book-reader-linux/)。
@@ -25,7 +25,7 @@ tags:	[linuxcn,漫画]
 ### Komikku: 一个 Linux 专用的日漫阅读器
 
 
-![Komikku UI](/Asserts/Images//attachment/album/202209/27/175759xuq52uat0lbcax9a.png)
+![Komikku UI](/Asserts/Images/album/202209/27/175759xuq52uat0lbcax9a.png)
 
 
 Komikku 是一个开源的日漫阅读器，且仅有 Linux 应用。
@@ -40,7 +40,7 @@ Komikku 是一个开源的日漫阅读器，且仅有 Linux 应用。
 然而，Komikku 用户会有更多的功能，以获得阅读漫画的良好体验。
 
 
-![Komikku 在线服务器列表](/Asserts/Images//attachment/album/202209/27/175759ffjz2z2xvfvv8q4i.png)
+![Komikku 在线服务器列表](/Asserts/Images/album/202209/27/175759ffjz2z2xvfvv8q4i.png)
 
 
 例如，Komikku 可在线和离线观看日漫。此外，你可以从支持的服务器上下载它。
@@ -65,7 +65,7 @@ Komikku 的一些最佳功能包括：
 * 键盘快捷键。
 
 
-![Komikku 紧凑视图](/Asserts/Images//attachment/album/202209/27/175800i3kdkbtkmmgbusbt.png)
+![Komikku 紧凑视图](/Asserts/Images/album/202209/27/175800i3kdkbtkmmgbusbt.png)
 
 
 ### 安装
@@ -80,7 +80,7 @@ Komikku 可在 [Flathub](https://flathub.org/apps/details/info.febvre.Komikku) �
 当你在系统上设置了 Flatpak，你可以通过软件中心搜索它，或者从你的终端安装它。
 
 
-![从 GNOME 软件中安装 Komikku](/Asserts/Images//attachment/album/202209/27/175800ijh8j1eie77t3rcc.png)
+![从 GNOME 软件中安装 Komikku](/Asserts/Images/album/202209/27/175800ijh8j1eie77t3rcc.png)
 
 
 要使用终端安装 Komikku，请输入以下命令：

@@ -7,10 +7,10 @@ tags:	[linuxcn,开源,交通,NTLM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/16/162247ypd3disz5sp337z5.jpg)
+![](/Asserts/Images/album/202310/16/162247ypd3disz5sp337z5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/16/161728d39ty6daaade66ud.jpg)
+![](/Asserts/Images/album/202310/16/161728d39ty6daaade66ud.jpg)
 
 
 ### 只有约 11% 的开源项目得到了积极维护
@@ -35,7 +35,7 @@ Sonatype 的《年度软件供应链分析报告》发现，开源项目的维�
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/16/161852h9j99lx66956c66k.jpg)
+![](/Asserts/Images/album/202310/16/161852h9j99lx66956c66k.jpg)
 
 
 ### 谷歌人工智能 “绿灯计划” 加速交通、降低油耗和碳排放
@@ -60,7 +60,7 @@ Sonatype 的《年度软件供应链分析报告》发现，开源项目的维�
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/16/161908o5oow599vvse7sxi.jpg)
+![](/Asserts/Images/album/202310/16/161908o5oow599vvse7sxi.jpg)
 
 
 ### 微软计划放弃使用 NTLM 验证方式

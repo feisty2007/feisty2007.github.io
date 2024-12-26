@@ -32,7 +32,7 @@ tags:	[linuxcn,笔记本,电脑]
 如果你正想买一台 Linux 的笔记本，不妨考虑一下我的建议。下面这些制造商或者商家都提供开箱即用的 Linux 系统。
 
 
-![](/Asserts/Images//attachment/album/201906/16/114747csv3pejhu8p45k5s.jpg)
+![](/Asserts/Images/album/201906/16/114747csv3pejhu8p45k5s.jpg)
 
 
 ### 可以买到 Linux 笔记本或者台式机的 10 个地方
@@ -53,7 +53,7 @@ tags:	[linuxcn,笔记本,电脑]
 #### 1、戴尔
 
 
-![戴尔 XPS Ubuntu | 图片所有权: Lifehacker](/Asserts/Images//attachment/album/201906/16/114748z7z4z7e4e0ze41a4.jpg)
+![戴尔 XPS Ubuntu | 图片所有权: Lifehacker](/Asserts/Images/album/201906/16/114748z7z4z7e4e0ze41a4.jpg)
 
 
 戴尔提供 Ubuntu 笔记本已经有好几年了。他们的旗舰产品 XPS 系列的亮点之一就是预装了 Ubuntu 的开发者版本系列产品。
@@ -89,7 +89,7 @@ tags:	[linuxcn,笔记本,电脑]
 除了性能之外，System76 还格外重视设计。他们的 [Thelio 系列台式机](https://system76.com/desktops) 采用纯手工木制设计。
 
 
-![System76 Thelio 台式机](/Asserts/Images//attachment/album/201906/16/114750ux4zueeqyqvqhze1.jpg)
+![System76 Thelio 台式机](/Asserts/Images/album/201906/16/114750ux4zueeqyqvqhze1.jpg)
 
 
 你可以在 [这里](https://system76.com/laptops) 查看他们提供的 Linux 笔记本。他们同时也提供 [基于 Linux 的迷你电脑](https://itsfoss.com/4-linux-based-mini-pc-buy-2015/) 和 [服务器](https://system76.com/servers)。
@@ -113,7 +113,7 @@ Purism 是一个总部设在美国的企业，以提供确保数据安全和隐�
 Purism 是从一个众筹项目开始的，该项目旨在创造一个几乎没有任何专有软件的高端开源笔记本。2015年，从这个 [成功的 25 万美元的众筹项目](https://www.crowdsupply.com/purism/librem-15) 中诞生了 [Librem 15](https://puri.sm/products/librem-15/) 笔记本。
 
 
-![Purism Librem 13](/Asserts/Images//attachment/album/201906/16/114752f33xyg2yy2yc22gh.jpg)
+![Purism Librem 13](/Asserts/Images/album/201906/16/114752f33xyg2yy2yc22gh.jpg)
 
 
 后来 Purism 发布了一个 13 英寸的版本 [Librem 13](https://puri.sm/products/librem-13/)。Purism 还开发了一个自己的 Linux 发行版 [Pure OS](https://www.pureos.net/)，该发行版非常注重隐私和安全问题。
@@ -143,7 +143,7 @@ Slimbook 是一个总部设在西班牙的 Linux 电脑销售商。Slimbook 在�
 Slimbook 有众多 Linux 笔记本、台式机和迷你电脑可供选择。他们另外一个非常不错的产品是一个类似于 iMac 的 24 英寸 [拥有内置 CPU 的曲面显示屏](https://slimbook.es/en/aio-curve-all-in-one-for-gnu-linux)。
 
 
-![Slimbook Kymera Aqua 水冷 Linux 电脑](/Asserts/Images//attachment/album/201906/16/114755qnwlope1nqpnowlt.jpg)
+![Slimbook Kymera Aqua 水冷 Linux 电脑](/Asserts/Images/album/201906/16/114755qnwlope1nqpnowlt.jpg)
 
 
 想要一台水冷 Linux 电脑吗？Slimbook 的 [Kymera Aqua](https://slimbook.es/en/kymera-aqua-the-gnu-linux-computer-with-custom-water-cooling) 是合适之选。
@@ -167,7 +167,7 @@ TUXEDO 只使用 Linux 系统，产品都是“德国制造”，并且提供 5 
 TUXEDO 在 Linux 系统的硬件适配上下了很大功夫。并且如果你遇到了麻烦或者是想从头开始，可以通过系统恢复选项，自动恢复出厂设置。
 
 
-![Tuxedo 电脑支持众多发行版](/Asserts/Images//attachment/album/201906/16/114756gccwicyw0xncbzpc.jpg)
+![Tuxedo 电脑支持众多发行版](/Asserts/Images/album/201906/16/114756gccwicyw0xncbzpc.jpg)
 
 
 TUXEDO 有许多 Linux 笔记本、台式机和迷你电脑产品可供选择。他们还同时支持 Intel 和 AMD 的处理器。除了电脑，TUXEDO 还提供一系列 Linux 支持的附件，比如扩展坞、DVD 和蓝光刻录机、移动电源以及其它外围设备。
@@ -185,7 +185,7 @@ TUXEDO 有许多 Linux 笔记本、台式机和迷你电脑产品可供选择。
 [Vikings](https://store.vikings.net/index.php?route=common/home) 的总部设在德国（而不是斯堪的纳维亚半岛，哈哈）。Vikings 拥有[自由软件基金会](https://www.fsf.org)的认证，专注于自由友好的硬件。
 
 
-![Vikings 的产品经过了自由软件基金会认证](/Asserts/Images//attachment/album/201906/16/114758qugeu76g77oorazv.jpg)
+![Vikings 的产品经过了自由软件基金会认证](/Asserts/Images/album/201906/16/114758qugeu76g77oorazv.jpg)
 
 
 Vikings 的 Linux 笔记本和台式机使用的是 [coreboot](https://www.coreboot.org/) 或者 [Libreboot](https://libreboot.org/)，而不是像 BIOS 和 UEFI 这样的专有启动系统。你还可以购买不运行任何专有软件的 [硬件服务器](https://store.vikings.net/libre-friendly-hardware/the-server-1u)。
@@ -209,7 +209,7 @@ Vikings 还有包括路由器、扩展坞等在内的其它配件。他们的产
 如今，你可以买到预装了包括 Mint、Manjaro、elementrayOS 在内的 Linux 发行版的笔记本电脑。你还可以要求所购买的设备上安装你所选择的发行版。
 
 
-![](/Asserts/Images//attachment/album/201906/16/114759cqdzqdncuc9bf8vc.jpg)
+![](/Asserts/Images/album/201906/16/114759cqdzqdncuc9bf8vc.jpg)
 
 
 Ubuntushop 的一个独特之处在于，它的所有电脑都带有默认的 Tails OS live 选项。即使你安装了某个其它的 Linux 发行版作为日常使用的系统，也随时可以选择启动到 Tails OS（不需要使用 live USB）。[Tails OS](https://tails.boum.org/) 是一个基于 Debian 的发行版，它在用户注销后会删除所有使用痕迹，并且在默认情况下使用 Tor 网络。
@@ -239,7 +239,7 @@ Ubuntushop 的一个独特之处在于，它的所有电脑都带有默认的 Ta
 Minifree 的设备经过了 [自由软件基金会](https://www.fsf.org/) 的认证，所以你可以放心买到的电脑都遵循了自由开源软件的指导规则。
 
 
-![](/Asserts/Images//attachment/album/201906/16/114801mi8am4yca5mh2twz.jpg)
+![](/Asserts/Images/album/201906/16/114801mi8am4yca5mh2twz.jpg)
 
 
 和这个清单中许多其它 Linux 笔记本销售商不同，Minifree 的电脑并不是特别贵。花 200 欧元就可以买到一台预装了 Libreboot 和 [Trisquel GNU/Linux](https://trisquel.info/) 的 Linux 电脑。
@@ -266,7 +266,7 @@ Minifree 的设备经过了 [自由软件基金会](https://www.fsf.org/) 的认
 和这个清单里的很多其它商家一样，Entroware 也选择 Ubuntu 作为 Linux 发行版。[Ubuntu MATE 也是 Entroware Linux 笔记本的一种可选系统](https://itsfoss.com/ubuntu-mate-entroware/).
 
 
-![](/Asserts/Images//attachment/album/201906/16/114803quzu1t93tzb99uta.jpg)
+![](/Asserts/Images/album/201906/16/114803quzu1t93tzb99uta.jpg)
 
 
 除了笔记本、台式机和服务器之外，Entroware 还拥有自己的 [迷你电脑 Aura](https://itsfoss.com/ubuntu-entroware-aura-mini-pc/)，以及一个 iMac 风格的[内置 CPU 的显示器 Ares](https://www.entroware.com/store/ares).
@@ -290,7 +290,7 @@ Juno 提供一系列的笔记本，以及一款叫做 Olympia 迷你电脑。和
 Juno 的主要特色是 Juve，一款售价 299 美元的 Chromebook 的低成本替代品。它运行一个双系统，包括 Solus 或者 elementray，以及一个基于安卓的电脑操作系统 [Prime OS](https://primeos.in/)。
 
 
-![Juve With Android-based Prime Os](/Asserts/Images//attachment/album/201906/16/114804pkccvvykv65zrxc6.jpg)
+![Juve With Android-based Prime Os](/Asserts/Images/album/201906/16/114804pkccvvykv65zrxc6.jpg)
 
 
 支持范围：英国、美国、加拿大、墨西哥、南美和欧洲的大部分地区、新西兰、亚洲和非洲的某些地区。更多信息见 [这里](https://junocomputers.com/shipping)。

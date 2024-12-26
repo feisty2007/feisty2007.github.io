@@ -15,7 +15,7 @@ tags:	[linuxcn,IBM,微软]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/23/005251s2z9exdlyk9k9t93.jpg)
+![](/Asserts/Images/album/201909/23/005251s2z9exdlyk9k9t93.jpg)
 
 
 当微软将 Azure 作为其 Windows 服务器操作系统的云计算版本发布时，它并没有使其成为仅支持 Windows 系统的版本，它还支持 Linux 系统，并且在短短几年内[其 Linux 实例的数量现在已经超过了Windows 实例的数量](https://www.openwall.com/lists/oss-security/2019/06/27/7)。

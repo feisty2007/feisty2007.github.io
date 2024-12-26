@@ -7,10 +7,10 @@ tags:	[linuxcn,树莓派,Winamp,固态硬盘]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/03/195951w53ik70w87vp2va2.jpg)
+![](/Asserts/Images/album/202208/03/195951w53ik70w87vp2va2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/03/195957o9wm1gwzfdxd3wwt.jpg)
+![](/Asserts/Images/album/202208/03/195957o9wm1gwzfdxd3wwt.jpg)
 
 
 ### 制造固态硬盘产生的碳排放远超硬盘
@@ -35,7 +35,7 @@ tags:	[linuxcn,树莓派,Winamp,固态硬盘]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/03/200007yd9iy4ie5ggn9t9t.jpg)
+![](/Asserts/Images/album/202208/03/200007yd9iy4ie5ggn9t9t.jpg)
 
 
 ### 树莓派 4 增加对 3D API 的支持
@@ -60,7 +60,7 @@ tags:	[linuxcn,树莓派,Winamp,固态硬盘]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/03/200021fgqgn1f81g7xp1g2.jpg)
+![](/Asserts/Images/album/202208/03/200021fgqgn1f81g7xp1g2.jpg)
 
 
 ### Winamp 5.9 释出首个 RC 版本

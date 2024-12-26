@@ -7,10 +7,10 @@ tags:	[linuxcn,Nouveau,云服务,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/19/191825sdnssd3esdjx3ynj.jpg)
+![](/Asserts/Images/album/202309/19/191825sdnssd3esdjx3ynj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/19/191840k4e4l46ffq0fx66e.jpg)
+![](/Asserts/Images/album/202309/19/191840k4e4l46ffq0fx66e.jpg)
 
 
 ### SaaS 公司退云节省了 100 万美元
@@ -35,7 +35,7 @@ SaaS 项目管理公司 37 Signals 的 CTO 此前表示，他的公司每年在�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/19/191851w4a344q44oia3jaj.jpg)
+![](/Asserts/Images/album/202309/19/191851w4a344q44oia3jaj.jpg)
 
 
 ### 英伟达显卡的开源 Nouveau 驱动维护者辞职
@@ -60,7 +60,7 @@ Nouveau 刚刚发布了一个大型补丁系列，使 Nouveau 内核驱动程序
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/19/191906vxfqeq7a3deeeap7.jpg)
+![](/Asserts/Images/album/202309/19/191906vxfqeq7a3deeeap7.jpg)
 
 
 ### 微软发布了 WSL 2 的 2.0.0 版本

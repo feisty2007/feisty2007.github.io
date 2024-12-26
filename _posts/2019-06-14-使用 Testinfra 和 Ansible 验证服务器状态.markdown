@@ -15,7 +15,7 @@ tags:	[linuxcn,Ansible]
 > 
 
 
-![Terminal command prompt on orange background](/Asserts/Images//attachment/album/201906/06/082935coi444f4j7t43jo6.jpg "Terminal command prompt on orange background")
+![Terminal command prompt on orange background](/Asserts/Images/album/201906/06/082935coi444f4j7t43jo6.jpg "Terminal command prompt on orange background")
 
 
 根据设计，[Ansible](https://www.ansible.com/) 传递机器的期望状态，以确保 Ansible 剧本或角色的内容部署到目标机器上。但是，如果你需要确保所有基础架构更改都在 Ansible 中，该怎么办？或者想随时验证服务器的状态？

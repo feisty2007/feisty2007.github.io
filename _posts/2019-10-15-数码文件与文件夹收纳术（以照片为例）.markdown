@@ -7,7 +7,7 @@ tags:	[linuxcn,照片,相片]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/05/000950xsxopomsrs55rrb5.jpg)
+![](/Asserts/Images/album/201910/05/000950xsxopomsrs55rrb5.jpg)
 
 
 * 更新 2014-05-14：增加了一些具体实例

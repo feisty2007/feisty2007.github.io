@@ -7,7 +7,7 @@ tags:	[linuxcn,转义序列]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/05/134703ne9559n9rmrer6ee.jpg)
+![](/Asserts/Images/album/202303/05/134703ne9559n9rmrer6ee.jpg)
 
 
 

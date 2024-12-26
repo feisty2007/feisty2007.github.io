@@ -7,7 +7,7 @@ tags:	[linuxcn,DG/UX,UNIX]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/17/083916hnnvzxs1tnmn7thn.jpg)
+![](/Asserts/Images/album/202312/17/083916hnnvzxs1tnmn7thn.jpg)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,DG/UX,UNIX]
 这款 [Unix](https://en.wikipedia.org/wiki/Unix) [操作系统](https://en.wikipedia.org/wiki/Operating_system) 由 <ruby> <a href="https://en.wikipedia.org/wiki/Data_General">  数据通用公司 </a> <rt>  Data General </rt></ruby> 开发，主要服务于 [Eclipse MV](https://en.wikipedia.org/wiki/Eclipse_MV) 迷你计算机系列以及随后的 [AViiON](https://en.wikipedia.org/wiki/Aviion) 工作站和服务器。我并未在 Eclipse 系统上工作过，我的工作主要在 AViiON 系统上进行。这些系统坚固得就像坦克，使用起来也异常简洁。
 
 
-![Data General AV/4000 | Picture copyright WolfeDen.org](/Asserts/Images//attachment/album/202312/17/083945klbh8lwlnlhnznzn.jpg)
+![Data General AV/4000 | Picture copyright WolfeDen.org](/Asserts/Images/album/202312/17/083945klbh8lwlnlhnznzn.jpg)
 
 
 ### 操作系统概述
@@ -33,7 +33,7 @@ tags:	[linuxcn,DG/UX,UNIX]
 我在 1990 年代中期开始接触 DG/UX，当时它已经存在了一段时间。DG/UX 1 在 1985 年 3 月发布，是基于 [UNIX System V](https://en.wikipedia.org/wiki/UNIX_System_V) Release 2，且融入了 [4.1BSD](https://en.wikipedia.org/wiki/BSD) 的优秀特性构建的。几年后，DG/UX 3.10 就添加了 [TCP/IP](https://en.wikipedia.org/wiki/TCP/IP) 网络、[NFS](https://en.wikipedia.org/wiki/Network_File_System) 和 [X Window System](https://en.wikipedia.org/wiki/X_Window_System)。记得 [CDE](https://itsfoss.com/common-desktop-environment/) 吗？
 
 
-![CDE (Common Desktop Environment)](/Asserts/Images//attachment/album/202312/17/083945zu6xb4t5gbgwatsb.jpg)
+![CDE (Common Desktop Environment)](/Asserts/Images/album/202312/17/083945zu6xb4t5gbgwatsb.jpg)
 
 
 DG/UX 4 在 1988 年发布（这个“4”在后面让我非常困扰...），此版本是系统的一次重大设计革新，基于 [System V Release 3](https://en.wikipedia.org/wiki/System_V_Release_3)。同时，其文件系统可以通过逻辑磁盘设施跨越多个磁盘。
@@ -57,7 +57,7 @@ DG/UX 5.4 版本的改变非常有意义，这也是我开始使用的版本。�
 我曾接触过的 AViiON 机器分两种类型：一种是 AV300 [pizza box](https://en.wikipedia.org/wiki/Pizza_box_form_factor) 工作站，另一种是配有 [CLARiiON](https://en.wikipedia.org/wiki/Clariion) 磁盘阵列的 AV9500 服务器。
 
 
-![Data General AViiON AV/300D came in Pizza Box style | Picture Credit Pizza Box Computer](/Asserts/Images//attachment/album/202312/17/083945mtztib16tt4cvzyk.jpg)
+![Data General AViiON AV/300D came in Pizza Box style | Picture Credit Pizza Box Computer](/Asserts/Images/album/202312/17/083945mtztib16tt4cvzyk.jpg)
 
 
 在 AViiON 中，DG/UX 支持使用 [多处理器](https://en.wikipedia.org/wiki/Multiprocessor)。在一个保险/风险管理工作环境中，这是一项很大的优势，因为并不是所有的 Unix 包都支持这个功能。此外，DG/UX 还能无缝地与 CLARiiON 阵列配合工作。
@@ -66,7 +66,7 @@ DG/UX 5.4 版本的改变非常有意义，这也是我开始使用的版本。�
 有了像 CLARiiON 这样的 RAID，为特定账户配置空间非常容易。但一个以前的管理员在创造账户时总是会选择“使用第一个可用空间”。很快我们碰到了一些问题，比如：一个单独的查询就会点亮全部 125 个磁盘上的指示灯 —— 一个账户的数据分布着整个阵列设备。
 
 
-![By Michael Moll - photo taken by Michael Moll, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=512844](/Asserts/Images//attachment/album/202312/17/083945mjpgjjh5pr9rjpj8.jpg)
+![By Michael Moll - photo taken by Michael Moll, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=512844](/Asserts/Images/album/202312/17/083945mjpgjjh5pr9rjpj8.jpg)
 
 
 当我成为主管理员后，我就着手修复这个问题，把一个阵列指定给一些较大的帐户，小帐户分组到两个阵列上。整个修复过程花了我一个星期的晚班时间，但是 DG/UX 让重排文件到指定阵列的整个过程变得异常轻松。

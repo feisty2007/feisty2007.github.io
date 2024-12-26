@@ -7,7 +7,7 @@ tags:	[linuxcn,Garuda]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/03/225157jllf15lmeqehhhip.jpg)
+![](/Asserts/Images/album/202311/03/225157jllf15lmeqehhhip.jpg)
 
 
 
@@ -33,7 +33,7 @@ Garuda Linux 提供了众多选项以满足不同的使用场景，无论是编�
 ### ? Garuda Linux “Spizaetus”：有哪些新变化？
 
 
-![](/Asserts/Images//attachment/album/202311/03/225227sxdwrp5rrdzale00.png)
+![](/Asserts/Images/album/202311/03/225227sxdwrp5rrdzale00.png)
 
 
 这个版本的代号“[Spizaetus](https://en.wikipedia.org/wiki/Spizaetus)” 是来源于一种通常在美洲热带地区发现的鹰鹞。此次发布的**主要亮点**包括：
@@ -47,7 +47,7 @@ Garuda Linux 提供了众多选项以满足不同的使用场景，无论是编�
 #### 提供 Hyprland ISO
 
 
-![](/Asserts/Images//attachment/album/202311/03/225228yljls041s4ss1smm.png)
+![](/Asserts/Images/album/202311/03/225228yljls041s4ss1smm.png)
 
 
 在这个 Garuda Linux 的版本中，推出了带有 [Hyprland](https://hyprland.org/) 动态平铺 Wayland 组合器的新 ISO，这让**流畅的动画**和**轻松的窗口平铺**成为可能。

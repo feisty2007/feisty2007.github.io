@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/16/171749ip2lzzx4747u232t.jpg)
+![](/Asserts/Images/album/202308/16/171749ip2lzzx4747u232t.jpg)
 
 
 Fedora 替代下载是 Fedora 项目提供的一项非常出色的资源，为寻求特定需求或独特用例的用户提供了替代的发行选项。本文将深入探讨 Fedora 替代下载的多样化选择，重点介绍它们的重要性以及它们如何满足 Fedora 社区中的不同需求。你可以在我之前的文章 [介绍不同的 Fedora Linux 版本](https://fedoramagazine.org/introduce-the-different-fedora-linux-editions/) 中找到所有 Fedora Linux 变种的概述。

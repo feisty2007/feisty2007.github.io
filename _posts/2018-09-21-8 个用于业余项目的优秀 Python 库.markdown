@@ -15,7 +15,7 @@ tags:	[linuxcn,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/201809/13/083258l7vk8lqln1f0q2lz.png)
+![](/Asserts/Images/album/201809/13/083258l7vk8lqln1f0q2lz.png)
 
 
 在 Python/Django 的世界里有这样一个谚语：为语言而来，为社区而留。对绝大多数人来说的确是这样的，但是，还有一件事情使得我们一直停留在 Python 的世界里，不愿离开，那就是我们可以很容易地利用一顿午餐或晚上几个小时的时间，把一个想法快速地实现出来。
@@ -27,7 +27,7 @@ tags:	[linuxcn,Python]
 ### 在数据库中即时保存数据：Dataset
 
 
-当我们想要在不知道最终数据库表长什么样的情况下，快速收集数据并保存到数据库中的时候，[Dataset](https://Asserts/Images/set.readthedocs.io/en/latest/) 库将是我们的最佳选择。Dataset 库有一个简单但功能强大的 API，因此我们可以很容易的把数据保存下来，之后再进行整理。
+当我们想要在不知道最终数据库表长什么样的情况下，快速收集数据并保存到数据库中的时候，[Dataset](https://dataset.readthedocs.io/en/latest/) 库将是我们的最佳选择。Dataset 库有一个简单但功能强大的 API，因此我们可以很容易的把数据保存下来，之后再进行整理。
 
 
 Dataset 建立在 SQLAlchemy 之上，所以如果需要对它进行扩展，你会感到非常熟悉。使用 Django 内建的 [inspectdb](https://docs.djangoproject.com/en/2.1/ref/django-admin/#django-admin-inspectdb) 管理命令可以很容易地把底层数据库模型导入 Django 中，这使得和现有数据库一同工作不会出现任何障碍。
@@ -66,7 +66,7 @@ Dataset 建立在 SQLAlchemy 之上，所以如果需要对它进行扩展，你
 ### 把 CSV 文件转换到 API 中：DataSette
 
 
-[DataSette](https://github.com/simonw/Asserts/Images/sette) 是一个神奇的工具，它可以很容易地把 CSV 文件转换为全特性的只读 REST JSON API，同时，不要把它和 Dataset 库混淆。Datasette 有许多特性，包括创建图表和 geo（用于创建交互式地图），并且很容易通过容器或第三方网络主机进行部署。
+[DataSette](https://github.com/simonw/datasette) 是一个神奇的工具，它可以很容易地把 CSV 文件转换为全特性的只读 REST JSON API，同时，不要把它和 Dataset 库混淆。Datasette 有许多特性，包括创建图表和 geo（用于创建交互式地图），并且很容易通过容器或第三方网络主机进行部署。
 
 
 ### 处理环境变量等：Envparse

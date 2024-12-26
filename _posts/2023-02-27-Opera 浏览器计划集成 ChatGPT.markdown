@@ -7,7 +7,7 @@ tags:	[linuxcn,Opera,ChatGPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/17/091254j3ntjya2wr2ojjkn.jpg)
+![](/Asserts/Images/album/202302/17/091254j3ntjya2wr2ojjkn.jpg)
 
 
 

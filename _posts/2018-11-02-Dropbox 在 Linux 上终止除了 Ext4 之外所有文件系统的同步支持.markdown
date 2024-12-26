@@ -15,7 +15,7 @@ tags:	[linuxcn,Dropbox,Ext4]
 > 
 
 
-![Dropbox ends support for various file system types](/Asserts/Images//attachment/album/201811/20/212232ol1yfli78q7z8z8i.png)
+![Dropbox ends support for various file system types](/Asserts/Images/album/201811/20/212232ol1yfli78q7z8z8i.png)
 
 
 [Dropbox](https://www.dropbox.com/) 是最受欢迎的 [Linux 中的云服务](https://itsfoss.com/cloud-services-linux/)之一。很多人都在使用 Linux 下的 Dropbox 同步客户端。但是，最近，一些用户在他们的 Dropbox Linux 桌面客户端上收到一条警告说：
@@ -46,7 +46,7 @@ tags:	[linuxcn,Dropbox,Ext4]
 > 
 
 
-![Dropbox official confirmation over limitation on supported file systems](/Asserts/Images//attachment/album/201811/20/212235hgeeeas6nos2n6ze.jpg)
+![Dropbox official confirmation over limitation on supported file systems](/Asserts/Images/album/201811/20/212235hgeeeas6nos2n6ze.jpg)
 
 
 *Dropbox 官方确认支持文件系统的限制*
@@ -67,7 +67,7 @@ Linux 仅支持 Ext4 文件系统。但这并不是一个令人担忧的新闻�
 在 Ubuntu 或其他基于 Ubuntu 的发行版上，打开磁盘应用并查看 Linux 系统所在分区的文件系统。
 
 
-![Check file system type on Ubuntu](/Asserts/Images//attachment/album/201811/20/212236fuzkjo83q8683zq0.jpg)
+![Check file system type on Ubuntu](/Asserts/Images/album/201811/20/212236fuzkjo83q8683zq0.jpg)
 
 
 *检查 Ubuntu 上的文件系统类型*

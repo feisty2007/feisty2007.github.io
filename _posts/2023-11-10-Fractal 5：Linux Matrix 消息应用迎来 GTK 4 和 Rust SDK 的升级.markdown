@@ -7,7 +7,7 @@ tags:	[linuxcn,Matrix,Fractal]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/30/174848tvkmukflffwhiuqi.jpg)
+![](/Asserts/Images/album/202311/30/174848tvkmukflffwhiuqi.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,Matrix,Fractal]
 ### ? Fractal 5：有什么新特性？
 
 
-![](/Asserts/Images//attachment/album/202311/30/174920xclc2sswlv3c35lm.png)
+![](/Asserts/Images/album/202311/30/174920xclc2sswlv3c35lm.png)
 
 
 与之前版本相比，作为**完全重写**的 Fractal 5 现在采用了 [GTK 4](https://blog.gtk.org/2020/12/16/gtk-4-0/)、[libadwaita](https://gitlab.gnome.org/GNOME/libadwaita) 和 [Matrix Rust SDK](https://github.com/matrix-org/matrix-rust-sdk)，提供了现代化的界面，使人感到非常亲切。
@@ -45,25 +45,25 @@ Fractal 现在在所有类型的屏幕上都可以**正确缩放**，无论是�
 此外，现在可以**回复特定消息**，用 emoji **回应消息**，甚至在使用 Fractal 聊天时**编辑/删除消息**。
 
 
-![](/Asserts/Images//attachment/album/202311/30/174921drsiwlrwiqizmq37.png)
+![](/Asserts/Images/album/202311/30/174921drsiwlrwiqizmq37.png)
 
 
 你还可以将**当前位置发送**到你的任何聊天中，只需确保你的系统支持“位置服务”并已启用。
 
 
-![](/Asserts/Images//attachment/album/202311/30/174921m307ufvuts8usvj8.png)
+![](/Asserts/Images/album/202311/30/174921m307ufvuts8usvj8.png)
 
 
 查看图片和播放音频或视频现在更加直观，你可以直接从聊天窗口中查看/播放。
 
 
-![](/Asserts/Images//attachment/album/202311/30/174921ia8k0k44hrtttpt7.png)
+![](/Asserts/Images/album/202311/30/174921ia8k0k44hrtttpt7.png)
 
 
 最后，Fractal 现在支持**登录多个帐户**，并提供 [单点登录](https://matrix.org/docs/older/client-sso-guide/)（SSO）的附加支持。这将使在同一客户端实例上处理多个帐户变得轻松。
 
 
-![](/Asserts/Images//attachment/album/202311/30/174922ry6xl0v88quzeu1z.png)
+![](/Asserts/Images/album/202311/30/174922ry6xl0v88quzeu1z.png)
 
 
 **对于将来的版本**，开发人员计划添加一些新功能，如房间设置、更好的管理工具和通知设置。他们还希望改善无障碍方面的内容。

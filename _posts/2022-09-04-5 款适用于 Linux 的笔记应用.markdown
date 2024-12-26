@@ -7,7 +7,7 @@ tags:	[linuxcn,笔记]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/01/173456nfc42fnqkiwfkh90.jpg)
+![](/Asserts/Images/album/202209/01/173456nfc42fnqkiwfkh90.jpg)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,笔记]
 ### Joplin
 
 
-![Joplin](/Asserts/Images//attachment/album/202209/01/173500gygrfela3hyccz2c.png)
+![Joplin](/Asserts/Images/album/202209/01/173500gygrfela3hyccz2c.png)
 
 
 [Joplin](https://joplinapp.org/) 适用于 Linux、Windows、macOS、Android 和 iOS。我喜欢 Joplin，因为它会自动保存你添加的任何内容。笔记可以上传到 NextCloud、OwnCloud、Joplin Cloud，甚至是 OneDrive、Dropbox 或任何 WebDav 应用等闭源服务。Joplin 还支持加密。
@@ -39,7 +39,7 @@ Joplin 采用 MIT 许可证。最初于 2017 年发布，Joplin 正在与大量�
 ### Xournal
 
 
-![Xournal](/Asserts/Images//attachment/album/202209/01/173500jsigi6gqgmdwnoap.png)
+![Xournal](/Asserts/Images/album/202209/01/173500jsigi6gqgmdwnoap.png)
 
 
 [Xournal](https://xournalpp.github.io/) 适用于 Linux、Windows、macOS 和 Android。它的目的是让你创建包含几乎任何你可以想象的媒体类型的笔记。它支持压敏手写笔和绘图板，因此你可以创建 [涂鸦笔记](https://opensource.com/article/22/6/open-source-sketchnotes)。你可以在里面打字、绘制简单的矢量、导入图形、录制音频等等。你还可以使用 Xournal 来注释 PDF，这就是我使用它的方式。它以 GPLv2 许可证发布，你可以以多种格式导出笔记。
@@ -48,7 +48,7 @@ Joplin 采用 MIT 许可证。最初于 2017 年发布，Joplin 正在与大量�
 ### Trillium
 
 
-![Trillium](/Asserts/Images//attachment/album/202209/01/173501u986lfd1fsp3pdc9.png)
+![Trillium](/Asserts/Images/album/202209/01/173501u986lfd1fsp3pdc9.png)
 
 
 [Trillium](https://github.com/zadam/trilium) 是一个层级笔记应用，专注于知识构建库。它具有丰富的所见即所得编辑功能，支持表格、图像和 Markdown。它支持使用语法高亮编辑源代码中的注释。它是在 AGPL 许可证下发布的。
@@ -60,7 +60,7 @@ Trilium 可用作 Linux 和 Windows 的桌面应用，以及你可以在自己�
 ### Gnote
 
 
-![Gnote](/Asserts/Images//attachment/album/202209/01/173501xp0hil2j22z5z80e.png)
+![Gnote](/Asserts/Images/album/202209/01/173501xp0hil2j22z5z80e.png)
 
 
 [Gnote](https://wiki.gnome.org/Apps/Gnote) 是一个为 Linux 编写的开源笔记应用。它是由 Hubert Figuière 从一个名为 [Tomboy](https://wiki.gnome.org/Apps/Tomboy) 的项目中克隆出来的。与 Tomboy 一样，Gnote 使用类似 Wiki 的链接系统来允许你将笔记链接在一起。
@@ -72,7 +72,7 @@ GNote 的源代码可在 [GitLab](https://gitlab.gnome.org/GNOME/gnote) 上找�
 ### CherryTree
 
 
-![CherryTree](/Asserts/Images//attachment/album/202209/01/173502bdbg4qqqzdbcqdee.png)
+![CherryTree](/Asserts/Images/album/202209/01/173502bdbg4qqqzdbcqdee.png)
 
 
 CherryTree 支持层级笔记。在 CherryTree 中，所有东西都是一个节点。节点可以是纯文本、富文本、各种编程语言的语法高亮。每个节点可以有子节点，每个子节点有不同的格式。

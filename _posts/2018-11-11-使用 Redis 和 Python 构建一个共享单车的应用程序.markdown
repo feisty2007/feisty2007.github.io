@@ -15,7 +15,7 @@ tags:	[linuxcn,Redis,地理位置]
 > 
 
 
-![](/Asserts/Images//attachment/album/201811/14/112130al1dd1ctqtcs0utc.png)
+![](/Asserts/Images/album/201811/14/112130al1dd1ctqtcs0utc.png)
 
 
 我经常出差。但不是一个汽车狂热分子，所以当我有空闲时，我更喜欢在城市中散步或者骑单车。我参观过的许多城市都有共享单车系统，你可以租个单车用几个小时。大多数系统都有一个应用程序来帮助用户定位和租用他们的单车，但对于像我这样的用户来说，在一个地方可以获得可租赁的城市中所有单车的信息会更有帮助。
@@ -24,7 +24,7 @@ tags:	[linuxcn,Redis,地理位置]
 为了解决这个问题并且展示开源的强大还有为 Web 应用程序添加位置感知的功能，我组合了可用的公开的共享单车数据、[Python](https://www.python.org/) 编程语言以及开源的 [Redis](https://redis.io/) 内存数据结构服务，用来索引和查询地理空间数据。
 
 
-由此诞生的共享单车应用程序包含来自很多不同的共享系统的数据，包括纽约市的 [Citi Bike](https://www.citibikenyc.com/) 共享单车系统（LCTT 译注：Citi Bike 是纽约市的一个私营公共单车系统。在 2013 年 5 月 27 日正式营运，是美国最大的公共单车系统。Citi Bike 的名称有两层意思。Citi 是计划赞助商花旗银行（CitiBank）的名字。同时，Citi 和英文中“城市（city）”一词的读音相同）。它利用了花旗单车系统提供的 <ruby> 通用共享单车数据流 <rt>  General Bikeshare Feed </rt></ruby>，并利用其数据演示了一些使用 Redis 地理空间数据索引的功能。 花旗单车数据可按照 [花旗单车数据许可协议](https://www.citibikenyc.com/Asserts/Images/-sharing-policy) 提供。
+由此诞生的共享单车应用程序包含来自很多不同的共享系统的数据，包括纽约市的 [Citi Bike](https://www.citibikenyc.com/) 共享单车系统（LCTT 译注：Citi Bike 是纽约市的一个私营公共单车系统。在 2013 年 5 月 27 日正式营运，是美国最大的公共单车系统。Citi Bike 的名称有两层意思。Citi 是计划赞助商花旗银行（CitiBank）的名字。同时，Citi 和英文中“城市（city）”一词的读音相同）。它利用了花旗单车系统提供的 <ruby> 通用共享单车数据流 <rt>  General Bikeshare Feed </rt></ruby>，并利用其数据演示了一些使用 Redis 地理空间数据索引的功能。 花旗单车数据可按照 [花旗单车数据许可协议](https://www.citibikenyc.com/data-sharing-policy) 提供。
 
 
 ### 通用共享单车数据流规范
@@ -129,10 +129,10 @@ Feed 流由几个简单的 [JSON](https://www.json.org/) 数据文件组成，�
 * 显示车站相关的信息
 
 
-Redis 提供了两种主要数据类型用于存储数据：哈希和有序集。 [哈希类型](https://redis.io/topics/Asserts/Images/-types#Hashes)很好地映射到表示车站的 JSON 对象；由于 Redis 哈希不使用固定的数据结构，因此它们可用于存储可变的车站信息。
+Redis 提供了两种主要数据类型用于存储数据：哈希和有序集。 [哈希类型](https://redis.io/topics/data-types#Hashes)很好地映射到表示车站的 JSON 对象；由于 Redis 哈希不使用固定的数据结构，因此它们可用于存储可变的车站信息。
 
 
-当然，在地理位置上寻找站点需要地理空间索引来搜索相对于某些坐标的站点。 Redis 提供了[几个](https://redis.io/commands#geo)使用[有序集](https://redis.io/topics/Asserts/Images/-types-intro#redis-sorted-sets)数据结构构建地理空间索引的命令。
+当然，在地理位置上寻找站点需要地理空间索引来搜索相对于某些坐标的站点。 Redis 提供了[几个](https://redis.io/commands#geo)使用[有序集](https://redis.io/topics/data-types-intro#redis-sorted-sets)数据结构构建地理空间索引的命令。
 
 
 我们使用 `${system_id}:station:${station_id}` 这种格式的键名存储车站相关的信息，使用 `${system_id}:stations:location` 这种格式的键名查找车站的地理空间索引。
@@ -150,7 +150,7 @@ Redis 提供了两种主要数据类型用于存储数据：哈希和有序集�
 找到用户的位置后，下一步是找到附近的共享单车站。 Redis 的地理空间功能可以返回用户当前坐标在给定距离内的所有车站信息。 以下是使用 Redis 命令行界面的示例。
 
 
-![](/Asserts/Images//attachment/album/201811/14/112130g9bq4qgi1xqll4qm.png)
+![](/Asserts/Images/album/201811/14/112130g9bq4qgi1xqll4qm.png)
 
 
 想象一下，我正在纽约市第五大道的苹果零售店，我想要向市中心方向前往位于西 37 街的 MOOD 布料店，与我的好友 [Swatch](https://twitter.com/swatchthedog) 相遇。 我可以坐出租车或地铁，但我更喜欢骑单车。 附近有没有我可以使用的单车共享站呢？

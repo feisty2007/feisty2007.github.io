@@ -15,7 +15,7 @@ tags:	[linuxcn,kubectl,Kubernetes,容器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202105/14/144523ynjr88nm4oaa7nzn.jpg "Cheat Sheet cover image")
+![](/Asserts/Images/album/202105/14/144523ynjr88nm4oaa7nzn.jpg "Cheat Sheet cover image")
 
 
 云计算主要是在 Kubernetes 上运行，Kubernetes 主要是在 Linux 上运行，而 Linux 在有熟练的系统管理员控制时运行得最好。无论你认为自己是云计算架构师还是只是一个保守的系统管理员，现代互联网都需要了解如何在容器中创建应用和服务，按需扩展，按需扩展以及如何明智地进行监视和管理。

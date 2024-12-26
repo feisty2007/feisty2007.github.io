@@ -13,7 +13,7 @@ tags:	[linuxcn,awk]
 本节我们将学习更多的 awk 功能，即 awk 的特殊模式：`BEGIN` 和 `END`。
 
 
-![](/Asserts/Images//attachment/album/201608/06/184144smoenpwzzoe6puup.png)
+![](/Asserts/Images/album/201608/06/184144smoenpwzzoe6puup.png)
 
 
 *学习 awk 的模式 BEGIN 和 END*
@@ -103,7 +103,7 @@ $ cat ~/domains.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/06/184144buyfb7shbw77q7su.png)
+![](/Asserts/Images/album/201608/06/184144buyfb7shbw77q7su.png)
 
 
 *查看文件内容*
@@ -180,7 +180,7 @@ exit 0
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/06/184144xforw4xu9roixv99.png)
+![](/Asserts/Images/album/201608/06/184144xforw4xu9roixv99.png)
 
 
 *awk 模式 BEGIN 和 END*
@@ -201,7 +201,7 @@ $ ./script.sh ~/domains.txt
 
 ```
 
-![](/Asserts/Images//attachment/album/201608/06/184146mqz1vpqn1gir1p1z.png)
+![](/Asserts/Images/album/201608/06/184146mqz1vpqn1gir1p1z.png)
 
 
 *用于统计字符串出现次数的脚本*

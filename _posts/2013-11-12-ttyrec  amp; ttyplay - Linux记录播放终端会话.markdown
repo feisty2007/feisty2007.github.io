@@ -22,13 +22,13 @@ tags:	[linuxcn,ttyrec,ttyplay,Linux,记录,播放,终端,会话,命令,技巧,�
 **> ttyrec**
 
 
-![](/Asserts/Images//attachment/album/201311/05/220215b4xuaqbyze8gd8av.png)
+![](/Asserts/Images/album/201311/05/220215b4xuaqbyze8gd8av.png)
 
 
 **> ttyplay**
 
 
-![](/Asserts/Images//attachment/album/201311/05/2202175v11evss14d49jpq.png)
+![](/Asserts/Images/album/201311/05/2202175v11evss14d49jpq.png)
 
 
 ### 测试环境
@@ -97,13 +97,13 @@ $ ttyplay [文件名]
 **> ttyrec**
 
 
-![](/Asserts/Images//attachment/album/201311/05/220219d18o8xhd8ciihvxh.png)
+![](/Asserts/Images/album/201311/05/220219d18o8xhd8ciihvxh.png)
 
 
 **ttyplay**
 
 
-![](/Asserts/Images//attachment/album/201311/05/220220dnclmjvsxcddflud.png)
+![](/Asserts/Images/album/201311/05/220220dnclmjvsxcddflud.png)
 
 
 还有另一个小工具 **ttytime** 可以用来显示用ttyrec工具会话记录的时间。很容易使用并且只需要记录文件名作为命令行参数。

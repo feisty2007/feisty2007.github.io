@@ -15,7 +15,7 @@ tags:	[linuxcn,断言,测试,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/201901/29/003322zr855ene5unu00un.jpg)
+![](/Asserts/Images/album/201901/29/003322zr855ene5unu00un.jpg)
 
 
 在[测试金字塔](https://martinfowler.com/bliki/TestPyramid.html)的底部是单元测试。单元测试每次只测试一个代码单元，通常是一个函数或方法。

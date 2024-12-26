@@ -7,10 +7,10 @@ tags:	[linuxcn,Windows 10,碳排放,闪屏]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/24/201933c6w6uk2wy0w6okzk.jpg)
+![](/Asserts/Images/album/202312/24/201933c6w6uk2wy0w6okzk.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/24/201944zz8znaac6wwcw7cd.png)
+![](/Asserts/Images/album/202312/24/201944zz8znaac6wwcw7cd.png)
 
 
 ### #1 微软终止支持 Windows 10 将带来 4.8 亿公斤电子垃圾
@@ -38,7 +38,7 @@ Windows 10 将于 2025 年 10 月 14 日终止支持，此后微软将停止提�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/24/202006nx11u4600m6k6pmz.png)
+![](/Asserts/Images/album/202312/24/202006nx11u4600m6k6pmz.png)
 
 
 ### #2 将钱存到银行相当于增加了碳排放
@@ -66,7 +66,7 @@ Windows 10 将于 2025 年 10 月 14 日终止支持，此后微软将停止提�
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/24/202025pp8f4fnvlnvmmtyd.png)
+![](/Asserts/Images/album/202312/24/202025pp8f4fnvlnvmmtyd.png)
 
 
 ### #3 开机闪屏 Plymouth 两年来首次更新

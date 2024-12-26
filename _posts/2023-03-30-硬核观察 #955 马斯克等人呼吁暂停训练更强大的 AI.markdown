@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,英伟达,DDoS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/29/162120yz7fal3li7wyywbl.jpg)
+![](/Asserts/Images/album/202303/29/162120yz7fal3li7wyywbl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/29/162134blkhd9e9kdxkld3t.jpg)
+![](/Asserts/Images/album/202303/29/162134blkhd9e9kdxkld3t.jpg)
 
 
 ### 马斯克等人呼吁暂停训练更强大的 AI
@@ -38,7 +38,7 @@ tags:	[linuxcn,AI,英伟达,DDoS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/29/162149oz4smq9f0mqv26fm.jpg)
+![](/Asserts/Images/album/202303/29/162149oz4smq9f0mqv26fm.jpg)
 
 
 ### 英伟达表示加密货币没有给社会带来任何有用的东西
@@ -63,7 +63,7 @@ tags:	[linuxcn,AI,英伟达,DDoS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/29/162205vdvsk6vao1zvsvz1.jpg)
+![](/Asserts/Images/album/202303/29/162205vdvsk6vao1zvsvz1.jpg)
 
 
 ### 英国设置假的 DDoS 雇佣网站以扰乱市场

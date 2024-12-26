@@ -157,22 +157,22 @@ iso.3.6.1.2.1.92.1.3.1.1.3.7.100.101.102.97.117.108.116.1 = Hex-STRING: 07 DD 0B
 安装完后，Cacti网页界面可以通过“http://172.17.1.44/cacti ”来访问，当然，在你的环境中，请将IP地址换成你的服务器的地址。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223738cgd66yd3d3uow8dd.jpg)
+![](/Asserts/Images/album/201507/02/223738cgd66yd3d3uow8dd.jpg)
 
 
-![](/Asserts/Images//attachment/album/201507/02/223746c43n25up293nenla.jpg)
+![](/Asserts/Images/album/201507/02/223746c43n25up293nenla.jpg)
 
 
 安装过程中Cacti的路径一般都是正确的，但是如有必要，请再次检查以下。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223755dhxx5nuy9dxxfdcr.jpg)
+![](/Asserts/Images/album/201507/02/223755dhxx5nuy9dxxfdcr.jpg)
 
 
 在首次安装过程中，Cacti默认的用户名和密码是“admin”和“admin”。在首次登录后会强制你修改密码。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223758x58gpowcsmm3mq5g.png)
+![](/Asserts/Images/album/201507/02/223758x58gpowcsmm3mq5g.png)
 
 
 ### 添加设备到Cacti并管理
@@ -184,37 +184,37 @@ Cacti将根据先前配置的SNMP字符串注册设备。在本教程中，我�
 要添加设备，我们必须以管理员登录，然后转到Cacti管理员面板中的控制台。点击 控制台 > 设备。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223801e2ac6a6lz6jv5j2c.jpg)
+![](/Asserts/Images/album/201507/02/223801e2ac6a6lz6jv5j2c.jpg)
 
 
 那里可能已经有一个名为‘localhost’的设备。我们不需要它，因为我们要创建全新的图表。我们可以将该设备从列表中删除，使用“添加”按钮来添加新设备。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223802tbb8b2w9ofbb9o8f.jpg)
+![](/Asserts/Images/album/201507/02/223802tbb8b2w9ofbb9o8f.jpg)
 
 
 接下来，我们设置设备参数。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223806bbdraz3j6arxa3ud.jpg)
+![](/Asserts/Images/album/201507/02/223806bbdraz3j6arxa3ud.jpg)
 
 
 现在设备已经添加，我们来指定想要创建的图表模板。你可以在该页面的最后部分中找到这块内容。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223807j8b9lxlbwdfu80nd.jpg)
+![](/Asserts/Images/album/201507/02/223807j8b9lxlbwdfu80nd.jpg)
 
 
 然后，我们继续来创建图表。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223808umnkm4gc99pz59m9.jpg)
+![](/Asserts/Images/album/201507/02/223808umnkm4gc99pz59m9.jpg)
 
 
 这里，我们创建用于平均负载、RAM和硬盘、处理器的图表。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223810r0hb8ygf18b7cny1.jpg)
+![](/Asserts/Images/album/201507/02/223810r0hb8ygf18b7cny1.jpg)
 
 
 ### 接口的图表和64位计数器
@@ -223,7 +223,7 @@ Cacti将根据先前配置的SNMP字符串注册设备。在本教程中，我�
 默认情况下，Cacti在SNMP查询中使用32位计数器。32位计数器对于大多数带宽图表而言已经足够了，但是对于超过100Mbps的带宽，它就无能为力了。如果已经知道带宽会超过100Mbps，建议你使用64位计数器。使用64位计数器一点也不麻烦。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223812z3siddeq0i5m060a.jpg)
+![](/Asserts/Images/album/201507/02/223812z3siddeq0i5m060a.jpg)
 
 
 **注意**： Cacti会花费大约15分钟来产生新图表，除了耐心等待，你别无选择。
@@ -235,22 +235,22 @@ Cacti将根据先前配置的SNMP字符串注册设备。在本教程中，我�
 这些截图展示了如何创建图表树，以及如何添加图表到这些树中。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223813sgxeact86hhr36x1.jpg)
+![](/Asserts/Images/album/201507/02/223813sgxeact86hhr36x1.jpg)
 
 
-![](/Asserts/Images//attachment/album/201507/02/223815prqhprbpmzbvhhlr.jpg)
+![](/Asserts/Images/album/201507/02/223815prqhprbpmzbvhhlr.jpg)
 
 
-![](/Asserts/Images//attachment/album/201507/02/223816c8rrahh4qgg441ah.jpg)
+![](/Asserts/Images/album/201507/02/223816c8rrahh4qgg441ah.jpg)
 
 
-![](/Asserts/Images//attachment/album/201507/02/223818blh7jsipzmijs0zs.jpg)
+![](/Asserts/Images/album/201507/02/223818blh7jsipzmijs0zs.jpg)
 
 
 我们可以验证图表树中的图表。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223820nm33m46mi0ymbigz.jpg)
+![](/Asserts/Images/album/201507/02/223820nm33m46mi0ymbigz.jpg)
 
 
 ### 用户管理
@@ -259,22 +259,22 @@ Cacti将根据先前配置的SNMP字符串注册设备。在本教程中，我�
 最后，我们创建一个只具有查看我们刚创建的图表权限的用户。Cacti内建了用户管理系统，而且是高度可定制的。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223824btyxe5btybyxexaq.jpg)
+![](/Asserts/Images/album/201507/02/223824btyxe5btybyxexaq.jpg)
 
 
-![](/Asserts/Images//attachment/album/201507/02/223826h8xm0348z29z4n43.jpg)
+![](/Asserts/Images/album/201507/02/223826h8xm0348z29z4n43.jpg)
 
 
-![](/Asserts/Images//attachment/album/201507/02/223831r1ztvrz2usayb7ry.jpg)
+![](/Asserts/Images/album/201507/02/223831r1ztvrz2usayb7ry.jpg)
 
 
 在完成这些步骤后，我们可以使用‘user1’来登录进去，并验证只有该用户可以查看该图表。
 
 
-![](/Asserts/Images//attachment/album/201507/02/223833wxyojb3njx2wndyz.jpg)
+![](/Asserts/Images/album/201507/02/223833wxyojb3njx2wndyz.jpg)
 
 
-![](/Asserts/Images//attachment/album/201507/02/223834n8q3ra2jq2qjj8nj.jpg)
+![](/Asserts/Images/album/201507/02/223834n8q3ra2jq2qjj8nj.jpg)
 
 
 至此，我们在网络监控系统中部署了一台Cacti服务器。Cacti服务器比较稳定，可以处理大量图表而不会出问题。

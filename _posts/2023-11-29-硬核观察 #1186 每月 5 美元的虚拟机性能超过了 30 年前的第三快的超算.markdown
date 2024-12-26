@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,超算,私有云]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/15/174020lx7kguuu7x4v6ax6.jpg)
+![](/Asserts/Images/album/202311/15/174020lx7kguuu7x4v6ax6.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/15/174037u0yz1089fry3s974.png)
+![](/Asserts/Images/album/202311/15/174037u0yz1089fry3s974.png)
 
 
 ### 每月 5 美元的虚拟机性能超过了 30 年前的第三快的超算
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,超算,私有云]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/15/174053oc8cc598n88nlk2m.png)
+![](/Asserts/Images/album/202311/15/174053oc8cc598n88nlk2m.png)
 
 
 ### Canonical 发布快速部署全功能私有云的 MicroCloud
@@ -60,7 +60,7 @@ Canonical 公司今天发布了最新的软件产品 MicroCloud，它的目标�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/15/174111lisjh3oouioisume.png)
+![](/Asserts/Images/album/202311/15/174111lisjh3oouioisume.png)
 
 
 ### DeepMind 能更快更准确地预测极端天气

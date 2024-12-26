@@ -7,7 +7,7 @@ tags:	[linuxcn,调试器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/26/182207drf4dydz6xpyc5jd.jpg)
+![](/Asserts/Images/album/201708/26/182207drf4dydz6xpyc5jd.jpg)
 
 
 在前几篇博文中我们学习了 DWARF 信息以及它如何使我们将机器码和上层源码联系起来。这一次我们通过为我们的调试器添加源码级逐步调试将该知识应用于实际。

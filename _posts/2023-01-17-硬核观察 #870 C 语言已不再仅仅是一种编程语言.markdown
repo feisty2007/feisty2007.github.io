@@ -7,10 +7,10 @@ tags:	[linuxcn,C 语言,虚拟人,3G]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/03/172459k5hwunm58u4844mh.jpg)
+![](/Asserts/Images/album/202301/03/172459k5hwunm58u4844mh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/03/172507t1tv5vhf1vav78va.jpg)
+![](/Asserts/Images/album/202301/03/172507t1tv5vhf1vav78va.jpg)
 
 
 ### C 语言已不再仅仅是一种编程语言
@@ -35,7 +35,7 @@ tags:	[linuxcn,C 语言,虚拟人,3G]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/03/172519h9nthrm09n2laail.jpg)
+![](/Asserts/Images/album/202301/03/172519h9nthrm09n2laail.jpg)
 
 
 ### 百度以每年 10 万的价格出租的“虚拟人”
@@ -60,7 +60,7 @@ tags:	[linuxcn,C 语言,虚拟人,3G]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/03/172543miiz1yziemj3tqf1.jpg)
+![](/Asserts/Images/album/202301/03/172543miiz1yziemj3tqf1.jpg)
 
 
 ### 美国结束 3G 网络服务

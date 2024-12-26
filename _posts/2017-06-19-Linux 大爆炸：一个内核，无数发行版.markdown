@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/22/184001sbdg2a4d0djrr0er.jpg)
+![](/Asserts/Images/album/201706/22/184001sbdg2a4d0djrr0er.jpg)
 
 
 即使你是一个 Linux 新人，你可能也已经知道它不是一个单一的、整体的操作系统，而是一群项目。这个星座中不同的“星”组成了“发行版”。每个都提供了自己的 Linux 模式。

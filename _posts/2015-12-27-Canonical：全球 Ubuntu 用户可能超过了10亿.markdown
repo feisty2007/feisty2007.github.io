@@ -30,7 +30,7 @@ Ubuntu 项目的高层领导之一 Dustin Kirkland 在一封冗长而全面的�
 ### 可能超过了 10 亿用户
 
 
-![](/Asserts/Images//attachment/album/201512/24/104735igdxheyax6zjx6og.jpg)
+![](/Asserts/Images/album/201512/24/104735igdxheyax6zjx6og.jpg)
 
 
 Dustin Kirkland 在 Canonical 负责相当重要的工作，他领导 Canonical 的 Ubuntu 产品与战略团队，直接汇报给 Mark Shuttleworth，负责技术战略、路线图、Ubuntu Cloud 和物联网商业产品的生命周期等等。所以，他说的应该有一定道理。

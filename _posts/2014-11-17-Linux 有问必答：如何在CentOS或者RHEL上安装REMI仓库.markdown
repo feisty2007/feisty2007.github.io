@@ -21,7 +21,7 @@ tags:	[linuxcn,CentOS,RHEL,EPEL,REMI]
 安装REMI仓库要记住的一件事是不要在启用了REMI仓库时运行yum update。因为REMI仓库的包名与RHEL/CentOS中的相同，运行yum update可能会触发意外的更新。一个好办法是禁用REMI仓库，在你需要安装RMEI仓库中独有的包时再启用。
 
 
-![](/Asserts/Images//attachment/album/201411/09/235847d34k35w3f4tnjfwj.jpg)
+![](/Asserts/Images/album/201411/09/235847d34k35w3f4tnjfwj.jpg)
 
 
 ### 预备工作
@@ -65,7 +65,7 @@ $ yum repolist disabled | grep remi
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/09/235850cc1dt5vxchu5yzff.jpg)
+![](/Asserts/Images/album/201411/09/235850cc1dt5vxchu5yzff.jpg)
 
 
 ### 从REMI仓库中安装一个包

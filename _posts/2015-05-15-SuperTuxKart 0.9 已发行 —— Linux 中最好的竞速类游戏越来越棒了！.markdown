@@ -10,7 +10,7 @@ tags:	[linuxcn,SuperTuxKart]
 **热门竞速类游戏 SuperTuxKart 的新版本已经[打包发行](http://supertuxkart.blogspot.co.uk/2015/04/supertuxkart-09-released.html)登陆下载服务器**
 
 
-![](/Asserts/Images//attachment/album/201505/03/223841ke8fjzejwcwzvl7d.jpg)
+![](/Asserts/Images/album/201505/03/223841ke8fjzejwcwzvl7d.jpg)
 
 
 *Super Tux Kart 0.9 发行海报*

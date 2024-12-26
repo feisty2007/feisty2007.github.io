@@ -15,7 +15,7 @@ tags:	[linuxcn,并行,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/201904/17/222443oozyvxoze6okeiv3.jpg)
+![](/Asserts/Images/album/201904/17/222443oozyvxoze6okeiv3.jpg)
 
 
 关于 Python 性能的一个常见抱怨是[全局解释器锁](https://wiki.python.org/moin/GlobalInterpreterLock)（GIL）。由于 GIL，同一时刻只能有一个线程执行 Python 字节码。因此，即使在现代的多核机器上，使用线程也不会加速计算。

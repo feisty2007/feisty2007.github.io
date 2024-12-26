@@ -7,7 +7,7 @@ tags:	[linuxcn,KPTI,Meltdown,Spectre]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/09/211831lzys5xy9p0nxylxx.png)
+![](/Asserts/Images/album/201802/09/211831lzys5xy9p0nxylxx.png)
 
 
 现在（LCTT 译注：本文发表于 1 月初），每个人都知道一件关乎电脑安全的“大事”发生了，真见鬼，等[每日邮报报道](http://www.dailymail.co.uk/sciencetech/article-5238789/Intel-says-security-updates-fix-Meltdown-Spectre.html)的时候，你就知道什么是糟糕了...

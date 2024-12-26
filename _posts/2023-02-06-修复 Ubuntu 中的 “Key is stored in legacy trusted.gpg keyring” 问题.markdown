@@ -7,7 +7,7 @@ tags:	[linuxcn,排错]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/22/143209ysmxzrasycrxz7wa.jpg)
+![](/Asserts/Images/album/202302/22/143209ysmxzrasycrxz7wa.jpg)
 
 
 如果你在 Ubuntu 22.04 及以后的版本中使用 PPA 或添加外部仓库，你有可能会看到这样的信息：
@@ -19,7 +19,7 @@ W: https://packagecloud.io/slacktechnologies/slack/debian/dists/jessie/InRelease
 
 ```
 
-![ubuntu key is stored legacy](/Asserts/Images//attachment/album/202302/22/143237y6z4al6dxmqvsw4o.png)
+![ubuntu key is stored legacy](/Asserts/Images/album/202302/22/143237y6z4al6dxmqvsw4o.png)
 
 
 首先，这不是一个错误，而是一个警告信息。警告并不会导致程序停止工作。即使你在更新过程中看到这个警告信息，你也可以继续升级你的系统。
@@ -122,7 +122,7 @@ sudo apt-key export 038651BD | sudo gpg --dearmour -o /etc/apt/trusted.gpg.d/sla
 如果命令运行成功，你将不会看到任何信息。你可以通过检查新创建的 gpg 文件是否存在来验证。
 
 
-![import gpg key to trusted ubuntu](/Asserts/Images//attachment/album/202302/22/143237bdiix399inzfafkd.png)
+![import gpg key to trusted ubuntu](/Asserts/Images/album/202302/22/143237bdiix399inzfafkd.png)
 
 
 再次运行更新，现在你应该不会再看到警告信息了。
@@ -149,7 +149,7 @@ sudo cp /etc/apt/trusted.gpg /etc/apt/trusted.gpg.d
 现在，如果你运行更新，你就不会再看到 “Key is stored in legacy trusted.gpg keyring” 的警告信息。
 
 
-![quick dirty way to fix apt key stored legacy](/Asserts/Images//attachment/album/202302/22/143237e4jvg4szfszr4c4w.png)
+![quick dirty way to fix apt key stored legacy](/Asserts/Images/album/202302/22/143237e4jvg4szfszr4c4w.png)
 
 
 ### 总结

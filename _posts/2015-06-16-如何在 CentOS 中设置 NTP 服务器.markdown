@@ -28,7 +28,7 @@ tags:	[linuxcn,NTP,时间]
 NTP 时钟以层次模型组织。层级中的每层被称为一个 *stratum（阶层）*。stratum 的概念说明了一台机器到授权的时间源有多少 NTP 跳。
 
 
-![](/Asserts/Images//attachment/album/201506/06/214034n7w7j89jy87hiz9j.jpg)
+![](/Asserts/Images/album/201506/06/214034n7w7j89jy87hiz9j.jpg)
 
 
 Stratum 0 由没有时间漂移的时钟组成，例如原子时钟。这种时钟不能在网络上直接使用。Stratum N (N > 1) 层服务器从 Stratum N-1 层服务器同步时间。Stratum N 时钟能通过网络和彼此互联。
@@ -54,7 +54,7 @@ NTP 支持多达 15 个 stratum 的层级。Stratum 16 被认为是未同步的�
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/06/214035l94wewkkjikpmk94.png)
+![](/Asserts/Images/album/201506/06/214035l94wewkkjikpmk94.png)
 
 
 继续并使用 yum 安装需要的软件
@@ -124,7 +124,7 @@ logfile /var/log/ntpd.log
 我们可以使用 ntpq 命令来检查本地服务器的时钟如何通过 NTP 同步。
 
 
-![](/Asserts/Images//attachment/album/201506/06/214039ou9yjhfzosuz1kbh.jpg)
+![](/Asserts/Images/album/201506/06/214039ou9yjhfzosuz1kbh.jpg)
 
 
 下面的表格解释了输出列。

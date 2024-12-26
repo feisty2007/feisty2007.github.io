@@ -7,7 +7,7 @@ tags:	[linuxcn,发行版,轻量级]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/04/143430yneuuhwqnenfm7uq.jpg)
+![](/Asserts/Images/album/202006/04/143430yneuuhwqnenfm7uq.jpg)
 
 
 如果你有一台老旧的 PC，或者是基于单板计算机的小型系统，你可能希望运行的是一个占用资源较少且易于下载的 Linux 版本。在这里，我们来看看占用资源非常小的 Linux 发行版。除了 Damn Small Linux 之外，这里列出的所有 Linux 发行版都是最近才更新的。每个发行版都可以在内存不足 1GB 的机器上运行，而且大多数发行版都可以在更小资源内运行。以下排列以字母排序。
@@ -16,7 +16,7 @@ tags:	[linuxcn,发行版,轻量级]
 ### Alpine Linux
 
 
-![Alpine Linux - 130MB download](/Asserts/Images//attachment/album/202006/04/143612dnwezg1qdwglk0g0.jpg)
+![Alpine Linux - 130MB download](/Asserts/Images/album/202006/04/143612dnwezg1qdwglk0g0.jpg)
 
 
 下载：130 MB
@@ -28,7 +28,7 @@ Alpine Linux 最初是针对虚拟服务器和设备的，它直接运行在内�
 ### antiX Linux
 
 
-![antiX Linux - about 1GB download](/Asserts/Images//attachment/album/202006/04/143431u4nsx8llwwrnvuxd.png)
+![antiX Linux - about 1GB download](/Asserts/Images/album/202006/04/143431u4nsx8llwwrnvuxd.png)
 
 
 下载：约 1GB
@@ -40,7 +40,7 @@ antiX 发行版声称完全不含 systemd —— 这是现代 Linux 发行版的
 ### ArchBang
 
 
-![ArchBang - 600-700MB download](/Asserts/Images//attachment/album/202006/04/143433yo2b71t8kk7881dk.png)
+![ArchBang - 600-700MB download](/Asserts/Images/album/202006/04/143433yo2b71t8kk7881dk.png)
 
 
 下载：600 - 700MB
@@ -52,7 +52,7 @@ ArchBang 是一款受 CrunchBang 启发的发行版，其使用 Arch Linux 的 O
 ### Bodhi Linux
 
 
-![Bodhi Linux - 700MB download](/Asserts/Images//attachment/album/202006/04/143436ljbv6jhuoub1ybhm.png)
+![Bodhi Linux - 700MB download](/Asserts/Images/album/202006/04/143436ljbv6jhuoub1ybhm.png)
 
 
 下载：700MB
@@ -64,7 +64,7 @@ Bodhi 是一款基于 Ubuntu 的轻量级发行版，这款发行版采用的是
 ### BunsenLabs Helium
 
 
-![BunsenLabs Linux Helium - 600MB to 1.2GB download](/Asserts/Images//attachment/album/202006/04/143437z2bzbbps3f5ibxxy.jpg)
+![BunsenLabs Linux Helium - 600MB to 1.2GB download](/Asserts/Images/album/202006/04/143437z2bzbbps3f5ibxxy.jpg)
 
 
 下载： 600MB 至 1.2GB
@@ -76,7 +76,7 @@ Bodhi 是一款基于 Ubuntu 的轻量级发行版，这款发行版采用的是
 ### Damn Small Linux
 
 
-![Damn Small Linux - 50MB download](/Asserts/Images//attachment/album/202006/04/143437i4hiqu7qjyyyjcab.jpg)
+![Damn Small Linux - 50MB download](/Asserts/Images/album/202006/04/143437i4hiqu7qjyyyjcab.jpg)
 
 
 下载：50MB
@@ -88,7 +88,7 @@ Damn Small Linux 自 2008 年以来一直没有正式发布，虽然 2012 年曾
 ### Elive
 
 
-![Elive - 2.4GB download](/Asserts/Images//attachment/album/202006/04/143443nt5mf5tmqtd6ttqm.png)
+![Elive - 2.4GB download](/Asserts/Images/album/202006/04/143443nt5mf5tmqtd6ttqm.png)
 
 
 下载：2.4GB
@@ -100,7 +100,7 @@ Elive 是一款即用版 Enlightenment 发行版，其中还包含了 Elpanel �
 ### Linux Lite
 
 
-![Linux Lite - 1.4GB download](/Asserts/Images//attachment/album/202006/04/143444moorzykujrolhr7x.png)
+![Linux Lite - 1.4GB download](/Asserts/Images/album/202006/04/143444moorzykujrolhr7x.png)
 
 
 下载：1.4GB
@@ -112,7 +112,7 @@ Linux Lite 并不像一些微型发行版那样小，但它也不会让你感到
 ### Lubuntu
 
 
-![Lubuntu - 1.6GB download](/Asserts/Images//attachment/album/202006/04/143445btt3kvivvi2ozvuq.png)
+![Lubuntu - 1.6GB download](/Asserts/Images/album/202006/04/143445btt3kvivvi2ozvuq.png)
 
 
 下载：1.6GB
@@ -124,7 +124,7 @@ Lubuntu 名字的意思是“轻量级 Ubuntu”，顾名思义，你就知道�
 ### LXLE
 
 
-![LXLE - 1.2GB download](/Asserts/Images//attachment/album/202006/04/143446gnromiflgqtomesq.jpg)
+![LXLE - 1.2GB download](/Asserts/Images/album/202006/04/143446gnromiflgqtomesq.jpg)
 
 
 下载：1.2GB
@@ -136,7 +136,7 @@ LXLE 基于 Ubuntu，有一个非常具体的口号：“重新唤醒那台老�
 ### Puppy Linux
 
 
-![Puppy Linux - around 300 MB download](/Asserts/Images//attachment/album/202006/04/143447v51bt5zrldraxo8z.jpg)
+![Puppy Linux - around 300 MB download](/Asserts/Images/album/202006/04/143447v51bt5zrldraxo8z.jpg)
 
 
 下载：约 300MB
@@ -148,7 +148,7 @@ Linux 从来都不会让事情变得简单，Puppy Linux 也不例外。Puppy Li
 ### Raspberry Pi OS
 
 
-![Raspberry Pi OS - 400MB - 1.2GB](/Asserts/Images//attachment/album/202006/04/142434e0pmwt6j6cm6gp9p.jpg)
+![Raspberry Pi OS - 400MB - 1.2GB](/Asserts/Images/album/202006/04/142434e0pmwt6j6cm6gp9p.jpg)
 
 
 下载：400MB 至 1.2GB
@@ -160,7 +160,7 @@ Raspberry Pi OS（以前叫 Raspbian）是一个适用于树莓派的 Debian 发
 ### SliTaz
 
 
-![SliTaz - 50MB download](/Asserts/Images//attachment/album/202006/04/143448vpza6fdbpsdgrd6u.png)
+![SliTaz - 50MB download](/Asserts/Images/album/202006/04/143448vpza6fdbpsdgrd6u.png)
 
 
 下载：50MB
@@ -172,7 +172,7 @@ SliTaz 是一款完全运行在内存中的 Linux，可以通过 CD-ROM 或 USB 
 ### SparkyLinux 基础版
 
 
-![SparkyLinux base edition - 540MB download](/Asserts/Images//attachment/album/202006/04/143450clh4wwhhc67hes3a.png)
+![SparkyLinux base edition - 540MB download](/Asserts/Images/album/202006/04/143450clh4wwhhc67hes3a.png)
 
 
 下载：540MB
@@ -184,7 +184,7 @@ Sparky 是另一个基于 Debian 的发行版，它的设计是为了让家庭�
 ### Tiny Core Linux
 
 
-![Tiny Core Linux — 11MB download](/Asserts/Images//attachment/album/202006/04/143450c6ql58me5l5t7t53.png)
+![Tiny Core Linux — 11MB download](/Asserts/Images/album/202006/04/143450c6ql58me5l5t7t53.png)
 
 
 下载：11MB

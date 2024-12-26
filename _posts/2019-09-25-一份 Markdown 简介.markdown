@@ -15,7 +15,7 @@ tags:	[linuxcn,Markdown]
 > 
 
 
-![](/Asserts/Images//attachment/album/201909/29/123226bjte253n2h44cjjj.jpg)
+![](/Asserts/Images/album/201909/29/123226bjte253n2h44cjjj.jpg)
 
 
 在很长一段时间里，我发现我在 GitLab 和 GitHub 上看到的所有文件都带有 **.md** 扩展名，这是专门为开发人员编写的文件类型。几周前，当我开始使用 Markdown 时，我的观念发生了变化。它很快成为我日常工作中最重要的工具。
@@ -56,7 +56,7 @@ Markdown 使我的生活更简易。我只需要在已经编写的代码中添�
 1、创建一个以 **.md** 扩展名结尾的文本文件（例如，`example.md`）。你可以使用任何文本编辑器（甚至像 LibreOffice 或 Microsoft word 这样的文字处理程序亦可），只要记住将其保存为*文本*文件。
 
 
-![Names of Markdown files](/Asserts/Images//attachment/album/201909/29/123250xzw5vjyvz4dw3y6s.png "Names of Markdown files")
+![Names of Markdown files](/Asserts/Images/album/201909/29/123250xzw5vjyvz4dw3y6s.png "Names of Markdown files")
 
 
 2、想写什么就写什么，就像往常一样:
@@ -106,25 +106,25 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 5、如果你想使用**粗体**字符，只需将字母放在两个星号之间，没有空格：`**对应的文本将以粗体显示**`。
 
 
-![Bold text in Markdown](/Asserts/Images//attachment/album/201909/29/123301vwbz2f8wttq3bbtk.png "Bold text in Markdown")
+![Bold text in Markdown](/Asserts/Images/album/201909/29/123301vwbz2f8wttq3bbtk.png "Bold text in Markdown")
 
 
 6、对于**斜体**，将文本放在没有空格的下划线符号之间：`_我希望这个本文以斜体显示_`。（LCTT 译注：有的 Markdown 流派会将用下划线引起来的字符串视作下划线文本，而单个星号 `*` 引用起来的才视作斜体。从兼容性的角度看，使用星号比较兼容。）
 
 
-![Italics text in Markdown](/Asserts/Images//attachment/album/201909/29/123317u0ep0m0w2dmz0mlp.png "Italics text in Markdown")
+![Italics text in Markdown](/Asserts/Images/album/201909/29/123317u0ep0m0w2dmz0mlp.png "Italics text in Markdown")
 
 
 7、要插入一个链接（像 [Markdown Tutorial](https://www.markdowntutorial.com/)），把你想链接的文本放在括号里，URL 放在括号里，中间没有空格：`[Markdown Tutorial](<https://www.markdowntutorial.com/>)`。
 
 
-![Hyperlinks in Markdown](/Asserts/Images//attachment/album/201909/29/123337uuyttpuz47h6z5me.png "Hyperlinks in Markdown")
+![Hyperlinks in Markdown](/Asserts/Images/album/201909/29/123337uuyttpuz47h6z5me.png "Hyperlinks in Markdown")
 
 
 8、块引用是用大于号编写的（`>`）在你要引用的文本前加上大于符号和空格: `> 名言引用`。
 
 
-![Blockquote text in Markdown](/Asserts/Images//attachment/album/201909/29/123359h63m96mkscm1c9s9.png "Blockquote text in Markdown")
+![Blockquote text in Markdown](/Asserts/Images/album/201909/29/123359h63m96mkscm1c9s9.png "Blockquote text in Markdown")
 
 
 ### Markdown 教程和技巧
@@ -145,7 +145,7 @@ Markdown 可以让你写任何你想写的东西，仅需一次编辑，就可�
 1、**简单的笔记**：你可以用 Markdown 编写你的笔记，并且在保存笔记时，开源笔记应用程序 [Turtl](https://turtlapp.com/) 将解释你的文本文件并显示为对应的格式。你可以把笔记存储在任何地方!
 
 
-![Turtl application](/Asserts/Images//attachment/album/201909/29/123406kudznzc1uni63ccn.png "Turtl application")
+![Turtl application](/Asserts/Images/album/201909/29/123406kudznzc1uni63ccn.png "Turtl application")
 
 
 2、**PDF 文件**：使用 [Pandoc](https://opensource.com/article/19/5/convert-markdown-to-word-pandoc) 应用程序，你可以使用一个简单的命令将 Markdown 文件转换为 PDF：
@@ -156,13 +156,13 @@ Markdown 可以让你写任何你想写的东西，仅需一次编辑，就可�
 pandoc <file.md> -o <file.pdf>
 ```
 
-![Markdown text converted to PDF with Pandoc](/Asserts/Images//attachment/album/201909/29/123418xeixhzl8b3yzhebf.png "Markdown text converted to PDF with Pandoc")
+![Markdown text converted to PDF with Pandoc](/Asserts/Images/album/201909/29/123418xeixhzl8b3yzhebf.png "Markdown text converted to PDF with Pandoc")
 
 
 3、**Email**：你还可以通过安装浏览器扩展 [Markdown Here](https://markdown-here.com/) 将 Markdown 文本转换为 html 格式的电子邮件。要使用它，只需选择你的 Markdown 文本，在这里使用 Markdown 将其转换为 HTML，并使用你喜欢的电子邮件客户端发送消息。
 
 
-![Markdown text converted to email with Markdown Here](/Asserts/Images//attachment/album/201909/29/123424orbu5k9b51psstp9.png "Markdown text converted to email with Markdown Here")
+![Markdown text converted to email with Markdown Here](/Asserts/Images/album/201909/29/123424orbu5k9b51psstp9.png "Markdown text converted to email with Markdown Here")
 
 
 ### 现在就开始上手吧

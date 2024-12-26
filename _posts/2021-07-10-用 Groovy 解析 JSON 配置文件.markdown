@@ -15,7 +15,7 @@ tags:	[linuxcn,JSON,Groovy]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/12/232406vpp4qrv6ee5a3erz.jpg "Looking back with binoculars")
+![](/Asserts/Images/album/202107/12/232406vpp4qrv6ee5a3erz.jpg "Looking back with binoculars")
 
 
 应用程序通常包括某种类型的默认或“开箱即用”的状态或配置，以及某种让用户根据自己的需要定制配置的方式。

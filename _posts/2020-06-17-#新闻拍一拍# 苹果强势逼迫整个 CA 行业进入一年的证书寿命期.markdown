@@ -7,7 +7,7 @@ tags:	[linuxcn,CA,苹果]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/30/140444ewwz5klg47w44gw2.jpg)
+![](/Asserts/Images/album/202006/30/140444ewwz5klg47w44gw2.jpg)
 
 
 #### 苹果强势逼迫整个 CA 行业进入一年的证书寿命期

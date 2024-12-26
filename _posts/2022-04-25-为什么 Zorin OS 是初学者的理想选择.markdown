@@ -15,7 +15,7 @@ tags:	[linuxcn,Zorin OS,Linux发行版]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/01/083004mid1hwoab7yiymy5.png)
+![](/Asserts/Images/album/202204/01/083004mid1hwoab7yiymy5.png)
 
 
 Zorin OS 无疑是目前最 [漂亮的 Linux 发行版](https://itsfoss.com/beautiful-linux-distributions/) 之一。
@@ -30,7 +30,7 @@ Zorin OS 无疑是目前最 [漂亮的 Linux 发行版](https://itsfoss.com/beau
 ### 1. 类似 Windows 的用户界面
 
 
-![](/Asserts/Images//attachment/album/202204/01/083005teexwkhty7xv17w2.jpg)
+![](/Asserts/Images/album/202204/01/083005teexwkhty7xv17w2.jpg)
 
 
 考虑到 Windows 庞大的用户基础，大多数刚接触 Linux 的用户都是从 Windows 转过来的。
@@ -45,7 +45,7 @@ Zorin OS 无疑是目前最 [漂亮的 Linux 发行版](https://itsfoss.com/beau
 [Zorin OS](https://zorin.com/os/) 是众多 [Windows 风格的 Linux 发行版](https://itsfoss.com/windows-like-linux-distributions/) 之一，在这里你可以找到与 Windows 10 和 11 的开始菜单/任务栏相似的的菜单/布局。
 
 
-![Zorin OS 的 Windows 11 布局](/Asserts/Images//attachment/album/202204/01/083006g57i9phphilzkfip.png)
+![Zorin OS 的 Windows 11 布局](/Asserts/Images/album/202204/01/083006g57i9phphilzkfip.png)
 
 
 Windows 11 的布局在其专业版中提供（我们稍后会讨论到它）。
@@ -60,13 +60,13 @@ Windows 11 的布局在其专业版中提供（我们稍后会讨论到它）。
 它的图标、动画效果和整体视觉效果（以及可用的壁纸）都看起来令人惊叹，并且它们完美地适合于任何现代系统。
 
 
-![](/Asserts/Images//attachment/album/202204/01/083007nq666gx60dt2d26m.png)
+![](/Asserts/Images/album/202204/01/083007nq666gx60dt2d26m.png)
 
 
 Zorin OS 预装了必要的应用程序，让你有一个良好的初始体验，并使你可以十分方便地 [在 Linux 上安装 Windows 软件](https://itsfoss.com/use-windows-applications-linux/)（如果你在软件中心没有找到这个软件的话）。
 
 
-![](/Asserts/Images//attachment/album/202204/01/083007rq9k2496sas2ccr9.png)
+![](/Asserts/Images/album/202204/01/083007rq9k2496sas2ccr9.png)
 
 
 在使用 Zorin OS 的过程中，我从未遇到过错误，也不需要使用终端来完成工作。所以，我想说，它提供了用户友好的体验。
@@ -81,7 +81,7 @@ Zorin OS 预装了必要的应用程序，让你有一个良好的初始体验�
 ### 3. 基于 Ubuntu
 
 
-![](/Asserts/Images//attachment/album/202204/01/083008kzv48qi5cp8zjsqp.png)
+![](/Asserts/Images/album/202204/01/083008kzv48qi5cp8zjsqp.png)
 
 
 [Ubuntu](https://itsfoss.com/getting-started-with-ubuntu/) 是最受欢迎的 Linux 发行版，这归功于它的易用性和现代设计方法。
@@ -108,7 +108,7 @@ Zorin OS 是基于 Ubuntu 构建的，因此它能为你提供同样的好处，
 专业版提供了额外的壁纸、布局（类似 macOS，如上图所示），以及预装的创意和生产力软件。不用担心，所有包含的软件都是免费和开源的。
 
 
-![](/Asserts/Images//attachment/album/202204/01/083008xnnw722krkme3w8r.jpg)
+![](/Asserts/Images/album/202204/01/083008xnnw722krkme3w8r.jpg)
 
 
 因此，通过这个专业版，你获得了更好的开箱即用的体验和一些额外的功能，与此同时，你也支持了他们的未来发展。

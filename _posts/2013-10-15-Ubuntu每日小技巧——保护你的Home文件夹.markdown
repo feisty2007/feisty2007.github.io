@@ -49,7 +49,7 @@ su USERNAME
 使用被加密的账号第一次登录后，你将会看到如下截图的界面，包含更多关于加密home文件夹的信息。
 
 
- ![](/Asserts/Images//attachment/album/201310/27/230357kasscm4sjyams3c4.png)
+ ![](/Asserts/Images/album/201310/27/230357kasscm4sjyams3c4.png)
 
 
 要创建带有加密home目录的用户，运行下面的命令：

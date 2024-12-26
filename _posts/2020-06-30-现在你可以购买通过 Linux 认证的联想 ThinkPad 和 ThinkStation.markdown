@@ -25,7 +25,7 @@ ThinkPad 曾经是一个令人惊叹的系列笔记本电脑，稳定可靠、�
 ### 联想 ThinkPad 和 ThinkStation 全系产品将通过 Linux 认证
 
 
-![](/Asserts/Images//attachment/album/202006/04/222148xyi2eudqymd2dczq.jpg)
+![](/Asserts/Images/album/202006/04/222148xyi2eudqymd2dczq.jpg)
 
 
 联想[宣布](https://news.lenovo.com/pressroom/press-releases/lenovo-brings-linux-certification-to-thinkpad-and-thinkstation-workstation-portfolio-easing-deployment-for-developers-data-scientists/)，将对**全部工作站产品进行 Ubuntu 和红帽等顶级 Linux 发行版的认证**，这包括所有机型和配置。
@@ -46,7 +46,7 @@ ThinkPad 曾经是一个令人惊叹的系列笔记本电脑，稳定可靠、�
 ### Ubuntu、Red Hat 以及更多
 
 
-![](/Asserts/Images//attachment/album/202006/04/222227pm09l7ix0usi92u7.jpg)
+![](/Asserts/Images/album/202006/04/222227pm09l7ix0usi92u7.jpg)
 
 
 为此，联想选择了两款顶级 Linux 发行版。Red Hat 是企业级 Linux 桌面和服务器的热门选择。而 Ubuntu 当然是普遍流行的。

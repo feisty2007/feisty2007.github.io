@@ -10,7 +10,7 @@ tags:	[linuxcn,Facebook,Parse]
 Facebook 于2013年花费了 8500 万美元收购了 Parse ，这是一家为移动应用提供后台开发云服务的平台。而今，由于 Parse 一直以来未能为 Facebook 提供预期的营收，Facebook 决定一年后将其正式关闭，并将其代码开源。
 
 
-![](/Asserts/Images//attachment/album/201601/31/100721fu3461getmetmrv4.jpg)
+![](/Asserts/Images/album/201601/31/100721fu3461getmetmrv4.jpg)
 
 
 Parse 的 CTO Kevin Lacker [在博客上说](http://blog.parse.com/announcements/moving-on/)：“我们很荣幸帮助了这么多的开发者开发了如此多的优秀移动应用，不过我们今后需要专注在其它的事情上了。”

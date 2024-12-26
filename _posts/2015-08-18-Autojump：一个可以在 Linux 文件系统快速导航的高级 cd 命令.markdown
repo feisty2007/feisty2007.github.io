@@ -13,7 +13,7 @@ tags:	[linuxcn,autojump]
 现在，有一个用 Python 写的名为 `autojump` 的 Linux 命令行实用程序，它是 Linux ‘[cd](http://www.tecmint.com/cd-command-in-linux/)’命令的高级版本。
 
 
-![Autojump 命令](/Asserts/Images//attachment/album/201508/10/004930wjej787tieki74eb.jpg)
+![Autojump 命令](/Asserts/Images/album/201508/10/004930wjej787tieki74eb.jpg)
 
 
 *Autojump – Linux 文件系统导航的最快方式*
@@ -212,7 +212,7 @@ $ autojump -v
 
 ```
 
-![查看 Autojump 的版本](/Asserts/Images//attachment/album/201508/10/004931gkqkp2et2s4qee4s.png)
+![查看 Autojump 的版本](/Asserts/Images/album/201508/10/004931gkqkp2et2s4qee4s.png)
 
 
 *查看 Autojump 的版本*
@@ -227,7 +227,7 @@ $ j www
 
 ```
 
-![跳到目录](/Asserts/Images//attachment/album/201508/10/004931s994am9a7thznthk.png)
+![跳到目录](/Asserts/Images/album/201508/10/004931s994am9a7thznthk.png)
 
 
 *跳到目录*
@@ -242,7 +242,7 @@ $ jc b
 
 ```
 
-![跳到子目录](/Asserts/Images//attachment/album/201508/10/004932vzk9mkm2b2k0bpm3.png)
+![跳到子目录](/Asserts/Images/album/201508/10/004932vzk9mkm2b2k0bpm3.png)
 
 
 *跳到子目录*
@@ -257,13 +257,13 @@ $ jo www
 
 ```
 
-![打开目录](/Asserts/Images//attachment/album/201508/10/004932snychfsc6cnadz7c.png)
+![打开目录](/Asserts/Images/album/201508/10/004932snychfsc6cnadz7c.png)
 
 
 *打开目录*
 
 
-![在文件管理器中打开目录](/Asserts/Images//attachment/album/201508/10/004932bhr44zskr97e20s9.png)
+![在文件管理器中打开目录](/Asserts/Images/album/201508/10/004932bhr44zskr97e20s9.png)
 
 
 *在文件管理器中打开目录*
@@ -278,13 +278,13 @@ $ jco c
 
 ```
 
-![打开子目录](/Asserts/Images//attachment/album/201508/10/004933klj7yqlwmm4dlizm.png)
+![打开子目录](/Asserts/Images/album/201508/10/004933klj7yqlwmm4dlizm.png)
 
 
 *打开子目录*
 
 
-![在文件管理器中打开子目录](/Asserts/Images//attachment/album/201508/10/004933wjyl8gldq2n8rdny.png)
+![在文件管理器中打开子目录](/Asserts/Images/album/201508/10/004933wjyl8gldq2n8rdny.png)
 
 
 *在文件管理器中打开子目录*
@@ -299,7 +299,7 @@ $ j --stat
 
 ```
 
-![查看文件夹统计数据](/Asserts/Images//attachment/album/201508/10/004934cc87b62c0cez3ecc.png)
+![查看文件夹统计数据](/Asserts/Images/album/201508/10/004934cc87b62c0cez3ecc.png)
 
 
 *查看文件夹统计数据*
@@ -314,7 +314,7 @@ $ ls -l ~/.local/share/autojump/
 
 ```
 
-![Autojump 的日志](/Asserts/Images//attachment/album/201508/10/004934t9rxzkn7cr7cnxc5.png)
+![Autojump 的日志](/Asserts/Images/album/201508/10/004934t9rxzkn7cr7cnxc5.png)
 
 
 *Autojump 的日志*
@@ -329,7 +329,7 @@ $ j --help
 
 ```
 
-![Autojump 的帮助和选项](/Asserts/Images//attachment/album/201508/10/004935ahnfndon64hz4xk2.png)
+![Autojump 的帮助和选项](/Asserts/Images/album/201508/10/004935ahnfndon64hz4xk2.png)
 
 
 *Autojump 的帮助和选项*

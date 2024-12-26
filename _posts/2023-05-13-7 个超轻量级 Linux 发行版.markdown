@@ -7,7 +7,7 @@ tags:	[linuxcn,发行版,轻量级]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/10/173608qso93mg46s8c5zgf.png)
+![](/Asserts/Images/album/202305/10/173608qso93mg46s8c5zgf.png)
 
 
 
@@ -38,7 +38,7 @@ Linux 发行版的多样性不是缺点，而是有益的特性。
 ### 1、Tiny Core
 
 
-![Tiny Core](/Asserts/Images//attachment/album/202305/10/173705swj2t2j2xw6y770y.png)
+![Tiny Core](/Asserts/Images/album/202305/10/173705swj2t2j2xw6y770y.png)
 
 
 [Tiny Core](http://tinycorelinux.net/?ref=itsfoss.com)，又名 The Core x86 Project，是一款模块化的 Linux 发行版，提供了几种变体的超小型 ISO 文件。
@@ -56,7 +56,7 @@ Linux 发行版的多样性不是缺点，而是有益的特性。
 ### 2、Puppy Linux
 
 
-![Puppy Linux](/Asserts/Images//attachment/album/202305/10/173706u0h08s4pa88xz298.jpg)
+![Puppy Linux](/Asserts/Images/album/202305/10/173706u0h08s4pa88xz298.jpg)
 
 
 [Puppy Linux](https://puppylinux-woof-ce.github.io/?ref=itsfoss.com) 是一个因其文件大小极小和易用性而广受欢迎的 Linux 发行版。它是本列表中最古老的选项，起源可以追溯到 **2003** 年。
@@ -74,7 +74,7 @@ Linux 发行版的多样性不是缺点，而是有益的特性。
 ### 3、SliTaz
 
 
-![SliTaz](/Asserts/Images//attachment/album/202305/10/173706y99b9ualep2aq6ae.jpg)
+![SliTaz](/Asserts/Images/album/202305/10/173706y99b9ualep2aq6ae.jpg)
 
 
 [SliTaz](https://www.slitaz.org/en/?ref=itsfoss.com) 是一款有趣的 [滚动发布的发行版](https://itsfoss.com/rolling-release/)，提供了所有必要的内容，以获得可用的桌面体验。
@@ -89,7 +89,7 @@ SliTaz 完全是从头开始构建的，因此它一款独立发行版。它可�
 ### 4、Bodhi Linux
 
 
-![Bodhi Linux](/Asserts/Images//attachment/album/202305/10/173707xvtgs1h3rlevgjp1.jpg)
+![Bodhi Linux](/Asserts/Images/album/202305/10/173707xvtgs1h3rlevgjp1.jpg)
 
 
 [Bodhi Linux](https://www.bodhilinux.com/?ref=itsfoss.com) 是基于 Ubuntu 的流行的 [轻量级 Linux 发行版](https://itsfoss.com/lightweight-linux-beginners/) 之一。如果你想要一个轻量级的选择和便捷的用户体验，搭载 Moksha 桌面的 Bodhi Linux 就是答案。
@@ -101,7 +101,7 @@ SliTaz 完全是从头开始构建的，因此它一款独立发行版。它可�
 ### 5、AntiX Linux
 
 
-![AntiX Linux](/Asserts/Images//attachment/album/202305/10/173707rfnksbkn6kslkcbv.jpg)
+![AntiX Linux](/Asserts/Images/album/202305/10/173707rfnksbkn6kslkcbv.jpg)
 
 
 [AntiX Linux](https://antixlinux.com/?ref=itsfoss.com) 基于 Debian 稳定分支构建。它是 [支持 32 位系统的发行版](https://itsfoss.com/32-bit-linux-distributions/) 之一。
@@ -119,7 +119,7 @@ SliTaz 完全是从头开始构建的，因此它一款独立发行版。它可�
 ### 6、Porteus Linux
 
 
-![Porteus Linux](/Asserts/Images//attachment/album/202305/10/173708ptbwkzbyyybd2xhf.jpg)
+![Porteus Linux](/Asserts/Images/album/202305/10/173708ptbwkzbyyybd2xhf.jpg)
 
 
 [Porteus Linux](http://www.porteus.org/?ref=itsfoss.com) 是一款针对最小硬件优化的发行版，其 ISO 镜像大小不到 300 MB。
@@ -134,7 +134,7 @@ SliTaz 完全是从头开始构建的，因此它一款独立发行版。它可�
 ### 7、ArchBang Linux
 
 
-![ArchBang Linux](/Asserts/Images//attachment/album/202305/10/173708wdva66upvw5qqv52.jpg)
+![ArchBang Linux](/Asserts/Images/album/202305/10/173708wdva66upvw5qqv52.jpg)
 
 
 [ArchBang](https://archbang.org/?ref=itsfoss.com) 是一款基于 Arch 的发行版，它使用 i3 窗口管理器，不到 1GB ISO 文件提供了轻量级体验。

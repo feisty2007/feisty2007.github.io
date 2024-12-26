@@ -13,7 +13,7 @@ tags:	[linuxcn,Secure-Delete,Shred,dd,wipe,删除]
 让我们看看怎样安全并完整地从你的 Linux 系统中删除文件或者文件夹。以下提到的工具可以完全地删除数据，因此那些恢复工具很难找到真实数据的痕迹然后恢复它。
 
 
-![](/Asserts/Images//attachment/album/201505/19/225016qll0xpzpl3j740n7.jpg)
+![](/Asserts/Images/album/201505/19/225016qll0xpzpl3j740n7.jpg)
 
 
 ### Secure-Delete
@@ -37,7 +37,7 @@ sudo apt-get install secure-delete
 
 ```
 
-![secure delete](/Asserts/Images//attachment/album/201505/19/225021ilg5xg00ogn9xpdo.png)
+![secure delete](/Asserts/Images/album/201505/19/225021ilg5xg00ogn9xpdo.png)
 
 
 在 RHEL，Fedora 或者 Centos 中运行如下命令安装此工具：
@@ -191,7 +191,7 @@ sudo aptitude install wipe
 
 ```
 
-![Wipe Linux](/Asserts/Images//attachment/album/201505/19/225022eblvzubujbzvt8xd.png)
+![Wipe Linux](/Asserts/Images/album/201505/19/225022eblvzubujbzvt8xd.png)
 
 
 使用如下命令在 Redhat Linux，Centos 或者 Fedora 中安装 Wipe：

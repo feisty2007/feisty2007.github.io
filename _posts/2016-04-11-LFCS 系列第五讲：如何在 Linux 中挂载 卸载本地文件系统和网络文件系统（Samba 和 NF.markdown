@@ -10,7 +10,7 @@ tags:	[linuxcn,LFCS,文件系统,挂载]
 Linux 基金会已经发起了一个全新的 LFCS（<ruby> Linux 基金会认证系统管理员 <rp>  （ </rp> <rt>  Linux Foundation Certified Sysadmin </rt> <rp>  ） </rp></ruby>）认证，旨在让来自世界各地的人有机会参加到 LFCS 测试，获得关于有能力在 Linux 系统中执行中间系统管理任务的认证。该认证包括：维护正在运行的系统和服务的能力、全面监控和分析的能力以及何时向上游团队请求支持的决策能力。
 
 
-![Linux Foundation Certified Sysadmin – Part 5](/Asserts/Images//attachment/album/201604/11/083733hamn3j9v3a3w94o4.png)
+![Linux Foundation Certified Sysadmin – Part 5](/Asserts/Images/album/201604/11/083733hamn3j9v3a3w94o4.png)
 
 
 *LFCS 系列第五讲*
@@ -48,7 +48,7 @@ Linux 基金会已经发起了一个全新的 LFCS（<ruby> Linux 基金会认�
 
 ```
 
-![Check Mounted Filesystem in Linux](/Asserts/Images//attachment/album/201604/11/083734afzlpfl896fopcqr.png)
+![Check Mounted Filesystem in Linux](/Asserts/Images/album/201604/11/083734afzlpfl896fopcqr.png)
 
 
 *检查已挂载的文件系统*
@@ -142,7 +142,7 @@ device on directory type (options)
 
 ```
 
-![Mount Device in Read Write Mode](/Asserts/Images//attachment/album/201604/11/083734uzm5q55ewemrsm5q.png)
+![Mount Device in Read Write Mode](/Asserts/Images/album/201604/11/083734uzm5q55ewemrsm5q.png)
 
 
 *可读写模式挂载设备*
@@ -160,7 +160,7 @@ device on directory type (options)
 
 ```
 
-![Mount Device in Linux](/Asserts/Images//attachment/album/201604/11/083735vrwasmt1pwrkvr1t.png)
+![Mount Device in Linux](/Asserts/Images/album/201604/11/083735vrwasmt1pwrkvr1t.png)
 
 
 *挂载设备*
@@ -178,7 +178,7 @@ device on directory type (options)
 也就是说，你必须“离开”设备的块设备描述符或者挂载点，才能卸载设备。换言之，你的当前工作目录不能是需要卸载设备的挂载点。否则，系统将返回设备繁忙的提示信息。
 
 
-![Unmount Device in Linux](/Asserts/Images//attachment/album/201604/11/083735la66phyyjhopkojp.png)
+![Unmount Device in Linux](/Asserts/Images/album/201604/11/083735la66phyyjhopkojp.png)
 
 
 *卸载设备*
@@ -228,7 +228,7 @@ device on directory type (options)
 并输入远程机器上 root 账户的密码。
 
 
-![Mount Samba Share in Linux](/Asserts/Images//attachment/album/201604/11/083735n0tuv0bpr8snpt8b.png)
+![Mount Samba Share in Linux](/Asserts/Images/album/201604/11/083735n0tuv0bpr8snpt8b.png)
 
 
 *挂载 Samba 共享*
@@ -261,7 +261,7 @@ device on directory type (options)
 第四步：现在可以挂载你的 Samba 共享了。手动挂载（mount //192.168.0.10/gacanepa）或者重启系统并应用 /etc/fstab 中相应行来用就挂载都可以。
 
 
-![Mount Password Protect Samba Share](/Asserts/Images//attachment/album/201604/11/083736v77ptst9rhocsc7t.png)
+![Mount Password Protect Samba Share](/Asserts/Images/album/201604/11/083736v77ptst9rhocsc7t.png)
 
 
 *挂载有密码保护的 Samba 共享*
@@ -300,7 +300,7 @@ device on directory type (options)
 第四步：现在可以挂载你的 Samba 共享了。手动挂载（mount 192.168.0.10:/NFS-SHARE）或者重启系统并应用 /etc/fstab 中相应行来用就挂载都可以。
 
 
-![Mount NFS Share in Linux](/Asserts/Images//attachment/album/201604/11/083737p4rbohatc5b6cfib.png)
+![Mount NFS Share in Linux](/Asserts/Images/album/201604/11/083737p4rbohatc5b6cfib.png)
 
 
 *挂载 NFS 共享*

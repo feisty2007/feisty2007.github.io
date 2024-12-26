@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,xrOS,苹果]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/17/185540hl30mu9uqu0dku73.jpg)
+![](/Asserts/Images/album/202305/17/185540hl30mu9uqu0dku73.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/17/185554cepo7ooveav86w48.jpg)
+![](/Asserts/Images/album/202305/17/185554cepo7ooveav86w48.jpg)
 
 
 ### 研究称 AI 的涌现能力来自于评估模式的错误
@@ -35,7 +35,7 @@ GPT-3 等大语言模型（LLM）随着规模的扩大而表现出意想不到�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/17/185606pqkviz9z25ppponq.jpg)
+![](/Asserts/Images/album/202305/17/185606pqkviz9z25ppponq.jpg)
 
 
 ### 苹果公司注册 xrOS 商标
@@ -60,7 +60,7 @@ GPT-3 等大语言模型（LLM）随着规模的扩大而表现出意想不到�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/17/185625oj7owg6hhzwdhok9.jpg)
+![](/Asserts/Images/album/202305/17/185625oj7owg6hhzwdhok9.jpg)
 
 
 ### 只需 15 分钟训练，iPhone 将能用你的声音说话

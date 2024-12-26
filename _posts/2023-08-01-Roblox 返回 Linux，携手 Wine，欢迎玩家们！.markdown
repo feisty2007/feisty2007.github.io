@@ -7,7 +7,7 @@ tags:	[linuxcn,Roblox,Wine]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/25/145035y6f30f2zp38dymf6.png)
+![](/Asserts/Images/album/202308/25/145035y6f30f2zp38dymf6.png)
 
 
 
@@ -50,7 +50,7 @@ Roblox 即将重新登陆 Linux 平台。
 随后，他展示了一张截图，揭示了 **Roblox 在 Manjaro Linux 上运行** 的信息。
 
 
-![来源：Roblox 员工 / 论坛](/Asserts/Images//attachment/album/202308/25/145036kaj0e4usi6j38jyb.jpg)
+![来源：Roblox 员工 / 论坛](/Asserts/Images/album/202308/25/145036kaj0e4usi6j38jyb.jpg)
 
 
 如果你还不知道，[Grapejuice](https://gitlab.com/brinkervii/grapejuice?ref=news.itsfoss.com) 是一个管理应用程序，可以帮助你在 Linux 上正确设置 Wine 和 Roblox。
@@ -76,7 +76,7 @@ Roblox 即将重新登陆 Linux 平台。
 然而，玩家们现在应该会感到高兴，认识到至少 **Roblox 在 Linux 上的非官方支持即将到来**。
 
 
-![](/Asserts/Images//attachment/album/202308/25/145036tm051kp03aba3053.jpg)
+![](/Asserts/Images/album/202308/25/145036tm051kp03aba3053.jpg)
 
 
 你可以查看 [这里](https://devforum.roblox.com/t/why-did-roblox-stop-supporting-linux-users/2444335/61?u=sirsquiddybob&ref=news.itsfoss.com) 的讨论以获取关于这个实施情况的更多详细信息。（需要登录）。

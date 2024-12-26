@@ -7,7 +7,7 @@ tags:	[linuxcn,日志,syslog]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/08/224914clxpxmjbvxpj8j8e.jpg)
+![](/Asserts/Images/album/201803/08/224914clxpxmjbvxpj8j8e.jpg)
 
 
 如果你的数据中心全是 Linux 服务器，而你就是系统管理员。那么你的其中一项工作内容就是查看服务器的日志文件。但是，如果你在大量的机器上去查看日志文件，那么意味着你需要挨个去登入到机器中来阅读日志文件。如果你管理的机器很多，仅这项工作就可以花费你一天的时间。
@@ -128,7 +128,7 @@ log { source(s_local);destination(d_syslog_tcp); };
 回到你的配置为收集器的服务器上，运行这个命令 `sudo tail -f /var/log/syslog-ng/logs.txt`。你将看到包含了收集器和客户端的日志条目的输出（图 A）。
 
 
-![图 A](/Asserts/Images//attachment/album/201803/08/224926s0hn2grvvv03c933.jpg)
+![图 A](/Asserts/Images/album/201803/08/224926s0hn2grvvv03c933.jpg)
 
 
 恭喜你！syslog-ng 已经正常工作了。你现在可以登入到你的收集器上查看本地机器和远程客户端的日志了。如果你的数据中心有很多 Linux 服务器，在每台服务器上都安装上 syslog-ng 并配置它们作为客户端发送日志到收集器，这样你就不需要登入到每个机器去查看它们的日志了。

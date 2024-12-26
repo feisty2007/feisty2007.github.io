@@ -24,7 +24,7 @@ Goobuntu 基本上是一个 [采用轻量级的界面的 Ubuntu](http://www.zdne
 ### 遇见 gLinux：Google 基于 Debian Buster 的新 Linux 发行版
 
 
-![gLinux from Goobuntu](/Asserts/Images//attachment/album/201801/22/094039koc97zz7uiipj77i.jpg)
+![gLinux from Goobuntu](/Asserts/Images/album/201801/22/094039koc97zz7uiipj77i.jpg)
 
 
 在使用 Ubuntu 五年多以后，Google 正在用一个基于 Debian Testing 版本的 Linux 发行版 —— gLinux 取代 Goobuntu。
@@ -54,7 +54,7 @@ Google 计划如何转移到 Debian Testing？目前的 Debian Testing 版本是
 Google 还计划将这些改动发到 Debian 的上游项目中，从而为其发展做出贡献。
 
 
-![gLinux testing plan from Google](/Asserts/Images//attachment/album/201801/22/094039og5f939ic2156fi9.jpg)
+![gLinux testing plan from Google](/Asserts/Images/album/201801/22/094039og5f939ic2156fi9.jpg)
 
 
 *gLinux 的开发计划*

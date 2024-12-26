@@ -7,7 +7,7 @@ tags:	[linuxcn,DevOps]
 ---
 
 
-![](/Asserts/Images//attachment/album/201608/29/105415syslywh0rfhdmr55.jpg)
+![](/Asserts/Images/album/201608/29/105415syslywh0rfhdmr55.jpg)
 
 
 那些熟悉 DevOps 的人通常认为与其说 DevOps 是一种技术不如说是一种文化。在 DevOps 的有效实践上需要一些特定的工具和经验，但是 DevOps 成功的基础在于企业内如何做好[团队和个体协作](http://devops.com/2014/12/15/four-strategies-supporting-devops-collaboration/)，从而可以让事情更快、更高效而有效的完成。

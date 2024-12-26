@@ -7,7 +7,7 @@ tags:	[linuxcn,Git,AI,极客漫画]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/03/115545nrrswjz2s3p8z3xx.png)
+![](/Asserts/Images/album/201902/03/115545nrrswjz2s3p8z3xx.png)
 
 
 要是你的 Git 有了人工智能，会不会嫌弃你的提交？

@@ -7,7 +7,7 @@ tags:	[linuxcn,API]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/07/232516w8j766mkp7pz7frl.png)
+![](/Asserts/Images/album/202305/07/232516w8j766mkp7pz7frl.png)
 
 
 

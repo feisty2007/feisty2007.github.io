@@ -7,7 +7,7 @@ tags:	[linuxcn,VSCodium,VS Code]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/26/134531enn7h0bn7z97977b.png)
+![](/Asserts/Images/album/202311/26/134531enn7h0bn7z97977b.png)
 
 
 
@@ -24,7 +24,7 @@ Visual Studio Code（VS Code）是微软开发的一款流行的跨平台文本�
 为了解决有关 [遥测](https://code.visualstudio.com/docs/getstarted/telemetry) 和许可的问题，有一个名为 “[VSCodium](https://itsfoss.com/vscodium/)” 的替代方案，它是社区驱动、禁用遥测且获得 MIT 许可的 VS Code 版本。
 
 
-![VSCodium running on Fedora 39](/Asserts/Images//attachment/album/202311/26/134616jdfzytfzetd0aa0z.png)
+![VSCodium running on Fedora 39](/Asserts/Images/album/202311/26/134616jdfzytfzetd0aa0z.png)
 
 
 在本教程中，我将指导你完成在 Fedora Linux 系统上安装和运行 VSCodium 的过程。
@@ -117,7 +117,7 @@ sudo rm /etc/yum.repos.d/vscodium.repo
 你可以通过启用 Flathub 直接在 Fedora 上安装它，如果你使用的是最新版本之一并且为 Fedora 启用了第三方仓库，那么可能会启用该功能。只需在 GNOME “软件” 应用中搜索 VSCodium 并单击安装即可。
 
 
-![Installing the flatpak from Gnome Software](/Asserts/Images//attachment/album/202311/26/134616f14ohj2p9dohmvoh.png)
+![Installing the flatpak from Gnome Software](/Asserts/Images/album/202311/26/134616f14ohj2p9dohmvoh.png)
 
 
 不过，由于某些原因运行旧版本的用户，或者他们可能有一个未启用 Flatpak 的分叉，也可以效仿。
@@ -183,7 +183,7 @@ sudo flatpak uninstall com.vscodium.codium
 在 Fedora，我首先安装了 Flatpak 版本，但在 Wayland 会话中，VSCodium 没有显示任何窗口装饰（这显然是默认的）。这让我很难用鼠标导航。
 
 
-![VSCodium flatpak showing no window decorations.](/Asserts/Images//attachment/album/202311/26/134617m5mvamplv7aba5lk.png)
+![VSCodium flatpak showing no window decorations.](/Asserts/Images/album/202311/26/134617m5mvamplv7aba5lk.png)
 
 
 我尝试了一些方法来解决这个问题，但由于 Fflatpak 配置文件的位置很奇怪，所以没有成功。如果有人有或能找到解决上述问题的办法，请在下面发表评论。不过，使用 rpm 版本倒是天衣无缝（也许怀疑论者对替代软件包管理系统的看法是对的）。

@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,WSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/27/111439z64u19z6ct6r46kb.jpg)
+![](/Asserts/Images/album/202005/27/111439z64u19z6ct6r46kb.jpg)
 
 
 微软最近的 “[Build 2020](https://news.microsoft.com/build2020/)” 开发者大会公布了一些有趣的公告。我不确定这该令人兴奋还是该令人怀疑 —— 但是微软，你现在比以往任何时候都受到我们的关注。
@@ -28,7 +28,7 @@ tags:	[linuxcn,微软,WSL]
 ### WSL 上对 Linux GUI 应用程序的支持
 
 
-![](/Asserts/Images//attachment/album/202005/27/110600xjhgiodn1pn1qghg.png)
+![](/Asserts/Images/album/202005/27/110600xjhgiodn1pn1qghg.png)
 
 
 最近，Microsoft 在在线开发者大会上宣布了 WSL（即 WSL 2）的一系列新功能。
@@ -46,7 +46,7 @@ tags:	[linuxcn,微软,WSL]
 微软计划通过使用全新的 Linux 内核驱动程序 `dxgkrnl` 来实现它。为了给你一个技术性的简报, 我在这里引用他们的公告中的描述：
 
 
-![](/Asserts/Images//attachment/album/202005/27/110701v6ctmn07w1i8mm0g.png)
+![](/Asserts/Images/album/202005/27/110701v6ctmn07w1i8mm0g.png)
 
 
 
@@ -72,7 +72,7 @@ tags:	[linuxcn,微软,WSL]
 ### 微软爱上了 Linux —— 真的吗？
 
 
-![](/Asserts/Images//attachment/album/202005/27/110730uujjlybefey7s0ea.jpg)
+![](/Asserts/Images/album/202005/27/110730uujjlybefey7s0ea.jpg)
 
 
 他们在 Windows 上整合 Linux 环境来拥抱 Linux 及其优势的努力，绝对是一件好事。

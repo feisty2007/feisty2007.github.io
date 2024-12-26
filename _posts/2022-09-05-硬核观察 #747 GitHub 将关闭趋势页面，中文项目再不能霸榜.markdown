@@ -7,10 +7,10 @@ tags:	[linuxcn,GitHub,AI,Chrome]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/02/144527o7z8x374k4v24xzz.jpg)
+![](/Asserts/Images/album/202209/02/144527o7z8x374k4v24xzz.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/02/144522g99ig93g0j9qbkrq.jpg)
+![](/Asserts/Images/album/202209/02/144522g99ig93g0j9qbkrq.jpg)
 
 
 ### GitHub 将关闭趋势页面，中文项目再不能霸榜
@@ -35,7 +35,7 @@ GitHub 宣布将于 9 月 30 日关闭其趋势（Trending）页面，原因这�
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/02/144553dz88hzxk8dmqy8wq.jpg)
+![](/Asserts/Images/album/202209/02/144553dz88hzxk8dmqy8wq.jpg)
 
 
 ### AI 生成的艺术作品在美术比赛中获得第一名
@@ -60,7 +60,7 @@ GitHub 宣布将于 9 月 30 日关闭其趋势（Trending）页面，原因这�
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/02/144556z1l2ck7l5743uyhc.jpg)
+![](/Asserts/Images/album/202209/02/144556z1l2ck7l5743uyhc.jpg)
 
 
 ### 多达 140 万安装量的 Chrome 扩展会注入推广代码

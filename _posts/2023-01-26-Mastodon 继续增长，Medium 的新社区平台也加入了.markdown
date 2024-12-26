@@ -15,7 +15,7 @@ tags:	[linuxcn,Mastodon,Medium]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/15/105418qhzff9dzof1jffwj.png)
+![](/Asserts/Images/album/202301/15/105418qhzff9dzof1jffwj.png)
 
 
 Mastodon 在最近一段时间的增长是巨大的；越来越多的人正在转向这个 Twitter 的替代品。
@@ -42,7 +42,7 @@ Vivaldi [最近推出了](https://news.itsfoss.com/vivaldi-mastodon-integration/
 该网站（即 Mastodon 实例）旨在成为 Medium 的用户的专属空间。
 
 
-![](/Asserts/Images//attachment/album/202301/15/105419dtpe68s2kbl77ekp.jpg)
+![](/Asserts/Images/album/202301/15/105419dtpe68s2kbl77ekp.jpg)
 
 
 换句话说，它将成为 Medium 用户的专属社交网络平台。

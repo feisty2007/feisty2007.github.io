@@ -7,7 +7,7 @@ tags:	[linuxcn,Wayland,PyCharm,IntelliJ]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/01/155506s4y763kpkilia3z9.jpg)
+![](/Asserts/Images/album/202309/01/155506s4y763kpkilia3z9.jpg)
 
 
 

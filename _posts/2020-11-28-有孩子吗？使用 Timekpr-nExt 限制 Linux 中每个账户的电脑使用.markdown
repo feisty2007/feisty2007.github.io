@@ -7,7 +7,7 @@ tags:	[linuxcn,限制,孩子]
 ---
 
 
-![](/Asserts/Images//attachment/album/202011/18/004039svxva9wrvva2xias.jpg)
+![](/Asserts/Images/album/202011/18/004039svxva9wrvva2xias.jpg)
 
 
 
@@ -27,13 +27,13 @@ tags:	[linuxcn,限制,孩子]
 可以让你根据一天的时间、一天、一周或者一月的小时数来限制某些账户的电脑使用。你也可以设置时间间隔来强制账户用户休息。
 
 
-![](/Asserts/Images//attachment/album/202011/18/003800oruelenzxnn9lar0.png)
+![](/Asserts/Images/album/202011/18/003800oruelenzxnn9lar0.png)
 
 
 给定的时间超过后，用户会自动登出，直到满足限制条件才可以重新登录。
 
 
-![](/Asserts/Images//attachment/album/202011/18/003813kpjprjj4fvpaccan.png)
+![](/Asserts/Images/album/202011/18/003813kpjprjj4fvpaccan.png)
 
 
 当然，这意味着你需要为孩子们单独设置非管理员（无 `sudo` 权限）账户。如果孩子们的账户也有管理员权限，他们可以很容易地改变设置。孩子们很聪明，你知道的。
@@ -89,7 +89,7 @@ Arch Linux 用户可以[在 AUR 中找到它](https://aur.archlinux.org/packages
 你会看到两个应用的实例。使用开头有 （SU） 的那个。
 
 
-![](/Asserts/Images//attachment/album/202011/18/003825szobd7zif1igbd1g.jpg)
+![](/Asserts/Images/album/202011/18/003825szobd7zif1igbd1g.jpg)
 
 
 #### 删除 Timekpr-nExt

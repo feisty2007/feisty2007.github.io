@@ -7,7 +7,7 @@ tags:	[linuxcn,HashiCorp,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/30/130458xsmca4sv8n0ca88s.jpg)
+![](/Asserts/Images/album/202005/30/130458xsmca4sv8n0ca88s.jpg)
 
 
 #### HashiCorp 产品禁止中国公司使用，引发对开源软件受限制的担忧

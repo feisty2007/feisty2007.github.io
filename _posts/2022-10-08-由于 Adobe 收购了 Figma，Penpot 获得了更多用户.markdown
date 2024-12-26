@@ -7,7 +7,7 @@ tags:	[linuxcn,Figma,Penpot]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/01/123134pkwwwnakfpsds7p6.jpg)
+![](/Asserts/Images/album/202210/01/123134pkwwwnakfpsds7p6.jpg)
 
 
 

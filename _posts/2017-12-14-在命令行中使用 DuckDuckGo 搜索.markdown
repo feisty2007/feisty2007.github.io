@@ -7,7 +7,7 @@ tags:	[linuxcn,DuckDuckGo,搜索引擎]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/03/110113cfcblroim9qorqlq.png)
+![](/Asserts/Images/album/201712/03/110113cfcblroim9qorqlq.png)
 
 
 此前我们介绍了[如何在命令行中使用 Google 搜索](http://www.omgubuntu.co.uk/2017/08/search-google-from-the-command-line)。许多读者反馈说他们平时使用 [Duck Duck Go](http://duckduckgo.com/)，这是一个功能强大而且保密性很强的搜索引擎。
@@ -22,7 +22,7 @@ tags:	[linuxcn,DuckDuckGo,搜索引擎]
 ### DuckDuckGo 命令行应用
 
 
-![](/Asserts/Images//attachment/album/201712/03/110114spmjuykxre0555jm.gif)
+![](/Asserts/Images/album/201712/03/110114spmjuykxre0555jm.gif)
 
 
 [DuckDuckGo Bangs（DuckDuckGo 快捷搜索）](https://duckduckgo.com/bang) 可以帮助你轻易地在 DuckDuckGo 上找到想要的信息（甚至 *本网站 omgubuntu* 都有快捷搜索）。ddgr 非常忠实地呈现了这个功能。

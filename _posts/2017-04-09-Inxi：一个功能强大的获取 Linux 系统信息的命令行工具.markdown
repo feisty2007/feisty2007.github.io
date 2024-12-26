@@ -7,7 +7,7 @@ tags:	[linuxcn,inxi,系统信息]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/19/004852slo7eh7xox2795iv.jpg)
+![](/Asserts/Images/album/201704/19/004852slo7eh7xox2795iv.jpg)
 
 
 Inxi 最初是为控制台和 IRC（网络中继聊天）开发的一个强大且优秀的命令行系统信息脚本。可以使用它获取用户的硬件和系统信息，它也用于调试或者社区技术支持工具。

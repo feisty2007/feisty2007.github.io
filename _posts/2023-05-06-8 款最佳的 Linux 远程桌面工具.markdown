@@ -7,7 +7,7 @@ tags:	[linuxcn,远程桌面]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/19/081432tdjvzhbb66hb191u.jpg)
+![](/Asserts/Images/album/202305/19/081432tdjvzhbb66hb191u.jpg)
 
 
 
@@ -38,7 +38,7 @@ tags:	[linuxcn,远程桌面]
 ### 1、Remmina
 
 
-![Reminna](/Asserts/Images//attachment/album/202305/19/081514s3lx5zkvnebexoo5.png)
+![Reminna](/Asserts/Images/album/202305/19/081514s3lx5zkvnebexoo5.png)
 
 
 [Remmina](https://remmina.org/) 是一款功能强大的自由开源的远程桌面客户端，支持多种协议，包括 RDP、VNC、SPICE、X2GO、SSH 和 HTTP(S)。
@@ -85,7 +85,7 @@ flatpak install flathub org.remmina.Remmina
 ### 2、GNOME “连接”应用
 
 
-![](/Asserts/Images//attachment/album/202305/19/081515s91sw3wskww2thnw.png)
+![](/Asserts/Images/album/202305/19/081515s91sw3wskww2thnw.png)
 
 
 [GNOME “连接”应用](https://apps.gnome.org/en-GB/app/org.gnome.Connections/) 是一款简单易用的应用程序，可以使用 RDP/VNC 协议快速连接到远程桌面。
@@ -126,7 +126,7 @@ flatpak install flathub org.gnome.Connections
 ### 3、X2Go
 
 
-![X2Go Client](/Asserts/Images//attachment/album/202305/19/081515j2s5sre2ervs5rn9.png)
+![X2Go Client](/Asserts/Images/album/202305/19/081515j2s5sre2ervs5rn9.png)
 
 
 [X2Go](https://wiki.x2go.org/doku.php/start) 是一款开源的跨平台远程桌面客户端，采用客户端-服务器架构。远程计算机必须安装 X2Go 服务器，这一般是一个 Linux 系统。然后，你可以在你选择的任何平台上安装 X2Go 客户端，然后使用它连接到 Linux 远程系统。
@@ -181,7 +181,7 @@ sudo apt install x2goserver x2goserver-xsession
 ### 4、KRDC
 
 
-![KRDC](/Asserts/Images//attachment/album/202305/19/081516urrozuwoua0gvy1p.png)
+![KRDC](/Asserts/Images/album/202305/19/081516urrozuwoua0gvy1p.png)
 
 
 [KRDC](https://apps.kde.org/krdc/) 是一款由 KDE 开发的自由开源的远程桌面工具。你可以在一些采用 KDE 的发行版中找到它的预安装版本，也可以在任何发行版上安装它。
@@ -223,7 +223,7 @@ flatpak install flathub org.kde.krdc
 ### 5、TigerVNC
 
 
-![TigerVNC](/Asserts/Images//attachment/album/202305/19/081516kmkmw5jjymbx49jl.png)
+![TigerVNC](/Asserts/Images/album/202305/19/081516kmkmw5jjymbx49jl.png)
 
 
 TigerVNC 是一款自由而开源的远程计算机连接工具，采用客户端-服务器架构。
@@ -258,7 +258,7 @@ TigerVNC 是一款自由而开源的远程计算机连接工具，采用客户�
 ### 6、TeamViewer（非 FOSS）
 
 
-![TeamViewer](/Asserts/Images//attachment/album/202305/19/081516gj7px9agkxdjc98c.png)
+![TeamViewer](/Asserts/Images/album/202305/19/081516gj7px9agkxdjc98c.png)
 
 
 [TeamViewer](https://www.teamviewer.com/en/products/teamviewer/) 是一款跨平台的**流行工具**，甚至可以通过移动设备进行连接。有趣的是，它还提供了一个 Web 客户端。因此，要连接到其他系统，你不需要在计算机上安装客户端。
@@ -298,7 +298,7 @@ TeamViewer 为 Linux 发行版提供了二进制文件以进行轻松安装。�
 ### 7、AnyDesk（非 FOSS）
 
 
-![AnyDesk](/Asserts/Images//attachment/album/202305/19/081517jwy9a2atp66dtbtx.png)
+![AnyDesk](/Asserts/Images/album/202305/19/081517jwy9a2atp66dtbtx.png)
 
 
 [AnyDesk](https://anydesk.com/) 是业界领先的远程桌面工具之一，具有完整的功能集和安全访问。

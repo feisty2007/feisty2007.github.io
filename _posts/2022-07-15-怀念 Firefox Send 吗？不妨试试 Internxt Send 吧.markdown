@@ -15,7 +15,7 @@ tags:	[linuxcn,Send]
 > 
 
 
-![Internxt](/Asserts/Images//attachment/album/202207/13/104548h6emtze8tjft9meq.jpg)
+![Internxt](/Asserts/Images/album/202207/13/104548h6emtze8tjft9meq.jpg)
 
 
 [Internxt](https://itsfoss.com/internxt-cloud-service/) 是一个相当新的开源加密云服务，旨在取代大型科技公司的产品。例如，你可以把它作为谷歌的相册和云端硬盘的替代品。
@@ -36,7 +36,7 @@ tags:	[linuxcn,Send]
 ### Internxt Send：一个安全的文件共享服务
 
 
-![](/Asserts/Images//attachment/album/202207/13/104549a5jirw30mt6zq2b5.png)
+![](/Asserts/Images/album/202207/13/104549a5jirw30mt6zq2b5.png)
 
 
 我在 GitHub 上找不到 Internxt Send 的存储库，但我已经要求他们澄清了。
@@ -54,7 +54,7 @@ tags:	[linuxcn,Send]
 你可以选择文件，上传并生成共享链接。或者，你也可以直接向收件人发送电子邮件，那样的话，你需要在邮件里分享你的电子邮件地址。
 
 
-![](/Asserts/Images//attachment/album/202207/13/104549ezim7zsaxs20bmlx.png)
+![](/Asserts/Images/album/202207/13/104549ezim7zsaxs20bmlx.png)
 
 
 有趣的是，它还允许你在这个电子邮件中添加自定义文本。

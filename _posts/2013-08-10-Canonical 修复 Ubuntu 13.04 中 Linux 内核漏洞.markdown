@@ -10,7 +10,7 @@ tags:	[linuxcn,Canonical,Linux 内核漏洞]
 Canonical 刚刚公告说在发现了一些 [Linux 内核漏洞](http://www.ubuntu.com/usn/usn-1935-1/)，这些漏洞影响到现刚刚发布的 Ubuntu 13.04 系统。漏洞中包含一个空的指针，这个指针包含在 Linux 内核中的 Ceph 客户端中，攻击者可能会利用此漏洞导致服务器瘫痪。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201308/21/1618067btitmebeqa2yqel.jpg](/Asserts/Images//attachment/album/201308/21/1618067btitmebeqa2yqel.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201308/21/1618067btitmebeqa2yqel.jpg](/Asserts/Images/album/201308/21/1618067btitmebeqa2yqel.jpg)
 
 
 漏洞已经修复完成，您可以通过升级系统到 Linux-image-3.8.0-29-generic (3.8.0-29.42) 来修复此漏洞。修复完成后需要重启您的服务器或计算机。

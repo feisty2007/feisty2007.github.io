@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,Copilot,GNU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/19/183106qlpd0aodbfhadada.jpg)
+![](/Asserts/Images/album/202302/19/183106qlpd0aodbfhadada.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/19/183115f7aiba76rihkyaty.jpg)
+![](/Asserts/Images/album/202302/19/183115f7aiba76rihkyaty.jpg)
 
 
 ### 无法从 Ubuntu Linux 中消除 Ubuntu Pro 的广告
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ubuntu,Copilot,GNU]
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/19/183126wr6xhfk6868vafrv.jpg)
+![](/Asserts/Images/album/202302/19/183126wr6xhfk6868vafrv.jpg)
 
 
 ### 新的 GitHub Copilot 将为开发者写出 40-60% 的代码
@@ -60,7 +60,7 @@ GitHub 更新了它的 Copilot 编码助手，变得更智能，它建议的代�
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/19/183140hr8e2jee3zyzb0hj.jpg)
+![](/Asserts/Images/album/202302/19/183140hr8e2jee3zyzb0hj.jpg)
 
 
 ### 非 GNU/Linux 的 Linux

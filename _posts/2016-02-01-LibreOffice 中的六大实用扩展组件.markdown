@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/201602/15/213359o5vaphqm3ayma1vp.png)
+![](/Asserts/Images/album/201602/15/213359o5vaphqm3ayma1vp.png)
 
 
 图片来源：Opensource.com
@@ -28,7 +28,7 @@ LibreOffice 的扩展组件的网站是 [extensions.libreoffice.org](http://exte
 **[下载 多格式保存组件](http://extensions.libreoffice.org/extension-center/multisave-1)**
 
 
-![Multiformatsave extension](/Asserts/Images//attachment/album/201602/15/213401e3xb3xx3ls1xtxwx.png)
+![Multiformatsave extension](/Asserts/Images/album/201602/15/213401e3xb3xx3ls1xtxwx.png)
 
 
 ### 2. Writer 中可备选使用的查找与替换组件（<ruby> 备选搜索 <rp>  （ </rp> <rt>  AltSearch </rt> <rp>  ） </rp></ruby>）
@@ -40,7 +40,7 @@ LibreOffice 的扩展组件的网站是 [extensions.libreoffice.org](http://exte
 **[下载 Writer 中可交替使用的查找与替换组件（<ruby> 交替搜索 <rp>  （ </rp> <rt>  AltSearch </rt> <rp>  ） </rp></ruby>）](http://extensions.libreoffice.org/extension-center/alternative-dialog-find-replace-for-writer)**
 
 
-![Alternative Find&amp;amp;Replace add-on](/Asserts/Images//attachment/album/201602/15/213405pu3khq3m9orkybx5.png)
+![Alternative Find&amp;amp;Replace add-on](/Asserts/Images/album/201602/15/213405pu3khq3m9orkybx5.png)
 
 
 ### 3. Pepito 清除组件
@@ -52,7 +52,7 @@ Pepito 清除组件是一个 LibreOffice 扩展，主要用来快速清除并修
 **[下载 Pepito 清除组件](http://pepitoweb.altervista.org/pepito_cleaner/index.php)**
 
 
-![Pepito cleaner screenshot](/Asserts/Images//attachment/album/201602/15/213406grr3rcffk0i0h0tr.png)
+![Pepito cleaner screenshot](/Asserts/Images/album/201602/15/213406grr3rcffk0i0h0tr.png)
 
 
 ### 4. ImpressRunner 组件
@@ -73,7 +73,7 @@ Impress Runner 是将 [Impress](https://www.libreoffice.org/discover/impress/) �
 **[下载 导出为图像组件](http://extensions.libreoffice.org/extension-center/export-as-images)**
 
 
-![Export as images extension](/Asserts/Images//attachment/album/201602/15/213409fv6f760uptwf3vpz.png)
+![Export as images extension](/Asserts/Images/album/201602/15/213409fv6f760uptwf3vpz.png)
 
 
 ### 6. Anaphraseus 组件
@@ -85,7 +85,7 @@ Anaphraseus 是一个 CAT（<ruby> 计算机辅助翻译 <rp>  （ </rp> <rt>  C
 **[下载 Anaphraseus 组件](http://anaphraseus.sourceforge.net/)**
 
 
-![Anaphraseus screenshot](/Asserts/Images//attachment/album/201602/15/213410i00ccwcz5369e6mh.png)
+![Anaphraseus screenshot](/Asserts/Images/album/201602/15/213410i00ccwcz5369e6mh.png)
 
 
 你是否也有自己喜欢和推荐的 LibreOffice 组件呢？在评论中告诉大家吧。

@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201603/09/110143coykd4ffvyffzxvk.jpg)
+![](/Asserts/Images/album/201603/09/110143coykd4ffvyffzxvk.jpg)
 
 
 （LCTT 译注：这是一则过期的消息，但是为了披露更新内容，还是发布出来给大家参考）

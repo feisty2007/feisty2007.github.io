@@ -7,7 +7,7 @@ tags:	[linuxcn,MX Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/31/103333byvuvmo6vzusn2pm.jpg)
+![](/Asserts/Images/album/202401/31/103333byvuvmo6vzusn2pm.jpg)
 
 
 
@@ -36,7 +36,7 @@ MX Linux 推出了 2024 年的第一个主要版本，作为 23.x 版本的延�
 ### ? MX Linux 23.2：有什么新变化？
 
 
-![](/Asserts/Images//attachment/album/202401/31/103403wpfr6fpx6pfv6c5m.jpg)
+![](/Asserts/Images/album/202401/31/103403wpfr6fpx6pfv6c5m.jpg)
 
 
 MX Linux 23.2 基于 Debian 12.4 “Bookworm” 基础构建，标准版使用 [Linux 内核 6.1](https://news.itsfoss.com/linux-kernel-6-1-release/)，“高级硬件支持”（AHS）版使用 Linux 内核 6.6 “[liquix](https://liquorix.net/)”，用于更新的硬件。

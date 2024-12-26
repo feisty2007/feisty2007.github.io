@@ -7,7 +7,7 @@ tags:	[linuxcn,Samba,iRedMail,邮件]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/06/110904jqze64or44zj7zqe.jpg)
+![](/Asserts/Images/album/201707/06/110904jqze64or44zj7zqe.jpg)
 
 
 在本教程中，将学习如何修改提供邮件服务的 iRedMail 主要守护进程，相应地，[Postfix 用于邮件传输，Dovecot 将邮件传送到帐户邮箱](https://www.tecmint.com/setup-postfix-mail-server-and-dovecot-with-mariadb-in-centos/)，以便将它们集成到 [Samba4 AD 域控制器](/article-8065-1.html)中。
@@ -41,7 +41,7 @@ root 权限运行 nmtui-edit 命令。
 
 ```
 
-![Find Network Interface Name](/Asserts/Images//attachment/album/201707/06/111135jcsb8b34rsgsts8b.png)
+![Find Network Interface Name](/Asserts/Images/album/201707/06/111135jcsb8b34rsgsts8b.png)
 
 
 *找出网络接口名*
@@ -50,7 +50,7 @@ root 权限运行 nmtui-edit 命令。
 2、 在打开要编辑的网络接口后，添加正确的静态 IP 设置，确保添加了 Samba4 AD DC 的 DNS 服务器 IP 地址以及你的域的名字，以便从机器查询 realm。使用以下截图作为指导。
 
 
-![Configure Network Settings](/Asserts/Images//attachment/album/201707/06/111136a2uu2tkm4dpzull4.png)
+![Configure Network Settings](/Asserts/Images/album/201707/06/111136a2uu2tkm4dpzull4.png)
 
 
 *配置网络设置*
@@ -69,7 +69,7 @@ root 权限运行 nmtui-edit 命令。
 
 ```
 
-![Verify Network DNS Configuration](/Asserts/Images//attachment/album/201707/06/111138c2qjeyzxg2wnseq7.png)
+![Verify Network DNS Configuration](/Asserts/Images/album/201707/06/111138c2qjeyzxg2wnseq7.png)
 
 
 *验证网络 DNS 配置*
@@ -86,7 +86,7 @@ root 权限运行 nmtui-edit 命令。
 
 ```
 
-![Sync Time with Samba NTP Server](/Asserts/Images//attachment/album/201707/06/111139z66o74tb36v3m761.png)
+![Sync Time with Samba NTP Server](/Asserts/Images/album/201707/06/111139z66o74tb36v3m761.png)
 
 
 *与 Samba NTP 服务器同步时间*
@@ -101,7 +101,7 @@ root 权限运行 nmtui-edit 命令。
 
 ```
 
-![Auto Sync Time with Samba NTP](/Asserts/Images//attachment/album/201707/06/111140n202ww22wx2m7o0m.png)
+![Auto Sync Time with Samba NTP](/Asserts/Images/album/201707/06/111140n202ww22wx2m7o0m.png)
 
 
 *自动与 Samba NTP 同步时间*
@@ -119,7 +119,7 @@ root 权限运行 nmtui-edit 命令。
 添加一条 A 记录（相应地用 iRedMail 机器的名字和 IP 替换）。
 
 
-![Create DNS A Record for iRedMail](/Asserts/Images//attachment/album/201707/06/111140py825jj28pp5y7pp.png)
+![Create DNS A Record for iRedMail](/Asserts/Images/album/201707/06/111140py825jj28pp5y7pp.png)
 
 
 *为 iRedMail 创建 DNS A 记录*
@@ -128,7 +128,7 @@ root 权限运行 nmtui-edit 命令。
 添加 MX 记录（将子域留空，优先级为 10）。
 
 
-![Create DNS MX Record for iRedMail](/Asserts/Images//attachment/album/201707/06/111140r0mkny6467azt60a.png)
+![Create DNS MX Record for iRedMail](/Asserts/Images/album/201707/06/111140r0mkny6467azt60a.png)
 
 
 *为 iRedMail 创建 DNS MX 记录*
@@ -137,7 +137,7 @@ root 权限运行 nmtui-edit 命令。
 在反向查找区域（相应地替换 iRedMail 服务器的 IP 地址）添加 PTR 记录。如果你尚未为域控制器配置反向区域，请阅读以下教程：[从 Windows 管理 Samba4 DNS 组策略](/article-8258-1.html)
 
 
-![Create DNS PTR Record for iRedMail](/Asserts/Images//attachment/album/201707/06/111141vwxthxz9t91h9wxw.png)
+![Create DNS PTR Record for iRedMail](/Asserts/Images/album/201707/06/111141vwxthxz9t91h9wxw.png)
 
 
 *为 iRedMail 创建 DNS PTR 记录*
@@ -158,7 +158,7 @@ Samba4 AD DC DNS 应该会响应之前添加的 DNS 记录。
 
 ```
 
-![Install Bind and Query Mail Records](/Asserts/Images//attachment/album/201707/06/111143qsihelee4emih6dm.png)
+![Install Bind and Query Mail Records](/Asserts/Images/album/201707/06/111143qsihelee4emih6dm.png)
 
 
 *安装 Bind 并查询邮件记录*
@@ -179,19 +179,19 @@ vmail 帐户将被 iRedMail 服务用来查询 Samba4 AD DC LDAP 数据库并拉
 在本指导中，我们会使用上面提到的第一种方法。
 
 
-![Active Directory Users and Computers](/Asserts/Images//attachment/album/201707/06/111144mzjb8bm8y8mt88bm.png)
+![Active Directory Users and Computers](/Asserts/Images/album/201707/06/111144mzjb8bm8y8mt88bm.png)
 
 
 *AD 用户和计算机*
 
 
-![Create New User for iRedMail](/Asserts/Images//attachment/album/201707/06/111145cdxjtgqj2gq4xspl.png)
+![Create New User for iRedMail](/Asserts/Images/album/201707/06/111145cdxjtgqj2gq4xspl.png)
 
 
 *为 iRedMail 创建新的用户*
 
 
-![Set Strong Password for User](/Asserts/Images//attachment/album/201707/06/111145g7prnesr787deye7.png)
+![Set Strong Password for User](/Asserts/Images/album/201707/06/111145g7prnesr787deye7.png)
 
 
 *为用户设置强密码*
@@ -209,7 +209,7 @@ vmail 帐户将被 iRedMail 服务用来查询 Samba4 AD DC LDAP 数据库并拉
 注意：相应地替换域名以及 Samba4 AD 的 LDAP dn （`cn=users,dc=tecmint,dc=lan`）。
 
 
-![Query Samba4 AD DC LDAP](/Asserts/Images//attachment/album/201707/06/111146s5h7hlpn9gg565eh.png)
+![Query Samba4 AD DC LDAP](/Asserts/Images/album/201707/06/111146s5h7hlpn9gg565eh.png)
 
 
 *查询 Samba4 AD DC LDAP*
@@ -344,7 +344,7 @@ debuglevel      = 0
 
 ```
 
-![Verify Postfix Binding to Samba AD](/Asserts/Images//attachment/album/201707/06/111147b4u8w0bo1vvnnvnp.png)
+![Verify Postfix Binding to Samba AD](/Asserts/Images/album/201707/06/111147b4u8w0bo1vvnnvnp.png)
 
 
 *验证 Postfix 绑定到了 Samba AD*
@@ -380,7 +380,7 @@ Samba4 AD 帐户的邮箱将会存储在 `/var/vmail/vmail1/your_domain.tld/your
 17、 确保 dovecot 的主配置文件中启用了 pop3 和 imap 协议。打开 `/etc/dovecot/dovecot.conf` 验证是否启用了 `quota` 和 `acl` 邮件插件，并检查这些值是否存在。
 
 
-![Enable Pop3 and Imap in Dovecot](/Asserts/Images//attachment/album/201707/06/111148fr1nri0b8kk5666n.png)
+![Enable Pop3 and Imap in Dovecot](/Asserts/Images/album/201707/06/111148fr1nri0b8kk5666n.png)
 
 
 *在 Dovecot 中启用 POP3 和 IMAP*
@@ -417,7 +417,7 @@ a3 LOGOUT
 
 ```
 
-[![Test iRedMail Configuration](/Asserts/Images//attachment/album/201707/06/111150gj3pggpuzhi883gt.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Test-iRedMail-Configuration.png)
+[![Test iRedMail Configuration](/Asserts/Images/album/201707/06/111150gj3pggpuzhi883gt.png)](https://www.tecmint.com/wp-content/uploads/2017/05/Test-iRedMail-Configuration.png)
 
 
 *测试 iRedMail 配置*

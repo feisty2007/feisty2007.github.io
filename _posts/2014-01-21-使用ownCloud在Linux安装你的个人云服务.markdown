@@ -10,7 +10,7 @@ tags:	[linuxcn,ownCloud,Linux,云服务,免费,开源]
 [ownCloud](https://owncloud.org/)是一个免费开源的软件，用于为分享文件，日历，联系人，书签和个人音频/视频。非常容易安装和管理。
 
 
-![](/Asserts/Images//attachment/album/201401/20/134529hs14h6htegi1dtsh.jpg)
+![](/Asserts/Images/album/201401/20/134529hs14h6htegi1dtsh.jpg)
 
 
 ### 前提
@@ -167,13 +167,13 @@ Bye
 然后点击 **Advanced** 下拉按钮，选择mysql并输入mysql数据库名，数据库用户和密码。最后点击 **Finish setup** 来完成安装。
 
 
-![](/Asserts/Images//attachment/album/201401/20/134543b22bmffbm2z2fb23.jpg)
+![](/Asserts/Images/album/201401/20/134543b22bmffbm2z2fb23.jpg)
 
 
 这是我的ownCloud界面的样子：
 
 
-![](/Asserts/Images//attachment/album/201401/20/1345452z04zu1022pu4f6p.jpg)
+![](/Asserts/Images/album/201401/20/1345452z04zu1022pu4f6p.jpg)
 
 
 就是这样。我们的云服务已经准备好了。现在，你可以从你任何网络的客户端来上传/下载你的图片，文件，音频，视频以及访问它们。

@@ -15,7 +15,7 @@ tags:	[linuxcn,DevOps]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/29/153905o35h8u9zy5k58bll.jpg "Wratchet set tools")
+![](/Asserts/Images/album/202101/29/153905o35h8u9zy5k58bll.jpg "Wratchet set tools")
 
 
 不同规模和不同行业组织都致力于为提高软件交付的速度和质量提供解决方案。这不仅保证了他们的生存，还令他们在全球市场取得了成功。DevOps 可以帮助他们规划出一条最佳路线。
@@ -61,7 +61,7 @@ DevOps 工具链自动化了工作流中的所有技术元素。它能让不同�
 这是我们为一个客户配置的工具链。这个项目包含了移动运营方案，连接了金融交易的所有参与者 （卖方、买方、银行）。这个客户需要动态响应用户反馈并且将故障时间缩短到最小，从而来提高用户体验。我的团队设计了一套工具链用于自动化应用的维护和部署新功能。
 
 
-![Accedia's DevOps toolchain](/Asserts/Images//attachment/album/202101/29/153949j3ozdhoojhod2kek.png "Accedia's DevOps toolchain")
+![Accedia's DevOps toolchain](/Asserts/Images/album/202101/29/153949j3ozdhoojhod2kek.png "Accedia's DevOps toolchain")
 
 
 *(Accedia, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))*

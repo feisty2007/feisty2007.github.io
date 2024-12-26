@@ -7,7 +7,7 @@ tags:	[linuxcn,即时消息]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/15/213116evlwzdwwv66kmldj.jpg)
+![](/Asserts/Images/album/202010/15/213116evlwzdwwv66kmldj.jpg)
 
 
 本文是该系列的第八篇。
@@ -28,7 +28,7 @@ tags:	[linuxcn,即时消息]
 ### 对话表单
 
 
-![](/Asserts/Images//attachment/album/202010/15/213638ggtiy84vo4dgxoar.png)
+![](/Asserts/Images/album/202010/15/213638ggtiy84vo4dgxoar.png)
 
 
 转到 `static/ages/home-page.js` 文件，在 HTML 视图中添加一些标记。
@@ -97,7 +97,7 @@ function createConversation(username) {
 ### 对话列表
 
 
-![](/Asserts/Images//attachment/album/202010/15/213715tid9ln7yniblyziy.png)
+![](/Asserts/Images/album/202010/15/213715tid9ln7yniblyziy.png)
 
 
 还是在这个文件中，我们将创建 `homePage()` 函数用来先异步加载对话。

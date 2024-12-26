@@ -7,7 +7,7 @@ tags:	[linuxcn,Remmina,远程桌面共享]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/09/091338hhuhq1pu6quvfdat.jpg)
+![](/Asserts/Images/album/201705/09/091338hhuhq1pu6quvfdat.jpg)
 
 
 **Remmina** 是一款在 Linux 和其他类 Unix 系统下的自由开源、功能丰富、强大的远程桌面客户端，它用 GTK+ 3 编写而成。它适用于那些需要远程访问及使用许多计算机的系统管理员和在外出行人员。
@@ -70,7 +70,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 一旦安装完成后，在 Ubuntu 或 Linux Mint 菜单中搜索 `remmina`，接着运行它：
 
 
-![Remmina Desktop Sharing Client](/Asserts/Images//attachment/album/201705/09/091358qmm266veau6660at.png)
+![Remmina Desktop Sharing Client](/Asserts/Images/album/201705/09/091358qmm266veau6660at.png)
 
 
 *Remmina 桌面共享客户端*
@@ -82,7 +82,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 要设置到一个新的远程服务器的连接，按下 `Ctrl+N` 并点击 **Connection -> New**，如下截图中配置远程连接。这是基本的设置界面。
 
 
-![Remmina Basic Desktop Preferences](/Asserts/Images//attachment/album/201705/09/091358m1e7nd304yne40cs.png)
+![Remmina Basic Desktop Preferences](/Asserts/Images/album/201705/09/091358m1e7nd304yne40cs.png)
 
 
 *Remmina 基础桌面配置*
@@ -91,7 +91,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 点击界面上的 “**Advanced**”，配置高级连接设置。
 
 
-![Remmina Advance Desktop Settings](/Asserts/Images//attachment/album/201705/09/091359eboj1trvxcqaxyra.png)
+![Remmina Advance Desktop Settings](/Asserts/Images/album/201705/09/091359eboj1trvxcqaxyra.png)
 
 
 *Remmina 高级桌面设置*
@@ -100,7 +100,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 要配置 **SSH**，点击界面中的 SSH。
 
 
-![Remmina SSH Settings](/Asserts/Images//attachment/album/201705/09/091359ba8eaeg8s2vvexad.png)
+![Remmina SSH Settings](/Asserts/Images/album/201705/09/091359ba8eaeg8s2vvexad.png)
 
 
 *Remmina SSH 设置*
@@ -109,7 +109,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 在完成所有的必要配置后，点击 “**Save**” 保存设置，在主界面中你会如下看到所有已配置远程连接。
 
 
-![Remmina Configured Servers](/Asserts/Images//attachment/album/201705/09/091359ria2mtm8p15omc6z.png)
+![Remmina Configured Servers](/Asserts/Images/album/201705/09/091359ria2mtm8p15omc6z.png)
 
 
 *Remmina 配置的服务器*
@@ -121,7 +121,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 选择连接配置并编辑设置，在 “**Protocols**” 下拉菜单中选择 **sFTP - Secure File Transfer**。接着设置启动路径（可选），并指定 SSH 验证细节。最后点击**连接**。
 
 
-![Remmina sftp Connection](/Asserts/Images//attachment/album/201705/09/091400sipliwppcuumwilx.png)
+![Remmina sftp Connection](/Asserts/Images/album/201705/09/091400sipliwppcuumwilx.png)
 
 
 *Remmina sftp 连接*
@@ -130,7 +130,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 这里输入你的 SSH 用户密码。
 
 
-![Enter SSH Password](/Asserts/Images//attachment/album/201705/09/091400t47hpg4nmk7t474r.png)
+![Enter SSH Password](/Asserts/Images/album/201705/09/091400t47hpg4nmk7t474r.png)
 
 
 *输入 SSH 密码*
@@ -139,7 +139,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 如果你看到下面的界面，那么代表 sFTP 连接成功了，你现在可以[在两台机器键传输文件了](http://www.tecmint.com/sftp-upload-download-directory-in-linux/)。
 
 
-![Remmina Remote sFTP Filesystem](/Asserts/Images//attachment/album/201705/09/091401k1wp1o4zzfgmxp7o.png)
+![Remmina Remote sFTP Filesystem](/Asserts/Images/album/201705/09/091401k1wp1o4zzfgmxp7o.png)
 
 
 *Remmina 远程 sFTP 文件系统*
@@ -151,7 +151,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 选择连接配置并编辑设置，在 “**Protocols**” 下拉菜单中选择 **SSH - Secure Shell**，并可选设置启动程序以及 SSH 验证细节。最后点击**连接**并输入 SSH 密码。
 
 
-![Remmina SSH Connection](/Asserts/Images//attachment/album/201705/09/091401o313d33mojkkftjm.png)
+![Remmina SSH Connection](/Asserts/Images/album/201705/09/091401o313d33mojkkftjm.png)
 
 
 *Remmina SSH 连接*
@@ -160,7 +160,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 当你看到下面的界面，这意味着你的连接成功了，你现在可以使用 SSH 控制远程机器了。
 
 
-![Remmina Remote SSH Connection](/Asserts/Images//attachment/album/201705/09/091401klj3zlq66h8q6h58.png)
+![Remmina Remote SSH Connection](/Asserts/Images/album/201705/09/091401klj3zlq66h8q6h58.png)
 
 
 *Remmina 远程 SSH 连接*
@@ -172,7 +172,7 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 选择连接配置并编辑设置，在 “**Protocols**” 下拉菜单中选择 **VNC - Virtual Network Computing**。为该连接配置基础、高级以及 ssh 设置，点击**连接**，接着输入用户 SSH 密码。
 
 
-![Remmina VNC Connection](/Asserts/Images//attachment/album/201705/09/091402ljf95sfqk0c5ifij.png)
+![Remmina VNC Connection](/Asserts/Images/album/201705/09/091402ljf95sfqk0c5ifij.png)
 
 
 *Remmina VNC 连接*
@@ -184,13 +184,13 @@ $ sudo dnf upgrade --refresh 'remmina*' 'freerdp*'
 如下截图所示，在桌面登录界面输入用户登录密码。
 
 
-![Remmina Remote Desktop Login](/Asserts/Images//attachment/album/201705/09/091402uows1p851zu8f7ou.png)
+![Remmina Remote Desktop Login](/Asserts/Images/album/201705/09/091402uows1p851zu8f7ou.png)
 
 
 *Remmina 远程桌面登录*
 
 
-![Remmina Remote Desktop Sharing](/Asserts/Images//attachment/album/201705/09/091403y5crdfccl5qsrdsx.png)
+![Remmina Remote Desktop Sharing](/Asserts/Images/album/201705/09/091403y5crdfccl5qsrdsx.png)
 
 
 *Remmina 远程桌面共享*

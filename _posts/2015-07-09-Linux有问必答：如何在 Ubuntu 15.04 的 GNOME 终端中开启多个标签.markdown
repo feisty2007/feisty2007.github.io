@@ -18,7 +18,7 @@ tags:	[linuxcn,终端]
 在 Ubuntu 14.10 或之前的版本中，gnome-terminal 允许你在终端窗口中开启一个新标签或一个终端窗口。但从 Ubuntu 15.04开始，gnome-terminal 移除了“新标签”选项。这实际上并不是一个 bug，而是一个合并新标签和新窗口的举措。GNOME 3.12 引入了[单独的“开启终端”选项](http://worldofgnome.org/opening-a-new-terminal-tabwindow-in-gnome-3-12/)。开启新终端标签的功能从终端菜单移动到了首选项中。
 
 
-![](/Asserts/Images//attachment/album/201507/16/004715f5izdagnftdug7es.jpg)
+![](/Asserts/Images/album/201507/16/004715f5izdagnftdug7es.jpg)
 
 
 ### 偏好设置中的开启新标签
@@ -27,13 +27,13 @@ tags:	[linuxcn,终端]
 要在 Ubuntu 15.04 的 gnome-terminal中开启新标签，选择“编辑” -> “首选项"，并把“开启新终端：窗口”改为“开启新终端：标签”。
 
 
-![](/Asserts/Images//attachment/album/201507/16/004716pb0b4ydnnuioy5po.jpg)
+![](/Asserts/Images/album/201507/16/004716pb0b4ydnnuioy5po.jpg)
 
 
 如果现在你通过菜单开启新终端，就会显示在当前终端中的一个新标签页中。
 
 
-![](/Asserts/Images//attachment/album/201507/16/004719o83w4hhypjfpu5oy.jpg)
+![](/Asserts/Images/album/201507/16/004719o83w4hhypjfpu5oy.jpg)
 
 
 ### 通过键盘快捷键开启标签

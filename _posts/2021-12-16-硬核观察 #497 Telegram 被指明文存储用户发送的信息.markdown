@@ -7,10 +7,10 @@ tags:	[linuxcn,Telegram,RSS,KiCad]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/26/174217kagj8y402gog0thy.jpg)
+![](/Asserts/Images/album/202112/26/174217kagj8y402gog0thy.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/26/174231qehchjoavajlckca.jpg)
+![](/Asserts/Images/album/202112/26/174231qehchjoavajlckca.jpg)
 
 
 ### Telegram 被指明文存储用户发送的信息
@@ -27,7 +27,7 @@ Telegram 已经赢得了越来越多的声誉，成为了 Facebook 的 WhatsApp 
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/26/174241ok0ctspmc9wr0m9j.jpg)
+![](/Asserts/Images/album/202112/26/174241ok0ctspmc9wr0m9j.jpg)
 
 
 ### 微软复活 Windows 上的经典功能 RSS 阅读器
@@ -44,7 +44,7 @@ Telegram 已经赢得了越来越多的声誉，成为了 Facebook 的 WhatsApp 
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/26/174307rhhzrdnu1ud2yyyu.jpg)
+![](/Asserts/Images/album/202112/26/174307rhhzrdnu1ud2yyyu.jpg)
 
 
 ### KiCad 发布重要版本 6.0

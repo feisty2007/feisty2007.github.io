@@ -10,7 +10,7 @@ tags:	[linuxcn,容器]
 今天早上，我为未来潜在容器[杂志](https://wizardzines.com)画了一幅 OverlayFS 的漫画，我对这个主题感到兴奋，想写一篇关于它的博客来提供更多详细信息。
 
 
-![](/Asserts/Images//attachment/album/201911/23/102537d50a06jizddcc0c8.jpg)
+![](/Asserts/Images/album/201911/23/102537d50a06jizddcc0c8.jpg)
 
 
 ### 容器镜像很大

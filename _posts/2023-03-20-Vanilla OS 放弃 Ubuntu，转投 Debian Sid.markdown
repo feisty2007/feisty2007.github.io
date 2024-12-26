@@ -7,7 +7,7 @@ tags:	[linuxcn,Vanilla OS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/10/094225pw4q6gu6yguywi46.jpg)
+![](/Asserts/Images/album/202303/10/094225pw4q6gu6yguywi46.jpg)
 
 
 
@@ -29,7 +29,7 @@ tags:	[linuxcn,Vanilla OS]
 > 
 
 
-![Vanilla OS 22.10 Kinetic 桌面](/Asserts/Images//attachment/album/202303/10/094233sllztl3fjgetwejs.jpg)
+![Vanilla OS 22.10 Kinetic 桌面](/Asserts/Images/album/202303/10/094233sllztl3fjgetwejs.jpg)
 
 
 ### Vanilla OS 计划基于 Debian

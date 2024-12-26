@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/21/222017fz2cq2aetwaqzpee.png)
+![](/Asserts/Images/album/201908/21/222017fz2cq2aetwaqzpee.png)
 
 
 今天，我尝试更新我的 Ubuntu 18.04 LTS 的仓库列表，但收到了一条错误消息：“**E: The package cache file is corrupted, it has the wrong hash**”。这是我在终端运行的命令以及输出：
@@ -37,7 +37,7 @@ Reading package lists... Done
 E: The package cache file is corrupted, it has the wrong hash
 ```
 
-![](/Asserts/Images//attachment/album/201908/21/222030u901ut3txl36xva0.png)
+![](/Asserts/Images/album/201908/21/222030u901ut3txl36xva0.png)
 
 
 *Ubuntu 中的 “The package cache file is corrupted, it has the wrong hash” 错误*
@@ -65,7 +65,7 @@ $ sudo rm -rf /var/lib/apt/lists/*
 $ sudo apt update
 ```
 
-![](/Asserts/Images//attachment/album/201908/21/222031ku0wu9b3qa90rwuf.png)
+![](/Asserts/Images/album/201908/21/222031ku0wu9b3qa90rwuf.png)
 
 
 现在好了！希望它有帮助。

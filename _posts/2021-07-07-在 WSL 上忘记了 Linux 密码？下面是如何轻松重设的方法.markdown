@@ -16,7 +16,7 @@ tags:	[linuxcn,WSL,密码]
 现在的问题是，如果你有一段时间没有使用它，你可能会忘记 WSL 的账户密码。而如果你要使用 `sudo` 的命令，这将成为一个问题，因为这里你需要输入密码。
 
 
-![](/Asserts/Images//attachment/album/202107/03/155824ua3xfpzpal7irnx8.png)
+![](/Asserts/Images/album/202107/03/155824ua3xfpzpal7irnx8.png)
 
 
 不要担心。你可以很容易地重置它。
@@ -42,7 +42,7 @@ tags:	[linuxcn,WSL,密码]
 记下你的普通/常规用户名将是明智之举。如你所见，我的普通帐户的用户名是 `abhishek`。
 
 
-![Note down the account username](/Asserts/Images//attachment/album/202107/03/155825mflz1lj0efrh2zd2.png)
+![Note down the account username](/Asserts/Images/album/202107/03/155825mflz1lj0efrh2zd2.png)
 
 
 WSL 中的 `root` 用户是无锁的，没有设置密码。这意味着你可以切换到 `root` 用户，然后利用 `root` 的能力来重置密码。
@@ -57,13 +57,13 @@ WSL 中的 `root` 用户是无锁的，没有设置密码。这意味着你可�
 这个信息通常在 [Windows 商店](https://www.microsoft.com/en-us/store/apps/windows) 中的发行版应用的描述中提供。这是你首次下载发行版的地方。
 
 
-![Know the command to run for your distribution app](/Asserts/Images//attachment/album/202107/03/155825ps2ftt6fftjkus22.png)
+![Know the command to run for your distribution app](/Asserts/Images/album/202107/03/155825ps2ftt6fftjkus22.png)
 
 
 从 Windows 菜单中，启动命令提示符：
 
 
-![Start Command Prompt](/Asserts/Images//attachment/album/202107/03/155826way5ywdcrhy5m7wt.jpg)
+![Start Command Prompt](/Asserts/Images/album/202107/03/155826way5ywdcrhy5m7wt.jpg)
 
 
 在这里，以这种方式使用你的发行版的命令。如果你使用的是 Windows 商店中的 Ubuntu 应用，那么该命令将是：
@@ -78,7 +78,7 @@ ubuntu config --default-user root
 截图中，我正在使用 Windows 商店中的 Ubuntu 20.04 应用。所以，我使用了 ubuntu2004 命令。
 
 
-![Set root as default user in Linux app’s configuration](/Asserts/Images//attachment/album/202107/03/155826ujerby8j4y8rmhfh.png)
+![Set root as default user in Linux app’s configuration](/Asserts/Images/album/202107/03/155826ujerby8j4y8rmhfh.png)
 
 
 为了减少你的麻烦，我在这个表格中列出了一些发行版和它们各自的命令：
@@ -113,7 +113,7 @@ passwd username
 它将要求你输入一个新的密码。\*\*当你输入时，屏幕上将不会显示任何内容。这很正常。只要输入新的密码，然后点击回车就可以了。\*\*你必须重新输入新的密码来确认，当你输入密码时，屏幕上也不会显示任何东西。
 
 
-![Reset the password for the regular user](/Asserts/Images//attachment/album/202107/03/155827cpspiqpv7oo9q8po.png)
+![Reset the password for the regular user](/Asserts/Images/album/202107/03/155827cpspiqpv7oo9q8po.png)
 
 
 恭喜你。用户账户的密码已经被重置。但你还没有完成。默认用户仍然是 `root`。你应该把它改回你的普通用户帐户，否则它将一直以 `root` 用户的身份登录。
@@ -134,7 +134,7 @@ ubuntu config --default-user username
 
 ```
 
-![Set regular user as default user](/Asserts/Images//attachment/album/202107/03/155827g1tub4lunnt49yjb.png)
+![Set regular user as default user](/Asserts/Images/album/202107/03/155827g1tub4lunnt49yjb.png)
 
 
 现在，当你在 WSL 中启动你的 Linux 发行版时，你将以普通用户的身份登录。你已经重新设置了密码，可以用它来运行 `sudo` 命令。

@@ -7,10 +7,10 @@ tags:	[linuxcn,WordPress,Linux,SpamAssassin]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/18/104253mxtfc3o4cuquf3oo.jpg)
+![](/Asserts/Images/album/202212/18/104253mxtfc3o4cuquf3oo.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/18/104300dci8aiuuetvucvvc.jpg)
+![](/Asserts/Images/album/202212/18/104300dci8aiuuetvucvvc.jpg)
 
 
 ### WordPress 测试支持 SQLite
@@ -35,7 +35,7 @@ WordPress 是迄今最流行的内容管理系统，统计显示它的市场占�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/18/104313kr4ofewfvwkgo99x.jpg)
+![](/Asserts/Images/album/202212/18/104313kr4ofewfvwkgo99x.jpg)
 
 
 ### Torvalds 拒绝英特尔的 LAM 实现加入 Linux 6.2
@@ -60,7 +60,7 @@ WordPress 是迄今最流行的内容管理系统，统计显示它的市场占�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/18/104340wjnx00z00kq309kq.jpg)
+![](/Asserts/Images/album/202212/18/104340wjnx00z00kq309kq.jpg)
 
 
 ### 垃圾邮件过滤系统 Apache SpamAssassin 4.0 发布

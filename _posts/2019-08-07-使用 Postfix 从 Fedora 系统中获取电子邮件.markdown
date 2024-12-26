@@ -7,7 +7,7 @@ tags:	[linuxcn,Postfix,邮件]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/14/103600ommpur23nmmmmurz.jpg)
+![](/Asserts/Images/album/201908/14/103600ommpur23nmmmmurz.jpg)
 
 
 交流是非常重要的。你的电脑可能正试图告诉你一些重要的事情。但是，如果你没有正确配置邮件传输代理（[MTA](https://en.wikipedia.org/wiki/Message_transfer_agent)），那么你可能不会收到通知。Postfix 是一个[易于配置且以强大的安全记录而闻名](https://en.wikipedia.org/wiki/Postfix_(software))的 MTA。遵循以下步骤，以确保从本地服务发送的电子邮件通知将通过 Postfix MTA 路由到你的互联网电子邮件账户中。

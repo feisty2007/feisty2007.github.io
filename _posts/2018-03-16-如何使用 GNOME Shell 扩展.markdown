@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME,扩展]
 > 
 
 
-![](/Asserts/Images//attachment/album/201803/15/105303c1zdtd1j7kttigdd.jpg)
+![](/Asserts/Images/album/201803/15/105303c1zdtd1j7kttigdd.jpg)
 
 
 在讨论 [如何在 Ubuntu 17.10 上安装主题](https://itsfoss.com/install-themes-ubuntu/) 一文时，我简要地提到了 GNOME Shell 扩展，它用来安装用户主题。今天，我们将详细介绍 Ubuntu 17.10 中的 GNOME Shell 扩展。
@@ -42,7 +42,7 @@ tags:	[linuxcn,GNOME,扩展]
 同样， GNOME Shell 扩展就像那些可以安装在 GNOME 之上的第三方附加组件和插件。这些扩展程序是为执行特定任务而创建的，例如显示天气状况、网速等。大多数情况下，你可以在顶部面板中访问它们。
 
 
-![GNOME Shell 扩展显示天气信息](/Asserts/Images//attachment/album/201803/15/105328tt7fou008m7ut944.jpg)
+![GNOME Shell 扩展显示天气信息](/Asserts/Images/album/201803/15/105328tt7fou008m7ut944.jpg)
 
 
 也有一些 GNOME 扩展在顶部面板上不可见，但它们仍然可以调整 GNOME 的行为。例如，有一个这样的扩展可以让鼠标中键来关闭应用程序。
@@ -95,7 +95,7 @@ sudo apt install gnome-shell-extensions
 你将需要重新启动系统（或者重新启动 GNOME Shell，我具体忘了是哪个）。之后，启动 GNOME Tweaks，你会发现一些扩展自动安装了，你只需切换按钮即可开始使用已安装的扩展程序。
 
 
-![Change GNOME Shell theme in Ubuntu 17.1](/Asserts/Images//attachment/album/201803/15/105328u13ro3uow3orc5wb.jpg)
+![Change GNOME Shell theme in Ubuntu 17.1](/Asserts/Images/album/201803/15/105328u13ro3uow3orc5wb.jpg)
 
 
 #### 2. 从 Web 浏览器安装 GNOME Shell 扩展
@@ -124,7 +124,7 @@ GNOME 项目有一个专门用于扩展的网站，不干别的，你可以在�
 > 
 
 
-![Installing GNOME Shell Extensions](/Asserts/Images//attachment/album/201803/15/105329dba5b7c70zgkyp5b.jpg)
+![Installing GNOME Shell Extensions](/Asserts/Images/album/201803/15/105329dba5b7c70zgkyp5b.jpg)
 
 
 你只需在你的 Web 浏览器上点击建议的附加组件链接即可。你也可以从下面的链接安装它们：
@@ -149,7 +149,7 @@ GNOME 项目有一个专门用于扩展的网站，不干别的，你可以在�
 > 
 
 
-![How to install GNOME Shell Extensions](/Asserts/Images//attachment/album/201803/15/105330tx3hptbrx55h5i1i.jpg)
+![How to install GNOME Shell Extensions](/Asserts/Images/album/201803/15/105330tx3hptbrx55h5i1i.jpg)
 
 
 这是因为你尚未安装主机连接器。要做到这一点，请使用以下命令：
@@ -170,7 +170,7 @@ sudo apt install chrome-gnome-shell
 一旦你完成了这两个要求，你就可以开始了。现在，你将看不到任何错误消息。
 
 
-![GNOME Shell Extension](/Asserts/Images//attachment/album/201803/15/105330e5v6j7bu4j45b6ki.jpg)
+![GNOME Shell Extension](/Asserts/Images/album/201803/15/105330e5v6j7bu4j45b6ki.jpg)
 
 
 一件好的做法是按照 GNOME Shell 版本对扩展进行排序，但这不是强制性的。这是因为开发人员是为其当前的 GNOME 版本创建的扩展。而在一年之内，会发布两个或更多 GNOME 发行版本，但开发人员没有时间（在新的 GNOME 版本上）测试或更新他/她的扩展。
@@ -185,31 +185,31 @@ sudo apt install chrome-gnome-shell
 当你访问扩展页面时，你会看到一个切换按钮。
 
 
-![Installing GNOME Shell Extension ](/Asserts/Images//attachment/album/201803/15/105331kyj02ctsefq5xbr5.jpg)
+![Installing GNOME Shell Extension ](/Asserts/Images/album/201803/15/105331kyj02ctsefq5xbr5.jpg)
 
 
 点击它，你会被提示是否要安装这个扩展：
 
 
-![Install GNOME Shell Extensions via web browser](/Asserts/Images//attachment/album/201803/15/105331qilcu77jgl7xjz7j.jpg)
+![Install GNOME Shell Extensions via web browser](/Asserts/Images/album/201803/15/105331qilcu77jgl7xjz7j.jpg)
 
 
 显然，直接安装就好。安装完成后，你会看到切换按钮已打开，旁边有一个设置选项。你也可以使用设置选项配置扩展，也可以禁用扩展。
 
 
-![Configuring installed GNOME Shell Extensions](/Asserts/Images//attachment/album/201803/15/105332jo6xzjc1xf9o8l7c.jpg)
+![Configuring installed GNOME Shell Extensions](/Asserts/Images/album/201803/15/105332jo6xzjc1xf9o8l7c.jpg)
 
 
 你也可以在 GNOME Tweaks Tool 中配置通过 Web 浏览器安装的扩展：
 
 
-![GNOME Tweaks to handle GNOME Shell Extensions](/Asserts/Images//attachment/album/201803/15/105333rrgd8dk8bbertiz3.jpg)
+![GNOME Tweaks to handle GNOME Shell Extensions](/Asserts/Images/album/201803/15/105333rrgd8dk8bbertiz3.jpg)
 
 
 你可以在 GNOME 网站中 [已安装的扩展部分](https://extensions.gnome.org/local/) 下查看所有已安装的扩展。
 
 
-![Manage your installed GNOME Shell Extensions](/Asserts/Images//attachment/album/201803/15/105336drzby5d00vttjt38.jpg)
+![Manage your installed GNOME Shell Extensions](/Asserts/Images/album/201803/15/105336drzby5d00vttjt38.jpg)
 
 
 使用 GNOME 扩展网站的一个主要优点是你可以查看扩展是否有可用的更新，你不会在 GNOME Tweaks 或系统更新中得到更新（和提示）。
@@ -224,7 +224,7 @@ sudo apt install chrome-gnome-shell
 去 GNOME 扩展网站下载最新版本的扩展。
 
 
-![Download GNOME Shell Extension](/Asserts/Images//attachment/album/201803/15/105337xtikyv2llvyjlzf2.jpg)
+![Download GNOME Shell Extension](/Asserts/Images/album/201803/15/105337xtikyv2llvyjlzf2.jpg)
 
 
 解压下载的文件，将该文件夹复制到 `~/.local/share/gnome-shell/extensions` 目录。到主目录下并按 `Ctrl+H` 显示隐藏的文件夹，在这里找到 `.local` 文件夹，你可以找到你的路径，直至 `extensions` 目录。
@@ -236,13 +236,13 @@ sudo apt install chrome-gnome-shell
 确保该扩展的文件夹名称与 `metadata.json` 中的 `uuid` 值相同。如果不相同，请将目录重命名为 `uuid` 的值。
 
 
-![Manually install GNOME Shell extension](/Asserts/Images//attachment/album/201803/15/105337j5wm799el6lezyig.jpg)
+![Manually install GNOME Shell extension](/Asserts/Images/album/201803/15/105337j5wm799el6lezyig.jpg)
 
 
 差不多了！现在重新启动 GNOME Shell。 按 `Alt+F2` 并输入 `r` 重新启动 GNOME Shell。
 
 
-![Restart GNOME Shell](/Asserts/Images//attachment/album/201803/15/105338ilbx3yp78elofyl0.jpg)
+![Restart GNOME Shell](/Asserts/Images/album/201803/15/105338ilbx3yp78elofyl0.jpg)
 
 
 同样重新启动 GNOME Tweaks Tool。你现在应该可以在 Tweaks Tool 中看到手动安装的 GNOME 扩展，你可以在此处配置或启用新安装的扩展。

@@ -7,10 +7,10 @@ tags:	[linuxcn,OpenJDK,黑客,翻译]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/24/172116c2a0who50y2zqwcr.jpg)
+![](/Asserts/Images/album/202203/24/172116c2a0who50y2zqwcr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/24/172123di824z4ydjilglfd.jpg)
+![](/Asserts/Images/album/202203/24/172123di824z4ydjilglfd.jpg)
 
 
 ### OpenJDK 18 发布
@@ -27,7 +27,7 @@ Oracle 公司今天 [正式发布了](https://jdk.java.net/18/) Java 18 的参�
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/24/172147twwh9zy6yvvh1ghv.jpg)
+![](/Asserts/Images/album/202203/24/172147twwh9zy6yvvh1ghv.jpg)
 
 
 ### 一名 16 岁英国少年被疑似 Lapsus$ 黑客组织的主谋
@@ -44,7 +44,7 @@ Oracle 公司今天 [正式发布了](https://jdk.java.net/18/) Java 18 的参�
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/24/172155n9lb2ob96fnly9lh.jpg)
+![](/Asserts/Images/album/202203/24/172155n9lb2ob96fnly9lh.jpg)
 
 
 ### 微软采用新的机器学习技术改善其 AI 翻译

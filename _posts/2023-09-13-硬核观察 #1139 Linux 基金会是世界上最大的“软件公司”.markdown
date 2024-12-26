@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/29/171322fihifpe51hpgngfn.jpg)
+![](/Asserts/Images/album/202309/29/171322fihifpe51hpgngfn.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/29/171324iiekkekiemizumke.jpg)
+![](/Asserts/Images/album/202309/29/171324iiekkekiemizumke.jpg)
 
 
 ### Linux 基金会是世界上最大的“软件公司”
@@ -35,7 +35,7 @@ Linux 基金会执行董事 Jim Zemlin 在上海举办的 KubeCon 上发表演�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/29/171340rl2jwtbl4ctvli44.jpg)
+![](/Asserts/Images/album/202309/29/171340rl2jwtbl4ctvli44.jpg)
 
 
 ### 人工智能语言模型在无损压缩方面可超越 PNG 和 FLAC
@@ -60,7 +60,7 @@ Linux 基金会执行董事 Jim Zemlin 在上海举办的 KubeCon 上发表演�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/29/171349igrc85rr8gw5cxtf.jpg)
+![](/Asserts/Images/album/202309/29/171349igrc85rr8gw5cxtf.jpg)
 
 
 ### 人工智能驱动的必应聊天回复中被注入了恶意广告

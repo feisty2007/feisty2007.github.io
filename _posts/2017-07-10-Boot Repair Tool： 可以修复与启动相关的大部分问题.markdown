@@ -7,7 +7,7 @@ tags:	[linuxcn,引导,GRUB]
 ---
 
 
-![boot repair tool repair the most boot related problems ](/Asserts/Images//attachment/album/201707/01/193901jmjekuzxwwj6wm4m.jpg)
+![boot repair tool repair the most boot related problems ](/Asserts/Images/album/201707/01/193901jmjekuzxwwj6wm4m.jpg)
 
 
 ​我们都碰到过启动相关的问题，并且大部分时候都是简单的 **GRUB** 上的问题。 有时候很多人会觉得、输入一段很长的命令或在论坛中搜索来找到解决方法太麻烦了。今天我要告诉你如何使用一个简单而轻巧的软件来解决大部分的启动相关的问题。这个工具就是著名的 **Boot Repair Tool** 。好了，话不多说，让我们开始吧。
@@ -27,67 +27,67 @@ sudo apt-get install -y boot-repair && boot-repair
 
 ```
 
-![install boot repair tool in linux](/Asserts/Images//attachment/album/201707/01/193902fouju6xov064pj03.jpg)
+![install boot repair tool in linux](/Asserts/Images/album/201707/01/193902fouju6xov064pj03.jpg)
 
 
 在安装结束以后，你可以从应用菜单或或其它你在系统上启动应用的地方启动你的修复工具。
 
 
-![run boot-repair from apps menu](/Asserts/Images//attachment/album/201707/01/193903zaexszmm7env7ex3.jpg)
+![run boot-repair from apps menu](/Asserts/Images/album/201707/01/193903zaexszmm7env7ex3.jpg)
 
 
 你可以在菜单栏中看到 Boot Repair。
 
 
-![Picture](/Asserts/Images//attachment/album/201707/01/193905iozgxqvxozlqdeeg.jpg)
+![Picture](/Asserts/Images/album/201707/01/193905iozgxqvxozlqdeeg.jpg)
 
 
 ​启动它，它就会开始进行一些扫描操作，我们只要等它自己结束就好了。 ​
 
 
-![boot repair app menu to repair system](/Asserts/Images//attachment/album/201707/01/193906xyqpvuyj054y3345.jpg)
+![boot repair app menu to repair system](/Asserts/Images/album/201707/01/193906xyqpvuyj054y3345.jpg)
 
 
 现在你会看到这个界面，这是基于之前扫描的建议修复。 在底部还可以有一个高级选项，你可以在高级选项里进行各方面的设置。 我建议没有经验的用户使用推荐维修，因为它很简单，在大多数情况下我们都可以这样做。
 
 
-![apply recommended fixes to fix grub issues](/Asserts/Images//attachment/album/201707/01/193907x4njrshpi2iss0hf.jpg)
+![apply recommended fixes to fix grub issues](/Asserts/Images/album/201707/01/193907x4njrshpi2iss0hf.jpg)
 
 
 选择推荐的更新后，它将开始修复。 等待进一步的处理。
 
 
-![fix the grub menu using boot repair](/Asserts/Images//attachment/album/201707/01/193907ylxphlspybsywyzr.jpg)
+![fix the grub menu using boot repair](/Asserts/Images/album/201707/01/193907ylxphlspybsywyzr.jpg)
 
 
 你现在会看到一个指令界面。 现在是轮到我们操作的时候了。打开终端，逐个复制并粘贴其中高亮的命令到终端中。
 
 
-![download and install grub using the given commands](/Asserts/Images//attachment/album/201707/01/193908kxrxpkwytpp3rtc3.jpg)
+![download and install grub using the given commands](/Asserts/Images/album/201707/01/193908kxrxpkwytpp3rtc3.jpg)
 
 
 命令完成后，你会看到一个上面提及的要求确认的界面。 使用箭头键或 Tab 键选择“Yes”，然后按回车键。 现在在 **启动修复工具** 界面中点击 “forward”。
 
 
-![install grub menu and kernel to fix boot menu](/Asserts/Images//attachment/album/201707/01/193909vl2tklt75wmnbu5k.jpg)
+![install grub menu and kernel to fix boot menu](/Asserts/Images/album/201707/01/193909vl2tklt75wmnbu5k.jpg)
 
 
 现在你会看到这个界面。 复制在那里提到的命令，并将其粘贴到终端中，然后按回车并让其执行此操作。 需要一段时间所以请耐心等待，它将下载GRUB、内核或任何修复您的引导所需的内容。
 
 
-![install grub](/Asserts/Images//attachment/album/201707/01/193910eh39thflmmnkmhcc.jpg)
+![install grub](/Asserts/Images/album/201707/01/193910eh39thflmmnkmhcc.jpg)
 
 
 现在你可能会看到一些选项用于配置安装 GRUB 的位置。 选择“yes”，然后按回车，你会看到上面的界面。使用空格键选择选项和按 TAB 以浏览选项。 选择并安装 GRUB 后，可以关闭终端。 现在在启动修复工具屏幕中选择 “forward” 选项。
 
 
-![scan for the boot issues](/Asserts/Images//attachment/album/201707/01/193911t783ddwpddjdl7j2.jpg)
+![scan for the boot issues](/Asserts/Images/album/201707/01/193911t783ddwpddjdl7j2.jpg)
 
 
 现在它会做一些扫描操作，并且会询问你一些需要确认的一些选项。 每个选项都选择是即可。
 
 
-![fixed boot issues with boot rescue](/Asserts/Images//attachment/album/201707/01/193912uzg99ji9zy997wov.jpg)
+![fixed boot issues with boot rescue](/Asserts/Images/album/201707/01/193912uzg99ji9zy997wov.jpg)
 
 
 它会显示一个成功的确认消息。 如果没有，并且显示失败的消息，则将生成链接。 转到该链接获取更多帮助。
@@ -108,13 +108,13 @@ sudo apt-get install -y boot-repair && boot-repair
 os-prober 可以帮助您识别安装在 PC 上的其他操作系统。
 
 
-![install os-prober](/Asserts/Images//attachment/album/201707/01/193913y5p0hs0o5t5tw0lp.jpg)
+![install os-prober](/Asserts/Images/album/201707/01/193913y5p0hs0o5t5tw0lp.jpg)
 
 
 os-prober 安装完成后，通过输入 `os-prober` 在终端运行它。 如果失败了那么试着用 root 账号运行它。 之后运行`update-grub` 命令。 这就是你可以用于从 GRUB 中启动 Windows 的所需要做的全部。
 
 
-![upgrade-grub in linux](/Asserts/Images//attachment/album/201707/01/193914q1zmsjlq7t43y34q.jpg)
+![upgrade-grub in linux](/Asserts/Images/album/201707/01/193914q1zmsjlq7t43y34q.jpg)
 
 
 ### 总结

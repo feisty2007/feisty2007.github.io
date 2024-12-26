@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,Windows,Ada]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/17/100341lus2x6dcnce63rnw.jpg)
+![](/Asserts/Images/album/202009/17/100341lus2x6dcnce63rnw.jpg)
 
 
 #### 微软提交补丁，用 Linux 替代 Hyper-V 根分区的 Windows

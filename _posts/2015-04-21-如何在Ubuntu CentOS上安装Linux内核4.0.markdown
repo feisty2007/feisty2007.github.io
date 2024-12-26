@@ -10,7 +10,7 @@ tags:	[linuxcn,内核,Linux]
 大家好，今天我们学习一下如何从Elrepo或者源代码来安装最新的Linux内核4.0。代号为‘Hurr durr I'm a sheep’的Linux内核4.0是目前为止最新的主干内核。它是稳定版3.19.4之后发布的内核。4月12日是所有的开源运动爱好者的大日子，Linux Torvalds宣布了Linux内核4.0的发布，它现在就已经可用了。由于包括了一些很棒的功能，例如无重启补丁(实时补丁)，新的升级驱动，最新的硬件支持以及很多有趣的功能都有新的版本，它原本被期望是一次重要版本。但是实际上内核4.0并不认为是期望中的重要版本，Linus 表示期望4.1会是一个更重要的版本。实时补丁功能已经集成到了SUSE企业版Linux操作系统上。你可以在[发布公告](http://linux.cn/article-5259-1.html)上查看关于这次发布的更多详细内容。
 
 
-![](/Asserts/Images//attachment/album/201504/21/231433qrnq7b7nzd36zi26.jpg)
+![](/Asserts/Images/album/201504/21/231433qrnq7b7nzd36zi26.jpg)
 
 
 
@@ -87,7 +87,7 @@ $ sudo dpkg -i linux-headers-4.0.0*.deb linux-image-4.0.0*.deb
 
 ```
 
-![添加 Elrepo 源](/Asserts/Images//attachment/album/201504/21/231451fj2jslzazb5laazi.png)
+![添加 Elrepo 源](/Asserts/Images/album/201504/21/231451fj2jslzazb5laazi.png)
 
 
 #### **2. 升级Linux内核到4.0版本**
@@ -102,7 +102,7 @@ $ sudo dpkg -i linux-headers-4.0.0*.deb linux-image-4.0.0*.deb
 
 ```
 
-![从ELRepo安装Linux内核4.0](/Asserts/Images//attachment/album/201504/21/231452ndm6iindvi4vk8iv.png)
+![从ELRepo安装Linux内核4.0](/Asserts/Images/album/201504/21/231452ndm6iindvi4vk8iv.png)
 
 
 上面的命令会自动安装为CentOS 7构建的Linux内核4.0。
@@ -128,7 +128,7 @@ $ sudo dpkg -i linux-headers-4.0.0*.deb linux-image-4.0.0*.deb
 
 ```
 
-![安装内核依赖](/Asserts/Images//attachment/album/201504/21/231452hdy4clqqzyy7snj8.png)
+![安装内核依赖](/Asserts/Images/album/201504/21/231452hdy4clqqzyy7snj8.png)
 
 
 然后，我们会升级我们的整个系统。
@@ -153,7 +153,7 @@ $ sudo dpkg -i linux-headers-4.0.0*.deb linux-image-4.0.0*.deb
 
 ```
 
-![下载内核源码](/Asserts/Images//attachment/album/201504/21/231453bxfkhkl2fxqtottt.png)
+![下载内核源码](/Asserts/Images/album/201504/21/231453bxfkhkl2fxqtottt.png)
 
 
 #### **3. 解压tar压缩包**
@@ -169,7 +169,7 @@ $ sudo dpkg -i linux-headers-4.0.0*.deb linux-image-4.0.0*.deb
 
 ```
 
-![解压内核tar压缩包](/Asserts/Images//attachment/album/201504/21/231454dcs25ues5gm4zcsv.png)
+![解压内核tar压缩包](/Asserts/Images/album/201504/21/231454dcs25ues5gm4zcsv.png)
 
 
 #### **4. 配置**
@@ -190,7 +190,7 @@ $ sudo dpkg -i linux-headers-4.0.0*.deb linux-image-4.0.0*.deb
 
 ```
 
-![配置新内核](/Asserts/Images//attachment/album/201504/21/231456zag2m4xg0la0yggq.png)
+![配置新内核](/Asserts/Images/album/201504/21/231456zag2m4xg0la0yggq.png)
 
 
 ##### **已有的配置**
@@ -220,7 +220,7 @@ $ sudo dpkg -i linux-headers-4.0.0*.deb linux-image-4.0.0*.deb
 
 ```
 
-![Make 内核](/Asserts/Images//attachment/album/201504/21/231456p19gdg9w1zr8g8mo.png)
+![Make 内核](/Asserts/Images/album/201504/21/231456p19gdg9w1zr8g8mo.png)
 
 
 #### 6. 安装Linux内核4.0

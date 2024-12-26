@@ -7,7 +7,7 @@ tags:	[linuxcn,shell,bash,zsh,fish]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/02/141357emln6h58x25m2hv7.jpg)
+![](/Asserts/Images/album/201607/02/141357emln6h58x25m2hv7.jpg)
 
 
 这个世界上有两种 Linux 用户：敢于冒险的和态度谨慎的。

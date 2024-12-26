@@ -7,7 +7,7 @@ tags:	[linuxcn,认证,Abacus]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/28/205244vqtzvgqjfg1f3hey.jpg)
+![](/Asserts/Images/album/201606/28/205244vqtzvgqjfg1f3hey.jpg)
 
 
 一个谷歌新开发的认证措施会评估你的登录有多可靠，并且基于一个“<ruby> 信任分 <rp>  （ </rp> <rt>  Trust Score </rt> <rp>  ） </rp></ruby>”认证你的登录。
@@ -25,7 +25,7 @@ tags:	[linuxcn,认证,Abacus]
 基于这个信任分，一个需要登录认证的应用可以验证你确实可以授权登录，从而不会提示需要密码。
 
 
-![](/Asserts/Images//attachment/album/201606/28/205245n311j5w9jafw91w5.jpg)
+![](/Asserts/Images/album/201606/28/205245n311j5w9jafw91w5.jpg)
 
 
 *Abacus 到 Trust API*

@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,Linux,ARM,工业互联网]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/14/175418g0c0ijil8leccmgg.jpg)
+![](/Asserts/Images/album/202207/14/175418g0c0ijil8leccmgg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/14/175426bp82iq1hqh1mxj7q.jpg)
+![](/Asserts/Images/album/202207/14/175426bp82iq1hqh1mxj7q.jpg)
 
 
 ### 谷歌披露其内部使用的 Linux 滚动发行版
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,Linux,ARM,工业互联网]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/14/175441qgodo48zrnvmouoh.jpg)
+![](/Asserts/Images/album/202207/14/175441qgodo48zrnvmouoh.jpg)
 
 
 ### 谷歌云宣布采用 ARM 芯片
@@ -60,7 +60,7 @@ tags:	[linuxcn,谷歌,Linux,ARM,工业互联网]
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/14/175500xq2oeu5gczgobqwj.jpg)
+![](/Asserts/Images/album/202207/14/175500xq2oeu5gczgobqwj.jpg)
 
 
 ### 去年几乎整个工业行业都受到过攻击

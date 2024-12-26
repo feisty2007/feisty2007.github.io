@@ -7,7 +7,7 @@ tags:	[linuxcn,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/25/235644h22qyrnygtdx2gph.jpg)
+![](/Asserts/Images/album/201807/25/235644h22qyrnygtdx2gph.jpg)
 
 
 当你使用默认密码创建用户时，你必须强制用户在下一次登录时更改密码。

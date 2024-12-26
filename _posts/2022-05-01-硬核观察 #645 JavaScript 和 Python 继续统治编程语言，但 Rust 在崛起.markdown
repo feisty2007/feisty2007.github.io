@@ -7,10 +7,10 @@ tags:	[linuxcn,编程语言,基因,Linux 内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/23/183343shhqx9mzv2nqsfff.jpg)
+![](/Asserts/Images/album/202205/23/183343shhqx9mzv2nqsfff.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/23/183353xtqzs1qvubkvusrq.jpg)
+![](/Asserts/Images/album/202205/23/183353xtqzs1qvubkvusrq.jpg)
 
 
 ### JavaScript 和 Python 继续统治编程语言，但 Rust 在崛起
@@ -35,7 +35,7 @@ tags:	[linuxcn,编程语言,基因,Linux 内核]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/23/183406cmy45vlzjqljj9qd.jpg)
+![](/Asserts/Images/album/202205/23/183406cmy45vlzjqljj9qd.jpg)
 
 
 ### Linux 5.18 释出
@@ -60,7 +60,7 @@ Linus Torvalds 在内核邮件列表上宣布释出 Linux 5.18。新版的主要
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/23/183421s015hh4q001q55e3.jpg)
+![](/Asserts/Images/album/202205/23/183421s015hh4q001q55e3.jpg)
 
 
 ### 科学家正在修改蚊子的基因以减小雌蚊数量

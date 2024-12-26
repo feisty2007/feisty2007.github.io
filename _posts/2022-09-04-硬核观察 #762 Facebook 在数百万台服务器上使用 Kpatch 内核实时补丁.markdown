@@ -7,10 +7,10 @@ tags:	[linuxcn,内核实时补丁,PuTTY,LastPass,黑客]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/17/161103qd5n7s6bd2x5xnus.jpg)
+![](/Asserts/Images/album/202209/17/161103qd5n7s6bd2x5xnus.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/17/161113h0k03k5y0yih0r80.jpg)
+![](/Asserts/Images/album/202209/17/161113h0k03k5y0yih0r80.jpg)
 
 
 ### Facebook 在数百万台服务器上使用 Kpatch 内核实时补丁
@@ -35,7 +35,7 @@ tags:	[linuxcn,内核实时补丁,PuTTY,LastPass,黑客]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/17/161126rg8bhqsszw3bkbdl.jpg)
+![](/Asserts/Images/album/202209/17/161126rg8bhqsszw3bkbdl.jpg)
 
 
 ### 黑客使用木马版 PuTTY SSH 客户端植入后门
@@ -60,7 +60,7 @@ tags:	[linuxcn,内核实时补丁,PuTTY,LastPass,黑客]
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/17/161147m5yfp2z20n1fxpff.jpg)
+![](/Asserts/Images/album/202209/17/161147m5yfp2z20n1fxpff.jpg)
 
 
 ### LastPass 表示在驱逐前已被入侵内部系统 4 天

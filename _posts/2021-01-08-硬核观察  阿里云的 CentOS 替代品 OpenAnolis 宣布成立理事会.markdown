@@ -7,13 +7,13 @@ tags:	[linuxcn,OpenAnolis,sudo,Office]
 ---
 
 
-![](/Asserts/Images//attachment/album/202101/28/120652fxwputbt9m1u5mr1.jpg)
+![](/Asserts/Images/album/202101/28/120652fxwputbt9m1u5mr1.jpg)
 
 
 #### 阿里云的 CentOS 替代品 OpenAnolis 宣布成立理事会
 
 
-![](/Asserts/Images//attachment/album/202101/28/110801ylaka5zvz9d2hwzd.jpg)
+![](/Asserts/Images/album/202101/28/110801ylaka5zvz9d2hwzd.jpg)
 
 
 在 2020 年 12 月 CentOS 项目组宣布 CentOS 8 将于 2021 年底结束支持后，几个公有云服务商纷纷宣布基于之前的内部使用的发行版推出 CentOS 替代发行版，这包括华为云的 [openEuler](/article-12954-1.html)、腾讯云的 [TencentOS](/article-13039-1.html)、阿里云的 OpenAnolis。
@@ -31,7 +31,7 @@ OpenAnolis 社区将于 2021 年第二季度发布 Anolis OS 8，和 CentOS 完�
 #### sudo 被爆有史以来最重要的高危漏洞，可 root 提权
 
 
-![](/Asserts/Images//attachment/album/202101/28/110827tprprkoffroe1kfr.jpg)
+![](/Asserts/Images/album/202101/28/110827tprprkoffroe1kfr.jpg)
 
 
 安全研究人员今日[披露](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)了一个 sudo 的高危漏洞 CVE-2021-3156，可以据此漏洞提权至 root。更严重的是，这个漏洞已经出现了近 10 年之久了。
@@ -46,7 +46,7 @@ OpenAnolis 社区将于 2021 年第二季度发布 Anolis OS 8，和 CentOS 完�
 #### 微软 Office 借助容器技术，可编辑和使用恶意文档
 
 
-![](/Asserts/Images//attachment/album/202101/28/111007fevfr6mee0fqx9af.jpg)
+![](/Asserts/Images/album/202101/28/111007fevfr6mee0fqx9af.jpg)
 
 
 微软[上线](https://techcommunity.microsoft.com/t5/microsoft-security-and/application-guard-for-office-now-generally-available/ba-p/2007539)了适用于微软 Office 的应用防护功能。该功能可以在用户打开来自不信任来源的文件之前，将其放置在容器中，以便于抵御恶意威胁。据微软说，它不仅可以让你的系统免受恶意文档的侵害，而且由于使用了基于 Hyper-V 的容器，你的文件也受到保护，不会受基于系统内核的攻击。并且，这与以只读模式打开文件的保护视图不同，你可以在不离开容器的情况下以有限的容量编辑和打印文件。

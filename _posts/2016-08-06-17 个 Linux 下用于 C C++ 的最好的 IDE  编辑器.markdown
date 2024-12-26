@@ -13,7 +13,7 @@ C++，一个众所周知的 C 语言的扩展，是一个优秀的、强大的�
 C++，提供高度可靠性的同时还能够允许操作底层内存来满足更高级的编程要求。
 
 
-![](/Asserts/Images//attachment/album/201608/21/182045h07rbfmoak77kz8y.png)
+![](/Asserts/Images/album/201608/21/182045h07rbfmoak77kz8y.png)
 
 
 虽然已经有了一些供程序员用来写 C/C++ 代码的文本编辑器，但 IDE 可以为轻松、完美的编程提供综合的环境和组件。
@@ -46,7 +46,7 @@ Netbeans 是一个自由而开源的、流行的跨平台 IDE ，可用于 C/C++
 * 源代码检查
 
 
-![](/Asserts/Images//attachment/album/201608/21/182046ar8apogzz9bdo0bb.png)
+![](/Asserts/Images/album/201608/21/182046ar8apogzz9bdo0bb.png)
 
 
 主页：<https://netbeans.org/features/cpp/index.html>
@@ -75,7 +75,7 @@ Code::Blocks 是一个免费的、具有高度扩展性的、并且可以配置�
 * 可自定义、可扩展的界面以及许多其他的的功能，包括那些用户开发的插件添加功能
 
 
-![](/Asserts/Images//attachment/album/201608/21/182048wd6l24do19spo1le.png)
+![](/Asserts/Images/album/201608/21/182048wd6l24do19spo1le.png)
 
 
 主页： <http://www.codeblocks.org>
@@ -102,7 +102,7 @@ Eclipse CDT 是一个基于 Eclipse 主平台的项目，它提供了一个完�
 * 反汇编查看器以及更多功能
 
 
-![](/Asserts/Images//attachment/album/201608/21/182050zddo33z7ic4cowdf.png)
+![](/Asserts/Images/album/201608/21/182050zddo33z7ic4cowdf.png)
 
 
 主页： <http://www.eclipse.org/cdt/>
@@ -130,7 +130,7 @@ CodeLite 也是一款为 C/C++、JavaScript（Node.js）和 PHP 编程专门设�
 * 开发基于 wxWidgets 应用的 RAD（快速应用程序开发）工具，以及更多的特性
 
 
-![](/Asserts/Images//attachment/album/201608/21/182051fdbwnlkb0ruwmq9z.png)
+![](/Asserts/Images/album/201608/21/182051fdbwnlkb0ruwmq9z.png)
 
 
 主页： <http://codelite.org/>
@@ -155,7 +155,7 @@ Bluefish 不仅仅是一个一般的编辑器，它是一个轻量级的、快�
 * 支持多种编码等许多其他功能
 
 
-![](/Asserts/Images//attachment/album/201608/21/182054h8iivt7m7vhltvtd.png)
+![](/Asserts/Images/album/201608/21/182054h8iivt7m7vhltvtd.png)
 
 
 主页： <http://bluefish.openoffice.nl>
@@ -167,7 +167,7 @@ Bluefish 不仅仅是一个一般的编辑器，它是一个轻量级的、快�
 Brackets 是一个现代化风格的、开源的文本编辑器，专为 Web 设计与开发打造。它可以通过插件进行高度扩展，因此 C/C++ 程序员通过安装 C/C++/Objective-C 包来使用它来开发，这个包用来在辅助 C/C++ 代码编写的同时提供了 IDE 之类的特性。
 
 
-![](/Asserts/Images//attachment/album/201608/21/182055catr0ywwajyt6wrf.png)
+![](/Asserts/Images/album/201608/21/182055catr0ywwajyt6wrf.png)
 
 
 主页： <http://brackets.io/>
@@ -188,7 +188,7 @@ Atom 也是一个现代化风格、开源的多平台文本编辑器，它能运
 * 查找、替换以及其他更多的功能
 
 
-![](/Asserts/Images//attachment/album/201608/21/182056x1tw37oo3d37o7uu.png)
+![](/Asserts/Images/album/201608/21/182056x1tw37oo3d37o7uu.png)
 
 
 主页： <https://atom.io/>
@@ -216,7 +216,7 @@ Sublime Text 是一个完善的、跨平台的文本编辑器，可用于代码�
 * 支持基于 Python 的 API 插件以及其他特性
 
 
-![](/Asserts/Images//attachment/album/201608/21/182056glccmynmuwnhqhqu.png)
+![](/Asserts/Images/album/201608/21/182056glccmynmuwnhqhqu.png)
 
 
 主页： <https://www.sublimetext.com>
@@ -245,7 +245,7 @@ JetBrains CLion 是一个收费的、强大的跨平台 C/C++ IDE。它是一个
 * 通过 Vim 仿真插件支持 Vim 编辑体验
 
 
-![](/Asserts/Images//attachment/album/201608/21/182058aeixxiofqohilhew.png)
+![](/Asserts/Images/album/201608/21/182058aeixxiofqohilhew.png)
 
 
 主页： <https://www.jetbrains.com/clion/>
@@ -260,7 +260,7 @@ Visual Studio 是一个功能丰富的、完全整合的、跨平台开发环境
 它功能完备，功能分类为应用程序开发、应用生命周期管理、扩展和集成特性。你可以从 Visual Studio 官网阅读全面的功能列表。
 
 
-![](/Asserts/Images//attachment/album/201608/21/182100vc1hvexz59ihgvcb.png)
+![](/Asserts/Images/album/201608/21/182100vc1hvexz59ihgvcb.png)
 
 
 主页： <https://www.visualstudio.com>
@@ -279,7 +279,7 @@ KDevelop 是另一个自由而开源的跨平台 IDE，能够运行在 Linux、S
 * 支持 Grep 视图，使用窗口小部件节省垂直空间等
 
 
-![](/Asserts/Images//attachment/album/201608/21/182102d67wflx3z5d7ue7f.png)
+![](/Asserts/Images/album/201608/21/182102d67wflx3z5d7ue7f.png)
 
 
 主页： <https://www.kdevelop.org>
@@ -305,7 +305,7 @@ Geany 是一个免费的、快速的、轻量级跨平台 IDE，只需要很少�
 * 可以通过插件扩展
 
 
-![](/Asserts/Images//attachment/album/201608/21/182103reeetd8kidp8pqtn.png)
+![](/Asserts/Images/album/201608/21/182103reeetd8kidp8pqtn.png)
 
 
 主页： <http://www.geany.org/>
@@ -330,7 +330,7 @@ Ajunta DevStudio 是一个简单，强大的 GNOME 界面的软件开发工作�
 * 源代码编辑器支持语法高亮显示、智能缩进、自动缩进、代码折叠/隐藏、文本缩放等
 
 
-![](/Asserts/Images//attachment/album/201608/21/182106x9q1bqf922m2q729.png)
+![](/Asserts/Images/album/201608/21/182106x9q1bqf922m2q729.png)
 
 
 主页： <http://anjuta.org/>
@@ -356,7 +356,7 @@ GNAT Programming Studio 是一个免费的、易于使用的 IDE，设计的目�
 * 使用喜欢的工具获得全面的可扩展性
 
 
-![](/Asserts/Images//attachment/album/201608/21/182108vu442gw9r7ghhu9h.jpg)
+![](/Asserts/Images/album/201608/21/182108vu442gw9r7ghhu9h.jpg)
 
 
 主页： <http://libre.adacore.com/tools/gps/>
@@ -380,7 +380,7 @@ GNAT Programming Studio 是一个免费的、易于使用的 IDE，设计的目�
 * 支持多屏幕和多平台，易于构建目标之间的切换等等
 
 
-![](/Asserts/Images//attachment/album/201608/21/182110qndq4jmndjd88lkd.png)
+![](/Asserts/Images/album/201608/21/182110qndq4jmndjd88lkd.png)
 
 
 主页： <https://www.qt.io/ide/>
@@ -403,7 +403,7 @@ Emacs 的核心也是一个 Emacs Lisp 的解释器，Emacs Lisp 是一种基于
 * 完整的内置文档，以及用户指南等等
 
 
-![](/Asserts/Images//attachment/album/201608/21/182113ebonzz6jrhxbxhp1.png)
+![](/Asserts/Images/album/201608/21/182113ebonzz6jrhxbxhp1.png)
 
 
 主页： <https://www.gnu.org/software/emacs/>

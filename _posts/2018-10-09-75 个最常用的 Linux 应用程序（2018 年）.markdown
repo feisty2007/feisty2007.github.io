@@ -7,7 +7,7 @@ tags:	[linuxcn,应用,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/10/134000q1kzkkltret9xx0i.png)
+![](/Asserts/Images/album/201810/10/134000q1kzkkltret9xx0i.png)
 
 
 对于许多应用程序来说，2018 年是非常好的一年，尤其是自由开源的应用程序。尽管各种 Linux 发行版都自带了很多默认的应用程序，但用户也可以自由地选择使用它们或者其它任何免费或付费替代方案。
@@ -39,13 +39,13 @@ $ rsync [OPTION...] SRC... [DEST]
 [Timeshift](https://github.com/teejee2008/timeshift) 能够通过增量快照来保护用户的系统数据，而且可以按照日期恢复指定的快照，类似于 Mac OS 中的 Time Machine 功能和 Windows 中的系统还原功能。
 
 
-![](/Asserts/Images//attachment/album/201810/10/134000hu3xu89z31oomzqf.png)
+![](/Asserts/Images/album/201810/10/134000hu3xu89z31oomzqf.png)
 
 
 ### BT（BitTorrent） 客户端
 
 
-![](/Asserts/Images//attachment/album/201810/10/134001d71zybwo7aizm54b.png)
+![](/Asserts/Images/album/201810/10/134001d71zybwo7aizm54b.png)
 
 
 #### Deluge
@@ -99,7 +99,7 @@ $ sudo apt-get install transmission-gtk transmission-cli transmission-common tra
 ### 云存储
 
 
-![](/Asserts/Images//attachment/album/201810/10/134001hji32s1aa0jm6632.png)
+![](/Asserts/Images/album/201810/10/134001hji32s1aa0jm6632.png)
 
 
 #### Dropbox
@@ -139,7 +139,7 @@ $ ~/.dropbox-dist/dropboxd
 ### 命令行编辑器
 
 
-![](/Asserts/Images//attachment/album/201810/10/134001b131j9j9efpq1pg1.png)
+![](/Asserts/Images/album/201810/10/134001b131j9j9efpq1pg1.png)
 
 
 #### Vim
@@ -193,7 +193,7 @@ $ sudo apt-get install nano
 ### 下载器
 
 
-![](/Asserts/Images//attachment/album/201810/10/134001qzdzndfl4f64d9wb.png)
+![](/Asserts/Images/album/201810/10/134001qzdzndfl4f64d9wb.png)
 
 
 #### Aria2
@@ -245,7 +245,7 @@ $ sudo apt-get install xdman
 ### 电子邮件客户端
 
 
-![](/Asserts/Images//attachment/album/201810/10/134001ig9m0h0hmzehqtgx.png)
+![](/Asserts/Images/album/201810/10/134001ig9m0h0hmzehqtgx.png)
 
 
 #### Thunderbird
@@ -299,7 +299,7 @@ $ sudo apt-get install evolution
 ### 财务软件
 
 
-![](/Asserts/Images//attachment/album/201810/10/134002gwlm4jjfnbowpoqp.png)
+![](/Asserts/Images/album/201810/10/134002gwlm4jjfnbowpoqp.png)
 
 
 #### GnuCash
@@ -337,7 +337,7 @@ $ sudo apt-get install kmymoney
 ### IDE
 
 
-![](/Asserts/Images//attachment/album/201810/10/134002hzia883m5di4akyk.png)
+![](/Asserts/Images/album/201810/10/134002hzia883m5di4akyk.png)
 
 
 #### Eclipse IDE
@@ -417,7 +417,7 @@ $ sudo apt-get install lighttable-installer
 ### 即时通信工具
 
 
-![](/Asserts/Images//attachment/album/201810/10/134002tgj7g1gr5o3nd57d.png)
+![](/Asserts/Images/album/201810/10/134002tgj7g1gr5o3nd57d.png)
 
 
 #### Pidgin

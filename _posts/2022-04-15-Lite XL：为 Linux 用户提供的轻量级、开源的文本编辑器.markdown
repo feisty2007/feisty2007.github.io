@@ -30,7 +30,7 @@ tags:	[linuxcn,编辑器,Lite XL]
 所以，在开始之前，让我告诉你，如果你是一个 [Visual Studio Code 粉丝](https://itsfoss.com/visual-studio-code-vs-atom/)，你绝对应该试试 Lite XL。它可能不是绝对的替代品，而是类似使用场景的精简版。
 
 
-![Showing how Lite XL looks](/Asserts/Images//attachment/album/202204/22/092835k8bkgbdlxgckrxcr.png)
+![Showing how Lite XL looks](/Asserts/Images/album/202204/22/092835k8bkgbdlxgckrxcr.png)
 
 
 ### Lite XL：用 Lua 编写的轻量级文本编辑器
@@ -42,7 +42,7 @@ Lite XL 是一个用 Lua 编写的有趣的开源文本编辑器（特别是为�
 它也可用于 Windows、Linux 和 macOS。但是，有这么多 [现代文本编辑器](https://itsfoss.com/best-modern-open-source-code-editors-for-linux/)，为什么还要有个 Lite XL？
 
 
-![Lite XL Customize Configuration](/Asserts/Images//attachment/album/202204/22/092835qoy8v4yk6olxdzlp.png)
+![Lite XL Customize Configuration](/Asserts/Images/album/202204/22/092835qoy8v4yk6olxdzlp.png)
 
 
 通常情况下，大多数时候我们并不关心文本编辑器会消耗我们系统的资源。然而，在创建 Bash、Python 或任何其他类型的脚本时，你会依赖文本编辑器，而它的资源效率越高越好。
@@ -66,7 +66,7 @@ Lite XL 只使用了 **3MB** 的磁盘，并消耗了大约 **20MB** 内存，�
 ### Lite XL 的特点
 
 
-![](/Asserts/Images//attachment/album/202204/22/092836l7otc1k1k82hmcc8.png)
+![](/Asserts/Images/album/202204/22/092836l7otc1k1k82hmcc8.png)
 
 
 根据现有的官方信息，其最受欢迎的一些功能包括：
@@ -94,13 +94,13 @@ Lite XL 为 Linux 发行版提供了一个 AppImage 文件。你可以按照我�
 当你前往其 GitHub 发布区，直接进入 “<ruby> 资产 <rt>  Assets </rt></ruby>” 区并下载 `LiteXL_x86_64.Appimage` 文件。
 
 
-![Downloading Appimage file](/Asserts/Images//attachment/album/202204/22/092836ijhabvp0b3prhr4r.png)
+![Downloading Appimage file](/Asserts/Images/album/202204/22/092836ijhabvp0b3prhr4r.png)
 
 
 AppImage 文件将被下载到你的下载目录中，因此，在双击该文件之前，请验证它是否允许作为程序执行。
 
 
-![Verifying execution permissions](/Asserts/Images//attachment/album/202204/22/092836l0lb0pua75a4uq4u.png)
+![Verifying execution permissions](/Asserts/Images/album/202204/22/092836l0lb0pua75a4uq4u.png)
 
 
 这就好了! 现在你可以双击该文件，开始在你的系统中使用 Lite XL。

@@ -13,7 +13,7 @@ tags:	[linuxcn,ssh,chroot]
 在诸如 Linux 之类的类 Unix 系统中更改 root（**chroot**）是将特定用户操作与其他 Linux 系统分离的一种手段；使用称为 **chrooted 监狱** 的新根目录更改当前运行的用户进程及其子进程的明显根目录。
 
 
-![](/Asserts/Images//attachment/album/201703/16/215326aucr7zqjr0j7cuqs.jpg)
+![](/Asserts/Images/album/201703/16/215326aucr7zqjr0j7cuqs.jpg)
 
 
 在本教程中，我们将向你展示如何限制 SSH 用户访问 Linux 中指定的目录。注意，我们将以 root 用户身份运行所有命令，如果你以普通用户身份登录服务器，请使用 [sudo 命令](https://linux.cn/tag-sudo.html)。
@@ -43,7 +43,7 @@ tags:	[linuxcn,ssh,chroot]
 
 ```
 
-![Listing Required Files](/Asserts/Images//attachment/album/201703/16/215336gzm7nraoa21onam7.png)
+![Listing Required Files](/Asserts/Images/album/201703/16/215336gzm7nraoa21onam7.png)
 
 
 *列出所需文件*
@@ -63,7 +63,7 @@ tags:	[linuxcn,ssh,chroot]
 
 ```
 
-![Create /dev and Required Files](/Asserts/Images//attachment/album/201703/16/215338ide3pr3krvrosere.png)
+![Create /dev and Required Files](/Asserts/Images/album/201703/16/215338ide3pr3krvrosere.png)
 
 
 *创建 /dev 和所需文件*
@@ -80,7 +80,7 @@ tags:	[linuxcn,ssh,chroot]
 
 ```
 
-![Set Permissions on Directory](/Asserts/Images//attachment/album/201703/16/215339uvvvppvomvvfm2oi.png)
+![Set Permissions on Directory](/Asserts/Images/album/201703/16/215339uvvvppvomvvfm2oi.png)
 
 
 *设置目录权限*
@@ -99,7 +99,7 @@ tags:	[linuxcn,ssh,chroot]
 
 ```
 
-![Copy Files to bin Directory](/Asserts/Images//attachment/album/201703/16/215340daajm55eoacw5f4e.png)
+![Copy Files to bin Directory](/Asserts/Images/album/201703/16/215340daajm55eoacw5f4e.png)
 
 
 *复制文件到 bin 目录中*
@@ -116,7 +116,7 @@ tags:	[linuxcn,ssh,chroot]
 
 ```
 
-![Copy Shared Library Files](/Asserts/Images//attachment/album/201703/16/215341z7r8471jmoz685w4.png)
+![Copy Shared Library Files](/Asserts/Images/album/201703/16/215341z7r8471jmoz685w4.png)
 
 
 *复制共享库文件*
@@ -145,7 +145,7 @@ tags:	[linuxcn,ssh,chroot]
 
 ```
 
-![Copy Password Files](/Asserts/Images//attachment/album/201703/16/215342zo1eouy2nsvypzen.png)
+![Copy Password Files](/Asserts/Images/album/201703/16/215342zo1eouy2nsvypzen.png)
 
 
 *复制密码文件*
@@ -178,7 +178,7 @@ ChrootDirectory /home/test
 
 ```
 
-![Configure SSH Chroot Jail](/Asserts/Images//attachment/album/201703/16/215343tz71v933d1wgzisv.png)
+![Configure SSH Chroot Jail](/Asserts/Images/album/201703/16/215343tz71v933d1wgzisv.png)
 
 
 *配置 SSH chroot 监狱*
@@ -210,7 +210,7 @@ ChrootDirectory /home/test
 
 ```
 
-![Testing SSH User Chroot Jail](/Asserts/Images//attachment/album/201703/16/215344qwrf1h8xuwc0k0sk.png)
+![Testing SSH User Chroot Jail](/Asserts/Images/album/201703/16/215344qwrf1h8xuwc0k0sk.png)
 
 
 *测试 SSH 用户 chroot 监狱*
@@ -231,7 +231,7 @@ ChrootDirectory /home/test
 
 ```
 
-![SSH Built-in Commands](/Asserts/Images//attachment/album/201703/16/215345oabfcffyhkbt9byb.png)
+![SSH Built-in Commands](/Asserts/Images/album/201703/16/215345oabfcffyhkbt9byb.png)
 
 
 *SSH 内置命令*
@@ -251,7 +251,7 @@ ChrootDirectory /home/test
 
 ```
 
-![Create SSH User Home Directory](/Asserts/Images//attachment/album/201703/16/215347twfkvvvikspj15ij.png)
+![Create SSH User Home Directory](/Asserts/Images/album/201703/16/215347twfkvvvikspj15ij.png)
 
 
 *创建 SSH 用户主目录*
@@ -268,7 +268,7 @@ ChrootDirectory /home/test
 
 ```
 
-![Add Commands to SSH User](/Asserts/Images//attachment/album/201703/16/215348lpem7e9fdxlf0el0.png)
+![Add Commands to SSH User](/Asserts/Images/album/201703/16/215348lpem7e9fdxlf0el0.png)
 
 
 *向 SSH 用户添加命令*
@@ -284,7 +284,7 @@ ChrootDirectory /home/test
 
 ```
 
-![Copy Shared Libraries](/Asserts/Images//attachment/album/201703/16/215349xlml1e6yyh9f1v1i.png)
+![Copy Shared Libraries](/Asserts/Images/album/201703/16/215349xlml1e6yyh9f1v1i.png)
 
 
 *复制共享库*
@@ -326,7 +326,7 @@ ForceCommand internal-sftp
 
 ```
 
-![Test SSH Chroot Jail](/Asserts/Images//attachment/album/201703/16/215350fiu8i42xxii8r8kh.png)
+![Test SSH Chroot Jail](/Asserts/Images/album/201703/16/215350fiu8i42xxii8r8kh.png)
 
 
 *测试 SSH Chroot 监狱*
@@ -341,7 +341,7 @@ ForceCommand internal-sftp
 
 ```
 
-![Testing sFTP SSH User](/Asserts/Images//attachment/album/201703/16/215350qhz5lh6x26fhfd77.png)
+![Testing sFTP SSH User](/Asserts/Images/album/201703/16/215350qhz5lh6x26fhfd77.png)
 
 
 *测试 sFTP SSH 用户*

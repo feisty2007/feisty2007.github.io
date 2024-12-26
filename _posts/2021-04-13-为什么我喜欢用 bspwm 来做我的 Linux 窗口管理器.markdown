@@ -15,7 +15,7 @@ tags:	[linuxcn,bspwm,窗口管理器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/18/114637hxvqp4hfvbbhihb4.jpg "Tall building with windows")
+![](/Asserts/Images/album/202104/18/114637hxvqp4hfvbbhihb4.jpg "Tall building with windows")
 
 
 有些人喜欢重新布置家具。还有的人喜欢尝试新鞋或定期重新装修他们的卧室。我呢，则是尝试 Linux 桌面。
@@ -24,7 +24,7 @@ tags:	[linuxcn,bspwm,窗口管理器]
 在对网上看到的一些不可思议的桌面环境流口水之后，我对一个窗口管理器特别好奇：[bspwm](https://github.com/baskerville/bspwm)。
 
 
-![bspwm desktop](/Asserts/Images//attachment/album/202104/18/114707ncb883rbc8l0e4pr.png "bspwm desktop")
+![bspwm desktop](/Asserts/Images/album/202104/18/114707ncb883rbc8l0e4pr.png "bspwm desktop")
 
 
 我喜欢 [i3](https://i3wm.org/) 窗口管理器已经有一段时间了，我很喜欢它的布局方式和上手的便捷性。但 bspwm 的某些特性吸引了我。有几个原因让我决定尝试一下：

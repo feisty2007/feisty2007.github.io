@@ -24,7 +24,7 @@ Tech Republic发表了一篇文章介绍了如何在Ubuntu14.04上安装Cinnamon
 >  [更多消息](http://www.techrepublic.com/article/is-cinnamon-a-worthy-replacement-for-ubuntu-unity/)
 > 
 > 
-> ![](/Asserts/Images//attachment/album/201407/09/222257ujmf2lh0oyyzjh0t.jpg)
+> ![](/Asserts/Images/album/201407/09/222257ujmf2lh0oyyzjh0t.jpg)
 > 
 > 
 > Image credit: [Tech Republic](http://www.techrepublic.com/article/is-cinnamon-a-worthy-replacement-for-ubuntu-unity/)

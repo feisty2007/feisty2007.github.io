@@ -10,7 +10,7 @@ tags:	[linuxcn,PXE,Ubuntu,Debian]
 本教程将指引你添加**Ubuntu 14.10 Server, Ubuntu 14.04 Server**和**Debian 7 Wheezy**发行版到**RHEL/CentOS 7**的PXE网络启动环境中。
 
 
-![Add Ubuntu and Debian to PXE Network](/Asserts/Images//attachment/album/201502/17/144241z2h93heq9dz00a39.png)
+![Add Ubuntu and Debian to PXE Network](/Asserts/Images/album/201502/17/144241z2h93heq9dz00a39.png)
 
 
 *添加Ubuntu和Debian到PXE网络*
@@ -252,7 +252,7 @@ menu label ^6) Ubuntu 14.04 Rescue Mode
 
 ```
 
-![Add Ubuntu to PXE Boot](/Asserts/Images//attachment/album/201502/17/144243c5gi1io5sp7oo2so.jpg) 添加Ubuntu到PXE启动
+![Add Ubuntu to PXE Boot](/Asserts/Images/album/201502/17/144243c5gi1io5sp7oo2so.jpg) 添加Ubuntu到PXE启动
 
 
 **注**：如果你想要包含其它Ubuntu架构，请遵循以上相同的操作，并相应替换PXE默认菜单配置文件中的标签号和**ubuntu-installer/$architecture\_name/**目录。
@@ -285,25 +285,25 @@ menu label ^6) Ubuntu 14.04 Rescue Mode
 下面是**Ubuntu 14.04**PXE客户端安装测试的截图。
 
 
-![Select Ubuntu from PXE Menu](/Asserts/Images//attachment/album/201502/17/144244ymjsgvjg1m799vmc.jpg)
+![Select Ubuntu from PXE Menu](/Asserts/Images/album/201502/17/144244ymjsgvjg1m799vmc.jpg)
 
 
 *从PXE菜单选择Ubuntu*
 
 
-![Choose Ubuntu Installation Language](/Asserts/Images//attachment/album/201502/17/144246r55wgm60uc0m27g5.jpg)
+![Choose Ubuntu Installation Language](/Asserts/Images/album/201502/17/144246r55wgm60uc0m27g5.jpg)
 
 
 *选择Ubuntu安装语言*
 
 
-![Choose Ubuntu Rescue Mode](/Asserts/Images//attachment/album/201502/17/144247zujshrjssivc29no.jpg)
+![Choose Ubuntu Rescue Mode](/Asserts/Images/album/201502/17/144247zujshrjssivc29no.jpg)
 
 
 *选择Ubuntu救援模式*
 
 
-![Ubuntu Rescue Mode Shell](/Asserts/Images//attachment/album/201502/17/144249m4fhw2kjhgan23hh.jpg)
+![Ubuntu Rescue Mode Shell](/Asserts/Images/album/201502/17/144249m4fhw2kjhgan23hh.jpg)
 
 
 *Ubuntu救援模式Shell*
@@ -331,7 +331,7 @@ menu label ^6) Ubuntu 14.04 Rescue Mode
 
 ```
 
-![Download Debain 7 Netboot](/Asserts/Images//attachment/album/201502/17/144252pr2brw6bz2b2lf8v.jpg)
+![Download Debain 7 Netboot](/Asserts/Images/album/201502/17/144252pr2brw6bz2b2lf8v.jpg)
 
 
 *下载Debian 7网络启动包*
@@ -347,13 +347,13 @@ menu label ^6) Ubuntu 14.04 Rescue Mode
 
 ```
 
-![Extract Debain 7 Netboot](/Asserts/Images//attachment/album/201502/17/144253n4wk44ln4dz4y3zw.jpg)
+![Extract Debain 7 Netboot](/Asserts/Images/album/201502/17/144253n4wk44ln4dz4y3zw.jpg)
 
 
 *解压缩Debian 7网络启动包*
 
 
-![Copy Debain 7 Netboot to FTP](/Asserts/Images//attachment/album/201502/17/144254rehg9beplogeggo8.jpg)
+![Copy Debain 7 Netboot to FTP](/Asserts/Images/album/201502/17/144254rehg9beplogeggo8.jpg)
 
 
 *拷贝Debian 7网络启动文件到FTP*
@@ -385,7 +385,7 @@ menu label ^8) Install Debian 7 x64 Automated
 
 ```
 
-![Add Debian to PXE Boot](/Asserts/Images//attachment/album/201502/17/144258tsiw4l1jjizus95l.jpg)
+![Add Debian to PXE Boot](/Asserts/Images/album/201502/17/144258tsiw4l1jjizus95l.jpg)
 
 
 *添加Debian到PXE启动*
@@ -406,13 +406,13 @@ menu label ^8) Install Debian 7 x64 Automated
 **9.** 然后通过网络启动一台客户机，选择从PXE菜单安装Debian，并像正常安装一样进一步下去。
 
 
-![Select Install Debian from PXE](/Asserts/Images//attachment/album/201502/17/144259jj8epgubzvctvum4.jpg)
+![Select Install Debian from PXE](/Asserts/Images/album/201502/17/144259jj8epgubzvctvum4.jpg)
 
 
 *选择从PXE安装Debian*
 
 
-![Select Debian Install Language](/Asserts/Images//attachment/album/201502/17/144301go7fbmf2mfa4ttoz.jpg)
+![Select Debian Install Language](/Asserts/Images/album/201502/17/144301go7fbmf2mfa4ttoz.jpg)
 
 
 *选择Debian安装语言*

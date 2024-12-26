@@ -10,7 +10,7 @@ tags:	[linuxcn,内核,macOS]
 有些人可能会认为 macOS 和 Linux 内核之间存在相似之处，因为它们可以处理类似的命令和类似的软件。有些人甚至认为苹果公司的 macOS 是基于 Linux 的。事实上是，两个内核有着截然不同的历史和特征。今天，我们来看看 macOS 和 Linux 的内核之间的区别。
 
 
-![macOS vs Linux](/Asserts/Images//attachment/album/201807/20/001525dgb53g13bxb4vgbz.jpg)
+![macOS vs Linux](/Asserts/Images/album/201807/20/001525dgb53g13bxb4vgbz.jpg)
 
 
 ### macOS 内核的历史

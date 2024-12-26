@@ -7,7 +7,7 @@ tags:	[linuxcn,attr]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/15/081240syst7uisttadnky6.jpg)
+![](/Asserts/Images/album/202309/15/081240syst7uisttadnky6.jpg)
 
 
 

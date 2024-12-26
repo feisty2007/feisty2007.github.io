@@ -19,7 +19,7 @@ tags:	[linuxcn,Vim]
 ### 《A Byte of Vim》
 
 
-![](/Asserts/Images//attachment/album/202007/22/180458d7jpfe51l41f1cb5.png)
+![](/Asserts/Images/album/202007/22/180458d7jpfe51l41f1cb5.png)
 
 
 像所有好书一样，《A Byte of Vim》一开始就谈到了什么是 Vim：“一个用于写各类文本的计算机程序。”他接着说：“Vim 之所以与众不同，是因为它是为数不多的既简单又强大的软件之一。”

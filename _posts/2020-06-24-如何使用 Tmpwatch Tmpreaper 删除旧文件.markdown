@@ -7,7 +7,7 @@ tags:	[linuxcn,删除]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/05/091806zrnwahdl9fdyznrw.jpg)
+![](/Asserts/Images/album/202006/05/091806zrnwahdl9fdyznrw.jpg)
 
 
 你可能忘记了删除计算机上某个目录中不再需要的文件的操作。这可能是“下载”或任何其他目录。它可能已经增长了一段时间。

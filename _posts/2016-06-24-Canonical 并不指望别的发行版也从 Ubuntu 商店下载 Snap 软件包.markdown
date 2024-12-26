@@ -16,7 +16,7 @@ tags:	[linuxcn,Snap,快照包,Flatpak]
 如果开发者想使用 Snap 软件包跨多个 GNU/Linux 发行版发布软件的话，在 [snapcraft.io](http://snapcraft.io/) 上所提供的指导中有一个步骤需要开发者接受在社区争议很大的 Ubuntu CLA（<ruby> 贡献者许可同意书 <rp>  （ </rp> <rt>  Contributor License Agreement </rt> <rp>  ） </rp></ruby>）。
 
 
-![](/Asserts/Images//attachment/album/201606/25/165332w0aar0zssvfurr8s.jpg)
+![](/Asserts/Images/album/201606/25/165332w0aar0zssvfurr8s.jpg)
 
 
 ### Snap 并不依赖商店

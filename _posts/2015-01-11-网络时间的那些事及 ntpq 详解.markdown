@@ -27,7 +27,7 @@ tags:	[linuxcn,ntp,ntpq,网络时间协议,闰秒]
 想了解更多有关时间和 NTP 协议的知识，可以参考 “[The NTP FAQ, Time, what Time?](http://www.ntp.org/ntpfaq/NTP-s-time.htm)”和 [RFCs for NTP](http://www.ntp.org/rfc.html)。早期的“Network Time Protocol (Version 3) RFC” ([txt](http://www.ietf.org/rfc/rfc1305.txt), or [pdf](http://www.rfc-editor.org/rfc/rfc1305.pdf), Appendix E, The NTP Timescale and its Chronometry, p70) 包含了对过去 5000 年我们的计时系统的变化和关系的有趣解释。维基百科的文章 [Time](http://en.wikipedia.org/wiki/Time) 和 [Calendar](http://en.wikipedia.org/wiki/Calendar) 提供了更宏观的视角。
 
 
-![](/Asserts/Images//attachment/album/201501/14/140915fngkkks1xxnwlg7s.jpg)
+![](/Asserts/Images/album/201501/14/140915fngkkks1xxnwlg7s.jpg)
 
 
 命令 "ntpq -q" 输出下面这样的一个表：
@@ -216,7 +216,7 @@ NTP 软件维护一系列连续更新的频率变化的校正值。对于设置�
 * [ntpq – 标准 NTP 查询程序](http://www.eecis.udel.edu/%7Emills/ntp/html/ntpq.html)
 * [The Network Time Protocol (NTP) 分布](http://www.eecis.udel.edu/%7Emills/ntp/html/index.html)
 * NTP 的简明[历史](http://www.ntp.org/ntpfaq/NTP-s-def-hist.htm)
-* 一个更多细节的简明历史 “Mills, D.L., A brief history of NTP time: confessions of an Internet timekeeper. Submitted for publication; please do not cite or redistribute” ([pdf](http://www.eecis.udel.edu/%7Emills/Asserts/Images/base/papers/history.pdf))
+* 一个更多细节的简明历史 “Mills, D.L., A brief history of NTP time: confessions of an Internet timekeeper. Submitted for publication; please do not cite or redistribute” ([pdf](http://www.eecis.udel.edu/%7Emills/database/papers/history.pdf))
 * [NTP RFC](http://www.ntp.org/rfc.html) 标准文档
 * Network Time Protocol (Version 3) RFC – [txt](http://www.ietf.org/rfc/rfc1305.txt), or [pdf](http://www.rfc-editor.org/rfc/rfc1305.pdf). Appendix E, The NTP Timescale and its Chronometry, p70, 包含了对过去 5000 年我们的计时系统的变化和关系的有趣解释。
 * 维基百科: [Time](http://en.wikipedia.org/wiki/Time) 和 [Calendar](http://en.wikipedia.org/wiki/Calendar)

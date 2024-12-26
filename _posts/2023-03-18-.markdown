@@ -57,9 +57,9 @@ excerpt: 如果你打算把 Arch Linux 作为日常用机，你应该考虑一�
 fromurl: https://www.debugpoint.com/arch-linux-vs-other-distros/
 id: 15631
 islctt: true
-largepic: /Asserts/Images//attachment/album/202303/16/091648yt6xxdjnc5tttn1z.jpg
+largepic: /Asserts/Images/album/202303/16/091648yt6xxdjnc5tttn1z.jpg
 permalink: /article-15631-1.html
-pic: /Asserts/Images//attachment/album/202303/16/091648yt6xxdjnc5tttn1z.jpg.thumb.jpg
+pic: /Asserts/Images/album/202303/16/091648yt6xxdjnc5tttn1z.jpg.thumb.jpg
 related: []
 reviewer: wxy
 selector: lkxed
@@ -73,7 +73,7 @@ translator: wxy
 updated: '2023-03-16 09:16:00'
 ---
 
-![](/Asserts/Images//attachment/album/202303/16/091648yt6xxdjnc5tttn1z.jpg)
+![](/Asserts/Images/album/202303/16/091648yt6xxdjnc5tttn1z.jpg)
 
 
 
@@ -164,7 +164,7 @@ CentOS 以其稳定性、安全性和可靠性而闻名，被广泛用于企业�
 但最近，Arch Linux 团队通过 [archinstall](https://www.debugpoint.com/archinstall-guide/) 脚本推出了一个菜单驱动的、易于操作的安装程序。利用它并掌握一些基本知识，现在可以直接安装 Arch Linux 了。此外，Arch Linux 还提供了 [虚拟机和 Docker 镜像](https://archlinux.org/download/)，这对加快 Arch Linux 的部署非常有用。
 
 
-![archinstall 的最终分区表](/Asserts/Images//attachment/album/202303/16/091725gci847qerc0srraq.jpg)
+![archinstall 的最终分区表](/Asserts/Images/album/202303/16/091725gci847qerc0srraq.jpg)
 
 
 另一方面，Ubuntu、Linux Mint 和 Fedora 等发行版有图形化的安装向导，更容易使用，适合初学者。

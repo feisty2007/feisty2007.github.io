@@ -10,7 +10,7 @@ tags:	[linuxcn,命令行,磁盘]
 [Ncdu](http://dev.yorhel.nl/ncdu) (NCurses Disk Usage) 是一个基于Ncurses库的du命令的界面。它通过大家熟知的[du](http://www.unixmen.com/linux-basics-find-size-directory-commands/)命令，为用户提供一个快速且容易被使用的界面。它可以显示磁盘使用的百分比，且允许你使用ncurses库的方式在目录之间导航。
 
 
-![](/Asserts/Images//attachment/album/201407/28/205450x700yxvyveqijslx.png)
+![](/Asserts/Images/album/201407/28/205450x700yxvyveqijslx.png)
 
 
 ### 安装
@@ -28,7 +28,7 @@ sudo pacman -S ncdu
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/28/205452rwwwoz0oeopp7jbm.png)
+![](/Asserts/Images/album/201407/28/205452rwwwoz0oeopp7jbm.png)
 
 
 Ubuntu / Debian / Linux Minut 及其衍生版:
@@ -82,19 +82,19 @@ ncdu
 开始扫描目录.
 
 
-![](/Asserts/Images//attachment/album/201407/28/205453et20t329rklkqxkc.png)
+![](/Asserts/Images/album/201407/28/205453et20t329rklkqxkc.png)
 
 
 当扫描完成后，你能够很容易的看到文件/目录的大小.
 
 
-![](/Asserts/Images//attachment/album/201407/28/205455fwwmbzdhmhsb77xm.png)
+![](/Asserts/Images/album/201407/28/205455fwwmbzdhmhsb77xm.png)
 
 
 确认删除文件:
 
 
-![](/Asserts/Images//attachment/album/201407/28/205456jdfupuoz458w1dz5.png)
+![](/Asserts/Images/album/201407/28/205456jdfupuoz458w1dz5.png)
 
 
 在[这里](http://dev.yorhel.nl/ncdu/man) 阅读ncdu命令手册或运行:

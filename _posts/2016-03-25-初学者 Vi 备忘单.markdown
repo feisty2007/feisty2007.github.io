@@ -7,7 +7,7 @@ tags:	[linuxcn,vi]
 ---
 
 
-![](/Asserts/Images//attachment/album/201603/16/101901i1brrva4gm141wgs.jpg)
+![](/Asserts/Images/album/201603/16/101901i1brrva4gm141wgs.jpg)
 
 
 一直以来，我都在给你们分享我使用 Linux 的经验。今天我想分享我的 **Vi 备忘单**。这份备忘单节省了我很多时间，因为我再也不用使用 Google 去搜索这些命令了。

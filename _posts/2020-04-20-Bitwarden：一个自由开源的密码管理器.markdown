@@ -15,7 +15,7 @@ tags:	[linuxcn,密码管理器,Bitwarden]
 > 
 
 
-![](/Asserts/Images//attachment/album/202004/14/225804ktwtwthzzrhktgbk.jpg)
+![](/Asserts/Images/album/202004/14/225804ktwtwthzzrhktgbk.jpg)
 
 
 [Bitwarden](https://bitwarden.com/) 是一个自由开源的密码管理器。你可能还记得，我们之前将它列为 [Linux 中的最佳密码管理器](/article-11531-1.html)之一。
@@ -30,7 +30,7 @@ tags:	[linuxcn,密码管理器,Bitwarden]
 ### Bitwarden 密码管理器的特性
 
 
-![](/Asserts/Images//attachment/album/202004/14/225807emwxf17f7bq155z8.jpg)
+![](/Asserts/Images/album/202004/14/225807emwxf17f7bq155z8.jpg)
 
 
 [Bitwarden](https://bitwarden.com/) 是许多其他方便的密码管理器的不错替代品。
@@ -63,7 +63,7 @@ tags:	[linuxcn,密码管理器,Bitwarden]
 以下是定价（在编写本文时）：
 
 
-![](/Asserts/Images//attachment/album/202004/14/225811dso7kz88bxsrf77c.jpg)
+![](/Asserts/Images/album/202004/14/225811dso7kz88bxsrf77c.jpg)
 
 
 对于大多数个人来说，考虑到支持开源项目，10 美元/年的高级个人计划不应成为问题。当然，你也可以选择没有限制地免费使用。
@@ -72,7 +72,7 @@ tags:	[linuxcn,密码管理器,Bitwarden]
 ### 在 Linux 上安装 Bitwarden
 
 
-![](/Asserts/Images//attachment/album/202004/14/225813tyyxromf24molxse.png)
+![](/Asserts/Images/album/202004/14/225813tyyxromf24molxse.png)
 
 
 很容易将 Bitwarden 安装到你的 Linux 系统上，因为它提供了一个 .AppImage 文件。如果你还不知道[如何使用 AppImage](https://itsfoss.com/use-appimage-linux/) 文件，你可以参考我们的指南。

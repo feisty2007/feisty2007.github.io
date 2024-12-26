@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/17/100950k0x7hlv679g40xt6.png)
+![](/Asserts/Images/album/202110/17/100950k0x7hlv679g40xt6.png)
 
 
 你可能已经知道这个故事，30 年前，芬兰学生 Linus Torvalds 开发了一个业余项目，创建了一个类 UNIX 操作系统。

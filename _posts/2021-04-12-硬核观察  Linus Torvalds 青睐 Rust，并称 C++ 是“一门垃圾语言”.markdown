@@ -7,13 +7,13 @@ tags:	[linuxcn,Rust,Edge,FTP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202104/18/185132kgjpx1p37p3jgg3f.jpg)
+![](/Asserts/Images/album/202104/18/185132kgjpx1p37p3jgg3f.jpg)
 
 
 ### Linus Torvalds 青睐 Rust，并称 C++ 是“一门垃圾语言”
 
 
-![](/Asserts/Images//attachment/album/202104/18/184432z0g11sffq9p10nes.jpg)
+![](/Asserts/Images/album/202104/18/184432z0g11sffq9p10nes.jpg)
 
 
 谷歌现在支持用 Rust 来开发安卓操作系统，也在[评估](https://security.googleblog.com/2021/04/rust-in-linux-kernel.html)将 Rust 用于 Linux 内核的开发。Linux 创始人 Linus Torvalds 对此[表示](https://itwire.com/open-source/rust-support-in-linux-may-be-possible-by-5-14-release-torvalds.html)，“目前 Linux 内核对 Rust 的支持还没到位，或许需要等到 5.14 时。”在 Linux 内核中支持 Rust 的第一个补丁已经发布了，已经为之后的支持打好了基础。
@@ -28,7 +28,7 @@ Torvalds 对 C++ 是深恶痛绝的，看来 Rust 有望成为 Torvalds 的新�
 ### 微软正在统一所有平台的 Edge 代码库
 
 
-![](/Asserts/Images//attachment/album/202104/18/184642h7xwx1c3wnnmkf8g.jpg)
+![](/Asserts/Images/album/202104/18/184642h7xwx1c3wnnmkf8g.jpg)
 
 
 当微软推出 PC 上的新的基于 Chromium 的 Edge 浏览器时，它还改变了 iOS 和安卓上的 Edge 浏览器的徽标，让人觉得这是一个统一的新 Edge 家族。但实际情况是，iOS 和安卓上的 Edge 浏览器和 PC 上的并不一样。在 iOS 上，Edge 浏览器目前使用的是 WebKit 渲染引擎，而在安卓上使用的是 Blink 渲染引擎。
@@ -43,7 +43,7 @@ Torvalds 对 C++ 是深恶痛绝的，看来 Rust 有望成为 Torvalds 的新�
 ### FTP 协议诞生五十周年
 
 
-![](/Asserts/Images//attachment/album/202104/18/184956i28a9cedencsq1d6.jpg)
+![](/Asserts/Images/album/202104/18/184956i28a9cedencsq1d6.jpg)
 
 
 1971 年 4 月 16 日是 [RFC 114](https://tools.ietf.org/html/rfc114) 文档的发表日期，它标志着 FTP 协议的[诞生](https://www.filestash.app/2021/04/16/ftp-is-50-years-old/)。当时 TCP/IP 还不存在，telnet 还很新鲜。后来 FTP 陆续加入了对 TCP/IP 的支持、引入了安全扩展 FTPS、支持 IPv6 等等。

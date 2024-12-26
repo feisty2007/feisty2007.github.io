@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes]
 > 
 
 
-![](/Asserts/Images//attachment/album/201906/24/012846v737bts00uwk3qd7.jpg)
+![](/Asserts/Images/album/201906/24/012846v737bts00uwk3qd7.jpg)
 
 
 这篇文章写于 Kubernetes 的生日（6 月 7 日星期五）前夕。

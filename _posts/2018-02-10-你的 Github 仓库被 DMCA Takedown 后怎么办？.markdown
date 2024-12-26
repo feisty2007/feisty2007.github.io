@@ -7,7 +7,7 @@ tags:	[linuxcn,GitHub,DMCA]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/23/021721tniukydfunnyikai.jpg)
+![](/Asserts/Images/album/201802/23/021721tniukydfunnyikai.jpg)
 
 
 ### 仓库被封禁

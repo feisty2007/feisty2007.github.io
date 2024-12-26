@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,手机]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/16/223200twnznw1l0cwwgwpo.jpg)
+![](/Asserts/Images/album/201405/16/223200twnznw1l0cwwgwpo.jpg)
 
 
 **现在在手机上测试Ubuntu变得更加简单，可以从Canonical上下载一个程序，它可以安装新的操作系统而不必删除原有的Andorid。能够双启动的系统可以吸引更多的用户关注手机/平板上的新开源平台。**

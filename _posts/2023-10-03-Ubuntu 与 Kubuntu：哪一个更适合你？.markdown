@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Kubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/08/104715hv9msvt1segmozs4.jpg)
+![](/Asserts/Images/album/202310/08/104715hv9msvt1segmozs4.jpg)
 
 
 
@@ -47,7 +47,7 @@ Ubuntu 是桌面用户最选择的 Linux 发行版。其特色是一个定制的
 Ubuntu 的特色在于使用了 [GNOME](https://www.gnome.org/) 桌面的定制外观。对于新的 Linux 用户来说，这个布局独特且易用。
 
 
-![Ubuntu 23.04 主屏幕截图](/Asserts/Images//attachment/album/202310/08/104749utsnetjmymr8f4z4.jpg)
+![Ubuntu 23.04 主屏幕截图](/Asserts/Images/album/202310/08/104749utsnetjmymr8f4z4.jpg)
 
 
 它并不与 Fedora Linux 的原生 GNOME 体验完全相同。Ubuntu 的桌面环境体验经过了一些改动。
@@ -56,7 +56,7 @@ Ubuntu 的特色在于使用了 [GNOME](https://www.gnome.org/) 桌面的定制�
 Kubuntu 提供了原生的 [KDE Plasma](https://kde.org/plasma-desktop/) 体验。对于从 Windows 平台转换来的用户，布局会感到相当熟悉，包含开始菜单、系统小工具等等。
 
 
-![Kubuntu 23.04 截图](/Asserts/Images//attachment/album/202310/08/104834ucvzpvr9epamqv6e.jpg)
+![Kubuntu 23.04 截图](/Asserts/Images/album/202310/08/104834ucvzpvr9epamqv6e.jpg)
 
 
 如果你尝试过任何其他带有 KDE Plasma 桌面的发行版，其体验应该差不多。
@@ -68,13 +68,13 @@ Kubuntu 提供了原生的 [KDE Plasma](https://kde.org/plasma-desktop/) 体验�
 为了进行更多的参考，下面是 Ubuntu 的登录页面所呈现的样子：
 
 
-![](/Asserts/Images//attachment/album/202310/08/104750ey5may4q5c5z0qgy.jpg)
+![](/Asserts/Images/album/202310/08/104750ey5may4q5c5z0qgy.jpg)
 
 
 接下来，我们看一下带有 X11 桌面会话的 Kubuntu 登录屏幕：
 
 
-![](/Asserts/Images//attachment/album/202310/08/104750eryitrhx1eajn3to.jpg)
+![](/Asserts/Images/album/202310/08/104750eryitrhx1eajn3to.jpg)
 
 
 此外，我为你提供了一份详细的指南，如果你想深入研究，可以参考这份 [KDE 与 GNOME](https://itsfoss.com/kde-vs-gnome/) 的对比指南：
@@ -111,13 +111,13 @@ Kubuntu 提供了原生的 [KDE Plasma](https://kde.org/plasma-desktop/) 体验�
 但是，你用来管理或安装应用程序的应用商店在每个版本中都是不同的。
 
 
-![](/Asserts/Images//attachment/album/202310/08/104750khlsfl6sfxf6b8h5.png)
+![](/Asserts/Images/album/202310/08/104750khlsfl6sfxf6b8h5.png)
 
 
 对于 Ubuntu，它使用 <ruby> 软件中心 <rt>  Software Center </rt></ruby> 或者 <ruby> Ubuntu 应用中心 <rt>  Ubuntu App Center </rt></ruby>（从 [Ubuntu 23.10](https://news.itsfoss.com/ubuntu-23-10/) 开始的新版本），默认集成了 Snap。因此，如果你更倾向于使用 Snap 而不是 Flatpak，Ubuntu 就可以提供以无缝的安装体验。
 
 
-![](/Asserts/Images//attachment/album/202310/08/104751uf7qinrq5ewfjkoi.png)
+![](/Asserts/Images/album/202310/08/104751uf7qinrq5ewfjkoi.png)
 
 
 想要使用 Flathub 的包，你可以按照我们的 [Flatpak 使用指南](https://itsfoss.com/flatpak-guide/) 进行操作，但 Ubuntu 的软件管理器并未提供整合。
@@ -126,7 +126,7 @@ Kubuntu 提供了原生的 [KDE Plasma](https://kde.org/plasma-desktop/) 体验�
 提及 Kubuntu，你得到的软件管理器是 “<ruby> 发现 <rt>  Discover </rt></ruby>” 应用。你也可以从软件仓库以及 Snap 包中安装应用。
 
 
-![](/Asserts/Images//attachment/album/202310/08/104751vp6g0zonmngom89d.png)
+![](/Asserts/Images/album/202310/08/104751vp6g0zonmngom89d.png)
 
 
 与 Ubuntu 的软件商店相较，“发现”应用在轻松整合 Flatpak 方面更具**灵活性**。
@@ -135,7 +135,7 @@ Kubuntu 提供了原生的 [KDE Plasma](https://kde.org/plasma-desktop/) 体验�
 你只需多击几下，就可以在设置菜单中通过 **Flatpak 后端插件** 在“发现”应用里列出来自 Flathub 的应用。
 
 
-![](/Asserts/Images//attachment/album/202310/08/104752xgem6g3t83g34nen.jpg)
+![](/Asserts/Images/album/202310/08/104752xgem6g3t83g34nen.jpg)
 
 
 ### 软件与功能点差异
@@ -144,13 +144,13 @@ Kubuntu 提供了原生的 [KDE Plasma](https://kde.org/plasma-desktop/) 体验�
 有些用户更注重在特定发行版中能做什么，以及开箱即用的软件工具。
 
 
-![Kubuntu 中的屏幕截图操作](/Asserts/Images//attachment/album/202310/08/104752sd0d86xk8xi9d0dx.jpg)
+![Kubuntu 中的屏幕截图操作](/Asserts/Images/album/202310/08/104752sd0d86xk8xi9d0dx.jpg)
 
 
 他们并不在意桌面布局或锁屏和登录屏幕的界面如何。他们只在乎**功能特性**，就如你在这里看到的图片展示的那样。
 
 
-![Ubuntu 的快速切换菜单](/Asserts/Images//attachment/album/202310/08/104752oww3s6dcwb4hldkw.jpg)
+![Ubuntu 的快速切换菜单](/Asserts/Images/album/202310/08/104752oww3s6dcwb4hldkw.jpg)
 
 
 
@@ -222,10 +222,10 @@ Kubuntu 提供了原生的 [KDE Plasma](https://kde.org/plasma-desktop/) 体验�
 以下是 Kubuntu 的截图：
 
 
-![](/Asserts/Images//attachment/album/202310/08/104752yw7v566l5nr7cahz.jpg)
+![](/Asserts/Images/album/202310/08/104752yw7v566l5nr7cahz.jpg)
 
 
-![](/Asserts/Images//attachment/album/202310/08/104752na4x6z686k646kd4.jpg)
+![](/Asserts/Images/album/202310/08/104752na4x6z686k646kd4.jpg)
 
 
 尽管它们的界面有所不同，但安装过程都极其简便。
@@ -234,10 +234,10 @@ Kubuntu 提供了原生的 [KDE Plasma](https://kde.org/plasma-desktop/) 体验�
 这里是 Ubuntu 的一个安装界面截图：
 
 
-![](/Asserts/Images//attachment/album/202310/08/104752jyxqb5x9ll0959dl.png)
+![](/Asserts/Images/album/202310/08/104752jyxqb5x9ll0959dl.png)
 
 
-![](/Asserts/Images//attachment/album/202310/08/104752ahy27t27bdd1dr9y.png)
+![](/Asserts/Images/album/202310/08/104752ahy27t27bdd1dr9y.png)
 
 
 Ubuntu 近期发布的版本极大地改进了安装器的用户体验。所以，用户在点击步骤进行安装时，可能会觉得更加简洁明了。
@@ -246,7 +246,7 @@ Ubuntu 近期发布的版本极大地改进了安装器的用户体验。所以�
 例如，安装 Ubuntu 后，你或许可以立即选择深色或浅色模式，然而在 Kubuntu 中这样的选项并不可用。
 
 
-![](/Asserts/Images//attachment/album/202310/08/104753rju7ku4ouu90uj0h.png)
+![](/Asserts/Images/album/202310/08/104753rju7ku4ouu90uj0h.png)
 
 
 ### 系统资源使用
@@ -261,13 +261,13 @@ Ubuntu 的 GNOME 则设计得直观，为你提供了顺畅的用户体验。
 举个例子，基于我的测试，Ubuntu 在启动后会马上占用大约 **1.5 GB 的内存**：
 
 
-![](/Asserts/Images//attachment/album/202310/08/104753w82yo4ya92b4dd7y.png)
+![](/Asserts/Images/album/202310/08/104753w82yo4ya92b4dd7y.png)
 
 
 而在 Kubuntu 中，启动后占用的内存约为 1.2 GB：
 
 
-![](/Asserts/Images//attachment/album/202310/08/104753nhyyaxrynqryhdpu.png)
+![](/Asserts/Images/album/202310/08/104753nhyyaxrynqryhdpu.png)
 
 
 没错，Kubuntu 的系统监控看起来功能稍多一些。但这就是全部了。

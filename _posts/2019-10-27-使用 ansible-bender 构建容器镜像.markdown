@@ -15,7 +15,7 @@ tags:	[linuxcn,Ansible,容器]
 > 
 
 
-![](/Asserts/Images//attachment/album/201910/30/090738vzbifzfpa6qz9bij.jpg)
+![](/Asserts/Images/album/201910/30/090738vzbifzfpa6qz9bij.jpg)
 
 
 容器和 [Ansible](https://www.ansible.com/) 可以很好地融合在一起：从管理和编排到供应和构建。在本文中，我们将重点介绍构建部分。

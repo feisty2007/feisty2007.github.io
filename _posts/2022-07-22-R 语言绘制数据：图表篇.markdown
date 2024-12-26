@@ -7,7 +7,7 @@ tags:	[linuxcn,R 语言,图表]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/15/155129rsfee22secwyii8w.jpg)
+![](/Asserts/Images/album/202207/15/155129rsfee22secwyii8w.jpg)
 
 
 R 语言有非常多的绘图和数据可视化的包，比如 `graphics`、`lattice`、`ggplot2` 等。这是 R 语言系列的第 9 篇文章，我们会介绍 R 中用来绘图的各种函数。
@@ -32,7 +32,7 @@ R 是自由软件，没有任何担保责任。只要遵守 GNU 通用公共许�
 ### 折线图
 
 
-我们以印度全境消费者物价指数（CPI -- 乡村/城市）数据集为研究对象，它可以从 <https://Asserts/Images/.gov.in/catalog/all-india-consumer-price-index-ruralurban-0> 下载。选择“截止到 2021 年 11 月” 的版本，用 `read.csv` 函数读取下载好的文件，如下所示：
+我们以印度全境消费者物价指数（CPI -- 乡村/城市）数据集为研究对象，它可以从 <https://data.gov.in/catalog/all-india-consumer-price-index-ruralurban-0> 下载。选择“截止到 2021 年 11 月” 的版本，用 `read.csv` 函数读取下载好的文件，如下所示：
 
 
 
@@ -100,7 +100,7 @@ Group.1 x
 结果如图 1。
 
 
-![Figure 1: Line chart](/Asserts/Images//attachment/album/202207/15/155305d7rukd28pnpzugap.jpg)
+![Figure 1: Line chart](/Asserts/Images/album/202207/15/155305d7rukd28pnpzugap.jpg)
 
 
 ### 自相关图
@@ -115,7 +115,7 @@ acf(punjab$x,main='x')
 
 ```
 
-![Figure 2: ACF chart](/Asserts/Images//attachment/album/202207/15/155305zwqz9b1ason4oih9.jpg)
+![Figure 2: ACF chart](/Asserts/Images/album/202207/15/155305zwqz9b1ason4oih9.jpg)
 
 
 `acf` 函数可以传入以下参数：
@@ -145,7 +145,7 @@ R 中画柱状图的函数是 `barplot`。下面的代码用来画 Punjab 州 CP
 
 ```
 
-![Figure 3: Line chart of Punjab's CPI](/Asserts/Images//attachment/album/202207/15/155305c5moccrnximxndch.jpg)
+![Figure 3: Line chart of Punjab's CPI](/Asserts/Images/album/202207/15/155305c5moccrnximxndch.jpg)
 
 
 `barplot` 函数的使用方法非常灵活，可以传入以下参数：
@@ -234,7 +234,7 @@ Usage:
 
 ```
 
-![Figure 4: Pie chart](/Asserts/Images//attachment/album/202207/15/155306q88xuqdkcium8eu8.jpg)
+![Figure 4: Pie chart](/Asserts/Images/album/202207/15/155306q88xuqdkcium8eu8.jpg)
 
 
 `pie` 函数可以传入以下参数：
@@ -292,7 +292,7 @@ Usage:
 
 ```
 
-![Figure 5: Box plot](/Asserts/Images//attachment/album/202207/15/155306vgc2inwjju6induk.jpg)
+![Figure 5: Box plot](/Asserts/Images/album/202207/15/155306vgc2inwjju6induk.jpg)
 
 
 ### QQ 图
@@ -307,7 +307,7 @@ Usage:
 
 ```
 
-![Figure 6: Q-Q plot](/Asserts/Images//attachment/album/202207/15/155306mr8da74db9j999ra.jpg)
+![Figure 6: Q-Q plot](/Asserts/Images/album/202207/15/155306mr8da74db9j999ra.jpg)
 
 
 `qqline` 函数可以向正态分布 QQ 图上添加理论分布曲线，它可以传入以下参数：
@@ -338,7 +338,7 @@ Usage:
 
 ```
 
-![Figure 7: Volcano](/Asserts/Images//attachment/album/202207/15/155307izljw1w1wwm40kdf.jpg)
+![Figure 7: Volcano](/Asserts/Images/album/202207/15/155307izljw1w1wwm40kdf.jpg)
 
 
 `contour` 函数的常用参数如下：
@@ -375,7 +375,7 @@ Usage:
 填充结果见图 8。
 
 
-![Figure 8: Filled volcano](/Asserts/Images//attachment/album/202207/15/155307wdncrqrwrcrwgh3p.jpg)
+![Figure 8: Filled volcano](/Asserts/Images/album/202207/15/155307wdncrqrwrcrwgh3p.jpg)
 
 
 掌握上述内容后，你可以尝试 R 语言 `graphics` 包中的其他函数和图表（LCTT 译注：用 `help(package=graphics)` 可以查看 graphics 包提供的函数列表）。

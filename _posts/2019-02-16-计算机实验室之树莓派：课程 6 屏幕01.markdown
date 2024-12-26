@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派,屏幕]
 ---
 
 
-![](/Asserts/Images//attachment/album/201902/16/145001egq5zxwgy7o3qrj7.jpg)
+![](/Asserts/Images/album/201902/16/145001egq5zxwgy7o3qrj7.jpg)
 
 
 欢迎来到屏幕系列课程。在本系列中，你将学习在树莓派中如何使用汇编代码控制屏幕，从显示随机数据开始，接着学习显示一个固定的图像和显示文本，然后格式化数字为文本。假设你已经完成了 OK 系列课程的学习，所以在本系列中出现的有些知识将不再重复。

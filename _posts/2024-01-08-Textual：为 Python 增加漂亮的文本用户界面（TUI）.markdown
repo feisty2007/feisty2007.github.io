@@ -7,7 +7,7 @@ tags:	[linuxcn,Textual,TUI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/15/110359fptrxpqffztniz45.jpg)
+![](/Asserts/Images/album/202401/15/110359fptrxpqffztniz45.jpg)
 
 
 ### 快速入门使用 Textual
@@ -83,7 +83,7 @@ pip install --upgrade KodegeekTextualize
 ### 我们的首个程序：日志浏览器
 
 
-![](/Asserts/Images//attachment/album/202401/15/110439y6oo97pb89989wwh.svg)
+![](/Asserts/Images/album/202401/15/110439y6oo97pb89989wwh.svg)
 
 
 这个 *日志浏览器* 就是一款简单的应用，能执行用户 *[PATH](https://manpages.org/bash)* 路径上的一系列 UNIX 命令，并在任务执行完毕后捕获输出。
@@ -223,7 +223,7 @@ Button {
 #### 在新屏幕上展示结果
 
 
-![](/Asserts/Images//attachment/album/202401/15/110439yqdsozs9m2qhms2m.svg)
+![](/Asserts/Images/album/202401/15/110439yqdsozs9m2qhms2m.svg)
 
 
 以下是在新屏幕上处理输出的代码：
@@ -334,7 +334,7 @@ class LogScreen(ModalScreen):
 ### 示例二：展示赛事成绩的表格
 
 
-![通过 Textual 创建的表格应用](/Asserts/Images//attachment/album/202401/15/110439oercynysjncnku7y.svg)
+![通过 Textual 创建的表格应用](/Asserts/Images/album/202401/15/110439oercynysjncnku7y.svg)
 
 
 本示例将展示如何使用 `DataTable` 组件在表格中展示赛事成绩。你能通过这个应用实现：
@@ -452,7 +452,7 @@ if __name__ == "__main__":
 有哪些部分值得我们关注呢？
 
 
-1. `compose` 方法中添加了 [表头](https://textual.textualize.io/widgets/header/)，“命令面板” 就位于此处，我们的表格（[DataTable](https://textual.textualize.io/widgets/Asserts/Images/_table/#guide)）也在这里。表格数据在 `mount` 方法中填充。
+1. `compose` 方法中添加了 [表头](https://textual.textualize.io/widgets/header/)，“命令面板” 就位于此处，我们的表格（[DataTable](https://textual.textualize.io/widgets/data_table/#guide)）也在这里。表格数据在 `mount` 方法中填充。
 2. 我们设定了预期的绑定（`BINDINGS`），并指定了外部的 CSS 文件来设置样式（`CSS_PATH`）。
 3. 默认情况下，我们无需任何设置便能使用 [命令面板](https://textual.textualize.io/guide/command_palette/)，但在此我们显式启用了它（`ENABLE_COMMAND_PALETTE = True`）。
 4. 我们的应用有一个自定义表格搜索功能。当用户输入一名选手的名字后，应用会显示可能的匹配项，用户可以点击匹配项查看该选手的详细信息。这需要告诉应用我们有一个定制的命令提供者（`COMMANDS = App.COMMANDS | {CustomCo_ mmand}`），即类 `CustomCommand(Provider)`。
@@ -466,7 +466,7 @@ if __name__ == "__main__":
 #### 利用多屏展示复杂视图
 
 
-![](/Asserts/Images//attachment/album/202401/15/110439ot0st0qqqzc395am.svg)
+![](/Asserts/Images/album/202401/15/110439ot0st0qqqzc395am.svg)
 
 
 当用户选择表格中的一行，`on_row_clicked` 方法就会被调用。它收到的是一个 `DataTable.RowSelected` 类型的事件。从这里我们会用选中的行的内容构建一个 `DetailScreen(ModalScreen)` 类的实例：
@@ -534,7 +534,7 @@ class DetailScreen(ModalScreen):
 #### 命令面板的搜索功能
 
 
-![](/Asserts/Images//attachment/album/202401/15/110440xepv8skxe8ueuu8e.svg)
+![](/Asserts/Images/album/202401/15/110440xepv8skxe8ueuu8e.svg)
 
 
 任何使用了表头的 Textual 应用都默认开启了 [命令面板](https://textual.textualize.io/guide/command_palette/)。有意思的是，你可以在 `CompetitorsApp` 类中添加自定义的命令，这会增加到默认命令集之上：

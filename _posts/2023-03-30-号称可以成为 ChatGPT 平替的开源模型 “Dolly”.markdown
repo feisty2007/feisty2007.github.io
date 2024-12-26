@@ -15,7 +15,7 @@ tags:	[linuxcn,ChatGPT,AI]
 > 
 
 
-![open source model dolly](/Asserts/Images//attachment/album/202303/31/095413k2xax88kyki1jqg8.jpg)
+![open source model dolly](/Asserts/Images/album/202303/31/095413k2xax88kyki1jqg8.jpg)
 
 
 Databricks 这家软件公司，在各个领域都有所建树，尤其是在数据仓库和基于人工智能的解决方案方面。
@@ -45,7 +45,7 @@ Databricks 这家软件公司，在各个领域都有所建树，尤其是在数
 下面是他们展示的其中一个例子：
 
 
-![a screenshot of how dolly performs in an open question and answer scenario](/Asserts/Images//attachment/album/202303/31/095418ryvn7bib74vi79r9.jpg)
+![a screenshot of how dolly performs in an open question and answer scenario](/Asserts/Images/album/202303/31/095418ryvn7bib74vi79r9.jpg)
 
 
 原始模型使用了 [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html?ref=its-foss-news) 的数据，该模型由斯坦福大学以 Meta 的 [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/?ref=its-foss-news) LLM 为基础建立。
@@ -74,7 +74,7 @@ Databricks 这家软件公司，在各个领域都有所建树，尤其是在数
 当然，但有一个问题。
 
 
-你必须 **使用他们的平台来使用 Dolly**，他们已经开源了一个 [Databricks 笔记本](https://github.com/Asserts/Images/brickslabs/dolly?ref=its-foss-news)，可以帮助你在 Databricks 上构建它。
+你必须 **使用他们的平台来使用 Dolly**，他们已经开源了一个 [Databricks 笔记本](https://github.com/databrickslabs/dolly?ref=its-foss-news)，可以帮助你在 Databricks 上构建它。
 
 
 此外，如果你想获得训练好的权重，你必须联系他们。不过我不确定他们是否会免费提供使用权。

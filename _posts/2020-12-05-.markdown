@@ -9,9 +9,9 @@ tags:	[linuxcn,]
 ragging-divs-around/
 id: 12890
 islctt: true
-largepic: /Asserts/Images//attachment/album/202012/05/212345zz8jajhaj0hh8h2f.jpg
+largepic: /Asserts/Images/album/202012/05/212345zz8jajhaj0hh8h2f.jpg
 permalink: /article-12890-1.html
-pic: /Asserts/Images//attachment/album/202012/05/212345zz8jajhaj0hh8h2f.jpg.thumb.jpg
+pic: /Asserts/Images/album/202012/05/212345zz8jajhaj0hh8h2f.jpg.thumb.jpg
 related:
 - displayorder: 0
   raid: 12884
@@ -27,7 +27,7 @@ translator: wxy
 updated: '2020-12-05 21:24:53'
 ---
 
-![](/Asserts/Images//attachment/album/202012/05/212345zz8jajhaj0hh8h2f.jpg)
+![](/Asserts/Images/album/202012/05/212345zz8jajhaj0hh8h2f.jpg)
 
 
 大家好！今天是我搭建这个玩具项目的第 2 天。下面再来记录一下关于 Rails 的一些有趣的事情吧！

@@ -7,7 +7,7 @@ tags:	[linuxcn,inetd,services]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/20/121500zzzcic6ikkz4m7fc.jpg)
+![](/Asserts/Images/album/201901/20/121500zzzcic6ikkz4m7fc.jpg)
 
 
 这篇文章将帮助你了解 Linux 中 `/etc/services` 文件，包括它的内容，格式以及重要性。

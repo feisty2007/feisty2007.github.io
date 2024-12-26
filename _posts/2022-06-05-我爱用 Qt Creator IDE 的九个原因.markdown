@@ -15,7 +15,7 @@ tags:	[linuxcn,Qt Creator,Qt]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/27/192023otvmu77tl808lltl.jpg "Woman using laptop concentrating")
+![](/Asserts/Images/album/202206/27/192023otvmu77tl808lltl.jpg "Woman using laptop concentrating")
 
 
 Qt Creator 是 Qt 框架的默认集成开发环境（IDE），同时也是丰富的 Qt 库和用户之前的粘合剂。除了如智能代码补全、调试、项目管理等基础功能外，Qt Creator 还提供了很多让软件开发变得更简单的特性。
@@ -33,7 +33,7 @@ Qt Creator 是 Qt 框架的默认集成开发环境（IDE），同时也是丰�
 你可以在“<ruby> 选项 <rt>  Options </rt></ruby>”菜单中激活深色模式。在顶部的菜单栏中，点击“<ruby> 工具 <rt>  Tools </rt></ruby>”，选择“<ruby> 选项 <rt>  Options </rt></ruby>”，然后转到“<ruby> 环境 <rt>  Environment </rt></ruby>”部分。下面是你能选择的常用外观：
 
 
-![QT Creator 深色模式](/Asserts/Images//attachment/album/202206/27/192030vhoxx3wq5zoaimuu.png " QT Creator dark mode")
+![QT Creator 深色模式](/Asserts/Images/album/202206/27/192030vhoxx3wq5zoaimuu.png " QT Creator dark mode")
 
 
 ### 定制外观
@@ -66,7 +66,7 @@ qtcreator -stylesheet=mycustomstylesheet.css
 IDE 现在看上去应该会变成这样：
 
 
-![QT Creator 定制样式表](/Asserts/Images//attachment/album/202206/27/192031dgcjzzo8g8zsuebc.png "QT Creator custom stylesheet")
+![QT Creator 定制样式表](/Asserts/Images/album/202206/27/192031dgcjzzo8g8zsuebc.png "QT Creator custom stylesheet")
 
 
 在这份 [文档](https://doc.qt.io/qt-5/stylesheet-reference.html) 中可以查阅更多的样式表。
@@ -105,13 +105,13 @@ Qt Creator 和一般的 Qt 应用无二，所以，除了自己的命令行参�
 Qt Creator 允许你定义一些被称为“<ruby> 配套 <rt>  Kit </rt></ruby>”的工具链。 “配套” 定义了构建和运行应用所需要的二进制库和 SDK。
 
 
-![QT Creator kits](/Asserts/Images//attachment/album/202206/27/192032tf5hvohuvd44bb5o.png "QT Creator kits")
+![QT Creator kits](/Asserts/Images/album/202206/27/192032tf5hvohuvd44bb5o.png "QT Creator kits")
 
 
 这使得你通过两次点击，就在完全不同的工具链之间切换。
 
 
-![在 Qt Creator 中切换配套](/Asserts/Images//attachment/album/202206/27/192032l222okur2oo9hry0.png "Switching between Kits in Qt Creator")
+![在 Qt Creator 中切换配套](/Asserts/Images/album/202206/27/192032l222okur2oo9hry0.png "Switching between Kits in Qt Creator")
 
 
 在这份 [手册](https://doc.qt.io/qtcreator/creator-targets.html) 中可以查阅更多关于配套的内容。
@@ -128,7 +128,7 @@ Qt Creator 集成了一些最流行的性能分析工具，例如：
 * [Clang-Tidy 和 Clazy](https://doc.qt.io/qtcreator/creator-clang-tools.html)，一种检查 C/C++ 的 <ruby> 静态分析器 <rt>  Linter </rt></ruby>
 
 
-![Qt Creator 分析工具](/Asserts/Images//attachment/album/202206/27/192032nltwha2hra2lvftx.png "Qt Creator analyzer")
+![Qt Creator 分析工具](/Asserts/Images/album/202206/27/192032nltwha2hra2lvftx.png "Qt Creator analyzer")
 
 
 ### 调试器
@@ -137,7 +137,7 @@ Qt Creator 集成了一些最流行的性能分析工具，例如：
 在调试方面，Qt Creator 为 GNU Debugger（GDB）配备了一个很好的界面。我喜欢它检查容器类型和创建条件断点的方式，很简单。
 
 
-![Qt Creator 调试器](/Asserts/Images//attachment/album/202206/27/192033usntj3uougu6s6wp.png "Qt Creator debugger")
+![Qt Creator 调试器](/Asserts/Images/album/202206/27/192033usntj3uougu6s6wp.png "Qt Creator debugger")
 
 
 ### FakeVim
@@ -149,13 +149,13 @@ Qt Creator 集成了一些最流行的性能分析工具，例如：
 举个例子，你可以将“<ruby> 构建项目 <rt>  Build Project </rt></ruby>”的功能和 `build` 命令关联到一起：
 
 
-![Qt Creator中的FakeVim](/Asserts/Images//attachment/album/202206/27/192033x6noddpmvdggqzfa.png "FakeVim in Qt Creator")
+![Qt Creator中的FakeVim](/Asserts/Images/album/202206/27/192033x6noddpmvdggqzfa.png "FakeVim in Qt Creator")
 
 
 回到编辑器中，当你按下冒号（`:`）并输入 `build`，Qt Creator 利用配置的工具链，开始进行构建：
 
 
-![Qt Creator中的FakeVim](/Asserts/Images//attachment/album/202206/27/192034vbddshw4o35yyobb.png "FakeVim in Qt Creator")
+![Qt Creator中的FakeVim](/Asserts/Images/album/202206/27/192034vbddshw4o35yyobb.png "FakeVim in Qt Creator")
 
 
 你可以在这份 [文档](https://doc.qt.io/qtcreator/creator-editor-fakevim.html) 中找到 FakeVim 的更多信息。
@@ -167,7 +167,7 @@ Qt Creator 集成了一些最流行的性能分析工具，例如：
 当使用 C++ 开发时，点击 Qt Creator 右下角的按钮可打开右边的窗口。然后在窗口顶部拉下的菜单中选择“<ruby> 大纲 <rt>  Outline </rt></ruby>”。如果你在左侧窗体中有头文件打开，你可以很好地纵览定义的类和类型。如果你切换到源文件中（`*.cpp`），右侧窗体会列出所有定义的方法，双击其中一个，你可以跳转到这个方法：
 
 
-![Qt Creator 中的类列表](/Asserts/Images//attachment/album/202206/27/192035ro53ou1zi8xm58np.png "List of classes in Qt Creator")
+![Qt Creator 中的类列表](/Asserts/Images/album/202206/27/192035ro53ou1zi8xm58np.png "List of classes in Qt Creator")
 
 
 ### 项目配置
@@ -194,7 +194,7 @@ DEFINES += MY_SPECIAL_CONFIG
 Qt Creator 自动根据当前配置设置代码高亮：
 
 
-![Qt Creator 的特殊配置](/Asserts/Images//attachment/album/202206/27/192036u4e7g72baeed7xd4.png "Special configuration in Qt Creator")
+![Qt Creator 的特殊配置](/Asserts/Images/album/202206/27/192036u4e7g72baeed7xd4.png "Special configuration in Qt Creator")
 
 
 `*.pro-file` 使用 [qmake 语言](https://doc.qt.io/qt-5/qmake-language.html) 进行编写。

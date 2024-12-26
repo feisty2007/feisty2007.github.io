@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,加密,Lindows]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/07/182729pkezqcmionvmx6n5.jpg)
+![](/Asserts/Images/album/202301/07/182729pkezqcmionvmx6n5.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/07/182736wd0qf30ezh00fq0q.jpg)
+![](/Asserts/Images/album/202301/07/182736wd0qf30ezh00fq0q.jpg)
 
 
 ### 人工智能律师将首次参与法庭辩护
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,加密,Lindows]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/07/182747kzc37vmwta9m2zmv.jpg)
+![](/Asserts/Images/album/202301/07/182747kzc37vmwta9m2zmv.jpg)
 
 
 ### 亚马逊 S3 现在将默认用 AES-256 加密所有新数据
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,加密,Lindows]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/07/182800dc7vtfosm9a57otu.jpg)
+![](/Asserts/Images/album/202301/07/182800dc7vtfosm9a57otu.jpg)
 
 
 ### 曾经的 Lindows 发布 Linspire 12 Alpha

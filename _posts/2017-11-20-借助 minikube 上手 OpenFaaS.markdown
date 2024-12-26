@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,OpenFaaS,minikube,Serverless]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/23/163035naykmjmb00z8ugpo.png)
+![](/Asserts/Images/album/201711/23/163035naykmjmb00z8ugpo.png)
 
 
 本文将介绍如何借助 [minikube](https://kubernetes.io/docs/getting-started-guides/minikube/) 在 Kubernetes 1.8 上搭建 OpenFaaS（让 Serverless Function 变得更简单）。minikube 是一个 [Kubernetes](https://kubernetes.io/) 分发版，借助它，你可以在笔记本电脑上运行 Kubernetes 集群，minikube 支持 Mac 和 Linux 操作系统，但是在 MacOS 上使用得更多一些。
@@ -21,7 +21,7 @@ tags:	[linuxcn,容器,OpenFaaS,minikube,Serverless]
 > 
 
 
-![](/Asserts/Images//attachment/album/201711/23/163118ezppccze17o84exx.png)
+![](/Asserts/Images/album/201711/23/163118ezppccze17o84exx.png)
 
 
 ### 安装部署 Minikube
@@ -120,7 +120,7 @@ Prometheus 和 AlertManager 进程协同工作，实现 OpenFaaS Function 的弹
 Prometheus 仪表盘示例：
 
 
-![](/Asserts/Images//attachment/album/201711/23/163120xhgf22bogg8o8vfl.jpg)
+![](/Asserts/Images/album/201711/23/163120xhgf22bogg8o8vfl.jpg)
 
 
 ### 构建/迁移/运行

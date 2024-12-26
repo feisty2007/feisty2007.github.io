@@ -7,10 +7,10 @@ tags:	[linuxcn,NetBSD,内核,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/12/205119kpng33pu1ei1gn3n.jpg)
+![](/Asserts/Images/album/202208/12/205119kpng33pu1ei1gn3n.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/12/205134muvx2bmnb848xax3.jpg)
+![](/Asserts/Images/album/202208/12/205134muvx2bmnb848xax3.jpg)
 
 
 ### NetBSD 改进了对 1985 年的计算机的支持
@@ -35,7 +35,7 @@ BSD 发行版 NetBSD 刚刚释出了一个小更新版本 9.3，在一系列的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/12/205145ho7qbbn2zzb95o65.jpg)
+![](/Asserts/Images/album/202208/12/205145ho7qbbn2zzb95o65.jpg)
 
 
 ### 英特尔的 Clear Linux 采用 -O3 来构建其内核
@@ -60,7 +60,7 @@ BSD 发行版 NetBSD 刚刚释出了一个小更新版本 9.3，在一系列的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/12/205158wdvds2wecizlwsf9.jpg)
+![](/Asserts/Images/album/202208/12/205158wdvds2wecizlwsf9.jpg)
 
 
 ### 谷歌将停止为愚蠢的问题提供答案
@@ -71,7 +71,7 @@ BSD 发行版 NetBSD 刚刚释出了一个小更新版本 9.3，在一系列的�
 
 
 > 
-> **[消息来源：英国卫报](https://www.theguardian.com/technology/2022/aug/11/Asserts/Images/-void-google-to-stop-giving-answers-to-silly-questions)**
+> **[消息来源：英国卫报](https://www.theguardian.com/technology/2022/aug/11/data-void-google-to-stop-giving-answers-to-silly-questions)**
 > 
 > 
 > 

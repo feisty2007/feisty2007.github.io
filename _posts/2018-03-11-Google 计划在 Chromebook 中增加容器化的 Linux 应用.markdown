@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,容器,Chromebook]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/04/002935soh2ejoow0zei6jw.jpg)
+![](/Asserts/Images/album/201803/04/002935soh2ejoow0zei6jw.jpg)
 
 
 虽然大多数 Chromebook 已经能够运行 Android 应用程序，但似乎 Google 希望在其 Chrome OS 上增加在容器或虚拟机上运行 Linux 应用程序的支持。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Scribus]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/12/154414wmkfolkjdbl2j9ef.jpg)
+![](/Asserts/Images/album/202401/12/154414wmkfolkjdbl2j9ef.jpg)
 
 
 
@@ -30,7 +30,7 @@ Scribus 是一种非常流行的开源桌面出版（[DTP](https://en.wikipedia.
 ### ? Scribus 1.6.0：有什么新变化？
 
 
-![](/Asserts/Images//attachment/album/202401/12/154440qhuupwhg83ttuw02.png)
+![](/Asserts/Images/album/202401/12/154440qhuupwhg83ttuw02.png)
 
 
 作为一个重要的稳定版本，Scribus 1.6.0 已经开发了相当长一段时间了，据开发人员称，它**包含数千个全面的增强功能和修复**。

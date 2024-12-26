@@ -15,7 +15,7 @@ tags:	[linuxcn,DevSecOps,敏捷]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/24/225337mb44xoe2byvz4x4o.jpg)
+![](/Asserts/Images/album/202007/24/225337mb44xoe2byvz4x4o.jpg)
 
 
 技术社区中存在一种趋势，经常互换地使用 DevSecOps 和敏捷软件开发这两个术语。尽管它们有一些相似性，例如都旨在更早地检测风险，但在改变团队的[工作方式层面有很大不同](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/)。

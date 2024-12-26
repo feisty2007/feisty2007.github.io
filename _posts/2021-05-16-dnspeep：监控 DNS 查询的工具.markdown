@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202105/02/191521i4ycjm7veln426vy.jpg)
+![](/Asserts/Images/album/202105/02/191521i4ycjm7veln426vy.jpg)
 
 
 在过去的几天中，我编写了一个叫作 [dnspeep](https://github.com/jvns/dnspeep) 的小工具，它能让你看到你电脑中正进行的 DNS 查询，并且还能看得到其响应。它现在只有 [250 行 Rust 代码](https://github.com/jvns/dnspeep/blob/f5780dc822df5151f83703f05c767dad830bd3b2/src/main.rs)。

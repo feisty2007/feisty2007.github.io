@@ -15,7 +15,7 @@ tags:	[linuxcn,DevOps]
 > 
 
 
-![](/Asserts/Images//attachment/album/201804/15/211756x45l7c4q9zmmyquq.png)
+![](/Asserts/Images/album/201804/15/211756x45l7c4q9zmmyquq.png)
 
 
 IT 领导者可以从大量的 [DevOps](https://enterprisersproject.com/tags/devops) 材料和 [向 DevOps 转变](https://www.redhat.com/en/insights/devops?intcmp=701f2000000tjyaAAA) 所要求的文化挑战中学习。但是，你在一个 DevOps 团队面对长期或短期的团结挑战的调整中 —— 一个 CIO 真正需要他们做的是什么呢？

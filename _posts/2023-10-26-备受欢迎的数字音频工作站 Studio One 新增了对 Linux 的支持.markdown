@@ -7,7 +7,7 @@ tags:	[linuxcn,DAW]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/04/182440b2evk5fiqfzv5k4v.jpg)
+![](/Asserts/Images/album/202310/04/182440b2evk5fiqfzv5k4v.jpg)
 
 
 
@@ -44,7 +44,7 @@ tags:	[linuxcn,DAW]
 ### Studio One：登陆 Linux! ?
 
 
-![](/Asserts/Images//attachment/album/202310/04/182513tr7k7ybntnhknpq8.png)
+![](/Asserts/Images/album/202310/04/182513tr7k7ybntnhknpq8.png)
 
 
 最初作为公开的测试版本发布的是 **[Studio One 6.5](https://blog.presonus.com/2023/09/29/you-can-do-immersive-audio-right-now/)，这是首个为 Linux 用户提供的版本。**

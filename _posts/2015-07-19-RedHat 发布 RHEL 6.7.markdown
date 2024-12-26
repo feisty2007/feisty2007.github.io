@@ -7,7 +7,7 @@ tags:	[linuxcn,RHEL,RedHat]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/09/100614ja4za9oppkot39vt.png)
+![](/Asserts/Images/album/201407/09/100614ja4za9oppkot39vt.png)
 
 
 虽然 Red Hat 已经发布了 RHEL 7.1，但是对 RHEL 6 系列的更新继续进行。最近，RedHat 发布了 RHEL 6 的最新更新版本 RHEL 6.7。

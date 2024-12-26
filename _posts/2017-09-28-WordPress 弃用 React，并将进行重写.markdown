@@ -7,7 +7,7 @@ tags:	[linuxcn,WordPress,React]
 ---
 
 
-![](/Asserts/Images//attachment/album/201709/18/232208x17gcatccufupuuj.jpg)
+![](/Asserts/Images/album/201709/18/232208x17gcatccufupuuj.jpg)
 
 
 开源网络出版软件 WordPress 的联合创始人 Matt Mullenweg 日前[表示](https://ma.tt/2017/09/on-react-and-wordpress/)，出于对 Facebook 开源许可证中专利条款的担忧，WordPress 社区将不再使用 Facebook 的 React JavaScript 库。

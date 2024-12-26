@@ -7,7 +7,7 @@ tags:	[linuxcn,备份]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/19/232002utzajvftojwlhojv.jpg)
+![](/Asserts/Images/album/201905/19/232002utzajvftojwlhojv.jpg)
 
 
 及时备份很重要。即使在 [Fedora Magazine](https://fedoramagazine.org/?s=backup) 中，[备份软件](https://restic.net/) 也是一个常见的讨论话题。本文演示了如何仅使用 systemd 以及 `restic` 来自动备份。

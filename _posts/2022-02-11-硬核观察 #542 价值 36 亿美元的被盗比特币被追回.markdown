@@ -7,10 +7,10 @@ tags:	[linuxcn,比特币,双因素认证,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/09/170915it3p3dtt9d0ttkh4.jpg)
+![](/Asserts/Images/album/202202/09/170915it3p3dtt9d0ttkh4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/09/170926zkckwg2000gajdwu.jpg)
+![](/Asserts/Images/album/202202/09/170926zkckwg2000gajdwu.jpg)
 
 
 ### 价值 36 亿美元的被盗比特币被追回
@@ -27,7 +27,7 @@ tags:	[linuxcn,比特币,双因素认证,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/09/170938xn771veqkl7rerr0.jpg)
+![](/Asserts/Images/album/202202/09/170938xn771veqkl7rerr0.jpg)
 
 
 ### 默认使用双因素认证后用户信息泄漏情况减少一半
@@ -44,7 +44,7 @@ tags:	[linuxcn,比特币,双因素认证,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/09/171021yroro0oyjklu7373.jpg)
+![](/Asserts/Images/album/202202/09/171021yroro0oyjklu7373.jpg)
 
 
 ### 利用空闲的云计算来训练 AI

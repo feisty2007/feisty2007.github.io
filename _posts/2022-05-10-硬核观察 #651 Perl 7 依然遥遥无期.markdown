@@ -7,10 +7,10 @@ tags:	[linuxcn,Perl,WSL2,npm]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/29/190458zntj2yedppppdc1w.jpg)
+![](/Asserts/Images/album/202205/29/190458zntj2yedppppdc1w.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/29/190505nsdhh15gkfsagdgm.jpg)
+![](/Asserts/Images/album/202205/29/190505nsdhh15gkfsagdgm.jpg)
 
 
 ### Perl 7 依然遥遥无期
@@ -35,7 +35,7 @@ tags:	[linuxcn,Perl,WSL2,npm]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/29/190516zpm41hh34bbhlhd4.jpg)
+![](/Asserts/Images/album/202205/29/190516zpm41hh34bbhlhd4.jpg)
 
 
 ### 微软将 WSL2 带入 Window Server 2022
@@ -60,7 +60,7 @@ tags:	[linuxcn,Perl,WSL2,npm]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/29/190529lcj6jfbz6jzy018b.jpg)
+![](/Asserts/Images/album/202205/29/190529lcj6jfbz6jzy018b.jpg)
 
 
 ### 攻击者窃取了十万 npm 用户账号登录信息

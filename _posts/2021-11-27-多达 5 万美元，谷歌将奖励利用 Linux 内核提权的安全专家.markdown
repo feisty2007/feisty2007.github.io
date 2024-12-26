@@ -15,7 +15,7 @@ tags:	[linuxcn,谷歌,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/06/170203tai0bxn0f6d4xvtv.jpg)
+![](/Asserts/Images/album/202111/06/170203tai0bxn0f6d4xvtv.jpg)
 
 
 谷歌的平台大量使用了 Linux，尤其是在安卓及其庞大的服务器方面。多年来，谷歌一直青睐开源项目和计划。

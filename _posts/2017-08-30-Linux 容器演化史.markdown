@@ -15,7 +15,7 @@ tags:	[linuxcn,容器,OCI,Docker]
 > 
 
 
-![](/Asserts/Images//attachment/album/201708/26/161009ab5ggfgbg0hb10f5.jpg)
+![](/Asserts/Images/album/201708/26/161009ab5ggfgbg0hb10f5.jpg)
 
 
 ### Linux 容器是如何演变的

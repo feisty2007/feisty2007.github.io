@@ -15,7 +15,7 @@ tags:	[linuxcn,css]
 > 
 
 
-![](/Asserts/Images//attachment/album/202005/18/094922of81rqfiei8x78xi.jpg)
+![](/Asserts/Images/album/202005/18/094922of81rqfiei8x78xi.jpg)
 
 
 当大多数人想到 Web 开发时，通常会想到 HTML 或 JavaScript。他们通常会忘记对网站的欣赏能力有更大影响的技术：<ruby> <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">  级联样式表 </a> <rt>  cascading style sheets </rt></ruby>（简称 CSS）。据维基百科的说法，CSS 既是网页中最重要的部分，也是最常被遗忘的部分，尽管它是万维网的三大基石技术之一。
@@ -45,25 +45,25 @@ tags:	[linuxcn,css]
 [Bootstrap](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 无疑是最流行的 CSS 框架，它是所有前端 Web 设计的开端。Bootstrap 由 Twitter 开发，提供了可用性、功能性和可扩展性。
 
 
-![Bootstrap homepage](/Asserts/Images//attachment/album/202005/18/094946us2a8ig2qw8g8d9a.jpg "Bootstrap homepage")
+![Bootstrap homepage](/Asserts/Images/album/202005/18/094946us2a8ig2qw8g8d9a.jpg "Bootstrap homepage")
 
 
 Bootstrap 还提供了大量的[例子](https://getbootstrap.com/docs/4.4/examples/)来帮助你入门。
 
 
-![Bootstrap examples](/Asserts/Images//attachment/album/202005/18/094948j0kff84cccklpb0y.jpg "Bootstrap examples")
+![Bootstrap examples](/Asserts/Images/album/202005/18/094948j0kff84cccklpb0y.jpg "Bootstrap examples")
 
 
 使用 Bootstrap，你可以将不同的组件和布局拼接在一起，创造出有趣的页面设计。它还提供了大量详细的文档。
 
 
-![Bootstrap documentation](/Asserts/Images//attachment/album/202005/18/094949ww3aznwwgpl5w4qw.jpg "Bootstrap documentation")
+![Bootstrap documentation](/Asserts/Images/album/202005/18/094949ww3aznwwgpl5w4qw.jpg "Bootstrap documentation")
 
 
 Bootstrap 的 [GitHub](https://github.com/twbs/bootstrap) 仓库有超过 19000 个提交和 1100 个贡献者。它基于 MIT 许可证，所以（和这个列表中的所有框架一样）你也可以加入并贡献。
 
 
-![Bootstrap GitHub](/Asserts/Images//attachment/album/202005/18/094950wg03bc5gi4vccz8o.jpg "Bootstrap GitHub")
+![Bootstrap GitHub](/Asserts/Images/album/202005/18/094950wg03bc5gi4vccz8o.jpg "Bootstrap GitHub")
 
 
 ### PatternFly
@@ -72,25 +72,25 @@ Bootstrap 的 [GitHub](https://github.com/twbs/bootstrap) 仓库有超过 19000 
 [PatternFly](https://www.patternfly.org) 是由 Red Hat 开发的一个开源的（MIT 许可证）CSS 框架。PatternFly 采取了与 Bootstrap 不同的方法：Bootstrap 是为任何对创建一个漂亮网站感兴趣的人而设计的，而 PatternFly 主要针对企业级应用开发者，它提供的组件，如条形图、图表和导航，对于创建强大的、指标驱动的仪表盘非常有吸引力。事实上，Red Hat 在其产品（如 OpenShift）的设计中也使用了这个 CSS 框架。
 
 
-![PatternFly homepage](/Asserts/Images//attachment/album/202005/18/094951jq9s9oaa9z92znla.jpg "PatternFly homepage")
+![PatternFly homepage](/Asserts/Images/album/202005/18/094951jq9s9oaa9z92znla.jpg "PatternFly homepage")
 
 
 除了静态 HTML 之外，PatternFly 还支持 ReactJS 框架，ReactJS 是 Facebook 开发的一个流行的 JavaScript 框架。
 
 
-![PatternFly ReactJS support](/Asserts/Images//attachment/album/202005/18/094952mtgcsvcmm5aa5pap.jpg "PatternFly ReactJS support")
+![PatternFly ReactJS support](/Asserts/Images/album/202005/18/094952mtgcsvcmm5aa5pap.jpg "PatternFly ReactJS support")
 
 
 PatternFly 有许多高级组件，如条形图、图表、[模态窗口](https://en.wikipedia.org/wiki/Modal_window)和布局等，适用于企业级应用。
 
 
-![PatternFly chart component](/Asserts/Images//attachment/album/202005/18/094952v4i3hah4oz3inhaa.jpg "PatternFly chart component")
+![PatternFly chart component](/Asserts/Images/album/202005/18/094952v4i3hah4oz3inhaa.jpg "PatternFly chart component")
 
 
 PatternFly 的 [GitHub](https://github.com/patternfly/patternfly) 页面列出了超过 1050 个提交和 44 个贡献者。PatternFly 得到了很多人的关注，欢迎大家踊跃贡献。
 
 
-![PatternFly GitHub](/Asserts/Images//attachment/album/202005/18/094953z7bvlv4g89eeq8kl.jpg "PatternFly GitHub")
+![PatternFly GitHub](/Asserts/Images/album/202005/18/094953z7bvlv4g89eeq8kl.jpg "PatternFly GitHub")
 
 
 ### MDC Web
@@ -99,31 +99,31 @@ PatternFly 的 [GitHub](https://github.com/patternfly/patternfly) 页面列出�
 凭借其大获成功的安卓平台，谷歌以一个名为 [Material Design](https://material.io) 的概念制定了自己的标准设计准则。Material Design 标准旨在体现在所有谷歌的产品中，这些标准也可以面向大众，并且在 MIT 许可证下开源。
 
 
-![Material Design homepage](/Asserts/Images//attachment/album/202005/18/094953fyz0yngo1mt0zx01.jpg "Material Design homepage")
+![Material Design homepage](/Asserts/Images/album/202005/18/094953fyz0yngo1mt0zx01.jpg "Material Design homepage")
 
 
 Material Design 有许多“用于创建用户界面的交互式构建块”的[组件](https://material.io/components/)。这些按钮、卡片、背景等可用于创建网站或移动应用程序的任何类型的用户界面。
 
 
-![Material Components webpage](/Asserts/Images//attachment/album/202005/18/094954olni3lala020qiz0.jpg "Material Components webpage")
+![Material Components webpage](/Asserts/Images/album/202005/18/094954olni3lala020qiz0.jpg "Material Components webpage")
 
 
 维护人员为不同的平台提供了详尽的文档。
 
 
-![Material Design documentation](/Asserts/Images//attachment/album/202005/18/094955k8j4dvugarms2z8a.jpg "Material Design documentation")
+![Material Design documentation](/Asserts/Images/album/202005/18/094955k8j4dvugarms2z8a.jpg "Material Design documentation")
 
 
 还有分步教程，其中包含用于实现不同目标的练习。
 
 
-![Material Design tutorial](/Asserts/Images//attachment/album/202005/18/094956n2x774bcggznb77x.jpg "Material Design tutorial")
+![Material Design tutorial](/Asserts/Images/album/202005/18/094956n2x774bcggznb77x.jpg "Material Design tutorial")
 
 
 Material 组件的 GitHub 页面承载了面向不同平台的存储库，包括用于网站开发的 [Material Web 组件（MDC Web）](https://github.com/material-components/material-components-web)。MDC Web 有超过 5700 个提交和 349 个贡献者。
 
 
-![MDC Web GitHub](/Asserts/Images//attachment/album/202005/18/095001fi2salug8qql2ka8.jpg "MDC Web GitHub")
+![MDC Web GitHub](/Asserts/Images/album/202005/18/095001fi2salug8qql2ka8.jpg "MDC Web GitHub")
 
 
 ### Pure
@@ -132,19 +132,19 @@ Material 组件的 GitHub 页面承载了面向不同平台的存储库，包括
 Bootstrap、Patternfly 和 MDC Web 都是非常强大的 CSS 框架，但是它们可能相当的笨重和复杂。如果你想要一个轻量级的 CSS 框架，它更接近于自己编写 CSS，但又能帮助你建立一个漂亮的网页，可以试试 [Pure.css](https://purecss.io)。Pure 是一个轻量级的 CSS 框架，它的体积很小。它是由 Yahoo 开发的，在 BSD 许可证下开源。
 
 
-![Pure.css homepage](/Asserts/Images//attachment/album/202005/18/095003wasgsqmafqa9fnc5.jpg "Pure.css homepage")
+![Pure.css homepage](/Asserts/Images/album/202005/18/095003wasgsqmafqa9fnc5.jpg "Pure.css homepage")
 
 
 尽管体积小，但 Pure 提供了建立一个漂亮网页的很多必要的组件。
 
 
-![Pure.css components](/Asserts/Images//attachment/album/202005/18/095005h0kttxtguz3wgxk3.jpg "Pure.css components")
+![Pure.css components](/Asserts/Images/album/202005/18/095005h0kttxtguz3wgxk3.jpg "Pure.css components")
 
 
 Pure 的 [GitHub](https://github.com/pure-css/pure) 页面显示它有超过 565 个提交和 59 个贡献者。
 
 
-![Pure.css GitHub](/Asserts/Images//attachment/album/202005/18/095008ew9i9a9zqpjhyqaf.jpg "Pure.css GitHub")
+![Pure.css GitHub](/Asserts/Images/album/202005/18/095008ew9i9a9zqpjhyqaf.jpg "Pure.css GitHub")
 
 
 ### Foundation
@@ -153,19 +153,19 @@ Pure 的 [GitHub](https://github.com/pure-css/pure) 页面显示它有超过 565
 [Foundation](https://get.foundation) 号称是世界上最先进的响应式前端框架。它提供了先进的功能和教程，用于构建专业网站。
 
 
-![Foundation homepage](/Asserts/Images//attachment/album/202005/18/095011km82sdxsrbcskc33.jpg "Foundation homepage")
+![Foundation homepage](/Asserts/Images/album/202005/18/095011km82sdxsrbcskc33.jpg "Foundation homepage")
 
 
 该框架被许多公司、组织甚至政客[使用](https://zurb.com/responsive)，并且有大量的文档可用。
 
 
-![Foundation documentation](/Asserts/Images//attachment/album/202005/18/095013kabduevhvmbeq5ed.jpg "Foundation documentation")
+![Foundation documentation](/Asserts/Images/album/202005/18/095013kabduevhvmbeq5ed.jpg "Foundation documentation")
 
 
 Foundation 的 [GitHub](https://github.com/foundation/foundation-sites) 页面显示有近 17000 个提交和 1000 个贡献者。和这个列表中的大多数其他框架一样，它也是在 MIT 许可证下提供的。
 
 
-![Foundation GitHub](/Asserts/Images//attachment/album/202005/18/095018q7yakuiikllvz1vq.jpg "Foundation GitHub")
+![Foundation GitHub](/Asserts/Images/album/202005/18/095018q7yakuiikllvz1vq.jpg "Foundation GitHub")
 
 
 ### Bulma
@@ -174,19 +174,19 @@ Foundation 的 [GitHub](https://github.com/foundation/foundation-sites) 页面�
 [Bulma](https://bulma.io) 是一个基于 Flexbox 的开源框架，在 MIT 许可证下提供。Bulma 是一个相当轻量级的框架，因为它只需要一个 CSS 文件。
 
 
-![Bulma homepage](/Asserts/Images//attachment/album/202005/18/095021xgvrnwwfvobbivz7.jpg "Bulma homepage")
+![Bulma homepage](/Asserts/Images/album/202005/18/095021xgvrnwwfvobbivz7.jpg "Bulma homepage")
 
 
 Bulma 有简洁明快的文档，让你可以很容易地选择你想要探索的主题。它也有很多网页组件，你可以直接拿起来在设计中使用。
 
 
-![Bulma documentation](/Asserts/Images//attachment/album/202005/18/095022ib1ujq5xuxhtxujj.jpg "Bulma documentation")
+![Bulma documentation](/Asserts/Images/album/202005/18/095022ib1ujq5xuxhtxujj.jpg "Bulma documentation")
 
 
 Bulma 的 [GitHub](https://github.com/jgthms/bulma) 页面列出了 1400 多个提交和 300 多个贡献者。
 
 
-![Bulma GitHub](/Asserts/Images//attachment/album/202005/18/095025ycn2cn888snn2x48.jpg "Bulma GitHub")
+![Bulma GitHub](/Asserts/Images/album/202005/18/095025ycn2cn888snn2x48.jpg "Bulma GitHub")
 
 
 ### Skeleton
@@ -195,19 +195,19 @@ Bulma 的 [GitHub](https://github.com/jgthms/bulma) 页面列出了 1400 多个�
 如果连 Pure 都觉得太重了，那么还有一个叫 [Skeleton](http://getskeleton.com) 的更轻量级框架。Skeleton 库只有 400 行左右的长度，而且这个框架只提供了开始你的 CSS 框架之旅的基本组件。
 
 
-![Skeleton homepage](/Asserts/Images//attachment/album/202005/18/095026ceyylpuyzfvuelr7.jpg "Skeleton homepage")
+![Skeleton homepage](/Asserts/Images/album/202005/18/095026ceyylpuyzfvuelr7.jpg "Skeleton homepage")
 
 
 尽管它很简单，但 Skeleton 提供了详细的文档，可以帮助你马上上手。
 
 
-![Skeleton documentation](/Asserts/Images//attachment/album/202005/18/095029j8q20nqri8kkx8tr.jpg "Skeleton documentation")
+![Skeleton documentation](/Asserts/Images/album/202005/18/095029j8q20nqri8kkx8tr.jpg "Skeleton documentation")
 
 
 Skeleton 的 [GitHub](https://github.com/dhg/Skeleton) 列出了 167 个提交和 22 个贡献者。然而，它不是很活跃，它的最后一次更新是在 2014 年，所以在使用之前可能需要一些维护。由于它是在 MIT 许可证下发布的，你可以自行维护。
 
 
-![Skeleton GitHub](/Asserts/Images//attachment/album/202005/18/095032l4o3bwc39bz3uuga.jpg "Skeleton GitHub")
+![Skeleton GitHub](/Asserts/Images/album/202005/18/095032l4o3bwc39bz3uuga.jpg "Skeleton GitHub")
 
 
 ### Materialize
@@ -216,19 +216,19 @@ Skeleton 的 [GitHub](https://github.com/dhg/Skeleton) 列出了 167 个提交�
 [Materialize](https://materializecss.com) 是一个基于 Google 的 Material Design 的响应式前端框架，带有由 Materialize 的贡献者开发的附加主题和组件。
 
 
-![Materialize homepage](/Asserts/Images//attachment/album/202005/18/095033kha6kis3rsraqwct.jpg "Materialize homepage")
+![Materialize homepage](/Asserts/Images/album/202005/18/095033kha6kis3rsraqwct.jpg "Materialize homepage")
 
 
 Materialize 的文档页面非常全面，而且相当容易理解。它的组件页面包括按钮、卡片、导航等等。
 
 
-![Materialize documentation](/Asserts/Images//attachment/album/202005/18/095035or00l5bf65jbksrr.jpg "Materialize documentation")
+![Materialize documentation](/Asserts/Images/album/202005/18/095035or00l5bf65jbksrr.jpg "Materialize documentation")
 
 
 Materialize 是 MIT 许可证下的开源项目，它的 [GitHub](https://github.com/Dogfalo/materialize) 列出了超过 3800 个提交和 250 个贡献者。
 
 
-![Materialize GitHub](/Asserts/Images//attachment/album/202005/18/095037fqb2ebzu2kwzz9yk.jpg "Materialize GitHub")
+![Materialize GitHub](/Asserts/Images/album/202005/18/095037fqb2ebzu2kwzz9yk.jpg "Materialize GitHub")
 
 
 ### Bootflat
@@ -237,19 +237,19 @@ Materialize 是 MIT 许可证下的开源项目，它的 [GitHub](https://github
 [Bootflat](http://bootflat.github.io) 是由 Twitter 的 Bootstrap 衍生出来的一个开源 CSS 框架。与 Bootstrap 相比， Bootflat 更简单，框架组件更轻量级。
 
 
-![Bootflat homepage](/Asserts/Images//attachment/album/202005/18/095039c813elddde867hk9.jpg "Bootflat homepage")
+![Bootflat homepage](/Asserts/Images/album/202005/18/095039c813elddde867hk9.jpg "Bootflat homepage")
 
 
 Bootflat 的[文档](http://bootflat.github.io/documentation.html)几乎像是受到了宜家的启发 —— 它显示的是每个组件的图片，没有太多的文字。
 
 
-![Bootflat docs](/Asserts/Images//attachment/album/202005/18/095041x437z9uh7uo5252q.jpg "Bootflat docs")
+![Bootflat docs](/Asserts/Images/album/202005/18/095041x437z9uh7uo5252q.jpg "Bootflat docs")
 
 
 Bootflat 是在 MIT 许可证下提供的，其 [GitHub](https://github.com/bootflat/bootflat.github.io) 页面包括 159 个提交和 8 个贡献者。
 
 
-![Bootflat GitHub](/Asserts/Images//attachment/album/202005/18/095044rdcc0353bfyhsa6h.jpg "Bootflat GitHub")
+![Bootflat GitHub](/Asserts/Images/album/202005/18/095044rdcc0353bfyhsa6h.jpg "Bootflat GitHub")
 
 
 ### 你应该选择哪个 CSS 框架？

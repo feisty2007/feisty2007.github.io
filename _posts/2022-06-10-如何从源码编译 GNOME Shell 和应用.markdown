@@ -7,7 +7,7 @@ tags:	[linuxcn,GNOME,编译]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/01/180518p98dt89wz7779tyb.jpg)
+![](/Asserts/Images/album/202206/01/180518p98dt89wz7779tyb.jpg)
 
 
 
@@ -93,7 +93,7 @@ meson _build --prefix=/usr
 
 ```
 
-![Compile Mutter for GNOME](/Asserts/Images//attachment/album/202206/01/180555ue5ek56xxhh2wwte.jpg)
+![Compile Mutter for GNOME](/Asserts/Images/album/202206/01/180555ue5ek56xxhh2wwte.jpg)
 
 
 使用以下命令在构建完成时，将 mutter 安装在到系统中。
@@ -139,7 +139,7 @@ git clone https://gitlab.gnome.org/GNOME/gnome-shellcd gnome-shellmeson _build -
 在重启之前，正如我之前提到的，确保你处于 [X.Org](http://X.Org) 会话中。按 `ALT+F2` 并输入 `r`。然后按回车键。这个命令将重启 GNOME Shell。
 
 
-![Restart GNOME Shell (X11)](/Asserts/Images//attachment/album/202206/01/180555kkk5hb8th6z71dkx.jpg)
+![Restart GNOME Shell (X11)](/Asserts/Images/album/202206/01/180555kkk5hb8th6z71dkx.jpg)
 
 
 恭喜你! 你已经成功地编译了 GNOME Shell 和 Mutter。

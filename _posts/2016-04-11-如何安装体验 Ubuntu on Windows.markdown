@@ -33,7 +33,7 @@ Bash on Ubuntu on Windows 功能主要是面向于开发者，尤其是 Web 开�
 之前我们为大家[披露过 Ubuntu on Windows 的一些技术细节](/article-7178-1.html)，今天为大家带来更具体的技术细节和体验方式。
 
 
-![如何安装体验 Ubuntu on Windows](/Asserts/Images//attachment/album/201604/10/195610zo4w1hw4nv1zdd10.jpg)
+![如何安装体验 Ubuntu on Windows](/Asserts/Images/album/201604/10/195610zo4w1hw4nv1zdd10.jpg)
 
 
 ### **启用Bash on Ubuntu on Windows**
@@ -62,7 +62,7 @@ Bash on Ubuntu on Windows 功能主要是面向于开发者，尤其是 Web 开�
 1、在 [Windows Insider](https://insider.windows.com/Home/Index) 网站中使用你的微软账户登录，登录成功之后，会出现如下图所示画面：
 
 
-![Windows Insider](/Asserts/Images//attachment/album/201604/10/193757g9u7u0900t0zn8xx.png)
+![Windows Insider](/Asserts/Images/album/201604/10/193757g9u7u0900t0zn8xx.png)
 
 
 然后单击图中的“入门”，会出现注册界面，勾选接受 Insider 计划协议，最后单击“提交”，等待提示注册完成。
@@ -71,13 +71,13 @@ Bash on Ubuntu on Windows 功能主要是面向于开发者，尤其是 Web 开�
 2、确保使用上述加入 Windows Insider 计划的微软账户登录你的 Windows 10 操作系统，然后依次转到开始菜单-“设置”-“更新和安全”- “Windows 更新” -“高级选项”>“获取 Insider Preview 版本”，然后单击“开始”按钮，并按照屏幕上的说明进行操作，提示成功之后表示此电脑将会获取 Windows 10 Insider Preview 版本 。
 
 
-![获取 Insider Preview 版本](/Asserts/Images//attachment/album/201604/10/193921jkjtzsjiimxuxw1a.png) 
+![获取 Insider Preview 版本](/Asserts/Images/album/201604/10/193921jkjtzsjiimxuxw1a.png) 
 
 
 3、Windows Insider 计划默认自动获取慢速通道的 Insider Preview 版本，而 Windows 10 Insider Preview （Build 14316）属于快速通道版本，所以需要在如下图中，将滑块移至右侧的快速通道模式。
 
 
-![快速通道模式](/Asserts/Images//attachment/album/201604/10/194002wavk9eqako7xxa74.png)
+![快速通道模式](/Asserts/Images/album/201604/10/194002wavk9eqako7xxa74.png)
 
 
 4、进入快速通道模式之后，需要等待24小时才能获取 Insider Preview 版本，所以请耐心的等待吧！24小时之后检查更新，就会开始下载安装 Windows 10 Insider Preview （Build 14316）。
@@ -92,13 +92,13 @@ Bash on Ubuntu on Windows 功能主要是面向于开发者，尤其是 Web 开�
 1、依次在“设置”-“更新与安全”-“针对开发人员”选项中，启用开发人员模式，如下图所示。
 
 
-![启用开发人员模式](/Asserts/Images//attachment/album/201604/10/194154k1n54nxe5nnhn0ny.png)
+![启用开发人员模式](/Asserts/Images/album/201604/10/194154k1n54nxe5nnhn0ny.png)
 
 
 2、在开始菜单中搜索并打开“启用或关闭 Windows功能”，然后勾选其中的“Windows Subsystem for Linux（Beta）”选项，如下图所示，最后按照操作系统提示完成 WSL 安装（需要重启计算机）。
 
 
-![勾选其中的“Windows Subsystem for Linux（Beta）”](/Asserts/Images//attachment/album/201604/10/194221o9dl6qw9rwuurrwy.png)
+![勾选其中的“Windows Subsystem for Linux（Beta）”](/Asserts/Images/album/201604/10/194221o9dl6qw9rwuurrwy.png)
 
 
 此外，也可以在 PowerShell 中输入以下命令完成 WSL 安装。
@@ -112,7 +112,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 3、在命令提示符或 PowerShell 中输入 `bash`，然后按照提示按下 y 确认继续，操作系统会自动开始安装 Ubuntu on Windows，此时会下载 Ubuntu 用户模式镜像，并创建一个 Bash on Ubuntu on Windows 访问路径。等待安装完成之后，会自动进入 bash，如下图所示：
 
 
-![自动安装 Ubuntu on Windows](/Asserts/Images//attachment/album/201604/10/194458t45ikipqklekpklv.png)
+![自动安装 Ubuntu on Windows](/Asserts/Images/album/201604/10/194458t45ikipqklekpklv.png)
 
 
 ### **使用 Bash on Ubuntu on Windows**
@@ -124,7 +124,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 运行之后，可以发现使用的是 Ubuntu 14.04.4 LTS 版本，同时也可以使用 apt-get 更新或安装程序，如下图所示。此外。在 bash 当中，Windows 的分区被挂载于 `/mnt` 目录，可以使用其中存储的数据。
 
 
-![可以使用 apt-get 更新或安装程序](/Asserts/Images//attachment/album/201604/10/194630vd40mx4z9igt0ixi.png)
+![可以使用 apt-get 更新或安装程序](/Asserts/Images/album/201604/10/194630vd40mx4z9igt0ixi.png)
 
 
 当你试用了 Bash on Ubuntu on Windows 之后，你可能会觉得这是一个虚拟机，但它真**不是一个虚拟机。**其功能有点类似于模拟器。通过使用 WSL，可以将 Linux 的系统调用实时地转换为 Windows 的系统调用。

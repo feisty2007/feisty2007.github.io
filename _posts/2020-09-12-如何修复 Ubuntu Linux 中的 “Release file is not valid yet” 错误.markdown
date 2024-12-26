@@ -43,7 +43,7 @@ E: Release file for http://ports.ubuntu.com/ubuntu-ports/dists/focal-security/In
 ### 修复 Ubuntu 和其他 Linux 发行版中 “Release file is not valid yet” 的错误。
 
 
-![](/Asserts/Images//attachment/album/202009/29/225709i2j2pqrv2czhqc4q.png)
+![](/Asserts/Images/album/202009/29/225709i2j2pqrv2czhqc4q.png)
 
 
 错误的原因是系统上的时间和现实世界的时间不同。

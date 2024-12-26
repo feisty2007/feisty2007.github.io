@@ -15,7 +15,7 @@ tags:	[linuxcn,Fedora]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/06/114440c4dgjjqf4oi97g7g.png)
+![](/Asserts/Images/album/202301/06/114440c4dgjjqf4oi97g7g.png)
 
 
 我们期待着它们在 Fedora 37 时出现，但在 Fedora 38 中终于来了！

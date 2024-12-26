@@ -7,10 +7,10 @@ tags:	[linuxcn,手机,安全,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/27/155158nvg16s03gs7j63zi.jpg)
+![](/Asserts/Images/album/202211/27/155158nvg16s03gs7j63zi.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/27/155207r6mkcdjnwjswwd16.jpg)
+![](/Asserts/Images/album/202211/27/155207r6mkcdjnwjswwd16.jpg)
 
 
 ### 欧盟允许在飞行中使用智能手机
@@ -35,7 +35,7 @@ tags:	[linuxcn,手机,安全,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/27/155222fq4aajwjw7dvtrft.jpg)
+![](/Asserts/Images/album/202211/27/155222fq4aajwjw7dvtrft.jpg)
 
 
 ### 96% 下载的脆弱的依赖关系是可避免的
@@ -60,7 +60,7 @@ tags:	[linuxcn,手机,安全,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/27/155233r9j6alol9rkprtao.jpg)
+![](/Asserts/Images/album/202211/27/155233r9j6alol9rkprtao.jpg)
 
 
 ### 72% 的美国员工希望将简单重复的工作交给 AI

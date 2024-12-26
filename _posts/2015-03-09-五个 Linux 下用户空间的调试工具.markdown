@@ -10,7 +10,7 @@ tags:	[linuxcn,调试,strace,ltrace,valgrind,gdb]
 根据定义，调试工具是那些那些使我们能够监测、控制和纠正其他程序的程序。我们为什么应该用调试工具呢? 在有些情况下，运行一些程序的时候我们会被卡住，我们需要明白究竟发生了什么。 例如，我们正在运行应用程序，它产生了一些错误消息。要修复这些错误，我们应该先找出为什么产生这些错误的消息和这些错误消息从哪里产生的。 一个应用程序可能突然挂起，我们必须了解其他什么进程同时在运行。我们可能还必须弄清楚某个进程挂起的时候在做什么。为了剖析这些细节， 我们需要调试工具的帮助。
 
 
-![](/Asserts/Images//attachment/album/201503/12/164209hcc87ly78n05zsq8.jpg)
+![](/Asserts/Images/album/201503/12/164209hcc87ly78n05zsq8.jpg)
 
 
 （题图来自：axxomovies.org）
@@ -44,7 +44,7 @@ tags:	[linuxcn,调试,strace,ltrace,valgrind,gdb]
 /proc 是一个伪文件系统，系统一启动运行就收集着运行时系统的信息 (cpu信息, 内存容量等)。
 
 
-![output of 'ls /proc'](/Asserts/Images//attachment/album/201503/12/164213wlly7erwuux9wl7b.png)
+![output of 'ls /proc'](/Asserts/Images/album/201503/12/164213wlly7erwuux9wl7b.png)
 
 
 *'ls /proc'的输出*
@@ -53,7 +53,7 @@ tags:	[linuxcn,调试,strace,ltrace,valgrind,gdb]
 正如你看到的, 系统中运行的每一个进程在/proc文件系统中有一个以进程id命名的项。每个进程的细节信息可以在进程id对应的目录下的文件中获得。
 
 
-![output of 'ls /proc/pid'](/Asserts/Images//attachment/album/201503/12/164215b3kun61unhknhbck.png)
+![output of 'ls /proc/pid'](/Asserts/Images/album/201503/12/164215b3kun61unhknhbck.png)
 
 
 *'ls /proc/pid'的输出*
@@ -100,7 +100,7 @@ strace的输出非常长，我们通常不会对显示的每一行都感兴趣�
 用'-o'选项，命令的输出可以被重定向到文件。
 
 
-![output of strace filtering only the open system call](/Asserts/Images//attachment/album/201503/12/164216wj3mn9mjnegunje3.png)
+![output of strace filtering only the open system call](/Asserts/Images/album/201503/12/164216wj3mn9mjnegunje3.png)
 
 
 *strace过滤成只有系统调用的输出*
@@ -124,7 +124,7 @@ ltrace跟踪和记录一个进程的动态（运行时）库的调用及其收�
 所有可用的选项请参阅ltrace手册。
 
 
-![output of ltrace capturing 'strcmp' library call](/Asserts/Images//attachment/album/201503/12/164217h6rax7uf9a8zw7x6.png)
+![output of ltrace capturing 'strcmp' library call](/Asserts/Images/album/201503/12/164217h6rax7uf9a8zw7x6.png)
 
 
 *ltrace捕捉'STRCMP'库调用的输出*
@@ -216,7 +216,7 @@ valgrind –tool=memcheck –leak-check=yes test
 这是valgrind呈现错误的输出：
 
 
-![output of valgrind showing heap block overrun and memory leak](/Asserts/Images//attachment/album/201503/12/164218lp5jw1zodwcdcpqa.png)
+![output of valgrind showing heap block overrun and memory leak](/Asserts/Images/album/201503/12/164218lp5jw1zodwcdcpqa.png)
 
 
 *valgrind显示堆溢出和内存泄漏的输出*
@@ -272,7 +272,7 @@ divide();
 
 ```
 
-![An example showing usage of gdb](/Asserts/Images//attachment/album/201503/12/164220djyusau3myjmlyj6.png)
+![An example showing usage of gdb](/Asserts/Images/album/201503/12/164220djyusau3myjmlyj6.png)
 
 
 *展示GDB用法的例子*
@@ -284,7 +284,7 @@ divide();
 通过在命令行中执行'gdb'来启动gdb:
 
 
-![invoking gdb](/Asserts/Images//attachment/album/201503/12/164222wcstzjtcje3oj6tr.png)
+![invoking gdb](/Asserts/Images/album/201503/12/164222wcstzjtcje3oj6tr.png)
 
 
 *调用 gdb*
@@ -363,7 +363,7 @@ divide();
 GDB还有更多的可用选项。里面GDB使用help选项了解更多详情。
 
 
-![getting help within gdb](/Asserts/Images//attachment/album/201503/12/164223lcbwgwwyqgbqgbmq.png)
+![getting help within gdb](/Asserts/Images/album/201503/12/164223lcbwgwwyqgbqgbmq.png)
 
 
 *在GDB中获得帮助*

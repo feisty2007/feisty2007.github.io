@@ -7,7 +7,7 @@ tags:	[linuxcn,LVM,ext4,Btrfs]
 ---
 
 
-![](/Asserts/Images//attachment/album/202101/23/133137m2wfkiq8ykyvwyhv.jpg)
+![](/Asserts/Images/album/202101/23/133137m2wfkiq8ykyvwyhv.jpg)
 
 
 [Fedora 33](https://fedoramagazine.org/announcing-fedora-33/) 在其各类桌面版本中引入了新的默认文件系统 [Btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page)。多年以来，Fedora 一直在 <ruby> <a href="https://man7.org/linux/man-pages/man8/lvm.8.html">  逻辑卷管理 </a> <rt>  Logical Volume Manager </rt></ruby>（LVM） 卷之上使用 [ext4](https://ext4.wiki.kernel.org/index.php/Main_Page)，引入 Brtfs 对 Fedora 来说是一个很大的转变。更改默认文件系统需要 [令人信服的原因](https://fedoraproject.org/wiki/Changes/BtrfsByDefault)。虽然 Btrfs 是令人兴奋的下一代文件系统，但 LVM 上的 ext4 是成熟而稳定的。本指南旨在探索各自的高级特性，使得更容易在 Btrfs 和 LVM-ext4 之间进行选择。
@@ -40,7 +40,7 @@ tags:	[linuxcn,LVM,ext4,Btrfs]
 ### LVM-ext4 的优势
 
 
-![LVM 上 ext4 的结构](/Asserts/Images//attachment/album/202101/23/133153m0vsive3khrr55ek.jpg)
+![LVM 上 ext4 的结构](/Asserts/Images/album/202101/23/133153m0vsive3khrr55ek.jpg)
 
 
 [ext4 文件系统](https://opensource.com/article/18/4/ext4-filesystem) 专注于高性能和可伸缩性，没有太多额外的花哨之处。它能有效地防止长时间后的碎片化，并当碎片化出现后提供了 [很好的工具](https://man7.org/linux/man-pages/man8/e4defrag.8.html)。ext4 之所以坚如磐石，是因为它构建在前代的 ext3 文件系统之上，带来了多年的系统内测试和错误修复。
@@ -70,7 +70,7 @@ LVM 中大量稳定的功能以及 ext4 的可靠性在既往的使用中早已�
 ### Btrfs 的优势
 
 
-![Btrfs 结构](/Asserts/Images//attachment/album/202101/23/133153ytf8tgzi7izzdz8t.jpg)
+![Btrfs 结构](/Asserts/Images/album/202101/23/133153ytf8tgzi7izzdz8t.jpg)
 
 
 从前几代文件系统中学到的经验指导了构建到 [Btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) 的功能设计。与 ext4 不同，它可以直接跨越多个设备，因此它具有通常仅在卷管理器中才能找到的功能。它还具有 Linux 文件系统空间中独有的功能（[ZFS](https://en.wikipedia.org/wiki/ZFS) 具有相似的功能集，但[不要指望它在 Linux 内核中出现](https://itsfoss.com/linus-torvalds-zfs/)）。

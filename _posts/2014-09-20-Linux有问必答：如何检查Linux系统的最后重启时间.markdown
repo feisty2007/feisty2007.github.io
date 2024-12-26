@@ -18,7 +18,7 @@ tags:	[linuxcn,Linux,重启]
 有许多方法来查询系统最后的重启时间。
 
 
-![](/Asserts/Images//attachment/album/201409/12/094945x9ew4q4zjewl9duk.jpg)
+![](/Asserts/Images/album/201409/12/094945x9ew4q4zjewl9duk.jpg)
 
 
 ### 方法一

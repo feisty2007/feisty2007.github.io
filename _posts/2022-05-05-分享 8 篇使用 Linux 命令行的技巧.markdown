@@ -15,7 +15,7 @@ tags:	[linuxcn,命令行]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/10/084827v23ia3wlkdirr6r5.jpg "Terminal command prompt on orange background")
+![](/Asserts/Images/album/202205/10/084827v23ia3wlkdirr6r5.jpg "Terminal command prompt on orange background")
 
 
 Linux 命令行是极其灵活的。无论你是管理服务器还是在桌面系统上启动终端窗口，都可以通过命令行无所不包的工具包来更新文件、调整系统性能或者管理进程。命令行里发生的事情是非常有趣的。

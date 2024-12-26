@@ -15,7 +15,7 @@ tags:	[linuxcn,ElementaryOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/19/235403miy29qe6rqvv2vl3.jpg)
+![](/Asserts/Images/album/202101/19/235403miy29qe6rqvv2vl3.jpg)
 
 
 在前几年，这个年度系列报道了各个应用程序。今年，我们将在 2021 年寻求帮助的策略之外，还将关注一站式解决方案。欢迎来到 2021 年 21 天生产力的第一天。
@@ -27,7 +27,7 @@ tags:	[linuxcn,ElementaryOS]
 [ElementaryOS](https://elementary.io/) 是一个完整的桌面，具有美观、实用、高效的环境。
 
 
-![](/Asserts/Images//attachment/album/202101/20/002348rthzuljst6bljs7c.jpg)
+![](/Asserts/Images/album/202101/20/002348rthzuljst6bljs7c.jpg)
 
 
 *ElementaryOS 桌面 （Kevin Sonney， [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -39,7 +39,7 @@ ElementaryOS 是一个基于流行的 Ubuntu Linux 发行版的“按需付费�
 ElementaryOS 使用 [Gala 窗口管理器](https://github.com/elementary/gala)和 Pantheon shell。这两个都是专门为 Elementary 开发的。安装后，桌面非常精简，它只提供了少量的轻量级应用。这些应用包括 Web 浏览器、终端、邮件客户端和日历客户端。它还有一个应用中心，允许你安装 Elementary 团队策划的免费和商业应用。
 
 
-![](/Asserts/Images//attachment/album/202101/20/002505c969i3l59ezci3ee.jpg)
+![](/Asserts/Images/album/202101/20/002505c969i3l59ezci3ee.jpg)
 
 
 *ElementaryOS 的邮件和日历应用（Kevin Sonney， [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -48,7 +48,7 @@ ElementaryOS 使用 [Gala 窗口管理器](https://github.com/elementary/gala)�
 [邮件](https://github.com/elementary/mail)和[日历](https://github.com/elementary/calendar)这两个应用看起来很熟悉，因为这两个应用已经被其他发行版使用了一段时间。邮件是作为 [Geary](https://wiki.gnome.org/Apps/Geary) 的复刻分支开始的，而日历在其他地方则被称为 [Maya](https://launchpad.net/maya)。两者的设置非常简单。两款应用默认仅使用用户名/密码认证，所以需要双因素认证的用户需要一些额外的步骤。两者的界面都异常轻巧快速。
 
 
-![](/Asserts/Images//attachment/album/202101/20/002536ejlfk3b3eshxefs3.jpg)
+![](/Asserts/Images/album/202101/20/002536ejlfk3b3eshxefs3.jpg)
 
 
 *应用中心（Kevin Sonney，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -60,7 +60,7 @@ ElementaryOS 默认不包含待办事项或记事本应用。这时，应用中�
 应用中心的第二款应用是 [Notes-Up](https://github.com/Philip-Scott/Notes-up)，这是一款使用 Markdown 写富文本格式的笔记应用。它允许用户在多个笔记本中创建多个笔记，并且有“查看”和“编辑”选项，这样你就可以预览最终文档的样子。同样，这款应用快速、轻量而且非常简约，与 ElementaryOS 的整体外观和感觉保持一致。
 
 
-![](/Asserts/Images//attachment/album/202101/20/002617u373g2lhfgiai64g.jpg)
+![](/Asserts/Images/album/202101/20/002617u373g2lhfgiai64g.jpg)
 
 
 *Planner 和 Notes-up （Kevin Sonney，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

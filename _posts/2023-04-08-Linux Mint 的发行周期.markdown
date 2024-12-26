@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/24/231022h7rzqz8zfvviaqb7.jpg)
+![](/Asserts/Images/album/202304/24/231022h7rzqz8zfvviaqb7.jpg)
 
 
 你可能知道，Linux Mint 是一个基于 Ubuntu 的发行版。

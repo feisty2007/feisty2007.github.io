@@ -7,7 +7,7 @@ tags:	[linuxcn,共享,KVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/22/155908ypin2xpzoxsrsx4n.jpg)
+![](/Asserts/Images/album/202307/22/155908ypin2xpzoxsrsx4n.jpg)
 
 
 
@@ -48,7 +48,7 @@ tags:	[linuxcn,共享,KVM]
 首先，确保你的客户虚拟机已关闭。从 virt-manager GUI 中，选择虚拟机并单击“<ruby> 打开 <rt>  Open </rt></ruby>”以调出控制台设置。
 
 
-![打开控制台设置](/Asserts/Images//attachment/album/202307/22/160144l5di1ri15z3r1m16.jpg)
+![打开控制台设置](/Asserts/Images/album/202307/22/160144l5di1ri15z3r1m16.jpg)
 
 
 单击工具栏中显示虚拟硬件详细信息的图标。然后单击左侧面板上的“<ruby> 内存 <rt>  Memory </rt></ruby>”。
@@ -69,7 +69,7 @@ tags:	[linuxcn,共享,KVM]
 
 ```
 
-![启用共享内存](/Asserts/Images//attachment/album/202307/22/160156vo9l8zormqqz19ao.jpg)
+![启用共享内存](/Asserts/Images/album/202307/22/160156vo9l8zormqqz19ao.jpg)
 
 
 单击底部的“<ruby> 添加硬件 <rt>  Add hardware </rt></ruby>”。
@@ -90,7 +90,7 @@ tags:	[linuxcn,共享,KVM]
 因此，如果我想访问图片文件夹（`/home/debugpoint/Pictures`），示例设置可能如下：
 
 
-![为 Windows 添加文件系统挂载](/Asserts/Images//attachment/album/202307/22/160208f092xt7mzhkuuhpd.jpg)
+![为 Windows 添加文件系统挂载](/Asserts/Images/album/202307/22/160208f092xt7mzhkuuhpd.jpg)
 
 
 单击“<ruby> 完成 <rt>  Finish </rt></ruby>”。
@@ -139,7 +139,7 @@ tags:	[linuxcn,共享,KVM]
 在 Windows 虚拟机上安装软件包。安装软件包时请确保选择 “Core”。完成安装。
 
 
-![WinFSP 设置](/Asserts/Images//attachment/album/202307/22/160221j54oncm4g5kccord.jpg)
+![WinFSP 设置](/Asserts/Images/album/202307/22/160221j54oncm4g5kccord.jpg)
 
 
 #### 创建 VirtIO-FS 服务
@@ -156,13 +156,13 @@ tags:	[linuxcn,共享,KVM]
 > 
 
 
-![下载客户机工具](/Asserts/Images//attachment/album/202307/22/160233qnjhhw1hl69hh6hh.jpg)
+![下载客户机工具](/Asserts/Images/album/202307/22/160233qnjhhw1hl69hh6hh.jpg)
 
 
 在 Windows 虚拟机上安装软件包。
 
 
-![Virtio-Win-driver 安装](/Asserts/Images//attachment/album/202307/22/160247kq64a4ug47d6qqz8.jpg)
+![Virtio-Win-driver 安装](/Asserts/Images/album/202307/22/160247kq64a4ug47d6qqz8.jpg)
 
 
 安装完成后，**重启** Windows 虚拟机。
@@ -177,7 +177,7 @@ tags:	[linuxcn,共享,KVM]
 **注意**：（可选）如果你看到感叹号，即未检测到驱动程序，请按照 [此处](https://virtio-fs.gitlab.io/howto-windows.html) 说明下载 ISO 文件、安装它并手动检测驱动程序。
 
 
-![Make sure the Virt IO driver is signed and installed](/Asserts/Images//attachment/album/202307/22/160258uvqkrqm0cjklvk8r.jpg)
+![Make sure the Virt IO driver is signed and installed](/Asserts/Images/album/202307/22/160258uvqkrqm0cjklvk8r.jpg)
 
 
 打开开始菜单并搜索“服务”。
@@ -201,13 +201,13 @@ sc start VirtioFsSvc
 
 ```
 
-![启动 Virt IO 服务](/Asserts/Images//attachment/album/202307/22/160312j868t6fhtt58lox9.jpg)
+![启动 Virt IO 服务](/Asserts/Images/album/202307/22/160312j868t6fhtt58lox9.jpg)
 
 
 服务启动后，打开资源管理器，你应该看到你在上面第一步中创建的挂载标签，该标签应映射为 Z 驱动器。见下图。
 
 
-![挂载标签在 Windows 中映射为 Z 驱动器](/Asserts/Images//attachment/album/202307/22/160328m3jcqg9cltxcg3a3.jpg)
+![挂载标签在 Windows 中映射为 Z 驱动器](/Asserts/Images/album/202307/22/160328m3jcqg9cltxcg3a3.jpg)
 
 
 你现在可以根据需要使用修改后的权限访问整个 Linux 文件夹。
@@ -216,7 +216,7 @@ sc start VirtioFsSvc
 以下是在 Linux Mint 和 Windows 客户虚拟机中访问的同一文件夹的并排比较。
 
 
-![访问和共享 Windows 客户机和 Linux 主机中的文件夹](/Asserts/Images//attachment/album/202307/22/160344cikhafybq7h9oacf.jpg)
+![访问和共享 Windows 客户机和 Linux 主机中的文件夹](/Asserts/Images/album/202307/22/160344cikhafybq7h9oacf.jpg)
 
 
 ### 总结

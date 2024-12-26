@@ -15,13 +15,13 @@ tags:	[linuxcn,OpenPGP,邮件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/16/115721k1vi1ekzip1kpqkg.jpg "email or newsletters via inbox and browser")
+![](/Asserts/Images/album/202110/16/115721k1vi1ekzip1kpqkg.jpg "email or newsletters via inbox and browser")
 
 
 [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) 是一个实现了 [OpenPGP 标准](https://tools.ietf.org/html/rfc4880) 的密码学库，最常用于电子邮件加密。ProtonMail、Mailvelope 和 FlowCrypt 都使用 OpenPGP.js，这还仅仅是其中一些。也就是说 OpenPGP.js 库对数百万用户的信息进行了加密。
 
 
-OpenPGP 标准首次发布于 20 世纪 90 年代，像几乎任何东西一样，需要维护和更新，以保证安全和可用性。该标准的“加密刷新” [正在进行中](https://Asserts/Images/tracker.ietf.org/doc/charter-ietf-openpgp/)，它增加了现代的加密算法并废除了过时的算法。为了提高可用性，各种电子邮件应用程序现在允许用户无缝加密他们的通信，用户无需管理他们的密钥或他们的联系人的密钥。
+OpenPGP 标准首次发布于 20 世纪 90 年代，像几乎任何东西一样，需要维护和更新，以保证安全和可用性。该标准的“加密刷新” [正在进行中](https://datatracker.ietf.org/doc/charter-ietf-openpgp/)，它增加了现代的加密算法并废除了过时的算法。为了提高可用性，各种电子邮件应用程序现在允许用户无缝加密他们的通信，用户无需管理他们的密钥或他们的联系人的密钥。
 
 
 OpenPGP.js 于 2014 年首次发布，开始基于一个名为 GPG4Browsers 的早期原型，该原型基于 Herbert Hanewinkel（以及其他贡献者）的几个脚本。OpenPGP.js 的第二个版本于 2016 年发布，完全重新设计，使用 Uint8Arrays 而不是字符串（这大大增加了其性能），并在内部使用现代 ES6 模块而不是 CommonJS 模块。第 3 和第 4 版都是在 2018 年发布的，分别增加了对椭圆曲线加密法（ECC）和流的支持。
@@ -51,7 +51,7 @@ OpenPGP.js 于 2014 年首次发布，开始基于一个名为 GPG4Browsers 的�
 ### OpenPGP.js 的下一步是什么？
 
 
-展望未来，有一些安全方面的改进要做。用于识别公钥的密钥指纹仍然使用 SHA-1，尽管在加密技术更新中计划对此进行修复。同时，建议使用不同的方法来确定用于加密的任何公钥的真实性，例如使用提议的 <ruby> <a href="https://Asserts/Images/tracker.ietf.org/doc/html/draft-koch-openpgp-webkey-service">  网络密钥目录 </a> <rt>  Web Key Directory </rt></ruby>（WKD）标准直接从收件人的域中获取整个密钥，这已经由各种 [电子邮件提供商](https://wiki.gnupg.org/WKD#Mail_Service_Providers_offering_WKD) 实现。WKD 支持内置于 OpenPGP.js 第 4 版，但在第 5 版中是一个单独的模块，以保持主库的精简。
+展望未来，有一些安全方面的改进要做。用于识别公钥的密钥指纹仍然使用 SHA-1，尽管在加密技术更新中计划对此进行修复。同时，建议使用不同的方法来确定用于加密的任何公钥的真实性，例如使用提议的 <ruby> <a href="https://datatracker.ietf.org/doc/html/draft-koch-openpgp-webkey-service">  网络密钥目录 </a> <rt>  Web Key Directory </rt></ruby>（WKD）标准直接从收件人的域中获取整个密钥，这已经由各种 [电子邮件提供商](https://wiki.gnupg.org/WKD#Mail_Service_Providers_offering_WKD) 实现。WKD 支持内置于 OpenPGP.js 第 4 版，但在第 5 版中是一个单独的模块，以保持主库的精简。
 
 
 同样，当用密码而不是公钥加密信息或文件时（例如：在使用 OpenPGP 进行电子邮件加密时不常见，但在用于加密备份时更常见），密码会使用相对较弱的<ruby> 密钥衍生函数 <rt>  Key Derivation Function </rt></ruby>（KDF）转换为对称密钥。因此，建议应用在将用户的密码传递给 OpenPGP.js 之前，先通过一个强大的 KDF，如 [Argon2](https://en.wikipedia.org/wiki/Argon2) 或 [scrypt](https://en.wikipedia.org/wiki/Scrypt)。希望加密刷新草案会包括这些算法中的一种，以便在未来的 OpenPGP.js 版本中实现。

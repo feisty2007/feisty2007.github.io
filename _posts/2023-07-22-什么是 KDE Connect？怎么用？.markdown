@@ -7,7 +7,7 @@ tags:	[linuxcn,手机,安卓,KDE Connect]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/22/141943rzv64oapavv7aa4o.jpg)
+![](/Asserts/Images/album/202307/22/141943rzv64oapavv7aa4o.jpg)
 
 
 
@@ -115,13 +115,13 @@ KDE Connect 可以连接相同网络中的设备。因此，确保你的 Linux �
 打开你手机里的 KDE Connect。你应该可以见到你的 Linux 系统的名称。如果没有看到任何内容，确保你的设备和 Linux 都连接到了同一个网络后点击“<ruby> 刷新 <rt>  Refresh </rt></ruby>”。
 
 
-![安卓中的 KDE Connect 显示连接到了 Linux 系统](/Asserts/Images//attachment/album/202307/22/142225qkhg7wfwyy2e2umz.jpg)
+![安卓中的 KDE Connect 显示连接到了 Linux 系统](/Asserts/Images/album/202307/22/142225qkhg7wfwyy2e2umz.jpg)
 
 
 打开 Linux 中的 KDE Connect，你应当见到你的手机进入了下图展示的样子。
 
 
-![配对前的 KDE Connect](/Asserts/Images//attachment/album/202307/22/142240cazmknbkb1mwin8m.jpg)
+![配对前的 KDE Connect](/Asserts/Images/album/202307/22/142240cazmknbkb1mwin8m.jpg)
 
 
 现在，点开你手机的名称然后点击 “<ruby> 配对 <rt>  Pair </rt></ruby>”。
@@ -130,13 +130,13 @@ KDE Connect 可以连接相同网络中的设备。因此，确保你的 Linux �
 紧接着你的手机就会收到一个提醒：是否接受配对。选择 “<ruby> 接受 <rt>  Accept </rt></ruby>”。
 
 
-![KDE Connect 的配对请求](/Asserts/Images//attachment/album/202307/22/142253ldzb68lhh9b2h832.jpg)
+![KDE Connect 的配对请求](/Asserts/Images/album/202307/22/142253ldzb68lhh9b2h832.jpg)
 
 
 代表你的手机的图标应当转为绿色 ，这表示你的手机和 Linux 系统都已经连接且配对。
 
 
-![成功配对后的 KDE Connect](/Asserts/Images//attachment/album/202307/22/142306vz1147zmwa7zoa77.jpg)
+![成功配对后的 KDE Connect](/Asserts/Images/album/202307/22/142306vz1147zmwa7zoa77.jpg)
 
 
 默认情况下，程序会开启以下特性：
@@ -173,19 +173,19 @@ KDE Connect 可以连接相同网络中的设备。因此，确保你的 Linux �
 对 KDE Connect 启用通知访问，然后点击 “<ruby> 允许 <rt>  Allow </rt></ruby>”。
 
 
-![打开同步提醒中](/Asserts/Images//attachment/album/202307/22/142327czp2phbzcznpog0g.jpg)
+![打开同步提醒中](/Asserts/Images/album/202307/22/142327czp2phbzcznpog0g.jpg)
 
 
 之后将展示你手机上的提醒到你的 Linux 设备。例如，下面的提醒是我在我的测试安卓设备中收到的。
 
 
-![手机中的样例提醒](/Asserts/Images//attachment/album/202307/22/142337hm6b4exigx2nbyiy.jpg)
+![手机中的样例提醒](/Asserts/Images/album/202307/22/142337hm6b4exigx2nbyiy.jpg)
 
 
 同样的信息也展现在了 Linux 系统中的 KDE Connect。
 
 
-![来自手机的样例信息在 KDE Connect 中](/Asserts/Images//attachment/album/202307/22/142346tkkfwuowu0ogj193.jpg)
+![来自手机的样例信息在 KDE Connect 中](/Asserts/Images/album/202307/22/142346tkkfwuowu0ogj193.jpg)
 
 
 同样地，在给 KDE Connect 权限后，你可以启动对你可用的其他服务。

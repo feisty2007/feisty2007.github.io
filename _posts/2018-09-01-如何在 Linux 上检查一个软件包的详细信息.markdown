@@ -7,7 +7,7 @@ tags:	[linuxcn,包管理器,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/201809/16/130119o69ayamb9p5yierr.jpg)
+![](/Asserts/Images/album/201809/16/130119o69ayamb9p5yierr.jpg)
 
 
 我们可以就这个已经被广泛讨论的话题写出大量的文章，大多数情况下，因为各种各样的原因，我们都愿意让<ruby> 包管理器 <rt>  package manager </rt></ruby>来帮我们做这些事情。

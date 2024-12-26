@@ -15,7 +15,7 @@ tags:	[linuxcn,Ansible]
 > 
 
 
-![](/Asserts/Images//attachment/album/201806/12/110004oyw5z6m5ocro5ni5.png)
+![](/Asserts/Images/album/201806/12/110004oyw5z6m5ocro5ni5.png)
 
 
 [Ansible](https://www.ansible.com/) 是一个多功能平台，它已经成为管理服务器和服务器配置的流行平台。如今，Ansible 大量用于通过持续集成 （CI） 进行部署和测试。
@@ -72,7 +72,7 @@ TASK [ara : Display ara UI URL] ************************
 下图显示了从浏览器启动 ARA 登录页面：
 
 
-![ara landing page](/Asserts/Images//attachment/album/201806/12/110005y0gqw0rmlhpfr17l.png "ara landing page")
+![ara landing page](/Asserts/Images/album/201806/12/110005y0gqw0rmlhpfr17l.png "ara landing page")
 
 
 *ARA 登录页面*
@@ -81,7 +81,7 @@ TASK [ara : Display ara UI URL] ************************
 它提供了每个主机或每个 playbook 的任务结果摘要：
 
 
-![task summaries](/Asserts/Images//attachment/album/201806/12/110006q7cgzquahqqziliq.png "task summaries")
+![task summaries](/Asserts/Images/album/201806/12/110006q7cgzquahqqziliq.png "task summaries")
 
 
 *ARA 显示任务摘要*
@@ -90,7 +90,7 @@ TASK [ara : Display ara UI URL] ************************
 它允许你通过剧本，play，主机、任务或状态来过滤任务结果：
 
 
-![playbook runs filtered by hosts](/Asserts/Images//attachment/album/201806/12/110007g4xbva4464z1e6i1.png "playbook runs filtered by hosts")
+![playbook runs filtered by hosts](/Asserts/Images/album/201806/12/110007g4xbva4464z1e6i1.png "playbook runs filtered by hosts")
 
 
 *通过主机过滤剧本运行*
@@ -99,7 +99,7 @@ TASK [ara : Display ara UI URL] ************************
 借助 ARA，你可以在摘要视图中轻松查看你感兴趣的结果，无论是特定的主机还是特定的任务：
 
 
-![summary of each task](/Asserts/Images//attachment/album/201806/12/110008ce8qc2zeq2ffxecv.png "summary of each task")
+![summary of each task](/Asserts/Images/album/201806/12/110008ce8qc2zeq2ffxecv.png "summary of each task")
 
 
 *每项任务的详细摘要*
@@ -108,7 +108,7 @@ TASK [ara : Display ara UI URL] ************************
 ARA 支持在同一数据库中记录和查看多个运行。
 
 
-![show gathered facts](/Asserts/Images//attachment/album/201806/12/110009iarssftrsoarwt1a.png "show gathered facts")
+![show gathered facts](/Asserts/Images/album/201806/12/110009iarssftrsoarwt1a.png "show gathered facts")
 
 
 *显示收集的 fact*

@@ -19,7 +19,7 @@ tags:	[linuxcn,Mint]
 ### Linux Mint 20 “Ulyana” 即将推出的新功能
 
 
-![](/Asserts/Images//attachment/album/202006/08/225736vwfwyhnjfyyiylij.png)
+![](/Asserts/Images/album/202006/08/225736vwfwyhnjfyyiylij.png)
 
 
 让我们来看看代号为 Ulyana 的 Linux Mint 20 中提出的一些主要新功能和变化。
@@ -43,13 +43,13 @@ Nemo 文件管理器计划中的性能改进之一是它处理缩略图的方式
 这里是新的粉红色风格：
 
 
-![](/Asserts/Images//attachment/album/202006/08/225809bwpp99taaacwu6zl.jpg)
+![](/Asserts/Images/album/202006/08/225809bwpp99taaacwu6zl.jpg)
 
 
 以及新的青蓝色风格：
 
 
-![](/Asserts/Images//attachment/album/202006/08/225801b9x0yz07e4qtzui9.jpg)
+![](/Asserts/Images/album/202006/08/225801b9x0yz07e4qtzui9.jpg)
 
 
 #### 3. 没有过度偏重于 Snap 包
@@ -70,7 +70,7 @@ Linux Mint 团队显然对此不满意，他们确认 Mint 20 将不会安装 sn
 Linux Mint 20 将提供一个[新的 GUI 工具](https://blog.linuxmint.com/?p=3863)，可以轻松地在本地网络上共享文件，而无需任何额外的配置。
 
 
-![](/Asserts/Images//attachment/album/202006/08/225858piokkkkk8t5934et.png)
+![](/Asserts/Images/album/202006/08/225858piokkkkk8t5934et.png)
 
 
 #### 5. 更好地整合了 Electron 应用程序的桌面
@@ -85,7 +85,7 @@ Linux Mint 20 将对 Electron 应用提供更好的支持，并改进系统托�
 #### 6. 改进的支持多显示器的比例缩放功能
 
 
-![](/Asserts/Images//attachment/album/202006/08/225941jvosszjggrptcgcj.png)
+![](/Asserts/Images/album/202006/08/225941jvosszjggrptcgcj.png)
 
 
 一个提议的改变是在 Linux Mint 20 中加入支持多显示器的比例缩放功能。如果你有一个 HiDPI 和非 HiDPI 显示器的组合，你可以为它们每一个选择不同的分辨率、刷新率和不同的分数缩放。
@@ -100,13 +100,13 @@ Linux Mint 20 将对 Electron 应用提供更好的支持，并改进系统托�
 在 Mint 20 中，Nvidia prime 小程序会显示 GPU 渲染器。你也可以直接从系统托盘中的菜单中选择切换到哪块卡。
 
 
-![](/Asserts/Images//attachment/album/202006/08/230002bifl778l8m1n4460.png)
+![](/Asserts/Images/album/202006/08/230002bifl778l8m1n4460.png)
 
 
 你也可以使用 Nvidia “On-Demand” 模式。在这种模式下，将使用英特尔卡来渲染会话。而如视频播放器或视频编辑器这样的兼容应用程序可以在应用程序菜单中打开时使用 Nvidia GPU。
 
 
-![](/Asserts/Images//attachment/album/202006/08/230010vammkvbm2kojmrmm.png)
+![](/Asserts/Images/album/202006/08/230010vammkvbm2kojmrmm.png)
 
 
 #### 8. 不再支持 32 位

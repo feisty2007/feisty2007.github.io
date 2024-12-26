@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,谷歌,SHA-1]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/30/102636q2h4ch932k6k5v7m.jpg)
+![](/Asserts/Images/album/202007/30/102636q2h4ch932k6k5v7m.jpg)
 
 
 #### Windows Defender 将 CCleaner 标记为“可能不需要的应用”

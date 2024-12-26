@@ -171,7 +171,7 @@ $ qgit
 这会打开基于Qt4框架图形界面模式的QGit。
 
 
-![QGit Viewer](/Asserts/Images//attachment/album/201509/26/085428iwnwsshipuluu6us.png)
+![QGit Viewer](/Asserts/Images/album/201509/26/085428iwnwsshipuluu6us.png)
 
 
 ### 总结

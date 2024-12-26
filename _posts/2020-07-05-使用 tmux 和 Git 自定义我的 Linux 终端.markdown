@@ -15,13 +15,13 @@ tags:	[linuxcn,终端,提示符]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/25/102841u8u6ns4tp9z8bnha.jpg)
+![](/Asserts/Images/album/202007/25/102841u8u6ns4tp9z8bnha.jpg)
 
 
 我使用 GNOME 终端，主要是因为它是我的发行版的默认设置。但是我终端内远非“默认值”。在我开始解释如何自定义它之前，它现在是这个样子：
 
 
-![Moshe Zadka's terminal](/Asserts/Images//attachment/album/202007/25/102923ak3j6pqhmkfgfhpg.png "Moshe Zadka's terminal")
+![Moshe Zadka's terminal](/Asserts/Images/album/202007/25/102923ak3j6pqhmkfgfhpg.png "Moshe Zadka's terminal")
 
 
 ### 从底部开始

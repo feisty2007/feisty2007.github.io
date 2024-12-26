@@ -7,7 +7,7 @@ tags:	[linuxcn,IPv4,路由]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/24/090919jy9w2h6eyysowa3s.jpg)
+![](/Asserts/Images/album/201805/24/090919jy9w2h6eyysowa3s.jpg)
 
 
 上周 [我们学习了 IPv4 地址](/article-9657-1.html) 和如何使用管理员不可或缺的工具 —— `ipcalc`，今天我们继续学习更精彩的内容：局域网路由器。

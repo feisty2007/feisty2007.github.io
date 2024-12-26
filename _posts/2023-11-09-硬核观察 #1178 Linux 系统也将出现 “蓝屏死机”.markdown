@@ -7,10 +7,10 @@ tags:	[linuxcn,蓝屏死机,AI,Firefox,Git]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/07/195726uor9afzf2irfrooq.jpg)
+![](/Asserts/Images/album/202311/07/195726uor9afzf2irfrooq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/07/195745r4dkcrsnwinnki3o.png)
+![](/Asserts/Images/album/202311/07/195745r4dkcrsnwinnki3o.png)
 
 
 ### Linux 系统也将出现 “蓝屏死机”
@@ -35,7 +35,7 @@ tags:	[linuxcn,蓝屏死机,AI,Firefox,Git]
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/07/195759fkf5iainninubtks.png)
+![](/Asserts/Images/album/202311/07/195759fkf5iainninubtks.png)
 
 
 ### OpenAI 推出 GPT-4 Turbo 和 AI 应用商店
@@ -60,7 +60,7 @@ OpenAI 在其首届开发者大会上发布了 GPT-4 Turbo，该公司称其不�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/07/195819al7evvab8i9emli1.png)
+![](/Asserts/Images/album/202311/07/195819al7evvab8i9emli1.png)
 
 
 ### Firefox 的开发将完全转到 Git

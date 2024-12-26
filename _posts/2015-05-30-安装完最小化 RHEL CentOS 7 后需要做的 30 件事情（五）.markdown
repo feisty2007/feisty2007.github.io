@@ -7,7 +7,7 @@ tags:	[linuxcn,RHEL 7,CentOS 7]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/27/151948jz881a61rj66up58.png)
+![](/Asserts/Images/album/201504/27/151948jz881a61rj66up58.png)
 
 
 ### 25. 安装 Linux Malware Detect (LMD)
@@ -41,7 +41,7 @@ crontab 文件包含下面的 6 个域：
 
 ```
 
-![Crontab 域](/Asserts/Images//attachment/album/201505/01/213208cde9gyzvi4d2u4bb.jpg)
+![Crontab 域](/Asserts/Images/album/201505/01/213208cde9gyzvi4d2u4bb.jpg)
 
 
 *Crontab 域*
@@ -90,7 +90,7 @@ Owncloud 是一个基于 HTTP 的数据同步、文件共享和远程文件存�
 
 ```
 
-![安装开发工具](/Asserts/Images//attachment/album/201505/01/213209m7099nkjct0nz6e9.jpg)
+![安装开发工具](/Asserts/Images/album/201505/01/213209m7099nkjct0nz6e9.jpg)
 
 
 *安装开发工具*
@@ -133,13 +133,13 @@ Owncloud 是一个基于 HTTP 的数据同步、文件共享和远程文件存�
 
 ```
 
-![安装 VirtualBox 扩展包](/Asserts/Images//attachment/album/201505/01/213209tyzktii28f6yctf4.jpg)
+![安装 VirtualBox 扩展包](/Asserts/Images/album/201505/01/213209tyzktii28f6yctf4.jpg)
 
 
 *安装 VirtualBox 扩展包*
 
 
-![正在安装 VirtualBox 扩展包](/Asserts/Images//attachment/album/201505/01/213210psah3lndk1aqnqdd.jpg)
+![正在安装 VirtualBox 扩展包](/Asserts/Images/album/201505/01/213210psah3lndk1aqnqdd.jpg)
 
 
 *正在安装 VirtualBox 扩展包*
@@ -230,13 +230,13 @@ http://192.168.0.15/phpvirtualbox-4.3-1/
 
 ```
 
-![登录 PHP Virtualbox](/Asserts/Images//attachment/album/201505/01/213211j8eezv6d0znsc6e8.png)
+![登录 PHP Virtualbox](/Asserts/Images/album/201505/01/213211j8eezv6d0znsc6e8.png)
 
 
 *登录 PHP Virtualbox*
 
 
-![PHP Virtualbox 面板](/Asserts/Images//attachment/album/201505/01/213212jbvsj8kjjahc7sha.png)
+![PHP Virtualbox 面板](/Asserts/Images/album/201505/01/213212jbvsj8kjjahc7sha.png)
 
 
 *PHP Virtualbox 面板*

@@ -13,7 +13,7 @@ tags:	[linuxcn,命令,变量,shell]
 本文将介绍将 shell 命令赋值给变量的不同方法，这对于 shell 脚本编程是特别有用的。
 
 
-![](/Asserts/Images//attachment/album/201701/22/143544v78c308287tjuu5j.jpg)
+![](/Asserts/Images/album/201701/22/143544v78c308287tjuu5j.jpg)
 
 
 可以使用如下形式的 shell 命令置换特性，将命令的输出存储到变量中：
@@ -59,7 +59,7 @@ $ echo -e "以下为登录到系统中的用户：\n\n $(who)"
 
 ```
 
-![显示当前登录系统的用户](/Asserts/Images//attachment/album/201701/22/143555bq4mi24ry7n8r2z7.png)
+![显示当前登录系统的用户](/Asserts/Images/album/201701/22/143555bq4mi24ry7n8r2z7.png)
 
 
 *在 Linux 中显示当前登录系统的用户*
@@ -75,7 +75,7 @@ $ echo "当前目录有 $FILES 个文件。"
 
 ```
 
-![显示目中包含文件的数量](/Asserts/Images//attachment/album/201701/22/143556zrf5rgvunjb8vn5b.png)
+![显示目中包含文件的数量](/Asserts/Images/album/201701/22/143556zrf5rgvunjb8vn5b.png)
 
 
 *显示目中包含文件的数量*
@@ -89,7 +89,7 @@ $ echo "当前目录有 $FILES 个文件。"
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/22/143556b0whnfwaahghkckf.jpg)
+![](/Asserts/Images/album/201701/22/143556b0whnfwaahghkckf.jpg)
 
 
 作者简介：
@@ -101,7 +101,7 @@ Aaron Kili 是一名 Linux 和 F.O.S.S 忠实拥护者、未来的 Linux 系统�
  
 
 
-![](/Asserts/Images//attachment/album/201701/22/143842xqoz7kcu2iccgovd.jpg)
+![](/Asserts/Images/album/201701/22/143842xqoz7kcu2iccgovd.jpg)
 
 
  译者简介：

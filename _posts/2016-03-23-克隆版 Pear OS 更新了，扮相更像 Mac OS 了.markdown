@@ -28,19 +28,19 @@ tags:	[linuxcn,PearOS,MacOS]
 当然，这整个的 Mac OS X 外观是基于 GNOME 桌面环境上 的，架构于 GNOME Shell 用户界面上并做了不少调整优化。你应该自己[下载 Pear OS 9.3 ISO 镜像](http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Pear-Linux-76309.shtml)来体验一下。
 
 
-![](/Asserts/Images//attachment/album/201603/23/171835xndkqbdn11drzhx5.jpg)
+![](/Asserts/Images/album/201603/23/171835xndkqbdn11drzhx5.jpg)
 
 
-![](/Asserts/Images//attachment/album/201603/23/171836uf9srcyc8vcq5jxr.jpg)
+![](/Asserts/Images/album/201603/23/171836uf9srcyc8vcq5jxr.jpg)
 
 
-![](/Asserts/Images//attachment/album/201603/23/171836w6r6sy81sgv163sb.jpg)
+![](/Asserts/Images/album/201603/23/171836w6r6sy81sgv163sb.jpg)
 
 
-![](/Asserts/Images//attachment/album/201603/23/171837h45q9emtt99wptl5.jpg)
+![](/Asserts/Images/album/201603/23/171837h45q9emtt99wptl5.jpg)
 
 
 对比一下旧的 PearOS 界面，还是有很大的进步的：
 
 
-![](/Asserts/Images//attachment/album/201603/23/171837qc2rrcbtjg5obrjy.jpg)
+![](/Asserts/Images/album/201603/23/171837qc2rrcbtjg5obrjy.jpg)

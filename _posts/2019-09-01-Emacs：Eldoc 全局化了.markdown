@@ -7,7 +7,7 @@ tags:	[linuxcn,Emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201909/05/045702d99v9vv4xy0aybmm.jpg)
+![](/Asserts/Images/album/201909/05/045702d99v9vv4xy0aybmm.jpg)
 
 
 最近我注意到 Emacs 25.1 增加了一个名为 `global-eldoc-mode` 的模式，它是流行的 `eldoc-mode` 的一个全局化的变体。而且与 `eldoc-mode` 不同的是，`global-eldoc-mode` 默认是开启的！

@@ -13,7 +13,7 @@ tags:	[linuxcn,Docker,.Net Core]
 我是首次接触 Docker 并且距离成为一名 Linux 高手还有很远的一段路程。因此，这里的很多想法是来自一个新手。
 
 
-![](/Asserts/Images//attachment/album/201611/04/213354q8bd9jb8e88teo5g.jpg)
+![](/Asserts/Images/album/201611/04/213354q8bd9jb8e88teo5g.jpg)
 
 
 ### 安装
@@ -412,7 +412,7 @@ docker inspect books
 
 ```
 
-![](/Asserts/Images//attachment/album/201611/04/214147ff5if5556rqmi5h8.png)
+![](/Asserts/Images/album/201611/04/214147ff5if5556rqmi5h8.png)
 
 
 我们可以看到这个容器的 IP 地址是 `"IPAddress": "172.17.0.3"`。
@@ -447,7 +447,7 @@ nginx
 一个到 `http://localhost:8080` 的请求将被代理到应用上。注意下面 `curl` 响应的 `Server` 响应头：
 
 
-![](/Asserts/Images//attachment/album/201611/04/214211az6777pz7pcc9ici.png)
+![](/Asserts/Images/album/201611/04/214211az6777pz7pcc9ici.png)
 
 
 ### DOCKER COMPOSE
@@ -552,13 +552,13 @@ Docker Compose 通过创建一个新的叫做 `mvclibrary_default` 的虚拟网�
 通过 `docker network ls` 来验证网络已经存在：
 
 
-![](/Asserts/Images//attachment/album/201611/04/214239m1h9dndn6z71ckk1.png)
+![](/Asserts/Images/album/201611/04/214239m1h9dndn6z71ckk1.png)
 
 
 你可以使用 `docker network inspect mvclibrary_default` 来看到新的网络的细节：
 
 
-![](/Asserts/Images//attachment/album/201611/04/214309g0ac0uzvkchvuoov.png)
+![](/Asserts/Images/album/201611/04/214309g0ac0uzvkchvuoov.png)
 
 
 注意 Docker 已经给网络分配了子网：`"Subnet": "172.18.0.0/16"`。`/16` 部分是无类域内路由选择（CIDR），完整的解释已经超出了本文的范围，但 CIDR 只是表示 IP 地址范围。运行 `docker network inspect bridge` 显示子网：`"Subnet": "172.17.0.0/16"`，因此这两个网络是不重叠的。
@@ -567,7 +567,7 @@ Docker Compose 通过创建一个新的叫做 `mvclibrary_default` 的虚拟网�
 现在用 `docker inspect books-api` 来确认应用程序的容器正在使用该网络：
 
 
-![](/Asserts/Images//attachment/album/201611/04/214338m0d52xft4z6wds5g.png)
+![](/Asserts/Images/album/201611/04/214338m0d52xft4z6wds5g.png)
 
 
 注意容器的两个别名（`"Aliases"`）是容器标识符（`3c42db680459`）和由 `docker-compose.yml` 给出的服务名（`books-service`）。我们通过 `books-service` 别名在自定义 Nginx 配置文件中来引用应用程序的容器。这本可以通过 `docker network create` 手动创建，但是我喜欢用 Docker Compose，因为它可以干净简洁地将容器创建和依存捆绑在一起。

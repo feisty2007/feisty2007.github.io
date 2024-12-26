@@ -10,7 +10,7 @@ tags:	[linuxcn,Linus Torvalds,Fedora,Google+]
 **Linus Torvalds 在Google+上发布了一个非常简单直接的关于Fedora的信息，紧接着就引发了一系列谴责和各式吐槽。**
 
 
- ![](/Asserts/Images//attachment/album/201310/27/2323213rlr5ll21llzag8v.jpg)
+ ![](/Asserts/Images/album/201310/27/2323213rlr5ll21llzag8v.jpg)
 
 
 Linux之父发布的是一个非常简单的问题：Fedora开发者为何不更新发行版镜像，加入最新的内核与软件包？

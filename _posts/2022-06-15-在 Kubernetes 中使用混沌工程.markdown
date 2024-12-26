@@ -15,7 +15,7 @@ tags:	[linuxcn,混沌工程]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/22/110901xbb88ccb8lfcgcrl.jpg "Scrabble letters spell out chaos for chaos engineering")
+![](/Asserts/Images/album/202206/22/110901xbb88ccb8lfcgcrl.jpg "Scrabble letters spell out chaos for chaos engineering")
 
 
 混沌工程是由科学、规划以及实验组成的。它是一门在系统上进行实验的学科，用来建立系统在生产中承受混乱条件能力的信心。

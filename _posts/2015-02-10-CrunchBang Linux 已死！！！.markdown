@@ -7,7 +7,7 @@ tags:	[linuxcn,发行版,CrunchBang]
 ---
 
 
-![](/Asserts/Images//attachment/album/201502/20/210634maa2ycnf0dyyefcg.jpeg)
+![](/Asserts/Images/album/201502/20/210634maa2ycnf0dyyefcg.jpeg)
 
 
 是的，你没看错。极简 Linux 发行版**CrunchBang Linux 已经消失了**。

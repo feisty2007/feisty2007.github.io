@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,强调色]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/13/075753yoi4j2ozozkkxmmk.jpg)
+![](/Asserts/Images/album/202209/13/075753yoi4j2ozozkkxmmk.jpg)
 
 
 
@@ -54,7 +54,7 @@ tags:	[linuxcn,Ubuntu,强调色]
 * 红色
 
 
-![Accent Colour in Ubuntu](/Asserts/Images//attachment/album/202209/13/075755lkdfojgc8jo8nhoq.jpg)
+![Accent Colour in Ubuntu](/Asserts/Images/album/202209/13/075755lkdfojgc8jo8nhoq.jpg)
 
 
 （LCTT 译注：树皮色是一种棕色，鼠尾草色是一种灰绿色。）
@@ -80,7 +80,7 @@ tags:	[linuxcn,Ubuntu,强调色]
 * 选择你的强调色
 
 
-![KDE Plasma 5.25 - Accent Colour Change Based on wallpaper](/Asserts/Images//attachment/album/202209/13/075756h8ehqz9eofvet98r.jpg)
+![KDE Plasma 5.25 - Accent Colour Change Based on wallpaper](/Asserts/Images/album/202209/13/075756h8ehqz9eofvet98r.jpg)
 
 
 我知道 Lubuntu 与 Xubuntu 并没有这个特性。而且它不太可能很快到来。

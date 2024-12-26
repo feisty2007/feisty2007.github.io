@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/08/084638i8vp81c1zpxpw6i8.jpg)
+![](/Asserts/Images/album/202204/08/084638i8vp81c1zpxpw6i8.jpg)
 
 
 
@@ -71,7 +71,7 @@ tags:	[linuxcn,Arch Linux]
 一旦启动完成，你应该看到以下提示。键入 `archinstall` 然后点击回车。
 
 
-![First prompt for archinstall](/Asserts/Images//attachment/album/202204/08/084646xmdhm4wntaxw4sw9.png)
+![First prompt for archinstall](/Asserts/Images/album/202204/08/084646xmdhm4wntaxw4sw9.png)
 
 
 这个命令将会验证网络连接是否连接到 Arch Linux 的镜像站点。一旦完成，就会弹出一系列（像这样的）问题。你需要做的将是阅读和回复。
@@ -86,13 +86,13 @@ tags:	[linuxcn,Arch Linux]
 因此，第一个问题是键盘布局类型。通过两个字节国家特定布局代码来显示。你也可以键入它们或者输入它们边上的数字。对于美国-英语来说，我键入 `us` 。
 
 
-![Keyboard Type – archinstall](/Asserts/Images//attachment/album/202204/08/084646nu1qz2ahlh2unid2.jpg)
+![Keyboard Type – archinstall](/Asserts/Images/album/202204/08/084646nu1qz2ahlh2unid2.jpg)
 
 
 下一步是键盘语言，我键入数字 `65` 选择美国。
 
 
-![Keyboard Language – archinstall](/Asserts/Images//attachment/album/202204/08/084646gh0vbhruuh6viiu6.jpg)
+![Keyboard Language – archinstall](/Asserts/Images/album/202204/08/084646gh0vbhruuh6viiu6.jpg)
 
 
 下一个是硬盘驱动器部分。这个脚本自动探测你的目标系统的可用驱动器。举个例子，在以下图片中，它显示 17GB `/dev/vda` 是一个主要的块设备。这就是我要安装系统的地方。不要跳过这个步骤。 
@@ -104,16 +104,16 @@ tags:	[linuxcn,Arch Linux]
 一旦你做完这步，你应该在设置这个设备的边上看到一个双箭头 `>>`。如果你已经选中它，按下回车键进入下一步。
 
 
-![Choose Block Device -1](/Asserts/Images//attachment/album/202204/08/084646dd9tdi4w3spwssvj.jpg)
+![Choose Block Device -1](/Asserts/Images/album/202204/08/084646dd9tdi4w3spwssvj.jpg)
 
 
-![Choose Block Device -2](/Asserts/Images//attachment/album/202204/08/084646heh22fcqex2eurk8.jpg)
+![Choose Block Device -2](/Asserts/Images/album/202204/08/084646heh22fcqex2eurk8.jpg)
 
 
 在下一个选项中，你要非常小心。这个脚本问是否你想清除设备然后进行自动分区。否则你要手动分区硬盘驱动器。为了简单起见，我选择选项 `0`。
 
 
-![Select partition option – archinstall](/Asserts/Images//attachment/album/202204/08/084646sibfdbzbmb9d5bf9.jpg)
+![Select partition option – archinstall](/Asserts/Images/album/202204/08/084646sibfdbzbmb9d5bf9.jpg)
 
 
 在下面一组问题中，如下图所示。更多的是文件系统类型、主机名、root 用户密码，等等。按照屏幕上的操作。便于帮助你，我已经在下表中加入了用于本指南的问题和答案。
@@ -133,7 +133,7 @@ tags:	[linuxcn,Arch Linux]
 | 安装声卡驱动 | 选择 `pulseaudio` |
 
 
-![Various options in archinstall -1](/Asserts/Images//attachment/album/202204/08/084646g3883yw61111d9w6.jpg)
+![Various options in archinstall -1](/Asserts/Images/album/202204/08/084646g3883yw61111d9w6.jpg)
 
 
 在选择内核的下个问题里，选择 `linux`。这个脚本将要为你安装你额外添加的软件包，像 firefox、nano ，等等。
@@ -142,13 +142,13 @@ tags:	[linuxcn,Arch Linux]
 用 NetworkManager 选择网络接口，并且为时区选择缺省选项。
 
 
-![Various options in archinstall -2](/Asserts/Images//attachment/album/202204/08/084647ytqz8nzlly9ljtug.jpg)
+![Various options in archinstall -2](/Asserts/Images/album/202204/08/084647ytqz8nzlly9ljtug.jpg)
 
 
 就是这样。一旦你已经完成上述步骤，这个脚本将会生成，并且等待你按下回车开始安装过程。
 
 
-![archinstall starts downloading packages](/Asserts/Images//attachment/album/202204/08/084647m7d0dwyyssw43p57.jpg)
+![archinstall starts downloading packages](/Asserts/Images/album/202204/08/084647m7d0dwyyssw43p57.jpg)
 
 
 等待直到这一步骤完成。这将花一些时间下载安装所有软件包，这依赖你的系统和网络连接速度。有时 Arch 镜像是缓慢的，所以等待直到它完成。

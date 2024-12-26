@@ -7,7 +7,7 @@ tags:	[linuxcn,vim,编译]
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/05/220017pyxnl20304ng3z9x.jpg)
+![](/Asserts/Images/album/201701/05/220017pyxnl20304ng3z9x.jpg)
 
 
 从源代码编译 Vim 实际上并不那么困难。下面是你所要做的：

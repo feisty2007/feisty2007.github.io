@@ -7,7 +7,7 @@ tags:	[linuxcn,SOCKS,SSH]
 ---
 
 
-![](/Asserts/Images//attachment/album/201710/10/222722j7eum8e7kfbfk44m.jpg)
+![](/Asserts/Images/album/201710/10/222722j7eum8e7kfbfk44m.jpg)
 
 
 在上一篇文章（[通过 SSH 实现 TCP / IP 隧道（端口转发）：使用 OpenSSH 可能的 8 种场景](/article-8945-1.html)）中，我们看到了处理端口转发的所有可能情况，不过那只是静态端口转发。也就是说，我们只介绍了通过 SSH 连接来访问另一个系统的端口的情况。
@@ -67,16 +67,16 @@ Clientessh $ ssh -fN -D 0.0.0.0:1080 user@servidorssh
 使用 [PuTTY](https://wesharethis.com/goto/http://www.chiark.greenend.org.uk/%7Esgtatham/putty/download.html) 也可以非常简单地进行端口重定向。与 `ssh -D 0.0.0.0:1080` 相当的配置如下：
 
 
-![PuTTY SOCKS](/Asserts/Images//attachment/album/201710/10/222742d1cmxmmxffczomnh.png)
+![PuTTY SOCKS](/Asserts/Images/album/201710/10/222742d1cmxmmxffczomnh.png)
 
 
 对于通过 SOCKS 服务器访问另一个网络的应用程序，如果应用程序提供了对 SOCKS 服务器的特别支持，就会非常方便（虽然不是必需的），就像浏览器支持使用代理服务器一样。作为一个例子，如 Firefox 或 Internet Explorer 这样的浏览器使用 SOCKS 服务器访问另一个网络的应用程序：
 
 
-![Firefox SOCKS](/Asserts/Images//attachment/album/201710/10/222745h60cyydqcm011qym.png)
+![Firefox SOCKS](/Asserts/Images/album/201710/10/222745h60cyydqcm011qym.png)
 
 
-![Internet Explorer SOCKS](/Asserts/Images//attachment/album/201710/10/222747rsdpooyololqbxbx.png)
+![Internet Explorer SOCKS](/Asserts/Images/album/201710/10/222747rsdpooyololqbxbx.png)
 
 
 注意：上述截图来自 [IE for Linux](https://wesharethis.com/goto/http://www.tatanka.com.br/ies4linux/page/Main_Page) ：如果您需要在 Linux 上使用 Internet Explorer，强烈推荐！
@@ -88,13 +88,13 @@ Clientessh $ ssh -fN -D 0.0.0.0:1080 user@servidorssh
 不过，Thunderbird 也支持 SOCKS，而且很有用：
 
 
-![Thunderbird SOCKS](/Asserts/Images//attachment/album/201710/10/222752o9aiuauj0me1iuk9.png)
+![Thunderbird SOCKS](/Asserts/Images/album/201710/10/222752o9aiuauj0me1iuk9.png)
 
 
 另一个例子：[Spotify](https://wesharethis.com/goto/https://www.spotify.com/int/download/linux/) 客户端同样支持 SOCKS：
 
 
-![Spotify SOCKS](/Asserts/Images//attachment/album/201710/10/222753d3qvipg99pgi1ppg.png)
+![Spotify SOCKS](/Asserts/Images/album/201710/10/222753d3qvipg99pgi1ppg.png)
 
 
 需要关注一下名称解析。有时我们会发现，在目前的网络中，我们无法解析 SOCKS 服务器另一端所要访问的系统的名称。SOCKS 5 还允许我们通过隧道传播 DNS 请求（ 因为 SOCKS 5 允许我们使用 UDP）并将它们发送到另一端：可以指定是本地还是远程解析（或者也可以两者都试试）。支持此功能的应用程序也必须考虑到这一点。例如，Firefox 具有参数 `network.proxy.socks_remote_dns`（在 `about:config` 中），允许我们指定远程解析。而默认情况下，它在本地解析。
@@ -115,13 +115,13 @@ Thunderbird 也支持参数 `network.proxy.socks_remote_dns`，但由于没有�
 这是 SocksCap 的一个界面，可以看到我们 “sock 化” 了的几个应用程序。当我们从这里启动它们时，这些应用程序将通过 SOCKS 服务器访问网络：
 
 
-![SocksCap](/Asserts/Images//attachment/album/201710/10/222753sgxhbmcn8x1mu1hh.png)
+![SocksCap](/Asserts/Images/album/201710/10/222753sgxhbmcn8x1mu1hh.png)
 
 
 在配置对话框中可以看到，如果选择了协议 SOCKS 5，我们可以选择在本地或远程解析名称：
 
 
-![SocksCap settings](/Asserts/Images//attachment/album/201710/10/222755lrzoov4joto3otor.png)
+![SocksCap settings](/Asserts/Images/album/201710/10/222755lrzoov4joto3otor.png)
 
 
 在 Linux 上，如同往常一样，对某个远程命令我们都有许多替代方案。在 Debian/Ubuntu 中，命令行：

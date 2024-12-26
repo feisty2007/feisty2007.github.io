@@ -7,7 +7,7 @@ tags:	[linuxcn,OpenStack]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/18/213257q1sssrjxuos3tv66.jpg)
+![](/Asserts/Images/album/201702/18/213257q1sssrjxuos3tv66.jpg)
 
 
 随着越来越多的组织寻求构建和管理自己的开源云，所以拥有 OpenStack 经验仍然被视为技术界中最需要的技能。但是 OpenStack 是一个巨大的知识领域，包含了十几个正在积极开发的单独项目。仅仅使你的技能跟上它的最新发展就是一个挑战。

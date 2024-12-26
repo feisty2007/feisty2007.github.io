@@ -7,7 +7,7 @@ tags:	[linuxcn,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/30/234824ok4qo2o5rryyrwd5.png)
+![](/Asserts/Images/album/201910/30/234824ok4qo2o5rryyrwd5.png)
 
 
 是的，这是年终摘要文章之一。这是一篇很长的文章，因为就网络安全新闻来说，2019 年就是一场灾难，每周都会有一个或多个重大事件发生。
@@ -118,10 +118,10 @@ tags:	[linuxcn,安全]
 [Checkm8 iOS 越狱](https://www.zdnet.com/article/new-checkm8-jailbreak-released-for-all-ios-devices-running-a5-to-a11-chips/)：针对所有运行 A5 至 A11 芯片的 iOS 设备（在 iPhone 4S 以及 iPhone 8 和 X 上）发布的新 Checkm8 越狱。过去九年来，这是第一个在硬件级别起作用的越狱漏洞。
 
 
-[数据库泄漏了厄瓜多尔大多数公民的数据](https://www.zdnet.com/article/Asserts/Images/base-leaks-data-on-most-of-ecuadors-citizens-including-6-7-million-children/)：Elasticsearch 服务器泄漏了有关厄瓜多尔公民其家谱和孩子的个人数据，还泄漏了一些用户的财务记录和汽车登记信息。[该公司高管随后被捕](https://www.zdnet.com/article/arrest-made-in-ecuadors-massive-data-breach/)。
+[数据库泄漏了厄瓜多尔大多数公民的数据](https://www.zdnet.com/article/database-leaks-data-on-most-of-ecuadors-citizens-including-6-7-million-children/)：Elasticsearch 服务器泄漏了有关厄瓜多尔公民其家谱和孩子的个人数据，还泄漏了一些用户的财务记录和汽车登记信息。[该公司高管随后被捕](https://www.zdnet.com/article/arrest-made-in-ecuadors-massive-data-breach/)。
 
 
-[Limin PDF 泄露事件](https://www.zdnet.com/article/Asserts/Images/-of-24-3-million-lumin-pdf-users-shared-on-hacking-forum/)：九月中旬，超过 2430 万 Lumin PDF 的用户详细信息在黑客论坛上被分享。该公司在第二天承认这次泄露。
+[Limin PDF 泄露事件](https://www.zdnet.com/article/data-of-24-3-million-lumin-pdf-users-shared-on-hacking-forum/)：九月中旬，超过 2430 万 Lumin PDF 的用户详细信息在黑客论坛上被分享。该公司在第二天承认这次泄露。
 
 
 [Heyyo 约会应用程序泄漏事件](https://www.zdnet.com/article/heyyo-dating-app-leaked-users-personal-data-photos-location-data-more/)：他们泄漏了除私人消息以外的几乎所有内容。

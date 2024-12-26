@@ -7,7 +7,7 @@ tags:	[linuxcn,GraphQL,图数据库]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/19/111808se294h4oy3b1bobe.jpg)
+![](/Asserts/Images/album/201705/19/111808se294h4oy3b1bobe.jpg)
 
 
 ### 摘要

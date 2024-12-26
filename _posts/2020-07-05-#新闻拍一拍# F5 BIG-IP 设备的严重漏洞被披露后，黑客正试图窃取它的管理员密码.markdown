@@ -7,7 +7,7 @@ tags:	[linuxcn,F5,网络安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/06/113715k25k1xss6i6k1k11.jpg)
+![](/Asserts/Images/album/202007/06/113715k25k1xss6i6k1k11.jpg)
 
 
 #### F5 BIG-IP 设备的严重漏洞被披露后，黑客正试图窃取它的管理员密码

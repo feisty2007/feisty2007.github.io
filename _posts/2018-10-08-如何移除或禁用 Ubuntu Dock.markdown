@@ -7,7 +7,7 @@ tags:	[linuxcn,Dock]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/29/193718cfrnf5uwtczfq38n.png)
+![](/Asserts/Images/album/201810/29/193718cfrnf5uwtczfq38n.png)
 
 
 
@@ -128,7 +128,7 @@ sudo apt install vanilla-gnome-desktop
 安装完成后，重启系统。在登录屏幕上，单击用户名，单击 “Sign in” 按钮旁边的齿轮图标，然后选择 “GNOME” 而不是 “Ubuntu”，之后继续登录。
 
 
-![](/Asserts/Images//attachment/album/201810/29/193729zuttwnlqkuqd0wxd.png)
+![](/Asserts/Images/album/201810/29/193729zuttwnlqkuqd0wxd.png)
 
 
 如果要撤销此操作并移除原生 Gnome 会话，可以使用以下命令清除原生 Gnome 软件包，然后删除它安装的依赖项（第二条命令）：

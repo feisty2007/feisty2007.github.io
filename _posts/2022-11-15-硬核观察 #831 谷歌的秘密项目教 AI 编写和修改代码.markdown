@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,安全,谷歌,Markdown]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/25/154711rggloqhsp2ux2ubl.jpg)
+![](/Asserts/Images/album/202211/25/154711rggloqhsp2ux2ubl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202211/25/154720wbcfm6pfsl9slmbd.jpg)
+![](/Asserts/Images/album/202211/25/154720wbcfm6pfsl9slmbd.jpg)
 
 
 ### 谷歌的秘密项目教 AI 编写和修改代码
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,安全,谷歌,Markdown]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/25/154734teclxl9ufpulooor.jpg)
+![](/Asserts/Images/album/202211/25/154734teclxl9ufpulooor.jpg)
 
 
 ### 谷歌安全团队称谷歌等安卓手机厂商迟迟没有修补漏洞
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,安全,谷歌,Markdown]
 > 
 
 
-![](/Asserts/Images//attachment/album/202211/25/154754w9mmtt1pr1gqkzr1.jpg)
+![](/Asserts/Images/album/202211/25/154754w9mmtt1pr1gqkzr1.jpg)
 
 
 ### GitHub 正在测试在 Markdown 中嵌入 JavaScript

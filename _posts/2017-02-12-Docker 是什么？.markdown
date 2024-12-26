@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201702/10/220516f40nd8jcnj0c0bcf.jpg)
+![](/Asserts/Images/album/201702/10/220516f40nd8jcnj0c0bcf.jpg)
 
 
 

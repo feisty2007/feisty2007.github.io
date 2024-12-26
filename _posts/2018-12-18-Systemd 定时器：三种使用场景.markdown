@@ -15,7 +15,7 @@ tags:	[linuxcn,定时器,systemd]
 > 
 
 
-![](/Asserts/Images//attachment/album/201812/02/093439gam6n0m35b3hibic.jpg)
+![](/Asserts/Images/album/201812/02/093439gam6n0m35b3hibic.jpg)
 
 
 在这个 systemd 系列教程中，我们[已经在某种程度上讨论了 systemd 定时器单元](/article-10182-1.html)。不过，在我们开始讨论 sockets 之前，我们先来看三个例子，这些例子展示了如何最佳化利用这些单元。

@@ -7,7 +7,7 @@ tags:	[linuxcn,虚拟助手]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/29/174213fd5p3ppx4uu3napu.png)
+![](/Asserts/Images/album/201804/29/174213fd5p3ppx4uu3napu.png)
 
 
 不久前，我们介绍了一个名为 [“Betty”](https://www.ostechnix.com/betty-siri-like-commandline-virtual-assistant-linux/) 的命令行虚拟助手。今天，我偶然发现了一个类似的实用程序，叫做 “Yoda”。Yoda 是一个命令行个人助理，可以帮助您在 Linux 中完成一些琐碎的任务。它是用 Python 编写的一个自由开源应用程序。在本指南中，我们将了解如何在 GNU/Linux 中安装和使用 Yoda。

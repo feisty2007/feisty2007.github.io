@@ -7,10 +7,10 @@ tags:	[linuxcn,WSL,GitHub,OpenCloudOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/24/145237kghf2v2gpghttmp2.jpg)
+![](/Asserts/Images/album/202206/24/145237kghf2v2gpghttmp2.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/24/145246r7sapi7snhs4sne4.jpg)
+![](/Asserts/Images/album/202206/24/145246r7sapi7snhs4sne4.jpg)
 
 
 ### WSL2 可以运行在 Windows Server 2022 上了
@@ -35,7 +35,7 @@ tags:	[linuxcn,WSL,GitHub,OpenCloudOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/24/145301frrzhjecgbfxpj6t.jpg)
+![](/Asserts/Images/album/202206/24/145301frrzhjecgbfxpj6t.jpg)
 
 
 ### 美参议员将加密货币监管法案草案发布到 GitHub 上
@@ -60,7 +60,7 @@ tags:	[linuxcn,WSL,GitHub,OpenCloudOS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/24/145322l2f4y4myej5fy4fm.jpg)
+![](/Asserts/Images/album/202206/24/145322l2f4y4myej5fy4fm.jpg)
 
 
 ### 首个全链路国产操作系统 OpenCloudOS 发布

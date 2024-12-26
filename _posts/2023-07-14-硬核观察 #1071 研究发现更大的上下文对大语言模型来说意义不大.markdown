@@ -7,10 +7,10 @@ tags:	[linuxcn,大语言模型,谷歌,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/23/202907npdjjj877g9qpp78.jpg)
+![](/Asserts/Images/album/202307/23/202907npdjjj877g9qpp78.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/23/202919rhghhc1jgnwiieh6.jpg)
+![](/Asserts/Images/album/202307/23/202919rhghhc1jgnwiieh6.jpg)
 
 
 ### 研究发现更大的上下文对大语言模型来说意义不大
@@ -35,7 +35,7 @@ tags:	[linuxcn,大语言模型,谷歌,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/23/202934tdbwaqw6nnhqjj45.jpg)
+![](/Asserts/Images/album/202307/23/202934tdbwaqw6nnhqjj45.jpg)
 
 
 ### 谷歌敦促 Gmail 用户启用 “增强型安全浏览”
@@ -60,7 +60,7 @@ tags:	[linuxcn,大语言模型,谷歌,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/23/202949w79jap26a0lj1j0j.jpg)
+![](/Asserts/Images/album/202307/23/202949w79jap26a0lj1j0j.jpg)
 
 
 ### 五年后，Cython 3.0 发布

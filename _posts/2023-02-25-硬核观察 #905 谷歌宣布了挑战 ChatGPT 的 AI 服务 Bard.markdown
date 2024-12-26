@@ -7,10 +7,10 @@ tags:	[linuxcn,Bard,AI,Firefox,碳排放]
 ---
 
 
-![](/Asserts/Images//attachment/album/202302/07/193404egk9y9uce2cdu7dy.jpg)
+![](/Asserts/Images/album/202302/07/193404egk9y9uce2cdu7dy.jpg)
 
 
-![](/Asserts/Images//attachment/album/202302/07/193412xm41d8pcsfczjrm3.jpg)
+![](/Asserts/Images/album/202302/07/193412xm41d8pcsfczjrm3.jpg)
 
 
 ### 谷歌宣布了挑战 ChatGPT 的 AI 服务 Bard
@@ -38,7 +38,7 @@ ChatGPT 能以对话的方式回答用户输入的各种问题，它引入了信
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/07/193422zapzo2v0w9pvv0p0.jpg)
+![](/Asserts/Images/album/202302/07/193422zapzo2v0w9pvv0p0.jpg)
 
 
 ### Mozilla 恢复开发 iOS 上基于自己的引擎的 Firefox
@@ -63,7 +63,7 @@ ChatGPT 能以对话的方式回答用户输入的各种问题，它引入了信
 > 
 
 
-![](/Asserts/Images//attachment/album/202302/07/193502wniqq47m7xzszmrz.jpg)
+![](/Asserts/Images/album/202302/07/193502wniqq47m7xzszmrz.jpg)
 
 
 ### 亚马逊计划使用燃料电池运行数据中心

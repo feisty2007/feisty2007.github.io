@@ -7,7 +7,7 @@ tags:	[linuxcn,安全,漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/29/225711zvygqg7olognh8ga.jpg)
+![](/Asserts/Images/album/202108/29/225711zvygqg7olognh8ga.jpg)
 
 
 有将近 1400 万基于 Linux 的系统直接暴露在互联网上，这使得它们成为有利可图的现实世界攻击目标，这些攻击可能会导致它们被部署恶意的 Webshell、加密货币矿工、勒索软件和其他木马。
@@ -22,7 +22,7 @@ tags:	[linuxcn,安全,漏洞]
  
 
 
-![](/Asserts/Images//attachment/album/202108/29/225723flbwv7t22rtc7e2r.jpg)
+![](/Asserts/Images/album/202108/29/225723flbwv7t22rtc7e2r.jpg)
 
 
  
@@ -51,7 +51,7 @@ tags:	[linuxcn,安全,漏洞]
  
 
 
-![](/Asserts/Images//attachment/album/202108/29/225723mw7fdpssftszptsi.jpg)
+![](/Asserts/Images/album/202108/29/225723mw7fdpssftszptsi.jpg)
 
 
  

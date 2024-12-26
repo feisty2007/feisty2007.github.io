@@ -22,13 +22,13 @@ tags:	[linuxcn,截屏]
 ScreenCloud 是跨平台的程序，它提供轻松的屏幕截图功能和灵活的[云备份选项](https://itsfoss.com/cloud-services-linux/)管理。这包括使用你自己的 [FTP 服务器](https://itsfoss.com/set-ftp-server-linux/)。
 
 
-![](/Asserts/Images//attachment/album/201810/05/184003k48b554zhyc2w552.jpg)
+![](/Asserts/Images/album/201810/05/184003k48b554zhyc2w552.jpg)
 
 
 ScreenCloud 很顺滑，在细节上投入了大量的精力。它为你提供了非常容易记住的热键来捕获全屏、活动窗口或鼠标选择区域。
 
 
-![](/Asserts/Images//attachment/album/201810/05/184003hjfkkggfa5jppfnk.jpg)
+![](/Asserts/Images/album/201810/05/184003hjfkkggfa5jppfnk.jpg)
 
 
 *ScreenCloud 的默认键盘快捷键*
@@ -37,13 +37,13 @@ ScreenCloud 很顺滑，在细节上投入了大量的精力。它为你提供�
 截取屏幕截图后，你可以设置 ScreenCloud 如何处理图像或直接将其上传到你选择的云服务。它甚至支持 SFTP。截图上传后（通常在几秒钟内），图像链接就会被自动复制到剪贴板，这让你可以轻松共享。
 
 
-![](/Asserts/Images//attachment/album/201810/05/184003wt3n2t2no020009r.jpg)
+![](/Asserts/Images/album/201810/05/184003wt3n2t2no020009r.jpg)
 
 
 你还可以使用 ScreenCloud 进行一些基本编辑。为此，你需要将 “Save to” 设置为 “Ask me”。此设置在应用图标菜单中有并且通常是默认设置。当使用它时，当你截取屏幕截图时，你会看到编辑文件的选项。在这里，你可以在屏幕截图中添加箭头、文本和数字。
 
 
-![Editing screenshots with ScreenCloud](/Asserts/Images//attachment/album/201810/05/184004pd1hgh3g1dk5hbz4.png)
+![Editing screenshots with ScreenCloud](/Asserts/Images/album/201810/05/184004pd1hgh3g1dk5hbz4.png)
 
 
 *用 ScreenCloud 编辑截屏*
@@ -71,7 +71,7 @@ sudo chmod +x ScreenCloud-v1.4.0-x86_64.AppImage
 然后，你可以通过双击下载的文件来启动程序。
 
 
-![](/Asserts/Images//attachment/album/201810/05/184004pbxx4vbydhbdsgez.jpg)
+![](/Asserts/Images/album/201810/05/184004pbxx4vbydhbdsgez.jpg)
 
 
 ### 总结

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Python,Thunderbird]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/25/181941irtwhzwlwz28whrq.jpg)
+![](/Asserts/Images/album/202305/25/181941irtwhzwlwz28whrq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/25/181953e9qj9kn46yl9t4n9.jpg)
+![](/Asserts/Images/album/202305/25/181953e9qj9kn46yl9t4n9.jpg)
 
 
 ### Meta 公布革命性可扩展模型架构 Megabyte
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,Python,Thunderbird]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/25/182004erjdm9jmu81jzeet.jpg)
+![](/Asserts/Images/album/202305/25/182004erjdm9jmu81jzeet.jpg)
 
 
 ### PyPI 向法庭提供了用户记录
@@ -60,7 +60,7 @@ Python 软件基金会披露，它根据美国司法部的要求提供了其软�
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/25/182017uso67et9pf3zfcps.jpg)
+![](/Asserts/Images/album/202305/25/182017uso67et9pf3zfcps.jpg)
 
 
 ### Thunderbird 发布全新徽标

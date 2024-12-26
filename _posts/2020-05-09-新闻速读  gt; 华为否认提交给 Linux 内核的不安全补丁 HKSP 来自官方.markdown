@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/14/124248uxtkxbgy29bkuxkz.jpg)
+![](/Asserts/Images/album/202005/14/124248uxtkxbgy29bkuxkz.jpg)
 
 
 #### 华为否认提交给 Linux 内核的不安全补丁 HKSP 来自官方

@@ -7,7 +7,7 @@ tags:	[linuxcn,KVM,虚拟机]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/18/211158v4zl4v4bick7frcf.jpg)
+![](/Asserts/Images/album/201803/18/211158v4zl4v4bick7frcf.jpg)
 
 
 如何在 CnetOS 7 或 RHEL 7（Red Hat 企业版 Linux）服务器上安装和配置 KVM（基于内核的虚拟机）？如何在 CentOS 7 上设置 KVM 并使用云镜像 / cloud-init 来安装客户虚拟机？
@@ -38,7 +38,7 @@ Virtualization: VT-x
 
 ```
 
-[![How to install KVM on CentOS 7 RHEL 7 Headless Server](/Asserts/Images//attachment/album/201803/18/211208xf30du7ri7fueii0.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/How-to-install-KVM-on-CentOS-7-RHEL-7-Headless-Server.jpg)
+[![How to install KVM on CentOS 7 RHEL 7 Headless Server](/Asserts/Images/album/201803/18/211208xf30du7ri7fueii0.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/How-to-install-KVM-on-CentOS-7-RHEL-7-Headless-Server.jpg)
 
 
 启动 libvirtd 服务：
@@ -76,7 +76,7 @@ Virtualization: VT-x
 
 ```
 
-[![KVM default networking](/Asserts/Images//attachment/album/201803/18/211208vkmkz2qjmixp2sqn.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/KVM-default-networking.jpg)
+[![KVM default networking](/Asserts/Images/album/201803/18/211208vkmkz2qjmixp2sqn.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/KVM-default-networking.jpg)
 
 
 所有虚拟机（客户机）只能对同一台服务器上的其它虚拟机进行网络访问。为你创建的私有网络是 192.168.122.0/24。验证：
@@ -215,13 +215,13 @@ $ ssh vivek@server1.cyberciti.biz -L 5901:127.0.0.1:5901
 一旦你建立了 ssh 隧道，你可以将你的 VNC 客户端指向你自己的 127.0.0.1 (localhost) 地址和端口 5901，如下所示：
 
 
-[![](/Asserts/Images//attachment/album/201803/18/211208wwehdw6z4ezs6ems.jpg)](https://www.cyberciti.biz/media/new/faq/2016/01/vnc-client.jpg)
+[![](/Asserts/Images/album/201803/18/211208wwehdw6z4ezs6ems.jpg)](https://www.cyberciti.biz/media/new/faq/2016/01/vnc-client.jpg)
 
 
 你应该看到 CentOS Linux 7 客户虚拟机安装屏幕如下：
 
 
-[![](/Asserts/Images//attachment/album/201803/18/211208mh7zczpsc9xp7ckz.jpg)](https://www.cyberciti.biz/media/new/faq/2016/01/centos7-guest-vnc.jpg)
+[![](/Asserts/Images/album/201803/18/211208mh7zczpsc9xp7ckz.jpg)](https://www.cyberciti.biz/media/new/faq/2016/01/centos7-guest-vnc.jpg)
 
 
 现在只需按照屏幕说明进行操作并安装CentOS 7。一旦安装完成后，请继续并单击重启按钮。 远程服务器关闭了我们的 VNC 客户端的连接。 你可以通过 KVM 客户端重新连接，以配置服务器的其余部分，包括基于 SSH 的会话或防火墙。
@@ -287,7 +287,7 @@ local-hostname: centos7-vm1
 
 ```
 
-[![ssh-keygen command](/Asserts/Images//attachment/album/201803/18/211208tzaiamw8scttmxwt.jpg)](https://www.cyberciti.biz/faq/linux-unix-generating-ssh-keys/)
+[![ssh-keygen command](/Asserts/Images/album/201803/18/211208tzaiamw8scttmxwt.jpg)](https://www.cyberciti.biz/faq/linux-unix-generating-ssh-keys/)
 
 
 请参阅 “[如何在 Linux/Unix 系统上设置 SSH 密钥](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)” 来获取更多信息。编辑用户数据如下：
@@ -366,7 +366,7 @@ runcmd:
 
 ```
 
-[![Set VM image disk size](/Asserts/Images//attachment/album/201803/18/211209f3cs2sg6z02fj0c5.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Set-VM-image-disk-size.jpg)
+[![Set VM image disk size](/Asserts/Images/album/201803/18/211209f3cs2sg6z02fj0c5.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Set-VM-image-disk-size.jpg)
 
 
 用缩放后的镜像覆盖它：
@@ -388,7 +388,7 @@ runcmd:
 
 ```
 
-[![Creating a cloud-init ISO](/Asserts/Images//attachment/album/201803/18/211209qjobjrsgb4tt4ovj.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Creating-a-cloud-init-ISO.jpg)
+[![Creating a cloud-init ISO](/Asserts/Images/album/201803/18/211209qjobjrsgb4tt4ovj.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Creating-a-cloud-init-ISO.jpg)
 
 
 #### 创建一个池
@@ -439,7 +439,7 @@ Pool centos7-vm1 created
 
 ```
 
-[![CentOS7-VM1- Created](/Asserts/Images//attachment/album/201803/18/211209sbyr1mfa36ad2b3f.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/CentOS7-VM1-Created.jpg)
+[![CentOS7-VM1- Created](/Asserts/Images/album/201803/18/211209sbyr1mfa36ad2b3f.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/CentOS7-VM1-Created.jpg)
 
 
 #### 登录到你的虚拟机
@@ -454,7 +454,7 @@ Pool centos7-vm1 created
 
 ```
 
-[![Sample VM session](/Asserts/Images//attachment/album/201803/18/211209zx29bf5444505a2r.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Sample-VM-session.jpg)
+[![Sample VM session](/Asserts/Images/album/201803/18/211209zx29bf5444505a2r.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/Sample-VM-session.jpg)
 
 
 ### 有用的命令

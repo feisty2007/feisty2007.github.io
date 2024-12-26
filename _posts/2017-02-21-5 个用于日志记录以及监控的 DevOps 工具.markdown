@@ -7,7 +7,7 @@ tags:	[linuxcn,监控,日志]
 ---
 
 
-![DevOps tools](/Asserts/Images//attachment/album/201702/13/215513c81wbzuhjq8zb4wa.jpg "DevOps tools")
+![DevOps tools](/Asserts/Images/album/201702/13/215513c81wbzuhjq8zb4wa.jpg "DevOps tools")
 
 
 

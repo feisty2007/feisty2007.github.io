@@ -15,7 +15,7 @@ tags:	[linuxcn,删除]
 > 
 
 
-![](/Asserts/Images//attachment/album/202108/16/110943z9boolgobdlyoiyo.jpg "Removing files")
+![](/Asserts/Images/album/202108/16/110943z9boolgobdlyoiyo.jpg "Removing files")
 
 
 要想使用图形化界面删除计算机上的文件，你可能会直接将文件或文件夹拖拽到 “垃圾箱” 或 “回收站”。或者你也可以选择要删除的文件或文件夹，右键单击并选择 **删除**。

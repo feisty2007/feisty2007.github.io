@@ -7,7 +7,7 @@ tags:	[linuxcn,图书,活动]
 ---
 
 
-![](/Asserts/Images//attachment/album/201503/02/165544phdddsr6rkerd396.jpg)
+![](/Asserts/Images/album/201503/02/165544phdddsr6rkerd396.jpg)
 
 
 “520表白日”再次席卷而来，Linux中国携手@图灵教育 为大家准备了6本备受好评的Linux书籍，转发微博，在评论中向你最爱的那本书勇敢滴表白吧，5月26日我们会抽取6位幸运的粉丝，把你心仪的女（tu）神（shu）送到家。
@@ -28,7 +28,7 @@ tags:	[linuxcn,图书,活动]
 1、《Linux shell脚本编程入门》
 
 
-**![](/Asserts/Images//attachment/album/201503/02/165753nf828qqvaa45qt44.jpg)**
+**![](/Asserts/Images/album/201503/02/165753nf828qqvaa45qt44.jpg)**
 
 
 图书介绍：
@@ -47,7 +47,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 2、《Linux就是这个范儿》
 
 
-![](/Asserts/Images//attachment/album/201501/20/130132j1z1fwmf491mhtkt.jpg)
+![](/Asserts/Images/album/201501/20/130132j1z1fwmf491mhtkt.jpg)
 
 
 图书介绍：
@@ -67,7 +67,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 3、《ARM Linux内核源码剖析》
 
 
-![](/Asserts/Images//attachment/album/201503/02/170231wo831affz8uy38h6.jpg)
+![](/Asserts/Images/album/201503/02/170231wo831affz8uy38h6.jpg)
 
 
 图书介绍：
@@ -86,7 +86,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 4、《Linux系统架构和应用技巧》
 
 
-![](/Asserts/Images//attachment/album/201503/02/170732e3em37ey7ebr24v3.jpg)
+![](/Asserts/Images/album/201503/02/170732e3em37ey7ebr24v3.jpg)
 
 
 图书介绍：
@@ -105,7 +105,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 5、《跟阿铭学Linux》
 
 
-![](/Asserts/Images//attachment/album/201501/20/125841uo13rje1xox22mmm.jpg)
+![](/Asserts/Images/album/201501/20/125841uo13rje1xox22mmm.jpg)
 
 
 图书介绍：
@@ -123,7 +123,7 @@ Linux OS在服务器以及近来引发热议的嵌入式系统中都得到广泛
 6、《只是为了好玩》
 
 
-![](/Asserts/Images//attachment/album/201503/02/171322guiglywywogkkuig.jpg)
+![](/Asserts/Images/album/201503/02/171322guiglywywogkkuig.jpg)
 
 
 图书介绍：

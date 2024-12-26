@@ -7,7 +7,7 @@ tags:	[linuxcn,交换分区,LVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/26/000030yn7mvp87avlh1mmm.jpg)
+![](/Asserts/Images/album/201804/26/000030yn7mvp87avlh1mmm.jpg)
 
 
 我们使用 LVM 进行灵活的卷管理，为什么我们不能将 LVM 用于交换分区呢？

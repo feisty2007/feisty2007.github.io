@@ -7,7 +7,7 @@ tags:	[linuxcn,CERN,开源]
 ---
 
 
-![CERN](/Asserts/Images//attachment/album/201808/11/073015p8ucw080sauuuu8c.jpg "CERN")
+![CERN](/Asserts/Images/album/201808/11/073015p8ucw080sauuuu8c.jpg "CERN")
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,CERN,开源]
 CERN 正在进行硬核科学研究，尤其是大型强子对撞机，它在运行时 [生成大量数据](https://home.cern/about/computing)。“CERN 目前存储大约 200 PB 的数据，当加速器运行时，每月有超过 10 PB 的数据产生。这必然会给计算基础架构带来极大的挑战，包括存储大量数据，以及能够在合理的时间范围内处理数据，对于网络、存储技术和高效计算架构都是很大的压力。“Bell 说到。
 
 
-![Tim Bell](/Asserts/Images//attachment/album/201808/11/073016iygy4e8eamdmam8m.png "Tim Bell")
+![Tim Bell](/Asserts/Images/album/201808/11/073016iygy4e8eamdmam8m.png "Tim Bell")
 
 
 *Tim Bell, CERN*

@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,GitLab,Edge]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/02/164040rkxhqz7ngxdtkxpq.jpg)
+![](/Asserts/Images/album/202204/02/164040rkxhqz7ngxdtkxpq.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/02/164049e2tqvu0q6060zj6e.jpg)
+![](/Asserts/Images/album/202204/02/164049e2tqvu0q6060zj6e.jpg)
 
 
 ### 谷歌批评微软，称其技术将客户置于不安全境地
@@ -27,7 +27,7 @@ tags:	[linuxcn,谷歌,GitLab,Edge]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/02/164130vyh79okbkpgkko09.jpg)
+![](/Asserts/Images/album/202204/02/164130vyh79okbkpgkko09.jpg)
 
 
 ### GitLab 修复了一个硬编码密码漏洞
@@ -44,7 +44,7 @@ tags:	[linuxcn,谷歌,GitLab,Edge]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/02/164156sujuqgoa88o5jaty.jpg)
+![](/Asserts/Images/album/202204/02/164156sujuqgoa88o5jaty.jpg)
 
 
 ### 微软 Edge 现在是第二大最受欢迎的桌面浏览器

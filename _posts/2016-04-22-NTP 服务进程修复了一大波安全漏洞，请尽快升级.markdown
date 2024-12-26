@@ -22,7 +22,7 @@ US-CERT [披露](http://www.kb.cert.org/vuls/id/718152)，在 ntpd 中最近发�
 在这个协议中发现的安全问题是非常严重的，因为这会让攻击者非常容易地造成破坏。
 
 
-![](/Asserts/Images//attachment/album/201604/29/054214ow7joxx1eosed07h.jpg)
+![](/Asserts/Images/album/201604/29/054214ow7joxx1eosed07h.jpg)
 
 
 ### NTP ——通向各个网络

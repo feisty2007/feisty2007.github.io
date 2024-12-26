@@ -7,10 +7,10 @@ tags:	[linuxcn,MariaDB,AI,GitHub]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/22/162337a7w95g9jylly4ml4.jpg)
+![](/Asserts/Images/album/202212/22/162337a7w95g9jylly4ml4.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/22/162345u3fruumngcz7fymr.jpg)
+![](/Asserts/Images/album/202212/22/162345u3fruumngcz7fymr.jpg)
 
 
 ### MariaDB 上市纽约证交所
@@ -35,7 +35,7 @@ tags:	[linuxcn,MariaDB,AI,GitHub]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/22/162355pu9ywovspp1u4zw3.jpg)
+![](/Asserts/Images/album/202212/22/162355pu9ywovspp1u4zw3.jpg)
 
 
 ### OpenAI 发布了一个用于 3D 建模的人工智能
@@ -60,7 +60,7 @@ tags:	[linuxcn,MariaDB,AI,GitHub]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/22/162410th18mf4y1tzfzqhf.jpg)
+![](/Asserts/Images/album/202212/22/162410th18mf4y1tzfzqhf.jpg)
 
 
 ### Okta 存放在 GitHub 私有仓库的源代码被盗

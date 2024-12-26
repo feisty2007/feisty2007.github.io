@@ -16,7 +16,7 @@ tags:	[linuxcn,下载,命令行]
 这篇文章介绍了Linux下用于浏览网页和下载文件的其它几个命令行工具。
 
 
-![](/Asserts/Images//attachment/album/201506/17/093454xr85khhge38ao5kd.jpg)
+![](/Asserts/Images/album/201506/17/093454xr85khhge38ao5kd.jpg)
 
 
 ### 1. links
@@ -47,7 +47,7 @@ Links是用C语言写的一个开源web浏览器，支持包括Linux、Windows�
 下图展示了如何使用links访问Tecmint的网站。
 
 
-![](/Asserts/Images//attachment/album/201506/17/093511cs5dst32mzindvny.gif)
+![](/Asserts/Images/album/201506/17/093511cs5dst32mzindvny.gif)
 
 
 如何你想安装links的图形界面版本，可能需要从<http://links.twibright.com/download/>下载最新的版本（version 2.9）的源代码压缩包。
@@ -111,7 +111,7 @@ lynx是一个基于文本的web浏览器，使用GNU GPLv2协议发布，用ISO 
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/17/093519hye05w5be8uhn5zb.gif)
+![](/Asserts/Images/album/201506/17/093519hye05w5be8uhn5zb.gif)
 
 
 如果你想对links和lyns了解更多，可以访问下面的链接。
@@ -145,7 +145,7 @@ youtube-dl是一个跨平台的应用，可以用来下载youtube和另外几个
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/17/093521j0kw0ke77wp44pkg.gif)
+![](/Asserts/Images/album/201506/17/093521j0kw0ke77wp44pkg.gif)
 
 
 如果你想对youtube-dl了解更多，可以访问如下链接。
@@ -197,7 +197,7 @@ Axel安装完成后，可以像下图那样使用这个命令下载任意文件�
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/17/093527thimuo33665umaxi.gif)
+![](/Asserts/Images/album/201506/17/093527thimuo33665umaxi.gif)
 
 
 ### 7. aria2
@@ -225,7 +225,7 @@ aria2安装完成后，可以像下图那样运行这个命令下载任意文件
 
 ```
 
-![Aria2: Linux的命令行下载工具 ](/Asserts/Images//attachment/album/201506/17/093528rvdgz1azr33ae7mg.gif)
+![Aria2: Linux的命令行下载工具 ](/Asserts/Images/album/201506/17/093528rvdgz1azr33ae7mg.gif)
 
 
 *Aria2: Linux命令行下载工具*

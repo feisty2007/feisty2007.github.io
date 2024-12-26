@@ -7,7 +7,7 @@ tags:	[linuxcn,top]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/07/091937j7uj9j77q07j0t7n.png)
+![](/Asserts/Images/album/201805/07/091937j7uj9j77q07j0t7n.png)
 
 
 你已经知道 `top` 命令，对么？是的，它提供类 Unix 操作系统中运行中的进程的动态实时信息。一些开发人员为 `top` 命令构建了图形前端，因此用户可以在图形窗口中轻松找到他们系统的活动。其中之一是 **Gotop**。顾名思义，Gotop 是一个 TUI 图形活动监视器，使用 **Go** 语言编写。它是完全免费、开源的，受到了 [gtop](https://github.com/aksakalli/gtop) 和 [vtop](https://github.com/MrRio/vtop) 的启发。
@@ -121,7 +121,7 @@ $ gotop
 这样就行了！你将在简单的 TUI 窗口中看到系统 CPU、磁盘、内存、网络、CPU温度和进程列表的使用情况。
 
 
-![](/Asserts/Images//attachment/album/201805/07/091939v77rw5zrrvwsimpu.png)
+![](/Asserts/Images/album/201805/07/091939v77rw5zrrvwsimpu.png)
 
 
 要仅显示CPU、内存和进程组件，请使用下面的 `-m` 标志：
@@ -133,7 +133,7 @@ $ gotop -m
 
 ```
 
-![](/Asserts/Images//attachment/album/201805/07/091942hs7i1oi2vxlqqqsr.png)
+![](/Asserts/Images/album/201805/07/091942hs7i1oi2vxlqqqsr.png)
 
 
 你可以使用以下键盘快捷键对进程表进行排序。

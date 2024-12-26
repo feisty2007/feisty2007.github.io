@@ -13,7 +13,7 @@ tags:	[linuxcn,Linux,Debian,Ubuntu,MySQL,升级,技巧,教程]
 在这篇教程中，我会假设你已经[通过 apt-get 安装了 MySQL](http://xmodulo.com/2013/06/how-to-install-mysql-server-and-client-on-linux.html)。写这篇文章的时候，大部分 Linux 发行版上部署的都是 MySQL 5.5。这里我将向你们介绍如何从 MySQL 5.5升级到5.6。
 
 
-![](/Asserts/Images//attachment/album/201401/14/160839hdnhrggphh4jzhhr.png)
+![](/Asserts/Images/album/201401/14/160839hdnhrggphh4jzhhr.png)
 
 
 ### 步骤1：备份 MySQL 配置文件。

@@ -15,7 +15,7 @@ tags:	[linuxcn,ext4,文件系统]
 > 
 
 
-![](/Asserts/Images//attachment/album/201809/11/095727zmpym6l4r2401gkc.jpg)
+![](/Asserts/Images/album/201809/11/095727zmpym6l4r2401gkc.jpg)
 
 
 目前的大部分 Linux 文件系统都默认采用 ext4 文件系统，正如以前的 Linux 发行版默认使用 ext3、ext2 以及更久前的 ext。
@@ -39,7 +39,7 @@ tags:	[linuxcn,ext4,文件系统]
 在有 ext 之前，使用的是 MINIX 文件系统。如果你不熟悉 Linux 历史，那么可以理解为 MINIX 是用于 IBM PC/AT 微型计算机的一个非常小的类 Unix 系统。Andrew Tannenbaum 为了教学的目的而开发了它，并于 1987 年发布了源代码（以印刷版的格式！）。
 
 
-![](/Asserts/Images//attachment/album/201809/11/095812vls0czgvt4jz44sm.jpg)
+![](/Asserts/Images/album/201809/11/095812vls0czgvt4jz44sm.jpg)
 
 
 *IBM 1980 中期的 PC/AT，[MBlairMartin](https://commons.wikimedia.org/wiki/File:IBM_PC_AT.jpg)，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
@@ -84,7 +84,7 @@ ext2 提供了 GB 级别的最大文件大小和 TB 级别的文件系统大小�
 1998 年，在 ext2 被采用后的 6 年后，Stephen Tweedie 宣布他正在致力于改进 ext2。这成了 ext3，并于 2001 年 11 月在 2.4.15 内核版本中被采用到 Linux 内核主线中。
 
 
-![Packard Bell 计算机](/Asserts/Images//attachment/album/201809/11/095813n99qprqhtcz4tqt3.jpg "Packard Bell computer")
+![Packard Bell 计算机](/Asserts/Images/album/201809/11/095813n99qprqhtcz4tqt3.jpg "Packard Bell computer")
 
 
 *20 世纪 90 年代中期的 Packard Bell 计算机，[Spacekid](https://commons.wikimedia.org/wiki/File:Old_packard_bell_pc.jpg)，[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)*
@@ -116,7 +116,7 @@ Theodore Ts'o（是当时 ext3 主要开发人员）在 2006 年发表的 ext4�
 Ts'o 将 ext4 描述为一个显著扩展 ext3 但仍然依赖于旧技术的临时技术。他预计 ext4 终将会被真正的下一代文件系统所取代。
 
 
-![](/Asserts/Images//attachment/album/201809/11/095817nhvmgk1cq7goka7h.jpg)
+![](/Asserts/Images/album/201809/11/095817nhvmgk1cq7goka7h.jpg)
 
 
 *Dell Precision 380 工作站，[Lance Fisher](https://commons.wikimedia.org/wiki/File:Dell_Precision_380_Workstation.jpeg)，[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en)*

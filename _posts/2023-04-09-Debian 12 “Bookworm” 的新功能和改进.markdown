@@ -7,7 +7,7 @@ tags:	[linuxcn,Debian]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/05/112008tjogt4q224g49tj4.jpg)
+![](/Asserts/Images/album/202304/05/112008tjogt4q224g49tj4.jpg)
 
 
 
@@ -27,7 +27,7 @@ Debian 12 已经开发了几个月了，并且正在慢慢走向最终的发布�
 让我们来看看。
 
 
-![Debian 12 Bookworm GNOME Desktop](/Asserts/Images//attachment/album/202304/05/112106u00eemg1cm830c13.jpg)
+![Debian 12 Bookworm GNOME Desktop](/Asserts/Images/album/202304/05/112106u00eemg1cm830c13.jpg)
 
 
 ### Debian 12 “Bookworm” 的新功能和改进
@@ -75,7 +75,7 @@ Debian 12 已经开发了几个月了，并且正在慢慢走向最终的发布�
 Debian 12 和 GNOME 桌面环境 [在默认情况下，使用 Pipewire 和 Wireplumber 管理器](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1020249) 作为声音服务器，取代了 Pulseaudio 。现代化的 Pipewire 早就已经引入 Ubuntu 、Fedora 、Pop!\_OS 等其它领先的发行版。
 
 
-![Pipewire in Debian 12](/Asserts/Images//attachment/album/202304/05/112114p2b6p7bj4b276s92.jpg)
+![Pipewire in Debian 12](/Asserts/Images/album/202304/05/112114p2b6p7bj4b276s92.jpg)
 
 
 #### 新版本的 Apt 软件包管理器（2.6）
@@ -158,10 +158,10 @@ Debian 12 引入 Apt 软件包管理器的最新的版本。[Apt 2.6](https://la
 这里是一些选自 [官方画廊](https://wiki.debian.org/DebianArt/Themes/Emerald) 的图片。
 
 
-![Default wallpaper](/Asserts/Images//attachment/album/202304/05/112123f6ssslkqgs5uhf5k.jpg)
+![Default wallpaper](/Asserts/Images/album/202304/05/112123f6ssslkqgs5uhf5k.jpg)
 
 
-![Debian 12 Plymouth](/Asserts/Images//attachment/album/202304/05/112129nqnygw3qnw7zqfgq.jpg)
+![Debian 12 Plymouth](/Asserts/Images/album/202304/05/112129nqnygw3qnw7zqfgq.jpg)
 
 
 ### 如何下载 Debian 12

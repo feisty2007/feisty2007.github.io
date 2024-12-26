@@ -10,7 +10,7 @@ tags:	[linuxcn,Gnome,桌面图标,Faenza]
 Faenza 主题图标是 Ubuntu 最流行的图标主题之一。最新版本的主题已经支持 GNOME3.2 。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201110/31/210329goylyplpumoppl61.png](/Asserts/Images//attachment/album/201110/31/210329goylyplpumoppl61.png)
+![https://img.linux.net.cn/Asserts/Images/album/201110/31/210329goylyplpumoppl61.png](/Asserts/Images/album/201110/31/210329goylyplpumoppl61.png)
 
 
 主题图标发布地址：<http://gnome-look.org/content/show.php/Faenza?content=128143>

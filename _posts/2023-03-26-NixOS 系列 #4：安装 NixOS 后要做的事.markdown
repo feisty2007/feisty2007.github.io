@@ -7,7 +7,7 @@ tags:	[linuxcn,NixOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/26/142500uzc095szl064s9xx.jpg)
+![](/Asserts/Images/album/202303/26/142500uzc095szl064s9xx.jpg)
 
 
 安装之后，你会发现 NixOS 与通用的 Linux 发行版有很大的不同。
@@ -55,7 +55,7 @@ sudo nixos-rebuild switch --upgrade
 如果你尝试用传统的方法 [改变主机名](https://itsfoss.com/change-hostname-ubuntu/)（使用 `hostnamectl` 命令），会出现以下错误：
 
 
-![在 NixOS 中改变主机名的错误](/Asserts/Images//attachment/album/202303/26/142514uqjyy5wgdiyeqmpd.png)
+![在 NixOS 中改变主机名的错误](/Asserts/Images/album/202303/26/142514uqjyy5wgdiyeqmpd.png)
 
 
 在 NixOS 中，你可以用它的主配置文件轻松地改变主机名。使用如下命令：
@@ -94,7 +94,7 @@ networking.hostName = "itsFOSS"；
 
 ```
 
-![在 NixOS 中改变主机名](/Asserts/Images//attachment/album/202303/26/142514up8e3hhthhj48xie.png)
+![在 NixOS 中改变主机名](/Asserts/Images/album/202303/26/142514up8e3hhthhj48xie.png)
 
 
 现在，[保存更改并退出 nano](https://linuxhandbook.com/nano-save-exit/?ref=its-foss) 文本编辑器。
@@ -142,7 +142,7 @@ services.flatpak.enable = true；
 
 ```
 
-![在 NixOS 上设置 Flatpak](/Asserts/Images//attachment/album/202303/26/142515phcz4z4hg94qdedh.png)
+![在 NixOS 上设置 Flatpak](/Asserts/Images/album/202303/26/142515phcz4z4hg94qdedh.png)
 
 
 按 `Ctrl + O` 保存更改，按回车键，按 `Ctrl + X` 退出。
@@ -218,7 +218,7 @@ nix.gc = {
 
 ```
 
-![在 NixOS 中启用自动垃圾收集](/Asserts/Images//attachment/album/202303/26/142515yyutut2yffttyrtt.png)
+![在 NixOS 中启用自动垃圾收集](/Asserts/Images/album/202303/26/142515yyutut2yffttyrtt.png)
 
 
 保存修改并退出 nano 文本编辑器。
@@ -242,7 +242,7 @@ systemctl list-timers
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/26/142515a95e5j4gqem09z54.png)
+![](/Asserts/Images/album/202303/26/142515a95e5j4gqem09z54.png)
 
 
 正如你所看到的，Nix 垃圾收集器正在如期运行，并显示距离下次清理还有 5 天。
@@ -269,7 +269,7 @@ systemctl list-timers
 让我在这里给你一个简单的回顾。例如，在这里，我想安装 Librewolf，所以我采用了以下方法：
 
 
-![搜索 NixOS 的软件包](/Asserts/Images//attachment/album/202303/26/142516mjbmzqg9vbv8bj30.png)
+![搜索 NixOS 的软件包](/Asserts/Images/album/202303/26/142516mjbmzqg9vbv8bj30.png)
 
 
 **但如果你想安装 SSH 或 Plex 等服务，上述方法就不能用了**。
@@ -286,7 +286,7 @@ systemctl list-timers
 * 获取服务的名称并将其粘贴到 `configuration.nix` 中，将其值改为 `true`。
 
 
-![搜索 NixOS 的服务](/Asserts/Images//attachment/album/202303/26/142516e3zf5h5l1p7pswz5.png)
+![搜索 NixOS 的服务](/Asserts/Images/album/202303/26/142516e3zf5h5l1p7pswz5.png)
 
 
 
@@ -295,7 +295,7 @@ services.openssh.enable = true
 
 ```
 
-![在 NixOS 上启用 OpenSSH](/Asserts/Images//attachment/album/202303/26/142517fkwj76bpa70zl6zk.png)
+![在 NixOS 上启用 OpenSSH](/Asserts/Images/album/202303/26/142517fkwj76bpa70zl6zk.png)
 
 
 在配置文件中加入这一行后，重建服务：
@@ -337,7 +337,7 @@ system.autoUpgrade = {
 
 ```
 
-![在 NixOS 中启用自动系统更新](/Asserts/Images//attachment/album/202303/26/142517jzh759lkxskhev25.png)
+![在 NixOS 中启用自动系统更新](/Asserts/Images/album/202303/26/142517jzh759lkxskhev25.png)
 
 
 保存修改并退出 nano。
@@ -361,7 +361,7 @@ systemctl list-timers
 
 ```
 
-![NixOS 的自动升级定时器](/Asserts/Images//attachment/album/202303/26/142517zfsi9lqxiiiiz6zx.png)
+![NixOS 的自动升级定时器](/Asserts/Images/album/202303/26/142517zfsi9lqxiiiiz6zx.png)
 
 
 正如你所看到的，`nixos-upgrade.service` 正在后台如期运行！
@@ -391,7 +391,7 @@ cat /proc/sys/vm/swappiness
 
 ```
 
-![检查 Linux 系统的交换度](/Asserts/Images//attachment/album/202303/26/142517uxxeb23x3gx9b8tt.png)
+![检查 Linux 系统的交换度](/Asserts/Images/album/202303/26/142517uxxeb23x3gx9b8tt.png)
 
 
 而对于大多数 Linux 发行版，它被设置为 `60`。
@@ -418,7 +418,7 @@ boot.kernel.sysctl = { "vm.swappiness" = 10;}；
 
 ```
 
-![减少 NixOS 中的交换度](/Asserts/Images//attachment/album/202303/26/142518zq1oxfkl67111qq6.png)
+![减少 NixOS 中的交换度](/Asserts/Images/album/202303/26/142518zq1oxfkl67111qq6.png)
 
 
 保存修改并退出文本编辑器。
@@ -442,7 +442,7 @@ cat /proc/sys/vm/swappiness
 
 ```
 
-![减少 NixOS 中的交换度](/Asserts/Images//attachment/album/202303/26/142519jvox0d0d4x0ek00x.png)
+![减少 NixOS 中的交换度](/Asserts/Images/album/202303/26/142519jvox0d0d4x0ek00x.png)
 
 
 就这些了。

@@ -7,7 +7,7 @@ tags:	[linuxcn,LaTex]
 ---
 
 
-![](/Asserts/Images//attachment/album/202102/13/094113uummla4aezne9c1e.png)
+![](/Asserts/Images/album/202102/13/094113uummla4aezne9c1e.png)
 
 
 本系列基于前文《[在 Fedora 上用 LaTex 和 TeXstudio 排版你的文档](https://fedoramagazine.org/typeset-latex-texstudio-fedora)》和《[LaTeX 基础](https://fedoramagazine.org/fedora-classroom-latex-101-beginners)》，本文即系列的第一部分，是关于 LaTeX 列表的。
@@ -43,7 +43,7 @@ LaTeX 中的列表是封闭的环境，列表中的每个项目可以取一行�
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/13/094113xqvrgyxts7zcuuao.png)
+![](/Asserts/Images/album/202102/13/094113xqvrgyxts7zcuuao.png)
 
 
 #### enumerate（有序列表）
@@ -59,7 +59,7 @@ LaTeX 中的列表是封闭的环境，列表中的每个项目可以取一行�
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/13/094113j6eiizvxqi7vx55i.png)
+![](/Asserts/Images/album/202102/13/094113j6eiizvxqi7vx55i.png)
 
 
 #### description（描述列表）
@@ -74,7 +74,7 @@ LaTeX 中的列表是封闭的环境，列表中的每个项目可以取一行�
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/13/094114tbvgll9qxl2l6wtq.png)
+![](/Asserts/Images/album/202102/13/094114tbvgll9qxl2l6wtq.png)
 
 
 ### 列表项目间距
@@ -99,7 +99,7 @@ LaTeX 中的列表是封闭的环境，列表中的每个项目可以取一行�
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/13/094114kxmsrxpsh966pmoc.png)
+![](/Asserts/Images/album/202102/13/094114kxmsrxpsh966pmoc.png)
 
 
 #### 使用控制序列 \itemsep
@@ -117,7 +117,7 @@ LaTeX 中的列表是封闭的环境，列表中的每个项目可以取一行�
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/13/094114utcbhhnwcseese0e.png)
+![](/Asserts/Images/album/202102/13/094114utcbhhnwcseese0e.png)
 
 
 ### 嵌套列表
@@ -151,7 +151,7 @@ LaTeX 最多最多支持四层嵌套列表，如下例：
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/13/094115bkx7bn83x3axxz78.png)
+![](/Asserts/Images/album/202102/13/094115bkx7bn83x3axxz78.png)
 
 
 #### 嵌套有序列表
@@ -179,7 +179,7 @@ LaTeX 最多最多支持四层嵌套列表，如下例：
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/13/094115lue3rr36xx1flzg4.png)
+![](/Asserts/Images/album/202102/13/094115lue3rr36xx1flzg4.png)
 
 
 ### 每种列表类型的列表样式名称
@@ -231,7 +231,7 @@ LaTeX 最多最多支持四层嵌套列表，如下例：
 
 ```
 
-![](/Asserts/Images//attachment/album/202102/13/094115x3qy2hdym3cacxhd.png)
+![](/Asserts/Images/album/202102/13/094115x3qy2hdym3cacxhd.png)
 
 
 有三种设置列表样式的方式，下面将按照优先级从高到低的顺序分别举例。

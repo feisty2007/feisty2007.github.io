@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/21/182722ckhmzt1hepzb3bwr.jpg)
+![](/Asserts/Images/album/202303/21/182722ckhmzt1hepzb3bwr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/21/182735qn7xdzxghpjqq36n.jpg)
+![](/Asserts/Images/album/202303/21/182735qn7xdzxghpjqq36n.jpg)
 
 
 ### 以众包的方式在家用电脑上运行大语言模型
@@ -35,7 +35,7 @@ BigScience 项目最近公布了 BLOOM，这是一个支持 46 种自然语言�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/21/182746jgaj9m6agxntzxbo.jpg)
+![](/Asserts/Images/album/202303/21/182746jgaj9m6agxntzxbo.jpg)
 
 
 ### 谷歌将某多多应用标记为恶意程序
@@ -60,7 +60,7 @@ BigScience 项目最近公布了 BLOOM，这是一个支持 46 种自然语言�
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/21/182758g1zk5fp67tfyztd5.jpg)
+![](/Asserts/Images/album/202303/21/182758g1zk5fp67tfyztd5.jpg)
 
 
 ### 生成式人工智能的下一个领域是视频

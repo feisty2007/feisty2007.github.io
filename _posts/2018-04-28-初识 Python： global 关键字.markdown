@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/19/214422wfy7pvmx4c61ykvq.jpg)
+![](/Asserts/Images/album/201804/19/214422wfy7pvmx4c61ykvq.jpg)
 
 
 在读这篇文章之前，确保你对 [Python 全局、局部和非局部变量](https://www.programiz.com/python-programming/global-local-nonlocal-variables) 有一定的基础。

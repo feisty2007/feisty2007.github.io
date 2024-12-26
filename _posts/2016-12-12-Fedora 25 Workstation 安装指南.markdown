@@ -10,7 +10,7 @@ tags:	[linuxcn,Fedora]
 在这篇教程中，我们将会走完在电脑上安装 Fedora 25 workstation 的每一步。该指南包括整个安装过程中的每一步截图，因此，请认真跟着操作。
 
 
-![](/Asserts/Images//attachment/album/201612/07/210434pbzllsrlllscrlli.jpg)
+![](/Asserts/Images/album/201612/07/210434pbzllsrlllscrlli.jpg)
 
 
 #### Fedora 25 Workstation 有哪些新特性?
@@ -51,7 +51,7 @@ tags:	[linuxcn,Fedora]
 选择 “Start Fedora-Workstation-Live 25” 选项，然后单点回车。
 
 
-![Fedora 25 Boot Menu](/Asserts/Images//attachment/album/201612/07/210530wqhs1s9yz8s9xax8.png)
+![Fedora 25 Boot Menu](/Asserts/Images/album/201612/07/210530wqhs1s9yz8s9xax8.png)
 
 
 *Fedora 25 启动菜单*
@@ -60,7 +60,7 @@ tags:	[linuxcn,Fedora]
 2、 接下来，你会进入到登录界面，单击“Live System User”以 Live 用户身份进入系统。
 
 
-![Fedora 25 Live User Login](/Asserts/Images//attachment/album/201612/07/210531f6gez5mj999exse9.png)
+![Fedora 25 Live User Login](/Asserts/Images/album/201612/07/210531f6gez5mj999exse9.png)
 
 
 *Fedora 25 Live 用户登录*
@@ -69,7 +69,7 @@ tags:	[linuxcn,Fedora]
 3、 登入系统后，几秒钟后桌面上会出现下面的欢迎界面，如果你想在安装前试用 Fedora 系统，单击 “Try Fedora”，否则单击 “Install to Hard Disk” 进入到全新安装过程。
 
 
-![Fedora 25 Welcome Screen](/Asserts/Images//attachment/album/201612/07/210533sm7kkd4pahhd79bd.png)
+![Fedora 25 Welcome Screen](/Asserts/Images/album/201612/07/210533sm7kkd4pahhd79bd.png)
 
 
 *Fedora 25 欢迎界面*
@@ -78,7 +78,7 @@ tags:	[linuxcn,Fedora]
 4、 在下面的界面中，选择想要使用的安装语言，然后单击“<ruby> 继续 <rp>  （ </rp> <rt>  Continue </rt> <rp>  ） </rp></ruby>”按钮进入到安装总结页面。
 
 
-![Select Installation Language Type](/Asserts/Images//attachment/album/201612/07/210534ykeoey3b37kokyc6.png)
+![Select Installation Language Type](/Asserts/Images/album/201612/07/210534ykeoey3b37kokyc6.png)
 
 
 *选择安装语言类型*
@@ -90,7 +90,7 @@ tags:	[linuxcn,Fedora]
 从键盘设置开始。单击“<ruby> 键盘 <rp>  （ </rp> <rt>  KEYBOARD </rt> <rp>  ） </rp></ruby>”进入到键盘布局自定义设置界面。
 
 
-![Fedora 25 Installation Summary](/Asserts/Images//attachment/album/201612/07/210535ypzdodqo8lqz8d3p.png)
+![Fedora 25 Installation Summary](/Asserts/Images/album/201612/07/210535ypzdodqo8lqz8d3p.png)
 
 
 *Fedora 25 安装总结*
@@ -99,7 +99,7 @@ tags:	[linuxcn,Fedora]
 6、 在这个界面中，根据你电脑之前的设置使用`+`号来添加你需要的键盘布局，然后单击“<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby>"返回到安装总结界面。
 
 
-![Set Keyboard Layout](/Asserts/Images//attachment/album/201612/07/210536yamh4iaiu6qrqd5u.png)
+![Set Keyboard Layout](/Asserts/Images/album/201612/07/210536yamh4iaiu6qrqd5u.png)
 
 
 *设置键盘布局*
@@ -111,7 +111,7 @@ tags:	[linuxcn,Fedora]
 注意你可以从右上角启用或者停用网络时间同步。设置完系统时间和日期后，单击“<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby>”返回到安装总结界面。
 
 
-![Set System Timezone](/Asserts/Images//attachment/album/201612/07/210538civv6mad44am40pb.png)
+![Set System Timezone](/Asserts/Images/album/201612/07/210538civv6mad44am40pb.png)
 
 
 *设置系统时区*
@@ -123,7 +123,7 @@ tags:	[linuxcn,Fedora]
 主机名设置完成后，单击“<ruby> 应用 <rp>  （ </rp> <rt>  Apply </rt> <rp>  ） </rp></ruby>”来检查主机名是否可用，如果可用，单击“<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby>”。
 
 
-![Set Hostname for Fedora 25](/Asserts/Images//attachment/album/201612/07/210538gffz75b5j5ebf3bw.png)
+![Set Hostname for Fedora 25](/Asserts/Images/album/201612/07/210538gffz75b5j5ebf3bw.png)
 
 
 *设置 Fedora 25 的主机名*
@@ -135,7 +135,7 @@ tags:	[linuxcn,Fedora]
 在“<ruby> 其它存储选项 <rp>  （ </rp> <rt>  Other Storage Options </rt> <rp>  ） </rp></ruby>”上选择“<ruby> 我要配置分区 <rp>  （ </rp> <rt>  I will configure partitioning </rt> <rp>  ） </rp></ruby>”来执行手动分区，然后单击 “<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby>” 前进至手动分区界面。
 
 
-![Select Installation Destination Drive](/Asserts/Images//attachment/album/201612/07/210539nsi5ks0qjej7js0w.png)
+![Select Installation Destination Drive](/Asserts/Images/album/201612/07/210539nsi5ks0qjej7js0w.png)
 
 
 *选择安装位置*
@@ -144,7 +144,7 @@ tags:	[linuxcn,Fedora]
 10、 下面是手动分区界面，选择“<ruby> 标准分区 <rp>  （ </rp> <rt>  Standard Partition </rt> <rp>  ） </rp></ruby>”为新的分区模式来安装。
 
 
-![Manual Partitioning Selection](/Asserts/Images//attachment/album/201612/07/210539xpbbbu90tbq3b53q.png)
+![Manual Partitioning Selection](/Asserts/Images/album/201612/07/210539xpbbbu90tbq3b53q.png)
 
 
 *手动配置分区*
@@ -160,7 +160,7 @@ tags:	[linuxcn,Fedora]
 之后，单击“<ruby> 增加挂载点 <rp>  （ </rp> <rt>  Add mount point </rt> <rp>  ） </rp></ruby>”添加刚刚创建的分区/挂载点。
 
 
-![Create New Root Partition](/Asserts/Images//attachment/album/201612/07/210540nghvb3ug7mdg7dhg.png)
+![Create New Root Partition](/Asserts/Images/album/201612/07/210540nghvb3ug7mdg7dhg.png)
 
 
 *创建新的 Root 分区*
@@ -169,7 +169,7 @@ tags:	[linuxcn,Fedora]
 下图展示了 `/root` 分区设置。
 
 
-![Root Partition Settings](/Asserts/Images//attachment/album/201612/07/210541vafk4agabokzeccs.png)
+![Root Partition Settings](/Asserts/Images/album/201612/07/210541vafk4agabokzeccs.png)
 
 
 *Root 分区设置*
@@ -188,13 +188,13 @@ tags:	[linuxcn,Fedora]
 单击“<ruby> 增加挂载点 <rp>  （ </rp> <rt>  Add mount point </rt> <rp>  ） </rp></ruby>”添加交换分区。
 
 
-![Create Swap Partition](/Asserts/Images//attachment/album/201612/07/210542b7ljn7hnwnjnk4ws.png)
+![Create Swap Partition](/Asserts/Images/album/201612/07/210542b7ljn7hnwnjnk4ws.png)
 
 
 *创建交换分区*
 
 
-![Swap Partition Settings](/Asserts/Images//attachment/album/201612/07/210543ka2k02e5e9bk7e0d.png)
+![Swap Partition Settings](/Asserts/Images/album/201612/07/210543ka2k02e5e9bk7e0d.png)
 
 
 *交换分区设置*
@@ -203,7 +203,7 @@ tags:	[linuxcn,Fedora]
 13、 创建完 `root` 分区和 `swap` 分区后，单击“<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby>”按钮来查看这些要对磁盘进行的更改。单击 “<ruby> 接受调整 <rp>  （ </rp> <rt>  Accept Changes </rt> <rp>  ） </rp></ruby>” 允许执行所有的分区调整。
 
 
-![Accept Partition Changes](/Asserts/Images//attachment/album/201612/07/210544x5ara4hzpaeihaaa.png)
+![Accept Partition Changes](/Asserts/Images/album/201612/07/210544x5ara4hzpaeihaaa.png)
 
 
 *接受分区调整*
@@ -212,7 +212,7 @@ tags:	[linuxcn,Fedora]
 14、 你最后的安装总结内容应该跟下图显示的差不多。单击“<ruby> 开始安装 <rp>  （ </rp> <rt>  Begin Installation </rt> <rp>  ） </rp></ruby>”开始真正安装系统。
 
 
-![Final Installation Summary](/Asserts/Images//attachment/album/201612/07/210545dlmm0nnpbml60b9e.png)
+![Final Installation Summary](/Asserts/Images/album/201612/07/210545dlmm0nnpbml60b9e.png)
 
 
 *最后的安装总结内容*
@@ -221,7 +221,7 @@ tags:	[linuxcn,Fedora]
 15、 系统文件安装开始后，你可以在下面的界面中，创建一个常用的系统用户，并为 root 账号设置密码。
 
 
-![User Configuration Settings](/Asserts/Images//attachment/album/201612/07/210547feghg567mdnoh7gd.png)
+![User Configuration Settings](/Asserts/Images/album/201612/07/210547feghg567mdnoh7gd.png)
 
 
 *用户配置设置*
@@ -230,7 +230,7 @@ tags:	[linuxcn,Fedora]
 16、 之后，单击“<ruby> ROOT 密码 <rp>  （ </rp> <rt>  ROOT PASSWORD </rt> <rp>  ） </rp></ruby>”来设置 root 账号密码。像之前一样，单击“<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby>”返回到用户配置界面。
 
 
-![Set Root Account Password](/Asserts/Images//attachment/album/201612/07/210548q3kfzff3skbboaoe.png)
+![Set Root Account Password](/Asserts/Images/album/201612/07/210548q3kfzff3skbboaoe.png)
 
 
 *设置 root 账号密码*
@@ -242,7 +242,7 @@ tags:	[linuxcn,Fedora]
 再次单击“<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby>”按钮继续。
 
 
-![Create System User Account](/Asserts/Images//attachment/album/201612/07/210549p3foisupggpig3os.png)
+![Create System User Account](/Asserts/Images/album/201612/07/210549p3foisupggpig3os.png)
 
 
 *创建系统用户账号*
@@ -251,13 +251,13 @@ tags:	[linuxcn,Fedora]
 18、 安装过程将会持续一段时间，你可以去休息会了。安装完成之后，单击“<ruby> 退出 <rp>  （ </rp> <rt>  Quit </rt> <rp>  ） </rp></ruby>”重启系统，并弹出你使用的启动设备。终于，你可以登录进入新的 Fedora 25 Workstation 了。 
 
 
-![Fedora 25 Login Screen](/Asserts/Images//attachment/album/201612/07/210551zpnwepw1k1nkfnkd.png)
+![Fedora 25 Login Screen](/Asserts/Images/album/201612/07/210551zpnwepw1k1nkfnkd.png)
 
 
 *Fedora 25 登录界面*
 
 
-![Fedora 25 Workstation Desktop](/Asserts/Images//attachment/album/201612/07/210553h0lc82qqwy2x7m7u.png)
+![Fedora 25 Workstation Desktop](/Asserts/Images/album/201612/07/210553h0lc82qqwy2x7m7u.png)
 
 
 *Fedora 25 Workstation 桌面*

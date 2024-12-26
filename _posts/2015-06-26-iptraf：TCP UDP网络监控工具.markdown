@@ -63,25 +63,25 @@ sudo yum install iptraf
 如果**iptraf**命令不带任何命令行选项执行，该程序就会以交互模式显现，可以通过主菜单获得各种各样的工具。
 
 
-![](/Asserts/Images//attachment/album/201506/06/085456slbhgmatrzigowba.png)
+![](/Asserts/Images/album/201506/06/085456slbhgmatrzigowba.png)
 
 
 易于导航的菜单。
 
 
-![](/Asserts/Images//attachment/album/201506/06/085457n67bvf7b7tvtb2tb.png)
+![](/Asserts/Images/album/201506/06/085457n67bvf7b7tvtb2tb.png)
 
 
 选择监控的接口。
 
 
-![](/Asserts/Images//attachment/album/201506/06/085457omfzd4d1d716zy6q.png)
+![](/Asserts/Images/album/201506/06/085457omfzd4d1d716zy6q.png)
 
 
 来自**ppp0**接口的流量
 
 
-![](/Asserts/Images//attachment/album/201506/06/085458dqr2xqe19p6d0pqq.png)
+![](/Asserts/Images/album/201506/06/085458dqr2xqe19p6d0pqq.png)
 
 
 希望你喜欢。

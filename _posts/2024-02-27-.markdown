@@ -3346,9 +3346,9 @@ excerpt: 从即日起，“Linux 中国” 这个社区，包括它的主网（�
 fromurl: ''
 id: 16602
 islctt: false
-largepic: /Asserts/Images//attachment/album/202402/01/123705b2wp8zrrxrjujq7f.jpg
+largepic: /Asserts/Images/album/202402/01/123705b2wp8zrrxrjujq7f.jpg
 permalink: /article-16602-1.html
-pic: /Asserts/Images//attachment/album/202402/01/123705b2wp8zrrxrjujq7f.jpg.thumb.jpg
+pic: /Asserts/Images/album/202402/01/123705b2wp8zrrxrjujq7f.jpg.thumb.jpg
 related: []
 reviewer: ''
 selector: ''
@@ -3362,7 +3362,7 @@ translator: ''
 updated: '2024-02-01 12:37:42'
 ---
 
-![](/Asserts/Images//attachment/album/202402/01/123705b2wp8zrrxrjujq7f.jpg)
+![](/Asserts/Images/album/202402/01/123705b2wp8zrrxrjujq7f.jpg)
 
 
 这是一个艰难的决定 —— 这不是调侃，而是当你真正做出改变了你十几年生活轨迹的决定时，你就会明白这个决定确实艰难。

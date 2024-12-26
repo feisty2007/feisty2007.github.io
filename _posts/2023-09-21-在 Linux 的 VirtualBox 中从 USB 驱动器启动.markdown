@@ -7,7 +7,7 @@ tags:	[linuxcn,USB,VirtualBox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/22/101826lcduo6etry9ep2rb.jpg)
+![](/Asserts/Images/album/202309/22/101826lcduo6etry9ep2rb.jpg)
 
 
 
@@ -69,7 +69,7 @@ lsblk
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/22/101904kr5vh5wqwtahavrd.png)
+![](/Asserts/Images/album/202309/22/101904kr5vh5wqwtahavrd.png)
 
 
 
@@ -112,7 +112,7 @@ sudo VBoxManage createmedium disk --filename=/home/sagar/IF.vmdk --variant=RawDi
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/22/101904ar55zyyg2yiwwdrw.png)
+![](/Asserts/Images/album/202309/22/101904ar55zyyg2yiwwdrw.png)
 
 
 最后，使用 `chmod` 命令更改权限：
@@ -124,7 +124,7 @@ sudo chmod 777 Filename.vmdk
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/22/101905anqp9tqdbsavqpbp.png)
+![](/Asserts/Images/album/202309/22/101905anqp9tqdbsavqpbp.png)
 
 
 #### 步骤 2：在 Linux 的 VirtualBox 中从 USB 启动
@@ -136,13 +136,13 @@ sudo chmod 777 Filename.vmdk
 在那里，为你的虚拟机命名并选择操作系统类型及其版本：
 
 
-![](/Asserts/Images//attachment/album/202309/22/101905b683bmvv8xm8b3z8.png)
+![](/Asserts/Images/album/202309/22/101905b683bmvv8xm8b3z8.png)
 
 
 现在，单击 “<ruby> 下一步 <rt>  Next </rt></ruby>” 按钮，它会要求你为虚拟机分配硬件资源：
 
 
-![](/Asserts/Images//attachment/album/202309/22/101906czcobzoqbfvmi9cd.png)
+![](/Asserts/Images/album/202309/22/101906czcobzoqbfvmi9cd.png)
 
 
 完成硬件资源分配后，单击“下一步”按钮。
@@ -156,13 +156,13 @@ sudo chmod 777 Filename.vmdk
 * 点击“<ruby> 添加 <rt>  Add </rt></ruby>”按钮并选择你最近创建的以 `.vmdk` 结尾的文件。
 
 
-![](/Asserts/Images//attachment/album/202309/22/101906iv3fjgvf33a8gq0h.png)
+![](/Asserts/Images/album/202309/22/101906iv3fjgvf33a8gq0h.png)
 
 
 选择文件后，它将显示文件的名称，选择它并点击 “<ruby> 选择 <rt>  Choose </rt></ruby>” 选项：
 
 
-![](/Asserts/Images//attachment/album/202309/22/101907xp94wku9c4y4mwp6.png)
+![](/Asserts/Images/album/202309/22/101907xp94wku9c4y4mwp6.png)
 
 
 它将向你显示已选择从中启动的文件。单击下一步，它将显示你所做的选择的摘要。
@@ -171,7 +171,7 @@ sudo chmod 777 Filename.vmdk
 点击 “<ruby> 完成 <rt>  Finish </rt></ruby>” 按钮：
 
 
-![](/Asserts/Images//attachment/album/202309/22/101907kw0k5obbp823yz88.png)
+![](/Asserts/Images/album/202309/22/101907kw0k5obbp823yz88.png)
 
 
 就是这样！ 虚拟机已创建。
@@ -180,13 +180,13 @@ sudo chmod 777 Filename.vmdk
 要启动虚拟机，首先选择虚拟机并单击启动按钮：
 
 
-![](/Asserts/Images//attachment/album/202309/22/101908f3vkon8o9d58755o.png)
+![](/Asserts/Images/album/202309/22/101908f3vkon8o9d58755o.png)
 
 
 由于我的 USB 有 Ventoy，你可以看到，此处列出了多个发行版：
 
 
-![](/Asserts/Images//attachment/album/202309/22/101908y1ygen1sbf25aeuo.png)
+![](/Asserts/Images/album/202309/22/101908y1ygen1sbf25aeuo.png)
 
 
 很酷。是么？
@@ -204,7 +204,7 @@ sudo chmod 777 Filename.vmdk
 首先，关闭虚拟机并将其删除。
 
 
-![](/Asserts/Images//attachment/album/202309/22/101909e24905v53g1ztr0m.png)
+![](/Asserts/Images/album/202309/22/101909e24905v53g1ztr0m.png)
 
 
 现在，如果你尝试 [使用 rm 命令](https://linuxhandbook.com/remove-files-directories/) 并提升权限删除 vmdk 文件，你可以删除它（但这就是幻觉的开始）。
@@ -219,13 +219,13 @@ sudo rm IF.vmdk
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/22/101909p8udwzdvzd6w40j0.png)
+![](/Asserts/Images/album/202309/22/101909p8udwzdvzd6w40j0.png)
 
 
 现在，如果我尝试创建一个具有相同名称的新 vmdk 文件，则会出现错误，指出该文件已存在：
 
 
-![](/Asserts/Images//attachment/album/202309/22/101909k3oz1y5j7b73a39b.png)
+![](/Asserts/Images/album/202309/22/101909k3oz1y5j7b73a39b.png)
 
 
 要删除 vmdk 文件，首先，你必须使用以下命令取消注册该文件：
@@ -237,7 +237,7 @@ sudo VBoxManage closemedium disk /path/to/MyDrive.vmdk
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/22/101910wqc9hs4afpe9j9tn.png)
+![](/Asserts/Images/album/202309/22/101910wqc9hs4afpe9j9tn.png)
 
 
 完成后，你可以使用 `rm` 命令删除该文件，它将轻松删除：
@@ -252,7 +252,7 @@ sudo rm Filename.vmdk
 然后，如果你尝试创建具有相同文件名的 vmdk 文件，你可以这样做：
 
 
-![](/Asserts/Images//attachment/album/202309/22/101910hhkqu4tq25x5qfho.png)
+![](/Asserts/Images/album/202309/22/101910hhkqu4tq25x5qfho.png)
 
 
 这就行了！

@@ -7,7 +7,7 @@ tags:	[linuxcn,I/O,性能,iostat,iotop]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/05/101102t6uu9u8o4huuoote.jpg)
+![](/Asserts/Images/album/201905/05/101102t6uu9u8o4huuoote.jpg)
 
 
 你知道在 Linux 中我们使用什么工具检修和监控实时的磁盘活动吗？如果 [Linux 系统性能](https://www.2daygeek.com/category/monitoring-tools/)变慢，我们会用 [top 命令](https://www.2daygeek.com/linux-top-command-linux-system-performance-monitoring-tool/) 来查看系统性能。它被用来检查是什么进程在服务器上占有如此高的使用率，对于大多数 Linux 系统管理员来说很常见，现实世界中被 Linux 系统管理员广泛采用。
@@ -94,7 +94,7 @@ $ sudo zypper install iotop
 # iotop
 ```
 
-![10](/Asserts/Images//attachment/album/201905/05/101113ho9c86lcesjo77rw.jpg)
+![10](/Asserts/Images/album/201905/05/101113ho9c86lcesjo77rw.jpg)
 
 
 如果你想检查那个进程实际在做 I/O，那么运行 `iotop` 命令加上 `-o` 或者 `--only` 参数。
@@ -105,7 +105,7 @@ $ sudo zypper install iotop
 # iotop --only
 ```
 
-![11](/Asserts/Images//attachment/album/201905/05/101115sbjz5xpsy1kmddzs.jpg)
+![11](/Asserts/Images/album/201905/05/101115sbjz5xpsy1kmddzs.jpg)
 
 
 细节：

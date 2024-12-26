@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/21/101143uuwylyrrglzjfwj7.jpg)
+![](/Asserts/Images/album/202207/21/101143uuwylyrrglzjfwj7.jpg)
 
 
 
@@ -79,7 +79,7 @@ $ sudo docker search alpine
 输出结果：
 
 
-![Search Docker Images](/Asserts/Images//attachment/album/202207/21/101148wnqff9fnnu9212eq.png)
+![Search Docker Images](/Asserts/Images/album/202207/21/101148wnqff9fnnu9212eq.png)
 
 
 搜索基于 **Ubuntu** 的镜像，运行：
@@ -156,7 +156,7 @@ $ sudo docker pull alpine
 
 ```
 
-![Download Docker Images](/Asserts/Images//attachment/album/202207/21/101149ikofmn6offotjkak.png)
+![Download Docker Images](/Asserts/Images/album/202207/21/101149ikofmn6offotjkak.png)
 
 
 #### 3、列出 Docker 镜像
@@ -186,7 +186,7 @@ alpine       latest    e66264b98777   5 weeks ago   5.52MB
 
 ```
 
-![List Docker Images](/Asserts/Images//attachment/album/202207/21/101150e6feqfjzzmsi6mjf.png)
+![List Docker Images](/Asserts/Images/album/202207/21/101150e6feqfjzzmsi6mjf.png)
 
 
 从上面可以看出来，我已经下载了三个 Docker 镜像 - Ubuntu latest、Ubuntu 20.04 和 Alpine Linux。
@@ -207,7 +207,7 @@ alpine       latest    e66264b98777   5 weeks ago   5.52MB
 可以查看下面这个截图：
 
 
-![Docker Image Tag and ID](/Asserts/Images//attachment/album/202207/21/101151tuq77h1hrgoia708.png)
+![Docker Image Tag and ID](/Asserts/Images/album/202207/21/101151tuq77h1hrgoia708.png)
 
 
 从上面的解脱可以看到，标签是 `latest` 和 `20.04`。
@@ -251,7 +251,7 @@ $ sudo docker run -it ubuntu:latest /bin/bash
 启动容器后，会自动进入容器的 shell（命令行）：
 
 
-![Run Containers Using Tag](/Asserts/Images//attachment/album/202207/21/101152f1bvzbzlw9hzsibp.png)
+![Run Containers Using Tag](/Asserts/Images/album/202207/21/101152f1bvzbzlw9hzsibp.png)
 
 
 基于最新 Ubuntu 镜像的容器现在已经启动了。所有的新容器都会被赋予一个名字和唯一的 ID。从上面的输出可以看到，那个 Ubuntu 容器的 ID 是 `2f2a5b826762`。一会儿我们会看到从哪找到容器的名字。
@@ -331,7 +331,7 @@ d74f2ceb5f3a   alpine:latest   "/bin/sh"   3 seconds ago   Up 2 seconds         
 
 ```
 
-![Run Containers In Background](/Asserts/Images//attachment/album/202207/21/101153rubhbbb0zxdgbng5.png)
+![Run Containers In Background](/Asserts/Images/album/202207/21/101153rubhbbb0zxdgbng5.png)
 
 
 从上面个的输出结果中可以看到，我们创建了一个 Alpine 容器，但是还没有连接进去。
@@ -369,7 +369,7 @@ f7e04eed577e   20fffa419e3a    "/bin/bash"   6 minutes ago    Up 6 minutes      
 
 ```
 
-![View Running Containers](/Asserts/Images//attachment/album/202207/21/101154qifqprvc0fpiersf.png)
+![View Running Containers](/Asserts/Images/album/202207/21/101154qifqprvc0fpiersf.png)
 
 
 这里，
@@ -448,7 +448,7 @@ $ sudo docker attach brave_mclean
 首先，通过 `docker ps -a` 命令找到容器的名字或 ID。
 
 
-![Find Container ID And Name](/Asserts/Images//attachment/album/202207/21/101154nnv9k964xm9lmxbm.png)
+![Find Container ID And Name](/Asserts/Images/album/202207/21/101154nnv9k964xm9lmxbm.png)
 
 
 现在，通过使用 `docker start` 命令，加上名字或 ID，你可以启动一个容器，像下面这样：
@@ -577,7 +577,7 @@ $ sudo docker run -it --rm debian:latest
 当你从容器中退出，它会自动被删掉。
 
 
-![Automatically Delete Containers](/Asserts/Images//attachment/album/202207/21/101155gucfykyryrku81nn.png)
+![Automatically Delete Containers](/Asserts/Images/album/202207/21/101155gucfykyryrku81nn.png)
 
 
 从上面的结果可以看到，我先创建了一个新的 Debian 容器。当我退出这个容器的时候，它就被自动删掉了。`docker ps -a` 命令的输出结果显示，Debian 容器现在不存在。
@@ -651,7 +651,7 @@ CONTAINER ID   IMAGE           COMMAND     CREATED         STATUS         PORTS 
 
 ```
 
-![Assign Name To Containers](/Asserts/Images//attachment/album/202207/21/101155i00ssd5ssd27sjz1.png)
+![Assign Name To Containers](/Asserts/Images/album/202207/21/101155i00ssd5ssd27sjz1.png)
 
 
 注意到上面输出结果中的第一个容器的名字了吗？对了，我们给这个容器分配了一个自定义的名字（也就是 `ostechnix_alpine`）。
@@ -750,7 +750,7 @@ ostechnix/ubuntu_apache
 
 ```
 
-![Build Custom Docker Images](/Asserts/Images//attachment/album/202207/21/101155oe7ywv1edd5hmhde.png)
+![Build Custom Docker Images](/Asserts/Images/album/202207/21/101155oe7ywv1edd5hmhde.png)
 
 
 从上面给的结果中可以看到，从运行中的容器创建的新 Docker 镜像已经在我们的 Docker 主机系统中了。
@@ -838,7 +838,7 @@ Total reclaimed space: 176B
 
 ```
 
-![Delete Containers](/Asserts/Images//attachment/album/202207/21/101156uzosepsr88kbbusk.png)
+![Delete Containers](/Asserts/Images/album/202207/21/101156uzosepsr88kbbusk.png)
 
 
 这个命令只有在最新版中有效。
@@ -926,7 +926,7 @@ $ sudo docker system prune -a
 使用这个命令的时候要注意，它会删掉所有没有使用的容器、网络、镜像（包括 <ruby> 挂起 <rt>  dangling </rt></ruby>和<ruby> 未使用 <rt>  unreferenced </rt></ruby> 的）
 
 
-![Delete Everything In Docker](/Asserts/Images//attachment/album/202207/21/101156nrj1tlj1orn1p6s6.png)
+![Delete Everything In Docker](/Asserts/Images/album/202207/21/101156nrj1tlj1orn1p6s6.png)
 
 
 默认情况下，即使当前没有容器在使用<ruby> 磁盘卷 <rt>  volumes </rt></ruby>，为防止重要数据被删除，磁盘卷也不会被删除。
@@ -971,7 +971,7 @@ $ sudo docker ps
 输出结果：
 
 
-![Show running docker containers](/Asserts/Images//attachment/album/202207/21/101157ks7v7831zzu33p4s.jpg)
+![Show running docker containers](/Asserts/Images/album/202207/21/101157ks7v7831zzu33p4s.jpg)
 
 
 噢，没有运行中的容器。
@@ -989,7 +989,7 @@ $ sudo docker ps -a
 输出结果：
 
 
-![Show running and stopped docker containers](/Asserts/Images//attachment/album/202207/21/101157ww9a4bxztajrrxpm.jpg)
+![Show running and stopped docker containers](/Asserts/Images/album/202207/21/101157ww9a4bxztajrrxpm.jpg)
 
 
 可以看到，仍然有停止的容器在使用其中一个 Docker 镜像。所以，我们先把所有容器删掉。

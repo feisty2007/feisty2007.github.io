@@ -13,7 +13,7 @@ RPM是RedHat的包管理器，用来安装、卸载、升级和查询基于RedHa
 我在示例命令中使用SSH包来做说明。
 
 
-![](/Asserts/Images//attachment/album/201311/20/152948s2tauakezl9c23v9.png)
+![](/Asserts/Images/album/201311/20/152948s2tauakezl9c23v9.png)
 
 
 查询RPM数据库和包

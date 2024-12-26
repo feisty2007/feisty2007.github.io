@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,Windows,终端]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/08/184905be6c46zcbs6vv43n.png)
+![](/Asserts/Images/album/201905/08/184905be6c46zcbs6vv43n.png)
 
 
 ### 原文观点

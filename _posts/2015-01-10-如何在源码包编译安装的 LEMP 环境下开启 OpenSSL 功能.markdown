@@ -7,7 +7,7 @@ tags:	[linuxcn,LEMP,OpenSSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/201501/12/134348q6lphhl3fh5ts68l.png)
+![](/Asserts/Images/album/201501/12/134348q6lphhl3fh5ts68l.png)
 
 
 Hello，大家好！我是——邪恶君子！
@@ -31,7 +31,7 @@ Hello，大家好！我是——邪恶君子！
 这个目录下会有如下文件，看图：
 
 
-[![](/Asserts/Images//attachment/album/201501/08/171627anfqyf5sxdbfeeyp.png)](https://img.linux.net.cn/Asserts/Images//attachment/album/201501/08/171627anfqyf5sxdbfeeyp.png) 
+[![](/Asserts/Images/album/201501/08/171627anfqyf5sxdbfeeyp.png)](https://img.linux.net.cn/Asserts/Images/album/201501/08/171627anfqyf5sxdbfeeyp.png) 
 
 
 然后，执行 /usr/local/php5/bin/phpize 命令（在执行前要确保已安装 m4 和 autoconf 两个工具，否则会报错）。

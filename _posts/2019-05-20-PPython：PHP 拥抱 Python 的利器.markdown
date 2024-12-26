@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,PHP,PPython]
 ---
 
 
-![](/Asserts/Images//attachment/album/201905/14/164622ppbkxkvbr1vgxrxo.jpg)
+![](/Asserts/Images/album/201905/14/164622ppbkxkvbr1vgxrxo.jpg)
 
 
 ### 介绍
@@ -51,7 +51,7 @@ PPython 对 PHP 和 Python 间的通讯方式的处理支持 TCP 套接字和 UN
 Python 因其语言 GIL 特性，同一进程内多线程效率不高。PPython 可根据项目需要部署服务，多进程运行 Python，提高应用综合性能。
 
 
-![](/Asserts/Images//attachment/album/201905/14/163259mlld9d4ysvl5bwyd.png)
+![](/Asserts/Images/album/201905/14/163259mlld9d4ysvl5bwyd.png)
 
 
 ### 使用方法

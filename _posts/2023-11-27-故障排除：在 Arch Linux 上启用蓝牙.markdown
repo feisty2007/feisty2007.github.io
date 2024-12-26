@@ -7,7 +7,7 @@ tags:	[linuxcn,蓝牙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/21/201358dz5gex5xu9689kkx.png)
+![](/Asserts/Images/album/202311/21/201358dz5gex5xu9689kkx.png)
 
 
 
@@ -99,7 +99,7 @@ Created symlink /etc/systemd/system/bluetooth.target.wants/bluetooth.service →
 现在，蓝牙已启用，并且在系统设置中很明显：
 
 
-![](/Asserts/Images//attachment/album/202311/21/201614u6bobweblwb7brlz.png)
+![](/Asserts/Images/album/202311/21/201614u6bobweblwb7brlz.png)
 
 
 ### 连接蓝牙设备的提示

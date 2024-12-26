@@ -7,10 +7,10 @@ tags:	[linuxcn,量子计算,Linux,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/12/191626g9a090dbs0h0ib2h.jpg)
+![](/Asserts/Images/album/202308/12/191626g9a090dbs0h0ib2h.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/12/191637jdxe5uwndeve4eq4.jpg)
+![](/Asserts/Images/album/202308/12/191637jdxe5uwndeve4eq4.jpg)
 
 
 ### Chrome 将支持抗量子计算机攻击加密
@@ -35,7 +35,7 @@ tags:	[linuxcn,量子计算,Linux,Firefox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/12/191656xttevggttgtng2pg.jpg)
+![](/Asserts/Images/album/202308/12/191656xttevggttgtng2pg.jpg)
 
 
 ### Linus Torvalds 亲自审查 Bcachefs 文件系统代码
@@ -60,7 +60,7 @@ tags:	[linuxcn,量子计算,Linux,Firefox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/12/191714mllu2cvpddldvlia.jpg)
+![](/Asserts/Images/album/202308/12/191714mllu2cvpddldvlia.jpg)
 
 
 ### Firefox 将成为唯一支持开放扩展的安卓浏览器

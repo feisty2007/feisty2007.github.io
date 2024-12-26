@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,Copilot,手机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/28/164302eir6w3yvcc37p33v.jpg)
+![](/Asserts/Images/album/202202/28/164302eir6w3yvcc37p33v.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/28/164311eq4lyue8q4lg9997.jpg)
+![](/Asserts/Images/album/202202/28/164311eq4lyue8q4lg9997.jpg)
 
 
 ### 大部分 Rust 程序员认为 Rust 很有挑战性，但值得
@@ -27,7 +27,7 @@ tags:	[linuxcn,Rust,Copilot,手机]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/28/164321po1dd8zifvyorvdw.jpg)
+![](/Asserts/Images/album/202202/28/164321po1dd8zifvyorvdw.jpg)
 
 
 ### FSF 公布五篇探讨 GitHub Copilot 的论文
@@ -47,7 +47,7 @@ FSF 称微软的 GitHub Copilot 为“服务即软件替代物（SaaSS）”，�
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/28/164341lc1szc7rhccqyjtm.jpg)
+![](/Asserts/Images/album/202202/28/164341lc1szc7rhccqyjtm.jpg)
 
 
 ### 中国手机品牌几乎统治欧洲最大的通信展

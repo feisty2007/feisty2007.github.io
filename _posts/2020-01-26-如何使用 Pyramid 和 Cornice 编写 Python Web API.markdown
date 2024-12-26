@@ -15,7 +15,7 @@ tags:	[linuxcn,Pyramid,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/16/120352fcgeeccvfgt8sfvc.jpg)
+![](/Asserts/Images/album/202001/16/120352fcgeeccvfgt8sfvc.jpg)
 
 
 [Python](https://opensource.com/resources/python) 是一种高级的、面向对象的编程语言，它以其简单的语法而闻名。它一直是构建 RESTful API 的顶级编程语言之一。

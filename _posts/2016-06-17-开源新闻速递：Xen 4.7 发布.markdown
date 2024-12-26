@@ -19,31 +19,31 @@ Xen 被广泛用于许多流行的云服务商，包括 AWS 、Rackspace 公有�
 这个版本新增加了一个 XL 命令行接口，允许 PV 客户使用 PVUSB 设备，支持对 USB 设备、HVM 客户端、QEMU 磁盘后端（iSCSI、DRBD）等的热插拔。简而言之，就是不需要重启虚拟机就可以在其上添加或者删除磁盘。这一版本还去除了对 PV 设备的 512GB 限制，从而支持更多的应用和工作负荷。
 
 
-![](/Asserts/Images//attachment/album/201606/24/081238lxp3256e5xze5ztl.jpg)
+![](/Asserts/Images/album/201606/24/081238lxp3256e5xze5ztl.jpg)
 
 
 ### 图片新闻
 
 
-![](/Asserts/Images//attachment/album/201606/24/075358cmjnamjjqhrjakzn.jpg)
+![](/Asserts/Images/album/201606/24/075358cmjnamjjqhrjakzn.jpg)
 
 
 *LibreOffice 5.1.4 办公套件[发布](https://blog.documentfoundation.org/blog/2016/06/23/libreoffice-5-1-4-available-for-download/)，LibreOffice 5.1 的目标用户主要是个人用户和为了节省开支的企业。新版本修复了超过130个 bug。*
 
 
-![](/Asserts/Images//attachment/album/201606/24/074039xd9h26gp97d7wl2p.jpg)
+![](/Asserts/Images/album/201606/24/074039xd9h26gp97d7wl2p.jpg)
 
 
 *ownCloud 是一个健壮而自托管的私有云存储解决方案。Collabora 于2015年12月发布了提供给 ownCloud 用户使用的 LibreOffice Online，现在又将它提供给 ownCloud 企业使用了。*
 
 
-![](/Asserts/Images//attachment/album/201606/24/080411gt7qjqhn31w2g7ng.jpg)
+![](/Asserts/Images/album/201606/24/080411gt7qjqhn31w2g7ng.jpg)
 
 
 *OSMC 旨在将一些小型设备变成低成本的家庭影院计算机，为用户带来无与伦比的 Kodi 体验。它支持各种嵌入式设备比如树莓派、Apple TV 和 Vero。最新[发布](https://osmc.tv/2016/06/osmcs-june-update-is-here/)的 OSMC 2016.06-2 版本基于 Debian GNU/Linux 8.5 "Jessie"。*
 
 
-![](/Asserts/Images//attachment/album/201606/24/080911xonncuncmcohlh46.jpg)
+![](/Asserts/Images/album/201606/24/080911xonncuncmcohlh46.jpg)
 
 
 *即将发布的 KDE Plasma 5.7 改进了多处 Wayland 支持，但是 GTK 应用仍将使用 X11 。*

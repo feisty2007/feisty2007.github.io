@@ -10,7 +10,7 @@ tags:	[linuxcn,NSA,安全标准,后门,NIST,IPSEC]
 前不久我[写到](https://freedom-to-tinker.com/blog/felten/nsa-apparently-undermining-standards-security-confidence/)NSA可能在安全标准中植入后门。今天，我们谈一谈NSA被指责在标准中植入后门的两个案例，然后通过它们来区分两种后门之间的不同。
 
 
-![](/Asserts/Images//attachment/album/201311/06/205847x1lcruc1wzhzwlep.jpg)
+![](/Asserts/Images/album/201311/06/205847x1lcruc1wzhzwlep.jpg)
 
 
 ### 第一个案例

@@ -7,7 +7,7 @@ tags:	[linuxcn,6.828,多任务]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/16/125727xit7uuvtt0r7j715.jpg)
+![](/Asserts/Images/album/201812/16/125727xit7uuvtt0r7j715.jpg)
 
 
 ### 简介

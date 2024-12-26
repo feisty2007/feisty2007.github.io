@@ -7,7 +7,7 @@ tags:	[linuxcn,密码,NIST,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/201710/18/094012qnxe6erzko5y55no.jpg)
+![](/Asserts/Images/album/201710/18/094012qnxe6erzko5y55no.jpg)
 
 
 NIST 最近发表了四卷 [SP800-63b 数字身份指南](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf)。除此之外，它还对密码提供三个重要的建议：

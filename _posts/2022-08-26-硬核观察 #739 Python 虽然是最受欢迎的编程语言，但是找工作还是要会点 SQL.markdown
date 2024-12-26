@@ -7,10 +7,10 @@ tags:	[linuxcn,SQL,ChromeOS,物理隔离]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/25/190509qhoorw1jjo65h6vm.jpg)
+![](/Asserts/Images/album/202208/25/190509qhoorw1jjo65h6vm.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/25/190518l4t4884544hgr6k4.jpg)
+![](/Asserts/Images/album/202208/25/190518l4t4884544hgr6k4.jpg)
 
 
 ### Python 虽然是最受欢迎的编程语言，但是找工作还是要会点 SQL
@@ -35,7 +35,7 @@ tags:	[linuxcn,SQL,ChromeOS,物理隔离]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/25/190531dh8a4h122r8w9v3b.jpg)
+![](/Asserts/Images/album/202208/25/190531dh8a4h122r8w9v3b.jpg)
 
 
 ### 微软发现一个 ChromeOS 的高危漏洞
@@ -60,7 +60,7 @@ tags:	[linuxcn,SQL,ChromeOS,物理隔离]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/25/190546sx93sabzrmkrncs8.jpg)
+![](/Asserts/Images/album/202208/25/190546sx93sabzrmkrncs8.jpg)
 
 
 ### 利用手机陀螺仪窃取物理隔离系统的数据

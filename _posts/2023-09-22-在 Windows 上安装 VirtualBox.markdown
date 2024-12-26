@@ -7,7 +7,7 @@ tags:	[linuxcn,VirtualBox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/27/150351mos0snvjpqnz4qv1.jpg)
+![](/Asserts/Images/album/202309/27/150351mos0snvjpqnz4qv1.jpg)
 
 
 
@@ -40,25 +40,25 @@ VirtualBox 是 [最好的虚拟化软件](/article-15911-1.html) 之一。
 要开始使用，请前往 [VirtualBox 的官方下载页面](https://www.virtualbox.org/wiki/Downloads)。单击 “**Windows host**” 选项下载 .exe 安装程序。
 
 
-![](/Asserts/Images//attachment/album/202309/27/150353zzpm38pm5rmtlx0e.jpg)
+![](/Asserts/Images/album/202309/27/150353zzpm38pm5rmtlx0e.jpg)
 
 
 下载安装程序（.exe）文件后，启动它后将执行以下操作：
 
 
-![](/Asserts/Images//attachment/album/202309/27/150353myrceynre2epnz2y.jpg)
+![](/Asserts/Images/album/202309/27/150353myrceynre2epnz2y.jpg)
 
 
 安装指导允许你选择安装位置。你应该坚持使用 C: 驱动器上的默认设置，以确保安装 VirtualBox 所需的所有内容，使其按预期工作。
 
 
-![](/Asserts/Images//attachment/album/202309/27/150353puwidrd7abxuxp7a.jpg)
+![](/Asserts/Images/album/202309/27/150353puwidrd7abxuxp7a.jpg)
 
 
 安装过程包括设置虚拟网络接口。因此，你的网络此时可能会被重置。确保安装时没有连接到任何重要的东西。
 
 
-![](/Asserts/Images//attachment/album/202309/27/150353plder3uiob8ejf3v.jpg)
+![](/Asserts/Images/album/202309/27/150353plder3uiob8ejf3v.jpg)
 
 
 在对网络功能进行重整的同时，还需要处理一些依赖关系。
@@ -67,7 +67,7 @@ VirtualBox 是 [最好的虚拟化软件](/article-15911-1.html) 之一。
 需要安装 Python 核心包才能使 Python 绑定正常工作。如果你不想使用 Python 脚本控制虚拟机，则不一定需要安装它。
 
 
-![](/Asserts/Images//attachment/album/202309/27/150353ss04jbmq6t7sk099.jpg)
+![](/Asserts/Images/album/202309/27/150353ss04jbmq6t7sk099.jpg)
 
 
 但是，如果你认为将来可能需要它们，则应该将其与它一起安装。
@@ -76,7 +76,7 @@ VirtualBox 是 [最好的虚拟化软件](/article-15911-1.html) 之一。
 现在，最终的安装过程将根据你上面的偏好开始，并且它将向你提供在关闭安装程序时启动 VirtualBox 的选项。
 
 
-![](/Asserts/Images//attachment/album/202309/27/150353qujyfky2xpqwq5qn.jpg)
+![](/Asserts/Images/album/202309/27/150353qujyfky2xpqwq5qn.jpg)
 
 
 ### 2、使用 winget 工具
@@ -91,7 +91,7 @@ VirtualBox 是 [最好的虚拟化软件](/article-15911-1.html) 之一。
 首先，你需要以**管理员**身份启动**命令提示符**。
 
 
-![](/Asserts/Images//attachment/album/202309/27/150354ltrek7rrzxuxef7u.jpg)
+![](/Asserts/Images/album/202309/27/150354ltrek7rrzxuxef7u.jpg)
 
 
 接下来，你需要使用 `winget` 命令来安装 VirtualBox。
@@ -114,7 +114,7 @@ winget install Oracle.VirtualBox
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/27/150354izrqh18v80nr06hq.jpg)
+![](/Asserts/Images/album/202309/27/150354izrqh18v80nr06hq.jpg)
 
 
 ### 下一步是启用虚拟化

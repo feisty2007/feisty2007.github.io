@@ -7,7 +7,7 @@ tags:	[linuxcn,思科,开源,H.264,编解码器,OpenH264]
 ---
 
 
-![](/Asserts/Images//attachment/album/201311/08/220821mmyavmby6j73vvzl.jpg)
+![](/Asserts/Images/album/201311/08/220821mmyavmby6j73vvzl.jpg)
 
 
 *YouTube是众多使用H.264的网站之一*

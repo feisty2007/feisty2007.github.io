@@ -37,7 +37,7 @@ tags:	[linuxcn,pip,Python]
 ### 如何在 Ubuntu 上安装 pip
 
 
-![Install pip on Ubuntu Linux](/Asserts/Images//attachment/album/201810/13/110003y07b0mimehuw727z.png)
+![Install pip on Ubuntu Linux](/Asserts/Images/album/201810/13/110003y07b0mimehuw727z.png)
 
 
 默认情况下，`pip` 未安装在 Ubuntu 上。 你必须首先安装它才能使用。 在 Ubuntu 上安装 `pip` 非常简单。 我马上展示给你。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu,Ubuntu MATE]
 > 
 
 
-![Ubuntu MATE 22.10 版本有一些有趣的升级！](/Asserts/Images//attachment/album/202210/25/000916ypxx0mza4u5x4z30.jpg)
+![Ubuntu MATE 22.10 版本有一些有趣的升级！](/Asserts/Images/album/202210/25/000916ypxx0mza4u5x4z30.jpg)
 
 
 Ubuntu MATE 是 [Ubuntu 官方版本](https://itsfoss.com/which-ubuntu-install/) 之一，每次升级都会增加有趣的改进。
@@ -30,7 +30,7 @@ Ubuntu MATE 22.10 版本增加了许多改进和功能，让我们来看看这�
 ### Ubuntu MATE 22.10 的新变化
 
 
-![Ubuntu MATE 22.10 桌面](/Asserts/Images//attachment/album/202210/25/000949h7ln7l90illi7ukl.jpg)
+![Ubuntu MATE 22.10 桌面](/Asserts/Images/album/202210/25/000949h7ln7l90illi7ukl.jpg)
 
 
 基于非 LTS 版本的 [Ubuntu 22.10](https://news.itsfoss.com/ubuntu-22-10-features/) ，Ubuntu MATE 22.10 带来了多项更新，一些关键的亮点包括：
@@ -63,7 +63,7 @@ Ubuntu MATE 22.10 版本增加了许多改进和功能，让我们来看看这�
 #### MATE 桌面升级
 
 
-![Ubuntu MATE 22.10 桌面视图](/Asserts/Images//attachment/album/202210/25/000916l43s44yjstssyt47.png)
+![Ubuntu MATE 22.10 桌面视图](/Asserts/Images/album/202210/25/000916l43s44yjstssyt47.png)
 
 
 MATE 桌面收到了各种错误修复和对 Ayatana 指示器、MATE 面板的更新。
@@ -78,7 +78,7 @@ MATE 桌面收到了各种错误修复和对 Ayatana 指示器、MATE 面板的�
 #### MATE 用户管理器
 
 
-![Ubuntu MATE 22.10 用户管理器](/Asserts/Images//attachment/album/202210/25/000917l6paa68kzaxa8q8f.png)
+![Ubuntu MATE 22.10 用户管理器](/Asserts/Images/album/202210/25/000917l6paa68kzaxa8q8f.png)
 
 
 MATE 用户管理器是该发行版的一个新的补充，允许你添加、修改、删除用户账户。
@@ -90,7 +90,7 @@ MATE 用户管理器是该发行版的一个新的补充，允许你添加、修
 #### 新的 AI 壁纸
 
 
-![Ubuntu MATE 22.10 AI 壁纸](/Asserts/Images//attachment/album/202210/25/000918dhzsdoqm6dl4llmh.png)
+![Ubuntu MATE 22.10 AI 壁纸](/Asserts/Images/album/202210/25/000918dhzsdoqm6dl4llmh.png)
 
 
 这个版本的另一大亮点是增加了新的 AI 生成的壁纸。

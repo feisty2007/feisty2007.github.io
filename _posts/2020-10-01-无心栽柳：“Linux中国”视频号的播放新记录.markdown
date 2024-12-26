@@ -7,7 +7,7 @@ tags:	[linuxcn,视频号]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/10/231847egv2dpx65tggt8al.jpg)
+![](/Asserts/Images/album/202010/10/231847egv2dpx65tggt8al.jpg)
 
 
 五个月前，我们[开始建设“Linux中国”视频号](/article-12194-1.html)，从刚开始懵懵懂懂，到后面逐渐摸到一些门径，我们的视频号的短视频播放量也逐渐取得了提升。
@@ -25,7 +25,7 @@ tags:	[linuxcn,视频号]
 截止到本文发布时，该短视频取得的成绩如下：
 
 
-![](/Asserts/Images//attachment/album/202010/10/231450vhcccxxwm0vcjxzx.jpeg)
+![](/Asserts/Images/album/202010/10/231450vhcccxxwm0vcjxzx.jpeg)
 
 
 虽然这个数据和结果出乎预料，但也表明我们的视频号发展方向值得继续努力。看来，只要兢兢业业的一步步去努力，总有开花的一天。
@@ -34,4 +34,4 @@ tags:	[linuxcn,视频号]
 最后，附上我们的视频号“Linux中国”的二维码，欢迎关注。
 
 
-![](/Asserts/Images//attachment/album/202010/10/230827euhgvcpkxjflxlzd.jpeg)
+![](/Asserts/Images/album/202010/10/230827euhgvcpkxjflxlzd.jpeg)

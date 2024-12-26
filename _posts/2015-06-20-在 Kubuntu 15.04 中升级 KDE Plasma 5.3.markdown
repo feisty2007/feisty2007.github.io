@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE,Plasma 5.3]
 ---
 
 
-![](/Asserts/Images//attachment/album/201506/02/222617omx9g9yntlv3xzgy.jpg)
+![](/Asserts/Images/album/201506/02/222617omx9g9yntlv3xzgy.jpg)
 
 
 **KDE[已经发布了](https://www.kde.org/announcements/plasma-5.3.0.php)Plasma 5.3的稳定版，它包含了一个新的电源管理方面的稳定特性。**
@@ -22,7 +22,7 @@ Plasma 5.3继续改善和细化了全新的KDE桌面，它添加了大量的特�
 ### Plasma 5.3中的新东西
 
 
-![Better Bluetooth Management in Plasma 5.3](/Asserts/Images//attachment/album/201506/02/222618txjh8gkmgexmgx76.jpg)
+![Better Bluetooth Management in Plasma 5.3](/Asserts/Images/album/201506/02/222618txjh8gkmgexmgx76.jpg)
 
 
 *Plasma 5.3中更好的蓝牙管理*
@@ -43,7 +43,7 @@ Plasma 5.3继续改善和细化了全新的KDE桌面，它添加了大量的特�
 同样，对于Plasma 5.3，**KDE中的轨迹板配置更为方便**，这多亏了新的安装和设置模块。
 
 
-![Trackpad, Touchpad. Tomato, Tomayto.](/Asserts/Images//attachment/album/201506/02/222618ue99e3xr339p0xt0.jpg)
+![Trackpad, Touchpad. Tomato, Tomayto.](/Asserts/Images/album/201506/02/222618ue99e3xr339p0xt0.jpg)
 
 
 *轨迹板、触控板。Tomato, Tomayto。*
@@ -76,7 +76,7 @@ Plasma 5.3中[在官方修改日志中](https://www.kde.org/announcements/plasma
 ### 安装Plasma 5.3到Kubuntu 15.04
 
 
-![](/Asserts/Images//attachment/album/201506/02/222619jxypy6k1uygq5uky.png)
+![](/Asserts/Images/album/201506/02/222619jxypy6k1uygq5uky.png)
 
 
 要**安装Plasma 5.3到Kubuntu 15.04**中，你需要添加KDE 移植PPA，运行软件更新器工具并安装任何可用的更新。

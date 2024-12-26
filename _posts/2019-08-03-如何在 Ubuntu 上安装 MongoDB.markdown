@@ -21,7 +21,7 @@ tags:	[linuxcn,MongoDB]
 你很可能发现在现代 Web 应用中使用 MongoDB。它的文档模型使得使用各种编程语言能非常直观地访问和处理它。
 
 
-![mongodb Ubuntu](/Asserts/Images//attachment/album/201908/02/104616prrh800vakprgaqq.jpg)
+![mongodb Ubuntu](/Asserts/Images/album/201908/02/104616prrh800vakprgaqq.jpg)
 
 
 在本文中，我将介绍两种在 Ubuntu 上安装 MongoDB 的方法。
@@ -76,7 +76,7 @@ MongoDB 服务应该在安装时自动启动，但要检查服务状态：
 sudo systemctl status mongodb
 ```
 
-![Check if the MongoDB service is running.](/Asserts/Images//attachment/album/201908/02/104618ep30u03e0200od38.jpg)
+![Check if the MongoDB service is running.](/Asserts/Images/album/201908/02/104618ep30u03e0200od38.jpg)
 
 
 你可以看到该服务是**活动**的。
@@ -239,7 +239,7 @@ sudo service mongod start
 sudo cat /var/log/mongodb/mongod.log
 ```
 
-![Check MongoDB logs to see if the process is running properly.](/Asserts/Images//attachment/album/201908/02/104621u2352nfhhqqqjhf5.jpg)
+![Check MongoDB logs to see if the process is running properly.](/Asserts/Images/album/201908/02/104621u2352nfhhqqqjhf5.jpg)
 
 
 只要你在某处看到：`[initandlisten] waiting for connections on port 27017`，就说明进程正常运行。

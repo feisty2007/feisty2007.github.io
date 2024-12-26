@@ -15,7 +15,7 @@ tags:	[linuxcn,LaTeX]
 > 
 
 
-![Mathpix converts math equations images into LaTeX](/Asserts/Images//attachment/album/201810/29/222716hpbmelo5xumpl5mp.jpg)
+![Mathpix converts math equations images into LaTeX](/Asserts/Images/album/201810/29/222716hpbmelo5xumpl5mp.jpg)
 
 
 [LaTeX 编辑器](https://itsfoss.com/latex-editors-linux/)在撰写学术和科学文献时非常出色。

@@ -7,7 +7,7 @@ tags:	[linuxcn,黑客,漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/10/115759klor616xmrabgocr.jpg)
+![](/Asserts/Images/album/202006/10/115759klor616xmrabgocr.jpg)
 
 
 #### 2019 年热门开源项目中的漏洞增加了一倍以上

@@ -18,7 +18,7 @@ tags:	[linuxcn,CPU,lscpu]
 根据你的需要，有各种各样的关于你的CPU处理器信息你需要了解，比如CPU供应商名、模型名、时钟频率、插槽/内核的数量, L1/L2/L3缓存配置、可用的处理器能力(比如：硬件虚拟化、AES, MMX, SSE)等等。在Linux中，有许多命令行或基于GUI的工具就能来展示你的CPU硬件的相关具体信息。
 
 
-![](/Asserts/Images//attachment/album/201503/22/120334bye7hoq24z6s82cg.jpg)
+![](/Asserts/Images/album/201503/22/120334bye7hoq24z6s82cg.jpg)
 
 
 ### 1. /proc/cpuinfo
@@ -33,7 +33,7 @@ $ more /proc/cpuinfo
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120349b7oi5rzcsaqr0li1.jpg)
+![](/Asserts/Images/album/201503/22/120349b7oi5rzcsaqr0li1.jpg)
 
 
 通过查看这个文件，你能[识别出](http://xmodulo.com/how-to-find-number-of-cpu-cores-on.html)物理处理器数（插槽）、每个CPU核心数、可用的CPU标志寄存器以及其它东西的数量。
@@ -51,7 +51,7 @@ $ cpufreq-info -c 0
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120356betqdxhhaeocdqea.jpg)
+![](/Asserts/Images/album/201503/22/120356betqdxhhaeocdqea.jpg)
 
 
 ### 3. cpuid
@@ -66,7 +66,7 @@ $ cpuid
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120400lzm1paul77ljj583.jpg)
+![](/Asserts/Images/album/201503/22/120400lzm1paul77ljj583.jpg)
 
 
 ### 4. dmidecode
@@ -81,7 +81,7 @@ $ sudo dmidecode
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120402wx31n1dqzpnxdqtx.jpg)
+![](/Asserts/Images/album/201503/22/120402wx31n1dqzpnxdqtx.jpg)
 
 
 ### 5. hardinfo
@@ -96,7 +96,7 @@ $ hardinfo
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120404ib0iybgfvq7bb7oo.jpg)
+![](/Asserts/Images/album/201503/22/120404ib0iybgfvq7bb7oo.jpg)
 
 
 ### 6. i7z
@@ -111,7 +111,7 @@ $ sudo i7z
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120406kmquhw6qoijsj61h.jpg)
+![](/Asserts/Images/album/201503/22/120406kmquhw6qoijsj61h.jpg)
 
 
 ### 8. likwid拓扑
@@ -120,7 +120,7 @@ $ sudo i7z
 [likwid](http://xmodulo.com/identify-cpu-processor-architecture-linux.html) (Like I Knew What I'm Doing) 是一个用来测量、配置并显示硬件相关特性的命令行收集工具。其中的likwid拓扑结构能显示CPU硬件(线程/缓存/NUMA)的拓扑结构信息，还能识别处理器家族(比如：Intel Core 2, AMD Shanghai)。
 
 
-![](/Asserts/Images//attachment/album/201503/22/120409lq9trurnfqp00888.jpg)
+![](/Asserts/Images/album/201503/22/120409lq9trurnfqp00888.jpg)
 
 
 ### 9. lscpu
@@ -135,7 +135,7 @@ $ lscpu
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120411yqffxjd766jb5z62.jpg)
+![](/Asserts/Images/album/201503/22/120411yqffxjd766jb5z62.jpg)
 
 
 ### 10. lshw
@@ -150,7 +150,7 @@ $ sudo lshw -class processor
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120413wv610w1le6fykf1v.jpg)
+![](/Asserts/Images/album/201503/22/120413wv610w1le6fykf1v.jpg)
 
 
 ### 11. lstopo
@@ -165,7 +165,7 @@ $ lstopo
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120415d87bwwt41tuw667s.jpg)
+![](/Asserts/Images/album/201503/22/120415d87bwwt41tuw667s.jpg)
 
 
 ### 12. numactl
@@ -180,7 +180,7 @@ $ numactl --hardware
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120416xuscmo2c54o5unju.jpg)
+![](/Asserts/Images/album/201503/22/120416xuscmo2c54o5unju.jpg)
 
 
 ### 13. x86info
@@ -195,7 +195,7 @@ $ x86info --all
 
 ```
 
-![](/Asserts/Images//attachment/album/201503/22/120430bu72kcr0u131r78r.jpg)
+![](/Asserts/Images/album/201503/22/120430bu72kcr0u131r78r.jpg)
 
 
 

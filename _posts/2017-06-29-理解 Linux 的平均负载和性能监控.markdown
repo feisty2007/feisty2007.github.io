@@ -7,7 +7,7 @@ tags:	[linuxcn,负载,load,性能]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/23/193305uu7fqooxofod83zn.jpg)
+![](/Asserts/Images/album/201706/23/193305uu7fqooxofod83zn.jpg)
 
 
 在本文中，我们将解释 Linux 系统中最关键的管理任务之一——关于系统 / CPU 的<ruby> 负载 <rp>  （ </rp> <rt>  load </rt> <rp>  ） </rp></ruby>和<ruby> 平均负载 <rp>  （ </rp> <rt>  Load average </rt> <rp>  ） </rp></ruby>的性能监控。

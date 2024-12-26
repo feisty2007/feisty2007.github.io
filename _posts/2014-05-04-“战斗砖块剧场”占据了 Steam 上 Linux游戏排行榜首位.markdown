@@ -7,7 +7,7 @@ tags:	[linuxcn,Steam,游戏]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/25/220353gu4eumf969wx6w69.jpg)
+![](/Asserts/Images/album/201405/25/220353gu4eumf969wx6w69.jpg)
 
 
 **Steam for Linux平台在过去几周接受了一些新游戏，其中几个在最畅销名单里有很高的提升。**

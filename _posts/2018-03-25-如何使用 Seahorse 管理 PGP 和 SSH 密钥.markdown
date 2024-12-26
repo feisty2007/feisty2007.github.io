@@ -7,7 +7,7 @@ tags:	[linuxcn,密钥,SSH,PGP]
 ---
 
 
-![Seahorse](/Asserts/Images//attachment/album/201803/16/011254rlylnfanpfa1pppg.jpg "Seahorse")
+![Seahorse](/Asserts/Images/album/201803/16/011254rlylnfanpfa1pppg.jpg "Seahorse")
 
 
 
@@ -63,7 +63,7 @@ tags:	[linuxcn,密钥,SSH,PGP]
 6. 点击 “<ruby> 创建 <rt>  Create </rt></ruby>”
 
 
-![Seahorse](/Asserts/Images//attachment/album/201803/16/011255hhcfa7b9l164n0h7.jpg "Seahorse")
+![Seahorse](/Asserts/Images/album/201803/16/011255hhcfa7b9l164n0h7.jpg "Seahorse")
 
 
 *图 1：使用 Seahorse 创建一个 PGP 密钥。*
@@ -72,7 +72,7 @@ tags:	[linuxcn,密钥,SSH,PGP]
 在创建你的 PGP 密钥期间，你可以点击 “<ruby> 高级密钥选项 <rt>  Advanced key options </rt></ruby>” 展开选项部分，在那里你可以为密钥添加注释信息、加密类型、密钥长度、以及过期时间（如图 2）。
 
 
-![PGP](/Asserts/Images//attachment/album/201803/16/011255v2m6wixi34747676.jpg "PGP")
+![PGP](/Asserts/Images/album/201803/16/011255v2m6wixi34747676.jpg "PGP")
 
 
 *图 2：PGP 密钥高级选项*
@@ -84,7 +84,7 @@ tags:	[linuxcn,密钥,SSH,PGP]
 要使用你创建的 PGP，可在密钥列表中双击它。在结果窗口中，点击 “<ruby> 名字 <rt>  Names </rt></ruby>” 和 “<ruby> 签名 <rt>  Signatures </rt></ruby>” 选项卡。在这个窗口中，你可以签名你的密钥（表示你信任这个密钥）。点击 “<ruby> 签名 <rt>  Sign </rt></ruby>” 按钮然后（在结果窗口中）指出 “<ruby> 你是如何仔细的检查这个密钥的？ <rt>  how carefully you’ve checked this key? </rt></ruby>” 和 “<ruby> 其他人将如何看到该签名 <rt>  how others will see the signature </rt></ruby>”（如图 3）。
 
 
-![Key signing](/Asserts/Images//attachment/album/201803/16/011256b5scll5ljlculckj.jpg "Key signing")
+![Key signing](/Asserts/Images/album/201803/16/011256b5scll5ljlculckj.jpg "Key signing")
 
 
 *图 3：签名一个密钥表示信任级别。*
@@ -115,7 +115,7 @@ tags:	[linuxcn,密钥,SSH,PGP]
 11. 点击 OK
 
 
-![SSH key](/Asserts/Images//attachment/album/201803/16/011256sfwjpa527ra52t6o.jpg "SSH key")
+![SSH key](/Asserts/Images/album/201803/16/011256sfwjpa527ra52t6o.jpg "SSH key")
 
 
 *图 4：上传一个 SSH 密钥到远程服务器。*
@@ -127,7 +127,7 @@ tags:	[linuxcn,密钥,SSH,PGP]
 需要注意的是，在创建一个 SSH 密钥期间，你可以点击 “<ruby> 高级密钥选项 <rt>  Advanced key options </rt></ruby>”去展开它，配置加密类型和密钥长度（如图 5）。
 
 
-![Advanced options](/Asserts/Images//attachment/album/201803/16/011257g87uxx8fyxi7teay.jpg "Advanced options")
+![Advanced options](/Asserts/Images/album/201803/16/011257g87uxx8fyxi7teay.jpg "Advanced options")
 
 
 *图 5：高级 SSH 密钥选项。*

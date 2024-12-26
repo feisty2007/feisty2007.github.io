@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,苹果,银行]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/29/122027ir5jb8jv5hzuj2b8.jpg)
+![](/Asserts/Images/album/202006/29/122027ir5jb8jv5hzuj2b8.jpg)
 
 
 #### 2020 年的 Linux 内核仍在为 Macintosh II 修复驱动

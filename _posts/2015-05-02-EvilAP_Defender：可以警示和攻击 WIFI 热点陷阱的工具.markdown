@@ -10,7 +10,7 @@ tags:	[linuxcn,EvilAP_Defender]
 **开发人员称，EvilAP\_Defender甚至可以攻击流氓Wi-Fi接入点**
 
 
-**![](/Asserts/Images//attachment/album/201505/08/003841xt0x300roxt16499.gif)**
+**![](/Asserts/Images/album/201505/08/003841xt0x300roxt16499.gif)**
 
 
 这是一个新的开源工具，可以定期扫描一个区域，以防出现恶意 Wi-Fi 接入点，同时如果发现情况会提醒网络管理员。

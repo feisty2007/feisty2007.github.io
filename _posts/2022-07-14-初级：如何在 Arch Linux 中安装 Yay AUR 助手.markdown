@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch Linux,AUR,Yay]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/20/164144qgavhpzf6h67a2q7.jpg)
+![](/Asserts/Images/album/202207/20/164144qgavhpzf6h67a2q7.jpg)
 
 
 
@@ -57,7 +57,7 @@ sudo pacman -S git
 
 ```
 
-![Install git](/Asserts/Images//attachment/album/202207/20/164145l9j59ui588e8g453.png)
+![Install git](/Asserts/Images/album/202207/20/164145l9j59ui588e8g453.png)
 
 
 #### 安装 Yay
@@ -80,7 +80,7 @@ sudo git clone https://aur.archlinux.org/yay.git
 
 ```
 
-![clone the yay repo](/Asserts/Images//attachment/album/202207/20/164146rurac0drl21m0u8f.png)
+![clone the yay repo](/Asserts/Images/album/202207/20/164146rurac0drl21m0u8f.png)
 
 
 更改源目录的所有者。将 `debugpoint` 替换为你的用户名。
@@ -119,7 +119,7 @@ makepkg -si
 这样就完成了 Arch Linux 中 Yay 的安装。
 
 
-![Install yay in Arch Linux](/Asserts/Images//attachment/album/202207/20/164146jece5s5bmqbfbbhn.png)
+![Install yay in Arch Linux](/Asserts/Images/album/202207/20/164146jece5s5bmqbfbbhn.png)
 
 
 ### 在 Manjaro 中安装 Yay
@@ -153,7 +153,7 @@ yay -S featherpad
 安装后，你可以在应用菜单中找到应用启动器。
 
 
-![Install a sample application (featherpad) using yay](/Asserts/Images//attachment/album/202207/20/164147iz3eune98x88e385.png)
+![Install a sample application (featherpad) using yay](/Asserts/Images/album/202207/20/164147iz3eune98x88e385.png)
 
 
 ### 一些 Yay 的技巧
@@ -192,7 +192,7 @@ yay -Rns featherpad
 **快速获取系统统计信息**：
 
 
-![system stat using yay](/Asserts/Images//attachment/album/202207/20/164148p5zugqu78cvvwgz6.png)
+![system stat using yay](/Asserts/Images/album/202207/20/164148p5zugqu78cvvwgz6.png)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,勒索,CNNIC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202009/30/185944cf34ycxfszbmcmss.jpg)
+![](/Asserts/Images/album/202009/30/185944cf34ycxfszbmcmss.jpg)
 
 
 #### 部分勒索软件攻击时间只需不到 45 分钟

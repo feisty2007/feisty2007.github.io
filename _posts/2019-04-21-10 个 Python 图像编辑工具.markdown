@@ -15,7 +15,7 @@ tags:	[linuxcn,Python,图像]
 > 
 
 
-![](/Asserts/Images//attachment/album/201904/03/113908goodz6kdy9oc66pr.jpg)
+![](/Asserts/Images/album/201904/03/113908goodz6kdy9oc66pr.jpg)
 
 
 当今的世界充满了数据，而图像数据就是其中很重要的一部分。但只有经过处理和分析，提高图像的质量，从中提取出有效地信息，才能利用到这些图像数据。
@@ -60,13 +60,13 @@ edges = filters.sobel(image)
 plt.imshow(edges, cmap='gray')
 ```
 
-![Image filtering in scikit-image](/Asserts/Images//attachment/album/201904/03/113909w24q3hjhg2qjz0g8.png "Image filtering in scikit-image")
+![Image filtering in scikit-image](/Asserts/Images/album/201904/03/113909w24q3hjhg2qjz0g8.png "Image filtering in scikit-image")
 
 
 使用 [match\_template()](http://scikit-image.org/docs/dev/auto_examples/features_detection/plot_template.html#sphx-glr-auto-examples-features-detection-plot-template-py) 方法实现<ruby> 模板匹配 <rt>  template matching </rt></ruby>：
 
 
-![Template matching in scikit-image](/Asserts/Images//attachment/album/201904/03/113910eijjkg19yrjd07hk.png "Template matching in scikit-image")
+![Template matching in scikit-image](/Asserts/Images/album/201904/03/113910eijjkg19yrjd07hk.png "Template matching in scikit-image")
 
 
 在[展示页面](https://scikit-image.org/docs/dev/auto_examples)可以看到更多相关的例子。
@@ -106,7 +106,7 @@ image[mask]=255
 plt.imshow(image, cmap='gray')
 ```
 
-![NumPy](/Asserts/Images//attachment/album/201904/03/113910nyuuf7z8qpydyzwk.png "NumPy")
+![NumPy](/Asserts/Images/album/201904/03/113910nyuuf7z8qpydyzwk.png "NumPy")
 
 
 ### 3、SciPy
@@ -139,7 +139,7 @@ very_blurred = ndimage.gaussian_filter(face, sigma=5)
 plt.imshow(<image to be displayed>)
 ```
 
-![Using a Gaussian filter in SciPy](/Asserts/Images//attachment/album/201904/03/113911hw2eh1jebi2hjc3j.png "Using a Gaussian filter in SciPy")
+![Using a Gaussian filter in SciPy](/Asserts/Images/album/201904/03/113911hw2eh1jebi2hjc3j.png "Using a Gaussian filter in SciPy")
 
 
 ### 4、PIL/Pillow
@@ -173,10 +173,10 @@ enh = ImageEnhance.Contrast(im)
 enh.enhance(1.8).show("30% more contrast")
 ```
 
-![Enhancing an image in Pillow using ImageFilter](/Asserts/Images//attachment/album/201904/03/113911l2klvtypay0vxtlv.png "Enhancing an image in Pillow using ImageFilter")
+![Enhancing an image in Pillow using ImageFilter](/Asserts/Images/album/201904/03/113911l2klvtypay0vxtlv.png "Enhancing an image in Pillow using ImageFilter")
 
 
-* [源码](http://sipi.usc.edu/Asserts/Images/base/)
+* [源码](http://sipi.usc.edu/database/)
 
 
 ### 5、OpenCV-Python
@@ -197,7 +197,7 @@ OpenCV（Open Source Computer Vision 库）是计算机视觉领域最广泛使�
 使用 OpenCV-Python 中的<ruby> 金字塔融合 <rt>  Pyramid Blending </rt></ruby>将苹果和橘子融合到一起：
 
 
-![Image blending using Pyramids in OpenCV-Python](/Asserts/Images//attachment/album/201904/03/113912jz8qw8rp6wtzzefp.jpg "Image blending using Pyramids in OpenCV-Python")
+![Image blending using Pyramids in OpenCV-Python](/Asserts/Images/album/201904/03/113912jz8qw8rp6wtzzefp.jpg "Image blending using Pyramids in OpenCV-Python")
 
 
 * [源码](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_pyramids/py_pyramids.html#pyramids)
@@ -222,7 +222,7 @@ OpenCV（Open Source Computer Vision 库）是计算机视觉领域最广泛使�
 #### 示例
 
 
-![SimpleCV](/Asserts/Images//attachment/album/201904/03/113914m8mg2208kknztmmf.png "SimpleCV")
+![SimpleCV](/Asserts/Images/album/201904/03/113914m8mg2208kknztmmf.png "SimpleCV")
 
 
 ### 7、Mahotas
@@ -243,10 +243,10 @@ OpenCV（Open Source Computer Vision 库）是计算机视觉领域最广泛使�
 Mahotas 力求使用少量的代码来实现功能。例如这个 [Finding Wally](https://blog.clarifai.com/wheres-waldo-using-machine-learning-to-find-all-the-waldos) 游戏：
 
 
-![Finding Wally problem in Mahotas](/Asserts/Images//attachment/album/201904/03/113915bo76fif7ob1ygy9o.png "Finding Wally problem in Mahotas")
+![Finding Wally problem in Mahotas](/Asserts/Images/album/201904/03/113915bo76fif7ob1ygy9o.png "Finding Wally problem in Mahotas")
 
 
-![Finding Wally problem in Mahotas](/Asserts/Images//attachment/album/201904/03/113916evwafw4hvwhq8rqb.png "Finding Wally problem in Mahotas")
+![Finding Wally problem in Mahotas](/Asserts/Images/album/201904/03/113916evwafw4hvwhq8rqb.png "Finding Wally problem in Mahotas")
 
 
 * [源码](https://mahotas.readthedocs.io/en/latest/wally.html)
@@ -270,7 +270,7 @@ Mahotas 力求使用少量的代码来实现功能。例如这个 [Finding Wally
 使用 Python + SimpleITK 实现的 CT/MR 图像配准过程：
 
 
-![SimpleITK animation](/Asserts/Images//attachment/album/201904/03/113931lfirzfq3z7eqypq3.gif "SimpleITK animation")
+![SimpleITK animation](/Asserts/Images/album/201904/03/113931lfirzfq3z7eqypq3.gif "SimpleITK animation")
 
 
 * [源码](https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks/blob/master/Utilities/intro_animation.py)
@@ -294,7 +294,7 @@ pgmagick 的 [GitHub 仓库](https://github.com/hhatto/pgmagick)中有相关的�
 图像缩放：
 
 
-![Image scaling in pgmagick](/Asserts/Images//attachment/album/201904/03/113932lavabuxxnvud84uv.png "Image scaling in pgmagick")
+![Image scaling in pgmagick](/Asserts/Images/album/201904/03/113932lavabuxxnvud84uv.png "Image scaling in pgmagick")
 
 
 * [源码](https://pgmagick.readthedocs.io/en/latest/cookbook.html#scaling-a-jpeg-image)
@@ -303,7 +303,7 @@ pgmagick 的 [GitHub 仓库](https://github.com/hhatto/pgmagick)中有相关的�
 边缘提取：
 
 
-![Edge extraction in pgmagick](/Asserts/Images//attachment/album/201904/03/113933mroouhu2fnrfxx00.png "Edge extraction in pgmagick")
+![Edge extraction in pgmagick](/Asserts/Images/album/201904/03/113933mroouhu2fnrfxx00.png "Edge extraction in pgmagick")
 
 
 * [源码](https://pgmagick.readthedocs.io/en/latest/cookbook.html#edge-extraction)
@@ -327,7 +327,7 @@ Pycairo 的 [GitHub 仓库](https://github.com/pygobject/pycairo)提供了关于
 使用 Pycairo 绘制线段、基本图形、<ruby> 径向渐变 <rt>  radial gradients </rt></ruby>：
 
 
-![Pycairo](/Asserts/Images//attachment/album/201904/03/113934to6waz70p67i7u6u.png "Pycairo")
+![Pycairo](/Asserts/Images/album/201904/03/113934to6waz70p67i7u6u.png "Pycairo")
 
 
 * [源码](http://zetcode.com/gfx/pycairo/basicdrawing/)

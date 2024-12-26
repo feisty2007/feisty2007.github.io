@@ -15,7 +15,7 @@ tags:	[linuxcn,apt-get,deb-get]
 > 
 
 
-![deb-get](/Asserts/Images//attachment/album/202205/11/122739dpat31rrt18un9tj.jpg)
+![deb-get](/Asserts/Images/album/202205/11/122739dpat31rrt18un9tj.jpg)
 
 
 Ubuntu MATE 的负责人 **Martin Wimpress** 为 Linux 用户带来了另一个有趣的项目。
@@ -81,7 +81,7 @@ sudo deb-get install vivaldi-stable
 
 ```
 
-![](/Asserts/Images//attachment/album/202205/11/122740hqacezhjmj5q5h05.jpg)
+![](/Asserts/Images/album/202205/11/122740hqacezhjmj5q5h05.jpg)
 
 
 另外，类似于 `apt-get upgrade`，你可以使用下面的命令来升级软件包：
@@ -110,7 +110,7 @@ sudo deb-get list
 
 ```
 
-![deb-get](/Asserts/Images//attachment/album/202205/11/122740fmklgangalmagudd.jpg)
+![deb-get](/Asserts/Images/album/202205/11/122740fmklgangalmagudd.jpg)
 
 
 ### 在基于 Ubuntu 的发行版上设置 deb-get

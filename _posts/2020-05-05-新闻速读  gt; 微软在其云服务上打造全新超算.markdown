@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,Windows,超算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202005/20/174639fvvtzwpp747t4l6d.jpg)
+![](/Asserts/Images/album/202005/20/174639fvvtzwpp747t4l6d.jpg)
 
 
 #### 微软在其云服务上打造全新超算

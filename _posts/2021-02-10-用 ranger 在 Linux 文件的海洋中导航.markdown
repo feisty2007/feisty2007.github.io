@@ -15,7 +15,7 @@ tags:	[linuxcn,ranger,导航]
 > 
 
 
-![](/Asserts/Images//attachment/album/202102/20/121918g5hqhjfcjyffh3lt.jpg)
+![](/Asserts/Images/album/202102/20/121918g5hqhjfcjyffh3lt.jpg)
 
 
 `ranger` 是一款独特且非常方便的文件系统导航器，它允许你在 Linux 文件系统中移动，进出子目录，查看文本文件内容，甚至可以在不离开该工具的情况下对文件进行修改。

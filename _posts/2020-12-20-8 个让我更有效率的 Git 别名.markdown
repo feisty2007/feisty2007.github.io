@@ -15,7 +15,7 @@ tags:	[linuxcn,Git]
 > 
 
 
-![](/Asserts/Images//attachment/album/202012/09/202245q50ss5kncqc241sf.jpg)
+![](/Asserts/Images/album/202012/09/202245q50ss5kncqc241sf.jpg)
 
 
 这篇出色的文章《[改变我使用 Git 工作方式的七个技巧](/article-12894-1.html)》启发了我写下另一个对我在命令行上使用 Git 的经验有重大影响的 Git 特性：别名。
@@ -225,7 +225,7 @@ $ git dv 33559c5 ca1494d file1
 
 ```
 
-![vim-diff results](/Asserts/Images//attachment/album/202012/09/202318c1ddkud88sh2tklh.png "vim-diff results")
+![vim-diff results](/Asserts/Images/album/202012/09/202318c1ddkud88sh2tklh.png "vim-diff results")
 
 
 #### 7、Git 配置列表

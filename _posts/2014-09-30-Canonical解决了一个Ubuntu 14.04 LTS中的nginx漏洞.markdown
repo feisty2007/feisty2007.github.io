@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu,Nginx,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/201409/28/092111vcelq4agcxi7zzwi.jpeg)
+![](/Asserts/Images/album/201409/28/092111vcelq4agcxi7zzwi.jpeg)
 **Canonical已经在安全公告中公布了这个影响到Ubuntu 14.04 LTS (Trusty Tahr)的nginx漏洞的细节。这个问题已经被确定并被修复了**
 
 

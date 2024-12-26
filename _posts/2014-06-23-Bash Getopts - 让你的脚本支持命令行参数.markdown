@@ -10,7 +10,7 @@ tags:	[linuxcn,bash,脚本,shell]
 以前我总想知道如何为我的Bash脚本创建命令行参数。经过搜索，我发现了2个函数可以处理这个问题，**getopt** 函数和 **getopts** 函数。我无意争论哪一个函数更好的。**getopts** 是一个shell内建命令，而且似乎比 **getopt** 更容易实现这个功能，所以在这篇文章里我准备讲讲getopts。
 
 
-![](/Asserts/Images//attachment/album/201406/16/144459khrh6o1s7m1kmjl4.png)
+![](/Asserts/Images/album/201406/16/144459khrh6o1s7m1kmjl4.png)
 
 
 ### bash getopts

@@ -7,7 +7,7 @@ tags:	[linuxcn,top,容器,监控,ctop]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/03/125043k2wbdi7lwfwfidre.jpg)
+![](/Asserts/Images/album/201804/03/125043k2wbdi7lwfwfidre.jpg)
 
 
 最近 Linux 容器很火，我们中的大多数人甚至已经在使用它，同时一些人也开始学习它。
@@ -104,7 +104,7 @@ $ ctop
 你可能得到以下类似输出。
 
 
-![](/Asserts/Images//attachment/album/201804/03/125126q1z28116umisf8js.png)
+![](/Asserts/Images/album/201804/03/125126q1z28116umisf8js.png)
 
 
 ### 如何管理容器
@@ -113,7 +113,7 @@ $ ctop
 你可以使用 `ctop` 来管理容器。选择一个你想要管理的容器然后按下回车键，选择所需选项如 `start`、`stop`、`remove` 等。
 
 
-![](/Asserts/Images//attachment/album/201804/03/125130dsncnknss9wwok9j.png)
+![](/Asserts/Images/album/201804/03/125130dsncnknss9wwok9j.png)
 
 
 ### 如何给容器排序
@@ -122,7 +122,7 @@ $ ctop
 默认 `ctop` 使用 `state` 字段来给容器排序。按下 `s` 键来按不同的方面给容器排序。
 
 
-![](/Asserts/Images//attachment/album/201804/03/125135ppeverx5wetp6ixt.png)
+![](/Asserts/Images/album/201804/03/125135ppeverx5wetp6ixt.png)
 
 
 ### 如何查看容器指标
@@ -131,7 +131,7 @@ $ ctop
 如何你想要查看关于容器的更多细节和指标，只用选择你想要查看的相应容器然后按 `o` 键。
 
 
-![](/Asserts/Images//attachment/album/201804/03/125143slbxiks7bbpif81n.png)
+![](/Asserts/Images/album/201804/03/125143slbxiks7bbpif81n.png)
 
 
 ### 如何查看容器日志
@@ -140,7 +140,7 @@ $ ctop
 选择你想要查看日志的相应容器然后按 `l` 键。
 
 
-![](/Asserts/Images//attachment/album/201804/03/125149ywdpzohoidsupfoy.png)
+![](/Asserts/Images/album/201804/03/125149ywdpzohoidsupfoy.png)
 
 
 ### 仅显示活动容器
@@ -149,7 +149,7 @@ $ ctop
 使用 `-a` 选项运行 `ctop` 命令来仅显示活动容器
 
 
-![](/Asserts/Images//attachment/album/201804/03/125154aoszqk3rddy1sh1q.png)
+![](/Asserts/Images/album/201804/03/125154aoszqk3rddy1sh1q.png)
 
 
 ### 打开帮助对话框
@@ -158,7 +158,7 @@ $ ctop
 运行 `ctop`，只需按 `h` 键来打开帮助部分。
 
 
-![](/Asserts/Images//attachment/album/201804/03/125159a9brn4m11bxmer7p.png)
+![](/Asserts/Images/album/201804/03/125159a9brn4m11bxmer7p.png)
 
 
 

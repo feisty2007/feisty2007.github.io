@@ -15,7 +15,7 @@ tags:	[linuxcn,DevSecOps,DevOps]
 > 
 
 
-![](/Asserts/Images//attachment/album/201807/28/234009qwab2z5tllzrmals.jpg)
+![](/Asserts/Images/album/201807/28/234009qwab2z5tllzrmals.jpg)
 
 
 如果 [DevOps](https://enterprisersproject.com/tags/devops) 最终是关于创造更好的软件，那也就意味着是更安全的软件。

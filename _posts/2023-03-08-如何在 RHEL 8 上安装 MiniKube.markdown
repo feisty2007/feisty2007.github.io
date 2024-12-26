@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,MiniKube]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/15/232024hn8312yg1qmy7mhv.jpg)
+![](/Asserts/Images/album/202303/15/232024hn8312yg1qmy7mhv.jpg)
 
 
 
@@ -52,7 +52,7 @@ $ sudo dnf repolist
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/232419vx2ll5i8x0tzsz0z.jpg)
+![](/Asserts/Images/album/202303/15/232419vx2ll5i8x0tzsz0z.jpg)
 
 
 ### 步骤 2）安装 Docker CE（社区版）
@@ -70,7 +70,7 @@ $ sudo dnf install docker-ce docker-ce-cli containerd.io -y
 输出：
 
 
-![](/Asserts/Images//attachment/album/202303/15/232430xmxvyml7ry3rahhr.jpg)
+![](/Asserts/Images/album/202303/15/232430xmxvyml7ry3rahhr.jpg)
 
 
 安装 Docker 后启动并启用它的服务，运行以下 `systemctl` 命令：
@@ -110,7 +110,7 @@ $ kubectl version --client
 以上命令的输出如下所示：
 
 
-![](/Asserts/Images//attachment/album/202303/15/232447ea862rhda129289s.jpg)
+![](/Asserts/Images/album/202303/15/232447ea862rhda129289s.jpg)
 
 
 ### 步骤 4）下载 MiniKube 二进制文件并启动集群
@@ -135,7 +135,7 @@ $ minikube start --driver docker
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/232457sc1x1ec2h7uxx21s.jpg)
+![](/Asserts/Images/album/202303/15/232457sc1x1ec2h7uxx21s.jpg)
 
 
 上面的输出确认 `minikube` 命令已经使用 `docker` 作为驱动程序启动了单节点 Kubernetes 集群。
@@ -179,7 +179,7 @@ $ kubectl get nodes
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/232510gqn80cn1tzn0cqd8.jpg)
+![](/Asserts/Images/album/202303/15/232510gqn80cn1tzn0cqd8.jpg)
 
 
 ### 步骤 5）测试和验证 Kubernetes 集群
@@ -216,7 +216,7 @@ $ kubectl get deployment,pods,svc
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/232522uajvjj1d99i9iz40.jpg)
+![](/Asserts/Images/album/202303/15/232522uajvjj1d99i9iz40.jpg)
 
 
 要访问服务，请通过运行下面的命令获取其 URL：
@@ -231,7 +231,7 @@ $ curl http://192.168.49.2:32291/
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/232538eyydhncl9d2dlzow.jpg)
+![](/Asserts/Images/album/202303/15/232538eyydhncl9d2dlzow.jpg)
 
 
 太好了，这意味着我们的 Kubernetes 集群工作正常，因为我们能够访问我们的示例应用。
@@ -249,7 +249,7 @@ $ minikube addons list
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/232548p7vehvrn0nbrr1cq.jpg)
+![](/Asserts/Images/album/202303/15/232548p7vehvrn0nbrr1cq.jpg)
 
 
 Kubernetes 附带一个仪表板，可让你管理集群。在 MiniKube 中，仪表板已作为插件添加。所以要启用它，运行：
@@ -270,7 +270,7 @@ $ minikube addons enable ingress
 
 ```
 
-![](/Asserts/Images//attachment/album/202303/15/232557nkekrbbi91pdqffb.jpg)
+![](/Asserts/Images/album/202303/15/232557nkekrbbi91pdqffb.jpg)
 
 
 要访问仪表板，运行：
@@ -285,7 +285,7 @@ $ minikube dashbaord --url
 这将在你系统的浏览器中启动仪表板。
 
 
-![](/Asserts/Images//attachment/album/202303/15/232038x2a3y94vmmm4j82m.png)
+![](/Asserts/Images/album/202303/15/232038x2a3y94vmmm4j82m.png)
 
 
 就是这些了。我们已经成功地在 RHEL 8、Rocky Linux 8 或 AlmaLinux 8 上使用 MiniKube 安装了 Kubernetes。欢迎你在下面的评论部分分享你的反馈和意见。

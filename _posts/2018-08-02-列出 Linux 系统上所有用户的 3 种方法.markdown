@@ -15,7 +15,7 @@ tags:	[linuxcn,用户,passwd]
 > 
 
 
-![](/Asserts/Images//attachment/album/201808/01/233735vaxnqz1xzdvsd5zs.jpg)
+![](/Asserts/Images/album/201808/01/233735vaxnqz1xzdvsd5zs.jpg)
 
 
 大家都知道，Linux 系统中用户信息存放在 `/etc/passwd` 文件中。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Chrome]
 > 
 
 
-![](/Asserts/Images//attachment/album/202110/18/175716cfvxnvf05b5je1ax.jpg)
+![](/Asserts/Images/album/202110/18/175716cfvxnvf05b5je1ax.jpg)
 
 
 Chrome 浏览器非常流行，你可能已经在其他系统上使用它了。如果你想在 Debian 上安装 Chrome，你肯定可以这样做。
@@ -57,13 +57,13 @@ Chrome 浏览器非常流行，你可能已经在其他系统上使用它了。�
 你会看到下载 Chrome 的选项。
 
 
-![Click on the Download Chrome button](/Asserts/Images//attachment/album/202110/18/175725iz9ccliceep0m8vp.jpg)
+![Click on the Download Chrome button](/Asserts/Images/album/202110/18/175725iz9ccliceep0m8vp.jpg)
 
 
 当你点击下载按钮时，它会给你两个下载安装文件的选项。选择写着 Debian/Ubuntu 的那个。
 
 
-![Download the Chrome installer file for Debian](/Asserts/Images//attachment/album/202110/18/175725pax5x8ph8xhxhz8p.jpg)
+![Download the Chrome installer file for Debian](/Asserts/Images/album/202110/18/175725pax5x8ph8xhxhz8p.jpg)
 
 
 **请注意，Chrome 浏览器不适用于 32 位系统。**
@@ -72,43 +72,43 @@ Chrome 浏览器非常流行，你可能已经在其他系统上使用它了。�
 接下来，你应该选择将文件保存到电脑中，而不是在软件中心打开进行安装。这样一来，下载的文件将被保存在下载文件夹中，而不是临时目录中。
 
 
-![Save the downloaded DEB file for Google Chrome](/Asserts/Images//attachment/album/202110/18/175726ds1mmsmzvvmvn8v1.jpg)
+![Save the downloaded DEB file for Google Chrome](/Asserts/Images/album/202110/18/175726ds1mmsmzvvmvn8v1.jpg)
 
 
 进入下载文件夹，右击下载的 DEB 文件，选择用 “Software Install” 打开它。
 
 
-![Right click on the downloaded DEB file and open with Software Install](/Asserts/Images//attachment/album/202110/18/175726yqgcvh3anu3oauv6.jpg)
+![Right click on the downloaded DEB file and open with Software Install](/Asserts/Images/album/202110/18/175726yqgcvh3anu3oauv6.jpg)
 
 
 它将打开软件中心，你应该看到现在安装 Chrome 浏览器的选项。点击安装按钮。
 
 
-![Click on the install button](/Asserts/Images//attachment/album/202110/18/175726x74uaj9z73mjb4h3.jpg)
+![Click on the install button](/Asserts/Images/album/202110/18/175726x74uaj9z73mjb4h3.jpg)
 
 
 你会被要求输入账户的密码。这是你用来登录系统的同一密码。
 
 
-![Enter your account’s password](/Asserts/Images//attachment/album/202110/18/175726a7fh0voere7lo89m.jpg)
+![Enter your account’s password](/Asserts/Images/album/202110/18/175726a7fh0voere7lo89m.jpg)
 
 
 在不到一分钟的时间里，Chrome 就会安装完毕。你现在应该看到一个删除选项，这表明软件已经安装完毕。
 
 
-![Chrome is now installed](/Asserts/Images//attachment/album/202110/18/175727klpw3cv1eszi5q1w.png)
+![Chrome is now installed](/Asserts/Images/album/202110/18/175727klpw3cv1eszi5q1w.png)
 
 
 当 Chrome 在 Debian 上安装完毕，在系统菜单中搜索它并启动它。
 
 
-![Start Google Chrome](/Asserts/Images//attachment/album/202110/18/175727xrqpybukyaaybqby.jpg)
+![Start Google Chrome](/Asserts/Images/album/202110/18/175727xrqpybukyaaybqby.jpg)
 
 
 它将要求成为你的默认浏览器，并将崩溃报告发送给谷歌。你可以取消勾选这两个选项。然后你就可以看到谷歌浏览器的窗口。
 
 
-![](/Asserts/Images//attachment/album/202110/18/175727n0x8aq2ix2swkvc0.jpg)
+![](/Asserts/Images/album/202110/18/175727n0x8aq2ix2swkvc0.jpg)
 
 
 如果你登录了你的谷歌账户，你应该可以在这里同步你的密码、书签和其他浏览数据。好好体验吧！
@@ -192,7 +192,7 @@ sudo apt purge google-chrome-stable
 根据要求输入你的账户密码。当你输入密码时，屏幕上没有任何显示。这没关系。输入它并按回车键，确认删除。
 
 
-![](/Asserts/Images//attachment/album/202110/18/175727owyyskokkodzhwto.jpg)
+![](/Asserts/Images/album/202110/18/175727owyyskokkodzhwto.jpg)
 
 
 好了，就这些了。我希望你觉得这个教程有帮助。

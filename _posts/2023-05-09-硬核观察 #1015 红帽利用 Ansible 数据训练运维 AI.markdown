@@ -7,10 +7,10 @@ tags:	[linuxcn,Ansible,AI,Windows,安卓]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/28/201722rtoetc92q1hhkudp.jpg)
+![](/Asserts/Images/album/202305/28/201722rtoetc92q1hhkudp.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/28/201740kl94gdziksifzd47.jpg)
+![](/Asserts/Images/album/202305/28/201740kl94gdziksifzd47.jpg)
 
 
 ### 红帽利用 Ansible 数据训练运维 AI
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ansible,AI,Windows,安卓]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/28/201755ickemvwwedwdkydw.jpg)
+![](/Asserts/Images/album/202305/28/201755ickemvwwedwdkydw.jpg)
 
 
 ### Windows 11 也将有应用的云备份功能
@@ -60,7 +60,7 @@ tags:	[linuxcn,Ansible,AI,Windows,安卓]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/28/201813jfm582z8ohmox8w2.jpg)
+![](/Asserts/Images/album/202305/28/201813jfm582z8ohmox8w2.jpg)
 
 
 ### 亚马逊关闭其中国的安卓应用商店

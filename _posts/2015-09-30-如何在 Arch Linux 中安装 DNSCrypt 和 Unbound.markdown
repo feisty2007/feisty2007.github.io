@@ -16,7 +16,7 @@ tags:	[linuxcn,DNS,DNSCrypt,Unbound]
 现在我将尝试安装“DNSCrypt”，以确保 DNS 的通信的安全，并用“Unbound”加速。
 
 
-![](/Asserts/Images//attachment/album/201509/27/230804y2ynxvn5vynnddnl.jpg)
+![](/Asserts/Images/album/201509/27/230804y2ynxvn5vynnddnl.jpg)
 
 
 ### 第一步 - 安装 yaourt
@@ -105,7 +105,7 @@ $ sudo dnscrypt-autoinstall
 下一步中按下“回车”，接着输入"Y"来选择你想使用的 DNS 提供者，我这里使用不带日志和 DNSSEC 的 DNSCrypt.eu。
 
 
-![DNSCrypt autoinstall](/Asserts/Images//attachment/album/201509/27/230849zgkgfhn8vibuhnje.png)
+![DNSCrypt autoinstall](/Asserts/Images/album/201509/27/230849zgkgfhn8vibuhnje.png)
 
 
 ### 第五步 - 配置 DNSCrypt 和 Unbound
@@ -124,7 +124,7 @@ DNSCRYPT_LOCALPORT=40
 
 ```
 
-![DNSCrypt Configuration](/Asserts/Images//attachment/album/201509/27/230850tnbwlnlbnwotcl6r.png)
+![DNSCrypt Configuration](/Asserts/Images/album/201509/27/230850tnbwlnlbnwotcl6r.png)
 
 
 保存并退出。
@@ -154,7 +154,7 @@ forward-addr: 127.0.0.1@40
 确保**forward-addr**和DNSCrypt中的“**DNSCRYPT\_LOCALPORT**”一致。如你所见，用的是**40**端口。
 
 
-![Unbound Configuration](/Asserts/Images//attachment/album/201509/27/230850pfr8whzlk8rwaw4f.png)
+![Unbound Configuration](/Asserts/Images/album/201509/27/230850pfr8whzlk8rwaw4f.png)
 
 
 接着保存并退出。
@@ -238,7 +238,7 @@ $ sudo systemctl restart dnscrypt-proxy unbound netctl
 现在你可以看到 DNSCrypt.eu 就已经与作为 DNS 提供商的 DNSCrypt 协同工作了。
 
 
-![Testing DNSCrypt](/Asserts/Images//attachment/album/201509/27/230851cj2mvjepvj6ll1bv.png)
+![Testing DNSCrypt](/Asserts/Images/album/201509/27/230851cj2mvjepvj6ll1bv.png)
 
 
 2、 测试 Unbound
@@ -280,7 +280,7 @@ $ dig linoxide.com
 
 ```
 
-![Unbound Test](/Asserts/Images//attachment/album/201509/27/230851rq5oe21rorc1qbbc.png)
+![Unbound Test](/Asserts/Images/album/201509/27/230851rq5oe21rorc1qbbc.png)
 
 
 DNSCrypt 对 DNS 客户端和解析端之间的通讯加密做的很好，并且 Unbound 通过缓存让相同的请求在另一次请求同速度更快。

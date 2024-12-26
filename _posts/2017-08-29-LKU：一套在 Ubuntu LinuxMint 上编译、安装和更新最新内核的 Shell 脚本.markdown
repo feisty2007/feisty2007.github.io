@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,升级]
 ---
 
 
-![](/Asserts/Images//attachment/album/201707/30/162756kpkrpmm07p1llkl8.jpg)
+![](/Asserts/Images/album/201707/30/162756kpkrpmm07p1llkl8.jpg)
 
 
 以手动方式安装和升级最新的 Linux 内核对于每个人来说都不是一件小事，甚至包括一些有经验的人也是如此。它需要对 Linux 内核有深入的了解。过去我们已经介绍了 UKUU（Ubuntu Kernel Upgrade Utility），它可以从 kernel.ubuntu.com 网站上自动检测最新的主线内核，并弹出一个不错的窗口界面进行安装。

@@ -7,7 +7,7 @@ tags:	[linuxcn,监控,Munin]
 ---
 
 
-![](/Asserts/Images//attachment/album/201601/22/213233a8tc4j4oprt1fdto.jpg)
+![](/Asserts/Images/album/201601/22/213233a8tc4j4oprt1fdto.jpg)
 
 
 Munin 是一款类似 [RRD tool](http://www.linuxnix.com/network-monitoringinfo-gathering-tools-in-linux/) 的非常棒的系统监控工具，它能提供给你多方面的系统性能信息，例如 **磁盘、网络、进程、系统和用户**。这些是 Munin 默认监控的内容。
@@ -267,7 +267,7 @@ http://munin.linuxnix.com/munin/index.html
 希望这些能对你配置基本的 Munin 服务器有所帮助。 
 
 
-![](/Asserts/Images//attachment/album/201601/22/213236ei99uugg9zamgaqi.png)
+![](/Asserts/Images/album/201601/22/213236ei99uugg9zamgaqi.png)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,主题]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/13/133146y1bjzb73jj141143.jpg)
+![](/Asserts/Images/album/202006/13/133146y1bjzb73jj141143.jpg)
 
 
 [Ubuntu 20.04](https://itsfoss.com/download-ubuntu-20-04/) 中默认的 Yaru 主题赋予它优美、现代的外观。默认 Yaru 主题中的文件夹是紫色的外观，以与 Ubuntu 的品牌保持一致。
@@ -29,7 +29,7 @@ tags:	[linuxcn,主题]
 ### 更改所选文件和文件夹的颜色和标志
 
 
-![](/Asserts/Images//attachment/album/202006/13/132219ij4jamaes8ejgumb.png)
+![](/Asserts/Images/album/202006/13/132219ij4jamaes8ejgumb.png)
 
 
 我知道有些人将他们的文件夹使用不同的颜色或放在不同的位置，来表示工作正在进行中还是待处理或已完成。
@@ -62,7 +62,7 @@ sudo apt install folder-color yaru-colors-folder-color
 安装后，你必须使用 `nautilus -q` 命令重启 Nautilus 文件管理器。之后，你可以进入文件管理器，右键单击文件夹或文件。你会在上下文菜单中看到 Folder Color 的选项。你将在此处看到颜色和标志选项。
 
 
-![](/Asserts/Images//attachment/album/202006/13/132239cm3ppkrp991pece2.png)
+![](/Asserts/Images/album/202006/13/132239cm3ppkrp991pece2.png)
 
 
 你还可以通过在菜单**通过选择“默认”恢复原始文件夹颜色**。
@@ -95,7 +95,7 @@ sudo add-apt-repository -r ppa:costales/yaru-colors-folder-color
 ### Yaru Colors 主题包更改 Yaru 主题颜色
 
 
-![](/Asserts/Images//attachment/album/202006/13/132334m0u1ug0a9wy1pwag.jpg)
+![](/Asserts/Images/album/202006/13/132334m0u1ug0a9wy1pwag.jpg)
 
 
 如果你想继续使用 Yaru 主题但使用不同的颜色，那么需要[Yaru Colors 主题包](https://github.com/Jannomag/Yaru-Colors)。
@@ -125,13 +125,13 @@ Yaru Colors 由 12 种 Yaru 颜色变体组成。它们浅绿色、蓝色、棕�
 如果你不想亲自复制，那么你可以在解压文件夹中找到 `install.sh` 脚本。你可以运行它来通过交互式终端会话安装全部或选定的几个主题。
 
 
-![](/Asserts/Images//attachment/album/202006/13/132421skqa0z3d0kkq0hhw.png)
+![](/Asserts/Images/album/202006/13/132421skqa0z3d0kkq0hhw.png)
 
 
 要更改 GNOME Shell 主题，你必须[使用 GNOME Tweak 工具](https://itsfoss.com/gnome-tweak-tool/)。你也可以使用 GNOME Tweak 将图标和主题更改回默认。
 
 
-![](/Asserts/Images//attachment/album/202006/13/132506ihtrragsp4qgps54.png)
+![](/Asserts/Images/album/202006/13/132506ihtrragsp4qgps54.png)
 
 
 享受为你的 Ubuntu 生活增色 ?

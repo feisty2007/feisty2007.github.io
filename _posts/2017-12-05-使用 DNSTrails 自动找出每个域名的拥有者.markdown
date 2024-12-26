@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS,域名]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/04/215650blxa4lj6bgsj7n6s.jpg)
+![](/Asserts/Images/album/201712/04/215650blxa4lj6bgsj7n6s.jpg)
 
 
 今天，我们很高兴地宣布我们最近几周做的新功能。它是 Whois 聚合工具，现在可以在 [DNSTrails](https://dnstrails.com/) 上获得。
@@ -34,7 +34,7 @@ tags:	[linuxcn,DNS,域名]
 第三步：在得到域名的结果后，如下所见，定位下面的 Whois 信息：
 
 
-![Domain name search results](/Asserts/Images//attachment/album/201712/04/215935adtcp721n4bbn451.png)
+![Domain name search results](/Asserts/Images/album/201712/04/215935adtcp721n4bbn451.png)
 
 
 第四步：你会看到那里有有关域名的电话和电子邮箱地址。
@@ -43,7 +43,7 @@ tags:	[linuxcn,DNS,域名]
 第五步：点击右边的链接，你会轻松地找到用相同电话和邮箱注册的域名。
 
 
-![All domain names by the same owner](/Asserts/Images//attachment/album/201712/04/220005eselwnx6b1rvbs14.png)
+![All domain names by the same owner](/Asserts/Images/album/201712/04/220005eselwnx6b1rvbs14.png)
 
 
 如果你正在调查互联网上任何个人的域名所有权，这意味着即使域名甚至没有指向注册服务商的 IP，如果他们使用相同的电话和邮件地址，我们仍然可以发现其他域名。

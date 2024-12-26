@@ -7,7 +7,7 @@ tags:	[linuxcn,pipx,pip]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/17/151434qbybncmn7yakkewb.jpg)
+![](/Asserts/Images/album/202306/17/151434qbybncmn7yakkewb.jpg)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,pipx,pip]
 然而，在最近的发行版本中，`pip` 用户遇到了 [外部管理环境错误](https://itsfoss.com/externally-managed-environment/)。
 
 
-![error: externally-managed-environment](/Asserts/Images//attachment/album/202306/17/151510wh9mqqy9z9qymy9h.png)
+![error: externally-managed-environment](/Asserts/Images/album/202306/17/151510wh9mqqy9z9qymy9h.png)
 
 
 这是为避免通过 [pip](https://itsfoss.com/install-pip-ubuntu/) 安装的 Python 包与本机包管理器之间发生冲突而添加的“功能”。Python 希望你使用单独的虚拟环境，而不是通过 `pip` 在全局安装包。
@@ -60,7 +60,7 @@ pipx ensurepath
 
 ```
 
-![install pipx in ubuntu](/Asserts/Images//attachment/album/202306/17/151511rgrgcqp11qrgqlqt.png)
+![install pipx in ubuntu](/Asserts/Images/album/202306/17/151511rgrgcqp11qrgqlqt.png)
 
 
 **关闭终端并重新启动它**。这就完成了！ 现在，让我们看看如何使用它。
@@ -105,7 +105,7 @@ pipx install cowsay
 
 ```
 
-![install python packages in isolation using pipx in ubuntu](/Asserts/Images//attachment/album/202306/17/151511f99wrri9iuhirw9p.png)
+![install python packages in isolation using pipx in ubuntu](/Asserts/Images/album/202306/17/151511f99wrri9iuhirw9p.png)
 
 
 同样，如果你想安装特定版本的包，你必须在 `==` 后跟上版本号，如下所示：
@@ -126,7 +126,7 @@ pipx install numpy==1.24.1
 
 ```
 
-![](/Asserts/Images//attachment/album/202306/17/151511na8c6u74y9hh7ehb.png)
+![](/Asserts/Images/album/202306/17/151511na8c6u74y9hh7ehb.png)
 
 
 #### 如何搜索包
@@ -156,7 +156,7 @@ pypisearch python_package_name
 在这里，我搜索了 neofetch：
 
 
-![search python packages in Ubuntu](/Asserts/Images//attachment/album/202306/17/151512ovrlpilgvod9vv6v.png)
+![search python packages in Ubuntu](/Asserts/Images/album/202306/17/151512ovrlpilgvod9vv6v.png)
 
 
 #### 如何使用 pipx 升级包
@@ -174,7 +174,7 @@ pipx upgrade-all
 
 ```
 
-![upgrade all the python packages at once in ubuntu](/Asserts/Images//attachment/album/202306/17/151512xfk2zf225kjdlz2d.png)
+![upgrade all the python packages at once in ubuntu](/Asserts/Images/album/202306/17/151512xfk2zf225kjdlz2d.png)
 
 
 如你所见，它将 numpy 升级到最新版本。
@@ -198,7 +198,7 @@ pipx upgrade cowsay
 
 ```
 
-![upgrade specific python package using pipx in ubuntu](/Asserts/Images//attachment/album/202306/17/151512c364bt46cnx3m6b6.png)
+![upgrade specific python package using pipx in ubuntu](/Asserts/Images/album/202306/17/151512c364bt46cnx3m6b6.png)
 
 
 #### 如何使用 pipx 卸载包
@@ -222,7 +222,7 @@ pipx uninstall numpy
 
 ```
 
-![remove python packages using pipx in ubuntu](/Asserts/Images//attachment/album/202306/17/151512gzovkc6v08ohdok2.png)
+![remove python packages using pipx in ubuntu](/Asserts/Images/album/202306/17/151512gzovkc6v08ohdok2.png)
 
 
 ### pip 还是 pipx？

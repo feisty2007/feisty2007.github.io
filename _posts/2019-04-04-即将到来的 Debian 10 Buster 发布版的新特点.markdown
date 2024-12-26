@@ -7,7 +7,7 @@ tags:	[linuxcn,Debian]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/28/121114bkrb0kv9kos4rsn4.png)
+![](/Asserts/Images/album/201904/28/121114bkrb0kv9kos4rsn4.png)
 
 
 Debian 10 Buster 即将发布。第一个发布候选版已经发布，我们预期可以在几周内见到待最终版。
@@ -43,7 +43,7 @@ Debian 在它的软件归档中分为三个部分，叫做 Main、contrib 和 no
 Buster 的 Debian 主题被称为 [FuturePrototype](https://wiki.debian.org/DebianArt/Themes/futurePrototype) 并且看起来如下图：
 
 
-![Debian Buster FuturePrototype Theme](/Asserts/Images//attachment/album/201904/28/121133zvo9ow36fmx8oa26.png)
+![Debian Buster FuturePrototype Theme](/Asserts/Images/album/201904/28/121133zvo9ow36fmx8oa26.png)
 
 
 #### 1、GNOME 桌面 3.30
@@ -139,7 +139,7 @@ Debian 已经支持一些常见的新的单板机，其中最新的包括 pine64
 对于 Debian Buster 的 Live 版，Debian 引入了 [Calameres 安装器](https://calamares.io/about/)来替代老的 Debian-installer。Debian-installer 比 Calameres 功能更多，但对于初学者，Calameres 相对于 Debian-installer 提供了另外一种全新的安装方式。安装过程的截图：
 
 
-![Calamares Partitioning Stage](/Asserts/Images//attachment/album/201904/28/121135l4bz6p66jt666lpq.jpg)
+![Calamares Partitioning Stage](/Asserts/Images/album/201904/28/121135l4bz6p66jt666lpq.jpg)
 
 
 如图所见，在 Calamares 下安装 Debian 相当简单，只要经历 5 个步骤你就能在你的机器上安装 Debian。

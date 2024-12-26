@@ -7,7 +7,7 @@ tags:	[linuxcn,BSD,许可证,FreeBSD]
 ---
 
 
-![](/Asserts/Images//attachment/album/201507/30/222252xttfl8oz80ob0rjf.jpg)
+![](/Asserts/Images/album/201507/30/222252xttfl8oz80ob0rjf.jpg)
 
 
 ### 简介

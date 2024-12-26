@@ -7,7 +7,7 @@ tags:	[linuxcn,字节,架构]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/30/115011gak5kqzsx3gfi2ud.jpg)
+![](/Asserts/Images/album/202305/30/115011gak5kqzsx3gfi2ud.jpg)
 
 
 我正在制作一份有关计算机以二进制表示事物的小册子，有人问我一个问题 - 为什么 x86 架构使用 8 位字节？为什么不能是其他大小呢？
@@ -118,7 +118,7 @@ tags:	[linuxcn,字节,架构]
 因此，这种 36 位大小似乎是基于
 
 
-![](/Asserts/Images//attachment/album/202305/30/115207f4m55ct36z7knz4k.png)
+![](/Asserts/Images/album/202305/30/115207f4m55ct36z7knz4k.png)
 
 
 的，它等于 34.2。嗯。
@@ -163,7 +163,7 @@ tags:	[linuxcn,字节,架构]
 这是来自维基百科一个带有一些亮灯的 IBM 650 显示器的图片（[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) 许可）：
 
 
-![](/Asserts/Images//attachment/album/202305/30/115413n89sa99mit8krmqn.jpg)
+![](/Asserts/Images/album/202305/30/115413n89sa99mit8krmqn.jpg)
 
 
 因此，如果你想让人们能够相对容易地从二进制表示中读取十进制数，这样做就更有意义了。我认为，今天 BCD 已经过时了，因为我们拥有显示器，并且我们的计算机可以将用二进制表示的数字转换为十进制，并显示它们。

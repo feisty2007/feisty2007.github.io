@@ -7,7 +7,7 @@ tags:	[linuxcn,Zephyr,GSoC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/12/102306u5vlj0ek5llhlkph.jpg)
+![](/Asserts/Images/album/202207/12/102306u5vlj0ek5llhlkph.jpg)
 
 
 **谷歌编程之夏**（GSoC）是一个谷歌举办的国际年度项目，每年都在夏季举办。当贡献者们参与并完成一个 [自由开源软件](https://en.wikipedia.org/wiki/Free_and_open-source_software) 的编码项目，[谷歌](https://en.wikipedia.org/wiki/Google) 就会给他们发放 [津贴](https://en.wikipedia.org/wiki/Stipend)。谷歌编程之夏于 2005 年推出，于每年 5 月至 8 月举行。项目创意由参与开源软件开发的主办组织提交，但学生也可以提出自己的项目创意。
@@ -70,7 +70,7 @@ Arduino Core 使用 LGPL 许可证，Zephyr 使用 Apache 2 许可证。这意�
 **关于贡献者：**
 
 
-![](/Asserts/Images//attachment/album/202207/12/102234y0kdkkki9j83nk99.jpg)
+![](/Asserts/Images/album/202207/12/102234y0kdkkki9j83nk99.jpg)
 
 
 Dhruva 是一名电气工程专业的本科生。他的兴趣广泛，从嵌入式软件开发到硬件设计，在 SBC、微控制器和嵌入式 Linux 平台方面拥有丰富的工作经验。
@@ -85,10 +85,10 @@ Dhruva 是一名电气工程专业的本科生。他的兴趣广泛，从嵌入�
 [Apache Thrift](https://github.com/apache/thrift) 是一个 [IDL](https://en.wikipedia.org/wiki/Interface_description_language) 规范、[RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) 框架和代码生成器，它抽象出传输和协议细节，让开发者专注于应用逻辑。它适用于所有主流操作系统，支持超过 27 种编程语言、7 种协议和 6 种底层传输方式。最初，它于 [2007 年在 Facebook 开发](https://thrift.apache.org/static/files/thrift-20070401.pdf)，随后与 Apache 软件基金会共享。
 
 
-![](/Asserts/Images//attachment/album/202207/12/102235wxg17ohiw8wko1kb.png)
+![](/Asserts/Images/album/202207/12/102235wxg17ohiw8wko1kb.png)
 
 
-![](/Asserts/Images//attachment/album/202207/12/102235ls9vxvcxsxrrr6b9.png)
+![](/Asserts/Images/album/202207/12/102235ls9vxvcxsxrrr6b9.png)
 
 
 在 Zephyr RTOS 中支持 Thrift 将使社区受益匪浅。它将带来新的软件和硬件技术、新产品以及云集成的其他方式。 Thrift 也可以用于几乎任何传输，因此，它是 Zephyr 支持的许多不同物理通信层的自然选择。该项目的想法是使概念验证 [Thrift for Zephyr 模块](https://github.com/cfriedt/thrift-for-zephyr) 形成以供上游使用。为此，贡献者必须：

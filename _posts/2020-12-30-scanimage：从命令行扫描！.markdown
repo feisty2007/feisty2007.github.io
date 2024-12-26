@@ -7,7 +7,7 @@ tags:	[linuxcn,扫描]
 ---
 
 
-![](/Asserts/Images//attachment/album/202012/05/105822m30t6x66hz3hx6x3.jpg)
+![](/Asserts/Images/album/202012/05/105822m30t6x66hz3hx6x3.jpg)
 
 
 这又是一篇关于我很喜欢的一个命令行工具的文章。

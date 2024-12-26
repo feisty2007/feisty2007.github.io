@@ -7,7 +7,7 @@ tags:	[linuxcn,Neofetch]
 ---
 
 
-![Display Linux system information using Neofetch](/Asserts/Images//attachment/album/201906/19/103331d1hfxqniplhfuhxh.png)
+![Display Linux system information using Neofetch](/Asserts/Images/album/201906/19/103331d1hfxqniplhfuhxh.png)
 
 
 Neofetch 是一个简单但有用的命令行系统信息工具，它用 Bash 编写。它会收集有关系统软硬件的信息，并在终端中显示结果。默认情况下，系统信息将与操作系统的 logo 一起显示。但是，你可以进一步地自定义使用 ascii 图像或其他任何图片。你还可以配置 Neofetch 显示的信息、信息的显示位置和时间。Neofetch 主要用于系统信息的截图。它支持 Linux、BSD、Mac OS X、iOS 和 Windows 操作系统。在这个简短的教程中，让我们看看如何使用 Neofetch 显示 Linux 系统信息。
@@ -116,7 +116,7 @@ $ neofetch
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201906/19/103334hve2plvcxpcpvp27.png)
+![](/Asserts/Images/album/201906/19/103334hve2plvcxpcpvp27.png)
 
 
 *使用 Neofetch 显示 Linux 系统信息*
@@ -206,7 +206,7 @@ $ neofetch --w3m --source /home/sk/Pictures/image.png
 示例输出：
 
 
-![](/Asserts/Images//attachment/album/201906/19/103335ruo1o44uyao3b9js.png)
+![](/Asserts/Images/album/201906/19/103335ruo1o44uyao3b9js.png)
 
 
 *使用自定义 logo 的 Neofetch 输出*

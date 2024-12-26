@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/29/154314iu7gayl7j877guo7.jpg)
+![](/Asserts/Images/album/202209/29/154314iu7gayl7j877guo7.jpg)
 
 
 Rust for Linux 这个项目是希望今后可以使用 Rust 编程语言来编写内核代码，该项目已经进行了几年，有越来越多的开发者认为是时候将这项工作合并到主线中了。在 2022 年的 Linux 内核维护者峰会上，Miguel Ojeda 向大家更新了此项目的最新状况，希望能达成一致来确定何时可以完成合并。

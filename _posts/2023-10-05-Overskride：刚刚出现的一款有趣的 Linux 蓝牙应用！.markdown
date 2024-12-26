@@ -7,7 +7,7 @@ tags:	[linuxcn,蓝牙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/25/092956c1jb1bqxx8qryrju.jpg)
+![](/Asserts/Images/album/202310/25/092956c1jb1bqxx8qryrju.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,蓝牙]
 ### Overskride：可以期待什么？
 
 
-![](/Asserts/Images//attachment/album/202310/25/093023teitihoe55etdeoh.png)
+![](/Asserts/Images/album/202310/25/093023teitihoe55etdeoh.png)
 
 
 Overskride 将会吸引 Rust 爱好者，因为它**主要是用 Rust 语言**编写的，带有 **GTK4/libadwaita 风格**。
@@ -63,7 +63,7 @@ Overskride 将会吸引 Rust 爱好者，因为它**主要是用 Rust 语言**�
 Overskride 能够检测到我的智能手机，并提供多种配置选项。
 
 
-![](/Asserts/Images//attachment/album/202310/25/093024uwbnb47lenhxbw22.png)
+![](/Asserts/Images/album/202310/25/093024uwbnb47lenhxbw22.png)
 
 
 你可以将设备添加到受信任列表或阻止列表、重命名并发送文件。
@@ -72,13 +72,13 @@ Overskride 能够检测到我的智能手机，并提供多种配置选项。
 我尝试了**文件传输功能**，但在此之前，我必须使用 [Flatseal](https://itsfoss.com/flatseal/) 允许访问用户文件，以便它可以读取我系统上的文件。
 
 
-![](/Asserts/Images//attachment/album/202310/25/093026t9mtggzrjstxgti4.png)
+![](/Asserts/Images/album/202310/25/093026t9mtggzrjstxgti4.png)
 
 
 我在手机上接受文件传输后，传输开始。速度还可以，文件确实完整地到达那里，没有任何问题。
 
 
-![](/Asserts/Images//attachment/album/202310/25/093027qvooddnjdxjnbo46.png)
+![](/Asserts/Images/album/202310/25/093027qvooddnjdxjnbo46.png)
 
 
 我必须说，在其首次发布时，开发人员为我们提供了一个有用的实用程序。我很高兴看到其未来版本将提供什么样的改进。

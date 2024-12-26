@@ -7,7 +7,7 @@ tags:	[linuxcn,WebAssembly,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/14/144316bb8kbwjephjyb427.jpg)
+![](/Asserts/Images/album/202205/14/144316bb8kbwjephjyb427.jpg)
 
 
 ### 简介

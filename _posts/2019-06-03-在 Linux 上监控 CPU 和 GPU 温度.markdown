@@ -27,7 +27,7 @@ tags:	[linuxcn,温度]
 为了监控 CPU 和 GPU 的行为，我们将利用实用的 `watch` 命令在每几秒钟之后动态地得到读数。
 
 
-![](/Asserts/Images//attachment/album/201906/02/103923ik5yxyhyw9c55mox.png)
+![](/Asserts/Images/album/201906/02/103923ik5yxyhyw9c55mox.png)
 
 
 ### 在 Linux 中监控 CPU 温度

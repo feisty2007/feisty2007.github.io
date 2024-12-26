@@ -7,7 +7,7 @@ tags:	[linuxcn,NUC]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/20/224650me0qoiqjeiysqqph.jpg)
+![](/Asserts/Images/album/201910/20/224650me0qoiqjeiysqqph.jpg)
 
 
 几周前，我买了一台 [英特尔 NUC 迷你 PC](https://www.amazon.com/Intel-NUC-Mainstream-Kit-NUC8i3BEH/dp/B07GX4X4PW?psc=1&SubscriptionId=AKIAJ3N3QBK3ZHDGU54Q&tag=chmod7mediate-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07GX4X4PW "barebone Intel NUC mini PC")。我[在上面安装了 Linux](/article-11477-1.html)，我非常喜欢它。这个小巧的无风扇机器取代了台式机那庞大的 CPU。
@@ -25,7 +25,7 @@ tags:	[linuxcn,NUC]
 ### 基本的英特尔 NUC 配件
 
 
-![](/Asserts/Images//attachment/album/201910/20/224906jad1vi175svafhsa.png)
+![](/Asserts/Images/album/201910/20/224906jad1vi175svafhsa.png)
 
 
 \*文章中的 Amazon 链接是（原文的）受益链接。请阅读我们的[受益政策](https://itsfoss.com/affiliate-policy/)。
@@ -43,7 +43,7 @@ tags:	[linuxcn,NUC]
 这些显示器有一个简单的固定支架。如果要使显示器可以上下移动并纵向旋转，请尝试使用 [HP EliteDisplay 显示器](https://www.amazon.com/HP-EliteDisplay-21-5-Inch-1FH45AA-ABA/dp/B075L4VKQF?SubscriptionId=AKIAJ3N3QBK3ZHDGU54Q&tag=chmod7mediate-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B075L4VKQF "HP EliteDisplay monitors")。
 
 
-![HP EliteDisplay Monitor](/Asserts/Images//attachment/album/201910/20/224909fiin26o4jvehieew.png)
+![HP EliteDisplay Monitor](/Asserts/Images/album/201910/20/224909fiin26o4jvehieew.png)
 
 
 我在多屏设置中同时连接了三台显示器。一台显示器连接到指定的 HDMI 端口。两台显示器通过 [Club 3D 的 Thunderbolt 转 HDMI 分配器](https://www.amazon.com/Club3D-CSV-1546-USB-C-Multi-Monitor-Splitter/dp/B06Y2FX13G?SubscriptionId=AKIAJ3N3QBK3ZHDGU54Q&tag=chmod7mediate-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06Y2FX13G "thunderbolt to HDMI splitter from Club 3D")连接到 Thunderbolt 端口。
@@ -58,7 +58,7 @@ tags:	[linuxcn,NUC]
 英特尔 NUC 有两个内存插槽，最多可支持 32GB 内存。由于我的是 i3 核心处理器，因此我选择了 [Crucial 的 8GB DDR4 内存](https://www.amazon.com/Crucial-Single-PC4-19200-SODIMM-260-Pin/dp/B01BIWKP58?psc=1&SubscriptionId=AKIAJ3N3QBK3ZHDGU54Q&tag=chmod7mediate-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01BIWKP58 "8GB DDR4 RAM from Crucial")，价格约为 $33。
 
 
-![](/Asserts/Images//attachment/album/201910/20/224911ub4jjbwob4oon7n8.jpg)
+![](/Asserts/Images/album/201910/20/224911ub4jjbwob4oon7n8.jpg)
 
 
 8 GB 内存在大多数情况下都没问题，但是如果你的是 i7 核心处理器，那么可以选择 [16GB 内存](https://www.amazon.com/Crucial-Single-PC4-19200-SODIMM-260-Pin/dp/B019FRBHZ0?psc=1&SubscriptionId=AKIAJ3N3QBK3ZHDGU54Q&tag=chmod7mediate-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B019FRBHZ0 "16 GB RAM")，价格约为 $67。你可以加两条，以获得最大 32GB。选择全在于你。
@@ -73,7 +73,7 @@ tags:	[linuxcn,NUC]
 2.5 英寸插槽可同时容纳 SSD 和 HDD。我强烈建议选择 SSD，因为它比 HDD 快得多。[480GB 2.5 英寸](https://www.amazon.com/Green-480GB-Internal-SSD-WDS480G2G0A/dp/B01M3POPK3?psc=1&SubscriptionId=AKIAJ3N3QBK3ZHDGU54Q&tag=chmod7mediate-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M3POPK3 "480 GB 2.5")的价格是 $60。我认为这是一个合理的价格。
 
 
-![](/Asserts/Images//attachment/album/201910/20/225035dd5ijddch1o5whco.png)
+![](/Asserts/Images/album/201910/20/225035dd5ijddch1o5whco.png)
 
 
 2.5 英寸驱动器的标准 SATA 口速度为 6 Gb/秒。根据你是否选择 NVMe SSD，M.2 插槽可能会更快。 NVMe（非易失性内存主机控制器接口规范）SSD 的速度比普通 SSD（也称为 SATA SSD）快 4 倍。但是它们可能也比 SATA M2 SSD 贵一些。
@@ -82,7 +82,7 @@ tags:	[linuxcn,NUC]
 当购买 M.2 SSD 时，请检查产品图片。无论是 NVMe 还是 SATA SSD，都应在磁盘本身的图片中提到。你可以考虑使用[经济的三星 EVO NVMe M.2 SSD](https://www.amazon.com/Samsung-970-EVO-500GB-MZ-V7E500BW/dp/B07BN4NJ2J?psc=1&SubscriptionId=AKIAJ3N3QBK3ZHDGU54Q&tag=chmod7mediate-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07BN4NJ2J "Samsung EVO is a cost effective NVMe M.2 SSD")。
 
 
-![Make sure that your are buying the faster NVMe M2 SSD](/Asserts/Images//attachment/album/201910/21/074104w7swfm9e55zii5di.jpg)
+![Make sure that your are buying the faster NVMe M2 SSD](/Asserts/Images/album/201910/21/074104w7swfm9e55zii5di.jpg)
 
 
 M.2 插槽和 2.5 英寸插槽中的 SATA SSD 具有相同的速度。这就是为什么如果你不想选择昂贵的 NVMe SSD，建议你选择 2.5 英寸 SATA SSD，并保留 M.2 插​​槽供以后升级。
@@ -97,7 +97,7 @@ M.2 插槽和 2.5 英寸插槽中的 SATA SSD 具有相同的速度。这就是�
 正如一些读者指出的那样，你可能有完整的电源线。这取决于你的地理区域和供应商。因此，请检查产品说明和用户评论，以验证其是否具有完整的电源线。
 
 
-![](/Asserts/Images//attachment/album/201910/20/224718eebvzvvvm0b6f3ow.jpg)
+![](/Asserts/Images/album/201910/20/224718eebvzvvvm0b6f3ow.jpg)
 
 
 #### 其他配套配件
@@ -109,7 +109,7 @@ M.2 插槽和 2.5 英寸插槽中的 SATA SSD 具有相同的速度。这就是�
 如果要使用 M.2 插槽，那么可能需要螺丝刀。英特尔 NUC 是一款出色的设备，你只需用手旋转四个脚即可拧开底部面板。你必须打开设备才能放置内存和磁盘。
 
 
-![Intel NUC with Security Cable | Image Credit Intel](/Asserts/Images//attachment/album/201910/20/225041pdjkkkk97nd9la7u.jpg)
+![Intel NUC with Security Cable | Image Credit Intel](/Asserts/Images/album/201910/20/225041pdjkkkk97nd9la7u.jpg)
 
 
 NUC 还有防盗孔，可与防盗绳一起使用。在业务环境中，建议使用防盗绳保护计算机安全。购买[防盗绳几美元](https://www.amazon.com/Kensington-Combination-Laptops-Devices-K64673AM/dp/B005J7Y99W?psc=1&SubscriptionId=AKIAJ3N3QBK3ZHDGU54Q&tag=chmod7mediate-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005J7Y99W "few dollars in the security cable")便可节省数百美元。

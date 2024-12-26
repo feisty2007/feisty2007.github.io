@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,引导]
 ---
 
 
-![](/Asserts/Images//attachment/album/201806/12/180844cgvvx3gjo5vn5gvg.jpg)
+![](/Asserts/Images/album/201806/12/180844cgvvx3gjo5vn5gvg.jpg)
 
 
 ### 简介

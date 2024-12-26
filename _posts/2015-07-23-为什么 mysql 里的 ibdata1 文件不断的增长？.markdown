@@ -7,7 +7,7 @@ tags:	[linuxcn,MySQL,ibdata1]
 ---
 
 
-![ibdata1 file](/Asserts/Images//attachment/album/201507/16/004226wdcda9djbabjzdx4.jpg)
+![ibdata1 file](/Asserts/Images/album/201507/16/004226wdcda9djbabjzdx4.jpg)
 
 
 我们在 [Percona 支持栏目](https://www.percona.com/products/mysql-support)经常收到关于 MySQL 的 ibdata1 文件的这个问题。

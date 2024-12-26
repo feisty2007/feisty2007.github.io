@@ -7,7 +7,7 @@ tags:	[linuxcn,Samba]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/14/175556fx2zo3er3vxuumun.jpg)
+![](/Asserts/Images/album/201708/14/175556fx2zo3er3vxuumun.jpg)
 
 
 本指南将向你介绍如何使用 Authconfig 在命令行中将无图形界面的 CentOS 7 服务器集成到 [Samba4 AD 域控制器](/article-8065-1.html)中。
@@ -39,7 +39,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-[![List Network Interfaces](/Asserts/Images//attachment/album/201708/14/175810uz3uwc1iw2r21i92.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/List-Network-Interfaces.jpg)
+[![List Network Interfaces](/Asserts/Images/album/201708/14/175810uz3uwc1iw2r21i92.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/List-Network-Interfaces.jpg)
 
 
 *列出网络接口*
@@ -54,7 +54,7 @@ tags:	[linuxcn,Samba]
 当你仅对域 dns 记录使用短名称时, 已提交的搜索域保证域对应项会自动追加到 dns 解析 (FQDN) 中。
 
 
-[![Configure Network Interface](/Asserts/Images//attachment/album/201708/14/175810sgkfhckg6vkovjph.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Configure-Network-Interface.png)
+[![Configure Network Interface](/Asserts/Images/album/201708/14/175810sgkfhckg6vkovjph.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Configure-Network-Interface.png)
 
 
 *配置网络接口*
@@ -72,7 +72,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-[![Verify DNS Resolution on Domain](/Asserts/Images//attachment/album/201708/14/175810akrfkkok620r2jz3.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Verify-DNS-Resolution-on-Domain.png)
+[![Verify DNS Resolution on Domain](/Asserts/Images/album/201708/14/175810akrfkkok620r2jz3.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Verify-DNS-Resolution-on-Domain.png)
 
 
 *验证域上的 DNS 解析*
@@ -108,7 +108,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-[![Sync Time with Samba4 AD DC](/Asserts/Images//attachment/album/201708/14/175811b9963uhbsywwbw96.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Sync-Time-with-Samba4-AD-DC.png)
+[![Sync Time with Samba4 AD DC](/Asserts/Images/album/201708/14/175811b9963uhbsywwbw96.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Sync-Time-with-Samba4-AD-DC.png)
 
 
 *与 Samba4 AD DC 同步时间*
@@ -146,7 +146,7 @@ tags:	[linuxcn,Samba]
 	+ Local authorization is sufficient
 
 
-[![Authentication Configuration](/Asserts/Images//attachment/album/201708/14/175812n2nm84lmmh7jc8jc.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Authentication-Configuration.png)
+[![Authentication Configuration](/Asserts/Images/album/201708/14/175812n2nm84lmmh7jc8jc.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Authentication-Configuration.png)
 
 
 *验证配置*
@@ -162,7 +162,7 @@ tags:	[linuxcn,Samba]
 * Template Shell = /bin/bash
 
 
-[![Winbind Settings](/Asserts/Images//attachment/album/201708/14/175812vlssskbsyzqdssd7.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Winbind-Settings.png)
+[![Winbind Settings](/Asserts/Images/album/201708/14/175812vlssskbsyzqdssd7.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Winbind-Settings.png)
 
 
 *Winbind 设置*
@@ -177,13 +177,13 @@ tags:	[linuxcn,Samba]
 请注意，当你输入用户密码时，凭据将不会显示在屏幕中。在下面再次点击 OK，完成 CentOS 7 的域集成。
 
 
-[![Join Domain to Samba4 AD DC](/Asserts/Images//attachment/album/201708/14/175814ma11plvh00hapu6b.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Join-Domain-to-Samba4-AD-DC.png)
+[![Join Domain to Samba4 AD DC](/Asserts/Images/album/201708/14/175814ma11plvh00hapu6b.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Join-Domain-to-Samba4-AD-DC.png)
 
 
 *加入域到 Samba4 AD DC*
 
 
-[![Confirm Winbind Settings](/Asserts/Images//attachment/album/201708/14/175814r7558a8aamhmb7bt.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Confirm-Winbind-Settings.png)
+[![Confirm Winbind Settings](/Asserts/Images/album/201708/14/175814r7558a8aamhmb7bt.png)](https://www.tecmint.com/wp-content/uploads/2017/07/Confirm-Winbind-Settings.png)
 
 
 *确认 Winbind 设置*
@@ -229,7 +229,7 @@ winbind offline logon = true
 
 ```
 
-[![Configure Samba](/Asserts/Images//attachment/album/201708/14/175817no5sm6nrxssyy6y3.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/Configure-Samba.jpg)
+[![Configure Samba](/Asserts/Images/album/201708/14/175817no5sm6nrxssyy6y3.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/Configure-Samba.jpg)
 
 
 *配置 Samba*
@@ -254,7 +254,7 @@ winbind offline logon = true
 
 ```
 
-[![Verify Domain Joining](/Asserts/Images//attachment/album/201708/14/175818c228xkmaxmvl84h8.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/Verify-Domain-Joining.jpg)
+[![Verify Domain Joining](/Asserts/Images/album/201708/14/175818c228xkmaxmvl84h8.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/Verify-Domain-Joining.jpg)
 
 
 *验证域加入*
@@ -270,7 +270,7 @@ winbind offline logon = true
 
 ```
 
-[![List Domain Users and Groups](/Asserts/Images//attachment/album/201708/14/175818b5i4x789pk18ivbo.png)](https://www.tecmint.com/wp-content/uploads/2017/07/List-Domain-Users-and-Groups.png)
+[![List Domain Users and Groups](/Asserts/Images/album/201708/14/175818b5i4x789pk18ivbo.png)](https://www.tecmint.com/wp-content/uploads/2017/07/List-Domain-Users-and-Groups.png)
 
 
 *列出域用户和组*
@@ -285,7 +285,7 @@ winbind offline logon = true
 
 ```
 
-[![List Domain User Info](/Asserts/Images//attachment/album/201708/14/175818le5soht6mwsxze58.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/List-Domain-User-Info.jpg)
+[![List Domain User Info](/Asserts/Images/album/201708/14/175818le5soht6mwsxze58.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/List-Domain-User-Info.jpg)
 
 
 *列出域用户信息*
@@ -300,7 +300,7 @@ winbind offline logon = true
 
 ```
 
-[![List Domain Summary](/Asserts/Images//attachment/album/201708/14/175819iygqzt6m8ddbmdma.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/List-Domain-Summary.jpg)
+[![List Domain Summary](/Asserts/Images/album/201708/14/175819iygqzt6m8ddbmdma.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/List-Domain-Summary.jpg)
 
 
 *列出域摘要*
@@ -349,7 +349,7 @@ domain_username                  ALL=(ALL:ALL) ALL      #For domain users
 
 ```
 
-[![Grant Root Privileges on Domain Users](/Asserts/Images//attachment/album/201708/14/175821r616i6k3fs191ijc.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/Grant-Root-Privileges-on-Domain-Users.jpg)
+[![Grant Root Privileges on Domain Users](/Asserts/Images/album/201708/14/175821r616i6k3fs191ijc.jpg)](https://www.tecmint.com/wp-content/uploads/2017/07/Grant-Root-Privileges-on-Domain-Users.jpg)
 
 
 *授予域用户 root 权限*

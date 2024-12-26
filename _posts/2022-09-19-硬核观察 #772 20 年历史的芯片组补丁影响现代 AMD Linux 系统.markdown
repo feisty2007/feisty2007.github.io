@@ -7,10 +7,10 @@ tags:	[linuxcn,AMD,语音识别,勒索软件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/27/174242jnaw2dwht22rbwz3.jpg)
+![](/Asserts/Images/album/202209/27/174242jnaw2dwht22rbwz3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/27/174251kclilsc0rslt0zpz.jpg)
+![](/Asserts/Images/album/202209/27/174251kclilsc0rslt0zpz.jpg)
 
 
 ### 20 年历史的芯片组补丁影响现代 AMD Linux 系统
@@ -35,7 +35,7 @@ AMD 工程师发现内核中一个有 20 年历史的芯片组补丁仍然被应
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/27/174300bbb53bllnlrjcgxb.jpg)
+![](/Asserts/Images/album/202209/27/174300bbb53bllnlrjcgxb.jpg)
 
 
 ### OpenAI 开源多语言语音识别系统
@@ -60,7 +60,7 @@ OpenAI 开源了 Whisper，这是一个自动语音识别系统，该公司声�
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/27/174315qe4ogns4i6qio5is.jpg)
+![](/Asserts/Images/album/202209/27/174315qe4ogns4i6qio5is.jpg)
 
 
 ### 勒索软件开始摧毁数据而不是加密数据

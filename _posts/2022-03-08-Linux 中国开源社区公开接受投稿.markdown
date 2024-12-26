@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux中国]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/07/111231hcbyoebk9umzm13y.jpg)
+![](/Asserts/Images/album/202203/07/111231hcbyoebk9umzm13y.jpg)
 
 
 熟悉我们的朋友都知道，Linux 中国（<https://linux.cn/>）的内容以旗下 LCTT 翻译组贡献的内容为主，间或有一些朋友私下投递的稿件，嗯，也有一些我们为金主写的软文。不过，近来，常有朋友问，我们是否接受投稿。

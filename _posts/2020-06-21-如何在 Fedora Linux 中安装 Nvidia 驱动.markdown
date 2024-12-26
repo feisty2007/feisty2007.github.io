@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/10/094702c7of7scjyucmc5f1.jpg)
+![](/Asserts/Images/album/202006/10/094702c7of7scjyucmc5f1.jpg)
 
 
 与大多数 Linux 发行版一样，[Fedora](https://getfedora.org/ "https://getfedora.org/") 并未默认安装专有的 [Nvidia](https://www.nvidia.com/en-us/ "https://www.nvidia.com/en-us/") 驱动。
@@ -16,7 +16,7 @@ tags:	[linuxcn,]
 默认的开源 [Nouveau 驱动](https://en.wikipedia.org/wiki/Nouveau_(software) "https://en.wikipedia.org/wiki/Nouveau_(software)")在大多数情况下都可以使用，但是你可能会遇到屏幕撕裂等问题。
 
 
-![](/Asserts/Images//attachment/album/202006/10/095406ysara5absarl6sz0.jpg)
+![](/Asserts/Images/album/202006/10/095406ysara5absarl6sz0.jpg)
 
 
 如果遇到此类图形/视频问题，那么可能需要在 Fedora 中安装官方专有的 Nvidia 驱动。让我告诉你如何安装。
@@ -58,13 +58,13 @@ tags:	[linuxcn,]
 > 如果你使用 Firefox，那么还可以从浏览器添加 RPMFusion 仓库。进入这个[配置页面](https://rpmfusion.org/Configuration "https://rpmfusion.org/Configuration")，然后向下滚动到 “Graphical Setup via Firefox web browser”。单击自由和非自由仓库的链接。这将下载 .rpm 文件，并安装仓库。
 > 
 > 
-> ![](/Asserts/Images//attachment/album/202006/10/095458vcw1cwuddebw51wx.png)
+> ![](/Asserts/Images/album/202006/10/095458vcw1cwuddebw51wx.png)
 > 
 > 
 > 你可以双击下载的 RPM 文件进行安装。
 > 
 > 
-> ![](/Asserts/Images//attachment/album/202006/10/095516m41btg2p5ma5yzcc.png)
+> ![](/Asserts/Images/album/202006/10/095516m41btg2p5ma5yzcc.png)
 > 
 > 
 > 
@@ -81,7 +81,7 @@ tags:	[linuxcn,]
 `lspci -vnn | grep VGA`
 ```
 
-![](/Asserts/Images//attachment/album/202006/10/095544pdtenrtnj79nnej6.png)
+![](/Asserts/Images/album/202006/10/095544pdtenrtnj79nnej6.png)
 
 
 接下来，你需要查找与该芯片对应的驱动。你可以在[此处](https://us.download.nvidia.com/XFree86/Linux-x86/367.57/README/supportedchips.html "https://us.download.nvidia.com/XFree86/Linux-x86/367.57/README/supportedchips.html")找到 Nvidia 芯片的列表。你也可以使用[此工具](https://www.nvidia.com/Download/index.aspx?lang=en-us "https://www.nvidia.com/Download/index.aspx?lang=en-us")搜索设备。
@@ -101,7 +101,7 @@ tags:	[linuxcn,]
 `sudo dnf install akmod-nvidia sudo dnf install xorg-x11-drv-nvidia-390xx akmod-nvidia-390xx sudo dnf install xorg-x11-drv-nvidia-340xx akmod-nvidia-340xx`
 ```
 
-![](/Asserts/Images//attachment/album/202006/10/095605r5upgp7dposncdsv.png)
+![](/Asserts/Images/album/202006/10/095605r5upgp7dposncdsv.png)
 
 
 #### 步骤 5
@@ -113,7 +113,7 @@ tags:	[linuxcn,]
 重启并登录系统后，你会看到更好的视觉效果，并且不会出现屏幕撕裂的情况。
 
 
-![](/Asserts/Images//attachment/album/202006/10/095624m2rzrzm6c3ryb6x5.jpg)
+![](/Asserts/Images/album/202006/10/095624m2rzrzm6c3ryb6x5.jpg)
 
 
 ### 额外的提示

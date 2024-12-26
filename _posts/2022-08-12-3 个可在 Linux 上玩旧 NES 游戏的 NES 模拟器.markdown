@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏模拟器,NES]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/28/162533h41z1kynkyn5n53q.jpg)
+![](/Asserts/Images/album/202208/28/162533h41z1kynkyn5n53q.jpg)
 
 
 
@@ -48,10 +48,10 @@ sudo dnf install zsnes
 安装后，从 Dash 中搜索 ZSNES 或在终端中输入 zsnes。
 
 
-![ZSNES Main](/Asserts/Images//attachment/album/202208/28/162536updpfdad07fzd7e2.png)
+![ZSNES Main](/Asserts/Images/album/202208/28/162536updpfdad07fzd7e2.png)
 
 
-![Play old NES games using ZSNES in Ubuntu](/Asserts/Images//attachment/album/202208/28/162537bdqoguyi7qgdisid.png)
+![Play old NES games using ZSNES in Ubuntu](/Asserts/Images/album/202208/28/162537bdqoguyi7qgdisid.png)
 
 
 ### 2、Higan
@@ -72,7 +72,7 @@ sudo apt install higan
 
 ```
 
-![Higan Running in Ubuntu](/Asserts/Images//attachment/album/202208/28/162537jr4mqe9142ll2rg1.png)
+![Higan Running in Ubuntu](/Asserts/Images/album/202208/28/162537jr4mqe9142ll2rg1.png)
 
 
 ### 3、GFCEU
@@ -99,7 +99,7 @@ sudo dnf install gfceu
 
 ```
 
-![gfceu running in Ubuntu](/Asserts/Images//attachment/album/202208/28/162538kwgwoteqim8qjitq.png)
+![gfceu running in Ubuntu](/Asserts/Images/album/202208/28/162538kwgwoteqim8qjitq.png)
 
 
 ### 下载游戏 ROM

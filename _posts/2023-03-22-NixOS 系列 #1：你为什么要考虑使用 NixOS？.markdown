@@ -7,7 +7,7 @@ tags:	[linuxcn,NixOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/08/150044jhtdyahoax5ghbxn.jpg)
+![](/Asserts/Images/album/202303/08/150044jhtdyahoax5ghbxn.jpg)
 
 
 NixOS……又一个使用不同软件包管理器的发行版？?
@@ -45,7 +45,7 @@ NixOS 是一个有趣的从零开始构建的 [独立 Linux 发行版](https://i
 每个人都可以通过使用 NixOS 学到很多东西，但**在我看来**，如果你是一个开发人员或计算机科学的学生，NixOS 应该非常合适。
 
 
-![nix os screenshot with gnome](/Asserts/Images//attachment/album/202303/08/150107bzwx5gvwzkvobn7x.png)
+![nix os screenshot with gnome](/Asserts/Images/album/202303/08/150107bzwx5gvwzkvobn7x.png)
 
 
 让我告诉你为什么。
@@ -72,7 +72,7 @@ NixOS 是一个有趣的从零开始构建的 [独立 Linux 发行版](https://i
 你看，每当你升级你的系统或安装一个软件包时，**系统的状态就会被重建**，被称为超过当前的“<ruby> 新世代 <rt>  new generation </rt></ruby>”。
 
 
-![nix os listing generations via terminal](/Asserts/Images//attachment/album/202303/08/150108rjp3iwscjj100339.png)
+![nix os listing generations via terminal](/Asserts/Images/album/202303/08/150108rjp3iwscjj100339.png)
 
 
 因此，如果你在使用新的软件包或更新时遇到任何麻烦，你可以随时回滚到“<ruby> 旧世代 <rt>  old generation </rt></ruby>”，在那里你会找到**系统以前的状态**。

@@ -7,7 +7,7 @@ tags:	[linuxcn,开源指南]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/18/063329xsocsos9w6f1ss1p.jpg)
+![](/Asserts/Images/album/201711/18/063329xsocsos9w6f1ss1p.jpg)
 
 
 Linux 基金会在其企业开源指南文集中为开发和使用开源软件增加了三篇新的指南。
@@ -30,7 +30,7 @@ Linux 基金会在其企业开源指南文集中为开发和使用开源软件�
 * **开源阅读列表**。一个开源程序管理者必读书清单，由 TODO Group 成员编制完成的。
 
 
-![Some Offerings in the 'Open Source Guides Reading List' Enterprise Guide](/Asserts/Images//attachment/album/201711/18/063330cigcl5v7liw0ipt7.jpg)
+![Some Offerings in the 'Open Source Guides Reading List' Enterprise Guide](/Asserts/Images/album/201711/18/063330cigcl5v7liw0ipt7.jpg)
 
 
 *企业开源指南的 ‘阅读列表’ 中的一部分产品 （来源：Linux 基金会）*

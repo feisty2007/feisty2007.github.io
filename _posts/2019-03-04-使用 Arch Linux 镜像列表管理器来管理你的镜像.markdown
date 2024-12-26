@@ -7,7 +7,7 @@ tags:	[linuxcn,Arch]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/30/114558fuu00t3ssu3fmm8j.jpg)
+![](/Asserts/Images/album/201903/30/114558fuu00t3ssu3fmm8j.jpg)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,Arch]
 对于 Linux 用户来说，保持镜像列表规整非常重要。今天我们来介绍一个用来管理 Arch 镜像列表的应用程序。
 
 
-![Arch Linux Mirrorlist Manager](/Asserts/Images//attachment/album/201903/30/114608mv07om9ym088g8m0.png)
+![Arch Linux Mirrorlist Manager](/Asserts/Images/album/201903/30/114608mv07om9ym088g8m0.png)
 
 
 *Arch Linux Mirrorlist Manager*
@@ -39,7 +39,7 @@ tags:	[linuxcn,Arch]
 ### ArchLinux 镜像列表管理器让在 Arch Linux 中管理镜像更简单
 
 
-![Arch Linux Mirrorlist Manager](/Asserts/Images//attachment/album/201903/30/114610jilmui82oi0898wp.jpg)
+![Arch Linux Mirrorlist Manager](/Asserts/Images/album/201903/30/114610jilmui82oi0898wp.jpg)
 
 
 *主界面*

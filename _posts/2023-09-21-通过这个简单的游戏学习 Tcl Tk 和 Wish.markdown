@@ -7,7 +7,7 @@ tags:	[linuxcn,Tcl,Tcl/Tk,猜数字]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/07/231710i7u72ttuzlt4thhr.jpg)
+![](/Asserts/Images/album/202309/07/231710i7u72ttuzlt4thhr.jpg)
 
 
 
@@ -249,7 +249,7 @@ $ ./numgame.wish
 在这种情况下，我无法给出控制台的输出，因此这里有一个动画 GIF 来展示如何玩这个游戏：
 
 
-![用 Wish 编写的猜数游戏](/Asserts/Images//attachment/album/202309/07/231746wrkksrz89c5kxxbg.gif)
+![用 Wish 编写的猜数游戏](/Asserts/Images/album/202309/07/231746wrkksrz89c5kxxbg.gif)
 
 
 ### 进一步了解 Tcl

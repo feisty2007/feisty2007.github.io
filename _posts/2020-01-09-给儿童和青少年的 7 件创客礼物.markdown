@@ -15,7 +15,7 @@ tags:	[linuxcn,礼物,创客]
 > 
 
 
-![](/Asserts/Images//attachment/album/202001/08/140516t4ewey9ryu24tpz5.jpg)
+![](/Asserts/Images/album/202001/08/140516t4ewey9ryu24tpz5.jpg)
 
 
 还在纠结这个假期给年轻人买什么礼物？这是我精选的开源礼物，这些礼物将激发未来的创意和灵感。
@@ -24,7 +24,7 @@ tags:	[linuxcn,礼物,创客]
 ### 蜂鸟机器人套件
 
 
-![Hummingbird Robotics Kit](/Asserts/Images//attachment/album/202001/08/140700n89lttz019kssds1.png "Hummingbird Robotics Kit")
+![Hummingbird Robotics Kit](/Asserts/Images/album/202001/08/140700n89lttz019kssds1.png "Hummingbird Robotics Kit")
 
 
 **年龄：**8 岁 - 成人
@@ -48,7 +48,7 @@ tags:	[linuxcn,礼物,创客]
 ### Makey Makey 经典版
 
 
-![Makey Makey Classic](/Asserts/Images//attachment/album/202001/08/140710lknwcis2k232ri82.jpg "Makey Makey Classic")
+![Makey Makey Classic](/Asserts/Images/album/202001/08/140710lknwcis2k232ri82.jpg "Makey Makey Classic")
 
 
 **年龄：** 6岁 - 成人
@@ -69,7 +69,7 @@ tags:	[linuxcn,礼物,创客]
 ### Arduino Uno
 
 
-![Arduino Uno](/Asserts/Images//attachment/album/202001/08/140717hc79mzgpsj3cr0cg.jpg "Arduino Uno")
+![Arduino Uno](/Asserts/Images/album/202001/08/140717hc79mzgpsj3cr0cg.jpg "Arduino Uno")
 
 
 **年龄：** 10 岁 - 成人
@@ -87,7 +87,7 @@ tags:	[linuxcn,礼物,创客]
 ### DIY 创客套件
 
 
-![A maker kit assembled in a quick trip to the hardware store](/Asserts/Images//attachment/album/202001/08/140728xqy5qao5aifftmf5.jpg "A maker kit assembled in a quick trip to the hardware store")
+![A maker kit assembled in a quick trip to the hardware store](/Asserts/Images/album/202001/08/140728xqy5qao5aifftmf5.jpg "A maker kit assembled in a quick trip to the hardware store")
 
 
 **年龄**：8 岁 - 成人
@@ -130,7 +130,7 @@ tags:	[linuxcn,礼物,创客]
 ### 启发式游戏篮
 
 
-![Heuristic play kit](/Asserts/Images//attachment/album/202001/08/140735p5bf9zdvvrd9f859.jpg "Heuristic play kit")
+![Heuristic play kit](/Asserts/Images/album/202001/08/140735p5bf9zdvvrd9f859.jpg "Heuristic play kit")
 
 
 **年龄：** 8 个月至 5 岁
@@ -169,7 +169,7 @@ tags:	[linuxcn,礼物,创客]
 ### 《Hello Ruby》
 
 
-![Hello Ruby book cover](/Asserts/Images//attachment/album/202001/08/140745pxlty5fetnl5ze8q.jpg "Hello Ruby book cover")
+![Hello Ruby book cover](/Asserts/Images/album/202001/08/140745pxlty5fetnl5ze8q.jpg "Hello Ruby book cover")
 
 
 **年龄**：5-8 岁
@@ -187,7 +187,7 @@ tags:	[linuxcn,礼物,创客]
 ### 《编程少女：学会编程和改变世界》
 
 
-![Girls Who Code book cover](/Asserts/Images//attachment/album/202001/08/140750nn1wiaf1i1i6xaf7.jpg "Girls Who Code book cover")
+![Girls Who Code book cover](/Asserts/Images/album/202001/08/140750nn1wiaf1i1i6xaf7.jpg "Girls Who Code book cover")
 
 
 **年龄**：10 岁 - 成人

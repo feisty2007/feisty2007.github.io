@@ -15,7 +15,7 @@ tags:	[linuxcn,Drupal,WordPress,Gutenberg]
 > 
 
 
-![Text editor on a browser, in blue](/Asserts/Images//attachment/album/202006/02/100554rhynw8nytqz29uw8.png "Text editor on a browser, in blue")
+![Text editor on a browser, in blue](/Asserts/Images/album/202006/02/100554rhynw8nytqz29uw8.png "Text editor on a browser, in blue")
 
 
 自 2017 年以来，WordPress 的 [Gutenberg](https://wordpress.org/plugins/gutenberg/) 插件中的所见即所得编辑器就真的很不错。但是，Drupal 社区尚未就内容管理系统（CMS）编辑体验的最佳方法达成共识。但在社区的大量努力下，出现了一个强有力的新选择，将 [Gutenberg 与 Drupal 集成在一起](https://drupalgutenberg.org/)。
@@ -46,13 +46,13 @@ Gutenberg 已集成到 Drupal 的默认内容实体创建工作流中。你可�
 要在 Drupal 中的内容类型启用 Gutenberg 项目，你必须进入设置：“结构 -> 内容类型”，并且，从要你想使用 Gutenberg 的内容类型旁边的下拉框中单击“编辑”。
 
 
-![Drupal settings](/Asserts/Images//attachment/album/202006/02/100555c3bzoy1orcsdclkc.png "Drupal settings")
+![Drupal settings](/Asserts/Images/album/202006/02/100555c3bzoy1orcsdclkc.png "Drupal settings")
 
 
 在出现的窗口中，向下滚动并选择左侧的“Gutenberg 体验”选项卡，你可以在其中找到下面描述的设置。选择“启用 Gutenberg 体验”。
 
 
-![Drupal Gutenberg settings](/Asserts/Images//attachment/album/202006/02/100557nvv9xwvksxmax92v.png "Drupal Gutenberg settings")
+![Drupal Gutenberg settings](/Asserts/Images/album/202006/02/100557nvv9xwvksxmax92v.png "Drupal Gutenberg settings")
 
 
 #### 模板
@@ -79,7 +79,7 @@ Gutenberg 与 Drupal 的深度集成允许用户在编辑时选择哪些 Drupal 
 在全新安装的 Drupal 中，没有太多的选择，但站点通常有许多提供各种功能的块。在下面的截图中，选择了“搜索表单”的 Drupal 块。
 
 
-![Drupal Gutenberg blocks](/Asserts/Images//attachment/album/202006/02/100600cd00sa1mer1simdi.png "Drupal Gutenberg blocks")
+![Drupal Gutenberg blocks](/Asserts/Images/album/202006/02/100600cd00sa1mer1simdi.png "Drupal Gutenberg blocks")
 
 
 完成配置后，点击“保存内容类型”。
@@ -91,7 +91,7 @@ Gutenberg 与 Drupal 的深度集成允许用户在编辑时选择哪些 Drupal 
 启用 Gutenberg 内容类型后，它将接管大部分编辑体验。
 
 
-![Drupal Gutenberg content screen](/Asserts/Images//attachment/album/202006/02/100602mxi9iixtaaraxa4w.png "Drupal Gutenberg content screen")
+![Drupal Gutenberg content screen](/Asserts/Images/album/202006/02/100602mxi9iixtaaraxa4w.png "Drupal Gutenberg content screen")
 
 
 在主窗口中，你可以看到我在上面的模板配置中添加的虚拟占位符内容。
@@ -115,13 +115,13 @@ Gutenberg 与 Drupal 的深度集成允许用户在编辑时选择哪些 Drupal 
 在下面的截图中，你可以看到当我添加一些文本替换占位符文本、来自 Drupal 的搜索块、标题、标记和自定义 URL 别名后发生的情况。
 
 
-![Drupal Gutenberg entering text](/Asserts/Images//attachment/album/202006/02/100606laq91s983am1bt33.png "Drupal Gutenberg entering text")
+![Drupal Gutenberg entering text](/Asserts/Images/album/202006/02/100606laq91s983am1bt33.png "Drupal Gutenberg entering text")
 
 
 点击“保存”后，你的内容将发布。
 
 
-![Drupal Gutenberg output](/Asserts/Images//attachment/album/202006/02/100609sa3mzdk6k3773z47.png "Drupal Gutenberg output")
+![Drupal Gutenberg output](/Asserts/Images/album/202006/02/100609sa3mzdk6k3773z47.png "Drupal Gutenberg output")
 
 
 就是这样，它工作良好。

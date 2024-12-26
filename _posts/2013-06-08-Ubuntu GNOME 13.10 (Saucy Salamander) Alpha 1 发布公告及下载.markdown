@@ -31,7 +31,7 @@ tags:	[linuxcn,Ubuntu,GNOME,Saucy Salamander]
 * <https://wiki.ubuntu.com/SaucySalamander/Alpha1/UbuntuGNOME>
 
 
-![](/Asserts/Images//attachment/album/201306/28/092220bqqqz5xl8w55d8rz.png)
+![](/Asserts/Images/album/201306/28/092220bqqqz5xl8w55d8rz.png)
 
 
 ![](https://img.linux.net.cn/xwb/images/bgimg/icon_logo.png) 已同步至 [linux的微博](http://weibo.com/1772191555)

@@ -7,7 +7,7 @@ tags:	[linuxcn,nmap,lsof,netstat,扫描,端口]
 ---
 
 
-![](/Asserts/Images//attachment/album/201612/31/211726xappkqn7m7kn7lbj.jpg)
+![](/Asserts/Images/album/201612/31/211726xappkqn7m7kn7lbj.jpg)
 
 
 在 Linux 或者类 Unix 中，我该如何检查某个端口是否被占用？我又该如何验证 Linux 服务器中有哪些端口处于监听状态？
@@ -50,7 +50,7 @@ $ doas lsof -i -P -n | grep LISTEN  ### OpenBSD
 输出如下：
 
 
-![](/Asserts/Images//attachment/album/201612/31/211030n26w008vvw5ewfmy.png)
+![](/Asserts/Images/album/201612/31/211030n26w008vvw5ewfmy.png)
 
 
 *图 1：使用 lsof 命令检查监听端口和程序*
@@ -123,7 +123,7 @@ $ sudo nmap -sT -O 192.168.2.13 ### 列出打开的 TCP 端口
 示例输出如下：
 
 
-![](/Asserts/Images//attachment/album/201612/31/211108za9x94bv5dbyn4va.png)
+![](/Asserts/Images/album/201612/31/211108za9x94bv5dbyn4va.png)
 
 
 *图 2：使用 nmap 探测哪些端口监听 TCP 连接*

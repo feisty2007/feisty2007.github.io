@@ -15,7 +15,7 @@ tags:	[linuxcn,JavaScript,闭包]
 > 
 
 
-![](/Asserts/Images//attachment/album/202102/21/162941ogyb74z3ahfbfe35.jpg "Woman programming")
+![](/Asserts/Images/album/202102/21/162941ogyb74z3ahfbfe35.jpg "Woman programming")
 
 
 在《[JavaScript 如此受欢迎的 4 个原因](/article-12830-1.html)》中，我提到了一些高级 JavaScript 概念。在本文中，我将深入探讨其中的一个概念：<ruby> 闭包 <rt>  closure </rt></ruby>。
@@ -49,7 +49,7 @@ sayHelloWorld();
 下面是这段代码的执行上下文：
 
 
-![JS 代码的执行上下文](/Asserts/Images//attachment/album/202102/21/163151d6tma7k3pp2lgz43.png "Execution context for JS code")
+![JS 代码的执行上下文](/Asserts/Images/album/202102/21/163151d6tma7k3pp2lgz43.png "Execution context for JS code")
 
 
 每次创建函数时（在函数创建阶段）都会创建闭包。每个闭包有三个作用域。

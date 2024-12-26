@@ -13,7 +13,7 @@ tags:	[linuxcn,Ubuntu,清理]
 假如你想清理你的 Ubuntu 主机，你可以按照以下的一些简单步骤来移除所有不需要的垃圾文件。
 
 
-![](/Asserts/Images//attachment/album/201503/17/002036iso7tgtw45ojotet.jpg)
+![](/Asserts/Images/album/201503/17/002036iso7tgtw45ojotet.jpg)
 
 
 （题图来自：amysplaceforyouth.org）
@@ -141,7 +141,7 @@ sudo apt-get install gtkorphan
 一张截图
 
 
-![](/Asserts/Images//attachment/album/201503/17/002140q3lvvp0uruh3cazp.png)
+![](/Asserts/Images/album/201503/17/002140q3lvvp0uruh3cazp.png)
 
 
 #### 使用 Wajig 移除孤包
@@ -252,7 +252,7 @@ sudo xdiskusage
 一旦这个应用被打开，你将看到如下图所示的界面：
 
 
-![](/Asserts/Images//attachment/album/201503/17/002142zw277opi7l7k17vv.png)
+![](/Asserts/Images/album/201503/17/002142zw277opi7l7k17vv.png)
 
 
 ### Bleachbit
@@ -273,7 +273,7 @@ sudo apt-get install bleachbit
 一张截图
 
 
-![](/Asserts/Images//attachment/album/201503/17/002144wwduuff5uapmqprd.png)
+![](/Asserts/Images/album/201503/17/002144wwduuff5uapmqprd.png)
 
 
 ### 使用 Ubuntu-Tweak

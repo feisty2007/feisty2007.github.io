@@ -7,7 +7,7 @@ tags:	[linuxcn,轻量级,WattOS]
 ---
 
 
-![WattOS](/Asserts/Images//attachment/album/201612/04/063506h2b0690tukjuspt2.png)
+![WattOS](/Asserts/Images/album/201612/04/063506h2b0690tukjuspt2.png)
 
 
 *Jack Wallen 将介绍一下是什么让 WattOS 这么特别。* 
@@ -58,7 +58,7 @@ LibreOffice 运行的怎么样呢？速度快到要疯了。值得再提的是�
 我个人偏爱于桌面向更加现代化的趋势进行迭代。我是 Ubuntu 的 Unity 桌面，GNOME 3 桌面，以及（特别是） [Elementary OS](https://elementary.io/) 的粉丝。所以使用古老风格桌面的主意意味着对我几乎没有吸引力。即便如此，WattOS 在把现代设计风格融入老式设计时做的非常好。举例来说，默认的桌面主题（图 1）。WattOS 的 UI 设计者巧妙设计了桌面主题，所以它没有完全偏离 Windows XP 或者老式 Linux CDE 风格的窗口管理器的设计理念。
 
 
-![WattOS](/Asserts/Images//attachment/album/201612/04/063508dsn5e6hf56hr5sl6.png)
+![WattOS](/Asserts/Images/album/201612/04/063508dsn5e6hf56hr5sl6.png)
 
 
 *图 1：WattOS 的文件管理器展示了有些现代化的主题 [使用许可](https://www.linux.com/licenses/category/used-permission)*

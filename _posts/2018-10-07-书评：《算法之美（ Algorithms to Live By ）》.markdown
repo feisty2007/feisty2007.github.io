@@ -7,7 +7,7 @@ tags:	[linuxcn,算法]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/01/112752vuko5cufxojjmo4x.png)
+![](/Asserts/Images/album/201810/01/112752vuko5cufxojjmo4x.png)
 
 
 又一次为了工作图书俱乐部而读书。除了其它我亲自推荐的书，这是我至今最喜爱的书。

@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏,赛车,StuntRally]
 ---
 
 
-![StuntRally](/Asserts/Images//attachment/album/201408/30/123017di0anlrroe5fafel.jpg)
+![StuntRally](/Asserts/Images/album/201408/30/123017di0anlrroe5fafel.jpg)
 
 
 **StuntRally，免费的赛车游戏，拥有超过150个赛道和大量的车型，刚刚发布2.4版本，并带来了大量的更新和新功能。**

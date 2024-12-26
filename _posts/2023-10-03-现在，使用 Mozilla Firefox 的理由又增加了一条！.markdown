@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/03/001913b1hfcfsl34ylcc6h.jpg)
+![](/Asserts/Images/album/202310/03/001913b1hfcfsl34ylcc6h.jpg)
 
 
 
@@ -36,7 +36,7 @@ Mozilla Firefox 是一款极棒的开源多平台浏览器，一直以来都以�
 的确是的，就以市场份额来说，谷歌 Chrome 占据了 **63.56%**，而 Firefox 用户仅占据了 **2.94%** —— 这是来自 [StatCounter](https://gs.statcounter.com/browser-market-share) 的统计数据。
 
 
-![](/Asserts/Images//attachment/album/202310/03/001920uofzb8ewwmy7qsaa.png)
+![](/Asserts/Images/album/202310/03/001920uofzb8ewwmy7qsaa.png)
 
 
 为什么会这样？
@@ -81,7 +81,7 @@ Mozilla Firefox 就是一款能提供这一体验的强大且安全的浏览器�
 在最近的 [博客文章](https://blog.mozilla.org/en/products/firefox/google-meet-firefox/) 中，他们宣布，**谷歌 Meet 以及其他谷歌服务如 Workspace、Voice、YouTube、Keep、地图、翻译以及相册** 在 Firefox 上运行得比以往任何时候都要好。
 
 
-![](/Asserts/Images//attachment/album/202310/03/001921tmm6gvh8h71vvv7v.png)
+![](/Asserts/Images/album/202310/03/001921tmm6gvh8h71vvv7v.png)
 
 
 他们为此与谷歌的 Workspace 团队一直保持着紧密的合作，他们这样写道：
@@ -98,7 +98,7 @@ Mozilla Firefox 就是一款能提供这一体验的强大且安全的浏览器�
 他们还分享了谷歌 Meet 在 Firefox 上改善后的一些使用体验截图。现在，只需使用 Firefox 115 和更高版本，你就可以在加入视频通话前后应用视效（或背景）。
 
 
-![](/Asserts/Images//attachment/album/202310/03/001921mir899tigg8r0m9t.jpg)
+![](/Asserts/Images/album/202310/03/001921mir899tigg8r0m9t.jpg)
 
 
 许多网络用户都一直在使用谷歌的服务，如果他们在 Firefox 上的用户体验也很棒，那么 Firefox 就可能成为一个适合他们替代 Chrome 的选择。

@@ -7,10 +7,10 @@ tags:	[linuxcn,谷歌,LXD,AirTag]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/28/084516vl1917ps3msqqe0l.jpg)
+![](/Asserts/Images/album/202307/28/084516vl1917ps3msqqe0l.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/28/084528jwy7zn3igynpgena.jpg)
+![](/Asserts/Images/album/202307/28/084528jwy7zn3igynpgena.jpg)
 
 
 ### Vivaldi 反对谷歌的 WEI 规范提议
@@ -35,7 +35,7 @@ tags:	[linuxcn,谷歌,LXD,AirTag]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/28/084539shp3osoz6w64j43m.jpg)
+![](/Asserts/Images/album/202307/28/084539shp3osoz6w64j43m.jpg)
 
 
 ### LXD 的维护只限于 Canonical 员工
@@ -60,7 +60,7 @@ tags:	[linuxcn,谷歌,LXD,AirTag]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/28/084550rhpysp6ncq1fpz2z.jpg)
+![](/Asserts/Images/album/202307/28/084550rhpysp6ncq1fpz2z.jpg)
 
 
 ### 安卓手机现在可以发现你身边的 AirTag 跟踪器

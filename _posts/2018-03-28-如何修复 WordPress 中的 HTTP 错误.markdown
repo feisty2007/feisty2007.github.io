@@ -7,7 +7,7 @@ tags:	[linuxcn,WordPress]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/04/231839m452773kvkq2qcg5.jpg)
+![](/Asserts/Images/album/201803/04/231839m452773kvkq2qcg5.jpg)
 
 
 我们会向你介绍，如何在 Linux VPS 上修复 WordPress 中的 HTTP 错误。 下面列出了 WordPress 用户遇到的最常见的 HTTP 错误，我们的建议侧重于如何发现错误原因以及解决方法。

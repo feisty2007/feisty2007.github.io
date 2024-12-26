@@ -33,7 +33,7 @@ tags:	[linuxcn,Fedora,Btrfs]
 那么，为什么 Fedora 提出这一更改？这会有什么用么？这是糟糕的举动吗？对 Fedora 的发行有何影响？让我们在这里谈论下。
 
 
-![](/Asserts/Images//attachment/album/202007/26/190301imqooeqoq1y3j831.png)
+![](/Asserts/Images/album/202007/26/190301imqooeqoq1y3j831.png)
 
 
 ### 它会影响哪些 Fedora 版本？

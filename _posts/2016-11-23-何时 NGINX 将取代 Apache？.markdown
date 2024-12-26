@@ -7,7 +7,7 @@ tags:	[linuxcn,Nginx,Apache]
 ---
 
 
-![](/Asserts/Images//attachment/album/201611/23/215347p65d2ldjeb64d036.jpg)
+![](/Asserts/Images/album/201611/23/215347p65d2ldjeb64d036.jpg)
 
 
 
@@ -18,7 +18,7 @@ tags:	[linuxcn,Nginx,Apache]
 > 
 
 
-![活跃网站的 web 服务器市场份额](/Asserts/Images//attachment/album/201611/23/215359soovdv6e3mm5omll.png)
+![活跃网站的 web 服务器市场份额](/Asserts/Images/album/201611/23/215359soovdv6e3mm5omll.png)
 
 
 *Apache 是最受欢迎的 web 服务器，不过 NGINX 正逐渐增长，而微软的 IIS 几十年来首次跌破 10%。*

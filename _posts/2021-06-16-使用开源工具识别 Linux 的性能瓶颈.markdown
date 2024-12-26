@@ -15,7 +15,7 @@ tags:	[linuxcn,性能]
 > 
 
 
-![](/Asserts/Images//attachment/album/202106/07/000141z5shv5nzxeln5y5c.jpg "Lightning in a bottle")
+![](/Asserts/Images/album/202106/07/000141z5shv5nzxeln5y5c.jpg "Lightning in a bottle")
 
 
 计算机是一个集成的系统，它的性能取决于最慢的硬件组件。如果一个组件的能力比其他组件差，性能落后而不能跟上，它就会拖累你的整个系统。这就是一个 *性能瓶颈*。消除一个严重的瓶颈可以使你的系统飞起来。
@@ -56,7 +56,7 @@ tags:	[linuxcn,性能]
 启动它并点击“资源”标签。你可以马上发现许多性能问题。
 
 
-![系统监控-资源面板](/Asserts/Images//attachment/album/202106/07/000221jxmk3g3s3smm4cm3.jpg "System Monitor - Resources Panel ")
+![系统监控-资源面板](/Asserts/Images/album/202106/07/000221jxmk3g3s3smm4cm3.jpg "System Monitor - Resources Panel ")
 
 
 *图 1. 系统监控器发现问题。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -80,7 +80,7 @@ tags:	[linuxcn,性能]
 启动 HardInfo。它的“计算机->摘要”面板可以识别你的 CPU 并告诉你它的核心数、线程数和速度。它还能识别你的主板和其他计算机部件。
 
 
-![HardInfo Summary Panel](/Asserts/Images//attachment/album/202106/07/000221nn8i6fizy6b12ygf.jpg "HardInfo Summary Panel")
+![HardInfo Summary Panel](/Asserts/Images/album/202106/07/000221nn8i6fizy6b12ygf.jpg "HardInfo Summary Panel")
 
 
 *图 2. HardInfo 显示了硬件细节。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -95,7 +95,7 @@ HardInfo 显示，这台计算机有一个物理 CPU 芯片。该芯片包含两
 当系统监控器显示逻辑处理器的利用率持续在 80% 或 90% 以上时，你就可以确定这一点。这里有一个例子，四个逻辑处理器中有三个被淹没在 100% 的利用率中。这是一个瓶颈，因为它没有留下多少 CPU 用于其他工作。
 
 
-![系统监视器的处理器瓶颈](/Asserts/Images//attachment/album/202106/07/000221f404ggmlxogiirg4.jpg "System Monitor processor bottleneck")
+![系统监视器的处理器瓶颈](/Asserts/Images/album/202106/07/000221f404ggmlxogiirg4.jpg "System Monitor processor bottleneck")
 
 
 *图 3. 一个处理器的瓶颈。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -107,7 +107,7 @@ HardInfo 显示，这台计算机有一个物理 CPU 芯片。该芯片包含两
 你需要找出是哪个程序在消耗所有的 CPU。点击系统监视器的“进程”标签。然后点击“CPU 百分比”标头，根据它们消耗的 CPU 的多少对进程进行排序。你将看到哪些应用程序正在扼杀你的系统。
 
 
-![系统监控进程面板](/Asserts/Images//attachment/album/202106/07/000222kf6kqzhfrn99b6d4.jpg "System Monitor Processes panel")
+![系统监控进程面板](/Asserts/Images/album/202106/07/000222kf6kqzhfrn99b6d4.jpg "System Monitor Processes panel")
 
 
 *图 4. 识别违规的进程。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -122,7 +122,7 @@ HardInfo 显示，这台计算机有一个物理 CPU 芯片。该芯片包含两
 如果你的登录会话有管理员权限，你可以管理这个进程。你可以改变它的优先级，并停止、继续、结束或杀死它。因此，你可以在这里立即解决你的瓶颈问题。
 
 
-![系统监视器管理一个进程](/Asserts/Images//attachment/album/202106/07/000222qx0ie1m4xqnmxqqt.jpg "System Monitor managing a process")
+![系统监视器管理一个进程](/Asserts/Images/album/202106/07/000222qx0ie1m4xqnmxqqt.jpg "System Monitor managing a process")
 
 
 *图 5. 右键点击一个进程来管理它。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -161,7 +161,7 @@ Linux [使用内存](https://www.networkworld.com/article/3394603/when-to-be-con
 下面是系统监控器“资源”面板中跟踪总内存使用的部分。
 
 
-![系统监控器的内存瓶颈](/Asserts/Images//attachment/album/202106/07/000222srfbgie767ubzepe.jpg "System Monitor memory bottleneck")
+![系统监控器的内存瓶颈](/Asserts/Images/album/202106/07/000222srfbgie767ubzepe.jpg "System Monitor memory bottleneck")
 
 
 *图 6. 一个内存瓶颈。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -207,7 +207,7 @@ Linux [使用内存](https://www.networkworld.com/article/3394603/when-to-be-con
 只要在命令行提示符下输入 `atop` 即可。下面的输出显示，设备 `sdb` 达到 `busy 101%`。很明显，它已经达到了性能极限，限制了你的系统完成工作的速度。
 
 
-![atop 磁盘瓶颈](/Asserts/Images//attachment/album/202106/07/000222u09eikev3pj90k3f.jpg "atop disk bottleneck")
+![atop 磁盘瓶颈](/Asserts/Images/album/202106/07/000222u09eikev3pj90k3f.jpg "atop disk bottleneck")
 
 
 *图 7. atop 命令识别了一个磁盘瓶颈。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -228,7 +228,7 @@ Linux [使用内存](https://www.networkworld.com/article/3394603/when-to-be-con
 这个图表显示了原因。潜在的 USB 数据传输率差异 *很大*。
 
 
-![USB 标准](/Asserts/Images//attachment/album/202106/07/000223t6hlfzfr6sjflupm.jpg "USB standards")
+![USB 标准](/Asserts/Images/album/202106/07/000223t6hlfzfr6sjflupm.jpg "USB standards")
 
 
 *图 8. USB 速度变化很大。(Howard Fosdick，根据 [Tripplite](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/) 和 [Wikipedia](https://en.wikipedia.org/wiki/USB) 提供的数字，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -270,7 +270,7 @@ HardInfo 的“USB 设备”标签显示了你的计算机支持的 USB 标准�
 有一天，我的系统监视器突然显示我的互联网访问量激增。我只是在命令行中输入了 `nethogs`，它立即确定带宽消耗者是 Clamav 防病毒更新。
 
 
-![Nethogs](/Asserts/Images//attachment/album/202106/07/000223v4ys9k6dhm5mjdmq.jpg "Nethogs")
+![Nethogs](/Asserts/Images/album/202106/07/000223v4ys9k6dhm5mjdmq.jpg "Nethogs")
 
 
 *图 9. Nethogs 识别带宽用户。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -285,7 +285,7 @@ HardInfo 的“USB 设备”标签显示了你的计算机支持的 USB 标准�
 HardInfo 的“PCI 设备”面板告诉你关于你的图形处理单元（GPU）。它还显示你的专用视频内存的数量（寻找标有“可预取”的内存）。
 
 
-![视频芯片组信息](/Asserts/Images//attachment/album/202106/07/000223vv84wgakk82wwekk.jpg "Video Chipset Information")
+![视频芯片组信息](/Asserts/Images/album/202106/07/000223vv84wgakk82wwekk.jpg "Video Chipset Information")
 
 
 *图 10. HardInfo提供图形处理信息。(Howard Fosdick, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))*
@@ -303,7 +303,7 @@ CPU 和 GPU [非常密切地](https://www.wepc.com/tips/cpu-gpu-bottleneck/) 一
 看一下 Conky 的这个例子。你可以看到，这个系统有很多可用的 CPU。GPU 只有 25% 的使用率。想象一下，如果这个 GPU 的数量接近 100%。那么你就会知道 CPU 在等待 GPU，你就会有一个 GPU 的瓶颈。
 
 
-![Conky CPU 和 GPU 监控](/Asserts/Images//attachment/album/202106/07/000224l0ppz2nsni92l2ss.jpg "Conky CPU and GPU monitoring")
+![Conky CPU 和 GPU 监控](/Asserts/Images/album/202106/07/000224l0ppz2nsni92l2ss.jpg "Conky CPU and GPU monitoring")
 
 
 *图 11. Conky 显示 CPU 和 GPU 的利用率。 (图片来源：[AskUbuntu论坛](https://askubuntu.com/questions/387594/how-to-measure-gpu-usage))*

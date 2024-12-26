@@ -7,7 +7,7 @@ tags:	[linuxcn,孩子,发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/20/225319qudbrl0w2h07nr2x.jpg)
+![](/Asserts/Images/album/201801/20/225319qudbrl0w2h07nr2x.jpg)
 
 
 如果你接触电脑有一段时间了，提到 Linux，你应该会联想到一些特定的人群。你觉得哪些人在使用 Linux？别担心，这就告诉你。
@@ -25,7 +25,7 @@ Linux 是一个可以深度定制的操作系统。这就赋予了用户高度�
 不过，不幸的是，这类发行版不会经常更新，甚至有些已经不再积极开发了。但也不意味着不能使用，只是故障发生率可能会高一点。
 
 
-![qimo-gcompris](/Asserts/Images//attachment/album/201801/20/225320mpuj4eifuefzwufo.jpg "qimo-gcompris")
+![qimo-gcompris](/Asserts/Images/album/201801/20/225320mpuj4eifuefzwufo.jpg "qimo-gcompris")
 
 
 #### 1. Edubuntu
@@ -55,7 +55,7 @@ Linux 是一个可以深度定制的操作系统。这就赋予了用户高度�
 只有你，最能保护孩子拒绝访问少儿不宜的内容，但是你不可能每分每秒都在孩子身边。但是你可以设置“限制访问”的 URL 到内容过滤代理服务器（通过软件）。这里有两个主要的软件可以帮助你。
 
 
-![儿童内容过滤 Linux](/Asserts/Images//attachment/album/201801/20/225324wympvvudb9xvvh5i.png "linux-for-children-content-filtering")
+![儿童内容过滤 Linux](/Asserts/Images/album/201801/20/225324wympvvudb9xvvh5i.png "linux-for-children-content-filtering")
 
 
 #### 1、 DansGuardian
@@ -73,7 +73,7 @@ Linux 是一个可以深度定制的操作系统。这就赋予了用户高度�
 [Parental Control: Family Friendly Filter](https://addons.mozilla.org/en-US/firefox/addon/family-friendly-filter/) 是 Firefox 的插件，允许家长屏蔽包含色情内容在内的任何少儿不宜的网站。你也可以设置不良网站黑名单，将其一直屏蔽。
 
 
-![firefox 内容过滤插件](/Asserts/Images//attachment/album/201801/20/225325kuixuaq3hs8uau33.png "firefox-content-filter-addon")
+![firefox 内容过滤插件](/Asserts/Images/album/201801/20/225325kuixuaq3hs8uau33.png "firefox-content-filter-addon")
 
 
 你使用的老版本的 Firefox 可能不支持 [网页插件](https://www.maketecheasier.com/best-firefox-web-extensions/)，那么你可以使用 [ProCon Latte 内容过滤器](https://addons.mozilla.org/en-US/firefox/addon/procon-latte/)。家长们添加网址到预设的黑名单内，然后设置密码，防止设置被篡改。
@@ -88,7 +88,7 @@ Linux 是一个可以深度定制的操作系统。这就赋予了用户高度�
 ### 闲趣
 
 
-![Linux 儿童游戏：tux kart](/Asserts/Images//attachment/album/201801/20/225326icz2o11215lxlzt2.jpg "linux-for-children-tux-kart")
+![Linux 儿童游戏：tux kart](/Asserts/Images/album/201801/20/225326icz2o11215lxlzt2.jpg "linux-for-children-tux-kart")
 
 
 给孩子们使用的计算机，不管是否是用作教育，最好都要有一些游戏。虽然 Linux 没有 Windows 那么好的游戏性，但也在奋力追赶。这有建议几个有益的游戏，你可以安装到孩子们的计算机上。

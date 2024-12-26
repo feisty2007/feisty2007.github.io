@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核,5.20]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/16/172334b13atol8nu5a38av.jpg)
+![](/Asserts/Images/album/202208/16/172334b13atol8nu5a38av.jpg)
 
 
 在中国，有各种节日，有各种情人节。

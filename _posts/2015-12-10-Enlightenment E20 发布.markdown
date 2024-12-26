@@ -7,7 +7,7 @@ tags:	[linuxcn,Enlightenment]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/02/220827i9pyzhgkep79yxjk.jpg)
+![](/Asserts/Images/album/201512/02/220827i9pyzhgkep79yxjk.jpg)
 
 
 E20 的开发已经告一段落了。在这 441 天期间，50 位以上的开发者提交了 1890 个补丁。报告了 25 个以上的 Coverity 分析问题，解决了 165 个问题（根据提交信息得知）。bug 汇报之王 [@ApB](https://phab.enlightenment.org/p/ApB/) 共提交了 231 个问题，虽然只有其中 70% 得到了解决，但是依然为我们帮了大忙。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,微软,WSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202310/13/155914y9m9e31eyni7mb9o.jpg)
+![](/Asserts/Images/album/202310/13/155914y9m9e31eyni7mb9o.jpg)
 
 
 Linux 是一款操作系统，与 Windows 有许多相似之处，但由于其开源和高度定制化的特性，衍生出众多的版本。安装 Linux 的前提是，你需要决定一个安装方式，并选定一个适合的 Linux 发行版。
@@ -57,7 +57,7 @@ Windows 的 Linux 子系统（WSL）是一个安装 Linux 的简便方式，适�
 此方法通过虚拟技术，将 Windows 和 Linux 操作系统（后者运行在真实的 Linux 内核上）整合到一起。你可以根据需要添加任何数量的 Linux 发行版，并且可以方便地在 Windows 中运行你喜爱的 Linux 工具，包括图形界面应用。此外，你还可以在同一条命令行中混合使用 Bash 和 PowerShell 命令。在这种方式下，项目文件由 Linux 文件系统托管，你可能需要用到的开发工具（如 VS Code）则由 Windows 文件系统托管。此安装方式的效率高且性能优秀。选择 Linux 发行版（或默认的 Ubuntu 发行版）后，你可以按照 Windows 的 Linux 子系统下的 [Linux 安装命令](https://learn.microsoft.com/en-us/linux/install#install-linux-with-windows-subsystem-for-linux) 进行操作，或在 [WSL 文档](https://learn.microsoft.com/en-us/windows/wsl) 中查阅更多信息。
 
 
-![WSL install command screenshot](/Asserts/Images//attachment/album/202310/13/155930jsn6dl2ndcvzcrlr.png)
+![WSL install command screenshot](/Asserts/Images/album/202310/13/155930jsn6dl2ndcvzcrlr.png)
 
 
 #### 创建虚拟机（VM）
@@ -84,7 +84,7 @@ Windows 的 Linux 子系统（WSL）是一个安装 Linux 的简便方式，适�
 一旦你选定了 Linux 发行版，并决定是在 [本地通过虚拟机管理器运行虚拟机](https://learn.microsoft.com/en-us/linux/install#create-a-linux-virtual-machine-locally-using-a-hypervisor)，还是 [在云端通过 Azure 运行](https://learn.microsoft.com/en-us/linux/install#create-a-linux-virtual-machine-in-the-cloud)，你就可以按照相应的说明，在云上或在本地创建 Linux 虚拟机。
 
 
-![Create a Linux VM on Azure screenshot](/Asserts/Images//attachment/album/202310/13/155931k2tq839mn3m0tadd.png)
+![Create a Linux VM on Azure screenshot](/Asserts/Images/album/202310/13/155931k2tq839mn3m0tadd.png)
 
 
 #### 裸机 Linux
@@ -99,7 +99,7 @@ Windows 的 Linux 子系统（WSL）是一个安装 Linux 的简便方式，适�
 你可以在 [Linux.org](https://linux.org/pages/download/) 网站上找到各种可供下载的主流 Linux 发行版。在你选定一个发行版之后，按照指南制作一个 [可启动的 USB 驱动器](https://learn.microsoft.com/en-us/linux/install#create-a-bootable-usb-drive-to-install-bare-metal-linux)，进行裸机 Linux 的安装就可以了。
 
 
-![Create a bootable USB screenshot](/Asserts/Images//attachment/album/202310/13/155931goxb66oi3okkuko3.png)
+![Create a bootable USB screenshot](/Asserts/Images/album/202310/13/155931goxb66oi3okkuko3.png)
 
 
 ### 步骤 2：选择一个 Linux 发行版
@@ -138,7 +138,7 @@ Linux 的不同版本被称为“发行版”。因此，实际上并没有一�
 具有强大用户社区的发行版往往受到青睐，因为这样的社区可以持续对发行版作出贡献，包括修复问题，增加新的功能，解答使用中的问题等。Ubuntu 就是最受欢迎的发行版之一，而 OpenSUSE 的历史比大多数其他发行版更悠久，且仍然在活跃更新中。随着用户需求和喜好的变化，许多其他的发行版也迅速赢得了用户的喜爱。Linux.org 网站提供了一些资源帮助你了解哪些发行版具有良好的支持或正在日益受到欢迎。
 
 
-![Screenshot of the list of distributions on Linux.org](/Asserts/Images//attachment/album/202310/13/155931cnm7jnnp7pjjmmnn.png)
+![Screenshot of the list of distributions on Linux.org](/Asserts/Images/album/202310/13/155931cnm7jnnp7pjjmmnn.png)
 
 
 ### 步骤 3：按照安装方法步骤执行安装
@@ -155,7 +155,7 @@ Linux 的不同版本被称为“发行版”。因此，实际上并没有一�
 3. 然后，重启你的电脑。
 
 
-![WSL Linux Install List Command screenshot](/Asserts/Images//attachment/album/202310/13/155931qc7rrc7rx8iigmrg.png)
+![WSL Linux Install List Command screenshot](/Asserts/Images/album/202310/13/155931qc7rrc7rx8iigmrg.png)
 
 
 ##### Linux 安装命令的选项
@@ -195,7 +195,7 @@ Azure 提供了多种在云上创建 Linux VM 的选项。你可以选择喜欢�
 如果你还没有 Azure 订阅账户，可以在开始之前创建一个 [免费账户](https://azure.microsoft.com/free/)。如果这是你第一次在 Azure 上创建 Linux VM，你可以学习更多 [有关 VM 的知识](https://azure.microsoft.com/resources/cloud-computing-dictionary/what-is-a-virtual-machine)，或者查看在线培训课程：[在 Azure 上创建 Linux 虚拟机](https://learn.microsoft.com/en-us/training/modules/create-linux-virtual-machine-in-azure/)。
 
 
-![Select Linux VM size on Azure screenshot](/Asserts/Images//attachment/album/202310/13/155931kbtpaj2ep2bhvnxj.png)
+![Select Linux VM size on Azure screenshot](/Asserts/Images/album/202310/13/155931kbtpaj2ep2bhvnxj.png)
 
 
 #### 使用虚拟机管理程序在本地创建 Linux 虚拟机
@@ -215,7 +215,7 @@ Azure 提供了多种在云上创建 Linux VM 的选项。你可以选择喜欢�
 如果你刚接触管理程序，想要了解更多的话，可以尝试免费的在线课程：[配置和管理 Hyper-V 虚拟机](https://learn.microsoft.com/en-us/training/modules/configure-manage-hyper-v-virtual-machines/)。
 
 
-![Hyper-V install screenshot](/Asserts/Images//attachment/album/202310/13/155932xpnjx5npz9nrqvj3.png)
+![Hyper-V install screenshot](/Asserts/Images/album/202310/13/155932xpnjx5npz9nrqvj3.png)
 
 
 #### 创建可引导的 USB 驱动器以安装裸机 Linux
@@ -231,7 +231,7 @@ Azure 提供了多种在云上创建 Linux VM 的选项。你可以选择喜欢�
 5. 最后，与任何 Linux 安装一样，你需要创建一个用户名和密码。
 
 
-![Ubuntu install screenshot](/Asserts/Images//attachment/album/202310/13/155932icmp7y2oy83sn2en.png)
+![Ubuntu install screenshot](/Asserts/Images/album/202310/13/155932icmp7y2oy83sn2en.png)
 
 
 ### 步骤 4：Linux 安装成功后需要进行的操作

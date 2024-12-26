@@ -7,10 +7,10 @@ tags:	[linuxcn,Rust,AI,条形码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/12/174418jam4otat4ztn9c5r.jpg)
+![](/Asserts/Images/album/202212/12/174418jam4otat4ztn9c5r.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/12/174425odmp6yevxvvi2iyq.jpg)
+![](/Asserts/Images/album/202212/12/174425odmp6yevxvvi2iyq.jpg)
 
 
 ### Linux 6.1 发布，拉开 Rust 进入 Linux 内核的大幕
@@ -35,7 +35,7 @@ tags:	[linuxcn,Rust,AI,条形码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/12/174436lqed9al886lcmlcq.jpg)
+![](/Asserts/Images/album/202212/12/174436lqed9al886lcmlcq.jpg)
 
 
 ### AlphaCode 是如何在编程竞赛中超过一半的程序员
@@ -60,7 +60,7 @@ AlphaCode 首先使用了 GitHub 上的庞大代码库进行训练，熟悉语�
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/12/174449h9izl2uvm3z3uu9g.jpg)
+![](/Asserts/Images/album/202212/12/174449h9izl2uvm3z3uu9g.jpg)
 
 
 ### 亚马逊计划干掉条形码

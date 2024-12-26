@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux有问必答,进程,库]
 ---
 
 
-**![](/Asserts/Images//attachment/album/201408/14/235224v1parpgwqsspcaio.jpg)**
+**![](/Asserts/Images/album/201408/14/235224v1parpgwqsspcaio.jpg)**
 
 
 
@@ -30,7 +30,7 @@ $ ldd /path/to/program
 
 ```
 
-![](/Asserts/Images//attachment/album/201408/13/230339h0148vg0y0xtvv44.jpg)
+![](/Asserts/Images/album/201408/13/230339h0148vg0y0xtvv44.jpg)
 
 
 注意！并不推荐为任何不可信的第三方可执行程序运行ldd，因为某些版本的ldd可能会直接调用可执行程序来明确其库文件依赖关系，这样可能不安全。
@@ -45,7 +45,7 @@ $ objdump -p /path/to/program | grep NEEDED
 
 ```
 
-![](/Asserts/Images//attachment/album/201408/13/230128hszsyhz99z7s197b.png)
+![](/Asserts/Images/album/201408/13/230128hszsyhz99z7s197b.png)
 
 
 ### 查看运行进程的共享库依赖关系
@@ -63,7 +63,7 @@ $ sudo pldd <PID>
 注意你需要root权限去执行pldd命令。
 
 
-![](/Asserts/Images//attachment/album/201408/13/230255vxylkh62k65073as.jpg)
+![](/Asserts/Images/album/201408/13/230255vxylkh62k65073as.jpg)
 
 
 或者，也可以选择一个叫做pmap的命令行工具。它报告一个进程的内存映射，也能显示出运行进程的库文件依赖。
@@ -75,7 +75,7 @@ $ sudo pmap <PID>
 
 ```
 
-![](/Asserts/Images//attachment/album/201408/13/230346lbtzsw7wltonnbgl.jpg)
+![](/Asserts/Images/album/201408/13/230346lbtzsw7wltonnbgl.jpg)
 
 
 

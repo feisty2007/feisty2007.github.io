@@ -7,7 +7,7 @@ tags:	[linuxcn,Kubernetes,人脸识别]
 ---
 
 
-![](/Asserts/Images//attachment/album/201807/30/182100utggq5s2nlwyxzsl.jpg)
+![](/Asserts/Images/album/201807/30/182100utggq5s2nlwyxzsl.jpg)
 
 
 简介
@@ -33,7 +33,7 @@ tags:	[linuxcn,Kubernetes,人脸识别]
 ### TL;DR
 
 
-![](/Asserts/Images//attachment/album/201807/30/182110rjm2ufth3k7kdtky.jpg)
+![](/Asserts/Images/album/201807/30/182110rjm2ufth3k7kdtky.jpg)
 
 
 该应用本身由 6 个组件构成。代码可以从如下链接中找到：[Kubenetes 集群示例](https://github.com/Skarlso/kube-cluster-sample)。
@@ -107,7 +107,7 @@ curl -d '{"path":"/unknown_images/unknown0001.jpg"}' http://127.0.0.1:8000/image
 下面给出工作原理：
 
 
-![](/Asserts/Images//attachment/album/201807/30/182155wue0igyuwuws9iss.jpg)
+![](/Asserts/Images/album/201807/30/182155wue0igyuwuws9iss.jpg)
 
 
 当出现 5 次不成功的服务调用时，断路器启动并阻断后续的调用请求。经过指定的时间后，它对服务进行健康检查并判断是否恢复。如果问题依然存在，等待时间会进一步增大。如果已经恢复，断路器停止对服务调用的阻断，允许请求流量通过。
@@ -417,7 +417,7 @@ Switched to context "kube-face-cluster".
 Pods 和 服务概览:
 
 
-![](/Asserts/Images//attachment/album/201807/30/182244ug3n5n07025e3zlv.jpg)
+![](/Asserts/Images/album/201807/30/182244ug3n5n07025e3zlv.jpg)
 
 
 ### MySQL
@@ -594,7 +594,7 @@ Bye
 
 ```
 
-你会注意到，我还将一个[数据库初始化 SQL](https://github.com/Skarlso/kube-cluster-sample/blob/master/Asserts/Images/base_setup.sql) 文件挂载到容器中，MySQL 容器会自动运行该文件，导入我将用到的部分数据和模式。
+你会注意到，我还将一个[数据库初始化 SQL](https://github.com/Skarlso/kube-cluster-sample/blob/master/database_setup.sql) 文件挂载到容器中，MySQL 容器会自动运行该文件，导入我将用到的部分数据和模式。
 
 
 对应的卷定义如下:
@@ -606,14 +606,14 @@ Bye
   - name: mysql-persistent-storage
     mountPath: /var/lib/mysql
   - name: bootstrap-script
-    mountPath: /docker-entrypoint-initdb.d/Asserts/Images/base_setup.sql
+    mountPath: /docker-entrypoint-initdb.d/database_setup.sql
 volumes:
 - name: mysql-persistent-storage
   persistentVolumeClaim:
     claimName: mysql-pv-claim
 - name: bootstrap-script
   hostPath:
-    path: /Users/hannibal/golang/src/github.com/Skarlso/kube-cluster-sample/Asserts/Images/base_setup.sql
+    path: /Users/hannibal/golang/src/github.com/Skarlso/kube-cluster-sample/database_setup.sql
     type: File
 
 
@@ -1064,7 +1064,7 @@ image sent to nsq
 部署后效果如下：
 
 
-![](/Asserts/Images//attachment/album/201807/30/182349h0s7o6yi9o8760ir.jpg)
+![](/Asserts/Images/album/201807/30/182349h0s7o6yi9o8760ir.jpg)
 
 
 ### 回顾
@@ -1134,7 +1134,7 @@ receiver-deployment-5cb4797598-sf5ds          1/1       Running   0          26s
 <ruby> 滚动更新 <rt>  Rolling Update </rt></ruby>过程中会发生什么呢？
 
 
-![](/Asserts/Images//attachment/album/201807/30/182422mewkb7dxw87rej8v.jpg)
+![](/Asserts/Images/album/201807/30/182422mewkb7dxw87rej8v.jpg)
 
 
 在软件开发过程中，需要变更应用的部分组件是常有的事情。如果我希望在不影响其它组件的情况下变更一个组件，我们的集群会发生什么变化呢？我们还需要最大程度的保持向后兼容性，以免影响用户体验。谢天谢地，Kubernetes 可以帮我们做到这些。

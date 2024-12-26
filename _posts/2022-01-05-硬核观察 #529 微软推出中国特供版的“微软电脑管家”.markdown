@@ -7,10 +7,10 @@ tags:	[linuxcn,电脑管家,机器人,SSL]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/27/162216sro2qvs2ddqior2d.jpg)
+![](/Asserts/Images/album/202201/27/162216sro2qvs2ddqior2d.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/27/162224i8b9hvw8pzp5oo80.jpg)
+![](/Asserts/Images/album/202201/27/162224i8b9hvw8pzp5oo80.jpg)
 
 
 ### 微软推出中国特供版的“微软电脑管家”
@@ -27,7 +27,7 @@ tags:	[linuxcn,电脑管家,机器人,SSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/27/162232wj5r6u1qh5jtt5hw.jpg)
+![](/Asserts/Images/album/202201/27/162232wj5r6u1qh5jtt5hw.jpg)
 
 
 ### 波士顿动力的机器人从 DHL 获得 1500 万美元的工作机会
@@ -44,7 +44,7 @@ tags:	[linuxcn,电脑管家,机器人,SSL]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/27/162248e6l0bbb70tw0p90l.jpg)
+![](/Asserts/Images/album/202201/27/162248e6l0bbb70tw0p90l.jpg)
 
 
 ### Let's Encrypt 错误签发数百万张证书

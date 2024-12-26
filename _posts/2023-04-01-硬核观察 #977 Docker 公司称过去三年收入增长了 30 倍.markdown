@@ -7,10 +7,10 @@ tags:	[linuxcn,Docker,苹果,路由器]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/20/174123facaklujtgkuff9k.jpg)
+![](/Asserts/Images/album/202304/20/174123facaklujtgkuff9k.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/20/174136kuphve1vuxv8pqqf.jpg)
+![](/Asserts/Images/album/202304/20/174136kuphve1vuxv8pqqf.jpg)
 
 
 ### Docker 公司称过去三年收入增长了 30 倍
@@ -35,7 +35,7 @@ Docker 公司 CEO 表示，该公司的年度经常性收入在过去 3 年中�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/20/174150np41jp676u6uy7pk.jpg)
+![](/Asserts/Images/album/202304/20/174150np41jp676u6uy7pk.jpg)
 
 
 ### 苹果公司选择旁观 ChatGPT
@@ -60,7 +60,7 @@ Docker 公司 CEO 表示，该公司的年度经常性收入在过去 3 年中�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/20/174206ssurzbc5jsbuzhp3.jpg)
+![](/Asserts/Images/album/202304/20/174206ssurzbc5jsbuzhp3.jpg)
 
 
 ### 二手路由器往往装载着企业的秘密

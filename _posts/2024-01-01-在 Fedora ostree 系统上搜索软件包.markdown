@@ -7,7 +7,7 @@ tags:	[linuxcn,ostree,不可变]
 ---
 
 
-![](/Asserts/Images//attachment/album/202401/01/152807zv5flffxfs7xjurs.jpg)
+![](/Asserts/Images/album/202401/01/152807zv5flffxfs7xjurs.jpg)
 
 
 

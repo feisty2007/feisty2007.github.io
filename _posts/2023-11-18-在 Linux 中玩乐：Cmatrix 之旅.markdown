@@ -7,7 +7,7 @@ tags:	[linuxcn,Cmatrix,趣味]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/28/072046sff97h9bfqvfq8va.png)
+![](/Asserts/Images/album/202311/28/072046sff97h9bfqvfq8va.png)
 
 
 
@@ -21,7 +21,7 @@ tags:	[linuxcn,Cmatrix,趣味]
 Cmatrix 是一款充满乐趣的 Linux 和 Unix 系统命令行程序。它可以模仿经典电影《<ruby> 黑客帝国 <rt>  Matrix </rt></ruby>》系列中的场景，用绿色的字符流营造出雨一般的下落效果。
 
 
-![Cmatrix 命令](/Asserts/Images//attachment/album/202311/28/072131a1ov77n4bvooh9vi.gif)
+![Cmatrix 命令](/Asserts/Images/album/202311/28/072131a1ov77n4bvooh9vi.gif)
 
 
 除了充满视觉冲击力的绿色字符流之外，你还可以发挥想象，利用这款有趣的命令做更多事情。
@@ -83,7 +83,7 @@ cmatrix -b
 
 ```
 
-![加粗的 Cmatrix 字符](/Asserts/Images//attachment/album/202311/28/072131mqsgr96qnf9s6a6r.png)
+![加粗的 Cmatrix 字符](/Asserts/Images/album/202311/28/072131mqsgr96qnf9s6a6r.png)
 
 
 或者，你也可以调整设置，让所有的字符都以加粗方式显示，
@@ -95,7 +95,7 @@ cmatrix -B
 
 ```
 
-![全部显示为加粗的字符](/Asserts/Images//attachment/album/202311/28/072132gx204rn2554ssr0n.png)
+![全部显示为加粗的字符](/Asserts/Images/album/202311/28/072132gx204rn2554ssr0n.png)
 
 
 #### 异步滚动
@@ -128,7 +128,7 @@ cmatrix -u 2
 
 ```
 
-![字符快速下落](/Asserts/Images//attachment/album/202311/28/072133l5554m58oxjlxirp.gif)
+![字符快速下落](/Asserts/Images/album/202311/28/072133l5554m58oxjlxirp.gif)
 
 
 在这里，默认的屏幕更新延迟是 4，如果你把这个值降低，那么字符下落的速度就会增加，反之则会减慢。所以，如果你想让 Cmatrix 以更慢的速度运行，你可以这样设置：
@@ -140,7 +140,7 @@ cmatrix -u 9
 
 ```
 
-![字符慢速下落](/Asserts/Images//attachment/album/202311/28/072134w2eqad028dnqj0ad.gif)
+![字符慢速下落](/Asserts/Images/album/202311/28/072134w2eqad028dnqj0ad.gif)
 
 
 #### 自定义颜色
@@ -158,7 +158,7 @@ cmatrix -C magenta
 
 ```
 
-![颜色变为洋红色](/Asserts/Images//attachment/album/202311/28/072134jo8dyezovqavdqqw.png)
+![颜色变为洋红色](/Asserts/Images/album/202311/28/072134jo8dyezovqavdqqw.png)
 
 
 你可以任选绿色（`green`）、红色（`red`）、蓝色（`blue`）、白色（`white`）、黄色（`yellow`）、青色（`cyan`）、洋红色（`magenta`）以及黑色（`black`）这些颜色。
@@ -247,7 +247,7 @@ cmatrix | lolcat
 
 ```
 
-![Cmatrix 配合 Lolcat 效果](/Asserts/Images//attachment/album/202311/28/072135ehzesslvwhdzdhwe.png)
+![Cmatrix 配合 Lolcat 效果](/Asserts/Images/album/202311/28/072135ehzesslvwhdzdhwe.png)
 
 
 当然，你也可以尝试用 lolcat 来管理所有的 Cmatrix 的功能。
@@ -271,7 +271,7 @@ cmatrix | lolcat -i
 
 ```
 
-![Cmatrix 与反转颜色的 Lolcat](/Asserts/Images//attachment/album/202311/28/072135hem7zmh9aojwqjvh.png)
+![Cmatrix 与反转颜色的 Lolcat](/Asserts/Images/album/202311/28/072135hem7zmh9aojwqjvh.png)
 
 
 ### 终端界面的无尽可能

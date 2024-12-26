@@ -10,7 +10,7 @@ tags:	[linuxcn,passwd,密码,口令]
 正如 **passwd** 命令的名称所示，其用于改变系统用户的密码。如果 passwd 命令由非 root 用户执行，那么它会询问当前用户的密码，然后设置调用该命令的用户的新密码。当此命令由超级用户 root 执行的话，就可以重新设置任何用户的密码，包括不知道当前密码的用户。
 
 
-![](/Asserts/Images//attachment/album/201510/28/234554zi555tj65jxis56x.jpg)
+![](/Asserts/Images/album/201510/28/234554zi555tj65jxis56x.jpg)
 
 
 在这篇文章中，我们将用实例来介绍 passwd 命令。
@@ -28,7 +28,7 @@ tags:	[linuxcn,passwd,密码,口令]
 可以在 passwd 命令使用不同的选项，列表如下：
 
 
-![](/Asserts/Images//attachment/album/201510/28/234620a4bbv9bb4zs0qlp4.jpg)
+![](/Asserts/Images/album/201510/28/234620a4bbv9bb4zs0qlp4.jpg)
 
 
 ### 例1：更改系统用户的密码
@@ -60,7 +60,7 @@ passwd: all authentication tokens updated successfully.
 
 ```
 
-![](/Asserts/Images//attachment/album/201510/28/234620jx0xc6ceogcs0e0m.jpg)
+![](/Asserts/Images/album/201510/28/234620jx0xc6ceogcs0e0m.jpg)
 
 
 **注意** : 系统用户的密码以加密的形式保存在 /etc/shadow 文件中。
@@ -95,7 +95,7 @@ root@localhost:~# passwd -Sa
 
 ```
 
-![](/Asserts/Images//attachment/album/201510/28/234622x3z1aede83ntexgj.jpg)
+![](/Asserts/Images/album/201510/28/234622x3z1aede83ntexgj.jpg)
 
 
 （LCTT译注：不同发行版/passwd 的行为不同。CentOS6.6 没有测试成功，但 Ubuntu 可以。）
@@ -142,7 +142,7 @@ linuxtechi PS 1970-01-01 0 99999 7 -1 (Password set, SHA512 crypt.)
 现在尝试用 linuxtechi 用户 SSH 连接到主机。
 
 
-![](/Asserts/Images//attachment/album/201510/28/234624aijgn53kdh153du0.jpg)
+![](/Asserts/Images/album/201510/28/234624aijgn53kdh153du0.jpg)
 
 
 ### 例6：锁定系统用户的密码

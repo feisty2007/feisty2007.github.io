@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/02/162011en8ax98az1aypziy.jpg)
+![](/Asserts/Images/album/202306/02/162011en8ax98az1aypziy.jpg)
 
 
 

@@ -15,7 +15,7 @@ tags:	[linuxcn,Unity]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/31/154415wvlls4zskzfka3sk.png)
+![](/Asserts/Images/album/202212/31/154415wvlls4zskzfka3sk.png)
 
 
 Unity，经典的桌面环境，从 2010 年到 2017 年都是 Ubuntu 的一部分，将收到一个大的新版本。你可以期待它在 2023 年的某个时候发布，但目前还没有具体的发布日期。
@@ -36,7 +36,7 @@ Unity，经典的桌面环境，从 2010 年到 2017 年都是 Ubuntu 的一部�
 ### Unity 7.7 值得期待的地方
 
 
-![unity 7.7 一窥](/Asserts/Images//attachment/album/202212/31/154415avnktebmfawuk8zm.jpg)
+![unity 7.7 一窥](/Asserts/Images/album/202212/31/154415avnktebmfawuk8zm.jpg)
 
 
 这次披露的内容有很多，其中包括：
@@ -52,7 +52,7 @@ Unity，经典的桌面环境，从 2010 年到 2017 年都是 Ubuntu 的一部�
 #### 更新的欢迎应用程序
 
 
-![](/Asserts/Images//attachment/album/202212/31/154415ie3ui24lnqiutq3i.jpg)
+![](/Asserts/Images/album/202212/31/154415ie3ui24lnqiutq3i.jpg)
 
 
 一个新的欢迎应用程序将被引入 Unity，它基于 Ubuntu Flutter 社区开发的原型（用 [Flutter](https://flutter.dev) 编写）。
@@ -64,7 +64,7 @@ Unity，经典的桌面环境，从 2010 年到 2017 年都是 Ubuntu 的一部�
 #### UWidgets
 
 
-![](/Asserts/Images//attachment/album/202212/31/154416rhb1ajgjgrgw1lvf.jpg)
+![](/Asserts/Images/album/202212/31/154416rhb1ajgjgrgw1lvf.jpg)
 
 
 终于有了，Unity 桌面上的小部件？像 KDE 一样？
@@ -93,7 +93,7 @@ Unity，经典的桌面环境，从 2010 年到 2017 年都是 Ubuntu 的一部�
 #### 改进的仪表盘
 
 
-![](/Asserts/Images//attachment/album/202212/31/154417x28xo1dep882ng6d.jpg)
+![](/Asserts/Images/album/202212/31/154417x28xo1dep882ng6d.jpg)
 
 
 <ruby> 仪表盘 <rt>  Dash </rt></ruby>也被刷新了，新的设计基于 Unity 7 的原始设计概念（在 Canonical 放弃它之前）。
@@ -105,7 +105,7 @@ Unity，经典的桌面环境，从 2010 年到 2017 年都是 Ubuntu 的一部�
 #### 面板的调整
 
 
-![](/Asserts/Images//attachment/album/202212/31/154418uo90u5h3gzh3x7aq.jpg)
+![](/Asserts/Images/album/202212/31/154418uo90u5h3gzh3x7aq.jpg)
 
 
 现在的面板比之前的版本略大且更精致。
@@ -114,7 +114,7 @@ Unity，经典的桌面环境，从 2010 年到 2017 年都是 Ubuntu 的一部�
 #### 增强的通知指示器
 
 
-![](/Asserts/Images//attachment/album/202212/31/154418bxnqxx90f990tv0p.jpg)
+![](/Asserts/Images/album/202212/31/154418bxnqxx90f990tv0p.jpg)
 
 
 这对 Unity 来说是一个巨大的可用性改进；用户现在终于可以利用一个适当的通知指示器了。
@@ -126,7 +126,7 @@ Unity，经典的桌面环境，从 2010 年到 2017 年都是 Ubuntu 的一部�
 #### 其他变化
 
 
-![](/Asserts/Images//attachment/album/202212/31/154419rgl7hcmkxml4aagl.png)
+![](/Asserts/Images/album/202212/31/154419rgl7hcmkxml4aagl.png)
 
 
 一些更有用的技术改进包括：

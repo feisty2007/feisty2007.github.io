@@ -7,7 +7,7 @@ tags:	[linuxcn,Ubuntu,Windows]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/10/114408xfhnc032cnrfhrni.jpg)
+![](/Asserts/Images/album/201406/10/114408xfhnc032cnrfhrni.jpg)
 
 
 **一些Windows用户，希望试试Linux操作系统，而不用删除他正在使用的系统。令人高兴的是，想尝试下Linux是非常简单的，而且Linux操作系统也能和其他操作系统在同一台机器上和平共处。**

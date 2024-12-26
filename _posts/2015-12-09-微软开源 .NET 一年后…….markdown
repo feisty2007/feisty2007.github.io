@@ -7,7 +7,7 @@ tags:	[linuxcn,微软,.NET,开源]
 ---
 
 
-![](/Asserts/Images//attachment/album/201512/11/233709aavkkvzkz5awk5kk.jpg)
+![](/Asserts/Images/album/201512/11/233709aavkkvzkz5awk5kk.jpg)
 
 
 大约一年前，微软宣布[开源了 .NET 框架的大部分](/article-4209-1.html)。当时，Scott Hanselman 使用微软 Power BI [对代码库做了一个漂亮的分析](http://www.hanselman.com/blog/TheNETCoreCLRIsNowOpenSourceSoIRanTheGitHubRepoThroughMicrosoftPowerBI.aspx)。 现在一年过去了，我想要试试对以下问题做个解答：
@@ -35,13 +35,13 @@ tags:	[linuxcn,微软,.NET,开源]
 GitHub 自身已经内建了很多漂亮的图表了，你可以看看这一年来**每月提交数**的图表：
 
 
-[![Commits Per Month](/Asserts/Images//attachment/album/201512/11/233737iowqnu2i63vw5ifu.png)](https://github.com/dotnet/roslyn/graphs/contributors)
+[![Commits Per Month](/Asserts/Images/album/201512/11/233737iowqnu2i63vw5ifu.png)](https://github.com/dotnet/roslyn/graphs/contributors)
 
 
 还可以看看**每月动态**：
 
 
-[![github stats - monthly pulse](/Asserts/Images//attachment/album/201512/11/233738sj5da7uao5og2lp7.png)](https://github.com/dotnet/roslyn/pulse/monthly)
+[![github stats - monthly pulse](/Asserts/Images/album/201512/11/233738sj5da7uao5og2lp7.png)](https://github.com/dotnet/roslyn/pulse/monthly)
 
 
 但是要回答上面的问题，我需要更多的数据。幸运的是， GitHub 提供了[非常全面的 API](https://developer.github.com/v3/)， 再配合上出色的 [Octokit.net 库](https://github.com/octokit/octokit.net)以及 [brilliant LINQPad](https://www.linqpad.net/)，我就很容易的得到了我所需的全部数据。如果你想要自己试试这些 API ，这儿有个[示例的 LINQPad 脚本](https://gist.github.com/mattwarren/894aa5f46ca62a63764a)。
@@ -50,7 +50,7 @@ GitHub 自身已经内建了很多漂亮的图表了，你可以看看这一年�
 然而，仅仅知道它的每月 “<ruby> 问题 <rp>  （ </rp> <rt>  issue </rt> <rp>  ） </rp></ruby>数量” 或 “接受的PR（ <ruby> 拉取请求 <rp>  （ </rp> <rt>  Pull Request </rt> <rp>  ） </rp></ruby>）”并没有太大用处，这并不能告诉我们是谁提交了这些问题或 PR。 幸运的是， GitHub 典型的用户是有分类的，比如下图来自 [Roslyn 第 670 号问题](https://github.com/dotnet/roslyn/issues/670) ，我们可以看到是哪种类型的用户提交的备注：“<ruby> 拥有者 <rp>  （ </rp> <rt>  Owner </rt> <rp>  ） </rp></ruby>”、 “<ruby> 协作者 <rp>  （ </rp> <rt>  Collaborator </rt> <rp>  ） </rp></ruby>” 或者为空——这就是“社区”成员，比如下面的某人（我觉得）并没有在微软工作。
 
 
-[![owner collaborator or community](/Asserts/Images//attachment/album/201512/11/233738tiztkdky54mutymk.png)](https://cloud.githubusercontent.com/assets/157298/11634101/8abd7210-9d06-11e5-82b0-570f296cf433.png)
+[![owner collaborator or community](/Asserts/Images/album/201512/11/233738tiztkdky54mutymk.png)](https://cloud.githubusercontent.com/assets/157298/11634101/8abd7210-9d06-11e5-82b0-570f296cf433.png)
 
 
 ### **结果呢？**
@@ -102,13 +102,13 @@ GitHub 自身已经内建了很多漂亮的图表了，你可以看看这一年�
 #### **每月的问题数 - 按提交者分组**
 
 
-[![Issues Per Month - By Submitter (Owner, Collaborator or Community)](/Asserts/Images//attachment/album/201512/11/233738j45uw7wzk4x3odo7.png)](https://cloud.githubusercontent.com/assets/157298/11596712/ad28f518-9aae-11e5-81d9-42bc22903d09.png)
+[![Issues Per Month - By Submitter (Owner, Collaborator or Community)](/Asserts/Images/album/201512/11/233738j45uw7wzk4x3odo7.png)](https://cloud.githubusercontent.com/assets/157298/11596712/ad28f518-9aae-11e5-81d9-42bc22903d09.png)
 
 
 #### **每月接受的 PR - 按提交者分组**
 
 
-[![Merged Pull Requests Per Month - By Submitter (Owner, Collaborator or Community)](/Asserts/Images//attachment/album/201512/11/233738marnpgpzsel7zpiu.png)](https://cloud.githubusercontent.com/assets/157298/11652755/785d0d20-9d91-11e5-9802-834bb3955718.png)
+[![Merged Pull Requests Per Month - By Submitter (Owner, Collaborator or Community)](/Asserts/Images/album/201512/11/233738marnpgpzsel7zpiu.png)](https://cloud.githubusercontent.com/assets/157298/11652755/785d0d20-9d91-11e5-9802-834bb3955718.png)
 
 
 ### **前 20 的问题标签**
@@ -117,7 +117,7 @@ GitHub 自身已经内建了很多漂亮的图表了，你可以看看这一年�
 最后一件我想对我拥有的这些数据所做的事情是找到那些最流行的问题标签，这可以揭示从三个项目开源以来哪种类型的工作不断出现。
 
 
-[![Top 20 Issue Labels](/Asserts/Images//attachment/album/201512/11/233739xzz2shrt1v8uqrh2.png)](https://cloud.githubusercontent.com/assets/157298/11633496/8505205a-9d03-11e5-89fd-33384b20306c.png)
+[![Top 20 Issue Labels](/Asserts/Images/album/201512/11/233739xzz2shrt1v8uqrh2.png)](https://cloud.githubusercontent.com/assets/157298/11633496/8505205a-9d03-11e5-89fd-33384b20306c.png)
 
 
 以下是关于这些结果的一些看法：

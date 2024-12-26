@@ -13,7 +13,7 @@ RAID 6 是 RAID 5 的升级版，它有两个分布式奇偶校验，即使两�
 在之前的文章中，我们已经在 RAID 5 看了分布式奇偶校验，但在本文中，我们将看到的是 RAID 6 双分布式奇偶校验。不要期望比其他 RAID 有更好的性能，除非你也安装了一个专用的 RAID 控制器。在 RAID 6 中，即使我们失去了2个磁盘，我们仍可以通过更换磁盘，从校验中构建数据，然后取回数据。
 
 
-![Setup RAID 6 in CentOS](/Asserts/Images//attachment/album/201508/31/155102zhhhwnlh2u6lhlnl.jpg)
+![Setup RAID 6 in CentOS](/Asserts/Images/album/201508/31/155102zhhhwnlh2u6lhlnl.jpg)
 
 
 *在 Linux 中安装 RAID 6*
@@ -90,7 +90,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check Hard Disk in Linux](/Asserts/Images//attachment/album/201508/31/155104nggs3s38fbqufq6o.png)
+![Check Hard Disk in Linux](/Asserts/Images/album/201508/31/155104nggs3s38fbqufq6o.png)
 
 
 *在 Linux 中检查磁盘*
@@ -106,7 +106,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check Raid on Disk](/Asserts/Images//attachment/album/201508/31/155109xail6i1omli2211b.png)
+![Check Raid on Disk](/Asserts/Images/album/201508/31/155109xail6i1omli2211b.png)
 
 
 *在磁盘上检查 RAID 分区*
@@ -145,7 +145,7 @@ IP 地址    :  192.168.0.228
 * 使用`w`保存更改。
 
 
-![Create sdb Partition](/Asserts/Images//attachment/album/201508/31/155113dpzpm7seeevheu2m.png)
+![Create sdb Partition](/Asserts/Images/album/201508/31/155113dpzpm7seeevheu2m.png)
 
 
 *创建 /dev/sdb 分区*
@@ -160,7 +160,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Create sdc Partition](/Asserts/Images//attachment/album/201508/31/155118a9p104t94tgdvq09.png)
+![Create sdc Partition](/Asserts/Images/album/201508/31/155118a9p104t94tgdvq09.png)
 
 
 *创建 /dev/sdc 分区*
@@ -175,7 +175,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Create sdd Partition](/Asserts/Images//attachment/album/201508/31/155121d0wawwy0xbw0jz45.png)
+![Create sdd Partition](/Asserts/Images/album/201508/31/155121d0wawwy0xbw0jz45.png)
 
 
 *创建 /dev/sdd 分区*
@@ -190,7 +190,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Create sde Partition](/Asserts/Images//attachment/album/201508/31/155125ne7ub73ycb233lij.png)
+![Create sde Partition](/Asserts/Images/album/201508/31/155125ne7ub73ycb233lij.png)
 
 
 *创建 /dev/sde 分区*
@@ -206,7 +206,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check Raid on New Partitions](/Asserts/Images//attachment/album/201508/31/155126mysvdaqmysdsqda1.png)
+![Check Raid on New Partitions](/Asserts/Images/album/201508/31/155126mysvdaqmysdsqda1.png)
 
 
 \*在新分区中检查 RAID \*
@@ -225,7 +225,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Create Raid 6 Device](/Asserts/Images//attachment/album/201508/31/155128h94u4tx9vxywvtxh.png)
+![Create Raid 6 Device](/Asserts/Images/album/201508/31/155128h94u4tx9vxywvtxh.png)
 
 
 *创建 Raid 6 设备*
@@ -240,7 +240,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check Raid 6 Process](/Asserts/Images//attachment/album/201508/31/155128un714551q7nqquw4.png)
+![Check Raid 6 Process](/Asserts/Images/album/201508/31/155128un714551q7nqquw4.png)
 
 
 *检查 RAID 6 创建过程*
@@ -267,7 +267,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check Raid 6 Array](/Asserts/Images//attachment/album/201508/31/155131pb51cm5bcrz25er5.png)
+![Check Raid 6 Array](/Asserts/Images/album/201508/31/155131pb51cm5bcrz25er5.png)
 
 
 *检查 Raid 6 阵列*
@@ -285,7 +285,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Create File System on Raid](/Asserts/Images//attachment/album/201508/31/155134h5co65n656433cmn.png)
+![Create File System on Raid](/Asserts/Images/album/201508/31/155134h5co65n656433cmn.png)
 
 
 *在 RAID 6 上创建文件系统*
@@ -314,7 +314,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Verify Raid Content](/Asserts/Images//attachment/album/201508/31/155136m5019d20c0b5f9wh.png)
+![Verify Raid Content](/Asserts/Images/album/201508/31/155136m5019d20c0b5f9wh.png)
 
 
 *验证 RAID 内容*
@@ -331,7 +331,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Automount Raid 6 Device](/Asserts/Images//attachment/album/201508/31/155138wcfizczrk7f7pi2o.png)
+![Automount Raid 6 Device](/Asserts/Images/album/201508/31/155138wcfizczrk7f7pi2o.png)
 
 
 *自动挂载 RAID 6 设备*
@@ -346,7 +346,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Verify Raid Automount](/Asserts/Images//attachment/album/201508/31/155139s0y4virc9k0w6cwc.png)
+![Verify Raid Automount](/Asserts/Images/album/201508/31/155139s0y4virc9k0w6cwc.png)
 
 
 *验证 RAID 是否自动挂载*
@@ -366,13 +366,13 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Save Raid 6 Configuration](/Asserts/Images//attachment/album/201508/31/155142fxwvu134f84ghv4f.png)
+![Save Raid 6 Configuration](/Asserts/Images/album/201508/31/155142fxwvu134f84ghv4f.png)
 
 
 *保存 RAID 6 配置*
 
 
-![Check Raid 6 Status](/Asserts/Images//attachment/album/201508/31/155142fxwvu134f84ghv4f.png)
+![Check Raid 6 Status](/Asserts/Images/album/201508/31/155142fxwvu134f84ghv4f.png)
 
 
 *检查 RAID 6 状态*
@@ -396,7 +396,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check New Disk](/Asserts/Images//attachment/album/201508/31/155145aiwjm64fhs6sedkh.png)
+![Check New Disk](/Asserts/Images/album/201508/31/155145aiwjm64fhs6sedkh.png)
 
 
 *检查新磁盘*
@@ -411,7 +411,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check Raid on New Disk](/Asserts/Images//attachment/album/201508/31/155146uasasfvig88v8za6.png)
+![Check Raid on New Disk](/Asserts/Images/album/201508/31/155146uasasfvig88v8za6.png)
 
 
 *在新磁盘中检查 RAID*
@@ -426,7 +426,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Create sdf Partition](/Asserts/Images//attachment/album/201508/31/155151lr3zr33q0523u0x3.png)
+![Create sdf Partition](/Asserts/Images/album/201508/31/155151lr3zr33q0523u0x3.png)
 
 
 *为 /dev/sdf 创建分区*
@@ -444,19 +444,19 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Verify Raid on sdf Partition](/Asserts/Images//attachment/album/201508/31/155152ukhd5zck5h1mubmc.png)
+![Verify Raid on sdf Partition](/Asserts/Images/album/201508/31/155152ukhd5zck5h1mubmc.png)
 
 
 *在 sdf 分区上验证 Raid*
 
 
-![Add sdf Partition to Raid](/Asserts/Images//attachment/album/201508/31/155153vzjnm6keptpljlee.png)
+![Add sdf Partition to Raid](/Asserts/Images/album/201508/31/155153vzjnm6keptpljlee.png)
 
 
 \*添加 sdf 分区到 RAID \*
 
 
-![Verify sdf Partition Details](/Asserts/Images//attachment/album/201508/31/155155w14aezgsphje4hc9.png)
+![Verify sdf Partition Details](/Asserts/Images/album/201508/31/155155w14aezgsphje4hc9.png)
 
 
 *验证 sdf 分区信息*
@@ -477,7 +477,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check Raid 6 Fault Tolerance](/Asserts/Images//attachment/album/201508/31/155156ugt64vi3gaz3m98q.png)
+![Check Raid 6 Fault Tolerance](/Asserts/Images/album/201508/31/155156ugt64vi3gaz3m98q.png)
 
 
 *检查 RAID 6 容错*
@@ -492,7 +492,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Check Auto Raid Syncing](/Asserts/Images//attachment/album/201508/31/155202rh713mg01zrhhfhl.png)
+![Check Auto Raid Syncing](/Asserts/Images/album/201508/31/155202rh713mg01zrhhfhl.png)
 
 
 *检查 RAID 自动同步*
@@ -507,7 +507,7 @@ IP 地址    :  192.168.0.228
 
 ```
 
-![Raid 6 Auto Syncing](/Asserts/Images//attachment/album/201508/31/155204iikvi3req3aqpk2i.png)
+![Raid 6 Auto Syncing](/Asserts/Images/album/201508/31/155204iikvi3req3aqpk2i.png)
 
 
 *RAID 6 自动同步*

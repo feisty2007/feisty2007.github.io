@@ -46,7 +46,7 @@ $ lsblk
 输出如下：
 
 
-![lsblk default](/Asserts/Images//attachment/album/201407/07/221145v9eyu6tozoqz1nog.jpg)
+![lsblk default](/Asserts/Images/album/201407/07/221145v9eyu6tozoqz1nog.jpg)
 
 
 7个栏目名称如下：
@@ -88,7 +88,7 @@ $ lsblk -a
 该选项将列出所有设备，包括空设备在内。
 
 
-![lsblk bytes sda](/Asserts/Images//attachment/album/201407/07/221146rccsjgfzn21fw1ck.png)
+![lsblk bytes sda](/Asserts/Images/album/201407/07/221146rccsjgfzn21fw1ck.png)
 
 
 ### 列出设备权限和属主
@@ -103,7 +103,7 @@ $ lsblk -m
 
 ```
 
-![lsblk  permissions](/Asserts/Images//attachment/album/201407/07/221147jc5ockk3ysddoosn.png)
+![lsblk  permissions](/Asserts/Images/album/201407/07/221147jc5ockk3ysddoosn.png)
 
 
 ### 列出指定设备
@@ -148,7 +148,7 @@ $ lsblk --noheadings --list
 
 ```
 
-![lsblk no header and list](/Asserts/Images//attachment/album/201407/07/221148akmfcf3gg6qqfzdb.png)
+![lsblk no header and list](/Asserts/Images/album/201407/07/221148akmfcf3gg6qqfzdb.png)
 
 
 ### 列出SCSI设备
@@ -163,7 +163,7 @@ $ lsblk -S
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/07/221149ty6uz0fboq60uyyy.png)
+![](/Asserts/Images/album/201407/07/221149ty6uz0fboq60uyyy.png)
 
 
 lsblk列出SCSI设备，而-s是逆序选项（LCTT译注：将设备和分区的组织关系逆转过来显示），其将给出如下输出。输入命令：
@@ -184,7 +184,7 @@ $ lsblk --inverse
 
 ```
 
-![](/Asserts/Images//attachment/album/201407/07/221150c7yf6w7pxpyxxpg2.png)
+![](/Asserts/Images/album/201407/07/221150c7yf6w7pxpyxxpg2.png)
 
 
 你可以使用lsblk来获取关于你的块设备的更多信息，自己把它试着显示出来吧！

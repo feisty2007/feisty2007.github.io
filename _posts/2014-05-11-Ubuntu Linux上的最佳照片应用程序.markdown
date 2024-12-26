@@ -7,7 +7,7 @@ tags:	[linuxcn,应用,照片,图像]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/28/132109uilrglq3gvtg6qg5.jpeg)
+![](/Asserts/Images/album/201405/28/132109uilrglq3gvtg6qg5.jpeg)
 
 
 在我上次写[切换到Linux的理由](http://itsfoss.com/reasons-switch-linux-windows-xp/)后，一位读者建议我写一些关于Windows上流行的应用程序的Linux替代品的内容。毕竟，这是想切换到Linux的Windows用户们最普遍关心的问题。

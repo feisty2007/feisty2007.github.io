@@ -7,7 +7,7 @@ tags:	[linuxcn,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/23/094129jwx7drkof7xcfdxm.jpg)
+![](/Asserts/Images/album/202007/23/094129jwx7drkof7xcfdxm.jpg)
 
 
 #### 微软 Windows 10 Tips 应用被抓包：竟使用 macOS 截图

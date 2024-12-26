@@ -7,10 +7,10 @@ tags:	[linuxcn,iOS,安卓,NTFS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/27/174039mw2bhrmvnmvroohd.jpg)
+![](/Asserts/Images/album/202204/27/174039mw2bhrmvnmvroohd.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/27/174048uw74nmzjm0r44erh.jpg)
+![](/Asserts/Images/album/202204/27/174048uw74nmzjm0r44erh.jpg)
 
 
 ### 新 NTFS Linux 驱动没有承诺的维护
@@ -35,7 +35,7 @@ tags:	[linuxcn,iOS,安卓,NTFS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/27/174100wh5l4tjg4gt44427.jpg)
+![](/Asserts/Images/album/202204/27/174100wh5l4tjg4gt44427.jpg)
 
 
 ### 欧盟将不允许限制 iOS 上的浏览器引擎
@@ -60,7 +60,7 @@ tags:	[linuxcn,iOS,安卓,NTFS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/27/174326vofa3tggb3aeegax.jpg)
+![](/Asserts/Images/album/202204/27/174326vofa3tggb3aeegax.jpg)
 
 
 ### 安卓应用程序商店正式增加隐私部分

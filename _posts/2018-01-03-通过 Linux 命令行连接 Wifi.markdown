@@ -7,7 +7,7 @@ tags:	[linuxcn,WiFi,无线网络]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/23/224506dhwwhqwgjblq76ui.jpg)
+![](/Asserts/Images/album/201801/23/224506dhwwhqwgjblq76ui.jpg)
 
 
 目标：仅使用命令行工具来配置 WiFi
@@ -131,7 +131,7 @@ priority=10
 
 ```
 
-![Complete WPA_Supplicant Settings](/Asserts/Images//attachment/album/201801/23/224513ubg3zg5t0gjzb2n0.jpg)
+![Complete WPA_Supplicant Settings](/Asserts/Images/album/201801/23/224513ubg3zg5t0gjzb2n0.jpg)
 
 
 保存配置然后重启 wpa\_supplicant 来让改动生效。

@@ -7,7 +7,7 @@ tags:	[linuxcn,黑客,网络安全]
 ---
 
 
-![Computer security](/Asserts/Images//attachment/album/201704/21/174419rb3s44ss4dsxxx4h.jpg "computer security")
+![Computer security](/Asserts/Images/album/201704/21/174419rb3s44ss4dsxxx4h.jpg "computer security")
 
 
 Mike Guthrie 最近在 Linux 基金会的网络研讨会上回答了一些安全相关的问题。

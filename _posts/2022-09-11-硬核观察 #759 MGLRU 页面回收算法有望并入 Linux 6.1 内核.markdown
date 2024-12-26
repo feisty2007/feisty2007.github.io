@@ -7,10 +7,10 @@ tags:	[linuxcn,内核,拖拉机,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/14/174516mw5qzvx22zhhnoqr.jpg)
+![](/Asserts/Images/album/202209/14/174516mw5qzvx22zhhnoqr.jpg)
 
 
-![](/Asserts/Images//attachment/album/202209/14/174526xc8un8qb8u4zfz2y.jpg)
+![](/Asserts/Images/album/202209/14/174526xc8un8qb8u4zfz2y.jpg)
 
 
 ### MGLRU 页面回收算法有望并入 Linux 6.1 内核
@@ -35,7 +35,7 @@ LPC 2022 上，谷歌工程师披露了 MGLRU 项目的最新进展。作为当�
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/14/174538o9jn31jgnznnjdl1.jpg)
+![](/Asserts/Images/album/202209/14/174538o9jn31jgnznnjdl1.jpg)
 
 
 ### 到 2030 年，软件将占拖拉机公司约翰迪尔收入的 10%
@@ -60,7 +60,7 @@ LPC 2022 上，谷歌工程师披露了 MGLRU 项目的最新进展。作为当�
 > 
 
 
-![](/Asserts/Images//attachment/album/202209/14/174557i38pam3ch550qgyf.jpg)
+![](/Asserts/Images/album/202209/14/174557i38pam3ch550qgyf.jpg)
 
 
 ### 谷歌在欧洲面临 250 亿欧元的反垄断罚款

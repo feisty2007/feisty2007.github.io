@@ -7,10 +7,10 @@ tags:	[linuxcn,数据库,监控软件,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/13/182829altxlpw2hxsm26xl.jpg)
+![](/Asserts/Images/album/202301/13/182829altxlpw2hxsm26xl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/13/182843gsecezicasj0gzmo.jpg)
+![](/Asserts/Images/album/202301/13/182843gsecezicasj0gzmo.jpg)
 
 
 ### 数据库损坏导致全美停飞航班
@@ -35,7 +35,7 @@ tags:	[linuxcn,数据库,监控软件,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/13/182855yz1uz0k16nl16991.jpg)
+![](/Asserts/Images/album/202301/13/182855yz1uz0k16nl16991.jpg)
 
 
 ### 因员工监控软件显示摸鱼，被勒令向公司返回工资
@@ -60,7 +60,7 @@ tags:	[linuxcn,数据库,监控软件,Rust]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/13/182907ioujtofwfaj1aie1.jpg)
+![](/Asserts/Images/album/202301/13/182907ioujtofwfaj1aie1.jpg)
 
 
 ### 谷歌将在 Chrome 开发中使用 Rust

@@ -7,7 +7,7 @@ tags:	[linuxcn,壁纸]
 ---
 
 
-![](/Asserts/Images//attachment/album/202108/19/223054ga6b8a8paa61u31u.jpg)
+![](/Asserts/Images/album/202108/19/223054ga6b8a8paa61u31u.jpg)
 
 
 这个 shell 脚本 `styli.sh` 可以帮助你每小时自动改变你的 Linux 桌面壁纸，并且有几个选项。
@@ -44,7 +44,7 @@ cd styli.sh
 要设置随机壁纸，根据你的桌面环境运行以下内容。
 
 
-![Change your Linux Desktop Wallpaper Every Hour using styli.sh](/Asserts/Images//attachment/album/202108/19/223224wrbzbdqmxemx3f36.jpg)
+![Change your Linux Desktop Wallpaper Every Hour using styli.sh](/Asserts/Images/album/202108/19/223224wrbzbdqmxemx3f36.jpg)
 
 
 GNOME：

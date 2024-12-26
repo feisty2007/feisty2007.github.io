@@ -30,7 +30,7 @@ Darktable 3 是一个主版本更新，它带来了大量的功能改进和重�
 ### Darktable 3.0 的新功能
 
 
-![Darktable 3.0 Screenshot](/Asserts/Images//attachment/album/202001/02/222428zjvnqq13ztlj3qz6.jpg)
+![Darktable 3.0 Screenshot](/Asserts/Images/album/202001/02/222428zjvnqq13ztlj3qz6.jpg)
 
 
 以下是重要的新功能：

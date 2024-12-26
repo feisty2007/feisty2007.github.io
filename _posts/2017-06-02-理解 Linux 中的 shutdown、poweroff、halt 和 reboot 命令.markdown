@@ -7,7 +7,7 @@ tags:	[linuxcn,shutdown,poweroff,halt,reboot]
 ---
 
 
-![](/Asserts/Images//attachment/album/201706/05/095810ydt5h18yh8etzhkx.jpg)
+![](/Asserts/Images/album/201706/05/095810ydt5h18yh8etzhkx.jpg)
 
 
 在本篇中，我们会向你解释 `shutdown`、`poweroff`、`halt` 以及 `reboot` 命令。我们会解释清楚当你用那些可用的选项执行的时候它们实际做了什么。

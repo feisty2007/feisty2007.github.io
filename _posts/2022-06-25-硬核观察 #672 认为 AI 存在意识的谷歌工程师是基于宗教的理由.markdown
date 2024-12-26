@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,Firefox,Rocky Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/19/193911s1lk2549jj3299j1.jpg)
+![](/Asserts/Images/album/202206/19/193911s1lk2549jj3299j1.jpg)
 
 
-![](/Asserts/Images//attachment/album/202206/19/193920t8u11ltprfq2hv00.jpg)
+![](/Asserts/Images/album/202206/19/193920t8u11ltprfq2hv00.jpg)
 
 
 ### 认为 AI 存在意识的谷歌工程师是基于宗教的理由
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,Firefox,Rocky Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/19/193930gl3rf6d33t6zc193.jpg)
+![](/Asserts/Images/album/202206/19/193930gl3rf6d33t6zc193.jpg)
 
 
 ### Canonical 继续提高 Firefox Snap 性能
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,Firefox,Rocky Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202206/19/193944goftdn1xtoxcfo7j.jpg)
+![](/Asserts/Images/album/202206/19/193944goftdn1xtoxcfo7j.jpg)
 
 
 ### 统计显示 Rocky Linux 的使用量超过了 Alma Linux 和 CentOS Stream

@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,AMD,ReiserFS,Visual Studio]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/02/174133sgz75lisjj5e52gg.jpg)
+![](/Asserts/Images/album/202309/02/174133sgz75lisjj5e52gg.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/02/174143z758pky3lpykkyy4.jpg)
+![](/Asserts/Images/album/202309/02/174143z758pky3lpykkyy4.jpg)
 
 
 ### 1/7 的 Linux 内核代码是 AMD GPU 驱动代码
@@ -35,7 +35,7 @@ tags:	[linuxcn,Linux,AMD,ReiserFS,Visual Studio]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/02/174156s1mw7qj1pg72cgxc.jpg)
+![](/Asserts/Images/album/202309/02/174156s1mw7qj1pg72cgxc.jpg)
 
 
 ### ReiserFS 被正式标记为“过时”
@@ -60,7 +60,7 @@ ReiserFS 曾是二十多年前 Linux 引入的第一个日志文件系统，在 
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/02/174210cka5gv6a646ja44k.jpg)
+![](/Asserts/Images/album/202309/02/174210cka5gv6a646ja44k.jpg)
 
 
 ### Visual Studio for Mac：从开源到闭源，到废弃

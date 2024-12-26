@@ -7,10 +7,10 @@ tags:	[linuxcn,车载系统,GDPR,TIOBE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/11/190507iuvoyhhs6c56covj.jpg)
+![](/Asserts/Images/album/202202/11/190507iuvoyhhs6c56covj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/11/190515czkbg599zkh95c35.jpg)
+![](/Asserts/Images/album/202202/11/190515czkbg599zkh95c35.jpg)
 
 
 ### 收听电台导致马自达车载系统损坏
@@ -27,7 +27,7 @@ tags:	[linuxcn,车载系统,GDPR,TIOBE]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/11/190525b4e3hei3ii42d6oz.jpg)
+![](/Asserts/Images/album/202202/11/190525b4e3hei3ii42d6oz.jpg)
 
 
 ### 法国政府要求公司停止使用谷歌分析
@@ -44,7 +44,7 @@ tags:	[linuxcn,车载系统,GDPR,TIOBE]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/11/190541pzdfh08gptwd2kgw.jpg)
+![](/Asserts/Images/album/202202/11/190541pzdfh08gptwd2kgw.jpg)
 
 
 ### 因 Alexa 排名服务即将下线，TIOBE 指数发生变化

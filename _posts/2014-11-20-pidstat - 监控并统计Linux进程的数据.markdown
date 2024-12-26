@@ -10,7 +10,7 @@ tags:	[linuxcn,pidstat,sysstat]
 **pidstat**命令用来监控被Linux内核管理的独立任务(进程)。它输出每个受内核管理的任务的相关信息。pidstat命令也可以用来监控特定进程的子进程。间隔参数用于指定每次报告间的时间间隔。它的值为0(或者没有参数)说明进程的统计数据的时间是从系统启动开始计算的。
 
 
-![](/Asserts/Images//attachment/album/201411/19/221948nrj0rvxhynnlkglr.png)
+![](/Asserts/Images/album/201411/19/221948nrj0rvxhynnlkglr.png)
 
 
 ### 如何安装pidstat
@@ -49,7 +49,7 @@ CentOS/Fedora/RHEL版本的linux中则使用下面的命令：
 
 ```
 
-![pidstat](/Asserts/Images//attachment/album/201411/19/221951q8vfzf888fvgjfva.jpg)
+![pidstat](/Asserts/Images/album/201411/19/221951q8vfzf888fvgjfva.jpg)
 
 
 在结果中你能看到如下内容：
@@ -76,7 +76,7 @@ CentOS/Fedora/RHEL版本的linux中则使用下面的命令：
 
 ```
 
-![pidstat io](/Asserts/Images//attachment/album/201411/19/221953crjjjqeqwini6qw9.jpg)
+![pidstat io](/Asserts/Images/album/201411/19/221953crjjjqeqwini6qw9.jpg)
 
 
 IO 输出会显示一些内的条目：
@@ -93,7 +93,7 @@ IO 输出会显示一些内的条目：
 使用-r标记你能够得到内存使用情况的数据。
 
 
-![pidstat pf mem](/Asserts/Images//attachment/album/201411/19/221954s3jp4ff44jp4dj4f.jpg)
+![pidstat pf mem](/Asserts/Images/album/201411/19/221954s3jp4ff44jp4dj4f.jpg)
 
 
 重要的条目：

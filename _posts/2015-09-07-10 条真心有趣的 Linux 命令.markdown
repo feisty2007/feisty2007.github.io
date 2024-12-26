@@ -7,7 +7,7 @@ tags:	[linuxcn,命令行]
 ---
 
 
-**![](/Asserts/Images//attachment/album/201509/22/135342irvrvnsrnut7s3bv.png)**
+**![](/Asserts/Images/album/201509/22/135342irvrvnsrnut7s3bv.png)**
 
 
 **在终端工作是一件很有趣的事情。今天，我们将会列举一些有趣得为你带来欢笑的Linux命令。**
@@ -25,10 +25,10 @@ tags:	[linuxcn,命令行]
 
 ```
 
-![Selection_002](/Asserts/Images//attachment/album/201509/22/081549cquezquy0a6y22ey.png)
+![Selection_002](/Asserts/Images/album/201509/22/081549cquezquy0a6y22ey.png)
 
 
-![Selection_001](/Asserts/Images//attachment/album/201509/22/081549q0ir0t0cd8awj3t8.png)
+![Selection_001](/Asserts/Images/album/201509/22/081549q0ir0t0cd8awj3t8.png)
 
 
 ### 2. fortune
@@ -43,7 +43,7 @@ crank@crank-System:~$ sudo apt-get install fortune
 
 ```
 
-![Selection_003](/Asserts/Images//attachment/album/201509/22/081549qpg2f22pzod62tx2.png)
+![Selection_003](/Asserts/Images/album/201509/22/081549qpg2f22pzod62tx2.png)
 
 
 利用fortune命令的 -s 选项，他会限制一个句子的输出长度。
@@ -55,7 +55,7 @@ crank@crank-System:~$ sudo apt-get install fortune
 
 ```
 
-![Selection_004](/Asserts/Images//attachment/album/201509/22/081550ktstuss76sx97o78.png)
+![Selection_004](/Asserts/Images/album/201509/22/081550ktstuss76sx97o78.png)
 
 
 ### 3. yes
@@ -76,7 +76,7 @@ crank@crank-System:~$ sudo apt-get install fortune
 
 ```
 
-![Selection_005](/Asserts/Images//attachment/album/201509/22/081550y4qdie2ape0ozz3j.png)
+![Selection_005](/Asserts/Images/album/201509/22/081550y4qdie2ape0ozz3j.png)
 
 
 ### 4. figlet
@@ -103,7 +103,7 @@ cd /usr/share/figlet
 
 ```
 
-![Selection_006](/Asserts/Images//attachment/album/201509/22/081550rfmmmomj7f0rli83.png)
+![Selection_006](/Asserts/Images/album/201509/22/081550rfmmmomj7f0rli83.png)
 
 
 
@@ -112,7 +112,7 @@ cd /usr/share/figlet
 
 ```
 
-![Selection_007](/Asserts/Images//attachment/album/201509/22/081551ro00zqd88hnaynvy.png)
+![Selection_007](/Asserts/Images/album/201509/22/081551ro00zqd88hnaynvy.png)
 
 
 当然，你也可以尝试使用其他的选项。
@@ -175,7 +175,7 @@ cd /usr/share/figlet
 
 ```
 
-![asciiquarium_1.1 : perl_008](/Asserts/Images//attachment/album/201509/22/081551jz9sbsib11ib56fe.png)
+![asciiquarium_1.1 : perl_008](/Asserts/Images/album/201509/22/081551jz9sbsib11ib56fe.png)
 
 
 ### 6. bb
@@ -191,7 +191,7 @@ cd /usr/share/figlet
 看看会输出什么？
 
 
-![Selection_009](/Asserts/Images//attachment/album/201509/22/081551gk2qezt0m80290kt.png)
+![Selection_009](/Asserts/Images/album/201509/22/081551gk2qezt0m80290kt.png)
 
 
 ### 7. sl
@@ -217,7 +217,7 @@ cd /usr/share/figlet
 
 ```
 
-![Selection_012](/Asserts/Images//attachment/album/201509/22/081552r267vr8sa798dd8d.png)
+![Selection_012](/Asserts/Images/album/201509/22/081552r267vr8sa798dd8d.png)
 
 
 ### 8. cowsay
@@ -243,7 +243,7 @@ apt-get install cowsay
 
 ```
 
-![Selection_013](/Asserts/Images//attachment/album/201509/22/081553i56qsniqzy0ay70u.png)
+![Selection_013](/Asserts/Images/album/201509/22/081553i56qsniqzy0ay70u.png)
 
 
 或者，你可以用其他的角色来取代默认角色来说这句话，这些角色都存储在**/usr/share/cowsay/cows**目录下
@@ -266,7 +266,7 @@ cowsay -f ghostbusters.cow  unixmen
 
 ```
 
-![Selection_014](/Asserts/Images//attachment/album/201509/22/081554vpldlqddfecr5ldf.png)
+![Selection_014](/Asserts/Images/album/201509/22/081554vpldlqddfecr5ldf.png)
 
 
 或者
@@ -278,7 +278,7 @@ cowsay -f ghostbusters.cow  unixmen
 
 ```
 
-![Selection_015](/Asserts/Images//attachment/album/201509/22/081554y59yelcjeiwiycii.png)
+![Selection_015](/Asserts/Images/album/201509/22/081554y59yelcjeiwiycii.png)
 
 
 ### 9. toilet
@@ -304,7 +304,7 @@ cowsay -f ghostbusters.cow  unixmen
 
 ```
 
-![Selection_016](/Asserts/Images//attachment/album/201509/22/081555s6zb0uhtbu4bz6b1.png)
+![Selection_016](/Asserts/Images/album/201509/22/081555s6zb0uhtbu4bz6b1.png)
 
 
 
@@ -313,7 +313,7 @@ toilet -F border -F gay unixmen
 
 ```
 
-![Selection_020](/Asserts/Images//attachment/album/201509/22/081555rwvqggzdmjw0v0de.png)
+![Selection_020](/Asserts/Images/album/201509/22/081555rwvqggzdmjw0v0de.png)
 
 
 
@@ -322,7 +322,7 @@ toilet  -f mono12 -F metal  unixmen
 
 ```
 
-![Selection_018](/Asserts/Images//attachment/album/201509/22/081555gcl428fmx18cwl4d.png)
+![Selection_018](/Asserts/Images/album/201509/22/081555gcl428fmx18cwl4d.png)
 
 
 ### 10. aafire
@@ -348,7 +348,7 @@ aafire能让你的终端燃起来。
 
 ```
 
-![Selection_019](/Asserts/Images//attachment/album/201509/22/081556wuujt4guztgamrjg.png)
+![Selection_019](/Asserts/Images/album/201509/22/081556wuujt4guztgamrjg.png)
 
 
 就这么多，祝你们在Linux终端玩得开心哈！！！

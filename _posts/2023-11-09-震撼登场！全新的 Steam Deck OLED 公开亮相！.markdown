@@ -7,7 +7,7 @@ tags:	[linuxcn,游戏,Steam Deck]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/11/144604h3w4wf53jg4ftw7w.jpg)
+![](/Asserts/Images/album/202311/11/144604h3w4wf53jg4ftw7w.jpg)
 
 
 
@@ -80,7 +80,7 @@ tags:	[linuxcn,游戏,Steam Deck]
 Valve 也推出了**特别的限量版 Steam Deck OLED** ，它具有所有相同的技术规格和 1 TB 的存储，**透明壳体以及烟雾般透明的外观色彩**。一起来看看吧?
 
 
-![](/Asserts/Images//attachment/album/202311/11/144637gujcb4fzcr39rwjf.png)
+![](/Asserts/Images/album/202311/11/144637gujcb4fzcr39rwjf.png)
 
 
 它看起来真的很酷。我非常喜欢许多制造商现在的做法，通过透明的外壳来展示设备本身。也许，这是一个很好的趋势。

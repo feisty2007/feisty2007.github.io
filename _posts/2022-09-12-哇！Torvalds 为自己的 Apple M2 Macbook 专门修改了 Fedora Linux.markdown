@@ -15,7 +15,7 @@ tags:	[linuxcn,Linus Torvalds]
 > 
 
 
-![Wow! Torvalds Modified Fedora Linux to Run on his Apple M2 Macbook](/Asserts/Images//attachment/album/202209/18/160809d85ci8hh6415mjc8.png)
+![Wow! Torvalds Modified Fedora Linux to Run on his Apple M2 Macbook](/Asserts/Images/album/202209/18/160809d85ci8hh6415mjc8.png)
 
 
 Linus Torvalds 喜欢写代码和修复代码。当然，这是他的技术专长。

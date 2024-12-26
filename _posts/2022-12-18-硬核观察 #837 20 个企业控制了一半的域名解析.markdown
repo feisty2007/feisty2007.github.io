@@ -7,10 +7,10 @@ tags:	[linuxcn,DNS,Mastodon,HTTPS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/01/144002gzp5mv8tx5vvv76r.jpg)
+![](/Asserts/Images/album/202212/01/144002gzp5mv8tx5vvv76r.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/01/144019mdohw15ox5jmw5hz.jpg)
+![](/Asserts/Images/album/202212/01/144019mdohw15ox5jmw5hz.jpg)
 
 
 ### 20 个企业控制了一半的域名解析
@@ -35,7 +35,7 @@ tags:	[linuxcn,DNS,Mastodon,HTTPS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/01/144034s0wvkkrevr7e1kwv.jpg)
+![](/Asserts/Images/album/202212/01/144034s0wvkkrevr7e1kwv.jpg)
 
 
 ### Mastodon 的安全性并不可靠
@@ -60,7 +60,7 @@ tags:	[linuxcn,DNS,Mastodon,HTTPS]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/01/144108bp2p7wp4l4jk5kjv.jpg)
+![](/Asserts/Images/album/202212/01/144108bp2p7wp4l4jk5kjv.jpg)
 
 
 ### Let's Encrypt 签发了逾三十亿证书

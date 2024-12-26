@@ -7,10 +7,10 @@ tags:	[linuxcn,网站,Ubuntu,PCIe]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/15/124459e42oxev1cee66x4c.jpg)
+![](/Asserts/Images/album/202201/15/124459e42oxev1cee66x4c.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/15/124507mmr68b2vrlbyf1lb.png)
+![](/Asserts/Images/album/202201/15/124507mmr68b2vrlbyf1lb.png)
 
 
 ### 24 小时自毁网站已经运行了近两年
@@ -27,7 +27,7 @@ tags:	[linuxcn,网站,Ubuntu,PCIe]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/15/124519n9ldktii7kt7ikvl.jpg)
+![](/Asserts/Images/album/202201/15/124519n9ldktii7kt7ikvl.jpg)
 
 
 ### Ubuntu 22.04 LTS 计划坚守 Linux 内核 5.15
@@ -44,7 +44,7 @@ tags:	[linuxcn,网站,Ubuntu,PCIe]
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/15/124537ejqiajbtiz4g2ogj.jpg)
+![](/Asserts/Images/album/202201/15/124537ejqiajbtiz4g2ogj.jpg)
 
 
 ### PCIe 6.0 规范发布，但 PCIe 4.0 才只有 10% 的份额

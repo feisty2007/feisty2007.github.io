@@ -15,7 +15,7 @@ tags:	[linuxcn,游戏,复古]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/30/154206f5nn5la23aa386jl.jpg)
+![](/Asserts/Images/album/201907/30/154206f5nn5la23aa386jl.jpg)
 
 
 他们使它们不像过去那样子了，对吧？我是说，电子游戏。
@@ -39,7 +39,7 @@ tags:	[linuxcn,游戏,复古]
 [RetroPie](https://retropie.org.uk/) 可能是树莓派上最受欢迎的复古游戏平台。它是一个可靠的万能选手，是模拟经典桌面和控制台游戏系统的绝佳选择。
 
 
-![](/Asserts/Images//attachment/album/201907/30/154244d40ghgtqigiq4sk7.png)
+![](/Asserts/Images/album/201907/30/154244d40ghgtqigiq4sk7.png)
 
 
 #### 介绍
@@ -93,7 +93,7 @@ RetroPie 的安装简单和易用性在某种程度上是一把双刃剑。你�
 [Recalbox](https://www.recalbox.com/) 是一个较新的树莓派开源模拟器套件。它还支持其它基于 ARM 的小型计算机。
 
 
-![](/Asserts/Images//attachment/album/201907/30/154216calok1icc1yyoycy.jpg)
+![](/Asserts/Images/album/201907/30/154216calok1icc1yyoycy.jpg)
 
 
 #### 介绍

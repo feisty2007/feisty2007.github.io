@@ -10,7 +10,7 @@ tags:	[linuxcn,关机,qshutdown]
 qshutdown是一个QT程序，用于让计算机在指定时间或者在几分钟后关机/重启/挂起/睡眠。对于那些只在特定时间使用计算机工作的人而言，可能很有用。
 
 
-![](/Asserts/Images//attachment/album/201412/02/112507qi3zg403dg4qr5c4.png)
+![](/Asserts/Images/album/201412/02/112507qi3zg403dg4qr5c4.png)
 
 
 qshutdown将在最后70秒时显示3次警告提醒。（如果设置了1分钟或者“本地时间+1”，它只会显示一次。）
@@ -49,13 +49,13 @@ sudo apt-get install qshutdown
 ### 屏幕截图
 
 
-![](/Asserts/Images//attachment/album/201412/02/112509lgae532eajy2zjd4.png)
+![](/Asserts/Images/album/201412/02/112509lgae532eajy2zjd4.png)
 
 
-![](/Asserts/Images//attachment/album/201412/02/112511javmwnjizcwjjdbt.png)
+![](/Asserts/Images/album/201412/02/112511javmwnjizcwjjdbt.png)
 
 
-![](/Asserts/Images//attachment/album/201412/02/112513z0sssxto6xgo6bm6.png)
+![](/Asserts/Images/album/201412/02/112513z0sssxto6xgo6bm6.png)
 
 
 

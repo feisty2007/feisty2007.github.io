@@ -18,7 +18,7 @@ Mark Shuttleworth（Ubuntu 的公司老总） 在 [reddit.com 上宣布 Ubuntu E
 > 
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/29/002400adiid11uitx3me1s.jpg](/Asserts/Images//attachment/album/201307/29/002400adiid11uitx3me1s.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201307/29/002400adiid11uitx3me1s.jpg](/Asserts/Images/album/201307/29/002400adiid11uitx3me1s.jpg)
 
 
 Mark Shuttleworth

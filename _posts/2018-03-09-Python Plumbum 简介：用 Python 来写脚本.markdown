@@ -7,7 +7,7 @@ tags:	[linuxcn,Shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/22/101111fawijaevfv3d7e3l.jpg)
+![](/Asserts/Images/album/201803/22/101111fawijaevfv3d7e3l.jpg)
 
 
 ### Plumbum：Shell 组合器

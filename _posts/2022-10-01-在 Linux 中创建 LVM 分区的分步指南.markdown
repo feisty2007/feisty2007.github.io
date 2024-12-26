@@ -7,7 +7,7 @@ tags:	[linuxcn,LVM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/18/113615swffwazya3nyfve2.jpg)
+![](/Asserts/Images/album/202210/18/113615swffwazya3nyfve2.jpg)
 
 
 
@@ -50,7 +50,7 @@ $ sudo dmesg | grep -i sd
 在输出中，查找大小为 15GB 的新磁盘。
 
 
-![dmesg-command-new-attached-disk-linux](/Asserts/Images//attachment/album/202210/18/113618icvckmdctcwietas.png)
+![dmesg-command-new-attached-disk-linux](/Asserts/Images/album/202210/18/113618icvckmdctcwietas.png)
 
 
 识别新连接的原始磁盘的另一种方法是通过 `fdisk` 命令：
@@ -65,7 +65,7 @@ $ sudo fdisk -l | grep -i /dev/sd
 输出：
 
 
-![fdisk-command-output-new-disk](/Asserts/Images//attachment/album/202210/18/113618pzeg7en8vqb72w1a.png)
+![fdisk-command-output-new-disk](/Asserts/Images/album/202210/18/113618pzeg7en8vqb72w1a.png)
 
 
 从上面的输出，可以确认新连接的磁盘是 `/dev/sdb`。
@@ -106,7 +106,7 @@ $ sudo pvdisplay /dev/sdb
 
 ```
 
-![pvdisplay-command-output-linux](/Asserts/Images//attachment/album/202210/18/113619jn9a77a6o6w6tvrr.png)
+![pvdisplay-command-output-linux](/Asserts/Images/album/202210/18/113619jn9a77a6o6w6tvrr.png)
 
 
 ### 步骤 3、创建 VG（卷组）
@@ -149,7 +149,7 @@ $ sudo vgdisplay volgrp01
 上述命令的输出：
 
 
-![vgs-command-output-linux](/Asserts/Images//attachment/album/202210/18/113620myys3otbawa3y7tz.png)
+![vgs-command-output-linux](/Asserts/Images/album/202210/18/113620myys3otbawa3y7tz.png)
 
 
 以上输出确认大小为 15 GiB 的卷组 `volgrp01` 已成功创建，一个<ruby> 物理扩展Physical Extend</ruby>（PE）的大小为 4 MB。创建 VG 时可以更改 PE 大小。
@@ -192,7 +192,7 @@ $ sudo lvdisplay /dev/volgrp01/lv01
 输出：
 
 
-![lvs-command-output-linux](/Asserts/Images//attachment/album/202210/18/113620qdkeuswsfc53gd3f.png)
+![lvs-command-output-linux](/Asserts/Images/album/202210/18/113620qdkeuswsfc53gd3f.png)
 
 
 上面的输出显示 LV（`lv01`）已成功创建，大小为 14 GiB。
@@ -216,7 +216,7 @@ $ sudo mkfs.ext4 /dev/volgrp01/lv01
 
 ```
 
-![mkfs-ext4-filesystem-lvm](/Asserts/Images//attachment/album/202210/18/113621h6lzlo6qdqrzt6qx.png)
+![mkfs-ext4-filesystem-lvm](/Asserts/Images/album/202210/18/113621h6lzlo6qdqrzt6qx.png)
 
 
 执行下面的命令，用 xfs 文件系统格式化 LVM 分区：
@@ -228,24 +228,24 @@ $ sudo mkfs.xfs /dev/volgrp01/lv01
 
 ```
 
-要使用上述格式化分区，我们必须将其挂载到某个文件夹中。所以，让我们创建一个文件夹 `/mnt/Asserts/Images/`：
+要使用上述格式化分区，我们必须将其挂载到某个文件夹中。所以，让我们创建一个文件夹 `/mnt/data`：
 
 
 
 ```
-$ sudo mkdir /mnt/Asserts/Images/
+$ sudo mkdir /mnt/data
 
 ```
 
-现在运行 `mount` 命令将其挂载到 `/mnt/Asserts/Images/` 文件夹：
+现在运行 `mount` 命令将其挂载到 `/mnt/data` 文件夹：
 
 
 
 ```
-$ sudo mount /dev/volgrp01/lv01 /mnt/Asserts/Images//
-$ df -Th /mnt/Asserts/Images//
+$ sudo mount /dev/volgrp01/lv01 /mnt/data/
+$ df -Th /mnt/data/
 Filesystem                Type  Size  Used Avail Use% Mounted on
-/dev/mapper/volgrp01-lv01 ext4   14G   24K   13G   1% /mnt/Asserts/Images/
+/dev/mapper/volgrp01-lv01 ext4   14G   24K   13G   1% /mnt/data
 $
 
 ```
@@ -255,7 +255,7 @@ $
 
 
 ```
-$ cd /mnt/Asserts/Images//
+$ cd /mnt/data/
 $ echo "testing lvm partition" | sudo tee dummy.txt
 $ cat dummy.txt
 testing lvm partition
@@ -272,7 +272,7 @@ $ sudo rm -f  dummy.txt
 
 
 ```
-$ echo '/dev/volgrp01/lv01  /mnt/Asserts/Images/  ext4  defaults 0 0' | sudo  tee -a /etc/fstab
+$ echo '/dev/volgrp01/lv01  /mnt/data  ext4  defaults 0 0' | sudo  tee -a /etc/fstab
 $ sudo mount -a
 
 ```

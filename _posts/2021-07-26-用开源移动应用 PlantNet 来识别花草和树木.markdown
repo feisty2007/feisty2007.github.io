@@ -15,7 +15,7 @@ tags:	[linuxcn,识别,植物]
 > 
 
 
-![Fire pink flower in Maggie Valley, NC](/Asserts/Images//attachment/album/202107/10/065440wif6qixz5zfwf557.jpg "Fire pink flower in Maggie Valley, NC")
+![Fire pink flower in Maggie Valley, NC](/Asserts/Images/album/202107/10/065440wif6qixz5zfwf557.jpg "Fire pink flower in Maggie Valley, NC")
 
 
 在我居住的地方很多小路和道路两旁都有花草树木。我所在的社区因其每年的枫树节而闻名，枫树对我来说很容易识别。然而，还有许多其他的树我无法识别名字。花也是如此：蒲公英很容易发现，但我不知道在我的步行道上的野花的名字。
@@ -48,31 +48,31 @@ PlantNet 允许用户利用智能手机的摄像头来收集视觉标本，并�
 该应用很容易使用。从你的智能手机上的应用图标启动它。
 
 
-![PlantNet smartphone icon](/Asserts/Images//attachment/album/202107/10/065440t1rz5q54363so544.jpg "PlantNet smartphone icon")
+![PlantNet smartphone icon](/Asserts/Images/album/202107/10/065440t1rz5q54363so544.jpg "PlantNet smartphone icon")
 
 
 当应用打开时，你会看到你已经在资料库中收集的标本。显示屏底部的相机图标允许你使用你的相机将图片添加到你的照片库。
 
 
-![Pl@ntnet homescreen](/Asserts/Images//attachment/album/202107/10/065440yeqaa8v9saicwdks.jpg "Pl@ntnet homescreen")
+![Pl@ntnet homescreen](/Asserts/Images/album/202107/10/065440yeqaa8v9saicwdks.jpg "Pl@ntnet homescreen")
 
 
 选择“相机”选项，将手机的摄像头对准你想识别的树木或花草。拍完照后，点击与你想识别的标本相匹配的选项（叶、花、树皮、果实等）。
 
 
-![Selecting plant type to identify](/Asserts/Images//attachment/album/202107/10/065441esvkxxl5l9lx8kvx.jpg "Selecting plant type to identify")
+![Selecting plant type to identify](/Asserts/Images/album/202107/10/065441esvkxxl5l9lx8kvx.jpg "Selecting plant type to identify")
 
 
 例如，如果你想通过叶子的特征来识别一个标本，请选择**叶子**。PlantNet 对其识别的确定程度进行了分配，从高到低的百分比不等。你还可以使用你的智能手机的 GPS 功能，将位置信息自动添加到你的数据收集中，你还可以添加注释。
 
 
-![Identified plant](/Asserts/Images//attachment/album/202107/10/065441o0eke0myamiux0ef.jpg "Identified plant")
+![Identified plant](/Asserts/Images/album/202107/10/065441o0eke0myamiux0ef.jpg "Identified plant")
 
 
 你可以在你的智能手机上或通过你的用户 ID（如果你创建了一个账户）登录网站，访问你上传的所有观测数据，并跟踪社区是否批准了它们。从网站界面上，你也可以下载 CSV 或电子表格格式的观察记录。
 
 
-![Pl@ntnet provides user stats](/Asserts/Images//attachment/album/202107/10/065441zu9xf2yyxez0ef6p.jpg "Pl@ntnet provides user stats")
+![Pl@ntnet provides user stats](/Asserts/Images/album/202107/10/065441zu9xf2yyxez0ef6p.jpg "Pl@ntnet provides user stats")
 
 
 ### 很好的户外活动

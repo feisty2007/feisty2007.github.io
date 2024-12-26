@@ -7,10 +7,10 @@ tags:	[linuxcn,树莓派,AI,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/16/234845frhlxxvbhah66s3b.jpg)
+![](/Asserts/Images/album/202311/16/234845frhlxxvbhah66s3b.jpg)
 
 
-![](/Asserts/Images//attachment/album/202311/16/234909u4s9uipkbpii42ip.png)
+![](/Asserts/Images/album/202311/16/234909u4s9uipkbpii42ip.png)
 
 
 ### #1 科学家利用树莓派“胶囊”保护气球望远镜数据
@@ -35,7 +35,7 @@ NASA 在四月份升空了一架超压气球成像望远镜，在 33 千米的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/16/234948ecngzypcf6z2yx1y.png)
+![](/Asserts/Images/album/202311/16/234948ecngzypcf6z2yx1y.png)
 
 
 ### #2 微软将人工智能产品统一到 Copilot 品牌下
@@ -60,7 +60,7 @@ NASA 在四月份升空了一架超压气球成像望远镜，在 33 千米的�
 > 
 
 
-![](/Asserts/Images//attachment/album/202311/16/235030s70uu0l8fxx1e5lb.png)
+![](/Asserts/Images/album/202311/16/235030s70uu0l8fxx1e5lb.png)
 
 
 ### #3 程序员们仍然忍不住在代码中留下密钥和凭证

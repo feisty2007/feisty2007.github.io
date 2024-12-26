@@ -7,7 +7,7 @@ tags:	[linuxcn,汇编,GCC]
 ---
 
 
-![](/Asserts/Images//attachment/album/201608/16/174310jzjh4jjjqy8syjsj.jpg)
+![](/Asserts/Images/album/201608/16/174310jzjh4jjjqy8syjsj.jpg)
 
 
 v0.1, 01 March 2003.

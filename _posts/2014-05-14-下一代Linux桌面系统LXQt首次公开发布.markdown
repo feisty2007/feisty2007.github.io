@@ -7,7 +7,7 @@ tags:	[linuxcn,LXQt,LXDE,Razor-qt]
 ---
 
 
-![LXQt with KWin. Other window managers can be used.](/Asserts/Images//attachment/album/201405/15/223056vjjssz2wnks8ho4n.jpg)
+![LXQt with KWin. Other window managers can be used.](/Asserts/Images/album/201405/15/223056vjjssz2wnks8ho4n.jpg)
 
 
 **LXQt的首次公开发布版，流行的轻量级桌面环境LXDE的新一代版本，已经可以下载了。**

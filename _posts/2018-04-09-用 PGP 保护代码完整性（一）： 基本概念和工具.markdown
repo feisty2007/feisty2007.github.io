@@ -7,7 +7,7 @@ tags:	[linuxcn,PGP,gpg]
 ---
 
 
-![](/Asserts/Images//attachment/album/201804/08/002106h7kk6uchrkbobkk9.jpg)
+![](/Asserts/Images/album/201804/08/002106h7kk6uchrkbobkk9.jpg)
 
 
 在本系列文章中，我们将深度探讨如何使用 PGP 确保软件完整性。这些文章将为工作于自由软件项目的开发者提供实用指南，并且将包含以下主题：

@@ -7,7 +7,7 @@ tags:	[linuxcn,徽标]
 ---
 
 
-![](/Asserts/Images//attachment/album/201909/30/072922u5vvh1pu7cl1t61i.jpg)
+![](/Asserts/Images/album/201909/30/072922u5vvh1pu7cl1t61i.jpg)
 
 
 自从 10 天前，我们发起了[徽标征集活动](/article-11363-1.html)，得到了大家的踊跃支持。虽然有相当多朋友表示原来的徽标就挺好，是的修改下就可以，但是也有很多朋友给我们提交了新的徽标设计及其设计理念。以下，我将这些设计展示给大家，大家可以发表意见。当然，也欢迎更多朋友来提交你们的徽标设计。
@@ -22,7 +22,7 @@ tags:	[linuxcn,徽标]
 #### 1466587594
 
 
-![](/Asserts/Images//attachment/album/201909/30/073015i1thhws5y1151181.png)
+![](/Asserts/Images/album/201909/30/073015i1thhws5y1151181.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/1466587594>
@@ -42,7 +42,7 @@ tags:	[linuxcn,徽标]
 #### alim0x
 
 
-![](/Asserts/Images//attachment/album/201909/30/073317b3kzjz2zjukumfm7.png)
+![](/Asserts/Images/album/201909/30/073317b3kzjz2zjukumfm7.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/alim0x>
@@ -64,7 +64,7 @@ tags:	[linuxcn,徽标]
 #### flag-1
 
 
-![](/Asserts/Images//attachment/album/201909/30/073646ejm1gvbzywhmg69g.png)
+![](/Asserts/Images/album/201909/30/073646ejm1gvbzywhmg69g.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/flag-1>
@@ -82,7 +82,7 @@ tags:	[linuxcn,徽标]
 #### flag-2
 
 
-![](/Asserts/Images//attachment/album/201909/30/073912qppjcwjfegvwgvm7.png)
+![](/Asserts/Images/album/201909/30/073912qppjcwjfegvwgvm7.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/flag-2>
@@ -100,7 +100,7 @@ tags:	[linuxcn,徽标]
 ### logo0281
 
 
-![](/Asserts/Images//attachment/album/201909/30/074052i7el5cmcvmz577e7.png)
+![](/Asserts/Images/album/201909/30/074052i7el5cmcvmz577e7.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/logo0281>
@@ -124,7 +124,7 @@ tags:	[linuxcn,徽标]
 #### logo0964
 
 
-![](/Asserts/Images//attachment/album/201909/30/074312bo74qh964zq7tk7q.png)
+![](/Asserts/Images/album/201909/30/074312bo74qh964zq7tk7q.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/logo0964>
@@ -145,7 +145,7 @@ tags:	[linuxcn,徽标]
 #### long
 
 
-![](/Asserts/Images//attachment/album/201909/30/074439chsi3jppp2caha2h.png)
+![](/Asserts/Images/album/201909/30/074439chsi3jppp2caha2h.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/long>
@@ -166,7 +166,7 @@ tags:	[linuxcn,徽标]
 #### RedInLinux
 
 
-![](/Asserts/Images//attachment/album/201909/30/074641sgp3vnqoqmptjj0j.png)
+![](/Asserts/Images/album/201909/30/074641sgp3vnqoqmptjj0j.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/RedInLinux>
@@ -187,7 +187,7 @@ tags:	[linuxcn,徽标]
 #### tinnx
 
 
-![](/Asserts/Images//attachment/album/201909/30/074836xrpst9iqkkqpfk4i.png)
+![](/Asserts/Images/album/201909/30/074836xrpst9iqkkqpfk4i.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/tinnx>
@@ -206,7 +206,7 @@ tags:	[linuxcn,徽标]
 #### WSJ
 
 
-![](/Asserts/Images//attachment/album/201909/30/074958ruuuu0a2q9uzv2e8.png)
+![](/Asserts/Images/album/201909/30/074958ruuuu0a2q9uzv2e8.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/WSJ>
@@ -227,7 +227,7 @@ tags:	[linuxcn,徽标]
 #### wxy
 
 
-![](/Asserts/Images//attachment/album/201909/30/075240hcx5aqgg2cl533n0.png)
+![](/Asserts/Images/album/201909/30/075240hcx5aqgg2cl533n0.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/wxy>
@@ -247,7 +247,7 @@ tags:	[linuxcn,徽标]
 #### yue-1
 
 
-![](/Asserts/Images//attachment/album/201909/30/075409khee2xxt33iiqji1.png)
+![](/Asserts/Images/album/201909/30/075409khee2xxt33iiqji1.png)
 
 
 地址：<https://github.com/LCTT/logo/tree/master/yue-1>

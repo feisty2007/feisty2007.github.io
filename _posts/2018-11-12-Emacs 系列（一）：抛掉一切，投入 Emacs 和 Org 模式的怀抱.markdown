@@ -7,7 +7,7 @@ tags:	[linuxcn,org-mode,Emacs]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/30/231923lumzvk4pm4zoguzw.png)
+![](/Asserts/Images/album/201811/30/231923lumzvk4pm4zoguzw.png)
 
 
 我必须承认，在使用了几十年的 vim 后， 我被 [Emacs](https://www.gnu.org/software/emacs/) 吸引了。

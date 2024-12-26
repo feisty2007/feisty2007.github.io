@@ -7,7 +7,7 @@ tags:	[linuxcn,snapcraft]
 ---
 
 
-![snaps](/Asserts/Images//attachment/album/201708/26/100735o1ynjs4en2iykguz.jpg)
+![snaps](/Asserts/Images/album/201708/26/100735o1ynjs4en2iykguz.jpg)
 
 
 Ubuntu Core 已经正式发布（LCTT 译注：指 2016 年 11 月发布的 Ubuntu Snappy Core 16 ），也许是时候让你的 snap 包进入商店了！

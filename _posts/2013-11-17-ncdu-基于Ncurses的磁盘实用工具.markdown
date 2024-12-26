@@ -16,7 +16,7 @@ tags:	[linuxcn,Linux,ncdu,Ncurses,磁盘,工具,命令,技巧,教程]
 这个命令行工具只是一个基于curses版本的标准du命令。它可帮助你在没有安装图形环境的情况下快速查看系统的磁盘使用统计。
 
 
-![](/Asserts/Images//attachment/album/201311/19/212250eqvggqm4zqkf46pa.png)
+![](/Asserts/Images/album/201311/19/212250eqvggqm4zqkf46pa.png)
 
 
 ### 检测环境
@@ -42,13 +42,13 @@ tags:	[linuxcn,Linux,ncdu,Ncurses,磁盘,工具,命令,技巧,教程]
 **> 扫描**
 
 
-![](/Asserts/Images//attachment/album/201311/19/2122533pwv8wsrmv8cvzwc.png)
+![](/Asserts/Images/album/201311/19/2122533pwv8wsrmv8cvzwc.png)
 
 
 **> 输出**
 
 
-![](/Asserts/Images//attachment/album/201311/19/212302f3r2v4382gfe2lco.png)
+![](/Asserts/Images/album/201311/19/212302f3r2v4382gfe2lco.png)
 
 
 你会看到在输出里显示了一个磁盘使用情况表。假如你要扫描整个文件系统，你可以在运行**ncdu**命令时加上**-x**选项。
@@ -63,7 +63,7 @@ tags:	[linuxcn,Linux,ncdu,Ncurses,磁盘,工具,命令,技巧,教程]
 下面给出一个例子：
 
 
-![](/Asserts/Images//attachment/album/201311/19/2123036eflealfvl0e01yy.png)
+![](/Asserts/Images/album/201311/19/2123036eflealfvl0e01yy.png)
 
 
 如你所见，显示了目录，类型，大小，实际占用空间等。项返回，再按一次**i**。
@@ -78,7 +78,7 @@ tags:	[linuxcn,Linux,ncdu,Ncurses,磁盘,工具,命令,技巧,教程]
 下面给出一个例子：
 
 
-![](/Asserts/Images//attachment/album/201311/19/212307kb65itwxcgbx5xcc.png)
+![](/Asserts/Images/album/201311/19/212307kb65itwxcgbx5xcc.png)
 
 
 如你所见，ncdu请求用户确认。假如你选择yes,目录将会从系统中删除。
@@ -93,7 +93,7 @@ tags:	[linuxcn,Linux,ncdu,Ncurses,磁盘,工具,命令,技巧,教程]
 下面给出一个例子：
 
 
-![](/Asserts/Images//attachment/album/201311/19/212309pzyast11azrj5lrf.png)
+![](/Asserts/Images/album/201311/19/212309pzyast11azrj5lrf.png)
 
 
 如你所见，在输出结果的第二竖列显示了每个目录所占用的空间占总的磁盘空间的百分比。
@@ -108,13 +108,13 @@ tags:	[linuxcn,Linux,ncdu,Ncurses,磁盘,工具,命令,技巧,教程]
 下面给出一些例子：
 
 
-![](/Asserts/Images//attachment/album/201311/19/212311pnx1hoxihxxxi3xz.png)
+![](/Asserts/Images/album/201311/19/212311pnx1hoxihxxxi3xz.png)
 
 
-![](/Asserts/Images//attachment/album/201311/19/212313xyk1yncyp2h5ypkf.png)
+![](/Asserts/Images/album/201311/19/212313xyk1yncyp2h5ypkf.png)
 
 
-![](/Asserts/Images//attachment/album/201311/19/2123174vv0s00v8t3qtb2g.png)
+![](/Asserts/Images/album/201311/19/2123174vv0s00v8t3qtb2g.png)
 
 
 想知道有关命令行选项以及其它信息，可前往[ncdu命令的Man页面](http://linux.die.net/man/1/ncdu)。

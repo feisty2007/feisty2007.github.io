@@ -15,7 +15,7 @@ tags:	[linuxcn,树莓派,PIXEL]
 > 
 
 
-![](/Asserts/Images//attachment/album/201612/26/113106hkarbqkc887rbqrd.jpg)
+![](/Asserts/Images/album/201612/26/113106hkarbqkc887rbqrd.jpg)
 
 
 树莓派基金会将其[今年九月份发布的 PIXEL OS](http://www.theregister.co.uk/2016/09/28/raspberry_pi_adds_pixel_eye_candy_to_desktop_to_please_users/) 移植到了 PC 和 Mac 上。
@@ -33,7 +33,7 @@ Upton 说他和其他的伙伴们注意到“有大量可以用来安装的 PC �
 现在答案就是“YES”，树莓派基金会发布了该操作系统的 x86 体验版。
 
 
-![](/Asserts/Images//attachment/album/201612/26/113349nkc590k9t5cmkp5t.jpg)
+![](/Asserts/Images/album/201612/26/113349nkc590k9t5cmkp5t.jpg)
 
 
 这个操作系统对硬件的需求很低，Upton 说 PIXEL “将运行在像我的 ThinkPad X40 这样的老机器上，它只要 512MB 内存就行。”Upton 认为这样的硬件需求很符合还在使用老式 PC 的学校，这就意味着学生们可以在学校的 x86 上使用和家里的树莓派上一样的 PIXEL 环境。

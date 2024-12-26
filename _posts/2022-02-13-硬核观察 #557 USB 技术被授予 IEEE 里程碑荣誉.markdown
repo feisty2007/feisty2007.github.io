@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,Chrome,USB]
 ---
 
 
-![](/Asserts/Images//attachment/album/202202/24/171333vihizbiujs9qzrju.jpg)
+![](/Asserts/Images/album/202202/24/171333vihizbiujs9qzrju.jpg)
 
 
-![](/Asserts/Images//attachment/album/202202/24/171342u88f0w8qe3oa8r81.jpg)
+![](/Asserts/Images/album/202202/24/171342u88f0w8qe3oa8r81.jpg)
 
 
 ### USB 技术被授予 IEEE 里程碑荣誉
@@ -27,7 +27,7 @@ tags:	[linuxcn,Ubuntu,Chrome,USB]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/24/171355yxxecsc6rpjcez3h.jpg)
+![](/Asserts/Images/album/202202/24/171355yxxecsc6rpjcez3h.jpg)
 
 
 ### 移动版 Chrome 将放弃数据节省模式
@@ -44,7 +44,7 @@ tags:	[linuxcn,Ubuntu,Chrome,USB]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/24/171438gt12zjiijn9e51tt.jpg)
+![](/Asserts/Images/album/202202/24/171438gt12zjiijn9e51tt.jpg)
 
 
 ### Canonical 为 Ubuntu 发布安全更新

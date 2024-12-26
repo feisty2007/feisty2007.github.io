@@ -15,7 +15,7 @@ tags:	[linuxcn,Apache Druid,数据库]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/18/154417bvakcquzn2ahv4ua.jpg)
+![](/Asserts/Images/album/202205/18/154417bvakcquzn2ahv4ua.jpg)
 
 
 现如今，数据分析不再是仅面向内部开发人员。当为业务方构建数据分析系统时，你需要确认哪种数据库后端是最合适的。

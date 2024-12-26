@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice]
 ---
 
 
-![](/Asserts/Images//attachment/album/202211/21/232133g8pmpgssszv6p1v8.jpg)
+![](/Asserts/Images/album/202211/21/232133g8pmpgssszv6p1v8.jpg)
 
 
 
@@ -50,13 +50,13 @@ sudo apt autoremove
 前往 [官方下载页面](https://www.libreoffice.org/download/download/). 并通过从下拉菜单中选择类型下载 “最新的” 版本。对于 Ubuntu 和其他衍生产品，请选择 .deb 文件。
 
 
-![LibreOffice download and install from official website](/Asserts/Images//attachment/album/202211/21/232138a6uk0nd3v355uun9.jpg)
+![LibreOffice download and install from official website](/Asserts/Images/album/202211/21/232138a6uk0nd3v355uun9.jpg)
 
 
 下载后，提取文件；你应该看到下面的所有软件包。
 
 
-![Extracted LibreOffice DEB files](/Asserts/Images//attachment/album/202211/21/232217yafdfpf5e60pqs1c.jpg)
+![Extracted LibreOffice DEB files](/Asserts/Images/album/202211/21/232217yafdfpf5e60pqs1c.jpg)
 
 
 在提取文件的位置打开终端，并按顺序运行以下命令。首先，你需要安装 ure 包，其次是核心包，然后是所有的基本包。最后，就是主要的 LibreOffice 软件包。下面是一组典型的命令。你需要更改为具体版本的版本号。
@@ -79,13 +79,13 @@ sudo dpkg -i libreoffice7.0*
 如果你使用的是 Fedora Linux 或 Red Hat Linux，请按照上述相同的顺序使用 [dnf 命令](https://www.debugpoint.com/dnf-commands-examples/)。
 
 
-![Install LibreOffice via dpkg](/Asserts/Images//attachment/album/202211/21/232223x3y2yyiyi8wzwyn8.jpg)
+![Install LibreOffice via dpkg](/Asserts/Images/album/202211/21/232223x3y2yyiyi8wzwyn8.jpg)
 
 
 等待安装完成。完成后，你可以通过应用程序菜单找到 LibreOffice。
 
 
-![Latest LibreOffice in Menu](/Asserts/Images//attachment/album/202211/21/232229zhys9yzt7pthhhhy.jpg)
+![Latest LibreOffice in Menu](/Asserts/Images/album/202211/21/232229zhys9yzt7pthhhhy.jpg)
 
 
 这应该完成安装最新 LibreOffice 的步骤。如果你不想遵循上述方法，请参阅以下选项。
@@ -116,7 +116,7 @@ sudo apt install libreoffice
 安装后，你可以通过 Dash 搜索启动 LibreOffice。
 
 
-![LibreOffice 5.4.2 Running in Ubuntu](/Asserts/Images//attachment/album/202211/21/232139h8uxrr66yuww70ee.png)
+![LibreOffice 5.4.2 Running in Ubuntu](/Asserts/Images/album/202211/21/232139h8uxrr66yuww70ee.png)
 
 
 ### 通过 Snap 和 Flatpak 安装

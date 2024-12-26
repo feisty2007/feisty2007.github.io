@@ -15,7 +15,7 @@ tags:	[linuxcn,ASLR,缓冲区溢出,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/201903/05/224044mgokbgytvhhldo6i.jpg)
+![](/Asserts/Images/album/201903/05/224044mgokbgytvhhldo6i.jpg)
 
 
 <ruby> 地址空间随机化 <rt>  Address Space Layout Randomization </rt></ruby>（ASLR）是一种操作系统用来抵御缓冲区溢出攻击的内存保护机制。这种技术使得系统上运行的进程的内存地址无法被预测，使得与这些进程有关的漏洞变得更加难以利用。

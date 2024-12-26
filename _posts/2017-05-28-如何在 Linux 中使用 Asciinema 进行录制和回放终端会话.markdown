@@ -7,7 +7,7 @@ tags:	[linuxcn,终端,记录]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/18/115905cc2jzzn9a09ep2f9.jpg)
+![](/Asserts/Images/album/201705/18/115905cc2jzzn9a09ep2f9.jpg)
 
 
 ### 简介

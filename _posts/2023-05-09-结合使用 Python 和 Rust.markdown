@@ -7,7 +7,7 @@ tags:	[linuxcn,Rust,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/26/163350snf627fx05ynz71j.jpg)
+![](/Asserts/Images/album/202305/26/163350snf627fx05ynz71j.jpg)
 
 
 

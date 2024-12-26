@@ -7,7 +7,7 @@ tags:	[linuxcn,Conky,Linux,桌面,工具]
 ---
 
 
-![](/Asserts/Images//attachment/album/201402/17/144516clcxwkwvwvtftcck.jpg)
+![](/Asserts/Images/album/201402/17/144516clcxwkwvwvtftcck.jpg)
 
 
 **俗话说得好，‘力量越大，责任越大’ - 至少在Conky这个Linux的多功能的系统监视工具上面是完全正确的。**
@@ -16,7 +16,7 @@ tags:	[linuxcn,Conky,Linux,桌面,工具]
 一方面它特性强大，灵活性强，另一方面它的设置比较麻烦。
 
 
-![Several themes and modes are included](/Asserts/Images//attachment/album/201402/17/144524a4ravyi134y7w3gi.png)
+![Several themes and modes are included](/Asserts/Images/album/201402/17/144524a4ravyi134y7w3gi.png)
 
 
 **Conky Harmattan**，一个来源于deviantArt用户Zagortenay333的新的主题收集器，同样也不例外。虽然屏幕截图显示的是一个能打动大多数人的时尚桌面小工具，但看到了解到它的复杂配置后估计会吓跑许多人了。

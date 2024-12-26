@@ -7,7 +7,7 @@ tags:	[linuxcn,版本控制,Git]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/30/102343s54t1i5h28gz4nn4.jpg)
+![](/Asserts/Images/album/201705/30/102343s54t1i5h28gz4nn4.jpg)
 
 
 对 Git 仓库的维护通常是为了减少仓库的大小。如果你从另外一个版本控制系统导入了一个仓库，你可能需要在导入后清除掉不必要的文件。本文着重于从一个 Git 仓库中删除大文件，并且包含下列主题：

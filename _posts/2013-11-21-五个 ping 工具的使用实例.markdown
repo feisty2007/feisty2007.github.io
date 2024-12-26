@@ -28,7 +28,7 @@ ping www.omgubuntu.com
 
 ```
 
-![](/Asserts/Images//attachment/album/201311/26/235126jyhfyyfjhx9p5hhj.png)
+![](/Asserts/Images/album/201311/26/235126jyhfyyfjhx9p5hhj.png)
 
 
 ### 查询正在使用的ping工具的版本信息
@@ -46,7 +46,7 @@ ping -V
 正如你从图二见到的，我正在使用的是“ping utility,iputils-sss20101006”
 
 
-![](/Asserts/Images//attachment/album/201311/26/235127qcl3cynklpotykc0.png)
+![](/Asserts/Images/album/201311/26/235127qcl3cynklpotykc0.png)
 
 
 ### 自动退出 ping
@@ -64,7 +64,7 @@ ping -c 13 127.0.0.1
 上列的命令发送了13个包到我的本地主机上。
 
 
-![](/Asserts/Images//attachment/album/201311/26/235148ffhztzg336zwhtz3.png)
+![](/Asserts/Images/album/201311/26/235148ffhztzg336zwhtz3.png)
 
 
 正如你从图三看到的，我并没有按CTRL+C，而ping自动退出了。
@@ -85,7 +85,7 @@ ping -i 0.13
 
 ```
 
-![](/Asserts/Images//attachment/album/201311/26/235153dmax1a91nqilli6x.png)
+![](/Asserts/Images/album/201311/26/235153dmax1a91nqilli6x.png)
 
 
 ### 每13秒发送一个包
@@ -109,7 +109,7 @@ ping -c 13 -i 3
 总共花费39秒发出13个数据包，数据包的时间间隔为三秒。
 
 
-![](/Asserts/Images//attachment/album/201311/26/235154fikofp9eot6tlt4t.png)
+![](/Asserts/Images/album/201311/26/235154fikofp9eot6tlt4t.png)
 
 
 

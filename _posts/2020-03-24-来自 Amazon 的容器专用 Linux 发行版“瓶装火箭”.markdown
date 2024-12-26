@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,AWS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202003/21/074953h0a55lq72h0qlpzd.jpg)
+![](/Asserts/Images/album/202003/21/074953h0a55lq72h0qlpzd.jpg)
 
 
 Amazon 已经[推出](https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/)了自己的基于 Linux 的开源操作系统 Bottlerocket（“瓶装火箭”）。但在你兴奋地想要尝试安装和运行它之前，我必须告诉你，它不是常规的如 Ubuntu、Fedora 或 Debian 这样的 Linux 发行版。那它是什么？
@@ -16,7 +16,7 @@ Amazon 已经[推出](https://aws.amazon.com/blogs/aws/bottlerocket-open-source-
 ### Bottlerocket：来自 Amazon 的 Linux 发行版，用于运行容器
 
 
-![](/Asserts/Images//attachment/album/202003/21/075058r37fllhff4lcuzeh.png)
+![](/Asserts/Images/album/202003/21/075058r37fllhff4lcuzeh.png)
 
 
 如果你不了解 Linux 容器，建议你阅读 Red Hat 的[这篇文章](https://www.redhat.com/en/topics/containers/whats-a-linux-container)。
@@ -34,7 +34,7 @@ Amazon 已经[推出](https://aws.amazon.com/blogs/aws/bottlerocket-open-source-
 ### Bottlerocket Linux 的特性
 
 
-![](/Asserts/Images//attachment/album/202003/21/075059m0z840008884q8oz.png)
+![](/Asserts/Images/album/202003/21/075059m0z840008884q8oz.png)
 
 
 这是来自 Amazon 的新 Linux 发行版提供的特性：

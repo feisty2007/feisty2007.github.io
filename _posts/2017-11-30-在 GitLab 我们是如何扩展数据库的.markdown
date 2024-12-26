@@ -7,7 +7,7 @@ tags:	[linuxcn,数据库,PostgreSQL,GitLab]
 ---
 
 
-![](/Asserts/Images//attachment/album/201711/11/141056bqycq96dnyy9qumh.jpg)
+![](/Asserts/Images/album/201711/11/141056bqycq96dnyy9qumh.jpg)
 
 
 
@@ -42,7 +42,7 @@ tags:	[linuxcn,数据库,PostgreSQL,GitLab]
 在 PostgreSQL 中，一个连接是通过启动一个操作系统进程来处理的，这反过来又需要大量的资源，更多的连接（及这些进程）将使用你的数据库上的更多的资源。 PostgreSQL 也在 [max\_connections](https://www.postgresql.org/docs/9.6/static/runtime-config-connection.html#GUC-MAX-CONNECTIONS) 设置中定义了一个强制的最大连接数量。一旦达到这个限制，PostgreSQL 将拒绝新的连接， 比如，下面的图表示的设置：
 
 
-![](/Asserts/Images//attachment/album/201711/11/141546l6n67tu6jz642x69.jpg)
+![](/Asserts/Images/album/201711/11/141546l6n67tu6jz642x69.jpg)
 
 
 这里我们的客户端直接连接到 PostgreSQL，这样每个客户端请求一个连接。
@@ -51,7 +51,7 @@ tags:	[linuxcn,数据库,PostgreSQL,GitLab]
 通过连接池，我们可以有多个客户端侧的连接重复使用一个 PostgreSQL 连接。例如，没有连接池时，我们需要 100 个 PostgreSQL 连接去处理 100 个客户端连接；使用连接池后，我们仅需要 10 个，或者依据我们配置的 PostgreSQL 连接。这意味着我们的连接图表将变成下面看到的那样：
 
 
-![](/Asserts/Images//attachment/album/201711/11/141554m6m5sucrsf93f3ef.jpg)
+![](/Asserts/Images/album/201711/11/141554m6m5sucrsf93f3ef.jpg)
 
 
 这里我们展示了一个示例，四个客户端连接到 pgbouncer，但不是使用了四个 PostgreSQL 连接，而是仅需要两个。
@@ -239,17 +239,17 @@ OR pg_xlog_location_diff(pg_last_xlog_replay_location(), WAL-POINTER) >= 0 AS re
 更多信息你可以查看 GitLab EE 上的源代码：
 
 
-* <https://gitlab.com/gitlab-org/gitlab-ee/tree/master/lib/gitlab/Asserts/Images/base/load_balancing.rb>
-* <https://gitlab.com/gitlab-org/gitlab-ee/tree/master/lib/gitlab/Asserts/Images/base/load_balancing>
+* <https://gitlab.com/gitlab-org/gitlab-ee/tree/master/lib/gitlab/database/load_balancing.rb>
+* <https://gitlab.com/gitlab-org/gitlab-ee/tree/master/lib/gitlab/database/load_balancing>
 
 
-数据库负载均衡首次引入是在 GitLab 9.0 中，并且 *仅* 支持 PostgreSQL。更多信息可以在 [9.0 release post](https://about.gitlab.com/2017/03/22/gitlab-9-0-released/) 和 [documentation](https://docs.gitlab.com/ee/administration/Asserts/Images/base_load_balancing.html) 中找到。
+数据库负载均衡首次引入是在 GitLab 9.0 中，并且 *仅* 支持 PostgreSQL。更多信息可以在 [9.0 release post](https://about.gitlab.com/2017/03/22/gitlab-9-0-released/) 和 [documentation](https://docs.gitlab.com/ee/administration/database_load_balancing.html) 中找到。
 
 
 ### Crunchy Data
 
 
-我们与 [Crunchy Data](https://www.crunchydata.com/) 一起协同工作来部署连接池和负载均衡。不久之前我还是唯一的 [数据库专家](https://about.gitlab.com/handbook/infrastructure/Asserts/Images/base/)，它意味着我有很多工作要做。此外，我对 PostgreSQL 的内部细节的和它大量的设置所知有限 (或者至少现在是)，这意味着我能做的也有限。因为这些原因，我们雇用了 Crunchy 去帮我们找出问题、研究慢查询、建议模式优化、优化 PostgreSQL 设置等等。
+我们与 [Crunchy Data](https://www.crunchydata.com/) 一起协同工作来部署连接池和负载均衡。不久之前我还是唯一的 [数据库专家](https://about.gitlab.com/handbook/infrastructure/database/)，它意味着我有很多工作要做。此外，我对 PostgreSQL 的内部细节的和它大量的设置所知有限 (或者至少现在是)，这意味着我能做的也有限。因为这些原因，我们雇用了 Crunchy 去帮我们找出问题、研究慢查询、建议模式优化、优化 PostgreSQL 设置等等。
 
 
 在合作期间，大部分工作都是在相互信任的基础上完成的，因此，我们共享私人数据，比如日志。在合作结束时，我们从一些资料和公开的内容中删除了敏感数据，主要的资料在 [gitlab-com/infrastructure#1448](https://gitlab.com/gitlab-com/infrastructure/issues/1448)，这又反过来导致产生和解决了许多分立的问题。
@@ -267,7 +267,7 @@ OR pg_xlog_location_diff(pg_last_xlog_replay_location(), WAL-POINTER) >= 0 AS re
 整合连接池和数据库负载均衡可以让我们去大幅减少运行数据库集群所需要的资源和在分发到热备机上的负载。例如，以前我们的主服务器 CPU 使用率一直徘徊在 70%，现在它一般在 10% 到 20% 之间，而我们的两台热备机服务器则大部分时间在 20% 左右：
 
 
-![CPU Percentage](/Asserts/Images//attachment/album/201711/11/141057u8e1omgqle3q5ge1.png)
+![CPU Percentage](/Asserts/Images/album/201711/11/141057u8e1omgqle3q5ge1.png)
 
 
 在这里， `db3.cluster.gitlab.com` 是我们的主服务器，而其它的两台是我们的次级服务器。
@@ -276,13 +276,13 @@ OR pg_xlog_location_diff(pg_last_xlog_replay_location(), WAL-POINTER) >= 0 AS re
 其它的负载相关的因素，如平均负载、磁盘使用、内存使用也大为改善。例如，主服务器现在的平均负载几乎不会超过 10，而不像以前它一直徘徊在 20 左右：
 
 
-![CPU Percentage](/Asserts/Images//attachment/album/201711/11/141057oezcimd2d77k8wpu.png)
+![CPU Percentage](/Asserts/Images/album/201711/11/141057oezcimd2d77k8wpu.png)
 
 
 在业务繁忙期间，我们的次级服务器每秒事务数在 12000 左右（大约为每分钟 740000），而主服务器每秒事务数在 6000 左右（大约每分钟 340000）：
 
 
-![Transactions Per Second](/Asserts/Images//attachment/album/201711/11/141058o7zm773axqfqxa8m.png)
+![Transactions Per Second](/Asserts/Images/album/201711/11/141058o7zm773axqfqxa8m.png)
 
 
 可惜的是，在部署 pgbouncer 和我们的数据库负载均衡器之前，我们没有关于事务速率的任何数据。
@@ -312,7 +312,7 @@ OR pg_xlog_location_diff(pg_last_xlog_replay_location(), WAL-POINTER) >= 0 AS re
 值得一提的是，到目前为止，我们还没有任何计划将我们的负载均衡解决方案，独立打包成一个你可以在 GitLab 之外使用的库，相反，我们的重点是为 GitLab EE 提供一个可靠的负载均衡解决方案。
 
 
-如果你对它感兴趣，并喜欢使用数据库、改善应用程序性能、给 GitLab上增加数据库相关的特性（比如： [服务发现](https://gitlab.com/gitlab-org/gitlab-ee/issues/2042)），你一定要去查看一下我们的 [招聘职位](https://about.gitlab.com/jobs/specialist/Asserts/Images/base/) 和 [数据库专家手册](https://about.gitlab.com/handbook/infrastructure/Asserts/Images/base/) 去获取更多信息。
+如果你对它感兴趣，并喜欢使用数据库、改善应用程序性能、给 GitLab上增加数据库相关的特性（比如： [服务发现](https://gitlab.com/gitlab-org/gitlab-ee/issues/2042)），你一定要去查看一下我们的 [招聘职位](https://about.gitlab.com/jobs/specialist/database/) 和 [数据库专家手册](https://about.gitlab.com/handbook/infrastructure/database/) 去获取更多信息。
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,LXD,容器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201712/25/134247vu4yiw2jpk1akijw.jpg)
+![](/Asserts/Images/album/201712/25/134247vu4yiw2jpk1akijw.jpg)
 
 
 **Q：我正在使用基于 LXD（“Linux 容器”）的虚拟机。如何在 Linux 系统中启动时自动启动 LXD 容器？**
@@ -112,7 +112,7 @@ done
 示例输出：
 
 
-![Fig.01: Get autostarting LXD containers values using a bash shell script](/Asserts/Images//attachment/album/201712/25/134251v6wmzhrrsj3cc82z.jpg)
+![Fig.01: Get autostarting LXD containers values using a bash shell script](/Asserts/Images/album/201712/25/134251v6wmzhrrsj3cc82z.jpg)
 
 
 

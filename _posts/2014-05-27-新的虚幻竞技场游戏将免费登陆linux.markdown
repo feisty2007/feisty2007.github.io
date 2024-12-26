@@ -7,7 +7,7 @@ tags:	[linuxcn,虚幻竞技场,Unreal]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/12/094300g117lwz30c171xbb.jpg)
+![](/Asserts/Images/album/201405/12/094300g117lwz30c171xbb.jpg)
 
 
 Epic Games宣布下一款虚幻竞技场系列游戏将会支持Linux, Windows,以及Mac OS X三个系统平台，并且可以免费获得。

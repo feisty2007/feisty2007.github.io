@@ -7,7 +7,7 @@ tags:	[linuxcn,升级,yum,dnf]
 ---
 
 
-![](/Asserts/Images//attachment/album/201801/18/094229orftygtv7zdnlkmf.png)
+![](/Asserts/Images/album/201801/18/094229orftygtv7zdnlkmf.png)
 
 
 为服务器打补丁是 Linux 系统管理员的一项重要任务，为的是让系统更加稳定，性能更加优化。厂商经常会发布一些安全/高危的补丁包，相关软件需要升级以防范潜在的安全风险。

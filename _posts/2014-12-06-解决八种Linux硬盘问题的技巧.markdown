@@ -10,7 +10,7 @@ tags:	[linuxcn,硬盘,故障]
 不能在Linux或者类UNIX系统的硬盘上写入数据？想解决服务器上磁盘损坏的问题吗？想知道你为什么总是在屏幕上看到“磁盘已满”的字眼吗？想学习处理这些问题的办法吗？试试一下这8个解决Linux及UNIX服务器硬盘问题的小贴士吧。
 
 
-![](/Asserts/Images//attachment/album/201412/01/210833dhfbd610uh067dh1.jpg)
+![](/Asserts/Images/album/201412/01/210833dhfbd610uh067dh1.jpg)
 
 
 ### #1 - 错误: 设备上无剩余空间
@@ -240,7 +240,7 @@ smartctl -a /dev/sda
 你也可以用"Disk Utility"这个软件来获得同样的信息。
 
 
-[![](/Asserts/Images//attachment/album/201412/01/210842m1mt1zpyffq57u1q.png)](http://www.cyberciti.biz/tips/linux-find-out-if-harddisk-failing.html)
+[![](/Asserts/Images/album/201412/01/210842m1mt1zpyffq57u1q.png)](http://www.cyberciti.biz/tips/linux-find-out-if-harddisk-failing.html)
 
 
 图 01: Gnome磁盘工具(Applications > System Tools > Disk Utility)
@@ -270,7 +270,7 @@ hddtemp /dev/sg0
 部分输出内容如下：
 
 
-[![](/Asserts/Images//attachment/album/201412/01/210843g82634jq6j8gt2yf.jpg)](http://www.cyberciti.biz/Asserts/Images/center/linux-unix-bsd-osx-cannot-write-to-hard-disk/attachment/hddtemp-on-rhel/)
+[![](/Asserts/Images/album/201412/01/210843g82634jq6j8gt2yf.jpg)](http://www.cyberciti.biz/datacenter/linux-unix-bsd-osx-cannot-write-to-hard-disk/attachment/hddtemp-on-rhel/)
 
 
 图 02: hddtemp正在运行
@@ -300,7 +300,7 @@ sensors
 Debian服务器的部分输出内容：
 
 
-[![](/Asserts/Images//attachment/album/201412/01/210845f3r4lz8v5pvzvebm.jpg)](http://www.cyberciti.biz/Asserts/Images/center/linux-unix-bsd-osx-cannot-write-to-hard-disk/attachment/sensors-command-on-debian-server/)
+[![](/Asserts/Images/album/201412/01/210845f3r4lz8v5pvzvebm.jpg)](http://www.cyberciti.biz/datacenter/linux-unix-bsd-osx-cannot-write-to-hard-disk/attachment/sensors-command-on-debian-server/)
 
 
 图 03: sensors命令提供了一台Linux计算机的CPU核心温度和其它信息
@@ -342,7 +342,7 @@ watch cat /proc/mdstat
 部分输出内容：
 
 
-[![](/Asserts/Images//attachment/album/201412/01/210846dvqii8udxhia38l8.jpg)](http://www.cyberciti.biz/Asserts/Images/center/linux-unix-bsd-osx-cannot-write-to-hard-disk/attachment/linux-mdstat-output/)
+[![](/Asserts/Images/album/201412/01/210846dvqii8udxhia38l8.jpg)](http://www.cyberciti.biz/datacenter/linux-unix-bsd-osx-cannot-write-to-hard-disk/attachment/linux-mdstat-output/)
 
 
 图 04: 查看Linux软阵列状态命令
@@ -431,7 +431,7 @@ tw_cli /c0 show
 ---
 
 
-via: <http://www.cyberciti.biz/Asserts/Images/center/linux-unix-bsd-osx-cannot-write-to-hard-disk/>
+via: <http://www.cyberciti.biz/datacenter/linux-unix-bsd-osx-cannot-write-to-hard-disk/>
 
 
 作者：[nixCraft](http://www.cyberciti.biz/tips/about-us) 译者：[ZTinoZ](https://github.com/ZTinoZ) 校对：[wxy](https://github.com/wxy)

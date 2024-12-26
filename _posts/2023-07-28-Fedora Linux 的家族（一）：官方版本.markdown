@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/31/091317uqdzd48u2nuqdt26.jpg)
+![](/Asserts/Images/album/202307/31/091317uqdzd48u2nuqdt26.jpg)
 
 
 Fedora Linux 提供了多个变体以满足你的需求。你可以在我之前的文章《[Fedora Linux 的各种版本](/article-15003-1.html)》中找到所有 Fedora Linux 变体的概述。本文将对 Fedora Linux 官方版本进行更详细的介绍。共有五个 <ruby> 版本 <rt>  Edition </rt></ruby>： Fedora Workstation、Fedora Server、Fedora IoT、Fedora CoreOS 和 Fedora Silverblue。Fedora Linux 下载页面目前显示其中三个为 *官方* 版本，另外两个为 *新兴* 版本。本文将涵盖所有五个版本。

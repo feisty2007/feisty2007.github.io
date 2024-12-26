@@ -19,19 +19,19 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 窗口管理器的 Alt + Tab 对话框现已全面更换主题，还增加了两个新的模式： 列表模式和窗口预览模式。此外用户可以使用鼠标点击选择想要切换的窗口。
 
 
-![tabwin-simple-crop](/Asserts/Images//attachment/album/201503/02/230919dtrn66lc6v7lj7gl.png)
+![tabwin-simple-crop](/Asserts/Images/album/201503/02/230919dtrn66lc6v7lj7gl.png)
 
 
 *传统的对话框现已更换全新主题*
 
 
-![tabwin-list-crop](/Asserts/Images//attachment/album/201503/02/230920r41d4q2obb2lol1s.png)
+![tabwin-list-crop](/Asserts/Images/album/201503/02/230920r41d4q2obb2lol1s.png)
 
 
 *列表模式会显示全部窗口的标题*
 
 
-![tabwin-preview-crop](/Asserts/Images//attachment/album/201503/02/230921j07nzy062ungzcng.png)
+![tabwin-preview-crop](/Asserts/Images/album/201503/02/230921j07nzy062ungzcng.png)
 
 
 *缩略图模式*
@@ -46,13 +46,13 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 对客户端装饰 (CSDs) 的支持进行了改进。现在可以正确的对齐桌面和面板的边框，窗口的完美拼接，甚至包括了阴影。
 
 
-![xfwm4-csd](/Asserts/Images//attachment/album/201503/02/230921kuyn9rnnl4djd24n.png)
+![xfwm4-csd](/Asserts/Images/album/201503/02/230921kuyn9rnnl4djd24n.png)
 
 
 *Gtk3 应用及其装饰由客户端进行绘制*
 
 
-![xfwm4-tiling-small](/Asserts/Images//attachment/album/201503/02/230922dycccwuqzjqjzz9c.png)
+![xfwm4-tiling-small](/Asserts/Images/album/201503/02/230922dycccwuqzjqjzz9c.png)
 
 
 *将窗口拖放到角落以拼接它*
@@ -76,19 +76,19 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 当窗口拖放到面板附近时，面板会智能隐藏。
 
 
-![panel-shown](/Asserts/Images//attachment/album/201503/02/230922l0gxzycyzprrrrmt.png)
+![panel-shown](/Asserts/Images/album/201503/02/230922l0gxzycyzprrrrmt.png)
 
 
 *厄？这窗口是干嘛的？！*
 
 
-![panel-shown-stack](/Asserts/Images//attachment/album/201503/02/230923n3lmmqzxelelyrmm.png)
+![panel-shown-stack](/Asserts/Images/album/201503/02/230923n3lmmqzxelelyrmm.png)
 
 
 *别离我这么近！*
 
 
-![panel-hidden](/Asserts/Images//attachment/album/201503/02/230923yuhgxxdbx2ws0n34.png)
+![panel-hidden](/Asserts/Images/album/201503/02/230923yuhgxxdbx2ws0n34.png)
 
 
 *哈！这下你看不见我了吧！*
@@ -106,7 +106,7 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 新的壁纸设置对话框有许多新选项，对多显示器支持更好。要修改哪个显示器或工作空间的墙纸，只需要将壁纸设置对话框拖到那里即可。
 
 
-![xfdesktop-properties-multiworkspace](/Asserts/Images//attachment/album/201503/02/230924hqf339sd49c69wfd.png)
+![xfdesktop-properties-multiworkspace](/Asserts/Images/album/201503/02/230924hqf339sd49c69wfd.png)
 
 
 *更好的多显示器支持*
@@ -124,13 +124,13 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 在显示设置对话框里面对多显示器的支持大为改进。当连接了一个新的显示器时，就会弹出一个快速设置对话框来设置一些常用模式。
 
 
-![xfce4-display-settings-twoscreens](/Asserts/Images//attachment/album/201503/02/230924obulbt9lr2942s9y.png)
+![xfce4-display-settings-twoscreens](/Asserts/Images/album/201503/02/230924obulbt9lr2942s9y.png)
 
 
 *配置多显示器*
 
 
-![xfce4-display-layout](/Asserts/Images//attachment/album/201503/02/230925rrys8bkmdfgbxg8c.png)
+![xfce4-display-layout](/Asserts/Images/album/201503/02/230925rrys8bkmdfgbxg8c.png)
 
 
 *选择新显示器的使用方式*
@@ -142,13 +142,13 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 外观设置对话框现在展示了风格和图标的预览。
 
 
-![xfce4-appearance-settings-style](/Asserts/Images//attachment/album/201503/02/230925dj6c16juiicze6jn.png)
+![xfce4-appearance-settings-style](/Asserts/Images/album/201503/02/230925dj6c16juiicze6jn.png)
 
 
 *Gtk 风格预览*
 
 
-![xfce4-appearance-settings-icons](/Asserts/Images//attachment/album/201503/02/230926wo9j0qj72qq1y80p.png)
+![xfce4-appearance-settings-icons](/Asserts/Images/album/201503/02/230926wo9j0qj72qq1y80p.png)
 
 
 *图标主题预览*
@@ -166,7 +166,7 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 有一个新的面板插件可以让你通过菜单或在插件上使用鼠标滚轮来快速调整屏幕亮度。这个插件的菜单也会展示其它已连接设备的电源状态，比如蓝牙键盘、无线鼠标。通过它还可以快速切换到演示模式下，在这种模式下会关闭屏幕保护。
 
 
-![xfpm-plugin-crop](/Asserts/Images//attachment/album/201503/02/230926byo5hhqafbf37bn8.png)
+![xfpm-plugin-crop](/Asserts/Images/album/201503/02/230926byo5hhqafbf37bn8.png)
 
 
 *在该插件的菜单上可以控制屏幕亮度和查看电池可用时长*
@@ -178,25 +178,25 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 设置对话框完全重构了（在系统和显示的操作里面分离了电源按钮和笔记本盖子两种动作），设置更加清晰。
 
 
-![xfpm-prefs-general](/Asserts/Images//attachment/album/201503/02/230927lqkskz7m3g3l6ydg.png)
+![xfpm-prefs-general](/Asserts/Images/album/201503/02/230927lqkskz7m3g3l6ydg.png)
 
 
 *可以分别设置按下电源按钮和合上笔记本盖子时所采取的操作*
 
 
-![xfpm-prefs-system](/Asserts/Images//attachment/album/201503/02/230927vtgfuf0kjzfu4uut.png)
+![xfpm-prefs-system](/Asserts/Images/album/201503/02/230927vtgfuf0kjzfu4uut.png)
 
 
 *配置用户长久不操作或电池快用尽时的操作*
 
 
-![xfpm-prefs-devices](/Asserts/Images//attachment/album/201503/02/230928vzg292qg8c0z234z.png)
+![xfpm-prefs-devices](/Asserts/Images/album/201503/02/230928vzg292qg8c0z234z.png)
 
 
 *显示所有已连接设备的信息*
 
 
-![xfpm-prefs-display](/Asserts/Images//attachment/album/201503/02/230928kibokbfi3b6b2kbu.png)
+![xfpm-prefs-display](/Asserts/Images/album/201503/02/230928kibokbfi3b6b2kbu.png)
 
 
 *显示器的电源管理*
@@ -208,7 +208,7 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 如果支持轻度锁定，你可以通过电源管理器来直接控制轻度锁定设置。
 
 
-![xfpm-prefs-security](/Asserts/Images//attachment/album/201503/02/230928v939yjc8uga8yah9.png)
+![xfpm-prefs-security](/Asserts/Images/album/201503/02/230928v939yjc8uga8yah9.png)
 
 
 *设置轻度锁定*
@@ -223,7 +223,7 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 一个等了很久的功能：现在你可以在一个 Thunar 窗口里面打开多个文件夹。
 
 
-![thunar-tabs](/Asserts/Images//attachment/album/201503/02/230929mlbilysaszvrwulh.png)
+![thunar-tabs](/Asserts/Images/album/201503/02/230929mlbilysaszvrwulh.png)
 
 
 *浏览多个文件夹*
@@ -232,7 +232,7 @@ Xfce 4.12 经过漫长的等待终于发布了，这里向您介绍一下 Xfce 4
 Thunar 现在可以在文件夹属性对话框里面以条形图显示该文件夹的可用空间比例。
 
 
-![thunar-freespace](/Asserts/Images//attachment/album/201503/02/230929nyjege6glzlee3t0.png)
+![thunar-freespace](/Asserts/Images/album/201503/02/230929nyjege6glzlee3t0.png)
 
 
 *可用空间条*
@@ -241,7 +241,7 @@ Thunar 现在可以在文件夹属性对话框里面以条形图显示该文件�
 你也可以选择多个文件一起查看其属性。
 
 
-![thunar-multifiles-props](/Asserts/Images//attachment/album/201503/02/230930ik4cs46gxg7szsps.png)
+![thunar-multifiles-props](/Asserts/Images/album/201503/02/230930ik4cs46gxg7szsps.png)
 
 
 *多文件属性*
@@ -259,13 +259,13 @@ Thunar 现在可以在文件夹属性对话框里面以条形图显示该文件�
 whisker 菜单是传统菜单插件的一个替代品，它可以显示收藏、搜索应用等等。
 
 
-![whiskermenu-default](/Asserts/Images//attachment/album/201503/02/230930l855jkw55x5h5xpa.png)
+![whiskermenu-default](/Asserts/Images/album/201503/02/230930l855jkw55x5h5xpa.png)
 
 
 *按类别浏览*
 
 
-![whiskermenu-search](/Asserts/Images//attachment/album/201503/02/230931lemy9ez2s8k9apmm.png)
+![whiskermenu-search](/Asserts/Images/album/201503/02/230931lemy9ez2s8k9apmm.png)
 
 
 *搜索应用*
@@ -277,13 +277,13 @@ whisker 菜单是传统菜单插件的一个替代品，它可以显示收藏、
 任务管理器的用户界面修改了，增加了一个过滤器，也支持 Gtk3了。
 
 
-![taskman-tree](/Asserts/Images//attachment/album/201503/02/230931mvmeowwrw6pr675z.png)
+![taskman-tree](/Asserts/Images/album/201503/02/230931mvmeowwrw6pr675z.png)
 
 
 *以树形显示进程*
 
 
-![taskman-filter](/Asserts/Images//attachment/album/201503/02/230932qa73vddtiwwvtywl.png)
+![taskman-filter](/Asserts/Images/album/201503/02/230932qa73vddtiwwvtywl.png)
 
 
 *按进程名筛选*
@@ -295,7 +295,7 @@ whisker 菜单是传统菜单插件的一个替代品，它可以显示收藏、
 Parole 的 UI 已经用 Gtk3 重新开发。现在支持多种视频后端，可以更有效的使用系统资源，包含了一些新的插件。
 
 
-![parole](/Asserts/Images//attachment/album/201503/02/230933s4ahat6q48h5b4f1.png)
+![parole](/Asserts/Images/album/201503/02/230933s4ahat6q48h5b4f1.png)
 
 
 *观看视频*
@@ -304,7 +304,7 @@ Parole 的 UI 已经用 Gtk3 重新开发。现在支持多种视频后端，可
 媒体控制现在覆盖在窗口边缘（可以配置隐藏超时）。
 
 
-![parole-audio](/Asserts/Images//attachment/album/201503/02/230935sgc35twcqy17qlqp.png)
+![parole-audio](/Asserts/Images/album/201503/02/230935sgc35twcqy17qlqp.png)
 
 
 *听歌*
@@ -316,7 +316,7 @@ Parole 的 UI 已经用 Gtk3 重新开发。现在支持多种视频后端，可
 Mousepad 整个重写了，有了一个设置对话框，支持 Gtk3。
 
 
-![mousepad-prefs](/Asserts/Images//attachment/album/201503/02/230935lwtpglwwga2wnd2i.png)
+![mousepad-prefs](/Asserts/Images/album/201503/02/230935lwtpglwwga2wnd2i.png)
 
 
 *新的 mousepad 设置对话框*

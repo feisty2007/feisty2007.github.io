@@ -15,7 +15,7 @@ tags:	[linuxcn,Kubernetes]
 > 
 
 
-![](/Asserts/Images//attachment/album/202011/16/132219hn9q9dszudbdtn35.jpg)
+![](/Asserts/Images/album/202011/16/132219hn9q9dszudbdtn35.jpg)
 
 
 [Kubernetes](https://kubernetes.io/) 是一个开源的容器编排平台。它由 Google 开发，为自动化部署、扩展和管理容器化应用提供了一个开源系统。虽然大多数人在云环境中运行 Kubernetes，但在本地运行 Kubernetes 集群不仅是可能的，它还至少有两个好处：
@@ -40,7 +40,7 @@ tags:	[linuxcn,Kubernetes]
 ### Minikube
 
 
-![Minikube](/Asserts/Images//attachment/album/202011/16/132337nukudj3ujbp23pbm.jpg "Minikube")
+![Minikube](/Asserts/Images/album/202011/16/132337nukudj3ujbp23pbm.jpg "Minikube")
 
 
 [Minikube](https://minikube.sigs.k8s.io/docs/) 是在本地计算机上运行 Kubernetes 环境的最知名、最流行的选择。无论你使用什么操作系统，[Minikube 的文档](https://minikube.sigs.k8s.io/docs)都会为你提供一个简单的[安装](https://minikube.sigs.k8s.io/docs/start/)指南。一般来说，安装 Minikube 只需运行两条命令：
@@ -71,7 +71,7 @@ Minikube 可在 Linux、macOS 或 Windows 上快速设置本地 Kubernetes 集�
 ### kind
 
 
-![kind](/Asserts/Images//attachment/album/202011/16/132341ii5b5z2wp2pvrriu.jpg "kind")
+![kind](/Asserts/Images/album/202011/16/132341ii5b5z2wp2pvrriu.jpg "kind")
 
 
 [kind](https://kind.sigs.k8s.io) 的开发者将其描述为“一个使用 Docker 容器‘节点’运行本地 Kubernetes 集群的工具”。它是为测试 Kubernetes 而设计的，但也可能用于本地开发或持续集成。
@@ -92,7 +92,7 @@ kind 支持：
 ### CodeReady Container （CRC）
 
 
-![CodeReady Container](/Asserts/Images//attachment/album/202011/16/132349ah3dgsad3huadz4k.jpg "CodeReady Container")
+![CodeReady Container](/Asserts/Images/album/202011/16/132349ah3dgsad3huadz4k.jpg "CodeReady Container")
 
 
 如果你想在本地尝试最新版本的 OpenShift，可以尝试红帽的 [CodeReady Containers](https://code-ready.github.io/crc) （CRC）。CRC 将一个最小的 OpenShift 4.x 集群带到你的本地计算机上，为开发和测试目的提供一个最小的环境。CRC 主要针对开发者的桌面使用。
@@ -104,7 +104,7 @@ kind 支持：
 ### Minishift
 
 
-![Minishift](/Asserts/Images//attachment/album/202011/16/132353ya6o3aajvdanvdno.jpg "Minishift")
+![Minishift](/Asserts/Images/album/202011/16/132353ya6o3aajvdanvdno.jpg "Minishift")
 
 
 [Minishift](https://github.com/minishift/minishift) 项目帮助你在本地用 [OKD](https://www.okd.io/) 在虚拟机内的单节点 OpenShift 集群[运行一个版本的 OpenShift](https://www.redhat.com/sysadmin/kubernetes-cluster-laptop)。你可以用它来[尝试 OpenShift](https://www.redhat.com/sysadmin/learn-openshift-minishift)，或者在你的本地主机上为云开发。

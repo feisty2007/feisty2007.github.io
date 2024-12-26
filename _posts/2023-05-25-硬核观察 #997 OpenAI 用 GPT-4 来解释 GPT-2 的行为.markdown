@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,UFO,元宇宙]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/10/202803y5yiw70lyp40l9p1.jpg)
+![](/Asserts/Images/album/202305/10/202803y5yiw70lyp40l9p1.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/10/202817jv1wpppsnnf1jjfv.jpg)
+![](/Asserts/Images/album/202305/10/202817jv1wpppsnnf1jjfv.jpg)
 
 
 ### OpenAI 用 GPT-4 来解释 GPT-2 的行为
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,UFO,元宇宙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/10/202829azmtfo5ft0ybhzlt.jpg)
+![](/Asserts/Images/album/202305/10/202829azmtfo5ft0ybhzlt.jpg)
 
 
 ### 用开源和 AI 驱动的监测网来探索 UFO
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,UFO,元宇宙]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/10/202850xpnvk0ozee87icpk.jpg)
+![](/Asserts/Images/album/202305/10/202850xpnvk0ozee87icpk.jpg)
 
 
 ### 研究显示元宇宙对美国 GDP 的贡献将可达 2.4%

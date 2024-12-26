@@ -25,7 +25,7 @@ watch tail /var/log/syslog
 想要停止命令的执行,只要使用标准的kill流程, **[Ctrl]+C**。
 
 
-![使用Linux watch命令监测syslog](/Asserts/Images//attachment/album/201401/09/101331cgxukeukkr2l2x21.png) *使用Linux watch命令监测syslog*
+![使用Linux watch命令监测syslog](/Asserts/Images/album/201401/09/101331cgxukeukkr2l2x21.png) *使用Linux watch命令监测syslog*
 
 
 你可以使用**-n**开关改变并指定时间间隔。要想每10秒检测日志文件,试试这个。
@@ -81,7 +81,7 @@ watch -n1 "sensors | grep temp | awk '{ print $2 }'"
 
 ```
 
-![带管道的watch命令](/Asserts/Images//attachment/album/201401/09/101332ww7g1bkng1btg4gb.png) *带管道的watch命令*
+![带管道的watch命令](/Asserts/Images/album/201401/09/101332ww7g1bkng1btg4gb.png) *带管道的watch命令*
 
 
 ### 将watch作为时钟

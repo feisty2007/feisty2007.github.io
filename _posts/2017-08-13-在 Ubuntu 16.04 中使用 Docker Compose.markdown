@@ -7,7 +7,7 @@ tags:	[linuxcn,容器,Docker]
 ---
 
 
-![](/Asserts/Images//attachment/album/201708/02/140524jlue8l55rlerttnn.png)
+![](/Asserts/Images/album/201708/02/140524jlue8l55rlerttnn.png)
 
 
 ### 什么是 Docker Compose

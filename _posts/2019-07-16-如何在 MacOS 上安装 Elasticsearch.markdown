@@ -15,7 +15,7 @@ tags:	[linuxcn,Elasticsearch]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/20/064958dnnwvp8wqzqq4fm2.jpg)
+![](/Asserts/Images/album/201907/20/064958dnnwvp8wqzqq4fm2.jpg)
 
 
 [Elasticsearch](https://www.getapp.com/it-management-software/a/qbox-dot-io-hosted-elasticsearch/) 是一个用 Java 开发的开源全文搜索引擎。用户上传 JSON 格式的数据集。然后，Elasticsearch 在向集群索引中的文档添加可搜索的引用之前先保存原始文档。
@@ -45,7 +45,7 @@ Elasticsearch 创建还不到九年，但它是最受欢迎的企业搜索引擎
 1、进入 <https://www.elastic.co/downloads/elasticsearch>，你会看到下面的页面：
 
 
-![The Elasticsearch download page.](/Asserts/Images//attachment/album/201907/20/065017vv8c61wv8kvvvnov.png "The Elasticsearch download page.")
+![The Elasticsearch download page.](/Asserts/Images/album/201907/20/065017vv8c61wv8kvvvnov.png "The Elasticsearch download page.")
 
 
 2、在**下载**区，单击 **MacOS**，将 Elasticsearch TAR 文件（例如，`elasticsearch-7.1.1-darwin-x86_64.tar`）下载到 `Downloads` 文件夹。 3、双击此文件并解压到自己的文件夹中（例如，`elasticsearch-7.1.1`），这其中包含 TAR 中的所有文件。
@@ -83,7 +83,7 @@ $ ./elasticsearch
 这是我启动 Elasticsearch 1.1.0 时命令行终端显示的一些输出：
 
 
-![Terminal output when running Elasticsearch.](/Asserts/Images//attachment/album/201907/20/065020fbpv5zwske8gkwop.png "Terminal output when running Elasticsearch.")
+![Terminal output when running Elasticsearch.](/Asserts/Images/album/201907/20/065020fbpv5zwske8gkwop.png "Terminal output when running Elasticsearch.")
 
 
 **注意**：默认情况下，Elasticsearch 在前台运行，这可能会导致计算机速度变慢。按 `Ctrl-C` 可以阻止 Elasticsearch 运行。
@@ -104,7 +104,7 @@ $ ./elasticsearch
 3、打开名为 `elasticsearch-7.1.1` 的文件夹（对于此例）。出现了八个子文件夹。
 
 
-![The elasticsearch/bin menu.](/Asserts/Images//attachment/album/201907/20/065021iev3qa56j43jj36a.png "The elasticsearch/bin menu.")
+![The elasticsearch/bin menu.](/Asserts/Images/album/201907/20/065021iev3qa56j43jj36a.png "The elasticsearch/bin menu.")
 
 
 4、打开 `bin` 子文件夹。如上面的截图所示，此子文件夹中有 20 个文件。 5、单击第一个文件，即 `elasticsearch`。
@@ -113,7 +113,7 @@ $ ./elasticsearch
 请注意，你可能会收到安全警告，如下所示：
 
 
-![The security warning dialog box.](/Asserts/Images//attachment/album/201907/20/065021w1ze3cjneqctbc00.jpg "The security warning dialog box.")
+![The security warning dialog box.](/Asserts/Images/album/201907/20/065021w1ze3cjneqctbc00.jpg "The security warning dialog box.")
 
 
 这时候要打开程序需要：
@@ -124,18 +124,18 @@ $ ./elasticsearch
 3. 单击**安全和隐私**，打开如下窗口：
 
 
-![Where you can allow your computer to open the downloaded file.](/Asserts/Images//attachment/album/201907/20/065021c61nyx7hlb5h2vq7.jpg "Where you can allow your computer to open the downloaded file.")
+![Where you can allow your computer to open the downloaded file.](/Asserts/Images/album/201907/20/065021c61nyx7hlb5h2vq7.jpg "Where you can allow your computer to open the downloaded file.")
 4. 单击**永远打开**，打开如下所示的确认对话框：
 
 
-![Security confirmation dialog box.](/Asserts/Images//attachment/album/201907/20/065022xpap8g88w3md9uos.jpg "Security confirmation dialog box.")
+![Security confirmation dialog box.](/Asserts/Images/album/201907/20/065022xpap8g88w3md9uos.jpg "Security confirmation dialog box.")
 5. 单击**打开**。会打开一个终端窗口并启动 Elasticsearch。
 
 
 启动过程可能需要一段时间，所以让它继续运行。最终，它将完成，你最后将看到类似这样的输出：
 
 
-![Launching Elasticsearch in MacOS.](/Asserts/Images//attachment/album/201907/20/065022eigxpzvn31n3gzni.png "Launching Elasticsearch in MacOS.")
+![Launching Elasticsearch in MacOS.](/Asserts/Images/album/201907/20/065022eigxpzvn31n3gzni.png "Launching Elasticsearch in MacOS.")
 
 
 ### 了解更多

@@ -10,7 +10,7 @@ tags:	[linuxcn,AWS]
 AWS（Amazon Web Services）是全球领先的云服务器提供商之一。你可以使用 AWS 平台在一分钟内设置完服务器。在 AWS 上，你可以微调服务器的许多技术细节，如 CPU 数量，内存和磁盘空间，磁盘类型（更快的 SSD 或者经典的 IDE）等。关于 AWS 最好的一点是，你只需要为你使用到的服务付费。在开始之前，AWS 提供了一个名为 “Free Tier” 的特殊帐户，你可以免费使用一年的 AWS 技术服务，但会有一些小限制，例如，你每个月使用服务器时长不能超过 750 小时，超过这个他们就会向你收费。你可以在 [aws 官网](http://aws.amazon.com/free/)上查看所有相关的规则。
 
 
-![](/Asserts/Images//attachment/album/201703/18/060857cr3nm8dzf0mq2zz2.png)
+![](/Asserts/Images/album/201703/18/060857cr3nm8dzf0mq2zz2.png)
 
 
 因为我的这篇文章是关于在 AWS 上创建 Linux 服务器，因此拥有 “Free Tier” 帐户是先决条件。要注册帐户，你可以使用此[链接](http://aws.amazon.com/ec2/)。请注意，你需要在创建帐户时输入信用卡详细信息。
@@ -33,7 +33,7 @@ AWS（Amazon Web Services）是全球领先的云服务器提供商之一。你�
 AWS 控制台将如下所示：
 
 
-![Amazon AWS console](/Asserts/Images//attachment/album/201703/18/060916wft6mhapp6azzo5l.jpg)
+![Amazon AWS console](/Asserts/Images/album/201703/18/060916wft6mhapp6azzo5l.jpg)
 
 
 ### 在 AWS 中设置 Linux VM
@@ -42,19 +42,19 @@ AWS 控制台将如下所示：
 1、 创建一个 EC2（虚拟机）实例：在开始安装系统之前，你必须在 AWS 中创建一台虚拟机。要创建虚拟机，在“<ruby> 计算 <rt>  compute </rt></ruby>”菜单下点击 EC2：
 
 
-![Create an EC2 instance](/Asserts/Images//attachment/album/201703/18/060918ooff40af8jjt4po4.png)
+![Create an EC2 instance](/Asserts/Images/album/201703/18/060918ooff40af8jjt4po4.png)
 
 
 2、 现在在<ruby> 创建实例 <rt>  Create instance </rt></ruby>下点击<ruby> “启动实例” <rt>  Launch Instance </rt></ruby>按钮。
 
 
-![Launch the EC2 instance](/Asserts/Images//attachment/album/201703/18/060920yw06zypp8myjpyzy.png)
+![Launch the EC2 instance](/Asserts/Images/album/201703/18/060920yw06zypp8myjpyzy.png)
 
 
 3、 现在，当你使用的是一个 “Free Tier” 帐号，接着最好选择 “Free Tier” 单选按钮以便 AWS 可以过滤出可以免费使用的实例。这可以让你不用为使用 AWS 的资源而付费。
 
 
-![Select Free Tier instances only](/Asserts/Images//attachment/album/201703/18/060923i4anondn8mrsn45r.png)
+![Select Free Tier instances only](/Asserts/Images/album/201703/18/060923i4anondn8mrsn45r.png)
 
 
 4、 要继续操作，请选择以下选项：
@@ -78,7 +78,7 @@ e、 **添加标签**：不要更改任何内容只需点击下一步。
 f、 **配置安全组**：现在选择用于 ssh 的 22 端口，以便你可以在任何地方访问此服务器。
 
 
-![Configure AWS server](/Asserts/Images//attachment/album/201703/18/060925mqq339efq2ck3q2f.png)
+![Configure AWS server](/Asserts/Images/album/201703/18/060925mqq339efq2ck3q2f.png)
 
 
 g、 选择“<ruby> 查看并启动 <rt>  Review and Launch </rt></ruby>”按钮。
@@ -90,19 +90,19 @@ h、 如果所有的详情都无误，点击 “<ruby> 启动 <rt>  Launch </rt>
 i、 单击“<ruby> 启动 <rt>  Launch </rt></ruby>”按钮后，系统会像下面那样弹出一个窗口以创建“密钥对”：选择选项“<ruby> 创建密钥对 <rt>  create a new key pair </rt></ruby>”，并给密钥对起个名字，然后下载下来。在使用 ssh 连接到服务器时，需要此密钥对。最后，单击“<ruby> 启动实例 <rt>  Launch Instance </rt></ruby>”按钮。
 
 
-![Create Key pair](/Asserts/Images//attachment/album/201703/18/060927y4gmom44w9o2rwp8.png)
+![Create Key pair](/Asserts/Images/album/201703/18/060927y4gmom44w9o2rwp8.png)
 
 
 j、 点击“<ruby> 启动实例 <rt>  Launch Instance </rt></ruby>”按钮后，转到左上角的服务。选择“<ruby> 计算 <rt>  compute </rt></ruby>”--> “EC2”。现在点击“<ruby> 运行实例 <rt>  Running Instances </rt></ruby>”：
 
 
-![Go to the running EC2 instance](/Asserts/Images//attachment/album/201703/18/060930ekpcjqyzcaj4vc3q.png)
+![Go to the running EC2 instance](/Asserts/Images/album/201703/18/060930ekpcjqyzcaj4vc3q.png)
 
 
 k、 现在你可以看到，你的新 VM 的状态是 “<ruby> 运行中 <rt>  running </rt></ruby>”。选择实例，请记下登录到服务器所需的 “<ruby> 公开 DNS 名称 <rt>  Public DNS </rt></ruby>”。
 
 
-![Public DNS value of the VM](/Asserts/Images//attachment/album/201703/18/060932fz63ap3e3zw4e9aw.png)
+![Public DNS value of the VM](/Asserts/Images/album/201703/18/060932fz63ap3e3zw4e9aw.png)
 
 
 现在你已完成创建一台运行 Linux 的 VM。要连接到服务器，请按照以下步骤操作。
@@ -144,7 +144,7 @@ $ sudo su -
 哈哈，你现在是在 AWS 云上托管的 Linux 服务器上的主人啦。
 
 
-![Logged in to AWS EC2 server](/Asserts/Images//attachment/album/201703/18/060934ly9glagz3glcy7p2.jpg)
+![Logged in to AWS EC2 server](/Asserts/Images/album/201703/18/060934ly9glagz3glcy7p2.jpg)
 
 
 

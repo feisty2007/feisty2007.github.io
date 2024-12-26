@@ -7,7 +7,7 @@ tags:	[linuxcn,文件格式,dos2unix]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/27/235550klfnz34lzpnchf7g.jpg)
+![](/Asserts/Images/album/202008/27/235550klfnz34lzpnchf7g.jpg)
 
 
 作为一名 Linux 管理员，你可能已经注意到了一些开发者请求将文件从 DOS 格式转换为 Unix 格式，反之亦然。

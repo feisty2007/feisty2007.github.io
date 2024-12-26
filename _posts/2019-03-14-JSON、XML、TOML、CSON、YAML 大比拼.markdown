@@ -7,7 +7,7 @@ tags:	[linuxcn,XML,JSON,YAML]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/29/011449ffhh8gydrzbthadg.jpg)
+![](/Asserts/Images/album/201903/29/011449ffhh8gydrzbthadg.jpg)
 
 
 ### 一段超级严肃的关于样本序列化的集合、子集和超集的文字

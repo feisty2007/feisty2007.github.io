@@ -7,7 +7,7 @@ tags:	[linuxcn,JVM,Java]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/06/134624iiubdjkqmxaaqhmx.jpg)
+![](/Asserts/Images/album/202205/06/134624iiubdjkqmxaaqhmx.jpg)
 
 
 
@@ -32,7 +32,7 @@ Java 源代码被编译成<ruby> 字节码 <rt>  bytecode </rt></ruby>，然后�
 本文介绍了一些基础的 JVM 参数，希望在这些场景中可以提供帮助。
 
 
-![JVM 参数](/Asserts/Images//attachment/album/202205/06/134703i1xjwxj1xkskxj13.jpg)
+![JVM 参数](/Asserts/Images/album/202205/06/134703i1xjwxj1xkskxj13.jpg)
 
 
 （图源：Jayashree Huttanagoudar，CC BY-SA 4.0）
@@ -52,7 +52,7 @@ Java 有许多 J 开头的缩略词，包括 JVM、JDK 和 JRE。
 JDK 同时包含 JRE 和 JVM，但有些 Java 发行版提供了包含 JRE（包括 JVM）的替代下载。
 
 
-![JDK](/Asserts/Images//attachment/album/202205/06/134703nbozba6zlql7wyob.jpg)
+![JDK](/Asserts/Images/album/202205/06/134703nbozba6zlql7wyob.jpg)
 
 
 （图源：Jayashree Huttanagoudar，CC BY-SA 4.0）

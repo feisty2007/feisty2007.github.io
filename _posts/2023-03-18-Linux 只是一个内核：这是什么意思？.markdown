@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/04/085224mw1qoq5kaukqzxmz.jpg)
+![](/Asserts/Images/album/202303/04/085224mw1qoq5kaukqzxmz.jpg)
 
 
 
@@ -63,7 +63,7 @@ tags:	[linuxcn,Linux,内核]
 这是一个操作系统的典型架构：
 
 
-![](/Asserts/Images//attachment/album/202303/04/090011izoaowsuro2grtjq.jpg)
+![](/Asserts/Images/album/202303/04/090011izoaowsuro2grtjq.jpg)
 
 
 在中心的内核与硬件交互。在它之上是与内核交互的 <ruby> 交互界面 <rt>  Shell </rt></ruby>。然后你有应用程序、命令行和图形界面，为你提供使用系统的各种方式。
@@ -81,7 +81,7 @@ tags:	[linuxcn,Linux,内核]
 相似地，你不能直接使用内核。你需要 <ruby> 交互界面 <rt>  Shell </rt></ruby>，其他工具和组件才能使用操作系统。
 
 
-![](/Asserts/Images//attachment/album/202303/04/090017gsz18ivtw7sz1a7k.jpg)
+![](/Asserts/Images/album/202303/04/090017gsz18ivtw7sz1a7k.jpg)
 
 
 ### Linux 对比 GNU/Linux

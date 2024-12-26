@@ -10,7 +10,7 @@ tags:	[linuxcn,netbeans,Ubuntu]
 NetBeans 8.0 刚刚发布，如果你还没有安装的话，这篇简短的教程将会演示如何在 Ubuntu 系统上快速的安装。对安装 NetBeans 需要帮助的开发者来说，这往篇文章会是不错的指导。
 
 
-![](/Asserts/Images//attachment/album/201405/05/220632gececyehrg8mvuov.png)
+![](/Asserts/Images/album/201405/05/220632gececyehrg8mvuov.png)
 
 
 给那些还不知道 NetBeans 的解释下，NetBeans 是一款 IDE 应用软件工具，用户可以快速、高效的开发和构建桌面应用程序、移动应用程序及网页应用程序。
@@ -76,7 +76,7 @@ sh -c " ~/Downloads/netbeans-8.0-linux*.sh"
 根据安装向导操作，直到安装完成。
 
 
-![netbeans-ubuntu](/Asserts/Images//attachment/album/201405/05/220634hopuxgnax9zeq4tf.png)
+![netbeans-ubuntu](/Asserts/Images/album/201405/05/220634hopuxgnax9zeq4tf.png)
 
 
 祝你顺利~

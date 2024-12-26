@@ -7,10 +7,10 @@ tags:	[linuxcn,X11,比特币,加密货币]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/04/183839nj0626ag3d1jasw0.jpg)
+![](/Asserts/Images/album/202207/04/183839nj0626ag3d1jasw0.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/04/183858fkapgrb5bnjk11nb.jpg)
+![](/Asserts/Images/album/202207/04/183858fkapgrb5bnjk11nb.jpg)
 
 
 ### 下一代 GTK 5 可能要放弃 X11 支持
@@ -35,7 +35,7 @@ GTK 4 才推出没多久，而下一代的 GTK 5 可能还要很多年，但 GNO
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/04/183915xq3xwobcxvcqoscj.jpg)
+![](/Asserts/Images/album/202207/04/183915xq3xwobcxvcqoscj.jpg)
 
 
 ### 大学拿回了支付的比特币赎金，发现还赚了
@@ -60,7 +60,7 @@ GTK 4 才推出没多久，而下一代的 GTK 5 可能还要很多年，但 GNO
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/04/183929oke5zaaj5r9wgcih.jpg)
+![](/Asserts/Images/album/202207/04/183929oke5zaaj5r9wgcih.jpg)
 
 
 ### Meta 将关闭加密货币项目

@@ -13,7 +13,7 @@ tags:	[linuxcn,nmap,网络安全,扫描]
 * [第一部分-为初学者准备的 Kali Linux 安装指南](/article-7986-1.html)
 
 
-![](/Asserts/Images//attachment/album/201611/16/111112g4gqrupqgqglzdsz.png)
+![](/Asserts/Images/album/201611/16/111112g4gqrupqgqglzdsz.png)
 
 
 Nmap， 是 Network Mapper 的缩写，由 Gordon Lyon 维护(更多关于 Mr. Lyon 的信息在这里: <http://insecure.org/fyodor/>) ，并被世界各地许多的安全专业人员使用。
@@ -62,7 +62,7 @@ Nmap 能够快速找到活动的主机和与该主机相关联的服务。Nmap �
 
 ```
 
-![Start Desktop Environment in Kali Linux](/Asserts/Images//attachment/album/201611/16/111159p8wiih2hrpr9bzwh.png)
+![Start Desktop Environment in Kali Linux](/Asserts/Images/album/201611/16/111159p8wiih2hrpr9bzwh.png)
 
 
 *在 Kali Linux 中启动桌面环境*
@@ -74,7 +74,7 @@ Nmap 能够快速找到活动的主机和与该主机相关联的服务。Nmap �
 作者是名为 '[Terminator](http://www.tecmint.com/terminator-a-linux-terminal-emulator-to-manage-multiple-terminal-windows/)' 的 shell 程序的粉丝，但是这可能不会显示在 Kali Linux 的默认安装中。这里列出的所有 shell 程序都可用于使用 nmap 。
 
 
-![Launch Terminal in Kali Linux](/Asserts/Images//attachment/album/201611/16/111159b8ctwlwt0zla7lat.png)
+![Launch Terminal in Kali Linux](/Asserts/Images/album/201611/16/111159b8ctwlwt0zla7lat.png)
 
 
 *在 Kali Linux 下启动终端*
@@ -100,7 +100,7 @@ Nmap 能够快速找到活动的主机和与该主机相关联的服务。Nmap �
 # nmap -sL 192.168.56.0/24
 ```
 
-![Nmap - Scan Network for Live Hosts](/Asserts/Images//attachment/album/201611/16/111200a7p81uh35vfvh18d.png)
+![Nmap - Scan Network for Live Hosts](/Asserts/Images/album/201611/16/111200a7p81uh35vfvh18d.png)
 
 
 *Nmap – 扫描网络上的活动主机*
@@ -121,7 +121,7 @@ Nmap 能够快速找到活动的主机和与该主机相关联的服务。Nmap �
 
 ```
 
-![Nmap - Ping All Connected Live Network Hosts](/Asserts/Images//attachment/album/201611/16/111200c9jhxydyj0n0yfgk.png)
+![Nmap - Ping All Connected Live Network Hosts](/Asserts/Images/album/201611/16/111200c9jhxydyj0n0yfgk.png)
 
 
 *Nmap – Ping 所有已连接的活动网络主机*
@@ -142,7 +142,7 @@ Nmap 能够快速找到活动的主机和与该主机相关联的服务。Nmap �
 
 ```
 
-![Nmap - Network Ports Scan on Host](/Asserts/Images//attachment/album/201611/16/111201u4pr93f74i73d949.png)
+![Nmap - Network Ports Scan on Host](/Asserts/Images/album/201611/16/111201u4pr93f74i73d949.png)
 
 
 *Nmap – 在主机上扫描网络端口*
@@ -172,7 +172,7 @@ Nmap 将探测所有打开的端口，并尝试从每个端口上运行的服务
 
 ```
 
-![Nmap - Scan Network Services Listening of Ports](/Asserts/Images//attachment/album/201611/16/111201frx5x7ssknb4jhkd.png)
+![Nmap - Scan Network Services Listening of Ports](/Asserts/Images/album/201611/16/111201frx5x7ssknb4jhkd.png)
 
 
 *Nmap – 扫描网络服务监听端口*
@@ -198,7 +198,7 @@ Nmap 将探测所有打开的端口，并尝试从每个端口上运行的服务
 # nmap -sC 192.168.56.102 -p 21
 ```
 
-![Nmap - Scan Particular Post on Machine](/Asserts/Images//attachment/album/201611/16/111202jfmd00l4z45ddv9s.png)
+![Nmap - Scan Particular Post on Machine](/Asserts/Images/album/201611/16/111202jfmd00l4z45ddv9s.png)
 
 
 *Nmap – 扫描机器上的特定端口*
@@ -218,7 +218,7 @@ Nmap 将探测所有打开的端口，并尝试从每个端口上运行的服务
 # locate .nse | grep ftp
 ```
 
-![Nmap - Scan VSftpd Vulnerability](/Asserts/Images//attachment/album/201611/16/111202nn7nnxq7212rhfz1.png)
+![Nmap - Scan VSftpd Vulnerability](/Asserts/Images/album/201611/16/111202nn7nnxq7212rhfz1.png)
 
 
 *Nmap – 扫描 VSftpd 漏洞*
@@ -232,7 +232,7 @@ Nmap 将探测所有打开的端口，并尝试从每个端口上运行的服务
 # nmap --script-help=ftp-vsftd-backdoor.nse
 ```
 
-![Learn Nmap NSE Script Usage](/Asserts/Images//attachment/album/201611/16/111203j1877yi86kifk1wv.png)
+![Learn Nmap NSE Script Usage](/Asserts/Images/album/201611/16/111203j1877yi86kifk1wv.png)
 
 
 *了解 Nmap NSE 脚本使用*
@@ -249,7 +249,7 @@ Nmap 将探测所有打开的端口，并尝试从每个端口上运行的服务
 # nmap --script=ftp-vsftpd-backdoor.nse 192.168.56.102 -p 21
 ```
 
-![Nmap - Scan Host for Vulnerable](/Asserts/Images//attachment/album/201611/16/111203c2t3k66sjytv2vmy.png)
+![Nmap - Scan Host for Vulnerable](/Asserts/Images/album/201611/16/111203c2t3k66sjytv2vmy.png)
 
 
 *Nmap – 扫描易受攻击的主机*
@@ -270,7 +270,7 @@ Nmap 有能力做一个更积极的扫描，往往一个命令就会产生之前
 
 ```
 
-![Nmap - Complete Network Scan on Host](/Asserts/Images//attachment/album/201611/16/111204tkyqlook0olk46l0.png)
+![Nmap - Complete Network Scan on Host](/Asserts/Images/album/201611/16/111204tkyqlook0olk46l0.png)
 
 
 *Nmap – 在主机上完成网络扫描*

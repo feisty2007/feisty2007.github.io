@@ -7,7 +7,7 @@ tags:	[linuxcn,AUR,Yay]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/14/224808sb66bbdrd4zrqk6q.jpg)
+![](/Asserts/Images/album/202310/14/224808sb66bbdrd4zrqk6q.jpg)
 
 
 
@@ -74,7 +74,7 @@ sudo pacman -S --needed base-devel git
 它看起来是这样的：
 
 
-![](/Asserts/Images//attachment/album/202310/14/224809dpa4pvt60k09bt4k.png)
+![](/Asserts/Images/album/202310/14/224809dpa4pvt60k09bt4k.png)
 
 
 现在你已经有了所需的软件包，是时候在你的系统上安装 [Yay](https://github.com/Jguer/yay)。
@@ -101,7 +101,7 @@ cd yay
 
 ```
 
-![](/Asserts/Images//attachment/album/202310/14/224809owwm5kc2cqicz6g6.png)
+![](/Asserts/Images/album/202310/14/224809owwm5kc2cqicz6g6.png)
 
 
 终于可以安装 Yay 了。
@@ -122,7 +122,7 @@ makepkg -si
 按照屏幕上的说明进行操作。当系统要求你确认时，按 `Y`。
 
 
-![](/Asserts/Images//attachment/album/202310/14/224810yh0yhlklkym5kzkw.png)
+![](/Asserts/Images/album/202310/14/224810yh0yhlklkym5kzkw.png)
 
 
 该过程完成后，通过检查其版本来验证 Yay 是否已成功安装。

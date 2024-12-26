@@ -10,7 +10,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 跳过 LAMP 的介绍，因为我认为你们大多数已经知道了。这个教程会集中在如何在升级到 Apache 2.4 的 Red Hat Enterprise Linux 7.0 和 CentOS 7.0 中安装和配置 LAMP：Linux、Apache、 MariaDB、 PHP/PhpMyAdmin。
 
 
-![Install LAMP in CentOS 7](/Asserts/Images//attachment/album/201507/09/235139hp3a3uac3ktkoadu.jpg)
+![Install LAMP in CentOS 7](/Asserts/Images/album/201507/09/235139hp3a3uac3ktkoadu.jpg)
 
 
 *在 RHEL/CentOS 7.0 中安装 LAMP*
@@ -47,7 +47,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 
 ```
 
-![Install Apache in CentOS 7](/Asserts/Images//attachment/album/201507/09/235140r70bpb5vxbnpp8gd.png)
+![Install Apache in CentOS 7](/Asserts/Images/album/201507/09/235140r70bpb5vxbnpp8gd.png)
 
 
 *安装 apache 服务*
@@ -66,7 +66,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 
 ```
 
-![Start Apache in CentOS 7](/Asserts/Images//attachment/album/201507/09/235140yrpslfrzjar1gxfx.png)
+![Start Apache in CentOS 7](/Asserts/Images/album/201507/09/235140yrpslfrzjar1gxfx.png)
 
 
 *启动apache服务*
@@ -91,7 +91,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 
 ```
 
-![Enable Firewall in CentOS 7](/Asserts/Images//attachment/album/201507/09/235142dikwijwwvidimkj7.png)
+![Enable Firewall in CentOS 7](/Asserts/Images/album/201507/09/235142dikwijwwvidimkj7.png)
 
 
 *在 CentOS 7 中启用防火墙*
@@ -114,7 +114,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 4、要验证 apache 的功能，打开一个远程浏览器并使用 http 协议访问你服务器的 IP 地址(http://server\_IP)， 应该会显示下图中的默认页面。
 
 
-![Apache Default Page](/Asserts/Images//attachment/album/201507/09/235144ogrj7wwwmdw9g51x.png)
+![Apache Default Page](/Asserts/Images/album/201507/09/235144ogrj7wwwmdw9g51x.png)
 
 
 *Apache 默认页*
@@ -129,7 +129,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 
 ```
 
-![Apache Directory Listing](/Asserts/Images//attachment/album/201507/09/235145kjxaj9x3rutt3uwr.png)
+![Apache Directory Listing](/Asserts/Images/album/201507/09/235145kjxaj9x3rutt3uwr.png)
 
 
 *Apache 目录列出*
@@ -144,7 +144,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 
 ```
 
-![Apache Index File](/Asserts/Images//attachment/album/201507/09/235146frba0arvva4znuqb.png)
+![Apache Index File](/Asserts/Images/album/201507/09/235146frba0arvva4znuqb.png)
 
 
 *Apache 索引文件*
@@ -162,7 +162,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 
 ```
 
-![Install PHP in CentOS 7](/Asserts/Images//attachment/album/201507/09/235149ky3itc4clp1gtg4a.png)
+![Install PHP in CentOS 7](/Asserts/Images/album/201507/09/235149ky3itc4clp1gtg4a.png)
 
 
 在 CentOS 7 上安装 PHP\*
@@ -177,13 +177,13 @@ tags:	[linuxcn,CentOS 7,LAMP]
 
 ```
 
-![Install PHP Modules in CentOS 7](/Asserts/Images//attachment/album/201507/09/235151ukrvdtdcrc2d3j3t.png)
+![Install PHP Modules in CentOS 7](/Asserts/Images/album/201507/09/235151ukrvdtdcrc2d3j3t.png)
 
 
 *安装 PHP 模块*
 
 
-![Install PHP mbstring Module](/Asserts/Images//attachment/album/201507/09/235155qo893e3k88xzv00p.png)
+![Install PHP mbstring Module](/Asserts/Images/album/201507/09/235155qo893e3k88xzv00p.png)
 
 
 *安装 PHP mbstring 模块*
@@ -199,7 +199,7 @@ tags:	[linuxcn,CentOS 7,LAMP]
 
 ```
 
-![Check PHP Info in CentOS 7](/Asserts/Images//attachment/album/201507/09/235156q48g5166tmg4zrtr.png)
+![Check PHP Info in CentOS 7](/Asserts/Images/album/201507/09/235156q48g5166tmg4zrtr.png)
 
 
 *查看 CentOS 7 上的 PHP 信息*
@@ -223,7 +223,7 @@ date.timezone = Continent/City
 
 ```
 
-![Set Timezone in PHP](/Asserts/Images//attachment/album/201507/09/235159fwyj0ty2nl27ssdq.png)
+![Set Timezone in PHP](/Asserts/Images/album/201507/09/235159fwyj0ty2nl27ssdq.png)
 
 
 *设置 PHP 的时区*
@@ -241,7 +241,7 @@ date.timezone = Continent/City
 
 ```
 
-![Install MariaDB in CentOS 7](/Asserts/Images//attachment/album/201507/09/235201wwvwvpxm176kvmxl.png)
+![Install MariaDB in CentOS 7](/Asserts/Images/album/201507/09/235201wwvwvpxm176kvmxl.png)
 
 
 *在 CentOS 7中安装 MariaDB*
@@ -257,13 +257,13 @@ date.timezone = Continent/City
 
 ```
 
-![Start MariaDB Database](/Asserts/Images//attachment/album/201507/09/235204olf6gfczfklecjtt.png)
+![Start MariaDB Database](/Asserts/Images/album/201507/09/235204olf6gfczfklecjtt.png)
 
 
 *启动 MariaDB 数据库*
 
 
-![Secure MySQL Installation](/Asserts/Images//attachment/album/201507/09/235205jvubttfa0url0003.png)
+![Secure MySQL Installation](/Asserts/Images/album/201507/09/235205jvubttfa0url0003.png)
 
 
 *MariaDB 安全设置*
@@ -280,7 +280,7 @@ MariaDB > quit
 
 ```
 
-![Connect MySQL Database in CentOS](/Asserts/Images//attachment/album/201507/09/235207w8r2scbsc4b2ccs8.png)
+![Connect MySQL Database in CentOS](/Asserts/Images/album/201507/09/235207w8r2scbsc4b2ccs8.png)
 
 
 *连接 MariaDB 数据库*
@@ -307,7 +307,7 @@ MariaDB > quit
 
 ```
 
-![Enable RPMForge in CentOS 7](/Asserts/Images//attachment/album/201507/09/235209ley142yklt1bigb4.png)
+![Enable RPMForge in CentOS 7](/Asserts/Images/album/201507/09/235209ley142yklt1bigb4.png)
 
 
 *启用 RPMForge 仓库*
@@ -333,7 +333,7 @@ MariaDB > quit
 
 ```
 
-![Allow Remote PhpMyAdmin Access](/Asserts/Images//attachment/album/201507/09/235210svavv1sz2qvewh91.png)
+![Allow Remote PhpMyAdmin Access](/Asserts/Images/album/201507/09/235210svavv1sz2qvewh91.png)
 
 
 *允许远程 PhpMyAdmin 访问*
@@ -349,13 +349,13 @@ MariaDB > quit
 
 ```
 
-![Add Blowfish in PhpMyAdmin](/Asserts/Images//attachment/album/201507/09/235213zqszo9ipqy677q67.png)
+![Add Blowfish in PhpMyAdmin](/Asserts/Images/album/201507/09/235213zqszo9ipqy677q67.png)
 
 
 *在 PhpMyAdmin 中添加 Blowfish*
 
 
-![PhpMyAdmin Dashboard](/Asserts/Images//attachment/album/201507/09/235216j0hohh2m82gj82aw.png)
+![PhpMyAdmin Dashboard](/Asserts/Images/album/201507/09/235216j0hohh2m82gj82aw.png)
 
 
 *PhpMyAdmin 面板*
@@ -374,7 +374,7 @@ MariaDB > quit
 
 ```
 
-![Enable Services System Wide](/Asserts/Images//attachment/album/201507/09/235217i9chiwom8thjmijo.png)
+![Enable Services System Wide](/Asserts/Images/album/201507/09/235217i9chiwom8thjmijo.png)
 
 
 *系统级启用服务*

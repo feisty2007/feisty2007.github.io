@@ -15,7 +15,7 @@ tags:	[linuxcn,亚马逊,Linux]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/25/142143j9xw8dtrty09ox30.png)
+![](/Asserts/Images/album/202111/25/142143j9xw8dtrty09ox30.png)
 
 
 如果你还不知道，亚马逊有自己的通用 Linux 发行版，自然而然，它被称为 Amazon Linux。

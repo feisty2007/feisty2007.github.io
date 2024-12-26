@@ -7,10 +7,10 @@ tags:	[linuxcn,微软,Fedora,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/16/215115gwmvrm38waj5mj5m.jpg)
+![](/Asserts/Images/album/202305/16/215115gwmvrm38waj5mj5m.jpg)
 
 
-![](/Asserts/Images//attachment/album/202305/16/215128m04tc43cs9hgg5yc.jpg)
+![](/Asserts/Images/album/202305/16/215128m04tc43cs9hgg5yc.jpg)
 
 
 ### 微软 WSL2 工程师超爱的 Linux 功能
@@ -35,7 +35,7 @@ tags:	[linuxcn,微软,Fedora,密码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/16/215142a323mkixn3zkt2k2.jpg)
+![](/Asserts/Images/album/202305/16/215142a323mkixn3zkt2k2.jpg)
 
 
 ### 红帽裁掉了 Fedora 项目经理
@@ -60,7 +60,7 @@ tags:	[linuxcn,微软,Fedora,密码]
 > 
 
 
-![](/Asserts/Images//attachment/album/202305/16/215159q0momi5oiv4m54go.jpg)
+![](/Asserts/Images/album/202305/16/215159q0momi5oiv4m54go.jpg)
 
 
 ### 微软云服务会扫描有密码的压缩文件

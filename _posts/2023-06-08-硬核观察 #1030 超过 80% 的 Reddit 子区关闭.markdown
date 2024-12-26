@@ -7,10 +7,10 @@ tags:	[linuxcn,Reddit,Debian,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/12/185737vzq31jatfn7f0jt9.jpg)
+![](/Asserts/Images/album/202306/12/185737vzq31jatfn7f0jt9.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/12/185747mf9e4ecjhlxnnfbz.jpg)
+![](/Asserts/Images/album/202306/12/185747mf9e4ecjhlxnnfbz.jpg)
 
 
 ### 超过 80% 的 Reddit 子区关闭
@@ -35,7 +35,7 @@ tags:	[linuxcn,Reddit,Debian,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/12/185804qx54r34byd8h4rer.jpg)
+![](/Asserts/Images/album/202306/12/185804qx54r34byd8h4rer.jpg)
 
 
 ### Debian 12 “Bookworm” 正式发布
@@ -60,7 +60,7 @@ tags:	[linuxcn,Reddit,Debian,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/12/185818zwvkkhhqzzq7dktv.jpg)
+![](/Asserts/Images/album/202306/12/185818zwvkkhhqzzq7dktv.jpg)
 
 
 ### 西方更担心中国获得 AI 主导地位

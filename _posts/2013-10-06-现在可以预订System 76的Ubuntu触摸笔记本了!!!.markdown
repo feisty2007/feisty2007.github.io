@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,System 76,Ubuntu,触摸笔记本,PC]
 ---
 
 
-![](/Asserts/Images//attachment/album/201310/26/230028gwiswooo93u3d2uj.jpg)
+![](/Asserts/Images/album/201310/26/230028gwiswooo93u3d2uj.jpg)
 
 
 **Ubuntu PC 制造商 System 76 已经公布了一款搭载Ubuntu 13.10的触摸笔记本.**
@@ -19,13 +19,13 @@ Darter Ultra Thin 14.1寸高清笔记本 **搭载了Ubuntu多点触摸显示**�
 除了触摸屏外，也提供了传统的输入设备，如多点触摸板和巧克力式的键盘。
 
 
- ![](/Asserts/Images//attachment/album/201310/26/230031w07w3y9a2za28795.jpg)
+ ![](/Asserts/Images/album/201310/26/230031w07w3y9a2za28795.jpg)
 
 
-![](/Asserts/Images//attachment/album/201310/26/230033m8jiqnc1y9111jkl.jpg)
+![](/Asserts/Images/album/201310/26/230033m8jiqnc1y9111jkl.jpg)
 
 
- ![](/Asserts/Images//attachment/album/201310/26/230035pb9oq2xu6bqt1qqn.jpg)
+ ![](/Asserts/Images/album/201310/26/230035pb9oq2xu6bqt1qqn.jpg)
 
 
  

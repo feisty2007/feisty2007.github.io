@@ -10,7 +10,7 @@ tags:	[linuxcn,重启]
 在Linux里，由于对安全的考虑，我们允许任何人按下**Ctrl-Alt-Del**来**重启**系统。但是在生产环境中，应该停用按下Ctrl-Alt-Del 重启系统的功能。
 
 
-![](/Asserts/Images//attachment/album/201410/08/215948fluu22cxuuhbdkch.jpg)
+![](/Asserts/Images/album/201410/08/215948fluu22cxuuhbdkch.jpg)
 
 
 在这篇文章里，我们将要介绍如何在RHEL和CentOS下停用该热键。

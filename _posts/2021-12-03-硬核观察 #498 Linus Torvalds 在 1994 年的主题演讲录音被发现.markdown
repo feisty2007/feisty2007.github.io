@@ -7,10 +7,10 @@ tags:	[linuxcn,Linux,Wi-Fi,DuckDuckGo]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/27/193017i6flfcrnzml6fcfs.jpg)
+![](/Asserts/Images/album/202112/27/193017i6flfcrnzml6fcfs.jpg)
 
 
-![](/Asserts/Images//attachment/album/202112/27/193023d488svqsy85eyjbf.jpg)
+![](/Asserts/Images/album/202112/27/193023d488svqsy85eyjbf.jpg)
 
 
 ### Linus Torvalds 在 1994 年的主题演讲录音被发现
@@ -27,7 +27,7 @@ tags:	[linuxcn,Linux,Wi-Fi,DuckDuckGo]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/27/193034jhhplvwjbichtwhr.jpg)
+![](/Asserts/Images/album/202112/27/193034jhhplvwjbichtwhr.jpg)
 
 
 ### Wi-Fi 7 的速度将是 Wi-Fi 6 的 3 倍
@@ -44,7 +44,7 @@ tags:	[linuxcn,Linux,Wi-Fi,DuckDuckGo]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/27/193052rydrm9xr0cf0mrfe.jpg)
+![](/Asserts/Images/album/202112/27/193052rydrm9xr0cf0mrfe.jpg)
 
 
 ### 2021 年 DuckDuckGo 搜索查询量增长 47%

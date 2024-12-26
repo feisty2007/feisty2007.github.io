@@ -7,7 +7,7 @@ tags:	[linuxcn,NTP,时间]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/19/143408gzwwbvwcalflvvbb.jpg)
+![](/Asserts/Images/album/201811/19/143408gzwwbvwcalflvvbb.jpg)
 
 
 在这个教程中，我们会讨论如何安装和配置 **Chrony**，一个类 Unix 系统上 NTP 客户端和服务器的替代品。Chrony 可以更快的同步系统时钟，具有更好的时钟准确度，并且它对于那些不是一直在线的系统很有帮助。Chrony 是自由开源的，并且支持 GNU/Linux 和 BSD 衍生版（比如 FreeBSD、NetBSD）、macOS 和 Solaris 等。

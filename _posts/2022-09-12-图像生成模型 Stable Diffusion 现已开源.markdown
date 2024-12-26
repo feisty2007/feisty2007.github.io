@@ -7,7 +7,7 @@ tags:	[linuxcn,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/11/120419ml8klppkfpf80pl3.jpg)
+![](/Asserts/Images/album/202209/11/120419ml8klppkfpf80pl3.jpg)
 
 
 Stable Diffusion 是一个“文本到图像”的人工智能模型。近日，Stable AI 公司向公众开放了它的预训练模型权重。当输入一个文字描述时，Stable Diffusion 可以生成 512×512 像素的图像，这些图像如相片般真实，反映了文字描述的场景。

@@ -15,7 +15,7 @@ tags:	[linuxcn,Jekyll]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/18/093318uoud175bj4d55zz5.jpg "Text editor on a browser, in blue")
+![](/Asserts/Images/album/202112/18/093318uoud175bj4d55zz5.jpg "Text editor on a browser, in blue")
 
 
 我是一个开源的超级粉丝。

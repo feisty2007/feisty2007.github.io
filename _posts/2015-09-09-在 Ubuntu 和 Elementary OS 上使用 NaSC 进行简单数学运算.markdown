@@ -7,7 +7,7 @@ tags:	[linuxcn,NaSC,数学]
 ---
 
 
-![](/Asserts/Images//attachment/album/201509/18/092344txr8v82r18u8vjde.jpg)
+![](/Asserts/Images/album/201509/18/092344txr8v82r18u8vjde.jpg)
 
 
 [NaSC](http://parnold-x.github.io/nasc/)，Not a Soulver Clone 的缩写，是为 elementary 操作系统开发的第三方应用程序。正如名字暗示的那样，NaSC 的灵感来源于 [Soulver](http://www.acqualia.com/soulver/)，后者是像普通人一样进行数学计算的 OS X 应用。
@@ -30,7 +30,7 @@ Elementary OS 它自己本身借鉴了 OS X，也就不奇怪它的很多第三�
 还不相信？让我们来看一个截图。
 
 
-![](/Asserts/Images//attachment/album/201509/18/092344ghrypleljt6eallz.png)
+![](/Asserts/Images/album/201509/18/092344ghrypleljt6eallz.png)
 
 
 现在，你明白什么是 “像普通人一样做数学” 了吗？坦白地说，我并不是这类应用程序的粉丝，但对你们中的某些人可能会有用。让我们来看看怎么在 Elementary OS、Ubuntu 和 Linux Mint 上安装 NaSC。
@@ -56,7 +56,7 @@ sudo apt-get install nasc
 这是 Ubuntu 15.04 中使用 NaSC 的一个截图：
 
 
-![](/Asserts/Images//attachment/album/201509/18/092345pad5592gn14zydig.png)
+![](/Asserts/Images/album/201509/18/092345pad5592gn14zydig.png)
 
 
 如果你想卸载它，可以使用下面的命令：

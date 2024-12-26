@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/202111/18/171924sg0bk3iu43bwi3x4.jpg)
+![](/Asserts/Images/album/202111/18/171924sg0bk3iu43bwi3x4.jpg)
 
 
 树莓派是一种物美价廉的单板计算机，在很多场景都很有用。不过，在树莓派 4 之前，它作为快速的桌面替代品并不是一个特别合适的选择。
@@ -28,7 +28,7 @@ tags:	[linuxcn,树莓派]
 ### 树莓派 3 的规格
 
 
-![](/Asserts/Images//attachment/album/202111/18/171951z7pqdplqq0k9kpqg.jpg)
+![](/Asserts/Images/album/202111/18/171951z7pqdplqq0k9kpqg.jpg)
 
 
 树莓派 3 满足了一个基本入门 DIY 项目的所有要求。如果 [树莓派 Zero 或 树莓派 Zero W](https://itsfoss.com/raspberry-pi-zero-vs-zero-w/) 不符合你的要求，那么树莓派 3 是一个物美价廉的选择：
@@ -51,7 +51,7 @@ tags:	[linuxcn,树莓派]
 ### 树莓派 4 的规格
 
 
-![](/Asserts/Images//attachment/album/202111/18/171952dkeq6eq9yvzrvllm.jpg)
+![](/Asserts/Images/album/202111/18/171952dkeq6eq9yvzrvllm.jpg)
 
 
 * 博通 BCM2711，四核 Cortex-A72（ARM v8）64 位 SoC @ 1.5GHz

@@ -7,7 +7,7 @@ tags:	[linuxcn,开源,闭源]
 ---
 
 
-![](/Asserts/Images//attachment/album/201611/27/091930dvkff48fy54vy38f.jpg)
+![](/Asserts/Images/album/201611/27/091930dvkff48fy54vy38f.jpg)
 
 
 **开源操作系统**和**闭源操作系统**之间有诸多不同。这里我们仅寥书几笔。

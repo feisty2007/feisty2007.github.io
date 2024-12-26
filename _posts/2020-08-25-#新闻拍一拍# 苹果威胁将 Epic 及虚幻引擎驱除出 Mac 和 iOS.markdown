@@ -7,7 +7,7 @@ tags:	[linuxcn,苹果,Rust]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/19/081652rmdrvroxsmjvxmmz.jpg)
+![](/Asserts/Images/album/202008/19/081652rmdrvroxsmjvxmmz.jpg)
 
 
 #### 苹果威胁将 Epic 及虚幻引擎驱除出 Mac 和 iOS

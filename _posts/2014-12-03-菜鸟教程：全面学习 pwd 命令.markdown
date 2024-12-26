@@ -10,7 +10,7 @@ tags:	[linuxcn,pwd,命令]
 对于那些使用Linux命令行的人来说，‘**pwd**‘命令是非常有用的，它告诉你你现在在那个目录，从根目录(**/**)如何到达。特别是对于或许会在目录的切换间容易糊涂的Linux新手而言，‘**pwd**‘ 可以拯救他们。
 
 
-![15 pwd Command Examples](/Asserts/Images//attachment/album/201412/02/150914ah9h6mai6ta9ymin.png)
+![15 pwd Command Examples](/Asserts/Images/album/201412/02/150914ah9h6mai6ta9ymin.png)
 
 
  
@@ -68,7 +68,7 @@ avi@tecmint:~$ /bin/pwd
 
 ```
 
-![Print Working Directory](/Asserts/Images//attachment/album/201412/02/150919xifvyfb70cfbcf2k.gif)
+![Print Working Directory](/Asserts/Images/album/201412/02/150919xifvyfb70cfbcf2k.gif)
 
 
 *打印工作目录*
@@ -87,7 +87,7 @@ avi@tecmint:~$ cd htm
 
 ```
 
-![Create Symbolic Link](/Asserts/Images//attachment/album/201412/02/150920ej12f09r1729q5br.gif)
+![Create Symbolic Link](/Asserts/Images/album/201412/02/150920ej12f09r1729q5br.gif)
 
 
 *创建符号链接*
@@ -103,7 +103,7 @@ avi@tecmint:~$ /bin/pwd -L
 
 ```
 
-![Print Current Working Directory](/Asserts/Images//attachment/album/201412/02/150921tqd7aa5ad1qlz3ah.gif)
+![Print Current Working Directory](/Asserts/Images/album/201412/02/150921tqd7aa5ad1qlz3ah.gif)
 
 
 *打印工作目录*
@@ -119,7 +119,7 @@ avi@tecmint:~$ /bin/pwd -P
 
 ```
 
-![Print Physical Working Directory](/Asserts/Images//attachment/album/201412/02/150923bg6b7gxqs2xww63g.gif)
+![Print Physical Working Directory](/Asserts/Images/album/201412/02/150923bg6b7gxqs2xww63g.gif)
 
 
 *打印物理工作目录*
@@ -135,7 +135,7 @@ avi@tecmint:~$ /bin/pwd
 
 ```
 
-![Check pwd Output](/Asserts/Images//attachment/album/201412/02/150925w6prnxfgrzplr4iz.gif)
+![Check pwd Output](/Asserts/Images/album/201412/02/150925w6prnxfgrzplr4iz.gif)
 
 
 *检查pwd输出*
@@ -161,7 +161,7 @@ Written by Jim Meyering.
 
 ```
 
-![Check pwd Version](/Asserts/Images//attachment/album/201412/02/150926x6dx6m6vumx82ydk.gif)
+![Check pwd Version](/Asserts/Images/album/201412/02/150926x6dx6m6vumx82ydk.gif)
 
 
 *检查pwd命令版本*
@@ -187,7 +187,7 @@ pwd is /bin/pwd
 
 ```
 
-![Print Executable Locations](/Asserts/Images//attachment/album/201412/02/150928rrx2hjv5kqzaxh5a.gif)
+![Print Executable Locations](/Asserts/Images/album/201412/02/150928rrx2hjv5kqzaxh5a.gif)
 
 
 *打印可执行文件路径*
@@ -204,7 +204,7 @@ Current working directory is : /home/avi
 
 ```
 
-![Store Pwd Value in Variable](/Asserts/Images//attachment/album/201412/02/150930lliwalb6lwqu8ya0.gif)
+![Store Pwd Value in Variable](/Asserts/Images/album/201412/02/150930lliwalb6lwqu8ya0.gif)
 
 
 *存储pwd的值到变量中*
@@ -224,7 +224,7 @@ avi@tecmint:~$ PS1='$pwd> '     [注意例子中的单引号]
 
 ```
 
-![Change Current Working Directory](/Asserts/Images//attachment/album/201412/02/150932f333b8vini1muw68.gif)
+![Change Current Working Directory](/Asserts/Images/album/201412/02/150932f333b8vini1muw68.gif)
 
 
 *改变当前工作路径*
@@ -255,7 +255,7 @@ $ '
 
 ```
 
-![Set Multi Commandline Prompt](/Asserts/Images//attachment/album/201412/02/150934nvigaccczbnhzg5h.gif)
+![Set Multi Commandline Prompt](/Asserts/Images/album/201412/02/150934nvigaccczbnhzg5h.gif)
 
 
 *设置多行显示*
@@ -271,7 +271,7 @@ avi@tecmint:~$ echo “$PWD $OLDPWD”
 
 ```
 
-![Check Present Previous Working Directory](/Asserts/Images//attachment/album/201412/02/150935nea9aceqaq93eq22.gif)
+![Check Present Previous Working Directory](/Asserts/Images/album/201412/02/150935nea9aceqaq93eq22.gif)
 
 
 *检查当前工作路径*

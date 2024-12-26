@@ -7,7 +7,7 @@ tags:	[linuxcn,]
 ---
 
 
-![](/Asserts/Images//attachment/album/201505/08/011441atgttbjg9yengpbp.jpeg)
+![](/Asserts/Images/album/201505/08/011441atgttbjg9yengpbp.jpeg)
 
 
 [TL;DR] 这是系列文章的第三篇，讲述了我的公司是如何将基础设施从PaaS移植到Docker上的。

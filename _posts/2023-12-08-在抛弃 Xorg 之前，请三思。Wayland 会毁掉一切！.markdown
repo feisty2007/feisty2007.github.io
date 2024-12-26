@@ -7,7 +7,7 @@ tags:	[linuxcn,Wayland]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/31/163306vitxpidi2u7o0ol9.jpg)
+![](/Asserts/Images/album/202312/31/163306vitxpidi2u7o0ol9.jpg)
 
 
 

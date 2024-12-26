@@ -7,7 +7,7 @@ tags:	[linuxcn,戴文,Linux,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/201406/26/230940l4l4t10acs4cir4i.jpg)
+![](/Asserts/Images/album/201406/26/230940l4l4t10acs4cir4i.jpg)
 
 
 你好！本篇我们将继续配置"kernel hacks",接着我们会配置整个安全系统。

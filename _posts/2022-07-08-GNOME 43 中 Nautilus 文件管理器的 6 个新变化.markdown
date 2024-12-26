@@ -15,7 +15,7 @@ tags:	[linuxcn,文件管理器,GNOME]
 > 
 
 
-![gnome files](/Asserts/Images//attachment/album/202207/04/083818jf9uxl1lrmydauoz.jpg)
+![gnome files](/Asserts/Images/album/202207/04/083818jf9uxl1lrmydauoz.jpg)
 
 
 我们离 GNOME 43 的发布还有几个月的时间，但是 GNOME 应用程序的开发活动正在如火如荼地进行。
@@ -39,7 +39,7 @@ tags:	[linuxcn,文件管理器,GNOME]
 就像你在网格视图中通常所做的那样，你终于可以通过简单地拖动你的鼠标在列表视图中选择多个项目，来选择你想要的项目。
 
 
-![gnome files](/Asserts/Images//attachment/album/202207/04/083818gh0a0e906esh05z5.jpg)
+![gnome files](/Asserts/Images/album/202207/04/083818gh0a0e906esh05z5.jpg)
 
 
 如果你没有注意到，每行之间也有一点间隔。虽然选择的动画还不是最流畅的，但它是一个正在进行的工作。
@@ -60,10 +60,10 @@ tags:	[linuxcn,文件管理器,GNOME]
 ### 3、搜索一个文件时，列不会消失
 
 
-![之前](/Asserts/Images//attachment/album/202207/04/083818by467s4vpr4n7iys.jpg)
+![之前](/Asserts/Images/album/202207/04/083818by467s4vpr4n7iys.jpg)
 
 
-![之后](/Asserts/Images//attachment/album/202207/04/083819cz63zydga936jird.jpg)
+![之后](/Asserts/Images/album/202207/04/083819cz63zydga936jird.jpg)
 
 
 当你用当前的 Nautilus 文件管理器搜索一个文件时，列的处理方式不是很好。你会失去某些细节信息，如文件大小。
@@ -81,7 +81,7 @@ tags:	[linuxcn,文件管理器,GNOME]
 当你缩小文件管理器窗口的大小时，也处理的不是很好。你看不到文件扩展名的细节，而且列对变化没有反应。
 
 
-![](/Asserts/Images//attachment/album/202207/04/083819u3qyhj93wbcqzy3c.jpg)
+![](/Asserts/Images/album/202207/04/083819u3qyhj93wbcqzy3c.jpg)
 
 
 在 GNOME 文件管理器 43 alpha 版本中，即使你缩小了窗口的大小以获得一个紧凑的视图，你仍然可以看到列，以及如上所示的文件扩展名。
@@ -90,7 +90,7 @@ tags:	[linuxcn,文件管理器,GNOME]
 ### 5、新的文件上下文菜单
 
 
-![](/Asserts/Images//attachment/album/202207/04/083819y3lvvbkv33ppplly.jpg)
+![](/Asserts/Images/album/202207/04/083819y3lvvbkv33ppplly.jpg)
 
 
 作为对 2022 年 GSoC（谷歌编程之夏）的贡献的一部分，一位开发者正专注于改善新文档功能的可发现性。
@@ -108,7 +108,7 @@ tags:	[linuxcn,文件管理器,GNOME]
 ### 6、当你给一个文件加星时的动画
 
 
-![](/Asserts/Images//attachment/album/202207/04/084003q3q73brfu5w38kn3.gif)
+![](/Asserts/Images/album/202207/04/084003q3q73brfu5w38kn3.gif)
 
 
 当你点击列表项右侧的星形图标时，你可以发现它在移动，让你知道你与该选项进行了互动。

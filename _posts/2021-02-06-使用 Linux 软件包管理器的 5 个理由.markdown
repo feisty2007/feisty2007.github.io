@@ -15,7 +15,7 @@ tags:	[linuxcn,包管理器]
 > 
 
 
-![](/Asserts/Images//attachment/album/202102/28/123014kuhttz1kkkexwh9j.jpg)
+![](/Asserts/Images/album/202102/28/123014kuhttz1kkkexwh9j.jpg)
 
 
 在 2021 年，人们喜欢 Linux 的理由比以往任何时候都多。在这个系列中，我将分享 21 个使用 Linux 的不同理由。今天，我将谈谈软件仓库。

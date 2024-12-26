@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/201909/15/212659s3p37i4i4qb366tf.jpg)
+![](/Asserts/Images/album/201909/15/212659s3p37i4i4qb366tf.jpg)
 
 
 如果你使用的是 [Mozilla Firefox](https://itsfoss.com/why-firefox/) 并且尚未更新到最新版本，那么你将错过许多新的重要功能。
@@ -22,7 +22,7 @@ tags:	[linuxcn,Firefox]
 #### Firefox 69 阻拦视频自动播放
 
 
-![](/Asserts/Images//attachment/album/201909/15/212750mneaie1mi3gzixcj.png)
+![](/Asserts/Images/album/201909/15/212750mneaie1mi3gzixcj.png)
 
 
 现在很多网站都提供了自动播放视频。无论是弹出视频还是嵌入在文章中设置为自动播放的视频，默认情况下，Firefox 69 都会阻止它（或者可能会提示你）。
@@ -43,13 +43,13 @@ Cookie 有两种：第一方的和第三方的。第一方 cookie 由网站本�
 当它发挥作用时，你将在地址栏中看到盾牌图标。你可以选择为特定网站禁用它。
 
 
-![Firefox Blocking Tracking](/Asserts/Images//attachment/album/201909/15/212751eunea7jeurton8o1.png)
+![Firefox Blocking Tracking](/Asserts/Images/album/201909/15/212751eunea7jeurton8o1.png)
 
 
 #### 禁止加密矿工消耗你的 CPU
 
 
-![](/Asserts/Images//attachment/album/201909/15/212755osg2l1dumz22us1s.png)
+![](/Asserts/Images/album/201909/15/212755osg2l1dumz22us1s.png)
 
 
 对加密货币的欲望一直困扰着这个世界。GPU 的价格已经高企，因为专业的加密矿工们使用它们来挖掘加密货币。
@@ -67,7 +67,7 @@ Cookie 有两种：第一方的和第三方的。第一方 cookie 由网站本�
 #### Firefox 69 带来的更强隐私保护
 
 
-![](/Asserts/Images//attachment/album/201909/15/212800yoa5hfmem1zm8hff.jpg)
+![](/Asserts/Images/album/201909/15/212800yoa5hfmem1zm8hff.jpg)
 
 
 如果你把隐私保护设置得更严格，那么它也会阻止指纹。因此，当你在 Firefox 69 中选择严格的隐私设置时，你不必担心通过[指纹](https://clearcode.cc/blog/device-fingerprinting/)共享计算机的配置信息。

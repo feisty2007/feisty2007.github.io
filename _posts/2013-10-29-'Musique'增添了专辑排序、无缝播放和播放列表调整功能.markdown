@@ -7,7 +7,7 @@ tags:	[linuxcn,Musique,音乐,播放器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201310/14/1125370kllknsqjzlp8nlf.jpg)
+![](/Asserts/Images/album/201310/14/1125370kllknsqjzlp8nlf.jpg)
 
 
 *Musique1.3排序选项功能(OS X 截图)*

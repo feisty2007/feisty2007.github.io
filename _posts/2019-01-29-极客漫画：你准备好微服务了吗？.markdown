@@ -7,7 +7,7 @@ tags:	[linuxcn,微服务,极客漫画]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/14/123302dn2g2zmgzr29g9tz.png)
+![](/Asserts/Images/album/201901/14/123302dn2g2zmgzr29g9tz.png)
 
 
 微服务是个好东西，就像乐高积木一样，你可以拼成各种东西，当前，前提是你足够会玩。

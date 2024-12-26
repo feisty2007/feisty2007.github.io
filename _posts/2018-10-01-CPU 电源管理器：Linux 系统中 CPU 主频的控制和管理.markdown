@@ -7,7 +7,7 @@ tags:	[linuxcn,CPU,电源管理]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/24/230729oc9hwc7zo9zoactw.jpg)
+![](/Asserts/Images/album/201810/24/230729oc9hwc7zo9zoactw.jpg)
 
 
 你使用笔记本的话，可能知道 Linux 系统的电源管理做的很不好。虽然有 **TLP**、[**Laptop Mode Tools** 和 **powertop**](https://www.ostechnix.com/improve-laptop-battery-performance-linux/) 这些工具来辅助减少电量消耗，但跟 Windows 和 Mac OS 系统比较起来，电池的整个使用周期还是不尽如意。此外，还有一种降低功耗的办法就是限制 CPU 的频率。这是可行的，然而却需要编写很复杂的终端命令来设置，所以使用起来不太方便。幸好，有一款名为 **CPU Power Manager** 的 GNOME 扩展插件，可以很容易的就设置和管理你的 CPU 主频。GNOME 桌面系统中，CPU Power Manager 使用名为 **intel\_pstate** 的频率调整驱动程序（几乎所有的 Intel CPU 都支持）来控制和管理 CPU 主频。
@@ -25,13 +25,13 @@ tags:	[linuxcn,CPU,电源管理]
 安装好插件后，在 GNOME 顶部栏的右侧会出现一个 CPU 图标。点击图标，会出现安装此扩展一个选项提示，如下示：
 
 
-![](/Asserts/Images//attachment/album/201810/24/230730jjowoo7ezo30pjjt.png)
+![](/Asserts/Images/album/201810/24/230730jjowoo7ezo30pjjt.png)
 
 
 点击“尝试安装”按纽，会弹出输入密码确认框。插件需要 root 权限来添加 policykit 规则，进而控制 CPU 主频。下面是弹出的提示框样子：
 
 
-![](/Asserts/Images//attachment/album/201810/24/230731fv1gvh866etzeqff.png)
+![](/Asserts/Images/album/201810/24/230731fv1gvh866etzeqff.png)
 
 
 输入密码，点击“认证”按纽，完成安装。最后在 `/usr/share/polkit-1/actions` 目录下添加了一个名为 `mko.cpupower.setcpufreq.policy` 的 policykit 文件。
@@ -40,7 +40,7 @@ tags:	[linuxcn,CPU,电源管理]
 都安装完成后，如果点击右上脚的 CPU 图标，会出现如下所示：
 
 
-![](/Asserts/Images//attachment/album/201810/24/230732hz00jpjuk60087qs.png)
+![](/Asserts/Images/album/201810/24/230732hz00jpjuk60087qs.png)
 
 
 ### 功能特性
@@ -58,7 +58,7 @@ tags:	[linuxcn,CPU,电源管理]
 你也可以通过偏好设置窗口来自定义扩展插件显示形式：
 
 
-![](/Asserts/Images//attachment/album/201810/24/230733i4vvp7vdfkd34zkm.png)
+![](/Asserts/Images/album/201810/24/230733i4vvp7vdfkd34zkm.png)
 
 
 如你所见，你可以设置是否显示 CPU 主频，也可以设置是否以 **Ghz** 来代替 **Mhz** 显示。
@@ -67,7 +67,7 @@ tags:	[linuxcn,CPU,电源管理]
 你也可以编辑和创建/删除配置文件：
 
 
-![](/Asserts/Images//attachment/album/201810/24/230734nb77uow4cwm4wonh.png)
+![](/Asserts/Images/album/201810/24/230734nb77uow4cwm4wonh.png)
 
 
 可以为每个配置文件分别设置最大、最小主频及开/关 Turbo boost。

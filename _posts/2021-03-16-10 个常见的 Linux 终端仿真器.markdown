@@ -7,7 +7,7 @@ tags:	[linuxcn,终端]
 ---
 
 
-![](/Asserts/Images//attachment/album/202103/21/073043q4j4o6hr33b595j4.jpg)
+![](/Asserts/Images/album/202103/21/073043q4j4o6hr33b595j4.jpg)
 
 
 默认情况下，所有的 Linux 发行版都已经预装了“<ruby> 终端 <rt>  terminal </rt></ruby>”应用程序或“<ruby> 终端仿真器 <rt>  terminal emulator </rt></ruby>”（这才是正确的技术术语）。当然，根据桌面环境的不同，它的外观和感觉会有所不同。
@@ -28,7 +28,7 @@ Linux 的特点是，你可以不用局限于你的发行版所提供的东西�
 #### 1、Terminator
 
 
-![](/Asserts/Images//attachment/album/202103/21/073154taxq4dnpvp0ddev4.jpg)
+![](/Asserts/Images/album/202103/21/073154taxq4dnpvp0ddev4.jpg)
 
 
 主要亮点：
@@ -61,7 +61,7 @@ sudo apt install terminator
 #### 2、Guake 终端
 
 
-![](/Asserts/Images//attachment/album/202103/21/073154qf2pf6ggu27htfgp.png)
+![](/Asserts/Images/album/202103/21/073154qf2pf6ggu27htfgp.png)
 
 
 主要亮点：
@@ -99,7 +99,7 @@ sudo apt install guake
 #### 3、Tilix 终端
 
 
-![](/Asserts/Images//attachment/album/202103/21/073155dppanr4nkxs60x68.png)
+![](/Asserts/Images/album/202103/21/073155dppanr4nkxs60x68.png)
 
 
 主要亮点：
@@ -134,7 +134,7 @@ sudo apt install tilix
 #### 4、Hyper
 
 
-![](/Asserts/Images//attachment/album/202103/21/073155b7x9ijnun4paa34j.png)
+![](/Asserts/Images/album/202103/21/073155b7x9ijnun4paa34j.png)
 
 
 主要亮点：
@@ -164,7 +164,7 @@ Hyper 在默认的资源库中是不可用的。然而，你可以通过他们�
 #### 5、Tilda
 
 
-![](/Asserts/Images//attachment/album/202103/21/073156bcnchqgnb6gnlkiv.jpg)
+![](/Asserts/Images/album/202103/21/073156bcnchqgnb6gnlkiv.jpg)
 
 
 主要亮点：
@@ -198,7 +198,7 @@ sudo apt install tilda
 #### 6、eDEX-UI
 
 
-![](/Asserts/Images//attachment/album/202103/21/073156pmbhka1118jknqz8.png)
+![](/Asserts/Images/album/202103/21/073156pmbhka1118jknqz8.png)
 
 
 主要亮点：
@@ -231,7 +231,7 @@ sudo apt install tilda
 #### 7、Cool Retro Terminal
 
 
-![](/Asserts/Images//attachment/album/202103/21/073157wu9b3oluml09zljd.jpg)
+![](/Asserts/Images/album/202103/21/073157wu9b3oluml09zljd.jpg)
 
 
 主要亮点：
@@ -262,7 +262,7 @@ sudo apt install cool-retro-term
 #### 8、Alacritty
 
 
-![](/Asserts/Images//attachment/album/202103/21/073158kydzbb1oczy1bpu4.png)
+![](/Asserts/Images/album/202103/21/073158kydzbb1oczy1bpu4.png)
 
 
 主要亮点：
@@ -293,7 +293,7 @@ sudo apt install cool-retro-term
 #### 9、Konsole
 
 
-![](/Asserts/Images//attachment/album/202103/21/073158g1osmgo3i4hcmfmz.png)
+![](/Asserts/Images/album/202103/21/073158g1osmgo3i4hcmfmz.png)
 
 
 主要亮点：
@@ -327,7 +327,7 @@ sudo apt install konsole
 #### 10、GNOME 终端
 
 
-![](/Asserts/Images//attachment/album/202103/21/073159lbutvg5b5pzban1t.jpg)
+![](/Asserts/Images/album/202103/21/073159lbutvg5b5pzban1t.jpg)
 
 
 主要亮点：

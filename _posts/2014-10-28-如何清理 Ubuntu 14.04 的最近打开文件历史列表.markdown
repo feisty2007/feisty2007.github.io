@@ -16,19 +16,19 @@ tags:	[linuxcn,Ubuntu]
 转到系统设置（System Settings）并打开安全与隐私（Security & Privacy）。
 
 
-![](/Asserts/Images//attachment/album/201410/15/221755dq0rhzg2hgvrqu15.png)
+![](/Asserts/Images/album/201410/15/221755dq0rhzg2hgvrqu15.png)
 
 
 在文件与应用（Files and Applications）标签下，点击清除用户数据（Clear Usage Data）。
 
 
-![](/Asserts/Images//attachment/album/201410/15/221756hpps2iuk45rq5555.png)
+![](/Asserts/Images/album/201410/15/221756hpps2iuk45rq5555.png)
 
 
 你也可以关闭“记录文件与应用使用（Record file and Application usage）以阻止系统记录你当前使用的文件和应用。
 
 
-![](/Asserts/Images//attachment/album/201410/15/221800rtqqpv4ws3j5jv44.png)
+![](/Asserts/Images/album/201410/15/221800rtqqpv4ws3j5jv44.png)
 
 
 

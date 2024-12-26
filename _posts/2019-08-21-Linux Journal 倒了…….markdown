@@ -7,7 +7,7 @@ tags:	[linuxcn,开源社区]
 ---
 
 
-![](/Asserts/Images//attachment/album/201908/08/193809iop4hcvdv4t1o4o1.jpg)
+![](/Asserts/Images/album/201908/08/193809iop4hcvdv4t1o4o1.jpg)
 
 
 今天的消息，又挣扎了两年的《[Linux Journal](https://www.linuxjournal.com/)》，宣布倒闭了。他们[宣布](https://www.linuxjournal.com/content/linux-journal-ceases-publication-awkward-goodbye)：

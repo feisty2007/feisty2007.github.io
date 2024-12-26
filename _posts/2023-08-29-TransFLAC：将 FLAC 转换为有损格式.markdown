@@ -7,7 +7,7 @@ tags:	[linuxcn,FLAC]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/25/142504tpt99jjz99o955v2.jpg)
+![](/Asserts/Images/album/202308/25/142504tpt99jjz99o955v2.jpg)
 
 
 ### FLAC：无损音频压缩格式
@@ -52,7 +52,7 @@ $ sudo dnf install transflac
 
 ```
 
-![](/Asserts/Images//attachment/album/202308/25/142505xfepju080dn8r5z8.svg)
+![](/Asserts/Images/album/202308/25/142505xfepju080dn8r5z8.svg)
 
 
 

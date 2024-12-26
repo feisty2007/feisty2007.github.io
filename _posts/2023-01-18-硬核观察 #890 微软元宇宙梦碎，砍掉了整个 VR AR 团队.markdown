@@ -7,10 +7,10 @@ tags:	[linuxcn,扩展,VR,VSCode,元宇宙,GNOME]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/23/174145ckxz8qwq8q5ehv2e.jpg)
+![](/Asserts/Images/album/202301/23/174145ckxz8qwq8q5ehv2e.jpg)
 
 
-![](/Asserts/Images//attachment/album/202301/23/174155difxc97zxftkt9nt.jpg)
+![](/Asserts/Images/album/202301/23/174155difxc97zxftkt9nt.jpg)
 
 
 ### 微软元宇宙梦碎，砍掉了整个 VR/AR 团队
@@ -35,7 +35,7 @@ tags:	[linuxcn,扩展,VR,VSCode,元宇宙,GNOME]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/23/174206owo6aonz61fiionc.jpg)
+![](/Asserts/Images/album/202301/23/174206owo6aonz61fiionc.jpg)
 
 
 ### 83% 的 GNOME 用户安装了扩展
@@ -60,7 +60,7 @@ tags:	[linuxcn,扩展,VR,VSCode,元宇宙,GNOME]
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/23/174219zyyb345qzbbn343f.jpg)
+![](/Asserts/Images/album/202301/23/174219zyyb345qzbbn343f.jpg)
 
 
 ### VSCode 扩展市场容易出现欺骗性扩展

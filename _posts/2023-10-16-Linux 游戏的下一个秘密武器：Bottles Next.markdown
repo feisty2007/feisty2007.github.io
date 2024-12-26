@@ -7,7 +7,7 @@ tags:	[linuxcn,Bottles,Wine]
 ---
 
 
-![](/Asserts/Images//attachment/album/202310/06/123651ctvakzantvupnezt.jpg)
+![](/Asserts/Images/album/202310/06/123651ctvakzantvupnezt.jpg)
 
 
 
@@ -39,7 +39,7 @@ tags:	[linuxcn,Bottles,Wine]
 当前版本的 [Bottles](https://usebottles.com/) 是一款简洁且可以定制的应用，帮助你仅需点击几次便可管理和运行 Windows 应用和游戏。
 
 
-![Bottles 当前版本的截图](/Asserts/Images//attachment/album/202310/06/123717nyivt1f1cvvhbi7y.png)
+![Bottles 当前版本的截图](/Asserts/Images/album/202310/06/123717nyivt1f1cvvhbi7y.png)
 
 
 根据其未来升级计划（*尽管目前还没有具体的时间表*），开发者们准备提升用户体验，以及提供一个**更强大的后端**。与之配合的是，他们还计划**重新设计用户界面**，以满足初级和资深用户的需求。
@@ -54,7 +54,7 @@ tags:	[linuxcn,Bottles,Wine]
 这是其创建者 [Mirko Brombin](https://news.itsfoss.com/interview-mirko-brombin/) 分享的 Bottles Next 的一些效果图：
 
 
-![Bottles Next 展示两种模式的设计](/Asserts/Images//attachment/album/202310/06/123718n3fvweziwwnxw8jb.jpg)
+![Bottles Next 展示两种模式的设计](/Asserts/Images/album/202310/06/123718n3fvweziwwnxw8jb.jpg)
 
 
 如你所见，他们的目标是推出两种使用模式，即 “<ruby> Next 模式 <rt>  Next Mode </rt></ruby>” 针对初级用户，以及 “<ruby> 经典模式 <rt>  Classic Mode </rt></ruby>” 针对资深用户。
@@ -71,13 +71,13 @@ tags:	[linuxcn,Bottles,Wine]
 Bottles Next 的更新旨在提供更简洁的用户体验，同时依然保持了工具的可定制性。
 
 
-![](/Asserts/Images//attachment/album/202310/06/123718ebmnxjcdmrmjjbdp.jpg)
+![](/Asserts/Images/album/202310/06/123718ebmnxjcdmrmjjbdp.jpg)
 
 
 游戏信息界面看起来很吸引人，显示了重要信息，并提供了进入高级设置的选项。
 
 
-![](/Asserts/Images//attachment/album/202310/06/123718zk2j7urkq4r1jrtz.jpg)
+![](/Asserts/Images/album/202310/06/123718zk2j7urkq4r1jrtz.jpg)
 
 
 我个人觉得这个设计不错，*你觉得呢？*

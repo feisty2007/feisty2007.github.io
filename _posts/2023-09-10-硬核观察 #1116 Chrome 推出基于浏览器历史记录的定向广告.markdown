@@ -7,10 +7,10 @@ tags:	[linuxcn,Chrome,安卓,汽车]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/06/195403ms17gsuglwhj0ezl.jpg)
+![](/Asserts/Images/album/202309/06/195403ms17gsuglwhj0ezl.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/06/195414i6jjbcdpcgzhnm86.jpg)
+![](/Asserts/Images/album/202309/06/195414i6jjbcdpcgzhnm86.jpg)
 
 
 ### Chrome 推出基于浏览器历史记录的定向广告
@@ -35,7 +35,7 @@ tags:	[linuxcn,Chrome,安卓,汽车]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/06/195424r898yifq8fifye2f.jpg)
+![](/Asserts/Images/album/202309/06/195424r898yifq8fifye2f.jpg)
 
 
 ### 安卓 14 将禁止对系统证书的修改
@@ -60,7 +60,7 @@ tags:	[linuxcn,Chrome,安卓,汽车]
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/06/195439lt4lltdvl94gcgf9.jpg)
+![](/Asserts/Images/album/202309/06/195439lt4lltdvl94gcgf9.jpg)
 
 
 ### Mozilla 称汽车是数据隐私的噩梦

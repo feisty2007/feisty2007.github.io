@@ -7,7 +7,7 @@ tags:	[linuxcn,MP3,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/06/082915uxwvlk8y8v8ll0ww.png)
+![](/Asserts/Images/album/201705/06/082915uxwvlk8y8v8ll0ww.png)
 
 
 MP3 的编码和解码不久将被 Fedora 官方支持。
@@ -31,7 +31,7 @@ MP3 的开发始于上世纪八十年代的 Fraunhofer IIS，其基于之前的�
 以下是来自 [mp3-history.com](https://www.mp3-history.com/) 上的两张开发团队合影，有关 MP3 的历史信息也请查阅此网站：
 
 
-![MP3 开发团队，摄于 1987 年](/Asserts/Images//attachment/album/201705/06/084801dwcuqzwqw6vc2vww.jpg)
+![MP3 开发团队，摄于 1987 年](/Asserts/Images/album/201705/06/084801dwcuqzwqw6vc2vww.jpg)
 
 
-![MP3 开发团队，摄于 2007 年](/Asserts/Images//attachment/album/201705/06/084801wnojwoo67zoo66e9.jpg)
+![MP3 开发团队，摄于 2007 年](/Asserts/Images/album/201705/06/084801wnojwoo67zoo66e9.jpg)

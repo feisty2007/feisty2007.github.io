@@ -15,7 +15,7 @@ tags:	[linuxcn,微虚拟机,FreeBSD]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/31/162750z9mduhkks254zsdd.jpg)
+![](/Asserts/Images/album/202308/31/162750z9mduhkks254zsdd.jpg)
 
 
 在更换了 FreeBSD 内核中的排序算法后，其启动速度提高了 100 倍以上……虽然这是专门针对 <ruby> 微虚拟机 <rt>  microVM </rt></ruby> 的优化，但所有人都应能从中受益。

@@ -73,9 +73,9 @@ excerpt: 选择 Ubuntu 还是 Fedora？它们的区别是什么？哪一个更�
 fromurl: https://itsfoss.com/ubuntu-vs-fedora/
 id: 11059
 islctt: true
-largepic: /Asserts/Images//attachment/album/201907/05/121507px4cu84bwcpczcau.png
+largepic: /Asserts/Images/album/201907/05/121507px4cu84bwcpczcau.png
 permalink: /article-11059-1.html
-pic: /Asserts/Images//attachment/album/201907/05/121507px4cu84bwcpczcau.png.thumb.jpg
+pic: /Asserts/Images/album/201907/05/121507px4cu84bwcpczcau.png.thumb.jpg
 related: []
 reviewer: wxy
 selector: lujun9972
@@ -107,7 +107,7 @@ updated: '2019-07-05 12:15:05'
 ### Ubuntu vs Fedora: 哪一个更好？
 
 
-![Ubuntu Vs Fedora](/Asserts/Images//attachment/album/201907/05/121507px4cu84bwcpczcau.png)
+![Ubuntu Vs Fedora](/Asserts/Images/album/201907/05/121507px4cu84bwcpczcau.png)
 
 
 不同 Linux 发行版之间的区别主要体现在以下几个方面：
@@ -138,13 +138,13 @@ Ubuntu 安装器可以让你在大约 10 分钟左右完成安装。大多数情
 锦上添花的是，在安装 Ubuntu 的过程中你还可以进行系统更新，或者是安装第三方编译码器。
 
 
-![Ubuntu Installer](/Asserts/Images//attachment/album/201907/05/121510q9279e647677u67u.jpg)
+![Ubuntu Installer](/Asserts/Images/album/201907/05/121510q9279e647677u67u.jpg)
 
 
 Fedora 使用的是 Anaconda 安装器，拥有简单易用的界面，同样简化了安装过程。
 
 
-![Fedora Installer | Image Credit Fedora Magazine](/Asserts/Images//attachment/album/201907/05/121511rlb7lyv0pplukpbz.png)
+![Fedora Installer | Image Credit Fedora Magazine](/Asserts/Images/album/201907/05/121511rlb7lyv0pplukpbz.png)
 
 
 Fodora 还提供了一个可以在 Windows 操作系统上下载并创建 Fedora live USB 的写入工具。不过我在大约两年前尝试使用它的时候并不成功，最后使用了一个常规的创建 live USB 的软件。
@@ -159,13 +159,13 @@ Fodora 还提供了一个可以在 Windows 操作系统上下载并创建 Fedora
 Ubuntu 和 Fedora 默认都使用 GNOME 桌面环境。
 
 
-![GNOME Desktop in Fedora](/Asserts/Images//attachment/album/201907/05/121514jvnjg7roosjio9qs.png)
+![GNOME Desktop in Fedora](/Asserts/Images/album/201907/05/121514jvnjg7roosjio9qs.png)
 
 
 Fedora 使用的是原装的 GNOME 桌面，而 Ubuntu 则在此基础上做了个性化调整，让它看起来就像 Ubuntu 之前使用的 Unity 桌面环境。
 
 
-![GNOME desktop customized by Ubuntu](/Asserts/Images//attachment/album/201907/05/121515plxx872lrz38sqwq.jpg)
+![GNOME desktop customized by Ubuntu](/Asserts/Images/album/201907/05/121515plxx872lrz38sqwq.jpg)
 
 
 除了 GNOME，Ubuntu 和 Fedora 都提供了一些其它桌面环境的版本。
@@ -204,7 +204,7 @@ Ubuntu 使用 APT 软件包管理器提供软件并进行管理（包括应用�
 在 Ubuntu 上你可以轻松安装专有驱动程序作为补充。在很多情况下，这样可以获得对硬件更好的支持。
 
 
-![Installing proprietary driver is easier in Ubuntu](/Asserts/Images//attachment/album/201907/05/121516ot9itd8i8x3u7vit.png)
+![Installing proprietary driver is easier in Ubuntu](/Asserts/Images/album/201907/05/121516ot9itd8i8x3u7vit.png)
 
 
 Fedora 则坚持使用开源软件，所以在 Fedora 上安装专有驱动程序就比较困难了。
@@ -261,7 +261,7 @@ Ubuntu 和 Fedora 的背后都有基于 Linux 的企业的支持，这让它们�
 到目前为止，我们在 Ubuntu 和 Fedora 之间的对比主要都集中在桌面端。不过如果不考虑一下服务端的话，对 Linux 的讨论就不能算是完整的。
 
 
-![Ubuntu Server](/Asserts/Images//attachment/album/201907/05/121517hiwlb6mzjll6l8dm.png)
+![Ubuntu Server](/Asserts/Images/album/201907/05/121517hiwlb6mzjll6l8dm.png)
 
 
 Ubuntu 不仅在桌面端很流行，在服务端也有很强的存在感。如果你能够在桌面端熟练使用 Ubuntu，那么也不会对 Ubuntu 服务器版本感到陌生。我就是从使用 Ubuntu 桌面端开始的，现在我的网站都运行在 Ubuntu 服务器上。

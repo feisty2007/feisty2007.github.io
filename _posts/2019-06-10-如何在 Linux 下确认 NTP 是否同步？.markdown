@@ -7,7 +7,7 @@ tags:	[linuxcn,NTP]
 ---
 
 
-![](/Asserts/Images//attachment/album/201906/08/215622oqdhiuhocsndijlu.jpg)
+![](/Asserts/Images/album/201906/08/215622oqdhiuhocsndijlu.jpg)
 
 
 NTP 意即<ruby> 网络时间协议 <rt>  Network Time Protocol </rt></ruby>，它通过网络同步计算机系统之间的时钟。NTP 服务器可以使组织中的所有服务器保持同步，以准确时间执行基于时间的作业。NTP 客户端会将其时钟与 NTP 服务器同步。

@@ -15,7 +15,7 @@ tags:	[linuxcn,GNOME,ChatGPT]
 > 
 
 
-![A ChatGPT GNOME Extension is in Development for Linux Users](/Asserts/Images//attachment/album/202302/01/155536pdr00ly05qleq8q9.png)
+![A ChatGPT GNOME Extension is in Development for Linux Users](/Asserts/Images/album/202302/01/155536pdr00ly05qleq8q9.png)
 
 
 [ChatGPT](https://chat.openai.com) 是一个在当下十分流行的聊天机器人，它可以与用户进行互动，用户就像在对话一样。
@@ -45,7 +45,7 @@ tags:	[linuxcn,GNOME,ChatGPT]
 ### 这个扩展仍在开发中：让我们持续保持关注吧！
 
 
-![chatgpt gnome extension](/Asserts/Images//attachment/album/202302/01/155537nx77nfigtzg494gl.jpg)
+![chatgpt gnome extension](/Asserts/Images/album/202302/01/155537nx77nfigtzg494gl.jpg)
 
 
 这是一个 GNOME 桌面扩展，将 ChatGPT 添加到了桌面的 <ruby> 系统托盘 <rt>  system tray </rt></ruby> 中。

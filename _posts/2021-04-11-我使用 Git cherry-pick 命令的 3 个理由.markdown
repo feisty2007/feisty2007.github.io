@@ -15,7 +15,7 @@ tags:	[linuxcn,遴选,Git]
 > 
 
 
-![](/Asserts/Images//attachment/album/202104/17/174429qw1im6if6mf6zi9i.jpg "Measuring and baking a cherry pie recipe")
+![](/Asserts/Images/album/202104/17/174429qw1im6if6mf6zi9i.jpg "Measuring and baking a cherry pie recipe")
 
 
 在版本控制系统中摸索前进是一件很棘手的事情。对于一个新手来说，这可能是非常难以应付的，但熟悉版本控制系统（如 Git）的术语和基础知识是开始为开源贡献的第一步。

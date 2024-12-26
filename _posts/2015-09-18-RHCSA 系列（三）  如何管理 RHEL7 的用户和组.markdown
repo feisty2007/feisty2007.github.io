@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCSA]
 和管理其它Linux服务器一样，管理一个 RHEL 7 服务器要求你能够添加、修改、暂停或删除用户帐户，并且授予他们执行其分配的任务所需的文件、目录、其它系统资源所必要的权限。
 
 
-![User and Group Management in Linux](/Asserts/Images//attachment/album/201509/09/225821vmtpe1djxw99zf94.png)
+![User and Group Management in Linux](/Asserts/Images/album/201509/09/225821vmtpe1djxw99zf94.png)
 
 
 *RHCSA: 用户和组管理 – Part 3*
@@ -105,7 +105,7 @@ tags:	[linuxcn,RHCSA]
 帐户更新前后的变动如下图所示
 
 
-![Change User Account Information](/Asserts/Images//attachment/album/201509/09/225822npi8ttwglxdqdqta.png)
+![Change User Account Information](/Asserts/Images/album/201509/09/225822npi8ttwglxdqdqta.png)
 
 
 *修改用户信息*
@@ -142,7 +142,7 @@ tags:	[linuxcn,RHCSA]
 下面图片的演示了示例2到示例4
 
 
-![Adding User to Supplementary Group](/Asserts/Images//attachment/album/201509/09/225824id1s0za2dlmkybzm.png)
+![Adding User to Supplementary Group](/Asserts/Images/album/201509/09/225824id1s0za2dlmkybzm.png)
 
 
 *添加用户到额外的组*
@@ -181,7 +181,7 @@ tags:	[linuxcn,RHCSA]
 下面的图片展示了示例5和示例6：
 
 
-![Lock Unlock User Account](/Asserts/Images//attachment/album/201509/09/225828xf5jjjhoxk77xg45.png)
+![Lock Unlock User Account](/Asserts/Images/album/201509/09/225828xf5jjjhoxk77xg45.png)
 
 
 *锁定上锁用户*
@@ -243,7 +243,7 @@ new\_mode 是一个八进制数或表达式，用于指定新的权限。随意�
 八进制数可以基于二进制等价计算，可以从所需的文件权限的文件的所有者、所有组、和世界组合成。每种权限都等于2的幂（R = 2^2，W = 2^1，x = 2^0），没有时即为0。例如：
 
 
-![File Permissions](/Asserts/Images//attachment/album/201509/09/225830iptd353xpxx2cwxc.png)
+![File Permissions](/Asserts/Images/album/201509/09/225830iptd353xpxx2cwxc.png)
 
 
 *文件权限*
@@ -261,7 +261,7 @@ new\_mode 是一个八进制数或表达式，用于指定新的权限。随意�
 请用马上来对比一下我们以前的计算，在更改文件的权限后，我们的实际输出为：
 
 
-![Long List Format](/Asserts/Images//attachment/album/201509/09/225832z5sp88b0886sbfff.png)
+![Long List Format](/Asserts/Images/album/201509/09/225832z5sp88b0886sbfff.png)
 
 
 *长列表格式*
@@ -282,7 +282,7 @@ new\_mode 是一个八进制数或表达式，用于指定新的权限。随意�
 
 ```
 
-![Find All Files with 777 Permission](/Asserts/Images//attachment/album/201509/09/225834xxyytyzy3ytz3ytb.png)
+![Find All Files with 777 Permission](/Asserts/Images/album/201509/09/225834xxyytyzy3ytz3ytb.png)
 
 
 *查找所有777权限的文件*
@@ -303,7 +303,7 @@ shell脚本，以及一些二进制文件，所有用户都应该有权访问（
 **注意**: 我们可以使用表达式设置文件模式，表示用户权限的字母如“u”，组所有者权限的字母“g”，其余的为“o” ，同时具有所有权限为“a”。权限可以通过`+` 或 `-` 来授予和收回。
 
 
-![Set Execute Permission on File](/Asserts/Images//attachment/album/201509/09/225835gk6pevk3o8k40uvz.png)
+![Set Execute Permission on File](/Asserts/Images/album/201509/09/225835gk6pevk3o8k40uvz.png)
 
 
 *为文件设置执行权限*
@@ -312,7 +312,7 @@ shell脚本，以及一些二进制文件，所有用户都应该有权访问（
 长目录列表还用两列显示了该文件的所有者和所有组。此功能可作为系统中文件的第一级访问控制方法：
 
 
-![Check File Owner and Group](/Asserts/Images//attachment/album/201509/09/225837q3pggcvzn3v7pqca.png)
+![Check File Owner and Group](/Asserts/Images/album/201509/09/225837q3pggcvzn3v7pqca.png)
 
 
 *检查文件的所有者和所有组*
@@ -352,7 +352,7 @@ shell脚本，以及一些二进制文件，所有用户都应该有权访问（
 ref\_file的所有信息会复制给 file
 
 
-![Clone File Ownership](/Asserts/Images//attachment/album/201509/09/225838s8mvtfdwtnfmdx6v.png)
+![Clone File Ownership](/Asserts/Images/album/201509/09/225838s8mvtfdwtnfmdx6v.png)
 
 
 *复制文件属主信息*

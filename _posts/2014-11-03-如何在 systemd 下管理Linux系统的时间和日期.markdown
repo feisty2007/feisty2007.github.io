@@ -13,7 +13,7 @@ tags:	[linuxcn,时间,timedatectl,systemd]
 在这篇文章中，我们将涉及该小巧但十分重要应用程序的所有方面。
 
 
-![](/Asserts/Images//attachment/album/201411/20/130447i44433k0h2vz1cj3.jpg)
+![](/Asserts/Images/album/201411/20/130447i44433k0h2vz1cj3.jpg)
 
 
 ### 系统当前的时间状态
@@ -31,7 +31,7 @@ tags:	[linuxcn,时间,timedatectl,systemd]
 输入的结果就像这样：
 
 
-![](/Asserts/Images//attachment/album/201411/20/130450wfhhct8nnchrgfgh.jpg)
+![](/Asserts/Images/album/201411/20/130450wfhhct8nnchrgfgh.jpg)
 
 
 ### 修改日期

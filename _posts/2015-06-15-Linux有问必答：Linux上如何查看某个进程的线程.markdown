@@ -36,7 +36,7 @@ $ ps -T -p <pid>
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/15/154434dk08im4nh8h0808n.jpg)
+![](/Asserts/Images/album/201506/15/154434dk08im4nh8h0808n.jpg)
 
 
 “SID”栏表示线程ID，而“CMD”栏则显示了线程名称。
@@ -54,7 +54,7 @@ $ top -H
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/15/154440lmmw45ln5o6mhz65.jpg)
+![](/Asserts/Images/album/201506/15/154440lmmw45ln5o6mhz65.jpg)
 
 
 要让top输出某个特定进程<pid>并检查该进程内运行的线程状况：
@@ -66,7 +66,7 @@ $ top -H -p <pid>
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/15/154442r5w5yzvryw7vi9z6.jpg)
+![](/Asserts/Images/album/201506/15/154442r5w5yzvryw7vi9z6.jpg)
 
 
 ### 方法三： Htop
@@ -78,13 +78,13 @@ $ top -H -p <pid>
 要在htop中启用线程查看，请开启htop，然后按<F2>来进入htop的设置菜单。选择“设置”栏下面的“显示选项”，然后开启“树状视图”和“显示自定义线程名”选项。按<F10>退出设置。
 
 
-![](/Asserts/Images//attachment/album/201506/15/154457f9oyczwyc9rm9cya.jpg)
+![](/Asserts/Images/album/201506/15/154457f9oyczwyc9rm9cya.jpg)
 
 
 现在，你就会看到下面这样单个进程的线程视图。
 
 
-![](/Asserts/Images//attachment/album/201506/15/154505xn1rsvzv1ptnrpos.jpg)
+![](/Asserts/Images/album/201506/15/154505xn1rsvzv1ptnrpos.jpg)
 
 
 

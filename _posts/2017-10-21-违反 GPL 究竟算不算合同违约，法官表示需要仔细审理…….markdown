@@ -7,7 +7,7 @@ tags:	[linuxcn,GPL,Ghostscript]
 ---
 
 
-![](/Asserts/Images//attachment/album/201710/17/231500t3ssjj1c3jr3ztkm.jpeg)
+![](/Asserts/Images/album/201710/17/231500t3ssjj1c3jr3ztkm.jpeg)
 
 
 据自由软件基金会（FSF）报道，正在进行中的 GPL 合规案件 Artifex v. Hancom 近日产生了新的裁决，一项旨在提请简易判决的动议被法院驳回。

@@ -7,7 +7,7 @@ tags:	[linuxcn,协程,并行,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/201609/18/114551xlyhloh0lxxcy9yn.jpg)
+![](/Asserts/Images/album/201609/18/114551xlyhloh0lxxcy9yn.jpg)
 
 
 
@@ -24,7 +24,7 @@ tags:	[linuxcn,协程,并行,Python]
 * [游戏入口在此，点此体验](http://snakepit-game.com/)。
 
 
-![](/Asserts/Images//attachment/album/201609/18/114717vzjjb8ryymlrsyng.gif)
+![](/Asserts/Images/album/201609/18/114717vzjjb8ryymlrsyng.gif)
 
 
 ### 3、编写游戏循环主体

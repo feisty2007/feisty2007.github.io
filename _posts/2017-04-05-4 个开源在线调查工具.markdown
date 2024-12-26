@@ -7,7 +7,7 @@ tags:	[linuxcn,调查,问卷]
 ---
 
 
-![4 open source tools for doing online surveys](/Asserts/Images//attachment/album/201704/03/070219tu6dr0yrqznxrurq.png "4 open source tools for doing online surveys")
+![4 open source tools for doing online surveys](/Asserts/Images/album/201704/03/070219tu6dr0yrqznxrurq.png "4 open source tools for doing online surveys")
 
 
 啊，一个好的调查，能够以快速、简单、便宜、有效的方式收集朋友、家人、同学、同事、客户、读者和其他人的意见。

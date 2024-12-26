@@ -38,7 +38,7 @@ w
 **样例输出：**
 
 
-![Fig.01: Various Linux commands in action to find out the server uptime](/Asserts/Images//attachment/album/201509/28/110005f3oraa99zlittooa.jpg)
+![Fig.01: Various Linux commands in action to find out the server uptime](/Asserts/Images/album/201509/28/110005f3oraa99zlittooa.jpg)
 
 
 *图01：用于找出服务器开机时间的多个Linux命令*
@@ -79,7 +79,7 @@ $ ls
 **样例输出：**
 
 
-![Fig.02: Cloning a git repo](/Asserts/Images//attachment/album/201509/28/110006svqkwoqgqkk2gopq.jpg)
+![Fig.02: Cloning a git repo](/Asserts/Images/album/201509/28/110006svqkwoqgqkk2gopq.jpg)
 
 
 *图02：克隆git仓库*
@@ -141,7 +141,7 @@ $ sudo tuptime
 **样例输出：**
 
 
-![Fig.03: tuptime in action](/Asserts/Images//attachment/album/201509/28/110007jj56r1w5rg0igtmg.jpg)
+![Fig.03: tuptime in action](/Asserts/Images/album/201509/28/110007jj56r1w5rg0igtmg.jpg)
 
 
 *图03：tuptime工作中*

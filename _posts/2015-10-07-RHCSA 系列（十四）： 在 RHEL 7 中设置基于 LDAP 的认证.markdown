@@ -10,7 +10,7 @@ tags:	[linuxcn,RHCSA]
 在这篇文章中，我们将首先罗列一些 LDAP 的基础知识（它是什么，它被用于何处以及为什么会被这样使用），然后向你展示如何使用 RHEL 7 系统来设置一个 LDAP 服务器以及配置一个客户端来使用它达到认证的目的。
 
 
-![设置 LDAP 服务器及客户端认证](/Asserts/Images//attachment/album/201510/04/004634ndnpybdz1yj5qqya.png)
+![设置 LDAP 服务器及客户端认证](/Asserts/Images/album/201510/04/004634ndnpybdz1yj5qqya.png)
 
 
 *RHCSA 系列：设置 LDAP 服务器及客户端认证 – Part 14*
@@ -53,7 +53,7 @@ LDAP 代表<ruby> 轻量级目录访问协议 <rp>  （ </rp> <rt>  Lightweight 
 下面的图表提供了一个简化了的关于 LDAP 的示意图，在下面将会进行更多的描述：
 
 
-![LDAP 示意图](/Asserts/Images//attachment/album/201510/04/004637tvzbuvsken3ffes3.png)
+![LDAP 示意图](/Asserts/Images/album/201510/04/004637tvzbuvsken3ffes3.png)
 
 
 *LDAP 示意图*
@@ -144,7 +144,7 @@ LDAP 代表<ruby> 轻量级目录访问协议 <rp>  （ </rp> <rt>  Lightweight 
 正如下一幅图所展示的那样：
 
 
-![设置 LDAP 管理密码](/Asserts/Images//attachment/album/201510/04/004638sz2ojlbnaj1cw1ow.png)
+![设置 LDAP 管理密码](/Asserts/Images/album/201510/04/004638sz2ojlbnaj1cw1ow.png)
 
 
 *设置 LDAP 管理密码*
@@ -188,7 +188,7 @@ olcRootPW: {SSHA}PASSWORD
 上面命令的输出应该与下面的图像相似：
 
 
-![LDAP 配置](/Asserts/Images//attachment/album/201510/04/004638s7p4gpsjp7fjdoyg.png)
+![LDAP 配置](/Asserts/Images/album/201510/04/004638s7p4gpsjp7fjdoyg.png)
 
 
 *LDAP 配置*
@@ -203,7 +203,7 @@ olcRootPW: {SSHA}PASSWORD
 
 ```
 
-![LDAP 定义](/Asserts/Images//attachment/album/201510/04/004640rmcxcjjty9myy9xj.png)
+![LDAP 定义](/Asserts/Images/album/201510/04/004640rmcxcjjty9myy9xj.png)
 
 
 *LDAP 定义*
@@ -257,7 +257,7 @@ olcAccess: {2}to * by dn="cn=Manager,dc=mydomain,dc=com" write by * read
 
 ```
 
-![LDAP 域名配置](/Asserts/Images//attachment/album/201510/04/004642ymmnt77gm1shm31m.png)
+![LDAP 域名配置](/Asserts/Images/album/201510/04/004642ymmnt77gm1shm31m.png)
 
 
 *LDAP 域名配置*
@@ -299,7 +299,7 @@ ou: Group
 
 ```
 
-![添加 LDAP 域名，属性和键值](/Asserts/Images//attachment/album/201510/04/004644u0tql4lbqahttsus.png)
+![添加 LDAP 域名，属性和键值](/Asserts/Images/album/201510/04/004644u0tql4lbqahttsus.png)
 
 
 *添加 LDAP 域名，属性和键值*
@@ -369,7 +369,7 @@ shadowWarning: 0
 
 ```
 
-![LDAP 用户配置](/Asserts/Images//attachment/album/201510/04/004646t32khzaa1ffk1n8w.png)
+![LDAP 用户配置](/Asserts/Images/album/201510/04/004646t32khzaa1ffk1n8w.png)
 
 
 *LDAP 用户配置*
@@ -408,7 +408,7 @@ shadowWarning: 0
 
 ```
 
-![LDAP 客户端认证](/Asserts/Images//attachment/album/201510/04/004646j981egi08v198j0v.png)
+![LDAP 客户端认证](/Asserts/Images/album/201510/04/004646j981egi08v198j0v.png)
 
 
 *LDAP 客户端认证*

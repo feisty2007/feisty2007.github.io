@@ -7,7 +7,7 @@ tags:	[linuxcn,Linus Torvalds,LinuxCon,NSA]
 ---
 
 
-![Linus Torvalds](/Asserts/Images//attachment/album/201310/02/173305eukcufo9686s26om.jpg)
+![Linus Torvalds](/Asserts/Images/album/201310/02/173305eukcufo9686s26om.jpg)
 
 
 **Torvalds对美国政府是否曾要求他在Linux中植入后门的问题进行了回应，他还解释了为何说自己是一名开发者，并向其他开发人员介绍了经验。**

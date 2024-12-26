@@ -15,7 +15,7 @@ tags:	[linuxcn,Mutt,Gmail,邮件]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/12/104952frwgx4oz4xrinbxl.jpg "young woman working on a laptop")
+![](/Asserts/Images/album/202107/12/104952frwgx4oz4xrinbxl.jpg "young woman working on a laptop")
 
 
 我喜欢在 Linux 终端上读写电子邮件的便捷，因此我是 [Mutt](http://www.mutt.org/) 这个轻量简洁的电子邮件客户端的忠实用户。对于电子邮件服务来说，不同的系统配置和网络接入并不会造成什么影响。这个客户端通常隐藏在我 Linux 终端的 [某个标签页或者某个终端复用器的面板](https://opensource.com/article/21/5/linux-terminal-multiplexer) 上，需要用的时候随时可以调出来，不需要使用的时候放到后台，就不需要在桌面上一直放置一个电子邮件客户端的应用程序。
@@ -272,7 +272,7 @@ $ mutt
 Mutt 会提示你打开用于管理电子邮件的目录权限，并展示收件箱的视图。
 
 
-![Mutt email client](/Asserts/Images//attachment/album/202107/12/105003nysa3xy9wzl194n0.png "Mutt email client")
+![Mutt email client](/Asserts/Images/album/202107/12/105003nysa3xy9wzl194n0.png "Mutt email client")
 
 
 ### 学习使用 Mutt

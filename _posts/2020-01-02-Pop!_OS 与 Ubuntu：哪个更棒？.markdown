@@ -22,7 +22,7 @@ tags:	[linuxcn,Ubuntu]
 ### 比较 Ubuntu 和 Pop!\_OS
 
 
-![Pop!_OS Vs Ubuntu](/Asserts/Images//attachment/album/202001/03/085307q17bbb7tnn8fd7bb.png)
+![Pop!_OS Vs Ubuntu](/Asserts/Images/album/202001/03/085307q17bbb7tnn8fd7bb.png)
 
 
 发现相似之处可帮助你区分其他差异之处。因此，让我们从一些明显的相似之处开始。
@@ -40,7 +40,7 @@ tags:	[linuxcn,Ubuntu]
 #### 用户体验及主题
 
 
-![Pop!_OS](/Asserts/Images//attachment/album/202001/03/085310zjlcwmgzc7lgyxsx.jpg)
+![Pop!_OS](/Asserts/Images/album/202001/03/085310zjlcwmgzc7lgyxsx.jpg)
 
 
 许多用户认为 Pop!\_OS 只是具有不同外观的 Ubuntu。
@@ -67,7 +67,7 @@ tags:	[linuxcn,Ubuntu]
 #### 易于安装第三方应用
 
 
-![Pop Os PPA](/Asserts/Images//attachment/album/202001/03/085311yzexzprhhxr3ezjy.jpg)
+![Pop Os PPA](/Asserts/Images/album/202001/03/085311yzexzprhhxr3ezjy.jpg)
 
 
 Ubuntu 非常重视 Snap 软件包。这增加了它提供的应用程序的数量。
@@ -88,7 +88,7 @@ Ubuntu 非常重视 Snap 软件包。这增加了它提供的应用程序的数�
 #### 预装应用
 
 
-![Ubuntu installation slideshow](/Asserts/Images//attachment/album/202001/03/085313ozap7jurabzk15h1.jpg)
+![Ubuntu installation slideshow](/Asserts/Images/album/202001/03/085313ozap7jurabzk15h1.jpg)
 
 
 对于某些人来说，它可能不是最大的问题，但是拥有大量预安装的应用程序可能会影响体验和性能。即使不影响性能，某些用户也只喜欢较少的预装应用程序。
@@ -103,7 +103,7 @@ Ubuntu 非常重视 Snap 软件包。这增加了它提供的应用程序的数�
 #### Snap 软件包支持
 
 
-![](/Asserts/Images//attachment/album/202001/03/085313vrqdts8jhjxrrxax.jpg)
+![](/Asserts/Images/album/202001/03/085313vrqdts8jhjxrrxax.jpg)
 
 
 对于熟悉 Snap 程序包的用户来说，Ubuntu 的软件中心是比 Pop!\_OS 商店更好的解决方案，因为你可以在软件中心中列出 Snap 程序包。
@@ -121,7 +121,7 @@ Ubuntu 非常重视 Snap 软件包。这增加了它提供的应用程序的数�
 #### 单独的 NVIDIA/AMD ISO 文件
 
 
-![ISOs](/Asserts/Images//attachment/album/202001/03/085314h50wyyzz630xmew0.jpg)
+![ISOs](/Asserts/Images/album/202001/03/085314h50wyyzz630xmew0.jpg)
 
 
 从技术上讲，它不是内部比较的一部分，而是某些用户关心的一个因素。

@@ -7,7 +7,7 @@ tags:	[linuxcn,openEuler,EulerMaker]
 ---
 
 
-![](/Asserts/Images//attachment/album/202301/10/113845z924lascl8a9e339.jpg)
+![](/Asserts/Images/album/202301/10/113845z924lascl8a9e339.jpg)
 
 
 ### 引言
@@ -44,7 +44,7 @@ Linux 中国开源社区就此采访了**吴峰光博士**，为读者挖掘到�
 > 
 
 
-![](/Asserts/Images//attachment/album/202301/10/112113ebs4bsm550d7zamh.jpg)
+![](/Asserts/Images/album/202301/10/112113ebs4bsm550d7zamh.jpg)
 
 
 “要做全场景 OS，就引入了一个需求：原来的构建系统，如何转化为全场景统一构建系统？”

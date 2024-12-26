@@ -16,7 +16,7 @@ FTP 服务器是最为古老且最常使用的资源之一（即便到今天也�
 在 RHEL 7 中可用的 web 服务器是版本号为 2.4 的 Apache HTTP 服务器。至于 FTP 服务器，我们将使用 Very Secure Ftp Daemon (又名 vsftpd) 来建立用 TLS 加固的连接。
 
 
-![配置和加固 Apache 和 FTP 服务器](/Asserts/Images//attachment/album/201509/24/141148zmdu27mmzkmkgk22.png)
+![配置和加固 Apache 和 FTP 服务器](/Asserts/Images/album/201509/24/141148zmdu27mmzkmkgk22.png)
 
 
 *RHCSA: 安装，配置及加固 Apache 和 FTP 服务器 – Part 9*
@@ -63,7 +63,7 @@ FTP 服务器是最为古老且最常使用的资源之一（即便到今天也�
 为了确认 web 服务工作正常，打开你的浏览器并输入服务器的 IP，则你应该可以看到如下的测试页面：
 
 
-![确认 Apache Web 服务器](/Asserts/Images//attachment/album/201509/24/141149ncurvsu9axv3ul34.png)
+![确认 Apache Web 服务器](/Asserts/Images/album/201509/24/141149ncurvsu9axv3ul34.png)
 
 
 *确认 Apache Web 服务器*
@@ -162,7 +162,7 @@ ServerName 192.168.0.18:9000
 
 ```
 
-![添加 Apache 端口到 SELinux 策略](/Asserts/Images//attachment/album/201509/24/141151s8pee028koj0cimi.png)
+![添加 Apache 端口到 SELinux 策略](/Asserts/Images/album/201509/24/141151s8pee028koj0cimi.png)
 
 
 *添加 Apache 端口到 SELinux 策略*
@@ -248,7 +248,7 @@ tcp_wrappers=YES
 现在，你可以使用一个客户端例如 Filezilla 来连接一个 ftp 服务器：
 
 
-![查看 FTP 连接](/Asserts/Images//attachment/album/201509/24/141153trlga9wrsekqrgwg.png)
+![查看 FTP 连接](/Asserts/Images/album/201509/24/141153trlga9wrsekqrgwg.png)
 
 
 *查看 FTP 连接*
@@ -257,7 +257,7 @@ tcp_wrappers=YES
 注意， `/var/log/xferlog` 日志将会记录下载和上传的情况，这与上图的目录列表一致：
 
 
-![监视 FTP 的下载和上传情况](/Asserts/Images//attachment/album/201509/24/141154lca9c6xbx2es6zw2.png)
+![监视 FTP 的下载和上传情况](/Asserts/Images/album/201509/24/141154lca9c6xbx2es6zw2.png)
 
 
 *监视 FTP 的下载和上传情况*

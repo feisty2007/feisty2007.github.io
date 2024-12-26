@@ -7,7 +7,7 @@ tags:	[linuxcn,内核,Ubuntu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/08/112355c11z061in6oanw60.jpg)
+![](/Asserts/Images/album/201808/08/112355c11z061in6oanw60.jpg)
 
 
 Ubuntu 中有许多实用程序可以将 Linux 内核升级到最新的稳定版本。我们之前已经写过关于这些实用程序的文章，例如 Linux Kernel Utilities (LKU)、 Ubuntu Kernel Upgrade Utility (UKUU) 和 Ubunsys。

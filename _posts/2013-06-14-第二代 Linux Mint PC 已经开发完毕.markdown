@@ -23,7 +23,7 @@ tags:	[linuxcn,Linux Mint PC,MintBox2]
 　　在价格上来说，预计售价将是 599 美元，比第一代的 476 美元也贵了不少。
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201306/28/093340mz8uetb8merqma88.jpg](/Asserts/Images//attachment/album/201306/28/093340mz8uetb8merqma88.jpg)
+![https://img.linux.net.cn/Asserts/Images/album/201306/28/093340mz8uetb8merqma88.jpg](/Asserts/Images/album/201306/28/093340mz8uetb8merqma88.jpg)
 
 
 ![](https://img.linux.net.cn/xwb/images/bgimg/icon_logo.png) 已同步至 [linux的微博](http://weibo.com/1772191555/zDHqceaNl)

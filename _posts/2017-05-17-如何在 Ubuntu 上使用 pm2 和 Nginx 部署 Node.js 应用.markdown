@@ -13,7 +13,7 @@ pm2 是一个 Node.js 应用的进程管理器，它可以让你的应用程序�
 在这篇博文中，我会向你展示如何安装和配置 pm2 用于这个简单的 'Express' 应用，然后配置 Nginx 作为运行在 pm2 下的 node 应用的反向代理。
 
 
-![](/Asserts/Images//attachment/album/201705/09/094125eoba2938fs6bbft8.jpeg)
+![](/Asserts/Images/album/201705/09/094125eoba2938fs6bbft8.jpeg)
 
 
 前提：
@@ -58,7 +58,7 @@ npm -v
 
 ```
 
-![检查 node.js 版本](/Asserts/Images//attachment/album/201705/09/094133atjt617aqa474gn7.png)
+![检查 node.js 版本](/Asserts/Images/album/201705/09/094133atjt617aqa474gn7.png)
 
 
 ### 第二步 - 生成 Express 示例 App
@@ -113,7 +113,7 @@ express hakase-app
 命令会创建新项目目录 `hakase-app`。
 
 
-![用 express-generator 生成应用框架](/Asserts/Images//attachment/album/201705/09/094134eh6pdfw5db5zt36d.png)
+![用 express-generator 生成应用框架](/Asserts/Images/album/201705/09/094134eh6pdfw5db5zt36d.png)
 
 
 进入到项目目录并安装应用需要的所有依赖。
@@ -138,7 +138,7 @@ DEBUG=myapp:* npm start
 默认情况下，我们的 express 应用会运行在 `3000` 端口。现在访问服务器的 IP 地址：192.168.33.10:3000 ：
 
 
-![express nodejs 运行在 3000 端口](/Asserts/Images//attachment/album/201705/09/094134xybbltoby405m9tt.png)
+![express nodejs 运行在 3000 端口](/Asserts/Images/album/201705/09/094134xybbltoby405m9tt.png)
 
 
 这个简单 web 应用框架现在以 'yume' 用户运行在 3000 端口。
@@ -178,7 +178,7 @@ cat package.json
 
 ```
 
-![配置 express nodejs 服务](/Asserts/Images//attachment/album/201705/09/094135od7q91mmsmz781ei.png)
+![配置 express nodejs 服务](/Asserts/Images/album/201705/09/094135od7q91mmsmz781ei.png)
 
 
 你可以看到 `start` 行有一个 nodejs 用于启动 express 应用的命令。我们会和 pm2 进程管理器一起使用这个命令。
@@ -196,7 +196,7 @@ pm2 start ./bin/www
 现在你可以看到像下面这样的结果：
 
 
-![使用 pm2 运行 nodejs app](/Asserts/Images//attachment/album/201705/09/094135jq154wgd8044b0mk.png)
+![使用 pm2 运行 nodejs app](/Asserts/Images/album/201705/09/094135jq154wgd8044b0mk.png)
 
 
 我们的 express 应用正在 `pm2` 中运行，名称为 `www`，id 为 `0`。你可以用 show 选项 `show nodeid|name` 获取更多 pm2 下运行的应用的信息。
@@ -208,7 +208,7 @@ pm2 show www
 
 ```
 
-![pm2 服务状态](/Asserts/Images//attachment/album/201705/09/094135ittndmwv8s4wlrfz.png)
+![pm2 服务状态](/Asserts/Images/album/201705/09/094135ittndmwv8s4wlrfz.png)
 
 
 如果你想看我们应用的日志，你可以使用 logs 选项。它包括访问和错误日志，你还可以看到应用程序的 HTTP 状态。
@@ -220,7 +220,7 @@ pm2 logs www
 
 ```
 
-![pm2 服务日志](/Asserts/Images//attachment/album/201705/09/094136spevmc3f3mq9e9vd.png)
+![pm2 服务日志](/Asserts/Images/album/201705/09/094136spevmc3f3mq9e9vd.png)
 
 
 你可以看到我们的程序正在运行。现在，让我们来让它开机自启动。
@@ -247,7 +247,7 @@ sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -
 它会为启动应用程序生成 systemd 配置文件。当你重启服务器的时候，应用程序就会自动运行。
 
 
-![pm2 添加服务到开机自启动](/Asserts/Images//attachment/album/201705/09/094136a39om17sgc3cddco.png)
+![pm2 添加服务到开机自启动](/Asserts/Images/album/201705/09/094136a39om17sgc3cddco.png)
 
 
 ### 第四步 - 安装和配置 Nginx 作为反向代理
@@ -343,7 +343,7 @@ systemctl enable nginx
 你可以看到 express 应用正在 Nginx web 服务器中运行。
 
 
-![Nodejs app 在 pm2 和 Nginx 中运行](/Asserts/Images//attachment/album/201705/09/094136te6tdg2cg59eeree.png)
+![Nodejs app 在 pm2 和 Nginx 中运行](/Asserts/Images/album/201705/09/094136te6tdg2cg59eeree.png)
 
 
 下一步，重启你的服务器，确保你的 node app 能开机自启动：
@@ -366,7 +366,7 @@ pm2 status www
 
 ```
 
-![nodejs 在 pm2 下开机自启动](/Asserts/Images//attachment/album/201705/09/094137rl8ls23l4jijm8z8.png)
+![nodejs 在 pm2 下开机自启动](/Asserts/Images/album/201705/09/094137rl8ls23l4jijm8z8.png)
 
 
 Node 应用在 pm2 中运行并使用 Nginx 作为反向代理。

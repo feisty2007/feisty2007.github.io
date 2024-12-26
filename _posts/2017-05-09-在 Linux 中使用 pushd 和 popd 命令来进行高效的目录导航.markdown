@@ -7,7 +7,7 @@ tags:	[linuxcn,pushd,popd,导航]
 ---
 
 
-![](/Asserts/Images//attachment/album/201705/31/151602jb78orciyvphihvf.jpg)
+![](/Asserts/Images/album/201705/31/151602jb78orciyvphihvf.jpg)
 
 
 有时候，通过命令来在 Linux 文件系统导航是一件非常痛苦的事情，特别是对于一些新手。通常情况下，我们主要使用 [cd（改变目录）命令](https://www.tecmint.com/cd-command-in-linux/)在 Linux 文件系统之间移动。
@@ -42,7 +42,7 @@ $ dirs -v
 
 ```
 
-![Dirs - Display Directories in Directory](/Asserts/Images//attachment/album/201705/31/151608a7o7ofmiyii77it7.png)
+![Dirs - Display Directories in Directory](/Asserts/Images/album/201705/31/151608a7o7ofmiyii77it7.png)
 
 
 *`dirs` - 显示位于目录栈中的目录*
@@ -63,7 +63,7 @@ $ pushd /var/log/
 
 ```
 
-![pushd - Add Directories to Stack](/Asserts/Images//attachment/album/201705/31/151609lubuzhh8dhd48sf1.png)
+![pushd - Add Directories to Stack](/Asserts/Images/album/201705/31/151609lubuzhh8dhd48sf1.png)
 
 
 *`pushd` - 添加新目录入栈*
@@ -88,7 +88,7 @@ $ pushd +2
 
 ```
 
-![pushd - Directory Navigation with Number](/Asserts/Images//attachment/album/201705/31/151609dgghr6jj9wf7jwt2.png)
+![pushd - Directory Navigation with Number](/Asserts/Images/album/201705/31/151609dgghr6jj9wf7jwt2.png)
 
 
 *`pushd` －通过数字浏览目录*
@@ -103,7 +103,7 @@ $ pushd +1
 
 ```
 
-![pushd - Navigate Directory with Number](/Asserts/Images//attachment/album/201705/31/151609h3c8nsfo6rgyrtwo.png)
+![pushd - Navigate Directory with Number](/Asserts/Images/album/201705/31/151609h3c8nsfo6rgyrtwo.png)
 
 
 *`pushd` －通过数字浏览目录*
@@ -127,7 +127,7 @@ $ popd +1
 
 ```
 
-![popd - Remove Directory from Stack](/Asserts/Images//attachment/album/201705/31/151610o6fhfm7kde47dzl4.png)
+![popd - Remove Directory from Stack](/Asserts/Images/album/201705/31/151610o6fhfm7kde47dzl4.png)
 
 
 *`popd`－从栈中以移除目录*

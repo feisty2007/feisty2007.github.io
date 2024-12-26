@@ -7,10 +7,10 @@ tags:	[linuxcn,微软,Windows,GPT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/30/181621yj9o9mopd38n8td3.jpg)
+![](/Asserts/Images/album/202304/30/181621yj9o9mopd38n8td3.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/30/181713hgptitt7gft1f3hb.jpg)
+![](/Asserts/Images/album/202304/30/181713hgptitt7gft1f3hb.jpg)
 
 
 ### Windows 10 已发布最终版本
@@ -35,7 +35,7 @@ tags:	[linuxcn,微软,Windows,GPT]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/30/181649qhd29wlzovxlvxz1.jpg)
+![](/Asserts/Images/album/202304/30/181649qhd29wlzovxlvxz1.jpg)
 
 
 ### OpenAI 寻求注册 “GPT” 商标
@@ -60,7 +60,7 @@ OpenAI 在去年 12 月底申请 “GPT”（代表 “生成性预训练转化�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/30/181635pw3e2eiqw1jk4wp3.jpg)
+![](/Asserts/Images/album/202304/30/181635pw3e2eiqw1jk4wp3.jpg)
 
 
 ### 微软为其 365 服务采用 .microsoft 新顶级域

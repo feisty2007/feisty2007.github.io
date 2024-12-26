@@ -7,7 +7,7 @@ tags:	[linuxcn,DNS,服务器]
 ---
 
 
-![](/Asserts/Images//attachment/album/201407/22/155654z0043u6l16662yy3.jpg)
+![](/Asserts/Images/album/201407/22/155654z0043u6l16662yy3.jpg)
 
 
 ### 电信常用DNS：

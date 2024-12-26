@@ -7,7 +7,7 @@ tags:	[linuxcn,Vely,SaaS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/12/110902myyfcm3hdmwqv3zy.jpg)
+![](/Asserts/Images/album/202312/12/110902myyfcm3hdmwqv3zy.jpg)
 
 
 
@@ -45,43 +45,43 @@ tags:	[linuxcn,Vely,SaaS]
 该应用允许用户通过指定电子邮件地址和密码创建新的登录名。你可以用任何你喜欢的方式设置它们，例如运用 CSS：
 
 
-![创建一个用户账户](/Asserts/Images//attachment/album/202312/12/110946trmkfsf1l1m6ylr1.png)
+![创建一个用户账户](/Asserts/Images/album/202312/12/110946trmkfsf1l1m6ylr1.png)
 
 
 验证用户的电子邮件:
 
 
-![验证用户的电子邮件地址](/Asserts/Images//attachment/album/202312/12/110946vow5z3f1qpsvxqpv.png)
+![验证用户的电子邮件地址](/Asserts/Images/album/202312/12/110946vow5z3f1qpsvxqpv.png)
 
 
 每个用户使用自己独有的用户名和密码登录：
 
 
-![用户登录](/Asserts/Images//attachment/album/202312/12/110946qsntseszsji9xies.png)
+![用户登录](/Asserts/Images/album/202312/12/110946qsntseszsji9xies.png)
 
 
 一旦登录，用户就可以添加笔记：
 
 
-![用户可以添加笔记](/Asserts/Images//attachment/album/202312/12/110947be001fcv110een44.png)
+![用户可以添加笔记](/Asserts/Images/album/202312/12/110947be001fcv110een44.png)
 
 
 用户可以获取笔记列表：
 
 
-![用户列举笔记](/Asserts/Images//attachment/album/202312/12/110947ffc1f6vcbefpcfp8.png)
+![用户列举笔记](/Asserts/Images/album/202312/12/110947ffc1f6vcbefpcfp8.png)
 
 
 删除笔记之前，应用会申请确认信息：
 
 
-![删除笔记之前，应用会申请确认信息](/Asserts/Images//attachment/album/202312/12/110947o70sv2jxqb0sk0kj.png)
+![删除笔记之前，应用会申请确认信息](/Asserts/Images/album/202312/12/110947o70sv2jxqb0sk0kj.png)
 
 
 用户确认后，笔记被删除：
 
 
-![用户确认后，笔记被删除](/Asserts/Images//attachment/album/202312/12/110948p13ha0s2281zm44u.png)
+![用户确认后，笔记被删除](/Asserts/Images/album/202312/12/110948p13ha0s2281zm44u.png)
 
 
 #### 设置先决条件

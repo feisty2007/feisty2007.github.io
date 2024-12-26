@@ -10,7 +10,7 @@ tags:	[linuxcn,实时补丁,热补丁,SUSE]
 开源先锋及 SUSE Linux 的创造者 SUSE 公司宣布推出 SUSE Linux 企业版的<ruby> <a href="https://www.suse.com/products/live-patching/">  实时补丁 </a> <rp>  （ </rp> <rt>  Live Patching </rt> <rp>  ） </rp></ruby>。
 
 
-![](/Asserts/Images//attachment/album/201605/19/074025me3zzpevrj1eppy3.jpg)
+![](/Asserts/Images/album/201605/19/074025me3zzpevrj1eppy3.jpg)
 
 
 SUSE 是首批为基于 Linux 内核的操作系统提供实时补丁的开源公司之一。实时补丁技术是在 Linux 4.0 系列内核中实现的一种技术，发布于一年前。

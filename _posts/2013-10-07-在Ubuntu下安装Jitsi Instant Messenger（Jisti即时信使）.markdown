@@ -13,7 +13,7 @@ tags:	[linuxcn,Linux,Ubuntu,Jisti,即时信使,安装,使用,教程,技巧]
 Jitsi也被认为是Skype的一个很好的替代者。
 
 
- ![](/Asserts/Images//attachment/album/201310/14/102732n999a8qbd83ovwvw.png)
+ ![](/Asserts/Images/album/201310/14/102732n999a8qbd83ovwvw.png)
 
 
 **安装Jitsi**
@@ -43,7 +43,7 @@ $ sudo dpkg -i jitsi\_2.2-latest\_\*.deb
 以上命令将在你的系统中安装Jitsi 2.2，并且在你的系统中添加Jitsi的源库，以便以后能够更加容易的升级。
 
 
- ![](/Asserts/Images//attachment/album/201310/14/1027345b8b0szn1ni8e1bn.png)
+ ![](/Asserts/Images/album/201310/14/1027345b8b0szn1ni8e1bn.png)
 
 
 **Jitsi的部分功能：**
@@ -120,37 +120,37 @@ $ jitsi
 添加账户
 
 
- ![](/Asserts/Images//attachment/album/201310/14/10273658cxxd57hqtt5tna.png)
+ ![](/Asserts/Images/album/201310/14/10273658cxxd57hqtt5tna.png)
 
 
 点击 **select network（选择网络）**.
 
 
-![](/Asserts/Images//attachment/album/201310/14/102737z24gjzgi4c4a2gta.png) 
+![](/Asserts/Images/album/201310/14/102737z24gjzgi4c4a2gta.png) 
 
 
 在这个教程中，使用Gtalk帐号进行登录
 
 
- ![](/Asserts/Images//attachment/album/201310/14/102739ph9y0e3e3y0tu9zz.png)
+ ![](/Asserts/Images/album/201310/14/102739ph9y0e3e3y0tu9zz.png)
 
 
 按要求输入你的**username（用户名）** 和 **password（密码）**。
 
 
-![](/Asserts/Images//attachment/album/201310/14/102741xbw8tbcxt08xtwpc.png) 
+![](/Asserts/Images/album/201310/14/102741xbw8tbcxt08xtwpc.png) 
 
 
 然后你就在线了。
 
 
- ![](/Asserts/Images//attachment/album/201310/14/102741ymxyc9f14o4voovc.png)
+ ![](/Asserts/Images/album/201310/14/102741ymxyc9f14o4voovc.png)
 
 
 聊天窗口。
 
 
-![](/Asserts/Images//attachment/album/201310/14/1027444zij7ck7t7ccnxh7.png) 
+![](/Asserts/Images/album/201310/14/1027444zij7ck7t7ccnxh7.png) 
 
 
 对于其他Linux发行版，请访问Jitsi[下载页面](https://jitsi.org/Main/Download)

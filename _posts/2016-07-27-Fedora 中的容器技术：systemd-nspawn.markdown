@@ -10,7 +10,7 @@ tags:	[linuxcn,容器,systemd]
 欢迎来到“Fedora 中的容器技术”系列！本文是该系列文章中的第一篇，它将说明你可以怎样使用 Fedora 中各种可用的容器技术。本文将学习 `systemd-nspawn` 的相关知识。
 
 
-![](/Asserts/Images//attachment/album/201607/28/165435z20bv1330q40yvfd.png)
+![](/Asserts/Images/album/201607/28/165435z20bv1330q40yvfd.png)
 
 
 ### 容器是什么？
@@ -70,7 +70,7 @@ $ sudo dnf --releasever=24 --installroot=/absolute/path/ install systemd passwd 
 
 ```
 
-![](/Asserts/Images//attachment/album/201607/28/165436ermjd0dkkidkm5ir.png)
+![](/Asserts/Images/album/201607/28/165436ermjd0dkkidkm5ir.png)
 
 
 ### 设置网络
@@ -118,7 +118,7 @@ $ sudo dnf --releasever=24 --installroot=/absolute/path/ install systemd passwd 
 多数 systemd 命令，例如 `journalctl`, `systemd-analyze` 和 `systemctl`，都支持使用 `--machine` 选项来指定容器。例如，如果你想查看一个名为 “foobar” 的容器的日志，你可以使用 `journalctl --machine=foobar`。你也可以使用 `systemctl --machine=foobar status service` 来查看运行在这个容器中的服务状态。
 
 
-![](/Asserts/Images//attachment/album/201607/28/165437eqdvpxofq7fiwwxv.png)
+![](/Asserts/Images/album/201607/28/165437eqdvpxofq7fiwwxv.png)
 
 
 ### 和 SELinux 一起工作

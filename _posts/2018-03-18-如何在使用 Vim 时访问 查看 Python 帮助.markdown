@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/14/120536s70apheiuip0iuu7.jpg)
+![](/Asserts/Images/album/201803/14/120536s70apheiuip0iuu7.jpg)
 
 
 我是一名新的 Vim 编辑器用户。我用它编写 Python 代码。有没有办法在 vim 中查看 Python 文档而无需访问互联网？假设我的光标在 Python 的 `print` 关键字下，然后按下 F1，我想查看关键字 `print` 的帮助。如何在 vim 中显示 python `help()` ？如何在不离开 vim 的情况下调用 `pydoc3`/`pydoc` 寻求帮助？
@@ -75,7 +75,7 @@ print("Hello world")
 将光标置于 Python 关键字 `print` 的下方，然后按下 `Shift`，然后按 `H`。你将看到下面的输出：
 
 
-[![Access Python Help Within Vim](/Asserts/Images//attachment/album/201803/14/120547zvz55tem00ee3ml3.gif)](https://www.cyberciti.biz/media/new/faq/2018/01/Access-Python-Help-Within-Vim.gif)
+[![Access Python Help Within Vim](/Asserts/Images/album/201803/14/120547zvz55tem00ee3ml3.gif)](https://www.cyberciti.biz/media/new/faq/2018/01/Access-Python-Help-Within-Vim.gif)
 
 
 *按 H 查看 Python 关键字 print 的帮助*
@@ -138,7 +138,7 @@ $ sudo dnf install vim-jedi
 Jedi 默认是自动初始化的。所以你不需要进一步的配置。要查看 Documentation/Pydoc，请按 `K`。它将弹出帮助窗口：
 
 
-[![How to view python help when using vim](/Asserts/Images//attachment/album/201803/14/120547jz9s7hz1ia4hba4j.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/How-to-view-Python-Documentation-using-pydoc-within-vim-on-Linux-Unix.jpg)
+[![How to view python help when using vim](/Asserts/Images/album/201803/14/120547jz9s7hz1ia4hba4j.jpg)](https://www.cyberciti.biz/media/new/faq/2018/01/How-to-view-Python-Documentation-using-pydoc-within-vim-on-Linux-Unix.jpg)
 
 
 ### 关于作者

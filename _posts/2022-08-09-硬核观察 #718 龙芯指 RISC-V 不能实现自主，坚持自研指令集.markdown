@@ -7,10 +7,10 @@ tags:	[linuxcn,RISC-V,龙芯,量子计算,树莓派]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/04/204240ka3o7ozcul7nnhzh.jpg)
+![](/Asserts/Images/album/202208/04/204240ka3o7ozcul7nnhzh.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/04/204250f6oetkv8zete6n3x.jpg)
+![](/Asserts/Images/album/202208/04/204250f6oetkv8zete6n3x.jpg)
 
 
 ### 龙芯指 RISC-V 不能实现自主，坚持自研指令集
@@ -35,7 +35,7 @@ tags:	[linuxcn,RISC-V,龙芯,量子计算,树莓派]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/04/204300enzv4dhlv3ffml5d.jpg)
+![](/Asserts/Images/album/202208/04/204300enzv4dhlv3ffml5d.jpg)
 
 
 ### 单核计算机一小时破解了一种抗量子加密算法
@@ -60,7 +60,7 @@ tags:	[linuxcn,RISC-V,龙芯,量子计算,树莓派]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/04/204316n2syscf8ufje3jvh.jpg)
+![](/Asserts/Images/album/202208/04/204316n2syscf8ufje3jvh.jpg)
 
 
 ### Fedora 37 正式支持树莓派 4

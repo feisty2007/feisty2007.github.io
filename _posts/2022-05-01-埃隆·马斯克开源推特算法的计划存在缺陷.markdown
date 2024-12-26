@@ -7,7 +7,7 @@ tags:	[linuxcn,推特,算法]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/03/235842j3kppkpucwczpz2q.jpg)
+![](/Asserts/Images/album/202205/03/235842j3kppkpucwczpz2q.jpg)
 
 
 报道称，在推特确认接受收购请求的几个小时后，埃隆·马斯克就明确表示了他对推特的期望。马斯克在一份新闻稿中罗列了他计划做出的重大改变，包括开源“决定用户在推流中看到什么”的算法。

@@ -7,7 +7,7 @@ tags:	[linuxcn,终端]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/31/220802ozpf3gt9gpj2pp0f.jpg)
+![](/Asserts/Images/album/202307/31/220802ozpf3gt9gpj2pp0f.jpg)
 
 
 
@@ -67,7 +67,7 @@ cp 源文件 目标目录
 例如，在这里，我将名为 `Hello.txt` 的文件复制到名为 `Tux` 的目录中：
 
 
-![copy file to another directory in linux command line](/Asserts/Images//attachment/album/202307/31/220849xmp849c8l8dwa9mr.png)
+![copy file to another directory in linux command line](/Asserts/Images/album/202307/31/220849xmp849c8l8dwa9mr.png)
 
 
 正如你所看到的，文件已成功复制到 `Tux` 目录中。
@@ -88,7 +88,7 @@ cp 源文件 改名的文件
 作为参考，在这里，我将名为 `Hello.txt` 的文件复制到同一目录，并将其重命名为 `Renamed_Hello.txt`：
 
 
-![rename a file while copying in a same directory in linux terminal](/Asserts/Images//attachment/album/202307/31/220851ta35a5omcrmo8n7f.png)
+![rename a file while copying in a same directory in linux terminal](/Asserts/Images/album/202307/31/220851ta35a5omcrmo8n7f.png)
 
 
 为什么要这么做？ 比如说，你必须编辑配置文件。一个好的做法是在编辑配置文件之前在同一位置对其进行备份。这样，如果事情没有按计划进行，你可以恢复到旧配置。
@@ -109,7 +109,7 @@ cp File1 File2 File3 FileN Target_directory
 在这里，我将多个文件复制到新位置。
 
 
-![copy multiple files using the cp command in linux](/Asserts/Images//attachment/album/202307/31/220852qaaegi3pav0orhod.png)
+![copy multiple files using the cp command in linux](/Asserts/Images/album/202307/31/220852qaaegi3pav0orhod.png)
 
 
 
@@ -144,7 +144,7 @@ cp -n -v itsFOSS.txt LHB.txt LU.txt ~/Tux
 
 ```
 
-![how not to override files while copying in linux using the cp command](/Asserts/Images//attachment/album/202307/31/220852qqz5szrqzqcuaz1f.png)
+![how not to override files while copying in linux using the cp command](/Asserts/Images/album/202307/31/220852qqz5szrqzqcuaz1f.png)
 
 
 #### 交互式复制文件
@@ -162,7 +162,7 @@ cp -i 源文件 目标目录
 
 ```
 
-![how to use cp command in interactive mode](/Asserts/Images//attachment/album/202307/31/220853tu6clmoll78ssz3z.png)
+![how to use cp command in interactive mode](/Asserts/Images/album/202307/31/220853tu6clmoll78ssz3z.png)
 
 
 
@@ -191,7 +191,7 @@ cp -r 源目录 目标目录
 例如，在这里，我将名为 `IF` 的目录复制到 `LHB`：
 
 
-![how to copy a directory in linux command line](/Asserts/Images//attachment/album/202307/31/220854ik4zbqondmynf2y6.png)
+![how to copy a directory in linux command line](/Asserts/Images/album/202307/31/220854ik4zbqondmynf2y6.png)
 
 
 但它复制了整个目录。?
@@ -218,7 +218,7 @@ cp -r 源目录/. 目标目录
 在这里，我想复制名为 `IF` 的目录的内容，其中包含以下三个文件：
 
 
-![check the file contents of directory using the tree command](/Asserts/Images//attachment/album/202307/31/220854z7bdfd7pddwkz46v.png)
+![check the file contents of directory using the tree command](/Asserts/Images/album/202307/31/220854z7bdfd7pddwkz46v.png)
 
 
 我将执行以下命令将 `IF` 目录的文件内容复制到 `LHB`：
@@ -230,7 +230,7 @@ cp -r IF/. LHB
 
 ```
 
-![copy the file contents of directory not a directory itself in linux command line](/Asserts/Images//attachment/album/202307/31/220854anfzlix1793cjcjn.png)
+![copy the file contents of directory not a directory itself in linux command line](/Asserts/Images/album/202307/31/220854anfzlix1793cjcjn.png)
 
 
 你还可以在此处使用 `源目录/*` 。
@@ -257,7 +257,7 @@ cp -r IF LU ~/LHB
 
 ```
 
-![copy multiple directories using the cp command in linux command line](/Asserts/Images//attachment/album/202307/31/220855zqtqmzx2mpmux9ob.png)
+![copy multiple directories using the cp command in linux command line](/Asserts/Images/album/202307/31/220855zqtqmzx2mpmux9ob.png)
 
 
 当你想要从多个目录复制文件但不复制目录本身时，你可以执行相同的操作：
@@ -269,7 +269,7 @@ cp -r 目录1/. 目录2/. 目录3/. 目录N/. 目标目录
 
 ```
 
-![copy files from multiple directories but not directories their self using the cp command](/Asserts/Images//attachment/album/202307/31/220856azcq9dqgcpsgzq5t.png)
+![copy files from multiple directories but not directories their self using the cp command](/Asserts/Images/album/202307/31/220856azcq9dqgcpsgzq5t.png)
 
 
 

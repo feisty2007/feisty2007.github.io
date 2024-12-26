@@ -7,7 +7,7 @@ tags:	[linuxcn,Limit Theory,游戏,Windows]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/19/112414hys96ss6xv5bw05e.jpg)
+![](/Asserts/Images/album/201405/19/112414hys96ss6xv5bw05e.jpg)
 
 
 极限理论（Limit Theory），一个无限的程序性的空间模拟游戏，这个游戏的开发者仅一个人，游戏将会发布在Linux、Windows和Mac OS X上。开发者宣布从Windows平台转到Linux上主要是因为他不耐烦了。

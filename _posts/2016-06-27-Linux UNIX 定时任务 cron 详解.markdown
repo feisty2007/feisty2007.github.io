@@ -7,13 +7,13 @@ tags:	[linuxcn,cron,crontab,定时任务]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/28/155407teajtncbtgt4ptk4.png)
+![](/Asserts/Images/album/201606/28/155407teajtncbtgt4ptk4.png)
 
 
 ### 导言
 
 
-![](/Asserts/Images//attachment/album/201606/28/155408xjf3eeflwfl36fw6.gif)
+![](/Asserts/Images/album/201606/28/155408xjf3eeflwfl36fw6.gif)
 
 
 <ruby> 定时任务 <rp>  （ </rp> <rt>  cron job </rt> <rp>  ） </rp></ruby>被用于安排那些需要被周期性执行的命令。利用它，你可以配置某些命令或者脚本，让它们在某个设定的时间内周期性地运行。`cron` 是 Linux 或者类 Unix 系统中最为实用的工具之一。cron 服务（守护进程）在系统后台运行，并且会持续地检查 `/etc/crontab` 文件和 `/etc/cron.*/`目录。它同样也会检查 `/var/spool/cron/` 目录。

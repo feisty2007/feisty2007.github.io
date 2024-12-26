@@ -7,10 +7,10 @@ tags:	[linuxcn,C语言,供应链攻击,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/04/163048u2xff8of6v4v8sbf.jpg)
+![](/Asserts/Images/album/202304/04/163048u2xff8of6v4v8sbf.jpg)
 
 
-![](/Asserts/Images//attachment/album/202304/04/163101syz66j1d2162t1tz.jpg)
+![](/Asserts/Images/album/202304/04/163101syz66j1d2162t1tz.jpg)
 
 
 ### ACM 批评最新的 C 语言标准草案 C23
@@ -35,7 +35,7 @@ tags:	[linuxcn,C语言,供应链攻击,谷歌]
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/04/163115ej5uxvztcjeurdwx.jpg)
+![](/Asserts/Images/album/202304/04/163115ej5uxvztcjeurdwx.jpg)
 
 
 ### VoIP 公司 3CX 最初以为供应链攻击是误报
@@ -60,7 +60,7 @@ VoiP 软件提供商 3CX 遭遇了一次供应链攻击，该公司称收到警�
 > 
 
 
-![](/Asserts/Images//attachment/album/202304/04/163158e32kfz2avpr3vaaa.jpg)
+![](/Asserts/Images/album/202304/04/163158e32kfz2avpr3vaaa.jpg)
 
 
 ### 谷歌云端硬盘撤销 500 万文件数量限制

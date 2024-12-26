@@ -7,7 +7,7 @@ tags:	[linuxcn,systemd]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/31/003351jc30ce9665zrcv2v.jpg)
+![](/Asserts/Images/album/201803/31/003351jc30ce9665zrcv2v.jpg)
 
 
 systemd 意即<ruby> 系统守护进程 <rt>  system daemon </rt></ruby>，是一个新的初始化系统和系统管理工具，它现在非常流行，大部分的 Linux 发行版开始使用这种新的初始化系统。
@@ -103,31 +103,31 @@ $ sudo chkservice
 
 ```
 
-![](/Asserts/Images//attachment/album/201803/31/003359yuaib5ak8jubxu55.png)
+![](/Asserts/Images/album/201803/31/003359yuaib5ak8jubxu55.png)
 
 
 要查看帮助页面，按下 `?`。 这将向您显示管理 systemd 服务的可用选项。
 
 
-![](/Asserts/Images//attachment/album/201803/31/003401u9mo6mbb9xfmbowf.png)
+![](/Asserts/Images/album/201803/31/003401u9mo6mbb9xfmbowf.png)
 
 
 选择要启用或禁用的守护进程，然后点击空格键。
 
 
-![](/Asserts/Images//attachment/album/201803/31/003401b3tz971s9g3gzyfh.png)
+![](/Asserts/Images/album/201803/31/003401b3tz971s9g3gzyfh.png)
 
 
 选择你想开始或停止的守护进程，然后按下 `s`。
 
 
-![](/Asserts/Images//attachment/album/201803/31/003402hly4sz4jkrv8mljf.png)
+![](/Asserts/Images/album/201803/31/003402hly4sz4jkrv8mljf.png)
 
 
 选择要重新启动的守护进程，然后按下 `r`，之后，您可以在顶部看到更新的提示。
 
 
-![](/Asserts/Images//attachment/album/201803/31/003403pw1r4pwgunpcfrrf.png)
+![](/Asserts/Images/album/201803/31/003403pw1r4pwgunpcfrrf.png)
 
 
 按下 `q` 退出。

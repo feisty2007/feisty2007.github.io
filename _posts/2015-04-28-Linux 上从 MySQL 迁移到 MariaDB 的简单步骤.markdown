@@ -27,7 +27,7 @@ MariaDB是MySQL社区开发的分支，也是一个增强型的替代品。它�
 现在，让我们迁移到MariaDB吧！
 
 
-![](/Asserts/Images//attachment/album/201504/01/225129zqnyq4nxyezlon8v.jpg)
+![](/Asserts/Images/album/201504/01/225129zqnyq4nxyezlon8v.jpg)
 
 
 让我们创建一个叫**linoxidedb**的**用于测试的**示例数据库。
@@ -66,7 +66,7 @@ mysql> show databases;
 
 ```
 
-![creating test databases](/Asserts/Images//attachment/album/201504/01/225439e5akebzc3xm002va.png)
+![creating test databases](/Asserts/Images/album/201504/01/225439e5akebzc3xm002va.png)
 
 
 如你所见，算上刚刚新建的linoxidedb我们一共有5个数据库。
@@ -105,7 +105,7 @@ $ mysqldump: Error: Binlogging on server not active
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/01/225441l76w8nhqt3q3g0n0.png)
+![](/Asserts/Images/album/201504/01/225441l76w8nhqt3q3g0n0.png)
 
 
 *mysqldump error*
@@ -129,7 +129,7 @@ $ sudo nano /etc/mysql/my.cnf
 **log-bin=mysql-bin**
 
 
-![configuring my.cnf](/Asserts/Images//attachment/album/201504/01/225444ljqlxtox9wtbtqho.png)
+![configuring my.cnf](/Asserts/Images/album/201504/01/225444ljqlxtox9wtbtqho.png)
 
 
 好了，在保存并关闭文件后，我们需要重启一下mysql服务。运行以下命令重启：
@@ -150,7 +150,7 @@ $ mysqldump --all-databases --user=root --password --master-data > backupdatabas
 
 ```
 
-![](/Asserts/Images//attachment/album/201504/01/225446zquhr7m6lu6h5h7w.png)
+![](/Asserts/Images/album/201504/01/225446zquhr7m6lu6h5h7w.png)
 
 
 *dumping databases*
@@ -195,7 +195,7 @@ $ sudo apt-get remove mysql-server mysql-client
 
 ```
 
-![uninstalling mysql](/Asserts/Images//attachment/album/201504/01/225449bxsrrrvxealujloj.png)
+![uninstalling mysql](/Asserts/Images/album/201504/01/225449bxsrrrvxealujloj.png)
 
 
 ### 3. 安装MariaDB
@@ -212,7 +212,7 @@ $ sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xcbcb0
 
 ```
 
-![adding mariadb repo](/Asserts/Images//attachment/album/201504/01/225451et4d14hn3tnytk66.png)
+![adding mariadb repo](/Asserts/Images/album/201504/01/225451et4d14hn3tnytk66.png)
 
 
 键值导入并且添加完仓库后，你就可以用以下命令安装MariaDB了：
@@ -225,10 +225,10 @@ $ sudo apt-get install mariadb-server
 
 ```
 
-![installing mariadb](/Asserts/Images//attachment/album/201504/01/225455zzw7g0flpav7a30a.png)
+![installing mariadb](/Asserts/Images/album/201504/01/225455zzw7g0flpav7a30a.png)
 
 
-![my.conf configuration prompt](/Asserts/Images//attachment/album/201504/01/225458udjdi0nojd0ouniq.png)
+![my.conf configuration prompt](/Asserts/Images/album/201504/01/225458udjdi0nojd0ouniq.png)
 
 
 我们应该还没忘记在MariaDB安装时，它会问你是使用现有的my.cnf文件，还是包中自带的版本。你可以使用以前的my.cnf也可以用包中自带的。即使你想直接使用新的my.cnf文件，你依然可以晚点时候将以前的备份内容还原进去（别忘了我们已经将它复制到安全的地方了）。所以，我们直接选择了默认的选项“N”。如果需要安装其他版本，请参考[MariaDB官方仓库](https://downloads.mariadb.org/mariadb/repositories/#mirror=mephi)。
@@ -270,7 +270,7 @@ $ mysql -u root -p
 
 ```
 
-![importing database](/Asserts/Images//attachment/album/201504/01/225503kd7vx7y4b8szk0b0.png)
+![importing database](/Asserts/Images/album/201504/01/225503kd7vx7y4b8szk0b0.png)
 
 
 为了检查数据库是否被迁移到MariaDB，请在MariaDB命令行中输入“**show databases**；”不用输入（“”），如下：
@@ -282,7 +282,7 @@ mariaDB> show databases;
 
 ```
 
-![mysql to mariadb database migrated](/Asserts/Images//attachment/album/201504/01/225505a3zt9ta2kkai3ztq.png)
+![mysql to mariadb database migrated](/Asserts/Images/album/201504/01/225505a3zt9ta2kkai3ztq.png)
 
 
 如你所见，linoxidedb及所有的数据库都已经成功的被迁移了。

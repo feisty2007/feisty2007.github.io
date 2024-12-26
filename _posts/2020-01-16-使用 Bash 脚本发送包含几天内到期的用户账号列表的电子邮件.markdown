@@ -7,7 +7,7 @@ tags:	[linuxcn,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202001/13/232047vfxkrr47mn7eapda.jpg)
+![](/Asserts/Images/album/202001/13/232047vfxkrr47mn7eapda.jpg)
 
 
 密码强制策略对所有操作系统和应用程序都是通用的。如果要[在 Linux 上实现密码强制策略](/article-11709-1.html)，请参阅以下文章。

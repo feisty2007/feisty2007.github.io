@@ -7,7 +7,7 @@ tags:	[linuxcn,McFly,命令历史]
 ---
 
 
-![](/Asserts/Images//attachment/album/201901/04/232508t98p95pyp5ww2h9w.png)
+![](/Asserts/Images/album/201901/04/232508t98p95pyp5ww2h9w.png)
 
 
 假如你在命令行模式下渡过了很长时间，那么你必定使用过或者听说过 BASH 的 **反向搜索** 功能，在 Bash 中执行反向搜索功能的快捷键是 `Ctrl+r`。通过使用这个特性，我们可以找到我们执行过的命令而无需再次输入它们。当然，你可以使用上下键来搜索你的 bash 命令记录，但使用 `Ctrl+r` 快捷键可以让这个搜索过程更简单快速。今天我找寻到了 Bash 历史命令搜索特性 `Ctrl+r` 的一个替代品，它就是 McFly。McFly 是一个使用 Rust 编程语言写就的简洁工具，自带一个智能的搜索引擎，用来替换默认的 `Ctrl+r` 这个 Bash 历史命令搜索功能。 McFly 提供的命令建议都是通过一个小巧的 **神经网络** 来实时排序给出的。
@@ -74,7 +74,7 @@ fi
 /home/linuxbrew/.linuxbrew/Cellar/mcfly/v0.2.5: 4 files, 3.5MB, built in 33 seconds
 ```
 
-![](/Asserts/Images//attachment/album/201901/04/232509wmt5mvxv602v20nt.png)
+![](/Asserts/Images/album/201901/04/232509wmt5mvxv602v20nt.png)
 
 
 正如你上面看到的那样，在使用 McFly 之前我们需要再做一些配置。
@@ -131,7 +131,7 @@ $ mcfly search mk
 下面展示的是我 Ubuntu 机子上的示例输出：
 
 
-![](/Asserts/Images//attachment/album/201901/04/232510mdadhqo7wwqohedq.png)
+![](/Asserts/Images/album/201901/04/232510mdadhqo7wwqohedq.png)
 
 
 如你所见，我已经使用过 `mkdir` 这个命令两次。假如你想从这些命令建议中执行其中之一，只需使用上下键来选择它，然后敲击**回车键**来执行它就可以了。假如你想编辑其中一个命令，则需要先选择它，然后敲 `TAB` 键将这个命令放置到终端中，最后在运行它之前更改它就行了。要从历史中删除已经选择的命令，按 `F2` 即可。
@@ -151,7 +151,7 @@ $ mcfly search
 下面是一个介绍 McFly 的简短演示视频：
 
 
-![](/Asserts/Images//attachment/album/201901/04/232533ug12uq2a9qquq282.gif)
+![](/Asserts/Images/album/201901/04/232533ug12uq2a9qquq282.gif)
 
 
 你还可以使用下面的命令来查看帮助：

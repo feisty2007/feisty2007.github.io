@@ -7,10 +7,10 @@ tags:	[linuxcn,ChromeOS,相机,谷歌]
 ---
 
 
-![](/Asserts/Images//attachment/album/202207/15/190953gtiqzcjjz97jq6uo.jpg)
+![](/Asserts/Images/album/202207/15/190953gtiqzcjjz97jq6uo.jpg)
 
 
-![](/Asserts/Images//attachment/album/202207/15/191003p2g2srr5vss22z5q.jpg)
+![](/Asserts/Images/album/202207/15/191003p2g2srr5vss22z5q.jpg)
 
 
 ### 谷歌正式推出可装在普通电脑的 ChromeOS Flex 操作系统
@@ -35,7 +35,7 @@ ChromeOS Flex 是一个基于 ChromeOS、兼容大部分硬件的操作系统，
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/15/191014g0z6e4oow1fwv2e0.jpg)
+![](/Asserts/Images/album/202207/15/191014g0z6e4oow1fwv2e0.jpg)
 
 
 ### 尼康停止单反相机的开发
@@ -60,7 +60,7 @@ ChromeOS Flex 是一个基于 ChromeOS、兼容大部分硬件的操作系统，
 > 
 
 
-![](/Asserts/Images//attachment/album/202207/15/191029po5dokrrw5s5vaj8.jpg)
+![](/Asserts/Images/album/202207/15/191029po5dokrrw5s5vaj8.jpg)
 
 
 ### 谷歌高管认为 Instagram 和 TikTok 在侵蚀该公司核心产品

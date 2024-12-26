@@ -15,7 +15,7 @@ tags:	[linuxcn,可视化]
 > 
 
 
-![](/Asserts/Images//attachment/album/202005/01/193624a2p2osojyf0yg4go.jpg)
+![](/Asserts/Images/album/202005/01/193624a2p2osojyf0yg4go.jpg)
 
 
 使用 [Python](https://opensource.com/resources/python) 和一些图形库，你可以预测 COVID-19 确诊病例总数，也可以显示一个国家（本文以印度为例）在给定日期的死亡总数。人们有时需要帮助解释和处理数据的意义，所以本文还演示了如何为五个国家创建一个动画横条形图，以显示按日期显示病例的变化。
@@ -33,7 +33,7 @@ tags:	[linuxcn,可视化]
 科学数据并不总是开放的，但幸运的是，许多现代科学和医疗机构都乐于相互之间及与公众共享信息。关于 COVID-19 病例的数据可以在网上查到，并且经常更新。
 
 
-要解析这些数据，首先必须先下载。 <https://raw.githubusercontent.com/Asserts/Images/sets/covid-19/master/Asserts/Images//countries-aggregated.csv>。
+要解析这些数据，首先必须先下载。 <https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv>。
 
 
 直接将数据加载到 Pandas `DataFrame` 中。Pandas 提供了一个函数 `read_csv()`，它可以获取一个 URL 并返回一个 `DataFrame` 对象，如下所示。
@@ -44,7 +44,7 @@ tags:	[linuxcn,可视化]
 import pycountry
 import plotly.express as px
 import pandas as pd
-URL_DATASET = r'https://raw.githubusercontent.com/Asserts/Images/sets/covid-19/master/Asserts/Images//countries-aggregated.csv'
+URL_DATASET = r'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
 df1 = pd.read_csv(URL_DATASET)
 print(df1.head(3))  # 获取数据帧中的前 3 项
 print(df1.tail(3))  # 获取数据帧中的后 3 项
@@ -127,7 +127,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 #### ----- Step 1 (Download data)----
-URL_DATASET = r'https://raw.githubusercontent.com/Asserts/Images/sets/covid-19/master/Asserts/Images//countries-aggregated.csv'
+URL_DATASET = r'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
 df1 = pd.read_csv(URL_DATASET)
 # print(df1.head(3))  # Uncomment to see the dataframe
 
@@ -222,7 +222,7 @@ import matplotlib.animation as animation
 from time import sleep
 
 #### ---- Step 1:- Download data
-URL_DATASET = r'https://raw.githubusercontent.com/Asserts/Images/sets/covid-19/master/Asserts/Images//countries-aggregated.csv'
+URL_DATASET = r'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
 df = pd.read_csv(URL_DATASET, usecols = ['Date', 'Country', 'Confirmed'])
 # print(df.head(3)) # uncomment this to see output
 

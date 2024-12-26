@@ -29,7 +29,7 @@ Berners-Lee 对互联网“强权”们处理用户数据的方式感到不满�
 > 
 
 
-![Tim Berners-Lee is creating a decentralized web with open source project Solid](/Asserts/Images//attachment/album/201810/24/233504e8jyvyv3jq3dk0dd.jpg)
+![Tim Berners-Lee is creating a decentralized web with open source project Solid](/Asserts/Images/album/201810/24/233504e8jyvyv3jq3dk0dd.jpg)
 
 
 基本上，[Solid](https://solid.inrupt.com/) 是一个使用现有网络构建的平台，在这里你可以创建自己的 “pod” (个人数据存储)。你决定这个 “pod” 将被托管在哪里，谁将访问哪些数据元素以及数据将如何通过这个 pod 分享。

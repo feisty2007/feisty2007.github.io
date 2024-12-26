@@ -15,7 +15,7 @@ tags:	[linuxcn,Lynis,安全]
 > 
 
 
-![](/Asserts/Images//attachment/album/202010/08/095516k6bdgeb6jhiajutm.jpg)
+![](/Asserts/Images/album/202010/08/095516k6bdgeb6jhiajutm.jpg)
 
 
 你有没有想过你的 Linux 机器到底安全不安全？Linux 发行版众多，每个发行版都有自己的默认设置，你在上面运行着几十个版本各异的软件包，还有众多的服务在后台运行，而我们几乎不知道或不关心这些。

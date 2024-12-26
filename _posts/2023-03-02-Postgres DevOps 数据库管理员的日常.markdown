@@ -7,7 +7,7 @@ tags:	[linuxcn,DBA,Postgres]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/22/075232pgphrt3nuhp1nu7r.jpg)
+![](/Asserts/Images/album/202303/22/075232pgphrt3nuhp1nu7r.jpg)
 
 
 

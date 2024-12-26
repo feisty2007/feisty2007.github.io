@@ -7,7 +7,7 @@ tags:	[linuxcn,爬虫,CommandlineFu]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/11/224237ba1adl8jd18mlady.jpg)
+![](/Asserts/Images/album/201903/11/224237ba1adl8jd18mlady.jpg)
 
 
 [CommandlineFu](https://www.commandlinefu.com/) 是一个记录脚本片段的网站，每个片段都有对应的功能说明和对应的标签。我想要做的就是尝试用 shell 写一个多进程的爬虫把这些代码片段记录在一个 org 文件中。

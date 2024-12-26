@@ -7,7 +7,7 @@ tags:	[linuxcn,KDE 钱包,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/31/094020wxhh00bh30ze409e.jpg)
+![](/Asserts/Images/album/202308/31/094020wxhh00bh30ze409e.jpg)
 
 
 
@@ -30,7 +30,7 @@ KDE <ruby> 钱包管理器 <rt>  Wallet Manager </rt></ruby> 是 KDE Plasma 桌�
 有时，当你与处理密码/凭据的操作交互时，KDE 钱包可能会弹出。因此，如果你遇到这种情况，我们的指南可以帮助你禁用钱包。
 
 
-![](/Asserts/Images//attachment/album/202308/31/094105jnpncnnzppi1ni40.jpg)
+![](/Asserts/Images/album/202308/31/094105jnpncnnzppi1ni40.jpg)
 
 
 ### 禁用 KDE 钱包的最快方法
@@ -45,7 +45,7 @@ KDE <ruby> 钱包管理器 <rt>  Wallet Manager </rt></ruby> 是 KDE Plasma 桌�
 首先，从应用坞或搜索栏打开 <ruby> 系统设置 <rt>  System Settings </rt></ruby> 应用。
 
 
-![](/Asserts/Images//attachment/album/202308/31/094105vulzcdy72yl7hu4c.jpg)
+![](/Asserts/Images/album/202308/31/094105vulzcdy72yl7hu4c.jpg)
 
 
 接下来，从左侧边栏中的菜单中，单击 “<ruby> KDE 钱包 <rt>  KDE Wallet </rt></ruby>”。
@@ -59,7 +59,7 @@ KDE <ruby> 钱包管理器 <rt>  Wallet Manager </rt></ruby> 是 KDE Plasma 桌�
 > 你可以通过 KDE 的软件中心（<ruby> 发现 <rt>  Discover </rt></ruby> 应用）执行此操作，然后返回系统设置以查找所需的选项。
 > 
 > 
-> ![](/Asserts/Images//attachment/album/202308/31/094106b35xhfp4378huc6q.jpg)
+> ![](/Asserts/Images/album/202308/31/094106b35xhfp4378huc6q.jpg)
 > 
 > 
 > 
@@ -71,13 +71,13 @@ KDE <ruby> 钱包管理器 <rt>  Wallet Manager </rt></ruby> 是 KDE Plasma 桌�
 你所要做的就是取消选中 “<ruby> 启用 KDE 钱包子系统 <rt>  Enable the KDE wallet subsystem </rt></ruby>” 选项。
 
 
-![](/Asserts/Images//attachment/album/202308/31/094106qjoxgsgbzs6a9n4q.jpg)
+![](/Asserts/Images/album/202308/31/094106qjoxgsgbzs6a9n4q.jpg)
 
 
 完成后，点击 “<ruby> 应用 <rt>  Apply </rt></ruby>” 使更改生效。系统可能会提示你使用密码验证操作。
 
 
-![](/Asserts/Images//attachment/album/202308/31/094107excyqzyboujmfxsy.jpg)
+![](/Asserts/Images/album/202308/31/094107excyqzyboujmfxsy.jpg)
 
 
 确实，并不是每个 KDE Plasma 用户都使用这个钱包应用。如果它困扰你或与其他应用冲突，你只需将其禁用即可。

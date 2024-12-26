@@ -7,7 +7,7 @@ tags:	[linuxcn,sudo]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/01/174031t6p74rx6ixlmyjr7.jpg)
+![](/Asserts/Images/album/202307/01/174031t6p74rx6ixlmyjr7.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,sudo]
 
 ```
 
-![将用户添加到 SUDOERS 组之前](/Asserts/Images//attachment/album/202307/01/174125x1cir2oxs8s89oqo.jpg)
+![将用户添加到 SUDOERS 组之前](/Asserts/Images/album/202307/01/174125x1cir2oxs8s89oqo.jpg)
 
 
 本文旨在提供有关在 Debian 中向 SUDOERS 组添加用户的分步指南，确保你可以有效地管理用户权限和系统安全。
@@ -124,7 +124,7 @@ sudo -l -U arindam
 如果用户是 SUDOERS 组的成员，你将看到他们拥有的权限列表。这是一个示例，你可以看到我的用户名具有所有访问权限。
 
 
-![授予权限后](/Asserts/Images//attachment/album/202307/01/174135oiwjinigvw5iilwb.jpg)
+![授予权限后](/Asserts/Images/album/202307/01/174135oiwjinigvw5iilwb.jpg)
 
 
 ### 结束语

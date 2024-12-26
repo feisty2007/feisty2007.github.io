@@ -15,7 +15,7 @@ tags:	[linuxcn,KDE,ARM]
 > 
 
 
-![](/Asserts/Images//attachment/album/202202/15/223104ezjhlphudzoj0aqq.png)
+![](/Asserts/Images/album/202202/15/223104ezjhlphudzoj0aqq.png)
 
 
 KDE 最近像往常一样分享了它的月度更新，介绍了最新的应用发展和进展。
@@ -51,7 +51,7 @@ KDE 开始为 ARM 平台提供应用程序了。
 第一个可用于 ARM64 的 Snap 软件包是 [kblocks](https://snapcraft.io/kblocks)。
 
 
-![](/Asserts/Images//attachment/album/202202/15/223105jtii4zc5nrz6h274.jpg)
+![](/Asserts/Images/album/202202/15/223105jtii4zc5nrz6h274.jpg)
 
 
 这是一个经典的掉落式积木游戏，它是一个有趣的游戏，也许对于 ARM 平台来说不算什么。

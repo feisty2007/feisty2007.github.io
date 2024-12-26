@@ -7,7 +7,7 @@ tags:	[linuxcn,Edge,Epic,加密劫持]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/26/083734akxr8jv2c8rhapsc.jpg)
+![](/Asserts/Images/album/202008/26/083734akxr8jv2c8rhapsc.jpg)
 
 
 #### 微软逐渐将经典版 Edge 的诸多优秀特性迁移到新版 Edge 浏览器中

@@ -27,7 +27,7 @@ VLC 是一个强大的多功能媒体播放器, 包含大量的功能并支持�
  
 
 
-[![](/Asserts/Images//attachment/album/201309/30/10543021kgwg7tufqijwwj.png)](https://img.linux.net.cn/Asserts/Images//attachment/album/201309/30/10543021kgwg7tufqijwwj.png)
+[![](/Asserts/Images/album/201309/30/10543021kgwg7tufqijwwj.png)](https://img.linux.net.cn/Asserts/Images/album/201309/30/10543021kgwg7tufqijwwj.png)
 
 
 VLC 2.1 **修复了约 1000个bug** , 从而加强了该媒体播放器,相对于之前的版本它增强了稳定性,速度和可靠性.

@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/201910/31/081800segipgcqazg2gi8q.jpg)
+![](/Asserts/Images/album/201910/31/081800segipgcqazg2gi8q.jpg)
 
 
 这里，我们很荣幸地宣布 Fedora 31 的发布。感谢成千上万的 Fedora 社区成员和贡献者的辛勤工作，我们现在正在庆祝又一次的准时发布。这已成为一种惯例！

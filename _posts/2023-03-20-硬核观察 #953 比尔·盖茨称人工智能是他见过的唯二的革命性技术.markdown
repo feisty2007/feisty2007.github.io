@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,DOOM,X.org]
 ---
 
 
-![](/Asserts/Images//attachment/album/202303/27/161009noz4oaq0vfxvwq44.jpg)
+![](/Asserts/Images/album/202303/27/161009noz4oaq0vfxvwq44.jpg)
 
 
-![](/Asserts/Images//attachment/album/202303/27/161021eqj4akaccdcrc303.jpg)
+![](/Asserts/Images/album/202303/27/161021eqj4akaccdcrc303.jpg)
 
 
 ### 比尔·盖茨称人工智能是他见过的唯二的革命性技术
@@ -35,7 +35,7 @@ tags:	[linuxcn,AI,DOOM,X.org]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/27/161033qgrqquzlliorqroh.jpg)
+![](/Asserts/Images/album/202303/27/161033qgrqquzlliorqroh.jpg)
 
 
 ### DoomLinux：一个只用来玩 DOOM 的 Linux
@@ -60,7 +60,7 @@ tags:	[linuxcn,AI,DOOM,X.org]
 > 
 
 
-![](/Asserts/Images//attachment/album/202303/27/161049zjizy83ju8f2rilj.jpg)
+![](/Asserts/Images/album/202303/27/161049zjizy83ju8f2rilj.jpg)
 
 
 ### 由于人数不足，X.org 推迟董事会选举

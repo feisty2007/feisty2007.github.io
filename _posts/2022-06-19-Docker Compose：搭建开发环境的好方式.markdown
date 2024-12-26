@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,开发环境]
 ---
 
 
-![](/Asserts/Images//attachment/album/202206/23/180033lpg4v4bz0bbb1719.jpg)
+![](/Asserts/Images/album/202206/23/180033lpg4v4bz0bbb1719.jpg)
 
 
 大家好！我又写了一篇关于 [我最喜欢的电脑工具](https://jvns.ca/#cool-computer-tools---features---ideas) 的文章。这一篇讲的是 Docker Compose！
@@ -56,7 +56,7 @@ services:
   db:
     image: postgres
     volumes:
-      - ./tmp/db:/var/lib/postgresql/Asserts/Images/
+      - ./tmp/db:/var/lib/postgresql/data
     environment:
       POSTGRES_PASSWORD: password # yes I set the password to 'password'
   go_server:

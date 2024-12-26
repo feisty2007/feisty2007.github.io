@@ -15,7 +15,7 @@ tags:	[linuxcn,Ubuntu,搜索]
 > 
 
 
-![](/Asserts/Images//attachment/album/201601/12/224202h56uwtwwt5ph0tpt.jpg)
+![](/Asserts/Images/album/201601/12/224202h56uwtwwt5ph0tpt.jpg)
 
 
 **Unity 中有争议的在线搜索功能将在今年四月份发布的 Ubuntu 16.04 LTS 中被默认禁用**
@@ -85,7 +85,7 @@ Canonical 在给新安装的 Ubuntu 14.04 LTS 以及以上版本中禁用了来�
 ### 在 Ubuntu 16.04 中你需要自己开启在线搜索功能
 
 
-![Privacy settings in Ubuntu let you opt in to seeing online results](/Asserts/Images//attachment/album/201601/12/224202e5pap69hmnnmmmhm.jpg)
+![Privacy settings in Ubuntu let you opt in to seeing online results](/Asserts/Images/album/201601/12/224202e5pap69hmnnmmmhm.jpg)
 
 
 *在 Ubuntu 隐私设置中你可以打开在线搜索功能*

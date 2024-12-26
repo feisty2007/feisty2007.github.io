@@ -30,7 +30,7 @@ $ mount /dev/sdb2 /mnt
 mount: unknown filesystem type 'LVM2_member'
 ```
 
-![](/Asserts/Images//attachment/album/201506/25/094652wv2k9ukuctd6hh36.jpg)
+![](/Asserts/Images/album/201506/25/094652wv2k9ukuctd6hh36.jpg)
 
 
 要正确地挂载LVM分区，你必须挂载分区中创建的“逻辑卷”。下面就是如何做的。
@@ -46,7 +46,7 @@ PV         VG                           Fmt  Attr PSize   PFree
 /dev/sdb2  vg_ezsetupsystem40a8f02fadd0 lvm2 a--  237.60g    0 
 ```
 
-![](/Asserts/Images//attachment/album/201506/25/094653mgjgzrx3k3gn3gr6.jpg)
+![](/Asserts/Images/album/201506/25/094653mgjgzrx3k3gn3gr6.jpg)
 
 
 物理卷的名字和卷组的名字分别在PV和VG列的下面。本例中，只有一个创建在dev/sdb2下的组“vg\_ezsetupsystem40a8f02fadd0”。
@@ -96,7 +96,7 @@ $ sudo lvdisplay /dev/vg_ezsetupsystem40a8f02fadd0
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/25/094658gfr1iyq9v1dw17dq.jpg)
+![](/Asserts/Images/album/201506/25/094658gfr1iyq9v1dw17dq.jpg)
 
 
 *上图可以看到两个逻辑卷的名字：lv\_*root和lv\_*home*
@@ -120,7 +120,7 @@ $ mount
 
 ```
 
-![](/Asserts/Images//attachment/album/201506/25/094702oh3aaqvvrr3u33fd.jpg)
+![](/Asserts/Images/album/201506/25/094702oh3aaqvvrr3u33fd.jpg)
 
 
 如果你想在每次启动时自动挂载逻辑卷，在/etc/fstab中添加下面的行，你可以指定卷的文件系统类型（如 ext4），它可以从mount命令的输出中找。

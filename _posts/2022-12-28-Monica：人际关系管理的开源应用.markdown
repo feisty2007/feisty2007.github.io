@@ -7,7 +7,7 @@ tags:	[linuxcn,CRM]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/14/093133zpw06jndpzbdpphp.jpg)
+![](/Asserts/Images/album/202212/14/093133zpw06jndpzbdpphp.jpg)
 
 
 你可能已经知道 CRM 代表 <ruby> 客户关系管理 <rt>  Customer Relationship Management </rt></ruby>。 我们已经有了一份帮助小型企业的 [开源 CRM 软件](https://itsfoss.com/best-open-source-crm/) 列表。
@@ -22,7 +22,7 @@ Monica 是一款可让你组织和记录你与亲人互动的应用。**如果�
 ### Monica：跟踪社交互动
 
 
-![contacts](/Asserts/Images//attachment/album/202212/14/093156a5tcpmb8d2kp82jb.png)
+![contacts](/Asserts/Images/album/202212/14/093156a5tcpmb8d2kp82jb.png)
 
 
 很难记住与家人、朋友或同事互动的每一个细节。
@@ -43,7 +43,7 @@ Monica 是一款可让你组织和记录你与亲人互动的应用。**如果�
 ### Monica 的特点
 
 
-![dashboard](/Asserts/Images//attachment/album/202212/14/093156xnbv40m6vmu0b46s.png)
+![dashboard](/Asserts/Images/album/202212/14/093156xnbv40m6vmu0b46s.png)
 
 
 你可以获得大量选项来添加有关你日常生活中的人和互动的信息。其中一些包括：

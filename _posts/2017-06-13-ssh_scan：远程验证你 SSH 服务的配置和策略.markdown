@@ -10,7 +10,7 @@ tags:	[linuxcn,SSH,ssh_scan]
 `ssh_scan` 是一个面向 Linux 和 UNIX 服务器的易用的 SSH 服务参数配置和策略的扫描器程序，其思路来自[Mozilla OpenSSH 安全指南](https://wiki.mozilla.org/Security/Guidelines/OpenSSH)，这个指南为 SSH 服务参数配置提供了一个可靠的安全策略基线的建议，如加密算法（Ciphers），报文认证信息码算法（MAC），密钥交换算法（KexAlgos）和其它。
 
 
-![](/Asserts/Images//attachment/album/201706/05/094154g4ah7ilcejlls4ii.jpg)
+![](/Asserts/Images/album/201706/05/094154g4ah7ilcejlls4ii.jpg)
 
 
 `ssh_scan` 有如下好处：

@@ -15,7 +15,7 @@ tags:	[linuxcn,爬虫,爬取,刮取,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/16/142118cmffvtfrmh1h3ufv.jpg "Computer screen with files or windows open")
+![](/Asserts/Images/album/202112/16/142118cmffvtfrmh1h3ufv.jpg "Computer screen with files or windows open")
 
 
 今天我们将讨论如何使用 Beautiful Soup 库从 HTML 页面中提取内容，之后，我们将使用它将其转换为 Python 列表或字典。

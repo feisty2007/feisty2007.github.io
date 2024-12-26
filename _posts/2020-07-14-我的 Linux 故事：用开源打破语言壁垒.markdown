@@ -15,7 +15,7 @@ tags:	[linuxcn,开源]
 > 
 
 
-![](/Asserts/Images//attachment/album/202007/29/230730e4mb18km1nwn4ibm.jpg)
+![](/Asserts/Images/album/202007/29/230730e4mb18km1nwn4ibm.jpg)
 
 
 相较于我的许多同行和同事，我的开源之旅开始得着实很晚。

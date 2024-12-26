@@ -27,7 +27,7 @@ MySQL 是关系型数据库（基本上是表格数据）。以这种方式它�
 ### 在 Ubuntu 上安装 MySQL
 
 
-![](/Asserts/Images//attachment/album/201904/28/084843mku0mze46nzn0dtw.png)
+![](/Asserts/Images/album/201904/28/084843mku0mze46nzn0dtw.png)
 
 
 我将会介绍两种在 Ubuntu 18.04 上安装 MySQL 的方法：
@@ -71,13 +71,13 @@ sudo apt install mysql-server -y
 首先浏览 MySQL 官方网站的[下载页面](https://dev.mysql.com/downloads/repo/apt/)。
 
 
-![](/Asserts/Images//attachment/album/201904/28/084845pa5zq8kk6v7bq87q.jpg)
+![](/Asserts/Images/album/201904/28/084845pa5zq8kk6v7bq87q.jpg)
 
 
 在这里，选择 DEB 软件包，点击“Download”链接。
 
 
-![](/Asserts/Images//attachment/album/201904/28/084846mseivuet9v2ur666.jpg)
+![](/Asserts/Images/album/201904/28/084846mseivuet9v2ur666.jpg)
 
 
 滑到有关于 Oracle 网站信息的底部，右键 “No thanks, just start my download.”，然后选择 “Copy link location”。
@@ -118,25 +118,25 @@ sudo apt install mysql-server -y
 这样做会在你的终端中打开包配置的提示。使用向下箭头选择“Ok”选项。
 
 
-![](/Asserts/Images//attachment/album/201904/28/084848w8jy4yscgr4lrs4y.jpg)
+![](/Asserts/Images/album/201904/28/084848w8jy4yscgr4lrs4y.jpg)
 
 
 点击回车。这应该会提示你输入密码：这是在为 MySQL 设置 root 密码。不要与 [Ubuntu 的 root 密码混淆](https://itsfoss.com/change-password-ubuntu/)。
 
 
-![](/Asserts/Images//attachment/album/201904/28/084850y3xjhxsh82g8zx8f.jpg)
+![](/Asserts/Images/album/201904/28/084850y3xjhxsh82g8zx8f.jpg)
 
 
 输入密码然后点击 Tab 键去选择“Ok“。点击回车键，你将重新输入密码。操作完之后，再次键入 Tab 去选择 “Ok”。按下回车键。
 
 
-![](/Asserts/Images//attachment/album/201904/28/084851vhom53hfkkwjydgs.jpg)
+![](/Asserts/Images/album/201904/28/084851vhom53hfkkwjydgs.jpg)
 
 
 将会展示一些关于 MySQL Server 的配置信息。再次按下 Tab 去选择 “Ok” 和按下回车键：
 
 
-![](/Asserts/Images//attachment/album/201904/28/084852nu86iu86zusliywf.jpg)
+![](/Asserts/Images/album/201904/28/084852nu86iu86zusliywf.jpg)
 
 
 这里你需要去选择默认验证插件。确保选择了“Use Strong Password Encryption”。按下 Tab 键和回车键。
@@ -159,7 +159,7 @@ sudo systemctl status mysql.service
 这将展示一些关于 MySQL 服务的信息：
 
 
-![](/Asserts/Images//attachment/album/201904/28/084854ro2liocgl0z0zwci.jpg)
+![](/Asserts/Images/album/201904/28/084854ro2liocgl0z0zwci.jpg)
 
 
 你应该在那里看到 “Active: active (running)”。如果你没有看到，使用下列命令去开始这个服务：
@@ -220,7 +220,7 @@ mysql -u test_user -p1234
 如果你成功输入了必要的参数，你将会收到由 MySQL shell 提示符提供的欢迎（`mysql >`）：
 
 
-![](/Asserts/Images//attachment/album/201904/28/084855r413d4tznew7fdv3.jpg)
+![](/Asserts/Images/album/201904/28/084855r413d4tznew7fdv3.jpg)
 
 
 要从服务端断开连接和离开 MySQL 提示符，输入：

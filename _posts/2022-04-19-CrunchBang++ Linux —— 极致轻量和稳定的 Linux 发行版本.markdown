@@ -24,7 +24,7 @@ CrunchBang 项目已经停止维护，CrunchBang++ Linux 是这个独特的项�
 ### CrunchBang++ Linux 测评
 
 
-![CrunchBang++ Linux Desktop with Openbox](/Asserts/Images//attachment/album/202204/10/132712lsye94up4cven44u.jpg)
+![CrunchBang++ Linux Desktop with Openbox](/Asserts/Images/album/202204/10/132712lsye94up4cven44u.jpg)
 
 
 #### 现场介质和安装
@@ -36,7 +36,7 @@ CrunchBang 项目已经停止维护，CrunchBang++ Linux 是这个独特的项�
 安装程序的启动菜单提供了测试<ruby> 现场镜像 <rt>  Live Image </rt></ruby>和启动安装程序的选项。你可以先从现场镜像开始。但是，你不能从现场介质安装！相反，你必须再次启动并选择重新安装选项。<ruby> 现场桌面 <rt>  Live desktop </rt></ruby>的用户 ID 和密码都是 “live”。
 
 
-![Installation in the boot menu](/Asserts/Images//attachment/album/202204/10/132713z88ctvbsgg8svz44.jpg)
+![Installation in the boot menu](/Asserts/Images/album/202204/10/132713z88ctvbsgg8svz44.jpg)
 
 
 在物理机和虚拟机（[virt-manager](https://www.debugpoint.com/2020/11/virt-manager/)）上的安装都很顺利。CrunchBang++ 使用 Debian 的原生安装程序，这有点复杂。但你可以按照屏幕上的指示轻松地安装它。如果你不熟悉 Debian 安装程序，你可以参照我们的 [Debian 安装指南](https://www.debugpoint.com/2021/01/install-debian-buster/)。
@@ -54,7 +54,7 @@ CrunchBang++ 给你经典的 Openbox 窗口管理器体验。登录屏幕出乎�
 如果你是第一次运行它，有一个欢迎脚本会引导你检查网速，更新你的系统，等等。
 
 
-![The welcome script](/Asserts/Images//attachment/album/202204/10/132713a7b7jlpvmk7lnplq.jpg)
+![The welcome script](/Asserts/Images/album/202204/10/132713a7b7jlpvmk7lnplq.jpg)
 
 
 Openbox 本身是快速和干净的。桌面以其预先配置的 SBPP Openbox 主题带来了一个整洁的外观，其组件如下：
@@ -111,7 +111,7 @@ CrunchBang++ 的性能对于轻量级发行版来说是完美的。
 这个发行版使用了 585 MB 的内存，空闲状态下 CPU 占用为 1%。如果你让系统在非活动状态下运行一个小时或更长时间，内存占用会进一步减少到 350 MB 左右。这是一个令人印象深刻的指标。
 
 
-![Performance During Idle State](/Asserts/Images//attachment/album/202204/10/132713mpsqnxb9ps3eby3s.jpg)
+![Performance During Idle State](/Asserts/Images/album/202204/10/132713mpsqnxb9ps3eby3s.jpg)
 
 
 为了测试重压工作负载，我们在 CrunchBang++ 中打开了以下应用程序的一个实例：
@@ -132,7 +132,7 @@ CrunchBang++ 的性能对于轻量级发行版来说是完美的。
 这个发行版的默认安装占用了 4 GB 的硬盘空间。
 
 
-![Performance During Heavy workload State](/Asserts/Images//attachment/album/202204/10/132713p97t7d99cr9tsamn.jpg)
+![Performance During Heavy workload State](/Asserts/Images/album/202204/10/132713p97t7d99cr9tsamn.jpg)
 
 
 #### 连接性

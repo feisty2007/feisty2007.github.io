@@ -7,7 +7,7 @@ tags:	[linuxcn,Python,黑客,OpenJDK]
 ---
 
 
-![](/Asserts/Images//attachment/album/202006/12/125445topqhcpaqxczuo4b.jpg)
+![](/Asserts/Images/album/202006/12/125445topqhcpaqxczuo4b.jpg)
 
 
 #### Python 和 Go 成为年度最受欢迎的黑客工具榜首

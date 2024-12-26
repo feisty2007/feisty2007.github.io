@@ -7,7 +7,7 @@ tags:	[linuxcn,Emacs,Org模式]
 ---
 
 
-![](/Asserts/Images//attachment/album/201903/04/013540k5phwd7mej1vvz1p.png)
+![](/Asserts/Images/album/201903/04/013540k5phwd7mej1vvz1p.png)
 
 
 ### 介绍

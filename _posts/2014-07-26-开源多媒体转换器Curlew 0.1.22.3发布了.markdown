@@ -7,7 +7,7 @@ tags:	[linuxcn,Curlew,多媒体,格式转换]
 ---
 
 
-![Curlew interface](/Asserts/Images//attachment/album/201407/14/212641p1b1m1grkzbvjiqq.jpg)
+![Curlew interface](/Asserts/Images/album/201407/14/212641p1b1m1grkzbvjiqq.jpg)
 
 
 **Curlew是linux下的一款容易使用,开源多媒体转换器,现在的版本是0.1.22.3。**

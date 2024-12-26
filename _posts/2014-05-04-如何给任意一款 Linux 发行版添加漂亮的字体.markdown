@@ -7,7 +7,7 @@ tags:	[linuxcn,Linux,字体,Infinality]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/13/222622hd5gg4dgq0rrhh0m.jpg)
+![](/Asserts/Images/album/201405/13/222622hd5gg4dgq0rrhh0m.jpg)
 
 
 **接下来的教程将指导所有 Linux 用户怎么简单的将漂亮的字体添加到自己的操作系统。我们已经为 Debian、Arch Linux、openSUSE、Slackware 和 Fedora 发行版编写了详细的介绍。**

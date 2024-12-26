@@ -7,10 +7,10 @@ tags:	[linuxcn,OpenSSH,量子计算,ReiserFS,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/11/190412rpt933dcmltdsm9k.jpg)
+![](/Asserts/Images/album/202204/11/190412rpt933dcmltdsm9k.jpg)
 
 
-![](/Asserts/Images//attachment/album/202204/11/190412c194x1d84rn2rfr2.jpg)
+![](/Asserts/Images/album/202204/11/190412c194x1d84rn2rfr2.jpg)
 
 
 ### OpenSSH 9.0 发布，以应对未来的量子计算机
@@ -27,7 +27,7 @@ tags:	[linuxcn,OpenSSH,量子计算,ReiserFS,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/11/190421w8v0z58p29erh2s2.jpg)
+![](/Asserts/Images/album/202204/11/190421w8v0z58p29erh2s2.jpg)
 
 
 ### Reiser5 宣布新的开发计划
@@ -44,7 +44,7 @@ tags:	[linuxcn,OpenSSH,量子计算,ReiserFS,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202204/11/190438iuwmh68h0ywwuzwb.jpg)
+![](/Asserts/Images/album/202204/11/190438iuwmh68h0ywwuzwb.jpg)
 
 
 ### Google 将 AI 自动生成的内容视为垃圾内容

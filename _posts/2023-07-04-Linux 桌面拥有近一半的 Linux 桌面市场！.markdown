@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,桌面]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/20/115246hzczzqpvxbvmxlyb.jpg)
+![](/Asserts/Images/album/202307/20/115246hzczzqpvxbvmxlyb.jpg)
 
 
 Linux 现在占据全球桌面操作系统市场略超过 3%，不包括 4% 多的 ChromeOS（虽然 ChromeOS 实际上 *也是* Linux，但是它是“错误类型”的 Linux）。

@@ -7,10 +7,10 @@ tags:	[linuxcn,AI,GPU]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/21/163053nc45035s3zac0i5c.jpg)
+![](/Asserts/Images/album/202309/21/163053nc45035s3zac0i5c.jpg)
 
 
-![](/Asserts/Images//attachment/album/202309/21/163102x7dat5fgo7tfzxwe.jpg)
+![](/Asserts/Images/album/202309/21/163102x7dat5fgo7tfzxwe.jpg)
 
 
 ### 大模型“深吸一口气”后会更聪明
@@ -35,7 +35,7 @@ DeepMind 的研究人员开发了一种技术，可以通过使用人工智能�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/21/163114dzyd99cfeaduiadm.jpg)
+![](/Asserts/Images/album/202309/21/163114dzyd99cfeaduiadm.jpg)
 
 
 ### 亚马逊将为 Alexa 添加人工智能
@@ -60,7 +60,7 @@ DeepMind 的研究人员开发了一种技术，可以通过使用人工智能�
 > 
 
 
-![](/Asserts/Images//attachment/album/202309/21/163128a6zuua1j1u88bcun.jpg)
+![](/Asserts/Images/album/202309/21/163128a6zuua1j1u88bcun.jpg)
 
 
 ### 统一加速基金会成立，英伟达缺席

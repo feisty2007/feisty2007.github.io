@@ -15,7 +15,7 @@ tags:	[linuxcn,Xubuntu]
 > 
 
 
-![Xubuntu 22.04 Desktop](/Asserts/Images//attachment/album/202204/16/090515qbxbzuzcn1llquon.jpg)
+![Xubuntu 22.04 Desktop](/Asserts/Images/album/202204/16/090515qbxbzuzcn1llquon.jpg)
 
 
 ### Xubuntu 22.04 LTS - 新功能

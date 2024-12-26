@@ -7,7 +7,7 @@ tags:	[linuxcn,LMDE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202309/28/102652rb3y42wf4ftwdfz9.jpg)
+![](/Asserts/Images/album/202309/28/102652rb3y42wf4ftwdfz9.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,LMDE]
 ### Linux Mint Debian Edition 6 “Faye”: 有什么新功能？
 
 
-![](/Asserts/Images//attachment/album/202309/28/102750w0d0g00jgpj9lwhv.jpg)
+![](/Asserts/Images/album/202309/28/102750w0d0g00jgpj9lwhv.jpg)
 
 
 LMDE 6 由 Debian 的最新的稳定发行版 [Debian 12](https://news.itsfoss.com/debian-12-release/) 支持，具有所有改进、错误修复和新功能等等。
@@ -61,7 +61,7 @@ LMDE 6 由 Debian 的最新的稳定发行版 [Debian 12](https://news.itsfoss.c
 #### Linux 内核 6.1
 
 
-![](/Asserts/Images//attachment/album/202309/28/102707qwe0lfw8juj11ftb.png)
+![](/Asserts/Images/album/202309/28/102707qwe0lfw8juj11ftb.png)
 
 
 LMDE 6 使用了长期支持的 [Linux 内核 6.1](https://news.itsfoss.com/linux-kernel-6-1-release/) 版本，从而获得了 Rust 的**实验支持**、对英特尔 Meteor Lake 芯片和 AMD 的 RDNA 3 图形芯片的 **初始支持**。
@@ -70,7 +70,7 @@ LMDE 6 使用了长期支持的 [Linux 内核 6.1](https://news.itsfoss.com/linu
 #### Cinnamon 的升级
 
 
-![](/Asserts/Images//attachment/album/202309/28/102708uqls64dvczso66sn.png)
+![](/Asserts/Images/album/202309/28/102708uqls64dvczso66sn.png)
 
 
 此外，使用了 **Cinnamon 5.8** 作为 LMDE 6 的默认桌面，它作为 Linux Mint 的旗舰桌面环境，提供了很多实用功能。
@@ -88,7 +88,7 @@ LMDE 6 使用了长期支持的 [Linux 内核 6.1](https://news.itsfoss.com/linu
 #### 全新的软件包管理器
 
 
-![](/Asserts/Images//attachment/album/202309/28/102708ogduktfytfdrlccf.png)
+![](/Asserts/Images/album/202309/28/102708ogduktfytfdrlccf.png)
 
 
 同样，我们现在也有了**全面改版的软件包管理器**，我们在 Linux Mint 21.2 版本中首次看到了它，现在它又出现在了 LMDE 6 中。
@@ -144,7 +144,7 @@ sudo mintupgrade
 
 ```
 
-![](/Asserts/Images//attachment/album/202309/28/102708m3sjfs5003p4jwh3.png)
+![](/Asserts/Images/album/202309/28/102708m3sjfs5003p4jwh3.png)
 
 
 按照屏幕上的说明进行操作，升级成功后，使用以下命令移除升级工具并重新启动：

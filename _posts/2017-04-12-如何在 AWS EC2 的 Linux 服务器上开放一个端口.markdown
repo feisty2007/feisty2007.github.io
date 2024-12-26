@@ -15,7 +15,7 @@ tags:	[linuxcn,]
 > 
 
 
-![](/Asserts/Images//attachment/album/201704/19/002216t033lk835kegb0ll.jpg)
+![](/Asserts/Images/album/201704/19/002216t033lk835kegb0ll.jpg)
 
 
 AWS（即 Amazon Web Services）不是 IT 世界中的新术语了。它是亚马逊提供的云服务平台。它的免费帐户能为你提供一年的有限免费服务。这是尝试新技术而不用花费金钱的最好的方式之一。
@@ -39,7 +39,7 @@ AWS 提供服务器计算作为他们的服务之一，他们称之为 EC（弹�
 登录 AWS 帐户并进入 **EC2 管理控制台**。进入<ruby> “网络及安全” <rt>  Network &amp; Security </rt></ruby>菜单下的<ruby> <strong>  安全组 </strong> <rt>  Security Groups </rt></ruby>，如下高亮显示：
 
 
-![AWS EC2 management console](/Asserts/Images//attachment/album/201704/19/002226u0uxztt5bxvt0ubx.jpg)
+![AWS EC2 management console](/Asserts/Images/album/201704/19/002226u0uxztt5bxvt0ubx.jpg)
 
 
 *AWS EC2 管理控制台*
@@ -51,7 +51,7 @@ AWS 提供服务器计算作为他们的服务之一，他们称之为 EC（弹�
 在<ruby> 安全组 <rt>  Security Groups </rt></ruby>中选择你的 EC2 服务器，并在 <ruby> <strong>  行动 </strong> <rt>  Actions </rt></ruby> 菜单下选择 <ruby> <strong>  编辑入站规则 </strong> <rt>  Edit inbound rules </rt></ruby>。
 
 
-![AWS inbound rules](/Asserts/Images//attachment/album/201704/19/002227qmchts6qbz1yphco.jpg)
+![AWS inbound rules](/Asserts/Images/album/201704/19/002227qmchts6qbz1yphco.jpg)
 
 
 *AWS 入站规则菜单*
@@ -63,7 +63,7 @@ AWS 提供服务器计算作为他们的服务之一，他们称之为 EC（弹�
 现在你会看到入站规则窗口。你可以在此处添加/编辑/删除入站规则。这有几个如 http、nfs 等列在下拉菜单中，它们可以为你自动填充端口。如果你有自定义服务和端口，你也可以定义它。
 
 
-![AWS add inbound rule](/Asserts/Images//attachment/album/201704/19/002228l8nxnpwnnn22n2j2.jpg)
+![AWS add inbound rule](/Asserts/Images/album/201704/19/002228l8nxnpwnnn22n2j2.jpg)
 
 
 *AWS 添加入站规则*

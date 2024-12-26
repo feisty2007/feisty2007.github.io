@@ -7,7 +7,7 @@ tags:	[linuxcn,MicroK8s,Kubernetes]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/11/232103nkj6zwgp4jl4n47z.jpg)
+![](/Asserts/Images/album/201907/11/232103nkj6zwgp4jl4n47z.jpg)
 
 
 Mac 用户可使用 MicroK8s 运行 Kubernetes 环境，进而开发、测试应用。通过下面的步骤可轻松搭建此环境。
@@ -145,7 +145,7 @@ multipass exec microk8s-vm -- /snap/bin/microk8s.kubectl get all --all-namespace
 返回信息如下：
 
 
-![](/Asserts/Images//attachment/album/201907/11/232126fd957yz19zjeuyfy.png)
+![](/Asserts/Images/album/201907/11/232126fd957yz19zjeuyfy.png)
 
 
 一旦所有的必要服务已开启，接下来使用以下的链接访问仪表。命令如下：
@@ -180,7 +180,7 @@ Starting to serve on [::][::]:8001
 * 在浏览器内输入这个链接地址：`https://127.0.0.1:8001/api/v1/namespaces/kube-system/services/monitoring-grafana/proxy`，你将看到 Grafana 仪表，如下图：
 
 
-![](/Asserts/Images//attachment/album/201907/11/232127jgd0o9oodtdr5ado.png)
+![](/Asserts/Images/album/201907/11/232127jgd0o9oodtdr5ado.png)
 
 
 ### 总结
@@ -189,4 +189,4 @@ Starting to serve on [::][::]:8001
 使用 MicroK8s 在本地开发和测试应用，将使得团队在部署上更快，这对于开发者和 DevOp 团队来说是非常有价值和意义的。
 
 
-![](/Asserts/Images//attachment/album/201907/11/232127l52rrqvzntxqpprq.png)
+![](/Asserts/Images/album/201907/11/232127l52rrqvzntxqpprq.png)

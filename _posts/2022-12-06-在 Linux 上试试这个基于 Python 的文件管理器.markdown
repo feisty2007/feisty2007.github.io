@@ -7,7 +7,7 @@ tags:	[linuxcn,文件管理器,Dragonfly Navigator]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/30/105706fk81jdkd1jkh9xpc.jpg)
+![](/Asserts/Images/album/202212/30/105706fk81jdkd1jkh9xpc.jpg)
 
 
 
@@ -62,7 +62,7 @@ $ ./dragonfly
 
 ```
 
-![Dragonfly Navigator is a two-panel file manager](/Asserts/Images//attachment/album/202212/30/105758afr9bq6wrirgrdui.jpg)
+![Dragonfly Navigator is a two-panel file manager](/Asserts/Images/album/202212/30/105758afr9bq6wrirgrdui.jpg)
 
 
 ### 双面板
@@ -92,7 +92,7 @@ Dragonfly Navigator 是一个双面板文件管理器，这意味着它总是向
 某些文件可用于快速预览，因此你不必在某个特定应用中打开它们。要预览文件，请将鼠标悬停在文件上，然后按键盘上的 `Alt` 键。预览出现在对面的面板中。
 
 
-![The second panel of Dragonfly Navigator can be used as a preview pane.](/Asserts/Images//attachment/album/202212/30/105806j6aa5thm6n02k2hh.jpg)
+![The second panel of Dragonfly Navigator can be used as a preview pane.](/Asserts/Images/album/202212/30/105806j6aa5thm6n02k2hh.jpg)
 
 
 ### 复制和移动文件

@@ -15,7 +15,7 @@ tags:	[linuxcn,Moodle]
 > 
 
 
-![](/Asserts/Images//attachment/album/202103/10/094113q0ggsbz0a0wb9eg4.jpg "Digital images of a computer desktop")
+![](/Asserts/Images/album/202103/10/094113q0ggsbz0a0wb9eg4.jpg "Digital images of a computer desktop")
 
 
 这次大流行对远程教育的需求比以往任何时候都更大。使得像 [Moodle](https://moodle.org/) 这样的<ruby> 学习管理系统 <rt>  learning management system </rt></ruby>（LMS）比以往任何时候都重要，因为越来越多的学校教育是借助虚拟现实技术的提供。
@@ -57,19 +57,19 @@ $ sudo dnf install virtualbox
 当下载完成后，启动 VirtualBox 并在控制台中选择“<ruby> 新建 <rt>  New </rt></ruby>”按钮。
 
 
-![创建一个新的 VirtualBox 虚拟机](/Asserts/Images//attachment/album/202103/10/094214y24letj7z5e2pejv.png "Create a new VirtualBox")
+![创建一个新的 VirtualBox 虚拟机](/Asserts/Images/album/202103/10/094214y24letj7z5e2pejv.png "Create a new VirtualBox")
 
 
 选择使用的虚拟机的名称、操作系统（Linux）和 Linux 类型（例如 Debian 64 位）。
 
 
-![命名 VirtualBox 虚拟机](/Asserts/Images//attachment/album/202103/10/094215vmslb2e704rv2szb.png "Naming the VirtualBox VM")
+![命名 VirtualBox 虚拟机](/Asserts/Images/album/202103/10/094215vmslb2e704rv2szb.png "Naming the VirtualBox VM")
 
 
 下一步，配置虚拟机内存大小，使用默认值 1024 MB。接下来选择 “<ruby> 动态分配 <rt>  dynamically allocated </rt></ruby>”虚拟磁盘并在虚拟机中添加 `Moodle.iso` 镜像。
 
 
-![添加 Moodle.iso 到虚拟机](/Asserts/Images//attachment/album/202103/10/094215yiqlhvasg36ughux.png "Attaching Moodle.iso to VM")
+![添加 Moodle.iso 到虚拟机](/Asserts/Images/album/202103/10/094215yiqlhvasg36ughux.png "Attaching Moodle.iso to VM")
 
 
 将你的网络设置从 NAT 更改为 “<ruby> 桥接模式 <rt>  Bridged adapter </rt></ruby>”。然后启动虚拟机并安装 ISO 以创建 Moodle 虚拟机。在安装过程中，系统将提示为 root 帐户、MySQL 和Moodle 创建密码。Moodle 密码必须至少包含八个字符，至少一个大写字母和至少一个特殊字符。
@@ -78,7 +78,7 @@ $ sudo dnf install virtualbox
 重启虚拟机。安装完成后，请确保将 Moodle 应用配置内容记录在安全的地方。（安装后，可以根据需要删除 ISO 文件。）
 
 
-![Moodle 应用配置](/Asserts/Images//attachment/album/202103/10/094216n24gr0izprzduvr0.png "Moodle appliance settings")
+![Moodle 应用配置](/Asserts/Images/album/202103/10/094216n24gr0izprzduvr0.png "Moodle appliance settings")
 
 
 重要提示，在互联网上的任何人还看不到你的 Moodle 实例。它仅存在于你的本地网络中：现在只有建筑物中与你连接到相同的路由器或 wifi 接入点的人可以访问你的站点。全世界的互联网无法连接到它，因为你位于防火墙（可能嵌入在路由器中，还可能嵌入在计算机中）的后面。有关网络配置的更多信息，请阅读 Seth Kenlon 关于 [打开端口和通过防火墙进行流量路由](https://opensource.com/article/20/9/firewall) 的文章。
@@ -90,43 +90,43 @@ $ sudo dnf install virtualbox
 现在你可以登录到 Moodle 机器并熟悉该软件了。使用默认的用户名 `admin` 和创建 Moodle VM 时设置的密码登录 Moodle。
 
 
-![Moodle 登录界面](/Asserts/Images//attachment/album/202103/10/094216ahapfa6xapg6fgln.png "Moodle login screen")
+![Moodle 登录界面](/Asserts/Images/album/202103/10/094216ahapfa6xapg6fgln.png "Moodle login screen")
 
 
 首次登录后，你将看到初始的 Moodle 网站的主仪表盘。
 
 
-![Moodle 管理员仪表盘](/Asserts/Images//attachment/album/202103/10/094216tp77mfocofy755fm.png "Moodle admin dashboard")
+![Moodle 管理员仪表盘](/Asserts/Images/album/202103/10/094216tp77mfocofy755fm.png "Moodle admin dashboard")
 
 
 默认的应用名称是 “Turnkey Moodle”，但是可以很容易地对其进行更改以适合你的学校、课堂或其他需要和选择。要使你的 Moodle 网站个性化，请在用户界面左侧的菜单中，选择“站点首页Site home”。然后，点击屏幕右侧的 “<ruby> 设置 <rt>  Settings </rt></ruby>” 图标，然后选择 “<ruby> 编辑设置 <rt>  Edit settings </rt></ruby>”。
 
 
-![Moodle 设置](/Asserts/Images//attachment/album/202103/10/094217clyo11b1bubvby5f.png "Moodle settings")
+![Moodle 设置](/Asserts/Images/album/202103/10/094217clyo11b1bubvby5f.png "Moodle settings")
 
 
 你可以根据需要更改站点名称，并添加简短名称和站点描述。
 
 
-![Moodle 网站名](/Asserts/Images//attachment/album/202103/10/094217o1mmmpem3mfwww4i.png "Name Moodle site")
+![Moodle 网站名](/Asserts/Images/album/202103/10/094217o1mmmpem3mfwww4i.png "Name Moodle site")
 
 
 确保滚动到底部并保存更改。现在，你的网站已定制好。
 
 
-![Moodle 保存更改](/Asserts/Images//attachment/album/202103/10/094217a5v14fw888ofjvsh.png "Moodle changes saved")
+![Moodle 保存更改](/Asserts/Images/album/202103/10/094217a5v14fw888ofjvsh.png "Moodle changes saved")
 
 
 默认类别为其他，这不会帮助人们识别你网站的目的。要添加类别，请返回主仪表盘，然后从左侧菜单中选择 “<ruby> 站点管理 <rt>  Site administration </rt></ruby>”。 在 “<ruby> 课程 <rt>  Courses </rt></ruby>”下，选择 “<ruby> 添加类别 <rt>  Add a category </rt></ruby>”并输入有关你的网站的详细信息。
 
 
-![在 Moodle 中添加类别选项](/Asserts/Images//attachment/album/202103/10/094217y5m005km05m8bka0.png "Add category option in Moodle")
+![在 Moodle 中添加类别选项](/Asserts/Images/album/202103/10/094217y5m005km05m8bka0.png "Add category option in Moodle")
 
 
 要添加课程，请返回 “<ruby> 站点管理 <rt>  Site administration </rt></ruby>”，然后单击 “<ruby> 添加新课程 <rt>  Add a new course </rt></ruby>”。你将看到一系列选项，例如为课程命名、提供简短名称、设定类别以及设置课程的开始和结束日期。你还可以为课程形式设置选项，例如社交、每周式课程、主题，以及其外观、文件上传大小、完成情况跟踪等等。
 
 
-![在 Moodle 中添加课程选项](/Asserts/Images//attachment/album/202103/10/094218hgm2b4bgp7m2mb84.png "Add course option in Moodle")
+![在 Moodle 中添加课程选项](/Asserts/Images/album/202103/10/094218hgm2b4bgp7m2mb84.png "Add course option in Moodle")
 
 
 ### 添加和管理用户
@@ -150,7 +150,7 @@ Moodle 中有许多角色，每个角色都有特定的特权和许可。默认�
 我创建了一个名为 “Code with [Mu](https://opensource.com/article/20/9/teach-python-mu)” 的示例课程。它在 “<ruby> 编程 <rt>  Programming </rt></ruby>” 类别和 “Python” 子类别中。
 
 
-![Moodle 课程列表](/Asserts/Images//attachment/album/202103/10/094218ldbydbzxbpmyppmr.png "Moodle course list")
+![Moodle 课程列表](/Asserts/Images/album/202103/10/094218ldbydbzxbpmyppmr.png "Moodle course list")
 
 
 我为课程选择了每周式课程，默认为四个星期。使用编辑工具，我隐藏了除课程第一周以外的所有内容。这样可以确保我的学生始终专注于材料。
@@ -159,19 +159,19 @@ Moodle 中有许多角色，每个角色都有特定的特权和许可。默认�
 作为教师或 Moodle 管理员，我可以通过单击 “<ruby> 添加活动或资源 <rt>  Add an activity or resource </rt></ruby>” 来将活动添加到每周的教学中。
 
 
-![在 Moodle 中添加活动](/Asserts/Images//attachment/album/202103/10/094218w83d4ass0zk1s191.png "Add activity in Moodle")
+![在 Moodle 中添加活动](/Asserts/Images/album/202103/10/094218w83d4ass0zk1s191.png "Add activity in Moodle")
 
 
 我会看到一个弹出窗口，其中包含可以分配给我的学生的各种活动。
 
 
-![Moodle 活动菜单](/Asserts/Images//attachment/album/202103/10/094218y2z0vz7w7vxecdxc.png "Moodle activities menu")
+![Moodle 活动菜单](/Asserts/Images/album/202103/10/094218y2z0vz7w7vxecdxc.png "Moodle activities menu")
 
 
 Moodle 的工具和活动使我可以轻松地创建学习材料，并以一个简短的测验来结束一周的学习。
 
 
-![Moodle 活动清单](/Asserts/Images//attachment/album/202103/10/094219hpt724t0bbm47qfm.png "Moodle activities checklist")
+![Moodle 活动清单](/Asserts/Images/album/202103/10/094219hpt724t0bbm47qfm.png "Moodle activities checklist")
 
 
 你可以使用 1600 多个插件来扩展 Moodle，包括新的活动、问题类型，与其他系统的集成等等。例如，[BigBlueButton](https://moodle.org/plugins/mod_bigbluebuttonbn) 插件支持幻灯片共享、白板、音频和视频聊天以及分组讨论。其他值得考虑的包括用于视频会议的 [Jitsi](https://moodle.org/plugins/mod_jitsi) 插件、[抄袭检查器](https://moodle.org/plugins/plagiarism_unicheck) 和用于颁发徽章的 [开放徽章工厂](https://moodle.org/plugins/local_obf)。

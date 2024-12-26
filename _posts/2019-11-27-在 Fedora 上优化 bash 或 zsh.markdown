@@ -7,7 +7,7 @@ tags:	[linuxcn,bash,zsh]
 ---
 
 
-![](/Asserts/Images//attachment/album/201911/10/233630ibjmiz5lz6egtizr.jpg)
+![](/Asserts/Images/album/201911/10/233630ibjmiz5lz6egtizr.jpg)
 
 
 本文将向你展示如何在 Fedora 的命令行解释器（CLI）Shell 中设置一些强大的工具。如果使用bash（默认）或zsh，Fedora 可让你轻松设置这些工具。
@@ -120,7 +120,7 @@ fi
 最后，关闭终端并打开一个新终端。它看起来像这样：
 
 
-![](/Asserts/Images//attachment/album/201911/10/233630se888x8gnmlve7x1.png)
+![](/Asserts/Images/album/201911/10/233630se888x8gnmlve7x1.png)
 
 
 ### Oh-My-Zsh
@@ -151,7 +151,7 @@ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install
 最后，你将看到如下所示的终端：
 
 
-![](/Asserts/Images//attachment/album/201911/10/233631fedw90m9l0lsn6je.png)
+![](/Asserts/Images/album/201911/10/233631fedw90m9l0lsn6je.png)
 
 
 恭喜，Oh-my-zsh 已安装成功。
@@ -179,13 +179,13 @@ ZSH_THEME=powerlevel10k/powerlevel10k
 关闭终端。再次打开终端时，powerlevel10k 配置向导将询问你几个问题以正确配置提示符。
 
 
-![](/Asserts/Images//attachment/album/201911/10/233631roa3cb7i4a9cg9m4.png)
+![](/Asserts/Images/album/201911/10/233631roa3cb7i4a9cg9m4.png)
 
 
 完成 powerline10k 配置向导后，你的提示符将如下所示：
 
 
-![](/Asserts/Images//attachment/album/201911/10/233632tonks69eaplpandj.png)
+![](/Asserts/Images/album/201911/10/233632tonks69eaplpandj.png)
 
 
 如果你不喜欢它。你可以随时使用 `p10k configure` 命令来运行 powerline10k 向导。
@@ -224,7 +224,7 @@ source ~/.zshrc
 alias | grep firewall
 ```
 
-![](/Asserts/Images//attachment/album/201911/10/233632eg0gjo0xvv2r23st.png)
+![](/Asserts/Images/album/201911/10/233632eg0gjo0xvv2r23st.png)
 
 
 #### 更多配置
@@ -258,7 +258,7 @@ source ~/.zshrc
 查看结果：
 
 
-![](/Asserts/Images//attachment/album/201911/10/233633oud6d2dd36dmi556.png)
+![](/Asserts/Images/album/201911/10/233633oud6d2dd36dmi556.png)
 
 
 ### 彩色的文件夹和图标
@@ -303,10 +303,10 @@ source $(dirname ($gem which colorls))/tab_complete.sh
 重新加载并查看会发生什么：
 
 
-![](/Asserts/Images//attachment/album/201911/10/233633tkdkwiir16kvdu44.png)
+![](/Asserts/Images/album/201911/10/233633tkdkwiir16kvdu44.png)
 
 
-![](/Asserts/Images//attachment/album/201911/10/233634e5qnyr3rsab5zx5r.png)
+![](/Asserts/Images/album/201911/10/233634e5qnyr3rsab5zx5r.png)
 
 
 

@@ -7,7 +7,7 @@ tags:	[linuxcn,量子计算机,代码,PHP]
 ---
 
 
-![](/Asserts/Images//attachment/album/202010/03/130821qo2z6027ifei6omz.jpg)
+![](/Asserts/Images/album/202010/03/130821qo2z6027ifei6omz.jpg)
 
 
 #### IonQ 宣称打造了迄今最强大的量子计算机

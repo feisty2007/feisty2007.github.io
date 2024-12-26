@@ -15,12 +15,12 @@ tags:	[linuxcn,Unity 8,平板电脑]
 　　Unity 8 新增强了它的壁纸功能。可以在很方便的统一登录屏幕和桌面屏幕的桌布。
 
 
-[![](/Asserts/Images//attachment/album/201308/21/104334wwqq17ylc71yp3lc.jpg)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201308/21/104334wwqq17ylc71yp3lc.jpg)
+[![](/Asserts/Images/album/201308/21/104334wwqq17ylc71yp3lc.jpg)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201308/21/104334wwqq17ylc71yp3lc.jpg)
 
 
-[![](/Asserts/Images//attachment/album/201308/21/104336fhekemcz11k63kco.jpg)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201308/21/104336fhekemcz11k63kco.jpg)
+[![](/Asserts/Images/album/201308/21/104336fhekemcz11k63kco.jpg)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201308/21/104336fhekemcz11k63kco.jpg)
 
 
 注：您现在可以通过 Ubuntu 13.10's Ubuntu Software Center 来安装 Unity 8。

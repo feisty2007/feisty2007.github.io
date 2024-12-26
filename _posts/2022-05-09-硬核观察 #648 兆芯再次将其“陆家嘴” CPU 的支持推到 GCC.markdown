@@ -7,10 +7,10 @@ tags:	[linuxcn,CPU,AI,量子计算]
 ---
 
 
-![](/Asserts/Images//attachment/album/202205/26/140631lmuwbps8a0vspuqb.jpg)
+![](/Asserts/Images/album/202205/26/140631lmuwbps8a0vspuqb.jpg)
 
 
-![](/Asserts/Images//attachment/album/202205/26/140640i4kutubj4ae449ad.jpg)
+![](/Asserts/Images/album/202205/26/140640i4kutubj4ae449ad.jpg)
 
 
 ### 兆芯再次将其“陆家嘴” CPU 的支持推到 GCC
@@ -35,7 +35,7 @@ tags:	[linuxcn,CPU,AI,量子计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/26/140704zjzx3o63zoxozzj6.jpg)
+![](/Asserts/Images/album/202205/26/140704zjzx3o63zoxozzj6.jpg)
 
 
 ### AI 正在打破专利法
@@ -60,7 +60,7 @@ tags:	[linuxcn,CPU,AI,量子计算]
 > 
 
 
-![](/Asserts/Images//attachment/album/202205/26/140723qua3ofo25s35e2ai.jpg)
+![](/Asserts/Images/album/202205/26/140723qua3ofo25s35e2ai.jpg)
 
 
 ### 科学家们正在建立量子互联网

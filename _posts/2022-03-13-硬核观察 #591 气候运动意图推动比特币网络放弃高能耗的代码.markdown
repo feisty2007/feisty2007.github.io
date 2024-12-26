@@ -7,10 +7,10 @@ tags:	[linuxcn,比特币,Chrome,Markdown]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/30/125314q0aclkqak7864k57.jpg)
+![](/Asserts/Images/album/202203/30/125314q0aclkqak7864k57.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/30/125323r1pmqlpennndqlel.jpg)
+![](/Asserts/Images/album/202203/30/125323r1pmqlpennndqlel.jpg)
 
 
 ### 气候运动意图推动比特币网络放弃高能耗的代码
@@ -27,7 +27,7 @@ tags:	[linuxcn,比特币,Chrome,Markdown]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/30/125331g0nawceai1ca8gz5.jpg)
+![](/Asserts/Images/album/202203/30/125331g0nawceai1ca8gz5.jpg)
 
 
 ### Chrome 100 正式发布
@@ -44,7 +44,7 @@ tags:	[linuxcn,比特币,Chrome,Markdown]
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/30/125350zzvm652pzovpbvdr.jpg)
+![](/Asserts/Images/album/202203/30/125350zzvm652pzovpbvdr.jpg)
 
 
 ### 谷歌文档添加 Markdown 支持

@@ -15,7 +15,7 @@ tags:	[linuxcn,Linux,启动,引导,GRUB2]
 > 
 
 
-![](/Asserts/Images//attachment/album/201708/24/123711cam1fjf4eaefajnz.jpg)
+![](/Asserts/Images/album/201708/24/123711cam1fjf4eaefajnz.jpg)
 
 
 理解操作系统开机引导和启动过程对于配置操作系统和解决相关启动问题是至关重要的。该文章陈述了 [GRUB2 引导装载程序](https://en.wikipedia.org/wiki/GNU_GRUB)开机引导装载内核的过程和 [systemd 初始化系统](https://en.wikipedia.org/wiki/Systemd)执行开机启动操作系统的过程。
@@ -187,7 +187,7 @@ systemd 也会查看老式的 systemV init 目录中是否存在相关启动文�
 `sysinit.target` 启动所有的低级别服务和系统初具功能所需的单元，这些都是进入下一阶段 basic.target 的必要前提。
 
 
-![](/Asserts/Images//attachment/album/201708/31/154048a1v4ev3huvq53574.jpg)
+![](/Asserts/Images/album/201708/31/154048a1v4ev3huvq53574.jpg)
 
 
 *图 1：systemd 的启动流程*

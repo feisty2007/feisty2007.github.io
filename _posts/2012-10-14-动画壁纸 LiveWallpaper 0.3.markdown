@@ -22,8 +22,8 @@ tags:	[linuxcn,动画壁纸,LiveWallpaper,安装]
 　　如同 Linux 上的其他软件一样，安装使用卸载都通过几行命令就可以实现了。
 
 
-[![](/Asserts/Images//attachment/album/201210/28/183749qnj5dj9oqeqd3z5f.png)  
-点击查看原始大图](https://img.linux.net.cn/Asserts/Images//attachment/album/201210/28/183749qnj5dj9oqeqd3z5f.png)
+[![](/Asserts/Images/album/201210/28/183749qnj5dj9oqeqd3z5f.png)  
+点击查看原始大图](https://img.linux.net.cn/Asserts/Images/album/201210/28/183749qnj5dj9oqeqd3z5f.png)
 
 
 　　大家可以通过如下命令安装 LiveWallpaper 0.3 ：

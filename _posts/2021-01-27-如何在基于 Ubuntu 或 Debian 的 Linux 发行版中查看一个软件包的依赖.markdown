@@ -7,7 +7,7 @@ tags:	[linuxcn,软件包,依赖]
 ---
 
 
-![](/Asserts/Images//attachment/album/202101/06/112738sv0dmjojmjokpxt0.jpg)
+![](/Asserts/Images/album/202101/06/112738sv0dmjojmjokpxt0.jpg)
 
 
 在 Ubuntu 或 Debian 中通过命令行来安装应用是一件很简单的事，你只需要执行 `apt install package_name` 就可以了。
@@ -127,7 +127,7 @@ apt-cache depends package_name
 下面的输出看起来更加干净，不是吗？
 
 
-![](/Asserts/Images//attachment/album/202101/06/112849tk6ncb9edogeogeo.png)
+![](/Asserts/Images/album/202101/06/112849tk6ncb9edogeogeo.png)
 
 
 #### 使用 dpkg 来查看一个 DEB 文件的依赖
@@ -148,7 +148,7 @@ dpkg -I path_to_deb_file
 依赖信息就可以在以 “Depends” 开头的那些行中找到。
 
 
-![](/Asserts/Images//attachment/album/202101/06/112850q37hvz6i4d7i6g7u.png)
+![](/Asserts/Images/album/202101/06/112850q37hvz6i4d7i6g7u.png)
 
 
 #### 使用 apt-rdepends 来查看依赖及依赖的依赖

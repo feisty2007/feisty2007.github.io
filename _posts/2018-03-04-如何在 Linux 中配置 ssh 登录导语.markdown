@@ -15,13 +15,13 @@ tags:	[linuxcn,登录,ssh]
 > 
 
 
-![](/Asserts/Images//attachment/album/201803/08/232321r2qar4rbzg2rwuwr.png)
+![](/Asserts/Images/album/201803/08/232321r2qar4rbzg2rwuwr.png)
 
 
 无论何时登录公司的某些生产系统，你都会看到一些登录消息、警告或关于你将登录或已登录的服务器的信息，如下所示。这些是<ruby> 登录导语 <rt>  login banner </rt></ruby>。
 
 
-![Login welcome messages in Linux](/Asserts/Images//attachment/album/201803/08/232354qeshpt4ezeyghsyb.png)
+![Login welcome messages in Linux](/Asserts/Images/album/201803/08/232354qeshpt4ezeyghsyb.png)
 
 
 在本文中，我们将引导你配置它们。
@@ -76,7 +76,7 @@ root@kerneltalks # kill -HUP 14255
 就是这样了！打开新的会话并尝试登录。你将看待你在上述步骤中配置的消息。
 
 
-![Login banner in Linux](/Asserts/Images//attachment/album/201803/08/232400d5zix9knzn8iodok.png)
+![Login banner in Linux](/Asserts/Images/album/201803/08/232400d5zix9knzn8iodok.png)
 
 
 你可以在用户输入密码登录系统之前看到此消息。
@@ -103,7 +103,7 @@ info@kerneltalks.com. Thank you.
 你不需要重启 `sshd` 守护进程来使更改生效。只要保存该文件，`sshd` 守护进程就会下一次登录请求时读取和显示。
 
 
-![motd in linux](/Asserts/Images//attachment/album/201803/08/232401h3yuy242jb0bu0uu.png)
+![motd in linux](/Asserts/Images/album/201803/08/232401h3yuy242jb0bu0uu.png)
 
 
 你可以在上面的截图中看到：黄色框是由 `/etc/motd` 控制的 MOTD，绿色框就是我们之前看到的登录导语。

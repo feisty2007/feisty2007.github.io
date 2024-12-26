@@ -7,7 +7,7 @@ tags:	[linuxcn,tty,ps]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/16/201244lhzdhhc99jtjn90n.jpg)
+![](/Asserts/Images/album/201802/16/201244lhzdhhc99jtjn90n.jpg)
 
 
 当你在 `ps aux` 的输出中看到 `sshd：root@notty` 时会觉得很奇怪吧，`notty` 算是哪门子的主机，是不是黑客计算机的名字啊。不过不用担心；`notty` 仅仅是表示 没有 tty 而已。

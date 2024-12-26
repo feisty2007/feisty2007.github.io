@@ -15,7 +15,7 @@ tags:	[linuxcn,数据库]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/19/093406msdyogai9rzo2rvo.jpg "Cloud and databsae incons")
+![](/Asserts/Images/album/202112/19/093406msdyogai9rzo2rvo.jpg "Cloud and databsae incons")
 
 
 Apache ShardingSphere 是一个开源的分布式数据库，它还有一个用户和开发人员需要的生态系统，为之提供了定制和云原生的体验。在加入 Apache 基金会的三年里，ShardingSphere 核心团队与社区一起努力工作，创建了一个开源的、强大的、分布式的数据库和一个支持性生态系统。
@@ -42,7 +42,7 @@ ShardingSphere 为 Database Plus 使用了可插拔的内核架构。这意味�
 * **产品层：** 这是终端用户看到的层。这为他们提供了面向行业和特定场景的产品。换句话说，它为用户提供了适合他们所做的任何工作的工具。
 
 
-![Database Plus platform](/Asserts/Images//attachment/album/202112/19/093417nusufvjmqcjqzqce.png "Database Plus platform")
+![Database Plus platform](/Asserts/Images/album/202112/19/093417nusufvjmqcjqzqce.png "Database Plus platform")
 
 
 （Trista Pan, [CC BY-SA 4.0](file:///Users/xingyuwang/develop/TranslateProject-wxy/translated/tech/tps:/creativecommons.org/licenses/by-sa/4.0)）
@@ -54,7 +54,7 @@ ShardingSphere 为 Database Plus 使用了可插拔的内核架构。这意味�
 Apache ShardingSphere 采用独特的 SQL 方言 DistSQL（分布式 SQL）来连接 ShardingSphere 生态系统的所有元素。作为 ShardingSphere 分布式数据库生态系统的标准交互语言，DistSQL 允许用户使用一个 SQL 命令来创建、修改或删除分布式数据库表或对其进行加密或解密。DistSQL 还支持分布式调度管理。
 
 
-![DistSQL](/Asserts/Images//attachment/album/202112/19/093417yjnnnmpzdf4qaxxp.png "DistSQL")
+![DistSQL](/Asserts/Images/album/202112/19/093417yjnnnmpzdf4qaxxp.png "DistSQL")
 
 
 （Trista Pan, [CC BY-SA 4.0](file:///Users/xingyuwang/develop/TranslateProject-wxy/translated/tech/tps:/creativecommons.org/licenses/by-sa/4.0)）
@@ -69,7 +69,7 @@ ShardingSphere JDBC 和 ShardingSphere Proxy 经过两年的打磨和测试，�
 多亏共享核心架构，以及不同的 ShardingSphere 适配器，如果用户的生产环境需要，可以选择混合适配器部署（如下图所示）。
 
 
-![Hybrid deployment](/Asserts/Images//attachment/album/202112/19/093418arfmz8sfjw63ubbx.png "Hybrid deployment")
+![Hybrid deployment](/Asserts/Images/album/202112/19/093418arfmz8sfjw63ubbx.png "Hybrid deployment")
 
 
 （Trista Pan, [CC BY-SA 4.0](file:///Users/xingyuwang/develop/TranslateProject-wxy/translated/tech/tps:/creativecommons.org/licenses/by-sa/4.0)）
@@ -81,7 +81,7 @@ ShardingSphere JDBC 和 ShardingSphere Proxy 经过两年的打磨和测试，�
 在 ShardingSphere 生态系统中，计算和存储是分开的，因此具备对数据库进行分布式治理的能力，所以你可以维护许多存储节点、计算节点，实施断路器，并确保高可用性。
 
 
-![Distributed governance](/Asserts/Images//attachment/album/202112/19/093418hua4d4tde5plpild.png "Distributed governance")
+![Distributed governance](/Asserts/Images/album/202112/19/093418hua4d4tde5plpild.png "Distributed governance")
 
 
 （Trista Pan, [CC BY-SA 4.0](file:///Users/xingyuwang/develop/TranslateProject-wxy/translated/tech/tps:/creativecommons.org/licenses/by-sa/4.0)）
@@ -93,7 +93,7 @@ ShardingSphere JDBC 和 ShardingSphere Proxy 经过两年的打磨和测试，�
 ShardingSphere 也有状态指标来监控你的基础设施。代理动态加载机制为你提供了指标和跟踪指标，方便您将 APM 系统与 Grafana 仪表板集成。
 
 
-![Grafana dashboard](/Asserts/Images//attachment/album/202112/19/093419w151o5bobosvhoaq.png "Grafana dashboard")
+![Grafana dashboard](/Asserts/Images/album/202112/19/093419w151o5bobosvhoaq.png "Grafana dashboard")
 
 
 （Trista Pan, [CC BY-SA 4.0](file:///Users/xingyuwang/develop/TranslateProject-wxy/translated/tech/tps:/creativecommons.org/licenses/by-sa/4.0)）

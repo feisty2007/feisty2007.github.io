@@ -7,7 +7,7 @@ tags:	[linuxcn,Zorin]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/05/112128zmz2n2csi6h7y6s2.png)
+![](/Asserts/Images/album/201907/05/112128zmz2n2csi6h7y6s2.png)
 
 
 长久以来 Zorin OS 一直在 [初学者适用的Linux发行版排行](https://itsfoss.com/best-linux-beginners/) 中占有一席之地。的确，它可能不是最受欢迎的，但是对于从 Windows 阵营转向 Linux 的用户而言，它一定是最好的一个发行版。
@@ -28,7 +28,7 @@ tags:	[linuxcn,Zorin]
 #### Zorin Connect
 
 
-![Zorin Connect](/Asserts/Images//attachment/album/201907/05/112142axwz3mu8s38qax58.jpg)
+![Zorin Connect](/Asserts/Images/album/201907/05/112142axwz3mu8s38qax58.jpg)
 
 
 Zorin OS 15 最主要的一个亮点就是 —— Zorin Connect。如果你使用的是安卓设备，那你一定会喜欢这一功能。类似于 [PushBullet](https://www.pushbullet.com/)（LCTT 译注：PushBullet，子弹推送，一款跨平台推送工具）， [Zorin Connect](https://play.google.com/store/apps/details?id=com.zorinos.zorin_connect&hl=en_IN) 会提升你的手机和桌面一体化的体验。
@@ -51,7 +51,7 @@ Zorin OS 15 最主要的一个亮点就是 —— Zorin Connect。如果你使�
 #### 新的桌面主题（包含夜间模式！）
 
 
-![Zorin 夜间模式](/Asserts/Images//attachment/album/201907/05/112144rvnbnylf6ivq6vnn.jpg)
+![Zorin 夜间模式](/Asserts/Images/album/201907/05/112144rvnbnylf6ivq6vnn.jpg)
 
 
 一提到 “夜间模式” 我就毫无抵抗力。对我而言，这是Zorin OS 15 自带的最好的功能。 
@@ -72,7 +72,7 @@ Zorin OS 15 最主要的一个亮点就是 —— Zorin Connect。如果你使�
 #### 代办事项应用
 
 
-![Todo](/Asserts/Images//attachment/album/201907/05/112146q83fjlon5fb0fb73.jpg)
+![Todo](/Asserts/Images/album/201907/05/112146q83fjlon5fb0fb73.jpg)
 
 
 我一直希望支持这个功能，这样我就不必使用其他 Linux 客户端程序来添加任务。很高兴看到内置的应用程序集成并支持谷歌任务和 Todoist。

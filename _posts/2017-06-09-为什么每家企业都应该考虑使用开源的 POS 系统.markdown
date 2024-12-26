@@ -7,7 +7,7 @@ tags:	[linuxcn,POS]
 ---
 
 
-![Why every business should consider an open source point of sale system](/Asserts/Images//attachment/album/201706/08/061222jaee720c8xp8ppoe.png "Why every business should consider an open source point of sale system")
+![Why every business should consider an open source point of sale system](/Asserts/Images/album/201706/08/061222jaee720c8xp8ppoe.png "Why every business should consider an open source point of sale system")
 
 
 销售点终端 (POS) 系统是从很久以前的简单的收银机发展而来的。如今的 POS 系统可以提供一体化解决方案，包括支付流程、库存管理、营销工具等等。零售店也可以使用移动设备来接收现金流和各种成本支出相关的日报表。
@@ -83,7 +83,7 @@ POS 系统是每家企业重要的生命线，那就意味着你在选择 POS �
 作者简介：
 
 
-![](/Asserts/Images//attachment/album/201706/08/061222aaadamdwma2wrurj.jpg)
+![](/Asserts/Images/album/201706/08/061222aaadamdwma2wrurj.jpg)
 
 
 我是 AcroMedia 公司数字化市场营销项目经理。我们主要使用 Drupal 开源系统来为客户提供定制化商业解决方案。

@@ -7,7 +7,7 @@ tags:	[linuxcn,RHEL 7,CentOS 7]
 ---
 
 
-![](/Asserts/Images//attachment/album/201504/27/151948jz881a61rj66up58.png)
+![](/Asserts/Images/album/201504/27/151948jz881a61rj66up58.png)
 
 
 ### 17. 安装 Webmin
@@ -23,7 +23,7 @@ Webmin 是基于 Web 的 Linux 配置工具。它像一个中央系统，用于�
 
 ```
 
-![在 CentOS 7 上安装 Webmin](/Asserts/Images//attachment/album/201505/01/182210lllliminb55pcp2l.jpg)
+![在 CentOS 7 上安装 Webmin](/Asserts/Images/album/201505/01/182210lllliminb55pcp2l.jpg)
 
 
 *安装 Webmin*
@@ -56,7 +56,7 @@ Webmin 是基于 Web 的 Linux 配置工具。它像一个中央系统，用于�
 
 ```
 
-![安装 Epel 库](/Asserts/Images//attachment/album/201505/01/182212ddexo77dxckchcxm.jpg)
+![安装 Epel 库](/Asserts/Images/album/201505/01/182212ddexo77dxckchcxm.jpg)
 
 
 *安装 Epel 库*
@@ -77,7 +77,7 @@ Webmin 是基于 Web 的 Linux 配置工具。它像一个中央系统，用于�
 
 ```
 
-![安装 7zip 工具](/Asserts/Images//attachment/album/201505/01/182213zfvsk888mn01k11q.jpg)
+![安装 7zip 工具](/Asserts/Images/album/201505/01/182213zfvsk888mn01k11q.jpg)
 
 
 *安装 7zip 工具*
@@ -98,7 +98,7 @@ NTFS-3G，一个很小但非常有用的 NTFS 驱动，在大部分类 UNIX 发�
 
 ```
 
-![在 CentOS 上安装 NTFS-3G](/Asserts/Images//attachment/album/201505/01/182213xunhhfyqwwa7rhyq.jpg)
+![在 CentOS 上安装 NTFS-3G](/Asserts/Images/album/201505/01/182213xunhhfyqwwa7rhyq.jpg)
 
 
 *安装 NTFS-3G 用于挂载 Windows 分区*
@@ -127,7 +127,7 @@ VSFTPD 表示 Very Secure File Transfer Protocol Daemon，是用于类 UNIX 系�
 
 ```
 
-![在 CentOS 7 上安装 Vsftpd](/Asserts/Images//attachment/album/201505/01/182213mv6mwqvu5vi78jvl.jpg)
+![在 CentOS 7 上安装 Vsftpd](/Asserts/Images/album/201505/01/182213mv6mwqvu5vi78jvl.jpg)
 
 
 *安装 Vsftpd FTP*
@@ -189,7 +189,7 @@ sudo 通常被称为 super do 或者 suitable user do，是一个类 UNIX 操作
 这会打开 /etc/sudoers 并进行编辑
 
 
-![sudoers 文件](/Asserts/Images//attachment/album/201505/01/182214hre7irqu55uz5iua.jpg)
+![sudoers 文件](/Asserts/Images/album/201505/01/182214hre7irqu55uz5iua.jpg)
 
 
 *sudoers 文件*
@@ -254,7 +254,7 @@ SELinux 表示 Security-Enhanced Linux，是内核级别的安全模块。
 
 ```
 
-![在 CentOS 7 上安装 SElinux](/Asserts/Images//attachment/album/201505/01/182214qltl259i65g6mcme.jpg)
+![在 CentOS 7 上安装 SElinux](/Asserts/Images/album/201505/01/182214qltl259i65g6mcme.jpg)
 
 
 *安装 SElinux 策略*
@@ -269,7 +269,7 @@ SELinux 表示 Security-Enhanced Linux，是内核级别的安全模块。
 
 ```
 
-![查看 SELinux 模式](/Asserts/Images//attachment/album/201505/01/182215jdz223ffifc2fd2f.jpg)
+![查看 SELinux 模式](/Asserts/Images/album/201505/01/182215jdz223ffifc2fd2f.jpg)
 
 
 *查看 SELinux 模式*
@@ -311,7 +311,7 @@ Rootkit Hunter，简写为 RKhunter，是在 Linux 系统中扫描 rootkits 和�
 
 ```
 
-![安装 Rootkit Hunter](/Asserts/Images//attachment/album/201505/01/182215pqqsdy37zx6sdoos.jpg)
+![安装 Rootkit Hunter](/Asserts/Images/album/201505/01/182215pqqsdy37zx6sdoos.jpg)
 
 
 *安装 Rootkit Hunter*
@@ -326,13 +326,13 @@ Rootkit Hunter，简写为 RKhunter，是在 Linux 系统中扫描 rootkits 和�
 
 ```
 
-![扫描 rootkits](/Asserts/Images//attachment/album/201505/01/182215aogbjob7fnij2o7o.png)
+![扫描 rootkits](/Asserts/Images/album/201505/01/182215aogbjob7fnij2o7o.png)
 
 
 *扫描 rootkits*
 
 
-![RootKit 扫描结果](/Asserts/Images//attachment/album/201505/01/182216dhvzf9husm98ujtv.png)
+![RootKit 扫描结果](/Asserts/Images/album/201505/01/182216dhvzf9husm98ujtv.png)
 
 
 *RootKit 扫描结果*

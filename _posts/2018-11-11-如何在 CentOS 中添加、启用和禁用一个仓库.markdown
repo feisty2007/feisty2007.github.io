@@ -7,7 +7,7 @@ tags:	[linuxcn,仓库]
 ---
 
 
-![](/Asserts/Images//attachment/album/201811/10/221336sona2ooagwuohton.jpg)
+![](/Asserts/Images/album/201811/10/221336sona2ooagwuohton.jpg)
 
 
 在基于 RPM 的系统上，例如 RHEL、CentOS 等，我们中的许多人使用 yum 包管理器来管理软件的安装、删除、更新、搜索等。

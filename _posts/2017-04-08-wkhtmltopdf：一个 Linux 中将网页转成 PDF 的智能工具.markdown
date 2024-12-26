@@ -13,7 +13,7 @@ wkhtmltopdf 是一个开源、简单而有效的命令行 shell 程序，它可�
 wkhtmltopdf 是用 C++ 编写的，并在 GNU/GPL （通用公共许可证）下发布。它使用 WebKit 渲染引擎将 HTML 页面转换为 PDF 文档且不会丢失页面的质量。这是一个用于实时创建和存储网页快照的非常有用且可信赖的解决方案。
 
 
-![](/Asserts/Images//attachment/album/201703/31/220804a3fssc34bsscbfl2.png)
+![](/Asserts/Images/album/201703/31/220804a3fssc34bsscbfl2.png)
 
 
 ### wkhtmltopdf 的功能
@@ -199,7 +199,7 @@ $ evince 10-Sudo-Configurations.pdf
 在我的 Linux Mint 17 中看起来很棒。
 
 
-![View Website Page in PDF](/Asserts/Images//attachment/album/201703/31/220810fybro6v2o72bda99.png)
+![View Website Page in PDF](/Asserts/Images/album/201703/31/220810fybro6v2o72bda99.png)
 
 
 *在 PDF 中浏览网页*
@@ -247,7 +247,7 @@ $ evince 10-Sudo-Configurations.pdf
 看一下下面的图。它上看去比上面的更好。
 
 
-![Create Website Page to Table of Contents in PDF](/Asserts/Images//attachment/album/201703/31/220811d9e4d2296d416ze3.png)
+![Create Website Page to Table of Contents in PDF](/Asserts/Images/album/201703/31/220811d9e4d2296d416ze3.png)
 
 
 *在 PDF 中创建网页的目录*

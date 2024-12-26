@@ -7,7 +7,7 @@ tags:	[linuxcn,内核]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/13/161653nx2sgg3200c0m3m5.jpg)
+![](/Asserts/Images/album/202007/13/161653nx2sgg3200c0m3m5.jpg)
 
 
 #### Linux 内核批准采用中性的术语

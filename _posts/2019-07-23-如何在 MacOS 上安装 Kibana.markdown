@@ -15,7 +15,7 @@ tags:	[linuxcn,Elasticsearch]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/22/204048vl8t88y6q8988229.jpg)
+![](/Asserts/Images/album/201907/22/204048vl8t88y6q8988229.jpg)
 
 
 在我之前的文章中，我向 Mac 用户介绍了[安装 Elasticsearch](/article-11125-1.html) 的步骤，这是世界上最受欢迎的企业级搜索引擎。（这里有一篇针对 Linux 用户的[单独文章](https://opensource.com/article/19/7/installing-elasticsearch-and-kibana-linux)。）其自然语言处理能力使得 Elasticsearch 在数据集中查找细节方面表现出色。一旦你发现了你需要的数据，如果你已经安装了 [Kibana](https://www.elastic.co/products/kibana)，你可以将它提升到一个新的水平。
@@ -42,7 +42,7 @@ Kibana 是 Elasticsearch 的开源的数据可视化插件。当你在 Elasticse
 2、单击[此处](https://www.elastic.co/downloads/kibana)下载 Kibana。你将看到如下的网页，它会提示你在**下载**部分的右上角下载 Kibana for Mac：
 
 
-![Download Kibana here.](/Asserts/Images//attachment/album/201907/22/204132mvow3ld6k3z6aw3o.png "Download Kibana here.")
+![Download Kibana here.](/Asserts/Images/album/201907/22/204132mvow3ld6k3z6aw3o.png "Download Kibana here.")
 
 
 3、在你的 `Downloads` 文件夹中，打开 .tar 文件以展开它。此操作将创建一个具有相同名称的文件夹（例如，`kibana-7.1.1-darwin-x86_64`）。
@@ -66,10 +66,10 @@ Elasticsearch 运行起来后，你现在可以启动 Kibana 了。该过程类�
 2、打开 `bin` 子文件夹。
 
 
-![The Kibana bin folder.](/Asserts/Images//attachment/album/201907/22/204137krn6gnpnhujcpbjw.png "The Kibana bin folder.")
+![The Kibana bin folder.](/Asserts/Images/album/201907/22/204137krn6gnpnhujcpbjw.png "The Kibana bin folder.")
 
 
-3、运行 `kibana-plugin`。你可能会遇到上一篇文章中出现的相同安全警告： ![Security warning](/Asserts/Images//attachment/album/201907/22/204144fl2vsvhld2hlpmcc.png "Security warning")
+3、运行 `kibana-plugin`。你可能会遇到上一篇文章中出现的相同安全警告： ![Security warning](/Asserts/Images/album/201907/22/204144fl2vsvhld2hlpmcc.png "Security warning")
 
 
 通常，如果收到此警告，请按照那篇文章中的说明清除警告并打开 Kibana。请注意，如果我在终端中没有运行 Elasticsearch 的情况下打开该插件，我会收到相同的安全警告。要解决此问题，如上一篇文章中所述，打开 Elasticsearch 并在终端中运行它。使用 GUI 启动 Elasticsearch 也应该打开终端。
@@ -84,13 +84,13 @@ Elasticsearch 运行起来后，你现在可以启动 Kibana 了。该过程类�
 Kibana 的默认设置将其配置为在 `localhost:5601` 上运行。你需要更新文件（在这个例子的情况下）`~Downloads/kibana-7.1.1-darwin-x86_64/config/kibana.yml` 以在运行 Kibana 之前更改主机或端口号。
 
 
-![The Kibana config directory.](/Asserts/Images//attachment/album/201907/22/204150pnu0oz3en1adz2r0.png "The Kibana config directory.")
+![The Kibana config directory.](/Asserts/Images/album/201907/22/204150pnu0oz3en1adz2r0.png "The Kibana config directory.")
 
 
 以下是我的 Elasticsearch 聚会组里配置 Kibana 时终端的样子，因此默认为 `http://localhost:9200`，这是查询 Elasticsearch 实例时使用的 URL：
 
 
-![Configuring Kibana's host and port connections.](/Asserts/Images//attachment/album/201907/22/204151nfmxxywrraf2yf35.png "Configuring Kibana's host and port connections.")
+![Configuring Kibana's host and port connections.](/Asserts/Images/album/201907/22/204151nfmxxywrraf2yf35.png "Configuring Kibana's host and port connections.")
 
 
 ### 从命令行运行 Kibana
@@ -99,7 +99,7 @@ Kibana 的默认设置将其配置为在 `localhost:5601` 上运行。你需要�
 打开插件后，可以从命令行或 GUI 运行 Kibana。这是终端连接到 Elasticsearch 后的样子：
 
 
-![Kibana running once it's connected to Elasticsearch.](/Asserts/Images//attachment/album/201907/22/204153p63k00hiredgsddg.png "Kibana running once it's connected to Elasticsearch.")
+![Kibana running once it's connected to Elasticsearch.](/Asserts/Images/album/201907/22/204153p63k00hiredgsddg.png "Kibana running once it's connected to Elasticsearch.")
 
 
 与 Elasticsearch 一样，Kibana 默认在前台运行。你可以按 `Ctrl-C` 来停止它。

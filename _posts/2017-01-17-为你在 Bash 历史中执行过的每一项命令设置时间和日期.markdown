@@ -7,7 +7,7 @@ tags:	[linuxcn,历史,history]
 ---
 
 
-![](/Asserts/Images//attachment/album/201701/22/223931p6yszrs7aydd7mgr.jpg)
+![](/Asserts/Images/album/201701/22/223931p6yszrs7aydd7mgr.jpg)
 
 
 在默认情况下，所有通过 Bash 在命令行中执行过的命令都被存储在历史缓存区或者一个叫做 `~/.bash_history` 的文件里。这意味着系统管理员可以看到系统上用户执行过的命令清单，或者用户可以通过像 [history 命令](/article-1143-1.html)这样的选项来看他或她自己的命令历史。
@@ -19,7 +19,7 @@ $ history
 
 ```
 
-![Linux History Command](/Asserts/Images//attachment/album/201701/22/224022x7erz1twe6mgwdmt.png)
+![Linux History Command](/Asserts/Images/album/201701/22/224022x7erz1twe6mgwdmt.png)
 
 
 *Linux 历史命令*
@@ -73,7 +73,7 @@ $ history
 
 ```
 
-![Display Linux Command History with Date and Time](/Asserts/Images//attachment/album/201701/22/224023fox7vo17oxo7g777.png)
+![Display Linux Command History with Date and Time](/Asserts/Images/album/201701/22/224023fox7vo17oxo7g777.png)
 
 
 *显示带有日期和时间的 Linux 命令历史。*
@@ -115,7 +115,7 @@ $ source ~/.bashrc
 
 
 > 
-> ![](/Asserts/Images//attachment/album/201701/22/224024ym6iri27ira67dxq.png)
+> ![](/Asserts/Images/album/201701/22/224024ym6iri27ira67dxq.png)
 > 
 > 
 > 作者简介：  

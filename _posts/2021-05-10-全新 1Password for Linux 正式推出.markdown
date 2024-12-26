@@ -7,7 +7,7 @@ tags:	[linuxcn,1Password,密码]
 ---
 
 
-![](/Asserts/Images//attachment/album/202105/22/234726xk64k8q4c4eck8q9.png)
+![](/Asserts/Images/album/202105/22/234726xk64k8q4c4eck8q9.png)
 
 
 1Password 是一个相当不错的密码管理器（尽管不是开源的），在开源社区也有很好的口碑。他们甚至 [为从事开源项目的用户提供免费的团队成员资格](https://news.itsfoss.com/1password-free-subscriptions/)。
@@ -31,7 +31,7 @@ tags:	[linuxcn,1Password,密码]
 虽然它可以作为浏览器扩展而无需考虑平台，但桌面客户端的出现使体验更好。
 
 
-![](/Asserts/Images//attachment/album/202105/22/234728d8czzurkk4hy2zju.png)
+![](/Asserts/Images/album/202105/22/234728d8czzurkk4hy2zju.png)
 
 
 桌面客户端内置了基于 GTK 主题的**黑暗模式支持**。它还能与 **GNOME、KDE 和你选择的任何其他窗口管理器**很好地整合。
@@ -43,7 +43,7 @@ tags:	[linuxcn,1Password,密码]
 你可以用它直接在你的默认浏览器上自动填入密码。不过，虽然它提到了 **X11 剪贴板集成和支持**，但没有提到 Wayland。
 
 
-![](/Asserts/Images//attachment/album/202105/22/234730jlkztdho1kk4kkwd.png)
+![](/Asserts/Images/album/202105/22/234730jlkztdho1kk4kkwd.png)
 
 
 它还包括了对 GNOME 钥匙环和 KDE 钱包的支持、内核钥匙环的集成、与系统锁定和闲置服务的集成。

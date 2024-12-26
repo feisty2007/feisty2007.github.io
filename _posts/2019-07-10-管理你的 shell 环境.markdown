@@ -7,7 +7,7 @@ tags:	[linuxcn,shell]
 ---
 
 
-![](/Asserts/Images//attachment/album/201907/13/121931vwyqg2wrpryzqfqy.jpg)
+![](/Asserts/Images/album/201907/13/121931vwyqg2wrpryzqfqy.jpg)
 
 
 前段时间，Fedora Magazine 发表了一篇 [介绍 ZSH](https://fedoramagazine.org/set-zsh-fedora-system/) 的文章，它是 Fedora 默认的 bash shell 的替代品。这一次，我们将着重定制它来更有效地使用它。本文中显示的所有概念也适用于其他 shell，例如 bash。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Vim]
 ---
 
 
-![](/Asserts/Images//attachment/album/201802/21/092153sxdxup1o8xoxqlks.jpg)
+![](/Asserts/Images/album/201802/21/092153sxdxup1o8xoxqlks.jpg)
 
 
 Vim 是每个 Linux 发行版]中不可或缺的一部分，也是 Linux 用户最常用的工具（当然是基于终端的）。至少，这个说法对我来说是成立的。人们可能会在利用什么工具进行程序设计更好方面产生争议，的确 Vim 可能不是一个好的选择，因为有很多不同的 IDE 或其它类似于 Sublime Text 3，Atom 等使程序设计变得更加容易的成熟的文本编辑器。
@@ -52,7 +52,7 @@ Vim 不仅仅是一个文本编辑器，它是一种编辑文本的编程语言�
 因此，在 VimScript 的帮助下，我们可以只需一个按键轻松地将编译和运行代码的任务自动化。
 
 
-[![create functions in vim .vimrc](/Asserts/Images//attachment/album/201802/21/092153qfitt02ftv2ppz0u.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_orig.png)
+[![create functions in vim .vimrc](/Asserts/Images/album/201802/21/092153qfitt02ftv2ppz0u.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_orig.png)
 
 
 以上是在我的 `.vimrc` 配置文件里创建的一个名为 `CPP()` 函数的片段。
@@ -67,7 +67,7 @@ Vim 不仅仅是一个文本编辑器，它是一种编辑文本的编程语言�
 在函数的主体中，可以看到 `exec` 语句，无论您在 `exec` 关键字之后写什么，都会在 Vim 的命令模式上执行（记住，就是在 Vim 窗口的底部以 `:` 开始的命令）。现在，传递给 `exec` 的字符串是（LCTT 译注：`:!clear && g++ % && ./a.out`） -
 
 
-[![vim functions commands & symbols](/Asserts/Images//attachment/album/201802/21/092153w9ll2l5glc2332cr.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_1_orig.png)
+[![vim functions commands & symbols](/Asserts/Images/album/201802/21/092153w9ll2l5glc2332cr.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_1_orig.png)
 
 
 当这个函数被调用时，它首先清除终端屏幕，因此只能看到输出，接着执行 `g++` 处理你工作的文件，然后运行由前一步编译而形成的 `a.out` 文件。
@@ -88,13 +88,13 @@ Vim 不仅仅是一个文本编辑器，它是一种编辑文本的编程语言�
 我们也可以为其他语言实现这类功能。
 
 
-[![create function in vim for python](/Asserts/Images//attachment/album/201802/21/092154p3t3b1eweh761g13.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_2_orig.png)
+[![create function in vim for python](/Asserts/Images/album/201802/21/092154p3t3b1eweh761g13.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_2_orig.png)
 
 
 对于Python：您可以按下 `Ctrl+e` 解释执行您的代码。
 
 
-[![create function in vim for java](/Asserts/Images//attachment/album/201802/21/092154idydnd723dunqeve.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_3_orig.png)
+[![create function in vim for java](/Asserts/Images/album/201802/21/092154idydnd723dunqeve.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_3_orig.png)
 
 
 对于Java：您现在可以按下 `Ctrl+j`，它将首先编译您的 Java 代码，然后执行您的 Java 类文件并显示输出。
@@ -109,7 +109,7 @@ Vim 不仅仅是一个文本编辑器，它是一种编辑文本的编程语言�
 我想用 autocmd 实现这个，而不是对每种语言使用不同的映射，执行不同程序设计语言编译出的代码。
 
 
-[![autocmd in vimrc](/Asserts/Images//attachment/album/201802/21/092154u3lkcdqwoohw6r60.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_4_orig.png)
+[![autocmd in vimrc](/Asserts/Images/album/201802/21/092154u3lkcdqwoohw6r60.png)](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/vim_4_orig.png)
 
 
 在这里做的是，为所有的定义了执行相应文件类型代码的函数编写了自动命令。

@@ -10,7 +10,7 @@ tags:	[linuxcn,Ubuntu,防火墙,UFW]
 UFW，即<ruby> 简单防火墙 <rp>  （ </rp> <rt>  uncomplicated firewall </rt> <rp>  ） </rp></ruby>，是一个 Arch Linux、Debian 或 Ubuntu 中管理防火墙规则的前端。 UFW 通过命令行使用（尽管它有可用的 GUI），它的目的是使防火墙配置简单（即<ruby> 不复杂 <rp>  （ </rp> <rt>  uncomplicated </rt> <rp>  ） </rp></ruby>）。
 
 
-![](/Asserts/Images//attachment/album/201701/03/171533kyo288kio1s11pa4.jpg)
+![](/Asserts/Images/album/201701/03/171533kyo288kio1s11pa4.jpg)
 
 
 ### 开始之前

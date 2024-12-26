@@ -7,7 +7,7 @@ tags:	[linuxcn,虚拟机,Boxes]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/25/164805hworcwv1opopf1fo.jpg)
+![](/Asserts/Images/album/201810/25/164805hworcwv1opopf1fo.jpg)
 
 
 Boxes 是 GNOME 上的虚拟机应用。最近 Boxes 添加了一个新的特性，使得它在运行不同的 Linux 发行版时更加容易。你现在可以在 Boxes 中自动安装那些发行版以及像 FreeBSD 和 FreeDOS 这样的操作系统，甚至还包括红帽企业 Linux。红帽开发者计划包括了一个[红帽企业版 Linux 的免费订阅](https://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available/)。 使用[红帽开发者](http://developers.redhat.com)帐户，Boxes 可以自动设置一个名为 Developer Suite 订阅的 RHEL 虚拟机。 下面是它的工作原理。
@@ -19,52 +19,52 @@ Boxes 是 GNOME 上的虚拟机应用。最近 Boxes 添加了一个新的特性
 要创建一个红帽企业版 Linux 的虚拟机，启动 Boxes，点击“新建”。从源选择列表中选择“下载一个镜像”。在顶部，点击“红帽企业版 Linux”。这将会打开网址为 [developers.redhat.com](http://developers.redhat.com) 的一个 Web 表单。使用已有的红帽开发者账号登录，或是新建一个。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164806ax9crr1tk2209tx9.png)
+![](/Asserts/Images/album/201810/25/164806ax9crr1tk2209tx9.png)
 
 
 如果这是一个新帐号，Boxes 在继续之前需要一些额外的信息。这一步需要在账户中开启开发者订阅。还要确保 [接受条款和条件](https://www.redhat.com/wapps/tnc/termsack?event%5B%5D=signIn)，这样可以在之后的注册中节省一步。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164807e0jqboi4m85bge5s.png)
+![](/Asserts/Images/album/201810/25/164807e0jqboi4m85bge5s.png)
 
 
 点击“提交”，然后就会开始下载安装磁盘镜像。下载需要的时间取决于你的网络状况。在这期间你可以去喝杯茶或者咖啡歇息一下。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164807qmbqbvt4cbkdsv44.png)
+![](/Asserts/Images/album/201810/25/164807qmbqbvt4cbkdsv44.png)
 
 
 等介质下载完成（一般位于 `~/Downloads` ），Boxes 会有一个“快速安装”的显示。填入账号和密码然后点击“继续”，当你确认了虚拟机的信息之后点击“创建”。“快速安装”会自动完成接下来的整个安装！（现在你可以去享受你的第二杯茶或者咖啡了）
 
 
-![](/Asserts/Images//attachment/album/201810/25/164808qzo585s13yo7f95e.png)
+![](/Asserts/Images/album/201810/25/164808qzo585s13yo7f95e.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164809jn5nznnpak13z44i.png)
+![](/Asserts/Images/album/201810/25/164809jn5nznnpak13z44i.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164811iwttk4kqks9a9aka.png)
+![](/Asserts/Images/album/201810/25/164811iwttk4kqks9a9aka.png)
 
 
 等到安装结束，虚拟机会直接重启并登录到桌面。在虚拟机里，在应用菜单的“系统工具”一栏启动“红帽订阅管理”。这一步需要输入 root 密码。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164812ue79hs9qcww9zefr.png)
+![](/Asserts/Images/album/201810/25/164812ue79hs9qcww9zefr.png)
 
 
 单击“注册”按钮，然后按照注册助手中的步骤操作。 出现提示时，使用你的红帽开发者帐户登录。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164813gzp4ptnju5hc48nx.png)
+![](/Asserts/Images/album/201810/25/164813gzp4ptnju5hc48nx.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164814zozskb8zb40qaa0q.png)
+![](/Asserts/Images/album/201810/25/164814zozskb8zb40qaa0q.png)
 
 
 现在你可以通过任何一种更新方法，像是 `yum` 或是 GNOME Software 进行下载和更新了。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164817mi7mybuulmm9cczi.png)
+![](/Asserts/Images/album/201810/25/164817mi7mybuulmm9cczi.png)
 
 
 ### FreeDOS 或是其他
@@ -73,16 +73,16 @@ Boxes 是 GNOME 上的虚拟机应用。最近 Boxes 添加了一个新的特性
 Boxes 可以安装很多操作系统，而不仅仅只是红帽企业版。 作为 KVM 和 qemu 的前端，Boxes 支持各种操作系统。使用 [libosinfo](https://libosinfo.org)，Boxes 可以自动下载（在某些情况下安装）相当多不同操作系统。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164818r098azdx8zix91d8.png)
+![](/Asserts/Images/album/201810/25/164818r098azdx8zix91d8.png)
 
 
 要从列表中安装一个操作系统，只需选择并完成创建一个新的虚拟机。一些操作系统，比如 FreeDOS，并不支持快速安装。这些操作系统需要虚拟机从安装介质中引导。之后你可以手动安装。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164818jxe9d2ann7xkbaes.png)
+![](/Asserts/Images/album/201810/25/164818jxe9d2ann7xkbaes.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164819oyb2dbsmsgyktbmt.png)
+![](/Asserts/Images/album/201810/25/164819oyb2dbsmsgyktbmt.png)
 
 
 ### Boxes 上流行的操作系统
@@ -91,22 +91,22 @@ Boxes 可以安装很多操作系统，而不仅仅只是红帽企业版。 作�
 这里仅仅是一些目前在它上面比较受欢迎的选择。
 
 
-![](/Asserts/Images//attachment/album/201810/25/164820wp35nffma66fana3.png)
+![](/Asserts/Images/album/201810/25/164820wp35nffma66fana3.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164821kio71h7uncolu1c1.png)
+![](/Asserts/Images/album/201810/25/164821kio71h7uncolu1c1.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164823u77q77qceuwuzrai.png)
+![](/Asserts/Images/album/201810/25/164823u77q77qceuwuzrai.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164824hfvefv33f857fefh.png)
+![](/Asserts/Images/album/201810/25/164824hfvefv33f857fefh.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164826zd1d05poj4vlhcdd.png)
+![](/Asserts/Images/album/201810/25/164826zd1d05poj4vlhcdd.png)
 
 
-![](/Asserts/Images//attachment/album/201810/25/164827pww8wy97wwysm28m.png)
+![](/Asserts/Images/album/201810/25/164827pww8wy97wwysm28m.png)
 
 
 Fedora 会定期更新它的操作系统信息数据库（osinfo-db）。确保你会经常检查是否有新的操作系统选项。

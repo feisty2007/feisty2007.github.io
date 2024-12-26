@@ -7,7 +7,7 @@ tags:	[linuxcn,USB,Ventoy]
 ---
 
 
-![](/Asserts/Images//attachment/album/202304/14/091200ff7k7784a817zvl7.jpg)
+![](/Asserts/Images/album/202304/14/091200ff7k7784a817zvl7.jpg)
 
 
 Ventoy 是一个自由开源和跨平台的程序，可以在 Linux、macOS 和微软的 Windows 中创建多重引导的 U 盘。
@@ -193,7 +193,7 @@ Install Ventoy to /dev/sdb successfully finished.
 
 ```
 
-![在 Linux 操作系统中用 Ventoy 创建多重引导的 U 盘](/Asserts/Images//attachment/album/202304/14/091234c9nt9cn8t44nj4z8.png)
+![在 Linux 操作系统中用 Ventoy 创建多重引导的 U 盘](/Asserts/Images/album/202304/14/091234c9nt9cn8t44nj4z8.png)
 
 
 几秒钟后，多重启动的 U 盘将被创建。
@@ -231,7 +231,7 @@ Device     Boot    Start      End  Sectors  Size Id Type
 现在打开你的文件管理器，把 ISO 文件复制到第一个分区。不用担心你分不清楚哪个是第一个分区，你的文件管理器将只显示第一个分区。
 
 
-![将 ISO 文件复制到用 Ventoy 创建的 USB 启动盘上](/Asserts/Images//attachment/album/202304/14/091235sbug3y4oub66b69o.png)
+![将 ISO 文件复制到用 Ventoy 创建的 USB 启动盘上](/Asserts/Images/album/202304/14/091235sbug3y4oub66b69o.png)
 
 
 你甚至可以为不同的 ISO 文件类型创建子文件夹。例如，你可以为存储 Linux ISO 文件创建一个子文件夹，为 BSD ISO 文件创建一个子文件夹，为 Windows ISO 文件创建一个子文件夹。
@@ -258,7 +258,7 @@ $ rsync *.iso /media/$USER/ventoy/ --progress -ah
 用新制作的可引导 U 盘启动你的系统，你会对 Ventoy 的启动菜单感到满意：
 
 
-![Ventoy 的多重启动菜单](/Asserts/Images//attachment/album/202304/14/091235vvihg8gwi3q2vv02.png)
+![Ventoy 的多重启动菜单](/Asserts/Images/album/202304/14/091235vvihg8gwi3q2vv02.png)
 
 
 选择你想启动的操作系统，并按下回车键加载它！
@@ -329,13 +329,13 @@ $ ./VentoyGUI.x86_64
 这就是 Ventoy 图形用户界面的样子。
 
 
-![Ventoy 图形用户界面](/Asserts/Images//attachment/album/202304/14/091236ymy0jn1n9jrn5ff3.png)
+![Ventoy 图形用户界面](/Asserts/Images/album/202304/14/091236ymy0jn1n9jrn5ff3.png)
 
 
 Ventoy 会自动为你选择已插入的 U 盘。但是我建议你确认所选择的是否真的是你想格式化的 U 盘。
 
 
-![使用 Ventoy 图形用户界面创建多重启动的 U 盘](/Asserts/Images//attachment/album/202304/14/091237j8b9jgui99pb7ng5.png)
+![使用 Ventoy 图形用户界面创建多重启动的 U 盘](/Asserts/Images/album/202304/14/091237j8b9jgui99pb7ng5.png)
 
 
 你将被提示确认该过程。点击 “OK” 继续。
@@ -347,7 +347,7 @@ Ventoy 会自动为你选择已插入的 U 盘。但是我建议你确认所选�
 从菜单栏中点击<ruby> 选项 <rt>  Option </rt> <ruby>  按钮。 </ruby></ruby>
 
 
-![Ventoy 选项](/Asserts/Images//attachment/album/202304/14/091237nzwf460ll0aqw0wf.png)
+![Ventoy 选项](/Asserts/Images/album/202304/14/091237nzwf460ll0aqw0wf.png)
 
 
 从 <ruby> 选项 <rt>  Option </rt> <ruby>  下拉按钮，你可以做以下事情： </ruby></ruby>
@@ -375,7 +375,7 @@ Ventoy 会自动为你选择已插入的 U 盘。但是我建议你确认所选�
 在 Ventoy 图形化用户界面中, 点击 <ruby> 更新 <rt>  Update </rt></ruby> 按钮。
 
 
-![更新 Ventoy](/Asserts/Images//attachment/album/202304/14/091238dktqb3wiuiu3wn1k.png)
+![更新 Ventoy](/Asserts/Images/album/202304/14/091238dktqb3wiuiu3wn1k.png)
 
 
 #### 3. 使用 Ventoy 基于 Web 的图形化用户界面创建多重启动的 USB 启动盘
@@ -407,13 +407,13 @@ Ventoy 基于 Web 的图形化用户界面与本地图形化用户界面完全�
 在选择操作系统之前按 `F1` 键，启用 <ruby> 内存盘 <rt>  Memdisk </rt></ruby>模式（译者注：从 1.0.83 版本开始，进入该模式的快捷键从 `F1` 改成了 `Ctrl+D`）。当 <ruby> 内存盘 <rt>  Memdisk </rt></ruby> 模式启用时，你会在右上角看到通知。
 
 
-![启用 Ventoy 的内存盘模式](/Asserts/Images//attachment/album/202304/14/091238oletl57vvyvxvvv3.png)
+![启用 Ventoy 的内存盘模式](/Asserts/Images/album/202304/14/091238oletl57vvyvxvvv3.png)
 
 
 现在，ISO 将被加载到内存中：
 
 
-![在 Ventoy 中加载 ISO 到内存](/Asserts/Images//attachment/album/202304/14/091239gt2z3gav3upp52up.png)
+![在 Ventoy 中加载 ISO 到内存](/Asserts/Images/album/202304/14/091239gt2z3gav3upp52up.png)
 
 
 请再次按 `F1` 键以切换回正常模式。

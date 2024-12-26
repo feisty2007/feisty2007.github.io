@@ -15,7 +15,7 @@ tags:	[linuxcn,贝叶斯,机器学习]
 > 
 
 
-![](/Asserts/Images//attachment/album/202107/29/105035ocxdhdob78wmmtzd.jpg "arrows cycle symbol for failing faster")
+![](/Asserts/Images/album/202107/29/105035ocxdhdob78wmmtzd.jpg "arrows cycle symbol for failing faster")
 
 
 <ruby> 朴素贝叶斯 <rt>  Naïve Bayes </rt></ruby>是一种分类技术，它是许多分类器建模算法的基础。基于朴素贝叶斯的分类器是简单、快速和易用的机器学习技术之一，而且在现实世界的应用中很有效。
@@ -33,7 +33,7 @@ tags:	[linuxcn,贝叶斯,机器学习]
 朴素贝叶斯分类器是 <ruby> <a href="https://en.wikipedia.org/wiki/Supervised_learning">  有监督的 </a> <rt>  supervised </rt></ruby>、属于 <ruby> <a href="https://en.wikipedia.org/wiki/Generative_model">  生成模型 </a> <rt>  generative </rt></ruby> 的、非线性的、属于 <ruby> <a href="https://en.wikipedia.org/wiki/Parametric_model">  参数模型 </a> <rt>  parametric </rt></ruby> 的和 <ruby> <a href="https://en.wikipedia.org/wiki/Probabilistic_classification">  基于概率的 </a> <rt>  probabilistic </rt></ruby>。
 
 
-在这篇文章里，我会演示如何用朴素贝叶斯预测帕金森氏病。需要用到的数据集来自 [UCI 机器学习库](https://archive.ics.uci.edu/ml/Asserts/Images/sets/parkinsons)。这个数据集包含许多语音信号的指标，用于计算患帕金森氏病的可能性；在这个例子里我们将使用这些指标中的前 8 个：
+在这篇文章里，我会演示如何用朴素贝叶斯预测帕金森氏病。需要用到的数据集来自 [UCI 机器学习库](https://archive.ics.uci.edu/ml/datasets/parkinsons)。这个数据集包含许多语音信号的指标，用于计算患帕金森氏病的可能性；在这个例子里我们将使用这些指标中的前 8 个：
 
 
 * **MDVP:Fo(Hz)**：平均声带基频

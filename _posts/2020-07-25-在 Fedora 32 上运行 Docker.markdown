@@ -7,7 +7,7 @@ tags:	[linuxcn,Docker,Fedora]
 ---
 
 
-![](/Asserts/Images//attachment/album/202007/20/091610at2kkkkfea89ifg9.png)
+![](/Asserts/Images/album/202007/20/091610at2kkkkfea89ifg9.png)
 
 
 随着 Fedora 32 的发布，[Docker](https://docs.docker.com/) 的普通用户面临着一个小挑战。在编写本文时，Fedora 32 不支持 Docker。虽然还有其他选择，例如 [Podman](https://podman.io/getting-started/) 和 [Buildah](https://buildah.io/)，但是对于许多现有用户而言，现在切换可能不是最佳时机。因此，本文可以帮助你在 Fedora 32 上设置 Docker 环境。

@@ -7,7 +7,7 @@ tags:	[linuxcn,不可变,Linux 发行版]
 ---
 
 
-![](/Asserts/Images//attachment/album/202305/24/184803mjbi3itft6iif88c.jpg)
+![](/Asserts/Images/album/202305/24/184803mjbi3itft6iif88c.jpg)
 
 
 
@@ -53,7 +53,7 @@ tags:	[linuxcn,不可变,Linux 发行版]
 ### 1、carbonOS
 
 
-![carbon os screenshot with gnome menu](/Asserts/Images//attachment/album/202305/24/184920ylluuuppa7atgx9u.png)
+![carbon os screenshot with gnome menu](/Asserts/Images/album/202305/24/184920ylluuuppa7atgx9u.png)
 
 
 在写这篇文章时，[carbonOS](https://carbon.sh/) 是一款仍未推出的独立 Linux 发行版。它专注于提供强大的技术和流畅的用户体验。
@@ -68,7 +68,7 @@ tags:	[linuxcn,不可变,Linux 发行版]
 ### 2、Fedora Silverblue
 
 
-![fedora workstation screenshot](/Asserts/Images//attachment/album/202305/24/184920jjbgbz005gzx0n25.jpg)
+![fedora workstation screenshot](/Asserts/Images/album/202305/24/184920jjbgbz005gzx0n25.jpg)
 
 
 [Silverblue](https://silverblue.fedoraproject.org/) 是具有不可变性的 Fedora Workstation 的变种，是最受欢迎的不可变发行版之一。
@@ -83,7 +83,7 @@ Fedora Silverblue 旨在提供稳定的体验，适用于测试和基于容器�
 ### 3、Flatcar Container Linux
 
 
-![flatcar linux](/Asserts/Images//attachment/album/202305/24/184920wkqhztts0ynf3fh9.jpg)
+![flatcar linux](/Asserts/Images/album/202305/24/184920wkqhztts0ynf3fh9.jpg)
 
 
 正如名字所示，这是一个专门针对容器工作负载而定制的社区构建版 Linux 发行版。
@@ -98,7 +98,7 @@ Fedora Silverblue 旨在提供稳定的体验，适用于测试和基于容器�
 ### 4、openSUSE MicroOS
 
 
-![opensuse microos](/Asserts/Images//attachment/album/202305/24/184921tgbudigb5dzdz8vj.jpg)
+![opensuse microos](/Asserts/Images/album/202305/24/184921tgbudigb5dzdz8vj.jpg)
 
 
 [openSUSE MicroOS](https://microos.opensuse.org/) 是为需要部署容器或处理自动化工作流程的服务器而构建的。
@@ -113,7 +113,7 @@ Fedora Silverblue 旨在提供稳定的体验，适用于测试和基于容器�
 ### 5、Vanilla OS
 
 
-![vanilla os](/Asserts/Images//attachment/album/202305/24/184921k13shhj0qtfyttfm.jpg)
+![vanilla os](/Asserts/Images/album/202305/24/184921k13shhj0qtfyttfm.jpg)
 
 
 [Vanilla OS](https://vanillaos.org/) 是不可变性领域中的一个相对较新的参与者。但是，它在发布后成功引起了轰动，并在第一个稳定版发布后切换到了以 Debian 为基础，放弃了 Ubuntu。
@@ -137,7 +137,7 @@ Fedora Silverblue 旨在提供稳定的体验，适用于测试和基于容器�
 ### 7、blendOS
 
 
-![blendOS](/Asserts/Images//attachment/album/202305/24/185023m9zr9875kc2ex7k7.jpg)
+![blendOS](/Asserts/Images/album/202305/24/185023m9zr9875kc2ex7k7.jpg)
 
 
 [blendOS](https://blendos.co/) 是一个正在开发中的有趣发行版，旨在提供其他发行版的各种优点。
@@ -149,7 +149,7 @@ Fedora Silverblue 旨在提供稳定的体验，适用于测试和基于容器�
 ### 8、Talos Linux
 
 
-![talos linux](/Asserts/Images//attachment/album/202305/24/184921tk2ds11kc7sx3kid.jpg)
+![talos linux](/Asserts/Images/album/202305/24/184921tk2ds11kc7sx3kid.jpg)
 
 
 另一个独特的 Linux 发行版，专为 Kubernetes 设计。[Talos Linux](https://www.talos.dev/) 对于云用户/开发人员来说是一个有趣的选择。
@@ -164,7 +164,7 @@ Fedora Silverblue 旨在提供稳定的体验，适用于测试和基于容器�
 ### 9、NixOS
 
 
-![](/Asserts/Images//attachment/album/202305/24/184921y6f5p6fbf7f060s5.png)
+![](/Asserts/Images/album/202305/24/184921y6f5p6fbf7f060s5.png)
 
 
 [NixOS](https://nixos.org/) 是当前 [最先进的 Linux 发行版](https://itsfoss.com/advanced-linux-distros/) 之一。如果你想要不可变性以及易于恢复、强大的软件包管理器等诸多好处，那么 NixOS 将是一个很好的选择。
@@ -176,7 +176,7 @@ Fedora Silverblue 旨在提供稳定的体验，适用于测试和基于容器�
 ### 10、GUIX
 
 
-![](/Asserts/Images//attachment/album/202305/24/184924hq9sy91w5ouz2ly9.png)
+![](/Asserts/Images/album/202305/24/184924hq9sy91w5ouz2ly9.png)
 
 
 [GUIX](https://guix.gnu.org/) 类似于 NixOS（某种程度上），并且专为希望获得可靠升级和良好系统控制的高级用户而设计。
@@ -188,7 +188,7 @@ Fedora Silverblue 旨在提供稳定的体验，适用于测试和基于容器�
 ### 11、Endless OS
 
 
-![](/Asserts/Images//attachment/album/202305/24/184924dagwhac13awdy5a9.jpg)
+![](/Asserts/Images/album/202305/24/184924dagwhac13awdy5a9.jpg)
 
 
 [Endless OS](https://endlessos.com/) 是一个基于 Debian 的 Linux 发行版。

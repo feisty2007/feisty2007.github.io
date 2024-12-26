@@ -7,7 +7,7 @@ tags:	[linuxcn,LibreOffice,模板]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/13/165957bxrcv4lnxttdtc5c.jpg)
+![](/Asserts/Images/album/202208/13/165957bxrcv4lnxttdtc5c.jpg)
 
 
 
@@ -33,25 +33,25 @@ LibreOffice Writer 从一个空白文档开始。大多数人就从这里开始�
 首先，打开“<ruby> 文件 <rt>  File </rt></ruby>”菜单，然后选择“<ruby> 新建 <rt>  New </rt></ruby>”、“<ruby> 模板 <rt>  Templetes </rt></ruby>”。此选项会打开模板选择对话框：
 
 
-![Open templates from the File menu](/Asserts/Images//attachment/album/202208/13/165959g8yqfq5htyp4wy0c.png)
+![Open templates from the File menu](/Asserts/Images/album/202208/13/165959g8yqfq5htyp4wy0c.png)
 
 
 模板选择对话框显示系统上可用的不同模板。默认的 LibreOffice Writer 安装包括用于不同类型的商务信函、简历和其他文档的模板。你可以使用对话框顶部的过滤器选项浏览列表或缩小结果范围。
 
 
-![Select a template](/Asserts/Images//attachment/album/202208/13/165959fn8nvg8vzrb88e85.png)
+![Select a template](/Asserts/Images/album/202208/13/165959fn8nvg8vzrb88e85.png)
 
 
 单击你想要的模板，然后单击“<ruby> 打开 <rt>  Open </rt></ruby>”以使用此模板开始一个新的 Writer 文档。一些模板包括样板文本或其他示例材料，你可以使用这些材料开始编写新文档。例如，**现代商务信函**由以下 “lorem ipsum” 示例文本组成：
 
 
-![Modern business letter template](/Asserts/Images//attachment/album/202208/13/170000d0yf0b00v4344v00.png)
+![Modern business letter template](/Asserts/Images/album/202208/13/170000d0yf0b00v4344v00.png)
 
 
 其他文档模板只是为你提供了一个具有一些漂亮的默认设置的空文档的起点。例如，**现代**文档模板对文本正文使用无衬线字体（例如 Linux 系统上的 Carlito）：
 
 
-![Modern template](/Asserts/Images//attachment/album/202208/13/170000hr4mljf59z5fmkc5.png)
+![Modern template](/Asserts/Images/album/202208/13/170000hr4mljf59z5fmkc5.png)
 
 
 ### 下载模板
@@ -60,13 +60,13 @@ LibreOffice Writer 从一个空白文档开始。大多数人就从这里开始�
 如果你在内置选项中没有找到所需的模板，你可以从 LibreOffice 的网站下载合适的文档模板。进入 [LibreOffice 扩展](https://templates.libreoffice.org/)以开始使用 LibreOffice 扩展和模板库。
 
 
-![Templates and extensions options](/Asserts/Images//attachment/album/202208/13/170000wbbjv7bn5wmyjb6l.png)
+![Templates and extensions options](/Asserts/Images/album/202208/13/170000wbbjv7bn5wmyjb6l.png)
 
 
 在框中输入搜索词以查找你需要的文档模板。例如，学生可能会搜索 “APA” 来查找为 APA 样式设置的文档模板，这是学术论文的常见样式。
 
 
-![APA format template](/Asserts/Images//attachment/album/202208/13/170000m4eik2vk8ke1ken9.png)
+![APA format template](/Asserts/Images/album/202208/13/170000m4eik2vk8ke1ken9.png)
 
 
 ### 总结

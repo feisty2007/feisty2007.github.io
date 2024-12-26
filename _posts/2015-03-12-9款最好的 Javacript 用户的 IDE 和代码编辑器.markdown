@@ -22,7 +22,7 @@ tags:	[linuxcn,Javascript,编辑器,IDE]
 **Spket IDE** 是 JavaScript 和 XML 开发的强大工具包。这个功能强大的编辑器可以用来进行开发 JavaScript，XUL/XBL 和 Yahoo！小组件。JavaScript 编辑器提供了例如代码补全、语法高亮以及代码内容大纲等特性，可以帮助开发者提高创建高效 JavaScript 代码的生产率。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145737zhhh9o1zh8x14xx4.png)
+![](/Asserts/Images/album/201503/12/145737zhhh9o1zh8x14xx4.png)
 
 
 ### 2) [Ixedit](http://www.ixedit.com/)
@@ -31,7 +31,7 @@ tags:	[linuxcn,Javascript,编辑器,IDE]
 IxEdit 是一个基于 Javascript 交互的网络设计工具。通过 IxEdit，设计者可以在不需要通过代码改变，添加，删除或变换页面元素的情况下，在网页上进行动态进行 DOM 脚本编写。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145759prudutdortuutdz8.png)
+![](/Asserts/Images/album/201503/12/145759prudutdortuutdz8.png)
 
 
 ### 3) [Komodo Edit](http://komodoide.com/komodo-edit/)
@@ -40,7 +40,7 @@ IxEdit 是一个基于 Javascript 交互的网络设计工具。通过 IxEdit，
 Komodo是一款免费而强大的编辑器，可以用来编辑JavaScript和其他的编程语言。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145813nl4clvfsrss9l4hl.png)
+![](/Asserts/Images/album/201503/12/145813nl4clvfsrss9l4hl.png)
 
 
 ### 4) [EpicEditor](http://oscargodson.github.io/EpicEditor/)
@@ -49,7 +49,7 @@ Komodo是一款免费而强大的编辑器，可以用来编辑JavaScript和其�
 EpicEditor是一个可嵌入的 JavaScript Markdown 编辑器，具有分割全屏进行编辑，实时预览，自动草稿保存，离线支持等特性。对于开发人员，它提供了健壮的API，可以容易地设置主题，并允许你以任何其他的事物来替换绑定的 Markdown 解析器。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145822b2z4zy7qt5l5wlxw.png)
+![](/Asserts/Images/album/201503/12/145822b2z4zy7qt5l5wlxw.png)
 
 
 ### 5) [codepress](http://codepress.sourceforge.net/)
@@ -58,7 +58,7 @@ EpicEditor是一个可嵌入的 JavaScript Markdown 编辑器，具有分割全�
 CodePress是一个基于网络的源代码编辑器，它用 JavaScript 编写，具有语法高亮,并且是在你将代码输入到浏览器后实时进行文本颜色渲染。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145832q223vz3r4n24zv4v.png)
+![](/Asserts/Images/album/201503/12/145832q223vz3r4n24zv4v.png)
 
 
 ### 6) [ACe](http://ace.c9.io/#nav=about)
@@ -67,7 +67,7 @@ CodePress是一个基于网络的源代码编辑器，它用 JavaScript 编写�
 Ace 是一个使用JavaScript编写的嵌入式代码编辑器，它能够匹配宿主编辑器的特性和性能，例如Sublime，Vim和Textate。它能够容易地嵌入到任何的网页和JavaScript应用中。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145841a5a7ldsf5njo3lai.png)
+![](/Asserts/Images/album/201503/12/145841a5a7ldsf5njo3lai.png)
 
 
 ### 7) [scripted](https://github.com/scripted-editor/scripted)
@@ -76,7 +76,7 @@ Ace 是一个使用JavaScript编写的嵌入式代码编辑器，它能够匹配
 Scripted是一个快速的轻量级代码编辑器，最初是为了JavaScript编写实现的。 Scripted是一个基于浏览器的编辑器，而编辑器本身有本地运行的Node.js服务器实例来提供服务支持。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145851vl33mel6qqqbj5lu.png)
+![](/Asserts/Images/album/201503/12/145851vl33mel6qqqbj5lu.png)
 
 
 ### 8) [Netbeans](https://netbeans.org/)
@@ -85,7 +85,7 @@ Scripted是一个快速的轻量级代码编辑器，最初是为了JavaScript�
 这是另外的一个更加震撼而且有用的编辑器，可以用来编写javascript和其他的编程语言。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145901n879l9wzp4nlz7dr.png)
+![](/Asserts/Images/album/201503/12/145901n879l9wzp4nlz7dr.png)
 
 
 ### 9) [Webstorm](http://www.jetbrains.com/webstorm/)
@@ -94,7 +94,7 @@ Scripted是一个快速的轻量级代码编辑器，最初是为了JavaScript�
 这是最智能的JavaScript IDE。 它是为使用Node.js进行复杂的客户端开发和服务器端开发而装备的一个轻巧而强大的完美IDE。
 
 
-![](/Asserts/Images//attachment/album/201503/12/145910v1rtsts11b6t7gb7.png)
+![](/Asserts/Images/album/201503/12/145910v1rtsts11b6t7gb7.png)
 
 
 

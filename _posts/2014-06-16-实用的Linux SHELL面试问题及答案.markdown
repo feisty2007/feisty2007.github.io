@@ -13,7 +13,7 @@ tags:	[linuxcn,面试,Shell编程]
 如果想要阅读已发表在Tecmint.com的文章，可以点击链接，链接到[访谈系列](http://www.tecmint.com/category/interview-questions/)，在这里我们已经介绍很多题目即文章。，FTP，MySQL和Apache的，脚本，Linux命令等。
 
 
-![Practical Interview Question on Shell Scripting](/Asserts/Images//attachment/album/201406/24/202807fr0n4rrn0b628u49.png)
+![Practical Interview Question on Shell Scripting](/Asserts/Images/album/201406/24/202807fr0n4rrn0b628u49.png)
 
 
 

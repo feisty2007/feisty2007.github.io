@@ -7,7 +7,7 @@ tags:	[linuxcn,Emacs,Org模式]
 ---
 
 
-![](/Asserts/Images//attachment/album/201812/11/130456ogrygnavwfckr6wm.png)
+![](/Asserts/Images/album/201812/11/130456ogrygnavwfckr6wm.png)
 
 
 这是 [Emacs 和 Org 模式系列](https://www.emacswiki.org/emacs/mu4e)的第四篇。

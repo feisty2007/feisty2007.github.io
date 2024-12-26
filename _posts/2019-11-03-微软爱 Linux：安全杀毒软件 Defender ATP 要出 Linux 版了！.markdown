@@ -15,7 +15,7 @@ tags:	[linuxcn,微软,Defender]
 > 
 
 
-![](/Asserts/Images//attachment/album/201911/14/183733rllau7hvkgzkuwgg.jpg)
+![](/Asserts/Images/album/201911/14/183733rllau7hvkgzkuwgg.jpg)
 
 
 微软的年度开发者大会 Microsoft Ignite 刚刚结束，会上发布了一些与 Linux 有关的重要公告。你可能已经知道[微软将 Edge Web 浏览器引入 Linux](/article-11562-1.html)，而下一个大新闻是微软将 Defender ATP 引入 Linux！

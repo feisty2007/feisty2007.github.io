@@ -7,7 +7,7 @@ tags:	[linuxcn,inxi]
 ---
 
 
-![](/Asserts/Images//attachment/album/202112/17/134920bzuqfbwbqswcif33.jpg)
+![](/Asserts/Images/album/202112/17/134920bzuqfbwbqswcif33.jpg)
 
 
 `inix` 是一个用于获取 Linux 系统信息的终端命令。能够获取软件和硬件的详细信息，比如计算机型号、内核版本、发行版号以及桌面环境等信息，甚至可以读取主存模块占用主板的哪块 RAM 卡槽等详细信息。
@@ -71,7 +71,7 @@ inxi
 如下图所示，运行 `inxi` 命令可以简要浏览 CPU、时钟频率（`speed/min/max`）、内核（`Kernel`）、内存（`Mem`）、磁盘存储空间（`Storage`）、运行进程数量（`Procs`）以及 Shell 等信息。
 
 
-![The default output of inxi command](/Asserts/Images//attachment/album/202112/17/134938gckyz33o3ybxggbs.jpg)
+![The default output of inxi command](/Asserts/Images/album/202112/17/134938gckyz33o3ybxggbs.jpg)
 
 
 使用 `-b` 参数可以获取更为详细的系统信息。`-b` 参数会读取更多有关 CPU、驱动器、当前运行进程、主板 UEFI 版本、GPU、显示分辨率以及网络设备等详细信息。
@@ -83,7 +83,7 @@ inxi -b
 
 ```
 
-![Detailed hardware and software information about machine as reported by inxi](/Asserts/Images//attachment/album/202112/17/134938wzhamzbmbl7b11lk.jpg)
+![Detailed hardware and software information about machine as reported by inxi](/Asserts/Images/album/202112/17/134938wzhamzbmbl7b11lk.jpg)
 
 
 类似 `-b` 参数使用方法，`inxi` 还有许多其他的参数可供使用。你可以综合使用这些参数来获取你关心的信息。
@@ -104,7 +104,7 @@ inxi -A
 
 ```
 
-![Output of inxi command when “-A” flag is used](/Asserts/Images//attachment/album/202112/17/134938q3y2pjpsps3qpymq.jpg)
+![Output of inxi command when “-A” flag is used](/Asserts/Images/album/202112/17/134938q3y2pjpsps3qpymq.jpg)
 
 
 ### 获取电池信息
@@ -134,13 +134,13 @@ inxi -C
 
 ```
 
-![Detailed CPU information displayed by inxi](/Asserts/Images//attachment/album/202112/17/134939ag2s0byetgbcarce.jpg)
+![Detailed CPU information displayed by inxi](/Asserts/Images/album/202112/17/134939ag2s0byetgbcarce.jpg)
 
 
 注意，如果是在虚拟机中使用 `inix -C`，`inxi` 读取到的 `CPU` 的最大和最小频率可能异常。下面是一个在四核 Debian 11 虚拟机中使用 `-C` 参数的示例输出。
 
 
-![An example output of using the “-C” flag in a Virtual Machine](/Asserts/Images//attachment/album/202112/17/134939u2isin8zhccrrhhn.jpg)
+![An example output of using the “-C” flag in a Virtual Machine](/Asserts/Images/album/202112/17/134939u2isin8zhccrrhhn.jpg)
 
 
 ### 获取更多的系统信息
@@ -155,7 +155,7 @@ inxi -F
 
 ```
 
-![](/Asserts/Images//attachment/album/202112/17/134939fcdz7eg4fsqf8plz.jpg)
+![](/Asserts/Images/album/202112/17/134939fcdz7eg4fsqf8plz.jpg)
 
 
 ### 获取图形显示相关信息
@@ -173,7 +173,7 @@ inxi -G
 
 ```
 
-![](/Asserts/Images//attachment/album/202112/17/134940kkuiwcakzkkv1utm.jpg)
+![](/Asserts/Images/album/202112/17/134940kkuiwcakzkkv1utm.jpg)
 
 
 ### 获取运行进程信息
@@ -182,7 +182,7 @@ inxi -G
 `-I` 参数（大写字母 `i`）显示正在运行的进程、当前 shell 、内存（内存使用情况）以及 `inxi` 版本号等信息。
 
 
-![inxi get running process info](/Asserts/Images//attachment/album/202112/17/134940p7ccatw7weemte8n.png)
+![inxi get running process info](/Asserts/Images/album/202112/17/134940p7ccatw7weemte8n.png)
 
 
 ### 获取内存信息
@@ -209,7 +209,7 @@ sudo inxi -m
 
 ```
 
-![](/Asserts/Images//attachment/album/202112/17/134941vu61m9tqdxugq2gt.jpg)
+![](/Asserts/Images/album/202112/17/134941vu61m9tqdxugq2gt.jpg)
 
 
 如果只是希望简短的输出内存信息，可以使用 `-memory-short` 参数。
@@ -224,7 +224,7 @@ sudo inxi -m
 当使用 `-r` 参数时，会列举当前正在使用的包管理仓库或者更新本地仓库缓存中的所有存储库列表。
 
 
-![List of repositories in use](/Asserts/Images//attachment/album/202112/17/134941kfwpalmlftzwm916.png)
+![List of repositories in use](/Asserts/Images/album/202112/17/134941kfwpalmlftzwm916.png)
 
 
 ### 获取 RAID 设备信息
@@ -242,7 +242,7 @@ inxi -R
 
 ```
 
-![](/Asserts/Images//attachment/album/202112/17/134941pj8dni7qjdnw4d3n.jpg)
+![](/Asserts/Images/album/202112/17/134941pj8dni7qjdnw4d3n.jpg)
 
 
 ### 在 Linux 终端中查询天气（对，这是可以的）
@@ -265,7 +265,7 @@ inxi -W Baroda,India
 
 ```
 
-![Use of the “-W” flag with inxi followed by the city,country location descriptor](/Asserts/Images//attachment/album/202112/17/134942ja1ue68kvor8ecsu.jpg)
+![Use of the “-W” flag with inxi followed by the city,country location descriptor](/Asserts/Images/album/202112/17/134942ja1ue68kvor8ecsu.jpg)
 
 
 ### 监控系统资源使用情况
@@ -289,7 +289,7 @@ inxi -t
 命令 `inxi -t` 默认效果等同于 `inxi -t cm5` 的效果。
 
 
-![No difference in output of “inti -t” and “inxi -t cm5”](/Asserts/Images//attachment/album/202112/17/134942w2nsininwbwj2fsc.jpg)
+![No difference in output of “inti -t” and “inxi -t cm5”](/Asserts/Images/album/202112/17/134942w2nsininwbwj2fsc.jpg)
 
 
 
@@ -298,7 +298,7 @@ inxi -t cm10
 
 ```
 
-![](/Asserts/Images//attachment/album/202112/17/134942zwuo9ukw9t8f9b12.jpg)
+![](/Asserts/Images/album/202112/17/134942zwuo9ukw9t8f9b12.jpg)
 
 
 偶尔需要监控资源使用情况时，该工具挺管用。如果需要更多的资源监控功能，则推荐使用 [专用系统资源监控工具](https://itsfoss.com/linux-system-monitoring-tools/)。

@@ -15,7 +15,7 @@ tags:	[linuxcn,序列化]
 > 
 
 
-![](/Asserts/Images//attachment/album/202012/08/220845q5tz7cfftze5oem5.jpg)
+![](/Asserts/Images/album/202012/08/220845q5tz7cfftze5oem5.jpg)
 
 
 序列化是将数据转换为可以存储或传输的格式，然后对其进行重新构建的过程。在开发应用程序或将数据存储在数据库、内存或将其转换为文件时，一直会用到它。

@@ -13,7 +13,7 @@ Linux 有一个显著的特点，在正常情况下，你可以通过日志分�
 这次，我们会通过另类的途径来分析 Apache access 日志，我们使用的工具是 [asql](http://www.steve.org.uk/Software/asql/)。asql 是一个开源的工具，它能够允许使用者使用 SQL 语句来查询日志，从而通过更加友好的格式展现相同的信息。
 
 
-![](/Asserts/Images//attachment/album/201412/08/234125qboar2br0o4rtbz1.jpg)
+![](/Asserts/Images/album/201412/08/234125qboar2br0o4rtbz1.jpg)
 
 
 ### Apache 日志背景知识
@@ -102,13 +102,13 @@ asql 由 Perl 编写，而且需求以下两个 Perl 模块：SQLite 的 DBI 驱
 你会进入 asql 内置的 shell 交互界面。
 
 
-![](/Asserts/Images//attachment/album/201412/08/234127co3gidxseyewyush.png)
+![](/Asserts/Images/album/201412/08/234127co3gidxseyewyush.png)
 
 
 输入 help 列表可执行的命令：
 
 
-![](/Asserts/Images//attachment/album/201412/08/234129gfkiazyna4kvno3o.png)
+![](/Asserts/Images/album/201412/08/234129gfkiazyna4kvno3o.png)
 
 
 首先在 asql 中加载所有的 access 日志：
@@ -141,13 +141,13 @@ asql > load /var/log/httpd/access_log*
 当 asql 完成对 access 日志的加载后，我们就可以开始数据库查询了。注意一下，加载后生成的数据库是 "temporary" （临时）的，意思就是数据库会在你退出 asql 的时候被清除。如果你想要保留数据库，你必须先将其保存为一个文件。我们会在后面介绍如何这么做（参考 example 3 和 4）。
 
 
-![](/Asserts/Images//attachment/album/201412/08/234130juerl3ejdsw4drl3.png)
+![](/Asserts/Images/album/201412/08/234130juerl3ejdsw4drl3.png)
 
 
 生成的数据库有一个名为 logs 的表。输入下面的命令列出 logs 表中提供的域：
 
 
-![](/Asserts/Images//attachment/album/201412/08/234133fbnssbqib6blgll8.png)
+![](/Asserts/Images/album/201412/08/234133fbnssbqib6blgll8.png)
 
 
 一个名为 .asql 的隐藏文件，保存于用户的 home 目录下，记录用户在 asql shell 中输入的命令历史。因此你可以使用方向键浏览命令历史，按下 ENTER 来重复执行之前的命令。
@@ -168,7 +168,7 @@ SELECT source, date, status FROM logs WHERE date >= '2014-10-01T00:00:00' ORDER 
 
 ```
 
-![](/Asserts/Images//attachment/album/201412/08/234135xx3ey0z0kltylxte.jpg)
+![](/Asserts/Images/album/201412/08/234135xx3ey0z0kltylxte.jpg)
 
 
 **Example 2**：从小到大显示单个客户端处理的请求大小（bytes）。
@@ -180,7 +180,7 @@ SELECT source, SUM(size), AS NUMBER FROM logs GROUP BY source ORDER BY Number DE
 
 ```
 
-![](/Asserts/Images//attachment/album/201412/08/234137sg0kgynzynv4nat4.jpg)
+![](/Asserts/Images/album/201412/08/234137sg0kgynzynv4nat4.jpg)
 
 
 **Example 3**：在当前目录中保存数据库为 [filename]。
@@ -192,7 +192,7 @@ save [filename]
 
 ```
 
-![](/Asserts/Images//attachment/album/201412/08/234138zctgev5p2pvpdp77.png)
+![](/Asserts/Images/album/201412/08/234138zctgev5p2pvpdp77.png)
 
 
 这样做可以避免使用 load 命令对日志的语法分析所占用的处理时间。
@@ -207,7 +207,7 @@ restore [filename]
 
 ```
 
-![](/Asserts/Images//attachment/album/201412/08/234140frnlylbb24vbee11.png)
+![](/Asserts/Images/album/201412/08/234140frnlylbb24vbee11.png)
 
 
 **Example 5**：返回 access 日志中记录的 error 情况。在这个例子中，我们将显示所有返回 HTTP 状态码为 403（access forbidden）的请求。
@@ -219,7 +219,7 @@ SELECT source, date, status, request FROM logs WHERE status='403' ORDER BY date
 
 ```
 
-![](/Asserts/Images//attachment/album/201412/08/234143qrub0cbqnc5fnqo0.jpg)
+![](/Asserts/Images/album/201412/08/234143qrub0cbqnc5fnqo0.jpg)
 
 
 这个例子想要表现的是：虽然 asql 只分析 access 日志，我们还是可以通过使用请求的状态域来显示有 error 情况的请求。

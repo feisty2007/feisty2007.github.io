@@ -7,7 +7,7 @@ tags:	[linuxcn,grinch,安全,漏洞]
 ---
 
 
-![](/Asserts/Images//attachment/album/201412/29/211007a9ck7ljsh00q9h04.png)
+![](/Asserts/Images/album/201412/29/211007a9ck7ljsh00q9h04.png)
 
 
 图片来源：[Natalia Wilson，受Creative Commons许可](http://www.flickr.com/photos/moonrat/4571563485/)

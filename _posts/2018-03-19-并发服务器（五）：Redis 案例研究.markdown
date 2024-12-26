@@ -7,13 +7,13 @@ tags:	[linuxcn,并发,Redis]
 ---
 
 
-![](/Asserts/Images//attachment/album/201803/07/193052v7z0xms080q9xx9q.jpg)
+![](/Asserts/Images/album/201803/07/193052v7z0xms080q9xx9q.jpg)
 
 
 这是我写的并发网络服务器系列文章的第五部分。在前四部分中我们讨论了并发服务器的结构，这篇文章我们将去研究一个在生产系统中大量使用的服务器的案例—— [Redis](https://redis.io/)。
 
 
-![Redis logo](/Asserts/Images//attachment/album/201803/07/193131qyvcbotjb0hvvsyf.png)
+![Redis logo](/Asserts/Images/album/201803/07/193131qyvcbotjb0hvvsyf.png)
 
 
 Redis 是一个非常有魅力的项目，我关注它很久了。它最让我着迷的一点就是它的 C 源代码非常清晰。它也是一个高性能、大并发的内存数据库服务器的非常好的例子，它是研究网络并发服务器的一个非常好的案例，因此，我们不能错过这个好机会。

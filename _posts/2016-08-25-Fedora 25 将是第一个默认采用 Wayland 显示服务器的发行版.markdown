@@ -10,7 +10,7 @@ tags:	[linuxcn,Fedora,Wayland]
 Fedora 开发团队正在非常努力的开发下一代版本 Fedora 25，这将带来最新的技术改进。
 
 
-![](/Asserts/Images//attachment/album/201608/23/235902ir1a7skoasas4mk6.jpg)
+![](/Asserts/Images/album/201608/23/235902ir1a7skoasas4mk6.jpg)
 
 
 Wayland 就是一个新的技术，这个下一代显示服务器的设计目标即是替代老旧的 X.Org 服务器（即 X11）。X11 被几乎所有的 GNU/Linux 操作系统用作默认的显示服务器，但是 X11 本身有很多安全隐患，却由于种种原因而不能修复。所以，多年以来一直有呼声要求设计新的显示服务器以取代已经用了几十年的 X11 服务器，而 Wayland 就是被寄予期望的一个替代品。

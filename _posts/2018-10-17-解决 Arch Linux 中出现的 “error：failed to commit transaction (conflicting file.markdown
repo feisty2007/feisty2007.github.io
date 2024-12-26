@@ -7,7 +7,7 @@ tags:	[linuxcn,错误,更新]
 ---
 
 
-![](/Asserts/Images//attachment/album/201810/12/111016xjbqntj6f2qbvezb.png)
+![](/Asserts/Images/album/201810/12/111016xjbqntj6f2qbvezb.png)
 
 
 自我更新 Arch Linux 桌面以来已经有一个月了。今天我试着更新我的 Arch Linux 系统，然后遇到一个错误 “error：failed to commit transaction (conflicting files) stfl：/usr/lib/libstfl.so.0 exists in filesystem”。看起来是 pacman 无法更新一个已经存在于文件系统上的库 (/usr/lib/libstfl.so.0)。如果你也遇到了同样的问题，下面是一个快速解决方案。

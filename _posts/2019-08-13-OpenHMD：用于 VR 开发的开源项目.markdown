@@ -15,13 +15,13 @@ tags:	[linuxcn,VR,OpenHMD]
 > 
 
 
-![](/Asserts/Images//attachment/album/201908/06/105011q6u6659y3jvu6z6q.jpg)
+![](/Asserts/Images/album/201908/06/105011q6u6659y3jvu6z6q.jpg)
 
 
 ### 什么是 OpenHMD？
 
 
-![](/Asserts/Images//attachment/album/201908/06/105012qvdwbk1w78sswrz9.png)
+![](/Asserts/Images/album/201908/06/105012qvdwbk1w78sswrz9.png)
 
 
 [OpenHMD](http://www.openhmd.net/) 是一个为沉浸式技术创建开源 API 及驱动的项目。这类技术包括带内置头部跟踪的头戴式显示器。

@@ -7,7 +7,7 @@ tags:	[linuxcn,Go,内存]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/15/154636bhoqwdrdxczdhzxg.png)
+![](/Asserts/Images/album/202311/15/154636bhoqwdrdxczdhzxg.png)
 
 
 今天的帖子来自于最近的 Go 语言的一次小测试，观察下面的测试基础片段 <sup class="footnote-ref"> <a href="#fn1" id="fnref1">  [1] </a></sup>：

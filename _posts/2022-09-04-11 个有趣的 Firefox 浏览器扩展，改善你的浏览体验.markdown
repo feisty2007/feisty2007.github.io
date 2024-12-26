@@ -7,7 +7,7 @@ tags:	[linuxcn,Firefox,扩展,附加组件]
 ---
 
 
-![](/Asserts/Images//attachment/album/202209/19/142052i277yjgyy11zzrdu.jpg)
+![](/Asserts/Images/album/202209/19/142052i277yjgyy11zzrdu.jpg)
 
 
 我想我们都同意，Firefox 是 [Linux 的最佳浏览器](https://itsfoss.com/best-browsers-ubuntu-linux/) 之一。
@@ -31,7 +31,7 @@ tags:	[linuxcn,Firefox,扩展,附加组件]
 虽然没有什么是 100% 安全的，但有几件事可以检查：
 
 
-![一个理想的可以安全使用的 Firefox 扩展](/Asserts/Images//attachment/album/202209/19/142055ebgw6kbcrdb6rqfy.jpg)
+![一个理想的可以安全使用的 Firefox 扩展](/Asserts/Images/album/202209/19/142055ebgw6kbcrdb6rqfy.jpg)
 
 
 * [扩展的徽章](https://support.mozilla.org/en-US/kb/add-on-badges)：寻找“推荐”或“By Firefox”徽章；忽略包含警告徽章/图标的扩展。
@@ -58,7 +58,7 @@ tags:	[linuxcn,Firefox,扩展,附加组件]
 ### 1、Facebook Container
 
 
-![Facebook Container](/Asserts/Images//attachment/album/202209/19/142055kb6g662kodiodojb.jpg)
+![Facebook Container](/Asserts/Images/album/202209/19/142055kb6g662kodiodojb.jpg)
 
 
 **主要亮点：**
@@ -86,7 +86,7 @@ tags:	[linuxcn,Firefox,扩展,附加组件]
 ### 2、uBlock Origin
 
 
-![ublock origin firefox 1](/Asserts/Images//attachment/album/202209/19/142056ehiululuu4kzcuiy.jpg)
+![ublock origin firefox 1](/Asserts/Images/album/202209/19/142056ehiululuu4kzcuiy.jpg)
 
 
 **主要亮点：**
@@ -114,7 +114,7 @@ uBlock Origin 是 Firefox 最知名和最受信任的“广告拦截”扩展之
 ### 3、Bitwarden
 
 
-![Bitwarden 演示](/Asserts/Images//attachment/album/202209/19/142321r49z0efkyf9jq09z.jpg)
+![Bitwarden 演示](/Asserts/Images/album/202209/19/142321r49z0efkyf9jq09z.jpg)
 
 
 **主要亮点：**
@@ -141,7 +141,7 @@ Bitwarden 拥有*我会在密码管理器中寻找*的一切。如果你想升�
 ### 4、LanguageTool
 
 
-![LanguageTool 扩展使用演示](/Asserts/Images//attachment/album/202209/19/142331l91rbsu1arxs9ers.jpg)
+![LanguageTool 扩展使用演示](/Asserts/Images/album/202209/19/142331l91rbsu1arxs9ers.jpg)
 
 
 **主要亮点：**
@@ -173,7 +173,7 @@ Bitwarden 拥有*我会在密码管理器中寻找*的一切。如果你想升�
 ### 5、Tranquikity Reader
 
 
-![firefox tanquility](/Asserts/Images//attachment/album/202209/19/142056dmqqcjxcxccjqv4j.jpg)
+![firefox tanquility](/Asserts/Images/album/202209/19/142056dmqqcjxcxccjqv4j.jpg)
 
 
 想象一下，你正在阅读互联网上的一篇文章，网页顶部和底部有两个横幅广告，整个右侧都是广告，底部的广告横幅是自动播放的视频。你打开广告拦截器，但视频继续播放。有时横幅中没有广告，但它们仍然占用了宝贵的屏幕空间。你是否感觉很烦恼？
@@ -201,7 +201,7 @@ Tranquility Reader 扩展具有以下统计信息：
 ### 6、Enhancer for YouTube
 
 
-![Enhancer for YouTube 一项功能的演示](/Asserts/Images//attachment/album/202209/19/142342hb56c4sh0th1dthm.jpg)
+![Enhancer for YouTube 一项功能的演示](/Asserts/Images/album/202209/19/142342hb56c4sh0th1dthm.jpg)
 
 
 **主要亮点：**
@@ -228,7 +228,7 @@ Tranquility Reader 扩展具有以下统计信息：
 ### 7、Tomato Clock
 
 
-![Tomato Clock](/Asserts/Images//attachment/album/202209/19/142056kdxb55c1u55zzpld.jpg)
+![Tomato Clock](/Asserts/Images/album/202209/19/142056kdxb55c1u55zzpld.jpg)
 
 
 当你上网时，跟踪你的时间、生产力和理智是至关重要的。尤其是当你正在研究一个主题并陷入困境时，你应该休息一下，但你会过于投入，以至于你可能会忘记时间。
@@ -256,7 +256,7 @@ Tomato Clock 扩展正如它的名字，它是一个时钟定时器。一个“�
 ### 8、Search by Image
 
 
-![演示 Firefox 的图片搜索扩展的“捕获”功能](/Asserts/Images//attachment/album/202209/19/142351azttsqwzitslkz0k.jpg)
+![演示 Firefox 的图片搜索扩展的“捕获”功能](/Asserts/Images/album/202209/19/142351azttsqwzitslkz0k.jpg)
 
 
 **关键亮点：**
@@ -290,7 +290,7 @@ Tomato Clock 扩展正如它的名字，它是一个时钟定时器。一个“�
 ### 9、Dictionary Anywhere
 
 
-![Dictionary Anywhere 扩展显示所选单词的含义](/Asserts/Images//attachment/album/202209/19/142359hqd1g3sa51gkd1v2.jpg)
+![Dictionary Anywhere 扩展显示所选单词的含义](/Asserts/Images/album/202209/19/142359hqd1g3sa51gkd1v2.jpg)
 
 
 **主要亮点：**
@@ -324,7 +324,7 @@ Tomato Clock 扩展正如它的名字，它是一个时钟定时器。一个“�
 ### 10、Vimium-FF
 
 
-![vimium FF](/Asserts/Images//attachment/album/202209/19/142057m3h16s3yxk3xq6y0.png)
+![vimium FF](/Asserts/Images/album/202209/19/142057m3h16s3yxk3xq6y0.png)
 
 
 **主要亮点：**
@@ -354,7 +354,7 @@ Tomato Clock 扩展正如它的名字，它是一个时钟定时器。一个“�
 ### 11、FireShot
 
 
-![fireshot](/Asserts/Images//attachment/album/202209/19/142057sku8sehuue75j7th.jpg)
+![fireshot](/Asserts/Images/album/202209/19/142057sku8sehuue75j7th.jpg)
 
 
 FireShot 是一个非常简单的 Firefox 扩展，它允许你将完整的网页截图并保存为长图或 PDF 文件，最重要的是，你还可以在截图上注释（哈哈哈）！但是注释功能只能在 Windows 上使用，真是太可惜了！

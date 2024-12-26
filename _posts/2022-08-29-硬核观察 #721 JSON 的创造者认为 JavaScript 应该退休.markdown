@@ -7,7 +7,7 @@ tags:	[linuxcn,JavaScript,打印机,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/07/172523j44q0hj870fptyxo.jpg)
+![](/Asserts/Images/album/202208/07/172523j44q0hj870fptyxo.jpg)
 
 
 ### JSON 的创造者认为 JavaScript 应该退休
@@ -32,7 +32,7 @@ tags:	[linuxcn,JavaScript,打印机,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/07/172539wrfef9bfi2bi9f42.jpg)
+![](/Asserts/Images/album/202208/07/172539wrfef9bfi2bi9f42.jpg)
 
 
 ### 爱普生打印机设置最大打印次数，到达即报废
@@ -57,7 +57,7 @@ tags:	[linuxcn,JavaScript,打印机,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/07/172557sbw9kwwmk15swyks.jpg)
+![](/Asserts/Images/album/202208/07/172557sbw9kwwmk15swyks.jpg)
 
 
 ### Meta 公司在网上发布了其最新的 AI 聊天机器人

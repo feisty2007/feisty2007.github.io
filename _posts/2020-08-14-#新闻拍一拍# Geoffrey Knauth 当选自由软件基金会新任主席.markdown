@@ -7,7 +7,7 @@ tags:	[linuxcn,FSF]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/06/234858li962zkt6gudtis9.jpg)
+![](/Asserts/Images/album/202008/06/234858li962zkt6gudtis9.jpg)
 
 
 #### Geoffrey Knauth 当选自由软件基金会新任主席

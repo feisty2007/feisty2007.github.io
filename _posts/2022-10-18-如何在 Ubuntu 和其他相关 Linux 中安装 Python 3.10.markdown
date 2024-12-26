@@ -7,7 +7,7 @@ tags:	[linuxcn,Python]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/30/152139lddzddabu5u4buud.jpg)
+![](/Asserts/Images/album/202210/30/152139lddzddabu5u4buud.jpg)
 
 
 
@@ -167,7 +167,7 @@ sudo update-alternatives --config python3
 
 ```
 
-![在 Ubuntu 中安装 Python 3.10](/Asserts/Images//attachment/album/202210/30/152703v363mq83isiv3ni3.jpg)
+![在 Ubuntu 中安装 Python 3.10](/Asserts/Images/album/202210/30/152703v363mq83isiv3ni3.jpg)
 
 
 这就是所有步骤。现在，你可以开始在当前的 Ubuntu 版本中使用最新的 Python 进行工作/学习。你可以使用上述命令切换到库存版本并在任何时间更改版本号。

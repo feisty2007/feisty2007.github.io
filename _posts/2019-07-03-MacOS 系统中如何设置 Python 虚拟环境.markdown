@@ -15,7 +15,7 @@ tags:	[linuxcn,Python]
 > 
 
 
-![](/Asserts/Images//attachment/album/201907/11/124645ns3ndlpnaqlgaasp.jpg)
+![](/Asserts/Images/album/201907/11/124645ns3ndlpnaqlgaasp.jpg)
 
 
 作为 Python 开发者和 MacOS 用户，拿到新机器首先要做的就是设置 Python 开发环境。下面是最佳实践（虽然我们已经写过 [在 MacOS 上管理 Python 的其它方法](https://opensource.com/article/19/5/python-3-default-macos)）。

@@ -10,7 +10,7 @@ tags:	[linuxcn,RHEL,CentOS]
 RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在所有的主流 CPU 架构中。一般来说，多数的 Linux 发行版都可以免费下载、安装和使用，但对于 RHEL，只有在购买了订阅之后，你才能下载和使用，否则只能获取到试用期为 30 天的评估版。
 
 
-![](/Asserts/Images//attachment/album/201612/27/095245gsx00qssvhq2chzb.png)
+![](/Asserts/Images/album/201612/27/095245gsx00qssvhq2chzb.png)
 
 
 本文会告诉你如何在你的机器上安装最新的 RHEL 7.3，当然了，使用的是期限 30 天的评估版 ISO 镜像，请自行到 <https://access.redhat.com/downloads> 下载。
@@ -58,7 +58,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 当安装介质被检测到之后，它会启动到 RHEL 的 grub 菜单。选择“Install red hat Enterprise Linux 7.3” 并按回车继续。
 
 
-![RHEL 7.3 Boot Menu](/Asserts/Images//attachment/album/201612/27/094049h66v0fggajja5106.jpg)
+![RHEL 7.3 Boot Menu](/Asserts/Images/album/201612/27/094049h66v0fggajja5106.jpg)
 
 
 *RHEL 7.3 启动菜单*
@@ -67,7 +67,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 2、 之后屏幕就会显示 RHEL 7.3 欢迎界面。该界面选择安装过程中使用的语言 (LCTT 译注：这里选的只是安装过程中使用的语言，之后的安装中才会进行最终使用的系统语言环境) ，然后按回车到下一界面。
 
 
-![Select RHEL 7.3 Language](/Asserts/Images//attachment/album/201612/27/094050zkr4408n0r18ezk4.png)
+![Select RHEL 7.3 Language](/Asserts/Images/album/201612/27/094050zkr4408n0r18ezk4.png)
 
 
 *选择 RHEL 7.3 安装过程使用的语言*
@@ -79,13 +79,13 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 点击最上面的<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby> 按钮来保持你的设置，并进行下一步系统设置。
 
 
-![RHEL 7.3 Installation Summary](/Asserts/Images//attachment/album/201612/27/094051eur0q0pqgaai2fiq.png)
+![RHEL 7.3 Installation Summary](/Asserts/Images/album/201612/27/094051eur0q0pqgaai2fiq.png)
 
 
 *RHEL 7.3 安装概览*
 
 
-![Select RHEL 7.3 Date and Time](/Asserts/Images//attachment/album/201612/27/094052pq46p6jwvxhlhfxj.png)
+![Select RHEL 7.3 Date and Time](/Asserts/Images/album/201612/27/094052pq46p6jwvxhlhfxj.png)
 
 
 *选择 RHEL 7.3 日期和时间*
@@ -94,7 +94,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 4、 接下来，就是配置你的<ruby> 键盘 <rp>  （ </rp> <rt>  keyboard </rt> <rp>  ） </rp></ruby>布局并再次点击<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby> 按钮返回安装主菜单。
 
 
-![Configure Keyboard Layout](/Asserts/Images//attachment/album/201612/27/094052fseeahsppvt6nz9z.png)
+![Configure Keyboard Layout](/Asserts/Images/album/201612/27/094052fseeahsppvt6nz9z.png)
 
 
 *配置键盘布局*
@@ -103,7 +103,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 5、 紧接着，选择你使用的<ruby> 语言支持 <rp>  （ </rp> <rt>  language support </rt> <rp>  ） </rp></ruby>，并点击<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby>，然后进行下一步。
 
 
-![Choose Language Support](/Asserts/Images//attachment/album/201612/27/094053fc6sndiq10rqf01q.png)
+![Choose Language Support](/Asserts/Images/album/201612/27/094053fc6sndiq10rqf01q.png)
 
 
 *选择语言支持*
@@ -121,7 +121,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 这也意味着高安全性、可伸缩性以及占用极少的磁盘空间。同时，通过购买<ruby> 订阅 <rp>  （ </rp> <rt>  subscription </rt> <rp>  ） </rp></ruby> 或使用 DVD 镜像源，这里列出的的其它环境和附件都是可以在命令行中很容易地安装。
 
 
-![RHEL 7.3 Software Selection](/Asserts/Images//attachment/album/201612/27/094054ggjii7n4tjwjdj41.png)
+![RHEL 7.3 Software Selection](/Asserts/Images/album/201612/27/094054ggjii7n4tjwjdj41.png)
 
 
 *RHEL 7.3 软件集选择*
@@ -130,7 +130,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 7、 万一你想要安装预定义的基本环境之一，比方说 Web 服务器、文件 & 打印服务器、架构服务器、虚拟化主机、带 GUI 的服务器等，直接点击选择它们，然后在右边的框选择附件，最后点击<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby> 结束这一步操作即可。
 
 
-![Select Server with GUI on RHEL 7.3](/Asserts/Images//attachment/album/201612/27/094054rzyyrabcyjzjpa65.png)
+![Select Server with GUI on RHEL 7.3](/Asserts/Images/album/201612/27/094054rzyyrabcyjzjpa65.png)
 
 
 *选择带 GUI 的服务器*
@@ -151,7 +151,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 不论如何，本文推荐你选择自动配置分区。最后点击<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby> 继续下一步。
 
 
-![Choose RHEL 7.3 Installation Drive](/Asserts/Images//attachment/album/201612/27/094055jsjzjudpjdpbgsjh.png)
+![Choose RHEL 7.3 Installation Drive](/Asserts/Images/album/201612/27/094055jsjzjudpjdpbgsjh.png)
 
 
 *选择 RHEL 7.3 的安装硬盘*
@@ -160,7 +160,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 9、 下一步是禁用 Kdump 服务，然后配置网络。
 
 
-![Disable Kdump Feature](/Asserts/Images//attachment/album/201612/27/094056al5i85v6ivbiyni6.png)
+![Disable Kdump Feature](/Asserts/Images/album/201612/27/094056al5i85v6ivbiyni6.png)
 
 
 *禁用 Kdump 特性*
@@ -172,7 +172,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 如果你在自己的网络中有一个 DHCP 服务器，那么网络 IP 设置会自动获取和使用。
 
 
-![Configure Network Hostname](/Asserts/Images//attachment/album/201612/27/094057v4tivv1sugg1vp1p.png)
+![Configure Network Hostname](/Asserts/Images/album/201612/27/094057v4tivv1sugg1vp1p.png)
 
 
 *配置网络主机名称*
@@ -187,7 +187,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 最后，点击<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby> 按钮返回到安装设置主界面。
 
 
-![Configure Network IP Address](/Asserts/Images//attachment/album/201612/27/094058dz70x7j0leleu02w.png)
+![Configure Network IP Address](/Asserts/Images/album/201612/27/094058dz70x7j0leleu02w.png)
 
 
 *配置网络 IP 地址*
@@ -199,13 +199,13 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 回顾所有的安装设置项并点击<ruby> 开始安装 <rp>  （ </rp> <rt>  Begin Installation </rt> <rp>  ） </rp></ruby>按钮来启动安装过程，这个过程启动之后，你就没有办法停止它了。
 
 
-![Apply Security Policy for RHEL 7.3](/Asserts/Images//attachment/album/201612/27/094058hl4ekr60d1lzs2y4.png)
+![Apply Security Policy for RHEL 7.3](/Asserts/Images/album/201612/27/094058hl4ekr60d1lzs2y4.png)
 
 
 *为 RHEL 7.3 启用安全策略*
 
 
-![Begin Installation of RHEL 7.3](/Asserts/Images//attachment/album/201612/27/094059wf8vzuzfto0o2mlu.png)
+![Begin Installation of RHEL 7.3](/Asserts/Images/album/201612/27/094059wf8vzuzfto0o2mlu.png)
 
 
 *开始安装 RHEL 7.3*
@@ -214,13 +214,13 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 13、 在安装过程中，你的显示器会出现<ruby> 用户设置 <rp>  （ </rp> <rt>  User Settings </rt> <rp>  ） </rp></ruby>。首先点击<ruby> Root 密码 <rp>  （ </rp> <rt>  Root Password </rt> <rp>  ） </rp></ruby>为 root 账户设置一个高强度密码。
 
 
-![Configure User Settings](/Asserts/Images//attachment/album/201612/27/094100i15vi14r7nnmrrnm.png)
+![Configure User Settings](/Asserts/Images/album/201612/27/094100i15vi14r7nnmrrnm.png)
 
 
 *配置用户选项*
 
 
-![Set Root Account Password](/Asserts/Images//attachment/album/201612/27/094101vftvnne42chhgcmz.png)
+![Set Root Account Password](/Asserts/Images/album/201612/27/094101vftvnne42chhgcmz.png)
 
 
 *设置 Root 账户密码*
@@ -229,13 +229,13 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 14、 最后，创建一个新用户，通过选中<ruby> 使该用户成为管理员 <rp>  （ </rp> <rt>  Make this user administrator </rt> <rp>  ） </rp></ruby>为新建的用户授权 root 权限。同时还要为这个账户设置一个高强度密码，点击<ruby> 完成 <rp>  （ </rp> <rt>  Done </rt> <rp>  ） </rp></ruby> 返回用户设置菜单，就可以等待安装过程完成了。
 
 
-![Create New User Account](/Asserts/Images//attachment/album/201612/27/094102gk22lvblltn6lk4o.png)
+![Create New User Account](/Asserts/Images/album/201612/27/094102gk22lvblltn6lk4o.png)
 
 
 *创建新用户账户*
 
 
-![RHEL 7.3 Installation Process](/Asserts/Images//attachment/album/201612/27/094103ri7vp8j9jffpkfxi.png)
+![RHEL 7.3 Installation Process](/Asserts/Images/album/201612/27/094103ri7vp8j9jffpkfxi.png)
 
 
 *RHEL 7.3 安装过程*
@@ -244,13 +244,13 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 15、 安装过程结束并成功安装后，弹出或拔掉 DVD/USB 设备，重启机器。
 
 
-![RHEL 7.3 Installation Complete](/Asserts/Images//attachment/album/201612/27/094103qddbf0fldldd22d8.png)
+![RHEL 7.3 Installation Complete](/Asserts/Images/album/201612/27/094103qddbf0fldldd22d8.png)
 
 
 *RHEL 7.3 安装完成*
 
 
-![Booting Up RHEL 7.3](/Asserts/Images//attachment/album/201612/27/094104c6dwvrbzyn8i8ryw.png)
+![Booting Up RHEL 7.3](/Asserts/Images/album/201612/27/094104c6dwvrbzyn8i8ryw.png)
 
 
 *启动 RHEL 7.3*
@@ -267,7 +267,7 @@ RHEL 是由红帽公司开发维护的开源 Linux 发行版，可以运行在�
 作者简介:
 
 
-![](/Asserts/Images//attachment/album/201612/27/094106f65usas6ytbz3tjx.jpg)Matei Cezar
+![](/Asserts/Images/album/201612/27/094106f65usas6ytbz3tjx.jpg)Matei Cezar
 
 
 我是一个终日沉溺于电脑的家伙，对开源的 Linux 软件非常着迷，有着 4 年 Linux 桌面发行版、服务器和 bash 编程经验。

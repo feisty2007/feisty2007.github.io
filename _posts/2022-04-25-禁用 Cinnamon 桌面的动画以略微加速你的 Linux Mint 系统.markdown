@@ -7,7 +7,7 @@ tags:	[linuxcn,Cinnamon]
 ---
 
 
-![](/Asserts/Images//attachment/album/202204/22/121054zccs5lcss57lt96e.jpg)
+![](/Asserts/Images/album/202204/22/121054zccs5lcss57lt96e.jpg)
 
 
 让我们面对现实吧。
@@ -34,13 +34,13 @@ tags:	[linuxcn,Cinnamon]
 首先，打开菜单，搜索“<ruby> 效果 <rt>  effects </rt></ruby>”。
 
 
-![打开 Linux Mint Cinnamon 的效果设置](/Asserts/Images//attachment/album/202204/22/121101iggk24h5445z4p24.png)
+![打开 Linux Mint Cinnamon 的效果设置](/Asserts/Images/album/202204/22/121101iggk24h5445z4p24.png)
 
 
 打开“<ruby> 效果 <rt>  effects </rt></ruby>”设置窗口，你默认会在“<ruby> 启用效果 <rt>  Enable Effects </rt></ruby>”这个标签页中。你可以在这里选择禁用（或启用）各种可用的动画效果。
 
 
-![禁用 Linux Mint Cinnamon 桌面的动画](/Asserts/Images//attachment/album/202204/22/121101icrrr6cqc45946pw.png)
+![禁用 Linux Mint Cinnamon 桌面的动画](/Asserts/Images/album/202204/22/121101icrrr6cqc45946pw.png)
 
 
 你可以选择禁用部分或全部效果。
@@ -49,7 +49,7 @@ tags:	[linuxcn,Cinnamon]
 如果你切换到“<ruby> 自定义 <rt>  Customize </rt></ruby>”标签页，你可以自定义你在“<ruby> 启用效果 <rt>  Enable Effects </rt></ruby>”标签页中看到的各种效果。
 
 
-![自定义 Linux Mint Cinnamon 中的窗口动画](/Asserts/Images//attachment/album/202204/22/121102wgpgxgphhppvqqxm.png)
+![自定义 Linux Mint Cinnamon 中的窗口动画](/Asserts/Images/album/202204/22/121102wgpgxgphhppvqqxm.png)
 
 
 第一栏是效果的名称，第二栏是动画的类型，第三栏是动画的展示方式，在最后一栏，你可以配置动画完成的时间。

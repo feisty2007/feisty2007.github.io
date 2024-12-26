@@ -22,7 +22,7 @@ tags:	[linuxcn,Ubuntu,Edge,ubuntu-edge]
 　　在 8 月 2 日下午 4 点前，如果您最终得到的推介最高，您将获得这个活动的奖励。如果您不是最高的推介者，您也有机会获得给您购买的 Ubuntu Edge 刻上您喜爱的文字的服务。
 
 
-![](/Asserts/Images//attachment/album/201307/31/012311lew6ewzuzs1fzns9.png)
+![](/Asserts/Images/album/201307/31/012311lew6ewzuzs1fzns9.png)
 
 
 　　比赛的详细情况您可以查看：<http://www.indiegogo.com/projects/ubuntu-edge?c=activity#activities_container>

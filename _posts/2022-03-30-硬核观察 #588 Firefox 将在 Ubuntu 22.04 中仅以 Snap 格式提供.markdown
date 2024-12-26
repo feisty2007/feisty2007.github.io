@@ -7,10 +7,10 @@ tags:	[linuxcn,Firefox,Linux]
 ---
 
 
-![](/Asserts/Images//attachment/album/202203/27/135207oqq85kz6zdmzu6qt.jpg)
+![](/Asserts/Images/album/202203/27/135207oqq85kz6zdmzu6qt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202203/27/135215pprzt9aoovwtmrtt.jpg)
+![](/Asserts/Images/album/202203/27/135215pprzt9aoovwtmrtt.jpg)
 
 
 ### Firefox 将在 Ubuntu 22.04 中仅以 Snap 格式提供
@@ -27,7 +27,7 @@ Deb 格式的 Firefox 和 Firefox-Locale 将 [被 Snap 包取代](https://www.al
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/27/135223ykes3e34k65m4d2e.jpg)
+![](/Asserts/Images/album/202203/27/135223ykes3e34k65m4d2e.jpg)
 
 
 ### Linux 5.18 从 C89 转换到了 C11
@@ -44,7 +44,7 @@ Deb 格式的 Firefox 和 Firefox-Locale 将 [被 Snap 包取代](https://www.al
 > 
 
 
-![](/Asserts/Images//attachment/album/202203/27/135245lolfxlffso4jlict.jpg)
+![](/Asserts/Images/album/202203/27/135245lolfxlffso4jlict.jpg)
 
 
 ### 14 年后，SDL\_sound 发布了 2.0

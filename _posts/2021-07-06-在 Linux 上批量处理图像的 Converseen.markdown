@@ -7,7 +7,7 @@ tags:	[linuxcn,图片,转换]
 ---
 
 
-![](/Asserts/Images//attachment/album/202107/25/215958jd5jl9q2jlzqvvg6.jpg)
+![](/Asserts/Images/album/202107/25/215958jd5jl9q2jlzqvvg6.jpg)
 
 
 Converseen 是一个用于批量图像转换的自由开源软件。有了这个工具，你可以一次将多张图片转换成另一种格式、调整大小、改变它们的长宽比、旋转或翻转它们。
@@ -31,7 +31,7 @@ Converseen 是一个用于批量图像转换的自由开源软件。有了这个
 在调整图像大小时，你可以选择保持长宽比。请记住，在宽度和高度中，你最后改变/输入的那个是控制长宽比的那个。所以，如果你想在保持长宽比的情况下调整大小，但要根据宽度来调整，不要修改高度栏。
 
 
-![](/Asserts/Images//attachment/album/202107/25/220015huciozxizxlo6181.png)
+![](/Asserts/Images/album/202107/25/220015huciozxizxlo6181.png)
 
 
 你也可以选择将转换后的图像以不同的名称保存在同一目录或其他位置，也可以覆盖现有的图像。
@@ -46,7 +46,7 @@ Converseen 是一个用于批量图像转换的自由开源软件。有了这个
 在改变格式的同时，还有一个选项可以给透明背景以某种颜色。你还可以设置压缩级别的质量。
 
 
-![](/Asserts/Images//attachment/album/202107/25/220017ge4dten4gdcom4c4.png)
+![](/Asserts/Images/album/202107/25/220017ge4dten4gdcom4c4.png)
 
 
 Converseen 还可以导入 PDF 文件，并将整个 PDF 或其中的一部分转换为图像。然而，在 Ubuntu 21.04 中，每次我试图转换一个 PDF 文件时，它就会崩溃。
@@ -61,7 +61,7 @@ Converseen 是一个流行的应用。它在大多数 Linux 发行版仓库中�
 你可以在你的发行版的软件中心搜索到它：
 
 
-![](/Asserts/Images//attachment/album/202107/25/220018tx7s7srebbkls7rs.jpg)
+![](/Asserts/Images/album/202107/25/220018tx7s7srebbkls7rs.jpg)
 
 
 当然，你也可以使用你的发行版的包管理器通过命令行来安装它。

@@ -7,10 +7,10 @@ tags:	[linuxcn,开源硬件,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/17/174305gb7vw88nnpz7t474.jpg)
+![](/Asserts/Images/album/202307/17/174305gb7vw88nnpz7t474.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/17/174315w9nlvt9nw8v1k893.jpg)
+![](/Asserts/Images/album/202307/17/174315w9nlvt9nw8v1k893.jpg)
 
 
 ### 开源硬件公司正在向封闭转变
@@ -35,7 +35,7 @@ tags:	[linuxcn,开源硬件,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/17/174329lfzfnib8ban50vpf.jpg)
+![](/Asserts/Images/album/202307/17/174329lfzfnib8ban50vpf.jpg)
 
 
 ### 人工智能检测器认为《美国宪法》是由人工智能编写的
@@ -60,7 +60,7 @@ tags:	[linuxcn,开源硬件,AI]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/17/174346gg8gg5tg55z08ew0.jpg)
+![](/Asserts/Images/album/202307/17/174346gg8gg5tg55z08ew0.jpg)
 
 
 ### 出现用于网络犯罪的人工智能 WormGPT

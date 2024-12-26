@@ -7,7 +7,7 @@ tags:	[linuxcn,awk]
 ---
 
 
-![](/Asserts/Images//attachment/album/201607/24/182654td00pzrdarrpjafw.png)
+![](/Asserts/Images/album/201607/24/182654td00pzrdarrpjafw.png)
 
 
 在 awk 系列的第六节，我们来看一下`next`命令 ，它告诉 awk 跳过你所提供的所有剩下的模式和表达式，直接处理下一个输入行。

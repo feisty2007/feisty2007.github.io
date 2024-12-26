@@ -17,7 +17,7 @@ tags:	[linuxcn,]
 * 多家媒体长时间跟踪项目进度，包括 CNBC 和 The Telegraph
 
 
-![https://img.linux.net.cn/Asserts/Images//attachment/album/201307/31/005925tw75m84tw3k9893n.png](/Asserts/Images//attachment/album/201307/31/005925tw75m84tw3k9893n.png)
+![https://img.linux.net.cn/Asserts/Images/album/201307/31/005925tw75m84tw3k9893n.png](/Asserts/Images/album/201307/31/005925tw75m84tw3k9893n.png)
 
 
 　　如果最终成功，将会创造筹资项目金额最高的项目。

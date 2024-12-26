@@ -7,7 +7,7 @@ tags:	[linuxcn,更新,软件包]
 ---
 
 
-![](/Asserts/Images//attachment/album/202210/12/152118mo5r6pohnn4o5h56.jpg)
+![](/Asserts/Images/album/202210/12/152118mo5r6pohnn4o5h56.jpg)
 
 
 更新 Linux 系统并没有那么复杂，不是吗？毕竟，要更新 Ubuntu 之类的发行版，你只需要使用 `apt update` 和 `apt upgrade` 就行。
@@ -31,7 +31,7 @@ tags:	[linuxcn,更新,软件包]
 [Topgrade](https://github.com/r-darwish/topgrade) 是一个 CLI 程序，它会检测你使用的工具，然后运行适当的命令来更新它们。
 
 
-![Topgrade disable system](/Asserts/Images//attachment/album/202210/12/152120q9kktzhly9tgjmb2.png)
+![Topgrade disable system](/Asserts/Images/album/202210/12/152120q9kktzhly9tgjmb2.png)
 
 
 除了通常的 Linux 包管理器，它还可以检测和更新 Brew、Cargo、PIP、Pihole、Vim 和 Emacs 插件、R 软件包等。你可以在 [维基页面](https://github.com/r-darwish/topgrade/wiki/Step-list) 上查看支持的包列表。
@@ -79,7 +79,7 @@ cargo install topgrade
 它会抛出一个警告：
 
 
-![cargo error](/Asserts/Images//attachment/album/202210/12/152120naa5q222rrp29n7p.png)
+![cargo error](/Asserts/Images/album/202210/12/152120naa5q222rrp29n7p.png)
 
 
 你只需添加 `cargo` 路径即可运行二进制文件。这可以通过给定的命令来完成，你需要使用你的用户名替换 `sagar`：
@@ -134,7 +134,7 @@ topgrade --disable snap system
 
 ```
 
-![Topgrade disable snap system](/Asserts/Images//attachment/album/202210/12/152121t3ivtpj5z3p8w3w5.png)
+![Topgrade disable snap system](/Asserts/Images/album/202210/12/152121t3ivtpj5z3p8w3w5.png)
 
 
 要进行永久更改，你必须在其配置文件中进行一些更改，这些更改可以通过给定的命令访问：
@@ -149,7 +149,7 @@ topgrade --edit-config
 对于此示例，我排除了 Snap 和默认系统仓库：
 
 
-![configuring Topgrade](/Asserts/Images//attachment/album/202210/12/152121hbh8wv114eekm0k4.png)
+![configuring Topgrade](/Asserts/Images/album/202210/12/152121hbh8wv114eekm0k4.png)
 
 
 #### 试运行 Topgrade
@@ -167,7 +167,7 @@ topgrade -n
 
 ```
 
-![summery of Topgrade](/Asserts/Images//attachment/album/202210/12/152121m29c42zm7y77721h.png)
+![summery of Topgrade](/Asserts/Images/album/202210/12/152121m29c42zm7y77721h.png)
 
 
 检查需要更新的软件包的一种简洁方法。

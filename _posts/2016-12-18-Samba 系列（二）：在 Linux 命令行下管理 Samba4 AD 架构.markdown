@@ -13,7 +13,7 @@ tags:	[linuxcn,Samba]
 我们也会关注一下如何配置域安全策略以及如何把 AD 用户绑定到本地的 PAM 认证中，以实现 AD 用户能够在 Linux 域控制器上进行本地登录。
 
 
-![](/Asserts/Images//attachment/album/201612/28/111600kmlm9m3ugqm3spje.jpg)
+![](/Asserts/Images/album/201612/28/111600kmlm9m3ugqm3spje.jpg)
 
 
 #### 要求
@@ -40,7 +40,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-![samba-tool - Manage Samba Administration Tool](/Asserts/Images//attachment/album/201612/28/111608jsqruqozzg086rrs.png)
+![samba-tool - Manage Samba Administration Tool](/Asserts/Images/album/201612/28/111608jsqruqozzg086rrs.png)
 
 
 *samba-tool —— Samba 管理工具*
@@ -69,7 +69,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-![Create User on Samba AD](/Asserts/Images//attachment/album/201612/28/111609wlboagivyyeobaob.png)
+![Create User on Samba AD](/Asserts/Images/album/201612/28/111609wlboagivyyeobaob.png)
 
 
 *在 Samba AD 上创建用户*
@@ -84,7 +84,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-![List Samba AD Users](/Asserts/Images//attachment/album/201612/28/111609zprw1rsmv9h8yywr.png)
+![List Samba AD Users](/Asserts/Images/album/201612/28/111609zprw1rsmv9h8yywr.png)
 
 
 *列出 Samba AD 用户信息*
@@ -156,7 +156,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-![List Samba Domain Members of Group](/Asserts/Images//attachment/album/201612/28/111610b0m7cqm600fkvfcn.png)
+![List Samba Domain Members of Group](/Asserts/Images/album/201612/28/111610b0m7cqm600fkvfcn.png)
 
 
 *列出 Samba 域用户组*
@@ -184,7 +184,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-![Check Samba Domain Password](/Asserts/Images//attachment/album/201612/28/111610x9mdx60f5t3r0xdm.png)
+![Check Samba Domain Password](/Asserts/Images/album/201612/28/111610x9mdx60f5t3r0xdm.png)
 
 
 *检查 Samba 域密码*
@@ -200,7 +200,7 @@ tags:	[linuxcn,Samba]
 
 ```
 
-![Manage Samba Domain Password Settings](/Asserts/Images//attachment/album/201612/28/111611dtaag22to9gr1hrg.png)
+![Manage Samba Domain Password Settings](/Asserts/Images/album/201612/28/111611dtaag22to9gr1hrg.png)
 
 
 *管理 Samba 域密码策略*
@@ -237,7 +237,7 @@ winbind enum groups = yes
 
 ```
 
-![Samba Authentication Using Active Directory User Accounts](/Asserts/Images//attachment/album/201612/28/111611tg8ockdxgyamnkxk.png)
+![Samba Authentication Using Active Directory User Accounts](/Asserts/Images/album/201612/28/111611tg8ockdxgyamnkxk.png)
 
 
 *Samba 通过 AD 用户账号来进行认证*
@@ -253,7 +253,7 @@ $ sudo systemctl restart samba-ad-dc.service
 
 ```
 
-![Check Samba Configuration for Errors](/Asserts/Images//attachment/album/201612/28/111612jkq84e848qyqhhli.png)
+![Check Samba Configuration for Errors](/Asserts/Images/album/201612/28/111612jkq84e848qyqhhli.png)
 
 
 *检查 Samba 配置文件是否报错*
@@ -274,13 +274,13 @@ $ sudo pam-auth-update
 
 ```
 
-![Configure PAM for Samba4 AD](/Asserts/Images//attachment/album/201612/28/111613pbujqqcr3eeb3fee.png)
+![Configure PAM for Samba4 AD](/Asserts/Images/album/201612/28/111613pbujqqcr3eeb3fee.png)
 
 
 *为 Samba4 AD 配置 PAM 认证*
 
 
-![Enable PAM Authentication Module for Samba4 AD Users](/Asserts/Images//attachment/album/201612/28/111613zlh4ohuov6ll8mhf.png)
+![Enable PAM Authentication Module for Samba4 AD Users](/Asserts/Images/album/201612/28/111613zlh4ohuov6ll8mhf.png)
 
 
 为 Samba4 AD 用户启用 PAM认证模块
@@ -295,7 +295,7 @@ $ sudo vi /etc/nsswitch.conf
 
 ```
 
-![Add Windbind Service Switch for Samba](/Asserts/Images//attachment/album/201612/28/111615aapc0wb0g0gw50cg.png)
+![Add Windbind Service Switch for Samba](/Asserts/Images/album/201612/28/111615aapc0wb0g0gw50cg.png)
 
 
 *为 Samba 服务添加 Winbind Service Switch 设置*
@@ -313,7 +313,7 @@ password       [success=1 default=ignore]      pam_winbind.so try_first_pass
 
 ```
 
-![Allow Samba AD Users to Change Passwords](/Asserts/Images//attachment/album/201612/28/111615pv3rzz500vo5v13r.png)
+![Allow Samba AD Users to Change Passwords](/Asserts/Images/album/201612/28/111615pv3rzz500vo5v13r.png)
 
 
 *允许 Samba AD 用户修改密码*
@@ -355,13 +355,13 @@ $ wbinfo -i your_domain_user
 
 ```
 
-![Check Samba4 AD Information ](/Asserts/Images//attachment/album/201612/28/111616gn6qt6cgqbmxgmmt.png)
+![Check Samba4 AD Information ](/Asserts/Images/album/201612/28/111616gn6qt6cgqbmxgmmt.png)
 
 
 *检查 Samba4 AD 信息*
 
 
-![Check Samba4 AD User Info](/Asserts/Images//attachment/album/201612/28/111616ddk80786qkprkhfa.png)
+![Check Samba4 AD User Info](/Asserts/Images/album/201612/28/111616ddk80786qkprkhfa.png)
 
 
 *检查 Samba4 AD 用户信息*
@@ -380,7 +380,7 @@ $ wbinfo -i your_domain_user
 
 ```
 
-![Get Samba4 AD Details](/Asserts/Images//attachment/album/201612/28/111617nwh5wovom75445mb.png)
+![Get Samba4 AD Details](/Asserts/Images/album/201612/28/111617nwh5wovom75445mb.png)
 
 
 *查看 Samba4 AD 详细信息*
@@ -406,7 +406,7 @@ $ exit
 
 ```
 
-![Check Samba4 AD User Authentication on Linux](/Asserts/Images//attachment/album/201612/28/111617crtky1jrrjnj2cgw.png)
+![Check Samba4 AD User Authentication on Linux](/Asserts/Images/album/201612/28/111617crtky1jrrjnj2cgw.png)
 
 
 *检查 Linux 下 Samba4 AD 用户认证结果*
@@ -422,7 +422,7 @@ $ passwd
 
 ```
 
-![Change Samba4 AD User Password](/Asserts/Images//attachment/album/201612/28/111618pjic338etiyc5z01.png)
+![Change Samba4 AD User Password](/Asserts/Images/album/201612/28/111618pjic338etiyc5z01.png)
 
 
 *修改 Samba4 AD 用户密码*
@@ -453,7 +453,7 @@ $ sudo apt-get update
 
 ```
 
-![Grant sudo Permission to Samba4 AD User](/Asserts/Images//attachment/album/201612/28/111618dkqhboj2aqjwhw1t.png)
+![Grant sudo Permission to Samba4 AD User](/Asserts/Images/album/201612/28/111618dkqhboj2aqjwhw1t.png)
 
 
 *授予 Samba4 AD 用户 sudo 权限*
@@ -474,7 +474,7 @@ $ sudo apt-get update
 `/etc/sudoers` 配置文件对于 ASCII 引号字符处理的不是很好，因此务必使用 '%' 来标识用户组，使用反斜杠来转义域名后的第一个斜杠，如果你的组名中包含空格（大多数 AD 内建组默认情况下都包含空格）使用另外一个反斜杠来转义空格。并且域的名称要大写。
 
 
-![Give Sudo Access to All Samba4 AD Users](/Asserts/Images//attachment/album/201612/28/111618yfqhea2v0pjh0gff.png)
+![Give Sudo Access to All Samba4 AD Users](/Asserts/Images/album/201612/28/111618yfqhea2v0pjh0gff.png)
 
 
 *授予所有 Samba4 用户 sudo 权限*

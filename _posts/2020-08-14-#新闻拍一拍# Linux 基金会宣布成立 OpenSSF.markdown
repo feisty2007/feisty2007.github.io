@@ -7,7 +7,7 @@ tags:	[linuxcn,安全]
 ---
 
 
-![](/Asserts/Images//attachment/album/202008/04/225850ye8878eiiwaa8gkd.jpg)
+![](/Asserts/Images/album/202008/04/225850ye8878eiiwaa8gkd.jpg)
 
 
 #### Linux 基金会宣布成立 OpenSSF

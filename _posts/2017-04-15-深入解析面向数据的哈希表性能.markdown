@@ -7,7 +7,7 @@ tags:	[linuxcn,编程,性能]
 ---
 
 
-![](/Asserts/Images//attachment/album/201704/17/111508k67c4f45b7bh6nnn.jpg)
+![](/Asserts/Images/album/201704/17/111508k67c4f45b7bh6nnn.jpg)
 
 
 最近几年中，面向数据的设计已经受到了很多的关注 —— 一种强调内存中数据布局的编程风格，包括如何访问以及将会引发多少的 cache 缺失。由于在内存读取操作中缺失所占的数量级要大于命中的数量级，所以缺失的数量通常是优化的关键标准。这不仅仅关乎那些对性能有要求的 code-data 结构设计的软件，由于缺乏对内存效益的重视而成为软件运行缓慢、膨胀的一个很大因素。
@@ -52,7 +52,7 @@ OL，DO1 和 DO2 的实现将共同的被称为 OA（open addressing）——稍
 * **Destruct**：销毁 table 并释放内存。
 
 
-你可以[在这里下载我的测试代码](http://reedbeta.com/blog/Asserts/Images/-oriented-hash-table/hash-table-tests.zip)。这些代码只能在 64 机器上编译（包括Windows和Linux）。在 `main()` 函数顶部附近有一些开关，你可把它们打开或者关掉——如果全开，可能会需要一两个小时才能结束运行。我收集的结果也放在了那个打包文件里的 Excel 表中。（注意： Windows 和 Linux 在不同的 CPU 上跑的，所以时间不具备可比较性）代码也跑了一些单元测试，用来验证所有的 hash 表实现都能运行正确。
+你可以[在这里下载我的测试代码](http://reedbeta.com/blog/data-oriented-hash-table/hash-table-tests.zip)。这些代码只能在 64 机器上编译（包括Windows和Linux）。在 `main()` 函数顶部附近有一些开关，你可把它们打开或者关掉——如果全开，可能会需要一两个小时才能结束运行。我收集的结果也放在了那个打包文件里的 Excel 表中。（注意： Windows 和 Linux 在不同的 CPU 上跑的，所以时间不具备可比较性）代码也跑了一些单元测试，用来验证所有的 hash 表实现都能运行正确。
 
 
 我还顺带尝试了附加的两个实现：Ch 中第一个节点存放在 bucket 中而不是 pool 里，二次探测的开放寻址。 这两个都不足以好到可以放在最终的数据里，但是它们的代码仍放在了打包文件里面。
@@ -70,7 +70,7 @@ OL，DO1 和 DO2 的实现将共同的被称为 OA（open addressing）——稍
 这是所有的测试的图表结果，使用 Visual Studio 2012 编译，运行于 Windows 8.1 和 Core i7-4710HQ 机器上。
 
 
-![Results for VS 2012, Windows 8.1, Core i7-4710HQ](/Asserts/Images//attachment/album/201704/17/111620o1ms81gco6arpgdp.png "Results for VS 2012, Windows 8.1, Core i7-4710HQ")
+![Results for VS 2012, Windows 8.1, Core i7-4710HQ](/Asserts/Images/album/201704/17/111620o1ms81gco6arpgdp.png "Results for VS 2012, Windows 8.1, Core i7-4710HQ")
 
 
 从左至右是不同的有效负载大小，从上往下是不同的操作（注意：不是所有的Y轴都是相同的比例！）我将为每一个操作总结一下主要趋向。
@@ -127,7 +127,7 @@ UM 在析构时是最慢的一个（小负载时，慢的程度可以用数量�
 我还在装有 Linux Mint 17.1 的 Core i5-4570S 机器上使用 gcc 4.8 和 clang 3.5 来运行了测试。gcc 和 clang 的结果很相像，因此我只展示了 gcc 的；完整的结果集合包含在了代码下载打包文件中，链接在上面。
 
 
-![Results for g++ 4.8, Linux Mint 17.1, Core i5-4570S](/Asserts/Images//attachment/album/201704/17/111621xgmkx05g5i4xm003.png "Results for g++ 4.8, Linux Mint 17.1, Core i5-4570S")
+![Results for g++ 4.8, Linux Mint 17.1, Core i5-4570S](/Asserts/Images/album/201704/17/111621xgmkx05g5i4xm003.png "Results for g++ 4.8, Linux Mint 17.1, Core i5-4570S")
 
 
 大部分结果和 Windows 很相似，因此我只高亮了一些有趣的不同点。
@@ -197,7 +197,7 @@ UM 由于要释放每一个元素，所以在所有的负载中都比其它慢�
 ---
 
 
-via: <http://reedbeta.com/blog/Asserts/Images/-oriented-hash-table/>
+via: <http://reedbeta.com/blog/data-oriented-hash-table/>
 
 
 作者：[Nathan Reed](http://reedbeta.com/about/) 译者：[sanfusu](https://github.com/sanfusu) 校对：[wxy](https://github.com/wxy)

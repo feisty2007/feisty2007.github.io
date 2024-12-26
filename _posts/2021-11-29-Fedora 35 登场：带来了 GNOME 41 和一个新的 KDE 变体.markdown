@@ -15,7 +15,7 @@ tags:	[linuxcn,Fedora]
 > 
 
 
-![](/Asserts/Images//attachment/album/202111/04/092117daga2ccxul4f4xq2.png)
+![](/Asserts/Images/album/202111/04/092117daga2ccxul4f4xq2.png)
 
 
 在测试版发布几周后，Fedora 35 稳定版终于来了！这个版本带来了一些关键性的改进，我们将在这里介绍它们。
@@ -42,7 +42,7 @@ Fedora 因其对最新桌面环境的支持而闻名，而这一点在这个版�
 #### GNOME 41
 
 
-![](/Asserts/Images//attachment/album/202111/04/092118f49lzud4yy354033.png)
+![](/Asserts/Images/album/202111/04/092118f49lzud4yy354033.png)
 
 
 Fedora 35 工作站现在搭载了目前最受欢迎的 GNOME 41。这意味着它有了新的“<ruby> 连接 <rt>  Connections </rt></ruby>”应用、显著改进的软件中心，以及一些很棒的多任务控制。
@@ -57,7 +57,7 @@ Fedora 35 工作站现在搭载了目前最受欢迎的 GNOME 41。这意味着�
 #### KDE Plasma 5.22
 
 
-![](/Asserts/Images//attachment/album/202111/04/092120q6vdb7nl7ve6d74d.png)
+![](/Asserts/Images/album/202111/04/092120q6vdb7nl7ve6d74d.png)
 
 
 不过，这个版本并不包括最近发布的 Plasma 5.23，而是选择了 [Plasma 5.22](https://news.itsfoss.com/kde-plasma-5-22-release/)。不过，这是可以理解的，因为 Fedora 团队只有一周的时间。
@@ -69,7 +69,7 @@ Fedora 35 工作站现在搭载了目前最受欢迎的 GNOME 41。这意味着�
 ### 新的 KDE 版本：Fedora Kinoite
 
 
-![](/Asserts/Images//attachment/album/202111/04/092121paw9vsfi5n8wsbev.jpg)
+![](/Asserts/Images/album/202111/04/092121paw9vsfi5n8wsbev.jpg)
 
 
 Fedora Kinoite 采用 KDE Plasma 桌面，并且它是基于 rpm-ostree 技术的。你可以得到开箱即用的 Flatpak 应用程序支持，以轻松安装软件。

@@ -15,7 +15,7 @@ tags:	[linuxcn,openSUSE]
 > 
 
 
-![opensuse 15.4](/Asserts/Images//attachment/album/202206/11/111735uv554nbay5o4obt5.jpg)
+![opensuse 15.4](/Asserts/Images/album/202206/11/111735uv554nbay5o4obt5.jpg)
 
 
 即将到来的 openSUSE 小发布版本终于来了。如果你使用 openSUSE 作为你日常使用的桌面或服务器版本，你现在可能已经测试候选版本好几周了。

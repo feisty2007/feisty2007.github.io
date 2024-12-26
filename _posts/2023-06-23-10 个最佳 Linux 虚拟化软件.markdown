@@ -7,7 +7,7 @@ tags:	[linuxcn,虚拟机]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/16/100318znegvvjnmn7vflln.jpg)
+![](/Asserts/Images/album/202306/16/100318znegvvjnmn7vflln.jpg)
 
 
 
@@ -33,7 +33,7 @@ tags:	[linuxcn,虚拟机]
 ### 1、VirtualBox
 
 
-![VirtualBox 运行 Ubuntu](/Asserts/Images//attachment/album/202306/16/100351mz1vzd805m6ev834.png)
+![VirtualBox 运行 Ubuntu](/Asserts/Images/album/202306/16/100351mz1vzd805m6ev834.png)
 
 
 [VirtualBox](https://www.virtualbox.org:443/) 是一款备受赞誉的开源虚拟机程序，适用于 Linux、Windows 和 macOS。
@@ -57,7 +57,7 @@ tags:	[linuxcn,虚拟机]
 ### 2、OpenVZ
 
 
-![OpenVZ](/Asserts/Images//attachment/album/202306/16/100351aa6byyg6gxml6f6x.jpg)
+![OpenVZ](/Asserts/Images/album/202306/16/100351aa6byyg6gxml6f6x.jpg)
 
 
 想在服务器上创建隔离的 Linux 容器吗？[OpenVZ](https://openvz.org:443/) 可以帮助你。
@@ -112,7 +112,7 @@ KVM 可以将 Linux 主机转换为运行虚拟机的虚拟化管理程序，以
 ### 4、GNOME Boxes
 
 
-![GNOME Boxes](/Asserts/Images//attachment/album/202306/16/100351gfj3vvwggd88f8ij.png)
+![GNOME Boxes](/Asserts/Images/album/202306/16/100351gfj3vvwggd88f8ij.png)
 
 
 GNOME Boxes 是最简单的虚拟化程序，适用于希望尽快下载和测试发行版的用户。
@@ -131,7 +131,7 @@ GNOME Boxes 是最简单的虚拟化程序，适用于希望尽快下载和测�
 ### 5、VMware Workstation（非自由及开源软件）
 
 
-![Linux 上的 VMware](/Asserts/Images//attachment/album/202306/16/100351vufudkbmluu7u7ku.jpg)
+![Linux 上的 VMware](/Asserts/Images/album/202306/16/100351vufudkbmluu7u7ku.jpg)
 
 
 [VMware](https://www.vmware.com:443/products/workstation-player.html) 是一款非常受欢迎的 Linux、Windows 和 macOS 虚拟机程序。
@@ -170,7 +170,7 @@ GNOME Boxes 是最简单的虚拟化程序，适用于希望尽快下载和测�
 ### 7、oVirt
 
 
-![oVirt](/Asserts/Images//attachment/album/202306/16/100352m2kqj7qgqy1qj7d7.png)
+![oVirt](/Asserts/Images/album/202306/16/100352m2kqj7qgqy1qj7d7.png)
 
 
 [oVirt](https://www.ovirt.org:443/) 是一个优秀的开源解决方案，适用于寻找管理服务器架构的社区和企业。它是一个利用 KVM 的管理工具。
@@ -194,7 +194,7 @@ GNOME Boxes 是最简单的虚拟化程序，适用于希望尽快下载和测�
 ### 8、Proxmox
 
 
-![Proxmox](/Asserts/Images//attachment/album/202306/16/100352tbffcbun5btx5b8v.png)
+![Proxmox](/Asserts/Images/album/202306/16/100352tbffcbun5btx5b8v.png)
 
 
 [Proxmox](https://itsfoss.comproxmox.com/) 是另一个针对企业市场的开源虚拟化平台。
@@ -213,7 +213,7 @@ GNOME Boxes 是最简单的虚拟化程序，适用于希望尽快下载和测�
 ### 9、QEMU
 
 
-![QEMU](/Asserts/Images//attachment/album/202306/16/100353nhhqq0x8jazrj0dx.png)
+![QEMU](/Asserts/Images/album/202306/16/100353nhhqq0x8jazrj0dx.png)
 
 
 [QEMU](https://www.qemu.org:443/) 是一个很棒的虚拟机程序（及模拟器），可在多个平台上运行。
@@ -238,7 +238,7 @@ GNOME Boxes 是最简单的虚拟化程序，适用于希望尽快下载和测�
 ### 10、Hyper-V
 
 
-![Hyper-V](/Asserts/Images//attachment/album/202306/16/100353aee5i333ebkuxenj.jpg)
+![Hyper-V](/Asserts/Images/album/202306/16/100353aee5i333ebkuxenj.jpg)
 
 
 [Hyper-V](https://learn.microsoft.com:443/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview) 是一种与微软 Windows 操作系统捆绑在一起的虚拟化管理程序。

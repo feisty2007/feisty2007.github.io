@@ -7,10 +7,10 @@ tags:	[linuxcn,Ubuntu,技嘉,Brave]
 ---
 
 
-![](/Asserts/Images//attachment/album/202306/01/153328i3ov3wcqw312cvpi.jpg)
+![](/Asserts/Images/album/202306/01/153328i3ov3wcqw312cvpi.jpg)
 
 
-![](/Asserts/Images//attachment/album/202306/01/153339dd7j7727dyqy7je2.jpg)
+![](/Asserts/Images/album/202306/01/153339dd7j7727dyqy7je2.jpg)
 
 
 ### Ubuntu 将发布纯 Snap 版的不可变 Linux
@@ -35,7 +35,7 @@ tags:	[linuxcn,Ubuntu,技嘉,Brave]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/01/153354i22m21g2wa731pa3.jpg)
+![](/Asserts/Images/album/202306/01/153354i22m21g2wa731pa3.jpg)
 
 
 ### 数百万技嘉主板出厂时内置不安全的后门
@@ -60,7 +60,7 @@ tags:	[linuxcn,Ubuntu,技嘉,Brave]
 > 
 
 
-![](/Asserts/Images//attachment/album/202306/01/153407cwsbwog21xx5cwxb.jpg)
+![](/Asserts/Images/album/202306/01/153407cwsbwog21xx5cwxb.jpg)
 
 
 ### Brave 浏览器用户每天为其添加数以百万计的新网页

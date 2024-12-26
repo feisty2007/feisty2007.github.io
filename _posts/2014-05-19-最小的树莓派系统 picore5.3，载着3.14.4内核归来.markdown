@@ -7,7 +7,7 @@ tags:	[linuxcn,树莓派,Tiny Core]
 ---
 
 
-![](/Asserts/Images//attachment/album/201405/24/232535yya4nyi0yv7n4evh.jpg)
+![](/Asserts/Images/album/201405/24/232535yya4nyi0yv7n4evh.jpg)
 
 
 **Tiny Core团队已经宣布，picore 5.3（一个Tiny Core Linux 在树莓派上的移植），刚刚发布了一个新的版本，现在可供下载。** 

@@ -7,10 +7,10 @@ tags:	[linuxcn,互联网,Go,AI]
 ---
 
 
-![](/Asserts/Images//attachment/album/202312/11/182626bg1z3s75ml83j790.jpg)
+![](/Asserts/Images/album/202312/11/182626bg1z3s75ml83j790.jpg)
 
 
-![](/Asserts/Images//attachment/album/202312/11/182637xiuf1211ijufvq4f.png)
+![](/Asserts/Images/album/202312/11/182637xiuf1211ijufvq4f.png)
 
 
 ### #1 Go 程序员大多使用 Linux 或 MacOS
@@ -38,7 +38,7 @@ Go 团队在八月份对 Go 开发者进行了一项调查，调查结果显示 
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/11/182657w25z8hlf0dfl08lr.png)
+![](/Asserts/Images/album/202312/11/182657w25z8hlf0dfl08lr.png)
 
 
 ### #2 欧盟就《人工智能法》的推出达成共识
@@ -66,7 +66,7 @@ Go 团队在八月份对 Go 开发者进行了一项调查，调查结果显示 
 > 
 
 
-![](/Asserts/Images//attachment/album/202312/11/182718wvkzck7hkfk7vhhh.png)
+![](/Asserts/Images/album/202312/11/182718wvkzck7hkfk7vhhh.png)
 
 
 ### #3 让网速感觉更快的新标准 L4S

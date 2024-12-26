@@ -7,7 +7,7 @@ tags:	[linuxcn,ARChon,Chrome,Android]
 ---
 
 
-![Android, Chrome, Ubuntu](/Asserts/Images//attachment/album/201410/25/213959sqjtiv8t2j22ibgg.jpg)
+![Android, Chrome, Ubuntu](/Asserts/Images/album/201410/25/213959sqjtiv8t2j22ibgg.jpg)
 
 
 **Google最近发布了首批[能在Chrome OS本地运行的安卓应用集](http://www.omgchrome.com/first-4-chrome-android-apps-released/)，通过‘安卓运行时’扩展完成了该壮举。**
@@ -19,7 +19,7 @@ tags:	[linuxcn,ARChon,Chrome,Android]
 [弗拉德·菲利波夫](https://github.com/vladikoff/)的[chromeos-apk脚本](https://github.com/vladikoff/chromeos-apk)和[ARChon安卓运行时扩展](https://github.com/vladikoff/chromeos-apk/blob/master/archon.md)手拉手一起开展工作，将安卓应用带进了Windows，Mac和Linux桌面上的Chrome中。
 
 
-![IMDB, Flipboard and Twitter Android Apps running on Ubuntu 14.04 LTS](/Asserts/Images//attachment/album/201410/25/214001ab650uwb8u2l7tld.jpg)
+![IMDB, Flipboard and Twitter Android Apps running on Ubuntu 14.04 LTS](/Asserts/Images/album/201410/25/214001ab650uwb8u2l7tld.jpg)
 
 
 *运行在Ubuntu 14.04 LTS上的安卓应用：IMDB，Flipboard和Twitter*
@@ -61,7 +61,7 @@ sudo apt-get install google-chrome-unstable
 要安装它，打开Google Chrome，点击汉堡式菜单按钮，然后导航到扩展页。检查‘启用开发者模式’并点击‘加载解包的扩展’按钮。
 
 
-![](/Asserts/Images//attachment/album/201410/25/214003phmxxtubcu1ch0x0.jpg)
+![](/Asserts/Images/album/201410/25/214003phmxxtubcu1ch0x0.jpg)
 
 
 ‘安卓运行时’扩展本身不会做太多事情，所以你需要从安卓应用创建兼容包。要完成这项工作，你需要‘[chromeos-apk](https://github.com/vladikoff/chromeos-apk/blob/master/README.md)’[命令行Javascript工具](https://github.com/vladikoff/chromeos-apk/blob/master/README.md)，它可以从“Node 封装模块管理器（npm ）”安装。
@@ -97,7 +97,7 @@ npm install -g chromeos-apk
 根据你的配置，你可能需要过会儿使用sudo来运行。如果你不喜欢[通过sudo安装npm模块，你可以](http://stackoverflow.com/questions/19352976/npm-modules-wont-install-globally-without-sudo/21712034#21712034)试着骗过它。
 
 
-![](/Asserts/Images//attachment/album/201410/25/214004ukx110i73o02h0x1.jpg)
+![](/Asserts/Images/album/201410/25/214004ukx110i73o02h0x1.jpg)
 
 
 现在，搞定了。去Google找找你想要试试的应用的APK吧，请牢记**不是所有的安卓应用都会工作**，而**那些可以工作的也未必工作得很好**，或者缺少功能。
@@ -115,7 +115,7 @@ chromeos-apk replaceme.apk --archon
 该命令将花一点时间来完成这项工作，也许也就是一眨眼的时间。[实际上，不需要眨眼的时间](https://www.youtube.com/watch?v=jKXLkWrBo7o)
 
 
-![](/Asserts/Images//attachment/album/201410/25/214005q808hy99vtk8t89v.jpg)
+![](/Asserts/Images/album/201410/25/214005q808hy99vtk8t89v.jpg)
 
 
 现在，在你的Home文件夹内有个ARChon生成的Chrome APK extension-y folder-y这样的东西。所有剩下来要做的事，就是安装并查看它是否正常工作！

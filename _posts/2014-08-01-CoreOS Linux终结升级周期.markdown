@@ -39,7 +39,7 @@ CoreOS公司声称，CoreOS将会和这些发行版不同，它将不会有重�
 CoreUpdate可以同时管理多个机器，而且提供了回滚功能——在更新引起问题可使用。
 
 
-![](/Asserts/Images//attachment/album/201408/08/163930o16iiijk7z1hi6dj.png)
+![](/Asserts/Images/album/201408/08/163930o16iiijk7z1hi6dj.png)
 
 
 CoreOS于去年十二月发布，它的设计旨在[关注](http://www.networkworld.com/article/2177120/cloud-computing/coreos-linux-distro-lands-on-the-google-cloud-platform.html)开源操作系统内核的新兴使用——用于大量基于云计算的虚拟服务器。

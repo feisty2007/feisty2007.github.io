@@ -7,7 +7,7 @@ tags:	[linuxcn,端口]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/01/234217b59y5p8yit96biv9.jpg)
+![](/Asserts/Images/album/201904/01/234217b59y5p8yit96biv9.jpg)
 
 
 这是一个很重要的话题，不仅对 Linux 管理员而言，对于我们大家而言也非常有帮助。我的意思是说对于工作在 IT 基础设施行业的用户来说，了解这个话题也是非常有用的。他们需要在执行下一步操作前，检查 Linux 服务器上某个端口是否开启。

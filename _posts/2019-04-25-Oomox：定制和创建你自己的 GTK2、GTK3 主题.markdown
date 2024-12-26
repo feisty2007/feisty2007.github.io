@@ -7,7 +7,7 @@ tags:	[linuxcn,主题]
 ---
 
 
-![](/Asserts/Images//attachment/album/201904/04/114904fztfzetevsee1asu.png)
+![](/Asserts/Images/album/201904/04/114904fztfzetevsee1asu.png)
 
 
 主题和可视化定制是 Linux 的主要优势之一。由于所有代码都是开源的，因此你可以比 Windows/Mac OS 更大程度上地改变 Linux 系统的外观和行为方式。GTK 主题可能是人们定制 Linux 桌面的最流行方式。GTK 工具包被各种桌面环境使用，如 Gnome、Cinnamon、Unity、XFC E和 budgie。这意味着为 GTK 制作的单个主题只需很少的修改就能应用于任何这些桌面环境。
@@ -69,7 +69,7 @@ $ flatpak run com.github.themix_project.Oomox
 #### 主题定制
 
 
-![](/Asserts/Images//attachment/album/201904/04/114905zsgsgrresxxbx2rh.png)
+![](/Asserts/Images/album/201904/04/114905zsgsgrresxxbx2rh.png)
 
 
 你可以更改几乎每个 UI 元素的颜色，例如：
@@ -88,7 +88,7 @@ $ flatpak run com.github.themix_project.Oomox
 使用某些像 Numix 这样的样式，你甚至可以更改标题渐变，边框宽度和面板透明度等内容。你还可以为主题添加黑暗模式，该模式将从默认主题自动创建。
 
 
-![](/Asserts/Images//attachment/album/201904/04/114906avfqe3rrompdlayv.png)
+![](/Asserts/Images/album/201904/04/114906avfqe3rrompdlayv.png)
 
 
 #### 图标集定制
@@ -112,7 +112,7 @@ $ flatpak run com.github.themix_project.Oomox
 然后，只需按下“应用 Spotify 主题”按钮，你就会看到这个窗口：
 
 
-![](/Asserts/Images//attachment/album/201904/04/114907icrvnwtu202xh0vn.png)
+![](/Asserts/Images/album/201904/04/114907icrvnwtu202xh0vn.png)
 
 
 点击应用即可。
@@ -124,13 +124,13 @@ $ flatpak run com.github.themix_project.Oomox
 根据自己的喜好自定义主题后，可以通过单击左上角的重命名按钮重命名主题：
 
 
-![](/Asserts/Images//attachment/album/201904/04/114908fxxcttmkkczkqc0k.png)
+![](/Asserts/Images/album/201904/04/114908fxxcttmkkczkqc0k.png)
 
 
 然后，只需点击“导出主题”将主题导出到你的系统。
 
 
-![](/Asserts/Images//attachment/album/201904/04/114910xpf0m3qdfuucujmf.png)
+![](/Asserts/Images/album/201904/04/114910xpf0m3qdfuucujmf.png)
 
 
 你也可以只导出图标集或终端主题。

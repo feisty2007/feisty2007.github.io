@@ -7,10 +7,10 @@ tags:	[linuxcn,Debian,Twitter,时钟]
 ---
 
 
-![](/Asserts/Images//attachment/album/202308/17/154324xehr1iht1fphpggt.jpg)
+![](/Asserts/Images/album/202308/17/154324xehr1iht1fphpggt.jpg)
 
 
-![](/Asserts/Images//attachment/album/202308/17/154333ewkjijcexacecs2z.jpg)
+![](/Asserts/Images/album/202308/17/154333ewkjijcexacecs2z.jpg)
 
 
 ### Debian Linux 庆祝 30 周年
@@ -35,7 +35,7 @@ tags:	[linuxcn,Debian,Twitter,时钟]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/17/154345v5qbpakik9vy7pvh.jpg)
+![](/Asserts/Images/album/202308/17/154345v5qbpakik9vy7pvh.jpg)
 
 
 ### Twitter 短域名被发现对特定域名延迟跳转
@@ -60,7 +60,7 @@ tags:	[linuxcn,Debian,Twitter,时钟]
 > 
 
 
-![](/Asserts/Images//attachment/album/202308/17/154406xpov8wurrrobwjxv.jpg)
+![](/Asserts/Images/album/202308/17/154406xpov8wurrrobwjxv.jpg)
 
 
 ### Windows 的一项功能错误可能导致时钟被重置偏离数月

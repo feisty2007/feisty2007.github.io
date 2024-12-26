@@ -10,7 +10,7 @@ tags:	[linuxcn,WINE]
 Wine,Linux上最流行也是最有力的软件, 可以顺利地在Linux平台上运行Windows程序和游戏。
 
 
-![安装Wine ](/Asserts/Images//attachment/album/201408/30/211803yk7vlgkajllblkug.png)
+![安装Wine ](/Asserts/Images/album/201408/30/211803yk7vlgkajllblkug.png)
 
 
 这篇文章教你怎么在像CentOS, Fedora, Ubuntu, Linux Mint一样基于**Red Hat**和**Debian**的系统上安装最新的**Wine 1.7**。

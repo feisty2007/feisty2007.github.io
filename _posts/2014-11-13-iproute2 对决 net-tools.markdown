@@ -19,7 +19,7 @@ tags:	[linuxcn,iproute2,net-tools,ifconfig,netstat]
 对于那些想要转到使用iproute2的用户，有必要了解下面有关net-tools和iproute2的众多对比。
 
 
-![](/Asserts/Images//attachment/album/201411/27/210202acx7xn665a6c6m85.png)
+![](/Asserts/Images/album/201411/27/210202acx7xn665a6c6m85.png)
 
 
 ### 显示所有已连接的网络接口
@@ -46,7 +46,7 @@ $ ip link show
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/27/210415ovdbxplhxg2god9i.jpg)
+![](/Asserts/Images/album/201411/27/210415ovdbxplhxg2god9i.jpg)
 
 
 ### 激活或停用网络接口
@@ -161,7 +161,7 @@ $ ip addr show dev eth1
 同样，如果接口分配了多个IP地址，iproute2会显示出所有地址，而net-tools只能显示一个IP地址。
 
 
-![](/Asserts/Images//attachment/album/201411/27/210421xumjgapd9t7bo73t.jpg)
+![](/Asserts/Images/album/201411/27/210421xumjgapd9t7bo73t.jpg)
 
 
 ### 为网络接口分配IPv6地址
@@ -214,7 +214,7 @@ $ ip -6 addr show dev eth1
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/27/210425rxjldhuexlujhpfu.jpg)
+![](/Asserts/Images/album/201411/27/210425rxjldhuexlujhpfu.jpg)
 
 
 ### 移除网络设备的IPv6地址
@@ -300,7 +300,7 @@ $ ip route show
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/27/210431gkv9r6l9fala66ag.jpg)
+![](/Asserts/Images/album/201411/27/210431gkv9r6l9fala66ag.jpg)
 
 
 ### 添加和修改默认路由
@@ -381,7 +381,7 @@ $ ss -l
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/27/210436jts9v2k55brwwncy.jpg)
+![](/Asserts/Images/album/201411/27/210436jts9v2k55brwwncy.jpg)
 
 
 ### 查看ARP表
@@ -408,7 +408,7 @@ $ ip neigh
 
 ```
 
-![](/Asserts/Images//attachment/album/201411/27/210439r7kwu9zwcgwgpggf.jpg)
+![](/Asserts/Images/album/201411/27/210439r7kwu9zwcgwgpggf.jpg)
 
 
 ### 添加或删除静态ARP项

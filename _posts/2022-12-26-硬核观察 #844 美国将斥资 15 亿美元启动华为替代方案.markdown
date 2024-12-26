@@ -7,10 +7,10 @@ tags:	[linuxcn,华为,Rust,X.org]
 ---
 
 
-![](/Asserts/Images//attachment/album/202212/08/183914m5n5ll5nl55tisbb.jpg)
+![](/Asserts/Images/album/202212/08/183914m5n5ll5nl55tisbb.jpg)
 
 
-![](/Asserts/Images//attachment/album/202212/08/183922ppv00o11xgx1v5gp.jpg)
+![](/Asserts/Images/album/202212/08/183922ppv00o11xgx1v5gp.jpg)
 
 
 ### 美国将斥资 15 亿美元启动华为替代方案
@@ -35,7 +35,7 @@ tags:	[linuxcn,华为,Rust,X.org]
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/08/183932e7dijw3ith5qpqdz.jpg)
+![](/Asserts/Images/album/202212/08/183932e7dijw3ith5qpqdz.jpg)
 
 
 ### GCC 即将加入对 Rust 的支持
@@ -60,7 +60,7 @@ GCC 不仅仅是 C 语言的编译器，其实它是“GNU 编译器集合”，
 > 
 
 
-![](/Asserts/Images//attachment/album/202212/08/183943ejijaqqq26aqxxjj.jpg)
+![](/Asserts/Images/album/202212/08/183943ejijaqqq26aqxxjj.jpg)
 
 
 ### 一堆 X.org 组件得到了更新，但无关紧要

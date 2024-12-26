@@ -7,10 +7,10 @@ tags:	[linuxcn,Snap,开源供应链,微软]
 ---
 
 
-![](/Asserts/Images//attachment/album/202208/31/181134rjdj7p711jsxt7dv.jpg)
+![](/Asserts/Images/album/202208/31/181134rjdj7p711jsxt7dv.jpg)
 
 
-![](/Asserts/Images//attachment/album/202208/31/181215dwcczvhgjhhj9aq7.jpg)
+![](/Asserts/Images/album/202208/31/181215dwcczvhgjhhj9aq7.jpg)
 
 
 ### Canonical 将 Linux 游戏组件 Snap 化
@@ -35,7 +35,7 @@ Canonical 的工程师正在开发 GameMode Snap。GameMode 是 Feral 的守护�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/31/181229txpap4op7qrfqqfo.jpg)
+![](/Asserts/Images/album/202208/31/181229txpap4op7qrfqqfo.jpg)
 
 
 ### 谷歌悬赏开源供应链安全漏洞
@@ -60,7 +60,7 @@ Canonical 的工程师正在开发 GameMode Snap。GameMode 是 Feral 的守护�
 > 
 
 
-![](/Asserts/Images//attachment/album/202208/31/181241ygfi3dx24sgrsi4y.jpg)
+![](/Asserts/Images/album/202208/31/181241ygfi3dx24sgrsi4y.jpg)
 
 
 ### 亚马逊和谷歌指责微软云计算的垄断行为

@@ -15,7 +15,7 @@ tags:	[linuxcn,日记]
 > 
 
 
-![](/Asserts/Images//attachment/album/202101/31/082622p6wgh7szzuvevug4.jpg "Note taking hand writing")
+![](/Asserts/Images/album/202101/31/082622p6wgh7szzuvevug4.jpg "Note taking hand writing")
 
 
 在前几年，这个年度系列涵盖了单个的应用。今年，我们除了关注 2021 年的策略外，还将关注一体化解决方案。欢迎来到 2021 年 21 天生产力的第十天。
@@ -27,7 +27,7 @@ tags:	[linuxcn,日记]
 几个世纪以来，人们一直在写日记。它们是一种方便的信息保存方式。它们有很多形式，比如意大利的 [Zibaldone](https://en.wikipedia.org/wiki/Zibaldone)、[备忘录](https://en.wikipedia.org/wiki/Commonplace_book)，或者记录今天做了什么的事件日记。
 
 
-![Notebook folders](/Asserts/Images//attachment/album/202101/31/082636hmtxfv3an3mme3oo.png "Notebook folders")
+![Notebook folders](/Asserts/Images/album/202101/31/082636hmtxfv3an3mme3oo.png "Notebook folders")
 
 
 *（Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -36,7 +36,7 @@ tags:	[linuxcn,日记]
 为什么我们要写某种日记呢？第一个原因是为了让我们不至于把所有的事情都记在脑子里。我们中没有多少人有<ruby> <a href="https://en.wikipedia.org/wiki/Eidetic_memory">  遗觉记忆 </a> <rt>  Eidetic memory </rt></ruby>，维护运行日记或一组笔记可以让我们更容易地参考我们之前做的一些事情。日记也更容易分享，因为它们可以在聊天、邮件中复制/粘贴。正如 [Robert Boyce](https://en.wikipedia.org/wiki/Robert_Boyce) 的名言：“知识就是力量。知识共享使力量倍增。”知识的共享是开源的一个内在组成部分。
 
 
-![Today's journal](/Asserts/Images//attachment/album/202101/31/082637cgka7okzgnnmibki.png "Today's journal")
+![Today's journal](/Asserts/Images/album/202101/31/082637cgka7okzgnnmibki.png "Today's journal")
 
 
 *今天的日记 （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*
@@ -54,7 +54,7 @@ Emacs Org 模式有一个热键组合，可以“捕捉”事物并将其放入�
 Kontact 的 KNotes 组件会自动将日期和时间添加到新笔记中。
 
 
-![Finding a note](/Asserts/Images//attachment/album/202101/31/082637ytthleszyevuv7ve.png "Finding a note")
+![Finding a note](/Asserts/Images/album/202101/31/082637ytthleszyevuv7ve.png "Finding a note")
 
 
 *查找笔记 （Kevin Sonney, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）*

@@ -16,7 +16,7 @@ tags:	[linuxcn,微软,字体]
 ### 为什么微软字体不被默认安装在 Linux 中？
 
 
-![](/Asserts/Images//attachment/album/202004/05/100617f53zekt8833t5b3u.png)
+![](/Asserts/Images/album/202004/05/100617f53zekt8833t5b3u.png)
 
 
 Times New Roman、Arial 等字体都是微软的，并且这些字体不是开源的。很多 Linux 发行版默认不提供专有软件，以避免授权问题。
@@ -59,13 +59,13 @@ sudo apt update && sudo apt install ttf-mscorefonts-installer
 当微软的最终用户协议出现时，按 `tab` 键来选择 “OK” ，并按回车键。
 
 
-![](/Asserts/Images//attachment/album/202004/05/100739fm17hnnn75cf7znc.png)
+![](/Asserts/Images/album/202004/05/100739fm17hnnn75cf7znc.png)
 
 
 单击 “Yes” 来接受微软的协议：
 
 
-![](/Asserts/Images//attachment/album/202004/05/100755x1uz1al1l1v88w80.png)
+![](/Asserts/Images/album/202004/05/100755x1uz1al1l1v88w80.png)
 
 
 当安装完成后，你应该使用下面的命令来更新字体缓存：
@@ -76,13 +76,13 @@ sudo apt update && sudo apt install ttf-mscorefonts-installer
 sudo fc-cache -f -v
 ```
 
-![](/Asserts/Images//attachment/album/202004/05/100810vxmeea6phx6sp0wh.png)
+![](/Asserts/Images/album/202004/05/100810vxmeea6phx6sp0wh.png)
 
 
 如果你现在打开 LibreOffice ，你将看到微软 [TrueType 字体](https://en.wikipedia.org/wiki/TrueType) 。
 
 
-![](/Asserts/Images//attachment/album/202004/05/100825o5z8ui1ub428fi8q.png)
+![](/Asserts/Images/album/202004/05/100825o5z8ui1ub428fi8q.png)
 
 
 如果意外地拒绝了许可协议，你可以使用这个命令来重新安装安装程序：

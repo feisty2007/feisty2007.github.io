@@ -15,7 +15,7 @@ tags:	[linuxcn,7zip,7z]
 > 
 
 
-![](/Asserts/Images//attachment/album/201905/14/154515xqy7nbq6eyjzu7qj.jpg)
+![](/Asserts/Images/album/201905/14/154515xqy7nbq6eyjzu7qj.jpg)
 
 
 [7Zip](https://www.7-zip.org/)（更适当的写法是 7-Zip）是一种在 Windows 用户中广泛流行的归档格式。一个 7Zip 归档文件通常以 .7z 扩展结尾。它大部分是开源的，除了包含一些少量解压 rar 文件的代码。
@@ -35,7 +35,7 @@ tags:	[linuxcn,7zip,7z]
 > 
 
 
-![](/Asserts/Images//attachment/album/201905/14/155501xzl2lnf4ekgvk4bf.png)
+![](/Asserts/Images/album/201905/14/155501xzl2lnf4ekgvk4bf.png)
 
 
 不要担心，你可以轻松的在 Ubuntu 和其他 Linux 发行版中安装 7zip。
@@ -105,7 +105,7 @@ sudo apt install p7zip-full p7zip-rar
 你可以在图形界面压缩文件为 7zip 归档格式。简单的在文件或目录上右击，选择“压缩”。你应该看到几种类型的文件格式选项。选择 .7z。
 
 
-![7zip Archive Ubuntu](/Asserts/Images//attachment/album/201905/14/155503pywvbydeowybyeke.png)
+![7zip Archive Ubuntu](/Asserts/Images/album/201905/14/155503pywvbydeowybyeke.png)
 
 
 作为替换，你也可以在命令行中使用。这里是你可以用来压缩的命令：

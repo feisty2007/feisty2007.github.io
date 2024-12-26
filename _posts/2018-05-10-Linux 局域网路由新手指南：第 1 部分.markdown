@@ -7,7 +7,7 @@ tags:	[linuxcn,路由,IPv4,ipcalc]
 ---
 
 
-![](/Asserts/Images//attachment/album/201805/19/104432ydrvfz6cqdr7q28d.jpg)
+![](/Asserts/Images/album/201805/19/104432ydrvfz6cqdr7q28d.jpg)
 
 
 前面我们学习了 [IPv6 路由](https://www.linux.com/learn/intro-to-linux/2017/7/practical-networking-linux-admins-ipv6-routing)。现在我们继续深入学习 Linux 中的 IPv4 路由的基础知识。我们从硬件概述、操作系统和 IPv4 地址的基础知识开始，下周我们将继续学习它们如何配置，以及测试路由。

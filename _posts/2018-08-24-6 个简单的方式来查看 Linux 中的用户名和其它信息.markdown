@@ -7,7 +7,7 @@ tags:	[linuxcn,passwd,user]
 ---
 
 
-![](/Asserts/Images//attachment/album/201808/25/085844v71epo9vqgac6au2.jpg)
+![](/Asserts/Images/album/201808/25/085844v71epo9vqgac6au2.jpg)
 
 
 这是一个非常基础的话题，在 Linux 中，每个人都知道如何使用 `id` 来查找用户信息。一些用户也从 `/etc/passwd` 文件中过滤用户信息。

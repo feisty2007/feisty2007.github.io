@@ -10,7 +10,7 @@ tags:	[linuxcn,iLinux,Linux,图标,安装,教程,技巧]
 **Linux Icons可能是Linux平台上最大的图标收藏铺，它的创作灵感来源于Linux，Windows和Mac OS系统。**
 
 
-![](/Asserts/Images//attachment/album/201310/14/201157ieottti45ikwligt.png)
+![](/Asserts/Images/album/201310/14/201157ieottti45ikwligt.png)
 
 
 在Linux平台可用的高品质图标甚少，即使有几百种不同的软件包。

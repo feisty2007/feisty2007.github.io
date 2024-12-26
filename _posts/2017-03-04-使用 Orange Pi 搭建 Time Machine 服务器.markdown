@@ -7,7 +7,7 @@ tags:	[linuxcn,Time Machine,备份,Mac,Orange Pi]
 ---
 
 
-![Orange Pi as Time Machine Server](/Asserts/Images//attachment/album/201703/10/084716wwu3ut2dr6rwm3ma.png)
+![Orange Pi as Time Machine Server](/Asserts/Images/album/201703/10/084716wwu3ut2dr6rwm3ma.png)
 
 
 我的工作之一是为各类家用计算机安排进行自动备份，包括存放重要数据的一组 Mac 计算机。我决定使用运行 [Armbian Linux](https://www.armbian.com/) 的便宜的 [Orange Pi](https://www.amazon.com/gp/product/B018W6OTIM/ref=as_li_tl?ie=UTF8&tag=piboards-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B018W6OTIM&linkId=08bd6573c99ddb8a79746c8590776c39) 做实验，目的是希望 [Time Machine](https://support.apple.com/kb/PH25710?locale=en_US) 可以通过网络使用挂载在 Orange Pi 主板上的 USB 驱动器。在这种情况下，我找到并成功地安装了 Netatalk。
@@ -153,7 +153,7 @@ sudo systemctl start netatalk
 此时，你的 Mac 可能已经发现并识别了你的 Pi 设备和网络驱动器。打开 Mac 中的 Finder，看看是否有像下面的内容：
 
 
-![](/Asserts/Images//attachment/album/201703/10/084720kck61gjl7dzm1k9k.png)
+![](/Asserts/Images/album/201703/10/084720kck61gjl7dzm1k9k.png)
 
 
 当然你也可以通过主机名或者 ip 地址访问，比如：
@@ -171,13 +171,13 @@ afp://192.168.1.25
 最后，打开 Mac 上的 Time Machine，然后“选择备份硬盘”，选择你的 Orange pi。
 
 
-![](/Asserts/Images//attachment/album/201703/10/084858p4haaly4hz3y3yan.png)
+![](/Asserts/Images/album/201703/10/084858p4haaly4hz3y3yan.png)
 
 
 这样设置肯定有效，Orange Pi 能够很好的处理进程，不过这可能并不是最快速的备份方式。但是，这个方法比较简单且便宜，并且正如其展示的一样能够正常工作。如果对这些设置你已经成功或者进行了改进，请在下面留言或者发送消息给我。
 
 
-![](/Asserts/Images//attachment/album/201703/10/084903go1hzmcqvsm5jvvc.png)
+![](/Asserts/Images/album/201703/10/084903go1hzmcqvsm5jvvc.png)
 
 
 Amazon 上有售卖 Orange Pi 主板。

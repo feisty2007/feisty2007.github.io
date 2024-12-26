@@ -15,7 +15,7 @@ tags:	[linuxcn,Zorin]
 > 
 
 
-![](/Asserts/Images//attachment/album/202112/10/100703m0r10v1e2515zzra.jpg)
+![](/Asserts/Images/album/202112/10/100703m0r10v1e2515zzra.jpg)
 
 
 [Zorin OS 16](https://news.itsfoss.com/zorin-os-16-release/) 是一个令人印象深刻的版本。但是，如果你正在寻找一个轻量级的发行版或适合旧电脑的东西，这不是一个好的选择。
@@ -36,7 +36,7 @@ Zorin OS 为每个版本都提供了一个由 Xfce 桌面环境驱动的 Lite �
 ### Zorin OS 16 Lite: 有什么新内容？
 
 
-![](/Asserts/Images//attachment/album/202112/10/100704i7xfq7u8fufl0x5l.jpg)
+![](/Asserts/Images/album/202112/10/100704i7xfq7u8fufl0x5l.jpg)
 
 
 在这个版本中，Zorin OS 16 Lite 旨在通过保持最小的资源使用量，带来所有 [Zorin OS 16 中引入的改进](https://news.itsfoss.com/zorin-os-16-features/)。
@@ -58,7 +58,7 @@ Zorin OS 为每个版本都提供了一个由 Xfce 桌面环境驱动的 Lite �
 #### 视觉大修
 
 
-![](/Asserts/Images//attachment/album/202112/10/100705ktx53zfffuiemm6e.png)
+![](/Asserts/Images/album/202112/10/100705ktx53zfffuiemm6e.png)
 
 
 带有 Xfce 4.16 的 Zorin OS 16 Lite 提供了令人耳目一新的用户体验，其精美的主题与 Zorin OS 16（GNOME 版）非常相近。
@@ -73,7 +73,7 @@ Zorin OS 为每个版本都提供了一个由 Xfce 桌面环境驱动的 Lite �
 除了新的视觉变化和功能之外，你还会发现新的可以填补你的桌面的背景。有些壁纸可能只限于 Pro 版。
 
 
-![](/Asserts/Images//attachment/album/202112/10/100706y1yeqeigdyb22c2g.png)
+![](/Asserts/Images/album/202112/10/100706y1yeqeigdyb22c2g.png)
 
 
 #### Pro 版的桌面布局
@@ -82,13 +82,13 @@ Zorin OS 为每个版本都提供了一个由 Xfce 桌面环境驱动的 Lite �
 虽然在 Core 版和 Lite 版中有一些桌面布局的选择，但 Pro 版又为你提供了两个额外的桌面布局。
 
 
-![](/Asserts/Images//attachment/album/202112/10/100707lkvuqpauzjgsjfov.jpg)
+![](/Asserts/Images/album/202112/10/100707lkvuqpauzjgsjfov.jpg)
 
 
 其中一个布局类似于经典的 Windows 设计，另一个布局看起来接近于 ChromeOS。
 
 
-![](/Asserts/Images//attachment/album/202112/10/100708go8yfgdj0yqr0lhr.jpg)
+![](/Asserts/Images/album/202112/10/100708go8yfgdj0yqr0lhr.jpg)
 
 
 你还可以在类似 macOS、GNOME 2 和类似 Windows 列表的布局之间进行选择。
@@ -100,7 +100,7 @@ Zorin OS 为每个版本都提供了一个由 Xfce 桌面环境驱动的 Lite �
 #### 带有窗口预览的任务栏
 
 
-![](/Asserts/Images//attachment/album/202112/10/100709ir8y0ypxyttyiryu.png)
+![](/Asserts/Images/album/202112/10/100709ir8y0ypxyttyiryu.png)
 
 
 桌面功能有一个重要的改进，也就是说，现在当你从任务栏悬停在一个活动窗口上时，你可以很容易地查看该窗口的预览。
@@ -118,7 +118,7 @@ Zorin OS 为每个版本都提供了一个由 Xfce 桌面环境驱动的 Lite �
 #### 其他改进
 
 
-![](/Asserts/Images//attachment/album/202112/10/100710awt66zd55zx5bmt4.png)
+![](/Asserts/Images/album/202112/10/100710awt66zd55zx5bmt4.png)
 
 
 除了关键的变化外，你还会发现一些改进，如禁用遥测的 Firefox 浏览器、新的声音记录器应用、高分辨率显示器的小数点级缩放以及 Rythmbox 应用。

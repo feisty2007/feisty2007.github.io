@@ -7,7 +7,7 @@ tags:	[linuxcn,openSUSE]
 ---
 
 
-![](/Asserts/Images//attachment/album/202106/08/184921thd7vc8qvxbhzt53.jpg)
+![](/Asserts/Images/album/202106/08/184921thd7vc8qvxbhzt53.jpg)
 
 
 
@@ -47,7 +47,7 @@ tags:	[linuxcn,openSUSE]
 除了这个巨大的变化，还有其他几个重要的变化使它成为一个令人激动的版本。
 
 
-![](/Asserts/Images//attachment/album/202106/08/184929ajfq70yzj90aztj9.png)
+![](/Asserts/Images/album/202106/08/184929ajfq70yzj90aztj9.png)
 
 
 对于 Xfce 4.16 桌面，有一些视觉变化，包括新的图标和调色板。设置管理器还增加了一个视觉刷新功能，提供了更清晰的外观。
@@ -62,7 +62,7 @@ tags:	[linuxcn,openSUSE]
 DNF 包管理器有一个更新计划，但是当前没有释放出来，你可以通过后续的维护更新获得它。
 
 
-![](/Asserts/Images//attachment/album/202106/08/184931b9gsd2dkk5vh4v9g.png)
+![](/Asserts/Images/album/202106/08/184931b9gsd2dkk5vh4v9g.png)
 
 
 IBM Z 和 LinuxONE（s390x）是 Leap 15.3 中新支持的两种架构。

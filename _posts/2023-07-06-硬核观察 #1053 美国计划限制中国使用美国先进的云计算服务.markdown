@@ -7,10 +7,10 @@ tags:	[linuxcn,云计算,Canonical,Firefox]
 ---
 
 
-![](/Asserts/Images//attachment/album/202307/05/182139y24fir07t4g7ot07.jpg)
+![](/Asserts/Images/album/202307/05/182139y24fir07t4g7ot07.jpg)
 
 
-![](/Asserts/Images//attachment/album/202307/05/182153arvkrnxl3wkrnll3.jpg)
+![](/Asserts/Images/album/202307/05/182153arvkrnxl3wkrnll3.jpg)
 
 
 ### 美国计划限制中国使用美国先进的云计算服务
@@ -35,7 +35,7 @@ tags:	[linuxcn,云计算,Canonical,Firefox]
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/05/182211lh53nfzi36ca5jce.jpg)
+![](/Asserts/Images/album/202307/05/182211lh53nfzi36ca5jce.jpg)
 
 
 ### Canonical 收回对 LXD 的控制
@@ -60,7 +60,7 @@ LXD 作为 Linux 容器（LXC）的开源容器管理扩展，长期以来一直
 > 
 
 
-![](/Asserts/Images//attachment/album/202307/05/182226g1mzjhzrrm3xmtka.jpg)
+![](/Asserts/Images/album/202307/05/182226g1mzjhzrrm3xmtka.jpg)
 
 
 ### 最后一个支持 Windows 7/8 的 Firefox 版本发布

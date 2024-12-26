@@ -7,7 +7,7 @@ tags:	[linuxcn,Node.js,NodeOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/201606/06/091721jau2d9i1iajj22jh.jpg)
+![](/Asserts/Images/album/201606/06/091721jau2d9i1iajj22jh.jpg)
 
 
 [NodeOS](http://node-os.com/) 是一款基于 [Node.js](https://nodejs.org/en/) 的操作系统，自去年其首个[发布候选版](https://github.com/NodeOS/NodeOS/releases/tag/v1.0-RC1)之后正朝着它的1.0版本进发。

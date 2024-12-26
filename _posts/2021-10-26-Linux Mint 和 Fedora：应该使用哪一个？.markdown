@@ -7,7 +7,7 @@ tags:	[linuxcn,Fedora,Mint]
 ---
 
 
-![](/Asserts/Images//attachment/album/202110/04/123523kzzm3x4yr2ppmfj9.jpg)
+![](/Asserts/Images/album/202110/04/123523kzzm3x4yr2ppmfj9.jpg)
 
 
 Linux Mint 是一个 [为初学者定制的流行的 Linux 发行版](https://itsfoss.com/best-linux-beginners/)，同时为用户提供了与 Windows 类似的体验。事实上，它有 [一些地方比 Ubuntu 做的更好](https://itsfoss.com/linux-mint-vs-ubuntu/)，这使它成为每一类用户的合适选择。
@@ -31,7 +31,7 @@ Linux Mint 是一个 [为初学者定制的流行的 Linux 发行版](https://it
 #### 系统要求 & 硬件兼容性
 
 
-![](/Asserts/Images//attachment/album/202110/04/123531gtupupwufdiudkuw.png)
+![](/Asserts/Images/album/202110/04/123531gtupupwufdiudkuw.png)
 
 
 在选择任何 Linux 发行版之前，你都应该看一下它的系统要求，并检查硬件兼容性。
@@ -43,7 +43,7 @@ Linux Mint 是一个 [为初学者定制的流行的 Linux 发行版](https://it
 是的，官方文件可能提到 1GB 内存就可以起步，但要看实际使用情况。除非你有一台复古的电脑，想为一个特定的目的恢复它，否则它就不在考虑范围之内。
 
 
-![Linux Mint 资源使用情况](/Asserts/Images//attachment/album/202110/04/123533lcabeozhauc3obtf.png)
+![Linux Mint 资源使用情况](/Asserts/Images/album/202110/04/123533lcabeozhauc3obtf.png)
 
 
 在技术上，两者都支持现代的和陈旧的硬件，你只有在安装时才会知道软件/驱动是否支持它。除非你有一个特殊的外围设备或具有特殊功能的硬件组件，否则硬件支持可能不是什么大问题。
@@ -55,7 +55,7 @@ Linux Mint 19 系列仍然提供了对 32 位系统的支持，你可以使用�
 #### 软件更新周期
 
 
-![Linux Mint 更新管理器](/Asserts/Images//attachment/album/202110/04/123534axkx30gxxxqx0kxx.png)
+![Linux Mint 更新管理器](/Asserts/Images/album/202110/04/123534axkx30gxxxqx0kxx.png)
 
 
 Linux Mint 专注于长期发布版（LTS），支持时间为五年。它的维护方式与 Ubuntu 相同。但没有像 Ubuntu 那样提供付费的扩展支持。
@@ -73,7 +73,7 @@ Fedora 不提供 LTS 版本，而是每 6 个月推送一次新的更新，每�
 #### 桌面环境的选择
 
 
-![Linux Mint Cinnamon 版](/Asserts/Images//attachment/album/202110/04/123537lf3868zefjx8jyhi.png)
+![Linux Mint Cinnamon 版](/Asserts/Images/album/202110/04/123537lf3868zefjx8jyhi.png)
 
 
 Linux Mint 提供三种不同的 [桌面环境](https://itsfoss.com/best-linux-desktop-environments/)：MATE、Cinnamon 和 Xfce。它们有相同的更新周期，并从发布之日起支持 5 年。
@@ -82,7 +82,7 @@ Linux Mint 提供三种不同的 [桌面环境](https://itsfoss.com/best-linux-d
 尽管 Fedora 不提供 LTS 版本，但你可以通过 Fedora spins 的形式选择各种桌面。你可以得到 KDE、LXQt、MATE、Cinnamon、LXDE，以及一个内置 i3 平铺窗口管理器的版本。
 
 
-![Fedora 34 with GNOME 40](/Asserts/Images//attachment/album/202110/04/123541kzcl6r7bpz6bpwc2.png)
+![Fedora 34 with GNOME 40](/Asserts/Images/album/202110/04/123541kzcl6r7bpz6bpwc2.png)
 
 
 所以，如果你想有更多的选择，Fedora 可以是一个相当令人激动的选择。
@@ -91,7 +91,7 @@ Linux Mint 提供三种不同的 [桌面环境](https://itsfoss.com/best-linux-d
 #### 软件可用性
 
 
-![Linux Mint 的软件中心和软件包管理器](/Asserts/Images//attachment/album/202110/04/123542ck22ct8t47d2n2n8.png)
+![Linux Mint 的软件中心和软件包管理器](/Asserts/Images/album/202110/04/123542ck22ct8t47d2n2n8.png)
 
 
 Linux Mint（或 Ubuntu）的默认软件库提供了大量可以安装的软件，而 Fedora 的默认软件库只坚持提供开源软件。
@@ -103,7 +103,7 @@ Linux Mint（或 Ubuntu）的默认软件库提供了大量可以安装的软件
 尽管你可以 [在 Fedora 中启用第三方软件库](https://itsfoss.com/fedora-third-party-repos/)，但这又是一个额外的步骤。而且，RPM Fusion 存储库可能没有 Ubuntu 的 universe 存储库那么庞大。
 
 
-![Fedora 34 软件中心](/Asserts/Images//attachment/album/202110/04/123544i4dldy0mzgdxtltg.png)
+![Fedora 34 软件中心](/Asserts/Images/album/202110/04/123544i4dldy0mzgdxtltg.png)
 
 
 所以，对于 Linux Mint 来说，总的来说，你可以得到更多可安装的软件包和各种安装软件的方法，开箱即用。
@@ -142,7 +142,7 @@ Linux Mint（或 Ubuntu）的默认软件库提供了大量可以安装的软件
 考虑到我的电脑上使用的是 NVIDIA GPU，我需要安装专有的驱动程序以获得最佳性能。
 
 
-![](/Asserts/Images//attachment/album/202110/04/123545moy197lcoc47lx14.jpg)
+![](/Asserts/Images/album/202110/04/123545moy197lcoc47lx14.jpg)
 
 
 而且，当我启动 Linux Mint 时，使用“驱动程序管理器”应用程序，安装驱动程序相当容易。
@@ -151,7 +151,7 @@ Linux Mint（或 Ubuntu）的默认软件库提供了大量可以安装的软件
 但是，对于 Fedora，即使我按照我们的 [在 Fedora 中安装 Nvidia 驱动程序](https://itsfoss.com/install-nvidia-drivers-fedora/) 的指南，我在重启时还是出现了一个错误。
 
 
-![在 Fedora 中安装 NVIDIA 驱动程序](/Asserts/Images//attachment/album/202110/04/123546lsmuwjosdormcmzv.png)
+![在 Fedora 中安装 NVIDIA 驱动程序](/Asserts/Images/album/202110/04/123546lsmuwjosdormcmzv.png)
 
 
 不仅如此，由于某些原因，我的有线网络似乎没有被激活，因此，我没有互联网连接。

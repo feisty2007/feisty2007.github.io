@@ -7,10 +7,10 @@ tags:	[linuxcn,Python,GitHub,NFT]
 ---
 
 
-![](/Asserts/Images//attachment/album/202201/29/193819f6ijfu3ju4vzjjpj.jpg)
+![](/Asserts/Images/album/202201/29/193819f6ijfu3ju4vzjjpj.jpg)
 
 
-![](/Asserts/Images//attachment/album/202201/29/193828ajcrlr83jr8but8j.jpg)
+![](/Asserts/Images/album/202201/29/193828ajcrlr83jr8but8j.jpg)
 
 
 ### 洋葱新闻：“Linus 发现 Windows XP 很棒”
@@ -27,7 +27,7 @@ Linux 创始人 Linus Torvalds 在 GitHub 上的 Linux 仓库的 README 中写�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/29/193839n87irhuzaa8ryw68.jpg)
+![](/Asserts/Images/album/202201/29/193839n87irhuzaa8ryw68.jpg)
 
 
 ### 最新版 macOS 12.3 终于移除了 Python 2 的支持
@@ -44,7 +44,7 @@ Linux 创始人 Linus Torvalds 在 GitHub 上的 Linux 仓库的 README 中写�
 > 
 
 
-![](/Asserts/Images//attachment/album/202201/29/193857mzln82ib80i1j8tu.jpg)
+![](/Asserts/Images/album/202201/29/193857mzln82ib80i1j8tu.jpg)
 
 
 ### OpenSea 称其上免费创建的 NFT 80% 都是垃圾或剽窃作品

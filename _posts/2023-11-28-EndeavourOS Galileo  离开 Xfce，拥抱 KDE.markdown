@@ -7,7 +7,7 @@ tags:	[linuxcn,EndeavourOS]
 ---
 
 
-![](/Asserts/Images//attachment/album/202311/24/151118d9hh9ltji7990p9j.jpg)
+![](/Asserts/Images/album/202311/24/151118d9hh9ltji7990p9j.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags:	[linuxcn,EndeavourOS]
 ### ? EndeavourOS Galileo: 有些什么新东西?
 
 
-![](/Asserts/Images//attachment/album/202311/24/151142evrr8cnv2neyjvyy.jpg)
+![](/Asserts/Images/album/202311/24/151142evrr8cnv2neyjvyy.jpg)
 
 
 尽管这个版本花费了一些时间才发布，但这是**一次重大升级，带来了一些重要的变化**。其中最明显的变化是转向了 KDE Plasma，以及放弃了 Xfce，稍后我们将详细讨论这一点。
@@ -50,7 +50,7 @@ tags:	[linuxcn,EndeavourOS]
 #### 改进了 “欢迎” 应用
 
 
-![](/Asserts/Images//attachment/album/202311/24/151142in4npp9n3p4kpdne.png)
+![](/Asserts/Images/album/202311/24/151142in4npp9n3p4kpdne.png)
 
 
 在安装过程中显示的 “欢迎” 应用已经改进，现在它在左下角具有专门的**语言选择选项**。
@@ -62,7 +62,7 @@ tags:	[linuxcn,EndeavourOS]
 #### Calamares 安装程序调整
 
 
-![](/Asserts/Images//attachment/album/202311/24/151143de9exne9m5eem4tq.png)
+![](/Asserts/Images/album/202311/24/151143de9exne9m5eem4tq.png)
 
 
 为了配合 KDE Plasma 成为默认选择，EndeavourOS Galileo 上的 [Calamares](https://calamares.io/) 安装程序**在安装过程中只允许安装一个桌面环境/窗口管理器**。
@@ -80,7 +80,7 @@ tags:	[linuxcn,EndeavourOS]
 #### KDE Plasma 取代 Xfce
 
 
-![](/Asserts/Images//attachment/album/202311/24/151143sngz92u2b2nnynbb.jpg)
+![](/Asserts/Images/album/202311/24/151143sngz92u2b2nnynbb.jpg)
 
 
 未来，**KDE Plasma 将成为默认的桌面环境**，运行在立付环境和离线安装上，取代了 Xfce。
