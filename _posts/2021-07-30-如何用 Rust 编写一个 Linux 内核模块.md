@@ -1,7 +1,7 @@
 ---
 layout: post
-title:	""
-date:	 +0800 
+title:	"如何用 Rust 编写一个 Linux 内核模块"
+date:	2021-07-06 12:34:00 +0800 
 categories:	软件开发 linuxcn 
 tags:	[linuxcn,]
 ---

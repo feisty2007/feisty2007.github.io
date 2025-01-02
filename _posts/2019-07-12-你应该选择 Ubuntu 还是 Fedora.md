@@ -1,7 +1,7 @@
 ---
 layout: post
-title:	""
-date:	 +0800 
+title:	"你应该选择 Ubuntu 还是 Fedora"
+date:	2019-07-10 18:46:23 +0800 
 categories:	观点 linuxcn 
 tags:	[linuxcn,]
 ---

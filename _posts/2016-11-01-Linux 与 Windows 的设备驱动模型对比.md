@@ -1,7 +1,7 @@
 ---
 layout: post
-title:	""
-date:	 +0800 
+title:	"Linux 与 Windows 的设备驱动模型对比：架构、API 和开发环境比较"
+date:	2016-11-09 13:06:00 +0800 
 categories:	软件开发 linuxcn 
 tags:	[linuxcn,]
 ---

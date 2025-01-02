@@ -1,7 +1,7 @@
 ---
 layout: post
-title:	""
-date:	 +0800 
+title:	"Windows 赢了桌面，而 Linux 赢得整个世界"
+date:	2017-03-29 08:47:00 +0800 
 categories:	观点 linuxcn 
 tags:	[linuxcn,]
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:	""
-date:	 +0800 
+title:	"世界上只有两个 Linux 发行版：Arch Linux 与其它"
+date:	2023-03-16 09:16:00 +0800 
 categories:	技术 linuxcn 
 tags:	[linuxcn,]
 ---
-
-��种几率很大
+- date: '2023-03-17 01:36:14'
+  message: 种几率很大
   postip: 27.45.112.183
   username: 来自广东江门的 Firefox 102.0|GNU/Linux 用户
 - date: '2023-03-17 01:36:14'
